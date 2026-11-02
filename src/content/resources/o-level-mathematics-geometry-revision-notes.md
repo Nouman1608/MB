@@ -52,6 +52,12 @@ Quadrilateral properties worth recalling:
 | Kite | two pairs of adjacent equal sides; one diagonal is a line of symmetry |
 | Trapezium | one pair of parallel sides |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
+</figure>
+
+
 ## 4.2 Constructions and nets
 
 Method for a triangle with sides a, b and c:
@@ -66,6 +72,27 @@ A ruler is used for all straight edges. Perpendicular and angle bisector constru
 Nets: a cube has 6 square faces; a triangular prism has 2 triangles and 3 rectangles; a square-based pyramid has a square and 4 triangles. Measure lengths from the net to find surface area (add the areas of all faces) and volume.
 
 Reminder: a triangular prism with a right-angled triangle end of sides 6, 8 and 10 cm and length 12 cm has surface area 2 × 24 + (6 + 8 + 10) × 12 = 336 cm² and volume 24 × 12 = 288 cm³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-geometry--01-geo-rhombus-construction.webp" width="900" height="900" alt="A rhombus ABCD built on a 6 cm diagonal AC, with 5 cm arcs from A and C crossing at B and D. The diagonals meet at right angles and half the second diagonal is 4 cm, so BD is 8 cm." loading="lazy">
+  <figcaption>Two arcs of radius 5 cm from each end of the 6 cm diagonal fix the rhombus; BD comes out at 8 cm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--09-solid-counts.webp" width="900" height="990" alt="A triangular prism (5 faces, 9 edges, 6 vertices) and a square-based pyramid (5 faces, 8 edges, 5 vertices) with hidden edges dashed and vertices marked. For both, faces + vertices - edges = 2." loading="lazy">
+  <figcaption>Count faces, edges and vertices from a drawing, and check with F + V - E = 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--02-triangle-three-sides.webp" width="900" height="810" alt="Triangle ABC with AB 9 cm. An arc of radius 7.5 cm from A and an arc of radius 6 cm from B cross at C, and AC and BC are joined. Angles are about 41, 56 and 83 degrees." loading="lazy">
+  <figcaption>Construct a triangle from three sides with compasses, keeping the arcs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--03-pyramid-net.webp" width="900" height="1130" alt="Net of a square-based pyramid: 6 cm square (area 36) and four triangles 5 cm high (area 15 each), so surface area 96 cm squared. A 3-4-5 right-angled triangle shows the vertical height is 4 cm, so volume is 48 cm cubed." loading="lazy">
+  <figcaption>The slant height 5 is not the vertical height 4 used in the volume.</figcaption>
+</figure>
+
 
 ## 4.3 Scale drawings and bearings
 
@@ -83,6 +110,22 @@ Steps for a bearing problem:
 3. If the bearing of B from A is below 180°, the bearing of A from B is that plus 180°; if it is 180° or more, subtract 180°.
 
 Compass points: due east is 090°, due south is 180°, due west is 270°. If point D is due east of point C, the bearing of D from C is 090° and of C from D is 270°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-geometry--04-ship-bearings-route.webp" width="900" height="710" alt="Scale drawing of a ship sailing 40 km on 065 degrees from P to Q, then 30 km on 140 degrees to R. PR is about 56 km and R is on a bearing of about 096 degrees from P." loading="lazy">
+  <figcaption>Worked example from the lesson drawn to scale: PR is about 56 km on a bearing of about 096°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--05-reverse-bearings.webp" width="900" height="990" alt="Points P and Q each with a parallel north line. Bearing of Q from P is 063 degrees; bearing of P from Q is 243 degrees, which is 063 plus 180." loading="lazy">
+  <figcaption>The two bearings between a pair of points differ by 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
 
 ## 4.4 Similarity
 
@@ -104,6 +147,27 @@ Method in steps:
 Showing two triangles are similar: list equal angle pairs, each with a reason (common angle, corresponding angles, alternate angles, vertically opposite angles). Two equal pairs are enough. Then write the matching sides as equal ratios.
 
 Worked reminder: triangles PQR and PST are similar, with ST parallel to QR, S on PQ and T on PR. PS = 3 cm, PQ = 7.5 cm and ST = 4 cm. Scale factor = 7.5 ÷ 3 = 2.5, so QR = 4 × 2.5 = 10 cm. The areas are in the ratio 1 : 6.25.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-geometry--02-geo-similar-de-parallel-bc.webp" width="900" height="970" alt="Triangle ABC with DE parallel to BC, AD 4 cm, DB 2 cm and DE 5 cm. Scale factor 1.5 gives BC 7.5 cm; the areas of ADE, ABC and DBCE are 32, 72 and 40 cm squared." loading="lazy">
+  <figcaption>The scale factor is 1.5, so BC is 7.5 cm and the area ratio is 4 : 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-geometry--03-geo-similar-crossing-lines.webp" width="900" height="830" alt="Lines AB and CD cross at X with AC parallel to BD. Equal vertically opposite and alternate angles make XAC and XBD similar, with k = 9/6 = 1.5, so BD = 8 x 1.5 = 12 cm." loading="lazy">
+  <figcaption>Two pairs of equal angles prove similarity and give BD = 12 cm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--03-similar-triangles-parallel.webp" width="900" height="930" alt="Triangle ADE sits inside triangle ABC with DE parallel to BC. Angle A is shared and the angles at D and B, and at E and C, are equal, so the triangles are similar with scale factor 9 / 6 = 1.5. BC = 8 x 1.5 = 12 cm." loading="lazy">
+  <figcaption>A line parallel to one side creates a smaller similar triangle; the scale factor gives the unknown side.</figcaption>
+</figure>
+
 
 ## 4.5 Symmetry
 

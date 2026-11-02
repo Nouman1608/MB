@@ -49,6 +49,17 @@ Example (Country C, illustrative): 104.0 to 106.6. Change 2.6; 2.6 / 104.0 = 0.0
 
 Disinflation check: inflation of 3.0%, then 2.1%, then 1.2% from an index of 100 gives 103.00, 105.16, 106.42. The index rises each year, so prices rise more slowly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--01-price-index-three-terms.webp" width="900" height="920" alt="A line chart of a price index starting at 100. Country B inflation of 6%, 4% and 2% gives an index of 100, 106, 110.24 and 112.44, so prices keep rising more slowly: disinflation. A second line falls from 100 to 98 (minus 2%): deflation." loading="lazy">
+  <figcaption>Falling inflation is disinflation; only a falling index is deflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--06-saver-purchasing-power.webp" width="900" height="870" alt="Bars show what 10,000 held for five years buys in today's pounds at 4% inflation, falling to 8,219, a loss of 17.8%." loading="lazy">
+  <figcaption>Savers lose purchasing power: 10,000 buys what 8,219 does today after five years of 4% inflation.</figcaption>
+</figure>
+
+
 ## Demand-pull and cost-push at a glance
 
 | | Demand-pull | Cost-push |
@@ -61,6 +72,22 @@ Disinflation check: inflation of 3.0%, then 2.1%, then 1.2% from an index of 100
 Chain for demand-pull: more spending, firms near capacity, prices and wages bid up, general price level rises. Chain for cost-push: costs rise, firms pass on, SRAS shifts left, price level rises and output falls.
 
 Evaluation prompts: spare capacity decides how much of an AD rise becomes prices rather than output; both types often combine; continued cost-push needs accommodating spending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## MV = PQ in steps
 
@@ -88,6 +115,17 @@ Criticisms: V unstable (recession, hoarding, new payment methods); Q can rise in
 - Real interest rate ≈ nominal − inflation. Nominal 6% and inflation 2%: exactly 1.06 / 1.02 − 1 = 3.92%. Nominal 4% and inflation 5%: −0.95%, so savers lose.
 - Real wage: pay up 2.5% with inflation of 4% gives 1.025 / 1.04 − 1 = −1.44%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--04-real-interest-rate.webp" width="900" height="850" alt="A nominal rate of 5% with expected inflation of 3% leaves a real rate of about 2%. Exactly, 1.05 / 1.03 = 1.0194, a real return of 1.94%." loading="lazy">
+  <figcaption>A 5% nominal rate with 3% expected inflation gives a real rate of 1.94%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--05-expectations-loop.webp" width="900" height="870" alt="A four step loop: workers expect 4% inflation, claim at least 4% more pay, firms pass it on in prices, and actual inflation keeps expectations high. A credible target breaks the loop." loading="lazy">
+  <figcaption>Adaptive expectations let high inflation sustain itself; a credible target holds it down.</figcaption>
+</figure>
+
+
 ## Consequences: who and how much
 
 | | Inflation | Deflation |
@@ -101,11 +139,28 @@ Criticisms: V unstable (recession, hoarding, new payment methods); Q can rise in
 
 Judgement points: rate, stability, whether anticipated, and cause. Inflation that is low and expected is much less harmful. Deflation is benign when supply-side gains cause it and malign when AD falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--07-deflation-debt-burden.webp" width="900" height="780" alt="A fixed debt of 90,000 is 2.25 times an income of 40,000. After three years of 2% falls income is 37,648 and the ratio is 2.39." loading="lazy">
+  <figcaption>With a fixed money debt, falling incomes raise the debt-to-income ratio from 2.25 to 2.39.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## External influences
 
 - World commodity prices: direct effect = weight in index × % price change; indirect through costs of production (cost-push). A weaker currency raises the domestic price of dollar-priced goods.
 - Fuel weight 4% and a price rise of 30%: direct effect 1.2 percentage points.
 - Other economies: import prices, exchange rate, export demand, and competition. Growth abroad raises UK AD; a slump abroad lowers it; cheaper imports hold down prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--08-weight-times-price-rise.webp" width="900" height="800" alt="Rectangles with width equal to weight and height equal to the price rise: fuel 6% x 25% = 1.5 points, imports 30% x 10% = 3.0 points (illustrative weight)." loading="lazy">
+  <figcaption>Direct contribution to inflation is weight times price rise: 1.5 points for fuel, 3.0 for imports.</figcaption>
+</figure>
+
 
 ## Deflationary policies
 
@@ -129,6 +184,12 @@ A one-line sketch of the sequence for an AD rise near full capacity: AD up, shor
 Commodity and exchange rate. A raw material costs 50 dollars and the rate is 1.60 home-currency units per dollar, so the domestic price is 50 × 1.60 = 80. The dollar price rises 10% to 55, giving 55 × 1.60 = 88, also +10%. If the home currency also weakens to 1.76 units per dollar, the price is 55 × 1.76 = 96.8, a rise of **21.0%** on the original 80. A falling currency magnifies a world price rise.
 
 Real debt under deflation. A household owes 60,000 on an income of 30,000, a ratio of 2.0. Prices and income fall 1% a year for 2 years, so income is 30,000 × 0.99² = 29,403 and the ratio is 60,000 / 29,403 = **2.04**. The debt has not changed in money terms, but it is harder to repay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--03-commodity-price-exchange-rate.webp" width="900" height="810" alt="Three bars show the domestic price of a commodity: 160 at 80 dollars and 2.00 per dollar, 192 (+20%) at 96 dollars and 2.00, and 211.2 (+32%) at 96 dollars and 2.20. A weaker currency magnifies the rise." loading="lazy">
+  <figcaption>A 20% dollar price rise becomes a 32% domestic rise when the currency also weakens.</figcaption>
+</figure>
+
 
 ## Evaluation phrases that earn credit
 

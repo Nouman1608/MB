@@ -150,6 +150,12 @@ b = 302/42 = 151/21 ≈ 7.19. x̄ = 4.5 and ȳ = 68, so a = 68 − (151/21)(4.5)
 
 **y = 35.6 + 7.19x** (3 s.f.). Check: at x = 4.5 the line gives 68. To draw it, plot (1, 42.8) and (8, 93.2), or use (x̄, ȳ) as one point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--02-c-least-squares.webp" width="900" height="890" alt="Eight machines: age against monthly repair cost with least-squares line y = 35.6 + 7.19x through the mean point (4.5, 68), dashed gaps to the line and a gradient triangle showing +7.19 per year." loading="lazy">
+  <figcaption>The least-squares line makes the sum of squared vertical gaps as small as possible and passes through the mean point.</figcaption>
+</figure>
+
+
 ## Using the line: explanatory and response variables (4.2)
 
 The explanatory (independent) variable is the one you choose or use to explain the other. The response (dependent) variable is the one you predict. In Example 6, age is explanatory and cost is the response. The specification allows letters other than x and y, so read the question to see which variable is which.
@@ -158,6 +164,12 @@ The explanatory (independent) variable is the one you choose or use to explain t
 - The constant a is the predicted y when x = 0. It means something only if x = 0 makes sense and is near the data.
 - Predicting inside the range of x in the data (interpolation) is reasonable. At x = 6.5 the line gives 35.6 + 7.19(6.5) ≈ £82.4.
 - Predicting outside the range (extrapolation) is risky because the pattern may not continue. At x = 12 the line gives about £122, but no machine older than 8 years was observed, so you cannot trust it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--03-c-interpolate-extrapolate.webp" width="900" height="910" alt="The same regression line with the data range 1 to 8 years shaded. A prediction at 6.5 years (82.4 pounds) is inside the range; at 12 years (122 pounds) it is outside and unreliable." loading="lazy">
+  <figcaption>Predict inside the range of the data, not outside it.</figcaption>
+</figure>
+
 
 ## Linear change of variable (4.2)
 
@@ -168,6 +180,12 @@ Data are sometimes coded, for example p = (T − 1990)/10 and q = (C − 20)/5. 
 C = 20 + 5q = 20 + 5(2.4 + 0.8p) = 32 + 4p = 32 + 4(T − 1990)/10 = 32 + 0.4T − 796.
 
 **C = 0.4T − 764.** At T = 2004: C = 801.6 − 764 = 37.6. This is interpolation (2004 is inside 1990 to 2010).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--07-c-coding.webp" width="900" height="1040" alt="The line q = 2.4 + 0.8p in coded variables and the line C = 0.4T - 764 in original units, with the point T = 2004, C = 37.6 marked on both." loading="lazy">
+  <figcaption>Substituting p = (T-1990)/10 and q = (C-20)/5 back turns the coded line into the original line.</figcaption>
+</figure>
+
 
 ## Product moment correlation coefficient (4.3)
 
@@ -183,6 +201,27 @@ Limitations to state in your own words:
 - r measures only linear association. If y = (x − 5)² for x = 1, 2, …, 9, the points fit a curve perfectly, yet r = 0.
 - A single outlier can change r a lot.
 - A high r does not make extrapolation safe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--01-c-what-r-shows.webp" width="900" height="1100" alt="Six scatter diagrams of 12 points with computed r: 1, about 0.96, about 0.49, about -0.10, about -0.96 and -1. Closer to a line means r nearer 1 or -1 and the sign gives the direction." loading="lazy">
+  <figcaption>How close the points lie to a straight line, and which way it slopes, decide r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
+  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
+  <figcaption>A single outlier can change r a lot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--06-c-same-r-different-slope.webp" width="900" height="900" alt="The same points with y values multiplied by 6 give the same r (about 0.96) although the gradient changes from 0.5 to about 2.9." loading="lazy">
+  <figcaption>r measures how tightly the points hug a line, not how steep the line is.</figcaption>
+</figure>
+
 
 ## Common errors
 

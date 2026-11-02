@@ -48,6 +48,12 @@ Purposes:
 
 Forecasts matter because a business can be profitable and still fail if it cannot pay bills when they fall due. The syllabus links lack of finance to business failure: bankruptcy, liquidation and administration (5.1.1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+
 ## Layout and balances
 
 A forecast has three blocks: cash inflows, cash outflows and the balances.
@@ -85,6 +91,17 @@ Building the inflows: January cash sales are 40% of £12,000 = £4,800, and cred
 
 Check one column. March: 19,800 − 22,500 = −2,700, and 3,700 − 2,700 = 1,000. The March closing balance becomes the April opening balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--05-lymmerton-table.webp" width="900" height="940" alt="Full forecast table in pounds, January to April: inflows, outflows, net cash flow, opening and closing balances. Closing balances 3,200, 3,700, 1,000, 3,050; March closing becomes April opening." loading="lazy">
+  <figcaption>Each closing balance carries forward as the next opening balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Interpreting a forecast
 
 Read a forecast in this order.
@@ -111,6 +128,12 @@ In February the studio learns two things. A large customer cancels, so March sal
 - April credit receipts fall to 60% of £12,000 = £7,200, so inflows are 6,000 + 7,200 = £13,200. Outflows are 5,250 + 5,500 + 1,500 + 900 + 400 = £13,550. Net = −350, and the April closing balance is −700 − 350 = −£1,050.
 
 The business now expects to be overdrawn by £700 in March and by £1,050 in April. No April cost changed, yet April got worse because of the March carry-forward and the lower credit receipts. That knock-on effect is a common point to make in analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--06-forecast-amend.webp" width="900" height="990" alt="Line chart of closing balances. Original: 3,200, 3,700, 1,000, 3,050. Amended: 3,200, 3,700, minus 700 in March and minus 1,050 in April, both below zero (overdrawn)." loading="lazy">
+  <figcaption>One late change flows through every later month because closing balances carry forward.</figcaption>
+</figure>
+
 
 ## Limitations of forecasts
 
@@ -152,6 +175,22 @@ Ossington sells to cafes on credit. Credit sales are £20,000 a month and custom
 
 A good answer weighs these. The discount is cheap relative to the cash gained but depends on customers taking it. The stock reduction is a one-off. Factoring gives quick cash but at a cost, and the fee makes the sale less profitable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--07-debt-factoring.webp" width="900" height="940" alt="A bar of 15,000 pounds of invoices: 12,000 advanced at once (80%), 450 kept as a 3% fee, and 2,550 passed on when customers pay." loading="lazy">
+  <figcaption>Factoring brings cash in quickly but the fee reduces the profit on the sale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--06-cash-methods.webp" width="900" height="1015" alt="Twelve methods in four groups (cash in sooner, cash out later, cash out less, new money in), each with its main drawback." loading="lazy">
+  <figcaption>Every method of improving cash flow has a price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--08-ossington-levers.webp" width="900" height="930" alt="A 2% discount brings 6,000 pounds forward 50 days, receiving 5,880 and costing 120 a month. Cutting stock from 8,000 to 6,000 frees 2,000 pounds once." loading="lazy">
+  <figcaption>The discount recurs each month; the stock cut frees cash only once.</figcaption>
+</figure>
+
+
 ## Choosing and judging a method
 
 Match the method to the problem.
@@ -163,6 +202,12 @@ Match the method to the problem.
 - A method that harms customers or suppliers may fix this month's cash and damage the business later.
 
 For evaluation, weigh cost, speed, how long the effect lasts, the risk to relationships, and what the forecast shows about the size and length of the problem. Then give a justified judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--07-match-method.webp" width="900" height="970" alt="A temporary dip below zero suits an overdraft or longer supplier credit; a permanent gap needs long-term finance; slow customers need credit control or factoring; idle assets can be sold or leased back." loading="lazy">
+  <figcaption>Choose the method by the size and length of the problem.</figcaption>
+</figure>
+
 
 ## In the exam
 

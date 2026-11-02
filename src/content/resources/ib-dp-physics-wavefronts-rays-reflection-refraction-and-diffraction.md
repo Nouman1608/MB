@@ -49,6 +49,12 @@ A **wavefront** is a line (in two dimensions) or surface (in three) joining poin
 
 The distance between neighbouring wavefronts of the same type is one wavelength. Each point on a wavefront can be treated as a source of new circular wavelets, and the new wavefront is the line that touches them. This explains why straight wavefronts stay straight and why they curve at an edge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--01-wavefronts-rays.webp" width="900" height="1090" alt="Concentric circular wavefronts from a point source with outward rays, and flat wavefronts from a distant source with parallel rays. Rays cross wavefronts at 90 degrees and neighbouring wavefronts are one wavelength apart." loading="lazy">
+  <figcaption>Rays point along the direction of travel and cross wavefronts at right angles.</figcaption>
+</figure>
+
+
 ## Reflection and transmission
 
 When a wave meets a boundary between two media, three things can happen to its energy. Some is **reflected** back into the first medium, some is **transmitted** into the second, and some may be absorbed. The frequency of the wave does not change at the boundary, because the source sets it. The speed and wavelength can change.
@@ -68,6 +74,12 @@ On a wavefront diagram the reflected wavefronts are the same spacing as the inci
 - The angle between the two rays is 2 × 55° = 110°.
 
 A common slip is to give 35° as the angle of incidence. Always check what the angle is measured from.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--02-reflection.webp" width="900" height="940" alt="A ray meets a plane mirror at 35 degrees to the surface, so the angle of incidence from the normal is 55 degrees. The reflected ray also leaves at 55 degrees, and the angle between the two rays is 110 degrees." loading="lazy">
+  <figcaption>Measure angles from the normal: 35 degrees to the mirror means 55 degrees of incidence.</figcaption>
+</figure>
+
 
 ## Refraction and Snell's law
 
@@ -122,6 +134,17 @@ The ray bends towards the normal, as expected for a higher refractive index.
 
 On the wavefront diagram the lines are closer together in the shallow region and the rays are closer to the normal. The same equation works for any wave, which is why the guide writes it in terms of speeds as well as refractive indices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--03-refraction-wavefronts.webp" width="900" height="1000" alt="Water waves go from deep water at 0.30 m/s into a shallow shelf at 0.21 m/s with the same 6.0 Hz frequency. Wavelength shrinks from 0.050 m to 0.035 m, wavefronts get closer, and the ray moves from 40 to 26.7 degrees from the normal." loading="lazy">
+  <figcaption>Slower medium, same frequency: shorter wavelength and a ray nearer the normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--04-snell-light.webp" width="900" height="1150" alt="Light of 550 nm enters a liquid of index 1.47 at 52.0 degrees and refracts to 32.4 degrees, towards the normal. A wave drawn across the boundary has the same frequency, but speed falls to 2.04 x 10^8 m/s and wavelength to 374 nm." loading="lazy">
+  <figcaption>Frequency is fixed by the source; speed and wavelength change in the same ratio.</figcaption>
+</figure>
+
+
 ## Critical angle and total internal reflection
 
 Now suppose a ray travels from a medium of higher refractive index n1 into one of lower refractive index n2, for example glass into air. It bends away from the normal. As the angle of incidence grows, the angle of refraction grows faster, and eventually reaches 90°, so the refracted ray runs along the boundary. The angle of incidence at which this happens is the **critical angle**, C.
@@ -142,6 +165,17 @@ At angles below C a ray is partly reflected and partly transmitted. If n1 < n2, 
 - (a) sin C = 1.36 / 1.55 = 0.8774, so C = 61.3°.
 - (b) In air, sin C = 1.00 / 1.55 = 0.6452, so C = 40.2°. The angle of incidence, 45°, is greater than 40.2°, so the ray is totally internally reflected.
 - In the liquid, 45° is less than 61.3°, so there is no total internal reflection. Part of the ray leaves the prism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--05-critical-angle.webp" width="900" height="1160" alt="Rays in glass of index 1.55 meet the glass-air boundary. Below the critical angle of 40.2 degrees the ray mostly refracts away from the normal; at 40.2 degrees it travels along the boundary; above it the ray is totally internally reflected." loading="lazy">
+  <figcaption>At the critical angle the refracted ray runs along the boundary; beyond it all the light is reflected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--06-prism-tir.webp" width="900" height="1060" alt="A ray enters a 45-45-90 glass prism along the normal and meets the long face at 45 degrees. In air the critical angle is 40.2 degrees so the ray is totally internally reflected and turns through 90 degrees. In a liquid of index 1.36 the critical angle is 61.3 degrees, so part of the ray leaves." loading="lazy">
+  <figcaption>The same 45 degree ray is totally reflected in air but not in the liquid.</figcaption>
+</figure>
+
 
 ## Diffraction
 
@@ -165,6 +199,17 @@ For a wave passing a body, the wave bends round the sides and fills in part of t
 - Sound: λ = 340 / 500 = 0.68 m, comparable to the doorway, so the sound spreads into the room and can be heard around the corner.
 - Radio: λ = 3.00 × 10⁸ / 1.00 × 10⁸ = 3.0 m, larger than the doorway, so it spreads strongly.
 - Light: λ is about a million times smaller than the gap, so there is no noticeable spreading and a sharp shadow edge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--07-diffraction-gap.webp" width="900" height="1130" alt="Plane wavefronts meet a barrier gap. A gap of five wavelengths lets the wave through almost unchanged with clear shadows. A gap of one wavelength gives nearly semicircular wavefronts that spread widely. Wavefront spacing is the same on both sides." loading="lazy">
+  <figcaption>Narrower gaps spread the wave more; the wavelength does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--08-diffraction-doorway.webp" width="900" height="900" alt="On a log scale of wavelength divided by gap for a 0.90 m doorway, light (5 x 10^-7 m) is about a million times smaller than the gap and casts a sharp shadow. Sound (0.68 m) and radio (3.0 m) are comparable to or larger than the gap and spread strongly." loading="lazy">
+  <figcaption>Waves spread most when their wavelength is similar to or larger than the gap.</figcaption>
+</figure>
+
 
 ## Common errors
 

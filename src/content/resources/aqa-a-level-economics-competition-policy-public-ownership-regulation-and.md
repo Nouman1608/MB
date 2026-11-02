@@ -82,6 +82,27 @@ The break-even saving is where total surplus equals £800 thousand. With MC = c,
 
 A cartel of four firms gains £12 million a year for 3 years, so £36 million. Assume the fine is 10% of one year's turnover of £150 million, so £15 million, and the chance of being caught is 20%. Expected fine = 0.2 × 15 = £3 million, far below £36 million. Even with certain detection, £15 million is less than the £36 million gain. Deterrence needs a higher chance of detection (for example whistleblower leniency), fines linked to the length of the offence, and personal penalties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--06-merger-diagram.webp" width="900" height="1210" alt="Two demand diagrams with P = 100 minus Q. Before the merger price equals marginal cost 60 and output 40, consumer surplus 800. After the merger one firm cuts marginal cost to 50 and sets marginal revenue equal to marginal cost: output 25, price 75, consumer surplus 312.5 and profit 625. Price is 25% higher." loading="lazy">
+  <figcaption>A merged firm with lower cost still charges a higher price and consumers lose surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--07-merger-surplus.webp" width="900" height="940" alt="Stacked bars of consumer and producer surplus: 800 before the merger, 937.5 if marginal cost falls by 10 and 661.5 if it falls by 2. Total surplus only matches 800 if marginal cost falls below about 53.81, a saving above 6.19. Consumers lose in both merger cases." loading="lazy">
+  <figcaption>Whether a merger is allowed depends on the size of the cost saving and on whose welfare counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--09-cartel-fine-deterrence.webp" width="900" height="770" alt="Bars show the cartel gain of 36 million pounds, a fine of 15 million if caught and an expected fine of 3 million at a 20% chance of detection. Even certain detection leaves the fine below the gain. Deterrence needs more detection, fines linked to length of offence, and personal penalties." loading="lazy">
+  <figcaption>The expected fine is far below the cartel gain, so the penalty does not deter on its own.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
+
 ## Public ownership and privatisation
 
 **Public ownership** means the state owns and runs the firm. **Privatisation** transfers a state-owned enterprise to private owners.
@@ -113,6 +134,17 @@ The efficiency gain is real in both cases, but who gets it depends on regulation
 
 The sale price also matters. At a discount rate of 6%, £40 million a year forever is worth 40/0.06 = £666.7 million. Selling for £500 million gives away £166.7 million of value to buyers. The simple calculation ignores that the state could itself improve efficiency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--08-privatisation-raillink.webp" width="900" height="1170" alt="Rectangles of price by units sold. State-owned RailLink earns profit 40 million. After privatisation cost falls 12 percent to 44. Unregulated, price 66 and 3.5 million sold give profit 77 million; with a price cap at 58, 4.1 million sold give profit 57.4 million, so consumers share the gain." loading="lazy">
+  <figcaption>Privatisation can cut costs, but without regulation the owners keep the gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--10-sale-price-valuation.webp" width="900" height="680" alt="A stream of 40 million pounds a year for ever, divided by 0.06, is worth 666.7 million. A sale at 500 million gives away 166.7 million of value. The simple calculation ignores that the state could improve efficiency itself." loading="lazy">
+  <figcaption>Selling a state firm for less than the value of its profits transfers value to the buyers.</figcaption>
+</figure>
+
+
 ## Regulation and deregulation
 
 **Regulation** is rules set by the state or a regulator, and in the UK includes independent regulators for utilities such as energy, water, telecoms and rail. Tools include price caps, quality standards and service obligations.
@@ -139,6 +171,22 @@ If the firm really cuts costs by 5% a year but X is only 2, it keeps the extra 3
 
 **Regulatory capture** occurs when a regulator comes to serve the industry it regulates instead of the public. Causes: reliance on the firms for information, a revolving door of staff between regulator and industry, lobbying, and the fact that firms care intensely while consumers are dispersed. Results: weaker rules, higher prices and barriers to entry that protect incumbents. Safeguards: independent funding, transparency, cooling-off periods for staff and the right of appeal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--09-price-cap-rpi-x.webp" width="900" height="890" alt="Price index over five years under a cap of inflation minus 2: 102.00, 103.02, 106.11, 106.11, 108.23, against about 119.3 if prices rose with inflation. Permitted rises are 2, 1, 3, 0 and 2 percent for inflation of 4, 3, 5, 2 and 4 percent." loading="lazy">
+  <figcaption>A price cap of inflation minus X lets prices rise more slowly than inflation, so real prices fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--11-price-cap-windfall.webp" width="900" height="600" alt="A firm with costs of 80 million pounds really cuts them 5% a year (4.0 million). The cap counts only X = 2% (1.6 million), so the firm keeps the extra 3% (2.4 million) as windfall profit because the regulator cannot see true costs." loading="lazy">
+  <figcaption>If X is set below the true efficiency gain, the firm keeps the difference as windfall profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--12-regulatory-capture.webp" width="900" height="940" alt="Four causes (reliance on firms for information, revolving door, lobbying, firms caring intensely while consumers are scattered) lead to a regulator serving the industry, giving weaker rules, higher prices and entry barriers that protect incumbents. Safeguards: independent funding, transparency, cooling-off periods and right of appeal." loading="lazy">
+  <figcaption>Regulatory capture links causes, results and safeguards in one picture.</figcaption>
+</figure>
+
+
 ## Government failure
 
 **Government failure** occurs when intervention leads to a misallocation of resources, so that welfare is lower than it could be. There are five main sources.
@@ -162,6 +210,17 @@ The tax creates exactly the same loss as no tax. The cause is inadequate informa
 **Unintended consequences.** A high tax may drive buyers to illegal supply or cross-border shopping; subsidies may be captured by suppliers through higher prices; protecting a firm from failure encourages risk-taking.
 
 **Evaluation.** Government failure does not mean the market should be left alone. Compare actual market failure with realistic government failure. Look at the size of each, whether the instrument is flexible, how reversible it is, and how long it takes to work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--10-government-failure-tax.webp" width="900" height="930" alt="Marginal private benefit, private cost and social cost with an external cost of 20. With no tax output is 40 and the welfare loss is 100. The right tax of 20 gives output 30. A tax of 40 cuts output to 20, which is too low, and the welfare loss is again 100." loading="lazy">
+  <figcaption>Intervention based on wrong information can cause as much harm as the market failure it was meant to correct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Common errors
 

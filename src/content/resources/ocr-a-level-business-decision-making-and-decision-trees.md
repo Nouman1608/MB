@@ -70,6 +70,12 @@ Short-term, medium-term and long-term decisions differ in how far ahead their ef
 
 Strategic decisions set the frame, tactical decisions fit inside it, and operational decisions carry it out daily. Time horizon and level often line up (strategic with long-term, operational with short-term) but they are different ideas. A cash crisis next week may be a short-term decision that is nevertheless strategic for survival.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--05-dm-three-levels.webp" width="900" height="1030" alt="Three stacked bars: strategic decisions by senior managers for the whole business (enter a new region), tactical by middle managers for one function (seasonal promotion) and operational by supervisors and teams daily (tomorrow's baking rota). An arrow shows the higher level is wider, costlier and harder to reverse." loading="lazy">
+  <figcaption>Strategic decisions set the frame, tactical ones fit inside it and operational ones carry it out.</figcaption>
+</figure>
+
+
 ## Factors to take into account
 
 - Level of risk: how much the business could lose against how much it could gain. A business with thin reserves can accept less risk than one with large reserves.
@@ -116,6 +122,17 @@ net gain = EV - cost of the option
 
 Work from right to left, calculating EVs at chance nodes and choosing the best at decision nodes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ## Worked example 1: a single decision
 
 Pelmoor Dairy is choosing between a new bottling line (cost £90,000) and outsourcing bottling (cost £25,000). Do nothing costs and earns nothing.
@@ -131,6 +148,12 @@ Outsource: 70% chance of £80,000, 30% chance of £35,000.
 5. Do nothing: £0.
 
 The line has the higher net gain by £21,500. Interpret: it is the better bet on average, but the worst case is 30,000 - 90,000 = a £60,000 loss, while outsourcing's worst case is 35,000 - 25,000 = a £10,000 gain. A cautious owner may still outsource.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--03-dm-pelmoor-average-worst.webp" width="900" height="930" alt="Each option is shown as a bar from its worst to its best net result with the chance of each outcome and the average. The bottling line averages 63,000 pounds but can lose 60,000; outsourcing averages 41,500 and always gains at least 10,000; doing nothing is zero." loading="lazy">
+  <figcaption>Higher average net gain does not remove a deeper worst case.</figcaption>
+</figure>
+
 
 ## Worked example 2: a two-stage tree
 
@@ -149,6 +172,12 @@ Do not launch -> 0
 4. Net gain of launching: 116,400 - 60,000 = £56,400, against £0 for not launching.
 
 The tree recommends launching, then expanding if demand is high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--04-dt-two-stage-tree.webp" width="900" height="1170" alt="A decision tree: launch (cost 60,000) or not. High demand (0.4) leads to a second decision, stay for 140,000 or expand for 30,000 with 0.7 chance of 300,000 and 0.3 of 120,000; low demand (0.6) gives 50,000. Working right to left gives 216,000 for expanding, 116,400 at the launch node and a net gain of 56,400." loading="lazy">
+  <figcaption>Work right to left: solve the later decision first, then the first chance node.</figcaption>
+</figure>
+
 
 ## Evaluating a tree
 

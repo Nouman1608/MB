@@ -65,6 +65,12 @@ Some organisms, such as strawberries and many fungi, can use both methods. That 
 
 **Variation and environmental pressures.** Environmental pressures include disease, predators, competition for food, and changes in temperature or water supply. A population of clones is fine while conditions suit it. If a new pressure appears, no clone may have a feature that helps it survive, so the whole population is at risk. A population with variation is more likely to contain some individuals that survive. A real example is the potato, which is grown from tubers and so is propagated as a clone. When a potato blight pathogen spread through Ireland in the 1840s, the crop failed on a vast scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--08-clones-vs-variation.webp" width="900" height="790" alt="Left, 25 identical clones are all infected by a new disease. Right, 25 varied plants: only one variant (5 of 25) is infected, so 20 survive. The survivor numbers are illustrative." loading="lazy">
+  <figcaption>Clones all share a weakness, but a varied population keeps survivors.</figcaption>
+</figure>
+
+
 ### Worked example 1: comparing growth
 
 A bacterium divides by binary fission every 30 minutes. How many bacteria can one cell give rise to in 4 hours, if no cell dies?
@@ -75,6 +81,12 @@ A bacterium divides by binary fission every 30 minutes. How many bacteria can on
 
 The answer is **256 bacteria**. A human couple would not have 256 children in 4 hours, or in a lifetime. This is why speed and numbers are real advantages of asexual reproduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
+
 ### Worked example 2: a data question
 
 A gardener plants one strawberry plant. In one year it sends out 4 runners, and each runner forms a new plant that grows to full size by the next year and then does the same.
@@ -83,6 +95,17 @@ A gardener plants one strawberry plant. In one year it sends out 4 runners, and 
 - Each plant produces 4 runners in year 2, so there are 5 × 4 = 20 new plants, and a total of 5 + 20 = 25.
 
 The ratio of plants after year 2 to plants at the start is 25 : 1. All 25 are clones, so one disease that can infect the original can infect them all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--04-bacteria-vs-birth.webp" width="900" height="880" alt="One bacterium dividing every 30 minutes gives 1, 2, 4 up to 256 cells in 4 hours. A human usually has one baby per birth and a mouse a litter of several young." loading="lazy">
+  <figcaption>Asexual reproduction can give hundreds of offspring in hours; humans usually have one per birth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
 
 ## Haploid and diploid (B5.1g)
 
@@ -108,6 +131,17 @@ A pea plant has 14 chromosomes in each leaf cell. State (a) the number of chromo
 
 (a) Pollen nuclei are gametes, so they are haploid: 14 ÷ 2 = **7**.
 (b) Fertilisation adds the two haploid sets: 7 + 7 = **14**, so the cell is diploid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--07-haploid-diploid-numbers.webp" width="900" height="1010" alt="Chromosomes drawn as rods in pairs for fruit fly (2n = 8), pea (2n = 14) and human (2n = 46), with gametes showing one of each pair (n = 4, 7, 23). Fertilisation restores the diploid number." loading="lazy">
+  <figcaption>Gametes are haploid with one of each pair; fertilisation restores 2n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## Meiosis (B5.1h)
 
@@ -154,6 +188,22 @@ A fruit fly has 4 pairs of chromosomes. What is the probability that a gamete co
 
 - For each pair the chance of getting the paternal chromosome is 1/2.
 - The pairs separate independently, so multiply: (1/2)⁴ = 1/16, which is **0.0625**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--05-meiosis-steps.webp" width="900" height="1010" alt="A cell with two pairs of chromosomes copies its DNA, separates the pairs in the first division and the copies in the second, giving four haploid cells." loading="lazy">
+  <figcaption>Meiosis: DNA copied, pairs separate, then copies separate to give four haploid cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--06-independent-assortment.webp" width="900" height="990" alt="Two pairs of chromosomes give four equally likely gamete types. Each extra pair doubles the choices: 2, 4, 8 and 8 388 608 for 23 pairs. Fertilisation gives about 7.04 x 10^13 zygotes." loading="lazy">
+  <figcaption>Each pair separates independently, so 23 pairs give 2^23 = 8 388 608 gamete types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
 
 ## Common errors
 

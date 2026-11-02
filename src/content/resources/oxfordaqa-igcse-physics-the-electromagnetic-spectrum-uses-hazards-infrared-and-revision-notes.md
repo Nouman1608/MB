@@ -52,6 +52,17 @@ Within visible light, red has the longest wavelength and violet the shortest.
 
 **Must-know distinction.** Speed is the same for all groups in a vacuum. Frequency, wavelength and energy differ. Higher frequency means shorter wavelength and more energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--04-em-wave-equation-scale.webp" width="900" height="1100" alt="A log scale of wavelength from 10^4 m to 10^-15 m with the lesson worked examples: 10^4 m gives 3.0x10^4 Hz, 1.8 GHz gives 0.17 m, 532 nm gives 5.64x10^14 Hz, 0.020 nm gives 1.5x10^19 Hz and 10^-15 m gives 3.0x10^23 Hz." loading="lazy">
+  <figcaption>Shorter wavelength means higher frequency, because c is the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## Wave equation method
 
 wave speed = frequency × wavelength, with c = 3.00 × 10⁸ m/s
@@ -97,11 +108,28 @@ A wave has frequency 6.0 × 10¹⁶ Hz. Wavelength, and which group?
 
 **Reasoning pattern.** "The matt black can's temperature rose more, so it absorbed more infrared." Link the observation to the property.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--03-cans-absorb-emit.webp" width="900" height="1030" alt="Heated for ten minutes the black can rises 18 degrees and the silver can 6; cooled from 85 degrees the black can falls 24 and the silver can 12. Black is the better absorber and emitter." loading="lazy">
+  <figcaption>Matt black cans heat up and cool down faster than shiny silver ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
+
 ## Black-body radiation (Physics only)
 
 - As an object heats up it radiates more infrared **and** radiates at higher frequencies.
 - Black-body radiation is the range of electromagnetic radiation emitted by an object at a particular temperature.
 - A warm object gives out mainly infrared. A much hotter object also gives out visible light, first red, then brighter and whiter as the range reaches higher frequencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--03-black-body-curves.webp" width="900" height="930" alt="Three curves of radiation against frequency for 1000, 2000 and 3000 K. Hotter objects emit more at every frequency and their peak is at a higher frequency. The visible band is shaded." loading="lazy">
+  <figcaption>A hotter object gives out more radiation and reaches higher frequencies.</figcaption>
+</figure>
+
 
 ## Matching a property to a use
 
@@ -137,6 +165,12 @@ Communication: radio waves, microwaves, infrared and visible light.
 
 **Rule.** Low-energy waves: heating. High-energy waves: ionisation, which is the removal of an electron from an atom or molecule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--05-em-hazards-protection.webp" width="900" height="1000" alt="Five waves in order of energy with hazard and protection. Microwaves and infrared heat tissue; ultraviolet, X-rays and gamma rays ionise, causing skin cancer and blindness, cell death and mutations." loading="lazy">
+  <figcaption>Low-energy waves heat; high-energy waves ionise.</figcaption>
+</figure>
+
+
 ## X-rays
 
 - Very short wavelength, high energy, cause ionisation.
@@ -151,6 +185,12 @@ Communication: radio waves, microwaves, infrared and visible light.
 2. Soft tissue transmits most of them, so that part of the film is exposed.
 3. Bone absorbs them strongly, so less reaches the film behind it.
 4. The difference shows the bone, and a break appears as a gap or line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--04-xray-bone-image.webp" width="900" height="680" alt="X-rays pass from a source through an arm to film. Rays through soft tissue are transmitted and darken the film; rays meeting bone are absorbed, leaving a pale shadow of the bone." loading="lazy">
+  <figcaption>Bone absorbs X-rays and shows as a pale shadow on the film.</figcaption>
+</figure>
+
 
 ## Precautions with ionising radiation
 

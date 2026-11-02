@@ -56,6 +56,12 @@ Sales growth if sales reach £81,000 = (81,000 - 72,000) / 72,000 x 100 = 12.5%
 
 Objectives can pull in different directions. Cutting prices to win market share usually lowers profit on each unit sold. A new firm may accept low profit for a time to build sales, while an established firm with loyal customers may focus on profit. Always tie your answer to the firm in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--03-market-share-vs-growth.webp" width="900" height="1010" alt="Two 10x10 grids show 12 percent and a 15 percent target share of a 600,000 pound market, then bars show sales growth of 12.5 percent. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Market share and sales growth are measured differently.</figcaption>
+</figure>
+
+
 ## Types of cost
 
 **Fixed costs** do not change when output changes, for example rent, insurance and a manager's salary. **Variable costs** change with output, for example materials, packaging and pay per item made. Whether a cost is fixed or variable depends on how it is paid, so read the wording. A salary is fixed. Pay for each paddle finished is variable.
@@ -91,6 +97,17 @@ Here variable cost per unit is held at £30 to keep the arithmetic simple. Avera
 
 Total fixed cost stays at £4,000 in every row. Total cost still rises, because total variable cost rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--01-afc-falls.webp" width="900" height="1070" alt="Fixed cost per paddle falls from 40 to 10 pounds as output rises from 100 to 400. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Same fixed bill shared by more units, so average cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Types of revenue
 
 **Total revenue (TR)** is the money from sales: **TR = price x quantity sold**. **Average revenue (AR)** is the revenue earned on each unit: **AR = TR / quantity sold**. If every unit sells at one price, AR equals the price.
@@ -117,6 +134,17 @@ Profit per paddle = 65 - 50 = £15   (check: 15 x 200 = 3,000)
 
 Check your answer by working both ways. If total profit is not profit per unit times units sold, something is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--02-profit-actions.webp" width="900" height="1010" alt="Profit for five actions: 3,000 start, 3,400, 3,900, 3,200 and 1,400. The last has a higher price but lower profit because sales fall too far. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>A higher price does not guarantee higher profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+
 ## How a firm may raise profit
 
 Profit rises if revenue rises by more than costs, or costs fall without losing revenue. In the specification's words, a firm may aim to increase profit by **reducing average costs** and/or **increasing revenues**. Take Riverside's £3,000 profit as the starting point (200 paddles, £65).
@@ -135,6 +163,12 @@ The last row shows that a higher price does not guarantee higher total profit (t
 Holding costs the same, a higher market price means a bigger gap between price and average cost on each unit. At £65 with AC £50, profit per paddle is £15. If the price rises to £75, profit per paddle becomes £25. Producers expect higher profits, so existing firms produce more and new firms may enter. This is why a supply curve slopes upward: higher prices give producers the incentive to supply more.
 
 A short chain for an exam answer: **price rises, so profit per unit rises (costs unchanged), so supplying more is more attractive, so firms expand output.** Add that the incentive only works if the firm can produce more without its costs rising sharply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--09-price-gap-expansion.webp" width="900" height="1030" alt="At average cost £50, a price of £65 leaves a £15 gap per paddle and a price of £75 leaves £25. The bigger gap encourages expansion." loading="lazy">
+  <figcaption>A higher price widens the gap over average cost and encourages expansion.</figcaption>
+</figure>
+
 
 ## Moral and ethical considerations
 
@@ -163,6 +197,12 @@ A good evaluation weighs both sides and reaches a judgement:
 - **For the firm:** in the short run profit rises, owners and shareholders benefit, and a firm in a tough market may feel it must cut costs to survive.
 - **Context:** the answer depends on how strong the laws are, whether customers know and care, and whether the firm is large enough to be noticed.
 - **Judgement:** ethical conduct often protects long-run profit, so a firm that sees only the short run risks losing more than it gains. Not every ethical choice raises profit, and some cost the firm money, so a firm may need regulation or customer pressure to behave well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--08-ethics-profit-stream.webp" width="900" height="1010" alt="Dumping waste cuts average cost from £14 to £11.50, raising profit on 20,000 shirts from £40,000 to £90,000. Local people lose clean water and wildlife is harmed." loading="lazy">
+  <figcaption>The firm gains £50,000 while others bear the cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

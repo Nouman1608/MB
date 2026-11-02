@@ -71,6 +71,27 @@ Demand elasticity at the start is −5 × 32 ÷ 240 = −0.67 and supply elastic
 
 Evaluation: external cost is difficult to put a value on, so the rate chosen may be wrong. If demand is inelastic, quantity barely falls and the tax mostly raises revenue. The tax may be regressive, and revenue may fund other policies. Producers may pass the tax on, or avoid it by illegal sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--06-specific-vs-20pc-tax.webp" width="900" height="950" alt="A supply curve with a specific tax of 6 (parallel shift, gap 6) and a 20 percent tax (pivot, gap 4, 6, 8 at seller prices 20, 30, 40)." loading="lazy">
+  <figcaption>A specific tax shifts supply in parallel; an ad valorem tax pivots it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--07-ad-valorem-incidence.webp" width="900" height="1010" alt="Qd = 400 - 5P, Qs = -80 + 10P with a 20 percent tax. Sellers keep 30, buyers pay 36, quantity falls from 240 to 220. Buyers bear 880, sellers 440, revenue 1,320, lost surplus 60. Axes are zoomed in." loading="lazy">
+  <figcaption>Worked example 1: buyers bear two thirds of the 20 percent tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
+
 ## Subsidies
 
 A subsidy is a payment per unit that shifts supply down. It is used to raise output of a merit good, or of a good with positive externalities.
@@ -83,6 +104,12 @@ A subsidy is a payment per unit that shifts supply down. It is used to raise out
 4. Cost = 15 × 500 = 7,500 cu. Welfare gain = ½ × 15 × (500 − 400) = 750 cu.
 
 The subsidy costs ten times the net welfare gain, because most of the money goes on units that would have been bought anyway. Evaluation: it needs taxes to fund it, providers may keep the money as profit, the external benefit is hard to value, and it can create dependence. It also lowers the price for poorer households, which helps equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--08-subsidy-external-benefit.webp" width="900" height="1020" alt="MPB 70 - 0.1Q, MSB 85 - 0.1Q, MC 10 + 0.05Q. The market gives 400 at 30, the optimum is 500 at 35. A subsidy of 15 gives 500: families pay 20, providers get 35. Welfare gain 750 against a cost of 7,500." loading="lazy">
+  <figcaption>Worked example 3: the subsidy costs ten times the welfare gain.</figcaption>
+</figure>
+
 
 ## Price controls
 
@@ -103,6 +130,17 @@ A maximum price below equilibrium creates a shortage. A minimum price above equi
 
 Evaluation: with inelastic demand, consumption falls by less than the price rise. Heavy users may cut other spending. Cross-border or illegal buying can leak. A tax would transfer the extra revenue to the state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--01-black-market-price-60.webp" width="900" height="840" alt="Demand Qd = 600 - 6P and supply Qs = -120 + 12P meet at price 40, quantity 360. A maximum price of 30 gives demand 420 and supply 240, a shortage of 180. Buyers would pay 60 for the 240th unit, so a black market at 60 is likely. The welfare loss triangle is 1,800." loading="lazy">
+  <figcaption>Worked example 4: a maximum price of 30 leaves a shortage of 180 and a black-market price of 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--02-minimum-price-ped.webp" width="900" height="850" alt="Demand Qd = 800 - 10P and supply Qs = -160 + 20P meet at 32 and 480. A minimum price of 40 cuts demand to 400 (-16.7%) while price rises 25%, so PED is -0.67. Supply is 640, a surplus of 240, and spending rises from 15,360 to 16,000." loading="lazy">
+  <figcaption>Worked example 5: a minimum price raises price 25% and cuts consumption 16.7%, so demand is inelastic.</figcaption>
+</figure>
+
+
 ## Production quotas
 
 A quota sets a maximum output. Supply becomes vertical at the quota, so price rises.
@@ -115,11 +153,28 @@ A quota sets a maximum output. Supply becomes vertical at the quota, so price ri
 
 So a quota and a tax can reach the same output. The difference is who gets the rent. A quota gives certainty about quantity, which suits a limited stock. Evaluation: it is hard to allocate fairly, people may cheat, and it protects existing producers. A tax adjusts more easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--09-quota-rent-vs-tax.webp" width="900" height="940" alt="Demand price 150 - 0.125Q and supply price 24 + 0.1Q. A quota of 440 gives price 95 against a supply price of 68; the 27 gap is a quota rent of 11,880 kept by quota holders. A tax of 27 gives the same price and the government collects the 11,880." loading="lazy">
+  <figcaption>Worked example 6: a quota and an equivalent tax differ only in who gets the rent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ## Prohibitions and licences
 
 A prohibition bans a product or activity, as with an unsafe additive. It removes the harm if enforced, but demand may move to a black market with no quality control, and enforcement costs are high.
 
 A licence limits who can supply. **Worked example 7.** A city issues 150 street-trading licences at 400 cu each, raising 60,000 cu. Inspection costs 45,000 cu, so net revenue is 15,000 cu. Licences can enforce standards and limit numbers, but they restrict entry and can raise prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--03-licences-net-revenue.webp" width="900" height="680" alt="150 licences at 400 cu raise 60,000 cu. Inspection costs 45,000 cu, leaving net revenue of 15,000 cu." loading="lazy">
+  <figcaption>Worked example 7: licence fees of 60,000 leave 15,000 after inspection costs.</figcaption>
+</figure>
+
 
 ## Regulation and deregulation
 
@@ -133,9 +188,21 @@ Regulation covers legal standards and controls on price, quality or entry. Take 
 
 Evaluation: the regulator lacks cost information, firms may cut quality, and regulators can be captured by the industry. Deregulation removes entry barriers or rules to add competition. If entry forces the price down towards average cost, consumers gain. But it can reduce safety or quality and cause service cuts to unprofitable users.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--10-price-cap-natural-monopoly.webp" width="900" height="920" alt="Demand P = 120 - Q, MC 20, AC 20 + 1,600/Q. Unregulated: 50 at 70, profit 900. Cap at AC 40: 80 units, zero profit. Cap at MC 20: 100 units, loss 1,600." loading="lazy">
+  <figcaption>Worked example 8: a price cap at average cost raises output with zero profit.</figcaption>
+</figure>
+
+
 ## Direct provision
 
 The state supplies public goods, which are non-excludable, so private firms cannot charge. **Worked example 9.** Flood defences protect 4,000 households, each worth 150 cu a year. Benefit = 600,000 cu and cost = 480,000 cu, so the ratio is 1.25 and net benefit is 120,000 cu. Evaluation: it ignores the market, may be wasteful, depends on tax revenue, and free supply can lead to over-use of merit goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--04-flood-defence-benefit-cost.webp" width="900" height="730" alt="Four blocks of 1,000 households, each worth 150 cu a year, give a benefit of 600,000 cu. Cost is 480,000 cu, so net benefit is 120,000 cu and the benefit-cost ratio is 1.25." loading="lazy">
+  <figcaption>Worked example 9: a benefit of 600,000 against a cost of 480,000 gives a ratio of 1.25.</figcaption>
+</figure>
+
 
 ## Common errors
 

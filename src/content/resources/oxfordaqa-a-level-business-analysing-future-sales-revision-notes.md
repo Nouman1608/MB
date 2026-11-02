@@ -86,6 +86,12 @@ Each Pebblewick cook can prepare up to 140 orders a week. How many cooks does th
 
 Round **up** to **6 cooks**: five would leave about 130 orders unmade. This is the "use" half of the specification point: a forecast only earns marks when you turn it into a decision. In an answer, add one line of caution, for example that five weeks of café data may include a holiday rush that will not repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--06-moving-average.webp" width="900" height="920" alt="A line chart of Corvasse monthly sales with the three-month averages plotted against the middle month. The averages rise every month. The dashed forecast continues the trend from July: 531 in September and 546 in October." loading="lazy">
+  <figcaption>Moving averages smooth the ups and downs; extend the trend from the month of the last average.</figcaption>
+</figure>
+
+
 ## Evaluation checklist for forecasting questions
 
 When a question asks you to evaluate a forecast or a decision based on one, test it against these five points:
@@ -126,6 +132,12 @@ Finish with a judgement: how far should the business rely on the forecast, and w
 - Formal panels take time and money.
 - Staff whose bonus depends on beating a target may forecast low.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
+  <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
+</figure>
+
+
 ## Value of sales forecasting
 
 - Turns uncertainty into a planning figure.
@@ -154,6 +166,12 @@ Finish with a judgement: how far should the business rely on the forecast, and w
 | Strategy | Whether to expand, enter new markets or invest in new capacity |
 
 Forecasting is also one of the ways to manage risk listed in section 3.4.6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -191,6 +209,12 @@ Forecasting is also one of the ways to manage risk listed in section 3.4.6.
 10. (414 − 450) ÷ 450 × 100 = **−8%** (sales were below forecast).
 11. **Human resources**.
 12. Surplus inventory, raising storage costs and tying up cash (or idle capacity).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">
+  <figcaption>Forecast error compares actual with forecast as a percentage of the forecast.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -45,6 +45,12 @@ Links: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checklist](/ch
 - AaBb on different chromosomes gives AB, Ab, aB, ab, each ¼.
 - Combinations of chromosomes from orientation alone = 2ⁿ for n pairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--01-independent-assortment.webp" width="900" height="920" alt="Two AaBb cells in metaphase I show the two equally likely chromosome orientations. Orientation 1 gives gametes AB and ab; orientation 2 gives Ab and aB. All four types are each one quarter, and n pairs give 2^n orientations (8 for n = 3, 8 388 608 for n = 23)." loading="lazy">
+  <figcaption>Random orientation of bivalents makes four equally likely gamete types.</figcaption>
+</figure>
+
+
 ## D3.2.17: Punnett grids and ratios
 
 | Cross | Offspring phenotype ratio |
@@ -78,6 +84,22 @@ For linked genes the same four offspring classes appear, but in unequal numbers.
 
 **Nature of science:** the ratios rest on Mendel's second law. It fails when genes are close together on one chromosome. All biological "laws" have exceptions under some conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--02-punnett-9331.webp" width="900" height="970" alt="A 4 by 4 Punnett grid for EeNn x EeNn with cells coloured by phenotype. It gives 9 grey normal, 3 grey vestigial, 3 ebony normal and 1 ebony vestigial, a 9:3:3:1 ratio, with nine genotypes in the ratio 1:2:1:2:4:2:1:2:1." loading="lazy">
+  <figcaption>The 16-cell grid gives the 9:3:3:1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--03-why-9331-area-model.webp" width="900" height="960" alt="A square split 3/4 : 1/4 in both directions, so each phenotype is a rectangle whose area is a product of probabilities. The areas are 9/16, 3/16, 3/16 and 1/16, matching the 16 cells of the Punnett grid." loading="lazy">
+  <figcaption>Multiplying two independent 3:1 ratios gives 9:3:3:1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--04-test-cross-1111.webp" width="900" height="930" alt="Each of the four equally likely gametes from EeNn combines with the only tester gamete en. The four offspring genotypes EeNn, Eenn, eeNn and eenn are each one quarter, giving 1:1:1:1." loading="lazy">
+  <figcaption>A test cross shows the heterozygote's four gametes directly.</figcaption>
+</figure>
+
+
 ## D3.2.18: gene loci in databases
 
 | Gene | Product | Locus |
@@ -99,6 +121,17 @@ For linked genes the same four offspring classes appear, but in unequal numbers.
 - Closer loci: fewer crossovers, fewer recombinants.
 - Maximum recombinant frequency is 50%, which is the value for unlinked genes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--05-linked-genes-notation.webp" width="900" height="970" alt="Homologues are drawn as bars with S and H loci. SH over sh means S and H on the same chromosome; Sh over sH means they are on opposite chromosomes. Without crossing over only two gamete types form, each one half." loading="lazy">
+  <figcaption>Which alleles share a chromosome decides the parental gametes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--06-crossing-over-recombinants.webp" width="900" height="1010" alt="A chiasma between the S and H loci swaps the lower ends of two non-sister chromatids. The four chromatids are SH and sh (parental) and Sh and sH (recombinant), so at most 2 of 4 gametes, 50%, are recombinant." loading="lazy">
+  <figcaption>Crossing over between the loci produces recombinant gametes, at most 50%.</figcaption>
+</figure>
+
+
 ## D3.2.20: recombinants in a test cross
 
 **Method in steps**
@@ -112,6 +145,12 @@ For linked genes the same four offspring classes appear, but in unequal numbers.
 **Worked reminder.** An invented fish with RT | rt is crossed with rt | rt. Of 300 offspring: RT 104, rt 96, Rt 52, rT 48. Recombinants = 52 + 48 = 100. Frequency = 100/300 × 100 = **33.3%**. This is below 50%, so linkage is indicated, though loosely.
 
 If the heterozygote is Rt | rT, the parental gametes are Rt and rT, so the recombinants are RT and rt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--07-recombinant-frequency.webp" width="900" height="1190" alt="Bar charts for two test crosses of 500 offspring. Cross 1 (SH/sh): recombinants 43 + 38 = 81, 16.2%. Cross 2 (Sh/sH): recombinants 27 + 24 = 51, 10.2%. A dashed line at 125 marks the count per class if genes were unlinked." loading="lazy">
+  <figcaption>Recombinants are the two small classes, but which phenotypes they are depends on the parent arrangement.</figcaption>
+</figure>
+
 
 ## D3.2.21: chi-squared test
 
@@ -141,6 +180,17 @@ If the heterozygote is Rt | rT, the parental gametes are Rt and rT, so the recom
 χ² = 841/75 + 441/75 + 529/75 + 729/75 = 11.21 + 5.88 + 7.05 + 9.72 = **33.9**. This is above 7.81, so reject the null hypothesis. The genes are not assorting independently, which fits the 33.3% recombinant frequency.
 
 **Model wording for a conclusion.** "Calculated χ² is 33.9 and the critical value for 3 degrees of freedom at p = 0.05 is 7.81. Because 33.9 is greater, the difference between observed and expected is significant, so the null hypothesis is rejected. The two genes are probably linked."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--08-chi-squared-unlinked.webp" width="900" height="980" alt="Observed 218, 83, 71, 28 against expected 225, 75, 75, 25 for 400 flies. The chi-squared terms add to 1.64, below the critical value 7.81 (3 degrees of freedom, p = 0.05), so the null hypothesis is not rejected." loading="lazy">
+  <figcaption>1.64 is below 7.81, so the data fit 9:3:3:1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--09-chi-squared-linked.webp" width="900" height="980" alt="Observed 214, 205, 43, 38 against 125 expected in each class. The chi-squared terms add to 228.9, far above 7.81, so the null hypothesis is rejected, supporting linkage." loading="lazy">
+  <figcaption>228.9 is far above 7.81, so independent assortment is rejected.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -62,6 +62,12 @@ A fair plan also includes:
 
 **Sampling (1.2d).** A sample must represent the whole. Take seeds at random from the pack, not the biggest ones. In the field, use random positions (for example, random coordinates for quadrats) and enough of them. Too few samples can give a mean that is not typical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--09-variables-plan.webp" width="900" height="980" alt="Four dishes of radish seedlings hold 0, 1, 2 and 4 grams of nitrate per cubic decimetre, with 0 as the water control. Root length in millimetres is measured with a ruler from seed to root tip. Six controlled factors are shown: temperature, light, 10 cm3 of solution, seed variety, seed size and five days." loading="lazy">
+  <figcaption>Independent, dependent and control variables for the nitrate investigation.</figcaption>
+</figure>
+
+
 ## 2. Carrying out and recording (2a, 2b)
 
 - Read the whole instruction sheet before you start, then follow it in order.
@@ -76,6 +82,12 @@ A fair plan also includes:
 |---|---|---|
 | 0 | 21, 24, 23, 24, 26, 22, 24, 25, 23, 28 | 24.0 |
 | 2 | 36, 38, 35, 34, 36, 37, 35, 61, 36, 37 | see section 3 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--10-table-layout.webp" width="900" height="960" alt="A wrong table repeats units in every cell. A right table gives the independent variable first and puts units in the headings only, with plain numbers in the cells. Readings are in whole millimetres to match the ruler." loading="lazy">
+  <figcaption>Put units in table headings, not in every cell.</figcaption>
+</figure>
+
 
 ## 3. Averages, range and anomalies (1.3c, 1.3d)
 
@@ -94,6 +106,12 @@ Mean = total of values / number of values. Median is the middle value of the ord
 
 **Conclusion by comparison.** Percentage change = (36.0 - 24.0) / 24.0 x 100 = 50%. Mean root length is 50% greater with nitrate. The two results, 24.0 ± 3.5 mm (up to 27.5) and 36.0 ± 2.0 mm (down to 34.0), do not overlap, which supports the hypothesis. Compare the spread, not only the means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--04-anomaly-mean-median.webp" width="900" height="850" alt="Dot plot of ten root lengths (mm). Nine lie between 34 and 38; one, 61, is circled as an anomaly. Mean with 61 is 38.5 mm, without it 36.0 mm; median is 36 mm either way." loading="lazy">
+  <figcaption>The anomaly shifts the mean from 36.0 to 38.5 mm but not the median.</figcaption>
+</figure>
+
+
 ## 4. Quality of data (1.3g, 1.3h)
 
 | Term | Meaning |
@@ -109,6 +127,12 @@ Mean = total of values / number of values. Median is the middle value of the ord
 - A is precise (spread 0.2 cm³) and accurate (mean 10.0 cm³).
 - B is precise (spread 0.1 cm³) but not accurate (mean 11.4 cm³). The error is the same each time, so it is systematic, for example a scale that reads about 1.4 cm³ too high.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--03-accuracy-precision.webp" width="900" height="930" alt="Dot plot on a number line from 9.5 to 12.0 cm3 with a dashed true value at 10.0. Student A (10.1, 9.9, 10.0) is close together and centred on 10.0. Student B (11.4, 11.5, 11.4) is close together but about 1.4 higher every time: a systematic error." loading="lazy">
+  <figcaption>Precise means close together; accurate means close to the true value.</figcaption>
+</figure>
+
+
 ## 5. Sampling in the field (1.2d, 1.3c)
 
 **Worked example 5.** Twelve random 0.25 m² quadrats on a lawn give snail counts of 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 6, 2.
@@ -118,6 +142,12 @@ Mean = total of values / number of values. Median is the middle value of the ord
 - Estimate for a 400 m² lawn = 16 x 400 = 6400 snails.
 
 This is an estimate, and it is only as good as the sample. More quadrats give a better estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--12-quadrat-snails.webp" width="900" height="940" alt="Twelve random quadrats on a 400 square metre lawn give counts totalling 48. The mean is 4.0 per quadrat, which is 16 per square metre, so the estimate is 6400 snails." loading="lazy">
+  <figcaption>Mean 4.0 per quadrat gives 16 per m2 and an estimate of 6400 snails.</figcaption>
+</figure>
+
 
 ## 6. Presenting data (2c, 1.3a, 1.3b)
 
@@ -135,6 +165,12 @@ Graph rules: independent variable on the x axis; axes labelled with quantity and
 
 **Translating data (1.3b).** A graph can be turned back into a table or described in words: "as concentration increases, mean root length increases then levels off".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--11-graph-choice.webp" width="900" height="1000" alt="A scatter graph with best-fit line from the yeast data suits two numerical variables. A bar chart with gaps suits categories. A histogram with touching bars suits grouped continuous data." loading="lazy">
+  <figcaption>Choose a line or scatter graph, bar chart or histogram to fit the data.</figcaption>
+</figure>
+
+
 ## 7. Rate from a graph (M4 skills, 1.3e)
 
 **Worked example 6.** Yeast in sugar solution produces carbon dioxide, collected in a gas syringe.
@@ -147,6 +183,12 @@ Points form a straight line of best fit through (0, 0) and (10, 15.0).
 - Gradient = change in volume / change in time = 15.0 / 10 = 1.5 cm³ per min.
 - The equation is y = mx + c with c = 0, so V = 1.5t.
 - At 15 minutes the line predicts 1.5 x 15 = 22.5 cm³. That is extrapolation. It assumes the sugar does not run out, so treat it as a prediction only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--05-rate-gradient.webp" width="900" height="960" alt="Graph of CO2 volume against time with six crosses on a straight line through the origin. A triangle shows 10 min and 15.0 cm3, so the gradient is 1.5 cm3 per min. A dashed extension predicts 22.5 cm3 at 15 min (extrapolation)." loading="lazy">
+  <figcaption>The gradient of the line, 15.0 / 10 = 1.5 cm3 per min, is the rate.</figcaption>
+</figure>
+
 
 ## 8. Units, prefixes and magnification (1.4)
 
@@ -171,6 +213,17 @@ Magnification = size of image / size of real object, with both in the same unit.
 - In standard form, 90 µm = 9.0 x 10⁻⁵ m.
 
 Give answers to a sensible number of significant figures, no more than the data justify.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--13-prefix-magnification.webp" width="900" height="990" alt="A prefix list from tera to nano, with milli and micro highlighted. A 90 micrometre cell is drawn 63 mm long. 63 mm is 63 000 micrometres, and 63 000 divided by 90 gives a magnification of x700." loading="lazy">
+  <figcaption>Convert to the same unit, then divide: 63 000 / 90 = x700.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
 
 ## 9. Evaluating and communicating (1.2e, 1.3f, 1.3i, 2d)
 

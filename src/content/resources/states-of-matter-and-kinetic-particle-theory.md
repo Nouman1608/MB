@@ -73,6 +73,12 @@ spaces between its particles.
 liquids and gases, and describe their structures in terms of particle separation,
 arrangement and motion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
+
 ### Changes of state
 
 Melting, boiling, evaporating, freezing and condensing are the changes between states.
@@ -95,6 +101,17 @@ melting point the vibrations are strong enough to overcome the forces holding pa
 in fixed positions, and the solid melts. Continued heating increases particle speed until,
 at the boiling point, particles have enough energy to escape the liquid entirely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--04-gas-volume.webp" width="900" height="1220" alt="Top row: pushing a piston down with more force squeezes the same gas into a smaller volume. Bottom row: heating the gas makes particles faster and, at constant pressure, the piston rises so the volume is bigger." loading="lazy">
+  <figcaption>More pressure shrinks a gas; heating it at constant pressure makes it expand.</figcaption>
+</figure>
+
+
 ### Heating and cooling curves
 
 **EXTENDED / SUPPLEMENT (0620) · REQUIRED (5070)** — part of the same "explain changes
@@ -112,6 +129,12 @@ the substance freezes, then falls again.
 
 If you are asked to interpret a curve, identify the plateaus first and state which change
 of state each represents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
+</figure>
+
 
 ## 1.2 Diffusion
 
@@ -131,6 +154,17 @@ average, so lighter gases diffuse more quickly than heavier ones. This is why, i
 classic ammonia and hydrogen chloride experiment, the white ring of ammonium chloride
 forms nearer the hydrogen chloride end of the tube: ammonia, being lighter, has travelled
 further in the same time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp" width="900" height="990" alt="Gas or liquid particles that start crowded on one side spread randomly through the whole box, moving net from high to low concentration. In a solid the particles stay in fixed positions, so nothing spreads." loading="lazy">
+  <figcaption>Diffusion is net movement from high to low concentration, caused by random particle motion; it does not happen in solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

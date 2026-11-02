@@ -59,6 +59,12 @@ A square loop of side 6.0 cm sits in a uniform field of 0.42 T. The normal to th
 
 If you are given the angle to the surface instead, take it away from 90° first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--01-flux-angle.webp" width="900" height="920" alt="Three side views of a loop seen edge-on in a uniform field. With the normal along B (0 degrees) all 8 field lines pass through and flux is 1.51 x 10^-3 Wb; at 60 degrees 4 pass through and flux is 0.76 x 10^-3 Wb; at 90 degrees none pass and flux is zero. The angle is measured to the normal, not to the plane. A worked line gives 1.4 x 10^-3 Wb at 25 degrees." loading="lazy">
+  <figcaption>Flux is BA cos theta, with theta measured from the field to the normal of the loop.</figcaption>
+</figure>
+
+
 ## Faraday's law
 
 When the flux through a coil changes with time, an emf is induced. For a coil of N turns:
@@ -79,6 +85,12 @@ A coil of 120 turns has a flux through it that falls uniformly from 2.4 × 10⁻
 
 If the flux does not change uniformly, ΔΦ/Δt gives the average emf over the interval.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--02-faraday-graph.webp" width="900" height="920" alt="Two aligned graphs for a coil of 120 turns. The flux is constant, falls in a straight line from 2.4 to 0.6 mWb in 0.15 s, then stays constant. The induced emf is zero on the flat parts and a steady 1.44 V while the flux falls, found from N times the change in flux divided by the change in time." loading="lazy">
+  <figcaption>The emf is proportional to the gradient of the flux-time graph and is zero where the flux is constant.</figcaption>
+</figure>
+
+
 ## A conductor moving in a field
 
 Drag a straight conductor of length L through a uniform field B with velocity v perpendicular to both, and the field pushes its free electrons along the conductor. An emf appears between the ends:
@@ -97,6 +109,17 @@ Only the side of the coil that is cutting field lines contributes. Once the whol
 2. Only the 5.0 cm side that is still in the field cuts the lines: emf per turn = BvL = 0.80 × 0.48 × 0.050 = 0.0192 V.
 3. For 40 turns, ε = 40 × 0.0192 = **0.77 V**.
 4. Faraday check: 40 × 0.80 × (0.050 × 0.12) / 0.25 = 0.77 V.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--03-sliding-rod.webp" width="900" height="900" alt="A rod slides right along rails closed at the left, in a field into the page. The enclosed area grows, so the induced current flows anticlockwise, up through the rod, and the force on it points left against the motion; you push to the right. For B 0.075 T, v 3.5 m per second, L 0.36 m and R 0.20 ohm the emf is 0.0945 V, current 0.47 A, force 0.013 N and power 0.045 W, equal to I squared R." loading="lazy">
+  <figcaption>The work you do pushing the rod equals the heat produced in the circuit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--04-coil-leaving-field.webp" width="900" height="940" alt="Three rows show a 40-turn coil moving out of a field into the page. Fully inside, the flux is constant and the emf is zero; while leaving, only the trailing 5.0 cm side cuts the field and the emf is 0.77 V; fully outside there is no flux and the emf is zero. The speed is 0.48 m per second and the emf is N B v L = 0.77 V." loading="lazy">
+  <figcaption>Only the side still in the field contributes, so the emf exists only while the coil is entering or leaving.</figcaption>
+</figure>
+
 
 ## Lenz's law and energy conservation
 
@@ -126,6 +149,12 @@ A rod of length 0.36 m moves at 3.5 m s⁻¹ along rails in a uniform field of 0
 
 The work you do equals the heating in the circuit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--05-lenz-magnet-coil.webp" width="900" height="960" alt="Two panels with a bar magnet facing a coil. Pushing the north pole in raises the flux to the right, so the coil makes a field pointing left and its near end becomes a north pole that repels the magnet. Pulling the magnet out lowers the flux, so the coil makes a field pointing right, its near end becomes a south pole and attracts the magnet back. Either way you feel resistance and do work." loading="lazy">
+  <figcaption>The induced current opposes the change in flux, so it always resists the motion that causes it.</figcaption>
+</figure>
+
+
 ## Rotating coils and generators
 
 Place a flat coil of N turns and area A in a uniform field B, and rotate it at a steady angular speed ω = 2πf about an axis perpendicular to the field. Start the clock when the coil's plane is perpendicular to the field, so the normal is along B. Then θ = ωt and:
@@ -151,6 +180,12 @@ In ε_max = 2πf NBA, only f changes. Doubling the frequency:
 
 Raising the turbine speed therefore raises the voltage and the frequency of the output together. You can also raise the peak emf by increasing N, B or A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--07-generator-frequency.webp" width="900" height="950" alt="Two emf-time waves for the same coil. At 50 Hz the peak is 113 V and the period 20 ms; at 100 Hz the peak doubles to 226 V and the period halves to 10 ms, so the wave is taller and narrower. The peak emf is 2 pi f NBA, so raising N, B or A also raises it." loading="lazy">
+  <figcaption>Doubling the frequency doubles the peak emf and halves the period.</figcaption>
+</figure>
+
+
 ### Worked example 5
 
 A generator coil has N = 200 and area 0.012 m². It turns at 50 Hz in a field of 0.15 T, starting from flux maximum.
@@ -159,6 +194,12 @@ A generator coil has N = 200 and area 0.012 m². It turns at 50 Hz in a field of
 2. ε_max = NBAω = 200 × 0.15 × 0.012 × 314 = **113 V**.
 3. At t = 2.0 ms: ωt = 0.628 rad, so ε = 113 × sin 0.628 = **66 V**.
 4. If the frequency rises to 100 Hz, ε_max = **226 V** and the period falls from 20 ms to 10 ms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--06-rotating-coil.webp" width="900" height="990" alt="The coil is shown end-on at five times in one rotation. Below, the flux is a cosine with maximum 1.8 mWb and the emf is a sine wave with peak 113 V and period 20 ms, for N 200, A 0.012 square metres, B 0.15 T and 50 Hz. The emf is zero when the flux is maximum (face-on) and at its peak when the flux is zero (edge-on); at 2.0 ms the emf is 66 V." loading="lazy">
+  <figcaption>The emf is greatest when the flux is changing fastest, which is when the coil is edge-on to the field.</figcaption>
+</figure>
+
 
 ## Other ways of inducing an emf
 

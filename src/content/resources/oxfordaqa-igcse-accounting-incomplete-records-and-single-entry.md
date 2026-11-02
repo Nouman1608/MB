@@ -67,6 +67,22 @@ Statement of affairs at 1 January:
 
 Opening capital is 9,500. Notice that it is a balancing figure. If you are told opening capital and some assets, you can work backwards to find one missing asset or liability in the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--10-statement-of-affairs.webp" width="900" height="970" alt="Two columns of equal height. Assets of 11,400 on one side; trade payables of 1,900 and capital of 9,500 on the other. Capital is the balancing figure." loading="lazy">
+  <figcaption>Capital is assets less liabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--12-ir-statement-of-affairs.webp" width="900" height="860" alt="Maple Row Cycles has assets of 11,400 at 1 January (equipment 4,800, inventory 3,150, receivables 1,260, bank and cash 2,190) and payables of 1,900, so capital is the balancing figure 9,500." loading="lazy">
+  <figcaption>Capital is assets minus liabilities, the balancing figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--13-ir-profit-from-capital.webp" width="900" height="750" alt="Closing capital 10,780 less opening 9,500 gives a rise of 1,280. Adding drawings of 9,600 and deducting capital introduced of 2,500 gives profit of 8,380." loading="lazy">
+  <figcaption>Profit is the change in capital, with drawings added back and capital introduced deducted.</figcaption>
+</figure>
+
+
 ## Calculating profit from capital
 
 Profit is the increase in capital that came from trading. Drawings reduce capital but are not an expense. Capital introduced raises capital but is not profit. So:
@@ -116,6 +132,17 @@ The count may miss items. Suppose the owner then finds that a customer owing 180
 
 The rule is that any correction to an asset or liability at the closing date changes closing capital, and therefore profit, by the same amount. A correction to the opening position works in reverse. This links to the idea of recording depreciation, provision for doubtful debts, income due and income received in advance in the main financial statements: here you apply them by changing the value of the asset or liability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--11-profit-from-capital-maple.webp" width="900" height="816" alt="Opening capital 9,500 and closing capital 10,780 give a rise of 1,280. Drawings of 9,600 are added back and capital introduced of 2,500 is deducted, giving profit of 8,380." loading="lazy">
+  <figcaption>Profit is the change in capital plus drawings minus capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--12-late-adjustments-capital.webp" width="900" height="660" alt="Profit of 8,380 falls by 180 for a customer who failed and 240 for rent owing to 7,960. Closing capital falls from 10,780 to 10,360." loading="lazy">
+  <figcaption>A correction to a closing asset or liability changes closing capital and profit by the same amount.</figcaption>
+</figure>
+
+
 ## What a profit figure from capital cannot show
 
 The method gives one figure, net profit or loss. It does not give sales, cost of sales, gross profit or expenses. It cannot tell the owner which costs are too high. The figure is also only as good as the valuations. If inventory is counted badly or non-current assets are valued casually, profit moves by the same amount.
@@ -129,6 +156,12 @@ When some records survive, you can often reconstruct sales, purchases and expens
 If the owner kept bank statements or a cash book summary, total each type of receipt and payment. A missing figure, such as drawings or an expense, is found as the balancing figure:
 
 Opening balance + receipts − payments = closing balance
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--11-ir-receipts-payments-summary.webp" width="900" height="830" alt="Bank opening 2,040 plus receipts 40,000 less known payments 29,130 less drawings 9,600 equals closing 3,310. Drawings are the missing figure found by balancing. Receipts and known payments are illustrative." loading="lazy">
+  <figcaption>A missing receipt or payment is found as the balancing figure.</figcaption>
+</figure>
+
 
 ### Totals accounts for trade receivables and trade payables
 
@@ -176,6 +209,22 @@ Credit purchases = 3,300 + 24,600 − 2,700 = 25,200.
 
 If rent or wages were also owing or prepaid, adjust them first. The total rent paid is not automatically the rent expense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--13-totals-accounts-sable-hill.webp" width="900" height="886" alt="A trade receivables total account balances at 43,300 with credit sales as the missing 40,100. A trade payables total account balances at 27,900 with credit purchases as the missing 25,200. Cash sales of 6,200 are added to give sales of 46,300." loading="lazy">
+  <figcaption>Credit sales and credit purchases are the balancing figures in totals accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--14-sable-hill-profit.webp" width="900" height="680" alt="Sales of 46,300 less cost of sales 24,700 give gross profit 21,600. Expenses of 14,500 leave profit of 7,100." loading="lazy">
+  <figcaption>Rebuilt sales and purchases give a full income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--14-ir-sable-hill-totals.webp" width="900" height="934" alt="Total trade receivables: opening 3,200 plus credit sales equals cheques 38,500, discount 400, irrecoverable 300 and closing 4,100 (43,300), so credit sales are 40,100 and sales with 6,200 cash are 46,300. Total trade payables: 24,600 paid plus 3,300 closing equals 2,700 opening plus credit purchases, so purchases are 25,200." loading="lazy">
+  <figcaption>The missing credit sales and purchases are the balancing figures of totals accounts.</figcaption>
+</figure>
+
+
 ## Single entry and double entry compared
 
 In double entry every transaction has a debit and a credit, so the books balance and a trial balance can be extracted. Single entry records one side, usually cash and bank movements.
@@ -188,6 +237,12 @@ In double entry every transaction has a debit and a credit, so the books balance
 Weigh them against the business. A market stall with a few customers might manage on single entry. A trader with credit customers, a bank loan and several staff needs the control double entry gives. A lender or buyer is more likely to trust statements built from double entry records.
 
 Note that double entry does not guarantee accuracy. A trial balance only proves that debits equal credits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--10-ir-single-vs-double.webp" width="900" height="860" alt="Single entry is cheap, quick and needs no training, but has no trial balance and profit needs extra work. Double entry gives a trial balance and ready statements but is slower, costs more and some errors still hide. Match the system to the business." loading="lazy">
+  <figcaption>Each system has benefits and limitations; choose by the size and complexity of the business.</figcaption>
+</figure>
+
 
 ## Common errors
 

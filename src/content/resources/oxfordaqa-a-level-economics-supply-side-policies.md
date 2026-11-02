@@ -43,6 +43,12 @@ A **supply-side improvement** is any gain in how much the economy can produce, o
 
 **Worked example 1.** Output per worker in Country P rises 3.0% in a year. Suppose a study attributes 2.0 percentage points to firms' own machinery and software, and 1.0 point to a training scheme the government funded. The policy accounts for 1.0 / 3.0 = one third of the gain. Two-thirds would have happened anyway. In evaluation, ask how much of an improvement a policy really caused.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--02-ssp-policy-cause.webp" width="900" height="730" alt="Two bars. Output per worker rises 3.0 percent: 2.0 points from firms own investment and 1.0 from a government scheme, so the policy caused one third. A 90 million subsidy is linked to 1,500 jobs but 600 would exist anyway, leaving 900 net jobs: 100,000 cu per net job against 60,000 gross." loading="lazy">
+  <figcaption>Judge a policy by what it caused, not by everything that happened after it.</figcaption>
+</figure>
+
+
 ## How policies feed into the economy's capacity
 
 Policies work by adding to the stock of labour and capital, upgrading its quality, or helping firms use it more productively. In the AD/AS model the long-run aggregate supply (LRAS) curve is vertical at the normal capacity level of output. Effective policies shift it to the right. Some also lower firms' costs and shift short-run aggregate supply (SRAS) to the right. Attitudes, enterprise, factor mobility and incentives all appear in the specification's list of LRAS determinants, which is why incentives matter.
@@ -54,6 +60,22 @@ Policies work by adding to the stock of labour and capital, upgrading its qualit
 - Change: 937.3 / 889.2 − 1 = **5.4%**. Of this, employment grew 2.3% and productivity 3.0%.
 
 A small gain in the trend rate compounds. Suppose trend growth rises from 2.3% to 2.8% for 15 years. Without the change potential output is 1.023^15 = 1.406 times its starting level. With it, 1.028^15 = 1.513. It ends 1.513 / 1.406 − 1 = **7.6%** higher. The gain holds only if the higher trend lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--11-ssp-growth-accounting.webp" width="900" height="1040" alt="Rectangles of workers employed by output per worker give potential output: 889.2 bn cu before, 937.3 bn after (+5.4%, from 2.3% employment and 3.0% productivity). Bars show 15 years at 2.3% (x1.406) versus 2.8% (x1.513), 7.6% higher." loading="lazy">
+  <figcaption>Potential output rises through both more workers and more output per worker.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## Tax changes designed to change incentives
 
@@ -77,6 +99,17 @@ Which is better depends on the target. A rate cut gives the largest incentive to
 
 Investment raises the capital stock, which shifts LRAS right. Evaluation: tax cuts also reward firms that would have invested anyway, and investment depends heavily on confidence about demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--12-ssp-tax-incentive.webp" width="900" height="920" alt="A worker on 26,000 cu: tax 3,600 now, 3,200 with a 10,000 allowance (gain 400; marginal rate unchanged so still keep 800 of an extra 1,000), 3,060 with a 17% rate (gain 540, keep 830)." loading="lazy">
+  <figcaption>An allowance helps the lowest paid; a rate cut raises the reward for extra earnings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--13-ssp-corporation-tax-hurdle.webp" width="900" height="870" alt="Equipment costing 400,000 returns 15% before tax. At 30% corporation tax the return is 10.5%, below the 11% minimum, so no investment; at 22% it is 11.7%, so the firm invests." loading="lazy">
+  <figcaption>A lower corporation tax can lift the after-tax return over the investment hurdle.</figcaption>
+</figure>
+
+
 ## Education and training
 
 Spending on education and training raises human capital, which raises productivity and can reduce structural unemployment by matching workers to jobs. It also has a fiscal side.
@@ -88,6 +121,12 @@ Spending on education and training raises human capital, which raises productivi
 - Payback to the government = 240 / 15.4 = **15.6 years**.
 
 The private return is much faster than the public one. Evaluation: benefits arrive late, some trainees would have found work anyway, and skills must match what employers need.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--01-ssp-apprenticeship-payback.webp" width="900" height="810" alt="Line graph of cumulative cost and tax receipts in millions. The government cost is a flat 240. Extra tax of 15.4 million a year rises from zero and meets the cost at 15.6 years, the government payback period. Before that point the shaded area shows the cost not yet repaid." loading="lazy">
+  <figcaption>The scheme costs 240m and returns 15.4m a year in tax, so the government is repaid after 15.6 years.</figcaption>
+</figure>
+
 
 ## Infrastructure
 
@@ -104,17 +143,35 @@ Reforms change the gap between income in and out of work, and so the incentive t
 
 Evaluation: a gentler withdrawal rate costs more in total, since more people qualify for payments, and weakens support for those who cannot work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--14-ssp-welfare-withdrawal.webp" width="900" height="780" alt="A job paying 170 cu a week with a 40 cu disregard. At 60% withdrawal 78 is lost and the net gain is 92; at 45%, 58.5 is lost and the net gain is 111.5, up 21.2%." loading="lazy">
+  <figcaption>A gentler withdrawal rate raises the net gain from taking a job.</figcaption>
+</figure>
+
+
 ## Deregulation
 
 **Deregulation** removes rules that limit entry or raise costs. More entry should raise competition, lower prices and improve efficiency.
 
 **Worked example 8.** On a coach route, deregulation lets new operators enter. The fare falls from 25 to 21 cu (−16%). Passengers rise from 80,000 to 96,000 (+20%). Price elasticity of demand = +20 / −16 = **−1.25**, elastic. Revenue rises from 2,000,000 to 2,016,000 cu. Evaluation: rules sometimes protect safety, workers or the environment, and gains may reach consumers more than the economy's capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--05-ssp-deregulation-ped.webp" width="900" height="810" alt="Demand curve for a coach route. The fare falls from 25 to 21 cu (-16 percent) and passengers rise from 80,000 to 96,000 (+20 percent), so PED is -1.25. Revenue lost on old passengers is 320 thousand and gained from new passengers 336 thousand, so revenue rises from 2,000,000 to 2,016,000 cu." loading="lazy">
+  <figcaption>With elastic demand, a fall in the fare raises total revenue.</figcaption>
+</figure>
+
+
 ## Industrial policy
 
 Industrial policy is targeted support for particular industries or regions: subsidies, grants, training funds or research support. It can help where private firms under-invest or where an industry takes time to compete.
 
 **Worked example 9.** A 90 million cu subsidy is linked to 1,500 jobs, a gross cost of 60,000 cu a job. If 40% of those jobs would have existed anyway, net jobs = 1,500 × 0.6 = 900, and the cost is 90m / 900 = **100,000 cu per net job**. Evaluation: governments may "pick losers", lobbying can distort choices, and other taxpayers fund it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--10-ssp-adas-worked.webp" width="900" height="1020" alt="AD, SRAS and LRAS from the lesson numbers (axes start above zero). Policy shifts SRAS right: price 100 to 95, output 1,450 to 1,475. If LRAS also rises 3% to 1,545, the output gap widens from -3.3% to -4.5%." loading="lazy">
+  <figcaption>Supply-side policy lowers prices and raises output, but capacity needs demand to use it.</figcaption>
+</figure>
+
 
 ## Effects on unemployment, inflation and the current account
 
@@ -125,6 +182,17 @@ Industrial policy is targeted support for particular industries or regions: subs
 **Worked example 10 (AD/AS).** AD: Y = 1,950 − 5P. SRAS: Y = 550 + 9P. Equilibrium: 14P = 1,400, so P = 100 and Y = 1,450. LRAS is at 1,500, a negative output gap of 3.3%. Supply-side policies move SRAS to Y = 620 + 9P: 14P = 1,330, P = 95, Y = 1,475. The price level falls 5.0%, output rises 1.7%. If LRAS also moves up 3% to 1,545 and AD is unchanged, the gap widens to (1,475 − 1,545) / 1,545 = −4.5%. Unless demand grows too, extra capacity stands idle.
 
 **Current account.** Higher productivity and lower costs raise price and quality competitiveness. Country P's exports of goods are 660 and imports 705, a deficit of 45. After policies exports rise 4.5% to 689.7 and imports fall 2.0% to 690.9, a deficit of 1.2. The current account also includes income and transfers, so the full balance may differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--03-ssp-unemployment-flows.webp" width="900" height="860" alt="Two boxes, In work and Unemployed, with arrows for job loss s = 0.6 percent a month and job finding f. Unemployment rate = s/(s+f): 4.8 percent (about 309,500 of 6.5 million) when f is 12 percent, 3.8 percent (250,000) when f is 15 percent." loading="lazy">
+  <figcaption>Better job matching raises f and lowers the unemployment rate in this illustrative flow model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--04-ssp-unit-labour-cost.webp" width="900" height="830" alt="Two bars showing the change in unit labour cost from a start of 18.00 / 12.0 = 1.500. Pay up 4.5 percent with output per hour up 2.5 percent gives 1.529, up 1.95 percent. With output per hour up 5.5 percent the cost is 1.486, down 0.95 percent." loading="lazy">
+  <figcaption>If productivity rises faster than pay, unit labour cost falls.</figcaption>
+</figure>
+
 
 ## Common errors
 

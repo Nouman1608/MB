@@ -57,6 +57,12 @@ Here is Country A's budget for one year (bn aru, illustrative):
 
 **Worked example 1.** Balance = revenue − spending = 100 − 105 = −5, so Country A runs a **deficit of 5 bn aru**. If GDP is 400 bn aru, the deficit is 5 ÷ 400 × 100 = **1.25% of GDP**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--09-budget-debt.webp" width="900" height="900" alt="Country A collects 100 bn aru and spends 105: a deficit of 5, which is 1.25 percent of GDP 400. Borrowing the deficit raises debt from 175 to 180 (45 percent of GDP). In a later year revenue 108 and spending 102 leave a surplus of 6, repaying debt from 180 to 174." loading="lazy">
+  <figcaption>A deficit is one year; debt is the running total.</figcaption>
+</figure>
+
+
 ### Expansionary and contractionary fiscal policy
 
 | | Expansionary | Contractionary |
@@ -93,6 +99,22 @@ The rounds shrink towards zero. The total is 4 ÷ (1 − 0.75) = **16 bn aru**, 
 
 The tax cut gives a smaller boost because part of it is saved straight away. Its advantage is that households choose how to spend it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--10-multiplier-rounds.webp" width="900" height="940" alt="Government spending rises by 4 bn aru and 0.75 of each round is spent again: rounds of 4.00, 3.00, 2.25, 1.69 and so on, adding up to 4 divided by 0.25 = 16 bn aru." loading="lazy">
+  <figcaption>Each round is 0.75 of the last and the rounds sum to 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--11-spend-vs-tax-cut.webp" width="900" height="940" alt="6 bn aru of spending gives a total rise of 24; a 6 bn aru tax cut has 1.5 saved at once and gives 18. If spare capacity is only 15, about 9 of the 24 pushes up prices instead of output." loading="lazy">
+  <figcaption>A tax cut gives a smaller boost; stimulus beyond spare capacity raises prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--06-multiplier-rounds-075.webp" width="900" height="850" alt="Government spending of 4 bn aru adds 4.00 in round 1, 3.00 in round 2, 2.25 in round 3 and 1.69 in round 4, with 5.06 more from later rounds. The total is 4 divided by 0.25, which is 16 bn aru, 4 percent of a 400 bn aru economy." loading="lazy">
+  <figcaption>Rounds of income shrink geometrically to a total of 16 bn aru.</figcaption>
+</figure>
+
+
 ### Using fiscal policy to achieve objectives
 
 | Objective | Fiscal action | Chain of reasoning |
@@ -104,6 +126,12 @@ The tax cut gives a smaller boost because part of it is saved straight away. Its
 | Reducing inequality | Raise taxes on high incomes; spend more on benefits | Money moves from higher to lower earners, so the gap in disposable income narrows; higher taxes may weaken incentives to work |
 
 Policies can conflict. Expansion that cuts unemployment may raise inflation and increase imports. Always say which objective gains and which suffers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
 
 ### Consequences of a deficit
 
@@ -120,6 +148,12 @@ Consequences of a deficit:
 - A larger burden on future taxpayers, who must meet the interest.
 - Short-run support for demand, which helps in a downturn.
 - If the economy is already at full capacity, extra spending may only raise prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--08-deficit-debt-interest.webp" width="900" height="850" alt="Debt of 175 bn aru rises to 180 after a deficit of 5 (43.75 to 45 percent of GDP). Interest at 4 percent is 7 now and 7.2 next year; 7 equals 31.8 percent of the 22 bn aru education budget." loading="lazy">
+  <figcaption>A deficit raises debt, and interest on debt competes with spending such as education.</figcaption>
+</figure>
+
 
 ### Consequences of a surplus
 
@@ -141,6 +175,12 @@ A balanced budget avoids both debt growth and a drag on demand, but it leaves th
 - **Politics:** tax rises and spending cuts are unpopular and hard to carry out.
 - **Debt:** the cost of borrowing is paid later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--07-budget-deficit-country-a.webp" width="900" height="880" alt="Two stacked columns in bn aru: revenue 100 and spending 105 with the lesson line items. The spending column is 5 taller, a budget deficit of 5, which is 1.25 percent of GDP of 400." loading="lazy">
+  <figcaption>Country A budget: spending 105 exceeds revenue 100, a deficit of 5 bn aru.</figcaption>
+</figure>
+
+
 ## 3.2.3.2 Monetary policy
 
 **Monetary policy** means changing interest rates, through the central bank or government, to steer the economy. Changing the rate changes the cost of borrowing and the reward for saving. This is the main tool you need.
@@ -161,6 +201,22 @@ Suppose the base interest rate is raised. Then:
 
 **Worked example 7 (effect on total spending).** Country A's GDP is 400 bn aru: consumption 260, investment 60, government spending 70, net exports 10. After a rate rise, consumption falls 3, investment falls 2 and net exports fall 1 (see below), a first-round fall of 6. With a knock-on factor of 1.5, the fall is 6 × 1.5 = 9, so GDP is 400 − 9 = **391 bn aru**, a fall of 2.25%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--12-rate-transmission.webp" width="900" height="990" alt="A higher interest rate makes borrowing cost more and saving pay more. Firms invest less and households spend less, so total spending falls and demand-pull inflation eases. In the example consumption -3, investment -2 and net exports -1 make -6; with a factor of 1.5 the fall is 9 and GDP goes from 400 to 391, down 2.25 percent." loading="lazy">
+  <figcaption>A rate rise cuts spending and eases demand-pull inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--09-rate-rise-three-decisions.webp" width="900" height="890" alt="A 1.5 point rise in the base rate raises the interest on a 150,000 aru mortgage from 4,500 to 6,750, raises a saver's interest on 10,000 aru from 150 to 300, and raises a firm's loan interest on 80,000 aru from 4,800 to 6,000." loading="lazy">
+  <figcaption>A 1.5 point rate rise: borrowers pay more, savers earn more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ### Controlling inflation
 
 Inflation is measured by the change in a price index.
@@ -168,6 +224,12 @@ Inflation is measured by the change in a price index.
 **Worked example 8.** Country A's price index rises from 108.0 to 111.2.
 Inflation = (111.2 − 108.0) ÷ 108.0 × 100 = **2.96%**.
 If the target is 2%, inflation is almost one percentage point too high, so the central bank considers raising rates to slow demand-pull inflation. Rates cannot easily cure cost-push inflation, where the cause is higher costs on the supply side. Raising rates then cuts output as well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--10-inflation-2-96-vs-target.webp" width="900" height="760" alt="A price index rising from 108.0 to 111.2 gives inflation of 2.96 percent. On a 0 to 4 percent scale it sits about 0.96 percentage points above the 2 percent target." loading="lazy">
+  <figcaption>Inflation of 2.96% is almost one point above the 2% target.</figcaption>
+</figure>
+
 
 ### Achieving other objectives
 
@@ -179,6 +241,12 @@ If the target is 2%, inflation is almost one percentage point too high, so the c
 | Price stability | Rise | See above |
 
 **Worked example 9 (exchange rate).** An export costs 80 aru. When 1 aru = 2.00 bex, the foreign price is 160 bex. If the aru rises to 2.20 bex, the price is 176 bex, **10% dearer**, so exports and net exports tend to fall. A foreign import costing 55 bex falls from 27.5 aru to 25 aru, **9.1% cheaper**, so imports tend to rise. A higher rate that lifts the currency can therefore worsen the current account, while a lower rate can improve it. The effect on the balance of payments depends on how much demand responds to price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--13-exchange-rate-effect.webp" width="900" height="890" alt="When the aru rises from 2.00 to 2.20 bex, an export costing 80 aru goes from 160 to 176 bex (10 percent dearer) and a 55 bex import goes from 27.5 to 25 aru (9.1 percent cheaper). Exports tend to fall and imports to rise." loading="lazy">
+  <figcaption>A currency rise makes exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ### Evaluating monetary policy
 

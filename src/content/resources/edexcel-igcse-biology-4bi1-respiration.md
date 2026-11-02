@@ -67,6 +67,17 @@ In mammals and birds, heat released by respiration keeps body temperature consta
 
 Cells that use a lot of energy, such as muscle cells and sperm cells, contain many mitochondria. More mitochondria means more aerobic respiration and more ATP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--10-atp-energy-carrier.webp" width="900" height="850" alt="Respiration, in mitochondria for aerobic respiration, breaks down glucose and uses the energy released to make ATP, adenosine triphosphate. Glucose is not used directly by cells. ATP supplies energy for muscle contraction, active transport, building proteins from amino acids, cell division and growth, and nerve impulses. Energy is transferred rather than made, and some is lost as heat. Cells with many mitochondria, such as muscle and sperm cells, make more ATP." loading="lazy">
+  <figcaption>Respiration uses the energy in glucose to make ATP; cells use ATP, not glucose, directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--01-uses-of-energy.webp" width="900" height="1100" alt="Glucose is respired and energy is released. Seven small pictures show its uses: muscle contraction, protein synthesis, cell division, active transport, growth, passage of nerve impulses and maintaining a constant body temperature (37 degrees Celsius)." loading="lazy">
+  <figcaption>Respiration releases the energy cells use for these seven jobs.</figcaption>
+</figure>
+
+
 ## Aerobic respiration (2.36–2.37)
 
 Aerobic respiration uses oxygen. It takes place mainly in the **mitochondria**, and it breaks glucose down completely to carbon dioxide and water.
@@ -102,6 +113,17 @@ Carbon 6 = 6, hydrogen 12 = 12, oxygen 18 = 18. The equation is balanced.
 
 The common slip is forgetting the oxygen inside glucose, which gives 12 oxygen atoms on the left instead of 18.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--01-aerobic-anaerobic-compare.webp" width="900" height="1030" alt="Three columns compare aerobic, anaerobic (animals) and anaerobic (plants, yeast) respiration by site in the cell, oxygen need, products and relative ATP yield." loading="lazy">
+  <figcaption>Where each kind of respiration happens, what it needs and makes, and how much ATP it gives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+
 ## Anaerobic respiration (2.36, 2.38)
 
 Anaerobic respiration happens **without oxygen**. It takes place in the cytoplasm. Glucose is only partly broken down, so much less energy is released and much less ATP is made from each glucose molecule.
@@ -136,6 +158,12 @@ Why release less energy? In anaerobic respiration much of the chemical energy st
 
 When a "describe the differences" question is worth 3 marks, give three separate differences, each as a comparison ("aerobic needs oxygen **but** anaerobic does not"). A list about only one type of respiration does not show a difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## Practical: carbon dioxide and heat from respiring organisms (2.39)
 
 You need to know how to show that living organisms release carbon dioxide and heat when they respire. Germinating seeds (such as peas or beans) are used because they respire quickly while they grow. Small animals such as woodlice or maggots also work for the carbon dioxide test.
@@ -168,6 +196,12 @@ The indicator in the tube with living seeds turns from red to yellow. The contro
 - Tube A: maggots respire and release carbon dioxide, which dissolves in the indicator and lowers its pH, so it changes towards yellow.
 - Tube B: glass beads do not respire, so no carbon dioxide is added and the indicator stays red. This is the control; it shows the change in A is caused by the living maggots.
 - Tube C: at the higher temperature, respiration enzymes work faster, so carbon dioxide is released faster and the indicator turns fully yellow in the same time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--02-maggot-tubes.webp" width="900" height="1220" alt="Three sealed tubes show hydrogen-carbonate indicator red with glass beads, orange-yellow with maggots and yellow with warmer maggots. A colour scale shows more carbon dioxide towards yellow, and three boxes list what is changed, measured and kept the same." loading="lazy">
+  <figcaption>Beads are the control; maggots turn the indicator towards yellow, faster when warmer.</figcaption>
+</figure>
+
 
 ### Showing that heat is released
 
@@ -203,6 +237,22 @@ Always include the unit (°C per day) and use the same time unit given in the qu
 - **Dependent variable**: temperature rise, or the time taken for the indicator to change colour.
 - **Control variables**: mass or number of seeds, type of seed, volume of indicator, starting temperature, size of flask.
 - Repeat each set-up and calculate a mean to improve reliability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--11-respiring-seeds-co2.webp" width="900" height="1020" alt="Four sealed tubes kept in the dark, each with red hydrogencarbonate indicator in the bottom and seeds held above it on a gauze platform. With living germinating seeds the indicator changes from red to yellow because the seeds release carbon dioxide. With boiled seeds as the control it stays red, showing the change is caused by respiration of living cells. Key: red is normal air, yellow is more carbon dioxide, purple is less. Limewater would turn from clear to milky." loading="lazy">
+  <figcaption>Living seeds turn red hydrogencarbonate indicator yellow; the boiled-seed control stays red.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--12-respiring-peas-heat.webp" width="900" height="1090" alt="Two vacuum flasks with cotton wool plugs and thermometers. One holds germinating peas, the other boiled peas that are dead and act as a control. A graph over four days shows the germinating peas rising from 21.0 to 27.0 degrees Celsius, a mean rate of 1.5 degrees per day, while the boiled peas stay at 21.0. The lines are straight lines drawn between the start and end values given in the lesson." loading="lazy">
+  <figcaption>Germinating peas warm a vacuum flask by 1.5 °C per day; boiled peas stay at 21.0 °C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
 
 ## Common errors
 

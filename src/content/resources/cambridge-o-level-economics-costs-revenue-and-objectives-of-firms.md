@@ -49,6 +49,12 @@ Costs of production are the money a firm spends to produce its output.
 
 A cost is fixed or variable according to how it behaves, not what it is called. Wages are variable if workers are paid per item or per hour worked, but fixed if a worker has a monthly salary whatever the output. Say which you are assuming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## 3.7.2 Calculating costs and reading the diagrams
 
 ### Worked example 1: a bakery cost table
@@ -83,6 +89,12 @@ Averages can be turned back into totals by multiplying by output. Suppose a pott
 3. TC = ATC × output = 29 × 30 = 870.
 4. VC = TC − FC = 870 − 360 = 510, and 510 ÷ 30 = 17, which agrees with step 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--03-pottery-working-backwards.webp" width="900" height="950" alt="ATC 29 splits into AVC 17 and AFC 12. Times 30 pots gives TC 870 split into VC 510 and FC 360." loading="lazy">
+  <figcaption>Multiplying averages by output turns them back into totals.</figcaption>
+</figure>
+
+
 ### The shape of the cost curves
 
 On a diagram, output goes on the horizontal axis and cost, or cost per unit, goes on the vertical axis.
@@ -108,12 +120,39 @@ On a diagram, output goes on the horizontal axis and cost, or cost per unit, goe
 
 Examiner insight: when you draw a diagram, label both axes and every curve. A U-shaped curve with no label gives the reader nothing to credit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--08-bakery-total-costs.webp" width="900" height="810" alt="FC is a flat line at 480. VC starts at the origin and rises to 2,450 at 800 loaves. TC starts at 480 and is exactly 480 above VC at every output, for example 1,360 = 480 + 880 at 400 loaves." loading="lazy">
+  <figcaption>TC starts at the level of FC and stays 480 above VC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--09-bakery-average-costs.webp" width="900" height="840" alt="AFC falls from 4.80 to 0.60. AVC is U-shaped with a lowest 2.20 at 400 loaves. ATC is above AVC, U-shaped, with a lowest 3.26 at 500 loaves. The gap between ATC and AVC is AFC. From 400 to 500 loaves AFC falls 0.24 and AVC rises 0.10." loading="lazy">
+  <figcaption>ATC = AFC + AVC, and ATC is lowest at a larger output than AVC.</figcaption>
+</figure>
+
+
 ## 3.7.3 Revenue
 
 - **Total revenue (TR):** all the money coming in from sales. TR = price × quantity sold.
 - **Average revenue (AR):** what the firm earns on each unit it sells. AR = TR ÷ quantity sold.
 
 If every unit is sold at one price, AR equals that price. That is why AR is the same thing as the price line on a diagram.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--10-bakery-profit.webp" width="900" height="900" alt="TR rises in a straight line at 4.00 a loaf while TC starts at 480. The gap is a loss up to about 300 loaves and a profit after. Profit is -200 at 200 loaves, +30 at 300, +370 at 500, +440 at 700 (best) and +270 at 800." loading="lazy">
+  <figcaption>Profit is the gap between TR and TC and is largest at 700 loaves, not the highest output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--11-poster-revenue.webp" width="900" height="880" alt="Five rectangles, price on the height and posters sold on the width, so area is TR: 500, 522, 560, 546, 480 as price falls from 10 to 6. TR rises when 10 goes to 9 (price -10%, sales +16%) and falls when 8 goes to 7 (price -12.5%, sales +11.4%)." loading="lazy">
+  <figcaption>A price cut raises total revenue only if sales rise by a larger percentage than the price falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## 3.7.4 Working out revenue and the effect of sales
 
@@ -158,6 +197,12 @@ A stall sells 100 scarves. It sells 60 at 12 and the other 40 at a discounted 9.
 
 Selling all 100 at 12 would give 1,200, so discounts cost the stall 120.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--04-scarves-ar-vs-list-price.webp" width="900" height="845" alt="Sixty scarves at 12 and forty at 9 give TR 1,080 and AR 10.80. The gap above the 9 block is 120 lost to the discount." loading="lazy">
+  <figcaption>Discounting pulls AR below the list price.</figcaption>
+</figure>
+
+
 ## 3.7.5 Objectives of firms
 
 A firm's **objective** is the goal that guides its decisions. The syllabus lists four.
@@ -175,6 +220,12 @@ A firm's **objective** is the goal that guides its decisions. The syllabus lists
 Objectives are not mutually exclusive and they change. A new firm may choose survival, then growth, and later profit. Chain of reasoning: lower price, more sales, bigger market share, possibly lower costs per unit later, but less profit now and a risk that rivals copy the price cut. A good evaluation says what the objective depends on: the firm's age, its owners, competition and whether the owners have other sources of money.
 
 Examiner insight: a question that gives you figures expects numbers in your answer. Quote them, then add the economic reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--12-survival-and-growth.webp" width="900" height="1030" alt="Survival: at price 3.00 and 400 loaves TR is 1,200, covering VC 880 with 320 left towards FC 480, but TC 1,360 gives a loss of 160. Growth: cutting the price to 3.60 lifts sales from 700 to 800 loaves (+14.3%) but profit swings from +440 to a loss of 50." loading="lazy">
+  <figcaption>A firm can cover its variable costs and survive for a while, and can grow sales while giving up profit.</figcaption>
+</figure>
+
 
 ## Common errors
 

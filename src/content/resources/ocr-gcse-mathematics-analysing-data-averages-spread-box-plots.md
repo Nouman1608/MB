@@ -58,6 +58,12 @@ Range = 12 − 0 = 12
 
 The mean (4) is higher than the median (3) because the single large value 12 pulls it upwards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--01-three-averages.webp" width="900" height="770" alt="Six values 2, 3, 3, 4, 5, 13 on a dot plot. The mode is 3 (most common), the median is 3.5 (middle of 3 and 4), the mean is 30 divided by 6 = 5, and the range is 13 - 2 = 11. The large value 13 pulls the mean above the median." loading="lazy">
+  <figcaption>The mean, median, mode and range of one small list of data.</figcaption>
+</figure>
+
+
 ## 12.03a Grouped data
 
 When data are in classes, you no longer know the exact values. That is why every answer below is an **estimate**.
@@ -87,6 +93,22 @@ Median: the 25th value. Running totals: 5, 14, 32, ...
 
 These answers are estimates because the actual values inside each class are not known. The true mean could be a little higher or lower than 25.8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--06-grouped-median-interpolation.webp" width="900" height="830" alt="Frequencies 5, 9, 18, 13 and 5 with running totals 5, 14, 32, 45 and 50. The 25th value lies in the class 20 to 30, 11 of 18 steps in, so the median is about 26.1 minutes." loading="lazy">
+  <figcaption>The median of grouped data is found by placing the 25th value within its class in proportion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
+
 ## 12.03a Describing and comparing
 
 To **describe a population** with statistics, give an average and a measure of spread, and explain what each tells you in context ("the typical journey takes about 26 minutes, and times vary by up to 50 minutes").
@@ -101,6 +123,12 @@ To **compare** two data sets, make a like-for-like comparison: average with aver
 | Median | Not affected by extreme values | Ignores most of the actual values |
 | Mode | Works for non-numerical data; easy to find | May not exist, or may not be central |
 | Range | Quick to find | Depends only on the two extreme values |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--07-extreme-value-summaries.webp" width="900" height="820" alt="A dot plot of eight plant heights, seven between 12 and 16 cm and one at 130 cm. The median of 14 sits with the group, the mean of 28.4 is pulled away and the range of 118 depends only on the extremes." loading="lazy">
+  <figcaption>One extreme value pulls the mean and sets the range, while the median stays put.</figcaption>
+</figure>
+
 
 ## 12.03a Quartiles from graphs of grouped data: Higher tier only
 
@@ -158,6 +186,17 @@ Key: [ and ] are Q1 and Q3, # is the median, | marks the minimum and maximum.
 
 Comparison: B has a slightly higher median (26 against 25), so B's typical score is a little better. B has a smaller IQR (7 against 12), so B's middle half of scores is more consistent. A has the greater range, but the range uses only the two extremes. Interpret box plots the same way: the median shows the typical value, the IQR shows the spread of the middle 50%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--01-compare-two-box-plots.webp" width="900" height="870" alt="Two box plots on one scale for test scores out of 40. Class A runs 13 to 38 with median 25 and IQR 12. Class B runs 19 to 32 with median 26 and IQR 7. B has the higher median and the narrower box." loading="lazy">
+  <figcaption>Compare medians for typical value and IQRs for consistency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
+  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
+</figure>
+
+
 ## 12.03b Misrepresenting data
 
 A graph or chart can mislead through its design, even when the numbers are correct. Look for:
@@ -169,6 +208,17 @@ A graph or chart can mislead through its design, even when the numbers are corre
 - **A pictogram with no key**, or icons drawn at different sizes.
 
 When asked what is wrong, name the feature, then say what effect it has: "The vertical axis starts at 480, so small differences look large."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--04-misleading-charts-more-ways.webp" width="900" height="1120" alt="Three ways a chart misleads: an uneven axis scale, an icon drawn twice as wide and tall so area is four times larger with no key, and a 3D bar whose top looks higher than a flat bar of the same value." loading="lazy">
+  <figcaption>Uneven scales, different-sized icons with no key, and 3D effects change the apparent size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--02-misleading-axis.webp" width="900" height="1010" alt="Two bar charts of A = 52 and B = 56. With the axis starting at 50, B looks three times as tall as A. With the axis starting at 0, B is about 1.08 times A." loading="lazy">
+  <figcaption>A vertical axis that does not start at zero exaggerates differences.</figcaption>
+</figure>
+
 
 ## 12.03c Scatter graphs and correlation
 
@@ -196,6 +246,12 @@ The points show strong negative correlation. A sensible line passes through (1, 
 - **Interpolation:** predicting inside the range of the data. At age 4.5, value ≈ 15.4 − 1.3 × 4.5 = 9.55, about £9550. This is fairly reliable.
 - **Extrapolation:** predicting outside the range. At age 12, the line gives 15.4 − 15.6 = −0.2, a negative value, which is impossible. The trend cannot continue unchanged, so extrapolation is unreliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--03-correlation-not-causation.webp" width="900" height="1000" alt="A scatter graph of shoe size against reading score shows strong positive correlation, with points marked by age band. A diagram shows age driving both variables, so bigger feet do not cause better reading." loading="lazy">
+  <figcaption>Shoe size and reading score rise together only because both rise with age.</figcaption>
+</figure>
+
+
 ## 12.03d Outliers and errors in data
 
 An **outlier** is a value standing apart from the pattern shown by the rest. At this level you only need to spot clear cases in simple data, and to say that an outlier might be an **error** (a typing slip, a misread instrument) or a genuine unusual value.
@@ -205,6 +261,17 @@ An **outlier** is a value standing apart from the pattern shown by the rest. At 
 The value 130 is far from the others. It is probably 13.0 with a misplaced decimal point. The mean with it is 227 ÷ 8 = 28.4 cm, which describes none of the plants. The median is 14 cm, which is a much better summary. Do not remove an outlier without a reason, but do say why it may be wrong, and check it if you can.
 
 On a scatter graph, an outlier is a point well away from the trend that the other points follow. Draw your line of best fit through the main pattern, ignoring the outlier, and comment on it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--05-scatter-outlier.webp" width="900" height="920" alt="A scatter graph of car age and value with a clear downward trend and one outlier far below it. A line through the main pattern is compared with a dashed line pulled towards the outlier." loading="lazy">
+  <figcaption>An outlier pulls a line of best fit away from the pattern, so draw the line ignoring it and comment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
 
 ## Common errors
 

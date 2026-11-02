@@ -57,6 +57,12 @@ services, and how operational decisions influence the wider business.
   (dissatisfaction, poor word-of-mouth reputation, reduced revenue); how advances in ICT (websites,
   e-commerce, social media) have changed customer service
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 This topic rewards being able to evaluate a trade-off, not just describe a technique -- JIT reduces
@@ -77,6 +83,12 @@ low-volume, high-customisation output. Flow production makes large volumes of id
 items continuously (a bottling plant), suiting high-volume, low-customisation output. The choice depends
 on the product, the market, and the trade-off between flexibility and unit cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+
 ## JIT vs JIC stock management
 
 Just in time (JIT) holds minimal stock, ordering only what is needed just before it is used -- this cuts
@@ -84,6 +96,12 @@ storage costs but increases dependence on reliable, frequent deliveries and remo
 sudden demand spikes. Just in case (JIC) holds buffer stock to meet unexpected demand or supply
 disruption, at the cost of storage and the risk of unsold or obsolete stock. Neither is universally
 better -- the right choice depends on how predictable demand is and how reliable suppliers are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## Worked example: evaluating a quality investment decision
 
@@ -114,6 +132,12 @@ already easy to monitor directly.
 Step 4 shows the evaluative move examiners reward: not "TQM is good" or "TQM is expensive" alone, but a
 judgement that depends on the business's specific situation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--04-tqm-trade-off.webp" width="900" height="730" alt="A balance scale: costs (staff training, inspection) on the left, benefits (fewer defects, less waste, fewer recalls) on the right. For a growing firm that outsources or franchises, the scale tips to benefits because oversight is lower." loading="lazy">
+  <figcaption>TQM adds training and inspection costs but is easier to justify for a growing business that outsources or franchises.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Describing JIT and JIC as though one is simply correct in all situations, rather than each suiting
@@ -121,6 +145,17 @@ different circumstances. Confusing production methods (job, flow) with stock man
 JIC) -- they are separate decisions. Listing quality costs and benefits without linking them to a
 specific business scenario. Describing customer service only in terms of politeness, missing the
 syllabus's specific methods (product knowledge, engagement, post-sales service) and ICT developments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

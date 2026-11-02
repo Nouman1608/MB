@@ -74,6 +74,17 @@ F against r (5.4.4(c)):
 - Area under the graph between two distances is the work done, equal to mΔVg.
 - Counting squares or trapezia: trapezia overestimate the area under this curve because it is bowed in towards the axes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 Potential at the surface of the Earth, using GM = 3.982 × 10¹⁴ m³ s⁻² and R = 6.37 × 10⁶ m: Vg = -3.982 × 10¹⁴ / 6.37 × 10⁶ = -6.25 × 10⁷ J kg⁻¹.
@@ -92,6 +103,17 @@ Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³
 - To predict the atmosphere of a planet, calculate the escape speed from its mass and radius and compare it with the speeds of the gas atoms, which are given as data. Light atoms move faster than heavy ones at the same temperature, so they are the first to be lost.
 - Explain the result in words: the atoms with the highest speeds in the range can escape, so the atmosphere is lost over time even if the mean speed is lower than the escape speed.
 - A larger mass or a smaller radius raises the escape speed, so a planet is more likely to hold on to its gases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--06-orbit-energy.webp" width="900" height="1070" alt="Energies of a 520 kg satellite against orbital radius. Kinetic energy is positive, potential energy is negative and twice as large in size, and total energy is negative, equal to minus the kinetic energy. Raising the orbit from 6.97 to 10 million metres raises the total energy by 4.5 x 10^9 J." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r: a bigger orbit has E closer to zero and a smaller speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
+  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -140,6 +162,12 @@ Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³
 - Defining potential without "per unit mass", or without "from infinity".
 - Explaining the escape-velocity result without saying that mass cancels.
 - Saying that the area under a force-distance graph is "energy" without naming the work done by the force or against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

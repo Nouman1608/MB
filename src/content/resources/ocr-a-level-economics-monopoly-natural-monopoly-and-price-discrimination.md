@@ -52,6 +52,12 @@ A **pure monopoly** is the only seller in a market. Real firms rarely meet that 
 
 A **monopsony** is a market with only one buyer. Where a monopoly controls the supply side, a monopsonist controls the demand side, so it can push the price it pays below the competitive level. A sole buyer of milk from many small farms is an example. In use, the word is often applied to a dominant buyer, such as a large employer in a small town, which is the labour-market case taught elsewhere in the specification. For this topic you need the definition, the contrast with monopoly and the idea that market power can sit on the buying side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--07-monopoly-vs-monopsony.webp" width="900" height="770" alt="Two diagrams. Monopoly: one seller supplies many buyers and controls the supply side, so it can raise the price. Monopsony: many small sellers sell to one buyer, which controls the demand side and can push the price it pays below the competitive level. An example is a sole buyer of milk from many small farms." loading="lazy">
+  <figcaption>A monopoly is one seller controlling supply; a monopsony is one buyer controlling demand and able to push the price it pays down.</figcaption>
+</figure>
+
+
 ## 3. Price maker and profit-maximising equilibrium
 
 A competitive firm can sell any quantity at the market price. A monopolist cannot. Selling more means cutting the price on every unit sold, so **marginal revenue (MR) lies below average revenue (AR)**. That is why it is a price maker: it faces a falling AR curve and picks a point on it. It cannot pick a price and a quantity independently.
@@ -87,6 +93,17 @@ Downward-sloping AR (demand), MR below it with twice the slope, and an upward-sl
 
 Price elasticity of demand (PED) at this point is (1/3) × (110/16) = 2.3, which is elastic. A monopolist never stays on the inelastic part of demand: there MR is negative, so cutting output would raise revenue and cut costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--01-mono-equilibrium.webp" width="900" height="980" alt="Graph of price and cost against quantity. Falling average revenue (demand) AR = 158 − 3Q, marginal revenue MR = 158 − 6Q below it, rising marginal cost MC = 30 + 2Q and U-shaped average total cost. MR meets MC at 16 units where MR and MC are both 62. Going up to AR gives a price of 110. Average total cost at 16 units is 83.5, so the shaded box between price 110 and ATC 83.5 across 16 units is supernormal profit of 424." loading="lazy">
+  <figcaption>The monopolist sets MC = MR at 16 units, reads price 110 from AR and earns supernormal profit of 424.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
+  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
+
 ## 4. Supernormal profit in the short run and long run
 
 **Supernormal (abnormal) profit** is profit above the normal profit that just keeps the owners in the market. It appears on the diagram as the rectangle between price and ATC at the profit-maximising output: (110 − 83.5) × 16 = 424.
@@ -95,6 +112,12 @@ Price elasticity of demand (PED) at this point is (1/3) × (110/16) = 2.3, which
 - **Long run:** in a competitive market, supernormal profit attracts entrants, which shifts supply right and removes the profit. A monopolist is protected by barriers to entry. No rival enters, the demand curve does not shift left, and the profit can continue. That is the key link: **profit persists because of the barriers**.
 
 Evaluation: barriers are rarely absolute. Patents expire, a rival may find a substitute, and the government may regulate, so the profit lasts only as long as the barriers do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--06-barriers-keep-profit.webp" width="900" height="945" alt="Two columns. In a competitive market supernormal profit attracts new firms, supply shifts right, price falls and only normal profit remains. In a monopoly the supernormal profit of 424 is protected by a wall of barriers to entry (economies of scale, patents and licences, key resource, sunk costs, strong branding), so no one enters, demand does not shift and the profit continues. It lasts only as long as the barriers do: patents expire, substitutes appear and regulators step in." loading="lazy">
+  <figcaption>Entry removes supernormal profit in a competitive market, but barriers to entry let a monopolist keep its profit of 424.</figcaption>
+</figure>
+
 
 ## 5. Why a monopolist may be neither allocatively nor productively efficient
 
@@ -112,6 +135,17 @@ Using the fruit-sorting firm:
 - **Not productively efficient.** The firm produces at ATC 83.5, above the lowest possible 78.99. It operates on the falling part of the ATC curve, short of the lowest cost point.
 
 "May be" matters. If a monopolist has large economies of scale, its cost curve can lie so far below a competitive industry's that its price is lower. A regulator could also force P = MC.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--02-mono-deadweight-loss.webp" width="900" height="980" alt="Same monopoly diagram with only AR, MR and MC. The monopolist produces 16 units at price 110 where MC is 62. Allocative efficiency, where price equals marginal cost, would be at 25.6 units and price 81.2. The gold triangle between AR and MC from 16 to 25.6 units is the deadweight loss, 0.5 × 9.6 × 48 = 230.4." loading="lazy">
+  <figcaption>Output 16 is below the allocatively efficient 25.6; the triangle between AR and MC is the deadweight loss of 230.4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--08-monopoly-productive-inefficiency.webp" width="900" height="925" alt="Graph of the U-shaped average total cost curve ATC = (600 + 30Q + Q squared) divided by Q, with the vertical axis starting at 60. Its lowest point is at 24.5 units where ATC is 78.99. The profit-maximising monopolist produces 16 units, on the falling part of the curve, where ATC is 83.5, about 4.51 higher per unit. So it is not productively efficient." loading="lazy">
+  <figcaption>The monopolist produces 16 units at ATC 83.5, on the falling part of ATC, while the minimum ATC of 78.99 is at 24.5 units.</figcaption>
+</figure>
+
 
 ## 6. Natural monopoly
 
@@ -139,6 +173,17 @@ Duplication would waste resources: two firms each making 50 units would face ATC
 - *Investment and quality:* guaranteed profit can reduce the pressure to cut costs, but secure revenue can also fund long-lived networks.
 - *Judgement:* the impact is positive if scale economies are large and regulation works, and negative if the firm is unregulated or the market grows enough that rivals could efficiently enter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--03-natural-monopoly-pricing.webp" width="900" height="1010" alt="Graph for a rail link with total cost 1,000 + 6Q: average total cost slopes down throughout and stays above flat marginal cost of 6. Demand is P = 66 − 0.5Q. Marginal revenue meets marginal cost at 60 units, price 36 (point 1). Price equal to average cost is at 100 units, price 16 (point 2). Price equal to marginal cost is at 120 units, price 6 (point 3), where average cost is 14.3, so the shaded loss is 1,000." loading="lazy">
+  <figcaption>With falling ATC above flat MC, profit maximising gives 60 units at 36, P = ATC gives 100 at 16, and P = MC gives 120 at 6 with a loss of 1,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 7. Price discrimination
 
 **Price discrimination** means selling the same product to different buyers at different prices, where the gap is not explained by cost. The firm needs:
@@ -159,6 +204,12 @@ Discrimination adds 84.5. Business buyers have the less elastic demand, so they 
 
 Evaluation: the firm gains revenue and may serve buyers a single price would under-serve (home buyers get 8.5 units here, against 5.25 at one price). Some buyers pay more, which is a loss of consumer surplus, and costs of policing resale are real. Whether welfare rises depends on whether total output grows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--04-price-discrimination-two-markets.webp" width="900" height="1060" alt="Two stacked demand-and-marginal-revenue diagrams on the same scales with marginal cost 20. Business demand P = 140 − 4Q: MR = MC at 15 units, price 80, profit 900, price elasticity 1.3. Home demand P = 88 − 4Q: MR = MC at 8.5 units, price 54, profit 289, price elasticity 1.6. The market with less elastic demand pays the higher price. Total profit 1,189 compares with 1,104.5 at a single price of 67." loading="lazy">
+  <figcaption>Each market has its own MC = MR output; the market with less elastic demand pays the higher price and total profit rises to 1,189.</figcaption>
+</figure>
+
+
 ## 8. Evaluating monopoly power
 
 | | Advantages | Disadvantages |
@@ -168,6 +219,12 @@ Evaluation: the firm gains revenue and may serve buyers a single price would und
 | Society | Profit funds research and development; global competitiveness | Deadweight loss; resources may be wasted defending market position |
 
 Build a chain, not a list. For example: *large profits can fund research and development, which can lead to new products and lower future costs, which benefits consumers, but only if the firm chooses to reinvest and is not protected from any pressure to do so.* Compare with the deadweight loss of 230.4 in section 5. Conclude with a judgement on what it depends on: the size of the cost advantage, the strength of barriers, regulation, and the time period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--09-monopoly-power-chain.webp" width="900" height="970" alt="Two chains. Advantage: large profits fund research and development, which can lead to new products and lower future costs, which benefits consumers, but only if the firm reinvests. Disadvantage: price is above marginal cost and output is 16 rather than 25.6, giving a deadweight loss of 230.4, and without pressure the firm may become complacent with rising costs (X-inefficiency). The judgement depends on the cost advantage, the strength of barriers, regulation and the time period." loading="lazy">
+  <figcaption>Profit can fund research that benefits consumers, but only if reinvested; set against it are higher price, lower output and a deadweight loss of 230.4.</figcaption>
+</figure>
+
 
 ## Common errors
 

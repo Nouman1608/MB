@@ -54,6 +54,22 @@ A plant is a large organism with a small surface-area-to-volume ratio overall, s
 
 After entering the root hair cell, water and ions pass inwards through the root to the xylem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--05-root-hair-cell-adaptations.webp" width="900" height="1290" alt="A root hair cell with a long thin hair in soil, thin wall, large vacuole, many mitochondria and carrier proteins. Water enters by osmosis and mineral ions by active transport." loading="lazy">
+  <figcaption>Each feature of the root hair cell is linked to water uptake by osmosis or ion uptake by active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--04-root-water-gradient.webp" width="900" height="1040" alt="Two panels. In normal soil, soil water has few dissolved particles so it has a higher water potential than the root hair cell sap, and water enters the cell by osmosis. In salty soil or soil with too much fertiliser, soil water has many dissolved particles and a lower water potential than the cell sap, so the gradient reverses, water leaves the root hair cell and the plant wilts. Gold dots are dissolved particles." loading="lazy">
+  <figcaption>Water uptake and loss at a root hair cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+
 ## B2.2g and B2.2h: Transpiration and the xylem
 
 **Transpiration** is the loss of water vapour from a plant, mainly from the leaves through the stomata. The stages are:
@@ -91,6 +107,17 @@ In an explanation, always link each feature to its function.
 
 **Evidence for translocation.** If a ring of bark (which includes the phloem) is removed from a stem, a swelling forms above the cut, because sugars from the leaves collect there. Tissue below the ring is starved of sugar. The xylem in the centre of the stem is untouched, so the leaves still receive water. A tracer such as radioactive carbon in carbon dioxide can also be followed from the leaves into the phloem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--06-phloem-structure.webp" width="900" height="1080" alt="Sieve tube elements joined by perforated sieve plates, each beside a companion cell with a nucleus and many mitochondria. Sucrose flows up or down. Xylem is dead and one-way, phloem living and two-way." loading="lazy">
+  <figcaption>Sieve tubes have little cytoplasm; companion cells supply energy for loading sugars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--09-bark-ring-experiment.webp" width="900" height="1200" alt="A stem with a ring of bark removed. Sugars collect above the cut as a swelling and tissue below is starved; xylem in the centre is intact so water still rises." loading="lazy">
+  <figcaption>Removing a ring of bark shows sugars travel in the phloem, not the xylem.</figcaption>
+</figure>
+
+
 ## B2.2i: Environmental factors
 
 Transpiration is driven by the concentration gradient of water vapour between the inside of the leaf and the air, and by how open the stomata are. Water uptake follows the rate of loss, so the same factors affect both.
@@ -103,6 +130,12 @@ Transpiration is driven by the concentration gradient of water vapour between th
 | Humidity (extension) | Decreases when higher | A smaller gradient between leaf and air. This follows from the same gradient idea. |
 
 Always link the factor to either the gradient or the stomata. "Faster" alone does not explain anything.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--10-light-stomata-transpiration.webp" width="900" height="900" alt="Two leaf cross-sections. In light the guard cells are turgid, the stoma is open and water vapour from mesophyll diffuses out. In the dark guard cells are flaccid, the stoma is closed and little vapour escapes." loading="lazy">
+  <figcaption>Light opens stomata so more water vapour is lost.</figcaption>
+</figure>
+
 
 ## B2.2j: The potometer
 
@@ -131,6 +164,12 @@ volume rate = 9.0 x 1.131 = 10.18 mm^3 per minute  (10 mm^3 per minute to 2 s.f.
 
 Rate = distance ÷ time. To turn this into a volume, multiply by the cross-sectional area of the tube. One cubic millimetre equals one microlitre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--07-potometer-rate.webp" width="900" height="1010" alt="A potometer with the bubble moving from 12 mm to 66 mm in 6.0 minutes in a tube of radius 0.60 mm. Rate is 9.0 mm per minute; tube area 1.131 mm squared; volume rate 10.18 mm cubed per minute." loading="lazy">
+  <figcaption>Rate = distance / time; multiply by the tube cross-section to get a volume rate.</figcaption>
+</figure>
+
+
 ### Worked example 2: comparing two conditions
 
 Three readings of distance moved in 5.0 minutes: still air 15, 17, 16 mm; with a fan 29, 31, 30 mm.
@@ -142,6 +181,12 @@ percentage increase = (30 - 16) / 16 x 100 = 87.5%
 ```
 
 The fan raised the rate by 87.5%. The reason is that moving air takes the vapour away from the stomata, so the gradient stays steep.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--08-fan-vs-still-air.webp" width="900" height="1080" alt="Readings 15, 17, 16 mm (still) and 29, 31, 30 mm (fan) in 5.0 minutes give means 16 and 30 mm, rates 3.2 and 6.0 mm per minute and an 87.5 percent increase." loading="lazy">
+  <figcaption>A fan raises the uptake rate by 87.5% because moving air keeps the vapour gradient steep.</figcaption>
+</figure>
+
 
 ### Worked example 3: percentage mass change
 
@@ -155,6 +200,12 @@ rate = 4.5 / 3.0 = 1.5 g per hour
 
 The mass lost is almost entirely transpired water. Percentage change is always calculated from the starting value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--12-shoot-mass-loss-oil.webp" width="900" height="840" alt="Two balances: shoot, water and oil layer read 212.6 g at the start and 208.1 g after 3.0 hours. Loss 4.5 g is 2.1 percent of the starting mass, 1.5 g per hour." loading="lazy">
+  <figcaption>Percentage mass loss is found from the starting value.</figcaption>
+</figure>
+
+
 ### Worked example 4: stomatal density
 
 An impression of a leaf is made with clear nail varnish and viewed under a microscope. Five fields of view, each 0.50 mm in diameter, show 14, 12, 15, 13 and 16 stomata.
@@ -164,6 +215,22 @@ mean count = (14 + 12 + 15 + 13 + 16) / 5 = 14
 field area = pi x (0.25)^2 = 0.196 mm^2
 density    = 14 / 0.196 = 71 stomata per mm^2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--11-stomatal-density-fields.webp" width="900" height="640" alt="Five fields of view (0.50 mm across) with 14, 12, 15, 13 and 16 stomata. Mean 14; field area 0.196 mm2; density 14 / 0.196 = 71 per mm2." loading="lazy">
+  <figcaption>Stomatal density from five field counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--13-potometer-cut-underwater.webp" width="900" height="770" alt="Two stem bases. Cut in air: air enters the xylem and breaks the water column. Cut under water at a slant: xylem stays full of water." loading="lazy">
+  <figcaption>Cutting under water keeps air out of the xylem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--14-potometer-method-bubble.webp" width="900" height="800" alt="Potometer with leafy shoot, capillary scale in mm and reservoir. Bubble moves from 12 mm to 66 mm in 6.0 minutes: 54 mm, 9.0 mm per minute, 10.18 mm3 per minute with tube area 1.131 mm2. Four numbered method steps." loading="lazy">
+  <figcaption>Method steps and bubble reading for the potometer worked example.</figcaption>
+</figure>
+
 
 ## Common errors
 

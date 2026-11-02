@@ -77,6 +77,12 @@ Check: 70 + 56 + 24 + 50 = 200, so the shares add to 100%. Each share is workers
 
 Price and quality together account for 63% of answers. The owner could set a fair price, buy good ingredients and keep the menu short, because only 12% rank choice first. Convenience is a quarter of answers, so quick service matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--01-need-ranking.webp" width="900" height="800" alt="Bars show 70 workers (35%) put price first, 56 (28%) quality, 50 (25%) convenience and 24 (12%) choice. Price and quality together are 63%." loading="lazy">
+  <figcaption>Price and quality are first choice for 63% of 200 workers.</figcaption>
+</figure>
+
+
 ## Part 2: market research (1.2.2)
 
 **Market research** means gathering and studying information on customers, rivals and the market.
@@ -113,6 +119,12 @@ A small business often uses both: a government report on local households, then 
 
 A survey with a tick-box question gives quantitative data. The same survey with a comment box gives qualitative data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+
 ### The role of social media
 
 Social media gives a low-cost, fast route to customer opinion. A business can post a poll, ask followers to choose between designs, read comments and reviews, and see which posts get the most reaction. It can reach people who would never fill in a street questionnaire.
@@ -128,6 +140,12 @@ Data is **reliable** when the business can trust it to reflect the market. Check
 - **Bias**: leading questions ("Don't you agree our cakes are great?") or asking in a place that favours one answer distort results.
 - **Age of the data**: old secondary data may no longer describe the market.
 - **Source**: a trusted source is more dependable than an unnamed website.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--02-biased-sample.webp" width="900" height="830" alt="Three bars show 65% yes overall, 85% outside a garden centre and 55% in a shopping street. In 6,000 households that is 3,900 or 3,300 buyers, so a biased sample may lead to over-ordering." loading="lazy">
+  <figcaption>The headline 65% is inflated by where people were asked.</figcaption>
+</figure>
+
 
 ### Worked example 2: Wagtail Plant Studio
 
@@ -175,6 +193,12 @@ Total interested = 408 + 279 + 290 = 977. The 6 to 11 segment is only 16.2% of t
 - see **the competition**: who is close to its planned product;
 - find a **gap in the market**: an empty area where customers have a need that nobody meets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--04-coffee-market-map.webp" width="900" height="860" alt="A price and quality scatter of five roasters rises from Brightcup to Zephyr Wharf. A dashed box marks the gap at about 7 to 9 pounds with quality above 4." loading="lazy">
+  <figcaption>A market map shows rivals and the gap, which still needs testing.</figcaption>
+</figure>
+
+
 ### Worked example 4: coffee roasters
 
 A new roaster studies five rivals in its area. Price is per 250 g bag and quality is an average review score out of 5.
@@ -201,6 +225,12 @@ Quality  high |                         Zephyr Wharf
 
 The gap is a good-quality coffee at a mid price, around £7 to £9, with a quality score above 4. The mean price of the five rivals is £34.00 ÷ 5 = £6.80. A roaster pricing at £8.50 would sit above most but below the premium rival. The owner must still test with primary research whether enough customers want that product, because a gap may exist simply because there is no demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--03-segment-demand-share.webp" width="900" height="950" alt="Paired bars compare each age segment's share of the population with its share of the 977 interested people. Ages 6 to 11 are 16.2% of people but 41.8% of interest." loading="lazy">
+  <figcaption>The smallest-looking segment can be the best target.</figcaption>
+</figure>
+
+
 ## Part 4: the competitive environment (1.2.4)
 
 **Competitors** are businesses selling similar products to the same customers. The specification asks you to assess their strengths and weaknesses on five factors.
@@ -226,6 +256,12 @@ Tansy Laundry plans a wash-and-fold service. Two rivals serve the town.
 | Customer service | Slow, many complaints | Friendly, pickup service |
 
 Suds Corner is strong on price and weak on service. PressPerfect is strong on quality, location and range but expensive. Tansy could price at £2.40 per kg: £1.00 below PressPerfect (29% lower) and 50% above Suds Corner. It would promise quick turnaround, exploiting Suds Corner's slow service. At 500 kg a week, sales revenue would be £1,200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--05-price-between-rivals.webp" width="900" height="780" alt="A price line shows Suds Corner at 1.60, Tansy at 2.40 and PressPerfect at 3.40 pounds per kg. Tansy is 29% below PressPerfect and 50% above Suds Corner; 500 kg a week gives 1,200 pounds." loading="lazy">
+  <figcaption>Tansy prices between a cheap, slow rival and a dear, high-quality one.</figcaption>
+</figure>
+
 
 ### The impact of competition on decisions
 

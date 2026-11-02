@@ -76,6 +76,22 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 
 Horizontal AB → vertical bisector x = xM. Vertical AB → horizontal bisector y = yM.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--01-perpendicular-bisector.webp" width="900" height="1070" alt="Perpendicular bisector of A(2, 1) and B(6, 7): midpoint M(4, 4), gradient 3/2 and bisector 2x + 3y - 20 = 0 with gradient -2/3. The point Q(1, 6) on the bisector is root 26 from both A and B." loading="lazy">
+  <figcaption>Every point on the perpendicular bisector is the same distance from A as from B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--02-bisector-from-line-and-midpoint.webp" width="900" height="1130" alt="The line y = -3x + 10 carries a segment with midpoint M(2, 4). Gradient -3 gives perpendicular gradient 1/3, so the bisector is x - 3y + 10 = 0. Only the gradient and the midpoint are needed." loading="lazy">
+  <figcaption>When the line and midpoint are given, use the line’s gradient and the midpoint, not an end point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--03-vertical-segment-bisector.webp" width="900" height="1050" alt="The segment from A(1, 3) to B(1, 9) is vertical with midpoint M(1, 6). Its perpendicular bisector is the horizontal line y = 6, and Q(5, 6) is root 18 from both ends. The gradient of a vertical line is undefined, so -1/m cannot be used." loading="lazy">
+  <figcaption>A vertical segment has a horizontal bisector through its midpoint.</figcaption>
+</figure>
+
+
 ### Perpendicular bisector from a segment's equation and midpoint
 
 ```
@@ -95,9 +111,21 @@ Horizontal AB → vertical bisector x = xM. Vertical AB → horizontal bisector 
 4. distance to any one of the three sites is the same
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--04-voronoi-terms.webp" width="900" height="1018" alt="Three clinics A(2, 2), B(10, 2), C(3, 9) in a 12 km by 10 km district. The edges x = 6, y = x - 1 and x + 7y = 41 meet at the vertex (6, 5), 5 km from all three sites. Each shaded region is one cell." loading="lazy">
+  <figcaption>A Voronoi diagram splits the region into cells; edges lie on perpendicular bisectors and meet at vertices.</figcaption>
+</figure>
+
+
 ### Closest site to a point P
 
 Either compute the distance from P to each nearby site and take the smallest, or substitute P into an edge equation and see which side it lies on, compared with each site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--05-nearest-site-test.webp" width="900" height="978" alt="From P(9, 7) the distances are PA = 8.60 km, PB = 5.10 km and PC = 6.32 km. PB is shortest, so P lies in B’s cell, on the same side of y = x - 1 as B." loading="lazy">
+  <figcaption>P is in the cell of whichever site is closest.</figcaption>
+</figure>
+
 
 ### Area of a region
 
@@ -122,9 +150,21 @@ other cell = 8 × 6 − 15 = 33 square units
 5. delete old edges inside the new cell
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--06-adding-a-site.webp" width="900" height="1018" alt="Adding D(2, 6) to the three-clinic diagram creates a new cell with corners (0, 4), (6, 4), (7, 6) and (0, 25/3). The old edges inside it, including the old vertex (6, 5), are removed, and A’s cell shrinks to a 6 by 4 rectangle of area 24 km²." loading="lazy">
+  <figcaption>A new site carves out its own cell and removes the old edges inside it.</figcaption>
+</figure>
+
+
 ### Nearest neighbour interpolation
 
 Every point in a cell gets the value of its site. The estimate is constant in each cell and jumps at edges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--07-nearest-neighbour-interpolation.webp" width="900" height="1116" alt="Each cell carries its site’s value (B is 38 mm as in the lesson; 25 mm and 31 mm are illustrative). Along y = 7 the estimate jumps from 31 mm to 38 mm at the edge x = 8, and P(9, 7) is estimated as 38 mm." loading="lazy">
+  <figcaption>Nearest neighbour interpolation gives every point its site’s value, so the estimate jumps at each edge.</figcaption>
+</figure>
+
 
 ### Toxic waste dump
 
@@ -133,6 +173,12 @@ Every point in a cell gets the value of its site. The estimate is constant in ea
 2. distance from each vertex to one of its three sites
 3. choose the LARGEST distance
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors--08-toxic-waste-dump.webp" width="900" height="1064" alt="In the four-clinic diagram the vertices are (6, 4), root 20 = 4.47 km from A, B and D, and (7, 6), 5 km from B, C and D. A circle round each vertex touches three sites and contains none. The dump goes at the vertex with the largest distance, (7, 6)." loading="lazy">
+  <figcaption>The best spot for an unwanted facility is the vertex farthest from its three nearest sites.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

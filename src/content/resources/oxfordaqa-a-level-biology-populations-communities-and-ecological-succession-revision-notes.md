@@ -119,6 +119,12 @@ These notes condense section 3.3.1 of the OxfordAQA International AS and A-level
 
 **Worked reminder.** A dune system has 4 plant species per 100 m² on the young dune and 26 on the older, vegetated dune. Increase = (26 − 4) / 4 × 100 = **+550%**. The older dune has deeper soil and more organic matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ## Conservation and managing succession
 
 Conservation of habitats frequently involves **managing succession**, which holds a habitat at one stage.
@@ -173,6 +179,12 @@ Costs: lost income, ongoing labour. Benefits: protects species that depend on th
 - Stating that succession simply "adds" species, when the key idea is that earlier species change the environment.
 - Writing that biodiversity always increases through succession.
 - Naming a management method without saying which stage it holds the habitat at.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

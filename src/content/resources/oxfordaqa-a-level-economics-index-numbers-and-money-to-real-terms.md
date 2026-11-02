@@ -77,11 +77,23 @@ To rebase, divide every value in the old index by the old index value of the new
 
 The shape of the series is unchanged. Only the reference point moves. Rebasing is useful when you want to compare two series from a common starting year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--01-rebase-index.webp" width="900" height="1040" alt="Two bar charts of retail sales volume. With 2019 as base the index is 100, 105, 95, 110, 115. Dividing each by 95 and multiplying by 100 makes 2021 the base: 105.3, 110.5, 100, 115.8, 121.1. The shape is unchanged." loading="lazy">
+  <figcaption>Rebasing moves the 100 to a new year without changing the pattern.</figcaption>
+</figure>
+
+
 ### Weighted index numbers
 
 A price index for a whole economy covers many goods. Goods do not matter equally to households, so each category gets a **weight**: its share of typical spending. The weights add to 100 (or to 1).
 
 weighted index = sum of (weight x category index) / sum of weights
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
 
 ### Worked example 2: a weighted price index
 
@@ -100,11 +112,23 @@ Weighted index = 10,920 / 100 = **109.2**.
 
 An unweighted average of the five category indices is (112 + 106 + 120 + 99 + 104) / 5 = 108.2. The two differ because food has a weight of 35 and leisure only 10. Transport prices rose most (20%), but transport carries a modest weight, so it pulls the overall index up by less than food does.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--06-un227-ix-weighted-index.webp" width="900" height="980" alt="Bars whose width is the weight and whose height is the index points above 100 for food, housing, transport, leisure and other. A solid line marks the weighted index 109.2 and a dashed line the unweighted average 108.2." loading="lazy">
+  <figcaption>Weights 35/25/15/10/15 give a weighted index of 109.2, against a plain average of 108.2.</figcaption>
+</figure>
+
+
 ### Inflation from an index
 
 The rate of change of a price index is the inflation rate. If the index was 105.5 in year 4 and is 109.2 in year 5:
 
 (109.2 - 105.5) / 105.5 x 100 = 3.5%
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--07-un227-ix-points-vs-percent.webp" width="900" height="900" alt="Two number lines. A price index from 105.5 to 109.2 is +3.7 points and 3.5% inflation. A sales index from 110 to 115 is +5 points but only 4.5%." loading="lazy">
+  <figcaption>Index points are measured against 100; percentage change is measured against the earlier year.</figcaption>
+</figure>
+
 
 ### Interpreting an index: what it can and cannot tell you
 
@@ -112,6 +136,12 @@ The rate of change of a price index is the inflation rate. If the index was 105.
 - **An index records change, not level.** Two indices that are both 100 in the base year cannot show which variable is bigger. An export index of 126 and an import index of 138 (both with the same base year) show that imports grew faster. They do not show that imports are larger than exports in value.
 - **Averages hide differences.** An index of 109.2 does not mean every household faced a 9.2% rise. A household that spends mostly on food and transport faces a different rate from the average.
 - **Other variables.** Index numbers also track output, employment, export volumes and real incomes, not only prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
 
 ## QS7: converting money to real terms
 
@@ -128,6 +158,12 @@ A worker in Country B earns 2,000 a month in the base year (price index 100) and
 - Real rise: (2,106.2 - 2,000) / 2,000 = 5.3%
 
 The wage grew by 15% in money terms, but only 5.3% in purchasing-power terms, because prices rose too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--02-money-to-real-wage.webp" width="900" height="920" alt="A wage of 2,000 in the base year rises to 2,300 in year 5, up 15.0 percent. With a price index of 109.2 the real wage is 2,106.2, up only 5.3 percent. The 193.8 difference is the effect of higher prices." loading="lazy">
+  <figcaption>Deflating shows that most of the 15% money rise was inflation.</figcaption>
+</figure>
+
 
 ### Worked example 4: real GDP growth
 
@@ -146,6 +182,12 @@ Country C has nominal GDP and a price index (base year 1 = 100). All figures are
 
 Nominal growth overstates the rise in output, because part of it is price inflation. This is why real national income is the better indicator of changes in output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--08-un227-ix-real-gdp.webp" width="900" height="900" alt="Paired bars for years 1 to 3: nominal GDP 800, 860, 930 and real GDP 800.0, 826.9, 845.5 in year 1 prices. Nominal growth is 7.5% and 8.1%; real growth is 3.4% and 2.2%." loading="lazy">
+  <figcaption>Deflating nominal GDP by the price index shows real growth is lower than nominal growth.</figcaption>
+</figure>
+
+
 ### Choosing which year's prices
 
 You can express real values in the prices of any year. To state year 3 figures as real values in year 3 prices, multiply each nominal value by 110 and divide by its own index: 880.0, 909.6, 930.0. The growth rates are identical. Only the units change. Always say which year's prices you use.
@@ -153,6 +195,12 @@ You can express real values in the prices of any year. To state year 3 figures a
 ### A quick rule for real growth
 
 Real growth is approximately nominal growth minus inflation. For exact work, divide the growth factors: 1.09 / 1.06 = 1.0283, so 9% nominal growth with 6% inflation gives 2.8% real growth, not 3%. The approximation is fine for small rates, but exact division is safer when the question wants a specific figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--09-un227-ix-real-growth-approx.webp" width="900" height="960" alt="A graph of real growth against inflation for 9% nominal growth. The line 9 minus inflation and the exact line 1.09 divided by (1 plus inflation) nearly coincide at small rates and part at higher rates. At 6% they give 3.0% and 2.8%." loading="lazy">
+  <figcaption>Subtracting inflation is a good approximation at low rates; exact division is safer.</figcaption>
+</figure>
+
 
 ### Worked example 5: a real price
 
@@ -163,6 +211,12 @@ A small bakery sold a loaf for 2.00 in the base year (index 100) and sells it fo
 - Real price rise: (2.087 - 2.00) / 2.00 = 4.3%
 
 The bakery's loaf became only a little dearer relative to prices in general.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ## Linking to evaluation
 

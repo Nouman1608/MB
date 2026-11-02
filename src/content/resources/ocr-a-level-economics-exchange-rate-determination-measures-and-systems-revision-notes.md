@@ -58,6 +58,12 @@ Method in steps:
 
 **Reminder.** Demand = 900 − 1000p, supply = 100 + 1000p. Equilibrium is 900 − 1000p = 100 + 1000p, so p = 0.40 and Q = 500. If demand becomes 700 − 1000p, then p = 0.30 and Q = 400. The currency has depreciated by 25%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## Determination in a fixed system
 
 - The central bank sets the peg and supplies or absorbs the gap between demand and supply at that rate.
@@ -68,6 +74,12 @@ Method in steps:
 In steps: find Qd and Qs at the peg, take the difference, then multiply the quantity by the rate to find the reserve change.
 
 **Reminder.** Peg at 0.40, demand = 700 − 1000p, supply = 100 + 1000p. At 0.40, Qd = 300 and Qs = 500, an excess supply of 200. The bank buys 200 units of its own currency, spending 200 × 0.40 = 80 units of foreign reserves. Without the peg the rate would settle at 0.30.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--03-peg-defence.webp" width="900" height="970" alt="The market for lumas has supply S and demand D that shifts right to D1. Floating, the rate would rise from 0.40 to 0.50. Pegged at 0.40, D1 gives excess demand of 200 lumas, so the central bank sells 200 lumas and gains 80 bex of reserves. If demand fell instead it would have to spend reserves." loading="lazy">
+  <figcaption>At a peg below the market rate the central bank must sell 200 lumas and its reserves rise by 80 bex.</figcaption>
+</figure>
+
 
 ## Measures
 
@@ -86,6 +98,12 @@ In steps: find Qd and Qs at the peg, take the difference, then multiply the quan
 
 **Reminder.** Nominal index falls 100 to 96 while home prices rise 8% relative to partners: 96 × 1.08 = 103.7. The currency depreciated nominally yet appreciated in real terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--04-effective-exchange-rate.webp" width="900" height="930" alt="A stacked bar shows trade weights of 50, 30 and 20 percent for partners B, C and D. Bars show bilateral indices of 110, 95 and 90 against 100. The weighted sum is 55 plus 28.5 plus 18, which is 101.5, so the luma rose 1.5 percent overall." loading="lazy">
+  <figcaption>The effective exchange rate weights each bilateral index by trade share.</figcaption>
+</figure>
+
+
 ## Reading trend data
 
 - State the direction, with figures.
@@ -96,6 +114,12 @@ In steps: find Qd and Qs at the peg, take the difference, then multiply the quan
 - Beware averages that hide volatility.
 
 **Reminder.** An index runs 100, 106, 101, 95. The changes are +6.0%, −4.7% and −5.9%. From peak to end it fell (95 − 106) ÷ 106 = −10.4%. Say that a rise, a reversal and a decline occurred, then link each to a cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--07-eer-trend-reading.webp" width="900" height="880" alt="A six-year effective exchange rate index runs 100, 104, 109, 103, 96, 98. It peaks at 109 in year 3 and bottoms at 96 in year 5, a fall of 11.9 percent. Over the whole period it falls 2.0 percent." loading="lazy">
+  <figcaption>Read direction, size and turning points, not just the average.</figcaption>
+</figure>
+
 
 ## Causes of change
 
@@ -111,6 +135,12 @@ In steps: find Qd and Qs at the peg, take the difference, then multiply the quan
 
 Evaluate by magnitude, time lag, whether the change is expected to last, and whether other causes offset it. A rise in interest rates, for instance, may be outweighed by inflation or by fears about debt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--05-real-exchange-rate.webp" width="900" height="850" alt="Bars show the real exchange rate index. Base year 100. With the nominal rate unchanged at 0.40 but prices up to 110 and 102 the real index is 107.8. If the nominal rate also falls to 0.36 the real index is 97.1." loading="lazy">
+  <figcaption>A real appreciation can happen with no nominal change, because relative prices matter.</figcaption>
+</figure>
+
+
 ## Consequences of change (depreciation; reverse for appreciation)
 
 - Exports cheaper abroad, imports dearer. The effect on the trade balance depends on elasticities (Marshall-Lerner unit).
@@ -122,6 +152,12 @@ Evaluate by magnitude, time lag, whether the change is expected to last, and whe
 - Each effect varies with openness, spare capacity and how long the change lasts.
 
 **Reminder (the mora appreciates).** Import price 40 nedo at 5.00 mora per nedo costs 200 mora. If the rate becomes 4.00 mora per nedo it costs 160 mora, down 20%. Home buyers of imports gain, but home exporters become less price-competitive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--06-depreciation-effects.webp" width="900" height="1040" alt="Three before and after bar pairs: a 50-bex component rises from 125 to 138.89 luma; a 200-luma export falls from 80 to 72 bex for the foreign buyer; a 500-bex debt rises from 1,250 to 1,388.9 luma. With imports 20 percent of spending the direct price effect is about 2.2 points." loading="lazy">
+  <figcaption>A fall in the luma makes imports and foreign debt dearer in luma and exports cheaper abroad.</figcaption>
+</figure>
+
 
 ## Systems compared
 
@@ -136,6 +172,12 @@ Evaluate by magnitude, time lag, whether the change is expected to last, and whe
 In a managed float the bank smooths day-to-day moves but lets the trend follow the market. In a band system it steps in only at the limits. A crawling peg moves the target gradually, for example to offset a higher inflation rate than partners have.
 
 Which system is best depends on openness, institutions, reserves, the type of shock and the inflation record. Always give a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--07-exchange-rate-systems.webp" width="900" height="1160" alt="Five small time series: a flat fixed peg, a slow staircase for a crawling peg, a line confined to a shaded band, a smoothed managed float and a volatile free float, with an arrow from less to more flexible." loading="lazy">
+  <figcaption>Systems range from a flat fixed peg to a free float, with hybrids between.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

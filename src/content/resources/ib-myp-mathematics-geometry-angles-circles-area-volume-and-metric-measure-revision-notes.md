@@ -44,6 +44,12 @@ Related pages: [IB MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [pr
 
 **Reminder.** The angles of a triangle are in the ratio 3 : 4 : 5. Twelve parts make 180°, so one part is 15° and the angles are 45°, 60° and 75°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
+
 ## Area and perimeter
 
 | Shape | Area | Notes |
@@ -61,6 +67,22 @@ Related pages: [IB MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [pr
 - Circumference 50 cm: r = 50 ÷ 2π = 7.96 cm, area = 199 cm² (3 s.f.).
 
 **Compound shapes in steps:** split or subtract; find each part; add or subtract; for perimeter follow the outer boundary only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--11-rhombus-diagonals.webp" width="900" height="770" alt="A rhombus with diagonals 24 cm and 10 cm sits inside a 24 by 10 rectangle. It has half the rectangle area, 120 square centimetres. One quarter is a right triangle with legs 12 and 5 and hypotenuse 13, the side length, so the perimeter is 52 cm." loading="lazy">
+  <figcaption>A rhombus is half its diagonal rectangle, and each side is the hypotenuse of half-diagonals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--14-koch-perimeter.webp" width="900" height="1190" alt="Four stages of the Koch snowflake from a triangle of side 4. The perimeters are 12, 16, 21.3 and 28.4, each 4/3 of the one before, so the perimeter grows without limit while the shape stays inside the same circle." loading="lazy">
+  <figcaption>Each stage multiplies the perimeter by 4/3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--05-silo-compound-solid.webp" width="900" height="810" alt="A side view of a silo: a cylinder of radius 4 metres and height 9 metres, topped by a cone of the same radius and height 3 metres. The cylinder volume is pi times 16 times 9 which is 144 pi. The cone volume is one third times pi times 16 times 3 which is 16 pi. The total is 160 pi, about 503 cubic metres." loading="lazy">
+  <figcaption>Silo volume is 144 pi + 16 pi = 160 pi, about 503 cubic metres.</figcaption>
+</figure>
+
 
 ## Metric conversions
 
@@ -121,6 +143,22 @@ Slant height: l = √(r² + h²) for a cone. A cone with r = 15 and h = 8 has l 
 - Triangle from three sides: draw the base, then arcs from each end with the other two lengths.
 - 60° angle: an arc from the vertex, then an arc of the same radius from where it cuts the arm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--12-perpendicular-bisector-construction.webp" width="900" height="1160" alt="Two equal-radius arcs from A and B cross above and below the segment at P and Q. The line PQ meets AB at its midpoint at a right angle. A point X on PQ is the same distance from A and from B." loading="lazy">
+  <figcaption>Equal arcs from both ends give a line of points equidistant from A and B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--13-incircle-circumcircle.webp" width="900" height="740" alt="Two copies of a right-angled 5, 12, 13 triangle. The incircle touches all three sides with radius (5 + 12 − 13)/2 = 2. The circumcircle passes through all three corners with its centre at the hypotenuse midpoint and radius 6.5." loading="lazy">
+  <figcaption>Incircle radius 2 and circumcircle radius 6.5 for the 5-12-13 triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--02-sixty-degrees-and-bisector.webp" width="900" height="880" alt="Point P on a horizontal baseline. An arc centred on P cuts the baseline at A. An arc of the same radius centred on A crosses the first arc at B, so triangle PAB is equilateral and angle BPA is 60 degrees. Two arcs of equal radius centred on A and B cross at D. The line PD bisects the 60 degree angle into two 30 degree angles." loading="lazy">
+  <figcaption>Arcs construct 60 degrees and then bisect it into 30 degrees.</figcaption>
+</figure>
+
+
 ## Circle geometry
 
 | Theorem | Use |
@@ -138,6 +176,17 @@ Slant height: l = √(r² + h²) for a cone. A cone with r = 15 and h = 8 has l 
 - Tangent length with OP = 17 and radius 8: √(17² − 8²) = 15. (Tangent to a circle at T gives a right angle at T.)
 - Triangle with a diameter as one side: if one base angle is 35°, the other is 55°, since the third angle is 90°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--01-alternate-segment-tangent-chord.webp" width="900" height="860" alt="A circle with a horizontal tangent touching it at T at the bottom. A chord TB runs up to the right. The angle between the tangent and the chord TB is 55 degrees. A point C on the far side of the chord, on the circle, is joined to T and B. The angle TCB is also 55 degrees: the tangent-chord angle equals the inscribed angle in the alternate (opposite) segment." loading="lazy">
+  <figcaption>Tangent-chord angle equals the angle in the far segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--04-hexagon-in-circle.webp" width="900" height="870" alt="A circle of radius 6 with a regular hexagon inside it, drawn with its six corners on the circle and split into six equilateral triangles by radii. Each side of the hexagon equals the radius, 6. The hexagon area is 93.5 and the circle area is 113.1, so the hexagon fills 82.7 percent of the circle, shown as a bar." loading="lazy">
+  <figcaption>A hexagon of side 6 fills 82.7% of its circumscribed circle.</figcaption>
+</figure>
+
+
 ## Arc, sector, segment
 
 | Quantity | Degrees | Radians (enrichment) |
@@ -153,6 +202,17 @@ Slant height: l = √(r² + h²) for a cone. A cone with r = 15 and h = 8 has l 
 - Segment area uses sector minus triangle only when the angle at the centre is below 180°.
 
 **Enrichment.** Inscribed square in a circle of radius r has diagonal 2r, so area 2r². Koch snowflake perimeter is multiplied by 4/3 at each stage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--10-segment-area.webp" width="900" height="600" alt="A circle of radius 10 cm with a 90 degree angle at the centre. The segment area equals the sector, 78.54 square centimetres, minus the triangle, 50 square centimetres, giving 28.5 square centimetres. The chord is 14.1 cm." loading="lazy">
+  <figcaption>Segment area = sector area − triangle area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--03-radian-arc-sector.webp" width="900" height="810" alt="A sector of radius 5 and angle 0.8 radians. The arc is highlighted. Arc length equals r times theta, which is 5 times 0.8 equals 4. Sector area equals half r squared theta, which is half of 25 times 0.8 equals 10. Below, a bar for the radius of length 5 and a shorter bar for the arc of length 4, which is 0.8 of a radius. 180 degrees equals pi radians." loading="lazy">
+  <figcaption>Arc rtheta and sector half r squared theta for r = 5, theta = 0.8.</figcaption>
+</figure>
+
 
 ## Showing your work
 
@@ -213,3 +273,9 @@ Spatial reasoning questions often ask you to justify as well as calculate. Write
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP framework, spatial reasoning: Geometry. International Baccalaureate Organization, first assessment 2022.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+

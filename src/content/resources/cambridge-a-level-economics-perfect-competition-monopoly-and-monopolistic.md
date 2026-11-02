@@ -58,6 +58,12 @@ TR peaks at Q = 16, where MR = 0. At Q = 16, price elasticity of demand is (1/2)
 
 **Monopolistic competition.** Demand and MR slope down as for a monopoly, but demand is more elastic because close substitutes exist. Entry shifts the curve to the left; exit shifts it to the right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--01-monopoly-mr-and-tr.webp" width="900" height="1135" alt="Demand P = 64 − 2Q and MR = 64 − 4Q start at the same price, MR twice as steep and reaching zero at output 16. Total revenue rises while MR is positive and demand is elastic, peaks at 512 at output 16 where PED = 1, then falls where demand is inelastic." loading="lazy">
+  <figcaption>MR is twice as steep as demand; TR peaks at 512 where MR = 0 and PED = 1.</figcaption>
+</figure>
+
+
 ## 2. Output and profit in the short run
 
 Every firm maximises profit where MR = MC, with MC cutting MR from below. Then:
@@ -83,6 +89,12 @@ At a market price of 37 cu, MR = 37 and MC = 37 at Q = 6. TR = 37 × 6 = 222. TC
 
 **Monopolistic competition.** Demand P = 58 − 2Q and TC = 192 + 4Q + Q². MR = 58 − 4Q = 4 + 2Q gives Q = 9 and P = 40. TR = 360, TC = 309, profit = 51 cu. In the short run this looks like a small monopoly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--04-monopoly-profit-and-welfare-loss.webp" width="900" height="1070" alt="Demand P = 64 − 2Q, MR, MC = 4 + 2Q and ATC. MR = MC at output 10 gives price 44 on the demand curve and profit 156. Price equals MC at output 15; the triangle between outputs 10 and 15 (area 50) is the welfare loss." loading="lazy">
+  <figcaption>The monopolist produces 10 at price 44 and earns 156; the efficient output 15 would remove a loss of 50.</figcaption>
+</figure>
+
+
 ## 3. Shutdown price
 
 A firm compares what it loses by producing with what it loses by closing. If it closes, it still pays fixed costs. So it should produce if revenue covers variable costs, because the surplus contributes to fixed costs.
@@ -98,6 +110,12 @@ Worked example, same competitive firm:
 
 A firm can survive in the short run on a price between 9 and 20 cu while making a loss, but it will not stay in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--02-competitive-firm-price-zones.webp" width="900" height="1070" alt="Cost curves of the competitive firm. MC cuts AVC at its minimum (output 4, price 9: shutdown) and ATC at its minimum (output 5, price 20: break-even). At price 37 the firm makes 6 units and supernormal profit of 94. Only the part of MC above minimum AVC is the supply curve." loading="lazy">
+  <figcaption>Shutdown at P = 9, break-even at P = 20, and 94 supernormal profit at P = 37, with MC above minimum AVC as the supply curve.</figcaption>
+</figure>
+
+
 ## 4. The supply curve of a perfectly competitive firm
 
 Profit maximisation gives MC = MR = P. At any price the firm supplies the quantity where MC equals that price, so the MC curve shows how much it supplies at each price. Below minimum AVC it supplies zero.
@@ -110,6 +128,12 @@ Profit maximisation gives MC = MR = P. At any price the firm supplies the quanti
 
 Industry supply is the horizontal sum of the firms' supply curves. With 40 identical firms, supply at 37 cu is 40 × 6 = 240. In the long run, the firm's supply is its long-run marginal cost above minimum LRAC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--11-firm-to-industry-supply.webp" width="900" height="960" alt="Firm supply is MC above minimum AVC (4, 5, 6, 7 units); 40 identical firms add to 160, 200, 240, 280, so 240 at price 37." loading="lazy">
+  <figcaption>Industry supply is the horizontal sum of 40 firm supply curves.</figcaption>
+</figure>
+
+
 ## 5. Output and profit in the long run
 
 **Perfect competition.** Market demand: Qd = 610 − 10P. With 40 firms at a price of 37 cu, the market clears at 240 (610 − 370 = 240; 40 × 6 = 240). Each firm earns 94 cu, so new firms enter. Industry supply shifts right and price falls. Entry stops when supernormal profit is gone, at P = minimum ATC = 20 cu. Then Qd = 410, each firm makes 5, and there are 82 firms. Entry of 42 firms was needed. If price falls below 20, firms make losses and some leave, shifting supply left, until price returns to 20. Assuming costs do not change as the industry grows, the long-run industry supply curve is horizontal at 20.
@@ -117,6 +141,17 @@ Industry supply is the horizontal sum of the firms' supply curves. With 40 ident
 **Monopoly.** Barriers to entry stop new firms, so supernormal profit can persist in the long run. A monopolist making a loss would leave the market if its AR were below long-run average cost at every output.
 
 **Monopolistic competition.** Entry is free. Supernormal profit attracts rivals, which cuts demand for each firm until AR touches ATC at a single point and profit is normal. Example: the demand curve shifts to P = 52 − 2Q. MR = 52 − 4Q = 4 + 2Q gives Q = 8, P = 36. ATC = 192/8 + 4 + 8 = 36, so AR = ATC and supernormal profit is zero. Losses cause exit, which moves demand back to this tangency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--03-competition-entry-long-run.webp" width="900" height="975" alt="Market demand Qd = 610 − 10P. With 40 firms the market clears at price 37 and quantity 240 (6 each, profit 94 each). Entry of 42 firms shifts supply right until price is 20 and quantity 410 with 82 firms making 5 each and normal profit only." loading="lazy">
+  <figcaption>Entry of 42 firms takes price from 37 to the minimum ATC of 20, where profit is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--05-monopolistic-competition-entry.webp" width="900" height="1025" alt="Demand shifts left from P = 58 − 2Q to P = 52 − 2Q as rivals enter. The new demand curve touches ATC only at output 8, price 36, so profit is normal. Minimum ATC is at output 13.86, so the firm has excess capacity of about 5.86 units." loading="lazy">
+  <figcaption>Entry shifts demand left until AR just touches ATC at output 8; output is below minimum-ATC output 13.86.</figcaption>
+</figure>
+
 
 ## 6. Efficiency and X-inefficiency
 
@@ -137,6 +172,17 @@ For the monopoly, the deadweight loss is the area bounded by demand, MC and the 
 - Monopolistic competition: zero long-run profit gives a stronger push towards cost control.
 
 **Evaluation.** A monopoly with large economies of scale may have lower costs than many small firms. Supernormal profit can fund research. Monopolistic competition gives consumers variety. These points can offset the efficiency losses, and they are weaker if the monopolist is X-inefficient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--10-x-inefficiency-monopoly.webp" width="900" height="850" alt="Monopoly at Q 10, P 44: 40 of waste raises TC 284 to 324, ATC 28.40 to 32.40 and cuts profit 156 to 116." loading="lazy">
+  <figcaption>40 of waste cuts monopoly profit from 156 to 116 at the same output and price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--12-efficiency-grid.webp" width="900" height="810" alt="Allocative (P = MC) and productive (lowest ATC) tests for the three structures, short and long run. ATC columns for monopoly and monopolistic competition are computed from the lesson cost functions." loading="lazy">
+  <figcaption>Only perfect competition in the long run passes both efficiency tests.</figcaption>
+</figure>
+
 
 ## Common errors
 

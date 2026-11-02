@@ -106,6 +106,17 @@ The market under-produces by 2 thousand units.
 
 Market failure arises in each because price reflects only private costs and benefits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--11-externality-positive-consumption.webp" width="900" height="1130" alt="MPB, MSB and MC curves. Market at Q = 13, P = 38; social optimum at Q = 15, P = 42; welfare gain triangle 12 thousand." loading="lazy">
+  <figcaption>Ignoring external benefit leads to under-consumption.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--01-externality-cases-2-and-4.webp" width="900" height="1260" alt="Two graphs mirror the drawn cases with illustrative numbers. In case 2 MSB lies below MPB, so the market buys 10 against an optimum of 8. In case 4 MSC lies below MPC, so the market produces 8 against an optimum of 10. Each welfare-loss triangle has base 2 and height 8." loading="lazy">
+  <figcaption>Cases 2 and 4 mirror cases 1 and 3: over-consumption and under-production.</figcaption>
+</figure>
+
+
 ## Market failure: what to say
 
 1. State what the market does: output is set where private benefit equals private cost.
@@ -124,6 +135,37 @@ Market failure arises in each because price reflects only private costs and bene
 
 Evaluation hooks: perfect competition is a benchmark, not a description; scale economies can make a large firm more efficient; contestability disciplines price; dynamic gains may offset a static loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--08-productive-efficiency-tiles.webp" width="900" height="1000" alt="AC and MC curves for TC = 48 + 12Q + 3Q squared; MC cuts AC at its lowest point at Q = 4 thousand where both are 36." loading="lazy">
+  <figcaption>Productive efficiency is at the lowest point of AC, where MC = AC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--09-monopoly-allocative-loss.webp" width="900" height="1000" alt="Demand, MR and MC curves: the monopolist produces Q = 6 at price 32; allocative efficiency is at Q = 9, price 26; the welfare loss triangle is 18 thousand." loading="lazy">
+  <figcaption>A monopolist restricts output below the P = MC level, losing 18 thousand pounds of welfare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--03-perfect-competition-short-long-run.webp" width="900" height="1210" alt="Three graphs of the tile firm AC and MC with a price line. At 42 it produces 5 and earns 27 thousand profit; at 36 it produces 4 with zero profit, the long-run position; at 30 it produces 3 and loses 21 thousand." loading="lazy">
+  <figcaption>Perfect competition is allocatively efficient (P = MC) in the short run and productively efficient too in the long run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--04-efficiency-by-market-structure.webp" width="900" height="950" alt="A table of four market structures with symbols for allocative and productive efficiency. Perfect competition: yes, and yes in the long run. Monopolistic competition: no and no. Oligopoly: usually not, depends. Monopoly: no, often not." loading="lazy">
+  <figcaption>Only perfect competition meets both tests, and productive efficiency only in the long run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Productive and allocative:** the first is about cost, the second is about what is produced.
@@ -140,6 +182,12 @@ Evaluation hooks: perfect competition is a benchmark, not a description; scale e
 - **Environment:** firm pollution raises MSC above MPC. The damage may be long-run and hard to value.
 
 For any of these, finish with a judgement. Say whether the externality is large or small, whether it is certain or uncertain, and whether it falls on many people or few. A large, certain and widespread externality supports a firm conclusion that the market fails badly. A small or uncertain one supports a more cautious view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--05-externality-cases-in-real-markets.webp" width="900" height="990" alt="Five rows link markets to externality cases. Education and vaccination are under-consumed (13 against 15); smoking and congestion are over-consumed and pollution over-produced (10 against 8)." loading="lazy">
+  <figcaption>Education, health, transport and the environment map onto the four externality cases.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -167,6 +215,17 @@ For any of these, finish with a judgement. Say whether the externality is large 
 9. **Static**: it concerns efficiency at a point in time.
 10. ½ × 4 × 6 = **£12**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--12-x-inefficiency-gap.webp" width="900" height="1010" alt="Two columns of unit cost: competitive firm 18, sheltered firm 22, an excess of 4 (22.2 percent), or 200,000 pounds a year on 50,000 units." loading="lazy">
+  <figcaption>A sheltered firm carries avoidable cost of 4 pounds a unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--02-static-dynamic-payback.webp" width="900" height="1010" alt="A firm spends 450,000 on a process that cuts unit cost from 20 to 17.50 on 120,000 units, saving 300,000 a year. Cumulative cash goes from minus 450 thousand to minus 150, plus 150 and plus 450 over three years, crossing zero at 1.5 years." loading="lazy">
+  <figcaption>Spending now to lower future cost: payback is 450,000 / 300,000 = 1.5 years.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Saying "P = MC" for allocative efficiency when an externality is present. Use MSB = MSC.
@@ -176,6 +235,12 @@ For any of these, finish with a judgement. Say whether the externality is large 
 - Stating that externalities cause market failure with no chain: private decision, ignored third party, wrong output.
 - Evaluation that lists points without a judgement or without weighing size, timing and measurement.
 - Calling a monopoly inefficient with no mention of scale economies or dynamic gains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--10-externality-negative-production.webp" width="900" height="1000" alt="MPB, MPC and MSC curves. Market at Q = 10, P = 30; social optimum at Q = 8, P = 34; welfare loss triangle 8 thousand." loading="lazy">
+  <figcaption>Ignoring external cost leads to over-production and a welfare loss of 8 thousand pounds.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

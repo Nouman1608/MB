@@ -34,6 +34,37 @@ Every business sits in one of the **three sectors**: **primary** (extracting raw
 
 *Added value (selling price minus the cost of bought-in materials) is useful business vocabulary, but it is not named in this specification -- do not expect a question to require its definition.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-business-real-world-revision-notes--03-entrepreneur-motives.webp" width="900" height="760" alt="Six tiles give the motives: own boss, flexible hours, pursuing an interest, earning more, filling a gap in the market, leaving a disliked job. Two risk boxes show losing personal savings and unlimited liability for sole traders." loading="lazy">
+  <figcaption>Entrepreneurs have six motives and take two main risks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--01-four-factors.webp" width="900" height="980" alt="Four cards for Ottersby Bakery: land is the rented unit and ingredients; labour is six bakers; capital is two ovens and a van; enterprise is Hana, who takes the risk and organises the rest. A note says capital is equipment and buildings, not money." loading="lazy">
+  <figcaption>The four factors, shown with Ottersby Bakery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--02-changing-environment.webp" width="900" height="1010" alt="Four boxes (technology, economic situation, legislation, environmental expectations) each point an arrow at a business building. Each has a short effect from the lesson." loading="lazy">
+  <figcaption>Four named drivers keep the business environment changing.</figcaption>
+</figure>
+
+
 ## Ownership
 
 | Structure | Liability | Advantages | Disadvantages |
@@ -48,6 +79,32 @@ Every business sits in one of the **three sectors**: **primary** (extracting raw
 A **plc is private sector**, not government-owned. Confusing "public limited company" with "public sector" is a very common error.
 
 **Franchising:** the franchisee gains a proven brand, training and lower risk, but pays fees and royalties and has little independence. The franchisor expands rapidly with limited capital, but risks brand damage from a badly run outlet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-business-real-world-revision-notes--02-plc-private-sector.webp" width="900" height="690" alt="The public sector is owned by the government, for example a state hospital. A plc is owned by shareholders who buy its shares on the stock market, so it is private sector. Public in plc means anyone may buy shares." loading="lazy">
+  <figcaption>A plc is owned by shareholders, so it is private sector, not government-owned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--06-ownership-compare.webp" width="900" height="928" alt="A table compares sole trader, partnership, private limited company, public limited company and not-for-profit on control, finance, liability and profits. Liability cells are colour-coded: unlimited, limited or depends." loading="lazy">
+  <figcaption>The five ownership forms compared on control, finance, liability and profits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--02-sector-and-ownership.webp" width="900" height="730" alt="A grid of primary, secondary and tertiary rows against private and public columns. An iron-ore mine is primary and private, a bakery with its own shop is secondary and tertiary and private, a phone retailer is tertiary and private, a state hospital is tertiary and public." loading="lazy">
+  <figcaption>Sector (type of work) and ownership are two separate classifications.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -68,6 +125,12 @@ Survival (the priority for a start-up), profit, growth, market share, customer s
 Objectives **change over time** — survival first, then profit and growth once established — and differ by size and sector.
 
 **SMART** (Specific, Measurable, Achievable, Relevant, Time-bound) is a common framework for making objectives measurable; the specification does not name it. "Increase sales" states an objective in general terms; "increase sales by 10% within twelve months" states it in a form that can be measured.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-business-real-world-revision-notes--01-smart-objective.webp" width="900" height="775" alt="Two panels. &quot;Increase sales&quot; is too general: sales of 200,000 pounds now, an empty dashed box, how much and by when. &quot;Increase sales by 10% within 12 months&quot; gives a 220,000 pound target, an increase of 20,000 pounds, and a 12-month deadline." loading="lazy">
+  <figcaption>A measurable objective states how much and by when.</figcaption>
+</figure>
+
 
 ## Location
 

@@ -41,6 +41,27 @@ These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455
 
 **Evaluation lines.** Markets suit goods that people can be charged for and can judge for themselves. They suit goods with large external effects much less. The answer also depends on how competitive the market is and how incomes are shared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--05-price-signal-profit.webp" width="900" height="740" alt="Rectangles of profit per unit by units sold: 2 by 1,000 equals 2,000, then 8 by 1,200 equals 9,600." loading="lazy">
+  <figcaption>Profit per unit and units sold both rise, lifting total profit from 2,000 to 9,600.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--07-market-system-pros-cons.webp" width="900" height="915" alt="Two columns of five advantages and five disadvantages, and a line from all markets to more state with invented countries B and C." loading="lazy">
+  <figcaption>Five advantages and five disadvantages, and no country is a pure market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+
 ## 2.10.1 Key terms
 
 | Term | Definition |
@@ -75,6 +96,17 @@ These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455
 
 **Examples (these areas only).** Public goods: street lighting, flood defences. Merit goods: education, vaccination. Demerit goods: harmful products such as cigarettes. External costs: pollution, noise, congestion. External benefits: a trained workforce, a vaccinated population. Monopoly: a sole supplier of an essential service. Immobility: workers displaced from a closed factory without the skills for other jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **Social cost and social benefit (calculation)**
@@ -103,6 +135,12 @@ These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455
 
 **Under-consumption.** Market quantity 300, socially best 500. Shortfall = 200, which is 200 ÷ 500 = 40% below the best level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--06-street-light-free-riders.webp" width="900" height="750" alt="200 households, 50 pay 30 each raising 1,500, 150 free ride; the shortfall is 4,500." loading="lazy">
+  <figcaption>Only 50 of 200 households pay, raising 1,500 of the 6,000 needed.</figcaption>
+</figure>
+
+
 ## 2.10.3 Consequences
 
 | | Over-consumption | Under-consumption |
@@ -112,6 +150,12 @@ These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455
 | Misallocation | Too many resources go to the product | Too few resources go to the product |
 
 Say what the consequences are in real terms: pollution, ill health, lower skills, wasted resources, higher costs for others. Net gain to society is social benefit minus social cost, so a unit is worth producing only if the first is at least as large as the second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--08-over-consumption-units.webp" width="900" height="700" alt="Two bars: 5,000 socially best and 8,000 bought, with an excess of 3,000." loading="lazy">
+  <figcaption>Buying 8,000 against a best 5,000 is 3,000 too many, 60% above the efficient level.</figcaption>
+</figure>
+
 
 ## Evaluation reminders
 
@@ -145,6 +189,17 @@ Say what the consequences are in real terms: pollution, ill health, lower skills
 8. (15 − 12) ÷ 12 × 100 = **25%**. Consumers pay more and are likely to buy less, or must pay for an essential product with no alternative.
 9. Unemployed = 250 − 60 = 190, so 190 ÷ 250 × 100 = **76%**. The type is **occupational immobility**.
 10. The buyer counts only their own benefit and ignores the gain to others, so demand reflects private benefit, which is below social benefit, and too little is bought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--09-vaccine-private-vs-social.webp" width="900" height="1070" alt="Stacked private and external benefits for three groups against a price of 45. Only Group 1 buys (600 doses); society should vaccinate Groups 1 and 2 (1,400), so 800 doses too few." loading="lazy">
+  <figcaption>Ignoring external benefit leads to under-consumption of a merit good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--10-paper-mill-external-cost.webp" width="900" height="960" alt="Per tonne the firm counts cost 60 against price 70 (+10, +40,000 on 4,000 tonnes); society counts 75 (−5, −20,000). External cost is 20% of social cost." loading="lazy">
+  <figcaption>Counting the external cost turns a private profit into a social loss.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

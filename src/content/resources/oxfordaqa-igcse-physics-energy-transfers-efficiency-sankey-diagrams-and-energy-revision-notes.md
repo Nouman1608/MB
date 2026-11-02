@@ -51,6 +51,17 @@ Quick recall for sections 3.2.2 and 3.2.3 of the OxfordAQA International GCSE Ph
 
 Pendulum: energy moves back and forth between kinetic and gravitational potential. The swing gets lower because air resistance and pivot friction dissipate a little energy each swing, not because energy disappears.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--05-en-systems-stores.webp" width="900" height="1160" alt="Four pictures with the energy store before and after: elastic band and paper ball (elastic to kinetic), diver (gravitational to kinetic), ball up a ramp (kinetic to gravitational), spring and toy car (elastic to kinetic)." loading="lazy">
+  <figcaption>Name the system, then the type of energy before and after each change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--01-energy-transfers.webp" width="900" height="1070" alt="Four panels: a pushed crate (force, chemical to kinetic), a battery driving a motor (current), a flame heating water (heating), and Sun light warming the ground (waves)." loading="lazy">
+  <figcaption>Energy moves between stores by forces, electric currents, heating and waves.</figcaption>
+</figure>
+
+
 ## Conservation and dissipation (3.2.2 c-e)
 
 - Total energy before equals total energy after.
@@ -58,6 +69,17 @@ Pendulum: energy moves back and forth between kinetic and gravitational potentia
 - Friction and air resistance dissipate energy by heating the surroundings.
 - Say "dissipated to the surroundings" or "transferred as thermal energy", never "lost" or "used up".
 - Reduce dissipation with lubrication, insulation and streamlining.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--08-en-van-braking.webp" width="900" height="930" alt="A 1500 kg van at 12 m/s has 108 kJ of kinetic energy. After braking to rest, friction has dissipated all 108 kJ as thermal energy in the brakes and surroundings." loading="lazy">
+  <figcaption>Braking turns all 108 kJ of kinetic energy into thermal energy by friction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--02-conservation-falling-ball.webp" width="900" height="930" alt="A 2 kg ball falls from 10 m. Stacked bars at five heights always total 196 J: gravitational potential energy falls from 196 J to 0 while kinetic energy rises from 0 to 196 J." loading="lazy">
+  <figcaption>Energy is transferred between stores but the total stays constant.</figcaption>
+</figure>
+
 
 ## Efficiency (3.2.2 f)
 
@@ -82,6 +104,17 @@ Method in steps:
 
 Reminder: a motor takes in 150 W and gives 93 W useful. Efficiency = 93/150 = 0.62, or 62%. Wasted power = 57 W.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--06-en-efficiency-bars.webp" width="900" height="875" alt="Power bars to one scale: LED 9.0 W in and 2.7 W light is 30 percent; filament lamp 60 W in and 3.0 W light is 5.0 percent; motor 150 W in and 93 W useful is 62 percent. The LED is six times as efficient as the filament lamp." loading="lazy">
+  <figcaption>Efficiency is the useful share of the input; an LED beats a filament lamp six to one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
+
+
 ## Sankey diagrams (3.2.2 g)
 
 Drawing method:
@@ -95,6 +128,17 @@ Drawing method:
 Reading method: measure each width, multiply by the scale, then use useful over input for efficiency.
 
 Reminder: a diagram with input 40 mm wide and useful arrow 10 mm wide, at 1 mm for 2 kJ, shows 80 kJ in and 20 kJ useful, so efficiency is 0.25.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--07-sankey-to-scale.webp" width="900" height="1090" alt="Sankey diagram on a scale of 1 mm to 2 kJ: 40 mm input (80 kJ) splits into 10 mm useful kinetic (20 kJ), 2 mm sound (4 kJ) and 28 mm thermal (56 kJ). Output widths add to the input; efficiency is 25%." loading="lazy">
+  <figcaption>Arrow widths are drawn to scale and the outputs add up to the input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--03-sankey-lift.webp" width="900" height="840" alt="A Sankey diagram drawn to scale: 200 J from a battery splits into 147 J gravitational potential energy and 53 J thermal and sound." loading="lazy">
+  <figcaption>Energy in equals energy out: 200 J = 147 J + 53 J.</figcaption>
+</figure>
+
 
 ## Fuels (3.2.3 a-b)
 
@@ -115,6 +159,17 @@ Some energy from burning a fuel goes to the surroundings, so the useful energy i
 | Wind, hydroelectric, tidal | Renewable | No fuel or emissions in use; visual impact, habitat change, construction impact |
 | Biofuels | Renewable | Replaceable by growing more; land use; carbon dioxide on burning |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--06-pendulum-energy.webp" width="900" height="940" alt="A 0.25 kg bob released 0.080 m above its lowest point has 0.196 J GPE. At the bottom it has 0.196 J KE and moves at 1.25 m/s. On the far side it rises to 0.074 m (0.181 J GPE) and 0.015 J has been dissipated as heat." loading="lazy">
+  <figcaption>Energy swaps between gravitational potential and kinetic stores, and a little is dissipated each swing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+
 ## Renewable technologies (3.2.3 d)
 
 | Technology | Advantages | Drawbacks |
@@ -124,6 +179,17 @@ Some energy from burning a fuel goes to the surroundings, so the useful energy i
 | Geothermal | Steady output day and night, no fuel to buy | Needs accessible hot rock, costly drilling, some gas release |
 
 For a scenario question, pick the source that suits the stated location, then give one advantage and one drawback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--07-en-boiler-solar.webp" width="900" height="870" alt="Two equal-width bars for total input. Boiler: 60 MJ in, 33 MJ useful, 27 MJ to the surroundings, 55 percent. Solar panel: 5400 W in, 972 W useful, 18 percent." loading="lazy">
+  <figcaption>The gold share of the bar is the efficiency, for a boiler and for a solar panel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--09-en-geothermal.webp" width="900" height="925" alt="Water goes down one borehole into hot rock and comes back up as steam, which turns a turbine and a generator at the surface. Advantage: steady output day and night. Drawback: needs accessible hot rock." loading="lazy">
+  <figcaption>Geothermal power uses heat from hot rock to make steam for a turbine.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

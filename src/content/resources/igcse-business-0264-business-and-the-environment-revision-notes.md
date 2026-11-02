@@ -64,6 +64,12 @@ Exam habit: name the type of harm, then link it to what this business does.
 
 Only the first two are named in the syllabus, and the word "for example" means others count if you explain them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--06-why-respond.webp" width="900" height="940" alt="Five reasons join a hub: better reputation, more sales, avoiding penalties, lower costs and avoiding bad publicity." loading="lazy">
+  <figcaption>Five reasons a business may respond to environmental issues.</figcaption>
+</figure>
+
+
 ## How might a business respond?
 
 | Response | Gain | Cost or risk |
@@ -76,6 +82,17 @@ Only the first two are named in the syllabus, and the word "for example" means o
 | Redesign product or process | Less material or harmful input | Research and training |
 | Replant or restore land | Replaces what was taken | Slow results |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--05-types-of-harm.webp" width="900" height="1090" alt="Pollution has four forms (air, water, land, noise) and depletion is using resources faster than they are replaced. These create external costs." loading="lazy">
+  <figcaption>Pollution in four forms, and depletion of resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--07-environmental-responses.webp" width="900" height="1210" alt="Eight responses each with a gain and a cost: recycling, reducing packaging, saving energy, filters or a treatment plant, sustainable suppliers, redesign, replanting and telling customers." loading="lazy">
+  <figcaption>Every environmental response has a gain and a cost.</figcaption>
+</figure>
+
+
 ## Effects of legal controls
 
 | Effect | What it means | Example |
@@ -86,6 +103,12 @@ Only the first two are named in the syllabus, and the word "for example" means o
 | Costs | Usually rise | New equipment, dearer materials, fines |
 
 Possible effects of higher costs: a higher selling price, lower profit, lost sales if rivals charge less, or a search for savings elsewhere. Legal controls can also help a business that already meets high standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--08-legal-control-effects.webp" width="900" height="920" alt="Four effects of legal controls: how to produce, what to produce or sell, where to produce or sell, and influence on costs." loading="lazy">
+  <figcaption>The four effects of environmental legal controls named in the syllabus.</figcaption>
+</figure>
+
 
 ## Method in steps: a legal-control cost question
 
@@ -103,6 +126,12 @@ Ladlow Printers makes 500,000 leaflets a year. Fixed costs are 150,000 dollars a
 - After: 168,000 + (0.32 × 500,000) = 328,000 dollars; average cost = 328,000 ÷ 500,000 = **0.656 dollars**.
 - Total cost rises by 28,000 dollars, a rise of about 9.3% in average cost.
 - Comment: a rise of about 5.6 cents a leaflet may be passed on to customers if rivals face the same rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--07-legal-control-cost.webp" width="900" height="830" alt="Stacked bars per metre of cloth at a 5.50 dollar price. Before the water rule cost is 3.60 and profit 1.90 (34.5 percent). After it cost is 4.20 and profit 1.30 (23.6 percent). Keeping 1.90 profit needs a price of 6.10 dollars." loading="lazy">
+  <figcaption>A water-treatment rule lifts average cost by 16.7% and cuts total profit from $152,000 to $104,000.</figcaption>
+</figure>
+
 
 ## Short scenario: a response with savings
 
@@ -151,6 +180,12 @@ Useful angles are the short run against the long run, the size of the firm, how 
 8. The control raises the cost of each unit, so a higher price protects the profit margin.
 9. The cost may be paid at once while the sales gain or saving comes later or fails to appear, which cuts profit in the short run.
 10. Customers who find out may stop trusting the business, which damages its reputation and its sales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--09-ashgrave-where-rule.webp" width="900" height="840" alt="A smelter beside a village is refused permission to expand; the only other site is 40 km away. Extra transport of 4.50 dollars a tonne on 20,000 tonnes is 90,000 dollars a year." loading="lazy">
+  <figcaption>A rule about where to produce also changes costs: $90,000 a year for Ashgrave.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

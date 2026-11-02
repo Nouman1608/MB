@@ -97,6 +97,22 @@ Percentage change = (new - old) / old x 100.
 
 From a series, calculate each step from the rate before it. A rate that runs 2.00, 2.20, 1.98 and 2.079 over four years rises 10%, falls 10% and rises 5%. Over the whole period it rose (2.079 - 2.00) / 2.00 x 100 = **3.95%**. A 10% rise followed by a 10% fall does not return you to the start: 2.20 falls to 1.98, not 2.00.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--03-fx-floating-shift.webp" width="900" height="960" alt="Market for the nor. Demand Qd = 400 - 60e and supply Qs = 100 + 90e cross at 2.00 estos per nor and 280 million nors. Demand shifts right to Qd = 460 - 60e and equilibrium moves to 2.40 and 316 million. The nor appreciates. A 45-nor good costs 90 estos at 2.00 and 108 estos at 2.40." loading="lazy">
+  <figcaption>A rise in export demand shifts demand for the nor right and the nor appreciates from 2.00 to 2.40 estos.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--02-fx-percent-two-currencies.webp" width="900" height="990" alt="Bars: 1 nor rises from 2.00 to 2.25 estos (+12.5%); 1 esto falls from 0.500 to 0.444 nors (-11.1%)." loading="lazy">
+  <figcaption>One exchange rate move gives different percentages for each currency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## What shifts demand and supply
 
 The guide lists ten items. For each, decide whether it changes the demand for the nor or the supply of nors, then the direction.
@@ -116,6 +132,12 @@ The guide lists ten items. For each, decide whether it changes the demand for th
 
 Relative growth is not one-way. Faster growth can also attract inward investment, so state which effect you argue. Speculation can be self-fulfilling: if traders expect a fall, their selling causes it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--01-fx-factors-ten.webp" width="900" height="1205" alt="Two mini currency-market diagrams: demand for nors rising (2.00 to 2.40) and supply rising, each with seven factors listed beneath covering the ten guide items." loading="lazy">
+  <figcaption>Seven factors raise demand for the nor and seven raise supply.</figcaption>
+</figure>
+
+
 ## Consequences of exchange rate changes
 
 The guide asks you to examine effects on five indicators and draw AD/AS curves. Take a depreciation of the nor.
@@ -127,6 +149,12 @@ The guide asks you to examine effects on five indicators and draw AD/AS curves. 
 - **Living standards.** Imported goods and holiday abroad become dearer, which cuts real purchasing power. More jobs may offset this.
 
 On the AD/AS diagram, draw AD1 shifting right to AD2 and, for imported costs, SRAS1 shifting left to SRAS2. Real GDP rises if the AD shift dominates, and the price level rises in either case. An appreciation does the reverse: imports are cheaper and inflation eases, but exporters lose competitiveness, growth slows and the current account may weaken. Different stakeholders gain and lose, so a good answer names them: exporters, importers, consumers, tourists, firms with foreign debts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--04-fx-depreciation-adas.webp" width="900" height="1110" alt="AD shifts right, SRAS left, price level and (if AD dominates) GDP rise; five effects listed with arrows." loading="lazy">
+  <figcaption>A depreciation shifts AD right and SRAS left.</figcaption>
+</figure>
+
 
 ## Fixed exchange rates
 
@@ -148,6 +176,17 @@ The ways to maintain a fixed rate:
 
 Reserves are finite. A country defending an overvalued rate runs them down, which is why it may devalue instead. **Worked devaluation:** cutting the peg from 2.40 to 2.10 is a change of (2.10 - 2.40) / 2.40 x 100 = **-12.5%**. A 45-nor good falls from 108 to 94.5 estos, also -12.5%, so exports become cheaper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--04-fx-defending-a-peg.webp" width="900" height="990" alt="Same nor market with pegs drawn as horizontal lines. At a peg of 2.40, above the 2.00 market rate, supply (316) exceeds demand (256) by 60 million nors, so the central bank buys 60 million nors paying 144 million estos. At a peg of 1.60, demand (304) exceeds supply (244) by 60 million, so the bank sells 60 million nors and gains 96 million estos." loading="lazy">
+  <figcaption>To hold a peg the central bank buys the excess supply of its currency or sells into excess demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--03-fx-devaluation-example.webp" width="900" height="830" alt="Peg cut from 2.40 to 2.10 is -12.5%; a 45-nor good falls from 108 to 94.5 estos, also -12.5%." loading="lazy">
+  <figcaption>A devaluation of 12.5% cuts the foreign price of exports by 12.5%.</figcaption>
+</figure>
+
+
 ## Managed exchange rates
 
 In a **managed** system the rate floats, but the central bank intervenes to influence it. The currency is **overvalued** when its rate is above the level the market alone would set, and **undervalued** when below.
@@ -159,6 +198,12 @@ In a **managed** system the rate floats, but the central bank intervenes to infl
 3. The bank sells 30 million nors and gains 30 x 2.20 = **66 million estos** of reserves.
 
 On the diagram show the new demand curve, the market equilibrium at 2.40, the target at 2.20 and the horizontal gap between D and S. Governments may hold a currency down to protect exporters, or hold it up to limit import prices. Each has costs: reserves, inflation from the money created when the bank sells its own currency, or retaliation by trading partners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--05-fx-managed-rate.webp" width="900" height="990" alt="After demand shifts to Qd = 460 - 60e the market rate would be 2.40. The central bank targets 2.20. At 2.20 demand is 328 million and supply 298 million, a gap of 30 million, so the bank sells 30 million nors and gains 66 million estos. The old demand curve is dashed." loading="lazy">
+  <figcaption>A managed rate: the bank sells its currency to hold the rate below the market level.</figcaption>
+</figure>
+
 
 ## Fixed versus floating (HL only)
 
@@ -174,6 +219,12 @@ Evaluate the two systems against criteria rather than listing them.
 | Inflation discipline | Can import a partner's low inflation | Depreciation can raise import prices |
 
 A judgement depends on context: a small, trade-dependent economy may value stability, while a large economy with its own cycle may value policy freedom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--05-fx-fixed-vs-floating-hl.webp" width="900" height="1030" alt="Six-criterion grid comparing fixed and floating rates." loading="lazy">
+  <figcaption>Fixed and floating compared on six criteria.</figcaption>
+</figure>
+
 
 ## Common errors
 

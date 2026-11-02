@@ -81,6 +81,17 @@ Check: 11/24 x 2,400,000 = 1,100,000
 
 Use a common denominator (here 24) when adding or subtracting fractions. To compare fractions, convert both to decimals or percentages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--06-sharing-in-a-ratio.webp" width="900" height="930" alt="A 360 budget in the ratio 5:3:1 is nine parts of 40, giving 200, 120 and 40. Exports of 48 and imports of 60 simplify to 4:5, so exports are 0.8 of imports." loading="lazy">
+  <figcaption>Add the parts, find one part, then multiply; ratios and fractions are two views of the same split.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--01-workforce-fractions.webp" width="900" height="850" alt="A grid of 24 blocks of 100,000 workers. Nine are services (3/8 = 9/24), four manufacturing (1/6 = 4/24) and eleven farming (11/24), giving 900,000, 400,000 and 1,100,000 workers." loading="lazy">
+  <figcaption>A common denominator of 24 shows what is left for farming.</figcaption>
+</figure>
+
+
 ## QS2: percentages and percentage changes
 
 A percentage is a fraction out of 100. **Percentage of a total** = part/total × 100. **Percentage change** = (new value − old value) / old value × 100. The starting value is always the base.
@@ -126,6 +137,17 @@ Growth of 2%, 3% then 1%: 1.02 x 1.03 x 1.01 = 1.0611, a rise of 6.11%
 
 **Using the base in economics.** When a price rises, work out the percentage change in price and the percentage change in quantity separately, each from its own old value. Later skills, such as elasticity, divide one of these by the other. Getting the base wrong here spoils every later step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--07-percentage-changes.webp" width="900" height="1230" alt="100 up 20% then down 20% ends at 96, a 4% fall, because multipliers 1.20 and 0.80 multiply. A rate falling from 8% to 6% is minus 2 percentage points but minus 25% as a change." loading="lazy">
+  <figcaption>Successive percentage changes multiply, and percentage points differ from percentage change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--02-reverse-percentages.webp" width="900" height="810" alt="After a 12% rise the price is 140, which is 112% of the original. Dividing by 1.12 gives 125; taking 12% off 140 wrongly gives 123.2." loading="lazy">
+  <figcaption>Divide by the multiplier, do not take the percentage off the new price.</figcaption>
+</figure>
+
+
 ## QS3: mean and median
 
 The **mean** adds all values and divides by the number of values. The **median** is the middle value once the data are in order. If there is an even count of values, take the point midway between the two central ones.
@@ -156,6 +178,17 @@ Median: the 10th and 11th workers are both on 50, so the median = 50
 ```
 
 The mean is above the median because of the two high earners. Say which measure you use and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--08-mean-or-median.webp" width="900" height="930" alt="Nine household incomes in order; the median is 18 but the single income of 95 pulls the mean up to 26. Without it the mean is 17.4 and the median 17." loading="lazy">
+  <figcaption>One extreme value moves the mean far more than the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--03-frequency-table-mean-median.webp" width="900" height="880" alt="Twenty workers in pay order with the 10th and 11th (both 50) highlighted, and a pay line with counts 8, 6, 4 and 2 at 40, 50, 60 and 150. The median marker is at 50 and the mean at 58." loading="lazy">
+  <figcaption>The two high earners pull the mean (58) above the median (50).</figcaption>
+</figure>
+
 
 ## QS3 for A2: quantiles
 
@@ -194,6 +227,22 @@ Bottom two fifths together = 5 + 9 = 14%; top two fifths = 22 + 50 = 72%
 If the 90th percentile income is 64 and the 10th is 16 (thousand cu), the 90:10 ratio is 64/16 = 4. A higher ratio means a wider spread. Shares and ratios describe inequality but say nothing about the level of income. Two countries can have the same ratio and very different mean incomes.
 
 **Evaluating a measure.** Mean income can hide inequality. The median is more robust but ignores how large the top values are. The IQR ignores the extremes entirely. The strongest answers say what each measure leaves out and then say which fits the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--09-quartiles-iqr.webp" width="900" height="820" alt="Eleven ordered incomes with positions 1 to 11. Q1 is at position 3 (11), the median at position 6 (18) and Q3 at position 9 (30), so the IQR is 19. The mean of 28.55 is well above the median." loading="lazy">
+  <figcaption>Quartiles sit at position (n + 1) x fraction, and the IQR ignores extreme values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--10-quintile-shares.webp" width="900" height="790" alt="Income shares of five equal groups of people: 5%, 9%, 14%, 22% and 50%, totalling 100%. The top fifth gets ten times the bottom fifth." loading="lazy">
+  <figcaption>Quintile shares and ratios describe spread but not the level of income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--04-interpolated-quantiles.webp" width="900" height="900" alt="Eight ordered values numbered 1 to 8 with arrows at positions 2.25, 4.5 and 6.75 giving Q1 = 25.5, median = 33.5 and Q3 = 49, so IQR = 23.5." loading="lazy">
+  <figcaption>With n + 1 = 9, quantile positions fall between values and are interpolated.</figcaption>
+</figure>
+
 
 ## Common errors
 

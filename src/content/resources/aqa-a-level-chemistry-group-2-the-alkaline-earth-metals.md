@@ -67,6 +67,17 @@ SO₄²⁻) is listed at the end of section 3.2.3 but uses this topic directly, 
 Every element has two outer electrons in an s sub-shell, so Group 2 is in the s block. In compounds the
 metals form 2+ ions and have oxidation state +2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--05-group2-thermal-stability.webp" width="900" height="1000" alt="Rows for Mg2+ to Ba2+ show a cation beside a carbonate ion whose electron cloud is distorted most by the smallest cation. Bars show more heat is needed to decompose as the cation gets larger. Equations for carbonate and nitrate decomposition are given. Edexcel only." loading="lazy">
+  <figcaption>Edexcel only: smaller, more highly charged cations polarise the anion more, so Group 2 carbonates and nitrates become more stable down the group.</figcaption>
+</figure>
+
+
 ## Atomic radius
 
 **Trend:** atomic radius increases down the group.
@@ -121,6 +132,12 @@ Magnesium does not fit: its melting point is lower than calcium's. Magnesium has
 crystal structure (hexagonal close-packed; calcium is face-centred cubic), so the simple charge and size
 argument does not apply to it. Use the argument for Ca, Sr and Ba, and treat Mg as the exception.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
+
 ## Reactions with water
 
 Reactivity with water **increases** down the group. The reason links back to ionisation energy: each metal
@@ -151,6 +168,17 @@ Mg(s) + H₂O(g) → MgO(s) + H₂(g)
 Magnesium burns in steam with a bright white light, leaving white MgO.
 
 Both reactions are redox. The metal is oxidised from 0 to +2; hydrogen is reduced from +1 to 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
 
 ## The extraction of titanium using magnesium
 
@@ -207,6 +235,12 @@ which is needed for good crop growth:
 Ca(OH)₂ + 2H⁺ → Ca²⁺ + 2H₂O
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
+
 ## Removing SO₂ from flue gases
 
 Burning fossil fuels that contain sulfur releases sulfur dioxide, an acidic gas. Calcium oxide and calcium
@@ -262,6 +296,12 @@ sulfite ions. The acid removes them first:
 ```
 
 Do not acidify with sulfuric acid: it adds sulfate ions, so you would always see a precipitate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
 
 ### BaSO₄ in medicine
 

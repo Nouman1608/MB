@@ -74,6 +74,22 @@ Total income rises from 100 to 103, so mean growth is 3.0%. The poorest fifth's 
 | Small-firm support and credit | Widens enterprise | Some failure; cost |
 | Minimum wage, anti-discrimination law | Lifts the lowest pay; widens access | Job losses if too high; enforcement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--11-inclusive-growth-fifths.webp" width="900" height="960" alt="Bars of income growth by fifth with a split of the total gain in income. Mean growth is 4.0% but 1.7% for the poorest fifth; the richest fifth gets 60% of the gain." loading="lazy">
+  <figcaption>Average growth hides that the richest fifth receives 60% of the gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--04-equality-vs-equity.webp" width="900" height="1150" alt="Two panels with the same total pay (120) for three workers who work 10, 20 and 30 hours. Equal pay ignores effort; pay that follows effort is unequal. Equality is measurable (positive) while equity rests on values (normative). Illustrative numbers." loading="lazy">
+  <figcaption>Equality can be measured; equity is a value judgement about fairness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
+
 ## 9.2.6 Sustainable growth
 
 **Sustainable economic growth** meets today's needs while leaving future generations able to meet theirs.
@@ -87,6 +103,12 @@ Total income rises from 100 to 103, so mean growth is 3.0%. The poorest fifth's 
 
 - Markets may undervalue the future, so resources are used too fast.
 - Natural capital losses are not shown in GDP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--06-renewable-vs-nonrenewable.webp" width="900" height="1130" alt="Illustrative stock graphs. A renewable resource regrowing 10 a year holds or rises if harvest is 10 or less and runs out if harvest is 15. A non-renewable resource with no regrowth always falls, and faster use empties it sooner." loading="lazy">
+  <figcaption>Renewables are sustainable only if harvest does not exceed regeneration; non-renewables always fall with use.</figcaption>
+</figure>
+
 
 ### Method: years of reserves left
 
@@ -112,6 +134,12 @@ Stock 800 tonnes. Regeneration is 10% of stock a year, so 80 tonnes. Sustainable
 
 Worked reminder: GDP rises 2%, intensity falls 5%. Change in emissions = 1.02 × 0.95 − 1 = −0.031, so emissions fall **3.1%**. If intensity falls 1%, 1.02 × 0.99 − 1 = +0.0098, a **rise of 1.0%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+
 ### Mitigation policies
 
 | Policy | Mechanism | Evaluation points |
@@ -123,6 +151,12 @@ Worked reminder: GDP rises 2%, intensity falls 5%. Change in emissions = 1.02 ×
 | Public investment | Grids, rail, recycling | Cost and delay |
 | International agreements | Share the effort | Free riding |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ### Method: tax on a producer in a linear market
 
 1. Find the equilibrium before the tax.
@@ -132,6 +166,27 @@ Worked reminder: GDP rises 2%, intensity falls 5%. Change in emissions = 1.02 ×
 5. Revenue = t × new quantity. Emissions change = emissions per unit × change in quantity.
 
 Worked reminder: if a tax of 15 per unit leaves 200 units sold, revenue = 15 × 200 = 3,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--12-reserves-run-out.webp" width="900" height="900" alt="Graph of cumulative use against years compared with a 600 million tonne reserve. A reserve lasts 30 years at steady use but about 21 when use grows 4% a year." loading="lazy">
+  <figcaption>Growing use shortens the life of a reserve from 30 years to about 21.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--13-growth-and-emissions.webp" width="900" height="1070" alt="Bars showing absolute and relative decoupling of emissions from GDP growth. GDP +3% with intensity -4% cuts emissions 1.1%; intensity -1% raises them 2.0%." loading="lazy">
+  <figcaption>Emissions fall only if intensity falls faster than GDP grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--14-carbon-tax-example.webp" width="900" height="1060" alt="Supply and demand diagram showing a carbon tax of 10, how it is shared and its revenue. Price rises 60 to 64, output falls 300 to 240, revenue 2,400, emissions down 20%." loading="lazy">
+  <figcaption>A carbon tax shifts supply up: consumers pay 4 more, producers receive 6 less, and emissions fall 20%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--15-carbon-tax-regressive.webp" width="900" height="870" alt="Two bar charts show a lower-income household pays less in money but more as a share of income. Extra cost is 50 versus 150 but 0.42% versus 0.25% of income." loading="lazy">
+  <figcaption>A carbon tax is regressive unless rebates are paid.</figcaption>
+</figure>
+
 
 ## Evaluation chains to reuse
 

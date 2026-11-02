@@ -65,6 +65,27 @@ Evaluation: objectives help only if they fit the business objectives (a low-cost
 
 Evaluation: the best structure depends on size, the skills of staff and how fast the market changes. Delayering saves cost but overloads managers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--01-span-64-staff.webp" width="900" height="940" alt="Two trees with 64 staff at the bottom. Span 4 gives layers of 1, 4, 16 and 64 (21 managers); span 8 gives 1, 8 and 64 (9 managers). The flat structure has fewer layers and fewer managers." loading="lazy">
+  <figcaption>A span of 4 needs four layers and 21 managers; a span of 8 needs three layers and 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--10-line-and-staff.webp" width="900" height="970" alt="A line chain of director, operations manager and sales team with solid command arrows, and staff functions (HR, finance, IT, legal) linked by dashed advice lines. Staff want standard policy; line managers want freedom to hit targets." loading="lazy">
+  <figcaption>Line managers command; staff specialists advise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--07-delegation-accountability.webp" width="900" height="960" alt="Boss, manager and subordinate. The manager passes a task and authority down; the subordinate answers to the manager; the manager still answers to the boss. Responsibility is the duty to do the task, authority the power to decide, and accountability cannot be handed over." loading="lazy">
+  <figcaption>Authority can be delegated; accountability stays with the delegator.</figcaption>
+</figure>
+
+
 ## 3. Communication
 
 Formal communication follows official channels (memos, meetings); informal communication is the grapevine, which is fast but can spread rumour. Group norms are the unwritten standards of behaviour a group expects. A group's objectives may differ from individual ones, and a strong group can help or block messages.
@@ -76,6 +97,12 @@ Verbal methods use words (spoken or written); non-verbal ones use body language,
 **Model:** the source sends a message through a medium; barriers (jargon, noise, distance, language) may interfere; the receiver decodes it; feedback shows whether it was understood.
 
 Evaluation: poor communication causes errors, delay, conflict and lost customers. Good communication helps stakeholders understand objectives, which supports achievement of them. The model is useful for diagnosing where a message failed, but real exchanges are less linear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--06-communication-model.webp" width="900" height="740" alt="A source sends a message through a medium (email, call, talk) to a receiver who decodes it. Barriers such as jargon, noise, distance and language can distort it in the medium. A dashed feedback arrow returns to the source to show whether it was understood." loading="lazy">
+  <figcaption>The source sends a message by a medium, barriers may interfere, the receiver decodes it, and feedback shows whether it was understood.</figcaption>
+</figure>
+
 
 ## 4. The workforce
 
@@ -104,6 +131,37 @@ Benefits: retention, wider recruitment pool, matching staff to demand. Costs: co
 **Selection** chooses between applicants. Methods: application form (consistent), CV, letter of application (shows writing), testing (skills), interview (personal fit, but subjective), work trial (real performance, costly) and references (check history, may be biased). Combine methods to cut the risk of a poor hire, which carries cost for the business, team and customers.
 
 **Training** develops skills. Induction orients new staff; on-the-job is learning at work; off-the-job takes place away from the workplace. Academic training builds knowledge, vocational training builds job skills, and an apprenticeship combines paid work with study. A **training needs analysis (TNA)** compares skills required with skills held to find gaps, so money goes where it is needed. Training raises productivity and retention, but trained staff may leave.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--01-workforce-plan-haverdane.webp" width="900" height="810" alt="Two bars on one scale. Today 52 pickers: 44.2 stay and 7.8 leave (15 percent turnover). Needed next year is 60: the same 44.2 plus 15.8 to recruit. 60 minus (52 minus 7.8) is 15.8, so recruit about 16. Ignoring leavers would give only 8." loading="lazy">
+  <figcaption>Haverdane needs 60 pickers, expects 7.8 of its 52 to leave, so it must recruit about 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--02-rates-turnover-absence-lateness.webp" width="900" height="920" alt="Average staff is 250. Three bars filled to their percentage: labour turnover 35 over 250 is 14 percent; absenteeism 2,300 days over 57,500 available is 4 percent; lateness 600 over 12,000 shifts is 5 percent." loading="lazy">
+  <figcaption>Turnover, absenteeism and lateness at Haverdane are each a share of a total: 14%, 4% and 5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--03-productivity-parcels.webp" width="900" height="880" alt="1,200,000 parcels divided by 250 employees is 4,800 each. Last year it was 4,500, so this year is 300 higher, an increase of 6.7 percent. Bars start at zero." loading="lazy">
+  <figcaption>Productivity rose from 4,500 to 4,800 parcels per employee, up 6.7%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--04-holiday-pro-rata.webp" width="900" height="820" alt="A part-timer works 3 of 5 days, so gets 3/5 of the 28-day full-time holiday: 28 times 3/5 is 16.8 days. A 28-day bar shows 16.8 as the share and 11.2 as the rest." loading="lazy">
+  <figcaption>Working 3 days of a 5-day week gives 3/5 of 28 days, which is 16.8 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--05-performance-related-pay.webp" width="900" height="800" alt="Basic pay of 24,000 pounds plus a bonus linked to results. The 3 percent bonus is 720 pounds, shown as a thin gold slice of the pay bar. Total pay is 24,720 pounds." loading="lazy">
+  <figcaption>A 3% bonus on a 24,000 pound salary is 720 pounds, making 24,720 pounds in total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--01-compressed-hours.webp" width="900" height="1050" alt="Two rows of day bars. A usual week is five days of 8 hours, 40 hours. Compressed hours work the same 40 hours in four days of 10 hours, with the fifth day off." loading="lazy">
+  <figcaption>Compressed hours keep the 40 hours but fit them into four days.</figcaption>
+</figure>
+
 
 ## 5. Appraisal, workforce performance, redundancy and dismissal
 
@@ -156,6 +214,12 @@ Motivation is the desire to work to achieve something.
 - **Excellence theory:** Peters, motivation is supported by autonomy and valuing people.
 
 **Monetary** methods include pay, bonus and profit share; **non-monetary** include recognition, job enrichment, training and flexible hours. Motivated staff improve productivity and cut turnover, lifting profit and customer service.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--02-herzberg-two-scales.webp" width="900" height="860" alt="Two scales. Hygiene factors run from dissatisfied to not dissatisfied: they stop dissatisfaction. Motivators such as achievement and recognition run from not satisfied to satisfied: they raise satisfaction." loading="lazy">
+  <figcaption>Hygiene factors prevent dissatisfaction; motivators raise satisfaction.</figcaption>
+</figure>
+
 
 ## 8. Employer/employee relations
 

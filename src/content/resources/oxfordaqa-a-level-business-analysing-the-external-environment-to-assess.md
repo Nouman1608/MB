@@ -37,6 +37,12 @@ The specification lets you focus on your own country, but you must know that ext
 
 **How it is examined.** Unit 3: Business analysis tests section 3.3 through two case studies in one paper (80 marks in 1 hour 45 minutes, worth 30% of the International A-level). Each case study opens with a 4-mark calculation, according to the specification. AS section 3.1.1.3 (see the [What is business? study guide](/resources/a-level-oxfordaqa-business-what-is-business/)) covered how incomes, interest rates and exchange rates affect demand and costs. Here the focus is **strategy and the functional areas**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
+
 ## 1. PESTLE analysis
 
 **PESTLE** sorts external factors into Political, Economic, Social, Technological, Legal and Environmental, feeding the **opportunities and threats** of a SWOT analysis (see [Mission, objective and SWOT analysis](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis/)).
@@ -50,6 +56,12 @@ One change can be an opportunity for one firm and a threat for another: an agein
 - A sensible first step before entering a new country, where the factors may be very different.
 
 **Limitations:** it is a snapshot that fast-moving factors soon date; it does not rank factors by likelihood or impact; categories overlap (an emissions law is legal and environmental); forecasting change is uncertain. Its value depends on how often it is updated and whether managers act on it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
 
 ## 2. The political and legal environment
 
@@ -125,6 +137,17 @@ Revenue in pounds = 13.80 ÷ 1.25 = £11.04, 8% less per jar
 
 Responses: fix a rate in advance with the bank, invoice in the home currency, match the currency of inputs to the currency of sales, or switch suppliers. Whether to change price depends on price elasticity and rivals' prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ### Inflation and deflation
 
 **Inflation** is a sustained rise in the general price level; **deflation** is a sustained fall. Both are measured with a **price index**, where a base year is set at 100.
@@ -137,6 +160,12 @@ Inflation rate   = 4.24 ÷ 106.0 × 100 = 4%
 ```
 
 Divide by the earlier index, not by 100. Quenby raised its prices by 3%, so in real terms they fell by about 1% (1.03 ÷ 1.04 = 0.990). An index falling from 100.0 to 98.5 shows 1.5% deflation. Inflation raises input costs and wage demands; deflation can make customers delay purchases and makes debts heavier in real terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
 
 ### Unemployment rates
 
@@ -153,6 +182,17 @@ Extra cost this year = £22,500, a 6% rise in the annual payment
 ```
 
 Higher rates also cut credit-financed demand. Responses: fixed-rate borrowing, delayed projects, or growth funded by retained profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
 
 ## 4. The social environment
 
@@ -173,6 +213,12 @@ Responses: redesign products for new customer groups, offer flexible working, tr
 - **Pressures** come from customers, pressure groups, media and social media, employees, investors and government. Its **value** is greatest when it fits the brand and customers reward it.
 
 The **shareholder concept** says a business exists mainly to maximise owners' returns; the **stakeholder concept** says it should balance the interests of all groups it affects, which makes CSR more likely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## 5. Technological change
 

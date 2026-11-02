@@ -49,6 +49,12 @@ This balance corrects itself. If the core cooled slightly, the outward push woul
 
 When the core runs short of fuel, the outward push can no longer match gravity. The balance shifts, and the star changes its structure. That is the start of stellar evolution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--01-star-stability.webp" width="900" height="890" alt="Three stars show outward pressure arrows longer than, equal to and shorter than inward gravity arrows. When the core is too hot the star expands and cools; too cool and it shrinks and heats. Equal arrows mean a stable main sequence star." loading="lazy">
+  <figcaption>A star is stable when outward pressure balances inward gravity, and this balance corrects itself.</figcaption>
+</figure>
+
+
 ## Fusion as the energy source
 
 In a star's core, light nuclei join to form heavier nuclei. The product has a smaller total mass than the parts. The difference is the mass defect Δm, and the energy released is
@@ -81,6 +87,12 @@ mass converted to energy = L / c² = 3.83 × 10²⁶ / (3.00 × 10⁸)² = 4.26 
 
 The second figure is much smaller than the first. Almost all the hydrogen ends up as helium. Only the 0.7 % mass difference becomes energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--02-hydrogen-fusion.webp" width="900" height="1030" alt="Four hydrogen nuclei fuse into one helium-4 nucleus, releasing positrons, neutrinos and 26.7 MeV. A true-scale bar shows the mass lost is 0.028697 u, 0.71 percent of the original. For the Sun, 6.0e11 kg of hydrogen is fused per second but only 4.3e9 kg becomes energy." loading="lazy">
+  <figcaption>Hydrogen fusion converts 0.71 % of the mass into 26.7 MeV per helium nucleus.</figcaption>
+</figure>
+
+
 ## Conditions for fusion: density and temperature
 
 Nuclei are positively charged, so they repel. To fuse they must get close enough for the strong nuclear force to win. That needs two things.
@@ -99,6 +111,12 @@ The mean thermal energy at 1.5 × 10⁷ K is 3/2 kB T = 1.5 × 1.38 × 10⁻²³
 
 Heavier fuels need higher temperatures, because the charges are larger and the repulsion is stronger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--03-fusion-barrier.webp" width="900" height="1030" alt="A log-log graph shows the electric potential energy of two protons falling as 1/r, 1.44 MeV at 1 fm. A dashed line marks the mean thermal energy at 1.5e7 K, 1.9 keV, about 740 times smaller. Fast nuclei and tunnelling still allow fusion." loading="lazy">
+  <figcaption>The electric barrier is about 740 times the average thermal energy, so fusion needs very high temperature and density.</figcaption>
+</figure>
+
+
 ## Stellar mass and evolution
 
 A star forms from a collapsing cloud of gas. When the core is hot and dense enough, hydrogen fusion starts and the star joins the **main sequence**. Mass decides almost everything that follows.
@@ -108,6 +126,12 @@ A star forms from a collapsing cloud of gas. When the core is hot and dense enou
 - A star of high mass becomes a **super giant**. Its core can fuse heavier elements in stages. Fusion up to iron releases energy, but fusing iron does not, so the core cannot hold itself up. It collapses and the star explodes as a **supernova**, leaving a **neutron star** or a **black hole**.
 
 The mass limits are approximate. The guide asks for the effect of mass, so concentrate on the pattern: low mass gives a long life ending as a white dwarf, and high mass gives a short life ending in a supernova and a compact remnant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--04-evolution-by-mass.webp" width="900" height="1060" alt="A flow chart splits at the gas cloud. Low or moderate mass: main sequence, red giant, white dwarf. High mass: short main sequence, super giant, supernova, neutron star or black hole." loading="lazy">
+  <figcaption>Mass decides a star’s lifetime and its end state.</figcaption>
+</figure>
+
 
 ## The HR diagram
 
@@ -124,6 +148,12 @@ The Hertzsprung-Russell diagram plots **luminosity on the vertical axis** agains
 **Lines of constant radius.** From L = 4πσR²T⁴, a star of fixed R has L ∝ T⁴. On logarithmic axes this is a straight line. Stars above and to the right of a line are larger than stars on it. White dwarfs sit on lines of small radius, and giants and super giants on lines of large radius.
 
 To sketch the diagram: label the axes, draw the main sequence band, put giants and super giants above it on the right, put white dwarfs below it on the left, mark the instability strip, and add a few constant-radius lines running down to the right with radius increasing towards the top right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--05-hr-diagram.webp" width="900" height="1060" alt="A log-log HR diagram with temperature reversed so hot is on the left. It shows the main sequence band with the Sun, red giants, super giants, white dwarfs, the instability strip and dashed lines of constant radius computed from L = 4 pi sigma R^2 T^4. A red super giant of 2e5 Suns and 3500 K sits just above the 1000 R line, radius about 1220 Sun radii." loading="lazy">
+  <figcaption>Position on the HR diagram shows luminosity, temperature and, by the dashed lines, radius.</figcaption>
+</figure>
+
 
 ## Measuring distance: parallax
 
@@ -143,6 +173,12 @@ d = 1 / 0.0832 = 12.0 pc
 
 **Worked example 5.** A star is 7.5 pc away. Then p = 1/7.5 = 0.13 arc-second. A smaller angle means a greater distance, so parallax works only for relatively near stars.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--06-parallax.webp" width="900" height="1165" alt="Earth at two points six months apart views a nearby star against distant stars; the apparent shift is 2p, where p is the angle subtended by 1 AU at the star (drawn exaggerated). d in parsecs = 1/p in arc-seconds; p = 0.0832 arc-second gives 12.0 pc or 39.1 ly." loading="lazy">
+  <figcaption>The parallax angle is half the apparent shift, and distance in parsecs is 1/p.</figcaption>
+</figure>
+
+
 ## Stellar radii
 
 Combine L = σAT⁴ with A = 4πR² to get L = 4πσR²T⁴, so R = √(L / 4πσT⁴).
@@ -161,6 +197,12 @@ R  = 8.46 × 10¹¹ m, about 1220 times the solar radius 6.96 × 10⁸ m
 
 - **Surface temperature.** A star radiates close to a black body, so the wavelength of peak emission gives the temperature through λmax T = 2.9 × 10⁻³ m K. A peak at 3.2 × 10⁻⁷ m gives T = 9.1 × 10³ K.
 - **Composition.** Cooler gas in the outer layers absorbs light at wavelengths that match the energy-level transitions of the elements present. Dark lines in the spectrum identify those elements. Line patterns for atoms are explained in [atomic structure and spectra](/resources/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--07-stellar-spectra.webp" width="900" height="1030" alt="Three black-body curves peak at shorter wavelength for hotter stars (320 nm at 9100 K, 502 nm at 5800 K, 828 nm at 3500 K). Wien’s law turns a 3.2e-7 m peak into 9.1e3 K. A rainbow spectrum with dark absorption lines shows that cooler outer gas absorbs at wavelengths characteristic of its elements." loading="lazy">
+  <figcaption>The peak wavelength gives surface temperature and the dark lines identify elements.</figcaption>
+</figure>
+
 
 ## Common errors
 

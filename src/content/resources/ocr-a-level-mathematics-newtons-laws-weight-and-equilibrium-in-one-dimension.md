@@ -79,6 +79,17 @@ v = u + at = 0 + 1.5 × 8 = 12 m s⁻¹
 
 The second law gives a. The constant-acceleration formulas then give speeds, times and distances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--04-amth-forces-tow.webp" width="900" height="1010" alt="Whole system of 2000 kg: 3300 − 800 = 2000a gives a = 1.25 m per second squared. Trailer alone: T − 300 = 800 × 1.25 gives T = 1300 N. With a rigid bar and braking, the system slows at 1.15 m per second squared and the bar pushes back on the trailer with 620 N thrust (Cambridge 9709, OxfordAQA)." loading="lazy">
+  <figcaption>Treat the whole system first, then one part to find the tow-bar force; a rigid bar can push (thrust).</figcaption>
+</figure>
+
+
 ## Newton's second law with vectors (3.03d)
 
 In vector form, F = ma applies to the whole vector. Column vectors and i, j notation are both used, so F = (F₁, F₂) or F = F₁i + F₂j. Each component obeys the law separately.
@@ -171,6 +182,12 @@ Passenger alone:
 R − 65 × 9.8 = 65 × 0.7, so R = 682.5 N
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+
 ## Smooth contact and light strings (3.03j)
 
 - **Smooth** means no friction. The contact force on a smooth surface is purely normal.
@@ -179,6 +196,12 @@ R − 65 × 9.8 = 65 × 0.7, so R = 682.5 N
 - A string can only pull. Tension T ≥ 0; T = 0 means it is slack.
 
 Limits: no real surface is exactly smooth, a real string has mass and stretches, and an object treated as a particle has size and may rotate. The model suits cases where friction is small and the string is light compared with the load.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--03-amth-forces-pulley.webp" width="900" height="1210" alt="(Top) A 3 kg particle on a smooth table joined over a smooth pulley to a 2 kg hanging particle: T = 3a and 2g − T = 2a give a = 3.92 m per second squared, T = 11.8 N. (Bottom) 7 kg and 4 kg hanging masses: a = 3g/11 = 2.67 m per second squared, T = 49.9 N. Tension is the same on both sides." loading="lazy">
+  <figcaption>Write one F = ma equation per particle; tension is the same each side of a smooth pulley.</figcaption>
+</figure>
+
 
 ## Equilibrium with motion in a straight line (3.03k)
 
@@ -202,6 +225,12 @@ Phase 3: T − 4900 = 500(−0.8), so T = 4500 N; time = 3.6 ÷ 0.8 = 4.5 s
 ```
 
 If the cable is cut, only weight remains, so the acceleration is 9.8 m s⁻² downwards at once, though the body keeps its velocity at that instant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
 
 ## Common errors
 

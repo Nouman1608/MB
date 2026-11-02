@@ -25,6 +25,12 @@ for a paper-by-paper exam-day plan see the
 
 Paper 1 drops from 35% at SL to 25% at HL, and the IA drops from 30% to 20%, with the difference absorbed almost entirely by HL Paper 3 (25%), a component SL students do not sit at all. This is a larger structural shift than in some other DP subjects, where SL and HL differ mainly in content depth rather than in which components exist -- HL Business Management students are assessed on a genuinely different paper structure, not just a harder version of the same three components.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-assessment-revision-notes--01-bus-weightings.webp" width="900" height="760" alt="Two bars each totalling 100 percent: SL Paper 1 35, Paper 2 35, IA 30; HL Paper 1 25, Paper 2 30, Paper 3 25, IA 20. The 25 points lost from Papers 1, 2 and the IA move to HL Paper 3." loading="lazy">
+  <figcaption>SL and HL spread the grade differently, with HL adding Paper 3.</figcaption>
+</figure>
+
+
 ## SL vs HL weightings
 
 | Component | SL | HL |
@@ -42,6 +48,12 @@ study itself (800–1,000 words, describing a **fictitious** organisation) remai
 exam, a different skill from Paper 2 (and HL Paper 3), which respond to stimulus material that is
 entirely **unseen** under timed conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-assessment-revision-notes--02-bus-paper1-release.webp" width="900" height="890" alt="A statement with research topics and about 200 words of the case is released three months early; the rest of the 800 to 1,000 word case stays unseen, while Paper 2 and HL Paper 3 stimulus is wholly unseen." loading="lazy">
+  <figcaption>Only a slice of the Paper 1 case study is known in advance.</figcaption>
+</figure>
+
+
 ## Internal assessment: the same task, weighted differently
 
 Both SL and HL students complete the same **business research project** (maximum 1,800 words,
@@ -50,6 +62,12 @@ requirements do not differ by level — only the weighting does: 30% of the fina
 20% at HL.
 
 Both are marked by your own teacher first, then externally moderated by IB examiners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-assessment-revision-notes--05-bus-ia-weighting.webp" width="900" height="930" alt="One research project of at most 1,800 words and 25 marks on a real organisation, weighted 30 percent at SL and 20 percent at HL, marked by your teacher then moderated by IB examiners." loading="lazy">
+  <figcaption>The IA task is identical at both levels; only the weighting differs.</figcaption>
+</figure>
+
 
 ## The four interdisciplinary concepts
 
@@ -64,9 +82,21 @@ The research project, at both SL and HL, requires applying business tools and th
 
 Command terms are grouped by assessment objective. **AO1** (knowledge and understanding) covers **define**, **describe**, **identify**, **list**, **outline** and **state**. **AO2** (application and analysis) covers **analyse**, **apply**, **comment**, **demonstrate**, **distinguish**, **explain** and **suggest**. **AO3** (synthesis and evaluation) covers **compare**, **contrast**, **discuss**, **evaluate**, **examine**, **justify**, **recommend** and **to what extent** -- these require a reasoned judgement supported by business tools and evidence from the stimulus material. **AO4** (use and application of appropriate skills) is separate from this cognitive-demand ladder and covers skills-specific terms such as **annotate**, **calculate**, **complete**, **construct**, **determine**, **draw**, **label**, **plot** and **prepare**. An examination question can use a command term from the assessment objective level set for that topic, or a less demanding term from a lower level, but not a more demanding term from a higher level. Because Paper 1's pre-released statement (its research topics and roughly the first 200 words of the case study) arrives three months before the exam, students can research those topics in advance, although the rest of the case study, about a fictitious organisation, is unseen until the exam; on Paper 2 and HL Paper 3 the same command terms must be answered against entirely unseen stimulus material under full exam-time pressure -- a genuinely different skill worth practising separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-assessment-revision-notes--03-bus-command-terms.webp" width="900" height="1030" alt="AO1, AO2 and AO3 command terms on three rising steps, AO4 skills terms as a separate list, and the rule that a question may use its own level or a lower one, never a higher one." loading="lazy">
+  <figcaption>Command terms rise from AO1 to AO3; AO4 is a separate skills list.</figcaption>
+</figure>
+
+
 ## Why the four concepts matter for every paper
 
 Change, creativity, ethics and sustainability are not confined to a single unit -- they are the lens through which the guide expects every business scenario to be analysed, on every paper and in the IA. A strong answer at any level typically identifies which of the four concepts is most relevant to the scenario given (for example, recognising that a question about a firm entering a new international market is fundamentally about change) and uses that concept explicitly to frame the analysis, rather than answering purely from unit-specific content in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-assessment-revision-notes--04-bus-four-concepts.webp" width="900" height="930" alt="Change, creativity, ethics and sustainability point into a central circle for every business case. A strong answer picks the concept the scenario is mostly about, such as change for entering a new market." loading="lazy">
+  <figcaption>Four concepts frame every scenario on every paper and the IA.</figcaption>
+</figure>
+
 
 ## HL Paper 3 and the social-enterprise focus
 

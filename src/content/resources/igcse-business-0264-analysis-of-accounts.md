@@ -73,9 +73,21 @@ Step 3: the ratios.
 
 Step 4: interpret. Revenue rose by 28%, yet profit fell slightly. Every ratio worsened. The gross profit margin dropped five percentage points, so the business keeps less from each sale after paying for what it sells. Possible reasons are lower selling prices to win sales or higher material costs. The profit margin fell by 2.5 percentage points, less than the gross profit margin, so expenses grew more slowly than revenue and softened the blow. ROCE fell because capital employed grew by 80,000 and profit did not grow with it. The new capital is earning less than the old.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-analysis-of-accounts--10-yarrick-trend.webp" width="900" height="940" alt="Gross profit margin falls from 40% to 35%, profit margin from 10% to 7.5% and ROCE from 12.5% to 10%, although revenue rose 28% and capital employed rose by 80,000 while profit fell from 50,000 to 48,000." loading="lazy">
+  <figcaption>All three ratios fell even though revenue grew 28%.</figcaption>
+</figure>
+
+
 ### Improving profitability
 
 Margins rise if the business raises prices without losing sales, finds cheaper suppliers, or cuts expenses. ROCE rises if profit rises on the same capital, or if the same profit is earned with less capital. Each route has a cost. Higher prices may lose customers. Cheaper materials may harm quality. Cutting expenses may harm service. Consider these trade-offs when a question asks you to justify a recommendation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-analysis-of-accounts--09-right-divisor.webp" width="900" height="890" alt="Revenue of 500,000 contains gross profit 200,000 and profit 50,000, giving margins of 40% and 10%. Capital employed of 400,000 with the same profit 50,000 gives ROCE of 12.5%." loading="lazy">
+  <figcaption>Margins divide by revenue; ROCE divides by capital employed.</figcaption>
+</figure>
+
 
 ## Liquidity (5.5.2)
 
@@ -118,6 +130,22 @@ There is no single correct figure that suits every business. A ratio of 1:1 or m
 
 If liquidity is weak, the business can collect receivables sooner, hold less stock, delay payments to suppliers where they agree, or arrange longer-term finance in place of the overdraft. Link each fix to its drawback.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-analysis-of-accounts--11-dunmerrow-liquidity.webp" width="900" height="970" alt="Year 1: current assets 150 (inventory 90) against current liabilities 100, current ratio 1.5:1, acid test 0.6:1. Year 2: current assets 160 (inventory 120) against 130, current ratio 1.23:1, acid test 0.31:1. Growth in inventory with falling cash and receivables explains the bigger fall in the acid test." loading="lazy">
+  <figcaption>Excluding inventory shows liquidity weakening more than the current ratio suggests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+
 ## Users of accounts (5.5.3)
 
 Different people read accounts to answer different questions.
@@ -138,6 +166,17 @@ Wendover Tiles Ltd asks its bank for a loan. Its profit is 60,000 and capital em
 A banker might reason like this. A ROCE of 10% suggests the business earns a return, and the profit gives some chance of paying interest. The acid test of 0.5:1 is low, so a short-term cash squeeze is possible. The bank could lend with conditions, such as security or a smaller loan, or ask for a cash-flow forecast first. The decision rests on both ratios, and on what the money is for.
 
 A potential investor asks a different question: will the return justify the risk? An investor compares ROCE with what the money could earn elsewhere. A supplier cares less about ROCE and more about being paid on time, so looks at liquidity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-analysis-of-accounts--05-wendover-lending.webp" width="900" height="1050" alt="Wendover has ROCE of 10% (60,000 on 600,000), a current ratio of 1.4:1 and an acid test of 0.5:1, below the 1:1 line. The bank might lend with conditions or ask for a cash-flow forecast first." loading="lazy">
+  <figcaption>Both ratios, and what the money is for, drive the lending decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## Limitations of accounts and ratio analysis
 

@@ -76,6 +76,17 @@ Worked reminder: a price cut from £10 to £9 is −10%. Quantity rises from 200
 - Ask how reliable the estimate is: how old, how large a sample, what else changed.
 - Reach a judgement that depends on the firm's aim, such as growth, profit or brand image.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-analysis--05-elasticity-values.webp" width="900" height="1020" alt="Number lines show PED of minus 0.8 as inelastic (revenue 100,000 to 101,200 pounds), YED of plus 1.8 for premium bikes (normal) and minus 0.6 for budget bikes (inferior), and PromED of 0.4 where 4,800 pounds extra contribution is less than 10,000 pounds extra spending." loading="lazy">
+  <figcaption>Sign and size of each elasticity value tell the firm what to do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
+</figure>
+
+
 ## 8.1.2 Product development
 
 ### The process (typical sequence)
@@ -107,6 +118,17 @@ Customers (surveys, reviews, complaints), employees (especially sales staff), co
 Judging R&D: weigh the cost and delay against the chance of a product that customers value. A firm in a fast-changing market, or one that needs a unique product, has more to lose by not investing. A firm with spare cash and a long time horizon can accept a slow payback.
 
 Must-know distinction: **research** looks for new knowledge or ideas; **development** turns them into a usable product. Both sit within R&D.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-analysis--04-product-development-funnel.webp" width="900" height="1027" alt="A six-stage funnel: idea generation, screening, concept and business analysis, development, testing, launch. Six sources feed stage one: customers, employees, competitors, suppliers, R&amp;D staff, market research. Stopping a weak idea is cheapest early." loading="lazy">
+  <figcaption>Six typical stages narrow ideas to a launch; many sources feed the first stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-analysis--05-rd-costly-bet.webp" width="900" height="850" alt="Spending on R&amp;D is expensive, uncertain and slow to pay back. If a product launches, benefits are new markets, a longer life cycle, a patent edge and lower unit costs. If nothing launches the spend earns no return." loading="lazy">
+  <figcaption>R&amp;D can pay off, or cost money with nothing to show.</figcaption>
+</figure>
+
 
 ## 8.1.3 Sales forecasting
 
@@ -149,6 +171,22 @@ Use when there is no history (new product) or conditions have changed. Weakness:
 ### Impact on decisions
 
 Production schedules, stock, seasonal hiring, finance for a peak, marketing timing, and whether to invest or cut costs. Flexibility reduces the cost of a wrong forecast. A forecast of rising sales may support new equipment, extra finance or a bigger marketing budget. A forecast of falling sales may lead to a cost review, a new product or a search for new markets. In a case study, link the forecast to the specific decision in the question and say how sure the firm can be of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-analysis--04-centred-moving-average.webp" width="900" height="1040" alt="Quarterly sales over three years with the centred four-quarter moving average rising from 63.25 to 70.625. Seasonal variation is actual minus trend, such as plus 25.75 in Year 1 Quarter 4. Forecasts are 74.8 for Year 4 Quarter 1 and 103.4 for Year 4 Quarter 4." loading="lazy">
+  <figcaption>Four-quarter centred average gives the trend; forecast is trend plus seasonal variation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
+  <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

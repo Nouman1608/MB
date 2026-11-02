@@ -88,6 +88,12 @@ Mains supplies are quoted as rms. For a 230 V rms supply:
 
 Another supply quoted as 120 V rms at 60 Hz has a peak of 170 V, a peak-to-peak value of 339 V and a period of 1/60 = 16.7 ms. Mains frequency and voltage vary between countries, so a question supplies the values it wants you to use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
+</figure>
+
+
 ## The oscilloscope
 
 An oscilloscope plots voltage on the vertical axis against time on the horizontal axis. You need the controls, not the circuitry.
@@ -162,6 +168,12 @@ This is a fraction, and you can multiply by 100 for a percentage. For an ideal t
 | Eddy currents in the core | The changing flux induces currents in the iron itself, which heat it | Laminate the core: thin sheets, insulated from each other |
 | Hysteresis | Energy is used repeatedly magnetising and demagnetising the core | Use a magnetically soft material, such as soft iron |
 | Flux leakage | Not all the flux from the primary links the secondary | Wind the coils close together on a closed core |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
 
 ## Transmitting power at high voltage
 

@@ -60,12 +60,24 @@ Theory, then hypothesis, then plan, then measure, then record, then present, the
 9. Draw an empty results table with headings and units.
 10. State how the data will be processed (a mean, a percentage change, a graph).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--09-variables-plan.webp" width="900" height="980" alt="Four dishes of radish seedlings hold 0, 1, 2 and 4 grams of nitrate per cubic decimetre, with 0 as the water control. Root length in millimetres is measured with a ruler from seed to root tip. Six controlled factors are shown: temperature, light, 10 cm3 of solution, seed variety, seed size and five days." loading="lazy">
+  <figcaption>Independent, dependent and control variables for the nitrate investigation.</figcaption>
+</figure>
+
+
 ## Sampling (1.2d)
 
 - Representative sample: take at random, not by choice.
 - Fieldwork: random coordinates for quadrats, enough quadrats, an identical quadrat size.
 - Bigger sample, better estimate.
 - Density = mean count per quadrat / quadrat area. Population estimate = density x total area.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--12-quadrat-snails.webp" width="900" height="940" alt="Twelve random quadrats on a 400 square metre lawn give counts totalling 48. The mean is 4.0 per quadrat, which is 16 per square metre, so the estimate is 6400 snails." loading="lazy">
+  <figcaption>Mean 4.0 per quadrat gives 16 per m2 and an estimate of 6400 snails.</figcaption>
+</figure>
+
 
 ## Recording and tables
 
@@ -76,6 +88,12 @@ Theory, then hypothesis, then plan, then measure, then record, then present, the
 | Same decimal places as the instrument allows | 24.00 from a ruler marked in mm |
 | Record repeats, then the mean | Averaging an anomaly without comment |
 | Note qualitative observations | Recording on scrap paper |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--10-table-layout.webp" width="900" height="960" alt="A wrong table repeats units in every cell. A right table gives the independent variable first and puts units in the headings only, with plain numbers in the cells. Readings are in whole millimetres to match the ruler." loading="lazy">
+  <figcaption>Put units in table headings, not in every cell.</figcaption>
+</figure>
+
 
 ## Averages and spread (1.3c, 1.3d)
 
@@ -91,6 +109,12 @@ Theory, then hypothesis, then plan, then measure, then record, then present, the
 
 **Anomalies.** Say that it is anomalous, say why you think so, repeat it if possible, and leave it out of the mean while stating that you did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--04-anomaly-mean-median.webp" width="900" height="850" alt="Dot plot of ten root lengths (mm). Nine lie between 34 and 38; one, 61, is circled as an anomaly. Mean with 61 is 38.5 mm, without it 36.0 mm; median is 36 mm either way." loading="lazy">
+  <figcaption>The anomaly shifts the mean from 36.0 to 38.5 mm but not the median.</figcaption>
+</figure>
+
+
 ## Graphs and charts (2c, 1.3a, 1.3b)
 
 | Data | Form |
@@ -104,6 +128,12 @@ Checklist for plotting: axes the right way round, labelled with quantity and uni
 
 **Describe a trend** in three parts: the general pattern, a quoted value or two with units, and any change in the pattern (levels off, peaks, falls).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--11-graph-choice.webp" width="900" height="1000" alt="A scatter graph with best-fit line from the yeast data suits two numerical variables. A bar chart with gaps suits categories. A histogram with touching bars suits grouped continuous data." loading="lazy">
+  <figcaption>Choose a line or scatter graph, bar chart or histogram to fit the data.</figcaption>
+</figure>
+
+
 ## Rate and gradient (M4 skills)
 
 - Rate = amount changed / time taken.
@@ -113,6 +143,12 @@ Checklist for plotting: axes the right way round, labelled with quantity and uni
 - Extrapolation beyond the data is a prediction, not a measurement.
 
 **Worked reminder.** 8.4 cm³ of gas collected in 7 minutes gives 8.4 / 7 = 1.2 cm³ per minute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--05-rate-gradient.webp" width="900" height="960" alt="Graph of CO2 volume against time with six crosses on a straight line through the origin. A triangle shows 10 min and 15.0 cm3, so the gradient is 1.5 cm3 per min. A dashed extension predicts 22.5 cm3 at 15 min (extrapolation)." loading="lazy">
+  <figcaption>The gradient of the line, 15.0 / 10 = 1.5 cm3 per min, is the rate.</figcaption>
+</figure>
+
 
 ## Units, prefixes and magnification (1.4)
 
@@ -133,6 +169,17 @@ Checklist for plotting: axes the right way round, labelled with quantity and uni
 - Percentage change = (new - old) / old x 100. A negative answer is a decrease.
 
 **Worked reminder.** An image 24 mm long at x80: real size = 24 / 80 = 0.30 mm = 300 µm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--13-prefix-magnification.webp" width="900" height="990" alt="A prefix list from tera to nano, with milli and micro highlighted. A 90 micrometre cell is drawn 63 mm long. 63 mm is 63 000 micrometres, and 63 000 divided by 90 gives a magnification of x700." loading="lazy">
+  <figcaption>Convert to the same unit, then divide: 63 000 / 90 = x700.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
 
 ## Error types, with an example each
 

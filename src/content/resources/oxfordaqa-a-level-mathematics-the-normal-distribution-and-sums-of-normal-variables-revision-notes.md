@@ -129,6 +129,12 @@ These save time and reduce lookup errors, so check whether one applies before yo
 - If P(X < a) = p, then P(X > 2μ − a) = p too. The point reflected in the mean has the same tail.
 - Percentage points for p < 0.5 are the negatives of those for 1 − p. For example, the point for 0.10 is −1.2816.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--03-amth-normal-standardising.webp" width="900" height="945" alt="Mango mass M ~ N(310, 20²): 280 g is z = −1.5 and 325 g is z = 0.75. P(280 &lt; M &lt; 325) = Φ(0.75) − (1 − Φ(1.5)) = 0.7734 − 0.0668 = 0.7066, shown as three small standard normal curves." loading="lazy">
+  <figcaption>Standardise with z = (x − μ)/σ, then use Φ and symmetry to find the area between two values.</figcaption>
+</figure>
+
+
 ## Wording clues
 
 | Phrase in the question | What to do |
@@ -191,6 +197,12 @@ Let Y ~ N(35, 4²) for questions 1 to 5. Table values: Φ(1.5) = 0.9332 and Φ(1
 - Rounding z to one decimal place, or rounding too early in the middle of the working.
 - Giving no sketch and no clear line showing which probability is being found.
 - Omitting the statement that the variables are independent, where a sum or difference is being used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--01-amth-normal-shape.webp" width="900" height="1250" alt="Three graphs: two bell curves with means 40 and 60 show that changing the mean slides the curve; two curves centred on 50 with standard deviations 4 and 8 show that a larger spread gives a lower, wider curve of the same area; a curve with mean 50 and sd 9 has points of inflection at 41 and 59. A note says N(30, 16) and N(30, 4²) are the same curve." loading="lazy">
+  <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

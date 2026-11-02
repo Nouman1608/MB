@@ -86,12 +86,44 @@ Reminder: with a span of 4, the first four levels hold 1, 4, 16 and 64 people, a
 3. Payback = one-off cost divided by annual net saving.
 4. Weigh the figures against wider spans, lost experience, morale and communication.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--06-span-levels.webp" width="900" height="880" alt="Four stacks show people on each level for 400 staff: span 3 needs 7 levels (1,093 people), span 5 needs 5 levels (781), span 8 needs 4 (585) and span 20 needs 3 (421). A wider span means fewer levels." loading="lazy">
+  <figcaption>The wider the span of control, the fewer levels the hierarchy needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--08-matrix-structure.webp" width="900" height="880" alt="A grid of functional departments (columns) and project managers (rows). A highlighted worker has arrows to both a functional manager and a project manager. Matrix structures share skills but two bosses can cause conflict and slower decisions." loading="lazy">
+  <figcaption>In a matrix structure staff report to a functional manager and a project manager.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--06-grouping-product-function-region.webp" width="900" height="970" alt="Three small organisation charts: by product (Range A, B, C) because ranges need different skills; by function (finance, marketing, operations) when there is one main product and similar work; by region (UK, Europe, Asia) because tastes, rules and languages differ." loading="lazy">
+  <figcaption>Firms group staff by product, function or region depending on what they sell and where.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+
 ## 7.1.3 Delegation and accountability
 
 - Authority can be delegated; ultimate accountability stays with the delegator.
 - Accountability processes: reporting lines, targets and indicators, appraisal, reports, meetings, audits, rewards and sanctions.
 - Positive impact: frees managers, develops and motivates staff, faster local decisions.
 - Negative impact: errors, inconsistency, training cost, loss of control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--07-delegation-accountability.webp" width="900" height="960" alt="Boss, manager and subordinate. The manager passes a task and authority down; the subordinate answers to the manager; the manager still answers to the boss. Responsibility is the duty to do the task, authority the power to decide, and accountability cannot be handed over." loading="lazy">
+  <figcaption>Authority can be delegated; accountability stays with the delegator.</figcaption>
+</figure>
+
 
 ## 7.1.4 Control, authority and trust
 
@@ -103,6 +135,12 @@ Reminder: with a span of 4, the first four levels hold 1, 4, 16 and 64 people, a
 
 Resolve the conflict by clear targets and limits, training, gradual delegation and review of results.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--10-control-v-trust.webp" width="900" height="690" alt="A scale from less to more control. Too little control lets costly errors go unnoticed; the balance uses targets, limits, training and review of results; too much control checks every step and demotivates staff. The manager stays accountable, so delegate gradually." loading="lazy">
+  <figcaption>Delegation needs a balance between too little and too much control.</figcaption>
+</figure>
+
+
 ## 7.1.5 Centralisation and decentralisation
 
 | | Centralised | Decentralised |
@@ -112,11 +150,23 @@ Resolve the conflict by clear targets and limits, training, gradual delegation a
 
 Typical judgement: it depends on how different local markets are, how skilled local managers are and the cost of a mistake.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
+
 ## 7.1.6 Line and staff
 
 - Line: directly produces or sells (operations, sales); has authority in the chain of command.
 - Staff: supports and advises (human resources, finance, IT, legal).
 - Conflicts: standard policy versus freedom to hit targets; advice from people without operational experience; competition for budgets; resentment of delays.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--10-line-and-staff.webp" width="900" height="970" alt="A line chain of director, operations manager and sales team with solid command arrows, and staff functions (HR, finance, IT, legal) linked by dashed advice lines. Staff want standard policy; line managers want freedom to hit targets." loading="lazy">
+  <figcaption>Line managers command; staff specialists advise.</figcaption>
+</figure>
+
 
 ## 7.2.1 and 7.2.2 Purposes and methods
 
@@ -140,6 +190,12 @@ Essential when: giving instructions, sharing targets, motivating, consulting, co
 
 Problems: delay and distortion through many levels; no check of understanding in one-way messages; missing horizontal links; overload.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--07-communication-channels.webp" width="900" height="890" alt="A small hierarchy with a director, two department heads and staff. Vertical arrows run up and down the hierarchy; horizontal arrows run between the two heads. A second panel shows one-way communication with no feedback and two-way communication with feedback." loading="lazy">
+  <figcaption>Messages travel vertically or horizontally, one way or two ways.</figcaption>
+</figure>
+
+
 ## 7.2.4 and 7.2.5 Barriers and management's role
 
 | Barrier | Remedy |
@@ -154,6 +210,17 @@ Problems: delay and distortion through many levels; no check of understanding in
 - Informal communication: speeds information and shows concerns, but spreads rumour.
 - Efficiency link: fewer errors, quicker decisions, better coordination, higher motivation.
 - Improvements: two-way channels, team briefings with checks on understanding, training, acting on feedback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--08-briefing-cost.webp" width="900" height="1000" alt="15 supervisors times 1.5 hours times 19 pounds is 427.50 pounds a week. A grid of 48 squares, one per week, gives 20,520 pounds a year. A note warns that a summary alone is one-way." loading="lazy">
+  <figcaption>A weekly briefing costs 427.50 pounds, or 20,520 pounds over 48 weeks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-delayering-payback.webp" width="900" height="950" alt="Veltham Cables saves 552,000 pounds on 12 managers, spends 12,000 on extra duties, and nets 540,000 a year (45,000 a month), against 168,000 pounds of redundancy. The cumulative line starts at minus 168,000 and crosses zero at 3.7 months, so payback is 0.311 years." loading="lazy">
+  <figcaption>Redundancy of 168,000 pounds is repaid in about 3.7 months.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

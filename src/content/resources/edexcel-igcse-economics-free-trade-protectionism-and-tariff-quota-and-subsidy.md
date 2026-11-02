@@ -60,6 +60,12 @@ Free trade means no tariffs, quotas or subsidies distort trade. Compare the two 
 
 *Chain of reasoning for a 6-mark style answer:* foreign firms sell at lower prices, so home sales fall, so home firms cut output and jobs, so unemployment rises in that industry. Then weigh it: consumers across the country gain, while a smaller group of workers lose heavily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--01-tiles-free-trade.webp" width="900" height="880" alt="Country A tile market under free trade, with the no-trade equilibrium for comparison. Demand Qd = 120 - 2P and supply Qs = 2P + 10 meet at 27.5 c and 65 thousand with no trade. At the world price of 15 c buyers want 90 thousand and home firms supply 40 thousand, so 50 thousand are imported." loading="lazy">
+  <figcaption>At the world price of 15 c, home supply is 40, demand is 90 and imports are 50.</figcaption>
+</figure>
+
+
 ## b) Reasons for protection
 
 Protection means policies that shield home producers from foreign competition. Each reason below needs a short chain of reasoning.
@@ -87,6 +93,27 @@ Revenue rises, peaks near a 6 c tariff, then falls as imports collapse.
 6. **Reduce current account deficits.** A deficit means more money flows out for imports of goods and services than comes in from exports. With the 3 c tariff, imports fall from 50 to 38 thousand. The import bill paid abroad (excluding the tariff) falls from 50 × 15 = 750 to 38 × 15 = 570, a fall of **180 thousand c**. The effect is smaller if demand for imports is inelastic, and a deficit caused by weak competitiveness is not cured by a tariff alone.
 7. **Retaliation.** If another country puts a tariff on your goods, you may answer with your own tariff, to punish them and push them to remove theirs. It can start a trade war. Suppose exports of 400 fall 10% after another country retaliates. They become 360, which offsets part of the gain from lower imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--05-tariff-revenue-curve.webp" width="900" height="880" alt="Tariff revenue plotted against the tariff from the lesson table. Imports equal 50 - 4t and revenue is t times imports. Revenue is 0, 114, 156, 126 and 24 for tariffs of 0, 3, 6, 9 and 12, peaking near 6." loading="lazy">
+  <figcaption>Tariff revenue peaks near a 6 c tariff and then falls as imports collapse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--11-infant-industry-costs.webp" width="900" height="890" alt="Unit cost against output with points 10:24, 20:19, 30:16, 40:14 and 50:12.5 c. Import price 15 c, tariff price 18 c. The firm competes at 15 c from about 40 and survives with the tariff from 30." loading="lazy">
+  <figcaption>A 20% tariff lets the infant firm survive from 30 thousand tiles until costs fall below 15 c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--12-dumping-example.webp" width="900" height="820" alt="Bars show a foreign firm selling a tile at 14 c at home and 9 c in Country A, 5 c less. Then: home firms undercut, may close, foreign firm raises price. An anti-dumping tariff lifts the import price back up, but buyers lose cheap goods meanwhile." loading="lazy">
+  <figcaption>Selling at 9 c abroad against 14 c at home undercuts home firms; an anti-dumping tariff lifts the price back up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--15-import-bill-tariff.webp" width="900" height="630" alt="Two bars: the import bill under free trade is 50 times 15 = 750; with a 3 c tariff it is 38 times 15 = 570, a fall of 180. The effect is smaller if import demand is inelastic." loading="lazy">
+  <figcaption>With a 3 c tariff the import bill falls from 750 to 570.</figcaption>
+</figure>
+
+
 ## c) Methods of protection and their diagrams
 
 ### Tariff (a tax on imports)
@@ -113,6 +140,12 @@ Reading the diagram:
 
 **Advantages:** protects home output and jobs, raises government revenue, can be removed later. **Disadvantages:** higher prices and less choice for consumers, inefficient home firms kept alive, higher costs for firms using imported inputs, and the risk of retaliation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--02-tiles-tariff.webp" width="900" height="960" alt="Areas on the tariff diagram: producers, government, and the two lost triangles. A 3 c tariff lifts the price to 18 c. Supply rises to 46 and demand falls to 84, so imports are 38. Producers gain 129, the government collects 114, two triangles of 9 are lost, and consumers lose 261." loading="lazy">
+  <figcaption>A 3 c tariff moves the price line up and splits the consumer loss of 261 into 129 + 114 + 18.</figcaption>
+</figure>
+
+
 ### Quota (a limit on the quantity of imports)
 
 A quota fixes how many units can be imported. On the diagram, the import gap between demand and home supply is capped, so the price rises until Qd − Qs equals the quota. To draw it, keep D, S and the world price line, then find the higher price line at which the horizontal gap between S and D equals the quota; imports are that gap, and the world price line is no longer the price buyers pay.
@@ -126,6 +159,12 @@ A quota fixes how many units can be imported. On the diagram, the import gap bet
 5. The 7.5 c gap between 22.5 and 15 is earned by whoever holds the import licences: 7.5 × 20 = 150 thousand c. The government gets nothing unless it sells the licences.
 
 **Advantages:** gives a firm limit on imports, which suits a safety or balance of payments aim. **Disadvantages:** higher prices, no revenue for the government by default, and licence holders can gain at consumers' expense. Foreign sellers may also supply only the quota at the higher price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--03-tiles-quota.webp" width="900" height="910" alt="Quota diagram: the price rises until imports equal the quota, and licence holders collect the gap. A quota of 20 thousand means 110 - 4P = 20, so P = 22.5 c. Demand is 75 and supply 55. The 7.5 c gap on 20 thousand tiles, 150, goes to licence holders." loading="lazy">
+  <figcaption>A quota of 20 raises the price to 22.5 c and gives licence holders 150.</figcaption>
+</figure>
+
 
 ### Subsidy (a payment to home producers)
 
@@ -143,6 +182,22 @@ Compare with the tariff: home output is the same (46), but consumers keep the 15
 *Closed-market version.* Home market with no imports: the subsidy shifts supply to Qs = 2P + 16. Setting 120 − 2P = 2P + 16 gives P = 26 c and Q = 68. Price falls from 27.5 to 26 and output rises from 65 to 68.
 
 **Advantages:** keeps prices low, protects jobs, and leaves the price of imports untouched. **Disadvantages:** costs taxpayers (opportunity cost), can keep inefficient firms alive, and does not raise revenue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--04-tiles-subsidy.webp" width="900" height="910" alt="Subsidy diagram: supply shifts down, buyers keep the world price, taxpayers pay. With a 3 c subsidy home firms receive 18 c and supply 46 thousand. Buyers pay 15 c and demand 90, so imports are 44. The cost to taxpayers is 3 x 46 = 138." loading="lazy">
+  <figcaption>A 3 c subsidy lifts home output to 46 at a cost of 138 to taxpayers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--13-subsidy-closed-market.webp" width="900" height="930" alt="Demand Qd = 120 minus 2P, supply Qs = 2P plus 10 shifting down to Qs = 2P plus 16. Equilibrium moves from 27.5 c and 65 thousand to 26 c and 68 thousand." loading="lazy">
+  <figcaption>In a closed market a 3 c subsidy cuts the price from 27.5 to 26 and raises output from 65 to 68.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--14-tariff-quota-subsidy-compare.webp" width="900" height="810" alt="Three columns: tariff (price 18 c, home output 46, imports 38, government gains 114), quota (22.5 c, 55, 20, licence holders gain 150) and subsidy (15 c, 46, 44, taxpayers pay 138), with dashed free trade levels of 15 c, 40 and 50." loading="lazy">
+  <figcaption>The three measures give different prices, output, imports and winners.</figcaption>
+</figure>
+
 
 ## Choosing and evaluating
 

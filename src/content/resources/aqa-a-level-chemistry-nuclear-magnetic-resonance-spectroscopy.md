@@ -108,6 +108,12 @@ large peak that swamps the sample. So ¹H NMR uses a **deuterated solvent**, suc
 replaced by deuterium (²H), which does not give a signal in a ¹H spectrum. **CCl₄** also works because it
 contains no hydrogen at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
+
 ## ¹³C NMR
 
 In a ¹³C spectrum you meet at this level:
@@ -150,6 +156,12 @@ Compound A has ¹³C peaks at δ 205, 41 and 16. Suggest a structure.
 Butanal and butanone both give four ¹³C peaks, one above 190. ¹H NMR separates them: only the aldehyde
 has a peak at δ 9–10.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+
 ## ¹H NMR
 
 A ¹H spectrum gives three pieces of information:
@@ -163,6 +175,12 @@ A ¹H spectrum gives three pieces of information:
 
 An integration trace has step heights proportional to peak areas. Divide each height by the smallest to
 get the simplest whole-number ratio, then scale it to the total number of H in the molecular formula.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
 
 ### Worked example 3: integration and splitting together
 
@@ -221,6 +239,17 @@ Ethyl ethanoate (CH₃COOCH₂CH₃) and methyl propanoate (CH₃CH₂COOCH₃) 
 
 The splitting patterns match, so the **chemical shift** decides which group is bonded to O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+
 ## Putting the techniques together
 
 ### Worked example 5: identifying compound C
@@ -241,6 +270,12 @@ Deduce the structure.
 5. Quartet (2H) + triplet (3H) = an ethyl group. The singlet (3H) is a CH₃ with no H neighbours.
 6. The singlet at δ 2.1 and the quartet at δ 2.4 are both in the range for H next to C=O.
 7. Compound C is **butanone, CH₃COCH₂CH₃**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
 
 ## Common errors
 

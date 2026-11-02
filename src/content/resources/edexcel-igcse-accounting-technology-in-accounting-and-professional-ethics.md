@@ -58,6 +58,12 @@ Benefits you can explain:
 
 A balanced answer also notes costs: the software must be bought and learned, and a wrong entry is still wrong, however fast it was posted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--01-software-keyed-once.webp" width="900" height="850" alt="A $1,250 invoice is written three times in a manual system: sales day book, customer debit and sales credit. In accounting software it is keyed once and the customer account, sales account and receivables total update together." loading="lazy">
+  <figcaption>Software posts one keyed entry to every record that depends on it.</figcaption>
+</figure>
+
+
 ## 1.3 (a) Benefits of spreadsheets
 
 A spreadsheet is a grid of cells that hold numbers, text or formulas. A formula recalculates whenever the cells it refers to change. This makes spreadsheets suited to calculations and plans that the user designs, such as budgets, depreciation schedules and simple financial statements.
@@ -94,6 +100,12 @@ Further benefits:
 
 Spreadsheets are flexible, but a mistyped formula or a cell overwritten by accident can give a wrong result that looks tidy. Accounting software has more built-in checks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--02-spreadsheet-depreciation.webp" width="900" height="1000" alt="Straight-line depreciation of a $4,800 press with $300 residual value. A 5-year life gives $900 a year and a closing value of $300 in year 5. Changing life to 6 gives $750 a year and the whole schedule recalculates." loading="lazy">
+  <figcaption>Changing one input recalculates every dependent cell.</figcaption>
+</figure>
+
+
 ## 1.3 (b) Security of data: the issues
 
 Accounting data is valuable. Customers owe money, bank details are held, and profit figures are private. The specification names three issues.
@@ -116,6 +128,12 @@ The access issue is who can open, change or delete the records. If anyone can us
 ### Confidentiality
 
 Confidentiality means information is kept private and is used only for the purpose it was given. If a customer's credit limit, a supplier's prices or the business's profit leaked to a competitor, the business could lose trade. Confidentiality can fail through hacking, but also through a printout left on a desk, a screen visible to visitors or a member of staff passing on information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--03-backup-lost-work.webp" width="900" height="810" alt="A disk fails Thursday at 14:30. With daily backups 5.5 hours or 44 transactions are lost. With Friday-only backups 31 hours or 248 transactions are lost." loading="lazy">
+  <figcaption>More frequent backups mean less work to repeat.</figcaption>
+</figure>
+
 
 ## 1.3 (c) Methods of protecting data
 
@@ -141,6 +159,12 @@ The specification groups methods under hardware and software.
 
 Each person has their own password, so changes can be traced to a user. No method is perfect. A backup kept in the same room as the computer is lost in the same fire, which is why off-site copies matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--04-issues-and-protection.webp" width="900" height="760" alt="Data loss is addressed by backups, UPS and scheduled copies. Access is addressed by passwords, user rights and a locked server room. Confidentiality is addressed by encryption, locks, antivirus and firewall." loading="lazy">
+  <figcaption>A security issue is the problem; a method is the protection.</figcaption>
+</figure>
+
+
 ## 1.4 (a) Principles of professional ethics
 
 Accountants are trusted with other people's money and information. Professional ethics are the standards of behaviour that accountants are expected to follow. The specification does not list the principles by name. The five fundamental principles in the international code for professional accountants are a widely used set, and they are suitable for describing the idea:
@@ -152,6 +176,12 @@ Accountants are trusted with other people's money and information. Professional 
 | Professional competence and due care | Keeping knowledge up to date and working carefully, in line with standards |
 | Confidentiality | Not disclosing information gained through work without proper authority, and not using it for personal gain |
 | Professional behaviour | Obeying laws and rules and avoiding conduct that harms the reputation of the profession |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
 
 ## 1.4 (b) Applying the principles to accounting roles and functions
 
@@ -166,6 +196,12 @@ Roles include a bookkeeper recording transactions, an accounts clerk dealing wit
 She should refuse and explain her reasons. If the owner insists, she should record the matter and, in line with her own professional body's guidance, consider seeking advice.
 
 **Worked example 2.** Greta Voss, a payroll clerk, is asked by a friend how much a colleague earns. The salary is confidential information gained through her job, so she must not disclose it. The principle also applies after she changes jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--05-ethics-inflated-sales.webp" width="900" height="775" alt="Recording 18,000 of January deliveries as December sales would raise profit from 62,000 to 80,000, up 29.0 percent. This tests integrity, objectivity and competence with due care, and the bank and creditors rely on the accounts." loading="lazy">
+  <figcaption>Refusing protects the people who rely on the accounts.</figcaption>
+</figure>
+
 
 ## 1.4 (c) Public interest
 

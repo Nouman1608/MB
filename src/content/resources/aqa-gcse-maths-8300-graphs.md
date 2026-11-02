@@ -59,6 +59,17 @@ y  |  7   5   3   1  -1  -3
 
 Each step of 1 in x lowers y by 2, so the gradient is −2. The line crosses the y-axis at (0, 3). If one point does not line up with the others, recalculate it before drawing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+
 ## Gradient, intercept and y = mx + c (A9, A10)
 
 In y = mx + c, **m is the gradient** and **c is the y-intercept**. The equation must start "y =" before you read them off.
@@ -84,6 +95,22 @@ Check with (3, -1): -2(3) + 5 = -1   (correct)
 ```
 
 **Interpreting gradient and intercept.** In context, the gradient is a rate and the intercept is the starting value. A taxi fare is C = 2.5d + 3, where C is the cost in pounds and d is the distance in km. The gradient 2.5 means each extra kilometre costs £2.50; the intercept 3 is a fixed £3 charge before the taxi moves. An 8 km trip costs 2.5 × 8 + 3 = £23. This links to R14 (gradient as a rate of change) in the [ratio, proportion and rates of change revision notes](/resources/aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--08-line-through-two-points.webp" width="900" height="830" alt="Graph of the line through (-1, 7) and (3, -1) with a dashed gradient triangle (+4 across, -8 down). Gradient -2, intercept 5, equation y = -2x + 5, checked at (3, -1)." loading="lazy">
+  <figcaption>The line through (-1, 7) and (3, -1): gradient, intercept, equation and check.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
 
 ## Quadratic graphs: roots, intercepts, turning points (A11)
 
@@ -112,6 +139,12 @@ x^2 - 8x + 13 = (x - 4)^2 - 16 + 13 = (x - 4)^2 - 3
 Turning point: (4, -3), a minimum
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--13-gr-completing-square-turning-point.webp" width="900" height="1050" alt="The parabola y = x² − 8x + 13 is the graph of (x − 4)² moved down 3, with minimum (4, −3), y-intercept (0, 13) and roots 4 ± √3. (x − 4)² − 3 shows the turning point (4, −3) even when the roots are not whole numbers." loading="lazy">
+  <figcaption>(x − 4)² − 3 shows the turning point (4, −3) even when the roots are not whole numbers.</figcaption>
+</figure>
+
+
 ## Recognising and sketching graphs (A12)
 
 | Function | Shape and key features | Tier |
@@ -126,6 +159,17 @@ Turning point: (4, -3), a minimum
 | y = tan x | Repeats every 180°; undefined at 90°, 270°, …; tan 45° = 1 | Higher tier only |
 
 A sketch must show the correct shape and label key points: intercepts, turning points and, for reciprocal graphs, that the curve approaches but does not meet the axes. For exponential graphs, compare values: at x = 2, 2ˣ = 4 but 3ˣ = 9, so the graph with the larger k is steeper for positive x. For trig graphs, use symmetry: if sin x = 0.5 at 30°, it is also 0.5 at 180° − 30° = 150°. The exact values come from G21.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--14-gr-exponential-graphs.webp" width="900" height="1090" alt="y = 3^x, 2^x and (½)^x pass through (0, 1), stay above the x-axis, and take values 9, 4 and ¼ at x = 2. For k &gt; 1 the graph rises and a larger k is steeper; for 0 &lt; k &lt; 1 it falls." loading="lazy">
+  <figcaption>For k &gt; 1 the graph rises and a larger k is steeper; for 0 &lt; k &lt; 1 it falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--09-exponential-growth-decay.webp" width="900" height="970" alt="y = 2^x rises through (0,1),(1,2),(2,4),(3,8),(4,16); y = (1/2)^x falls through (0,1),(1,1/2),(2,1/4),(3,1/8),(4,1/16). Each step multiplies by 2 or by 1/2." loading="lazy">
+  <figcaption>Exponential graphs y = k^x grow when k &gt; 1 and decay when k &lt; 1, both through (0, 1).</figcaption>
+</figure>
+
 
 ## Translations and reflections (A13, Higher tier only)
 
@@ -148,6 +192,12 @@ y = f(x) + 2:  up 2           -> (2, 6)
 y = -f(x):     y changes sign -> (2, -4)
 y = f(-x):     x changes sign -> (-2, 4)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--11-gr-graph-transformations.webp" width="900" height="1140" alt="Four graphs show y = f(x) dashed through (2, 4) and its image: f(x − 3) moves right 3, f(x) + 2 moves up 2, −f(x) reflects in the x-axis and f(−x) reflects in the y-axis. The change inside the bracket moves the graph the opposite way to the sign; outside it works as written." loading="lazy">
+  <figcaption>The change inside the bracket moves the graph the opposite way to the sign; outside it works as written.</figcaption>
+</figure>
+
 
 ## Graphs in real contexts and graphical solutions (A14)
 
@@ -192,6 +242,17 @@ The curve bends downwards, so each trapezium sits below the curve: 84 m is an **
 Gradient = (20 - 4) / (8 - 0) = 16 / 8 = 2 m/s^2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--15-gr-area-gradient-curve.webp" width="900" height="1070" alt="A speed-time curve through (0,0), (2,7), (4,12), (6,15), (8,16) with four trapezia of areas 7, 19, 27, 31 totalling 84 m, and the tangent at t = 4 with gradient 2 m/s². Area under the curve is distance (underestimated by trapezia on a concave curve); the tangent gradient is the acceleration." loading="lazy">
+  <figcaption>Area under the curve is distance (underestimated by trapezia on a concave curve); the tangent gradient is the acceleration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--10-area-under-graph-units.webp" width="900" height="1117" alt="Speed-time grid, one square = 1 s by 2 m/s. Four strips under the curve cover 42 squares, so area = 42 x 2 = 84 m, not 42 m; an underestimate." loading="lazy">
+  <figcaption>Convert grid squares to units using both axis scales: 42 squares x 2 m = 84 m.</figcaption>
+</figure>
+
+
 ## Circles and tangents (A16, Higher tier only)
 
 x² + y² = r² is a circle with centre (0, 0) and radius r. So x² + y² = 20 has radius √20 = 2√5.
@@ -207,6 +268,12 @@ Tangent gradient: 1/2  (negative reciprocal)
 -4 = (1/2)(2) + c  ->  c = -5
 Tangent: y = (1/2)x - 5   (or x - 2y = 10)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--12-gr-circle-tangent.webp" width="900" height="990" alt="The circle x² + y² = 20, the radius to (2, −4) with gradient −2 and the perpendicular tangent y = ½x − 5. The tangent is perpendicular to the radius, so its gradient is the negative reciprocal." loading="lazy">
+  <figcaption>The tangent is perpendicular to the radius, so its gradient is the negative reciprocal.</figcaption>
+</figure>
+
 
 ## Common errors
 

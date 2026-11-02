@@ -72,6 +72,12 @@ components.
   of the Business 2 paper may require candidates to draw on Business 1
   content.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
+
 ## Why Business 2 assumes Business 1
 
 The specification states directly that Component 02 "assumes
@@ -99,6 +105,12 @@ This is the simple break-even calculation the specification requires
 -- total costs equal total revenue at exactly 600 units, so fewer
 sales mean a loss and more sales mean a profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 - **Confusing cash and profit.** A business can be profitable on paper
@@ -120,6 +132,17 @@ sales mean a loss and more sales mean a profit.
   acknowledging the risks the specification also expects (increased
   competition, exposure to currency and international market
   conditions) when a question asks for evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ## How to approach it
 

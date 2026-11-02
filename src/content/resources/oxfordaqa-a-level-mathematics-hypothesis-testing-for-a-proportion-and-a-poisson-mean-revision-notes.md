@@ -83,6 +83,17 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/) · [checklist](/chec
 - Type II errors must be understood, but the specification states that questions requiring the calculation of the risk of a Type II error will not be set.
 - Always describe an error in the context of the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--07-binomial-critical-region.webp" width="900" height="1010" alt="Bar chart of B(28, 0.35). The critical region X ≤ 5 or X ≥ 15 is shaded gold with tails 0.0393 and 0.0337, total 0.0730. The observed 16 is in the critical region so H0 is rejected; doubling P(X ≥ 16) = 0.0136 gives 0.0272 which is below 0.10." loading="lazy">
+  <figcaption>At the 10% level each tail gets at most 5%, and the actual significance level 0.0730 is the probability of a Type I error.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Binomial lower tail.** X ~ B(15, 0.6), H₁: p < 0.6, observed 5, 5% level. P(X ≤ 5) = 0.0338 ≤ 0.05, so reject H₀. P(X ≤ 6) = 0.0950, so the critical region is X ≤ 5 and the acceptance region is 6 ≤ X ≤ 15.

@@ -61,6 +61,17 @@ The guide lists no formulas or definitions here, so the definitions below are st
 4. Measure the result in costs, defect rate and delivery time.
 5. Repeat, because the target moves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--01-lean-scrap-saving.webp" width="900" height="850" alt="Two grids of 100 squares, each 200 frames. Scrap falls from 6 percent (1,200 frames, 50,400 dollars) to 2.5 percent (500 frames, 21,000 dollars), saving 29,400 dollars a year on materials." loading="lazy">
+  <figcaption>Cutting scrap from 6% to 2.5% saves $29,400 a year in materials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--05-lean-tqm-impact.webp" width="900" height="920" alt="Four rows pair gains with risks: costs and quality, employees, flexibility and risk, and time. A good answer links them to the case and reaches a judgement." loading="lazy">
+  <figcaption>AO3 answers weigh gains against risks and then judge.</figcaption>
+</figure>
+
+
 ## Kaizen versus JIT
 
 | Point | Kaizen | JIT |
@@ -71,6 +82,12 @@ The guide lists no formulas or definitions here, so the definitions below are st
 | Main risk | Ideas ignored, enthusiasm fades | Late delivery stops production |
 | Depends on | Open culture and manager response | Reliable suppliers and accurate forecasts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ## Cradle to cradle in brief
 
 - Aim: no waste, because end-of-life materials become new inputs.
@@ -78,6 +95,12 @@ The guide lists no formulas or definitions here, so the definitions below are st
 - Contrast: the linear cradle-to-grave model makes, uses and disposes.
 - Pros: lower raw material use, reputation, ethical appeal.
 - Cons: design and research cost, supplier cooperation, difficulty collecting used products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--01-cradle-to-cradle.webp" width="900" height="880" alt="Two flows. The linear cradle-to-grave flow goes make, use, bin. The cradle-to-cradle flow goes make, use, take back, reuse, and the reused materials feed back into make, so there is no bin." loading="lazy">
+  <figcaption>Cradle to cradle turns end-of-life products back into inputs.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -98,6 +121,17 @@ The guide lists no formulas or definitions here, so the definitions below are st
 
 **TQM:** set customer-focused quality goals, train and empower staff, involve suppliers, use continuous improvement, and measure defects against a zero-defect target.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-benchmarking-gap.webp" width="900" height="810" alt="Bars show Plenmore delivering 82 percent of orders on time against 96 percent for the best performer. The gap is 14 percentage points." loading="lazy">
+  <figcaption>Benchmarking measures the gap to the best performer, then studies how they do it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--03-quality-circle.webp" width="900" height="890" alt="Six workers meet around a table with a leader. They identify, analyze and solve quality problems. Gains are ideas, teamwork and motivation; costs are paid time and disappointment if ideas are ignored." loading="lazy">
+  <figcaption>A quality circle is a small team that meets regularly to solve quality problems.</figcaption>
+</figure>
+
+
 ## Impact checklist
 
 For a 5.3 evaluation, address:
@@ -116,6 +150,12 @@ End with a judgement tied to the case, for example "likely worthwhile if its sup
 - Why they matter: customer trust, access to buyers who demand certification, documented processes, market entry abroad.
 - Costs: fees, audits, paperwork, staff time.
 - Limit: certification shows a system exists, not that every unit is perfect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--04-quality-standards.webp" width="900" height="810" alt="A business documents its system, an outside body audits it and it is certified, for example to ISO 9001. Customers trust it, some buyers require it and foreign markets become easier. It shows a system exists, not that every product is perfect." loading="lazy">
+  <figcaption>Independent certification builds trust but does not guarantee every product.</figcaption>
+</figure>
+
 
 ## Calculation method
 
@@ -143,6 +183,12 @@ Kaizen: a team of 25 makes 2 suggestions each a year. Half are adopted, each sav
 Benchmarking: a call centre answers 70% of calls within 20 seconds, and the best performer answers 90%. The gap is **20 percentage points**. The next step is to study how the best performer rosters staff.
 
 Standards: a firm pays USD 6,000 to be certified and wins extra annual profit of USD 3,000 because of it. Payback is 6,000 ÷ 3,000 = **2 years**. A longer-term judgement also counts customer trust that the figures do not show.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-kaizen-suggestions.webp" width="900" height="959" alt="A grid of 120 circles: 40 staff make 3 ideas each, half (60) are adopted, and at 150 dollars each they save 9,000 dollars a year." loading="lazy">
+  <figcaption>Many small adopted ideas add up to a recurring saving.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -188,3 +234,9 @@ Standards: a firm pays USD 6,000 to be certified and wins extra annual profit of
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, section 5.3, Lean production and quality management (HL only). Marlbridge is not affiliated with the IB.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+

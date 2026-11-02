@@ -129,6 +129,37 @@ This is why the syllabus asks candidates to understand the *limitations*
 of a trial balance, not just how to prepare one — a trial balance that
 balances is not proof that the underlying records are error-free.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--02-difference-clues.webp" width="900" height="781" alt="Swapping the middle digits of 3,470 to 3,740 makes a difference of 270, which is 9 times 30. Four clues pair the nature of a trial balance difference with the likely error: a round figure with addition, an amount equal to one entry with partial omission, divisible by 9 with transposition, and the gap between two amounts with unequal posting." loading="lazy">
+  <figcaption>The size of a trial balance difference points to the type of error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--04-corrected-profit.webp" width="900" height="838" alt="A horizontal waterfall in pounds starts at draft profit 42,300, adds 400, 270 and 140 for overstated or undercast items, deducts 180 for the missed discount allowed and 860 for van repairs wrongly capitalised, and ends at 42,070. A commission error between two customers leaves profit unchanged." loading="lazy">
+  <figcaption>Corrected profit is draft profit adjusted line by line for each error that touches income or expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--05-bank-reconciliation.webp" width="900" height="762" alt="The cash book balance of 4,215 is updated for a credit transfer, bank charges, a standing order, a dishonoured cheque and a cheque error, reaching 4,560. The bank statement balance of 5,790 plus an outstanding lodgement of 1,925 less unpresented cheques of 3,155 also reaches 4,560. The updated cash book figure is the one used in the statement of financial position." loading="lazy">
+  <figcaption>Update the cash book first, then adjust the statement for timing so both agree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Assuming a balanced trial balance means the accounts are error-free --
@@ -141,6 +172,12 @@ individual customer or supplier accounts it summarises. Correcting an
 error in the ledger accounts but forgetting to state its knock-on effect
 on the reported profit figure, which many mark schemes ask for
 explicitly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

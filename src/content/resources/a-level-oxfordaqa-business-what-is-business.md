@@ -86,6 +86,17 @@ A business exists to satisfy customer needs profitably, transforming inputs into
 
 Businesses are classified by sector (primary, secondary, tertiary), by ownership (private, public, not-for-profit), and by scale. Each classification changes the objectives that make sense: a charity measures success by impact, a start-up by survival, a mature plc by return to shareholders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+
 ## Ownership
 
 **Under 9625** (the current specification), types of business ownership
@@ -116,6 +127,12 @@ partnerships, not co-operatives.
 
 **Unlimited liability** means the owner's personal assets can be seized to pay business debts — the phrase that earns the mark, not just naming the concept. The plc's structural problem is the **divorce of ownership from control**: shareholders own the business but directors run it day to day, and their objectives can diverge, with directors sometimes pursuing growth or status while shareholders want returns. Share options and performance-linked pay exist specifically to realign the two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## Mission, objectives and strategy
 
 **Mission** states why the business exists. **Corporate objectives** turn that into measurable targets — profit, growth, market share, diversification, survival. **Strategy** is the long-term plan for achieving them; **tactics** are the short-term actions within it.
@@ -142,6 +159,12 @@ market size   = measured by volume (units sold) or value (revenue)
 Markets are **mass** or **niche**: a niche strategy means lower volume but often higher margins, greater customer loyalty and less direct competition, while carrying concentration risk if that one segment declines. Markets are divided into segments using **demographic, geographic, psychographic and behavioural** criteria, so that products and marketing can be targeted rather than generic.
 
 Price is set where demand meets supply, and demand itself shifts with income, the price of substitutes and complements, tastes, and marketing activity. **Price elasticity of demand** then determines whether a price rise actually raises revenue: it does where demand is inelastic, and it does not where demand is elastic — a single calculation that drives most pricing recommendations in exam answers. (Price elasticity of demand is formally Topic 2 Marketing content under 9625, not Topic 1 — it is included here because market analysis and pricing are closely linked, but treat it as Topic 2 scope in exam terms.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
 
 ## The market and external environment (first-year, 3.1.1.3)
 
@@ -202,6 +225,12 @@ covered in the section above, not a full PESTLE sweep. Revisit
 stakeholder mapping and the broader political/economic/social/
 technological/legal/environmental analysis once you reach the
 second-year strategy content, not as first-year Topic 1 scope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
 
 ## Worked example: expected value and net gain
 

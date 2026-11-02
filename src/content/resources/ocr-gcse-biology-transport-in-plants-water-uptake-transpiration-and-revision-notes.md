@@ -42,6 +42,27 @@ Quick recall for OCR GCSE (9-1) Biology A (J247), statements B2.2f to B2.2j (pla
 - Adaptations: long thin hair (large surface area), thin wall, big vacuole, many mitochondria, carrier proteins.
 - Then: water and ions pass inwards to the xylem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--05-root-hair-cell-adaptations.webp" width="900" height="1290" alt="A root hair cell with a long thin hair in soil, thin wall, large vacuole, many mitochondria and carrier proteins. Water enters by osmosis and mineral ions by active transport." loading="lazy">
+  <figcaption>Each feature of the root hair cell is linked to water uptake by osmosis or ion uptake by active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--08-fan-vs-still-air.webp" width="900" height="1080" alt="Readings 15, 17, 16 mm (still) and 29, 31, 30 mm (fan) in 5.0 minutes give means 16 and 30 mm, rates 3.2 and 6.0 mm per minute and an 87.5 percent increase." loading="lazy">
+  <figcaption>A fan raises the uptake rate by 87.5% because moving air keeps the vapour gradient steep.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--04-root-water-gradient.webp" width="900" height="1040" alt="Two panels. In normal soil, soil water has few dissolved particles so it has a higher water potential than the root hair cell sap, and water enters the cell by osmosis. In salty soil or soil with too much fertiliser, soil water has many dissolved particles and a lower water potential than the cell sap, so the gradient reverses, water leaves the root hair cell and the plant wilts. Gold dots are dissolved particles." loading="lazy">
+  <figcaption>Water uptake and loss at a root hair cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+
 ## B2.2g and B2.2h: Transpiration, translocation and the vessels
 
 **Transpiration in order:**
@@ -62,6 +83,17 @@ Quick recall for OCR GCSE (9-1) Biology A (J247), statements B2.2f to B2.2j (pla
 
 **Ringing evidence:** bark with phloem removed gives a swelling above the cut and starved tissue below; the leaves stay turgid because xylem is intact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--06-phloem-structure.webp" width="900" height="1080" alt="Sieve tube elements joined by perforated sieve plates, each beside a companion cell with a nucleus and many mitochondria. Sucrose flows up or down. Xylem is dead and one-way, phloem living and two-way." loading="lazy">
+  <figcaption>Sieve tubes have little cytoplasm; companion cells supply energy for loading sugars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--09-bark-ring-experiment.webp" width="900" height="1200" alt="A stem with a ring of bark removed. Sugars collect above the cut as a swelling and tissue below is starved; xylem in the centre is intact so water still rises." loading="lazy">
+  <figcaption>Removing a ring of bark shows sugars travel in the phloem, not the xylem.</figcaption>
+</figure>
+
+
 ## B2.2i: Factors and rate
 
 | Factor | Rate of water uptake | Reason to write |
@@ -72,6 +104,17 @@ Quick recall for OCR GCSE (9-1) Biology A (J247), statements B2.2f to B2.2j (pla
 | Humidity up | Down | Gradient smaller |
 
 Write the cause (stomata or gradient) in every explanation, and say that uptake follows loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--07-potometer-rate.webp" width="900" height="1010" alt="A potometer with the bubble moving from 12 mm to 66 mm in 6.0 minutes in a tube of radius 0.60 mm. Rate is 9.0 mm per minute; tube area 1.131 mm squared; volume rate 10.18 mm cubed per minute." loading="lazy">
+  <figcaption>Rate = distance / time; multiply by the tube cross-section to get a volume rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--10-light-stomata-transpiration.webp" width="900" height="900" alt="Two leaf cross-sections. In light the guard cells are turgid, the stoma is open and water vapour from mesophyll diffuses out. In the dark guard cells are flaccid, the stoma is closed and little vapour escapes." loading="lazy">
+  <figcaption>Light opens stomata so more water vapour is lost.</figcaption>
+</figure>
+
 
 ## B2.2j: Potometer and calculations
 
@@ -113,6 +156,17 @@ percentage loss = 2.7 / 130.0 x 100 = 2.1% (2 s.f.)
 mean    = (6 + 8 + 7 + 7) / 4 = 7
 density = 7 / 0.20 = 35 stomata per mm^2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--13-potometer-cut-underwater.webp" width="900" height="770" alt="Two stem bases. Cut in air: air enters the xylem and breaks the water column. Cut under water at a slant: xylem stays full of water." loading="lazy">
+  <figcaption>Cutting under water keeps air out of the xylem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--14-potometer-method-bubble.webp" width="900" height="800" alt="Potometer with leafy shoot, capillary scale in mm and reservoir. Bubble moves from 12 mm to 66 mm in 6.0 minutes: 54 mm, 9.0 mm per minute, 10.18 mm3 per minute with tube area 1.131 mm2. Four numbered method steps." loading="lazy">
+  <figcaption>Method steps and bubble reading for the potometer worked example.</figcaption>
+</figure>
+
 
 ## Practical work you may be asked about
 
@@ -177,6 +231,17 @@ A source is where sugar is made or released, such as a photosynthesising leaf. A
 8. Any two: dead hollow cells with no end walls; lignin in the walls to stop collapse and give support.
 9. It has many mitochondria and supplies energy to load sugars into the sieve tube.
 10. Vapour stays near the leaf, so the concentration gradient is small and diffusion out of the stomata is slow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--11-stomatal-density-fields.webp" width="900" height="640" alt="Five fields of view (0.50 mm across) with 14, 12, 15, 13 and 16 stomata. Mean 14; field area 0.196 mm2; density 14 / 0.196 = 71 per mm2." loading="lazy">
+  <figcaption>Stomatal density from five field counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--12-shoot-mass-loss-oil.webp" width="900" height="840" alt="Two balances: shoot, water and oil layer read 212.6 g at the start and 208.1 g after 3.0 hours. Loss 4.5 g is 2.1 percent of the starting mass, 1.5 g per hour." loading="lazy">
+  <figcaption>Percentage mass loss is found from the starting value.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

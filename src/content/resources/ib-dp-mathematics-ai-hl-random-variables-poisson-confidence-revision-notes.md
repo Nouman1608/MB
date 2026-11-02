@@ -47,6 +47,17 @@ Track your progress on the [printable syllabus checklist](/checklists/ib/ib-dp/m
 - **Confidence interval**: a range, built from one sample, that would contain μ in the stated percentage of repeated samples.
 - **Po(m)**: the Poisson distribution with mean m. X ~ Po(m) means X has this distribution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--02-imath-rv-unbiased.webp" width="900" height="970" alt="Bar chart of books read by 20 people with mean 1.6. The sum of squared deviations 22.8 divided by 20 gives 1.14 and divided by 19 gives 1.2, the unbiased estimate of σ²." loading="lazy">
+  <figcaption>Divide by n − 1 to get the unbiased estimate of the population variance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--04-imath-rv-clt.webp" width="900" height="1250" alt="Three panels show the exact distribution of the mean of n values from a skewed population against a normal curve. The fit is poor at n = 1, better at n = 5 and close at n = 40." loading="lazy">
+  <figcaption>For large n the mean is approximately normal even when the population is not.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula | Condition |
@@ -113,6 +124,17 @@ Use this template: "We are 95% confident that the mean [quantity, with units] of
 What it means: if you took many samples and built an interval from each in the same way, about 95% of those intervals would contain μ. It does not mean there is a 95% probability that μ lies in your one interval, because μ is fixed.
 
 To judge a claim, check whether the claimed value lies inside the interval. Inside: the sample is consistent with the claim. Outside: the sample does not support it. Raising the confidence level widens the interval; a larger sample narrows it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--05-imath-rv-ci-meaning.webp" width="900" height="1140" alt="Twenty simulated 95% intervals around a fixed true mean of 50. One misses the true mean and the rest contain it." loading="lazy">
+  <figcaption>About 95% of intervals built this way contain μ; μ is fixed and the intervals vary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--06-imath-rv-t-vs-z.webp" width="900" height="940" alt="A t curve with 7 degrees of freedom has heavier tails than the normal, so its 90% critical value 1.895 exceeds 1.645. For the eight leaves the t interval 14.2 to 15.0 is wider than a z interval." loading="lazy">
+  <figcaption>With σ unknown use t; the larger multiplier widens the interval.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -59,6 +59,22 @@ These are condensed notes for section 1.6, Analysis and communication of account
 
 Capital employed: add issued shares, reserves and non-current liabilities. Average inventory: add opening and closing inventory, then halve. The syllabus says the question paper does not give you the ratios.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 1. Write the formula. Then substitute figures from the statements.
@@ -90,6 +106,12 @@ Revenue 480,000; cost of sales 288,000; operating expenses 120,000; shares 150,0
 - **Inventory days or rate of inventory turnover:** days is how long stock stays; times is how often it is sold and replaced. Both use average inventory and cost of sales.
 - **Expenses or operating expenses to revenue:** use the group of costs the question names.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--09-hf-profit-feeds-ratio.webp" width="900" height="840" alt="A step-down from revenue 960,000 to profit for the year 58,000, marking which profit figure feeds gross margin (35.0%), ROCE (19.8%) and profit margin (6.0%)." loading="lazy">
+  <figcaption>Each profitability ratio uses a different profit figure.</figcaption>
+</figure>
+
+
 ## Interpreting results
 
 | Result | Possible meaning | Possible causes |
@@ -111,6 +133,12 @@ Revenue 480,000; cost of sales 288,000; operating expenses 120,000; shares 150,0
 
 Always add the drawback. Improvement measures are judged on how well they are justified.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--05-hf-improvement-tradeoffs.webp" width="900" height="982" alt="Six measures, two each for profitability, liquidity and efficiency, each paired with its drawback, such as raising prices risking customers buying elsewhere." loading="lazy">
+  <figcaption>Every measure to improve a ratio carries a drawback that a balanced answer must mention.</figcaption>
+</figure>
+
+
 ## Limitations of accounting information
 
 - Historic cost and past data, not current value or the future.
@@ -119,6 +147,12 @@ Always add the drawback. Improvement measures are judged on how well they are ju
 - A year-end snapshot may be unrepresentative, for example in seasonal trade.
 - Businesses differ in policies, size, products, finance and year end, so comparison is limited.
 - A single ratio has little meaning on its own; use trends and comparisons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

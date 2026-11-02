@@ -37,6 +37,12 @@ These notes condense section 6.1.2(a) to (d), Patterns of inheritance, of the OC
 
 **Test of the idea.** Genetically identical organisms (clones) in different environments show environmental variation only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
+
 ## Genetic diagram method, 6.1.2(b)(i)
 
 1. Key: choose a letter, capital for dominant; define each allele and phenotype.
@@ -66,6 +72,12 @@ All daughters are unaffected carriers, and all sons are affected. A son always g
 
 **Small reminder (probabilities).** For independent genes, multiply. Aabb from AaBb × AaBb: 1/2 × 1/4 = 1/8 for Aa and bb together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
+
 ## Using ratios, 6.1.2(b)(ii)
 
 | Observed ratio | Likely explanation |
@@ -88,6 +100,12 @@ All daughters are unaffected carriers, and all sons are affected. A son always g
 **Epistasis in steps.** (1) Add the ratio numbers to 16. (2) See which classes have merged. (3) Name the gene whose allele masks the other, and state the allele that does the masking. (4) Give the enzyme pathway reason if the question describes one.
 
 **Reminder.** Of 144 offspring from a 9 : 3 : 4 cross you expect 81, 27 and 36. Of 320 from a 12 : 3 : 1 cross you expect 240, 60 and 20.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
 
 ## Chi-squared, 6.1.2(c)
 
@@ -113,6 +131,12 @@ The formula is given: χ² = Σ (fo − fe)² / fe. Learn the steps and the inte
 **Interpretation wording.** Below the critical value: the difference is not significant; it could be due to chance; the results fit the expected ratio. At or above: the difference is significant; reject the null hypothesis; chance is unlikely to explain it.
 
 **Rules.** Use counts, never percentages. Categories only. Do not stop at "reject": say what the evidence suggests about the genes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ## Continuous and discontinuous variation, 6.1.2(d)
 
@@ -160,6 +184,12 @@ Two additive genes give five classes, 1 : 4 : 6 : 4 : 1; n genes give 2n + 1 cla
 9. Discontinuous variation, because the phenotypes fall into separate categories.
 10. They share genes, but differences in diet and environment affect height, so the environmental contribution differs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Genetic diagrams with no key, no gametes row or gametes carrying two alleles of one gene.
@@ -171,6 +201,17 @@ Two additive genes give five classes, 1 : 4 : 6 : 4 : 1; n genes give 2n + 1 cla
 - Concluding "the ratio is proved" or "the hypothesis is accepted"; use the language of significance and chance.
 - Explaining variation using only genes, or only environment, when the question gives both.
 - Describing continuous variation as "controlled by environment"; it is controlled by many genes, with the environment adding to the effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

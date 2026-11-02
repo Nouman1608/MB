@@ -62,17 +62,35 @@ Chain to use in answers: **law changes, so business must do X, which costs or ch
 
 Labour-intensive businesses feel the rise most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--06-min-wage-cost.webp" width="900" height="1010" alt="Fourteen of 24 staff are on the minimum. A rise of 0.70 an hour over 2,000 hours is 1,400 each and 19,600 in total, 1.75% of sales of 1,120,000. Fewer leavers save 2,700, leaving a net cost of 16,900." loading="lazy">
+  <figcaption>The cost is small against sales and is partly offset by lower recruitment costs.</figcaption>
+</figure>
+
+
 ### Laws requiring a safe working environment
 
 - Benefits: fewer accidents, less absence, better morale, good reputation, a level playing field.
 - Drawbacks: equipment and training cost, time on checks and records, disruption.
 - Small firms spread fixed compliance costs over fewer sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--07-safety-cost.webp" width="900" height="920" alt="Compliance costs 7,668 (guards 6,300, training 1,368). One injury without guards costs 23,200 (compensation 15,000, fine 5,000, lost output 3,200), about three times as much." loading="lazy">
+  <figcaption>Breaking safety law costs about three times as much as following it.</figcaption>
+</figure>
+
+
 ### Consumer protection laws
 
 - Impacts: checks on quality, clear product information, refunds and repairs, staff trained in complaints.
 - Benefits: customer trust, repeat sales, protection from rivals who mislead.
 - Failure: refunds, compensation, fines, bad publicity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--08-returns-check.webp" width="900" height="980" alt="Before a check, 60 returns at 65 cost 3,900 a month. A 600 check cuts returns to 30, costing 1,950, so the total is 2,550, a saving of 1,350 a month and 16,200 a year." loading="lazy">
+  <figcaption>A small quality check cuts the cost of refunds.</figcaption>
+</figure>
+
 
 ### Method in steps: assess the impact of a law
 
@@ -82,6 +100,12 @@ Labour-intensive businesses feel the rise most.
 4. Use any figures in the stem.
 5. Weigh benefits against drawbacks for this business.
 6. Make a judgement if the command word asks for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
 
 ## 3.2.6 Competitive environment at a glance
 
@@ -103,6 +127,12 @@ Labour-intensive businesses feel the rise most.
 
 How big the impact is depends on loyalty, how different the product is, and how much cost cushion there is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--09-price-cut-profit.webp" width="900" height="870" alt="Profit drawn as area. 600 bikes at a margin of 100 give 60,000. If Stellmark matches a rival price of 360 the margin is 60 and profit 36,000. It needs 1,000 bikes, 400 more, to earn 60,000 again." loading="lazy">
+  <figcaption>Matching a price cut means selling about 67% more to keep the same profit.</figcaption>
+</figure>
+
+
 ### Minimal or no competition: spot the situation
 
 - Only seller in an area.
@@ -113,9 +143,21 @@ How big the impact is depends on loyalty, how different the product is, and how 
 
 Results: more pricing freedom and profit, but less pressure to improve and a risk that new entrants arrive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
+
 ### Why all businesses face uncertainty
 
 Tastes change; rivals act; costs, interest rates and exchange rates move; technology develops; the economy shifts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--01-risk-against-reward.webp" width="900" height="1056" alt="A balance shows risks (falling sales, new rivals, unpaid bills, theft and accidents) against rewards (profit, being your own boss, an idea made real, independence). Six risk-cutting activities sit below: market research, business plan, insurance, several products, cash reserves, loyal customers. No activity removes risk and each costs money." loading="lazy">
+  <figcaption>An entrepreneur weighs reward against risk and can cut, but not remove, the risk.</figcaption>
+</figure>
+
 
 ### Why entrepreneurs take risks
 
@@ -137,6 +179,12 @@ Profit, independence, turning an idea into a business, meeting a need, personal 
 - Lower cost advantage (often lower labour costs).
 - Local materials, skills or niche products.
 - Limits: transport and delivery times, quality consistency, exchange rates, rivals' brands and service.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--10-cost-advantage.webp" width="900" height="980" alt="Two bars show Nuroo costing 5.70 a shirt against 10.10 for the rival, a 4.40 advantage or 43.6% of rival cost. The advantage can be reduced by slow delivery, variable quality and exchange rates." loading="lazy">
+  <figcaption>Lower costs give a developing-country firm room to undercut, but the edge is not guaranteed.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

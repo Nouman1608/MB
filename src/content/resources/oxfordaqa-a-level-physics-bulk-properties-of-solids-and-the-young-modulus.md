@@ -61,6 +61,22 @@ Beyond the limit of proportionality the graph curves. The elastic limit is the l
 F = mg = 0.450 × 9.81 = 4.41 N. k = F/ΔL = 4.41 / 0.062 = **71.2 N m⁻¹**.
 For 0.80 kg: F = 7.85 N, so ΔL = F/k = 7.85 / 71.2 = **0.110 m**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--01-spring-tensile-compressive.webp" width="900" height="960" alt="The same spring is shown at natural length, pulled by 7.2 N (45 mm longer) and pushed by 4.8 N (30 mm shorter). x is the change from natural length. k = 7.2 / 0.045 = 160 N/m." loading="lazy">
+  <figcaption>Hooke's law F = kx applies to both tensile extension and compression; x is the change in length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--02-force-extension-graph.webp" width="900" height="960" alt="Force against extension for a stiff spring (gradient 160 N/m) and a softer one (80 N/m). The stiff spring is straight to its limit of proportionality at 0.07 m and 11.2 N, then curves." loading="lazy">
+  <figcaption>The gradient of a force-extension graph is the spring constant; a steeper line is a stiffer spring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--07-ductile-stress-strain.webp" width="900" height="1040" alt="A sketch of stress against strain for a ductile metal: straight line to the limit of proportionality, elastic limit, yield point, peak (UTS), necking and breaking. The gradient of the straight part is the Young modulus." loading="lazy">
+  <figcaption>A ductile metal shows an elastic region, then plastic deformation, necking and fracture; the gradient of the straight part is E.</figcaption>
+</figure>
+
+
 ## Tensile stress, strain and breaking stress
 
 Tensile stress is force per unit cross-sectional area: stress = F/A, in pascals (Pa = N m⁻²). Tensile strain is extension per original length: strain = ΔL/L. Strain has no unit. For a wire of diameter d, A = πd²/4, and the diameter must be in metres.
@@ -91,6 +107,12 @@ Triangle: ½ × 12 × 0.020 = 0.12 J.
 Trapezium: ½ × (12 + 20) × (0.060 − 0.020) = 0.64 J.
 Total = **0.76 J**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--03-elastic-energy-area.webp" width="900" height="990" alt="The area under a straight force-extension line is a triangle: 0.5 x 7.2 x 0.045 = 0.162 J. Doubling the extension to 0.090 m gives 0.648 J, four times as much." loading="lazy">
+  <figcaption>Elastic potential energy is the area under the line, E = 1/2 Fx = 1/2 kx squared.</figcaption>
+</figure>
+
+
 ## Plastic, fracture and brittle behaviour
 
 Describe each behaviour from the graph, using the loading and unloading lines.
@@ -99,6 +121,12 @@ Describe each behaviour from the graph, using the loading and unloading lines.
 - **Plastic behaviour:** once the elastic limit is passed, the extension is permanent. On unloading, the line falls parallel to the initial straight part and meets the extension axis at a positive value, the permanent extension. The area between the loading and unloading lines is energy that was not recovered; it is transferred to the internal energy of the material.
 - **Ductile material** (for example, copper): shows a large plastic region before it fractures.
 - **Brittle material** (for example, glass): the graph is a straight line up to the point of fracture, with almost no plastic region. It breaks suddenly at a small extension.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
+  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
+</figure>
+
 
 ## Energy conservation with elastic strain energy
 
@@ -126,6 +154,17 @@ Stress = 85 / 5.03 × 10⁻⁷ = 1.69 × 10⁸ Pa.
 Strain = 3.9 × 10⁻³ / 1.60 = 2.44 × 10⁻³.
 E = 1.69 × 10⁸ / 2.44 × 10⁻³ = **6.9 × 10¹⁰ Pa**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--05-stress-strain-young-modulus.webp" width="900" height="1050" alt="A 2.0 m wire of cross-section 1.0e-6 m squared carries 60 N and extends 1.5 mm. Stress is 6.0e7 Pa, strain is 7.5e-4 and E is 8.0e10 Pa." loading="lazy">
+  <figcaption>Stress is force per area, strain is extension per original length, and their ratio is the Young modulus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--06-measuring-young-modulus.webp" width="900" height="1215" alt="A long thin wire is loaded in equal steps while a marker moves along a fixed scale; the diameter is measured with a micrometer. The extension-force gradient 4.3e-4 m/N gives E = L / (A x gradient) = 1.96e11 Pa." loading="lazy">
+  <figcaption>Measure L, d and the extensions, plot extension against force, and use E = L / (A x gradient).</figcaption>
+</figure>
+
+
 ## Stress-strain curves
 
 Draw stress up the vertical axis and strain along the horizontal. For a given material this graph is independent of the sample's dimensions.
@@ -140,6 +179,12 @@ E = 130 × 10⁶ / 0.0020 = **6.5 × 10¹⁰ Pa**.
 Energy per unit volume = ½ × 130 × 10⁶ × 0.0020 = 1.3 × 10⁵ J m⁻³.
 Volume = 5.03 × 10⁻⁷ × 1.60 = 8.04 × 10⁻⁷ m³.
 Energy = 1.3 × 10⁵ × 8.04 × 10⁻⁷ = **0.105 J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--08-material-types.webp" width="900" height="1165" alt="Stress-strain sketches: ductile copper has a big plastic region; brittle glass is straight to the break; rubber has a loading curve above its unloading curve and returns to zero, the area between them being heat. Strong, stiff and tough are different properties." loading="lazy">
+  <figcaption>Brittle, ductile and polymeric materials have characteristic stress-strain shapes.</figcaption>
+</figure>
+
 
 ## Required practical 2: load-extension of a wire
 

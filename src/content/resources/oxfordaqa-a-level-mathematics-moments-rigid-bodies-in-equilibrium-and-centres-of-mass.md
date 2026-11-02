@@ -56,6 +56,17 @@ moment = 25 sin 70° × 0.35 = 8.22 N m (3 s.f.)
 
 If a line of action passes straight through the point you are using, that force contributes nothing. Use this on purpose: choose the point that an unknown force passes through, and that force drops out of the equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--01-moment-of-a-force.webp" width="900" height="860" alt="A 24 N force acts at A on a 2.5 m rod OA at 40 degrees to the rod. The perpendicular distance from O to the line of action is 2.5 sin 40 = 1.61 m, and F sin theta turns the rod while F cos theta passes through O. Moment = 24 x 2.5 x sin 40 = 38.6 N m anticlockwise." loading="lazy">
+  <figcaption>Only the part of the force at right angles to the rod turns it: moment = F d sin theta.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--02-resultant-moment.webp" width="900" height="1050" alt="A 4 m light rod is pivoted 1.5 m from A with downward forces 30 N at A, 10 N at C and 18 N at B. Moments about P are 45 N m anticlockwise against 15 + 45 = 60 N m clockwise, a resultant of 15 N m clockwise." loading="lazy">
+  <figcaption>Add the moments in one sense and subtract those in the other to find which way the rod turns.</figcaption>
+</figure>
+
+
 ## A rigid body in equilibrium
 
 A rigid body keeps its shape. It stays in equilibrium when both of these hold:
@@ -107,6 +118,12 @@ m = 54 kg
 
 So m must be at most 54 kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--03-beam-two-supports.webp" width="900" height="1100" alt="A 6 m uniform beam of 40 kg rests on supports 1 m and 4.5 m from A with a 30 kg child at 5.5 m. Moments about C remove R_C and give R_D = 602 N; resolving vertically gives R_C = 84 N." loading="lazy">
+  <figcaption>Take moments about a support so one unknown reaction drops out, then resolve vertically for the other.</figcaption>
+</figure>
+
+
 ## Forces in two dimensions: a ladder against a wall
 
 A ladder problem has four contact forces and weights. Draw them first.
@@ -132,6 +149,17 @@ S = 237g / (4.5 tan 62°) = 274 N (3 s.f.)
 So F = 274 N. Because F must not exceed μR, we need μ ≥ 274.4 / 803.6 = 0.342 (3 s.f.). The least coefficient is 0.342.
 
 The horizontal distance of each weight from the foot is its distance along the ladder times cos 62°. The height of the top above the foot is 4.5 sin 62°. Writing these out stops sign and trig slips.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--05-hinged-rod.webp" width="900" height="1000" alt="A 1.8 m, 4 kg rod is hinged at A and held horizontal by a string at 40 degrees to the rod, with a 2 kg particle 1.5 m from A. Moments about A give T = 55.9 N; resolving gives H = 42.8 N and V = 22.9 N, a hinge force of 48.5 N at 28.1 degrees above the horizontal." loading="lazy">
+  <figcaption>Taking moments about the hinge removes both hinge components, leaving the tension to find first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--06-ladder-smooth-wall.webp" width="900" height="1120" alt="A 5 m, 18 kg uniform ladder rests at 70 degrees against a smooth wall. Moments about A use the horizontal arm 2.5 cos 70 for the weight and the vertical arm 5 sin 70 for the wall reaction, giving S = 32.1 N. With R = 176.4 N, mu = 0.182." loading="lazy">
+  <figcaption>Weight acts at a horizontal distance, the wall reaction at a vertical height: cos and sin must not be swapped.</figcaption>
+</figure>
+
 
 ## Centres of mass by symmetry
 
@@ -160,6 +188,12 @@ X Σm = Σ m x        Y Σm = Σ m y
 ```
 
 The centre of mass is (0.625, 0.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--07-centre-of-mass-particles.webp" width="900" height="1260" alt="Particles of 4 kg at (-1, 2), 1 kg at (3, 5) and 3 kg at (2, -3) have sum m = 8, sum mx = 5 and sum my = 4. The centre of mass G is at (0.625, 0.5), marked on the axes." loading="lazy">
+  <figcaption>The centre of mass is the mass-weighted average of the positions.</figcaption>
+</figure>
+
 
 ## Composite bodies
 
@@ -194,6 +228,12 @@ Remaining area = 336
 
 By symmetry about the diagonal y = x, Y = X. The centre of mass is (8.86, 8.86) to 3 s.f.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--08-lamina-with-hole.webp" width="900" height="1090" alt="A 12 cm by 8 cm uniform rectangle has a circular hole of radius 2 cm centred at (9, 3). Treating the hole as area -4 pi, the centre of mass is at x = 5.55 cm and y = 4.15 cm, shifted away from the hole." loading="lazy">
+  <figcaption>Use areas as masses and give a hole a negative area.</figcaption>
+</figure>
+
+
 ## A body suspended in equilibrium
 
 A body hanging freely from a point P is in equilibrium only when its centre of mass G is vertically below P. The weight at G and the tension or reaction at P then have the same line of action, so their moments about P cancel.
@@ -212,6 +252,17 @@ tan α = (14/3) ÷ (19/3) = 14/19
 The edge makes 36.4° with the vertical.
 
 If a particle is added, include it in the system first, then find the new G.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--04-point-of-tilting.webp" width="900" height="1060" alt="The beam is about to tilt about D, so R_C = 0. Moments about D give 40g x 1.5 = Mg x 1.5, so M = 40 kg; a number line shows the beam stays level below 40 kg and tilts above it. The 30 kg child would need to stand 6.5 m from A, beyond the 6 m beam." loading="lazy">
+  <figcaption>When a beam is about to tilt about one support, the reaction at the other support is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--09-lamina-hanging-freely.webp" width="900" height="1002" alt="A right-angled triangle ABC with AB = 12 cm and BC = 9 cm hangs freely from A. G is at (3, 4) with B at the origin and must lie vertically below A, so AG is 3 across and 8 down. The angle between AB and the vertical has tan = 3/8, giving 20.6 degrees." loading="lazy">
+  <figcaption>A freely suspended lamina settles with its centre of mass directly below the suspension point.</figcaption>
+</figure>
+
 
 ## Common errors
 

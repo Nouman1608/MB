@@ -62,6 +62,12 @@ Quick recall for sections 2.1 (The role of markets) and 2.2 (Demand) of OCR GCSE
 
 **Evaluation pointers.** Gains depend on demand staying strong and on workers retraining easily. Diversified regions and countries cope better. Always end with a judgement: usually the gains are larger, provided risk is managed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## 2.2: demand
 
 **Method: building a market demand schedule**
@@ -86,6 +92,32 @@ Quick recall for sections 2.1 (The role of markets) and 2.2 (Demand) of OCR GCSE
 | Price expected to rise | Shift right now |
 
 **Consequences.** Shift right with unchanged supply: price pressure upward, higher revenue and perhaps more hiring for producers; consumers pay more or find shortages. Shift left: lower sales, discounts, possible cuts in output and jobs. Movement: price cut raises quantity; whether revenue rises depends on PED.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--11-market-demand-sum.webp" width="900" height="970" alt="Horizontal stacked bars show weekly pizza demand in Town T at each price from 12 pounds down to 4 pounds. Each bar adds Ana, Bilal and Cara. Totals are 3 at 12 pounds, 6 at 10, 9 at 8, 13 at 6 and 18 at 4. As price falls, every buyer wants more, so the market total rises." loading="lazy">
+  <figcaption>Market demand at each price is the sum of what every buyer wants to buy at that price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--01-pizza-ped-along-one-curve.webp" width="900" height="1020" alt="Pizza demand segment A (8 to 6 pounds): price -25.0%, quantity +44.4%, PED -1.78, elastic. Segment B (6 to 4 pounds): price -33.3%, quantity +38.5%, PED -1.15, less elastic. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>PED is different at different parts of one demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--02-ped-shapes-and-determinants.webp" width="900" height="1320" alt="Vertical line PED 0; steep line 0 to 1; shallow line above 1; horizontal line infinite. Six determinants listed from the lesson. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four demand curve shapes and the factors that make demand flatter or steeper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--03-pizza-advert-shift.webp" width="900" height="1000" alt="D1 and D2 for pizzas with D2 3 higher at each price; at 8 pounds demand rises 9 to 12, +33.3%. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>An advert adds 3 pizzas at every price, shifting demand right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
 
 ## PED
 
@@ -141,6 +173,12 @@ Do not stop at the number: add the interpretation in words, since a bare figure 
 - **Price cut on an elastic good:** quantity rises by a larger percentage than price falls, so revenue rises; but extra output costs more to make, so profit may not rise, and rivals may cut prices too.
 - **Price rise on an inelastic good:** quantity falls by a smaller percentage, so revenue rises; but over time buyers may find substitutes, and consumers on low incomes lose most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--13-stool-specialisation.webp" width="900" height="970" alt="Four workers each stack stools. Without specialisation each makes 3 stools, 12 in total. With specialisation each worker adds to a shared output of 5 per worker, 20 in total, a rise of 66.7%. Labour cost is 320 pounds a day, so cost per stool falls from 26.67 pounds to 16.00 pounds, a fall of 40%." loading="lazy">
+  <figcaption>When four workers specialise, output rises from 12 to 20 stools a day and labour cost per stool falls 40%.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Define a market.
@@ -183,3 +221,19 @@ Do not stop at the number: add the interpretation in words, since a bare figure 
 ## Official syllabus
 
 Source: Cambridge OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+

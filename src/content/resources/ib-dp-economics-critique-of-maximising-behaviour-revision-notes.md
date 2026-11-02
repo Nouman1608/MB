@@ -86,6 +86,12 @@ The guide sets this at AO3 depth. Your answers should weigh strengths and limita
 
 **Default (invented).** 10,000 members: opt-in 20% = 2,000, opt-out 75% = 7,500, so the default adds 5,500 participants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--10-eco73-biases-anchoring-availability.webp" width="900" height="920" alt="Anchoring: the headline 37.5 percent cut is only a 6.25 percent real saving against the usual 160. Availability: the felt expected loss is 150 against a true 6 and a cover price of 20. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Two biases that bend a price decision (HL only).</figcaption>
+</figure>
+
+
 ## Nudge theory and choice architecture
 
 - A good nudge is easy and cheap to avoid.
@@ -93,6 +99,12 @@ The guide sets this at AO3 depth. Your answers should weigh strengths and limita
 - The guide also lists consumer nudges in sub-topic 2.7 (HL only), where they are weighed against other government tools.
 
 **Strengths:** low cost, keeps freedom, targets bias. **Limitations:** may fade, hard to measure, ethical doubts about influence, may not change strong preferences. Evaluate by comparing with a tax, a ban or an information campaign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--11-eco73-default-nudge.webp" width="900" height="910" alt="Opt-in gives 12 percent (2 400 of 20 000) and opt-out 68 percent (13 600), so the default adds 11 200 members; at 3 a month the extra spend is 403 200 a year. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>A default is a nudge (HL only).</figcaption>
+</figure>
+
 
 ## Business objectives: what to say about each
 
@@ -107,6 +119,12 @@ The guide sets this at AO3 depth. Your answers should weigh strengths and limita
 **Quick numbers (invented).** For P = 100 - 2Q and TC = 200 + 20Q: profit is maximised at Q = 20 (profit 600); revenue peaks at Q = 25 (profit 550); a 400 profit target is met for Q between 10 and 30.
 
 **Evaluating the profit-maximisation assumption:** it predicts well in tough competition, less well where managers have discretion, information is poor or other goals matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--09-eco73-objectives-profit-curve.webp" width="900" height="1030" alt="Profit = -2Q squared + 80Q - 200. Profit is maximal at Q 20 (600), revenue peaks at Q 25 (profit 550), market share at Q 37 (profit 22), satisficing target 400 at Q 10 to 30, CSR spend of 100 gives 500 at Q 20. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>One firm, five objectives (HL only).</figcaption>
+</figure>
+
 
 ## Judging the critique itself
 

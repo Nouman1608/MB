@@ -65,6 +65,17 @@ Tax yield = tax rate × taxable base. A corporation tax cut from 25% to 20% on p
 
 Deficits are financed by borrowing, which raises the national debt. New debt = old debt + deficit. A surplus can repay debt or fund future spending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--03-eco37-budget-balance.webp" width="900" height="950" alt="Two stacked bars: revenue 100 and spending 110 in Country A. The spending bar is 10 taller; that gap is the budget deficit, 1.25% of national output of 800." loading="lazy">
+  <figcaption>Budget balance equals revenue minus spending, so 100 minus 110 is a deficit of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--04-eco37-deficit-scenarios.webp" width="900" height="910" alt="Horizontal bars of the deficit in billions: start 10; income tax cut 14.2; cut with a growing tax base 11.68; sales tax rise 3.8; extra spending 20; spending cut 4." loading="lazy">
+  <figcaption>Tax cuts and spending rises widen a deficit; tax rises and spending cuts narrow it.</figcaption>
+</figure>
+
+
 ## 4.3.9 Fiscal policy and the aims
 
 | Aim | Expansionary fiscal policy | Contractionary fiscal policy |
@@ -94,6 +105,17 @@ Income 60, allowance 12, tax rate 25% on the rest. Tax = (60 − 12) × 0.25 = 1
 - Aims can conflict (jobs against prices; growth against the balance of payments).
 - Tax rises and spending cuts are unpopular.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--02-un157-fiscal-expansion-contraction.webp" width="900" height="830" alt="Two columns. Expansionary: lower tax, higher spending, spending in the economy rises, deficit tends to widen. Contractionary: higher tax, lower spending, spending in the economy falls, deficit tends to narrow." loading="lazy">
+  <figcaption>Fiscal policy moves the two levers of tax and spending up or down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--03-un157-progressive-10-vs-16.webp" width="900" height="850" alt="Two income bars each split into a free allowance of 10 and a taxable part. Tax is 2 on income 20 (10% of income) and 8 on income 50 (16%), so the share rises with income." loading="lazy">
+  <figcaption>A progressive tax takes a larger share of income from the higher earner.</figcaption>
+</figure>
+
+
 ## 4.4.2 Monetary policy measures
 
 ### Interest rates
@@ -105,6 +127,12 @@ Income 60, allowance 12, tax rate 25% on the rest. Tax = (60 − 12) × 0.25 = 1
 
 Worked reminder. A loan of 50,000: at 4% interest is 2,000 a year; at 6% it is 3,000, which is 1,000 more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ### Money supply
 
 | To raise it | To lower it |
@@ -113,6 +141,12 @@ Worked reminder. A loan of 50,000: at 4% interest is 2,000 a year; at 6% it is 3
 | Lower the reserves banks must hold | Raise the reserves banks must hold |
 
 More money makes credit easier and tends to lower interest rates. Less money does the opposite.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ### Exchange rate
 
@@ -125,6 +159,22 @@ Method for conversions:
 Worked reminder. 1 H-unit = 3 J-units. A good costing 30 H-units sells for 30 × 3 = 90 J-units. The H-unit appreciates to 1 H-unit = 4 J-units. The price becomes 30 × 4 = 120 J-units, a rise of 33.3%. Exports become dearer abroad; imports become cheaper at home.
 
 Another reminder. A good priced 60 H-units, with 1 H-unit = 2 J-units, costs 120 J-units. If H depreciates to 1 H-unit = 1.5 J-units, the price falls to 90 J-units, a fall of 25%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--05-eco37-rate-and-investment.webp" width="900" height="920" alt="Two bars show the yearly interest on a 200,000 loan: 10,000 at 5 percent and 14,000 at 7 percent. A line at 12,000 shows the project earnings, so the project gains 2,000 at 5 percent and loses 2,000 at 7 percent." loading="lazy">
+  <figcaption>A higher interest rate can make an investment project unprofitable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--06-eco37-money-supply-levers.webp" width="900" height="880" alt="Two columns. Easier money: the central bank buys bonds or cuts the reserves banks must hold, the money supply rises, credit is easier and rates tend to fall. Tighter money: it sells bonds or raises reserves, the money supply falls, credit is harder and rates tend to rise." loading="lazy">
+  <figcaption>The central bank changes the money supply with bond trades and reserve requirements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--01-un157-a-dollar-appreciation.webp" width="900" height="950" alt="Two pairs of bars show an export going from 20 to 32 B-units (up 60%) and an import going from 48 to 30 A-dollars (down 37.5%) when 1 A-dollar rises from 0.50 to 0.80 B-units." loading="lazy">
+  <figcaption>An appreciation makes exports dearer abroad and imports cheaper at home.</figcaption>
+</figure>
+
 
 ## 4.4.3 Monetary policy and the aims
 

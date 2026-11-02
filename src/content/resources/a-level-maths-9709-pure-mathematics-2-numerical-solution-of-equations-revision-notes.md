@@ -69,6 +69,12 @@ f(3) = 3 sin 3 - 3 = -2.5766   (negative)
 
 Sign change and f is continuous, so a root lies between 2 and 3. (It is about 2.2789.) In degree mode you would get nonsense, so check the mode first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+
 ## Method: iterate to a prescribed accuracy
 
 ```
@@ -145,6 +151,12 @@ All iterates are positive (1, 3, 1.5, 2.4, 1.7647, …), so α = −3 is rejecte
 9. The last three iterates all round to 2.42, so the root is **2.42** (2 d.p.). The first, 2.4136, rounds to 2.41 and is ignored.
 10. **[1.785, 1.795]**: a sign change there confirms the root rounds to 1.79.
 11. eˣ = 4 − x² ⇒ **x = ln(4 − x²)** (valid for −2 < x < 2). Its positive root is about 1.058.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

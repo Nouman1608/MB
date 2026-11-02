@@ -80,6 +80,12 @@ Worked reminder: sonar at 1500 m/s, echo after 0.20 s → 1500 × 0.20 = 300 m �
 3. Faster medium → longer wavelength.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--10-sound-air-to-water.webp" width="900" height="850" alt="A wave drawn to scale crosses from air into water. At 500 Hz the wavelength is 0.66 m in air (330 m/s) and 3.0 m in water (1500 m/s). The frequency is the same, the speed changes, so the wavelength changes in proportion." loading="lazy">
+  <figcaption>Frequency stays the same when sound changes medium; wavelength changes.</figcaption>
+</figure>
+
+
 ## Required practicals
 
 | Practical | What you do | Key points |
@@ -88,11 +94,28 @@ Worked reminder: sonar at 1500 m/s, echo after 0.20 s → 1500 × 0.20 = 300 m �
 | 9: reflection and refraction of light | Ray box, block on paper, mark rays with crosses, draw normal, protractor | Angles measured from the normal; darkened room; compare surfaces and substances |
 | 10: infrared and surfaces | Leslie cube of hot water; IR detector at equal distance from each face | Matt black best emitter and absorber; shiny silver worst |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--08-rp8-ripple-tank-string.webp" width="900" height="1070" alt="Top: ten wavelengths across a ripple tank measured against an 18 cm ruler give a wavelength of 0.018 m; at 8.0 Hz the speed is 0.144 m/s. Bottom: a string with four loops over 1.20 m gives a wavelength of 0.60 m; at 40 Hz the speed is 24 m/s." loading="lazy">
+  <figcaption>Measure across many waves, then divide, to get the wavelength and speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--12-leslie-cube-infrared.webp" width="900" height="890" alt="A Leslie cube of hot water seen from above with an infrared detector at the same distance from each face. The matt black face gives out the most infrared, shown by long arrows and the highest reading; the shiny silver face gives out the least, with short arrows and the lowest reading." loading="lazy">
+  <figcaption>Matt black surfaces emit the most infrared and shiny silver the least.</figcaption>
+</figure>
+
+
 ## Boundaries and reflection (4.6.1.3)
 
 - At a boundary a wave may be **reflected**, **absorbed** or **transmitted**.
 - Ray diagrams: normal at 90° to the surface; angle of incidence = angle of reflection.
 - **Specular** reflection: smooth surface, single direction. **Diffuse**: rough surface, scattered.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--02-reflection-specular-diffuse.webp" width="900" height="925" alt="A smooth surface reflects parallel rays in one direction, each leaving at the same angle from the normal as it arrived (40 degrees). A rough surface is made of tiny faces tilted differently; each ray still obeys angle in equals angle out at its face, but the rays scatter." loading="lazy">
+  <figcaption>Smooth surfaces give specular reflection and rough surfaces give diffuse reflection; both obey the law of reflection.</figcaption>
+</figure>
+
 
 ## Sound, ultrasound and seismic waves -- Higher tier only (4.6.1.4–4.6.1.5)
 
@@ -101,6 +124,37 @@ Worked reminder: sonar at 1500 m/s, echo after 0.20 s → 1500 × 0.20 = 300 m �
 - **Echo sounding**: high-frequency sound measures water depth and finds objects in deep water.
 - **P-waves**: longitudinal, travel through solids and liquids at different speeds.
 - **S-waves**: transverse, **cannot pass through liquids**, so the S-wave shadow shows part of the core is liquid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--01-seismic-p-s-waves.webp" width="900" height="810" alt="Two cross-sections of the Earth with an earthquake at the top. S-waves travel in straight lines through the mantle but stop at the liquid core, leaving a shadow zone on the far side where no S-waves arrive. P-waves pass through the core and change direction at its boundary." loading="lazy">
+  <figcaption>S-waves cannot cross the liquid core, but P-waves can, which is evidence that part of the core is liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--03-wavefronts-refraction.webp" width="900" height="920" alt="Wave fronts arrive at a slant at an air-glass boundary. The end of each front entering glass first slows first, so the fronts turn. In glass the wave fronts are closer together (shorter wavelength) and the ray bends towards the normal." loading="lazy">
+  <figcaption>Refraction happens because the wave slows in glass: the wave fronts bunch up and turn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--09-echo-there-and-back.webp" width="900" height="1050" alt="Top: a person 99 m from a wall hears an echo 0.60 s after a clap; the sound travels 198 m there and back so v = 330 m/s. Bottom, Higher tier only: an ultrasound pulse returns from a boundary after 80 microseconds; the total path is 0.12 m so the boundary is 0.060 m (6.0 cm) deep." loading="lazy">
+  <figcaption>An echo travels there and back, so halve the total distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--11-em-spectrum-uses-hazards.webp" width="900" height="1048" alt="The seven EM bands from radio (longest wavelength) to gamma (shortest) with their uses; microwaves include the 2.5 GHz oven with a wavelength of 0.12 m. Ultraviolet can cause skin ageing and cancer; X-rays and gamma are ionising and can cause mutation and cancer. Dose is in sieverts: 2.4 mSv is 0.0024 Sv." loading="lazy">
+  <figcaption>The EM spectrum with each band main uses and the hazards of the shorter wavelengths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
 
 ## The electromagnetic spectrum (4.6.2)
 
@@ -139,6 +193,12 @@ Long λ, low f → short λ, high f:
 - Ray diagrams: a ray parallel to the axis refracts through the principal focus (convex) or as if from the principal focus on the object side (concave); a ray through the centre of the lens goes straight on. Draw the convex lens as a vertical line with outward arrowheads, the concave lens with inward arrowheads.
 - Magnification is a ratio: same units (mm or cm) for both heights, no unit on the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--04-colour-filters.webp" width="900" height="910" alt="White light hits a red object, which reflects only red light, so the eye sees red. With a green filter in the way, the red light is absorbed by the filter, no light reaches the eye, and the object looks black." loading="lazy">
+  <figcaption>A red object looks black through a green filter because the filter absorbs the red light the object reflects.</figcaption>
+</figure>
+
+
 ## Colour (4.6.2.6)
 
 - Each colour has a narrow band of wavelength and frequency.
@@ -154,6 +214,12 @@ Worked reminder: a white shirt seen through a blue filter looks **blue**; a red 
 - Intensity and wavelength distribution depend on temperature.
 - Perfect black body: absorbs all incident radiation, reflects and transmits none, and is the best possible emitter.
 - **Higher tier only:** constant temperature means absorbing and emitting at equal rates. Absorbing faster → temperature rises. The Earth's temperature depends on rates of absorption and emission and on reflection of radiation into space.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--05-blackbody-curves.webp" width="900" height="910" alt="Graph of radiation intensity against wavelength for a perfect black body at 1000 K, 1250 K and 1500 K. Each curve has a peak. The hotter object has a higher curve at every wavelength and its peak is at a shorter wavelength." loading="lazy">
+  <figcaption>Hotter objects emit more at every wavelength, with the peak moving to shorter wavelength.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

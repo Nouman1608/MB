@@ -71,6 +71,17 @@ Bright Loom Crafts, a sole trader, has these figures.
 
 Capital fell by 1,240. Drawings were 900 and nothing was introduced. Profit = 3,830 − 5,070 + 900 = loss of 340. The owner took out 900, so capital fell even though the loss was smaller than the fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--10-statement-of-affairs.webp" width="900" height="970" alt="Two columns of equal height. Assets of 11,400 on one side; trade payables of 1,900 and capital of 9,500 on the other. Capital is the balancing figure." loading="lazy">
+  <figcaption>Capital is assets less liabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--14-sable-hill-profit.webp" width="900" height="680" alt="Sales of 46,300 less cost of sales 24,700 give gross profit 21,600. Expenses of 14,500 leave profit of 7,100." loading="lazy">
+  <figcaption>Rebuilt sales and purchases give a full income statement.</figcaption>
+</figure>
+
+
 ## Method: finding a missing figure from a bank summary
 
 Pennant Kites banked all takings. For the year: opening bank 1,200; cheques from customers 18,400; cash sales banked 3,100; paid to suppliers 11,900; expenses paid 4,350; closing bank 1,450. Drawings were not recorded.
@@ -78,6 +89,12 @@ Pennant Kites banked all takings. For the year: opening bank 1,200; cheques from
 Drawings = 1,200 + 18,400 + 3,100 − 11,900 − 4,350 − 1,450 = 5,000.
 
 Always check the sign of each balance. A bank overdraft at the start counts as a negative opening balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--11-ir-receipts-payments-summary.webp" width="900" height="830" alt="Bank opening 2,040 plus receipts 40,000 less known payments 29,130 less drawings 9,600 equals closing 3,310. Drawings are the missing figure found by balancing. Receipts and known payments are illustrative." loading="lazy">
+  <figcaption>A missing receipt or payment is found as the balancing figure.</figcaption>
+</figure>
+
 
 ## Method: totals accounts
 
@@ -87,6 +104,17 @@ Always check the sign of each balance. A bank overdraft at the start counts as a
 | Trade payables | Credit: opening balance and credit purchases. Debit: cash paid, discount received, returns outwards and closing balance | Credit purchases |
 
 Once you have credit sales and credit purchases, add cash sales to find total sales. Then use opening and closing inventory to find cost of sales and gross profit. Check expenses for accruals and prepayments before deducting them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--13-totals-accounts-sable-hill.webp" width="900" height="886" alt="A trade receivables total account balances at 43,300 with credit sales as the missing 40,100. A trade payables total account balances at 27,900 with credit purchases as the missing 25,200. Cash sales of 6,200 are added to give sales of 46,300." loading="lazy">
+  <figcaption>Credit sales and credit purchases are the balancing figures in totals accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--14-ir-sable-hill-totals.webp" width="900" height="934" alt="Total trade receivables: opening 3,200 plus credit sales equals cheques 38,500, discount 400, irrecoverable 300 and closing 4,100 (43,300), so credit sales are 40,100 and sales with 6,200 cash are 46,300. Total trade payables: 24,600 paid plus 3,300 closing equals 2,700 opening plus credit purchases, so purchases are 25,200." loading="lazy">
+  <figcaption>The missing credit sales and purchases are the balancing figures of totals accounts.</figcaption>
+</figure>
+
 
 ## Adjusting values before profit
 
@@ -102,6 +130,12 @@ Any asset or liability changed at the closing date changes closing capital and p
 | Prepaid expense | Increase |
 | Income received in advance | Decrease |
 | Inventory valued lower | Decrease |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--12-late-adjustments-capital.webp" width="900" height="660" alt="Profit of 8,380 falls by 180 for a customer who failed and 240 for rent owing to 7,960. Closing capital falls from 10,780 to 10,360." loading="lazy">
+  <figcaption>A correction to a closing asset or liability changes closing capital and profit by the same amount.</figcaption>
+</figure>
+
 
 ## Worked reminder: an overdraft and a loan
 
@@ -127,6 +161,12 @@ A comment earns credit when it names a feature, gives its effect and links it to
 | Limitations | No trial balance; errors and fraud are harder to find; profit needs extra calculations; information is limited | More time and cost; needs bookkeeping skill; some errors still not revealed by a trial balance |
 
 Points to use in a judgement answer: size of the business, number of credit customers and suppliers, whether a lender or tax authority needs reliable statements, and whether the owner wants to compare expenses year to year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--10-ir-single-vs-double.webp" width="900" height="860" alt="Single entry is cheap, quick and needs no training, but has no trial balance and profit needs extra work. Double entry gives a trial balance and ready statements but is slower, costs more and some errors still hide. Match the system to the business." loading="lazy">
+  <figcaption>Each system has benefits and limitations; choose by the size and complexity of the business.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -162,6 +202,17 @@ Points to use in a judgement answer: size of the business, number of credit cust
 9. Lowers it, because trade receivables and closing capital fall by that amount.
 10. Deducted, because it increases capital without being profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--12-ir-statement-of-affairs.webp" width="900" height="860" alt="Maple Row Cycles has assets of 11,400 at 1 January (equipment 4,800, inventory 3,150, receivables 1,260, bank and cash 2,190) and payables of 1,900, so capital is the balancing figure 9,500." loading="lazy">
+  <figcaption>Capital is assets minus liabilities, the balancing figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--13-ir-profit-from-capital.webp" width="900" height="750" alt="Closing capital 10,780 less opening 9,500 gives a rise of 1,280. Adding drawings of 9,600 and deducting capital introduced of 2,500 gives profit of 8,380." loading="lazy">
+  <figcaption>Profit is the change in capital, with drawings added back and capital introduced deducted.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Adding capital introduced instead of deducting it, or deducting drawings instead of adding them back.
@@ -173,6 +224,12 @@ Points to use in a judgement answer: size of the business, number of credit cust
 - Using one-word comments on systems, such as "easy" or "accurate", with no link to the business described.
 - Writing that double entry removes all errors.
 - Mixing up the statement of affairs with a trial balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--11-profit-from-capital-maple.webp" width="900" height="816" alt="Opening capital 9,500 and closing capital 10,780 give a rise of 1,280. Drawings of 9,600 are added back and capital introduced of 2,500 is deducted, giving profit of 8,380." loading="lazy">
+  <figcaption>Profit is the change in capital plus drawings minus capital introduced.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

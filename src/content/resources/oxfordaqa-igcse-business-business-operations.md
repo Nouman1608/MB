@@ -54,6 +54,17 @@ Efficiency means producing more with the resources used, or producing the same w
 
 When you evaluate Kaizen, consider the benefits (lower waste, lower costs, better ideas from the people who do the job) against the costs (time in meetings, training, and the risk that staff stop suggesting ideas if nothing is acted on).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--11-batch-shift-timeline.webp" width="900" height="780" alt="A timeline of an 8-hour oven shift: three 2-hour batches of 240 loaves separated by two 30-minute changeovers, using 7 hours and leaving 1 hour unused. Output is 720 loaves and the oven is idle during each changeover." loading="lazy">
+  <figcaption>Batch production fits three batches in an 8-hour shift, but the oven is idle during changeovers.</figcaption>
+</figure>
+
+
 ## 3.3.2 The role of procurement
 
 Procurement is buying the materials, components and services a business needs.
@@ -73,6 +84,12 @@ Buffer stock is spare stock kept to satisfy demand if sales jump or a delivery i
 
 On these figures alone JIT costs more. The bakery would only switch if the saving from freed space, less waste and less cash tied up is worth more than 3,024, or if it can negotiate cheaper deliveries. A good evaluation says this and gives a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--01-jit-net-cost.webp" width="900" height="840" alt="Two columns compare JIT extra costs (1,800 deliveries plus 1,440 lost discount, 3,240) with the 216 buffer holding cost saved. The net extra cost of JIT is 3,024 a year." loading="lazy">
+  <figcaption>On these figures JIT costs the bakery 3,024 a year more.</figcaption>
+</figure>
+
+
 ### Factors affecting choice of supplier
 
 For a given business you should analyse price, quality and reliability.
@@ -82,6 +99,12 @@ For a given business you should analyse price, quality and reliability.
 - Reliability: delivering the right goods on time, every time. This matters most for a business using JIT.
 
 **Worked example.** Sundridge Fabrics needs cloth. Supplier A charges 4.00 a metre but 5% arrives unusable. Supplier B charges 4.20 and only 1% is unusable. Cost per usable metre: A = 4.00 / 0.95 = 4.21; B = 4.20 / 0.99 = 4.24. A is cheaper by about 0.03 per usable metre. If A also delivers late one time in five, and Sundridge runs JIT, the cheaper price may not be worth it. State the numbers, then make the judgement for this business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--02-supplier-usable-metre.webp" width="900" height="910" alt="Two grids of 100 metres show 5 wasted from Supplier A and 1 from Supplier B. Cost per usable metre is 4.21 for A and 4.24 for B, so A is about 0.03 cheaper unless late deliveries matter under JIT." loading="lazy">
+  <figcaption>The cheapest price is not always the cheapest cost per usable metre.</figcaption>
+</figure>
+
 
 ## 3.3.3 The concept of quality
 
@@ -105,6 +128,12 @@ Costs: better materials, training, equipment and checking. Benefits: fewer retur
 
 **Worked example.** Tolpuddle Toys sold 20,000 games last year. Three per cent were returned, each return costing 12 to handle and replace, so returns cost 600 x 12 = 7,200. A quality programme costing 5,000 a year should cut returns to 1%: 200 x 12 = 2,400. The saving is 7,200 - 2,400 = 4,800, which is 200 less than the cost. On direct costs alone the programme does not pay for itself in year one. A fuller answer adds the harder-to-measure gains, such as reputation and repeat sales, and may recommend going ahead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--03-tqm-year-one.webp" width="900" height="850" alt="Returns cost 7,200 now. With a 5,000 programme returns cost 2,400, total 7,400. The 4,800 saving is 200 short of the programme cost in year one, before reputation gains." loading="lazy">
+  <figcaption>On direct costs alone the programme is 200 short in year one.</figcaption>
+</figure>
+
+
 ### Quality as a business grows
 
 Growth can put quality at risk. Managers see less of the daily work, new staff need training, and demand may outrun the business's ability to check. Two routes carry particular risks.
@@ -122,17 +151,35 @@ Customer service is the help and attention a business gives before, during and a
 - Customer engagement: creating a positive experience, for example friendly greetings, listening, personal recommendations and quick handling of problems.
 - Post-sales services: help after purchase, such as user training, help lines and servicing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
+
 ### Benefits and dangers
 
 Benefits of good service include greater customer satisfaction, loyalty and repeat custom, good word of mouth and the chance to charge more. Costs of poor service include dissatisfied customers, a poor reputation and lost sales. Good service itself costs money in training, staff time and systems, so businesses weigh it against the return.
 
 **Worked example.** Ormskirk Print Works spends 6,000 a year on a help line. Without it, it expects to lose 5% of its 800 regular customers, which is 40 customers. Each is worth 180 a year in sales contribution. Value kept: 40 x 180 = 7,200, which exceeds the 6,000 cost by 1,200. The help line looks worthwhile, though the figure of 5% is an estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--04-helpline-value.webp" width="900" height="954" alt="40 customers (5% of 800) at 180 each is 7,200 kept, against a 6,000 help line, so the gain is 1,200, though the 5% is an estimate." loading="lazy">
+  <figcaption>The help line keeps 7,200 of value for a 6,000 cost.</figcaption>
+</figure>
+
+
 ### How ICT has changed customer service
 
 - Websites: 24-hour information, frequently asked questions, order tracking and live chat.
 - E-commerce: customers buy online at any time, with fast payment and delivery tracking; it widens the market but needs reliable delivery and returns.
 - Social media: quick, public two-way contact. Businesses can answer queries and gather feedback, but a poor reply is visible to many people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -82,6 +82,12 @@ Debit the account that receives value or gains an asset; credit the account that
 | Liability | Credit | Debit |
 | Income | Credit | Debit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## Source documents
 
 Every entry begins with a document, and knowing which triggers which is examined directly.
@@ -92,6 +98,12 @@ Every entry begins with a document, and knowing which triggers which is examined
 - **Receipt** — proof of payment made or received.
 - **Cheque counterfoil and bank statement** — evidence for cash book entries.
 - **Statement of account** — a summary of transactions sent to a credit customer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
 
 ## Books of prime entry
 
@@ -114,6 +126,12 @@ The **cash book** is both a book of prime entry and part of the ledger, which is
 The ledger divides into the sales ledger (credit customers), the purchases ledger (credit suppliers) and the general ledger (everything else). Balancing an account means totalling both sides, entering the balance carried down to make them agree, and bringing it down on the opposite side below the totals.
 
 A **trial balance** lists every ledger balance to check that debits equal credits. Crucially, it does **not** detect errors of omission, commission, principle, original entry, reversal, or compensating errors — because each of these keeps both sides equal. **Omission** means the transaction was left out entirely, on both sides at once. **Commission** means the right *type* of account was used but the wrong specific account — posting to the wrong customer, for instance. **Principle** means the wrong *type* of account entirely, such as an asset posted to an expense account; commission versus principle is the distinction most often lost, since commission stays within the correct kind of account while principle does not. **Original entry** means the same wrong figure was used on both sides. **Complete reversal** means the debit and credit were entered the correct amount but on the wrong sides. **Compensating** means two separate errors of equal value happen to cancel each other out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Worked example
 

@@ -46,6 +46,12 @@ Depth limits from the guide: detailed substitution mechanisms are not needed at 
 - **Electrophilic addition:** an electrophile attacks the electron-rich C=C bond and the reagent adds across it, leaving a saturated product.
 - **Curly arrow (double-barbed):** shows one electron pair moving, from a lone pair or bond to an atom or new bond position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--03-sn-mechanism.webp" width="900" height="880" alt="Hydroxide attacks the delta-plus carbon of 1-bromo-4-methylpentane. Arrow 1 runs from an oxygen lone pair to carbon; arrow 2 runs from the C-Br bond to bromine, which leaves as bromide. The product is 4-methylpentan-1-ol." loading="lazy">
+  <figcaption>Two curly arrows show a lone pair forming the new C-O bond while the C-Br pair moves onto bromine.</figcaption>
+</figure>
+
+
 ## Recognising the two partners
 
 | | Nucleophile | Electrophile |
@@ -91,6 +97,12 @@ Small reminder: 1-bromobutane + CN⁻ → CH₃CH₂CH₂CH₂CN + Br⁻. The pr
 
 Small reminder: (CH₃)₂CHBr → (CH₃)₂CH⁺ + Br⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--05-heterolytic-fission.webp" width="900" height="860" alt="(CH3)3C-I breaks heterolytically: a double-barbed arrow from the bond to iodine gives a carbocation (6 outer electrons) and I- (8). Below, Cl-Cl breaks homolytically with two fish-hook arrows to give two radicals." loading="lazy">
+  <figcaption>In heterolytic fission both bonding electrons go to one atom; in homolytic fission one goes to each.</figcaption>
+</figure>
+
+
 ## Method in steps: alkene addition equations
 
 > 1. Draw the alkene so the C=C bond is visible.
@@ -111,6 +123,12 @@ Small reminder: but-2-ene + Br₂ → CH₃CHBrCHBrCH₃, 2,3-dibromobutane.
 | Halogenoalkane vs alkene | Halogenoalkane has an electron-poor δ+ carbon (attacked by nucleophiles); alkene has an electron-rich C=C (attacked by electrophiles) |
 | Bromine water with alkene vs alkane | Alkene: decolourised in the dark by addition. Alkane: no change in the dark; radical substitution needs UV light (Reactivity 3.3) |
 | Symmetrical vs unsymmetrical alkene | Symmetrical gives one product with HX or H₂O; unsymmetrical can give two (choosing the major one is Reactivity 3.4.12, HL only) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--08-bromine-water-test.webp" width="900" height="980" alt="Two rows of test tubes in the dark. Orange-brown bromine water turns colourless with an alkene, because the C=C attacks bromine by addition. With an alkane it stays orange-brown, because alkanes need UV light for radical substitution." loading="lazy">
+  <figcaption>In the dark, bromine water is decolourised by alkenes but not by alkanes.</figcaption>
+</figure>
+
 
 ## Linking questions from the guide
 
@@ -160,6 +178,32 @@ Small reminder: but-2-ene + Br₂ → CH₃CHBrCHBrCH₃, 2,3-dibromobutane.
 - Forgetting the acid catalyst when writing the conditions for hydrating an alkene with steam.
 - Claiming one definite product from an unsymmetrical alkene at SL instead of recognising that two are possible.
 - Writing "alkanes do not react with bromine" without saying the reaction needs UV light.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--01-nucleophiles.webp" width="900" height="880" alt="Four nucleophiles are drawn with their lone pairs: hydroxide and cyanide ions (negative) and water and ammonia (neutral). A gold ring marks the lone pair each one donates to make a new covalent bond." loading="lazy">
+  <figcaption>A nucleophile needs a spare lone pair and may be negative or neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--02-electrophiles.webp" width="900" height="880" alt="Four electrophiles are drawn with a dashed gold ring on the site that accepts an electron pair: H+ and a carbocation with six outer electrons (positive), and HBr and a halogenoalkane with delta-plus H or C (neutral)." loading="lazy">
+  <figcaption>Electrophiles are positive or delta-plus species that accept an electron pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--04-substitution-products.webp" width="900" height="1050" alt="Skeletal formulae show 1-chloro-2-methylpropane reacting with OH-, CN- and NH3. The products are 2-methylpropan-1-ol, 3-methylbutanenitrile (one extra carbon) and 2-methylpropan-1-amine, with Cl- or HCl as the other product. The new bond is gold." loading="lazy">
+  <figcaption>The halogen is replaced by the nucleophile's bonding atom; with neutral NH3 the by-product is HCl.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--06-alkene-pi-cloud.webp" width="900" height="910" alt="Ethene lies in one plane with its sigma bonds, with pi electron clouds above and below. This electron-rich region draws in a delta-plus electrophile such as the hydrogen of HBr. The mechanism is HL content (3.4.9)." loading="lazy">
+  <figcaption>The pi cloud above and below the C=C makes alkenes attract electrophiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--07-alkene-additions.webp" width="900" height="1010" alt="Skeletal formulae show hex-3-ene adding Br2 (3,4-dibromohexane), HI (3-iodohexane) and steam with an acid catalyst (hexan-3-ol). The C=C opens and the reagent adds across it, so one product forms from this symmetrical alkene." loading="lazy">
+  <figcaption>Halogens, hydrogen halides and water add across the C=C of a symmetrical alkene to give one product.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

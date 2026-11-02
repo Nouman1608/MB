@@ -72,6 +72,22 @@ Acidified ammonium vanadate(V) is shaken with excess Sn²⁺ ions.
 
 A positive E⦵cell shows feasibility only. It says nothing about rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
+
 ## Chromium: dichromate(VI), Cr³⁺ and Cr²⁺ (17.20-17.21)
 
 **Reduction with zinc in acid.** Orange Cr₂O₇²⁻ is reduced first to green Cr³⁺, then to blue Cr²⁺. Data: Cr₂O₇²⁻/Cr³⁺ +1.33 V; Cr³⁺/Cr²⁺ −0.41 V.
@@ -128,6 +144,17 @@ The darkening of Mn(OH)₂, Fe(OH)₂ and the cobalt ammine is oxidation by air 
 
 A neutral precipitate has as many OH⁻ ligands as the metal's charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
+  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
+</figure>
+
+
 ## Ligand exchange and colour change (17.24)
 
 **Copper with ammonia.** Pale blue [Cu(H₂O)₆]²⁺ gives a pale blue precipitate, [Cu(OH)₂(H₂O)₄], then a deep blue solution:
@@ -142,6 +169,12 @@ Overall, four NH₃ replace four of the six water ligands of [Cu(H₂O)₆]²⁺
 [Co(H₂O)₆]²⁺ + 4Cl⁻ ⇌ [CoCl₄]²⁻ + 6H₂O   (pink to blue)
 
 Cl⁻ is larger than H₂O, so only four fit: the shape changes from octahedral to tetrahedral and the coordination number from 6 to 4. Both colour changes come from a change of ligand and coordination number. Adding water reverses them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
 
 ## Why chelating ligands win (17.25)
 

@@ -86,6 +86,27 @@ If consumers instead underestimate the benefit, the MPB curve lies below MSB and
 - Optimum: 16 − 2Q = 2Q, so Q = 4, price £8.
 - At Q = 3, MSB = 10 and MC = 6, a gap of £4. Welfare loss = ½ × 1 × 4 × 1,000 = **£2,000**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--01-adverse-selection-used-cars.webp" width="900" height="980" alt="A good car is worth 6,000 pounds and a poor one 2,000, in equal numbers, and buyers cannot tell them apart. Their expected value is 4,000 pounds, below the 5,000 good-car owners want, so good cars are withdrawn and buyers offer only 2,000 for the poor cars left." loading="lazy">
+  <figcaption>Buyers who cannot tell good from poor cars pay about 4,000, so good cars leave the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--02-information-failure-welfare-loss.webp" width="900" height="960" alt="Price and cost against output in thousands. MPB 20-2Q meets MC 2Q at output 5, price 10; true benefit MSB 16-2Q meets MC at output 4, price 8. The triangle between 4 and 5 is the welfare loss of 2,000 pounds." loading="lazy">
+  <figcaption>Consumers who overestimate benefit buy 5 thousand instead of 4 thousand, a welfare loss of 2,000 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--06-moral-hazard-insurance.webp" width="900" height="940" alt="Claim chance rises from 4 in 100 to 6 in 100 after full cover. Expected claim rises from 400 to 600 pounds, 50 percent more than the premium assumed." loading="lazy">
+  <figcaption>After insurance people take less care, raising the expected claim from 400 to 600 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--07-under-consumption-welfare-loss.webp" width="900" height="1000" alt="MPB 12-2Q meets MC 2Q at output 3, price 6; MSB 16-2Q meets MC at output 4, price 8. At output 3 MSB is 10 and MC 6. The triangle is a welfare loss of 2,000 pounds." loading="lazy">
+  <figcaption>Consumers who underestimate benefit buy 3 thousand instead of 4 thousand, a 2,000 pound loss.</figcaption>
+</figure>
+
+
 ## Merit and demerit goods
 
 A **merit good** is consumed too little (and so under-provided) by the free market because buyers undervalue what it does for them, or because the benefits reach beyond the buyer. A **demerit good** is over-consumed because consumers underestimate its harm or overestimate its benefit.
@@ -101,6 +122,12 @@ Significance depends on the size of the gap and the nature of the good.
 - **Other causes:** under-consumption of a merit good may also come from low income, not a lack of information. Giving information does not help someone who cannot afford the good.
 
 The case is strongest where harm or benefit is large, evidence is clear and information alone will not change behaviour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## Public goods
 
@@ -135,6 +162,17 @@ Worked example. A village of 100 households values new street lighting at £30 e
 
 The light is not built, although the benefit exceeds the cost. Private firms cannot charge, so they do not supply it either.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--03-free-rider-street-lighting.webp" width="900" height="1040" alt="Of 100 households that each value street lighting at 30 pounds, only 40 pay 20 pounds. That raises 800 of the 2,000 pounds needed, leaving 1,200 short, so the light is not built although total benefit is 3,000." loading="lazy">
+  <figcaption>Free riding leaves the street light 1,200 pounds short even though benefit exceeds cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ### Market failure and significance
 
 Public goods cause **market failure** because the market fails to provide them, or provides too little. This is a missing market. Resources are not allocated to goods that would raise welfare. Because an extra user costs nothing, charging a positive price would deter use that costs society nothing.
@@ -148,6 +186,12 @@ The government can provide the good directly and fund it from taxation. In the v
 Arguments for provision: it solves free riding, allows efficient (zero) pricing, and benefits can be shared by all.
 
 Arguments against or limits: the government does not know how much people truly value the good, so the right quantity is uncertain; funding has an opportunity cost; and provision may be inefficient. Private firms might supply quasi-public goods through tolls or advertising, or the state might fund and a firm deliver. Weigh these using the example given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
 
 ## Inequity
 
@@ -172,6 +216,12 @@ Worked example. A household owns a house worth £320,000 with a £120,000 mortga
 - Rising asset prices help owners: a 6% rise on a £200,000 house is **£12,000**, while a renter gains nothing.
 - High income allows more saving, so income inequality feeds wealth inequality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--08-wealth-compounding-inheritance.webp" width="900" height="910" alt="80,000 pounds inherited grows to 175,290 at 4 percent over 20 years. Saving 3,000 a year reaches 89,334 from 60,000 paid in." loading="lazy">
+  <figcaption>Compounding lets inherited assets outgrow saved income.</figcaption>
+</figure>
+
+
 ### Differences in access to resources
 
 People with equal ability do not always reach the same resources. Reasons include:
@@ -180,6 +230,12 @@ People with equal ability do not always reach the same resources. Reasons includ
 - **Location:** rural or poorer areas have fewer schools, clinics and jobs.
 - **Information and networks:** families with experience of higher education or professions know how to enter them.
 - **Borrowing limits:** people without collateral may not get credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--10-tutoring-share-of-income.webp" width="900" height="920" alt="30 hours at 40 pounds costs 1,200 pounds: 6.7 percent of an 18,000 income and 1.3 percent of a 90,000 income." loading="lazy">
+  <figcaption>The same tutoring takes a far bigger share of a low income.</figcaption>
+</figure>
+
 
 ### Evaluating significance
 
@@ -190,6 +246,17 @@ People with equal ability do not always reach the same resources. Reasons includ
 - **Size and mobility:** a modest gap differs from a severe one, and it matters whether people can move between income levels over time.
 
 Taxes and benefits can reduce gaps. Gross incomes of £90,000 and £18,000 (ratio 5.0) become, after £27,000 tax on the first, and £1,800 tax and £2,400 benefit on the second, £63,000 and £18,600. The ratio falls to about **3.4**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public--09-tax-benefits-income-ratio.webp" width="900" height="870" alt="Gross incomes 90,000 and 18,000 (ratio 5.0) become 63,000 and 18,600 after tax and benefits, ratio about 3.4." loading="lazy">
+  <figcaption>Taxes and benefits cut the income ratio from 5.0 to about 3.4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## Common errors
 

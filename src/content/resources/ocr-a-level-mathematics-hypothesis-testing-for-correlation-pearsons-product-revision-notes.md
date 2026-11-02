@@ -37,6 +37,12 @@ These notes condense references 2.05f and 2.05g of the OCR A Level Mathematics A
 
 The specification excludes calculating r. You are given it, or you are given a p-value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--06-c-same-r-different-slope.webp" width="900" height="900" alt="The same points with y values multiplied by 6 give the same r (about 0.96) although the gradient changes from 0.5 to about 2.9." loading="lazy">
+  <figcaption>r measures how tightly the points hug a line, not how steep the line is.</figcaption>
+</figure>
+
+
 ## The test (2.05g) at a glance
 
 | Item | Statement |
@@ -71,6 +77,17 @@ The specification excludes calculating r. You are given it, or you are given a p
 4. With a table only, bracket p: if r lies between the 5% and 2.5% one-tail critical values, then 0.025 < p < 0.05.
 5. Write the conclusion in context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--08-c-test-regions.webp" width="900" height="1010" alt="For n = 10, r = 0.62 lies in the rejection region of the one-tail 5% test (r &gt; 0.5494) but not the two-tail 5% test (|r| &gt; 0.6319) or the one-tail 1% test (r &gt; 0.7155)." loading="lazy">
+  <figcaption>The same sample r can lead to different decisions depending on the alternative hypothesis and significance level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--09-c-sample-size.webp" width="900" height="850" alt="Graph of the 5% one-tail critical value of r against n, falling with n. The line r = 0.5 is below the critical value at n = 6 (0.7293) and above it at n = 30 (0.3061), crossing at n = 12." loading="lazy">
+  <figcaption>A larger sample means a smaller r is enough to reject H0.</figcaption>
+</figure>
+
+
 ## Reading r from a scatter diagram
 
 | What you see | What it suggests about r |
@@ -82,6 +99,22 @@ The specification excludes calculating r. You are given it, or you are given a p
 | One point far from the rest | r may be pulled up or down by that point, so check it |
 
 Only the first two rows show a strong linear pattern. For the curve, a test on r would be misleading, because the test assesses straight-line correlation. Always look at the diagram when one is given, and say what you see before you quote the test result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--01-c-what-r-shows.webp" width="900" height="1100" alt="Six scatter diagrams of 12 points with computed r: 1, about 0.96, about 0.49, about -0.10, about -0.96 and -1. Closer to a line means r nearer 1 or -1 and the sign gives the direction." loading="lazy">
+  <figcaption>How close the points lie to a straight line, and which way it slopes, decide r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
+  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
+  <figcaption>A single outlier can change r a lot.</figcaption>
+</figure>
+
 
 ## Second worked reminder: negative correlation with a p-value
 

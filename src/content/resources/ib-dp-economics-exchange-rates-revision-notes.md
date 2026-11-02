@@ -48,12 +48,24 @@ The examples use Pelland (currency the pel) and Dunmark (currency the dun). Both
 
 Worked reminder. An 80-pel good at 1.50 duns per pel costs 80 x 1.50 = 120 duns. If the rate falls to 1.35, the change is (1.35 - 1.50) / 1.50 x 100 = -10%, a depreciation of the pel, and the good costs 108 duns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--03-fx-devaluation-example.webp" width="900" height="830" alt="Peg cut from 2.40 to 2.10 is -12.5%; a 45-nor good falls from 108 to 94.5 estos, also -12.5%." loading="lazy">
+  <figcaption>A devaluation of 12.5% cuts the foreign price of exports by 12.5%.</figcaption>
+</figure>
+
+
 ## Floating system: method in steps
 
 1. Axes: exchange rate (duns per pel) up, quantity of pels along.
 2. Draw demand sloping down and supply sloping up. Label equilibrium rate and quantity.
 3. Decide which curve a cause shifts. Shift only that one.
 4. Read off the new rate. A higher rate is appreciation, a lower rate is depreciation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--03-fx-floating-shift.webp" width="900" height="960" alt="Market for the nor. Demand Qd = 400 - 60e and supply Qs = 100 + 90e cross at 2.00 estos per nor and 280 million nors. Demand shifts right to Qd = 460 - 60e and equilibrium moves to 2.40 and 316 million. The nor appreciates. A 45-nor good costs 90 estos at 2.00 and 108 estos at 2.40." loading="lazy">
+  <figcaption>A rise in export demand shifts demand for the nor right and the nor appreciates from 2.00 to 2.40 estos.</figcaption>
+</figure>
+
 
 ## Factors that move a currency
 
@@ -72,6 +84,17 @@ Worked reminder. An 80-pel good at 1.50 duns per pel costs 80 x 1.50 = 120 duns.
 | Central bank buys pels | Right | | Appreciation |
 | Central bank sells pels | | Right | Depreciation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--01-fx-factors-ten.webp" width="900" height="1205" alt="Two mini currency-market diagrams: demand for nors rising (2.00 to 2.40) and supply rising, each with seven factors listed beneath covering the ten guide items." loading="lazy">
+  <figcaption>Seven factors raise demand for the nor and seven raise supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--02-fx-percent-two-currencies.webp" width="900" height="990" alt="Bars: 1 nor rises from 2.00 to 2.25 estos (+12.5%); 1 esto falls from 0.500 to 0.444 nors (-11.1%)." loading="lazy">
+  <figcaption>One exchange rate move gives different percentages for each currency.</figcaption>
+</figure>
+
+
 ## Consequences of a change in the rate
 
 | Indicator | Depreciation | Appreciation |
@@ -83,6 +106,12 @@ Worked reminder. An 80-pel good at 1.50 duns per pel costs 80 x 1.50 = 120 duns.
 | Living standards | Imports dearer, but more jobs | Imports cheaper, but possible job losses |
 
 AD/AS sketch for a depreciation: AD shifts right, and SRAS shifts left if imported inputs matter. Price level rises either way. Real GDP rises only if the AD shift is larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--04-fx-depreciation-adas.webp" width="900" height="1110" alt="AD shifts right, SRAS left, price level and (if AD dominates) GDP rise; five effects listed with arrows." loading="lazy">
+  <figcaption>A depreciation shifts AD right and SRAS left.</figcaption>
+</figure>
+
 
 ## Fixed and managed systems: method in steps
 
@@ -96,6 +125,17 @@ AD/AS sketch for a depreciation: AD shifts right, and SRAS shifts left if import
 Worked reminder. Pelland pegs at 1.80 while the market would give 1.50, with 60 million pels of excess supply. The bank buys 60 million pels and spends 60 x 1.80 = 108 million duns of reserves. Reserves are finite, so an overvalued peg cannot be held indefinitely without a policy change.
 
 Second reminder, for a managed system. Demand for pels rises and the market rate would be 1.70, but the bank holds it at 1.60. The pel is undervalued compared with the market rate, so demand exceeds supply at 1.60. The bank sells pels, and its reserves of duns grow. Name the direction of intervention and the effect on reserves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--04-fx-defending-a-peg.webp" width="900" height="990" alt="Same nor market with pegs drawn as horizontal lines. At a peg of 2.40, above the 2.00 market rate, supply (316) exceeds demand (256) by 60 million nors, so the central bank buys 60 million nors paying 144 million estos. At a peg of 1.60, demand (304) exceeds supply (244) by 60 million, so the bank sells 60 million nors and gains 96 million estos." loading="lazy">
+  <figcaption>To hold a peg the central bank buys the excess supply of its currency or sells into excess demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--05-fx-managed-rate.webp" width="900" height="990" alt="After demand shifts to Qd = 460 - 60e the market rate would be 2.40. The central bank targets 2.20. At 2.20 demand is 328 million and supply 298 million, a gap of 30 million, so the bank sells 30 million nors and gains 66 million estos. The old demand curve is dashed." loading="lazy">
+  <figcaption>A managed rate: the bank sells its currency to hold the rate below the market level.</figcaption>
+</figure>
+
 
 ## Writing the answers
 
@@ -123,6 +163,12 @@ Second reminder, for a managed system. Demand for pels rises and the market rate
 | Speculation | Risk of attack on a weak peg | Volatility |
 
 Reach a judgement: it depends on the size of the economy, its trade dependence and its reserves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--05-fx-fixed-vs-floating-hl.webp" width="900" height="1030" alt="Six-criterion grid comparing fixed and floating rates." loading="lazy">
+  <figcaption>Fixed and floating compared on six criteria.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -166,3 +212,9 @@ Back to the [study guide](/resources/ib-dp-economics-exchange-rates/).
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020, sub-topic 4.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

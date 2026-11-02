@@ -47,6 +47,12 @@ This imbalance is the reason for the **purpose of legal controls: to protect cus
 
 The last point matters for the business side. A firm that tells the truth about a product competes more fairly when everyone has to tell the truth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ## Misleading promotion
 
 **Promotion** is the part of the marketing mix used to inform and persuade customers (see [section 3.3 on the marketing mix](/boards/cambridge/igcse/business/)). Persuading is allowed. **Misleading promotion** is promotion that gives customers a false or unclear picture, so that they decide to buy because of it.
@@ -75,6 +81,17 @@ Refund cost = 180 × £450 = £81,000.
 
 That is 15% of the sales revenue, taken back from the business, before counting legal costs or the cost of correcting the labels. To relabel all 1,200 tables at £0.35 each would cost 1,200 × £0.35 = £420. Telling the truth from the start would have cost far less than the refunds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--06-false-label-cost.webp" width="900" height="1060" alt="Tolmer Furniture sold 1,200 tables at 450 pounds labelled solid oak. 15% (180) are refunded, costing 81,000 pounds, while relabelling all tables would have cost 420 pounds." loading="lazy">
+  <figcaption>Refunds for a false claim cost almost 200 times more than honest labelling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--01-six-ways-promotion-misleads.webp" width="900" height="960" alt="Six cards: false claims, inflated results, misleading prices, hidden conditions, misleading image or pack, unfair comparison. Below, opinion such as best coffee in town is fine but checkable claims such as 100% wool must be true." loading="lazy">
+  <figcaption>Six ways promotion can mislead, and the difference between opinion and a checkable claim.</figcaption>
+</figure>
+
+
 ## Faulty goods
 
 **Faulty goods** are goods that do not work properly, are damaged, or are not as described. Legal controls on faulty goods protect customers in two ways. First, they set an expectation that goods sold should be of reasonable quality, should do what they are sold to do and should match their description. Second, they give a customer a remedy if the goods fail that test, such as a repair, a replacement or a refund.
@@ -102,6 +119,12 @@ If Verrin Outdoor had to refund every faulty jacket instead, the cost would be 1
 Sales revenue for the season = 2,500 × £95 = £237,500. The refund cost is about 6.0% of it (14,250 ÷ 237,500 × 100 = 6.0%). The replacement cost is about 2.8% of it.
 
 A replacement policy can cost much less than refunds, but either way the business pays for a fault that better quality control would have caught earlier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--05-faulty-goods-cost.webp" width="900" height="1060" alt="Of 2,500 jackets sold at 95 pounds, 6% (150) have a zip fault. Replacing them costs 6,600 pounds (2.8% of sales); refunding them costs 14,250 pounds (6.0% of sales)." loading="lazy">
+  <figcaption>A 6% fault rate costs far more as refunds than as replacements, but either way the business pays.</figcaption>
+</figure>
+
 
 ## The effects of legal controls on marketing
 
@@ -146,6 +169,22 @@ Discount = (6.40 − 4.80) ÷ 6.40 × 100 = 25%.
 
 If the pack really sold at £6.40 for a normal period before the sale, the claim is fair and "25% off" is accurate. If the pack was priced at £6.40 for only 10 days out of the previous 60 (10 ÷ 60 × 100 = 16.7% of the time), customers could be misled about the saving. The arithmetic of the discount is the same, but the honesty of the "was" price is what matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--07-was-now-price.webp" width="900" height="960" alt="A cheese pack at 4.80 pounds, was 6.40, is 25% off. If 6.40 was charged for all of the previous 60 days the claim is fair; if for only 10 days (16.7%), customers could be misled." loading="lazy">
+  <figcaption>The discount sum is the same, but the &quot;was&quot; price must have been real.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--02-ardenne-claim-options.webp" width="900" height="1000" alt="A 30,000 pound budget bar shows the 4,800 pound trial is 16% and leaves 25,200 pounds. Three options: no evidence (reject), pay for the trial (best if it works), softer truthful claim (best for a quick launch), each with a benefit and a cost." loading="lazy">
+  <figcaption>Ardenne Skincare weighs a claim with no evidence against a trial and a softer claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--03-legal-controls-costs-benefits.webp" width="900" height="930" alt="A balance shows costs and limits (adverts checked, testing and labels, returns and complaints, fines) against benefits (trust, fairer market, better quality control), with the advice to weigh both and judge for the business." loading="lazy">
+  <figcaption>Legal controls cost a business something and give it something back.</figcaption>
+</figure>
+
+
 ## Linking to the marketing mix
 
 Legal controls are not a separate subject from the marketing mix. They shape each element.
@@ -158,6 +197,12 @@ Legal controls are not a separate subject from the marketing mix. They shape eac
 | Place | Retailers and online sellers need to describe goods accurately and deal with returns |
 
 For ecommerce (section 3.3.5), customers cannot touch the product before buying, so accurate descriptions and photographs matter even more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--04-legal-controls-four-ps.webp" width="900" height="900" alt="Four rows link each element of the mix to a legal effect: product quality and labels, honest prices, accurate place descriptions and returns, and evidence for promotion claims. Ecommerce makes accurate descriptions matter more." loading="lazy">
+  <figcaption>Legal controls touch product, price, place and promotion.</figcaption>
+</figure>
+
 
 ## Writing good exam answers
 

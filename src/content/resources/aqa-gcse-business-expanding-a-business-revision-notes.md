@@ -47,6 +47,17 @@ Related pages: the topic-level [Business in the real world revision notes](/reso
 
 Organic growth (from the business's own activity) is usually slower but gives more control. External growth (merger or takeover) is faster but costs more and carries integration risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ## Economies of scale
 
 **Definition:** a unit cost advantage from growth, so average unit cost falls as output rises.
@@ -57,6 +68,12 @@ Organic growth (from the business's own activity) is usually slower but gives mo
 | Technical | Larger or specialised machinery; its cost is spread over more units | A big printing press cuts the cost per leaflet |
 
 Remember: total cost still rises. Only the cost per unit falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--06-two-economies-of-scale.webp" width="900" height="900" alt="Bulk flour costs 0.72 pounds a kilogram at 2,000 kg against 0.90 at 500 kg, a 20 percent lower price. A 900 pound a week oven costs 0.45 pounds a loaf at 2,000 loaves but about 11 pence at 8,000." loading="lazy">
+  <figcaption>Purchasing economies cut the price paid per unit; technical economies spread equipment cost over more units.</figcaption>
+</figure>
+
 
 ## Diseconomies of scale
 
@@ -71,6 +88,12 @@ The three causes named in the specification:
 With growth, the risk of these increases. They are not guaranteed.
 
 Cause and effect chain: more layers and sites, then slower messages and mistakes, then rework, delays and staff leaving, then higher cost per unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--04-diseconomies-causes.webp" width="900" height="975" alt="Three cards: poor communication (messages across more layers are missed), coordination issues (a missed handover between departments) and reduced motivation (faces from smiling to frowning as the firm grows). Result: average unit cost rises. These are risks, not certainties." loading="lazy">
+  <figcaption>Poor communication, coordination issues and reduced motivation can push average unit cost up.</figcaption>
+</figure>
+
 
 ## Average unit cost
 
@@ -97,6 +120,17 @@ Average unit cost = 90,000 / 12,000 = £7.50 per tile
 Rearranged: total cost = average unit cost x output. If the average unit cost is £3.40 and output is 15,000, total cost is £51,000.
 
 Percentage change in average unit cost: (new - old) / old x 100. A fall from £5.00 to £4.20 is a fall of 16%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--07-bakery-unit-cost.webp" width="900" height="780" alt="Average unit cost falls from 1.70 pounds at 2,000 loaves to a low of 1.10 pounds at 8,000, then rises to 1.20 pounds at 12,000. Total cost still rises at every step." loading="lazy">
+  <figcaption>Unit cost falls to 8,000 loaves (economies of scale) then rises (diseconomies), while total cost keeps rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--05-kilnwood-unit-cost.webp" width="900" height="800" alt="Bars of average unit cost: 52 pounds at 1,000 chairs, 48 at 1,500 (lowest), 52 at 2,000 and 56 at 2,400. From 1,500 to 2,400 it rises 8 pounds, 16.7 percent." loading="lazy">
+  <figcaption>Unit cost falls to £48 at 1,500 chairs then rises 16.7% by 2,400.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -173,6 +207,12 @@ Always test the suggestion against the facts in the stem. The same method can su
 8. A merger is two businesses agreeing to join as one; in a takeover one business gains control of another, which the target may not want.
 9. £48,000 / 8,000 = £6.00; £63,000 / 9,000 = £7.00. The lower cost is at 8,000 meals. The rise to £7.00 suggests diseconomies of scale.
 10. Less control over quality or deadlines, or reliance on a supplier that may raise its price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--03-merger-or-takeover.webp" width="900" height="860" alt="In a merger two firms agree to join as one. In a takeover one firm buys enough of another to control it, even if the target does not want it." loading="lazy">
+  <figcaption>Merger means both sides agree; takeover means one side gains control.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

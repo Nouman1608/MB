@@ -41,6 +41,12 @@ Short-form revision for statements 5.9 to 5.15 of Topic 5 in the Pearson Edexcel
 
 **Reminder.** GPP is 9 600 kJ m⁻² year⁻¹ and R is 3 360. NPP = 9 600 − 3 360 = 6 240 kJ m⁻² year⁻¹. R is 35.0% of GPP and NPP is 65.0%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
+
 ## 5.10 Efficiency of transfer
 
 efficiency (%) = (energy or biomass passed on ÷ energy or biomass available) × 100
@@ -58,6 +64,17 @@ efficiency (%) = (energy or biomass passed on ÷ energy or biomass available) ×
 - Only the remainder forms new tissue.
 
 Long food chains are rare because so little reaches the top.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
+</figure>
+
 
 ## 5.11 Key terms
 
@@ -140,6 +157,12 @@ Another reminder: if the quadrat is 0.25 m² and six quadrats have 18 individual
 - Species diversity and biomass increase.
 - Food webs become more complex.
 - Each stage changes conditions so that the next stage can replace it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Answer frameworks
 

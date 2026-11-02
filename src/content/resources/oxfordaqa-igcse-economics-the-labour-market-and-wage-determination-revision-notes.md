@@ -43,6 +43,17 @@ Other useful pages: [markets revision notes](/resources/igcse-oxfordaqa-economic
 - Links households (supply) and firms (demand).
 - Unlike a goods market, workers also value hours, conditions, location and security.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+
 ## Labour demand and labour supply compared
 
 | | Demand side | Supply side |
@@ -54,6 +65,17 @@ Other useful pages: [markets revision notes](/resources/igcse-oxfordaqa-economic
 | Shifts left | The opposite | Higher pay in other jobs, tougher entry requirements, poorer conditions |
 
 Reminder: lower wages in other jobs make this job more attractive, so supply shifts right. Higher pay elsewhere shifts it left. A rise in this job's own wage is only a movement along the supply curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination--05-driver-wage-shifts.webp" width="900" height="1360" alt="Two labour market diagrams with demand 200 - 10W and supply 10W - 40 giving wage 12 and 80 drivers. If demand rises by 30 drivers at every wage the wage becomes 13.5 and employment 95. If training adds 20 drivers at every wage the wage falls to 11 and employment rises to 90." loading="lazy">
+  <figcaption>A shift of demand or supply gives a new equilibrium wage and level of employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
 
 ## Method for wage questions
 
@@ -89,6 +111,12 @@ Illustrative Country B has two markets. For skilled welders, demand is 240 - 2W 
 | Below | Shortage of workers, vacancies, upward pressure | Sudden rise in demand |
 | Above | Surplus of workers, unemployment in that job | Union agreement, legal minimum wage |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Wage differentials
 
 ### Between occupations
@@ -111,6 +139,17 @@ Illustrative Country B has two markets. For skilled welders, demand is 240 - 2W 
 - Hours, overtime, night shifts.
 - Employer: sector, size, profitability.
 - Discrimination, where pay differs for reasons unrelated to ability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination--06-wage-differentials.webp" width="900" height="1010" alt="Two labour markets on the same scale. Electricians: demand 300 - 5W and supply 5W - 100 give a wage of 40 with 100 workers. Packers: demand 160 - 6W and supply 6W + 40 give a wage of 10 with 100 workers. Long training and licences restrict electrician supply and their output is valuable." loading="lazy">
+  <figcaption>Same employment, but electricians earn four times as much because of lower supply and higher-value output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination--05-immobility-gaps.webp" width="900" height="840" alt="Packers on 10 cu an hour cannot move into electrician jobs on 40 cu an hour without skills and licence (occupational immobility); workers in a town with few jobs cannot or will not move to a town with higher pay (geographical immobility)." loading="lazy">
+  <figcaption>Immobility lets wage gaps persist.</figcaption>
+</figure>
+
 
 ## Pairs not to confuse
 

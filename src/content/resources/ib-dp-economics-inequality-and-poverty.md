@@ -48,6 +48,12 @@ The guide gives 40 hours for Unit 3 at SL and 75 at HL, with no separate figure 
 
 **Income** is a flow: what people receive over a period from wages, profit, interest, rent and transfers. **Wealth** is a stock: the value of assets owned at a point in time, such as property, shares and savings, less debts. Someone can have a high income and little wealth, or the reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## Measuring inequality: the Lorenz curve and Gini coefficient
 
 A Lorenz curve shows how income is distributed.
@@ -83,11 +89,28 @@ The guide does not ask you to calculate a Gini value. As a rough check, join the
 
 **Limits:** one Gini value can hide different curve shapes, and neither tool says why people have what they have or whether it is fair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--06-ineq-lorenz-veltoria.webp" width="900" height="1030" alt="Graph of cumulative percent of income against cumulative percent of households, poorest first, with a dashed line of equality. Points before tax and transfers are (20, 6), (40, 16), (60, 31), (80, 53), (100, 100). Points after are (20, 8), (40, 20), (60, 37), (80, 59), (100, 100). The after curve lies above the before curve at every point, closer to the line of equality, so tax and transfers narrowed the income gap. Estimated Gini from straight-line strips: 0.376 before and 0.304 after. The poorest 60 percent hold 31 percent before and 37 percent after." loading="lazy">
+  <figcaption>Plotting cumulative shares gives two Lorenz curves; the after-tax curve lies closer to the line of equality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--04-lorenz-gini.webp" width="900" height="976" alt="A Lorenz curve bows below the equality line: the poorest half of households get a quarter of income. The Gini coefficient is area A divided by A plus B, here one third." loading="lazy">
+  <figcaption>The bigger the gap between the Lorenz curve and the equality line, the higher the Gini coefficient.</figcaption>
+</figure>
+
+
 ## Poverty: absolute and relative
 
 **Absolute poverty** means income or consumption below a fixed standard needed for basic needs such as food, shelter and clothing. The standard does not move with the average. **Relative poverty** means having far less than others in the same society, usually judged against a share of the typical (median) income. It rises or falls with the rest of the distribution.
 
 The difference matters when an economy grows. Veltoria sets an absolute line at 10,000 vrels a year and a relative line at 50% of median income. The median is 24,000, so the relative line is 12,000. Now all other incomes rise 10%. The median becomes 26,400 and the relative line 13,200. The household stuck at 12,500 was above the relative line and is now below it, although it is no worse off in real terms. It was above the absolute line throughout. Absolute poverty can fall while relative poverty rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--07-ineq-absolute-relative-poverty.webp" width="900" height="1000" alt="Two panels, before and after all other incomes rise 10 percent, with income in vrels a year (axis starts at 8,000). Before: absolute line 10,000, relative line 12,000 which is half the median of 24,000, and a household at 12,500 above both lines. After: the median is 26,400 so the relative line is 13,200. The absolute line stays at 10,000. The household still has 12,500, now below the relative line but above the absolute line. Absolute poverty can fall while relative poverty rises." loading="lazy">
+  <figcaption>When other incomes rise 10 percent the relative line moves from 12,000 to 13,200 while the absolute line stays at 10,000.</figcaption>
+</figure>
+
 
 ## Measuring poverty and why it is hard
 
@@ -105,6 +128,12 @@ The difference matters when an economy grows. Veltoria sets an absolute line at 
 - informal work and home-grown food are hard to value, and sharing inside a household is unseen;
 - surveys are costly, infrequent and may miss remote groups;
 - comparing countries needs price adjustments that add error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--01-poverty-measures-basket-mpi.webp" width="900" height="990" alt="Top: a minimum income standard prices a basket of food 4,800, housing 6,000, transport 1,500 and other needs 1,700, which totals 14,000 vrels a year. A household earning 13,000 is 1,000 short, so it falls below the standard. Bottom: the Multidimensional Poverty Index looks at health, education and living standards. An illustrative household with adequate income can still be deprived in education and living standards, which an income line alone would miss." loading="lazy">
+  <figcaption>A household earning 13,000 is 1,000 short of a 14,000 basket, and the MPI adds health, education and living standards.</figcaption>
+</figure>
+
 
 ## Causes of inequality and poverty
 
@@ -154,11 +183,28 @@ Working:
 
 For 20,000 the tax is 10,000 x 0.20 = 2,000 and the average rate 10.0%; for 80,000 it is 4,000 + 20,000 = 24,000, an average rate of 30.0%. The average rate climbs with income (10.0%, 22.2%, 30.0%), so the tax is progressive. The marginal rate at 45,000 is 40%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--08-ineq-average-marginal-tax.webp" width="900" height="960" alt="HL only. Graph of tax rate against income in thousand vrels. The marginal rate is a step line: 0 percent to 10,000, 20 percent from 10,000 to 30,000 and 40 percent above 30,000. The average rate curve rises smoothly: 10.0 percent at income 20,000 (tax 2,000), 22.2 percent at 45,000 (tax 10,000) and 30.0 percent at 80,000 (tax 24,000). The average rate rises with income, so the tax is progressive, and the marginal rate is above the average rate." loading="lazy">
+  <figcaption>The average rate climbs with income while the marginal rate steps up to 40%.</figcaption>
+</figure>
+
+
 ### Worked example (HL only): indirect tax paid
 
 Veltoria charges a 12% sales tax. A household spending 8,500 on taxed goods pays 8,500 x 0.12 = 1,020.
 
 An equal rate can still be regressive in effect. A household with income 20,000 spending 18,000 pays 2,160, or 10.8% of income. One with income 100,000 spending 60,000 pays 7,200, or 7.2%. The poorer household bears more because it spends a larger share of income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--09-ineq-sales-tax-regressive.webp" width="900" height="920" alt="HL only. Two households under a 12 percent sales tax. The household with income 20,000 spends 18,000, which is 90 percent of income, and pays tax of 2,160, which is 10.8 percent of income. The household with income 100,000 spends 60,000, which is 60 percent of income, and pays 7,200, which is 7.2 percent of income. The same tax rate takes a larger share of the poorer household income, so it is regressive in effect." loading="lazy">
+  <figcaption>The poorer household spends more of its income, so the same 12% sales tax takes 10.8% of its income against 7.2%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Further policies
 
@@ -170,6 +216,17 @@ An equal rate can still be regressive in effect. A household with income 20,000 
 - **Minimum wages:** a legal pay floor. If set above the market wage it may reduce jobs for some workers, so the net effect on low-income households depends on how many are priced out.
 
 When you evaluate, weigh cost, speed, side effects, who is helped, and any conflict with efficiency and growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--02-ubi-cost.webp" width="900" height="950" alt="Forty person icons stand for 4 million adults, each icon being 100,000 adults. Every adult receives 3,000 vrels with no conditions. 4 million times 3,000 equals 12 billion vrels a year, which must be funded by taxes or lower spending elsewhere." loading="lazy">
+  <figcaption>4 million adults paid 3,000 each costs 12 billion vrels a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--03-minimum-wage-floor.webp" width="900" height="950" alt="Illustrative labour market, demand Q = 600 − 10w and supply Q = 20w, with the market wage at 20 for 400 thousand hours. A legal floor of 25 cuts the hours employers want to 350 and raises the hours offered to 500, so 150 thousand hours of labour are unwanted and 50 thousand jobs are lost. Workers who keep jobs earn more, and here the total pay bill rises from 8,000 to 8,750, but the net effect depends on how many are priced out." loading="lazy">
+  <figcaption>A wage floor above the market wage raises pay for those employed but prices some workers out.</figcaption>
+</figure>
+
 
 ## Common errors
 

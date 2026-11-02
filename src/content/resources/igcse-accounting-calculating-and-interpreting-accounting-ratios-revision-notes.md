@@ -80,6 +80,12 @@ Capital employed = issued shares + reserves + non-current liabilities. Average i
 5. Give a reason taken from the scenario.
 6. Say what it means, then recommend something specific.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--11-ratios-days-vs-terms.webp" width="900" height="915" alt="Receivable days rose from 47.15 to 63.48 against 45 allowed (18.48 over). Payable days rose from 41.93 to 56.41 against 60 allowed (3.59 inside). Inventory days fell from 50.69 to 46.64." loading="lazy">
+  <figcaption>Compare actual days with the credit terms in the scenario.</figcaption>
+</figure>
+
+
 ## 3. Quick worked reminders
 
 **Sundial Clocks (sole trader).** Revenue 84,000, of which 63,000 was on credit. Cost of sales 54,600. Expenses 19,320. Trade receivables 7,350. Credit purchases 42,000. Trade payables 4,200.
@@ -103,6 +109,12 @@ Current ratio      98,000 : 49,000 = 2.00 : 1
 Acid test          (98,000 - 38,000) : 49,000 = 1.22 : 1
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--10-ratios-collect-in-45-days.webp" width="900" height="930" alt="Trade receivables of 96,000 (63.48 days) would be about 68,055 at 45 days (552,000 x 45 / 365), releasing 27,945 of cash." loading="lazy">
+  <figcaption>Collecting in 45 days would free about 27,945.</figcaption>
+</figure>
+
+
 ## 4. Must-know distinctions
 
 | Pair | Difference |
@@ -114,6 +126,12 @@ Acid test          (98,000 - 38,000) : 49,000 = 1.22 : 1
 | Gross profit margin and profit margin | The first is before expenses, other income and interest. The second is after them. |
 | Percentage points and per cent | A margin falling from 40.00% to 35.00% has dropped 5.00 percentage points, not 5.00%. |
 | Profit and cash | Profit matches income and expenses to the year. Cash records money moving. |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
 
 ## 5. Interpretation grid (6.2)
 
@@ -131,6 +149,12 @@ Acid test          (98,000 - 38,000) : 49,000 = 1.22 : 1
 
 **Model comment.** If Sundial's receivables days rose from 35.00 to 42.58 against 30 days allowed, write: "Customers are paying later, so cash is tied up in receivables. Sundial should send statements promptly and offer a cash discount for early payment." The comment gives both figures, the direction, the meaning and one fitting action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+
 ## 6. What changes gross profit and profit for the year
 
 | Cause | Gross profit | Gross profit margin |
@@ -144,6 +168,22 @@ Acid test          (98,000 - 38,000) : 49,000 = 1.22 : 1
 
 Profit for the year = gross profit + other income - expenses (and interest). It falls if gross profit is flat and expenses rise, or if other income drops.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--08-ratios-profit-bridge.webp" width="900" height="785" alt="From profit 72,400 in 2025, gross profit adds 47,000, expenses deduct 46,000 and loan interest deducts 2,800, giving 70,600." loading="lazy">
+  <figcaption>Profit for the year can fall even when gross profit rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-gp-causes.webp" width="900" height="1010" alt="Ferndale 2026 gross profit and margin under four causes: reported 287,000 (41.59%); inventory 4,000 too high 291,000 (42.17%); prices 5% higher 321,500 (44.38%); purchases 3% dearer 275,120 (39.87%); 10% more units 315,700 (41.59%)." loading="lazy">
+  <figcaption>Four causes change gross profit differently; more units leave the margin unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+
 ## 7. Why cash and profit differ
 
 **Cash lower than profit:** non-current assets bought; inventory or receivables increased; drawings or dividends paid; loan repaid.
@@ -151,6 +191,12 @@ Profit for the year = gross profit + other income - expenses (and interest). It 
 **Cash higher than profit:** depreciation (no cash paid); payables increased; capital introduced or loan received; inventory or receivables decreased.
 
 Also: accruals, prepayments and irrecoverable debts move profit without matching cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-cash-bridge.webp" width="900" height="926" alt="A waterfall runs from profit 70,600 through depreciation, asset purchases, working capital, dividends and the new loan to a change in bank of -5,000." loading="lazy">
+  <figcaption>Profit and cash differ because of non-cash costs, asset purchases, working capital, dividends and loans.</figcaption>
+</figure>
+
 
 ## 8. Quick self-test
 
@@ -177,6 +223,17 @@ Also: accruals, prepayments and irrecoverable debts move profit without matching
 8. Both are understated by 1,500.
 9. It falls, because cost of sales rises while revenue does not.
 10. Any two: non-current assets bought; inventory increased; receivables increased; drawings or dividends paid; loan repaid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
 
 ## 9. Where marks are usually lost
 

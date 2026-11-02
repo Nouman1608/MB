@@ -60,6 +60,22 @@ The specification names quality control and quality assurance without defining t
 - Quality is not the same as price. It means meeting what the target customer expects.
 - Theme 1 lists quality as a customer need, next to price, choice and convenience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-quality-and-the-sales-process--01-tolleby-defect-rate.webp" width="900" height="800" alt="A bar for 1,250 candles checked shows 1,165 passing and 85 rejected. The defect rate is 85 divided by 1,250 times 100, which is 6.8 percent. The 85 rejected candles lose 204 pounds of materials at 2.40 pounds each." loading="lazy">
+  <figcaption>The inspection finds a 6.8% defect rate, but 204 pounds of materials are already lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--11-what-quality-means.webp" width="900" height="776" alt="Quality is how well something meets customer needs. A cheap notebook that holds together is high quality; an expensive hotel room with a broken lock is poor quality. Four benefits: customers come back, better reputation, fewer costly faults, fewer legal claims." loading="lazy">
+  <figcaption>Quality means meeting customer needs, not luxury.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | | Quality control | Quality assurance |
@@ -89,6 +105,12 @@ Do not confuse these with the customer-facing parts of the sales process. Qualit
 - quality built into a business is slower for rivals to copy than a price cut
 - the advantage only works if customers notice and value the quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-quality-and-the-sales-process--02-tolleby-qa-saving.webp" width="900" height="860" alt="Before the programme faults cost 952 pounds a month. After it, faults cost 350 pounds and the programme costs 420 pounds, a total of 770 pounds. The saving is 182 pounds a month, a 19.1 percent fall." loading="lazy">
+  <figcaption>Quality assurance costs 420 pounds a month but saves 182 pounds overall.</figcaption>
+</figure>
+
+
 ## The five parts of the sales process
 
 | Part | One-line test | Quick example |
@@ -99,6 +121,17 @@ Do not confuse these with the customer-facing parts of the sales process. Qualit
 | Responses to customer feedback | Does the business listen and act? | Changing the opening hours after a survey |
 | Post-sales service | Is help available after the sale? | A free repair under guarantee |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-quality-and-the-sales-process--03-pilsdon-feedback.webp" width="900" height="860" alt="Of 480 customers surveyed, 312 rated delivery speed 4 or 5, which is 65 percent. Complaints about late delivery fell from 36 to 21, a change of minus 41.7 percent." loading="lazy">
+  <figcaption>Acting on feedback cut late-delivery complaints by 41.7%, yet about one customer in three was not satisfied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-quality-and-the-sales-process--04-pilsdon-reply-times.webp" width="900" height="780" alt="Five email replies took 2, 5, 3, 8 and 2 hours, a mean of 4 hours. The dot plot shows that one reply took 8 hours, so the mean hides the longest wait." loading="lazy">
+  <figcaption>A mean of 4 hours hides an 8-hour wait, so set a maximum reply time too.</figcaption>
+</figure>
+
+
 ## Why customer service matters
 
 - repeat purchases and customer loyalty
@@ -107,6 +140,17 @@ Do not confuse these with the customer-facing parts of the sales process. Qualit
 - can support a higher price
 - poor service loses customers and damages reputation
 - good service costs money, for example training, extra staff and returns policies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-quality-and-the-sales-process--05-pilsdon-repeat-revenue.webp" width="900" height="860" alt="Now 720 repeat customers spend 25,200 pounds. If the repeat rate rises from 40 to 46 percent, 828 customers spend 28,980 pounds. The extra revenue is 3,780 pounds, 15 percent more, against 2,400 pounds of extra service cost." loading="lazy">
+  <figcaption>Better service could add 3,780 pounds of revenue, but profit also depends on the cost of the lamps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
 
 ## Method boxes
 

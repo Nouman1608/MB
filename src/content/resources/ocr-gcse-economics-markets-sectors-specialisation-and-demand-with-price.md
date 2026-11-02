@@ -43,6 +43,12 @@ Pair it with the [revision notes](/resources/ocr-gcse-economics-markets-sectors-
 
 A **market** exists wherever buyers meet sellers and swap a good, service or resource for payment. It need not be a place. A farmers' stall, a website that sells second-hand bikes and a job-search service are all markets. In each one, buyers and sellers agree a price and exchange.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## The three sectors
 
 | Sector | What happens | Examples (illustrative) |
@@ -62,6 +68,17 @@ A **market** exists wherever buyers meet sellers and swap a good, service or res
 | Tertiary | 45% | 70% |
 
 Tertiary jobs: 45% of 10 million = 4.5 million in Year 1; 70% of 12 million = 8.4 million in Year 30. Change = (8.4 − 4.5) ÷ 4.5 × 100 = **+86.7%**. Primary jobs fall from 2.0 million to 0.6 million, a fall of 70%. Notice that a falling share is not always a falling number: secondary jobs fall from 3.5 million to 3.0 million, but only by 14.3%, because total employment grew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--12-sector-jobs-share-vs-number.webp" width="900" height="1090" alt="Two stacked columns of jobs in millions for Country A, drawn to scale. Year 1 has 10 million jobs: primary 2.0, secondary 3.5, tertiary 4.5. Year 30 has 12 million jobs: primary 0.6, secondary 3.0, tertiary 8.4. Tertiary jobs rise 86.7%, primary jobs fall 70%, and secondary jobs fall only 14.3% even though their share falls from 35% to 25%." loading="lazy">
+  <figcaption>Secondary share falls from 35% to 25%, but the number of jobs falls only from 3.5 to 3.0 million because total jobs grew.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
 
 ## Factor markets and product markets
 
@@ -91,6 +108,22 @@ They are **interdependent** in two ways:
 | Countries | Greater output and wider choice through trade; efficient use of resources | Dependence on imports; exposure to world price falls; loss of industries that cannot compete |
 
 **Evaluation chain.** Specialisation raises productivity, so unit costs fall, so firms can lower prices or raise profit. But the gains depend on demand: if the single product falls out of fashion, specialised workers and regions suffer most. The size of the benefit also depends on how easily workers can retrain, and on how many different industries a region or country has. A balanced judgement says specialisation is likely to raise living standards overall, but diversification and training reduce the risks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--13-stool-specialisation.webp" width="900" height="970" alt="Four workers each stack stools. Without specialisation each makes 3 stools, 12 in total. With specialisation each worker adds to a shared output of 5 per worker, 20 in total, a rise of 66.7%. Labour cost is 320 pounds a day, so cost per stool falls from 26.67 pounds to 16.00 pounds, a fall of 40%." loading="lazy">
+  <figcaption>When four workers specialise, output rises from 12 to 20 stools a day and labour cost per stool falls 40%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## 2.2 Demand
 
@@ -141,9 +174,41 @@ A change in any **other** factor shifts the whole curve. Moving the curve right 
 
 *Worked example.* A local advert adds 3 pizzas a week at every price: market demand becomes 6, 9, 12, 16, 21. At £8, demand rises from 9 to 12, an increase of 33.3%. The price did not change, so this is a shift, not a movement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--03-pizza-advert-shift.webp" width="900" height="1000" alt="D1 and D2 for pizzas with D2 3 higher at each price; at 8 pounds demand rises 9 to 12, +33.3%. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>An advert adds 3 pizzas at every price, shifting demand right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ### Consequences for consumers and producers
 
 If demand shifts right and supply does not change, there is a shortage at the old price. Producers can sell more, raise their prices, earn more revenue and may hire more workers or expand. Consumers may find the good dearer or have to compete for stock. A shift left has the opposite effects: unsold stock, price cuts, lower revenue and possible job losses. A price cut (a movement) raises quantity bought; the effect on revenue depends on PED.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--11-market-demand-sum.webp" width="900" height="970" alt="Horizontal stacked bars show weekly pizza demand in Town T at each price from 12 pounds down to 4 pounds. Each bar adds Ana, Bilal and Cara. Totals are 3 at 12 pounds, 6 at 10, 9 at 8, 13 at 6 and 18 at 4. As price falls, every buyer wants more, so the market total rises." loading="lazy">
+  <figcaption>Market demand at each price is the sum of what every buyer wants to buy at that price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--01-pizza-ped-along-one-curve.webp" width="900" height="1020" alt="Pizza demand segment A (8 to 6 pounds): price -25.0%, quantity +44.4%, PED -1.78, elastic. Segment B (6 to 4 pounds): price -33.3%, quantity +38.5%, PED -1.15, less elastic. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>PED is different at different parts of one demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--02-ped-shapes-and-determinants.webp" width="900" height="1320" alt="Vertical line PED 0; steep line 0 to 1; shallow line above 1; horizontal line infinite. Six determinants listed from the lesson. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four demand curve shapes and the factors that make demand flatter or steeper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
 
 ## Price elasticity of demand
 

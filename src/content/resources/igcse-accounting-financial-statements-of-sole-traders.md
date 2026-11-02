@@ -95,6 +95,17 @@ The **statement of financial position** lists assets, liabilities and capital **
 | Non-current liabilities | Payable after more than a year | Bank loan repayable in five years |
 | Capital | Amount owed to the owner | Opening capital + profit - drawings (+ any capital introduced) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--04-st-one-year-test.webp" width="900" height="900" alt="A grid splits assets and liabilities at one year. Current assets and current liabilities fall within a year; non-current assets (including intangible goodwill) and non-current liabilities run beyond a year. A bar shows capital as opening capital plus profit less drawings, plus any capital introduced." loading="lazy">
+  <figcaption>Whether an item is current or non-current depends on whether it lasts or falls due within one year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## 5 Year-end adjustments
 
 **Depreciation.** Straight line: cost x rate, the same every year. Reducing balance: rate x carrying value at the start of the year (cost less accumulated depreciation). Revaluation: opening value + additions - closing value. Example: a trailer costing 14,000 at 10% straight line costs 1,400 a year; a machine with carrying value 9,000 at 30% reducing balance costs 2,700; tools valued 2,000, plus 400 bought, valued 1,700 at the end, give 700.
@@ -111,6 +122,37 @@ The **statement of financial position** lists assets, liabilities and capital **
 **Irrecoverable debts.** Step 1: write the debt off (an expense) and deduct it from trade receivables. Step 2: allowance = percentage x remaining trade receivables. Step 3: the statement of profit or loss takes just the movement in the allowance, an expense if it rises and income if it falls. The statement of financial position deducts the whole allowance from trade receivables.
 
 **Drawings.** Add to drawings (and remove from where it was charged): goods taken by the owner, valued at cost and deducted from purchases; other assets taken, at carrying value and deducted from that asset's cost and accumulated depreciation; private expenses the business paid, deducted from the expense.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--02-drawings-three-kinds.webp" width="900" height="780" alt="Three boxes feed one drawings box: 18,000 dollars cash, 260 dollars of private telephone calls and a printer at its carrying value of 300 dollars, totalling 18,560 dollars. Each item is removed from where it was charged." loading="lazy">
+  <figcaption>Drawings include cash, private expenses and assets taken at carrying value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--05-st-revaluation-depreciation.webp" width="900" height="850" alt="A waterfall chart starts with tools valued at 2,000, adds 400 bought, and ends with a valuation of 1,700. The drop from 2,400 to 1,700 is the depreciation of 700, shown as 2,000 plus 400 minus 1,700." loading="lazy">
+  <figcaption>Revaluation depreciation is opening value plus additions less closing value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## 6 Worked example: a service business
 
@@ -196,6 +238,12 @@ Current liabilities
 Total capital and liabilities                          33,160
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+
 ## 7 Worked example: a manufacturing business
 
 Hamid Yilmaz makes kitchen units. Year ended 30 September 2028. Balances before adjustment: raw materials 4,200, work in progress 1,800 and finished goods 6,500 (all at 1 October 2027); purchases of raw materials 31,000; carriage inwards 600; direct wages 22,500; factory rent 6,000; factory power 3,400; office salaries 9,200; vehicle expenses 2,500; sales returns 1,000; machinery cost 40,000 (accumulated depreciation 12,000); van cost 15,000 (accumulated depreciation 3,000); trade receivables 7,400; bank 5,100; drawings 16,000; revenue 98,000; rent received 700; trade payables 5,200; loan (repayable 2033) 8,000; capital 1 October 2027 45,300.
@@ -236,6 +284,12 @@ Profit for the year                            16,800
 ```
 
 Statement of financial position: machinery 40,000 - 16,000 = 24,000; van 15,000 - 5,400 = 9,600 (non-current assets 33,600). Inventories are shown in three parts: raw materials 3,900, work in progress 2,300 and finished goods 7,200 (13,400), plus trade receivables 7,400 and bank 5,100: current assets 25,900, total assets 59,500. Capital 45,300 + 16,800 - 16,000 = 46,100; loan 8,000; current liabilities 5,400 (trade payables 5,200, other payables 200). Total 59,500.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--01-manufacturing-account.webp" width="900" height="794" alt="Raw materials used of 31,900 dollars plus direct wages 22,500 give prime cost 54,400. Factory overheads of 13,600 take it to 68,000, and the work in progress adjustment (add 1,800, deduct 2,300) gives factory cost of production 67,500 dollars." loading="lazy">
+  <figcaption>Prime cost plus overheads, adjusted for work in progress, is the factory cost that replaces purchases.</figcaption>
+</figure>
+
 
 ## 8 The effect of a change in one balance
 

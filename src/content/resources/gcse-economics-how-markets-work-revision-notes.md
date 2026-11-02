@@ -30,6 +30,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 The four factors of production and their rewards: land–rent, labour–wages, capital–interest, enterprise–profit. **Capital is machinery and equipment, not money.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## Demand and supply
 
 **Demand** slopes downward; **supply** slopes upward.
@@ -45,6 +56,22 @@ The distinction that decides most marks:
 
 Note that for an **inferior good**, demand *falls* as income rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Equilibrium
 
 Where demand meets supply.
@@ -55,6 +82,22 @@ Where demand meets supply.
 **Answering "explain the effect of X on the market" needs four steps:** which curve shifts, in which direction, the new equilibrium, and the effect on **both** price **and** quantity. Answering only about price gives away half the marks.
 
 The price mechanism performs three jobs at once: it **signals** to producers where resources are wanted, it **incentivises** them to supply more of what is scarce and profitable, and it **rations** a limited quantity of goods among the buyers willing to pay the going price. All three follow directly from the same self-correcting movement towards equilibrium described above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--02-price-control-wrong-side.webp" width="900" height="920" alt="Two market diagrams with equilibrium at price 5. A maximum price of 7 sits above equilibrium and a minimum price of 3 sits below it. Neither is binding, so price stays at 5." loading="lazy">
+  <figcaption>A price control only bites on the correct side of equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--04-price-mechanism-three-jobs.webp" width="900" height="1126" alt="A shortage at price 3 (demand 70, supply 30) pushes price up towards equilibrium at 5. Three cards show the jobs this does: signals to producers, incentivises supply, and rations goods to buyers willing to pay." loading="lazy">
+  <figcaption>One movement towards equilibrium signals, incentivises and rations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Elasticity
 
@@ -84,6 +127,17 @@ so total revenue to the remaining growers may actually RISE.
 
 The analysis mark is that last line — most candidates stop at "the price rises" and never link it back to elasticity and revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--03-price-rise-revenue-elasticity.webp" width="900" height="960" alt="Two diagrams show a 20% price rise from 10 to 12. With PED 0.3 quantity falls 6% and revenue rises from 1,000 to 1,128. With PED 2 quantity falls 40% and revenue falls to 720." loading="lazy">
+  <figcaption>Revenue rises after a price rise only when demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## Production and costs
 
 ```
@@ -96,6 +150,12 @@ profit     = total revenue - total costs
 **Economies of scale** reduce **average** cost as a firm grows: purchasing, technical, financial, marketing, managerial. Note the word **average** — total costs still rise with output; it is cost *per unit* that falls.
 
 **Diseconomies of scale** raise average cost when a firm becomes too large: poor communication, weak coordination, falling motivation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--05-economies-of-scale-average-cost.webp" width="900" height="950" alt="Bars show total cost rising from 500 to 1,320 pounds as output goes from 100 to 400. Boxes below show cost per unit falling from 5.00 to 3.30 pounds." loading="lazy">
+  <figcaption>Economies of scale cut average cost, not total cost.</figcaption>
+</figure>
+
 
 ## Competition
 
@@ -124,6 +184,12 @@ Competition benefits consumers through price, choice and quality. Monopoly is no
 - A **minimum price** above equilibrium creates a **surplus**.
 
 Both only have an effect on the correct side of equilibrium — a maximum price set above equilibrium changes nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--01-public-good-both-properties.webp" width="900" height="880" alt="A two by two grid of excludable/non-excludable and rival/non-rival. Only non-excludable and non-rival (street lighting, national defence) is a public good. Healthcare and education can be sold privately, so they are merit goods." loading="lazy">
+  <figcaption>A public good must be both non-excludable and non-rival.</figcaption>
+</figure>
+
 
 ## Exam traps
 

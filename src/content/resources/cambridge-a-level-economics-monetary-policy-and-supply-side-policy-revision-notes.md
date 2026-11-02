@@ -38,6 +38,12 @@ These notes condense sections 5.3 (Monetary policy) and 5.4 (Supply-side policy)
 | Productivity | Output per worker (or per unit of input) |
 | Productive capacity | The maximum output the economy can produce with its resources |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--02-mon-real-vs-nominal-rate.webp" width="900" height="590" alt="Two bars each show a 4% nominal rate. With inflation of 1.5% the real rate is about 2.5%; with inflation of 3.5% it is about 0.5%." loading="lazy">
+  <figcaption>The real interest rate is approximately the nominal rate minus inflation.</figcaption>
+</figure>
+
+
 ## Monetary policy at a glance (5.3.2 to 5.3.3)
 
 | Tool | Expansionary | Contractionary | Main channel to AD |
@@ -56,6 +62,12 @@ These notes condense sections 5.3 (Monetary policy) and 5.4 (Supply-side policy)
 
 Reverse every step for a rate rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--01-mon-rate-cut-decisions.webp" width="900" height="900" alt="Three panels. A bakery with a 200,000 cu loan pays 10,000 a year at 5% and 7,000 at 3.5%. A household mortgage of 150,000 costs 9,000 at 6% and 6,750 at 4.5%, saving 187.50 a month. A machine returning 5.5% is worth buying with borrowing at 4.5% (gain 5,000) but not at 6% (loss 2,500)." loading="lazy">
+  <figcaption>A lower interest rate cuts interest bills and makes more investment projects worth doing.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Interest cost.** Interest = loan x rate. Compare the old and new bills.
@@ -67,6 +79,12 @@ Reverse every step for a rate rise.
 **Money market.** Draw demand for money sloping down and supply vertical. A rise in supply moves the equilibrium rate down. Example: demand L = 480 - 30r. A supply of 330 gives r = 5%. A supply of 360 gives r = 4%.
 
 **New AD/AS equilibrium.** Set AD equal to SRAS, solve for P, then substitute to find Y. Always give the percentage change in each variable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--03-mon-loan-to-value-cap.webp" width="900" height="850" alt="Two houses of 250,000 cu as stacked columns. At an 80% cap the loan is 200,000 and the deposit 50,000; at a 70% cap the loan is 175,000 and the deposit 75,000, which is 50% more." loading="lazy">
+  <figcaption>A tighter loan-to-value cap raises the deposit needed and so reduces borrowing.</figcaption>
+</figure>
+
 
 ## AD/AS analysis (5.3.4 and 5.4.4)
 
@@ -85,6 +103,27 @@ Label axes as price level and real output. Name each curve (AD1, AD2, SRAS, LRAS
 - Output is up 5.7% (40 / 700) and the price level is up 10% (10 / 100).
 
 When there is little spare capacity, the price rise is a larger share of the effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--05-expansionary-policy-adas.webp" width="900" height="860" alt="AD and AS diagram. AD shifts right by 80 from Y=1,100-4P to Y=1,180-4P against SRAS Y=400+6P. Price 70 to 78, output 820 to 868 (+5.9%), gap to capacity 180 to 132." loading="lazy">
+  <figcaption>Expansionary monetary policy raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--06-supply-side-adas.webp" width="900" height="860" alt="AD Y=1,200-4P with SRAS shifting right by 60 from Y=400+6P to Y=460+6P. Price 80 to 74, output 880 to 904. LRAS moves right from 1,000 to 1,060." loading="lazy">
+  <figcaption>Supply-side policy raises output while the price level falls, and raises capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--04-mon-contractionary-adas.webp" width="900" height="920" alt="AD and AS diagram. AD shifts left from Y=1,360-4P to Y=1,300-4P against SRAS Y=400+6P. Equilibrium moves from price 96, output 976 to price 90, output 940." loading="lazy">
+  <figcaption>Contractionary policy lowers the price level but costs output and jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
 
 ## Supply-side policy (5.4.2 and 5.4.3)
 
@@ -112,9 +151,21 @@ Other valid measures include better health care, tax incentives for investment a
 - Output is up 20 (2.9%) and the price level is down 10 (10%).
 - Contrast with the expansionary case above, where both rose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ### Percentage change in capacity
 
 If full-capacity output rises from 800 to 840 cu bn, the increase is 40 / 800 = 5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--05-mon-supply-side-tools.webp" width="900" height="860" alt="Three worked examples. Training 4 million of 25 million workers lifts output from 1,000 to 1,016 bn and output per worker from 40,000 to 40,640, for a cost of 8 bn against a gain of 16 bn. A new road cuts a delivery from 40 to 30 minutes, so 12 deliveries become 16. A 30% subsidy on a 500,000 cu research project means the government pays 150,000 and the firm 350,000." loading="lazy">
+  <figcaption>Training, infrastructure and research subsidies each raise productivity or capacity in measurable ways.</figcaption>
+</figure>
+
 
 ## Answering a policy question
 
@@ -140,6 +191,12 @@ Also: a price-level change moves the economy along a curve, while a change in an
 - **Monetary:** time lags, low confidence, spare capacity, fixed-rate debts, borrowers versus savers, demand-pull versus cost-push inflation.
 - **Supply-side:** long time lags, high cost, uncertain take-up, needs demand to use the extra capacity.
 - Judge by size, timing, cause of the problem and who gains and loses. End with a conclusion that depends on stated conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--04-money-market.webp" width="900" height="866" alt="Money market diagram: downward-sloping demand for money (6% at 300 to 2% at 460) and vertical money supply lines. Supply 380 gives 4%, 420 gives 3%, 340 gives 5%." loading="lazy">
+  <figcaption>The central bank sets the money supply; the interest rate adjusts to clear the money market.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

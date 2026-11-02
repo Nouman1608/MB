@@ -63,6 +63,17 @@ Remember: **no malarial life cycle** is needed.
 - **TB:** bacteria infect the lungs; in many people the infection stays inactive until the immune system weakens.
 - **HIV:** infects and destroys **T-helper lymphocytes**, so the immune system fails (AIDS) and opportunistic infections take hold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ## 10.1.4 Prevention and control
 
 ### Method in steps: answering a "discuss" question
@@ -93,6 +104,22 @@ Remember: **no malarial life cycle** is needed.
 
 So penicillin affects only **growing** bacteria, and it does not harm human cells, which have no cell wall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+
 ### Why antibiotics do not affect viruses
 
 - Viruses have no peptidoglycan cell wall, no ribosomes and no metabolism of their own.
@@ -117,6 +144,12 @@ So penicillin affects only **growing** bacteria, and it does not harm human cell
 | Surgery and cancer treatment riskier | Rotate the antibiotics used |
 | Multi-drug-resistant TB harder to control | Cut antibiotic use in farming |
 | Newer drugs cost more | Better hospital hygiene; fund new antibiotics |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

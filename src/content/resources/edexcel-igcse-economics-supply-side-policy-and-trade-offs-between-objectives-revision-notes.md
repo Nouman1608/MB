@@ -45,6 +45,22 @@ These notes condense sections 2.1.2 c (Supply-side policy) and 2.1.3 a (trade-of
 
 Reminder: 4,600 loaves from 8 workers is 575 each. From 500 each, that is a rise of 15%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--09-nominal-vs-real-growth.webp" width="900" height="790" alt="GDP rises from 800 to 856.8 billion (7.1% nominal). Of the extra 56.8, 40 is more output (5% real growth) and 16.8 is higher prices (2.1 points). Real GDP is 856.8 / 1.02 = 840." loading="lazy">
+  <figcaption>Only 5 of the 7.1 percentage points of nominal growth is extra output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--10-growth-vs-emissions.webp" width="900" height="880" alt="Real GDP rises 4%. Emissions rise 4% to 41.6 million tonnes with the same methods (0.080 per billion GDP) but 2% to 40.8 with cleaner technology (0.078)." loading="lazy">
+  <figcaption>Cleaner technology still adds some pollution as GDP grows, but less per unit of output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## The seven policies at a glance
 
 | Policy | Chain | Main gain | Main limit |
@@ -56,6 +72,12 @@ Reminder: 4,600 loaves from 8 workers is 575 each. From 500 each, that is a rise
 | Infrastructure | Lower transport and communication costs | More investment, faster deliveries | High cost, long build time |
 | Lower business taxes | Firms keep more profit | More investment, capital grows | May go to dividends, weak demand, less tax revenue |
 | Lower income tax | Higher take-home pay | More people work or work longer | Behaviour may not change, less tax revenue |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--07-ssp-seven-chains.webp" width="900" height="1290" alt="Seven policies each with a short chain and a before and after bar: privatisation (average cost 40 to 36), deregulation (120 to 150 new firms, 300 jobs), training (500 to 575 loaves per worker), regional policy (unemployment 12% to 9%), infrastructure (trip cost 100 to 70), business tax cut (profit kept 60,000 to 64,000) and income tax cut (net pay 1,600 to 1,700, revenue 200m to 156m)." loading="lazy">
+  <figcaption>Each supply-side policy has a chain and a worked number from the lesson.</figcaption>
+</figure>
+
 
 ## Method: explaining a supply-side policy
 
@@ -100,6 +122,12 @@ Emissions per unit of GDP = emissions / GDP
 ```
 
 Percentage change in exports: (108 - 120) / 120 x 100 = -10%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--11-inflation-current-account.webp" width="900" height="820" alt="Country B has 6% inflation against 2% abroad. Exports fall from 120 to 108 (-10%) and imports rise from 100 to 112 (+12%), so the balance moves from +20 surplus to -4 deficit." loading="lazy">
+  <figcaption>Higher relative inflation cuts exports, lifts imports and pushes the current account into deficit.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -155,6 +183,17 @@ Percentage change in exports: (108 - 120) / 120 x 100 = -10%.
 9. Real GDP = 231 / 1.05 = 220. Growth = 20 / 200 = 10%.
 10. 81 - 88 = -7, a deficit of 7.
 11. More output means more resources used, more pollution and faster depletion of natural resources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--08-unemp-inflation-stimulus.webp" width="900" height="930" alt="Two 10 by 10 grids (1 square = 1% of a 10 million labour force) show 8 then 5 squares unemployed, with inflation bars of 1.5% and 4.5%. Unemployment falls 3 points while inflation rises 3 points." loading="lazy">
+  <figcaption>Cutting unemployment from 8% to 5% came with inflation rising from 1.5% to 4.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

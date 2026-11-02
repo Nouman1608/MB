@@ -32,6 +32,12 @@ Three jobs, all named in the specification.
 
 Link each to the business in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--01-role-of-marketing.webp" width="900" height="940" alt="Three stacked boxes joined by arrows: identify and understand customers (a bakery finds neighbours want gluten-free bread), inform customers (price, features, where to find it), increase sales (revenue pays costs and leaves profit). A banner says the first two aims serve the third." loading="lazy">
+  <figcaption>The first two aims of marketing serve the third: more sales.</figcaption>
+</figure>
+
+
 ## 2.2 Market research
 
 Purpose: to identify and understand customer needs.
@@ -63,6 +69,27 @@ Purpose: to identify and understand customer needs.
 - Quantitative: numbers (counts, percentages, averages). Shows how many.
 - Qualitative: opinions and reasons. Shows why.
 - Use both. A percentage with no reasons leaves the next step unclear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--08-market-share-pembrook.webp" width="900" height="830" alt="Two bars show the local bakery market. Year 1: market 480,000 pounds with Pembrook at 76,800 (16 percent share). Year 2: market 520,000 with Pembrook at 88,400 (17 percent). The market grew 8.3 percent and Pembrook sales 15.1 percent, so share rose one percentage point." loading="lazy">
+  <figcaption>Pembrook grew faster than its market, so its market share rose from 16% to 17%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--05-research-for-purpose.webp" width="900" height="1160" alt="Four situations matched to a method: a new business with no sales history needs primary research; census data (secondary, free) gives the size of an age group; a new recipe needs trialling or a focus group; a small budget and tight deadline suggests secondary sources plus a short questionnaire. Secondary sources shown: newspapers and magazines, census, websites and internal data." loading="lazy">
+  <figcaption>Match the research method to the purpose: no method is best in every case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
 
 ## 2.3 Market segmentation
 
@@ -98,6 +125,22 @@ The four Ps: product, price, promotion, place. They must fit together.
 **Place:** shop, market stall, website, app, online marketplace. Digital reaches further; physical lets people see and touch.
 
 **Using the mix:** match the change to the problem. Falling share might need a price or promotion change. A new segment might need a new product or channel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--07-cost-plus-promotion.webp" width="900" height="810" alt="Two stacked bars for a loaf costing 1.80 pounds. With a 50 percent mark-up the price is 2.70, made of cost 1.80 and profit 0.90. A 20 percent promotion removes 0.54, giving a price of 2.16 and a profit of only 0.36. A banner says volume must rise, to about 2.5 times as many loaves for the same profit." loading="lazy">
+  <figcaption>A 20% promotion cuts profit per loaf from 0.90 to 0.36 pounds, so sales volume must rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--03-promotion-pos-and-media.webp" width="900" height="1250" alt="Four point-of-sale methods (price reductions, loss leaders sold at or below cost, competitions, free samples) and four advertising media chosen by audience and budget (social media cheap for an age group, television large audience but dearer, local radio for a local shop, print for readers of a magazine)." loading="lazy">
+  <figcaption>Point-of-sale methods work at the till; advertising media are chosen by audience and budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--04-mix-decisions.webp" width="900" height="880" alt="Three rows run from a situation to the P to change to the decision: falling sales, price, a promotional price; a new competitor, product, a better design; a new target market, promotion, a different advertising medium." loading="lazy">
+  <figcaption>A change in the situation points to one P of the mix to adjust.</figcaption>
+</figure>
+
 
 ## Formulas
 

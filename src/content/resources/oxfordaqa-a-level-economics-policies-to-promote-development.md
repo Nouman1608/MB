@@ -45,6 +45,12 @@ Demand-side policies raise aggregate demand: government spending, lower taxes, c
 
 Supply-side policies raise productive capacity (long-run aggregate supply): education, health care, infrastructure, deregulation, incentives to invest. They work slowly and cost money up front.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--10-demand-side-vs-supply-side.webp" width="900" height="880" alt="Left: AD shifts right along a steep AS near capacity, so prices rise a lot and output barely changes. Right: AS shifts right, so output rises and prices fall." loading="lazy">
+  <figcaption>Where capacity is the constraint, supply-side policy raises output while demand-side policy mostly raises prices.</figcaption>
+</figure>
+
+
 ## Market-based strategies
 
 These rely on prices, competition and private firms. The specification lists trade liberalisation, privatisation, deregulation, encouraging FDI, low taxes and minimal state involvement, and floating exchange rates.
@@ -67,6 +73,12 @@ Change = (10,500 - 12,000) / 12,000 x 100 = -12.5%
 
 A 12.5% fall in the cost of capital goods encourages investment. Against this, the government gives up tariff income and local machine makers lose protection. Whether total tariff revenue falls depends on how many machines are imported afterwards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--12-tariff-cut-and-evaluation-chain.webp" width="900" height="980" alt="A machine at world price 10,000 costs 12,000 with a 20% tariff and 10,500 with 5%, a 12.5% fall. The case for liberalisation is a chain to faster growth; the case against is infant industries, lost jobs and lower tariff revenue." loading="lazy">
+  <figcaption>A 12.5% fall in capital-goods cost helps investment, but the judgement depends on local firms, speed and help for workers.</figcaption>
+</figure>
+
+
 ## Interventionist strategies
 
 The state leads. The specification lists protectionism, public ownership, industrial strategies, government spending on infrastructure, education and health care, and managed exchange rates.
@@ -80,6 +92,12 @@ The state leads. The specification lists protectionism, public ownership, indust
 ### Overlap
 
 The strategies complement each other. A government may liberalise trade (market-based) while funding schools (interventionist). Encouraging FDI is market-based, but a state agency that offers tax breaks and builds roads to a new zone is intervening. Judge the mix, not the label.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--11-market-vs-interventionist-overlap.webp" width="900" height="900" alt="A Venn diagram: market-based strategies on the left, interventionist on the right, with FDI plus state tax breaks and roads in the overlap. Cutting tariffs plus funding schools is a mix of both." loading="lazy">
+  <figcaption>The two strategies overlap, so judge the mix, not the label.</figcaption>
+</figure>
+
 
 ## Foreign direct investment
 
@@ -99,6 +117,12 @@ Total rise in income = 200 x 2.5 = 500 cu
 ```
 
 The firm earns 60 cu profit and sends 70% abroad: 60 x 0.70 = 42 cu leaves; 18 cu stays. The gain is large, but only if the firm buys locally. If most inputs are imported, the effective MPC falls and so does the multiplier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--05-fdi-multiplier.webp" width="900" height="910" alt="A 200 unit FDI injection is re-spent at an MPC of 0.6 each round (200, 120, 72, 43.2, ...), giving a multiplier of 2.5 and a 500 rise in income. Of a 60 unit profit, 42 is sent abroad and 18 stays." loading="lazy">
+  <figcaption>FDI raises income by a multiple of the injection, but repatriated profit and imported inputs reduce the gain.</figcaption>
+</figure>
+
 
 ## Buffer stocks
 
@@ -122,6 +146,12 @@ Poor season, ceiling 1,050: Qd = 750; Qs = 1,050 - 400 = 650. The authority sell
 
 Evaluation: farmers' incomes become more predictable and planning improves. But storage costs money, the authority needs funds to buy, a floor set too high leads to endless surpluses, and perishable crops cannot be stored.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--04-buffer-stock-floor-ceiling.webp" width="900" height="940" alt="Demand is Qd = 1,800 - P. In a bumper season (Qs = P + 100) the free price is 850; with a floor of 900 the authority buys 100 thousand tonnes for 90 million. In a poor season (Qs = P - 400) the free price is 1,100; with a ceiling of 1,050 it sells 100 thousand tonnes from stock and raises 105 million." loading="lazy">
+  <figcaption>A floor and a ceiling stop the price swinging between 850 and 1,100 by buying and selling 100 thousand tonnes.</figcaption>
+</figure>
+
+
 ## Microfinance
 
 Microfinance gives small loans, savings and insurance to poor people who cannot borrow from banks because they lack collateral.
@@ -129,6 +159,12 @@ Microfinance gives small loans, savings and insurance to poor people who cannot 
 Worked example: a seamstress borrows 200 cu at 20% interest for a year. Repayment: 200 x 1.20 = 240 cu. An informal lender charges 10% a month, simple interest: 200 x (1 + 0.10 x 12) = 440 cu. A sewing machine raises her income by 60 cu a month, 720 cu a year. Interest costs 40 cu, so the net gain is 680 cu.
 
 Strengths: raises small business income, empowers women who often run the enterprises, and avoids moneylenders. Weaknesses: interest can still be high, over-borrowing causes debt traps, and loans rarely build large firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--13-microfinance-and-fair-trade.webp" width="900" height="1030" alt="Repaying 200 cu costs 240 from a microlender and 440 from a moneylender; a sewing machine adds 720, net gain 680. A cooperative earns 80,000 at market price or 90,000 on fair trade terms, 12.5% more; the community premium is 7,500." loading="lazy">
+  <figcaption>Cheap credit and guaranteed prices raise poor producers’ incomes.</figcaption>
+</figure>
+
 
 ## Fair trade
 
@@ -162,6 +198,12 @@ Remittances are money sent home by migrant workers. They raise household income,
 Worked example: 100,000 migrants each send 1,800 cu a year: 180 million cu. GDP is 6,000 million cu, so remittances are 3% of GDP. A transfer fee of 8% costs 144 cu per migrant, 14.4 million cu in total. Halving the fee saves 7.2 million cu.
 
 Drawbacks: loss of skilled workers (brain drain), dependence on foreign labour markets, and spending on consumption instead of investment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--14-remittances-and-tourism.webp" width="900" height="990" alt="Remittances of 180m are 3% of GDP of 6,000m; an 8% fee takes 14.4m and halving it saves 7.2m. Tourist spending of 450m loses 40% to leakage, leaving 270m, and a multiplier of 1.6 gives 432m." loading="lazy">
+  <figcaption>Remittances and tourism help development, but fees and leakages reduce the gain.</figcaption>
+</figure>
+
 
 ## Tourism
 

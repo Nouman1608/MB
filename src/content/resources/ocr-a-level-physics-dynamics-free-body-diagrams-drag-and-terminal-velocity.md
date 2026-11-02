@@ -99,6 +99,17 @@ Take upward as positive: T − mg = ma, so T = m(g + a).
 (ii) a = 0: T = 640 × 9.81 = 6278 N, about 6.3 kN
 (iii) the acceleration is downward, a = −1.2: T = 640 × (9.81 − 1.2) = 5510 N, about 5.5 kN
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ## Motion under constant force in two dimensions (3.2.1(f))
 
 A constant net force gives a constant acceleration. Use F = ma with the equations of constant acceleration. In two dimensions, resolve into perpendicular components using F cos θ and F sin θ, and treat each direction separately. The components are independent: a force in one direction does not change the motion in the perpendicular direction.
@@ -117,6 +128,12 @@ Net force down the slope = 49.8 − 18 = 31.8 N
 a = 31.8/12 = 2.6 m s⁻²
 Normal contact force = 12 × 9.81 × cos 25° = 107 N
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+
 ### Projectiles
 
 For a projectile with only weight acting (no drag), the net force is vertical. So the horizontal acceleration is zero (constant horizontal velocity) and the vertical acceleration is g.
@@ -127,6 +144,17 @@ Vertical: s = ½gt², so t = √(2 × 35.0/9.81) = 2.67 s
 Horizontal distance = 12.0 × 2.67 = 32.1 m
 Vertical speed on landing = gt = 9.81 × 2.67 = 26.2 m s⁻¹
 Speed = √(12.0² + 26.2²) = 28.8 m s⁻¹, at tan⁻¹(26.2/12.0) = 65.4° below the horizontal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--05-momentum-change.webp" width="900" height="1090" alt="A ball hits a wall at 32 m s-1 and rebounds at 24 m s-1. Taking towards the wall as positive, the initial momentum is +1.824 and the final is -1.368 kg m s-1, so the change is -3.192. The velocity change is 56 m s-1, not 8. Over 4.5 ms the average force is 709 N away from the wall." loading="lazy">
+  <figcaption>Because momentum is a vector, a rebound changes it by the sum of the two sizes, and F = Δp/Δt gives the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--08-collision-2d.webp" width="900" height="1110" alt="A 0.16 kg puck at 5.0 m s-1 hits a stationary 0.24 kg puck. The first leaves at 3.0 m s-1 at 35 degrees; the second leaves at 2.0 m s-1 at 34 degrees on the other side. A to-scale momentum triangle closes on the original 0.80 kg m s-1. Kinetic energy falls from 2.0 J to 1.22 J, so it is inelastic." loading="lazy">
+  <figcaption>Momentum is conserved on each axis, so the two final momenta add as vectors to the initial momentum.</figcaption>
+</figure>
+
 
 ## Drag and the factors affecting it (3.2.2(a), (b))
 
@@ -157,6 +185,17 @@ The motion in a uniform gravitational field has three stages:
 1. **Release:** speed is zero, so drag is (almost) zero and a = g.
 2. **Speeding up:** as speed rises, drag rises, net force falls, and acceleration falls. The object still speeds up, but more slowly. The velocity–time graph is a curve with a decreasing gradient.
 3. **Terminal velocity:** drag equals weight, net force is zero, a = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--04-terminal-velocity.webp" width="900" height="1130" alt="A velocity-time graph for a faller computed from a drag-squared model, with points A to E and matching free-body diagrams. Drag grows from zero until it equals the weight at terminal velocity (40 m s-1), then the parachute opens, drag exceeds weight and the speed falls to a smaller terminal velocity (8 m s-1) where drag again equals weight." loading="lazy">
+  <figcaption>Acceleration falls to zero as drag grows to equal weight; opening a parachute gives a new, smaller terminal velocity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
 
 ## Terminal velocity (3.2.2(d)(i))
 

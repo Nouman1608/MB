@@ -54,6 +54,12 @@ Hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Checklist: [printable 
 | E = W/Q, so W = EQ | Energy supplied by a source |
 | eV = ½mv² | Charged particle accelerated from rest through a p.d. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--06-two-source-kirchhoff.webp" width="900" height="1100" alt="Two branches (12 V with 3.0 ohm, 8.0 V with 2.0 ohm) share a 2.0 ohm resistor. The junction law and two loop equations give I1 = 2.0 A, I2 = 1.0 A and 3.0 A through the shared resistor, with 6.0 V across it. Power from sources (32 W) equals power in the resistors (12 + 2 + 18 W)." loading="lazy">
+  <figcaption>Solving a two-source circuit with Kirchhoff laws and checking energy.</figcaption>
+</figure>
+
+
 ## Method in steps: drift velocity
 
 1. Write I = Anev and rearrange to v = I / (A n e).
@@ -61,6 +67,12 @@ Hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Checklist: [printable 
 3. Check n is in m⁻³ (convert from cm⁻³ by multiplying by 10⁶).
 4. Substitute and give the answer in m s⁻¹.
 5. For comparisons, use proportion: v ∝ I, v ∝ 1/A, v ∝ 1/n.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--01-drift-velocity.webp" width="900" height="1260" alt="A wire carries free electrons that drift slowly against the conventional current. In time t the carriers in a slab of length vt cross a plane, so I = nAvq. For a 13 A copper cable the drift speed is 3.8 x 10^-4 m/s, and halving the diameter makes the drift speed four times larger for the same current." loading="lazy">
+  <figcaption>Why a current of many amperes needs only a tiny drift speed: I = nAvq.</figcaption>
+</figure>
+
 
 ## Method in steps: accelerated particle
 
@@ -78,6 +90,12 @@ Hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Checklist: [printable 
 - Drift velocities in metals are tiny, of the order of fractions of a millimetre per second, because n is so large.
 - A lamp comes on at once when the switch closes because the field travels through the circuit very quickly. The carriers already in the filament start to drift together.
 - The volt measures energy per unit charge for both p.d. and e.m.f. The difference is the direction of the energy change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
 
 ## Method in steps: e.m.f. and p.d. questions
 
@@ -160,6 +178,12 @@ Be able to draw: cell, battery, switch, fixed resistor, variable resistor, filam
 - Saying drift velocity is "the speed of the electrons". It is the mean drift along the wire.
 - Writing the symbol for e.m.f. as E and then confusing it with energy in an equation.
 - Quoting n for semiconductors as "zero". It is small, not zero, and it rises with temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -58,6 +58,22 @@ Implications to evaluate:
 
 Use an example for each agent: a household choosing between rent and savings, a firm choosing between a new machine and extra staff, a government choosing between health and education spending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--02-sc-needs-wants-line.webp" width="900" height="890" alt="Two columns show food, water and shelter as needs in both societies. Internet access is a want in Society A and sits below the line, close to a need, in Society B. An arrow shows wants have no fixed limit." loading="lazy">
+  <figcaption>The dividing line between needs and wants moves with time and place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+
 ## Positive or normative: the quick test
 
 1. Could you check it against evidence? If yes, it is positive, even if it is false.
@@ -65,6 +81,12 @@ Use an example for each agent: a household choosing between rent and savings, a 
 3. A mixed statement has both parts: split it and label each.
 
 Examples: "Unemployment in Country A rose to 7%" is positive. "A 7% rate is unacceptable" is normative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## Agents and factors of production
 
@@ -85,6 +107,22 @@ Examples: "Unemployment in Country A rose to 7%" is positive. "A 7% rate is unac
 
 **Worked reminder (invented).** A small farm pays £45,000 in wages out of £120,000 total factor payments. Wages share = 45,000 ÷ 120,000 × 100 = 37.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--14-value-added-shares.webp" width="900" height="910" alt="Revenue of £640,000 less £140,000 of materials leaves value added of £500,000. It is shared as wages £275,000 (55%) to labour, rent £45,000 (9%) to land, interest £35,000 (7%) to capital and profit £145,000 (29%) to enterprise. Materials pay other firms and are not a factor reward." loading="lazy">
+  <figcaption>How the tile firm’s value added is shared between the four factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--01-sc-agents-roles.webp" width="900" height="900" alt="Households supply labour and other factors to firms and are paid for them. Government taxes both and provides services and rules. A label under each agent gives the aim assumed in simple rational models: utility for households, profit for firms, welfare for government." loading="lazy">
+  <figcaption>Households, firms and government each play a role and are assumed to pursue a different aim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## Sustainability
 
 Method in steps:
@@ -98,6 +136,12 @@ Reminder (invented): a stock of 3,000 units grows 5% a year and 200 are taken. G
 
 Effects to explain: resource depletion raises scarcity and prices, forces substitution and may lead to quotas; sustainable methods ease scarcity in the long run but cost something now. Evaluate by who pays today and who benefits later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--13-woodland-sustainability.webp" width="900" height="840" alt="A woodland of 12,500 cubic metres grows 6% a year. Felling 1,000 a year shrinks the stock to 12,250, 11,985 and 11,704 over three years, and growth falls from 750 to 735 to 719. Felling 750 would hold the stock at 12,500, shown as a dashed line. The vertical axis starts at 11,500." loading="lazy">
+  <figcaption>Felling 1,000 a year is unsustainable; felling 750 holds the stock level.</figcaption>
+</figure>
+
+
 ## The market economy
 
 | Strengths | Weaknesses |
@@ -110,6 +154,17 @@ Effects to explain: resource depletion raises scarcity and prices, forces substi
 **Role of government.** Provide a legal framework and property rights; supply goods the market does not; tax, subsidise or regulate to correct failure; promote competition; redistribute; stabilise.
 
 **Evaluation checklist.** Government failure (poor information, political pressure, unintended consequences, cost); the size of the market failure; time lags; value judgements about fairness; context. Finish with a reasoned judgement, not a list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--03-sc-intervention-balance.webp" width="900" height="880" alt="A balance compares market failures (third-party costs, unpriced goods, market power, inequality) with government failure risks (limited information, political pressure, unintended effects, high cost). Four factors decide the weighing: size of failure, quality of policy, time and views on fairness." loading="lazy">
+  <figcaption>Name a market failure and a government failure risk, then judge which weighs more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## The margin
 
@@ -131,6 +186,17 @@ Effects to explain: resource depletion raises scarcity and prices, forces substi
 **Usefulness of the margin.** For: it fits small adjustments, ignores sunk costs, and underlies supply and demand. Against: data are hard to get, some choices are all-or-nothing, and benefits like satisfaction or environmental damage are hard to value. Judgement: strong for guiding choices that can be varied by degrees, weaker as a picture of how people actually decide.
 
 **Evaluating rationality.** For: simple, predicts well for many firm decisions. Against: limited information, habit, copying others, concern for fairness, poor judgement under pressure. Judgement: a useful starting model, with accuracy varying by agent and situation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--11-candle-margin.webp" width="900" height="880" alt="Marginal cost per batch is £14, £12, £10, £13, £17 and £22 for batches 1 to 6, against a marginal revenue line of £21. Batch 6 costs more than it earns, so profit falls from £15 after 5 batches to £14 after 6. The candle maker chooses 5 batches. Fixed cost is not part of marginal cost." loading="lazy">
+  <figcaption>Marginal cost against £21 marginal revenue: stop at batch 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--12-coffee-diminishing-mu.webp" width="900" height="880" alt="Marginal utility of cups 1 to 7 is 30, 22, 16, 10, 6, 0 and minus 4, which is diminishing marginal utility. Valuing one util at £0.10 (an assumption), marginal benefit is £3.00, £2.20, £1.60, £1.00, £0.60, £0 and minus £0.40. At a price of £1.20 the consumer buys 3 cups." loading="lazy">
+  <figcaption>Diminishing marginal utility: a £1.20 price means buying 3 cups.</figcaption>
+</figure>
+
 
 ## Building an evaluation paragraph
 

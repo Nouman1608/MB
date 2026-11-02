@@ -58,6 +58,17 @@ Grenholm Cycles makes 20,000 frames a year. Currently 6% are scrapped, and each 
 
 This counts materials only. Labor, energy and machine time spent on scrapped frames add further savings that the data does not show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--01-lean-scrap-saving.webp" width="900" height="850" alt="Two grids of 100 squares, each 200 frames. Scrap falls from 6 percent (1,200 frames, 50,400 dollars) to 2.5 percent (500 frames, 21,000 dollars), saving 29,400 dollars a year on materials." loading="lazy">
+  <figcaption>Cutting scrap from 6% to 2.5% saves $29,400 a year in materials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--05-lean-tqm-impact.webp" width="900" height="920" alt="Four rows pair gains with risks: costs and quality, employees, flexibility and risk, and time. A good answer links them to the case and reaches a judgement." loading="lazy">
+  <figcaption>AO3 answers weigh gains against risks and then judge.</figcaption>
+</figure>
+
+
 ## Continuous improvement (kaizen)
 
 Kaizen is a Japanese term for continuous improvement. The idea is that many small changes, suggested and made by the people who do the work, add up to large gains over time. It is a standing habit rather than a one-off project.
@@ -80,6 +91,12 @@ Grenholm Cycles has 40 employees. Each makes an average of 3 suggestions a year,
 3. Annual saving: 60 × 150 = **USD 9,000**.
 
 The saving is small beside the scrap example, but it recurs and it grows as ideas accumulate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-kaizen-suggestions.webp" width="900" height="959" alt="A grid of 120 circles: 40 staff make 3 ideas each, half (60) are adopted, and at 150 dollars each they save 9,000 dollars a year." loading="lazy">
+  <figcaption>Many small adopted ideas add up to a recurring saving.</figcaption>
+</figure>
+
 
 ## Just-in-time (JIT)
 
@@ -105,6 +122,12 @@ Rimmick Foods holds average inventory worth USD 240,000. Holding costs (storage,
 
 Extra delivery costs and the risk of a stock-out would reduce this net benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ## Cradle to cradle
 
 Cradle to cradle is an approach to design and manufacturing that removes the idea of waste. In the traditional linear model, a product is made, used and thrown away ("cradle to grave"). Cradle to cradle designs products so that, at the end of their life, their materials become inputs for something new.
@@ -117,6 +140,12 @@ Features:
 - The business thinks about the whole life of the product, including take-back or recycling schemes.
 
 Benefits include lower raw material demand, a strong environmental reputation and appeal to ethical customers. Challenges include higher design and research costs, the need for supply chain partners to cooperate, and the difficulty of recovering products from customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--01-cradle-to-cradle.webp" width="900" height="880" alt="Two flows. The linear cradle-to-grave flow goes make, use, bin. The cradle-to-cradle flow goes make, use, take back, reuse, and the reused materials feed back into make, so there is no bin." loading="lazy">
+  <figcaption>Cradle to cradle turns end-of-life products back into inputs.</figcaption>
+</figure>
+
 
 ## Quality control and quality assurance
 
@@ -133,11 +162,23 @@ Benefits include lower raw material demand, a strong environmental reputation an
 
 Most businesses use both: QA to reduce defects and QC as a safety check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+
 ## Three methods of managing quality
 
 ### Quality circle
 
 A quality circle is a small group of workers, often from the same work area, who meet regularly to identify, analyze and solve quality problems. A facilitator or supervisor may lead. Benefits: ideas from workers, better teamwork, improved motivation. Costs: paid time away from production and disappointment if suggestions are not acted on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--03-quality-circle.webp" width="900" height="890" alt="Six workers meet around a table with a leader. They identify, analyze and solve quality problems. Gains are ideas, teamwork and motivation; costs are paid time and disappointment if ideas are ignored." loading="lazy">
+  <figcaption>A quality circle is a small team that meets regularly to solve quality problems.</figcaption>
+</figure>
+
 
 ### Benchmarking
 
@@ -149,6 +190,12 @@ Worked example: Plenmore Components delivers 82% of orders on time. The best per
 
 TQM is a business-wide approach in which every employee is responsible for quality and the aim is to meet or exceed customer needs, with zero defects as the target. It combines customer focus, employee empowerment, continuous improvement, training and quality at every stage, including suppliers. It differs from QC because quality is not left to inspectors. It has strong links to kaizen and quality circles, which are often tools within a TQM culture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--03-tqm-payback.webp" width="900" height="740" alt="Cumulative net cash starts at minus 22,000 dollars (training). Rework savings of 11,250 dollars a year bring it to zero at about 23.5 months." loading="lazy">
+  <figcaption>Training costs of 22,000 dollars are recovered in about 23.5 months.</figcaption>
+</figure>
+
+
 ### Worked example: TQM
 
 Plenmore Components makes 50,000 units a year. Its defect rate is 4%, and each defect costs USD 9 to rework. TQM cuts the rate to 1.5%. Training costs USD 22,000.
@@ -159,6 +206,12 @@ Plenmore Components makes 50,000 units a year. Its defect rate is 4%, and each d
 4. Payback on training: 22,000 ÷ 11,250 = 1.96 years, about **23.5 months**.
 
 The saving ignores gains from fewer returns, better reputation and lower inspection costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-benchmarking-gap.webp" width="900" height="810" alt="Bars show Plenmore delivering 82 percent of orders on time against 96 percent for the best performer. The gap is 14 percentage points." loading="lazy">
+  <figcaption>Benchmarking measures the gap to the best performer, then studies how they do it.</figcaption>
+</figure>
+
 
 ## Impact of lean production and TQM on an organization
 
@@ -184,6 +237,12 @@ Why they matter:
 - International standards ease entry to foreign markets.
 
 Costs and limits: fees, audits, paperwork and staff time. A standard shows that a system exists, not that every product is perfect, so it supports rather than replaces QA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--04-quality-standards.webp" width="900" height="810" alt="A business documents its system, an outside body audits it and it is certified, for example to ISO 9001. Customers trust it, some buyers require it and foreign markets become easier. It shows a system exists, not that every product is perfect." loading="lazy">
+  <figcaption>Independent certification builds trust but does not guarantee every product.</figcaption>
+</figure>
+
 
 ## Common errors
 

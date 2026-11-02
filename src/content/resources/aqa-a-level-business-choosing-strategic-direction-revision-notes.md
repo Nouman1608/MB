@@ -67,6 +67,17 @@ Market share = business sales / market sales × 100. Extra contribution = extra 
 
 Worked reminder: Hollin Mills (a made-up firm) has sales of £3m in a £30m market, so share is 3 / 30 = 10%. A £120,000 campaign lifting share to 11% in a flat market adds £0.3m of sales. At a 40% margin that is £120,000, so the net gain is zero in year 1 and the move only pays off if the gain lasts longer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--01-ansoff-glenmarrick.webp" width="900" height="960" alt="A two by two grid of existing or new products against existing or new markets, using Glenmarrick Oat Bars: market penetration (share 10% to 12%), new product development (protein bar), market development (new export region) and diversification. Risk dots rise from penetration to diversification." loading="lazy">
+  <figcaption>The four Ansoff directions, with relative risk, for Glenmarrick Oat Bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--02-option-payback.webp" width="900" height="870" alt="Bars of payback time: penetration 0.9 years, market development 1.9 years, new product development 2.1 years, with each option cost and annual contribution." loading="lazy">
+  <figcaption>Penetration pays back fastest, but numbers alone do not decide.</figcaption>
+</figure>
+
+
 ## Porter's generic strategies
 
 | Strategy | Scope | Means | Risk |
@@ -78,6 +89,12 @@ Worked reminder: Hollin Mills (a made-up firm) has sales of £3m in a £30m mark
 Stuck in the middle: no cost advantage and no clear difference.
 
 Margin comparison reminder: profit margin = profit per unit / price × 100. A higher margin does not guarantee higher total profit; volume matters. For example a £26 profit on a £60 price is 43.3%, but 1,000 sales give £26,000 while a 20% margin on £30 sold 6,000 times gives £36,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--03-low-cost-vs-differentiation.webp" width="900" height="1070" alt="Paired bars for low cost and differentiation: profit per pair 9 and 18 pounds, pairs sold 100,000 and 40,000, total profit 900,000 and 720,000 pounds. Margins are 22.5% and 25.7% and the price premium is 75%." loading="lazy">
+  <figcaption>Differentiation earns more per pair, but low cost earns more in total here.</figcaption>
+</figure>
+
 
 ## Bowman's strategic clock (standard form)
 
@@ -94,6 +111,12 @@ Margin comparison reminder: profit margin = profit per unit / price × 100. A hi
 
 Compare with Porter: the clock allows hybrid strategies and shows that moving price or benefits changes the position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--04-bowman-clock.webp" width="900" height="1250" alt="Eight numbered positions on a ring around a price (horizontal) and perceived benefits (vertical) grid. Positions 1 to 3 are price-based, 3 to 5 benefit-based and 6 to 8 are warnings." loading="lazy">
+  <figcaption>Bowman’s eight positions on price and perceived benefits axes.</figcaption>
+</figure>
+
+
 ## Influences on, and value of, positioning
 
 - Influences: customers' price sensitivity, size of the market, the business's costs and resources, competitor positions, brand strength, technology, objectives.
@@ -106,6 +129,12 @@ Compare with Porter: the clock allows hybrid strategies and shows that moving pr
 
 - Benefits: higher share, margins or premium prices; loyalty; resilience; attracts investors and staff.
 - Difficulties of maintaining: imitation; technology change; shifting tastes; rising input costs; fading patents or brand appeal; the need for constant investment; dependence on a single supplier, product or person.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--10-competitive-advantage-routes.webp" width="900" height="880" alt="Illustrative unit price, cost and margin: rival 100/80/20, lower cost 100/70/30, valued difference 120/85/35." loading="lazy">
+  <figcaption>Lower cost or valued difference both raise margin, if rivals cannot copy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -81,6 +81,37 @@ cyclohexa-1,3-diene, the same logic applies: predict 2 × one C=C and compare.
 - Benzene's electron density is spread over six carbons, so it needs a **strong electrophile** (a
   positive ion) to react.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
+
 ## Electrophilic substitution (3.3.10.2)
 
 > **Method: outline any electrophilic substitution mechanism**
@@ -134,6 +165,17 @@ cyclohexa-1,3-diene, the same logic applies: predict 2 × one C=C and compare.
   pressure, recrystallise from the minimum volume of hot solvent, dry, then take the melting point.
 - Pure: sharp melting point close to the data value. Impure: lower and over a range.
 - These are the techniques of Required practical 10, listed under 3.3.9.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

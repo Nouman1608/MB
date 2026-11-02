@@ -48,6 +48,12 @@ These notes condense section 1.3 (Enterprise, business growth and size) of the C
 
 **Why governments support start-ups:** more businesses means more jobs, more output and more tax revenue, and it increases competition. **How:** grants (money that does not usually have to be repaid), training schemes, and other help such as advice or cheaper loans (the syllabus names grants and training schemes as examples).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
+  <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
+</figure>
+
+
 ## 1.3.2 Measuring business size
 
 | Method | Idea | Limitation |
@@ -65,6 +71,22 @@ Standard form of capital employed (not given as a formula in this section of the
 **Worked reminder.** Wendlow Sailmakers has 9 employees and an annual output worth 540,000. Hadleigh Automation has 6 employees and output worth 2,400,000. Output per employee (standard form: output divided by employees) is 60,000 and 400,000. By employees Wendlow is bigger; by output Hadleigh is far bigger. The measure chosen changes the answer.
 
 **Percentage growth** (standard form): change divided by original, times 100. If Wendlow's output rises from 540,000 to 621,000, growth is 81,000 divided by 540,000, times 100, which is 15%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-enterprise-business-growth-and-size-revision-notes--03-two-sizes-worked.webp" width="900" height="1070" alt="Wendlow has 9 employees and output 540,000 dollars; Hadleigh has 6 employees and output 2,400,000 dollars. Wendlow is bigger by employees, Hadleigh by output; output per employee is 60,000 against 400,000." loading="lazy">
+  <figcaption>The lesson’s own two firms: the measure chosen changes the answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-enterprise-business-growth-and-size-revision-notes--04-percentage-growth-15.webp" width="900" height="935" alt="Output rises from 540,000 to 621,000 dollars, an increase of 81,000. 81,000 divided by 540,000 times 100 is 15 percent." loading="lazy">
+  <figcaption>Percentage growth is change divided by the original, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
+  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
+</figure>
+
 
 ## 1.3.3 Growth and staying small
 
@@ -91,6 +113,22 @@ Standard form of capital employed (not given as a formula in this section of the
 
 **Why some businesses remain small:** demand is limited to a small or local niche, the owner prefers a manageable workload and full say over decisions, finance is hard to get, the owner has no wish to take on extra risk, or the owner values a personal service that would be lost in a larger firm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--06-problems-of-growth.webp" width="900" height="990" alt="A small firm has the owner talking directly to all staff; a larger firm needs managers in between. Growth strains cash flow, makes control and communication harder and distances the owner from staff and customers. These are managed by financial planning, clearer management structures and delegation." loading="lazy">
+  <figcaption>Growth strains cash, control and the owner's closeness to people; planning, structure and delegation help.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--05-grow-or-stay-small.webp" width="900" height="940" alt="Owners may grow a business for more profit, a bigger market share and a better chance of surviving competition. Others stay small to keep personal control, because the market is small or niche, or because the extra risk and complexity are not worth it." loading="lazy">
+  <figcaption>Owners choose to grow for profit, share and survival, or stay small for control, a niche market or less risk.</figcaption>
+</figure>
+
+
 ## 1.3.4 Business failure
 
 **Causes** (examples from the syllabus in bold):
@@ -103,6 +141,22 @@ Standard form of capital employed (not given as a formula in this section of the
 **Why new businesses are at greater risk:** little cash reserve, no established customers, no track record so lenders may refuse credit, owners still learning, and no knowledge yet of what works.
 
 **Worked reminder (liquidity).** Opening cash 4,000. Receipts 18,000, payments 21,500. Net cash flow is minus 3,500, so closing cash is 500. One more month like that and the business cannot pay its bills, even if sales look healthy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-enterprise-business-growth-and-size-revision-notes--05-cash-low-month.webp" width="900" height="940" alt="Opening cash 4,000 dollars, receipts 18,000 and payments 21,500 leave closing cash 500. Net cash flow is minus 3,500, so one more month like it and the bills cannot be paid." loading="lazy">
+  <figcaption>The lesson’s liquidity worked reminder as a cash waterfall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--08-new-business-risk.webp" width="900" height="1000" alt="Example with invented numbers. A new business with $20m capital and an established one with $100m both lose $30m early. The new firm is $10m short and fails; the established one keeps $70m. New firms have less capital, market knowledge, customers and experience." loading="lazy">
+  <figcaption>The same early loss can finish a new business but not an established one.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

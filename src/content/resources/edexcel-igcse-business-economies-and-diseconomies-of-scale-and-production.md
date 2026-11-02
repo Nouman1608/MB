@@ -66,6 +66,22 @@ Method: divide total cost by output each time. At 2,000 candles, 16,000 ÷ 2,000
 
 A specialist wax supplier opens a depot next door. Haldane's delivery cost falls by 0.15 per candle. At 8,000 candles that saves 8,000 × 0.15 = 1,200, so total cost becomes 28,000 − 1,200 = 26,800 and average total cost becomes 26,800 ÷ 8,000 = 3.35, down from 3.50. Haldane did nothing itself, so this is external. Compare a new, faster moulding machine that Haldane buys: that would be internal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--01-haldane-average-cost.webp" width="900" height="900" alt="Stacked columns show average total cost per candle at 2,000, 4,000, 8,000, 12,000 and 16,000 candles: 8.00, 5.00, 3.50, 3.40 and 3.80. The fixed part falls from 6.00 to 0.75 as the 12,000 fixed cost is spread. Cost is lowest at 12,000 candles, then rises by 0.40, which is a diseconomy of scale." loading="lazy">
+  <figcaption>Haldane Candles: average cost falls to 3.40 at 12,000 candles, then rises to 3.80.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--02-external-economy.webp" width="900" height="850" alt="A wax supplier opens next door to Haldane Candles and delivery cost falls by 0.15 a candle. At 8,000 candles this saves 1,200, so total cost falls from 28,000 to 26,800 and average total cost from 3.50 to 3.35. Haldane did nothing itself, so the economy is external." loading="lazy">
+  <figcaption>An outside change cuts Haldane average cost from 3.50 to 3.35.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--03-economies-internal-external.webp" width="900" height="1012" alt="Six tiles show internal economies: purchasing, technical, financial, marketing, managerial and risk-bearing. Five firms in one area share skilled labour, suppliers and a freight terminal, which are external economies. The test is whether the saving would vanish if one firm or the whole area shrank." loading="lazy">
+  <figcaption>Internal economies come from the firm growing; external ones from the whole area growing.</figcaption>
+</figure>
+
+
 ## 2. Diseconomies of scale and limits of growth (5.1.2)
 
 Diseconomies of scale are the opposite: average total cost rises as output rises. In the Haldane table, average cost goes from 3.40 at 12,000 candles to 3.80 at 16,000. The rise of 0.40 is the sign. Diseconomies set a limit to profitable growth, which is why the specification links them to the limits of growth.
@@ -80,6 +96,12 @@ Reasons a large business can find that unit costs start to rise:
 Growth is also limited by things outside costs, such as the size of the market, finance available and the owner's wish to stay in control. Say clearly which limit applies in the case you are given.
 
 Common slip: calling any cost increase a diseconomy. If a cost rises because the price of materials rises, that is not a diseconomy of scale. It is a diseconomy only when average total cost rises because output (the scale) has risen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--02-four-diseconomies.webp" width="900" height="916" alt="Four panels: poor communication, lack of commitment or loyalty, weak coordination and lack of control, each with what goes wrong. All raise average cost." loading="lazy">
+  <figcaption>The four diseconomies of scale, each shown as a picture.</figcaption>
+</figure>
+
 
 ## 3. Types of production process (5.2.1)
 
@@ -101,6 +123,12 @@ Judge each type against the same questions: unit cost, flexibility, quality, spe
 
 The best choice depends on demand. A business that sells very few units of many different products would struggle to justify flow production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+
 ## 4. Labour and capital intensive production (5.2.1)
 
 - **Labour intensive** production uses a high proportion of workers compared with machinery, so labour is the largest part of total costs. A hand-finished leather workshop is an example.
@@ -109,6 +137,12 @@ The best choice depends on demand. A business that sells very few units of many 
 The specification gives no formula for capital or labour intensity, so a simple test, in standard form rather than the board's own wording, is the share of labour cost in total cost: labour cost ÷ total cost × 100. Using invented figures, Firm A has labour costs of 60,000 out of total costs of 80,000: 60,000 ÷ 80,000 × 100 = 75%, so it is labour intensive. Firm B has labour costs of 18,000 out of 90,000: 18,000 ÷ 90,000 × 100 = 20%, so it is more capital intensive. The specification gives no cut-off percentage, so compare the two sides rather than quoting a fixed rule.
 
 Impact: labour intensive firms are flexible and can offer personal service, but wages rise over time and output per worker is limited. Capital intensive firms can produce large volumes at low unit cost, but they need finance up front and have high fixed costs, so they are exposed if demand falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--03-labour-share.webp" width="900" height="780" alt="Two bars show labour cost as a share of total cost. Firm A spends 60,000 of 80,000 on labour, 75%, so it is labour intensive. Firm B spends 18,000 of 90,000, 20%, so it is more capital intensive. There is no fixed cut-off, so the two are compared." loading="lazy">
+  <figcaption>Labour is 75% of Firm A costs and 20% of Firm B costs.</figcaption>
+</figure>
+
 
 ## 5. Productivity (5.2.1)
 
@@ -129,6 +163,12 @@ Marden Textiles has 30 workers and makes 2,700 garments a week.
 
 Improving productivity therefore cuts unit costs, which can raise profit or allow lower prices, and gives more output without more staff. If it came from pushing workers harder, it may reduce morale and quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--04-marden-productivity.webp" width="900" height="810" alt="Thirty workers make 2,700 garments a week, 90 per worker. After training and new sewing machines they make 3,060, 102 per worker, a rise of 13.3%. Wages stay at 13,500 a week, so labour cost per garment falls from 5.00 to 4.41." loading="lazy">
+  <figcaption>Productivity rises from 90 to 102 garments per worker, and labour cost per garment falls to 4.41.</figcaption>
+</figure>
+
+
 ## 6. Lean production (5.2.2)
 
 Lean production aims to produce what customers want with as little waste of time, materials and money as possible.
@@ -136,6 +176,17 @@ Lean production aims to produce what customers want with as little waste of time
 - **Just-in-time (JIT)**: materials arrive from suppliers only when they are needed in production, and finished goods go out quickly. Benefits: little money tied up in stock, lower storage costs, less waste from damaged or out-of-date stock. Risks: one late delivery can stop production, there is little spare stock if demand jumps, and it needs reliable suppliers and good planning.
 - **Kaizen**: continuous improvement. Everyone, including shop-floor workers, makes many small, regular suggestions to improve how work is done. Benefits: lower waste, better quality, involved and motivated workers. Risks: gains from each change are small, and it needs time for meetings and training and a management team that listens.
 - **The importance of using resources effectively**: resources are limited and cost money, so wasting materials, time, energy or space raises unit costs. Using them well lets a business keep prices low, protect profit and be more environmentally friendly, which supports its competitive position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--10-kaizen-small-steps.webp" width="900" height="980" alt="Three worker suggestions feed a staircase of six small steps over time: no single change is large but costs fall and quality rises." loading="lazy">
+  <figcaption>Kaizen is many small improvements.</figcaption>
+</figure>
+
 
 ## 7. Technology and robotics (5.2.3)
 
@@ -151,6 +202,12 @@ Balance four things:
 | Flexibility | Reprogramming can switch tasks | Less flexible than people for custom work |
 
 Worked example: Teller Components has 8 workers making 400 units a day, so productivity is 400 ÷ 8 = 50 units per worker. Daily wages are 8 × 60 = 480, which is 480 ÷ 400 = 1.20 per unit. With robots, 3 workers make 600 units and the robots cost 300 a day to run. Productivity is 600 ÷ 3 = 200 per worker. Daily cost is 3 × 60 + 300 = 480, which is 480 ÷ 600 = 0.80 per unit. This ignores the purchase price, so a full judgement must include it, along with quality and flexibility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--05-teller-robots.webp" width="900" height="760" alt="Without robots 8 workers make 400 units a day, 50 per worker, at 1.20 per unit. With robots 3 workers make 600 units, 200 per worker, at 0.80 per unit, for the same daily cost of 480. The robots purchase price is not counted, so quality and flexibility must also be weighed." loading="lazy">
+  <figcaption>Teller: robots lift output per worker from 50 to 200 and cut cost per unit from 1.20 to 0.80, before purchase price.</figcaption>
+</figure>
+
 
 ## Common errors
 

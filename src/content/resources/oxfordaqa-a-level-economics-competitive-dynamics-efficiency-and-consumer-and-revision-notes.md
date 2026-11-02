@@ -44,6 +44,12 @@ Course pages: the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/ec
 
 **Worked reminder (invented).** An incumbent sells 20,000 units at 25 with unit cost 15. A new entrant with unit cost 12 enters. The price falls to 20, the incumbent sells 12,000 and the entrant 14,000. Incumbent profit falls from 10 x 20,000 = 200,000 to 5 x 12,000 = 60,000, a fall of 70%. The entrant makes 8 x 14,000 = 112,000. Price falls 20% and market output rises 30%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--04-creative-destruction.webp" width="900" height="1130" alt="Entry by Firm Q cuts price from 50 to 38, cuts Firm P profit from 160,000 to 40,000, gives Q 80,000 and raises consumer surplus from 192,000 to 300,000." loading="lazy">
+  <figcaption>A rival's entry destroys P's profit but lowers price and raises consumer surplus.</figcaption>
+</figure>
+
+
 ## 3.3.3.9 Efficiency
 
 | Concept | Definition | Test |
@@ -83,6 +89,37 @@ Use them to compare market structures. High concentration alongside a wide price
 - Productive efficiency is about cost (minimum ATC). Allocative efficiency is about price against marginal cost.
 - Static efficiency can conflict with dynamic efficiency: a monopoly may have a deadweight loss now but fund innovation that lowers costs later.
 - X-inefficiency is a cost curve that sits too high. Productive inefficiency is being at the wrong point on the curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--02-productive-efficiency-x-inefficiency.webp" width="900" height="920" alt="With TC = 360 + 6Q + 0.1Q squared, MC cuts ATC at its lowest point, Q = 60 where both equal 18, which is productive efficiency. Actual cost of 22.50 is 4.50 (25 percent) above the minimum, so slack wastes 270." loading="lazy">
+  <figcaption>Productive efficiency is minimum ATC where MC = ATC; X-inefficiency is the gap above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--07-dynamic-efficiency-cost-path.webp" width="900" height="790" alt="Unit cost of 18.00 falls 4% a year to 17.28, 16.59 and 15.93 over three years, an 11.5% fall. A rival with no investment stays at 18.00." loading="lazy">
+  <figcaption>R&amp;D spending that cuts unit cost 4% a year opens a growing gap over a non-investing rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--08-innovation-surplus-case.webp" width="900" height="890" alt="With MC cut to 6 + 2Q a monopoly sets Q 9, P 42, giving CS 81, PS 243 and total 324, above the old competitive 288. Competition on the new costs would reach 364.5 (182.25 each), so the deadweight loss is 40.5." loading="lazy">
+  <figcaption>A lower-cost monopoly can beat old competition on surplus but not new competition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--09-conduct-performance-indicators.webp" width="900" height="1010" alt="Market X (CR4 85%): price 42, MC 30, gap 12 = 28.6% of price, R&amp;D 1.5% of sales. Market Y (CR4 30%): price 30, MC 26, gap 4 = 13.3%, R&amp;D 4.5%. X looks weaker, but a few numbers prove little." loading="lazy">
+  <figcaption>Two markets compared on price-cost margin and R&amp;D share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## 3.3.3.10 Consumer and producer surplus
 
@@ -135,6 +172,32 @@ Tariff identity: loss of CS = gain in PS + tariff revenue + DWL.
 - Does the threat of entry (contestability) discipline the firm even without actual rivals?
 - Does MC include external costs? If not, surplus overstates welfare.
 - Is the surplus measurable? Willingness to pay depends on income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--01-surplus-competition-v-monopoly.webp" width="900" height="1130" alt="Demand P = 60 - 2Q and MC = 12 + 2Q are drawn twice. Under competition (Q 12, P 36) CS and PS are 144 each. Under monopoly (Q 8, P 44) CS is 64, PS 192 and the deadweight loss triangle is 32, so the total is still 288 and consumers lose 80 while the firm gains 48." loading="lazy">
+  <figcaption>The lesson's own competition and monopoly numbers, with every surplus area shaded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--03-tariff-surplus.webp" width="900" height="990" alt="At the world price of 18 imports are 15. A tariff of 6 lifts the price to 24, cuts imports to 9, moves 45 to producers and 54 to government, and loses 18 as deadweight loss, which together equal the 117 consumers lose." loading="lazy">
+  <figcaption>A 6 tariff splits the consumers' loss into producer gain, government revenue and deadweight loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--05-perfect-price-discrimination.webp" width="900" height="1170" alt="With D: P = 60 - 2Q and MC: P = 12 + 2Q, perfect discrimination gives output 12, CS 0, PS 288 and no deadweight loss. Bars compare the 288 total split under one monopoly price (64, 192, 32), perfect discrimination (288) and competition (144, 144)." loading="lazy">
+  <figcaption>Perfect discrimination is allocatively efficient but the firm takes the whole surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--06-third-degree-discrimination.webp" width="900" height="1300" alt="Group A (P = 50 - 2Q) buys 10 at 30 and group B (P = 30 - 2Q) buys 5 at 20, with MC 10. Profit 250, CS 125, total 375. One price of 25 gives Q 15, profit 225, CS 162.5, total 387.5: discrimination raises profit by 25 and cuts consumer and total surplus." loading="lazy">
+  <figcaption>Two prices raise profit by 25 but cut consumer surplus by 37.5 and total surplus by 12.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
+  <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

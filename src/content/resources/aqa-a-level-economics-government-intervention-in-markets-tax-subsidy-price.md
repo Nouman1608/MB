@@ -81,6 +81,27 @@ Price
 - Taxes on necessities are regressive: they take a larger share of low incomes.
 - High taxes can encourage avoidance or black markets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--01-juice-tax-incidence.webp" width="900" height="1010" alt="Demand and supply for juice with a tax of 3 per unit. Price rises 8 to 10 and quantity falls 240 to 200. Buyers bear 400 and sellers 200 of the 600 revenue; the lost surplus is 60." loading="lazy">
+  <figcaption>Worked example 1: buyers bear 400 and sellers 200 of a 600 tax, with a 60 welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--02-specific-vs-ad-valorem.webp" width="900" height="1080" alt="Two supply diagrams. A specific tax of 2 gives a parallel shift; a 25 percent tax gives a gap of 1 at quantity 80 and 2.5 at quantity 320, so the curve is steeper." loading="lazy">
+  <figcaption>A specific tax shifts supply in parallel; an ad valorem tax makes the new curve steeper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ## Subsidies
 
 A **subsidy** is a payment per unit that lowers costs and shifts supply down. It is used for goods with positive externalities or merit goods, where output is too low.
@@ -95,6 +116,17 @@ A **subsidy** is a payment per unit that lowers costs and shifts supply down. It
 6. If each class gives an external benefit of 3 cu, the social benefit curve is demand plus 3: 23 − 0.04Q. Setting this equal to supply, 2 + 0.02Q, gives Q = 350. The subsidy hits the social optimum, and the gain over 300 to 350 is ½ × 3 × 50 = 75 cu.
 
 **Evaluation.** A subsidy helps both sides and raises output, but it has an opportunity cost: the 1,050 cu could fund other things, and must come from taxes or borrowing. Providers may keep some as profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--02-subsidy-evening-classes.webp" width="900" height="1130" alt="Supply shifts down by 3. Equilibrium moves from 300 to 350 classes; learners pay 6 and providers receive 9. The subsidy costs 3 x 350 = 1,050, and with an external benefit of 3 the gain over 300 to 350 is 75." loading="lazy">
+  <figcaption>Worked example 2: a subsidy of 3 costs 1,050 and gains 75 of social benefit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Price controls
 
@@ -115,6 +147,22 @@ The aim is affordability for those who get a flat. The costs are a shortage, low
 - PED at the original equilibrium is 10 × 16 ÷ 260 = 0.62 in size, so demand is inelastic and spending rises from 4,160 to 4,400 cu.
 - The extra revenue goes to sellers, not the government. Low-income buyers may pay the most as a share of income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--03-maximum-rent.webp" width="900" height="920" alt="Rent controlled at 9 against equilibrium 12. Demand is 420 flats and supply 240, a shortage of 180. Tenants would pay 18 for the 240th flat and the lost surplus is 540." loading="lazy">
+  <figcaption>Worked example 3: a rent ceiling of 9 creates a shortage of 180 flats and a 540 welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--01-min-price-sugary-drink.webp" width="900" height="1160" alt="Demand and supply for a sugary drink cross at price 16 and quantity 260. A minimum price of 20 leaves 220 demanded and 340 supplied, a surplus of 120. Spending rises from 4,160 to 4,400 because demand is inelastic." loading="lazy">
+  <figcaption>Worked example 4: a minimum price of 20 creates a surplus of 120 and raises spending from 4,160 to 4,400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+
 
 ## State provision and regulation
 
@@ -128,6 +176,12 @@ The aim is affordability for those who get a flat. The costs are a shortage, low
 Net benefit ties. B earns more per unit spent, so it is better if the budget is tight. Valuing benefits in money is itself uncertain. Provision that is free at the point of use can lead to overuse, and quality may suffer without competition. It also needs tax revenue.
 
 **Regulation** sets rules by law. Examples are emission limits, age limits, safety standards and advertising bans. It is clear and works when harm is severe, because a ban or standard does not depend on price. But it treats all firms alike, so the total cost of a given result is often higher than with market-based tools. Monitoring costs money, and firms may lobby for weak rules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--03-programmes-benefit-cost.webp" width="900" height="900" alt="Programme A costs 12m for benefits of 15m; B costs 8m for 11m. Net benefit is 3m for both, but the benefit-cost ratio is 1.25 for A and 1.375 for B." loading="lazy">
+  <figcaption>Worked example 5: net benefit ties at 3m, but B returns more per 1m spent.</figcaption>
+</figure>
+
 
 ## Extending property rights and pollution permits
 
@@ -150,6 +204,17 @@ The same catch is taken with half the boats, because the owner counts the cost o
 - Saving: 1,410 − 900 = 510, and the cap is still met.
 
 Evaluation: the cap guarantees the quantity of pollution but not the price. The starting allocation decides who gains. Permits need monitoring, and a cap set too loose does nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--04-pollution-permits.webp" width="900" height="1140" alt="Three factories with a cap of 210. Without trading total cutting cost is 1,410; with trading X cuts 60 and Y cuts 30 for 900, and Z buys 30 permits at 14. The saving is 510." loading="lazy">
+  <figcaption>Worked example 7: tradable permits meet the same cap for 510 less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--05-lake-property-rights.webp" width="900" height="930" alt="Average catch is 30 minus n, marginal catch 30 minus 2n, cost 10. Open access gives 20 boats and net gain 0; one owner uses 10 boats for the same catch of 200 and net gain 100." loading="lazy">
+  <figcaption>Worked example 6: an owner takes the same catch with half the boats.</figcaption>
+</figure>
+
 
 ## Choosing between methods
 

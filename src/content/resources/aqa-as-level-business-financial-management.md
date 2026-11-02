@@ -66,6 +66,17 @@ Objectives give managers targets and let owners judge success.
 
 **Influences on objectives.** Internal: owners' attitude to risk, the size of the business, available cash, and what other functions need (a marketing campaign costs money). External: interest rates, competitors' prices, the economic climate, lenders' conditions and ethical expectations from customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--07-roi-debt-share.webp" width="900" height="1030" alt="A 100-square grid shows £13,500 profit on £90,000 spent as 15 filled squares (ROI 15%). A bar splits £700,000 of long-term funding into loans £210,000 (30%) and equity £490,000 (70%)." loading="lazy">
+  <figcaption>ROI is profit gained as a percentage of the amount invested, and debt share is debt over total long-term funding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--06-objective-types.webp" width="900" height="881" alt="Six tiles with small pictures: revenue, cost, profit, cash flow, capital expenditure and capital structure, each with the lesson example." loading="lazy">
+  <figcaption>Each objective type gives managers a measurable target.</figcaption>
+</figure>
+
+
 ## 2. Budgets and cash flow forecasts
 
 A **budget** is a financial plan for income and spending over a period. Its value lies in setting targets, controlling spending, giving managers clear responsibility, coordinating departments and spotting problems early. Weaknesses: forecasts can be wrong and rigid budgets discourage change.
@@ -97,6 +108,17 @@ A **cash flow forecast** lists expected cash inflows and outflows month by month
 
 The owner needs short-term funding for January and February (about £1,500 at the peak). 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## 3. Break-even analysis
 
 Break-even is the output where total revenue equals total costs. Total costs are fixed costs plus variable costs. The formulas below are the standard forms.
@@ -125,6 +147,22 @@ Break-even is the output where total revenue equals total costs. Total costs are
 
 **Value of break-even.** It is quick and helps judge risk and pricing. It assumes all output is sold at a constant price, that costs move in straight lines, and ignores demand changing when price changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--08-break-even-vc-rise.webp" width="900" height="944" alt="Break-even chart for Dunsgate posters: revenue crosses cost at 3,000 posters; with variable cost £12 the steeper cost line crosses at 3,461.5, rounded up to 3,462 (loss £7 at 3,461, profit £6 at 3,462)." loading="lazy">
+  <figcaption>A variable cost rise lowers contribution and raises break-even, which is rounded up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ## 4. Analysing profitability
 
 Profit in pounds says little until it is set against revenue. The ratios that specification names are below; the margin formulas are the standard form, presented in the writer's own way.
@@ -144,6 +182,12 @@ Profit in pounds says little until it is set against revenue. The ratios that sp
 | Profit for the year | 36,800 | 5.8% |
 
 The drop from 35.0% to 9.4% shows operating expenses absorb most of the gross profit; finance costs and tax matter less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## 5. Timing of cash flows: payables and receivables
 
@@ -170,6 +214,17 @@ Ways to shorten the gap: longer payables terms, prompt-payment discounts, chasin
 
 Match source to need: a short-term gap suits an overdraft or factoring; a long-term asset suits a loan or share capital.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--08-factoring-example.webp" width="900" height="1020" alt="A bar of £60,000 unpaid invoices shows an 80% advance of £48,000 arriving at once and £12,000 later, less a £1,200 fee. A second bar shows the total received, £58,800. Rates are marked as invented." loading="lazy">
+  <figcaption>Factoring brings cash early at the cost of a fee.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--09-sources-by-time.webp" width="900" height="784" alt="Grid of six sources by internal or external and short, medium to long or long term, matching the lesson table." loading="lazy">
+  <figcaption>Match the source to the time need.</figcaption>
+</figure>
+
+
 ## 7. Improving cash flow and profit
 
 **Cash flow methods:** chase receivables, offer prompt-payment discounts, use factoring, negotiate longer payables terms, run down surplus stock, delay capital purchases, arrange an overdraft, sell unused assets.
@@ -178,11 +233,23 @@ Match source to need: a short-term gap suits an overdraft or factoring; a long-t
 
 **Difficulties:** discounts reduce income; tougher credit terms may lose customers; price rises may cut demand; cost cuts may harm quality or staff morale; suppliers may not accept longer terms. For a recommendation, name the method, show its effect with a figure, then weigh the risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--07-methods-and-risks.webp" width="900" height="866" alt="Five methods for improving cash flow or profit, each with an arrow to its difficulty as the lesson states it." loading="lazy">
+  <figcaption>Name the method, show its effect, weigh the risk.</figcaption>
+</figure>
+
+
 ## 8. Data, technology and links to other functions
 
 **Use of data.** Managers use sales figures, cost data, forecasts and ratios to set objectives, price, invest and choose finance. Say how reliable the data is.
 
 **Wider influences.** Technology: crowd funding lets a business raise small sums from many people online, and software speeds up forecasting. Market conditions and competition: a price war squeezes margins. Ethical and environmental influences: paying suppliers fairly or choosing greener materials may lift costs. Finance improves competitiveness when it funds better products or lower unit costs. Finance also connects to other functions: marketing needs a budget, operations needs capital equipment and people management needs wage funds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--10-finance-links.webp" width="900" height="746" alt="Technology, market and ethics feed into financial decisions, which use data and support marketing, operations and people management." loading="lazy">
+  <figcaption>Finance is shaped by outside pressures and supports other functions.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -62,6 +62,12 @@ HCF of 36 and 84 is 12
 
 Cancelling in stages works too: 36/84 = 18/42 = 9/21 = 3/7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--04-simplify-hcf.webp" width="900" height="870" alt="An 84-cell grid in 7 rows of 12 with 3 rows (36 cells) shaded. The HCF of 36 and 84 is 12, so 36/84 = 3/7." loading="lazy">
+  <figcaption>Dividing top and bottom by the HCF gives lowest terms.</figcaption>
+</figure>
+
+
 ## Mixed numbers and vulgar fractions (1.2B)
 
 A **vulgar fraction** is a fraction written as one whole number over another, such as 3/8 or 35/8. When the numerator is larger than the denominator it is also called an improper fraction. A **mixed number** has a whole-number part and a fraction part, such as 4 3/8.
@@ -72,6 +78,12 @@ A **vulgar fraction** is a fraction written as one whole number over another, su
 Mixed to improper:  4 3/8 = (4 × 8 + 3)/8 = 35/8
 Improper to mixed:  47 ÷ 6 = 7 remainder 5,  so 47/6 = 7 5/6
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--11-mixed-improper-cells.webp" width="900" height="748" alt="A grid of eighths: 4 full rows and 3 cells make 35 eighths, so 4 3/8 = 35/8. A grid of sixths: 47 cells make 7 full rows and 5 left over, so 47/6 = 7 5/6." loading="lazy">
+  <figcaption>Count equal parts to convert between mixed and improper forms.</figcaption>
+</figure>
+
 
 ## Common denominators and ordering (1.2C, 1.2D)
 
@@ -88,6 +100,12 @@ Order: 7/12, 3/5, 5/8, 2/3
 ```
 
 Always give the answer in the **original** form the question used, not as the converted fractions 70/120, 72/120 and so on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--05-order-over-120.webp" width="900" height="870" alt="5/8, 7/12, 2/3 and 3/5 are written over 120 as 75, 70, 80 and 72 and placed on a number line. Smallest first: 7/12, 3/5, 5/8, 2/3." loading="lazy">
+  <figcaption>Over a common denominator the numerators show the order.</figcaption>
+</figure>
+
 
 ## A fraction of a quantity and one number as a fraction of another (1.2D, 1.2E)
 
@@ -110,6 +128,17 @@ To express one number as a fraction of another, write "part over whole", make th
 ```
 
 Writing 40/2.5 mixes minutes with hours and gives a meaningless answer. Convert first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--12-fraction-of-quantity-bar.webp" width="900" height="544" alt="A bar of 156 kg in 12 parts of 13 kg; 7 shaded parts give 91 kg." loading="lazy">
+  <figcaption>Divide by the denominator, then multiply by the numerator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--13-minutes-as-fraction-of-hours.webp" width="900" height="665" alt="A bar of 150 minutes (2½ hours) in 15 blocks of 10 minutes with 4 shaded: 40/150 = 4/15. Dividing 40 by 2.5 would mix units." loading="lazy">
+  <figcaption>Convert to the same units, then write part over whole.</figcaption>
+</figure>
+
 
 ## Adding and subtracting fractions and mixed numbers (1.2F)
 
@@ -134,6 +163,17 @@ Common denominator 12:  21/4 = 63/12,  17/6 = 34/12
 ```
 
 Check with an estimate: about 5.25 − 2.83 ≈ 2.4, and 2 5/12 ≈ 2.42.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--06-add-twelfths.webp" width="900" height="890" alt="Bars of 12 parts show 3/4 = 9/12 and 5/6 = 10/12. Joined, they make 19/12, which is one whole bar and 7/12." loading="lazy">
+  <figcaption>Same-size parts can be added; the denominator stays the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--14-subtract-mixed-number-line.webp" width="900" height="670" alt="A number line with twelfths: 2 5/6 = 34/12 and 5 1/4 = 63/12, a gap of 29 twelfths = 2 5/12; the estimate is about 2.4." loading="lazy">
+  <figcaption>The difference is the gap between the two numbers, counted in twelfths.</figcaption>
+</figure>
+
 
 ## Unit fractions as multiplicative inverses (1.2H)
 
@@ -171,6 +211,12 @@ cancel 3 and 9 by 3, and 10 and 16 by 2:  5/1 × 3/8
 
 Never multiply the whole numbers and fraction parts separately: 2 1/4 × 1 3/5 is **not** 2 × 1 plus 1/4 × 3/5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--05-ribbon-division.webp" width="900" height="830" alt="A ribbon 7 1/2 m long is drawn to scale on a ruler and cut into 12 numbered pieces of 5/8 m. The working 7 1/2 / 5/8 = 15/2 x 8/5 = 12 matches the count." loading="lazy">
+  <figcaption>Dividing by 5/8 counts how many 5/8 m pieces fit, and the answer is 12.</figcaption>
+</figure>
+
+
 ## Fractions to decimals and percentages (1.2G)
 
 Divide the numerator by the denominator to get a decimal. Multiply the decimal by 100 to get a percentage.
@@ -181,6 +227,17 @@ Divide the numerator by the denominator to get a decimal. Multiply the decimal b
 ```
 
 Some fractions give a **terminating** decimal (it stops, like 0.875). Others give a **recurring** decimal, where a digit or block of digits repeats forever. A dot over the repeating digit shows this: 0.454545... is written 0.4̇5̇, with dots over the first and last digits of the repeating block. If a question asks for a percentage to a given accuracy, round only at the end: 5/11 = 45.5% to 3 significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--15-decimal-to-fraction-percent.webp" width="900" height="720" alt="A 10 by 10 grid with 84 squares shaded shows 0.84 = 84/100 = 21/25 = 84%. Two whole bars and one eighth of a third show 2.125 = 2125/1000 = 17/8 = 2 1/8 = 212.5%." loading="lazy">
+  <figcaption>Write the digits over the place value, simplify, and multiply by 100 for a percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
 
 ## Decimal notation, place value and ordering (1.3A–C)
 
@@ -196,6 +253,12 @@ Order: 0.054, 0.405, 0.45, 0.5
 ```
 
 A longer decimal is not automatically larger. 0.405 has more digits than 0.45 but is smaller.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
 
 ## Terminating decimals to fractions and percentages (1.3D, 1.3E)
 
@@ -242,6 +305,12 @@ x     = 213/990 = 71/330
 ```
 
 The key decision is which powers of 10 to use. Their indices differ by the length of the repeating block: here 10x and 1000x are 10¹ and 10³, two apart, for the two-digit block 15. When a question says "prove" or "show that", these lines of algebra are the evidence. A calculator conversion on its own does not prove anything.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--07-recurring-mixed.webp" width="900" height="950" alt="Digit tiles for x = 0.2151515…, 10x = 2.151515… and 1000x = 215.151515… show identical recurring tails. Subtracting gives 990x = 213, so x = 213/990 = 71/330." loading="lazy">
+  <figcaption>Choose the two multiples of x whose recurring tails line up.</figcaption>
+</figure>
+
 
 ## Common errors
 

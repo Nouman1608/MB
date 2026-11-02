@@ -121,6 +121,12 @@ R• + X₂ → RX + X•         one radical in, one out
 R• + X• → RX              two radicals in, none out
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ### Where you use this notation next
 
 | Section | Mechanism | Notation |
@@ -139,6 +145,12 @@ R• + X• → RX              two radicals in, none out
 
 One arrow = one **pair** of electrons. "Outline a mechanism" means draw each species' structure with its
 lone pairs and charges, plus every arrow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 3.3.1.3 Isomerism
 
@@ -233,6 +245,12 @@ because the decision is made one bond earlier.
 - Starting a curly arrow on a negative charge or a nucleus instead of a lone pair or bond.
 - Ranking CIP groups by counting atoms instead of comparing the highest atomic number first.
 - Swapping E and Z: Z means the higher priorities are on the same side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -66,6 +66,17 @@ A trade off means gaining one thing costs you another. Ethical choices often cos
 
 Judgement: if loyal customers value fair treatment of workers, the price rise is likely to lose fewer than 15% of sales, so Fosdyke can behave ethically and protect most of its profit. If its buyers choose mainly on price, the risk is higher. Notice that the answer uses the figures, names the stakeholders (customers, the supplier's workers) and ends with a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses--03-fair-price-cost.webp" width="900" height="900" alt="Contribution falls from 120,000 to 102,000 pounds, a drop of 18,000 or 15 percent, if the supplier charges 6.90 pounds. Raising the price to 12.90 restores a 6.00 pound margin, so sales can fall from 20,000 to 17,000 (15 percent) before profit is worse." loading="lazy">
+  <figcaption>An ethical supplier price cuts contribution by 15%; a price rise can win it back unless sales fall by more than 15%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+
 ## Environmental considerations
 
 The specification lists five areas. For each, think about what the business does, what it costs and what it gains.
@@ -87,6 +98,22 @@ The specification lists five areas. For each, think about what the business does
 3. Benefits beyond cash: a better image with customers who care about the environment. Costs beyond cash: staff time to sort materials.
 
 Here the environmental choice also saves money, so there is no real trade off. Not every case is like this. A new, larger site may bring in more customers but more traffic, noise and air pollution for neighbours. Always ask whether the benefits and costs fall on the same people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses--04-recycling-payback.webp" width="900" height="940" alt="Disposal savings of 8,000 pounds plus 2,500 from cardboard, minus 3,000 running cost, give a yearly gain of 7,500 pounds. The 9,000 pound set-up cost is recovered in 1.2 years, or 14.4 months." loading="lazy">
+  <figcaption>Here the environmental choice also saves money: set-up cost is recovered in 14.4 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses--07-environment-cost-benefit.webp" width="900" height="930" alt="Five environmental areas are shown with a cost and a benefit each, as in the lesson's table. The responsible-action column of the lesson table is not drawn." loading="lazy">
+  <figcaption>Each environmental action has a cost and a benefit to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
 
 ## Sustainability
 
@@ -113,6 +140,17 @@ The interest rate is the cost of borrowing and the reward for saving. You do not
 4. Profit after interest: £30,000 − £4,800 − £1,500 = £23,700 before; £30,000 − £7,200 − £1,950 = £20,850 after.
 5. Customers buying bikes on credit also face higher costs, so Lanterne may sell fewer bikes at the same time as its own costs rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses--04-lanterne-interest-bill.webp" width="900" height="976" alt="Loan interest rises from £4,800 to £7,200 and overdraft interest from £1,500 to £1,950. Extra interest of £2,850 cuts profit after interest from £23,700 to £20,850." loading="lazy">
+  <figcaption>Higher loan and overdraft rates take £2,850 a year from Lanterne's profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+
 ## Level of employment
 
 The level of employment is how many people in the economy have jobs.
@@ -122,9 +160,21 @@ The level of employment is how many people in the economy have jobs.
 
 Give the how and the why: a fall in employment means fewer wages, so fewer sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses--05-employment-chain.webp" width="900" height="796" alt="Rising employment means more wages and more demand, with easier sales but harder recruiting. Falling employment means fewer wages and less demand, with easier recruiting but fewer sales." loading="lazy">
+  <figcaption>Employment changes spread to business through wages, demand and recruiting.</figcaption>
+</figure>
+
+
 ## Consumer spending and incomes
 
 When incomes rise, people can spend more, and demand for many products grows. When incomes fall, spending is cut. In general terms, goods and services that people see as non-essential, or that cost a lot, such as holidays and new cars, change most with incomes. Everyday basics change less. Discuss by comparing the two, and say what the business should do: change prices, range or promotion, or adjust production and stock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses--06-income-spending-goods.webp" width="900" height="890" alt="Demand for holidays and new cars changes a lot when incomes change, while demand for everyday basics changes a little. Bar lengths are schematic only." loading="lazy">
+  <figcaption>Non-essential or costly goods change most when incomes change.</figcaption>
+</figure>
+
 
 ## Common errors
 

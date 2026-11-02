@@ -53,6 +53,12 @@ Three points to get right:
 2. Scarcity is not the same as a shortage. A shortage is a market event: at the current price, buyers want more than sellers supply. Scarcity is permanent and applies even when a market clears.
 3. Scarcity covers time and attention as well as money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+
 ## 1.1.2 Choices at every level
 
 Because resources are limited, each decision-maker must choose.
@@ -108,6 +114,17 @@ If the government builds two hospitals and six schools, the budget is exhausted.
 
 Opportunity cost is easy to state and hard to measure. A government comparing a hospital with a school has to value lives saved against years of learning. Benefits arrive at different times and with uncertainty. The next best alternative depends on which options decision-makers consider. Use the idea to make trade-offs explicit, then judge how reliable the numbers are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--01-bakery-trade-off.webp" width="900" height="1020" alt="Straight-line graph of loaves against cakes for a one-oven bakery from 120 loaves to 90 cakes. Choosing 60 cakes leaves 40 loaves, so 80 loaves are given up. One cake costs 1.33 loaves and one loaf 0.75 cake." loading="lazy">
+  <figcaption>Constant trade-off: 60 cakes cost 80 loaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## 1.1.4 What, how and for whom to produce
 
 Scarcity forces every economy to answer three questions.
@@ -146,6 +163,17 @@ Ratio = 2,500 / 250 = 10
 
 A basket of essentials costs 300. The average person in the top group can afford 2,500 / 300 = 8.33 baskets. The average person in the bottom group, at 250 / 300 = 0.83, cannot afford one. Answering "for whom" is therefore also a question about fairness, and that links to normative judgements below. How different economic systems answer the three questions is section 1.4. See the [basic economic ideas guide](/resources/a-level-economics-basic-economic-ideas-and-resource-allocation/) for that.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--02-how-to-produce-breakeven-wage.webp" width="900" height="1050" alt="Daily cost of 600 loaves against the daily wage. Labour-intensive L = 12w + 50 and capital-intensive C = 4w + 400 cross at a wage of 43.75: below it L is cheaper, above it C is cheaper." loading="lazy">
+  <figcaption>Above a wage of 43.75 a day the capital-intensive method is cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--08-for-whom-income-shares.webp" width="900" height="910" alt="Country C has 1,000 people and total income of 1,000,000. Two stacked bars compare shares of people (bottom 20 percent, middle 60, top 20) with shares of income (5, 45 and 50 percent). Per person, the top group gets 2,500 and the bottom group 250, a ratio of 10. A basket of essentials costs 300, so the top group can buy 8.33 baskets and the bottom group only 0.83." loading="lazy">
+  <figcaption>Most income goes to the top fifth, so the market answer to &quot;for whom&quot; leaves the bottom fifth unable to afford one basket of essentials.</figcaption>
+</figure>
+
+
 ## 1.2.1 Economics as a social science
 
 Economics studies the decisions that households, businesses and states take under scarcity. It is a **social science** because it studies human behaviour in society and uses a scientific method:
@@ -160,6 +188,12 @@ Economics differs from natural sciences. Economists cannot usually run controlle
 
 A balanced judgement on "how scientific is economics?" runs like this. It uses evidence and testable hypotheses, which supports the claim. However, it cannot isolate variables as cleanly, which weakens the claim, and policy advice also involves values. Economics is best seen as a social science that uses scientific methods with less precision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--09-social-science-method-loop.webp" width="900" height="1020" alt="Five boxes in order. 1 Observe a pattern in behaviour. 2 Build a model. 3 Draw a testable hypothesis. 4 Test it against evidence. 5 Keep, refine or reject the model. A dashed arrow runs from step 5 back to step 2, so a refined model is tested again. A note says results are tendencies, not laws." loading="lazy">
+  <figcaption>Economics follows the scientific method: a model is tested against evidence, then kept, refined or rejected.</figcaption>
+</figure>
+
+
 ## 1.2.2 Positive and normative statements
 
 A **positive statement** is a claim of fact that evidence can check. It may turn out true or false. A **normative statement** is a value judgement about what ought to be, and evidence alone cannot settle it.
@@ -172,6 +206,12 @@ A **positive statement** is a claim of fact that evidence can check. It may turn
 | Inequality in Country C is unfairly high | Normative | "Unfairly" is a judgement |
 
 Watch for two traps. A positive statement can be wrong, so testability, not truth, is the test. Words such as "should" usually signal a normative statement, but check the meaning: "if the price falls, firms should supply less" is a prediction about behaviour. Many policy sentences mix both, such as "the wage floor is too high, so it should be cut". Split them into their positive and normative parts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## 1.2.3 Ceteris paribus
 
@@ -196,6 +236,12 @@ Ratio for price alone = 8.33 / 16.67 = 0.5
 
 The price effect is much weaker than it first appeared. Ceteris paribus is an assumption that makes models workable, but real markets never hold everything else constant. Say so when you evaluate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--03-ceteris-paribus-ice-cream.webp" width="900" height="960" alt="Bars of weekly ice cream sales: 400 before, 480 if only the hot weather acted, 520 actual. The price cut alone added 40, +8.33 per cent, so the ratio is 0.5 rather than the naive 1.8." loading="lazy">
+  <figcaption>Holding the weather constant, the price effect is much weaker than it first appeared.</figcaption>
+</figure>
+
+
 ## 1.2.4 The time period
 
 Economists distinguish periods by what can change, not by calendar length.
@@ -207,6 +253,12 @@ Economists distinguish periods by what can change, not by calendar length.
 | Very long run | Technology and the quality of factors can also change | Adopt a new baking process, train a new skill base |
 
 The length of each period differs by industry. A hairdresser can change premises within months, but a power station takes many years. When a question asks how a firm or market responds, state the period, because the answer often differs between periods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--04-time-periods.webp" width="900" height="810" alt="Three steps: short run with a fixed oven (padlock), long run with a second oven added, very long run with improved technology. Periods are defined by what can change, not by length." loading="lazy">
+  <figcaption>The periods are defined by what can change, not by calendar time.</figcaption>
+</figure>
+
 
 ## Common errors
 

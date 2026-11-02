@@ -36,6 +36,12 @@ These are condensed notes for references G8 and G9 in section 3.3.1 of the Oxfor
 
 Two radii and a chord always make an **isosceles triangle**. If the angle at the centre is c, each base angle is (180° − c) ÷ 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
+</figure>
+
+
 ## The eight theorems (G8, Extension only)
 
 | No. | Theorem (reason to write) | Picture to hold in mind |
@@ -67,6 +73,37 @@ Two radii and a chord always make an **isosceles triangle**. If the angle at the
 4. Use theorem 6 for the second tangent, or double the half-chord for the whole chord.
 
 Useful triples in circle problems: 5-12-13, 3-4-5 and 8-15-17 (and multiples). If your numbers do not fit one, check which side is the hypotenuse. In a tangent triangle, OT is the hypotenuse. In a chord triangle, the radius is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof--05-alternate-segment-theorem.webp" width="900" height="880" alt="Figure showing: Tangent at A makes 72 and 41 degrees with chords AB and AC; the angles at C and B are 72 and 41, and angle BAC is 67 (Worked example 8 numbers). The angle between a tangent and a chord equals the angle in the alternate segment." loading="lazy">
+  <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--04-equal-tangents.webp" width="900" height="900" alt="Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius." loading="lazy">
+  <figcaption>Tangents from an external point are equal in length (here PA = PB = 12).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -111,6 +148,32 @@ Proof of cyclic quadrilateral: if angle BAD = p, the centre angle on the opposit
 - "The perpendicular from the centre bisects the chord."
 - "Alternate segment theorem."
 - "Angles in a triangle sum to 180°" (and the other basic angle facts, quoted as given).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof--08-proof-a-angle-at-centre.webp" width="900" height="990" alt="Circle with centre O, triangle ABC inside it and CO extended to D. Isosceles triangles OAC and OBC give base angles a and b, exterior angles AOD = 2a and BOD = 2b, so AOB = 2(a + b) = 2 x ACB." loading="lazy">
+  <figcaption>Proof A: two isosceles triangles and their exterior angles show the centre angle is double.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof--09-proof-b-cyclic-quadrilateral.webp" width="900" height="1090" alt="Cyclic quadrilateral ABCD with angle BAD = p. The arc BCD gives a centre angle 2p, the other centre angle is 360 - 2p, and angle BCD is half of that, 180 - p. So opposite angles add to 180 degrees." loading="lazy">
+  <figcaption>Proof B: halving the two centre angles gives p and 180° − p, which sum to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof--10-proof-c-alternate-segment.webp" width="900" height="1045" alt="Tangent PAQ touches a circle at A with diameter AD and point B. Angle QAB is t, so DAB is 90 - t, ABD is 90 degrees, ADB is t, and ACB equals ADB, so the tangent-chord angle equals the angle in the alternate segment." loading="lazy">
+  <figcaption>Proof C: a diameter through the point of contact links the tangent-chord angle to the angle in the alternate segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof--11-proof-d-equal-tangents.webp" width="900" height="960" alt="Circle with centre O and tangents TA and TB from an external point T. Right angles at A and B, equal radii OA = OB and common side OT make triangles OAT and OBT congruent (RHS), so TA = TB." loading="lazy">
+  <figcaption>Proof D: two right-angled triangles sharing OT are congruent, so the tangents are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-circle-properties-circle-theorems-and-geometrical-proof--12-proof-e-chord-perpendicular.webp" width="900" height="1060" alt="Circle with centre O, chord AB and midpoint M. OA = OB, AM = BM and OM is common, so triangles OAM and OBM are congruent (SSS). The angles at M are equal and add to 180 degrees, so each is 90 degrees." loading="lazy">
+  <figcaption>Proof E: congruent triangles show the line from the centre to the midpoint meets the chord at a right angle.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

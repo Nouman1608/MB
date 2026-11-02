@@ -73,6 +73,22 @@ Then 5x + 8 = 13,  so x = 1
 
 Define each letter with its unit before writing equations. Answer in the context of the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--01-linear-equation-from-graph.webp" width="900" height="889" alt="Two lines on one grid: y = 2x - 5 and the horizontal y = 3. They cross at (4, 3), so 2x - 5 = 3 has solution x = 4. A dashed line drops to the x-axis at 4. A hand-drawn reading is only approximate." loading="lazy">
+  <figcaption>Draw each side of the equation as a line and read the x-coordinate where they cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
+
 ## 6.03d Graphs and approximate solutions
 
 | To solve | Draw | Read |
@@ -104,6 +120,17 @@ To solve x² − 8x + 12 = 3 (**Higher tier only**), draw y = 3 across the same 
 
 A line can cut a curve twice, touch it at one point, or miss it. The number of intersections equals the number of solutions of the pair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--05-curve-and-line.webp" width="900" height="980" alt="The curve y = x squared minus 3x minus 3 and the line y = x plus 1 cross at about (minus 0.8, 0.2) and (4.8, 5.8). These are the two solution pairs; equating gives x squared minus 4x minus 4 = 0 with exact roots 2 plus or minus 2 root 2." loading="lazy">
+  <figcaption>Each crossing of a curve and a line is one solution pair of the simultaneous equations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
+
 ## 6.03c Quadratic simultaneous equations (Higher tier only)
 
 1. Rearrange the linear equation so that x or y stands alone.
@@ -126,6 +153,17 @@ x = 4 gives y = 5;  x = 5 gives y = 4
 
 **Circle form.** In x² + y² = r², the right-hand side is a number. Substituting a linear expression for y gives a quadratic in x with an x² term from each part.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--02-line-meets-circle-41.webp" width="900" height="1174" alt="The circle x squared plus y squared equals 41 and the line y = x - 1 cross at (5, 4) and (-4, -5). Substituting gives x squared - x - 20 = 0 so x is 5 or -4, and each x is paired with its y using the linear equation." loading="lazy">
+  <figcaption>The two solution pairs are the two points where the line meets the circle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--03-rectangle-perimeter-area.webp" width="900" height="1137" alt="The area x(13 - x) is plotted against x. It equals 36 at x = 4 and x = 9. These give x squared - 13x + 36 = 0, (x - 4)(x - 9) = 0. Both values describe the same 4 cm by 9 cm rectangle with sides swapped." loading="lazy">
+  <figcaption>Two roots, one rectangle: the sides swap.</figcaption>
+</figure>
+
+
 ## 6.03e Sign-change methods (Higher tier only)
 
 | Term | Meaning |
@@ -143,6 +181,17 @@ The specification states that specific methods will not be requested, so choose 
 Write a table with the interval, the midpoint or test value, the sign of f, and what you keep.
 
 **Where a sign change misleads.** For f(x) = 1/x, f(−1) = −1 and f(1) = 1, yet there is no root, because the graph breaks at x = 0. An interval holding two roots can also show no sign change at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--06-interval-bisection.webp" width="900" height="1140" alt="Each midpoint of x cubed minus 3x minus 5 on 2 to 3 is tested (2.5, 2.25, 2.375, 2.3125, 2.28125). Keeping the half with the sign change shrinks the interval to 2.25 to 2.28125, so the root is 2.3 to 1 decimal place." loading="lazy">
+  <figcaption>Each bisection halves the interval that must contain the root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--04-decimal-search-table.webp" width="900" height="1105" alt="Four number-line strips zoom into the root of x cubed + 3x - 8. The sign changes between 1 and 2, then 1.5 and 1.6, then 1.51 and 1.52. The half-way test f(1.515) is positive so the root is between 1.51 and 1.515, which rounds to 1.51." loading="lazy">
+  <figcaption>Each zoom keeps the sign change; the half-way test settles the rounding.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

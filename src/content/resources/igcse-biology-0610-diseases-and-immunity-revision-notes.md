@@ -47,6 +47,12 @@ Links: [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/), [printab
 | Direct contact | Blood and other body fluids | Shared needles; contact with an infected wound |
 | Indirect | Contaminated surfaces, food, animals, air | Door handles; undercooked food; flies; droplets in air |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
+  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
+</figure>
+
+
 ## Body defences (Core)
 
 The syllabus list is exactly five:
@@ -56,6 +62,12 @@ The syllabus list is exactly five:
 - **Mucus** – traps pathogens in the airways.
 - **Stomach acid** – kills pathogens in food and drink.
 - **White blood cells** – phagocytosis and antibody production.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--02-defences.webp" width="900" height="980" alt="Schematic body with five numbered defences: 1 skin as the outline, a physical barrier; 2 nose hairs, in a magnified circle, trap dust and pathogens; 3 sticky mucus traps pathogens in the airways; 4 stomach acid kills pathogens in food and drink; 5 white blood cells in a vessel engulf pathogens and make antibodies. Defences 1 to 4 act before the blood." loading="lazy">
+  <figcaption>Four barriers act before pathogens reach the blood; white blood cells deal with those that get in.</figcaption>
+</figure>
+
 
 ## Controlling spread (Core)
 
@@ -81,6 +93,17 @@ Example for waste disposal: rubbish is collected and buried or burned → flies 
 
 Subtract the new number of cases from the old, divide by the **old** number, and multiply by 100. For example, cases falling from 250 to 40 is a decrease of 210, and 210 ÷ 250 × 100 = 84%. Give the answer to the precision the question asks for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--03-block.webp" width="900" height="1160" alt="Five rows, each with a pathogen source, a numbered barrier and a person. 1 Clean water supply blocks untreated water; 2 hygienic food preparation blocks raw food; 3 good personal hygiene blocks dirty hands; 4 waste disposal removes rubbish that attracts flies and rats; 5 sewage treatment stops faeces pathogens reaching water or crops. Solid lines show pathogens moving; dashed lines show the route blocked." loading="lazy">
+  <figcaption>Each public-health measure blocks one transmission route.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
+</figure>
+
+
 ## Antibodies at work (Extended only)
 
 ### Method in steps: from antigen to destruction
@@ -92,6 +115,12 @@ Subtract the new number of cases from the old, divide by the **old** number, and
 5. **Memory cells** remain, giving long-term immunity (active immunity only).
 
 Active immunity is gained **after an infection** or **by vaccination**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
 
 ## Vaccination (Extended only)
 
@@ -107,11 +136,23 @@ Active immunity is gained **after an infection** or **by vaccination**.
 
 After a first vaccine dose, antibody concentration rises slowly and peaks at a low level. After a second dose (or a later infection), memory cells respond, so antibodies are made **faster** and reach a **much higher concentration**. On a graph, look for a shorter delay and a taller peak for the second response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+
 ## Passive immunity (Extended only)
 
 - Antibodies come from **another individual**: **across the placenta** and **in breast milk**.
 - **Short-term**, because the antibodies are broken down and **no memory cells are produced**.
 - **Breast-feeding** matters because it gives an infant antibodies (passive immunity) while its own immune system is still developing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--07-active-passive.webp" width="900" height="960" alt="Extended. Active immunity: own lymphocytes make the antibodies after infection or vaccination, memory cells are produced and protection is long-term. Passive immunity: antibodies come from another person, such as from a mother through the placenta or breast milk, no memory cells are produced and protection is short-term." loading="lazy">
+  <figcaption>Active immunity is made by you and lasts; passive immunity is borrowed and fades.</figcaption>
+</figure>
+
 
 ## Cholera (Extended only)
 
@@ -128,6 +169,12 @@ cholera bacterium (from contaminated water)
 ### Linking the Extended content back to Core
 
 Cholera is a good example of why the Core measures matter. The bacterium is transmitted in contaminated water, so a **clean water supply** and **sewage treatment** break its route between hosts. **Good personal hygiene** and **hygienic food preparation** stop it passing on from hands or food. If a question gives you a cholera outbreak, use the Core measures for "how could the spread be reduced" and the toxin chain for "how does it make people ill".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--08-cholera.webp" width="900" height="1100" alt="Extended. Water contaminated with sewage and cholera bacteria is drunk. 1 The bacteria produce a toxin. 2 The toxin causes chloride ions to be secreted into the small intestine. 3 Water potential in the gut falls, so water moves in by osmosis from the blood and tissues. 4 The result is diarrhoea, dehydration and loss of ions from the blood." loading="lazy">
+  <figcaption>Toxin, then chloride ions, then osmosis, then diarrhoea and dehydration.</figcaption>
+</figure>
+
 
 ## Where white blood cells fit (Extended only)
 

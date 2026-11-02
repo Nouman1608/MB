@@ -51,6 +51,12 @@ Other shifters: population, migration, childcare costs, training costs and pay i
 
 A wage change moves you along the supply curve. Any other factor shifts the curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+
 ## Wage elasticity of supply, short run and long run
 
 Wage elasticity of supply of labour (EWS) = percentage change in labour supplied ÷ percentage change in the wage.
@@ -74,6 +80,22 @@ EWS = 7 / 5 = 1.4  (elastic)
 **Short run versus long run.** In the short run the workforce is largely fixed: firms rely on overtime or poaching. In the long run people can train, move region and enter from education or abroad.
 
 *Illustration.* A 5% pay rise in an invented technical occupation raises supply 1% in year one (EWS = 0.2) and 7.5% after seven years (EWS = 1.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--06-lab-ews-calculation.webp" width="900" height="870" alt="Bars to the same scale show a 5 per cent wage rise (10.00 to 10.50) and a 7 per cent rise in workers (400 to 428). Dividing 7 by 5 gives an elasticity of 1.4." loading="lazy">
+  <figcaption>A 5% pay rise that brings 7% more workers gives EWS 1.4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--07-lab-ews-short-long.webp" width="900" height="880" alt="For a 5 per cent pay rise supply rises 1 per cent in year one (EWS 0.2, steep line) and 7.5 per cent after seven years (EWS 1.5, flatter line)." loading="lazy">
+  <figcaption>Labour supply is more elastic the longer workers have to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## Substitution and income effects on an individual's labour supply
 
@@ -99,6 +121,17 @@ From £8 to £12 the elasticity of hours is 28 ÷ 50 = 0.56. From £20 to £24 i
 
 **Evaluation.** The income effect is likelier to dominate at high pay or with a target income. The substitution effect dominates at low pay and where overtime is easy to get. Fixed contract hours limit adjustment. The market supply curve for an occupation still slopes upward because new workers enter as the wage rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--07-lab-backward-bending.webp" width="900" height="870" alt="Hours worked rise with the wage from 25 to 40 hours as the wage goes from 8 to 20 pounds, then fall to 38 and 35 hours at 24 and 28 pounds. For 20 to 24 pounds the illustrative split is substitution +3 hours, income -5 hours, net -2." loading="lazy">
+  <figcaption>Above a certain wage the income effect outweighs the substitution effect and hours fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--08-lab-substitution-income.webp" width="900" height="1060" alt="On a leisure and income diagram a wage rise steepens the budget line. Moving from A to B along the first indifference curve is the substitution effect (less leisure). Moving from B to C on the higher curve is the income effect (more leisure). Income effect is larger so hours fall." loading="lazy">
+  <figcaption>The income effect can outweigh the substitution effect so hours worked fall as the wage rises.</figcaption>
+</figure>
+
+
 ## Economic rent and transfer earnings
 
 - **Transfer earnings** are what a worker must be paid to stay in the present job, which equals the pay in the next best alternative.
@@ -120,6 +153,12 @@ Check: 2,400 + 1,600 = 4,000
 If demand rises so that w = £12 and L = 500, total earnings are 6,000, transfer earnings 3,500 and rent 2,500.
 
 **Determinants.** Rent grows as supply becomes less elastic (scarce talent, lengthy training, entry barriers) and as demand strengthens. Perfectly inelastic supply means all earnings are rent; perfectly elastic supply means all are transfer earnings. Transfer earnings depend on the next best alternative, so they rise if other sectors offer better pay or conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--06-lab-economic-rent.webp" width="900" height="920" alt="On a wage-against-workers diagram with supply w = 2 + 0.02L and the wage at 10 for 400 workers, the area under supply is transfer earnings (2,400) and the triangle above it is economic rent (1,600). A dashed triangle shows the case after demand rises: 12 pounds, 500 workers, rent 2,500." loading="lazy">
+  <figcaption>Earnings above the supply curve are economic rent; the area below is transfer earnings.</figcaption>
+</figure>
+
 
 ## A highly competitive labour market
 
@@ -145,6 +184,17 @@ w = 2 + 0.02 x 400 = £10   (check: 34 - 24 = 10)
 
 Now a licensing rule shifts supply to w = 4 + 0.02L. Then 30 = 0.08L, so L = 375 and w = £11.50. Wage +15%, employment -6.25%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--09-lab-licence-supply-shift.webp" width="900" height="980" alt="Demand w = 34 - 0.06L meets supply S1 (2 + 0.02L) at 400 workers and 10 pounds. A licensing rule shifts supply to S2 (4 + 0.02L) giving 375 workers at 11.50 pounds: wage +15 per cent, employment -6.25 per cent." loading="lazy">
+  <figcaption>A licence cuts employment and raises the wage in a competitive market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## Trade union activity
 
 In the competitive market above, suppose a union secures £13.
@@ -159,6 +209,12 @@ Wage bill: 10 x 400 = 4,000  ->  13 x 350 = 4,550
 Midpoint method: employment change = -50 ÷ 375 = -13.3%, wage change = +3 ÷ 11.5 = +26.1%, so wage elasticity of demand = -0.51. Demand is inelastic, so the wage bill rises. Insiders gain, 50 workers lose their jobs, and 200 are unemployed (those 50 plus 150 new entrants) for 350 jobs. If demand were elastic the wage bill would fall.
 
 **Evaluation.** The effect depends on wage elasticity of demand, union density, the threat of strikes, and whether the firm can substitute capital or move abroad. Unions may also raise productivity, shifting MRP right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--08-lab-union-competitive.webp" width="900" height="890" alt="At a union wage of 13 pounds firms demand 350 workers while 550 want work, leaving 200 unemployed; employment falls from 400 to 350. The wage bill rises from 4,000 to 4,550 because demand is inelastic (-0.51)." loading="lazy">
+  <figcaption>A union wage above equilibrium cuts jobs but raises the wage bill when demand is inelastic.</figcaption>
+</figure>
+
 
 ## Monopsony
 
@@ -177,6 +233,17 @@ Gap between MRP and wage = £6.40
 Against competition (400 workers at £10), employment is 20% lower and the wage 16% lower. The wage is below the worker's MRP.
 
 **Evaluation of a union or wage floor.** A binding wage between £8.40 and £14.80 can *raise employment*. A wage floor at £10 makes the firm face a flat supply curve, so it hires 400. A wage of £12.40 gives employment of 360 (MRP = 12.40 at L = 360). A floor set too high cuts employment below 320. The result depends on the size of the gap and the elasticity of supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--09-lab-monopsony.webp" width="900" height="870" alt="A monopsonist faces the supply curve (its average cost of labour) and marginal cost of labour above it. It hires where MCL equals MRP, 320 workers, and pays 8.40 from the supply curve, 6.40 below MRP of 14.80. Competition would give 400 workers at 10." loading="lazy">
+  <figcaption>The monopsonist hires fewer workers at a wage below MRP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--10-lab-monopsony-floor.webp" width="900" height="880" alt="Employment under a binding wage floor follows the supply curve up to 400 workers at a floor of 10 pounds, then the MRP curve down: 360 at 12.40 and back to 320 at 14.80. A floor above 14.80 gives fewer than 320 jobs, so a floor in between raises employment." loading="lazy">
+  <figcaption>A wage floor within the right range can raise employment under monopsony.</figcaption>
+</figure>
+
 
 ## Bilateral monopoly
 

@@ -89,6 +89,12 @@ A sketch in words: draw price up the vertical axis and quantity along the horizo
 
 Where MR is positive, demand is price elastic: a price cut raises TR. At 6 units, where MR = 0, demand is unit elastic. Beyond it, MR is negative and demand is inelastic, so a price cut lowers TR. A firm facing this demand would not choose to sell beyond 6 units unless it is chasing sales for another reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ### A price taker
 
 A firm that must accept the market price faces a horizontal demand curve. Farm B, an invented wheat grower, sells at 240 a tonne whatever it supplies.
@@ -101,6 +107,27 @@ A firm that must accept the market price faces a horizontal demand curve. Farm B
 | 4 | 240 | 960 | 240 |
 
 Each extra tonne adds exactly 240, so AR = MR = price and TR rises in a straight line from the origin. No price cut is needed to sell more, so there is no loss on earlier units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--01-rev-ar-mr-tr.webp" width="900" height="1190" alt="Workshop A: AR falls from 48 to 12 units, MR falls twice as fast and hits zero at 6 units, where TR peaks at 144 pounds. Why MR = 48 − 8Q reaches zero at 6 units, half of AR's 12, and TR peaks there." loading="lazy">
+  <figcaption>Why MR = 48 − 8Q reaches zero at 6 units, half of AR's 12, and TR peaks there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--02-rev-why-mr-below-ar.webp" width="900" height="960" alt="Moving from 3 to 4 units the firm gains 32 on the extra unit and loses 3 x 4 = 12 on the earlier ones. MR is 20, below AR of 32. Selling the 4th unit at 32 adds 32 but cuts revenue on 3 earlier units by 12, so MR = 20." loading="lazy">
+  <figcaption>Selling the 4th unit at 32 adds 32 but cuts revenue on 3 earlier units by 12, so MR = 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--06-price-taker-ar-mr.webp" width="900" height="1070" alt="Top: a horizontal line at 240 is demand, AR and MR, with points at 1 to 4 tonnes. Bottom: total revenue is a straight line through 240, 480, 720 and 960." loading="lazy">
+  <figcaption>For a price taker each extra tonne adds exactly 240, so AR = MR = price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
 
 ## 2. Profit
 
@@ -137,6 +164,17 @@ If revenue were 92,000, accounting profit would be 22,000 and abnormal profit ze
 
 Evaluation: profit can reflect market power rather than efficiency, can encourage a short-term view, and ignores external costs such as pollution. How well profit allocates resources depends on how easily firms can enter, which links to market structure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--03-rev-normal-abnormal-profit.webp" width="900" height="1010" alt="Revenue of 96,000 leaves 4,000 abnormal profit, 92,000 leaves none, and 90,000 is 2,000 below normal profit. Studio S revenue 96,000 / 92,000 / 90,000 against costs and normal profit." loading="lazy">
+  <figcaption>Studio S revenue 96,000 / 92,000 / 90,000 against costs and normal profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--10-role-of-profit.webp" width="900" height="800" alt="Profit sits at the centre of four roles: signal, incentive, source of funds and discipline." loading="lazy">
+  <figcaption>Profit signals where resources are wanted, rewards risk, funds investment and disciplines losing firms.</figcaption>
+</figure>
+
+
 ## 3. Technological change
 
 **Invention** is the discovery or creation of a new idea, product or process. **Innovation** is putting it to commercial use for the first time. A laboratory in Country A that finds a cheap way to make thin solar film has made an invention. The firm that first sells roof tiles made from it has made an innovation. Economic gains mostly depend on innovation, because only an applied idea changes what is produced and sold.
@@ -163,6 +201,32 @@ Average costs are equal where 40,000 + 6Q = 100,000 + 2.5Q, so 3.5Q = 60,000 and
 Schumpeter's term **creative destruction** describes how new products, methods and firms replace old ones. The innovator earns abnormal profit for a time. Imitators then enter, profit falls back towards normal and the cycle repeats with the next innovation. The "destruction" is the loss of old firms, jobs and skills. The "creative" side is higher productivity, lower prices and new goods. Links to remember: innovation leads to temporary abnormal profit, which signals and rewards, and entry then erodes it.
 
 Evaluation points: gains are spread across the economy but losses fall on identifiable workers and firms, so the speed of change and the help given to displaced workers matter. A patent can protect profits from imitation and reward invention, but if it lasts too long it delays competition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--04-rev-tech-cost-crossover.webp" width="900" height="1030" alt="Firm C average cost falls faster with the new process but starts higher. The curves cross at 17,143 units. New process cuts average cost only above 17,143 units." loading="lazy">
+  <figcaption>New process cuts average cost only above 17,143 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--05-rev-creative-destruction.webp" width="900" height="910" alt="Profit jumps above normal when an innovation arrives, then falls back as imitators enter, before the next innovation repeats the cycle. Innovation brings temporary abnormal profit that entry erodes towards normal profit." loading="lazy">
+  <figcaption>Innovation brings temporary abnormal profit that entry erodes towards normal profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--07-invention-vs-innovation.webp" width="900" height="700" alt="A flask for invention, a new idea or process such as cheap solar film, leads by an arrow to roof tiles on sale for innovation, the first commercial use." loading="lazy">
+  <figcaption>Invention is the new idea; innovation is its first commercial use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--08-productivity-automation.webp" width="900" height="880" alt="Five workers produce 400 units, 80 each. After automation they produce 600, 120 each, a rise of 50%." loading="lazy">
+  <figcaption>Output per worker rises from 80 to 120, which is +50%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--09-tech-market-structure.webp" width="900" height="740" alt="Left: an online platform removes the need for shops, so barriers fall and many small firms compete. Right: research costs, patents and network effects raise barriers and let an early mover dominate." loading="lazy">
+  <figcaption>Technology can lower barriers to entry or raise them.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -52,6 +52,17 @@ Negative feedback works from both directions. A rise above the set point trigger
 
 **Positive feedback** amplifies a change and drives the variable further from the set point. Used for temperature, a small rise would cause more heating. That is why homeostasis uses negative feedback.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--01-negative-feedback.webp" width="900" height="910" alt="A flow of receptor, control centre and effector with a return arrow, above two computed graphs. After a disturbance the negative-feedback curve returns to the set point; the positive-feedback curve runs away from it. This is why homeostasis uses negative feedback." loading="lazy">
+  <figcaption>Negative feedback returns a variable to its set point; positive feedback amplifies the change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--05-thermoregulation-loop.webp" width="900" height="1096" alt="Skin thermoreceptors and the hypothalamus detect temperature change and the hypothalamus compares it with 37 degrees Celsius. If cold: thyroxin, shivering muscle, brown adipose tissue and skin vasoconstriction. If hot: vasodilation, sweating and behaviour. Signals weaken when temperature returns to the set point." loading="lazy">
+  <figcaption>The hypothalamus compares temperature with 37 C and drives different effectors when cold or hot.</figcaption>
+</figure>
+
+
 ## D3.3.3 Blood glucose and hormones
 
 The pancreas contains endocrine cells that detect blood glucose and secrete hormones directly into the blood.
@@ -71,6 +82,12 @@ As blood glucose returns to the set point, the stimulus for the hormone falls an
 - Percentage rise to the peak: (7.6 − 4.8) / 4.8 × 100 = **58.3%**.
 - Mean rate of fall from 45 to 150 min: (7.6 − 5.0) / 105 = **0.025 mmol L⁻¹ min⁻¹** (2 significant figures).
 - The peak triggers insulin secretion; the return to near the starting value shows negative feedback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--02-blood-glucose-control.webp" width="900" height="1040" alt="After a meal beta cells release insulin, which increases glucose uptake and makes liver and muscle store glucose as glycogen, so blood glucose falls. Between meals alpha cells release glucagon, which makes the liver break glycogen down to glucose, so blood glucose rises. Falling stimulus reduces hormone release." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, each switching off as glucose nears the set point.</figcaption>
+</figure>
+
 
 ## D3.3.4 Diabetes: types 1 and 2
 
@@ -94,6 +111,17 @@ In diabetes, glucose control fails and blood glucose stays high.
 - Rise to the peak in Person X: 14.0 − 8.1 = 5.9, which is **72.8%**.
 - At 120 min Person X is 12.2 − 5.0 = 7.2 higher than the control, or 2.44 times as high.
 - Person X starts high, peaks later and stays high, so glucose is not being cleared. The data cannot show which type.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--03-diabetes-types.webp" width="900" height="1010" alt="Three rows show a healthy person, type 1 and type 2 diabetes. Healthy: insulin binds receptors and glucose channels open. Type 1: beta cells are destroyed so there is no insulin and glucose stays in the blood. Type 2: insulin is present but target cells respond poorly, so glucose also stays high." loading="lazy">
+  <figcaption>Type 1 lacks insulin; type 2 cells respond poorly to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--04-glucose-tolerance.webp" width="900" height="970" alt="Line graph of glucose at 0, 30, 60 and 120 minutes. The control peaks at 7.4 at 30 minutes and returns to 5.0; Person X starts at 8.1, peaks at 14.0 at 60 minutes and is still 12.2 at 120 minutes, 7.2 higher (2.44 times). The data cannot show which type." loading="lazy">
+  <figcaption>Person X starts high, peaks later and stays high, so glucose is not being cleared.</figcaption>
+</figure>
+
 
 ## D3.3.5 Thermoregulation as negative feedback
 
@@ -119,6 +147,12 @@ Birds and mammals use physiological and behavioural means to regulate temperatur
 
 **Worked example 3.** A person's metabolic heat production is 90 W at rest and 270 W during intense shivering. The ratio is 270 / 90 = **3**, an increase of (270 − 90) / 90 × 100 = **200%**. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--06-skin-and-brown-fat.webp" width="900" height="1120" alt="Two skin cross-sections: in the cold, arterioles narrow, less blood flows near the surface and hairs rise to trap air; in the heat, arterioles widen, more blood flows near the surface and sweat evaporates. Below, protons pumped across the inner mitochondrial membrane of brown adipose tissue leak back through a channel, releasing heat instead of making ATP." loading="lazy">
+  <figcaption>Skin changes heat loss; brown fat releases heat by letting protons leak across the mitochondrial membrane.</figcaption>
+</figure>
+
+
 ## D3.3.7 Excretion and osmoregulation (HL only)
 
 **Excretion** is getting rid of metabolic waste from the body. Urea, which the liver makes when it breaks down surplus amino acids, is excreted by the kidney. **Osmoregulation** is the regulation of osmotic concentration, which is the total concentration of dissolved solutes. Its unit is osmol L⁻¹ (osmoles per litre). The kidney does both jobs, but they are different.
@@ -136,9 +170,21 @@ In the **proximal convoluted tubule** the cells reabsorb useful substances, so t
 - Water reabsorbed: 180 − 1.5 = 178.5 L, which is 178.5 / 180 × 100 = **99.2%**.
 - Urea is 0.30 g L⁻¹ in plasma and 18 g L⁻¹ in urine, so urine is 18 / 0.30 = **60 times** more concentrated. Water has been reabsorbed from the tubule while urea mostly stays in it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--07-filtration-reabsorption.webp" width="900" height="1150" alt="Blood enters the glomerulus by a wide vessel and leaves by a narrow one, so pressure is high and water and small solutes pass into the capsule while cells and large proteins stay in the blood. In the proximal tubule, cells with microvilli and mitochondria reabsorb glucose, amino acids, ions and water while urea stays. 178.5 of 180 L is reabsorbed (99.2%)." loading="lazy">
+  <figcaption>High pressure filters the blood; the proximal tubule takes back what the body needs.</figcaption>
+</figure>
+
+
 ## D3.3.9 The loop of Henle (HL only)
 
 The ascending limb of the loop of Henle actively transports sodium ions out of the filtrate into the tissue of the medulla. This keeps the medulla at a high osmotic concentration, which rises with depth. That gradient lets water leave the collecting ducts by osmosis, so urine can become more concentrated than blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--08-loop-and-adh.webp" width="900" height="1220" alt="The ascending limb pumps sodium ions into the medulla, making it more concentrated with depth so water leaves the collecting duct by osmosis. With more ADH, aquaporins are in the membrane and urine is little and concentrated; with less ADH they are in vesicles and urine is plentiful and dilute. Maximum urine is 1.2 osmol per litre, 4.1 times plasma." loading="lazy">
+  <figcaption>The loop sets up a gradient and ADH controls how many aquaporins let water leave the collecting duct.</figcaption>
+</figure>
+
 
 ## D3.3.10 Osmoregulation in the collecting duct (HL only)
 
@@ -161,6 +207,12 @@ Blood flow is redirected by arterioles. Smooth muscle in their walls contracts (
 
 - At rest: 5.0 × 0.20 = 1.0 L min⁻¹. In exercise: 15 × 0.75 = **11.25 L min⁻¹**, or 11.25 times as much.
 - The gut gets 25% at rest and 5% in exercise: 1.25 L min⁻¹ falls to 0.75 L min⁻¹, a **40% fall** in absolute flow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the--09-organ-blood-supply.webp" width="900" height="980" alt="Stacked bars show illustrative cardiac output shared between muscle, gut and other organs. Muscle flow rises from 1.0 to 11.25 L per minute in exercise (11.25 times) while gut flow falls from 1.25 to 0.75 (a 40 percent fall). Arterioles dilate in muscle and constrict in the gut; brain supply stays roughly constant." loading="lazy">
+  <figcaption>Arterioles redirect the same cardiac output towards muscle during exercise.</figcaption>
+</figure>
+
 
 ## Common errors
 

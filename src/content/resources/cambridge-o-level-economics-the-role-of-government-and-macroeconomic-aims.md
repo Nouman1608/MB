@@ -63,6 +63,12 @@ Shared fish stock being depleted -> international: one country acting alone cann
 
 Chain of reasoning for "explain why an international agreement is needed to protect a shared fish stock": each country gains from catching more now; the cost of a shrinking stock falls on all of them; if one country limits its catch, others simply take more; so only a joint limit with monitoring protects the stock. A good answer moves through four steps: the cause, its effect, why the smaller unit cannot cure it, and what joint action adds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--01-eco52-levels.webp" width="900" height="840" alt="Three panels show a council clearing drains (local), a national government building setting tax and spending (national) and two fish in a globe for a joint limit on shared fish (international). An arrow shows that bigger problems need a higher level." loading="lazy">
+  <figcaption>The level of government should match the scale of the problem.</figcaption>
+</figure>
+
+
 ## 4.2.1 The macroeconomic aims
 
 These aims are about the economy as a whole rather than any single market. A **criterion** is the measurable standard a government sets so it can tell whether an aim has been met.
@@ -86,6 +92,17 @@ Real growth = (680 - 640) / 640 x 100 = 6.25%
 ```
 
 The criterion is 3% to 5%, so real growth of 6.25% exceeds it. Judging by the nominal 10.5% would mislead, because part of that rise is only higher prices. Growth is judged on real output, not on money values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ### Worked example 2: the unemployment rate
 
@@ -127,6 +144,17 @@ As a share of GDP = 10 / 500 x 100 = 2.0%
 
 A surplus of 2.0% is inside the 3% criterion. Stability does not demand a perfect balance. A large, persistent deficit is the worry, because it must be paid for by borrowing or selling assets. A large surplus can also be a concern, because it means partners are running deficits with the country.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--07-aims-jobs-leak-into-imports.webp" width="900" height="820" alt="100,000 workers earning 15,000 add 1,500 million of income. 28% (420 million) goes on imports, 1,080 million at home. The import rise worsens the current account." loading="lazy">
+  <figcaption>New jobs lift incomes, and 420 million of the 1,500 million leaks into imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ### Worked example 5: redistribution
 
 Country W charges no tax on the first 9,000 of income, 15% on the slice from 9,000 to 27,000 and 30% on the slice above 27,000 (invented).
@@ -139,6 +167,12 @@ Before tax K earns 63,000 / 21,000 = 3.0 times J; after tax 49,500 / 19,200 = 2.
 
 The gap narrows. Spending the revenue on benefits and services for low earners narrows it further.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ### Reasons behind the choice of aims
 
 Governments choose aims because each links to the welfare of citizens, but the choice and the criteria vary with circumstances.
@@ -148,6 +182,17 @@ Governments choose aims because each links to the welfare of citizens, but the c
 - **Stage of development and resources.** A poorer country may stress growth; a richer one may stress stability.
 - **Public support.** Voters care about jobs and prices, so governments rank those aims highly.
 - **Measurability.** A numerical criterion lets the government, and voters, check whether the aim was met.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--02-eco52-aims.webp" width="900" height="900" alt="Five gauges with the target band shaded: real growth 6.25% is above 3-5%; unemployment 5.0% misses and 4.32% meets under 4.5%; inflation 3.0% sits at the top of 1-3%; a 2.0% of GDP surplus is within 3%; the income ratio of K to J falls from 3.00 to 2.58 after tax." loading="lazy">
+  <figcaption>Each aim is judged against a measurable criterion, using the lesson's worked values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
 
 ## 4.2.2 Conflicts between aims
 
@@ -184,6 +229,17 @@ Growth with flat exports about triples the deficit. If growth is export-led, the
 ### Full employment versus balance of payments stability
 
 Suppose 100,000 new workers each earn 15,000 a year. Extra income is 1,500 million. If households spend 28% of extra income on imports, imports rise by 420 million. Higher demand may also raise domestic prices, making exports dearer abroad. Both effects worsen the current account. The conflict is weaker if the new jobs are in export firms or in firms that replace imports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--03-eco52-employment-prices.webp" width="900" height="940" alt="A four-step chain (demand rises, firms hire, wages rise, prices rise) above two bar charts: unemployment 9% to 6% (360 to 240 thousand) and inflation 2.0% to 5.5%." loading="lazy">
+  <figcaption>Pushing unemployment down can push inflation up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -107,6 +107,12 @@ Period of one revolution: T_period = 2π/ω = 2π√(L cos θ/g).
 
 **Reminder example.** L = 0.75 m and θ = 40°. Then h = 0.75 cos 40° = 0.5745 m, and the period is 2π√(0.5745/9.8) = 1.52 s (3 s.f.). Then ω = 4.13 rad s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
+
 ## Quick conversions
 
 | Given | Angular speed ω |

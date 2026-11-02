@@ -58,6 +58,12 @@ the [alkanes practice questions](/resources/oxfordaqa-a-level-chemistry-alkanes-
 | Radical | a species with an unpaired electron, written with a dot |
 | Homolytic fission | a covalent bond breaks and each atom keeps one electron |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## 3.3.2.1 Fractional distillation
 
 - Crude oil is heated and fed into the base of a column that is **hot at the bottom, cool at the top**.
@@ -75,6 +81,17 @@ the [alkanes practice questions](/resources/oxfordaqa-a-level-chemistry-alkanes-
 Distillation is **physical**. No covalent bond breaks.
 
 Crude oil is both a source of fuels and an important raw material for the chemical industry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 3.3.2.2 Cracking
 
@@ -101,6 +118,12 @@ Mechanisms: not required for either.
 - Higher demand means higher value, so cracking upgrades low-value surplus into high-value products.
 - Alkenes from cracking react more readily than alkanes, so they are valuable for making polymers.
 - The catalytic process gives motor fuels and aromatic hydrocarbons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## 3.3.2.3 Combustion
 
@@ -157,6 +180,12 @@ CaCO3 + SO2 → CaSO3 + CO2
 Flue-gas masses are practised in the
 [Group 2 revision notes](/resources/oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## 3.3.2.4 Chlorination of methane
 
 Condition: **UV light**. Mechanism: **free-radical substitution**. Dots for unpaired electrons; curly arrows
@@ -177,6 +206,12 @@ CH₂Cl₂, CHCl₃ and CCl₄. The product is a mixture.
 - More methane relative to chlorine → mainly CH₃Cl.
 - More chlorine relative to methane → more highly substituted products.
 - Two-carbon products (C₂H₆, CH₃CH₂Cl) can only come from termination steps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

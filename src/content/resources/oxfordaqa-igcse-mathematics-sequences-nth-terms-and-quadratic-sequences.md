@@ -96,6 +96,12 @@ Some numbers belong to two families: 1 is in all three, 36 is square and triangu
 
 (b) Estimate: 10³ = 1000 and 12³ = 1728, so try 11. Then 11 × 11 = 121 and 121 × 11 = 1331. So 1331 is the cube of 11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--01-triangular-square-numbers.webp" width="900" height="1035" alt="A 6 by 6 square of dots is split by a diagonal into a 21-dot triangle and a 15-dot triangle, so 15 + 21 = 36 = 6 squared. Below, the triangular numbers 1, 3, 6, 10, 15, 21 grow by adding 2, 3, 4, 5, 6." loading="lazy">
+  <figcaption>Two consecutive triangular numbers add to a square number.</figcaption>
+</figure>
+
+
 ## Arithmetic progressions and linear nth terms (A25 and A26, Core)
 
 In an **arithmetic progression** every term differs from the previous one by a fixed step, called the **common difference**, d. It is positive for an increasing sequence and negative for a decreasing one. It is also called a linear sequence.
@@ -147,6 +153,12 @@ A stack of chairs is 84 cm tall with one chair. Each extra chair adds 7 cm. The 
 
 The heights are 84, 91, 98, ... so d = 7 and the height of n chairs is 7n + 77. Solve 7n + 77 ≤ 250. Then 7n ≤ 173 and n ≤ 24.7. Round down, because you cannot stack part of a chair: **24 chairs**, with height 7(24) + 77 = 245 cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+
 ## Quadratic sequences (A25 and A26, Extension only)
 
 In a **quadratic sequence** the nth term looks like an² + bn + c, with a not zero. Here the first differences keep changing, but the **second differences** (differences between the first differences) stay fixed at **2a**. So a is half of that fixed value.
@@ -194,6 +206,32 @@ The nth term of a sequence is 3n² − n + 2. Is 142 a term? Is 150 a term?
 For 142: 3n² − n + 2 = 142, so 3n² − n − 140 = 0. Using the formula, the discriminant is 1 + 4(3)(140) = 1681 = 41². Then n = (1 ± 41)/6, giving n = 7 or n = −20/3. A position cannot be negative, so n = 7 and 142 is the 7th term. Check: 3(49) − 7 + 2 = 142.
 
 For 150: 3n² − n − 148 = 0 has discriminant 1 + 4(3)(148) = 1777. It is not a perfect square, so n cannot be a whole number and 150 is not in the sequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--04-quadratic-a-three.webp" width="900" height="700" alt="The sequence 4, 12, 26, 46, 72 has first differences 8, 14, 20, 26 and constant second differences 6. Half of 6 gives a = 3. Subtracting 3n squared (3, 12, 27, 48, 75) leaves 1, 0, minus 1, minus 2, minus 3, which is minus n plus 2. The nth term is 3n squared minus n plus 2." loading="lazy">
+  <figcaption>Worked example 8: second difference 6 gives a = 3, and what is left over is linear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--05-quadratic-negative-fractional-a.webp" width="900" height="1146" alt="Two difference tables. For 10, 16, 20, 22, 22 the second differences are all minus 2, so a = minus 1; subtracting minus n squared leaves 11, 20, 29, 38, 47 which is 9n plus 2, giving minus n squared plus 9n plus 2. For 4, 9, 15, 22, 30 the second differences are all 1, so a = one half; subtracting n squared over 2 leaves 3.5, 7, 10.5, 14, 17.5 which is 3.5n, giving n squared over 2 plus 7n over 2." loading="lazy">
+  <figcaption>Halve the second difference even when it is negative or odd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--06-is-it-a-term.webp" width="900" height="850" alt="A graph of the terms of 3n squared minus n plus 2 for positions n from 5 to 8, with the smooth curve. The horizontal line at 142 meets a plotted term exactly at n = 7, so 142 is a term. The horizontal line at 150 meets the curve at n about 7.19, between the 7th and 8th terms, so 150 is not a term. The discriminants are 1681 which is 41 squared, and 1777 which is not a perfect square." loading="lazy">
+  <figcaption>A value is a term only if the line meets the curve at a whole-number position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
 
 ## Common errors
 

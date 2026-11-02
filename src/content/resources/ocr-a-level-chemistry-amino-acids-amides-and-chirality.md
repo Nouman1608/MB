@@ -95,6 +95,12 @@ The nitrogen lone pair accepts a proton, as in the amines of 6.2.1. With dilute 
 
 RCH(NH₂)COOH + HCl → RCH(NH₃⁺)COOH Cl⁻
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+
 ### Worked example 4: methionine and hydrochloric acid
 
 **Task:** write the equation for methionine with dilute HCl, and find the mass of salt from 2.982 g of methionine.
@@ -104,6 +110,12 @@ RCH(NH₂)COOH + HCl → RCH(NH₃⁺)COOH Cl⁻
 3. M(salt) = 149.1 + 36.5 = 185.6 g mol⁻¹, so mass = 0.0200 × 185.6 = **3.71 g**.
 
 A good check: alkali changes only the COOH end; acid only the NH₂ end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
 
 ## 6.2.2(b): primary and secondary amides
 
@@ -130,6 +142,22 @@ The "N-" in a secondary amide's name shows which group sits on the nitrogen. Bot
 3. **C**: N is bonded to the C=O carbon and to a benzene ring carbon. **Secondary amide** (N-phenylbutanamide).
 4. **D**: there is no C=O next to the nitrogen. It is a secondary **amine**, not an amide.
 5. Making **B**: CH₃CH₂CH(CH₃)COCl + 2CH₃CH₂NH₂ → CH₃CH₂CH(CH₃)CONHCH₂CH₃ + CH₃CH₂NH₃⁺Cl⁻. The second mole of ethylamine reacts with the HCl formed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
 
 ## 6.2.2(c): optical isomerism
 
@@ -170,6 +198,12 @@ Glycine is the exception: R is H, so its α-carbon carries two hydrogens and it 
 
 HSW1 and HSW8 point to using the tetrahedral model to explain the isomers and communicating 3-D shape clearly. Optical isomers of complexes with bidentate ligands appear in 5.3.1(f).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
+
 ## 6.2.2(d): finding chiral centres in any molecule
 
 Check each carbon in turn. Rule out any carbon that:
@@ -192,6 +226,17 @@ For the rest, compare whole groups, not just the first atom: methyl and ethyl di
 | 3-methylcyclopentan-1-ol | ring, OH on C1, CH₃ on C3 | 2 | From C1, one route round the ring meets the CH(CH₃) carbon after one CH₂, the other after two; the same unevenness makes C3 chiral |
 
 Compare 4-methylcyclohexan-1-ol: there the two routes round the ring from C1 are identical, so it has no chiral centre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
 
 ## Common errors
 

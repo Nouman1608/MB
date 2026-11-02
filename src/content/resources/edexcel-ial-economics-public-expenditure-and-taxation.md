@@ -53,6 +53,17 @@ Every figure below is invented for illustration. Country J, Country K, Country L
 
 Transfers still matter: recipients spend them, so they raise consumption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--04-three-kinds-of-public-spending.webp" width="900" height="990" alt="A bar for GDP of 2,000bn with the first quarter highlighted as public spending of 500bn, 25 percent of GDP. That 500bn is zoomed into three segments: current expenditure 230bn (46 percent, wages and medicines), capital expenditure 60bn (12 percent, roads, schools and hospitals) and transfer payments 210bn (42 percent, pensions and benefits). Current plus capital, 290bn or 14.5 percent of GDP, is government spending G in aggregate demand. Transfers are not part of G because the state buys no output, but recipients spend them so consumption rises. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>Only current and capital spending count in G; transfers do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+
 ## 1b: Why the size and pattern change
 
 ### Changing incomes
@@ -74,9 +85,21 @@ Different ages need different spending. Each country has 10m people and GDP of 2
 
 An ageing population raises the size of spending and shifts the pattern from education towards pensions and health.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--08-age-structure-and-spending.webp" width="900" height="950" alt="Two stacked bars of public spending, both countries with 10 million people and GDP of 200bn. Country L has 2.5 million people aged 65 or over and 1.5 million children, so pensions and care cost 22.5bn and schooling 7.5bn, a total of 30.0bn or 15.0 percent of GDP. Country M has 0.8 million aged 65 or over and 2.8 million children, so pensions cost 7.2bn and schooling 14.0bn, a total of 21.2bn or 10.6 percent of GDP. An ageing population raises the size of spending and shifts it from education to pensions. Pensions and care cost 9,000 per older person and schooling 5,000 per child. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>An older population raises spending and shifts it from schools to pensions.</figcaption>
+</figure>
+
+
 ### Changing expectations
 
 Voters compare services with those at home in the past and in other countries. If they expect shorter waiting times or better pensions, parties promise them, and spending moves up. Expectations can also fall: if people expect to fund their own retirement, pressure on state pensions eases. International differences in expenditure/GDP therefore reflect incomes, age structure and what each society expects the state to provide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--02-health-share-of-gdp-rises.webp" width="900" height="980" alt="Growth bars show GDP up 20% and health spending up 35%. Two 100-square grids show the health share of GDP rising from 8.0% to 9.0%." loading="lazy">
+  <figcaption>Health spending grows faster than GDP, so its share rises from 8.0% to 9.0%.</figcaption>
+</figure>
+
 
 ## 1c: What spending as a share of GDP means
 
@@ -100,9 +123,21 @@ A higher spending share implies higher taxes, higher borrowing, or both.
 
 Crowding out is weaker with spare capacity and low demand for loans. The spending may even raise private returns, which is "crowding in".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--05-crowding-out-multiplier.webp" width="900" height="970" alt="Two scenarios for Country K, where the multiplier is 2. Without crowding out, an extra 60bn of government spending is multiplied by 2 and output rises by 120bn. With financial crowding out, higher borrowing raises interest rates and private investment falls by 25bn, so the net injection is 35bn and output rises by 70bn, 50bn less. Crowding out offsets 25 divided by 60, which is 41.7 percent, of the stimulus. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>Crowding out of 25 cuts the output gain from 120 to 70.</figcaption>
+</figure>
+
+
 ### Productivity and growth
 
 The composition matters as much as the share. Capital spending on transport or on training can raise productivity and shift long-run aggregate supply right. A high share made up of transfers and waste may not. High taxes to fund it can weaken incentives. Evidence across countries is mixed, so judge each case by what the money buys.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--03-tax-needed-to-fund-spending.webp" width="900" height="910" alt="Two stacked columns of spending as a share of GDP. Now: tax 24.0% plus deficit 1.0%. Target: tax 27.0% plus a 3.0% deficit cap. Tax must rise by 3.0 percentage points." loading="lazy">
+  <figcaption>Spending of 600bn with a deficit cap of 60bn needs tax of 540bn, 27.0% of GDP.</figcaption>
+</figure>
+
 
 ## 2a: Direct and indirect taxes
 
@@ -113,6 +148,12 @@ The composition matters as much as the share. Capital spending on transport or o
 | Who bears it | the person or firm that pays it | shared between buyer and seller |
 
 For an indirect tax the legal payer is the seller, but the burden depends on elasticity. Suppose a good sells at 10 and a tax of 2 per unit raises its price to 11.20. Buyers bear 1.20 (60%), and sellers bear 0.80 (40%). The more inelastic demand is, the more falls on buyers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## 2b: Progressive, proportional, regressive
 
@@ -133,6 +174,12 @@ The **average tax rate** is tax / income. The **marginal tax rate** is the tax o
 On 60,000: 32,000 × 20% = 6,400 and 20,000 × 40% = 8,000, so tax is 14,400. The average rate rises, so the tax is progressive.
 
 Now a sales tax of 10% on goods. The 10,000 earner buys 8,000 of goods and pays 800 (8.0% of income). The 30,000 earner buys 18,000 and pays 1,800 (6.0%). The 60,000 earner buys 30,000 and pays 3,000 (5.0%). The tax is proportional to spending but **regressive** with respect to income, because richer households save more. A fixed 360 fuel licence is also regressive: 3.0% of 12,000 but 0.6% of 60,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--06-average-tax-rate-vs-income.webp" width="900" height="980" alt="A graph with income in thousands on the horizontal axis and average tax rate on the vertical axis for Country K. Income tax, with an allowance of 8,000, 20 percent up to 40,000 and 40 percent above, has an average rate that rises: 4.0 percent at income 10,000, 14.7 percent at 30,000 and 24.0 percent at 60,000, so it is progressive. A 10 percent sales tax, with households spending 8,000, 18,000 and 30,000, takes 8.0, 6.0 and 5.0 percent of income, a falling rate, so it is regressive on income. A fixed 360 fuel licence takes 3.0 percent of an income of 12,000 and 0.6 percent of 60,000, also regressive. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>Income tax is progressive; the sales tax and fixed licence are regressive.</figcaption>
+</figure>
+
 
 ## 2c: Effects of changing tax rates
 
@@ -181,6 +228,12 @@ A tax cut raises disposable income, consumption and aggregate demand. Take a cut
 
 This needs spare capacity. A cut in marginal rates may also raise labour supply and capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--07-tax-cut-with-leakages.webp" width="900" height="1010" alt="A flow showing a 12bn tax cut in Country K. First, 9bn is spent at home, 1.2bn is saved and 1.8bn goes on imports, using a marginal propensity to save of 0.10 and to import of 0.15. The multiplier is 1 divided by the sum of leakages, 0.10 plus 0.15 plus 0.20 for tax, which is 1 divided by 0.45, or 2.22. Output rises by 9 times 2.22, which is 20bn. With output per worker of 80,000, jobs rise by 250,000 if there is spare capacity, while imports rise by 0.15 times 20bn, which is 3bn, worsening the trade balance. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>A 12bn tax cut gives 20bn extra output, 250,000 jobs and 3bn more imports.</figcaption>
+</figure>
+
+
 ### The price level
 
 Indirect taxes raise firms' costs and shift short-run aggregate supply left. If a sales tax rises from 10% to 15% and is fully passed on, a taxed item priced at 100 before tax goes from 110 to 115, a rise of 4.5%. If taxed goods are 60% of the basket, the price level rises by about 2.7%. A direct tax cut raises demand-pull pressure only if capacity is short.
@@ -192,6 +245,22 @@ A tax cut raises income and imports: in the example, imports rise by 0.15 × 20 
 ### FDI flows
 
 Foreign direct investment (FDI) responds to the post-tax return. A firm invests 100 and expects pre-tax profit of 18. At a 30% corporation tax, the return is 12.6%; at 20% it is 14.4%. The cut adds 1.8 percentage points. Other drivers still matter: market size, skills, infrastructure (paid for by taxes) and stability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--01-tax-work-incentive-hours.webp" width="900" height="980" alt="A rectangle diagram of net weekly pay (hours times net wage) showing the 160 lost to a higher tax rate, the substitution effect of working fewer hours and the income effect of working 53.3 hours to restore 640." loading="lazy">
+  <figcaption>Net wage falls from 16 to 12; the income effect needs 53.3 hours to keep 640, the substitution effect pulls hours down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--04-income-shares-after-tax.webp" width="900" height="880" alt="Three 100% bars of income shares for earners on 10,000, 30,000 and 60,000: before tax, after income tax and after income plus sales tax. The top share goes 60.0%, 56.4%, 56.65%." loading="lazy">
+  <figcaption>Income tax cuts the top earner share from 60.0% to 56.4%; the regressive sales tax takes back about 0.2 points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--05-tax-effects-prices-exports-fdi.webp" width="900" height="1056" alt="Three worked examples: a sales tax rise lifts the price level about 2.7%; a 5% export price rise cuts export value from 300bn to 293bn; a lower corporation tax lifts the FDI return from 12.6% to 14.4%." loading="lazy">
+  <figcaption>Three worked examples of how tax changes feed through to prices, export value and FDI returns.</figcaption>
+</figure>
+
 
 ## Evaluation points
 

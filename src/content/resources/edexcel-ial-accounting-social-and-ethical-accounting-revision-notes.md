@@ -82,6 +82,12 @@ Use them to **test** a financial answer. If the figures say "do it" but the non-
 
 **Conflict** is the key word: owner versus employees on wages, owner versus community on relocation, customers versus suppliers on price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--07-cafe-closure.webp" width="900" height="1060" alt="A waterfall for the café: gross profit 54,000 less wages 46,000 leaves 8,000; less apportioned overheads of 12,600 gives a 4,600 loss on paper. Closing it leaves the 63,000 overheads in place, so total profit falls from 53,000 to 45,000." loading="lazy">
+  <figcaption>A department that makes a loss after apportioned overheads can still add to total profit.</figcaption>
+</figure>
+
+
 ## 1.6.4 Ethics: where it arises
 
 | Area of judgement | Unethical push | Concept broken |
@@ -94,6 +100,12 @@ Use them to **test** a financial answer. If the figures say "do it" but the non-
 | Ratios and projections | Showing only good ratios; unrealistic growth | True and fair representation |
 
 Ethical decisions also cover choices that are legal but unfair: unsafe suppliers, deliberate late payment of small suppliers, hiding faults.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
+  <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
+</figure>
+
 
 ## Method in steps: evaluating a decision
 

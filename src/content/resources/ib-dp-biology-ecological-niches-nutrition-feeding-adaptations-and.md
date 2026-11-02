@@ -44,6 +44,12 @@ This guide teaches sub-topic B4.2, Ecological niches, from the IB *Biology guide
 
 A niche is the role a species plays in its ecosystem. It is not the same as a habitat, which is only where the species lives. The niche includes every biotic interaction (feeding, being eaten, competing, parasitism, mutualism, disease) and every abiotic factor (temperature, light, water, pH, salinity, oxygen) that affects the growth, survival and reproduction of the species. How a species obtains its food is a central part of its niche.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--01-niche.webp" width="900" height="890" alt="A pond with a frog shows the habitat, only where the species lives. Below, the frog is at the centre of its niche: biotic interactions (eating, being eaten, competition, parasites, disease, mutualism) and abiotic factors (temperature, light, water, pH, salinity, oxygen) arrow in. How it gets food is central to the niche." loading="lazy">
+  <figcaption>The habitat is where a species lives; the niche is its whole role, biotic and abiotic.</figcaption>
+</figure>
+
+
 ## B4.2.2 Oxygen and nutrition: three tolerance groups
 
 Limit your answer to how the organism copes with oxygen gas in its surroundings.
@@ -61,6 +67,12 @@ Limit your answer to how the organism copes with oxygen gas in its surroundings.
 | R | 0 | 4 | 10 |
 
 P grows only without oxygen, so it is an obligate anaerobe. Q grows at every concentration but best with oxygen, so it is a facultative anaerobe. R cannot grow at 0%, so it is an obligate aerobe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--02-oxygen-tolerance.webp" width="900" height="980" alt="Three tubes open to air show where cultures grow: P only at the bottom, Q throughout and densest at the top, R only at the top. Bar charts give growth at 0, 2 and 21 percent oxygen (P 9, 0, 0; Q 6, 9, 10; R 0, 4, 10), so P is an obligate anaerobe, Q a facultative anaerobe and R an obligate aerobe." loading="lazy">
+  <figcaption>Where a culture grows in a tube, and its growth data, show whether it is an obligate anaerobe, facultative anaerobe or obligate aerobe.</figcaption>
+</figure>
+
 
 ## B4.2.3 to B4.2.7 Modes of nutrition
 
@@ -87,6 +99,17 @@ Autotrophs make organic compounds from inorganic ones. Heterotrophs take in orga
 
 It grows in light without prey (photosynthesis) and in the dark with prey (ingestion), so either mode alone supports growth. It is a facultative mixotroph. Growth is greatest with both modes, 2.4 against 1.1 for light alone, an increase of 118% relative to light alone. If it had failed in the dark even with prey, it would not be a mixotroph that can switch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--03-digestion.webp" width="900" height="900" alt="Top: an animal ingests food, digests it with enzymes in the gut, absorbs it, assimilates it into tissues and egests the remains. Bottom: a fungus secretes digestive enzymes from its branching hyphae onto a dead leaf and absorbs the soluble products, so digestion is outside the body." loading="lazy">
+  <figcaption>Holozoic animals digest inside the body; saprotrophs digest outside and then absorb.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--04-mixotroph.webp" width="900" height="920" alt="Bars show net change in cell number per day: light with prey 2.4, light with no prey 1.1, dark with prey 0.9, dark with no prey minus 0.2. Growth on light alone and on prey alone means it is a facultative mixotroph. Growth with both modes is 118 percent more than with light alone." loading="lazy">
+  <figcaption>Growth on either light or prey alone, and best with both, shows a facultative mixotroph.</figcaption>
+</figure>
+
+
 ## B4.2.8 Dentition and diet in Hominidae
 
 The family Hominidae includes humans and the great apes, and the fossil relatives of both. Theories linking teeth to diet came from observing living mammals: herbivores have broad cheek teeth for grinding tough plant matter, and meat-eaters have sharp teeth for cutting. These theories let you deduce the diet of extinct organisms. That is a good example of the nature of science point that deductions can be made from theories.
@@ -106,6 +129,12 @@ Ratio A = 215 ÷ 48 = **4.48**. Ratio B = 148 ÷ 66 = **2.24**.
 
 A has the larger relative molar area, so it points to more grinding of plant material. B has relatively larger front teeth and smaller cheek teeth, which fits a more mixed diet. State the limits: two teeth measurements suggest diet, they do not prove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--05-dentition.webp" width="900" height="1130" alt="A schematic skull has four numbered features: incisors, canine, molars and premolars, and the jaw and sagittal crest. Two skulls are compared with squares whose areas equal tooth areas: skull A molar 215 and incisor 48 mm2 (ratio 4.48, more grinding of plants), skull B molar 148 and incisor 66 mm2 (ratio 2.24, more mixed diet)." loading="lazy">
+  <figcaption>Tooth size and shape, jaw and crest let you infer a diet, with limits.</figcaption>
+</figure>
+
+
 ## B4.2.9 Herbivores and plants
 
 **Herbivore adaptations.** Leaf-eating insects such as grasshoppers have chewing mouthparts: strong mandibles that cut and grind leaf tissue. Aphids have piercing mouthparts: a stylet pushed into a phloem sieve tube, where the sugar-rich sap flows in under pressure. Some animals also have metabolic adaptations: enzymes that detoxify plant poisons. Koalas, which eat eucalyptus leaves, are often cited.
@@ -118,6 +147,17 @@ Mean low = 107 ÷ 5 = **21.4%**. Mean high = 26 ÷ 5 = **5.2%**.
 Reduction = (21.4 - 5.2) ÷ 21.4 × 100 = **75.7%**.
 
 High toxin content is associated with much less herbivory, so toxins protect the plant. The ranges do not overlap (3 to 8 against 12 to 30), which strengthens the conclusion. Plants were not shown to differ only in toxin, so say "associated with".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--06-mouthparts.webp" width="900" height="1085" alt="A grasshopper has mandibles that cut and grind leaf tissue. An aphid pushes a stylet through the epidermis into a phloem sieve tube where sugar-rich sap flows under pressure. A scale bar shows worked example 7: a 54 mm drawing at x30 magnification is 54 / 30 = 1.8 mm actual." loading="lazy">
+  <figcaption>Chewing mandibles cut leaf; a piercing stylet taps phloem sap; magnification links drawing to actual size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--07-toxin.webp" width="900" height="990" alt="Three plant defences are shown: spines and thorns, tough cuticle and hairs, toxins such as alkaloids and tannins. A dot plot gives percentage of leaf area eaten: low-toxin plants 18, 25, 12, 30, 22 (mean 21.4) and high-toxin plants 4, 6, 3, 8, 5 (mean 5.2), a reduction of 75.7 percent with no overlap in ranges." loading="lazy">
+  <figcaption>Plants with high toxin content lose far less leaf area, so toxins protect the plant.</figcaption>
+</figure>
+
 
 ## B4.2.10 Predators and prey
 
@@ -143,6 +183,12 @@ Light is often the limiting resource in a forest. The guide asks for these strat
 
 **Worked example 5.** Light above the canopy is 1800 µmol photons m⁻² s⁻¹ (data supplied). Only 1.5% reaches the forest floor. Light at the floor = 1800 × 0.015 = **27 µmol m⁻² s⁻¹**, which is 1/66.7 of the canopy value. Only plants that can photosynthesise at this level will grow there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--08-forest-light.webp" width="900" height="1000" alt="A forest section shows a canopy tree with a tall woody trunk, a liana rooted in soil climbing a host, an epiphyte on a branch, a strangler epiphyte with roots to the soil, and shade-tolerant shrubs with large thin leaves. A bar shows light falling from 1800 to 27 micromoles of photons per square metre per second (1.5 percent) on the floor." loading="lazy">
+  <figcaption>Different plant forms reach or tolerate the very different light levels in a forest.</figcaption>
+</figure>
+
+
 ## B4.2.12 and B4.2.13 Fundamental and realized niches, competition
 
 The **fundamental niche** is the full potential of a species, set by its adaptations and tolerance limits, with no competitors. The **realized niche** is the part actually occupied when competing species are present. The realized niche is usually smaller.
@@ -161,6 +207,12 @@ X change = (150 - 480) ÷ 480 × 100 = **-68.8%**. Y change = (410 - 520) ÷ 520
 Neither is eliminated, so both are restricted to a smaller realized niche. X is affected much more, so Y is the stronger competitor in these conditions.
 
 **Worked example 7.** Magnification. A drawing of an aphid stylet is 54 mm long. The magnification is ×30. Actual length = 54 ÷ 30 = **1.8 mm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--09-niches-competition.webp" width="900" height="1150" alt="Two bell curves of resource use show dashed fundamental niches and smaller filled realized niches where species overlap (illustrative). A tank experiment shows X falling from 480 to 150 (minus 68.8 percent) and Y from 520 to 410 (minus 21.2 percent): neither is eliminated and Y is the stronger competitor." loading="lazy">
+  <figcaption>Competition leaves each species with a smaller realized niche than its fundamental niche.</figcaption>
+</figure>
+
 
 ## Common errors
 

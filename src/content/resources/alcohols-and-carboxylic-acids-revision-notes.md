@@ -63,6 +63,27 @@ is what produces ethanol.
 | Advantages | uses a **renewable** raw material; low temperature, so less energy for heating | **fast**; **continuous** process; gives **pure** ethanol |
 | Disadvantages | **slow**; **batch** process; gives a **dilute, impure** mixture that must be distilled; needs land to grow crops | uses **non-renewable** ethene from petroleum; high temperature and pressure need a lot of energy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--01-two-routes-to-ethanol.webp" width="900" height="1000" alt="Top: a sealed flask of glucose and yeast at 25-35 C with no oxygen gives dilute ethanol, and carbon dioxide leaves through a tube. Bottom: ethene and steam pass over an acid catalyst in a reactor at 300 C and 6000 kPa to give pure ethanol." loading="lazy">
+  <figcaption>Fermentation is sealed, mild and makes dilute ethanol; steam and ethene need 300 C, 6000 kPa and an acid catalyst.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--02-fermentation-vs-hydration.webp" width="900" height="1010" alt="Two columns compare fermentation and steam plus ethene: plants (renewable) versus crude oil (not renewable); slow versus fast; a dilute mixture versus pure ethanol; and mild 25-35 C versus 300 C and 6000 kPa." loading="lazy">
+  <figcaption>Neither route is simply better: renewable and mild but slow and dilute, or fast and pure but energy-intensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
+</figure>
+
+
 ## Combustion and uses of ethanol
 
 Ethanol burns in oxygen to give carbon dioxide and water:
@@ -75,6 +96,12 @@ Uses: as a **solvent** and as a **fuel**.
 water, for example propan-1-ol:
 
     2C₃H₇OH + 9O₂ → 6CO₂ + 8H₂O
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--03-ethanol-combustion.webp" width="900" height="950" alt="Ball models show one ethanol molecule and three oxygen molecules turning into two carbon dioxide and three water molecules, releasing heat. Both sides contain 2 carbon, 6 hydrogen and 7 oxygen atoms. Ethanol is used as a fuel and as a solvent." loading="lazy">
+  <figcaption>Burning ethanol makes carbon dioxide and water and releases heat; ethanol is a fuel and a solvent.</figcaption>
+</figure>
+
 
 ## Reactions of ethanoic acid (11.7)
 
@@ -122,6 +149,12 @@ in **-oate**.
 
 The syllabus limits naming to unbranched esters from alcohols and acids with up to four carbon atoms
 each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
+  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
+</figure>
+
 
 ## Exam traps
 

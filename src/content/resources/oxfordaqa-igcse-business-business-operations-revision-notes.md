@@ -49,6 +49,17 @@ Method to choose a method: ask how many items, how similar they are, how much cu
 - JIT: little or no stock, materials arrive when needed.
 - Kaizen: continuous improvement, meaning many small changes put forward by employees at every level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--11-batch-shift-timeline.webp" width="900" height="780" alt="A timeline of an 8-hour oven shift: three 2-hour batches of 240 loaves separated by two 30-minute changeovers, using 7 hours and leaving 1 hour unused. Output is 720 loaves and the oven is idle during each changeover." loading="lazy">
+  <figcaption>Batch production fits three batches in an 8-hour shift, but the oven is idle during changeovers.</figcaption>
+</figure>
+
+
 ## 3.3.2 The role of procurement
 
 ### JIT versus buffer stock
@@ -59,6 +70,12 @@ Method to choose a method: ask how many items, how similar they are, how much cu
 | Buffer stock | Spare stock to meet unexpected demand or cover late deliveries | Storage, insurance, risk of damage or going out of date, cash tied up |
 
 Evaluate JIT for a given business: weigh the savings against extra delivery cost and lost economies of scale, then check reliability of suppliers and how predictable demand is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--01-jit-net-cost.webp" width="900" height="840" alt="Two columns compare JIT extra costs (1,800 deliveries plus 1,440 lost discount, 3,240) with the 216 buffer holding cost saved. The net extra cost of JIT is 3,024 a year." loading="lazy">
+  <figcaption>On these figures JIT costs the bakery 3,024 a year more.</figcaption>
+</figure>
+
 
 ### Choosing a supplier
 
@@ -71,6 +88,12 @@ Evaluate JIT for a given business: weigh the savings against extra delivery cost
 Formula reminder (standard form): cost per usable unit = price / (1 - proportion unusable).
 
 Worked reminder. Price 3.60 with 10% unusable: 3.60 / 0.90 = 4.00 per usable unit. A rival at 3.90 with 2% unusable: 3.90 / 0.98 = 3.98. The dearer-looking price is cheaper per usable unit, by about 0.02.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--02-supplier-usable-metre.webp" width="900" height="910" alt="Two grids of 100 metres show 5 wasted from Supplier A and 1 from Supplier B. Cost per usable metre is 4.21 for A and 4.24 for B, so A is about 0.03 cheaper unless late deliveries matter under JIT." loading="lazy">
+  <figcaption>The cheapest price is not always the cheapest cost per usable metre.</figcaption>
+</figure>
+
 
 ## 3.3.3 The concept of quality
 
@@ -95,6 +118,17 @@ Total quality management: every employee in every department is responsible for 
 | Costs | Benefits |
 |---|---|
 | Better materials, training, equipment, checking | Fewer returns, stronger reputation, loyalty, possibly higher prices |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--03-tqm-year-one.webp" width="900" height="850" alt="Returns cost 7,200 now. With a 5,000 programme returns cost 2,400, total 7,400. The 4,800 saving is 200 short of the programme cost in year one, before reputation gains." loading="lazy">
+  <figcaption>On direct costs alone the programme is 200 short in year one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-business-operations--04-helpline-value.webp" width="900" height="954" alt="40 customers (5% of 800) at 180 each is 7,200 kept, against a 6,000 help line, so the gain is 1,200, though the 5% is an estimate." loading="lazy">
+  <figcaption>The help line keeps 7,200 of value for a 6,000 cost.</figcaption>
+</figure>
+
 
 ### Quality as the business grows
 
@@ -125,6 +159,17 @@ Good service has costs too: training, staff time and systems.
 | Websites | Information, FAQs, order tracking, live chat at any hour |
 | E-commerce | Buying online at any time; wider market; needs delivery and returns to work |
 | Social media | Fast two-way contact and feedback; replies are public |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## Applying the topic to a case study
 

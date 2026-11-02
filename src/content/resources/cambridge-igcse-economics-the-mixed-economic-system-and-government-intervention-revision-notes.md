@@ -55,6 +55,12 @@ These revision notes cover section 2.11 (the mixed economic system and governmen
 - **Currency market:** price = units of foreign currency per unit of the home currency. Demand comes from exports, foreign investors and tourists; supply comes from imports and investment abroad. Illustrative: Qd = 500 − 100P, Qs = 100 + 100P gives P = 2, Q = 300. A floor of 2.40 leaves 80 in excess supply, so the central bank spends 80 × 2.40 = 192 from reserves. A ceiling of 1.60 leaves excess demand of 80, so it sells 80 zeds and gains 128.
 - **Chain for any control:** price set away from equilibrium, so quantity demanded and supplied differ, so a shortage or surplus appears, so someone must ration, store or fund the gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--01-fx-floor-and-ceiling.webp" width="900" height="1360" alt="A minimum price of 2.40 leaves 80m zeds in excess supply that the central bank must buy; a maximum price of 1.60 leaves excess demand of 80m that it must meet by selling zeds. Quantities are read off D (Qd = 500 - 100P) and S (Qs = 100 + 100P), with equilibrium at 2 and 300m. Axes are zoomed and do not start at zero." loading="lazy">
+  <figcaption>A floor or ceiling on a currency forces the central bank to buy or sell the gap.</figcaption>
+</figure>
+
+
 ## Method for tax and subsidy diagrams
 
 1. Find the original equilibrium.
@@ -65,6 +71,17 @@ These revision notes cover section 2.11 (the mixed economic system and governmen
 6. Split the burden or benefit: consumers = change in market price × new quantity; producers = the remainder.
 
 **Reminder (illustrative):** Qd = 120 − 6P, Qs = −30 + 9P, tax 3. New equilibrium P = 11.8, Q = 49.2. Revenue = 147.6. Consumers pay 1.8 more per unit and producers keep 1.2 less per unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--09-indirect-tax-incidence.webp" width="900" height="770" alt="Supply shifts up by 3; price rises from 10 to 11.8, quantity falls from 60 to 49.2; consumers bear 88.56 and producers 59.04." loading="lazy">
+  <figcaption>Of the 147.6 tax raised, consumers bear 88.56 and producers 59.04.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Key formulas
 
@@ -86,6 +103,12 @@ These revision notes cover section 2.11 (the mixed economic system and governmen
 - **Privatisation:** public to private ownership. Possible gains: efficiency, competition, sale proceeds. Possible losses: unprofitable services cut, higher prices, private monopoly.
 - **Nationalisation:** private to public ownership. Possible gains: protects essential services, no private monopoly. Possible losses: taxpayer funds losses, less cost pressure.
 - **Direct provision:** government supplies the good, funded by taxes. Suits public goods (no one can be excluded) and merit goods. Cost: opportunity cost, possible waste, tax burden.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--10-ownership-transfer.webp" width="900" height="680" alt="Privatisation and nationalisation arrows between public and private sectors with two benefits and two drawbacks each." loading="lazy">
+  <figcaption>Each transfer of ownership has two possible benefits and two drawbacks.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -109,6 +132,12 @@ Use a short chain: measure, how it works, intended result, side effect, judgemen
 - Direct provision guarantees supply but depends on the government's information and the quality of its management.
 - Government failure: intervention can itself misallocate resources.
 - Finish with a judgement that names a condition: "This works best when...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -155,3 +184,24 @@ Use a short chain: measure, how it works, intended result, side effect, judgemen
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, Cambridge University Press & Assessment (Cambridge International), version 2, section 2.11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+

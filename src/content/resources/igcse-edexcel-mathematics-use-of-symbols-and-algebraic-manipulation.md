@@ -56,6 +56,12 @@ negative and zero powers
   writing 2x² + 6x − 1 in the form a(x + b)² + c
   - E: using algebra to support and construct proofs
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--04-factorise-ax2-split.webp" width="900" height="880" alt="Product 6 x (-6) = -36 and sum -5 give -9 and +4, so 6x squared - 5x - 6 splits into 6x squared - 9x + 4x - 6, which fills a grid with columns 2x and -3 and rows 3x and +2. It factorises to (3x + 2)(2x - 3)." loading="lazy">
+  <figcaption>When a is not 1, multiply a by c and split the middle term.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Index notation (2.1) with fractional, negative and zero powers is
@@ -82,6 +88,22 @@ denominator for addition or subtraction — so a weakness in basic
 factorising will surface here even if 2.2B itself feels secure. Revise
 2.2C only after 2.2B is genuinely fluent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--03-expand-three-brackets.webp" width="900" height="880" alt="An area grid multiplies x squared + 5x + 6 by (x - 1): the cells x cubed, 5x squared, 6x, minus x squared, minus 5x and minus 6 collect to x cubed + 4x squared + x - 6. Check at x = 2 gives 20 both ways." loading="lazy">
+  <figcaption>Expand two brackets first, then multiply the result by the third.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+
 ## Worked example: completing the square
 
 Write 2x² + 6x − 1 in the form a(x + b)² + c.
@@ -101,6 +123,12 @@ adjustment term (−2.25 here) by the factored-out coefficient (2) before
 combining it with the constant already outside the bracket — checking
 this step specifically is worth building into a standard routine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--05-complete-square-a2-graph.webp" width="900" height="940" alt="The parabola y = 2x squared + 6x - 1 has its lowest point at (-1.5, -5.5) on the line x = -1.5 and crosses the y axis at -1. Completing the square gives a = 2, b = 1.5, c = -5.5, the turning point." loading="lazy">
+  <figcaption>The completed-square form reads off the turning point (-b, c).</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Applying an index law to terms with different bases, when the rules for
@@ -111,6 +139,17 @@ fraction as though they were multiplicative factors, which is not valid.
 Forgetting to multiply an adjustment term by the factored-out
 coefficient when completing the square, as shown in the worked example
 above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
 
 ## Worked example: algebraic fraction subtraction
 
@@ -134,6 +173,17 @@ Expanding each bracket fully before combining, and keeping the
 subtraction of the second numerator's whole expression (not just its
 first term) are the two steps most often rushed and got wrong under
 exam pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--09-algebraic-fraction-subtract-linear.webp" width="900" height="1040" alt="Step 1: common denominator (x + 2)(x − 1), multiplying each numerator by the other denominator. Step 2: expand to 3x² − 2x − 1 and x² − 4, subtract the whole second bracket to get 2x² − 2x + 3. Result (2x² − 2x + 3)/((x + 2)(x − 1)), checked at x = 3." loading="lazy">
+  <figcaption>Use the product of the linear denominators, expand, and subtract the whole second numerator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

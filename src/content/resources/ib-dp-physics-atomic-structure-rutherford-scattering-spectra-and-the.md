@@ -56,6 +56,12 @@ The conclusion is the nuclear model: a tiny, dense, positively charged nucleus h
 
 The foil is thin so most alpha particles meet at most one nucleus, and the chamber is evacuated so air does not scatter them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--01-rutherford-scattering.webp" width="900" height="1280" alt="Top: alpha particles from a source hit thin gold foil in a vacuum chamber; most go straight through, a few scatter widely and a very few come almost back, detected by a screen. Bottom: computed paths past one nucleus give 23, 40, 80, 131 and 167 degree deflections. The atom is mostly empty with a tiny, dense, massive, positive nucleus." loading="lazy">
+  <figcaption>Most alpha particles pass almost undeflected, a few scatter widely and a rare few bounce nearly back, revealing a tiny dense nucleus.</figcaption>
+</figure>
+
+
 ## Nuclear notation
 
 A nuclide is written as ᴬ_Z X, with the nucleon number A at the top left, the proton number Z at the bottom left and the chemical symbol X.
@@ -67,6 +73,12 @@ A nuclide is written as ᴬ_Z X, with the nucleon number A at the top left, the 
 **Worked example 1.** A nuclide of strontium is written ⁸⁸₃₈Sr. State its numbers of protons, neutrons and (if neutral) electrons.
 
 Protons = Z = 38. Neutrons = A − Z = 88 − 38 = **50**. A neutral atom has as many electrons as protons, so **38** electrons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--02-nuclear-notation.webp" width="900" height="830" alt="The nuclide Sr-88 is written with A = 88 and Z = 38. A bar of 88 nucleons splits into 38 protons and 50 neutrons; a neutral atom has 38 electrons. N = A - Z = 50." loading="lazy">
+  <figcaption>A, Z and N for strontium-88, with the neutral atom's electrons equal to its protons.</figcaption>
+</figure>
+
 
 ## Spectra and discrete energy levels
 
@@ -95,9 +107,26 @@ f = E/h = 6.72 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **1.01 × 10¹⁵ Hz**.
 
 With four levels, every pair can give a line: 4 × 3 / 2 = **6** lines. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--04-emission-jumps.webp" width="900" height="1050" alt="Six downward arrows join every pair of levels of the four-level atom (-5.4, -3.1, -1.2, 0 eV). A table lists each photon energy and wavelength; the -1.2 to -5.4 eV jump gives 4.2 eV, 1.01e15 Hz and 296 nm. Four levels give six lines." loading="lazy">
+  <figcaption>Each emitted photon carries the energy difference between two levels; four levels allow six lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--05-absorption-match.webp" width="900" height="900" alt="Top: a 4.2 eV photon equals the gap from -5.4 to -1.2 eV and is absorbed. Bottom: a 3.0 eV photon matches none of the gaps (2.3, 4.2, 5.4 eV) and passes through." loading="lazy">
+  <figcaption>An atom absorbs a photon only if its energy exactly equals a gap above its current level.</figcaption>
+</figure>
+
+
 ### Composition from spectra
 
 Each element has its own set of energy levels, so its set of line wavelengths is like a fingerprint. Matching the lines in a spectrum to laboratory spectra of known elements shows which elements are present. In a star, light from the hot interior passes through cooler outer gas. Atoms in that gas absorb their own characteristic wavelengths, leaving dark lines in the star's spectrum. The pattern of dark lines identifies the elements in the star's atmosphere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--03-three-spectra.webp" width="900" height="1070" alt="Three strips on one wavelength axis: a hot solid gives all colours; an excited gas gives bright lines on dark; white light through cool gas gives dark lines at the same three wavelengths. Dark lines in a star identify its elements." loading="lazy">
+  <figcaption>Absorption dark lines fall at the same wavelengths as the gas's emission lines.</figcaption>
+</figure>
+
 
 ## Nuclear size and density (HL only)
 
@@ -123,6 +152,12 @@ The A cancels, so the density is the same for all nuclei:
 
 The implication to state: nuclear matter is closely packed, and the density is far greater than that of ordinary solids.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--06-nuclear-size-density.webp" width="900" height="1090" alt="Two nuclei drawn to scale from R = 1.2 A^(1/3) fm: A = 27 has R = 3.6 fm and A = 216 has R = 7.2 fm, twice as large for eight times the nucleons. Nuclear density 3u/(4 pi R0^3) = 2.3e17 kg per cubic metre, the same for all nuclei." loading="lazy">
+  <figcaption>Eight times the nucleons gives only twice the radius, and the density is the same for every nucleus.</figcaption>
+</figure>
+
+
 ## Closest approach and high-energy scattering (HL only)
 
 At the energies used here only the electric force acts, so energy conservation is enough.
@@ -144,6 +179,12 @@ R = 1.2 × 58^(1/3) = 4.6 fm. Since d is almost three times R, the alpha particl
 E_k = 2kZe² / R, which for nickel is 2 × 28 × 1.44 MeV fm / 4.6 fm ≈ **17 MeV**
 
 (using ke² = 1.44 MeV fm, which follows from the constants above).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--07-closest-approach.webp" width="900" height="1140" alt="Potential energy of an alpha near a nickel nucleus falls as 1/r. A 6.0 MeV alpha stops at 13.4 fm, about 2.9 times the 4.6 fm nuclear radius, so only the electric force acts. At about 17 MeV d equals R and the strong force begins to matter." loading="lazy">
+  <figcaption>A 6 MeV alpha stops 13.4 fm from a nickel nucleus, well outside it; about 17 MeV is needed to reach the surface.</figcaption>
+</figure>
+
 
 ## The Bohr model for hydrogen (HL only)
 
@@ -170,6 +211,17 @@ E₄ = −13.6/16 = −0.85 eV. E₂ = −13.6/4 = −3.40 eV.
 mvr = h/2π, so v = h / (2π m r) = 6.63 × 10⁻³⁴ / (2π × 9.11 × 10⁻³¹ × 5.29 × 10⁻¹¹) = **2.19 × 10⁶ m s⁻¹**.
 
 Absorption works in reverse: a 10.2 eV photon is absorbed by a ground-state hydrogen atom (n = 1 to n = 2), but an 11.0 eV photon is not absorbed, because 11.0 eV does not match any gap. The model suits hydrogen, not atoms with more electrons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--08-bohr-orbits.webp" width="900" height="1170" alt="Three allowed circular orbits n = 1, 2, 3 around a nucleus, radii in ratio 1:4:9, not to scale in particle size. Angular momentum mvr = nh/2pi and E = -13.6/n^2 eV; the ground state r = 5.29e-11 m gives v = 2.19e6 m/s." loading="lazy">
+  <figcaption>Only orbits with angular momentum nh/2pi exist, each with energy -13.6/n^2 eV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-atomic-structure-rutherford-scattering-spectra-and-the--09-hydrogen-levels.webp" width="900" height="1000" alt="Hydrogen levels at -13.6/n^2 eV crowd towards 0. The n = 4 to 2 jump emits 2.55 eV, 488 nm. A 10.2 eV photon takes n = 1 to 2 and is absorbed; 11.0 eV would land at -2.6 eV, not a level, so it is not absorbed." loading="lazy">
+  <figcaption>Photon energy equals the gap between Bohr levels, so 10.2 eV is absorbed from n = 1 but 11.0 eV is not.</figcaption>
+</figure>
+
 
 ## Common errors
 

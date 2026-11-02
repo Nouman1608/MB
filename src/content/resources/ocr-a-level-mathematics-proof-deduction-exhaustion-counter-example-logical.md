@@ -92,6 +92,12 @@ a/b + c/d = (ad + bc)/(bd)
 
 ad + bc is an integer, and bd is a non-zero integer because b and d are non-zero. So the sum is a ratio of two integers with a non-zero denominator, which is rational.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--01-proof-anatomy.webp" width="900" height="680" alt="A 7 by 7 grid with a 5 by 5 square in one corner shows 7² − 5² = 24 left over. Beside it are the three parts of a proof: assume 2n+1 and 2n+3, show (2n+3)² − (2n+1)² = 8(n+1), conclude a multiple of 8 for every n. For n = 2 this is 49 − 25 = 24 = 8 × 3." loading="lazy">
+  <figcaption>A proof starts from stated assumptions, makes valid steps and ends with a conclusion that holds for every n.</figcaption>
+</figure>
+
+
 ### Proof by exhaustion
 
 Split all the possibilities into a **finite** list of cases and prove each one. The cases must cover everything. There are two common types.
@@ -122,6 +128,17 @@ If 30 = a² + b² with a and b positive, then each of a² and b² is less than 3
 ```
 
 None of 29, 26, 21, 14 or 5 is a square. Every case fails, so 30 is not the sum of two positive squares.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--02-two-odd-letters.webp" width="900" height="820" alt="A 4 by 4 table shows p + q for odd p and q from 1, 3, 5, 7: all sixteen sums are even. The diagonal cells, where p = q, hold only 2, 6, 10 and 14, which is all that one letter 2n+1 used twice could cover. Using 2m+1 and 2n+1 gives 2(m+n+1) for every pair." loading="lazy">
+  <figcaption>Two different odd numbers need two different letters; using one letter only covers the diagonal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--03-remainder-lanes.webp" width="900" height="1075" alt="The integers 0 to 39 are arranged in four columns by remainder on division by 4. Squares sit only in the 4k and 4k+1 columns. Cubes (OCR only) sit in 4k, 4k+1 and 4k+3 but never 4k+2." loading="lazy">
+  <figcaption>Every integer lies in one of four remainder lanes, so four cases cover them all.</figcaption>
+</figure>
+
 
 ## 1.01b Logical connectives
 
@@ -164,6 +181,12 @@ Both directions hold, so ab is odd ⇔ a and b are both odd.
 
 A frequent error is to prove one direction only and write "iff" in the conclusion. Mark each direction clearly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--04-squaring-implication.webp" width="900" height="955" alt="The line y = x meets the upper curve y = √(x+2) at (2, 2), a true solution. Squaring brings in the lower branch y = −√(x+2), which the line meets at (−1, −1), an extra root. Check every answer in the original equation, because squaring gives ⇒ only." loading="lazy">
+  <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
+</figure>
+
+
 ## 1.01c Disproof by counter-example
 
 To disprove a statement of the form "if P(x) is true then Q(x) is true", find **one** value of x where P(x) is true and Q(x) is false. That single case is enough. Check both halves: show that P holds and that Q fails.
@@ -187,6 +210,22 @@ Some points to remember:
 - Ten successes prove nothing. One failure disproves everything.
 - A counter-example must be a case the statement covers. For "n is a positive integer", n = 0.5 is not allowed.
 - You need not explain how you found the counter-example. You must show that it works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
+  <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--09-multiple-of-three-gap.webp" width="900" height="690" alt="On a number line from 93 to 108 the multiples of 3 are filled. 6m + 9n = 3(2m + 3n) is always one of them, but 100 = 3 × 33 + 1 sits between 99 and 102, so no integers m, n exist." loading="lazy">
+  <figcaption>Every value of 6m + 9n is a multiple of 3, and 100 is not.</figcaption>
+</figure>
+
 
 ## 1.01d Proof by contradiction (A Level only)
 
@@ -214,6 +253,12 @@ So p² is even. If p were odd, p² would be odd, so p is even. Write p = 2r.
 
 So q² is even, and so q is even. Now p and q are both even, so they share the factor 2. This contradicts the assumption that they have no common factor. Hence √2 is irrational.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
+
 ### Proof that there are infinitely many primes
 
 Suppose there are only finitely many primes, p₁, p₂, ..., pₖ. Define
@@ -235,6 +280,12 @@ Suppose log₂ 3 = p/q, where p and q are positive integers. (Both are positive 
 ```
 
 2^p is even, since p ≥ 1. 3^q is odd, since it is a product of odd numbers. An even number cannot equal an odd number. This is a contradiction, so log₂ 3 is irrational.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--08-infinite-primes.webp" width="900" height="880" alt="Six primes 2 to 13 each leave remainder 1 into N = 30031. N = 59 × 509, two primes not on the list. N need not be prime, only have a prime factor missing from the list." loading="lazy">
+  <figcaption>Multiplying the listed primes and adding 1 always yields a prime factor not on the list.</figcaption>
+</figure>
+
 
 ## Common errors
 

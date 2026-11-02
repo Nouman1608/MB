@@ -46,6 +46,37 @@ These notes condense section 3.4.10 (Recombinant DNA technology) of the OxfordAQ
 - The transferred DNA can be translated in the recipient because the genetic code and the mechanisms of transcription and translation are universal.
 - Write it as: a codon specifies the same amino acid in donor and recipient cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--01-restriction-sticky-ends.webp" width="900" height="975" alt="Four steps show a DNA duplex with the palindromic site GAATTC. The enzyme cuts after the G in each strand, leaving AATT single-stranded sticky ends. Plasmid and gene ends cut with the same enzyme anneal by hydrogen bonds, and DNA ligase then forms phosphodiester bonds across the two nicks." loading="lazy">
+  <figcaption>Cutting both DNA molecules with the same enzyme gives matching sticky ends, and ligase seals the backbone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--02-recombinant-plasmid.webp" width="900" height="1120" alt="A plasmid of 4700 bp is cut once and a 1150 bp gene cut with the same enzyme is ligated in to give a 5850 bp recombinant plasmid. The gene arc is drawn in proportion to its size. A promoter and terminator flank the gene and an antibiotic-resistance marker gene is on the vector." loading="lazy">
+  <figcaption>A recombinant plasmid carries the gene with a working promoter and terminator, plus a marker gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
+  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--05-pcr-cycle.webp" width="900" height="1230" alt="A temperature trace shows 95 C, about 60 C and 72 C plateaus. Three panels show one cycle: heat separates the strands, primers anneal to the 3 prime end of each template, and Taq polymerase extends each primer 5 prime to 3 prime. A bar chart shows copies doubling each cycle, from 4 to 256 in 6 cycles." loading="lazy">
+  <figcaption>Each PCR cycle denatures, anneals and extends, doubling the number of DNA molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
+</figure>
+
+
 ## 3.4.10.2 Three ways to make a fragment
 
 | Method | Starting material | Key points |

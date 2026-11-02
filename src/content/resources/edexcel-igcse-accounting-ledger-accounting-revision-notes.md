@@ -36,6 +36,12 @@ Links: [Edexcel IGCSE Accounting course hub](/boards/edexcel/igcse/accounting/),
 
 Cash sales and cash purchases need no personal account. They stay in the nominal ledger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
+  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
+</figure>
+
+
 ## Writing the purpose of a ledger (2.3a)
 
 A purpose answer needs what the ledger holds and why that helps the business. Model sentences:
@@ -56,6 +62,27 @@ A purpose answer needs what the ledger holds and why that helps the business. Mo
 | Income (sales, purchases returns) | Credit | Debit |
 
 Memory aid: assets, expenses and drawings go up on the debit side. Everything else goes up on the credit side. Money in is a debit to Bank or Cash. Money out is a credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--01-ledger-which-side.webp" width="900" height="816" alt="Two columns show which account types increase on the debit side (assets, expenses, drawings) and which on the credit side (liabilities, capital, income), with examples. A note says a customer is an asset debited when it owes the business and a supplier is a liability credited when the business owes it." loading="lazy">
+  <figcaption>Debit increases assets, expenses and drawings; credit increases liabilities, capital and income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--02-ledger-kiran-entries.webp" width="900" height="1028" alt="Thirteen May transactions are shown as the account debited, an arrow, the account credited and the amount. The debits and the credits each total 72,500." loading="lazy">
+  <figcaption>Each of Kiran's thirteen transactions is entered once as a debit and once as a credit, so both totals are 72,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--04-ledger-customer-supplier.webp" width="900" height="1060" alt="Hina Caterers (customer, receivables ledger) is debited 4,800 and credited 400 and 2,400, leaving 2,000 Dr brought down. Bashir Metals (supplier, payables ledger) is credited 6,500 and debited 500 and 3,000, leaving 3,000 Cr brought down." loading="lazy">
+  <figcaption>A customer account grows on the debit side and a supplier account on the credit side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--03-read-balances.webp" width="900" height="882" alt="Two bar charts in dollars. Kirtle Clay (supplier): bought 3,100, returned 300, paid 2,000, 800 still owed (credit balance). Garnet Row Hotel (customer): sold 2,250, returned 250, paid 1,500, 500 still owed to us (debit balance)." loading="lazy">
+  <figcaption>A credit balance on a supplier means we owe; a debit balance on a customer means they owe us.</figcaption>
+</figure>
+
 
 ## Standard entries to know
 
@@ -81,6 +108,12 @@ Memory aid: assets, expenses and drawings go up on the debit side. Everything el
 3. Use the table to choose debit or credit.
 4. Enter the date, the name of the other account and the amount on that side. Do it in both accounts.
 5. At the end of the period, total each side, insert the Balance c/d on the smaller side, show equal totals, then bring the balance down on the other side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--03-ledger-balance-bank.webp" width="900" height="902" alt="Kiran's Bank account: debits of 40,000 and 2,400, credits of 9,000, 1,200, 1,000 and 3,000. The credit side takes Balance c/d 28,200 so both sides total 42,400, and 28,200 is brought down on the debit side as Balance b/d. Four numbered steps match the layout." loading="lazy">
+  <figcaption>Balancing Bank: add each side, level the totals, enter Balance c/d, bring it down as Balance b/d.</figcaption>
+</figure>
+
 
 ## Worked reminder: Sadiq Stationers, June
 

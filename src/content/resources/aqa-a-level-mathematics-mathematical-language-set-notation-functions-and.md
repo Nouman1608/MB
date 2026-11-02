@@ -141,6 +141,12 @@ The graph of f has a horizontal asymptote y = 3, so the range of f is f(x) ≠ 3
 
 **Example 7 (composite).** f(x) = x − 5 for x ∈ ℝ, and g(x) = √x for x ≥ 0. Then gf(x) = g(f(x)) = √(x − 5). The input to g must be at least 0, so x − 5 ≥ 0 and the domain of gf is x ≥ 5. Its range is gf(x) ≥ 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--09-multiple-of-three-gap.webp" width="900" height="690" alt="On a number line from 93 to 108 the multiples of 3 are filled. 6m + 9n = 3(2m + 3n) is always one of them, but 100 = 3 × 33 + 1 sits between 99 and 102, so no integers m, n exist." loading="lazy">
+  <figcaption>Every value of 6m + 9n is a multiple of 3, and 100 is not.</figcaption>
+</figure>
+
+
 ## 4. Critiquing arguments (OT1.5)
 
 To critique an argument, find the first line that does not follow from the lines before, and say exactly why. Common faults:
@@ -166,6 +172,12 @@ Critique: squaring can create solutions of a different equation. Check each in t
 **Example 11 (a proof with a gap).** "The sum of five consecutive integers is a multiple of 5, because 3 + 4 + 5 + 6 + 7 = 25." This is one example. A valid proof: n + (n + 1) + (n + 2) + (n + 3) + (n + 4) = 5n + 10 = 5(n + 2), which is a multiple of 5 for every integer n, since n + 2 is an integer.
 
 When asked to justify a formula or method, show why each step is allowed, and give any conditions it needs (for instance, a ≠ 0, or x > 0).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--04-squaring-implication.webp" width="900" height="955" alt="The line y = x meets the upper curve y = √(x+2) at (2, 2), a true solution. Squaring brings in the lower branch y = −√(x+2), which the line meets at (−1, −1), an extra root. Check every answer in the original equation, because squaring gives ⇒ only." loading="lazy">
+  <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
+</figure>
+
 
 ## Common errors
 

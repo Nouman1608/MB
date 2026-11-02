@@ -49,6 +49,17 @@ Formulas: total variable cost = variable cost per unit x output. Total cost = fi
 
 **Reminder.** A product earns 4 800 in revenue, with 3 900 of variable costs and 1 500 of fixed costs charged to it. Contribution is 900, but the product shows a loss of 600 once the fixed costs are included. If the 1 500 would be paid anyway, stopping increases the loss to 1 500, so continue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--09-scarf-stop-or-continue.webp" width="900" height="950" alt="A waterfall takes revenue of 18,000 dollars, subtracts variable costs of 13,000 for a 5,000 contribution, then fixed costs of 7,000 for a 2,000 loss. Stopping loses the full 7,000, so the line should continue for now." loading="lazy">
+  <figcaption>Continuing loses $2,000; stopping loses $7,000, so continue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+
 ## 4.2.2 Scale of production
 
 **Economies of scale:** the fall in cost per unit that comes when the business operates on a larger scale. **Diseconomies of scale:** average cost rises when a business becomes too large.
@@ -72,6 +83,22 @@ Formulas: total variable cost = variable cost per unit x output. Total cost = fi
 - Say "average cost" or "cost per unit", never just "costs", for economies of scale.
 - Economies of scale come from growing the scale of production. They are not the same as a one-off price cut.
 - The usual shape of the average cost curve: falls, flat at the lowest point, then rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--07-pellbright-average-cost.webp" width="900" height="870" alt="Average cost per litre from the lesson data falls from 1.20 to 0.80 dollars as output rises to 40,000 litres, then rises to 0.97 at 120,000 litres. The U shape marks economies then diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls, bottoms at 40,000 litres, then rises: a U shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--01-scale-economies-types.webp" width="900" height="1020" alt="Five economies of scale (purchasing, marketing, financial, managerial, technical) that lower average cost, and three diseconomies (poor communication, lack of commitment, weak coordination) that raise it." loading="lazy">
+  <figcaption>The five economies and three diseconomies of scale, each with a short picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
 
 ## 4.2.3 Break-even analysis
 
@@ -124,6 +151,32 @@ The syllabus does not print these formulas, so they are the standard forms. Use 
 - It normally covers a single product.
 - Forecasts may be inaccurate and the picture is out of date quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--08-kite-break-even-mos.webp" width="900" height="970" alt="A break-even chart for Ostenfield Kites with fixed cost 33,000 dollars, total cost and revenue lines crossing at 3,000 kites and 54,000 dollars. Expected sales of 3,800 kites sit 800 kites above break-even, a margin of safety of 21.1% of expected sales." loading="lazy">
+  <figcaption>Break-even is 3,000 kites; expecting 3,800 gives a margin of safety of 800 kites (21.1%).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--02-kite-price-rise.webp" width="900" height="1044" alt="Break-even chart for Ostenfield Kites showing total cost, revenue at $18 and revenue at $20. Break-even falls from 3,000 to 2,539 kites; profit is 8,800 at the old plan and 9,900 at the new plan." loading="lazy">
+  <figcaption>A price rise to $20 lowers break-even to 2,539 kites and lifts profit from 8,800 to 9,900.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--03-break-even-limits.webp" width="900" height="1060" alt="Four small charts compare what break-even analysis assumes with what can happen: bulk discounts bend revenue, bulk buying flattens cost, a new factory steps up fixed costs, and unsold stock still costs money. Two more limits are one product only and reliance on forecasts." loading="lazy">
+  <figcaption>Break-even assumptions against what can really happen (illustrative shapes).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Define variable costs.
@@ -164,6 +217,12 @@ For a calculation, write the formula, substitute the figures, then give the answ
 - Stopping a product because it makes a loss, without checking contribution or whether the fixed costs would remain.
 - Copying the case study's facts without applying them to the question asked.
 - Listing limitations of break-even without explaining why each one matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--06-fixed-cost-shared.webp" width="900" height="860" alt="Two stacked bars show cost per candle. At 3,000 candles fixed costs add 4.00 dollars each, at 6,000 candles 2.00 dollars, while variable cost stays 4.00, so average cost falls from 8.00 to 6.00 dollars." loading="lazy">
+  <figcaption>Fixed costs are shared over more candles, so average cost falls.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

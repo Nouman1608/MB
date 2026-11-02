@@ -104,6 +104,12 @@ The emf at any instant is the gradient of the flux linkage–time graph, and the
 
 A steeper line gives a bigger emf, and a flat line gives none, however large the flux linkage is. The area under an emf–time graph over an interval equals the change in flux linkage in that interval.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
+  <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Idea | Compare |

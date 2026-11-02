@@ -91,6 +91,27 @@ Stage 2 (rectangle):  8 x 10        = 80 m
 Total distance                       = 105 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--05-same-shape.webp" width="900" height="975" alt="Four small graphs compare the same line shapes. A sloping line is constant speed on a distance-time graph but constant acceleration on a speed-time graph. A flat line is rest on distance-time but constant speed on speed-time." loading="lazy">
+  <figcaption>The same line shape means different things on the two graphs.</figcaption>
+</figure>
+
+
 ## Free fall
 
 - Acceleration of free fall **g = 9.8 m/s²**.
@@ -98,6 +119,12 @@ Total distance                       = 105 m
 - With air resistance: drag rises with speed until drag = weight, resultant force = 0, and the object falls at constant **terminal velocity**.
 - On a speed–time graph, terminal velocity is where the curve **flattens** — the object does not slow down.
 - A skydiver's speed–time graph before and after the parachute opens shows: a rising curve that flattens as the object approaches its (higher) terminal velocity in free fall, then a sharp drop in speed the instant the parachute opens (drag suddenly increases), followed by the curve flattening again at a much lower terminal velocity for the rest of the descent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--06-free-fall.webp" width="900" height="920" alt="A ball dropped from rest is shown at 0, 1, 2 and 3 seconds with gaps that grow. Its downward speed is 9.8, 19.6 and 29.4 m/s, so it gains 9.8 m/s each second." loading="lazy">
+  <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
+</figure>
+
 
 ## Exam traps
 
@@ -123,3 +150,9 @@ Total distance                       = 105 m
 **Answers:** 1. a = (25 − 5)/8 = **2.5 m/s²**. 2. Distance travelled. 3. Rising curve flattening to terminal velocity, sharp drop when the parachute opens, then flattening to a lower terminal velocity. 4. Velocity is a vector; direction is changing continuously, so velocity changes and there is acceleration. 5. The object is stationary — distance is not changing. 6. Distance = **400 m**; displacement = **0 m**, since the runner returns to the starting point. 7. 25 m (triangle) + 80 m (rectangle) = **105 m**.
 
 For the full worked explanations behind every example above, see the [Kinematics and Motion Graphs study guide](/resources/kinematics/); for exam-style questions with full mark schemes, see the [Kinematics practice questions](/resources/kinematics-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+

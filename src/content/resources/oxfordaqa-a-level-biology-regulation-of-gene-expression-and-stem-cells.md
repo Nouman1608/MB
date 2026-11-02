@@ -66,6 +66,12 @@ Conclusion: as methylation rises, mRNA falls, so higher methylation is associate
 
 A drug stops acetyl groups being removed from histones. Acetylation of histones near gene G rises from 100 to 240 units, an increase of (240 − 100) / 100 × 100 = 140%. mRNA from gene G rises from 15 to 66 units: 66 / 15 = 4.4 times, or a 340% increase. The explanation links the steps: more acetyl groups, weaker attraction between histones and DNA, looser DNA, more access for RNA polymerase, more transcription.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+
 ## Cancer, oncogenes and tumour suppressor genes (3.4.9.1)
 
 Cancer is uncontrolled cell division. Two groups of genes control the cell cycle.
@@ -91,6 +97,12 @@ The specification asks you to interpret information on how understanding these g
 
 In a study, 190 of 1,250 carriers of a tumour suppressor gene variant developed cancer by age 70, against 320 of 6,400 non-carriers. Carriers: 190 / 1,250 × 100 = 15.2%. Non-carriers: 320 / 6,400 × 100 = 5.0%. Relative risk = 15.2 / 5.0 = 3.04, so carriers were about three times as likely to develop cancer. Most carriers (84.8%) did not. A positive result raises risk; it does not predict cancer, and the study shows association, not the mechanism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
+
 ## RNA interference (3.4.9.2)
 
 **MicroRNA (miRNA)** and **small interfering RNA (siRNA)** are short lengths of RNA, about 20 to 25 nucleotides long. They attach to mRNA made from target genes and change its activity, which is why the process is called RNA interference. Each is loaded into a protein complex, which uses the small RNA as a guide to find mRNA with a complementary sequence.
@@ -106,6 +118,12 @@ Because the effect depends on a matching sequence, one miRNA can affect several 
 ### Worked example 5: designing an siRNA
 
 Target mRNA segment: AUGCCAUUGGCACGUUAGCCU. A guide strand pairs by complementary bases (A with U, G with C). Written against the mRNA in the same left-to-right order, the guide is **UACGGUAACCGUGCAAUCGGA**, which is 21 nucleotides. Cells without the siRNA made 18.4 units of the encoded protein and cells with it made 4.6 units. The fall is (18.4 − 4.6) / 18.4 × 100 = **75%**. Some protein remains, so the gene is "knocked down", not deleted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ## Stem cells and potency (3.4.9.3)
 
@@ -131,6 +149,12 @@ Use a balanced structure.
 ### Worked example 6: a trial
 
 In a trial, 78 of 120 treated patients improved, against 45 of 120 controls. Treated: 78 / 120 × 100 = 65.0%. Controls: 45 / 120 × 100 = 37.5%. The difference is 27.5 percentage points. The treatment looks beneficial, but 37.5% of controls also improved, so some benefit may be a placebo or natural recovery effect. You would also want the number of patients, how they were chosen and follow-up time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
 
 ## Common errors
 

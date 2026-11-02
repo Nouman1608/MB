@@ -111,6 +111,17 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 
 **Context matters:** the specification says measures such as labour productivity vary in different contexts. Labour-intensive services score lower on output per employee than automated production, so compare like with like.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--02-hr-measures.webp" width="900" height="1040" alt="Six measures radiate from an average of 190 staff: productivity 400 items each, sales per employee 50,000 pounds, profit per employee 6,000 pounds, employee costs 28 percent of revenue, labour cost 35 pounds per item and labour turnover 20 percent." loading="lazy">
+  <figcaption>One average headcount feeds every HR data measure in the worked example.</figcaption>
+</figure>
+
+
 ## 3.2.2.3 Organisational design
 
 | Term | Meaning |
@@ -129,6 +140,12 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 
 **Delayering:** for -- lower salary costs, faster communication, more responsibility lower down. Against -- fewer promotion steps, overloaded managers, lost experience, insecurity among remaining staff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+
 ## 3.2.2.4 Motivation
 
 **Theories at a glance**
@@ -145,6 +162,17 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 
 **Choosing a method:** nature of the work, ability to measure output, cost, management style, workforce expectations and culture. Assess effectiveness with HR data (turnover, productivity, absence) before and after.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--06-vroom.webp" width="900" height="910" alt="Effort leads to performance, which leads to a reward. Motivation is high only if the person expects effort to produce performance and performance to produce a reward they value." loading="lazy">
+  <figcaption>Vroom: motivation depends on expecting effort to lead to a valued reward.</figcaption>
+</figure>
+
+
 ## 3.2.2.5 Employer-employee relations
 
 - **Employee involvement:** better decisions and commitment. Methods: consultation, trade unions, employee forums. Extent depends on management style, size, urgency, legislation and staff skills.
@@ -152,6 +180,12 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 - **Employee actions:** withdraw cooperation, work to rule, leave, strike, overtime ban.
 - **Resolution:** participation, bargaining, arbitration.
 - **Managing HR:** technology (recruitment, nature of work, skills, remote working); people management and competitiveness; links with operations, marketing and finance; ethics (unsafe conditions, low pay).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -162,6 +196,12 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 - **Consultation v bargaining:** asking for views v negotiating an agreement.
 - **Bargaining v arbitration:** the two sides negotiate v an independent third party settles.
 - **Work to rule v overtime ban:** obeying every rule to slow work v refusing extra hours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

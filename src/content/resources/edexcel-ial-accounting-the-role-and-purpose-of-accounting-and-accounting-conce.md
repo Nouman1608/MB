@@ -73,6 +73,17 @@ A rise in trade payables suits a manager who wants cheap credit, but worries a s
 
 Recording gave the raw figures, analysis produced gross profit and the percentage, and the table communicates them to the owner. Gross profit rose by 1,600 but the percentage fell by three points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--06-record-analyse-communicate.webp" width="900" height="870" alt="Record, analyse and communicate shown with the Ishgrove Bikes figures. Month 1 gross margin is 38.0 percent on 40,000 revenue and month 2 is 35.0 percent on 48,000. At a 38 percent margin month 2 cost of sales would be 29,760, so 1,440 more was spent." loading="lazy">
+  <figcaption>Raw records become analysed margins, which are communicated and then questioned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+
 ## 1.1.2 The purpose of accounting information: an aid to management
 
 Managers use accounting information for five purposes. Tie each to a real figure.
@@ -84,6 +95,12 @@ Managers use accounting information for five purposes. Tie each to a real figure
 - **Safeguarding assets.** Accurate records of inventory, receivables and cash make loss and fraud easier to spot.
 
 **Worked example: using the figures.** At Ishgrove Bikes the fall from 38.0% to 35.0% needs explaining. Had month 2 kept the 38% margin, cost of sales would have been 48,000 x 0.62 = 29,760. Actual cost of sales was 31,200, so 1,440 more was spent on bikes and parts than the earlier margin predicts. The manager can now ask pointed questions: did parts prices rise, were discounts given, or was inventory wasted? Without the analysis the extra cost would sit unnoticed inside a rising revenue figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--10-ial-management-purposes.webp" width="900" height="962" alt="Five purposes: planning, controlling, decision making, assessing performance and safeguarding assets. For Ishgrove Bikes, expected cost of sales is 29,760 against actual 31,200, a 1,440 difference, and margin fell from 38.0 to 35.0 percent." loading="lazy">
+  <figcaption>Managers use accounting information for five purposes, shown with the Ishgrove Bikes figures.</figcaption>
+</figure>
+
 
 ## 1.1.8 Going concern, prudence, accruals and consistency
 
@@ -118,6 +135,22 @@ A December electricity bill of 340 arrives in January. The electricity was used 
 
 Worked example. A trader sells 100 units for 2,000. Opening units cost 10 each and later purchases cost 12 each. FIFO gives cost of sales 1,000 and gross profit 1,000. LIFO gives 1,200 and 800. The 200 difference comes from the policy alone, so the policy should not flip without reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-going-concern-oven.webp" width="900" height="810" alt="An oven with a carrying value of 9,000 dollars stays at 9,000 if trading continues. If the owner will close next month and the oven would sell for 3,500, the 5,500 fall means going concern is no longer suitable." loading="lazy">
+  <figcaption>The going concern assumption keeps assets at carrying value; closure changes that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--10-fifo-lifo-consistency.webp" width="900" height="820" alt="100 units are sold for 2,000 dollars. With opening units at 10 and later purchases at 12, FIFO gives cost of sales 1,000 and profit 1,000, while LIFO gives 1,200 and 800. The 200 difference comes from the policy alone." loading="lazy">
+  <figcaption>Changing policy alone can move profit by 200, so policies must stay consistent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
+
 ## 1.1.9 Historic cost, materiality, money measurement, realisation, business entity
 
 **Historic cost.** Assets are recorded at what was paid for them, not at current market value. This is objective and checkable from an invoice, but in a period of rising prices it can understate asset values.
@@ -137,6 +170,32 @@ Worked example. Orlow Games takes an order on 20 March for goods priced at 1,000
 **Business entity.** The owner and the business count as two distinct parties, and the business books hold business dealings only. When the owner takes goods for personal use, it is not an expense of the business.
 
 Worked example. The owner of Orlow Games takes games that cost 150 as a gift. Debit drawings 150, credit purchases 150. Profit is unaffected by the withdrawal, but capital falls by 150.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-realisation-timeline.webp" width="900" height="800" alt="A timeline from a 20 March order and 22 March 100 dollar deposit to delivery on 2 April and the 900 balance on 20 April, with a 31 March year end. No revenue is recognised before delivery and the deposit is a liability; the 1,000 is April revenue." loading="lazy">
+  <figcaption>Revenue is recognised when goods are supplied, not when ordered or paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-historic-cost-land.webp" width="900" height="790" alt="Land bought for 80,000 dollars is now valued at 140,000 by an agent. The books keep 80,000, so the 60,000 rise is not recorded." loading="lazy">
+  <figcaption>Historic cost records the price paid, not the current market value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--06-ial-materiality.webp" width="900" height="826" alt="A 14 dollar stapler is 0.0027 percent of 520,000 revenue and is expensed at once. A 9,500 machine is 15.3 percent of 62,000 profit and is a non-current asset." loading="lazy">
+  <figcaption>Materiality compares an item with revenue or profit to decide how to record it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-ial-business-entity.webp" width="900" height="660" alt="The owner takes games costing 150 dollars. The business records debit Drawings 150 and credit Purchases 150. Profit is unaffected but capital falls by 150." loading="lazy">
+  <figcaption>Goods taken by the owner are drawings, not a business expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-ial-money-measurement.webp" width="900" height="836" alt="Items with a money amount, such as land bought for 80,000 or a machine for 9,500, are recorded. Workforce skill, loyal customers and reputation have no reliable amount and are not recorded." loading="lazy">
+  <figcaption>Only items that can be measured in money are recorded.</figcaption>
+</figure>
+
 
 ## 1.1.10 International Accounting Standards (IAS)
 
@@ -162,6 +221,12 @@ The specification states that "Examiners will use the IAS terms throughout Unit 
 | Allowance for irrecoverable debts | Provision for doubtful debts |
 
 Two specific standards link directly to concepts here. IAS 2 deals with inventories and requires the lower of cost and net realisable value, which is prudence applied. IAS 7 deals with the statement of cash flows, which you meet in Unit 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-ial-ias-terms.webp" width="900" height="1106" alt="Ten IAS terms are paired with their older terms, from statement of financial position (balance sheet) to allowance for irrecoverable debts (provision for doubtful debts). IAS 2 requires lower of cost and NRV; IAS 7 covers cash flows." loading="lazy">
+  <figcaption>Learn the IAS term and its older equivalent; IAS 2 and IAS 7 link to prudence and cash flows.</figcaption>
+</figure>
+
 
 ## Common errors
 

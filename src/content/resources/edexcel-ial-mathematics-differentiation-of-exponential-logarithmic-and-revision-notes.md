@@ -79,6 +79,12 @@ y = sec 3x:  dy/dx = 3 sec 3x tan 3x
 y = tan² 2x:  dy/dx = 2 tan 2x × 2 sec² 2x = 4 tan 2x sec² 2x
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
+
 ## 4.3 Inverse relationship
 
 **dy/dx = 1 / (dx/dy)**
@@ -101,6 +107,22 @@ y = tan² 2x:  dy/dx = 2 tan 2x × 2 sec² 2x = 4 tan 2x sec² 2x
 - Evaluate a model by substituting a time and comparing with data. Refine it by changing the form so that it behaves sensibly for large t.
 
 **Reminder.** For N = 300e^(−0.05t): initial value 300, rate at t = 0 is −15, half-life = ln 2 / 0.05 = 13.9 (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
 
 ## Rebuilding results you forget
 

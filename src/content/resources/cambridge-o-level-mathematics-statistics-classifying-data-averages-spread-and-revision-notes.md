@@ -57,6 +57,12 @@ These notes condense sections 9.1 to 9.4 of the Cambridge O Level Mathematics (S
 3. Repeat until the table is full.
 4. Check the grand total from both directions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--02-goals-frequency-table.webp" width="900" height="1010" alt="Bar chart of goals in 25 matches with the mode at 2 and the mean 47/25 = 1.88 marked. A strip of the 25 ordered matches shows the 13th value is 2, the median." loading="lazy">
+  <figcaption>From a frequency table: multiply value by frequency for the mean, find the (n+1)/2 th value for the median.</figcaption>
+</figure>
+
+
 ## 9.3 Averages and spread
 
 | Measure | Method | Good for | Weakness |
@@ -103,11 +109,23 @@ Estimated mean = 290 ÷ 20 = 14.5
 Modal class = 10–20
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--03-grouped-mean-waiting-times.webp" width="900" height="870" alt="Waiting times of 40 customers in five classes of width 5. Midpoints 2.5 to 22.5 times frequencies total 485, so the estimated mean is 12.125, about 12.1 minutes. The modal class is 10 &lt; t &lt;= 15." loading="lazy">
+  <figcaption>Use class midpoints, not boundaries, so the grouped mean is only an estimate.</figcaption>
+</figure>
+
+
 ### Worked reminder: the effect of an outlier
 
 Values: 3, 4, 4, 6, 8, 9. The sum is 34, so the mean is 34 ÷ 6 = 5.67 (3 s.f.) and the median is (4 + 6) ÷ 2 = 5.
 
 Now add the value 60. The sum becomes 94 and the mean becomes 94 ÷ 7 = 13.4 (3 s.f.), more than double. The ordered list is 3, 4, 4, 6, 8, 9, 60, so the median is the fourth value, 6. The median moved by 1 and the mean by almost 8. That is why the median is the better "typical value" when an extreme value is present.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
 
 ## 9.4 Charts
 
@@ -141,11 +159,28 @@ Forty-eight people choose a drink: tea 18, juice 12, coffee 10, water 8. One per
 Tea 135°, Juice 90°, Coffee 75°, Water 60°  (total 360°)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--04-composite-and-dual-bars.webp" width="900" height="1040" alt="Hot and cold canteen lunches over five days as a composite bar chart (totals 65, 65, 70, 80, 75) and a dual bar chart. Friday is the only day cold beats hot." loading="lazy">
+  <figcaption>A composite chart shows totals, a dual chart compares the two groups directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--05-pie-chart-angles.webp" width="900" height="830" alt="Pie chart of 72 pupils choosing a sport. Each pupil is 5 degrees, giving sectors of 120, 90, 60, 45 and 45 degrees. A 75 degree sector stands for 15 pupils." loading="lazy">
+  <figcaption>Each sector angle is frequency divided by total, times 360 degrees.</figcaption>
+</figure>
+
+
 ## 9.2 Interpreting data
 
 * Quote figures from the chart or table, not just the shape.
 * **Compare:** one comment on an average, one on spread, each in context.
 * **Limits on conclusions:** small or biased sample, grouped data hides detail, averages hide spread, a chart does not prove cause, scales can mislead, predictions beyond the data are unreliable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
+  <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

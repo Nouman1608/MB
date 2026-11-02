@@ -40,6 +40,12 @@ The brief calls the lenses "conceptually more demanding" and says HL students mu
 
 The brief's assessment objective 3 asks you to evaluate the "political, economic, ethical and sociocultural contexts of issues". The lenses are the HL toolkit for doing that well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--01-three-lenses.webp" width="900" height="780" alt="An issue from Topics 1 to 8 branches into three lenses. The law lens asks which rules apply, who must obey them and who enforces them. The economics lens asks how the issue is valued, who pays the costs and who gets the benefits. The ethics lens asks who or what counts and which principles justify an action. Recommended HL hours are 5 for law, 7 for economics and 5 for ethics." loading="lazy">
+  <figcaption>Each lens is a set of questions you bring to an issue you already know.</figcaption>
+</figure>
+
+
 ## What this unit covers
 
 | Lens (brief label) | Recommended hours (HL) | What to practise |
@@ -58,9 +64,21 @@ Only the hours come from the brief. The [ESS syllabus guide](/resources/ib-dp-en
 - **National law** is passed by a country's legislature: for example, air-quality standards, species protection, or requiring an **environmental impact assessment (EIA)** before large projects.
 - **Local law** includes by-laws and planning rules, such as city low-emission zones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--02-levels-of-law.webp" width="900" height="850" alt="Three bands show levels of law. International law is agreed between states: the Ramsar Convention 1971, CITES 1973, the Montreal Protocol 1987 and the Paris Agreement 2015. National law is passed by a legislature: requiring an environmental impact assessment before large projects, air-quality standards and species protection. Local law is by-laws and planning rules, such as city low-emission zones." loading="lazy">
+  <figcaption>Laws are made at international, national and local level.</figcaption>
+</figure>
+
+
 ### Hard and soft law
 
 **Hard law** is legally binding and enforceable, for example a national pesticide ban. **Soft law** is guidance, declarations and voluntary targets, working through reputation and peer pressure rather than penalties. The Paris Agreement mixes the two: countries must submit and update climate pledges (nationally determined contributions), but there is no penalty for missing the targets in them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--01-ess-hard-soft-paris.webp" width="900" height="680" alt="A bar splits into soft law on the left and hard law on the right. Soft law is guidance, declarations and voluntary targets that work through reputation and peer pressure. Hard law is legally binding and enforced by penalties, for example a national pesticide ban. Below, the Paris Agreement of 2015 sits across both halves: countries must submit and update their climate pledges (nationally determined contributions), which is hard law, but there is no penalty for missing the targets in those pledges, which is soft law." loading="lazy">
+  <figcaption>Soft law works through reputation; hard law through penalties; the Paris Agreement mixes both.</figcaption>
+</figure>
+
 
 ### Principles you should be able to name
 
@@ -112,6 +130,12 @@ Indirect share = 340,000 / 575,000 x 100               = 59.1%
 
 Judged only on timber and fish (20.9% of TEV), clearing it for shrimp farms would look far better than it is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--03-tev-mangrove.webp" width="900" height="840" alt="A stacked column shows a mangrove valued at 575,000 US dollars a year. From the bottom: direct use 120,000 (20.9 percent), indirect use 340,000 (59.1 percent), option value 30,000, existence value 60,000 and bequest value 25,000. Use value is 490,000 and non-use value is 85,000. A market price sees only the direct use, 20.9 percent of the total. The data are fictional." loading="lazy">
+  <figcaption>Most of the mangrove’s value (59.1%) is indirect use, which market prices miss.</figcaption>
+</figure>
+
+
 ### Economic tools
 
 - **Pigouvian (environmental) tax:** a tax per unit of pollution, such as a carbon tax.
@@ -133,6 +157,22 @@ The factory abates while a tonne costs less to cut than to tax (25 < 40) and sto
 
 **Worked example 3 — cap-and-trade.** Two firms must cut 1,000 t between them. Firm A abates at USD 20 per tonne, firm B at USD 50 per tonne. An equal split costs 500 × 20 + 500 × 50 = USD 35,000. If B buys permits from A and A makes all 1,000 t of cuts, the cost is 1,000 × 20 = USD 20,000. The same cut is achieved for USD 15,000 less. The permit price settles between USD 20 and USD 50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--04-carbon-tax-abatement.webp" width="900" height="900" alt="Graph of cost in US dollars per tonne against tonnes of carbon dioxide cut. The factory can cut its first 5,000 tonnes at 25 per tonne and further cuts cost 60 per tonne. A tax of 40 per tonne makes the first 5,000 tonnes worth cutting (25 is less than 40) and the rest worth paying tax on (60 is more than 40). Cutting costs 125,000, tax on the remaining 7,000 tonnes is 280,000, total 405,000 against 480,000 with no cuts, a saving of 75,000." loading="lazy">
+  <figcaption>The factory cuts the first 5,000 t because 25 is less than the 40 tax, saving USD 75,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--05-cap-and-trade-two-firms.webp" width="900" height="790" alt="Two firms must cut 1,000 tonnes between them. Firm A abates at 20 US dollars per tonne and firm B at 50. An equal split costs 10,000 for A plus 25,000 for B, 35,000 in total. If B buys permits from A and A makes all the cuts, the cost is 20,000, which saves 15,000. The permit price settles between 20 and 50 dollars per tonne." loading="lazy">
+  <figcaption>Letting the cheaper abater do the cutting achieves the same cut for 15,000 less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--03-ess-tax-vs-cap.webp" width="900" height="905" alt="Two graphs of marginal abatement cost (MAC), drawn with illustrative numbers: the cost per tonne of cutting emissions rises with the amount cut, as MAC = 8 x cut now, and MAC = 5 x cut if cutting becomes cheaper. Top graph, a carbon tax of 40 per tonne: the price is fixed, and the amount cut varies, from 5 thousand tonnes now to 8 thousand when cuts are cheaper. Bottom graph, a cap fixing the cut at 5 thousand tonnes: the quantity is fixed, and the permit price varies, from 40 now to 25 when cuts are cheaper." loading="lazy">
+  <figcaption>A tax fixes the price and lets the quantity cut vary; a cap fixes the quantity and lets the price vary.</figcaption>
+</figure>
+
+
 ### Discounting
 
 Economists **discount** future costs and benefits: a sum received later is worth less today. Present value = future value ÷ (1 + r)ᵗ, where r is the discount rate and t the number of years.
@@ -147,6 +187,17 @@ r = 5%:  1,000,000 / 1.05^50 = 87,204 USD
 
 A higher rate makes long-term harm look small. Choosing the rate is partly an ethical choice about how much future people matter, which links to HL.c.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--06-discounting-present-value.webp" width="900" height="790" alt="Graph of present value in US dollars against years from now for 1,000,000 dollars of damage avoided in year 50. At a 1 percent discount rate the present value is 608,039, at 3 percent 228,107 and at 5 percent 87,204. A higher discount rate makes long-term harm look smaller. Present value equals future value divided by one plus r to the power t." loading="lazy">
+  <figcaption>The higher the discount rate, the smaller the present value of damage 50 years away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--02-ess-environmental-vs-ecological.webp" width="900" height="828" alt="Two pictures side by side. In environmental economics the environment is drawn as one part inside the economy; the main problem is market failure because prices leave out environmental costs; sustainability is weak, meaning natural capital can be replaced by human-made capital; typical solutions price the harm with taxes, permits and cost-benefit analysis. In ecological economics the economy is drawn as a subsystem inside the biosphere; the main problem is that the economy is too big for Earth's limits; sustainability is strong, meaning critical natural capital cannot be replaced; typical solutions set physical limits first, such as steady-state or doughnut models and the circular economy." loading="lazy">
+  <figcaption>Environmental economics puts the environment inside the economy; ecological economics puts the economy inside the biosphere.</figcaption>
+</figure>
+
+
 ## HL.c Environmental ethics
 
 ### Ethical theories
@@ -154,6 +205,12 @@ A higher rate makes long-term harm look small. Choosing the rate is partly an et
 - **Consequentialism** (for example utilitarianism): the right action produces the best overall outcome. Cost-benefit analysis is a consequentialist tool.
 - **Deontology:** some duties and rights hold whatever the outcome, for example a duty not to destroy a species or a right to clean water.
 - **Virtue ethics:** asks what a good person would do, and stresses traits such as care, restraint and humility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--04-ess-ethical-theories.webp" width="900" height="830" alt="Three rows. Consequentialism, for example utilitarianism, is drawn as a balance scale and asks which choice gives the best overall outcome; cost-benefit analysis is a consequentialist tool. Deontology is drawn as a no-entry sign and asks whether an action breaks a duty or a right; duties hold whatever the outcome, such as a duty not to destroy a species. Virtue ethics is drawn as a person with a heart and asks what a good person would do, stressing care, restraint and humility." loading="lazy">
+  <figcaption>Each theory asks a different question about the same decision.</figcaption>
+</figure>
+
 
 ### Who counts morally?
 
@@ -165,6 +222,12 @@ A higher rate makes long-term harm look small. Choosing the rate is partly an et
 | Ecocentric | Whole ecosystems, species and processes (Aldo Leopold's land ethic, 1949; Arne Naess's deep ecology, 1973) | Ecocentrism |
 
 **Intrinsic value** means valuable in itself; **instrumental value** means valuable for what it does for someone. Review the value systems in [Topic 1: Foundations](/resources/ib-dp-ess-topic-1-foundations/) first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--07-moral-standing-rings.webp" width="900" height="1020" alt="Four nested circles show who counts morally. The innermost is anthropocentric, humans only. Next is sentientist, all beings that can feel pain (Peter Singer, 1975). Then biocentric, every living organism (Paul Taylor, 1986). The outermost is ecocentric, whole ecosystems, species and processes (Aldo Leopold, 1949; Arne Naess, 1973)." loading="lazy">
+  <figcaption>Moral standing widens from humans only to whole ecosystems.</figcaption>
+</figure>
+
 
 ### Justice
 
@@ -178,6 +241,12 @@ A higher rate makes long-term harm look small. Choosing the rate is partly an et
 Take overfishing, from Topic 4. Through the **law** lens, coastal states control fishing in exclusive economic zones up to 200 nautical miles offshore under UNCLOS, but the high seas are much harder to police. Through the **economics** lens, an open-access fishery is a tragedy of the commons; tradable catch quotas turn a share of the catch into an asset worth protecting. Through the **ethics** lens, a utilitarian weighs jobs today against stocks tomorrow, an ecocentrist argues the marine ecosystem has intrinsic value, and a justice view asks whether small-scale fishers lose out when quotas are sold to large fleets.
 
 A strong HL answer links the lenses: a law works only if the economics give people reason to obey it, and ethics decide what the law should aim for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--05-ess-overfishing-three-lenses.webp" width="900" height="1075" alt="Law: a coastline with sea out to 200 nautical miles, the exclusive economic zone, where the coastal state controls fishing under UNCLOS; beyond it the high seas are hard to police. Economics: in an open-access fishery every boat takes more and the stock is overused (the tragedy of the commons); tradable catch quotas turn a share of the catch into an asset worth protecting. Ethics: a utilitarian weighs jobs now against stocks later, an ecocentrist says the marine ecosystem has intrinsic value, and a justice view asks whether small-scale fishers lose out when quotas are sold to large fleets." loading="lazy">
+  <figcaption>Overfishing looked at through law, economics and ethics.</figcaption>
+</figure>
+
 
 ## Common errors
 

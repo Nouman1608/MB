@@ -45,6 +45,12 @@ Course navigation: [IB DP Economics hub](/boards/ib/ib-dp/economics/), the [prin
 3. The supply curve slopes upward.
 4. Only the good's **own price** slides you **along** the curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+
 ## HL only: assumptions behind the law
 
 | Assumption | One-line explanation |
@@ -56,6 +62,12 @@ Course navigation: [IB DP Economics hub](/boards/ib/ib-dp/economics/), the [prin
 
 **Worked reminder (HL only; illustrative).** A workshop pays 90 tarns per worker per day. The third worker adds 15 units. Marginal cost per unit = 90 ÷ 15 = 6 tarns. If the fourth adds only 9, marginal cost = 90 ÷ 9 = 10 tarns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply--11-sup-bakery-marginal-cost.webp" width="900" height="1221" alt="Marginal product falls from 24 to 6 loaves, so cost per loaf (120 / marginal product) rises from 5 to 20. A price covering marginal cost gives the upward supply curve through 24, 44, 59, 71, 79 and 85 loaves." loading="lazy">
+  <figcaption>Diminishing returns raise marginal cost, which is why supply slopes upward.</figcaption>
+</figure>
+
+
 ## Individual to market supply
 
 Method in steps:
@@ -66,6 +78,12 @@ Method in steps:
 4. Plot the totals. The market curve sits further right than any single firm's curve.
 
 **Worked reminder.** At a price of 5, firm P supplies 20, firm Q supplies 35 and firm R supplies 15. Market supply = 20 + 35 + 15 = 70.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply--10-sup-market-supply-sum.webp" width="900" height="904" alt="Supply curves for Arlo, Brin, Cato and the market. At 6 tarns 30 + 25 + 15 = 70 thousand litres; at 10 tarns the total is 130. Market supply is the horizontal sum." loading="lazy">
+  <figcaption>Market supply is found by adding firms' quantities at each price.</figcaption>
+</figure>
+
 
 ## The six non-price determinants
 
@@ -85,6 +103,27 @@ Method in steps:
 
 **Memory hook.** Anything that raises cost per unit shifts S left. Anything that lowers cost per unit, or adds producers, shifts S right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply--12-sup-tax-subsidy-shift.webp" width="900" height="890" alt="A per-unit tax of 2 shifts supply up by 2, so 70 thousand litres needs 8 not 6. A subsidy of 2 shifts it down, so 70 needs 4. At price 6 supply is 70, 40 with tax and 100 with subsidy." loading="lazy">
+  <figcaption>A tax shifts supply up by its amount; a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply--14-sup-competitive-joint.webp" width="900" height="1170" alt="Competitive supply: land moves from wheat to oats when oat prices rise, so wheat supply shifts left. Joint supply: a higher lamb price means more sheep, so wool supply shifts right." loading="lazy">
+  <figcaption>Related goods move supply opposite ways depending on whether they compete for resources or come together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply--03-sup-six-shifts.webp" width="900" height="1160" alt="Six mini supply diagrams show S1 and S2. Higher costs, a rival good higher price, an indirect tax and an expectation of a higher future price shift supply left. Better technology and more firms shift it right." loading="lazy">
+  <figcaption>Direction of the supply shift for six determinants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Related goods in one line each
 
 - **Competitive supply**: same inputs, either good. Oats up in price, wheat supply down.
@@ -103,6 +142,12 @@ Ask: what changed?
 - The good's own price: **movement along** the same curve.
 - Any of the six determinants: **shift** of the whole curve.
 - Name the direction in words: "an *increase in supply*" for a right shift, "a *decrease in supply*" for a left shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply--13-sup-movement-vs-shift.webp" width="900" height="890" alt="A price rise from 6 to 8 moves quantity from 70 to 100 along S1 (A to B). Higher wages cut 30 litres at each price, so at 8 the market supplies 70 on S2 (point C): a leftward shift." loading="lazy">
+  <figcaption>Own price moves you along the curve; a cost change shifts it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

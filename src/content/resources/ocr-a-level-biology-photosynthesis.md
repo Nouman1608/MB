@@ -68,6 +68,12 @@ The large membrane area of many grana holds many photosystems and carriers. Calv
 
 **Worked example.** An electron micrograph shows a chloroplast 48 mm long. The magnification is ×8000. Actual length = image ÷ magnification = 48 mm ÷ 8000 = 0.0060 mm = **6.0 µm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--01-chloroplast-structure.webp" width="900" height="1000" alt="A chloroplast drawn as an oval with a double membrane. Three grana of stacked thylakoids are joined by lamellae, and the stroma holds a starch grain, circular DNA and ribosomes. Colour coding shows the light-dependent stage on the thylakoid membranes and the Calvin cycle in the stroma." loading="lazy">
+  <figcaption>Where each part of a chloroplast sits and which stage happens there.</figcaption>
+</figure>
+
+
 ## 5.2.1(c) Pigments, photosystems and chromatography
 
 A pigment absorbs some wavelengths and reflects or transmits others. Chlorophyll absorbs mostly red and blue-violet light and reflects green. An absorption spectrum plots the light a pigment takes in across the wavelengths. An action spectrum plots the rate of photosynthesis at each wavelength. The two match closely, which is evidence that chlorophyll drives photosynthesis. The action spectrum is not zero in green light, because accessory pigments absorb some of it.
@@ -83,6 +89,17 @@ Rf is the pigment's distance from the origin divided by the solvent front's dist
 **Worked example.** The solvent front moves 7.5 cm. Four spots have centres 7.2, 5.1, 3.9 and 2.4 cm from the origin. Rf values: 7.2 ÷ 7.5 = **0.96**; 5.1 ÷ 7.5 = **0.68**; 3.9 ÷ 7.5 = **0.52**; 2.4 ÷ 7.5 = **0.32**. The spot with Rf 0.96 is carotene (very soluble in the solvent, so it travels furthest). Compare Rf values with reference values obtained in the same solvent to identify the others.
 
 Safety and reliability: ventilate, keep solvent from flames, use pencil because ink would run, and apply small concentrated spots.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--02-pigment-spectra.webp" width="900" height="900" alt="Schematic absorption curves for chlorophyll a, chlorophyll b and carotenoids are plotted with an action spectrum over a coloured wavelength strip. The chlorophylls absorb mainly blue and red and little green, and the action spectrum follows the combined absorption. At 450 nm the action spectrum is 78 units and at 550 nm 20 units, 26 percent." loading="lazy">
+  <figcaption>The action spectrum follows the pigments absorption spectra, with low but non-zero rate in green.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--03-chromatography-rf.webp" width="900" height="880" alt="A chromatography strip stands in solvent with a pencil origin and a solvent front 84 mm above it. Four pigment spots at 80, 55, 50 and 42 mm give Rf values 0.95, 0.65, 0.60 and 0.50. Rf has no units and is less than 1." loading="lazy">
+  <figcaption>How Rf is measured from the origin and calculated for each pigment.</figcaption>
+</figure>
+
 
 ## 5.2.1(d) The light-dependent stage
 
@@ -106,6 +123,27 @@ This stage happens in the thylakoid membranes. Light energy is used to make ATP 
 | Electron source | Water | PSI itself |
 | Products | ATP, reduced NADP, O₂ | ATP only |
 | Final electron acceptor | NADP | PSI (electrons return) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--04-light-dependent-stage.webp" width="900" height="960" alt="A thylakoid membrane with thylakoid space above and stroma below. Light excites electrons in photosystem II, replaced by photolysis of water, and they pass along the electron transport chain, which pumps protons into the thylakoid space. Electrons reach photosystem I and reduce NADP, while protons flow back through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Where ATP, reduced NADP and oxygen come from on the thylakoid membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <figcaption>Which products each photophosphorylation route makes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--07-gp-rubp-levels.webp" width="900" height="960" alt="Two model graphs. When light is switched off GP rises and RuBP falls. When carbon dioxide is removed RuBP rises and GP falls. Each follows from which reactions still run." loading="lazy">
+  <figcaption>Predicting how GP and RuBP change when light or CO2 is removed.</figcaption>
+</figure>
+
 
 
 ## 5.2.1(e) and (f) The Calvin cycle and uses of TP
@@ -148,6 +186,17 @@ Typical methods: count bubbles or collect gas from aquatic pondweed, or measure 
 **Percentage error.** Percentage error = uncertainty ÷ measured value × 100. A graduated tube read to ±0.01 cm³ at the start and end has a total uncertainty of 0.02 cm³. For 0.64 cm³ collected: 0.02 ÷ 0.64 × 100 = **3.1%**.
 
 Isolated chloroplasts can also be used: DCPIP is a blue dye that loses its colour when it accepts electrons from the light-dependent stage, so decolourising in light shows electrons are being passed on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
+  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
 
 ## Common errors
 

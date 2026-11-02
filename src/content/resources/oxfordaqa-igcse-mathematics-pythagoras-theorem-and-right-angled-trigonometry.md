@@ -89,6 +89,22 @@ wire  = √73.89 = 8.60 m (3 s.f.)
 
 Draw the right-angled triangle for any word problem and write the lengths on it before you calculate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--08-wire-and-pole.webp" width="900" height="650" alt="A 7.5 m pole and 4.2 m of ground form a right angle, with the wire as hypotenuse. 7.5^2 + 4.2^2 = 73.89, so the wire is 8.60 m, longer than both other sides." loading="lazy">
+  <figcaption>Draw the triangle first, then use Pythagoras for the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+
 ## The three trigonometric ratios
 
 For an acute angle θ in a right-angled triangle:
@@ -110,6 +126,12 @@ Look at the side you know, the side you want and the angle. Two of the three sid
 | opposite and hypotenuse | sin |
 | adjacent and hypotenuse | cos |
 | opposite and adjacent | tan |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--05-pyth-which-ratio.webp" width="900" height="1070" alt="Three copies of one right-angled triangle with angle theta. Opposite and hypotenuse highlighted: use sin. Adjacent and hypotenuse: use cos. Opposite and adjacent: use tan." loading="lazy">
+  <figcaption>Match the two sides in the question to sin, cos or tan.</figcaption>
+</figure>
+
 
 ### Finding a length
 
@@ -135,6 +157,12 @@ h = 14.5 cm (3 s.f.)
 
 When the unknown is the denominator, rearrange before you use the calculator. Check that the hypotenuse is larger than 7.9.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--06-pyth-find-length.webp" width="900" height="860" alt="Triangle 1: hypotenuse 14.6, angle 33 degrees, opposite x: x = 14.6 sin 33 = 7.95 cm. Triangle 2: adjacent 7.9, angle 57 degrees, hypotenuse h: h = 7.9 / cos 57 = 14.5 cm, longer than 7.9 as required." loading="lazy">
+  <figcaption>If the unknown is on top multiply; if underneath, rearrange then divide.</figcaption>
+</figure>
+
+
 ### Finding an angle
 
 Use the inverse function (sin⁻¹, cos⁻¹ or tan⁻¹) on the ratio of the two known sides.
@@ -154,6 +182,17 @@ sin θ = 5.2 / 8.3 = 0.6265
 ```
 
 The third angle of a right-angled triangle is 90° − θ, because the angles add to 180°. Take the other acute angle this way rather than doing a second inverse calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--09-find-an-angle.webp" width="900" height="960" alt="Two scaled right-angled triangles. Opposite 6.4 and adjacent 9.1 give tan theta = 0.7033 and theta = 35.1 degrees; opposite 5.2 and hypotenuse 8.3 give sin theta = 0.6265 and theta = 38.8 degrees. The other angle is 90 degrees minus theta." loading="lazy">
+  <figcaption>Use the inverse function on the ratio of the two known sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
 
 ## Combining the ideas in 2D figures
 
@@ -178,6 +217,12 @@ The apex angle is 180° − 2 × 68.4° = 43.2° (1 d.p.).
 
 Notice the accuracy habit: use the unrounded value of h if you need it later. Rounded intermediate values give answers that are slightly out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--04-hidden-right-angle.webp" width="900" height="870" alt="An isosceles triangle with equal sides 17 cm and base 16 cm is split by its height into two right-angled triangles with base 8 cm. The height is 15 cm and the area is 120 cm squared." loading="lazy">
+  <figcaption>Split an isosceles triangle down the middle and use half the base.</figcaption>
+</figure>
+
+
 ## Extension only: three-dimensional figures
 
 In a 3D figure you still use only right-angled triangles. The skill is to find the right one. Sketch the 3D shape, then draw the single flat triangle that holds the length or angle you need. Write its sides on a separate 2D sketch.
@@ -201,9 +246,21 @@ space diagonal² = l² + w² + h²
     θ = 31.0° (1 d.p.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--07-pyth-cuboid.webp" width="900" height="1050" alt="A 10 by 6 by 7 cuboid. Base diagonal AC = root 136; with the 7 cm edge CG it forms right-angled triangle ACG. AG squared = 136 + 49 = 185, so AG = 13.6 cm, and tan theta = 7/root 136 gives 31.0 degrees with the base." loading="lazy">
+  <figcaption>The space diagonal is the hypotenuse of a triangle built on the base diagonal.</figcaption>
+</figure>
+
+
 ### Angles between a line and a plane
 
 The angle between a line and a plane is measured to the **shadow** of the line on the plane: drop a perpendicular from the top of the line to the plane, and the angle sits between the line and its shadow. In Example 9 the shadow of the space diagonal on the base is the base diagonal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
+</figure>
+
 
 ### Pyramids
 
@@ -223,6 +280,12 @@ For a pyramid with its apex directly above the centre of a rectangular base, the
 ```
 
 In part (c) the angle between two planes is measured along a line at right angles to their meeting edge. That line runs from the midpoint of the base edge up to the apex.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--08-pyth-pyramid.webp" width="900" height="1170" alt="Pyramid with 8 by 6 base and apex 7 cm above the centre O. Half base diagonal OA = 5, edge VA = root 74 = 8.60, edge angle 54.5 degrees (tan 7/5). M is the midpoint of the 8 cm edge, OM = 3, face angle 66.8 degrees (tan 7/3)." loading="lazy">
+  <figcaption>Two flat right-angled triangles give the edge angle and the face angle.</figcaption>
+</figure>
+
 
 ## Common errors
 

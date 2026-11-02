@@ -78,6 +78,32 @@ These notes condense section 2.7 (price elasticity of demand, PED) of the Cambri
 
 Always attach the factor to the named good, then say what it means for the response of buyers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants--05-elasticity-extremes.webp" width="900" height="1010" alt="Four small graphs. A vertical demand curve has PED 0 and a horizontal demand curve has infinite PED. A vertical supply curve has PES 0 and a horizontal supply curve has infinite PES." loading="lazy">
+  <figcaption>Vertical means perfectly inelastic; horizontal means perfectly elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants--02-ped-producer-price-cut.webp" width="900" height="840" alt="Two revenue rectangle diagrams for a 10% cut from 30 to 27 on 1,000 units. With PED -0.7, quantity rises to 1,070 and revenue falls from 30,000 to 28,890. With PED -1.8, quantity rises to 1,180 and revenue rises to 31,860." loading="lazy">
+  <figcaption>The same price cut loses revenue if demand is inelastic and gains it if demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants--03-ped-government-tax.webp" width="900" height="920" alt="Two bars of tax revenue for a tax of 4 a unit on a good selling 10,000 units. With PED -0.4 sales fall to 9,600 and revenue is 38,400. With PED -1.5 sales fall to 8,500 and revenue is 34,000." loading="lazy">
+  <figcaption>A tax on inelastic demand raises more revenue but cuts consumption less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
+
 ## 2.7.4 PED and total revenue
 
 Total spending by buyers equals total revenue of sellers: price x quantity.
@@ -108,6 +134,17 @@ Total spending by buyers equals total revenue of sellers: price x quantity.
 First step: (25 - 30) / 30 = -16.7% and (56 - 40) / 40 = +40%, so PED = 40 / -16.7 = -2.4. Revenue is highest at a price of 25, after which cuts no longer pay.
 
 **Reading the rectangle.** At a price of 25 the rectangle is 25 high and 56 wide, so it has an area of 1,400. At a price of 30 it is 30 high and 40 wide, with an area of 1,200. The wider rectangle wins because demand between those prices is elastic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants--01-ped-revenue-schedule.webp" width="900" height="910" alt="A curve of revenue against price for Market K (Q = 100 - 4P) with price falling left to right. Revenue is 400, 576, 624, 544 and 336 at prices 20, 16, 12, 8 and 4, peaking near 12 to 13. PED is -4.0 and -1.8 (elastic, revenue rises) then -0.9 and -0.5 (inelastic, revenue falls)." loading="lazy">
+  <figcaption>Cutting price raises revenue while demand is elastic and lowers it once demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## 2.7.5 Significance of PED
 

@@ -44,6 +44,12 @@ These notes condense section C.4 of the IB *Physics guide* (first assessment 202
 - All points oscillate at the same frequency. Only the amplitude changes with position.
 - Travelling wave: every point has the same amplitude, energy moves along the medium. Standing wave: amplitude varies with position, no net energy transfer along the medium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--02-amplitude-and-phase.webp" width="900" height="1034" alt="A two-loop standing wave with A = 6.0 mm has points P (3.0 mm), Q (about 5.8 mm) in loop 1 and R (6.0 mm) in loop 2. Their displacement-time graphs show the same frequency; P and Q move together and R moves oppositely, a phase difference of pi." loading="lazy">
+  <figcaption>Points in one loop are in phase; neighbouring loops are in antiphase.</figcaption>
+</figure>
+
+
 ## Strings and pipes at a glance
 
 | System | Ends | Allowed harmonics n | Wavelength | Frequency |
@@ -70,6 +76,27 @@ Method in steps for a harmonic question:
 2. Draw the pattern you need and count quarter- or half-wavelengths into the length L.
 3. Write L in terms of λ, then use v = fλ.
 4. Check that the harmonic number is allowed for the system. A closed pipe has no second harmonic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--03-string-harmonics.webp" width="900" height="1060" alt="A 0.80 m string fixed at both ends shows one, two and three loops at 150, 300 and 450 Hz with wavelengths 1.60, 0.80 and 0.533 m. The nth harmonic has n antinodes and n + 1 nodes, and f = nv/2L." loading="lazy">
+  <figcaption>Harmonics are whole-number multiples of the first harmonic, f = nv/2L.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--04-open-closed-pipes.webp" width="900" height="1290" alt="Pipes of length 0.60 m with speed of sound 340 m/s. Open pipe: antinodes at both ends, 283, 567 and 850 Hz. Closed pipe: node at the closed end and antinode at the open end, odd harmonics only, 142, 425 and 708 Hz. The closed pipe sounds an octave lower." loading="lazy">
+  <figcaption>A closed pipe has a node at the closed end, so only odd harmonics with f = nv/4L.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--05-end-conditions.webp" width="900" height="1140" alt="Six cases with their lowest pattern. Equal ends (fixed-fixed, free-free, open-open, closed-closed) follow f = nv/2L with every n. One node end and one antinode end (fixed-free string, closed-open pipe) follow f = nv/4L with odd n only." loading="lazy">
+  <figcaption>Same end types give nv/2L; mixed end types give nv/4L with odd n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--06-resonance-tube.webp" width="900" height="1020" alt="Two tubes under a 440 Hz fork with water at the first and second resonance. Water level is a node and the open top an antinode. The levels are 0.390 m apart, half a wavelength, so lambda = 0.780 m and v = 440 x 0.780 = 343 m/s." loading="lazy">
+  <figcaption>Successive resonances are half a wavelength apart in column length.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -110,6 +137,17 @@ Types of damping after a single displacement and release:
 | Heavy | No oscillation, but a slower return than critical |
 
 Resonance can be useful (the air column and body of musical instruments reinforcing notes) or destructive (bridges and buildings driven near a natural frequency). Damping, or changes to stiffness and mass, reduce the risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--07-resonance-damping-curves.webp" width="900" height="1030" alt="Amplitude against driving frequency over natural frequency for light, more and heavy damping. Light damping gives a tall narrow peak at almost f0; more damping gives a lower, wider peak slightly below f0; heavy damping a low, broad peak clearly below f0." loading="lazy">
+  <figcaption>More damping lowers, broadens and shifts the resonance peak to a lower frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--08-damping-types.webp" width="900" height="1120" alt="Displacement-time graphs after release from rest. Light damping oscillates inside a decaying envelope. Critical damping returns to zero fastest without overshoot. Heavy damping also does not oscillate but returns more slowly than critical damping, shown with a dashed critical curve." loading="lazy">
+  <figcaption>Critical damping is the fastest return to equilibrium without overshoot.</figcaption>
+</figure>
+
 
 ## Wording that earns credit in explanations
 
@@ -169,6 +207,12 @@ Damping and the peak: more damping means more energy dissipated per cycle, so th
 - Saying heavy damping increases the peak height, or that damping changes the natural frequency of the system.
 - Confusing critical damping with no damping.
 - Leaving out units, or giving answers to more than three significant figures when the data has two or three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--01-standing-wave-formation.webp" width="900" height="1096" alt="Two identical waves, one moving right and one moving left, are drawn above their sum at one instant. At the dashed lines the two waves are always opposite, so the sum is zero: nodes. Halfway between them the waves add: antinodes. Adjacent nodes are half a wavelength apart and a node to the next antinode is a quarter." loading="lazy">
+  <figcaption>Nodes are where two opposite waves always cancel; antinodes are where they always add.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

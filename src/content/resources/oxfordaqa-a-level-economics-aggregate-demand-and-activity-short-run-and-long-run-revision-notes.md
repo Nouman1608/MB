@@ -67,6 +67,17 @@ Why the real effect can be smaller than the formula:
 - Rounds of spending take time.
 - Expectations can change saving or tax behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--12-multiplier-local-town.webp" width="900" height="790" alt="A workshop pays 2m a year. Rounds of local spending are 2.00, 1.10, 0.61, 0.33, 0.18 and later 0.22, each round leaking 45% out of town. Local k is 2.22 so extra income is about 4.44m." loading="lazy">
+  <figcaption>A small town spends little locally, so its multiplier is small.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--13-multiplier-leakages-rounds.webp" width="900" height="960" alt="Each extra pound of income: 0.60 spent at home, 0.08 saved, 0.12 taxed, 0.20 on imports. MPW is 0.40, so k is 2.5. A 36m injection produces rounds of 36, 21.6, 12.96, 7.78 and 4.67m with later rounds about 7.0m, in total about 90m." loading="lazy">
+  <figcaption>Leakages shrink each round, and the rounds add up to injection times k.</figcaption>
+</figure>
+
+
 ## AD and the level of economic activity
 
 | Position | What a rise in AD mainly does |
@@ -76,6 +87,22 @@ Why the real effect can be smaller than the formula:
 | Persistent weak AD | Can leave demand-deficient (cyclical) unemployment |
 
 Output gap (% of capacity) = (actual − capacity) ÷ capacity × 100. If actual output is 450 and capacity is 500, the gap is −10.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--05-multiplier-rounds.webp" width="900" height="980" alt="Horizontal bars show each round of spending after an extra 36m: 36.00, 21.60, 12.96, 7.78 and 4.67m, each 60% of the last. 40% of each round leaks (saving 0.08, tax 0.12, imports 0.20). Cumulative income reaches 83.00m after five rounds and approaches 90m, which is 36 times k = 2.5." loading="lazy">
+  <figcaption>Each round re-spends 60% and leaks 40%, so 36m becomes 90m with k = 1 divided by 0.40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## SRAS: determinants
 
@@ -90,6 +117,27 @@ The price level and production costs are the main determinants. Remember the rul
 | Raw material prices or wage growth fall | Shifts right | Lower prices, higher output |
 
 Labour cost per unit of output = hourly wage ÷ units produced per hour. If wages and productivity both rise 5%, labour cost per unit is unchanged (1.05 ÷ 1.05 = 1.00). If wages rise 3% and productivity 1%, it rises by 1.03 ÷ 1.01 − 1 = 2.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--06-sras-movement-vs-shift.webp" width="900" height="1295" alt="Two AD-SRAS graphs with truncated axes. A rise in AD moves the economy up a fixed SRAS curve: price level 100 to 105 and output 980 to 1,000. A rise in raw material prices shifts SRAS left, so price level rises 100 to 106 and output falls 1,000 to 970, which is cost-push inflation." loading="lazy">
+  <figcaption>A change in the price level is a movement along SRAS; a change in costs shifts the whole curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--07-unit-labour-cost.webp" width="900" height="975" alt="Two worked examples of labour cost per unit. Pay of 20 an hour and output of 40 give 0.50 a unit. Pay +6% and output +2% give 0.5196, up 3.9%, so SRAS shifts left. Pay +6% and output +6% leave cost per unit at 0.50, so no shift." loading="lazy">
+  <figcaption>A pay rise shifts SRAS left only if it raises cost per unit, that is if pay grows faster than productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--08-capacity-gap.webp" width="900" height="960" alt="Bars compare normal capacity and actual output. This year capacity is 1,000bn and actual output 940bn, a gap of -6.0%. Next year capacity grows 3.02% to 1,030.2bn and actual output 2.1% to 960bn, so the gap widens to -6.8%." loading="lazy">
+  <figcaption>Actual output grew, but capacity grew faster, so the output gap widened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## LRAS: determinants
 
@@ -147,6 +195,12 @@ Suppose raw material prices rise in Country A (invented). Write the chain in thi
 - **SRAS versus LRAS.** SRAS depends on costs given in the short run. LRAS depends on productive capacity.
 - **Actual versus potential growth.** A rise in AD can raise actual output (if there is spare capacity). Only a rightward LRAS shift raises normal capacity.
 - **Keynesian view.** An economy can stay well below normal capacity for many years, so waiting for wages and prices to adjust may be too slow. The counter-argument is that stimulus can be inflationary if the output gap has been overstated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--14-keynesian-stuck-below-capacity.webp" width="900" height="870" alt="AD and AS graph with vertical LRAS at 1,000m. AD falls from AD1 to AD2 and equilibrium sits at 940m, 60 below capacity. Four steps: AD falls, wages and prices fall slowly, weak demand keeps investment low, so raise AD deliberately." loading="lazy">
+  <figcaption>The Keynesian view says an economy can stay below normal capacity for years.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

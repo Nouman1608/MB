@@ -68,6 +68,17 @@ Links: [practice questions](/resources/oxfordaqa-a-level-accounting-capital-inve
 
 **Conventions.** Year 0 is now. For NPV, later cash is treated as arriving at each year end. For payback, cash is treated as arriving evenly through the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--01-relevant-cash-flows.webp" width="900" height="1050" alt="Wexcombe Cider example. Counted: canning line, installation, sale of old fillers (year 0 outlay 216,000) and resale in year 5. Left out and crossed: depreciation, engineer fee, head-office share and loan interest, with a reason for each." loading="lazy">
+  <figcaption>Include only future cash caused by the project; leave out depreciation, sunk costs, unchanged overheads and (OxfordAQA) loan interest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
+  <figcaption>Discounting turns later cash into smaller present values; NPV is their total less the outlay.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **Payback**
@@ -159,6 +170,12 @@ Finish with a clear recommendation that refers back to at least one figure.
 - **Cost of capital vs discount factor.** The cost of capital is a percentage; the discount factor is the multiplier calculated from it for a particular year.
 - **Sunk vs relevant.** A cost already paid cannot change the decision; only future, extra cash counts.
 - **Undiscounted vs discounted totals.** Inflows can exceed the outlay before discounting and still give a negative NPV.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--04-npv-can-say-no.webp" width="900" height="940" alt="Two bars compare Wexcombe inflows added up (314,000) with the same inflows in today's money (210,969) against the 216,000 outlay. The discounted total is 5,031 short, so NPV is negative and the project is rejected." loading="lazy">
+  <figcaption>A project can recover its cost undiscounted yet still have a negative NPV.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

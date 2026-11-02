@@ -75,6 +75,22 @@ Additions into the flow: investment I, government spending G, exports X
 
 Now exports rise by 14. J = 224, so Y = 224 ÷ 0.35 = 640. Income rises by 40, more than the 14 injected. Why the rise is bigger is the multiplier process, covered separately. Suppose instead the tax rate rises so that withdrawals are 0.40 of income. Then Y = 210 ÷ 0.40 = 525, a fall of 75. **Rule: a rise in injections raises equilibrium income, a rise in withdrawals lowers it.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply--03-injections-withdrawals.webp" width="900" height="840" alt="Graph of withdrawals W = 0.35Y against flat injections J = 210. They cross at Y = 600. At 500, J exceeds W by 35 so income rises; at 700, W exceeds J by 35 so income falls. Full employment is 650." loading="lazy">
+  <figcaption>Income settles where injections equal withdrawals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply--11-cf-real-vs-nominal.webp" width="900" height="810" alt="Two columns. Year 1 national income is 500 at price index 100. Year 2 nominal income is 567 at index 105, of which 40 is extra output and 27 is higher prices. Real income is 540, so real growth is 8 percent and nominal growth 13.4 percent." loading="lazy">
+  <figcaption>Nominal growth of 13.4% overstates the 8% rise in output because part of it is higher prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
+
 ## 2. AD and AS analysis (3.2.2.2)
 
 The diagram has the **price level** on the vertical axis and **real GDP** (real national income) on the horizontal axis.
@@ -107,6 +123,27 @@ A demand-side shock moves price and output in the same direction. A supply-side 
 
 The factors behind SRAS and LRAS shifts are covered in detail on other pages. For AD, see section 3 below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 3. Determinants of aggregate demand (3.2.2.3)
 
 **Aggregate demand** is the total planned spending on an economy's output at each price level over a period. **AD = C + I + G + (X − M).**
@@ -136,9 +173,21 @@ Net exports are X − M. A rise in domestic income raises imports, which reduces
 - MPS = 15 ÷ 60 = 0.25, and 0.75 + 0.25 = 1.
 - National income rises by 100, tax revenue by 18 and imports by 12: MPT = 0.18 and MPM = 0.12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply--12-cf-marginal-propensities.webp" width="900" height="760" alt="Two bars. Disposable income rises by 60: 45 consumed and 15 saved, so MPC 0.75, MPS 0.25, summing to 1. National income rises by 100: 18 goes in tax and 12 on imports, so MPT 0.18 and MPM 0.12; the remaining 70 is not classified in the lesson." loading="lazy">
+  <figcaption>Each marginal propensity is the share of an extra unit of income that goes to that use.</figcaption>
+</figure>
+
+
 ### Saving and investment
 
 **Saving** is income not spent on consumption. It is a withdrawal. **Investment** is spending on capital goods, such as machines and buildings, that add to future productive capacity. It is an injection and a component of AD. Saving can help fund investment through banks, but the two are decided by different people for different reasons, so they need not be equal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply--13-cf-saving-vs-investment.webp" width="900" height="810" alt="Circular flow of households and firms with spending and income arrows. Saving is decided by households and leaves the flow towards banks and financial markets: a withdrawal. Investment is decided by firms and enters the flow: an injection. Banks can lend saving to firms but S and I need not be equal." loading="lazy">
+  <figcaption>Saving is a withdrawal and investment an injection, decided by different people.</figcaption>
+</figure>
+
 
 ### The basic accelerator
 
@@ -153,6 +202,17 @@ The accelerator links investment to the **rate of change of output**. Firms hold
 | 250 | 750 | 0 | 0% |
 
 Net investment halves between the third and fourth rows although output is still rising, because growth is slowing. Investment is therefore volatile, and a small change in the growth rate can cause a large change in AD.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
 
 ## Common errors
 

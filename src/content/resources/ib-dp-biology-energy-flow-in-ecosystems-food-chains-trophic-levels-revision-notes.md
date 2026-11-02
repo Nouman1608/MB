@@ -45,6 +45,17 @@ These notes condense the first part of sub-topic C4.2, Transfers of energy and m
 - Matter is recycled in ecosystems. Energy is not, because chemical energy ends up as heat.
 - Nature of science: a law describes a pattern and can predict; it does not explain. A useful generalization rests on many observations, is testable, predicts, and admits exceptions. "About one tenth passes on" is a rule of thumb, not an exact value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--01-open-closed-systems.webp" width="900" height="970" alt="A dashed ecosystem boundary has light entering and heat leaving, with matter (CO2, water, ions) entering and gases, ions and crops leaving. Below, a sealed jar lets light in and heat out, but matter cannot cross the glass, so it recycles inside." loading="lazy">
+  <figcaption>An ecosystem is open (energy and matter cross); a sealed jar is closed (only energy crosses).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--04-energy-without-sunlight.webp" width="900" height="990" alt="Lit surface water has sun and algae converting light to chemical energy. Below a limit of light the deep ocean (and caves) is dark: dead organic matter sinks from above, and at a hydrothermal vent chemoautotrophic bacteria use energy from oxidation." loading="lazy">
+  <figcaption>Without light, energy comes from sinking dead matter or from chemoautotrophic bacteria at vents.</figcaption>
+</figure>
+
+
 ## C4.2.3 to C4.2.5: food chains, webs and decomposers
 
 **Method: drawing a food chain or web**
@@ -59,6 +70,12 @@ These notes condense the first part of sub-topic C4.2, Transfers of energy and m
 - Decomposers get energy from carbon compounds in faeces, dead parts (such as leaf litter) and whole dead organisms.
 - Decomposers and detritus feeders are not usually drawn in chains, but they take energy from dead matter and release much of it as heat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--02-food-chain-decomposers.webp" width="900" height="810" alt="Diatoms, water flea, stickleback and heron are joined by arrows pointing from eaten to eater, labelled producer to tertiary consumer. Dashed arrows lead from each to dead organisms and faeces, which decomposers (fungi, bacteria) use, releasing most energy as heat." loading="lazy">
+  <figcaption>Arrows point to the eater; dead matter and faeces pass to decomposers, who release most energy as heat.</figcaption>
+</figure>
+
+
 ## C4.2.6 to C4.2.9: nutrition and respiration
 
 | | Photoautotroph | Chemoautotroph | Heterotroph |
@@ -72,11 +89,28 @@ These notes condense the first part of sub-topic C4.2, Transfers of energy and m
 - Heterotrophs digest large molecules (externally or internally), absorb the products and assimilate them into their own compounds.
 - All autotrophs and heterotrophs respire. Cell respiration oxidizes carbon compounds to release energy. Photoheterotrophs are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--05-modes-of-nutrition.webp" width="900" height="1030" alt="Three rows: a photoautotroph (grass) uses light and CO2; a chemoautotroph (iron-oxidizing bacteria) uses energy released when Fe2+ becomes Fe3+ and fixes CO2; a heterotroph (rabbit, fungus) digests, absorbs and assimilates food. All three respire to make ATP." loading="lazy">
+  <figcaption>Photoautotrophs use light, chemoautotrophs use oxidation energy, heterotrophs digest then assimilate; all respire.</figcaption>
+</figure>
+
+
 ## C4.2.10: trophic levels
 
 - Producer, primary consumer, secondary consumer, tertiary consumer.
 - Many organisms eat more than one kind of food, so they sit at different levels in different chains. An omnivore eating plants and herbivores is a primary and a secondary consumer.
 - Always say which chain you are using when you classify an organism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--03-fox-trophic-levels.webp" width="900" height="920" alt="Three chains are lined up by trophic level: berries to fox, seeds to vole to fox, and plant to beetle to shrew to fox. The fox sits in the primary, secondary and tertiary consumer column respectively." loading="lazy">
+  <figcaption>The same fox is a primary, secondary or tertiary consumer depending on the chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--09-why-chains-are-short.webp" width="900" height="960" alt="On a log scale, energy falls from 20 000 to 2 000, 200, 20, 2 and 0.2 kJ per square metre per year over six levels. An example minimum of 1 is reached by level 5 but not level 6, so a sixth level cannot be supported." loading="lazy">
+  <figcaption>With 10% passed on each step, a sixth level would hold only 0.2 kJ m-2 year-1, so most chains have four or five levels.</figcaption>
+</figure>
+
 
 ## C4.2.11: energy pyramids
 
@@ -91,6 +125,22 @@ These notes condense the first part of sub-topic C4.2, Transfers of energy and m
 3. Multiply by 100.
 
 **Worked reminder.** A coastal lagoon has 36 000 kJ m⁻² year⁻¹ in producers. A transfer of 8% gives 36 000 × 0.08 = 2 880 in primary consumers. A second transfer of 8% gives 2 880 × 0.08 = 230.4 kJ m⁻² year⁻¹ in secondary consumers. The energy not passed from producers to primary consumers is 36 000 − 2 880 = 33 120 kJ m⁻² year⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--06-energy-pyramid.webp" width="900" height="910" alt="Bars drawn to one linear scale show 24 600, 2 214, 177 and 14.2 kJ per square metre per year. Percentages passed on are 9.0%, 8.0% and 8.0%, and the tertiary level holds only 0.058% of producer energy." loading="lazy">
+  <figcaption>To scale, the upper bars almost vanish: only 0.058% of producer energy reaches tertiary consumers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--07-vole-energy-budget.webp" width="900" height="880" alt="A single bar splits a vole’s 640 kJ intake to scale: 94 to biomass (14.7%), 150 in faeces going to decomposers, 376 released in respiration as heat (58.8%) and 20 lost as urea in urine." loading="lazy">
+  <figcaption>Most of the vole’s intake is lost as heat; faeces energy still goes to decomposers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels--08-respiration-heat.webp" width="900" height="850" alt="Glucose enters cell respiration in both autotrophs and heterotrophs. Some energy is captured in ATP and the rest is heat; ATP-driven work (synthesis, movement, active transport) releases more heat. Heat escapes to the surroundings and cannot be turned back into food." loading="lazy">
+  <figcaption>Respiration releases heat in every organism, including plants.</figcaption>
+</figure>
+
 
 ## C4.2.12 and C4.2.13: causes of loss
 

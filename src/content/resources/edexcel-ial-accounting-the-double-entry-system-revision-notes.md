@@ -60,6 +60,12 @@ Ledgers: sales ledger (customers), purchases ledger (suppliers), general ledger 
 | Discount received from supplier | Supplier | Discount received |
 | Loan received | Bank | Loan |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## 1.1.4 Books of prime entry
 
 | Book | What goes in | Posted as |
@@ -77,6 +83,27 @@ Ledgers: sales ledger (customers), purchases ledger (suppliers), general ledger 
 **Imprest petty cash.** Reimbursement equals the amount spent, restoring the float. Reimbursement is credited to Bank.
 
 **Worked reminder.** Strathmoor Fabrics holds a petty cash float of 120. Payments are 24, 31, 19 and 12, a total of 86. The reimbursement is 86 and the float is back to 120.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--01-prime-entry-flow.webp" width="900" height="950" alt="Three credit sales invoices are entered in the sales day book, total 2,700 dollars. Each is debited separately to the customer in the sales ledger and the total is credited once to Sales, so debits equal credits. Credit notes of 150 and 90 total 240 and are debited to Sales returns." loading="lazy">
+  <figcaption>Post each invoice to the customer, but post the day book total to Sales once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--02-petty-cash-imprest.webp" width="900" height="900" alt="A float of 150 dollars pays postage 32, refreshments 18, travel 27 and cleaning 14, a total of 91, leaving 59. The bank reimburses 91 to restore the float to 150, with each expense debited and the bank credited." loading="lazy">
+  <figcaption>The imprest system tops the float back up by exactly what was spent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--04-discount-columns.webp" width="900" height="700" alt="A three-column cash book shows discount allowed of 100 beside a 4,100 receipt and discount received of 200 beside a 7,300 payment. Each discount is posted at once to the personal account; at period end the column totals are posted to the Discount allowed (debit) and Discount received (credit) accounts." loading="lazy">
+  <figcaption>Individual discounts go to personal accounts at once; the column totals go to the discount accounts at period end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--04-ial-prime-entry-purchases-journal.webp" width="900" height="1008" alt="Three cards show the purchases day book (8,000 invoice), purchases returns day book (500 credit note) and the journal (9,500 van on credit). Each ends in a debit and a credit of equal amount." loading="lazy">
+  <figcaption>Every book of prime entry leads to an equal debit and credit in the ledger.</figcaption>
+</figure>
+
 
 ## 1.1.5 End of period transfers and adjustments
 
@@ -101,6 +128,17 @@ Cost of sales = opening inventory + purchases − purchases returns − closing 
 Strathmoor Fabrics has opening inventory 3,800, purchases 27,600, purchases returns 900 and closing inventory 4,300. Cost of sales is 3,800 + 27,600 − 900 − 4,300 = 26,200.
 
 Transfers in the ledger: opening inventory is credited to Inventory and debited to the statement of profit or loss; closing inventory is debited to Inventory and credited to the statement of profit or loss. Closing balances are carried down and brought down as opening balances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--03-cost-of-sales-transfer.webp" width="900" height="820" alt="A waterfall in dollars: opening inventory 5,200 plus purchases 41,300, less purchases returns 1,100 and closing inventory 6,400, leaves cost of sales of 39,000." loading="lazy">
+  <figcaption>Because inventory is not updated during the year, cost of sales is found from opening inventory, purchases, returns and closing inventory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--01-ial-year-end-transfers.webp" width="900" height="924" alt="Inventory, purchases and purchases returns accounts transfer to the statement of profit or loss in four numbered steps. Debits 46,500 less credits 7,500 give cost of sales of 39,000 dollars." loading="lazy">
+  <figcaption>The four year-end transfers build cost of sales: 5,200 + 41,300 - 1,100 - 6,400 = 39,000.</figcaption>
+</figure>
+
 
 ## 1.1.6 Allowance for irrecoverable debts
 
@@ -130,6 +168,12 @@ Transfers in the ledger: opening inventory is credited to Inventory and debited 
 
 **Distinction.** An irrecoverable debt is certain and written off to an expense account. An allowance is an estimate, held as a deduction from trade receivables, and justified by prudence. A debt recovered after write-off is credited to Irrecoverable debts recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--05-allowance-schedule.webp" width="900" height="930" alt="Receivables of 64,100 less a 1,600 write-off leave 62,500, split by age with rates of 1, 4, 10 and 30 percent giving 380, 496, 850 and 1,080, a total allowance of 2,806. The increase of 456 on the existing 2,350 is charged to profit or loss and the statement of financial position shows 59,694." loading="lazy">
+  <figcaption>Write off first, then apply age-band rates; only the increase reaches profit or loss.</figcaption>
+</figure>
+
+
 ## 1.1.7 ICT in the double entry system
 
 The specification says no specific applications or software packages are examined, so write about ICT generally.
@@ -141,6 +185,12 @@ The specification says no specific applications or software packages are examine
 - **Limits:** incorrect input still gives incorrect output, errors of principle and compensating errors remain hidden, costs and training, data security, backup and fraud risks.
 
 **Worked reminder.** A figure of 1,650 is keyed as 1,560. The software debits and credits 1,560, so the trial balance agrees. The error is 90, which is divisible by 9, a typical sign of transposed digits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--05-ial-ict-keyed-error.webp" width="900" height="834" alt="A sale of 4,500 is keyed as 5,400. The package posts debit trade receivables and credit sales of 5,400, so the trial balance and control account agree, but profit is overstated by 900." loading="lazy">
+  <figcaption>ICT completes the double entry but cannot spot a wrong amount keyed in.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

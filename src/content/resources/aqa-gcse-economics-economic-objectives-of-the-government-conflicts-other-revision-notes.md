@@ -66,6 +66,22 @@ If unemployment falls from 8.0% to 6.2%, the change is 1.8 percentage points. As
 - CPI 100.0 to 102.5: 2.5 / 100 × 100 = **2.5%** inflation.
 - Exports: goods 90, services 60, total 150. Imports: goods 120, services 38, total 158. Balance = 150 − 158 = **−8**, a deficit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other--08-measuring-four-objectives.webp" width="900" height="930" alt="Four panels: unemployment 1.6 of 32 million is 5.0 percent; CPI 112.0 to 115.4 is 3.0 percent; real GDP 800 to 824 is 3.0 percent; exports 210 minus imports 236 is a deficit of 26." loading="lazy">
+  <figcaption>How each objective is measured, with the lesson numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## Conflicts between objectives
 
 | Policy | Helps | May harm |
@@ -98,6 +114,17 @@ Be ready to say whether a conflict is certain or only possible. Cutting rates do
 - Which group bears the cost?
 - Could another policy do the job with fewer side effects?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other--01-obj-country-b-rate-cut.webp" width="900" height="1090" alt="Paired bars compare Year 1 and Year 2 for Country B after an interest rate cut. Growth rises 0.8 to 3.1 and unemployment falls 8.0 to 6.2 (both better). Inflation rises 1.1 to 4.2 and the current account deficit widens from 1.5 to 3.0 per cent of GDP (both worse)." loading="lazy">
+  <figcaption>A rate cut helped growth and jobs but hurt price stability and the balance of payments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+
 ## Other objectives
 
 ### Reducing inequality
@@ -108,11 +135,43 @@ Be ready to say whether a conflict is certain or only possible. Cutting rates do
 
 **Worked reminder.** A sales tax of 10% on all spending. Household S has income 15,000 and spends 80% of it, 12,000, so pays 1,200, which is **8%** of income. Household T has income 80,000 and spends 40%, 32,000, so pays 3,200, which is **4%**. Lower earners pay a bigger share, so the tax is regressive in effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other--02-obj-progressive-tax-shares.webp" width="900" height="960" alt="Two bars show the shares of income of households P, Q and R before and after a progressive tax. P rises from 7.5 to 9.3 per cent, Q from 22.5 to 25.2, R falls from 70.0 to 65.5. Average tax rates are 0, 10.0 and 24.8 per cent." loading="lazy">
+  <figcaption>Tax rising with income leaves the poorest household with a bigger share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ### Managing environmental change
 
 - Aim: reduce pollution, protect resources, slow harmful climate change.
 - Tools: pollution taxes, regulation, subsidies for clean technology, spending on public transport.
 - Conflicts: job losses in polluting industries, higher costs for firms and households, less competitive exports, possible slower growth now.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other--03-obj-pollution-tax-firm.webp" width="900" height="990" alt="Two bars compare a mill's costs. Doing nothing costs 400,000 pounds of tax. Cutting emissions by 10,000 tonnes costs 320,000 tax plus 60,000 equipment, 380,000, so the firm gains 20,000." loading="lazy">
+  <figcaption>The tax saved is bigger than the cost of cutting emissions, so the firm cuts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other--09-fuel-tax-regressive.webp" width="900" height="920" alt="Household V (income 18,000) pays 300 pounds, 1.7 percent of income; Household W (72,000) pays 600 pounds, 0.8 percent. W pays more pounds but a smaller share." loading="lazy">
+  <figcaption>A fuel tax is regressive in effect: a larger share of a small income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other--10-groups-who-lose.webp" width="900" height="830" alt="Four tiles: low-income households (less inequality at risk), workers in polluting industries (full employment), exporters (current account), unemployed workers (full employment)." loading="lazy">
+  <figcaption>Name the group, say how they lose and link an objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
 
 ### Key terms
 
@@ -143,6 +202,12 @@ Be ready to say whether a conflict is certain or only possible. Cutting rates do
 | Strict environmental rules | Workers in affected industries | Job losses |
 
 **Worked reminder.** A saver has 20,000. Interest of 5% pays 1,000 a year. If the rate falls to 3%, interest is 600. The saver loses **400**, which is 40% of their interest income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
 
 ## Moral, ethical and sustainability considerations
 

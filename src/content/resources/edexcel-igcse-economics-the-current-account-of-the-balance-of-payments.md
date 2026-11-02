@@ -53,6 +53,12 @@ The macroeconomic objective in the specification is a surplus or balance. A defi
 
 Fuller accounts also record income earned abroad and transfers of money. The specification lists only trade in goods and services, so the examples here use those two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## 2. Visibles and invisibles
 
 **Visibles** are traded goods that you can see and touch: machinery, food, clothing, oil. **Invisibles** are traded services: tourism, banking, insurance, transport, education.
@@ -74,11 +80,28 @@ Country P (illustrative year, billions of pels, the local currency):
 
 Current account balance = -15 + 11 = **-4**, a deficit of 4 billion pels. Country P has a surplus on invisibles but the large visible deficit outweighs it. If its GDP (total output) is 250 billion pels, the deficit is 4 / 250 x 100 = **1.6%** of GDP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--03-ca-imported-costs.webp" width="900" height="900" alt="Three stacked bars of a bakery’s unit cost in pels. Now: 140 home costs plus 60 imported flour is 200. If the foreign flour price rises 10 percent, flour costs 66 and the total is 206, up 3 percent. If the pel falls from 1.60 to 1.20 quin, 96 quin of flour costs 80 pels instead of 60, the total is 220, up 10 percent." loading="lazy">
+  <figcaption>A bakery with 60 of its 200 unit costs imported sees costs rise 3% if foreign flour rises 10%, but 10% if the pel falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--04-ca-reserves.webp" width="900" height="830" alt="Bar chart of foreign reserves in billions. Reserves start at 30, fall to 18 after one year and 6 after two years because the deficit is 12 billion a year. A dashed line reaches zero at 2.5 years, which is 30 divided by 12. After that the country must borrow or sell assets to foreigners." loading="lazy">
+  <figcaption>Reserves of 30 billion and a 12 billion yearly deficit last 2.5 years.</figcaption>
+</figure>
+
+
 ### Worked example 2: a surplus
 
 Country S (illustrative): visible exports 112 and imports 95; invisible exports 35 and imports 41, all in billions of its own currency.
 
 Visible balance = 112 - 95 = +17. Invisible balance = 35 - 41 = -6. Current account = 17 - 6 = **+11**, a surplus. With GDP of 440, that is 11 / 440 x 100 = **2.5%** of GDP. Note that a surplus overall can hide a deficit in one section, and the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--01-visibles-invisibles-balance.webp" width="900" height="1150" alt="Two waterfall charts. Country P: goods balance -15 plus services balance +11 gives a current account of -4, a deficit. Country S: goods +17 plus services -6 gives +11, a surplus. Figures are in billions of local currency." loading="lazy">
+  <figcaption>Visible and invisible balances add up to the current account.</figcaption>
+</figure>
+
 
 ## 3. The relationship with exchange rates
 
@@ -109,6 +132,12 @@ Exports fall, imports rise, and the current account tends to move toward deficit
 
 Rule of thumb: a weaker currency helps the current account, and a stronger currency hurts it. This is a tendency, not a certainty. The outcome depends on how strongly buyers respond to the price changes, and that can take time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ### How the current account affects the exchange rate
 
 Where the exchange rate is set by market forces, foreign buyers need pels to buy Country P's exports, which creates demand for pels. Residents of Country P sell pels to buy foreign currency for imports, which creates a supply of pels.
@@ -125,6 +154,17 @@ A persistent deficit therefore tends to push the currency down. The fall then ma
 Exchange rates are published every day by banks, newspapers and websites. A quote such as GBP/USD gives the number of units of the second currency that one unit of the first currency buys. If it reads 1.30, then 1 pound buys 1.30 dollars. Convert in the same way as above: multiply to go from the first currency to the second, and divide to go back.
 
 To practise, take any current quotation, such as pound, dollar, euro or yen, and repeat the machine calculation above. Then check whether the currency has strengthened or weakened over a month and which type of firm gains or loses. No real rates are quoted here, because they change daily.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--02-exchange-rate-export-import-prices.webp" width="900" height="1060" alt="Three rows compare prices at 1.60, 1.20 and 2.00 quin per pel. At 1.20 the machine is 25% cheaper abroad and the foreign good 33.3% dearer at home; at 2.00 the machine is 25% dearer and the foreign good 20% cheaper." loading="lazy">
+  <figcaption>A weaker currency makes exports cheaper and imports dearer; a stronger currency does the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--05-ca-quotation.webp" width="900" height="710" alt="A quotation tile reads GBP/USD 1.30, meaning 1 pound buys 1.30 dollars. Going from pounds to dollars you multiply by 1.30, so 50 pounds is 65 dollars. Going back you divide by 1.30, so 65 dollars is 50 pounds. The rate 1.30 comes from the lesson; the amounts 50 and 65 are illustrative." loading="lazy">
+  <figcaption>In a quotation the first currency is the one being priced: multiply to go to the second, divide to come back (amounts are illustrative).</figcaption>
+</figure>
+
 
 ## 4. Reasons for deficits and surpluses
 
@@ -147,6 +187,17 @@ A surplus has the mirror-image causes: goods that are better or cheaper than riv
 Country P's chair makers raise prices by 6% in a year. Their main foreign rival raises prices by only 2%. Relative price = 1.06 / 1.02 = 1.039, so the chairs are about 3.9% dearer than the rival's, even though both rose. If the exchange rate does not change, some buyers move to the rival, so exports fall and domestic buyers may also choose imported chairs.
 
 Price is only part of the story. A well-known brand with a reputation for reliability can sell abroad even at a higher price, and cheap goods of poor quality may not sell at all. Use both ideas in an answer when the data allows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--01-ca-reasons.webp" width="900" height="968" alt="Two panels. Towards surplus: high-quality domestic goods, low domestic prices and a falling exchange rate all raise exports and cut imports. Towards deficit: low-quality domestic goods make buyers switch to imports, high-quality or cheap foreign goods raise imports, and a rising exchange rate cuts exports and raises imports." loading="lazy">
+  <figcaption>Quality, price and the exchange rate each push the current account towards surplus or deficit through exports and imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--02-ca-relative-price.webp" width="900" height="1020" alt="Two bars. Country P chair prices start at an index of 100 and rise 6 percent to 106. The foreign rival starts at 100 and rises 2 percent to 102. The relative price is 1.06 divided by 1.02, which is 1.039, so P chairs are about 3.9 percent dearer even though both rose. The vertical axis starts at 60 to show the gap." loading="lazy">
+  <figcaption>A 6% rise against a 2% rise makes Country P’s chairs about 3.9% dearer than the rival’s.</figcaption>
+</figure>
+
 
 ## 5. The impact of a deficit
 

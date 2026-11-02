@@ -66,6 +66,17 @@ For full explanations and worked examples, use the [Key ideas study guide](/reso
 | Energy change | bonds broken – bonds formed (kJ/mol); negative = exothermic | Higher tier only |
 | pH | 1 unit lower → H⁺ concentration × 10 | Higher tier only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--07-ki-gallium-mean.webp" width="900" height="810" alt="A balance beam with gallium-69 (60%) and gallium-71 (40%) balancing at 69.8, the relative atomic mass, with the calculation 6980 / 100." loading="lazy">
+  <figcaption>The weighted mean of 60% gallium-69 and 40% gallium-71 is 69.8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--08-ki-mean-rate.webp" width="900" height="880" alt="Graph of gas volume against time: a straight line from 0 to 48 cm3 at 40 s. The mean rate is 48 / 40 = 1.2 cm3/s." loading="lazy">
+  <figcaption>Mean rate = quantity of product / time = 48 / 40 = 1.2 cm3/s.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **Particles in an ion**
@@ -103,6 +114,12 @@ For full explanations and worked examples, use the [Key ideas study guide](/reso
 | Giant ionic | High | Only when molten or dissolved | Ions must be free to move to carry charge |
 | Metallic | Mostly high | Yes | Delocalised electrons carry charge and transfer thermal energy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - **Formula from groups.** Sodium (Group 1) and oxygen (Group 6): Na⁺ and O²⁻, so two Na⁺ for each O²⁻ → **Na₂O**.
@@ -123,12 +140,24 @@ For full explanations and worked examples, use the [Key ideas study guide](/reso
 | Exothermic vs endothermic | Temperature of surroundings rises vs falls |
 | (Higher tier only) Strong vs concentrated | Degree of ionisation vs amount of acid per volume |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--06-aqa-three-ways-reactions.webp" width="900" height="1010" alt="Three panels show the only three ways reactions happen. One, proton transfer: a hydrogen ion H+ moves from an acid to a hydroxide ion, making water, as in neutralisation. Two, electron transfer: an electron moves from a metal atom such as sodium to a non-metal atom such as chlorine, making sodium and chloride ions. Three, electron sharing: a hydrogen atom and a chlorine atom share a pair of electrons, forming a covalent bond in hydrogen chloride." loading="lazy">
+  <figcaption>Every reaction in the course moves a proton, moves electrons, or shares a pair of electrons.</figcaption>
+</figure>
+
+
 ## Linking chains to learn
 
 - **Group → outer electrons → ion charge → formula.** Magnesium is in Group 2, loses 2 electrons, forms Mg²⁺.
 - **Bonding → structure → property.** Ionic → giant lattice → high melting point and conducts only when molten or dissolved.
 - **Collisions → activation energy → rate.** Hotter → faster, more energetic particles → more collisions exceed the activation energy.
 - **Bonds broken and formed → energy transferred.** Exothermic when forming bonds releases more energy than breaking them needs (Higher tier only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--10-ki-bond-energy-water.webp" width="900" height="1109" alt="Energy ladder for 2H2 + O2 making 2H2O with H-H 436, O=O 498 and O-H 464 kJ/mol. Broken 1370, formed 1856, net -486 kJ/mol, exothermic." loading="lazy">
+  <figcaption>Breaking 1370 kJ/mol and forming 1856 kJ/mol gives -486 kJ/mol.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -160,6 +189,17 @@ For full explanations and worked examples, use the [Key ideas study guide](/reso
 11. 10⁽⁶⁻²⁾ = **10 000 times**
 12. **Zinc** (Zn loses two electrons to form Zn²⁺).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--07-aqa-chlorine-bromine-reactivity.webp" width="900" height="950" alt="Two atoms drawn side by side with the same shell spacing. Chlorine, electronic structure 2,8,7, has three shells. Bromine, 2,8,18,7, has four shells. Both have seven electrons in the outer shell, shown in gold." loading="lazy">
+  <figcaption>Chlorine has fewer shells than bromine, so its outer shell pulls an incoming electron harder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing that an ion forms by gaining or losing **protons** instead of electrons.
@@ -171,6 +211,12 @@ For full explanations and worked examples, use the [Key ideas study guide](/reso
 - Writing that energy is "made" or "lost" in a reaction; it is **transferred** to or from the surroundings.
 - (Higher tier only) Dropping the negative sign on an exothermic energy change, or counting only one O–H bond per water molecule.
 - (Higher tier only) Confusing **strong** (fully ionised) with **concentrated** (lots of acid per volume).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--06-ki-calcium-ion.webp" width="900" height="740" alt="Calcium-40 ion with a 2+ charge: 20 protons and 20 neutrons in the nucleus, 18 electrons in shells 2, 8, 8, and two electrons lost shown dashed." loading="lazy">
+  <figcaption>Protons 20, neutrons 40 - 20 = 20, electrons 20 - 2 = 18.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

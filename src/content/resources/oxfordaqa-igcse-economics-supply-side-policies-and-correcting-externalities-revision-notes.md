@@ -43,6 +43,12 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 | Lower taxes on business profits | Firms keep more, invest more | Investment, enterprise | Lost revenue, profits may not be invested |
 | Privatisation and deregulation | Competition and profit motive | Efficiency, lower prices, lower subsidies | Monopoly power, job losses, weaker standards |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Chains of reasoning to learn
 
 - **Training:** more spending on skills → output per worker up → unit costs down → capacity and exports up → growth and lower inflation pressure.
@@ -50,6 +56,12 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 - **Lower profit tax:** more retained profit → more investment → more capital per worker → higher productivity and capacity.
 - **Deregulation:** fewer barriers → more firms → competition → lower prices and better service.
 - **Privatisation:** profit motive → cost cutting → lower costs; but profit may be put above poorer customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--02-take-home-pay.webp" width="900" height="880" alt="Two bars of 2,800 monthly pay: tax 980 and keep 1,820 at 35 percent, tax 840 and keep 1,960 at 30 percent, a gain of 140. An overtime hour of 40 leaves 26 then 28." loading="lazy">
+  <figcaption>Cutting the tax rate from 35% to 30% adds 140 a month but only 2 per overtime hour.</figcaption>
+</figure>
+
 
 ## Linking to objectives
 
@@ -116,12 +128,29 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 
 **Elasticity link.** A tax is more effective at cutting output where demand is elastic. If PED is -0.25, a 20% price rise cuts quantity by `-0.25 × 20 = -5%` only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--02-charcoal-tax.webp" width="900" height="990" alt="Supply and demand for charcoal with Qd = 110 - 2P and Qs = 2P - 10 cross at price 30 and quantity 50. A tax of 10 shifts supply up so price is 35 and quantity 40. Buyers pay 5 more, sellers keep 25, and the shaded rectangle is tax revenue of 400." loading="lazy">
+  <figcaption>A tax equal to the external cost cuts output from 50 to 40 and the burden is shared equally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--03-solar-subsidy.webp" width="900" height="990" alt="Supply and demand for rooftop solar with Qd = 100 - 2P and Qs = 10 + P cross at price 30 and quantity 40. A subsidy of 6 shifts supply to Qs = 16 + P so price is 28 and quantity 44. Sellers receive 34 and the shaded rectangle is the government cost of 264." loading="lazy">
+  <figcaption>A subsidy equal to the external benefit lowers the price buyers pay and raises output from 40 to 44.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Tax and cap:** both can reach the same quantity, but a tax gives the government the revenue and a cap leaves it with the firms.
 - **Tax and subsidy shifts:** both move the supply curve. A tax shifts it left, a subsidy shifts it right. Demand does not move.
 - **Direct and indirect taxes:** direct taxes (income, profit) are supply-side tools; indirect taxes (on goods) are the usual tool for a negative externality.
 - **Efficiency and fairness:** a policy can raise output but widen inequality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--04-output-cap.webp" width="900" height="910" alt="Charcoal market with a vertical cap at 40 tonnes. Price is 35 and sellers keep 40 x (35 - 25) = 400 more than under the tax, which gave the 400 to the government." loading="lazy">
+  <figcaption>A 40-tonne cap gives the same quantity as the tax, but the 400 goes to sellers instead of the government.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -173,3 +202,14 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.2.3.3 and 3.2.3.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+

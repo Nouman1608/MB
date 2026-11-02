@@ -76,6 +76,12 @@ intermediate forms in which the delocalised system is **partly disrupted**; the 
 H⁺ is lost and the delocalised ring is **restored**. Substitution, not addition, happens because keeping
 the ring keeps the aromatic stabilisation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-halogen-compounds-revision-notes--04-hal-carrier-cycle.webp" width="900" height="980" alt="Three steps: AlCl3 reacts with Cl2 to make Cl+ and AlCl4-; Cl+ replaces H on benzene giving H+; H+ and AlCl4- form HCl and regenerate AlCl3. Overall C6H6 + Cl2 gives C6H5Cl + HCl." loading="lazy">
+  <figcaption>AlCl3 is used in step 1 and re-formed in step 3, so it is a catalyst.</figcaption>
+</figure>
+
+
 ### Why methylbenzene gives two products
 
 The –CH₃ group **directs to the 2- and 4-positions** (it is electron-donating), so chlorination of
@@ -93,6 +99,12 @@ makes the ring slightly **more reactive** than benzene.
 
 Only the catalyst route makes a **halogenoarene**; the UV route makes a compound whose Cl is on an sp³
 carbon, so it behaves like a halogenoalkane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-halogen-compounds-revision-notes--03-hal-ring-or-sidechain.webp" width="900" height="1040" alt="Methylbenzene with Cl2 and AlCl3 gives 2- and 4-chloromethylbenzene on the ring; with UV light and no catalyst it gives (chloromethyl)benzene with Cl on the side chain." loading="lazy">
+  <figcaption>The conditions decide whether chlorine goes on the ring or the side chain.</figcaption>
+</figure>
+
 
 ## Reactivity: halogenoalkane vs halogenoarene (31.1.2)
 
@@ -121,6 +133,12 @@ pairs stay on Cl, and OH⁻ can attack the δ+ carbon.
 
 **Relative ease of hydrolysis** (links to topic 33.3): acyl chlorides (fast, cold water) > alkyl
 chlorides (need heating with NaOH(aq)) > aryl chlorides (no reaction under these conditions).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-halogen-compounds-revision-notes--05-hal-aryl-unreactive.webp" width="900" height="1120" alt="Chloroethane is attacked by OH- at its delta plus carbon and is hydrolysed. In chlorobenzene a chlorine lone pair overlaps the ring pi system, strengthening the C-Cl bond, and the pi cloud repels OH-, so nothing happens." loading="lazy">
+  <figcaption>Overlap of the Cl lone pair with the ring and repulsion of OH- explain no reaction.</figcaption>
+</figure>
+
 
 ## Exam traps
 

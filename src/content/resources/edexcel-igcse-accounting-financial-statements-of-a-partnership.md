@@ -62,6 +62,12 @@ A limited liability partnership (LLP) is a business structure that is separate f
 
 For an exam answer, the contrast is the one to remember: partners in an ordinary partnership have unlimited liability, whereas members of an LLP have limited liability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--01-g208-partnership-vs-llp.webp" width="900" height="976" alt="In an ordinary partnership the partners have unlimited liability, so the firm's debts can reach their personal assets. In an LLP the members have limited liability and their personal assets are generally protected. The LLP is a legal person; the exact limit is not in the specification." loading="lazy">
+  <figcaption>Partners have unlimited liability; LLP members have limited liability.</figcaption>
+</figure>
+
+
 ## Section 24 of the Partnership Act 1890
 
 Section 24 sets rules that apply when the partners have no agreement, or where the agreement says nothing about a point. An agreement always overrides these defaults. The specification lists five areas. The rules in the table are given here as general knowledge of the Act and the usual textbook position, not as wording from the specification.
@@ -84,6 +90,17 @@ Zainab Okoro and Liam Brandt run Cobalt Lane Cycles with no written agreement. L
 
 Had the year ended with a loss for the year of 9,000, the same rule shares it equally: 4,500 each. Liam still receives his 1,000 interest, because it was paid as an expense before the loss was reached.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--02-g208-section-24-defaults.webp" width="900" height="916" alt="With no agreement: no salaries, profit or loss shared equally, 5% a year on a partner's loan, no interest on capital and none on drawings unless agreed. An agreement always overrides these rules." loading="lazy">
+  <figcaption>Section 24 defaults apply only when the agreement is silent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--03-g208-section-24-example.webp" width="900" height="946" alt="Profit before loan interest of $43,000 less $1,000 loan interest (20,000 x 5%) gives $42,000, shared $21,000 each. A $9,000 loss is shared $4,500 each, and Liam still receives his $1,000 interest because it was an expense." loading="lazy">
+  <figcaption>Loan interest is an expense; profit or loss is then shared equally.</figcaption>
+</figure>
+
+
 ## The appropriation account
 
 An appropriation account shows how the profit for the year is shared among the partners. It is not part of the income statement. The income statement ends at profit for the year and the appropriation account starts from that figure. The nature of the account is that it appropriates, or allocates, profit to the partners once the business itself has finished measuring it.
@@ -98,6 +115,17 @@ Typical contents, when the agreement provides for them:
 | Residual profit (or loss) | Shared in the agreed profit-sharing ratio |
 
 Two things do not appear here. Drawings are not appropriated, because they are the partner taking out money that has already been earned. Interest on a partner's loan is not appropriated either. It is an expense above, in the income statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--04-g208-appropriation-waterfall.webp" width="900" height="1001" alt="Profit for the year $34,500 plus $630 interest on drawings, less $6,000 interest on capital and Sofia's $12,000 salary, leaves $17,130 residual profit, shared 3:2 as $10,278 and $6,852. Loan interest of $800 is already deducted in the income statement." loading="lazy">
+  <figcaption>Add drawings interest, deduct interest on capital and salary, then share the rest in the ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-pa-agreement-terms.webp" width="900" height="880" alt="Seven agreement terms are linked to where they appear. Capital goes to the capital account and loan interest is a business expense. Interest on capital and salaries are deducted, interest on drawings is added and the ratio divides the balance in the appropriation account. Drawings are debited to current accounts." loading="lazy">
+  <figcaption>Every term in the agreement decides a figure in the capital, profit or loss, appropriation or current accounts.</figcaption>
+</figure>
+
 
 ## Capital and current accounts
 
@@ -203,6 +231,17 @@ The balances carried down, 1,268 for Ravi and 11,482 for Sofia, are credit balan
 
 Net assets equal total equity, which is the check that the whole chain of workings is right. A partner's debit current account balance would be deducted in the equity section, not added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--05-g208-current-accounts.webp" width="900" height="1112" alt="Ravi's current account: 2,150 + 3,600 + 10,278 - 14,400 - 360 = 1,268 credit. Sofia's: 1,300 + 2,400 + 12,000 + 6,852 - 10,800 - 270 = 11,482 credit. Both become next year's opening balances." loading="lazy">
+  <figcaption>Credits build each current account; drawings and interest on drawings reduce it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--06-g208-net-assets-equity.webp" width="900" height="991" alt="Net assets of $112,750 equal equity: capital $60,000 and $40,000 plus current accounts $1,268 (Ravi) and $11,482 (Sofia). A debit current balance would be deducted." loading="lazy">
+  <figcaption>Net assets equal total equity: the check that the workings are right.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Putting loan interest in the appropriation account. It belongs in the income statement, above profit for the year.
@@ -212,6 +251,12 @@ Net assets equal total equity, which is the check that the whole chain of workin
 - Entering drawings in the capital account of a firm that keeps fixed capitals.
 - Treating the appropriation account as part of the income statement. The income statement stops at profit for the year.
 - Applying the 5% loan rule when the agreement states a different rate. The agreement wins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-loss-after-appropriations.webp" width="900" height="830" alt="Profit of 11,600 dollars plus 600 interest on drawings, less 6,000 interest on capital and 17,500 of salaries, leaves a loss of 11,300 dollars. It is shared 2:2:1 as 4,520, 4,520 and 2,260 dollars and debited to the current accounts." loading="lazy">
+  <figcaption>When interest and salaries exceed profit the shortfall is a loss shared in the agreed ratio.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

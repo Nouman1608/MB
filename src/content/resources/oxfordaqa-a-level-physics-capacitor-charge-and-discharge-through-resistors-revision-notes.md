@@ -30,6 +30,12 @@ Condensed notes for section 3.9.1 of the OxfordAQA International AS and A-level 
 - Time constant = RC, in seconds when R is in Ω and C in F.
 - Neither process finishes in a finite time. Each is exponential: equal time steps give equal fractional changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--08-half-time-constant-ratio.webp" width="900" height="930" alt="An exponential decay halves in every equal time step T1/2 = 0.693 RC, wherever you start. For RC = 47 s, T1/2 is about 33 s. A straight-line fall loses a constant amount; a decay loses a constant fraction." loading="lazy">
+  <figcaption>Each half-time halves the quantity, which is the constant-ratio property of exponential decay.</figcaption>
+</figure>
+
+
 ## Equations
 
 | Quantity | Discharge | Charge |
@@ -48,6 +54,12 @@ Useful fractions:
 | 2RC | 0.135 | 0.865 |
 | 3RC | 0.050 | 0.950 |
 | 5RC | 0.0067 | 0.993 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--06-rc-charge-discharge-curves.webp" width="900" height="1130" alt="Against time in units of RC, charging makes Q and the capacitor p.d. rise towards their final values (63 percent at one RC) while the current and resistor p.d. fall from their maximum. V_R + V_C always equals V0. Discharging makes Q, V and I all fall with the same exponential shape (37 percent at one RC)." loading="lazy">
+  <figcaption>Charge and p.d. rise or fall, but the current always decays exponentially.</figcaption>
+</figure>
+
 
 ## Graphs: shapes, gradients, areas
 
@@ -118,6 +130,12 @@ Investigate charge and discharge. Typical set-up: capacitor, resistor, switch, s
 
 Evaluation points: finite voltmeter resistance in parallel with R shortens the measured time constant; capacitor tolerance means the marked C is not exact; polarity of an electrolytic capacitor; read timings from one start point; the uncertainty in RC has the same percentage uncertainty as the gradient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--07-time-constant-tau.webp" width="900" height="930" alt="A discharge curve plotted against multiples of the time constant falls to 36.8, 13.5 and 5.0 percent at 1, 2 and 3 tau. The tangent at t = 0 meets the time axis at t = RC. For 470 microfarad and 33 kilohm tau is 15.5 s, and 37 percent is still left after one tau." loading="lazy">
+  <figcaption>After one time constant a capacitor has not fully discharged: 37% remains.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Discharge form Q₀e^(−t/RC) versus charging form Q₀(1 − e^(−t/RC)). In the second, Q₀ is the final charge.
@@ -153,6 +171,17 @@ Evaluation points: finite voltmeter resistance in parallel with R shortens the m
 9. Q₀ = I₀ × RC = 50 × 10⁻⁶ × 30 = **1.5 × 10⁻³ C**.
 10. Q₀ = CV₀ is **unchanged**; I₀ = V₀/R **halves**; RC **doubles**.
 11. t = 15 ln(9.0/3.0) = 15 ln 3 = **16.5 s**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--02-energy-stored-vq-graph.webp" width="900" height="1010" alt="A straight V-Q graph from the origin has gradient 1/C. A thin strip is the work V delta Q and the triangle under the line is the energy stored, 1/2 QV = 1/2 CV^2 = Q^2/2C. For 470 microfarad at 12 V the energy is 33.8 mJ. OCR only: charging from a 12 V battery takes QV = 67.7 mJ, half stored and half lost as heat." loading="lazy">
+  <figcaption>The energy stored is the area under the V-Q graph, half of QV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--09-ln-graph-find-rc.webp" width="900" height="1230" alt="Potential difference readings for a discharging capacitor lie on a curve. Plotting ln V against t gives a straight line of gradient minus 0.0500 per second, so RC = 20.0 s. With R = 100 kilohm, C = 200 microfarad. For charging, plot ln(V0 - V) instead." loading="lazy">
+  <figcaption>A ln V against t graph is a straight line whose gradient is minus 1/RC.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -46,6 +46,22 @@ These notes condense sections 5.3 (Profit and loss) and 5.4 (Statement of financ
 
 Use the exact reason, then link it to the business in the question. Profit is not the same as cash in the bank.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--06-profit-four-reasons.webp" width="900" height="850" alt="Four tiles show the four reasons profit matters to private sector businesses: it rewards owners for risk, retained profit is a source of finance, it measures success (for example 14,000 falling to 9,800), and rising profit attracts investors." loading="lazy">
+  <figcaption>Learn the four reasons as separate points and link the one you choose to the business in the question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## 5.3.2 Statement of profit or loss
 
 | Line | Standard working |
@@ -92,6 +108,32 @@ Revenue rose by 16,000, but cost of sales rose by 9,600 and expenses by 5,500, s
 | Good gross profit, low profit | Expenses too high | Cut or review expenses |
 | Profit rising steadily | Business is succeeding | Keep reinvesting, expand, attract investors |
 | Loss | Costs exceed revenue | Cut costs, raise revenue, seek finance to survive |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--01-pl-revenue-up-profit-down.webp" width="900" height="1040" alt="Two stacked bars for Cullinane Cycles: Year 1 revenue 144,000 (cost of sales 88,000, expenses 42,000, profit 14,000) and Year 2 revenue 172,800 (cost of sales 113,000, expenses 50,000, profit 9,800). Revenue rose 20% and cost of sales 28%, so profit fell 30%." loading="lazy">
+  <figcaption>Rising revenue does not guarantee rising profit: compare each line of the statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--02-sofp-capital-employed.webp" width="900" height="1114" alt="Left column: current assets 33,000 and non-current assets 165,000, total 198,000. Right column: current liabilities 21,000, non-current liabilities 60,000, owners’ funds 117,000. A bracket shows capital employed of 177,000 = 198,000 − 21,000 = 60,000 + 117,000." loading="lazy">
+  <figcaption>Capital employed can be found two ways, which give the same answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--03-working-capital-year-1-2.webp" width="900" height="840" alt="Year 1: current assets 33,000 against current liabilities 21,000, working capital +12,000. Year 2: current assets 39,000 against current liabilities 51,000, working capital −12,000." loading="lazy">
+  <figcaption>Working capital = current assets − current liabilities; negative means trouble paying bills due within a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--07-fernsby-backwards.webp" width="900" height="652" alt="A revenue bar of 81,000 shows an unknown cost of sales, expenses of 31,000 and profit of 9,800. Step 1 adds profit and expenses to get gross profit 40,800. Step 2 takes gross profit from revenue to find cost of sales 40,200." loading="lazy">
+  <figcaption>Rearrange the same two formulas: gross profit = profit + expenses, then cost of sales = revenue − gross profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## 5.4.1 Statement of financial position
 
@@ -150,6 +192,17 @@ Ellerslie Joinery then buys machinery for 12,000 and pays by raising its overdra
 - Capital employed = 108,000 - 21,000 = 87,000, which is unchanged.
 
 The business has gained a machine but has less short-term safety. Replacing the overdraft with a longer-term loan would move the debt out of current liabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--08-sofp-sort-items.webp" width="900" height="916" alt="Eight items sorted into the four zones of a statement of financial position. Inventory, trade receivables and cash are current assets; property and machinery are non-current assets; trade payables and overdraft are current liabilities; the bank loan is a non-current liability. Working capital uses current liabilities only." loading="lazy">
+  <figcaption>Inventory and overdraft are both current; receivables are owed to the business, payables are owed by it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

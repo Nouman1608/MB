@@ -45,6 +45,12 @@ The specification lists the causes: public goods, positive and negative external
 
 **Complete and partial failure.** For a pure public good the market fails completely: private firms would supply none. With an externality the market still operates, but the quantity is wrong. Keep that distinction for evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## 2. Private, public and quasi-public goods
 
 A **private good** is rival and excludable. If you eat a loaf, nobody else can, and the baker can refuse to sell it to you unless you pay.
@@ -69,11 +75,33 @@ A **free rider** gains from a good without paying for it. When enough people thi
 
 A worthwhile project goes unprovided: a misallocation. Government provision, funded by taxation, can remove the problem. Whether it should be run by the state is a separate question for later pages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--05-un228-street-light-8x6.webp" width="900" height="860" alt="Eight households each value a street light at 6, total 48, against a cost of 30, a gain of 18. One household would lose 24 by paying alone; equal shares of 3.75 each leave 2.25 net, yet each hopes others pay." loading="lazy">
+  <figcaption>A worthwhile 48 versus 30 street light goes unprovided because each household hopes others pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ### Quasi-public goods
 
 A **quasi-public good** shows only part of the public-good profile. It may be non-rival only up to a point, or partly excludable.
 
 Example: an uncongested road is non-rival, because one more car does not stop another from driving. At rush hour it becomes rival, since each extra vehicle slows the rest. If tolls are added, it also becomes excludable. The same good moves along a spectrum between public and private.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--04-un228-quasi-public-grid.webp" width="900" height="850" alt="A grid of non-rival/rival against non-excludable/excludable. A quiet road moves down to rival at rush hour and right to private with tolls; open TV moves right to excludable when encrypted." loading="lazy">
+  <figcaption>Traffic and technology move a good across the rival/excludable grid.</figcaption>
+</figure>
+
 
 ### Technological change
 
@@ -100,6 +128,17 @@ Output per sheep is 20 − N. Each herder keeps adding sheep while that output e
 - It assumes users act only in self-interest. Social norms and reputation matter.
 - Defining private property rights or government regulation may solve it, but enforcement can be costly.
 - The result depends on the resource. Slowly regenerating stocks are much more at risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--03-shared-pasture.webp" width="900" height="930" alt="Output per sheep, 20 minus N, falls to the cost of 8 at 12 sheep, where herders stop adding and net gain is zero. The extra output from one more sheep, 20 minus 2N, equals 8 at 6 sheep, where net gain is highest at 36. Bars show net gain of 36, 20 and 0 at 6, 10 and 12 sheep." loading="lazy">
+  <figcaption>Each herder adds sheep until output per sheep falls to the cost of 8 (12 sheep); the best number for the community is 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
 
 ## 3. Externalities
 
@@ -147,9 +186,31 @@ Negative externalities cause **overproduction**, and positive ones cause **under
 
 Negative consumption externality: private benefit exceeds social benefit, so the social demand curve lies below private demand and the market overconsumes. Positive production externality: the social supply curve lies below the private one and the market underproduces. The method is the same each time. Find where the private curves meet, shift the curve that carries the externality by the size of the external amount, and compare quantities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--06-un228-other-externalities.webp" width="900" height="1290" alt="Top: negative consumption externality; social demand lies 5 below private demand, market 60 versus optimum 48, loss 30. Bottom: positive production externality; social supply lies 5 below private supply, market 60 versus 72, gain 30." loading="lazy">
+  <figcaption>The same method gives the other two externality cases.</figcaption>
+</figure>
+
+
 ### Property rights
 
 **Property rights** are legal claims that let an owner use a resource and keep others out. Where they are missing or unenforceable, as with a river, the air or the open sea, nobody can charge a polluter or demand payment from a beneficiary. Costs and benefits then spill onto others. Setting up clear ownership can turn an externality into a price, but it is hard when the resource is mobile, when many people are affected, or when harm is hard to trace.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--01-brick-kiln-externality.webp" width="900" height="928" alt="Price against quantity. Private supply meets demand at 60 units and 10. Social supply lies 5 higher and meets demand at 48 units and 12. The market overproduces by 12 units and the triangle between the supply curves is a welfare loss of 30." loading="lazy">
+  <figcaption>The kiln ignores the external cost of 5, so the market makes 60 bricks when 48 is best for society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--02-cycle-course-externality.webp" width="900" height="928" alt="Price against quantity. Private demand and supply meet at 40 courses and 15. Social demand lies 6 higher and meets supply at 48 and 19. The market underprovides by 8 courses and the triangle between the demand curves is a welfare gain of 24." loading="lazy">
+  <figcaption>Others gain 6 from each course, so social demand sits above private demand and the market provides 40 courses instead of 48.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Evaluation points
 

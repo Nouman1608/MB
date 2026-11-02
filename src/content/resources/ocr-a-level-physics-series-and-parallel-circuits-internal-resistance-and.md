@@ -44,6 +44,12 @@ This guide covers section 4.3 (Electrical circuits) of the OCR Advanced GCE in P
 
 To apply it, choose a direction round the loop. Count an e.m.f. as positive when you pass through the source from negative to positive terminal in that direction, and count each resistor's p.d. as IR with the current in that direction. Then write: sum of e.m.f. = sum of IR.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
+
 ## 4.3.1(c), (d) Resistors in series and parallel
 
 In series the same current passes through every resistor and the p.d.s add. Dividing the supply p.d. by the same current gives
@@ -89,6 +95,12 @@ Energy check: the sources deliver 12 × 2.0 + 8.0 × 1.0 = 32 W and the resistor
 
 If a current comes out negative, its true direction is opposite to the one you drew. That is a valid answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--06-two-source-kirchhoff.webp" width="900" height="1100" alt="Two branches (12 V with 3.0 ohm, 8.0 V with 2.0 ohm) share a 2.0 ohm resistor. The junction law and two loop equations give I1 = 2.0 A, I2 = 1.0 A and 3.0 A through the shared resistor, with 6.0 V across it. Power from sources (32 W) equals power in the resistors (12 + 2 + 18 W)." loading="lazy">
+  <figcaption>Solving a two-source circuit with Kirchhoff laws and checking energy.</figcaption>
+</figure>
+
+
 ## 4.3.2 Internal resistance
 
 **4.3.2(a).** The **e.m.f.** E of a source is the energy transferred to each coulomb of charge passing through the source, from chemical (or other) energy to electrical. A real source also resists the flow of charge through itself. This **internal resistance** r acts like a resistor in series with an ideal source.
@@ -127,6 +139,22 @@ V falls by 0.06 V for each 0.10 A, so gradient = −0.60 V A⁻¹ and r = 0.60 �
 
 Keep currents small so the source does not heat, since heating changes r.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--03-resistivity-wire.webp" width="900" height="1255" alt="Three wires drawn to scale show that doubling the length doubles R (11.9 to 23.9 ohm) and doubling the diameter quarters it (2.98 ohm). A graph of R against L for a 0.32 mm wire has gradient 13.7 ohm per metre, so resistivity equals gradient times area, 1.1 x 10^-6 ohm metre." loading="lazy">
+  <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--04-resistance-temperature.webp" width="900" height="1275" alt="In a metal, heating makes the ions vibrate more so electrons collide more and resistance rises. In an NTC thermistor or an LDR, heat or light frees many more carriers so resistance falls. The graph shows a metal rising gently and an NTC thermistor falling from 2.4 kohm at 25 C to 0.50 kohm at 65 C." loading="lazy">
+  <figcaption>Collisions versus carrier number: why metals and NTC thermistors behave oppositely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
+
 ## 4.3.3 Potential dividers
 
 A **potential divider** is two or more components in series across a source, with the output taken across one of them. The same current flows through both, so p.d.s share in proportion to resistance:
@@ -156,12 +184,29 @@ Vout rises as the temperature rises.
 
 **Worked example 7 (LDR).** A 9.0 V supply is across a 10 kΩ resistor and an LDR, with Vout across the LDR. In bright light the LDR is 2.0 kΩ: Vout = 2.0/12 × 9.0 = 1.5 V. In the dark it is 100 kΩ: Vout = 100/110 × 9.0 = 8.2 V. Vout is high in the dark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
+
 ### 4.3.3(c)(ii) Investigating dividers and sensing circuits (PAG4)
 
 - Build the circuit from the diagram with a DC supply and check polarity.
 - Measure Vout with a digital voltmeter and check that Vin stays constant.
 - For a thermistor, vary temperature with a water bath and a thermometer, allowing time to reach equilibrium. For an LDR, vary distance from a lamp and note stray light.
 - Plot Vout against the variable and compare with the divider equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">
+  <figcaption>A loaded divider lowers the output; a slider on a track gives a variable output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--09-sensing-dividers.webp" width="900" height="1210" alt="With an NTC thermistor and a 2.2 kohm resistor on 9.0 V, the output across the fixed resistor rises from 4.95 V at 20 C to 7.07 V at 60 C while the output across the thermistor falls from 4.05 V to 1.93 V. With an LDR in series with 10 kohm on 6.0 V, the 10 kohm resistor has 5.45 V in bright light and 0.29 V in the dark." loading="lazy">
+  <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
+</figure>
+
 
 ## Common errors
 

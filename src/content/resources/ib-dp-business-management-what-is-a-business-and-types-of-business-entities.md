@@ -77,6 +77,27 @@ The point to notice is that one business can operate in several sectors. Classif
 
 Sectors also change as economies develop. This is general knowledge, not a point the guide makes. Many economies see employment move from primary toward secondary and then tertiary, and some toward quaternary. For a business, this shapes where demand and skilled workers are found.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--07-four-sectors-ardenholt.webp" width="900" height="890" alt="Four rows: primary (farms growing oats, not the mill), secondary (milling), tertiary (the cafe) and quaternary (product research). Milling provides 420,000 of 600,000 revenue (70%) and the cafe 180,000 (30%)." loading="lazy">
+  <figcaption>One business can operate in several sectors, so classify the activity, not the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--10-sectors-as-economies-develop.webp" width="900" height="904" alt="Four bars show illustrative job shares by sector at four stages: primary falls, secondary peaks mid-way, tertiary then quaternary rise. Numbers are illustrative." loading="lazy">
+  <figcaption>As economies develop, jobs move between the four sectors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+
 ## Entrepreneurship
 
 An entrepreneur is a person who identifies a business opportunity, takes the risk of organizing resources to exploit it, and bears the possible loss. Entrepreneurship is the process of doing this. Typical qualities are willingness to take risks, creativity, determination, and the ability to spot unmet needs.
@@ -84,6 +105,12 @@ An entrepreneur is a person who identifies a business opportunity, takes the ris
 The guide also refers to social entrepreneurs. A social entrepreneur applies the same drive to a social or environmental need, with that need as the main purpose rather than maximum profit. Paper 3, which only HL students sit, is about a social enterprise, so this idea is worth knowing even at SL, where one Paper 2 stimulus option may also be a social enterprise.
 
 An entrepreneur is not the same as a manager. The entrepreneur starts and risks the venture; a manager runs an existing one for owners. In small firms one person is often both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
 
 ## Challenges and opportunities for starting up a business
 
@@ -116,6 +143,12 @@ Ravi has £11,000 of savings, so he must find £17,000 − £11,000 = £6,000 fr
 - Challenge: a lender may hesitate to fund a firm with no record.
 
 A good answer would judge which factor matters most. Here the seasonal cash-flow gap is likely to decide whether Ravi survives his first year, so he should plan a cash reserve before opening.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--08-startup-cost-gap.webp" width="900" height="790" alt="Five start-up costs total 17,000 pounds. Savings of 11,000 cover most but leave a 6,000 pound gap that must be raised elsewhere." loading="lazy">
+  <figcaption>Start-up costs of £17,000 against £11,000 of savings leave a £6,000 finance gap.</figcaption>
+</figure>
+
 
 ## 1.2 Types of business entities
 
@@ -152,6 +185,22 @@ In general, a **sole trader** keeps all profit and decisions but carries all ris
 
 A reasoned recommendation might be a privately held company, because the £20,000 gap to be borrowed makes limited liability valuable. A weaker answer lists features without choosing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--09-entity-features-grid.webp" width="900" height="998" alt="A grid compares sole trader, partnership, privately held and publicly held companies on control, selling ownership, continuity and disclosure using icons and short labels." loading="lazy">
+  <figcaption>Control, selling ownership, continuity and disclosure by entity type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ### For-profit social enterprises
 
 A social enterprise (standard form) is an organization that trades to meet a social or environmental aim. The guide splits the type into for-profit and non-profit. Its for-profit list has three items.
@@ -159,6 +208,12 @@ A social enterprise (standard form) is an organization that trades to meet a soc
 - **Private sector companies.** Privately owned firms that make profit while also pursuing a stated social purpose, for example by employing people who find it hard to get work, or by reinvesting part of profit in a cause.
 - **Public sector companies.** Government-owned organizations run as businesses. They charge for goods or services and aim for surplus, but exist to serve the public interest, such as a state-owned water or rail operator.
 - **Cooperatives.** Businesses owned and run by members, who may be workers, customers or producers. Typically each member has an equal vote, and surplus is shared among members or reinvested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--09-social-enterprise-types.webp" width="900" height="770" alt="Private sector and public sector sit at the top. Social enterprises split into for-profit (private sector companies, public sector companies, cooperatives) and non-profit (NGOs). A cooperative is for-profit in the IB guide." loading="lazy">
+  <figcaption>The IB guide lists three for-profit social enterprise types and one non-profit type, the NGO.</figcaption>
+</figure>
+
 
 ### Non-profit social enterprise: NGOs
 

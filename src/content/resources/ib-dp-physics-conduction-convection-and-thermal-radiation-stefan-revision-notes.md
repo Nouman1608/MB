@@ -64,6 +64,22 @@ Constants are stated here so you can practise. Use the values your teacher or qu
 
 **Reminder.** A rod of area 2.0 × 10⁻⁴ m² and length 0.50 m with k = 100 W m⁻¹ K⁻¹ and ΔT = 40 K: rate = 100 × 2.0 × 10⁻⁴ × 40 / 0.50 = 1.6 W.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--01-three-mechanisms.webp" width="900" height="1020" alt="Three panels compare conduction through a rod, convection in heated water and radiation across a vacuum. Conduction needs matter with no bulk movement, convection needs a moving fluid and radiation needs no medium. Energy flows from hot to cold in each." loading="lazy">
+  <figcaption>Conduction needs matter, convection needs a moving fluid, and radiation needs no medium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--02-conduction-particles.webp" width="900" height="990" alt="In a solid, particles at the hot end vibrate with large amplitude and those at the cold end with small amplitude, and energy passes along with no net movement of material. In a metal, free electrons drifting towards the cold end carry extra energy as well." loading="lazy">
+  <figcaption>Vibrating particles pass energy to neighbours; in metals free electrons add to the transfer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--03-conduction-rate.webp" width="900" height="1000" alt="An insulated aluminium rod has ends at 100 and 20 degrees Celsius and a straight-line temperature graph with gradient 200 K per metre, giving 12.9 W. At 0.10 m the temperature is 80 degrees. A rod twice as long has half the gradient and half the rate, 6.4 W." loading="lazy">
+  <figcaption>Rate = kA times the temperature gradient, so doubling the length halves the rate.</figcaption>
+</figure>
+
+
 ## Convection
 
 Write the chain in order.
@@ -74,6 +90,12 @@ Write the chain in order.
 4. A circulating convection current carries thermal energy.
 
 It needs a fluid and cannot occur in a solid. It needs the heating to be below the fluid, or the cooling above it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--04-convection-current.webp" width="900" height="1000" alt="Air heated by a radiator becomes less dense, rises, spreads across the ceiling, cools and sinks on the far side, completing a convection current. Two boxes of nine particles show the same mass occupying more volume when warm, so it is less dense." loading="lazy">
+  <figcaption>Heating lowers density, warm fluid rises and cool fluid sinks, creating a convection current.</figcaption>
+</figure>
+
 
 ## Radiation and the black-body spectrum
 
@@ -111,6 +133,22 @@ It needs a fluid and cannot occur in a solid. It needs the heating to be below t
 **Chain reminder.** A star peaks at 600 nm and has radius 1.0 × 10⁹ m. Wien: T = 2.9 × 10⁻³ / 600 × 10⁻⁹ = 4.8 × 10³ K. Then A = 4π × (1.0 × 10⁹)² = 1.26 × 10¹⁹ m² and L = σAT⁴ = 3.9 × 10²⁶ W, which is about 1.0 L⊙.
 
 **Reading a spectrum graph.** Check which axis is wavelength and which is intensity. Compare peak positions to rank temperatures: the peak further to the left belongs to the hotter body. Compare heights or areas to rank power per unit area. Never compare temperatures from the heights alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--05-luminosity-scaling.webp" width="900" height="1000" alt="Four spheres show L proportional to r squared times T to the fourth. Doubling the radius gives L times 4, doubling T gives L times 16, and doubling the radius while halving T gives L times one quarter." loading="lazy">
+  <figcaption>Luminosity scales as r squared and T to the fourth, so temperature has the stronger effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--07-blackbody-spectrum.webp" width="900" height="990" alt="Three black-body curves for 3000, 4000 and 5000 K each rise to one peak and fall more slowly. Hotter curves are higher everywhere and peak at shorter wavelengths: 967, 725 and 580 nm. The visible band is shaded." loading="lazy">
+  <figcaption>Raising T lifts the whole curve and moves the peak to shorter wavelength, as lambda-max times T = 2.9e-3 m K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--08-star-chain.webp" width="900" height="960" alt="A four-step chain: Wien gives T = 4.0e3 K from a 725 nm peak, Stefan-Boltzmann gives area 1.38e21 square metres, the sphere formula gives radius 1.05e10 m, and dividing by the Sun luminosity gives 52." loading="lazy">
+  <figcaption>Wien gives T, Stefan-Boltzmann gives area, the sphere formula gives radius.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

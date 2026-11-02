@@ -61,6 +61,27 @@ Solve 2x² − 8x = 0. Then 2x(x − 4) = 0, so x = 0 or x = 4. Do not divide by
 
 Solve x² − 81 = 0. Then (x − 9)(x + 9) = 0, so x = 9 or x = −9.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing--05-factors-give-roots.webp" width="900" height="980" alt="The curve y = x² + 4x - 45 crosses the x-axis at x = -9 and x = 5. Factorising gives (x + 9)(x - 5) = 0; a product is zero only if a factor is zero, so x = -9 or x = 5." loading="lazy">
+  <figcaption>The solutions from the factors are exactly where the curve meets the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing--08-common-factor-repeated-root.webp" width="900" height="890" alt="y = 7x squared - 21x = 7x(x - 3) crosses the x-axis at 0 and 3, and dividing by x would lose x = 0. y = x squared - 10x + 25 = (x - 5) squared touches the x-axis only at x = 5, one repeated solution." loading="lazy">
+  <figcaption>A common factor gives a root at 0; a perfect square gives one repeated root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
+
 ## Method in steps: graphs (Core)
 
 1. To solve ax² + bx + c = 0 from the graph of y = ax² + bx + c, read the x-values where the curve crosses the x-axis.
@@ -69,6 +90,12 @@ Solve x² − 81 = 0. Then (x − 9)(x + 9) = 0, so x = 9 or x = −9.
 4. Give answers to the accuracy asked for and describe them as approximate.
 
 Example. The graph of y = x² − 4x − 1 is drawn. To solve x² − 4x − 3 = 0, write x² − 4x − 1 = 2. Draw y = 2. The line meets the curve at about x = −0.6 and x = 4.6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing--07-zero-product-trap.webp" width="900" height="746" alt="The curve y = (x-4)(x+9) crosses the x-axis at 4 and -9, but (x-4)(x+9) = 10 needs it to meet the line y = 10, at about 4.73 and -9.73. Setting each bracket to a number is wrong; rearrange to equal 0 first." loading="lazy">
+  <figcaption>The zero-product rule only works when the other side is 0.</figcaption>
+</figure>
+
 
 ## Method in steps: completing the square (Extension only)
 
@@ -79,6 +106,22 @@ Example. The graph of y = x² − 4x − 1 is drawn. To solve x² − 4x − 3 =
 
 Example. x² − 6x + 2 = 0. Then (x − 3)² − 9 + 2 = (x − 3)² − 7 = 0. So x = 3 ± √7, which is 5.65 or 0.35 to 2 decimal places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing--04-complete-square-roots.webp" width="900" height="950" alt="The curve y = x² + 12x + 5 has its minimum at (-6, -31) on the line x = -6, and crosses the x-axis root 31 either side, at x = -0.43 and x = -11.57. Algebra: (x + 6)² - 31 = 0, (x + 6)² = 31, x = -6 plus or minus root 31." loading="lazy">
+  <figcaption>Completing the square puts the vertex at (-6, -31), and the roots lie root 31 either side of x = -6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--05-complete-square-a2-graph.webp" width="900" height="940" alt="The parabola y = 2x squared + 6x - 1 has its lowest point at (-1.5, -5.5) on the line x = -1.5 and crosses the y axis at -1. Completing the square gives a = 2, b = 1.5, c = -5.5, the turning point." loading="lazy">
+  <figcaption>The completed-square form reads off the turning point (-b, c).</figcaption>
+</figure>
+
+
 ## Method in steps: formula (Extension only)
 
 1. Write the equation as "= 0" and note a, b and c with signs.
@@ -87,6 +130,12 @@ Example. x² − 6x + 2 = 0. Then (x − 3)² − 9 + 2 = (x − 3)² − 7 = 0.
 4. If it is negative, there are no real solutions. Otherwise finish both ± values.
 
 Example. 2x² + 5x − 1 = 0. Here b² − 4ac = 25 + 8 = 33, so x = (−5 ± √33)/4, which is 0.186 or −2.69 to 3 significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-solving-equations-and-inequalities--05-quadratic-formula-graph.webp" width="900" height="980" alt="The curve y = 3x² + 7x − 5 crosses the x-axis at x = −2.91 and x = 0.57, the two solutions the formula gives. The working shows a = 3, b = 7, c = −5 and b² − 4ac = 109." loading="lazy">
+  <figcaption>The two answers from the formula are where the curve meets the x-axis.</figcaption>
+</figure>
+
 
 ## Choosing the line on a graph
 
@@ -112,6 +161,17 @@ Many questions give a shape or a situation, ask you to form an equation, then so
 5. Answer in the words of the question, with units.
 
 Example. A rectangle has sides (x + 3) cm and x cm and area 40 cm². Then x(x + 3) = 40, so x² + 3x − 40 = 0 and (x + 8)(x − 5) = 0. The side x must be positive, so x = 5. The sides are 5 cm and 8 cm. (Check: 5 × 8 = 40.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--05-quadratic-surd-roots.webp" width="900" height="970" alt="The parabola y = x^2 - 4x - 3 has line of symmetry x = 2 and crosses the x axis a distance sqrt(7) either side, giving x = 2 +/- sqrt(7)." loading="lazy">
+  <figcaption>The surd roots sit sqrt(7) either side of the line of symmetry x = 2.</figcaption>
+</figure>
+
 
 ## Accuracy and presentation
 

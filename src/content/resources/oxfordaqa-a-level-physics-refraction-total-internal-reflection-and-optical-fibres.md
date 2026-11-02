@@ -53,6 +53,17 @@ When light crosses a boundary its frequency does not change, because the source 
 
 **Worked example 2.** Light of wavelength 589 nm in air enters the glass above (n = 1.56). Since f is constant and cs = c/n, the wavelength in the glass is λ = 589 / 1.56 = 378 nm (3 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--03-refraction-bending.webp" width="900" height="1070" alt="Top: light in air meets plastic (n = 1.47) at 38.0 degrees and refracts to 24.8 degrees, bending towards the normal. Bottom: light in glass (n = 1.50) meets water (n = 1.33) at 35.0 degrees and refracts to 40.3 degrees, bending away. Angles are from the normal." loading="lazy">
+  <figcaption>Into a higher n the ray bends towards the normal; into a lower n it bends away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--04-refraction-wavelength.webp" width="900" height="950" alt="Wavefronts are 589 nm apart in air and 378 nm apart in glass of index 1.56, so the ray bends towards the normal. Frequency is unchanged, speed falls from c to c/n = 1.92x10^8 m/s and wavelength shrinks by the factor n." loading="lazy">
+  <figcaption>Frequency stays fixed, so slower light has a shorter wavelength.</figcaption>
+</figure>
+
+
 ## Snell's law
 
 When light crosses the boundary between two transparent media, it changes direction unless it meets the boundary along the normal. Angles are always measured from the **normal**, the line at 90° to the surface, never from the surface itself.
@@ -81,6 +92,12 @@ The ray bends away from the normal because water is less dense than the glass. C
 
 Shine a narrow ray through a rectangular block, measure the angle of incidence i and the angle of refraction r for a range of values, and plot sin i against sin r. Snell's law makes the graph a straight line through the origin whose gradient is n of the block (with air as medium 1). A graph uses every reading and shows an outlier; one pair of angles does not. Measure the angles from the normal drawn at the point of entry, and use a thin ray so the angle is read to a small uncertainty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--05-refractive-index-practical.webp" width="900" height="1230" alt="A ray is traced through a rectangular block using marked points, then i and r are measured at the entry point. A graph of sin i against sin r is a straight line through the origin; a rise of 0.60 over a run of 0.40 gives a gradient of 1.50 = n." loading="lazy">
+  <figcaption>Plot sin i against sin r; the gradient is the refractive index.</figcaption>
+</figure>
+
+
 ## Total internal reflection
 
 When light travels towards a **less** dense medium (n1 > n2), the refracted ray bends away from the normal. As θ1 increases, θ2 reaches 90° and the refracted ray runs along the boundary. The angle of incidence at which this happens is the **critical angle** θc. Setting θ2 = 90° (so sin θ2 = 1) in Snell's law gives
@@ -104,6 +121,12 @@ sin θc = 1.50 / 1.55 = 0.9677, so θc = 75.4°. Rays must meet the boundary at 
 
 Because the critical angle depends on the ratio n2/n1, the same block can show TIR against air and not against water: n2 is larger for water, so θc is larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--06-critical-angle.webp" width="900" height="1215" alt="A ray along a radius of a semi-circular glass block (n = 1.52) meets the flat face at 30 degrees (most light refracts out at 49.5 degrees), at the critical angle 41.1 degrees (refracted ray along the surface) and at 55 degrees (total internal reflection)." loading="lazy">
+  <figcaption>Beyond the critical angle all the light is reflected back into the denser medium.</figcaption>
+</figure>
+
+
 ## Optical fibres
 
 A **step index** optical fibre has two layers, and its refractive index changes in one step at the boundary between them:
@@ -119,6 +142,12 @@ The cladding has several functions:
 - It protects the core surface from scratches and dirt, where light would otherwise escape.
 - It stops light leaking from one fibre into another when fibres touch, so signals do not cross over (cross-talk).
 - It gives the fibre strength.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--07-fibre-guiding.webp" width="900" height="1120" alt="In a step index fibre (core 1.55, cladding 1.50, critical angle 75.4 degrees) a ray at 80 degrees to the boundary is totally internally reflected along the core; one at 70 degrees leaks into the cladding. Only rays within 14.6 degrees of the axis are guided. The cladding gives the lower index needed for TIR and also protects the core, stops cross-talk and adds strength." loading="lazy">
+  <figcaption>A lower-index cladding makes total internal reflection keep light in the core.</figcaption>
+</figure>
+
 
 ## Pulse broadening: dispersion
 
@@ -141,6 +170,17 @@ To reduce modal dispersion, use a very narrow core so that only the axial path i
 ### Material dispersion
 
 The refractive index of glass depends slightly on wavelength, so different wavelengths travel at different speeds. A source that emits a spread of wavelengths, such as an LED, sends different wavelengths of the same pulse along at different speeds, and the pulse spreads. Using a source with a very narrow range of wavelengths, such as a laser, reduces material dispersion. The effect is present even in a single-mode fibre, where modal dispersion has been removed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--08-modal-dispersion.webp" width="900" height="1040" alt="In a 3.0 km fibre the axial ray takes 15.50 microseconds and the critical-angle zigzag ray, with path L n1/n2, takes 16.02 microseconds. It arrives 517 ns later, so the received pulse is wider and lower. A single-mode narrow core or smaller n1 - n2 reduces the effect." loading="lazy">
+  <figcaption>Rays on different paths arrive at different times, so pulses broaden.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--09-dispersion-absorption.webp" width="900" height="1085" alt="Two light pulses are sent. After dispersion each is wider and lower and they merge into one hump. After absorption over 5.0 km at 85 percent per km each keeps its width but only 0.85^5 = 44 percent of the power remains. Regenerators restore shape and strength." loading="lazy">
+  <figcaption>Dispersion lengthens pulses; absorption shrinks them.</figcaption>
+</figure>
+
 
 ## Absorption
 

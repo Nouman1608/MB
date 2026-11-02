@@ -63,6 +63,12 @@ Not required: reconciling control account balances with the sales ledger and pur
 | Trade discount | Reduction on the invoice; never entered in a control account. |
 | Contra entry | Setting off what a person owes you against what you owe them, when they are both customer and supplier. No cash moves. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--12-trade-cash-discount-control.webp" width="900" height="1040" alt="Illustrative numbers: list price 2,000 less 10 percent trade discount 200 gives an invoice of 1,800, so the trade discount is never recorded. Paying 1,764 with a cash discount of 36 credits the control account 1,764 plus 36 = 1,800." loading="lazy">
+  <figcaption>Only the cash discount reaches the control account.</figcaption>
+</figure>
+
+
 ## Purposes: learn four
 
 - Gives total trade receivables or trade payables at any date.
@@ -94,6 +100,27 @@ Not required: reconciling control account balances with the sales ledger and pur
 | Closing credit balances c/d | Contra (to purchases ledger) |
 | | Closing debit balances c/d |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--06-control-mirror.webp" width="900" height="970" alt="Two columns show that the sales ledger control account normally has a debit balance and the purchases ledger control account a credit balance, with each item on the mirror-image side." loading="lazy">
+  <figcaption>Increases go on the normal-balance side; the purchases account is the mirror of the sales account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--07-sales-control-brackenfell.webp" width="900" height="934" alt="A balanced sales ledger control account for Brackenfell Paints with both debit and credit opening and closing balances. Debit total 61,130 minus known credits 40,770 gives the closing debit balance 20,360, the trade receivables figure." loading="lazy">
+  <figcaption>The closing receivables figure is the balancing item once all other entries are in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
+
 ## Which side? Purchases ledger control account
 
 | Debit side | Credit side |
@@ -106,6 +133,12 @@ Not required: reconciling control account balances with the sales ledger and pur
 | Closing credit balances c/d | Closing debit balances c/d |
 
 Memory aid: in the sales ledger control account, anything that makes customers owe more goes on the debit side. In the purchases ledger control account, anything that makes you owe suppliers more goes on the credit side. Everything that reduces the debt goes on the other side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--10-hollinger-purchases-control.webp" width="900" height="848" alt="Purchases ledger control account totalling 81,170 each side, with closing credit balances 29,210 as the balancing figure: 81,170 less known debits 51,960." loading="lazy">
+  <figcaption>Trade payables of 29,210 are found by balancing.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -148,6 +181,12 @@ Debit side 5,000 + 12,000 = 17,000. Credit side known: 9,500 + 200 + 400 = 10,10
 - An input error (wrong amount or wrong customer) is still carried through.
 - Access controls, passwords and backups protect the data the totals depend on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--11-digital-control-accounts.webp" width="900" height="1090" alt="Journals and the cash book feed software that totals them into a control account report at any date, used to chase overdue accounts and decide supplier payments. A wrong amount typed in still gives a complete-looking report, so passwords, access controls and backups matter." loading="lazy">
+  <figcaption>Software builds totals fast but cannot check the data.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. On which side of the sales ledger control account does a customer's dishonoured cheque go?
@@ -175,6 +214,12 @@ Debit side 5,000 + 12,000 = 17,000. Credit side known: 9,500 + 200 + 400 = 10,10
 9. The supplier owes the business, for example after an overpayment.
 10. Advantage: totals available quickly and at any date. Limitation: wrong data entered is still carried through.
 11. No. The syllabus says you do not need to.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--08-missing-credit-sales.webp" width="900" height="830" alt="Marwick Tools control account: credits total 44,850 (receipts 31,800, discount 560, returns 940, irrecoverable 300, closing balance 11,250). Credit sales are 44,850 minus the opening 9,600, which is 35,250." loading="lazy">
+  <figcaption>Credit sales are the balancing figure when all other items are known.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -56,6 +56,12 @@ The syllabus separates two kinds of purchase.
 
 Fair value means the value the buyer and seller agree for each asset, which can differ from the seller's book value. A seller's equipment might be carried at 18,000 but agreed at 16,500.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--04-acq-whole-or-assets.webp" width="900" height="928" alt="Buying a whole business takes all assets and liabilities for one price and can create goodwill (65,000 against net assets 57,000 gives 8,000). Buying individual assets takes only chosen items at agreed values with no goodwill." loading="lazy">
+  <figcaption>The two kinds of purchase compared: one price and goodwill, or item-by-item values and none.</figcaption>
+</figure>
+
+
 ## Goodwill and purchase consideration
 
 Purchase consideration is what the buyer gives: cash, shares, debentures, or a mixture. Shares are recorded at the value they are issued for, so shares with a nominal value of 1 issued at 1.75 give share capital of 1 and share premium of 0.75 each.
@@ -65,6 +71,17 @@ Goodwill on acquisition is the excess of the purchase consideration over the fai
 **Goodwill = purchase consideration - (assets at agreed values - liabilities taken over)**
 
 This is purchased goodwill: it is paid for. Inherent goodwill is built up by a business over time and is not recorded until someone pays for it. In a merger forming a partnership, the partners agree a goodwill figure for each business and credit it to that owner's capital account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--01-acq-goodwill.webp" width="900" height="920" alt="Garsdale pays 65,000 for a business whose net identifiable assets are 57,000 (assets 71,500 at agreed values less 14,500 payables). The 8,000 above net assets is goodwill." loading="lazy">
+  <figcaption>Goodwill is the price paid above the net assets acquired at agreed values: 65,000 - 57,000 = 8,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-consideration.webp" width="900" height="850" alt="The 65,000 price is 24,000 share capital, 18,000 share premium, 12,000 debentures and 11,000 cash. Shares are recorded at nominal 1.00 plus 0.75 premium. Debentures are a liability." loading="lazy">
+  <figcaption>Shares issued at 1.75 split into 1.00 share capital and 0.75 share premium; debentures are debt, not equity.</figcaption>
+</figure>
+
 
 ## Case A: two sole traders form a partnership
 
@@ -98,6 +115,12 @@ Opening statement of financial position: non-current assets are equipment 25,500
 
 If the merger formed a limited company instead, the journal has the same debit side. The credit side shows liabilities taken over and share capital issued to each owner, for example one share per dollar of agreed value at par.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--03-acq-merger.webp" width="900" height="970" alt="Gresley (net assets 24,100 plus goodwill 5,000) and Hobday (16,100 plus 3,000) open with capital of 29,100 and 19,100, giving 48,200 in the new partnership. This equals assets of 56,400 less liabilities of 8,200." loading="lazy">
+  <figcaption>Each partner opens with net assets at agreed values plus agreed goodwill.</figcaption>
+</figure>
+
+
 ## Case B: a sole trader joins an existing partnership
 
 Yarrow & Kellaway Joinery shares profits 3:2. Corin Maddox, a sole trader, joins. The existing assets are revalued first, using a revaluation account.
@@ -123,6 +146,12 @@ The partners value the existing goodwill at 12,000, shared in the old ratio (7,2
 | Balance c/d | 50,780 | 37,520 | 11,900 |
 
 The new statement of financial position shows premises 52,000, equipment 18,500, goodwill 14,000, inventory 11,700, trade receivables 8,300 and bank 2,500: total assets 107,000. Trade payables are 6,800, so net assets and total capital are both 100,200. Future profits are shared in the new agreed ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--04-acq-revaluation.webp" width="900" height="1080" alt="Premises rise 12,000 while equipment, inventory and receivables fall 1,500, 800 and 400, a net revaluation profit of 9,300. It is shared 3:2 as 5,580 and 3,720. Existing goodwill of 12,000 is shared the same way as 7,200 and 4,800." loading="lazy">
+  <figcaption>Revaluation profit and existing goodwill belong to the old partners in the old ratio.</figcaption>
+</figure>
+
 
 ## Case C: a limited company acquires a business
 
@@ -159,6 +188,17 @@ The business purchase account is cleared to nil. In the seller's books a realisa
 
 Her capital of 60,500 plus 4,500 profit equals 65,000, which she receives as shares 42,000, debentures 12,000 and cash 11,000. If the seller were a partnership, the profit is shared in the profit-sharing ratio and the consideration is divided between the partners' capital balances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--01-acq-realisation.webp" width="900" height="1076" alt="Vickery Crates realisation account: debits 40,000, 22,000, 13,000 and profit 4,500, credits 14,500 and 65,000, both totals 79,500. The seller receives 65,000 as shares, debentures and cash." loading="lazy">
+  <figcaption>The seller's realisation account balances at 79,500 with a profit to capital of 4,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-purchase-account.webp" width="900" height="1030" alt="Journal 1 credits the business purchase account 65,000; Journal 2 debits it 65,000 and credits share capital 24,000, share premium 18,000, debentures 12,000 and bank 11,000, so it clears to nil." loading="lazy">
+  <figcaption>Journals 1 and 2 leave the business purchase account at nil.</figcaption>
+</figure>
+
+
 ## The statements after the acquisition
 
 Garsdale's statement of financial position before and after (retained earnings 73,000 throughout):
@@ -191,6 +231,17 @@ Suppose Garsdale held the acquired business for the whole of its financial year.
 | Finance costs (debenture interest) | 4,500 | 720 | 5,220 |
 | Profit for the year | 82,500 | 15,280 | 97,780 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--05-acq-sofp.webp" width="900" height="1190" alt="Assets rise 68,500 from 324,000 to 392,500: equipment and goodwill +46,000 (goodwill 8,000), inventory +21,000, receivables +12,500, bank -11,000. Funding rises by the same 68,500: share capital +24,000, premium +18,000, debentures +12,000, payables +14,500, retained earnings unchanged." loading="lazy">
+  <figcaption>After the acquisition both sides of the statement of financial position rise by 68,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--03-acq-combined-pl.webp" width="900" height="990" alt="Four bars show revenue, gross profit, profit from operations and profit for the year for Garsdale plus the acquired business, ending at 97,780 after finance costs of 5,220." loading="lazy">
+  <figcaption>Combined profit for the year is 82,500 + 15,280 = 97,780.</figcaption>
+</figure>
+
+
 ## Evaluating the decision
 
 | | Advantages | Disadvantages |
@@ -199,6 +250,12 @@ Suppose Garsdale held the acquired business for the whole of its financial year.
 | Owners of the business sold or merged | Cash or shares realised; limited liability in a company; shared workload | Loss of control and independence; share of profit falls; disagreements between owners |
 
 Weigh the points against the facts given. A good answer uses the figures, for example the size of the goodwill compared with the profit the business earns, or the cash left after paying. Recommendations need a balance of reasons and a justification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--05-acq-weigh-up.webp" width="900" height="990" alt="Four comparisons on Garsdale's own figures: revenue 480,000 to 630,000, goodwill 8,000 against acquired profit 15,280, bank 30,000 to 19,000, interest 4,500 to 5,220." loading="lazy">
+  <figcaption>Weigh an acquisition with the actual figures: gains in scale against costs in cash and interest.</figcaption>
+</figure>
+
 
 ## Common errors
 

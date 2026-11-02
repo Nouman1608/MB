@@ -56,6 +56,22 @@ The specification names five factors. For each one, remember the effect, not jus
 
 Quernby Cycles repairs bikes. A busy street costs £1,900 a month in rent and an out-of-town unit costs £800. The repair shop relies on customers dropping bikes off, so the busy street may bring more repairs. Whether it is worth £1,100 more a month depends on how many extra repairs it brings and what each one earns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--01-embleton-two-units.webp" width="900" height="870" alt="Two bars: Unit A costs 2,200 pounds rent plus 250 delivery, 2,450 pounds; Unit B 3,400 plus 700, 4,100 pounds. Unit B costs 1,650 pounds more a month, so Unit A is stronger because timber is bulky and customers order by phone and web." loading="lazy">
+  <figcaption>Unit B costs £1,650 a month more, with little benefit for a made-to-order business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## Business planning (3.1.6)
 
 ### Purpose of a business plan
@@ -98,6 +114,12 @@ For "analyse", link a point to its consequence. Example: "Because the plan sets 
 
 For "evaluate", reach a judgement. Planning is usually worth the effort, particularly for a start-up that needs finance, as long as the plan is reviewed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
+
 ## Financial terms and calculations
 
 The specification names the terms. The formulas below are the standard forms.
@@ -129,6 +151,17 @@ At 150 services: revenue £6,000, total variable costs £1,800, total costs £4,
 At 80 services: revenue £3,200, total variable costs £960, total costs £3,960, **loss £760**.
 
 The fixed costs of £3,000 were the same in both months. Only the variable costs moved with the number of services.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-candles-profit-loss.webp" width="900" height="790" alt="Revenue and total cost lines against candles sold. At 200 candles there is a loss of 400 pounds, at 400 a profit of 1,300 pounds and at 500 a profit of 2,150 pounds. Fixed costs of 2,100 pounds stay the same throughout." loading="lazy">
+  <figcaption>Fixed costs stay constant, so each extra 100 candles adds £850 profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
 
 ## Sorting costs quickly
 

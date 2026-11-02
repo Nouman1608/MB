@@ -38,6 +38,12 @@ When you are ready, move on to the [Enthalpy changes practice questions](/resour
 - On a profile, Ea is measured upwards from the reactant line to the peak, whichever way ∆H goes.
 - Label both axes (enthalpy; progress of reaction), both levels, ∆H and Ea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--08-gibbs-sign-cases.webp" width="900" height="1130" alt="Four small graphs of ΔG against temperature, with shaded regions above and below zero. ΔH negative with ΔS positive is always feasible; ΔH positive with ΔS negative is never feasible; both positive is feasible above a temperature; both negative is feasible below a temperature." loading="lazy">
+  <figcaption>The signs of ΔH and ΔS decide whether a reaction is feasible at all temperatures, never, or only above or below a particular temperature.</figcaption>
+</figure>
+
+
 ## 3.2.1(d): Standard conditions and definitions
 
 - **Standard conditions**: 100 kPa and a stated temperature, 298 K. Shown by ⦵.
@@ -96,6 +102,12 @@ q = 60.0 × 4.18 × 7.4 = 1856 J = 1.856 kJ; n = 2.12 ÷ 42.4 = 0.0500 mol; ∆H
 
 **Bond enthalpies.** CH₃CH=CH₂(g) + HCl(g) → CH₃CHClCH₃(g). Use these values (kJ mol⁻¹): C=C 612, H–Cl 432, C–C 347, C–H 413, C–Cl 346.
 Only the changing bonds are needed. Broken: C=C + H–Cl = 612 + 432 = 1044. Made: C–C + one new C–H + C–Cl = 347 + 413 + 346 = 1106. ∆H = 1044 − 1106 = **−62 kJ mol⁻¹**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
 
 ## 3.2.1(h): Techniques
 

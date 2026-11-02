@@ -45,6 +45,17 @@ Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/bus
 
 Force field analysis can sit in either of the last two: it tests whether a chosen change will succeed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--01-strategy-stages.webp" width="900" height="1060" alt="Strategic management has three stages in order. Analysis uses PEST, SWOT and five forces; choice uses the Ansoff matrix, blue ocean and decision trees; implementation uses plans, budgets, people and control." loading="lazy">
+  <figcaption>Three stages of strategic management and the tools used at each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--04-strategic-change-control.webp" width="900" height="1010" alt="Fears cause resistance; managers explain, involve, train, set milestones and appoint change leaders; control checks progress and adjusts the plan. Managing and controlling strategic change." loading="lazy">
+  <figcaption>Resistance to change, managers' responses and the check-and-adjust control loop.</figcaption>
+</figure>
+
+
 ## The tools at a glance
 
 | Tool | What it does | One limit |
@@ -67,6 +78,17 @@ The details below are the usual textbook forms, not wording taken from the sylla
 - Blue ocean actions (Kim and Mauborgne): eliminate, reduce, raise, create.
 - Ansoff boxes: existing products and markets = market penetration; existing products and new markets = market development; new products and existing markets = product development; new products and new markets = diversification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--02-core-competence-tests.webp" width="900" height="1010" alt="Glaze recipes pass three tests in turn: many markets, customer-perceived benefit, hard to copy. Result: a core competence. The three standard tests of a core competence applied to Maplecote." loading="lazy">
+  <figcaption>Maplecote glaze recipes pass the three standard tests of a core competence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Decision tree**
@@ -88,6 +110,12 @@ The details below are the usual textbook forms, not wording taken from the sylla
 3. Explain what it means for the decision.
 4. Weigh it against something else and reach a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--01-maplecote-swot-pest.webp" width="900" height="1020" alt="A SWOT grid for Maplecote Ceramics (inside: strengths, weakness; outside: opportunity, threat) with PEST items feeding the outside row. Numbers and items are the lesson's. Maplecote SWOT and PEST: inside and outside factors, with PEST feeding opportunities and threats." loading="lazy">
+  <figcaption>Maplecote SWOT grid with the four PEST headings feeding the outside boxes.</figcaption>
+</figure>
+
+
 ## Worked reminder: decision tree
 
 Ilmswick Joinery (invented) can buy a CNC router for £60,000. The chance of strong orders is 0.5, giving a payoff of £90,000; weak orders give £30,000.
@@ -97,6 +125,12 @@ Net gain = 60,000 − 60,000 = £0.
 
 On numbers alone the purchase breaks even in expectation, so the decision turns on risk, other options and non-financial factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--03-fernlock-decision-tree.webp" width="900" height="980" alt="Decision tree for Fernlock Dairy. New plant: EV 3.6 million, net gain 1.6 million. Upgrade: EV 2.08 million, net gain 1.28 million. The new plant is higher by 0.32 million." loading="lazy">
+  <figcaption>Expected value then net gain for each option: the new plant wins by 0.32m.</figcaption>
+</figure>
+
+
 ## Worked reminder: classifying with Ansoff
 
 Ilmswick Joinery already sells oak doors to local builders. Selling the same doors to builders in a neighbouring region is market development. Adding a range of staircases for the same local builders is product development. Running a hotel is diversification. Offering a loyalty discount to current builders is market penetration. In each answer, name the strategy, then say what makes it more or less risky than the others.
@@ -105,6 +139,17 @@ Ilmswick Joinery already sells oak doors to local builders. Selling the same doo
 
 Scenario planning: build two to four plausible futures, test the strategy in each, and set trigger points for changing course. Blue ocean strategy: look for a space with no direct rivals by removing what customers do not value and adding what they do. Both need a judgement about how likely, and how costly, the outcome is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--02-scenario-planning.webp" width="900" height="960" alt="Bar chart of Maplecote Ceramics profit forecasts: optimistic 420, central 260, pessimistic minus 90 (thousand pounds). The loss case means the business needs a plan such as a second supplier." loading="lazy">
+  <figcaption>Scenario planning tests a strategy against several futures, including a loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--04-blue-ocean-four-actions.webp" width="900" height="930" alt="Four boxes show eliminate, reduce, raise and create applied to Maplecote Ceramics, with small bar icons. Benefit: less direct competition; risk: untested demand." loading="lazy">
+  <figcaption>The four blue ocean actions applied to Maplecote.</figcaption>
+</figure>
+
+
 ## 6.2.2 Key points
 
 ### Corporate planning: importance
@@ -112,6 +157,12 @@ Gives direction, co-ordinates departments, allocates resources, sets targets for
 
 ### Corporate culture: effects on decisions
 Sets attitude to risk, speed and breadth of consultation, ethical limits and willingness to accept change. A strategy that clashes with culture is likely to meet resistance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--03-culture-and-decisions.webp" width="900" height="1090" alt="Cautious cultures point to market penetration and risk-taking ones to diversification; culture also affects consultation, ethics and implementation. How corporate culture shapes strategic decisions." loading="lazy">
+  <figcaption>Culture sets how bold strategic choices are and how decisions are made.</figcaption>
+</figure>
+
 
 ### Transformational leadership
 Vision, inspiration, intellectual challenge, attention to individuals, role-model behaviour. Contrast with transactional (reward and penalty for set tasks).
@@ -129,6 +180,12 @@ Vision, inspiration, intellectual challenge, attention to individuals, role-mode
 | Purpose | Prepared responses for named risks | Limit damage and recover |
 | Typical content | Roles, communication, back-up arrangements | Response team, prompt information, fixing the cause, restoring reputation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--05-contingency-vs-crisis.webp" width="900" height="985" alt="Timeline with an event. Before: contingency plan (who does what, communication, key operations). After: response team, information, fix cause, recover reputation. Contingency planning (before) versus crisis management (during and after)." loading="lazy">
+  <figcaption>A contingency plan comes before an event; crisis management follows it.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Strategy (long-term, whole business) versus tactic (short-term, part of the plan).
@@ -137,6 +194,12 @@ Vision, inspiration, intellectual challenge, attention to individuals, role-mode
 - Market development (same product, new market) versus product development (new product, same market).
 - Expected value versus net gain: only net gain subtracts the cost.
 - Corporate planning (long-term objectives) versus contingency planning (specific events).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

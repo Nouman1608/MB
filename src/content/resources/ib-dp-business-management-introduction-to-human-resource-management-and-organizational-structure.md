@@ -55,6 +55,12 @@ Human resource management (HRM) is the part of a business that plans for, recrui
 
 The key point is that HRM serves the strategy of the whole business. A hotel chain planning to open in three new cities needs HRM to forecast the staff it will need, recruit them in time and train them to the same standard. Poor HR planning shows up as unfilled posts, high labour costs, low morale and weak customer service.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--04-hrm-activities.webp" width="900" height="730" alt="A hub-and-spoke diagram with business strategy in the centre and six HR activities around it: workforce planning, recruitment and selection, training and development, appraisal and reward, retention, welfare and employee relations, and supporting change. Poor HR planning shows up as unfilled posts, high labour costs, low morale and weak service." loading="lazy">
+  <figcaption>HRM covers six activities, all serving the strategy of the whole business.</figcaption>
+</figure>
+
+
 ## Internal and external factors in human resource planning
 
 Human resource planning is the process of forecasting the number and type of employees a business will need and matching that to the people it has. Factors fall into two groups.
@@ -87,6 +93,12 @@ Ledburn Bakeries runs 20 shops in a region where the working-age population is f
 
 This answer works at AO2 because each factor is linked to a consequence for the plan, not just named.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-ledburn-hr-factors.webp" width="900" height="890" alt="Internal factors (6 more shop teams, retiring bakers, fixed training budget) and external factors (demographic change, labour mobility, gig economy) feed into the HR plan: an apprenticeship scheme, flexi-time to keep older bakers, gig drivers only for delivery peaks." loading="lazy">
+  <figcaption>Each internal and external factor leads to a consequence for the HR plan.</figcaption>
+</figure>
+
+
 ## Reasons for resistance to change
 
 Resistance means employees (or managers) oppose or slow a change. Common reasons (the guide names the content point but not the items, so this list is our own wording):
@@ -103,6 +115,17 @@ Resistance means employees (or managers) oppose or slow a change. Common reasons
 To reach AO2 you should connect the reason to the context. A supervisor whose team is about to be merged is more likely to resist because of lost status. A shop-floor worker told only that the factory is "moving to automation" is more likely to resist because of fear of redundancy.
 
 *Force field analysis (HL only)* lists the driving forces for a change and the restraining forces against it, then weighs them. Resistance is one restraining force. Reducing restraining forces is usually more effective than adding more pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--06-resistance-to-change.webp" width="900" height="880" alt="Six reasons for resistance paired with a strategy: fear of job loss with job security promises; fear of the unknown with early honest communication; lack of skills with training; doubt it will work with consultation; low trust with visible leadership; loss of status with incentives." loading="lazy">
+  <figcaption>Each source of resistance has a matching HR strategy, but the best choice depends on the situation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
 
 ## HR strategies for reducing the impact of change and resistance
 
@@ -140,6 +163,17 @@ Relationships between these matter. A wide span of control means fewer levels an
 
 Suppose a business has 300 employees and every manager has exactly 6 direct reports. Layers hold 1, 6, 36 and 216 people. Four levels hold only 259, so at least five levels are needed. If the span rises to 20 across the board, 1, 20 and 400 people fit in three layers, so three levels are enough. The wider span cuts the chain of command, but each manager supervises more people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--04-span-and-levels.webp" width="900" height="840" alt="Stacked level charts for 300 employees. Span 6: layers hold 1, 6, 36 and 216 people (259), so the remaining 41 need a fifth level. Span 20: 1, 20 and 279 people fit in three levels." loading="lazy">
+  <figcaption>A wider span needs fewer levels and gives a shorter chain of command, but each manager supervises more people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--07-delegation-centralisation.webp" width="900" height="935" alt="Delegation: a manager passes authority and the task to a subordinate but stays accountable. Centralised: decisions at the top of the hierarchy. Decentralised: decisions spread to lower levels. Bureaucracy: clear rules and formal roles give consistency but can be slow." loading="lazy">
+  <figcaption>Who makes decisions, and how rules shape them.</figcaption>
+</figure>
+
+
 ## Organization charts
 
 A chart is a diagram of positions and reporting lines.
@@ -168,6 +202,17 @@ Charts can also group by **function** (marketing, finance, operations, HR), by *
 
 AO4 means you should be able to read a chart and calculate from it, such as span at each level or how many people sit below a given manager.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-structure-types.webp" width="900" height="920" alt="Four small organisation charts: by function (marketing, finance, HR), by product, by region, and a matrix where each employee reports to a function manager and a project manager." loading="lazy">
+  <figcaption>Staff can be grouped by function, product or region, or in a matrix with two reporting lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ## Appropriateness of structures when external factors change
 
 AO3 needs a judgement with reasons. Use this approach: identify the change, state what it demands of the organization, then compare structures against that demand.
@@ -185,6 +230,27 @@ Delayering also has a cost side. If each area manager earns 52,000 and four are 
 ### HL only: changes in organizational structure
 
 Content for HL only includes examples such as the project-based organization, in which temporary teams form around projects, and Charles Handy's "Shamrock Organization". Handy's model splits the organization into three leaves: a core of essential, permanent staff; contractors who do non-core work; and a flexible, often part-time or temporary workforce. It links directly to the gig economy and flexible labour in section 2.1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--07-shamrock-organisation.webp" width="900" height="850" alt="A shamrock with three leaves: core of essential permanent staff, contractors doing non-core work, and a flexible part-time or temporary workforce. HL only." loading="lazy">
+  <figcaption>Handy's Shamrock splits an organisation into core staff, contractors and a flexible workforce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--06-ledburn-delayering.webp" width="900" height="925" alt="Two charts. Before: managing director, 4 area managers, 20 store managers, 160 shop staff, span 4. After removing the area managers: span 20. Savings: 4 x 52,000 = 208,000, redundancy 4 x 14,000 = 56,000, net 152,000 in year one." loading="lazy">
+  <figcaption>Removing four area managers widens the MD span from 4 to 20 and saves 152,000 net in year one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--08-project-based-organization.webp" width="900" height="740" alt="Higher level only. A timeline with three overlapping projects, each with its own temporary team that forms at the start and disbands at the end." loading="lazy">
+  <figcaption>In a project-based organization temporary teams form around projects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
 
 ## Common errors
 

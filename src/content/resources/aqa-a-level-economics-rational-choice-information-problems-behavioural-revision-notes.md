@@ -98,6 +98,22 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 
 **Evaluation.** Some information problems are solved privately by reputation and branding. Information campaigns are costly and may be ignored. Regulation may add cost for small firms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--11-used-scooters-lemons.webp" width="900" height="1030" alt="A vertical price scale from 500 to 1,200. Buyers value a good scooter at 1,200 and a poor one at 600; owners of good scooters want at least 1,000 and of poor ones at least 500. Buyers who cannot tell them apart will pay the expected value of 900, below 1,000, so good scooters are withdrawn. The price drifts to 600. The 200 gap between 1,000 and 1,200 is a mutually beneficial trade that never happens." loading="lazy">
+  <figcaption>Buyers cannot tell good from poor, offer 900, and good owners (who want 1,000) walk away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--12-perceived-vs-true-benefit.webp" width="900" height="960" alt="Paired bars for units 1 to 6 of a health supplement. Perceived marginal benefit is 15, 13, 11, 9, 7, 5 and true marginal benefit is 11, 9, 7, 5, 3, 1, with a price line at 6. Consumers buy while perceived benefit exceeds 6, five units. Only three units have true benefit above 6. Units 4 and 5 are over-consumed, a welfare loss of (6-5) + (6-3) = 4." loading="lazy">
+  <figcaption>Buyers buy 5 units because perceived benefit exceeds the price 6; only 3 units are truly worth it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
+
 ## 3.1.2.3 Aspects of behavioural economic theory
 
 | Idea | One-line explanation | Short example |
@@ -121,6 +137,22 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 
 **Evaluation.** Behavioural findings explain many real choices, but experimental results may not hold outside the laboratory. The standard model is still useful as a baseline.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--01-present-bias-reversal.webp" width="900" height="950" alt="Two timelines. Offered 100 today or 110 in a week, the person takes 100 today. Offered 100 in week 52 or 110 in week 53, the same person takes 110. The wait and the amounts are the same, but the choice flips." loading="lazy">
+  <figcaption>The same one-week wait is judged differently depending on whether it starts now, showing weak self-control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--02-ultimatum-game.webp" width="900" height="910" alt="A pot of 100 is split 80 and 20. Accepting gives 80 and 20; rejecting gives both nothing. Low offers are often rejected, so the responder gives up 20 to punish unfairness." loading="lazy">
+  <figcaption>A responder who rejects 20 shows that fairness matters as well as own income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--03-anchoring-jacket.webp" width="900" height="730" alt="A price line marks 50, 60 and 80. Measured from the anchor 80, the jacket feels 37.5% cheaper; measured from the highest price ever of 60, the saving is about 17%." loading="lazy">
+  <figcaption>The first number seen, was 80, makes a 50 jacket feel much cheaper than it is.</figcaption>
+</figure>
+
+
 ## 3.1.2.4 Behavioural economics and policy
 
 | Tool | What it does | Example |
@@ -142,6 +174,17 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 - Fairness and trust: who decides what is "better", and is it transparent?
 - Evidence: results vary by group, so pilot first.
 - Conclusion: judge by size of the problem, cost, and speed of effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--04-framing-fat-free.webp" width="900" height="880" alt="One bar of meat is 90% fat free and 10% fat. The two wordings describe the same fact, but 90% fat free seems more appealing." loading="lazy">
+  <figcaption>Identical facts worded differently can change how appealing a product seems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--05-nudge-vs-tax.webp" width="900" height="860" alt="A 10% price rise with price elasticity of demand -0.3 cuts quantity by 3%. An invented default portion nudge cutting sales by 6% would beat it without raising prices. Nudges can fade and may be too weak for large externalities." loading="lazy">
+  <figcaption>With PED of -0.3 a 10% tax cuts sales only 3%, so a 6% nudge would do better.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -168,6 +211,12 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 8. Overestimating the risk of a dramatic event because it was widely reported recently.
 9. A default applies unless you opt out and requires no action; mandated choice forces you to make an active decision.
 10. Opt-in 0.20 x 2,000 = 400; opt-out 0.75 x 2,000 = 1,500; difference 1,100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--13-default-opt-in-opt-out.webp" width="900" height="940" alt="Two bars, each representing 5,000 staff. With opt-in, 40 per cent join, 2,000 people. With opt-out, 85 per cent stay in, 4,250 people. The difference is 2,250 extra members, each saving 1,200 a year, 2,700,000 in total. Inertia explains it: few people act to change a default." loading="lazy">
+  <figcaption>Changing the default from opt-in to opt-out lifts membership from 2,000 to 4,250 staff.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

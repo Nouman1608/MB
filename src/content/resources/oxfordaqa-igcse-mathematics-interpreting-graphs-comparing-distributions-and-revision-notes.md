@@ -66,6 +66,12 @@ Signs a graph may mislead:
 - the diagram is 3-D or has a stretched image
 - there is a very small sample or no source
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--02-misleading-axis.webp" width="900" height="1010" alt="Two bar charts of A = 52 and B = 56. With the axis starting at 50, B looks three times as tall as A. With the axis starting at 0, B is about 1.08 times A." loading="lazy">
+  <figcaption>A vertical axis that does not start at zero exaggerates differences.</figcaption>
+</figure>
+
+
 ## S7: Comparing distributions
 
 Recipe for a full comparison, with all four parts:
@@ -110,6 +116,12 @@ Words to use precisely:
 | Consistent | Little spread, so values are similar to each other |
 | Modal class | The class with the highest frequency in grouped data |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
+  <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
+
 ## S8: Correlation and lines of best fit
 
 | Type | Description |
@@ -142,6 +154,22 @@ Must-know distinction: correlation shows a relationship, not that one variable c
 
 Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 = 5, intercept 10, so y = 5x + 10. At x = 3, y = 5(3) + 10 = 25.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--03-line-of-best-fit-example.webp" width="900" height="1010" alt="Scatter graph of ten pupils revision hours against score with line y = 6x + 32 through the mean point (4.3, 57.9). At 6.5 hours the line gives 71 (interpolation). At 12 hours it gives 104, above the maximum 100, so extrapolation is unreliable." loading="lazy">
+  <figcaption>Worked example 5: interpolating inside the data is reliable, extrapolating is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--12-correlation-strength.webp" width="900" height="1140" alt="Four scatter graphs: strong positive, weak positive, strong negative and weak negative. Strong means points hug a straight line; weak means a loose band; positive rises, negative falls." loading="lazy">
+  <figcaption>Strength is how tightly the points follow a line; direction is positive or negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--01-correlation-types.webp" width="900" height="1110" alt="Three scatter diagrams in a column. Positive correlation: points rise from left to right (height and arm length). Negative correlation: points fall from left to right (age of a bicycle and price). Zero correlation: points are scattered with no pattern (shoe size and test mark)." loading="lazy">
+  <figcaption>Positive points rise, negative points fall, zero correlation shows no pattern.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. A pie chart shows 200 people. One sector has angle 54°. How many people is that?
@@ -168,6 +196,17 @@ Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 =
 9. Negative correlation: older phones tend to be worth less.
 10. Age 40 is far outside the data range 4 to 10 (extrapolation), and children stop growing, so the straight-line trend does not continue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--11-stem-leaf-back-to-back.webp" width="900" height="936" alt="Back-to-back stem and leaf diagram of puzzle times for two classes of 11. Class A medians 34 s, range 30, mean about 36.6; class B median 41 s, range 18, mean about 40.7. The median is the 6th value and is ringed." loading="lazy">
+  <figcaption>Class A is faster on average; class B is more consistent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Reading the wrong scale: counting a small square as 1 when it is worth 2 or 5.
@@ -180,6 +219,12 @@ Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 =
 - Drawing a line of best fit that bends, joins the first and last point, or ignores the trend.
 - Trusting an extrapolated estimate without comment.
 - Claiming that correlation proves cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
+  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

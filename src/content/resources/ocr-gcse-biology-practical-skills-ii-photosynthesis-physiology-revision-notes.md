@@ -32,6 +32,22 @@ These notes condense Practical Activity Groups 5 to 8 of Topic B7 (Practical ski
 
 Techniques that appear across the groups: measuring length, area, mass, time, temperature, volume of liquids and gases and pH; safe use of a Bunsen burner and a water bath or electric heater; measuring rates (gas produced, water taken up, colour change of an indicator); microscopes, magnification and labelled drawings; safe and ethical use of living organisms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--04-bacterial-lawn-zones.webp" width="900" height="920" alt="A Petri dish from above with four 6 mm discs. Clear zones of diameter 18 mm (A), 24 mm (B), 10 mm (C) and 6 mm (water) are drawn to scale with areas 254, 452, 78.5 and 28.3 square millimetres. The water disc shows no clear zone beyond the disc, and B cleared 78 percent more than A." loading="lazy">
+  <figcaption>Comparing clear-zone areas of antimicrobial agents against a sterile-water control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--12-variables-cabomba.webp" width="900" height="860" alt="A graph of bubbles in 2 minutes against lamp distance using the lesson means 54, 13 and 3 at 10, 20 and 40 cm. Lamp distance is the independent variable on the x-axis; bubbles counted is the dependent variable on the y-axis. Temperature, sodium hydrogencarbonate, plant piece and time are controls." loading="lazy">
+  <figcaption>Which variable is independent, dependent and controlled in the Cabomba practical.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--03-accuracy-precision.webp" width="900" height="930" alt="Dot plot on a number line from 9.5 to 12.0 cm3 with a dashed true value at 10.0. Student A (10.1, 9.9, 10.0) is close together and centred on 10.0. Student B (11.4, 11.5, 11.4) is close together but about 1.4 higher every time: a systematic error." loading="lazy">
+  <figcaption>Precise means close together; accurate means close to the true value.</figcaption>
+</figure>
+
+
 ## Formulas and conversions
 
 | Quantity | Formula | Check |
@@ -74,6 +90,22 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 3. Blot, weigh, soak for a set time at constant temperature, blot, reweigh.
 4. Calculate percentage change; plot against concentration; read off where the line crosses zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--01-cabomba-rig.webp" width="900" height="850" alt="Side view of the Cabomba rig. A lamp shines at a boiling tube, standing in a beaker of water with a thermometer, holding Cabomba cut end up in water with sodium hydrogencarbonate. Oxygen bubbles rise from the cut end. A ruler measures the lamp distance d." loading="lazy">
+  <figcaption>Apparatus for counting bubbles from Cabomba at different lamp distances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--03-pulse-before-after-exercise.webp" width="900" height="780" alt="Strips show 36 beats at rest and 69 beats straight after exercise in 30 seconds. Doubling gives 72 and 138 beats per minute, a rise of 66, which is a 91.7 percent increase." loading="lazy">
+  <figcaption>From a 30 second count to beats per minute and percentage increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--06-sucrose-dilution.webp" width="900" height="700" alt="Three measuring cylinders at the same scale: 20 cm3 of 1.0 M sucrose stock plus 30 cm3 of distilled water make 50 cm3 of 0.4 M sucrose, because 0.4 x 50 = 20." loading="lazy">
+  <figcaption>Making a 0.4 M sucrose solution from 1.0 M stock.</figcaption>
+</figure>
+
+
 ## Variables table for each group
 
 | PAG | Independent | Dependent | Typical controls |
@@ -91,6 +123,12 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 - To improve reliability, repeat more times, use more volunteers or more plates, and control the variables better.
 - To improve accuracy, use a smaller measuring scale (for example a syringe graduated in 0.1 cm³ rather than 1 cm³), a balance that reads to 0.01 g, and a timer, not a guess.
 - Suggest a follow-up: a narrower range of concentrations, another agent, a different plant or a longer soak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--11-gas-collection-rate.webp" width="900" height="830" alt="Cabomba in a boiling tube gives oxygen that is collected in a gas syringe; the plunger reads 4.5 cm3 on a 0 to 10 scale. A time line shows 15 minutes. Rate is 4.5 divided by 15, which is 0.30 cm3 per minute." loading="lazy">
+  <figcaption>Collecting gas and dividing volume by time gives a better rate than counting bubbles.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -148,6 +186,17 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 8. **It is a negative control: no clear zone shows the disc and agar do not stop growth.**
 9. **Chips begin with different masses, so percentage change allows a fair comparison.**
 10. **Keep mains equipment away from water and dry; handle the plant gently and take only the material needed (any two sensible answers).**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--02-light-intensity-prediction.webp" width="900" height="810" alt="Bars compare measured bubble rates (27.0, 6.5, 1.5 per minute at 10, 20, 40 cm) with predictions from 27.0 multiplied by relative intensity 1, 1/4 and 1/16 (27.0, 6.8, 1.7). The close agreement shows light intensity is the limiting factor." loading="lazy">
+  <figcaption>Predicting the rate at 20 cm and 40 cm from the rate at 10 cm using the inverse square law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--05-potato-chips-zero-crossing.webp" width="900" height="760" alt="Percentage change in chip mass against sucrose concentration: +15.3, +6.7, -2.0, -11.8 and -16.7 percent at 0.0 to 0.8 M. Chips gain mass in dilute solution and lose it in strong solution. A straight line between 0.2 and 0.4 M crosses zero at about 0.35 M, where there is no net water movement." loading="lazy">
+  <figcaption>Finding the concentration with no net water movement from percentage changes in mass.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

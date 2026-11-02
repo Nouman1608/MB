@@ -68,6 +68,12 @@ Reflexes are **automatic and rapid** and bypass the conscious brain.
 
 **Higher tier only:** mapped using brain-damaged patients, electrical stimulation and MRI. Treatment is hard because the brain is complex and delicate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--09-homeo-brain-regions.webp" width="900" height="1110" alt="Side view with cerebral cortex, cerebellum and medulla labelled with their functions; Higher tier note on how regions were mapped." loading="lazy">
+  <figcaption>The cortex, cerebellum and medulla have different jobs.</figcaption>
+</figure>
+
+
 ### Eye
 
 | Near object | Distant object |
@@ -81,6 +87,22 @@ Reflexes are **automatic and rapid** and bypass the conscious brain.
 - Also: contact lenses, laser surgery on the cornea, replacement lens.
 - Dim light: pupil widens so more light reaches the retina.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--06-eye-structure.webp" width="900" height="860" alt="Section through the eye with light entering from the left. Labels mark the cornea, iris, lens, suspensory ligaments, ciliary muscles, sclera, retina and optic nerve." loading="lazy">
+  <figcaption>Label the parts of the eye named in the specification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--07-accommodation.webp" width="900" height="1240" alt="For a near object the ciliary muscles contract, the suspensory ligaments loosen and the lens is thick so it bends light more. For a distant object the muscles relax, the ligaments are pulled tight and the lens is thin so it bends light less. Rays focus on the retina in both." loading="lazy">
+  <figcaption>Accommodation: ciliary muscles and ligaments change the lens shape to focus on the retina.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--08-sight-defects.webp" width="900" height="1010" alt="Four eye diagrams with rays. Short sight: rays meet in front of the retina; a concave lens moves the focus back onto the retina. Long sight: rays from a near object would meet behind the retina; a convex lens moves the focus onto the retina." loading="lazy">
+  <figcaption>Concave lenses correct short sight and convex lenses correct long sight.</figcaption>
+</figure>
+
+
 ### Temperature control
 
 | Too hot | Too cold |
@@ -90,6 +112,22 @@ Reflexes are **automatic and rapid** and bypass the conscious brain.
 | -- | Shivering (skeletal muscles contract) |
 
 Monitored by the **thermoregulatory centre** in the brain (blood temperature) plus skin receptors. **Higher tier only:** explain each in context -- more or less energy transferred from the skin; shivering respires and releases energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--09-body-temperature.webp" width="900" height="1010" alt="The thermoregulatory centre senses blood temperature. Too hot: skin blood vessels widen, sweat evaporates and more energy goes to the surroundings. Too cold: vessels narrow, sweating stops and muscles shiver, releasing energy from respiration. HT marks the Higher tier explanations." loading="lazy">
+  <figcaption>Vasodilation and sweating cool the body; vasoconstriction and shivering warm it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
 
 ## 4.5.3 Hormones
 
@@ -112,6 +150,12 @@ Pituitary (brain, "master gland") · thyroid (neck) · pancreas · adrenal gland
 | Adrenaline (**Higher tier only**) | Adrenal glands | Raises heart rate; more oxygen and glucose to brain and muscles |
 | Thyroxine (**Higher tier only**) | Thyroid | Stimulates basal metabolic rate; growth and development |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--13-homeo-ivf-steps.webp" width="900" height="1060" alt="Five IVF steps from hormone treatment to inserting embryos, and a success bar of 104 births from 400 cycles (26%)." loading="lazy">
+  <figcaption>IVF has five steps and a success rate of 26% in the lesson example.</figcaption>
+</figure>
+
+
 ### Diabetes
 
 | | Type 1 | Type 2 |
@@ -131,6 +175,17 @@ Pituitary (brain, "master gland") · thyroid (neck) · pancreas · adrenal gland
 - **Dialysis:** partially permeable membrane; fluid has normal glucose and ion levels but no urea, so only unwanted substances diffuse out.
 - **Transplant vs dialysis:** transplant frees the patient from sessions but needs a donor match and anti-rejection drugs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--10-dialysis.webp" width="900" height="950" alt="Blood and dialysis fluid flow past a partially permeable membrane. Urea is high in the blood and absent from fresh fluid, so it diffuses out. The fluid has glucose and ion levels like blood, so these do not leave. Blood cells are too large to pass." loading="lazy">
+  <figcaption>Dialysis fluid has no urea but normal glucose and ions, so only urea is removed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--12-homeo-kidney-numbers.webp" width="900" height="740" alt="Of 180 dm3 filtered, 178.5 is reabsorbed (99.2%) and 1.5 leaves as urine; of 54 g of urea, 30 g (55.6%) is in the urine." loading="lazy">
+  <figcaption>Almost all the water is reabsorbed but a large share of urea is excreted.</figcaption>
+</figure>
+
+
 ### Menstrual cycle (Higher tier only interactions)
 
 FSH → egg matures and ovary makes oestrogen. Oestrogen → inhibits FSH, stimulates LH. LH peak → ovulation (about day 14). Progesterone → keeps lining thick, inhibits FSH and LH. Progesterone falls → lining breaks down.
@@ -143,6 +198,12 @@ FSH → egg matures and ovary makes oestrogen. Oestrogen → inhibits FSH, stimu
 ### IVF (Higher tier only)
 
 FSH and LH → several eggs mature → eggs collected → fertilised in the lab → embryos grow → one or two inserted into uterus. Drawbacks: stressful, low success rate, multiple-birth risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--11-homeo-root-gravitropism.webp" width="900" height="1010" alt="A sideways root with auxin on its lower side, then bent downwards because the lower side grows more slowly." loading="lazy">
+  <figcaption>Auxin on the lower side slows growth there, so the root bends down.</figcaption>
+</figure>
+
 
 ## 4.5.4 Plant hormones
 
@@ -212,6 +273,12 @@ FSH and LH → several eggs mature → eggs collected → fertilised in the lab 
 10. It makes them more permeable, so more water is reabsorbed into the blood.
 11. LH.
 12. To the left, towards the light.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--10-homeo-reaction-time.webp" width="900" height="900" alt="Dot plot of five reaction times before (mean 0.32 s) and after (mean 0.27 s) cola, a fall of 15.6%." loading="lazy">
+  <figcaption>Mean reaction time fell by 15.6% after cola.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

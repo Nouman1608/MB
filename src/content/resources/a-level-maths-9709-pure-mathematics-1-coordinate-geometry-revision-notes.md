@@ -82,6 +82,12 @@ None of these is in the MF19 formulae list, so learn them all.
 
 **Area of a triangle.** Look for a right angle (gradients multiplying to −1) or an isosceles shape (a vertex on a perpendicular bisector). Then area = ½ × base × perpendicular height, with both lengths from the distance formula.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
+
 ## Circles
 
 **Centre-radius form.** (x − a)² + (y − b)² = r². Watch the signs: (x + 3)² + (y − 1)² = 49 has centre (−3, 1) and radius 7.
@@ -107,6 +113,27 @@ If g² + f² − c ≤ 0, the equation is not a real circle.
 - Two points and a line containing the centre: the centre is where the perpendicular bisector of the two points meets that line.
 - Three points: the centre is where two perpendicular bisectors meet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-coordinate-geometry-revision-notes--02-inside-on-outside-circle.webp" width="900" height="1230" alt="Circle (x-3)^2+(y+2)^2=30 with points P inside (d^2=25), R on (d^2=30) and Q outside (d^2=34)." loading="lazy">
+  <figcaption>Compare distance squared with r squared to place a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--03-circle-equation.webp" width="900" height="1046" alt="Circle centre (3,-5) radius 5 with a 3-4-5 right triangle from the centre to P(6,-1), showing the equation (x-3)^2+(y+5)^2=25 is Pythagoras." loading="lazy">
+  <figcaption>Every point on the circle satisfies Pythagoras with the centre, which is why the equation has that form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
+  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
+  <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
+</figure>
+
+
 ## Geometry of the circle
 
 | Property | How it is used |
@@ -125,6 +152,17 @@ If g² + f² − c ≤ 0, the equation is not a real circle.
 ```
 
 If the question says "show that P lies on the circle", substitute P and show the equation is satisfied before you use it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--05-angle-in-semicircle.webp" width="900" height="1046" alt="Circle with diameter PQ, P(1,7), Q(7,-1), point R(8,6): gradients -1/7 and 7 multiply to -1, so angle PRQ is 90 degrees." loading="lazy">
+  <figcaption>A diameter subtends a right angle at any other point of the circle, which can be proved with gradients.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--07-tangent-and-normal.webp" width="900" height="1026" alt="Circle centre (3,-5), point P(6,-1): radius gradient 4/3, tangent gradient -3/4 giving 3x+4y-14=0, normal 4x-3y-27=0 through the centre. No calculus needed." loading="lazy">
+  <figcaption>The tangent is perpendicular to the radius, and the normal runs along it through the centre.</figcaption>
+</figure>
+
 
 ## Intersections, graphs and the discriminant
 
@@ -150,6 +188,17 @@ The points where two graphs meet are the solutions of their equations solved tog
 
 For "the line meets the curve" (at least once) use b² − 4ac ≥ 0. When the line contains an unknown such as k or m, the discriminant becomes an inequality in that unknown. Solve it as a quadratic inequality if it contains k².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--03-amth-simultaneous-line-circle.webp" width="900" height="972" alt="The line y=2x+1 meets the circle x^2+y^2=34 at two points. Substituting gives 5x^2+4x-33=0 so x=11/5 or -3, and the line gives y=27/5 and -5." loading="lazy">
+  <figcaption>Substitute the linear equation into the quadratic, then use the line to find each partner value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
+  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Parallel vs perpendicular.** Parallel: same gradient. Perpendicular: product −1. A gradient of 2 is perpendicular to −1/2, not to −2 or 1/2.
@@ -159,6 +208,12 @@ For "the line meets the curve" (at least once) use b² − 4ac ≥ 0. When the l
 - **Tangent vs radius.** The tangent at P is perpendicular to CP; it does not pass through the centre.
 - **Two points vs at least one.** "Two distinct points" is b² − 4ac > 0; "meets" is ≥ 0; "touches" is = 0.
 - **Distance vs distance squared.** Compare squared distances with r² when testing a point; take the square root only for a final length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-coordinate-geometry-revision-notes--01-perpendicular-gradients.webp" width="900" height="1176" alt="Four lines through the origin. Gradient 2 is perpendicular only to gradient -1/2 (product -1); gradient -2 gives 53.1 degrees and gradient 1/2 gives 36.9 degrees." loading="lazy">
+  <figcaption>Perpendicular means flip the gradient and change its sign.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

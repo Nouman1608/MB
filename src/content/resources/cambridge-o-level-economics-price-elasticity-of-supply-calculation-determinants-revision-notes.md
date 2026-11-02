@@ -49,6 +49,12 @@ These notes condense section 2.8 (2.8.1 to 2.8.4, price elasticity of supply, PE
 3. Work out quantity percentage over price percentage.
 4. State the value, say elastic, inelastic or unitary, and say what it means in the context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--04-pes-four-examples.webp" width="900" height="970" alt="Four pairs of bars compare percentage change in price and in quantity supplied: bakery +15% and +9% (PES 0.6), workshop -12.5% and -15% (PES 1.2), +10% and +10% (PES 1), and PES 1.5 with price +8% giving quantity +12% (2,400 to 2,688)." loading="lazy">
+  <figcaption>Divide the percentage change in quantity by the percentage change in price.</figcaption>
+</figure>
+
+
 ### Worked reminders
 
 - Price 30 to 36, quantity 200 to 230 (illustrative). Price +20%, quantity +15%. PES = 15 / 20 = **0.75**, inelastic.
@@ -70,6 +76,12 @@ Two curves through the same point: the flatter is more elastic. Steepness alone 
 
 Check with price moving from 10 to 11. Q = 3P goes 30 to 33, PES = 10 / 10 = 1. Q = 20 + 2P goes 40 to 42, PES = 5 / 10 = 0.5. Q = 2P - 8 goes 12 to 14, PES = 16.7 / 10 = 1.67.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--04-pes-straight-line-test.webp" width="900" height="1300" alt="Three straight supply lines drawn from Q = 3P, Q = 20 + 2P and Q = 2P - 8 with price rising from 10 to 11. The line from the origin has PES 1, the line meeting the quantity axis has PES 0.5 and the line meeting the price axis has PES 1.67." loading="lazy">
+  <figcaption>Where a straight supply line meets the axes decides whether PES is 1, below 1 or above 1.</figcaption>
+</figure>
+
+
 ## 2.8.3 Determinants
 
 | Factor | Effect on PES | Reason |
@@ -82,6 +94,17 @@ Check with price moving from 10 to 11. Q = 3P goes 30 to 33, PES = 10 / 10 = 1. 
 | Production period | Short period, more elastic | Output responds quickly |
 
 Perishable goods and crops that take a season to grow are usually inelastic in the short run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--05-pes-capacity-and-time.webp" width="900" height="1010" alt="Bars show a factory raising output from 800 to 960 within capacity of 1,000 (PES 4) versus one already at 1,000, and a market whose output rises 1% in the short run (PES 0.1) but 20% after two years (PES 2.0)." loading="lazy">
+  <figcaption>Spare capacity and time let firms raise output more when price rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## 2.8.4 Significance
 
@@ -118,6 +141,22 @@ Demand rises, then price rises. Firms want to produce more. If they have spare c
 - Can inputs be obtained, or is a shortage of land, skilled labour or materials the limit?
 - Does the policy depend on a price signal, and can firms respond to it?
 - What is the cost to the government of waiting for supply to adjust?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--06-pes-markets-x-y.webp" width="900" height="960" alt="Demand rises from Q = 300 - 20P to Q = 324 - 20P from price 10, quantity 100. With steep supply (Market X) price rises to 11 and quantity to 104 (PES 0.4). With flat supply (Market Y) price rises to 10.4 and quantity to 116 (PES 4)." loading="lazy">
+  <figcaption>The same demand rise raises price a lot where supply is inelastic and quantity a lot where it is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--07-pes-maximum-price.webp" width="900" height="1065" alt="Using demand Q = 324 - 20P, a cap of 10.2 leaves a shortage of 19.2 in Market X (supply 100.8, demand 120) and 12 in Market Y (supply 108)." loading="lazy">
+  <figcaption>The less elastic supply is, the larger the shortage under a price cap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

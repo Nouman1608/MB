@@ -50,6 +50,17 @@ The financial sector links savers, who have spare funds, with borrowers, who wan
 
 Banks also borrow short (deposits withdrawable on demand) and lend long (a 25-year mortgage). This makes credit available, but leaves them exposed if depositors withdraw at once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--08-financial-intermediation.webp" width="900" height="970" alt="Savers pass funds to banks (retail, commercial, investment) and to non-bank funds (pension, insurance, hedge), which lend to borrowers. More lending raises consumption and investment and so aggregate demand; tighter lending lowers it even if interest rates are unchanged." loading="lazy">
+  <figcaption>Intermediaries turn saving into lending, which feeds C, I and AD.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 2. Pension, hedge and insurance funds
 
 These are non-bank institutions that collect money and invest it.
@@ -78,6 +89,17 @@ Pooling works because the average claim is predictable even though any one claim
 
 Leverage amplifies gains and losses. Hedge funds can help prices adjust, but forced selling by leveraged funds can push prices down further and pass losses to the banks that lent to them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--09-hedge-fund-leverage.webp" width="900" height="970" alt="A fund with capital 100 borrows 400 to hold 500 of assets. Asset changes of plus 4, minus 4 and minus 20 percent give returns on capital of plus 20, minus 20 and minus 100 percent, so capital is wiped out." loading="lazy">
+  <figcaption>With 4 times borrowing, a 4% move becomes a 20% return on capital and a 20% fall wipes it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--01-insurance-pooling.webp" width="900" height="990" alt="Two bars for an insurer with 1,000 policies, each a 2% chance of a 10,000 cu claim. Expected claims are 200,000 cu and premium income is 230,000 cu, leaving a 30,000 cu margin. A storm hitting every policy breaks the pooling assumption." loading="lazy">
+  <figcaption>Pooling makes the total claim predictable, so premiums can exceed expected claims.</figcaption>
+</figure>
+
+
 ## 3. The stock, bond and foreign exchange markets
 
 **Stock market.** Firms issue shares to raise equity, and shareholders can sell them on the market. A well-functioning market lowers the cost of raising funds, because investors know they can sell later. Macro effects come through the wealth effect and confidence. Suppose households hold shares worth 400m cu and prices fall 20%. Wealth falls by 400 × 0.2 = 80m cu. If consumption falls by 4 cu for each 100 cu of lost wealth (an assumed figure), it falls by 80 × 0.04 = 3.2m cu. Falling prices also make it harder for firms to raise equity, which can hit investment.
@@ -95,6 +117,22 @@ Price and yield move in opposite directions. If new bonds pay 5%, buyers will pa
 
 **Foreign exchange market.** Currencies are traded here, and the price is the exchange rate. It matters for trade and for flows of financial capital. Worked example: a good costs 40 cu in Country A. At 1 cu = 0.80 foreign currency units (fu), it costs 40 × 0.80 = 32 fu abroad. If the cu depreciates to 0.72 fu, the price abroad is 40 × 0.72 = 28.8 fu, a fall of 10%. Exports become cheaper abroad; imports become dearer at home. The effect on the current account depends on elasticities. Large capital inflows can push up the exchange rate; sudden outflows can cause a sharp depreciation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--10-bond-price-yield.webp" width="900" height="970" alt="A curve of yield (coupon 4 divided by price) against bond price: price 80 gives 5.0 percent, 100 gives 4.0 percent, 125 gives 3.2 percent. If new bonds pay 5 percent the old bond is worth 80, a 20 percent fall." loading="lazy">
+  <figcaption>Bond price and yield move in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--02-wealth-effect-share-fall.webp" width="900" height="850" alt="Share wealth of 400m cu falls 20%, a loss of 80m. With an assumed 4 cu less consumption per 100 cu lost, spending falls 3.2m cu, shown as a thin slice of the magnified loss." loading="lazy">
+  <figcaption>A fall in share prices cuts wealth and, through it, consumption.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--03-depreciation-export-price.webp" width="900" height="970" alt="A good costing 40 cu is 32 fu abroad at 1 cu = 0.80 fu and 28.8 fu at 0.72 fu, a 10% fall. A weaker currency makes exports cheaper abroad and imports dearer at home." loading="lazy">
+  <figcaption>Depreciation of the cu lowers the foreign-currency price of exports by 10%.</figcaption>
+</figure>
+
+
 ## 4. Inter-bank lending
 
 Banks hold reserves and must settle payments with each other every day. Some end the day with surplus funds, others with a shortage. Inter-bank lending lets surplus banks lend, usually short-term (often overnight), to those short.
@@ -110,6 +148,12 @@ Roles in the modern economy:
 - The inter-bank rate is a benchmark for other interest rates, and it follows the central bank's policy rate.
 
 The weakness is trust. If banks doubt each other's solvency, they stop lending or demand a much higher rate. Short-term funding then dries up, and banks cut lending to households and firms. Because banks are connected, one bank's failure can spread losses to others (contagion).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--04-interbank-lending-contagion.webp" width="900" height="960" alt="Bank X lends 30m cu overnight to Bank Y at 3.2% a year; one night of interest is 2,630.14 cu. If banks doubt Bank Y and it fails, losses spread to connected banks X and Z and lending dries up." loading="lazy">
+  <figcaption>Inter-bank lending moves liquidity, but lost trust lets one failure spread.</figcaption>
+</figure>
+
 
 ## 5. Forms of borrowing
 
@@ -131,6 +175,22 @@ The weakness is trust. If banks doubt each other's solvency, they stop lending o
 
 **Pay day lending.** Borrow 300 cu for 30 days and repay 345 cu. The cost is 45 ÷ 300 = 15% for one month. Annualised simply, this is 15 × 365 ÷ 30 = 182.5%. Compounded, it is about 448%. Lenders point to high default rates and admin costs on small loans. The risk is rolled-over debt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--11-borrowing-costs.webp" width="900" height="960" alt="Bars compare rates: mortgage 4.8 percent, unsecured loan 9 percent, overdraft 24 percent, credit card 24 percent nominal and 26.8 percent compounded, and a pay day loan at 182.5 percent simple or about 448 percent compounded (bar cut off)." loading="lazy">
+  <figcaption>Short-term loans must be annualised before their cost can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--05-mortgage-ltv-negative-equity.webp" width="900" height="990" alt="A 200,000 cu house with a 20,000 cu deposit and 180,000 cu loan has a 90% loan-to-value ratio. After a 15% price fall the home is worth 170,000 cu, below the loan, so equity is minus 10,000 cu. A 25-year repayment mortgage at 4.8% costs about 1,031 cu a month." loading="lazy">
+  <figcaption>A price fall can push a high-LTV mortgage into negative equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+
 ## 6. Why interest rates differ: risk and security
 
 There is no single rate of interest. Rates differ across money markets because lenders require compensation for **risk** (the chance of not being repaid) and for the lack of **security** (collateral they can seize and sell).
@@ -146,6 +206,12 @@ Secured (70% of the loan recovered on default):
 ```
 
 Security cuts the rate needed by about 2.9 percentage points. A longer term, a small loan size and a poor credit history also raise the rate. This explains the pattern in the table of forms above: mortgages are cheaper than unsecured loans, which are cheaper than cards and pay day loans. Government bonds are generally treated as low-risk, so their yield is a low benchmark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--12-risk-and-security.webp" width="900" height="890" alt="Two stacked bars: with no security the lender needs 9.375 percent to expect 5 percent when 4 percent default; with security recovering 70 percent the rate is 6.46 percent, about 2.9 points lower." loading="lazy">
+  <figcaption>Security cuts the rate a lender needs by about 2.9 percentage points.</figcaption>
+</figure>
+
 
 ## 7. Evaluating the financial sector in the real economy
 

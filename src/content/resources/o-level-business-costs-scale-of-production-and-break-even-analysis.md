@@ -58,6 +58,12 @@ Total cost rose by half, but output doubled. Average cost fell because the same 
 
 A business may ask whether a product that shows a loss should be dropped. The key question is which costs go away if production stops. Variable costs stop. Fixed costs often do not, at least in the short run. So compare the revenue from the product with its variable costs. If revenue is higher, the product makes a **contribution** (revenue minus variable costs) towards fixed costs, and stopping makes the business worse off. This is the standard way to approach the decision; the syllabus only asks for simple cost-based decisions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--09-scarf-stop-or-continue.webp" width="900" height="950" alt="A waterfall takes revenue of 18,000 dollars, subtracts variable costs of 13,000 for a 5,000 contribution, then fixed costs of 7,000 for a 2,000 loss. Stopping loses the full 7,000, so the line should continue for now." loading="lazy">
+  <figcaption>Continuing loses $2,000; stopping loses $7,000, so continue.</figcaption>
+</figure>
+
+
 ### Worked example: the scarf line
 
 Bexwyn Fabrics sells 2 000 scarves a month at 9 each. Variable cost is 6.50 per scarf. Fixed costs of 7 000 a month are charged to the scarf line, and the firm pays them whether or not scarves are made.
@@ -69,6 +75,17 @@ Bexwyn Fabrics sells 2 000 scarves a month at 9 each. Variable cost is 6.50 per 
 - Loss if it stops = 0 - 7 000 = a loss of 7 000
 
 Continuing loses 2 000; stopping loses 7 000. The scarf line should continue for now. A good answer adds that this changes if the fixed costs could be avoided, if the money could earn more elsewhere, or if the contribution will turn negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--06-fixed-cost-shared.webp" width="900" height="860" alt="Two stacked bars show cost per candle. At 3,000 candles fixed costs add 4.00 dollars each, at 6,000 candles 2.00 dollars, while variable cost stays 4.00, so average cost falls from 8.00 to 6.00 dollars." loading="lazy">
+  <figcaption>Fixed costs are shared over more candles, so average cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
 
 ## 4.2.2 Economies and diseconomies of scale
 
@@ -101,6 +118,22 @@ Pellbright Juice records these results (all amounts in dollars).
 | 120 000 | 116 400 | 0.97 |
 
 Average cost falls from 1.20 to 0.80 as output rises to 40 000 litres: economies of scale, such as bulk fruit discounts and a faster filling machine. After 40 000 it rises, to 0.97 at 120 000 litres. This points to diseconomies, perhaps because supervisors cannot coordinate three shifts. Draw average cost against output and you get a U shape: it falls, bottoms out, then rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--07-pellbright-average-cost.webp" width="900" height="870" alt="Average cost per litre from the lesson data falls from 1.20 to 0.80 dollars as output rises to 40,000 litres, then rises to 0.97 at 120,000 litres. The U shape marks economies then diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls, bottoms at 40,000 litres, then rises: a U shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--01-scale-economies-types.webp" width="900" height="1020" alt="Five economies of scale (purchasing, marketing, financial, managerial, technical) that lower average cost, and three diseconomies (poor communication, lack of commitment, weak coordination) that raise it." loading="lazy">
+  <figcaption>The five economies and three diseconomies of scale, each with a short picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
 
 ## 4.2.3 Break-even analysis
 
@@ -144,6 +177,12 @@ Money
 
 To **amend** a chart when something changes, move the right line. Higher rent lifts the fixed cost line and the total cost line by the same amount, so break-even moves right. A higher price makes the revenue line steeper, so break-even moves left. Lower variable cost per unit makes the total cost line less steep, so break-even also moves left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ### Margin of safety
 
 The **margin of safety** is how far sales (or output) are above the break-even level. It shows how far sales can fall before the business makes a loss.
@@ -164,6 +203,12 @@ Suppose Ostenfield raises the price to 20, but expects sales to fall to 3 300 ki
 
 The higher price lowers break-even and raises profit, even with fewer sales. A justified answer also notes that the result depends on the forecast fall in demand. If sales dropped much further, the decision would look different.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--02-kite-price-rise.webp" width="900" height="1044" alt="Break-even chart for Ostenfield Kites showing total cost, revenue at $18 and revenue at $20. Break-even falls from 3,000 to 2,539 kites; profit is 8,800 at the old plan and 9,900 at the new plan." loading="lazy">
+  <figcaption>A price rise to $20 lowers break-even to 2,539 kites and lifts profit from 8,800 to 9,900.</figcaption>
+</figure>
+
+
 ### Limitations of break-even analysis
 
 - It assumes all output is sold. Unsold stock still costs money.
@@ -172,6 +217,22 @@ The higher price lowers break-even and raises profit, even with fewer sales. A j
 - Fixed costs are treated as fixed, but at high output a business may need a new factory.
 - It is usually drawn for one product, but many firms sell several.
 - It depends on forecasts, which can be wrong, and it is a snapshot that ignores competitors' reactions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--08-kite-break-even-mos.webp" width="900" height="970" alt="A break-even chart for Ostenfield Kites with fixed cost 33,000 dollars, total cost and revenue lines crossing at 3,000 kites and 54,000 dollars. Expected sales of 3,800 kites sit 800 kites above break-even, a margin of safety of 21.1% of expected sales." loading="lazy">
+  <figcaption>Break-even is 3,000 kites; expecting 3,800 gives a margin of safety of 800 kites (21.1%).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--03-break-even-limits.webp" width="900" height="1060" alt="Four small charts compare what break-even analysis assumes with what can happen: bulk discounts bend revenue, bulk buying flattens cost, a new factory steps up fixed costs, and unsold stock still costs money. Two more limits are one product only and reliance on forecasts." loading="lazy">
+  <figcaption>Break-even assumptions against what can really happen (illustrative shapes).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## Common errors
 

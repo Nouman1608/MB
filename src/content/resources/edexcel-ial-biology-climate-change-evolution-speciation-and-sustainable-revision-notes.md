@@ -78,6 +78,12 @@ Anthropogenic means caused by humans. The greenhouse effect itself is natural; t
 - **Seasonal mismatch:** a predator and its food respond at different rates, so timing no longer overlaps.
 - **Rainfall change:** drought lowers plant growth; flooding damages roots.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## 5.21 Temperature, enzymes and Q₁₀
 
 - Rate rises with temperature: more kinetic energy, more frequent and more energetic collisions.
@@ -127,6 +133,12 @@ Allele frequency = number of copies of the allele ÷ total number of alleles. **
 | End point | Cannot interbreed to produce fertile offspring: separate species | Same |
 
 **Exam link.** To explain why a population evolved, name the selection pressure and the allele, say what the survivors did, and show the frequency changed across generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
 
 ## 5.25 Controversial issues
 

@@ -80,6 +80,22 @@ With MPC = 0.8 and no other leakage, an injection of 25 creates 25 in round 1, 2
 4. Give the multiplier and the final change in income.
 5. Evaluate: how much spare capacity is there, how big are the leakages, how long will it take, and could the effect be offset by crowding out or lower confidence?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--05-leakages-decide-multiplier.webp" width="900" height="850" alt="MPS 0.12, MPT 0.18 and MPM 0.20 give MPW 0.50, multiplier 2 and +90 from an export rise of 45. With MPT 0.10, MPW is 0.42, the multiplier is 2.381 and the same rise gives +107.14, which is 17.14 more." loading="lazy">
+  <figcaption>The multiplier is the reciprocal of the share that leaks; shrink a leak and the multiplier grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--06-multiplier-rounds-limit.webp" width="900" height="870" alt="With MPC 0.75 and an injection of 20, cumulative income is 20, 35, 46.25, 54.69, 61.02 and 65.76 after six rounds. Each round adds 0.75 of the one before, so the total approaches the limit of 80." loading="lazy">
+  <figcaption>Rounds shrink by the MPC each time, so the total approaches 20 / (1 - 0.75) = 80.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
+
 ## The multiplier: what to say about it
 
 - What raises it: a higher MPC (spent at home), a lower MPS, MPT or MPM.
@@ -88,6 +104,17 @@ With MPC = 0.8 and no other leakage, an injection of 25 creates 25 in round 1, 2
 - Why it works in reverse: a fall in an injection reduces income by a multiple too.
 - Evaluation line to learn: the multiplier is largest with spare capacity and small leakages, so the same stimulus does more in a deep slump than near full employment.
 - Limits: it is weakest when the economy is near full capacity, when households save a lot in uncertain times, when leakages are large, when the government's borrowing crowds out private spending, and when the rounds take a long time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--02-multiplier-spare-capacity.webp" width="900" height="1016" alt="An illustrative AS curve is flat then steep. The same AD shift of 60 (investment 30, k = 2) raises output by 60 with no price change on the flat part, but by only 15 with a 22.5 price rise near full capacity." loading="lazy">
+  <figcaption>The same AD shift gives more real output when there is spare capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--03-multiplier-crowding-out.webp" width="900" height="986" alt="Government borrowing raises interest rates, private investment falls and part of the AD gain is cancelled. A pair of bars (not to scale) compares the full gain with the gain left." loading="lazy">
+  <figcaption>Crowding out cancels part of the gain from extra government spending.</figcaption>
+</figure>
+
 
 ## Output gaps in brief
 
@@ -122,6 +149,27 @@ Worked series: trend growth is 2% and potential output starts at 600, so potenti
 - GDP data is revised later.
 - Informal activity is missed.
 - The trend is least reliable for the most recent years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--07-output-gap-series.webp" width="900" height="860" alt="Potential output grows at 2.5% from 800; actual output is 800, 822, 859, 851 and 870. The gap is +0.24%, +2.20%, -1.22% and -1.48% in years 1 to 4. Year 4 growth of 2.23% is below trend, so the negative gap widens. The vertical axis starts at 790." loading="lazy">
+  <figcaption>Whether a gap opens or closes depends on actual growth compared with the trend, not on growth being positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--08-trend-choice-gap.webp" width="900" height="850" alt="The same actual output gives a year 4 gap of -1.48% with a 2.5% trend (potential 883.1) and -3.38% with a 3.0% trend (potential 900.4). The vertical axis starts at 790." loading="lazy">
+  <figcaption>Potential output is an estimate, so a different trend gives a different gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--09-stimulus-negative-gap.webp" width="900" height="770" alt="With potential 1,250 and multiplier 2.5, output of 1,150 is a gap of -100 (-8.0%), closed by an injection of 40. Output of 1,300 is a gap of +50 (+4.0%); an injection of 20 adds 50 and widens the gap to +100 (+8.0%)." loading="lazy">
+  <figcaption>Stimulus fits a negative gap; applied to a positive gap it makes the gap bigger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-the-multiplier-and-output-gaps--01-gap-positive-negative.webp" width="900" height="978" alt="Two mini graphs show actual output above and below the potential line, then five features are compared: resources, unemployment, inflation, budget and trade. Up and down arrows show higher or lower than normal." loading="lazy">
+  <figcaption>A positive gap stretches resources and a negative gap leaves them idle, with opposite effects on jobs, prices, the budget and trade.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -82,6 +82,12 @@ expense account must be reflected in a revised profit figure, working
 from the originally calculated profit and adjusting line by line for
 each correction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
+
 ## Worked example: using a suspense account
 
 A trial balance fails to balance by £150 (debit column short). It is
@@ -112,6 +118,12 @@ Working through all four steps explicitly — not just the journal entry
 — is what a full mark answer on this content requires, since the
 suspense account, the correction, and the profit impact are assessed
 as a connected sequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
 
 ## Key terms to define precisely
 

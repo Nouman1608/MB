@@ -38,6 +38,12 @@ Supply-side policies target productive capacity and market efficiency. In the AD
 | Lower inflation | Better international competitiveness |
 | Innovation | Lower costs raise incentives to invest |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply-side-policies--05-ss-two-families.webp" width="900" height="1208" alt="Market-based policies (competition, labour market, incentives) and interventionist policies (education, health, R&amp;D, infrastructure, industrial) both raise capacity or efficiency, shifting LRAS right." loading="lazy">
+  <figcaption>The two families of supply-side policy and the shift in LRAS they aim for.</figcaption>
+</figure>
+
+
 ## Policy map
 
 | Family | Group | Policies in the guide |
@@ -68,6 +74,12 @@ Method in steps:
 
 If the policy also lifts AD, for example through a tax cut, draw AD shifting right too. The price-level fall is then smaller, or the price level may rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Diagram 2: minimum wage
 
 Method in steps:
@@ -86,6 +98,12 @@ Worked reminder (fictional town): Qd = 400 − 10W and Qs = 100 + 20W.
 2. Minimum wage of 14: Qd = 400 − 140 = 260 and Qs = 100 + 280 = 380.
 3. Unemployment = 380 − 260 = 120. Jobs lost = 300 − 260 = 40, a fall of 13.3%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply-side-policies--02-ss-minimum-wage.webp" width="900" height="1090" alt="Labour market with demand Qd = 600 - 20W and supply Qs = 100 + 30W. Equilibrium is wage 10 and 400 workers. A minimum wage of 12 gives Qd = 360 and Qs = 460, so 100 workers are unemployed; jobs fall 10% while the wage rises 20% and total wages rise from 4,000 to 4,320." loading="lazy">
+  <figcaption>A minimum wage above equilibrium creates a surplus of labour.</figcaption>
+</figure>
+
+
 ## Demand-side effects (must-know)
 
 | Policy | Effect on AD |
@@ -96,11 +114,28 @@ Worked reminder (fictional town): Qd = 400 − 10W and Qs = 100 + 20W.
 | Lower costs | Greater competitiveness, so net exports may rise |
 | Lower unemployment benefits | Less spending by those who lose income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply-side-policies--01-ss-lras-ad-offset.webp" width="900" height="960" alt="AD/AS diagram for fictional Velmora. LRAS shifts right from 500 to 550, moving equilibrium from price level 120 to 115 (-4.2%) with output up 10%. A tax cut then shifts AD up so the price level at output 550 is 125, +4.2% on the start." loading="lazy">
+  <figcaption>A tax cut can offset the price fall from a supply-side policy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+
 ## Supply-side effects of fiscal policy
 
 - Tax cuts change incentives to work, save and invest.
 - Spending on education, health, research and infrastructure raises capacity over time.
 - A tax cut can reduce revenue if the base grows too little to compensate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply-side-policies--03-ss-tax-cut-revenue.webp" width="900" height="1140" alt="Take-home pay on each extra 100 crowns rises from 70 to 75 (+7.1%) when the tax rate falls from 30% to 25%. With a 6% rise in taxable income, revenue from 2,000 workers still falls from 24 to 21.2 million crowns, down 2.8 million or 11.7%." loading="lazy">
+  <figcaption>A tax cut raises incentives but can lower revenue.</figcaption>
+</figure>
+
 
 ## Effectiveness table
 
@@ -117,6 +152,12 @@ Worked reminder (fictional town): Qd = 400 − 10W and Qs = 100 + 20W.
 | Low unemployment | Flexible labour markets; training for structural unemployment | Little effect on cyclical (demand deficient) unemployment |
 | Low and stable inflation | Lower costs and higher output push prices down | Tax cuts and spending can lift AD |
 | International competitiveness | Lower costs and better productivity | Gains depend on what other countries do |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-supply-side-policies--04-ss-training-payback.webp" width="900" height="1090" alt="Cumulative extra output of 21.6, 43.2 and 64.8 million crowns after years 1 to 3 against a programme cost of 60 million. Payback is 60 / 21.6, about 2.8 years." loading="lazy">
+  <figcaption>Training pays back in about 2.8 years if workers stay employed.</figcaption>
+</figure>
+
 
 ## Building a supply-side essay
 

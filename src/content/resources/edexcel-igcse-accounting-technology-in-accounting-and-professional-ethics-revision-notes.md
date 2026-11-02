@@ -57,6 +57,17 @@ For cost 7,200, residual value 600 and life 6 years: (7,200 − 600) ÷ 6 = 1,10
 3. Give the reason (one entry posts to all accounts).
 4. Give the effect on the business (less time, fewer errors, sooner information).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--01-software-keyed-once.webp" width="900" height="850" alt="A $1,250 invoice is written three times in a manual system: sales day book, customer debit and sales credit. In accounting software it is keyed once and the customer account, sales account and receivables total update together." loading="lazy">
+  <figcaption>Software posts one keyed entry to every record that depends on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--02-spreadsheet-depreciation.webp" width="900" height="1000" alt="Straight-line depreciation of a $4,800 press with $300 residual value. A 5-year life gives $900 a year and a closing value of $300 in year 5. Changing life to 6 gives $750 a year and the whole schedule recalculates." loading="lazy">
+  <figcaption>Changing one input recalculates every dependent cell.</figcaption>
+</figure>
+
+
 ## 1.3 (b) Security issues
 
 | Issue | Meaning | Typical causes | Possible effect |
@@ -66,6 +77,12 @@ For cost 7,200, residual value 600 and life 6 years: (7,200 − 600) ÷ 6 = 1,10
 | Confidentiality | Information kept private | Hacking, printouts left out, staff talking, visible screens | Lost trade, harm to customers, legal trouble |
 
 Must-know distinction: access is about who gets in. Confidentiality is about what happens to the information. A person with proper access can still breach confidentiality by passing information on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--03-backup-lost-work.webp" width="900" height="810" alt="A disk fails Thursday at 14:30. With daily backups 5.5 hours or 44 transactions are lost. With Friday-only backups 31 hours or 248 transactions are lost." loading="lazy">
+  <figcaption>More frequent backups mean less work to repeat.</figcaption>
+</figure>
+
 
 ## 1.3 (c) Protection methods
 
@@ -83,6 +100,12 @@ Match issue to method: backups and UPS for data loss; passwords, locks and acces
 
 A business keys 6 transactions an hour for 8 hours a day. If a disk fails after 3 hours of a day and the last backup was at the end of the previous day, work lost is 3 × 6 = 18 transactions. If 2 full days of work were done since the last backup, work lost is (2 × 8 + 3) × 6 = 114 transactions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--04-issues-and-protection.webp" width="900" height="760" alt="Data loss is addressed by backups, UPS and scheduled copies. Access is addressed by passwords, user rights and a locked server room. Confidentiality is addressed by encryption, locks, antivirus and firewall." loading="lazy">
+  <figcaption>A security issue is the problem; a method is the protection.</figcaption>
+</figure>
+
+
 ## 1.4 (a) Principles of professional ethics
 
 The specification asks you to describe the principles without listing them. A widely used set is the five fundamental principles in the international code for professional accountants.
@@ -94,6 +117,12 @@ The specification asks you to describe the principles without listing them. A wi
 | Professional competence and due care | Up-to-date knowledge, careful work | Am I applying the rules properly? |
 | Confidentiality | Do not disclose or misuse work information | Am I sharing something I learned through my job? |
 | Professional behaviour | Obey law, protect profession's reputation | Would this harm trust in accountants? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
 
 ## 1.4 (b) Applying principles to roles and functions
 
@@ -116,6 +145,12 @@ The specification asks you to describe the principles without listing them. A wi
 ### Worked reminder
 
 Sunita Pell, bookkeeper at Anvil Road Cycles, is told to leave out a supplier invoice of 9,000 so that profit of 36,400 looks higher. Profit would show 36,400 + 9,000 = 45,400, which is 24.7% higher (9,000 ÷ 36,400 × 100). Principle: integrity, because the figures would mislead; competence and due care also applies, since the expense belongs to the period. Action: record the invoice and explain why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics--05-ethics-inflated-sales.webp" width="900" height="775" alt="Recording 18,000 of January deliveries as December sales would raise profit from 62,000 to 80,000, up 29.0 percent. This tests integrity, objectivity and competence with due care, and the bank and creditors rely on the accounts." loading="lazy">
+  <figcaption>Refusing protects the people who rely on the accounts.</figcaption>
+</figure>
+
 
 ## 1.4 (c) Public interest
 

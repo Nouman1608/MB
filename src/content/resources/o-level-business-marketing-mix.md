@@ -94,6 +94,32 @@ The stage affects the other parts of the mix.
 | Maturity | Remind and defend market share; promotion often more competitive | Competitive pricing or promotional offers |
 | Decline | Spending cut, or an extension strategy tried | Prices cut to clear stock, or the product withdrawn |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--04-life-cycle-from-data.webp" width="900" height="860" alt="Sales climb from 2 to 38.5 thousand units and then fall to 22. Years 2 to 4 are growth (+350%, +133%, +57%), years 5 and 6 maturity (+15%, +1.3%) and years 7 and 8 decline (-14.3%, -33.3%)." loading="lazy">
+  <figcaption>Reading life cycle stages from real sales data and percentage changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--04-brand-and-packaging.webp" width="900" height="950" alt="A jar with lid, label and logo. The lid keeps the product fresh, the jar protects it, the label gives information and the logo promotes the brand. A strong brand image leads to more sales, a higher price and more loyalty. Risks: one scandal can harm the image and packaging adds cost." loading="lazy">
+  <figcaption>Packaging has four roles and supports a brand image that lifts sales, price and loyalty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--05-extension-strategies.webp" width="900" height="970" alt="Line graph of Harbourlight candle sales over eight years (2, 9, 21, 33, 38, 38.5, 33, 22 thousand units) with a dashed line showing sales held near 38 if a reusable glass jar is launched in year 6. Five ways to extend the life cycle are listed." loading="lazy">
+  <figcaption>An extension strategy tries to hold sales up instead of letting them decline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## 3.3.2 Price
 
 ### Pricing methods
@@ -127,6 +153,22 @@ Demand is price elastic when a change in price causes a larger proportionate cha
 
 Why it matters: for elastic demand, a price cut can raise sales enough to increase revenue, and a rise can lose many customers. For inelastic demand, a price rise can increase revenue because few customers leave, but a cut gives away revenue. Products with many substitutes tend to be elastic, while necessities and strongly branded goods tend to be inelastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--06-elastic-vs-inelastic.webp" width="900" height="910" alt="Two small demand graphs with the same 20 percent price rise from 10 to 12. Elastic: quantity falls 100 to 60, so revenue falls 1,000 to 720. Inelastic: quantity falls 100 to 90, so revenue rises 1,000 to 1,080. Calculations are not assessed." loading="lazy">
+  <figcaption>The same price rise cuts revenue when demand is elastic and lifts it when demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--07-markup-vs-margin.webp" width="900" height="790" alt="Meadowsweet jam costs 2.50 (1.10+0.45+0.60+0.35). A 40 percent mark-up adds 1.00 for a price of 3.50. The 1.00 profit is 40 percent of cost but 28.6 percent of the selling price." loading="lazy">
+  <figcaption>The same profit gives a different percentage depending on whether it is measured against cost or selling price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+
 ## 3.3.3 Place: distribution channels
 
 A distribution channel is the route a product takes from producer to consumer. The syllabus mentions wholesalers, retailers and direct to consumers.
@@ -143,6 +185,17 @@ Worked example. Fernwick Footwear makes a boot at a cost of 30 a pair.
 - Direct online at 65, with delivery and packing of 6 and a payment platform fee of 4% (2.60): profit = 65 − 30 − 6 − 2.60 = 26.40 a pair.
 
 On 1,000 pairs, that is 8,000, 15,000 and 26,400. Direct selling earns most per pair, but it only works if the website can attract customers and fulfil orders. Recommend based on the situation: a start-up with no buyers may start with a retailer for reach and add a direct channel as it learns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--05-channel-profit-per-pair.webp" width="900" height="840" alt="The boot costs 30 to make. Via a wholesaler the producer makes 8, straight to a retailer 15, and selling direct online 26.40 after 6 delivery and a 2.60 platform fee. On 1,000 pairs that is 8,000, 15,000 and 26,400 dollars." loading="lazy">
+  <figcaption>Cutting out middlemen raises profit per pair, but direct selling needs customers and delivery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## 3.3.4 Promotion
 
@@ -165,6 +218,17 @@ A marketing budget is limited, so a business must ask how much extra sales each 
 | Discount voucher | 1,800 | 120 | 15.00 | 360 |
 
 The newspaper advert costs more per sale than each sale earns, so it loses money. Social media is most cost-effective on these figures. Voucher gives the most extra sales but a lower net gain. Say what the business cares about: cost per sale, or total sales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--06-promotion-cost-effectiveness.webp" width="900" height="985" alt="Each extra sale earns 18 dollars. The newspaper advert costs 25.00 per extra sale and loses 560, social media costs 12.50 per sale and gains 528, and the voucher costs 15.00 per sale and gains 360." loading="lazy">
+  <figcaption>Cost per extra sale shows which promotion is most cost-effective; here social media.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--08-advertising-vs-promotion.webp" width="900" height="885" alt="Two lists: advertising (newspapers, radio, television, posters, online) and sales promotion (discounts, buy one get one free, free samples, loyalty cards, competitions, coupons). An illustrative graph shows advertising building sales slowly with a lasting rise while sales promotion gives a quick boost that fades." loading="lazy">
+  <figcaption>Sales promotion boosts sales quickly; advertising builds awareness and image over time.</figcaption>
+</figure>
+
 
 ## 3.3.5 Technology and the marketing mix
 

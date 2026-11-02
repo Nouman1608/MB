@@ -63,6 +63,12 @@ x/λ = 0.34/1.36 = 0.25 of a cycle
 phase difference = 0.25 × 2π = π/2 rad = 90°
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+
 ## 3.3.1.2 Longitudinal and transverse waves
 
 In a **transverse** wave the particles (or fields) oscillate **at right angles** to the direction of energy propagation: waves on a string, and EM waves (electric and magnetic fields).
@@ -78,6 +84,12 @@ A **plane polarised** wave oscillates in one plane only. Only transverse waves c
 
 - **Polaroid material** transmits oscillations in one plane only. Two filters with axes at 90° block the light. Polaroid sunglasses cut glare from partly polarised reflected light.
 - **Aerials**: transmitters send polarised radio waves, so a receiving aerial must be aligned with the plane of polarisation for the strongest signal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
 
 ## 3.3.1.3 Superposition and stationary waves
 
@@ -96,6 +108,12 @@ A **stationary wave** forms when two progressive waves of the **same frequency**
 A string fixed at both ends must have a node at each end. The **first harmonic** has one loop, so λ = 2l. The **nth harmonic** has n loops, λ = 2l/n and frequency nf₁. For a string of tension T and mass per unit length μ, the wave speed is √(T/μ), giving for the first harmonic:
 
 **f = (1/2l) √(T/μ)**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
+  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
+</figure>
+
 
 ### Worked example 2
 
@@ -126,6 +144,17 @@ f = c/λ = 3.00 × 10⁸ / 0.035 = 8.6 × 10⁹ Hz
 
 Vary **length, tension and mass per unit length** one at a time. A string runs over a pulley to hanging masses (T = mg) and is driven by a vibration generator. Adjust the frequency until the first harmonic is clear. Graphs of f against 1/l, or f against √T, should be straight lines through the origin. Find μ by weighing a measured length of string.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
+  <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
+</figure>
+
+
 ## 3.3.2.1 Interference
 
 **Path difference** is the difference in distance from two sources to a point. For two sources in phase:
@@ -144,6 +173,12 @@ A single source lights two narrow slits a distance s apart, which act as coheren
 **w = λD/s**
 
 With **white light**, the central fringe is white (zero path difference for every wavelength). Other fringes are spectra with blue nearest the centre, since shorter λ gives smaller w.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--07-aphy-waves-double-slit.webp" width="900" height="1120" alt="A laser lights two slits a distance s apart, giving equally spaced fringes of spacing w = lambda D / s on a screen distance D away (not to scale). For 633 nm, 0.50 mm and 1.80 m, w = 2.28 mm. With white light the central fringe is white and violet fringes lie nearer the centre than red ones." loading="lazy">
+  <figcaption>Fringe spacing w = lambda D / s; white light gives a white centre and coloured fringes.</figcaption>
+</figure>
+
 
 ### Worked example 4
 
@@ -166,6 +201,12 @@ Newton's corpuscular (particle) theory was long preferred to Huygens' wave theor
 ### Required practical 2
 
 Investigate interference effects, including **Young's slits** and **a diffraction grating**: measure w, s and D to find λ, then use a grating to find λ from d sin θ = nλ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
 
 ## 3.3.2.2 Diffraction
 
@@ -197,6 +238,17 @@ d/λ = 5.66 → highest order n = 5
 ```
 
 Applications: analysing spectra from stars and discharge tubes to identify elements, and measuring wavelengths. Grating maxima are sharper and brighter than double-slit fringes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## 3.3.2.3 Refraction at a plane surface
 

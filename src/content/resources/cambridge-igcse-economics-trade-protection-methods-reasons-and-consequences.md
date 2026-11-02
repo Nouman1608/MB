@@ -61,11 +61,23 @@ A tariff is a tax on imported goods. It raises the price of the import, so home-
 
 Consumers lose: they buy fewer bicycles and pay more for each. Spending rises from 100 000 × 200 = 20.0 million to 88 000 × 240 = 21.12 million, for fewer bicycles. Home producers gain: their revenue rises from 30 000 × 200 = 6.0 million to 42 000 × 240 = 10.08 million. The government gains tariff revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--04-tariff-effect.webp" width="900" height="810" alt="At the world price of 200, demand is 100 000, home supply 30 000 and imports 70 000. The 20% tariff of 40 lifts the price to 240, so demand falls to 88 000, home supply rises to 42 000 and imports fall to 46 000, giving revenue of 46 000 x 40 = 1.84m." loading="lazy">
+  <figcaption>A tariff cuts imports, raises home output and earns revenue for the government.</figcaption>
+</figure>
+
+
 ### Import quotas
 
 An import quota is a limit on the quantity (or value) of a good that may be imported in a period. Suppose Country A sets a quota of 46 000 bicycles. The market has the same quantities as the tariff case, because only 46 000 can be imported, and the price rises to 240.
 
 The difference is who gets the gap of 40 between the world price and the home price. With a tariff, the government collects it. With a quota, it goes to whoever holds the import licences, often the foreign exporters or importers, unless the government sells the licences. Revenue for the government is therefore not automatic: it must charge for licences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--05-tariff-or-quota.webp" width="900" height="900" alt="Both a tariff and a quota of 46 000 raise the home price from 200 to 240. With a tariff the gap of 40 on 46 000 bicycles, 1.84m, goes to the government. With a quota it goes to the licence holders unless the government sells the licences." loading="lazy">
+  <figcaption>Under a tariff the government collects the gap; under a quota the licence holders do unless licences are sold.</figcaption>
+</figure>
+
 
 ### Subsidies
 
@@ -78,6 +90,12 @@ Suppose Country A pays 25 per bicycle to home firms. They act as if the price we
 3. Cost to the government: 37 500 × 25 = 937 500.
 
 Compare the two methods. The tariff raises the home price, cuts imports further (46 000) and earns revenue. The subsidy leaves the price at 200, cuts imports less (62 500) and costs the taxpayer money. Consumers are far better off under the subsidy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--06-tariff-or-subsidy.webp" width="900" height="890" alt="Free trade gives imports of 70 000 at a price of 200. The 20% tariff cuts imports to 46 000, raises the price to 240 and earns 1.84m. A subsidy of 25 per bicycle leaves the price at 200, imports fall to 62 500 and it costs the government 937 500." loading="lazy">
+  <figcaption>A tariff cuts imports most and earns money; a subsidy keeps prices low but costs taxpayers.</figcaption>
+</figure>
+
 
 ### Embargoes
 
@@ -92,6 +110,12 @@ An embargo is a ban on trade, either in a particular good or with a particular c
 | Subsidy | Unchanged | Pays out | Prices stay low, taxpayers pay |
 | Embargo | Import disappears | No revenue | Lose the product or its foreign variety |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--07-imports-by-method.webp" width="900" height="906" alt="Bars of annual bicycle imports: free trade 70 000, tariff 46 000, quota 46 000, subsidy 62 500 and embargo 0 because trade is banned." loading="lazy">
+  <figcaption>An embargo cuts imports to zero, more than a tariff, quota or subsidy.</figcaption>
+</figure>
+
+
 ## 6.2.5 Reasons for protection
 
 Each reason below is a chain of reasoning you can adapt to a question.
@@ -103,6 +127,12 @@ A new industry may start with high unit costs because output is small. Foreign r
 Example: a new battery industry in Country G has a unit cost of 250 at 10 000 units. The world price is 200. A 30% tariff makes the imported price 260, so the home firm can sell and cover costs. If output grows to 60 000 units and unit cost falls to 170, below the world price, the tariff can be removed.
 
 The risk: the firm may never become competitive, and the protection becomes permanent because workers and owners lobby to keep it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--08-infant-industry.webp" width="900" height="810" alt="At 10 000 units the new battery industry has a unit cost of 250, above the world price of 200 but below the tariff-raised import price of 260. At 60 000 units the unit cost is 170, below 200, so the tariff can be removed. The cost line is straight between these two lesson points and is schematic." loading="lazy">
+  <figcaption>Protection works as a bridge until unit costs fall below the world price.</figcaption>
+</figure>
+
 
 ### Declining industry
 
@@ -121,6 +151,22 @@ Example: Country E eats 2.5 million tonnes of grain a year and imports 80% of it
 Dumping is selling a good abroad at a price below its cost of production, or below its price in the exporter's home market. It can drive home firms out of business, after which the dumper may raise prices.
 
 Example: a firm in Country D has a cost of 180 per unit and sells at 210 at home. It exports to Country A at 150, where local firms sell at 200. The loss per unit is 30. The export price is (210 − 150) / 210 × 100 = 28.6% below its home price. Country A could add an anti-dumping tariff of 50 to bring the price back to 200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--07-dumping.webp" width="900" height="840" alt="Country D's firm has a cost of 180 and a home price of 210 but exports at 150, a loss of 30 per unit and 28.6% below its home price. Local firms in Country A sell at 200, so an anti-dumping tariff of 50 brings the export price up to 200." loading="lazy">
+  <figcaption>Dumping means selling abroad below cost or below the home price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--04-declining-industry-cost-per-job.webp" width="900" height="900" alt="Cloth price rises from 8 to 9.50 a metre, so buyers of 6,000,000 metres pay 9.0 million more. It protects 1,500 jobs, so the cost is 6,000 per job per year." loading="lazy">
+  <figcaption>Protecting 1,500 jobs costs 6,000 per job a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--05-strategic-grain-ban.webp" width="900" height="860" alt="Country E eats 2.5 million tonnes of grain, 2.0 million (80%) imported. If the supplier bans exports and home output is unchanged, 2.0 million tonnes are missing." loading="lazy">
+  <figcaption>Relying on imports for food leaves a 2.0 million tonne gap if supply is cut off.</figcaption>
+</figure>
+
 
 ## 6.2.6 Consequences of protection
 
@@ -153,6 +199,12 @@ A good evaluation uses a two-sided chain.
 1. Say who gains and who loses.
 2. Say what depends on: how long protection lasts, how elastic demand is, whether partners retaliate, and the size of the cost per job saved.
 3. Reach a judgement with a reason. For example: temporary protection of an infant industry with a clear end date is easier to defend than open-ended protection of a declining one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--06-retaliation-both-lose.webp" width="900" height="840" alt="B's bicycle exports fall from 14.0 to 9.2 million (-4.8, -34.3%) after A's tariff. If B retaliates and cuts A's 6.0 million of exports by 20%, A loses 1.2 million." loading="lazy">
+  <figcaption>A tariff and retaliation leave both countries with fewer exports.</figcaption>
+</figure>
+
 
 ## Common errors
 

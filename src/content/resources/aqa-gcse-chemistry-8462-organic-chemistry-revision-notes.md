@@ -38,6 +38,12 @@ For full explanations and worked examples, use the [Organic chemistry study guid
 - **Monomer / polymer**: small molecules / the very large molecule made when many join.
 - **Repeating unit**: the section that repeats along a polymer chain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-oc-polypropene-mr.webp" width="900" height="890" alt="Propene drawn as a displayed formula becomes the poly(propene) repeat unit in brackets. Mr of C3H6 is 42, so a chain of Mr 84 000 contains 84 000 / 42 = 2000 monomers." loading="lazy">
+  <figcaption>The repeat unit has the same atoms as propene, Mr 42, so Mr 84 000 means 2000 units.</figcaption>
+</figure>
+
+
 ## The four homologous series
 
 | Series | General formula / group | First four | Example formula |
@@ -91,6 +97,17 @@ Fuels from crude oil: petrol, diesel oil, kerosene, heavy fuel oil, liquefied pe
 
 **Balancing combustion, in steps:** balance C with CO2 → balance H with H2O → count O atoms on the right → halve for O2 → if you get a half, double every coefficient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
+
 ## Cracking
 
 | Method | Conditions (general terms) |
@@ -112,6 +129,17 @@ Worked reminder: C15H32 → C9H20 + 2C3H6. Left: 15 C, 32 H. Right: 9 + 6 = 15 C
 3. Put one added atom (H, Cl, Br or I) on each of the two carbons that were double-bonded. For water, put H on one carbon and –OH on the other.
 4. Count: every carbon must have four bonds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--14-aqa-cracking-balance.webp" width="900" height="930" alt="A chain of 13 carbon atoms, C13H28, is cracked into a chain of 9 carbons, C9H20, an alkane, plus two molecules of ethene, C2H4, each with a carbon to carbon double bond. The atoms balance: carbon 13 equals 9 plus 2 plus 2, and hydrogen 28 equals 20 plus 4 plus 4. Hydrogens are not drawn." loading="lazy">
+  <figcaption>C13H28 -&gt; C9H20 + 2 C2H4 balances: 13 carbons and 28 hydrogens on each side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
+
 ## Alkene reactions
 
 All additions go **across the C=C**, which becomes C–C.
@@ -125,6 +153,17 @@ All additions go **across the C=C**, which becomes C–C.
 
 Worked reminder: butene + hydrogen → butane, C4H8 + H2 → C4H10. Butene + water → butanol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--12-oc-propene-bromine.webp" width="900" height="830" alt="Propene plus bromine gives C3H6Br2: one Br on each carbon of the old C=C and all bonds single." loading="lazy">
+  <figcaption>Bromine adds across the C=C of propene to give C3H6Br2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--13-oc-smoky-flame.webp" width="900" height="890" alt="An alkane burns with a clean flame (complete combustion, CO2 and H2O). An alkene tends to burn with a larger smoky flame because of incomplete combustion." loading="lazy">
+  <figcaption>Alkenes tend to burn with smoky flames because of incomplete combustion.</figcaption>
+</figure>
+
+
 ## Alcohols -- four reactions
 
 | With | What you see / get |
@@ -137,6 +176,12 @@ Worked reminder: butene + hydrogen → butane, C4H8 + H2 → C4H10. Butene + wat
 Uses: fuels, solvents; ethanol in alcoholic drinks.
 **Fermentation**: sugar solution + yeast, warm (about 30 °C), air kept out → aqueous ethanol.
 Equations required only for combustion, e.g. 2CH3OH + 3O2 → 2CO2 + 4H2O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--12-aqa-alcohol-reactions.webp" width="900" height="1060" alt="Four panels show what happens to ethanol. One, with sodium: fizzing as hydrogen gas is given off. Two, burning in air: carbon dioxide and water form, with a clean flame, so alcohols are used as fuels. Three, added to water: ethanol dissolves to give a neutral solution." loading="lazy">
+  <figcaption>Ethanol fizzes with sodium, burns cleanly, dissolves to a neutral solution and is oxidised to ethanoic acid.</figcaption>
+</figure>
+
 
 ## Carboxylic acids -- three reactions
 
@@ -170,6 +215,12 @@ Worked reminder (Higher tier only): ethanediol (Mr 62) and hexanedioic acid (Mr 
 **Amino acids (Higher tier only)**: two different groups (–NH2 and –COOH) in one molecule; glycine H2NCH2COOH; condensation → polypeptides; different amino acids → proteins.
 
 **Natural polymers**: DNA (nucleotides, four types; two chains, double helix), proteins (amino acids), starch and cellulose (glucose, a sugar).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-aqa-natural-polymers.webp" width="900" height="1010" alt="Four rows show natural polymers as chains of beads. DNA is two chains in a double helix, made from four different monomers called nucleotides, drawn as four different bead shapes. A protein is a chain of amino acids, drawn as beads of different colours. Starch is a chain of glucose, a sugar, drawn as identical beads labelled G." loading="lazy">
+  <figcaption>DNA, proteins, starch and cellulose are chains built from nucleotides, amino acids and glucose.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -220,6 +271,12 @@ Worked reminder (Higher tier only): ethanediol (Mr 62) and hexanedioic acid (Mr 
 - Writing a formula for an ester or carboxylic acid equation when only a word description is needed -- and then getting it wrong. Keep to what is asked.
 - Calling a carboxylic acid weak "because it is dilute" (Higher tier).
 - Saying a condensation polymer's repeating unit has the same atoms as the monomers. Water has been lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--15-oc-flammability.webp" width="900" height="850" alt="Three carbon chains of increasing length with smaller flames: small molecules ignite easily, larger ones are harder and hardest to ignite." loading="lazy">
+  <figcaption>Flammability decreases as hydrocarbon molecules get larger.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

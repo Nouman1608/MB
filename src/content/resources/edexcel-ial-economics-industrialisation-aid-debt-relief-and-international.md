@@ -60,6 +60,17 @@ Check round 1: output 20 x 70 = 1,400; wage bill 20 x 40 = 800; profit 600; rein
 - Migrants may become urban unemployed if modern jobs grow slower than the rural exodus.
 - Success depends on infrastructure, skills and stable policy, so industrialisation is rarely a stand-alone fix.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--11-lewis-model-turning-point.webp" width="900" height="920" alt="Modern-sector workers by round are 20, 26, 34 and a planned 44, passing the 40 surplus workers marked by a dashed line. The farm produces 3,840 with 120 workers (32 each) and the same 3,840 with 80 (48 each). Beyond the 40th worker, farm output falls and wages must rise." loading="lazy">
+  <figcaption>The model works until surplus labour is used up; then the turning point forces wages up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--09-lewis-reinvestment-rounds.webp" width="900" height="960" alt="For three rounds, output is split into wage bill and profit, and 75 percent of profit is reinvested: 450, 585 and 765, creating 6, 7.8 and 10.2 jobs at 75 each. The plan reaches about 44 workers against 40 surplus." loading="lazy">
+  <figcaption>Reinvested profit creates the new modern-sector jobs in each round.</figcaption>
+</figure>
+
+
 ## Tourism
 
 Tourism is an export of services. Foreign visitors spend money in the country, which raises incomes, jobs and tax revenue.
@@ -76,6 +87,17 @@ Tourism is an export of services. Foreign visitors spend money in the country, w
 
 Reducing leakage matters as much as raising arrivals. Evaluation points: how large tourism is relative to GDP, how much is locally owned, how exposed it is to a drop in visitors, and the cost of environmental damage to future income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--12-tourism-leakage-multiplier.webp" width="900" height="850" alt="Tourists spend 200 million. Imports (60) and profit sent abroad (40) leak, leaving 100 as local income. With a multiplier of 1.67 total local income is 166.7 million." loading="lazy">
+  <figcaption>Leakage cuts the multiplier; reducing it matters as much as raising arrivals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Primary industries
 
 Developing primary industries means expanding agriculture, mining, fishing and forestry. A country with abundant land or minerals can earn export revenue, create jobs and fund investment without needing advanced technology.
@@ -87,6 +109,17 @@ Developing primary industries means expanding agriculture, mining, fishing and f
 **Worked example (Country C, illustrative).** A tonne of raw crop sells for 1,000 and uses 200 of purchased inputs, so value added by growing = 1,000 - 200 = 800. Processing the tonne locally sells for 2,600 using the 1,000 of crop plus 300 of other inputs, so value added by processing = 2,600 - 1,000 - 300 = 1,300. Total value added in the chain = 800 + 1,300 = 2,100, which equals 2,600 - 200 - 300. Processing adds 1,300 / 800 = 1.63 times as much value as growing.
 
 Risk example: if one primary product is 65% of export earnings and its price falls 20%, total export earnings fall by 0.65 x 0.20 = 13%, even if nothing else changes. Strategy therefore aims to move up the value chain and diversify. Processing needs electricity, finance and access to foreign markets, which may impose higher tariffs on processed goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--13-primary-processing-value-added.webp" width="900" height="960" alt="One tonne of crop sells for 1,000 with 800 value added when grown; processed it sells for 2,600 with 1,300 value added. Processing adds 1.63 times as much value as growing." loading="lazy">
+  <figcaption>Moving up the value chain captures more value per tonne.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--08-export-concentration-risk.webp" width="900" height="850" alt="Export earnings of 100 are 65 from one crop and 35 from other goods. A 20 percent price fall cuts the crop to 52 and total earnings to 87, a 13 percent fall." loading="lazy">
+  <figcaption>One dominant export makes total earnings fall sharply when its price drops.</figcaption>
+</figure>
+
 
 ## Debt relief
 
@@ -105,6 +138,12 @@ Suppose 40% of the debt is cancelled and payments fall in proportion. New debt =
 - Moral hazard: a government that expects forgiveness may borrow recklessly.
 - Conditions tied to relief can force spending cuts that hurt poorer households.
 - Rescheduling lowers each year's payment but raises total interest paid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--14-debt-relief-freed-spending.webp" width="900" height="970" alt="Cancelling 40% of the debt cuts debt service from 720 to 432, freeing 288, which would raise the 480 health and education budget by 60%. Debt to GDP falls from 80% to 48% and the debt service ratio from 24% to 14.4%." loading="lazy">
+  <figcaption>Debt relief lowers the debt burden and can free money for public services.</figcaption>
+</figure>
+
 
 ## Aid
 
@@ -128,6 +167,17 @@ Aid is a transfer of resources from donors to poorer countries on concessional t
 - Long-run dependency may weaken incentives to reform.
 - Emergency aid saves lives quickly, while long-term projects work better when local people take ownership.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--15-tied-aid-real-value.webp" width="900" height="790" alt="Of 1,000 million aid, 400 is untied and 600 is tied to donor goods 25% dearer, so the tied part buys 480. Real value is 880, a loss of 120 or 12%." loading="lazy">
+  <figcaption>Tying aid to donor goods reduces what it can actually buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--06-aid-types.webp" width="900" height="1140" alt="Six pictures: bilateral aid from one government to another; multilateral aid pooled through an institution; grants and concessional loans that are free or below-market interest; tied aid restricted to donor-country goods; emergency relief after famine, flood or war; project and technical aid." loading="lazy">
+  <figcaption>Aid differs by who gives it, on what terms and for what purpose.</figcaption>
+</figure>
+
+
 ## International institutions
 
 **The World Bank** lends mainly for long-term development: infrastructure, education, health and poverty reduction. It also gives technical advice and can lend on softer terms to the poorest members.
@@ -137,6 +187,12 @@ Aid is a transfer of resources from donors to poorer countries on concessional t
 **NGOs** are non-profit organisations independent of government, funded by donations and grants. They run local projects such as water supply and schools, supply emergency relief and lobby for policy change.
 - Strengths: local knowledge, flexibility and the ability to reach communities that government misses.
 - Limits: small scale, dependence on donors, duplicated effort and weak accountability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--07-who-does-what-institutions.webp" width="900" height="970" alt="On a short-run to long-run scale, the World Bank lends long term for development, the IMF gives temporary balance of payments loans with conditions, and NGOs run non-profit local projects." loading="lazy">
+  <figcaption>Long-term lending, short-term balance of payments support and local projects are different jobs.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -65,6 +65,22 @@ Economic growth is an increase in real GDP: output measured at constant prices, 
 
 Check: 640 × 1.025^8 is approximately 780. Use the compound method for a trend, not a simple average of yearly rates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--05-trend-rate-compound.webp" width="900" height="900" alt="Real GDP rises from 640 to 780 over 8 years along a compound path; trend rate (780/640)^(1/8) - 1 = 2.5% a year." loading="lazy">
+  <figcaption>The trend rate is the compound annual growth rate, here 2.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## Determinants of growth
 
 **Demand-side determinants (short-run growth).** Real GDP is demanded as consumption (C), investment (I), government spending (G) and net exports (X − M). Growth in any component raises AD.
@@ -88,6 +104,17 @@ Demand-led growth only lasts while spare capacity remains.
 
 Note the link: investment is on both sides. It raises AD immediately and raises capacity later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--03-contributions-to-growth.webp" width="900" height="800" alt="Waterfall for Country B (real GDP 500): C +8 adds 1.6 percentage points, I +6 adds 1.2, G +2 adds 0.4, net exports -1 subtract 0.2, giving 15 divided by 500 equals 3.0 percent." loading="lazy">
+  <figcaption>Each component change divided by real GDP gives its contribution to growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+
 ## Output gaps
 
 - **Positive output gap:** real GDP is above the productive potential of the economy.
@@ -96,6 +123,12 @@ Note the link: investment is on both sides. It raises AD immediately and raises 
 Output gap (%) = (actual real GDP − potential real GDP) / potential real GDP × 100.
 
 On AD/AS: a positive gap sits to the right of the LRAS curve (the economy is stretched, with shortages of labour and rising wage and price pressure). A negative gap sits to its left (spare capacity, higher unemployment, weak price pressure).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--02-output-gap-ad-as.webp" width="900" height="926" alt="AD/AS diagram with vertical LRAS at potential output. A higher AD curve meets SRAS to the right of LRAS (positive gap); a lower AD curve meets it to the left (negative gap). The side boxes give the lesson description of each." loading="lazy">
+  <figcaption>A positive gap sits right of LRAS and a negative gap sits left of it.</figcaption>
+</figure>
+
 
 ## The economic cycle
 
@@ -125,6 +158,12 @@ Common phases are the **boom** (growth strong, positive gap), the **downturn or 
 | 6 | 551 | 565.7 | -2.6% | +2.4% | 1.2% | 6.9% | +3% |
 
 Reading it: years 2 and 3 are expansion into a boom (strong growth, falling unemployment, rising inflation, investment up). Year 4 is a slowdown: output still grows but growth and investment slow, and the positive gap narrows. Year 5 is a recession: output falls, unemployment jumps, inflation eases, investment collapses. Year 6 is a recovery, but growth of 2.4% is below the trend of 2.5%, so the negative gap stays at -2.6%. Unemployment is a lagging indicator, so it still rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--01-cycle-output-gap.webp" width="900" height="1040" alt="Country C (invented) actual versus potential output over six years with the output gap and phase for each year. Gaps are +1.5, +3.0, +2.7, -2.5 and -2.6 percent. Years 2 to 4 sit above potential and years 5 and 6 below it." loading="lazy">
+  <figcaption>Output above potential is a positive gap; below potential is a negative gap, and the phase names follow the lesson.</figcaption>
+</figure>
+
 
 ## Causes of changes in the cycle: shocks
 
@@ -161,6 +200,22 @@ Higher borrowing costs more than double the burden of the larger debt. Prices th
 
 Evaluation: the effect depends on the size of the debt, how it is spread, regulation of lending, and whether incomes keep rising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--04-bubble-and-debt.webp" width="900" height="1060" alt="House prices rise 80 percent from 100 to 180, then fall 38.9 percent to 110. A buyer at the peak with a 90 percent loan owes 162 on a house worth 110, negative equity of 52, and households cut spending so AD shifts left." loading="lazy">
+  <figcaption>When an asset bubble bursts, negative equity pushes households to cut spending and AD falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--07-interest-burden.webp" width="900" height="850" alt="Bars of interest as a percentage of income: 1.8% (debt 90%, rate 2%), 2.6% (debt 130%, rate 2%), 6.5% (debt 130%, rate 5%), 2.5 times the 2.6%." loading="lazy">
+  <figcaption>Raising the rate from 2% to 5% on larger debt more than doubles the interest burden.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--08-speculation-loops.webp" width="900" height="930" alt="Boom loop: prices rise, optimism and copying, more buying, prices rise again. After the bubble bursts, the bust loop: prices fall, fear and copying, panic selling, prices fall again." loading="lazy">
+  <figcaption>Destabilising speculation and herding make prices feed on themselves in both directions.</figcaption>
+</figure>
+
+
 ## Costs and benefits of growth
 
 | | Benefits | Costs |
@@ -178,6 +233,17 @@ Emissions per unit of output: 117 / 130 = 0.90 (down 10%)
 ```
 
 Emissions are still 17% higher, so cleaner growth is not yet sustainable growth. Judging it depends on technology, carbon pricing and regulation, and whether the environmental stock can recover. Time matters: the costs often fall on later generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--05-sustainable-growth.webp" width="900" height="870" alt="Real GDP rises from 100 to 130 while emissions rise from 100 to 117. Emissions per unit of output fall 10 percent (117 / 130 = 0.90) but total emissions are still 17 percent higher." loading="lazy">
+  <figcaption>Cleaner per unit of output is not the same as sustainable growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--06-per-head-growth.webp" width="900" height="810" alt="Bars: real GDP 3.0%, population 1.2%, real GDP per head about 1.8% (1.03/1.012 - 1)." loading="lazy">
+  <figcaption>Growth per head is lower than total growth when population is rising.</figcaption>
+</figure>
+
 
 ## Common errors
 

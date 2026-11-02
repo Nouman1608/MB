@@ -54,6 +54,12 @@ This distinction matters practically: a school that enters students for
 AS at the end of Year 12 is awarding a separate, final qualification at
 that point, not a progress checkpoint towards the A-level grade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--01-separate-awards.webp" width="900" height="810" alt="Two qualifications under one AQA specification document. AS Business 7137 has its own exams and certificate and can be a final award. A-level Business 7138 examines the AS content again in more depth and adds A-level only content." loading="lazy">
+  <figcaption>AS is a separate qualification that shares a specification document with A-level.</figcaption>
+</figure>
+
+
 ## The two units
 
 AS Business covers two of the three units that make up the combined AQA
@@ -89,6 +95,17 @@ businesses operate within an external environment, which has moved,
 under 7137/7138, into the now-A-level-only Unit 3.3. It is no longer
 part of the AS course at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--02-units-subtopics.webp" width="900" height="996" alt="Unit 3.1 has four AS sub-topics and Unit 3.2 has two (3.2.3 is A-level only); Unit 3.3 is entirely A-level only." loading="lazy">
+  <figcaption>AS covers six sub-topics in Units 3.1 and 3.2; Unit 3.3 and 3.2.3 are A-level only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--05-as-course-map.webp" width="900" height="1108" alt="A grid of AS sub-topics against Paper 1 and Paper 2, with A-level-only content shown dashed and a note on the move of the external-environment topic from 7131." loading="lazy">
+  <figcaption>Which units sit in which paper, and what is A-level only.</figcaption>
+</figure>
+
+
 ## How it's assessed
 
 AS Business is assessed by two exam papers, each lasting **1 hour 45
@@ -107,6 +124,17 @@ together worth 40 marks per case study (80 marks total per paper).
   15-mark question in Paper 2 specifically requires learners to draw
   together knowledge from across the full AS course, and both papers'
   15-mark questions reward the accurate use of sophisticated concepts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--03-two-papers.webp" width="900" height="940" alt="Two papers, each 1 h 45 min, 80 marks and 50% of AS. Each has two case studies of six compulsory questions worth 40 marks; 40 + 40 = 80." loading="lazy">
+  <figcaption>Two equal papers, each built from two case studies worth 40 marks each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--04-paper-coverage.webp" width="900" height="948" alt="Grid of six sub-topics against Paper 1 and Paper 2: Paper 1 tests 3.1.1-3.1.4; Paper 2 mainly 3.2.1, 3.2.2, 3.1.1 and 3.1.2, with end-points able to reach 3.1.3 and 3.1.4, e.g. a break-even calculation." loading="lazy">
+  <figcaption>Paper 1 tests Unit 3.1; Paper 2 centres on Unit 3.2 but questions can end in any Unit 3.1 content.</figcaption>
+</figure>
+
 
 ## Approaching the case-study papers
 
@@ -128,6 +156,12 @@ that deliberately link a Unit 3.2 topic back to marketing or finance
 (3.1.1/3.1.2, and occasionally the wider Unit 3.1), since AQA's own
 sample materials show end-points reaching into content outside the
 paper's primary unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--05-case-study-use.webp" width="900" height="1064" alt="A case study with size, sector, objectives and numbers highlighted, leading to a comparison of a theory-only answer that plateaus in the middle bands and an answer adding case evidence that reaches higher." loading="lazy">
+  <figcaption>Note the business context first, then use it as evidence in every answer.</figcaption>
+</figure>
+
 
 ## Related resources
 

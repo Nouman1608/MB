@@ -51,6 +51,12 @@ Use it with the [4CH1 Chemistry course hub](/boards/edexcel/igcse/chemistry/) an
 
 An **atom** is the smallest particle of an element that keeps the chemical properties of that element. A **molecule** is two or more atoms chemically bonded together (by covalent bonds). The atoms can be the same element, as in O₂ or Cl₂, or different elements, as in H₂O or CO₂. So oxygen gas is made of molecules, but helium and neon exist as single atoms. A molecule containing two or more elements is a compound.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table--02-atoms-and-molecules.webp" width="900" height="970" alt="Helium and neon are shown as single atoms. Oxygen, O2, and chlorine, Cl2, are shown as molecules of one element, with a double and a single bond. Water, H2O, and carbon dioxide, CO2, are shown as molecules of compounds, each containing atoms of two different elements." loading="lazy">
+  <figcaption>A molecule is two or more atoms bonded together, of the same element or of different elements; noble gases stay as single atoms.</figcaption>
+</figure>
+
+
 ### Sub-atomic particles (1.15)
 
 An atom has a tiny central **nucleus** that contains **protons** and **neutrons**. **Electrons** occupy **shells** (energy levels) around the nucleus.
@@ -62,6 +68,12 @@ An atom has a tiny central **nucleus** that contains **protons** and **neutrons*
 | Electron | Shells around the nucleus | about 1/1840 (negligible) | −1 |
 
 Almost all of an atom's mass is in the nucleus. An atom has **no overall charge** because it has equal numbers of protons and electrons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
 
 ### Atomic number, mass number and isotopes (1.16)
 
@@ -83,6 +95,22 @@ An atom is written with its mass number at the top left and its atomic number at
 An ion has the same nucleus as its atom; a 2+ ion has lost two electrons.
 
 Isotopes of an element have the same electron arrangement, so they react in the same way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
 
 ### Calculating relative atomic mass (1.17)
 
@@ -128,6 +156,17 @@ Ar = (10 x 1 + 11 x 4) / 5
 
 Ar has no units: it is a relative value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table--01-ar-isotope-abundances.webp" width="900" height="1110" alt="100 atoms of magnesium are coloured by isotope: 79 of magnesium-24, 10 of magnesium-25, 11 of magnesium-26. Mass number times abundance sums to 2432, divided by 100 gives 24.3, close to 24. A second panel shows boron isotopes in a 1 to 4 ratio divided by 5 parts to give 10.8." loading="lazy">
+  <figcaption>Ar is a weighted mean: divide by 100, or by the total number of parts when given a ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
+
 ## 1(d) The Periodic Table
 
 ### How the table is arranged (1.18)
@@ -138,6 +177,17 @@ The elements are arranged **in order of increasing atomic number**. Each element
 - A **period** is a horizontal row. Period 1 contains only hydrogen and helium.
 
 Ordering by atomic number, not Ar, puts each element with similar elements. For example, argon (atomic number 18) comes before potassium (atomic number 19), even though argon has the larger Ar. This keeps argon with the noble gases and potassium in Group 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table--01-periodic-table-periods-1-4.webp" width="900" height="748" alt="A grid of periods 1 to 4 of the Periodic Table. Groups 1 and 2 are on the left, a centre block of metals follows, then Groups 3 to 7, and the noble gases form Group 0 on the far right. A stepped staircase line starts at boron and runs down to the right, with metals on its left and non-metals on its right. Hydrogen is marked as a non-metal." loading="lazy">
+  <figcaption>Groups are columns, periods are rows, and the staircase line separates metals from non-metals; the noble gases are Group 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
 
 ### Electronic configurations of the first 20 elements (1.19)
 
@@ -178,6 +228,12 @@ four shells       -> Period 4
 2 + 8 + 8 + 2 = 20 electrons -> atomic number 20 -> calcium
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+
 ### Metals and non-metals by position (1.21)
 
 Metals are on the left of the Periodic Table and in the centre block between Groups 2 and 3. Non-metals are on the right. A stepped (staircase) line separating the two runs from boron down towards the bottom right. Hydrogen is a non-metal, even though it is placed at the top of the table.
@@ -208,6 +264,12 @@ conclusion: E is a non-metal
 
 Use both pieces of evidence: graphite shows one alone can mislead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table--02-metal-nonmetal-evidence.webp" width="900" height="1170" alt="Copper in a circuit lights a lamp; sulfur does not; graphite is an exception. A metal oxide such as sodium oxide gives an alkaline solution; a non-metal oxide such as sulfur dioxide gives an acidic solution." loading="lazy">
+  <figcaption>Conductivity and oxide pH together classify an element.</figcaption>
+</figure>
+
+
 ### Why groups share properties (1.23)
 
 Chemical reactions involve the **outer-shell electrons**: atoms lose, gain or share them. Elements in the same group have the **same number of outer-shell electrons**, so they react in similar ways. For example, lithium, sodium and potassium each have one outer electron, and each reacts with water to form a hydroxide and hydrogen. Group trends are taught in Topic 2; see the [reactivity and group trends guide](/resources/igcse-edexcel-chemistry-reactivity-and-group-trends/).
@@ -215,6 +277,12 @@ Chemical reactions involve the **outer-shell electrons**: atoms lose, gain or sh
 ### Why the noble gases are unreactive (1.24)
 
 The noble gases have a **full outer shell** of electrons (2 for helium; 8 for the others). This is a stable arrangement, so a noble gas atom has no tendency to lose, gain or share electrons. That is why they do not readily react and why they exist as single atoms rather than molecules. Helium is in Group 0 even though it has only 2 outer electrons, because its outer shell (the first shell) is full.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
 
 ## Common errors
 

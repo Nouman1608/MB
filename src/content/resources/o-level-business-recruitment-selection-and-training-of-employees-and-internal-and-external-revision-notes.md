@@ -68,6 +68,22 @@ Method in steps for "recommend and justify who to employ":
 3. State your choice and two reasons using the data given.
 4. State one risk of your choice and why the other candidate is less suitable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--03-part-time-cost.webp" width="900" height="840" alt="Two bars: one full-time employee for 40 hours costs Rs 20,000 a week; two part-timers for 15 hours each cost Rs 15,000, saving Rs 5,000 (25%). Induction for two costs Rs 2,400 once, 0.48 of a week of the saving." loading="lazy">
+  <figcaption>Two part-timers cost Rs 5,000 a week less than one full-timer in the bakery example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--01-recruit-routes.webp" width="900" height="860" alt="Two panels compare internal recruitment (existing staff, one promoted into the vacancy) with external recruitment (a large crowd of outside applicants). Internal is quicker and cheaper, the record is known and it shows promotion is possible, but there are few applicants, no new ideas and the old job must be filled. External gives a larger pool and fresh ideas but costs more, ability is less certain and staff may feel overlooked." loading="lazy">
+  <figcaption>Internal and external recruitment each have benefits and limitations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## 2.3.2 Training
 
 Benefits to business: higher productivity, fewer errors and accidents, better service, new equipment used properly. Benefits to employees: new skills, confidence, promotion chances.
@@ -78,6 +94,17 @@ Benefits to business: higher productivity, fewer errors and accidents, better se
 | On-the-job | Skills specific to this workplace | Trainer's output falls; bad habits pass on |
 | Off-the-job | Specialist or risky skills | Cost and absence from work |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--05-training-cost-compare.webp" width="900" height="840" alt="Stacked bars: off-the-job training costs Rs 24,400 per trainee (18,000 fee plus 6,400 lost output); on-the-job costs Rs 7,500 (6,000 supervisor time plus 1,500 scrap). For 8 trainees: Rs 195,200 v Rs 60,000, a difference of Rs 135,200." loading="lazy">
+  <figcaption>Off-the-job training is dearer here, though cost is not the only test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2.3.3 Reducing the workforce
 
 | | Dismissal | Redundancy |
@@ -86,6 +113,17 @@ Benefits to business: higher productivity, fewer errors and accidents, better se
 | Example | Persistent breach of safety rules | A task is automated |
 
 Situations for downsizing: automation, reduced demand, closing a branch, cutting costs to survive. To choose who goes, ask which jobs are no longer needed, whose skills are still required, and who can move or retrain. Give one cost of your choice, such as lost experience or lower morale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-dismissal-vs-redundancy.webp" width="900" height="730" alt="Two panels. Dismissal concerns the person: an employee ignores safety rules after warnings and leaves; the post is often refilled. Redundancy concerns the job: a machine does the work of five, the post is crossed out and usually removed, through no fault of the worker." loading="lazy">
+  <figcaption>Dismissal is about the employee; redundancy is about the job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--05-ironvale-redundancy.webp" width="900" height="960" alt="Fifty employee figures with 8 crossed out. The wage bill is 50 x Rs 45,000 = Rs 2,250,000 a month; removing 8 posts saves Rs 360,000 a month, 16 percent of the bill. Compensation owed reduces the saving at first, and posts should be chosen by business need." loading="lazy">
+  <figcaption>Removing 8 of 50 posts saves 16% of the monthly wage bill.</figcaption>
+</figure>
+
 
 ## 2.3.4 Legal controls (general terms only)
 
@@ -96,6 +134,17 @@ Situations for downsizing: automation, reduced demand, closing a branch, cutting
 | Discrimination | Hire and promote on ability | Fair treatment |
 | Health and safety | Costs of equipment and training; fewer accidents | Safer work |
 | Legal minimum wage | Higher wage costs | Guaranteed minimum pay |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--02-legal-five.webp" width="900" height="784" alt="Five rows with an icon each: contracts, unfair dismissal, discrimination, health and safety and minimum wage. Each row states in a few words what the employer must do and what the employee gains." loading="lazy">
+  <figcaption>The five legal controls, with what each asks of employers and gives employees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--03-delmore-min-wage.webp" width="900" height="890" alt="Bars show monthly pay of Rs 38,000 against a new minimum of Rs 40,000, a rise of Rs 2,000 or 5.3 percent. For 12 cleaners this is Rs 24,000 a month and Rs 288,000 a year. Delmore might raise prices, trim hours or accept lower profit." loading="lazy">
+  <figcaption>A Rs 2,000 rise for each of 12 cleaners costs Delmore Rs 288,000 a year.</figcaption>
+</figure>
+
 
 ## 2.4 Communication
 
@@ -123,6 +172,17 @@ Choose a method by urgency, complexity, number of receivers, and need for a reco
 | Technical failure | Not received | Back-up channel |
 
 Problems of poor communication: mistakes, delays, low morale, lost customers and orders, conflict.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-rosedale-briefing.webp" width="900" height="950" alt="90 staff figures; a 15-minute briefing is 22.5 staff-hours, Rs 10,125 of working time at Rs 450 an hour. The briefing allows instant questions but leaves no record unless minuted; a notice plus email is cheap and leaves a record but cannot confirm understanding. Together they cover speed, understanding and a record." loading="lazy">
+  <figcaption>Combining a briefing with a notice and email covers speed, understanding and a record.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -189,3 +249,9 @@ Problems of poor communication: mistakes, delays, low morale, lost customers and
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026 (Version 2), published by Cambridge University Press & Assessment (Cambridge International). Sections 2.3 and 2.4 of the subject content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+

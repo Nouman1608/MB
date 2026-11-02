@@ -72,6 +72,12 @@ For two months the firm is out of pocket by £5,400 on a job that makes £3,600 
 
 A loan received is also an inflow of cash, but it is not sales revenue and it is not profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--01-pellam-profit-vs-cash.webp" width="900" height="1010" alt="Pellam Joinery fits wardrobes for 9,000 pounds and pays 5,400 for timber in March. Profit on the job is 3,600 pounds. Cash from the job is minus 5,400 in March and April and plus 3,600 in May when the customer pays." loading="lazy">
+  <figcaption>A profitable job can leave the firm out of pocket for two months.</figcaption>
+</figure>
+
+
 ## 3. Building a cash-flow forecast
 
 A **cash-flow forecast** is a prediction, month by month, of the cash expected to come in and go out, with the bank balance it leaves. Owners use one to spot gaps early. The specification names these parts.
@@ -104,6 +110,12 @@ Dunmore Bike Repairs starts January with £2,000 in the bank. Monthly wages are 
 
 Check one column. March inflows are 7,200 and outflows are 2,900 + 2,400 + 1,350 + 3,000 = 9,650. Net cash flow = 7,200 - 9,650 = -2,450. Closing balance = 5,900 + (-2,450) = 3,450, and that becomes the April opening balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--02-dunmore-closing-to-opening.webp" width="900" height="739" alt="Opening balance, net cash flow and closing balance for January to April. Arrows copy each closing balance to the next opening balance. March: 5,900 plus minus 2,450 gives 3,450." loading="lazy">
+  <figcaption>Each closing balance is copied to the next month as the opening balance.</figcaption>
+</figure>
+
+
 ## 4. Interpreting a forecast
 
 Calculation is only half of the topic. A good answer also says what the figures mean for the business.
@@ -114,6 +126,12 @@ Calculation is only half of the topic. A good answer also says what the figures 
 - **Remember the limits.** A forecast is built from estimates. Sales may be lower, customers may pay later and costs may rise, so owners compare it with actual figures and update it.
 - **Act on what you find.** Responses to a gap include short-term finance, asking customers to pay sooner, negotiating longer supplier credit, or timing large purchases for a stronger month.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--03-dunmore-loan-gap.webp" width="900" height="920" alt="Closing balances with the 4,000 pound loan are 2,150, 5,900, 3,450 and 4,600; without it they are 2,150, 1,900, minus 550 and 600. March would be 550 short, caused by the 3,000 pound stand." loading="lazy">
+  <figcaption>Without the loan Dunmore would be 550 short in March.</figcaption>
+</figure>
+
+
 ## 5. Short-term sources of finance
 
 Short-term sources cover temporary cash gaps and day-to-day running costs. The specification names two.
@@ -121,6 +139,17 @@ Short-term sources cover temporary cash gaps and day-to-day running costs. The s
 **Overdraft.** The bank lets the business spend more than it has in its current account, up to an agreed limit. It is flexible: the business only borrows what it needs, when it needs it, and interest is charged on the amount overdrawn. Interest rates can be high and the bank may reduce the limit. It suits a gap such as Dunmore's March dip, not something that takes years to pay back.
 
 **Trade credit.** A supplier delivers goods now and lets the business pay later, for example after 30 days. There is no interest in the usual arrangement, so the supplier is in effect lending the money. It helps cash flow because stock can be sold before it is paid for. The drawbacks: a new business without a track record may not be offered credit, the supplier may offer a discount for early payment that is lost, and late payment can damage the relationship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--04-sources-short-or-long.webp" width="900" height="1046" alt="Overdraft and trade credit are short-term. Savings, venture capital, share capital, loans, retained profit and crowd funding are long-term. Trade credit and retained profit are dashed as harder for a new start-up." loading="lazy">
+  <figcaption>Two short-term and six long-term sources; some are harder for a start-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--08-fin-overdraft-loan.webp" width="900" height="730" alt="A timeline over 12 months shows the 8,000 pound need lasting 3 months. An overdraft used for 3 months costs 240; a 12-month loan costs 720 although the money is needed for a quarter." loading="lazy">
+  <figcaption>For a 3-month need an overdraft costs 240 pounds against 720 pounds for a 12-month loan.</figcaption>
+</figure>
+
 
 ## 6. Long-term sources of finance
 
@@ -139,6 +168,12 @@ The specification gives interest on loans in % as (total repayment - borrowed am
 
 Dunmore's owner considers borrowing £15,000 and repaying £17,400 in total. Interest = 17,400 - 15,000 = £2,400. As a percentage: 2,400 / 15,000 × 100 = **16%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--05-loan-interest-percent.webp" width="900" height="670" alt="15,000 pounds borrowed is 100 percent; 2,400 pounds interest makes a 17,400 pound repayment. 2,400 divided by 15,000 times 100 is 16 percent." loading="lazy">
+  <figcaption>Interest is (repaid minus borrowed) divided by borrowed times 100: 16%.</figcaption>
+</figure>
+
+
 ## 7. Choosing between sources
 
 A start-up has no trading history and no retained profit. It usually relies on personal savings, a loan, share capital, venture capital or crowd funding, and may find trade credit harder to obtain. An established small business can also use retained profit, and its record often makes lenders and suppliers more willing.
@@ -150,6 +185,17 @@ Match the source to the need. A short gap in cash suits an overdraft or trade cr
 Hollin Garden Design needs £20,000 for a van. Option A is a loan: repay £23,200 over 48 months, which is £483.33 a month and 16% interest in total ((23,200 - 20,000) / 20,000 × 100). Option B is crowd funding, with pledges of £14,500 so far against a £20,000 target.
 
 A justified recommendation weighs both sides. The loan is certain and keeps ownership, but costs £3,200 extra and the payment must come from cash flow. Crowd funding has no interest, but pledges are £5,500 short of the target. Unless Hollin can close that gap, the loan is the safer route. The conclusion would change if cash flow could not support the monthly payment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--06-hollin-loan-or-crowd.webp" width="900" height="920" alt="On one scale, the loan repays 23,200 pounds (3,200 interest, 483.33 a month for 48 months) and crowd funding has 14,500 of a 20,000 target, 5,500 short." loading="lazy">
+  <figcaption>The loan is certain but costs 3,200 extra; crowd funding is 5,500 short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--09-shed-finance-match.webp" width="900" height="975" alt="An £18,000 shed is funded by £7,500 retained profit and a £10,500 loan. Short gaps suit an overdraft or trade credit; long-term needs suit a loan, retained profit or owners capital." loading="lazy">
+  <figcaption>Match the source of finance to the need and its time span.</figcaption>
+</figure>
+
 
 ## Common errors
 

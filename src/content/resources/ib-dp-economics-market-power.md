@@ -51,6 +51,12 @@ The guide sets the depth as application and analysis (AO2) for the definitions o
 
 Imperfect competition covers the last three. The more substitutes consumers have, the more elastic each firm's demand curve and the less market power it has.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--07-four-market-structures.webp" width="900" height="975" alt="A comparison of perfect competition, monopoly, oligopoly and monopolistic competition. Perfect competition has many firms, free entry, the same product and no market power. Monopoly has one firm, high barriers to entry, no close substitute and the highest market power. Oligopoly has a few large firms, high barriers, often differentiated products and high but interdependent power. Monopolistic competition has many firms, free entry, differentiated products and some, limited market power." loading="lazy">
+  <figcaption>Firms, entry, product and market power compared for four structures.</figcaption>
+</figure>
+
+
 ## Profit maximisation (HL calculations)
 
 Definitions:
@@ -78,6 +84,12 @@ Working: MR is the change in TR, for example MR at Q = 4 is 160 - 135 = 25. MC i
 
 On a diagram, abnormal profit is the rectangle between AR and AC, from the axis to the profit-maximising quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--01-profit-maximisation-quillon.webp" width="900" height="940" alt="HL. Quillon Ltd faces demand P = 60 − 5Q. The graph of price and cost against output shows AR falling from 60, MR falling faster, MC U-shaped with values 20, 12, 10, 12, 18, 24 and AC with values 50, 31, 24, 21, 20.4, 21 for 1 to 6 units. MR exceeds MC at 4 units (25 against 12) but is below it at 5 (15 against 18), so the firm produces 4 units at price 40 read from AR. Abnormal profit is the shaded rectangle from AC 21 to price 40 over 4 units, equal to 76, which also equals TR 160 minus TC 84. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Quillon Ltd: MC = MR at 4 units gives price 40 and abnormal profit 76.</figcaption>
+</figure>
+
+
 ## Perfect competition: no market power
 
 A perfectly competitive firm is a price taker, so its demand curve is horizontal at the market price: **P = D = AR = MR**. Each extra unit sells at the same price, so MR equals the price.
@@ -101,6 +113,17 @@ A perfectly competitive firm is a price taker, so its demand curve is horizontal
 At price 40, entry follows and price falls. At price 16, exit follows and price rises. The long-run price is 24, at the lowest point of AC.
 
 **Allocative efficiency** means resources go where they are most valued: the price (what buyers will pay for the final unit) equals the marginal cost of making it, **P = MC**. In terms of the demand and supply diagram, MB = MC and social (community) surplus is at its maximum. Perfect competition meets this condition in the long-run example above (P = MC = 24).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--04-pc-price-profit-loss.webp" width="900" height="1030" alt="A perfectly competitive firm with total cost 100 plus 4Q plus Q squared, so marginal cost 4 plus 2Q. At price 40 it produces 18 units and earns abnormal profit of 224, shown as the shaded rectangle between price and average cost. At price 24 it produces 10 units where average cost is at its lowest, earning normal profit. At price 16 it produces 6 units and makes a loss of 64, shown as the shaded rectangle between average cost and price. In the long run entry and exit move the price to 24." loading="lazy">
+  <figcaption>Price 40 gives profit 224, price 24 normal profit and price 16 a loss of 64.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
 
 ## Monopoly
 
@@ -126,6 +149,17 @@ Suppose the same industry were perfectly competitive, with the same MC curve act
 
 The monopolist restricts output and charges more. Output 14 is allocatively inefficient, because units between 14 and 21 are valued by consumers above their marginal cost but are not produced. The **welfare loss** is the triangle between the demand and MC curves from Q = 14 to Q = 21: ½ × (21 - 14) × (68 - 40) = ½ × 7 × 28 = 98. This is **market failure** from market power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--05-monopoly-welfare-loss.webp" width="900" height="950" alt="Demand (average revenue) is P = 96 − 2Q, marginal revenue 96 − 4Q and marginal cost 12 + 2Q. The monopolist sets MC = MR at 14 units, then reads price 68 from the demand curve, above marginal cost of 40. Under perfect competition price equals marginal cost at 21 units and price 54. The welfare loss is the triangle between demand and marginal cost from 14 to 21 units: half times 7 times 28 equals 98." loading="lazy">
+  <figcaption>The monopolist produces 14 at price 68; competition gives 21 at 54; the triangle between is 98.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
+
 ### Natural monopoly
 
 A natural monopoly arises where economies of scale are so large that average cost keeps falling across the whole market demand, so one firm can supply at lower cost than two. The AC curve is still falling where it meets demand.
@@ -137,6 +171,17 @@ A natural monopoly arises where economies of scale are so large that average cos
 - P = AC: 40 - Q = 180/Q + 4 gives Q² - 36Q + 180 = 0, so Q = 30 (or 6). P = 10 = AC, normal profit, and more output than the unregulated case.
 
 A regulator may therefore cap the price at AC rather than MC.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--02-natural-monopoly.webp" width="900" height="1030" alt="HL. Made-up water network with demand P = 40 − Q, constant marginal cost 4 and fixed cost 180, so AC = 180/Q + 4, falling across the whole demand curve. Unregulated, MR = MC gives 18 units at price 22 with profit 144. Pricing at MC gives 36 units at price 4 but average cost is 9, a loss of 180 (shaded). Pricing at AC gives 30 units at price 10 with normal profit, more output than the unregulated case." loading="lazy">
+  <figcaption>A natural monopoly: unregulated, price = MC (loss) or price = AC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
+  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
 
 ## Oligopoly
 
@@ -157,6 +202,22 @@ If Borin charges High, Aurel gains by choosing Low (55 against 40). If Borin cha
 
 **Price and non-price competition.** Price competition means cutting price. Non-price competition uses advertising, branding, quality, service and loyalty schemes, and avoids starting a price war.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--03-oligopoly-payoff-matrix.webp" width="900" height="940" alt="HL. Payoff matrix for two made-up firms, Aurel and Borin, each choosing a High or Low price; payoffs are profits (Aurel, Borin). High-High gives 40, 40; Aurel High and Borin Low gives 15, 55; Aurel Low and Borin High gives 55, 15; Low-Low gives 25, 25. Whatever the rival does, Low is each firm’s better reply (55 against 40, 25 against 15), so both choose Low and earn 25 each although 40 each was possible. Colluding gives joint profit 80 against 50, and the firm that cheats on a deal gets 55." loading="lazy">
+  <figcaption>Both firms choose Low and earn 25 each though 40 each was possible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-power--06-concentration-ratio-cr4.webp" width="900" height="800" alt="One bar of 100 per cent of the market split into seven firms with shares 30, 25, 15, 10, 8, 7 and 5. The four largest add to 80 per cent, so CR4 equals 80 per cent. The other three firms share the remaining 20. A high ratio signals domination by a few firms but says nothing about whether they collude." loading="lazy">
+  <figcaption>The four largest of seven firms hold 80 per cent, so CR4 = 80%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## Monopolistic competition
 
 Many firms sell differentiated products and entry is free. Because substitutes are close, each firm's demand is more elastic than a monopolist's.
@@ -168,6 +229,12 @@ Many firms sell differentiated products and entry is free. Because substitutes a
 - Losses do the opposite: exit shifts the remaining firms' demand right.
 
 In the long run P (20) exceeds MC (10), so there is allocative inefficiency, but less than monopoly, and consumers gain **product variety**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--06-monopolistic-competition.webp" width="900" height="950" alt="Long-run diagram: the firm produces where MC = MR (output 40). The AR curve is tangent to the AC curve at price 7 and lies below AC elsewhere, so only normal profit is earned." loading="lazy">
+  <figcaption>With many firms and easy entry, monopolistic competitors earn only normal profit in the long run.</figcaption>
+</figure>
+
 
 ## Large firms: advantages and risks
 

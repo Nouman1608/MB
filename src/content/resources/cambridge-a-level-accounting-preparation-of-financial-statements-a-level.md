@@ -44,9 +44,36 @@ This guide follows the Cambridge International AS & A Level Accounting 9706 syll
 
 **Inherent goodwill** is the value of reputation, location and customer loyalty that a business builds itself. It is not recorded in the books. **Purchased goodwill** is the price paid for a business above the fair value of its identifiable net assets, so it is recorded as an intangible asset. When partners change, they agree a value for inherent goodwill so the outgoing share is fair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--06-goodwill-types.webp" width="900" height="920" alt="Inherent goodwill (reputation, location, loyalty) is built by the business and is not in the books. Purchased goodwill is the price paid above the fair value of net assets and is recorded as an intangible asset; the 150,000 and 120,000 numbers are illustrative." loading="lazy">
+  <figcaption>Only purchased goodwill is recorded in the books.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
+  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
+  <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
+  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
+</figure>
+
+
 ### Capital and current accounts
 
 Many agreements keep **capital accounts** fixed, with a **current account** for salaries, interest, profit share and drawings. A debit balance on a current account means the partner has drawn more than earned. Changes in a partnership are recorded in the capital accounts below. If the agreement keeps capital fixed, post the same entries to current accounts instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
 
 ### Admitting a partner: goodwill and revaluation
 
@@ -72,6 +99,17 @@ The appropriation account starts with profit for the year from the statement of 
 
 If the ratio changes part-way through the year, split the year. Where profit accrues evenly, apportion it by time and apply each period's salaries, interest and ratio separately. Example: profit 96,000, with the change on 1 October and a 31 December year end. The old terms apply to 72,000 (9/12) and the new terms to 24,000 (3/12).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--04-part-year-split.webp" width="900" height="830" alt="Twelve equal monthly bars of 8,000 show profit of 96,000 for the year to 31 December. January to September (72,000) use the old terms and October to December (24,000) use the new terms, each shared with its own salaries, interest and ratio." loading="lazy">
+  <figcaption>Split the year by time and apply each period's own terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+
 ### Dissolution: realisation account
 
 On dissolution, transfer every asset other than bank, at book value, to the **realisation account**. Credit it with sale proceeds and with liabilities transferred. Debit it with amounts paid to settle liabilities and with dissolution costs. The balance is a profit or loss shared in the profit-sharing ratio. Finally, pay out the remaining bank balance to settle partners' capital.
@@ -82,6 +120,12 @@ Larkhall Joinery: Hasan and Greta share 3:2 with capitals of 84,000 and 55,000. 
 - Bank: 4,000 + 147,000 − 14,200 − 1,800 = 135,000, paid as Hasan 81,600 and Greta 53,400.
 
 The same **revaluation account** is used whenever asset values are restated: the gain or loss is shared in the old ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--03-realisation-account.webp" width="900" height="1060" alt="The realisation account of Larkhall Joinery has debits of 150,000 assets, 14,200 payables settled and 1,800 costs, and credits of 147,000 proceeds and 15,000 payables transferred, leaving a 4,000 loss. The loss is shared 3:2 (2,400 and 1,600) and the 135,000 bank balance is paid out as 81,600 and 53,400." loading="lazy">
+  <figcaption>On dissolution, the realisation account finds the profit or loss, and the bank pays out what is left of each partner's capital.</figcaption>
+</figure>
+
 
 ## 3.1.3 Clubs and societies
 
@@ -109,6 +153,22 @@ Northcote Archery Club starts the year with clubhouse 40,000, equipment 6,000, b
 Closing accumulated fund: 48,300 + 8,080 = 56,380. This agrees with net assets: assets 59,000 less liabilities 2,620. Adjustments follow 1.5.1: accrue heating, depreciate equipment, value inventory. With **incomplete records**, build the opening statement first, then find missing figures with ledger accounts.
 
 **Sources of finance and fundraising:** subscriptions and donations cost nothing but are unpredictable. Grants may be restricted. A bank loan or mortgage brings structure but interest. Events and raffles raise cash but need volunteers. Evaluate each against the purpose, cost and risk; a recommendation needs reasons on both sides, then a justified choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--08-northcote-ie.webp" width="900" height="1030" alt="A horizontal waterfall builds income of 15,200 from subscriptions, life membership, donation, bar and raffle, deducts expenses of 7,120 to a surplus of 8,080, and adds it to the 48,300 accumulated fund to reach 56,380." loading="lazy">
+  <figcaption>Income less expenses gives the surplus that grows the accumulated fund.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--01-cash-vs-surplus.webp" width="900" height="826" alt="A waterfall turns the 9,500 rise in cash into the 5,500 surplus: take off the 5,000 capital donation, add back 7,500 floodlights spending, take off 1,160 of life fees not yet income and 5,520 depreciation, add 180 for owing and prepaid timing." loading="lazy">
+  <figcaption>A cash rise differs from the surplus because of capital items, life fees, depreciation and timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
 
 ## 3.1.4 Manufacturing businesses
 
@@ -143,6 +203,12 @@ Cranleigh Foods Ltd: profit before tax 84,000 after interest of 6,000, depreciat
 With opening cash of 10,000, closing cash is 35,000. IAS 7 lets interest and dividends paid sit in operating or financing, so state your choice. Non-cash items such as a revaluation never appear.
 
 The 40,000 share issue was 25,000 shares of 1 each at 1.60. The statement of changes in equity then adds 25,000 to share capital and 15,000 to share premium. It adds the revaluation gain to the revaluation reserve and profit after tax to retained earnings, and deducts dividends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--07-nca-schedule.webp" width="900" height="910" alt="A schedule rolls cost from 200,000 to 265,000 (additions 70,000, disposals 15,000, revaluation 10,000) and depreciation from 60,000 to 76,000 (charge 22,000, disposals 6,000), giving a carrying amount of 189,000. Figures are illustrative but tied to the Cranleigh purchase, depreciation, proceeds and profit on disposal." loading="lazy">
+  <figcaption>A schedule of non-current assets rolls cost and depreciation forward to carrying amount.</figcaption>
+</figure>
+
 
 ## Common errors
 

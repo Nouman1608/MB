@@ -58,6 +58,17 @@ These are the forms given in the syllabus's "Formulas and ratios" section. Reven
 
 **Worked reminder.** Voxley Candles has fixed costs of £12,000 a month and variable costs of £3 per candle. At 4,000 candles: total variable cost = 3 × 4,000 = £12,000, total cost = 12,000 + 12,000 = £24,000, average cost = 24,000 ÷ 4,000 = **£6**. Average cost falls as output rises because fixed costs are spread over more units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--04-bs-average-cost-share.webp" width="900" height="850" alt="Stacked bars of cost per mug: variable 4.50 plus fixed share 3.00 at 6,000 mugs (average 7.50) and 1.80 at 10,000 mugs (average 6.30). A line at the 7 pound price shows a 3,000 loss at 6,000 mugs and a 7,000 profit at 10,000." loading="lazy">
+  <figcaption>Average cost falls because the same fixed costs are shared between more mugs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+
 ## Cost data and simple decisions
 
 | Decision | What the cost data tells you | What else to check |
@@ -66,6 +77,17 @@ These are the forms given in the syllabus's "Formulas and ratios" section. Reven
 | Which product to produce | Compare contribution per unit | Demand, production time, brand image |
 | Continue or stop a product | Does it still contribute towards fixed costs that will continue anyway? | Whether the resources could earn more elsewhere |
 | Choose a supplier | Compare total cost for the quantity needed, including fees | Quality, reliability, payment terms |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--06-bs-contribution.webp" width="900" height="880" alt="Bars split price into variable cost and contribution: mug 7 = 4.50 + 2.50, bowl 12 = 8 + 4, vase 20 = 17 + 3. 1,500 vases contribute 4,500 pounds towards fixed costs." loading="lazy">
+  <figcaption>Contribution per unit shows which product earns most towards fixed costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--03-supplier-x-y.webp" width="900" height="810" alt="Bars compare 8,000 units: X costs 16,800 pounds, Y costs 15,600 plus 400 delivery = 16,000. Y saves 800 pounds, though quality, delivery and payment terms could favour X." loading="lazy">
+  <figcaption>Supplier Y is 800 pounds cheaper for 8,000 units, but cost is not the only factor.</figcaption>
+</figure>
+
 
 ## Economies of scale (average cost falls)
 
@@ -76,6 +98,27 @@ These are the forms given in the syllabus's "Formulas and ratios" section. Reven
 | Financial | Bigger firms borrow at lower interest |
 | Managerial | Can afford specialist managers |
 | Technical | Large, efficient machines and mass production |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--05-bs-holmwick-curve.webp" width="900" height="930" alt="Line graph through the lesson points: 2.40, 1.80, 1.50, 1.40, 1.50 and 1.75 pounds per jar at 50,000 to 500,000 jars. Cost falls to 300,000 jars (economies of scale) then rises (diseconomies)." loading="lazy">
+  <figcaption>Average cost falls to 300,000 jars, then rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--01-five-economies.webp" width="900" height="880" alt="Five rows: purchasing (bulk discounts), marketing (advert spread over more units), financial (lower risk, cheaper loans), managerial (specialist managers), technical (bigger machines fully used). Each lowers average cost." loading="lazy">
+  <figcaption>The five economies of scale and how each lowers average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--02-four-diseconomies.webp" width="900" height="916" alt="Four panels: poor communication, lack of commitment or loyalty, weak coordination and lack of control, each with what goes wrong. All raise average cost." loading="lazy">
+  <figcaption>The four diseconomies of scale, each shown as a picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
 
 ## Diseconomies of scale (average cost rises)
 
@@ -107,6 +150,17 @@ These are the forms given in the syllabus's "Formulas and ratios" section. Reven
 
 The direction rule: a higher price or lower costs move break-even down (left on the chart). A lower price or higher costs move it up (right). Always re-check the margin of safety against expected sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
+
 ## Break-even chart: what to draw and read
 
 - Horizontal axis: output. Vertical axis: money (revenue and costs).
@@ -128,6 +182,17 @@ To complete a missing line, plot two points (one at zero output) and join them w
 ## Limitations of break-even analysis
 
 Assumes all output is sold, price and variable cost per unit stay constant, fixed costs stay fixed at all output levels, and costs and revenue can be forecast accurately. Works best for one product. Ignores competitors and changes in demand. A chart shows where break-even is, but does not say whether the business will reach it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--07-bs-breakeven-moves.webp" width="900" height="970" alt="Break-even in bikes with sales of 260: original 200 (margin of safety 60), price 280 gives 167 (93), fixed costs 36,000 gives 240 (20), variable cost 80 gives 177 (83)." loading="lazy">
+  <figcaption>Price, fixed cost and variable cost each move break-even and the margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--04-break-even-limits.webp" width="900" height="1010" alt="Rowanbank break-even chart with numbered badges on the revenue, total cost and fixed cost lines showing the assumptions behind them, plus the other limitations." loading="lazy">
+  <figcaption>Straight lines on a break-even chart hide assumptions about price, variable cost and fixed costs.</figcaption>
+</figure>
+
 
 ## Answering in the exam
 

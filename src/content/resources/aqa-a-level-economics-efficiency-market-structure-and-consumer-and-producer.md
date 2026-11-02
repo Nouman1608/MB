@@ -42,6 +42,12 @@ Static efficiency is efficiency at a point in time, with technology and capital 
 
 A firm can score well on one and badly on the other. That tension drives most of the evaluation in this unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--15-static-vs-dynamic.webp" width="900" height="940" alt="Total surplus for monopoly (800), competition (900), monopoly after R&amp;D (1,008) and competition with the same improved technology (1,200), split into CS and PS." loading="lazy">
+  <figcaption>A static loss can be outweighed by dynamic gains, but consumers can still end up worse off.</figcaption>
+</figure>
+
+
 ## Productive efficiency
 
 Productive efficiency means producing at the output where average total cost (ATC) is at its minimum. No more output can be made from the same resources at a lower cost per unit. Where marginal cost (MC) crosses ATC, ATC is at its lowest point, so MC = ATC at the productively efficient output.
@@ -60,11 +66,33 @@ ATC falls to 34 at Q = 30, where MC = ATC = 34, then rises. The firm is producti
 
 A firm can be productively inefficient by producing too little (spreading fixed costs thinly) or by producing beyond the minimum point. A large firm can also have lower ATC than many small ones. In a natural monopoly, one firm producing 40 units might have ATC of 20, while four firms of 10 units each might have ATC of 35 (illustrative). Do not assume monopoly always means higher costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--11-productive-efficiency.webp" width="900" height="920" alt="ATC and MC for the lesson illustrative firm. ATC falls to a minimum of 34 at Q 30 where MC crosses it, and is 36.50 at Q 20." loading="lazy">
+  <figcaption>A firm is productively efficient where MC = ATC at minimum ATC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--03-natural-monopoly-costs.webp" width="900" height="1020" alt="One firm making 40 units at ATC 20 costs 800; four firms making 10 units each at ATC 35 cost 1,400." loading="lazy">
+  <figcaption>One large firm can have lower total cost than four small ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ## Allocative efficiency
 
 Allocative efficiency means price equals marginal cost (P = MC). Price measures the marginal benefit consumers get from the last unit, and MC measures the marginal cost of the resources used. When P = MC, no reallocation could make someone better off without making someone worse off. If P > MC, society values another unit more than it costs, so output is too low. If P < MC, too many resources are used.
 
 **Chain of reasoning.** A firm with market power restricts output, so price rises above MC, so units worth more than they cost are not made, so welfare is lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
+  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
 
 ## Dynamic efficiency
 
@@ -75,6 +103,12 @@ Dynamic efficiency is influenced by, for example:
 - **Technological change.** Better methods shift the cost curves downwards over time.
 
 Over time, a dynamically efficient firm sees its ATC curve shift down and its products improve. Finance matters. R&D is costly and uncertain, so supernormal profit can pay for it. But a firm facing little rivalry may feel no pressure to innovate, whereas a firm under threat from rivals may have strong incentives to do so.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--02-dynamic-efficiency-atc-shift.webp" width="900" height="1080" alt="Four drivers (R&amp;D, human capital, non-human capital, technological change) lead to a lower ATC curve. The current curve has minimum 34 at Q = 30; after R&amp;D (MC = 4 + 0.5Q) the minimum is about 25.2." loading="lazy">
+  <figcaption>Investment and innovation shift the ATC curve down over time.</figcaption>
+</figure>
+
 
 ## Comparing market structures: conduct and performance
 
@@ -90,6 +124,17 @@ The specification asks you to understand how conduct and performance indicators 
 
 **Evaluating an indicator.** A high profit margin may come from market power or from low costs. Falling prices may come from rivalry or from technology. Always ask what else could explain the number, and whether you are comparing like with like.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--04-conduct-performance-indicators.webp" width="900" height="960" alt="Conduct leads to performance. Perfect competition meets P = MC and minimum ATC but has little profit for R&amp;D; monopoly usually has P above MC, often misses minimum ATC, and may innovate if barriers hold." loading="lazy">
+  <figcaption>Indicators compare static and dynamic performance across structures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
+
 ## Consumer and producer surplus
 
 Consumer surplus (CS) is what buyers gain by paying less than the most they would have offered. On a diagram it is the triangle between the demand curve and the price line, up to the quantity traded. Producer surplus (PS) is the gap between the price received and the minimum price producers would accept (the supply or MC curve). It is the area between the price line and the supply curve.
@@ -104,6 +149,12 @@ Consumer surplus (CS) is what buyers gain by paying less than the most they woul
 | Total surplus | 450 + 450 | 900 |
 
 At the equilibrium, P = MC, so the market is allocatively efficient and total surplus is at its maximum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--01-competitive-cs-ps.webp" width="900" height="1010" alt="Price against quantity. Demand P = 64 - Q and supply P = 4 + Q cross at Q = 30, P = 34. Consumer surplus (triangle under demand above price) is 450 and producer surplus (above supply below price) is 450, total 900." loading="lazy">
+  <figcaption>Competitive CS and PS are 450 each, total surplus 900.</figcaption>
+</figure>
+
 
 ## Deadweight loss of monopoly
 
@@ -133,6 +184,12 @@ Price
 
 The shaded deadweight loss triangle has corners at the monopoly point (20, 44), the point on MC at Q = 20 (24) and the competitive point (30, 34).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--12-monopoly-deadweight-loss.webp" width="900" height="920" alt="Demand P = 64 - Q, MC = 4 + Q, MR = 64 - 2Q. Monopoly output 20 at price 44 gives CS 200, PS 600 and deadweight loss 100, against competitive output 30 at price 34." loading="lazy">
+  <figcaption>The deadweight loss is the triangle between D and MC for the units not produced.</figcaption>
+</figure>
+
+
 ## Price discrimination and surplus
 
 Price discrimination is selling the same good at different prices where differences in cost do not explain the gap. Its effect on surplus depends on the type. (How and when it is possible belongs to the unit on monopoly power.)
@@ -160,6 +217,17 @@ With one price for everyone, the combined demand (for prices up to 36) is Q = 92
 Competitive total surplus here is 1,256 (968 from A plus 288 from B), so the deadweight loss is 289 under a single price and 314 under discrimination. Total output is unchanged, but sales are shifted between the groups, so it is slightly worse. Profit rises by 50, CS falls by 75.
 
 Discrimination can raise welfare when it increases output, for example by making it worthwhile to serve a low-income group at all, or when extra profit funds investment. It can lower welfare when output stays the same or falls. The answer depends on the numbers, so say so.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--13-surplus-split.webp" width="900" height="900" alt="Total surplus 900 split three ways: competition CS 450 and PS 450; monopoly CS 200, PS 600 and DWL 100; perfect price discrimination CS 0, PS 900 and no DWL." loading="lazy">
+  <figcaption>Perfect discrimination is allocatively efficient but gives all the surplus to the firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--14-third-degree-pd.webp" width="900" height="1224" alt="Two groups with MC 12: group A buys 22 at 34 and group B buys 12 at 24. Compared with one price of 29, profit rises from 578 to 628, consumer surplus falls from 389 to 314 and deadweight loss rises from 289 to 314." loading="lazy">
+  <figcaption>Total output is unchanged at 34, but sales shift between groups, so profit rises 50 and CS falls 75.</figcaption>
+</figure>
+
 
 ## Evaluating static against dynamic efficiency
 

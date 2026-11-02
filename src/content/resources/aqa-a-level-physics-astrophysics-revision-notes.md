@@ -62,6 +62,12 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 - **IR**: high dry sites or space, cooled detectors. **UV and X-ray**: space only (atmospheric absorption); X-ray mirrors at grazing incidence.
 - **Eye vs CCD**: CCD has much higher quantum efficiency, resolution set by pixel spacing, long exposures and digital storage; eye is real-time and needs no equipment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--08-aphy-astro-refracting-telescope.webp" width="900" height="830" alt="Parallel rays at angle alpha reach the objective and form a real inverted image in its focal plane. The eyepiece focus coincides with it, so rays leave parallel at angle beta. M = beta/alpha = fo/fe, with lens separation fo + fe. Worked example: 1.50 m and 30 mm give M = 50 and separation 1.53 m." loading="lazy">
+  <figcaption>In normal adjustment the lenses are fo + fe apart and M = fo/fe = beta/alpha.</figcaption>
+</figure>
+
+
 ## 3.9.2 Classification of stars
 
 - **Apparent magnitude m**: Hipparcos scale; dimmest visible stars m = 6; lower number = brighter; brightness is subjective.
@@ -88,6 +94,22 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 2. Get T from Wien if you are given λₘₐₓ.
 3. Substitute ratios; check the hotter or bigger star comes out more powerful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
+  <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
+</figure>
+
+
 ## 3.9.3 Cosmology
 
 - **Doppler**: recession → red shift, z positive. Use z = Δλ/λ = v/c for the speed (v ≪ c). Applies to optical and radio frequencies.
@@ -102,6 +124,12 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 1. Multiply H in km s⁻¹ Mpc⁻¹ by 10³.
 2. Divide by 3.08 × 10²² to get s⁻¹.
 3. Take 1/H in seconds; divide by 3.15 × 10⁷ for years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--07-aphy-astro-hubble.webp" width="900" height="1140" alt="Speed against distance is a straight line through the origin with gradient H0 = 70 km/s/Mpc, including the worked example 85.5 Mpc at 5990 km/s. Farther galaxies recede proportionally faster. H0 = 2.3e-18 per second, so age is about 1/H0 = 4.4e17 s or 1.4e10 years." loading="lazy">
+  <figcaption>Recession speed is proportional to distance (v = H0 d), and 1/H0 estimates the age of the universe.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -58,6 +58,22 @@ These notes condense the AQA A-level Economics specification (version 1.3, 29 Ju
 
 **Evaluation points:** spare capacity (output or prices?), size of the multiplier, time lags, confidence, how the policy is financed, whether the spending is on imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--06-spending-vs-tax-cut.webp" width="900" height="960" alt="With MPW 0.50 the multiplier is 2. Spending of 6bn raises income by 12bn; a tax cut of 6bn leaks 1.8bn so 4.2bn enters and income rises 8.4bn." loading="lazy">
+  <figcaption>Equal-sized spending and tax changes do not have equal effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Fiscal policy and aggregate supply
 
 - Capital spending on infrastructure lowers costs.
@@ -66,9 +82,21 @@ These notes condense the AQA A-level Economics specification (version 1.3, 29 Ju
 - Successful policy shifts LRAS to the right, raising potential output.
 - Evaluate with lags, uncertainty over incentive responses, and project quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Pattern of economic activity
 
 Taxes and spending change what is produced, where and by whom. Examples: regional transport spending, a fuel duty shifting demand to rail, subsidies for one industry, a larger public sector crowding out private investment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--04-crowding-out-chain.webp" width="900" height="950" alt="Government borrows more, interest rates rise and private investment falls. Illustrative bars show the public share of activity rising and the private share falling." loading="lazy">
+  <figcaption>Heavy borrowing can shift activity from private to public use.</figcaption>
+</figure>
+
 
 ## Public expenditure
 
@@ -81,6 +109,12 @@ Taxes and spending change what is produced, where and by whom. Examples: regiona
 **Reasons:** public goods, merit goods, redistribution, externalities, stabilisation, investment in growth.
 
 **Level versus share.** Country B spends 560bn and GDP is 1,400bn, so public spending is 560 / 1,400 = 40% of GDP. If nominal spending grows 6% and prices rise 2.5%, real growth is 1.06 / 1.025 − 1 = 3.4%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--09-public-spending-types.webp" width="900" height="970" alt="Country A spends 400bn: transfers 140 (35 percent), current 220 (55 percent) and capital 40 (10 percent), with each category shown as a bar." loading="lazy">
+  <figcaption>Spending split into transfer, current and capital types.</figcaption>
+</figure>
+
 
 ## Taxation
 
@@ -123,6 +157,22 @@ Taxes and spending change what is produced, where and by whom. Examples: regiona
 | Excise duties | Correct externalities | Regressive, evasion |
 | Council tax | Simple local tax | Not linked to current income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--07-average-tax-rate.webp" width="900" height="900" alt="Average rate against income. The income tax schedule rises from 0 to 28.3 percent so it is progressive; a flat 15 percent is proportional; an indirect tax falls from 9.5 to 5.5 percent of income so it is regressive." loading="lazy">
+  <figcaption>Classify a tax by how its average rate changes with income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--05-revenue-direct-indirect.webp" width="900" height="1050" alt="A split bar shows revenue of 380bn: direct 265 (69.7%) and indirect 115 (30.3%). Bars list income tax 130, social contributions 80, corporation tax 40, property tax 15, sales tax 90, excise duties 25." loading="lazy">
+  <figcaption>Direct taxes are 69.7% of Country A revenue and indirect 30.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## Assessing level and distribution
 
 **Level:** a bigger total of spending or tax shifts AD by more when there is spare capacity and a large multiplier. **Distribution:** poorer households spend a larger share of extra income, so transfers to them lift AD more than the same sum to richer households. Shifting from direct to indirect taxes tends to make the system less progressive, because low incomes spend more of their income.
@@ -130,6 +180,12 @@ Taxes and spending change what is produced, where and by whom. Examples: regiona
 **Reminder (Country B).** Income tax takes 7,000 from a 40,000 earner and 11,500 from a 50,000 earner. After tax they keep 33,000 and 38,500, a ratio of 1.17 to 1 against 1.25 to 1 before tax, so the tax narrows the gap slightly.
 
 Chain: change in spending or tax → effect on AD or AS → effect on output, jobs, prices and equality → judgement that weighs spare capacity, lags, size of the effect and who gains or loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--08-tax-narrows-gap.webp" width="900" height="660" alt="Earners on 24,000 and 100,000 keep 21,360 and 71,700. The income ratio falls from 4.17 to 1 before tax to 3.36 to 1 after tax." loading="lazy">
+  <figcaption>Progressive income tax narrows the gap between gross incomes.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

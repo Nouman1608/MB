@@ -63,6 +63,17 @@ These are condensed notes for sections 4.2 (**Technology and production of goods
 | Business | Higher output; lower unit cost; consistent quality; less waste; faster response | Purchase and installation cost; training; repairs; dependence on the system |
 | Employees | Fewer dull, heavy or dangerous tasks; new skills; better-paid technical jobs | Job losses; retraining needed; repetitive, machine-paced work |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--02-technology-gains-and-losses.webp" width="900" height="950" alt="Grid of advantages and disadvantages for businesses and for employees, with a note that one change can appear in both columns." loading="lazy">
+  <figcaption>Advantages and disadvantages of technology, kept separate for businesses and employees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--05-sustainability-gains-costs.webp" width="900" height="750" alt="Advantages and disadvantages of sustainability for a business, with a timeline arrow from cost now to savings later." loading="lazy">
+  <figcaption>Sustainability often costs first and saves later.</figcaption>
+</figure>
+
+
 ### Method: answering "evaluate technology" in steps
 
 1. State the technology the business is using, in the stem's own terms.
@@ -74,6 +85,17 @@ These are condensed notes for sections 4.2 (**Technology and production of goods
 ### Worked reminder: labour productivity
 
 A bakery makes 2,400 loaves a week with 16 workers. Labour productivity = 2,400 ÷ 16 = **150 loaves per worker**. A new oven lifts output to 2,880 with the same 16 workers: 2,880 ÷ 16 = 180, a rise of 30 loaves, or **20%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--08-cam-productivity.webp" width="900" height="800" alt="Chairs per worker rise from 20 to 27.5 a week (+37.5%) and wage cost per chair falls from £24.00 to £17.45 (about −27%)." loading="lazy">
+  <figcaption>Higher productivity lowers the labour cost of each unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--09-contactless-throughput.webp" width="900" height="770" alt="In two minutes one till serves 3 customers at 40 seconds each (90 an hour) or 8 at 15 seconds each (240 an hour): 150 more an hour, about 167%." loading="lazy">
+  <figcaption>Shorter transactions let the same member of staff serve more people.</figcaption>
+</figure>
+
 
 ## 4.3.1 Sustainable production
 
@@ -105,6 +127,12 @@ Solar panels cost £24,000 and save £4,800 a year on electricity. Years to reco
 
 A workshop pays £3,000 a week in wages for 600 units. After automation it makes 750 units with the same wage bill. Wage cost per unit falls from 3,000 ÷ 600 = £5.00 to 3,000 ÷ 750 = **£4.00**, a fall of 20%. Say what this means: each unit is cheaper to make, so the business can cut its price or earn more profit per unit. Then ask what the machine cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--01-mechanisation-vs-automation.webp" width="900" height="920" alt="Two panels. Mechanisation: a person feeds timber into a powered saw, so human input is high. Automation: a computer wired to a saw and a camera check along a conveyor, with the person only supervising, so human input is low." loading="lazy">
+  <figcaption>Mechanisation needs a person to operate the machine; automation runs once set up.</figcaption>
+</figure>
+
+
 ### Manufacturing and services compared
 
 | | Manufacturing example | Service example |
@@ -127,6 +155,27 @@ A short model judgement: "Fitting solar panels is likely to be worthwhile for th
 ### Linking the two sections
 
 Technology and sustainability often meet. A precise cutting machine can reduce waste. A 3D printer uses only the material needed for the item. On the other side, new machines use energy and old ones become waste, so a business should consider both. If a question links the two, show one effect on cost and one on the environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--10-solar-payback.webp" width="900" height="780" alt="Cumulative savings of £6,000 a year reach the £30,000 panel cost in year 5." loading="lazy">
+  <figcaption>Payback time = cost ÷ yearly saving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--03-six-ways-sustainable.webp" width="900" height="1024" alt="Six icon tiles name the six syllabus ways to be more sustainable. Two panels contrast reusing (the same bottle used again) with recycling (a can broken down and made into something new)." loading="lazy">
+  <figcaption>Six ways to be more sustainable, and how reusing differs from recycling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--04-corrimar-waste-wrapper.webp" width="900" height="1046" alt="Bars to scale for 40 tonnes: waste falls from 4.8 t (12%) to 2.8 t (7%), saving 2.0 t worth 1,800 pounds a year. The wrapper change adds 1,000 pounds a year. Net of these two changes is 800 pounds a year." loading="lazy">
+  <figcaption>Waste saving of 1,800 against a wrapper cost of 1,000 a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

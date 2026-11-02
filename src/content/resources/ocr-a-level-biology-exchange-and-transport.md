@@ -35,6 +35,12 @@ these mean diffusion across the body surface alone becomes too slow to meet the 
 single principle underlies almost every structure covered in this module, from gas exchange surfaces to
 the circulatory system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
+  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
+</figure>
+
+
 ## Syllabus coverage
 
 **OCR A LEVEL BIOLOGY A (H420) -- MODULE 3: EXCHANGE AND TRANSPORT**
@@ -56,6 +62,17 @@ explained by the demands of exchange or transport at scale -- rather than memori
 an unconnected list of facts. Practising "explain why" questions (why is a fish's gill structured this
 way, why does haemoglobin's affinity for oxygen change under certain conditions) develops this skill
 directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--02-mucus-escalator.webp" width="900" height="1060" alt="Side view of the airway lining. Dust and microbes fall into a layer of mucus resting on the tips of cilia. Goblet cells and mucous glands make the mucus. Ciliated cells beat their cilia and move the mucus and trapped particles up towards the throat." loading="lazy">
+  <figcaption>Mucus traps particles and cilia move the mucus towards the throat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--09-cholera-toxin.webp" width="900" height="1010" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
+  <figcaption>Cholera toxin keeps chloride channels open, so ions then water flood into the gut.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -81,6 +98,12 @@ sugars through phloem in plants are both examples. Insects, which lack a closed 
 carries oxygen, instead rely partly on mass transport of air through a tracheal system, aided by abdominal
 muscle movements that actively ventilate the tracheae in larger or more active insects, supplementing
 simple diffusion of gases along the tracheal tubes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--06-insect-tracheae.webp" width="900" height="1050" alt="Cross-section of an insect. Air enters through spiracles, passes along tracheae and ends in fine tracheoles beside muscle cells, delivering oxygen directly. The abdomen squeezing helps move air in larger or active insects." loading="lazy">
+  <figcaption>Insects deliver air straight to the tissues through tracheae and tracheoles.</figcaption>
+</figure>
+
 
 ## Worked example: linking structure to function in the alveolus
 

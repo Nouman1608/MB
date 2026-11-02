@@ -35,6 +35,22 @@ When you finish, attempt the [ideal gases question set](/resources/ib-dp-chemist
 
 Pressure is caused by particle collisions with the container walls. Raising the Kelvin temperature raises the average kinetic energy of the particles (Structure 1.1), so collisions with the walls become harder and more frequent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--01-ideal-model.webp" width="900" height="1000" alt="A sealed box of tiny particles moving in straight lines, with one hitting a wall to show pressure, and four small pictures of the assumptions." loading="lazy">
+  <figcaption>The four assumptions of the ideal gas model, and pressure as particle-wall collisions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--07-ideal-gas-equation.webp" width="900" height="1060" alt="A gas cylinder and a table give the SI units for PV = nRT. Three conversions turn 2.50 MPa, 12.0 dm3 and 20.0 degC into Pa, m3 and K, giving 12.3 mol and 492 g of argon." loading="lazy">
+  <figcaption>Convert to Pa, m3 and K before using PV = nRT.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--08-combined-gas-law.webp" width="900" height="1000" alt="A helium balloon grows from 3.20 m3 on the ground to 7.47 m3 at altitude, drawn to scale. Falling pressure multiplies the volume by 2.89 and falling temperature by 0.81." loading="lazy">
+  <figcaption>The combined gas law predicts the new volume, with T in kelvin.</figcaption>
+</figure>
+
+
 ## Structure 1.5.2 Real gases: when and why the model fails
 
 | Condition | What changes | Assumption that fails |
@@ -47,6 +63,17 @@ Pressure is caused by particle collisions with the container walls. Raising the 
 - No mathematical treatment is required for this understanding. Explain in words.
 
 **Must-know distinction.** Volume effect versus force effect. At high pressure, say the particles' volume is no longer negligible. At low temperature, say the attractive forces are no longer negligible. Using the wrong one is the commonest slip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--02-real-gas-deviation.webp" width="900" height="1020" alt="Top: a low-pressure box with few particles beside a crowded high-pressure box where particle volume matters. Bottom: fast particles with no attraction beside slow particles joined by dashed attractions. Real gases deviate most when cold and compressed." loading="lazy">
+  <figcaption>Real gases deviate at high pressure (particle volume) and low temperature (attractions).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--03-ranking-deviation.webp" width="900" height="1050" alt="Helium, methane and ammonia are ranked from most to least ideal at 400 K and 3000 kPa. Bar length shows the strength of attractions: weak London forces, stronger London forces, then hydrogen bonds. Bar lengths are qualitative." loading="lazy">
+  <figcaption>Stronger intermolecular forces mean a bigger deviation from ideal behaviour.</figcaption>
+</figure>
+
 
 ## Structure 1.5.3 Molar volume and gas relationships
 
@@ -77,6 +104,22 @@ The guide does not assess the names of these laws. Learn the relationships and g
 5. Use two well-separated points on the line for a gradient,
    never two adjacent data points.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--04-molar-volume.webp" width="900" height="850" alt="Three cubes drawn to scale show 1 mol at STP (22.7 dm3), 1 mol at 308.15 K and 95.0 kPa (27.0 dm3) and 0.150 mol at those conditions (4.04 dm3). Vm equals RT over P and is the same for any ideal gas at the same T and P." loading="lazy">
+  <figcaption>Molar volume is 22.7 dm3 at STP and changes with temperature and pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--05-pressure-volume-graphs.webp" width="900" height="1110" alt="The same data for 0.100 mol at 300 K is plotted twice. P against V is a falling curve that never touches the axes; P against 1/V is a straight line through the origin. Three coloured points mark the same three states on both graphs." loading="lazy">
+  <figcaption>P is inversely proportional to V at constant temperature, giving a straight line against 1/V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--06-absolute-zero.webp" width="900" height="980" alt="Volume of trapped air against temperature in degrees Celsius for five data points lies on a straight line. Extending the line backwards (dashed) meets the axis at about minus 272 degrees Celsius, close to absolute zero." loading="lazy">
+  <figcaption>Extrapolating volume against temperature gives about -272 degC, close to absolute zero.</figcaption>
+</figure>
+
 
 ## Structure 1.5.4 Equations and units
 

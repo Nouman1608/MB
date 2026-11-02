@@ -62,6 +62,22 @@ Volume = 150 × 80 × 60 = 720 000 cm³.
 
 Going to a smaller unit multiplies. Going to a larger unit divides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--01-unit-conversion.webp" width="900" height="1060" alt="A square metre is drawn as a 10 by 10 grid of 10 cm squares, so 1 m2 is 100 times 100 = 10 000 cm2. A 1 m cube has 10 by 10 grids on its faces, and one small cube is 1 litre (1000 cm3). So 1 m3 = 1 000 000 cm3 = 1000 litres." loading="lazy">
+  <figcaption>Square or cube the conversion factor when converting areas and volumes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
+
 ## 5.2 Area and perimeter
 
 Perimeter is the distance round the outside. Area is the surface enclosed.
@@ -85,6 +101,22 @@ Opposite sides are equal, so perimeter = 2 × (14 + 8) = **44 cm**.
 54 = ½ × (5 + 13) × h
 54 = 9h
 h = **6 cm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--05-area-formulas.webp" width="900" height="1350" alt="A gold triangle slides from one end of a parallelogram to make a rectangle, so A = bh. Two trapeziums make a parallelogram of base a+b, and two triangles make a parallelogram of base b, giving the half formulas." loading="lazy">
+  <figcaption>Each formula comes from rearranging or doubling the shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--06-perpendicular-height.webp" width="900" height="1130" alt="A parallelogram with base 12 cm, slant 7.5 cm and height 6 cm. Area is 12 x 6 = 72 cm squared using the perpendicular height; perimeter adds all four sides to give 39 cm." loading="lazy">
+  <figcaption>Use the perpendicular height for area and every side for perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--02-parallelogram-trapezium.webp" width="900" height="810" alt="A parallelogram 8 cm by 5 cm high has a triangle moved from one end to the other to make an 8 by 5 rectangle, so its area is 40 cm2. A trapezium with parallel sides 4 and 8 and height 5, joined to a turned copy, makes a parallelogram of base 12, so its area is half of 12 times 5 = 30 cm2." loading="lazy">
+  <figcaption>Move a triangle to turn a parallelogram into a rectangle, and join two trapeziums to make a parallelogram.</figcaption>
+</figure>
+
 
 
 ## 5.3 Circles, arcs and sectors
@@ -115,6 +147,12 @@ Area = (210/360) × π × 6² = (7/12) × 36π = **21π cm²**.
 7π = (θ/360) × 28π
 θ/360 = 1/4
 θ = **90°**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--01-major-sector.webp" width="900" height="870" alt="A circle of radius 6 cm is split into a 150 degree minor sector and a 210 degree major sector. The major sector area is 210/360 of 36 pi = 21 pi, the minor is 15 pi, and they add to the whole 36 pi." loading="lazy">
+  <figcaption>A major sector is the same fraction of the circle, just with an angle over 180 degrees.</figcaption>
+</figure>
+
 
 ## 5.4 Surface area and volume
 
@@ -163,6 +201,17 @@ Total surface area = 100 + 260 = **360 cm²**.
 Volume = π × 3.5² × 9 = 110.25π = 346.36 cm³, so capacity = **346 ml** (3 significant figures).
 Open means no top: area = base + curved surface = π × 3.5² + 2π × 3.5 × 9 = 12.25π + 63π = 75.25π = **236 cm²** (3 significant figures).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--03-sphere-hemisphere.webp" width="900" height="920" alt="A sphere of radius 4.5 cm has surface area equal to four discs, 81 pi, and volume 121.5 pi. A solid hemisphere has two discs of curved surface plus one disc flat face, 60.75 pi, and half the sphere volume." loading="lazy">
+  <figcaption>Sphere surface is four discs; a solid hemisphere is three, including its flat face.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--04-mens-open-cup.webp" width="900" height="900" alt="An open cup of radius 3.5 cm and height 9 cm, with its base and curved surface shown as pieces and a crossed-out lid. Capacity is 110.25 pi, about 346 ml; the material is 75.25 pi, about 236 cm squared." loading="lazy">
+  <figcaption>An open cup has a base and a curved surface only, with no lid.</figcaption>
+</figure>
+
+
 ## 5.5 Compound shapes and parts of shapes
 
 A compound shape or solid is built from simpler pieces. Break it up, find each piece, then add. For a shape with a hole or a shaded region, subtract.
@@ -201,6 +250,22 @@ The frustum also has a circular base of radius 9 and a circular top of radius 3:
 Total surface area = 72√5 π + 90π = **789 cm²** (3 significant figures).
 
 The small cone is an enlargement of the large one with scale factor 1/3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--02-half-cylinder-net.webp" width="900" height="1000" alt="The net of a solid half-cylinder, radius 4 cm and length 10 cm, has a flat 8 by 10 rectangle, a curved rectangle of 40 pi and two semicircular ends of 8 pi each. Surface area is 56 pi + 80 and volume 80 pi." loading="lazy">
+  <figcaption>A solid half-cylinder has four faces: two semicircles, a curved face and a flat face.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--05-mens-frustum-surface-area.webp" width="900" height="830" alt="A frustum from a cone of height 18 and radius 9 with a cone of height 6 and radius 3 removed. Slant edges 9 root 5 and 3 root 5 give curved area 72 root 5 pi (about 506 cm squared); adding 90 pi for the two circles gives about 789 cm squared." loading="lazy">
+  <figcaption>Curved area is large cone minus small cone; add the top and base circles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--06-mens-quarter-cylinder-net.webp" width="900" height="985" alt="A quarter of a cylinder of radius 4 cm and height 10 cm shown as its five faces to one scale: two cut faces of 40 cm squared, a curved face of 20 pi and two quarter-circle ends of 4 pi. Surface area is 80 + 28 pi, volume 40 pi." loading="lazy">
+  <figcaption>Take the fraction of the whole, then add the new flat faces made by the cut.</figcaption>
+</figure>
+
 
 ## Parts of shapes and solids
 

@@ -78,6 +78,17 @@ Two warnings from the guide:
 1. **Extrapolation** (predicting outside the range of the x data) is unreliable.
 2. You cannot always reliably predict x from a value of y using a y on x line. The y on x line is built to predict y.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--01-i-line-mean-point.webp" width="900" height="880" alt="Eight days of temperature against cold drinks sold with the least squares line y = 3.03x + 10.4 (r = 0.966). The line passes through the mean point (21.875, 76.625). A gradient triangle shows 5 °C more gives about 15.1 more drinks." loading="lazy">
+  <figcaption>The regression line passes through the mean point and its gradient is the change in y for each 1 unit of x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--02-i-interpolate-extrapolate.webp" width="900" height="920" alt="The same line with the data range 14 to 30 °C shaded. 23 °C gives about 80 drinks (interpolation, reasonable). 40 °C gives 131 drinks (extrapolation, may be unreliable)." loading="lazy">
+  <figcaption>Predict inside the range of the data; outside it the line may not hold.</figcaption>
+</figure>
+
+
 ### Worked example 1
 
 A school café records the day's maximum temperature x (°C) and the number of cold drinks sold y on eight days.
@@ -129,6 +140,12 @@ In examinations, find rₛ using technology. The method:
 2. If data items are equal, give each the **average** of the ranks they would occupy.
 3. Find Pearson's r for the two lists of ranks. That value is rₛ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--04-i-spearman-ranks-ties.webp" width="900" height="900" alt="Seven pairs ranked separately in x and y; the two 5s share rank 2.5. Lines join each x rank to its y rank. Pearson r of the rank lists gives rₛ = 0.955." loading="lazy">
+  <figcaption>Tied values share the average of the ranks they would occupy, and rₛ is Pearson r of the ranks.</figcaption>
+</figure>
+
+
 ### Worked example 2
 
 | x | 3 | 5 | 5 | 8 | 10 | 12 | 15 |
@@ -157,6 +174,12 @@ This shows a strong positive monotonic relationship: as x increases, y tends to 
 
 Example: for x = 1, 2, 3, 4, 5, 6 and y = 2, 3, 5, 9, 17, 33, y always increases, so rₛ = 1. The curve is not a straight line, so r = 0.906. Here rₛ describes the relationship better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--03-i-pearson-vs-spearman.webp" width="900" height="880" alt="Six rising points that curve upward. A straight line fits roughly (Pearson r = 0.906) but y always increases with x, so Spearman rₛ = 1." loading="lazy">
+  <figcaption>Pearson tests for a straight line; Spearman tests for any monotonic relationship.</figcaption>
+</figure>
+
+
 ## Section 4.11: Hypothesis testing
 
 ### The language of a test
@@ -172,6 +195,12 @@ Write them as an equation, an inequality or in words, as suits the test.
 **Decision rule:** if the p-value < significance level, reject H₀. Otherwise, do not reject H₀. Equivalently, for a χ² test, reject H₀ if χ²calc > the critical value. The guide says you will either compare a p-value with the significance level or compare the χ² statistic with a given critical value.
 
 Always finish with a sentence **in context**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--06-i-chi2-decision.webp" width="900" height="860" alt="The χ² distribution with 2 degrees of freedom. The 5% critical value 5.99 cuts off a tail of area 0.05. The calculated 9.5 lies in the tail with p-value 0.00865, so reject H0." loading="lazy">
+  <figcaption>Reject H0 when χ²calc passes the critical value, equivalently when the p-value is below the significance level.</figcaption>
+</figure>
+
 
 ### Observed and expected frequencies
 
@@ -217,6 +246,12 @@ p-value = 0.00865 (3 s.f.)
 
 0.00865 < 0.05, so reject H₀. There is evidence that revision method is not independent of year group. (Using the critical value instead: 9.5 > 5.99, the same decision.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--05-i-chi2-independence.webp" width="900" height="960" alt="A 2 by 3 table of 150 students with observed bars and dashed expected lines (20 each for Year 12, 30 each for Year 13). Cell contributions sum to 5.70 + 3.80 = 9.5, with df = 2." loading="lazy">
+  <figcaption>Each cell contributes (o − e)²/e and the contributions add to χ²calc.</figcaption>
+</figure>
+
+
 ### The χ² goodness of fit test
 
 This tests whether observed data fit a claimed distribution. At SL the degrees of freedom will always be n − 1, where n is the number of categories.
@@ -237,6 +272,12 @@ p-value = 0.114 (3 s.f.)
 ```
 
 0.114 > 0.05, so do not reject H₀. There is insufficient evidence at the 5% level that customers are not spread equally.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--07-i-chi2-goodness-of-fit.webp" width="900" height="940" alt="Observed customers Monday to Friday (38, 45, 52, 30, 35) against an expected 40 a day. Contributions 0.1, 0.625, 3.6, 2.5, 0.625 give χ² = 7.45, df = 4, p = 0.114, so do not reject H0." loading="lazy">
+  <figcaption>Each day contributes (o − e)²/e; here the total is not large enough to reject H0.</figcaption>
+</figure>
+
 
 ### The t-test for two means
 
@@ -264,6 +305,12 @@ t = 2.62, p-value = 0.0120 (3 s.f.)
 ```
 
 0.0120 < 0.05, so reject H₀. There is evidence that Method A gives a higher mean score.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--08-i-t-test-two-means.webp" width="900" height="960" alt="Dot strips for Method A (mean 67.6) and Method B (mean 60.2), and the t distribution with 11 degrees of freedom. The t = 2.62 lies beyond the one-tailed 5% critical value 1.80, with p = 0.0120, so reject H0." loading="lazy">
+  <figcaption>A pooled one-tailed t-test compares two means using the upper tail of the t distribution.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -60,6 +60,27 @@ Adjustment then needs wage and price flexibility, labour mobility or fiscal tran
 
 **Economic union** adds harmonised rules (standards, competition policy, sometimes tax and budget rules). The cost is a further loss of national sovereignty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--03-integration-stages.webp" width="900" height="1000" alt="Four rows of coloured blocks, each longer than the one above. A free trade area removes internal tariffs. A customs union adds a common external tariff. A monetary union adds a single currency and central bank. An economic union adds a single market and common policies." loading="lazy">
+  <figcaption>Each stage of integration keeps the commitments of the one before and adds one more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--04-trade-deflection.webp" width="900" height="910" alt="An outside supplier sells a machine for 100. Country A's 10% tariff gives a landed price of 110 and Country B's 40% tariff gives 140. In a free trade area the machine can enter via A and be re-exported to B, so B pays 110 rather than 140. Rules of origin or a common external tariff stop this." loading="lazy">
+  <figcaption>Trade deflection: outsiders enter a free trade area through the member with the lowest tariff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--07-monetary-union-real-rates.webp" width="900" height="970" alt="Countries X and Y share a nominal interest rate of 3%. X has 6% inflation, so its real rate is -3.0%: too loose, with boom risk. Y has 0.5% inflation, so its real rate is +2.5%: too tight, with weak demand. One rate cannot suit both." loading="lazy">
+  <figcaption>A single interest rate gives different real rates in members with different inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--14-monetary-union-conversion-saving.webp" width="900" height="840" alt="With separate currencies a 1.8 percent conversion margin on 8 million of exports costs 144,000 a year; inside a monetary union that cost disappears." loading="lazy">
+  <figcaption>A single currency saves 144,000 a year on 8 million of exports.</figcaption>
+</figure>
+
+
 ## Trade creation and trade diversion
 
 A customs union (or free trade area) removes tariffs inside the bloc only. This is discrimination, so it creates two opposite effects.
@@ -104,6 +125,17 @@ Split it: the two triangles give +9 (production) and +18 (consumption), a gain o
 
 **What decides the outcome.** Diversion is worse when the gap between the partner's price and the outsider's price is large, and when the old external tariff was high. Creation is larger when home costs are high, demand is price elastic and the partners are efficient producers. Many unions have both effects on different goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--05-trade-creation.webp" width="900" height="940" alt="Home demand Q = 300 - 4P and supply Q = 20 + 2P for tiles. With a 5 tariff the price is 25 (demand 200, supply 70). After the union the partner price is 20 (demand 220, supply 60). The production triangle (25) and consumption triangle (50) are the net gain of 75; the grey rectangle is old tariff revenue of 650, a transfer." loading="lazy">
+  <figcaption>Cheaper partner imports replace home output, giving a net gain of 75.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--06-trade-diversion.webp" width="900" height="940" alt="Same demand and supply for pumps. The outsider sells at 16, so with the 6 common external tariff its landed price is 22; the partner would charge 25 before the union and 19 after, so imports switch to the partner. The two triangles gain 9 and 18 (27), but the 148 units previously bought at 16 now cost 3 more each, 444. Net effect is -417." loading="lazy">
+  <figcaption>Imports switch from a cheaper outsider to a dearer partner, so welfare falls by 417.</figcaption>
+</figure>
+
+
 ## Internal and external consequences
 
 | | Gains | Losses |
@@ -131,6 +163,12 @@ The EU is a customs union with a single market, and most members use the euro. I
 
 Judge by weighing these over the short and long run and for the group you are asked about.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--11-eu-members-vary.webp" width="900" height="920" alt="Top: a small economy sends 3 of every 4 exports (75%) to the bloc. Bottom: Alder pays 9.0bn and receives 6.0bn, net 3.0bn, which is 0.5% of GNI of 600bn." loading="lazy">
+  <figcaption>The benefit and cost of EU membership vary with trade dependence and net budget position.</figcaption>
+</figure>
+
+
 ## The WTO
 
 The World Trade Organization, established in 1995 as successor to the GATT, promotes freer trade in these ways:
@@ -142,6 +180,22 @@ The World Trade Organization, established in 1995 as successor to the GATT, prom
 5. **Support for developing countries.** Longer adjustment periods and technical help.
 
 Evaluation: the WTO has no power to force a member, relies on consensus, and covers only members' agreed commitments. Its effect is greatest where rules are clear and enforceable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--12-wto-mfn-national-treatment.webp" width="900" height="990" alt="Top: a tariff cut offered to member A is also given to B and C (most-favoured nation). Bottom: imported and home goods get the same rules once on the home market (national treatment). Blocs are a permitted exception." loading="lazy">
+  <figcaption>MFN gives every member the best cut; national treatment treats imports like home goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--13-agriculture-subsidy-cost.webp" width="900" height="820" alt="A rich country pays 20 per tonne on 5 million tonnes, 100 million. The world price falls from 200 to 185, 7.5 percent, so a developing exporter selling 4 million tonnes loses 15 x 4 = 60 million." loading="lazy">
+  <figcaption>Rich-country farm subsidies lower world prices and cost developing exporters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--15-wto-progress-difficulties.webp" width="900" height="1040" alt="Timeline: 1995 WTO set up; 2001 Doha Round launched and largely stalled; 2013 Trade Facilitation Agreement; 2015 Nairobi export subsidy decision; December 2019 Appellate Body unable to review new appeals." loading="lazy">
+  <figcaption>Milestones and setbacks in the WTO since 1995.</figcaption>
+</figure>
+
 
 ## WTO progress and difficulties
 

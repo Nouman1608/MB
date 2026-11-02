@@ -116,6 +116,12 @@ P(26 < X < 34) = 1 − 0.12 − 0.12 = 0.76
 
 You don't need σ for either answer. Spot symmetry before you reach for the calculator.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--02-poisson-approx-binomial.webp" width="900" height="890" alt="Paired bars for r = 0 to 9 compare the exact binomial B(200, 0.015) with Po(3); they are almost identical. P(X ≤ 2) is 0.421 exactly and 0.423 by the Poisson. The rule is n &gt; 50 and np &lt; 5." loading="lazy">
+  <figcaption>B(200, 0.015) and Po(3) side by side, showing why Po(np) works for large n and small p.</figcaption>
+</figure>
+
+
 ## The N2 links in one place
 
 **Histograms.** If a histogram of a large sample is roughly symmetrical and bell-shaped, model the
@@ -134,6 +140,22 @@ two inflection points, μ is their midpoint and σ is half the distance between 
 continuity correction, because a whole number r covers r − 0.5 to r + 0.5. For X ~ B(100, 0.5),
 P(X ≥ 55) ≈ P(Y > 54.5) with Y ~ N(50, 25), giving 0.184; the exact binomial value is also 0.184
 to 3 s.f.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--06-sample-mean-distribution.webp" width="900" height="890" alt="Two normal curves centred on 30: a wide one for a single value (sd 6) and a narrow one for the mean of 50 values (sd 0.85). The area of the narrow curve above 31 is shaded and equals 0.119." loading="lazy">
+  <figcaption>The mean of 50 values varies far less than one value, so P(X̄ &gt; 31) is only 0.119.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--07-confidence-interval-95.webp" width="900" height="910" alt="A normal curve of the sample mean centred on 56.5 with standard error 0.675. The central 95% of area, from 55.2 to 57.8, is shaded teal with 2.5% in each tail, and a bracket marks the interval (55.2, 57.8)." loading="lazy">
+  <figcaption>The 95% interval is the sample mean plus or minus 1.96 standard errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--09-normal-68-95-997.webp" width="900" height="950" alt="Bell curve for N(250, 4²), symmetric about 250 g. Shaded bands show 68% within 1 sd (246 to 254), 95% within 2 sd and 99.7% within 3 sd. The points of inflection at 246 and 254 are marked, and a second row gives z from −3 to 3." loading="lazy">
+  <figcaption>The Normal curve is symmetrical, has inflection points at μ ± σ and holds about 68%, 95% and 99.7% of values within 1, 2 and 3 sd.</figcaption>
+</figure>
+
 
 ## Calculator checklist
 

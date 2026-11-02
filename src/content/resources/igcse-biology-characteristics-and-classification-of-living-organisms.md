@@ -73,6 +73,17 @@ prokaryote and protoctist — the features used to place plants into ferns
 and flowering plants (dicotyledons and monocotyledons), and the features
 of viruses (a protein coat and genetic material)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--03-species-and-binomial.webp" width="900" height="1010" alt="Two animals of one species breed and produce fertile offspring. A binomial name has the genus first (capital letter) then the species (small letter), in italics, e.g. Panthera leo, Panthera tigris, Homo sapiens." loading="lazy">
+  <figcaption>A binomial name is genus plus species.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="930" alt="Extended. A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
+  <figcaption>More recent common ancestor means more similar DNA.</figcaption>
+</figure>
+
+
 ## The seven characteristics — MRS GREN
 
 | Letter | Characteristic | What it means |
@@ -92,6 +103,17 @@ gases in and out of the body. And **excretion is not egestion** —
 excretion removes waste made by the organism's own metabolism (such as
 carbon dioxide or urea), while egestion is the removal of undigested
 food (faeces), which was never part of the organism's chemistry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--01-mrs-gren.webp" width="900" height="1064" alt="Seven rows with simple icons: Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition, each with a short definition taken from the lesson. The first letters spell MRS GREN." loading="lazy">
+  <figcaption>The seven characteristics shared by all living organisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--02-two-lookalikes.webp" width="900" height="1120" alt="Top: breathing moves air in and out of the lungs (physical) while respiration releases energy in cells (chemical). Bottom: excretion removes waste made by the body’s own chemistry from cells; egestion removes undigested food from the gut as faeces." loading="lazy">
+  <figcaption>Breathing and egestion are not the same as respiration and excretion.</figcaption>
+</figure>
+
 
 ## Building and reading a dichotomous key
 
@@ -121,6 +143,12 @@ that can actually be observed on the specimen in front of you — vague
 or overlapping criteria (such as "large" without a stated size) make a
 key impossible to use consistently between different people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--04-dichotomous-key.webp" width="900" height="1006" alt="A flow chart of the lesson key: has a backbone? no is invertebrate; has feathers? yes bird; has fur or hair? yes mammal; has fins? yes fish; dry scaly skin? yes reptile, no (moist skin) amphibian. Each question has two answers." loading="lazy">
+  <figcaption>Answer one two-way question at a time to reach a name.</figcaption>
+</figure>
+
+
 ## Groups within the animal kingdom (Core)
 
 All candidates need the main features used to place animals in these groups (syllabus 1.3.2).
@@ -142,6 +170,17 @@ All candidates need the main features used to place animals in these groups (syl
 
 All arthropods have jointed legs, a segmented body and an exoskeleton. Exam questions often give a photo or description and ask which group an organism belongs to, so learn the features that tell the groups apart (e.g. counting legs and body parts).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--05-vertebrate-groups.webp" width="900" height="1145" alt="Five rows each with a simple animal drawing and three features: mammals (fur or hair, external ears, milk), birds (feathers and beak, wings, hard-shelled eggs), reptiles (dry scaly skin, rubbery-shelled eggs on land), amphibians (moist skin, shell-less eggs in water), fish (scales, fins, gills)." loading="lazy">
+  <figcaption>Each vertebrate group has its own set of features.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--06-arthropod-groups.webp" width="900" height="1103" alt="Top-view drawings of an insect (3 body parts, 6 legs, 1 pair of antennae), arachnid (2 body parts, 8 legs, no antennae), crustacean (more than 4 pairs of legs, 2 pairs of antennae) and myriapod (long segmented body, 1-2 leg pairs per segment, 1 pair of antennae). All arthropods have jointed legs, a segmented body and an exoskeleton." loading="lazy">
+  <figcaption>Count legs, body parts and antennae to place an arthropod.</figcaption>
+</figure>
+
+
 ## The five kingdoms (Supplement)
 
 | Kingdom | Defining feature |
@@ -157,6 +196,12 @@ requires you to state that a virus consists only of a protein coat and
 genetic material — that is the examinable content, with the reasoning
 for why this excludes them from the five kingdoms as useful background
 rather than a required outcome in its own right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--07-five-kingdoms.webp" width="900" height="1206" alt="Extended. Animal: many cells, no cell wall, feeds by ingestion. Plant: cellulose cell wall, photosynthesis. Fungus: chitin wall, hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Viruses are in no kingdom: a protein coat and genetic material only." loading="lazy">
+  <figcaption>Five kingdoms by defining feature; viruses sit outside them.</figcaption>
+</figure>
+
 
 ## How to approach it
 

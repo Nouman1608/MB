@@ -63,6 +63,12 @@ You must recognise an alkane from a molecular formula (C2H6), a condensed formul
 **Worked example 1.** Which of C6H14, C5H10 and C9H20 are alkanes?
 Test each against CnH2n+2. C6H14: 2 × 6 + 2 = 14, so alkane. C5H10: 2 × 5 + 2 = 12, not 10, so not an alkane (it fits CnH2n). C9H20: 2 × 9 + 2 = 20, so alkane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+
 ## Fractional distillation and petrochemicals (4.7.1.2)
 
 Fractional distillation separates crude oil into **fractions**. Each fraction contains molecules with a similar number of carbon atoms.
@@ -75,6 +81,12 @@ How it works, in terms of evaporation and condensation:
 4. Large molecules have high boiling points and condense low down. Small molecules have low boiling points and rise higher before condensing. The smallest leave the top as gases.
 
 Fractions are processed into **fuels** -- petrol, diesel oil, kerosene, heavy fuel oil and liquefied petroleum gases -- and into **feedstock** for the petrochemical industry, which makes solvents, lubricants, polymers and detergents. The huge range of carbon compounds exists because carbon atoms can form families of similar compounds. You do not need the names of other fractions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
 
 ## Properties and combustion of hydrocarbons (4.7.1.3)
 
@@ -98,6 +110,17 @@ C5H12 + 8O2 → 5CO2 + 6H2O
 
 If the O2 count comes out as a half, double everything: 2C6H14 + 19O2 → 12CO2 + 14H2O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--13-aqa-pentane-combustion.webp" width="900" height="960" alt="The balanced equation for complete combustion of pentane is C5H12 plus 8 O2 gives 5 CO2 plus 6 H2O. Three steps: balance carbon first, giving 5 CO2; balance hydrogen, giving 6 H2O; then count oxygen atoms on the right, 5 times 2 plus 6 equals 16, so 8 O2 are needed. A tally of dots shows 5 carbon, 12 hydrogen and 16 oxygen atoms on each side." loading="lazy">
+  <figcaption>Balancing C, then H, then counting O gives C5H12 + 8O2 -&gt; 5CO2 + 6H2O.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--15-oc-flammability.webp" width="900" height="850" alt="Three carbon chains of increasing length with smaller flames: small molecules ignite easily, larger ones are harder and hardest to ignite." loading="lazy">
+  <figcaption>Flammability decreases as hydrocarbon molecules get larger.</figcaption>
+</figure>
+
+
 ## Cracking and alkenes (4.7.1.4)
 
 **Cracking** breaks large hydrocarbons into smaller, more useful molecules. Two methods in general terms:
@@ -111,6 +134,17 @@ Why crack? Demand for fuels with small molecules is higher than the supply from 
 
 **Worked example 3.** Complete: C13H28 → C9H20 + 2 ____
 Carbon: 13 − 9 = 4, shared between two molecules, so 2 C each. Hydrogen: 28 − 20 = 8, so 4 H each. Missing product: **C2H4** (ethene). Check: C9H20 is an alkane, C2H4 an alkene -- the usual pattern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--14-aqa-cracking-balance.webp" width="900" height="930" alt="A chain of 13 carbon atoms, C13H28, is cracked into a chain of 9 carbons, C9H20, an alkane, plus two molecules of ethene, C2H4, each with a carbon to carbon double bond. The atoms balance: carbon 13 equals 9 plus 2 plus 2, and hydrogen 28 equals 20 plus 4 plus 4. Hydrogens are not drawn." loading="lazy">
+  <figcaption>C13H28 -&gt; C9H20 + 2 C2H4 balances: 13 carbons and 28 hydrogens on each side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
 
 ## Alkenes and their reactions (4.7.2.1–4.7.2.2)
 
@@ -148,6 +182,17 @@ One Br goes on each carbon that was in the double bond. All bonds are now single
 
 You must be able to draw displayed formulae of all four alkenes and their products with hydrogen, water, chlorine, bromine and iodine. Put the added atoms on the two carbons of the old double bond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--12-oc-propene-bromine.webp" width="900" height="830" alt="Propene plus bromine gives C3H6Br2: one Br on each carbon of the old C=C and all bonds single." loading="lazy">
+  <figcaption>Bromine adds across the C=C of propene to give C3H6Br2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--13-oc-smoky-flame.webp" width="900" height="890" alt="An alkane burns with a clean flame (complete combustion, CO2 and H2O). An alkene tends to burn with a larger smoky flame because of incomplete combustion." loading="lazy">
+  <figcaption>Alkenes tend to burn with smoky flames because of incomplete combustion.</figcaption>
+</figure>
+
+
 ## Alcohols (4.7.2.3)
 
 Alcohols contain the functional group **–OH**. The first four are **methanol** CH3OH, **ethanol** CH3CH2OH, **propanol** and **butanol**. Watch the names: "-ol" means alcohol.
@@ -164,6 +209,12 @@ Main uses: fuels, solvents, and ethanol as the alcohol in alcoholic drinks.
 **Fermentation**: aqueous ethanol is made by fermenting a sugar solution with **yeast**, in warm conditions (about 30 °C) with air kept out.
 
 The only alcohol equations you must write are combustion equations: C2H5OH + 3O2 → 2CO2 + 3H2O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--12-aqa-alcohol-reactions.webp" width="900" height="1060" alt="Four panels show what happens to ethanol. One, with sodium: fizzing as hydrogen gas is given off. Two, burning in air: carbon dioxide and water form, with a clean flame, so alcohols are used as fuels. Three, added to water: ethanol dissolves to give a neutral solution." loading="lazy">
+  <figcaption>Ethanol fizzes with sodium, burns cleanly, dissolves to a neutral solution and is oxidised to ethanoic acid.</figcaption>
+</figure>
+
 
 ## Carboxylic acids (4.7.2.4)
 
@@ -196,9 +247,21 @@ The **repeating unit** has the same atoms as the monomer, because no other molec
 **Worked example 5.** A sample of poly(propene) has Mr 84 000. How many monomers joined?
 Mr of C3H6 = 3 × 12 + 6 × 1 = 42. Number of units = 84 000 ÷ 42 = **2000**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-oc-polypropene-mr.webp" width="900" height="890" alt="Propene drawn as a displayed formula becomes the poly(propene) repeat unit in brackets. Mr of C3H6 is 42, so a chain of Mr 84 000 contains 84 000 / 42 = 2000 monomers." loading="lazy">
+  <figcaption>The repeat unit has the same atoms as propene, Mr 42, so Mr 84 000 means 2000 units.</figcaption>
+</figure>
+
+
 ### Condensation polymerisation (4.7.3.2) -- Higher tier only
 
 Each monomer has **two functional groups**. When they react, they join and usually lose a small molecule such as **water**. The simplest case uses two different monomers, each with two of the same group: **ethanediol** (two –OH) and **hexanedioic acid** (two –COOH) make a **polyester**. For each repeating unit, two water molecules are lost -- one for each ester link.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--14-oc-polyester.webp" width="900" height="895" alt="Ethanediol (two OH) and hexanedioic acid (two COOH) react to make a polyester repeat unit with two ester links, losing 2 H2O per unit. Atoms balance: C2H6O2 + C6H10O4 gives C8H12O4 + 2H2O." loading="lazy">
+  <figcaption>Ethanediol and hexanedioic acid join by ester links, losing two water molecules per repeat unit.</figcaption>
+</figure>
+
 
 ### Amino acids (4.7.3.3) -- Higher tier only
 
@@ -214,6 +277,12 @@ Amino acids have two **different** functional groups: an amine group (–NH2) an
 | Protein | amino acids |
 | Starch | glucose (a sugar) |
 | Cellulose | glucose (a sugar) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-aqa-natural-polymers.webp" width="900" height="1010" alt="Four rows show natural polymers as chains of beads. DNA is two chains in a double helix, made from four different monomers called nucleotides, drawn as four different bead shapes. A protein is a chain of amino acids, drawn as beads of different colours. Starch is a chain of glucose, a sugar, drawn as identical beads labelled G." loading="lazy">
+  <figcaption>DNA, proteins, starch and cellulose are chains built from nucleotides, amino acids and glucose.</figcaption>
+</figure>
+
 
 ## Common errors
 

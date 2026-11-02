@@ -49,6 +49,12 @@ Net wealth = 250,000 - 150,000 + 10,000 + 40,000 = **150,000**. That is 5 times 
 
 Two points follow. A household can be income-rich and wealth-poor (a high earner with debts) or the reverse (a retired owner of a paid-off house). And wealth generates income (rent, interest, dividends), so unequal wealth feeds unequal income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## 2. Factors influencing the distribution
 
 **Income.**
@@ -74,6 +80,12 @@ X: 200,000 x 1.03^20 = **361,222**. Y: 4,000 x (1.03^20 - 1)/0.03 = **107,481**.
 
 X ends with more than three times as much as Y, although Y saved 80,000 of its own income. The gap shows how wealth inequality can persist across generations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--03-compounding-wealth.webp" width="900" height="920" alt="Line graph over 20 years at 3% a year. Household X starts with an inherited 200,000 and reaches 361,222. Household Y starts at zero, saves 4,000 a year and reaches 107,481, having put in 80,000. X ends with more than three times as much as Y." loading="lazy">
+  <figcaption>An inheritance compounding at 3% outgrows 20 years of regular saving, so wealth inequality persists across generations.</figcaption>
+</figure>
+
+
 ## 3. Some knowledge of the UK
 
 The specification expects some knowledge of UK household income and wealth. You do not need exact figures, but you should know the pattern. The Office for National Statistics publishes the data, so check the latest release before an exam.
@@ -94,6 +106,12 @@ The specification expects some knowledge of UK household income and wealth. You 
 - Shares by need, such as a household with children getting more: unequal again, but some think it fairest.
 
 Only the first rule gives equality. People applying different value judgements will each call a different split equitable. An economist can show who gains and loses. The choice between rules is a normative one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--05-equity-three-rules.webp" width="900" height="850" alt="Three stacked bars share 90 units among three households. Equal shares is 30 each; sharing by effort and by need give unequal splits that different people call fair." loading="lazy">
+  <figcaption>Only equal shares gives equality; which unequal rule is equitable is a value judgement.</figcaption>
+</figure>
+
 
 ## 5. The Lorenz curve and the Gini coefficient
 
@@ -139,6 +157,27 @@ With 100 households and total income of 5,000, each household in the poorest fif
 - Results depend on the unit (individual or household), on income before or after tax, and on whether wealth is included.
 - Data on the very rich and on informal income are often weak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--01-lorenz-before-after.webp" width="900" height="1090" alt="Lorenz diagram for invented Country A. The before-tax curve passes through (20,4), (40,13), (60,27), (80,49) with Gini 0.43; the after-tax-and-benefit curve passes through (20,7), (40,19), (60,36), (80,59) with Gini 0.32 and lies closer to the line of equality. The poorest 40% receive 13% before and 19% after." loading="lazy">
+  <figcaption>Taxes and benefits move the Lorenz curve towards the line of equality, cutting the Gini from 0.43 to 0.32.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--02-lorenz-curves-cross.webp" width="900" height="1090" alt="Two Lorenz curves: Country A after tax and Country B. B is below A at the 20% and 40% points, meets A at (60,36) and is above A at 80% (68 against 59). The Ginis are 0.32 and 0.31, almost equal, so equal Ginis do not mean equal distributions." loading="lazy">
+  <figcaption>Two countries can have almost the same Gini yet different Lorenz curves, because the curves cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--06-lorenz-gini.webp" width="900" height="1040" alt="Lorenz curve diagram. The diagonal is the line of equality. With quintile income shares 5, 10, 15, 25 and 45 percent the Lorenz curve bows below the diagonal. Area A between the diagonal and the curve, divided by A plus B, gives a Gini of 0.38. A dashed curve with shares 8, 12, 17, 25 and 38 percent lies closer to the diagonal with a Gini of 0.29." loading="lazy">
+  <figcaption>The further the Lorenz curve bows from the line of equality, the higher the Gini coefficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
+
 ## 6. Benefits and costs of more or less equal distributions
 
 | | More equal | More unequal |
@@ -151,6 +190,12 @@ With 100 households and total income of 5,000, each household in the poorest fif
 Rich spending falls by 0.3 x 1,000 = 300. Poor spending rises by 0.9 x 1,000 = 900. Net consumption rises by **600**.
 
 **Evaluation.** The balance depends on the **degree**. Some inequality rewards effort. The specification speaks of excessive inequality, and each side's costs rise as it goes further. It also depends on how equality is achieved (high tax rates or better education), how responsive effort and saving are, the time period, and which values you hold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--06-mpc-redistribution.webp" width="900" height="890" alt="Moving 1,000 from rich (MPC 0.3) to poor (MPC 0.9) cuts rich spending 300 and raises poor spending 900, net +600." loading="lazy">
+  <figcaption>Because the poor spend a larger share of extra income, redistribution raises total consumption.</figcaption>
+</figure>
+
 
 ## 7. Inequality as a cause and consequence of market failure
 
@@ -170,6 +215,17 @@ Under-investment <-- low ability to pay
 ```
 
 This loop is why inequality can be self-reinforcing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--07-checkup-welfare-loss.webp" width="900" height="880" alt="Five bars show own value 100, 90, 75, 62, 38 plus an external benefit of 20 each, against a cost of 60. Household 4 values it at 62 but can pay only 45, so a check-up with social benefit 82 and cost 60 is lost: welfare loss 22." loading="lazy">
+  <figcaption>Limited ability to pay can block a purchase that is worth more to society than it costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--08-inequality-loop.webp" width="900" height="830" alt="A four-box loop: market failure, unequal incomes and wealth, low ability to pay, under-investment, back to market failure." loading="lazy">
+  <figcaption>Inequality and market failure can feed each other in a loop.</figcaption>
+</figure>
+
 
 ## 8. Value judgements and policy views
 

@@ -78,6 +78,17 @@ For full explanations and worked examples, read the [Chemistry of the atmosphere
 4. Explain why evidence is limited (4.6 billion years; few direct samples).
 5. Give a judgement: supported, but not proven.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--04-atm-early-atmosphere.webp" width="900" height="950" alt="A four-step timeline: volcanoes release CO2, nitrogen and water vapour; oceans form and CO2 dissolves, so CO2 falls; about 2.7 billion years ago algae make oxygen; plants spread and oxygen rises until animals can evolve." loading="lazy">
+  <figcaption>One theory of how the early atmosphere changed, from volcanoes to oxygen-rich air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
+  <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
+</figure>
+
+
 ## 4.9.2 Greenhouse gases and climate change
 
 **Greenhouse effect in five steps**
@@ -125,6 +136,17 @@ For full explanations and worked examples, read the [Chemistry of the atmosphere
 | Carbon taxes and limits | Unpopular; needs international agreement |
 | Off-setting and tree planting | Land needed; slow |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--08-atm-greenhouse-wavelengths.webp" width="900" height="890" alt="Short wavelength radiation from the Sun passes through the atmosphere to the surface. The surface emits long wavelength infrared, which a carbon dioxide molecule absorbs and re-emits in all directions, some back down, so less energy escapes to space." loading="lazy">
+  <figcaption>Greenhouse gases let short wavelengths through but absorb long wavelength radiation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--08-atm-climate-effects.webp" width="900" height="910" alt="Six picture cards for the effects in the lesson: sea level rise with flooding and erosion, more severe storms, rainfall changes causing drought or flood, heat and water stress, changes in food-growing regions, and changes in wildlife distribution with some extinctions." loading="lazy">
+  <figcaption>The potential effects of global climate change listed in the lesson.</figcaption>
+</figure>
+
+
 ## 4.9.3 Pollutants
 
 **Which element makes which pollutant**
@@ -154,6 +176,22 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
 | Sulfur dioxide | Respiratory problems; acid rain |
 | Oxides of nitrogen | Respiratory problems; acid rain |
 | Particulates | Global dimming; health problems |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--07-atm-pollutant-atoms.webp" width="900" height="970" alt="Carbon monoxide forms from fuel carbon with little air oxygen. Sulfur dioxide forms from sulfur in the fuel and oxygen from the air. Oxides of nitrogen form from nitrogen and oxygen that both come from the air in a hot engine." loading="lazy">
+  <figcaption>The nitrogen in oxides of nitrogen comes from the air, not the fuel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--09-atm-butane-equations.webp" width="900" height="1060" alt="Two panels with balanced equations for butane: 2C4H10 + 13O2 gives 8CO2 + 10H2O with plenty of oxygen, and 2C4H10 + 9O2 gives 8CO + 10H2O with limited oxygen. Bars show carbon 8 and 8, hydrogen 20 and 20, and oxygen 26 and 26, or 18 and 18." loading="lazy">
+  <figcaption>Worked example 3: atom bars prove both butane equations balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--10-atm-acid-rain.webp" width="900" height="900" alt="Sulfur dioxide from a chimney and nitrogen oxides from a vehicle dissolve in cloud water to make acid rain. Below, acid rain damages a limestone column, harms trees and lowers the pH of a lake so a fish dies." loading="lazy">
+  <figcaption>How SO2 and oxides of nitrogen cause acid rain and its three effects.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -193,6 +231,12 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
 11. The air -- nitrogen and oxygen react at high temperature.
 12. **CH₄ + O₂ → C + 2H₂O** (1 C, 4 H and 2 O on each side).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--06-atm-human-activities.webp" width="900" height="900" alt="Carbon dioxide sources: power stations and vehicles burning fossil fuels, and deforestation. Methane sources: livestock farming, rice paddy fields and landfill sites where waste decays." loading="lazy">
+  <figcaption>Human activities that increase carbon dioxide and methane.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "the early atmosphere had lots of oxygen". It had little or none.
@@ -205,6 +249,12 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
 - Giving reasons why carbon footprint actions are limited that are too vague ("it's hard"). Name cost, cooperation or lifestyle.
 - Percentage change divided by the final value instead of the starting value.
 - Describing coal formation as "from dead animals". Coal came from plants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--05-atm-carbon-locked.webp" width="900" height="1030" alt="Three rows: shells and skeletons settle on the sea bed and are compressed into limestone; trees and ferns are buried and compressed and heated into coal; plankton buried in mud, with heat and pressure and little oxygen, become crude oil and natural gas." loading="lazy">
+  <figcaption>Limestone, coal and crude oil each lock carbon from the atmosphere in rock.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

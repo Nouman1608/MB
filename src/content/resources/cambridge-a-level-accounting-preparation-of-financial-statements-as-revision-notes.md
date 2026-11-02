@@ -63,6 +63,22 @@ A service business has no inventory or cost of sales: fees less expenses. A trad
 5. Purchases = payments + closing payables − opening payables, from a total trade payables account.
 6. If mark-up or margin is given, use it to link sales and cost of sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--13-calderbank-sofp.webp" width="900" height="900" alt="Net assets of 54,030 (non-current assets 27,600 plus net current assets 26,430) equal capital of 54,030 (56,000 less drawings 14,000 gives 42,000, plus profit 12,030)." loading="lazy">
+  <figcaption>Net assets equal capital after drawings and profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+
 ## 1.5.3 Partnerships
 
 | Account | Records | Changes when |
@@ -112,6 +128,32 @@ A service business has no inventory or cost of sales: fees less expenses. A trad
 | Issue debentures | Advantage: control kept. Disadvantage: interest and repayment are compulsory | Advantage: fixed income and priority. Disadvantage: no vote and no share of growth |
 
 **Sources of finance by purpose:** long-term assets need long-term finance (shares, rights issue, debentures, retained earnings); short-term cash gaps suit an overdraft or trade credit; a lasting rise in activity needs permanent finance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--05-interest-vs-dividends.webp" width="900" height="950" alt="A waterfall for Hartsmere Cycles Ltd takes profit before interest of 102,200, deducts 4,800 debenture interest as an expense to reach profit for the year of 97,400, then shows dividends of 41,000 and a 10,000 transfer to general reserve leaving 46,400 in retained earnings." loading="lazy">
+  <figcaption>Debenture interest is an expense before profit; dividends and reserve transfers share out profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--09-hartsmere-balance.webp" width="900" height="1100" alt="Two equal columns of 522,600: assets of 365,600 and 157,000 against share capital 250,000, share premium 45,000 (capital reserve), general reserve 25,000 and retained earnings 94,400 (revenue reserves), debentures 60,000 and current liabilities 48,200." loading="lazy">
+  <figcaption>Reserves split into capital and revenue reserves inside a balancing statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--10-rights-issue-ledger.webp" width="900" height="958" alt="A 1 for 4 rights issue at 1.50 on 200,000 shares gives 50,000 new shares and 75,000 cash: debit bank 75,000, credit share capital 50,000 and share premium 25,000." loading="lazy">
+  <figcaption>A rights issue at a premium splits cash into share capital and share premium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--11-issues-grid.webp" width="900" height="756" alt="A grid of bonus issue, rights issue, new shares and debentures: raises cash (not bonus), dilutes control (new shares only), interest and repayment due (debentures only)." loading="lazy">
+  <figcaption>A bonus issue raises no cash; only debentures carry interest and repayment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--12-finance-match.webp" width="900" height="900" alt="A long-term need (buy a building) is matched to a share or rights issue, debentures or retained earnings; a short-term need (seasonal inventory) to an overdraft or trade credit. Then check cost, repayment, control and risk." loading="lazy">
+  <figcaption>Match the finance to the need and its time span.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

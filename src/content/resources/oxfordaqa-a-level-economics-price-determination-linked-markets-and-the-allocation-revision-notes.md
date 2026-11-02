@@ -82,6 +82,22 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 
 **Method for linked markets.** (1) Name the initial change and the curve it moves. (2) State the new price in that market. (3) Name the link (substitute, complement, joint supply, and so on). (4) State which curve moves in the second market, in which direction, and the result for its price and quantity. (5) Add a limit, such as how close the substitutes are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--07-composite-demand-milk.webp" width="900" height="720" alt="Two stacked bars of milk demand. Before, price 10: drinking 100 and cheese 100. After a cheese boom, price 11: drinking 80 and cheese 150. Cheese makers bid milk away from drinkers." loading="lazy">
+  <figcaption>With composite demand, a rise in one use can reduce the quantity available for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--08-joint-supply-wool.webp" width="900" height="830" alt="Wool demand Qd = 300 - 10P with a vertical supply that shifts from 150 to 165 thousand kg when the flock rises 10%. The price falls from 15 to 13.50." loading="lazy">
+  <figcaption>A rise in demand for lamb lowers the price of wool, its joint product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
+
 ## 3.1.2.7 How prices allocate resources
 
 | Function | What it does | Quick example |
@@ -104,6 +120,32 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 **Impersonal method.** Prices apply the same rule to everyone, which removes favouritism. But the result reflects the distribution of income, so it is impersonal without being neutral.
 
 **Extending markets into new areas** (for example, paying for priority access to a public service). Gains: lower queues, new funds, better signals of value. Costs: access based on income, and the activity may change in character. Judgement: depends on how essential the service is and how fair people think the rule is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--01-price-vs-quantity-split.webp" width="900" height="990" alt="Two demand and supply diagrams for the same rise in demand. With flat supply, price rises 11.1% and quantity 14.3%; with steeper supply, price rises 16.7% and quantity only 7.1%. More of the demand rise is absorbed by price when supply responds less." loading="lazy">
+  <figcaption>Same demand rise, two supply curves: steeper supply means a bigger price change and a smaller quantity change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--09-rationing-prints.webp" width="900" height="720" alt="Supply of 120 prints is fixed and demand is Qd = 300 - 10P. At 12 demand is 180, an excess of 60; the price rises to 18 where demand equals 120, pricing out the buyers who value a print below 18." loading="lazy">
+  <figcaption>A higher price rations a fixed supply to those willing and able to pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--10-tile-workshop-method.webp" width="900" height="920" alt="Method X uses 12 workers and 2 machines; method Y uses 5 workers and 5 machines. At a wage of 40, X costs 720 and Y 800, so X is cheaper. At a wage of 60, X costs 960 and Y 900, so Y is cheaper." loading="lazy">
+  <figcaption>When wages rise, firms switch to the method that uses more capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -139,6 +181,17 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 9. More planks mean more sawing, so more sawdust: the supply curve shifts right and price falls.
 10. Outcomes depend on the distribution of income, so people with more income get more of what is produced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--02-harvest-revenue.webp" width="900" height="900" alt="Supply shifts left (poor harvest) or right (bumper) along an unresponsive demand curve. Price moves from 7.5 to 9.0 or 6.0 while quantity moves only between 220 and 280. Revenue is highest after the poor harvest (1,980) and lowest after the bumper one (1,680)." loading="lazy">
+  <figcaption>Because demand is unresponsive, farmers earn more after a poor harvest than a bumper one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--06-speculation-self-fulfilling.webp" width="900" height="830" alt="Supply and demand for Crop K. Traders expect a rise and add 40 units of demand at every price, moving the equilibrium price from 7.5 to 8.5 (+13.3%) with quantity 250 to 270. A loop below shows the belief appearing confirmed." loading="lazy">
+  <figcaption>Speculation shifts demand before any shortage and can become self-fulfilling.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Stating the equilibrium but not showing the substitution that checks both equations.
@@ -153,3 +206,9 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+

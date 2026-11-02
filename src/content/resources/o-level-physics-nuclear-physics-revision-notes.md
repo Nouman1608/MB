@@ -39,10 +39,27 @@ After the notes, test yourself with the [practice questions](/resources/o-level-
 | Fusion | Two smaller nuclei combine into a larger nucleus, releasing energy |
 | Fission | A heavy nucleus (for example uranium-235) takes in a neutron, breaks into daughter nuclei and gives out energy plus two or more neutrons |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
+
 ## The nuclear atom
 
 - Positive nucleus, negative electrons in orbit around it.
 - Alpha scattering from a thin foil: most pass straight through (mostly empty space); a few deflect a lot (small nucleus, positive, most of the mass); a very few return almost the way they came (a heavy nucleus repelling them).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--07-nuc-reactor-parts.webp" width="900" height="940" alt="A reactor vessel with fuel rods, control rods that move in and out and moderator. Hot coolant carries heat to a boiler, where steam drives a turbine and generator; cool coolant returns to the core." loading="lazy">
+  <figcaption>The moderator slows neutrons, control rods absorb them and the coolant carries the heat away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
 
 ## Detection and background
 
@@ -59,6 +76,22 @@ Method for corrected count rate:
 2. Convert the background counts into the same unit.
 3. Subtract background from measured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--05-nuc-counting-background.webp" width="900" height="1030" alt="A GM tube and counter record 156 counts in 2 minutes with a source (78 per minute) and 18 counts in 3 minutes without it (6 per minute). Subtracting gives a corrected rate of 72 counts per minute." loading="lazy">
+  <figcaption>Subtract the background count rate from the measured count rate, using the same time unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--02-alpha-detectors.webp" width="900" height="930" alt="A cloud chamber shows alpha particles as short, thick, straight tracks of condensed vapour. A spark counter has a charged wire above a metal gauze and a spark jumps across when an alpha particle ionises the air." loading="lazy">
+  <figcaption>Two ways to detect alpha particles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--08-background-subtraction.webp" width="900" height="740" alt="Detector reading 372 per minute is 352 from the source plus 20 background. After 9 hours (3 half-lives of 3 h) only the source count is divided by 8 to 44, so the reading is 64 per minute. Dividing 372 by 8 gives 46.5 and is wrong." loading="lazy">
+  <figcaption>Only the source part of a count rate halves each half-life.</figcaption>
+</figure>
+
+
 ## The three emissions
 
 | | Alpha | Beta (β⁻) | Gamma |
@@ -74,6 +107,12 @@ Must-know distinctions:
 - Ionising power and penetrating power run in opposite order.
 - Emission is spontaneous (no trigger) and random (you cannot say which nucleus goes next, or in which direction the radiation leaves).
 - Gamma often accompanies alpha or beta decay, takes away surplus energy and changes neither A nor Z.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--06-nuc-magnetic-deflection.webp" width="900" height="955" alt="Particles move up into a magnetic field directed into the page. Positive alpha curves left, negative beta curves right in a tighter curve, and gamma goes straight on." loading="lazy">
+  <figcaption>Alpha and beta curve in opposite directions in a magnetic field; gamma is not deflected.</figcaption>
+</figure>
+
 
 ## Decay equations
 
@@ -132,10 +171,32 @@ Small reminder: 720 counts per minute with half-life 5 minutes becomes 360 after
 | Cancer diagnosis | Gamma tracer | Detected outside the body; short half-life so it soon disappears |
 | Cancer treatment | Gamma beam | High dose to tumour, aimed from several directions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--08-nuc-smoke-alarm.webp" width="900" height="1075" alt="Two plates with an americium-241 alpha source between them. In clean air alpha ionises the air and a small current flows. Smoke absorbs the alpha particles, so fewer ions form, the current falls and the alarm sounds." loading="lazy">
+  <figcaption>Smoke soaks up alpha particles, so the current drops and the alarm goes off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--04-gamma-uses.webp" width="900" height="940" alt="Gamma passes through sealed packs and kills bacteria without making food radioactive. Beams from several directions meet at a tumour. A swallowed gamma emitter is tracked by a detector outside the body." loading="lazy">
+  <figcaption>Gamma used for food and sterilising, cancer treatment and diagnosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--05-half-life-table.webp" width="900" height="990" alt="Count rates 660, 340, 180 and 100 minus background 20 give 640, 320, 160 and 80 at 0, 15, 30 and 45 min. The corrected rate halves every 15 min; at 60 min it is 40." loading="lazy">
+  <figcaption>Worked example 5: correct for background, then find the half-life.</figcaption>
+</figure>
+
+
 ## Safety
 
 - Effects of ionising radiation: cell death, mutations, cancer.
 - Reduce exposure time, increase distance (use tongs), use shielding (lead-lined containers, thick walls).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--03-safety-rules.webp" width="900" height="890" alt="Three rules: less time (short exposure beats long), more distance (long tongs, never by hand), shielding (lead or concrete absorbs radiation)." loading="lazy">
+  <figcaption>Time, distance and shielding reduce exposure.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -174,6 +235,12 @@ Small reminder: 720 counts per minute with half-life 5 minutes becomes 360 after
 10. The patient receives a smaller total dose, and the tracer is gone from the body soon after the scan. Gamma also passes out of the body so it can be detected.
 11. Any three of: keep exposure time short, keep as far away as possible (use tongs), keep it in a lead-lined container, do not point it at people.
 12. A very small, dense, positively charged nucleus that holds most of the atom's mass repelled them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--01-nuclide-notation-ions.webp" width="900" height="970" alt="Nuclide notation for magnesium-24 with A = 24 and Z = 12 gives 12 neutrons. A neutral Mg atom has 12 protons, 12 neutrons and 12 electrons; losing two electrons gives Mg2+ with 10 electrons. Only electrons change." loading="lazy">
+  <figcaption>Mg-24 as nuclide notation, and the Mg2+ ion built from it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -123,6 +123,17 @@ weight force from the Earth in return, while separately the table pushes up
 on the book with a contact force and the book pushes down on the table with
 an equal contact force — two different pairs, not one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
+  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+
 ## F = ma
 
 Newton's second law connects resultant force, mass and acceleration:
@@ -167,6 +178,17 @@ increases with the square of speed), **tiredness, alcohol and drugs**
 condition and road conditions** (increase braking distance, by reducing the
 grip available to decelerate the vehicle).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--04-terminal-velocity.webp" width="900" height="880" alt="A speed-time graph rises then levels at 50 m/s. Free-body diagrams at A, B and C show weight 800 N with drag 0, about 290 N and about 800 N, so the resultant falls from 800 N to about zero." loading="lazy">
+  <figcaption>As speed rises drag grows until it equals the weight; resultant force is zero and speed stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--05-stopping-distance.webp" width="900" height="910" alt="Bars to scale: at 20 m/s thinking 14 m plus braking 33 m gives 47 m; at 30 m/s thinking 21 m plus braking 75 m gives 96 m. Tiredness, alcohol and drugs lengthen thinking; tyres, road and load lengthen braking; speed lengthens both." loading="lazy">
+  <figcaption>Stopping distance = thinking distance + braking distance.</figcaption>
+</figure>
+
+
 ## Circular motion (qualitative)
 
 An object moving in a circular path has a resultant force acting
@@ -182,6 +204,17 @@ radius constant.
 
 The equation F = mv²/r is **not required** at this level — only these
 qualitative trends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--07-circular-force-radius.webp" width="900" height="900" alt="Two circles for a ball of the same mass and speed. The wide circle has a short force arrow; the circle with half the radius has a force arrow twice as long." loading="lazy">
+  <figcaption>With mass and speed fixed, a larger centre-seeking force gives a smaller radius.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -215,6 +248,12 @@ final speed
 - Thinking distance vs braking distance, and which factors affect each
 - The three qualitative circular-motion relationships (F = mv²/r not
 required)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
 
 ## Related resources
 

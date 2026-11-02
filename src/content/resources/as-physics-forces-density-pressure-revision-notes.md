@@ -59,11 +59,38 @@ torque of a couple = one force x perpendicular separation
 
 **Three coplanar forces in equilibrium** can be represented as a **closed vector triangle** — each force drawn as an arrow, tip-to-tail, returning to the starting point — a standard way to find an unknown force or angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--03-moment-perpendicular.webp" width="900" height="890" alt="A 40 N force acts at 30 degrees to a 0.50 m handle. The perpendicular distance from the pivot to the line of action is 0.25 m, so the moment is 10 N m, the same as the perpendicular component 20 N times 0.50 m." loading="lazy">
+  <figcaption>The moment uses the perpendicular distance from the pivot to the line of action.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--04-couple.webp" width="900" height="890" alt="Two 15 N forces, equal and opposite, act on opposite ends of a wheel 0.40 m apart. The resultant force is zero but the wheel turns with torque 6.0 N m." loading="lazy">
+  <figcaption>A couple turns an object with no resultant force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--09-moments-beam.webp" width="900" height="930" alt="A 4.0 m, 220 N board rests on supports A and B with a 650 N worker 1.0 m from the left end. Taking moments about A removes R_A: 220 x 1.5 + 650 x 0.5 = R_B x 2.7, so R_B = 243 N, and balancing forces gives R_A = 627 N." loading="lazy">
+  <figcaption>Choose a pivot where an unknown force acts, equate clockwise and anticlockwise moments, then balance forces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--04-equilibrium-triangle.webp" width="900" height="1060" alt="A ring is pulled with 6.0 N east and 8.0 N north, so a third force of 10 N at 53 degrees south of west keeps it in equilibrium. Drawn head to tail, the three arrows close into a right-angled triangle, showing zero resultant." loading="lazy">
+  <figcaption>Forces in equilibrium form a closed vector triangle.</figcaption>
+</figure>
+
+
 ## Centre of gravity
 
 The single point where the **entire weight** of the body appears to act. For a uniform body it is at the geometric centre.
 
 An object topples when the **line of action of its weight falls outside the base**. Stability is improved by a **lower centre of gravity** and a **wider base** — this is why racing cars are built low and wide, and why a tall, narrow object topples more easily than a short, wide one of the same weight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--05-topple-cog.webp" width="900" height="800" alt="Two boxes are tilted by 30 degrees. For the tall narrow box the line of the weight falls outside the base so it topples; for the short wide box it falls inside so it returns upright." loading="lazy">
+  <figcaption>Lower centre of gravity and wider base give stability.</figcaption>
+</figure>
+
 
 ## Density and pressure
 
@@ -74,6 +101,12 @@ fluid     p = rho g h
 ```
 
 **Pressure in a fluid depends only on depth, density and g — not on the shape or volume of the container.** That is why a narrow tube of water can exert the same pressure as a wide tank of the same depth, and it is examined regularly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--06-pressure-depth-shape.webp" width="900" height="920" alt="Three containers of different shape hold water to the same 0.50 m depth. The base pressure is the same in each, 1000 x 9.81 x 0.50 = 4905 Pa." loading="lazy">
+  <figcaption>Pressure in a liquid does not depend on the container shape.</figcaption>
+</figure>
+
 
 ## Upthrust and Archimedes' principle
 
@@ -90,6 +123,17 @@ Note that V is the volume of fluid **displaced**, not necessarily the object's t
 **Floating:** upthrust = weight, so the object displaces its own weight of fluid. **Sinking:** weight > maximum upthrust.
 
 An object floats if its **average density** is less than the fluid's — which is why a steel ship floats: its overall density including the enclosed air is below that of water, even though steel itself is denser. If the hull is breached and fills with water, the average density rises above that of water and the ship sinks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--07-upthrust-origin.webp" width="900" height="950" alt="A 0.20 m cube has its top 0.30 m and its bottom 0.50 m below the surface. Force down on the top is 118 N, force up on the bottom is 196 N, net upthrust 78.5 N, equal to rho g V." loading="lazy">
+  <figcaption>Upthrust arises because pressure increases with depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--08-floating-average-density.webp" width="900" height="1030" alt="A 800 kg/m3 cube floats 80% submerged because upthrust equals weight (7.85 N). A hull of 5000 kg enclosing 10 m3 has average density 500 and floats; flooded to 11 000 kg its average density is 1100 and it sinks." loading="lazy">
+  <figcaption>A body floats when its average density is below the fluid density.</figcaption>
+</figure>
+
 
 ## Exam traps
 

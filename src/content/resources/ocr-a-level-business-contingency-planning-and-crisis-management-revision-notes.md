@@ -68,6 +68,12 @@ Also keep these apart:
 5. Plan communication with each stakeholder group.
 6. Test, review and update.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--01-cp-expected-loss-area.webp" width="900" height="980" alt="The expected annual loss without a plan is a 4% by 240,000 pound box, 9,600 pounds; with the plan it shrinks to 2,400 pounds. An arrow down (reduce) and an arrow left (prevent) show the two ways a response shrinks the box, and transfer and accept are named below. Standard approach, not an OCR model." loading="lazy">
+  <figcaption>Expected loss is the area of a box: chance of failure times the loss if it happens.</figcaption>
+</figure>
+
+
 ## Advantages and disadvantages: recall list
 
 **Advantages**: quicker, calmer response; less lost sales revenue; protects customers and contracts; protects jobs; may help with insurance or customer requirements; reveals weak points.
@@ -100,6 +106,12 @@ Event B has the highest expected loss, although it is the least likely. Suppose 
 
 Always follow the sum with a comment on what it leaves out: reputation, safety, the accuracy of the probability, and whether the loss could be larger than estimated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--01-cp-plan-worth-cost.webp" width="900" height="1000" alt="A line graph of chance of failure per year against pounds per year. A flat line shows the plan cost of 9,000 pounds and a rising line shows the loss the plan saves. At the estimated 4% the saving is 7,200 pounds, 1,800 below the cost; the lines cross at 5%, the break-even probability." loading="lazy">
+  <figcaption>The plan pays for itself only if the chance of failure is 5% or more.</figcaption>
+</figure>
+
+
 ## Events and typical responses
 
 Use this table to generate specific ideas for a "recommend" answer. Adapt each to the case; do not copy it.
@@ -120,6 +132,22 @@ Each stakeholder group needs a different message, so a plan should say who tells
 - **Customers**: what is affected, what the business is doing, what they should do.
 - **Suppliers and lenders**: how payments and orders will be handled, so they stay supportive.
 - **Media and the public**: one spokesperson, factual statements, no guessing about causes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--02-cp-before-during-after.webp" width="900" height="1030" alt="A timeline in three columns. Before the event, contingency planning spots and rates risks, assigns roles and tests the plan. During, crisis management puts people first, names one decision-maker and spokesperson and tells stakeholders. After, it restores operations, rebuilds confidence, reviews and updates the plan." loading="lazy">
+  <figcaption>Contingency planning happens before an event; crisis management happens during and after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--03-cp-recall-cost.webp" width="900" height="1060" alt="A bar shows 11,500 of 18,000 packs shipped. A second bar splits the 158,200 pound total into refunds of 43,700, communications of 6,500 and lost sales of 108,000 pounds, with the workings under each." loading="lazy">
+  <figcaption>Lost sales were the biggest part of the recall cost, larger than refunds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--02-cp-orrinbeck-scorecard.webp" width="900" height="896" alt="A timeline runs from bacteria found, to a recall announced within six hours, to the helpline staffed after two days. A scorecard rates speed, communication and priorities as good, preparation as a failure and cost as uncertain, giving an effective overall verdict." loading="lazy">
+  <figcaption>Orrinbeck's response scored against the lesson's evaluation criteria.</figcaption>
+</figure>
+
 
 ## Method: recommend and justify a plan
 

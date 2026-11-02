@@ -66,6 +66,12 @@ Alpha particles were fired at a very thin sheet of metal (gold). Each observatio
 
 Link each observation to one feature. "The nucleus is small, dense and positive" in one line will not earn separate marks for separate observations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
+
 ## 5.1.2 The nucleus
 
 The nucleus contains **protons** and **neutrons** (together called nucleons).
@@ -116,6 +122,12 @@ In both processes the total mass of the products is slightly **less** than the t
 
 Always check that the top numbers balance and the bottom numbers balance. That check alone catches most errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
+
 ## 5.2.1 Detection of radioactivity
 
 **Background radiation** is the ionising radiation present all the time, from natural and artificial sources. Sources that make a significant contribution:
@@ -146,6 +158,17 @@ The syllabus does not include β⁺; "beta" means β⁻, an electron.
 
 **Extended only: deflection in fields.** In an electric field, α particles bend towards the negative plate and β particles towards the positive plate; β particles bend much more because they are far lighter. In a magnetic field, α and β bend in opposite directions, again with β bending more. Gamma is not deflected by either field because it has no charge. For the direction of the force in a magnetic field, treat α as a current in its direction of motion and β as a current opposite to its motion, then apply Fleming's left-hand rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--06-field-deflection.webp" width="900" height="920" alt="Between a positive plate above and a negative plate below, beta curves strongly up towards the positive plate, alpha bends slightly down towards the negative plate, and gamma goes straight on." loading="lazy">
+  <figcaption>Charged radiation is deflected by an electric field; gamma is not.</figcaption>
+</figure>
+
+
 ## 5.2.3 Radioactive decay
 
 Radioactive decay is a change in an **unstable nucleus** that can result in the emission of α particles or β particles and/or γ radiation. It is spontaneous and random. During α or β decay, the nucleus changes into that of a **different element**. Gamma emission alone does not change the element.
@@ -170,6 +193,12 @@ Radioactive decay is a change in an **unstable nucleus** that can result in the 
 ```
 
 The proton number identifies the new element (86 is radon, 7 is nitrogen).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
 
 ## 5.2.4 Half-life
 
@@ -208,6 +237,12 @@ The choice depends on **penetration** and **half-life**.
 | Cancer treatment | γ | long enough for the source to last | beams from several directions focus on the tumour |
 
 For thickness control, match the radiation to the material: it must be partly absorbed by the thickness being measured.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
 
 ## 5.2.5 Safety precautions
 

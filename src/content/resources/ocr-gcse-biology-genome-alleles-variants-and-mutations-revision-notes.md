@@ -56,6 +56,22 @@ Use capital and lower-case letters as a pair, such as T and t. Genotype is lette
 3. If both alleles are recessive, the recessive phenotype shows.
 4. For a dominant phenotype, say the genotype could be homozygous or heterozygous. For a recessive phenotype, the genotype is certain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--05-mp036-beetle-genotypes.webp" width="900" height="960" alt="Three rows for the beetle gene: GG homozygous, green; Gg heterozygous, green; gg homozygous, yellow. Each shows a chromosome pair with the alleles. G is dominant, g recessive." loading="lazy">
+  <figcaption>Homozygous and heterozygous describe the alleles; the phenotype follows from which are present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--06-mp036-dominant-recessive.webp" width="900" height="900" alt="A green beetle could be GG or Gg, so you cannot tell; a yellow beetle must be gg. A dominant allele shows with one copy; a recessive allele only with two copies." loading="lazy">
+  <figcaption>A recessive phenotype tells you the genotype; a dominant one does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+
 ## The genome (B5.1b)
 
 - The genome is **all the genetic material** held by an organism.
@@ -64,6 +80,17 @@ Use capital and lower-case letters as a pair, such as T and t. Genotype is lette
 - Human genome: nuclear DNA plus mitochondrial DNA. Bacterial genome: main chromosome plus plasmids.
 
 Worked reminder. A genome has 1 000 000 000 base pairs, and 2% is coding. Coding DNA = 1 000 000 000 × 0.02 = 20 000 000 base pairs. The rest, 980 000 000, is non-coding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--07-mp18-genome-coding.webp" width="900" height="740" alt="Bar to scale for a genome of 2 400 000 000 base pairs: 1.2 percent, 28 800 000 base pairs, is coding DNA and 98.8 percent, 2 371 200 000 base pairs, is non-coding. The genome is all the DNA, not just genes." loading="lazy">
+  <figcaption>Only 1.2 % of this example genome codes for protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--08-mp18-cuttings.webp" width="900" height="870" alt="Six cuttings from one parent share a genome. Three in full light measure 24, 26, 25 cm, mean 25; three in shade measure 15, 17, 16 cm, mean 16. The 9 cm difference, 36 percent lower in shade, is caused by environment." loading="lazy">
+  <figcaption>Identical genomes, different heights: the difference is due to the environment.</figcaption>
+</figure>
+
 
 ## Genome and environment (B5.1c)
 
@@ -88,6 +115,12 @@ Worked reminder. A genome has 1 000 000 000 base pairs, and 2% is coding. Coding
 
 Worked reminder. Ten cuttings from one plant: five in warm conditions have a mean height of 30 cm, five in cool conditions have a mean of 24 cm. Difference = 6 cm; 6 ÷ 30 × 100 = 20% lower in the cool conditions. Same genome, so the cause is the environment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--07-mp036-leaf-length-histogram.webp" width="900" height="1050" alt="Histogram of 50 leaf lengths with touching bars (2, 7, 17, 15, 7, 2). Modal class 12-13 cm, 17 leaves, 34 percent. Below, continuous variation (any value, many genes and environment) is compared with discontinuous (separate groups, few genes, little environment effect)." loading="lazy">
+  <figcaption>The bell shape with no gaps shows continuous variation.</figcaption>
+</figure>
+
+
 ## Mutations (B5.1d)
 
 - A mutation is a change in the DNA base sequence.
@@ -97,6 +130,17 @@ Worked reminder. Ten cuttings from one plant: five in warm conditions have a mea
 - Not all are harmful.
 
 Why a mutation may have no effect: it falls in non-coding DNA, or it changes a base without changing the amino acid the codon specifies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--09-mp18-mutation-effects.webp" width="900" height="910" alt="A grid of 200 dots: 170 (85 %) have no effect on the phenotype, 26 (13 %) influence it and 4 (2 %) determine it. Mutations are not all harmful." loading="lazy">
+  <figcaption>Most new variants have no effect on the phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
 
 ## How variants change phenotype (B5.1e, Higher Tier only)
 
@@ -131,6 +175,27 @@ Worked reminder. Normal enzyme makes product at 3.0 units per minute; the varian
 | No effect | Phenotype is the same | Change in non-coding DNA, or a codon that still gives the same amino acid |
 | Influences phenotype | Phenotype is altered a little | One amino acid swapped, enzyme works more slowly |
 | Determines phenotype | The characteristic is set by the variant | Enzyme made so short that it cannot work |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--10-mp18-codon-variants.webp" width="900" height="940" alt="Rows of mRNA codons. Normal AUG UUU GAA AAG GGU UAA gives Met-Phe-Glu-Lys-Gly. Variant A (GAG) still gives Glu so no effect; variant B (GUA) gives Val so one amino acid changes; variant C (UAA) is a stop codon so the protein ends after Met-Phe." loading="lazy">
+  <figcaption>One base change can have no effect, change one amino acid, or stop the protein early.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--11-mp18-noncoding-switch.webp" width="900" height="1130" alt="Usual: a switch protein attaches to non-coding DNA next to the lactase gene and stops transcription, so lactase is off after weaning. With a variant in the non-coding DNA the protein cannot attach, mRNA is made and lactase stays on in adults. The lactase protein itself is unchanged." loading="lazy">
+  <figcaption>A non-coding variant changes how much protein is made, not its amino acid sequence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--08-mp036-variant-active-site.webp" width="900" height="1190" alt="Normal codon GAA gives Glu and an enzyme whose active site fits the substrate. Variant GUA gives Val; the folded enzyme has a changed active site, the substrate fits poorly and the reaction slows or stops." loading="lazy">
+  <figcaption>A changed amino acid can change the active-site shape and so the enzyme activity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

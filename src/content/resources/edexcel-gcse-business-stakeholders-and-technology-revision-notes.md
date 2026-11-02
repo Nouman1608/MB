@@ -46,6 +46,12 @@ A stakeholder is anyone, or any group, affected by or concerned with a business'
 
 The specification does not fix a list of objectives, so treat the entries above as examples that you can adapt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--02-brindle-move.webp" width="900" height="840" alt="Profit bars rise from £84,000 to £96,600 (+£12,600, 15 per cent). Payroll bars rise from £210,000 to £216,300 after a 3 per cent rise of £6,300." loading="lazy">
+  <figcaption>Brindle &amp; Moor: profit up 15%, payroll up £6,300.</figcaption>
+</figure>
+
+
 ## Affected by, and impact on
 
 Two separate directions. Keep them apart in an answer.
@@ -74,6 +80,17 @@ Two separate directions. Keep them apart in an answer.
 
 A conflict answer needs two groups, two different wants and a reason they cannot both be fully met. Add a way to ease it: talks, a trial period, a phased change or a bonus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--01-eight-stakeholders.webp" width="900" height="745" alt="Eight cards, one per stakeholder group, each with a short statement of what that group typically wants: shareholders a return, employees pay and security, customers quality at a fair price, managers salary and growth, suppliers orders paid on time, the community quiet and local jobs, pressure groups a change in behaviour, the government tax, jobs and law obeyed." loading="lazy">
+  <figcaption>The eight groups the specification names, and what each typically wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## 1.5.2 Types of technology
 
 | Type | What it is (standard meaning) | Example |
@@ -82,6 +99,22 @@ A conflict answer needs two groups, two different wants and a reason they cannot
 | Social media | Platforms for posting, talking and advertising | Short videos showing how a product is made |
 | Digital communication | Electronic communication inside and outside the business | Email, video calls, messaging apps |
 | Payment systems | Electronic ways of taking or making payments | Card readers, contactless, online payment |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--03-pennine-revenue.webp" width="900" height="880" alt="Shop revenue of £20,000 (2,500 x £8) plus online revenue of £10,800 (600 x £18) gives £30,800, up 54 per cent." loading="lazy">
+  <figcaption>Online orders raise sales revenue by 54%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--04-pennine-costs.webp" width="900" height="925" alt="Online sales of £10,800 less extra costs of £8,560 (stock £5,940, fees £270, postage £2,040, hosting £60, adverts £250) leaves £2,240 extra profit." loading="lazy">
+  <figcaption>Extra costs take most of the online gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--05-tech-marketing-mix.webp" width="900" height="685" alt="One effect of technology on each of the four Ps: product, price, promotion, place." loading="lazy">
+  <figcaption>How technology touches each P of the marketing mix.</figcaption>
+</figure>
+
 
 ## Influence on sales, costs and the marketing mix
 
@@ -108,6 +141,12 @@ Revenue and total cost are given in Appendix 3. Profit and percentage change are
 - Percentage change = change ÷ original × 100 (the standard form).
 
 Reminder: a business sells 40 online orders at £25 each, so revenue is 40 × £25 = £1,000. A payment fee of 3% costs £30.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

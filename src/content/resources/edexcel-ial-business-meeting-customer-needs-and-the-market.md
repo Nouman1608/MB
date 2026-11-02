@@ -62,6 +62,42 @@ market growth (%) = change in market size / original size x 100
 
 **Risk and uncertainty.** A **risk** can be measured because there is data to estimate its likelihood, such as seasonal sales that Mirabeau has recorded for five years. **Uncertainty** cannot be measured because there is no reliable basis for estimating the outcome, such as an unforeseen invention that replaces kites as a hobby. Research reduces risk but cannot remove uncertainty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--01-stratified-sample.webp" width="900" height="1190" alt="A bar of 2,400 customers (480, 1,200, 720) leads to a 10 by 10 grid of 100 dots coloured 20, 50 and 30 by group. Each group is then picked at random. The sums 480/2,400 x 100 = 20, 1,200/2,400 x 100 = 50 and 720/2,400 x 100 = 30 are shown." loading="lazy">
+  <figcaption>A stratified sample takes a random pick from each group in proportion to its size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--02-share-falls-as-market-grows.webp" width="900" height="960" alt="Two bars show the market growing from 9.0m to 10.8m (+20%) while Mirabeau sales grow from 1.35m to 1.512m (+12%). Its share falls from 15% to 14%." loading="lazy">
+  <figcaption>A firm's sales can rise while its market share falls if the market grows faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--01-dynamic-market-competition.webp" width="900" height="1050" alt="A circle for the market with four arrows in from new technology, shifting tastes, new entrants and income changes. Below, three rows: competition acts through price, quality and service, and profit. Fewer rivals give more pricing power." loading="lazy">
+  <figcaption>What changes a market and how rivals affect a firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--02-risk-vs-uncertainty.webp" width="900" height="1020" alt="Five bars show illustrative seasonal sales over five years, so likelihood can be estimated: a risk. A dashed box with a question mark shows an unforeseen invention replacing kites: uncertainty. Research reduces risk, not uncertainty." loading="lazy">
+  <figcaption>Risk has data behind it; uncertainty does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--03-differentiation-adds-value.webp" width="900" height="1060" alt="Two stacked bars with illustrative numbers: a plain kite with inputs 6 and price 10 adds value 4; a branded kite with inputs 7 and price 14 adds value 7. Four steps show design, service and brand leading to a higher supported price." loading="lazy">
+  <figcaption>Differentiation and branding add value and support a higher price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ## 1.3.1 (2): Market research
 
 Research is used to **identify and anticipate customer needs and wants**, **quantify likely demand** and **gain insight into consumer behaviour**.
@@ -120,6 +156,17 @@ Research is used to **identify and anticipate customer needs and wants**, **quan
 
 When interpreting a diagram, say what moved, which way, the new equilibrium, and what that means for the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--03-bicycle-market-shifts.webp" width="900" height="1260" alt="Two graphs of price against quantity. Demand Qd = 800 - 40P and supply Qs = 200 + 20P meet at 10 pounds and 400. A rival price rise shifts demand to 920 - 40P, giving 12 pounds and 440. A cost rise shifts supply to 80 + 20P, giving 12 pounds and 320." loading="lazy">
+  <figcaption>Demand and supply shifts in the city bicycle market, with the new equilibrium each time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--04-demand-supply-shifters.webp" width="900" height="1140" alt="Two graphs using the lesson bicycle market: demand moves right when a substitute price rises, equilibrium 400 at 10 to 440 at 12; supply moves left when costs rise, equilibrium 320 at 12. Chips list which shifters move each curve right, left or either way." loading="lazy">
+  <figcaption>Which factors shift demand and supply, and which way.</figcaption>
+</figure>
+
+
 ## 1.3.2: Price elasticity of demand (PED)
 
 ```
@@ -147,6 +194,17 @@ PED is normally negative, because price and quantity move in opposite directions
 
 **Significance for pricing.** A firm with inelastic demand can raise price to lift revenue, which is why it works to differentiate and build its brand. A firm facing elastic demand may gain by cutting price, but must check what happens to profit, because costs rise with volume and rivals may respond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--04-ped-revenue-two-cases.webp" width="900" height="1200" alt="Price-times-quantity rectangles for Rusholme Cycles (price +10%, quantity -20%, PED -2.0, revenue falls 600,000 to 528,000) and Oakhampton Preserves (price +10%, quantity -5%, PED -0.5, revenue rises 120,000 to 125,400)." loading="lazy">
+  <figcaption>The same 10% price rise lowers revenue when demand is elastic and raises it when demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--05-elasticity-influences.webp" width="900" height="1180" alt="Five bars contrast what makes demand more or less price elastic: substitutes, type of good, share of income, brand loyalty and time. A number line shows YED: inferior below 0 (budget jam -0.8), inelastic 0 to 1, income elastic above 1 (premium bikes +2.0)." loading="lazy">
+  <figcaption>What pushes PED and YED up or down.</figcaption>
+</figure>
+
+
 ## 1.3.2: Income elasticity of demand (YED)
 
 ```
@@ -158,6 +216,12 @@ Here the sign matters. A **normal good** has positive YED (demand rises with inc
 **Worked example.** Average income rises from £30,000 to £31,500 (+5%). Rusholme's premium bikes rise from 2,000 to 2,200 (+10%): YED = **+2.0**. Oakhampton's budget jam falls from 10,000 to 9,600 (-4%): YED = -4 / 5 = **-0.8**, so it is inferior.
 
 **Influences:** how much of a necessity or luxury the good is, its price level relative to alternatives, and how quickly consumers upgrade. **Significance:** firms selling high-YED goods gain most in a boom and lose most in a recession, so they may add lower-priced lines or spread risk across products. A firm selling inferior goods may benefit when incomes fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--05-yed-normal-inferior.webp" width="900" height="1030" alt="With income up 5%, premium bikes rise 10% (YED +2.0, income elastic) and budget jam falls 4% (YED -0.8, inferior). A scale shows below 0 inferior, 0 to 1 income inelastic, above 1 income elastic." loading="lazy">
+  <figcaption>The sign of YED separates normal goods from inferior goods.</figcaption>
+</figure>
+
 
 ## Common errors
 

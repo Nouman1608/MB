@@ -43,6 +43,12 @@ The specification lists five reasons. Learn them as a set.
 | Fulfilling a business opportunity | Spots something missing locally |
 | Providing a good or service to benefit others | A cause or community aim |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--05-reasons-for-starting.webp" width="900" height="850" alt="Five rows give the reasons the specification lists with an example each: producing goods, supplying services, distributing products, fulfilling a business opportunity and benefiting others." loading="lazy">
+  <figcaption>Five reasons for starting a business, each with an example.</figcaption>
+</figure>
+
+
 ### Key definitions
 
 | Term | Definition |
@@ -61,6 +67,12 @@ Land (natural resources and sites), labour (people), capital (man-made resources
 
 Memory aid: a printing firm's plot of land is land, its press operators are labour, its printing press is capital and its owner's decision to set up is enterprise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+
 ### Sectors
 
 | Sector | Activity | Examples |
@@ -69,6 +81,12 @@ Memory aid: a printing firm's plot of land is land, its press operators are labo
 | Secondary | Manufacturing and building | Furniture making, construction |
 | Tertiary | Services | Retail, banking, hairdressing |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+
 ### Opportunity cost method
 
 1. List the options and the value of each.
@@ -76,6 +94,12 @@ Memory aid: a printing firm's plot of land is land, its press operators are labo
 3. Opportunity cost is the value of the second best, not the sum of all the rest.
 
 Worked reminder: Zephyrwick Loft Conversions can take one job this month: a loft conversion earning £4,800 profit, or a garage conversion earning £3,900 profit, or two small repair jobs earning £2,100 between them. It takes the loft conversion. The opportunity cost is £3,900.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
 
 ### Entrepreneurs
 
@@ -96,6 +120,12 @@ The four named causes are technology, economic situation, legislation and enviro
 
 The specification also asks you to be aware of the effect on the four functional areas: business operations, human resources, marketing and finance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--02-changing-environment.webp" width="900" height="1010" alt="Four boxes (technology, economic situation, legislation, environmental expectations) each point an arrow at a business building. Each has a short effect from the lesson." loading="lazy">
+  <figcaption>Four named drivers keep the business environment changing.</figcaption>
+</figure>
+
+
 ## 3.1.2 Business ownership
 
 ### Liability
@@ -112,6 +142,12 @@ Unlimited liability: the owner is personally responsible for all business debts,
 Not-for-profit organisations: do not assume. State the position only if the question gives it.
 
 Worked reminder: Cordell & Finch Joinery owes £41,000 and its assets sell for £17,500. The shortfall is £41,000 − £17,500 = £23,500. As a partnership, the partners are personally liable for it. As a ltd, a shareholder who invested £8,000 loses that £8,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
 
 ### Comparison table
 
@@ -147,6 +183,27 @@ Debt shortfall: debts − asset sale proceeds.
 
 Check: a ratio of 3:1 on £36,000 profit gives £27,000 and £9,000. Dividends of £12,000 on 40,000 shares give 30p per share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--01-profit-sharing.webp" width="900" height="920" alt="Two worked examples of sharing profit. A partnership with profit of 54,000 pounds split 60:40 gives 32,400 and 21,600 pounds. A private limited company paying 18,000 pounds on 30,000 shares pays 60p a share, so 12,000 shares receive 7,200 pounds." loading="lazy">
+  <figcaption>Profit is shared by agreed split in a partnership and by shares held in a company.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--06-ownership-compare.webp" width="900" height="928" alt="A table compares sole trader, partnership, private limited company, public limited company and not-for-profit on control, finance, liability and profits. Liability cells are colour-coded: unlimited, limited or depends." loading="lazy">
+  <figcaption>The five ownership forms compared on control, finance, liability and profits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--07-choosing-a-structure.webp" width="900" height="970" alt="Three numbered steps: identify needs, weigh options, judge and justify. Two worked examples follow: a dog-grooming start-up pointing to a sole trader and a fifty-branch chain pointing to a plc, each with a warning." loading="lazy">
+  <figcaption>The evaluation method applied to a start-up and a large chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Goods versus services: goods can be touched; services are carried out.
@@ -156,6 +213,12 @@ Check: a ratio of 3:1 on £36,000 profit gives £27,000 and £9,000. Dividends o
 - Limited liability versus limited company: liability is the feature, company is the structure.
 - Ltd versus plc: who may buy shares.
 - Profit (kept by owners) versus surplus (normally reinvested in a not-for-profit organisation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

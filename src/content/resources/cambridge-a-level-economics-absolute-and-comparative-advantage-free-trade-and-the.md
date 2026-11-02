@@ -57,6 +57,17 @@ Step 4, comparative advantage. Alpha gives up less cloth per tea (0.625 against 
 
 A check: with two goods and two countries, if one country has the lower opportunity cost of tea, the other must have the lower opportunity cost of cloth. If both countries had identical opportunity costs, there would be no comparative advantage and no gain from specialising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--01-comparative-advantage-ppcs.webp" width="900" height="1000" alt="Two straight-line PPCs for Alpha (48 tea or 30 cloth) and Beta (48 tea or 36 cloth) share a tea axis. Alpha gives up 0.625 cloth per tea and Beta 0.75, so Alpha has the comparative advantage in tea. Beta gives up fewer tea per cloth, so it has the advantage in cloth." loading="lazy">
+  <figcaption>Flatter PPC means a lower opportunity cost of tea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--07-absolute-advantage-hours.webp" width="900" height="810" alt="Alpha needs 5 hours per tea and 8 per cloth; Beta needs 9 and 12. Alpha needs fewer hours for both so has an absolute advantage in both." loading="lazy">
+  <figcaption>Absolute advantage compares the resources needed per unit.</figcaption>
+</figure>
+
+
 ## 6.1.2 Specialisation, free trade and the trading possibility curve
 
 **Specialisation** means a country concentrates on the goods in which it has a comparative advantage. **Free trade** (trade liberalisation) means exchange without tariffs, quotas or other barriers. Together they let countries produce more in total and consume more than they could alone.
@@ -90,6 +101,12 @@ For Alpha, the PPC is a straight line from 48 tea (no cloth) to 30 cloth (no tea
 
 The better the price Alpha gets for its tea, the more cloth each unit buys and the further out the TPC swings. At 0.75 cloth per tea (Beta's opportunity cost) Alpha would take the whole gain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--03-tpc-vs-ppc.webp" width="900" height="960" alt="Alpha PPC runs from 48 tea to 30 cloth. The TPC runs from 48 tea to 32 cloth (48 x 2/3) and lies outside the PPC except at the tea-only point. At 24 tea the PPC allows 15 cloth but trade allows 16." loading="lazy">
+  <figcaption>Trading at 3 tea for 2 cloth lets Alpha consume beyond its PPC.</figcaption>
+</figure>
+
+
 ### Wider benefits of free trade
 
 - Greater variety and lower prices for consumers, because imports compete with domestic goods.
@@ -97,6 +114,12 @@ The better the price Alpha gets for its tea, the more cloth each unit buys and t
 - Competition pushes firms to improve efficiency and innovate.
 - Access to resources and inputs a country lacks.
 - Higher export revenue and, through the multiplier, higher income and employment, although this is not guaranteed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--02-gains-from-specialising.webp" width="900" height="950" alt="World output rises from 48 tea and 33 cloth to 48 tea and 36 cloth after complete specialisation. At 3 tea for 2 cloth Alpha ends with 16 cloth (+1) and Beta with 20 cloth (+2), with no loss of tea." loading="lazy">
+  <figcaption>Specialising and trading gives 3 more cloth with no tea lost, shared 1 and 2.</figcaption>
+</figure>
+
 
 ## 6.1.3 Exports, imports and the terms of trade
 
@@ -131,6 +154,12 @@ The terms of trade fell from 120.0 to 95.0. The percentage change is (95.0 − 1
 | Higher inflation at home than abroad | Export prices rise faster than import prices: improve at first, but competitiveness falls |
 | Increase in the supply of a commodity from many producers | Export prices fall for commodity exporters: worsen |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--08-terms-of-trade-causes.webp" width="900" height="910" alt="Seven causes with their effect on the terms of trade: rising export demand, appreciation and (at first) higher home inflation improve it; dearer oil, depreciation, more commodity suppliers worsen it; higher export productivity may worsen it." loading="lazy">
+  <figcaption>Each cause moves export or import prices and so the index.</figcaption>
+</figure>
+
+
 ### Impact of a change
 
 An improvement means the country gets more imports for the same exports. Suppose it exports 400 units at 18 currency units (cu) while imports cost 15 cu each. The exports buy 400 × 18 ÷ 15 = 480 import units. Before the rise in export prices (when export prices were 15 cu) they bought only 400.
@@ -141,6 +170,17 @@ Do not stop there. The effect on export **revenue** depends on the price elastic
 - If demand is inelastic, with PED of −0.5, volume falls 10%. Revenue index = 1.20 × 0.90 = 1.08, an 8% rise.
 
 Other impacts to consider: cheaper imports lower costs for firms and reduce imported inflation, but a worsening of the terms of trade means a country must export more to buy the same imports, which reduces real income and living standards. A fall in the terms of trade is not always bad: if it comes from higher productivity, firms are more competitive and sell more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--04-terms-of-trade-index.webp" width="900" height="970" alt="Export prices stay at 114 while import prices rise from 95 to 120. The terms of trade index (exports divided by imports times 100) falls from 120.0 to 95.0, a fall of 20.8%, so the terms of trade worsen." loading="lazy">
+  <figcaption>The terms of trade index is export prices over import prices, so dearer imports lower it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--05-terms-of-trade-revenue.webp" width="900" height="980" alt="A 20% rise in export prices with elastic demand (PED -1.8) cuts volume to index 64 and revenue to 76.8, a 23.2% fall. With inelastic demand (PED -0.5) volume is 90 and revenue 108, an 8% rise." loading="lazy">
+  <figcaption>An improved terms of trade can raise or lower export revenue depending on elasticity.</figcaption>
+</figure>
+
 
 ## 6.1.4 Limitations of the theories
 
@@ -161,6 +201,17 @@ The theory rests on assumptions that rarely hold. State the limitation, then say
 - **Overspecialisation and dependence.** A country relying on one export is exposed to price falls, shortages of imports and political disputes. Example 3 shows how fast the terms of trade can move.
 - **Other assumptions.** Perfect competition, full employment, perfect information, identical goods and no trade barriers are assumed. Real trade involves exchange-rate changes, differences in quality, imperfect competition and external costs such as pollution from transport.
 - **Distribution.** Gains are not shared equally. Some workers, industries and regions lose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--09-increasing-opportunity-costs.webp" width="900" height="840" alt="Each extra 20 cloth costs 10, then 15, then 25 tea, which is 0.50, 0.75 and 1.25 tea per cloth. Comparative advantage shrinks as cloth output rises." loading="lazy">
+  <figcaption>Opportunity cost rises as a country specialises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--10-transport-costs-erase-gain.webp" width="900" height="830" alt="The gain from specialising was 3 cloth. Shipping worth 3 cloth leaves a net gain of 0, and shipping worth more (4 is illustrative) leaves a net loss." loading="lazy">
+  <figcaption>Transport costs can wipe out the gain from trade.</figcaption>
+</figure>
+
 
 ## Common errors
 

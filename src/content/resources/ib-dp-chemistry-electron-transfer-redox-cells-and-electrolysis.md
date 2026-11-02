@@ -66,6 +66,12 @@ Oxidation states treat every bond as ionic, so they are bookkeeping, not real ch
 
 **Worked example 2.** In SO₂ + 2H₂S → 3S + 2H₂O, sulfur in SO₂ goes from +4 to 0 (reduced) and sulfur in H₂S goes from −2 to 0 (oxidized). So **SO₂ is the oxidizing agent** and **H₂S is the reducing agent**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--01-oxidation-state-line.webp" width="900" height="780" alt="Two number lines run from -3 to +7. Nitrogen: NH4+ is -3, N2 is 0, N2O is +1, NO is +2 and HNO3 is +5. Manganese: Mn2+ is +2, MnO2 is +4 and MnO4- is +7. Moving right is oxidation, moving left is reduction." loading="lazy">
+  <figcaption>Oxidation states of N and Mn placed on a number line: higher means more oxidized.</figcaption>
+</figure>
+
+
 ## Reactivity 3.2.2 Half-equations
 
 To balance a half-equation in acidic solution:
@@ -88,6 +94,12 @@ To combine two, multiply so the electrons match, add, and cancel.
 In **neutral solution**, with no oxygen moving, no H⁺ is needed: Mg → Mg²⁺ + 2e⁻ and Ag⁺ + e⁻ → Ag give Mg + 2Ag⁺ → Mg²⁺ + 2Ag.
 
 A titration with manganate(VII) is self-indicating: purple MnO₄⁻ is reduced to almost colourless Mn²⁺, so the first lasting pink marks the end point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--06-lead-acid-charge.webp" width="900" height="1210" alt="The lead-acid cell is shown discharging (lamp) and charging (power supply). On discharge Pb is the anode and PbO2 the cathode; on charge both half-equations reverse, so Pb becomes the cathode and PbO2 the anode, and electrons flow the other way." loading="lazy">
+  <figcaption>Charging reverses each discharge half-equation, so the electrode roles swap.</figcaption>
+</figure>
+
 
 ## Reactivity 3.2.3 Trends in a group
 
@@ -113,6 +125,17 @@ A more easily reduced halogen displaces a less easily reduced one from its halid
 | Ag | ✗ | ✗ | ✗ | – |
 
 The metal reacting with most ions is oxidized most easily: **Cr > Ni > Pb > Ag**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--02-halogen-displacement.webp" width="900" height="900" alt="Chlorine water turns a bromide solution yellow-orange and bromine water turns an iodide solution brown, because the more easily reduced halogen displaces the other. Iodine does not react with bromide or chloride. Ease of reduction falls Cl2, Br2, I2." loading="lazy">
+  <figcaption>A halogen displaces any halide below it in group 17 because it is more easily reduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--03-metal-ranking-grid.webp" width="900" height="900" alt="A grid shows each metal meeting the ions of the others: Cr deposits Ni, Pb and Ag; Ni deposits Pb and Ag; Pb deposits Ag; Ag deposits nothing. More ticks means easier oxidation, giving Cr, Ni, Pb, Ag." loading="lazy">
+  <figcaption>The metal that reacts with most ions is oxidized most easily.</figcaption>
+</figure>
+
 
 ## Reactivity 3.2.4 Reactive metals and dilute acids
 
@@ -149,6 +172,17 @@ A **primary (voltaic) cell** turns the energy of a spontaneous redox reaction in
 - Electrons flow through the wire **from the nickel anode to the silver cathode**.
 - Use KNO₃ in the bridge; chloride would precipitate AgCl.
 - **Anions** (NO₃⁻) move toward the anode half-cell, where Ni²⁺ builds up; **cations** (K⁺) move toward the cathode half-cell, where Ag⁺ is removed. This keeps both solutions neutral and completes the circuit. Electrons never pass through the bridge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--04-voltaic-nickel-silver.webp" width="900" height="920" alt="Nickel in Ni2+ and silver in Ag+ are joined by a wire with a voltmeter and a KNO3 salt bridge. Electrons flow from the nickel anode (negative) to the silver cathode (positive). Nitrate ions move toward the anode half-cell and potassium ions toward the cathode half-cell." loading="lazy">
+  <figcaption>Electrons travel through the wire only; ions in the salt bridge keep both half-cells neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--05-voltaic-vs-electrolytic.webp" width="900" height="1140" alt="A voltaic cell with a lamp and an electrolytic cell with a power supply are drawn with the anode on the left and cathode on the right. Voltaic: anode negative, cathode positive. Electrolytic: anode positive, cathode negative. Oxidation is at the anode and electrons flow anode to cathode in both." loading="lazy">
+  <figcaption>Only the electrode signs change between voltaic and electrolytic cells.</figcaption>
+</figure>
+
 
 ## Reactivity 3.2.7 Secondary cells, and comparing cells
 
@@ -206,6 +240,17 @@ Write the oxidizing agent as [O]; the reagent is not assessed. Acidified dichrom
 
 - For the **aldehyde**, **distil** as it forms. With no hydrogen bonding between its molecules, it boils below the alcohol and leaves before further oxidation.
 - For the **carboxylic acid**, heat under **reflux** with excess oxidizing agent. Vapour condenses in the vertical condenser and drips back, so the aldehyde cannot escape before it is oxidized further.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--07-alcohol-oxidation.webp" width="900" height="900" alt="A primary alcohol is oxidized to an aldehyde and then a carboxylic acid; a secondary alcohol to a ketone; a tertiary alcohol is not oxidized because the carbon bearing OH has no hydrogen to lose. The carbon bearing OH is marked in gold." loading="lazy">
+  <figcaption>Oxidation needs a hydrogen on the carbon holding OH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--08-distil-or-reflux.webp" width="900" height="1240" alt="Distillation: the aldehyde boils off as it forms and is collected before further oxidation. Reflux: a vertical condenser returns condensed vapour to the flask so the aldehyde is oxidized to the carboxylic acid. Cooling water enters at the bottom of the condenser and leaves at the top." loading="lazy">
+  <figcaption>The apparatus decides whether oxidation stops at the aldehyde or goes on to the acid.</figcaption>
+</figure>
+
 
 ## Reactivity 3.2.10 Reduction of carbonyl compounds
 

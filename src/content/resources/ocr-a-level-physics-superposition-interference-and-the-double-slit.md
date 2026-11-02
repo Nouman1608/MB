@@ -66,6 +66,12 @@ The sums form a sine curve of the same frequency. Its greatest value is about 3.
 
 Two limiting cases matter. In phase, amplitudes add (3.0 + 2.0 = 5.0 cm). In antiphase they subtract (3.0 − 2.0 = 1.0 cm). If the amplitudes are equal in antiphase, the resultant is zero at every point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+
 ## 4.4.3(c) and (d): interference, coherence, path and phase difference
 
 **Interference** is the superposition of waves that gives a pattern of reinforcement and cancellation. **Constructive interference** gives a larger resultant amplitude. **Destructive interference** gives a smaller one, and complete cancellation if the amplitudes are equal.
@@ -86,6 +92,17 @@ For two sources that emit **in phase**:
 | Destructive | (n + ½)λ | (2n + 1)π rad (180°, 540°, …) |
 
 If the sources are in antiphase, the conditions swap: a path difference of nλ now gives destructive interference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
 
 ## 4.4.3(e): two-source interference with sound and microwaves
 
@@ -116,6 +133,12 @@ Light from a single narrow slit (or a laser) falls on two slits very close toget
 This was a **classical confirmation of the wave nature of light**. Newton favoured a particle (corpuscular) picture, while Huygens developed a wave picture. Interference, with cancellation of light by light, can be explained with waves, and particle models of the time could not account for it.
 
 With white light the central fringe is white, because every wavelength has zero path difference there. The other fringes are coloured because each colour has a different spacing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--07-aphy-waves-double-slit.webp" width="900" height="1120" alt="A laser lights two slits a distance s apart, giving equally spaced fringes of spacing w = lambda D / s on a screen distance D away (not to scale). For 633 nm, 0.50 mm and 1.80 m, w = 2.28 mm. With white light the central fringe is white and violet fringes lie nearer the centre than red ones." loading="lazy">
+  <figcaption>Fringe spacing w = lambda D / s; white light gives a white centre and coloured fringes.</figcaption>
+</figure>
+
 
 ## 4.4.3(g)(i): λ = ax/D
 
@@ -164,6 +187,17 @@ Highest order: d/λ = 1.333 × 10⁻⁶ / 4.2 × 10⁻⁷ ≈ 3.2, so **3**.
 **Procedure.** Shine a laser through the grating at normal incidence onto a screen a distance L away. Measure the distance y from the central maximum to the order n spot. Then tan θ = y/L gives θ, and λ = d sin θ / n. For a grating, θ is large, so do not replace sin θ with tan θ. Averaging the angles on the left and right of the centre reduces error.
 
 With white light, each order other than the zeroth is a spectrum with violet nearest the centre. For two slits (d = a) and small angles, d sin θ = nλ reduces to the fringe spacing in λ = ax/D.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Common errors
 

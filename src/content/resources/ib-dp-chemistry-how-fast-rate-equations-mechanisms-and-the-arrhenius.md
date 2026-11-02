@@ -64,6 +64,12 @@ Passing both tests shows consistency, not proof, so mechanisms are only ever "po
 
 To predict the rate equation, look at the species that react in the RDS. If the RDS is the first step, its reactants appear in the rate equation directly. If the RDS comes **after** a fast step, any intermediate in the RDS is replaced by the reactants that formed it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--02-testing-mechanisms.webp" width="900" height="1120" alt="Two mechanisms for 2NO + O2 drawn with atoms. Mechanism II (fast NO + NO to N2O2, slow N2O2 + O2 to 2NO2) predicts rate = k[NO]^2[O2] and matches the experiment. Mechanism III (slow NO + O2 to NO3) predicts k[NO][O2] and is rejected." loading="lazy">
+  <figcaption>The slow step, with any intermediate replaced by what made it, predicts the rate equation to compare with experiment.</figcaption>
+</figure>
+
+
 ### Worked example 1: nitrogen monoxide and oxygen
 
 Experiment shows that for 2NO(g) + O₂(g) → 2NO₂(g), rate = k[NO]²[O₂]. Evaluate three proposals.
@@ -103,6 +109,12 @@ The first hump (85) is taller than the second (50), so **step 1 is the RDS**. A 
 
 Label the axes (potential energy, reaction coordinate), both transition states, the intermediate, the Ea of the RDS and the overall ΔH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--01-two-step-profile.webp" width="900" height="900" alt="A two-step energy profile with reactants at 0 kJ per mole, transition states at 85 and 50, an intermediate trough at +30 and products at -60. Transition states are hump tops and the intermediate is the trough between them. The first hump is taller, so step 1 is the rate-determining step." loading="lazy">
+  <figcaption>Transition states sit at the top of humps; the intermediate sits in the trough; the tallest hump is the RDS.</figcaption>
+</figure>
+
+
 ## Molecularity (2.2.8)
 
 **Molecularity** counts how many particles react together in a single elementary step.
@@ -112,6 +124,12 @@ Label the axes (potential energy, reaction coordinate), both transition states, 
 - **Termolecular:** three particles collide at once. This is rare, because a three-body collision with enough energy and the right orientation is very unlikely.
 
 Molecularity belongs to **one step**; order belongs to the **rate equation** and is found by experiment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--03-molecularity.webp" width="900" height="1050" alt="Three rows: one particle splitting (RX to R+ and X-), two particles colliding to form AB, and three particles meeting at once, which is rare. Molecularity belongs to one step, whereas order belongs to the whole rate equation." loading="lazy">
+  <figcaption>Molecularity counts the particles in a single step; termolecular steps are rare.</figcaption>
+</figure>
+
 
 ## Rate equations from experimental data (2.2.9 and 2.2.10)
 
@@ -156,6 +174,17 @@ At a fixed temperature:
 
 To get rate–concentration data, draw tangents to a concentration–time curve and plot each gradient against the concentration there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--05-order-graphs.webp" width="900" height="1000" alt="Six graphs. Concentration against time: straight line (zero), constant half-life curve (first), steep-then-levelling curve (second). Rate against concentration: horizontal line, straight line through the origin, upward parabola." loading="lazy">
+  <figcaption>Each order has a characteristic concentration-time and rate-concentration shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--06-order-from-tangents.webp" width="900" height="1110" alt="A concentration-time curve with three numbered tangents and the resulting rate against concentration plot. Halving the concentration from 0.080 to 0.040 divides the rate by 4, so the reaction is second order with k = 0.050 mol-1 dm3 s-1." loading="lazy">
+  <figcaption>Tangent gradients on a concentration-time curve give the rates that show the order.</figcaption>
+</figure>
+
+
 ### Worked example 4: order from tangents
 
 Buta-1,3-diene dimerises in the gas phase. Tangents drawn to its concentration–time curve give:
@@ -165,6 +194,12 @@ Buta-1,3-diene dimerises in the gas phase. Tangents drawn to its concentration�
 | Rate / mol dm⁻³ s⁻¹ | 3.2 × 10⁻⁴ | 8.0 × 10⁻⁵ | 2.0 × 10⁻⁵ |
 
 Halving the concentration (0.080 → 0.040) divides the rate by 4, so the reaction is **second order**. Then k = 3.2 × 10⁻⁴ ÷ 0.080² = **0.050 mol⁻¹ dm³ s⁻¹**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--04-initial-rates.webp" width="900" height="960" alt="Two bar-chart panels. Tripling [Cl2] with [NO] fixed triples the rate (first order). Raising [NO] by 2.5 times with [Cl2] fixed raises the rate by 6.25 times, which is 2.5 squared (second order). So rate = k[NO]^2[Cl2]." loading="lazy">
+  <figcaption>Compare the factor in concentration with the factor in rate to find each order.</figcaption>
+</figure>
+
 
 ## The rate constant and its units (2.2.11)
 
@@ -180,6 +215,12 @@ Rearrange the rate equation to find the units of k: units of k = (mol dm⁻³ s�
 | rate = k[A]²[B] | third | mol⁻² dm⁶ s⁻¹ |
 
 **Link to Reactivity 3.4.** A primary halogenoalkane reacts with aqueous alkali in one step (SN2), so rate = k[RX][OH⁻], with k in mol⁻¹ dm³ s⁻¹. A tertiary halogenoalkane reacts by SN1: a slow first step forms a carbocation **intermediate**, which then reacts quickly with OH⁻. So rate = k[RX], with k in s⁻¹, and the hydroxide ion is zero order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--07-units-of-k.webp" width="900" height="990" alt="Four rows link overall order to units of k: zero order mol dm-3 s-1, first s-1, second mol-1 dm3 s-1, third mol-2 dm6 s-1. SN2 of a primary halogenoalkane has k in mol-1 dm3 s-1; SN1 of a tertiary one has k in s-1." loading="lazy">
+  <figcaption>Units of k follow from dividing mol dm-3 s-1 by concentration raised to the overall order.</figcaption>
+</figure>
+
 
 ## The Arrhenius equation (2.2.12)
 
@@ -197,6 +238,12 @@ The linear form matches y = mx + c. Plot **ln k (y) against 1/T (x)**:
 - the y-intercept is **ln A**.
 
 A steeper line means a larger Ea and a k more sensitive to temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--08-arrhenius-gradient.webp" width="900" height="990" alt="A plot of ln k against 1/T with four points on a falling straight line from 300 K to 330 K and a gradient triangle with rise 2.625 and run -3.03e-4. The gradient is -8.66e3 K, equal to -Ea/R, so Ea = 72.0 kJ per mole." loading="lazy">
+  <figcaption>The gradient of ln k against 1/T is -Ea/R.</figcaption>
+</figure>
+
 
 ## The Arrhenius factor, A (2.2.13)
 
@@ -222,6 +269,12 @@ Ea = 8.66 × 10³ × 8.31 = 7.20 × 10⁴ J mol⁻¹ = **72.0 kJ mol⁻¹**
 ln A = ln k − gradient × (1/T) = −2.354 + 8.66 × 10³ × 3.030 × 10⁻³ = 23.89
 
 A = e^23.89 ≈ **2.4 × 10¹⁰ s⁻¹** (units of a first-order k)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--09-arrhenius-intercept.webp" width="900" height="990" alt="The Arrhenius line extended back to 1/T = 0 meets the vertical axis at ln A = 23.89, so A is about 2.4e10 per second. The equation ln k = -(Ea/R)(1/T) + ln A is colour-coded to match the gradient and intercept." loading="lazy">
+  <figcaption>Extrapolating ln k against 1/T to 1/T = 0 gives ln A, the y-intercept.</figcaption>
+</figure>
+
 
 ## Common errors
 

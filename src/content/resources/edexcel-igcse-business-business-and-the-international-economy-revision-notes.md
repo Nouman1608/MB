@@ -81,6 +81,17 @@ Why a business becomes a multinational:
 
 Must-know distinction: a benefit to the multinational (for example lower costs) is not automatically a benefit to the host country. Always say who gains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--05-sundar-foods-host-town.webp" width="900" height="930" alt="Sundar Foods, an invented multinational, opens a packaging plant employing 800 people. Benefit: regular wages, so shops and landlords gain extra spending. Drawback: the plant sells to the same buyers as local packaging firms at a lower price; those firms lose customers, several close and their workers lose jobs. The net effect depends on new jobs and tax income against jobs lost, and how long Sundar stays." loading="lazy">
+  <figcaption>A multinational plant brings jobs and spending but can close local firms; the net effect needs judging.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--12-mnc-business-advantages.webp" width="900" height="910" alt="A hub labelled MNC links six advantages: larger markets, lower costs, avoiding trade barriers, economies of scale, spreading risk and a global brand." loading="lazy">
+  <figcaption>Six advantages to a business of becoming a multinational company.</figcaption>
+</figure>
+
+
 ## 1.5.3 Exchange rate calculations
 
 The specification does not state a formula or rule. The multiply and divide rule below is standard knowledge, not specification wording:
@@ -99,6 +110,27 @@ Steps:
 
 Worked reminder: £1 = USD 1.60. A £35 item costs 35 × 1.60 = USD 56. A bill of USD 840 is 840 ÷ 1.60 = £525.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--02-rate-multiply-divide.webp" width="900" height="980" alt="With the invented rate £1 = USD 1.25, a dollar is worth less than a pound so a pound buys more dollars. Pounds to dollars means multiplying by 1.25: £48 becomes USD 60.00. Dollars to pounds means dividing by 1.25: USD 750 becomes £600. Pounds to dollars should give a bigger number and dollars to pounds a smaller one." loading="lazy">
+  <figcaption>Multiply to go from pounds to dollars, divide to come back, and check the answer is the right size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--03-import-cost-rate-rise.webp" width="900" height="790" alt="An invented firm buys parts costing EUR 9,000. At £1 = EUR 1.20 they cost £7,500; if the pound strengthens to £1 = EUR 1.50 the same parts cost £6,000, which is £1,500 less. Bars show the two costs with the saving marked." loading="lazy">
+  <figcaption>When the pound buys more euros, identical imported parts cost fewer pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--14-exchange-rate-effects.webp" width="900" height="830" alt="A grid of exporters and importers against appreciation and depreciation of the home currency. Appreciation: exporters lose competitiveness, importers see lower costs. Depreciation: the reverse." loading="lazy">
+  <figcaption>Appreciation and depreciation affect exporters and importers in opposite ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--08-pound-matrix.webp" width="900" height="930" alt="A grid shows a stronger pound hurts exporters and helps importers, while a weaker pound helps exporters and hurts importers. Firms that both import and export are partly protected." loading="lazy">
+  <figcaption>The direction of the pound has opposite effects on exporters and importers.</figcaption>
+</figure>
+
+
 ## 1.5.4 Exchange rate changes
 
 | Effect of a stronger home currency | Effect of a weaker home currency |
@@ -116,6 +148,12 @@ Linking points (standard knowledge, not specification wording):
 - Price contracts agreed in advance can delay the effect.
 - A business may absorb a change in its margin rather than change its price.
 - Competitiveness also depends on quality, brand and service, not only on price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--04-exporter-importer-stronger-pound.webp" width="900" height="940" alt="When the pound strengthens from £1 = USD 1.25 to USD 1.40, an £80 machine part rises in the US from USD 100 to USD 112, up 12 per cent, so the exporter may lose sales. The same firm importing USD 2,500 of tools pays £1,785.71 instead of £2,000, saving £214.29, so the importer is helped. A firm doing both compares the two effects." loading="lazy">
+  <figcaption>A stronger pound hurts this exporter and helps this importer.</figcaption>
+</figure>
+
 
 ## Quick links between points
 
@@ -138,6 +176,12 @@ Match your response to the command word in the question.
 Short model for an explain answer: "If the pound strengthens, a UK exporter's goods cost more in dollars. US buyers may switch to cheaper suppliers, so the exporter's sales fall."
 
 Short model for a judgement: "Becoming a multinational gives the firm access to a larger market, but the cost of building abroad is high. Overall it is worthwhile only if overseas demand is likely to be large enough to repay that cost."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--01-quillbeck-threat-opportunity.webp" width="900" height="960" alt="Quillbeck Cycles, an invented business with 30 employees, faces a threat and an opportunity. Threat: a larger overseas maker selling at lower prices takes local customers, so local sales revenue falls. Opportunity: its website reaches buyers in other countries, far more customers than the home market holds. The judgement is to compare what each costs or earns and whether craftsmanship can hold overseas buyers." loading="lazy">
+  <figcaption>The same website brings a threat and an opportunity; a good answer weighs them.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -164,6 +208,12 @@ Short model for a judgement: "Becoming a multinational gives the firm access to 
 8. 50 × 1.30 = USD 65 before; 50 × 1.10 = USD 55 after. The US price falls by USD 10.
 9. At 1.10: 6,600 ÷ 1.10 = £6,000. At 1.32: 6,600 ÷ 1.32 = £5,000. The cost falls by £1,000 (the pound has strengthened).
 10. Each pound buys less foreign currency, so imported materials cost more in pounds. Costs rise, so profit falls unless the business raises its prices, and a price rise could lose customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--13-mnc-host-country.webp" width="900" height="880" alt="A balance: jobs, exports, more choice and investment on the gains side; more competition, environmental damage, resources taken and profits sent home on the losses side." loading="lazy">
+  <figcaption>A host country gains and loses from an MNC.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

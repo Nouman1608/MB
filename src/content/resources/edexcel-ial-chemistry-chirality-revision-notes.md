@@ -52,6 +52,17 @@ Also useful: the [chirality practice questions](/resources/edexcel-ial-chemistry
 
 **Hidden chiral centres.** A chiral carbon need not carry hydrogen. In a tertiary alcohol such as 3-methylheptan-3-ol, C3 carries CH₃, C₂H₅, C₄H₉ and OH, so it is chiral.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
+
 ## 15.2: Drawing enantiomers in 3D
 
 **Method in steps**
@@ -64,6 +75,17 @@ Also useful: the [chirality practice questions](/resources/edexcel-ial-chemistry
 
 For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on the wedge and H on the hashed bond, then reflect the whole drawing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--03-enantiomer-drawing.webp" width="900" height="780" alt="Two 3D drawings of 2-aminopropanoic acid either side of a dashed mirror line. Enantiomer A has COOH up, H3C lower left, NH2 on a wedge and H on a hashed bond; B is the reflection with left and right swapped and wedge and hash unchanged. A key explains plain, wedge and hashed bonds." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line: left and right swap, wedges stay wedges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
+
 ## 15.3: Optical activity in brief
 
 - Plane-polarised light vibrates in a single plane. Monochromatic means one wavelength, for example from a sodium lamp; the angle of rotation depends on wavelength, so it must be fixed.
@@ -71,11 +93,23 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 - Under the same conditions, the two enantiomers rotate the plane by **equal angles in opposite directions**. The (+) enantiomer rotates clockwise as you look towards the light source; the (−) one rotates anticlockwise.
 - The sign of rotation is measured. It cannot be read off a 3D drawing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--05-polarimeter.webp" width="900" height="800" alt="A light path: lamp, polariser, tube of sample, analyser, eye. End-on dials show every plane after the lamp, one plane after the polariser, the plane turned clockwise through an angle alpha after the sample, and the analyser turned to the same angle. The angle turned is the angle of rotation. Edexcel specifies monochromatic light." loading="lazy">
+  <figcaption>A polarimeter measures how far an optically active sample turns the plane of plane-polarised light (Edexcel: monochromatic light).</figcaption>
+</figure>
+
+
 ## 15.4: Racemic mixtures in brief
 
 - Equal amounts of the (+) and (−) enantiomers.
 - Net rotation is zero because the rotations cancel.
 - The molecules in a racemic mixture **are** chiral. Zero rotation from an achiral compound is a different situation: that compound has no optical isomers at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--06-racemate-cancels.webp" width="900" height="720" alt="Three tubes: one enantiomer rotates the plane clockwise by 25 degrees, its mirror image anticlockwise by 25 degrees, and a 1:1 racemate gives zero because the equal and opposite rotations cancel. Every molecule in the racemate is still chiral." loading="lazy">
+  <figcaption>Equal amounts of the two enantiomers give equal and opposite rotations, so a racemate shows no net rotation.</figcaption>
+</figure>
+
 
 ## 15.5: Optical activity as mechanism evidence
 
@@ -92,6 +126,17 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 3. Say what the measured rotation of the product shows: single enantiomer or racemic mixture.
 4. Link to shape: planar intermediate or planar C=O attacked from both sides, or one-sided attack with inversion.
 5. Name the mechanism. If rate data are given, add them: rate = k[RX] fits SN1; rate = k[RX][OH⁻] fits SN2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--07-racemate-formation.webp" width="900" height="1030" alt="Propanal has a trigonal planar carbonyl carbon drawn as a flat sheet. CN minus can attack from above or below, each 50 percent likely. Attack from the front gives 2-hydroxybutanenitrile with CN on a wedge; from the back, CN on a hashed bond. The two products are mirror images in equal amounts: a racemate. The same logic applies to Br minus attacking the planar carbocation from HBr and an alkene (AQA, OxfordAQA)." loading="lazy">
+  <figcaption>A planar carbon is attacked equally from both faces, so a chiral product forms as a 1:1 racemate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

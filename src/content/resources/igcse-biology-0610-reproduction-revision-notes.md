@@ -54,6 +54,12 @@ Also useful: [Reproduction practice questions](/resources/igcse-biology-reproduc
 - **Cross-pollination (Extended only):** transfer from an anther to the stigma of a flower on a different plant of the same species.
 - **STI:** an infection transmitted through sexual contact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
+</figure>
+
+
 ## 16.1 and 16.2 -- asexual vs sexual (must-know distinction)
 
 | | Asexual | Sexual |
@@ -67,6 +73,12 @@ Also useful: [Reproduction practice questions](/resources/igcse-biology-reproduc
 **Extended only:** gamete nuclei are **haploid**; the zygote nucleus is **diploid**.
 
 **Extended only -- the "discuss" frame.** For wild populations, weigh speed and not needing a mate (asexual) against variation and the ability to adapt when the environment changes (sexual). For crops, weigh uniform, predictable plants with the grower's chosen features (asexual) against the risk that one disease destroys a genetically identical crop, and the chance of new, improved varieties (sexual). A "discuss" answer needs points on **both** sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
 
 ## 16.3 -- flowers
 
@@ -98,6 +110,17 @@ Also useful: [Reproduction practice questions](/resources/igcse-biology-reproduc
 
 **Germination needs:** water, oxygen, suitable temperature. Not light. In an investigation, change one condition per tube and compare with a control that has all three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--02-flower-parts.webp" width="900" height="880" alt="Half-flower diagram labelling petal, sepal, and the male stamen (anther on a filament) and female carpel (stigma, style, ovary with ovules), each with its function." loading="lazy">
+  <figcaption>Label the parts of a flower and say what each does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
+  <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
+
 ## 16.4 -- humans
 
 | Structure | Function |
@@ -128,6 +151,27 @@ Also useful: [Reproduction practice questions](/resources/igcse-biology-reproduc
 **Development:** zygote → embryo (ball of cells) → implants in uterus lining. Placenta = exchange; umbilical cord = links fetus to placenta; amniotic sac + fluid = protect and cushion.
 
 **Extended only:** at the placenta, oxygen, glucose, amino acids and other dissolved nutrients pass from mother's blood to fetal blood; carbon dioxide and urea pass from fetal to mother's blood. Some pathogens and toxins can cross and affect the fetus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--05-reproductive-systems.webp" width="900" height="1240" alt="Front-view schematics of the male (testes in scrotum, sperm ducts, prostate gland, urethra, penis) and female (ovaries, oviducts, uterus, cervix, vagina) systems with the function of each part." loading="lazy">
+  <figcaption>Identify the parts of the human reproductive systems and their jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--06-sperm-and-egg.webp" width="900" height="1010" alt="Labelled egg (jelly coat, nucleus, cytoplasm with energy stores) and sperm (acrosome with enzymes, nucleus, mitochondria, flagellum), with a summary of size, movement and numbers." loading="lazy">
+  <figcaption>Show how sperm and egg are adapted for their functions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ## 16.5 -- hormones
 

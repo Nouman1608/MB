@@ -158,6 +158,12 @@ that reaches a justified recommendation — not just a balanced list —
 tends to score most highly, because Business at this level assesses
 judgement as much as knowledge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## Common mistakes to avoid
 
 A recurring pattern across weaker answers on this topic is treating

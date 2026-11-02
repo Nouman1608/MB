@@ -76,6 +76,47 @@ are all marketing-mix decisions that serve the broader premium-positioning strat
 explain how specific 4P decisions serve a stated strategic goal typically outperform answers that describe
 each P in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--06-moving-average.webp" width="900" height="920" alt="A line chart of Corvasse monthly sales with the three-month averages plotted against the middle month. The averages rise every month. The dashed forecast continues the trend from July: 531 in September and 546 in October." loading="lazy">
+  <figcaption>Moving averages smooth the ups and downs; extend the trend from the month of the last average.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">
+  <figcaption>Forecast error compares actual with forecast as a percentage of the forecast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
+  <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
+</figure>
+
+
 ## Boston Matrix: what each quadrant means for strategy
 
 A Star (high market share, high market growth) typically needs continued investment to maintain its
@@ -117,6 +158,12 @@ Step 4 - recommend an option with reasoning tied to the
 business's specific circumstances, not a generic ranking of
 risk alone.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--02-ansoff-matrix.webp" width="900" height="850" alt="A grid of existing or new products against existing or new markets for a UK clothing retailer. Market penetration is lowest risk; product development and market development carry more; diversification (new product, new market) is highest." loading="lazy">
+  <figcaption>Ansoff's Matrix links growth options to how much is new, and so to risk.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

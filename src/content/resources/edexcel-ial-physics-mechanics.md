@@ -149,6 +149,12 @@ equilibrium, the sum of clockwise moments about any point equals the sum
 of anticlockwise moments — is used to solve beam-support and balance
 problems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+
 ## Work, energy and power
 
 Work done is ΔW = FΔs; when the force is not along the line of motion,

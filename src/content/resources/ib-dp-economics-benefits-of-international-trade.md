@@ -54,6 +54,12 @@ Average cost = (240 000 + 5 × 60 000) ÷ 60 000 = 540 000 ÷ 60 000 = **9 per t
 
 Average cost falls by 8, which is 47.1% of the old figure. The fixed cost is spread over three times as many tiles. The firm can now cut its price abroad and still earn a margin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-benefits-of-international-trade--04-eco73-scale-exports.webp" width="900" height="620" alt="Average cost per tile falls from 17 (12 fixed plus 5 variable) at 20 000 tiles to 9 (4 plus 5) at 60 000 tiles, a fall of 8 or 47.1 percent. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Exporting lowers average cost (SL and HL).</figcaption>
+</figure>
+
+
 ## Free trade when the world price is above the domestic price
 
 Build the diagram in this order. Put price on the vertical axis and quantity on the horizontal axis. Draw the domestic demand curve (D) and domestic supply curve (S). Mark the no-trade equilibrium where they cross, at price P and quantity Q. Draw a horizontal line at the world price, Pw. Under free trade, domestic buyers and sellers face this price, because any firm can sell abroad at Pw.
@@ -86,6 +92,12 @@ For the welfare change, find the price at which each curve meets the axis. Deman
 
 You can check the net gain as one triangle: ½ × (40 − 35) × 20 = 50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-benefits-of-international-trade--01-eco73-trade-export.webp" width="900" height="870" alt="Domestic demand Qd = 120 - 2P and supply Qs = 2P - 20 with world price 40 give exports of 20 thousand tiles. Consumer surplus falls by 225, producer surplus rises by 275 and the country gains 50 (the small triangle). All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Free trade: world price above home price (SL and HL (calculation HL only)).</figcaption>
+</figure>
+
+
 ## Free trade when the world price is below the domestic price
 
 Use the same axes and curves, but now Pw lies below P. At Pw domestic buyers want more than domestic sellers will supply. The shortage is filled by imports, so the country imports Qd − Qs.
@@ -106,6 +118,12 @@ Fictional market for cooking oil in Veshtar. Demand is Qd = 200 − 4P and suppl
 4. Import expenditure = 20 × 90 = **1 800 thousand currency units**.
 
 Consumer surplus rises from ½ × 60 × (50 − 35) = 450 to ½ × 120 × (50 − 20) = 1 800, a gain of 1 350. Producer surplus falls from ½ × 60 × (35 − 5) = 900 to ½ × 30 × (20 − 5) = 225, a loss of 675. The net gain is 675, which equals ½ × (35 − 20) × 90.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-benefits-of-international-trade--02-eco73-trade-import.webp" width="900" height="870" alt="Demand Qd = 200 - 4P and supply Qs = 2P - 10 with world price 20 give imports of 90 thousand litres. Consumer surplus rises by 1 350, producer surplus falls by 675 and the country gains 675. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Free trade: world price below home price (SL and HL (calculation HL only)).</figcaption>
+</figure>
+
 
 ## Absolute and comparative advantage (HL only)
 
@@ -147,6 +165,12 @@ The countries agree to trade at 4 t of fruit per thousand tiles. This lies betwe
 
 Both countries consume outside their own PPC. The nearer the terms are to Kestria's cost of 5, the more Arvenia gains, and the nearer they are to 2, the more Kestria gains. Outside the 2 to 5 range one country would do better at home.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-benefits-of-international-trade--03-eco73-comparative-advantage.webp" width="900" height="870" alt="Arvenia and Kestria straight-line PPCs with opportunity costs 2 and 5 tonnes of fruit per thousand tiles. Trading at 4 puts both countries outside their own PPC; world tiles rise from 48 to 60 thousand. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Comparative advantage and gains (HL only).</figcaption>
+</figure>
+
+
 ### Sources of comparative advantage
 
 - Factor endowments: land, climate, minerals, labour supply and capital stock.
@@ -155,6 +179,12 @@ Both countries consume outside their own PPC. The nearer the terms are to Kestri
 - Quality of infrastructure and institutions, and past investment.
 
 Comparative advantage can change: investment in skills and technology can lower a country's opportunity cost in a good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-benefits-of-international-trade--09-terms-of-trade-range.webp" width="900" height="1010" alt="Number line of the price of 1 thousand tiles in tonnes of fruit. Arvenia's opportunity cost is 2 and Kestria's is 5, so any price between gives both a gain. At the agreed 4, Arvenia receives 40 t for tiles costing 20 t (gain 20 t) and Kestria pays 40 t instead of 50 t (saves 10 t)." loading="lazy">
+  <figcaption>Both countries gain at any price between the two opportunity costs.</figcaption>
+</figure>
+
 
 ## Limitations of the theory of comparative advantage (HL only)
 
@@ -169,6 +199,12 @@ The guide places this at an evaluation depth, so a list is not enough. For each 
 - **Non-economic costs.** Environmental damage is not counted.
 
 A balanced evaluation says that the theory shows why trade can raise output, while its assumptions mean the gains in practice are smaller and less evenly spread than the model suggests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-benefits-of-international-trade--08-ppc-rising-cost.webp" width="900" height="880" alt="Fruit against tiles for Arvenia. The straight PPC has a constant opportunity cost of 2 tonnes per thousand tiles. A bowed PPC with the same end points has a cost of about 0.7 tonnes at 20 thousand tiles rising to about 3.0 at 50 thousand." loading="lazy">
+  <figcaption>Real opportunity cost often rises as resources move into one good, unlike the straight-line model.</figcaption>
+</figure>
+
 
 ## Common errors
 

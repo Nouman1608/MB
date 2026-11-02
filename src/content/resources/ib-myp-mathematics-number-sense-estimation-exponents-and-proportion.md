@@ -50,6 +50,22 @@ The sets, in the guide's notation: N is the positive integers and zero, Z the in
 
 **Absolute value** |x| is the distance from x to 0, so it is never negative. |-7| = 7 and |3 - 9| = 6. For |x - 2| = 6, x is 6 away from 2: **x = 8 or x = -4**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--09-number-sets-nzqr.webp" width="900" height="860" alt="Nested sets inside the real numbers R. N (0, 1, 2, 3, and so on) sits inside Z (the integers), which sits inside Q (rational numbers a over b with b not zero). Q-prime, the irrational numbers, is a separate box; Q and Q-prime together make R. Placement: root 49 equals 7 and 0 are in N; minus 3 is in Z; 22 over 7 and 0.333 recurring, which is one third, are in Q; pi and root 20, which equals 2 root 5, are in Q-prime. Every one of them is in R." loading="lazy">
+  <figcaption>Each example number sits in the smallest set that contains it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--12-absolute-value-distance.webp" width="900" height="730" alt="Two number lines from -8 to 12. On the first, -7 is 7 units from 0, so |-7| = 7. On the second, the points that are 6 units from 2 are 8 and -4, so |x - 2| = 6 gives x = 8 or x = -4. Check: |8 - 2| = 6 and |-4 - 2| = 6." loading="lazy">
+  <figcaption>Absolute value is the distance from a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
+
 ## Factors, primes, GCF and LCM
 
 Write each number as a product of primes, then compare.
@@ -59,6 +75,12 @@ GCF: take the lowest power of shared primes: 2 × 3² = **18**.
 LCM: take the highest power of every prime: 2² × 3² × 7 × 11 = **2772**.
 Check: 18 × 2772 = 252 × 198 = 49 896.
 GCF answers "largest equal pieces" (square tiles cutting a 252 cm by 198 cm floor with no waste: 18 cm). LCM answers "when do two cycles coincide".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
 
 ## Squares, roots and surds (standard)
 
@@ -102,6 +124,17 @@ log 4 + log 25 = log 100 = **2**.
 2 log₃ 6 - log₃ 4 = log₃ (36/4) = log₃ 9 = **2**.
 To solve 2ˣ = 50, take logs: x = log 50 / log 2 = **5.64** (3 s.f.), found with technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--10-log-inverse-of-power.webp" width="900" height="1000" alt="Graph of y = 2 to the power x (teal, rising steeply through (3, 8)) and y = log base 2 of x (copper, rising slowly through (8, 3)) with the dashed line y = x between them. The two curves are mirror images in that line, so the point (3, 8) swaps to (8, 3). This shows that 2 cubed = 8 means log base 2 of 8 = 3: a logarithm asks what power gives the number." loading="lazy">
+  <figcaption>2 cubed is 8 means log base 2 of 8 is 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--03-log-laws-as-lengths.webp" width="900" height="1040" alt="Two bar panels on a log scale: log 4 + log 25 = log 100 = 2, and 2 log base 3 of 6 minus log base 3 of 4 = log base 3 of 9 = 2." loading="lazy">
+  <figcaption>Adding logs multiplies the numbers; subtracting divides them; a number in front acts as a power.</figcaption>
+</figure>
+
+
 ## Number lines, inequalities and sequences
 
 Open circle: the end value is not included (< or >). Closed circle: included (≤ or ≥).
@@ -132,6 +165,17 @@ Absolute error = |measured - true|. Percentage error = absolute error ÷ true va
 Area upper bound: 8.45 × 5.25 = 44.3625. Lower bound: 8.35 × 5.15 = 43.0025.
 For a quotient, divide the largest by the smallest for the upper bound. Distance 120 m (nearest 10 m, so 115 ≤ d < 125) in 9.6 s (1 d.p., so 9.55 ≤ t < 9.65): maximum speed = 125/9.55 = 13.1 m/s; minimum = 115/9.65 = 11.9 m/s (3 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--01-bounds-of-a-product.webp" width="900" height="1000" alt="Number lines for length 8.35 to 8.45 and width 5.15 to 5.25, then the area interval from 43.0025 to 44.3625 with 8.4 x 5.2 = 43.68 marked. Filled and open ends show which bound is included." loading="lazy">
+  <figcaption>The lower bound of a product uses both lower bounds and the upper bound uses both upper bounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--02-percentage-error-estimate.webp" width="900" height="900" alt="Two bars to scale: true value 292.2 and estimate 300 from Example 9. The absolute error 7.8 and the percentage error 2.67% are worked in two steps." loading="lazy">
+  <figcaption>Percentage error is the absolute error divided by the true value, times 100.</figcaption>
+</figure>
+
+
 ## Ratio, percentage and proportion
 
 **Sharing.** Share 3600 in the ratio 5 : 4 : 3. Parts = 12, one part = 300, shares **1500, 1200, 900**.
@@ -141,15 +185,38 @@ For a quotient, divide the largest by the smallest for the upper bound. Distance
 **Direct proportion** y = kx: y = 45 when x = 6, so k = 7.5 and at x = 14, y = **105**.
 **Inverse proportion** y = k/x (xy constant): y = 12 when x = 5, so k = 60 and at x = 8, y = **7.5**. Context: 6 workers take 15 days, so 9 workers take 6 × 15 ÷ 9 = **10 days**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--05-direct-proportion-line.webp" width="900" height="960" alt="Line y = 7.5x with the points (6, 45) and (14, 105) and dashed guides, with k = 45 / 6 worked beneath." loading="lazy">
+  <figcaption>Direct proportion is a straight line through the origin with gradient k = y / x.</figcaption>
+</figure>
+
+
 ## Money and financial literacy
 
 Simple interest: I = P × r × t. Compound interest: A = P(1 + r)ⁿ. On 2000 at 4% for 3 years, simple interest is 240; compound gives 2000 × 1.04³ = 2249.73, so interest 249.73. Depreciation uses a multiplier below 1: a car worth 18 000 losing 12% a year is worth 18 000 × 0.88⁴ = **10 794.52** after 4 years. Round money to 2 d.p. only at the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--01-depreciation-multiplier-chain.webp" width="900" height="920" alt="A bar chart of a car worth 18 000 losing 12 percent a year. Bars for years 0 to 4 read 18 000, 15 840, 13 939.20, 12 266.50 and 10 794.52, each the previous bar times 0.88. The result 18 000 x 0.88^4 = 10 794.52 means 7 205.48 has been lost in total." loading="lazy">
+  <figcaption>Depreciation applies the multiplier 0.88 once per year, so four years use 0.88 to the power 4.</figcaption>
+</figure>
+
 
 ## Number properties and bases
 
 Addition and multiplication are commutative and associative, and multiplication distributes over addition. Use them for mental calculation: 25 × 17 × 4 = 25 × 4 × 17 = 1700, and 7 × 98 = 7 × 100 - 7 × 2 = 686. Subtraction and division are neither commutative nor associative: 8 - 3 ≠ 3 - 8.
 
 **Number bases (enrichment).** In base 2, 1101₂ = 8 + 4 + 0 + 1 = 13. For 45 in base 2, divide by 2 repeatedly and read the remainders upwards: 101101₂. In base 5, 234₅ = 2 × 25 + 3 × 5 + 4 = 69.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--11-base-two-conversion.webp" width="900" height="980" alt="Divide 45 by 2 repeatedly: 45 over 2 is 22 remainder 1, 22 over 2 is 11 remainder 0, 11 over 2 is 5 remainder 1, 5 over 2 is 2 remainder 1, 2 over 2 is 1 remainder 0, and 1 over 2 is 0 remainder 1. Read the remainders from the bottom upwards to get 101101. Placed under the base 2 place values 32, 16, 8, 4, 2, 1, the ones are at 32, 8, 4 and 1, and 32 + 8 + 4 + 1 = 45." loading="lazy">
+  <figcaption>Divide by 2, read the remainders upwards: 45 = 101101 in base 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--04-base-five-blocks.webp" width="900" height="850" alt="Block picture of 234 in base 5: two 5 by 5 grids (50), three bars of five (15) and four units (4), totalling 69." loading="lazy">
+  <figcaption>Each base 5 column is worth five times the column to its right.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -69,6 +69,12 @@ To describe: points with the same x value (or y value) before and after tell you
 
 Worked reminder: reflect (7, −2) in x = 4. The new x is 2 × 4 − 7 = 1, so the image is (1, −2).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--01-reflection.webp" width="900" height="1030" alt="Triangle T is reflected in the vertical line x = 1 and triangle D in the sloping line y = -x on a coordinate grid. Dotted lines join every vertex to its image and cross the mirror line at right angles, with equal distances on each side. The images T dash and D dash are gold." loading="lazy">
+  <figcaption>Every point and its image are the same distance from the mirror line, on opposite sides.</figcaption>
+</figure>
+
+
 ## Rotation in steps
 
 1. Locate the centre. Work out each point relative to the centre.
@@ -81,6 +87,12 @@ To find a centre: draw the perpendicular bisector of a point and its image, do t
 To find the angle: look at the lines from the centre to a point and to its image. Decide the direction with a sketch.
 
 Worked reminder: rotate (6, 2) through 90° clockwise about (1, 4). Relative position (5, −2). Clockwise (u, v) → (v, −u) gives (−2, −5). Add the centre: (−1, −1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--02-rotation.webp" width="900" height="1060" alt="Triangle A is rotated 90 degrees clockwise about the centre (2, 1) to give A dash at (4,0), (4,-3), (6,-3). Dashed radii from the centre to a vertex and its image are equal in length and meet at a right angle, with a curved arrow showing the clockwise turn." loading="lazy">
+  <figcaption>A rotation needs a centre, an angle and a direction: here 90 degrees clockwise about (2, 1).</figcaption>
+</figure>
+
 
 ## Enlargement in steps
 
@@ -105,6 +117,17 @@ Worked reminder: area of the object 20 cm², scale factor 3/2. Image area = 20 �
 
 Worked reminder: a triangle with vertices (2, 2), (2, 4), (4, 2) maps to one with vertices (5, 5), (5, 11), (11, 5). The side from (2, 2) to (2, 4) has length 2 and its image has length 6, so the scale factor is 3. The image has not been turned over, so k = +3. The centre C satisfies image − C = 3 × (object − C), so C = (3 × object − image) ÷ 2 = ((6 − 5) ÷ 2, (6 − 5) ÷ 2) = (0.5, 0.5).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--03-enlargement-positive.webp" width="900" height="890" alt="Triangle (1,4), (3,4), (3,5) is enlarged by scale factor 2 from the centre (-1, 2). Lines from the centre through each vertex reach the image vertices (3,6), (7,6), (7,8), twice as far from the centre and on the same side." loading="lazy">
+  <figcaption>Scale factor 2 doubles every distance from the centre, so lengths double and area is multiplied by 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--04-enlargement-negative.webp" width="900" height="890" alt="Triangle (2,1), (4,1), (4,2) is enlarged by scale factor -2 from the centre (1, 0). The image (-1,-2), (-5,-2), (-5,-4) lies on the opposite side of the centre, twice the size and upside down, with lines through the centre joining matching vertices." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the other side of the centre, upside down.</figcaption>
+</figure>
+
+
 ## Translation in steps
 
 1. Count the units right or left, then up or down, for one point.
@@ -112,6 +135,12 @@ Worked reminder: a triangle with vertices (2, 2), (2, 4), (4, 2) maps to one wit
 3. To describe: image minus object, one coordinate at a time.
 
 Worked reminder: P(3, −1) maps to P′(−2, 5). Vector: (−2 − 3, 5 − (−1)) = (−5 over 6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--05-translation.webp" width="900" height="1050" alt="Triangle B is translated by the column vector (-4, 3) to give B dash at (-3,5), (-1,5), (-1,8). Dotted lines show all vertices moving the same distance in the same direction, and arrows mark 4 units left and 3 units up. The shape is not turned." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector, with no turning and no centre.</figcaption>
+</figure>
+
 
 ## Combinations
 
@@ -123,6 +152,12 @@ Worked reminder: P(3, −1) maps to P′(−2, 5). Vector: (−2 − 3, 5 − (�
 - To describe a combination as one transformation, follow one or two points through, then compare the start and end positions.
 
 Worked reminder: triangle M has a vertex at (1, 2). It is rotated 90° clockwise about the origin, then reflected in the y-axis. The vertex goes (1, 2) → (2, −1) → (−2, −1). Now compare with the rule for y = −x, which sends (x, y) to (−y, −x): (1, 2) → (−2, −1). The two agree, so the combination is a reflection in the line y = −x.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -63,6 +63,22 @@ A fictional village has 400 households. Each household would get a benefit it va
 - **Few pure cases.** Few goods are purely public. A road is non-rival until it is congested, and its owner can add tolls. The nearer a good is to the pure case, the stronger the argument for state provision.
 - **Opportunity cost.** Tax funds taken for one good cannot be spent on another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--09-siren-tax-funds-public-good.webp" width="900" height="950" alt="A village of 400 households, each shown as a dot, values a flood siren at 30 currency units each, a total benefit of 12,000. The siren costs 6,000, so net benefit is 6,000. A tax of 15 on every household raises exactly 6,000 and leaves each household 15 better off." loading="lazy">
+  <figcaption>Each household values the siren at 30 but pays only 15, so the siren is worth building once a compulsory tax removes free riding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+
 ## 3.1.2 Demerit goods and merit goods
 
 Section 1.6 defines these through **imperfect information**. People get the information wrong, so the amount they choose differs from the amount that would be chosen if they were fully informed.
@@ -88,6 +104,12 @@ Fictional market for health checks, with quantity in thousands of checks and pri
 2. Informed outcome: 52 − 2Q = 4 + 2Q, so 48 = 4Q, so Q = 12 and P = 4 + 24 = 28.
 3. Under-consumption = 12 − 9 = 3 thousand checks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--05-merit-good-health-checks-gap.webp" width="900" height="950" alt="Health checks market, quantity in thousands and price in CU. Supply is P = 4 + 2Q. Perceived demand P = 40 − 2Q meets supply at 9 thousand checks and a price of 22. Demand if people were fully informed, P = 52 − 2Q, meets supply at 12 thousand and a price of 28. The gap of 3 thousand checks is the under-consumption." loading="lazy">
+  <figcaption>People act on the lower demand curve and buy 9 thousand checks; fully informed they would buy 12 thousand.</figcaption>
+</figure>
+
+
 ### Worked example: a demerit good
 
 Fictional market for a harmful additive snack, again in thousands of units and CU.
@@ -100,12 +122,24 @@ Fictional market for a harmful additive snack, again in thousands of units and C
 2. Informed outcome: 38 − 2Q = 6 + 2Q, so 32 = 4Q, so Q = 8 and P = 6 + 16 = 22.
 3. Over-consumption = 11 − 8 = 3 thousand units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--06-demerit-good-snack-gap.webp" width="900" height="950" alt="Harmful snack market, quantity in thousands and price in CU. Supply is P = 6 + 2Q. Perceived demand P = 50 − 2Q meets supply at 11 thousand units and a price of 28. Demand if people were fully informed, P = 38 − 2Q, meets supply at 8 thousand and a price of 22. The gap of 3 thousand units is the over-consumption." loading="lazy">
+  <figcaption>People act on the higher demand curve and buy 11 thousand snacks; fully informed they would buy 8 thousand.</figcaption>
+</figure>
+
+
 ### Evaluating the case
 
 - **Measuring the gap.** The informed demand curve cannot be observed, so the size of the gap is a judgement.
 - **Paternalism.** Intervention says the government knows better than the consumer. Some people value freedom of choice for its own sake.
 - **Fit between aim and tool.** Information campaigns tackle the cause (poor information), while pushing price up or down tackles the symptom. The tools are assessed in section 3.2.
 - **Time.** Habits and awareness change slowly, so effects may take years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## 3.1.3 Controlling prices in markets
 
@@ -158,6 +192,27 @@ Farmers gain on paper, but consumers pay more and buy less, and taxpayers fund t
 | Minimum price | Higher income for suppliers, less demand for a demerit good | Surplus, cost of storing or buying it, higher prices for consumers, encourages inefficient producers |
 
 How big the effects are depends on elasticity. If demand is inelastic, a minimum price raises consumer spending on the good. If supply is inelastic, a maximum price removes few suppliers, so the shortage is small. The longer the control lasts, the more elastic supply and demand become, so effects grow with time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--10-rent-ceiling-shortage.webp" width="900" height="930" alt="Rented rooms market with demand Q equals 600 minus 4P and supply Q equals 3P minus 100. Equilibrium is at a rent of 100 with 200 rooms. A maximum rent of 80 CU a week below equilibrium makes tenants demand 280 rooms while landlords supply 140, a shortage of 140 rooms. The weekly rent bill falls from 20,000 to 11,200 CU." loading="lazy">
+  <figcaption>A ceiling below equilibrium: at 80 CU tenants want 280 rooms but only 140 are offered.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--11-minimum-price-surplus-cost.webp" width="900" height="930" alt="Dried fruit market with demand Q equals 500 minus 5P and supply Q equals 4P minus 130. Equilibrium is price 70 and 150 tonnes. A minimum price of 80 is above equilibrium, so buyers take 100 tonnes while farmers supply 190, a surplus of 90 tonnes. If the government buys the surplus it pays 90 times 80, which is 7,200 CU." loading="lazy">
+  <figcaption>A floor above equilibrium: at 80 farmers supply 190 tonnes but buyers take 100, leaving 90 for the government to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--07-minimum-price-elasticity-spending.webp" width="900" height="1090" alt="Two demand diagrams for dried fruit with a minimum price of 80 above the equilibrium price of 70 at 150 tonnes. Top: with the lesson demand Q = 500 - 5P, which is elastic at this point, buyers fall to 100 tonnes and spending drops from 10,500 to 8,000. Bottom: with an illustrative inelastic demand Q = 255 - 1.5P, buyers fall only to 135 tonnes and spending rises from 10,500 to 10,800." loading="lazy">
+  <figcaption>With elastic demand a minimum price cuts what buyers spend; with inelastic demand it raises it (second curve is illustrative).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
 
 ## Common errors
 

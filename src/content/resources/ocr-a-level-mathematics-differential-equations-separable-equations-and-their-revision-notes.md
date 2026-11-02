@@ -33,6 +33,12 @@ The course page is [OCR A Level Mathematics](/boards/ocr/a-level/mathematics/), 
 | Particular solution | The one member of the family that fits the initial condition |
 | Separable | Can be written dy/dx = f(x)g(y) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--01-family-of-solutions.webp" width="900" height="920" alt="A slope field for dy/dx = 3x²y with the solution curves y = Ae^(x³) for A = 0.5, 1, 2 and 3. Each curve follows the short gradient marks. The thick curve through (0, 2) is the particular solution with A = 2; the others share the same equation but have different values of the constant." loading="lazy">
+  <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
+</figure>
+
+
 ## Direct integration (1.08k)
 
 If dy/dx = f(x), then y = ∫ f(x) dx + c. Find c from the initial condition.
@@ -61,6 +67,12 @@ Method in steps:
 
 **Worked reminder (powers of y).** dy/dx = 6x²y² with y = 1/2 when x = 0. Then ∫ y⁻² dy = ∫ 6x² dx gives −1/y = 2x³ + c. At x = 0: −2 = c. So 1/y = 2 − 2x³ and y = 1/(2 − 2x³).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
+</figure>
+
+
 ## From logarithm to exponential
 
 ln|y − a| = g(x) + c becomes y − a = Ae^(g(x)), where A = ±eᶜ. Apply the initial condition to A.
@@ -68,6 +80,17 @@ ln|y − a| = g(x) + c becomes y − a = Ae^(g(x)), where A = ±eᶜ. Apply the 
 - Never write y − a = e^(g(x)) + c.
 - If the question tells you y > a, you may write ln(y − a) with no modulus.
 - A constant solution y = a is covered by A = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--05-rate-in-minus-out.webp" width="900" height="990" alt="Top graph: the amount of drug rises from 0, is 15.5 mg at 5 hours and levels off at 20 mg. Bottom graph: rate in is constant at 6 mg per hour and rate out 0.3x rises with x; they cross at x = 20. Below 20 the amount rises, above 20 it would fall." loading="lazy">
+  <figcaption>The long-term amount is where the rate in equals the rate out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
 
 ## Exponential growth and decay (1.08l)
 
@@ -84,6 +107,12 @@ ln|y − a| = g(x) + c becomes y − a = Ae^(g(x)), where A = ±eᶜ. Apply the 
 
 **Worked reminder.** A population satisfies dN/dt = 0.04N, with N = 2000 at t = 0. Then N = 2000e^(0.04t). It reaches 5000 when e^(0.04t) = 2.5, so t = ln 2.5/0.04 = 22.9 years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
+  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+</figure>
+
+
 ## Cooling and the constant in the exponent
 
 **Worked reminder.** A metal block at 90 °C is placed in a room at 15 °C. Its temperature obeys dT/dt = −k(T − 15). After 6 minutes it is 60 °C.
@@ -94,6 +123,12 @@ ln|y − a| = g(x) + c becomes y − a = Ae^(g(x)), where A = ±eᶜ. Apply the 
 4. Time to reach 30 °C: 15 = 75e^(−kt), so t = ln 5/k = 18.9 minutes.
 
 Always keep k exact (or to at least 4 significant figures) until the last line, and round only the final answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--04-newton-cooling.webp" width="900" height="920" alt="Graph of temperature against time for a drink cooling in a 20 degree room, T = 20 + 65e^(−kt). It starts at 85, is 60 at 5 minutes and 30 at 19.3 minutes. It flattens towards the dashed line T = 20 but never reaches it." loading="lazy">
+  <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
+</figure>
+
 
 ## Setting up an equation from words
 

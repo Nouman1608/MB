@@ -54,6 +54,12 @@ Different readers use the same statements to answer different questions. Your ta
 
 Communication matters as much as calculation. Give each reader only what they need, name the ratio and its formula, show the comparison (last year, a similar business or a benchmark), and finish with a one-sentence judgement. A supplier wants one line on payment risk; an owner wants profit and return. Sending a supplier a long profit analysis hides the answer they want.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+
 ## 1.6.2 The ratios
 
 Use the appendix formulae exactly. Ratios are not given in the question paper, so learn them.
@@ -131,6 +137,27 @@ Net assets are 340,000 + 211,000 - 126,000 - 150,000 = 275,000, which equals sha
 
 Average inventory for 2026 is (70,000 + 84,000) ÷ 2 = 77,000. The 2025 column is given to you as prior-year information.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--09-hf-profit-feeds-ratio.webp" width="900" height="840" alt="A step-down from revenue 960,000 to profit for the year 58,000, marking which profit figure feeds gross margin (35.0%), ROCE (19.8%) and profit margin (6.0%)." loading="lazy">
+  <figcaption>Each profitability ratio uses a different profit figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--04-hf-ratio-map.webp" width="900" height="1234" alt="Twelve ratios in profitability, liquidity and efficiency groups with 2026 values and an arrow showing whether each rose or fell against 2025." loading="lazy">
+  <figcaption>The ratios fall into three groups, and most profitability and liquidity ratios fell while the days ratios rose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+
 ## Evaluating performance
 
 One ratio on its own tells you little. Set it beside last year, a comparable firm or an industry benchmark, then say what it means and why it may have changed.
@@ -156,6 +183,17 @@ Suppose a trade body reports these averages for kitchen makers.
 
 Hollin Fold earns a good gross margin but controls overheads and debt collection less well than the benchmark. Comparison has problems: businesses may use different accounting policies, such as depreciation methods, may have different year ends, sizes and products, and may finance themselves differently. A benchmark is an average, not a target to copy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--10-hf-benchmark.webp" width="900" height="998" alt="Six Hollin Fold ratios against kitchen-maker averages, marked better or worse." loading="lazy">
+  <figcaption>Hollin Fold has a good gross margin but weaker overhead and debt-collection control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Measures to improve
 
 | Area | Possible measure | Possible drawback |
@@ -179,6 +217,17 @@ Hollin Fold proposes a 2% discount for early payment, hoping to cut receivables 
 Receivables at 45 days = 720,000 × 45 ÷ 365 = 88,767 (to the nearest dollar). Cash released = 118,000 - 88,767 = 29,233.
 
 If customers owing half of credit sales take the discount, it costs 720,000 × 50% × 2% = 7,200 a year. The company must judge whether 29,233 of released cash is worth 7,200 of lost revenue, perhaps because it would let the company repay overdraft-type borrowing or hold more bank. A balanced answer gives both sides and a justified decision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--11-hf-early-payment.webp" width="900" height="940" alt="Receivables fall from 118,000 to 88,767, releasing 29,233 of cash, against a discount cost of 7,200 a year." loading="lazy">
+  <figcaption>The cash released is set against the cost of the discount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as--05-hf-improvement-tradeoffs.webp" width="900" height="982" alt="Six measures, two each for profitability, liquidity and efficiency, each paired with its drawback, such as raising prices risking customers buying elsewhere." loading="lazy">
+  <figcaption>Every measure to improve a ratio carries a drawback that a balanced answer must mention.</figcaption>
+</figure>
+
 
 ## Limitations of accounting information
 

@@ -65,6 +65,37 @@ Real GDP grew by (450 / 420 - 1) = 7.14%, yet real GDP per head did not move, be
 - It ignores what is produced and what damage is done (pollution, resource depletion).
 - Comparing countries needs exchange rates and different price levels, which can distort the figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--09-gdp-components.webp" width="900" height="890" alt="A bar of 540 billion: consumption 330, investment 100, government spending 90 and net exports 20 (80 minus 60). Dividing by a price index of 120 and multiplying by 100 gives real GDP of 450 billion." loading="lazy">
+  <figcaption>GDP is the sum of C, I, G and net exports; real GDP removes price rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--10-gdp-per-head-still.webp" width="900" height="930" alt="Year 1: real GDP 420 billion shared by 28 million people is 15,000 each. Year 2: 450 billion shared by 30 million is also 15,000. Both grew 7.14 percent." loading="lazy">
+  <figcaption>Output can grow while real GDP per head does not move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--11-growth-per-head.webp" width="900" height="900" alt="Bars for two examples. GDP +5% and population +2.5% give 1.05 divided by 1.025 minus 1, which is 2.44 percent. GDP +6% and population +2% give 3.92 percent." loading="lazy">
+  <figcaption>Exact growth per head is the ratio of growth factors; GDP growth minus population growth is a quick rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+
 ## 5.1.1 The Human Development Index (HDI)
 
 The HDI is a composite index published by the United Nations Development Programme. It gives each country a value between 0 and 1; higher means more human development. It combines three dimensions:
@@ -92,6 +123,12 @@ Country G has the higher income yet the lower index. That is the point of the HD
 **Disadvantages:** it is still an average, so it hides inequality; it leaves out the environment, freedom, security and the quality of services; the equal weighting is a judgement; and the three components tend to move together, so it often tells a similar story to income.
 
 **Evaluation chain.** Use real GDP per head for a quick measure of output and income over time. Use the HDI when judging overall well-being. Neither shows how evenly benefits are shared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--01-hdi-vs-income.webp" width="900" height="950" alt="Grouped bars for Countries A and G on income, health and education indices (0 to 1), then the equal-weight average. A (GDP per head 6,000) scores 0.644 and G (9,000) scores 0.578. Health index uses minimum 25 and maximum 85 years." loading="lazy">
+  <figcaption>Country G is richer but has the lower simplified HDI because health and education count too.</figcaption>
+</figure>
+
 
 ## 5.1.2 Differences in living standards and income distribution
 
@@ -122,6 +159,12 @@ Country G has the higher income yet the lower index. That is the point of the HD
 
 Method: income = share x 5 x 15,000. For the poorest group in C: 0.04 x 5 x 15,000 = 3,000. The richest 20% earn 15 times the poorest in C (60 / 4) but 5 times in D (40 / 8). Same GDP per head, very different living standards for the poor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--03-quintile-shares.webp" width="900" height="950" alt="Horizontal bars of income by fifth of households for Countries C and D, both with mean 15,000. The richest 20% earn 15 times the poorest in C and 5 times in D." loading="lazy">
+  <figcaption>Equal GDP per head can hide very different incomes for the poor.</figcaption>
+</figure>
+
+
 ## 5.2.1 Absolute and relative poverty
 
 - **Absolute poverty:** not having enough income to buy the basic necessities of life, such as food, clean water, shelter and clothing. The line is a fixed amount of purchasing power.
@@ -138,6 +181,12 @@ Method: income = share x 5 x 15,000. For the poorest group in C: 0.04 x 5 x 15,0
 
 H1 rose by 8.3% yet became relatively poor: 13,000 is under 14,000. It was never in absolute poverty. H2 is in absolute poverty both years (below 6,000). Absolute poverty can fall while relative poverty rises, because medians rose 40% but H1's income rose 8.3%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--02-absolute-relative-poverty.webp" width="900" height="930" alt="Income over two years with a fixed absolute line at 6,000 and a relative line at half the median (10,000 then 14,000). H1 rises 8.3% yet falls below the relative line; H2 stays under 6,000." loading="lazy">
+  <figcaption>The absolute line is fixed but the relative line moves with the median, so poverty can fall on one measure and rise on the other.</figcaption>
+</figure>
+
+
 ## 5.2.2 Causes of poverty
 
 Build each as a chain: cause, effect on income, effect on living standards.
@@ -147,6 +196,12 @@ Build each as a chain: cause, effect on income, effect on living standards.
 - **Age:** retirees may have only a small pension; young children and elderly people cannot earn and depend on others.
 
 Other causes you may add: little education, large families, discrimination, conflict, and lack of land or capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--13-poverty-cause-chains.webp" width="900" height="950" alt="Four chains from cause to income effect to result: unemployment (no wage, skills fade); low wages (low skills, weak bargaining, still poor); illness (costs, less work, less schooling, trap); age (small pension or too young to earn, dependence)." loading="lazy">
+  <figcaption>Each cause of poverty works through income to living standards.</figcaption>
+</figure>
+
 
 ## 5.2.3 Policies to reduce poverty and redistribute income
 
@@ -178,6 +233,17 @@ The gap between the 60,000 and 12,000 earners narrows from 5 times before tax to
 Those who keep jobs gain (8 - 6) x 800 = 1,600; the 200 who lose jobs lose 6 x 200 = 1,200. Net pay rises by 400, but 400 want work and cannot get it. Evaluate: the effect depends on how responsive demand for labour is; a low minimum near the market wage may do little harm.
 
 **Good evaluation:** compare speed (benefits fast, education slow), cost, who gains, and side effects. Conclude with a reasoned judgement for the given country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--04-progressive-tax-bands.webp" width="900" height="1010" alt="Bands 0%, 20% above 10,000 and 40% above 30,000. Earners on 12,000, 25,000 and 60,000 pay tax of 400, 3,000 and 16,000 (3.3%, 12% and 26.7%). The richest to poorest ratio falls from 5 to 3.79 after tax." loading="lazy">
+  <figcaption>A progressive tax takes a rising proportion of income and narrows the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--12-minimum-wage-8.webp" width="900" height="970" alt="Labour market with demand falling from 1,000 workers at a wage of 6 to 800 at 8 and supply rising from 1,000 to 1,200. A minimum of 8 leaves 800 employed and 400 unemployed. Gainers receive 2 times 800 = 1,600; the 200 who lose jobs lose 6 times 200 = 1,200." loading="lazy">
+  <figcaption>A minimum above the market wage raises pay for some and leaves others unemployed.</figcaption>
+</figure>
+
 
 ## Common errors
 

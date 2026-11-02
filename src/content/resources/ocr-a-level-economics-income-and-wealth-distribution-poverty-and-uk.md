@@ -52,6 +52,17 @@ Household Q is retired: income 14,000, a home worth 320,000 with no mortgage, an
 
 Q is income-poor but wealth-rich. Wealth is usually spread less evenly than income because it accumulates and passes between generations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--13-inc-net-wealth.webp" width="900" height="790" alt="Household P: home 210,000 less mortgage 140,000 plus savings 6,500 and pension 27,500 gives net wealth 104,000, 4 times income. Household Q: home 320,000 plus savings 45,000 gives 365,000, about 26.1 times income." loading="lazy">
+  <figcaption>Q is income-poor but wealth-rich: net wealth is 26.1 times income against 4 for P.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## 2. Why a more even distribution may be an objective
 
 Arguments for:
@@ -70,6 +81,12 @@ Against, and evaluation:
 - The effect on growth depends on how redistribution is done (taxing wealth versus funding education) and on the time period.
 - Which distribution counts as fair is normative, so state the value judgement behind your conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--12-inc-redistribution-mpc.webp" width="900" height="750" alt="Taxing 500m from high-income households (MPC 0.2) cuts consumption 100m; giving it to low-income households (MPC 0.8) raises it 400m. Net change is +300m before any multiplier." loading="lazy">
+  <figcaption>Moving income to households with a higher MPC raises consumption by 300m.</figcaption>
+</figure>
+
+
 ## 3. The Lorenz curve
 
 A **Lorenz curve** has the running total of income (or wealth), as a percentage, up the vertical axis. Along the horizontal axis households are lined up from poorest to richest. The **line of perfect equality** runs diagonally from the origin to the point (100, 100): the poorest 20% receive 20%, the poorest 60% receive 60%. The Lorenz curve bows below it. The further it bows, the more unequal the distribution.
@@ -87,6 +104,12 @@ A **Lorenz curve** has the running total of income (or wealth), as a percentage,
 Sketch it with both axes running 0 to 100. The two income curves sag below the diagonal and end at (100, 100); the after-tax curve is nearer the diagonal. The wealth curve sags furthest.
 
 Reading it: the poorest 40% receive 15% of income before taxes and benefits and 21% after, but own only 4% of wealth. Taxes and benefits made income more equal; wealth is the most unequal. A curve moving towards the diagonal shows inequality falling. If two curves cross, the picture alone cannot rank them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--05-lorenz-three-curves.webp" width="900" height="1140" alt="Lorenz curves for income before and after tax and benefits and for wealth, from the lesson table. Ginis 0.392, 0.292 and 0.628 (trapezium method). Taxes and benefits cut the income Gini by 0.10, 25.5%." loading="lazy">
+  <figcaption>Taxes and benefits pull the income Lorenz curve towards equality; wealth is the most unequal.</figcaption>
+</figure>
+
 
 ## 4. Gini coefficients and quantiles
 
@@ -107,6 +130,17 @@ Taxes and benefits cut the Gini by 0.10, a fall of 0.10 / 0.392 = **25.5%**. Wea
 
 **Limitations.** One number hides the shape: curves that cross can share a Gini. The unit (individuals or households) and whether income is before or after tax matter. A low Gini says nothing about the level of income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--06-mean-vs-median.webp" width="900" height="980" alt="Ten household incomes with mean 32 and median 22. The top income of 112 is 35% of the total and pulls the mean above the median." loading="lazy">
+  <figcaption>One very high income lifts the mean well above the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--04-lorenz-gini.webp" width="900" height="976" alt="A Lorenz curve bows below the equality line: the poorest half of households get a quarter of income. The Gini coefficient is area A divided by A plus B, here one third." loading="lazy">
+  <figcaption>The bigger the gap between the Lorenz curve and the equality line, the higher the Gini coefficient.</figcaption>
+</figure>
+
+
 ## 5. Causes of income and wealth inequality
 
 **Income.**
@@ -125,6 +159,12 @@ Taxes and benefits cut the Gini by 0.10, a fall of 0.10 / 0.392 = **25.5%**. Wea
 
 **Worked example.** Household X inherits 100,000 and earns 4% a year for 25 years: 100,000 x 1.04^25 = **266,584**. Household Y saves 3,000 a year for 25 years at 4%: 3,000 x (1.04^25 - 1) / 0.04 = **124,938**. X ends with over twice as much, though Y paid in 75,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--11-inc-wealth-compounding.webp" width="900" height="770" alt="X inherits 100,000 and earns 4% for 25 years, ending with 266,584. Y saves 3,000 a year and ends with 124,938 having paid in 75,000." loading="lazy">
+  <figcaption>Inherited wealth compounds for longer, so X ends with over twice as much as Y.</figcaption>
+</figure>
+
+
 ## 6. Absolute and relative poverty
 
 **Absolute poverty** means income below a fixed level needed for basic needs (food, shelter, clothing, heating). The line is held fixed in real terms.
@@ -140,6 +180,12 @@ Real incomes then rise 15% for every household. The absolute line stays 9: only 
 
 Absolute poverty fell while relative poverty did not. Relative poverty tracks inequality at the bottom; absolute poverty tracks living standards. Neither shows how far below the line people fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--07-absolute-relative-poverty.webp" width="900" height="1210" alt="Ten incomes with an absolute line of 9 and a relative line of 60% of the median (12). After a 15% rise the absolute line stays at 9 (one household below) while the relative line moves to 13.8 (three below)." loading="lazy">
+  <figcaption>Absolute poverty can fall while relative poverty does not.</figcaption>
+</figure>
+
+
 ## 7. Causes and consequences of poverty and inequality
 
 **Causes of poverty** overlap with the causes above: unemployment, low pay, low skills, ill health, caring responsibilities, discrimination and regional job shortages.
@@ -153,6 +199,12 @@ Absolute poverty fell while relative poverty did not. Relative poverty tracks in
 - *Possible benefit of some inequality:* rewards encourage enterprise.
 
 **Evaluation chain.** Low incomes limit investment in education, which lowers future earnings and passes poverty on. The strength depends on the size of the gap, access to free schooling and mobility. Say whether you mean inequality or poverty: inequality can rise while poverty falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--08-poverty-trap.webp" width="900" height="960" alt="A waterfall: an extra 100 of pay loses 55 in benefits and 20 in tax and NI, leaving 25, an effective marginal rate of 75%." loading="lazy">
+  <figcaption>Withdrawn benefits and tax can leave only 25 of an extra 100 earned.</figcaption>
+</figure>
+
 
 ## 8. Key trends in UK macroeconomic performance over 20 years
 
@@ -188,6 +240,12 @@ To evaluate, compare growth, inflation, unemployment, debt, the external balance
 - Exchange rates and price levels affect GDP per head comparisons.
 
 Use the latest ONS, OECD, IMF and World Bank releases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--10-inc-catch-up.webp" width="900" height="750" alt="D starts at 40,000 growing 1.5% a year to 53,874; E starts at 8,000 growing 6% a year to 25,657. The ratio D to E falls from 5.0 to 2.1 and the gap from 32,000 to 28,217." loading="lazy">
+  <figcaption>Faster percentage growth from a low base narrows the ratio far more than the absolute gap.</figcaption>
+</figure>
+
 
 ## Common errors
 

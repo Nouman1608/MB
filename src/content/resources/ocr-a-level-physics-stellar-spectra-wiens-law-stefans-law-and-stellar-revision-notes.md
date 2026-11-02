@@ -101,6 +101,12 @@ Scaling shortcuts:
 
 Worked reminder: peak at 910 nm gives T = 2.90 × 10⁻³ / 910 × 10⁻⁹ = 3190 K (keep the unrounded value until the last step). With L = 3.0 × 10²⁹ W, 4πσT⁴ = 7.35 × 10⁷ W m⁻², so r² = 4.08 × 10²¹ m² and r = 6.39 × 10¹⁰ m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
+
 ## More worked reminders
 
 Photon from a transition: levels −5.4 eV and −2.0 eV. ΔE = 3.4 eV = 5.44 × 10⁻¹⁹ J. λ = hc/ΔE = 1.989 × 10⁻²⁵ / 5.44 × 10⁻¹⁹ = 3.66 × 10⁻⁷ m, which is 366 nm. The frequency is f = ΔE/h = 8.2 × 10¹⁴ Hz.

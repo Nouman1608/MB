@@ -70,6 +70,12 @@ A steady current of 0.35 A flows for 12 minutes. Find the charge and the number 
 2. Q = It = 0.35 × 720 = 252 C.
 3. N = Q/e = 252 / (1.60 × 10⁻¹⁹) = 1.575 × 10²¹, so **N ≈ 1.6 × 10²¹ electrons**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--01-drift-velocity.webp" width="900" height="1260" alt="A wire carries free electrons that drift slowly against the conventional current. In time t the carriers in a slab of length vt cross a plane, so I = nAvq. For a 13 A copper cable the drift speed is 3.8 x 10^-4 m/s, and halving the diameter makes the drift speed four times larger for the same current." loading="lazy">
+  <figcaption>Why a current of many amperes needs only a tiny drift speed: I = nAvq.</figcaption>
+</figure>
+
+
 ### Worked example 2: energy and resistance of a lamp
 
 A lamp has 5.5 V across it and carries 2.4 A for 90 s. Find the charge, the energy transferred and the resistance.
@@ -131,9 +137,26 @@ Calculate R at each non-zero point and comment.
 
 R = V/I gives 10 Ω, 11.8 Ω, 16 Ω, 19.4 Ω, 22.2 Ω and 25 Ω. The resistance rises as V increases because the filament gets hotter. A constant R would indicate an ohmic conductor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
+
 ### Worked example 4: swapped axes
 
 A graph of V (vertical) against I (horizontal) for a resistor is a straight line through the origin passing through (0.040 A, 5.0 V). The gradient is 5.0/0.040 = **125 Ω**, which equals R. If the same data were plotted with I vertical, the gradient would be 1/125 = 8.0 × 10⁻³ S, and R would be found as the reciprocal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
 
 ## 3.4.3 Resistivity
 
@@ -162,6 +185,12 @@ A wire of diameter 0.250 mm is tested at several lengths L. Plotting R against L
 
 The diameter is the dominant source of uncertainty because it is squared. Measure it at several places along the wire and in two perpendicular directions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--03-resistivity-wire.webp" width="900" height="1255" alt="Three wires drawn to scale show that doubling the length doubles R (11.9 to 23.9 ohm) and doubling the diameter quarters it (2.98 ohm). A graph of R against L for a 0.32 mm wire has gradient 13.7 ohm per metre, so resistivity equals gradient times area, 1.1 x 10^-6 ohm metre." loading="lazy">
+  <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
+</figure>
+
+
 ## Temperature and resistance
 
 ### Metals
@@ -180,9 +209,21 @@ An ntc thermistor has resistance 5.0 kΩ at 20 °C and 1.1 kΩ at 60 °C (given)
 
 At 20 °C: I = 5.0 / 5000 = 1.0 mA. At 60 °C: I = 5.0 / 1100 = 4.5 mA. The current rises as temperature rises, so the ammeter reading could be calibrated as a temperature scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--09-sensing-dividers.webp" width="900" height="1210" alt="With an NTC thermistor and a 2.2 kohm resistor on 9.0 V, the output across the fixed resistor rises from 4.95 V at 20 C to 7.07 V at 60 C while the output across the thermistor falls from 4.05 V to 1.93 V. With an LDR in series with 10 kohm on 6.0 V, the 10 kohm resistor has 5.45 V in bright light and 0.29 V in the dark." loading="lazy">
+  <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
+</figure>
+
+
 ### Temperature sensors
 
 Put an ntc thermistor in series with a fixed resistor and a cell. When the surroundings warm up, the thermistor's resistance falls, the current rises, and the p.d. across the fixed resistor rises. A voltmeter across the fixed resistor therefore acts as a temperature sensor. Examples include thermostats and fire or engine-temperature monitoring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--04-resistance-temperature.webp" width="900" height="1275" alt="In a metal, heating makes the ions vibrate more so electrons collide more and resistance rises. In an NTC thermistor or an LDR, heat or light frees many more carriers so resistance falls. The graph shows a metal rising gently and an NTC thermistor falling from 2.4 kohm at 25 C to 0.50 kohm at 65 C." loading="lazy">
+  <figcaption>Collisions versus carrier number: why metals and NTC thermistors behave oppositely.</figcaption>
+</figure>
+
 
 ## Superconductivity
 

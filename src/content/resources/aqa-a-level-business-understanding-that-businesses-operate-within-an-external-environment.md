@@ -49,6 +49,12 @@ Use the same chain each time:
 
 Step 4 is where evaluation starts. Weak answers stop after step 1 and just state "interest rates went up".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--06-external-four-step-chain.webp" width="900" height="960" alt="Four steps: name the factor and change; costs or demand; price, volume, revenue, profit; size and response." loading="lazy">
+  <figcaption>Always say whether costs or demand change, and how far.</figcaption>
+</figure>
+
+
 ## Competition
 
 **Competition** means rival businesses selling similar products to the same customers. A change in competition can hit demand directly. It can also raise costs.
@@ -67,6 +73,12 @@ Orrinson Bakehouse sells 4,000 loaves a week at £2.50. Variable cost is £1.30 
 | Hold the price | £2.50 | 3,200 | £1.20 | 3,200 × £1.20 − £2,600 = £1,240 |
 
 Profit falls by 45.5% if the bakery cuts its price and by 43.6% if it holds. The two responses end up almost identical in profit, but the revenue differs: £8,740 with the cut against £8,000 when holding. The better choice depends on things the numbers do not show, such as whether lost customers return.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--07-orrinson-price-or-hold.webp" width="900" height="940" alt="Weekly profit 2,200 pounds before, 1,200 with a price cut (down 45.5%), 1,240 holding price (down 43.6%); revenue 8,740 v 8,000 pounds." loading="lazy">
+  <figcaption>Profit is almost equal either way, but revenue differs.</figcaption>
+</figure>
+
 
 ## Market conditions
 
@@ -89,6 +101,12 @@ Rise in unit cost           = 2.16 ÷ 30         = 7.2%
 
 An 18% rise in one input becomes a 7.2% rise in total unit cost, because the input is only part of the cost. At a selling price of £48 the margin per unit falls from £18.00 (37.5% of price) to £15.84 (33.0%). To restore a 37.5% margin the price would need to rise to £51.46. Whether Solway can do that depends on how rivals and customers react. A higher price may then lose sales, so the effect moves from costs to demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--05-input-price-pass-through.webp" width="900" height="1010" alt="Unit cost rises from 30.00 to 32.16 pounds when the leaf (40 percent of cost) rises 18 percent: a 7.2 percent rise overall. Margin at 48 pounds falls from 18.00 to 15.84." loading="lazy">
+  <figcaption>An 18% rise in one input is only a 7.2% rise in unit cost.</figcaption>
+</figure>
+
+
 ## Incomes
 
 **Incomes** are the money households have to spend. Changes in income alter demand, and they also alter costs.
@@ -99,6 +117,12 @@ An 18% rise in one input becomes a 7.2% rise in total unit cost, because the inp
 The ratio of the percentage change in demand to the percentage change in income is called income elasticity of demand. It belongs to the marketing section (3.3.2) of the specification. For now, you only need the idea: some products react strongly to income and others hardly at all.
 
 Take a business selling premium and budget bicycles. If real incomes fall by 3% and premium sales fall by 9%, premium demand moved three times as far as income (9 ÷ 3 = 3). If budget sales rise by 4%, the budget bicycle behaves like an inferior good. Showing both effects is stronger than saying "lower incomes reduce sales".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--08-income-normal-inferior.webp" width="900" height="1060" alt="Income falls 3%; premium bike sales fall 9% (three times as far); budget bike sales rise 4%, moving the opposite way." loading="lazy">
+  <figcaption>A normal good moves with income; an inferior good moves against it.</figcaption>
+</figure>
+
 
 ## Interest rates
 
@@ -120,6 +144,17 @@ Percentage rise = 3,600 ÷ 13,200 = 27.3%
 
 A rise of 1.5 percentage points in the rate is a 27.3% rise in the interest bill. A percentage point change is not a percentage change. Ravenhurst's customers may also finance a garden room with a loan, so it can be hit twice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--06-points-vs-percent.webp" width="900" height="1090" alt="The rate rises from 5.5 to 7.0 percent, 1.5 percentage points. Yearly interest on 240,000 pounds rises from 13,200 to 16,800, up 3,600 or 27.3 percent." loading="lazy">
+  <figcaption>A percentage point change is not a percentage change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
 ## Demographic factors
 
 **Demographic factors** are features of the population: its size, age structure, where people live, household size and how it is changing through births, deaths and migration.
@@ -128,6 +163,12 @@ A rise of 1.5 percentage points in the rate is a 27.3% rise in the interest bill
 - **Costs.** The age and size of the workforce affect recruitment. If fewer young people enter work, employers may pay more. Migration can increase the supply of labour and ease wage pressure.
 
 "The population is ageing" earns little. Say which products or workers it affects, as in "more over-80s means more potential care home residents but fewer nurses to hire".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
 
 ## Environmental issues and fair trade
 
@@ -161,6 +202,17 @@ Profit after  = £13,230 − £9,297 = £3,933
 ```
 
 This assumes costs rise only through the ingredient price, not through the extra jars sold. One factor helped demand, another raised costs, and the net result is a small gain. Add the effects together before calling a factor "good" or "bad".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--09-demographic-green-grid.webp" width="900" height="890" alt="Two by two grid of ageing population and green/fair trade effects on costs and demand, with rises and falls marked." loading="lazy">
+  <figcaption>Each factor can push costs or demand either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--10-aldwick-net-effect.webp" width="900" height="990" alt="Waterfall: profit 3,600 pounds, plus 630 revenue from demand, minus 297 from ingredients, giving 3,933, a net gain of 333." loading="lazy">
+  <figcaption>Add the effects together before calling a factor good or bad.</figcaption>
+</figure>
+
 
 ## Putting the factors together
 

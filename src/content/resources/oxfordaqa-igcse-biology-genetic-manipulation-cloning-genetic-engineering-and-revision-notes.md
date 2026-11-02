@@ -40,6 +40,17 @@ A clone is genetically identical to its parent. No fertilisation, so no mixing o
 4. These cells carry the genetic information of the skin cell.
 5. At the ball-of-cells stage, place the embryo in the womb of an adult female.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--10-early-stage-gene-transfer.webp" width="900" height="860" alt="A gene added to a fertilised egg is carried by every cell as it divides to 2, 4 and 8 cells. A gene added to an adult reaches only some cells (3 of 24, illustrative)." loading="lazy">
+  <figcaption>Early-stage transfer gives an organism with the gene in every cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--04-dolly-cloning.webp" width="900" height="890" alt="A diploid udder cell nucleus from sheep A is put into an egg from sheep B whose nucleus was removed. An electric shock makes it divide into an embryo, placed in surrogate sheep C. The lamb is identical to sheep A, the nucleus donor." loading="lazy">
+  <figcaption>The cloned lamb matches the sheep that donated the nucleus, not the egg donor or surrogate.</figcaption>
+</figure>
+
+
 ### Embryo transplants in steps
 
 1. Obtain an early embryo.
@@ -52,6 +63,32 @@ A clone is genetically identical to its parent. No fertilisation, so no mixing o
 - **Embryo transplant vs adult cell cloning:** in an embryo transplant the offspring are identical to each other, but the parents were chosen before the animal's features were known. In adult cell cloning the offspring match an adult whose features are known.
 - **Cuttings vs tissue culture:** cuttings need no equipment and give few plants. Tissue culture needs sterile conditions and gives very many.
 - **Donor vs host:** the host mother carries the embryo. She is not the genetic parent of an embryo-transplant or adult-cell clone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--05-embryo-transplant.webp" width="900" height="1290" alt="Fertilise an egg, grow a ball of cells, split the cells apart before they specialise, transplant each group into a host mother. The calves are identical to each other but not to the host mothers." loading="lazy">
+  <figcaption>Splitting an early embryo gives identical calves carried by different host mothers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--06-tissue-culture-vs-cuttings.webp" width="900" height="910" alt="One group of cells splits into 4 each cycle: 1, 4, 16, 64, 256 after four cycles. Twelve cuttings with nine rooted is 75 percent. Cuttings give at most 12 plants, tissue culture 256." loading="lazy">
+  <figcaption>Tissue culture makes far more identical plants than cuttings, but needs a sterile laboratory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--07-adult-cell-cloning-success.webp" width="900" height="920" alt="Funnel, widths to scale: 240 egg cells, 30 embryos (12.5 percent), 9 pregnancies, 3 live births. Overall 1.25 percent, so about 80 egg cells per live animal." loading="lazy">
+  <figcaption>Most adult cell cloning attempts fail, which makes it costly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--03-micropropagation.webp" width="900" height="1120" alt="Four steps: cut explants from a parent tip, sterilise them, grow them in vitro on sterile agar with nutrients and hormones, then move plantlets to compost. The plants are genetically identical, so one disease could hit all." loading="lazy">
+  <figcaption>Micropropagation makes many identical plants from small pieces of one parent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--08-runners-and-cuttings.webp" width="900" height="1010" alt="Top: a strawberry plant sends out a runner, a side stem along the soil; roots and shoots grow at a point along it to form a new plant. Bottom: four steps for a cutting. 1 cut a short shoot just below a node; 2 remove the lower leaves to reduce water loss by transpiration; 3 dip the cut end in rooting powder, which contains plant hormones that stimulate root growth; 4 plant in damp compost and cover with a clear plastic bag to keep the air humid. Both methods use mitosis, so the new plants are genetically identical to the parent." loading="lazy">
+  <figcaption>Both methods make new plants by mitosis, so every new plant is a clone of the parent.</figcaption>
+</figure>
+
 
 ## Benefits and limits to quote in judgements
 
@@ -88,6 +125,17 @@ Genes from the chromosomes of humans and other organisms can be "cut out" and tr
 - A bacterium dividing every 30 minutes for 6 hours: 12 divisions, 2¹² = **4096** cells.
 - 40 of 5000 bacteria take up a gene: 40 ÷ 5000 × 100 = **0.8%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--11-bacteria-doubling-4096.webp" width="900" height="890" alt="Bars at each hour: 1, 4, 16, 64, 256, 1024, 4096. Twelve divisions in 6 hours give 2 to the power 12 = 4096 bacteria, all carrying the gene." loading="lazy">
+  <figcaption>One bacterium that has taken up the gene gives 4096 carriers in 6 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--12-plasmid-uptake-percentage.webp" width="900" height="970" alt="100 squares stand for 5000 bacteria (50 each). The 40 that took up a plasmid fill 0.8 of one square: 0.8 percent. 4960 did not." loading="lazy">
+  <figcaption>Only 0.8 percent of the bacteria took up the plasmid.</figcaption>
+</figure>
+
+
 ## 3.5.5 d, e and f: GM crops
 
 | Point | Detail |
@@ -122,11 +170,28 @@ A trial grows an insect-resistant crop and a non-GM crop in 4 plots each. GM yie
 - Difference = 0.65, which is 0.65 ÷ 5.5 × 100 = **11.8%** (about 12%).
 - Every GM plot is above every non-GM plot, but the trial is only 8 plots, so more sites and years would be needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--14-insecticide-sprays-compared.webp" width="900" height="1100" alt="The GM crop needed 2 sprays against 6: 67 percent fewer. On 25 hectares that is 50 against 150 sprays, 100 fewer. The trial does not show effects on wild insects, flowers or health." loading="lazy">
+  <figcaption>Fewer sprays is a benefit, but wider effects are not shown.</figcaption>
+</figure>
+
+
 ### Concerns in more detail
 
 - **Wild flowers:** if fields are sprayed with weedkiller more freely, wild flowers that grow among crops die, and the animals that depend on them lose food.
 - **Insects:** insects that feed on the weeds, or on the crop, may decline. Other animals that eat those insects lose a food supply.
 - **Human health:** nobody can yet say with certainty what the effects of eating GM crops are. Say "uncertain", not "harmful".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--08-gm-maize-yield-trial.webp" width="900" height="900" alt="Dot plot of five plots each. GM mean 9.6 t/ha, non-GM mean 8.0 t/ha, a 20 percent increase. The highest non-GM plot (8.2) is below the lowest GM plot (9.4). Over 40 hectares this is 64 extra tonnes." loading="lazy">
+  <figcaption>The GM plots all out-yielded the non-GM plots, but the trial covers one site and one season.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--13-gm-crop-concerns.webp" width="900" height="1100" alt="Herbicide-resistant crops allow heavy weedkiller use and fewer wild flowers; insect-resistant crops may harm non-pest insects; fewer insects means fewer animals that eat them. Effects on human health are uncertain." loading="lazy">
+  <figcaption>Each concern is a chain of effects, and health effects are uncertain.</figcaption>
+</figure>
+
 
 ## Key terms
 

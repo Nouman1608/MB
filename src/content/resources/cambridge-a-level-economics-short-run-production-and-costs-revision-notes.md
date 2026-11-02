@@ -61,6 +61,12 @@ These notes condense sections 7.5.1 and 7.5.2 of the Cambridge International AS 
 5. MC = change in TC divided by change in Q for the same step.
 6. Check: AFC + AVC should equal ATC (allow for rounding).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Production shapes in one paragraph
 
 MP rises while specialisation helps, then falls once the fixed factors get crowded. That turning point is the start of diminishing returns. AP rises while MP is above it and falls when MP is below it, so MP cuts AP at the top of AP. TP rises throughout while MP is positive.
@@ -75,6 +81,22 @@ MP rises while specialisation helps, then falls once the fixed factors get crowd
 | ATC | U-shaped, minimum to the right of AVC's | AFC still falling when AVC turns up |
 
 MC cuts AVC and ATC at their minimum points, from below. Below the average, MC pulls the average down. Above it, MC pulls it up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--06-bakery-cost-curves.webp" width="900" height="1100" alt="Cost per loaf against loaves per day from the lesson table. AVC is lowest (1.29) at 124 loaves and ATC lowest (1.73) at 150 loaves. MC falls to 1.00 then rises, passing the lowest points of AVC and ATC from below; MC is plotted at the middle of each block and runs off the top at 8.00." loading="lazy">
+  <figcaption>AVC bottoms at 124 loaves, ATC at 150, and MC cuts both from below.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--07-mc-mirrors-mp.webp" width="900" height="1050" alt="Bars of marginal product for workers 1 to 7 (20, 30, 40, 34, 26, 15, 5) above bars of marginal cost (2.00, 1.33, 1.00, 1.18, 1.54, 2.67, 8.00) found as 40 divided by MP. MC falls while MP rises and rises once diminishing returns begin." loading="lazy">
+  <figcaption>MC = wage / MP, so MC falls while MP rises and rises when MP falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Worked reminder: a small laundry
 
@@ -103,9 +125,21 @@ A repair shop in Country C has one workbench (fixed). The figures are invented.
 
 MP is highest for the second worker, so diminishing returns begins with the third worker (MP falls from 16 to 12). AP peaks at 2 workers (13.0) and falls once MP (12) is below it. If each worker earns 55 cu per week, the third worker's MC is 55 / 12 = 4.58 cu per repair and AVC with three workers is 165 / 38 = 4.34 cu. MC is above AVC, so AVC is already rising at 3 workers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--05-product-curves-bakery.webp" width="900" height="1180" alt="Total product rises from 0 to 170 loaves as workers 1 to 7 are added, flattening. Marginal product peaks at 40 with the third worker then falls to 5; average product peaks at 31 with four workers, and MP cuts AP at AP's maximum. Diminishing returns are shaded from the third worker." loading="lazy">
+  <figcaption>TP keeps rising while MP falls; MP cuts AP at AP's peak.</figcaption>
+</figure>
+
+
 ## A paragraph to learn: how diminishing returns shapes costs
 
 The firm has a fixed factor, so extra workers share it. At first they specialise and MP rises, which pulls MC and AVC down. After the turning point each worker adds less than the one before. The wage is unchanged, so the cost per extra unit rises and MC turns up. Once MC passes AVC, AVC rises. Once MC passes ATC, ATC rises. Fixed costs have no effect on MC at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--01-fixed-vs-variable-costs.webp" width="900" height="890" alt="Stacked bars of daily bakery cost for 0 to 7 workers. The oven (60 cu) is fixed and the same in every bar, even at zero workers; wages at 40 cu per worker form the variable part. Total cost is 60, 100, 140, 180, 220, 260, 300, 340. A warning says a wage contract does not make wages fixed if the firm can change worker numbers with output." loading="lazy">
+  <figcaption>Fixed cost is the same at every output; wages vary with the workers hired.</figcaption>
+</figure>
+
 
 ## What shifts which curve
 
@@ -114,6 +148,12 @@ The firm has a fixed factor, so extra workers share it. At first they specialise
 | Higher rent (fixed cost) | TFC, AFC, TC, ATC up. TVC, AVC, MC unchanged |
 | Higher wage (variable cost) | TVC, AVC, ATC, MC up (and TC) |
 | Technology that raises MP | MC and AVC down (and ATC) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--02-what-shifts-cost-curves.webp" width="900" height="1160" alt="Two graphs of cost per loaf against output for the bakery. Rent rising from 60 to 80 cu shifts ATC up by 20 divided by output but leaves AVC and MC unchanged. A wage rising from 40 to 50 cu shifts MC, AVC and ATC up, since MC = wage / MP and AVC = wage / AP. Dashed lines are before, solid after." loading="lazy">
+  <figcaption>A rent rise moves only ATC; a wage rise moves MC, AVC and ATC.</figcaption>
+</figure>
+
 
 ## Reading a diagram in an answer
 

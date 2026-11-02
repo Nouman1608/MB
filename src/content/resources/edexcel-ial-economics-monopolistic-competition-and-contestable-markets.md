@@ -95,6 +95,17 @@ The demand curve now just touches the ATC curve at Q = 100. This tangency is the
 
 *A loss-making case.* If demand falls to P = 8 − 0.03Q, MR = MC gives 8 − 0.06Q = 2 + 0.02Q, so Q = 75 and P = 5.75 cu. ATC = 400/75 + 2 + 0.75 = 8.08 cu. The loss is (8.08 − 5.75) × 75 = 175 cu. Check: TR = 431.25 and TC = 606.25, a loss of 175. AVC = 2 + 0.75 = 2.75, which is below the price, so the firm covers variable costs and may carry on in the short run. Losses cause exit, which shifts demand for the survivors right until normal profit returns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--01-monopolistic-sr-profit.webp" width="900" height="880" alt="Firm diagram for the lesson's Shop A. AR = 14 − 0.03Q, MR = 14 − 0.06Q, MC = 2 + 0.02Q and ATC = 400/Q + 2 + 0.01Q. MC = MR at 150 cakes, price 9.50, ATC 6.17, so the shaded rectangle is supernormal profit of 500." loading="lazy">
+  <figcaption>At 150 cakes Shop A earns supernormal profit of 500 cu, which signals entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--03-monopolistic-sr-loss.webp" width="900" height="880" alt="With demand AR = 8 − 0.03Q, MC = MR at 75 cakes and price 5.75, below ATC of 8.08, so the loss rectangle is 175. AVC is 2.75, below the price, so the firm carries on in the short run." loading="lazy">
+  <figcaption>A loss-making firm continues while price covers average variable cost.</figcaption>
+</figure>
+
+
 ## 4. Productive and allocative efficiency (4d)
 
 Productive efficiency means producing at minimum ATC. Allocative efficiency means P = MC.
@@ -116,6 +127,17 @@ Productive efficiency means producing at minimum ATC. Allocative efficiency mean
 - Normal profit leaves little to fund research, so dynamic efficiency may be weak, though firms keep innovating to differentiate.
 - Advertising can inform buyers or only persuade them. In the second case it raises ATC without raising value.
 - The size of the efficiency loss depends on how steep demand is and on how large fixed costs are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--02-monopolistic-lr-inefficiency.webp" width="900" height="910" alt="After entry AR = 10 − 0.03Q just touches ATC at 100 cakes and price 7, so profit is normal. Lowest ATC is 6 at 200 cakes, giving excess capacity of 100, and MC is 4 against price 7, so there is no allocative efficiency." loading="lazy">
+  <figcaption>In the long run the firm earns normal profit but is neither productively nor allocatively efficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--06-mc-elasticity-at-long-run-point.webp" width="900" height="920" alt="Demand line P = 10 - 0.03Q with the point (100, 7) marked, and the working PED = -(1/0.03) x (7/100) = -2.33, which is elastic." loading="lazy">
+  <figcaption>At the long-run point Shop A's PED is -2.33, so demand there is elastic.</figcaption>
+</figure>
+
 
 ## 5. Characteristics of contestable markets (8a)
 
@@ -144,6 +166,12 @@ A contestable market may contain one firm or many. A single airline on a route i
 
 So the incumbent gives up 144 − 108 = 36 of profit to stay safe, and consumers pay 12 rather than 18.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--04-limit-pricing-coach.webp" width="900" height="910" alt="Entrant's two-year profit (P − 6)(30 − P) peaks at 144 at the monopoly price of 18. With entry cost F = 108 the curve is above the line between prices 12 and 24, so entry pays; at the limit price of 12 the entrant just breaks even." loading="lazy">
+  <figcaption>The limit price is the lower root of the entrant's break-even condition, giving up 36 of incumbent profit.</figcaption>
+</figure>
+
+
 ## 7. Costs and benefits of contestability (8c)
 
 | | Benefits | Costs |
@@ -170,6 +198,12 @@ Using the coach route above, the limit price depends on F:
 | 144 or more | 18 (monopoly price) | 144 |
 
 With F = 0 the market is perfectly contestable and the incumbent earns nothing. With F of 144 or more entry is never profitable, so the market is not contestable at all. Notice that the incumbent can also raise sunk costs for rivals through advertising and special equipment, which makes its own position stronger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--05-limit-price-and-sunk-cost.webp" width="900" height="840" alt="Limit price against sunk cost F for the coach route: 6 at F = 0, 10 at 80, 12 at 108, 16 at 140 and the monopoly price 18 from F = 144 onwards." loading="lazy">
+  <figcaption>The higher the sunk cost of entry, the higher the price the incumbent can charge without attracting entry.</figcaption>
+</figure>
+
 
 ## Common errors
 

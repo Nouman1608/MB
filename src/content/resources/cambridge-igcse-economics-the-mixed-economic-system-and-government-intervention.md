@@ -42,6 +42,17 @@ A **mixed economic system** is one in which resources are allocated partly by th
 
 A market system can fail in the ways you met in 2.10: public goods are not supplied, merit goods are under-consumed, demerit goods and goods with external costs are over-consumed, monopolies abuse power and factors are immobile. The government has several tools to respond. That is why most economies are mixed, with the balance between the sectors differing by country.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## Maximum prices
 
 A **maximum price** (price ceiling) is a legal limit above which a price may not rise. It only has an effect if it is set below the equilibrium price.
@@ -61,6 +72,22 @@ A **maximum price** (price ceiling) is a legal limit above which a price may not
 On the diagram, draw a horizontal line at 7 below the equilibrium. Quantity demanded is read off the demand curve, quantity supplied off the supply curve, and the horizontal gap between them is the shortage.
 
 **Why governments do it:** to make essentials affordable. **Drawbacks:** a shortage, queues or rationing, a risk of black markets where the good sells above the legal price, and lower supply because producers earn less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--01-fx-floor-and-ceiling.webp" width="900" height="1360" alt="A minimum price of 2.40 leaves 80m zeds in excess supply that the central bank must buy; a maximum price of 1.60 leaves excess demand of 80m that it must meet by selling zeds. Quantities are read off D (Qd = 500 - 100P) and S (Qs = 100 + 100P), with equilibrium at 2 and 300m. Axes are zoomed and do not start at zero." loading="lazy">
+  <figcaption>A floor or ceiling on a currency forces the central bank to buy or sell the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Minimum prices
 
@@ -115,6 +142,17 @@ An **indirect tax** is a tax on spending, collected by the seller and passed to 
 
 The burden falls more on consumers when demand is less elastic. The tax cuts quantity from 60 to 49.2, an 18% fall, so it reduces consumption of a demerit good. The revenue can fund other services. An **ad valorem** tax takes a set percentage of the selling price, so the vertical gap between the supply curves widens as price rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--09-indirect-tax-incidence.webp" width="900" height="770" alt="Supply shifts up by 3; price rises from 10 to 11.8, quantity falls from 60 to 49.2; consumers bear 88.56 and producers 59.04." loading="lazy">
+  <figcaption>Of the 147.6 tax raised, consumers bear 88.56 and producers 59.04.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## Subsidies
 
 A **subsidy** is a payment from the government to producers that lowers their costs per unit, shifting supply down (right) by the amount of the subsidy.
@@ -129,6 +167,12 @@ A **subsidy** is a payment from the government to producers that lowers their co
 
 Subsidies encourage consumption of goods with external benefits and merit goods, and can help infant industries. Their drawbacks are the opportunity cost of the funds, the risk that firms become dependent, and the difficulty of knowing how large the subsidy should be.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Regulation
 
 **Regulation** means rules backed by law, such as limits on pollution, age limits on sales or standards for safety and advertising. It can be more direct than a tax: a ban on a harmful input stops its use, while a tax only discourages it. Implications: firms face compliance costs, which may raise prices; the government needs inspectors and penalties, which cost money; and rules that are weakly enforced achieve little.
@@ -142,11 +186,23 @@ Subsidies encourage consumption of goods with external benefits and merit goods,
 | Privatisation | Profit motive and competition may raise efficiency; government gains sale proceeds and saves running costs | Firms may cut unprofitable services, raise prices or abuse monopoly power; loss of public control |
 | Nationalisation | Can protect essential services, avoid private monopoly power, keep loss-making but needed services open | Taxpayers cover losses; less pressure to cut costs; political decisions may override sound ones |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--10-ownership-transfer.webp" width="900" height="680" alt="Privatisation and nationalisation arrows between public and private sectors with two benefits and two drawbacks each." loading="lazy">
+  <figcaption>Each transfer of ownership has two possible benefits and two drawbacks.</figcaption>
+</figure>
+
+
 ## Direct provision of goods
 
 In **direct provision** the government itself supplies a good or service, paid for from taxation and usually free or cheap at the point of use. This suits public goods, which private firms will not supply because people cannot be excluded, and merit goods such as education and health care.
 
 **Worked example (illustrative).** A government has a budget of 120 for clinics costing 2.4 each, so it can build 120 ÷ 2.4 = 50. If it builds 40 clinics, it spends 96 and has 24 left. At 3.0 per school, the 24 would pay for 8 schools. Choosing 10 extra clinics therefore means 8 schools are given up, which is the opportunity cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--02-direct-provision-tradeoff.webp" width="900" height="930" alt="With a budget of 120, 50 clinics at 2.4 use all the money. Building 40 clinics costs 96 and leaves 24, which buys 8 schools at 3.0, so 10 extra clinics means 8 schools given up." loading="lazy">
+  <figcaption>Choosing 10 extra clinics means giving up 8 schools.</figcaption>
+</figure>
+
 
 ## Drawing the diagrams
 

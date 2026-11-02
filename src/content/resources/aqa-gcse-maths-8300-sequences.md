@@ -73,9 +73,21 @@ The first term of a sequence is 5. The rule is "double the previous term, then s
 
 The terms are 5, 7, 11, 19. A term-to-term rule is slow for a far-off term, which is why the nth term is useful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--01-undo-the-rule.webp" width="900" height="790" alt="Three boxes show the terms 5, 11 and 29. Going forwards the rule is times 3 then subtract 4. Going backwards from the 3rd term 29 you undo in reverse order: add 4 then divide by 3 gives the 2nd term 11, and the same steps give the 1st term 5. A forward check confirms 3 times 5 minus 4 is 11 and 3 times 11 minus 4 is 29." loading="lazy">
+  <figcaption>To run a rule backwards, undo each step in reverse order: add 4, then divide by 3.</figcaption>
+</figure>
+
+
 ### Patterns and diagrams
 
 Matchsticks are laid in a row of triangles. Pattern 1 is one triangle (3 matches). Each new triangle shares a side with the one before, so it needs 2 more matches. Pattern 2 uses 5 matches and pattern 3 uses 7. Turn the diagram into numbers first, then treat it like any other sequence: 3, 5, 7, 9, ... We find its nth term in worked example 7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--01-matchstick-triangles.webp" width="900" height="840" alt="Three matchstick patterns: one triangle uses 3 matches, two triangles in a row use 5, three use 7. Each new triangle adds 2 matches, so the nth term is 2n + 1 and pattern 30 uses 61 matches." loading="lazy">
+  <figcaption>A row of n triangles uses 2n + 1 matches: 2 for each new triangle plus 1 to start.</figcaption>
+</figure>
+
 
 ## A24: Special sequences you must recognise
 
@@ -88,6 +100,12 @@ Matchsticks are laid in a row of triangles. Pattern 1 is one triangle (3 matches
 | Triangular numbers | 1, 3, 6, 10, 15, 21, 28, ... | n(n + 1)/2 |
 
 Triangular numbers count dots in triangle-shaped patterns: add 2, then 3, then 4, and so on. Know the first ten of each list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--02-special-numbers.webp" width="900" height="880" alt="Dot patterns: square numbers 1, 4, 9, 16 are n by n squares of dots; triangular numbers 1, 3, 6, 10 are triangles with rows of 1, 2, 3, 4 dots, adding 2, then 3, then 4 dots. Cube numbers are 1, 8, 27, 64, 125, written n cubed." loading="lazy">
+  <figcaption>Square numbers are n by n grids; triangular numbers add one more row each time.</figcaption>
+</figure>
+
 
 ### Arithmetic progressions
 
@@ -104,6 +122,12 @@ a,  b,  a + b,  a + 2b,  2a + 3b,  3a + 5b, ...
 ```
 
 This lets you work backwards when a question gives you later terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--03-fibonacci-backwards.webp" width="900" height="800" alt="A Fibonacci-type sequence with first terms a and b continues a + b, a + 2b, 2a + 3b. If the 3rd term is 11 and the 5th is 29, then a + b = 11 and 2a + 3b = 29, giving b = 7 and a = 4. The sequence is 4, 7, 11, 18, 29." loading="lazy">
+  <figcaption>Write the terms using a and b, match the known terms, then solve.</figcaption>
+</figure>
+
 
 ### Worked example 3: Fibonacci-type, working backwards
 
@@ -123,6 +147,12 @@ The sequence is 4, 7, 11, 18, 29. Always check: 4 + 7 = 11, 11 + 18 = 29.
 
 In a **quadratic sequence** the first differences are not constant, but the **second differences** (the differences between the differences) are. On both tiers you must recognise a quadratic sequence and continue it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+
 ### Worked example 4: continuing a quadratic sequence
 
 Write down the next two terms of 5, 7, 11, 17, 25, ...
@@ -138,6 +168,12 @@ The second differences are all 2, so the next first differences are 10 and 12. T
 ### Simple geometric progressions
 
 In a **geometric progression** you multiply by the same number each time. That number is the **common ratio**, r. The specification uses the form rⁿ, with r a rational number greater than 0. Find r by dividing a term by the one before it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--04-geometric-ratio.webp" width="900" height="900" alt="Top: 192, 48, 12, 3, 3/4, 3/16 with each term the previous times 1/4; the circle areas shrink to a quarter each step. Bottom (Higher tier): first term 2 and ratio root 3 gives 2, 2 root 3, 6, 6 root 3, 18, 18 root 3, 54, so every two steps multiply by 3." loading="lazy">
+  <figcaption>Divide a term by the one before to find r; r below 1 shrinks the terms, r above 1 grows them.</figcaption>
+</figure>
+
 
 ### Worked example 5: geometric progression with a fraction ratio
 
@@ -176,6 +212,12 @@ You may need to run a rule backwards. Suppose the rule is "next term = 3 × prev
 ```
 
 Check forwards: 3 × 5 − 4 = 11 and 3 × 11 − 4 = 29.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--03-four-shapes.webp" width="900" height="970" alt="Four small graphs of a sequence for n = 1 to 6. Linear 4n minus 1 rises in a straight line to 23. Quadratic n squared curves upward to 36. Cubic n cubed curves upward more steeply to 216. Exponential 3 times 2 to the n minus 1 doubles each step and reaches 96." loading="lazy">
+  <figcaption>Linear sequences are straight; quadratic, cubic and exponential sequences curve upward at different rates.</figcaption>
+</figure>
+
 
 ## A25: The nth term of a linear sequence
 
@@ -222,6 +264,27 @@ nth term:  36 − 5n
 
 Positions must be positive whole numbers, so say clearly whether n is one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--02-decreasing-nth-term.webp" width="900" height="880" alt="A graph of the terms of 31, 26, 21, 16, 11, 6 against position 1 to 6. The points fall in a straight line, down 5 each step. Extending the line back to position 0 gives 36, so the nth term is 36 minus 5n, not 31 minus 5n." loading="lazy">
+  <figcaption>The terms fall by 5 each step, so n has coefficient −5, and the line starts at 36 when n = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--03-is-it-a-term.webp" width="900" height="850" alt="Two number lines. For the sequence 7n minus 4 the terms near 150 are 143 (n = 21), 150 (n = 22) and 157 (n = 23), so 150 is the 22nd term. For 6n plus 5 the terms near 200 are 197 (n = 32) and 203 (n = 33); 200 falls halfway between them, which is n = 32.5, so 200 is not a term." loading="lazy">
+  <figcaption>Set the nth term equal to the number and solve: n must be a positive whole number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--01-linear-nth-term.webp" width="900" height="940" alt="Graph of the sequence 5, 8, 11, 14 against n. Each point is 3 higher than the one before, so the points lie on a straight line of gradient 3. Extending the line back to n = 0 gives 2, so the nth term is 3n + 2." loading="lazy">
+  <figcaption>A linear sequence lies on a straight line whose gradient is the common difference.</figcaption>
+</figure>
+
+
 ## A25 Higher tier only: the nth term of a quadratic sequence
 
 A quadratic sequence has an nth term of the form **an² + bn + c**. The key fact: the second difference is always **2a**.
@@ -257,6 +320,12 @@ Check n = 2: 3 × 4 − 10 + 6 = 8  ✓
 There is a quicker check on the coefficients. For an² + bn + c, the first term is a + b + c and the first first-difference is 3a + b. Here 3 + (−5) + 6 = 4 and 3 × 3 + (−5) = 4. Both match.
 
 The [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/) have a second example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
 
 ## Common errors
 

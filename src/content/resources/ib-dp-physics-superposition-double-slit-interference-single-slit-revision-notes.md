@@ -30,6 +30,12 @@ Quick recall for **C.3 Wave phenomena (second half)** in the IB *Physics guide*,
 - **Fringe separation s:** distance between adjacent bright (or adjacent dark) fringes.
 - **Order n:** the whole number counting maxima outward from the central one (n = 0).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--04-ibp-ssd-young.webp" width="900" height="1030" alt="A laser lights two slits a distance d apart, with a screen at distance D. The next bright fringe has path difference one wavelength. For 532 nm, D = 1.80 m and d = 0.25 mm the fringe separation is 3.83 mm, shown as a computed fringe strip." loading="lazy">
+  <figcaption>s = lambda D / d gives the fringe separation from wavelength, screen distance and slit separation.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Equation | Level |
@@ -79,6 +85,12 @@ Symbols: d = slit separation, D = slits to screen, b = slit width, θ in radians
 - Use the words "in phase" and "in antiphase" when you explain a point, and say how the path difference produces them.
 - Young's experiment supports the wave model of light, because particles in straight lines would not give alternating bright and dark bands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--01-ibp-ssd-pulses.webp" width="900" height="1000" alt="Three rope snapshots: a +4.0 cm pulse and a -3.0 cm pulse approach, overlap to give +1.0 cm (components dashed), then pass through unchanged." loading="lazy">
+  <figcaption>Displacements add with sign, and the pulses emerge unchanged.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Idea | Two slits | Grating (many slits) |
@@ -115,6 +127,17 @@ White light: a white central maximum, then spectra with violet nearest the centr
 
 **Grating with white light (HL).** White centre; each order is a rainbow band. Violet is on the side nearer the centre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--06-ibp-ssd-single-slit.webp" width="900" height="930" alt="Intensity against screen position for 650 nm light, slit 0.040 mm, screen 1.5 m: central maximum 4.9 cm wide between minima at 2.4 cm either side, with secondary maxima half as wide (2.4 cm). A slit twice as wide halves the central width." loading="lazy">
+  <figcaption>The central maximum has width 2 lambda D / b, so a wider slit gives a narrower pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--07-ibp-ssd-modulation.webp" width="900" height="870" alt="Double-slit fringes with d = 0.30 mm and b = 0.050 mm sit inside a single-slit envelope. The sixth-order fringes are missing, leaving 11 bright fringes from n = -5 to 5." loading="lazy">
+  <figcaption>Fringe brightness follows the single-slit envelope, and a fringe on an envelope minimum is missing.</figcaption>
+</figure>
+
+
 ## Model sentences for explain questions
 
 - "The sources are coherent because they are two parts of one wavefront, so the phase difference stays constant."
@@ -123,6 +146,17 @@ White light: a white central maximum, then spectra with violet nearest the centr
 - "A narrower slit diffracts the light through a larger angle, so the central maximum is wider; less light passes through, so it is dimmer."
 - "The grating has many slits, so the maxima are narrower and brighter and the angles can be measured more precisely."
 - "Violet has the shortest wavelength, so sin θ is smallest and violet appears closest to the centre."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--02-ibp-ssd-coherence.webp" width="900" height="1010" alt="Top: two lamps emit in random bursts so the phase of each wave jumps and the phase difference changes in steps. Bottom: one laser split by two slits gives a constant phase difference." loading="lazy">
+  <figcaption>Coherent sources keep a constant phase difference, so the pattern is stable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--03-ibp-ssd-path-difference.webp" width="900" height="1250" alt="For in-phase transmitters with wavelength 2.8 cm, point P (41.3 cm and 27.3 cm) has path difference 14.0 cm = 5.0 wavelengths, so constructive; point Q (36.4 cm and 26.6 cm) has 9.8 cm = 3.5 wavelengths, so destructive." loading="lazy">
+  <figcaption>A whole number of wavelengths gives a maximum; a half-integer gives a minimum.</figcaption>
+</figure>
+
 
 ## Units and checks
 

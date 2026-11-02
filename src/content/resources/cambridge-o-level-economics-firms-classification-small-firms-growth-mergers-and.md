@@ -65,6 +65,17 @@ Each column totals 100%, and the changes total zero. The tertiary share has rise
 
 Y is larger by employees, X is larger by turnover. Say which measure you use before you call a firm "large".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--01-size-measures.webp" width="900" height="850" alt="Bar charts: Firm X has 40 employees and Firm Y 400; X has turnover 50 million and Y 20 million. Turnover per employee is 1,250,000 for X and 50,000 for Y." loading="lazy">
+  <figcaption>Y is larger by employees, X by turnover.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## 3.5.2 Small firms
 
 **Advantages**
@@ -97,6 +108,12 @@ Profit at 113 repairs   = 113 x 16 - 1,800 = 8
 
 At 113 repairs the stall has almost no profit, so a quiet month could produce a loss. That is a challenge of small size: fixed costs must be covered from a small sales base.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--10-small-firm-break-even.webp" width="900" height="920" alt="Revenue (25 per repair) and total cost (1,800 plus 9 per repair) cross at 112.5 repairs, so 113 are needed. Profit is 600 at 150 repairs and only 8 at 113 repairs." loading="lazy">
+  <figcaption>The stall needs 113 repairs a month just to break even.</figcaption>
+</figure>
+
+
 ## 3.5.3 Causes and forms of growth
 
 **Causes**: higher profit, more market power, lower costs through economies of scale, spreading risk across more products or markets, survival against bigger rivals, and the ambitions of owners and managers.
@@ -120,6 +137,12 @@ Sales grew, yet share fell by one percentage point, because the market grew twic
 | Cost | Spread over time | A large sum up front |
 | Risk | Firm knows its own business | Clashing cultures, job losses, overpaying |
 | Control | Owners keep control | Control may be shared |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--07-share-vs-sales-growth.webp" width="900" height="820" alt="A firm sells 2.40 million of a 20 million market (12 percent), then 2.64 million of a 24 million market (11 percent). Sales grew 10 percent, the market 20 percent, so share fell one point." loading="lazy">
+  <figcaption>Grow faster than the market to gain share.</figcaption>
+</figure>
+
 
 ## 3.5.4 Mergers
 
@@ -166,6 +189,27 @@ Group profit, slump       = -2.0 + 4.0 =  2.0m
 
 Before the merger the shipping firm made a loss in the slump. Afterwards the group stays profitable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--06-merger-types.webp" width="900" height="1040" alt="Horizontal: two bus firms in the same industry and stage join. Vertical: along a chain of timber yard, furniture maker and showrooms, backward towards suppliers or forward towards sellers. Conglomerate: a shipping group and a hotel group in different industries join." loading="lazy">
+  <figcaption>Horizontal firms are at the same stage; vertical firms are at different stages; conglomerate firms are in different industries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--08-merger-concentration.webp" width="900" height="870" alt="Five bus operators hold 30, 22, 20, 14 and 14 percent. A (22) and B (14) merge into 36 percent. The two biggest firms rise from 52 to 66 percent, so the market is more concentrated." loading="lazy">
+  <figcaption>The merged firm becomes the largest and the market becomes more concentrated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--02-vertical-saving.webp" width="900" height="960" alt="Buying 800 cubic metres of timber costs 96,000; owning the yard costs 76,000; the saving is 20,000, before the price of the yard." loading="lazy">
+  <figcaption>A vertical merger saves 20,000 before the cost of buying the yard.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--03-conglomerate-profit.webp" width="900" height="890" alt="Normal year: shipping 6.0 plus hotels 4.0 gives 10.0. Slump: shipping -2.0 plus hotels 4.0 gives 2.0, still a profit." loading="lazy">
+  <figcaption>Unrelated activities spread risk.</figcaption>
+</figure>
+
+
 ## 3.5.5 Scale: economies and diseconomies
 
 Average cost is total cost divided by output. **Economies of scale** exist where that figure falls as the firm produces more. **Diseconomies of scale** exist where it climbs as the firm produces more.
@@ -205,6 +249,27 @@ Fall = 0.375 per job, or 7.7%
 ```
 
 Link back to 3.5.4: horizontal mergers aim at economies of scale, but the saving is not automatic. A bigger firm that is badly managed can meet diseconomies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--09-average-cost-table.webp" width="900" height="800" alt="Average cost from the lesson table: 6.00, 5.00, 4.50, 4.40, 4.70 and 5.30 at 10,000 to 60,000 units. It falls 26.7 percent to 40,000 units (economies) and at 60,000 is 20.5 percent above the minimum (diseconomies)." loading="lazy">
+  <figcaption>Average cost falls to 4.40 at 40,000 units and then rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--04-printers-merger-cost.webp" width="900" height="960" alt="Cost per job: K 5.50, L 4.50, joined 4.875, after 18,000 savings 4.50, a fall of 0.375 or 7.7 percent." loading="lazy">
+  <figcaption>Merger savings cut cost per job from 4.875 to 4.50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--05-bulk-discount.webp" width="900" height="710" alt="50,000 units at 8.00 cost 400,000; at 7.20 they cost 360,000, saving 40,000 (10 percent off the unit price)." loading="lazy">
+  <figcaption>A bulk order cuts the unit price by 10%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
 
 ## Evaluating a merger
 

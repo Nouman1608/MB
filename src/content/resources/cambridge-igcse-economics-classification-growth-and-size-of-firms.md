@@ -72,6 +72,22 @@ Turnover per employee, Q = 180,000,000 / 1,500 = 120,000
 
 Q is far bigger by both measures. It also earns more turnover per worker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--01-sector-output-jobs.webp" width="900" height="1030" alt="Paired bars for Country C. Primary 9% of output and 22% of jobs; secondary 27% and 28%; tertiary 64% and 50%. Each set adds to 100%. Primary workers produce little each; tertiary workers produce a lot." loading="lazy">
+  <figcaption>Output and employment shares differ by sector in the lesson's Country C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--11-relative-size-two-firms.webp" width="900" height="870" alt="Bars compare Firm P with Firm Q (drawn as the full bar) on employees (30 vs 1,500), turnover (2,400,000 vs 180,000,000) and turnover per employee (80,000 vs 120,000). Q is larger on all three, but P is under 2% of Q on the first two and two thirds of Q on the third." loading="lazy">
+  <figcaption>Q is bigger than P on every measure, but how much bigger depends on the measure used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## 3.5.2 Small firms
 
 **Advantages**
@@ -109,6 +125,12 @@ Profit as a share of revenue = 20,600 / 96,000 x 100 = 21.5%
 
 The profit margin is healthy, but total profit is small. Firms like this exist because customers pay for personal fit and service, not because they are cheap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--10-small-firm-tailor-profit.webp" width="900" height="870" alt="A waterfall chart: revenue of 96,000 less materials and wages of 61,000 and rent and other costs of 14,400 leaves profit of 20,600, which is 21.5% of revenue." loading="lazy">
+  <figcaption>The tailor earns a healthy 21.5% margin, although total profit is small.</figcaption>
+</figure>
+
+
 ## 3.5.3 Causes and forms of growth
 
 **Why firms grow:** to make higher profits, to gain market power, to spread risk across more products, to gain economies of scale, to survive against rivals, and because owners and managers want status and rewards.
@@ -134,6 +156,17 @@ Sales grew faster than the market, so the firm gained three percentage points of
 | Cost | Spread over time | Often a large cost to buy the other firm |
 | Risk | Lower, as the firm knows its own business | Higher, with possible clashes of culture and job losses |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--03-market-share-growth.webp" width="900" height="960" alt="A market bar with the firm's sales shaded: 6.0 of 50 (12%) in year 1 and 8.4 of 56 (15%) in year 2. Sales grew 40% and the market 12%, so share rose 3 percentage points." loading="lazy">
+  <figcaption>Sales can grow faster than the market, raising market share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--12-internal-growth-market-share.webp" width="900" height="730" alt="A food firm sells 6.0 million in a 50 million market (12% share), then 8.4 million in a 56 million market (15% share). Firm sales rose 40% while the market rose 12%, so share rose by 3 percentage points." loading="lazy">
+  <figcaption>Share rises when sales grow faster than the market.</figcaption>
+</figure>
+
+
 ## 3.5.4 Mergers
 
 A **merger** is when two firms agree to join and become one. The syllabus asks for three types.
@@ -157,6 +190,12 @@ Saving      = 20,000 - 17,000 = 3,000
 ```
 
 **Conglomerate.** Advantage: risk is spread, so a fall in demand in one industry may be offset elsewhere. Disadvantages: managers lack experience in the new industry, there are few cost savings from scale, and the firm may become too complex to manage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--02-merger-types.webp" width="900" height="1130" alt="Three panels. Horizontal: two bakeries join (18% + 14% = 32% share). Vertical: flour mill, bakery and cafe in a chain, with backward and forward integration; owning a mill cuts 50 tonnes of flour from 20,000 to 17,000. Conglomerate: bakery plus hotel in unrelated industries." loading="lazy">
+  <figcaption>The three merger types differ in which firms join.</figcaption>
+</figure>
+
 
 ## 3.5.5 Economies and diseconomies of scale
 
@@ -196,6 +235,27 @@ Combined average cost before the merger = 470,000 / 100,000 = 4.70
 ```
 
 Average cost falls by 0.40 a unit. Large savings need not last: if the merged firm becomes hard to manage, diseconomies can erase them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--04-average-cost-table.webp" width="900" height="780" alt="Line graph of average cost from the lesson table: 50, 40, 35, 35, 38, 42 at 1,000 to 6,000 units. It falls to a lowest 35 between 3,000 and 4,000, then rises; 38 to 42 is +10.5%." loading="lazy">
+  <figcaption>Average cost falls, flattens at 35, then rises as output grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--13-average-cost-economies-diseconomies.webp" width="900" height="830" alt="Average cost against output from the lesson table: 50, 40, 35, 35, 38, 42 at 1,000 to 6,000 units. Cost falls to 35 (economies of scale), is lowest between 3,000 and 4,000 units, then rises (diseconomies), by 10.5% between 5,000 and 6,000." loading="lazy">
+  <figcaption>Average cost falls to 35 and then rises, showing economies then diseconomies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--14-merger-average-cost-saving.webp" width="900" height="860" alt="Bar widths are output and heights average cost, so areas are total cost. P makes 40,000 at 5.00 and Q 60,000 at 4.50, together 100,000 at 4.70 (total 470,000). After joint administration cuts costs by 40,000 the total is 430,000 and average cost 4.30, a fall of 0.40." loading="lazy">
+  <figcaption>Cutting 40,000 from combined costs lowers average cost from 4.70 to 4.30.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -83,6 +83,22 @@ A worked case: wage rises from 20 to 22 (+10%) and employment falls from 500 to 
 - **Elasticity of demand for the product.** If a wage rise pushes up prices and customers leave, output and employment fall further.
 - **Time.** Over a longer period firms can change technology, so demand is more elastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--07-labour-vs-capital-cost.webp" width="900" height="1090" alt="Cost per item for a worker (30 items for 120) and a machine (50 items for 210): 4.00 v 4.20 at the start, 5.00 v 4.20 after a 25% wage rise, 4.00 v 3.36 after machine hire falls 20%; break-even wage 126." loading="lazy">
+  <figcaption>Firms substitute capital for labour when the machine becomes the cheaper way to make each item.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--01-labour-elasticity-wage-bill.webp" width="900" height="930" alt="Two rectangles show that a 10% wage rise lifts the wage bill when labour demand is inelastic (-0.5) and cuts it when elastic (-2.0). Wage bill as a rectangle: wage 20 to 22, employment 500 to 475 (bill 10,450, +4.5%) or to 400 (bill 8,800, -12%)." loading="lazy">
+  <figcaption>A 10% wage rise raises the bill if demand for labour is inelastic and lowers it if elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## 2. The supply of labour (3.3.4 2c and 2d)
 
 The supply curve of labour to one occupation slopes up: a higher wage in that job attracts more workers from other jobs and from outside work. A wage change moves along it. Other factors shift it.
@@ -112,6 +128,17 @@ Elasticity of supply of labour is the % change in the quantity of labour supplie
 - **Spare workers.** If many people are unemployed or could move in from other jobs, supply is more elastic.
 - **Time.** Over years people retrain and enter the occupation, so supply is more elastic.
 - **Mobility.** Easier movement between jobs and places raises elasticity (the causes of immobility are a separate topic).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--08-tax-benefits-gain-from-work.webp" width="900" height="1070" alt="Take-home pay on a 270 gross job against benefits: gain 36 at 20% tax and benefits 180, 49.50 at 15% tax, only 16 if benefits rise to 200." loading="lazy">
+  <figcaption>The gain from working falls when benefits rise and rises when tax is cut, shifting labour supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--02-labour-supply-shifts.webp" width="900" height="920" alt="Labour supply curves S0, S1 (right) and S2 (left) with the factors that move supply each way. Supply curve QS = -300 + 45W from the lesson shifted 90 right and left; factors listed are those in the lesson table." loading="lazy">
+  <figcaption>Population, migration, tax, benefits and union entry limits shift labour supply right or left.</figcaption>
+</figure>
+
 
 ## 3. Wage determination (3.3.4 3a to 3c)
 
@@ -152,6 +179,12 @@ Private firms set pay mainly through the market. In the public sector, the gover
 - **Inflation and retention.** Real pay falling behind the private sector makes it hard to recruit and keep staff.
 - **Political and public pressure.** Pay decisions can reflect public attitudes to the service.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--03-public-pay-fixed-budget.webp" width="900" height="1010" alt="Staff icons show 1,200,000 buying 40 staff at 30,000 but 38 at 30,900, with real pay against 5% and 2% inflation. 1,200,000/30,000=40; 1,200,000/30,900=38.8 so 38; real pay 1.03/1.05-1=-1.9%, 1.03/1.02-1=+1.0%." loading="lazy">
+  <figcaption>With a fixed budget a 3% pay rise means fewer staff, and real pay depends on inflation.</figcaption>
+</figure>
+
+
 ### Worked example: a fixed budget
 
 A public service (illustrative) has a pay budget of 1,200,000 and average pay of 30,000, so it employs 1,200,000/30,000 = 40 staff.
@@ -161,6 +194,17 @@ A public service (illustrative) has a pay budget of 1,200,000 and average pay of
 - Inflation of 2% means real pay rises by 1.03/1.02 - 1 = +1.0%.
 
 Evaluation: a tight budget can hold wage costs down but may reduce staffing, raise workloads and cause shortages if pay trails the private sector. In a state-owned enterprise, pay may also depend on its revenue and on whether it is meant to make a profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--05-labour-equilibrium-town-x.webp" width="900" height="890" alt="Demand QD = 900 - 30W and supply QS = -300 + 45W meet at wage 16 with 420 workers; at 12 there is a shortage of 300, at 18 a surplus of 150." loading="lazy">
+  <figcaption>The equilibrium wage clears the market; other wages leave a shortage or surplus of workers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demand-for-and-supply-of-labour-and-wage-determination--06-labour-four-shifts.webp" width="900" height="1290" alt="Four shifts from the Town X equilibrium: demand up gives 17.6 and 492; demand down 14.4 and 348; supply down 17.2 and 384; supply up 14.8 and 456." loading="lazy">
+  <figcaption>Demand shifts move wage and employment together; supply shifts move them in opposite directions.</figcaption>
+</figure>
+
 
 ## Common errors
 

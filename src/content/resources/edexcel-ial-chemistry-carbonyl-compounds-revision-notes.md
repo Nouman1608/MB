@@ -35,6 +35,17 @@ Also useful: the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-
 - **Racemic mixture:** equal amounts of two enantiomers. Their rotations cancel, so it is optically inactive.
 - **Oxidation in organic terms:** gain of oxygen or loss of hydrogen, shown with [O]. **Reduction:** gain of hydrogen, shown with [H].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
+
 ## 15.6 Naming in four lines
 
 - Aldehyde: C=O at the end of the chain, written –CHO, suffix **-al**. The CHO carbon is C1, so there is no locant: hexanal, 2-methylbutanal.
@@ -79,6 +90,17 @@ Consequences:
 - Fehling's or Benedict's: 1 mol aldehyde gives **1 mol Cu₂O**.
 - Iodoform: CH₃COR + 3I₂ + 4NaOH → CHI₃ + RCOONa + 3NaI + 3H₂O. 1 mol of the methyl carbonyl gives 1 mol CHI₃.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--03-silver-ratio.webp" width="900" height="1010" alt="RCHO is oxidised to RCOOH, releasing two electrons. Each electron reduces an Ag+ ion to Ag, so one mole of aldehyde gives two moles of silver. 1.16 g of propanal gives 0.0200 mol aldehyde, 0.0400 mol Ag and 4.32 g silver." loading="lazy">
+  <figcaption>One mole of aldehyde releases two electrons and so deposits two moles of silver.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 ### Drawing the HCN mechanism (15.8 iii)
@@ -108,6 +130,17 @@ Why KCN? HCN is a weak acid, so it gives too few CN⁻ ions on its own.
 4. Match it to a table of derivative melting temperatures.
 5. If two candidates are close, use Tollens', Fehling's or the iodoform test to decide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
+
 ### Testing an unknown (15.8 i and v)
 
 1. 2,4-DNPH: carbonyl present or not.
@@ -117,6 +150,12 @@ Why KCN? HCN is a weak acid, so it gives too few CN⁻ ions on its own.
 ### Writing a full test answer
 
 A test answer needs three parts: the **reagent**, the **condition** and the **observation for each compound**. For example: "Warm each with Benedict's solution. The aldehyde gives a red precipitate; the ketone stays blue." "No reaction" for the ketone is weaker than naming the colour it stays.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
 
 ### Boiling temperature template (15.7 i)
 

@@ -80,6 +80,27 @@ the wrong type of account like this is an error of principle, corrected
 by journal entry in Topic 3's
 [Verification of Accounting Records](/resources/igcse-accounting-verification-of-accounting-records/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-procedures-revision-notes--05-wrong-treatment.webp" width="900" height="1170" alt="Installation of $400 wrongly booked as an expense understates profit by 400 and non-current assets by 400. Repairs of $400 wrongly booked as an asset overstate profit by 400 and non-current assets by 400 (before any depreciation)." loading="lazy">
+  <figcaption>Wrongly treating capital as revenue, or revenue as capital, misstates profit and non-current assets by the same amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-four-kinds.webp" width="900" height="850" alt="A two by two grid of capital or revenue against spending or income, with the Thorncombe Bakery examples and where each is recorded: statement of financial position, income statement, or disposal account or capital." loading="lazy">
+  <figcaption>Capital and revenue, spending and income: four kinds, each with its own home in the accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--01-capital-revenue-receipts.webp" width="900" height="1161" alt="Capital receipts (owner capital 5,000, bank loan 20,000, old lathe sold 2,100) are credited to capital, loan and disposal accounts and are not income. Revenue receipts (sales, rent received, commission received) are credited to income accounts and move to the statement of profit or loss." loading="lazy">
+  <figcaption>Capital receipts are not income; revenue receipts are.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--01-misposted-corrected-profit.webp" width="900" height="1010" alt="A running total from draft profit 41,500 through four misposted items (+675, -414, -5,000, +1,200) to corrected profit 37,961. Bar lengths are proportional to each adjustment. Capital wrongly treated as revenue and revenue as capital change profit by less than the full amount because of depreciation." loading="lazy">
+  <figcaption>Each misposting moves profit by a different amount, ending at 37,961.</figcaption>
+</figure>
+
+
 ## 4.2 Accounting for depreciation and disposal of non-current assets
 
 **Depreciation** = the part of a non-current asset's cost used up in the
@@ -103,6 +124,32 @@ values being overstated. No cash is paid.
 **Profit or loss on disposal = proceeds − net book value at the date of
 disposal.** Net book value = cost − accumulated depreciation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--02-choosing-depreciation-method.webp" width="900" height="1050" alt="Straight-line suits premises, machinery, fixtures and fittings (value falls by the same amount each year). Reducing balance suits motor vehicles and computer equipment (falls fast, then slower). Revaluation suits loose tools: 3,970 less closing value 2,990 gives 980." loading="lazy">
+  <figcaption>Each asset type is paired with the method that suits it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--03-revaluation-depreciation.webp" width="900" height="790" alt="Hand tools are valued at 3,150 at the start and 820 are bought, giving 3,970. They are valued at 2,990 at the end, so depreciation is 3,970 - 2,990 = 980." loading="lazy">
+  <figcaption>Under revaluation, depreciation is opening value plus additions minus closing value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--04-wexford-ledgers.webp" width="900" height="1264" alt="Machinery account totals 99,600; provision for depreciation totals 22,920; disposal account totals 31,250 with a profit of 1,250. Cost 69,600 less provision 11,670 gives net book value 57,930." loading="lazy">
+  <figcaption>Machine A leaves all three accounts; the profit balances the disposal account.</figcaption>
+</figure>
+
+
 ## 4.3 Other payables and other receivables
 
 **Matching / accruals:** record the expenses and incomes that belong to
@@ -119,6 +166,17 @@ the period, not the cash paid or received in it.
 (+ opening prepayment − closing prepayment). In the ledger, the transfer
 to the statement of profit or loss is the balancing figure once the
 opening balance, the cash and the closing balance c/d are in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-procedures-revision-notes--04-expense-from-cash.webp" width="900" height="980" alt="Two waterfalls in dollars. Electricity: 2,000 paid, less 150 owed at the start, plus 240 owed at the end, gives an expense of 2,090. Insurance: 1,800 paid, plus 300 prepaid at the start, less 450 prepaid at the end, gives 1,650." loading="lazy">
+  <figcaption>Expense for the year is the cash paid adjusted for opening and closing accruals and prepayments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--07-four-adjustments-profit.webp" width="900" height="915" alt="A running change in profit. Accrued wages reduce profit by 440, prepaid insurance adds 1,000, accrued hire fees add 260 and sponsorship in advance reduces profit by 1,500. Together profit is 680 dollars lower." loading="lazy">
+  <figcaption>Each adjustment moves profit up or down; the four together lower it by $680.</figcaption>
+</figure>
+
 
 ## 4.4 Irrecoverable debts and allowance for irrecoverable debts
 
@@ -170,6 +228,12 @@ Disposal account
                                                       ------
                 Credit side total                     15,000
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-disposal-loss-profit.webp" width="900" height="1066" alt="Press cost 15,000, provision 9,000, sold 4,100: loss 1,900. Press cost 12,000, provision 7,500, sold 5,200: profit 700. Bars compare NBV with proceeds." loading="lazy">
+  <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
+</figure>
+
 
 ## Exam traps
 

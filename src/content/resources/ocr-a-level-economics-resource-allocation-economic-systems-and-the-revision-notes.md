@@ -70,6 +70,17 @@ Revenue = 5.00 × 2,500 = £12,500 → 6.00 × 2,300 = £13,800
 
 The charge cuts use by 200 cars but raises revenue by £1,300. It changes behaviour only a little and works mostly as a source of revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--07-fare-cut-incentive.webp" width="900" height="960" alt="A bus fare falls from £4.00 to £3.20, a 20% cut. With PED of minus 0.6, trips rise 12% from 50,000 to 56,000 a week, so the incentive works. Revenue falls from £200,000 to £179,200, down £20,800, because demand is inelastic." loading="lazy">
+  <figcaption>The fare-cut example: 6,000 extra trips but £20,800 less revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## Three ways to allocate resources
 
 | | Market | Planned | Mixed |
@@ -83,6 +94,17 @@ The charge cuts use by 200 cars but raises revenue by £1,300. It changes behavi
 ### Price mechanism chain (market)
 
 A rise in demand lifts price. Profit then draws in extra output and extra inputs, and the price eases back as supply extends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ### Shortage under a fixed price
 
@@ -103,6 +125,22 @@ A price below equilibrium creates a shortage. A price above it creates a surplus
 - How large is the state, and what does it do (provide, tax, regulate)?
 - Short run or long run?
 - Judgement: most economies work best when the market is the main allocator and the government corrects its failures, but the right balance is a matter of values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--06-fixed-price-shortage-surplus.webp" width="900" height="880" alt="Demand Qd = 1,500 minus 50P and supply Qs = 200 plus 50P meet at £13 and 850 tonnes. A planned price of £10 gives demand of 1,000 and supply of 700, a shortage of 300 tonnes shown as the horizontal gap between the curves. A planned price of £16 gives demand of 700 and supply of 1,000, a surplus of 300 tonnes." loading="lazy">
+  <figcaption>The lesson’s demand and supply functions with fixed prices of £10 (shortage 300) and £16 (surplus 300).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--10-mixed-economy-state-share.webp" width="900" height="780" alt="Country M spends £180bn of a £600bn GDP (30%) and Country N spends £264bn of £550bn (48%), drawn as shaded shares of two bars under a market-to-planned arrow. Both are mixed economies and N is nearer the planned end. The share alone does not show how much of the rest is regulated or directed." loading="lazy">
+  <figcaption>Measuring the mix: government spending of 30% of GDP in M and 48% in N.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--08-three-systems-allocation.webp" width="900" height="1260" alt="Market: households and firms linked by prices and profit. Planned: central planners set targets and prices. Mixed: prices plus government tax, subsidy and rules. Each carries one main strength and weakness." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who coordinates choices.</figcaption>
+</figure>
+
 
 ## Objectives of economic agents
 
@@ -165,6 +203,22 @@ The weight given to each aim is a value judgement. A strong answer says which ai
 2. Targets are set from incomplete information, so shortages and surpluses appear.
 3. Rewards are weakly linked to effort, so output, quality and innovation suffer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--08-three-objectives-output.webp" width="900" height="900" alt="Profit by output for P = 100 minus 10Q and TC = 100 plus 20Q is minus 30, 20, 50, 60, 50, 20 and minus 30 for outputs 1 to 7. Profit maximisation gives output 4, price £60, profit £60. Revenue maximisation gives output 5, TR £250, profit £50. Sales volume maximisation with no loss gives output 6, price £40, profit £20." loading="lazy">
+  <figcaption>The same firm picks outputs 4, 5 or 6 depending on its objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--09-utility-maximising-budget.webp" width="900" height="840" alt="With £12, X at £3 and Y at £1, buying in order of utils per pound gives X1 (12), X2 (10), Y1 (9), X3 (8), Y2 (8), Y3 (7), using exactly £12. Total utility is 90 plus 24 = 114 utils. The alternative of 2 X and 6 Y also costs £12 but gives only 105 utils. The next unit of either good would give only 6 per pound." loading="lazy">
+  <figcaption>Spending the £12 in order of marginal utility per pound gives the maximum 114 utils.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Allocation (who gets resources) is not the same as production (making goods).
@@ -212,3 +266,9 @@ The weight given to each aim is a value judgement. A strong answer says which ai
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study How competitive markets work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+

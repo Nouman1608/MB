@@ -83,6 +83,22 @@ The kW h figure comes from 1000 W × 3600 s. Use the value of the elementary cha
 
 **Worked reminder (kW h).** An 85 W lamp is left on for 8 h. Energy = 0.085 kW × 8 h = 0.68 kW h = 0.68 × 3.6 × 10⁶ = 2.4 × 10⁶ J (2.448 × 10⁶ J before rounding).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--03-squared-units.webp" width="900" height="890" alt="A 1 cm square divided into 100 one-millimetre squares shows 1 cm^2 = 100 mm^2. Then 1 mm^2 = 10^-6 m^2, 3.5 mm^2 = 3.5 x 10^-6 m^2, 1 cm^3 = 10^-6 m^3 and 7.8 g cm^-3 = 7800 kg m^-3." loading="lazy">
+  <figcaption>The prefix is raised to the same power as the unit.</figcaption>
+</figure>
+
+
 ## 3.1.2 Errors and uncertainty
 
 ### Must-know distinctions
@@ -147,6 +163,22 @@ The uncertainty is normally quoted to 1 significant figure, and the value is giv
 
 Whenever a quantity is found from a gradient or intercept, carry the percentage uncertainty into it using the product, quotient and power rules above.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
+
 ## 3.1.3 Estimation
 
 - Nearest order of magnitude means the nearest power of ten. A common convention: leading figure below about 3.2 rounds down, above rounds up.
@@ -155,6 +187,12 @@ Whenever a quantity is found from a gradient or intercept, carry the percentage 
 - Check an estimate by asking whether the answer is plausible.
 
 **Worked reminder.** A sprinter of mass 70 kg runs at 8 m s⁻¹. Kinetic energy = ½ × 70 × 8² = 2240 J, so about **10³ J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Quick self-test
 

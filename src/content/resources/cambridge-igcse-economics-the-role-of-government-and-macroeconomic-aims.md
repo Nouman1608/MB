@@ -63,6 +63,12 @@ Problem: pollution shared by a river -> international action (no single country 
 
 Worked chain of reasoning, "Explain why a river polluted by three countries needs international action": the factory in Country X sells its product at a price that ignores the damage downstream; Countries Y and Z suffer the cost without being able to charge Country X; if only Y and Z tighten their own rules the pollution still arrives; so a joint agreement with shared limits and monitoring is the only way to cut it. Note the shape: cause, effect, why the lower level cannot solve it, what the higher level does.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--03-levels-of-government.webp" width="900" height="950" alt="Local government suits litter on town streets because the council knows the problem. National government suits national unemployment because it controls tax and spending. A river polluted by three countries needs international action because no one country can fix it alone." loading="lazy">
+  <figcaption>The right level of government matches the size of the problem.</figcaption>
+</figure>
+
+
 ## 4.2.1 The macroeconomic aims
 
 Macroeconomic aims concern the whole economy rather than one market. There are five.
@@ -86,6 +92,12 @@ Real growth = (2,080 - 2,000) / 2,000 x 100 = 4.0%
 ```
 
 The government's criterion is 3% to 4%, so it has just met its aim. Using the nominal 9.2% would wrongly suggest it overshot, because most of that rise is higher prices. Growth is about real output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ### Worked example 2: unemployment
 
@@ -127,6 +139,12 @@ As a share of GDP (2,000) = -6 / 2,000 x 100 = -0.3%
 
 A deficit of 0.3% of GDP is inside the 2% criterion. Stability does not mean zero: a small, temporary deficit or surplus is acceptable. Only a large deficit that persists is a worry, because the country must keep borrowing or selling assets to pay for it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ### Worked example 5: redistribution through a progressive tax
 
 Country A taxes income as follows: nothing on the first 12,000; 20% on income from 12,000 to 40,000; 40% on income above 40,000.
@@ -142,6 +160,12 @@ R earns 2.67 times P before tax (80,000 / 30,000) and 2.21 times after tax (58,4
 
 The gap narrows. The tax revenue can also fund benefits and services that help low earners, which narrows it further.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ### Reasons behind the choice of aims
 
 Why does a government choose particular aims and criteria?
@@ -151,6 +175,27 @@ Why does a government choose particular aims and criteria?
 - **Stage of development.** A low-income economy may prioritise growth and poverty reduction; a rich one may focus on stability.
 - **Public opinion and politics.** Voters care about jobs and prices, so governments rank aims accordingly.
 - **Measurability.** Criteria are set as numbers so that progress can be checked and the government held to account. A target such as "inflation of 2%, give or take 1 point" shows whether the aim was achieved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--01-aims-met-or-not.webp" width="900" height="960" alt="Three scales test worked examples 2 to 4 against their criteria. Unemployment 6.0% (312,000 of 5,200,000) misses the 5% or less target; inflation 3.0% just meets 1% to 3%; the current account of -0.3% of GDP is inside the 2% band." loading="lazy">
+  <figcaption>Unemployment misses its target while inflation and the current account meet theirs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--02-current-account-build.webp" width="900" height="790" alt="Waterfall of goods -14, services +12 (running total -2), net primary income -6 and net secondary income +2, giving a current account of -6, which is -0.3% of GDP of 2,000." loading="lazy">
+  <figcaption>Four flows add up to a current account deficit of 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--03-progressive-tax-gap.webp" width="900" height="890" alt="P earns 30,000 and pays 3,600 (12%); R earns 80,000 and pays 21,600 (27%). R earns 2.67 times P before tax and 2.21 times after tax, so the gap narrows." loading="lazy">
+  <figcaption>A progressive tax narrows the gap from 2.67 times to 2.21 times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
 
 ## 4.2.2 Conflicts between aims
 
@@ -190,6 +235,12 @@ Growth of 5% doubles the deficit from 20 to 40. Evaluation: if growth is led by 
 ### Full employment versus balance of payments stability
 
 Creating jobs through higher demand raises incomes and spending on imports, so imports rise. If higher demand also pushes up domestic prices, exports become dearer for foreigners and fall. Firms may also sell more at home and less abroad. All of this worsens the balance of payments. This conflict differs from the growth one because it begins from the jobs target. It is weaker if the new jobs are in export industries or in firms that replace imports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Common errors
 

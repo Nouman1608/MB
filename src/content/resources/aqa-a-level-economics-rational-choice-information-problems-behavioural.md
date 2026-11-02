@@ -63,6 +63,12 @@ The hypothesis of diminishing marginal utility says that as someone consumes mor
 
 MU is TU minus the previous TU: 180 - 100 = 80, 240 - 180 = 60, and so on. MU falls at every step, so the hypothesis holds. TU peaks at 300 at five or six cups.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--09-total-and-marginal-utility.webp" width="900" height="960" alt="Two aligned charts over cups of coffee 1 to 7. The top chart shows total utility rising 100, 180, 240, 280, 300, 300 then falling to 270. The bottom chart shows marginal utility bars falling 100, 80, 60, 40, 20, 0, -30. A dashed price line at 30 pence marks that the first four cups have marginal utility above the price, so she buys 4 cups." loading="lazy">
+  <figcaption>Each cup adds less than the last (MU falls), so total utility peaks at 300 and she buys only cups worth at least the price.</figcaption>
+</figure>
+
+
 ### Utility maximisation and demand
 
 If a rational consumer chooses freely and the good costs nothing, she keeps consuming until MU reaches zero, so utility is maximised at six cups (or five, since the sixth adds nothing). With a price, she buys another unit only if its MU, in money terms, is at least the price.
@@ -91,6 +97,12 @@ Rational choices are made at the margin: compare the extra benefit of one more u
 
 The baker makes three batches. Extra profit is 50 + 30 + 10 = 90. A fourth would lower it by 10. The oven bought last year for 500 is a sunk cost and is irrelevant at the margin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--10-bakery-at-the-margin.webp" width="900" height="990" alt="Bars for batches 1 to 4 showing marginal benefit 90, 70, 50 and 30 against a dashed marginal cost line at 40. Batches 1 to 3 have benefit above cost and add profit of 50, 30 and 10, totalling 90. Batch 4 has benefit 30 below cost 40 so it would lose 10. The baker stops at 3. The 500 spent on the oven is sunk and ignored." loading="lazy">
+  <figcaption>Keep going while marginal benefit is at least marginal cost; stop at 3 batches. The oven is a sunk cost.</figcaption>
+</figure>
+
+
 ## 3.1.2.2 Imperfect information
 
 Rational decisions need good information about price, quality, risks and alternatives. When information is incomplete, inaccurate or uneven, agents cannot decide rationally and the market may fail to allocate resources efficiently.
@@ -107,6 +119,12 @@ Asymmetric information exists when one party knows more than the other. A seller
 4. Buyers realise this, so they expect poor ones, value them at 600, and the price falls towards 600.
 
 Trades that benefit both sides never happen: buyers value a good scooter at 1,200 and owners would accept 1,000. That is market failure caused by asymmetric information. Warranties and inspections help.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--11-used-scooters-lemons.webp" width="900" height="1030" alt="A vertical price scale from 500 to 1,200. Buyers value a good scooter at 1,200 and a poor one at 600; owners of good scooters want at least 1,000 and of poor ones at least 500. Buyers who cannot tell them apart will pay the expected value of 900, below 1,000, so good scooters are withdrawn. The price drifts to 600. The 200 gap between 1,000 and 1,200 is a mutually beneficial trade that never happens." loading="lazy">
+  <figcaption>Buyers cannot tell good from poor, offer 900, and good owners (who want 1,000) walk away.</figcaption>
+</figure>
+
 
 ### Imperfect information and consumers
 
@@ -126,6 +144,17 @@ Consumers can also misjudge the benefits or costs of what they buy. If they over
 Consumers buy while perceived MB exceeds 6: five units. The efficient quantity is where true MB exceeds 6: three units. Units 4 and 5 are over-consumed. Welfare loss is the gap between price and true benefit on those units: (6 - 5) + (6 - 3) = 4.
 
 Information failure can also cause under-consumption: someone unaware of the benefits of training will buy too little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--12-perceived-vs-true-benefit.webp" width="900" height="960" alt="Paired bars for units 1 to 6 of a health supplement. Perceived marginal benefit is 15, 13, 11, 9, 7, 5 and true marginal benefit is 11, 9, 7, 5, 3, 1, with a price line at 6. Consumers buy while perceived benefit exceeds 6, five units. Only three units have true benefit above 6. Units 4 and 5 are over-consumed, a welfare loss of (6-5) + (6-3) = 4." loading="lazy">
+  <figcaption>Buyers buy 5 units because perceived benefit exceeds the price 6; only 3 units are truly worth it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## 3.1.2.3 Aspects of behavioural economic theory
 
@@ -151,6 +180,22 @@ An invented example: a person prefers 100 today to 110 in a week, yet prefers 11
 Traditional theory assumes self-interest. In practice people give to charity and care about fairness.
 
 **Worked example.** In an invented ultimatum game, a proposer splits 100 and the responder can accept or reject. A rejection gives both nothing. A purely self-interested responder accepts any positive offer, even 1. In experiments, low offers are often rejected, for example an offer of 20 (20% of the pot). The responder gives up 20 to punish what they see as unfair. Their utility depends on fairness as well as their own income, which contradicts the standard assumption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--01-present-bias-reversal.webp" width="900" height="950" alt="Two timelines. Offered 100 today or 110 in a week, the person takes 100 today. Offered 100 in week 52 or 110 in week 53, the same person takes 110. The wait and the amounts are the same, but the choice flips." loading="lazy">
+  <figcaption>The same one-week wait is judged differently depending on whether it starts now, showing weak self-control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--02-ultimatum-game.webp" width="900" height="910" alt="A pot of 100 is split 80 and 20. Accepting gives 80 and 20; rejecting gives both nothing. Low offers are often rejected, so the responder gives up 20 to punish unfairness." loading="lazy">
+  <figcaption>A responder who rejects 20 shows that fairness matters as well as own income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--03-anchoring-jacket.webp" width="900" height="730" alt="A price line marks 50, 60 and 80. Measured from the anchor 80, the jacket feels 37.5% cheaper; measured from the highest price ever of 60, the saving is about 17%." loading="lazy">
+  <figcaption>The first number seen, was 80, makes a 50 jacket feel much cheaper than it is.</figcaption>
+</figure>
+
 
 ## 3.1.2.4 Behavioural economics and policy
 
@@ -178,11 +223,28 @@ A nudge moves people to a better choice by changing how it is presented, not by 
 
 Inertia explains the effect: few people act to change a default.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--13-default-opt-in-opt-out.webp" width="900" height="940" alt="Two bars, each representing 5,000 staff. With opt-in, 40 per cent join, 2,000 people. With opt-out, 85 per cent stay in, 4,250 people. The difference is 2,250 extra members, each saving 1,200 a year, 2,700,000 in total. Inertia explains it: few people act to change a default." loading="lazy">
+  <figcaption>Changing the default from opt-in to opt-out lifts membership from 2,000 to 4,250 staff.</figcaption>
+</figure>
+
+
 ### Evaluating nudges
 
 Strengths: low cost, keeps freedom, may work where information fails. Compare with a tax. If a drink's price rises 10% and price elasticity of demand is -0.3, quantity falls 3%. A default portion size reducing sales by 6% (invented) would then beat the tax, at less cost to consumers' incomes.
 
 Limits: effects can fade, vary between people, are hard to measure, and raise worries about who decides what is better. Nudges may be too weak for large externalities, where taxes or regulation may be needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--04-framing-fat-free.webp" width="900" height="880" alt="One bar of meat is 90% fat free and 10% fat. The two wordings describe the same fact, but 90% fat free seems more appealing." loading="lazy">
+  <figcaption>Identical facts worded differently can change how appealing a product seems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--05-nudge-vs-tax.webp" width="900" height="860" alt="A 10% price rise with price elasticity of demand -0.3 cuts quantity by 3%. An invented default portion nudge cutting sales by 6% would beat it without raising prices. Nudges can fade and may be too weak for large externalities." loading="lazy">
+  <figcaption>With PED of -0.3 a 10% tax cuts sales only 3%, so a 6% nudge would do better.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -48,6 +48,27 @@ Convert before you substitute: kW to W for P = IV, minutes to seconds for E = IV
 - Plotting: place a plotting compass, mark both ends of the needle, move it along, repeat, join the dots. The needle's N end shows the field direction; iron filings show the pattern.
 - Uses: permanent magnets in compasses; electromagnets in cranes and relays, where the field must switch on and off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--08-plotting-compass.webp" width="900" height="940" alt="A bar magnet with its north end on the right. A dashed line of dots curves from near the north pole round to the south pole; each dot is a pencil mark made at one end of the compass needle. Two plotting compasses are drawn on the line with the needle’s north end pointing along the line away from the N pole. Steps: mark the two ends of the needle, move the compass so one end sits on the last mark, repeat, then join the marks. The line is computed from the field of two opposite poles." loading="lazy">
+  <figcaption>Pencil marks at the needle ends join to form a field line from N to S.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--01-mag-poles.webp" width="900" height="970" alt="Two bar magnets with computed field lines. With unlike poles facing, the lines run straight across the gap from north to south and the magnets attract. With like poles facing, the lines bend away and squash apart, with a neutral point halfway where the fields cancel and a compass would not settle." loading="lazy">
+  <figcaption>Unlike poles attract and like poles repel; between two like poles there is a neutral point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--02-induced-magnet.webp" width="900" height="930" alt="A bar magnet held over an iron nail makes the nail an induced magnet: its near end becomes a south pole and its far end a north pole, so it is pulled up and holds a clip. When the magnet is removed the nail loses its poles and the clip falls. Induced magnets are only ever attracted." loading="lazy">
+  <figcaption>An iron nail is an induced magnet only while a magnet is near it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
+
 ## 4.2 Charge, current, e.m.f., p.d., resistance
 
 **Charge.** Measured in coulombs. Friction moves electrons only: the gainer is negative and the loser is positive. Like charges repel; unlike attract.
@@ -86,6 +107,12 @@ A hotter metal conductor has higher resistance: atoms vibrate more and collide w
 
 **Finding resistance.** Circuit with a variable resistor, ammeter in series, voltmeter across the test component. Take several pairs of readings, work out V ÷ I each time, average.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--10-plates-field.webp" width="900" height="850" alt="A positively charged plate above and a negatively charged plate below. Nine equally spaced parallel lines with arrows run from the positive plate to the negative plate. A positive test charge between the plates feels a force downwards along the lines, which defines the field direction. The ends of the plates are ignored." loading="lazy">
+  <figcaption>Equally spaced parallel field lines run from the positive to the negative plate.</figcaption>
+</figure>
+
+
 ## 4.3 Circuits
 
 ### Method in steps: mixed series and parallel
@@ -97,6 +124,12 @@ A hotter metal conductor has higher resistance: atoms vibrate more and collide w
 5. Take that from the supply p.d. to get the p.d. across the parallel part.
 6. Divide by each branch resistance to get branch currents, and check they add up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--04-em-potential-divider.webp" width="900" height="1085" alt="A 10 V supply across 3.0 kilohm and 2.0 kilohm in series splits into 6.0 V and 4.0 V. A potentiometer with its slider 40% up the track gives 4.0 V on a voltmeter." loading="lazy">
+  <figcaption>Series resistors share the supply p.d. in proportion to their resistances, and a slider picks off a fraction.</figcaption>
+</figure>
+
+
 ### Components
 
 - NTC thermistor: hotter means lower resistance.
@@ -106,9 +139,21 @@ A hotter metal conductor has higher resistance: atoms vibrate more and collide w
 - Variable potential divider: slider takes any fraction of the supply p.d.
 - Fuse: wire melts when the current is too large.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--02-em-relay.webp" width="900" height="1040" alt="Two panels of a relay. With the switch open the armature is raised and the lamp is off. With the switch closed the coil magnetises the iron core, which pulls the armature down, closes the contacts and lights the lamp." loading="lazy">
+  <figcaption>A small current in an electromagnet closes contacts in a separate larger-current circuit.</figcaption>
+</figure>
+
+
 ### Sensor circuit reasoning
 
 Put the sensor in series with a fixed resistor. Whichever has more resistance gets more of the supply p.d. If a thermistor warms, its resistance falls, its p.d. falls, and the fixed resistor's p.d. rises. For an LDR, replace "warms" with "light increases".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--09-conductor-test.webp" width="900" height="850" alt="Two circuits with a cell, a lamp and a gap bridged by a test strip. With a copper strip the lamp lights, and a close-up shows free electrons drifting between the atoms. With a plastic strip the lamp stays off, and the close-up shows every electron held in its atom so none can drift." loading="lazy">
+  <figcaption>A lamp in series with a test strip, with close-ups of free and bound electrons.</figcaption>
+</figure>
+
 
 ## 4.4 Practical electricity
 
@@ -120,6 +165,12 @@ Put the sensor in series with a fixed resistor. Whichever has more resistance ge
 - Switch: in the live wire, so the appliance is dead when off.
 - Earthed metal case: if live touches it, a large current flows to earth, the fuse melts or trip operates and the case is safe.
 - Double insulation: non-conducting case, so it cannot become live. A case needs earthing or double insulation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--12-trip-switch.webp" width="900" height="1060" alt="Two views of a trip switch in the live wire of an appliance circuit with a 5 A setting. In normal use 3.5 A flows, below the setting, and the contacts stay closed. In a fault 12 A flows, above the setting, and the contacts open, cutting off the live supply. The trip switch can be reset after the fault is fixed, whereas a fuse wire melts and must be replaced. Currents are illustrative." loading="lazy">
+  <figcaption>A trip switch opens its contacts when the current exceeds its setting and can be reset.</figcaption>
+</figure>
+
 
 ## 4.5 Electromagnetic effects
 
@@ -139,11 +190,23 @@ Put the sensor in series with a fixed resistor. Whichever has more resistance ge
 
 **Transformer.** Two coils on an iron core; a.c. only. Step-up: Ns greater than Np. Step-down: Ns less than Np. High-voltage transmission means lower current for the same power, so less p.d. and less power lost in the cables.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--01-em-parallel-wires.webp" width="900" height="1130" alt="End-on view of two parallel wires with circular field rings. Same-direction currents give opposite fields between the wires, which cancel, so the wires attract. Opposite-direction currents give fields that add between the wires, so they repel." loading="lazy">
+  <figcaption>Parallel wires carrying current in the same direction attract; in opposite directions they repel.</figcaption>
+</figure>
+
+
 ## 4.6 Oscilloscope
 
 - Shows a waveform as a trace.
 - Voltage = vertical divisions × Y-gain.
 - Time = horizontal divisions × timebase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--03-em-oscilloscope-trace.webp" width="900" height="1080" alt="An oscilloscope grid shows a sine trace with a peak 3.0 divisions high and one cycle 4.0 divisions long. With 2.0 V/div the peak is 6.0 V; with 5.0 ms/div the period is 20 ms." loading="lazy">
+  <figcaption>Peak p.d. and period come from counting divisions and multiplying by the Y-gain and timebase.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -154,6 +217,12 @@ Put the sensor in series with a fixed resistor. Whichever has more resistance ge
 - **Fuse versus trip switch:** both protect; only the trip switch resets.
 - **Earthing versus double insulation:** one gives the fault current a path to ground; the other prevents the case becoming live.
 - **Generator versus motor:** a generator turns motion into an induced e.m.f.; a motor turns a current in a field into motion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--11-ewq-worked.webp" width="900" height="740" alt="A circuit with a 9.0 V cell and a lamp. Six coulombs of charge travel round, and the cell does 9 J of work on each one, a total of 54 J. Dividing the work by the charge gives E = W/Q = 54 J divided by 6.0 C = 9.0 V, so one volt is one joule per coulomb." loading="lazy">
+  <figcaption>54 J of work on 6.0 C gives E = 9.0 V, i.e. 9 J per coulomb.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

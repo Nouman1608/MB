@@ -79,6 +79,12 @@ be fluent switching between reducing balance and straight line methods
 for the same asset, and understand precisely why the choice of method
 changes reported profit — this comparison is a recurring exam angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## Worked example: double entry for a simple transaction
 
 The double entry principle -- every transaction affects at least two
@@ -132,6 +138,12 @@ comparison, rather than only being able to calculate each method in
 isolation, is what recurring exam questions on depreciation actually
 test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
+  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
+</figure>
+
+
 ## Applying accounting concepts to a scenario
 
 The concepts in 1.1.8-1.1.10 are tested through application, not definition alone,
@@ -150,6 +162,12 @@ that justifies a given accounting decision, rather than only listing
 the concepts in the abstract, is what exam questions on 1.1.8-1.1.10
 consistently reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
+
 ## Capital versus revenue expenditure
 
 Content statements 1.1.11-1.1.12 test the distinction between capital expenditure -- spending on
@@ -164,6 +182,12 @@ in full against the profit of the year in which it was incurred, so
 exam questions frequently present a scenario and ask candidates to
 classify a specific cost correctly, with the reasoning behind the
 classification carrying as much credit as the answer itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

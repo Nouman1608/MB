@@ -56,6 +56,12 @@ Density = 52.3 / 34.93 = 1.497 g cm⁻³.
 
 Final answer: **1.50 g cm⁻³**, or **1.50 × 10³ kg m⁻³**, both 3 s.f. Writing 1.497112 would claim a precision the readings do not have.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--05-cylinder-sig-figs-density.webp" width="900" height="780" alt="A cylinder with m = 52.3 g, d = 2.46 cm and l = 7.35 cm. Volume 34.93 cm3 and density 1.497 g/cm3 are worked with spare digits, then the answer is given as 1.50 g/cm3 (3 s.f.), not 1.497112." loading="lazy">
+  <figcaption>Round the final answer to the s.f. of the data, keeping spare digits in the working.</figcaption>
+</figure>
+
+
 ## Plotting a graph
 
 1. Choose the axes. The independent variable (the one you changed) goes on the x-axis. If the question names the axes, follow it.
@@ -66,6 +72,12 @@ Final answer: **1.50 g cm⁻³**, or **1.50 × 10³ kg m⁻³**, both 3 s.f. Wri
 6. Draw one straight line of best fit with a ruler, so that points lie evenly on both sides. If the points curve, draw a smooth curve instead. Do not join the dots.
 
 An isolated point far from the trend is an anomaly. Check it: if the calculation or plotting is wrong, correct it. If it is a genuine reading, say that it should be repeated and do not drag the line towards it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--06-graph-plotting-gradient-triangle.webp" width="900" height="960" alt="v squared against s for the trolley data, with six crosses, a ruled best-fit line through the origin and a large gradient triangle from (0.20, 0.80) to (1.20, 4.76). The gradient is 3.96 m/s2, so a = 1.98 m/s2. Four numbered rules: label axes with units, simple scale filling the grid, one ruled line, large triangle." loading="lazy">
+  <figcaption>Axes, scale, best-fit line and a large triangle turn a graph into a result.</figcaption>
+</figure>
+
 
 ## Reading the relationship from a graph
 
@@ -78,6 +90,12 @@ An isolated point far from the trend is an anomaly. Check it: if the calculation
 Many experiments are designed so that a derived quantity gives a straight line. If the theory says s = v²/(2a), then plotting v² against s gives a straight line through the origin with gradient 2a.
 
 An intercept that should be zero, but is not, is evidence of a systematic error, for example a zero error on an instrument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--07-graph-shape-relationships.webp" width="900" height="970" alt="Three graphs: a straight line through the origin (y proportional to x), a straight line with an intercept (y = mx + c, linear but not proportional, suspect a zero error if it should be zero), and a curve (not linear; try x squared, 1/x or root x)." loading="lazy">
+  <figcaption>The shape of the graph tells you which relationship to test.</figcaption>
+</figure>
+
 
 ## Gradients and large triangles
 
@@ -111,6 +129,12 @@ a = gradient / 2 = **1.98 m s⁻²**.
 
 Check the units: m² s⁻² divided by m gives m s⁻², the unit of acceleration. The line passes through the origin within the scatter, so v² is proportional to s, as the theory predicts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
+
 ## Uncertainties
 
 ### Qualitative ideas
@@ -120,6 +144,12 @@ Uncertainty is the doubt about a measured value. A **random error** makes readin
 A result is precise if repeats agree closely. It is accurate if it is close to the true value. Precise readings can still be inaccurate if there is a systematic error.
 
 Common sources are parallax when reading scales, reaction time when starting and stopping a stopwatch, a ruler that is not vertical or not touching the object, and an instrument that does not read zero when it should.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ### Percentage uncertainty from one reading
 
@@ -132,6 +162,12 @@ Example: a metre rule with 1 mm divisions gives an uncertainty of ±0.5 mm. For 
 For a micrometer with resolution 0.01 mm, the uncertainty is ±0.005 mm. On a wire of diameter 0.28 mm this is 0.005 / 0.28 × 100 = **1.8%**.
 
 The same instrument gives a much larger percentage uncertainty on a small quantity than on a large one. That is why thin wires are measured with a micrometer and not a ruler.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--08-single-reading-percentage-uncertainty.webp" width="900" height="1000" alt="Zoomed scales show half-division bands. A metre rule reading 250 mm has +/-0.5 mm, 0.2%. A micrometer reading 0.28 mm has +/-0.005 mm, 1.8%. Bars compare the two: the same half-resolution is a bigger percentage of a small quantity." loading="lazy">
+  <figcaption>Half the resolution divided by the reading, times 100.</figcaption>
+</figure>
+
 
 ### Percentage uncertainty from repeated readings
 
@@ -150,6 +186,12 @@ Percentage uncertainty = 0.010 / 0.316 × 100 = **3.2%**.
 Quote the diameter as 0.32 ± 0.01 mm.
 
 The specification does not expect you to combine percentage uncertainties from several measurements, so you stop at this stage. If the question asks which measurement has the larger percentage uncertainty, compare them and give the reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ## Reducing errors and improving the experiment
 
@@ -178,6 +220,12 @@ Other realistic modifications:
 - Take more readings over a wider range, then plot the graph, so a trend is clearer than from a single point.
 - Zero an instrument first, or record the zero error and correct every reading.
 - Use a larger load or length so the quantity measured is bigger and its percentage uncertainty is smaller.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
 
 ## Common errors
 

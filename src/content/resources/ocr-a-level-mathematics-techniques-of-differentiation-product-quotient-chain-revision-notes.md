@@ -55,6 +55,12 @@ y = e^(2x)/(x − 1):    dy/dx = ( 2e^(2x)(x − 1) − e^(2x) )/(x − 1)² = e
 
 **When to choose which.** A quotient can often be rewritten as a product with a negative power. Use whichever has the neater working. For a quotient with a constant numerator, such as 5/(x² + 1), it is quicker to write 5(x² + 1)⁻¹ and use the chain rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--06-product-rule-area.webp" width="900" height="650" alt="A rectangle of width u and height v has area uv. When x increases a little, u grows by du and v by dv, adding a strip of area v du on the right, a strip u dv on the top, and a tiny corner du dv which vanishes in the limit. So the change in uv is v du + u dv, giving (uv)′ = u′v + uv′. Example: y = x cubed times e to the 2x at x = 1 has gradient 3e squared + 2e squared = 5e squared, about 36.9." loading="lazy">
+  <figcaption>Why the product rule has two terms: the rectangle area uv grows by v du + u dv.</figcaption>
+</figure>
+
+
 ## Chain rule
 
 **Method in steps**
@@ -99,6 +105,12 @@ Use a negative sign for a quantity that is decreasing. Check that the answer has
 x = y⁴ + 3y:  dx/dy = 4y³ + 3 = 7 at y = 1,  so dy/dx = 1/7
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--05-chain-rule-gradients.webp" width="900" height="1250" alt="Three graphs show y = square root of (4x squared + 9) built in two steps. Top: u = 4x squared + 9 has gradient 16 at x = 2 where u = 25. Middle: y = square root of u has gradient 0.1 at u = 25 where y = 5. Bottom: the combined curve y = square root of (4x squared + 9) has gradient 1.6 at x = 2, and 16 times 0.1 equals 1.6, so dy/dx = dy/du times du/dx." loading="lazy">
+  <figcaption>The gradient of the composite is the product of the two gradients: 16 × 0.1 = 1.6.</figcaption>
+</figure>
+
+
 ## Implicit differentiation
 
 **Method in steps**
@@ -115,6 +127,12 @@ x² + xy = 6 at (2, 1):  2x + y + x dy/dx = 0,  dy/dx = −(2x + y)/x = −5/2
 
 The tangent at the point has the gradient dy/dx. The normal has the negative reciprocal gradient. If the tangent gradient is 4/3, the normal gradient is −3/4. For a horizontal tangent you would set the numerator of dy/dx equal to zero, but finding and classifying stationary points belongs to the applications of differentiation page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--09-implicit-flat-vertical.webp" width="900" height="1084" alt="The tilted ellipse x squared minus xy plus y squared = 12, drawn from its equation. Implicit differentiation gives dy/dx = (y minus 2x) over (2y minus x). The numerator is zero when y = 2x, giving horizontal tangents (teal) at (2, 4) and (minus 2, minus 4). The denominator is zero when x = 2y, giving vertical tangents (copper) at (4, 2) and (minus 4, minus 2)." loading="lazy">
+  <figcaption>Horizontal tangents occur where the numerator of dy/dx is zero and vertical tangents where the denominator is zero.</figcaption>
+</figure>
+
+
 ## Parametric differentiation
 
 **Method in steps**
@@ -129,6 +147,12 @@ x = 3t², y = 2t³:  dy/dx = 6t²/(6t) = t.   At t = 3 the gradient is 3.
 ```
 
 Trigonometric parameters often simplify with a double angle identity. For x = 2 + 3 sin θ, y = 1 − 2 cos 2θ, dy/dx = 4 sin 2θ/(3 cos θ) = (8/3) sin θ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp" width="900" height="967" alt="The curve x = t squared + 2t, y = t cubed minus 3t, drawn with equal scales. At t = 2 the point is (8, 2). Its horizontal rate dx/dt = 6 and vertical rate dy/dt = 9 form a right triangle whose slope is the gradient dy/dx = 9 over 6 = 3 over 2. The gold tangent has that gradient and the teal normal has gradient minus two thirds. Grey dots mark t = minus 1, 0 and 1." loading="lazy">
+  <figcaption>At t = 2 the gradient is dy/dt ÷ dx/dt = 9/6, with the normal gradient −2/3.</figcaption>
+</figure>
+
 
 ## Constructing differential equations
 

@@ -40,6 +40,12 @@ Links: [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), [c
 
 The marketing mix is the set of choices a firm makes on its **Product**, **Price**, **Promotion** and **Place** (distribution channels). The elements must fit each other and the target customers. A good answer judges the mix as a whole, not each P on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 3.3.2 Product
 
 **Goods and services.** Goods are physical items that can be touched and stored, such as a kettle. Services are activities, such as a haircut or a repair visit. Services are usually consumed as they are produced and cannot be stored.
@@ -51,6 +57,32 @@ The marketing mix is the set of choices a firm makes on its **Product**, **Price
 **Differentiation and USP.** **Product differentiation** means making a product stand out from rivals through design, quality, features, service or image. A **unique selling point (USP)** is the feature that rivals do not offer and that customers value. Differentiation can support a higher price and customer loyalty, but only if customers notice and value the difference. A USP that rivals can copy quickly is weak.
 
 **Worked example 1.** Thornwick Quay Teas sells loose-leaf tea. Its tangible attributes include a resealable tin and single-estate leaves. Its intangible attributes include a reputation for fair pricing to growers. Its USP is a "freshness date" on every tin showing the packing day. For application, say which attribute matters most to the target segment (busy office buyers may value convenience over estate origin).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--01-boston-kestrel-hollow.webp" width="900" height="934" alt="A chart of market growth against relative market share (log scale). Trailrunner e-bike (19% growth, 24 over 12 = 2.00) is a star, Commuter Classic (3%, 31 over 15 = 2.07) a cash cow, Folding Pocket (16%, 6 over 18 = 0.33) a question mark and Kids Starter (2%, 5 over 20 = 0.25) a dog, with growth above 10% taken as high." loading="lazy">
+  <figcaption>Kestrel Hollow Cycles products placed on the Boston Matrix using relative share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--02-plc-growth-rates.webp" width="900" height="828" alt="Annual sales of 40, 95, 160, 205, 208, 190 and 150 thousand units with growth of +137.5%, +68.4%, +28.1%, +1.5%, -8.7% and -21.1%. Growth slowing to 1.5% marks maturity and the falls mark decline; a travel tin at the first fall is an extension strategy." loading="lazy">
+  <figcaption>Growth rates show which life cycle stage the product has reached.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--04-tangible-intangible-usp.webp" width="900" height="850" alt="An iceberg: the tin and single-estate leaves are tangible above the waterline; reputation for fair pricing to growers, brand image and status are intangible below it. A star marks the USP, a freshness date on every tin." loading="lazy">
+  <figcaption>Customers buy a bundle of tangible and intangible attributes; a USP must be noticed and valued.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
 
 ## 3.3.3 Product portfolio analysis
 
@@ -116,6 +148,22 @@ Pricing objectives include survival, profit, sales or market share growth, and i
 
 **Worked example 5.** A new gadget costs £55 a unit. Skimming at £120 sells 1,000 units, a profit of 1,000 x £65 = £65,000. Penetration at £80 sells 2,800 units, a profit of 2,800 x £25 = £70,000. Penetration earns more here, but it needs capacity for 2,800, and the figures are estimates. Judge the choice by the objective: profit now, or share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--01-skimming-v-penetration.webp" width="900" height="914" alt="Rectangles show profit per unit times units sold for skimming at 120 pounds (65 x 1,000 = 65,000) and penetration at 80 pounds (25 x 2,800 = 70,000). Penetration earns 5,000 more but needs capacity for 2,800 units." loading="lazy">
+  <figcaption>Profit is the area: skimming earns 65,000 pounds, penetration 70,000 on higher volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--03-chutney-three-methods.webp" width="900" height="690" alt="Bars show a cost of 3.20 pounds plus a 45% mark-up of 1.44 (31.0% of the price) giving 4.64, a rival at 4.50 and the chosen 4.49, which combines cost-plus, competitive and psychological pricing." loading="lazy">
+  <figcaption>One jar price, 4.49 pounds, combines cost-plus, competitive and psychological pricing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+
 ## 3.3.5 Promotion methods
 
 Promotion aims to inform, persuade and remind, to raise awareness, build image and increase sales. Its usefulness depends on the target market, the budget and the product.
@@ -128,6 +176,12 @@ Promotion aims to inform, persuade and remind, to raise awareness, build image a
 - **Role of branding:** a brand (name, logo, design, reputation) makes a product recognisable, supports differentiation and a higher price, and builds loyalty. It is costly to build and can be damaged by one scandal.
 
 **Worked example 6.** Wrenmoor Pantry tests two methods. A leaflet drop costs £1,800 and wins 90 new customers: £20 each. Social media costs £1,500 and wins 125: £12 each. Social media is cheaper per customer, but the figures say nothing about customer quality or lasting loyalty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--03-cost-per-customer.webp" width="900" height="830" alt="Dot pictograms (1 dot = 5 customers) show a leaflet drop winning 90 customers for 1,800 pounds (20 each) and social media winning 125 for 1,500 pounds (12 each). Cheaper per customer says nothing about quality or loyalty." loading="lazy">
+  <figcaption>Social media cost 12 pounds a customer against 20 for leaflets.</figcaption>
+</figure>
+
 
 ## 3.3.6 Place (channels of distribution)
 
@@ -142,6 +196,17 @@ A **channel of distribution** is the route a product takes from producer to cust
 **Digital and physical distribution.** Physical distribution uses shops, vans and warehouses and suits products people want to see, try or take home today. Digital distribution means selling online, through a website or marketplace, and for digital products (music, software) also delivering online at almost no extra cost. Online selling widens reach but means delivery costs, returns and website upkeep. Many businesses use both.
 
 **Worked example 7.** Thornwick Quay Teas sells a tin for £8.40 online. Delivery and payment costs are £1.90 a tin, so it keeps £6.50. A retailer buys from it at £5.60 and sells at £8.40, a retailer margin of 33.3%. On 1,000 tins, online gives £6,500 and retail £5,600, £900 less. Retail may still win if the shops deliver far more customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--02-channel-margin.webp" width="900" height="872" alt="Two bars split an 8.40 pound tin. Online the producer keeps 6.50 after 1.90 of delivery and payment costs; via a retailer it receives 5.60 and the retailer keeps 2.80 (33.3%). On 1,000 tins that is 6,500 against 5,600, 900 less." loading="lazy">
+  <figcaption>Selling direct keeps more per tin, but a retailer may deliver far more customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## Common errors
 

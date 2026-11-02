@@ -37,6 +37,37 @@ Appendix 7 of the specification says none of these is given to you in the examin
 | Dividend cover | (Profit after tax − Preference dividends) / Total ordinary dividend paid | times | How many times earnings could pay the ordinary dividend |
 | ROCE (corporate bodies) | Net profit before interest / Capital employed × 100 | % | Return on all long-term funds |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
+  <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--07-dividend-cover-yield.webp" width="900" height="820" alt="Ordinary earnings of 840,000 dollars hold the 360,000 dividend 2.33 times, which is the dividend cover. A dividend of 6.00 cents per share on a 238-cent share price is a yield of 2.52 percent." loading="lazy">
+  <figcaption>Cover shows how safe the dividend is; yield shows the cash return on the share price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--11-price-usage-variance.webp" width="900" height="940" alt="Wool was bought at 8.70 dollars against a standard 9.00, saving 0.30 on all 7,050 kilograms: 2,115 favourable. 150 kilograms more than the standard 6,900 were used, worth 1,350 at the standard price: adverse. The axes are zoomed in." loading="lazy">
+  <figcaption>Price variance uses actual quantity; usage variance uses standard price.</figcaption>
+</figure>
+
+
 ## The building blocks
 
 ```

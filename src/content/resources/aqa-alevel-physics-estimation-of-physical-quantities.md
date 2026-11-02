@@ -31,6 +31,12 @@ This guide covers sub-topic **3.1.3 Estimation of physical quantities**, the thi
 
 Read [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitation-of-physical-measurements/) first. This sub-topic builds on the idea of significant figures and precision to develop order-of-magnitude reasoning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+
 ## Syllabus coverage
 
 **AQA A-LEVEL PHYSICS (7408) — Sub-topic 3.1.3**
@@ -46,6 +52,12 @@ For example, a result of 3.4 x 10^5 has order of magnitude 10^6, not 10^5, since
 ## Estimating physical quantities
 
 Students are expected to be able to estimate approximate values of physical quantities to the nearest order of magnitude — for example, the mass of an adult human (~10² kg), the diameter of an atom (~10⁻¹⁰ m), or the speed of a walking person (~1 m s⁻¹). These estimates rely on everyday experience and general physics knowledge rather than precise measurement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Producing derived estimates
 
@@ -78,6 +90,12 @@ The student's answer is a factor of ten too small, so it lands one order of magn
 ## Common mistakes
 
 Treating an order-of-magnitude estimate as if it needed to be precise to several significant figures — the goal is the correct power of ten, not an exact value. Forgetting to convert all quantities to consistent units before combining them in an estimate (e.g. mixing years and seconds). Being reluctant to make a reasonable assumption when data isn't given — estimation questions expect sensible, justified assumptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

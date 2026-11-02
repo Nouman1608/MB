@@ -32,6 +32,12 @@ Purpose: identify and meet the human resource needs of a business.
 - Meet: recruit, select, motivate, train and keep them.
 - Example: Birchwood Bikes, an invented repair shop, expects a busy summer. It must spot the need for a second mechanic in May, not in July.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--11-hr-role-saltmarsh.webp" width="900" height="900" alt="Step 1, identify the need: orders rise in spring so two more fitters are needed by April. Step 2, meet the need: advertise, select, train. Hiring too late delays jobs; hiring too many raises wage costs." loading="lazy">
+  <figcaption>Human resources identifies the need for staff, then meets it, at the right time and in the right number.</figcaption>
+</figure>
+
+
 ## 3.2 Structures and ways of working
 
 ### Terms (general meanings; the specification lists the terms without definitions)
@@ -56,6 +62,12 @@ Purpose: identify and meet the human resource needs of a business.
 
 A quick check: with a span of 5 and 125 staff at the bottom, the layers are 1, 5, 25, 125. That is four layers. Five managers each supervising 25 staff would give 1, 5, 125, only three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ### Why structures differ
 
 - Business size, type of work, skills of staff and how much control the owner wants.
@@ -74,6 +86,17 @@ A quick check: with a span of 5 and 125 staff at the bottom, the layers are 1, 5
 | Working whilst mobile | Working on the move | Reaches customers | Needs equipment and signal |
 | Self-employed | Runs own business | Pay for work done only | Less control |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--01-span-64-staff.webp" width="900" height="940" alt="Two trees with 64 staff at the bottom. Span 4 gives layers of 1, 4, 16 and 64 (21 managers); span 8 gives 1, 8 and 64 (9 managers). The flat structure has fewer layers and fewer managers." loading="lazy">
+  <figcaption>A span of 4 needs four layers and 21 managers; a span of 8 needs three layers and 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--12-ways-of-working.webp" width="900" height="940" alt="Seven cards give one benefit and one drawback each for full-time, part-time, flexible, temporary, home, mobile and self-employed working, plus the Larkhill example of three part-timers at 16 hours giving 48 hours of Friday cover." loading="lazy">
+  <figcaption>Each way of working has a benefit and a drawback for the business.</figcaption>
+</figure>
+
+
 ## 3.3 Communication
 
 Methods: letter, email, text, phone, meeting/presentation, social media, website.
@@ -91,6 +114,17 @@ Methods: letter, email, text, phone, meeting/presentation, social media, website
 Importance: staff know what to do; fewer errors; better decisions; customers served well.
 
 Digital influence: faster messages, remote working, cheap reach to wide markets, instant customer feedback. Risks: information overload, data security, equipment costs and training.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
 
 ## 3.4 Recruitment and selection
 
@@ -117,6 +151,17 @@ Method in steps:
 
 Matching method to need: a rare skill points to external recruitment and a test; a team leader post points to internal promotion and an interview.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--02-cost-of-a-leaver.webp" width="900" height="980" alt="A bar of three costs adds to 1,480 pounds: advert 640, interviews 300 (12 hours at 25) and induction 540 (30 hours at 18). Five leavers cost 7,400 pounds." loading="lazy">
+  <figcaption>Replacing one leaver costs 1,480 pounds; five leavers cost 7,400, which is why retention matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ## 3.5 Motivation and retention
 
 | Financial | Non-financial |
@@ -133,6 +178,17 @@ Small calculations to practise:
 - Leavers: 3 leavers at £1,200 each to replace costs £3,600.
 
 Why motivation matters: better performance and helps retention. Why retention matters: staff already know the business and customers, and the business saves the time and expense of recruitment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--13-bonus-profit-sharing.webp" width="900" height="890" alt="Sales of 52,500 pounds are 12,500 above a 40,000 target, so a 2% bonus is 250 pounds. 5% of 84,000 pounds profit is 4,200 pounds, shared by 14 staff, 300 pounds each." loading="lazy">
+  <figcaption>A bonus pays on sales above a target; profit sharing divides a slice of profit among staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
 
 ## 3.6 Training and development
 
@@ -152,6 +208,12 @@ Staff development: vocational and academic qualifications, apprenticeships.
 | Promotion chances | Easier to fill senior roles |
 | Confidence | Higher motivation and retention |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--14-training-cost-benefit.webp" width="900" height="980" alt="Cost: fees 1,080 pounds plus lost output 1,140 pounds, 2,220 pounds. Rework falls from 14 to 5 hours a week, 9 hours saved at 16 pounds for 48 weeks, 6,912 pounds a year, more than the cost if the cut lasts." loading="lazy">
+  <figcaption>Larkhill saves 6,912 pounds a year in rework against a one-off cost of 2,220 pounds.</figcaption>
+</figure>
+
+
 ## 3.7 Employment law
 
 The specification names the four areas below but no Acts or details, so this table is general wording. Describe how current legislation affects recruitment and employment in general terms.
@@ -164,6 +226,12 @@ The specification names the four areas below but no Acts or details, so this tab
 | Hours of work | Rules on hours limit what a business can ask |
 
 Business impact: higher admin and training costs, versus fairer treatment and a stronger reputation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--15-employment-law-areas.webp" width="900" height="960" alt="Four areas: discrimination (no unfair treatment), the right to a contract, paid holidays and limits on hours of work. Impact on a business: costs of training managers, keeping records and adjusting rotas; benefits of fairer treatment and reputation; breaking the law risks penalties." loading="lazy">
+  <figcaption>Employment law covers four areas and brings both costs and benefits to a business.</figcaption>
+</figure>
+
 
 ## Case-study skills
 

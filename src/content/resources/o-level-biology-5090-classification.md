@@ -60,6 +60,12 @@ A **species** is a group of organisms that can reproduce to produce **fertile of
 
 By contrast, two very different-looking dog breeds produce puppies that grow up able to breed, so all domestic dogs belong to one species.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--03-species-and-binomial.webp" width="900" height="1010" alt="Two animals of one species breed and produce fertile offspring. A binomial name has the genus first (capital letter) then the species (small letter), in italics, e.g. Panthera leo, Panthera tigris, Homo sapiens." loading="lazy">
+  <figcaption>A binomial name is genus plus species.</figcaption>
+</figure>
+
+
 ### The binomial system (2.1.3)
 
 The **binomial system** is an internationally agreed way of naming species. Every species has a scientific name made of **two parts**:
@@ -107,6 +113,12 @@ Six organisms need 6 − 1 = 5 couplets. Start with the feature that splits the 
 
 **Using it.** A specimen has jointed legs, ten legs and two pairs of antennae. Step 1: exoskeleton, go to 2. Step 2: five pairs is more than four, go to 3. Step 3: two pairs of antennae, so it is the **crab**. Always write down the route (1a → 2a → 3a) in an exam answer if the question asks how you reached the name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-classification--01-key-six-organisms.webp" width="900" height="960" alt="A branching key for the lesson's six organisms. Couplet 1: exoskeleton and jointed legs? Yes goes to couplet 2, no to couplet 5. Couplet 2: more than four pairs of legs? Yes to couplet 3, no to couplet 4. Couplet 3: two pairs of antennae? Yes is a crab, no a centipede. Couplet 4: three pairs of legs? Yes is a housefly, no a spider. Couplet 5: feathers? Yes a sparrow, no a frog. The route 1a, 2a, 3a to the crab is highlighted." loading="lazy">
+  <figcaption>Six organisms need five couplets; follow one route down the key.</figcaption>
+</figure>
+
+
 ## 2.2 Features of organisms
 
 ### The five kingdoms (2.2.1)
@@ -120,6 +132,12 @@ Six organisms need 6 − 1 = 5 couplets. Start with the feature that splits the 
 | Protoctist | Mostly single-celled, with a nucleus; some have chloroplasts and are plant-like, others are animal-like | *Amoeba* (animal-like), *Euglena* (has chloroplasts) |
 
 The key splits to remember: **nucleus or no nucleus** separates Prokaryote from the rest; **cell wall and chloroplasts** separate Plant from Animal; **non-cellulose wall, no chloroplasts, hyphae** mark out Fungus. The prokaryote structures are the same ones you met for the bacterial cell in [cell structure and organisation](/resources/cell-structure-and-organisation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--07-five-kingdoms.webp" width="900" height="1206" alt="Extended. Animal: many cells, no cell wall, feeds by ingestion. Plant: cellulose cell wall, photosynthesis. Fungus: chitin wall, hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Viruses are in no kingdom: a protein coat and genetic material only." loading="lazy">
+  <figcaption>Five kingdoms by defining feature; viruses sit outside them.</figcaption>
+</figure>
+
 
 ### Groups within the animal kingdom (2.2.2)
 
@@ -142,6 +160,17 @@ The key splits to remember: **nucleus or no nucleus** separates Prokaryote from 
 | Crustaceans | Often 2 (cephalothorax, abdomen) | More than 4 pairs | 2 pairs | Many live in water; exoskeleton often hardened |
 | Myriapods | Many similar segments | 1 or 2 pairs on each segment | 1 pair | Centipedes and millipedes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--05-vertebrate-groups.webp" width="900" height="1145" alt="Five rows each with a simple animal drawing and three features: mammals (fur or hair, external ears, milk), birds (feathers and beak, wings, hard-shelled eggs), reptiles (dry scaly skin, rubbery-shelled eggs on land), amphibians (moist skin, shell-less eggs in water), fish (scales, fins, gills)." loading="lazy">
+  <figcaption>Each vertebrate group has its own set of features.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--06-arthropod-groups.webp" width="900" height="1103" alt="Top-view drawings of an insect (3 body parts, 6 legs, 1 pair of antennae), arachnid (2 body parts, 8 legs, no antennae), crustacean (more than 4 pairs of legs, 2 pairs of antennae) and myriapod (long segmented body, 1-2 leg pairs per segment, 1 pair of antennae). All arthropods have jointed legs, a segmented body and an exoskeleton." loading="lazy">
+  <figcaption>Count legs, body parts and antennae to place an arthropod.</figcaption>
+</figure>
+
+
 ### Groups within the plant kingdom (2.2.3)
 
 **Ferns** have roots, stems and leaves called **fronds**, but **no flowers**. They reproduce by **spores**, which form in small brown patches on the underside of the fronds.
@@ -154,6 +183,12 @@ The key splits to remember: **nucleus or no nucleus** separates Prokaryote from 
 | Leaf veins | Parallel | Branching network |
 | Flower parts | Usually in threes or multiples of three | Usually in fours or fives, or multiples of these |
 | Examples | Maize, rice, grasses, onion | Bean, sunflower, mango |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-classification--02-fern-monocot-dicot.webp" width="900" height="1068" alt="Three rows. Ferns: a frond with spore patches underneath, no seeds and no flowers. Monocotyledons (maize, rice, onion): one seed leaf, parallel leaf veins, flower parts in threes. Dicotyledons (bean, sunflower, mango): two seed leaves, branching network of leaf veins, flower parts in fours or fives." loading="lazy">
+  <figcaption>Seed leaves, leaf veins and flower parts separate monocotyledons from dicotyledons.</figcaption>
+</figure>
+
 
 ### Classifying organisms (2.2.4)
 
@@ -175,6 +210,12 @@ A virus is not a cell. The syllabus limits its features to two:
 - **genetic material** inside it (DNA or RNA).
 
 A virus has no cytoplasm and none of the structures that a cell uses to make proteins. So a virus **can only replicate inside a living cell**. It enters a host cell and the host cell's materials are used to make new copies of the virus. Outside a living cell, a virus does not reproduce. This is why viruses are not placed in any of the five kingdoms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-classification--01-virus-replication.webp" width="900" height="1100" alt="A virus (protein coat with genetic material) enters a host cell, the cell makes copies using its own materials, and new viruses leave. Outside a living cell no copies are made." loading="lazy">
+  <figcaption>A virus can only replicate inside a living cell.</figcaption>
+</figure>
+
 
 ## Common errors
 

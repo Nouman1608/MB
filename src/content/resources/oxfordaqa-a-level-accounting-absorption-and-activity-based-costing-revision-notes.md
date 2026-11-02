@@ -108,6 +108,12 @@ Senior mix uses 35 set-ups → 35 × 300 = 10,500
 Senior mix output 7,000 bags → 10,500 ÷ 7,000 = 1.50 per bag
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--05-under-over-absorption.webp" width="900" height="904" alt="Machining absorbed 132,800 pounds against 131,000 actual, over-absorbed by 1,800. Assembly absorbed 109,440 against 113,200, under-absorbed by 3,760. Net 1,960 pounds under-absorbed is deducted from profit." loading="lazy">
+  <figcaption>Absorbed = OAR x actual hours; absorbing more than actual is over-absorption and adds to profit.</figcaption>
+</figure>
+
+
 ## Inventory and profit under the three methods
 
 | | Marginal | Absorption | ABC |
@@ -120,6 +126,12 @@ Senior mix output 7,000 bags → 10,500 ÷ 7,000 = 1.50 per bag
 
 The difference between ABC and absorption profit comes from the overhead each unsold unit carries. A product that ABC loads heavily makes ABC profit higher when that product piles up in inventory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--08-marginal-vs-absorption-profit.webp" width="900" height="1020" alt="Ostrell Glassware in two years: inventory rises by 1,500 vases in Year 1, so absorption profit is 12,000 higher (76,400 v 64,400). Inventory falls by 1,200 in Year 2, so marginal profit is 9,600 higher (99,760 v 90,160). The difference is the change in inventory times 8 of fixed overhead." loading="lazy">
+  <figcaption>Profit differs between the methods only when inventory changes, by fixed overhead per unit times the inventory change.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Allocation vs apportionment vs attribution.** Allocation needs no sharing. Apportionment shares an overhead between departments. Attribution shares a cost pool between products by driver use.
@@ -127,6 +139,12 @@ The difference between ABC and absorption profit comes from the overhead each un
 - **Under vs over.** Under-absorbed means products carried too little overhead, so profit is reduced. Over-absorbed means too much, so profit is increased.
 - **Volume-based vs activity-based.** Absorption uses one rate per department tied to hours or units; ABC uses several rates, many tied to batches or orders instead of volume.
 - **Mark-up vs margin.** The same cash profit is a bigger percentage of cost than of price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--07-activity-based-costing.webp" width="900" height="1246" alt="Four cost pools are shared between Standard and Premium by use of their cost drivers (set-ups, inspections, orders, machine hours). Overhead per unit is 8.25 pounds for Standard and 55 for Premium under ABC, against 16 and 24 under a single labour-hour rate. Priced at 20 percent over the old cost, Premium sells at 168, below its ABC cost of 171." loading="lazy">
+  <figcaption>ABC charges overheads by the activities that cause them, which can change product costs and prices sharply.</figcaption>
+</figure>
+
 
 ## Benefits and limitations, compressed
 
@@ -160,6 +178,12 @@ The difference between ABC and absorption profit comes from the overhead each un
 9. Inventory fell, so marginal profit is higher: 64,300 + 900 × 3.00 = **67,000**.
 10. 27.40 × 1.15 = **31.51**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--09-limiting-factor.webp" width="900" height="1060" alt="Contribution per unit is 24, 36 and 15 pounds for A, B and C, but per scarce hour it is 12, 9 and 15, so the ranking is C, A, B. Filling 4,000 hours in that order gives 1,000 C, 800 A and 350 B, contribution 46,800 and profit 16,800 after fixed costs of 30,000." loading="lazy">
+  <figcaption>With a limiting factor, rank products by contribution per unit of the scarce resource, not per unit.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Multiplying the OAR by budgeted hours when asked for overheads absorbed.
@@ -172,6 +196,17 @@ The difference between ABC and absorption profit comes from the overhead each un
 - Deducting fixed production overheads below gross profit in an absorption statement, so they are charged twice.
 - Claiming absorption profit always exceeds marginal profit; the change in inventory decides.
 - Judging ABC without using the figures from the business in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--03-allocate-apportion.webp" width="900" height="952" alt="Five bars show indirect labour allocated, and rent, depreciation, power and canteen apportioned between Machining and Assembly on stated bases. Totals are 128,000 and 114,000 pounds, summing to 242,000." loading="lazy">
+  <figcaption>Overheads are allocated where one department caused them and apportioned on a fair basis where they are shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
+  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

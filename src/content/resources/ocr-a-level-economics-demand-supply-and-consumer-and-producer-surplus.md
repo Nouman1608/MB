@@ -56,12 +56,24 @@ Worked example (Country A, illustrative): three households buy cinema tickets ea
 
 At £4: 14 + 9 + 6 = 29. Household Z stops buying at £12, but the market still demands 3. A new household in the area shifts market demand right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--03-market-demand-sum.webp" width="900" height="990" alt="Stacked bars show households X, Y and Z demand at prices of 4 to 12 pounds and their totals 29, 22, 15, 9 and 3." loading="lazy">
+  <figcaption>Market demand is found by adding quantities at each price.</figcaption>
+</figure>
+
+
 ## Types of demand
 
 - **Derived demand:** demand for a good because it is needed to make something else. Demand for steel comes from demand for cars and bridges. Labour demand is derived from demand for the output. A fall in demand for the final product cuts demand for the inputs.
 - **Joint demand:** complements demanded together, such as printers and ink cartridges. A rise in the price of one reduces the quantity demanded of that good and decreases demand for the other.
 - **Composite demand:** demand for a good with several uses, which is the sum of the demands for each use. Illustration: at £0.80 a litre, milk sells 60 (million litres) for drinking, 30 for cheese and 10 for yoghurt, so composite demand is 100. If cheese demand rises by 20 at that price, composite demand becomes 120 and less milk is left for the other uses.
 - **Competitive demand:** substitutes that compete for the same spending, such as tea and coffee. A rise in the price of one raises demand for the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--06-types-of-demand.webp" width="900" height="1006" alt="Four rows. Derived: steel demand comes from cars and bridges. Joint: printers and ink, so a higher printer price lowers ink demand. Composite: milk for drinking 60, cheese 30, yoghurt 10 (total 100), rising to 120 if cheese demand rises by 20. Competitive: tea and coffee, a higher tea price raises coffee demand." loading="lazy">
+  <figcaption>The four types of demand each link one demand to another.</figcaption>
+</figure>
+
 
 ## Why demand slopes downwards
 
@@ -76,6 +88,17 @@ Worked example: one consumer's marginal utility from cups of tea, measured in mo
 
 Across goods, utility is maximised when marginal utility per pound is equal. If good A has marginal utility 12 utils at £2 (12 ÷ 2 = 6 per pound) and good B has 15 utils at £3 (15 ÷ 3 = 5 per pound), she gains by buying more A and less B. A fall in the price of a good raises its marginal utility per pound, so she buys more of it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--04-marginal-utility-cups.webp" width="900" height="1000" alt="Bars show the value of five cups of tea (3.00 to 0.60). At 1.50 cups 1 to 3 are worth buying; at 1.00 cup 4 is too." loading="lazy">
+  <figcaption>A lower price makes another cup worth buying, so quantity demanded rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--09-equimarginal-principle.webp" width="900" height="690" alt="Two columns: good A gives 12 utils at £2, which is 6 per pound; good B gives 15 utils at £3, which is 5 per pound. The consumer gains by moving spending from B to A until the per-pound values are equal." loading="lazy">
+  <figcaption>Utility is maximised when marginal utility per pound is equal across goods.</figcaption>
+</figure>
+
+
 ### Income and substitution effects
 
 A fall in price has two effects.
@@ -84,6 +107,12 @@ A fall in price has two effects.
 - **Income effect:** the fall raises real income, meaning purchasing power. Take money income of £400 and a price cut from £4 to £3.20: she can now afford 400 ÷ 3.20 = 125 units instead of 400 ÷ 4 = 100, a 25 per cent rise in what her income can buy. For a normal good she uses some of this extra power to buy more.
 
 Both effects raise quantity demanded of a normal good. For an inferior good the income effect works the other way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--08-income-substitution-effects.webp" width="900" height="800" alt="A price cut from £4 to £3.20 (-20%) has a substitution effect (the good is relatively cheaper, so buyers switch to it) and an income effect (£400 buys 125 units instead of 100, up 25%). For a normal good both raise quantity demanded; for an inferior good the income effect works the other way." loading="lazy">
+  <figcaption>A price fall makes a good relatively cheaper and raises real purchasing power.</figcaption>
+</figure>
+
 
 ## Movement along versus shift of demand
 
@@ -105,6 +134,17 @@ Factors that shift demand:
 | Government action | Bans, regulations or information campaigns change demand |
 
 In a diagram answer, label both axes, name each curve and mark the original and new quantity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--10-movement-vs-shift-good-m.webp" width="900" height="822" alt="Two demand lines D1 (P = 20 - 4Q) and D2 (P = 24 - 4Q). At £8, quantity is 3 thousand on D1 (A). A price fall to £4 moves along D1 to 4 thousand (B), an extension. An income rise shifts demand to D2, giving 4 thousand at £8 (C), an increase of 1 thousand at every price." loading="lazy">
+  <figcaption>Only a change in the good’s own price moves you along the curve; any other factor shifts it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
 
 ## Consumer surplus
 
@@ -129,6 +169,12 @@ Check: 12 + 2 = 14. A price rise from £4 to £8 reverses this: surplus falls by
 - A lower price is not always good: if the good harms others, cheaper consumption can reduce wider welfare, and a cut in quality means consumers gain less than the figure suggests.
 - Firms that charge different prices to different buyers can capture some surplus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--01-cs-price-fall.webp" width="900" height="1090" alt="Demand curve P = 20 - 4Q with the surplus triangle at price 8 (area 18), a rectangle of 12 for existing buyers and a triangle of 2 for new buyers when price falls to 4. Surplus rises from 18 to 32." loading="lazy">
+  <figcaption>A price fall from 8 to 4 adds 12 for existing buyers and 2 for new buyers.</figcaption>
+</figure>
+
+
 ## Individual and market supply
 
 **Supply** is the set of quantities producers choose to offer at each price over a set period, other things equal. **Market supply** is the horizontal sum of all firms' supplies. If three firms supply 40, 25 and 15 units at £10, market supply at £10 is 80.
@@ -140,6 +186,12 @@ Supply slopes upwards because a higher price covers the higher marginal cost of 
 - **Joint supply:** one process yields two or more products, such as beef and hides. If beef prices rise, more cattle are reared and the supply of hides increases, which pushes hide prices down.
 - **Composite supply:** a good supplied for more than one use or market, such as oil going to fuel and plastics. Total supply is the sum across uses, and a rise in supply to one use reduces what is left for another.
 - **Competitive supply:** producers can switch resources between alternatives, so more of one product means less of the other. A farmer with 100 hectares earns £480 a hectare from wheat and £450 from barley. If the wheat margin rises to £520 she moves land to wheat and the supply of barley falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--07-types-of-supply.webp" width="900" height="879" alt="Three rows. Joint: cattle give beef and hides, so a higher beef price raises hide supply and lowers hide price. Composite: oil goes to fuel and plastics, so more to fuel leaves less for plastics. Competitive: a 100-hectare farm earns £480 a hectare from wheat and £450 from barley; when wheat rises to £520 land moves to wheat and barley supply falls." loading="lazy">
+  <figcaption>Joint, composite and competitive supply each link one supply to another.</figcaption>
+</figure>
+
 
 ## Movement along versus shift of supply
 
@@ -177,6 +229,22 @@ producer surplus = ½ × 3 × 6 = £9 (thousand).
 - A price rise helps most if it comes from higher demand. One caused by higher costs shifts the curve up and may not raise surplus.
 - A lower price from a cost-saving technology can lower surplus per unit while raising volume, so the net effect needs working out.
 - The curves are only models and cannot be read exactly in practice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--02-ps-price-rise.webp" width="900" height="1090" alt="Supply curve P = 2 + 2Q with the surplus triangle at price 8 (area 9), a rectangle of 6 and a new triangle of 1 when price rises to 10. Surplus rises from 9 to 16." loading="lazy">
+  <figcaption>A price rise from 8 to 10 adds 6 on existing sales and 1 on new sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
+  <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
+</figure>
+
 
 ## Common errors
 

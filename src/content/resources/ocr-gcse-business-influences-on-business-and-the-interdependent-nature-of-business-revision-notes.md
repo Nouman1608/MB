@@ -68,6 +68,27 @@ Typical responses by a business:
 3. Change where it buys (a supplier with fair working conditions).
 4. Change what it says (honest marketing).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--01-ethical-breakeven.webp" width="900" height="830" alt="Two stacked bars split the candle price into variable cost and contribution, before (9.50 pounds: 2.40 + 7.10) and after (10.50 pounds: 2.90 + 7.60) the fair-pay wax. A number line marks break-even falling from 592 to 553 candles. A banner says the price rise more than covers the extra cost, but only if customers still buy at 10.50 pounds." loading="lazy">
+  <figcaption>Fair-pay wax lowers Cinderby break-even from 592 to 553 candles, provided customers accept the higher price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+
 ## Section 6.2: the economic climate
 
 | Change | Likely effect on a business |
@@ -78,6 +99,17 @@ Typical responses by a business:
 | Unemployment falls | More spending; harder to recruit; wages may rise |
 
 Responses: adjust prices, offer cheaper ranges, cut costs, protect cash, change marketing messages. Always say which goods are affected. Basic goods usually hold up better than luxuries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--02-downturn-fixed-costs.webp" width="900" height="840" alt="Two stacked columns for Pellway Coffee before and after a 12.5 percent fall in sales. Variable costs fall with sales but the 14,000 pound fixed costs do not, so profit falls from 14,800 to 11,200 pounds, a 24.3 percent drop, and the margin from 30.8 to 26.7 percent." loading="lazy">
+  <figcaption>Because fixed costs do not fall with sales, a 12.5% fall in sales cuts profit by 24.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--05-trading-down-downturn.webp" width="900" height="880" alt="Three bars compare demand before and after incomes fall. Basic items fall a little; luxuries and eating out fall faster. A second picture shows some customers trading down from a dearer brand to a cheaper brand. A banner says a business may cut prices or range and must protect its cash." loading="lazy">
+  <figcaption>When incomes fall, demand for luxuries and eating out falls faster than for basics, and some customers trade down.</figcaption>
+</figure>
+
 
 ## Section 6.3: globalisation
 
@@ -98,6 +130,17 @@ Risk side: tougher competition, longer supply chains, changes in exchange rates,
 3. Compare the two using something specific to the case (size, cash, product type, customers).
 4. State a judgement and give the main reason for it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--03-location-cost-per-jacket.webp" width="900" height="810" alt="Stacked bars of cost per jacket for a home site (21.60 pounds) and an overseas site (17.40 pounds), split into labour, materials and transport. Overseas saves 4.20 pounds a jacket, 105,000 pounds a year, but the table leaves out a longer supply chain, currency changes and reputation risk." loading="lazy">
+  <figcaption>The overseas site saves 105,000 pounds a year in the table, but the table does not show the risks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## Section 7: interdependence, risk and reward, financial information
 
 ### Linking the four functions
@@ -108,11 +151,28 @@ Risk side: tougher competition, longer supply chains, changes in exchange rates,
 | Costs are cut | Quality, staff morale, reputation, customer service |
 | New product launched | Marketing: price and promotion. Operations: production method. Finance: funding. Human resources: skills |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--04-functions-interdependent.webp" width="900" height="830" alt="A marketing box labelled extra demand from a successful promotion has arrows to operations (more stock and capacity), finance (cash for stock before customers pay) and human resources (extra staff or hours), with two-way arrows between the three. A banner says a decision in one function changes the others." loading="lazy">
+  <figcaption>A promotion that works in marketing creates needs in operations, finance and human resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--07-training-supplier-knock-on.webp" width="900" height="896" alt="Two decisions each point to four boxes. Cut in training budget: operations, quality may fall; finance, saves money now; marketing, reputation may suffer; human resources, morale may fall. Move to a cheaper supplier: operations, delivery and quality may change; finance, lower cost; marketing, product claims may need to change; human resources, staff may need new procedures." loading="lazy">
+  <figcaption>A cut in training or a cheaper supplier helps finance but changes the other functions.</figcaption>
+</figure>
+
+
 ### Risk and reward
 
 - Higher possible reward usually means higher risk.
 - Reduce risk by researching first, starting small, keeping cash reserves and spreading sales.
 - In an exam answer, name both the reward (profit, growth, reputation) and the risk (losses, lost cash, damaged reputation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--06-arr-rowanside-machine.webp" width="900" height="820" alt="A 50,000 pound machine is bought at the start. Four bars show forecast profits of 9,000, 13,000, 15,000 and 13,000 pounds, with a dashed line at the average of 12,500 pounds. Average rate of return is 12,500 divided by 50,000 times 100, which is 25 percent, and it rests on forecasts." loading="lazy">
+  <figcaption>The 50,000 pound machine earns an average 12,500 pounds a year, an ARR of 25% based on forecasts.</figcaption>
+</figure>
+
 
 ### Financial information: formulas
 
@@ -143,6 +203,12 @@ At 1,500 units: loss = 1,500 x 4.50 - 9,000 = -£2,250
 ```
 
 The reward is £1,800 if the forecast is right. The risk is a £2,250 loss if sales are only 1,500. A sensible comment says the forecast needs support from market research.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--05-margins-fall-revenue-rises.webp" width="900" height="900" alt="Two bars show where each pound of revenue goes. In year 1 cost of sales takes 62.5p, other expenses 27.5p and net profit 10.0p (gross margin 37.5 percent). In year 2 cost of sales takes 65.0p, other expenses 26.1p and net profit 8.9p (gross margin 35.0 percent). Revenue rose 15 percent but net profit rose only 600 pounds, so both margins fell." loading="lazy">
+  <figcaption>Revenue grew 15% but both margins fell, so profit hardly rose.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

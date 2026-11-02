@@ -49,6 +49,12 @@ A **business objective** is the aim a firm sets for itself. The specification na
 
 Objectives can conflict. Cutting price to win share may raise sales but cut profit per unit. A new firm may chase sales growth, while an established one may prefer profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--03-market-share.webp" width="900" height="980" alt="Year 1: Firm A sells 8,000 of a 50,000-box market, 16 percent. Year 2: 9,500 of 55,000, 17.3 percent. Firm A sales grew 18.75 percent while the market grew 10 percent." loading="lazy">
+  <figcaption>Share rises when a firm grows faster than its market.</figcaption>
+</figure>
+
+
 ## Types of costs
 
 Costs are the expenses of production.
@@ -77,6 +83,12 @@ Costs are the expenses of production.
 
 Check one row: at 400 loaves, TC = 600 + 1,360 = 1,960, and ATC = 1,960 / 400 = 4.90, which equals AFC 1.50 + AVC 3.40. Notice that AFC keeps falling as output rises, since a fixed bill is shared among more loaves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Types of revenue and profit
 
 **Total revenue (TR)** is what a firm takes in from selling: price multiplied by the number of units sold. **Average revenue (AR)** is TR divided by units sold, and when every unit goes at one price it is simply that price.
@@ -95,6 +107,17 @@ For the bakery, the price is 6, so TR = 6 x output. For a different product, if 
 
 The bakery makes a loss at 100 and 200 loaves, and profit from 300 loaves upwards. Profit per unit can also be found as price minus ATC: at 400 loaves, 6.00 - 4.90 = 1.10 per loaf, and 1.10 x 400 = 440.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--01-bakery-profit.webp" width="900" height="880" alt="Bakery with price 6. ATC is 10.00, 6.60, 5.40, 4.90 and 4.80 at 100 to 500 loaves; dots above the price line are losses and below it profits. At 400 loaves the rectangle between price 6 and ATC 4.90 is 1.10 high and 400 wide, so profit is 440." loading="lazy">
+  <figcaption>Profit is the gap between price and ATC times output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+
 ## Ways to raise profit
 
 Profit equals TR minus TC, so a firm can lift it by lowering average costs, by raising revenue, or by doing both.
@@ -104,9 +127,21 @@ Profit equals TR minus TC, so a firm can lift it by lowering average costs, by r
 
 **Worked example.** At 400 loaves, profit is 440. Suppose ATC falls by 0.50 to 4.40: profit rises by 0.50 x 400 = 200, to 640. Alternatively, suppose the price rises by 0.50 with sales unchanged: TR rises by 0.50 x 400 = 200, again to 640. The evaluation point is that a higher price may cut sales, and a cheaper input may cut quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--04-raise-profit.webp" width="900" height="950" alt="Four bars at 400 loaves splitting price into cost and profit per loaf: now 6.00 = 4.90 + 1.10, profit 440; cost cut to 4.40 gives profit 640; price up to 6.50 gives 640; price 8.00 gives 3.10 per loaf and profit 1,240." loading="lazy">
+  <figcaption>Lower cost or higher price both lift profit per loaf.</figcaption>
+</figure>
+
+
 ## The price incentive to expand
 
 If costs hold steady, a higher price leaves a bigger gap between price and cost on every unit, which gives producers a reason to expand production. At 400 loaves, ATC is 4.90. At price 6.00, profit per loaf is 1.10 and total profit is 440. If the price rose to 8.00, profit per loaf would be 3.10 and total profit would be 8.00 x 400 - 1,960 = 1,240. Producers also bring in more resources to supply more. This is the reasoning behind an upward-sloping supply curve: a rise in price moves producers along the supply curve to a higher quantity supplied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--12-price-incentive.webp" width="900" height="920" alt="Bars at 400 loaves with ATC 4.90: price 6 gives profit 440, price 8 gives 1,240. A schematic supply curve shows producers moving up the curve." loading="lazy">
+  <figcaption>A bigger gap between price and cost gives producers a reason to supply more.</figcaption>
+</figure>
+
 
 ## Moral and ethical considerations
 
@@ -139,6 +174,22 @@ Productivity is total output divided by the workers employed, or by the hours th
 **Benefits of higher productivity:** lower average costs per unit, since the same inputs make more; room for higher wages or profit; lower prices or better competitiveness; and more output from limited resources. For a country, higher productivity supports growth.
 
 Link this to cost. If each worker is paid 600 a week, the wage bill per unit is 600 / 120 = 5.00 at the old productivity and 600 / 150 = 4.00 at the new.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--10-productivity-factors.webp" width="900" height="994" alt="Five rows with pictures: capital, skills and training, motivation, organisation and resource quality, with productivity = output divided by workers." loading="lazy">
+  <figcaption>Five factors that raise output per worker.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--11-production-vs-productivity.webp" width="900" height="1030" alt="Three scenarios: 12 workers make 1,440 units (120 each); the same 12 make 1,800 (150 each, +25%, wage cost per unit 5.00 to 4.00); 15 workers make 1,650 (output +14.6% but 110 each, -8.3%)." loading="lazy">
+  <figcaption>Production can rise while productivity falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
 
 ## 3.1.4.3 Economies of scale
 
@@ -177,6 +228,22 @@ Average cost = total cost / output. It falls from 12.00 to 9.00 between 1,000 an
 | Higher sales, profit and market share | Large funding needed, so debt or lost control |
 | Spreading risk across products and markets | Harder to manage and motivate staff |
 | More bargaining power with suppliers | Slower decisions; risk of unused capacity if demand falls |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--02-lrac-table.webp" width="900" height="840" alt="Average cost is 12.00, 10.00, 9.00, 9.00, 9.50 and 10.00 at 1,000 to 6,000 units. It falls 25 percent from 1,000 to 3,000 (economies), is level from 3,000 to 4,000, and rises 11.1 percent from 4,000 to 6,000 (diseconomies)." loading="lazy">
+  <figcaption>Average cost falls, levels, then rises as the firm grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--08-five-economies-of-scale.webp" width="900" height="994" alt="Five rows with pictures: managerial, purchasing, financial, technical and risk-bearing economies, each with the reason average cost falls." loading="lazy">
+  <figcaption>Five reasons a larger firm has lower average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-costs-revenue-profit-productivity-and-economies-of--09-diseconomies-causes.webp" width="900" height="854" alt="Four rows with pictures: communication, coordination, motivation and control problems, with the lesson example of average cost rising from 9.00 to 10.00." loading="lazy">
+  <figcaption>Four causes of rising average cost when a firm grows too large.</figcaption>
+</figure>
+
 
 ## Common errors
 

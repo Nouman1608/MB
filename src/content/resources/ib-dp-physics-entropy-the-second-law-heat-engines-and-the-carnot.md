@@ -71,6 +71,12 @@ A conducting rod joins a hot reservoir at 450 K and a cold reservoir at 300 K. I
 
 The cold side gains more than the hot side loses, because the same energy is divided by a smaller temperature. Reversing the flow would lower the total, which the second law forbids.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--04-heat-flow-entropy.webp" width="900" height="1080" alt="Hot reservoir at 450 K and cold at 300 K joined by a rod carrying 1500 J. Hot loses 3.33 J per K, cold gains 5.00 J per K, so the total is +1.67 J per K. Reversing the flow would lower total entropy." loading="lazy">
+  <figcaption>The cold side gains more entropy than the hot side loses, so total entropy rises.</figcaption>
+</figure>
+
+
 ## The microscopic definition: S = k_B ln Ω
 
 A microstate is one specific arrangement of the individual particles. A macrostate is what you observe overall. Many microstates can give the same macrostate. The guide says to treat microstates as equally probable. The entropy is
@@ -109,6 +115,22 @@ Suppose each of N = 1.0 × 10²² particles in a gas is equally likely to be in 
 
 The gas will not gather back into one half: that is one microstate among 2^N, not forbidden, merely overwhelmingly improbable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--01-four-coin-microstates.webp" width="900" height="960" alt="All 16 arrangements of four coins, grouped by number of heads, with Ω = 1, 4, 6, 4, 1. The 2-heads group has the most (6), giving S = k_B ln 6 = 2.47e-23 J per K; all heads has Ω = 1 and S = 0." loading="lazy">
+  <figcaption>The macrostate with the most microstates has the highest entropy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--02-ten-coins.webp" width="900" height="1010" alt="Bar chart of microstates for ten coins from 0 to 10 heads (1, 10, 45, 120, 210, 252, 210, 120, 45, 10, 1). 5 heads has Ω = 252, S = 7.63e-23 J per K and probability 0.246. For 100 coins the central macrostate has about 1.0e29 microstates." loading="lazy">
+  <figcaption>Larger systems make the highest-entropy macrostate overwhelmingly the one you see.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--03-gas-spreading.webp" width="900" height="1100" alt="A box with twelve particles in the left half behind a partition, then spread through both halves once it is removed. Each particle doubles the microstates, so Ω_f/Ω_i = 2^N (4096 for 12). For N = 1.0e22, ΔS = N k_B ln 2 = 0.0957 J per K." loading="lazy">
+  <figcaption>Removing the partition multiplies the microstates by 2 for every particle.</figcaption>
+</figure>
+
+
 ## The second law of thermodynamics
 
 The guide asks for three descriptions.
@@ -126,6 +148,12 @@ Friction, finite temperature differences, sudden expansion and mixing all raise 
 ### Local decreases in entropy
 
 A non-isolated system can lose entropy. Water freezing in a freezer is one example. The second law holds because the surroundings gain at least as much entropy as the system loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--05-freezer-local-decrease.webp" width="900" height="1080" alt="Heat of 1.002e5 J leaves water freezing at 273.15 K into a 295 K kitchen. Water entropy falls by 367 J per K; the kitchen must gain at least 367 J per K, needing 1.08e5 J, so at least 8.0e3 J of work is added." loading="lazy">
+  <figcaption>The water loses entropy locally, the kitchen gains at least as much, and work is the price.</figcaption>
+</figure>
+
 
 ### Worked example 5: a freezer
 
@@ -147,6 +175,17 @@ W = Q_h − Q_c
 On a pressure–volume diagram the area enclosed by the loop equals the net work per cycle. A rectangular loop between 100 kPa and 300 kPa with a volume change of 2.0 × 10⁻³ m³ gives (300 000 − 100 000) × 2.0 × 10⁻³ = 400 J.
 
 The Kelvin form explains why Q_c cannot be zero: an engine needs both a hot source and a cold sink.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--06-heat-engine-flow.webp" width="900" height="1020" alt="Arrows with widths proportional to energy: 850 J in from the hot reservoir, 230 J of useful work out and 620 J rejected to the cold reservoir. Efficiency 230/850 = 0.271 and power at 25 cycles per second is 5750 W." loading="lazy">
+  <figcaption>Over a cycle W = Q_h − Q_c, and efficiency is W divided by Q_h.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--07-pv-loop-work.webp" width="900" height="980" alt="Rectangular loop on a pressure-volume graph from 100 to 300 kPa and 1.0 to 3.0 x 10^-3 m^3, traversed clockwise. Its area, (300 000 - 100 000) Pa x 2.0e-3 m^3, is the net work, 400 J." loading="lazy">
+  <figcaption>The area enclosed by the loop equals the net work per cycle.</figcaption>
+</figure>
+
 
 ## Efficiency
 
@@ -191,6 +230,17 @@ An engine works between 500 K and 300 K and takes in 2.0 MJ of heat per cycle at
 4. The work lost to irreversibility is 0.80 − 0.50 = 0.30 MJ, which equals T_c × ΔS = 300 × 1000.
 
 The engine's own entropy is unchanged after a full cycle, so the total gain is in the reservoirs. Every irreversibility costs work, in proportion to the entropy produced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--08-carnot-limit.webp" width="900" height="960" alt="Graph of Carnot efficiency 1 - T_c/T_h against T_h for T_c = 318.15 K. At T_h = 793.15 K the limit is 0.599; the claimed 0.62 lies above the curve in the forbidden region, so it is impossible." loading="lazy">
+  <figcaption>Efficiency above the Carnot curve for the given temperatures violates the second law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--09-real-engine-entropy.webp" width="900" height="930" alt="Two bars of 2.0 MJ input at 500 K with the cold reservoir at 300 K. Carnot gives 0.80 MJ work and rejects 1.20 MJ; the real engine gives 0.50 MJ and rejects 1.50 MJ. Entropy produced is 1000 J per K per cycle, and T_c times that, 0.30 MJ, is the lost work." loading="lazy">
+  <figcaption>Every irreversibility costs work in proportion to the entropy produced.</figcaption>
+</figure>
+
 
 ## Common errors
 

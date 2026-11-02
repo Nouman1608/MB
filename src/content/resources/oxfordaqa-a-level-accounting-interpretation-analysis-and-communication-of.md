@@ -78,6 +78,27 @@ Interest cover     = 1,488,000 / 188,000          = 7.91 times
 
 **Reading them.** EPS rose by half a cent, yet the share price fell, so price earnings dropped from 18.0 to 16.0: investors are less confident about growth. Dividends grew in line with profit, so cover held at 2.50. Interest cover fell because finance costs rose by 58,000 while operating profit rose by only 108,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
+  <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--07-dividend-cover-yield.webp" width="900" height="820" alt="Ordinary earnings of 840,000 dollars hold the 360,000 dividend 2.33 times, which is the dividend cover. A dividend of 6.00 cents per share on a 238-cent share price is a yield of 2.52 percent." loading="lazy">
+  <figcaption>Cover shows how safe the dividend is; yield shows the cash return on the share price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+
+
 ## Interpreting management information
 
 The specification includes management information. A month's variance report from Ardleigh's foundry:
@@ -143,6 +164,12 @@ Profit follows the accruals concept; cash moves only on receipt or payment. Each
 | Debentures of 600,000 redeemed from the bank | None now; future interest saved | Down 600,000 | Current ratio 1.46 : 1; gearing 19.95% |
 
 The disposal moves profit and cash in opposite directions; the revaluation improves gearing with no cash moving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
 
 ## Stakeholders and communication
 

@@ -35,11 +35,23 @@ Use it with the [0580 course hub](/boards/cambridge/igcse/mathematics/) and the 
 | C4.5, E4.5.1 (notes) | Know the properties of triangles, quadrilaterals and polygons that come directly from their symmetries | Core and Extended |
 | E4.5.2 | Recognise symmetry properties of prisms, cylinders, pyramids and cones, e.g. identify planes and axes of symmetry | Extended only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--08-solids-symmetry.webp" width="900" height="1140" alt="A cylinder has one axis, endless vertical planes and one horizontal plane. A cone has one axis, endless vertical planes and no horizontal plane. A square-based pyramid has one axis of order 4, four vertical planes and no horizontal plane." loading="lazy">
+  <figcaption>Extended only: axes and planes of symmetry of a cylinder, cone and pyramid.</figcaption>
+</figure>
+
+
 ## Line symmetry
 
 A **line of symmetry** (mirror line) splits a shape into two halves that are mirror images: fold along it and one half fits exactly on the other. To test a line, go from each vertex straight across the line at 90° and the same distance beyond it. If there is a matching vertex there every time, it is a line of symmetry.
 
 A diagonal is *not* automatically a line of symmetry. A rectangle's diagonal cuts it into two congruent triangles, but folding along it does not make them fit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--01-line-symmetry.webp" width="900" height="1000" alt="A rectangle has two mirror lines, vertical and horizontal, and each point has a partner the same distance across the line at 90 degrees. Reflecting vertex B in the diagonal AC lands outside the rectangle and not on D, so a diagonal is not a line of symmetry." loading="lazy">
+  <figcaption>Test a mirror line by reflecting points; a rectangle’s diagonal fails.</figcaption>
+</figure>
+
 
 ## Rotational symmetry
 
@@ -52,6 +64,12 @@ A shape has **rotational symmetry** if it looks exactly the same after a turn of
 ### A useful link between the two
 
 If a flat shape has **at least one** line of symmetry, its order of rotational symmetry equals its number of lines. A shape with **no** lines can still have rotational symmetry: a parallelogram has order 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--02-rotational-symmetry.webp" width="900" height="1080" alt="A marked corner shows the turns about the centre. A parallelogram fits after 180 degrees (order 2), an equilateral triangle after 120 and 240 degrees (order 3), and a scalene triangle only after 360 degrees (order 1)." loading="lazy">
+  <figcaption>The smallest turn that fits is 360° divided by the order.</figcaption>
+</figure>
+
 
 ## Symmetry of triangles and quadrilaterals
 
@@ -95,6 +113,12 @@ M lies on PR, so angle QPR = 32°.
 
 Check: PR bisects angle QPS, so angle QPS = 64°, and 116° + 64° = 180° (co-interior angles).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--04-rhombus-example.webp" width="900" height="860" alt="Rhombus PQRS with angle PQR 116 degrees. QS bisects it, giving 58 degrees. The diagonals cross at 90 degrees, so in triangle PMQ angle QPM is 180 minus 90 minus 58, which is 32 degrees." loading="lazy">
+  <figcaption>Use the diagonals as mirror lines to find the angle QPR = 32°.</figcaption>
+</figure>
+
+
 ### Worked example 2 (non-calculator): an isosceles trapezium
 
 ABCD is an isosceles trapezium with AB parallel to DC and AD = BC. Angle DAB = 68°. Find angles ABC, ADC and BCD.
@@ -108,6 +132,12 @@ AB is parallel to DC, so co-interior angles add to 180°:
   angle BCD = angle ADC = 112°   (by the symmetry)
 Check: 68 + 68 + 112 + 112 = 360°
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--03-shapes-lines-order.webp" width="900" height="1260" alt="Ten triangles and quadrilaterals with their mirror lines dashed and the number of lines and order stated: equilateral 3 and 3, isosceles 1 and 1, scalene 0 and 1, square 4 and 4, rectangle 2 and 2, rhombus 2 and 2, parallelogram 0 and 2, kite 1 and 1, isosceles trapezium 1 and 1, trapezium 0 and 1." loading="lazy">
+  <figcaption>If a shape has any lines, its order equals its number of lines; the parallelogram is the exception with order 2.</figcaption>
+</figure>
+
 
 ## Symmetry of regular polygons
 
@@ -129,6 +159,12 @@ Lines of symmetry = 15
 Exterior angle = 360° ÷ 15 = 24°
 Interior angle = 180° − 24° = 156°
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--05-regular-polygons.webp" width="900" height="1100" alt="A pentagon has 5 lines each from a vertex to the opposite side midpoint, order 5 and turn 72 degrees. An octagon has 8 lines, 4 vertex to vertex and 4 midpoint to midpoint, order 8 and turn 45 degrees. A turn of 24 degrees gives 15 sides and an interior angle of 156 degrees." loading="lazy">
+  <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
+</figure>
+
 
 ## Symmetry on a grid
 
@@ -165,6 +201,17 @@ The hexagon is A(1, 1), B(4, 1), C(5, 3), (5, 5), (2, 5), (1, 3).
 ```
 
 This hexagon has order 2 but **no** lines of symmetry, like a parallelogram. Rotations are described fully in the [transformations and vectors study guide](/resources/igcse-mathematics-transformations-and-vectors/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--06-grid-line-of-symmetry.webp" width="900" height="990" alt="Triangle with P(1, 4), Q(4, 1), R(5, 5) on a grid. PR and QR both have squared length 17, so it is isosceles. Reflection in y = x swaps coordinates, mapping P to Q and fixing R, so y = x is the line of symmetry." loading="lazy">
+  <figcaption>Reflection in y = x swaps x and y, so it is the mirror line of this triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--07-grid-half-turn.webp" width="900" height="970" alt="Hexagon with vertices A(1, 1), B(4, 1), C(5, 3) given. A half-turn about (3, 3) sends (x, y) to (6 minus x, 6 minus y), giving (5, 5), (2, 5) and (1, 3). The hexagon has order 2 and no lines of symmetry." loading="lazy">
+  <figcaption>A half-turn about (3, 3) completes the hexagon: (x, y) goes to (6 − x, 6 − y).</figcaption>
+</figure>
+
 
 ## Symmetry of solids (Extended only)
 

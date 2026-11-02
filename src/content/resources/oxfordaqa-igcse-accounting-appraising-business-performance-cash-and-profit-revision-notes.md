@@ -46,6 +46,17 @@ Supporting definitions
 - Gross profit = revenue - cost of sales.
 - Profit for the year = gross profit - expenses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--08-five-profitability-measures.webp" width="900" height="980" alt="Five fractions with Kesterwick 2026 numbers: gross margin 35.0%, markup 53.8%, profit to revenue 10.0%, ROCE 18.0%, inventory turnover 7.74 times." loading="lazy">
+  <figcaption>Each profitability measure is a fraction; the denominators differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 1. Write the formula.
@@ -111,6 +122,42 @@ Why they differ
 - Loans and extra capital: raise cash, not profit.
 - Inventory build-up: uses cash, no effect on profit until the goods are sold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--03-pay-supplier-paradox.webp" width="900" height="980" alt="Stacked columns before and after paying suppliers 6 from the bank. Current assets fall from 60 to 54 and payables from 30 to 24, so the current ratio rises from 2.00 to 2.25 while cash falls from 15 to 9." loading="lazy">
+  <figcaption>A rising current ratio does not mean more cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--04-kes-profit-to-cash.webp" width="900" height="920" alt="A waterfall from profit 56 through depreciation, inventory, receivables and payables to cash from trading 50, then equipment 26 and drawings 45, ending at a fall in bank of 21." loading="lazy">
+  <figcaption>Profit of 56 was absorbed by working capital, equipment and drawings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--05-profit-cash-effects.webp" width="900" height="1040" alt="A grid of ten transactions marking whether profit and cash rise, fall or are unaffected." loading="lazy">
+  <figcaption>The same transaction can change profit, cash, both or neither.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
+
 ## Transaction grid
 
 | Transaction | Profit | Cash | Current ratio (if above 1) |
@@ -156,6 +203,12 @@ A transaction affects profitability if it changes revenue or expenses. It affect
 10. Profit falls. Cash does not change.
 11. Any two: growth in receivables, growth in inventory, buying non-current assets, large drawings, loan repayments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--09-liquidity-days-credit-basis.webp" width="900" height="960" alt="Current assets 128 v current liabilities 79 (1.62:1); without inventory 72 v 79 (0.91:1); receivable days 58.7 on credit sales 448 and payable days 66.9 on credit purchases 382." loading="lazy">
+  <figcaption>Days use credit sales and credit purchases, not revenue and cost of sales.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving a number with no formula, so the method cannot be seen.
@@ -177,6 +230,17 @@ Use the pattern: result, comparison, reason, judgement.
 - "Profit rose by 10% but the bank balance fell. Much of the profit is tied up in higher receivables and inventory, so profit and cash have moved apart."
 
 Name the stakeholder where the question does. A lender looks first at liquidity and ROCE. An owner looks at profit in relation to revenue and ROCE. A supplier looks at payable days and the current ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--01-kes-profit-fell.webp" width="900" height="1020" alt="Revenue rose 16.7% from 480 to 560 thousand dollars while profit fell 6.7% from 60 to 56. Gross margin fell 37.5% to 35.0%, profit over revenue 12.5% to 10.0%, and ROCE 20.0% to 18.0%." loading="lazy">
+  <figcaption>Kesterwick grew but its margins and return all fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--02-kes-liquidity.webp" width="900" height="1190" alt="Bars show the current ratio falling from 2.32 to 1.62 and the liquid capital ratio from 1.32 to 0.91, below a dashed 1 : 1 line. Receivable days rose 38.5 to 58.7 and payable days 45.6 to 66.9." loading="lazy">
+  <figcaption>Kesterwick can no longer cover current liabilities without selling inventory, and both sides are paying slower.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

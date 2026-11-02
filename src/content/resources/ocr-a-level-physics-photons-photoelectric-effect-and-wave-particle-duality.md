@@ -56,6 +56,12 @@ Power = energy per second = N × E, so N = 4.0 × 10⁻³ / 3.74 × 10⁻¹⁹ =
 
 Intensity is power per unit area: photons arriving per second per square metre, times the energy of each photon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+
+
 ## 4.5.1(d) The electronvolt
 
 One electronvolt (eV) is the energy an electron gains when it is accelerated across a potential difference of one volt. Using W = QV, 1 eV = 1.60 × 10⁻¹⁹ × 1 V = 1.60 × 10⁻¹⁹ J. To convert eV to J, multiply by 1.60 × 10⁻¹⁹. To convert J to eV, divide by it.
@@ -110,6 +116,17 @@ This provides evidence for the particulate nature of electromagnetic radiation.
 
 Each photoelectron is released by a single photon. One photon gives up all its energy to one surface electron, in a one-to-one interaction. An electron cannot save up energy from several photons. If one photon cannot supply enough energy, no electron escapes, however many photons arrive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--07-aphy-quantum-photoelectric.webp" width="900" height="1090" alt="Graph of maximum kinetic energy against frequency for two metals with work functions 2.3 eV and 3.2 eV: straight lines of equal gradient h, with threshold frequencies 5.55 and 7.72 times 10^14 Hz and vertical intercepts minus the work function. Two small graphs show that at fixed frequency, intensity changes photocurrent but not maximum kinetic energy." loading="lazy">
+  <figcaption>Frequency sets photoelectron energy and intensity sets how many are emitted.</figcaption>
+</figure>
+
+
 ## 4.5.2(c)-(d) Einstein's equation, work function and threshold frequency
 
 The work function φ is the minimum energy needed to remove an electron from the surface of a metal. The threshold frequency f₀ is the minimum frequency of radiation that causes emission, found when the photon energy equals the work function: hf₀ = φ.
@@ -139,6 +156,12 @@ Rearranging gives KEmax = hf − φ. A graph of KEmax against f is a straight li
 Gradient (first and last points) = (1.83 − 0.17) / (4.0 × 10¹⁴) = 4.15 × 10⁻¹⁵ eV s. Convert: h = 4.15 × 10⁻¹⁵ × 1.60 × 10⁻¹⁹ = 6.64 × 10⁻³⁴ J s.
 φ = hf − KEmax at the first point = 4.15 × 10⁻¹⁵ × 6.5 × 10¹⁴ − 0.17 = 2.53 eV.
 f₀ = φ/gradient = 2.53 / 4.15 × 10⁻¹⁵ = 6.1 × 10¹⁴ Hz.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
 
 ## 4.5.2(e)-(f) Intensity
 
@@ -178,6 +201,12 @@ This is comparable to atomic spacings, so diffraction is visible.
 **Worked example 9.** Find λ for a 0.057 kg ball moving at 40 m s⁻¹: λ = 6.63 × 10⁻³⁴ / (0.057 × 40) = 2.9 × 10⁻³⁴ m. This is far too small to show diffraction, so everyday objects show no wave behaviour.
 
 **Effect of the accelerating voltage.** Raising V raises p, so λ falls (p ∝ √V). Doubling V reduces λ by a factor of √2 (to 0.71 of the original). The rings shrink as the diffraction angles get smaller.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--09-aphy-quantum-de-broglie.webp" width="900" height="1190" alt="Electrons accelerated through a potential difference pass through graphite and form rings on a screen. Doubling V from 2.5 kV to 5 kV shortens lambda from 24.6 pm to 17.4 pm and shrinks the rings by 0.71. A log scale shows a 0.057 kg ball at 40 m/s with lambda about 3e-34 m, far smaller than an electron at 3.5 kV (2e-11 m)." loading="lazy">
+  <figcaption>Faster electrons have a shorter wavelength, and only atom-sized wavelengths diffract noticeably.</figcaption>
+</figure>
+
 
 ## Common errors
 

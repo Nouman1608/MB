@@ -108,6 +108,12 @@ finally esterification. A possible by-product to flag at step 5 is the
 hydroxyl group's 2,4-directing effect means both are produced together and
 must be separated, not that the reaction only makes the 4-isomer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
+
 ## Worked example: analysing a given route
 
 **Analyse the following route, stating the type of reaction and reagents

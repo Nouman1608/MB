@@ -59,6 +59,12 @@ A table of shares shows the structure. To compare shares, the table applies a GD
 
 Each year's shares sum to 100. The shift towards tertiary output is typical as incomes rise, but not automatic: an economy rich in minerals may keep a large primary share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## Growth, sustained growth, sustainable growth and recession
 
 **Economic growth** means an economy producing more over time, which is normally measured by how much real GDP changes in percentage terms. Actual output (what is produced now) and potential output (capacity) can each grow.
@@ -68,6 +74,17 @@ Each year's shares sum to 100. The shift towards tertiary output is typical as i
 **Sustainable development** is commonly defined as development that satisfies today's needs without reducing the ability of later generations to satisfy theirs.
 
 A **recession** is a period of falling real output. A widely used rule is two quarters in a row in which real GDP falls. This is a convention: a long, mild decline is still a problem if one quarter shows a small rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--10-sustained-vs-sustainable.webp" width="900" height="900" alt="Output rises 3 percent a year for 20 years to about 181 while the mineral deposit falls to zero: growth that is sustained but not sustainable." loading="lazy">
+  <figcaption>A mining boom can be sustained for twenty years yet not be sustainable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
 
 ## Real and nominal GDP
 
@@ -103,6 +120,32 @@ In Country D nominal GDP rises 4% while the price index rises 6%. Real growth = 
 
 Real GDP of 500 growing at 3% a year for five years: 500 x 1.03^5 = 579.64. Doubling at 3% takes ln 2 / ln 1.03 = about 23.4 years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--02-nominal-real-per-capita-growth.webp" width="900" height="1020" alt="Three bars show growth for Country A: nominal GDP 7.5%, real GDP 2.38% and real GDP per head 0.87%. Prices rose 5% and the population rose 1.5%, so each step removes part of the headline figure." loading="lazy">
+  <figcaption>Nominal growth of 7.5% shrinks to 2.38% in real terms and 0.87% per head.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--07-nominal-up-real-down.webp" width="900" height="1060" alt="Bars show nominal GDP up 4 percent to 104, prices up 6 percent to 106, so real GDP is 104 / 106 x 100 = 98.11, down 1.89 percent." loading="lazy">
+  <figcaption>Nominal GDP can rise while real GDP falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--08-compounding-doubling-time.webp" width="900" height="980" alt="A curve shows real GDP of 500 growing 3 percent a year: 579.64 after 5 years and 1,000 after about 23.4 years." loading="lazy">
+  <figcaption>At 3% a year, output doubles in about 23.4 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ## Why and how GDP is measured
 
 GDP is the value of all final goods and services an economy produces in a period. It can be measured in principle by output (value added in each sector), income (wages, profits, rent and interest) or expenditure (consumption, investment, government spending and net exports). The three should agree.
@@ -120,6 +163,17 @@ GDP is the value of all final goods and services an economy produces in a period
 - **Distribution.** Average output tells you nothing about who gains.
 
 **Evaluation:** GDP is useful for tracking change within one country using a consistent method. It is weaker as a measure of welfare or for comparing very different economies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--06-gdp-three-methods.webp" width="900" height="980" alt="Three equal-height bars each total 400. Output by sector is 280, 96 and 24 (from the lesson); income and expenditure splits are invented but sum to 400." loading="lazy">
+  <figcaption>Output, income and expenditure measure the same GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
 
 ## Causes of growth in the short and long run
 
@@ -146,6 +200,12 @@ Country B has potential output of 500 and actual output of 470, so 30 of capacit
 Short-run growth cannot be repeated once capacity is reached; long-run growth sets the speed limit.
 
 **Evaluation:** which cause dominates depends on spare capacity, time lags, and whether supply-side change targets the right bottleneck. Demand growth without supply growth risks inflation; supply-side policies are slow and uncertain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--01-actual-vs-potential-growth.webp" width="900" height="950" alt="Three bars compare actual with potential output. Actual output of 470 against potential 500 leaves 30 spare. Short-run growth lifts actual output to 490 (+4.26%), leaving 10 spare. Long-run growth lifts potential 2.4% to 512, so actual output can rise by up to 22." loading="lazy">
+  <figcaption>Short-run growth uses spare capacity; long-run growth raises capacity itself.</figcaption>
+</figure>
+
 
 ## Costs and benefits of growth
 
@@ -174,6 +234,12 @@ Real GDP index for Country C: quarter 1 = 100.0, quarter 2 = 99.2, quarter 3 = 9
 - Output in quarter 4 is still 1.1% below the peak.
 
 **Evaluation:** severity depends on depth, length, cause (a demand collapse differs from a supply shock), the starting point, and whether automatic stabilisers and policy respond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--09-recession-quarterly-index.webp" width="900" height="860" alt="Line chart of the real GDP index 100.0, 99.2, 98.5, 98.9. Two falls in a row meet the recession rule; peak to trough is minus 1.5 percent and Q4 is still 1.1 percent below the peak." loading="lazy">
+  <figcaption>Two consecutive falls, a 1.5% fall peak to trough, and a still-incomplete recovery.</figcaption>
+</figure>
+
 
 ## Growth, structural change and sustainable development
 

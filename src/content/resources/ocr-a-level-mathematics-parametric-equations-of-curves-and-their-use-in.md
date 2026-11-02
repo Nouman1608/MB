@@ -55,6 +55,12 @@ y :   -6   -4   -2    0    2    4    6
 
 The curve is a parabola lying on its side, with its vertex at (−4, 0) and passing through (0, ±4). It crosses the y-axis where x = 0, so t² = 4 and t = ±2, giving (0, −4) and (0, 4). It crosses the x-axis where y = 0, so t = 0, giving (−4, 0). Moving with t increasing, the point travels upward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--01-plot-from-table.webp" width="900" height="1102" alt="x = t^2 - 4, y = 2t for t = -3..3 gives a sideways parabola with vertex (-4,0); crossings (0,4) at t=2, (0,-4) at t=-2, (-4,0) at t=0; arrows show direction of increasing t." loading="lazy">
+  <figcaption>Each value of t gives one point, and increasing t gives the curve a direction.</figcaption>
+</figure>
+
+
 ## 2. Parametric to Cartesian: eliminating the parameter
 
 **Method A: substitute.** Make t the subject of the simpler equation and put it into the other.
@@ -114,6 +120,27 @@ y² = 9 sec²θ = 9(1 + tan²θ) = 9(1 + x²)
 
 On this range sec θ > 0, so y > 0. The curve is the upper branch only: **y = 3√(1 + x²)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--02-eliminate-and-gaps.webp" width="900" height="942" alt="x = 1/(t+1), y = t/(t+1) lies on y = 1 - x, but x is never 0 so (0,1) is missing (open circle)." loading="lazy">
+  <figcaption>Eliminating t gives a line, but the parameter rules out one point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--03-ellipse-trig-identity.webp" width="900" height="902" alt="x = 2 + 6cos(theta), y = -1 + 4sin(theta) is an ellipse centre (2,-1) between x = -4..8 and y = -5..3; the triangle at theta = pi/3 shows the 6cos and 4sin sides." loading="lazy">
+  <figcaption>cos and sin from each equation, then sin^2 + cos^2 = 1, give the ellipse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--04-range-restriction.webp" width="900" height="942" alt="x = sin(theta)+cos(theta), y = sin(2theta) is only the part of y = x^2 - 1 with |x| &lt;= root 2; end points (+-root 2, 1)." loading="lazy">
+  <figcaption>The Cartesian equation alone goes on forever; the parameter limits x to between -root 2 and root 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--05-sec-tan-branch.webp" width="900" height="1050" alt="x = tan(theta), y = 3sec(theta) for -pi/2 &lt; theta &lt; pi/2 gives y = 3 root(1+x^2): upper branch only; the lower branch of y^2 = 9(1+x^2) is not reached." loading="lazy">
+  <figcaption>Squaring introduces a second branch; sec theta &gt; 0 keeps only the upper one.</figcaption>
+</figure>
+
+
 ## 3. Cartesian to parametric
 
 There is always more than one correct answer. Choose a substitution that suits the curve.
@@ -137,6 +164,17 @@ Centre (3, −2), radius 5. So **x = 3 + 5cos θ, y = −2 + 5sin θ**, for 0 �
 ### Example 8: a line segment
 
 Give parametric equations for the segment from A(1, 2) to B(5, 10). Then x = 1 + 4t and y = 2 + 8t, with 0 ≤ t ≤ 1. At t = 0 you are at A, at t = 1/2 you are at the midpoint (3, 6), and at t = 1 you are at B.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--06-circle-to-parametric.webp" width="900" height="1102" alt="x^2+y^2-6x+4y-12=0 completes to (x-3)^2+(y+2)^2=25, centre (3,-2) radius 5, so x = 3+5cos(theta), y = -2+5sin(theta); (6,2) shown with 5cos = 3 and 5sin = 4." loading="lazy">
+  <figcaption>Complete the square to read off centre and radius, then use cos and sin for the parametric form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--07-line-segment.webp" width="900" height="1026" alt="A(1,2) to B(5,10): x = 1+4t, y = 2+8t, 0&lt;=t&lt;=1; t=0 is A, t=1/2 the midpoint (3,6), t=1 is B." loading="lazy">
+  <figcaption>The range 0 to 1 for t selects exactly the segment between the two points.</figcaption>
+</figure>
+
 
 ## 4. Sketching parametric curves
 
@@ -191,6 +229,22 @@ The specification gives related rates of change as an example of a realistic con
 ### Stating limitations
 
 After modelling a projectile or a wheel, you may be asked how realistic the model is. Useful, specific points are: air resistance is ignored, the ball is treated as a particle, the model holds only until the ball lands (0 ≤ t ≤ 3 above), and a wheel seat is assumed to move at constant speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--08-projectile-model.webp" width="900" height="892" alt="x = 24t, y = 15t - 5t^2: max height 11.25 m at t=1.5, lands at 72 m when t=3, above 10 m for 1&lt;=t&lt;=2, and 6.25 m high at the 60 m fence (7 m), so it does not clear it." loading="lazy">
+  <figcaption>Substituting times into both equations gives positions; the path is a parabola.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--09-wheel-model.webp" width="900" height="1184" alt="x = 14sin(pi t/15), y = 16 - 14cos(pi t/15) is a circle centre (0,16) radius 14, lowest 2 m, highest 30 m, period 30 s; above 25 m for 10.83 &lt; t &lt; 19.17, about 8.33 s per turn." loading="lazy">
+  <figcaption>The seat moves round a circle, and the heights above 25 m form one arc.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--10-meet-or-cross.webp" width="900" height="1152" alt="P (2t,t^2) and Q (10-2s,4s-8) have paths crossing at (4,4); P is there at t=2 but Q at s=3, so they do not meet." loading="lazy">
+  <figcaption>Paths cross where the Cartesian equations meet; objects meet only if the times match.</figcaption>
+</figure>
+
 
 ## Common errors
 

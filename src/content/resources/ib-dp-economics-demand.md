@@ -70,6 +70,17 @@ Worked example (illustrative). Dara values successive pizza slices at lunch at 9
 
 A lower price makes each extra slice worth buying, so more is demanded when the price is lower. That is the law of demand, produced by diminishing marginal utility.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--03-ib-dem-diminishing-mu.webp" width="900" height="900" alt="Bars of falling value for each extra pizza slice (9, 7, 5, 3, 1 om) with price lines at 8, 6, 4, 2 om. The number of bars reaching each line gives quantity demanded 1, 2, 3, 4." loading="lazy">
+  <figcaption>Because each extra slice is worth less, only a lower price makes more slices worth buying.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--06-un193-income-effect.webp" width="900" height="600" alt="With 60 om a week Mira affords 15 trips at a fare of 4 om and 20 trips at 3 om, 5 more, a 33.3% rise in purchasing power." loading="lazy">
+  <figcaption>A fare cut raises the trips a fixed income can buy by 33.3%.</figcaption>
+</figure>
+
+
 ## The demand curve
 
 A **demand curve** plots price up the side and quantity demanded along the bottom. In the guide it is drawn as a downward-sloping line. Label the axes (price, quantity per period), label the curve D, and show the units.
@@ -85,6 +96,17 @@ Price
 ```
 
 A straight line is a convenient simplification. The key feature is the downward slope, which shows the law of demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--02-ib-dem-shift-vs-movement.webp" width="900" height="960" alt="Two parallel demand lines D1 (Qd = 70 - 5P) and D2 (Qd = 85 - 5P). A price fall from 6 to 5 slides along D1 from 40 to 45. A tastes change shifts the curve so that at price 6 the quantity is 55 instead of 40." loading="lazy">
+  <figcaption>A price change slides along the curve; any other cause moves the whole curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
 
 ## Individual and market demand
 
@@ -103,6 +125,12 @@ Check at a price of 4 om: 4 + 4 + 2 = 10. At a price of 6 om, Cato will not buy 
 
 Notice what happens when a consumer drops out. Cato stops buying somewhere between 4 om and 6 om. Above that price the market curve is made of Aiko and Bram alone, so its slope changes. The market curve can have a kink where a consumer leaves the market, and a new consumer entering the market adds quantity at every price they are willing to pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--01-ib-dem-market-demand.webp" width="900" height="930" alt="Demand lines for three consumers and the market line formed by adding their quantities at each price. At 4 om the market quantity is 4 + 4 + 2 = 10 flasks. The market line kinks at 6 om where Cato drops out." loading="lazy">
+  <figcaption>Market demand adds quantities at each price; a consumer leaving the market bends the line.</figcaption>
+</figure>
+
+
 ## Non-price determinants of demand
 
 The guide lists five. Each one changes demand at every price, so each one shifts the whole curve.
@@ -112,6 +140,17 @@ The guide lists five. Each one changes demand at every price, so each one shifts
 - **Future price expectations.** If consumers expect the price to rise next month, they buy more now, so current demand shifts right. If they expect it to fall, they wait, and current demand shifts left.
 - **Prices of related goods.** *Substitutes* can replace each other: if a substitute becomes dearer, buyers move towards this good and its demand curve moves right. *Complements* are consumed together: if one becomes dearer, buyers want less of the other, and its curve moves left.
 - **Number of consumers.** More buyers in the market shift market demand right. Fewer shift it left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--07-un193-related-goods-shifts.webp" width="900" height="800" alt="If a substitute becomes dearer, demand for this good shifts right from D1 to D2. If a complement becomes dearer, it shifts left to D3. At price 6 quantity moves from 40 to 55 or to 25." loading="lazy">
+  <figcaption>Dearer substitutes shift demand right; dearer complements shift it left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
 
 ## Movements along and shifts of the demand curve
 

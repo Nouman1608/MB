@@ -60,12 +60,29 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 4. Link variation to environmental pressure: disease, predators, competition, climate change.
 5. Give the balancing point: what the other method does better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--08-clones-vs-variation.webp" width="900" height="790" alt="Left, 25 identical clones are all infected by a new disease. Right, 25 varied plants: only one variant (5 of 25) is infected, so 20 survive. The survivor numbers are illustrative." loading="lazy">
+  <figcaption>Clones all share a weakness, but a varied population keeps survivors.</figcaption>
+</figure>
+
+
 ### Linking points to environmental pressures
 
 - Identical individuals have identical weaknesses.
 - Variation means some individuals are likely to survive a new pressure.
 - Variation is what natural selection acts on.
 - A well-adapted organism in a stable habitat can keep its successful features by cloning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--04-bacteria-vs-birth.webp" width="900" height="880" alt="One bacterium dividing every 30 minutes gives 1, 2, 4 up to 256 cells in 4 hours. A human usually has one baby per birth and a mouse a litter of several young." loading="lazy">
+  <figcaption>Asexual reproduction can give hundreds of offspring in hours; humans usually have one per birth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
 
 ## B5.1g Haploid and diploid
 
@@ -88,6 +105,17 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 3. To go from 2n to n, halve it. To go from n to 2n, double it.
 4. Check the answer. Is a diploid number even? Is the gamete exactly half?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--07-haploid-diploid-numbers.webp" width="900" height="1010" alt="Chromosomes drawn as rods in pairs for fruit fly (2n = 8), pea (2n = 14) and human (2n = 46), with gametes showing one of each pair (n = 4, 7, 23). Fertilisation restores the diploid number." loading="lazy">
+  <figcaption>Gametes are haploid with one of each pair; fertilisation restores 2n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+
 ## B5.1h Meiosis
 
 ### Why it matters
@@ -95,6 +123,12 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 - Gametes must be haploid so that fertilisation restores the diploid number.
 - Without it the number would double every generation (human: 46, then 92, then 184).
 - It is a source of genetic variation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
 
 ### Steps
 
@@ -119,6 +153,22 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 - Each pair separates independently of the others.
 - Which chromosome of a pair ends up in a gamete is random.
 - Any sperm can fuse with any egg, adding more variation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--05-meiosis-steps.webp" width="900" height="1010" alt="A cell with two pairs of chromosomes copies its DNA, separates the pairs in the first division and the copies in the second, giving four haploid cells." loading="lazy">
+  <figcaption>Meiosis: DNA copied, pairs separate, then copies separate to give four haploid cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid--06-independent-assortment.webp" width="900" height="990" alt="Two pairs of chromosomes give four equally likely gamete types. Each extra pair doubles the choices: 2, 4, 8 and 8 388 608 for 23 pairs. Fertilisation gives about 7.04 x 10^13 zygotes." loading="lazy">
+  <figcaption>Each pair separates independently, so 23 pairs give 2^23 = 8 388 608 gamete types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -40,6 +40,12 @@ For full explanations and worked examples, read the [study guide](/resources/ede
 | FDI | Foreign direct investment: a firm from one country setting up or buying operations in another |
 | Regulatory capture | The regulator comes to act in the interests of the industry it regulates |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--04-monopsony-minimum-price.webp" width="900" height="1150" alt="A single buyer sets MC of buying equal to MRP at 60 units and pays 16; competition gives 90 units at 22; a minimum price of 18 raises quantity to 70." loading="lazy">
+  <figcaption>A minimum buying price can lift both price and quantity above the monopsony outcome.</figcaption>
+</figure>
+
+
 ## The measures in one table (1b to 1d)
 
 | Group | Measure | How it works | Main weakness |
@@ -60,6 +66,12 @@ For full explanations and worked examples, read the [study guide](/resources/ede
 | | Entry barriers for foreign firms | Quotas, licences | Less choice, higher prices |
 | | Monopsony limits | Minimum buying price or code | Needs enforcement |
 | | Nationalisation | State ownership | Cost and weak incentives |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--10-regulator-profit-performance.webp" width="900" height="760" alt="Profit capped at an 8% return on 5,000 of capital allows 400, so 200 of a 600 profit is excess. A target of under 5% late deliveries on revenue of 10,000 pays +200 at 3% late and costs -300 at 8% late." loading="lazy">
+  <figcaption>Regulators can limit the rate of return and reward or penalise performance against targets.</figcaption>
+</figure>
+
 
 ## Method in steps: evaluate a measure
 
@@ -83,6 +95,17 @@ For full explanations and worked examples, read the [study guide](/resources/ede
 **Monopsony.** Supply P = 4 + 0.2Q, marginal revenue product 40 - 0.2Q. Competition: 90 units at 22. Monopsony: 60 units at 16. A floor at 18 gives 70 units.
 
 **Contestability.** Payback = sunk cost / annual profit. A grant cuts sunk cost and shortens payback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--02-price-cap-at-average-cost.webp" width="900" height="920" alt="A cap where demand meets average cost gives 80 units at price 20 and zero profit; the welfare loss shrinks to 50 cu, whereas a cap at MC would cost Firm M its 800 cu fixed costs." loading="lazy">
+  <figcaption>Capping price at average cost nearly closes the welfare loss while letting the firm break even.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--03-merger-with-cost-savings.webp" width="900" height="1100" alt="Competitive output 60 at price 40 becomes 35 at price 65 after the merger lowers MC to 30. Consumer surplus falls from 1,800 to 612.5, profit is 1,225 and total surplus edges up to 1,837.5." loading="lazy">
+  <figcaption>A merger can raise total surplus slightly while consumers lose heavily.</figcaption>
+</figure>
+
 
 ## Impacts (1e) in one table
 
@@ -125,6 +148,17 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 | Inadequate resources | Low detection, expected fine below gain, rule-breaking pays |
 | Lack of regulatory power | Cannot compel data or fine, firm ignores the regulator |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--01-firm-m-monopoly.webp" width="900" height="970" alt="Firm M: MR = MC at 45 units gives price 55 and profit 1,225; efficient output is 90 units; the gold triangle is the 1,012.5 cu welfare loss." loading="lazy">
+  <figcaption>The monopolist restricts output to 45 units, leaving a welfare loss of 1,012.5 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--14-limits-to-intervention.webp" width="900" height="740" alt="If Firm M reports fixed costs of 1,064 not 800, the average-cost cap is 24 against true cost 20.5, an extra profit of 264 equal to the overstated cost. A cartel gaining 350 is not deterred by a 200 fine at 40% detection (expected 80); the fine must exceed 875." loading="lazy">
+  <figcaption>Weak information and weak enforcement let firms keep gains the regulator meant to remove.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Define a contestable market and name one measure that makes a market more contestable.
@@ -154,6 +188,17 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 10. Interest saved = 6% x 500 = 30 cu. The state loses 20 of income, so it is 10 cu a year better off, before any efficiency change.
 11. Local sourcing rules and barriers to the entry of foreign firms (also quotas).
 12. The regulator relies on the firm's data and staff links, so it sets the cap too high. The firm keeps excess profit and has little pressure to cut costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--11-return-vs-interest.webp" width="900" height="740" alt="A firm sold for 900 gave the state 60 a year; interest saved at 5% is 45, so the state is 15 a year worse off. Nationalising for 120 million earns 6 million, which beats borrowing at 4% (4.8m) but not at 6% (7.2m)." loading="lazy">
+  <figcaption>Whether the state gains depends on whether the earnings beat the interest cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--13-infant-industry-cost.webp" width="900" height="870" alt="A home firm with cost 70 falling 8% a year is plotted against a rival at 50. Cost is 50.1 after 4 years and 46.1 after 5, so about 5 years of protection are needed." loading="lazy">
+  <figcaption>Infant-industry protection must last until costs fall to the rival level.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

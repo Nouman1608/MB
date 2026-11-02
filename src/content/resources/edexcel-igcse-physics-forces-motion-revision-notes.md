@@ -45,6 +45,32 @@ Confusing gradient with area on a velocity–time graph is the commonest error i
 
 **Scalars** have magnitude only (distance, speed, mass); **vectors** have magnitude and direction (displacement, velocity, force, momentum). Distance and displacement are easily confused: distance is the total path length travelled, while displacement is the straight-line distance from start to finish, in a stated direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--05-suvat-worked.webp" width="900" height="890" alt="Velocity-time graph of a car from 5.0 to 15 m/s. Gradient 2.5 m/s2, time 4 s, area 40 m. Agrees with v^2 = u^2 + 2as giving a = 2.5." loading="lazy">
+  <figcaption>The lesson example solved by equation and checked on a v-t graph (area = 40 m).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-forces-and-their-effects--04-scalar-vector.webp" width="900" height="960" alt="A walk of 6 m east then 2 m west on a number line from 0 to 8 m. The distance travelled is 6 plus 2, 8 m, a scalar with no direction. The displacement is an arrow from the start to the end point, 4 m east, a vector. Below, scalars are mass, speed, distance and energy; vectors, drawn with arrows, are force, velocity, displacement and acceleration." loading="lazy">
+  <figcaption>Distance versus displacement for a 6 m east, 2 m west walk, with scalar and vector examples from the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
+
 ## Forces
 
 **Newton's first law** — an object stays at rest or moves at constant velocity unless a **resultant** force acts.
@@ -64,6 +90,37 @@ Note that at terminal velocity the object is still moving — it just stops spee
 
 **Opening a parachute:** air resistance **increases suddenly**, becoming greater than weight, so there is a **resultant upward force and the skydiver decelerates**. As she slows, air resistance falls until it again equals weight, giving a **new, lower** terminal velocity — not zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-motion-revision-notes--01-parachute-opens.webp" width="900" height="1110" alt="A speed-time graph shows a skydiver reaching terminal velocity of 50 m/s, then a parachute opening at 20 s. Speed drops sharply to a new, lower terminal velocity of 10 m/s, not zero. Force diagrams for four points show drag less than, equal to, greater than (three times) and again equal to weight." loading="lazy">
+  <figcaption>Opening the parachute makes drag greater than weight, so she slows until drag equals weight again at a lower speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--01-first-law-balanced-forces.webp" width="900" height="1060" alt="A car at a steady 20 m/s has equal and opposite driving and resistive forces, so the resultant is zero. A bus drawn twice shows the passenger keeping the old velocity when the bus brakes, until a seat belt pushes. The passenger leans forward because nothing slows them." loading="lazy">
+  <figcaption>Zero resultant force means constant velocity; a braking bus does not slow an unrestrained passenger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--03-friction-resultant.webp" width="900" height="1218" alt="A 4.0 kg block. Weight and normal force (39.2 N) cancel. With push 30 N and friction 30 N the resultant is 0 N; push 50 N gives 20 N and a = 5.0 m/s2; with no push, friction 30 N gives a deceleration of 7.5 m/s2." loading="lazy">
+  <figcaption>Friction acts against the motion, so the resultant is push minus friction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--04-terminal-velocity.webp" width="900" height="880" alt="A speed-time graph rises then levels at 50 m/s. Free-body diagrams at A, B and C show weight 800 N with drag 0, about 290 N and about 800 N, so the resultant falls from 800 N to about zero." loading="lazy">
+  <figcaption>As speed rises drag grows until it equals the weight; resultant force is zero and speed stays constant.</figcaption>
+</figure>
+
+
 ## Momentum
 
 ```
@@ -75,6 +132,12 @@ p = m v          F = (mv - mu) / t
 **Safety features** — crumple zones, airbags, seatbelts — all work the same way: they **increase the time** over which momentum changes, and since force is the rate of change of momentum, the force on the passenger is reduced.
 
 **Worked example.** A car of mass 1200 kg decelerates from 25 m s⁻¹ to 15 m s⁻¹ in 5.0 s. Change in momentum = mΔv = 1200 × 10 = 12,000 kg m s⁻¹. Force = Δp/Δt = 12,000 ÷ 5.0 = **2400 N**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-motion-revision-notes--02-momentum-change-force.webp" width="900" height="960" alt="A 1200 kg car slows from 25 m/s to 15 m/s in 5.0 s. Momentum bars show 30 000 and 18 000 kg m/s, a loss of 12 000. Dividing by 5.0 s gives a force of 2400 N acting against the motion." loading="lazy">
+  <figcaption>Force = change in momentum / time: 12 000 / 5.0 = 2400 N.</figcaption>
+</figure>
+
 
 ## Stopping distance
 

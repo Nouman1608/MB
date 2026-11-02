@@ -60,6 +60,12 @@ A stakeholder is anyone, or any group, affected by or concerned with a business'
 
 Describing a pressure group in this way is standard knowledge, not specification wording. Pressure groups are not owners, staff or customers. They choose a cause and try to influence the business, often by drawing public attention to it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--01-eight-stakeholders.webp" width="900" height="745" alt="Eight cards, one per stakeholder group, each with a short statement of what that group typically wants: shareholders a return, employees pay and security, customers quality at a fair price, managers salary and growth, suppliers orders paid on time, the community quiet and local jobs, pressure groups a change in behaviour, the government tax, jobs and law obeyed." loading="lazy">
+  <figcaption>The eight groups the specification names, and what each typically wants.</figcaption>
+</figure>
+
+
 ## 2. How stakeholders are affected by business activity
 
 The specification asks you to explain how stakeholders are affected by what a business does. Link a decision to a group and say what changes for them.
@@ -92,6 +98,12 @@ Brindle & Moor Joinery Ltd makes made-to-measure windows. It proposes to move to
 3. Affected groups: shareholders (more profit), employees (more hours and pay but later shifts), the local community (noise and lorries), suppliers (larger orders) and the government (more tax).
 4. Impact on the business: residents might object, which could delay the move or add conditions, while a supplier that cannot meet the larger orders could limit output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--02-brindle-move.webp" width="900" height="840" alt="Profit bars rise from £84,000 to £96,600 (+£12,600, 15 per cent). Payroll bars rise from £210,000 to £216,300 after a 3 per cent rise of £6,300." loading="lazy">
+  <figcaption>Brindle &amp; Moor: profit up 15%, payroll up £6,300.</figcaption>
+</figure>
+
+
 ## 4. Possible conflicts between stakeholder groups
 
 A conflict arises when the objectives of two groups cannot both be met in full. One group's gain is often another's loss.
@@ -106,6 +118,12 @@ A conflict arises when the objectives of two groups cannot both be met in full. 
 | Suppliers and the business | The supplier wants a high price; the business wants low costs |
 
 For Brindle & Moor, the late shift raises profit for shareholders but may anger neighbours. Good answers say how a business might settle a conflict, such as a trial period, noise limits or a staff bonus that is paid for out of the extra profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
 
 ## 5. Types of technology used by business (1.5.2)
 
@@ -144,6 +162,12 @@ The marketing mix is product, price, promotion and place.
 | Promotion | Social media, email and online adverts can target groups cheaply |
 | Place | E-commerce makes the website a place to buy, alongside or instead of a shop |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ### Worked example: opening an online store
 
 Pennine Plant Nursery sells 2,500 items a month in its shop at an average of £8. It opens an online store that takes 600 orders a month at an average of £18.
@@ -155,6 +179,22 @@ Pennine Plant Nursery sells 2,500 items a month in its shop at an average of £8
 5. Extra profit = £10,800 − £8,560 = £2,240.
 
 The result is positive but modest. The online store raises sales, while the added costs take most of the gain. A strong answer says so rather than praising technology without limit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--03-pennine-revenue.webp" width="900" height="880" alt="Shop revenue of £20,000 (2,500 x £8) plus online revenue of £10,800 (600 x £18) gives £30,800, up 54 per cent." loading="lazy">
+  <figcaption>Online orders raise sales revenue by 54%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--04-pennine-costs.webp" width="900" height="925" alt="Online sales of £10,800 less extra costs of £8,560 (stock £5,940, fees £270, postage £2,040, hosting £60, adverts £250) leaves £2,240 extra profit." loading="lazy">
+  <figcaption>Extra costs take most of the online gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-stakeholders-and-technology--05-tech-marketing-mix.webp" width="900" height="685" alt="One effect of technology on each of the four Ps: product, price, promotion, place." loading="lazy">
+  <figcaption>How technology touches each P of the marketing mix.</figcaption>
+</figure>
+
 
 ## Common errors
 

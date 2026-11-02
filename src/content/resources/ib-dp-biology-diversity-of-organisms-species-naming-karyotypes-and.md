@@ -56,6 +56,12 @@ Rules: the genus starts with a capital letter; the species name is all lower cas
 
 *Worked example.* Correct: *Panthera leo* (lion) and *Panthera tigris* (tiger). They share a genus, so they share many traits. Incorrect versions: *panthera Leo* (capitals wrong), *Panthera Tigris* (species capitalised), *tigris* (species name alone).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--01-binomial-names.webp" width="900" height="1010" alt="Cards show Panthera leo and Panthera tigris with the genus capitalised and the species all lower case, in italics. Three crossed-out versions (panthera Leo, Panthera Tigris, tigris) show the common errors. Printed names are italic and handwritten names are underlined." loading="lazy">
+  <figcaption>Genus capital, species lower case, never the species alone.</figcaption>
+</figure>
+
+
 ## The biological species concept (A3.1.4 to A3.1.5)
 
 The **biological species concept** defines a species as a group of organisms that can breed together and produce fertile offspring. "Fertile" matters: a horse and a donkey can breed, but their offspring cannot normally reproduce, so they are separate species.
@@ -69,6 +75,17 @@ Challenges:
 Other definitions exist, such as the morphological concept above, and concepts based on ecological role or on shared ancestry and DNA sequence. None is perfect, so the choice depends on the organisms.
 
 **Speciation** is the process by which one species divides into two or several. It is usually gradual. Two populations stop exchanging genes, then accumulate different traits over many generations. At an intermediate stage they may differ somewhat, interbreed only partly, or be untestable. Whether they count as one species or two is then an arbitrary decision. That is a feature of how species form, not a mistake in the definition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--02-biological-species-mule.webp" width="900" height="1260" alt="A horse and a donkey can breed but their offspring, a mule, is sterile, so they are separate species. HL only: horse gametes carry 32 chromosomes and donkey gametes 31, so the mule has 63, which makes 31 pairs and one chromosome with no partner." loading="lazy">
+  <figcaption>Species breed and produce fertile offspring; an odd chromosome number blocks meiosis in the mule (HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--03-speciation-blurred-boundary.webp" width="900" height="1080" alt="Three stages show one population gradually splitting. At first all individuals mix. Then two groups with different traits interbreed only partly, so calling them one species or two is arbitrary. Finally gene flow stops and they are two species." loading="lazy">
+  <figcaption>Speciation is gradual, so the species boundary is an arbitrary decision at the intermediate stage.</figcaption>
+</figure>
+
 
 ## Chromosome numbers and karyograms (A3.1.6 to A3.1.7)
 
@@ -96,6 +113,17 @@ Great apes have 24 pairs of chromosomes; humans have 23. The hypothesis is that 
 
 **Nature of science.** A **testable hypothesis** makes predictions that evidence could contradict. The fusion hypothesis predicted telomere sequences in the middle of chromosome 2; had they been absent, the idea would have been weakened. A **non-testable statement**, such as "the fusion happened so that humans would become intelligent", predicts nothing that data could refute, so it is not scientific.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--04-karyogram.webp" width="900" height="1010" alt="A schematic karyogram shows five pairs from longest to shortest and the XY pair last. One pair has three copies, showing an extra chromosome. Three panels show matching by length, centromere position and banding pattern." loading="lazy">
+  <figcaption>Pairs are matched by length, centromere position and banding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--05-chromosome-2-fusion.webp" width="900" height="780" alt="Two ape chromosomes, 12 and 13, are shown fusing end to end into human chromosome 2. Telomere repeats lie in the middle, there is an active centromere and a second inactive remnant, and the bands match ape 12 followed by ape 13. 24 pairs minus one fusion gives 23 pairs, so 2n = 46." loading="lazy">
+  <figcaption>Chromosome 2 looks like two ape chromosomes joined end to end.</figcaption>
+</figure>
+
+
 ## Genomes within and between species (A3.1.8 to A3.1.10)
 
 A **genome** is all the genetic information of an organism. Members of a species share most of their genome, which is the unity. Diversity comes from differences such as **single-nucleotide polymorphisms (SNPs)**, where individuals have different bases at one position.
@@ -114,6 +142,17 @@ For A3.1.10 you must extract genome sizes from a database and relate them to com
 | Flowering plant *Paris japonica* | 149 000 |
 
 Human genome ÷ fruit fly genome = 3100 ÷ 140 = **22.1**. *Paris japonica* ÷ human = 149 000 ÷ 3100 = **48.1**. The plant has about 48 times as much DNA as a human, yet nobody would call it 48 times more complex. Genome size therefore does not track complexity closely. Much DNA does not code for proteins, and the amount of repeated sequence varies widely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--06-snps-unity-diversity.webp" width="900" height="875" alt="A bar for the 3.1 billion bases of the human genome is enlarged to 20 bases of two people. The sequences match except at one SNP where one has C and the other T. About 1 base in 1000 differs, 3.1 million differences, so 99.9% of the genome is shared." loading="lazy">
+  <figcaption>Most of a species’ genome is shared; SNPs are the small differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--07-genome-size-complexity.webp" width="900" height="1155" alt="A log-scale bar chart of genome size: yeast 12 Mb, fruit fly 140 Mb, human 3100 Mb and Paris japonica 149 000 Mb. The plant has 48.1 times the DNA of a human, yet is not 48 times more complex, so genome size does not track complexity." loading="lazy">
+  <figcaption>Genome size does not track complexity.</figcaption>
+</figure>
+
 
 ## Whole genome sequencing (A3.1.11)
 
@@ -150,8 +189,20 @@ A **dichotomous key** is a series of numbered pairs of contrasting statements, e
 
 Five species give four pairs, as expected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--08-dichotomous-key.webp" width="900" height="1100" alt="A chain of four yes-or-no questions separates five leaves. A needle is pine; leaflets mean ash; a spiny margin means holly; deep lobes mean oak; otherwise a smooth or gently waved margin means beech. Five species need four pairs." loading="lazy">
+  <figcaption>Each step splits the set in two, so n species need n - 1 pairs (HL only).</figcaption>
+</figure>
+
+
 ### A3.1.15 Barcodes and environmental DNA (HL only)
 A **DNA barcode** is a short, standard stretch of DNA that varies between species but is similar within one. **Environmental DNA (eDNA)** is DNA shed into water, soil or air in skin, mucus and faeces. A sample is taken, DNA is extracted and copied by PCR, the barcode regions are sequenced and each sequence is matched to a reference database. This allows the biodiversity of a habitat to be assessed rapidly without catching every organism. A limitation: a species missing from the database cannot be named.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--09-barcodes-edna.webp" width="900" height="1215" alt="Five steps: collect a water sample containing shed DNA, extract the DNA, copy barcode regions by PCR, sequence them, and match each sequence to a database. A sequence not in the database cannot be named." loading="lazy">
+  <figcaption>eDNA lets a habitat be surveyed without catching every organism, but only known species can be named (HL only).</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -52,6 +52,12 @@ The specification names both terms but does not give a wording for them, so the 
 
 For example, a start-up cleaning firm might have the aim of becoming the best-known cleaner in its town. An objective that supports it could be signing 40 regular customers within the first twelve months. When a question asks you to identify an objective, look for a measurable target. When it asks for an aim, look for the broad direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-aim-or-objective.webp" width="900" height="990" alt="A staircase rises to a flag labelled aim. The aim is the long-term goal of being the best-known bakery in town; an objective is a specific target on the way, such as 500 regular customers in a year." loading="lazy">
+  <figcaption>An aim is the direction; an objective is a specific target on the way.</figcaption>
+</figure>
+
+
 ## Part 2: financial aims and objectives (1.3.1)
 
 The specification lists five that apply when starting up.
@@ -89,6 +95,12 @@ Two businesses in the same street can want different things. The specification a
 
 Aims also change over time. A business that has survived two years may then set a sales or market share objective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+
 ## Part 5: revenue, costs, profit and interest (1.3.2)
 
 These formulae are in Appendix 3 of the specification.
@@ -115,6 +127,17 @@ In a weak month with 200 sales: revenue is £2,400 and TVC is £900, so TC is £
 
 Interest is the cost of borrowing. It is an extra cost the business must plan for, and it lowers profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--01-wren-profit-or-loss.webp" width="900" height="990" alt="Two pairs of bars on one scale. At 500 candles revenue is £6,000 and total costs £4,350 (£2,100 fixed plus £2,250 variable), so profit is £1,650. At 200 candles revenue is £2,400 and total costs £3,000 (£2,100 plus £900), so there is a loss of £600. Fixed costs are the same in both months." loading="lazy">
+  <figcaption>The same fixed costs turn a good month into a profit and a weak month into a loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--05-wren-loan-interest.webp" width="900" height="840" alt="A bar of £9,200 repaid splits into £8,000 borrowed and £1,200 interest. £9,200 minus £8,000 is £1,200, and £1,200 divided by £8,000 times 100 is 15%. Interest is an extra cost that lowers profit." loading="lazy">
+  <figcaption>Interest is the extra repaid on top of the amount borrowed, shown as a percentage of the loan.</figcaption>
+</figure>
+
+
 ## Part 6: break even and margin of safety (1.3.2)
 
 Break even happens at the output where money coming in matches total costs, so the business makes no profit and no loss. Appendix 3 gives:
@@ -134,6 +157,12 @@ The bottom line (sales price − variable cost) is the amount each unit contribu
 The margin of safety shows how far sales could fall before the business starts to make a loss. A large margin means a cushion. As a standard extra, some questions show it as a percentage of sales: 220 ÷ 500 × 100 = 44%.
 
 If the break-even figure is not a whole number, remember that candles cannot be part-sold. It is sensible to round up and say so, because rounding down would leave the business at a small loss. This is advice on method, not wording from the specification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--04-wren-contribution-blocks.webp" width="900" height="990" alt="A £12 candle splits into £4.50 variable cost and £7.50 contribution. A grid of 50 blocks stands for 500 candles at £75 of contribution per block of ten. The first 28 blocks (280 candles, £2,100) cover fixed costs, which is break-even. The last 22 blocks (220 candles, £1,650) are profit." loading="lazy">
+  <figcaption>Break-even is the number of £7.50 contributions needed to cover £2,100 of fixed costs.</figcaption>
+</figure>
+
 
 ## Part 7: break even diagrams (1.3.2)
 
@@ -172,6 +201,17 @@ Each change moves a line. Test the effect with the formula.
 | Variable cost rises to £5.50 | Total costs line is steeper | £2,100 ÷ £6.50 = 323.08, so 324 candles |
 
 A price rise lowers break even output and widens the margin of safety, if customers keep buying. Higher costs of either type raise break even output and shrink the margin of safety. In an analysis answer, say what happens to the lines, then what this means for the owner. A price rise helps only if customers still buy enough, so mention that risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--02-wren-break-even-chart.webp" width="900" height="860" alt="Revenue rises from the origin to £6,000 at 500 candles; total costs start at £2,100 and reach £4,350; fixed costs are a flat line at £2,100. The lines cross at 280 candles and £3,360. Loss lies left of the crossing, profit to the right (£1,650 at 500), and the margin of safety is the 220 candles from 280 to 500." loading="lazy">
+  <figcaption>A break-even chart for Wren Street Candles showing break-even, loss, profit and margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--03-wren-break-even-moves.webp" width="900" height="1040" alt="Three number lines compare the old break-even output of 280 candles with the new one. A price of £13 gives 248, fixed costs of £2,500 give 334 and a variable cost of £5.50 gives 324, each rounded up from 247.06, 333.33 and 323.08. A higher price lowers break-even; higher costs raise it." loading="lazy">
+  <figcaption>Each change in price or cost moves the break-even output, down for a price rise and up for a cost rise.</figcaption>
+</figure>
+
 
 ## Common errors
 

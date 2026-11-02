@@ -59,6 +59,17 @@ Every ion in the table has a noble gas arrangement: [2,8] is neon's and [2,8,8] 
 3. Charge = protons − electrons.
 4. Draw the new shells (or write the arrangement) inside square brackets with the charge at the top right. The specification draws Na⁺ as a shell diagram with 2 and 8 electrons in brackets, charge +; written out, that is [2,8]⁺.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--03-ion-charge-group.webp" width="900" height="950" alt="Dot plot of ion charge against group number: Groups 1 to 3 give 1+ to 3+ (Na+, Mg2+, Al3+), Groups 5 to 7 give 3- to 1- (N3-, O2-, Cl-), Groups 4 and 0 form no simple ions. Metals: charge = group number; non-metals: group number minus 8." loading="lazy">
+  <figcaption>The charge on a simple ion follows from the group number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--01-ion-charge-group.webp" width="900" height="1020" alt="Table of Groups 1, 2, 3, 5, 6, 7 giving electrons lost or gained and the ion charge, with shell diagrams of Li atom (2,1) to Li+ [2] and S atom (2,8,6) to S2- [2,8,8]. " loading="lazy">
+  <figcaption>Metal charge equals group number; non-metal charge is group minus 8; Li and S show the electron arrangements.</figcaption>
+</figure>
+
+
 ## Ionic structures (f)
 
 - An ionic compound is a **giant structure of ions**, not molecules.
@@ -81,6 +92,32 @@ Ba (Group 2): loses 2 dots   -> [Ba]2+
 O  (Group 6): gains 2 dots   -> [O: 6 x + 2 •]2-
 +2 and -2 balance with one of each  ->  BaO
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--05-nacl-six-neighbours.webp" width="900" height="800" alt="Two oblique 3D drawings: a sodium ion bonded to six chloride ions along three axes, and a chloride ion surrounded by six sodium ions. Each neighbour has the opposite charge and the pattern repeats, giving equal numbers of each ion, NaCl." loading="lazy">
+  <figcaption>Each Na+ has six Cl- neighbours and each Cl- has six Na+ neighbours in the 3D lattice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--02-li2s-formation.webp" width="900" height="920" alt="Dot and cross diagram: two Li atoms each give one electron to S. After transfer there are two [Li]+ and one [S]2- with eight outer electrons. 2 x (+1) + (-2) = 0 gives Li2S. " loading="lazy">
+  <figcaption>Two lithium atoms give one electron each to sulfur, forming Li2S.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--04-nacl-six-neighbours.webp" width="900" height="640" alt="3D sketches of one Na+ with six Cl- and one Cl- with six Na+ neighbours. " loading="lazy">
+  <figcaption>Each ion in NaCl has six oppositely charged neighbours in three dimensions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
 
 ## Covalent structures (g, h)
 
@@ -116,6 +153,27 @@ You also need to recognise the other two forms the specification shows: the dot 
 - **Giant covalent**: bonds link every atom to its neighbours, and the network runs off the edges of the diagram.
 - Diamond: each carbon bonded to four other carbons.
 - Silicon dioxide: each silicon bonded to four oxygens, each oxygen to two silicons, giving the 1:2 ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--04-dot-cross-h2-o2-nh3.webp" width="900" height="1250" alt="Hydrogen, oxygen and ammonia drawn as overlapping shells with dots and crosses, and as displayed formulae: H2 has one shared pair; O2 has two shared pairs (a double bond) and two non-bonding pairs on each oxygen; NH3 has three shared pairs and one non-bonding pair on nitrogen." loading="lazy">
+  <figcaption>Dot and cross and displayed formulae for H2, O2 and NH3, which the specification names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--03-pairs-count.webp" width="900" height="1060" alt="Displayed formulae of H2, O2, NH3, PBr3 and O=C=S with non-bonding pairs as dot pairs and counts of shared and non-bonding pairs, plus the electron-count check. " loading="lazy">
+  <figcaption>Count shared and non-bonding pairs; outer electrons equal 2 x (shared + non-bonding).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic--05-simple-vs-giant.webp" width="900" height="960" alt="Diagram A has separate pairs of atoms with gaps between them (simple molecular); diagram B is a grid whose bonds run off every edge (giant covalent). " loading="lazy">
+  <figcaption>Bonds that stop mean simple molecules; bonds running off the edges mean a giant covalent structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
 
 ## Metallic structures (i, j)
 
@@ -167,6 +225,12 @@ Two more:
 9. Diamond and silicon dioxide.
 10. K⁺ ions in a regular pattern, with delocalised electrons between them; strong electrostatic attraction between the ions and the electrons holds them together.
 11. It is made of S₂Cl₂ molecules, with the atoms in each molecule joined by covalent bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -48,6 +48,12 @@ More links: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checklist
 2. Compare them. Same name means repel. Different means attract.
 3. State the direction each magnet is pushed or pulled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--02-mag-poles-materials.webp" width="900" height="880" alt="Iron, steel, cobalt and nickel are attracted by a magnet; copper, aluminium, glass and plastic are not. A hanging magnet with its north pole on the left is repelled by a north pole and attracted when the student turns the magnet to offer a south pole." loading="lazy">
+  <figcaption>Only four materials are magnetic, and only repulsion proves a magnet.</figcaption>
+</figure>
+
+
 ## Field line rules
 
 | Rule | Detail |
@@ -66,12 +72,29 @@ More links: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checklist
 | Like poles facing | Lines curve apart, with a point of zero field between the poles |
 | Flat opposite poles, close together | Uniform field in the gap |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--04-magnet-pair-fields.webp" width="900" height="1130" alt="Field lines computed from point poles. Unlike poles facing: lines run straight across the gap from N to S. Like poles facing: lines curve away without crossing and the field is zero at a point midway. Between flat opposite poles the field is uniform with parallel, equally spaced lines." loading="lazy">
+  <figcaption>Field patterns for unlike poles, like poles and a uniform field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
+
 ## Induced magnetism: explain in four lines
 
 1. The magnet's field magnetises the iron.
 2. The nearer end becomes the opposite pole to the magnet's pole.
 3. Opposite poles attract, so the force is attraction.
 4. Away from the magnet, the iron loses most or all of its magnetism quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--05-induced-magnet.webp" width="900" height="940" alt="A bar magnet near an iron nail. With an N pole near, the nail end nearest becomes S and the far end N; with an S pole near the nearest end becomes N. Both cases attract. With the magnet removed the nail loses most of its magnetism." loading="lazy">
+  <figcaption>Induced magnetism always gives attraction.</figcaption>
+</figure>
+
 
 ## Earth's field and the compass
 
@@ -87,6 +110,12 @@ More links: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checklist
 3. Repeat until you reach the other pole.
 4. Join the dots and add an arrow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--03-earth-compass.webp" width="900" height="1120" alt="Top: field lines of the Earth drawn like a giant bar magnet, running from the south of the planet to the north, with a compass needle whose north end points to Earth north. Bottom: dots marked along a computed field line from the N to the S pole of a bar magnet, a compass beside the line and an arrow showing the direction." loading="lazy">
+  <figcaption>A plotting compass lines up with the field, so it shows direction; stepping it along makes a field line.</figcaption>
+</figure>
+
+
 ## Field around a straight wire
 
 | Fact | Detail |
@@ -95,6 +124,12 @@ More links: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checklist
 | Distance | Stronger closer to the wire |
 | Current size | Larger current, stronger field |
 | Current direction | Reversing the current reverses the field lines |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--06-wire-field.webp" width="900" height="880" alt="Two views along a straight wire. Current towards you gives anticlockwise circular field lines; current away gives clockwise. Compasses 2 cm and 4 cm from the wire turn 40 and 22 degrees from north, so the field is weaker further out. Reversing the current reverses the field and the deflection." loading="lazy">
+  <figcaption>The field around a wire is circles, weaker further away, reversing with the current.</figcaption>
+</figure>
+
 
 ## Solenoid and electromagnet
 
@@ -109,6 +144,27 @@ More links: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checklist
 **Ways to strengthen an electromagnet:** a larger current, more turns, an iron core.
 
 **Uses:** scrapyard crane (lifts then releases scrap), electric bell (the coil pulls the armature, which breaks the circuit, then a spring resets it), relay (a small current in the coil closes a switch in a second circuit).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--07-solenoid-electromagnet.webp" width="900" height="970" alt="A coil with an iron core. Outside, field lines run from the N end round to the S end like a bar magnet; inside the coil the field is strong and uniform. Reversing the current swaps the poles. The iron core makes the field stronger." loading="lazy">
+  <figcaption>A solenoid with an iron core is an electromagnet with a bar-magnet field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--04-core-compare.webp" width="900" height="1030" alt="Two identical coils with the same current. The air-core coil has fewer field lines and is labelled weaker; the iron-core coil has more crowded lines and is labelled stronger because the iron becomes an induced magnet whose field adds to the coil field." loading="lazy">
+  <figcaption>An iron core strengthens a solenoid field because it becomes an induced magnet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--05-soft-iron-permanent.webp" width="900" height="900" alt="Crane-style panels. A soft iron electromagnet holds a steel load with the current on and drops it with the current off. A permanent magnet holds the load all the time and cannot be switched off." loading="lazy">
+  <figcaption>Soft iron loses its magnetism when the current stops, so an electromagnet can be switched off; a permanent magnet cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--02-em-relay.webp" width="900" height="1040" alt="Two panels of a relay. With the switch open the armature is raised and the lamp is off. With the switch closed the coil magnetises the iron core, which pulls the armature down, closes the contacts and lights the lamp." loading="lazy">
+  <figcaption>A small current in an electromagnet closes contacts in a separate larger-current circuit.</figcaption>
+</figure>
+
 
 ## Required practical in steps
 
@@ -143,6 +199,12 @@ At 1.0 A, the mean clips lifted are 5.33 for 20 turns and 10.33 for 40 turns.
 
 Write "close to" and not "exactly", because the clip count is a whole number and each reading carries some scatter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--08-electromagnet-practical.webp" width="900" height="1140" alt="A graph of clips lifted against turns at 1.0 A with three trials and means 2.33, 5.33, 7.67, 10.33 and 12.67, rising steadily; and bars for 30 turns showing 7 clips at 1.0 A and 16 at 2.0 A, a 129 percent increase." loading="lazy">
+  <figcaption>More turns or a bigger current lift more clips.</figcaption>
+</figure>
+
+
 ## Show that a wire has a field
 
 1. Pass a vertical wire through a card and place plotting compasses on the card around it.
@@ -159,6 +221,12 @@ Write "close to" and not "exactly", because the clip count is a whole number and
 4. The armature movement opens the contact, so the current stops.
 5. The core loses its magnetism and a spring pulls the armature back.
 6. The contact closes again and the cycle repeats while the switch is held down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--06-electric-bell.webp" width="900" height="760" alt="Two states of a bell. In state 1 the contact touches the armature, current flows and the coil pulls the armature. In state 2 the hammer hits the gong, the armature leaves the contact and current stops; a spring pulls it back and the cycle repeats." loading="lazy">
+  <figcaption>The bell breaks its own circuit, so the armature keeps moving back and forth.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

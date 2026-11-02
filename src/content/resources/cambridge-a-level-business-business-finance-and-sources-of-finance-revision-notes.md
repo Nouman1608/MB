@@ -46,6 +46,17 @@ These are condensed notes for sections 5.1 Business finance and 5.2 Sources of f
 
 **Reminder.** Sales on credit of £20,000 with £13,000 of costs paid in the month give a profit of £7,000, but the business is £13,000 down in cash until the customers pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ### Failure from lack of finance
 
 | Term | General meaning |
@@ -55,6 +66,12 @@ These are condensed notes for sections 5.1 Business finance and 5.2 Sources of f
 | Administration | An outside administrator tries to rescue the business or sell it as a going concern |
 
 Liquidation ends the business. Administration tries to keep all or part of it alive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--10-fin-insolvency.webp" width="900" height="950" alt="Insolvent means unable to pay debts when due. Bankruptcy applies to a person such as a sole trader or partner; liquidation closes the business and sells assets; administration puts an outsider in charge to rescue or sell it as a going concern." loading="lazy">
+  <figcaption>Liquidation ends the business; administration tries to keep all or part of it alive; bankruptcy is for individuals.</figcaption>
+</figure>
+
 
 ## 5.1.2 Working capital
 
@@ -93,6 +110,22 @@ Using the credit period fully keeps cash in the business. Paying late risks lost
 | Examples | Machinery, vehicles, buildings | Wages, materials, rent, repairs |
 | Usual finance | Long term | Day-to-day cash flow or short term |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--06-fin-working-capital.webp" width="900" height="870" alt="Current assets of 40,000 (inventory 14,000, receivables 22,000, cash 4,000) less current liabilities of 27,000 (payables 18,000, overdraft 9,000) leave working capital of 13,000, shown as the dashed gap." loading="lazy">
+  <figcaption>Working capital is current assets minus current liabilities, here 13,000 pounds, and is not cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--07-fin-receivables.webp" width="900" height="730" alt="At 60 days about 29,589 is owed; at 30 days about 14,795. Cutting the credit period by 30 days releases about 14,795 of cash, with a warning that strict terms risk losing customers." loading="lazy">
+  <figcaption>Collecting 30 days sooner releases about 14,795 pounds of cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--06-fin-capital-revenue.webp" width="900" height="970" alt="Capital items (van, workshop extension, machinery) serve the business beyond one year; revenue items (fuel, roof repair, wages) are used within the year. Capital often needs long-term finance." loading="lazy">
+  <figcaption>Capital spending buys long-lasting assets; revenue spending covers everyday costs.</figcaption>
+</figure>
+
+
 ## 5.2.1 Ownership and finance
 
 | Form | Typical finance available |
@@ -101,6 +134,17 @@ Using the credit period fully keeps cash in the business. Paying late risks lost
 | Partnership | As above plus new partners, who share control and profit |
 | Private limited company | Can sell shares, but only to chosen people |
 | Public limited company | Can sell shares to the public, so much larger sums are possible |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--08-fin-overdraft-loan.webp" width="900" height="730" alt="A timeline over 12 months shows the 8,000 pound need lasting 3 months. An overdraft used for 3 months costs 240; a 12-month loan costs 720 although the money is needed for a quarter." loading="lazy">
+  <figcaption>For a 3-month need an overdraft costs 240 pounds against 720 pounds for a 12-month loan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--09-fin-loan-cost.webp" width="900" height="930" alt="A 40,000 loan at 8% costs 3,200 a year, 16,000 over five years (interest-only illustration); a share issue has no interest but gives up ownership." loading="lazy">
+  <figcaption>A bank loan costs 16,000 of interest over five years; shares cost no interest but share ownership.</figcaption>
+</figure>
+
 
 ## 5.2.2 Sources of finance
 
@@ -115,6 +159,22 @@ Using the credit period fully keeps cash in the business. Paying late risks lost
 | Working capital | No outside agreement | Daily payments may become hard |
 
 **Reminder.** Selling a workshop for £90,000 and renting it back at £600 a month costs £7,200 a year, £36,000 over five years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--09-fin-leaseback.webp" width="900" height="930" alt="A dashed line shows 260,000 received now. Bars show cumulative rent at 24,000 a year reaching 240,000 after ten years, and the business no longer owns the workshop." loading="lazy">
+  <figcaption>Sale and leaseback gives 260,000 pounds now but costs 24,000 a year in rent and the property is no longer owned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--07-fin-hp-leasing.webp" width="900" height="940" alt="Hire purchase is paid in instalments plus interest and the asset is owned after the final payment; leasing is a regular fee and the asset is never owned." loading="lazy">
+  <figcaption>Hire purchase ends in ownership; leasing never does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--08-fin-give-up.webp" width="900" height="824" alt="External sources grouped by what the business gives up: interest, ownership and control, part of the invoice value, or conditions and supplier trust." loading="lazy">
+  <figcaption>Each external source asks for something different in return.</figcaption>
+</figure>
+
 
 ### External
 
@@ -146,6 +206,12 @@ Check each of five factors, then judge the fit.
 5. Existing debt: heavy debt limits borrowing and makes interest harder to pay.
 
 **Reminder.** A £5,000 overdraft at 15% for 2 months costs £125. A 12-month loan at 10% costs £500. If the need lasts two months, the overdraft is the better fit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--10-fin-choice.webp" width="900" height="910" alt="Five factors: cost, flexibility, control, use and existing debt. If existing debt is high choose shares; if not and owners want control and profit covers 3,200, choose the loan; otherwise weigh cost, flexibility and use." loading="lazy">
+  <figcaption>A decision path built from the lesson's five choice factors.</figcaption>
+</figure>
+
 
 ## Method in steps: a recommendation on finance
 

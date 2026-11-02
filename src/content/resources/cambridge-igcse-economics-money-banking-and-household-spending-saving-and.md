@@ -87,6 +87,27 @@ Loss = 2,000 - 1,814.06 = 185.94
 | Uniformity | Units of the same value must be alike, so they are trusted |
 | Security | Hard to counterfeit, so people keep trusting it |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--07-barter-ratios-vs-prices.webp" width="900" height="880" alt="Two circles of 12 goods: barter joins every pair with a line (66 ratios); with money each good has one price to the money at the centre (12 prices)." loading="lazy">
+  <figcaption>Money cuts 66 exchange ratios to 12 prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--03-inflation-purchasing-power.webp" width="900" height="860" alt="Bars show 2,000 kept in cash with prices rising 5% a year: 2,000 now, 1,904.76 after one year and 1,814.06 after two. The loss is 185.94 in today's prices." loading="lazy">
+  <figcaption>Money is a weaker store of value when prices rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## 2. Banking (3.1.2)
 
 ### Central bank
@@ -132,6 +153,17 @@ Chain of reasoning for importance: a bank turns many small deposits into large l
 
 Evaluation. Commercial banks gain from lending but risk losses if borrowers default, so the central bank limits the risk through supervision. Low interest rates help borrowers but hurt savers, so the central bank's choice has winners and losers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--08-bank-interest-gap.webp" width="900" height="840" alt="Savers deposit 600,000 and are paid 2% (12,000). The bank lends 420,000 (70%) at 9%, earning 37,800, and keeps 180,000. The gap is 25,800 before running costs." loading="lazy">
+  <figcaption>A bank earns from the gap between the interest it charges and the interest it pays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 3. What affects spending, saving and borrowing (3.2.1)
 
 Households use income in three ways.
@@ -162,6 +194,12 @@ R: spends 1,300/1,200 = 108.3%, so it borrows 100
 
 Household Q saves 8 times as much as P in money (1,200 / 150) and a larger share. R borrows to cover the gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--04-income-up-spending-barely-up.webp" width="900" height="950" alt="Two stacked bars: income 2,000 (spent 1,840, saved 160) in year 1 and 2,200 (spent 1,892, saved 308) in year 2. Income rises 10% but spending only 2.83% as the share saved rises from 8% to 14%." loading="lazy">
+  <figcaption>Falling confidence can hold spending back even when income rises.</figcaption>
+</figure>
+
+
 ### Rate of interest
 
 The **rate of interest** is the reward for saving and the cost of borrowing, shown as a percentage a year.
@@ -185,6 +223,22 @@ Interest rates matter most for large, long loans such as housing. The effect is 
 ### Confidence
 
 **Confidence** is how secure households feel about future jobs, income and prices. Confident households spend and borrow more, and save less. Worried households cut spending and build a cushion. Confidence can fall because of rising unemployment, news of a downturn or fear of falling prices of assets, and it can move spending even when income does not change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--09-household-spend-save-borrow.webp" width="900" height="830" alt="Bars show each household's spending as a share of disposable income. P spends 90% (saves 150), Q spends 70% (saves 1,200) and R spends 108% so borrows 100." loading="lazy">
+  <figcaption>Higher income households save a larger share; low-income households may borrow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--05-instalment-loan-cost.webp" width="900" height="890" alt="A bar shows 9,600 borrowed plus 960 simple interest (9,600 x 0.05 x 2), total 10,560, split into 24 boxes of 440." loading="lazy">
+  <figcaption>Interest of 960 makes the total repaid 10,560, or 440 a month over 24 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
 
 ## 4. Between households and over time
 

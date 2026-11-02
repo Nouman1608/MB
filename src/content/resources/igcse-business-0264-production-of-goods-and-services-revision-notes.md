@@ -52,6 +52,12 @@ Method in steps:
 
 **Reminder example.** Dovenby Printers makes 9,600 leaflets a day with 24 operators. Productivity is 9,600 / 24 = 400 leaflets per operator per day. With 25 operators making 10,500 leaflets, productivity is 420. The rise is 20, which is 5.0% on 400.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--06-output-vs-productivity.webp" width="900" height="890" alt="March: 35 workers made 4,200 frames (120 each). April: 36 workers made 4,680 (130 each). Output rose 11.4% but productivity only 8.3%." loading="lazy">
+  <figcaption>Productivity rises less than output when the workforce also grows.</figcaption>
+</figure>
+
+
 ## Efficiency
 
 **Why it matters**
@@ -70,6 +76,17 @@ Method in steps:
 
 Write the chain: efficiency rises, unit cost falls, price can fall or profit can rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--01-efficiency-unit-cost.webp" width="900" height="850" alt="Three bars show the cost and profit in one unit. Before efficiency the price is 100: cost 70 and profit 30. After efficiency cost falls to 55. Keeping the price gives profit 45; cutting the price to 85 keeps profit at 30 and makes the business cheaper than rivals. Numbers are illustrative." loading="lazy">
+  <figcaption>Efficiency lowers cost per unit, so the business can keep the price and earn more or cut the price and compete (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--02-training-payback.webp" width="900" height="850" alt="A line graph shows extra benefit building by 720 pounds a week after a 6,000 pound training course for 20 packers. The line reaches the 6,000 pound course cost at 8.3 weeks, the payback time, if the gains last." loading="lazy">
+  <figcaption>Tarnbury earns £720 extra a week, so the £6,000 course is repaid in about 8.3 weeks.</figcaption>
+</figure>
+
+
 ## Lean production
 
 **Definition:** minimising waste while keeping quality. Two ways to achieve it are named in the syllabus.
@@ -80,6 +97,12 @@ Write the chain: efficiency rises, unit cost falls, price can fall or profit can
 - Pros: less money tied up in stock, less storage space, less waste from damaged or outdated stock.
 - Cons: one late delivery can stop production, dependence on reliable suppliers, fewer bulk discounts, and difficulty meeting a sudden jump in demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ### Kaizen
 
 - Continuous small improvements, suggested by all workers, often in problem-solving teams.
@@ -87,6 +110,17 @@ Write the chain: efficiency rises, unit cost falls, price can fall or profit can
 - Cons: slow gains, training and meetings take time, some staff resist change.
 
 **Lean production overall.** Advantages: lower costs, less waste, higher quality, flexibility. Disadvantages: supplier dependence, risk of running out, cost and effort of changing working methods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--03-kaizen-waste.webp" width="900" height="880" alt="Five bars, one for each waste type that lean production targets: unused inventory, idle workers, waiting time, faulty products and unnecessary movement. Each bar shows part of the waste removed through small, continuous improvements by all workers. Lengths are illustrative." loading="lazy">
+  <figcaption>Lean production targets five kinds of waste; Kaizen removes them through many small improvements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--05-penmorrow-method.webp" width="900" height="840" alt="Three case facts are linked to three reasons against flow production: six tables a month cannot spread set-up cost, each table is made to measure so a fixed line cannot produce it, and flow would remove the bespoke selling point of tables sold for about 4,000 pounds. The recommendation is to stay with job production." loading="lazy">
+  <figcaption>Use case facts (quantity, product, price) to justify the recommended method and reject the others.</figcaption>
+</figure>
+
 
 ## Inventory
 
@@ -107,6 +141,12 @@ Write the chain: efficiency rises, unit cost falls, price can fall or profit can
 | Limited storage space or high storage cost | Hold less |
 | Limited cash | Hold less |
 | JIT system | Hold very little |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--04-inventory-factors.webp" width="900" height="900" alt="Three scales run from little stock to lots of stock. Perishable cream cakes, delivery within hours and easy-to-forecast demand all put Tarnbury at the little-stock end, so it holds small amounts and orders often. An unreliable supplier would move the delivery marker slightly towards more stock." loading="lazy">
+  <figcaption>Perishable cakes, quick delivery and predictable demand all point to small stock and frequent orders.</figcaption>
+</figure>
+
 
 ## Production methods (4.1.2)
 
@@ -129,6 +169,17 @@ Write the chain: efficiency rises, unit cost falls, price can fall or profit can
 5. Finish with one sentence that returns to the business.
 
 **Reminder example.** Kettlewell Pottery sells 30,000 identical mugs a year to supermarkets at a low price. Flow production fits, because the product is standard, volume is large, and a low unit cost is needed to win the contract. Job production would be too costly. Batch production could work if the design changed every few months.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
 
 ## Applying the ideas to services
 

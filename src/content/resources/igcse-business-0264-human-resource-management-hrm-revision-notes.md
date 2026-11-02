@@ -47,6 +47,12 @@ Money figures are in dollars. All businesses and people are invented.
 3. Job advertisement (tells people about the vacancy; may use an employment agency or online recruitment).
 4. Selection (the methods below).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ### Selection methods at a glance
 
 | Method | One strength | One weakness |
@@ -68,6 +74,12 @@ Money figures are in dollars. All businesses and people are invented.
 | Motivation | Promotion prospects motivate staff | Existing staff may feel overlooked |
 | Side effect | Leaves a gap to fill | Fills the gap fully |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--11-three-routes.webp" width="900" height="804" alt="Internal: cheaper, quicker; small pool, leaves a gap. External: bigger pool but dearer and slower, via an agency (saves time, fee) or online (cheap, many unsuitable applicants)." loading="lazy">
+  <figcaption>Three ways to find candidates and the main advantage and drawback of each.</figcaption>
+</figure>
+
+
 ### Method: recommend and justify who to employ
 
 1. Name your choice clearly.
@@ -75,6 +87,22 @@ Money figures are in dollars. All businesses and people are invented.
 3. Compare with the rejected candidate on the same criteria.
 4. Weigh one risk of your choice and say how it could be reduced.
 5. Finish with one sentence of judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--10-selection-methods.webp" width="900" height="945" alt="Five rows: CV, application form, references, assessment centre, interview, each with what it gives and its limitation. Usually combined: form, test, interview." loading="lazy">
+  <figcaption>Each selection method gives something and has a limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--13-candidate-match.webp" width="900" height="990" alt="Imran and Dilara checked against leading a team and equipment knowledge; Dilara recommended since induction fixes machines in weeks but leadership takes years." loading="lazy">
+  <figcaption>Match each candidate to the person specification before recommending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
 
 ## 2.1.2 Contracts and legal controls
 
@@ -103,6 +131,27 @@ Money figures are in dollars. All businesses and people are invented.
 
 Always give an effect for both sides. A legal control can be a cost for the employer and a benefit for the employee at the same time. It can also bring a benefit to the employer, such as lower absence from fewer accidents.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--03-contract-contents.webp" width="900" height="960" alt="An employment contract is a legal agreement between employer and employee. It names duties and responsibilities, working hours, holiday entitlement and sick pay, so both sides know what to expect." loading="lazy">
+  <figcaption>A contract sets out four things that both employer and employee can rely on.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--04-minimum-wage-check.webp" width="900" height="930" alt="A waiter paid 323 dollars for 38 hours earns 8.50 dollars an hour, 50 cents under the 9 dollar minimum. That is 19 dollars a week and 988 dollars a year; compliance needs at least 342 dollars a week." loading="lazy">
+  <figcaption>Dividing pay by hours shows the café pays below the legal minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--12-legal-four.webp" width="900" height="805" alt="Four rows (unfair dismissal, discrimination, health and safety, minimum wage) with the effect on the employer and on the employee." loading="lazy">
+  <figcaption>Each legal control affects employers and employees differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ## 2.1.3 Training
 
 ### Why it matters
@@ -123,6 +172,12 @@ Always give an effect for both sides. A legal control can be a cost for the empl
 | Off-the-job | Away from the workplace | Expert teaching, recognised qualifications | Costly; staff away from work |
 
 Training has a cost, and trained staff might leave. Say so in evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -183,6 +238,12 @@ Cost of training = cost per person × number of people, plus any lost output whi
 10. Induction introduces new employees to the business and its rules. On-the-job training teaches job skills while the person works.
 11. For example, better skills improve promotion chances, or give a higher wage, or make the job more satisfying.
 12. 25 − 5 = 20 days.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--14-induction-cost.webp" width="900" height="960" alt="6 workers x 4 hours = 24 hours; 24 x 11 dollars = 264 dollars; check 44 x 6 = 264." loading="lazy">
+  <figcaption>Induction for six workers costs 264 dollars.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

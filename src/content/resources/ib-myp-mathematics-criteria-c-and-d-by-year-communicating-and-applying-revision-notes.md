@@ -33,6 +33,12 @@ These revision notes condense Criterion C (Communicating) and Criterion D (Apply
 - The guide says Criterion C is often assessed on constructed responses and reports, alongside B or D.
 - Criterion D is often assessed through modelling or curve-fitting tasks in authentic contexts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--10-cd-band-ladder.webp" width="900" height="790" alt="Four bands from 1-2 to 7-8 with short plain-word summaries for Criterion C (limited to consistently correct) and Criterion D (limited success to appropriate model and correct solution)." loading="lazy">
+  <figcaption>How Criteria C and D read in each band, in plain words.</figcaption>
+</figure>
+
+
 ## Criterion C strands
 
 | Strand | Skill | What earns the top band |
@@ -44,6 +50,12 @@ These revision notes condense Criterion C (Communicating) and Criterion D (Apply
 | v | Structure | work consistently organised in a logical order |
 
 Year 1 does not demonstrate strand iii at any band.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--04-tiling-floor.webp" width="900" height="772" alt="A 3.6 m by 2.4 m floor, shown as 360 cm by 240 cm, is covered by 12 by 8 square tiles of side 30 cm. That gives 96 tiles, checked by dividing the areas." loading="lazy">
+  <figcaption>Convert to one unit first, then count 12 x 8 = 96 tiles.</figcaption>
+</figure>
+
 
 ## Criterion D strands
 
@@ -68,6 +80,12 @@ Strands i to iii do not change in wording across years. The mathematics you appl
 | Show | give the steps of a calculation or derivation | display every step |
 | Verify | provide evidence that validates a result | substitute or check independently |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--06-cd-command-ladder.webp" width="900" height="790" alt="Three bars grow from Year 1 to Year 5 for the accuracy of a floor area. Describe says what, explain adds why, justify adds evidence with numbers (16.33 to 16.73 square metres, about 181 to 186 tiles)." loading="lazy">
+  <figcaption>The same question answered at the describe, explain and justify levels.</figcaption>
+</figure>
+
+
 ## Notation reminders
 
 These come from the guide's conventions for on-screen examinations, and they are good habits in every task.
@@ -78,6 +96,12 @@ These come from the guide's conventions for on-screen examinations, and they are
 - Estimate by rounding. Truncating does not count as estimating.
 - Use the equals sign only between quantities that are equal. Do not chain unrelated results.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--07-cd-notation-slips.webp" width="900" height="770" alt="Three slips and fixes: 2^3 becomes 2 cubed, 4.5E3 becomes 4.5 x 10^3, and the chained line 3 x 4 = 12 + 5 = 17 is split into two correct lines." loading="lazy">
+  <figcaption>Use mathematical notation and one equals sign per value.</figcaption>
+</figure>
+
+
 ## Method: communicating a solution
 
 1. State what you are finding and define any variable with units.
@@ -86,6 +110,12 @@ These come from the guide's conventions for on-screen examinations, and they are
 4. Write the result with units and the right rounding.
 5. Finish with a sentence that answers the original question.
 6. Check that someone else could follow it without asking you anything.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--09-cd-solution-layout.webp" width="900" height="850" alt="Five numbered blocks: aim, information, method, result, conclusion, filled in for the tiling problem (203 tiles, 17 boxes, 204 tiles)." loading="lazy">
+  <figcaption>A written solution follows aim, information, method, result, conclusion.</figcaption>
+</figure>
+
 
 ## Method: applying mathematics
 
@@ -99,6 +129,12 @@ These come from the guide's conventions for on-screen examinations, and they are
 
 For a rule such as C = 18 + 22m: table rows give 40, 62, 84 for m = 1, 2, 3 after adding 18 to each 22m. The graph is a line with intercept 18 and gradient 22. In words, "18 to join and 22 each month". Reading back from the graph, C = 260 gives 22m = 242, so m = 11. Always check that each form agrees with the others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--01-tank-three-forms.webp" width="900" height="1130" alt="A water tank starts with 40 litres and a pump adds 12 litres each minute. The table, the rule V = 40 + 12t and the graph carry the same facts. The graph starts at (0, 40), has gradient 12 and stops at the full tank, t = 17.5. Reading back, V = 190 gives t = 12.5." loading="lazy">
+  <figcaption>The same tank as a table, a rule and a graph, with the domain 0 ≤ t ≤ 17.5.</figcaption>
+</figure>
+
+
 ## Model validity checklist
 
 - State the domain where the model works.
@@ -108,6 +144,12 @@ For a rule such as C = 18 + 22m: table rows give 40, 62, 84 for m = 1, 2, 3 afte
 - Do not predict outside the domain, or say clearly that the prediction is unreliable.
 
 **Reminder.** A savings model B = 800 × 1.04ⁿ gives B = 1012.26 after 6 years, rounded to the nearest penny. It assumes the 4% rate never changes. If the bank changes the rate, the model is no longer valid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--03-candle-model-validity.webp" width="900" height="1100" alt="The candle model h = 24 − 1.5t is a straight line valid until it reaches 0 at t = 16; beyond that it gives impossible negative heights. Measured heights differ from the model by 0.1, 0.2 and 0.4 cm, a growing gap, so the real rate is about 1.46 cm per hour." loading="lazy">
+  <figcaption>Evidence (growing gaps) and limit (domain 0 ≤ t ≤ 16) are what a justified conclusion states.</figcaption>
+</figure>
+
 
 ## Band ladder, in short
 
@@ -176,6 +218,12 @@ Check: left side 3(7 + 4) = 33, right side 2(7) + 19 = 33.
 8. 800 × 1.04¹⁰ = 1184.20, so £1184.20.
 9. Complete, coherent and concise.
 10. The real situation may curve, level off or hit a physical limit, such as a negative height.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

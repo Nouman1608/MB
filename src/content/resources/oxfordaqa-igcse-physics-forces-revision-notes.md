@@ -41,6 +41,27 @@ Reading area as gradient is the most common error on this topic.
 
 **Scalars** (distance, speed, mass, energy) have magnitude only; **vectors** (displacement, velocity, force, momentum) have direction too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-forces-and-their-effects--04-scalar-vector.webp" width="900" height="960" alt="A walk of 6 m east then 2 m west on a number line from 0 to 8 m. The distance travelled is 6 plus 2, 8 m, a scalar with no direction. The displacement is an arrow from the start to the end point, 4 m east, a vector. Below, scalars are mass, speed, distance and energy; vectors, drawn with arrows, are force, velocity, displacement and acceleration." loading="lazy">
+  <figcaption>Distance versus displacement for a 6 m east, 2 m west walk, with scalar and vector examples from the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--11-fo-walker-distance-displacement.webp" width="900" height="830" alt="A walker goes 60 m east then 20 m west in 40 s. Distance is 80 m (scalar), average speed 2.0 m/s. Displacement is 40 m east (vector), average velocity 1.0 m/s east." loading="lazy">
+  <figcaption>The same walk gives a distance of 80 m but a displacement of 40 m east.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--09-cyclist-average-speed.webp" width="900" height="960" alt="Distance-time graph for the cyclist: 5.0 m/s for 10 s, rest for 15 s, then 4.5 m/s for 20 s. A dashed line from the origin to (45 s, 140 m) has gradient 3.1 m/s, the average speed." loading="lazy">
+  <figcaption>Average speed is total distance over total time, and the rest counts as time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--02-cyclist-velocity-time.webp" width="900" height="920" alt="Velocity-time graph: 0 to 12 m/s in 6 s, constant 12 m/s for 8 s, then down to 0 in 6 s. Gradients are 2.0, 0 and minus 2.0 m/s squared; areas 36, 96 and 36 m; total 168 m and average speed 8.4 m/s." loading="lazy">
+  <figcaption>Gradients and areas of the cyclist graph give 168 m and 8.4 m/s.</figcaption>
+</figure>
+
+
 ## Forces
 
 **Newton's laws:** constant velocity without a resultant force; `F = ma`; equal and opposite forces on **different** bodies.
@@ -66,6 +87,42 @@ The driving force is **not** the resultant — the resultant is what remains onc
 3. When air resistance **equals** weight, resultant force is zero.
 4. Acceleration is zero, so velocity is **constant** — the object still moves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-revision-notes--03-driving-force-not-resultant.webp" width="900" height="940" alt="A 1200 kg car speeds up from rest to 24 m/s in 8.0 s against 400 N drag: a = 3.0 m/s2, resultant 3600 N, driving force 4000 N. Arrows and a bar are to the same scale. At steady speed the resultant is zero and the driving force equals the 400 N drag." loading="lazy">
+  <figcaption>The driving force is the resultant plus drag, and only equals drag at constant velocity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-revision-notes--04-third-law-pair-vs-balance.webp" width="900" height="940" alt="A free-body diagram of a book shows weight and normal contact force on the same object, a first-law balance. A second panel shows the real third-law pair: the table pushes the book up and the book pushes the table down, equal, opposite, same type, on different objects. The weight’s partner is the book pulling the Earth up." loading="lazy">
+  <figcaption>Weight and normal contact force act on one object, so they are not a third-law pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-revision-notes--05-terminal-velocity-stages.webp" width="900" height="1230" alt="A speed-time graph for a skydiver of weight 800 N rises and levels at about 50 m/s. Four marked moments show weight and air resistance arrows to the same scale: drag grows from zero until it equals the weight, acceleration falls to zero and the speed becomes constant." loading="lazy">
+  <figcaption>Air resistance grows with speed until it equals weight; the skydiver then falls at constant velocity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--03-sledge-resultant-450-180-70.webp" width="900" height="840" alt="Force arrows to scale show a 450 N forward pull and backward friction of 180 N and wind of 70 N on a sledge. A bar splits the 450 N into 180 N, 70 N and 200 N left over. The resultant is 200 N forwards." loading="lazy">
+  <figcaption>Forwards positive: 450 − 180 − 70 = 200 N forwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--03-steady-speed-balanced-forces.webp" width="900" height="640" alt="A car at steady speed has a 1800 N driving force forward and 1800 N of resistive forces backward, drawn with equal arrow lengths. The resultant force is zero." loading="lazy">
+  <figcaption>At a steady speed the driving force equals the resistive forces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--01-first-law-balanced-forces.webp" width="900" height="1060" alt="A car at a steady 20 m/s has equal and opposite driving and resistive forces, so the resultant is zero. A bus drawn twice shows the passenger keeping the old velocity when the bus brakes, until a seat belt pushes. The passenger leans forward because nothing slows them." loading="lazy">
+  <figcaption>Zero resultant force means constant velocity; a braking bus does not slow an unrestrained passenger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--01-parachute-velocity-time.webp" width="900" height="1320" alt="A speed-time graph in four stages: speed rises and flattens, holds at a first terminal speed, drops steeply when the parachute opens, then holds at a much lower terminal speed. Force arrows show drag below, equal to, then much greater than, then equal to weight." loading="lazy">
+  <figcaption>Opening a parachute gives a second, much lower terminal speed.</figcaption>
+</figure>
+
+
 ## Momentum and safety
 
 ```
@@ -75,6 +132,12 @@ p = mv        F = (mv - mu) / t
 Momentum is conserved in a closed system and is a **vector**, so opposite directions must be assigned opposite signs.
 
 **Crumple zones, airbags and seatbelts all work identically:** they **increase the time** over which momentum changes, so the force is reduced. The momentum change itself is fixed by the collision — only the time can be altered.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--01-bounce-collision.webp" width="900" height="1130" alt="Trolley A (0.60 kg, right at 1.8 m/s) and trolley B (0.80 kg, left at 0.40 m/s) have momenta +1.08 and -0.32, total +0.76 kg m/s. After the bounce A moves left at 0.20 m/s (-0.12) and B moves right at 1.1 m/s (+0.88). The total is unchanged and B has reversed direction." loading="lazy">
+  <figcaption>Two trolleys bounce apart and the momentum bars before and after both total +0.76 kg m/s.</figcaption>
+</figure>
+
 
 ## Stopping distance
 

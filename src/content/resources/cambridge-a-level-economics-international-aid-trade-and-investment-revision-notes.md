@@ -48,6 +48,22 @@ Quick recall for sections 11.5.1 and 11.5.2 of the Cambridge International AS & 
 
 Match the form to the purpose. Emergency relief meets short-run needs. Project aid and technical assistance build long-run capacity. Budget support relies on the recipient's institutions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--06-aid-grant-element.webp" width="900" height="1040" alt="Bars compare face value 100 with the present value of repayments 59.74 (13.42 interest plus 46.32 principal) at an 8 percent discount rate; the 40.26 gap is the grant element, 40.3 percent." loading="lazy">
+  <figcaption>A concessional loan is partly a gift because repayments are worth less than the amount lent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--07-aid-savings-gap.webp" width="900" height="1080" alt="Needed investment 20 percent of GDP, saving 14, gap 6 percent (480 million). If all aid is invested growth is 5 percent; if 70 percent, investment is 18.2 percent and growth 4.55 percent." loading="lazy">
+  <figcaption>Aid can fill a savings gap but only the invested share raises growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--01-aid-grant-element.webp" width="900" height="930" alt="Horizontal bars for a loan of 100 at 2 percent with the principal repaid after 10 years and an 8 percent market rate. The repayments are worth 59.74 today (13.42 for interest, 46.32 for the principal), so the remaining 40.26, or 40.3 percent, is a gift. A loan at 8 percent would have a grant element of zero." loading="lazy">
+  <figcaption>A below-market loan contains a gift: here 40.3% of its face value.</figcaption>
+</figure>
+
+
 ## Reasons for giving aid
 
 | Motive | Idea | Weakness |
@@ -68,6 +84,12 @@ Match the form to the purpose. Emergency relief meets short-run needs. Project a
 - Aid replaces tax revenue, then a weak tax system and less government accountability.
 - Fungibility: aid for one use releases domestic funds for another, perhaps unproductive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--02-aid-tied-premium.webp" width="900" height="820" alt="Two bars. A fully tied grant of 100 with a 15 percent price premium is worth 100/1.15 = 86.96, so 13.04 is lost. A grant of 200 with only 60 tied is worth 60/1.15 + 140 = 192.17, a loss of 7.83." loading="lazy">
+  <figcaption>Tying aid to donor suppliers cuts its real value by the price premium on the tied part.</figcaption>
+</figure>
+
+
 ## Importance of aid
 
 Measure by size, not total.
@@ -75,6 +97,12 @@ Measure by size, not total.
 Aid as % of GNI = (aid / GNI) x 100. Aid per head = aid / population.
 
 Aid matters most for small, low-income economies with a weak tax base and limited private finance. Then evaluate: type, predictability, governance, and what else is available (trade, private investment, remittances).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--03-aid-share-of-gni.webp" width="900" height="816" alt="Two 10 by 10 grids, each square being 1 percent of GNI. Country A receives 480 on a GNI of 8,000, which is 6.0 percent (40 per head), so 6 squares fill. Donor D gives 7,200 on a GNI of 2,400,000, which is 0.30 percent, under one square, although its gift is 15 times larger. Real aid of 480 with aid prices up 12 percent is 428.57, down 10.7 percent." loading="lazy">
+  <figcaption>The same aid can be huge for the recipient and tiny for the donor when measured as a share of GNI.</figcaption>
+</figure>
+
 
 ## Calculation reminders
 
@@ -111,6 +139,27 @@ Example: export prices 110, import prices 125. ToT = 110/125 x 100 = 88.0. With 
 | Competition lowers prices and raises efficiency | Adjustment costs, job losses in some sectors |
 
 **Investment flows.** Richer countries' savers invest in poorer countries for higher returns. Portfolio flows can be sudden. Stable flows that fund productive capacity are more useful than short-term flows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--08-aid-terms-of-trade.webp" width="900" height="1110" alt="Lines for export volume (to 118), terms of trade (to 75.0) and income terms of trade (to 88.5) over Years 1 to 4." loading="lazy">
+  <figcaption>Exports can rise 18 percent while the terms of trade fall 25 percent and affordable imports fall 11.5 percent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--09-aid-price-volatility.webp" width="900" height="1030" alt="Demand curve through (100,100) and (110,75) with PED -0.4; income rectangles 10,000 and 8,250 (-17.5 percent)." loading="lazy">
+  <figcaption>With inelastic demand a bigger harvest lowers price proportionally more than quantity rises, so income falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--04-terms-of-trade-income.webp" width="900" height="880" alt="Line graph for Country A, years 1 to 4. The terms of trade fall from 100 to 92.3, 83.3 and 75.0. The income terms of trade, which allow for export volume, fall more slowly to 88.5. In year 4 exports are 18 percent larger yet buy 11.5 percent fewer imports." loading="lazy">
+  <figcaption>Export volume can rise while the terms of trade, and the imports it buys, fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--05-capital-flows-deficit.webp" width="900" height="850" alt="Two panels for Country A. A deficit of 250 met by a net private capital inflow of 300 leaves +50 added to reserves. If net flows turn to -200 the gap is 250 + 200 = 450, so reserves fall or the currency depreciates." loading="lazy">
+  <figcaption>Capital inflows can finance a deficit, but a reversal opens a much larger gap.</figcaption>
+</figure>
+
 
 ## Method in steps: an evaluation question on aid
 
@@ -156,6 +205,12 @@ The same method works for trade and investment questions. Replace the aid chains
 8. 300/1.20 = 250.
 9. 6 x 3 = 18% of GDP.
 10. Benefit: finance for investment above domestic saving. Risk: sudden outflows weaken the currency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--10-aid-tariff-escalation.webp" width="900" height="1010" alt="Buyer pays 140; with a 10 percent tariff the exporter receives 127.27, so value added falls from 40 to 27.27 (-31.8 percent)." loading="lazy">
+  <figcaption>Tariff escalation cuts the value added from processing, discouraging it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

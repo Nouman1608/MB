@@ -57,6 +57,12 @@ Quality matters because:
 
 Quality has to be built into operations. The syllabus names two approaches.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--09-quality-matters.webp" width="900" height="900" alt="Better quality leads to two benefits. Sales hold up because customers buy again, recommend the business and give it a good reputation. Costs fall because there are fewer faulty items, less rework and fewer refunds. Both protect profit." loading="lazy">
+  <figcaption>Quality protects sales (repeat custom, reputation) and cuts the cost of faults, rework and refunds.</figcaption>
+</figure>
+
+
 ## Quality control
 
 Quality control means checking goods or services, usually after they are made or provided, to find and remove faults. It is a checking approach. Inspectors, supervisors or machines examine products at one or more points, often at the end of the process. Where output is large, a business may inspect a sample and use the result to judge the whole batch.
@@ -74,6 +80,12 @@ Items that fail are rejected, repaired (reworked) or scrapped. In a service, the
 - Inspectors add a labour cost without adding to the product.
 - Sampling can miss faulty items.
 - Workers may leave quality to the inspectors and take less care.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ## Quality assurance
 
@@ -115,11 +127,23 @@ Saving on faults = 450 - 150 = 300 dollars. After paying 200 dollars for the pro
 
 The estimate comes from a sample, so the true figure may differ. The money figure also leaves out complaints and brand damage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--04-qa-cost-of-faults.webp" width="900" height="710" alt="Faults cost 450 dollars a week now (750 jars at 0.60). With quality assurance faults fall to 250 jars costing 150, plus a 200 dollar programme, total 350, a net gain of 100 dollars a week." loading="lazy">
+  <figcaption>Prevention costs money but can cost less than the faults it removes.</figcaption>
+</figure>
+
+
 ### Recommend and justify: control or assurance?
 
 Pick the approach that suits the situation and say why, using the facts given. Quality control may suit a small business with few products, a limited budget, or goods where a fault is easy to spot and low in cost. Quality assurance may suit a business where faults are costly or dangerous (food, medicine, safety equipment, healthcare), where reputation is the main selling point, or where output is large enough that waste is expensive.
 
 A strong answer names the approach, gives a reason linked to the stem, and weighs a drawback. Many businesses use both, but the question usually wants you to choose one and defend it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--04-tqm-trade-off.webp" width="900" height="730" alt="A balance scale: costs (staff training, inspection) on the left, benefits (fewer defects, less waste, fewer recalls) on the right. For a growing firm that outsources or franchises, the scale tips to benefits because oversight is lower." loading="lazy">
+  <figcaption>TQM adds training and inspection costs but is easier to justify for a growing business that outsources or franchises.</figcaption>
+</figure>
+
 
 ## 4.6 Location decisions: manufacturing
 
@@ -147,6 +171,17 @@ Site B is cheapest, but only 5,000 below Site C. Site B has few trained furnitur
 
 **Judgement:** Site C is the better choice. Site B saves 5,000 a year on paper, but the risk of skill shortages and the long delivery distances could cost more than that. Site A is the most expensive on every cost except transport.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--05-workshop-site-costs.webp" width="900" height="790" alt="Stacked bars of annual cost in $ thousand: A 234 (54 rent, 162 wages, 18 transport), B 201 (28, 132, 41), C 206 (36, 144, 26). B is cheapest but has few skilled workers; C is the better choice." loading="lazy">
+  <figcaption>The cheapest site is not always the best site.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## 4.6 Location decisions: services
 
 A service business sells an activity rather than a product, and the customer often has to come to the service or the service goes to the customer. Standard factors:
@@ -168,6 +203,12 @@ Customers per month: X = 48 x 26 = 1,248; Y = 30 x 26 = 780.
 Rent per customer: X = 3,000 / 1,248 = 2.40 dollars; Y = 1,200 / 780 = 1.54 dollars.
 
 X brings more customers, but Y has a lower rent for each one. Whether it can serve 48 people a day also depends on staff and treatment rooms, which the figures leave out. A balanced recommendation: choose Y if capacity is limited or cash is tight, X if the clinic can handle more customers and wants growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--10-physio-sites.webp" width="900" height="830" alt="Bars compare two clinic sites. Site X gets 1,248 customers a month at a rent of 2.40 dollars each; Site Y gets 780 customers a month at a rent of 1.54 dollars each. X brings more customers, Y is cheaper per customer, so capacity and cash decide the choice." loading="lazy">
+  <figcaption>Site X wins on customers, Site Y on rent per customer; the recommendation depends on capacity and cash.</figcaption>
+</figure>
+
 
 ## 4.6 Locating in another country
 
@@ -198,6 +239,12 @@ Country Q: (2.60 + 6.00) = 8.60; no tax; plus shipping 1.30 gives **9.90**.
 
 Q is 1.87 dollars cheaper per shirt. Before recommending Q, consider whether its workforce has the skills, whether its government is stable and whether exchange rates could erase the gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--06-country-shirt-cost.webp" width="900" height="930" alt="Country P costs 11.77 dollars per shirt (materials 6.00, labour 4.20, tax 1.02, shipping 0.55). Country Q costs 9.90 (materials 6.00, labour 2.60, shipping 1.30, no tax). Q is 1.87 cheaper." loading="lazy">
+  <figcaption>Compare every cost, including tax and shipping, not just labour.</figcaption>
+</figure>
+
+
 ## Recommend and justify a location
 
 Use this order for any location case study:
@@ -206,6 +253,12 @@ Use this order for any location case study:
 3. Compare the options on those factors, using figures.
 4. Name your choice and give a reason.
 5. Weigh one drawback or what you cannot tell from the data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--11-location-method.webp" width="900" height="830" alt="Five numbered steps for a location recommendation: identify what matters most to the business, pick two or three factors that fit, compare the options using figures, name the choice with a reason, and weigh one drawback or unknown." loading="lazy">
+  <figcaption>Follow the same five steps in any location case study.</figcaption>
+</figure>
+
 
 ## Common errors
 

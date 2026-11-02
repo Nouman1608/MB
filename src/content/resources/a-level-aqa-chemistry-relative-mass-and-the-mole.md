@@ -118,6 +118,17 @@ number of ions depends on how many ions each formula unit releases, so
 the same moles of a solute like magnesium chloride (three ions per
 formula unit) would give a different final answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--01-mole-hub.webp" width="900" height="1050" alt="A hub with the amount in moles (0.50 mol of CO2) in the centre and four double-headed arrows to mass (22.0 g), particles (3.01 x 10^23), gas volume (12.0 dm3) and solution concentration times volume. Each box shows the formula linking it to moles. The gas-volume route is tagged OCR and Edexcel." loading="lazy">
+  <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
+</figure>
+
+
 ## Key terms to define precisely
 
 **Relative atomic mass (Ar)** — the weighted mean mass of an atom of an
@@ -138,6 +149,12 @@ approximately 6.02 x 10²³ per mole. Keeping "amount in moles" and
 "number of particles" as two clearly separate quantities related by the
 Avogadro constant, rather than treating them as interchangeable, avoids
 one of the most common calculation errors in this sub-topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--02-relative-atomic-mass.webp" width="900" height="960" alt="Two bars show chlorine-35 at 75% and chlorine-37 at 25%. A dashed line marks the weighted mean, 35.5, nearer the taller bar. A carbon-12 atom is shown as the exact standard of 12." loading="lazy">
+  <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

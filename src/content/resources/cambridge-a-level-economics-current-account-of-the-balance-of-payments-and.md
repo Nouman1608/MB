@@ -52,6 +52,12 @@ The current account records a country's trade and income flows with the rest of 
 
 Money entering the country is a **credit**. Money leaving is a **debit**. The **balance** of any section is credits minus debits. A positive balance is a **surplus**. A negative balance is a **deficit**. An **imbalance** means a surplus or a deficit, as opposed to a balance of zero. The current account balance is the sum of the four section balances. Write deficits with a minus sign.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--01-ca-four-components.webp" width="900" height="1116" alt="Four rows for goods, services, primary income and secondary income, each with an example credit and debit from Country P. Balances are -14, +19, -9 and -9; goods and services total +5 and the current account balance is -13 bn cu, 2.5% of GDP." loading="lazy">
+  <figcaption>Each component has credits in, debits out and a balance; the four balances sum to the CAB.</figcaption>
+</figure>
+
+
 ## 6.3.2: the calculations
 
 Four results are required:
@@ -75,6 +81,12 @@ Country P, one illustrative year, bn cu:
 Goods and services: −14 + 19 = **+5**. CAB = +5 − 9 − 9 = **−13 bn cu**, a deficit. Country P's GDP is 520 bn cu, so the deficit is 13 ÷ 520 × 100 = **2.5% of GDP**.
 
 Notice the pattern. Country P earns a surplus in goods and services together, yet the account as a whole is in deficit. Interest and profit paid abroad and net transfers abroad turn it negative. Never judge the account from one line. Also, the size of a deficit means more when set against GDP, because 13 bn cu is a heavy burden for a small economy and a light one for a large economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--06-ca-cab-waterfall.webp" width="900" height="920" alt="Country P has -14 on goods, +19 on services, -9 on primary income and -9 on secondary income. Goods and services together are +5, but the current account balance is -13 bn cu, or 2.5% of GDP of 520." loading="lazy">
+  <figcaption>The four section balances add up to a current account deficit of 13 bn cu.</figcaption>
+</figure>
+
 
 ## 6.3.3: causes of imbalances
 
@@ -100,6 +112,17 @@ Country P (example 1) has imports of goods of 150 bn cu and exports of goods of 
 - New goods balance = 138.4 − 158.1 = **−19.7**, against −14 before.
 
 The goods balance worsens by about 5.7 bn cu even though both economies grew. Imports respond more strongly because the YED of imports is larger, and because the import base is larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--07-ca-growth-yed.webp" width="900" height="910" alt="Imports rise 5.4% (8.1 bn) because home income grows 3% and YED is 1.8; exports rise only 1.8% (2.4 bn). The goods balance worsens from -14 to -19.7." loading="lazy">
+  <figcaption>Faster home growth with a high import YED worsens the goods balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## 6.3.4: consequences of imbalances
 
@@ -142,6 +165,17 @@ Country P cuts government spending by 12 bn cu. Its marginal propensities are: s
 
 If the mpm were only 0.05, the multiplier would be 1 ÷ 0.45 = 2.22, income would fall by 26.7 and imports by just 1.3. The current account gains little, and the economy loses much more output. Fiscal policy is a weak tool where the mpm is low.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+
 ### Monetary policy
 
 A rise in the central bank interest rate makes borrowing dearer and saving more rewarding. Consumption and investment fall, so income and imports fall. Higher rates may also attract inflows of foreign money, raising the exchange rate. A stronger currency makes exports dearer, which can offset the gain. Lower inflation from weaker demand helps competitiveness over time.
@@ -153,6 +187,12 @@ Education, training, infrastructure and research raise productivity and quality,
 #### Worked example 4
 
 Wages rise 3% and productivity rises 8%. Unit labour cost changes by 1.03 ÷ 1.08 = 0.954, a **fall of 4.6%**. If firms pass this on and export demand has a price elasticity of 1.4, export quantity rises by about 1.4 × 4.6 = 6.5%. Imports also become less attractive compared with home goods. The effect takes years and is uncertain, but it lasts and does not reduce output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ### Protectionist policy
 
@@ -166,6 +206,27 @@ A good costs 40 cu per unit from abroad and 500 units are bought, so the payment
 - PED = −1.5: quantity falls 30% to 350. Payment to foreign suppliers = **14,000**, a fall of 6,000.
 
 A tariff reduces the outflow far more when demand is elastic. Consumers' total outlay in the first case actually rises, from 20,000 to 420 × 48 = 20,160 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--08-ca-fiscal-mpm.webp" width="900" height="876" alt="A 12 bn spending cut with mpm 0.20 cuts income 20 and imports 4. With mpm 0.05 income falls 26.7 but imports only 1.3, so the current account gains little." loading="lazy">
+  <figcaption>Fiscal contraction is a weak fix for a deficit when the marginal propensity to import is low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--09-ca-tariff.webp" width="900" height="916" alt="A 20% tariff on a 40 cu good cuts payments to foreign suppliers by 3,200 if demand is inelastic and by 6,000 if elastic. Tariff revenue goes to the government." loading="lazy">
+  <figcaption>A tariff cuts the outflow abroad far more when demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--02-ca-unit-labour-cost.webp" width="900" height="1000" alt="Wages rise 3% and productivity 8%, so unit labour cost falls 4.6% (1.03/1.08 = 0.954). With export PED 1.4, export quantity rises about 6.5%." loading="lazy">
+  <figcaption>Productivity growth above wage growth cuts unit labour cost and lifts exports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and--03-ca-interest-rate-offset.webp" width="900" height="1078" alt="A rate rise cuts consumption, income and imports (helping the account) but also attracts foreign money, raising the exchange rate and making exports dearer and imports cheaper, which offsets the gain." loading="lazy">
+  <figcaption>A higher interest rate cuts imports but lifts the currency, which works against the gain.</figcaption>
+</figure>
+
 
 ## Evaluating policies
 

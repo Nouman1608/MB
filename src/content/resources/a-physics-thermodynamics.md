@@ -72,6 +72,17 @@ component of internal energy, without necessarily changing its temperature —
 this is consistent with the flat regions of a cooling curve covered in
 Temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--09-conduction-u-values.webp" width="900" height="1190" alt="A brick slab of area 14 m2 and thickness 0.22 m has faces at 20 °C and 4 °C; energy flows from hot to cold at kAΔθ/L = 0.80 x 14 x 16 / 0.22 = 814 W. A U-value is k/L, so loss = UAΔθ. A wall of 18.5 m2 (U 0.35) and a window of 3.5 m2 (U 1.8) with 15 K difference lose 97 W and 94.5 W respectively, 192 W in total; the window is 16 percent of the area but 49 percent of the loss." loading="lazy">
+  <figcaption>Conduction rate is kAΔθ/L; U-values show how a small window can dominate energy loss.</figcaption>
+</figure>
+
+
 ## Work done by/on a gas
 
 When a gas changes volume at constant pressure, the **magnitude** of the
@@ -117,6 +128,12 @@ in internal energy:
 The gas's internal energy increases by 300 J.
 
 **Internal energy is a state function** — it depends only on the current state of the system (its temperature, for an ideal gas), never on the process or path used to reach that state. Two different routes between the same start and end states give the same ΔU, even if q and W individually differ along each route.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--08-first-law.webp" width="900" height="1270" alt="Top: a gas absorbs 500 J of thermal energy and expands, doing 200 J of work on its surroundings, so W = -200 J and the internal energy rises by 300 J. Bottom: a piston does 340 J of work on a gas while 120 J leaves by heating, so internal energy rises by 220 J. Waterfall bars show q, W and ΔU. Cambridge only: isothermal ΔU = 0, adiabatic q = 0, isobaric constant pressure, isovolumetric W = 0." loading="lazy">
+  <figcaption>ΔU = q + W, with W the work done on the gas, negative when the gas expands.</figcaption>
+</figure>
+
 
 ## Four named processes
 

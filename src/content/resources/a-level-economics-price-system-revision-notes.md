@@ -33,6 +33,12 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
   tastes, population; for supply: production costs, technology, number of producers.
 - Getting this distinction precise (not just "demand changed") is what AO1/AO2 reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--11-ds-shift-vs-movement.webp" width="900" height="980" alt="When only the good's own price falls from 4 to 3, quantity demanded extends from 20 to 25 along D. When income rises, the whole curve shifts right and quantity demanded at price 4 rises from 20 to 32." loading="lazy">
+  <figcaption>A change in own price moves along the curve; any other determinant shifts it.</figcaption>
+</figure>
+
+
 ## 2.2 Price, income and cross elasticity of demand
 
 | Measure | Responds to | Sign meaning |
@@ -47,6 +53,27 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
 - PED links directly to total revenue (the syllabus calls this **total expenditure on the product** — the same quantity, price times quantity): whether it rises or falls after a price change depends on
   whether demand is elastic or inelastic at that point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--10-ped-five-demand-shapes.webp" width="900" height="1320" alt="Five demand curve sketches: vertical (PED 0), steep (between 0 and 1), rectangular hyperbola (1), shallow (greater than 1) and horizontal (infinity)." loading="lazy">
+  <figcaption>The five named cases of PED and the demand-curve shape that goes with each.</figcaption>
+</figure>
+
+
 ## 2.3 Price elasticity of supply (PES)
 
 - Measures how responsive quantity supplied is to a change in price.
@@ -54,6 +81,12 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
   over a longer time).
 - Implications: a firm with easily expandable capacity has more elastic supply than one facing a fixed
   production constraint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## 2.4 Interaction of demand and supply
 
@@ -65,6 +98,22 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
 - Price's three functions: **rationing** scarce goods, **signalling** to producers where consumer
   preferences lie, **incentivising** producer response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-revision-notes--02-disequilibrium-pressure.webp" width="900" height="840" alt="A demand and supply diagram with equilibrium at price 5 and quantity 50. At a price of 7 quantity demanded is 30 and quantity supplied is 70, an excess supply of 40, so price is pushed down. At a price of 3 quantity demanded is 70 and quantity supplied is 30, an excess demand of 40, so price is pushed up. Both pressures point back to equilibrium." loading="lazy">
+  <figcaption>Away from equilibrium the gap between quantity demanded and supplied pushes price back toward it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
+
 ## 2.5 Consumer and producer surplus
 
 - **Consumer surplus**: difference between what consumers are willing to pay and what they actually pay.
@@ -73,6 +122,17 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
 - Both change with shifts in equilibrium: the more inelastic demand is, the greater the change in
   consumer surplus for a given supply shift, and the more inelastic supply is, the greater the change
   in producer surplus for a given demand shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--06-surplus-and-elasticity.webp" width="900" height="1290" alt="The same supply increase (supply shifts down by 1) is applied to two markets that start at price 5 and quantity 50. With inelastic demand (PED 0.5) price falls to 4.29 and consumer surplus rises by about 37. With elastic demand (PED 3.3) price falls to 4.73 and consumer surplus rises by about 15. The more inelastic demand, the larger the change in consumer surplus." loading="lazy">
+  <figcaption>The more inelastic demand is, the more a given supply shift changes consumer surplus.</figcaption>
+</figure>
+
 
 ## Exam technique for this topic
 

@@ -40,6 +40,12 @@ Links: [AQA GCSE Business hub](/boards/aqa/gcse/business/), [checklist](/checkli
 | Margin of safety | Actual output minus break-even output |
 | Asset / liability | What the business owns or is owed / what it owes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--01-hobson-break-even.webp" width="900" height="930" alt="Break-even chart for Hobson Jam Co. Revenue rises 5 pounds a jar, total costs start at 6,000 pounds fixed and rise 2 pounds a jar. They cross at 2,000 jars and 10,000 pounds. Margin of safety at 2,800 jars is 800 jars and profit is 2,400 pounds." loading="lazy">
+  <figcaption>The lines cross at 2,000 jars; selling 2,800 gives an 800-jar margin of safety.</figcaption>
+</figure>
+
+
 ## Sources of finance at a glance
 
 | Internal | External |
@@ -80,6 +86,12 @@ Method for "evaluate the suitability" questions:
 
 Model evaluation shape: "A loan gives the large sum the kiln needs and spreads repayments (point). But interest raises costs and a young firm may struggle to provide security (counter-point). Because the equipment will last for years, a loan is better than an overdraft, provided forecast sales cover repayments (judgement)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--03-treeby-hire-purchase.webp" width="900" height="770" alt="Cash price 12,000 pounds against hire purchase of a 2,000 deposit plus 24 payments of 550 (13,200), total 15,200. Extra cost 3,200 pounds; Treeby keeps 10,000 pounds free at the start." loading="lazy">
+  <figcaption>Hire purchase costs £3,200 more in total but needs only £2,000 on day one.</figcaption>
+</figure>
+
+
 ## Cash flow
 
 Formulas:
@@ -114,6 +126,17 @@ Interpreting a forecast: say whether the balance is positive or negative, which 
 | Increase inflow | Customers pay slowly or sales are weak |
 | New finance | The gap is large or long-term |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--02-calder-ridge-cash-flow.webp" width="900" height="850" alt="Bars show closing balances of 4,500, 2,500, 1,000 and 5,000 pounds for January to April, with net cash flows of -1,500, -2,000, -1,500 and +4,000. Each closing balance becomes the next opening balance. March leaves only 1,000 pounds." loading="lazy">
+  <figcaption>Closing balance = opening balance + net cash flow, so cash falls to 1,000 pounds in March.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## Costs, ARR and break-even
 
 ```
@@ -146,6 +169,12 @@ Worked reminder: break-even is 900 units and the firm sells 1,150. Margin of saf
 
 **Value of break-even analysis:** shows the sales needed to survive, helps a loan application, tests price and cost changes. **Limits:** assumes all output sells, constant price and variable cost per unit, depends on forecasts, ignores cash timing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--04-brindle-arr.webp" width="900" height="1010" alt="Returns of 22k, 28k, 30k, 30k and 30k on an 80,000 pound press. Total 140,000, profit 60,000, 12,000 a year, divided by cost 80,000 gives ARR 15%." loading="lazy">
+  <figcaption>ARR divides the average yearly profit by the cost of the investment.</figcaption>
+</figure>
+
+
 ## Financial statements
 
 **Income statement** (over a period): sales revenue, cost of sales, gross profit, expenses, net profit.
@@ -169,6 +198,12 @@ Worked reminder (Pell Joinery): sales revenue £120,000, cost of sales £78,000,
 | Net profit | 9,000 | 7.5% |
 
 **Judging performance:** compare with the same business last year, with competitors, and with what each stakeholder wants (owners: profit; lenders: ability to repay; employees: security; suppliers: prompt payment). Financial statements help managers decide and help outsiders assess the business. They cannot show quality of products, staff morale or future plans.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--05-ashwick-net-assets.webp" width="900" height="950" alt="Assets of 110,000 pounds (non-current 90,000, current 20,000). Liabilities of 60,000 (loan 40,000, current 20,000) plus net assets 50,000. Owners’ money is share capital 20,000 plus retained profit 30,000 = 50,000." loading="lazy">
+  <figcaption>Assets minus liabilities gives net assets, which equal share capital plus retained profit.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -208,6 +243,12 @@ Worked reminder (Pell Joinery): sales revenue £120,000, cost of sales £78,000,
 9. It shows assets and liabilities on one date only; the position changes the next day.
 10. Interest is high and the bank can withdraw it (either).
 11. Any two, such as a lender wanting evidence it can repay, and an employee wanting evidence the job is secure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--06-ashwick-margins.webp" width="900" height="990" alt="Last year revenue 220,000 pounds: cost of sales 143,000, expenses 55,000, net profit 22,000 (gross 35%, net 10%). This year revenue 250,000: 150,000, 70,000, 30,000 (gross 40%, net 12%). Revenue +14% but expenses +27%." loading="lazy">
+  <figcaption>Both margins rose, but expenses grew about twice as fast as revenue.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

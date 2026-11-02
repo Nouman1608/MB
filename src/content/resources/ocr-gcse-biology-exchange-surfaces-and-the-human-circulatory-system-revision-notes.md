@@ -63,6 +63,12 @@ Quick recall for OCR GCSE (9-1) Gateway Science Biology A (J247), specification 
 
 Always link the substance to what that organism needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--01-exchange-in-out.webp" width="900" height="990" alt="Four rows, single cell, fish, human and plant, each with the substances going in on the left and coming out on the right. The cell takes in oxygen, food and water and gives out carbon dioxide and wastes; the fish uses gills and gut; the human uses lungs and small intestine and loses urea; the plant takes in carbon dioxide, water and ions and gives out oxygen and water vapour." loading="lazy">
+  <figcaption>What each organism takes in and gives out, matched to its needs.</figcaption>
+</figure>
+
+
 ## Human circulatory system (B2.2c)
 
 - Left side of heart to body: aorta, arteries, capillaries, veins, vena cava, back to the right side.
@@ -71,6 +77,12 @@ Always link the substance to what that organism needs.
 - Double circulation: heart to lungs and back, then heart to body and back.
 - Link to gaseous exchange: blood is oxygenated in alveolar capillaries and loses carbon dioxide there.
 - Why double: blood loses pressure in the lung capillaries so it is returned to the heart to be pumped hard again. Keeps oxygenated and deoxygenated blood apart. Lungs receive a lower pressure that does not damage their fragile capillaries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
 
 ## Heart and vessels (B2.2d)
 
@@ -94,6 +106,32 @@ Cardiac muscle contracts and relaxes regularly without tiring. Valves stop backf
 
 **Slow flow in capillaries:** the total cross-sectional area of all capillaries is far larger than that of the aorta (the specification says about 1000 times), so flow is slow and there is time for diffusion. Do not blame narrow width alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--07-wall-lumen.webp" width="900" height="880" alt="An artery (wall 1.2 mm, lumen 4.8 mm) and a vein (wall 0.3 mm, lumen 6.0 mm) are drawn to scale. Wall divided by lumen is 0.25 for the artery and 0.05 for the vein, five times smaller." loading="lazy">
+  <figcaption>Drawn to scale, the artery wall is far thicker relative to its lumen than the vein wall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--02-capillary-area.webp" width="900" height="910" alt="One square is the aorta’s cross-sectional area; a block of 1000 squares is all the capillaries together. The same flow spread over about 1000 times the area moves slowly, giving time for exchange." loading="lazy">
+  <figcaption>The capillaries’ combined cross-sectional area is about 1000 times the aorta’s, so blood slows and diffusion has time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--03-vessels-oxygen.webp" width="900" height="840" alt="A two-by-two grid separates arteries and veins and oxygenated and deoxygenated blood. The aorta and pulmonary vein carry oxygenated blood; the pulmonary artery and vena cava carry deoxygenated blood. The pulmonary vein is marked as the exception to veins carrying deoxygenated blood." loading="lazy">
+  <figcaption>The pulmonary vein is a vein that carries oxygenated blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+
 ## Blood (B2.2e)
 
 | Part | Adaptation | Reason |
@@ -102,6 +140,12 @@ Cardiac muscle contracts and relaxes regularly without tiring. Valves stop backf
 | Red blood cell | No nucleus | More space for haemoglobin |
 | Red blood cell | Haemoglobin | Picks up oxygen at the lungs and gives it up in the tissues |
 | Plasma | Mostly water, a solvent | Carries dissolved carbon dioxide, glucose, amino acids, mineral ions, urea, hormones |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--08-red-cell-adaptations.webp" width="900" height="910" alt="Side view of a red blood cell as a biconcave disc, thinner in the middle, with no nucleus and haemoglobin dots inside. Oxygen molecules diffuse in across the large surface, and notes give the three adaptations in the lesson." loading="lazy">
+  <figcaption>A biconcave, nucleus-free, flexible cell carries oxygen as haemoglobin.</figcaption>
+</figure>
+
 
 ## Rates and graphs
 
@@ -123,6 +167,22 @@ Rate = amount ÷ time. A pulse of 41 beats in 30 s is 41 × 2 = 82 beats per min
 Cubes of agar with indicator are placed in acid. After a set time the acid has reached 2 mm in from every face. For a 10 mm cube the unaffected core is 10 − 4 = 6 mm across, so its volume is 6 × 6 × 6 = 216 mm³. The cube volume is 1000 mm³, so 21.6% is unaffected and 78.4% has been reached. For a 20 mm cube the core is 16 mm across: 4096 mm³ of 8000 mm³, so 51.2% unaffected and 48.8% reached.
 
 Conclusion: the smaller cube is reached more completely in the same time because it has the larger SA : V ratio and a shorter distance from surface to centre. This is the model for why large organisms need transport systems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--05-sav-cubes.webp" width="900" height="980" alt="Cubes with sides 1, 6, 12 and 24 mm are drawn to scale. A bar chart shows surface area to volume falling from 6 to 1, 0.5 and 0.25." loading="lazy">
+  <figcaption>As a cube gets bigger its surface area to volume ratio falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--06-shape-sav.webp" width="900" height="790" alt="A flat 12 by 5 by 1 mm block and a compact 5 by 4 by 3 mm block both have volume 60 cubic millimetres. The flat block has surface area 154 mm2 and ratio 2.6 to 1, the compact one 94 mm2 and 1.6 to 1." loading="lazy">
+  <figcaption>For the same volume, the flatter shape has the larger ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--04-agar-cube-acid.webp" width="900" height="845" alt="Cross-sections of a 10 mm and a 20 mm agar cube left in acid for the same time. The small cube has a ratio of 0.6 to 1 and 93.6 percent has changed colour; the large cube has 0.3 to 1 and 65.7 percent has changed." loading="lazy">
+  <figcaption>In the same time the acid reaches more of a small cube, because its surface area to volume ratio is larger.</figcaption>
+</figure>
+
 
 ## Answer frames
 
@@ -161,6 +221,12 @@ Conclusion: the smaller cube is reached more completely in the same time because
 8. Urea.
 9. Tricuspid (right) and bicuspid (left).
 10. Their total cross-sectional area is much larger than the aorta's.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

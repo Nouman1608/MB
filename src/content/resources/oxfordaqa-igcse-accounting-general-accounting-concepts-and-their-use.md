@@ -56,6 +56,12 @@ Every transaction has two effects, a debit in one account and an equal credit in
 
 Assets are recorded at the price actually paid when they were bought, not at what they might be worth later. Marnham Cycles buys its workshop land for 40,000. Its value is now estimated at 65,000, but the statement of financial position still shows 40,000. The figure is objective and can be checked against an invoice, but it can become out of date.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-concepts-historic-cost.webp" width="900" height="940" alt="Bars show a van costing 22,000, then 16,500 and 12,375 after two years of 25% reducing balance depreciation. A dashed bar shows a dealer value of 15,500 that is not recorded." loading="lazy">
+  <figcaption>The statement shows 12,375 because historic cost ignores the dealer value.</figcaption>
+</figure>
+
+
 ### Going concern
 
 Unless evidence says otherwise, the accounts are prepared on the footing that trading will carry on into the foreseeable future. This is why assets such as equipment are valued on the basis of being used, and why a prepayment is carried forward as an asset. If a business were about to close, assets would instead be valued at what they would fetch if sold.
@@ -80,6 +86,12 @@ An item is material when a mistake in it or its omission could alter what a read
 
 Revenue is recognised when the goods are delivered or the service is performed and the customer becomes liable to pay, not when the order is placed and not necessarily when the cash arrives. An order received in December for goods delivered in January is January revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--05-gc-ten-concepts.webp" width="900" height="1060" alt="Ten cards with a small picture and one-line definition: business entity, money measurement, duality, historic cost, going concern, accruals, consistency, prudence, materiality and realisation, using the lesson examples (land 40,000 not 65,000; a 14 dollar stapler)." loading="lazy">
+  <figcaption>The ten named concepts at a glance.</figcaption>
+</figure>
+
+
 ## The concepts in use
 
 ### Situation 1: preparation of financial statements
@@ -87,6 +99,17 @@ Revenue is recognised when the goods are delivered or the service is performed a
 The statements bring many concepts together. The income statement matches expenses to the year (accruals), uses the same methods each year (consistency), and does not anticipate profit from sales not yet made (realisation). The statement of financial position shows assets at historic cost less depreciation, assumes going concern, and shows only business items (business entity).
 
 Worked example. Vessling Print's year ends on 31 December. It paid insurance of 3,600 on 1 November, covering 12 months. The expense belonging to the current year is 3,600 × 2/12 = 600. The remaining 3,000 relates to the next ten months, so it is shown as an other receivable (prepayment) in current assets. At year end the business also owes 640 for electricity. In the income statement the expense is increased by 640, and 640 is shown as an other payable in current liabilities. Accruals explains both; the going concern assumption explains why the prepayment is carried forward as an asset.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--05-accruals-vessling.webp" width="900" height="800" alt="Insurance of 3,600 paid on 1 November covers 12 months, so 2 months or 600 is this year expense and 3,000 is a prepayment asset. Electricity of 640 is used but unpaid, so the expense rises by 640 and an other payable is created." loading="lazy">
+  <figcaption>Accruals puts each expense in the year it belongs to, whenever the cash moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--09-gc-accruals-year-end.webp" width="900" height="700" alt="Insurance of 3,600 paid 1 November covers 12 months: 2 months, 600, is this year expense and 3,000 is a prepayment carried forward. The 640 owed for electricity raises the expense by 640 and is an other payable." loading="lazy">
+  <figcaption>Accruals puts each cost in the year it belongs to, creating prepayments and other payables.</figcaption>
+</figure>
+
 
 ### Situation 2: asset valuation
 
@@ -105,6 +128,17 @@ Worked example. Marnham Cycles buys a machine for 18,000 and expects to scrap it
 
 Straight line gives the same charge every year; reducing balance gives a bigger charge early on. Either is acceptable. Applying the chosen one every year is consistency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--07-depreciation-18000-machine.webp" width="900" height="770" alt="Two bars each represent the 18,000 cost. Straight line charges 3,000 in years 1 and 2, leaving 12,000. Reducing balance at 25 percent charges 4,500 then 3,375, leaving 10,125." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges more early on.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--07-gc-depreciation-two-methods.webp" width="900" height="962" alt="A machine costing 18,000 with scrap 3,000 over 5 years: straight line charges 3,000 a year (net book value 15,000 then 12,000); reducing balance at 25% charges 4,500 then 3,375 (net book value 13,500 then 10,125)." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges more early.</figcaption>
+</figure>
+
+
 ### Situation 4: inventories at cost or net realisable value
 
 Net realisable value is the expected selling price less any costs needed to make the item saleable and to sell it. Each line of inventory is taken at cost or net realisable value, whichever is lower. This is prudence: a loss is recognised as soon as it is foreseen, but a gain is not.
@@ -119,11 +153,33 @@ Worked example. Marnham Cycles has two lines in inventory at the year end.
 
 Batch A is written down by 250 and batch B stays at cost. Closing inventory is 1,750, so cost of sales is 250 higher and profit is 250 lower than if cost had been used for both. Do not add the two net realisable values: the rule applies line by line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--06-inventory-line-by-line.webp" width="900" height="730" alt="Frames cost 1,200 but net realisable value is 950 (1,300 less 350 repair), so 950 is used. Wheels cost 800 with net realisable value 1,100, so 800 is used. Closing inventory is 1,750, which is 250 below cost." loading="lazy">
+  <figcaption>Take the lower of cost and net realisable value for each line, not for the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--06-gc-prudence-in-action.webp" width="900" height="900" alt="Frames cost 1,200 but NRV 950, so 950 is used; wheels cost 800 with NRV 1,100, so 800 is used; closing inventory is 1,750, 250 below cost. Separately, receivables of 12,000 with 5 percent doubtful give a 600 provision and 11,400 shown." loading="lazy">
+  <figcaption>Prudence writes losses down early: inventory line by line and a provision on receivables.</figcaption>
+</figure>
+
+
 ### Situation 5: recording the purchase of non-current assets
 
 Capital expenditure buys or improves a non-current asset and is recorded in an asset account. Revenue expenditure keeps the business running and goes to the income statement. Under historic cost, all costs needed to bring the asset into use are part of its cost.
 
 Worked example. Marnham Cycles buys a machine for 18,000, pays 300 delivery and 500 installation, and pays 120 to service another machine. The machine's cost is 18,000 + 300 + 500 = 18,800, and the 120 service is revenue expenditure. The entry is a debit to machinery of 18,800 and a credit to bank of 18,800. A purchase of a stapler for 14 would be expensed because of materiality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--08-capital-cost-18800.webp" width="900" height="790" alt="A bar to scale shows machine 18,000, delivery 300 and installation 500 adding to an asset cost of 18,800. The 120 service is revenue expenditure and the 14 stapler is expensed under materiality." loading="lazy">
+  <figcaption>Costs of bringing an asset into use are capital; running costs and trivial items are expensed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--08-gc-capital-or-revenue.webp" width="900" height="690" alt="Machine 18,000 plus delivery 300 and installation 500 make capital expenditure of 18,800, debited to Machinery and credited to Bank. The 120 service and the 14 stapler are expensed in the income statement, a total of 134." loading="lazy">
+  <figcaption>Costs to bring an asset into use are capitalised; running costs and trivial items are expensed.</figcaption>
+</figure>
+
 
 ### Situation 6: recording transactions in ledger accounts
 
@@ -140,6 +196,12 @@ Posting the account on the usual two-sided layout:
 | Total | 2,900 | Total | 2,900 |
 
 The charge of 2,520 is 2,260 + 640 - 380. The other side of each posting is a credit or debit elsewhere, which is duality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--09-electricity-account.webp" width="900" height="584" alt="Debit side: bank 2,260 and balance carried down 640. Credit side: balance brought down 380 and 2,520 transferred to the income statement. Both sides total 2,900." loading="lazy">
+  <figcaption>The charge is paid plus closing owing minus opening owing: 2,260 + 640 - 380 = 2,520.</figcaption>
+</figure>
+
 
 ## Provision for doubtful debts: prudence in action
 

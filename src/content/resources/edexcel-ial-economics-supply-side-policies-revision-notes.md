@@ -45,6 +45,42 @@ Supply-side policies aim to raise potential output, shown as a rightward shift o
 
 Rule of thumb: free market policies shrink the state's role; interventionist policies use state money or action to correct a market failure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--01-subsidy-deadweight.webp" width="900" height="880" alt="Fifty firms receive a 15% subsidy on 4 million currency units of machinery. Twenty (marked +) invest only because of it; thirty (dashed) would have bought anyway. Cost to government is 30 million, extra investment caused is 80 million, and 18 million is deadweight. Cost per currency unit of extra investment is 0.375." loading="lazy">
+  <figcaption>Only the firms that change behaviour count: 30 of the 50 subsidised firms would have invested anyway.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--02-tax-cut-revenue.webp" width="900" height="820" alt="Revenue is rate times base. At 40% on a base of 200 billion revenue is 80. At 35% on 220 it is 77: a 10 billion strip is lost across the top and a 7 billion strip gained on the right. The base must reach 228.6 billion (+14.3%) to restore 80." loading="lazy">
+  <figcaption>A tax cut raises revenue only if the base grows enough to refill the strip that was given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--03-benefit-replacement-rate.webp" width="900" height="840" alt="Net pay from a job is 192. With benefit 144 the gain from working is 48 and the replacement rate is 75%. Cutting benefit to 120 raises the gain to 72 (+50%) and lowers the replacement rate to 62.5%. It helps only if jobs exist." loading="lazy">
+  <figcaption>A benefit cut widens the gap between work and benefits, but only helps if there are vacancies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--04-trend-growth-compounding.webp" width="900" height="810" alt="Potential output index starts at 100. After ten years it is 128.0 at 2.5% a year and 134.4 at 3.0% a year, so potential is 5.0% higher with the faster trend." loading="lazy">
+  <figcaption>A small rise in the trend rate compounds into a large gap, so even slow policies can be worth it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--09-ssp-free-market-vs-interventionist.webp" width="900" height="780" alt="Free market: cut taxes, deregulate, privatise, change welfare payments, cut red tape. Interventionist: education and training, investment incentives (tax relief or subsidy), infrastructure, start-up finance, regional policy. A tax cut is free market." loading="lazy">
+  <figcaption>A tax cut is a free market policy; a tax incentive or subsidy for investment is interventionist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--11-ssp-regional-unemployment.webp" width="900" height="730" alt="A labour force of 2.0 million drawn as 100 squares of 20,000. Nine squares (9%) are unemployed; 40,000 jobs cover two squares, leaving seven (7%)." loading="lazy">
+  <figcaption>40,000 local jobs cut unemployment from 9% to 7%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--12-ssp-privatisation-unit-cost.webp" width="900" height="800" alt="A state rail firm has unit cost 50; privatised it is 44, down 12%. Passengers gain only if the 6 saving reaches prices." loading="lazy">
+  <figcaption>Lower unit cost helps passengers only if competition or regulation passes it on.</figcaption>
+</figure>
+
+
 ## Policy cards
 
 **Deregulation.** Chain: fewer barriers to entry, more firms, more competition, lower costs and prices, higher productivity. Labour version: easier hiring raises labour mobility and lowers the cost of taking on workers. Weakness: less protection for workers, consumers and the environment.
@@ -120,6 +156,12 @@ Time lag, cost and opportunity cost, size of the response, equity, certainty, an
 
 **Short model paragraph.** Training subsidies raise the skills of workers, so output per worker rises and LRAS shifts right. The effect is slow, because trained workers take years to arrive, and costly, because the budget has to find the money. A tax cut could act faster but it favours higher earners and loses revenue. Which is better depends on whether the main problem is skills or the reward for working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--10-ssp-productivity-worked.webp" width="900" height="840" alt="Output per worker rises from 40,000 to 42,000 (+5.0%) with 12.0 million workers; per hour at 1,600 hours it rises from 25.00 to 26.25." loading="lazy">
+  <figcaption>Productivity rose 5.0% whether measured per worker or per hour (state which).</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Free market versus interventionist: tax reductions are free market; tax incentives or subsidies for investment are interventionist.
@@ -152,6 +194,12 @@ Time lag, cost and opportunity cost, size of the response, equity, certainty, an
 8. (36 / 40 - 1) x 100 = -10%.
 9. Any two: long time lag; high cost and opportunity cost; skills may not match employers' needs; trained workers may leave the area or country.
 10. With the price level up the side and real output along the bottom, the vertical LRAS curve shifts right from Y1 to Y2, so potential output rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -67,6 +67,17 @@ Figures are in billions of K-units, and GDP is 650.
 
 The central idea: the whole balance of payments always balances. A current account deficit is paid for by net inflows on the capital and financial accounts, meaning foreigners lend to the country or buy its assets. When people say "a deficit", they usually mean the current account unless told otherwise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--01-bop-accounts.webp" width="900" height="888" alt="Horizontal bars for Country K in billions of K-units. Goods -48, services +30, primary income +6 and secondary income -14 give a current account of -26. The capital account +2, financial account +21 and errors and omissions +3 bring the total to zero." loading="lazy">
+  <figcaption>A current account deficit is paid for by net inflows on the capital and financial accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## Deficits and surpluses: why they matter
 
 ### A persistent current account deficit
@@ -87,6 +98,17 @@ Suppose Country K runs a current account deficit of 4% of GDP every year, and no
 A surplus is not simply good. It can mean weak domestic demand and low consumption. It may lift AD and inflation when exports boom, and it can create tension with trading partners who run the matching deficits. The currency may also be pushed up, which erodes competitiveness.
 
 **Evaluation:** judge a deficit or surplus by its size relative to GDP, how long it lasts, what causes it (temporary or structural, such as imports of capital goods that raise future output) and how easily it is financed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--08-bop-deficit-sustainability.webp" width="900" height="810" alt="Line graph of net foreign liabilities as a percentage of GDP over 60 years for a steady 4 percent of GDP deficit. With 5 percent nominal growth liabilities level off towards 80 percent of GDP; if growth falls to 2 percent they head towards 200 percent. Lines come from the recurrence debt = (previous debt + 4) / (1 + growth)." loading="lazy">
+  <figcaption>A steady deficit settles at deficit divided by growth, so growth matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## FDI and portfolio investment
 
@@ -119,6 +141,22 @@ The conclusion is that FDI helps the current account most when it earns export r
 ### Worked example 4: a portfolio reversal
 
 Country K's current account deficit is 26 billion. Portfolio flows swing from +10 to -6, a swing of 16 billion. Unless other inflows rise, a financing gap of 16 billion opens. It can be met by using foreign exchange reserves, by raising interest rates to attract funds, or by a falling exchange rate. This is why portfolio flows can destabilise an economy that relies on them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--06-bop-fdi-vs-portfolio.webp" width="900" height="1000" alt="A factory icon for FDI and a share certificate icon for portfolio investment. FDI aims at control and a long-term presence and is hard to reverse and relatively stable. Portfolio investment seeks a financial return without control, is easy to sell and can reverse quickly. The small bar charts of yearly inflows are schematic, not data." loading="lazy">
+  <figcaption>FDI is a lasting stake in productive assets; portfolio investment is a tradable financial asset that can leave quickly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--07-bop-portfolio-reversal.webp" width="900" height="830" alt="Number line of portfolio flows in billions. Before: +10. After a reversal: -6. The 16 billion swing opens a financing gap while the 26 billion current account deficit is unchanged. The gap can be met by spending reserves, raising interest rates or a falling currency." loading="lazy">
+  <figcaption>A swing in portfolio flows from +10 to -6 leaves a 16bn gap to finance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--09-bop-fdi-plant-year.webp" width="900" height="850" alt="Waterfall. In the year of investment the financial account gains 120 million once. Each later year the plant exports 30, imports 12 of inputs and sends 10 of profit abroad, so the current account effect is +8 million." loading="lazy">
+  <figcaption>A foreign plant adds 8m a year to the current account after imported inputs and profits sent abroad.</figcaption>
+</figure>
+
 
 ## Policies to deal with balance of payments problems
 
@@ -153,6 +191,17 @@ In the elastic case, the balance improves by about 15. In the inelastic case the
 A tariff of 15% on goods imports with import PED 0.8 cuts volume by 0.8 × 15 = 12%. The goods import bill, before tariff, falls from 228 to 228 × 0.88 = 200.64. Retaliation or a lack of home substitutes would weaken this, and higher prices fall on consumers and on firms that import inputs.
 
 **Supply-side policies**, such as investment in skills and infrastructure, work slowly but lift productivity and quality. They improve competitiveness without cutting living standards, and they raise the elasticity of supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--02-depreciation-elasticity.webp" width="900" height="711" alt="Bars of the trade balance. Starting at -18, a 10 percent currency fall gives -3.01 if trade is elastic but -26.40 if it is inelastic, because the import bill rises faster than export volume." loading="lazy">
+  <figcaption>With inelastic demand a falling currency can worsen the trade balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--10-bop-expenditure-reducing.webp" width="900" height="760" alt="Three bars. To cut imports by 8 billion with MPM 0.3, income must fall by 26.67 billion. With a multiplier of 1.8, AD must be cut by 14.81 billion. Income falls about 3.3 times as much as the imports saved." loading="lazy">
+  <figcaption>Cutting imports through lower spending costs far more income than the imports saved.</figcaption>
+</figure>
+
 
 ## Effects on other policy objectives
 

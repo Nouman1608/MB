@@ -59,6 +59,12 @@ Where they go:
 
 **Quick check.** A bakery factory has flour in the store, dough that has been mixed but not baked, and baked loaves in the despatch room. These are raw materials, work-in-progress and finished goods in that order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--01-mfg-three-inventories-six-figures.webp" width="900" height="860" alt="Three columns for a furniture maker, in dollars. Raw materials opened at 12,400 and closed at 14,100; work-in-progress opened at 6,800 and closed at 8,300; finished goods opened at 21,500 and closed at 18,900. Raw materials and work-in-progress are adjusted in the manufacturing account, finished goods in the income statement. All three closing figures are current assets, together 41,300." loading="lazy">
+  <figcaption>Three inventories give six figures, adjusted in two different statements.</figcaption>
+</figure>
+
+
 ## 2. Classifying the costs (4.5 b)
 
 A manufacturing account collects the costs of making goods. Sort each cost into one of two groups.
@@ -78,6 +84,12 @@ A manufacturing account collects the costs of making goods. Sort each cost into 
 
 Costs of the office, the shop or the sales team are **not** factory overheads. They go in the income statement as expenses. Be ready for one cost to be split. If a question says a share of the rent relates to the factory, only that share goes in the manufacturing account and the rest goes in the income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--03-mfg-which-cost-odlington.webp" width="900" height="830" alt="Direct costs make prime cost of 157,800: raw materials consumed 94,900, manufacturing wages 58,400 and machine hire 4,500. Factory overheads total 50,950: indirect wages 17,200, power 9,600, rent 12,000, depreciation 8,400 and maintenance 3,750. Office, shop and sales costs are not factory costs and go in the income statement." loading="lazy">
+  <figcaption>Direct costs make prime cost; factory overheads are added later; office costs stay out.</figcaption>
+</figure>
+
+
 ## 3. Raw materials consumed
 
 Raw materials consumed is what was used in production, not what was bought.
@@ -92,6 +104,12 @@ Opening inventory of raw materials
 ```
 
 Carriage inwards is the cost of delivery to the factory, so it adds to the cost of the materials. Carriage outwards is a cost of delivering to customers and does not belong here. Returns outwards are goods sent back to the supplier, so they reduce the cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--02-mfg-raw-materials-consumed-odlington.webp" width="900" height="885" alt="A waterfall in dollars: opening 12,400, plus purchases 96,300, plus carriage inwards 2,100, less returns outwards 1,800, less closing inventory 14,100, gives raw materials consumed of 94,900." loading="lazy">
+  <figcaption>Raw materials consumed, not purchases, goes into prime cost.</figcaption>
+</figure>
+
 
 ## 4. The layout and the three figures
 
@@ -208,6 +226,17 @@ GROSS PROFIT                                      102,650
 
 **Step 7: the statement of financial position.** The current assets include inventories of 14,100 raw materials, 8,300 work-in-progress and 18,900 finished goods, together 41,300.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--04-mfg-prime-total-production-cost.webp" width="900" height="1108" alt="A waterfall in dollars. Raw materials consumed 94,900 plus manufacturing wages 58,400 plus machine hire 4,500 gives prime cost 157,800. Adding factory overheads 50,950 gives total cost 208,750. Adding opening work-in-progress 6,800 and deducting closing work-in-progress 8,300 gives production cost 207,250." loading="lazy">
+  <figcaption>Prime cost, total cost and production cost are built up in stages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--05-mfg-production-cost-to-gross-profit.webp" width="900" height="930" alt="Opening finished goods 21,500 plus production cost 207,250, less closing finished goods 18,900, gives cost of sales 209,850. Revenue 312,500 less cost of sales leaves gross profit 102,650. Production cost takes the place of purchases." loading="lazy">
+  <figcaption>Production cost replaces purchases and finished goods are adjusted in the income statement.</figcaption>
+</figure>
+
+
 ## 6. Worked example: apportioning and finding a missing figure
 
 Zeltham Bicycle Frames pays rent and rates of 24,000 for the whole site and insurance of 6,000. Three-quarters of the rent and rates and two-thirds of the insurance relate to the factory.
@@ -221,6 +250,12 @@ Now a missing figure. Zeltham has a prime cost of 84,000, factory overheads of 3
 
 - Total cost = 84,000 + 31,500 = 115,500.
 - Production cost = total cost + opening work-in-progress - closing work-in-progress, so closing work-in-progress = 115,500 + 5,200 - 118,300 = **2,400**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--06-mfg-factory-share-apportion.webp" width="900" height="830" alt="Two bars in dollars on one scale. Rent and rates of 24,000: three quarters, 18,000, is factory and 6,000 is office. Insurance of 6,000: two thirds, 4,000, is factory and 2,000 is office. Factory shares go in the manufacturing account; office shares in the income statement." loading="lazy">
+  <figcaption>Only the factory share of a shared cost goes in the manufacturing account.</figcaption>
+</figure>
+
 
 ## Common errors
 

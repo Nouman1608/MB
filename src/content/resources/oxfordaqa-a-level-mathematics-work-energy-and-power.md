@@ -113,6 +113,17 @@ v² = 46.97...      v = 6.85 m s⁻¹ (3 s.f.)
 3. Add them and set the total equal to final KE minus initial KE.
 4. Solve, then check the sign and size of the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--03-work-energy-slope.webp" width="900" height="870" alt="All boards. 12 kg crate, 90 N pull, 25 N resistance, 15 m up 20°: 1350 J of work becomes 603.3 J PE, 371.7 J KE and 375 J lost to resistance, v = 7.87 m/s." loading="lazy">
+  <figcaption>The work done by the driving force is shared between PE, KE and work against resistance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--04-energy-along-motion.webp" width="900" height="890" alt="All boards. 0.8 kg slides down a smooth 2.5 m drop (energy conserved, 7 m/s), then 4 N resistance removes 19.6 J over 4.9 m." loading="lazy">
+  <figcaption>Mechanical energy is conserved on a smooth slide and removed steadily by a constant resistance.</figcaption>
+</figure>
+
+
 ## 4. Conservation of mechanical energy
 
 If the only forces that do work are gravity and conservative forces (no friction, drag or driving force), the total of KE and GPE stays constant:
@@ -144,6 +155,12 @@ work against resistance = 98 − 81 = 17 J
 R × 20 = 17          R = 0.85 N
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--07-direct-impact.webp" width="900" height="930" alt="Edexcel IAL only. 2 kg at 5 m/s hits 3 kg at 1 m/s with e = 0.6: speeds 1.16 and 3.56 m/s, KE 26.5 J to 20.356 J." loading="lazy">
+  <figcaption>Use conservation of momentum and the restitution law together; kinetic energy is lost when e &lt; 1.</figcaption>
+</figure>
+
+
 ## 5. Power
 
 Power is the rate at which a force does work. The unit is the watt, W (1 W = 1 J s⁻¹).
@@ -171,6 +188,22 @@ Often F is the driving force of an engine. For a car, the resultant force is F �
 **Example 7.** A motor raises an 80 kg load at a steady 1.5 m s⁻¹. The tension equals the weight, 80 × 9.8 = 784 N, so the power output is 784 × 1.5 = 1176 W.
 
 Do not confuse these: work is in joules and power is in watts. A kilowatt is 1000 W, so convert before using P = Fv.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--01-work-component.webp" width="900" height="740" alt="All boards. Force 40 N at 35° moves a trolley 12 m: components 32.8 N and 22.9 N, work 40×12×cos 35° = 393 J (OxfordAQA example 1)." loading="lazy">
+  <figcaption>Only the component of the force along the motion does work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--02-sign-of-work.webp" width="900" height="860" alt="All boards (OxfordAQA lesson table). Force at 0°, 90° and 180° to the motion gives work +Fd, 0 and −Fd." loading="lazy">
+  <figcaption>Work is positive along the motion, zero at right angles and negative against it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--05-power-force-speed.webp" width="900" height="1010" alt="All boards. Car 900 kg, 24 kW, resistance 600 N, sin α = 1/20: F = P/v meets the needed 1041 N at 23.1 m/s; at 15 m/s F = 1600 N and a = 0.621 m/s²." loading="lazy">
+  <figcaption>A faster car has less driving force, and steady speed is where P/v equals the force needed.</figcaption>
+</figure>
+
 
 ## Common errors
 

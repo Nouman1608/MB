@@ -58,6 +58,22 @@ Mitosis is the division part of the cycle. Interphase is not a resting stage: mo
 
 The four times add up to 20.0 hours, which is a useful check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
+</figure>
+
+
 ## 3.2.10.2 Mitosis
 
 Mitosis produces two daughter cells, each with DNA identical to the parent cell. The spindle is made of fibres that attach to the **centromere** of each chromosome.
@@ -82,6 +98,17 @@ The key point in anaphase is that spindle fibres attached to centromeres shorten
 If the DNA mass of a G1 nucleus is 4.6 pg, it is 9.2 pg after S phase and 4.6 pg in each daughter cell. It never changes during mitosis itself; it halves only when the cell divides.
 
 **Recognising stages.** Describe what you see rather than guess: are chromosomes visible? Are they in a line, in two groups, or scattered? A cell with a line of chromosomes across the middle is metaphase. Chromosomes in two groups near opposite sides, with a nucleus forming around each, are telophase. If they are still moving apart, with a V shape, it is anaphase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
 
 ## 3.2.10.3 Binary fission
 
@@ -114,6 +141,17 @@ mRNA: AUG GGA CUU ACA AAG CCU UAG. Amino acids: Met - Gly - Leu - Thr - Lys - Pr
 - **Substitution in the first base of codon 3** (CUU becomes GUU): the codon now codes for Val. One amino acid changes; the rest are the same.
 - **Substitution in the first base of codon 5** (AAG becomes UAG): UAG is a stop codon, so the chain is Met - Gly - Leu - Thr only.
 - **Deletion of the fifth base of the mRNA sequence** (the G of GGA, corresponding to a C on the template): reading in threes gives AUG GAC UUA CAA AGC CUU, which is Met - Asp - Leu - Gln - Ser - Leu. Four of the five amino acids after the first have changed; the third happens to be Leu again because UUA and CUU both code for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--08-gene-mutation-effects.webp" width="900" height="1090" alt="An mRNA read in codons codes Met, Gly, Leu, Thr, Lys, Pro then stop. A silent substitution leaves the protein unchanged, another changes one amino acid to Val, another makes an early stop codon, and a deletion shifts every codon after it." loading="lazy">
+  <figcaption>Substitutions may change one amino acid or nothing; a deletion changes everything after it.</figcaption>
+</figure>
+
 
 ## 3.2.11.2 Mutations and cancers
 
@@ -176,6 +214,12 @@ Safety: handle acid and stains with care; wear eye protection.
 Total cells = 312 and cells in mitosis = 35. Mitotic index = 35 / 312 = 0.112, or **11.2%**.
 
 Pool all fields before dividing; do not average the five percentages. A larger count reduces the effect of chance. Count cells at the same distance from the tip each time, because the dividing region is just behind the tip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
 
 ## Common errors
 

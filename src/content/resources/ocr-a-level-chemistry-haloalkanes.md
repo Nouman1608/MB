@@ -42,6 +42,12 @@ A haloalkane has a halogen atom, X, bonded to an sp³ carbon in an alkane chain.
 
 Halogens are more electronegative than carbon. The bonding pair is pulled towards X, so the bond is polar: Cδ+–Xδ−. That δ+ carbon is the site of attack in every substitution reaction in this section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+
 ## 4.2.2(b): Nucleophiles
 
 A **nucleophile** is an electron pair donor. It has a lone pair of electrons, often with a negative charge, and it is attracted to an electron-deficient (δ+) carbon atom. When it donates its lone pair, a new covalent bond forms.
@@ -77,6 +83,12 @@ Question: 9.06 g of 1-bromo-3-methylbutane, (CH₃)₂CHCH₂CH₂Br, is heated 
 6. Mr of C₅H₁₂O = 88.0, so the theoretical mass = 0.0600 × 88.0 = 5.28 g
 7. Percentage yield = 3.96 ÷ 5.28 × 100 = **75.0%**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
+
 ## 4.2.2(c): The nucleophilic substitution mechanism
 
 The specification asks for the mechanism with aqueous alkali on a **primary** haloalkane. You show it with curly arrows, and each arrow shows the movement of an electron pair (4.1.1(h)–(i)). Include the dipole on the C–X bond. A curly arrow must start from a lone pair, a bond or a negative charge.
@@ -103,6 +115,22 @@ The steps, in order:
 ```
 
 The nucleophile attacks from the side opposite the halogen, and the new bond forms as the old one breaks. Name the overall process **nucleophilic substitution**: a nucleophile has replaced the halogen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--03-ammonia-mechanism.webp" width="900" height="910" alt="Step 1: the N lone pair attacks C and the C-Br pair moves to Br, giving CH3CH2NH3+ and Br-. Step 2: a second NH3 takes H+, giving ethylamine and NH4+." loading="lazy">
+  <figcaption>Ammonia acts twice, first as a nucleophile and then as a base, giving ethylamine and NH4+ (AQA, Edexcel, OxfordAQA; OCR teaches it later).</figcaption>
+</figure>
+
 
 ## 4.2.2(a)(ii): Hydrolysis by water, with AgNO₃ and ethanol (PAG7)
 
@@ -170,6 +198,12 @@ Ozone in the stratosphere absorbs much of the Sun's harmful ultraviolet radiatio
 Example from the specification: CF₂Cl₂ → CF₂Cl• + •Cl
 
 Use a dot for every species with one unpaired electron (4.1.1(g)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ### Worked example 4: a different chlorine source
 

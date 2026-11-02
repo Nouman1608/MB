@@ -42,6 +42,17 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 
 Small reminder: a chain of 30 units has 29 peptide bonds and loses 29 water molecules. New units are added at the carboxyl end of the growing chain, and a dipeptide has one amine end and one carboxyl end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--02-condensation.webp" width="900" height="920" alt="Two amino acids are drawn with the OH of the first carboxyl group and an H of the second amine group highlighted as the atoms that leave. The product dipeptide has a covalent peptide bond between the carboxyl carbon and the amine nitrogen, a free amine end and a free carboxyl end, plus one water molecule." loading="lazy">
+  <figcaption>Condensation joins two amino acids by a peptide bond and releases one water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--08-core-surface.webp" width="900" height="1100" alt="Top: a soluble globular protein in water with non-polar amino acids (squares) in the core and polar amino acids (circles) facing the water. Bottom: an integral membrane protein whose middle band of non-polar amino acids sits in the hydrophobic centre of a phospholipid bilayer, with polar amino acids at both ends in water." loading="lazy">
+  <figcaption>Hydrophobic amino acids sit in the core or the bilayer; polar ones face water.</figcaption>
+</figure>
+
+
 ## Diet and variety (B1.2.3 to B1.2.4)
 
 - Essential amino acids cannot be made and must be eaten. Non-essential ones can be made from other amino acids. You need no named examples.
@@ -49,6 +60,12 @@ Small reminder: a chain of 30 units has 29 peptide bonds and loses 29 water mole
 - The genetic code specifies twenty different amino acids. Chains can be a few to thousands long and the order is free.
 - Number of sequences of length n = 20^n. Dipeptides 400, tripeptides 8000, tetrapeptides 160 000.
 - Examples of polypeptides: insulin chains, the polypeptides of collagen and haemoglobin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--03-sequences.webp" width="900" height="1040" alt="Each position can hold any of 20 amino acids, so dipeptides number 400 and tripeptides 8000. A bar chart on a log scale gives the size of 20 to the power n for chains of 2, 3, 12 and 100 units: 400, 8000, about 4.1 x 10^15 and about 1.3 x 10^130." loading="lazy">
+  <figcaption>The number of possible sequences, 20^n, grows so fast that variety is effectively unlimited.</figcaption>
+</figure>
+
 
 ## pH, temperature and denaturation (B1.2.5)
 
@@ -67,6 +84,12 @@ Small reminder: a chain of 30 units has 29 peptide bonds and loses 29 water mole
 2. Describe the rise, peak and fall with figures.
 3. Explain the fall with denaturation and the bonds that are disturbed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--04-denaturation.webp" width="900" height="900" alt="A folded chain of 14 amino acids held by dotted weak bonds, with an active site that fits the substrate, is changed by heat or pH into a loose strand. The same 14 amino acids and 13 peptide bonds remain, but the active site shape is lost and the substrate does not fit." loading="lazy">
+  <figcaption>Heat or pH change breaks weak interactions and the shape is lost, but peptide bonds and the sequence stay.</figcaption>
+</figure>
+
+
 ## Levels of structure (HL only: B1.2.6 to B1.2.10)
 
 | Level | What it is | Held by |
@@ -83,6 +106,12 @@ Small reminder: a chain of 30 units has 29 peptide bonds and loses 29 water mole
 - The R-groups determine the properties of the assembled polypeptide.
 - The sequence and exact position of each amino acid fix the 3D shape. The shape is precise, predictable and repeatable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--01-amino-acid.webp" width="900" height="820" alt="A central alpha carbon is bonded to four groups: an amine group H2N on the left, a carboxyl group (a carbon with =O and OH) on the right, a hydrogen atom below and a variable R-group above. All four attach to the same carbon." loading="lazy">
+  <figcaption>All four groups join the same central carbon; only the R-group differs.</figcaption>
+</figure>
+
+
 ### Tertiary interactions (HL only)
 
 | Interaction | Between | Note |
@@ -95,6 +124,17 @@ Small reminder: a chain of 30 units has 29 peptide bonds and loses 29 water mole
 - Soluble globular proteins: hydrophobic amino acids in the core, polar ones outside.
 - Integral membrane proteins: hydrophobic regions embed in the bilayer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--06-secondary.webp" width="900" height="1100" alt="An alpha helix is drawn as a coil with hydrogen bonds to the residue four along; one turn is 3.6 amino acids so 72 amino acids make 20 turns and 10.8 nm. A beta-pleated sheet shows three pleated strands side by side joined by hydrogen bonds between strands." loading="lazy">
+  <figcaption>Hydrogen bonds between backbone groups fold the chain into a helix or a pleated sheet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--07-tertiary.webp" width="900" height="1060" alt="One polypeptide folds back on itself. Four R-group interactions are numbered: hydrogen bond between polar R-groups (weak), ionic bond between opposite charges (moderate), covalent disulfide bond between two cysteines (strong) and hydrophobic clustering of non-polar R-groups (weak but numerous)." loading="lazy">
+  <figcaption>Four R-group interactions, from weak hydrogen bonds to strong disulfide bonds, hold the folded shape.</figcaption>
+</figure>
+
+
 ## Quaternary structure and form to function (HL only: B1.2.11 to B1.2.12)
 
 | Protein | Type | Structure | Function link |
@@ -106,6 +146,12 @@ Small reminder: a chain of 30 units has 29 peptide bonds and loses 29 water mole
 - A conjugated protein has a non-protein prosthetic group; a non-conjugated protein has none.
 - Globular: compact and soluble. Fibrous: long, rope-like and usually insoluble.
 - Nature of science: cryogenic electron microscopy images single protein molecules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--09-quaternary.webp" width="900" height="1130" alt="Insulin (two chains) and collagen (three chains) are non-conjugated proteins. Haemoglobin is conjugated: four polypeptides of 141, 141, 146 and 146 amino acids, each with a haem group containing iron that binds oxygen. That is 574 amino acids, 570 peptide bonds and four O2 bound." loading="lazy">
+  <figcaption>Quaternary structure joins two or more polypeptides, and conjugated proteins add a prosthetic group such as haem.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -129,6 +175,12 @@ A protein sample shows relative activity of 96 at 40 degrees Celsius and 18 at 6
 1. Change = 18 - 96 = -78.
 2. Percentage change = -78 / 96 × 100 = -81.25, so a decrease of about 81 %.
 3. Explain: the extra thermal energy broke weak hydrogen and ionic interactions, so most active sites lost their shape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--05-ph-graph.webp" width="900" height="760" alt="Line graph from the lesson data: relative activity 12 percent at pH 3, 58 at pH 5, 100 at pH 7, 55 at pH 9 and 9 at pH 11. The optimum of those tested is about pH 7, and the fall from pH 7 to pH 5 is 42 percentage points." loading="lazy">
+  <figcaption>Activity peaks near pH 7 and falls either side as shape changes.</figcaption>
+</figure>
+
 
 ### Helix length
 

@@ -72,6 +72,17 @@ Totals   6    6   (= number of edges)
 
 Route P→Q→R→S reaches every vertex from P. From S: S→Q→P, and Q→R. From R: R→P, R→S, then Q from P. From Q: Q→R→S, Q→P. Every vertex can reach every other, so the graph is **strongly connected**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--01-graph-vocabulary.webp" width="900" height="1125" alt="Six small graphs: simple, not simple (loop and double edge, loop counts 2 to the degree), complete K5 with 5x4/2 = 10 edges, weighted, directed, and a tree with 6 vertices and 5 edges." loading="lazy">
+  <figcaption>Each type of graph has a distinguishing feature: loops, completeness, weights, arrows or no cycles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--02-in-out-degree.webp" width="900" height="890" alt="The directed graph with edges P to Q, Q to P, Q to R, R to P, R to S and S to Q. In/out degrees are P 2/1, Q 2/2, R 1/2, S 1/1; totals are 6 and 6, equal to the number of edges. The numbered walk P, Q, R, S, Q, P visits every vertex and returns, so the graph is strongly connected." loading="lazy">
+  <figcaption>Total in degree equals total out degree equals the number of edges; a closed walk through every vertex shows strong connection.</figcaption>
+</figure>
+
+
 ## 3.15 Adjacency matrices, walks and transition matrices
 
 The **adjacency matrix** A has entry aᵢⱼ equal to the number of edges from vertex i to vertex j. For an undirected graph A is symmetric. For a directed graph, row sums give out degrees and column sums give in degrees.
@@ -117,6 +128,17 @@ to S   [ 0     0   1/2   0 ]
 ```
 
 Solving Ts = s with p + q + r + s = 1 (or raising T to a high power on your GDC) gives s = (0.3, 0.4, 0.2, 0.1). The ranking is **Q, P, R, S**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--03-adjacency-walks.webp" width="900" height="1045" alt="Graph with edges AB, AC, BC, BD, CD and its adjacency matrix A and A cubed. The (A, D) entry of A cubed is 2, matching the two walks A-B-C-D and A-C-B-D drawn above. Adding the (A, D) entries of A, A squared and A cubed gives 0 + 2 + 2 = 4 walks of length at most 3." loading="lazy">
+  <figcaption>The (i, j) entry of A^k counts walks of length k from i to j.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--04-transition-pagerank.webp" width="900" height="1015" alt="The directed graph with probabilities on each edge, the transition matrix T (columns are from, rows are to, columns sum to 1) and the steady state s = (0.3, 0.4, 0.2, 0.1) with Ts = s, giving the ranking Q, P, R, S." loading="lazy">
+  <figcaption>Columns of T are probabilities of leaving a vertex; the steady-state vector gives the PageRank ranking.</figcaption>
+</figure>
+
 
 ## 3.16 Walks, trails, paths and the classical problems
 
@@ -212,6 +234,27 @@ Nearest neighbour from A: A–C 9, C–D 7, D–E 6, E–B 15, B–A 12. Upper b
 Delete A. MST of B, C, D, E: DE 6, CD 7, BC 8 = 21. Two shortest edges from A: 9 and 10. Lower bound = 21 + 19 = **40**.
 
 So 40 ≤ optimal length ≤ 49. Starting the nearest neighbour at B gives 43, a better upper bound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--05-euler-odd-vertices.webp" width="900" height="1145" alt="Three connected graphs: a bowtie with no odd vertices has a numbered Eulerian circuit; a house shape with two odd vertices has a numbered Eulerian trail between them; K4 with four odd vertices has neither." loading="lazy">
+  <figcaption>Zero odd vertices gives an Eulerian circuit, two gives an Eulerian trail, more gives neither.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--06-kruskal-mst.webp" width="900" height="1030" alt="Six-vertex weighted graph with the minimum spanning tree highlighted. Kruskal accepts DE 3, AC 4, BC 5, CE 6, rejects AB 7, CD 8, BD 9 (cycles) and accepts DF 10, giving five edges of total weight 28." loading="lazy">
+  <figcaption>Kruskal takes the cheapest edges that do not close a cycle until it has n - 1 edges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--07-chinese-postman.webp" width="900" height="1050" alt="Weighted graph with total 52 and odd vertices A, B, D, E. The three pairings cost 15, 13 and 19; the least (AD + BE = 13) is repeated, so the shortest closed route is 52 + 13 = 65." loading="lazy">
+  <figcaption>Pair up the odd vertices by the cheapest shortest paths and add that to the total weight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--08-tsp-bounds.webp" width="900" height="975" alt="Nearest neighbour from A gives tour A-C-D-E-B-A of length 49 (upper bound). Deleting A leaves an MST of weight 21 plus the two shortest edges from A (9 and 10) for a lower bound of 40. Starting at B gives a better upper bound of 43, so the shortest tour is between 40 and 43." loading="lazy">
+  <figcaption>The best lower and upper bounds trap the length of the shortest tour.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

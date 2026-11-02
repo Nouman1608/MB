@@ -62,6 +62,12 @@ Method for the drawing, in steps:
 
 A channel allows its specific ion through only when open. A cell regulates its permeability by altering which channels and pumps are present and whether channels are open.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--03-transport-routes.webp" width="900" height="1010" alt="Three panels. Simple diffusion moves particles directly through the bilayer down the gradient with no protein or ATP and is not selective. Facilitated diffusion moves ions down the gradient through a channel protein with no ATP and is selective. Active transport uses a pump and ATP to move particles against the gradient and is selective." loading="lazy">
+  <figcaption>The route a particle takes decides whether it needs a protein, uses ATP, and is selective.</figcaption>
+</figure>
+
+
 ## Osmosis (B2.1.5)
 - Water molecules move randomly in both directions.
 - The membrane is impermeable to the solute, so only water can move.
@@ -75,6 +81,17 @@ Method for a percentage change in mass:
 4. Plot against concentration; the concentration at which the line meets zero is where water movement balances.
 
 Small reminder: a cylinder goes from 4.00 g to 4.28 g. Change = 0.28 ÷ 4.00 × 100 = +7.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--04-osmosis-aquaporins.webp" width="900" height="1230" alt="A container is divided by a membrane the solute cannot cross: the left has 27 water molecules and 3 solute particles, the right 19 water molecules and 11 solute particles, and net water movement is left to right, towards higher solute concentration. A second panel shows water crossing a bare bilayer slowly and an aquaporin quickly, in single file, in the same direction." loading="lazy">
+  <figcaption>Water moves from lower to higher solute concentration, and aquaporins only make this faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--05-potato-no-change.webp" width="900" height="740" alt="Graph of percentage change in mass of potato cylinders against sucrose concentration from 0.0 to 0.5 mol per cubic decimetre: +17.1, +6.8, +1.0, minus 6.6, minus 11.7 and minus 15.7 percent. The line crosses zero at about 0.21 mol per cubic decimetre. Below that water enters and mass rises; above it water leaves and mass falls." loading="lazy">
+  <figcaption>Percentage change in mass crosses zero at about 0.21 mol dm-3 sucrose.</figcaption>
+</figure>
+
 
 ## Magnification reminder
 Magnification is image size ÷ actual size, with matching units. A membrane image of 28 mm for a real width of 8 nm: 28 mm = 28 × 10⁶ nm, and 28 × 10⁶ ÷ 8 = 3.5 × 10⁶, so ×3 500 000. To find a real size, rearrange: actual = image ÷ magnification.
@@ -107,10 +124,27 @@ Carbohydrate is always on the extracellular side. Roles: cell recognition and ce
 
 Worked reminder, HL only: a cell kept at 10 °C has 52% unsaturated chains in its membrane lipids and at 30 °C it has 40%. The drop is 12 percentage points, which is 12 ÷ 52 × 100 = 23.1% of the cold value. With fewer unsaturated chains at the warm temperature, the membrane stays strong rather than becoming too fluid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--06-fluidity-cholesterol.webp" width="900" height="960" alt="Top: straight saturated tails pack tightly, while kinked unsaturated tails pack loosely and keep the membrane fluid. Bottom: cholesterol lies between phospholipids; at higher temperature it restricts phospholipid movement and stabilises the membrane, and at lower temperature it keeps tails apart so the membrane does not stiffen." loading="lazy">
+  <figcaption>Kinked tails and cholesterol keep the membrane fluid and stop it stiffening in the cold.</figcaption>
+</figure>
+
+
 ## HL only: vesicles (B2.1.13)
 - Endocytosis: membrane folds in and pinches off a vesicle (example: phagocytosis by a white blood cell).
 - Exocytosis: vesicle fuses with the plasma membrane and releases contents (example: neurotransmitter release).
 - Both need a fluid, flexible bilayer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--01-bilayer-barrier.webp" width="900" height="1000" alt="A phospholipid with a hydrophilic head and two hydrophobic tails self-assembles into a bilayer in water with no energy input. In cross-section, oxygen and carbon dioxide pass through between the phospholipids. A sodium ion and a glucose molecule are stopped at the hydrophobic core." loading="lazy">
+  <figcaption>A bilayer lets small non-polar molecules through and blocks ions and polar molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--07-vesicles.webp" width="900" height="1010" alt="Two rows of three steps. Endocytosis (phagocytosis of a bacterium): the membrane folds in around the bacterium and pinches off as a vesicle inside the cell. Exocytosis (neurotransmitter release): a vesicle arrives, fuses with the plasma membrane and releases its contents outside." loading="lazy">
+  <figcaption>A fluid membrane can fold, pinch off and fuse, giving endocytosis and exocytosis.</figcaption>
+</figure>
+
 
 ## HL only: neurons and cotransport (B2.1.14 to B2.1.17)
 - Nicotinic acetylcholine receptor: a neurotransmitter-gated ion channel.
@@ -120,6 +154,17 @@ Worked reminder, HL only: a cell kept at 10 °C has 52% unsaturated chains in it
 - Cell-adhesion molecules (CAMs): different forms for different cell–cell junctions; they bind cells into tissues.
 
 Worked reminder: if 900 glucose molecules enter with 2 Na⁺ each, 1800 Na⁺ must later be pumped out. Each pump cycle removes 3 Na⁺, so 1800 ÷ 3 = 600 cycles, which is 600 ATP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--08-gated-channels.webp" width="900" height="1170" alt="Closed and open channels in two rows. A neurotransmitter-gated channel opens when acetylcholine binds and cations such as sodium flow through. A voltage-gated channel opens when the membrane potential changes and cations flow through." loading="lazy">
+  <figcaption>A signal, either a bound neurotransmitter or a change in voltage, opens the gate and cations flow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--09-sodium-gradient.webp" width="900" height="910" alt="A membrane with a sodium-potassium pump that uses one ATP to move three sodium ions out and two potassium ions in, keeping sodium low inside. Beside it, a sodium-dependent glucose cotransporter lets sodium enter down its gradient and brings glucose in with it, even though glucose is already more concentrated inside." loading="lazy">
+  <figcaption>The pump builds the sodium gradient that the cotransporter uses to bring glucose in.</figcaption>
+</figure>
+
 
 ## Examples to quote
 - Simple diffusion: oxygen into a respiring cell, carbon dioxide out.
@@ -171,3 +216,9 @@ Worked reminder: if 900 glucose molecules enter with 2 Na⁺ each, 1800 Na⁺ mu
 
 ## Official syllabus
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section B2.1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--02-fluid-mosaic.webp" width="900" height="975" alt="Cross-section showing two rows of phospholipids with heads facing watery sides and tails facing each other, cholesterol between phospholipids, an integral protein spanning the bilayer, another embedded in the outer layer only, a peripheral protein on the inner surface, and a glycoprotein and glycolipid with carbohydrate chains on the outer surface only." loading="lazy">
+  <figcaption>The parts of the fluid mosaic model that the IB syllabus asks you to draw and label.</figcaption>
+</figure>
+

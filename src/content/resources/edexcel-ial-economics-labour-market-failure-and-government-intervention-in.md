@@ -67,6 +67,12 @@ Ignoring housing  = 9,500 / 7,000   = 1.36 years
 
 A 29% pay gap looks large, but housing cuts the gain by more than half, so payback stretches to over three years. Add family ties and an uncertain job, and many workers stay. The gap therefore persists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--01-geo-immobility-payback.webp" width="900" height="920" alt="Shows a 7,000 yearly pay gap split into 3,000 net gain and 4,000 extra housing, a one-off moving cost of 9,500, and blocks of yearly gain that repay the cost. With housing the payback is 3.17 years; ignoring housing it would be 1.36 years." loading="lazy">
+  <figcaption>Housing costs make the real payback from moving more than double the naive one, so the regional pay gap persists.</figcaption>
+</figure>
+
+
 ## 2. Occupational immobility (3.3.4 item 4b)
 
 Occupational immobility means workers cannot easily switch between jobs or industries.
@@ -94,6 +100,17 @@ Vacancies unfilled = 9,000 - 2,500 = 6,500
 ```
 
 Vacancies and unemployment exist together. That is the signature of occupational immobility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--02-occupational-immobility.webp" width="900" height="940" alt="Of 12,000 jobs lost only 2,500 workers have the skills for the 9,000 new vacancies, so 9,500 stay unemployed and 6,500 vacancies stay unfilled. Unemployment rises from 5.0% to 7.4% of a 400,000 labour force." loading="lazy">
+  <figcaption>A skills mismatch leaves vacancies and unemployment side by side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
 
 ## 3. The case for intervention (3.3.5 item 2a)
 
@@ -138,6 +155,22 @@ Within a range, a minimum wage in a monopsony raises both pay and employment. Ab
 
 **Evaluation:** the answer depends on market structure, how elastic labour demand is, the size of the floor relative to the equilibrium, and the time horizon. The effect also depends on how many low-paid workers have alternatives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--03-wage-floor-and-cap.webp" width="900" height="950" alt="Labour demand w = 20 - L and supply w = 2 + L meet at 9 thousand workers and a wage of 11. A floor of 13 leaves 4 thousand unemployed (demand 7, supply 11) and cuts the wage bill from 99 to 91. A cap of 8 gives a shortage of 6 thousand (demand 12, supply 6)." loading="lazy">
+  <figcaption>A wage floor above equilibrium creates unemployment and a cap below it creates a shortage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--04-monopsony-minimum-wage.webp" width="900" height="950" alt="A single employer sets MRP = MC at 6 thousand workers and pays 8, which is 6 below MRP of 14. A minimum wage of 10 raises employment to 8 thousand; at 12 employment is 8 with 2 thousand unemployed." loading="lazy">
+  <figcaption>Within a range, a minimum wage under monopsony raises both pay and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## 5. Direct taxes (3.3.5 item 2b)
 
 **National insurance contributions (NICs)** are payroll taxes paid by employees and employers on earnings.
@@ -148,6 +181,22 @@ Within a range, a minimum wage in a monopsony raises both pay and employment. Ab
 **Worked example.** Wage 12.00, employer NIC 10%: labour cost = 12.00 x 1.10 = 13.20. If elasticity of demand for labour is -0.6, a 10% cost rise cuts employment by 0.6 x 10 = 6%. A firm with 200 workers falls to 188. Employee NIC of 8% leaves take-home pay of 12.00 x 0.92 = 11.04.
 
 **Corporation tax** is charged on profits. A firm earning 400,000 profit at 25% pays 100,000 and keeps 300,000. A cut to 20% leaves 320,000: 20,000 more (6.7%) available for investment and wages. Lower rates may raise investment and labour demand, and attract firms, but lose tax revenue; some firms may simply distribute the extra profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--05-nics-labour-cost.webp" width="900" height="920" alt="A wage of 12.00 with a 10% employer contribution costs the employer 13.20 and, with demand elasticity -0.6, cuts jobs by 6% from 200 to 188. An 8% employee contribution leaves take-home pay of 11.04." loading="lazy">
+  <figcaption>Employer contributions raise the cost of labour and shift demand left; employee contributions cut take-home pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--10-corporation-tax-cut.webp" width="900" height="780" alt="A 400,000 profit pays 100,000 tax at 25 percent, leaving 300,000. At 20 percent it pays 80,000, leaving 320,000: 20,000 more (6.7 percent) but less tax revenue." loading="lazy">
+  <figcaption>A lower rate leaves firms 20,000 more but costs the government revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
 
 ## 6. Reducing immobility (3.3.5 item 2b)
 
@@ -166,6 +215,12 @@ Earnings gain to workers = 600 x 14,000 = 8.4 million a year
 
 Evaluation: do not ignore the 400 who do not find work, the deadweight of workers who would have retrained anyway, and the time before the gain arrives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--11-retraining-payback.webp" width="900" height="940" alt="1,000 workers are retrained for 6.0 million; 600 find jobs and 400 do not. Each job saves 4,000 benefits and pays 2,800 tax, so the yearly gain is 4.08 million and the cost is repaid in 1.47 years." loading="lazy">
+  <figcaption>The scheme repays its cost in about 1.5 years, but 400 workers gain nothing.</figcaption>
+</figure>
+
+
 ## 7. Reducing discrimination and exploitation (3.3.5 item 2b)
 
 - **Legislation** against discrimination and for equal pay, with penalties.
@@ -176,6 +231,12 @@ Evaluation: do not ignore the 400 who do not find work, the deadweight of worker
 Measuring a gap: if mean hourly pay is 15.00 for one group and 13.20 for another, the gap is (15.00 - 13.20) / 15.00 = 12.0%. A gap does not by itself prove discrimination, because differences in hours, experience and occupation also matter.
 
 Evaluation: laws are hard to enforce, firms may hide discrimination, and compliance raises costs. Gains include better matching of workers to jobs, higher output and fairness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--12-pay-gap-calculation.webp" width="900" height="730" alt="Mean hourly pay is 15.00 for one group and 13.20 for another. The gap of 1.80 is 12.0 percent of 15.00. A gap alone does not prove discrimination; hours, experience and occupation also matter." loading="lazy">
+  <figcaption>A pay gap of 12.0% is a starting point, not proof of discrimination.</figcaption>
+</figure>
+
 
 ## Common errors
 

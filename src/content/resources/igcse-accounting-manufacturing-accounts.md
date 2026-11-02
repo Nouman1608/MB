@@ -72,6 +72,12 @@ Tarnley Canoes makes plastic canoes. Here is how its costs are classified.
 | Depreciation of moulding machine | Indirect (factory overhead) | A cost of owning the factory equipment |
 | Salary of the sales manager | Not a factory cost | Goes in the statement of profit or loss |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--03-mfg-which-cost.webp" width="900" height="983" alt="Tarnley Canoes costs sorted into three groups. Polyethylene sheet and moulding team wages are direct and make up prime cost. Supervisor wages, factory power and machine depreciation are indirect factory overheads. The sales manager salary is not a factory cost." loading="lazy">
+  <figcaption>Direct costs and factory overheads belong in the manufacturing account; selling costs do not.</figcaption>
+</figure>
+
+
 ## 2. Direct material, direct labour, prime cost and factory overheads
 
 **Direct material** is shown as the cost of raw materials consumed, not as purchases, because some materials are in inventory at each end of the year.
@@ -84,6 +90,12 @@ Tarnley Canoes makes plastic canoes. Here is how its costs are classified.
 
 **Factory overheads** are all the indirect factory costs: indirect wages, factory rent, power, insurance and depreciation of factory machinery. Add them to prime cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--05-mfg-raw-materials-consumed.webp" width="900" height="820" alt="A waterfall in dollars: opening 14,200 plus purchases 118,400, less returns outwards 2,100, plus carriage inwards 3,300 is 133,800; less closing inventory 16,500 leaves raw materials consumed 117,300." loading="lazy">
+  <figcaption>Raw materials consumed, not purchases, is the direct material in prime cost.</figcaption>
+</figure>
+
+
 ## 3. Work in progress and factory cost of production
 
 **Work in progress** (WIP) is part-finished goods still in the factory. The opening WIP was paid for last year but is finished this year, so you add it. The closing WIP has been paid for this year but is not finished, so you deduct it.
@@ -92,6 +104,12 @@ Tarnley Canoes makes plastic canoes. Here is how its costs are classified.
 
 Effect of a change: if closing WIP is 1,000 higher, factory cost of production is 1,000 lower, cost of sales is 1,000 lower and gross profit is 1,000 higher. An understated closing WIP does the reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--04-mfg-factory-cost.webp" width="900" height="915" alt="A waterfall in dollars: raw materials consumed 117,300 plus direct labour 86,500 is prime cost 203,800. Adding factory overheads 66,600 and opening work in progress 4,800 and deducting closing work in progress 6,300 gives factory cost of production 268,900." loading="lazy">
+  <figcaption>Prime cost plus overheads, adjusted for work in progress, gives the factory cost of production.</figcaption>
+</figure>
+
+
 ## 4. How the statements link
 
 - The manufacturing account ends with factory cost of production.
@@ -99,6 +117,17 @@ Effect of a change: if closing WIP is 1,000 higher, factory cost of production i
 - A business that both makes goods and buys finished goods to resell adds purchases of finished goods to that cost of sales.
 - Office, selling and distribution expenses stay in the statement of profit or loss, below gross profit.
 - The statement of financial position shows three inventories under current assets: raw materials, work in progress and finished goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--05-mfg-into-profit-or-loss.webp" width="900" height="860" alt="Opening finished goods 21,000 plus factory cost of production 268,900, less closing finished goods 24,600 and goods taken by the owner 1,200, gives cost of sales 264,100. A bar splits revenue less returns of 390,000 into cost of sales and gross profit of 125,900." loading="lazy">
+  <figcaption>Factory cost of production takes the place of purchases in a manufacturer’s cost of sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--06-mfg-three-inventories.webp" width="900" height="765" alt="Raw materials 16,500 shown as sheets, work in progress 6,300 as a half-built canoe and finished goods 24,600 as a finished canoe. The statement of financial position shows the three lines, totalling 47,400." loading="lazy">
+  <figcaption>A manufacturer shows three inventories in current assets, not one.</figcaption>
+</figure>
+
 
 ## 5. Worked example
 
@@ -230,6 +259,12 @@ Check the balance: net assets 141,550 = closing capital 141,550. Factory machine
 | Owner's private expenses paid by the business | Removed from the expense; added to drawings |
 
 If a question tells you to split one expense, such as rent, between the factory and the office, apply the given fraction and put each part in its own statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--07-mfg-adjustments-destination.webp" width="900" height="1170" alt="Tarnley adjustments by destination in dollars. Manufacturing account: machinery depreciation 16,800, power owing 800, rent prepaid 1,500. Statement of profit or loss: office depreciation 1,800, allowance increase 250, rent received in advance 900. Drawings: goods 1,200 and private expense 700." loading="lazy">
+  <figcaption>Factory items go in the manufacturing account, office and income items in profit or loss, owner items in drawings.</figcaption>
+</figure>
+
 
 ## Common errors
 

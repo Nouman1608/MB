@@ -52,6 +52,12 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Internal recruitment | Filling the post from current staff |
 | External recruitment | Looking outside the business for candidates |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--02-brackett-decision-time.webp" width="900" height="1020" alt="Two rows of day boxes. Under a centralised structure the owner approves a chair request and it takes 5 days. Under a decentralised structure the branch manager approves it up to a set limit and it takes 1 day. The decision time is 80 percent shorter, calculated (5 minus 1) divided by 5 times 100. The risk is that branches buy different equipment." loading="lazy">
+  <figcaption>Moving to decentralised decisions cut Brackett Dental approval time from 5 days to 1 day, 80% shorter.</figcaption>
+</figure>
+
+
 ## Structures at a glance
 
 | | Advantages | Disadvantages | Appropriate when |
@@ -62,6 +68,12 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Decentralised | Quick local decisions; local knowledge; trusted managers | Inconsistency between branches; less control | Business has grown; locations differ; staff are skilled |
 
 Must-know distinction: hierarchical or flat describes the **number of layers**. Centralised or decentralised describes **where decisions are made**. A small flat business is usually centralised, but the two ideas are separate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--01-hier-flat-49.webp" width="900" height="1190" alt="Two charts of the same 49 people. The hierarchical chart has four layers: 1 director, 3 managers, 9 supervisors and 36 operational staff, each manager looking after three people. The flat chart has two layers: 1 owner with 48 staff all reporting directly to the owner." loading="lazy">
+  <figcaption>The same 49 people arranged as a four-layer hierarchy and as a two-layer flat structure.</figcaption>
+</figure>
+
 
 ## Communication in steps
 
@@ -75,6 +87,12 @@ Must-know distinction: hierarchical or flat describes the **number of layers**. 
 | Excessive communication | Time lost in meetings and messages; key messages missed | Staff feel their time is wasted |
 
 Barriers to remember: unclear wording or jargon, wrong method for the message, language differences, faulty technology, too many layers, noise or distraction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--05-holm-meeting-time.webp" width="900" height="850" alt="Two bars of a 37.5-hour week. Before, 7.5 hours in meetings is 20 percent of the week. After, 4.5 hours is 12 percent. For 15 staff the saving is (7.5 minus 4.5) times 15, which is 45 hours a week. This is an example of excessive communication." loading="lazy">
+  <figcaption>Cutting meetings from 7.5 to 4.5 hours frees 45 hours a week across 15 staff.</figcaption>
+</figure>
+
 
 ## Ways of working
 
@@ -92,6 +110,17 @@ Technology and ways of working:
 - Efficiency: shared files, messaging and automated systems speed tasks up and cut errors. Costs: equipment, training, risk of system failure.
 - Remote working: lower office costs, wider pool of recruits, less travel for staff. Costs: weaker team contact, harder supervision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--03-tarrow-hours-vs-staff.webp" width="900" height="930" alt="Two bars. The first shows 198 weekly hours: 150 from full-time staff and 48 from part-time staff, so part-time staff do 24.2 percent of the hours. The second shows 7 people: 4 full-time and 3 part-time, so part-time staff are 42.9 percent of the staff. The weekly wage bill is 198 times 12.40 pounds, 2,455.20 pounds." loading="lazy">
+  <figcaption>Part-time staff do 24.2% of Tarrow Cycles hours but are 42.9% of its people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--04-pellam-freelance-vs-temporary.webp" width="900" height="850" alt="Two bars scaled to hours paid. The freelance designer is paid for 90 hours at 32 pounds an hour, 2,880 pounds. The temporary worker is paid for 225 hours, 6 weeks of 37.5 hours, at 14.50 pounds an hour, 3,262.50 pounds. The freelancer is 382.50 pounds cheaper, although a temporary worker can be moved to other jobs." loading="lazy">
+  <figcaption>The freelancer costs £382.50 less because they are paid for 90 hours, not 225.</figcaption>
+</figure>
+
+
 ## Job roles
 
 | Group | One-line responsibility |
@@ -101,6 +130,12 @@ Technology and ways of working:
 | Supervisors/team leaders | Organise and check the daily work of a team |
 | Operational staff | Do the main work of the business |
 | Support staff | Provide services that help others do their jobs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
 
 ## Recruitment in steps
 
@@ -117,6 +152,17 @@ Internal or external:
 | Cost and speed | Cheaper and quicker | Dearer and slower |
 | Skills | Known skills; no new ideas | Larger pool; new skills and ideas |
 | Staff effect | Shows promotion is possible; leaves a gap elsewhere | May upset staff passed over; new person must learn the business |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--06-ravenscar-recruitment-cost.webp" width="900" height="810" alt="Two bars scaled to cost. External recruitment is a 640 pound advert plus an agency fee of 12 percent of 28,500 pounds, which is 3,420 pounds, a total of 4,060 pounds. Internal recruitment costs 450 pounds of extra training. Internal is 3,610 pounds cheaper, but only works if a suitable person is already employed." loading="lazy">
+  <figcaption>External recruitment costs £4,060 against £450 for internal, a difference of £3,610.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--01-recruit-routes.webp" width="900" height="860" alt="Two panels compare internal recruitment (existing staff, one promoted into the vacancy) with external recruitment (a large crowd of outside applicants). Internal is quicker and cheaper, the record is known and it shows promotion is possible, but there are few applicants, no new ideas and the old job must be filled. External gives a larger pool and fresh ideas but costs more, ability is less certain and staff may feel overlooked." loading="lazy">
+  <figcaption>Internal and external recruitment each have benefits and limitations.</figcaption>
+</figure>
+
 
 ## Calculation reminders
 

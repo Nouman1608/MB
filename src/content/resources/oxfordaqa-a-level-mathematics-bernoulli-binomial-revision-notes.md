@@ -45,6 +45,12 @@ A **binomial distribution** is the sum of **n independent** Bernoulli trials, wr
 
 Check all four before applying the binomial formula — sampling without replacement from a small population is a common condition-breaker (it violates independence), and exam questions sometimes describe exactly this scenario to test whether you notice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--06-binomial-conditions.webp" width="900" height="1000" alt="Four cards show the conditions for B(n, p): a fixed number of trials, two outcomes, independent trials and the same probability p each time. Three failures are listed: cards dealt without replacement, throws until the first six, and rain on following days." loading="lazy">
+  <figcaption>The four conditions, and three situations where the model fails.</figcaption>
+</figure>
+
+
 ## Worked example: binomial probability
 
 A factory tests components with a 0.1 probability of a randomly selected component being defective. In a sample of 8, find P(exactly 2 defective).
@@ -58,6 +64,22 @@ Step 3: 8C2 = 28
 ```
 
 Show the binomial coefficient (ⁿCₓ) as a distinct step — it allows partial credit if a later arithmetic step slips.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-bernoulli-binomial-revision-notes--01-binomial-worked-b8.webp" width="900" height="960" alt="A bar chart of B(8, 0.1) with the bar at x = 2 highlighted at 0.149. Three steps: check n = 8, p = 0.1 and independence; 8C2 = 28; P(X = 2) = 28 x 0.1^2 x 0.9^6, about 0.149." loading="lazy">
+  <figcaption>The three steps of the factory worked example, with the answer on the distribution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-bernoulli-binomial-revision-notes--02-binomial-cumulative-table.webp" width="900" height="940" alt="A bar chart of B(10, 0.3) with bars 0 to 3 highlighted, above a table row of P(X &lt;= x) for x = 0 to 5 (0.0282, 0.1493, 0.3828, 0.6496, 0.8497, 0.9527). The x = 3 entry, 0.6496, is the answer." loading="lazy">
+  <figcaption>One table read gives the sum of four binomial terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--08-binomial-probabilities.webp" width="900" height="1040" alt="Two bar charts of B(12, 0.35). The bar at x = 4 is highlighted: P(X = 4) = 495 x 0.35^4 x 0.65^8 = 0.2367. In the second chart the bars up to 4 sum to 0.5833 and those from 5 upward sum to 1 - 0.5833 = 0.4167, so P(X &gt;= 5) = 1 - P(X &lt;= 4)." loading="lazy">
+  <figcaption>A single probability, and why &quot;at least 5&quot; is one minus the cumulative probability up to 4.</figcaption>
+</figure>
+
 
 ## Worked example: cumulative binomial probability using tables
 
@@ -77,6 +99,17 @@ The specification explicitly expects fluency with **both** routes -- the full fo
 ## Deriving the binomial mean and variance conceptually
 
 The specification's own framing expects more than quoting np and np(1 − p) — it expects you to explain why these follow from the single-trial Bernoulli values. Since a binomial random variable is the **sum of n independent Bernoulli trials**, and the mean of a sum of independent random variables is the sum of their individual means, E(X) for the binomial is simply n lots of the single-trial mean p, giving np. The same logic extends to variance: because the trials are independent, the variance of the sum equals the sum of the individual variances, giving n lots of p(1 − p), or np(1 − p). Being able to state this derivation in a sentence, not just the final formulas, is what separates a strong answer on this sub-topic from one that has only memorised the result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--07-bernoulli-to-binomial.webp" width="900" height="980" alt="Three trials each succeed with probability 0.4. The 8 outcomes are grouped by successes x: 1 way for x = 0 (0.216), 3 ways for x = 1 (0.432 in total), 3 ways for x = 2 (0.288), 1 way for x = 3 (0.064). One trial has mean 0.4 and variance 0.24; three have np = 1.2 and npq = 0.72." loading="lazy">
+  <figcaption>Why the binomial has coefficients nCx: it counts the arrangements of successes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--09-binomial-mean-variance.webp" width="900" height="1170" alt="Three bar charts of B(20, p). For p = 0.2 the mean is 4 and the variance 3.2; for p = 0.5 the mean is 10 and the variance 5, the widest; for p = 0.8 the mean is 16 and the variance 3.2. A dashed line marks each mean and a gold band one standard deviation either side." loading="lazy">
+  <figcaption>Mean np and variance npq, and why the spread is greatest at p = 0.5.</figcaption>
+</figure>
+
 
 ## Key terms
 

@@ -49,6 +49,27 @@ Benefits: consistency, speed, lower labour cost in the long run, work through th
 3. Say who or what is affected: customers, staff, profit.
 4. Weigh it against the cost or risk, then judge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--11-batch-shift-timeline.webp" width="900" height="780" alt="A timeline of an 8-hour oven shift: three 2-hour batches of 240 loaves separated by two 30-minute changeovers, using 7 hours and leaving 1 hour unused. Output is 720 loaves and the oven is idle during each changeover." loading="lazy">
+  <figcaption>Batch production fits three batches in an 8-hour shift, but the oven is idle during changeovers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--12-flow-breakdown-cost.webp" width="900" height="830" alt="A fault stops a flow line making 1,200 boxes an hour for 3 hours. Three dashed blocks, one per hour, each show 1,200 boxes lost. In total 3,600 boxes are not made, worth 5,040 pounds at 1.40 pounds each." loading="lazy">
+  <figcaption>Flow production is vulnerable: a three-hour fault loses 3,600 boxes and 5,040 pounds of sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--09-job-staircase-costing.webp" width="900" height="930" alt="Two columns: the cost column stacks materials 1,850 pounds and labour 836 pounds (38 hours at 22 pounds) to 2,686 pounds; the price column is 3,450 pounds, made of that cost plus 764 pounds profit." loading="lazy">
+  <figcaption>A job priced at 3,450 pounds against 2,686 pounds of cost earns 764 pounds profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+
 ## 4.2 Quality of goods and services
 
 **Quality** means how well a good or service meets the standard customers expect for the price. In services, think accuracy, speed, courtesy, consistency.
@@ -69,6 +90,17 @@ Benefits: consistency, speed, lower labour cost in the long run, work through th
 Reject rate (a standard calculation) = faulty items / items checked x 100. For example, 9 faulty in a sample of 300 gives 9 / 300 x 100 = 3%.
 
 Cost of returns (standard form, not given in the specification) = number returned x cost per return. For example, 4,000 sales with 2% returned is 80 items; at £15 each the cost is £1,200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--08-quality-reject-returns.webp" width="900" height="1120" alt="A grid of 250 torches with 7 marked faulty gives a reject rate of 2.8%. Of 20,000 sold, 1.5% returned is 300 torches at 16 pounds, 4,800 pounds; at 0.5% returned only 100 torches, 1,600 pounds, a saving of 3,200 pounds." loading="lazy">
+  <figcaption>Fewer faults mean fewer returns: cutting returns to 0.5% saves 3,200 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ## 4.3 The sales process and customer service
 
@@ -97,6 +129,12 @@ Cost of returns (standard form, not given in the specification) = number returne
 2. Say what the customer gets from it.
 3. Link to loyalty, repeat sales or reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--07-sales-by-method-aysgarth.webp" width="900" height="920" alt="Three bars of monthly revenue for Aysgarth Outdoor: shop 40,800 pounds (36.8%), website 59,400 (53.5%) and telesales 10,800 (9.7%), with sales counts and average sales. Telesales has the fewest sales but the highest average sale (120 pounds). Total revenue is 111,000 pounds." loading="lazy">
+  <figcaption>The website earns most, but telesales has the highest average sale.</figcaption>
+</figure>
+
+
 ## 4.4 Consumer law
 
 - Rules that protect buyers of goods and services.
@@ -105,6 +143,12 @@ Cost of returns (standard form, not given in the specification) = number returne
 - Impact on a business: testing and checking, honest descriptions, refund and replacement costs, staff training.
 - Good compliance builds trust. Poor compliance risks lost customers, costs and damaged reputation.
 - Keep to general terms in answers. Explain the effect on the business rather than listing laws.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--06-consumer-law-rights.webp" width="900" height="960" alt="Goods must be safe, of satisfactory quality and match their description. If not, the customer may be entitled to a repair, replacement or refund, and the business may face costs, penalties or a recall." loading="lazy">
+  <figcaption>Consumer law expects safe goods of satisfactory quality that match their description; if not, remedies and penalties follow.</figcaption>
+</figure>
+
 
 ## 4.5 Business location
 
@@ -116,6 +160,12 @@ Cost of returns (standard form, not given in the specification) = number returne
 | Materials | How far must inputs travel? | Firms using heavy or bulky inputs |
 
 Add up all the monthly costs for each site (a standard method, not a specification formula) before you recommend. Then ask what the numbers leave out, such as customer convenience, staff skills and room to grow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--14-site-cost-differences.webp" width="900" height="850" alt="A bar chart of the monthly cost difference between Site B and Site A: rent +2,100, wages +4,200, materials in +1,500, delivery out -2,300 pounds, totalling +5,500. Site A costs 35,200 pounds and Site B 40,700, so A is 5,500 pounds a month cheaper; the answer should also weigh non-cost factors." loading="lazy">
+  <figcaption>Site B is dearer on rent, wages and materials but cheaper on delivery; overall Site A saves 5,500 pounds a month.</figcaption>
+</figure>
+
 
 ## 4.6 Working with suppliers
 
@@ -137,6 +187,17 @@ Add up all the monthly costs for each site (a standard method, not a specificati
 | Customer service | Late or short deliveries lead to late orders and lost trust |
 
 Choosing a supplier is a trade-off between price, speed, reliability and quality. Calculate the order cost for each (quantity x price), then weigh the difference against the risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--13-supplier-price-vs-reliability.webp" width="900" height="920" alt="Two panels compare Supplier X (4.20 pounds a unit, 3 days, 3 late in 100 deliveries, 21,000 pounds for 5,000 units) and Supplier Y (3.85 pounds, 12 days, 12 late in 100, 19,250 pounds). Y saves 1,750 pounds an order but a late delivery can stop production." loading="lazy">
+  <figcaption>The cheaper supplier saves 1,750 pounds an order but is late four times as often.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--10-procurement-supply-chain.webp" width="900" height="1040" alt="Top: the four parts of procurement in order (identify what to buy, choose suppliers, order the goods, receive deliveries). Bottom: a short supply chain of three stages against a longer chain with extra links; more links mean more delay and more places for things to go wrong, and unreliable supply can stop production." loading="lazy">
+  <figcaption>Procurement has four parts, and a longer supply chain adds delay and risk.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

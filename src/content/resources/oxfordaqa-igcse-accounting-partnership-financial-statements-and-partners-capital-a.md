@@ -55,6 +55,12 @@ The income statement is prepared exactly as for a sole trader: revenue, cost of 
 - **Interest on a partner's loan** is an expense. A loan from a partner is a liability of the firm, so its interest is charged in the income statement before the profit for the year is reached. It does not go in the appropriation account.
 - **Partners' salaries and drawings are not expenses.** They are shares of profit, so they appear in the appropriation account and in the partners' accounts, never in the income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
+
 ## 3. The appropriation account
 
 The appropriation account starts with the profit for the year and divides it. Work down the following items in this order.
@@ -70,6 +76,12 @@ The residual profit is what remains after interest on capital and salaries. It i
 
 Why each item exists: interest on capital rewards a partner who invests more; salaries reward a partner who works more in the business; interest on drawings discourages large early withdrawals; the ratio shares what is left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+
 ## 4. Capital and current accounts
 
 Each partner has two accounts. The two serve different purposes.
@@ -84,6 +96,17 @@ Each partner has two accounts. The two serve different purposes.
 Keeping the two apart means the capital, which decides the interest on capital, stays fixed. Day-to-day movements go through the current account. In this guide the capital accounts do not change during the year.
 
 A **debit balance** on a current account means the partner has taken out more than the profit allocated. It is shown in brackets in equity and reduces the total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a--10-un15-capital-vs-current.webp" width="900" height="880" alt="Anwen capital stays at 60,000 all year while the current account moves: 1,800 plus 3,000 interest on capital plus 5,865 share of residual, minus 10,000 drawings and 200 interest on drawings, ends at 465." loading="lazy">
+  <figcaption>Capital is fixed by agreement; the current account records the year flow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
 
 ## Example 1: Kellmoor Bicycle Works
 
@@ -184,6 +207,17 @@ Total equity                                    127,430
 
 The two sides agree at 127,430. Bashir's loan sits below the current liabilities because it is repayable later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a--08-un15-kellmoor-current-accounts.webp" width="900" height="890" alt="Three T-accounts, debit left and credit right. Anwen ends with a credit balance of 465, Bashir 7,590, and Chidi a debit balance of 625 because drawings and interest on drawings exceed what was allocated." loading="lazy">
+  <figcaption>Each partner current account balances; Chidi ends overdrawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a--09-un15-kellmoor-equity.webp" width="900" height="1040" alt="Net assets of 127,430 (137,430 less the 10,000 loan) equal equity: capital accounts 120,000 plus current accounts 7,430, where Chidi 625 debit is bracketed and deducted." loading="lazy">
+  <figcaption>Equity is capital plus current accounts, with a debit balance deducted, and equals net assets.</figcaption>
+</figure>
+
+
 ## Example 2: Fernhaven Print Studio
 
 Fernhaven Print Studio is a service business owned by Dara (capital 50,000) and Eilidh (capital 30,000). The agreement gives 4% interest on capital, a salary of 9,000 to Eilidh, and residual profit or loss shared 2 : 1. There are no drawings in this extract. The table shows two possible years.
@@ -201,6 +235,12 @@ Fernhaven Print Studio is a service business owned by Dara (capital 50,000) and 
 | Eilidh credited in total | 9,800 | 4,800 |
 
 Even when the firm makes a loss, the agreed interest and salary are still credited, so the loss plus those items becomes a larger deficit. The deficit is shared in the ratio and debited to the partners. Dara's account is debited by 8,800 in total in the second year, which is worth a comment: Dara bears most of the loss but is paid no salary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-partnership-financial-statements-and-partners-capital-a--05-mp15-loss-year.webp" width="900" height="900" alt="In a 4,000 dollar loss year the agreed interest on capital (3,200) and salary (9,000) are still credited, so the deficit to share is 16,200. Dara bears 10,800 and Eilidh 5,400, leaving Dara debited 8,800 in total and Eilidh credited 4,800." loading="lazy">
+  <figcaption>Interest and salary are still credited in a loss year, enlarging the deficit shared in the ratio.</figcaption>
+</figure>
+
 
 ## 5. Commenting on partnership statements
 

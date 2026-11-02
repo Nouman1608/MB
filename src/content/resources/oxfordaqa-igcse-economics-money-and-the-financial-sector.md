@@ -58,6 +58,12 @@ So money stores value less well when inflation is high, and interest on savings 
 
 Unexpectedly high inflation therefore harms lenders and helps borrowers. This is why stable prices matter for deferred payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ### Money is more than notes and coins
 
 The specification says money can be defined as more than the banknotes and coins in circulation. Most payments are made by card, transfer or online banking, and the balances behind them are accepted as payment. Money therefore includes balances in bank accounts that can be spent quickly. Broader measures also include savings deposits, which can be turned into spending money.
@@ -77,6 +83,27 @@ Country A's money (illustrative, bn aru):
 A definition limited to notes and coins would leave out 94% of Country A's money. Liquidity matters: the easier an asset is to spend without loss of value, the more clearly it is money. Cash is the most liquid, then current accounts, then savings deposits, and property is the least liquid.
 
 **Why it matters.** Consumers can buy and save without barter. Producers can price goods, pay wages and sell on credit. The government can levy taxes and make payments in a single unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--06-mo-barter-rates.webp" width="900" height="810" alt="Two networks of five goods: barter needs 10 exchange rates, money needs 5 prices." loading="lazy">
+  <figcaption>A common unit cuts the number of prices to compare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--07-mo-broad-money.webp" width="900" height="870" alt="A bar of 200 bn aru split into notes and coins 6%, current accounts 29% and savings deposits 65%, ordered by liquidity." loading="lazy">
+  <figcaption>Notes and coins alone would leave out 94% of Country A's money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--08-mo-store-value.webp" width="900" height="840" alt="Bars show 1,000 aru buying 961.54 aru worth after 4% inflation if kept in a drawer, and 990.38 if saved at 3%." loading="lazy">
+  <figcaption>Money stores value less well when inflation is high.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--09-mo-deferred.webp" width="900" height="900" alt="Bars show a 2,300 aru repayment worth 2,190.48 aru at 5% inflation and 1,916.67 aru at 20%, against 2,000 lent." loading="lazy">
+  <figcaption>Unexpectedly high inflation harms lenders and helps borrowers.</figcaption>
+</figure>
+
 
 ## 3.2.5.2 The financial sector
 
@@ -111,6 +138,17 @@ When depositors fear a failure they all withdraw at once (a bank run), and even 
 
 **Why it matters.** Consumers get a safe place for savings and cheaper or dearer credit as rates change. Producers see their borrowing costs change. Governments rely on a stable system to carry out policy and to borrow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--01-mo-rate-cut.webp" width="900" height="1090" alt="Bars show yearly interest on a 120,000 aru loan falling from 7,200 to 6,000 aru and on a 20,000 aru deposit falling from 600 to 400 aru. A four-step chain follows: rate cut, cheaper borrowing and less attractive saving, more spending and investment, higher aggregate demand." loading="lazy">
+  <figcaption>A one-point cut saves the borrower 1,200 aru a year, costs the saver 200 aru, and pushes aggregate demand up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--02-mo-bank-run.webp" width="900" height="830" alt="A bank with 40 mn aru cash can pay a 10% withdrawal of 40 mn but is 20 mn short if 15% (60 mn) withdraw." loading="lazy">
+  <figcaption>Cash of 10% of deposits covers a 10% withdrawal but not a 15% run.</figcaption>
+</figure>
+
+
 ### Commercial banks
 
 **Commercial banks** are private firms that take deposits and make loans to customers. The specification names two roles.
@@ -135,6 +173,17 @@ Worked example: a small bakery borrows 60,000 aru for an oven at 5% simple inter
 
 Evaluation: lending supports growth only if it is spent on projects that pay off. If banks lend too freely, borrowers may be unable to repay, which damages the bank and the wider economy. If banks lend too little, good projects are not funded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--03-mo-bank-margin.webp" width="900" height="850" alt="Savers deposit 400 mn aru at 2% (8 mn paid). The bank lends 300 mn (75%) at 6% (18 mn received) and keeps 100 mn. Gross margin is 10 mn aru." loading="lazy">
+  <figcaption>The bank earns 18 mn, pays 8 mn, and keeps a gross margin of 10 mn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--04-mo-oven-loan.webp" width="900" height="690" alt="The bakery repays 72,000 aru (60,000 loan plus 12,000 interest) and earns 84,000 aru extra profit from the oven, a gain of 12,000 aru." loading="lazy">
+  <figcaption>Borrowing pays off for the bakery because the oven earns more than the loan costs.</figcaption>
+</figure>
+
+
 ### Other institutions
 
 The specification asks for the role of other institutions in the financial sector without naming them. Common examples are insurance companies, pension funds, stock markets and credit unions. They move money from savers to users, and they share out risk.
@@ -150,6 +199,22 @@ Each household pays a small known amount instead of risking a large loss. Househ
 **Stock markets.** A firm can raise funds by selling shares. A firm issuing 200,000 shares at 5 aru raises 200,000 × 5 = 1,000,000 aru without borrowing. A shareholder who receives a dividend of 0.30 aru per share on a 5 aru share earns a yield of 0.30 ÷ 5 × 100 = 6%. If the price rises to 5.50 aru, the capital gain is 0.50 ÷ 5 × 100 = 10%. Prices can also fall, so shares carry risk.
 
 **Why it matters.** Consumers can save for retirement and protect themselves from loss. Producers can raise funds and manage risk. Governments can borrow by selling bonds, which are promises to repay with interest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--10-mo-bank-cushion.webp" width="900" height="830" alt="A 25 mn capital buffer covers a 20 mn loss from 4% unpaid loans but not a 30 mn loss from 6%." loading="lazy">
+  <figcaption>Capital absorbs loan losses until it runs out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--05-mo-insurance-shares.webp" width="900" height="830" alt="Insurance premiums of 60,000 aru cover 48,000 aru of claims and leave 12,000. A 5 aru share with a 0.30 dividend yields 6% and a rise to 5.50 is a 10% gain. Issuing 200,000 shares raises 1,000,000 aru." loading="lazy">
+  <figcaption>Insurers pool risk and shares raise funds, but share prices can fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## Common errors
 

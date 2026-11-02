@@ -58,6 +58,17 @@ Also useful: the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [pri
 
 **Command terms.** Trace means follow and record an algorithm. State and write down need no working. Use means apply a rule or method. Verify means give evidence that a result is right. Suggest means propose a possible answer. Solve allows algebraic, numerical or graphical methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--01-euclid-flowchart-trace.webp" width="900" height="990" alt="Flowchart of Euclid’s algorithm with start and stop ovals, input and output parallelograms, a remainder process box and an r = 0 decision with a looping no branch. The trace table for a = 391 and b = 221 has four passes ending with r = 0. The output b = 17 is the highest common factor." loading="lazy">
+  <figcaption>The same procedure as a flowchart and as a trace table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--07-myp-halve-average-sqrt.webp" width="900" height="930" alt="Starting from 4, the values 4.5, 4.4722, 4.47214 and 4.47214 are correct to 1, 3, 5 and 5 decimal places; two equal passes trigger the stopping rule." loading="lazy">
+  <figcaption>Each pass fixes more decimal places until two passes agree.</figcaption>
+</figure>
+
+
 ## Inequalities and linear programming (extended)
 
 | Wording | Symbol |
@@ -96,6 +107,17 @@ The minimum is **12 at (0, 6)**. With only "at least" constraints the region is 
 
 **Integer variables:** if the best corner is not whole-number, check the nearby whole-number points inside the region. Rounding is not guaranteed to be best.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--02-lp-candle-stall.webp" width="900" height="1090" alt="Graph of candles x against soaps y with the feasible region bounded by the axes, 3x + 2y = 60 and x + y = 25. Corners O(0,0), A(20,0), B(10,15) and C(0,25) give profits 0, 160, 170 and 150. A dashed profit line 8x + 6y = 170 touches the region only at B." loading="lazy">
+  <figcaption>The feasible region, its four corners and the best corner B(10, 15) with P = 170.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
+
 ## Networks: method
 
 | Task | How |
@@ -124,6 +146,17 @@ The minimum is **12 at (0, 6)**. With only "at least" constraints the region is 
 - Finish L (8): M becomes 11.
 
 M is 11. Tracing back gives **H-K-J-L-M, length 11**. In total there are six paths from H to M.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--03-shortest-path-labelling.webp" width="900" height="940" alt="Six-vertex weighted network with the final label on each vertex (A 0, B 3, C 2, D 8, E 10, F 13). The shortest path A-C-B-D-E-F, length 13, is highlighted. A-B-D-F and A-C-E-F are both 15." loading="lazy">
+  <figcaption>Final labels and the shortest path A-C-B-D-E-F = 13.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--10-myp-degree-sum-check.webp" width="900" height="910" alt="Network with six vertices and nine edges. Degrees 2, 3, 4, 4, 3, 2 add to 18, which is 9 edges times 2 ends." loading="lazy">
+  <figcaption>The degrees add up to twice the number of edges.</figcaption>
+</figure>
+
 
 ## Models: applications and limits
 
@@ -169,6 +202,12 @@ Always say whether the assumption is reasonable and how the answer would change 
 9. For example, profit per item is constant, or items can be split.
 10. 11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--08-myp-search-efficiency.webp" width="900" height="1140" alt="A long bar for up to 1000 linear checks beside a tiny bar for at most 10 halving checks, with the list size 1000, 500, 250, 125, 62, 31, 15, 7, 3, 1 before each halving check." loading="lazy">
+  <figcaption>Halving a sorted list needs at most 10 checks for 1000 names.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Skipping a pass in a trace table, or writing the new value in the wrong row.
@@ -182,6 +221,18 @@ Always say whether the assumption is reasonable and how the answer would change 
 - Following an arc against its arrow.
 - Calling a model's answer exact without stating an assumption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--09-myp-strict-inequality-region.webp" width="900" height="1140" alt="The triangle with corners (1, 0), (4, 0), (1, 6): x = 1 is solid, the other two edges dashed, and all three corners are open circles because each lies on a strict edge. (2, 2) is inside." loading="lazy">
+  <figcaption>Solid edges are included, dashed ones are not, so all three corners are excluded.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP Mathematics, first assessment 2022, published by the International Baccalaureate Organization. The notes paraphrase the Thinking with models branch of the framework.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+

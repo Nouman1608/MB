@@ -61,6 +61,22 @@ After:  contribution = 10.50 - 2.90 = £7.60 per candle
 
 Here the ethical choice lowers the break-even quantity, because the price rise more than covers the extra cost. That only holds if customers still buy at £10.50. A fair exam answer says so: the calculation shows the possible reward, and the risk is that sales fall at the higher price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--01-ethical-breakeven.webp" width="900" height="830" alt="Two stacked bars split the candle price into variable cost and contribution, before (9.50 pounds: 2.40 + 7.10) and after (10.50 pounds: 2.90 + 7.60) the fair-pay wax. A number line marks break-even falling from 592 to 553 candles. A banner says the price rise more than covers the extra cost, but only if customers still buy at 10.50 pounds." loading="lazy">
+  <figcaption>Fair-pay wax lowers Cinderby break-even from 592 to 553 candles, provided customers accept the higher price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ## 6.1 Environmental considerations
 
 Environmental considerations are about how a business affects the natural world and how the natural world affects it. The specification names four points.
@@ -71,6 +87,12 @@ Environmental considerations are about how a business affects the natural world 
 - **Climate change.** Businesses may face higher energy costs, changing weather that disrupts supplies, and customers who want lower-carbon products.
 
 Businesses respond in different ways: changing operations (recycling offcuts, cutting energy use), products (refillable containers) or marketing (showing their commitment). Each response has a cost and can create a reward through lower running costs, a better reputation or new customers. A business with very thin cash may reasonably phase changes in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
 
 ## 6.2 The economic climate
 
@@ -96,6 +118,17 @@ After:  revenue 42,000; variable costs 16,800; fixed 14,000
 
 Revenue fell by 12.5%, but profit fell by 24.3% (3,600 / 14,800 x 100). The reason is that fixed costs stay the same when sales drop. This is why fixed costs make a downturn harder to survive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--02-downturn-fixed-costs.webp" width="900" height="840" alt="Two stacked columns for Pellway Coffee before and after a 12.5 percent fall in sales. Variable costs fall with sales but the 14,000 pound fixed costs do not, so profit falls from 14,800 to 11,200 pounds, a 24.3 percent drop, and the margin from 30.8 to 26.7 percent." loading="lazy">
+  <figcaption>Because fixed costs do not fall with sales, a 12.5% fall in sales cuts profit by 24.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--05-trading-down-downturn.webp" width="900" height="880" alt="Three bars compare demand before and after incomes fall. Basic items fall a little; luxuries and eating out fall faster. A second picture shows some customers trading down from a dearer brand to a cheaper brand. A banner says a business may cut prices or range and must protect its cash." loading="lazy">
+  <figcaption>When incomes fall, demand for luxuries and eating out falls faster than for basics, and some customers trade down.</figcaption>
+</figure>
+
+
 ## 6.3 Globalisation
 
 **Globalisation** is the increasing connection between economies, so that goods, services, money, ideas and people move more freely across borders. For a business it means more markets to sell into, more places to buy from, and more competitors.
@@ -120,6 +153,17 @@ Glenmarrow Apparel makes 25,000 jackets a year for sale in its home country. It 
 
 The overseas site saves £4.20 per jacket, which is £105,000 a year across 25,000 jackets. A strong answer then adds what the table does not show: a longer supply chain, slower delivery to the home market, currency changes that could raise costs, and possible harm to reputation if overseas working conditions draw criticism. The cost saving is the reward. Delays and reputational damage are the risks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--03-location-cost-per-jacket.webp" width="900" height="810" alt="Stacked bars of cost per jacket for a home site (21.60 pounds) and an overseas site (17.40 pounds), split into labour, materials and transport. Overseas saves 4.20 pounds a jacket, 105,000 pounds a year, but the table leaves out a longer supply chain, currency changes and reputation risk." loading="lazy">
+  <figcaption>The overseas site saves 105,000 pounds a year in the table, but the table does not show the risks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## 7 The interdependent nature of business
 
 The four functions named in the specification are operations, finance, marketing and human resources. Interdependent means each function relies on the others, so a decision in one area changes the others.
@@ -136,11 +180,28 @@ A good synoptic answer picks the function the question is about, then follows th
 
 A decision to expand needs a sales forecast from marketing, a capacity check from operations, a funding plan from finance and a recruitment plan from human resources. If any one is missing, the plan can fail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--04-functions-interdependent.webp" width="900" height="830" alt="A marketing box labelled extra demand from a successful promotion has arrows to operations (more stock and capacity), finance (cash for stock before customers pay) and human resources (extra staff or hours), with two-way arrows between the three. A banner says a decision in one function changes the others." loading="lazy">
+  <figcaption>A promotion that works in marketing creates needs in operations, finance and human resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--07-training-supplier-knock-on.webp" width="900" height="896" alt="Two decisions each point to four boxes. Cut in training budget: operations, quality may fall; finance, saves money now; marketing, reputation may suffer; human resources, morale may fall. Move to a cheaper supplier: operations, delivery and quality may change; finance, lower cost; marketing, product claims may need to change; human resources, staff may need new procedures." loading="lazy">
+  <figcaption>A cut in training or a cheaper supplier helps finance but changes the other functions.</figcaption>
+</figure>
+
+
 ## 7 Risk and reward
 
 **Risk** is the chance that a decision turns out badly. **Reward** is the benefit if it works. Bigger rewards usually carry bigger risks. Risk and reward appear in almost every business decision: opening a new shop, starting to export, buying equipment, changing a product.
 
 A business can reduce risk by researching the market first, starting small, selling several products and keeping cash in reserve. Information helps, but it never removes risk entirely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--06-arr-rowanside-machine.webp" width="900" height="820" alt="A 50,000 pound machine is bought at the start. Four bars show forecast profits of 9,000, 13,000, 15,000 and 13,000 pounds, with a dashed line at the average of 12,500 pounds. Average rate of return is 12,500 divided by 50,000 times 100, which is 25 percent, and it rests on forecasts." loading="lazy">
+  <figcaption>The 50,000 pound machine earns an average 12,500 pounds a year, an ARR of 25% based on forecasts.</figcaption>
+</figure>
+
 
 ## 7 Using financial information
 
@@ -180,6 +241,12 @@ ARR = 12,500 / 50,000 x 100 = 25%
 ```
 
 A 25% ARR looks attractive, but it rests on forecasts. The machine also means a £50,000 cash outflow at the start, so the cash flow forecast must show the business can afford it. Staff would need training (human resources) and the new work must be sold (marketing). The decision links all four functions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--05-margins-fall-revenue-rises.webp" width="900" height="900" alt="Two bars show where each pound of revenue goes. In year 1 cost of sales takes 62.5p, other expenses 27.5p and net profit 10.0p (gross margin 37.5 percent). In year 2 cost of sales takes 65.0p, other expenses 26.1p and net profit 8.9p (gross margin 35.0 percent). Revenue rose 15 percent but net profit rose only 600 pounds, so both margins fell." loading="lazy">
+  <figcaption>Revenue grew 15% but both margins fell, so profit hardly rose.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -85,6 +85,12 @@ Harlow Bakes, a small business with 12 employees, is thinking of selling fresh s
 2. Weigh the options. Test marketing costs ingredients and time. A focus group gives opinions from perhaps eight people. A short questionnaire left on the counter is cheap and reaches regular customers.
 3. Judgement: use a short questionnaire first, because the budget is small and the deadline is short. Try a limited test sale only if replies show enough interest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+
 ## 3. Using data (4.1.3)
 
 ### Qualitative and quantitative data
@@ -117,6 +123,17 @@ Data is **reliable** when it can be trusted to give a true picture, so that repe
 
 Unreliable data can lead to a wrong decision, such as stocking an unwanted product, which defeats the purpose of reducing risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--02-survey-35-percent.webp" width="900" height="1080" alt="A grid of 240 circles with 84 filled shows 35 percent would buy sourdough weekly (quantitative). A speech bubble with the comment about slicing is qualitative. Together they suggest a market exists and slicing might widen it." loading="lazy">
+  <figcaption>84 of 240 is 35% (how many); the comment about slicing says why (qualitative).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+
 ## 4. Why marketing matters (4.2.1, part 1)
 
 In standard teaching, marketing is how a business identifies, anticipates and satisfies customer needs profitably. The specification names these three reasons it matters.
@@ -135,6 +152,12 @@ In standard teaching, marketing is how a business identifies, anticipates and sa
 | Fits | Competitive markets with changing tastes | A genuinely new product, or one where the maker's skill is the selling point |
 
 The table is standard teaching. A market-oriented business designs its offer around research results; a product-oriented business makes the product first and then looks for buyers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--04-market-vs-product-orientation.webp" width="900" height="960" alt="Two process chains. Market orientation: research, design, make, sell. Product orientation: make, sell, find buyers. Research is central in the first and limited in the second." loading="lazy">
+  <figcaption>Market orientation starts with customers; product orientation starts with what the business makes.</figcaption>
+</figure>
+
 
 ## 5. Market share, analysis, niche and mass marketing (4.2.1, part 2)
 
@@ -173,6 +196,17 @@ Sales rose, yet share is unchanged: the business only kept pace with the market.
 
 A shop selling handmade vegan cakes is niche. A supermarket chain selling bread to all shoppers is mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--01-market-share-unchanged.webp" width="900" height="860" alt="Two bars to the same scale show the town bread market. Last year 45,000 of 360,000 dollars is 12.5 percent. This year 49,500 of 396,000 dollars is still 12.5 percent. Both the market and Harlow Bakes grew 10 percent, so share is unchanged." loading="lazy">
+  <figcaption>Sales rose 10% but so did the market, so share stayed at 12.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
+
 ## 6. Responding to changes in the market (4.2.2)
 
 Markets change. The specification names three causes.
@@ -189,6 +223,12 @@ Markets change. The specification names three causes.
 
 A drop of about 10.5% would worry Harlow Bakes. A response is a small, lower-priced range. A drawback is lower profit on each sale, so the owner must check costs first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--03-spending-fall-10-5.webp" width="900" height="940" alt="Two bars show weekly household spending on bakery products falling from 38 to 34 dollars, a fall of 10.5 percent. A suitable response is a smaller lower-priced range, but costs must be checked because profit per sale falls." loading="lazy">
+  <figcaption>Spending fell from $38 to $34, a 10.5% drop, so Harlow Bakes needs a response.</figcaption>
+</figure>
+
+
 ## 7. Market segmentation (4.2.3)
 
 A **market segment** is a group of customers who share characteristics. **Market segmentation** is dividing a market into such groups so that a business can target the product, price and promotion at the groups most likely to buy. The specification lists five ways to identify segments.
@@ -202,6 +242,12 @@ A **market segment** is a group of customers who share characteristics. **Market
 | Age | The age group of customers | A phone with large buttons targets older adults |
 
 Segmentation helps a business aim its marketing money well. Disadvantages: research costs, and ignoring other segments may lose sales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -49,11 +49,23 @@ When two waves or pulses arrive at the same point, the **resultant displacement*
 
 For continuous waves, superposition at a point depends on the **phase difference** between the two waves there. In phase gives a large resultant; in antiphase gives a small or zero one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--01-ibp-ssd-pulses.webp" width="900" height="1000" alt="Three rope snapshots: a +4.0 cm pulse and a -3.0 cm pulse approach, overlap to give +1.0 cm (components dashed), then pass through unchanged." loading="lazy">
+  <figcaption>Displacements add with sign, and the pulses emerge unchanged.</figcaption>
+</figure>
+
+
 ## Coherent sources
 
 Stable interference needs **coherent** sources: two sources of the same frequency (so the same wavelength in the same medium) whose phase difference stays constant. If the phase difference changed randomly, maxima and minima would move about faster than any detector could follow and you would see an even average.
 
 Two separate filament lamps are not coherent, because each emits light in short, random bursts. Coherence is achieved by taking the light from one source and splitting it, for example with a laser lighting two slits, so any change in the source affects both beams alike. In the standard demonstration the two slits act as two coherent sources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--02-ibp-ssd-coherence.webp" width="900" height="1010" alt="Top: two lamps emit in random bursts so the phase of each wave jumps and the phase difference changes in steps. Bottom: one laser split by two slits gives a constant phase difference." loading="lazy">
+  <figcaption>Coherent sources keep a constant phase difference, so the pattern is stable.</figcaption>
+</figure>
+
 
 ## Conditions for interference
 
@@ -70,6 +82,12 @@ Path difference nλ means the waves arrive in phase, because one is a whole numb
 - Point Q is 36.4 cm and 26.6 cm away. Path difference = 9.8 cm; 9.8 / 2.8 = 3.5 = (3 + ½), so **destructive**.
 
 If the resultant at a destructive point is near zero, the energy has not vanished. It appears at the maxima, so the total energy delivered is conserved. Equal-amplitude waves in phase give double the amplitude, and since intensity depends on amplitude squared, the maximum is four times the intensity of a single source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--03-ibp-ssd-path-difference.webp" width="900" height="1250" alt="For in-phase transmitters with wavelength 2.8 cm, point P (41.3 cm and 27.3 cm) has path difference 14.0 cm = 5.0 wavelengths, so constructive; point Q (36.4 cm and 26.6 cm) has 9.8 cm = 3.5 wavelengths, so destructive." loading="lazy">
+  <figcaption>A whole number of wavelengths gives a maximum; a half-integer gives a minimum.</figcaption>
+</figure>
+
 
 ## Young's double-slit experiment
 
@@ -101,6 +119,17 @@ Measuring across many fringe spacings and dividing is better than measuring one 
 
 The pattern is also evidence for the wave nature of light, since particles travelling in straight lines would not produce alternating bright and dark bands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--04-ibp-ssd-young.webp" width="900" height="1030" alt="A laser lights two slits a distance d apart, with a screen at distance D. The next bright fringe has path difference one wavelength. For 532 nm, D = 1.80 m and d = 0.25 mm the fringe separation is 3.83 mm, shown as a computed fringe strip." loading="lazy">
+  <figcaption>s = lambda D / d gives the fringe separation from wavelength, screen distance and slit separation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--05-ibp-ssd-fringe-spacing.webp" width="900" height="990" alt="Four fringe strips to the same scale: base case s = 3.83 mm; red 650 nm gives 4.68 mm; halving d gives 7.66 mm; doubling D gives 7.66 mm." loading="lazy">
+  <figcaption>A longer wavelength, closer slits or a further screen spread the fringes.</figcaption>
+</figure>
+
+
 ## Single-slit diffraction (HL only)
 
 Light passing through one narrow slit of width b spreads out and forms a pattern on a distant screen. For a **rectangular slit and monochromatic light** the pattern has:
@@ -125,6 +154,12 @@ Width of central maximum = 2Dθ = 2 × 1.5 × 0.01625 = **0.0488 m** (about 4.9 
 
 If the slit is made twice as wide, θ halves and the central maximum is about 2.4 cm wide, and brighter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--06-ibp-ssd-single-slit.webp" width="900" height="930" alt="Intensity against screen position for 650 nm light, slit 0.040 mm, screen 1.5 m: central maximum 4.9 cm wide between minima at 2.4 cm either side, with secondary maxima half as wide (2.4 cm). A slit twice as wide halves the central width." loading="lazy">
+  <figcaption>The central maximum has width 2 lambda D / b, so a wider slit gives a narrower pattern.</figcaption>
+</figure>
+
+
 ## Modulation of the double-slit pattern (HL only)
 
 Real double slits have slits of finite width b. Each slit produces its own single-slit pattern, and the two patterns overlap on the screen. The result is the double-slit fringes (spacing set by d) **inside an envelope** shaped like the single-slit pattern (width set by b). This is the modulation of the double-slit pattern by the single-slit one: fringe brightness follows the envelope, and fringes are strong near the centre and fade towards the envelope's minima.
@@ -136,6 +171,12 @@ Where a double-slit maximum falls exactly on a single-slit minimum, that fringe 
 - The first single-slit minimum is at sin θ ≈ λ/b. A double-slit maximum of order n is at sin θ ≈ nλ/d.
 - They coincide when n/d = 1/b, so n = d/b = 0.30 / 0.050 = 6.
 - The sixth-order fringe is missing on each side. Fringes from orders 0, ±1, …, ±5 lie inside the central envelope: **11 bright fringes**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--07-ibp-ssd-modulation.webp" width="900" height="870" alt="Double-slit fringes with d = 0.30 mm and b = 0.050 mm sit inside a single-slit envelope. The sixth-order fringes are missing, leaving 11 bright fringes from n = -5 to 5." loading="lazy">
+  <figcaption>Fringe brightness follows the single-slit envelope, and a fringe on an envelope minimum is missing.</figcaption>
+</figure>
+
 
 ## Multiple slits and diffraction gratings (HL only)
 
@@ -163,6 +204,17 @@ Compared with two slits, a grating with many slits gives **narrower, sharper and
 - First order spectrum: 17.5° (violet) to 31.7° (red).
 - Second order: violet at sin θ = 0.600, so 36.9°. Wavelengths above d/2 = 667 nm have no second order, so the red end is cut off.
 - Third order violet: sin θ = 3 × 400 × 10⁻⁹ / 1.333 × 10⁻⁶ = 0.900, so θ = 64.2°, which lies **inside** the range of the second-order spectrum (from 36.9° upwards). Orders 2 and 3 overlap; orders 1 and 2 do not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--08-ibp-ssd-grating.webp" width="900" height="1060" alt="Light of 610 nm on a 750 lines per mm grating (d = 1.33 micrometres) gives maxima at 0 degrees and plus and minus 27.2 and 66.2 degrees, five in all, because d over lambda is 2.19." loading="lazy">
+  <figcaption>Maxima follow n lambda = d sin theta, and sin theta cannot exceed 1, which limits the highest order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--09-ibp-ssd-grating-white.webp" width="900" height="880" alt="On the same grating, white light gives a white centre and spectra with violet nearer the centre. Order 1 spans 17.5 to 31.7 degrees; order 2 starts at 36.9 degrees and loses wavelengths above 667 nm; order 3 starts at 64.2 degrees, so orders 2 and 3 overlap." loading="lazy">
+  <figcaption>Violet is deviated least, and higher orders spread out and overlap.</figcaption>
+</figure>
+
 
 ## Common errors
 

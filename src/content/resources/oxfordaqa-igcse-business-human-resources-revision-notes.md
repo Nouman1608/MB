@@ -64,6 +64,12 @@ Small reminder: a manager with 5 supervisors, each with 12 workers, has a span o
 
 Centralised: consistent decisions and tight control, but slow and may demotivate. Decentralised: quick, local and trusting, but less control and risk of inconsistency. Choose by size, type of work and skills of staff. Structure also affects communication, because every extra level is another link where a message can be delayed or changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ## 3.4.2 Recruitment and selection
 
 Need: a vacancy from leavers or retirement, growth, a new branch or missing skills. Recruitment attracts applicants. Selection picks one.
@@ -83,6 +89,12 @@ Stages in order:
 6. References, offer, acceptance.
 
 Benefits of doing it well, which the specification asks you to analyse: high productivity, high quality output or customer service, and staff retention. Link each to a cost saving or a sales gain. A bad hire who leaves means paying to recruit again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
 
 ## 3.4.3 Motivating employees
 
@@ -104,6 +116,12 @@ Non-financial methods:
 
 Pay calculation reminder: commission is the percentage multiplied by the sales that qualify, then added to any basic pay. Profit sharing is profit × percentage shared, then divided by the number of employees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--02-pay-calculations.webp" width="900" height="790" alt="A 52,000 sales bar splits into 20,000 and 32,000 above the threshold; 3% of 32,000 is 960 commission added to 1,400 salary for 2,360. A wage of 11.50 for 38 hours is 437. A 5% profit share of 240,000 is 12,000, or 300 each across 40 staff." loading="lazy">
+  <figcaption>Commission applies only to sales above the threshold; wage follows hours; profit sharing is split equally.</figcaption>
+</figure>
+
+
 ## 3.4.4 Training
 
 Benefits to the business: increased productivity, ability to deal with changes in technology, increased motivation, staff retention, high-quality goods and good customer service.
@@ -119,6 +137,12 @@ How to choose:
 1. Add up the costs of each method, including lost output and travel.
 2. Match the method to the stem: number of trainees, how specialist the skill is, size of the business.
 3. Give a decision and a reason. A small business with few spare staff may prefer on the job. Specialist skills point to off the job.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--03-training-cost-hobsbury.webp" width="900" height="800" alt="Two stacked bars: off the job costs 5,100 (fees 4,500 plus travel 600); on the job costs 5,800 (lost output 4,800 plus mentors 1,000). Off the job is 700 cheaper on these figures, but the whole picture must be judged." loading="lazy">
+  <figcaption>Off the job is cheaper here by 700, but the decision needs more than cost.</figcaption>
+</figure>
+
 
 ## Worked reminder: cost of filling a post
 
@@ -187,3 +211,9 @@ For an evaluate or justify question on any method (a structure, a way of recruit
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Section 3.4 Human resources (3.4.1 to 3.4.4).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+

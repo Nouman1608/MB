@@ -52,6 +52,22 @@ Money is anything that is generally accepted as payment for goods and services a
 
 **Worked example (store of value).** Households in Country A hold 10,000 kora for one year while prices rise 5%. The goods that cost 10,000 kora today cost 10,000 × 1.05 = 10,500 kora next year. So the saving buys what 10,000 ÷ 1.05 = 9,524 kora buys today, a fall in purchasing power of 476 kora. Inflation weakens money as a store of value, and the standard of deferred payment as well, because lenders are repaid in less valuable money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--06-bank-barter-vs-money.webp" width="900" height="1130" alt="A baker with bread wants tools but the toolmaker wants cloth, so the baker must swap bread for cloth and then cloth for tools. With money the baker sells bread to anyone for coins and buys tools from the toolmaker." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--07-bank-store-of-value.webp" width="900" height="790" alt="Two columns: 10,000 kora held today, and in a year the same money buys what 9,524 buys today after 5% inflation. The difference of 476 kora is lost purchasing power." loading="lazy">
+  <figcaption>Inflation weakens money as a store of value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## 9.4.2 The money supply
 
 The money supply is the total amount of money in an economy at a point in time. Money held by banks as their own cash is not counted, because it is not circulating among the public. Countries measure it in a narrow and a broad way. A narrow measure covers the most liquid forms, such as notes and coins held by the public and deposits that can be spent on demand. A broad measure adds less liquid deposits, such as savings.
@@ -63,6 +79,27 @@ The money supply is the total amount of money in an economy at a point in time. 
 | Savings deposits | 380 |
 
 Narrow money = 40 + 260 = 300. Broad money = 300 + 380 = 680. Moving funds from savings to current accounts leaves broad money unchanged and raises narrow money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--07-credit-multiplier.webp" width="900" height="1110" alt="Four rounds with a 10% reserve ratio from a 1,000 kora deposit: 1,000, 900, 810, 729, each split into reserve and lending. Maximum total deposits 10,000, so 9,000 created. At 15% the total is 6,667, at 20% 5,000." loading="lazy">
+  <figcaption>Each loan becomes a new deposit; the reserve ratio limits the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--08-bank-narrow-vs-broad.webp" width="900" height="750" alt="A bar of 680 million kora: notes and coins 40, demand deposits 260, savings deposits 380. Narrow money is 40 + 260 = 300 and broad money is 300 + 380 = 680." loading="lazy">
+  <figcaption>Narrow money covers the most liquid forms; broad money adds savings deposits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--09-bank-deficit-financing.webp" width="900" height="780" alt="A deficit of 600 million kora financed by the non-bank public leaves the money supply unchanged at the start; by commercial banks raises deposits by 600; by the central bank adds reserves of 600 so deposits can rise by up to 6,000." loading="lazy">
+  <figcaption>The effect of deficit financing on the money supply depends on who buys the bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--10-bank-payments-surplus-money.webp" width="900" height="910" alt="A surplus brings in 50 million dalos. At 2.00 kora per dalo the central bank pays 100 million kora, raising bank reserves by 100 and allowing deposits up to 1,000. Selling 100 million kora of bonds sterilises the inflow." loading="lazy">
+  <figcaption>A payments surplus under a fixed rate can expand the money supply unless the central bank sterilises it.</figcaption>
+</figure>
+
 
 ## 9.4.3 The quantity theory of money: MV = PT
 
@@ -79,6 +116,12 @@ M is the money supply, V the velocity of circulation (the average number of time
 - T is not fixed. With spare capacity, extra money can raise output instead of prices.
 - The money supply may be driven by demand for loans, so causation can run from spending to money, not only the other way.
 - There are time lags between M and P.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--08-mv-pt.webp" width="900" height="1040" alt="Equal-area rectangles for MV and PT. Start M 600, V 5, P 2.00, T 1,500. M up 20% to 720 gives P 2.40. M 600 with T 1,800 gives P 1.67, down 16.7%." loading="lazy">
+  <figcaption>MV = PT is an identity; with V and T constant, prices move in proportion to the money supply.</figcaption>
+</figure>
+
 
 ## 9.4.4 Commercial banks
 
@@ -109,6 +152,17 @@ M is the money supply, V the velocity of circulation (the average number of time
 A bank therefore holds a spread of cash, quick-to-sell securities and loans.
 
 **Why the capital ratio matters.** With equity of 120 and a required ratio of 10%, Bank X can hold assets up to 120 ÷ 0.10 = 1,200, so 200 more of lending is possible. If the requirement rises to 15%, the limit becomes 120 ÷ 0.15 = 800. Bank X must then cut assets by 200 or raise equity. Higher requirements make banks safer but restrict lending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--09-bank-balance-sheet-x.webp" width="900" height="990" alt="Bank X: assets 1,000 (cash 88, securities 212, loans 700) equal liabilities and equity 1,000 (demand deposits 520, savings 360, equity 120). Reserve ratio 10%, capital ratio 12%, liquid assets 300. Capital limit 1,200 at 10% and 800 at 15%." loading="lazy">
+  <figcaption>A balance sheet balances, and the ratios show liquidity and capital strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## 9.4.5 Causes of changes in the money supply
 
@@ -150,6 +204,12 @@ In quantitative easing (QE), the central bank creates reserves electronically an
 **Worked example.** A bond pays a fixed 5 kora a year and its price is 100, so its yield is 5 ÷ 100 = 5%. Large central bank purchases raise the price to 125. The yield is now 5 ÷ 125 = 4%. If the central bank buys 200 million kora of bonds from a pension fund, the fund's deposit rises 200 and the fund's bank gains 200 of reserves.
 
 **Evaluation.** QE works if banks lend the extra reserves and households and firms borrow. It is weaker if banks hoard reserves, if demand for loans is low, or if asset prices rise and benefit mainly asset owners. QE may also raise inflation later if the extra money continues to circulate once spare capacity is used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--14-qe-bond-yield.webp" width="900" height="790" alt="A bond paying 5 zu a year yields 5% at price 100. When quantitative easing raises the price to 125 the yield falls to 4%." loading="lazy">
+  <figcaption>Buying bonds raises bond prices and lowers yields, cutting long-term borrowing costs.</figcaption>
+</figure>
+
 
 ### Changes in the balance of payments
 

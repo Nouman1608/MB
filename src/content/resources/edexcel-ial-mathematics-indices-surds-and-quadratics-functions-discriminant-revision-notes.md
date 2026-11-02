@@ -92,6 +92,12 @@ Result: 6/2 = 3
 
 **Sketch checklist.** Shape, y-intercept, roots (or note there are none), turning point. Put coordinates on every point you label.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--03-hidden-quadratic.webp" width="900" height="1030" alt="Graph of 3^(2x) - 12 times 3^x + 27 crossing the x-axis at x = 1 and x = 2, with its lowest point -9. Below it, the substitution y = 3^x gives y = 3 or 9, and converting back gives x = 1 or 2." loading="lazy">
+  <figcaption>Substitute y = 3^x, solve the quadratic, then convert back to x.</figcaption>
+</figure>
+
+
 ## 1.5 Completing the square
 
 For a(x + p)² + q:
@@ -124,6 +130,12 @@ x = (−b ± √(b² − 4ac)) / (2a)
 
 **Which method?** Factorise when the roots look rational. Use the formula for irrational roots. Complete the square when asked, or when you need the turning point. The specification also lists a calculator as a method, but show working whenever a question asks for exact values or an explicit method.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--08-complete-square-vertex.webp" width="900" height="890" alt="Graph of y = 4x squared + 8x - 3, equal to 4(x+1) squared - 7, with vertex (-1,-7) on the line x = -1, y-intercept (0,-3) and roots about 0.32 and -2.32. A grey dashed y = 4x squared shows the shift of 1 left and 7 down." loading="lazy">
+  <figcaption>Completed-square form a(x + p)^2 + q gives the vertex (-p, q) and the line of symmetry x = -p.</figcaption>
+</figure>
+
+
 ## 1.4 Discriminant
 
 - b² − 4ac > 0: two different real roots; the graph cuts the x-axis twice.
@@ -138,6 +150,22 @@ x = (−b ± √(b² − 4ac)) / (2a)
 3. Set it = 0 (equal roots), > 0 (two roots) or < 0 (no real roots).
 4. Solve the equation or inequality for k.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--06-discriminant-graphs.webp" width="900" height="1150" alt="Three upward parabolas y = x squared - 6x + c. With c = 5 the discriminant is 16 and the curve crosses the x-axis at x = 1 and 5; with c = 9 it is 0 and the curve touches at x = 3; with c = 13 it is -16 and the curve stays above the axis." loading="lazy">
+  <figcaption>The sign of b squared minus 4ac says whether the parabola crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
+  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--09-line-meets-curve.webp" width="900" height="980" alt="Parabola y = x squared - 4x + 10 with three parallel lines y = 2x + k. k = 3 cuts it twice (x = 3 plus or minus root 2), k = 1 touches it at (3, 7) and k = -1 misses it. The discriminant 4k - 4 is positive, zero or negative." loading="lazy">
+  <figcaption>The discriminant of the equation formed by equating a line and a curve tells you whether they cross, touch or miss.</figcaption>
+</figure>
+
 
 ## Worked reminders for 1.3 to 1.5
 
@@ -235,6 +263,12 @@ Do these without notes, by hand where you can.
 - Writing a decimal when an exact answer in surd form is requested.
 - Setting the discriminant greater than zero when the question says "no real roots", or stopping before solving for k.
 - Sketching a parabola with no coordinates labelled, or with a turning point not on the axis of symmetry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--01-root-then-power.webp" width="900" height="880" alt="Three step-by-step pipelines. 64 to the 2/3: cube root gives 4, square gives 16. 1296 to the 3/4: fourth root gives 6, cube gives 216. (27/8) to the minus 2/3: flip to 8/27, cube root gives 2/3, square gives 4/9. A note reminds that 2 to the minus 3 is 1/8, not minus 8." loading="lazy">
+  <figcaption>For a fractional index take the root first, then the power; a negative index flips the fraction.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

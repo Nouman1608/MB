@@ -46,10 +46,27 @@ Condensed for the final weeks. For the full explanation, use the
 - **pV = constant** *(Supplement)*, for a fixed mass of gas at constant temperature (Boyle's law) — pressure is inversely proportional to volume, so halving the volume doubles the pressure.
 - **Brownian motion**: the random, erratic motion of visible smoke/pollen particles suspended in a gas or liquid, caused by collisions with the much smaller, fast-moving gas/liquid particles — evidence for the particle model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
+
 ## Thermal expansion
 
 - Solids, liquids and gases all expand when heated (at constant pressure) — gases expand the most, then liquids, then solids, because of the differences in how strongly particles are held together and how far apart they already are *(Supplement)*.
 - Everyday consequences: expansion gaps in bridges/railway tracks, bimetallic strips in thermostats, a tight jar lid loosening when warmed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
 
 ## Specific heat capacity *(Supplement)*
 
@@ -61,6 +78,12 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 
 **Core-only idea:** a temperature rise means an increase in an object's internal energy — you don't need the equation for this, just the link.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
+
 ## Changes of state
 
 - **Melting/boiling**: energy is put in, but temperature stays constant while the state changes — the energy is used to overcome the forces between particles (increasing potential energy), not to speed the particles up.
@@ -69,6 +92,12 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 - **Evaporation** happens at any temperature, only at the liquid's surface, and is the escape of the most energetic particles — this **removes** energy from the remaining liquid, which is why evaporation has a **cooling effect**.
 - **Boiling** happens at one fixed temperature (the boiling point), throughout the liquid, not just the surface.
 - Factors that **increase the rate of evaporation** *(Supplement)*: higher temperature, larger surface area, air movement (draught) over the surface, lower humidity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
 
 ## The three ways heat transfers — keep them strictly separate
 
@@ -80,6 +109,17 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 
 - *(Supplement)* Many solids sit in between: glass, brick and concrete conduct better than insulators (plastic foam, wool, trapped air) but much less well than metals.
 - *(Supplement)* Several processes at once: a coal or wood fire heats a room mainly by radiation while hot gases leave up the chimney by convection; a car radiator passes energy from the coolant by conduction through thin metal fins, and moving air carries it away by convection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

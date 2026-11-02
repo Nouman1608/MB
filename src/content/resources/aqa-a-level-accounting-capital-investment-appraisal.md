@@ -108,6 +108,12 @@ will not change if the press is bought. Kestrel has already paid £3 000 for a m
 
 **Step 4: ignore the market survey.** The £3 000 is a sunk cost. Year 0 is the (120 000) outlay; brackets show an outflow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--01-relevant-cash-flows.webp" width="900" height="1050" alt="Wexcombe Cider example. Counted: canning line, installation, sale of old fillers (year 0 outlay 216,000) and resale in year 5. Left out and crossed: depreciation, engineer fee, head-office share and loan interest, with a reason for each." loading="lazy">
+  <figcaption>Include only future cash caused by the project; leave out depreciation, sunk costs, unchanged overheads and (OxfordAQA) loan interest.</figcaption>
+</figure>
+
+
 ## 3. Payback
 
 The **payback period** is the time a project's net cash inflows take to repay the initial outlay.
@@ -136,6 +142,12 @@ At the end of year 2, £34 000 is still to be recovered. Year 3 brings in £52 0
 
 The year-4 residual value plays no part: payback ignores everything after the outlay is repaid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--02-payback-running-total.webp" width="900" height="1010" alt="Bars show the running total of cash for the Kestrel press from -120 to +80 thousand pounds. The total crosses zero between years 2 and 3. 34,000 divided by 52,000 times 12 gives 7.8 months, so payback is 2 years 8 months." loading="lazy">
+  <figcaption>Payback is when the running total of cash turns positive.</figcaption>
+</figure>
+
+
 ## 4. Net present value
 
 ### The time value of money
@@ -156,6 +168,17 @@ has not eroded it, and there is no risk it never arrives. So each future cash fl
 - **Present value** = cash flow × discount factor.
 - **Net present value (NPV)** = total present value of all the cash flows, with the initial outlay
   entered as a negative. Equivalently, total present value of inflows − initial outlay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--06-wacc.webp" width="900" height="870" alt="A bar split of 1,000,000 finance (45% shares at 12%, 15% preference at 8%, 40% debentures at 8.5%) leads to a second bar of contributions 5.4%, 1.2% and 3.4%, totalling 10.0%." loading="lazy">
+  <figcaption>WACC weights each source's cost by its share of finance and is used as the discount rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
+  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
+</figure>
+
 
 ### Decision rule
 
@@ -181,6 +204,17 @@ Total present value of inflows = 36 360 + 37 996 + 39 052 + 42 346 = £155 754.
 NPV = 155 754 − 120 000 = **£35 754 positive**, so on financial grounds Kestrel should buy the press.
 
 Note that the residual value is included in year 4 here, because NPV uses all the project's cash flows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
+  <figcaption>Discounting turns later cash into smaller present values; NPV is their total less the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--04-npv-can-say-no.webp" width="900" height="940" alt="Two bars compare Wexcombe inflows added up (314,000) with the same inflows in today's money (210,969) against the 216,000 outlay. The discounted total is 5,031 short, so NPV is negative and the project is rejected." loading="lazy">
+  <figcaption>A project can recover its cost undiscounted yet still have a negative NPV.</figcaption>
+</figure>
+
 
 ## 5. Benefits and limitations of each method
 
@@ -235,6 +269,12 @@ years 4 and 5, the least certain forecasts. If Fenwick is short of cash or its m
 Alder's earlier return may matter more. If the later forecasts are reliable, Birch is better because it
 adds more value. A strong answer adds a non-financial point, such as which supplier offers better
 servicing, and ends with a clear recommendation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--05-payback-vs-npv.webp" width="900" height="1080" alt="Running totals for Alder and Birch cross zero at 2 years 6 months and 3 years 10 months. NPV bars at 8% show Alder 11,610 and Birch 17,545. Payback favours Alder, NPV favours Birch, and Birch relies on later years." loading="lazy">
+  <figcaption>Payback and NPV can recommend different projects, so evaluate with both.</figcaption>
+</figure>
+
 
 ## Common errors
 

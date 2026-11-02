@@ -51,6 +51,12 @@ All firms, markets and numbers below are fictional, and money is in currency uni
 
 **Barriers to exit** are costs of leaving: sunk costs, redundancy payments and long contracts. High exit costs also deter entry, because a firm that cannot leave easily is wary of arriving.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 2. Profit-maximising equilibrium (6c)
 
 A monopolist faces a falling demand curve, so selling an extra unit means cutting the price on every unit. Marginal revenue (MR) is therefore below price. With a straight-line demand curve, MR has the same intercept and twice the slope.
@@ -87,6 +93,17 @@ Shaded (//) area = supernormal profit = (88 - 70) x 8 = 144.
 
 Because MR must be positive at the optimum, a monopolist never settles where demand is inelastic. At Q = 8, price elasticity of demand = (1/4) × (88/8) = 2.75, which is elastic (see the [elasticity guide](/resources/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand/)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--01-monopoly-equilibrium-worked.webp" width="900" height="1010" alt="Worked monopoly diagram: output 8 where MR = MC, price 88 read from demand, supernormal profit 144 as a rectangle and deadweight loss 64 against the competitive output 12 at price 72." loading="lazy">
+  <figcaption>A monopolist sets MR = MC, then reads its price from the demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
+  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
+
 ## 3. Costs, benefits and efficiency (6d, 6h)
 
 Take the competitive benchmark P = MC: 120 − 4Q = 24 + 4Q, giving Q = 12 and P = 72.
@@ -115,6 +132,17 @@ Consumer surplus is a triangle: ½ × 8 × (120 − 88) = 128, against ½ × 12 
 
 **Worked evaluation: can monopoly give a lower price?** Demand is P = 120 − 4Q. A competitive industry with constant MC = 80 would give Q = 10 at P = 80. One firm exploiting scale economies has MC = 8, so MR = 120 − 8Q = 8 gives Q = 14 and P = 64. The monopoly price is lower. Only a large cost advantage produces this, and it depends on the savings being passed on. Judgement therefore turns on the size of the cost gap, regulation, and whether profits are reinvested.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--07-monopoly-lower-price-scale.webp" width="900" height="950" alt="Demand and MR with two flat MC lines. At MC 80 output is 10 and price 80; with MC 8 the monopolist produces 14 and charges 64, a lower price." loading="lazy">
+  <figcaption>A monopoly with a large cost advantage can charge less than a competitive industry, if savings are passed on.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--08-monopoly-productive-efficiency.webp" width="900" height="960" alt="Cost curves with the monopoly point (8, 70) and the minimum of ATC at about (10.95, 67.8) where MC cuts ATC. The gap of 2.95 units shows the monopolist is short of minimum cost." loading="lazy">
+  <figcaption>The monopolist produces 8 at ATC 70, short of minimum ATC (about 67.8) at 10.95, so it is not productively efficient.</figcaption>
+</figure>
+
+
 ## 4. Natural monopoly (6e)
 
 A natural monopoly exists where long-run average cost keeps falling over the whole range of market demand. One firm can serve the market at lower unit cost than two or more, so competition would waste resources. Typical cases have a large fixed network and a low marginal cost.
@@ -135,6 +163,12 @@ For the second row: 90 − 2Q = 480/Q + 10 gives Q² − 40Q + 240 = 0, so Q = 2
 - Allocative efficiency needs P = MC, but that makes a loss equal to fixed cost (480), so a subsidy or a two-part tariff would be needed.
 - Duplication is costly. If two firms each served 20 units, each would face ATC = (480 + 200)/20 = 34, against 22 for one firm serving 40. Competition raises costs.
 - A regulator may lack the cost information needed to set the price correctly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--02-natural-monopoly-pricing.webp" width="900" height="1070" alt="Pipeline natural monopoly with falling ATC and constant MC of 10. A profit maximising gives output 20 at price 50 (profit 320); B average cost pricing gives about 32.6 at 24.7; C marginal cost pricing gives 40 at 10 with a loss of 480. One firm serving 40 has ATC 22 versus 34 for two firms." loading="lazy">
+  <figcaption>With ATC always falling, profit-max, average-cost and marginal-cost pricing give three different outcomes.</figcaption>
+</figure>
+
 
 ## 5. Third-degree price discrimination (6f, 6g)
 
@@ -167,6 +201,22 @@ Total profit is 1,256. The group with the more elastic demand gets the lower pri
 - Firms: higher profit, and spare capacity can be filled.
 - Welfare can rise if discrimination opens a market that a single price would exclude. Suppose student demand is P = 30 − 2Q. A single price of 56 serves no students. Discrimination sells 4.5 units at 21, adding profit of 40.5 and consumer surplus of 20.25.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--03-price-discrimination-two-markets.webp" width="900" height="1040" alt="Two demand diagrams for a ferry with MC 12: adults pay 56 for 22 passengers (profit 968) and students pay 36 for 12 (profit 288). Total profit 1,256 beats the single price 46 profit of 1,156." loading="lazy">
+  <figcaption>Setting MR = MC in each market gives the more elastic group the lower price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--10-price-discrimination-welfare.webp" width="900" height="800" alt="Two bars: one price gives consumer surplus 778 and profit 1,156; two prices give 628 and 1,256. Consumer surplus falls by 150, profit rises by 100, total surplus falls by 50." loading="lazy">
+  <figcaption>Discrimination shifts 150 of surplus from consumers, 100 reaches the firm and 50 is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--11-price-discrimination-opens-market.webp" width="900" height="965" alt="Student demand line from 30 with MR and MC 12. MR = MC at 4.5 units, price 21. The profit rectangle is 40.5 and the consumer surplus triangle is 20.25. At price 56 nobody buys." loading="lazy">
+  <figcaption>A student price of 21 serves a market that a single price of 56 would exclude entirely.</figcaption>
+</figure>
+
+
 ## 6. Monopsony (7a, 7b)
 
 **Assumptions and conditions (7a).** A monopsony is a single (or dominant) buyer. In a labour market it is the main employer, and it is a wage maker facing an upward-sloping labour supply curve. Conditions that sustain it: workers are occupationally or geographically immobile, there are few alternative employers, and unions are weak or absent. It is usually assumed to pay one wage to all workers.
@@ -190,6 +240,17 @@ Under monopsony, 6 + L = 30 − 0.5L gives L = 16. The wage comes from the suppl
 - Firms: lower costs and higher profit; risks include poor motivation, high turnover and hard-to-fill posts. The same logic applies to a dominant buyer of farm produce paying suppliers less.
 - Consumers: lower prices if cost savings are passed on; possible lower quality or supply problems if suppliers cannot survive.
 - Employees: lower wages and fewer jobs than competition would give; but jobs may not exist at all without the large employer, and it may train staff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--04-monopsony-labour-market.webp" width="900" height="1000" alt="Labour market diagram: supply 6 + 0.5L, MCL 6 + L and MRP 30 - 0.5L. The monopsonist hires 16 workers where MCL = MRP and pays 14 from the supply curve, 8 below MRP of 22; competition would give 24 workers at 18." loading="lazy">
+  <figcaption>A monopsony hires where MCL = MRP, then pays the wage on the supply curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony--09-monopsony-minimum-wage-cases.webp" width="900" height="1050" alt="S, MRP and MCL curves for a monopsony. Without a minimum wage there are 16 workers at 14. A minimum wage of 18 gives 24 workers, 20 gives 20 workers and 22 gives 16 workers." loading="lazy">
+  <figcaption>A minimum wage raises employment up to 18, but at 22 employment is back to 16.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -57,6 +57,12 @@ A human gene in the genome contains introns, and bacteria cannot splice them out
 
 An enzyme cuts only at its own recognition sequence because its active site is complementary to it. Using one enzyme on both the gene and the plasmid gives matching sticky ends.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--01-restriction-sticky-ends.webp" width="900" height="975" alt="Four steps show a DNA duplex with the palindromic site GAATTC. The enzyme cuts after the G in each strand, leaving AATT single-stranded sticky ends. Plasmid and gene ends cut with the same enzyme anneal by hydrogen bonds, and DNA ligase then forms phosphodiester bonds across the two nicks." loading="lazy">
+  <figcaption>Cutting both DNA molecules with the same enzyme gives matching sticky ends, and ligase seals the backbone.</figcaption>
+</figure>
+
+
 ### Electroporation
 
 A short electrical pulse makes temporary pores in the cell surface membrane, and DNA moves in through them. The pores then close. It works on bacteria, yeast and many other cell types.
@@ -117,6 +123,17 @@ Efficiency = colonies in the whole tube ÷ mass of DNA used. If 120 colonies gro
 
 A patient has 40% of T cells carrying a working gene at 1 month and 20% at 12 months. The fall is 40 − 20 = 20 percentage points, which is (20 ÷ 40) × 100 = 50% of the earlier value. Explain with reference to treated cells being lost or replaced. Say whether the result suggests repeat treatment is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--02-recombinant-plasmid.webp" width="900" height="1120" alt="A plasmid of 4700 bp is cut once and a 1150 bp gene cut with the same enzyme is ligated in to give a 5850 bp recombinant plasmid. The gene arc is drawn in proportion to its size. A promoter and terminator flank the gene and an antibiotic-resistance marker gene is on the vector." loading="lazy">
+  <figcaption>A recombinant plasmid carries the gene with a working promoter and terminator, plus a marker gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. State the role of DNA ligase in making recombinant DNA.
@@ -142,6 +159,12 @@ A patient has 40% of T cells carrying a working gene at 1 month and 20% at 12 mo
 8. 500 × 2.0 = 1,000 g = 1.0 kg.
 9. Somatic treats body cells and is not inherited; germ line alters gametes or embryos and is inherited. Somatic effects may fade, while germ line effects are passed on. The patient can consent to somatic therapy, but future people cannot consent to germ line therapy.
 10. Patent holders can set high prices, so poor farmers may not afford the seed, or they become dependent on one company.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
+  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

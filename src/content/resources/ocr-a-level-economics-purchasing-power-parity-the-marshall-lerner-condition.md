@@ -73,6 +73,17 @@ As a rule of thumb, the higher-inflation country's currency depreciates by about
 
 **Judgement.** PPP predicts poorly over months and years, because financial flows dominate, but is a better guide over long periods, especially where inflation gaps are large. It treats the exchange rate as set only by goods prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--01-ppp-absolute.webp" width="900" height="920" alt="Two matching baskets cost 240 arcs in Country A and 180 bels in Country B, giving a PPP rate of 1.33 arcs per bel. On a number line the market rate of 1.50 sits to the right of the PPP rate, so the bel is overvalued by 12.5% and there is pressure for it to fall. A buyer who swaps 180 bels at 1.50 gets 270 arcs, which buys the 240-arc basket with 30 arcs to spare." loading="lazy">
+  <figcaption>Absolute PPP: a market rate of 1.50 against a PPP rate of 1.33 leaves the bel 12.5% overvalued.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--02-ppp-relative.webp" width="900" height="920" alt="Price levels rise from 100 to 106 in Country A and from 100 to 102 in Country B. Applying relative PPP to a starting rate of 1.50 arcs per bel gives 1.50 × 1.06 ÷ 1.02 = 1.559, so the bel appreciates by about 3.9% and the arc depreciates. The 4-point inflation gap is a close rule of thumb." loading="lazy">
+  <figcaption>Relative PPP: the 6% and 2% inflation gap moves the rate from 1.50 to 1.559.</figcaption>
+</figure>
+
+
 ## 2. Why countries manage their exchange rate for competitiveness
 
 A government or central bank can manage its currency rather than leave it entirely to the market. The specification's reason is **international competitiveness**: a lower exchange rate makes exports cheaper for overseas buyers and imports dearer at home, which helps home producers.
@@ -94,6 +105,17 @@ A government or central bank can manage its currency rather than leave it entire
 - Lower interest rates to hold the currency down may conflict with inflation aims.
 - Trading partners may retaliate, cancelling the gains.
 - A low rate makes imports dearer and keeps living standards lower.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--03-depreciation-prices.webp" width="900" height="930" alt="The arc falls from 0.50 to 0.45 bels. A machine priced at 100 arcs costs a foreign buyer 50 bels before and 45 bels after, 10% cheaper. An import priced at 30 bels costs 60 arcs before and 66.7 arcs after, 11.1% dearer, because the division runs the other way. Bars show each price." loading="lazy">
+  <figcaption>A 10% fall in the arc cuts the foreign price of exports by 10% but raises the home price of imports by 11.1%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--04-managing-rate-methods-costs.webp" width="900" height="1170" alt="Selling own currency and buying foreign currency adds to reserves, risking inflation and finite reserves. Cutting interest rates deters hot money but can clash with inflation aims. Both hold the currency low so exports are cheaper and imports dearer, risking retaliation and lower living standards." loading="lazy">
+  <figcaption>Methods of holding a currency down and the cost attached to each step.</figcaption>
+</figure>
+
 
 ## 3. The Marshall-Lerner condition
 
@@ -119,6 +141,12 @@ Case 2: PEDx = 0.9, PEDm = 0.6. Sum = 1.5, above 1.
 
 **Assumptions to state.** The condition suits small changes from balanced trade, and assumes full pass-through to prices, nothing else changing and no supply constraints on exporters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--04-marshall-lerner-cases.webp" width="900" height="930" alt="Trade starts balanced at 20,000 arcs each way and the arc depreciates 10%. In Case 1, PEDx 0.6 plus PEDm 0.3 is 0.9 (below 1): export revenue rises 1,200 but the import bill rises 1,340, so the balance worsens by 140 arcs. In Case 2, the sum is 1.5 (above 1): export revenue rises 1,800 and the import bill only 680, so the balance improves by 1,120 arcs." loading="lazy">
+  <figcaption>The worked example: a sum of elasticities below 1 worsens the balance and above 1 improves it.</figcaption>
+</figure>
+
+
 ## 4. The J-curve
 
 Short-run elasticities tend to be smaller than long-run ones. Contracts are fixed in advance, buyers need time to notice price changes, and firms need time to find new suppliers or expand capacity. So straight after a depreciation, import bills rise while volumes barely move, and the trade balance **worsens first**, then improves as volumes adjust. Plotted over time, the balance traces a shape like the letter J.
@@ -130,6 +158,12 @@ Illustrative balance (billion arcs, invented) before and after a depreciation at
 | Balance | −2.0 | −3.1 | −3.8 | −3.0 | −1.8 | −0.6 | +0.5 | +1.1 |
 
 The balance is −2.0 at the start and falls to a trough of −3.8 in quarter 2, 1.8 below where it began. It passes the starting point in quarter 4 (−1.8) and ends 3.1 above it by quarter 7. For a J-curve to occur, the Marshall-Lerner condition must hold in the long run. If it does not, the balance never recovers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--05-j-curve-quarters.webp" width="900" height="880" alt="The trade balance starts at minus 2.0 billion arcs, falls to a trough of minus 3.8 in quarter 2 (1.8 below the start), passes the starting level in quarter 4 and reaches plus 1.1 by quarter 7, 3.1 above the start. The curve is shaped like the letter J. It only recovers if the Marshall-Lerner condition holds in the long run." loading="lazy">
+  <figcaption>The lesson’s table of balances plotted as a J-curve.</figcaption>
+</figure>
+
 
 ## 5. Impact of exchange rate changes on international competitiveness
 
@@ -144,6 +178,17 @@ The balance is −2.0 at the start and falls to a trough of −3.8 in quarter 2,
 - **Domestic inflation.** If the depreciation feeds higher home costs, the advantage fades.
 
 An appreciation reverses these effects: export prices abroad rise and imports get cheaper, though firms using imported inputs benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--07-unit-labour-cost-exchange-rate.webp" width="900" height="930" alt="Wages of 2,400 arcs for 40 units give 60 arcs per unit, 30 bels at 0.50 and 27 bels at 0.45, which is 10% lower." loading="lazy">
+  <figcaption>A depreciation cuts unit labour cost by 10% in foreign-currency terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## 6. Is changing the value of a currency effective for macro objectives?
 
@@ -164,6 +209,22 @@ An appreciation reverses these effects: export prices abroad rise and imports ge
 7. Alternatives: supply-side policies can raise non-price competitiveness.
 
 **Judgement.** Changing a currency's value is a quick tool, but effectiveness depends on elasticities, spare capacity and the share of imports in spending. In the long run, productivity and quality matter more than the rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--05-currency-effectiveness-chain.webp" width="900" height="1126" alt="Five steps from a falling currency to higher output and jobs, with gates for pass-through, quality and rivals, the Marshall-Lerner sum and J-curve, and spare capacity. A side branch shows imported inflation creating a growth against inflation conflict." loading="lazy">
+  <figcaption>The chain from a weaker currency to output, with the checks that can break it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--06-depreciation-multiplier-inflation.webp" width="900" height="1010" alt="Withdrawals of 0.2, 0.2 and 0.1 total 0.5 so the multiplier is 2: +6bn net exports gives +12bn, 3.0% of 400bn. Imports are 25% of the basket and rise 11.1%, adding about 2.8% to prices." loading="lazy">
+  <figcaption>Net exports of +6bn become +12bn of income (3.0% of 400bn) while dearer imports add about 2.8% to prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
 
 ## Common errors
 

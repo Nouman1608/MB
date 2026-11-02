@@ -66,6 +66,22 @@ These notes condense section 3.4.1.2 (Trade) of the OxfordAQA International AS a
 - C is better at both (90 > 40 and 30 > 20), but it still gains by specialising in chairs.
 - Both gain if one lamp trades for between 2 and 3 chairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--03-trade-ppc-specialise.webp" width="900" height="1080" alt="Two production possibility curves with the lesson numbers. Each country specialises and trades at 1 pump for 3 baskets. A consumes 51 pumps and 27 baskets and B consumes 9 pumps and 73 baskets, both outside their own curves and 3 more of each good than before." loading="lazy">
+  <figcaption>Trade lets each country consume outside its own PPC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--04-world-output-specialise.webp" width="900" height="890" alt="Stacked bars show world output of 54 pumps and 94 baskets without trade, and 60 pumps and 100 baskets when A makes only pumps and B only baskets. A pump costs 2 baskets in A and 5 in B." loading="lazy">
+  <figcaption>Specialising by comparative advantage gives 6 more of each good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--12-un227-tr-advantage-switch.webp" width="900" height="950" alt="Bars show the opportunity cost of one pump in baskets. Before, A gives up 2 and B gives up 5, so A has the advantage in pumps. If B raises pump output from 20 to 60 (an invented change) its cost falls to 1.67 and the advantage switches to B, while the advantage in baskets moves to A." loading="lazy">
+  <figcaption>Comparative advantage is not fixed: investment and productivity can move it between countries.</figcaption>
+</figure>
+
+
 ## Method 2: terms of trade
 
 1. Put the export price index on top and the import price index below.
@@ -77,6 +93,12 @@ These notes condense section 3.4.1.2 (Trade) of the OxfordAQA International AS a
 **Causes:** changes in commodity prices, the exchange rate, relative inflation, world demand, tariffs and other barriers.
 
 **Effects:** an improvement lets each export buy more imports. The effect on the trade balance depends on how responsive volumes are to price, so it is never automatic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--06-terms-of-trade-series.webp" width="900" height="920" alt="Export prices 100, 106, 101, 96 and import prices 100, 101, 110, 120 give terms of trade of 100, 104.95, 91.82 and 80.0. In year 4 the country needs 1.25 times as many exports for the same imports." loading="lazy">
+  <figcaption>Falling terms of trade mean exporting more to buy the same imports.</figcaption>
+</figure>
+
 
 ## Method 3: tariffs, quotas and export subsidies
 
@@ -95,6 +117,17 @@ Use the same sequence for each:
 
 **Reminder.** A 12% ad valorem tariff on an import priced at 250 adds 250 × 0.12 = 30. A tariff of 3 on 40 units of imports brings revenue of 120. A subsidy of 3 per unit on 50 exported units costs 150.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--05-tariff-numbers.webp" width="900" height="930" alt="Demand Qd = 120 - 4P and supply Qs = 20 + 4P. A tariff raises the price from 5 to 7. Producers gain 88, the government gets 88 and the welfare loss is 8 + 8 = 16, so consumers lose 192. Imports fall from 60 to 44." loading="lazy">
+  <figcaption>The tariff diagram with its areas computed from the lesson functions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--10-un227-tr-export-subsidy.webp" width="900" height="1030" alt="A price against quantity diagram of tea with Qd = 90 - 4P and Qs = 20 + 5P. A world price of 10 gives exports of 20; a subsidy of 2 lifts the home price to 12 and exports to 38. Shaded areas show consumers losing 92, 58 paid by taxpayers to producers, and net loss triangles of 8 and 10." loading="lazy">
+  <figcaption>An export subsidy of 2 raises exports to 38 but leaves a net loss of 18.</figcaption>
+</figure>
+
+
 ## Reasons for and against protection
 
 | Reason given | Weakness to raise |
@@ -112,6 +145,12 @@ Use the same sequence for each:
 - A **tariff** raises revenue for the government. A **quota** creates a gain for licence holders unless licences are sold.
 - A higher terms of trade index does not by itself mean a stronger current account.
 - Free trade area: no internal barriers. Customs union adds a common external tariff. Common market adds free movement of labour and capital. Monetary union adds a single currency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--07-trading-bloc-stages.webp" width="900" height="990" alt="A free trade area removes internal barriers only. A customs union adds a common external tariff, a common market adds free movement of labour and capital, and a monetary union adds a single currency." loading="lazy">
+  <figcaption>Each bloc stage adds one more feature.</figcaption>
+</figure>
+
 
 ## Evaluation chains
 
@@ -151,6 +190,12 @@ Use the same sequence for each:
 10. Any two of: investment in education or capital, new technology, discovery or exhaustion of resources, wage changes, exchange rate changes.
 11. Selling in a foreign market at a price below cost, or below the price charged at home.
 12. 3 × 50 = 150.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--11-un227-tr-quota-rent.webp" width="900" height="1066" alt="A cloth market diagram with Qd = 120 - 4P, Qs = 20 + 4P and world price 5. A quota of 44 adds 44 to supply and raises the price to 7. The rectangle between quantities 48 and 92 and prices 5 and 7 is the licence rent of 88, not tax revenue." loading="lazy">
+  <figcaption>A quota of 44 gives the same price rise as the tariff, but the 88 box goes to licence holders.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

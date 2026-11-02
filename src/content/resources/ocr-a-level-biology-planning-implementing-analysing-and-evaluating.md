@@ -64,6 +64,12 @@ A **control experiment** differs from a control variable. Here it would be extra
 
 Check each part of a given method against the aim. Does it measure the dependent variable directly and at a suitable scale? Does the independent variable cover a wide enough range with enough values? Are there repeats? Does it give a quantity you can calculate with?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--03-variables-and-boiled-control.webp" width="900" height="1150" alt="Two gas syringe rigs. Live catalase extract fills the syringe with oxygen; boiled extract gives none. Four controlled variables are listed with how to control each." loading="lazy">
+  <figcaption>A control experiment (boiled enzyme) shows the effect comes from the enzyme; control variables are kept the same.</figcaption>
+</figure>
+
+
 ## 1.1.2 Implementing
 
 ### (a) Using apparatus and techniques correctly
@@ -78,6 +84,12 @@ Give every measurement a unit and convert before you calculate.
 - A rate has a compound unit: cm³ s⁻¹ for volume per second, mm min⁻¹ for distance per minute.
 
 Worked example. A micrograph of a cell is 45 mm long at a magnification of ×900. Actual length = image length ÷ magnification = 45 ÷ 900 = 0.05 mm. Multiply by 1000: **50 µm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
 
 ### (c) Presenting observations and data
 
@@ -163,6 +175,27 @@ rate at 30 s = (18.8 - 9.2) / (50 - 10) = 0.24 cm3 s^-1
 
 The tangent at 0 s gives the initial rate, about 0.8 cm³ s⁻¹. The rate falls because substrate is used up, so initial rate is the best measure of enzyme activity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--04-rate-tangent.webp" width="900" height="840" alt="A curve of product volume against time with a tangent at 30 s through (10, 9.2) and (50, 18.8). The gradient is 9.6 divided by 40, which is 0.24 cm3 per s. The steeper tangent at 0 s gives the initial rate, about 0.8 cm3 per s." loading="lazy">
+  <figcaption>The rate at a point is the gradient of the tangent there; the initial rate is the steepest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--05-graph-intercepts.webp" width="900" height="800" alt="Net oxygen release against light intensity with a best-fit line. The y-intercept is about -6.0 mm3 per h (respiration alone), the x-intercept about 20 au (compensation point) and the gradient about 0.30." loading="lazy">
+  <figcaption>Intercepts and gradient of a best-fit line have biological meanings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--04-potometer-gradient-to-volume.webp" width="900" height="1090" alt="Graph of bubble distance against time with best-fit line through (0, 0) and (25, 70): gradient 2.8 mm per minute. Tube area 0.785 mm2 gives 2.2 mm3 per minute, 2.2 x 10^-3 cm3 per minute." loading="lazy">
+  <figcaption>The gradient of the line gives distance per minute; multiplying by tube area gives volume rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--07-percentage-change-and-sig-figs.webp" width="900" height="1070" alt="Carrot mass bars 1.84 g and 2.03 g give +10.3 percent. 16.4 cm3 (3 s.f.) divided by 35 s (2 s.f.) gives 0.4685..., rounded at the end to 0.47 cm3 per second." loading="lazy">
+  <figcaption>Work out percentage change from the original value, and round to the fewest significant figures only at the end.</figcaption>
+</figure>
+
+
 ## 1.1.4 Evaluation
 
 ### (a) and (b) Results, conclusions and anomalies
@@ -212,6 +245,12 @@ absolute uncertainty = 0.133 x 0.133 = 0.018, so rate = 0.133 +/- 0.018 cm3 s^-1
 
 The volume reading is the main source. A syringe marked every 0.1 cm³ gives 0.1 ÷ 8.0 = 1.25 % instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--06-combining-uncertainty.webp" width="900" height="1000" alt="A gas syringe marked every 1 cm3 reads 2.0 and 10.0 cm3, each plus or minus 0.5, giving 8.0 plus or minus 1.0 cm3 or 12.5 percent. Time adds 0.83 percent, so the rate has 13.3 percent uncertainty: 0.133 plus or minus 0.018 cm3 per s. A 0.1 cm3 syringe gives 1.25 percent." loading="lazy">
+  <figcaption>Uncertainties in a difference add, then percentage uncertainties add for a quotient.</figcaption>
+</figure>
+
+
 ### (e) Improvements
 
 Link each improvement to a specific limitation and say what it achieves.
@@ -223,6 +262,17 @@ Link each improvement to a specific limitation and say what it achieves.
 | Few pH values | Add values between 5 and 8 | Optimum located more precisely |
 | End point judged by eye | Colorimeter reading | Objective, quantitative |
 | Natural variation | More organisms, calculate the mean | Individual differences averaged out |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--05-anomaly-five-repeats.webp" width="900" height="970" alt="Five repeat CO2 volumes on a number line, with 8.1 circled as anomalous. The mean of the other four is 12.7 cm3, range 0.5. Including 8.1 gives 11.8, 7.2 percent too low." loading="lazy">
+  <figcaption>Identify the anomaly, exclude it and say why, then take the mean of the rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--06-precision-accuracy-percentage-error.webp" width="900" height="1000" alt="Two number lines with accepted value 25.0: tight readings all below it (precise, not accurate) and scattered readings centred on it. Percentage error for 24.3 g against 25.0 cm3 is 2.8 percent." loading="lazy">
+  <figcaption>Precision is closeness of repeats; accuracy is closeness to the true value; percentage error measures the latter.</figcaption>
+</figure>
+
 
 ## Common errors
 

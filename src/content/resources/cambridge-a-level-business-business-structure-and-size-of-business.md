@@ -70,6 +70,22 @@ Both columns total 100%, so the shares are comparable. The changes below are typ
 
 Typical consequences are structural unemployment where old industries close, a need for retraining, regional decline where one sector was concentrated, and new opportunities in growing sectors. Keep reasons apart from consequences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--05-karvale-sector-shift.webp" width="900" height="840" alt="Two stacked columns for Karvale showing sector shares at the start and twenty years later; tertiary rises from 38 to 58 percent while primary falls from 30 to 8." loading="lazy">
+  <figcaption>Karvale: workers move from primary and secondary into tertiary and quaternary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ## 1.2.2 Business ownership
 
 **Liability** is the first thing to master.
@@ -110,6 +126,22 @@ Limited liability makes it less risky to start or invest in a business.
 
 A judgement answer says which gain or loss matters more for this business and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--06-changing-form-ladder.webp" width="900" height="1130" alt="Gains and losses at each step of the ownership ladder, and the plc buy-back reverse. Gains and losses when a business changes legal form." loading="lazy">
+  <figcaption>What is gained and lost moving from sole trader to Ltd to plc, and in reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## 1.3.1 Measurements of business size
 
 The syllabus asks how appropriate each method is, not for one correct method. Common measures are the number of employees, sales revenue, capital employed, and market share. These are standard measures; the syllabus does not list them in this section.
@@ -144,6 +176,12 @@ By employees, Salthouse is larger. By revenue and capital employed, Wetherly is 
 
 **Industrial structure.** In some industries small firms are the normal form because demand is local or personalised and economies of scale are limited. Examples are hairdressing, local repairs and specialist craft goods. Large firms may find niches unprofitable, so small firms survive alongside them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--10-small-firms-role.webp" width="900" height="980" alt="Four roles of small firms around a hub, bars showing growth into large employers, and the industrial-structure note. The role of small firms in the economy." loading="lazy">
+  <figcaption>Small firms provide jobs, ideas, supply and local service, and many grow.</figcaption>
+</figure>
+
+
 ## 1.3.3 Business growth
 
 **Organic (internal) growth** means expanding using the business's own resources. *Why:* to gain economies of scale, market share, profit and security. *How:* new products, new markets, more outlets, extra capacity, more marketing. It is slower, but keeps control and builds on existing strengths.
@@ -173,6 +211,32 @@ Bigger share and lower costs are gains, but six years is a long wait and assumes
 **Why a deal may or may not achieve its objectives.** It may succeed when it brings cost savings, a bigger market share, new skills, and a good fit in culture and systems. It may fail through overpaying, clashes of culture, loss of key staff, poor communication, and diseconomies of scale in the enlarged firm.
 
 **Joint ventures and strategic alliances.** In a **joint venture**, firms create a shared project or business. In a **strategic alliance**, firms cooperate on shared aims but stay separate. Both give access to skills, markets or technology with less cost and commitment than a merger. Drawbacks include disagreements, unequal contributions, and sharing know-how with a possible later competitor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--06-dellwood-takeover.webp" width="900" height="1010" alt="Dellwood 18 percent plus Mossback 6 percent gives 24 percent of a 50 million market; savings of 0.65 million a year repay the 3.9 million price in 6 years." loading="lazy">
+  <figcaption>Takeover maths: combined market share and years of savings to repay the price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--07-how-tightly-joined.webp" width="900" height="1000" alt="Three rows from looser to tighter: strategic alliance (separate firms cooperate), joint venture (firms create a shared business C), merger or takeover (firms become one)." loading="lazy">
+  <figcaption>Alliance, joint venture and merger differ in how tightly the firms are joined.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--07-friendly-vs-hostile.webp" width="900" height="1010" alt="Top: both boards agree and combine. Bottom: target board opposes so the bidder appeals directly to shareholders. Friendly merger versus hostile takeover." loading="lazy">
+  <figcaption>A friendly merger is agreed by both boards; a hostile takeover goes to shareholders over the target board.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--08-growth-stakeholder-effects.webp" width="900" height="830" alt="Employees, managers and community may lose; target shareholders may gain; customers and suppliers may gain or lose. Stakeholder effects of a merger or takeover." loading="lazy">
+  <figcaption>How a merger or takeover may affect six stakeholder groups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--09-deal-success-or-failure.webp" width="900" height="890" alt="Success: cost savings, market share, skills, fit. Failure: overpaying, culture clash, staff loss, poor communication, diseconomies of scale. Why a merger or takeover may succeed or fail." loading="lazy">
+  <figcaption>Factors that make a deal succeed or fail.</figcaption>
+</figure>
+
 
 ## Common errors
 

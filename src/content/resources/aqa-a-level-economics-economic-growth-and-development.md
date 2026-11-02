@@ -62,6 +62,17 @@ Average income of the poorest 40%, end:   (0.11 / 0.40) x 1399 = 384.7   (+9.9%)
 
 Average income rises 39.9% but the poorest 40% gain only 9.9%. That is growth with weak development. Use the inequality link in your evaluation: growth figures are averages and say nothing about who gains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--07-growth-without-development.webp" width="900" height="880" alt="Bars for an invented country. Average income per head rises from 1,000 to 1,399 (+39.9%) after 10 years of 6% real GDP growth and 2.5% population growth. The poorest 40%, whose share of income falls from 14% to 11%, see their average income rise from 350 to 385 (+9.9%)." loading="lazy">
+  <figcaption>Average growth of 39.9% can leave the poorest 40% with only 9.9% more, which is growth with weak development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ## Characteristics of less-developed economies
 
 Less-developed economies tend to share some of these features, though no economy shows all of them and the group is very varied.
@@ -86,6 +97,12 @@ Move 10 workers out of farming: gain = 10 x (1.600 - 0.509) = 10.9 units
 ```
 
 Output rises by 10.9%, with no extra workers. The assumption is that the movers become as productive as existing non-farm workers, which needs jobs, skills and capital to exist. Structural change raises growth only if those conditions hold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--08-farm-to-factory-shift.webp" width="900" height="940" alt="Two stacked bars: workers are 55% farming and 45% other; output is 28% farming and 72% other. Output per farm worker is 0.51 and per other worker 1.60, 3.1 times higher. Moving 10 workers out of farming adds 10.9 units, if jobs, skills and capital exist." loading="lazy">
+  <figcaption>Moving workers from low-productivity farming to other jobs raises output without extra workers, if conditions allow.</figcaption>
+</figure>
+
 
 ## Indicators of development
 
@@ -113,6 +130,22 @@ Country C has the higher income, yet Country D has the higher HDI because of bet
 
 **Limits of HDI:** only three dimensions; it ignores inequality within a country, the environment, political freedom and security; the weights are a judgement; and two countries can have the same HDI with very different mixes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--09-hdi-two-countries.webp" width="900" height="970" alt="Grouped bars for the health, education and income indices. Country C: 0.738, 0.567, 0.575, HDI 0.622, income 4,500. Country D: 0.831, 0.661, 0.514, HDI 0.656, income 3,000. D has the higher HDI because of health and schooling although C has the higher income." loading="lazy">
+  <figcaption>A country with lower income can have a higher HDI if health and education are better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## Factors that affect growth and development
 
 **Investment.** Spending on physical capital raises productive capacity and productivity. A simple link: growth is roughly the investment share of GDP divided by the capital-output ratio (units of capital needed per extra unit of output).
@@ -137,6 +170,17 @@ Simple return = 576 / 4680 = 12.3% a year; payback 4680 / 576 = 8.1 years
 Families on very low incomes may not afford the fees or the lost earnings, so a high return can coexist with under-investment. That is a case for subsidy.
 
 Other factors you can use: foreign direct investment, technology transfer, saving, stable institutions and macroeconomic stability, natural resources, and openness to trade.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--01-investment-capital-output.webp" width="900" height="870" alt="Two cases with capital-output ratio 3. Investment of 15% of GDP gives growth of 5% a year; raising it to 24% gives 8%. The growth bar is one third of the investment bar." loading="lazy">
+  <figcaption>Growth is roughly the investment share divided by the capital-output ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--02-schooling-payback.webp" width="900" height="855" alt="Line graph of cumulative net gain starting at minus 4,680 and rising 576 a year, crossing zero at 8.1 years. Return 12.3% a year." loading="lazy">
+  <figcaption>Two extra years of schooling cost 4,680 and pay back after 8.1 years.</figcaption>
+</figure>
+
 
 ## Barriers to growth and development
 
@@ -165,6 +209,12 @@ With price elasticity of supply 0.8: output rises 0.8 x 21.4% = 17.1%
 **Inadequate human capital.** Poor health and low skills limit productivity, and skilled workers may emigrate.
 
 **Lack of property rights.** If farmers cannot prove ownership, they cannot use land as collateral and have less incentive to invest. Suppose land worth 8,000 could secure a loan of half its value. That releases 4,000, which at a 20% return earns 800 a year. Without a title, the loan is unavailable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--03-barriers-three-numbers.webp" width="900" height="1080" alt="Three panels: corruption cuts a 12% return to 9%, below a safe 10%; a rural road lifts the farm-gate price from 42 to 51 (+21.4%, output +17.1%); a land title lets 4,000 be borrowed, earning 800 a year." loading="lazy">
+  <figcaption>Corruption, poor roads and missing property rights each change the numbers that decide investment.</figcaption>
+</figure>
+
 
 ## Policies, market-based and interventionist
 
@@ -195,6 +245,17 @@ Growth = 17 / 3 = 5.7%
 Limits of aid: leakage, dependency, tied aid (a 20% price premium cuts 800m to 667m of real value), debt burdens if it is a loan, and a weaker incentive to raise taxes.
 
 **Trade** supports growth by widening markets, giving access to inputs and technology, and allowing specialisation. Dependence on one primary export is a risk: if a commodity makes up 70% of export revenue and its price falls 25% with volume unchanged, export revenue falls 17.5%. If exports are 30% of GDP, that is a 5.25% direct loss of GDP. Diversifying exports reduces that risk. Trade also links to globalisation and to inequality, since gains from trade are not automatically shared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--10-aid-investment-gap.webp" width="900" height="920" alt="Bars in millions. Investment needed is 3,600 (18% of 20,000 GDP); domestic saving is 2,800, leaving a gap of 800. Full aid of 800 closes it. If 25% leaks, only 600 arrives, 200 short, investment is 17% of GDP and growth is 17/3 = 5.7%." loading="lazy">
+  <figcaption>Leakage of aid leaves an investment shortfall and growth below target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--04-export-dependence.webp" width="900" height="880" alt="Stacked columns of export revenue: 70 commodity plus 30 other falls to 52.5 plus 30 after a 25% price fall, total 82.5, a 17.5% fall, or 5.25% of GDP if exports are 30% of GDP." loading="lazy">
+  <figcaption>A 25% price fall on a commodity that is 70% of exports cuts export revenue 17.5%.</figcaption>
+</figure>
+
 
 ## Common errors
 

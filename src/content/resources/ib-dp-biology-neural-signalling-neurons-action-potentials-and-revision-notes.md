@@ -38,6 +38,12 @@ These notes condense section C2.2 (Neural signalling) of the IB *Biology guide*,
 | EPSP | Small depolarization of the postsynaptic membrane |
 | IPSP | Hyperpolarization of the postsynaptic membrane (HL only) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--01-neuron-structure.webp" width="900" height="700" alt="A neuron is drawn left to right with several short branching dendrites, a cell body containing a nucleus, one long axon (drawn with a break) and axon terminals. A red arrow shows impulses travelling from the dendrites to the terminals." loading="lazy">
+  <figcaption>A neuron has a cell body, short dendrites, one long axon and axon terminals.</figcaption>
+</figure>
+
+
 ## C2.2.1 to C2.2.3 in steps
 
 **Resting potential**
@@ -69,6 +75,12 @@ Speed = distance ÷ time. Example: 0.45 m in 6.0 ms = **75 m s⁻¹**. The same 
 - Conduction speed is positively correlated with axon diameter and negatively correlated with animal size.
 - Correlation does not show cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--03-speed-correlation.webp" width="900" height="960" alt="A scatter graph of the lesson's six fictional non-myelinated fibres (2 to 80 micrometres, 0.9 to 6.1 m/s) with a dashed line of best fit. r is 0.979 and R squared is 0.959, so about 96% of the variation in speed is explained by diameter; this is association, not proof of cause." loading="lazy">
+  <figcaption>Speed rises with diameter: r = 0.979, R² = 0.959 for the lesson data.</figcaption>
+</figure>
+
+
 ## C2.2.5 to C2.2.7 Synapses
 
 **Method in steps: transmission across an excitatory synapse**
@@ -83,6 +95,12 @@ Speed = distance ÷ time. Example: 0.45 m in 6.0 ms = **75 m s⁻¹**. The same 
 8. The neurotransmitter is removed or broken down.
 
 One direction only: release is presynaptic and the receptors are postsynaptic. Acetylcholine is the example, found at many synapses including neuromuscular junctions. Only chemical synapses are required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--04-chemical-synapse.webp" width="900" height="1010" alt="A presynaptic neurone sits above a postsynaptic neurone with a synaptic cleft between. Six numbered steps: impulse arrives, Ca2+ enters through voltage-gated channels, vesicles fuse and release acetylcholine, ACh binds a receptor that is a channel, Na+ enters giving an EPSP, and an enzyme splits the ACh. A side arrow shows transmission is one way only." loading="lazy">
+  <figcaption>Impulse, Ca2+ entry, exocytosis of ACh, receptor channel opening, EPSP, then enzyme breakdown.</figcaption>
+</figure>
+
 
 ## C2.2.8 to C2.2.10 Action potential and traces (HL only)
 
@@ -104,11 +122,38 @@ One direction only: release is presynaptic and the receptors are postsynaptic. A
 
 Example: peaks 20 ms apart give 1000 ÷ 20 = **50 per second**. Peak size stays constant: all-or-nothing. A stronger stimulus raises frequency only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--02-resting-potential.webp" width="900" height="1000" alt="A membrane separates the outside (top) from the inside (bottom). A pump moves 3 Na+ out and 2 K+ in per ATP cycle, open K+ channels let K+ leak out, Na+ channels are mostly closed and large negative molecules stay inside, so the inside is about -70 mV. 600 cycles move 1800 Na+ out and 1200 K+ in, a net 600 positive charges out." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative molecules make the inside about -70 mV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--05-action-potential.webp" width="900" height="1130" alt="A graph of membrane potential against time rests at -70 mV, rises past the -55 mV threshold to about +35 mV as voltage-gated Na+ channels open, then falls as Na+ channels close and K+ channels open, undershoots below -70 mV and returns. Four membrane diagrams show which channels are open in each stage." loading="lazy">
+  <figcaption>Channel states through resting, depolarization, repolarization and undershoot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--06-oscilloscope-trace.webp" width="900" height="1050" alt="Two traces of membrane potential against time. Peaks at 5, 25 and 45 ms each rise from -70 to +35 mV (105 mV); the 20 ms interval gives 50 impulses per second. A stronger stimulus gives six peaks 10 ms apart, 100 per second, all the same height." loading="lazy">
+  <figcaption>A stronger stimulus raises the frequency of impulses, not their size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--07-local-currents.webp" width="900" height="900" alt="A stretch of axon with the impulse moving left to right. In the active region Na+ enters, so the inside is positive and the outside negative; ahead the membrane is at rest. A local current runs inside toward the resting region and back along the outside, bringing the next stretch to threshold. The region behind has repolarized (K+ out) and cannot fire again at once." loading="lazy">
+  <figcaption>Local currents depolarize the next stretch of membrane, so the impulse moves one way.</figcaption>
+</figure>
+
+
 ## C2.2.11 Saltatory conduction (HL only)
 
 - Myelin insulates the axon.
 - Nodes of Ranvier hold clusters of pumps and channels.
 - The action potential jumps from node to node, so it is faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--08-saltatory-conduction.webp" width="900" height="1090" alt="A myelinated axon with myelin segments separated by nodes of Ranvier where channels and pumps cluster; the impulse jumps from node to node. At 60 m/s and nodes 1.2 mm apart, each internode takes 20 microseconds. Bars compare crossing 0.60 m: 8.0 ms myelinated against 0.50 s non-myelinated, about 63 times faster." loading="lazy">
+  <figcaption>Myelin confines ion movement to the nodes so the impulse jumps and travels faster.</figcaption>
+</figure>
+
 
 ## C2.2.12 to C2.2.14 Chemicals and integration (HL only)
 
@@ -119,6 +164,12 @@ Example: peaks 20 ms apart give 1000 ÷ 20 = **50 per second**. Peak size stays 
 | Inhibitory neurotransmitter | Hyperpolarizes the postsynaptic membrane (IPSP) |
 
 **Summation.** Add all EPSPs (positive) and IPSPs (negative) to the resting potential. If the total reaches threshold, an action potential fires; otherwise it does not. Example: -70 + 6 + 6 + 6 = -52 mV (fires). With an IPSP of -4: -56 mV (does not fire).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-neural-signalling-neurons-action-potentials-and--09-summation.webp" width="900" height="1010" alt="Two stair-step graphs. Three EPSPs of +6 mV take the membrane from -70 to -52 mV, reaching the -55 mV threshold, so an action potential fires. Adding one IPSP of -4 mV gives -56 mV, below threshold, so no action potential." loading="lazy">
+  <figcaption>The neurone adds all EPSPs and IPSPs and fires only if threshold is reached.</figcaption>
+</figure>
+
 
 ## C2.2.15 and C2.2.16 Pain and consciousness (HL only)
 

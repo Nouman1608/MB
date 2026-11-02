@@ -49,9 +49,21 @@ Neither claim succeeds without an agreement. Each partner is credited with 48,00
 
 Comment: Ryder has five times Sloane's capital at risk and Sloane does most of the work, yet both receive the same. Had they agreed the salary and 8% interest on capital, the residual profit would be 48,000 - 15,000 - 4,000 - 800 = £28,200, giving Ryder £18,100 and Sloane £29,900. A written agreement lets the reward match each partner's capital and effort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--01-agreement-vs-default.webp" width="900" height="830" alt="Four bars compare how a 48,000 pound profit is shared between Ryder and Sloane. With no agreement each receives 24,000 pounds. With an agreed 15,000 pound salary for Sloane and 8 percent interest on capital, Ryder receives 18,100 pounds and Sloane 29,900 pounds." loading="lazy">
+  <figcaption>Without an agreement profit is shared equally; an agreement lets reward match capital and effort.</figcaption>
+</figure>
+
+
 ## The income statement
 
 A partnership's income statement is prepared exactly as for a sole trader, with one difference: **interest on a partner's loan is an expense**. The loan is a debt of the firm, so its interest is charged before profit for the year is found. The loan itself is a non-current liability (or current, if repayable within 12 months), not part of capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
 
 ## The appropriation account
 
@@ -87,6 +99,12 @@ Share of profit: Lowe (3/6)          30,675
 Check: 6,000 + 18,000 + 61,350 = 85,350, which is the profit plus interest on drawings. Interest on drawings is **added** because it is charged to the partners; it increases the profit available to share.
 
 If the residual figure is negative, salaries and interest are still credited in full. The residual **loss** is then shared in the profit-sharing ratio and debited to the partners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
 
 ## Capital and current accounts
 
@@ -124,6 +142,12 @@ Current accounts        5,475    (900)     125       4,700
 
 Nash's loan of £15,000 appears under non-current liabilities, not here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+
 ## Changes in partnership
 
 When a partner joins or leaves, the old profit-sharing arrangement ends. Two things must be settled first, both in the **old** ratio, because they arose while the old partners owned the firm.
@@ -149,6 +173,12 @@ If the goodwill is **not kept** in the books (the usual instruction):
 
 The goodwill account closes to nil. If the question says goodwill **is** kept, do only step 1 and show goodwill as a non-current asset.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
+  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
+</figure>
+
+
 ### Worked example: admission of a partner
 
 Fox and Gale share profits 3 : 2, with capitals of £40,000 and £30,000. On 1 January 2026 Hart is admitted and pays £25,000 into the bank as capital. Premises are revalued upward by £15,000 and inventory down by £2,000. Goodwill is valued at £20,000 and will not be kept. The new ratio is Fox 2 : Gale 2 : Hart 1.
@@ -170,6 +200,12 @@ Balance c/d      51,800   35,200  21,000  Bank               -        -  25,000
 
 Check: closing capitals total £108,000 = old capitals 70,000 + Hart's cash 25,000 + revaluation profit 13,000. Goodwill created and written off cancel out in total. In effect Hart has paid £4,000 of his cash for a share of goodwill, which Fox received.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
+  <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
+
 ### Worked example: retirement of a partner
 
 Irwin, Jay and Kemp share profits 2 : 1 : 1. Kemp retires on 31 December 2025. Capitals are Irwin £45,000, Jay £30,000, Kemp £25,000; Kemp's current account has a credit balance of £3,200. Property rises in value by £12,000 and equipment falls by £4,000. Goodwill is £24,000 and is not kept. Irwin and Jay will then share 3 : 2. Kemp receives £10,000 in cash and the rest is left as a loan.
@@ -190,6 +226,12 @@ Balance c/d      46,600   28,400        -  Goodwill      12,000    6,000    6,00
 ```
 
 Kemp is owed £36,200. The £26,200 not paid becomes a liability of the firm, and any interest on it is an expense in later income statements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
+  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
+</figure>
+
 
 ## Commenting on partnership statements
 

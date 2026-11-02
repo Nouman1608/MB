@@ -73,9 +73,21 @@ Resources used to make goods and services are grouped into four factors.
 - **Capital**: man-made goods used to produce other goods, such as machines, tools and buildings. Money itself is not capital in this sense.
 - **Entrepreneurship**: organising the other factors, taking risks and innovating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ### Scarcity and sustainability
 
 Human needs and wants are unlimited, while resources are limited. That gap is **scarcity**, and it exists in every society, rich or poor. Scarcity also links to sustainability. Using up a non-renewable resource today leaves less for later, so choosing now affects future choices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
 
 ### Opportunity cost
 
@@ -86,6 +98,27 @@ Human needs and wants are unlimited, while resources are limited. That gap is **
 > The opportunity cost of running the bakery is the best alternative forgone: the chef's job, **24 000 crowns**. It is not 24 000 + 21 000 = 45 000, because she could never have taken both. The bakery still wins: 26 000 − 24 000 = 2 000 crowns better off.
 
 A **free good** has no opportunity cost because using it does not reduce what anyone else can have. Sunlight falling on a field is an example. Most goods are **economic goods**: they use scarce resources and so have an opportunity cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--02-constant-cost-ppc.webp" width="900" height="840" alt="Graph of Wheat in tonnes against Boats. A straight line joins 100 tonnes of wheat with no boats to 50 boats with no wheat. Every extra boat costs 100 divided by 50, which is 2 tonnes of wheat, at every point. Making 20 boats gives up 20 times 2, which is 40 tonnes, leaving 60 tonnes of wheat. A straight line means constant opportunity cost because resources are equally suited to both goods." loading="lazy">
+  <figcaption>A straight-line PPC from 100 tonnes of wheat to 50 boats costs 2 tonnes per boat everywhere, so 20 boats leaves 60 tonnes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--03-tamsin-opportunity-cost.webp" width="900" height="850" alt="Three horizontal bars show Tamsin's yearly options: running the bakery earns 26,000 crowns, a chef job pays 24,000 and a flour mill job pays 21,000. The chef job is the next best alternative, so the opportunity cost of the bakery is 24,000 crowns. It is not 45,000, because she could never take both jobs. The bakery leaves her 2,000 crowns better off. All numbers are illustrative." loading="lazy">
+  <figcaption>Opportunity cost is the single next best option (the 24,000 chef job), not the sum of everything given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ### The basic economic questions
 
@@ -147,6 +180,12 @@ Resources are rarely equally good at making both goods. The first workers moved 
 - **Actual growth:** the economy moves from a point inside the curve towards it, by using idle resources. The curve stays put.
 - **Growth in production possibilities:** the curve shifts outwards, because there are more or better resources or improved technology. If only one good benefits, the curve pivots out on that axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--01-kestria-ppc-rising-cost.webp" width="900" height="930" alt="Graph of Wheat in tonnes (vertical) against Boats (horizontal) for the fictional economy of Kestria. The production possibilities curve passes through A (0 boats, 100 tonnes), B (10, 96), C (20, 84), D (30, 60) and E (40, 0). Wheat given up per extra boat is 0.4, 1.2, 2.4 and 6.0 tonnes on successive steps, so the cost rises and the curve bows outwards. Point X (20 boats, 70 tonnes) lies inside the curve: 84 minus 70 is 14 tonnes of wheat wasted because resources are idle." loading="lazy">
+  <figcaption>The five Kestria points A to E are plotted, with 0.4, 1.2, 2.4 and 6.0 tonnes of wheat lost per extra boat, and X inside the curve with 14 tonnes wasted.</figcaption>
+</figure>
+
+
 
 ## Modelling the economy: the circular flow of income
 
@@ -164,6 +203,12 @@ In the basic model, **households** supply factors of production to **firms** and
 > Leakages = 60 + 90 + 70 = 220. Injections = 80 + 100 + 40 = 220.
 > They are equal, so the flow of income is stable. If investment rose to 110, injections would be 250, exceeding leakages by 30. Income would tend to rise until leakages grew to match.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--04-pellora-leakages-injections.webp" width="900" height="900" alt="Three horizontal stacked bars in billions of crowns. Leakages are saving 60, taxation 90 and imports 70, total 220. Injections are investment 80, government spending 100 and exports 40, total 220, so the flow of income is stable. If investment rises to 110, injections are 250, which is 30 more than leakages, so income tends to rise until leakages grow to match. Imports are a leakage, not an injection." loading="lazy">
+  <figcaption>Leakages and injections each total 220, and a rise in investment to 110 makes injections 250, 30 above leakages.</figcaption>
+</figure>
+
+
 ## Positive and normative economics
 
 **Positive economics** deals with statements that can be tested against evidence: what is, was or will be. **Normative economics** involves **value judgments**: what ought to be. "Pellora's unemployment fell last year" is positive: you can check it. "Pellora should cut unemployment before anything else" is normative: it depends on what you value. Policy-making needs both.
@@ -171,6 +216,12 @@ In the basic model, **households** supply factors of production to **firms** and
 ### Equity and equality
 
 **Equality** means sharing in equal amounts. **Equity** means fairness, which may involve unequal treatment. If a government has 30 crowns to give to three households, giving 10 to each is equal. Giving 20, 10 and 0 to households with low, middle and high incomes may be called more equitable. Whether either is "fair" is a normative judgment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--11-equity-vs-equality.webp" width="900" height="880" alt="Two bar sets share 30 crowns: 10, 10, 10 for equal shares, and 20, 10, 0 for a possibly more equitable split between low, middle and high income households." loading="lazy">
+  <figcaption>Equal shares and equitable shares can differ.</figcaption>
+</figure>
+
 
 ## Economic methodology
 
@@ -185,6 +236,17 @@ Positive economics follows a method.
 
 > **Worked example.** In the fictional city of Dunmere, the hypothesis is: "If bus fares fall, ceteris paribus, journeys increase." A fare cut from 4 to 3 crowns is followed by journeys rising from 12 000 to 13 800 a week, a rise of 1 800, or 15%. That is consistent with the hypothesis. But fuel prices doubled the same month, which may have pushed drivers to buses. Because other things did not stay equal, the data cannot cleanly confirm or refute the hypothesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--05-ceteris-paribus-bus-fares.webp" width="900" height="850" alt="Two bars show weekly bus journeys in the fictional city of Dunmere: 12,000 when the fare is 4 crowns and 13,800 when the fare is 3 crowns, a rise of 1,800 or 15 percent. Two arrows point at the rise: the fare cut being tested, and a doubling of fuel prices in the same month. Because other things did not stay equal, the data cannot cleanly confirm or refute the hypothesis that a lower fare increases journeys." loading="lazy">
+  <figcaption>Journeys rose 15% after a fare cut but fuel prices doubled too, so ceteris paribus fails and the hypothesis cannot be cleanly tested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--13-method-loop.webp" width="900" height="1060" alt="A flow from assumptions and logic to hypothesis to evidence test with ceteris paribus, then a decision: not contradicted means supported for now; contradicted means reject or revise and try a new claim." loading="lazy">
+  <figcaption>Hypothesis, test and refutation form a loop.</figcaption>
+</figure>
+
+
 ## Economic thought
 
 | Period | Ideas to know |
@@ -195,6 +257,12 @@ Positive economics follows a method.
 | 21st century | Dialogue with psychology and the growing role of behavioural economics; awareness of links between economy, society and environment; the case for a circular economy |
 
 Keynes challenged the view that economies reliably return to full employment on their own. The guide's theory of knowledge questions ask how realistic models are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--12-economic-thought-timeline.webp" width="900" height="958" alt="A vertical timeline of four centuries listing the ideas the lesson names, from Adam Smith and laissez faire to behavioural economics and the circular economy." loading="lazy">
+  <figcaption>Key ideas from the 18th to the 21st century.</figcaption>
+</figure>
+
 
 ## Common errors
 

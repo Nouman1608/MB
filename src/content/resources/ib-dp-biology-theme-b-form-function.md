@@ -37,6 +37,12 @@ question runs through every sub-topic below: how does this structure's form suit
 structure-function logic, once established here, becomes the foundation both Theme C (interaction and
 interdependence) and Theme D (continuity and change) build on directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-theme-b-form-function--01-theme-b-map.webp" width="900" height="835" alt="Eight boxes run from carbohydrates and lipids to adaptation to environment. Arrows show proteins and membranes leading into muscle and motility, which is marked HL only. Two boxes show organelles feeding Theme C and proteins feeding Theme D." loading="lazy">
+  <figcaption>The eight sub-topics move from molecule to organism, and several reappear in later themes.</figcaption>
+</figure>
+
+
 ## Carbohydrates and lipids
 
 Both macromolecule groups are best understood through the same structure-function lens.
@@ -49,6 +55,22 @@ share a broadly hydrophobic character that explains both their efficiency as lon
 (more energy-dense per gram than carbohydrates) and, specifically for phospholipids, their role in
 forming biological membranes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--04-alpha-beta-chains.webp" width="900" height="1230" alt="Alpha-glucose units all face the same way, so the chain coils (starch) and can branch (amylopectin, glycogen), giving many free ends. In beta-glucose chains every other unit is flipped, so the chain is straight; many hydrogen bonds link neighbouring chains into microfibrils." loading="lazy">
+  <figcaption>Same-way units coil and branch; flipped units make straight chains that hydrogen-bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--08-fat-vs-carbohydrate-energy.webp" width="900" height="1090" alt="Lipids store 37 kJ per gram and carbohydrates 17 kJ per gram. To store 100 000 kJ you need 2.70 kg of lipid or 5.88 kg of carbohydrate, so lipid is 2.18 times as energy-dense. Fat is the long-term store; glycogen is the short-term store." loading="lazy">
+  <figcaption>Fat packs about twice the energy per gram of carbohydrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--09-bilayer-steroids.webp" width="900" height="800" alt="A phospholipid bilayer about 7 nm thick has hydrophilic heads facing water on both sides and hydrophobic tails forming the core. A non-polar steroid with four fused rings dissolves in the core and passes through without a transport protein; a sodium ion is blocked." loading="lazy">
+  <figcaption>Non-polar steroids cross the hydrophobic core; ions cannot.</figcaption>
+</figure>
+
+
 ## Proteins
 
 A protein's specific three-dimensional folded shape, determined by its underlying sequence of amino
@@ -57,6 +79,17 @@ as haemoglobin), or catalytic (enzymes). This link between sequence, shape, and 
 sub-topic's central idea, and a common exam trap is describing a protein's function without connecting
 it explicitly back to its shape, when the syllabus's own framing expects shape and function to be
 explained together, not as two separate facts about the same molecule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-theme-b-form-function--02-sequence-shape-function.webp" width="900" height="840" alt="Amino acid sequence folds into a three-dimensional shape, and the shape gives the protein its job. Collagen is structural, haemoglobin transports and enzymes are catalytic. The exam trap is naming a function without linking it to shape." loading="lazy">
+  <figcaption>Explain a protein's function through its shape, which comes from its amino acid sequence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure--07-tertiary.webp" width="900" height="1060" alt="One polypeptide folds back on itself. Four R-group interactions are numbered: hydrogen bond between polar R-groups (weak), ionic bond between opposite charges (moderate), covalent disulfide bond between two cysteines (strong) and hydrophobic clustering of non-polar R-groups (weak but numerous)." loading="lazy">
+  <figcaption>Four R-group interactions, from weak hydrogen bonds to strong disulfide bonds, hold the folded shape.</figcaption>
+</figure>
+
 
 ## Membranes and membrane transport
 
@@ -68,6 +101,17 @@ hydrophilic phosphate heads face outward on both surfaces while hydrophobic fatt
 inward, allowing small non-polar molecules to pass through relatively freely while larger or charged
 molecules require specific transport proteins embedded in the membrane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--01-bilayer-barrier.webp" width="900" height="1000" alt="A phospholipid with a hydrophilic head and two hydrophobic tails self-assembles into a bilayer in water with no energy input. In cross-section, oxygen and carbon dioxide pass through between the phospholipids. A sodium ion and a glucose molecule are stopped at the hydrophobic core." loading="lazy">
+  <figcaption>A bilayer lets small non-polar molecules through and blocks ions and polar molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--03-transport-routes.webp" width="900" height="1010" alt="Three panels. Simple diffusion moves particles directly through the bilayer down the gradient with no protein or ATP and is not selective. Facilitated diffusion moves ions down the gradient through a channel protein with no ATP and is selective. Active transport uses a pump and ATP to move particles against the gradient and is selective." loading="lazy">
+  <figcaption>The route a particle takes decides whether it needs a protein, uses ATP, and is selective.</figcaption>
+</figure>
+
+
 ## Organelles and compartmentalization
 
 Dividing a eukaryotic cell into membrane-bound compartments is functionally useful for two connected
@@ -75,6 +119,17 @@ reasons: it allows chemically incompatible processes to occur simultaneously in 
 same cell, and it allows each organelle to maintain the specific internal conditions -- pH, enzyme
 concentration, ion balance -- that its particular function requires, rather than every reaction in the
 cell having to tolerate a single shared set of conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-theme-b-form-function--03-why-compartments.webp" width="900" height="900" alt="A cell without compartments has one shared set of conditions. A cell with compartments can run incompatible processes at once and keep separate pH, enzyme concentration and ion balance in each." loading="lazy">
+  <figcaption>Compartments let incompatible reactions run side by side under their own conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--05-eukaryote-cell.webp" width="900" height="940" alt="A eukaryote cell with membrane-bound compartments: a nucleus with a double membrane and pores, rough ER with ribosomes, smooth ER, a Golgi apparatus with vesicles, a lysosome, mitochondria with folded inner membranes, free 80S ribosomes and cytoskeleton fibres." loading="lazy">
+  <figcaption>Membranes divide a eukaryote cell into compartments with different jobs.</figcaption>
+</figure>
+
 
 ## Cell specialization
 
@@ -102,6 +157,12 @@ not properties of the surface itself. Internal transport systems, such
 as circulatory systems, are revised with the same logic: their structural features suit the specific
 demand of moving substances over the distances a given organism's body size requires.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-theme-b-form-function--02-gas-surface-vs-gradient.webp" width="900" height="800" alt="Cross-section of a folded, thin, moist, permeable gas exchange surface between air or water above and blood vessels below, with oxygen passing in and carbon dioxide out. Teal labels name the four surface properties. Gold labels name ventilation, dense blood vessels and continuous blood flow, which keep the gradient steep and are not surface properties." loading="lazy">
+  <figcaption>Surface properties and gradient-maintaining features are two separate lists.</figcaption>
+</figure>
+
+
 ## Muscle and motility (HL only)
 
 This sub-topic covers the structural and biochemical mechanics of movement, including the mechanism of
@@ -119,6 +180,12 @@ described organism and its environment and explain, structurally, why a specific
 particular environmental pressure -- for example, explaining why a desert plant's reduced leaf surface
 area limits water loss through transpiration -- rather than describing adaptations in general terms
 disconnected from a specific environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-theme-b-form-function--04-adaptation-chain.webp" width="900" height="870" alt="A chain runs from desert (water scarce) to reduced leaf surface area to less water lost by transpiration. Bars with illustrative numbers show 100 units for a large leaf and 40 for a reduced leaf." loading="lazy">
+  <figcaption>Explain an adaptation by linking a named feature to a named environmental pressure.</figcaption>
+</figure>
+
 
 ## How Theme B is examined
 

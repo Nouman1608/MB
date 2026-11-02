@@ -66,6 +66,17 @@ That is the complete list. The topic in 0610 is about the definition of a drug a
 
 Key sentence for a "Why not?" question: **antibiotics act on structures and processes found in bacterial cells; viruses are not cells and do not have these, so antibiotics have nothing to act on.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--01-what-is-a-drug.webp" width="900" height="1010" alt="Schematic. Caffeine in coffee, a painkiller and an antibiotic are taken into the body from outside, where each changes a chemical reaction. Insulin made by the pancreas inside the body is not taken in, so it is not a drug." loading="lazy">
+  <figcaption>A drug is taken into the body and changes chemical reactions in it; substances the body makes itself are not drugs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+
 ## Resistance -- Core version
 
 Two statements, both to be learned as sentences:
@@ -91,6 +102,17 @@ Two statements, both to be learned as sentences:
 
 This is natural selection. The same example is Supplement outcome 18.3.5 in topic 18, Variation and selection, so it can be examined there as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Resistant** (bacteria) vs **immune** (people). Bacteria are never "immune" to an antibiotic.
@@ -107,6 +129,12 @@ This is natural selection. The same example is Supplement outcome 18.3.5 in topi
 **Growth by division:** one bacterium dividing every 20 minutes for 3 hours goes through 180 ÷ 20 = 9 divisions, giving 2⁹ = **512** bacteria (if all survive). This is why a selected resistant strain spreads fast.
 
 **Wording a "Describe the trend" answer:** give the direction, name the turning point, and quote figures with units -- for example "rose from 6 % to 11 %, then fell to 8 %".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
 
 ## Command words and what they want here
 
@@ -163,6 +191,12 @@ Cover the answers and try each question first.
 11. False -- bacteria become **resistant**; immunity refers to the body's defences.
 12. No -- it is made by the body, not taken into the body.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--02-antibiotic-treatment.webp" width="900" height="1010" alt="Three steps. Bacteria reproduce and the infection grows; an antibiotic kills most of them, leaving a few; the immune system deals with the remainder and the person recovers." loading="lazy">
+  <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "germs" or "microbes" instead of **bacteria** when saying what antibiotics kill.
@@ -174,6 +208,12 @@ Cover the answers and try each question first.
 - Comparing raw numbers rather than percentages when sample sizes differ.
 - Claiming data "prove" that less antibiotic use caused a fall in resistance. Use "suggests" or "is consistent with".
 - Forgetting that resistant bacteria pass on resistance when they **reproduce** -- survival alone does not change the population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--06-mrsa-percentages.webp" width="900" height="960" alt="Extended worked example. MRSA was 8.0% of samples in year 1 (20 of 250), 17.5% in year 2 (42 of 240) and 11.0% in year 3 (22 of 200). The percentage rose then fell; percentages are compared because the number of samples changed." loading="lazy">
+  <figcaption>Compare percentages, not raw numbers, when sample sizes differ.</figcaption>
+</figure>
+
 
 ## Next steps
 

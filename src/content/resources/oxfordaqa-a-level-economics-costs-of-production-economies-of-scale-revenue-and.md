@@ -80,6 +80,12 @@ Rent rises so that fixed costs go from 90 to 150. At 5 batches, VC is still 300.
 
 **A2 note (QS6).** For A2 assessments you also need marginal values: marginal cost is the change in total cost from one extra unit. From the bakery table, going from 3 to 4 batches raises TC from 240 to 300, so the marginal cost of the fourth batch is 60. Marginal values are not part of the section 3.1.3.3 wording itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 3.1.3.4 Economies and diseconomies of scale
 
 Economies of scale are falls in long-run average cost as the scale of production increases. Diseconomies of scale are rises in long-run average cost as scale increases further. Both belong to the long run, because only then can a firm change all its inputs.
@@ -140,6 +146,32 @@ Weigh the benefit against limits:
 4. Diseconomies: past some scale, managing the larger firm can cost more than the saving.
 5. Do consumers benefit? Only if lower costs are passed on in lower prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--07-lrac-flat-section-mes.webp" width="900" height="930" alt="LRAC per bottle is 12, 9.6, 8, 7.2, 7.2, 7.2, 7.8, 9 for outputs 10 to 80. It falls to the minimum efficient scale of 40, stays flat to 60, then rises. A firm at 20 is 33.3 percent above the cost of one at MES." loading="lazy">
+  <figcaption>LRAC falls to MES, runs flat, then rises, with a cost gap for small firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--08-internal-v-external-lrac.webp" width="900" height="1180" alt="Internal economies come from the firm growing and move it down along one LRAC curve. External economies come from the industry or area growing and shift the whole LRAC curve down for every firm." loading="lazy">
+  <figcaption>Internal economies move along the LRAC curve; external economies shift it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--03-bulk-buying-ac.webp" width="900" height="890" alt="Three linked boxes show flour falling from 1.20 to 1.05 a kilo (-12.5%), flour per loaf from 0.80 to 0.70, and average cost from 2.00 to 1.90 (-5.0%). Stacked bars show AC of 2.00 (1.20 other plus 0.80 flour) falling by 0.10." loading="lazy">
+  <figcaption>A 12.5% saving on one input becomes only a 5% fall in average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--04-diseconomies-causes.webp" width="900" height="920" alt="Four panels: many management layers slow decisions (co-ordination); a manager cannot watch every worker (loss of control); a worker feels remote from the firm's aims (motivation); two sites repeat the same admin task (duplication)." loading="lazy">
+  <figcaption>Four causes of diseconomies of scale, each shown as a small picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
+
 ## 3.1.3.5 Average revenue, total revenue and profit
 
 | Measure | Formula |
@@ -172,6 +204,27 @@ Cutting the price from 36 to 32 raises sales from 6 to 8 shirts. TR rises from 2
 
 **A2 note.** Marginal revenue, the change in TR from one extra unit, is a marginal value. Between 4 and 6 shirts, TR rises by 56 over 2 shirts, or 28 each, while marginal cost is (190 − 140) ÷ 2 = 25 each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--01-ar-is-demand.webp" width="900" height="960" alt="Graph of price against shirts per day. AR1 (= D1) is price 48 minus 2Q, giving 36 at 6 shirts and 32 at 8. A price cut moves along the curve; if demand rises so every price is 4 higher the curve shifts up to AR2 and the price at 6 shirts is 40." loading="lazy">
+  <figcaption>The AR curve is the firm's demand curve: a price change moves along it, a change in demand shifts it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--02-tailor-profit.webp" width="900" height="910" alt="Total revenue and total cost plotted against shirts per day, with profit values below: -12, 20, 26, 6, -50, -142 at 2 to 12 shirts. Profit is highest, 26, at 6 shirts. If AR shifts up by 4, TR at 6 shirts is 240 and profit 50." loading="lazy">
+  <figcaption>Profit is the gap between TR and TC: highest at 6 shirts, and a loss at 2 and from 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Dividing only FC by output to get AC, or forgetting that AC = AFC + AVC.
@@ -183,3 +236,9 @@ Cutting the price from 36 to 32 raises sales from 6 to 8 shirts. TR rises from 2
 ## Official syllabus
 
 Source document: the OxfordAQA specification for International AS and A-level Economics (9640), version 1.2. Sections used: 3.1.3.3, 3.1.3.4 and 3.1.3.5, plus quantitative skills QS2, QS5 and QS6 from 3.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+

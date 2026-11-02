@@ -58,6 +58,12 @@ How to interpret a feedback data set:
 3. Quote values from the data, including a percentage change if useful.
 4. Say what is kept constant, if anything.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
+
 ## 3.6.4.2 Blood glucose control
 
 **What raises blood glucose**: absorption of glucose after digestion, glycogenolysis, gluconeogenesis.
@@ -104,6 +110,17 @@ Memory line: hormone, receptor, adenylate cyclase, ATP to cAMP, protein kinase, 
 - Food industry: emphasises personal choice and balance, and points to reformulation and labelling. It has a commercial interest.
 - To evaluate: judge sample size, correlation against cause, funding and who gains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
+
 ## Required practical 11
 
 1. Make a dilution series of glucose solution from a stock, using a measured volume of stock and distilled water.
@@ -141,6 +158,12 @@ Worked reminder: stock 100 mmol dm⁻³, make 20 cm³ of 25 mmol dm⁻³. Stock 
 - Insulin binds to a surface receptor and never enters the cell.
 - Type I (too little insulin) versus type II (poor response to insulin).
 - Negative feedback (corrects) versus positive feedback (amplifies).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

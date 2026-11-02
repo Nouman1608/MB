@@ -117,6 +117,17 @@ The test for a straight-line supply curve is where it meets an axis, not how ste
 
 For two curves through the same point, the flatter one is the more elastic. Steepness alone is not PES, because it depends on the scale of the axes. Compare shapes only on the same diagram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--04-pes-straight-line-test.webp" width="900" height="1300" alt="Three straight supply lines drawn from Q = 3P, Q = 20 + 2P and Q = 2P - 8 with price rising from 10 to 11. The line from the origin has PES 1, the line meeting the quantity axis has PES 0.5 and the line meeting the price axis has PES 1.67." loading="lazy">
+  <figcaption>Where a straight supply line meets the axes decides whether PES is 1, below 1 or above 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--04-pes-four-examples.webp" width="900" height="970" alt="Four pairs of bars compare percentage change in price and in quantity supplied: bakery +15% and +9% (PES 0.6), workshop -12.5% and -15% (PES 1.2), +10% and +10% (PES 1), and PES 1.5 with price +8% giving quantity +12% (2,400 to 2,688)." loading="lazy">
+  <figcaption>Divide the percentage change in quantity by the percentage change in price.</figcaption>
+</figure>
+
+
 ## 2.8.3 Determinants of PES
 
 The syllabus asks for the key influences on whether supply is elastic or inelastic. These are the standard ones. Each answer needs a reason: say how the factor affects how quickly and cheaply firms can raise output.
@@ -127,6 +138,17 @@ The syllabus asks for the key influences on whether supply is elastic or inelast
 4. **Ease of switching factors of production.** If workers and equipment can be moved from one product to another, firms can move into the product whose price has risen. Specialised labour and machines make supply less elastic.
 5. **Availability of raw materials and other inputs.** If inputs are scarce or slow to obtain, output cannot rise quickly. Easily available inputs make supply more elastic.
 6. **Length of the production process.** Goods that take a long time to make or grow, such as tree crops, respond slowly to a price rise. Goods made in hours respond quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--05-pes-capacity-and-time.webp" width="900" height="1010" alt="Bars show a factory raising output from 800 to 960 within capacity of 1,000 (PES 4) versus one already at 1,000, and a market whose output rises 1% in the short run (PES 0.1) but 20% after two years (PES 2.0)." loading="lazy">
+  <figcaption>Spare capacity and time let firms raise output more when price rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## 2.8.4 Why PES matters
 
@@ -150,6 +172,22 @@ The same rise in demand causes a large price rise and a small output rise where 
 **Government.** A government that wants more output of a good needs to know PES. If supply is inelastic, a subsidy shifts supply to the right but adds little to output in the short run, and the price falls by more than the quantity rises, so the policy may disappoint while still costing the government money. If the product has inelastic supply, such as one that takes years to grow, measures that expand capacity or training may work better than a price signal. A government setting a maximum price on a good with inelastic supply can create a persistent shortage, because firms cannot expand output to match demand.
 
 **Evaluation points.** PES is not fixed. It depends on the time period and on current capacity, so a figure calculated today may not hold after a year. Measures of price and quantity changes also depend on the period chosen. A good answer says which time period it assumes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--06-pes-markets-x-y.webp" width="900" height="960" alt="Demand rises from Q = 300 - 20P to Q = 324 - 20P from price 10, quantity 100. With steep supply (Market X) price rises to 11 and quantity to 104 (PES 0.4). With flat supply (Market Y) price rises to 10.4 and quantity to 116 (PES 4)." loading="lazy">
+  <figcaption>The same demand rise raises price a lot where supply is inelastic and quantity a lot where it is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants--07-pes-maximum-price.webp" width="900" height="1065" alt="Using demand Q = 324 - 20P, a cap of 10.2 leaves a shortage of 19.2 in Market X (supply 100.8, demand 120) and 12 in Market Y (supply 108)." loading="lazy">
+  <figcaption>The less elastic supply is, the larger the shortage under a price cap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Common errors
 

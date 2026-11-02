@@ -54,6 +54,12 @@ Messages  Tally      Frequency
 
 Check that the frequencies total the number of values you started with. Here 3 + 5 + 8 + 4 + 2 + 2 = 24.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--02-tally-table.webp" width="900" height="908" alt="A table for 24 students shows tally strokes grouped in fives and frequencies 3, 6, 8, 4, 2, 1 totalling 24. The rows for 3, 4 and 5 books are highlighted and sum to 7 students, 7/24 of the class." loading="lazy">
+  <figcaption>Group tally strokes in fives, then check the frequencies add up to the number of items.</figcaption>
+</figure>
+
+
 ## 2. Pictograms
 
 A pictogram uses symbols, and the key says what one symbol stands for. Divide by the key to find how many symbols to draw. Multiply to read a value. Use half symbols when the key allows.
@@ -62,6 +68,12 @@ A pictogram uses symbols, and the key says what one symbol stands for. Divide by
 Monday: 36 ÷ 8 = 4.5, so four whole symbols and one half.
 Tuesday: 20 ÷ 8 = 2.5, so two whole symbols and one half.
 Reading back: a Thursday row with 4 symbols shows 4 × 8 = 32 loaves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp" width="900" height="801" alt="A whole circle is 8 books and a quarter circle is 2. Monday to Wednesday and Friday read 28, 18, 32 and 14. Thursday is 130 minus 92 = 38 books, which is 4 and three quarters circles." loading="lazy">
+  <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
+</figure>
+
 
 ## 3. Bar charts: dual and composite
 
@@ -82,6 +94,22 @@ A **composite bar chart** stacks the parts of each total in one bar. Each segmen
 Dual chart: two bars per year, of heights 12 and 8 for Year 9, and so on.
 Composite chart: Year 9 has a boys segment from 0 to 12 and a girls segment from 12 to 20. Year 10 runs 0 to 10, then 10 to 24. Year 11 runs 0 to 6, then 6 to 15.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--01-club-dual-composite.webp" width="900" height="1175" alt="Club members: Year 9 has 12 boys and 8 girls, Year 10 has 10 and 14, Year 11 has 6 and 9. The dual chart shows two bars per year; the composite chart stacks girls on boys, giving totals 20, 24 and 15." loading="lazy">
+  <figcaption>The same club data drawn as a dual bar chart and as a composite bar chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
+  <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
+</figure>
+
+
 ## 4. Pie charts
 
 A pie chart splits a whole into sectors. Frequencies and angles are in the same ratio.
@@ -95,6 +123,17 @@ Check: 90 + 135 + 75 + 60 = 360°.
 
 Reading a pie chart works backwards. A sector of 42° in a survey of 240 households stands for (42 ÷ 360) × 240 = 28 households.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
+  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
+</figure>
+
+
 ## 5. Line graphs
 
 A line graph plots a quantity against time, with points joined by straight lines. Use it to show a trend.
@@ -103,6 +142,12 @@ A line graph plots a quantity against time, with points joined by straight lines
 The changes between readings are +3, +4, +6, +2, −5, −6.
 The largest rise is 6 °C, between 10:00 and 12:00. The largest fall is 6 °C, between 16:00 and 18:00.
 Halfway between the 12:00 and 14:00 readings the line gives (25 + 27) ÷ 2 = 26 °C. This is only an estimate, because nothing was measured at 13:00.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--07-line-graph-reading.webp" width="900" height="900" alt="Temperatures 12, 15, 19, 25, 27, 22 and 16 degrees Celsius from 06:00 to 18:00 are joined by straight lines. The largest rise is 6 degrees (10:00 to 12:00), the largest fall is 6 degrees (16:00 to 18:00), and the 13:00 value of 26 is only an estimate." loading="lazy">
+  <figcaption>Reading rises, falls and an estimated value from a line graph.</figcaption>
+</figure>
+
 
 ## 6. Stem-and-leaf diagrams
 
@@ -120,6 +165,12 @@ Key: 2 | 5 means 25
 
 The diagram holds 19 values. The range is 47 − 18 = 29. Three scores of 31 make it the most common. Six scores are over 35 (36, 38, 41, 42, 44, 47). The middle value is the 10th, which is 31.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--06-stem-and-leaf.webp" width="900" height="866" alt="Rows 12 to 16 hold the 20 ordered times, with the key 12 | 5 meaning 12.5 seconds. The 10th and 11th values, 14.2 and 14.4, give the median 14.3 s. The range is 4.3 s." loading="lazy">
+  <figcaption>Count leaves, not stems, to find the median, and always include the key.</figcaption>
+</figure>
+
+
 ## 7. Scatter graphs
 
 A scatter graph plots paired data, one point per pair. Put the variable you control or that comes first on the horizontal axis. Choose scales that spread the points over most of the grid.
@@ -127,6 +178,12 @@ A scatter graph plots paired data, one point per pair. Put the variable you cont
 **Worked example.** Hours of revision against test score for eight pupils: (1, 34), (2, 41), (3, 45), (4, 58), (5, 60), (6, 71), (7, 69), (8, 80).
 Horizontal axis 0 to 8 hours, one square per hour. Vertical axis 30 to 90 marks, steps of 10. Mark each point with a small cross.
 The points climb from left to right, so more revision goes with higher scores. A ninth pupil, (6, 35), lies far below the other points. Say so, and say whether you would check that point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--02-scatter-outlier.webp" width="900" height="830" alt="Eight pupils climb from (1, 34) to (8, 80). A ninth pupil at (6, 35) is circled far below the dashed trend of the other eight, so it should be mentioned and checked." loading="lazy">
+  <figcaption>Eight points follow an upward trend and the ninth, (6, 35), is an outlier.</figcaption>
+</figure>
+
 
 ## 8. Frequency polygons and histograms with equal class intervals
 
@@ -142,6 +199,12 @@ A **histogram with equal class intervals** is a bar chart for continuous data. T
 
 Midpoints are 5, 15, 25, 35, 45. The polygon points are (5, 5), (15, 12), (25, 18), (35, 10), (45, 5).
 The histogram has five touching bars, each 10 wide, with heights 5, 12, 18, 10 and 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--06-histogram-and-polygon.webp" width="900" height="910" alt="Five touching bars of width 10 minutes with heights 5, 12, 18, 10 and 5 show the journey times of 50 employees. The frequency polygon joins points at the class midpoints 5, 15, 25, 35 and 45." loading="lazy">
+  <figcaption>A frequency polygon is plotted at class midpoints; histogram bars touch.</figcaption>
+</figure>
+
 
 ## 9. Histograms with unequal class intervals (Extension only)
 
@@ -194,6 +257,12 @@ A box plot shows five values on one scale: the minimum, lower quartile, median, 
 ```
 
 The interquartile range is 18 minutes. To compare two box plots, quote a middle value (the median) and a spread (the interquartile range or the range). Suppose a second queue has quartiles 15 and 30 and a median of 22. Its median is lower and its interquartile range is 15, so its waits are shorter and less varied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--03-box-plots-two-queues.webp" width="900" height="895" alt="Queue 1 has a box from 22 to 40 with median 30 and whiskers to 3 and 58. Queue 2 has quartiles 15 and 30 and median 22, so a lower median and smaller IQR." loading="lazy">
+  <figcaption>Compare two box plots with a median and a spread.</figcaption>
+</figure>
+
 
 ## Common errors
 

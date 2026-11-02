@@ -69,6 +69,12 @@ BA = -AB = (-5, -4)
 
 So →AB = (5, 4) and →BA = (−5, −4). Check the signs: B is to the right of and above A, so →AB must have positive entries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
+
 ## Sum, difference and scalar multiple
 
 ### Calculating
@@ -111,6 +117,12 @@ From the second equation m = 7 − 3n. Substituting gives 2(7 − 3n) − n = 7,
 
 Check: 4(2, 1) + 1(−1, 3) = (8 − 1, 4 + 3) = (7, 7). **m = 4, n = 1.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--05-find-scalars-m4-n1.webp" width="900" height="930" alt="On a grid, four copies of (2, 1) go from the origin to (8, 4) and one copy of (−1, 3) then reaches (7, 7), so m = 4 and n = 1, matching the simultaneous equations 2m − n = 7 and m + 3n = 7." loading="lazy">
+  <figcaption>Solving for the scalars is the same as finding how many steps of each vector reach the target.</figcaption>
+</figure>
+
+
 ## Representing vectors graphically
 
 Draw a vector as an arrow. The arrow head shows the direction. The arrow runs across by x and up by y.
@@ -131,13 +143,31 @@ The single arrow from (0, 0) to (5, 6) is **p** + **q**. You can check it agains
 
 In words, the shape is a triangle with two sides **p** and **q** laid end to end, and the third side is the sum. Drawing both vectors from the same starting point and completing the parallelogram gives the same diagonal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
+</figure>
+
+
 ### Subtracting
 
 **a** − **b** means **a** + (−**b**). Draw **a**, then draw −**b**, which is **b** reversed, from the end of **a**. Another view: **a** − **b** is the vector that goes from the end of **b** to the end of **a** when both start at the same point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <figcaption>p − q is p plus the opposite of q.</figcaption>
+</figure>
+
+
 ### Scalar multiples
 
 2**a** is an arrow in the same direction as **a**, twice as long. −**a** is the same length, pointing the opposite way. −½**a** points the opposite way and is half as long.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
 
 ## Commutative and associative properties
 
@@ -168,6 +198,12 @@ Both groupings give (6, 7), as the associative property says. Also **a** − **b
 
 One example illustrates a property. It does not prove it. A proof would use letters for the entries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--01-commutative-associative-parallelogram.webp" width="900" height="1180" alt="a=(2,-3) and b=(5,4). Going along a then b, or b then a, reaches (7,1), the two routes round a parallelogram. (a+b)+c and a+(b+c) both equal (6,7) for c=(-1,6). a-b=(-3,-7) but b-a=(3,7)." loading="lazy">
+  <figcaption>Adding in either order reaches the same point, but subtraction order reverses the vector.</figcaption>
+</figure>
+
+
 ## Geometrical problems using vectors
 
 The key idea is the **route method**. To find a vector between two points, travel along edges you already know. Going along an edge in the direction of its arrow adds the vector. Going against it subtracts the vector.
@@ -190,6 +226,12 @@ So →MN = ½(**c** − **a**). Now →AC = →AO + →OC = −**a** + **c** = *
 
 Therefore →MN = ½→AC. MN is parallel to AC and half its length.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--02-parallelogram-midpoints.webp" width="900" height="940" alt="Parallelogram OABC with OA=a, OC=c. M midpoint of AB, N midpoint of BC. MN = half of (c-a), which is half of AC, so MN is parallel to AC. Drawn with a=(6,1), c=(2,5)." loading="lazy">
+  <figcaption>MN = ½AC, so it is parallel to AC and half as long.</figcaption>
+</figure>
+
+
 ### Worked example 6: ratio and collinear points
 
 In triangle OPQ, →OP = **p** and →OQ = **q**. X lies on PQ with PX : XQ = 2 : 3. The point Y is such that →OY = 3**p** + 2**q**. Show that O, X and Y lie on a straight line.
@@ -208,6 +250,12 @@ OY = 3p + 2q = 5 x ((3/5)p + (2/5)q) = 5 OX
 
 So →OY = 5→OX. The two vectors are parallel and both start at O, so O, X and Y lie on one straight line. Also OX : OY = 1 : 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--03-collinear-ratio-proof.webp" width="900" height="986" alt="Triangle OPQ, X on PQ with PX:XQ=2:3 so OX = 3/5 p + 2/5 q. Y has OY = 3p+2q = 5OX, so O, X and Y lie on one line with OX:OY = 1:5." loading="lazy">
+  <figcaption>OY is a multiple of OX and both start at O, so O, X, Y are collinear.</figcaption>
+</figure>
+
+
 ### Worked example 7: parallel and collinear with numbers
 
 A is (1, −2), B is (4, 3) and C is (10, 13). Show that A, B and C are collinear.
@@ -219,9 +267,21 @@ AC = (10 - 1, 13 - (-2)) = (9, 15) = 3(3, 5)
 
 So →AC = 3→AB. The vectors are parallel and share the point A, so A, B and C are collinear, with AC three times AB.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--06-collinear-abc-numbers.webp" width="900" height="760" alt="A(1, −2), B(4, 3) and C(10, 13) on a grid. AB = (3, 5) and AC = (9, 15) = 3AB, so three equal steps from A pass through B and reach C, and the points are collinear." loading="lazy">
+  <figcaption>AC = 3AB with a shared point A means A, B and C are on one line.</figcaption>
+</figure>
+
+
 ### Method for a proof
 
 Always finish a "show that" with a sentence naming the property: "parallel and share a point, so collinear". Parallel alone only gives parallel lines. The shared point is what makes them one line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
+</figure>
+
 
 ## Common errors
 

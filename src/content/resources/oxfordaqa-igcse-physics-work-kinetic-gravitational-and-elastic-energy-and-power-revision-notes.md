@@ -62,6 +62,12 @@ Method in steps:
 
 Reminder: 250 kg is lifted 6.0 m. The force is the weight, 250 × 10 = 2500 N, so W = 2500 × 6.0 = 15 000 J. That equals m × g × h.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
+
 ## Work against friction and heating (3.2.1 b)
 
 * Friction opposes motion. Work done against it is transferred by heating.
@@ -71,6 +77,17 @@ Reminder: 250 kg is lifted 6.0 m. The force is the weight, 250 × 10 = 2500 N, s
 * Meteorites: a small object moving very fast through the atmosphere is heated by air resistance until it glows and burns up. It is a meteor while it glows.
 
 Reminder: an 800 kg van at 10 m/s has Ek = ½ × 800 × 10² = 40 000 J. A braking force of 4000 N stops it in 40 000 / 4000 = 10 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power--07-reentry-meteoroid-heat.webp" width="900" height="1090" alt="A space shuttle returning from orbit compresses the air in front of it; air resistance does work and its kinetic energy is transferred by heating, which heat-resistant tiles survive. A 0.80 kg meteoroid at 12 000 m/s has Ek = 57 600 000 J, has no tiles, glows and burns up." loading="lazy">
+  <figcaption>Air resistance turns the kinetic energy of fast entries into heat: tiles protect a shuttle, a meteoroid burns up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--01-braking-work-energy.webp" width="900" height="940" alt="A car of 1200 kg at 15 m/s is stopped by a 6000 N brake force over 22.5 m. Its 135000 J of kinetic energy is transferred to thermal stores. W = F x s = 135000 J." loading="lazy">
+  <figcaption>Work done by the brakes equals the kinetic energy removed.</figcaption>
+</figure>
+
 
 ## Elastic potential energy (3.2.1 c)
 
@@ -87,12 +104,29 @@ Method in steps:
 2. Square the extension first.
 3. Multiply by k, then by one half.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--03-spring-energy-area.webp" width="900" height="1000" alt="Force-extension graph for a spring of constant 20 N/m. The line rises to 2.00 N at 10.0 cm and the triangle beneath it is shaded. Its area, ½ × 2.00 × 0.100, is 0.10 J. The formula ½ke² also gives 0.10 J when the extension is in metres." loading="lazy">
+  <figcaption>Work done in stretching a spring is the area under the force-extension line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--04-double-extension-energy.webp" width="900" height="970" alt="Force-extension line for k = 300 N/m reaching 12 N at 4.0 cm and 24 N at 8.0 cm. The triangle under the line to 8.0 cm is split into four identical triangles, each the same size as the triangle to 4.0 cm. Each is 0.24 J, so 4.0 cm stores 0.24 J and 8.0 cm stores 0.96 J." loading="lazy">
+  <figcaption>Doubling the extension quadruples the stored energy because the energy triangle is four times bigger.</figcaption>
+</figure>
+
+
 ## Gravitational potential energy (3.2.1 d)
 
 * Ep = m × g × h with h the vertical height gained.
 * Take g as the value given in the question, such as 10 N/kg.
 * On a ramp, use how far the object rises, not how far it travels along the ramp.
 * A smaller g gives a smaller Ep for the same lift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power--06-ep-mgh-climber.webp" width="900" height="1020" alt="A climber of mass 65 kg is on a summit 340 m above the start, measured straight up. A winding slope path is longer but only the vertical height is used. With g = 10 N/kg the weight is 650 N and Ep = 650 x 340 = 221 000 J." loading="lazy">
+  <figcaption>Ep = m x g x h uses the vertical rise, 340 m, not the length of the slope path.</figcaption>
+</figure>
+
 
 ## Kinetic energy (3.2.1 e)
 
@@ -107,6 +141,27 @@ Method in steps:
 
 Road safety link: stopping needs braking force × distance = Ek. With the same braking force, doubling the speed makes the braking distance four times as long. Higher speed also means more energy to transfer in a collision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power--03-braking-doubling-speed.webp" width="900" height="950" alt="Two lanes show a 1200 kg van braking with the same 6000 N force. From 10 m/s it has 60 000 J and stops in 10 m; from 20 m/s it has 240 000 J and stops in 40 m. Doubling the speed gives four times the energy and four times the braking distance." loading="lazy">
+  <figcaption>Doubling speed quadruples the kinetic energy, so the same brakes need four times the distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power--08-ke-double-mass-speed.webp" width="900" height="1000" alt="Three rows for a cyclist and bike. 72 kg at 8.0 m/s has 2304 J, one block. 144 kg at 8.0 m/s has 4608 J, two blocks. 72 kg at 16 m/s has 9216 J, four blocks. Ek is proportional to mass but to speed squared." loading="lazy">
+  <figcaption>Doubling mass doubles Ek; doubling speed quadruples it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--02-conservation-falling-ball.webp" width="900" height="930" alt="A 2 kg ball falls from 10 m. Stacked bars at five heights always total 196 J: gravitational potential energy falls from 196 J to 0 while kinetic energy rises from 0 to 196 J." loading="lazy">
+  <figcaption>Energy is transferred between stores but the total stays constant.</figcaption>
+</figure>
+
+
 ## Power (3.2.1 f)
 
 * Power measures how quickly energy is transferred, or how quickly work is done.
@@ -117,6 +172,12 @@ Road safety link: stopping needs braking force × distance = Ek. With the same b
 Reminder: a hoist does 15 000 J of work in 20 s. P = 15 000 / 20 = 750 W.
 
 Reminder: a 20 W lamp transferring energy for 5.0 minutes: t = 300 s, E = 20 × 300 = 6000 J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

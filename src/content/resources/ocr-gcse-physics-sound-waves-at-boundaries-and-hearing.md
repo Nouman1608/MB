@@ -35,6 +35,12 @@ Companion pages: the [revision notes](/resources/ocr-gcse-physics-sound-waves-at
 
 You need one equation, which you should already know: wave speed (m/s) = frequency (Hz) × wavelength (m), or v = f λ. Everything in P5.1f is that equation used carefully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+
 ## Sound crossing from one medium to another (P5.1f)
 
 A sound wave is a series of compressions and rarefactions passed from particle to particle. The speed depends on the material. As a general pattern, sound travels slowest in gases, faster in liquids and fastest in solids, because the particles are closer together and pass the disturbance on more quickly. Questions give you the speeds you need. Typical values are about 340 m/s in air, about 1480 m/s in water and about 5100 m/s in steel, but always use the numbers in the question.
@@ -78,6 +84,12 @@ A hammer strikes a steel rail and produces a sound of frequency 1.2 kHz. Take th
 
 A common slip is to say the frequency in the air is different. It is not. The rail and the air next to it vibrate at the same rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--06-sound-boundary-wavelength.webp" width="900" height="790" alt="A sine wave crosses from air into water. The wavelength grows from 0.80 m to about 3.5 m while the frequency stays at 425 Hz, because the speed rises 4.35 times." loading="lazy">
+  <figcaption>At a boundary the frequency stays fixed, so a faster speed means a longer wavelength.</figcaption>
+</figure>
+
+
 ## Reflection, transmission and absorption at an interface (P5.1g)
 
 An interface (or boundary) is where two different materials meet, for example air and skin, or water and a rock layer. When a wave hits one, three things can happen, and usually all three happen to some degree.
@@ -115,6 +127,27 @@ Take the speed of ultrasound in soft tissue as 1540 m/s. A probe sends a pulse o
 
 The very short wavelength is useful. Waves reflect from detail that is about as large as the wavelength or larger, so a short wavelength lets small structures show up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--07-sound-interface-three-effects.webp" width="900" height="680" alt="A wave meets an interface between two materials. Part is reflected as an echo, part is transmitted with a new speed and wavelength, and part is absorbed and warms the second material." loading="lazy">
+  <figcaption>At an interface a wave can be reflected, transmitted and absorbed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--05-ultrasound-echo-depth.webp" width="900" height="760" alt="A probe on the skin sends a 2.5 MHz pulse into soft tissue where the speed is 1540 m/s. The echo returns after 78 microseconds. The wavelength is 0.62 mm, the distance there and back is 0.12 m, so the boundary is half of that, 6.0 cm deep." loading="lazy">
+  <figcaption>Echo time gives depth: distance there and back is speed x time, and the depth is half of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--06-ultrasound-gel-air-gap.webp" width="900" height="760" alt="Two drawings of a probe on the body. With an air gap almost all of the pulse is reflected straight back and very little enters the body. With gel filling the gap the pulse passes into the body and echoes return from deeper boundaries." loading="lazy">
+  <figcaption>Gel removes the air gap so the ultrasound can enter the body instead of reflecting at the surface.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
+
 ## Converting between sound waves and vibrations in solids (P5.1h)
 
 A sound wave in air is a pressure disturbance. When it meets a solid surface, the changing pressure pushes the surface to and fro, so the solid vibrates at the same frequency as the sound. The process also works in reverse: a vibrating solid pushes the air next to it and makes a sound wave. Examples:
@@ -136,6 +169,12 @@ A simple structure of the ear is expected. Follow the chain of conversions:
 
 The sound wave in air becomes a vibration of solid membrane and bones, then a wave in liquid, and finally a nerve signal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--08-ear-conversion-chain.webp" width="900" height="1010" alt="Five steps: the outer ear collects sound, the eardrum vibrates, three ossicles pass the vibration on, the cochlea turns it into a pressure wave in fluid, and hair cells send electrical signals along the auditory nerve." loading="lazy">
+  <figcaption>In the ear, a sound wave becomes vibrations, a fluid wave and then nerve signals.</figcaption>
+</figure>
+
+
 ## Why the range is limited, and human hearing (P5.1i)
 
 Every device that converts sound to vibration, and every part of the ear, has mass and stiffness. A mass on a spring cannot follow an oscillation that is too fast, because its inertia stops it changing direction quickly enough. Very slow, small pressure changes also produce only a weak response. So each conversion works properly only over a limited range of frequencies, and outside it the vibration is too small to be useful.
@@ -152,6 +191,12 @@ Using 340 m/s for air:
 ### Ageing
 
 Hearing changes with age. The ability to hear the highest frequencies is usually lost first, so the upper limit falls. Causes include damage to the hair cells, which the body does not replace, and wear from loud noise over many years. Lower frequencies are usually affected later. Someone whose upper limit has fallen to 14 kHz can still hear speech but can no longer hear a 16 kHz tone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--09-hearing-range.webp" width="900" height="700" alt="On a log frequency axis a young listener hears 20 Hz to 20 kHz, with infrasound below and ultrasound above. In air the wavelengths are 17 m and 1.7 cm. With the upper limit at 14 kHz a 16 kHz tone is not heard." loading="lazy">
+  <figcaption>Human hearing spans about 20 Hz to 20 kHz, and the top end falls with age.</figcaption>
+</figure>
+
 
 ## Common errors
 

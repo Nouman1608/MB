@@ -62,6 +62,12 @@ the fossil fuels (coal, oil, natural gas) and nuclear fuel. A **renewable**
 resource is naturally replenished on a human timescale — biofuels,
 hydroelectric, solar, geothermal, wind, tidal and wave resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+
 ## How each resource generates electrical power
 
 | Resource | How useful energy/power is obtained |
@@ -84,6 +90,17 @@ air, without a heating stage. Solar is the exception that can skip the
 turbine and generator entirely, converting radiation to electricity
 directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+
 ## Advantages and disadvantages
 
 The syllabus deliberately limits this comparison to three factors: whether
@@ -98,6 +115,12 @@ combustion emissions).
 Answering an "advantages and disadvantages" question well means staying
 within these three factors, rather than bringing in cost or reliability
 details the syllabus doesn't ask for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
 
 ## Efficiency
 
@@ -129,6 +152,12 @@ efficiency = (1600 / 2000) × 100% = 80%
 Both formulas give the same answer for the same device, since power is
 just energy transferred per unit time — the ratio of useful-to-total is
 unchanged whether it's measured as a total amount or as a rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

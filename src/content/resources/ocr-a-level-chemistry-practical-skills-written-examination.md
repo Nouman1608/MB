@@ -88,6 +88,17 @@ You want the percentage of calcium carbonate in powdered eggshell. Method A: add
 
 **Conclusion:** Method B is more appropriate, with no more than about 0.40 g of eggshell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--01-syringe-range.webp" width="900" height="810" alt="Bars show gas from 0.50 g and 0.40 g of pure CaCO3 against a 100 cm3 syringe limit. 0.50 g gives 120 cm3, too much; 0.40 g gives 95.9 cm3, which fits." loading="lazy">
+  <figcaption>Estimating the gas volume first shows why no more than about 0.40 g is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--02-mass-loss-uncertainty.webp" width="900" height="770" alt="Two balance readings each carry 0.005 g, so the loss has 0.01 g uncertainty. On 0.176 g of CO2 that is 5.7 %." loading="lazy">
+  <figcaption>A mass found by difference carries two reading uncertainties, giving 5.7 % here.</figcaption>
+</figure>
+
+
 ## 1.1.2 Implementing
 
 ### Apparatus and techniques
@@ -102,6 +113,12 @@ Every measured quantity needs a unit (M0.0). The common conversions: cm³ to dm�
 
 A results table has the independent variable in the first column, headings with quantity and unit (for example "volume of gas / cm³"), no units in the body, and each column recorded to the same number of decimal places, matching the apparatus resolution. Burette readings go to two decimal places, ending in 0 or 5. Write full observations: "white precipitate", not "goes cloudy".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--01-results-table-format.webp" width="900" height="974" alt="Two burette results tables compared. The poor one repeats units in every cell and mixes decimal places. The good one has the titration number first, quantity and unit in the headings, no units in the body and two decimal places ending in 0 or 5." loading="lazy">
+  <figcaption>A results table has quantity and unit in each heading only, one number of decimal places per column and burette readings ending in 0 or 5.</figcaption>
+</figure>
+
+
 ## 1.1.3 Analysis
 
 ### Qualitative results and valid conclusions
@@ -115,6 +132,17 @@ A conclusion is valid only if the observations support it and nothing else could
 - Cream precipitate, soluble only in concentrated ammonia: bromide is present.
 
 Valid conclusion: Y contains CO₃²⁻ and Br⁻; these tests cannot identify the cation. Testing for carbonate first with acid removes it, so it cannot give a false positive with Ba²⁺ or Ag⁺.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--03-ion-test-conclusion.webp" width="900" height="890" alt="Four tubes: acid fizzes and limewater turns milky (carbonate); barium nitrate gives nothing (no sulfate); silver nitrate gives a cream precipitate that dissolves only in concentrated ammonia (bromide). The cation is not identified." loading="lazy">
+  <figcaption>Each observation supports only its own conclusion, and the cation stays unidentified.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">
+  <figcaption>Test for carbonate, then sulfate, then halide, because each later reagent would also precipitate the ion tested earlier.</figcaption>
+</figure>
+
 
 ### Mathematical skills and significant figures
 
@@ -135,6 +163,22 @@ A student measures the rate constant k for a reaction at several temperatures an
 **Activation energy:** gradient = −Ea/R, so Ea = 7500 × 8.314 = 62 355 J mol⁻¹ = **62.4 kJ mol⁻¹**.
 
 **Intercept:** the axis starts near 2.9 × 10⁻³ K⁻¹, so calculate: ln A = −4.20 − (−7500 × 3.000 × 10⁻³) = −4.20 + 22.5 = 18.3. A = e¹⁸·³ = **8.86 × 10⁷ s⁻¹**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--04-arrhenius-gradient-worked.webp" width="900" height="940" alt="A gradient triangle on the ln k against 1/T line from (3.000, -4.20) to (3.300, -6.45) gives -7500 K, so Ea = 62.4 kJ/mol." loading="lazy">
+  <figcaption>Gradient = -Ea/R gives Ea = 62.4 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--05-arrhenius-intercept-worked.webp" width="900" height="940" alt="The data sit only between 2.9 and 3.4 x 10^-3 on the x-axis. The line extended to x = 0 gives ln A = 18.3 by calculation, so A = 8.86 x 10^7 per second." loading="lazy">
+  <figcaption>When the axis does not start at zero, calculate c = y - mx.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--02-graph-axes-rules.webp" width="900" height="982" alt="A scatter graph of gas volume in cm3 against time in s with labelled axes and a scale filling most of the grid. One anomaly is ringed and left out of the best-fit line. A dashed triangle between two far-apart points on the line gives the gradient." loading="lazy">
+  <figcaption>Label axes with quantity and unit, use most of the grid, ignore anomalies and take the gradient from far-apart points on the line.</figcaption>
+</figure>
+
 
 ## 1.1.4 Evaluation
 
@@ -170,6 +214,17 @@ If the percentage error is larger than the total percentage uncertainty, apparat
 **Improvements (1.1.4(e)):** fit a lid; record the temperature every 30 s before and after adding the magnesium, and extrapolate the cooling section of the graph back to the moment the magnesium went in.
 
 A limitation (1.1.4(c)) is a specific weakness in the procedure, and each improvement must fix one. "Use more accurate equipment" is too vague.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--06-error-vs-uncertainty.webp" width="900" height="860" alt="Uncertainties of 0.83 %, 1.0 % and 2.0 % total 3.9 %, but the percentage error is 11 %. Apparatus uncertainty cannot explain it, so look for heat loss." loading="lazy">
+  <figcaption>If error is larger than total uncertainty, look for a procedural limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--06-heat-loss-correction.webp" width="900" height="940" alt="Temperature-time graph: 20.4 C before mixing at 2 min, rise to 26.8 C, then a straight cooling line extended back to 27.5 C at mixing. Delta T is 7.1 K, not 6.4 K, which would make Q about 10 percent too small." loading="lazy">
+  <figcaption>Extend the cooling line back to mixing time and use 7.1 K, not 6.4 K.</figcaption>
+</figure>
+
 
 ## Common errors
 

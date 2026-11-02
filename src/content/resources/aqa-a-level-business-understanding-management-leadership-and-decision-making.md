@@ -47,6 +47,12 @@ The specification says the role of managers should include five activities. They
 
 Two points help in exam answers. First, the activities overlap. A manager who reviews results is also analysing. Second, "leading" is one of the five, so leadership is part of management as the specification frames it. When a question asks you to analyse a manager's role, link each activity to the case rather than listing the five words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--01-manager-five-activity-loop.webp" width="900" height="1000" alt="Five boxes in a loop: setting objectives, analysing, leading, making decisions and reviewing, with Kestrel Bindery examples. An arrow returns from reviewing to setting objectives." loading="lazy">
+  <figcaption>The five activities form a loop: reviewing feeds the next objectives.</figcaption>
+</figure>
+
+
 ## Management and leadership styles
 
 A style is the typical way a manager or leader behaves towards the people they work with: how much they decide alone, how much they involve others, and how much they focus on the task compared with the people. The specification asks for types of style, and the two named theories describe them from different angles.
@@ -59,6 +65,17 @@ Common labels, which are standard terms rather than a list the specification pri
 - **Laissez-faire**: the manager sets limits and leaves staff to decide how to work. Suits capable, self-directed people.
 
 You will see how these map on to the theories below.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--03-style-influences.webp" width="900" height="1080" alt="Six influences each shown pushing towards a directive or an involving style." loading="lazy">
+  <figcaption>Each influence can push a manager either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
+
 
 ## The Tannenbaum Schmidt continuum
 
@@ -87,6 +104,12 @@ At Kestrel Bindery the owner needs to change the weekend working pattern. She te
 3. She keeps the final decision, so she is not at position 6 or 7.
 
 So this is position 5, a consultative style that keeps authority with the owner. A suitable evaluation point: it uses the binders' knowledge of the workshop but takes longer than announcing a rota.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--03-continuum-seven-positions.webp" width="900" height="1090" alt="Seven rows show the continuum from 1 (decides and announces) to 7 (team acts within limits), with the manager's share of authority falling. Position 5, asking for suggestions then deciding, is highlighted as the Kestrel Bindery owner." loading="lazy">
+  <figcaption>The continuum is a line of seven positions, not four boxes.</figcaption>
+</figure>
+
 
 ## The Blake Mouton grid
 
@@ -121,6 +144,17 @@ Calculations (formulae are the standard forms):
 - Good bikes per employee: Alpha (4,320 − 216) ÷ 24 = **171**. Beta (3,400 − 68) ÷ 20 = **166.6**.
 
 Alpha looks like (9,1) and Beta nearer (9,9). Alpha produces slightly more per employee, and the gap shrinks once defects are removed (171 against 166.6). But Alpha loses more than a third of its staff each year. If replacing a leaver costs £2,500, Alpha spends £22,500 on replacement against £5,000 for Beta. The evidence supports Beta's style for the long term. It does not prove it, since one year and two teams is thin evidence, and the teams may do different work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--04-blake-mouton-grid.webp" width="900" height="960" alt="A 9 by 9 grid with concern for production across and concern for people up. Impoverished (1,1), produce or perish (9,1), country club (1,9), middle of the road (5,5) and team management (9,9) are marked." loading="lazy">
+  <figcaption>Write a position as (production, people).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--02-alpha-beta-comparison.webp" width="900" height="1070" alt="Paired bars: labour turnover 37.5% v 10%, output per employee 180 v 170, defect rate 5% v 2%, replacement cost 22,500 v 5,000 pounds." loading="lazy">
+  <figcaption>Alpha makes slightly more per head but loses over a third of its staff.</figcaption>
+</figure>
+
 
 ## Influences on management and leadership styles
 
@@ -163,6 +197,17 @@ Ferrymoor Logistics is about to open an overnight sorting shift in a rush, staff
 2. The deadline is short, so there is no time for lengthy consultation.
 3. But the shift will run for years, and the depot will want staff to stay and suggest improvements.
 4. **Judgement:** begin with positions 1 and 2 on the continuum, with clear explanations of why, then move towards 4 and 5 as skills grow. The decisive factor is the time horizon: a style right for week one will be costly if it continues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--04-style-effectiveness-table.webp" width="900" height="1080" alt="A table of five styles with continuum positions, strengths, weaknesses and where each tends to fit." loading="lazy">
+  <figcaption>Context decides which style is most effective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--05-ferrymoor-style-over-time.webp" width="900" height="920" alt="Continuum positions 1 and 2 for week one, moving to 4 and 5 as skills grow; the time horizon decides." loading="lazy">
+  <figcaption>Start directive, then move along the continuum as skills grow.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -62,6 +62,47 @@ break-even output = fixed costs / contribution per unit
 
 **Stakeholders** — owners, employees, customers, suppliers, government and the local community — frequently have **conflicting** interests: higher wages please employees but reduce profit; expansion pleases owners but may disturb the local community.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--09-smart-objective-steps.webp" width="900" height="1020" alt="&quot;Increase sales&quot; cannot be checked, so is not an objective. Adding a number gives &quot;Increase sales by 10%&quot;. Adding a deadline gives &quot;Increase sales by 10% in twelve months&quot;, which can be checked. A bar chart with illustrative numbers shows index 100 now and target 110." loading="lazy">
+  <figcaption>A SMART objective has a number and a deadline so it can be checked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--04-private-public-sector.webp" width="900" height="1020" alt="Private sector: owned and controlled by individuals or groups, generally to make a profit. Public sector: owned and controlled by the government or state, often providing services such as healthcare, education and infrastructure where profit is not the main aim." loading="lazy">
+  <figcaption>The sectors are defined by ownership and control, not only by profit motive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--06-bakery-break-even.webp" width="900" height="1060" alt="Revenue at 2.20 per loaf, fixed costs 400 and 0.80 variable cost per loaf. The lines cross at 286 loaves; at 500 loaves profit is 300 pounds." loading="lazy">
+  <figcaption>Break-even output is fixed costs divided by contribution per loaf: 400 / 1.40 = 286 loaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--02-liability-example.webp" width="900" height="1030" alt="A studio owes £60,000 against £45,000 of assets, a £15,000 shortfall. Partners with unlimited liability could pay £7,500 each; in a private limited company each loses at most £10,000 and creditors bear the £15,000." loading="lazy">
+  <figcaption>Limited liability caps the owner loss; unlimited liability does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--01-enterprise-chain.webp" width="900" height="1120" alt="A chain shows an opportunity, an idea and a customer need met for the invented Yarrowmoor Kayak Hire. Four tiles name the entrepreneur traits. A strip contrasts the £14,000 savings at risk with the £9,000 forecast profit." loading="lazy">
+  <figcaption>Enterprise turns an opportunity into an idea that meets a customer need, and entrepreneurs need four traits.</figcaption>
+</figure>
+
+
 ## Market research
 
 **Primary** is collected first-hand — relevant and current, but costly and slow. **Secondary** already exists — cheap and immediate, but may be out of date or gathered for another purpose.
@@ -69,6 +110,12 @@ break-even output = fixed costs / contribution per unit
 **Quantitative** tells you *how many*; **qualitative** tells you *why*. Most decisions need both.
 
 **Segmentation:** demographic, geographic, psychographic, behavioural.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--10-segmentation-four-types.webp" width="900" height="850" alt="Four cards: demographic (age, gender, income), geographic (city, region, climate), psychographic (lifestyle, values, interests), behavioural (how often they buy, brand loyalty)." loading="lazy">
+  <figcaption>Four ways to split customers into segments.</figcaption>
+</figure>
+
 
 ## The marketing mix
 
@@ -104,6 +151,22 @@ break-even output = fixed costs / contribution per unit
 **Herzberg's distinction is the one that pays:** pay is a hygiene factor, so a pay rise removes dissatisfaction but does not motivate — which is why its effect fades while job enrichment lasts.
 
 **Financial methods:** wages, salary, commission, bonus, profit share. **Non-financial:** job enrichment, rotation, empowerment, teamworking, flexible working.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--06-herzberg-two-factors.webp" width="900" height="960" alt="A scale runs dissatisfied, not dissatisfied, satisfied. Hygiene factors such as pay and conditions only move people to not dissatisfied; motivators such as achievement, recognition and responsibility move them to satisfied. An illustrative graph shows a pay rise lifting then fading, while job enrichment keeps satisfaction rising." loading="lazy">
+  <figcaption>Pay prevents dissatisfaction; motivators create satisfaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--07-maslow-hierarchy-work.webp" width="900" height="680" alt="Five stacked levels from the bottom: physiological, safety, belonging, esteem, self-actualisation, with workplace examples: pay for food and rent, a secure contract, teamworking, recognition and status, promotion and training." loading="lazy">
+  <figcaption>Maslow: meet each need before the next one up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--08-recruit-internal-external.webp" width="900" height="940" alt="A job description sets out the role and a person specification the candidate. Internal recruitment is cheaper and faster and the candidate is known, but brings no new ideas and leaves another vacancy. External recruitment brings a fresh perspective but costs more and carries more risk." loading="lazy">
+  <figcaption>Internal and external recruitment compared.</figcaption>
+</figure>
+
 
 ## Organisation
 

@@ -78,6 +78,17 @@ F(electric)/F(gravity) = k e² / (G m²) = (8.99 × 10⁹ × (1.60 × 10⁻¹⁹
 
 Large bodies are almost neutral overall, so gravity dominates for them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--01-coulombs-law.webp" width="900" height="960" alt="Like charges repel and unlike charges attract, with equal and opposite forces along the line joining them. A +3.6 nC sphere and a −8.0 nC sphere with centres 2.5 cm apart attract each other with 4.14×10⁻⁴ N on each." loading="lazy">
+  <figcaption>The force between point charges acts along the line joining them and is equal and opposite on the two charges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--02-inverse-square-force.webp" width="900" height="925" alt="A graph of force against separation falls as 1/r². Two charges that exert 18 mN at 6.0 cm exert 40.5 mN at 4.0 cm and 162 mN at 2.0 cm. Doubling r divides F by 4; dividing r by 3 multiplies F by 9." loading="lazy">
+  <figcaption>Doubling the distance divides the force by four.</figcaption>
+</figure>
+
+
 ## Conservation of charge
 
 The total charge of an isolated system stays constant. Charge is neither created nor destroyed. It moves between bodies, and positive and negative charge can cancel.
@@ -89,6 +100,12 @@ Two identical metal spheres carry +8.0 µC and −2.0 µC. They touch and are th
 1. Total charge = +8.0 + (−2.0) = +6.0 µC.
 2. Identical conductors share the total equally, so each has +3.0 µC.
 3. F = (8.99 × 10⁹ × (3.0 × 10⁻⁶)²) / 0.30² = 0.899 N, repulsive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--03-charge-conservation.webp" width="900" height="1070" alt="Rubbing insulators moves electrons from one to the other, leaving equal and opposite charges. Two identical metal spheres with +8.0 and −2.0 µC touch, electrons flow to the positive sphere, and each ends with +3.0 µC. At 0.30 m they repel with 0.899 N." loading="lazy">
+  <figcaption>The total charge is unchanged when charge moves between bodies.</figcaption>
+</figure>
+
 
 ## Millikan's experiment and quantization
 
@@ -112,6 +129,12 @@ The drop carries three elementary charges.
 
 Four drops have charges (in 10⁻¹⁹ C) of 3.2, 8.0, 4.8 and 11.2. Divide each by 1.6: you get 2, 5, 3 and 7. All are whole numbers, so the data are consistent with a smallest unit of 1.6 × 10⁻¹⁹ C. The largest value that divides every result into a whole number gives the elementary charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--04-millikan-quantisation.webp" width="900" height="1140" alt="An oil drop is held still between plates 1.5 cm apart with 600 V across them, so qE = mg gives q = 4.81×10⁻¹⁹ C, three elementary charges. Measured charges of 3.2, 4.8, 8.0 and 11.2 (×10⁻¹⁹ C) are 2, 3, 5 and 7 times 1.6×10⁻¹⁹ C, showing charge is quantized." loading="lazy">
+  <figcaption>Every measured charge is a whole-number multiple of the elementary charge.</figcaption>
+</figure>
+
+
 ## Charging bodies
 
 In solids only electrons move: a body becomes negative by gaining them and positive by losing them.
@@ -132,6 +155,12 @@ You have a negatively charged rod and a neutral metal sphere on an insulating st
 4. Take the rod away. The remaining positive charge spreads over the sphere.
 
 Removing the rod before the earth connection lets the electrons redistribute and leaves the sphere neutral, so the order matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--05-charging-by-induction.webp" width="900" height="1000" alt="A negative rod near a neutral metal sphere pushes electrons to the far side. Earthing the far side lets electrons leave; removing the earth and then the rod leaves the sphere positively charged. Removing the rod first would leave it neutral." loading="lazy">
+  <figcaption>Induction needs the earth connection removed before the charged rod.</figcaption>
+</figure>
+
 
 ## Electric field strength and field lines
 
@@ -163,6 +192,17 @@ Patterns to sketch: a single point charge (radial, evenly spaced lines); two poi
 
 For a charged conducting sphere, the charge sits on the surface. The field inside is zero, and outside it is radial, like the field of a point charge at the centre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--06-field-strength.webp" width="900" height="990" alt="Field strength is force per coulomb: 7.2 µN on +1.8 nC gives 4.0×10³ N C⁻¹. A +7.5 nC charge gives 749 N C⁻¹ at 0.30 m. At the midpoint between +3.0 nC and −3.0 nC (0.50 m apart) each gives 432 N C⁻¹ in the same direction, so the total is 863 N C⁻¹." loading="lazy">
+  <figcaption>Add field vectors by direction as well as size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--07-field-line-patterns.webp" width="900" height="1120" alt="Opposite charges have curved lines from + to −. Two equal positive charges push lines apart and have zero field at the midpoint. A charged metal sphere has no field inside and radial lines outside. Parallel plates give straight, evenly spaced lines that bulge at the edges." loading="lazy">
+  <figcaption>Closer lines mean a stronger field and lines never cross.</figcaption>
+</figure>
+
+
 ## Uniform field between parallel plates
 
 For two oppositely charged parallel plates with potential difference V across a separation d, the field between them is uniform:
@@ -180,6 +220,12 @@ Plates 5.0 mm apart have 1.35 kV across them. Find E, the force on an electron, 
 3. a = F/m = 4.32 × 10⁻¹⁴ / 9.11 × 10⁻³¹ = 4.7 × 10¹⁶ m s⁻²
 
 The weight of an electron is negligible by comparison.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--08-electron-between-plates.webp" width="900" height="935" alt="Plates 5.0 mm apart with 1.35 kV give E = 2.7×10⁵ V m⁻¹. The electron feels 4.3×10⁻¹⁴ N towards the positive plate, opposite to E, and accelerates at 4.7×10¹⁶ m s⁻². Its weight is negligible." loading="lazy">
+  <figcaption>The force on an electron is opposite to the field and F = eE.</figcaption>
+</figure>
+
 
 ## Magnetic field lines
 
@@ -201,6 +247,12 @@ For a coil or solenoid, curl your fingers along the current round the loops. You
 Worked example 9: a vertical wire carries current upwards. Seen from above, the field circles anticlockwise. At a point east of the wire, the field points north. For a solenoid, if the current looks anticlockwise from one end, that end is the north pole.
 
 For a current into the page, the circles are clockwise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic--09-magnetic-field-patterns.webp" width="900" height="1230" alt="Magnetic field lines are closed loops running N to S outside a bar magnet. A straight wire with current out of the page has anticlockwise circles that spread out further away. A coil is nearly straight through the centre. A solenoid has straight, parallel lines inside and its N end is where the current looks anticlockwise." loading="lazy">
+  <figcaption>Use conventional current in the right-hand grip rule to find the field direction.</figcaption>
+</figure>
+
 
 ## Common errors
 

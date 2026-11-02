@@ -52,6 +52,12 @@ Each kind has a different purpose.
 
 A service business may hold little of any of these, but a shop, a restaurant and a factory all depend on getting their inventory right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--01-inv-stock-types.webp" width="900" height="780" alt="Three cards (raw materials, work in progress, finished products) for Odlebrook Joinery, each with an example and its purpose, joined by arrows left to right." loading="lazy">
+  <figcaption>The three kinds of inventory and why each is held.</figcaption>
+</figure>
+
+
 ## The costs and benefits of holding inventory
 
 **Benefits**
@@ -69,6 +75,12 @@ A service business may hold little of any of these, but a shop, a restaurant and
 - Handling and administration: staff time to count, move and record inventory.
 
 The skill is balance. Too much inventory raises costs and ties up cash. Too little risks a stock-out, which means running out and being unable to produce or sell. A good answer to a question on this topic weighs the two risks for the business in the case, rather than listing costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--01-inv-hold-balance.webp" width="900" height="960" alt="A balance with two pans. Benefits: customers served at once, production continues if supply fails, bulk-buy discounts, readiness for busy seasons. Costs: cash tied up, storage and insurance, damage and obsolescence, handling staff. Too little risks a stock-out; too much raises costs." loading="lazy">
+  <figcaption>Holding inventory protects sales but costs cash, space and risk, so the business weighs both.</figcaption>
+</figure>
+
 
 ## Buffer inventory, re-order level and lead time
 
@@ -132,6 +144,17 @@ Use the same business and ask three questions.
 
 Now suppose the delivery takes 10 days. Inventory would reach zero after 320 / 40 = 8 days, leaving 2 days of production, 80 planks, unsupplied. That is a stock-out. The business could respond by raising the buffer, finding a second supplier or negotiating a reliable delivery time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--02-inv-late-delivery.webp" width="900" height="940" alt="Stock of planks falls from 720; at 320 an order is placed. A 5-day delivery leaves 120, a 7-day delivery leaves 40 (buffer used, no stock-out), a 10-day delivery hits zero on day 18 and stays out for 2 days." loading="lazy">
+  <figcaption>A late delivery eats into the buffer; a very late one causes a stock-out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
+
 ## The importance of Supply Chain Management
 
 A supply chain is the sequence of businesses and activities that take a product from raw material to final customer: suppliers, manufacturers, distributors and retailers. **Supply Chain Management** (SCM) is the coordination of that flow of materials, information and payments (this is the standard definition; the syllabus names the topic without defining it).
@@ -145,6 +168,12 @@ Why it matters for inventory:
 - Problems anywhere in the chain, such as a supplier failing or transport delays, pass down to the business. Managing the chain reduces that risk.
 
 For example, Glenmere Paints shares its weekly sales figures with its pigment supplier. The supplier prepares the right quantities in advance, so Glenmere can order smaller batches without risk of shortages. Be careful, though: SCM costs money and time, and the gains depend on suppliers being willing to cooperate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--03-inv-supply-chain.webp" width="900" height="960" alt="Five links (supplier, maker, distributor, retailer, customer) with three flows: materials and goods forward, payments back, information both ways. Glenmere shares weekly sales so the supplier can prepare quantities." loading="lazy">
+  <figcaption>A supply chain carries materials, payments and information between linked businesses.</figcaption>
+</figure>
+
 
 ## Just in Time (JIT) and Just in Case (JIC)
 
@@ -178,6 +207,12 @@ For example, Glenmere Paints shares its weekly sales figures with its pigment su
 
 JIT works best where demand is fairly predictable and good suppliers are close by. It is less suitable where supply is uncertain or the product is sold in sharply seasonal peaks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--02-inv-jit-impact.webp" width="900" height="922" alt="Materials arrive as needed and goods leave soon after being made. Possible benefits: less space and cash tied up, less waste, quick response, quality problems seen quickly. Drawbacks: late supplier stops production, lost discounts, more orders, hard to meet surges, staff training. Best with steady demand and close suppliers." loading="lazy">
+  <figcaption>JIT brings real savings but depends on reliable suppliers and predictable demand.</figcaption>
+</figure>
+
+
 ### Worked example 3: a cost comparison
 
 Glenmere Paints (all figures in dollars) buys 240 000 of materials a year. Under JIC it holds an average of 1 800 tins, and holding each tin costs 2.40 a year. Under JIT it would hold an average of 300 tins. Its supplier gives a 1% discount on large orders, which JIT would lose.
@@ -189,6 +224,17 @@ Glenmere Paints (all figures in dollars) buys 240 000 of materials a year. Under
 5. Net saving = 3 600 - 2 400 = **1 200 a year**.
 
 JIT looks better on this measure. But 1 200 is small. A single stoppage caused by a late delivery could cost more. A sound judgement uses the figure and the risk, and says which matters more for this business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--04-inv-jit-cost.webp" width="900" height="910" alt="Bars show holding cost 4,320 dollars (JIC) against 720 (JIT), a saving of 3,600, less 2,400 of lost discount, giving a net saving of 1,200 dollars a year." loading="lazy">
+  <figcaption>JIT saves 1,200 dollars a year net, a small gain against the risk of a stoppage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

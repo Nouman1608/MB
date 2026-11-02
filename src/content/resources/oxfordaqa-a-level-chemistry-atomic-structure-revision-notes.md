@@ -64,6 +64,12 @@ clear chain of cause and effect:
 
 The point to make in an answer: a model is kept until new evidence it cannot explain appears, then it is revised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+
 ## 3.1.1.2 Mass number and isotopes
 
 | Symbol | Name | Meaning |
@@ -126,6 +132,22 @@ most abundant isotope.
 Working backwards. An element has isotopes of mass 20 and 22 and Ar = 20.4. If x is the fraction of the 22
 isotope: 20(1 − x) + 22x = 20.4, so 2x = 0.4 and x = 0.20. The abundances are **80% and 20%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
+  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
+  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
+
 ## 3.1.1.3 Electron configuration
 
 ### Shells, sub-shells and orbitals
@@ -152,6 +174,22 @@ Chromium and copper are the two exceptions to the filling order up to Z = 36: a 
 favoured. When a d-block atom forms a positive ion, the **4s electrons are lost first**. For negative ions, add the
 extra electrons to the next available space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--05-orbitals.webp" width="900" height="1050" alt="An s orbital is a sphere (2s larger than 1s); a p sub-shell is three dumbbell orbitals along x, y and z. Boxes show s = 1 orbital (2 electrons), p = 3 (6), d = 5 (10), and shells hold 2, 8, 18 and 32 electrons." loading="lazy">
+  <figcaption>Each orbital holds two electrons of opposite spin: s has 1 orbital, p has 3, d has 5; shell n holds 2n squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--06-filling-order.webp" width="900" height="1000" alt="An energy ladder with boxes for 1s up to 4p; the 4s level is just below 3d. Potassium fills 1s to 3p fully and puts its 19th electron in 4s, leaving 3d empty. A note says 4s is lost first on ionising." loading="lazy">
+  <figcaption>Sub-shells fill 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, but 4s empties first on ionisation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--07-electron-boxes.webp" width="900" height="970" alt="Box diagrams: oxygen 1s2 2s2 2p4 with electrons singly in the 2p boxes before pairing; chromium with one electron in 4s and one in each 3d box; copper with one electron in 4s and a full 3d." loading="lazy">
+  <figcaption>Electrons occupy orbitals singly before pairing; Cr (3d5 4s1) and Cu (3d10 4s1) are exceptions.</figcaption>
+</figure>
+
+
 ### Ionisation energies
 
 **First ionisation energy:** the energy change when a mole of gaseous atoms each lose one electron, giving a mole of
@@ -171,6 +209,17 @@ inner electrons.
 | Overall rise across Period 3 (Na to Ar) | Nuclear charge increases while shielding and shell stay the same | Electrons added to the same shell |
 | Dip from Mg to Al | Al's outermost electron is held in 3p, a sub-shell a little higher in energy and further out than 3s | Sub-shells |
 | Dip from P to S | In S, one 3p orbital holds a pair of electrons that repel one another, so one of them leaves more easily | Electron pairing in orbitals |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--08-successive-ie.webp" width="900" height="830" alt="A log-scale plot of the twelve successive ionisation energies of magnesium: two low points, a big jump at the third electron, a gradual rise to the tenth, and another huge jump at the eleventh, grouped as shell 3 (2 electrons), shell 2 (8) and shell 1 (2)." loading="lazy">
+  <figcaption>A large jump after the second electron shows two outer electrons (Group 2); further jumps mark inner shells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--09-period3-ie.webp" width="900" height="950" alt="A line plot of first ionisation energy from Na to Ar, rising with two ringed dips at Al and S. Box diagrams explain them: Al has a lone 3p electron, higher in energy than 3s; S has two electrons paired in one 3p orbital that repel." loading="lazy">
+  <figcaption>First ionisation energy rises across Period 3 with dips at Al (outer 3p electron) and S (paired 3p electrons).</figcaption>
+</figure>
+
 
 ### Reading successive ionisation energies
 

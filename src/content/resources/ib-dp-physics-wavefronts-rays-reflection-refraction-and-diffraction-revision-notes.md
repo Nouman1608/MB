@@ -43,6 +43,12 @@ These notes condense the first half of sub-topic C.3 (Wave phenomena) in the IB 
 - Distant source: wavefronts look flat and rays look parallel.
 - Wavefront spacing is one wavelength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--01-wavefronts-rays.webp" width="900" height="1090" alt="Concentric circular wavefronts from a point source with outward rays, and flat wavefronts from a distant source with parallel rays. Rays cross wavefronts at 90 degrees and neighbouring wavefronts are one wavelength apart." loading="lazy">
+  <figcaption>Rays point along the direction of travel and cross wavefronts at right angles.</figcaption>
+</figure>
+
+
 ## Key relationships
 
 | Idea | Statement |
@@ -65,6 +71,12 @@ These notes condense the first half of sub-topic C.3 (Wave phenomena) in the IB 
 
 Slower medium (higher n): wavefronts closer together, ray bends **towards** the normal. Faster medium (lower n): wavefronts further apart, ray bends **away** from the normal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--04-snell-light.webp" width="900" height="1150" alt="Light of 550 nm enters a liquid of index 1.47 at 52.0 degrees and refracts to 32.4 degrees, towards the normal. A wave drawn across the boundary has the same frequency, but speed falls to 2.04 x 10^8 m/s and wavelength to 374 nm." loading="lazy">
+  <figcaption>Frequency is fixed by the source; speed and wavelength change in the same ratio.</figcaption>
+</figure>
+
+
 ## Method: a refraction calculation
 
 1. Mark the angles from the normal. If you are given an angle to the surface, subtract it from 90°.
@@ -84,6 +96,22 @@ Slower medium (higher n): wavefronts closer together, ray bends **towards** the 
 
 **Small reminder.** For a wave going from a medium of n = 1.45 into one of n = 1.20, sin C = 1.20 / 1.45 = 0.8276, so C = 55.9°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--02-reflection.webp" width="900" height="940" alt="A ray meets a plane mirror at 35 degrees to the surface, so the angle of incidence from the normal is 55 degrees. The reflected ray also leaves at 55 degrees, and the angle between the two rays is 110 degrees." loading="lazy">
+  <figcaption>Measure angles from the normal: 35 degrees to the mirror means 55 degrees of incidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--05-critical-angle.webp" width="900" height="1160" alt="Rays in glass of index 1.55 meet the glass-air boundary. Below the critical angle of 40.2 degrees the ray mostly refracts away from the normal; at 40.2 degrees it travels along the boundary; above it the ray is totally internally reflected." loading="lazy">
+  <figcaption>At the critical angle the refracted ray runs along the boundary; beyond it all the light is reflected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--06-prism-tir.webp" width="900" height="1060" alt="A ray enters a 45-45-90 glass prism along the normal and meets the long face at 45 degrees. In air the critical angle is 40.2 degrees so the ray is totally internally reflected and turns through 90 degrees. In a liquid of index 1.36 the critical angle is 61.3 degrees, so part of the ray leaves." loading="lazy">
+  <figcaption>The same 45 degree ray is totally reflected in air but not in the liquid.</figcaption>
+</figure>
+
+
 ## Method: drawing a wavefront-ray diagram
 
 1. Draw the boundary and the normal, then the incident rays at the stated angle to the normal.
@@ -93,6 +121,12 @@ Slower medium (higher n): wavefronts closer together, ray bends **towards** the 
 5. For diffraction, keep the spacing of the wavefronts unchanged and curve them into the shadow, more strongly for a narrow gap.
 
 **Small reminder.** Ripples go from deep water to a shelf where the speed halves. The wavelength halves too, because the frequency is fixed, so the wavefront spacing on the shelf is half the spacing in deep water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--03-refraction-wavefronts.webp" width="900" height="1000" alt="Water waves go from deep water at 0.30 m/s into a shallow shelf at 0.21 m/s with the same 6.0 Hz frequency. Wavelength shrinks from 0.050 m to 0.035 m, wavefronts get closer, and the ray moves from 40 to 26.7 degrees from the normal." loading="lazy">
+  <figcaption>Slower medium, same frequency: shorter wavelength and a ray nearer the normal.</figcaption>
+</figure>
+
 
 ## Diffraction in brief
 
@@ -104,6 +138,17 @@ Slower medium (higher n): wavefronts closer together, ray bends **towards** the 
 | Large body, size much greater than λ | Sharp shadow |
 
 Speed, wavelength and frequency do not change on diffraction. The wavefront shape and the spread do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--07-diffraction-gap.webp" width="900" height="1130" alt="Plane wavefronts meet a barrier gap. A gap of five wavelengths lets the wave through almost unchanged with clear shadows. A gap of one wavelength gives nearly semicircular wavefronts that spread widely. Wavefront spacing is the same on both sides." loading="lazy">
+  <figcaption>Narrower gaps spread the wave more; the wavelength does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--08-diffraction-doorway.webp" width="900" height="900" alt="On a log scale of wavelength divided by gap for a 0.90 m doorway, light (5 x 10^-7 m) is about a million times smaller than the gap and casts a sharp shadow. Sound (0.68 m) and radio (3.0 m) are comparable to or larger than the gap and spread strongly." loading="lazy">
+  <figcaption>Waves spread most when their wavelength is similar to or larger than the gap.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

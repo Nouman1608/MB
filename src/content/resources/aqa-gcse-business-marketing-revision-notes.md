@@ -46,6 +46,12 @@ Splitting a market into groups so each can be targeted.
 
 Why: the mix fits the group, money is not wasted. Risk: too narrow a target limits sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
+
 ## Market research (3.5.3)
 
 **Purpose:** spot opportunities, understand customers and competitors. Collect information on demand, competition and target market.
@@ -82,6 +88,27 @@ Worked reminder. Pinchbeck Pet Treats sells 9,000 units in a market of 150,000 u
 4. Say what it means for a decision, such as which group to target.
 5. Mention a limit, for example the sample is small or the data is old.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-marketing--02-market-share-example.webp" width="900" height="920" alt="Two bars show a town market of 480,000 pounds then 520,000 pounds. Zelmora sales of 62,400 pounds are the same block in both. Share falls from 13% to 12%." loading="lazy">
+  <figcaption>When the market grows and sales stay the same, market share falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-marketing--03-survey-age-results.webp" width="900" height="970" alt="Bar chart of 200 respondents by age: 58, 74, 46 and 22, being 29%, 37%, 23% and 11%. The 25 to 44 group is the largest." loading="lazy">
+  <figcaption>Each share is the number divided by 200 times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+
 ## Price (3.5.4)
 
 | Method | Key point |
@@ -95,6 +122,12 @@ Worked reminder. Pinchbeck Pet Treats sells 9,000 units in a market of 150,000 u
 Cost-plus reminder. A unit costs £12 and the mark-up is 25%. Price = 12 × 1.25 = £15. Profit per unit £3. Check the other way: a mark-up is profit as a percentage of cost, so selling at £18 on a £12 cost gives (18 − 12) ÷ 12 × 100 = 50%.
 
 **Factors:** costs, nature of the market, degree of competition, product life cycle. Basic relationship: higher price, lower demand (likely).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-marketing--04-cost-plus-example.webp" width="900" height="890" alt="Unit cost 4.20 pounds is variable 2.60 plus fixed share 1.60. A 40% mark-up of 1.68 pounds gives a price of 5.88 pounds." loading="lazy">
+  <figcaption>Cost-plus: unit cost plus a percentage mark-up.</figcaption>
+</figure>
+
 
 ## Product (3.5.4)
 
@@ -124,6 +157,17 @@ Cost-plus reminder. A unit costs £12 and the mark-up is 25%. Price = 12 × 1.25
 
 Why use it: to broaden and balance the portfolio so that cash cows fund stars and question marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-marketing--01-plc-five-stages.webp" width="900" height="1030" alt="A sales-time curve in five stages: research and development (no sales), introduction, growth, maturity and decline. A dashed line shows an extension strategy lifting sales in decline." loading="lazy">
+  <figcaption>The product life cycle has five stages, and extension strategies can lift sales in decline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-marketing--05-boston-matrix-gcse.webp" width="900" height="860" alt="A grid of market share and growth: star, question mark, cash cow and dog, each with its typical action." loading="lazy">
+  <figcaption>The Boston Matrix classes products by market share and market growth.</figcaption>
+</figure>
+
+
 ## Promotion (3.5.4)
 
 **Reasons:** inform or remind; create or increase sales; create or change image; persuade.
@@ -151,16 +195,39 @@ Why use it: to broaden and balance the portfolio so that cash cows fund stars an
 
 For a scenario, ask: how many customers, how big is each order, does the customer need to see it?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
+
 ## E-commerce and m-commerce
 
 - Internet selling and mobile-device selling.
 - Benefits: reach (including international markets), always open, lower premises costs.
 - Drawbacks: security, delivery, cannot try the product, competition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## The mix together
 
 - The 4Ps must fit each other and the target market.
 - The mix changes over time (life cycle, rivals, technology). Recommend, justify with case facts, and judge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Applying the 4Ps to a business
 

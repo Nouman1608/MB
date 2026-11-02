@@ -50,6 +50,22 @@ Adjustment: each term is 2 more   ->  nth term = 3n + 2
 
 Check with n = 1 and n = 4 before committing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--01-linear-nth-term.webp" width="900" height="940" alt="Graph of the sequence 5, 8, 11, 14 against n. Each point is 3 higher than the one before, so the points lie on a straight line of gradient 3. Extending the line back to n = 0 gives 2, so the nth term is 3n + 2." loading="lazy">
+  <figcaption>A linear sequence lies on a straight line whose gradient is the common difference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--03-four-shapes.webp" width="900" height="970" alt="Four small graphs of a sequence for n = 1 to 6. Linear 4n minus 1 rises in a straight line to 23. Quadratic n squared curves upward to 36. Cubic n cubed curves upward more steeply to 216. Exponential 3 times 2 to the n minus 1 doubles each step and reaches 96." loading="lazy">
+  <figcaption>Linear sequences are straight; quadratic, cubic and exponential sequences curve upward at different rates.</figcaption>
+</figure>
+
+
 ## Quadratic sequences
 
 Second difference = **2a**, so `a = second difference ÷ 2`.
@@ -124,6 +140,17 @@ y = 12/x
 
 When x = 6:  y = 12/6 = 2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--04-direct-square.webp" width="900" height="910" alt="Graph of y = 5x squared. The given point (3, 45) gives k = 5, and then at x = 5 the graph gives y = 125." loading="lazy">
+  <figcaption>Use the given pair to find k, then use k to find the unknown value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
+  <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
+</figure>
+
 
 ## Exam traps
 

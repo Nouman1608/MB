@@ -60,6 +60,12 @@ The average rate of return (ARR) is in the specification's Appendix 3: average a
 
 A 25% return looks attractive, but it rests on a forecast. If the range sells badly the return falls, and the R&D money cannot be recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--02-arr-norrish-range.webp" width="900" height="1010" alt="Five yearly profit blocks of 12,000 pounds make the 60,000 forecast. The 48,000 pound project cost is split in four, and 12,000 is one quarter. ARR is 12,000 / 48,000 x 100 = 25 percent, but it rests on a forecast." loading="lazy">
+  <figcaption>ARR for the flat-pack range: 12,000 / 48,000 x 100 = 25%.</figcaption>
+</figure>
+
+
 ## 2. Organic growth through new markets
 
 A new market means selling to customers the business does not yet reach. The specification names three ways.
@@ -76,6 +82,12 @@ Norrish Joinery sells £184,000 of furniture in 2024. After launching its websit
 - Percentage change = 41,400 / 184,000 × 100 = **22.5%**
 
 Percentage change is change divided by the original figure, not the new one. A common slip is dividing by 225,400 and getting 18.4%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--01-percentage-change-norrish.webp" width="900" height="1000" alt="Two bars show Norrish Joinery sales rising from 184,000 to 225,400 pounds, a gain of 41,400. Dividing the gain by the original 2024 figure gives 22.5 percent. Dividing by the new figure gives 18.4 percent, the common mistake." loading="lazy">
+  <figcaption>Percentage change divides by the original figure: 41,400 / 184,000 = 22.5%.</figcaption>
+</figure>
+
 
 ## 3. External growth: merger and takeover
 
@@ -94,6 +106,22 @@ Zandrick Foods, a frozen-meal maker with 14% of its market, offers £2.80 a shar
 - Combined market share = 14% + 6% = **20%**
 
 Whether this is good value depends on what Zandrick expects to gain. It might save money by closing a duplicate head office, but if Cresswin's staff leave, the 6% share could shrink.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--04-zandrick-takeover-share.webp" width="900" height="1060" alt="Buying 350,000 shares at 2.80 pounds costs 980,000 pounds. Market shares of 14 percent and 6 percent combine to 20 percent, though the 6 percent could shrink if staff leave." loading="lazy">
+  <figcaption>The takeover costs 980,000 pounds and lifts market share from 14% to 20%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--03-merger-or-takeover.webp" width="900" height="860" alt="In a merger two firms agree to join as one. In a takeover one firm buys enough of another to control it, even if the target does not want it." loading="lazy">
+  <figcaption>Merger means both sides agree; takeover means one side gains control.</figcaption>
+</figure>
+
 
 ## 4. The public limited company (plc)
 
@@ -134,6 +162,17 @@ Sandell Fitness has 3,000,000 shares, all held by its founders. It floats by iss
 
 The business gains cash with no loan to repay, but the founders now share profits and decisions with new shareholders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--03-zandrick-funding-stack.webp" width="900" height="1180" alt="Four sources add up to the 980,000 pound cost: retained profit 310,000 and depot sale 150,000 (internal), bank loan 400,000 and share capital 120,000 (external). The loan is repaid with 480,000, which is 20 percent more than borrowed." loading="lazy">
+  <figcaption>Four sources fund the 980,000 pound takeover; the loan costs 20% extra.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--05-sandell-flotation.webp" width="900" height="1070" alt="Before the flotation the founders own all 3,000,000 shares. Issuing 800,000 new shares at 1.75 pounds raises 1,400,000 pounds. Founders then hold 78.9 percent of 3,800,000 shares, sharing profit and decisions." loading="lazy">
+  <figcaption>Floating Sandell Fitness raises 1.4 million pounds but dilutes the founders to 78.9%.</figcaption>
+</figure>
+
+
 ## 6. Why aims and objectives change
 
 An **aim** is what the business wants to achieve over the long run; an **objective** is a narrower target that moves it towards that aim. As a business evolves, these are rarely fixed. The specification gives five reasons.
@@ -161,6 +200,12 @@ The specification gives four examples of the change itself.
 | 2 | £700,000 | £31,500 | 4.5% | Protect cash and cut costs (survival) |
 
 Net profit margin = net profit / sales revenue × 100, so 57,600 / 640,000 × 100 = 9.0% and 31,500 / 700,000 × 100 = 4.5%. Revenue rose by 9.4% but the margin halved, because costs grew faster. Sandell responds by reducing staff from 24 to 20, a fall of 4 / 24 × 100 = 16.7%, and by dropping a loss-making class timetable. Performance has changed both the aim and the actions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--06-sandell-aims-change.webp" width="900" height="1190" alt="Year 1 margin is 9.0 percent with the aim of growth and 24 staff. Year 2 margin halves to 4.5 percent, the aim becomes survival and staff fall to 20, down 16.7 percent." loading="lazy">
+  <figcaption>Falling profit margin turns Sandell Fitness from growth to survival.</figcaption>
+</figure>
+
 
 ## Common errors
 

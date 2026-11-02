@@ -57,6 +57,12 @@ Maple Quay Cycles bought workshop equipment for 24,000 on 1 January of Year 1. I
 
 The Year 2 reducing balance charge is 20% of the carrying value of 24,000 − 2,400 = 21,600, which is 4,320. Trading improved by 1,500 before depreciation. With consistent treatment, profit rises by 1,500 from 27,100 to 28,600. After the switch, profit appears to fall by 420 to 26,680. A reader would draw the wrong conclusion, which is why a change of method needs a reason and a note.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--01-g2-02-consistency-switch.webp" width="900" height="950" alt="Bars show Maple Quay Cycles profit of 27,100 in Year 1, 28,600 in Year 2 if straight line is kept, and 26,680 if the business switches to 20% reducing balance. Trading improved by 1,500, but the switch makes profit appear to fall by 420." loading="lazy">
+  <figcaption>Changing depreciation method can hide a real rise in profit.</figcaption>
+</figure>
+
+
 ## Prudence
 
 Prudence means you do not overstate profits or assets, and you do not understate losses or liabilities. If you are unsure, choose the figure that gives the lower profit or the lower asset value. It does not mean deliberately understating profit. Prudence is about caution, not pessimism.
@@ -83,6 +89,17 @@ Trade receivables are 21,400 after writing off a debt known to be bad. The busin
 
 Profit before these two adjustments was 42,000, so adjusted profit is 42,000 − 1,200 − 1,070 = 39,730.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--02-g2-02-prudence-profit-walk.webp" width="900" height="890" alt="Draft profit of 42,000 falls by 1,200 when slate is valued at net realisable value of 2,700 instead of cost 3,900, and by 1,070 for a 5% provision on 21,400 of receivables. Adjusted profit is 39,730." loading="lazy">
+  <figcaption>Prudence recognises losses early, so adjusted profit is lower than the draft.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--02-u2-005-lower-of-cost-nrv.webp" width="900" height="900" alt="Cost and net realisable value bars for porcelain, slate and mosaic, with the lower one outlined as the value used: 6,400, 2,700 and 1,800, totalling 10,900 against cost of 12,100." loading="lazy">
+  <figcaption>Each inventory line is valued at the lower of cost and net realisable value.</figcaption>
+</figure>
+
+
 ## Accruals
 
 The accruals concept (also called matching) says revenue is recorded when it is earned and expenses when they are incurred, whatever the date of the cash movement. Each year's statement of profit or loss should hold the expenses that helped to earn that year's revenue.
@@ -103,6 +120,17 @@ Adjusted profit = 18,000 − 480 + 1,980 + 1,900 = **21,400**. The first draft h
 
 Notice how accruals needs some arithmetic. Work out the share of the period used, then adjust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--03-g2-02-accruals-profit-bridge.webp" width="900" height="920" alt="Draft profit of 18,000 changes by -480 for electricity owed, +1,980 for insurance paid in advance and +1,900 for catering earned but not recorded, giving 21,400." loading="lazy">
+  <figcaption>Accruals puts each item in the year it belongs to.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--01-u2-005-insurance-timeline.webp" width="900" height="850" alt="Twelve month boxes show the 2,640 insurance paid on 1 October: October to December (660) is this year's expense and January to September (1,980) is an other receivable." loading="lazy">
+  <figcaption>Only the months used before the year end are charged to this year.</figcaption>
+</figure>
+
+
 ## Materiality
 
 An item is material when omitting it, or getting it wrong, could alter a reader's decisions about the business. Small items need not be treated with full accounting care. Materiality depends on the size of the business and the item, so it is a judgement, not a fixed number.
@@ -121,6 +149,12 @@ Pelham Bay Print Studio has revenue of 250,000 and profit of 38,000.
 
 The same 240 might be material to a stall with profit of 2,000, because it would be 12% of profit. Say what the item is compared with. A policy of "expense anything under 500" is acceptable if it is applied consistently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--04-g2-02-materiality-share.webp" width="900" height="980" alt="Each item is shown as a share of profit of 38,000: stapler 0.04%, repair bill 0.63% and folding machine 25.3%. The same 240 repair bill would be 12% of a stall profit of 2,000." loading="lazy">
+  <figcaption>Materiality is judged against the size of the business, not by a fixed number.</figcaption>
+</figure>
+
+
 ## Money measurement
 
 Money measurement means the books record only facts that can be stated in money. The advantage is that figures can be added together and compared. The limits are important and often asked about:
@@ -132,6 +166,12 @@ Money measurement means the books record only facts that can be stated in money.
 ### Worked example: what appears
 
 Maple Quay Cycles bought its shop premises ten years ago for 60,000 and a delivery van this year for 18,000. Both are shown at cost, giving 78,000 of non-current assets before depreciation, even though one figure is a decade old. The owner also employs a mechanic with a national reputation, but the statement of financial position carries no figure for that skill. The statement therefore does not show the whole worth of the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--05-g2-02-money-measurement-limits.webp" width="900" height="880" alt="Premises bought for 60,000 ten years ago and a van bought for 18,000 this year are added at cost to give 78,000. The mechanic with a national reputation has no money figure and is not recorded." loading="lazy">
+  <figcaption>Only items with a money value are recorded, usually at cost.</figcaption>
+</figure>
+
 
 ## Business entity
 
@@ -148,6 +188,12 @@ The draft profit of Ardent Row Bakery is 44,900. A review of the ledger shows th
 | Flour and cakes taken home, at cost | Cost of sales, 380 | Drawings |
 
 Private amounts total 2,200 + 640 + 380 = 3,220. Corrected profit = 44,900 + 3,220 = **48,120**. Drawings were 14,000 in cash, so total drawings are 14,000 + 3,220 = 17,220. Profit and drawings both rise by 3,220, so the owner's capital is unchanged overall, but expenses and drawings are now reported correctly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--06-g2-02-entity-drawings.webp" width="900" height="940" alt="Three private items of 2,200, 640 and 380, total 3,220, move from expenses to drawings. Profit rises from 44,900 to 48,120 and drawings from 14,000 to 17,220." loading="lazy">
+  <figcaption>Private bills paid by the business are drawings, not expenses.</figcaption>
+</figure>
+
 
 ## Choosing the concept: a quick method
 

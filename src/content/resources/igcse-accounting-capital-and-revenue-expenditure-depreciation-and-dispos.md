@@ -81,6 +81,12 @@ Ask of every payment: does it add to what the business owns, or keep it running?
 
 **How to account for them.** Capital expenditure is debited to the non-current asset account and appears in the statement of financial position, reaching the statement of profit or loss only through depreciation. Revenue expenditure is debited to an expense account and is moved into the statement of profit or loss when the year closes. If the saw is bought on credit from Norwood Machinery Supplies, the journal entry is debit Machinery 9,600, credit Norwood Machinery Supplies 9,600.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
+
 ## Capital and revenue receipts
 
 A **capital receipt** is money received that is not income from trading: the owner paying in capital, a loan, or the proceeds of selling a non-current asset. A **revenue receipt** is income earned from running the business, such as sales, rent received and commission received.
@@ -94,6 +100,12 @@ A **capital receipt** is money received that is not income from trading: the own
 | Rent received or commission received | Revenue | Rent received or commission received |
 
 Revenue receipts are credited to income accounts and are transferred to the statement of profit or loss. Capital receipts are not income. A loan and the owner's capital stay in the statement of financial position; when a non-current asset is sold, only the resulting profit or loss on disposal is taken to the statement of profit or loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--01-capital-revenue-receipts.webp" width="900" height="1161" alt="Capital receipts (owner capital 5,000, bank loan 20,000, old lathe sold 2,100) are credited to capital, loan and disposal accounts and are not income. Revenue receipts (sales, rent received, commission received) are credited to income accounts and move to the statement of profit or loss." loading="lazy">
+  <figcaption>Capital receipts are not income; revenue receipts are.</figcaption>
+</figure>
+
 
 ## Effect of incorrect treatment
 
@@ -118,11 +130,28 @@ Corrected profit                    37,961
 
 Net effect on non-current assets: 675 less 414 gives an increase of 261. Treating revenue expenditure as capital overstates profit and assets, but by less than the full amount because some depreciation has been charged. Treating capital as revenue does the opposite. A receipt put in the wrong class changes profit but leaves asset values alone, unless an asset sold is left in the books.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--01-misposted-corrected-profit.webp" width="900" height="1010" alt="A running total from draft profit 41,500 through four misposted items (+675, -414, -5,000, +1,200) to corrected profit 37,961. Bar lengths are proportional to each adjustment. Capital wrongly treated as revenue and revenue as capital change profit by less than the full amount because of depreciation." loading="lazy">
+  <figcaption>Each misposting moves profit by a different amount, ending at 37,961.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--01-capital-vs-revenue.webp" width="900" height="970" alt="Two columns contrast capital expenditure (buying a van, extending a building, benefiting many years) with revenue expenditure (fuel, repainting, benefiting this year only). Two panels show that treating capital as revenue understates profit and assets, and treating revenue as capital overstates both." loading="lazy">
+  <figcaption>Capital spending benefits several years; putting it in the wrong group distorts profit and asset value.</figcaption>
+</figure>
+
+
 ## What depreciation is
 
 **Depreciation** is the share of a non-current asset's cost consumed during an accounting period by wear and tear, the passage of time or obsolescence. No cash leaves the business when it is charged. It is not money set aside to replace the asset.
 
 It must be accounted for because the asset helps earn revenue over several years, so its cost should be matched against those years, not charged all in the year of purchase. Without it, profit would be overstated and the statement of financial position would show assets at more than a realistic value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
 
 ## Three methods
 
@@ -139,6 +168,17 @@ Year   Net book value at start   Depreciation   Net book value at end
 
 **Revaluation** suits collections of small items. Hand tools are valued at 3,150 at the start of the year, 820 of tools are bought, and they are valued at 2,990 at the end. Depreciation = 3,150 + 820 − 2,990 = 980.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--03-revaluation-depreciation.webp" width="900" height="790" alt="Hand tools are valued at 3,150 at the start and 820 are bought, giving 3,970. They are valued at 2,990 at the end, so depreciation is 3,970 - 2,990 = 980." loading="lazy">
+  <figcaption>Under revaluation, depreciation is opening value plus additions minus closing value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+
 ## Choosing a method
 
 | Asset | Suitable method | Reason |
@@ -148,6 +188,12 @@ Year   Net book value at start   Depreciation   Net book value at end
 | Loose tools and similar small items | Revaluation | Items are too many and too cheap to track one by one |
 
 Follow any method, rate or policy a question states. Once chosen, a method is applied consistently each year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--02-choosing-depreciation-method.webp" width="900" height="1050" alt="Straight-line suits premises, machinery, fixtures and fittings (value falls by the same amount each year). Reducing balance suits motor vehicles and computer equipment (falls fast, then slower). Revaluation suits loose tools: 3,970 less closing value 2,990 gives 980." loading="lazy">
+  <figcaption>Each asset type is paired with the method that suits it.</figcaption>
+</figure>
+
 
 ## Recording depreciation, purchase and sale
 
@@ -200,6 +246,27 @@ Disposal of machinery account
 ```
 
 The statement of financial position shows machinery at cost 69,600, less accumulated depreciation 11,670, giving a net book value of 57,930. The profit of 1,250 is income in the statement of profit or loss; a loss would be an expense.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--02-part-year-disposal.webp" width="900" height="850" alt="A month strip shows machine A owned for nine months of 2028. A cost bar of 30,000 splits into 9,000 earlier depreciation, 2,250 for 2028 and net book value 18,750. The sale price of 20,000 exceeds net book value by 1,250, the profit on disposal." loading="lazy">
+  <figcaption>Depreciation is charged up to the sale date, so profit on disposal is proceeds minus net book value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--03-wexford-journal.webp" width="900" height="897" alt="Six journal entries for Wexford in 2028: machine D bought for 27,600, machine A disposal entries (30,000; 11,250; 20,000), year-end depreciation 8,520 and profit on disposal 1,250. Total debits equal total credits." loading="lazy">
+  <figcaption>The 2028 journal entries, debit on the left and credit on the right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--04-wexford-ledgers.webp" width="900" height="1264" alt="Machinery account totals 99,600; provision for depreciation totals 22,920; disposal account totals 31,250 with a profit of 1,250. Cost 69,600 less provision 11,670 gives net book value 57,930." loading="lazy">
+  <figcaption>Machine A leaves all three accounts; the profit balances the disposal account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

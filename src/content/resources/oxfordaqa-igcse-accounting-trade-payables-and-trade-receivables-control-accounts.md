@@ -63,6 +63,17 @@ Each line in a control account is a total, not a single invoice. Use the books o
 
 The receivables control account is laid out like a customer account. Anything that increases what customers owe goes on the **debit** side. Anything that reduces it goes on the **credit** side. The payables control account is laid out like a supplier account, so the sides are reversed: anything that increases what you owe goes on the **credit** side, and anything that reduces it goes on the **debit** side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--04-mp16-control-sources.webp" width="900" height="1006" alt="Each control account line is a total from a book of prime entry: sales journal, returns journals, purchases journal, cash book, general journal or bank statement. The account is a memorandum record outside the double entry and excludes cash sales and cash purchases." loading="lazy">
+  <figcaption>Every line is a total taken from a book of prime entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--06-prime-entry-trial-balance.webp" width="900" height="1250" alt="Six books of prime entry feed ledger accounts, which feed a trial balance. The example trial balance has debits of 12,000 (cash, equipment, stock) equal to credits of 12,000 (capital, creditors). Equal totals do not prove the absence of errors." loading="lazy">
+  <figcaption>Transactions flow from books of prime entry to ledgers to a trial balance that checks debits equal credits.</figcaption>
+</figure>
+
+
 ## 3. Trade receivables ledger control account
 
 **Worked example: Crestfield Traders, month of March**
@@ -101,6 +112,12 @@ Notice what each entry does:
 - **Interest charged on overdue accounts** is added to what the customer owes, so it is a debit. The matching credit goes to an interest income account in the general ledger.
 - **Credit balances in the receivables ledger** arise when a customer has overpaid or has returned goods after paying. The business owes that customer. They are carried down on the debit side and brought down on the credit side, so that the closing debit balances figure stays accurate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
+
 ## 4. Trade payables ledger control account
 
 **Worked example: Selwick Hardware, month of March**
@@ -132,6 +149,17 @@ Here the credit side totals 51,195, the debit items other than the closing balan
 
 The **debit balances in the payables ledger** mirror the credit balances in the receivables ledger. They arise from an overpayment or from returning goods that were already paid for. The supplier owes the business, so these sit on the opposite side to the normal supplier balances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--05-mp16-payables-control.webp" width="900" height="848" alt="A T-account for Selwick Hardware: items that reduce what is owed on the debit side, items that increase it on the credit side, balancing figure 14,645 dollars, totals 51,195 dollars." loading="lazy">
+  <figcaption>The payables control account is laid out on the opposite sides to the receivables account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--07-un16-opposite-balances.webp" width="900" height="1054" alt="Credit balances in the receivables ledger (340 closing on the debit side, 260 opening on the credit side) and debit balances in the payables ledger (150 opening on the debit side, 210 closing on the credit side) sit opposite to the normal side of each control account." loading="lazy">
+  <figcaption>Overpayments and returns create balances on the opposite side.</figcaption>
+</figure>
+
+
 ## 5. Contra entries
 
 A contra entry is used when one trader is both a customer and a supplier. Suppose Norbury Packaging owes Crestfield Traders 700 for goods bought on credit, and Crestfield Traders owes Norbury Packaging 1,150 for packaging. The two amounts can be set off against each other. The smaller amount, 700, is the contra.
@@ -142,6 +170,12 @@ The general journal records it as: debit Norbury Packaging in the payables ledge
 - debit side of the payables control account: 700 (amounts owed to suppliers fall)
 
 After the contra, Crestfield Traders still owes Norbury Packaging 450 (1,150 less 700). The contra entry must appear in both control accounts. If you put it in only one, the two control accounts will no longer agree with their ledgers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-mp16-contra.webp" width="900" height="770" alt="Norbury owes 700 and is owed 1,150, so 700 is set off. It is credited in the receivables control account and debited in the payables control account, and 450 is still owed." loading="lazy">
+  <figcaption>A contra reduces both control accounts by the same amount, so enter it in both.</figcaption>
+</figure>
+
 
 ## 6. Understanding and interpreting a control account
 
@@ -163,6 +197,22 @@ The control account tells you that an error exists. It does not say which accoun
 Know the limits of this check. If a receipt of 300 is posted to the wrong customer's account, the control account and the list still agree, because the total is unchanged. If the same wrong amount is put into both the control account and the ledger, they also agree. So agreement is helpful evidence, not proof that every account is right.
 
 A control account can also be used to find a missing figure. If you know the opening balance, closing balance and every item except credit sales, the balancing figure is credit sales. This is a common way of using the account when records are incomplete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--05-un16-missing-credit-sales.webp" width="900" height="1060" alt="The Crestfield receivables control account with credit sales hidden. The credit side adds to 81,130, the other debit items add to 19,780, so credit sales are the balancing figure of 61,350 dollars." loading="lazy">
+  <figcaption>With every other item known, credit sales is the balancing figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-un16-check-limits.webp" width="900" height="914" alt="A 250 dollar gap between the control account (21,110) and the list (20,860) shows an error exists. A receipt of 300 posted to the wrong customer leaves the total unchanged, so the two still agree." loading="lazy">
+  <figcaption>Agreement helps but does not prove every account is right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
 
 ## Common errors
 

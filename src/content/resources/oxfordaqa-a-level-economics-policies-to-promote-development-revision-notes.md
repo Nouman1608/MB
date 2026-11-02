@@ -29,6 +29,12 @@ These revision notes cover specification section 3.4.3.3 Policies to promote dev
 | Demand-side | Raise aggregate demand | Government spending, tax cuts, cheaper credit | Little use if capacity, skills or infrastructure are the problem |
 | Supply-side | Raise productive capacity | Education, health, roads, deregulation | Slow and costly up front |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--10-demand-side-vs-supply-side.webp" width="900" height="880" alt="Left: AD shifts right along a steep AS near capacity, so prices rise a lot and output barely changes. Right: AS shifts right, so output rises and prices fall." loading="lazy">
+  <figcaption>Where capacity is the constraint, supply-side policy raises output while demand-side policy mostly raises prices.</figcaption>
+</figure>
+
+
 ## Market-based versus interventionist
 
 | | Market-based | Interventionist |
@@ -39,6 +45,12 @@ These revision notes cover specification section 3.4.3.3 Policies to promote dev
 | Weakness | Inequality, infant industries hurt, volatile currency | Government failure, cost, weak competition |
 
 Must-know point: the strategies are not always clear cut and can complement each other. Economists disagree on the best route. A good answer says which mix fits the country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--11-market-vs-interventionist-overlap.webp" width="900" height="900" alt="A Venn diagram: market-based strategies on the left, interventionist on the right, with FDI plus state tax breaks and roads in the overlap. Cutting tariffs plus funding schools is a mix of both." loading="lazy">
+  <figcaption>The two strategies overlap, so judge the mix, not the label.</figcaption>
+</figure>
+
 
 ## Method in steps: percentage change in price after a tariff change
 
@@ -54,6 +66,12 @@ Worked reminder: world price 4,000 cu, tariff falls from 30% to 10%. Old price 5
 - Against: profit repatriation, imported inputs, low-skilled jobs, crowding out local firms, firm may leave.
 - Multiplier = 1 / (1 - domestic MPC). With MPC 0.5, multiplier = 2. An injection of 80 cu raises income by 160 cu.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--05-fdi-multiplier.webp" width="900" height="910" alt="A 200 unit FDI injection is re-spent at an MPC of 0.6 each round (200, 120, 72, 43.2, ...), giving a multiplier of 2.5 and a 500 rise in income. Of a 60 unit profit, 42 is sent abroad and 18 stays." loading="lazy">
+  <figcaption>FDI raises income by a multiple of the injection, but repatriated profit and imported inputs reduce the gain.</figcaption>
+</figure>
+
+
 ## Buffer stocks
 
 - Aim: stabilise commodity prices and farmers' incomes.
@@ -61,6 +79,12 @@ Worked reminder: world price 4,000 cu, tariff falls from 30% to 10%. Old price 5
 - Steps: find the free-market price; compare with the floor and ceiling; read demand and supply at that bound; the gap is the amount bought or sold; cost = gap x price.
 - Worked reminder: at a floor of 600 cu, quantity demanded is 400 and quantity supplied is 520 (thousand tonnes). The authority buys 120 thousand tonnes, costing 120 x 600 = 72,000 thousand cu, or 72 million cu.
 - Problems: storage cost, funding, floor set too high leads to permanent surplus, perishable goods, hard to forecast the long-run price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--04-buffer-stock-floor-ceiling.webp" width="900" height="940" alt="Demand is Qd = 1,800 - P. In a bumper season (Qs = P + 100) the free price is 850; with a floor of 900 the authority buys 100 thousand tonnes for 90 million. In a poor season (Qs = P - 400) the free price is 1,100; with a ceiling of 1,050 it sells 100 thousand tonnes from stock and raises 105 million." loading="lazy">
+  <figcaption>A floor and a ceiling stop the price swinging between 850 and 1,100 by buying and selling 100 thousand tonnes.</figcaption>
+</figure>
+
 
 ## Microfinance and fair trade
 
@@ -71,6 +95,17 @@ Worked reminder: world price 4,000 cu, tariff falls from 30% to 10%. Old price 5
 | Limits | High interest, debt traps, few large firms | Only members gain, consumers must pay more, possible surplus |
 
 Worked reminder: a minimum price of 500 cu against a market price of 420 cu on 100 tonnes. Revenue is 50,000 against 42,000. Gain = 8,000 / 42,000 = 19.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--12-tariff-cut-and-evaluation-chain.webp" width="900" height="980" alt="A machine at world price 10,000 costs 12,000 with a 20% tariff and 10,500 with 5%, a 12.5% fall. The case for liberalisation is a chain to faster growth; the case against is infant industries, lost jobs and lower tariff revenue." loading="lazy">
+  <figcaption>A 12.5% fall in capital-goods cost helps investment, but the judgement depends on local firms, speed and help for workers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--13-microfinance-and-fair-trade.webp" width="900" height="1030" alt="Repaying 200 cu costs 240 from a microlender and 440 from a moneylender; a sewing machine adds 720, net gain 680. A cooperative earns 80,000 at market price or 90,000 on fair trade terms, 12.5% more; the community premium is 7,500." loading="lazy">
+  <figcaption>Cheap credit and guaranteed prices raise poor producers’ incomes.</figcaption>
+</figure>
+
 
 ## Aid and debt relief
 
@@ -85,6 +120,12 @@ Worked reminder: a minimum price of 500 cu against a market price of 420 cu on 1
 - For: raise household income, pay for schooling and health care, help the balance of payments, stable flow.
 - Against: brain drain, dependence on foreign labour markets, spent on consumption, fees.
 - Worked reminder: 50,000 migrants send 1,000 cu each, 50 million cu. A 10% fee costs 5 million cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-policies-to-promote-development--14-remittances-and-tourism.webp" width="900" height="990" alt="Remittances of 180m are 3% of GDP of 6,000m; an 8% fee takes 14.4m and halving it saves 7.2m. Tourist spending of 450m loses 40% to leakage, leaving 270m, and a multiplier of 1.6 gives 432m." loading="lazy">
+  <figcaption>Remittances and tourism help development, but fees and leakages reduce the gain.</figcaption>
+</figure>
+
 
 ## Tourism
 

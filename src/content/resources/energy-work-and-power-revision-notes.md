@@ -33,6 +33,32 @@ Energy is **transferred** between stores — by forces (mechanical work), by ele
 
 A falling ball transfers energy from its gravitational potential store to its kinetic store, and eventually, on landing, to the internal (thermal) store of the ball and the ground, with some energy transferred by sound waves (a transfer, not a store) to the internal store of the surroundings; a battery-powered motor transfers energy from a chemical store to a kinetic store via electrical work. The principle of conservation of energy underlies every such transfer: the total amount of energy stays constant throughout, however many stores it passes through.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--01-energy-transfers.webp" width="900" height="1070" alt="Four panels: a pushed crate (force, chemical to kinetic), a battery driving a motor (current), a flame heating water (heating), and Sun light warming the ground (waves)." loading="lazy">
+  <figcaption>Energy moves between stores by forces, electric currents, heating and waves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--02-conservation-falling-ball.webp" width="900" height="930" alt="A 2 kg ball falls from 10 m. Stacked bars at five heights always total 196 J: gravitational potential energy falls from 196 J to 0 while kinetic energy rises from 0 to 196 J." loading="lazy">
+  <figcaption>Energy is transferred between stores but the total stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--03-sankey-lift.webp" width="900" height="840" alt="A Sankey diagram drawn to scale: 200 J from a battery splits into 147 J gravitational potential energy and 53 J thermal and sound." loading="lazy">
+  <figcaption>Energy in equals energy out: 200 J = 147 J + 53 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
+
 ## Where this fits in 5054
 
 Work is what a force does when it moves something, and it is the mechanism by which energy is transferred from one store to another; power then measures how quickly that transfer happens. Together, energy, work and power form the calculation core of Topic 1's final section, so fluency with all four equations — kinetic energy, gravitational PE, work done and power — pays off across every question type this sub-topic contains.
@@ -49,6 +75,12 @@ efficiency            = (useful energy out / total energy in) x 100%
 ```
 
 Units: energy and work in **joules (J)**, power in **watts (W)** = J/s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
 
 ## Worked examples for each equation
 

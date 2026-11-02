@@ -42,17 +42,35 @@ market growth (%)  = ((this period's sales - last period's sales) / last period'
 
 A rising market share alongside falling market growth can still mean falling sales in absolute terms, so both figures should be interpreted together, not read as automatically good or bad news in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--01-market-vs-product-orientation.webp" width="900" height="910" alt="Two three-step flows. Market orientation: ask customers what they need, design the product to match, sell to buyers who want it. Product orientation: start with what the business can make, make it, then look for buyers. The orientation shapes every later marketing decision." loading="lazy">
+  <figcaption>Market orientation starts from customer needs; product orientation starts from what the business can make.</figcaption>
+</figure>
+
+
 ## 4.2 Marketing planning
 
 A marketing plan sets **objectives** (e.g. market share, brand awareness) and the **marketing mix strategy** to reach them, informed by market research and forecasting. Marketing objectives should link back to the business's overall (corporate) objectives from Unit 1 — a strong answer connects a marketing decision to the broader business goal it serves, not just to "increasing sales" generically.
 
 Before setting the mix, a marketing plan requires **segmentation, targeting and positioning (STP)**: segmentation divides a market into groups with similar needs (e.g. by demographics, geography, or lifestyle); targeting selects which segment(s) to serve, often choosing between a **niche market** (a small, specific segment with less competition but a limited customer base) and a **mass market** (a large segment with more competition but greater sales potential); positioning is how the business wants the product perceived relative to competitors, often mapped on a **position map** (also called a perceptual map) with two attributes as axes, such as price against quality. A clear **unique selling point (USP)** -- the specific feature that differentiates a product from competitors -- underpins effective positioning and should be identifiable from the position map.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--02-marketing-planning-chain.webp" width="900" height="730" alt="A chain: the corporate objective must be supported by the marketing objectives (market share, brand awareness), which are reached through the marketing mix strategy (the seven Ps). Market research informs the objectives and sales forecasts (HL only) inform the plan. An illustrative bar shows market share of 12% against a 15% target." loading="lazy">
+  <figcaption>Marketing objectives must support the corporate objective and are met through the marketing mix, informed by research and forecasts.</figcaption>
+</figure>
+
+
 ## 4.3 Sales forecasting (HL only)
 
 This sub-topic itself requires no calculation: it asks only for the **benefits and limitations of sales forecasting**, evaluated for a given business. Forecasts inform production planning, cash flow planning and stock decisions, but they rest on past data and assumptions about the future, so a strong evaluation weighs the value of planning ahead against the risk of an inaccurate forecast in a fast-changing market.
 
 The trend-forecasting calculation itself sits in the quantitative toolkit rather than this sub-topic: **simple linear regression** (HL only) plots data on a **scatter diagram**, fits a **line of best fit**, uses **correlation** to judge how reliable that line is, and **extrapolates** it forward to forecast a future value. Revise the toolkit technique separately from this sub-topic's own focus on evaluating forecasting's usefulness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--03-sales-forecasting-regression.webp" width="900" height="880" alt="A scatter diagram of eight illustrative quarters of sales with a computed least-squares line of best fit (r = 0.97). The dashed extension forecasts quarters 9 and 10 at about 62.7 and 65.4 thousand units, with vertical bars showing the doubt around each forecast." loading="lazy">
+  <figcaption>A line of best fit can be extended to forecast, but the forecast is a prediction with uncertainty.</figcaption>
+</figure>
+
 
 ## 4.4 Market research
 
@@ -64,6 +82,17 @@ The trend-forecasting calculation itself sits in the quantitative toolkit rather
 | **Qualitative research** | Non-numerical, opinion-based data | Focus group discussion, open-ended interview responses |
 
 **Sampling methods** (random, quota, convenience) each trade off representativeness against cost and speed — be ready to justify which sampling method suits a given business scenario, not just define each one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--04-research-types.webp" width="900" height="820" alt="A two by two grid. Columns: primary (new data you collect) and secondary (existing data reused). Rows: quantitative (numbers) and qualitative (views and reasons). Examples: tick-box questionnaire, published sales statistics, interview or focus group, press articles and reviews." loading="lazy">
+  <figcaption>Research is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
+  <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
+</figure>
+
 
 ## 4.5 The seven Ps of the marketing mix
 
@@ -79,9 +108,21 @@ The traditional 4 Ps (Product, Price, Place, Promotion) are extended to seven fo
 
 **People, Process and Physical evidence** are the three extended Ps most relevant to **services** rather than physical products — a strong answer explains *why* these three matter more for a service business (where the "product" is intangible and experienced, not simply purchased) rather than just listing all seven Ps without differentiation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--06-seven-ps.webp" width="900" height="990" alt="Four core Ps (Product, Price, Place, Promotion) apply to every business. Three extra Ps matter especially for services: People, Process and Physical evidence. A service is experienced, not just bought." loading="lazy">
+  <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
+</figure>
+
+
 ## 4.6 International marketing (HL only)
 
 Marketing across borders must adapt to differences in **culture, language, legal requirements and consumer behaviour** between markets. Businesses choose between **standardisation** (one marketing approach used globally, lower cost) and **adaptation** (tailoring the mix to each local market, higher relevance) — evaluate this trade-off for the specific product and markets in a case study, rather than asserting one approach is always superior.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--07-standardise-or-adapt.webp" width="900" height="960" alt="Standardisation sends one identical product and approach to every market, giving lower cost but less local fit. Adaptation tailors the product to each market, giving more relevance but higher cost. Markets differ in culture, language, legal requirements and consumer behaviour." loading="lazy">
+  <figcaption>Standardisation lowers cost; adaptation improves local relevance; the best choice depends on the product and markets.</figcaption>
+</figure>
+
 
 ## How Unit 4 is examined
 

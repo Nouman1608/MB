@@ -53,6 +53,17 @@ You can measure the trade feature with trade as a share of GDP: (exports + impor
 
 Trade grew faster than output, so Country A is more integrated with other economies. Its producers and workers now depend more on events abroad. That is interdependence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--01-glob-trade-share.webp" width="900" height="970" alt="Trade as a share of GDP rises from 40% ((30 + 34) / 160) to 55% ((52 + 58) / 200). Trade grew 71.9% while GDP grew 25%, so Country A is more interdependent. The rise from 40% to 55% is 15 percentage points." loading="lazy">
+  <figcaption>Trade grew faster than output, so Country A is more integrated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--11-trade-share-of-gdp.webp" width="900" height="840" alt="Ten years ago exports 30 plus imports 34 were 40 percent of GDP of 160. Now exports 52 plus imports 58 are 55 percent of GDP of 200. Trade grew 71.9 percent while GDP grew 25 percent." loading="lazy">
+  <figcaption>Trade grew faster than GDP, so trade as a share of GDP rose from 40% to 55%.</figcaption>
+</figure>
+
+
 ## 2. Factors behind the growth of globalisation
 
 ### New technology
@@ -85,6 +96,17 @@ The saving explains why MNCs move production abroad. It also shows the drawback 
 
 Other factors, such as lower barriers to trade and rising incomes, also matter. The specification names technology and MNCs, so lead with those.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--02-glob-offshore-cost.webp" width="900" height="1140" alt="Stacked bars compare the cost per jacket at home (30) and at an offshore plant (21.50), with selling price 45. Profit per jacket rises from 15 to 23.50. The saving of 8.50 is 28.3%, or 170,000 a year." loading="lazy">
+  <figcaption>Offshore production cuts cost per jacket by 28.3%, but home jobs may be lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--12-offshoring-jacket-costs.webp" width="900" height="920" alt="A jacket costs 30 to make at home and 21.50 offshore including 2.50 shipping. At a price of 45 profit rises from 15 to 23.50 and the saving is 8.50 per jacket, or 170,000 a year on 20,000 jackets." loading="lazy">
+  <figcaption>Offshore production cuts cost per jacket from 30 to 21.50.</figcaption>
+</figure>
+
+
 ## 3. Benefits and drawbacks for producers, workers and consumers
 
 | Group | Developed countries | Less developed countries |
@@ -110,6 +132,27 @@ The MNC job pays more per month but less per hour. A good answer says both: the 
 In total, jobs rose slightly, so the economy as a whole did not lose. But the people who lost factory jobs may lack the skills for the new service jobs, and they may live in different places. That is structural unemployment, and it can be long lasting.
 
 **Consumers (illustrative).** Suppose a clothing price index in Country C falls from 100 to 84 because imports are cheaper. A household spending 1,200 a year on clothing could buy goods that would have cost 1,200 / 0.84 = 1,428.57 at the old prices, **19.0%** more. That is a gain in real income. The same households may also be the workers who lost factory jobs, so the gain is not shared evenly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--03-glob-mnc-pay.webp" width="900" height="1060" alt="Paired bars compare an MNC factory job with the average local job over a 4-week month. Pay is 380 against 300 and hours are 240 against 176, so pay per hour is 1.58 against 1.70." loading="lazy">
+  <figcaption>The MNC job pays more a month but less an hour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--04-glob-jobs-change.webp" width="900" height="1050" alt="Stacked bars show Country C jobs before and after. Factory jobs fall from 80,000 to 62,000 (-22.5%) and service jobs rise from 150,000 to 171,000 (+14%). Total jobs rise by 3,000, but displaced workers may lack the skills for the new jobs." loading="lazy">
+  <figcaption>Net jobs rise, yet factory workers who lose jobs may face structural unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--13-globalisation-groups-grid.webp" width="900" height="940" alt="A grid of producers, workers and consumers in developed and less developed countries, each with one benefit and one drawback summarised from the lesson table." loading="lazy">
+  <figcaption>One benefit and one drawback for each group, in developed and less developed countries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--14-cheaper-imports-real-income.webp" width="900" height="780" alt="A price index falling from 100 to 84 means 1,200 buys goods worth 1,428.57 at old prices instead of 1,200, shown as 14.29 blocks of 100 against 12, a gain in real income of 19.0 percent." loading="lazy">
+  <figcaption>Falling prices let the same 1,200 buy 19.0% more.</figcaption>
+</figure>
+
 
 ## 4. Moral, ethical and sustainability considerations
 
@@ -139,6 +182,17 @@ Gain for the farmer, higher cost for consumers: a moral argument for paying more
 - Profit would fall to 50,000 x 12 = 600,000, a fall of **40%**
 
 Society gains but the firm loses, so it may not act without regulation or pressure from consumers. See [market failure and externalities](/resources/oxfordaqa-igcse-economics-market-failure-and-externalities/) for the underlying idea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--05-glob-mine-external-cost.webp" width="900" height="990" alt="A mine causes 600,000 of pollution harm a year. A cleaner process costs 400,000, so society gains 200,000. The mine profit would fall from 1,000,000 to 600,000 (40%)." loading="lazy">
+  <figcaption>Society gains from cleaning up but the firm loses profit, so it may need regulation or pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--15-fair-price-farmer.webp" width="900" height="800" alt="Of a retail price of 4.00 per kg the farmer gets 0.60 (15 percent); under fair trade 0.90 (22.5 percent). Income on 5,000 kg rises from 3,000 to 4,500, up 50 percent; a 0.30 shop price rise would cost buyers 7.5 percent more." loading="lazy">
+  <figcaption>Fair trade raises the farmer from 15% to 22.5% of the retail price.</figcaption>
+</figure>
+
 
 ## 5. Evaluating globalisation
 

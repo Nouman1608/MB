@@ -53,6 +53,12 @@ The specification lists two bullets: better designs, and higher quality products
 
 The specification pairs quality with lower prices, so the strongest firms offer good value: quality and price together. Be ready to explain why this is hard. A business that pushes its price down and its quality up at the same time squeezes its profit margin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-compete-abroad.webp" width="900" height="930" alt="Three routes (better designs, higher quality, lower prices) point at sales abroad. Offering quality and price together gives best value but squeezes the profit margin." loading="lazy">
+  <figcaption>UK firms compete abroad through design, quality and price.</figcaption>
+</figure>
+
+
 ### Benefits and drawbacks for UK businesses
 
 | | Benefits | Drawbacks |
@@ -60,6 +66,12 @@ The specification pairs quality with lower prices, so the strongest firms offer 
 | Sales | Larger market through exports; sales are less tied to one economy | Foreign rivals can enter the UK market and take customers |
 | Costs | Cheaper components or products from abroad; larger output can lower unit costs | Longer supply chains, transport costs and delays |
 | Other | New ideas, skills and designs; a wider choice of suppliers | Language, cultural and legal differences; exchange rate changes; reputation risk if an overseas supplier behaves unethically |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-globalisation-four-functions.webp" width="900" height="880" alt="A plus (bigger market, cheaper parts, new ideas) and a minus (foreign rivals, longer chains, currency risk), then four cards: operations (longer supply chains), human resources (cheaper rivals, language skills), marketing (adapt per country) and finance (shipping costs, other currencies)." loading="lazy">
+  <figcaption>Globalisation brings opportunity and risk to each functional area.</figcaption>
+</figure>
+
 
 ### Effect on the four functional areas
 
@@ -96,11 +108,38 @@ A 10% rise in one cost has cut profit by a quarter. This is the point to make in
 
 The firm could cut its price to win back sales, but then each jumper earns less profit. It could also look for suppliers whose prices fall when the pound is strong, such as imported wool. Both answers show the same skill: link the exchange rate to sales, then to profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--08-pound-matrix.webp" width="900" height="930" alt="A grid shows a stronger pound hurts exporters and helps importers, while a weaker pound helps exporters and hurts importers. Firms that both import and export are partly protected." loading="lazy">
+  <figcaption>The direction of the pound has opposite effects on exporters and importers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--09-importer-squeeze.webp" width="900" height="870" alt="Frame costs of 240,000 pounds rise 10% (24,000 pounds). Operating profit of 96,000 pounds falls to 72,000, a 25% fall." loading="lazy">
+  <figcaption>A small rise in one cost can remove a quarter of profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--06-exporter-stronger-pound.webp" width="900" height="900" alt="25 jumper icons each stand for 320 jumpers, 8,000 in total. A stronger pound makes jumpers dearer abroad and sales fall 12 percent: 3 icons or 960 jumpers are lost, leaving 7,040. Lost revenue is 960 x 45 pounds = 43,200 pounds a year." loading="lazy">
+  <figcaption>A 12% sales fall loses 960 jumpers, £43,200 of revenue a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+
 ## 3.2.5 Legislation
 
 ### Why law matters to a business
 
 The specification asks you to assess the impact of legislation, giving as examples cost, training needs, recruitment, and the consequences of failing to follow the law. Use them as a checklist. You need only brief knowledge of each law, so spend your effort on the effects on the business. The effects touch every functional area: operations (safe processes), human resources (hiring and pay), marketing (honest claims) and finance (the cost of compliance and of penalties).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
 
 ### Employment law
 
@@ -160,6 +199,12 @@ Effects on the business:
 ### The consequences of failure
 
 Across all three areas, a business that ignores the law can face financial penalties, compensation claims, legal costs, forced changes to its operations, damaged reputation and falling sales. Describe these in general terms. Do not quote figures for fines unless a case study gives them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--10-cost-of-law.webp" width="900" height="970" alt="Three bars to one scale: a minimum-wage rise costing 5,054.40 pounds a year, safe-lifting training at 1,190 pounds and a toy recall at 12,600 pounds." loading="lazy">
+  <figcaption>Complying costs money, but getting it wrong costs more.</figcaption>
+</figure>
+
 
 ## Writing about these topics
 

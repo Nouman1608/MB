@@ -77,6 +77,12 @@ A fall in the rate pushes each of these the other way.
 
 **Chain for a longer answer.** Rate rises → borrowing is dearer and saving is rewarded → households and firms spend and invest less → total demand falls → output and prices grow more slowly. Then evaluate (see below).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ## Sharia-compliant alternatives
 
 Islamic finance does not allow riba, a fixed charge for lending money. The return is linked to trade, an asset or profit.
@@ -93,6 +99,12 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 
 **Point to make.** Sharia-compliant finance is not free: the provider still earns a mark-up, rent or profit share. Because providers may still price with an eye on market rates, a rate rise can still reduce the demand for finance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--07-int-sharia-finance.webp" width="900" height="990" alt="A cost-plus sale (murabaha) has the bank buy a 50,000 press and sell it for 53,000 in 12 instalments, a fixed mark-up of 3,000 (6%). Profit sharing (mudarabah) splits a profit of 10,000 60:40, 6,000 to the bank and 4,000 to the workshop; with no profit the bank gets nothing." loading="lazy">
+  <figcaption>Sharia-compliant finance ties returns to a sale or to profit instead of charging interest.</figcaption>
+</figure>
+
+
 ## Government revenue and spending
 
 * Revenue: income tax, corporation tax, social insurance contributions, sales tax or VAT, excise duties, import duties, property taxes, plus state-enterprise profits, fees and asset sales.
@@ -100,6 +112,17 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 * Spending: health, education, social protection (pensions and benefits), defence, transport and infrastructure, law and order, debt interest.
 * Every spending choice has an opportunity cost.
 * Spending adds to demand. A tax cut raises disposable income and so spending. A tax rise reduces them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--08-int-budget-country-b.webp" width="900" height="1090" alt="Stacked bars show revenue of 100 (direct taxes 42, social insurance 14, indirect taxes 36, other 8) and spending of 108 (social protection 30, health 24, education 19, transport 11, defence 9, law, debt interest and other 15). The deficit of 8 is financed by borrowing." loading="lazy">
+  <figcaption>Spending exceeds revenue by 8, a budget deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--04-revenue-sources.webp" width="900" height="1000" alt="Bars show Country B revenue of 100 billion cu: income tax 30, sales tax 24, social insurance 14, corporation tax 12, excise 8, other income 8, import duties 4. Direct taxes are 42%, indirect 36%." loading="lazy">
+  <figcaption>Country B raises 42% of revenue from direct taxes and 36% from indirect taxes.</figcaption>
+</figure>
+
 
 ## Direct against indirect, progressive against regressive
 
@@ -115,6 +138,27 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 **Worked reminder (regressive).** A tax takes 600 cu from an income of 10,000 cu (6%) and 2,400 cu from an income of 80,000 cu (3%). The higher earner pays a larger sum yet a smaller share, so it is regressive.
 
 **Worked reminder (sales tax).** A 15% sales tax on a 60 cu item adds 9 cu, so the price is 69 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--09-int-income-tax-slices.webp" width="900" height="950" alt="An income of 55,000 is taxed in slices: 0% on the first 9,000, 18% on the next 27,000 (4,860) and 38% on the last 19,000 (7,220). Total tax 12,080 is 22.0% of income. Average rates for 7,000, 27,000 and 55,000 are 0%, 12.0% and 22.0%." loading="lazy">
+  <figcaption>Each rate applies only to its own slice of income, so the average rate rises with income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--10-int-sales-tax-regressive.webp" width="900" height="980" alt="Household A (income 18,000) pays 1,200 of sales tax, 6.7% of income. Household B (income 90,000) pays 3,000, 3.3% of income. B pays more money but a smaller share." loading="lazy">
+  <figcaption>A sales tax takes a larger share of a low income, so it is regressive in effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--03-tax-cut-demand.webp" width="900" height="920" alt="A worker with 20,000 cu in the band pays 3,600 cu at 18% and 3,200 cu at 16%, keeping 400 cu more. Spending 90% adds 360 cu to demand; 40 cu is saved." loading="lazy">
+  <figcaption>Cutting the middle rate from 18% to 16% adds 360 cu to demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -160,6 +204,22 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 10. Interest at 4% = 2,400 cu and at 5.5% = 3,300 cu. Extra = 900 cu a year, or 75 cu a month.
 11. 46 − 40 = 6.
 12. Any one: the rise is small; most loans are fixed-rate; households are confident; savers gain; inflation keeps the real rate low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--06-int-invest-rate.webp" width="900" height="950" alt="A machine costing 50,000 adds 4,000 a year (8%). At a 6% loan the interest is 3,000, net +1,000, so invest. At a 10% loan the interest is 5,000, net -1,000, so do not invest." loading="lazy">
+  <figcaption>A higher interest rate stops projects whose return is below the cost of borrowing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--01-mortgage-rate-rise.webp" width="900" height="870" alt="Two bars of a 24,000 cu income show interest on a 100,000 cu variable mortgage taking 5,000 cu (20.8%) at 5% and 7,000 cu (29.2%) at 7%. The extra 2,000 cu a year (166.67 cu a month) is hatched. Spending can fall by up to 2,000 cu." loading="lazy">
+  <figcaption>A rate rise from 5% to 7% lifts mortgage interest from 20.8% to 29.2% of income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--02-saver-borrower-gap.webp" width="900" height="920" alt="A borrower pays 800 cu on a 10,000 cu loan at 8%. The bank passes 300 cu to a saver at 3% and keeps 500 cu to cover costs, risk and profit." loading="lazy">
+  <figcaption>The bank keeps the gap between the 8% it charges and the 3% it pays.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -91,6 +91,27 @@ Now the chain. **Micro:** demand for delivery is price inelastic (PED of -0.6, s
 
 Your judgement then needs a criterion. For example: the gain to the economy depends on whether new riders were previously unemployed or were switching from better-paid jobs, and on whether the fall in real pay is permanent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--01-delivery-fee-revenue.webp" width="900" height="1080" alt="Two rectangles of fee times orders per week. The fee rose 20% and orders fell 12%, so PED is -0.6 (inelastic) and revenue rose from 300,000 to 316,800." loading="lazy">
+  <figcaption>Inelastic demand means a higher fee raised platform revenue in the delivery example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--03-real-pay-vs-nominal.webp" width="900" height="960" alt="Rider pay rose from 9.00 to 9.45 (+5.0%) but prices rose 8%, so pay in year 1 prices is 8.75, a fall of 2.78%. The vertical axis starts at 8.00." loading="lazy">
+  <figcaption>Nominal pay can rise while real pay falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--06-six-step-method.webp" width="900" height="1000" alt="Six numbered steps: name the setting, list the actors, find the shock, sort the evidence into micro and macro, pick two or three models, then build the chain and judge." loading="lazy">
+  <figcaption>A six-step route for analysing an unseen theme.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## 3. Linking micro and macro
 
 A link is a causal statement that crosses the boundary. Practise both directions.
@@ -116,6 +137,22 @@ Change in national income = 8 million x 2.5 = cu 20 million
 
 If a larger share of spending goes on imports so that the propensity to withdraw is 0.5, the multiplier is 1 / 0.5 = 2 and the rise is cu 16 million. So a micro fact (where riders spend) alters a macro result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--02-multiplier-leakages.webp" width="900" height="1000" alt="Case A: leakages of 0.15 saving, 0.15 tax and 0.10 imports give a withdrawal of 0.40, a multiplier of 2.5 and a rise of cu 20m from cu 8m. Case B: withdrawals of 0.50 give a multiplier of 2 and a rise of cu 16m." loading="lazy">
+  <figcaption>A larger share of spending on imports lowers the multiplier from 2.5 to 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--07-micro-macro-link-bank.webp" width="900" height="940" alt="Three micro-to-macro links (costs shift short-run AS left, inelastic housing supply raises the price index, pollution lowers sustainability of growth) and three macro-to-micro links (interest rates, falling AD, a higher exchange rate)." loading="lazy">
+  <figcaption>Good links name the mechanism and run in both directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
+
 ## 4. Quantitative skills across components
 
 The specification lists these skills: ratios and fractions; percentages and percentage changes; mean, median and relevant quantiles; standard graphical forms; index numbers; cost, revenue and profit (total, average, marginal); money to real terms; elasticity and its interpretation; and interpreting information in written, graphical and numerical form. Show formulas first, then working, then a sentence of meaning.
@@ -139,6 +176,22 @@ Employment in a region has an index of 115 in year 2 and 130 in year 3 (year 1 =
 ### Worked example: mean and median
 
 Five riders earn (cu a week) 220, 240, 250, 260 and 530. The mean is 1,500 / 5 = 300 and the median is 250. One high value pulls the mean up, so the median says more about a typical rider.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--04-mean-vs-median-pay.webp" width="900" height="940" alt="Five bars of weekly pay (220, 240, 250, 260, 530) with a mean line at 300 and a median line at 250. The 530 pulls the mean above the typical rider." loading="lazy">
+  <figcaption>One high value pulls the mean up, so the median describes a typical rider better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--08-bakery-energy-profit.webp" width="900" height="960" alt="Revenue stays 1,500. Cost rises from 1,260 to 1,332 when energy costs rise 40 percent, so profit falls from 240 to 168, a fall of 30 percent." loading="lazy">
+  <figcaption>A 40% rise in energy costs cuts the bakery profit by 30%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--09-index-points-vs-percent.webp" width="900" height="900" alt="An employment index rises from 115 to 130: 15 index points, which is 13.0 percent, not 15 percent." loading="lazy">
+  <figcaption>Index points and percentage change are different measures.</figcaption>
+</figure>
+
 
 ## 5. Multiple-choice technique
 
@@ -169,6 +222,17 @@ The four assessment objectives are AO1 knowledge, AO2 application, AO3 analysis 
 "Energy is an input for most firms, so higher prices raise costs of production. Because demand for energy is price inelastic in the short run (here PED = -0.2), firms cannot cut their use quickly, so the percentage fall in their usage is smaller than the percentage rise in price, and spending on energy rises. This lowers profit margins and encourages firms to raise prices, shifting short-run aggregate supply left, which raises the general price level and reduces real output. However, the effect depends on how large energy is in total costs and whether the rise is temporary."
 
 The paragraph names a concept, applies it, chains it to a macro result, and ends with a qualification. Practise these in your own words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--10-ao-weights.webp" width="900" height="910" alt="The four assessment objectives carry 9, 9, 8.33 and 7 percent of the qualification, together 33.33 percent for Component 03, with a one-line meaning of each." loading="lazy">
+  <figcaption>AO1 to AO4 weights for Component 03 and what each rewards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## Common errors
 

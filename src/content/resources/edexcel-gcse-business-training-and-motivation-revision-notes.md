@@ -65,12 +65,24 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Target setting | A stated output or quality goal with a deadline | Clear expectations | Unrealistic targets cause stress |
 | Performance reviews | Yearly or half-yearly meeting with a manager | Feedback; finds training needs | Takes manager time |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--04-training-method-choice.webp" width="900" height="770" alt="At Cobbold Couriers a formal session suits teaching all 30 drivers the new app; a ride-along suits one new driver learning local routes. A performance review after three months checks both against targets." loading="lazy">
+  <figcaption>Matching a training method to each need, then reviewing against targets.</figcaption>
+</figure>
+
+
 ### Why train and develop
 
 - Link: training can build confidence and satisfaction, which can raise motivation, which can improve retention.
 - Retention saves recruitment costs: advertising, interviewing and lost output while a newcomer learns.
 - Retraining for new technology: employees learn the new equipment or software so the investment is used well.
 - Risk to weigh: a trained employee may leave for a rival.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--01-training-leavers-worth.webp" width="900" height="870" alt="Cobbold Couriers: 9 of 30 employees left, training cost 4,200 pounds, 6 left the next year. Each leaver cost 2,100 pounds, so three fewer leavers save 6,300 pounds and the net benefit is 2,100 pounds. The figure shows leavers as crossed circles." loading="lazy">
+  <figcaption>The lesson’s retention example drawn as 30 employees before and after training.</figcaption>
+</figure>
+
 
 ### Method in steps: recommending a training method
 
@@ -107,6 +119,27 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Job rotation | Variety; wider skills; cover for absence | Extra training; slower at first |
 | Job enrichment | More challenge and responsibility | May expect more pay; needs training |
 | Autonomy | Trust and freedom to decide | Poor decisions; some want guidance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--02-productivity-bakers.webp" width="900" height="850" alt="Tamsin Loaves: 4,800 loaves from 8 bakers is 600 per baker. After more responsibility, 5,400 loaves is 675 per baker, a 12.5 percent rise." loading="lazy">
+  <figcaption>Productivity before and after, using the lesson’s Tamsin Loaves numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--03-commission-pay.webp" width="900" height="720" alt="A basic wage of 1,600 pounds plus 4 percent commission on 38,500 pounds of sales (1,540 pounds) gives total pay of 3,140 pounds. With no sales, pay is still 1,600 pounds." loading="lazy">
+  <figcaption>Commission added to a basic wage, with the no-sales month shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--05-financial-v-nonfinancial.webp" width="900" height="810" alt="Financial: remuneration, bonus, commission, promotion, fringe benefits. Non-financial: job rotation, job enrichment, autonomy. Promotion is financial because it usually brings more pay." loading="lazy">
+  <figcaption>The lesson’s eight motivation methods sorted into financial and non-financial.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--02-rotation-vs-enrichment.webp" width="900" height="940" alt="In job rotation an employee moves between Task A, B and C on a single level line, so the task changes but responsibility does not. In job enrichment three rising steps (task, plus decisions, plus challenge) show responsibility going up." loading="lazy">
+  <figcaption>Rotation changes the task; enrichment raises the level of responsibility.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

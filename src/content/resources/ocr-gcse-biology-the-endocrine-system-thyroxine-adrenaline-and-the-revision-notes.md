@@ -48,6 +48,22 @@ The thyroid and adrenal rows link to B3.2b, which is Higher Tier only.
 
 **Model answer pattern:** "released into the blood, so it reaches all tissues; only cells with receptors respond."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--06-ocr-hormone-receptors.webp" width="900" height="930" alt="FSH is released by the pituitary into the blood, so it reaches ovary and muscle cells alike. Only the ovary cell has FSH receptors, so only it responds." loading="lazy">
+  <figcaption>FSH reaches every tissue but binds only to cells with receptors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--10-gland-map.webp" width="900" height="930" alt="Body outline marking pituitary, thyroid (needs iodine), adrenal glands, ovaries and testes with the hormones and targets from the lesson table." loading="lazy">
+  <figcaption>Body map of the glands with their hormones and targets; thyroid and adrenal are Higher Tier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--03-nervous-vs-hormonal.webp" width="900" height="1080" alt="A nervous route (CNS to muscle by neurones) is very fast; a hormonal route (gland, blood, target organ) is slower. A sketch graph shows the nervous effect peaking quickly and ending soon, the hormonal effect rising later and lasting longer." loading="lazy">
+  <figcaption>Nervous control is very fast and short; hormonal control is slower and longer lasting.</figcaption>
+</figure>
+
+
 ## B3.2b: Thyroxine and adrenaline (Higher Tier only)
 
 ### Thyroxine
@@ -79,6 +95,17 @@ Key phrase: the response **reverses** the change.
 
 **Small worked reminder.** Heart rate rises from 80 to 140 beats per minute. Increase = 60. Percentage increase = 60 / 80 x 100 = 75%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--07-ocr-thyroxine-feedback.webp" width="900" height="1100" alt="Two loops show a fall causing more release and a rise causing less. The graph plots 100, 68, 78, 88, 96 and 100 units over 10 hours." loading="lazy">
+  <figcaption>Negative feedback loop for thyroxine with the worked-example data plotted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--08-ocr-adrenaline-effects.webp" width="900" height="1050" alt="Fear makes the adrenal glands release adrenaline, which speeds up the heart, raises breathing rate, releases glucose from the liver and sends blood to the muscles." loading="lazy">
+  <figcaption>Adrenaline effects and the rise in heart rate from 72 to 126 beats per minute.</figcaption>
+</figure>
+
+
 ## B3.2c: Hormones in reproduction (both tiers)
 
 | Hormone | Made in | Role |
@@ -100,6 +127,17 @@ Key phrase: the response **reverses** the change.
 - Day 1 is the first day of bleeding.
 - The lining is already thick when the egg is released, so a fertilised egg can embed.
 - In pregnancy the lining is kept and there is no menstruation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--11-puberty-hormones.webp" width="900" height="810" alt="Boys: testes make testosterone: facial and body hair, deeper voice, sperm production. Girls: ovaries make oestrogen: breast development and helps control the menstrual cycle." loading="lazy">
+  <figcaption>Testosterone and oestrogen bring about the changes of puberty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ## B3.2d: Interactions of the four hormones (Higher Tier only)
 
@@ -135,6 +173,17 @@ A strong answer names the hormone, quotes the day and the value, and says what t
 ### Worked reminder: table to graph
 
 Given days 2, 6 and 10 with FSH 7, 6 and 4 units: draw day on the x-axis with an even scale, units on the y-axis, plot the three points and join them. Label the axis with the unit and give the line a key if there is more than one hormone. To go back from a graph to numbers, read across from the line to the y-axis at the exact day.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--09-ocr-menstrual-hormone-chain.webp" width="900" height="997" alt="FSH leads to oestrogen, a high oestrogen level triggers LH and ovulation, and progesterone then maintains the lining. Oestrogen inhibits FSH; progesterone inhibits FSH and LH." loading="lazy">
+  <figcaption>Which cycle hormones stimulate and which inhibit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the--10-ocr-cycle-hormone-data.webp" width="900" height="1210" alt="Plots FSH, LH, oestrogen and progesterone against day. LH peaks at 30 on day 14, oestrogen at 220 on day 13 and progesterone at 30 on day 23." loading="lazy">
+  <figcaption>The lesson's hormone table drawn as four graphs.</figcaption>
+</figure>
+
 
 ## Phrases worth learning word for word
 

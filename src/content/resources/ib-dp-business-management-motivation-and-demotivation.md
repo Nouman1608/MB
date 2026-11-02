@@ -64,6 +64,12 @@ Sanderling Garments pays machinists 2.40 per garment sewn. A machinist sews 215 
 
 At 215 garments the piece rate pays 16 less. The comparison shows why Taylor's logic depends on workers being able to reach a high output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--01-piece-vs-time-rate.webp" width="900" height="890" alt="A graph of weekly pay against garments sewn. The piece rate of $2.40 a garment rises from zero; the time rate of $14 for 38 hours is a flat $532. They meet at 221.67 garments, so 222 are needed to match. At 215 garments the piece rate pays $516, which is $16 less." loading="lazy">
+  <figcaption>A piece rate only beats a time rate if the worker can reach a high enough output.</figcaption>
+</figure>
+
+
 ## Maslow
 
 Abraham Maslow proposed a hierarchy of needs. People satisfy lower needs first, and a satisfied need no longer motivates.
@@ -78,6 +84,12 @@ Abraham Maslow proposed a hierarchy of needs. People satisfy lower needs first, 
 
 Use: a manager should find out which level an employee is trying to satisfy and offer rewards that fit. Evaluation: the order is not the same for everyone, needs overlap, and the theory is hard to test. It is still useful as a checklist for reward design.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+
 ## Herzberg (motivation-hygiene theory)
 
 Frederick Herzberg argued that satisfaction and dissatisfaction come from different factors.
@@ -87,6 +99,12 @@ Frederick Herzberg argued that satisfaction and dissatisfaction come from differ
 
 Link to practice: job enrichment, empowerment and recognition target motivators. A pay rise alone mostly targets hygiene. Evaluation: the findings came from a particular group of employees and the theory assumes satisfaction leads to productivity. Some people are motivated by pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ## HL only: further motivation theories
 
 The guide names these theories without detail, so the accounts below are the standard textbook ones.
@@ -95,6 +113,22 @@ The guide names these theories without detail, so the accounts below are the sta
 - Deci and Ryan's self-determination theory: motivation is highest when three needs are met: autonomy (choice over how to work), competence (feeling capable) and relatedness (connection with others). It stresses intrinsic motivation, which comes from the task itself, and warns that heavy use of external rewards can weaken it.
 - Equity theory: employees compare their inputs and rewards with those of others. A perceived unfair ratio causes demotivation, for example when a colleague on equal duties earns more.
 - Expectancy theory: effort depends on whether an employee expects effort to lead to performance, performance to lead to a reward, and values that reward. If any link is weak, motivation falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--02-needs-theories.webp" width="900" height="1030" alt="Two panels of three needs each. McClelland: achievement (challenge, feedback), affiliation (good relationships), power (influence over others). Deci and Ryan: autonomy (choice in how to work), competence (feeling capable), relatedness (connection with others). Heavy use of external rewards can weaken intrinsic motivation." loading="lazy">
+  <figcaption>McClelland and Deci and Ryan each describe three needs that drive motivation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--03-equity-theory.webp" width="900" height="890" alt="Two employees do the same duties, so inputs are equal at three blocks. You receive two blocks of reward (ratio 0.67) and a colleague three (ratio 1.00). Unequal ratios are seen as unfair and demotivate. Units are illustrative." loading="lazy">
+  <figcaption>Equity theory: staff compare their reward-to-input ratio with colleagues’.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--04-expectancy-chain.webp" width="900" height="1090" alt="A chain from effort to performance to reward with three numbered beliefs: effort leads to performance, performance leads to a reward, and the reward is valued. When all hold, motivation is high. In a second chain the performance-to-reward link is broken and motivation falls." loading="lazy">
+  <figcaption>Expectancy theory: if any of the three links is weak, motivation falls.</figcaption>
+</figure>
+
 
 ## HL only: labour turnover
 
@@ -108,6 +142,12 @@ Harnell Couriers had 18 leavers in a year and averaged 120 employees. Labour tur
 
 Causes can be low pay, poor management, little promotion, or a lack of training. High turnover raises recruitment and training costs, and it loses experience. Some turnover can be healthy because it brings new ideas. Judge it against the industry norm and the reasons staff give for leaving.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+
 ## HL only: appraisal
 
 - Formative appraisal: ongoing feedback aimed at development, such as coaching conversations.
@@ -116,6 +156,12 @@ Causes can be low pay, poor management, little promotion, or a lack of training.
 - Self-appraisal: the employee assesses their own performance against agreed goals.
 
 Appraisal can motivate by recognizing achievement and showing a path forward. It can demotivate when it feels unfair or is used only for punishment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--03-feedback-360.webp" width="900" height="890" alt="The employee sits at the centre. Arrows point in from the manager, peers and subordinates, and from customers (dashed, sometimes included)." loading="lazy">
+  <figcaption>360-degree feedback gathers views from every direction, not just the manager.</figcaption>
+</figure>
+
 
 ## HL only: recruitment
 
@@ -140,6 +186,22 @@ The guide lists "methods of recruitment" without naming them. Standard methods i
 
 A Harnell Couriers sales executive earns a base salary of 1,800 a month plus 4% commission on sales. Sales of 62,500 give commission of 2,500, so total pay is 4,300. If the business sets aside 8% of a 450,000 profit and shares it among 60 employees, each receives 36,000 ÷ 60 = 600.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--05-job-redesign.webp" width="900" height="950" alt="Enlargement adds more tasks at the same level (wider). Enrichment adds planning and decision-making on top of doing (deeper) and targets Herzberg motivators. Rotation moves staff between tasks or departments." loading="lazy">
+  <figcaption>Enrichment adds depth; enlargement adds more of the same; rotation swaps tasks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--01-commission-prp-pay.webp" width="900" height="970" alt="Top: a stacked bar of monthly pay, base salary 1,800 plus commission 2,500 (4% of 62,500 sales), total 4,300. Bottom: 60 employee circles share a 36,000 pool, which is 8% of a 450,000 profit, so each receives 600." loading="lazy">
+  <figcaption>Commission rewards one person's sales; profit-related pay shares a pool among all staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
+
 ## Non-financial rewards
 
 - Job enrichment: adding more responsibility, challenge and planning to a role (vertical). It targets Herzberg's motivators.
@@ -158,6 +220,12 @@ Non-financial rewards cost less than pay rises, but they will not replace a fair
 - Off the job training: courses away from the workplace, such as college or external workshops. It can give wider skills but costs more, including time away from work.
 
 Training can motivate because it signals investment and builds competence. It may raise the risk that trained staff leave for a better offer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ## Case-study skills
 

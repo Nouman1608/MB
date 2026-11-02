@@ -76,6 +76,12 @@ exam questions may specify which method to use, or may reward either
 approach when finding a cumulative probability such as P(X ≤ 3) across
 several individual terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--01-pmf-to-cdf.webp" width="900" height="1076" alt="Two bar charts for a variable with p(x) = (6 minus x)/14 for x = 1 to 4. The top chart shows p(x) as 5/14, 4/14, 3/14, 2/14 with x = 3 and 4 highlighted as P(X &gt; 2). The lower chart shows F(x) = 5/14, 9/14, 12/14, 1, and the gap from F(2) up to 1 equals 5/14, so P(X &gt; 2) = 1 - F(2)." loading="lazy">
+  <figcaption>How p(x) builds F(x), and why P(X &gt; 2) = 1 - F(2) = 5/14.</figcaption>
+</figure>
+
+
 ## Worked example: calculating a binomial probability
 
 A factory tests components with a 0.1 probability of a randomly
@@ -100,6 +106,22 @@ Step 3: calculate
 Showing the binomial coefficient calculation as a distinct step, rather
 than folding it silently into a single line, is good exam practice
 since it allows partial credit even if the final arithmetic slips.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--06-binomial-conditions.webp" width="900" height="1000" alt="Four cards show the conditions for B(n, p): a fixed number of trials, two outcomes, independent trials and the same probability p each time. Three failures are listed: cards dealt without replacement, throws until the first six, and rain on following days." loading="lazy">
+  <figcaption>The four conditions, and three situations where the model fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--07-bernoulli-to-binomial.webp" width="900" height="980" alt="Three trials each succeed with probability 0.4. The 8 outcomes are grouped by successes x: 1 way for x = 0 (0.216), 3 ways for x = 1 (0.432 in total), 3 ways for x = 2 (0.288), 1 way for x = 3 (0.064). One trial has mean 0.4 and variance 0.24; three have np = 1.2 and npq = 0.72." loading="lazy">
+  <figcaption>Why the binomial has coefficients nCx: it counts the arrangements of successes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--08-binomial-probabilities.webp" width="900" height="1040" alt="Two bar charts of B(12, 0.35). The bar at x = 4 is highlighted: P(X = 4) = 495 x 0.35^4 x 0.65^8 = 0.2367. In the second chart the bars up to 4 sum to 0.5833 and those from 5 upward sum to 1 - 0.5833 = 0.4167, so P(X &gt;= 5) = 1 - P(X &lt;= 4)." loading="lazy">
+  <figcaption>A single probability, and why &quot;at least 5&quot; is one minus the cumulative probability up to 4.</figcaption>
+</figure>
+
 
 ## Key terms to define precisely
 

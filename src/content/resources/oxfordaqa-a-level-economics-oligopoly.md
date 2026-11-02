@@ -62,6 +62,12 @@ A high ratio suggests oligopoly but does not prove it. Entry conditions and whet
 
 Conduct and performance are shaped by barriers to entry, concentration, product differentiation, the firms' objectives and the pace of technological change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## 2. Interdependence, uncertainty and the kinked demand curve
 
 A price change by one firm changes rivals' sales, so each firm must guess the response. That guess is the source of uncertainty and explains why oligopolists often avoid price changes.
@@ -86,6 +92,12 @@ The demand curve bends at the current price. The marginal revenue curve then has
 - It is silent on why the kink price was chosen in the first place.
 - If MC rises beyond the gap (to £24 here) the model predicts Q = 160 and P = £32, but a cost rise common to all firms is usually matched by rivals, which breaks the assumed reactions.
 - Real prices do change, often through price leadership.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--01-kinked-demand.webp" width="900" height="920" alt="Demand is elastic (PED 3.0) above the kink at 200 units and £30 and inelastic (PED 0.5) below it. Marginal revenue is £20 at the end of the upper segment and -£30 at the start of the lower, leaving a vertical gap. Marginal cost lines at £8 and £15 both cut the gap, so price and output do not change." loading="lazy">
+  <figcaption>Marginal cost can move anywhere inside the marginal revenue gap without changing price or output.</figcaption>
+</figure>
+
 
 ## 3. Collusion, cartels and joint profit
 
@@ -113,6 +125,17 @@ Undercutting is the better reply to either choice, so the uncoordinated outcome 
 
 Collusion is more likely with few firms, similar products, stable demand, hard entry and easy detection of cheating. It is less likely with many firms, differing costs or slow detection. Open price fixing is generally unlawful, which raises the cost of keeping agreements secret.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--02-cartel-joint-profit.webp" width="900" height="900" alt="Demand is P = 96 - 2Q with marginal revenue 96 - 4Q and marginal cost £24. Competition would give 36 thousand units at £24 and zero profit. A cartel sets MR = MC at 18 thousand units and charges £60, earning joint profit of £648 thousand, shown as the shaded rectangle." loading="lazy">
+  <figcaption>A cartel restricts output to 18 thousand and raises price to £60 to earn joint profit of £648 thousand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--03-cartel-payoff-table.webp" width="900" height="940" alt="A two by two payoff table in £ million. Both keeping price gives 24, 24; both undercutting gives 14, 14. Whatever the rival does, undercutting pays more (33 against 24, and 14 against 9), so the uncoordinated outcome is worse for both than 24, 24." loading="lazy">
+  <figcaption>Undercutting is each firm's best reply, so the cartel outcome of 24, 24 is hard to sustain.</figcaption>
+</figure>
+
+
 ## 4. Pricing behaviour
 
 - **Price leadership.** One firm (often the largest, or the one best placed to read the market) changes price and rivals follow. This is a form of tacit collusion.
@@ -126,6 +149,12 @@ Collusion is more likely with few firms, similar products, stable demand, hard e
 **Worked example: predatory pricing (invented).** A firm with average cost £9 normally sells 300 thousand units at £12, earning £0.9 million. During a one-year war it sells 360 thousand at £7, losing 360 × 2 = £0.72 million. After a rival leaves it sells 420 thousand at £13, earning 420 × 4 = £1.68 million. The war costs £0.9m + £0.72m = £1.62 million relative to normal; the gain is £1.68m − £0.9m = £0.78 million a year, so payback takes 1.62 / 0.78 = **about 2.1 years**.
 
 Predation pays only if the firm outlasts its rival and entry stays blocked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--05-limit-vs-predatory-pricing.webp" width="900" height="1150" alt="Limit pricing: at 13 the incumbent earns 2.4m but entry still pays; at 10 it earns 1.44m and entry is blocked, costing 0.96m a year. Predatory pricing: profit +0.9m normally, -0.72m in the war year and +1.68m after the rival leaves; payback about 2.1 years." loading="lazy">
+  <figcaption>Both tactics give up profit now to protect profit later.</figcaption>
+</figure>
+
 
 ## 5. Non-price competition
 
@@ -141,6 +170,12 @@ Types include **branding**, **advertising**, design and quality, after-sales ser
 
 **Evaluation.** Branding and advertising can inform and add variety, but they raise costs, may build market power and may act as a barrier to entry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--06-advert-campaign-break-even.webp" width="900" height="970" alt="Net gain against percentage rise in sales. The line crosses zero at 9.2% (0.6m extra units); 8% gives -0.36m and 10% gives +0.225m." loading="lazy">
+  <figcaption>The campaign pays only if sales rise by more than 9.2%.</figcaption>
+</figure>
+
+
 ## 6. Research and development
 
 R&D matters because new products and cheaper processes let firms compete without a price war. Supernormal profit gives oligopolists the funds and the prospect of a lead gives the motive. R&D outcomes are uncertain.
@@ -149,11 +184,23 @@ R&D matters because new products and cheaper processes let firms compete without
 
 Rivals may copy a result, weakening the incentive. Large spending can also act as a strategic barrier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--07-rd-expected-value.webp" width="900" height="930" alt="Expected value is 150 times the chance of success. It meets the 36m cost at p = 0.24; at p = 0.4 it is 60m, an expected net gain of 24m." loading="lazy">
+  <figcaption>R&amp;D is worth it when the chance of success exceeds 0.24.</figcaption>
+</figure>
+
+
 ## 7. Strategic and innocent barriers to entry
 
 **Innocent barriers** arise from the nature of the market, not from the incumbents' actions: economies of scale, high capital cost, and the established reputation of the industry's products. **Strategic barriers** are deliberately created or used by incumbents: limit pricing, predatory pricing, heavy advertising, excess capacity and exclusive contracts with suppliers or retailers.
 
 **Worked example (invented).** The market is 1,200 thousand units and minimum efficient scale is 360 thousand units, which is 30% of the market. At most 1,200 / 360 = 3.3, so three firms of efficient size can fit. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--08-mes-and-entry-barriers.webp" width="900" height="910" alt="A market of 1,200 thousand units holds three blocks of 360 (30% each) plus 120 left over, so three efficient firms. Innocent barriers are scale economies, capital cost and reputation; strategic barriers are limit pricing, predatory pricing, advertising, excess capacity and exclusive contracts." loading="lazy">
+  <figcaption>Minimum efficient scale limits the number of firms; barriers may be innocent or strategic.</figcaption>
+</figure>
+
 
 ## 8. Objectives and behaviour
 
@@ -169,6 +216,12 @@ Oligopolists may maximise profit, revenue or market share, or aim for survival a
 
 A revenue maximiser sells more at a lower price than a profit maximiser.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
+
 ## 9. Advantages and disadvantages: evaluating oligopoly
 
 **Possible advantages:** economies of scale, funding for R&D, product variety and stable prices.
@@ -176,6 +229,12 @@ A revenue maximiser sells more at a lower price than a profit maximiser.
 **Possible disadvantages:** higher prices and lower output under collusion, allocative inefficiency, wasteful advertising, barriers that protect profit, and less incentive to cut costs.
 
 **Chain of reasoning.** Few firms, so interdependence; so a price war would hurt all; so firms avoid price competition; so they compete on branding and R&D; so consumers may gain variety and innovation but may also pay more. The net effect depends on entry conditions, whether collusion occurs and how much spending is real innovation. Reach a judgement for the market in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--09-oligopoly-evaluation-chain.webp" width="900" height="1016" alt="Few firms mean interdependence; a price war hurts all; so firms avoid price cuts and compete on branding and R&amp;D. That brings variety and innovation but possibly higher prices and wasteful advertising. The net effect depends on entry, collusion and real innovation." loading="lazy">
+  <figcaption>Each link in the chain leads to both a gain and a loss to weigh.</figcaption>
+</figure>
+
 
 ## Common errors
 

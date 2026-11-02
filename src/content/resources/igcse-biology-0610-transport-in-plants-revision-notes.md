@@ -72,6 +72,17 @@ Memory hook: in the stem, **phloem faces outwards, xylem faces inwards**; in the
 | No cell contents | Unobstructed flow of water |
 | Cells end to end, no cross walls | Long continuous tube |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+
 ## 8.2 Water uptake
 
 - **Root hair cells** take up water and mineral ions.
@@ -92,6 +103,17 @@ Then water evaporates from the mesophyll cells into the air spaces.
 2. Leave it for a few hours in warm, bright conditions.
 3. Cut a thin transverse section (scalpel, cut away from you).
 4. Observe with a hand lens: dye in a ring of spots = xylem in the vascular bundles. Leaf veins also stained.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--04-celery-stain.webp" width="900" height="1290" alt="A celery stalk stands in dyed water. The dye rises up the stalk and the leaf veins turn coloured. A thin cross-section seen through a hand lens shows coloured spots in a ring near the outside. These spots are the xylem, so water travels in the xylem all the way to the leaves." loading="lazy">
+  <figcaption>The dye stains only the xylem, showing where water travels.</figcaption>
+</figure>
+
 
 ## 8.3 Transpiration
 
@@ -142,6 +164,22 @@ Humidity is Extended only; temperature and wind speed are Core.
 
 **Worked reminder:** a lettuce wilts on a hot, windy afternoon although the soil is moist. Why? High temperature and wind speed raise the rate of transpiration, so water is lost from the leaves faster than the roots can take it up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--07-wilting.webp" width="900" height="1150" alt="Extended. With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
+  <figcaption>Water loss makes cells flaccid, so the plant droops.</figcaption>
+</figure>
+
+
 ## 8.4 Translocation (Extended only)
 
 | Part of plant | Usually | Why |
@@ -154,6 +192,12 @@ Humidity is Extended only; temperature and wind speed are Core.
 | Young growing leaf | Sink | Uses more sucrose than it makes |
 
 A part can be a source at one time and a sink at another because its role depends on whether it is **releasing** or **using or storing** sucrose and amino acids at that moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## Links to other topics
 

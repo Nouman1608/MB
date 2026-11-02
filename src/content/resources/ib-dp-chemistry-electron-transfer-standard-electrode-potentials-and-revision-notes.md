@@ -44,6 +44,12 @@ Use these standard electrode potentials, E⦵ / V. Each couple is written oxidiz
 
 F = 96 500 C mol⁻¹. The guide notes that standard reduction potentials, the equation ΔG⦵ = −nFE⦵cell and the value of F are provided in the data booklet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--02-e-values-scale.webp" width="900" height="1064" alt="A bar scale lists twelve couples from Cl2/Cl- (+1.36 V) down to K+/K (-2.93 V), with the hydrogen couple at 0.00. More positive means the left species is reduced easily, a strong oxidizing agent; more negative means the right species is oxidized easily, a strong reducing agent." loading="lazy">
+  <figcaption>E° values are for reduction: the more positive the value, the stronger an oxidizing agent the left species is.</figcaption>
+</figure>
+
+
 ## Reactivity 3.2.12: definitions (HL only)
 
 - **Standard hydrogen electrode:** H⁺(aq) + e⁻ ⇌ ½H₂(g). Platinum electrode, H₂ at 100 kPa, [H⁺] = 1.00 mol dm⁻³, 298 K. Its E⦵ is **0.00 V by convention**.
@@ -51,6 +57,27 @@ F = 96 500 C mol⁻¹. The guide notes that standard reduction potentials, the e
 - **Standard electrode potential, E⦵:** the voltage a half-cell gives when paired with the hydrogen reference, everything at standard conditions.
 - **Sign:** a half-cell that is the negative terminal against hydrogen has a negative E⦵.
 - **Reading the table:** values are reductions. The more positive the E⦵, the more easily the oxidized form is reduced (stronger oxidizing agent). The more negative the E⦵, the more easily the reduced form is oxidized (stronger reducing agent).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--01-she-measuring-e.webp" width="900" height="915" alt="A hydrogen half-cell (platinum, H2 at 100 kPa, 1.00 mol per dm3 H+) is joined by a salt bridge and voltmeter to a magnesium half-cell. The voltmeter reads 2.37 V with magnesium negative and electrons flowing from magnesium to platinum. So E° of Mg2+/Mg is -2.37 V against the 0 V hydrogen reference." loading="lazy">
+  <figcaption>The hydrogen electrode is defined as 0 V, so a magnesium half-cell reading 2.37 V as the negative terminal has E° = -2.37 V (worked example 1).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--03-tin-silver-cell.webp" width="900" height="1000" alt="A tin half-cell (negative anode, E° -0.14 V) and a silver half-cell (positive cathode, +0.80 V) are joined by a salt bridge and a voltmeter reading 0.94 V. Electrons flow through the wire from tin to silver. E° cell = 0.80 - (-0.14) = +0.94 V for Sn + 2Ag+ -&gt; Sn2+ + 2Ag." loading="lazy">
+  <figcaption>E° cell = E°(cathode) - E°(anode): for tin and silver it is +0.94 V, with electrons flowing from tin to silver.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--04-dichromate-halides.webp" width="900" height="1020" alt="On a potential scale, dichromate (+1.33 V) lies above Br2/Br- (+1.09 V) but just below Cl2/Cl- (+1.36 V). The gap to bromine gives E° cell +0.24 V, so bromide is oxidized; the chlorine gap gives -0.03 V, so there is no reaction." loading="lazy">
+  <figcaption>Dichromate oxidizes bromide (+0.24 V) but not chloride (-0.03 V) under standard conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--05-delta-g-nfe.webp" width="900" height="920" alt="Three bars show delta G = -nFE° cell with F = 96 500 C per mol: Sn + 2Ag+ (n = 2, 0.94 V) gives -181 kJ per mol; dichromate and bromide (n = 6, 0.24 V) gives -139 kJ per mol; halving that equation (n = 3) gives -69.5 kJ per mol with the same E° cell." loading="lazy">
+  <figcaption>Delta G° = -nFE° cell, so halving the equation halves delta G° while E° cell stays the same.</figcaption>
+</figure>
+
 
 ## Key equations
 
@@ -108,12 +135,29 @@ Electrolytic cell: anode **positive** (oxidation), cathode **negative** (reducti
 | CuSO₄(aq), inert (graphite or Pt) | Cu | O₂ | blue fades; becomes acidic |
 | CuSO₄(aq), copper electrodes | Cu | Cu dissolves: Cu → Cu²⁺ + 2e⁻ | colour unchanged |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--06-electrolysis-competition.webp" width="900" height="885" alt="At the cathode, ions more positive than water (-0.83 V), such as Ag+ and Cu2+, are reduced to the metal, while Mg2+ and K+ stay and hydrogen forms. At the anode, Br- (+1.09 V) is easier to oxidize than water (+1.23 V), so bromine forms; sulfate and nitrate are not oxidized, so oxygen forms." loading="lazy">
+  <figcaption>In aqueous electrolysis each ion competes with water: the more positive E° is reduced at the cathode, the less positive is oxidized at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--07-conc-electrode-effects.webp" width="900" height="1040" alt="Four cells: concentrated NaCl gives H2 and Cl2; dilute NaCl gives H2 and O2; CuSO4 with graphite deposits copper and gives O2 as the blue colour fades; CuSO4 with copper electrodes deposits copper while the copper anode dissolves and the colour stays blue." loading="lazy">
+  <figcaption>Concentrated chloride gives chlorine, dilute gives oxygen, and a copper anode dissolves instead of releasing oxygen.</figcaption>
+</figure>
+
+
 ## Reactivity 3.2.16 Electroplating (HL only)
 
 - Object to be plated = **cathode**: Mⁿ⁺(aq) + ne⁻ → M(s).
 - Plating metal = **anode**: M(s) → Mⁿ⁺(aq) + ne⁻.
 - Electrolyte = a solution of the plating metal's ions; its concentration stays roughly constant.
 - Practical points: clean and degrease the object first; a low current gives an even, firmly attached coat; weigh before and after to find the mass deposited.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--08-electroplating.webp" width="900" height="1070" alt="A steel bell hangs in nickel sulfate solution as the cathode, joined to the negative terminal of a DC supply. A nickel bar is the anode on the positive terminal. Electrons flow from the anode to the supply and on to the cathode; Ni2+ ions move to the bell. Anode: Ni -&gt; Ni2+ + 2e-. Cathode: Ni2+ + 2e- -&gt; Ni." loading="lazy">
+  <figcaption>The object to be plated is the cathode and the plating metal is the anode, in a solution of its own ions.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

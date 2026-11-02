@@ -38,6 +38,12 @@ Other pages: [practice questions](/resources/edexcel-ial-mathematics-the-normal-
 | Cumulative function | Φ(z) = P(Z ≤ z) |
 | Not required | Probability density function; derivations; interpolation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--08-amth-normal-uniform.webp" width="900" height="1040" alt="For T uniform on 4 to 10 s the density is a rectangle of height 1/6 and the strip 5 to 8 has area 0.5. The cumulative function rises linearly from 0 at 4 to 1 at 10, with F(5) = 1/6 and F(8) = 2/3. Mean 7, variance 3." loading="lazy">
+  <figcaption>The uniform density is a rectangle, its cdf is a straight ramp, and probability is area.</figcaption>
+</figure>
+
+
 ## Reading probabilities from Φ
 
 | You want | Use |
@@ -140,6 +146,12 @@ For a two-sided interval symmetrical about the mean, such as P(μ − a < X < μ
 | "Estimate how many in a sample of 400" | Probability multiplied by the size |
 | "Sketch the distribution" | Bell shape, label μ and the axis, symmetrical |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--03-amth-normal-standardising.webp" width="900" height="945" alt="Mango mass M ~ N(310, 20²): 280 g is z = −1.5 and 325 g is z = 0.75. P(280 &lt; M &lt; 325) = Φ(0.75) − (1 − Φ(1.5)) = 0.7734 − 0.0668 = 0.7066, shown as three small standard normal curves." loading="lazy">
+  <figcaption>Standardise with z = (x − μ)/σ, then use Φ and symmetry to find the area between two values.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Variance and standard deviation: N(μ, σ²) holds the variance, but you divide by σ.
@@ -147,6 +159,12 @@ For a two-sided interval symmetrical about the mean, such as P(μ − a < X < μ
 - Forward and inverse: forward gives a probability from a value, inverse gives a value from a probability.
 - One unknown and two unknowns: one statement gives one equation, two unknowns need two statements.
 - Positive and negative z: the value is below the mean exactly when z is negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--05-amth-normal-two-unknowns.webp" width="900" height="870" alt="With P(X &lt; 30) = 0.20 and P(X &gt; 46) = 0.10, 30 lies 0.8416σ below the mean and 46 lies 1.2816σ above it, so 16 = 2.1232σ, giving σ = 7.54 and μ = 36.3." loading="lazy">
+  <figcaption>Two probability statements give two linear equations in μ and σ.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -187,6 +205,17 @@ Examiner advice on layout is the same for every Normal question, and following i
 5. Finish with a sentence in context, such as "the probability that a mango weighs less than 325 g is 0.773", and the units where there are any.
 
 For inverse and parameter questions, write the z-value as a labelled line (for example "z = 1.2816") before forming the equation. When two statements are used, label the equations (1) and (2) so that subtracting them is easy to follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--04-amth-normal-inverse.webp" width="900" height="1100" alt="Using the mango model, the top 10% start at k with area 0.90 to the left, z = 1.2816, so k = 335.6 g. The lowest 20% use the mirror value 0.8416, so z = −0.8416 and k = 293.2 g." loading="lazy">
+  <figcaption>Work from the area to the left to find z, then use x = μ + zσ; below 0.5 means z is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--06-amth-normal-sums.webp" width="900" height="1120" alt="For X ~ N(30, 4²), X1 + X2 + X3 is N(90, 48) and 3X is N(90, 144). Both have mean 90 but the sum of independent values is narrower: P(&gt; 102) is 0.0418 for the sum and 0.1587 for 3X." loading="lazy">
+  <figcaption>Variances add for independent values, so a sum is less spread out than a multiple of one value.</figcaption>
+</figure>
+
 
 ## Revision plan
 

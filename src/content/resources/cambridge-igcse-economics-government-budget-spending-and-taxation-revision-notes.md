@@ -57,6 +57,12 @@ Example (Country B, invented): health 36, total 150. 36 / 150 × 100 = 24%.
 
 Always add the opportunity cost: more for one area means less for another, or higher taxes or borrowing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-government-budget-spending-and-taxation--01-budget-gap.webp" width="900" height="1090" alt="Country A revenue is 180 (income tax 70, sales tax 60, company profits tax 30, customs, fees and other 20) and spending is 195 (health 48, education 42, social security 40, infrastructure 25, defence 20, debt interest and other 20). The spending bar is 15 taller than the revenue bar; the dashed gap is the amount to borrow or take from savings." loading="lazy">
+  <figcaption>Spending of 195 exceeds revenue of 180 by 15.</figcaption>
+</figure>
+
+
 ## Reasons for taxation (4.3.3)
 
 - Main source of revenue to pay for spending
@@ -87,6 +93,22 @@ Method for average tax rate:
 Worked reminder. Country B charges 0% on the first 6,000, 15% on income from 6,001 to 26,000, and 30% above 26,000. Tax on 40,000 = (20,000 × 15%) + (14,000 × 30%) = 3,000 + 4,200 = 7,200. Average rate = 7,200 / 40,000 = 18%. Tax on 16,000 = 10,000 × 15% = 1,500, an average rate of 9.4%. The rate rises with income: progressive.
 
 Regressive check: a household with income 8,000 spends 6,000 on taxed goods, and another with income 50,000 spends 20,000. At a 10% sales tax they pay 600 (7.5%) and 2,000 (4.0%).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-government-budget-spending-and-taxation--02-progressive-regressive-rates.webp" width="900" height="1010" alt="Bars show the share of income paid in tax. Under the progressive income tax, incomes of 8,000, 20,000 and 50,000 pay 0%, 5% and 14%. Under a 10% sales tax, household L (income 12,000) pays 8.3% of income and household H (60,000) pays 4.0%, although H pays more money in total." loading="lazy">
+  <figcaption>Progressive tax takes a rising share of income; a regressive tax takes a falling share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-government-budget-spending-and-taxation--07-un157-proportional-tax.webp" width="900" height="760" alt="Two income bars to one scale: L earns 12,000 and pays 1,800; H earns 60,000 and pays 9,000. Each pays 15% of income." loading="lazy">
+  <figcaption>A proportional tax takes the same share of income at every income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Qualities of a good tax (4.3.5)
 
@@ -136,6 +158,12 @@ Second reminder. A tax of 3 per unit is on a good priced at 10 that sells 800 un
 In both cases producers are worse off, and the loss is bigger where demand is more responsive. A government that wants revenue prefers the less elastic good. A government that wants to cut consumption of a harmful good gets a bigger fall in quantity where demand is more elastic.
 
 Evaluation checklist: size of the tax rate, elasticity of demand, who gets the money and how it is spent, short run versus long run, and whether people find ways to avoid the tax.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-government-budget-spending-and-taxation--03-tax-and-elasticity.webp" width="900" height="920" alt="A tax of 2 per unit raises the price from 10 to 12 on a good that sold 1,000 units. With inelastic demand 950 units are sold: producers keep 9,500 and the government collects 1,900. With elastic demand 700 units are sold: producers keep 7,000 and the government collects 1,400." loading="lazy">
+  <figcaption>The less demand falls, the more tax is raised and the less producers lose.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

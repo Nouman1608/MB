@@ -71,6 +71,27 @@ A subsidy of 5 dollars is paid on each electric bicycle battery. Sales rise from
 
 Reminder. Firms A and B must each cut 50 tonnes. A cuts for 10 dollars a tonne, B for 40 dollars. With no trading the total cost is 50 × 10 + 50 × 40 = 2,500 dollars. With permits trading at 25 dollars, A cuts 100 tonnes (cost 1,000) and sells 50 permits for 1,250. B buys 50 permits for 1,250 and cuts nothing. The cap is met for a real cost of 1,000 dollars, a saving of 1,500 dollars. Both firms gain: A's net cost is 1,000 − 1,250 = −250 (a profit of 250), and B pays 1,250 instead of 2,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--08-pollution-permits.webp" width="900" height="920" alt="Firms J and K each emit 600 tonnes with 500 permits. Without trading the cost of cutting is 7,500. With trading J cuts 200 tonnes and sells 100 permits to K, and the total cost falls to 3,000 with the same emissions." loading="lazy">
+  <figcaption>Trading permits meets the same cap at a saving of 4,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--04-paving-slab-tax.webp" width="900" height="1000" alt="Supply and demand for paving slabs with a 4 dollar tax. Price rises from 12 to 14 dollars and quantity falls from 240 to 180. Sellers keep 10 dollars and tax revenue is 720 dollars." loading="lazy">
+  <figcaption>A $4 tax moves the paving slab market from $12 and 240 slabs to $14 and 180 slabs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--05-solar-panel-subsidy.webp" width="900" height="990" alt="Zoomed supply and demand for solar panels with a 9 dollar subsidy. Price falls from 100 to 95 dollars and quantity rises from 400 to 420. Sellers receive 104 dollars and the subsidy costs 3,780 dollars." loading="lazy">
+  <figcaption>A $9 subsidy lowers the price buyers pay to $95 and raises output 5% at a cost of $3,780.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--06-expected-fine.webp" width="900" height="940" alt="Ten circles show a 40% chance of being caught. Bars compare a 30,000 dollar saving with expected fines of 20,000 and 30,000 dollars." loading="lazy">
+  <figcaption>A fine deters only if chance times fine reaches the saving from polluting.</figcaption>
+</figure>
+
+
 ## 3. Definitions (2.1.1 f)
 
 | Term | Definition |
@@ -90,6 +111,12 @@ Reminder. Seven households have monthly incomes per person of 40, 55, 80, 110, 1
 - Ethical reasons: fairness; everyone deserves a minimum standard of life.
 
 Counter-point to use in evaluation: high taxes and generous benefits may reduce incentives to work or invest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--09-absolute-relative-poverty.webp" width="900" height="1100" alt="Bars show the five poorest of ten households before and after every income rises 20 percent, against a fixed absolute line of 150 and a relative line of 60 percent of the median. Absolute poverty falls from two households to one; relative poverty stays at three." loading="lazy">
+  <figcaption>Equal growth cuts absolute poverty but not relative poverty.</figcaption>
+</figure>
+
 
 ## 5. Redistribution methods
 
@@ -115,9 +142,36 @@ Progressive, regressive and proportional compared:
 | Proportional | Stays the same | One flat rate on all income |
 | Regressive | Falls | A charge that is the same amount for everyone, or a sales tax on spending when the poor spend most of their income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--07-progressive-tax-country-b.webp" width="900" height="950" alt="Bars show average tax rates of 0%, 12%, 24.8% and 32.4% at gross pays of 6,000, 20,000, 50,000 and 100,000, with tax and net pay under each." loading="lazy">
+  <figcaption>The average tax rate rises with income, which is what makes the tax progressive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ### Benefit payments
 
 Money paid to people (for example unemployment or disability support), paid for out of tax revenue. It raises the income of the poorest immediately. Worked reminder: a poor household earns 6,000, pays 300 tax and receives 1,800 in benefits, so ends with 7,500 (up 25%). A rich household earns 36,000 and pays 10,800 tax, so ends with 25,200 (down 30%). The ratio of rich to poor income falls from 36,000 ÷ 6,000 = 6 to 25,200 ÷ 7,500 = 3.36. Weakness: it costs money, and if benefits stop sharply as pay rises, working may bring little extra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--10-redistribution-tax-benefits.webp" width="900" height="900" alt="Five equal income groups before and after tax and benefits. The richest earn 12 times the poorest before and 4.5 times after; the poorest gain 85 percent and the richest lose 30 percent." loading="lazy">
+  <figcaption>Tax and benefits narrow the gap between richest and poorest.</figcaption>
+</figure>
+
 
 ### Education and healthcare investment
 
@@ -169,3 +223,9 @@ Raises skills, health and productivity, so people can earn more. It addresses ca
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, Pearson Education Limited, section 2.1.1 e) and f).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+

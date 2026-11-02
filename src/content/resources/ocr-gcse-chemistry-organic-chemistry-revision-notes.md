@@ -74,11 +74,33 @@ H — C — C — O — H
 
 **C6.2i in one line:** compounds with the same functional group react the same way, whatever the chain length.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+
 ## CM6.2i: 3D and 2D
 
 - Displayed formulae are flat; real carbon atoms with four single bonds are tetrahedral, about 109.5°.
 - Diamond: 3D network, each carbon bonded to four others. Graphite: flat hexagonal layers.
 - Molecular model kits link the two: build from a drawing, draw from a model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-un112-tetra-3d-2d.webp" width="900" height="1020" alt="Methane drawn in 3D with one wedge bond, two dashed bonds and one bond in the page, then as a flat displayed formula with 90 degree bonds. Underneath, a carbon with four bonds is diamond-like and one with three bonds is graphite-like." loading="lazy">
+  <figcaption>Flat displayed formulae use 90 degrees even though the real bond angle is 109.5 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
 
 ## C6.2c: reactions
 
@@ -97,6 +119,32 @@ H — C — C — O — H
 4. A fraction such as 4½ means you multiply every coefficient by 2.
 
 Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; subtract 1 in the alcohol, leaving 9, so 4½O₂. Doubled: **2C₃H₇OH + 9O₂ → 6CO₂ + 8H₂O**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--02-un112-butanol-mass.webp" width="900" height="990" alt="A four-step ladder from 3.70 g of butan-1-ol to 8.80 g of carbon dioxide: divide by Mr 74, multiply by 4 from the equation, multiply by 44." loading="lazy">
+  <figcaption>Mass to moles to moles to mass for burning butan-1-ol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
 
 ## C6.2d, C6.2g: addition polymers
 
@@ -119,6 +167,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - Polyester: diol + dicarboxylic acid, ester links. Polyamide (nylon): diamine + dicarboxylic acid, amide links.
 - Block diagram, polyester: n HO–●–OH + n HOOC–■–COOH → –[O–●–O–OC–■–CO]ₙ– + 2n H₂O.
 - Making nylon: 1,6-diaminohexane in water, with hexanedioyl dichloride in cyclohexane layered on top. Nylon forms where the layers meet; pull it out with tweezers and wind it on a rod. The small molecule here is hydrogen chloride. Gloves and eye protection; no flames near cyclohexane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--03-un112-nylon-rope.webp" width="900" height="920" alt="A beaker with aqueous diamine below and cyclohexane plus diacid chloride above; nylon film forms at the boundary and is wound onto a rod. HCl, not water, is the small molecule released." loading="lazy">
+  <figcaption>Nylon forms as a film where the two layers meet.</figcaption>
+</figure>
+
 
 ## C6.2h: natural polymers
 
@@ -149,6 +203,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 2. Share what is left between the missing molecules.
 3. Check the hydrogen-to-carbon ratio: 2n means alkene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-u2061-cracking-c15.webp" width="900" height="975" alt="A chain of 15 carbon atoms (C15H32) is cut into a 9-carbon alkane, C9H20, and two 3-carbon propene molecules, C3H6, each with a C=C double bond. Carbon left is 15 - 9 = 6, so 3 each; hydrogen left is 32 - 20 = 12, so 6 each. Equation: C15H32 -&gt; C9H20 + 2 C3H6." loading="lazy">
+  <figcaption>Subtract the known product from C15H32 and share the rest between the two identical molecules: each is C3H6, propene.</figcaption>
+</figure>
+
+
 ## C6.2p, C6.2q: cells and fuel cells
 
 - Chemical cell: gives a potential difference until the reactants run out.
@@ -156,6 +216,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - Hydrogen/oxygen (acidic electrolyte): H₂ → 2H⁺ + 2e⁻ at the negative electrode; O₂ + 4H⁺ + 4e⁻ → 2H₂O at the positive; overall 2H₂ + O₂ → 2H₂O.
 - For: only water at the point of use, continuous running, quiet.
 - Against: hydrogen storage and flammability, hydrogen often made from fossil fuels, high cost, few filling stations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--04-un112-fuel-cell-halves.webp" width="900" height="920" alt="Hydrogen enters at the negative electrode and oxygen at the positive, with an acid electrolyte between. Electrons go round the external circuit and H+ ions through the electrolyte; both half-equations and the overall equation are shown." loading="lazy">
+  <figcaption>Half-equations at each electrode of the acidic hydrogen fuel cell.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

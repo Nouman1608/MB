@@ -48,6 +48,12 @@ Paper 2 (Foundation) and Paper 5 (Higher) do not allow a calculator, so practise
 
 **Method: simplify in steps.** Find the highest common factor. If you cannot see it, divide by any common factor and repeat until the top and bottom share nothing. Example: 45/75 = 9/15 = **3/5**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--01-mixed-improper.webp" width="900" height="720" alt="Five bars each split into sevenths: four full bars and three sevenths of the fifth give 28 + 3 = 31 sevenths, so 4 3/7 = (4 x 7 + 3)/7 = 31/7." loading="lazy">
+  <figcaption>A mixed number is whole bars plus extra parts, all counted in the same unit fraction.</figcaption>
+</figure>
+
+
 ## Calculations with fractions (2.01b)
 
 | Operation | Method | Reminder |
@@ -79,6 +85,22 @@ Paper 2 (Foundation) and Paper 5 (Higher) do not allow a calculator, so practise
 2. For a division, flip the second fraction and change the sign to multiply.
 3. Cancel common factors between any top and any bottom.
 4. Multiply across, then convert to a mixed number if the question asks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--02-add-unlike-fractions.webp" width="900" height="730" alt="Two bars cut into 24ths show 3/8 as 9 parts and 5/12 as 10 parts. Joined, they fill 19 of 24 parts, so 3/8 + 5/12 = 19/24, which cannot be simplified." loading="lazy">
+  <figcaption>Cutting both fractions into the lowest common denominator lets you add the parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--05-fr-cancel-sign.webp" width="900" height="940" alt="7/9 × 3/14 is shown with 7 and 14 both divided by 7 and 3 and 9 both divided by 3, giving 1/6. Below, −7/10 ÷ 14/15 becomes −7/10 × 15/14, 7 and 14 are divided by 7 and 10 and 15 by 5, giving −(1 × 3)/(2 × 2) = −3/4. A banner reminds that a negative divided by a positive is negative." loading="lazy">
+  <figcaption>Cancel common factors before multiplying, and decide the sign from the signs of the two numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--06-fr-neg-numberline.webp" width="900" height="750" alt="A number line from −1.5 to 0.25 is marked in twenty-fourths. The point −5/6 = −20/24 is marked, an arrow goes 9 steps left for subtracting 3/8 = 9/24, and it lands on −29/24 = −1 5/24." loading="lazy">
+  <figcaption>Subtracting a positive fraction moves left on the number line, further below zero.</figcaption>
+</figure>
+
 
 ## Fractions of a quantity (2.01c)
 
@@ -119,6 +141,32 @@ A fraction in simplest form gives a terminating decimal only if its denominator 
 For a pure repeating block, write the block over 9s: one digit over 9, two digits over 99, three over 999. Then simplify. To go back, divide: 6/11 = 0.545454...
 
 **Worked reminder: division with a remainder pattern.** 7/30 = 0.2333... because 7 ÷ 30 gives 0.2, then a remainder of 1 that produces 3 forever. Write it as 0.2 followed by a recurring 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--04-recurring-mixed.webp" width="900" height="830" alt="Rows of digit boxes show x = 0.3555..., 10x = 3.555... and 100x = 35.555.... The tails of 5s match in 10x and 100x, so 100x - 10x = 32, 90x = 32 and x = 16/45." loading="lazy">
+  <figcaption>When only part of the decimal repeats, subtract the two multiples whose tails match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--07-fr-place-value.webp" width="900" height="860" alt="A place-value table shows the digits of 3.074 in the units, tenths, hundredths and thousandths columns with values 1, 1/10, 1/100 and 1/1000. Reading it gives 3 + 7/100 + 4/1000 = 3 74/1000 = 3 37/500. Below, 0.065 is 65/1000, which simplifies to 13/200 by dividing by 5." loading="lazy">
+  <figcaption>Each column is a tenth of the one before, so the digits can be read straight off as a fraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--09-fr-long-division-78.webp" width="900" height="970" alt="A bus-stop division of 7.000 by 8 with the quotient 0.875 above the bar. Three numbered steps: 70 ÷ 8 = 8 remainder 6, 60 ÷ 8 = 7 remainder 4, and 40 ÷ 8 = 5 remainder 0, so the division stops. Check: 0.875 × 8 = 7." loading="lazy">
+  <figcaption>Divide, carry the remainder to the next zero, and stop when the remainder is 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
 
 ## Decimal arithmetic (2.02b and 2.02c)
 
@@ -176,6 +224,12 @@ For a pure repeating block, write the block over 9s: one digit over 9, two digit
 10. 1.3
 11. 6/11
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--08-fr-decimal-layouts.webp" width="900" height="740" alt="Top: 14.6 − 8.375 is set out in digit boxes with the decimal points in one column and the gaps filled with gold zeros (14.600), giving 6.225. Bottom: 2.4 × 0.35 is 24 × 35 = 840, and since the factors have 1 + 2 = 3 decimal places the answer is 0.840 = 0.84, which matches the estimate 2 × 0.4 = 0.8." loading="lazy">
+  <figcaption>Line the points up to add or subtract, and count the decimal places in both factors to place the point when multiplying.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Adding the numerators and the denominators, for example 1/2 + 1/3 = 2/5.
@@ -188,6 +242,12 @@ For a pure repeating block, write the block over 9s: one digit over 9, two digit
 - Multiplying the divisor by a power of 10 but not the other number.
 - Writing a recurring decimal like 0.7272... as 72/100 or 72/90 instead of 72/99.
 - Giving a bare answer on a calculation that asks you to show working. Show each step so a slip can still earn credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--03-decimal-division-scale.webp" width="900" height="780" alt="A line from 0 to 4.5 is cut into 30 pieces of 0.15 in three groups of ten, each 1.5 long. Multiplying both numbers by 100 gives 450 / 15 = 30." loading="lazy">
+  <figcaption>Dividing by 0.15 counts how many 0.15s fit, and scaling both numbers by 100 does not change the answer.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -87,6 +87,12 @@ bearings problems reward a clear diagram before any calculation begins. A studen
 angle as 80° instead of 100° (by forgetting the back-bearing step) would get AC = 43.3 km instead --
 exactly the kind of error this worked example is designed to defuse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--02-bearings-cosine-rule.webp" width="900" height="960" alt="A ship sails 40 km on 070 degrees then 25 km on 150 degrees. The back bearing at B is 250 degrees, so the interior angle at B is 100 degrees and the cosine rule gives AC = 50.7 km." loading="lazy">
+  <figcaption>Convert the bearings to the interior angle at B before using the cosine rule.</figcaption>
+</figure>
+
+
 ## Sine rule vs cosine rule -- which to use
 
 | Given | Use |
@@ -96,6 +102,17 @@ exactly the kind of error this worked example is designed to defuse.
 
 Always sketch the triangle first and label knowns before choosing a rule -- misapplying the sine rule
 to an SAS triangle is one of the most common technique errors in this strand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--01-which-rule.webp" width="900" height="1066" alt="Four labelled triangles: SAS (sides 6 and 8, included angle 50 degrees) and SSS (5, 6, 7) use the cosine rule; AAS (40 and 65 degrees, side 6) and SSA (sides 8 and 6, angle 50 degrees) use the sine rule. Given parts are gold and the part to find is marked ?." loading="lazy">
+  <figcaption>Two sides and the included angle, or three sides, need the cosine rule; otherwise use the sine rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--05-circular-functions.webp" width="900" height="760" alt="A unit circle point at angle π/3 with legs cos θ and sin θ, and the arc of length θ. A dashed line carries the height across to the graph of y = sin θ from 0 to 2π." loading="lazy">
+  <figcaption>Sine is the height of the point on the unit circle plotted against the angle in radians.</figcaption>
+</figure>
+
 
 ## Surface area and volume of compound solids
 
@@ -108,6 +125,12 @@ requires (subtracting, for instance, where one solid has a cavity removed from a
 the solid and labelling which faces are "internal" (and therefore excluded from a surface area total)
 before calculating is the single most effective way to avoid the most common error in this content:
 including or excluding the wrong faces from a compound surface area.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--03-compound-solid.webp" width="900" height="840" alt="A cylinder (r = 3, h = 8) with a hemisphere on top. Dome 18π, curved wall 48π and base 9π give surface area 75π (about 235.6); the joint circle is internal and not counted. Volume is 72π + 18π (about 282.7)." loading="lazy">
+  <figcaption>Add the outer faces only; the joint between the solids is excluded.</figcaption>
+</figure>
+
 
 ## Exam traps
 

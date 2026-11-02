@@ -83,6 +83,17 @@ Cobbold Couriers has 30 staff. The owner wants all drivers to learn how to compl
 2. For local routes, informal training works well: the new driver rides along with an experienced colleague, learning real routes at no course fee.
 3. After three months, a performance review checks both skills against agreed targets, for example delivery times, and sets new goals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--01-training-leavers-worth.webp" width="900" height="870" alt="Cobbold Couriers: 9 of 30 employees left, training cost 4,200 pounds, 6 left the next year. Each leaver cost 2,100 pounds, so three fewer leavers save 6,300 pounds and the net benefit is 2,100 pounds. The figure shows leavers as crossed circles." loading="lazy">
+  <figcaption>The lesson’s retention example drawn as 30 employees before and after training.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--04-training-method-choice.webp" width="900" height="770" alt="At Cobbold Couriers a formal session suits teaching all 30 drivers the new app; a ride-along suits one new driver learning local routes. A performance review after three months checks both against targets." loading="lazy">
+  <figcaption>Matching a training method to each need, then reviewing against targets.</figcaption>
+</figure>
+
+
 
 ## 2. Why businesses train and develop employees
 
@@ -128,6 +139,12 @@ Tamsin Loaves employs 8 bakers who produced 4,800 loaves in a week. After the ow
 
 The change is not proof that motivation caused it: demand may also have risen. In an analysis answer, link the figures to the method used, then note any limit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--02-productivity-bakers.webp" width="900" height="850" alt="Tamsin Loaves: 4,800 loaves from 8 bakers is 600 per baker. After more responsibility, 5,400 loaves is 675 per baker, a 12.5 percent rise." loading="lazy">
+  <figcaption>Productivity before and after, using the lesson’s Tamsin Loaves numbers.</figcaption>
+</figure>
+
+
 ## 4. Financial methods of motivation
 
 | Method | What it is | Why it can motivate | Possible drawback |
@@ -146,6 +163,22 @@ A salesperson at a furniture shop receives a basic wage of £1,600 per month plu
 - Total pay = £1,600 + £1,540 = £3,140.
 
 If the person sold nothing, pay would still be the £1,600 basic. This is why many businesses combine a basic wage with commission rather than relying on commission alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--03-commission-pay.webp" width="900" height="720" alt="A basic wage of 1,600 pounds plus 4 percent commission on 38,500 pounds of sales (1,540 pounds) gives total pay of 3,140 pounds. With no sales, pay is still 1,600 pounds." loading="lazy">
+  <figcaption>Commission added to a basic wage, with the no-sales month shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-training-and-motivation--05-financial-v-nonfinancial.webp" width="900" height="810" alt="Financial: remuneration, bonus, commission, promotion, fringe benefits. Non-financial: job rotation, job enrichment, autonomy. Promotion is financial because it usually brings more pay." loading="lazy">
+  <figcaption>The lesson’s eight motivation methods sorted into financial and non-financial.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--02-rotation-vs-enrichment.webp" width="900" height="940" alt="In job rotation an employee moves between Task A, B and C on a single level line, so the task changes but responsibility does not. In job enrichment three rising steps (task, plus decisions, plus challenge) show responsibility going up." loading="lazy">
+  <figcaption>Rotation changes the task; enrichment raises the level of responsibility.</figcaption>
+</figure>
+
 
 ## 5. Non-financial methods of motivation
 

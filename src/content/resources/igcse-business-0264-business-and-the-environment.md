@@ -62,6 +62,12 @@ Orrinsford Furniture makes tables from hardwood. Its sawmill runs from 6 am to 1
 
 To earn full credit in an exam, name the harm and tie it to the business. "Burning offcuts in an open pit puts smoke into the air near the village" scores better than "it causes pollution".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--05-types-of-harm.webp" width="900" height="1090" alt="Pollution has four forms (air, water, land, noise) and depletion is using resources faster than they are replaced. These create external costs." loading="lazy">
+  <figcaption>Pollution in four forms, and depletion of resources.</figcaption>
+</figure>
+
+
 ## Why a business may respond
 
 A business can ignore the environment, but many choose to act. The syllabus names two reasons and uses "e.g.", so other sensible reasons also count.
@@ -73,6 +79,12 @@ A business can ignore the environment, but many choose to act. The syllabus name
 - **Avoiding bad publicity.** A pollution incident in the news can cost a business customers quickly.
 
 Always ask which reason fits the business in the question. A small shop selling to local families is more likely to be moved by reputation. A large factory is more likely to be moved by fines and legal controls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--06-why-respond.webp" width="900" height="940" alt="Five reasons join a hub: better reputation, more sales, avoiding penalties, lower costs and avoiding bad publicity." loading="lazy">
+  <figcaption>Five reasons a business may respond to environmental issues.</figcaption>
+</figure>
+
 
 ## How a business may respond
 
@@ -101,6 +113,17 @@ Corrabyn Foods sells 600,000 packs of biscuits a year at 3.00 dollars each. The 
 6. Year two, with no redesign cost: 33,000 − 25,200 = **a gain of 7,800 dollars**.
 
 The judgement: in the first year the change costs money. In later years it pays, as long as the sales rise lasts. The firm may also gain in ways the numbers do not show, such as a better reputation. A good answer states the figures, then weighs the short run against the long run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--06-packaging-two-years.webp" width="900" height="920" alt="Two waterfall charts. Extra contribution of 33,000 dollars minus extra packaging of 25,200 and a one-off redesign of 15,000 gives a year 1 loss of 7,200. In year 2 without the redesign the gain is 7,800 dollars." loading="lazy">
+  <figcaption>A green change can lose money in year 1 and pay in year 2, if the sales rise lasts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--07-environmental-responses.webp" width="900" height="1210" alt="Eight responses each with a gain and a cost: recycling, reducing packaging, saving energy, filters or a treatment plant, sustainable suppliers, redesign, replanting and telling customers." loading="lazy">
+  <figcaption>Every environmental response has a gain and a cost.</figcaption>
+</figure>
+
 
 ## Legal controls over business activity
 
@@ -141,9 +164,26 @@ After the rule:
 
 If Pennerley kept its profit at 152,000 dollars, it would need to raise the price to (336,000 + 152,000) ÷ 80,000 = **6.10 dollars**. Customers might then buy from rivals, so the business has to weigh the price rise against lower profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--07-legal-control-cost.webp" width="900" height="830" alt="Stacked bars per metre of cloth at a 5.50 dollar price. Before the water rule cost is 3.60 and profit 1.90 (34.5 percent). After it cost is 4.20 and profit 1.30 (23.6 percent). Keeping 1.90 profit needs a price of 6.10 dollars." loading="lazy">
+  <figcaption>A water-treatment rule lifts average cost by 16.7% and cuts total profit from $152,000 to $104,000.</figcaption>
+</figure>
+
+
 ### Worked example: a rule about where to produce
 
 Ashgrave Metals is refused permission to expand its smelter beside a village. The only other site is 40 km away. Moving adds 4.50 dollars per tonne in transport for 20,000 tonnes a year, so 90,000 dollars a year. The firm weighs this cost against giving up the expansion. Note that the rule affected where it produces and also its costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--08-legal-control-effects.webp" width="900" height="920" alt="Four effects of legal controls: how to produce, what to produce or sell, where to produce or sell, and influence on costs." loading="lazy">
+  <figcaption>The four effects of environmental legal controls named in the syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--09-ashgrave-where-rule.webp" width="900" height="840" alt="A smelter beside a village is refused permission to expand; the only other site is 40 km away. Extra transport of 4.50 dollars a tonne on 20,000 tonnes is 90,000 dollars a year." loading="lazy">
+  <figcaption>A rule about where to produce also changes costs: $90,000 a year for Ashgrave.</figcaption>
+</figure>
+
 
 ## Writing good exam answers
 

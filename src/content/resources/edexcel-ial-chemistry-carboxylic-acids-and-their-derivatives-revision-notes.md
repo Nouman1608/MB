@@ -34,6 +34,12 @@ Outcomes 15.9 to 15.16 (parts 15C and 15D of Topic 15) of the Pearson Edexcel In
 | Ester | –COO– | alkyl -oate | CH₃CH₂COO(CH₂)₄CH₃, pentyl propanoate |
 | Dicarboxylic acid | two –COOH | -dioic acid | HOOCCH₂CH₂COOH, butanedioic acid |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--07-acylation-reactions.webp" width="900" height="1240" alt="A strip shows a carboxylic acid converted to an acyl chloride with PCl5 (Edexcel) or SOCl2 (OCR). Ethanoyl chloride and ethanoic anhydride transfer the CH3CO group (teal) to water, methanol, ammonia and methylamine to give ethanoic acid, methyl ethanoate, ethanamide and N-methylethanamide. By-products are HCl or ethanoic acid, and ammonia and amines are needed in twos." loading="lazy">
+  <figcaption>Both reagents put an acyl group on water, an alcohol, ammonia or an amine. PCl5 is Edexcel only and SOCl2 is OCR only.</figcaption>
+</figure>
+
+
 ## 15.9 and 15.13 Naming in steps
 
 **Acids and acyl chlorides**
@@ -71,6 +77,12 @@ Method for any "explain the boiling temperature" answer:
 3. Link the strength to the energy needed to separate molecules.
 4. If the Mr values differ, comment on London forces too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--02-hydrogen-bonding.webp" width="900" height="1030" alt="Two carboxylic acid molecules form a hydrogen-bonded dimer through two O-H...O=C bonds. A bar chart of boiling points for pentane, butanal, butan-1-ol and propanoic acid (all Mr 72 to 74) shows 36, 75, 118 and 141 degrees Celsius as the intermolecular forces strengthen." loading="lazy">
+  <figcaption>Hydrogen-bonded dimers give propanoic acid the highest boiling point of four substances with similar Mr. Edexcel and OCR content.</figcaption>
+</figure>
+
+
 ## 15.11 Making carboxylic acids
 
 | Starting material | Reagents and conditions | Equation |
@@ -82,6 +94,22 @@ Method for any "explain the boiling temperature" answer:
 - The dichromate turns from orange to green.
 - Distil instead of reflux and you collect the aldehyde, not the acid.
 - A nitrile keeps the same number of carbons when it is hydrolysed: propanenitrile, CH₃CH₂CN, gives propanoic acid, CH₃CH₂COOH. Alkaline hydrolysis gives the salt plus NH₃; acidify afterwards to release the acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--01-acid-ester-names.webp" width="900" height="1180" alt="Propanoic acid is drawn with its carbons numbered from the COOH carbon. Ethyl propanoate and methyl methanoate are drawn with the acid part in teal and the alcohol part in gold. The alcohol part is named first, then the acid part ending -oate." loading="lazy">
+  <figcaption>An ester name has two words: the alcohol part (alkyl) first, then the acid part ending -oate. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--03-acid-carbonate-test.webp" width="900" height="950" alt="Ethanoic acid reacts with calcium carbonate in a test tube and carbon dioxide bubbles pass along a delivery tube into limewater, which turns cloudy. The balanced equation needs two acid molecules for each carbonate, and the acid is only partly ionised." loading="lazy">
+  <figcaption>A weak carboxylic acid still releases CO2 from carbonates; limewater turns cloudy. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--04-esterification.webp" width="900" height="1120" alt="Propanoic acid and ethanol react with a concentrated sulfuric acid catalyst and heat to give ethyl propanoate and water in an equilibrium. The OH from the acid and the H from the alcohol are ringed. A bar chart shows 6.63 g collected against a 10.2 g maximum, a 65.0 percent yield." loading="lazy">
+  <figcaption>Acid plus alcohol is reversible, so the yield is below 100 percent. All boards.</figcaption>
+</figure>
+
 
 ## 15.12 Reactions of carboxylic acids
 
@@ -119,6 +147,12 @@ Why acyl chlorides are more reactive: oxygen and chlorine both withdraw electron
 | To get the free acid | already present | add strong acid afterwards |
 
 Worked reminder: CH₃CH₂COO(CH₂)₄CH₃ + NaOH → CH₃CH₂COONa + CH₃(CH₂)₄OH (sodium propanoate and pentan-1-ol).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--05-ester-hydrolysis.webp" width="900" height="1160" alt="Ethyl propanoate hydrolysed with dilute acid and water gives propanoic acid and ethanol in a reversible reaction. With sodium hydroxide solution it goes to completion giving sodium propanoate and ethanol, because the carboxylate ion cannot re-form the ester." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible; alkaline hydrolysis goes to completion and gives a salt. All boards.</figcaption>
+</figure>
+
 
 ## 15.16 Polyesters
 

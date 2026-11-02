@@ -63,6 +63,12 @@ Rearrange the rate equation: k = rate / ([A]ᵐ[B]ⁿ), with rate in mol dm⁻³
 | 2 | rate = k[A]² or k[A][B] | dm³ mol⁻¹ s⁻¹ |
 | 3 | rate = k[A]²[B] | dm⁶ mol⁻² s⁻¹ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--07-rn-units-of-k.webp" width="900" height="1010" alt="For overall orders 0 to 3, the rate unit is divided by one concentration unit per order, giving mol dm-3 s-1, s-1, dm3 mol-1 s-1 and dm6 mol-2 s-1." loading="lazy">
+  <figcaption>Dividing the rate unit by one concentration unit per order gives the units of k. (A Level)</figcaption>
+</figure>
+
+
 ### Graph shapes
 
 | Order in A | Concentration–time graph | Rate–concentration graph |
@@ -81,6 +87,22 @@ Rearrange the rate equation: k = rate / ([A]ᵐ[B]ⁿ), with rate in mol dm⁻³
   the change is still small. In a "clock" experiment, a fixed amount reacts each time, so rate ∝ 1/t.
 - **Half-life method:** measure successive half-lives on a concentration–time graph. Constant half-lives
   mean **first order**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--05-rate-vs-concentration.webp" width="900" height="1000" alt="A graph of rate against [A] shows order 0 as a horizontal line, order 1 as a straight line through the origin and order 2 as an upward curve through the origin. Doubling [A] multiplies the rate by 1, 2 and 4 respectively." loading="lazy">
+  <figcaption>The shape of the rate against concentration graph gives the order: horizontal, straight line or curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--06-tangent-rate.webp" width="900" height="1030" alt="A concentration-time curve for a reactant falls and flattens. A tangent at t = 0 is steep and its gradient is the initial rate. A tangent later on is shallower, so the rate is lower. Rate is the size of the gradient, quoted as positive." loading="lazy">
+  <figcaption>The rate at any time is the size of the tangent gradient, and the gradient at t = 0 is the initial rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--06-clock-reaction-1-over-t.webp" width="900" height="820" alt="1/t is plotted against concentration for three runs: 0.00847, 0.0167 and 0.0345 per second at 0.020, 0.040 and 0.080 mol per dm3. Each doubling about doubles 1/t, so first order." loading="lazy">
+  <figcaption>Doubling concentration roughly doubles 1/t, showing first order.</figcaption>
+</figure>
+
 
 ### Worked example: initial-rates method
 
@@ -105,6 +127,12 @@ Rearrange the rate equation: k = rate / ([A]ᵐ[B]ⁿ), with rate in mol dm⁻³
 
 Note that the order in B (2) happens to match its coefficient here; that is not a rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--06-rn-initial-rates.webp" width="900" height="1020" alt="Three experiments with bars for [A], [B] and initial rate. Doubling [A] doubles the rate (first order in A); doubling [B] quadruples it (second order in B). Rate = k[A][B]^2 and k = 60 dm6 mol-2 s-1." loading="lazy">
+  <figcaption>Doubling [A] doubles the rate and doubling [B] quadruples it, giving rate = k[A][B]^2. (A Level)</figcaption>
+</figure>
+
+
 ### Half-life of a first-order reaction
 
 - For a **first-order** reaction, t½ is **independent of the starting concentration**: it takes the same
@@ -117,6 +145,12 @@ Note that the order in B (2) happens to match its coefficient here; that is not 
     k = 0.693 / 40 = 1.7 × 10⁻² s⁻¹
     starting at 0.80 mol dm⁻³, after 120 s (three half-lives):
     0.80 → 0.40 → 0.20 → 0.10 mol dm⁻³
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--08-half-life-gas-volume.webp" width="900" height="960" alt="Gas volume against time for a reaction ending at 64.0 cm cubed. It is 32.0 at 38 s and 48.0 at 76 s, and 56 at 114 s by calculation. The gas still to come halves every 38 s (32, 16, 8), a constant half-life, so the reaction is first order." loading="lazy">
+  <figcaption>A constant 38 s half-life shows the reaction is first order.</figcaption>
+</figure>
+
 
 ### Mechanisms and the rate-determining step
 
@@ -149,6 +183,17 @@ intermediate.
 rate = k[CH₃COCH₃][H⁺]. I₂ is **zero order**, so it reacts only after the rate-determining step. H⁺
 appears in the rate equation but not in the overall equation: it is a **catalyst**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--08-rn-rds-no2-co.webp" width="900" height="920" alt="Energy profile with a high slow hump (2 NO2 -&gt; NO3 + NO), an intermediate NO3 in the valley and a lower fast hump (NO3 + CO -&gt; NO2 + CO2). Rate = k[NO2]^2; CO is zero order as it reacts after the slow step." loading="lazy">
+  <figcaption>Only species in or before the slow step appear in the rate equation, so CO is zero order. (A Level)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--09-rate-determining-step.webp" width="900" height="1170" alt="A two-hill enthalpy profile for 2P + Q going to P2Q. The first hill (P + Q forming PQ) is higher, so it is the slow, rate-determining step; the second (PQ + P forming P2Q) is lower and fast. Because the slow step has one P and one Q, Rate = k[P][Q]." loading="lazy">
+  <figcaption>The slowest step sets the rate, and the orders show how many particles of each reactant take part in it.</figcaption>
+</figure>
+
+
 ### Effect of temperature on k
 
 - Raising the temperature **increases k**, so the **rate increases** (concentrations and orders stay the
@@ -156,6 +201,12 @@ appears in the rate equation but not in the overall equation: it is a **catalyst
 - Reason: a larger proportion of molecules have energy **greater than or equal to the activation energy**,
   and collisions are more frequent, so there are more successful collisions per unit time.
 - k is constant only **at a fixed temperature**; always quote the temperature with a k value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--02-boltzmann-temperature.webp" width="900" height="960" alt="Two skewed curves of number of molecules against energy start at the origin. The hotter curve has a lower peak further right, a longer tail, and crosses the cooler curve once to the left of Ea. The shaded area beyond Ea is much bigger for the hotter curve, while both curves enclose the same total area." loading="lazy">
+  <figcaption>A hotter gas has a lower, wider curve with the same area and many more molecules at or above Ea.</figcaption>
+</figure>
+
 
 ## Homogeneous and heterogeneous catalysts (26.2)
 
@@ -183,6 +234,12 @@ Both provide an **alternative route with a lower activation energy**.
       2CO + 2NO   → 2CO₂ + N₂
       4CO + 2NO₂ → 4CO₂ + N₂
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--09-rn-heterogeneous.webp" width="900" height="1030" alt="Three stages on an iron surface: N2 and H2 adsorb; the N-N and H-H bonds weaken with atoms held close; two NH3 molecules desorb and the sites are free." loading="lazy">
+  <figcaption>Reactants adsorb, bonds weaken on the surface, then products desorb. (A Level)</figcaption>
+</figure>
+
+
 ### Homogeneous catalysis
 
 **Atmospheric oxides of nitrogen in the oxidation of atmospheric sulfur dioxide:**
@@ -207,6 +264,17 @@ energy is high. With Fe²⁺ each step is between **oppositely charged** ions:
 If Fe³⁺ is added instead, step 2 happens first and then step 1; either ion works because iron can change
 between the +2 and +3 oxidation states. Both steps are feasible because E⦵ for Fe³⁺/Fe²⁺ (+0.77 V) lies
 between E⦵ for I₂/I⁻ (+0.54 V) and E⦵ for S₂O₈²⁻/SO₄²⁻ (+2.01 V).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--10-rn-fe-catalysis.webp" width="900" height="980" alt="A ladder of electrode potentials: S2O8 2-/SO4 2- +2.01 V, Fe3+/Fe2+ +0.77 V, I2/I- +0.54 V. Step 1 (S2O8 2- oxidises Fe2+) has E cell +1.24 V and step 2 (Fe3+ oxidises I-) +0.23 V, so both are feasible." loading="lazy">
+  <figcaption>Fe3+/Fe2+ lies between the other two couples, so both catalysed steps are feasible. (A Level)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
+  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
+</figure>
+
 
 ## Exam traps
 

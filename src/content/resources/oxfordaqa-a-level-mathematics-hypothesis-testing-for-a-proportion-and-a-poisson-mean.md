@@ -64,6 +64,12 @@ Both give the same decision. For a two-tailed test at significance level α, com
 
 When you reject H₀, say "there is sufficient evidence at the 5% level to suggest that..." in the context of the question. When you do not, say there is insufficient evidence. Never say H₀ has been proved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
+</figure>
+
+
 ## Testing a population proportion
 
 **Model.** Suppose a fixed number n of independent trials each have the same probability p of success. Under H₀ the number of successes is X ~ B(n, p₀), where p₀ is the value in H₀. Every probability is an exact binomial probability.
@@ -102,6 +108,12 @@ The observed value 16 is in the critical region, so reject H₀. There is suffic
 
 p-value check. P(X ≥ 16) = 0.0136. Doubling gives 0.0272, which is less than 0.10. Same conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
+
 ### Worked example 3: finding an upper critical region
 
 A shop's records say 30% of visitors buy something. After a refit, the owner thinks the proportion has risen. She will watch 25 visitors and test at the 5% level. Find the critical region.
@@ -116,6 +128,12 @@ P(X ≥ 12) = 0.0442   ≤ 0.05
 The critical region is X ≥ 12, and the critical value is 12. The actual significance level is 0.0442.
 
 Notice that the actual level is below 5%. The binomial distribution is discrete, so you cannot usually hit the stated level exactly. Take the biggest region you can without going over the stated level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--07-binomial-critical-region.webp" width="900" height="1010" alt="Bar chart of B(28, 0.35). The critical region X ≤ 5 or X ≥ 15 is shaded gold with tails 0.0393 and 0.0337, total 0.0730. The observed 16 is in the critical region so H0 is rejected; doubling P(X ≥ 16) = 0.0136 gives 0.0272 which is below 0.10." loading="lazy">
+  <figcaption>At the 10% level each tail gets at most 5%, and the actual significance level 0.0730 is the probability of a Type I error.</figcaption>
+</figure>
+
 
 ## Testing the mean of a Poisson distribution
 
@@ -151,6 +169,12 @@ Upper: P(X ≥ 10) = 0.0171 ≤ 0.025; P(X ≥ 9) = 0.0403 > 0.025
 ```
 
 Critical region: X = 0 or X ≥ 10. The actual significance level is 0.0111 + 0.0171 = 0.0282. If the roll has 11 flaws, then P(X ≥ 11) = 0.0067, and doubling gives 0.0134, below 0.05. Reject H₀.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--01-poisson-vs-binomial-setup.webp" width="900" height="1040" alt="A timeline shows seven events in an interval, so X counts events with no upper limit. Below it, ten trial boxes show six successes, so a binomial X can never exceed n. Poisson events must be single, independent and at a constant average rate." loading="lazy">
+  <figcaption>Poisson counts events in an interval with no upper limit; binomial counts successes in a fixed number of trials.</figcaption>
+</figure>
+
 
 ## Type I and Type II errors
 

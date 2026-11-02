@@ -65,6 +65,12 @@ Competition with the same costs would give P = MC: Q = 28 and P = 21. The monopo
 
 MR = P(1 + 1/PED). At P = 63 and Q = 14, PED = −(1/3) × 63/14 = −1.5, so MR = 63 × (1 − 1/1.5) = 21, matching MC. A profit-maximising monopolist produces where demand is elastic: MR must equal a positive MC, and MR is positive only on the elastic part of the curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--04-monopoly-cable-car.webp" width="900" height="900" alt="Demand P = 105 - 3Q, MR = 105 - 6Q, MC = AC = 21. MR = MC at 14 thousand rides, price 63 from AR, profit 588. Competition gives 28 at 21; the welfare loss triangle is 294." loading="lazy">
+  <figcaption>Set MR = MC, then read the price from AR.</figcaption>
+</figure>
+
+
 ## Monopoly power
 
 Pure monopoly is rare. Many firms hold monopoly power, meaning some ability to price above marginal cost. Firms in monopolistic competition and oligopoly are also price makers, to differing extents. The specification lists four influences.
@@ -84,6 +90,12 @@ With constant MC, profit maximisation gives P = MC × e/(e − 1), where e is PE
 
 If advertising moves a brand's e from 3 to 1.5, the price that maximises profit doubles from 31.5 to 63, before counting the advertising bill.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--05-markup-by-elasticity.webp" width="900" height="990" alt="With MC 21, elasticity 7, 3 and 1.5 give prices 24.5, 31.5 and 63 (mark-ups 3.5, 10.5, 42). MR = P(1+1/PED) equals 21 at each price. Advertising moving e from 3 to 1.5 doubles the price." loading="lazy">
+  <figcaption>Less elastic demand gives a bigger mark-up.</figcaption>
+</figure>
+
+
 ## Natural monopoly
 
 A natural monopoly exists where long-run average cost is still falling when output reaches market demand. One firm then supplies at lower average cost than several, usually because fixed costs are huge (a heat network, a rail track, a grid).
@@ -93,6 +105,12 @@ Example: Country B has a district heating network (illustrative). TC = 540 + 6Q,
 - Unconstrained monopoly: MR = 42 − 0.8Q = 6, so Q = 45 and P = 24. AC = 6 + 540/45 = 18. Profit = (24 − 18) × 45 = 270.
 - Two firms sharing 45 units would each make 22.5, with AC = 6 + 540/22.5 = 30. Duplication raises unit cost from 18 to 30.
 - Pricing at MC gives Q = 90 and P = 6, but AC = 12, so TR = 540 against TC = 1,080: a loss of 540. The efficient price does not cover cost, which is why natural monopolies are awkward to handle. Policy responses belong to the competition policy and regulation unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--05-natural-monopoly-heating.webp" width="900" height="900" alt="TC = 540 + 6Q so AC falls across the market. The profit-maximiser makes 45 at 24 and profit 270. Pricing at MC gives 90 at 6, below AC of 12, a loss of 540." loading="lazy">
+  <figcaption>Where AC keeps falling, marginal-cost pricing cannot cover cost.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages of monopoly
 
@@ -145,6 +163,12 @@ Consumers in elastic segments pay less, and some who could not afford the single
 
 **Evaluation.** The output effect depends on the demand curves. Here it opens a market that a single price shuts out; with other curves total output may not change. Discrimination is harder to defend when the higher-paying group is vulnerable or has no alternative. Fairness, use of the profit and the cost of enforcement all matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--06-price-discrimination-gym.webp" width="900" height="1110" alt="Two panels with MC = 12. Adults (P = 68 - 4Q) pay 40 for 7 hundred entries, profit 196. Students (P = 32 - 2Q) pay 22 for 5 hundred, profit 50. Total 246 against 196 with a single price of 40." loading="lazy">
+  <figcaption>Charging each segment its own price raises profit and serves students.</figcaption>
+</figure>
+
+
 ## 3.3.3.7 Contestable markets
 
 A market is contestable when potential entrants pose a credible threat because entry and exit are cheap. What counts is potential competition, not how many firms are present. A perfectly contestable market has no barriers to entry or exit.
@@ -160,6 +184,12 @@ Example: a regional barge service (illustrative). The incumbent charges 16, has 
 - With sunk costs of 1,000, the result is 810 − 1,000 = −190. Entry is deterred.
 
 When sunk costs are low, the incumbent has to hold its price near AC (a cut from 16 to 11, about 31%) or lose trade. It earns only normal profit and is pushed towards productive efficiency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--07-hit-and-run-sunk-costs.webp" width="900" height="960" alt="An entrant earns 810 in 3 months. With sunk costs of 200 the net gain is 610 and it enters; with sunk costs of 1,000 the net is -190 and entry is deterred." loading="lazy">
+  <figcaption>High sunk costs stop hit-and-run entry.</figcaption>
+</figure>
+
 
 ### Significance for performance
 

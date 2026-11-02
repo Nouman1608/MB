@@ -79,6 +79,17 @@ Total spending is USD 32,700.
 
 The comment a high-scoring answer adds is that the 23,400 is probably too large to fund from one month's cash, so the owner will need a longer-term source, while the 9,300 comes out of ordinary trading cash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--01-capital-vs-revenue-spending.webp" width="900" height="990" alt="Bars for Plumleigh Print Works spending. Capital: printing press 18,500 and loading ramp 4,900, total 23,400. Revenue: ink and paper 2,340, repair 760 and wages 6,200, total 9,300. Overall 32,700 dollars." loading="lazy">
+  <figcaption>Spending that lasts years is capital; spending used up this year is revenue, including repairs that only restore working order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--01-finance-three-uses.webp" width="900" height="990" alt="Three rows: finance is used to start up, to keep running and to grow or change. A line chart over eight weeks with illustrative numbers shows a late-paying customer in weeks 4 to 6: the business with access to funds stays above zero, the one without goes below zero and cannot pay." loading="lazy">
+  <figcaption>Finance starts, runs and grows a business, and lets it ride out a bad spell.</figcaption>
+</figure>
+
+
 ## 3.2 Sources of finance
 
 Sources are split by where the money comes from. **Internal** sources come from inside the business or its owner. **External** sources come from outside. A second split is by time: **short-term** finance is repaid within about a year, while **long-term** finance is repaid over several years or never.
@@ -119,6 +130,12 @@ Shortfall = 40,000 - 26,400 = USD 13,600.
 
 Retained profit covers about two-thirds of the purchase (26,400 / 40,000 = 66%). The USD 13,600 gap needs another source, and that is where the choice below comes in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-retained-profit-funding.webp" width="900" height="920" alt="Waterfall chart in dollars: profit before tax 58,000, tax 11,600, dividends 20,000 leaves retained profit 26,400. Ten e-bikes cost 40,000, so there is a gap of 13,600 and retained profit covers 66 percent." loading="lazy">
+  <figcaption>Retained profit is what is left after tax and dividends, and it may not cover the whole purchase.</figcaption>
+</figure>
+
+
 ### Worked example: share issue and ownership
 
 A company has 60,000 shares, all held by its founder. It issues 20,000 new shares at USD 5.00 each to outside investors.
@@ -127,6 +144,22 @@ Funds raised = 20,000 x 5.00 = USD 100,000.
 Total shares = 80,000, so the founder now holds 60,000 / 80,000 = 75%.
 
 The business gains USD 100,000 that never has to be repaid. The founder gives up 25% of the ownership and, with it, a quarter of every future dividend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-share-issue-ownership.webp" width="900" height="840" alt="Before the issue the founder holds all 60,000 shares. After 20,000 new shares are issued at 5 dollars there are 80,000 shares: the founder holds 75 percent and investors 25 percent. The business gains 100,000 dollars that never has to be repaid." loading="lazy">
+  <figcaption>Issuing shares raises money that is never repaid but gives away part of the ownership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
 
 ## Choosing between sources: the AO3 skill
 
@@ -143,6 +176,17 @@ Appropriateness depends on the situation. Work through these factors.
 For the USD 13,600 gap, an overdraft is short-term and can be called in, so it is a poor match for bikes that will earn revenue for years. A four-year bank loan matches the asset's life. At 9% simple interest on the amount borrowed, the interest is 13,600 x 0.09 x 4 = USD 4,896. Total repayment is USD 18,496, or USD 4,624 a year. Leasing the last few bikes is an alternative that avoids the upfront payment.
 
 A justified answer would recommend the loan, because it matches the life of the asset and keeps ownership, while noting that the owners must be confident the bikes will earn more than the USD 4,624 yearly repayment. The judgment should name the factor that decides it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--03-match-finance-to-asset.webp" width="900" height="820" alt="Four-year timeline. The e-bikes earn revenue for four years. A four-year bank loan of 13,600 at 9 percent simple interest costs 4,896 interest, 18,496 in total, 4,624 a year. An overdraft is short-term and can be called in, a poor match." loading="lazy">
+  <figcaption>Match the term of the finance to the life of the asset: the loan suits bikes that earn for years, the overdraft does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--03-choosing-source-factors.webp" width="900" height="880" alt="Five stacked rows with icons: purpose and term, amount needed, cost, control and risk, and the business itself, each with a short note from the lesson. A final bar says to recommend one source with a reason." loading="lazy">
+  <figcaption>Work through five factors, then recommend one source and say which factor decides.</figcaption>
+</figure>
+
 
 ## Common errors
 

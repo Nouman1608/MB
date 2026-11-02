@@ -45,6 +45,17 @@ These notes condense section 3.1.1 (the economic problem and methodology) of the
 
 Reminder: Method A (8 workers, 1 machine at 60) and Method B (3 workers, 3 machines) cost the same at a wage of 24. Above 24, B is cheaper. Below 24, A is cheaper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--03-cheapest-method.webp" width="900" height="920" alt="Cost lines for Method A (8w + 60) and Method B (3w + 180) cross at wage 24, cost 252. A is cheaper below 24, B above." loading="lazy">
+  <figcaption>Higher wages make capital-intensive methods cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--05-green-v-orange.webp" width="900" height="860" alt="Both countries produce 600 for five people, mean 120. Green gives 120 each (median 120); Orange gives 400, 50, 50, 50, 50 (median 50), so one person takes 66.7%." loading="lazy">
+  <figcaption>Equal averages can hide very unequal distribution.</figcaption>
+</figure>
+
+
 ## 3.1.1.2 Economic resources
 
 | Factor | Meaning | Not to be confused with |
@@ -58,6 +69,22 @@ Reminder: Method A (8 workers, 1 machine at 60) and Method B (3 workers, 3 machi
 - **Non-renewable:** fixed stock (coal, oil, ores).
 - **The environment is a scarce resource:** it supplies inputs and absorbs waste, so production and consumption can damage it.
 - A woodland growing 300 tonnes a year and losing 450 tonnes to felling shrinks by 150 tonnes a year, so it is being used as if non-renewable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--06-renewable-felling.webp" width="900" height="800" alt="A woodland regrows 300 tonnes a year (six trees) but 450 tonnes (nine trees) are felled, so the stock falls 150 tonnes a year." loading="lazy">
+  <figcaption>A renewable resource used faster than it regrows behaves like a non-renewable one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
 
 ## 3.1.1.3 Scarcity, choice and allocation
 
@@ -82,6 +109,27 @@ Reminder: chair 4 hours, table 10 hours. One table costs 10 ÷ 4 = 2.5 chairs.
 - **Price mechanism chain:** demand rises, price rises, profit rises, firms expand, resources move in.
 - Governments alter allocation by tax, subsidy, regulation and provision.
 - Evaluate by degree of intervention, not by "market versus plan".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--07-carpenter-opportunity-cost.webp" width="900" height="780" alt="In 40 hours a carpenter makes 10 chairs or 4 tables. One table costs 2.5 chairs (75 of sales); chairs earn 7.50 an hour and tables 9.00." loading="lazy">
+  <figcaption>Opportunity cost from a time budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--08-next-best-alternative.webp" width="900" height="770" alt="Oven 6,000, extra staff 4,500, deposit 2,000. The oven is chosen and its opportunity cost is 4,500, not 6,500." loading="lazy">
+  <figcaption>Opportunity cost is the next best option only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## 3.1.1.4 Production possibility diagrams
 
@@ -108,6 +156,17 @@ Reminder: chair 4 hours, table 10 hours. One table costs 10 ÷ 4 = 2.5 chairs.
 - Allocatively efficient = the mix society values most. This needs information on preferences. The diagram alone cannot show it.
 - Rule: keep moving towards a good while society's valuation of an extra unit exceeds its opportunity cost. If an extra K is valued at 2.5 C, d is the best point (costs 1.6 up to d, 3.2 beyond).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--01-ppd-numbers.webp" width="900" height="880" alt="Production possibility curve for Country A through points a to e: (0,100), (10,96), (20,88), (30,72), (40,40). A point inside at K=20, C=60 is 28 below the boundary; a point outside at K=30, C=90 is unattainable." loading="lazy">
+  <figcaption>Points on, inside and outside the frontier using the lesson table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--02-allocative-efficiency.webp" width="900" height="940" alt="Bars show opportunity cost per extra K of 0.4, 0.8, 1.6 and 3.2 against society valuing 1 K at 2.5 C. Moves up to d are worth making; d to e is not, so d (K=30, C=72) is allocatively efficient." loading="lazy">
+  <figcaption>Moving to the point where marginal opportunity cost meets the value society places on K.</figcaption>
+</figure>
+
+
 ## 3.1.1.5 Economic methodology
 
 - **Social science:** studies human behaviour using models, hypotheses and data.
@@ -125,6 +184,12 @@ Reminder: chair 4 hours, table 10 hours. One table costs 10 ÷ 4 = 2.5 chairs.
 
 - Disagreement over policy comes from different evidence or different values.
 - Good evaluation separates the positive consequences from the value judgements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--09-ceteris-paribus-bread.webp" width="900" height="730" alt="A 10% price rise cuts demand by about 6%, a simultaneous income rise adds about 7%, and the observed change is about +1%." loading="lazy">
+  <figcaption>Ceteris paribus isolates one effect when many things change.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

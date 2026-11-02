@@ -76,6 +76,17 @@ These notes condense parts c and d of item 3 in section 4.3.6 of the Pearson Ede
 
 Surplus farm labour is 24 and the modern sector starts with 12 workers on a wage of 39, each adding 60. Profit = 12 x (60 - 39) = 252. With 75% reinvested and capital of 63 per job, new jobs = 252 x 0.75 / 63 = 3. Modern employment becomes 15, so 9 surplus workers remain. Repeat until employment reaches 24, then the turning point arrives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--11-lewis-model-turning-point.webp" width="900" height="920" alt="Modern-sector workers by round are 20, 26, 34 and a planned 44, passing the 40 surplus workers marked by a dashed line. The farm produces 3,840 with 120 workers (32 each) and the same 3,840 with 80 (48 each). Beyond the 40th worker, farm output falls and wages must rise." loading="lazy">
+  <figcaption>The model works until surplus labour is used up; then the turning point forces wages up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--09-lewis-reinvestment-rounds.webp" width="900" height="960" alt="For three rounds, output is split into wage bill and profit, and 75 percent of profit is reinvested: 450, 585 and 765, creating 6, 7.8 and 10.2 jobs at 75 each. The plan reaches about 44 workers against 40 surplus." loading="lazy">
+  <figcaption>Reinvested profit creates the new modern-sector jobs in each round.</figcaption>
+</figure>
+
+
 ## Tourism, primary industries and debt relief
 
 | Strategy | Gains | Drawbacks |
@@ -113,6 +124,32 @@ Debt is 4,000, exports are 800 and annual debt service is 240, so the ratio is 2
 - Can processing keep more value at home?
 - Are workers, land and the environment protected from depletion?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--12-tourism-leakage-multiplier.webp" width="900" height="850" alt="Tourists spend 200 million. Imports (60) and profit sent abroad (40) leak, leaving 100 as local income. With a multiplier of 1.67 total local income is 166.7 million." loading="lazy">
+  <figcaption>Leakage cuts the multiplier; reducing it matters as much as raising arrivals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--13-primary-processing-value-added.webp" width="900" height="960" alt="One tonne of crop sells for 1,000 with 800 value added when grown; processed it sells for 2,600 with 1,300 value added. Processing adds 1.63 times as much value as growing." loading="lazy">
+  <figcaption>Moving up the value chain captures more value per tonne.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--14-debt-relief-freed-spending.webp" width="900" height="970" alt="Cancelling 40% of the debt cuts debt service from 720 to 432, freeing 288, which would raise the 480 health and education budget by 60%. Debt to GDP falls from 80% to 48% and the debt service ratio from 24% to 14.4%." loading="lazy">
+  <figcaption>Debt relief lowers the debt burden and can free money for public services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--08-export-concentration-risk.webp" width="900" height="850" alt="Export earnings of 100 are 65 from one crop and 35 from other goods. A 20 percent price fall cuts the crop to 52 and total earnings to 87, a 13 percent fall." loading="lazy">
+  <figcaption>One dominant export makes total earnings fall sharply when its price drops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Aid
 
 | Type | Key point |
@@ -126,6 +163,17 @@ Debt is 4,000, exports are 800 and annual debt service is 240, so the ratio is 2
 | Project and technical | capital works, expertise and training |
 
 **Evaluation:** effect depends on the use of funds, governance, how well the economy can absorb the money, predictability, and whether it displaces local effort. Aid can fund public goods markets underprovide. It can also encourage dependency or corruption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--15-tied-aid-real-value.webp" width="900" height="790" alt="Of 1,000 million aid, 400 is untied and 600 is tied to donor goods 25% dearer, so the tied part buys 480. Real value is 880, a loss of 120 or 12%." loading="lazy">
+  <figcaption>Tying aid to donor goods reduces what it can actually buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--06-aid-types.webp" width="900" height="1140" alt="Six pictures: bilateral aid from one government to another; multilateral aid pooled through an institution; grants and concessional loans that are free or below-market interest; tied aid restricted to donor-country goods; emergency relief after famine, flood or war; project and technical aid." loading="lazy">
+  <figcaption>Aid differs by who gives it, on what terms and for what purpose.</figcaption>
+</figure>
+
 
 ## The World Bank, the IMF and NGOs
 
@@ -142,6 +190,12 @@ Debt is 4,000, exports are 800 and annual debt service is 240, so the ratio is 2
 - Tied aid restricts where money is spent; untied does not.
 - Cancellation lowers the debt; rescheduling extends the repayment period.
 - Leakage lowers the multiplier; a high local spending share raises it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-industrialisation-aid-debt-relief-and-international--07-who-does-what-institutions.webp" width="900" height="970" alt="On a short-run to long-run scale, the World Bank lends long term for development, the IMF gives temporary balance of payments loans with conditions, and NGOs run non-profit local projects." loading="lazy">
+  <figcaption>Long-term lending, short-term balance of payments support and local projects are different jobs.</figcaption>
+</figure>
+
 
 ## Writing an assessment paragraph
 

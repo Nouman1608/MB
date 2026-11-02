@@ -35,6 +35,12 @@ Related pages: [IB DP Physics](/boards/ib/ib-dp/physics/), the [checklist](/chec
 - **Size:** R from L and T using L = 4πσR²T⁴.
 - **Spectrum:** peak wavelength gives temperature; absorption lines give composition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--01-star-stability.webp" width="900" height="890" alt="Three stars show outward pressure arrows longer than, equal to and shorter than inward gravity arrows. When the core is too hot the star expands and cools; too cool and it shrinks and heats. Equal arrows mean a stable main sequence star." loading="lazy">
+  <figcaption>A star is stable when outward pressure balances inward gravity, and this balance corrects itself.</figcaption>
+</figure>
+
+
 ## Formulas and data
 
 | Quantity | Relationship or value |
@@ -81,6 +87,17 @@ These constants are data for working. In an exam, use whatever values the questi
 
 Fusion up to iron releases energy. Fusion beyond iron does not, so an iron core cannot support itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--02-hydrogen-fusion.webp" width="900" height="1030" alt="Four hydrogen nuclei fuse into one helium-4 nucleus, releasing positrons, neutrinos and 26.7 MeV. A true-scale bar shows the mass lost is 0.028697 u, 0.71 percent of the original. For the Sun, 6.0e11 kg of hydrogen is fused per second but only 4.3e9 kg becomes energy." loading="lazy">
+  <figcaption>Hydrogen fusion converts 0.71 % of the mass into 26.7 MeV per helium nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--04-evolution-by-mass.webp" width="900" height="1060" alt="A flow chart splits at the gas cloud. Low or moderate mass: main sequence, red giant, white dwarf. High mass: short main sequence, super giant, supernova, neutron star or black hole." loading="lazy">
+  <figcaption>Mass decides a star’s lifetime and its end state.</figcaption>
+</figure>
+
+
 ## HR diagram: regions at a glance
 
 | Region | Where | Remember |
@@ -94,6 +111,12 @@ Fusion up to iron releases energy. Fusion beyond iron does not, so an iron core 
 
 **Moving across the diagram.** A star with the same luminosity but half the surface temperature has a radius four times larger, because R ∝ 1/T² when L is fixed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--05-hr-diagram.webp" width="900" height="1060" alt="A log-log HR diagram with temperature reversed so hot is on the left. It shows the main sequence band with the Sun, red giants, super giants, white dwarfs, the instability strip and dashed lines of constant radius computed from L = 4 pi sigma R^2 T^4. A red super giant of 2e5 Suns and 3500 K sits just above the 1000 R line, radius about 1220 Sun radii." loading="lazy">
+  <figcaption>Position on the HR diagram shows luminosity, temperature and, by the dashed lines, radius.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Luminosity** is the total power emitted by the star. It is not the same as the brightness you see from Earth.
@@ -101,6 +124,12 @@ Fusion up to iron releases energy. Fusion beyond iron does not, so an iron core 
 - **Parsec versus light year:** the parsec is defined from the angle, the light year from the distance light travels in a year. 1 pc is about 3.26 ly.
 - **Mass defect versus mass lost by the star:** a star converts 0.7 % of the hydrogen it fuses into energy. It does not lose all of that hydrogen.
 - **Temperature from the spectrum versus composition from the spectrum:** peak wavelength gives temperature, absorption lines give elements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--06-parallax.webp" width="900" height="1165" alt="Earth at two points six months apart views a nearby star against distant stars; the apparent shift is 2p, where p is the angle subtended by 1 AU at the star (drawn exaggerated). d in parsecs = 1/p in arc-seconds; p = 0.0832 arc-second gives 12.0 pc or 39.1 ly." loading="lazy">
+  <figcaption>The parallax angle is half the apparent shift, and distance in parsecs is 1/p.</figcaption>
+</figure>
+
 
 ## Radius method in steps
 

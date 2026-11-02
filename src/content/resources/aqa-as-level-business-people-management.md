@@ -64,6 +64,12 @@ Influences on the objectives a business sets include its corporate objectives, i
 
 HR decisions link to other functions. Marketing plans set demand, finance sets the pay budget, and operations sets staffing levels and skills. Good HR decisions improve competitiveness through service quality, productivity and the ability to adapt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--10-ppl-hr-planning.webp" width="900" height="960" alt="Four steps: current workforce, forecast future needs, find gaps in skills or numbers, check labour market supply. The plan then decides to recruit, train, retain, redeploy or make redundancies." loading="lazy">
+  <figcaption>HR planning works from the present workforce to the gaps and the supply available.</figcaption>
+</figure>
+
+
 ## HR data
 
 Businesses measure **engagement, representation, diversity and wellbeing** (by surveys, records and feedback) because what is measured can be managed. The results show whether HR policies work and warn of problems such as falling morale. Key performance indicators (KPIs) for employees in their roles set a target for each job, such as calls handled or sales made.
@@ -97,6 +103,22 @@ Analysis should include **percentages, percentage changes and index numbers**. P
 
 **Interpretation.** Revenue rose by 19.2% while staff numbers rose by 10%, so each employee is producing more. Costs stayed at 30% of revenue, so the pay bill is not squeezing profit. The weak point is turnover, which rose from 15% to 18.2%. Higher turnover means more recruitment and training spending and lost experience, and it may be the price of pushing productivity up. A good answer ends with a judgement: the bakery is more efficient, but it should investigate why people are leaving before the gain is lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--08-ppl-hr-data.webp" width="900" height="1080" alt="Four bar pairs for Year 1 and Year 2: productivity 8,000 to 8,500 (index 106.25), sales per employee 60,000 to 65,000 pounds (index 108.3), employee turnover 15% to 18.2%, employee costs 30% of revenue in both years." loading="lazy">
+  <figcaption>The bakery is more efficient, but rising turnover needs investigating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--02-hr-measures.webp" width="900" height="1040" alt="Six measures radiate from an average of 190 staff: productivity 400 items each, sales per employee 50,000 pounds, profit per employee 6,000 pounds, employee costs 28 percent of revenue, labour cost 35 pounds per item and labour turnover 20 percent." loading="lazy">
+  <figcaption>One average headcount feeds every HR data measure in the worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+
 ## Organisational design
 
 **Span of control** is the number of subordinates reporting directly to a manager. **Levels of hierarchy** are the layers of authority from top to bottom. For a fixed workforce, a wider span means fewer levels. If 44 staff are supervised by 4 managers, each span is 11; with a span of 4 the same staff need 11 supervisors, so more managers and usually more levels are needed.
@@ -110,11 +132,33 @@ Analysis should include **percentages, percentage changes and index numbers**. P
 
 **Restructuring** changes the organisation, for example by **delayering** (removing levels) or by centralising decisions. Delayering cuts costs and speeds communication, but it can mean redundancies, bigger workloads for those who remain, and falling morale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ## Leadership
 
 **Autocratic**: the leader decides and tells. Decisions are quick and suit a crisis or inexperienced staff, but it can demotivate skilled workers and raise turnover. **Democratic**: the leader consults and often follows the group view. Decisions are better informed and staff feel valued, but they take longer. **Transformational**: the leader sets an inspiring vision and encourages people to go beyond their own interests. It suits change and can raise engagement, but it depends on one person's energy.
 
 Influences on style include the leader's personality, staff skills and experience, the urgency of the task and the culture. The impact on individuals shows in motivation and stress, on teams in cooperation and conflict, and on the business in performance and retention. No style is always best, so judge fit to the situation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--09-ppl-leadership-styles.webp" width="900" height="1060" alt="Three panels: one-way arrow for autocratic, two-way arrows for democratic, and a leader pointing staff to a shared vision for transformational. Each has a one-line strength or limit from the lesson." loading="lazy">
+  <figcaption>Transformational leaders set an inspiring vision, unlike deciding alone or consulting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
 
 ## Developing people
 
@@ -134,6 +178,12 @@ Teams combine skills, spread workload, generate ideas and give support, so the w
 
 Effectiveness is judged by the quality of the output, the team's ability to keep working together, and the growth and satisfaction of its members. To use it, find which condition is missing in the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--09-ppl-hackman.webp" width="900" height="1020" alt="Five numbered conditions (real team, compelling direction, enabling structure, supportive context, expert coaching) lead to an effective team, judged by output quality, ability to keep working together and member growth." loading="lazy">
+  <figcaption>A team is more likely to succeed when all five conditions are in place.</figcaption>
+</figure>
+
+
 ## Motivation
 
 Motivated employees work harder, stay longer and serve customers better. Benefits include productivity and lower turnover; challenges include cost, differing needs and effects that fade.
@@ -143,6 +193,17 @@ Motivated employees work harder, stay longer and serve customers better. Benefit
 **Maslow** proposed a hierarchy of needs: physiological, safety, social, esteem, self-actualisation. A lower need must be broadly met before the next motivates. Pay meets lower needs; teamwork and recognition meet higher ones. Limits: people differ, and needs do not always follow a fixed order.
 
 **Herzberg** split factors into **hygiene factors** (pay, conditions, job security, supervision), which prevent dissatisfaction but do not motivate, and **motivators** (achievement, recognition, responsibility, the work itself), which increase motivation. This points to job enrichment and delegation rather than pay alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
 
 ## Methods of rewarding people
 
@@ -166,6 +227,12 @@ Wellbeing methods include physical and mental health support, an inclusive work 
 **Employee voice and involvement** means staff have a say in decisions. It improves ideas and commitment but slows decisions. **Individual representation** (an employee speaks for themselves) is flexible and personal, but a single employee has little bargaining power. **Collective representation** (trade unions, employee forums) gives a strong voice and protects staff, but it may create conflict and slow change. A **trade union** is an independent organisation of employees; an **employee forum** is a body inside the business where staff representatives meet managers.
 
 Poor relations are caused by pay disputes, poor communication, unfair treatment and sudden change. Consequences include strikes, absence, high turnover, falling productivity and a damaged reputation. They are improved by honest communication, consultation before changes, fair pay and prompt resolution of grievances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--11-ppl-representation.webp" width="900" height="1000" alt="One employee facing a manager has little bargaining power. Employees represented collectively, by a trade union or an employee forum, have a stronger voice but may create conflict." loading="lazy">
+  <figcaption>Individual representation is personal; collective representation is stronger but can slow change.</figcaption>
+</figure>
+
 
 ## Common errors
 

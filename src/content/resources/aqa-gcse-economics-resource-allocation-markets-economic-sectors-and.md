@@ -52,6 +52,12 @@ A street stall in a town sells apples by the kilogram. The weekly plans of buyer
 
 At 1.00 buyers queue for stock that is gone. Sellers see this and can raise the price. At 3.00 apples go unsold, so sellers cut the price. Both pressures push towards 2.00, where 80 kg is wanted and 80 kg is offered. Section 3.1.3 covers demand and supply in full; here you only need the idea that interaction between buyers and sellers establishes the price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+
 ### A chain of reasoning: how a market reallocates resources
 
 Suppose a poor harvest cuts the supply of apples.
@@ -62,6 +68,12 @@ Suppose a poor harvest cuts the supply of apples.
 4. Land and labour move towards apples, easing the shortage over time.
 
 Markets do not always work this smoothly: prices can be slow to move, and some people cannot afford what they need. For now, state the mechanism clearly and note that it relies on buyers and sellers responding to price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
 
 ### Factor markets and product markets
 
@@ -76,6 +88,22 @@ The two types of market sell different things.
 | Example | A shopper buys a pair of boots | A boot factory hires a machinist |
 
 The same household appears in both. A machinist sells labour in the factor market, receives a wage, then spends it in product markets. The firm does the reverse: it buys labour and sells boots. Money flows round in a loop, and each market depends on the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--09-boots-factor-loop.webp" width="900" height="930" alt="A loop diagram with a machinist’s household and a boot factory. In the factor market labour flows from the household to the factory and a wage flows back. In the product market money for boots flows from the household to the factory and boots flow back. The same household sells labour, then spends the wage on boots." loading="lazy">
+  <figcaption>The machinist sells labour for a wage, then spends the wage on boots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
 
 
 ## 3.1.2.2 Economic sectors
@@ -125,6 +153,22 @@ Secondary jobs fell by 9 percentage points as a share, but only by 9.0% in numbe
 
 Some purchases mix both. A restaurant meal includes food (a good), but you pay mainly for cooking and serving (a service); decide what the buyer is mainly paying for and say so. Retail is a tertiary service: the shop sells goods, but its own activity is making them available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--03-sector-share-vs-jobs.webp" width="900" height="905" alt="For fictional Country C, with total jobs rising from 5.0m to 6.5m, each sector shows its jobs in both years and the share change in percentage points beside the percentage change in jobs: primary -8 points and -56.7 percent, secondary -9 points but only -9.0 percent, tertiary +17 points and +68.1 percent." loading="lazy">
+  <figcaption>A percentage point change describes a share; a percentage change describes a quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--08-goods-vs-services.webp" width="900" height="940" alt="A three-row comparison of goods and services. A good is a physical item that can be stored until sold and is owned by the buyer. A service is an activity that cannot be stored and leaves the buyer with the benefit but nothing owned. A note says a restaurant meal mixes both, so decide what the buyer is mainly paying for." loading="lazy">
+  <figcaption>A good is stored and owned; a service happens and leaves only the benefit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## 3.1.2.3 Specialisation, division of labour and exchange
 
 **Specialisation** is when an individual, firm, region or country concentrates on a limited range of tasks or products instead of making everything. The **division of labour** is a particular form of it: a process is broken into stages, with a different worker assigned to each stage.
@@ -163,6 +207,12 @@ After:  4 x 27 = 108 jars   Labour cost per jar = 360 / 108 = 3.33
 Output change = (108 - 72) / 72 = +50%     Cost per jar change = -33.3%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--02-jam-division-of-labour.webp" width="900" height="1110" alt="Four workers each make 18 whole jars (72 in total, labour cost per jar 5.00). Split into four stations each makes 27 jars (108 in total, 3.33 per jar). Output rises 50 percent and cost per jar falls 33.3 percent." loading="lazy">
+  <figcaption>Splitting the job into stations raises output and lowers labour cost per jar.</figcaption>
+</figure>
+
+
 ### Costs and benefits of the division of labour
 
 | | Benefits | Costs |
@@ -172,9 +222,26 @@ Output change = (108 - 72) / 72 = +50%     Cost per jar change = -33.3%
 
 Costs of specialisation and exchange also exist beyond the firm: a region or country that depends on one product is exposed if demand for it falls, and depending on others for supplies is risky if they cannot deliver.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ### Evaluation: is the division of labour worth it?
 
 A good judgement uses *if* and *depends*. The jam business gains if the extra output sells; if demand is weak, it may simply hold surplus stock. The gain lasts if workers stay motivated, so rotating jobs or sharing the benefit through pay can protect it. For a worker, good pay and training can outweigh boredom, but narrow skills matter more if machines could replace the task. State the point, give the reason, then say which side is stronger in the case given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--01-sp-jo-sam.webp" width="900" height="1010" alt="Two bar panels. Splitting time, Jo and Sam together make 28 kg of vegetables and 12 loaves; specialising gives 40 kg and 16 loaves. After Jo gives Sam 14 kg for 6 loaves, Jo has 26 kg and 6 loaves and Sam 14 kg and 10 loaves, each 6 kg and 2 loaves better off than before." loading="lazy">
+  <figcaption>Specialisation raises total output and exchange shares the gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--10-jam-gain-depends.webp" width="900" height="860" alt="The jam business raises output from 72 to 108 jars and cuts the cost per jar from 5.00 to 3.33 after splitting the work into four stations. Two if-checks judge whether the gain lasts: whether the extra jars sell (otherwise surplus stock) and whether workers stay motivated (otherwise absences halt a station)." loading="lazy">
+  <figcaption>The jam gain lasts if the extra jars sell and workers stay motivated.</figcaption>
+</figure>
+
 
 ## How answers gain or lose credit
 

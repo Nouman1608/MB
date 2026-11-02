@@ -54,6 +54,12 @@ Next, work through the [practice questions](/resources/ib-dp-chemistry-energy-fr
 
 Reminder: propan-2-ol, C₃H₈O. 3CO₂ + 4H₂O has 10 O atoms; minus 1 leaves 9, so 4½ O₂: 2C₃H₇OH + 9O₂ → 6CO₂ + 8H₂O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--01-complete-combustion.webp" width="900" height="935" alt="Butan-1-ol drawn atom by atom beside six O2 molecules, with an arrow to four CO2 and five H2O molecules. Oxygen atoms are counted: 1 + 12 = 13 on the left and 8 + 5 = 13 on the right." loading="lazy">
+  <figcaption>Burning butan-1-ol: C4H9OH + 6O2 -&gt; 4CO2 + 5H2O, with 13 oxygen atoms on each side.</figcaption>
+</figure>
+
+
 ## Reactivity 1.3.2 Incomplete combustion
 
 Same method, but the carbon product changes:
@@ -72,6 +78,17 @@ Health and other effects:
 - CO attaches to haemoglobin more tightly than O₂, so blood carries less oxygen. It has no colour or smell.
 - Soot particles damage the lungs and blacken surfaces.
 - Less energy is released per mole of fuel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--02-incomplete-combustion.webp" width="900" height="900" alt="Two Bunsen burners: with the air hole open the flame is small and blue and a cold tile stays clean; with it closed the flame is large, yellow and smoky and soot forms on the tile. A note says carbon monoxide is toxic, colourless and odourless." loading="lazy">
+  <figcaption>Limited air gives a yellow, sooty flame producing CO and carbon instead of CO2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--03-oxygen-needed.webp" width="900" height="810" alt="Bar chart of oxygen needed per mole of nonane: 14 mol for carbon dioxide, 9.5 mol for carbon monoxide and 5 mol for carbon (soot)." loading="lazy">
+  <figcaption>The less oxygen available, the less O2 is used and the less complete the burn: 14, 9.5 and 5 mol per mol C9H20.</figcaption>
+</figure>
+
 
 ## Reactivity 1.3.3 Fossil fuels
 
@@ -101,6 +118,17 @@ Small reminder, using ΔHc⦵(ethane) = −1560 kJ mol⁻¹: M = 30.08 g mol⁻�
 
 More CO₂ from fossil fuels enhances this effect. NOAA gives about 280 ppm before the Industrial Revolution and about 423 ppm as the 2024 global average.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--04-fuel-comparison.webp" width="900" height="920" alt="Two bar charts. Energy per gram: methane 55.5, octane 47.9, carbon 32.8 kJ per g. CO2 per MJ: methane 49.4, octane 64.4, carbon 111.7 g." loading="lazy">
+  <figcaption>Methane gives the most energy per gram and the least CO2 per MJ; coal gives over twice as much CO2 as natural gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--05-greenhouse-effect.webp" width="900" height="940" alt="Sunlight reaches the ground, which gives off infrared. A CO2 molecule absorbs infrared and re-emits it in all directions, including downwards. A chart shows CO2 rising from about 280 ppm to about 423 ppm in 2024." loading="lazy">
+  <figcaption>CO2 absorbs and re-emits infrared; atmospheric CO2 rose from about 280 to 423 ppm.</figcaption>
+</figure>
+
+
 ## Reactivity 1.3.4 Biofuels
 
 Photosynthesis (learn the reactants and products):
@@ -119,6 +147,12 @@ Carbon bookkeeping reminder for bioethanol: making 1 glucose fixes 6 CO₂. Ferm
 | Lower net CO₂ | Deforestation risk and biodiversity loss |
 | Usable in blends in existing engines | High water and fertiliser use |
 | Can use waste (biogas) | Ethanol gives less energy per gram than petrol |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--06-bioethanol-carbon.webp" width="900" height="1040" alt="Plants fix 6 CO2; fermentation releases 2 CO2 and burning the ethanol releases 4, so 6 are released. This is carbon neutral on paper, but fossil fuels used in farming and processing mean it is not in reality." loading="lazy">
+  <figcaption>Carbon fixed (6 CO2) equals carbon released (2 + 4), but farming and processing add fossil CO2.</figcaption>
+</figure>
+
 
 ## Reactivity 1.3.5 Fuel cells
 
@@ -140,6 +174,17 @@ Carbon bookkeeping reminder for bioethanol: making 1 glucose fixes 6 CO₂. Ferm
 - Greenhouse effect vs enhanced greenhouse effect: the natural one makes the planet warm enough for life, while the enhanced one is additional warming caused by human emissions of CO₂ and similar gases.
 - Renewable vs carbon neutral: renewable is about the rate of replacement; carbon neutral is about net CO₂. A biofuel is renewable but is rarely fully carbon neutral.
 - Complete vs incomplete: the hydrogen always becomes water; only the carbon product changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--07-hydrogen-fuel-cell.webp" width="900" height="920" alt="A hydrogen fuel cell with acid electrolyte. H2 is oxidised at the negative anode, electrons flow through a lamp to the positive cathode, H+ ions cross the electrolyte, and O2 is reduced at the cathode to water." loading="lazy">
+  <figcaption>At the anode H2 is oxidised; at the cathode O2 is reduced; electrons flow anode to cathode through the circuit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--08-methanol-half-equation.webp" width="900" height="1130" alt="Four steps balance carbon, oxygen (add H2O), hydrogen (add H+) and charge (add e-) to give CH3OH + H2O -&gt; CO2 + 6H+ + 6e-. With the cathode 3/2 O2 + 6H+ + 6e- -&gt; 3H2O, the overall change is CH3OH + 3/2 O2 -&gt; CO2 + 2H2O." loading="lazy">
+  <figcaption>Balance C, O, H then charge to get the anode half-equation; the overall change equals burning methanol.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -56,6 +56,22 @@ All figures are invented and illustrative. Currency units are "cu". Also see the
 | Regulation | Legal limits or bans | Clear and quick | Enforcement cost; no reward beyond standard |
 | Information | Reduces information gaps | Cheap | May be ignored |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--01-specific-vs-ad-valorem-tax.webp" width="900" height="900" alt="A graph of tax per unit against pre-tax price. A specific tax of 1 cu is a flat line at 1.00; a 25% ad valorem tax rises from the origin to 1.00 at price 4, 1.50 at 6 and 2.00 at 8. They collect the same at price 4 and ad valorem takes more above it." loading="lazy">
+  <figcaption>A specific tax is flat per unit; an ad valorem tax grows with the price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--03-minimum-price-surplus.webp" width="900" height="970" alt="Wheat market with Qd = 600 - 10P and Qs = 20P - 300. A minimum price of 36 gives demand 240 and supply 420, a surplus of 180 tonnes. Buying the surplus costs 180 x 36 = 6,480; farmers receive 15,120 against 9,000 before." loading="lazy">
+  <figcaption>A price floor of 36 creates a surplus of 180 tonnes that costs 6,480 to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--04-tradeable-permits-saving.webp" width="900" height="1040" alt="Two stacked bars of abatement cost under a 150-tonne cap. Without trading J spends 500 and K 1,250, total 1,750. With trading J cuts 50 tonnes for 1,000 and K cuts none, total 1,000, a saving of 750." loading="lazy">
+  <figcaption>Permits let the firm with cheaper abatement do the cutting, saving 750 for the same cap.</figcaption>
+</figure>
+
+
 ## Method in steps: a tax or subsidy diagram
 
 1. Name the failure (external cost or benefit, information gap).
@@ -65,6 +81,17 @@ All figures are invented and illustrative. Currency units are "cu". Also see the
 5. Incidence: buyers bear the rise in price paid; sellers bear the fall in price received.
 6. Revenue or cost = quantity after intervention x rate per unit.
 7. Compare with the social optimum and judge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -80,6 +107,12 @@ All figures are invented and illustrative. Currency units are "cu". Also see the
 **Welfare triangle.** Area = 0.5 x base x height. The base is the gap between market quantity and optimum quantity; the height is the gap between marginal social benefit and marginal social cost at the market quantity. For example, a base of 20 units and a height of 3 cu give 0.5 x 20 x 3 = 30 cu.
 
 **Permit rule:** the firm with the lowest abatement cost sells permits; the firm with the highest cost buys. Both gain at any price between the two costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--09-bus-subsidy-welfare-gain.webp" width="900" height="880" alt="Demand D, supply S, marginal social benefit MSB (demand plus 1) and subsidised supply S1. The market is at 30 thousand journeys, the optimum and subsidised equilibrium at 35. The gold triangle between 30 and 35, height 1, has area 0.5 x 5 x 1 = 2.5." loading="lazy">
+  <figcaption>The welfare gain of the subsidy is the small triangle between market and optimum quantity, 2.5 thousand cu.</figcaption>
+</figure>
+
 
 ## Contexts (1c) in one line each
 
@@ -116,6 +149,17 @@ Test: welfare after intervention is lower than welfare before.
 | Excessive administrative costs | Collecting and policing uses resources | A scheme whose running cost exceeds its welfare gain |
 | Moral hazard | Protection leads to riskier behaviour | Full government cover of losses |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--05-government-failure-tax-too-high.webp" width="900" height="1040" alt="Fizzy drink market where the social optimum is 25 thousand litres. With no tax the welfare loss is 11.25. A tax set at 3.5 instead of 1.5 cuts output to 5, giving a loss of 20, so the net welfare loss from intervening is 8.75." loading="lazy">
+  <figcaption>A mis-set tax can leave society worse off than doing nothing, which is government failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--10-tax-admin-cost-net-loss.webp" width="900" height="820" alt="A waterfall: a correct tax removes a welfare loss of 11.25 but costs 12 to collect and police, so the net effect is minus 0.75 (thousand cu)." loading="lazy">
+  <figcaption>Even a well-set tax is government failure if administration costs more than the welfare it recovers.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Transfer versus welfare change: tax revenue and subsidy payments move money between groups; welfare changes only through the triangles.
@@ -150,6 +194,12 @@ Test: welfare after intervention is lower than welfare before.
 9. Most of the payment is a transfer from taxpayers; the welfare effect is the triangle gained, less the cost of raising the funds.
 10. The tax per unit is a fixed percentage of price, so it is larger at higher prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "demand shifts" when a tax or subsidy shifts supply.
@@ -164,3 +214,9 @@ Test: welfare after intervention is lower than welfare before.
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited. These notes cover section 1.3.6 items 1 and 2 of Unit 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+

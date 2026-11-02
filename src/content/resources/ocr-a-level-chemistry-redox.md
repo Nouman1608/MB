@@ -209,6 +209,17 @@ Every metal-with-dilute-acid reaction follows this pattern: the metal is oxidise
 
 For mole and gas-volume methods, see [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/). For the acid formulae and neutralisation, see [Acids](/resources/ocr-a-level-chemistry-acids/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+
 ## 2.1.5(f): Interpreting unfamiliar redox reactions
 
 Outcome (f) asks you to read any redox equation and make predictions from oxidation numbers and electron loss or gain; nitric acid and concentrated sulfuric acid reactions may appear. A routine:

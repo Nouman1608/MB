@@ -67,6 +67,12 @@ The specification's formulae section gives gross profit, gross profit margin, op
 | Net cash flow | Cash in − cash out |
 | Closing balance | Opening balance + net cash flow |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--02-vessingby-margins.webp" width="900" height="990" alt="Two stacked bars split revenue into cost of sales, other operating expenses and operating profit. Year 1: 240,000 revenue, 144,000, 60,000 and 36,000. Year 2: 276,000 revenue, 165,600, 82,800 and 27,600. Gross margin stays 40 percent but operating margin falls from 15 to 10 percent." loading="lazy">
+  <figcaption>Rising other operating expenses cut operating profit even though revenue grew 15%.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Percentage growth in steps**
@@ -145,6 +151,12 @@ Section 1.1 of the specification lists financial objectives (survival, profit, s
 | Cash flow problems/lack of finance | Customers pay late, bills due before receipts, no overdraft or loan | Cannot pay suppliers or staff |
 | Not competitive | Higher prices, weaker quality or service than rivals | Falling revenue and market share |
 | Failure to adapt to changes in the market | Tastes, technology or rivals change, business stays the same | Products become less wanted |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--03-norbeck-cash-balance.webp" width="900" height="1080" alt="A bar chart of closing balances for Norbeck Bikes: January 1,000, February minus 5,000, March minus 9,500, April minus 6,500, with a table of cash in, cash out and net cash flow beneath." loading="lazy">
+  <figcaption>The balance goes below zero in February and April does not erase the shortfall.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

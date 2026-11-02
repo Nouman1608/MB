@@ -60,6 +60,12 @@ The algebra agrees. TR = 60Q - 2Q², so MR = 60 - 4Q. MC = 12 + 2Q. Setting MR =
 
 Evaluation. The model assumes the firm knows its demand and costs, and that owners control the firm. Real managers often lack that information, and shareholders may not monitor them (the principal-agent problem). Profit maximisation is still a useful benchmark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--12-principal-agent-profit-gap.webp" width="900" height="900" alt="Owners hire managers but cannot see costs and demand well. Firm X's profit maximiser produces 8 at 44 for profit 12; a manager with a target of 9 can choose 7 at 46 and earn 9, 3 mu below the maximum." loading="lazy">
+  <figcaption>Managers may settle for less profit than owners want.</figcaption>
+</figure>
+
+
 ## 7.8.2 Other objectives
 
 **Survival.** A new or struggling firm may simply aim to stay in business. In the short run it must cover its average variable cost (AVC); in the long run it must cover all costs. Survival often means cutting prices to hold customers, or cutting costs.
@@ -82,6 +88,22 @@ Check with Firm X.
 At Q = 10, AR = 40 and AC = 400/10 = 40. An unconstrained revenue maximiser would go to Q = 15, but that loses 135 mu a week, so a firm with a no-loss constraint stops at 10. In this example the constraint makes revenue maximisation and sales maximisation give the same answer. With lower costs the firm could break even beyond Q = 15: the revenue maximiser would stop at 15 (MR = 0), while the sales maximiser would carry on to where AR = AC.
 
 Both objectives give a lower price and higher output than profit maximisation, which can benefit consumers, but leave less profit for reinvestment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--01-firm-x-objectives.webp" width="900" height="1030" alt="Profit for Firm X plotted against output. Point 1 (profit maximiser) is at 8 units with profit 12, point 2 (satisficer, target 9) at 7 units, point 3 (sales maximiser) at 10 units where profit is zero, and point 4 (revenue maximiser) at 15 units with profit -135." loading="lazy">
+  <figcaption>Each objective picks a different point on Firm X's profit curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--10-survival-cover-avc.webp" width="900" height="790" alt="Firm X at 12 units and a price of 36 mu earns revenue 432 against total cost 468 (variable 288, fixed 180). Revenue covers variable cost and 144 of fixed cost, leaving a loss of 36. Price 36 exceeds AVC 24, so it can trade in the short run, but is below AC 39, so it cannot in the long run." loading="lazy">
+  <figcaption>Survival needs price above AVC in the short run and above AC in the long run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
 
 ## 7.8.3 Price discrimination
 
@@ -125,6 +147,27 @@ With one price for all, the firm would sell 33 units at 30 mu and earn 33 × 22 
 - Welfare: in the ferry case total output stays at 33. Consumer surplus falls from 459 to 387, profit rises by 48, so total surplus falls from 1185 to 1161. Where discrimination opens a market that would otherwise not be served, welfare can rise.
 - Fairness, and the cost to the firm of separating its markets, are further points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--02-first-degree-discrimination.webp" width="900" height="1130" alt="Two bar charts for five customers who would pay 52, 46, 40, 34 and 28 mu with MC 20. With one price of 40 the tutor serves three, profit 60 and consumer surplus 18. With first-degree discrimination all five are served, profit is 100 and consumer surplus is zero." loading="lazy">
+  <figcaption>Perfect discrimination turns consumer surplus into profit and serves two more customers than a single price would.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--03-third-degree-ferry.webp" width="900" height="1060" alt="Two demand graphs with MC 8. Business travellers (P = 60 - Q) pay 34 for 26 trips, profit 676, PED 1.31. Leisure travellers (P = 36 - 2Q) pay 22 for 7 trips, profit 98, PED 1.57. Total 774 mu against 726 mu with one price of 30." loading="lazy">
+  <figcaption>Charging the less elastic market more adds 48 mu of profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--08-block-tariff-71.webp" width="900" height="860" alt="A step chart: 10 GB at 4 mu (40), 10 GB at 2.50 mu (25), 6 GB at 1 mu (6) give 71 mu for 26 GB, an average of 2.73 mu per GB. Price depends on quantity, not on who the buyer is." loading="lazy">
+  <figcaption>A block tariff charges less per GB as the quantity rises (71 mu for 26 GB).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--11-ferry-welfare.webp" width="900" height="880" alt="Stacked bars: with one price consumer surplus is 459 and profit 726 (total 1,185); with two prices consumer surplus is 387 and profit 774 (total 1,161). Consumer surplus falls 72, profit rises 48, total surplus falls 24." loading="lazy">
+  <figcaption>Discrimination shifts 72 mu of surplus from consumers; the firm gains 48 and total surplus falls 24.</figcaption>
+</figure>
+
+
 ## 7.8.4 Other pricing policies
 
 **Limit pricing.** An incumbent sets a price low enough to make entry unprofitable, while staying above its own cost. Illustration: demand P = 80 - Q and MC = AC = 20 for the incumbent. Monopoly price: MR = 80 - 2Q = 20, so Q = 30, P = 50, profit 900. A potential entrant has lowest AC of 35. A price just below it, 34, gives Q = 46 and profit 14 × 46 = 644. The firm gives up 256 mu of profit. If entry would push the price to 40 and cut the incumbent's sales to 20 units, its profit would fall to 400, so deterrence pays.
@@ -134,6 +177,17 @@ Limit pricing needs the incumbent to have a cost advantage and the threat to be 
 **Predatory pricing.** Pricing below cost (below AVC) to drive out rivals or stop entry, then raising prices once they have gone. Illustration: the incumbent's AVC is 18, its rival's 22, and the usual price 26 with sales of 200 units a month (margin 1,600 mu). The incumbent cuts to 15 and sells 280 units, a monthly margin of -840 mu. Over four months the profit given up is 4 × (1,600 + 840) = 9,760. If the rival exits and the incumbent then sells 150 units at 34, its margin is 2,400 a month, 800 more than before, so recovery takes 9,760 / 800 = 12.2 months. It only pays if barriers stop the rival returning. Competition authorities treat it as anti-competitive, and proving it is hard.
 
 **Price leadership.** One firm changes its price and the others follow. A dominant firm leader is the largest. A barometric leader is the one best placed to read market conditions. Firms like the stability, but it can be tacit collusion. Followers risk losing share if a rival does not follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--05-limit-pricing.webp" width="900" height="1010" alt="Demand P = 80 - Q, MC = AC = 20. Monopoly price 50 gives profit 900. A limit price of 34, just below the entrant's lowest AC of 35, gives profit 644. If the entrant joined, the incumbent would earn 400, so deterrence pays." loading="lazy">
+  <figcaption>Limit pricing gives up 256 mu but beats the 400 mu earned after entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--09-predatory-pricing-payback.webp" width="900" height="850" alt="Cumulative profit versus not cutting price: it falls 2,440 mu a month for 4 months to -9,760, then rises 800 a month once the rival has exited, returning to zero after 12.2 more months (16.2 in total)." loading="lazy">
+  <figcaption>Predatory pricing costs 9,760 mu and takes 12.2 months to recover, if the rival stays out.</figcaption>
+</figure>
+
 
 ## 7.8.5 PED and revenue
 
@@ -164,6 +218,17 @@ Illustration: price 50, output 20. Above the kink, P = 70 - Q. A rise to 55 cuts
 The MR curve has a vertical gap at Q = 20: MR is 30 on the upper section (70 - 2Q) and -50 on the lower (150 - 10Q). Any MC curve passing through this gap leaves price and output unchanged.
 
 Limits: the theory does not explain how the price was set, and firms do sometimes change prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--04-kinked-demand.webp" width="900" height="900" alt="Demand is kinked at output 20 and price 50. A rise to 55 cuts revenue from 1,000 to 825 and a cut to 45 cuts it to 945. Marginal revenue jumps from 30 to -50 at output 20, so any MC through the gap leaves price and output unchanged." loading="lazy">
+  <figcaption>Either price move loses revenue and MR has a vertical gap, so price stays at 50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## Common errors
 

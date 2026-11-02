@@ -73,6 +73,27 @@ Quick-recall notes for **syllabus section 5.2 Partnerships**, Cambridge IGCSE Ac
 **Why it matters:** it fixes the rules in advance, so the accounts can be prepared and disputes are less likely.
 **Contents to list:** each partner's capital, the ratio, interest rates (capital, drawings, loans), salaries and drawings limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-pa-agreement-terms.webp" width="900" height="880" alt="Seven agreement terms are linked to where they appear. Capital goes to the capital account and loan interest is a business expense. Interest on capital and salaries are deducted, interest on drawings is added and the ratio divides the balance in the appropriation account. Drawings are debited to current accounts." loading="lazy">
+  <figcaption>Every term in the agreement decides a figure in the capital, profit or loss, appropriation or current accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+
 ## Where each item is placed
 
 | Item | Statement | Direction |
@@ -84,6 +105,12 @@ Quick-recall notes for **syllabus section 5.2 Partnerships**, Cambridge IGCSE Ac
 | Share of profit | Appropriation account, balance | Credit current account |
 | Share of loss | Appropriation account, balance | Debit current account |
 | Drawings | Not in either statement | Debit current account |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--04-capital-vs-current-account.webp" width="900" height="962" alt="Quill's capital account stays at 55,000 dollars. His current account moves through interest, salary, loan interest, profit share, drawings and interest on drawings to a debit balance of 5,020 dollars, so capital less that balance gives 49,980 dollars in the statement of financial position." loading="lazy">
+  <figcaption>Capital is fixed; the current account collects the year's movements and can end in debit.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -178,6 +205,17 @@ $5,000 = (
 $3,000), a loss. Shared equally, each partner is debited 
 $1,500 in the current account, while interest and the salary are still credited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-loss-after-appropriations.webp" width="900" height="830" alt="Profit of 11,600 dollars plus 600 interest on drawings, less 6,000 interest on capital and 17,500 of salaries, leaves a loss of 11,300 dollars. It is shared 2:2:1 as 4,520, 4,520 and 2,260 dollars and debited to the current accounts." loading="lazy">
+  <figcaption>When interest and salaries exceed profit the shortfall is a loss shared in the agreed ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -241,6 +279,12 @@ $26,300.
 - Leaving a debit current account out of the statement of financial position, or adding it instead of deducting it.
 - Placing a partner's loan inside capital.
 - Giving advantages without relating them to the facts in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -76,9 +76,36 @@ Use them to compare the stability of benzene with that of the triene.
 
 On an energy diagram, put cyclohexane at the bottom. Benzene + 3H₂ sits 206 kJ mol⁻¹ above it and the triene + 3H₂ sits 354 kJ mol⁻¹ above it. The 148 kJ mol⁻¹ gap between those two upper levels is the extra stability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+
 ### Why substitution, not addition
 
 If an electrophile added across the ring, the product would no longer have a complete delocalised ring, so it would lose that extra stability. Swapping one H for another group leaves the ring of delocalised electrons whole. So benzene's reactions with electrophiles are substitutions. The spread-out electron density also means benzene needs a stronger electrophile than an alkene does, usually a positive ion or a highly polarised molecule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
 
 ## Electrophilic substitution (3.3.10.2)
 
@@ -104,6 +131,12 @@ The ring attacks the nitrogen of NO₂⁺. After the intermediate loses H⁺, be
 **Methylbenzene.** The methyl group pushes electron density into the ring, so methylbenzene is attacked faster than benzene and is nitrated at a lower temperature. Attack happens mainly at positions 2 and 4, giving a mixture of **2-nitromethylbenzene** and **4-nitromethylbenzene** (also named 1-methyl-2-nitrobenzene and 1-methyl-4-nitrobenzene). The mechanism is unchanged.
 
 **Why nitration matters.** Nitration is an important step in synthesis. Rings carrying several nitro groups are used as explosives. Reducing a nitro group gives an aromatic amine (section 3.3.11).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
 
 ### Sulfonation
 
@@ -148,6 +181,17 @@ Both reactions join a new carbon chain to the ring, which is why acylation is an
 5. Percentage yield = 13.5 / 18.0 × 100 = **75.0%**.
 6. Minimum mass of 2-chloropropane (Mr 78.5): 0.150 × 78.5 = **11.8 g**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
+
 ## Free-radical attack by chlorine (3.3.10.2)
 
 Without a catalyst but with **ultraviolet light**, chlorine reacts by a radical mechanism, not an electrophilic one. Initiation is the same as for alkanes: Cl₂ → 2Cl• (UV light).
@@ -184,6 +228,12 @@ Compare (chloromethyl)benzene, C₆H₅CH₂Cl, with chlorobenzene, C₆H₅Cl, 
 - **Ring.** One lone pair on Cl overlaps with the ring's delocalised electrons. The C–Cl bond gains partial π character; it becomes shorter and harder to break. The cloud of delocalised electrons also repels an approaching nucleophile. So chlorobenzene does not undergo nucleophilic substitution under normal conditions.
 
 Chlorine in the side chain is therefore **much more reactive** than chlorine on the ring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
 
 ## Common errors
 

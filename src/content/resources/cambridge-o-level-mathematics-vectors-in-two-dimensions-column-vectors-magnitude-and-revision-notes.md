@@ -82,6 +82,17 @@ Vectors are printed as AB or a. In handwriting, use an arrow over AB and underli
 2. State that the sides are parallel and the triangles similar.
 3. Lengths scale by k, areas by k².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--01-column-vector-translation.webp" width="900" height="960" alt="A grid showing the translation (minus 3, 5). A (2, minus 1) moves left 3 and up 5 to A prime (minus 1, 4), and P (1, 2) moves by the same vector to P prime (minus 2, 7). The two arrows are parallel and equal in length." loading="lazy">
+  <figcaption>A column vector gives the move across and up, and every point moves by the same vector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--02-triangle-rule.webp" width="900" height="1020" alt="Points A (0,0), B (4, minus 3), C (2, 2). AB is the column 4 over minus 3 and BC, starting where AB ends, is minus 2 over 5. The direct route AC is 2 over 2, which is their sum." loading="lazy">
+  <figcaption>Going A to B then B to C is the same as going straight from A to C.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Translation.** A(5, 2) is mapped to A'(1, 6). The vector is (1 − 5, 6 − 2) = (−4, 4).
@@ -124,6 +135,12 @@ CM = CO + OA + AM = −c + a + ½c = a − ½c
 | Three position vectors | Whether the points are collinear | Find two joining vectors |
 | A line parallel to a side | Area or length of a smaller triangle | Scale factor k, then k² for area |
 | Two routes to one point | An equation for an unknown | Compare the a parts and the b parts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--04-position-vectors.webp" width="900" height="1070" alt="Points A (3, 1) and B (minus 1, 5) with position vectors a and b from O. AB = b minus a = (minus 4, 4), of magnitude 4 root 2. The midpoint M is at (1, 3), half of a plus b." loading="lazy">
+  <figcaption>AB = OB − OA: end minus start, and the midpoint is half the sum of the position vectors.</figcaption>
+</figure>
+
 
 ## Checking your work
 
@@ -172,6 +189,12 @@ CM = CO + OA + AM = −c + a + ½c = a − ½c
 11. The two translations together give (2 − 6, −5 + 1) = (−4, −4). The vector that undoes them is **(4, 4)**.
 12. OQ = 3 OP, so OP and OQ are parallel. They share the point O, so **O, P and Q are collinear**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--05-ratio-parallel-similar.webp" width="900" height="1060" alt="Triangle OAB with M on OA and N on OB, each dividing the side 2 to 3 from O. MN is two fifths of AB, so parallel to it, and triangle OMN is similar with lengths 2 to 5 and areas 4 to 25, giving 8 square centimetres from 50." loading="lazy">
+  <figcaption>Points dividing two sides in the same ratio give a parallel line and a similar triangle with area ratio 4 : 25.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Reversing a subtraction and giving OA − OB for AB, which flips both signs.
@@ -185,6 +208,12 @@ CM = CO + OA + AM = −c + a + ½c = a − ½c
 - Using letters that the question did not define, instead of a and b.
 - Mixing up the order of letters, so that the final answer points the wrong way.
 - Leaving an unsimplified answer such as (2/5)a + (3/5)b − (1/5)b when asked for a single expression.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--03-magnitude-pythagoras.webp" width="900" height="900" alt="The vector minus 7 over 24 is the hypotenuse of a right-angled triangle with sides 7 and 24. 49 + 576 = 625 and the square root is 25, so the magnitude is 25. Signs vanish when squared." loading="lazy">
+  <figcaption>The magnitude of (x, y) is the hypotenuse of a right-angled triangle with sides x and y.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

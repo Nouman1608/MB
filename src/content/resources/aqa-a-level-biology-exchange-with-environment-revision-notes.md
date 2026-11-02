@@ -80,6 +80,27 @@ The two sets of intercostals are antagonistic: one raises the ribs, the other lo
 
 **Lung disease and risk factors:** be ready to read tables and graphs on lung disease (for example reduced lung elasticity, thickened or scarred tissue, fewer alveoli) and its effect on gas exchange or ventilation. A correlation between smoking or pollution and disease does not alone prove cause. Stronger evidence combines a dose-response trend, controlled comparison groups and an explained mechanism. Be able to evaluate how such data led to laws restricting a risk factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--03-alveolar-gradients.webp" width="900" height="850" alt="Graph of partial pressure along an alveolar capillary. Alveolar oxygen is 13.3 kPa. Blood oxygen rises from 5.3 to 13.1 kPa, so the gap shrinks from 8.0 to 0.2 kPa. Blood carbon dioxide starts at 6.1 kPa against 5.3 kPa in the air, a gap of 0.8 kPa." loading="lazy">
+  <figcaption>The oxygen gradient is steep when blood arrives and almost gone by the end of the capillary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
+  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--05-fish-countercurrent.webp" width="900" height="1150" alt="Two panels compare parallel flow with counter-current flow in a five-segment model of a gill lamella. With parallel flow, water and blood both settle at 50 percent oxygen saturation. With counter-current flow, blood leaves at 83 percent because the water is always at higher saturation than the adjacent blood." loading="lazy">
+  <figcaption>Opposite flows keep a gradient along the whole lamella, so more oxygen is taken up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--06-insect-tracheae.webp" width="900" height="1050" alt="Cross-section of an insect. Air enters through spiracles, passes along tracheae and ends in fine tracheoles beside muscle cells, delivering oxygen directly. The abdomen squeezing helps move air in larger or active insects." loading="lazy">
+  <figcaption>Insects deliver air straight to the tissues through tracheae and tracheoles.</figcaption>
+</figure>
+
+
 ## 3.3.3 Digestion and absorption
 
 Digestion is hydrolysis: large molecules are split by water into units small enough to cross membranes.
@@ -94,6 +115,17 @@ Digestion is hydrolysis: large molecules are split by water into units small eno
 
 - Monosaccharides and amino acids: sodium ions are pumped out of the epithelial cell by active transport, which lowers the internal sodium concentration. Sodium then enters down its gradient through a carrier protein that carries glucose or an amino acid with it (co-transport). The solute builds up in the cell, then leaves by facilitated diffusion into blood.
 - Lipids: bile salts help form tiny micelles holding monoglycerides and fatty acids. Micelles bring these to the cell surface, so they keep a high local concentration there. The lipids are lipid-soluble and diffuse across the membrane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--07-ileum-villus.webp" width="900" height="1010" alt="A finger-shaped villus lined by one layer of epithelial cells with microvilli. Inside are blood capillaries and a central lacteal. A model villus with radius 0.10 mm and height 1.0 mm has a curved area 20 times its footprint." loading="lazy">
+  <figcaption>Villi and microvilli give a huge surface; capillaries and the lacteal carry absorbed products away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--08-cotransport-glucose.webp" width="900" height="1040" alt="An ileum epithelial cell with gut lumen above and blood below. A pump in the blood-side membrane moves sodium ions out using ATP, keeping sodium low inside the cell. Sodium ions re-enter through a co-transporter carrying glucose, which builds up and leaves into blood by facilitated diffusion." loading="lazy">
+  <figcaption>Sodium ions pumped out of the cell drive glucose in through a co-transporter.</figcaption>
+</figure>
+
 
 ## 3.3.4.1 Mass transport in animals
 

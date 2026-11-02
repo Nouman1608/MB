@@ -54,6 +54,12 @@ These notes condense Component 03, **Themes in economics**, of the OCR *A Level 
 5. Choose two or three models that fit the evidence.
 6. Chain from cause to effect, then judge against a stated criterion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--06-six-step-method.webp" width="900" height="1000" alt="Six numbered steps: name the setting, list the actors, find the shock, sort the evidence into micro and macro, pick two or three models, then build the chain and judge." loading="lazy">
+  <figcaption>A six-step route for analysing an unseen theme.</figcaption>
+</figure>
+
+
 ## Link bank
 
 | Starting point | Micro effect | Macro effect |
@@ -81,6 +87,17 @@ Rise in total costs     = 43.2 / 1,000 = 4.32%
 
 Micro: inelastic demand for an input means firms cannot adjust quickly, so spending rises. The cost rise is 4.32%, less than the 28.8% rise in the energy bill, because energy is only 15% of costs. Macro: when many firms face the same shock, short-run aggregate supply shifts left. Prices rise and output falls: stagflationary pressure. Evaluation: the effect depends on the share of energy in costs, whether it is temporary, how fast firms can switch inputs, and the strength of spare capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--07-micro-macro-link-bank.webp" width="900" height="940" alt="Three micro-to-macro links (costs shift short-run AS left, inelastic housing supply raises the price index, pollution lowers sustainability of growth) and three macro-to-micro links (interest rates, falling AD, a higher exchange rate)." loading="lazy">
+  <figcaption>Good links name the mechanism and run in both directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## Quantitative toolkit
 
 | Skill | Formula or rule | Reminder |
@@ -96,6 +113,22 @@ Micro: inelastic demand for an input means firms cannot adjust quickly, so spend
 | Revenue and profit | TR = P x Q; AR = TR / Q; profit = TR - TC | Average profit = AR - AC |
 | Ratios | Share = part / whole | Express as a fraction, ratio or percentage |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--04-mean-vs-median-pay.webp" width="900" height="940" alt="Five bars of weekly pay (220, 240, 250, 260, 530) with a mean line at 300 and a median line at 250. The 530 pulls the mean above the typical rider." loading="lazy">
+  <figcaption>One high value pulls the mean up, so the median describes a typical rider better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--08-bakery-energy-profit.webp" width="900" height="960" alt="Revenue stays 1,500. Cost rises from 1,260 to 1,332 when energy costs rise 40 percent, so profit falls from 240 to 168, a fall of 30 percent." loading="lazy">
+  <figcaption>A 40% rise in energy costs cuts the bakery profit by 30%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--09-index-points-vs-percent.webp" width="900" height="900" alt="An employment index rises from 115 to 130: 15 index points, which is 13.0 percent, not 15 percent." loading="lazy">
+  <figcaption>Index points and percentage change are different measures.</figcaption>
+</figure>
+
+
 ## Multiple-choice and extended-response reminders
 
 - Answer a numerical multiple-choice question before looking at the options.
@@ -103,6 +136,17 @@ Micro: inelastic demand for an input means firms cannot adjust quickly, so spend
 - In extended answers, name the concept, apply it with the theme's evidence, link it across micro and macro, then qualify it.
 - Evaluate through time (short run, long run), scale (small or large change), stakeholders and trade-offs.
 - Finish with a judgement and the factor that would change it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--10-ao-weights.webp" width="900" height="910" alt="The four assessment objectives carry 9, 9, 8.33 and 7 percent of the qualification, together 33.33 percent for Component 03, with a one-line meaning of each." loading="lazy">
+  <figcaption>AO1 to AO4 weights for Component 03 and what each rewards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## Worked reminder: real pay
 
@@ -115,6 +159,12 @@ Real pay growth  = 0%
 ```
 
 Pay rose in money terms but bought nothing extra. At macro level this limits consumption growth; at micro level it limits the quantity of normal goods a household buys.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--03-real-pay-vs-nominal.webp" width="900" height="960" alt="Rider pay rose from 9.00 to 9.45 (+5.0%) but prices rose 8%, so pay in year 1 prices is 8.75, a fall of 2.78%. The vertical axis starts at 8.00." loading="lazy">
+  <figcaption>Nominal pay can rise while real pay falls.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

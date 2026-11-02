@@ -44,6 +44,12 @@ Condensed notes for topic 6, Accounting and financial considerations, in OCR A L
 | Qualitative | Loss of control? Attitude to risk? |
 | External influences | Interest rates, economy, credit availability? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
+
 ## Accounting concepts
 
 - True and fair view: accounts free from material error and bias.
@@ -69,6 +75,17 @@ Condensed notes for topic 6, Accounting and financial considerations, in OCR A L
 - Full costing: all costs charged to units. Absorption costing: overheads added by a rate (for example overheads / total hours). Marginal costing: only variable costs per unit; fixed costs are a period cost.
 - Allocation of overheads changes reported product profit, and so pricing and drop decisions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--06-fenwick-income-statement.webp" width="900" height="1030" alt="Waterfall in thousands of pounds from revenue 800 to retained profit 40, via gross profit 320, operating profit 100 and profit for the year 64; gross margin 40% and net margin 8%." loading="lazy">
+  <figcaption>Each deduction takes revenue down to the profit left for owners.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--02-absorption-rate.webp" width="900" height="910" alt="Overheads of 90,000 divided by 9,000 labour hours give 10 pounds an hour. Product A uses 6,000 hours and absorbs 60,000; Product B uses 3,000 hours and absorbs 30,000. Marginal costing charges only variable costs." loading="lazy">
+  <figcaption>Absorption costing shares overheads by an hourly rate; marginal costing leaves fixed costs out of unit cost.</figcaption>
+</figure>
+
+
 ## Break-even analysis
 
 | Item | Calculation |
@@ -90,6 +107,17 @@ Method in steps for a change question:
 - Special order: accept if contribution is positive, there is spare capacity and regular sales are unaffected.
 - Limits: assumes constant price and costs, and that all output is sold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--01-harrow-break-even.webp" width="900" height="1030" alt="Break-even chart for Harrow Kiln mugs: fixed cost flat at 24,000, total cost and revenue lines cross at 4,000 mugs and 40,000 pounds. Loss to the left, profit to the right; at 5,000 mugs profit is 6,000 and the margin of safety is 1,000 mugs (20%)." loading="lazy">
+  <figcaption>Revenue crosses total cost at 4,000 mugs; the gap to actual output is the margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--02-harrow-break-even-changes.webp" width="900" height="990" alt="Four bars of break-even output: 4,000 mugs to start, 4,500 if fixed costs rise to 27,000, 4,800 if variable cost rises to 5 pounds, about 3,429 if price rises to 11 pounds." loading="lazy">
+  <figcaption>Higher costs raise break-even; a higher price lowers it.</figcaption>
+</figure>
+
+
 ## Investment appraisal
 
 | Method | How | Main weakness |
@@ -102,11 +130,28 @@ Method in steps for a change question:
 - Positive NPV adds value; accept if the rate is realistic.
 - Qualitative aspects: risk, staff, brand, strategic fit, environmental impact. Recommend by balancing both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--03-brindle-npv.webp" width="900" height="970" alt="Brindle Mill inflows of 30,000, 40,000, 50,000 and 30,000 pounds are multiplied by 0.926, 0.857, 0.794 and 0.735 to give present values totalling 123,810; less 100,000 gives NPV of plus 23,810." loading="lazy">
+  <figcaption>Discounting shrinks later cash; NPV is total present value less the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--01-brindle-payback-arr.webp" width="900" height="1060" alt="Bars of the running total of inflows for Brindle Mill: 30,000, 70,000, 120,000 and 150,000 against a 100,000 cost line. The total passes the cost in year 3, giving payback of 2.6 years. ARR is average annual profit 12,500 over cost 100,000, which is 12.5 percent." loading="lazy">
+  <figcaption>The running total of inflows crosses the 100,000 cost 2.6 years in; ARR averages the profit over the cost.</figcaption>
+</figure>
+
+
 ## Budgets and variances
 
 - Budget: plan for a future period. Variance: actual minus budget, labelled favourable (raises profit) or adverse (lowers profit).
 - Higher revenue than planned is favourable, while higher costs than planned are adverse.
 - Benefits: control, coordination, motivation. Risks: unrealistic targets, rigid, imposed budgets, variances not investigated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--05-kestrel-variances.webp" width="900" height="840" alt="Waterfall from budgeted profit 50,000 through sales 6,000 adverse, materials 4,000 adverse and labour 1,500 favourable to actual profit 41,500, a variance of 8,500 adverse." loading="lazy">
+  <figcaption>Adverse variances lower profit; favourable ones raise it.</figcaption>
+</figure>
+
 
 ## Cash-flow and working capital
 
@@ -117,6 +162,12 @@ Method in steps for a change question:
 - Fixes: overdraft, delay payments, speed up collection, cut inventory, sale and leaseback, cut costs. Evaluate cost, risk and speed.
 - Working capital = current assets - current liabilities. Working capital cycle: cash out for inventory, then production, sale, credit period, cash in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--04-kestrel-cash-forecast.webp" width="900" height="870" alt="Kestrel Fold Tile closing cash 3,000, 6,000 and minus 1,000 over three months; a 10 percent fall in month 3 receipts gives minus 2,800." loading="lazy">
+  <figcaption>A firm can show profit yet still go overdrawn.</figcaption>
+</figure>
+
+
 ## Final accounts
 
 Income statement layout, top to bottom: revenue; less cost of sales gives gross profit; less operating expenses gives operating profit; less interest gives profit before tax (PBT); taking off tax gives profit for the year; taking off dividends gives retained profit.
@@ -125,6 +176,12 @@ Statement of financial position layout: start with non-current assets, add curre
 
 - Asset valuation: non-current assets at cost less depreciation; inventory at cost or net realisable value, whichever is lower; receivables less bad debts; patents and goodwill intangible and subjective; investments at cost or market value.
 - Depreciation: straight line = (cost - residual value) / life. Reducing balance = fixed percentage of net book value. Provision matches cost to use and avoids overstated profit. It reduces profit and asset value, not cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--03-fenwick-sofp.webp" width="900" height="1060" alt="Two equal stacks in thousands of pounds: assets 670 (non-current 500, inventory 60, receivables 90, cash 20) and funding 670 (payables 110, non-current liabilities 200, share capital 200, retained earnings 160). Net assets of 360 equal equity of 360." loading="lazy">
+  <figcaption>Assets less liabilities leave net assets of 360, which equal shareholders' equity.</figcaption>
+</figure>
+
 
 ## Ratios
 
@@ -183,6 +240,12 @@ Capital employed = equity + non-current liabilities. These are standard forms; u
 10. 90,000 / (210,000 + 90,000) x 100 = **30%**.
 11. Cash-flow is money actually received and paid; profit is revenue less costs, which includes credit sales and non-cash items, so a profitable business can still run short of cash.
 12. The time from paying for inventory, through production, sale and the credit period, to receiving cash from customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-accounting-and-financial-considerations--04-kiln-depreciation.webp" width="900" height="920" alt="Straight line charges 8,000 a year on a 52,000 kiln (net book value 44,000 then 36,000). Reducing balance at 20 percent charges 10,400 then 8,320 (net book value 41,600 then 33,280)." loading="lazy">
+  <figcaption>Reducing balance charges more in the early years; neither method changes cash.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

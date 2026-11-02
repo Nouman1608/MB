@@ -57,6 +57,12 @@ Rules to recall:
 - Field strongest at the poles; weaker further away; closer lines = stronger field.
 - A compass points along the Earth's magnetic field, which is evidence that the Earth's core is magnetic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--14-poles-induced.webp" width="900" height="1150" alt="Bar magnets: unlike poles attract and like poles repel. An iron nail near a permanent magnet becomes an induced magnet and holds a paperclip; when the magnet is removed the nail loses its magnetism and the paperclip falls." loading="lazy">
+  <figcaption>Like poles repel, unlike attract; an induced magnet is magnetic only while in another field.</figcaption>
+</figure>
+
+
 ## Method in steps: plotting a field with a compass
 
 ```
@@ -76,6 +82,32 @@ Rules to recall:
 - Demonstrate: compass beside a wire deflects when the current flows, and the other way when it is reversed.
 - Devices (relay, bell): current on → core magnetised → iron armature attracted → contacts move. Current off → core loses magnetism → spring returns armature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--01-wire-field.webp" width="900" height="760" alt="Two end-on views of a straight wire. With current towards you the field is concentric circles with arrows anticlockwise; with current away from you they are clockwise. The circles are closer together near the wire, so the field is stronger there. The right-hand grip rule gives the direction." loading="lazy">
+  <figcaption>Reversing the current reverses the field, and the field is strongest close to the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--02-solenoid-field.webp" width="900" height="850" alt="Side view of a solenoid with dots along the top and crosses along the bottom for the current. Field lines run through the inside as parallel, evenly spaced lines to the right, leave at the north end and curve round the outside to the south end, like a bar magnet." loading="lazy">
+  <figcaption>Inside a solenoid the field is strong and uniform; outside it looks like the field of a bar magnet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--11-relay-electromagnet.webp" width="900" height="1090" alt="A coil on an iron core is an electromagnet. In a relay a small current in the coil magnetises the core, which pulls an iron armature; the contacts close and a large current flows through a lamp or motor. With the current off the core loses its magnetism and a spring pulls back." loading="lazy">
+  <figcaption>A relay lets a small current switch a large one using an electromagnet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--12-compass-earth-field.webp" width="900" height="1160" alt="A line of dots, each marked where a plotting compass points, runs from the north pole of a bar magnet round to its south pole. Compasses placed around the Earth line up with its field, showing the core is magnetic." loading="lazy">
+  <figcaption>Plot a field by marking compass positions; compasses lining up with the Earth’s field show the core is magnetic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
+
 ## Equations -- Higher tier only (all on the equation sheet)
 
 | Equation | Symbols and units |
@@ -85,6 +117,22 @@ Rules to recall:
 | Vs × Is = Vp × Ip | power out = power in (100% efficient transformer), W |
 
 Also useful from Electricity: P = V I and P = I² R.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--05-alternator-dynamo.webp" width="900" height="920" alt="Two p.d. against time graphs. The alternator, using slip rings, gives a sine wave that goes positive and negative. The dynamo, using a split-ring commutator, gives humps that stay on one side of zero. Dashed curves show twice the speed: a bigger peak and more cycles." loading="lazy">
+  <figcaption>Slip rings give a.c.; a split-ring commutator gives d.c.; faster spinning gives a larger peak and more cycles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--13-speaker-microphone.webp" width="900" height="1150" alt="The same parts: a magnet, a coil and a cone or diaphragm. In a loudspeaker an alternating current in the coil gives a force, the cone moves and makes sound. In a moving-coil microphone sound moves the diaphragm and coil, a p.d. is induced and the current varies like the sound." loading="lazy">
+  <figcaption>A microphone is a loudspeaker in reverse: motor effect one way, generator effect the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1278" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
+  <figcaption>The split-ring commutator reverses the coil current every half turn so the forces keep turning the coil the same way.</figcaption>
+</figure>
+
 
 ## Motor effect -- Higher tier only (4.7.2.2–4.7.2.4)
 
@@ -96,6 +144,12 @@ Also useful from Electricity: P = V I and P = I² R.
 - **Loudspeaker/headphones**: ac in coil in a permanent magnet's field → force reverses as current reverses → cone vibrates → pressure variations = sound.
 
 Worked reminder: 25 cm of wire, 1.2 A, 0.50 T, at right angles → F = 0.50 × 1.2 × 0.25 = **0.15 N**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--03-motor-effect-force.webp" width="900" height="1085" alt="Four views of a wire between magnet poles. Normal: field left to right, current towards you, force up. Reverse the current: force down. Reverse the field: force down. Reverse both: force up again. With B = 0.20 T, I = 3.0 A and l = 0.15 m the force is 0.090 N." loading="lazy">
+  <figcaption>Reversing either the current or the field reverses the force; reversing both leaves it unchanged.</figcaption>
+</figure>
+
 
 ## Generator effect -- Higher tier only (4.7.3)
 
@@ -113,12 +167,24 @@ Worked reminder: 25 cm of wire, 1.2 A, 0.50 T, at right angles → F = 0.50 × 1
 - Faster rotation → higher peaks and more cycles per second.
 - **Microphone**: sound moves diaphragm and coil in a magnet's field → p.d. induced → current varies like the sound.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--04-generator-effect.webp" width="900" height="1130" alt="Three panels: pushing the north pole into a coil makes the near end a north pole and the meter deflects one way; pulling it out makes the near end a south pole and the meter deflects the other way; holding the magnet still gives zero." loading="lazy">
+  <figcaption>A p.d. is induced only while the magnet or field is changing, and the induced current opposes the change.</figcaption>
+</figure>
+
+
 ## Transformers and the National Grid -- Higher tier only (4.7.3.4)
 
 - Primary coil and secondary coil on an **iron core** (easily magnetised).
 - ac in primary → changing field in core → changing field through secondary → alternating p.d. induced in secondary.
 - Step-up: Vs > Vp, ns > np. Step-down: Vs < Vp, ns < np.
 - High p.d. transmission: same power at higher V means lower I, so less I²R heating in cables and less energy wasted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-magnetism-and-electromagnetism--15-charger-grid-numbers.webp" width="900" height="1170" alt="A phone charger: 1150 primary turns at 230 V, 60 secondary turns at 12 V and 2.3 A, giving 27.6 W out and 0.12 A in. Sending 1.0 MW through 5.0 ohms: 40 A and 8000 W lost at 25 kV, 2.5 A and 31.25 W at 400 kV, 256 times less." loading="lazy">
+  <figcaption>Worked examples 3 to 5: the charger transformer and the grid loss at two voltages.</figcaption>
+</figure>
+
 
 ## Method in steps: transformer problems
 

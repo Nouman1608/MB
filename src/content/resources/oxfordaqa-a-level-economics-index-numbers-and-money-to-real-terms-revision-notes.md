@@ -60,6 +60,17 @@ These notes condense quantitative skills QS5 (calculate and interpret index numb
 
 Reminder: a bakery's output is 250 units in the base year and 275 units later. The index is 275 / 250 x 100 = 110, so output is 10% above the base year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--01-rebase-index.webp" width="900" height="1040" alt="Two bar charts of retail sales volume. With 2019 as base the index is 100, 105, 95, 110, 115. Dividing each by 95 and multiplying by 100 makes 2021 the base: 105.3, 110.5, 100, 115.8, 121.1. The shape is unchanged." loading="lazy">
+  <figcaption>Rebasing moves the 100 to a new year without changing the pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--07-un227-ix-points-vs-percent.webp" width="900" height="900" alt="Two number lines. A price index from 105.5 to 109.2 is +3.7 points and 3.5% inflation. A sales index from 110 to 115 is +5 points but only 4.5%." loading="lazy">
+  <figcaption>Index points are measured against 100; percentage change is measured against the earlier year.</figcaption>
+</figure>
+
+
 ## Method in steps: weighted index
 
 1. Multiply each category index by its weight.
@@ -70,6 +81,17 @@ Reminder: weights 60 and 40 with category indices 110 and 95 give (60 x 110 + 40
 
 A larger weight means a given price change moves the overall index more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--06-un227-ix-weighted-index.webp" width="900" height="980" alt="Bars whose width is the weight and whose height is the index points above 100 for food, housing, transport, leisure and other. A solid line marks the weighted index 109.2 and a dashed line the unweighted average 108.2." loading="lazy">
+  <figcaption>Weights 35/25/15/10/15 give a weighted index of 109.2, against a plain average of 108.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
+
 ## Method in steps: money to real terms
 
 1. Identify the price index and its base year.
@@ -79,6 +101,22 @@ A larger weight means a given price change moves the overall index more.
 5. Compare real values, or work out real growth, to say what happened to purchasing power.
 
 Reminder: nominal income 5,250 with a price index of 105 gives 5,250 / 105 x 100 = 5,000 in base-year prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--02-money-to-real-wage.webp" width="900" height="920" alt="A wage of 2,000 in the base year rises to 2,300 in year 5, up 15.0 percent. With a price index of 109.2 the real wage is 2,106.2, up only 5.3 percent. The 193.8 difference is the effect of higher prices." loading="lazy">
+  <figcaption>Deflating shows that most of the 15% money rise was inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--08-un227-ix-real-gdp.webp" width="900" height="900" alt="Paired bars for years 1 to 3: nominal GDP 800, 860, 930 and real GDP 800.0, 826.9, 845.5 in year 1 prices. Nominal growth is 7.5% and 8.1%; real growth is 3.4% and 2.2%." loading="lazy">
+  <figcaption>Deflating nominal GDP by the price index shows real growth is lower than nominal growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -102,6 +140,12 @@ Reminder: nominal income 5,250 with a price index of 105 gives 5,250 / 105 x 100
 **A real price.** A product costs 6.00 in the base year and 7.50 when the price index is 125. The nominal price rose 25%. The real price is 7.50 / 125 x 100 = 6.00, so it is unchanged in real terms: it kept pace with prices in general.
 
 **Two series, one base.** If two indices share a base year, compare their growth by comparing their values in a later year, for example 126 and 138 mean 26% and 38% growth. If the base years differ, rebase one of them first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
 
 ## Linking to other topics
 
@@ -157,6 +201,12 @@ Reminder: nominal income 5,250 with a price index of 105 gives 5,250 / 105 x 100
 - Reading an index of 120 and an index of 90 as actual price levels.
 - Dropping the division by total weights in a weighted index.
 - Concluding that living standards rose from nominal data alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--09-un227-ix-real-growth-approx.webp" width="900" height="960" alt="A graph of real growth against inflation for 9% nominal growth. The line 9 minus inflation and the exact line 1.09 divided by (1 plus inflation) nearly coincide at small rates and part at higher rates. At 6% they give 3.0% and 2.8%." loading="lazy">
+  <figcaption>Subtracting inflation is a good approximation at low rates; exact division is safer.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

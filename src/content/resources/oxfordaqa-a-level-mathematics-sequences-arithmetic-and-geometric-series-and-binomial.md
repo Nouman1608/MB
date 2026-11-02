@@ -108,6 +108,12 @@ Squaring can introduce a false root. Every term is a positive square root, so th
 
 Some recurrences never settle. For example, x(n+1) = 1/(1 − x(n)) with x(1) = 3 gives 3, −1/2, 2/3, 3, ... The sequence repeats every three terms. It is periodic, so it has no limit. To find a late term, use the period: x(100) is the same as x(1), because 100 leaves remainder 1 when divided by 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--06-recurrence-cobweb.webp" width="900" height="1140" alt="A cobweb diagram for x_(n+1) = 0.6x_n + 8 with x_1 = 5. The lines y = 0.6x + 8 and y = x are drawn. The path steps from 5 through 11, 14.6 and 16.76 and closes in on where the lines cross at L = 20, found by solving L = 0.6L + 8." loading="lazy">
+  <figcaption>A recurrence settles at the limit L where L = f(L); the cobweb shows the terms closing in on it.</figcaption>
+</figure>
+
+
 ## 3. Arithmetic series
 
 In an arithmetic sequence you add the same common difference d each time. With first term a:
@@ -158,6 +164,22 @@ The 5th term of an arithmetic sequence is 23 and the 12th term is 58.
 ```
 
 The positive root of 5n² + n − 1000 = 0 is n = (−1 + √20001)/10 ≈ 14.04. So n must be at least 15. Check both sides of the boundary: S(14) = 497, which is not above 500, and S(15) = 570. The answer is n = 15.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--01-ap-vs-gp.webp" width="900" height="1060" alt="Two bar charts of six terms each. The arithmetic progression 5, 8, 11, 14, 17, 20 adds 3 each time, so the added amount on top of each bar is the same height every time. The geometric progression 3, 6, 12, 24, 48, 96 doubles each time, so the added amount grows. Three consecutive terms satisfy 2b = a + c for an arithmetic progression (8, 11, 14) and b squared = ac for a geometric one (6, 12, 24)." loading="lazy">
+  <figcaption>An arithmetic progression adds the same amount each time; a geometric progression multiplies by the same ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--02-ap-sum-pairing.webp" width="900" height="1070" alt="The series 3 + 7 + 11 + 15 + 19 + 23 + 27, written as the sum from r = 1 to 7 of (4r minus 1), is drawn as seven columns. Each column stacks a term on the term in the reversed order and every column totals 30, the first term plus the last. Seven columns of 30 give twice the sum, 210, so the sum is 105." loading="lazy">
+  <figcaption>Pairing each term with its reverse shows why S_n = half n times (a + l).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--05-sequence-behaviour.webp" width="900" height="1110" alt="Three plots of terms against n. u_n = n squared minus 8n falls to its least value, minus 16 at n = 4, then rises. The recurrence x_(n+1) = 1/(1 - x_n) with x_1 = 3 gives 3, minus one half, two thirds, then repeats every three terms. u_n = (3n - 1)/(n + 2) increases for ever but stays below the limit 3." loading="lazy">
+  <figcaption>Sequences can decrease then increase, repeat in a cycle, or climb towards a limit.</figcaption>
+</figure>
+
 
 ## 4. Geometric series
 
@@ -219,6 +241,17 @@ The ratio is r = 2x − 1. Convergence needs |2x − 1| < 1, so −1 < 2x − 1 
 ### Recurring decimals
 
 0.272727... = 0.27 + 0.0027 + ... is geometric with a = 0.27 and r = 0.01. So S∞ = 0.27/0.99 = 27/99 = 3/11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--03-gp-sum-to-infinity.webp" width="900" height="1030" alt="A graph of the partial sums of 81 + 54 + 36 + ... (first term 81, ratio 2/3) for n = 1 to 20. The points rise then flatten towards a dashed line at 243, the sum to infinity. At n = 5 the sum is 211, a gap of 32. The gap 243(2/3)^n first drops below 1 at n = 14." loading="lazy">
+  <figcaption>Partial sums of a convergent geometric series level off at S_infinity = a/(1 - r).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
 
 ## 6. The binomial expansion
 
@@ -296,6 +329,17 @@ Use the first three terms of (1 + x)⁶ with x = 0.02 to estimate 1.02⁶.
 ```
 
 The exact value is 1.126162... so the estimate is a little low, because the omitted terms are positive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--07-pascal-binomial.webp" width="900" height="1130" alt="Pascal’s triangle for n = 0 to 6, each entry the sum of the two above; row 5 (1, 5, 10, 10, 5, 1) is highlighted and 10 is shown as 4 + 6. Below, a bar chart of the six terms of (4 + 3x)^5: 1024, 3840x, 5760x^2, 4320x^3, 1620x^4, 243x^5. At x = 1 they add to 7^5 = 16807." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the binomial coefficients; the terms of (4 + 3x)^5 sum to 7^5 at x = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--08-binomial-validity.webp" width="900" height="980" alt="A graph of y = (1 - 3x)^(-1/2) with its series up to x cubed, 1 + 3x/2 + 27x^2/8 + 135x^3/16. A shaded band shows the range of validity, x between minus one third and one third. The series matches near zero but the curves separate outside the band and near the asymptote at x = 1/3." loading="lazy">
+  <figcaption>The series for a rational power only represents the function when |bx/a| &lt; 1.</figcaption>
+</figure>
+
 
 ## Common errors
 

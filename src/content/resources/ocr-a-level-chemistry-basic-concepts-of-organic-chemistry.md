@@ -113,6 +113,12 @@ CH₃–CHCl–C(CH₃)Cl–CH₂–CH₂–CH₃
 
 Check: numbering from the other end would give {4, 4, 5}, which is higher than {2, 3, 3}, so the name is right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+
 ## 4.1.1(b): Types of formula
 
 Definitions are not required, but you must read and draw each type and pick the one that suits the context (HSW8).
@@ -149,6 +155,12 @@ H – C – C – C – C
 ```
 
 In a displayed formula every bond must appear, including O–H. Writing "C–OH" is not displayed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
 
 ## 4.1.1(c) and (d): Series, groups and classification
 
@@ -246,6 +258,12 @@ C₅H₉–Br → C₅H₉⁺ + Br⁻
 ```
 
 Radical mechanisms are written as a sequence of equations like these. Half curly arrows are not required (4.1.2 f).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.1(h) and (i): Curly arrows and mechanisms
 

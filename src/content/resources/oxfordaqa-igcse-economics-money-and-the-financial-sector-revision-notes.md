@@ -61,6 +61,32 @@ Use the function that matches the scenario. A question about a price tag is abou
 
 **Store of value reminder.** Holding 1,500 units as cash for a year with 5% inflation leaves 1,500 ÷ 1.05 = 1,428.57 in today's prices, a loss of 71.43. If savings earn 4% while inflation is 3%, the real return is (1.04 ÷ 1.03 − 1) × 100 = 0.97%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--06-mo-barter-rates.webp" width="900" height="810" alt="Two networks of five goods: barter needs 10 exchange rates, money needs 5 prices." loading="lazy">
+  <figcaption>A common unit cuts the number of prices to compare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--07-mo-broad-money.webp" width="900" height="870" alt="A bar of 200 bn aru split into notes and coins 6%, current accounts 29% and savings deposits 65%, ordered by liquidity." loading="lazy">
+  <figcaption>Notes and coins alone would leave out 94% of Country A's money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--08-mo-store-value.webp" width="900" height="840" alt="Bars show 1,000 aru buying 961.54 aru worth after 4% inflation if kept in a drawer, and 990.38 if saved at 3%." loading="lazy">
+  <figcaption>Money stores value less well when inflation is high.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--09-mo-deferred.webp" width="900" height="900" alt="Bars show a 2,300 aru repayment worth 2,190.48 aru at 5% inflation and 1,916.67 aru at 20%, against 2,000 lent." loading="lazy">
+  <figcaption>Unexpectedly high inflation harms lenders and helps borrowers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## 3.2.5.2 The financial sector
 
 ### Central bank
@@ -87,6 +113,17 @@ Method for an interest-rate effect, in steps:
 
 That is why rules on own funds matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--01-mo-rate-cut.webp" width="900" height="1090" alt="Bars show yearly interest on a 120,000 aru loan falling from 7,200 to 6,000 aru and on a 20,000 aru deposit falling from 600 to 400 aru. A four-step chain follows: rate cut, cheaper borrowing and less attractive saving, more spending and investment, higher aggregate demand." loading="lazy">
+  <figcaption>A one-point cut saves the borrower 1,200 aru a year, costs the saver 200 aru, and pushes aggregate demand up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--02-mo-bank-run.webp" width="900" height="830" alt="A bank with 40 mn aru cash can pay a 10% withdrawal of 40 mn but is 20 mn short if 15% (60 mn) withdraw." loading="lazy">
+  <figcaption>Cash of 10% of deposits covers a 10% withdrawal but not a 15% run.</figcaption>
+</figure>
+
+
 ### Commercial banks
 
 | Role | Explanation |
@@ -99,6 +136,17 @@ That is why rules on own funds matter.
 **Worked reminder.** A bank takes in 800 of deposits and pays 1.5%, so it pays 800 × 0.015 = 12. It lends 600 at 5.5% and receives 600 × 0.055 = 33. Gross interest margin = 33 − 12 = 21 before costs.
 
 **Loan reminder.** A firm borrows 30,000 at 6% simple interest for 2 years. Interest = 30,000 × 0.06 × 2 = 3,600. Total repaid = 33,600, or 33,600 ÷ 24 = 1,400 a month.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--03-mo-bank-margin.webp" width="900" height="850" alt="Savers deposit 400 mn aru at 2% (8 mn paid). The bank lends 300 mn (75%) at 6% (18 mn received) and keeps 100 mn. Gross margin is 10 mn aru." loading="lazy">
+  <figcaption>The bank earns 18 mn, pays 8 mn, and keeps a gross margin of 10 mn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--04-mo-oven-loan.webp" width="900" height="690" alt="The bakery repays 72,000 aru (60,000 loan plus 12,000 interest) and earns 84,000 aru extra profit from the oven, a gain of 12,000 aru." loading="lazy">
+  <figcaption>Borrowing pays off for the bakery because the oven earns more than the loan costs.</figcaption>
+</figure>
+
 
 ### Other institutions
 
@@ -114,6 +162,22 @@ The specification does not name particular institutions in this part, so know th
 **Insurance reminder.** 500 policyholders each pay 40, so premiums are 500 × 40 = 20,000. One in 25 claims, so 500 ÷ 25 = 20 claims. At 800 each, claims are 16,000. That leaves 4,000 for costs and profit.
 
 **Shares reminder.** A share bought at 12 pays a dividend of 0.60. Yield = 0.60 ÷ 12 × 100 = 5%. If the price falls to 11, the change is (11 − 12) ÷ 12 × 100 = −8.33%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--10-mo-bank-cushion.webp" width="900" height="830" alt="A 25 mn capital buffer covers a 20 mn loss from 4% unpaid loans but not a 30 mn loss from 6%." loading="lazy">
+  <figcaption>Capital absorbs loan losses until it runs out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-money-and-the-financial-sector--05-mo-insurance-shares.webp" width="900" height="830" alt="Insurance premiums of 60,000 aru cover 48,000 aru of claims and leave 12,000. A 5 aru share with a 0.30 dividend yields 6% and a rise to 5.50 is a 10% gain. Issuing 200,000 shares raises 1,000,000 aru." loading="lazy">
+  <figcaption>Insurers pool risk and shares raise funds, but share prices can fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## Importance to consumers, producers and government
 

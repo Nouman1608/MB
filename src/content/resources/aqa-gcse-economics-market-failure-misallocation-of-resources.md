@@ -77,6 +77,17 @@ The specification asks for methods the government can use to counter misallocati
 
 A tax or subsidy works through price, so it keeps the market in place and nudges it. A law works by command, so it is more certain but less flexible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--05-mf-intervention-methods.webp" width="900" height="1130" alt="Three panels. Laws and regulation: bans, limits and standards backed by fines; on a demand and supply diagram a vertical limit line stops output below the free-market quantity. Information and education: campaigns shift the demand curve left for a harmful good, so price and quantity both fall (illustrative, 50 to 37.5 units). Direct provision: the government supplies the good itself, paid for by taxation; a bar shows the market supplying 40 units and the government adding 25 to reach the 65 needed. The numbers are illustrative." loading="lazy">
+  <figcaption>Regulation, information and direct provision each work differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ### Evaluating intervention
 
 Intervention is not free and it is not always right. When a question asks for judgement, weigh points such as these:
@@ -88,6 +99,12 @@ Intervention is not free and it is not always right. When a question asks for ju
 - **Time.** Campaigns and new rules take time to change behaviour.
 
 A good conclusion picks a method and says why it suits the case: a tax where the harm varies with output, a ban where the harm is severe, a subsidy where society gains from more use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
 
 ## 3.1.6.2 Externalities
 
@@ -104,6 +121,17 @@ An **externality** is a cost borne, or a benefit received, by a **third party**,
 
 So an externality is the gap: external cost = social cost − private cost, and external benefit = social benefit − private benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
+
 ### Negative and positive
 
 | | Negative externality | Positive externality |
@@ -112,6 +140,12 @@ So an externality is the gap: external cost = social cost − private cost, and 
 | Social compared with private | Social cost is above private cost | Social benefit is above private benefit |
 | Market outcome | Too much is produced or consumed | Too little is produced or consumed |
 | Typical response | Tax, regulation, information | Subsidy, provision, information |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+
 
 ### Production and consumption
 
@@ -123,6 +157,12 @@ The specification states that both **production** and **consumption** can lead t
 | Consumption | Drivers add congestion and exhaust fumes for everyone else | Vaccinated people lower the chance of passing on disease |
 
 Ask: who is hurt or helped, and are they in the transaction? If the answer is "no, an outsider", it is an externality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--04-mf-externality-grid.webp" width="900" height="1010" alt="A two by two grid. Columns are negative externality (a cost to others) and positive externality (a benefit to others); rows are production and consumption. Production, negative: a chemical works releases fumes that harm nearby homes. Production, positive: a firm trains apprentices and some later move to rival local firms. Consumption, negative: drivers add congestion and exhaust fumes for everyone else. Consumption, positive: vaccinated people lower the chance of passing on disease. In each case the people affected are outsiders to the deal." loading="lazy">
+  <figcaption>Production and consumption can each cause a negative or a positive externality.</figcaption>
+</figure>
+
 
 ### Identifying externalities in a context
 
@@ -170,6 +210,12 @@ In words on a diagram: the supply curve shifts upward by the width of the tax, a
 
 Evaluation: the government would need to estimate the £6 reliably, and the tax is easier to avoid if buyers can buy from a cheaper source.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--07-mf-fuel-tax-optimum.webp" width="900" height="1048" alt="Fuel market. Free market at 30 pounds and 10,000 units. A 6 pound tax moves supply up so output falls to 8,500 at 33 pounds. Buyers pay 33, producers keep 27, over-production was 1,500 units, tax revenue 51,000 pounds." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output to the social optimum.</figcaption>
+</figure>
+
+
 ### Example 3: a positive externality and a subsidy (Town Y, invented)
 
 A clinic offers a vaccination in Town Y. Each dose gives the patient a private benefit, and an external benefit of £10 to everyone who is now less likely to catch the disease.
@@ -190,6 +236,12 @@ A subsidy of £10 per dose lowers the clinic's cost, so supply rises.
 - Cost to the government = 10 × 3,000 = **£30,000**.
 
 Evaluation: the £30,000 could have funded something else, and there is no guarantee it is set at the right level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--08-mf-vaccine-subsidy.webp" width="900" height="1108" alt="Vaccination market. Free market at 35 pounds and 2,500 doses; social optimum at 40 pounds and 3,000 doses, so 500 doses are under-provided. A 10 pound subsidy lowers cost, patients pay 30 and doses reach 3,000. Government cost 30,000 pounds." loading="lazy">
+  <figcaption>A subsidy equal to the external benefit raises output to the social optimum.</figcaption>
+</figure>
+
 
 ## Common errors
 

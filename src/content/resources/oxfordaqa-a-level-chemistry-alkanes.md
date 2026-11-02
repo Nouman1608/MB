@@ -95,6 +95,12 @@ molecules touch. Stronger induced-dipole attractions take more energy to overcom
 rises with chain length. Nothing inside a molecule breaks when it boils. Distillation is a physical
 separation, and that is what sets it apart from cracking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
+
 ## Cracking (3.3.2.2)
 
 **Cracking** splits large alkane molecules into smaller ones by breaking **C–C bonds**. A long alkane does
@@ -144,6 +150,12 @@ Subtract carbon and hydrogen separately, then check each formula against CₙH�
    for polymers and other chemicals.
 5. Catalytic cracking in particular yields motor fuels and aromatic hydrocarbons, both of which are in
    demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Combustion of alkanes (3.3.2.3)
 
@@ -241,6 +253,12 @@ CaCO3 + SO2 → CaSO3 + CO2
 Flue-gas mass calculations belong to Group 2 chemistry and are worked on the
 [Group 2 study guide](/resources/oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Chlorination of methane (3.3.2.4)
 
 In ultraviolet light, methane and chlorine react. A chlorine atom takes the place of a hydrogen atom, so
@@ -262,6 +280,17 @@ electrons.
 ```
 Cl2 → 2Cl•
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ### Propagation
 

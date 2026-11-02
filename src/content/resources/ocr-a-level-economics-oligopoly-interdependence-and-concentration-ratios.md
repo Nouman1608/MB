@@ -66,6 +66,12 @@ Oligopolists favour it because a price cut is copied at once, while a loyal cust
 
 If the campaign adds just 30,000 units, profit falls to 230,000 × 4 − 880,000 = £40,000. If a rival matches the spend, neither gains share and both carry the cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--10-advertising-break-even.webp" width="900" height="830" alt="Graph of profit after an advertising campaign against extra units sold. Profit before the campaign is 200 thousand pounds. The campaign costs 280 thousand and each extra unit earns a 4 pound contribution, so profit starts at minus 80 thousand, reaches 40 thousand after 30,000 extra units and gets back to 200 thousand at 70,000 extra units, the break-even. If a rival matches the spend, neither gains share." loading="lazy">
+  <figcaption>A £280,000 campaign needs 70,000 extra units at a £4 contribution to restore profit of £200,000; 30,000 extra units leave only £40,000.</figcaption>
+</figure>
+
+
 ## 3. Interdependence
 
 Interdependence means a firm's best choice depends on its rivals' choices. Two models show it.
@@ -86,6 +92,12 @@ Game theory analyses strategic choices. A pay-off matrix lists each firm's profi
 A **Nash equilibrium** is an outcome where neither firm can gain by changing its own choice, given the other's. Here it is Low/Low. This pattern is the **prisoner's dilemma**: self-interest drives both firms to an outcome that leaves each worse off than cooperation would.
 
 This explains price wars and the temptation to collude. It also shows why collusion is unstable: from High/High, either firm gains (15 to 21) by cutting price secretly. A game need not have a dominant strategy, and in a repeated game cooperation can last because cheating invites punishment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--05-oligopoly-payoff-matrix.webp" width="900" height="880" alt="A two-by-two pay-off matrix for firms A and B choosing a high or low price. High/High gives 15 and 15; A high and B low gives 4 and 21; A low and B high gives 21 and 4; Low/Low gives 9 and 9. Low is the best reply for each firm whatever the other does, so Low/Low is the Nash equilibrium with 18 in total, although High/High would give 30 in total." loading="lazy">
+  <figcaption>Low is each firm’s best reply whatever the rival does, so Low/Low (9 each) is the Nash equilibrium although High/High would give 15 each.</figcaption>
+</figure>
+
 
 ### 3b. The kinked demand curve
 
@@ -122,6 +134,12 @@ If marginal cost (MC) passes through the gap, profit is maximised at 1,000 units
 
 The model explains **price rigidity**. For evaluation: the model says nothing about how the starting price arose, rivals may react differently, and prices do change, sometimes in price wars.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--06-kinked-demand-curve.webp" width="900" height="960" alt="Graph of a firm whose demand has a kink at 1,000 units and price 8. Above the kink demand P = 12 − 0.004Q is elastic (PED 2.0); below it P = 18 − 0.01Q is inelastic (PED 0.8). Marginal revenue is 4 at the end of the upper segment and −2 at the start of the lower one, a vertical gap. Marginal cost 1 + 0.001Q is 2 at 1,000 units, and a cost rise to 2.5 + 0.001Q gives 3.5; both pass through the gap, so price stays at 8." loading="lazy">
+  <figcaption>Demand is elastic above the kink and inelastic below it, so MR has a gap and MC can move within it without changing price.</figcaption>
+</figure>
+
+
 ## 4. Types of collusion
 
 **Collusion** is cooperation between firms to limit competition.
@@ -139,6 +157,12 @@ The model explains **price rigidity**. For evaluation: the model says nothing ab
 The cheat gains 92 and each loyal firm loses 36, so every member is tempted to cheat. Cartels hold best with few firms, similar products, easy detection of cheating and blocked entry. Tacit collusion is harder to prove.
 
 Consumers lose through higher prices and less output; firms gain only while the agreement lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--11-cartel-cheating-numbers.webp" width="900" height="870" alt="Bar charts of profit per firm for a four-firm cartel facing demand P = 96 minus Q with marginal cost of 24 pounds. If all keep to the quota, total output is 36 at a price of 60 pounds and each of the four firms earns 324. If one firm secretly produces 13 instead of 9, output is 40 and the price falls to 56 pounds; the cheat earns 416, a gain of 92, while each of the other three earns 288, a loss of 36. Every member is tempted to cheat." loading="lazy">
+  <figcaption>Keeping to quota earns each firm 324; the cheat earns 416 while each loyal firm falls to 288, so cartels are fragile.</figcaption>
+</figure>
+
 
 ## 5. Product differentiation in oligopoly
 
@@ -179,6 +203,17 @@ Suppose Corvin and Dunmore merge into one firm with sales 108. The new ranking i
 
 A high ratio suggests market power, but it ignores how sales are split among the leaders, hides foreign competition, depends on how the market is defined and says nothing about contestability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--07-concentration-ratio-merger.webp" width="900" height="860" alt="Two stacked bars of a 400 million market. Before: firms A 88, B 74, C 61, D 47, E 30, F 22 and many small sellers 78, so CR3 is 223 over 400, 55.75 percent. After C and D merge into one firm of 108, the top three are 108, 88 and 74, so CR3 is 270 over 400, 67.5 percent, up 11.75 percentage points." loading="lazy">
+  <figcaption>CR3 rises from 55.75% to 67.5% when the third and fourth firms merge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## 8. Comparing the four market structures
 
 | | Perfect competition | Monopolistic competition | Oligopoly | Monopoly |
@@ -203,6 +238,17 @@ A high ratio suggests market power, but it ignores how sales are split among the
 - The monopolistically competitive firm has excess capacity of about 11.6 units, and P − MC = 17 − 14 = £3.
 
 Oligopoly falls between: collusion approaches the monopoly result; fierce rivalry approaches the competitive one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--12-perfect-vs-monopoly-market.webp" width="900" height="925" alt="Graph with market demand P = 96 minus Q, marginal revenue 96 minus 2Q and constant marginal cost 24 pounds. Perfect competition produces 72 units at 24 pounds, with consumer surplus of 2,592 (half of 72 times 72). A monopoly or successful cartel produces 36 units at 60 pounds: consumer surplus falls to 648, supernormal profit is 1,296 and the deadweight loss is 648. The three areas add up to the competitive consumer surplus." loading="lazy">
+  <figcaption>With P = 96 − Q and MC = 24, competition gives 72 units at £24 and consumer surplus 2,592, while monopoly gives 36 units at £60, profit 1,296 and deadweight loss 648.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--13-monopolistic-competition-excess-capacity.webp" width="900" height="1000" alt="Firm diagram. Average revenue AR = 20 minus 0.15q is tangent to average cost AC = 100 divided by q plus 10 plus 0.1q at 20 units, where both are 17 pounds, so profit is normal. MR and MC both equal 14 at 20 units. AC is lowest at 31.6 units, where it is 16.32 pounds, so the firm has excess capacity of about 11.6 units and price 17 is 3 pounds above marginal cost." loading="lazy">
+  <figcaption>AR touches AC at 20 units (£17, normal profit), short of the lowest AC at 31.6 units, leaving about 11.6 units of excess capacity.</figcaption>
+</figure>
+
 
 ## 9. Does theory of the firm explain real behaviour?
 

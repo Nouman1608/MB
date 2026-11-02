@@ -68,6 +68,12 @@ A value calculated from measured enthalpies of formation is about −312 kJ mol�
 - The bond enthalpies are averages, not the actual values in ethyne and ethane.
 - Bond enthalpies apply only to gases. If any reactant or product is a liquid or solid, the energy of the intermolecular forces is left out. (Here all species are gases, so the averages are the main cause.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--01-bond-enthalpy-estimate.webp" width="900" height="1020" alt="Energy level diagram for ethyne plus 2 hydrogen forming ethane, all gases. Breaking one C triple bond, two C-H and two H-H bonds costs 2539 kJ per mole, up to separate gaseous atoms; forming one C-C and six C-H bonds releases 2830. The net change is 2539 minus 2830 = minus 291. A formation-data value near minus 312 is shown for comparison." loading="lazy">
+  <figcaption>Break bonds (energy in), make bonds (energy out): ΔH = Σ broken − Σ formed = −291 kJ mol-1 for C2H2 + 2H2 → C2H6.</figcaption>
+</figure>
+
+
 ## Reactivity 1.2.2 Hess's law
 
 **Hess's law** says that ΔH for a reaction does not depend on the route taken from the initial state to the final state. This follows from conservation of energy. If two routes gave different energy changes, you could go out by one and back by the other and create energy from nothing.
@@ -96,6 +102,17 @@ Check the cancelling: ½N₂ appears on the right of reversed (2) and the left o
 
 ΔH = −98.9 − 33.2 + 90.3 = **−41.8 kJ mol⁻¹**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--02-hess-law-rules.webp" width="900" height="1210" alt="An energy level diagram shows a direct route A to B (minus 60) equal to A to C (+40) plus C to B (minus 100); these numbers are illustrative. Three panels then show reversing an equation changes the sign (+66.4 to −66.4), halving halves ΔH (−197.8 to −98.9), and adding equations adds ΔH values." loading="lazy">
+  <figcaption>ΔH does not depend on route; reverse flips the sign, multiplying scales ΔH, adding equations adds ΔH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--03-hess-combine-equations.webp" width="900" height="880" alt="Waterfall chart: half of equation 1 gives −98.9, reversed half of equation 2 gives −33.2 and half of equation 3 gives +90.3, totalling −41.8 kJ per mole. The three given equations are listed beneath." loading="lazy">
+  <figcaption>Half (1), reversed half (2) and half (3) sum to ΔH = −41.8 kJ mol-1 for SO2 + NO2 → SO3 + NO.</figcaption>
+</figure>
+
+
 ## Reactivity 1.2.3 Formation and combustion equations (HL only)
 
 **Standard conditions** mean a pressure of 100 kPa, with data usually quoted at 298 K. Each substance is in its **standard state**, its pure form at that pressure.
@@ -116,6 +133,17 @@ Check that only elements appear on the left of a formation equation, that each e
 Some values do two jobs. Burning graphite, C(s) + O₂(g) → CO₂(g), is both ΔHc⦵ of carbon and ΔHf⦵ of carbon dioxide.
 
 **Allotropes.** Graphite is the standard state of carbon, so ΔHf⦵ of graphite is zero. Diamond is a different form, so its ΔHf⦵ is not zero. Using ΔHc⦵ values of −393.5 kJ mol⁻¹ (graphite) and −395.4 kJ mol⁻¹ (diamond), the route graphite → CO₂ ← diamond gives ΔH(graphite → diamond) = −393.5 − (−395.4) = **+1.9 kJ mol⁻¹**, which is ΔHf⦵ of diamond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--04-formation-combustion-equations.webp" width="900" height="1030" alt="Two panels. Formation equations make exactly one mole of a compound from elements in standard states (sodium carbonate, ethane-1,2-diol). Combustion equations burn one mole in oxygen (pentane; graphite, which is also ΔHf of CO2). ΔHf of an element in its standard state is zero." loading="lazy">
+  <figcaption>Formation: elements to one mole of compound. Combustion: one mole burns in oxygen. Elements in standard states have ΔHf = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--05-graphite-diamond.webp" width="900" height="874" alt="Energy level diagram. Graphite and diamond with oxygen both burn to CO2, releasing 393.5 and 395.4 kJ per mole. Diamond therefore sits 1.9 above graphite (gap drawn enlarged), which is the formation enthalpy of diamond." loading="lazy">
+  <figcaption>Two combustion routes to CO2 give ΔHf(diamond) = −393.5 − (−395.4) = +1.9 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Reactivity 1.2.4 Calculating ΔH⦵ from formation or combustion data (HL only)
 
@@ -145,6 +173,17 @@ Find ΔH⦵ for CaC₂(s) + 2H₂O(l) → C₂H₂(g) + Ca(OH)₂(s). Use these 
 - Σ ΔHf⦵(products) = 228.3 + (−986.1) = −757.8
 - Σ ΔHf⦵(reactants) = −59.8 + 2(−285.8) = −631.4
 - ΔH⦵ = −757.8 − (−631.4) = **−126.4 kJ mol⁻¹**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--06-dh-from-formation-data.webp" width="900" height="1020" alt="Energy level diagram with elements at zero. Arrows down to reactants (−631.4) and products (−757.8) are sums of formation enthalpies. The reaction ΔH is the drop from reactants to products, −126.4 kJ per mole: products minus reactants." loading="lazy">
+  <figcaption>ΔH = ΣΔHf(products) − ΣΔHf(reactants) = −126.4 kJ mol-1 for CaC2 + 2H2O → C2H2 + Ca(OH)2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--07-dhf-from-combustion-data.webp" width="900" height="1050" alt="Energy level diagram. The elements 2C + H2 sit at zero and ethyne sits 228.3 above them. Both burn to 2CO2 + H2O at −1072.8: the elements via 2(−393.5) + (−285.8), ethyne via −1301.1. So ΔHf of ethyne is +228.3 kJ per mole." loading="lazy">
+  <figcaption>Reactants minus products for combustion data: ΔHf(ethyne) = −1072.8 − (−1301.1) = +228.3 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Reactivity 1.2.5 Born–Haber cycles (HL only)
 
@@ -184,6 +223,17 @@ Two iodine atoms are needed, so double both iodine terms.
 - Lattice enthalpy = 1961 − (−364) = **+2325 kJ mol⁻¹**
 
 Interpreting the result: the MgI₂ lattice enthalpy is over three times that of KI. Mg²⁺ carries twice the charge of K⁺ and is smaller, so the attraction to the iodide ions is much stronger (Structure 2.1). Notice also that IE₂ is the biggest endothermic step. It is paid back by the large lattice enthalpy, which is why MgI₂ still forms exothermically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--08-born-haber-ki.webp" width="900" height="1120" alt="Energy level diagram from K(s) and half an I2: atomising K +89, IE1 +419, atomising I +107, electron affinity of I −295 to +320, then lattice formation −648 to ΔHf = −328. Hence lattice enthalpy (separation of the solid into ions) is +648 kJ per mole." loading="lazy">
+  <figcaption>Born–Haber cycle for KI: −328 = 320 − lattice enthalpy, so lattice enthalpy = +648 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-cycles-in-reactions--09-born-haber-mgi2.webp" width="900" height="1160" alt="Energy level diagram from Mg(s) and I2(s): atomising Mg +148, IE1 +738, IE2 +1451, atomising two I +214, two electron affinities −590 to +1961, then lattice formation −2325 to ΔHf = −364. Lattice enthalpy is +2325 kJ per mole." loading="lazy">
+  <figcaption>For MgI2 add IE2 and double the iodine terms: −364 = 1961 − lattice enthalpy, so lattice enthalpy = +2325 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Common errors
 

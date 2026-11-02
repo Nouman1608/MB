@@ -37,6 +37,12 @@ Use these notes for fast recall of sections 2.3 (Supply) and 2.4 (Price) of Topi
 | Increase / decrease in supply | Shift of the whole curve (right / left) caused by any other factor |
 | PES | Proportionate response of output to price: %Q supplied ÷ %P |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+
 ## Supply curve from data: steps
 
 1. Label the side axis price and the bottom axis quantity, with units.
@@ -63,6 +69,12 @@ Reminder: a stall sells jars at £5, £6, £7 for 24, 42, 60 jars; a second stal
 Also in this group: prices of goods producers could make instead, and expectations of future prices.
 
 **Consequences.** Supply increases: price falls, quantity rises, consumers gain lower prices and more choice, but producers' revenue per unit falls. Supply decreases: price rises, quantity falls, consumers pay more and buy less, and producers may see revenue fall if demand is elastic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
 
 ## PES
 
@@ -91,6 +103,32 @@ Also in this group: prices of goods producers could make instead, and expectatio
 - Producers: elastic supply lets them respond to a price rise by expanding quickly; inelastic supply means missed sales and, when demand falls, stuck output.
 - Consumers: inelastic supply makes prices jump when demand rises or supply is hit; elastic supply keeps prices steadier.
 - Evaluation: PES differs between the short and long run, and between firms. A firm with spare capacity has more choice than one running at full capacity. Costs of holding stock or expanding can outweigh the gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--01-pes-line-shapes.webp" width="900" height="1150" alt="Three upward supply lines all pass through price 6 and quantity 6. The line that meets the price axis has elasticity 2, the line through the origin has elasticity 1 and the line that meets the quantity axis has elasticity 0.67. Below, a vertical line shows PES 0 and a horizontal line shows infinite PES." loading="lazy">
+  <figcaption>Where a straight supply line would meet the axes tells you whether PES is above, equal to or below 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--05-pes-worked-bars.webp" width="900" height="890" alt="Bakery PES 30/16.7=1.8 elastic; farm PES 5/20=0.25 inelastic. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>PES compares the percentage change in quantity with that in price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--06-pes-markets-x-and-y.webp" width="900" height="1010" alt="Demand +48 at every price; X settles at 14 pounds and 118 (PES 0.18), Y at 11.50 pounds and 143 (PES 2.0). Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>The same demand rise raises price much more where supply is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## 2.4 Price
 
@@ -133,6 +171,27 @@ Resources move to uses where consumers show most demand. This is price's role in
 | S to the left | Rises | Falls |
 
 **Role of markets:** with no central planner, buyers' and sellers' decisions respond to price and settle what is produced and for whom. Limits: markets may under-provide goods people need but cannot afford, and some effects fall on third parties.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--02-bread-cost-rise.webp" width="900" height="1030" alt="Demand crosses original supply at £3.00 and 150 loaves. A flour cost rise shifts supply left by 48 at every price, so the new equilibrium is £3.20 and 120 loaves. Price rises 6.7 per cent, quantity falls 20 per cent and revenue falls from £450 to £384." loading="lazy">
+  <figcaption>A 48-loaf fall in supply raises the price but cuts quantity and revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--04-bakeries-market-supply.webp" width="900" height="900" alt="Larch, Brook, Corner and market supply curves; at 3.00 pounds 70+50+30=150. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Market supply adds each bakery supply at every price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--07-bread-excess-demand-supply.webp" width="900" height="960" alt="At 2.00 pounds demand 300, supply 60, excess demand 240; at 4.00 supply 240, demand 0, excess supply 240; equilibrium 3.00 pounds and 150. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Away from equilibrium price, excess demand or supply pushes price back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -200,3 +259,9 @@ Resources move to uses where consumers show most demand. This is price's role in
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205). Version 2.0, June 2026. First assessment 2019. The checklist used here is Topic 2, sections 2.3 and 2.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+

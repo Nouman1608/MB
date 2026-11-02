@@ -62,6 +62,17 @@ For full explanations use the [study guide](/resources/edexcel-ial-accounting-th
 
 **Small worked reminder.** Gresham Toys: revenue 90,000, cost of sales 54,000. Gross profit = 90,000 - 54,000 = 36,000. Gross profit as a percentage of revenue = 36,000 / 90,000 = 40.0%. If last year's figure was 44%, the manager asks why the margin has fallen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--06-record-analyse-communicate.webp" width="900" height="870" alt="Record, analyse and communicate shown with the Ishgrove Bikes figures. Month 1 gross margin is 38.0 percent on 40,000 revenue and month 2 is 35.0 percent on 48,000. At a 38 percent margin month 2 cost of sales would be 29,760, so 1,440 more was spent." loading="lazy">
+  <figcaption>Raw records become analysed margins, which are communicated and then questioned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--10-ial-management-purposes.webp" width="900" height="962" alt="Five purposes: planning, controlling, decision making, assessing performance and safeguarding assets. For Ishgrove Bikes, expected cost of sales is 29,760 against actual 31,200, a 1,440 difference, and margin fell from 38.0 to 35.0 percent." loading="lazy">
+  <figcaption>Managers use accounting information for five purposes, shown with the Ishgrove Bikes figures.</figcaption>
+</figure>
+
+
 ## The nine concepts and conventions (1.1.8 and 1.1.9)
 
 | Concept | One-line meaning | Test to run on a scenario | Typical effect |
@@ -86,6 +97,12 @@ For full explanations use the [study guide](/resources/edexcel-ial-accounting-th
 | Consistency and comparability | Consistency is one business over time; IAS support comparison between businesses |
 | Going concern and prudence | Going concern is the basis for the whole set of statements; prudence guides individual judgements |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-going-concern-oven.webp" width="900" height="810" alt="An oven with a carrying value of 9,000 dollars stays at 9,000 if trading continues. If the owner will close next month and the oven would sell for 3,500, the 5,500 fall means going concern is no longer suitable." loading="lazy">
+  <figcaption>The going concern assumption keeps assets at carrying value; closure changes that.</figcaption>
+</figure>
+
+
 ## Method in steps: naming a concept in an exam answer
 
 1. Quote or paraphrase the key fact in the scenario.
@@ -107,6 +124,17 @@ Example: "Pendry Tools values 30 damaged units at 7 instead of cost 8. This is p
 
 **Business entity.** The owner takes goods for personal use: debit drawings, credit purchases. The business expense is not increased.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-realisation-timeline.webp" width="900" height="800" alt="A timeline from a 20 March order and 22 March 100 dollar deposit to delivery on 2 April and the 900 balance on 20 April, with a 31 March year end. No revenue is recognised before delivery and the deposit is a liability; the 1,000 is April revenue." loading="lazy">
+  <figcaption>Revenue is recognised when goods are supplied, not when ordered or paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-ial-business-entity.webp" width="900" height="660" alt="The owner takes games costing 150 dollars. The business records debit Drawings 150 and credit Purchases 150. Profit is unaffected but capital falls by 150." loading="lazy">
+  <figcaption>Goods taken by the owner are drawings, not a business expense.</figcaption>
+</figure>
+
+
 ## Which figure does each concept change?
 
 | Concept | Figure usually affected |
@@ -122,6 +150,17 @@ Example: "Pendry Tools values 30 damaged units at 7 instead of cost 8. This is p
 | Business entity | Drawings and capital |
 
 Use this table as a prompt when an exam question asks what a concept does to a figure, not only what it means.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--06-ial-materiality.webp" width="900" height="826" alt="A 14 dollar stapler is 0.0027 percent of 520,000 revenue and is expensed at once. A 9,500 machine is 15.3 percent of 62,000 profit and is a non-current asset." loading="lazy">
+  <figcaption>Materiality compares an item with revenue or profit to decide how to record it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
 
 ## International Accounting Standards (1.1.10)
 
@@ -141,6 +180,12 @@ IAS are agreed rules on recognising, measuring and presenting transactions. Bene
 | Allowance for irrecoverable debts | Provision for doubtful debts |
 | Inventory count | Stock take |
 | Other payables | Accruals |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-ial-ias-terms.webp" width="900" height="1106" alt="Ten IAS terms are paired with their older terms, from statement of financial position (balance sheet) to allowance for irrecoverable debts (provision for doubtful debts). IAS 2 requires lower of cost and NRV; IAS 7 covers cash flows." loading="lazy">
+  <figcaption>Learn the IAS term and its older equivalent; IAS 2 and IAS 7 link to prudence and cash flows.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -169,6 +214,12 @@ IAS are agreed rules on recognising, measuring and presenting transactions. Bene
 9. For example: statements can be compared with other businesses, and they follow recognised rules.
 10. Going concern (with accruals matching the cost to the periods that benefit).
 11. Accrue it: a current liability (other payables) of 210, and profit is reduced by 210.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-historic-cost-land.webp" width="900" height="790" alt="Land bought for 80,000 dollars is now valued at 140,000 by an agent. The books keep 80,000, so the 60,000 rise is not recorded." loading="lazy">
+  <figcaption>Historic cost records the price paid, not the current market value.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

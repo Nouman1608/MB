@@ -58,6 +58,12 @@ These notes condense part of section 3.3 of the OxfordAQA International GCSE Acc
 
 Reminder: a hire club owes 330 and is declared insolvent. Debit irrecoverable debts 330, credit the club's account 330. Trade receivables fall by 330 and profit falls by 330.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i--06-acc14-write-off-two-ledgers.webp" width="900" height="786" alt="M. Alvarez 540 is written off: the customer account is credited in the receivables ledger and irrecoverable debts is debited in the general ledger, where K. Dunstall 275 brings the total to 815. That 815 goes to the income statement and receivables fall from 19,455 to 18,640." loading="lazy">
+  <figcaption>Write-off credits the customer, debits irrecoverable debts and cuts receivables.</figcaption>
+</figure>
+
+
 ## Method: provision for doubtful debts
 
 1. Write off any irrecoverable debts first.
@@ -71,6 +77,22 @@ Reminder: a hire club owes 330 and is declared insolvent. Debit irrecoverable de
 | Decrease | 13,000 | 3% | 390 | 520 | Credit 130 to income statement; profit rises |
 
 Presentation in the statement of financial position: trade receivables 12,500, less provision (500), giving 12,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i--07-un14-provision-years.webp" width="900" height="874" alt="Provision at 5%: 932 in year 1 (created, expense), 1,010 in year 2 (increase 78, expense), 770 in year 3 (decrease 240, adds to profit)." loading="lazy">
+  <figcaption>Only the change in the provision goes through the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Method: inventory
 
@@ -87,6 +109,32 @@ Ledger shape of the inventory account:
 |---|---|
 | Balance b/d (opening) | Income statement (opening moved out) |
 | Income statement (closing moved in) | Balance c/d (closing) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i--03-un14-inventory-flow.webp" width="900" height="908" alt="Wynford inventory account: opening 9,600 moves to the income statement, closing 11,300 moves in and is carried down as the asset. Opening 9,600 + purchases 92,500 = 102,100 available; less 11,300 unsold leaves cost of sales 90,800." loading="lazy">
+  <figcaption>Opening and closing inventory adjust purchases to give cost of sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i--04-un14-nrv-heaters.webp" width="900" height="820" alt="Per heater, price 30 less selling costs 5 gives NRV 25, which is 13 below cost of 38. For 40 heaters cost 1,520 and NRV 1,000, so the line is valued at 1,000." loading="lazy">
+  <figcaption>NRV is price less selling costs; the lower of cost and NRV is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i--05-un14-inventory-three-lines.webp" width="900" height="822" alt="Dog beds 4,860 (cost lower), aquarium heaters 1,000 (NRV lower), small pet foods 5,440 (cost lower). Total cost 11,820 against value 11,300, which is 520 lower." loading="lazy">
+  <figcaption>Each line is valued separately at the lower figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i--06-un14-inventory-error.webp" width="900" height="1054" alt="Closing inventory 12,300 instead of 11,300 lowers cost of sales to 89,800 and raises profit to 25,690, 1,000 too high. Next year opening inventory is 1,000 too high, so that year profit is 1,000 too low." loading="lazy">
+  <figcaption>A closing inventory error overstates one year profit and understates the next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -66,6 +66,12 @@ Total: -55 + 3 + 50 + 2 = 0
 
 Country A pays for its deficit by net borrowing and by selling assets to foreigners. A "balance of payments deficit" in everyday use normally means the current account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--09-bop-accounts.webp" width="900" height="854" alt="Waterfall: goods −60, services +40, primary income −25 and secondary income −10 make a current account of −55. Capital +3, financial +50 and errors +2 bring the total to zero." loading="lazy">
+  <figcaption>The current account of −55 is matched by capital, financial and errors entries so the total is zero.</figcaption>
+</figure>
+
+
 ## 2. Causes of deficits and surpluses (1b)
 
 Deficit causes:
@@ -87,6 +93,17 @@ Balance: 198.55 - 215 = -16.45  (deficit widens by 6.45)
 
 Evaluation: a deficit caused by a temporary boom may reverse when growth slows. A structural deficit caused by weak competitiveness will not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--12-income-elasticity-deficit.webp" width="900" height="940" alt="Imports 200 rise to 215 (elasticity 2.5) and exports 190 rise to 198.55 (elasticity 1.5) after 3% income growth. The deficit widens by 6.45." loading="lazy">
+  <figcaption>Imports respond more strongly to income than exports, so the deficit widens from 10 to 16.45.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## 3. Reducing an imbalance (1c)
 
 | Type | Measure | Weakness |
@@ -104,6 +121,12 @@ With a multiplier of 2.5, spending must be cut by 48 ÷ 2.5 = 19.2
 ```
 
 The correction is costly: output falls 4.8% to remove 12 of imports. This is why expenditure-reducing policy is a weak tool for large deficits, and why supply-side policy is preferred for a lasting fix. For a surplus country, the reverse (higher spending, a stronger currency) is the correction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--03-import-cut-mpm.webp" width="900" height="910" alt="Bars drawn to scale against GDP of 1,000: imports saved 12, income fall 48 (12 / 0.25), spending cut 19.2 (48 / 2.5). Output falls 4.8% to remove 12 of imports." loading="lazy">
+  <figcaption>Removing a modest import bill by cutting expenditure costs far more output than the imports saved.</figcaption>
+</figure>
+
 
 ## 4. Global imbalances (1d)
 
@@ -126,6 +149,12 @@ Interest at 4%: before 300 × 0.04 = 12; after 575 × 0.04 = 23
 ```
 
 Rising interest payments widen the primary income deficit, which makes the deficit harder to shrink. If nominal GDP grows 4% a year and the deficit stays at 5.0% of GDP (55 ÷ 1,100), liabilities converge on 5.0 ÷ 4 = 125% of GDP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--11-deficit-liabilities.webp" width="900" height="910" alt="Bars show liabilities rising from 300 to 575 over five years. Interest at 4% rises from 12 to 23. Debt tends to 125% of GDP." loading="lazy">
+  <figcaption>Five years of a 55 deficit lift liabilities from 300 to 575 and annual interest from 12 to 23.</figcaption>
+</figure>
+
 
 ## 5. Measuring competitiveness (3a)
 
@@ -155,6 +184,22 @@ If A's currency falls 4%: 1.0342 × 0.96 = 0.9928 → 0.7% better
 A depreciation can offset poor cost performance, but only temporarily if wages then rise to compensate.
 
 **Worked example 7.** Country A's machine exports sell for 5,000 cu. At 1 cu = 2.0 foreign currency units (fc) the foreign price is 5,000 × 2.0 = 10,000 fc. A rival sells at 9,500 fc. If A's currency falls to 1 cu = 1.8 fc, the foreign price becomes 5,000 × 1.8 = 9,000 fc, so A now undercuts the rival by 500 fc, a 5.3% lower price (500 ÷ 9,500). Non-price factors still decide whether buyers switch.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--10-relative-ulc.webp" width="900" height="920" alt="ULC rises 3.92% in A and 0.49% in B. Relative ULC of 1.0342 is shown on a number line, moving to 0.9928 after a 4% currency fall." loading="lazy">
+  <figcaption>A relative ULC of 1.034 means A is 3.4% worse off, and a 4% currency fall turns it to 0.993.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--13-price-undercut.webp" width="900" height="870" alt="Foreign price is 10,000 fc against a rival at 9,500 fc, then 9,000 fc after depreciation, 500 fc (5.3%) below the rival." loading="lazy">
+  <figcaption>A fall to 1 cu = 1.8 fc cuts the foreign price to 9,000 fc, 5.3% below the rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--04-relative-productivity.webp" width="900" height="910" alt="Two bars of output per worker: A 30 (900 / 30m) and B 26.67 (720 / 27m). A is 112.5% of B, 12.5% higher." loading="lazy">
+  <figcaption>Relative productivity compares output per worker in two countries.</figcaption>
+</figure>
+
 
 ## 6. Factors influencing competitiveness (3b)
 

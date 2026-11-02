@@ -63,6 +63,12 @@ sin 60° = √3/2       cos 60° = 1/2        tan 60° = √3/1 = √3
 
 **0° and 90°.** Picture the right-angled triangle with hypotenuse 1 as the angle shrinks to 0°: the opposite side shrinks to 0 and the adjacent side becomes 1. So sin 0° = 0, cos 0° = 1 and tan 0° = 0. As the angle grows to 90° the roles swap: sin 90° = 1 and cos 90° = 0. The syllabus does not ask for tan 90°, because tan 90° has no value (you would be dividing by cos 90° = 0).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--01-two-triangles.webp" width="900" height="1130" alt="Half a square with sides 1, 1, root 2 gives sin 45 = cos 45 = root 2 over 2 and tan 45 = 1. Half an equilateral triangle with sides 1, root 3 and 2 gives sin 30 = 1/2, cos 30 = root 3 over 2, tan 30 = 1 over root 3, and sin 60 = root 3 over 2, cos 60 = 1/2, tan 60 = root 3." loading="lazy">
+  <figcaption>Two triangles produce all the exact values for 30, 45 and 60 degrees.</figcaption>
+</figure>
+
+
 ### The values you must know
 
 | x | 0° | 30° | 45° | 60° | 90° |
@@ -78,6 +84,12 @@ Patterns that help you recall it:
 - tan x = sin x ÷ cos x, so tan 60° = (√3/2) ÷ (1/2) = √3.
 
 1/√2 and √2/2 are equal, as are 1/√3 and √3/3. Rationalising the denominator is part of E1.18 Surds, so either form is acceptable unless a question asks for a rationalised denominator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--02-unit-quarter-circle.webp" width="900" height="900" alt="A quarter circle of radius 1 with rays at 30, 45 and 60 degrees. The height of each point is sin x and the distance across is cos x, labelled with the exact values; cos is the sin row reversed." loading="lazy">
+  <figcaption>On a quarter circle of radius 1, sin x is the height and cos x is the distance across.</figcaption>
+</figure>
+
 
 ### Worked example 1: evaluating an expression (non-calculator)
 
@@ -146,6 +158,17 @@ The syllabus says a sketch does not need to be to scale, but it must be freehand
 - show the turning points of sin and cos at the right x-values;
 - draw the asymptotes of tan x as dashed vertical lines at 90° and 270°, with the branches approaching but not touching them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
+</figure>
+
+
 ### Interpreting the graphs: symmetry and signs
 
 The graphs show which angles share a value. You use these facts to solve equations.
@@ -181,6 +204,12 @@ x = 180° + 40° = 220°   and   x = 360° − 40° = 320°
 - sin x = 0 has three solutions (0°, 180°, 360°) because both ends of the range are included;
 - sin x = k or cos x = k with k > 1 or k < −1 has **no** solutions;
 - tan x = k (k ≠ 0) always has two solutions, one on each branch that crosses the line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="850" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
+  <figcaption>Draw a horizontal line across the graph; each crossing is a solution.</figcaption>
+</figure>
+
 
 ## Solving trigonometric equations
 
@@ -252,6 +281,12 @@ Add 180° again: 113.198...° + 180° = 293.198...°
 ```
 
 **x = 113.2° or 293.2°** (1 d.p.). A quick check with the sign table: tan x is negative between 90° and 180° and between 270° and 360°, and both answers fall in those intervals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--06-cos-tan-solutions.webp" width="900" height="1040" alt="Top: cosine curve crossed by y = 0.4 at 66.4 and 293.6 degrees (x and 360 minus x). Bottom: tangent curve crossed by y = 1 over root 3 at 30 and 210 degrees (x and x plus 180)." loading="lazy">
+  <figcaption>Cosine uses 360 minus x and tangent uses x plus 180 for the second solution.</figcaption>
+</figure>
+
 
 ## Common errors
 

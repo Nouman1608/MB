@@ -67,6 +67,17 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-physics-
 
 Because per-nucleon values are read from a curve, the answer is an estimate. U-235 at 7.59 MeV per nucleon gives a total of 1784 MeV. Fragments of 137 and 96 nucleons at 8.39 and 8.65 MeV per nucleon give 1980 MeV, so about 196 MeV is released.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--01-fission-binding-energy.webp" width="900" height="850" alt="A binding energy per nucleon graph against nucleon number rises to a peak near iron and nickel and falls to about 7.6 MeV for uranium-235. Two fragments at about 8.5 MeV sit higher on the curve. The products are more tightly bound, so the difference is released." loading="lazy">
+  <figcaption>Fragments are nearer the binding energy peak, so total binding energy rises and energy is released.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--02-fission-mass-difference.webp" width="900" height="1030" alt="A slow neutron and U-235 form U-236*, which splits into Xe-140, Sr-94 and two neutrons, with nucleons (236) and protons (92) balancing. Bars to a truncated scale show mass before 236.052595 u and after 235.854331 u. The 0.198264 u difference times 931.5 gives about 185 MeV, 2.96e-11 J." loading="lazy">
+  <figcaption>The mass lost, 0.198264 u, becomes about 185 MeV per fission.</figcaption>
+</figure>
+
+
 ## Chain reactions
 
 - k is the average number of neutrons per fission that go on to trigger a further fission.
@@ -75,6 +86,12 @@ Because per-nucleon values are read from a curve, the answer is an estimate. U-2
 - Neutrons are lost by escaping or by being absorbed without fission.
 - There is a minimum, **critical**, mass because bigger pieces lose a smaller fraction of neutrons through the surface.
 - Natural uranium is about 0.7% uranium-235. **Enrichment** raises this fraction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--03-chain-reaction-k.webp" width="900" height="1120" alt="Three panels show generations of fissions as dots. For k below 1 the counts fall, for k equal to 1 they stay steady, and for k above 1 they double each generation. A footer gives 2670 fissions after 25 generations for k = 1.04 and 360 for k = 0.96, from 1000." loading="lazy">
+  <figcaption>k &lt; 1 dies away, k = 1 is steady and k &gt; 1 grows; a power plant holds k at 1.</figcaption>
+</figure>
+
 
 ## Parts of a plant: roles at a glance
 
@@ -90,6 +107,22 @@ Because per-nucleon values are read from a curve, the answer is an estimate. U-2
 
 **Why a second circuit?** The primary coolant passes through the core and becomes radioactive, so the turbine side stays separate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--04-reactor-parts.webp" width="900" height="930" alt="A cross-section shows a reactor core inside concrete shielding with fuel rods, moderator water and control rods. Hot coolant flows through a heat exchanger and returns cool, boiling water in a separate circuit whose steam drives a turbine and generator, then condenses. Numbered labels match fuel rods, moderator, control rods, heat exchanger and shielding." loading="lazy">
+  <figcaption>Fuel rods make heat, the moderator slows neutrons, control rods absorb them, and the heat exchanger keeps core coolant away from the turbine steam.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--05-moderator-collisions.webp" width="900" height="1060" alt="Four rows show a neutron hitting hydrogen, deuterium, carbon-12 and a heavy nucleus. Bars show the fraction of energy kept: 0, 1/9, 0.72 and about 0.98. Heavy nuclei barely slow a neutron." loading="lazy">
+  <figcaption>The fraction of energy a neutron keeps is ((A-1)/(A+1))^2, so light nuclei slow it fastest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--06-plant-energy-fuel.webp" width="900" height="910" alt="A flow diagram: 640 MW of electricity at 34 percent efficiency needs 1.88e9 W of thermal power, with 1.24e9 W as waste heat. At 185 MeV per fission this is 6.35e19 fissions per second, 2.48e-5 kg of U-235 per second, about 780 kg per year." loading="lazy">
+  <figcaption>Dividing thermal power by the energy per fission gives the fuel use of a whole plant.</figcaption>
+</figure>
+
+
 ## Waste and storage
 
 | Product | Typical radiation | Notes |
@@ -101,6 +134,17 @@ Because per-nucleon values are read from a curve, the answer is an estimate. U-2
 - **Decay heat:** fragments keep decaying after the chain reaction stops, so cooling must continue.
 - **Management route:** cooling pond, then dry cask, then reprocessing and vitrification in glass if used, then deep geological storage.
 - **Long-term impact:** storage must outlast institutions. Consider leaks, ground movement, security and the burden on future generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--07-fission-waste-route.webp" width="900" height="1100" alt="Three cards show fission fragments (Cs-137, Sr-90; beta-minus; about 30 years), plutonium-239 (alpha; 2.4e4 years) and activated materials. Five numbered steps follow: cooling pond, dry storage, reprocessing, vitrification and deep geological storage. A note says decay heat must still be removed after shutdown." loading="lazy">
+  <figcaption>Used fuel moves from cooling ponds through casks, reprocessing and glass to deep geological storage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-fission-and-power-plants--08-waste-decay-times.webp" width="900" height="950" alt="Two graphs of fraction remaining against years. Caesium-137 (30.1 year half-life) falls to 3 percent at 150 years and 0.1 percent at 300 years. Plutonium-239 (2.41e4 years) is still 97 percent after 1000 years." loading="lazy">
+  <figcaption>Cs-137 needs centuries, but Pu-239 needs storage that outlasts human institutions.</figcaption>
+</figure>
+
 
 ## Worked reminders: plant and waste
 

@@ -51,6 +51,12 @@ These notes condense sections 3.1.6.1 and 3.1.6.2 of the AQA GCSE Economics (813
 - Beneficial goods under-provided, such as education and health care.
 - Public money spent on clean-up and treatment, which cannot be spent elsewhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## Methods of government intervention
 
 | Method | Effect on the market | Best matched to |
@@ -69,6 +75,17 @@ Evaluation prompts for any method:
 - Can people avoid or evade it?
 - How long will it take to work?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--05-mf-intervention-methods.webp" width="900" height="1130" alt="Three panels. Laws and regulation: bans, limits and standards backed by fines; on a demand and supply diagram a vertical limit line stops output below the free-market quantity. Information and education: campaigns shift the demand curve left for a harmful good, so price and quantity both fall (illustrative, 50 to 37.5 units). Direct provision: the government supplies the good itself, paid for by taxation; a bar shows the market supplying 40 units and the government adding 25 to reach the 65 needed. The numbers are illustrative." loading="lazy">
+  <figcaption>Regulation, information and direct provision each work differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## 3.1.6.2 Identifying externalities
 
 | | Production | Consumption |
@@ -81,6 +98,17 @@ Three-question test:
 1. Who decides, and what do they pay or gain?
 2. Who else is affected?
 3. Is that effect covered by the price? If not, it is an externality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--04-mf-externality-grid.webp" width="900" height="1010" alt="A two by two grid. Columns are negative externality (a cost to others) and positive externality (a benefit to others); rows are production and consumption. Production, negative: a chemical works releases fumes that harm nearby homes. Production, positive: a firm trains apprentices and some later move to rival local firms. Consumption, negative: drivers add congestion and exhaust fumes for everyone else. Consumption, positive: vaccinated people lower the chance of passing on disease. In each case the people affected are outsiders to the deal." loading="lazy">
+  <figcaption>Production and consumption can each cause a negative or a positive externality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -143,6 +171,17 @@ In a made-up market for a delivery service, external cost is £4 per delivery.
 - Over-production = 9,000 − 7,200 = **1,800**, which is 1,800 ÷ 9,000 = **20%** of the market output.
 - A tax of £4 per delivery raises 4 × 7,200 = **£28,800**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--07-mf-fuel-tax-optimum.webp" width="900" height="1048" alt="Fuel market. Free market at 30 pounds and 10,000 units. A 6 pound tax moves supply up so output falls to 8,500 at 33 pounds. Buyers pay 33, producers keep 27, over-production was 1,500 units, tax revenue 51,000 pounds." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output to the social optimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--08-mf-vaccine-subsidy.webp" width="900" height="1108" alt="Vaccination market. Free market at 35 pounds and 2,500 doses; social optimum at 40 pounds and 3,000 doses, so 500 doses are under-provided. A 10 pound subsidy lowers cost, patients pay 30 and doses reach 3,000. Government cost 30,000 pounds." loading="lazy">
+  <figcaption>A subsidy equal to the external benefit raises output to the social optimum.</figcaption>
+</figure>
+
+
 ## Command words and what they ask for
 
 - **State** or **identify**: give the point, no development.
@@ -202,3 +241,14 @@ Examiner insights in the practice questions give advice on how answers gain or l
 ## Official syllabus
 
 AQA, *GCSE Economics (8136) specification*, for first teaching from September 2017, sections 3.1.6.1 and 3.1.6.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+

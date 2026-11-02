@@ -55,10 +55,22 @@ Why have it? To protect customers and workers, to make competition fairer, and t
 
 Key line: compliance costs money, but failing to comply can cost more and harm the brand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--02-sedge-cafe-comply-or-not.webp" width="900" height="870" alt="Sedge Cafe, sales revenue £210,000. Meeting obligations costs £2,550 a year, 1.2% of sales. Ignoring them could mean a £5,000 penalty plus £25,200 lost sales, £30,200 in total, about 11.8 times as much. The penalty and lost sales are assumptions." loading="lazy">
+  <figcaption>Meeting the rules v ignoring them (worked example from the lesson).</figcaption>
+</figure>
+
+
 ### Reminder calculation
 
 A business spends £3,200 a year on compliance. If it ignored the rules it would face a £7,500 penalty and lose 8% of £150,000 sales revenue.
 Lost sales revenue = 8% x 150,000 = £12,000. Total = 7,500 + 12,000 = £19,500. That is 19,500 - 3,200 = £16,300 more than complying costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--06-consumer-law-rights.webp" width="900" height="960" alt="Goods must be safe, of satisfactory quality and match their description. If not, the customer may be entitled to a repair, replacement or refund, and the business may face costs, penalties or a recall." loading="lazy">
+  <figcaption>Consumer law expects safe goods of satisfactory quality that match their description; if not, remedies and penalties follow.</figcaption>
+</figure>
+
 
 ## 1.5.4 The economic climate
 
@@ -107,6 +119,32 @@ Exchange rates:
 Reminder: £1 = 1.30 euros. An invoice for 5,200 euros costs 5,200 / 1.30 = £4,000. If the rate becomes £1 = 1.25 euros, the same invoice costs 5,200 / 1.25 = £4,160, which is £160 more. An £80 product costs 80 x 1.30 = 104 euros before the change and 80 x 1.25 = 100 euros after.
 
 Tax on income, as it affects customers: income £2,000 a month taxed at 20% leaves £1,600; at 25% it leaves £1,500. Customers have £100 less, a 6.25% fall in take-home pay, so they have less to spend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--03-piper-dale-income-squeeze.webp" width="900" height="810" alt="Piper and Dale monthly revenue is £15,000: £9,000 premium cakes and £6,000 bread. Premium cakes fall 15% to £7,650 and bread 3% to £5,820. Revenue falls £1,530 to £13,470, which is 10.2%." loading="lazy">
+  <figcaption>Squeezed incomes hit cakes harder (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--04-osprey-print-inflation-interest.webp" width="900" height="880" alt="Osprey Print profit was £28,000. 5% inflation adds £3,100 to materials. Interest on a £50,000 loan rises from 4% to 7%, from £2,000 to £3,500, adding £1,500. Total extra cost £4,600, so profit is £23,400, a fall of 16.4%." loading="lazy">
+  <figcaption>Two pressures on one profit (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--05-wren-lighting-weaker-pound.webp" width="900" height="860" alt="Wren Lighting pays a supplier 9,600 euros. At £1 = 1.20 euros it costs £8,000; at £1 = 1.10 euros it costs £8,727.27, which is £727.27 or 9.1% more. An exporter selling a £50 lamp charges a buyer 60 euros at 1.20 but 55 euros at 1.10, so a weaker pound makes exports cheaper." loading="lazy">
+  <figcaption>A weaker pound: who gains? (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--02-employment-effects.webp" width="900" height="1030" alt="High versus low employment compared on demand, recruitment and costs, each with a person icon and an arrow showing the direction of the effect." loading="lazy">
+  <figcaption>High and low employment change demand, recruitment difficulty and labour costs in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--08-pound-matrix.webp" width="900" height="930" alt="A grid shows a stronger pound hurts exporters and helps importers, while a weaker pound helps exporters and hurts importers. Firms that both import and export are partly protected." loading="lazy">
+  <figcaption>The direction of the pound has opposite effects on exporters and importers.</figcaption>
+</figure>
+
 
 ## 1.5.5 External influences and responses
 

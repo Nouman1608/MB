@@ -49,6 +49,12 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 
 ∪ means "or" and ∩ means "and". Infinity always takes a round bracket.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
+  <figcaption>Sketch the curve: above the axis gives an &quot;or&quot; answer outside the roots, below gives an &quot;and&quot; answer between them.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Linear.** Expand brackets, clear fractions by multiplying by the lowest common multiple of the denominators (a positive number), collect x terms, then divide, reversing the sign only if the divisor is negative.
@@ -126,6 +132,12 @@ In set notation this is {x: −3 < x < 3} ∩ {x: x ≥ −1/2} = [−1/2, 3).
 
 **Impossible or always true.** If the discriminant is negative, the curve never meets the axis. Then x² + x + 3 > 0 is true for all real x, while x² + x + 3 < 0 has no solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+
+
 ## Region reminders
 
 | Inequality | Boundary | Test (0, 0) | Shade |
@@ -137,6 +149,12 @@ In set notation this is {x: −3 < x < 3} ∩ {x: x ≥ −1/2} = [−1/2, 3).
 | y ≥ 1 | solid horizontal line | 0 ≥ 1 false | above the line |
 
 Several inequalities together give the **overlap** of their regions. A vertex of the region is where two boundaries meet: solve the two equations simultaneously. A vertex on a dashed boundary is not in the region. Example: the lines y = x and x + 2y = 12 meet where x + 2x = 12, so at (4, 4); the line x + 2y = 12 also meets the y-axis at (0, 6). To write inequalities for a drawn region, find the equation of each boundary, read solid or dashed, then test a point inside R to choose the sign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--06-inequality-region.webp" width="900" height="990" alt="Solid parabola y = x^2 - 4x and dotted line y = x + 6 meet at (-1, 5) and (6, 12). The region R between them is shaded; the test point (1, 0) satisfies both inequalities. Solid means included, dotted means excluded." loading="lazy">
+  <figcaption>Solid boundaries include their values, dotted ones do not; test a point to choose the side to shade. (Edexcel IAL / AQA content.)</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,6 +197,12 @@ Pick one value inside each interval you found, and one in each gap between them.
 11. The line x + y = 6 is dashed because the inequality is strict. At (3, 3), x + y = 6, which is not less than 6, so **(3, 3) is not in R**.
 12. **x = −1 and x = 2**, because each makes a denominator zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--07-fraction-inequality.webp" width="900" height="940" alt="Graph of y = 5/(x - 2) with asymptote x = 2 and the line y = 3. The curve is above the line only for 2 &lt; x &lt; 11/3. Multiplying by x - 2 is unsafe because its sign changes at x = 2." loading="lazy">
+  <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not reversing the sign after dividing or multiplying by a negative number.
@@ -192,6 +216,12 @@ Pick one value inside each interval you found, and one in each gap between them.
 - Rounding surd roots too early. Keep 3 ± √5 exact until a decimal is requested.
 
 Use the [practice questions](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational-practice/) to test yourself, and the [diagnostics](/diagnostics/) to check readiness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--05-curve-below-line.webp" width="900" height="880" alt="The curve y = x^2 - 4x + 3 and line y = 3 - 2x meet at x = 0 and x = 2. The curve is below the line between them, so 0 &lt; x &lt; 2." loading="lazy">
+  <figcaption>f(x) &lt; g(x) means the first graph lies below the second; find the intersections first.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -69,11 +69,38 @@ These notes condense sections 3.2.3.2 (employment and unemployment) and 3.2.3.3 
 
 Links to the model: a negative output gap → cyclical unemployment. Supply-side causes lower normal capacity, so the vertical LRAS curve sits further left. Example of a positive gap: potential 800, actual 824 → (824 − 800) ÷ 800 × 100 = **+3.0%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--06-ilo-discouraged-workers.webp" width="900" height="950" alt="Two bars split the working-age population into employed, unemployed and inactive. When 44,000 unemployed people stop looking, the rate falls from 5.0% to 4.04% and participation from 67.7% to 67.0%, though nobody found a job." loading="lazy">
+  <figcaption>A falling unemployment rate can hide discouraged workers leaving the labour force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--07-underemployment.webp" width="900" height="810" alt="The unemployment rate of 5.0% sits beside an underemployment rate of 9.8%. A part-timer on 16 hours who wants 40 has 24 unused hours, 60% of capacity." loading="lazy">
+  <figcaption>Underemployed workers count as employed, so the headline rate understates spare capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--09-lras-structural-unemployment.webp" width="900" height="915" alt="AD/AS diagram. The vertical LRAS shifts left from LRAS1 to LRAS2 because structural and frictional unemployment reduce normal capacity. The original equilibrium E is then above potential output, so raising aggregate demand alone risks higher prices instead of more jobs." loading="lazy">
+  <figcaption>Structural and frictional unemployment lower potential output, so more demand alone brings inflation, not jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## Employment: demand side and supply side
 
 * Demand side: higher consumption, investment, government spending or net exports → higher AD → more output → more hiring.
 * Supply side: skills, mobility, productivity, wages relative to productivity, regulation, the incentive to work.
 * Chain: lower real wage relative to productivity → hiring is cheaper → employment may rise, if demand for output exists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--08-demand-jobs-chain.webp" width="900" height="818" alt="A chain of five boxes: business confidence rises, investment rises, aggregate demand rises, firms expand and vacancies rise, employment goes up and unemployment goes down. A side box says that near capacity wages and prices rise instead, and another says the jobs last only if capacity grows." loading="lazy">
+  <figcaption>Higher confidence raises investment and demand, which lifts employment, but only lasting growth in capacity keeps the jobs.</figcaption>
+</figure>
+
 
 ## Global influences (list, then evaluate)
 
@@ -96,11 +123,28 @@ Method for a cost-push calculation: multiply each input's percentage rise by its
 
 **Money supply.** Excessive growth in the money supply increases AD and causes inflation. Link: faster money growth → more spending → AD shifts right → price level rises, more strongly near full capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--09-cost-push-bakery.webp" width="900" height="760" alt="Before and after bars show a loaf costing 2.00 rising to 2.158 as ingredients rise 10%, energy 20% and labour 2%. Weighted contributions are 4.0, 3.0 and 0.9 percentage points, a 7.9% rise." loading="lazy">
+  <figcaption>Cost rises are weighted by each input's share of total cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+
 ## Exchange rate and inflation
 
 A fall in the currency raises import prices in domestic currency and lifts export demand. A rise lowers import prices.
 
 **Reminder.** An import costs 80 foreign units. At 1 domestic unit = 1.25 foreign units, the price is 80 ÷ 1.25 = 64. If the currency appreciates to 1.60, the price is 80 ÷ 1.60 = 50, a fall of (50 − 64) ÷ 64 = **−21.9%**. At 1.00 (depreciation) the price is 80, up **25%** on 64.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--10-depreciation-imported-inflation.webp" width="900" height="960" alt="A good costing 50 foreign units rises from 25 to 31.25 zeds when the zed falls from 2.0 to 1.6. With imports 20% of the basket and 60% pass-through, inflation rises by 3.0 percentage points." loading="lazy">
+  <figcaption>Depreciation raises import prices; the effect on inflation depends on import share and pass-through.</figcaption>
+</figure>
+
 
 ## Index numbers, real values, disinflation and deflation
 
@@ -109,6 +153,27 @@ A fall in the currency raises import prices in domestic currency and lifts expor
 * Nominal pay +2.2%, inflation 3.5%: 1.022 ÷ 1.035 − 1 = **−1.3%** (real pay falls).
 * Disinflation: inflation 4.5%, 3.0%, 1.5% gives price levels 104.5, 107.6, 109.2. Prices rise throughout.
 * Deflation: index 98.6 → 97.3 is **−1.3%**. The price level itself has fallen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--08-disinflation-vs-deflation.webp" width="900" height="860" alt="A price index starting at 100 rises to 114.6 when inflation falls from 7% to 5% to 2% (disinflation) but falls to 95.57 when prices drop 1.5% a year (deflation)." loading="lazy">
+  <figcaption>Disinflation is a falling inflation rate; deflation is a falling price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--10-basket-index-check.webp" width="900" height="840" alt="Three bars whose widths are the basket weights (food 30 percent, housing 40 percent, transport 30 percent) and whose heights are item indices 108, 104 and 120. Each contributes 32.4, 41.6 and 36.0, which add to the weighted index of 110.0." loading="lazy">
+  <figcaption>A weighted price index is the sum of weight times item index: 32.4 + 41.6 + 36.0 = 110.0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 

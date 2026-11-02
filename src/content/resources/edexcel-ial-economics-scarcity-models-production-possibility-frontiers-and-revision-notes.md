@@ -80,6 +80,27 @@ Links: [Edexcel economics hub](/boards/edexcel/a-level/economics/), [printable c
 - Capital goods raise productivity and potential output, but making more now means fewer consumer goods now.
 - The PPF cannot say which point is best. That depends on values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--08-ppf-country-a.webp" width="900" height="970" alt="Frontier through A to E from the lesson table, with F inside and an unattainable point outside. Opportunity cost rises from 2.4 to 6 consumer goods per capital good." loading="lazy">
+  <figcaption>Rising opportunity cost bows the frontier outwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--09-ppf-invest-now-grow-later.webp" width="900" height="850" alt="Country A gives up 36 consumer goods now for a frontier 20% higher (max 120); Country B gives up 4 for a frontier 5% higher (105)." loading="lazy">
+  <figcaption>Investment costs consumption now for potential later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--05-ppf-shift-causes.webp" width="900" height="980" alt="Country A frontier shown with an outward shift (growth) and an inward shift (decline), both scaled by 20% for illustration, with the causes of each listed." loading="lazy">
+  <figcaption>Outward shifts come from more or better resources and technology; inward shifts from destruction or loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## Specialisation and the division of labour
 
 | Advantages | Disadvantages |
@@ -112,6 +133,17 @@ Inflation erodes the store of value. 5,000 units held for two years at 3% inflat
 | Forward markets | Fix a future price of a commodity or currency |
 | Market for equities | Buy and sell company shares |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--03-barter-45-vs-10.webp" width="900" height="750" alt="Ten goods as dots. Barter needs a rate for every pair, 45 lines. Money needs one price per good, 10 lines to a central money point." loading="lazy">
+  <figcaption>10 goods need 10 x 9 / 2 = 45 barter rates but only 10 money prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--04-forward-and-equity.webp" width="900" height="730" alt="A bakery agrees to buy 30 tonnes of flour at 420. Spot 465 saves 1,350; spot 390 costs 900 more but gave certainty. 200 shares at 15 cost 3,000; dividend 0.60 pays 120 (4%); a rise to 18 gains 600 (20%)." loading="lazy">
+  <figcaption>Forward contracts give price certainty; equities pay a dividend and a possible capital gain.</figcaption>
+</figure>
+
+
 ## Economic systems
 
 | | Free market | Command | Mixed |
@@ -122,6 +154,12 @@ Inflation erodes the store of value. 5,000 units held for two years at 3% inflat
 
 Role of the state in a mixed economy: public and merit goods, regulation, tax and benefits, competition policy, macroeconomic management and sometimes ownership.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+
 ## Models and ceteris paribus
 
 - Economics is a social science. Economies cannot be put in a laboratory, people react to being studied, and many experiments would be unethical or too costly.
@@ -129,9 +167,21 @@ Role of the state in a mixed economy: public and merit goods, regulation, tax an
 - Ceteris paribus lets you isolate one cause. Its weakness is that in real markets other things do change, so predictions can fail.
 - Evaluation: ask whether the dropped detail matters for the question. A model is useful if its assumptions are close enough to the case being studied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--01-ceteris-paribus-bakery.webp" width="900" height="860" alt="A bakery cuts the roll price 10% from 2.00 to 1.80 and weekly sales rise 12% from 500 to 560. A rival bakery was shut that week, so other things were not equal and the 12% cannot all be credited to the price cut." loading="lazy">
+  <figcaption>Ceteris paribus: with a rival shut, the 12% rise is not all due to the price cut.</figcaption>
+</figure>
+
+
 ## Positive or normative
 
 Look for "should", "fair", "too high" and "better". These signal value judgements. Statements with measurable claims are positive even if false. Value judgements shape which objectives a government chooses and which trade-offs it accepts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## Chains of reasoning
 
@@ -181,3 +231,14 @@ Look for "should", "fair", "too high" and "better". These signal value judgement
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.1 Introductory concepts, items 1 to 6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+

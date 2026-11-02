@@ -52,6 +52,27 @@ Every figure here is invented for illustration (Country B, Country C, a small to
 
 The first two rows are fiscal. The last four are monetary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--04-spending-vs-tax-cut.webp" width="900" height="940" alt="Two bar sets with a multiplier of 2.5. A government spending rise of 8bn is fully spent in the first round, so output rises 20bn and closes the 20bn gap. A tax cut of 10bn has only 7.5bn spent at home because 1.5 is saved and 1.0 goes on imports, so output rises 18.75bn and the gap is not closed." loading="lazy">
+  <figcaption>Why a spending rise is stronger per unit of budget cost than a tax cut.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--05-qe-bond-yield.webp" width="900" height="860" alt="Curve of bond yield against bond price for a bond paying 6 a year. At price 100 the yield is 6.00%, at 110 it is 5.45% and at 125 it is 4.80%. When the central bank buys bonds the price rises, so the yield falls and borrowing becomes cheaper." loading="lazy">
+  <figcaption>Why QE pushes long-term interest rates down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--01-rate-cut-mortgage-real-rate.webp" width="900" height="1010" alt="Two bar pictures. A 200,000 mortgage costs 14,000 a year at 7% and 12,000 at 6%, saving 2,000 a year (about 166.67 a month). Below, bars split the policy rate into inflation and real rate: 5% is 3% plus 2% real, and after the cut 4% is 3% plus 1% real." loading="lazy">
+  <figcaption>A rate cut cuts mortgage interest and the real rate, raising disposable income and AD.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--02-credit-limits-ltv-reserves.webp" width="900" height="1040" alt="Top: on a 250,000 house a 90% loan-to-value limit allows a 225,000 loan and needs a 25,000 deposit; an 80% limit allows 200,000 and needs 50,000. Bottom: 5bn of reserves supports 50bn of deposits at 10% (45bn to lend) but 41.67bn at 12% (36.67bn to lend, 8.33bn less)." loading="lazy">
+  <figcaption>Tighter lending criteria and higher reserve requirements cut credit without changing the interest rate.</figcaption>
+</figure>
+
+
 ## Transmission chains (learn these as sequences)
 
 **Interest rate cut:** lower cost of borrowing, so more consumption and investment; lower payments on variable debt, so more disposable income; weaker incentive to save; possibly lower exchange rate, so higher net exports. Result: AD up, real GDP up, price level up.
@@ -93,6 +114,12 @@ The first two rows are fiscal. The last four are monetary.
 
 **Worked reminder.** Index 108.0 then 111.2: (111.2 − 108.0) / 108.0 = 2.96%, about 3.0%. Against a 2% target the central bank would consider raising the rate. Next year's index at target: 111.2 × 1.02 = 113.42.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--03-inflation-target-gap.webp" width="900" height="930" alt="Bars show actual inflation of 3.6% against a 2% target, 1.6 percentage points above. A price index line shows 125.0 last year, 129.5 this year and about 132.09 needed next year to hit 2%." loading="lazy">
+  <figcaption>The index rise from 125.0 to 129.5 is 3.6%, above the 2% target; 132.09 would hit it next year.</figcaption>
+</figure>
+
+
 ## Central banks: four roles
 
 1. Implement monetary policy (policy rate, QE, reserve or lending rules).
@@ -101,6 +128,17 @@ The first two rows are fiscal. The last four are monetary.
 4. Banker to the banks and lender of last resort.
 
 Link the roles: the lender-of-last-resort role protects confidence in the banking system, but moral hazard is the cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--04-central-bank-banker-lender.webp" width="900" height="990" alt="The central bank sits between the government (it holds accounts, handles payments and debt) and commercial banks (reserve accounts settle debts between banks; emergency loan to a solvent bank as lender of last resort). A box notes the moral hazard drawback." loading="lazy">
+  <figcaption>The central bank is banker to the government and to the banks, and lends in an emergency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## Strengths and weaknesses
 
@@ -134,6 +172,12 @@ Link the roles: the lender-of-last-resort role protects confidence in the bankin
 | Political pressure | High | Lower if the central bank is independent |
 
 Use this table to build a judgement paragraph, not to replace one. A table row is a point. A paragraph says why that point matters in the case given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
 
 ## Policy mix
 

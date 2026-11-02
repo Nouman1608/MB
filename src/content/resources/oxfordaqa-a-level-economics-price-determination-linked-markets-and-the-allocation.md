@@ -51,6 +51,12 @@ Set Qd = Qs: 480 − 30P = −60 + 30P, so 540 = 60P and **P = 9 cu**. Then Q = 
 
 In a diagram, price runs up the vertical axis and quantity along the horizontal one. The downward-sloping demand curve meets the upward-sloping supply curve at the equilibrium point. A price above it shows excess supply as the horizontal gap between the curves; a price below it shows excess demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+
 ## Shifts and the size of price changes
 
 A shift of either curve creates a new equilibrium. Name the cause, state which curve moves and in which direction, then take the new price and quantity from where the curves now cross.
@@ -68,6 +74,17 @@ A shift of either curve creates a new equilibrium. Name the cause, state which c
 
 When supply is steeper, producers cannot expand much, so more of the demand rise is absorbed by price. A steeper demand curve works the same way for a supply shift: price moves more and quantity less.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--01-price-vs-quantity-split.webp" width="900" height="990" alt="Two demand and supply diagrams for the same rise in demand. With flat supply, price rises 11.1% and quantity 14.3%; with steeper supply, price rises 16.7% and quantity only 7.1%. More of the demand rise is absorbed by price when supply responds less." loading="lazy">
+  <figcaption>Same demand rise, two supply curves: steeper supply means a bigger price change and a smaller quantity change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
+
 ## Commodity prices and speculation
 
 Commodity prices swing widely because supply depends on weather and harvests, short-run supply and demand are both unresponsive to price, and so a modest shift needs a large price move to restore equilibrium.
@@ -83,6 +100,17 @@ Commodity prices swing widely because supply depends on weather and harvests, sh
 Prices swing by 20% either way. Farmers' revenue is higher after the poor harvest and lower after the bumper one, because demand is unresponsive: the price change outweighs the quantity change. That is why producers' incomes can be unstable even when output is high.
 
 **Speculation** means buying or selling mainly to gain from an expected change in price. Suppose traders expect Crop K to rise and add 40 units of demand at every price: Qd = 440 − 20P. Then 440 − 20P = 100 + 20P, so **P = 8.5, Q = 270**. Price has risen 13.3% before any real shortage appeared, and the rise may confirm the traders' belief and draw in more buyers. This is a self-fulfilling prophecy and it can build a bubble. If the expectation proves wrong, the reverse sell-off brings a sharp fall. Evaluation: speculators can also stabilise prices. Buying when the harvest is good lifts a low price, and selling stocks when it is poor limits the rise. The effect depends on whether traders follow fundamentals or follow each other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--02-harvest-revenue.webp" width="900" height="900" alt="Supply shifts left (poor harvest) or right (bumper) along an unresponsive demand curve. Price moves from 7.5 to 9.0 or 6.0 while quantity moves only between 220 and 280. Revenue is highest after the poor harvest (1,980) and lowest after the bumper one (1,680)." loading="lazy">
+  <figcaption>Because demand is unresponsive, farmers earn more after a poor harvest than a bumper one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--06-speculation-self-fulfilling.webp" width="900" height="830" alt="Supply and demand for Crop K. Traders expect a rise and add 40 units of demand at every price, moving the equilibrium price from 7.5 to 8.5 (+13.3%) with quantity 250 to 270. A loop below shows the belief appearing confirmed." loading="lazy">
+  <figcaption>Speculation shifts demand before any shortage and can become self-fulfilling.</figcaption>
+</figure>
+
 
 ## Linked markets
 
@@ -104,6 +132,22 @@ Markets are connected, so a change in one has knock-on effects. Use the correct 
 
 **Worked example 7 (joint supply).** A farm region has 50,000 sheep, each giving 3 kg of wool, so wool output is 150 thousand kg. Wool demand is Qd = 300 − 10P (thousand kg, P in cu), so P = 15. Rising demand for lamb pushes the flock up 10% to 55,000, and wool output to 165 thousand kg (55 × 3). Wool is a by-product, so farmers do not raise the flock because of the wool price: supply simply shifts right to 165. The new price is (300 − 165)/10 = **13.50**, down 10%. A rise in demand for one joint product lowers the price of the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--07-composite-demand-milk.webp" width="900" height="720" alt="Two stacked bars of milk demand. Before, price 10: drinking 100 and cheese 100. After a cheese boom, price 11: drinking 80 and cheese 150. Cheese makers bid milk away from drinkers." loading="lazy">
+  <figcaption>With composite demand, a rise in one use can reduce the quantity available for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--08-joint-supply-wool.webp" width="900" height="830" alt="Wool demand Qd = 300 - 10P with a vertical supply that shifts from 150 to 165 thousand kg when the flock rises 10%. The price falls from 15 to 13.50." loading="lazy">
+  <figcaption>A rise in demand for lamb lowers the price of wool, its joint product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
+
 ## How prices allocate resources
 
 The **price mechanism** resolves the basic economic problem of what, how and for whom to produce without a central planner, by coordinating the separate decisions of buyers and sellers through price. It has three functions.
@@ -119,6 +163,22 @@ The **price mechanism** resolves the basic economic problem of what, how and for
 **Assessing "an impersonal method".** For: prices treat every buyer and seller by the same rule, regardless of who they are, so nobody's favouritism decides. Against: the result still depends on the unequal distribution of income, so those with more money have more votes. Judgement: impersonal does not mean neutral or fair.
 
 **Extending markets into new areas.** Charging for places on a public clinic's waiting list, for example, might cut queues and raise funds. But it may be undesirable: access depends on income, and the activity changes. Volunteer helpers paid by the hour may feel their role is now a job and give less. Weigh efficiency gains against equity and the nature of the activity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--09-rationing-prints.webp" width="900" height="720" alt="Supply of 120 prints is fixed and demand is Qd = 300 - 10P. At 12 demand is 180, an excess of 60; the price rises to 18 where demand equals 120, pricing out the buyers who value a print below 18." loading="lazy">
+  <figcaption>A higher price rations a fixed supply to those willing and able to pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--10-tile-workshop-method.webp" width="900" height="920" alt="Method X uses 12 workers and 2 machines; method Y uses 5 workers and 5 machines. At a wage of 40, X costs 720 and Y 800, so X is cheaper. At a wage of 60, X costs 960 and Y 900, so Y is cheaper." loading="lazy">
+  <figcaption>When wages rise, firms switch to the method that uses more capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
 
 ## Common errors
 

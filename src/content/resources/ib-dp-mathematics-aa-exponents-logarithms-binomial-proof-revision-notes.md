@@ -105,6 +105,22 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 > 3. Set it equal to the power you want and solve for r.
 > 4. Substitute r and evaluate the coefficient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--01-exponent-ladder.webp" width="900" height="720" alt="Eight boxes show 2 to the power -3 to 4 as 1/8, 1/4, 1/2, 1, 2, 4, 8, 16, each step to the right multiplying by 2. Arrows from 2^3 = 8 and 2^(-1) = 1/2 merge into 2^2 = 4, showing that multiplying powers adds the exponents (3 + (-1) = 2)." loading="lazy">
+  <figcaption>Each step up the exponent multiplies by 2, so multiplying powers adds exponents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--02-rational-exponents.webp" width="900" height="890" alt="27^(2/3): the cube root of 27 is 3 (the edge of a 3 by 3 by 3 cube) and squaring gives 9. 32^(-3/5): the fifth root of 32 is 2, cubing gives 8, and the reciprocal gives 1/8. Take the root first so the numbers stay small." loading="lazy">
+  <figcaption>For a^(n/m), take the m-th root first, then the power n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--04-change-of-base.webp" width="900" height="900" alt="A ruler marks 1, 2, 4, 8, 16, 32 at their base-2 logarithms 0 to 5. The length to 32 is 5 units and one base-8 step (log2 8) is 3 units, so 5 units hold 5/3 steps: log8 32 = 5/3. With a calculator, log3 20 = ln 20 / ln 3 = 2.73." loading="lazy">
+  <figcaption>Changing base counts how many steps of one size fit in another length.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Exponents.** (3x²y⁻¹)³ × (2x⁻⁴y)² = 27x⁶y⁻³ × 4x⁻⁸y² = 108/(x²y).
@@ -134,6 +150,12 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 ```
 
 Row n gives the coefficients of (a + b)^n. Each row is symmetric because nCr = nC(n−r).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--08-pascal-expansion.webp" width="900" height="910" alt="Pascal’s triangle for rows 0 to 8, each entry the sum of the two above. Row 4 (1, 4, 6, 4, 1) gives (2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81. In row 8, 8C3 = 8C5 = 56 by symmetry." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the coefficients of (a + b)^n.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -178,6 +200,12 @@ AA Paper 1 allows no technology; Paper 2 requires it. Be fluent by hand with exp
 10. 5!/(2! 3!) = 120/12 = **10**
 11. **No.** (x + 1)² = x² + 2x + 1, which equals x² + 1 only when x = 0. It is an equation, not an identity.
 12. 2x = ln 5, so **x = ½ ln 5 = 0.805**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--03-log-solves-power.webp" width="900" height="960" alt="A graph of y = 10^x shows the level y = 50 meeting the curve at x = log 50 = 1.70 (3 s.f.). The definition 2^5 = 32 is equivalent to log2 32 = 5, and the same idea in base e gives x = ln 7 = 1.95 for e^x = 7." loading="lazy">
+  <figcaption>A logarithm answers &quot;what power?&quot;, so 10^x = 50 gives x = log 50 = 1.70.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -55,6 +55,12 @@ Condensed notes for the Risk and uncertainty and Opportunity cost content (numbe
 
 Worked reminder: Axtell Joinery, a small furniture maker, may launch a new range. A hit gives +£50,000 (probability 0.6) and a flop gives -£20,000 (probability 0.4). Expected value = 0.6 × 50,000 + 0.4 × -20,000 = 30,000 - 8,000 = **£22,000**. The worst case is a £20,000 loss, so the question is whether Axtell could bear it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--05-risk-reward-mossgill.webp" width="900" height="1070" alt="Three bars with width equal to probability show gains of 150,000, 40,000 and a loss of 60,000. Expected value is 53,000, above the safe 28,000, but there is a 20 percent chance of losing 60,000 and a 210,000 spread." loading="lazy">
+  <figcaption>Higher expected reward comes with a real chance of a loss.</figcaption>
+</figure>
+
+
 ## Quantifiable and unquantifiable risk
 
 | | Quantifiable | Unquantifiable |
@@ -63,6 +69,17 @@ Worked reminder: Axtell Joinery, a small furniture maker, may launch a new range
 | Examples | Bad debts, machine breakdowns, insured events | A rival's new technology, a fashion shift, overseas politics |
 | Tools | Expected value, insurance, provisions, budgets | Scenarios, flexibility, cash reserves, contingency plans |
 | Weakness | False precision; the past may not repeat | Nothing to compare; may be ignored or cause delay |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--06-quantifiable-unquantifiable.webp" width="900" height="1000" alt="Quantifiable risks such as bad debts, breakdowns and fire can be given numbers from past data and insured or budgeted. Unquantifiable risks such as a rival's technology, fashion or overseas politics have no reliable number and call for flexibility and cash." loading="lazy">
+  <figcaption>Quantifiable risks can be priced; unquantifiable ones can only be prepared for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
 
 ## Reducing risk
 
@@ -82,6 +99,12 @@ Worked reminder: Axtell Joinery, a small furniture maker, may launch a new range
 - Owners and shareholders: lost dividends and capital. Employees: redundancy or short-time work. Lenders: late repayment. Suppliers: unpaid bills and lost custom. Customers: lost product or support. Community: lost jobs and spending.
 - Judge severity by the loss compared with the firm's resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--02-poor-risk-stakeholders.webp" width="900" height="870" alt="A central circle for poor risk management links to six stakeholder cards giving the consequence for each: owners, employees, lenders, suppliers, customers and the community. The business itself faces losses, a cash-flow crisis and possible closure." loading="lazy">
+  <figcaption>Poor risk management harms the business and every stakeholder group in a different way.</figcaption>
+</figure>
+
+
 ### Risks faced by an entrepreneur
 
 - Loss of savings; personal assets at risk if liability is unlimited.
@@ -89,6 +112,17 @@ Worked reminder: Axtell Joinery, a small furniture maker, may launch a new range
 - Opportunity cost of the salary and security given up.
 - Business failure and its effect on family and reputation.
 - Weigh these against the reward and the entrepreneur's savings, experience and support.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--01-ways-reduce-risk.webp" width="900" height="999" alt="Seven rows, one per method of reducing risk, each with what it gives (plus) and its catch (minus): research, spreading, phasing, insurance, contracts, prudence and contingency planning. Icons are simple symbols for each method." loading="lazy">
+  <figcaption>Each way of reducing risk has a benefit and a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
 
 ## Uncertainty
 
@@ -111,6 +145,17 @@ Effects of uncertainty on a business:
 
 Evaluate the impact by asking how large the uncertainty is, how soon it resolves, and who bears the effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--07-uncertainty-causes.webp" width="900" height="940" alt="The business sits in a box with internal causes: a key worker leaving, product success and machine reliability. Arrows come in from external causes: the economy, interest rates, competitors, tastes, weather and regulation." loading="lazy">
+  <figcaption>Internal uncertainty can be reduced with information; external uncertainty can only be prepared for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--08-uncertain-demand-range.webp" width="900" height="1000" alt="A profit line crosses zero at 8,000 units. Forecasts of 7,000, 9,000 and 11,000 units give profits of minus 11,000, 11,000 and 33,000 pounds. The margin of safety at 9,000 is 1,000 units, 11.1 percent." loading="lazy">
+  <figcaption>Forecast a range: a fall of just over 11% at the middle forecast turns profit into loss.</figcaption>
+</figure>
+
+
 ## Opportunity cost
 
 ### Method in steps
@@ -123,6 +168,17 @@ Evaluate the impact by asking how large the uncertainty is, how soon it resolves
 Worked reminder: Axtell has £40,000 and chooses a kiln worth £5,200 a year (13.0%). The alternatives are staff training worth £4,600 a year (11.5%) and a deposit worth £800 (2.0%). The opportunity cost is **£4,600 a year**, the training. The kiln wins by £600 a year on these figures.
 
 Impact on decision making: it forces comparison of options, shows that a positive return can still be a poor choice, applies to time as well as money, interacts with risk (the next best option may be safer), and relies on estimates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--03-birchall-opportunity-cost.webp" width="900" height="890" alt="Bars show returns on 60,000 pounds: A cold room 15 percent, C van 12.5 percent, B loan repayment 7 percent. A is chosen; the opportunity cost is C at 7,500 pounds a year, not 11,700 pounds, because money can be spent only once." loading="lazy">
+  <figcaption>The opportunity cost is the single next best option, not the total of everything rejected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
 
 ## Answering "evaluate", "analyse" and "identify"
 
@@ -164,6 +220,12 @@ Impact on decision making: it forces comparison of options, shows that a positiv
 8. Aims and objectives, planning, decision making, business analysis, forecasting.
 9. Any two: loss of savings, no guaranteed income, opportunity cost of salary given up, business failure.
 10. Probabilities are estimates; it is an average, not a likely single result; it ignores non-financial effects and the size of the worst case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

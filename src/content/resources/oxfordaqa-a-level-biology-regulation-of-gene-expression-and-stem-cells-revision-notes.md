@@ -38,6 +38,12 @@ Key reasoning chain for acetylation: histones are positively charged, DNA is neg
 
 **Link to inheritance in cell lines:** the pattern is copied on replication, so daughter cells keep the same silenced or active genes. That is how a specialised cell stays specialised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+
 ## Cancer genes
 
 | Gene type | Normal role | How cancer develops |
@@ -62,6 +68,12 @@ Faulty methylation works in both directions: hypermethylation silences tumour su
 
 Small worked reminder: promoter methylation is 12% in healthy tissue and 60% in a tumour, so it is 60 / 12 = 5 times higher. mRNA falls from 40 units to 10 units, a decrease of (40 − 10) / 40 × 100 = 75%. A higher methylation level goes with lower expression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
+
 ## 3.4.9.2 RNA interference
 
 miRNA and siRNA are short RNA molecules, around 20 to 25 nucleotides long. They attach to mRNA of target genes and change gene activity (raising or lowering it).
@@ -82,6 +94,12 @@ Steps for a decrease in protein:
 **Quick check on the effect size:** if a protein falls from 250 units to 60 units after siRNA treatment, the decrease is (250 − 60) / 250 × 100 = 76%. Some protein remains, so describe it as reduced, not removed.
 
 **Common application:** siRNA designed against an oncogene mRNA reduces the cancer-promoting protein in research settings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ## 3.4.9.3 Stem cells
 
@@ -108,6 +126,12 @@ Order from widest to narrowest: totipotent, pluripotent, multipotent, unipotent.
 **Conclude:** give a judgement, such as "worth using for X because the benefit is large, but the risk needs monitoring".
 
 Small worked reminder: if 30 of 60 treated patients improve (50%) and 12 of 60 controls improve (20%), the difference is 30 percentage points. The benefit is clear, but 20% of controls improved without treatment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
 
 ## Answer frames to rehearse
 

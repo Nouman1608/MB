@@ -59,6 +59,17 @@ Neither quantity has units, because each is a ratio.
 
 Reminder: boron is 20% ¹⁰B and 80% ¹¹B, so Ar = (0.20 × 10) + (0.80 × 11) = 10.8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--02-relative-atomic-mass.webp" width="900" height="960" alt="Two bars show chlorine-35 at 75% and chlorine-37 at 25%. A dashed line marks the weighted mean, 35.5, nearer the taller bar. A carbon-12 atom is shown as the exact standard of 12." loading="lazy">
+  <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--07-reacting-masses.webp" width="900" height="930" alt="Four stacked steps follow TiCl4 + 2Mg -&gt; Ti + 2MgCl2: 1.00 kg Ti, divided by 47.9 gives 20.9 mol, multiplied by 2 gives 41.8 mol Mg, multiplied by 24.3 gives about 1015 g (1.01 kg) of magnesium." loading="lazy">
+  <figcaption>Balanced equation, moles, mole ratio, then mass. Edexcel worked example.</figcaption>
+</figure>
+
+
 ## 3.1.2.2 The mole, Avogadro and solutions
 
 A mole of any substance always holds an identical number of entities: the Avogadro constant, L = 6.02 × 10²³ mol⁻¹. The entity can be an atom, molecule, ion, electron, formula unit or equation unit.
@@ -78,6 +89,17 @@ Worked reminders:
 - Each H₂O molecule has 10 electrons, so 0.250 mol of water holds 2.50 mol of electrons, which is 1.51 × 10²⁴ electrons.
 
 A formula is a statement about moles too: the formula Al₂(SO₄)₃ says 2 mol Al to 3 mol SO₄ in 1 mol of compound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--01-mole-hub.webp" width="900" height="1050" alt="A hub with the amount in moles (0.50 mol of CO2) in the centre and four double-headed arrows to mass (22.0 g), particles (3.01 x 10^23), gas volume (12.0 dm3) and solution concentration times volume. Each box shows the formula linking it to moles. The gas-volume route is tagged OCR and Edexcel." loading="lazy">
+  <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
+</figure>
+
 
 ## 3.1.2.3 The ideal gas equation
 
@@ -104,6 +126,12 @@ Reminder (finding p): 0.0800 mol of gas in 1.50 dm³ at 350 K. V = 1.50 × 10⁻
 
 Reminder (finding Mr): 0.640 g of a gas occupies 0.500 dm³ at 100 kPa and 300 K. n = pV / RT = (100 000 × 0.500 × 10⁻³) / (8.31 × 300) = 0.0201 mol, so Mr = 0.640 / 0.0201 = 31.9.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--04-ideal-gas.webp" width="900" height="925" alt="Three arrows convert pressure, volume and temperature to SI units: 96.0 kPa to 96 000 Pa, 0.750 dm3 to 7.50 x 10^-4 m3 and 18 C to 291 K. Below, n = pV/RT gives 0.0298 mol and a mass of 2.11 g." loading="lazy">
+  <figcaption>Convert to Pa, m3 and K before using pV = nRT.</figcaption>
+</figure>
+
+
 ## 3.1.2.4 Empirical and molecular formula
 
 **Empirical formula:** the smallest whole-number atom ratio for a compound.
@@ -120,6 +148,12 @@ Method in steps:
 Reminder A: a sample holds 1.20 g C, 0.20 g H and 0.80 g O. Moles: 0.100, 0.20, 0.050. Divide by 0.050: 2 : 4 : 1. Empirical formula C₂H₄O (mass 44). If Mr = 88, then 88 / 44 = 2, so the molecular formula is C₄H₈O₂.
 
 Reminder B: an oxide is 69.9% Fe and 30.1% O. Moles: 1.25 and 1.88. Ratio 1 : 1.50, so multiply by 2 to give 2 : 3. The empirical formula is Fe₂O₃. Do not round 1.50 down to 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--05-empirical-formula.webp" width="900" height="1000" alt="A bar chart of moles per 100 g (C 3.33, H 6.70, O 3.33) leads to the ratio 1:2:1, the empirical formula CH2O (mass 30) and, since Mr is 180 (6 x 30), the molecular formula C6H12O6." loading="lazy">
+  <figcaption>Moles from percentages give the ratio, and Mr divided by the empirical mass gives the multiplier.</figcaption>
+</figure>
+
 
 ## 3.1.2.5 Equations and calculations
 
@@ -143,6 +177,12 @@ The calculation chain: given quantity → moles → use equation ratio → moles
 **Why high atom economy matters:** economically, less raw material ends up as unwanted product, and waste disposal or separation costs fall. Ethically and environmentally, fewer natural resources are consumed and less waste is produced, which benefits society and industry alike. Be ready to give one point for each, not a general statement.
 
 **Required practical 1:** make up a volumetric solution (weigh by difference, dissolve in a beaker, transfer with rinsings to a volumetric flask, fill to the graduation line, then invert to mix) and carry out a simple acid-base titration (pipette, burette, indicator, concordant titres).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--09-spectator-ions.webp" width="900" height="930" alt="Two beakers show silver, chloride, sodium and nitrate ions before mixing. After reaction, solid silver chloride lies at the bottom and only sodium and nitrate ions remain dissolved. They are spectators, leaving Ag+(aq) + Cl-(aq) -&gt; AgCl(s)." loading="lazy">
+  <figcaption>Spectator ions are unchanged and are cancelled to give the ionic equation.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

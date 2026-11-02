@@ -62,9 +62,21 @@ Other results you use constantly (they follow from the above):
 - **Second law:** resultant force = mass × acceleration, in the same direction.
 - **Third law:** A on B is equal and opposite to B on A; the pair act on **different** bodies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+
 ## About g (R3)
 
 The specification says g may be assumed constant and is used to varying degrees of accuracy. It is not a universal constant: it depends on location. The inverse square law is not required. Use the value in the question, and round answers to match it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
+  <figcaption>Take moments about a support to remove its reaction; clockwise moments equal anticlockwise moments.</figcaption>
+</figure>
+
 
 ## Method: F = ma problems
 
@@ -83,12 +95,34 @@ The specification says g may be assumed constant and is used to varying degrees 
 4. For a rigid tow bar, find a from the whole system, then T from the rear body alone.
 5. When a string goes slack or breaks, the tension becomes zero: start a new stage with new equations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--03-amth-forces-pulley.webp" width="900" height="1210" alt="(Top) A 3 kg particle on a smooth table joined over a smooth pulley to a 2 kg hanging particle: T = 3a and 2g − T = 2a give a = 3.92 m per second squared, T = 11.8 N. (Bottom) 7 kg and 4 kg hanging masses: a = 3g/11 = 2.67 m per second squared, T = 49.9 N. Tension is the same on both sides." loading="lazy">
+  <figcaption>Write one F = ma equation per particle; tension is the same each side of a smooth pulley.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--04-amth-forces-tow.webp" width="900" height="1010" alt="Whole system of 2000 kg: 3300 − 800 = 2000a gives a = 1.25 m per second squared. Trailer alone: T − 300 = 800 × 1.25 gives T = 1300 N. With a rigid bar and braking, the system slows at 1.15 m per second squared and the bar pushes back on the trailer with 620 N thrust (Cambridge 9709, OxfordAQA)." loading="lazy">
+  <figcaption>Treat the whole system first, then one part to find the tow-bar force; a rigid bar can push (thrust).</figcaption>
+</figure>
+
+
 ## Method: equilibrium of a particle
 
 1. Choose two perpendicular directions (often horizontal and vertical, or along and across a slope).
 2. Resolve every force in each direction.
 3. Set each total to zero and solve the pair of equations.
 4. With forces as vectors, add the vectors and set the sum to 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
 
 ## Method: friction decisions
 
@@ -97,6 +131,12 @@ The specification says g may be assumed constant and is used to varying degrees 
 3. Smaller than μR → stays at rest, friction equals that force.
 4. Equal → limiting equilibrium, on the point of moving.
 5. Larger → it moves; friction = μR, against the motion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -123,6 +163,12 @@ a = (43.30 − 36.9) ÷ 10 = 0.640 m s⁻²
 - **Third-law pair vs balanced forces:** a third-law pair acts on two bodies; balanced forces act on one.
 - **Tension vs thrust:** a string can only pull; a rod can pull (tension) or push (thrust).
 - **Light, inextensible, smooth pulley:** each assumption has a job (see [Overarching themes](/resources/aqa-a-level-mathematics-overarching-themes/)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

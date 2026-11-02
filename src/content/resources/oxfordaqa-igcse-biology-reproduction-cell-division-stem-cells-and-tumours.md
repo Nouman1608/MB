@@ -50,6 +50,12 @@ The matching [revision notes](/resources/oxfordaqa-igcse-biology-reproduction-ce
 
 Two clones can still look different if they grow in different conditions. A plant cutting given less light than its parent may grow smaller. That difference is environmental, not genetic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+
 ## 3.5.2 a-c: Chromosomes, genes and alleles
 
 The **nucleus** of a cell contains **chromosomes**. Chromosomes carry **genes**, and genes control the characteristics of the body. Each chromosome carries a large number of genes, so a chromosome is not the same thing as a gene.
@@ -70,6 +76,17 @@ A normal body cell holds its chromosomes as **pairs**. One chromosome of each pa
 - Pairs = 64 ÷ 2 = **32 pairs**.
 - A gamete has a single set, so a sperm has 64 ÷ 2 = **32 chromosomes**.
 - Fertilisation joins a sperm (32) to an egg (32): 32 + 32 = **64 chromosomes**, the full number again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--05-horse-chromosomes.webp" width="900" height="960" alt="A horse body cell has 64 chromosomes, which is 32 pairs. A sperm has 32 and an egg has 32. Fertilisation gives 32 plus 32 equals 64 in the fertilised egg." loading="lazy">
+  <figcaption>Gametes carry one set (32); fertilisation restores the full 64.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## 3.5.2 d-e: Mitosis
 
@@ -118,6 +135,17 @@ The last row goes slightly beyond the wording of the specification, but it follo
 - Each sperm has 40 ÷ 2 = **20 chromosomes**.
 - Had those cells divided by mitosis, 25 cells would make 50 cells, each with 40 chromosomes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--06-meiosis-gamete-count.webp" width="900" height="880" alt="Twenty-five mouse cells with 40 chromosomes each. By mitosis they make 50 cells with 40 chromosomes each; by meiosis they make 100 sperm with 20 chromosomes each." loading="lazy">
+  <figcaption>Mitosis doubles the cell number keeping 40 chromosomes; meiosis quadruples it and halves the chromosome number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## 3.5.2 i: Fertilisation and development
 
 Gametes join at **fertilisation** to form a single body cell with new pairs of chromosomes. One chromosome in each pair comes from the sperm and one from the egg, which is how each parent gives half of the genes.
@@ -129,6 +157,17 @@ This cell then divides repeatedly by mitosis to form many cells. As the organism
 - a root hair cell, which absorbs water and mineral ions
 
 All these cells have the same genes. They differ because different genes are active in each type.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--07-differentiation-same-genes.webp" width="900" height="1090" alt="A fertilised egg divides by mitosis into cells with identical genes, which differentiate. Red blood, nerve and root hair cells carry the same five genes but a different pair is switched on in each. In plants a cutting can grow roots and become a clone." loading="lazy">
+  <figcaption>Cells differ because different genes are active, not because they have different genes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
 
 ## 3.5.2 j: Animals and plants compared
 
@@ -162,6 +201,17 @@ The specification expects you to make informed judgements, when given appropriat
 
 Do not just say "it is wrong". Say who is affected and why, then reach a conclusion that follows from your points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--07-stem-culture-doubling.webp" width="900" height="1010" alt="Bars for 400 cells doubling every 18 h up to 51 200 at 126 h; 6400 at 72 h; the 50 000 line is first passed at 126 h." loading="lazy">
+  <figcaption>Doubling every 18 hours takes 400 cells past 50 000 in 126 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--04-stem-cell-sources.webp" width="900" height="910" alt="Three panels: embryonic stem cells make most human cell types (six shown), adult bone marrow stem cells make blood cells and a narrower range (two shown), plant meristem stem cells make any plant cell type throughout life." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
+</figure>
+
+
 ## 3.5.2 n-o: Tumours and their causes
 
 A **tumour** results from the abnormal, uncontrolled growth of cells. In other words, cells divide by mitosis without the normal control.
@@ -185,6 +235,22 @@ A carcinogen is something that can cause cancer. Reducing exposure, for example 
 Growth alone does not show a tumour is malignant. Secondary tumours in other organs would be the key evidence.
 
 **Worked example 6.** Illustrative values: lung cancer cases per 100 000 people per year are 12 in non-smokers and 168 in heavy smokers. The ratio is 168 ÷ 12 = **14**. Heavy smokers have 14 times the rate. This shows a strong link, and tobacco smoke contains chemical carcinogens that offer a reason why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--08-tumour-growth.webp" width="900" height="900" alt="Two circles to the same scale, 8 mm and 17 mm: increase 9 mm, 112.5 percent, 1.0 mm per month." loading="lazy">
+  <figcaption>Diameter rose by 9 mm, 112.5 percent, in 9 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--09-smoking-lung-cancer-ratio.webp" width="900" height="900" alt="Bars of 12 and 168 cases per 100 000 (illustrative); 14 copies of the short bar equal the long bar, so the ratio is 14." loading="lazy">
+  <figcaption>168 divided by 12 gives a ratio of 14.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--10-tumour-causes.webp" width="900" height="1050" alt="Tobacco smoke and asbestos (chemical carcinogens), and UV and X-rays (ionising radiation) damage genetic material; uncontrolled mitosis then forms a tumour." loading="lazy">
+  <figcaption>Carcinogens and ionising radiation can lead to uncontrolled cell division.</figcaption>
+</figure>
+
 
 ## Common errors
 

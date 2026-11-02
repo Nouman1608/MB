@@ -68,6 +68,12 @@ Equation for a first ionisation energy (state symbols needed): Sr(g) → Sr⁺(g
 
 Magnesium has a different crystal structure (hexagonal close-packed), so it does not follow this pattern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+
 ## 3. Reactions with water
 
 | Reaction | Equation | Observations |
@@ -79,6 +85,17 @@ Magnesium has a different crystal structure (hexagonal close-packed), so it does
 - Reactivity increases down the group because the outer electrons are lost more easily (lower ionisation
   energies).
 - Each reaction is redox: metal 0 → +2; hydrogen +1 → 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
 
 ## 4. Uses of Group 2 metals and compounds
 
@@ -126,6 +143,17 @@ Memory hook: the two trends run in opposite directions. Hydroxides go up; sulfat
 
 A saturated solution of a hydroxide lower in the group contains more OH⁻ ions, so it has a higher pH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
+</figure>
+
+
 ## 6. The test for sulfate ions
 
 ```
@@ -138,6 +166,12 @@ A saturated solution of a hydroxide lower in the group contains more OH⁻ ions,
 - **The acid is added** to remove carbonate (and sulfite) ions, which would also give a white precipitate
   with Ba²⁺: 2H⁺ + CO₃²⁻ → CO₂ + H₂O.
 - **Never use H₂SO₄** to acidify: it adds sulfate ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
 
 ## 7. Required practical 4: Group 2 cations
 
@@ -155,6 +189,12 @@ Required practical 4 is listed in section 3.2.3 and includes identifying Group 2
 2. Add dilute H₂SO₄ to a fresh sample: a white precipitate points to Ba²⁺; none points to Mg²⁺.
 3. Use both results together; Ca²⁺ and Sr²⁺ give intermediate results.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--05-group2-thermal-stability.webp" width="900" height="1000" alt="Rows for Mg2+ to Ba2+ show a cation beside a carbonate ion whose electron cloud is distorted most by the smallest cation. Bars show more heat is needed to decompose as the cation gets larger. Equations for carbonate and nitrate decomposition are given. Edexcel only." loading="lazy">
+  <figcaption>Edexcel only: smaller, more highly charged cations polarise the anion more, so Group 2 carbonates and nitrates become more stable down the group.</figcaption>
+</figure>
+
 
 ## 8. Must-know distinctions
 
@@ -210,6 +250,12 @@ Required practical 4 is listed in section 3.2.3 and includes identifying Group 2
 - Saying barium sulfate is used because barium "is not poisonous".
 - Calling magnesium an oxidising agent in the titanium extraction, or getting the TiCl₄ : Mg ratio wrong (it
   is 1 : 2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

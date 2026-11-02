@@ -50,6 +50,12 @@ Rearranged, GPP = NPP + R and R = GPP − NPP. NPP is the energy that is availab
 
 State the unit every time. A value with no unit and no time period loses its meaning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
+
 ## 5.10 Efficiency of transfers between trophic levels
 
 Only part of the energy or biomass at one trophic level reaches the next. The efficiency of a transfer is:
@@ -74,6 +80,17 @@ Losses explain why the figure is always below 100%. Not all of the organism is e
 4. The other 2.88 g of absorbed material was used in respiration or lost in excretion.
 
 Always say which quantity is the denominator. The two answers in steps 2 and 3 are both valid, but they answer different questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
 
 ## 5.11 Population, community, habitat and ecosystem
 
@@ -157,6 +174,12 @@ Succession is the change in the community of a habitat over time, from the first
 Each stage changes the abiotic environment. The change makes it less suitable for the species that caused it and more suitable for the next species. Pioneers die out as taller, faster-growing competitors shade them. Species diversity increases, food webs become more complex and the amount of biomass rises.
 
 The climax community is relatively stable, with little change in species. It is determined mainly by the climate of the area. In a temperate region, it is often woodland.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Common errors
 

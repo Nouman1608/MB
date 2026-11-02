@@ -60,6 +60,12 @@ Price
 
 Label the curve S and the axes Price and Quantity, with a time period, so that anyone can read the diagram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+
 ## Movements along the curve (2.4.2)
 
 You move along a supply curve only when the **price of the good itself** changes. A rise in price causes an **extension of supply**. A fall in price causes a **contraction of supply**. The curve itself stays where it is.
@@ -71,6 +77,12 @@ Our running example is a town market for dried apricots in Country A (price per 
 | Quantity supplied (kg) | 20 | 60 | 100 | 140 | 180 |
 
 **Worked example.** The price rises from 20 to 40. Quantity supplied rises from 60 to 140, an extension of 140 - 60 = 80 kg. As a percentage that is 80 / 60 x 100 = 133.3%. If the price falls back from 40 to 20, supply contracts by 80 kg, which is 80 / 140 x 100 = 57.1% of 140. The same 80 kg gives different percentages because the starting point differs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--08-supply-extension-percent.webp" width="900" height="970" alt="A supply curve for apricots with points (60 kg, 20 cu) and (140 kg, 40 cu). Price 20 to 40 extends supply by 80 kg, 133.3% of 60. Price 40 to 20 contracts supply by 80 kg, 57.1% of 140." loading="lazy">
+  <figcaption>The same 80 kg is a different percentage because the starting point differs.</figcaption>
+</figure>
+
 
 ## From individual to market supply (2.4.3)
 
@@ -89,6 +101,12 @@ Three farms sell apricots in the market:
 Check the price 30 row: 40 + 30 + 30 = 100. At that price Farm 3 provides 30 / 100 = 30% of the market.
 
 Two points follow. First, market supply is flatter than any single farm's curve, because each price brings output from all of them. Second, if the **number of sellers** changes, the whole market curve shifts. If a fourth farm joins and offers 10 kg more at every price, market supply becomes 30, 70, 110, 150 and 190 kg. Remember that you add across sellers at the same price. Do not add prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--02-market-supply-aggregation.webp" width="900" height="990" alt="Three farm supply curves and the flatter market curve are drawn from the lesson table. A stacked bar shows that at 30 cu per kg the farms supply 40, 30 and 30 kg, which add to 100 kg." loading="lazy">
+  <figcaption>Market supply is found by adding quantities across sellers at each price.</figcaption>
+</figure>
+
 
 ## Conditions of supply (2.4.4)
 
@@ -118,6 +136,12 @@ Each row works through cost. Anything that makes it cheaper or more profitable t
 
 Say "movement" when price changes and "shift" when anything else changes. The words contraction and decrease are not interchangeable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Market equilibrium (2.5.1)
 
 **Equilibrium** is the state in which the quantity demanded equals the quantity supplied at the market price. The price at which this happens is the **equilibrium price**; the quantity traded at it is the **equilibrium quantity** (equilibrium sales). At this price buyers can buy what they want and sellers can sell what they want, so nothing pushes the price either way.
@@ -142,6 +166,17 @@ The equilibrium price is **30 cu per kg** and equilibrium sales are **100 kg per
 
 You can also solve from equations. Here Qd = 220 - 4P and Qs = 4P - 20. Setting them equal gives 220 - 4P = 4P - 20, so 240 = 8P and P = 30. Then Q = 220 - 120 = 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--03-apricot-supply-shifts.webp" width="900" height="940" alt="Demand stays fixed. A drying machine moves supply right so equilibrium falls to price 20 and 140 kg. A 10 cu tax moves supply up by 10 so equilibrium rises to price 35 and 80 kg. The original equilibrium is price 30 and 100 kg." loading="lazy">
+  <figcaption>An increase in supply lowers price and raises sales; a tax raises price by less than the tax and cuts sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--09-equilibrium-algebra.webp" width="900" height="1010" alt="Demand Qd = 220 - 4P and supply Qs = 4P - 20 cross at price 30 and quantity 100. Algebra: set equal, 220 - 4P = 4P - 20, 240 = 8P, P = 30, Q = 220 - 120 = 100." loading="lazy">
+  <figcaption>Set Qd equal to Qs, solve for P, then substitute to find Q.</figcaption>
+</figure>
+
+
 ## Market disequilibrium (2.5.2)
 
 **Disequilibrium** is a market price that differs from the equilibrium level, leaving Qd and Qs unequal.
@@ -154,6 +189,17 @@ In a free market the price moves back to equilibrium. At 40 cu: unsold stock bui
 **Worked example (shift and new equilibrium).** After the drying machine, supply is Qs = 4P + 60. Setting 220 - 4P = 4P + 60 gives 160 = 8P, so P = 20 and Q = 140. At the old price of 30, supply is now 180 against demand of 100: a surplus of 80, so the price falls. The increase in supply lowers price from 30 to 20 and raises sales from 100 to 140 kg.
 
 After the tax, supply is Qs = 4P - 60, so 220 - 4P = 4P - 60 gives P = 35 and Q = 80. The price rises by 5 cu, which is less than the 10 cu tax, and sales fall by 20 kg.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--01-apricot-equilibrium.webp" width="900" height="930" alt="Demand slopes down and supply slopes up on price (cu per kg) and quantity (kg per week) axes. They cross at E: price 30, quantity 100 kg. At 40 cu supply is 140 and demand 60, a surplus of 80 kg. At 20 cu demand is 140 and supply 60, a shortage of 80 kg." loading="lazy">
+  <figcaption>At 30 cu per kg the apricot market clears; above it there is a surplus of 80 kg and below it a shortage of 80 kg.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Common errors
 

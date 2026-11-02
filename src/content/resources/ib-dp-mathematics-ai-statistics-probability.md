@@ -66,6 +66,42 @@ about a wider population, including correlation and regression
 (fitting a line to bivariate data and interpreting its meaning) and
 hypothesis testing
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--01-ai-mean-median-outlier.webp" width="900" height="790" alt="Dot plot and box plot of 11 values with an outlier at 40: median 6, mean 8.8, quartiles 4 and 8, IQR 4, 40 above the 1.5 x IQR fence of 14; without 40 the mean is 5.7." loading="lazy">
+  <figcaption>An outlier drags the mean but barely moves the median and IQR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--02-ai-exclusive-vs-independent.webp" width="900" height="890" alt="Two unit squares with P(A) = 0.4 and P(B) = 0.5. Exclusive: strips do not overlap, P(A and B) = 0, P(A or B) = 0.9. Independent: strips cross in area 0.4 x 0.5 = 0.2, P(A or B) = 0.7." loading="lazy">
+  <figcaption>Exclusive events have no overlap; independent events overlap by exactly the product of their probabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--03-ai-binomial-model.webp" width="900" height="810" alt="Bar chart of B(10, 0.3) with bars 0 to 3 shaded, totalling 0.650, with the conditions for a binomial model and mean np = 3." loading="lazy">
+  <figcaption>A binomial model counts successes in a fixed number of independent trials with constant p.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--04-ai-poisson-hl.webp" width="900" height="810" alt="Bar chart of Po(3) with bars for 5 or more events shaded, totalling 0.185 = 1 - P(X &lt;= 4); mean and variance both equal 3." loading="lazy">
+  <figcaption>Poisson models random events at a constant average rate in a fixed interval (HL only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--05-ai-normal-inverse.webp" width="900" height="810" alt="Normal curve N(50, 8^2) with the area to the left of x shaded as 0.9; the boundary is x = 60.3 from invNorm(0.9, 50, 8)." loading="lazy">
+  <figcaption>The inverse normal turns a given area into the boundary value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--06-ai-correlation-causation.webp" width="900" height="1040" alt="Scatter of 20 students (hours against score) with the least-squares line and r about 0.93, and a diagram showing a hidden third factor could drive both variables." loading="lazy">
+  <figcaption>A strong correlation does not by itself show that one variable causes the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-statistics-probability--07-ai-critical-region.webp" width="900" height="810" alt="Bar chart of B(20, 0.5) with bars 0 to 5 shaded as the 5% critical region for H1: p &lt; 0.5; P(X &lt;= 5) = 0.021, P(X &lt;= 6) = 0.058; observed 4 rejects H0." loading="lazy">
+  <figcaption>A result in the critical region is unlikely enough under H0 to reject it.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because Statistics and Probability is one of the two largest strands

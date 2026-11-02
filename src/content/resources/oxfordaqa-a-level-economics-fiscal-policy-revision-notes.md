@@ -61,6 +61,12 @@ Quick recall for fiscal policy, section 3.2.4.2 of the OxfordAQA International A
 3. Compare the average rates: rising is progressive, equal is proportional, falling is regressive.
 4. Say which measure you used. A fixed licence fee of 300 is 2% of 15,000 and 0.5% of 60,000, so it is regressive. An income tax paying 3,000 on 30,000 (10%) and 9,000 on 60,000 (15%) is progressive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--03-un226-fp-tax-bands.webp" width="900" height="850" alt="Three horizontal bars show incomes of 9,000, 30,000 and 80,000 split into tax slices. The first 12,000 is untaxed. The slice from 12,000 to 45,000 is taxed at 25 percent and the slice above 45,000 at 45 percent. Income 9,000 pays nothing. Income 30,000 pays 25 percent of 18,000, which is 4,500, an average rate of 15 percent. Income 80,000 pays 25 percent of 33,000, which is 8,250, plus 45 percent of 35,000, which is 15,750, a total of 24,000 and an average rate of 30 percent." loading="lazy">
+  <figcaption>Each slice of income is taxed at its own rate: 0% to 12,000, 25% to 45,000 and 45% above, so 80,000 pays 24,000, an average of 30%.</figcaption>
+</figure>
+
+
 ## Method in steps: the fiscal effect on AD
 
 1. Name the instrument (spending up, tax down, or the reverse).
@@ -71,6 +77,22 @@ Quick recall for fiscal policy, section 3.2.4.2 of the OxfordAQA International A
 
 Reminder: MPS = 0.05, MPT = 0.15, MPM = 0.20 gives MPW = 0.40 and a multiplier of 2.5. A rise of 20 in government spending then raises income by 50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--11-spending-vs-tax-cut-multiplier.webp" width="900" height="1090" alt="MPW 0.50 gives multiplier 2. Spending of 50 raises income by 100. A tax cut of 50 of which 70% is spent gives a first round of 35 and income up 70." loading="lazy">
+  <figcaption>Spending has a larger effect than an equal tax cut because none leaks in round one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Method in steps: the budget and the debt
 
 1. Balance = revenue - spending. Spending 330, revenue 300 gives -30. With GDP 1,500, that is a deficit of 2.0% of GDP.
@@ -78,12 +100,24 @@ Reminder: MPS = 0.05, MPT = 0.15, MPM = 0.20 gives MPW = 0.40 and a multiplier o
 3. Ratios: opening ratio 600 / 1,500 = 40%. With no growth, 630 / 1,500 = 42%. If GDP grows 5% to 1,575, 630 / 1,575 = 40%.
 4. Conclude: a deficit adds to the debt, but growth can stop the debt ratio rising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--13-deficit-and-national-debt.webp" width="900" height="1210" alt="Debt grows from 1,280 by 48 a year to 1,424 in three years. As a share of GDP the ratio rises to 44.5% if GDP is flat but stays near 40.1% if nominal GDP grows 3.5% a year." loading="lazy">
+  <figcaption>A deficit is a yearly flow that adds to the debt stock; growth can hold the ratio steady.</figcaption>
+</figure>
+
+
 ## Method in steps: cyclical and structural
 
 1. Find the structural balance: the balance at potential output.
 2. Cyclical balance = actual balance - structural balance.
 3. Reminder: actual deficit 45, structural deficit 25, so the cyclical deficit is 20.
 4. In a downturn revenue falls and benefit spending rises, so the cyclical deficit grows. In a boom it shrinks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--14-structural-and-cyclical-deficit.webp" width="900" height="980" alt="Actual GDP is 6.25% below potential. Revenue falls by 42 and spending rises by 20, so the cyclical deficit is 62. With the structural deficit of 18 the actual deficit is 80." loading="lazy">
+  <figcaption>Recovery removes the cyclical part but not the structural part of a deficit.</figcaption>
+</figure>
+
 
 ## Evaluation checklist
 
@@ -154,6 +188,12 @@ Reminder: tax of 1.5 per unit with 80 units sold raises 1.5 x 80 = 120. Where de
 11. Spend on training, education or infrastructure to raise productivity and capacity; or cut taxes to raise investment or work incentives.
 12. Households may save part of the extra income, or expect higher taxes later; or the economy may have no spare capacity so output cannot rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--12-average-tax-rate-progressive-regressive.webp" width="900" height="1050" alt="Average income tax rate rises with income: 0% at 9,000, 15% at 30,000, 30% at 80,000, so progressive. A 10% sales tax takes 8.2% of household L income (22,000) but 5.0% of household H income (90,000), so regressive." loading="lazy">
+  <figcaption>Classify a tax by what happens to the average rate as income rises.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Naming "tax" or "spending" without saying what happens to AD, AS or a market.
@@ -169,3 +209,9 @@ Reminder: tax of 1.5 per unit with 80 units sold raises 1.5 x 80 = 120. Where de
 ## Official syllabus
 
 Source: OxfordAQA, International AS and A-level Economics (9640), specification version 1.2, for International AS exams from May/June 2021 onwards and International A-level exams from May/June 2022 onwards. These notes cover section 3.2.4.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+

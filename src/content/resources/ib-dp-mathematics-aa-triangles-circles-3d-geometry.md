@@ -92,6 +92,12 @@ Surface = πrl + 2πr² = 60π + 72π = 132π cm²
 
 The circular face where the cone meets the hemisphere is inside the solid, so it is not counted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--02-cone-on-hemisphere.webp" width="900" height="650" alt="Cross-section of a cone of radius 6 and height 8 on a hemisphere of radius 6; slant height 10. Volume is 96 pi plus 144 pi, 240 pi cm cubed. Surface is 60 pi plus 72 pi, 132 pi cm squared, with the glued circular face not counted." loading="lazy">
+  <figcaption>Add the volumes; add only the outside surfaces, not the glued face.</figcaption>
+</figure>
+
+
 ### Angles in 3D shapes
 
 The guide says that in SL examinations, only right-angled trigonometry questions will be set on 3D shapes. You must find a right-angled triangle inside the solid and work in it.
@@ -115,6 +121,17 @@ A right pyramid has a rectangular base ABCD with AB = 8 cm and BC = 6 cm. The ap
 ```
 
 MA is the projection of VA onto the base, so the required angle is VÂM.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--01-distance-midpoint-3d.webp" width="900" height="830" alt="A box drawn in three dimensions with opposite corners A(1, -2, 4) and B(5, 4, 1). The path from A goes 4 along x, 6 along y and 3 down in z. The straight line AB across the box has length root 61, about 7.81, and its midpoint is M(3, 1, 2.5)." loading="lazy">
+  <figcaption>The 3D distance formula is Pythagoras applied twice: AB² = 4² + 6² + 3² = 61.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--03-pyramid-angle-3d.webp" width="900" height="740" alt="A right pyramid on a 8 by 6 rectangle with apex V 12 above the centre M. The edge VA has shadow MA of length 5 on the base. The flat triangle VMA has legs 12 and 5, hypotenuse 13 and angle 67.4 degrees at A, the angle between VA and the base." loading="lazy">
+  <figcaption>To find the angle between a line and a plane, use the right-angled triangle formed by the line, its shadow on the plane and the perpendicular.</figcaption>
+</figure>
+
 
 ## 3.2 Triangle trigonometry
 
@@ -181,6 +198,17 @@ A negative cosine means an obtuse angle. The cosine rule handles this for you; t
 
 Area = ½ab sin C, where C is the angle between sides a and b.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--04-sine-rule-two-cases.webp" width="900" height="910" alt="Two triangles solved with the sine rule. In ABC, A=38, C=104 and c=15 give a = 15 sin38 / sin104 = 9.52 cm. In PQR, p=9, q=12 and Q=70 give sin P = 9 sin70/12 so P = 44.8 degrees. P faces the shorter side so it is acute and the answer is unique." loading="lazy">
+  <figcaption>Match each side with the angle opposite it; the angle opposite the shorter side must be acute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--05-cosine-rule-area.webp" width="900" height="630" alt="A triangle with sides 7, 9 and 12 cm. The cosine rule gives cos C = -1/9 at the angle C facing the 12 cm side, so C = 96.4 degrees, obtuse. The area is half times 7 times 9 times sin 96.4 degrees = 31.3 cm squared." loading="lazy">
+  <figcaption>The largest angle faces the longest side; a negative cosine means it is obtuse.</figcaption>
+</figure>
+
+
 ## 3.3 Applications
 
 ### Diagrams, elevation and depression
@@ -218,6 +246,17 @@ Bearing of R from P = 050° + 33.2° = 083.2°
 
 Angle QPR is opposite the shorter side, so it is acute. Carry the unrounded PR into the sine rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--06-bearings-route.webp" width="900" height="820" alt="A two-leg boat journey from P to Q (12 km, bearing 050) then to R (9 km, bearing 130), drawn to scale with a north line at each point. The angle PQR is 100 degrees, PR is 16.2 km, angle QPR is 33.2 degrees and the bearing of R from P is 083.2 degrees." loading="lazy">
+  <figcaption>Draw a north line at every point; the interior angle comes from the back bearing 230° − 130° = 100°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--07-elevation-depression.webp" width="900" height="590" alt="A cliff 80 m high beside the sea with a boat offshore. The line of sight from the cliff top makes a 14 degree angle of depression below the horizontal; from the boat the angle of elevation of the cliff top is also 14 degrees. They are alternate angles. The horizontal distance is 80 over tan 14 degrees = 321 m." loading="lazy">
+  <figcaption>The angle of depression from A to B equals the angle of elevation from B to A.</figcaption>
+</figure>
+
+
 ## 3.4 Radian measure, arcs and sectors
 
 ### Radians
@@ -252,6 +291,17 @@ segment  = 48π − 62.35... = 88.4 cm² (3 s.f.)
 ```
 
 The segment combines 3.2 (area of a triangle) with 3.4 (sector area).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--08-what-is-a-radian.webp" width="900" height="680" alt="A circle with an arc equal in length to the radius marked, giving an angle of one radian, about 57.3 degrees. Six such arcs plus a short dashed remainder go round the circle, showing 2 pi is about 6.28 radians. Conversion rules: multiply by pi over 180 for degrees to radians and 180 over pi for the reverse." loading="lazy">
+  <figcaption>One radian is the angle subtended by an arc the same length as the radius, so a full turn is 2π radians.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-triangles-circles-3d-geometry--09-sector-segment.webp" width="900" height="600" alt="A sector of radius 12 cm and angle 2 pi over 3. Arc = 8 pi cm, sector = 48 pi cm squared, triangle = 62.35 cm squared and segment = sector minus triangle = 88.4 cm squared. The formulas need radians." loading="lazy">
+  <figcaption>Segment area = sector area − triangle area, using A = ½r²θ and ½r² sin θ.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

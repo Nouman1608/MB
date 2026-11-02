@@ -48,6 +48,17 @@ Why not zero inflation? A little inflation lets real wages adjust without cuttin
 - **Demand-pull versus cost-push.** Demand-pull shifts AD right and raises output as well as prices. Cost-push shifts SRAS left and lowers output while prices rise.
 - **CPI versus RPI.** Different averaging methods, different treatment of housing, different household coverage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--10-real-pay.webp" width="900" height="940" alt="Pay rises from 2,400 z to 2,760 z (+15%) but prices rise 21.4%, so real pay in year A prices is 2,273 z, a fall of 5.3%." loading="lazy">
+  <figcaption>Nominal pay rose 15% but real pay fell 5.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Inflation rate**
@@ -101,6 +112,27 @@ CPI tracks the cost of a basket of goods and services. The steps: choose the bas
 - Against RPI: arithmetic averaging tends to give higher figures, and some groups are missing.
 - Weaknesses of both: average basket hides differences between households, quality change is hard to price, new products enter late, shoppers switch to cheaper goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--01-weighted-index-country-z.webp" width="900" height="981" alt="Six categories each add weight times index divided by 100 points. Transport adds 4.32 and food and drink 3.96 more than their base share, clothing subtracts 0.32. The total is 112.62, so prices are 12.62 percent above base." loading="lazy">
+  <figcaption>Each category pulls on the index by weight times index; together they give 112.62.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--04-cpi-rpi-comparison.webp" width="900" height="880" alt="Table: CPI uses a geometric mean, excludes almost all owner-occupier housing costs and council tax and covers a very wide set of households; RPI uses an arithmetic mean, includes housing costs and council tax and omits the top 4 percent and some pensioners. CPIH adds owner-occupier housing costs to CPI." loading="lazy">
+  <figcaption>CPI and RPI differ in averaging, housing costs, council tax and coverage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
+
 ## Causes of inflation
 
 | Cause | Chain of reasoning |
@@ -113,6 +145,22 @@ CPI tracks the cost of a basket of goods and services. The steps: choose the bas
 
 **Evaluate by asking:** is there spare capacity? Is SRAS steep or flat? Is the shock one-off or persistent? Do wages and expectations adjust? Which cause came first?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--02-inflation-rate-from-index.webp" width="900" height="1000" alt="Index 127.5, 133.0 and 139.4 with a base line at 100. 5.5 over 127.5 gives 4.3 percent, 6.4 over 133.0 gives 4.8 percent. Always divide by the old index; 133 means 33 percent above base." loading="lazy">
+  <figcaption>The inflation rate is the change divided by the old index, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--03-rebasing-an-index.webp" width="900" height="1130" alt="The same index drawn with 2018 = 100 (100, 136.8, 148.5) and rebased to 2022 = 100 (73.10, 100, 108.55). Divide by 136.8 and multiply by 100." loading="lazy">
+  <figcaption>Rebasing changes which year equals 100 but not the pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--05-cost-push-exchange-and-ulc.webp" width="900" height="980" alt="A part priced at 45 foreign units costs 30 z at 1.50 and 37.5 z at 1.20, up 25 percent. Wages up 6 percent against output per worker up 2 percent raise unit labour cost 3.9 percent." loading="lazy">
+  <figcaption>A weaker currency and wages outpacing productivity both push costs up.</figcaption>
+</figure>
+
+
 ## Consequences of inflation
 
 - **Households:** real incomes fall if pay lags prices; fixed incomes lose most; savers lose if the real rate is negative; borrowers on fixed rates gain.
@@ -121,6 +169,17 @@ CPI tracks the cost of a basket of goods and services. The steps: choose the bas
 - **Hyperinflation:** loss of confidence in money, wiped-out savings, barter, collapse of output.
 
 **Evaluate by asking:** how high is it, is it anticipated, who is affected, do interest rates and wages adjust, and what is happening abroad?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--11-debt-inflation-deflation.webp" width="900" height="1190" alt="A fixed debt of 150,000 z falls to 123,405 z in real terms after four years of 5% inflation, but rises to 164,352 z after three years of 3% deflation." loading="lazy">
+  <figcaption>Inflation erodes the real value of fixed debt; deflation increases it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--12-fiscal-drag.webp" width="900" height="910" alt="Tax of 20% above a fixed 12,000 z threshold. Pay of 20,000 z pays 1,600 z (8.0%); pay of 21,000 z (+5%, matching inflation) pays 1,800 z (8.6%) though real pay is unchanged." loading="lazy">
+  <figcaption>When pay only keeps pace with prices, a larger share goes in tax.</figcaption>
+</figure>
+
 
 ## Causes and consequences of deflation
 

@@ -63,6 +63,17 @@ an organ.
 
 1 mm = 1000 µm. 1 cm = 10 000 µm. Convert to one unit **before** comparing sizes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--06-size-and-scale.webp" width="900" height="920" alt="Log scale from 1 µm to 1 m. A heart cell is about 10 µm wide, the heart 12 cm (120 000 µm) long and an organism is measured in metres. The heart is 12 000 times longer than the cell, about 4 orders of magnitude." loading="lazy">
+  <figcaption>The 12 cm heart is about 12 000 times longer than a 10 µm cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## 4.2.2.2 Heart structure
 
 - Four chambers: **right atrium, right ventricle, left atrium, left ventricle**.
@@ -96,6 +107,22 @@ an organ.
 
 Check: every chamber appears once, and the route crosses the lungs between the right and left sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--05-natural-pacemaker.webp" width="900" height="1050" alt="Front-view schematic. Pacemaker cells in the right atrium set the rhythm of heart contraction. If this fails, an artificial pacemaker placed under the skin with a wire to the heart sends electrical impulses to keep a regular rate." loading="lazy">
+  <figcaption>Natural pacemaker cells sit in the right atrium; an artificial one is a device under the skin with a wire to the heart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--07-coronary-arteries.webp" width="900" height="960" alt="Front view of the heart with the aorta at the top. Coronary arteries branch from the aorta and run over the surface of the heart, delivering oxygen and glucose to heart muscle." loading="lazy">
+  <figcaption>Coronary arteries run over the heart surface and feed the heart muscle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+
 ## Double circulation
 
 - Blood passes through the heart **twice** in each complete circuit.
@@ -104,6 +131,17 @@ Check: every chamber appears once, and the route crosses the lungs between the r
 - Blood coming back from the lungs is pumped a second time by the left ventricle, so it reaches the body
   under higher pressure than if it went straight on from the lungs.
 - Trace it as a figure of eight: body -> right side -> lungs -> left side -> body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
 
 ## Pacemaker
 
@@ -125,6 +163,17 @@ Gases: O₂ diffuses alveolus -> blood. CO₂ diffuses blood -> alveolus.
 
 Air route: trachea -> bronchi -> alveoli. Blood route: pulmonary artery (deoxygenated) -> capillaries around the
 alveoli -> pulmonary vein (oxygenated).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
 
 ## Blood vessels: structure to function
 
@@ -158,6 +207,22 @@ alveoli -> pulmonary vein (oxygenated).
 
 **Worked reminder.** A heart pumps 4.2 dm³ of blood in one minute at 60 beats per minute. Volume per beat =
 4200 cm³ / 60 = 70 cm³. Here you rearrange the same relationship: volume per beat = volume per minute / heart rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--07-pulse-to-bpm.webp" width="900" height="820" alt="21 beats in 15 s; one minute is four lots of 15 s, so 21 × 4 = 84 beats per minute, i.e. 21 ÷ 15 × 60 = 84." loading="lazy">
+  <figcaption>21 beats in 15 seconds is 84 beats per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--08-blood-per-minute.webp" width="900" height="856" alt="72 beats each pumping 70 cm³ give 70 × 72 = 5040 cm³ per minute, which is 5.04 dm³ per minute after dividing by 1000." loading="lazy">
+  <figcaption>Volume per minute = volume per beat × beats per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--09-flow-and-speed.webp" width="900" height="860" alt="300 cm³ flowing in 25 s is 12 cm³/s or 720 cm³/min. A red blood cell moving 0.6 mm in 2 s travels at 0.3 mm/s, slow enough for diffusion." loading="lazy">
+  <figcaption>Flow rate and capillary speed from amount ÷ time.</figcaption>
+</figure>
+
 
 ## Method in steps: a structure-function explanation
 

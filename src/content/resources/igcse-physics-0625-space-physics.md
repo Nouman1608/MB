@@ -68,6 +68,17 @@ v = 2πr / T = (2 × π × 1.5 × 10¹¹) / (3.1536 × 10⁷)
 v = 2.99 × 10⁴ m/s  ≈ 3.0 × 10⁴ m/s (about 30 km/s)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--01-seasons.webp" width="900" height="640" alt="Side view of the Earth either side of the Sun with its axis tilted 23.4 degrees, always pointing the same way. When the north leans towards the Sun a place at 45 degrees north has the Sun 68 degrees high at noon (summer); half an orbit later it is 22 degrees high (winter)." loading="lazy">
+  <figcaption>The tilted axis, not distance from the Sun, causes the seasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--02-moon-phases.webp" width="900" height="1250" alt="The Moon is shown at eight points in its orbit with sunlight from the left; the half facing the Sun is always lit. Below, the shape seen from Earth at each point: new, crescent, half, gibbous, full, then back through gibbous, half and crescent." loading="lazy">
+  <figcaption>We see different amounts of the always-lit half as the Moon orbits.</figcaption>
+</figure>
+
+
 ## 6.1.2 The Solar System
 
 ### Members of the Solar System
@@ -110,6 +121,12 @@ Planets, minor planets and comets move in **elliptical** orbits. The Sun is **no
 
 An object in an elliptical orbit travels **faster when closer to the Sun**. Explain it with conservation of energy: as the object moves towards the Sun, it loses gravitational potential energy. That energy is transferred to kinetic energy, so it speeds up. Moving away, kinetic energy is transferred back to gravitational potential energy and it slows down. The total energy stays the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--04-elliptical-orbit.webp" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
+  <figcaption>A planet moves faster when closer to the Sun because GPE is transferred to KE.</figcaption>
+</figure>
+
+
 ### Distance from the Sun (Extended only)
 
 The Sun's gravitational field strength and the planets' orbital speeds both decrease as distance from the Sun increases.
@@ -137,6 +154,12 @@ E: v = 2π × 2100 × 10⁹ / (19 000 × 86 400) = 8.0 × 10³ m/s
 
 The nearer planet is faster, as expected. Remember 1 million km = 10⁹ m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+
 ## 6.2.1 The Sun as a star
 
 The Sun is a **medium-sized star**. It consists mostly of **hydrogen and helium**. It radiates most of its energy in the **infrared, visible light and ultraviolet** regions of the electromagnetic spectrum.
@@ -163,6 +186,12 @@ The Sun is a **medium-sized star**. It consists mostly of **hydrogen and helium*
 7. A red supergiant explodes as a **supernova**. This forms a nebula containing hydrogen and new heavier elements, and leaves a **neutron star** or a **black hole** at its centre.
 8. The nebula from a supernova may form new stars with orbiting planets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+
 ## 6.2.3 The Universe
 
 The Milky Way is one of many billions of galaxies in the Universe. Its diameter is about **100 000 light-years**.
@@ -188,6 +217,17 @@ age = 1 / H₀ = 1 / (2.2 × 10⁻¹⁸) = 4.5 × 10¹⁷ s
 one year = 365 × 24 × 3600 = 3.15 × 10⁷ s
 age = (4.5 × 10¹⁷) / (3.15 × 10⁷) = 1.4 × 10¹⁰ years (about 14 billion years)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--07-hubble-constant.webp" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe." loading="lazy">
+  <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
+</figure>
+
 
 ## Common errors
 

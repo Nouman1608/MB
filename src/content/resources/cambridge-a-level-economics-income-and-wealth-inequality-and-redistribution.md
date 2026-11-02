@@ -48,6 +48,12 @@ The two are linked. Saving turns part of a flow into the stock. Owning wealth pr
 
 If the household spends 25,200 and saves 3,600, its wealth rises by about 3,600 over the year, before any change in asset prices. A household can be income-rich and wealth-poor (high salary, large debts), or the reverse. So income and wealth need separate measures and policies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## 3.3.2 Measuring inequality: the Gini coefficient
 
 To see a distribution, rank households from poorest to richest and divide them into five equal groups (quintiles). Then record each group's share of total income.
@@ -80,6 +86,12 @@ The syllabus says calculation is not required, so expect to be given values and 
 
 **Limitations.** It is one number, so very different distributions can share a Gini. A country with a rich top 1% and a country with a squeezed middle class could match. It says nothing about absolute living standards: a low Gini can mean everyone is equally poor. Household size and life stage also distort it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--01-ineq-lorenz-two-countries.webp" width="900" height="1040" alt="Lorenz curves for Country A and B from the lesson quintile shares. The gap between the line of equality and A is shaded; Gini about 0.35 for A and 0.27 for B; richest/poorest ratios 7.3 and 4.2." loading="lazy">
+  <figcaption>Country B bows less far from the line of equality than Country A, so it is more equal.</figcaption>
+</figure>
+
+
 ## 3.3.3 Economic reasons for inequality of income and wealth
 
 Markets pay factors of production according to demand and supply. Differences arise because the factors differ in scarcity, productivity and ownership.
@@ -110,6 +122,17 @@ Reasons for wealth inequality are stronger and cumulative:
 - **Inheritance and gifts** pass wealth between generations.
 - **Rising asset prices** favour those who already own property or shares.
 - **Debt** can push poorer households' wealth below zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--02-ineq-skilled-unskilled-wages.webp" width="900" height="1270" alt="Two labour market graphs on the same wage scale: skilled S equilibrium wage 30 with 300 thousand hours (33 and 360 after demand rises by 90); unskilled U equilibrium wage 10 with 500 thousand hours." loading="lazy">
+  <figcaption>Scarce skills earn three times the unskilled wage because supply is limited by training.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--03-ineq-wealth-compounding.webp" width="900" height="1060" alt="100,000 at 4 percent grows to 219,112 in 20 years (gain 119,112); 400,000 at 5 percent yields 20,000 a year without working." loading="lazy">
+  <figcaption>Compounding and asset income make wealth more unequal than income.</figcaption>
+</figure>
+
 
 ## 3.3.4 Policies to redistribute income and wealth
 
@@ -151,6 +174,22 @@ The richest-to-poorest ratio falls from 100,000 ÷ 8,000 = 12.5 to 68,000 ÷ 8,0
 - For: large revenue, and it reduces inequality in the Gini sense.
 - Against: high marginal rates may reduce effort, saving or enterprise; people may avoid or evade tax or migrate; the effect depends on how much revenue is raised and how it is used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--05-ineq-progressive-tax.webp" width="900" height="1000" alt="Marginal rate steps 0, 20, 40 percent; the average rate rises from 0 to 10, 24 and 32 percent and always lies below it. The richest-to-poorest ratio falls from 12.5 to 8.5." loading="lazy">
+  <figcaption>A tax is progressive when the average rate rises with income because the marginal rate exceeds it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--07-tax-then-transfer.webp" width="900" height="1040" alt="Horizontal bars for a poorest (8,000) and richest (100,000) household. The richest to poorest ratio is 12.5 before tax, 8.5 after tax (68,000 and 8,000) and about 6.2 after a 3,000 transfer to the poorest." loading="lazy">
+  <figcaption>Tax cuts the richest-to-poorest ratio from 12.5 to 8.5, and a 3,000 transfer cuts it to 6.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ### Inheritance and capital taxes
 
 Inheritance tax is charged on wealth passed at death or by gift. Capital gains tax is charged on profit when an asset is sold.
@@ -160,6 +199,12 @@ Inheritance tax is charged on wealth passed at death or by gift. Capital gains t
 - For: targets wealth and unearned gain, reduces the concentration of wealth across generations, and it falls on transferred assets, not earnings, so work incentives may suffer less.
 - Against: avoidance through gifts, trusts or moving assets abroad; may reduce saving; family businesses may have to sell assets; raises little revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--08-inheritance-capital-gains-tax.webp" width="900" height="840" alt="Inheritance tax: 450,000 estate, 250,000 free, 200,000 taxed at 30 percent gives 60,000, 13.3 percent of the estate. Capital gains tax: gain 60,000, allowance 10,000, 50,000 taxed at 25 percent gives 12,500." loading="lazy">
+  <figcaption>Only the part of an estate above 250,000, or of a gain above the allowance, is taxed.</figcaption>
+</figure>
+
+
 ### State provision of essential goods and services
 
 Health care and education provided free, or at a subsidised price, give a benefit in kind. Because they are worth a similar amount to everyone, they matter more to low incomes.
@@ -168,6 +213,17 @@ Health care and education provided free, or at a subsidised price, give a benefi
 
 - For: improves access and equality of opportunity, and raises human capital, which helps long-run incomes.
 - Against: high opportunity cost, funded by taxes, possible waste or low quality without price signals, and better-off families often use services most.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--04-ineq-minimum-wage.webp" width="900" height="1010" alt="Demand L = 1,000 - 50w and supply L = -200 + 100w meet at wage 8 and 600 workers. A minimum of 10 cuts employment to 500, leaves 300 unemployed, and raises the wage bill from 4,800 to 5,000 because demand is inelastic (-0.67)." loading="lazy">
+  <figcaption>A minimum wage above equilibrium creates unemployment but can raise the pay of those still employed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--09-state-provision-benefit-in-kind.webp" width="900" height="1010" alt="Two bars: income 10,000 and 90,000, each plus services worth 5,000, which is 50 percent and 5.6 percent of income. The ratio falls from 9.0 to about 6.3." loading="lazy">
+  <figcaption>The same 5,000 of services is 50% of a low income but 5.6% of a high one.</figcaption>
+</figure>
+
 
 ## Evaluating policies together
 

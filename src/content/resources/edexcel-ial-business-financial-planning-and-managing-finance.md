@@ -59,6 +59,12 @@ Average cost falls as output rises because the same fixed costs are spread over 
 
 **Ways of improving sales volumes and sales revenues** include: better promotion; improving the product; widening distribution (online sales, new outlets); and changing price. A price cut may lift volume but lowers revenue per unit, so total sales revenue can rise or fall. A price rise does the reverse. Judge each in context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+
 ## 2. Sales forecasting
 
 A **sales forecast** is an estimate of future sales. **Purposes**: it sets the base for the budget and cash-flow forecast, guides production and inventory, helps decide staffing, and supports a loan request.
@@ -70,6 +76,12 @@ A **sales forecast** is an estimate of future sales. **Purposes**: it sets the b
 - **Actions of competitors**: price cuts, launches, promotions.
 
 **Difficulties**: the future is uncertain; a new business has no sales history; trends change quickly; and competitors react unpredictably. The further ahead the forecast, the weaker it is. An overestimate leaves the business with surplus inventory and cash tied up; an underestimate loses sales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--03-forecast-further-weaker.webp" width="900" height="940" alt="An illustrative sales line rises over time, then a dashed forecast continues with a widening shaded band. Consumer trends, economic variables and competitors move it. Too high leaves surplus inventory; too low loses sales." loading="lazy">
+  <figcaption>A sales forecast gets less reliable the further ahead it looks.</figcaption>
+</figure>
+
 
 ## 3. Break-even
 
@@ -102,6 +114,27 @@ Sales revenue      0 at 0 units       rises by 8.50 a unit
 Where the revenue line crosses the total cost line is break-even (1,800 candles). Below it the gap between the lines is a loss; above it the gap is profit. The margin of safety is the horizontal distance from break-even to current output. A steeper revenue line means a higher price; a higher total cost line means higher fixed or variable costs.
 
 **Limitations of break-even analysis**: it assumes all output is sold, a constant selling price and constant variable cost per unit (no bulk discounts), and fixed costs that stay fixed; it suits a single product; it depends on forecasts and costs that may be wrong; and it ignores cash timing and competitors' reactions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--01-break-even-fixed-costs-step.webp" width="900" height="1040" alt="A chart of money against candles per month for Oxmoor Candles. Revenue rises 8.50 a candle and the assumed total cost line starts at 9,000 and rises 3.50 a candle, crossing at 1,800 candles. In an illustrative case, fixed costs step up by 2,000 at 1,500 candles for new premises, so break-even moves to 2,200 candles (18,700 dollars)." loading="lazy">
+  <figcaption>If fixed costs step up, the real break-even (2,200) is higher than the assumed 1,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--01-oxmoor-break-even-chart.webp" width="900" height="1080" alt="A chart of money against candles. Fixed costs are flat at 9,000, total cost starts at 9,000 and rises 3.50 a candle, revenue rises 8.50 a candle. They cross at 1,800 candles (15,300). At 3,000 candles the margin of safety is 1,200, 40% of output." loading="lazy">
+  <figcaption>Break-even 1,800 and margin of safety 1,200 for Oxmoor Candles on one chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
 
 ## 4. Cash flow
 
@@ -152,6 +185,12 @@ The profit variance equals −3,500 − 1,400 + 300 = −4,600. Revenue fell 8.7
 
 **Difficulties of budgeting**: budgets rely on forecasts; they take time; managers may bid for padded budgets; fixed budgets are slow to change when conditions shift; and missing a target can demotivate staff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--04-budget-historical-v-zero.webp" width="900" height="850" alt="A historical budget starts from last actual spending of 3,000 plus 5% to give 3,150. A zero-based budget starts at 0 and adds only justified items (1,200, 600, 500) to reach 2,300." loading="lazy">
+  <figcaption>Historical budgets start from last period; zero-based budgets start from nothing.</figcaption>
+</figure>
+
+
 ## 6. Profit
 
 The **statement of comprehensive income** (profit and loss account) in the specification's layout:
@@ -178,6 +217,12 @@ Profit for the year margin = 45,000 / 480,000 x 100 = 9.4%
 Each margin is the profit measure ÷ revenue × 100. Compare margins with earlier years and rivals.
 
 **Ways to increase profits**: raise revenue (price, volume) or cut costs. **Ways to improve profitability** (margins): a 5% price rise with volume held lifts revenue to 504,000 and gross profit margin from 40% to 42.9% in this example; negotiating cheaper materials (a 2% fall in cost of sales raises gross profit to 197,760); cutting other operating expenses; and cutting interest by repaying debt. Raising volume alone raises profit but not necessarily the margins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--02-margin-levers-hallam-vale.webp" width="900" height="1090" alt="Bars for Hallam Vale Textiles. Now: 192,000 gross profit on 480,000, margin 40%. A 5% price rise gives revenue 504,000 and margin 42.9%. A 2% fall in cost of sales gives gross profit 197,760 and margin 41.2%." loading="lazy">
+  <figcaption>A 5% price rise lifts gross margin from 40% to 42.9%; a 2% cost cut lifts it to 41.2%.</figcaption>
+</figure>
+
 
 ## 7. Liquidity
 
@@ -211,6 +256,22 @@ The acid test is below 1: without selling inventory, Drystone cannot cover all i
 
 **Working capital** is the money available for day-to-day running. Cash matters because wages, suppliers and tax must be paid on time. Too little risks failure; too much idle cash earns nothing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--01-acid-test.webp" width="900" height="880" alt="Two stacked bars (assets 66,000 against liabilities 42,000) with a dashed line at 42,000 show that without inventory the assets reach only 30,000. Current ratio 1.57, acid test 0.71, working capital 24,000." loading="lazy">
+  <figcaption>Inventory is left out of the acid test, so the assets fall short of the 42,000 owed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--02-liquidity-inventory.webp" width="900" height="1000" alt="Before and after stacked bars show cash up 16,000 and inventory down 16,000, lifting the acid test from 0.71 to 1.10 while the current ratio stays 1.57." loading="lazy">
+  <figcaption>Turning 16,000 of inventory into cash lifts the acid test above 1 but leaves the current ratio unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--05-factoring-and-credit-timing.webp" width="900" height="910" alt="Two timelines. Factoring: 24,000 of receivables sold gives 23,040 on day 0 instead of waiting to day 60. Supplier credit: paying on day 60 instead of day 30 keeps cash 30 days longer." loading="lazy">
+  <figcaption>Factoring and longer supplier credit bring cash in sooner or send it out later.</figcaption>
+</figure>
+
+
 ## 8. Business failure
 
 **Internal causes**: poor management of cash flow; overestimation of sales; **overtrading** (expanding output faster than the cash to fund it); poor inventory control; poor marketing; poor quality.
@@ -218,6 +279,12 @@ The acid test is below 1: without selling inventory, Drystone cannot cover all i
 **External causes**: market conditions; competition; the economy; exchange rates; interest rates; government regulations; supplier problems; natural phenomena.
 
 Link causes to figures: a business that overestimated sales may hold unsold inventory, pay for it on credit and run out of cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--03-overestimate-chain.webp" width="900" height="935" alt="A five-step chain: forecast too high, inventory bought on credit, sales fall short, cash tied up in unsold stock, bills due and cash runs out." loading="lazy">
+  <figcaption>Overestimating sales can end in a cash shortage even when the business is trading.</figcaption>
+</figure>
+
 
 ## Common errors
 

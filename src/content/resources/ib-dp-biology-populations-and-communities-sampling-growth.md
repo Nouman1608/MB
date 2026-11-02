@@ -68,6 +68,12 @@ The standard deviation of the mean number per quadrat shows how spread out the c
 - Estimated population = 46 × 60 = **2760 barnacles**.
 - Standard deviation = 3.03, about a quarter of the mean, so the barnacles are fairly evenly spread.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--01-quadrat-sampling.webp" width="900" height="1230" alt="Ten random 0.25 m2 quadrats are placed on a 12 m by 5 m strip using coordinates from two tapes. Counts of 12, 9, 15, 11, 8, 14, 10, 13, 7 and 16 give a mean of 11.5, a density of 46 per m2 and 2760 barnacles on 60 m2. The standard deviation is 3.03, so the counts are fairly even." loading="lazy">
+  <figcaption>Random quadrat counts are averaged, divided by quadrat area and multiplied by the study area.</figcaption>
+</figure>
+
+
 ## C4.1.4 Capture, mark, release, recapture
 
 Motile animals move, so quadrats fail. Instead:
@@ -91,6 +97,12 @@ Assumptions to state:
 - The population is closed: no births, deaths, immigration or emigration between samples.
 - Marking does not harm the animal or change its chance of being caught again, and the mark stays on.
 - Enough are recaptured: a very small R makes the estimate unreliable. If marks wear off, R is too low and the estimate too high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--02-lincoln-index.webp" width="900" height="912" alt="A grid of 240 beetles has 48 marked in gold. A second catch of 40 (ringed) contains 8 marked beetles. The marked fraction in the catch, 8 in 40, matches 48 in 240 in the population, so P = M x N / R = 240. If marks wear off, R is too low and the estimate too high." loading="lazy">
+  <figcaption>The marked fraction of the second catch equals the marked fraction of the population, giving P = M x N / R.</figcaption>
+</figure>
+
 
 ## C4.1.5 and C4.1.6 Carrying capacity and negative feedback
 
@@ -119,6 +131,17 @@ As resources and space become scarce, density-dependent factors reduce the growt
 
 For practical work use yeast or duckweed: count cells or fronds at regular intervals. The sigmoid curve is an idealised model of a complex system. Case study: about 29 reindeer were released on St Matthew Island, Alaska, in 1944 and grew to roughly 6000 by 1963, then crashed to a few dozen after overgrazing of lichen. Real populations can overshoot, oscillate or crash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--03-sigmoid-growth.webp" width="900" height="790" alt="A computed S-shaped curve rises from a small start, bends over and levels off at a dashed line marking carrying capacity K. Part 1 is exponential growth, part 2 a transition as growth slows, part 3 a plateau where births roughly equal deaths. Arrows show negative feedback: above K deaths rise, below K the population grows." loading="lazy">
+  <figcaption>The sigmoid curve has exponential, transition and plateau phases, held near carrying capacity by negative feedback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--04-yeast-log.webp" width="900" height="970" alt="Yeast counts double every 2 hours from 0.5 to 32 million cells per mL. On an ordinary axis the points curve upwards; on a log axis they lie on a straight line. The log10 values rise by 0.30 each time: -0.30, 0.00, 0.30, 0.60, 0.90, 1.20, 1.51." loading="lazy">
+  <figcaption>A straight line on a logarithmic axis shows a constant percentage increase, which means exponential growth.</figcaption>
+</figure>
+
+
 ## C4.1.9 Intraspecific relationships
 
 Members of one species have identical needs, so they compete for food, mates, territory, light, water and nesting sites. Examples: seedlings competing for light; male red deer competing for mates.
@@ -138,11 +161,23 @@ A community is all the populations of different species (plants, animals, fungi 
 | Parasitism | Parasite lives on or in a host, gaining nutrients; host harmed | Tapeworm in a human gut |
 | Pathogenicity | A microorganism or virus causes disease in its host | Malarial parasite *Plasmodium* causing malaria |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--07-relationships.webp" width="900" height="1150" alt="Six small pictures, each with plus or minus signs showing who benefits or is harmed. Herbivory, predation, parasitism and pathogenicity are plus for one species and minus for the other, interspecific competition is minus for both, and mutualism is plus for both." loading="lazy">
+  <figcaption>Each interspecific relationship is defined by whether each partner gains or loses.</figcaption>
+</figure>
+
+
 ## C4.1.12 Mutualism
 
 - **Legume root nodules (Fabaceae).** *Rhizobium* bacteria in nodules fix nitrogen gas into ammonia the plant can use. The plant supplies carbohydrates from photosynthesis and a protected, low-oxygen environment.
 - **Orchid mycorrhizae (Orchidaceae).** Orchid seeds are tiny with almost no food store. Fungal hyphae enter the seedling and supply organic carbon and mineral nutrients so it can grow. In return the fungus gains a habitat and, in many species, carbon from the mature plant. The fungal benefit is less clear than in other mycorrhizae.
 - **Zooxanthellae in hard corals.** These photosynthetic dinoflagellates live inside coral tissue. They supply sugars and other organic compounds. The coral supplies shelter, light exposure near the surface, carbon dioxide and nitrogen-containing wastes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--08-mutualism.webp" width="900" height="1000" alt="Three panels each show two partners with arrows in both directions. Rhizobium gives fixed nitrogen (ammonia) and the legume gives carbohydrates and a protected home. Zooxanthellae give sugars and organic compounds and the coral gives shelter, light, carbon dioxide and nitrogen wastes. Fungus gives an orchid seedling carbon and minerals and the orchid gives habitat and some carbon." loading="lazy">
+  <figcaption>In each mutualism both partners supply something the other needs.</figcaption>
+</figure>
+
 
 ## C4.1.13 Endemic and invasive species
 
@@ -174,15 +209,33 @@ Expected value for each cell = row total × column total ÷ grand total. Then χ
 
 Expected values: 11.2, 20.8, 16.8, 31.2. χ² = 2.41 + 1.30 + 1.61 + 0.87 = 6.19 (3 significant figures). This exceeds 3.84, so reject the null hypothesis: the distribution is not independent. Both together (6) is below expected (11.2), a negative association consistent with competition. It does not prove competition: the species might simply prefer different soil or moisture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--09-chi-squared.webp" width="900" height="880" alt="A 2 by 2 table of presence and absence at 80 sites shows observed counts 6, 26, 22 and 26 and expected counts 11.2, 20.8, 16.8 and 31.2. The cell contributions 2.41, 1.30, 1.61 and 0.87 sum to chi-squared 6.19, above the critical value 3.84 for 1 degree of freedom, so independence is rejected. This shows association but does not prove competition." loading="lazy">
+  <figcaption>Chi-squared 6.19 exceeds 3.84 so the species are not independently distributed, but this does not prove competition.</figcaption>
+</figure>
+
+
 ## C4.1.16 Predators and prey
 
 Predator and prey numbers are linked by delayed negative feedback. More prey supports more predators; more predators cut prey numbers; predators then starve and fall, and prey recover.
 
 **Case study: snowshoe hare and Canada lynx.** Long fur-trading records from northern Canada show both populations rising and falling in cycles of roughly ten years, with lynx peaks following hare peaks by a year or so. Later field studies suggest hare food supply matters too, so predation is not the only driver.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--05-predator-prey.webp" width="900" height="840" alt="Computed illustrative curves show prey and predator populations rising and falling every 10 years, with the predator peak about a year after the prey peak. Numbered stages follow the cycle: more prey, more predators, fewer prey, fewer predators and prey recovery." loading="lazy">
+  <figcaption>Delayed negative feedback makes predator numbers follow prey numbers in a cycle.</figcaption>
+</figure>
+
+
 ## C4.1.17 Top-down and bottom-up control
 
 Top-down control: higher trophic levels limit lower ones, as predators limit herbivores. Bottom-up control: resources limit upward, as nutrient supply limits producers, and so everything that feeds on them. Both occur; one is usually dominant in a given community.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--06-top-down-bottom-up.webp" width="900" height="960" alt="Three trophic levels (producers, herbivores, predators) sit above a nutrient supply. An upward arrow shows bottom-up control, where nutrients limit producers and everything above. A downward arrow shows top-down control, where predators limit herbivores." loading="lazy">
+  <figcaption>Control can come from resources below (bottom-up) or from consumers above (top-down).</figcaption>
+</figure>
+
 
 ## C4.1.18 Allelopathy and antibiotics
 

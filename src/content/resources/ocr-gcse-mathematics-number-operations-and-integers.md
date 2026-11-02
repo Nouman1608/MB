@@ -50,6 +50,12 @@ calculations
 - 1.4 Inverse operations — recognising and using inverse operations to
 check or reverse a calculation
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--14-inverse-operations-undo.webp" width="900" height="1030" alt="A forward chain 4, x3 = 12, +5 = 17 is undone by 17, -5 = 12, divide by 3 = 4. Inverse pairs are + and -, x and divide, square and square root. To check 156 divided by 12 = 13, compute 13 x 12 = 156." loading="lazy">
+  <figcaption>Undo a calculation by reversing the order and using the inverse of each step.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Calculations with integers (1.1) is foundational and needs to be
@@ -91,6 +97,17 @@ Calculations follow **BIDMAS**: brackets, indices, division and multiplication (
 
 With negative numbers, two signs together combine: subtracting a negative is equivalent to adding, and multiplying or dividing two negatives gives a positive. An odd number of negative factors gives a negative product; an even number gives a positive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--11-negative-sign-rules.webp" width="900" height="920" alt="Four rows: -2 x -3 = +6 (2 negatives), -2 x -3 x -4 = -24 (3 negatives), -2 x -3 x -4 x -1 = +24 (4 negatives) and -12 divided by -3 = +4. Pairs of negatives cancel; a leftover one makes the answer negative." loading="lazy">
+  <figcaption>An even number of negative factors gives a positive result, an odd number a negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+
 ## Factors, multiples and primes
 
 A **factor** divides exactly into a number; a **multiple** is in its times table; a **prime** has exactly two distinct factors, so 1 is not prime and 2 is the only even prime.
@@ -107,11 +124,48 @@ LCM: highest power of every prime seen  = 2^3 x 3 x 5 x 7 = 840
 
 A useful check: HCF x LCM = product of the two numbers. Here 12 x 840 = 10 080 = 84 x 120.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--05-hcf-lcm-84-120.webp" width="900" height="950" alt="Overlapping circles hold the prime factors of 84 and 120. The overlap 2, 2, 3 gives the HCF 12; every factor used once gives the LCM 840." loading="lazy">
+  <figcaption>The overlap gives the HCF 12; each prime used once gives the LCM 840.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## Powers, roots and standard form (Topic 3)
 
 Index laws: multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, and a negative index gives the reciprocal (negative integer indices are Foundation, 3.01a). **(Higher tier only, 3.01a-b)** A fractional index is a root.
 
 Standard form is A x 10^n with 1 <= A < 10. When multiplying, multiply the numbers and add the indices; when dividing, divide and subtract. Always check the result is still in standard form and adjust if A has drifted outside the range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--12-standard-form-multiply-divide.webp" width="900" height="980" alt="(4 x 10^5) x (3 x 10^4): multiply 4 x 3 = 12, add indices 5 + 4 = 9, giving 12 x 10^9, adjusted to 1.2 x 10^10. (2.4 x 10^6) / (6 x 10^2): 2.4 / 6 = 0.4, subtract indices 6 - 2 = 4, giving 0.4 x 10^4, adjusted to 4 x 10^3." loading="lazy">
+  <figcaption>Work on the numbers and the indices separately, then adjust A back into 1 to 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## Rounding, estimation and error intervals (Topic 4)
 
@@ -124,6 +178,12 @@ Round to a given number of decimal places or significant figures, remembering th
 ```
 
 The lower bound uses <= and the upper uses <, because 6.35 would round up. Writing an error interval is Foundation content (4.01c); calculating the upper and lower bounds of a calculation that uses rounded values is Higher tier only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--13-bounds-of-an-area.webp" width="900" height="1040" alt="A rectangle 6.3 cm by 4.2 cm, both to 1 d.p. Length lies from 6.25 up to 6.35, width from 4.15 up to 4.25, so the area is at least 6.25 x 4.15 = 25.9375 and less than 6.35 x 4.25 = 26.9875 square centimetres." loading="lazy">
+  <figcaption>The lower bound of the area uses both lower bounds; the upper bound uses both upper bounds.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -144,6 +204,12 @@ Choosing between HCF and LCM is the real difficulty. LCM answers "when do things
 ## Common mistakes
 
 Treating 1 as prime. Applying BIDMAS by doing all multiplication before all division rather than left to right. Using HCF where LCM is needed. Writing standard form with A outside 1 to 10. Rounding partway through a multi-step calculation instead of at the end. Using <= for the upper bound of an error interval.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--06-bells-lcm-timeline.webp" width="900" height="790" alt="Two timelines show bell A every 84 seconds and bell B every 120 seconds. They coincide only at 0 and 840 seconds, so the bells next ring together 14 minutes later, at 09:14." loading="lazy">
+  <figcaption>Bells coincide at the lowest common multiple, 840 s = 14 minutes.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

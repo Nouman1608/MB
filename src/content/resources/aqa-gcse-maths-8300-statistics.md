@@ -49,6 +49,12 @@ You must know these four terms (S4 notes):
 - **Discrete data**: can only take separate values, usually counts, e.g. number of siblings.
 - **Continuous data**: measured, so it can take any value in a range, e.g. height, time, mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--01-data-types.webp" width="900" height="800" alt="A tree splits data into qualitative (words or labels) and quantitative (numbers). Quantitative data is discrete (counted, such as goals, where 2.5 makes no sense) or continuous (measured, such as a time of 17.35 seconds)." loading="lazy">
+  <figcaption>Data is qualitative or quantitative; numbers are counted (discrete) or measured (continuous).</figcaption>
+</figure>
+
+
 ## Populations and samples (S1, S5)
 
 The **population** is the whole group you want to know about. A **sample** is the part you actually ask or measure. Sampling is quicker and cheaper, but a sample only gives an estimate.
@@ -63,6 +69,17 @@ Estimate for the population = 0.15 × 2000 = 300 faulty cases
 ```
 
 The answer is an estimate. A different sample of 40 could give a different answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--10-sample-estimate.webp" width="900" height="980" alt="A factory makes 2000 phone cases a day. A random sample of 40 cases contains 6 faulty ones, which is 0.15. Scaling up, 0.15 times 2000 gives an estimate of about 300 faulty cases a day." loading="lazy">
+  <figcaption>A sample proportion scaled up estimates the population, but another sample could give a different answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-biased-sample-gym.webp" width="900" height="860" alt="A town of 40 dots, 8 of whom exercise often (20 per cent). Asking only at the gym picks 5 of those 8, so all 5 say they exercise often: 100 per cent, which overstates the town. One random sample of 5 gives 1 who exercises often: 20 per cent, close to the town value." loading="lazy">
+  <figcaption>Asking only at a gym is a biased sample; a random sample gives everyone an equal chance.</figcaption>
+</figure>
+
 
 ## Tables, charts and diagrams (S2)
 
@@ -85,6 +102,22 @@ Check: 90 + 130 + 100 + 40 = 360°
 A pie chart shows **proportions**, not totals. Two pie charts with the same angle can stand for different numbers of people if the totals are different.
 
 **Time series.** Plot time along the horizontal axis and join the points with straight lines. Describe the **trend** (the general rise or fall) and any repeating pattern, such as sales that peak every summer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--09-time-series-trend.webp" width="900" height="880" alt="A line graph of example quarterly ice-cream sales over three years, 12 points joined by straight lines. The general trend rises steadily, shown by a dashed line. The points also rise and fall in a repeating pattern, with a peak every summer quarter (quarters 3, 7 and 11)." loading="lazy">
+  <figcaption>In a time series, describe the trend (the general rise or fall) and any repeating pattern, such as a summer peak.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
 
 ## Averages and spread (S4)
 
@@ -137,6 +170,12 @@ Always make **two** comparisons: one of an average and one of a spread, each in 
 
 Example: Class A has median 62 and range 30. Class B has median 55 and range 48. "On average Class A scored higher, because its median is higher. Class A's scores were more consistent, because its range is smaller."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
+
 ## Histograms and cumulative frequency (S3) -- Higher tier only
 
 ### Histograms
@@ -163,6 +202,12 @@ Total ≈ 10.8 + 22 + 8 = 40.8, about 41 plants
 
 This assumes values are spread evenly within each class.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--12-histogram-estimate.webp" width="900" height="900" alt="A histogram of plant heights with frequency density 1.2, 3.6, 4.4, 1.6 and 0.4 for classes 0-10, 10-15, 15-20, 20-30 and 30-50. The area from 12 to 25 is shaded: 10.8 + 22 + 8 gives about 41 plants." loading="lazy">
+  <figcaption>Area is frequency, so shade the part you want and add the areas.</figcaption>
+</figure>
+
+
 ### Cumulative frequency graphs
 
 Add the frequencies as you go, then plot each running total at the **upper class boundary**. Join with a smooth curve or straight lines, starting from the lower boundary of the first class at a cumulative frequency of 0.
@@ -175,6 +220,12 @@ For 80 values in classes 0–10, 10–20, 20–30, 30–40, 40–50 with frequen
 - Interquartile range = upper quartile − lower quartile, about 17.4.
 
 The values here come from straight lines between the points. A curve gives slightly different readings, which is why exam answers from graphs accept a range of values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--13-cumulative-frequency-n80.webp" width="900" height="880" alt="A cumulative frequency graph through the points (0, 0), (10, 8), (20, 22), (30, 48), (40, 68) and (50, 80). Reading across at 20, 40 and 60 gives the lower quartile about 18.6, the median about 27 and the upper quartile 36. The interquartile range is about 17.4." loading="lazy">
+  <figcaption>Read across at n ÷ 4, n ÷ 2 and 3n ÷ 4, then down to the axis; these straight-line readings are approximate.</figcaption>
+</figure>
+
 
 ## Box plots and interquartile range (S4) -- Higher tier only
 
@@ -192,6 +243,12 @@ IQR = 15 − 6 = 9;  range = 22 − 3 = 19
 Draw the box from 6 to 15 with a line at 10, and whiskers out to 3 and 22, above a scale.
 
 To compare two box plots, compare the medians (average) and the IQRs (consistency), in context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
+  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
+</figure>
+
 
 ## Scatter graphs (S6)
 
@@ -212,6 +269,17 @@ A **line of best fit** is a straight line drawn by eye through the middle of the
 **Correlation does not show causation.** Ice-cream sales and sunburn cases both rise in summer. They are correlated because of a third factor, hot weather. Neither causes the other.
 
 An **outlier** on a scatter graph is a point far from the pattern. Ignore it when drawing the line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--10-correlation-not-causation.webp" width="900" height="790" alt="Hot weather is at the top. An arrow from hot weather leads to rising ice-cream sales and another arrow leads to rising sunburn cases. A dashed line between ice-cream sales and sunburn is crossed out: the two are correlated, but neither causes the other. The third factor, hot weather, causes both." loading="lazy">
+  <figcaption>Ice-cream sales and sunburn rise together because of a third factor, hot weather, not because one causes the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--12-scatter-revision-score.webp" width="900" height="910" alt="A scatter graph of the 8 students: hours revised from 2 to 9 against test score, rising steadily (strong positive correlation). The mean point (5.5, 53.5) lies on the line of best fit. Reading at 6.5 hours gives about 59 marks, which is interpolation. Extending the line to 20 hours gives about 130 marks, which is extrapolation and impossible because the test is out of 100." loading="lazy">
+  <figcaption>Inside the data the line is a fair guide; outside it the trend may not continue.</figcaption>
+</figure>
+
 
 ## Common errors
 

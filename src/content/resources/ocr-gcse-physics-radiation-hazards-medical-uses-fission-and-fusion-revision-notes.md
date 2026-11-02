@@ -57,6 +57,17 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 2. If yes, it is contamination. If only radiation arrived, it is irradiation.
 3. Give the reason in a short phrase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-irradiation-contamination.webp" width="900" height="910" alt="Top: a sealed source in a lead case sends radiation towards a person, who does not become radioactive. Bottom: radioactive atoms on the skin and inside a person emit radiation from where they are, so the exposure goes wherever the person goes." loading="lazy">
+  <figcaption>Irradiation is exposure to a source outside you; contamination is having the radioactive atoms on or in you.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+
 ## Hazards and half-life (P6.2b, Higher Tier only)
 
 | | Short half-life | Long half-life |
@@ -76,6 +87,22 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 
 *Reminder:* a spill of 960 Bq with a safe level of 120 Bq: 960 ÷ 120 = 8 = 2³, so three half-lives. With a half-life of 2 hours the wait is 6 hours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--05-spill-half-lives.webp" width="900" height="920" alt="Bars show a spill activity halving every 3 days from 3200 Bq to 100 Bq, reached after 5 half-lives, which is 15 days. Higher Tier only." loading="lazy">
+  <figcaption>Five halvings take 3200 Bq down to the safe 100 Bq in 15 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--08-nuc-smoke-alarm.webp" width="900" height="1075" alt="Two plates with an americium-241 alpha source between them. In clean air alpha ionises the air and a small current flows. Smoke absorbs the alpha particles, so fewer ions form, the current falls and the alarm sounds." loading="lazy">
+  <figcaption>Smoke soaks up alpha particles, so the current drops and the alarm goes off.</figcaption>
+</figure>
+
+
 ## Medical uses (P6.2c, Higher Tier only)
 
 | Use | Radiation | Key properties | Why |
@@ -93,6 +120,17 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 Radiotherapy also damages healthy cells, so side effects are weighed against the benefit.
 
 *Practical link in the specification:* research medical tracers and radiotherapy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-tracer-gamma-camera.webp" width="900" height="950" alt="A patient lies below a gamma camera. Technetium-99m has collected in an organ and its gamma rays pass out of the body to the camera. Bars show activity halving every 6 hours from 480 to 30 MBq over 24 hours. Higher Tier only." loading="lazy">
+  <figcaption>A gamma-emitting tracer with a half-life of hours lets a camera see the organ, then fades quickly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-radiotherapy-beams.webp" width="900" height="920" alt="Three gamma beams from different directions cross at a tumour inside the body. Healthy tissue on each path gets only one beam, so the tumour receives the highest total dose. Higher Tier only." loading="lazy">
+  <figcaption>Beams from several angles give the tumour a high dose and spare healthy tissue.</figcaption>
+</figure>
+
 
 ## Fission (P6.2d, Higher Tier only)
 
@@ -112,6 +150,17 @@ Radiotherapy also damages healthy cells, so side effects are weighed against the
 
 An example equation: ²³⁵U + ¹n → ¹⁴¹Ba + ⁹²Kr + 3 ¹n. Check nucleon number: 235 + 1 = 236, and 141 + 92 + 3 = 236. Check proton number: 92 + 0 = 92, and 56 + 36 = 92.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-chain-reaction.webp" width="900" height="960" alt="A tree of fission generations doubles each time: 1, 2, 4, 8, and generation 10 has 1024 fissions with a total of 2047. Fewer than one new fission per fission dies away, exactly one is steady and more than one runs away." loading="lazy">
+  <figcaption>Each fission causing two more doubles the rate every generation, so the average must be kept at 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--03-fission-event-u235.webp" width="900" height="880" alt="A neutron is absorbed by uranium-235, giving an unstable nucleus that splits into two fission products with kinetic energy, plus two or three neutrons and gamma radiation. Higher Tier only." loading="lazy">
+  <figcaption>Uranium-235 absorbs a neutron, becomes unstable and splits.</figcaption>
+</figure>
+
+
 ## Fusion (P6.2e, Higher Tier only)
 
 - Two light nuclei combine into one heavier nucleus, for example isotopes of hydrogen forming helium.
@@ -128,6 +177,12 @@ Example: ²H + ³H → ⁴He + ¹n. Nucleon number: 2 + 3 = 5 and 4 + 1 = 5. Pro
 | Nuclei | One large nucleus splits | Two light nuclei join |
 | Trigger | Absorbing a neutron | Extreme temperature and pressure |
 | Neutrons | Released, and keep the chain going | A neutron may be released, as in the example |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--04-fusion-h2-h3.webp" width="900" height="890" alt="Hydrogen-2 and hydrogen-3 are pushed together at very high temperature, forming helium-4, a neutron and energy. Nucleon number 5 and proton number 2 balance on both sides. Higher Tier only." loading="lazy">
+  <figcaption>Fusion joins light nuclei; a little mass becomes energy and the equation balances.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

@@ -125,6 +125,17 @@ different kind of impurity:
 3. Chlorination                  — kills harmful microbes
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--01-water-present-or-pure.webp" width="900" height="1060" alt="Anhydrous copper(II) sulfate turns from white to blue and anhydrous cobalt(II) chloride from blue to pink when water is added, but this only shows water is present. Purity is judged by temperature: pure water melts at 0 degrees C and boils at 100 degrees C, while impure water melts lower and boils higher." loading="lazy">
+  <figcaption>Colour tests show water is there; melting and boiling points show how pure it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--02-water-treatment.webp" width="900" height="1170" alt="Three tanks in order: sedimentation and filtration removes solids, carbon treatment removes taste and smell, chlorination kills microbes. The final glass is safe to drink." loading="lazy">
+  <figcaption>Each treatment step does one job: solids, then taste and smell, then microbes.</figcaption>
+</figure>
+
+
 ## Fertilisers
 
 Plants need nitrogen, phosphorus and potassium for healthy growth — the
@@ -181,6 +192,37 @@ oxygen:
 word equation:    carbon dioxide + water → glucose + oxygen
 symbol equation:  6CO2 + 6H2O → C6H12O6 + 6O2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
+  <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--05-pollutant-matrix.webp" width="900" height="970" alt="A grid of six pollutants against global warming, acid rain, smog and harm to health, with each pollutant source. CO2 and methane cause warming; SO2 causes acid rain; oxides of nitrogen cause acid rain, smog and breathing harm; CO and particulates harm health." loading="lazy">
+  <figcaption>A quick map from each pollutant to its source and effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--07-catalytic-converter.webp" width="900" height="1060" alt="Harmful carbon monoxide and nitrogen monoxide enter a catalytic converter and leave as carbon dioxide and nitrogen: 2CO + 2NO gives 2CO2 + N2, with atoms balanced." loading="lazy">
+  <figcaption>A catalytic converter turns CO and NO into CO2 and N2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--08-photosynthesis.webp" width="900" height="1140" alt="Carbon dioxide and water enter a leaf; light is absorbed by chlorophyll; glucose and oxygen come out. The balanced equation 6CO2 + 6H2O gives C6H12O6 + 6O2 is Extended." loading="lazy">
+  <figcaption>In sunlight, chlorophyll helps plants turn carbon dioxide and water into glucose and oxygen.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

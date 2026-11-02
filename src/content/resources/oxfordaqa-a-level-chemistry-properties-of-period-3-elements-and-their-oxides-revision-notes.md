@@ -58,6 +58,12 @@ themselves are in the [periodicity revision notes](/resources/oxfordaqa-a-level-
 
 Na needs to lose one electron per atom; Mg needs to lose two, which costs far more energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
+
 ## Elements with oxygen and with chlorine
 
 | Element | With oxygen | With chlorine |
@@ -98,6 +104,17 @@ Oxides, lowest to highest melting point: SO₂ < SO₃ < P₄O₁₀ < Na₂O < 
    intermolecular forces).
 4. Link stronger forces to more energy needed, so higher melting point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
+  <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
+
 ## Oxides with water
 
 | Oxide | pH | Why | Equation |
@@ -109,6 +126,12 @@ Oxides, lowest to highest melting point: SO₂ < SO₃ < P₄O₁₀ < Na₂O < 
 | P₄O₁₀ | 0 | simple molecular; forms acid | `P₄O₁₀ + 6H₂O → 4H₃PO₄` |
 | SO₂ | 3 | weak acid, partly ionised | `SO₂ + H₂O → H₂SO₃` |
 | SO₃ | 0 | strong acid | `SO₃ + H₂O → H₂SO₄` |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--09-oxides-ph.webp" width="900" height="770" alt="A pH scale shows each oxide as a bar. Na2O (13 to 14) and MgO (9 to 10) are basic, Al2O3 is amphoteric and SiO2 acidic but both insoluble at pH 7, and P4O10 (0 to 1), SO2 (2 to 3) and SO3 (0 to 1) are acidic. Oxides change from basic to acidic across the period as bonding changes from ionic to molecular." loading="lazy">
+  <figcaption>A level only (AQA 3.2.4): across Period 3 the oxides go from basic (ionic) through amphoteric (Al2O3) to acidic (molecular).</figcaption>
+</figure>
+
 
 ## Chlorides with water
 
@@ -208,6 +231,12 @@ Negative charges sit on single-bonded oxygen atoms. Each proton lost turns one O
 - Writing MgO as the product of magnesium with cold water.
 - Calling Al₂O₃ a "neutral oxide" because water stays at pH 7.
 - Missing sulfur's lone pair in H₂SO₃, HSO₃⁻ or SO₃²⁻.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--05-successive-ie.webp" width="900" height="840" alt="A log-scale bar chart shows the eight successive ionisation energies of oxygen. The first six rise gently, then there is a jump of about 5.35 times to the seventh. The six electrons before the jump are in the outer shell, so oxygen is in Group 16." loading="lazy">
+  <figcaption>OCR only: a large jump in successive ionisation energies marks the move to an inner shell, so the electrons before the jump give the group.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

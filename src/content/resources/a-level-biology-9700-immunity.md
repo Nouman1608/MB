@@ -122,6 +122,27 @@ secondary: (240 − 2) ÷ (66 − 61) = 238 ÷ 5 = 47.6 AU per day
 
 **(c) Explain the differences.** After the first exposure, memory B-cells remained. There are many more of them than the original matching B-lymphocytes, and they are already selected, so no time is lost finding and cloning matching cells. So plasma cells form sooner and in greater numbers, and antibody rises faster (6 days to peak instead of 14) to a higher level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
+
 ## 11.2 Antibodies and vaccination
 
 ### Antibody structure and function
@@ -187,6 +208,17 @@ The vaccine causes a **primary immune response** without the disease. Memory cel
   - people with a weak immune system (malnourished or with HIV) may respond poorly;
   - some vaccines must be kept cold, which is hard in remote areas;
   - not enough people take up the vaccine, so herd immunity is lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--05-antibody-structure.webp" width="900" height="1320" alt="An antibody is Y-shaped, with two heavy and two light chains joined by disulfide bridges, a flexible hinge, a variable region at each arm tip forming an antigen-binding site, and a constant stem. Two binding sites let one antibody link two pathogens, so they clump (agglutination)." loading="lazy">
+  <figcaption>Antibody structure explains its specificity and its ability to clump pathogens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## Common errors
 

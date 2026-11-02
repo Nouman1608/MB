@@ -34,6 +34,12 @@ Also useful: the [course hub](/boards/ib/ib-dp/physics/), the [printable checkli
 - With no frictional or other resistive forces, mechanical energy is conserved.
 - With non-conservative forces acting, the change in mechanical energy equals the work done by those forces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--03-net-work-kinetic.webp" width="900" height="1220" alt="A 3.2 kg trolley is pushed by a 6.0 N resultant force over 4.5 m, so W = 27 J and Ek gains 27 J, giving v = 4.1 m/s. A box lifted at constant speed has +mgΔh from the hand and -mgΔh from gravity, so net work is zero and Ek is unchanged." loading="lazy">
+  <figcaption>Net work equals the change in kinetic energy; equal and opposite works give zero.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Formula | Unit | Conditions |
@@ -47,6 +53,12 @@ Also useful: the [course hub](/boards/ib/ib-dp/physics/), the [printable checkli
 | Power | P = ΔW/Δt = Fv | W | Fv for constant force along constant velocity |
 | Efficiency | η = Eoutput/Einput = Poutput/Pinput | none | useful output over total input |
 | Energy density | energy released per unit volume of fuel | e.g. MJ per litre | use the units given |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--02-work-at-an-angle.webp" width="900" height="1060" alt="A rope pulls a sledge with 120 N at 35 degrees over 18 m. Only F cos θ = 98.3 N along the ground does work, giving 1769 J; the 68.8 N vertical part does none. Small panels show 0 degrees (W = Fs), 90 degrees (W = 0) and 150 degrees (negative work)." loading="lazy">
+  <figcaption>Only the component of force along the displacement does work: W = Fs cos θ.</figcaption>
+</figure>
+
 
 ## Methods in steps
 
@@ -85,6 +97,12 @@ Also useful: the [course hub](/boards/ib/ib-dp/physics/), the [printable checkli
 
 **Fuel volume.** A 1.0 kW electrical load runs for 1.0 hour from a generator that is 25% efficient. The fuel has an energy density of 32 MJ per litre. Output energy = 1000 × 3600 = 3.6 × 10⁶ J. Input energy = 3.6 × 10⁶ / 0.25 = 1.44 × 10⁷ J. Volume = 1.44 × 10⁷ / 3.2 × 10⁷ = 0.45 litres.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--06-friction-energy-loss.webp" width="900" height="970" alt="A 2.0 kg block slides 3.0 m down a slope that drops 1.5 m and reaches 4.2 m/s. It loses 29.4 J of Eg, gains 17.6 J of Ek, and 11.8 J becomes thermal energy through work against friction, so the friction force is 3.9 N." loading="lazy">
+  <figcaption>The lost mechanical energy is the work done against friction and appears as thermal energy.</figcaption>
+</figure>
+
+
 ## Units to watch
 
 | Given | Convert to | How |
@@ -106,6 +124,12 @@ Always convert before substituting. A power in kW combined with a time in hours 
 - **Output and input.** Efficiency uses useful output over total input, never the reverse.
 - **Energy density and efficiency.** Energy density says how much energy the fuel can release per unit volume. Efficiency says how much of that becomes useful output.
 - **Sign of work.** A force along the motion does positive work. A force against it does negative work. A force at 90° does none.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--07-power-force-speed.webp" width="900" height="890" alt="A car moves at a steady 25 m/s with equal 640 N driving and resistive forces. In 1 s it moves 25 m, so the driving force does 16 000 J, a power of 16 kW, equal to Fv." loading="lazy">
+  <figcaption>In one second the force does Fs = Fv joules of work, so P = Fv.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -135,6 +159,17 @@ Always convert before substituting. A power in kW combined with a time in hours 
 10. Ek = ½ × 2.0 × 3.0² = 9.0 J. Eg = 2.0 × 9.81 × 1.5 = 29.4 J. Mechanical energy = 38 J.
 11. The expression assumes a constant gravitational field strength. Over a large height change g decreases, so the expression overestimates the change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--05-spring-launch.webp" width="900" height="900" alt="A spring (320 N/m, 0.060 m compression) stores 0.576 J. Launched horizontally it gives a 0.050 kg ball 4.8 m/s; launched vertically the ball rises 1.2 m. Both panels convert all 0.576 J." loading="lazy">
+  <figcaption>All the elastic energy becomes kinetic energy, or gravitational energy at the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--09-fuel-energy-density.webp" width="900" height="1040" alt="A 28% efficient generator supplies 1.5 kW for 3.0 h, needing 1.62 x 10^7 J of electrical energy. A Sankey diagram shows 57.9 MJ of fuel energy giving 16.2 MJ useful. Dividing by 36 MJ per litre gives 1.6 litres." loading="lazy">
+  <figcaption>Divide the useful energy by the efficiency, then by the energy density.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the angle to the horizontal in W = Fs cos θ when the displacement is not horizontal.
@@ -146,6 +181,12 @@ Always convert before substituting. A power in kW combined with a time in hours 
 - Dropping the efficiency step in a fuel-volume problem.
 - Quoting Fv for power when the force is not along the velocity or the velocity is changing.
 - Not giving a unit, or giving J where W is needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--01-sankey-energy-flow.webp" width="900" height="860" alt="A Sankey diagram for 500 J input. Useful kinetic output is 150 J (30%) and continues straight on; wasted thermal 310 J (62%) and sound 40 J (8%) branch away. The widths add to 500 J and efficiency is 150/500 = 0.30." loading="lazy">
+  <figcaption>Arrow widths are proportional to energy, and the outputs add up to the input.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

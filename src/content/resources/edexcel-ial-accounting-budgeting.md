@@ -59,6 +59,17 @@ The limits: a budget is only as good as its forecasts; preparing it takes manage
 7. **Review, negotiate and approve.** If the plan is unacceptable (say, an overdraft beyond the bank's limit), budgets are revised. Budget holders should take part, because people work harder for targets they helped set.
 8. **Monitor.** Compare actual results with the budget, flexed where activity has changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--03-receipts-timing.webp" width="900" height="700" alt="Three boxes show May, June and July sales. Arrows lead to a July receipts bar of 32,400 pounds made up of 9,000 from May credit sales, 14,400 from June credit sales and 9,000 of July cash sales." loading="lazy">
+  <figcaption>Cash is budgeted in the month it arrives, not the month of the sale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--04-cash-budget-balance.webp" width="900" height="910" alt="Bars show the forecast closing bank balance: 2,400 pounds in July, an overdraft of 7,900 in August and 3,500 in September. Cash in and out are listed for each month. A note says the August van purchase causes the overdraft and depreciation never appears in a cash budget." loading="lazy">
+  <figcaption>The cash budget warns months ahead that an overdraft will be needed.</figcaption>
+</figure>
+
+
 ## Revenue, production, purchases and inventory budgets (2.4.3)
 
 The relationships you need:
@@ -107,6 +118,12 @@ February's opening inventory is 25% x 300 = 75, because January closed on the sa
 | **Closing inventory** | **3,750** | **4,150** | **4,000** |
 
 In units, the finished goods inventory budget for February is 75 + 315 - 300 = 90 kayaks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--02-production-budget.webp" width="900" height="880" alt="For April, May and June, a bar of what is needed (sales plus closing stock) sits above a bar of what is available (opening stock plus production); both have equal totals of 500, 620 and 710 units. Each month's closing stock becomes the next month's opening stock." loading="lazy">
+  <figcaption>Production is the amount needed to meet sales and closing stock after using up opening stock.</figcaption>
+</figure>
+
 
 ## Trade receivables, trade payables, capital and cash budgets (2.4.3)
 
@@ -223,6 +240,12 @@ The dividend is not an expense. It is deducted in the statement of changes in eq
 
 Every closing figure comes from a budget above. Profit is 14,180, yet the bank falls by 6,920: the van, the dividend and higher receivables and inventory absorb the cash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--05-profit-not-cash.webp" width="900" height="910" alt="A waterfall starts at budgeted profit of 17,700 pounds, adds back 2,000 depreciation, then subtracts the van (15,000), drawings (7,500) and higher receivables (7,500) and adds higher payables (3,600). The bank falls by 6,700, from 3,200 to a 3,500 overdraft." loading="lazy">
+  <figcaption>A profitable budget can still leave the bank overdrawn because profit is not cash.</figcaption>
+</figure>
+
+
 ## Flexible budgets (2.4.5)
 
 A **fixed budget** is set for one planned level of activity. If actual activity differs, comparing actual costs with it is misleading, because variable costs should rise or fall with output. A **flexible budget** recalculates revenue and costs for the actual activity level:
@@ -246,6 +269,17 @@ Tolvane Mouldings Ltd budgeted to make and sell 20,000 crates at 9 each. Per cra
 | **Profit** | **44,000** | **52,600** | **48,290** | **4,310 A** |
 
 Against the fixed budget, profit looks 4,290 favourable and materials 6,120 adverse; both are distorted by volume. The extra 2,000 crates should have added 8,600 profit (52,600 - 44,000), but the business fell 4,310 short of what 22,000 crates should earn. Price averaged 8.90, not 9, and materials 2.46 a crate: these need investigating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--01-budget-order.webp" width="900" height="1060" alt="A flow chart starts with the principal budget factor, usually sales demand. The sales budget feeds the production budget, which feeds the purchases and labour budgets. These feed the cash budget, then the budgeted income statement and financial position, which together form the master budget. Edexcel also adds receivables, payables and capital budgets." loading="lazy">
+  <figcaption>Budgets are prepared in a fixed order, each feeding the next, ending in the master budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--07-incremental-vs-zbb.webp" width="900" height="920" alt="Incremental budgeting starts from last year's 20,000 pounds and adds 3 percent to reach 20,600. Zero-based budgeting starts from nothing and includes only justified items: website 6,000 and trade show 8,000, rejecting a 4,000 old brochure, for 14,000." loading="lazy">
+  <figcaption>Incremental budgets build on last year; zero-based budgets must justify every item from nil.</figcaption>
+</figure>
+
 
 ## Common errors
 

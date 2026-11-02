@@ -49,6 +49,12 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
 - **Gradient**: (increase in y) ÷ (increase in x). **Tangent**: straight line touching a curve at one point; its gradient is the gradient of the curve there.
 - **Stationary (turning) point**: where dy/dx = 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--01-linear-nth-term.webp" width="900" height="940" alt="Graph of the sequence 5, 8, 11, 14 against n. Each point is 3 higher than the one before, so the points lie on a straight line of gradient 3. Extending the line back to n = 0 gives 2, so the nth term is 3n + 2." loading="lazy">
+  <figcaption>A linear sequence lies on a straight line whose gradient is the common difference.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula | On the Higher formulae sheet? |
@@ -101,6 +107,17 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
 - **Reciprocal (Higher)**: y = k/x has two branches and never meets the axes. y = k/x² stays on one side of the x-axis for k ≠ 0.
 - **Trig (Higher)**: sin and cos repeat every 360° and stay between −1 and 1; tan repeats every 180° with asymptotes at 90°, 270°, ….
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--01-perp-line-through-point.webp" width="900" height="1100" alt="Graph of 3x + 2y = 6 and the perpendicular through (6, 1) with gradient triangles, a right-angle mark, and the equation y = (2/3)x − 3. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>A line and its perpendicular have gradients that multiply to minus 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--05-speed-time-gradient.webp" width="900" height="900" alt="Illustrative speed-time graph with gradient triangles giving 2, 0 and −4 m/s². See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>On a speed-time graph the gradient is the acceleration.</figcaption>
+</figure>
+
+
 ## Reading and drawing graphs (both tiers)
 
 - **Plotting**: complete the table of values first, plot each point with a small cross, then join a quadratic with one smooth curve through every point.
@@ -120,6 +137,22 @@ So the graphs meet where x = −3 and x = 2.
 
 It also works backwards: to solve x³ − 4x + 1 = 0 using a drawn graph of y = x³ − 3x, rewrite it as x³ − 3x = x − 1 and draw the line y = x − 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--08-seq-arithmetic-sum.webp" width="900" height="950" alt="Columns of heights 3, 7, 11, 15, 19, 23 (a = 3, d = 4) are stacked with a reversed copy so every column is 26 high. Twice the sum is 6 x 26 = 156, so S6 = 78 = (6/2)[2(3) + 5(4)]." loading="lazy">
+  <figcaption>Two reversed copies make a rectangle n by (2a + (n − 1)d), so Sₙ = (n/2)[2a + (n − 1)d].</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--02-turning-points-cubic.webp" width="900" height="930" alt="Graph of the cubic with horizontal tangents at (1, 1) maximum and (2, 0) minimum. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>The gradient is zero at the maximum and minimum of the cubic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--03-turning-point-negative-power.webp" width="900" height="1000" alt="Graph of y = x² + 16/x with the minimum at (2, 12) and a horizontal tangent. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>Setting dy/dx = 0 locates the minimum at (2, 12).</figcaption>
+</figure>
+
+
 ## Transformations (Higher tier only)
 
 | Equation | Transformation | A point (p, q) moves to |
@@ -130,6 +163,37 @@ It also works backwards: to solve x³ − 4x + 1 = 0 using a drawn graph of y = 
 | y = f(ax) | stretch in x-direction, factor 1/a | (p/a, q) |
 
 Changes **outside** the bracket act on y as you expect. Changes **inside** the bracket act on x the opposite way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--09-seq-translate-graph.webp" width="900" height="1010" alt="Graphs of y = x², y = (x + 1)² (1 unit left) and y = (x + 1)² + 4 (4 units up). The lowest point moves from (0, 0) to (−1, 4): a translation by the vector (−1, 4)." loading="lazy">
+  <figcaption>f(x + 1) moves the graph left by 1; adding 4 moves it up by 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--10-seq-stretch-graph.webp" width="900" height="950" alt="Graphs of y = sin x, y = 2 sin x (maximum 2 at 90 degrees) and y = sin 2x (period 180 degrees) from 0 to 360 degrees." loading="lazy">
+  <figcaption>af(x) stretches vertically by a; f(ax) stretches horizontally by 1/a.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--11-seq-kinematics.webp" width="900" height="1160" alt="Three aligned graphs for 0 to 6 s. Velocity v = 3t² − 18t + 24 is zero at t = 2 and t = 4, where displacement has a maximum of 20 m and a minimum of 16 m; acceleration a = 6t − 18 is −6 at t = 2 and 6 at t = 4." loading="lazy">
+  <figcaption>Differentiate s to get v, differentiate v to get a; at rest means v = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs--04-domain-allowed-inputs.webp" width="900" height="940" alt="Two graphs showing domain x ≥ 2 for √(x − 2) and x ≠ −3 for 4/(x + 3). See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>The domain removes inputs that give a square root of a negative number or division by zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
+  <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

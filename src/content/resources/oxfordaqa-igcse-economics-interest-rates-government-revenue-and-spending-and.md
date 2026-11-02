@@ -58,6 +58,12 @@ Interest for one year = sum × rate.
 * A borrower with a 10,000 cu loan pays 10,000 × 0.08 = 800 cu a year.
 * The bank keeps the 500 cu gap to cover its costs, the risk that some loans are not repaid, and its profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--02-saver-borrower-gap.webp" width="900" height="920" alt="A borrower pays 800 cu on a 10,000 cu loan at 8%. The bank passes 300 cu to a saver at 3% and keeps 500 cu to cover costs, risk and profit." loading="lazy">
+  <figcaption>The bank keeps the gap between the 8% it charges and the 3% it pays.</figcaption>
+</figure>
+
+
 ### Sharia-compliant alternatives
 
 Islamic finance does not allow riba, which means a fixed charge for lending money, so interest is avoided. Sharia-compliant finance instead links the return to a real trade, an asset or a share of profit. Common forms:
@@ -77,6 +83,12 @@ Islamic finance does not allow riba, which means a fixed charge for lending mone
 * A saver in a profit-sharing account may earn 4% one year (80 cu on 2,000 cu) and 2% the next (40 cu): the return is not fixed.
 
 Sharia-compliant finance avoids interest by tying returns to assets, sales or profit. Providers may still price with an eye on market rates, so effects on spending can be similar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--07-int-sharia-finance.webp" width="900" height="990" alt="A cost-plus sale (murabaha) has the bank buy a 50,000 press and sell it for 53,000 in 12 instalments, a fixed mark-up of 3,000 (6%). Profit sharing (mudarabah) splits a profit of 10,000 60:40, 6,000 to the bank and 4,000 to the workshop; with no profit the bank gets nothing." loading="lazy">
+  <figcaption>Sharia-compliant finance ties returns to a sale or to profit instead of charging interest.</figcaption>
+</figure>
+
 
 ### Effects on consumers: save, borrow or spend
 
@@ -101,6 +113,17 @@ When rates fall, the reverse happens.
 * inflation: if prices rise faster than the rate paid, saving may still not look rewarding
 * confidence: households that fear job loss may save whatever the rate
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--01-mortgage-rate-rise.webp" width="900" height="870" alt="Two bars of a 24,000 cu income show interest on a 100,000 cu variable mortgage taking 5,000 cu (20.8%) at 5% and 7,000 cu (29.2%) at 7%. The extra 2,000 cu a year (166.67 cu a month) is hatched. Spending can fall by up to 2,000 cu." loading="lazy">
+  <figcaption>A rate rise from 5% to 7% lifts mortgage interest from 20.8% to 29.2% of income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ### Effects on producers: save, borrow or invest
 
 Producers save by keeping retained profit in bank deposits, borrow to expand, and invest in machinery, buildings and technology.
@@ -118,6 +141,12 @@ Higher rates therefore reduce borrowing and investment.
 
 **Evaluation points.** Investment also depends on expected sales and confidence. A firm with plenty of retained profit is less sensitive to borrowing costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--06-int-invest-rate.webp" width="900" height="950" alt="A machine costing 50,000 adds 4,000 a year (8%). At a 6% loan the interest is 3,000, net +1,000, so invest. At a 10% loan the interest is 5,000, net -1,000, so do not invest." loading="lazy">
+  <figcaption>A higher interest rate stops projects whose return is below the cost of borrowing.</figcaption>
+</figure>
+
+
 ## 3.2.1.2 Government income and expenditure
 
 ### Sources of revenue
@@ -133,6 +162,12 @@ Main taxes:
 * excise duties, on specific goods such as fuel, alcohol and tobacco
 * import duties (tariffs), on imported goods
 * property taxes, on land and buildings
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--04-revenue-sources.webp" width="900" height="1000" alt="Bars show Country B revenue of 100 billion cu: income tax 30, sales tax 24, social insurance 14, corporation tax 12, excise 8, other income 8, import duties 4. Direct taxes are 42%, indirect 36%." loading="lazy">
+  <figcaption>Country B raises 42% of revenue from direct taxes and 36% from indirect taxes.</figcaption>
+</figure>
+
 
 ### Areas of spending
 
@@ -158,11 +193,23 @@ Main areas are health, education, social protection (pensions and benefits), def
 
 Spending has an opportunity cost: more for defence means less for health unless taxes or borrowing rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--08-int-budget-country-b.webp" width="900" height="1090" alt="Stacked bars show revenue of 100 (direct taxes 42, social insurance 14, indirect taxes 36, other 8) and spending of 108 (social protection 30, health 24, education 19, transport 11, defence 9, law, debt interest and other 15). The deficit of 8 is financed by borrowing." loading="lazy">
+  <figcaption>Spending exceeds revenue by 8, a budget deficit.</figcaption>
+</figure>
+
+
 ### How taxes and spending affect economic activity
 
 Government spending adds directly to demand, for example when it pays builders to make a road. A tax cut raises disposable income and spending. A tax rise does the opposite.
 
 **Worked example 7.** The 18% middle rate falls to 16%. A worker with 20,000 cu in that band pays 3,200 cu instead of 3,600 cu, a gain of 400 cu. Spending 90% of it adds 360 cu to demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--03-tax-cut-demand.webp" width="900" height="920" alt="A worker with 20,000 cu in the band pays 3,600 cu at 18% and 3,200 cu at 16%, keeping 400 cu more. Spending 90% adds 360 cu to demand; 40 cu is saved." loading="lazy">
+  <figcaption>Cutting the middle rate from 18% to 16% adds 360 cu to demand.</figcaption>
+</figure>
+
 
 ### Direct and indirect taxes
 
@@ -173,6 +220,12 @@ Government spending adds directly to demand, for example when it pays builders t
 | Depends on | Income or profit | Spending |
 
 If a good costs 80 cu before a 10% sales tax, the tax is 8 cu and the consumer pays 88 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ### Progressive and regressive taxes
 
@@ -198,6 +251,17 @@ Higher incomes face a higher average rate, which makes the tax progressive. The 
 B hands over a larger sum yet a smaller share, so in effect the sales tax is regressive. A flat fee is regressive too: 120 cu is 1.0% of a 12,000 cu income but 0.1% of 120,000 cu.
 
 Indirect taxes are not always regressive: a tax on luxury goods can be progressive, because mainly high-income households buy them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--09-int-income-tax-slices.webp" width="900" height="950" alt="An income of 55,000 is taxed in slices: 0% on the first 9,000, 18% on the next 27,000 (4,860) and 38% on the last 19,000 (7,220). Total tax 12,080 is 22.0% of income. Average rates for 7,000, 27,000 and 55,000 are 0%, 12.0% and 22.0%." loading="lazy">
+  <figcaption>Each rate applies only to its own slice of income, so the average rate rises with income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--10-int-sales-tax-regressive.webp" width="900" height="980" alt="Household A (income 18,000) pays 1,200 of sales tax, 6.7% of income. Household B (income 90,000) pays 3,000, 3.3% of income. B pays more money but a smaller share." loading="lazy">
+  <figcaption>A sales tax takes a larger share of a low income, so it is regressive in effect.</figcaption>
+</figure>
+
 
 ### Evaluating tax choices
 

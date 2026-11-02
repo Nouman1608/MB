@@ -105,6 +105,12 @@ All nuclei have the same density, whatever their size. The nucleons are packed t
 
 Compare this with a solid such as iron, density 7870 kg m⁻³: nuclear matter is about 3 × 10¹³ times denser. The reason is that almost all the mass of an atom sits in a nucleus that fills a tiny fraction of the atom's volume.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+
+
 ## 4. Mass-energy and binding energy
 
 Einstein's relation E = mc² applies to every energy change, not only nuclear ones. A change in energy ΔE is linked to a change in mass Δm by:
@@ -130,6 +136,12 @@ Burning 1.0 kg of coal releases roughly 3.0 × 10⁷ J, so the mass change is 3.
 
 Take care with data. If you are given atomic masses, the electrons are included. Either subtract Z electron masses to get the nuclear mass, or use the hydrogen atom mass in place of the proton mass, so that the electrons cancel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--06-aphy-nuclear-mass-defect.webp" width="900" height="920" alt="The four separate nucleons of helium-4 weigh 4.031882 u but the nucleus 4.001505 u. The mass defect 0.030377 u is equivalent to 28.3 MeV, the binding energy, which is 7.07 MeV per nucleon." loading="lazy">
+  <figcaption>The binding energy is the energy equivalent of the mass defect.</figcaption>
+</figure>
+
+
 ## 5. Binding energy per nucleon and the nuclear curve
 
 The curve of mean binding energy per nucleon, plotted against A, rises steeply for the lightest nuclei: about 1.1 MeV for hydrogen-2, then 7.07 MeV for helium-4, a peak that stands above its neighbours. It reaches a broad maximum of about 8.8 MeV near iron-56, then falls slowly to about 7.6 MeV for uranium-235.
@@ -146,6 +158,17 @@ Energy released = binding energy after the reaction − binding energy before it
 - Binding energy gained per nucleon = 8.5 − 7.6 = 0.9 MeV
 - Nucleons involved = 235
 - **Energy ≈ 235 × 0.9 = 2.1 × 10² MeV**, an estimate because graph values are read to two significant figures
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--07-aphy-nuclear-binding-curve.webp" width="900" height="980" alt="Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 at about 8.8 MeV and falls slowly to about 7.6 MeV for uranium-235. Fusion of light nuclei and fission of heavy nuclei both move nuclei towards the peak and release energy: 17.6 MeV for deuterium plus tritium and about 184 MeV for a uranium-235 fission." loading="lazy">
+  <figcaption>Both fusion and fission release energy because their products sit nearer the peak of the curve.</figcaption>
+</figure>
+
 
 ## 6. Energy from nuclear masses
 
@@ -181,3 +204,9 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.12.1 and 3.12.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
+  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
+</figure>
+

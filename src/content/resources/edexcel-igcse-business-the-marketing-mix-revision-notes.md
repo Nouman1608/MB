@@ -83,6 +83,17 @@ Method in steps:
 
 Worked reminder: share 12%, largest rival 24%, market growth 9%. Relative share 12 ÷ 24 = 0.5, growth is fast, so question mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--01-holmcroft-boston-matrix.webp" width="900" height="936" alt="A two by two grid of market growth against relative market share. Fizz (relative share 2) is a star, Pulse (0.25) a question mark, Zest (2) a cash cow and Still (0.25) a dog. Relative share is own share divided by the largest rival’s share." loading="lazy">
+  <figcaption>Holmcroft’s four drinks placed on a Boston matrix using relative market share and market growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## Price (4.3.2)
 
 | Strategy | What the business does | When it might suit |
@@ -103,6 +114,17 @@ Worked reminder: variable cost 6.00, fixed costs 9,000, output 3,000, mark-up 50
 
 **Promotional pricing check.** Compare profit, not only revenue. Profit = (price − unit cost) × units. A bigger discount needs a bigger rise in sales to break even on profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--02-valtrey-cost-plus.webp" width="900" height="740" alt="A bar made of variable cost 4.20, fixed cost 3.00 and a 40 percent mark-up of 2.88 gives a selling price of 10.08 per candle and profit of 17,280 on 6,000 candles." loading="lazy">
+  <figcaption>Building the cost-plus price of a Valtrey candle from cost and mark-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--03-jacket-promotion.webp" width="900" height="910" alt="Bars show revenue 9,000 and profit 4,000 at the normal price, and revenue 10,800 and profit 3,300 at 20 percent off. Revenue rises by 1,800 but profit falls by 700." loading="lazy">
+  <figcaption>A 20% promotion raises revenue but lowers profit in that month.</figcaption>
+</figure>
+
+
 ## Place (4.3.3)
 
 | | Retailer | E-tailer (e-commerce) |
@@ -112,6 +134,12 @@ Worked reminder: variable cost 6.00, fixed costs 9,000, output 3,000, mark-up 50
 | Against | Retailer takes a share of the price; less control | Delivery and returns cost; cannot try the item; needs a good website |
 
 Many firms use both. The right mix depends on the product, the customers and cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--04-sandcroft-channels.webp" width="900" height="840" alt="Two bars split the 24 retail price. Via a shop Sandcroft receives 15.60 and the shop keeps 8.40 (35 percent). Online Sandcroft pays 3.50 delivery and a 1.20 fee and receives 19.30, which is 3.70 more." loading="lazy">
+  <figcaption>Selling online leaves Sandcroft 3.70 more per trowel, if customers find the site.</figcaption>
+</figure>
+
 
 ## Promotion (4.3.4)
 
@@ -152,6 +180,12 @@ The specification lists command words such as state, identify, define, calculate
 4. **Judgement.** For evaluate and justify, weigh the other side and finish with a decision that depends on the facts given.
 
 Answers that use the context usually earn more than a reply that would fit any business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

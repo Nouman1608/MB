@@ -72,6 +72,17 @@ Balances: goods +110, services -40, primary income +14, secondary income -16. To
 
 Country N has a current account deficit of 35. Its goods balance is -81, services +29 and secondary income +12. Known balances add to -81 + 29 + 12 = -40. The primary income balance is -35 - (-40) = **+5**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--01-ca-four-components.webp" width="900" height="800" alt="Country K: goods -90, services +42, primary income -22, secondary income +14 give a deficit of 56 million zel, 2.0% of GDP. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Waterfall of the four component balances for Country K, then the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## 6.4.2 Why deficits and surpluses arise
 
 A deficit means the country buys more from the world, and pays more to it, than it earns. Possible reasons:
@@ -91,6 +102,17 @@ A surplus is the opposite pattern: goods that sell well abroad, a low exchange r
 
 Country K's cloth exporters raise their prices by 9% in a year. Their main rival raises prices by 4%. With a fixed exchange rate, relative price = 1.09 ÷ 1.04 = 1.048, so K's cloth is about **4.8% dearer** than before relative to the rival. Some foreign buyers switch to the rival. Exports fall and the goods balance worsens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--08-cloth-relative-price.webp" width="900" height="870" alt="K cloth index rises to 109, rival to 104; 1.09 divided by 1.04 is 1.048, so about 4.8 percent dearer." loading="lazy">
+  <figcaption>Relative price decides competitiveness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## 6.4.3 Consequences of deficits and surpluses
 
 ### Impact on GDP and employment
@@ -109,9 +131,21 @@ Under a floating rate, a deficit means more of the home currency is supplied (to
 
 Under a fixed rate, the central bank must hold the rate steady by selling foreign reserves. Reserves are limited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ### Worked example 5: how long can reserves last?
 
 Country T runs a deficit of 40 a year and holds reserves of 130. If reserves cover the whole gap, they last 130 ÷ 40 = **3.25 years**. After that the country must borrow, sell assets, or let the currency fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--07-reserves-run-out.webp" width="900" height="910" alt="Reserves fall 130, 90, 50, 10 and reach zero at 3.25 years." loading="lazy">
+  <figcaption>Reserves of 130 last 3.25 years at 40 a year.</figcaption>
+</figure>
+
 
 ### Worked example 6: exchange rate, PED and the goods balance
 
@@ -123,9 +157,21 @@ Country K's currency falls from 1 zel = 2.00 marn to 1 zel = 1.60 marn (the marn
 
 If both PED values were very low, the deficit could widen. The effect depends on PED, and buyers often take time to change habits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--02-ca-currency-fall-goods.webp" width="900" height="810" alt="With export PED 1.5 and import PED 0.4, a 20% fall in the zel lifts exports to 546 and imports to 573.75, so the goods deficit narrows from 90 to 27.75. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Before and after bars for goods exports and imports when the zel falls 20%.</figcaption>
+</figure>
+
+
 ### Inflation again: imported costs
 
 Suppose a bakery in K spends 35% of its costs on imported flour. A 25% rise in the zel price of imports raises its costs by 35% × 25% = **8.75%**. Firms may raise prices, so a falling currency can cause cost-push inflation. A deficit can therefore lead to a lower exchange rate and then to higher prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--09-imported-flour-cost-push.webp" width="900" height="865" alt="Costs of 100 include flour 35. A 25 percent flour rise adds 8.75, so costs reach 108.75." loading="lazy">
+  <figcaption>A falling currency can cause cost-push inflation.</figcaption>
+</figure>
+
 
 ## 6.4.4 Policies for balance of payments stability
 
@@ -146,9 +192,21 @@ Country N imports 1,000 appliances a month at 80 zel each. It adds a 25% tariff.
 
 Payments to foreign sellers: before 1,000 × 80 = 80,000. After 850 × 80 = 68,000. Saving: **12,000 zel**. The tariff itself goes to the government: 850 × 20 = 17,000 zel. Because demand is inelastic, the tariff reduces the quantity by only a modest amount, so the effect on the account is small. It also raises prices for consumers and invites retaliation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--05-tariff-where-money-goes.webp" width="900" height="890" alt="Before: 80,000 to foreign sellers. After: 85,000 paid, of which 68,000 to foreign sellers and 17,000 to the government. Foreign sellers receive 12,000 less." loading="lazy">
+  <figcaption>The tariff goes to the government, not the foreign seller.</figcaption>
+</figure>
+
+
 ### Worked example 8: deflationary policy
 
 A government cuts total spending by 60 million zel. If 20% of spending is on imports, imports fall by 60 × 0.20 = **12 million zel**. The side effects can be larger than the gain: output and jobs also fall, which links to the syllabus conflicts between economic growth and balance of payments stability, and between full employment and balance of payments stability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--06-deflation-spending-cut.webp" width="900" height="630" alt="A 60 million cut splits into 12 million on imports (20 percent) and 48 million on home output; output and jobs also fall." loading="lazy">
+  <figcaption>Only a fifth of the cut lands on imports.</figcaption>
+</figure>
+
 
 ### How effective might a policy be?
 

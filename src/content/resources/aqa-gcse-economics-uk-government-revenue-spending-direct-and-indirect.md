@@ -65,6 +65,12 @@ Each share is amount divided by 400, times 100. For example VAT is 90 / 400 = 0.
 
 Direct taxes in the table (income tax, National Insurance, corporation tax) are 120 + 80 + 40 = 240, which is 240 / 400 = 60% of revenue. Indirect taxes (VAT and excise duties) are 90 + 30 = 120, which is 30%. The remaining 10% is other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--08-revenue-sources.webp" width="900" height="822" alt="Bars for fictional Country A, total 400: income tax 120, National Insurance 80, corporation tax 40, VAT 90, excise duties 30, other 40. Direct taxes total 240 (60 percent), indirect 120 (30 percent), other 10 percent." loading="lazy">
+  <figcaption>Direct taxes are the largest share of revenue in the worked example.</figcaption>
+</figure>
+
+
 ## Government spending: where the money goes
 
 Public spending pays for services and transfers. The main areas are:
@@ -99,6 +105,12 @@ Revenue was 400 and spending was 420, so the government has a **budget deficit**
 
 Spending is a choice. Every extra unit spent on one area has an opportunity cost, because it could have been spent elsewhere or used to cut taxes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--09-budget-deficit.webp" width="900" height="1010" alt="Revenue of 400 beside spending of 420 (social protection 135, health 105, education 55, defence 30, transport 20, debt interest 25, other 50). The 20 gap is a deficit the government borrows." loading="lazy">
+  <figcaption>Spending above revenue is a budget deficit financed by borrowing.</figcaption>
+</figure>
+
+
 ## Direct and indirect taxes
 
 The test is who the taxpayer is and whether they can pass the tax on.
@@ -119,6 +131,22 @@ A good costs 50 before VAT, and VAT is 20%. Price paid = 50 x 1.20 = 60, so the 
 Reverse it: a good costs 72 including 20% VAT. Divide by 1.20: 72 / 1.20 = 60 before tax, so the tax is 72 - 60 = 12. A common error is taking 20% of 72 (14.40), which is wrong because the 20% was added to the 60, not to the 72.
 
 If VAT rises from 20% to 25%, the same good that was 60 becomes 60 / 1.20 x 1.25 = 62.50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--11-vat-in-a-price.webp" width="900" height="920" alt="Adding 20 percent VAT to 50 gives 60 and VAT of 10. Removing it from 72 means dividing by 1.20 to get 60, so VAT is 12; taking 20 percent of 72 (14.40) is wrong." loading="lazy">
+  <figcaption>Divide a tax-inclusive price by 1.20 to remove 20 percent VAT.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--06-vat-rise-20-to-25.webp" width="900" height="830" alt="A good costs 50 before tax. At 20% VAT it costs 60; at 25% VAT it costs 62.50, a rise of 2.50." loading="lazy">
+  <figcaption>A VAT rise lifts the price from 60 to 62.50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Progressive and regressive taxes
 
@@ -152,6 +180,22 @@ Indirect taxes can be regressive even when the rate is the same for everyone, be
 *A fixed duty of 0.50 per litre of fuel.* Household L has income 18,000 and buys 1,200 litres: tax 600, which is 3.3% of income. Household M has income 72,000 and buys 1,800 litres: tax 900, which is 1.3% of income. A fixed amount per unit takes a bigger share from the lower income.
 
 Here M spends a smaller share of income on fuel, which is why the duty is regressive. If a tax is on a luxury that only high earners buy, it can be progressive instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--10-progressive-income-tax.webp" width="900" height="960" alt="Bands of 0 percent to 11,000, 15 percent from 11,000 to 35,000 and 35 percent above. Tax as a share of income is 0, 8.7, 22.6 and 28.3 percent at incomes of 9,000, 26,000, 70,000 and 130,000, always below the 35 percent top rate." loading="lazy">
+  <figcaption>Tax as a percentage of income rises with income, so the tax is progressive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--04-regressive-indirect-taxes.webp" width="900" height="920" alt="A 20% sales tax takes 13.3% of household J's 15,000 income but 10.0% of household K's 90,000. A 0.50 per litre fuel duty takes 3.3% of L's 18,000 but 1.3% of M's 72,000." loading="lazy">
+  <figcaption>Indirect taxes can take a larger share of lower incomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--05-marginal-rate-slice.webp" width="900" height="830" alt="A step graph shows 0% to 11,000, 15% to 35,000 and 35% above. A 1,000 rise at 35,000 is taxed at 35%: 350 tax and 650 kept, so take-home pay never falls." loading="lazy">
+  <figcaption>Only the extra slice is taxed at the higher marginal rate.</figcaption>
+</figure>
+
 
 ## Using the ideas in evaluation
 

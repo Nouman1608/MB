@@ -75,6 +75,22 @@ protection; the terms oxidation, reduction, redox, oxidising agent and
 reducing agent, defined in terms of gain or loss of oxygen and loss or
 gain of electrons
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--02-oxygen-in-air-experiment.webp" width="900" height="900" alt="Damp iron wool in an upturned tube over water: 100 cm3 of air at the start, 79 cm3 of gas left after several days. 100 - 79 = 21 cm3, so 21 % is oxygen." loading="lazy">
+  <figcaption>Rusting iron removes oxygen; the volume lost divided by the starting volume gives the percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--03-burning-elements-in-oxygen.webp" width="900" height="930" alt="Magnesium, hydrogen and sulfur each burn in oxygen: 2Mg + O2 gives 2MgO, 2H2 + O2 gives 2H2O, S + O2 gives SO2, shown with atoms and flame colours." loading="lazy">
+  <figcaption>Burning an element in oxygen forms its oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--04-carbonate-thermal-decomposition.webp" width="900" height="975" alt="Green copper(II) carbonate is heated; carbon dioxide passes to limewater, which turns milky. CuCO3 gives black CuO plus CO2." loading="lazy">
+  <figcaption>Thermal decomposition of a carbonate gives an oxide and carbon dioxide.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Groups 1 and 7 are best revised as mirror-image trends: reactivity
@@ -101,6 +117,17 @@ electrons) — and exam questions may use either. Practise translating
 between the two definitions for the same reaction rather than learning
 only one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--01-halogen-reactivity-shells.webp" width="900" height="950" alt="Chlorine 2,8,7, bromine 2,8,18,7 and iodine 2,8,18,18,7 with a gap for one incoming electron; more shells means more shielding, so gaining an electron is harder and reactivity falls." loading="lazy">
+  <figcaption>Down Group VII the outer shell is further out and more shielded, so reactivity decreases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+
 ## Worked example: predicting a displacement reaction
 
 Using the reactivity series, predict whether zinc will react with copper
@@ -120,6 +147,17 @@ oxygen-based or electron-based definition of oxidation and reduction —
 practising both descriptions for the same example is a reliable way to
 avoid confusing the two conventions in an exam answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--05-metal-oxide-displacement.webp" width="900" height="920" alt="Magnesium heated with copper(II) oxide takes the oxygen, forming magnesium oxide and copper. A table shows Mg and Zn react with CuO while Cu does not react with MgO or ZnO; a ladder shows the order Mg, Zn, Cu." loading="lazy">
+  <figcaption>A more reactive metal displaces a less reactive metal from its oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Applying Group 1's "reactivity increases down the group" rule to Group
@@ -131,6 +169,12 @@ electrons) but applying the other convention's rule by mistake.
 Forgetting that rust prevention methods (barrier, galvanising,
 sacrificial protection) work by different mechanisms and are not
 interchangeable explanations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--02-three-ways-to-stop-rust.webp" width="900" height="1230" alt="Three cross-sections of iron under water and oxygen. A barrier coat keeps water and oxygen off but fails where scratched. Galvanising coats iron with zinc, a barrier that, where scratched, corrodes first and keeps the iron safe. Sacrificial protection bolts a block of a more reactive metal on, which corrodes instead: Zn becomes Zn2+ plus 2 electrons." loading="lazy">
+  <figcaption>Barrier, galvanising and sacrificial protection stop rust in three different ways.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

@@ -63,6 +63,17 @@ market share (%) = (sales revenue of a business / total sales revenue for the wh
 
 A business aiming to raise its market share is trying to win customers from rivals. A rising share means the business is doing better than the market as a whole.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--05-kestrel-market-share.webp" width="900" height="940" alt="Two bars show the town bread market with Kestrel part shaded: 180,000 of 1,200,000 is 15% in year 1; 234,000 of 1,300,000 is 18% in year 2. Sales grew 30% against 8.3% for the market." loading="lazy">
+  <figcaption>Share rises when sales grow faster than the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ### Worked example: market share
 
 Kestrel Mill Bakery sold 180,000 dollars of bread in a town where the whole bread market was worth 1,200,000 dollars. The next year its sales were 234,000 dollars in a market worth 1,300,000 dollars.
@@ -83,6 +94,17 @@ Objectives matter for several reasons. Each is a point you can develop in an exp
 - **Communication.** Lenders, owners and other stakeholders can see what the business is aiming for.
 
 Objectives also change. A new business often starts with survival. Once it is secure, it may move to growth and a larger market share. In a recession an established firm may go back to survival. When you read a case study, ask what stage the business is at.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
 
 ## The role of stakeholder groups (1.5.2)
 
@@ -113,6 +135,22 @@ A stakeholder is a person or group with an interest in a business and its activi
 **Customers** want products that are good value, safe and available. **Suppliers** want to sell more, be paid on time and keep the customer for years. A late-paying business can lose its suppliers. **Lenders and banks** have lent money and want it back with interest, so they care about whether the business can pay. **The government** collects taxes and sets laws, and wants jobs and a stable economy. **The local community** lives near the business. It gains from jobs but may suffer from noise, pollution or traffic.
 
 Some people belong to more than one group. An employee who lives nearby is also part of the local community. An employee who buys shares is also an owner. Mention this only if the case study gives you the evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--05-obj-stakeholder-wants.webp" width="900" height="1080" alt="Nine rows: four internal groups (sole traders and partners, shareholders, managers, employees) and five external groups (customers, suppliers, lenders and banks, government, local community), each with its typical wants in a few words." loading="lazy">
+  <figcaption>Each stakeholder group wants something different from the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
 
 ## How stakeholder objectives may conflict (1.5.2)
 
@@ -146,6 +184,17 @@ For a question that asks you to justify a decision, work through four steps.
 2. Explain why both wants cannot be met in full.
 3. Weigh them. Ask which group has the stronger claim, which can leave, and which matters most to the business objective.
 4. Reach a decision and give the reason, and say what the business might do to reduce the harm, such as a smaller pay rise or a phased change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--06-pennywell-conflict.webp" width="900" height="930" alt="Waterfall from $180,000 profit: a 5% pay rise takes $55,000, a 3% price cut takes $72,000, leaving $53,000, a fall of 70.6%." loading="lazy">
+  <figcaption>Meeting both employees and customers would cut profit by more than two thirds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--06-obj-four-steps.webp" width="900" height="880" alt="Four numbered steps: name both wants, show money is limited, weigh the claims, decide and reduce harm, illustrated with the Pennywell pay-rise and price-cut case where profit falls from 180,000 to 53,000 dollars." loading="lazy">
+  <figcaption>Work through four steps to justify a decision when two stakeholders conflict.</figcaption>
+</figure>
+
 
 ## Common errors
 

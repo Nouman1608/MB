@@ -48,6 +48,17 @@ Remember the chain: change in market A, then shift in the demand or supply curve
 | Price of leather rises | Leather shoes | Supply shifts left (input cost) |
 | Demand for bread rises | Flour | Demand for flour rises |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--01-petrol-shortage-spreads.webp" width="900" height="1210" alt="Three supply and demand diagrams. A refinery fault shifts petrol supply left, so petrol becomes dearer and less is bought. Bus tickets, a substitute, see demand shift right so price and quantity rise. New petrol cars, a complement, see demand shift left so price and quantity fall." loading="lazy">
+  <figcaption>A change in one market shifts the demand curve of a related good rather than sliding along it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--11-bread-flour-chain.webp" width="900" height="1080" alt="A flour price rise shifts bread supply left, raising price from 8 to 9 and cutting quantity from 60 to 55 (illustrative)." loading="lazy">
+  <figcaption>A dearer input shifts supply left in the product market.</figcaption>
+</figure>
+
+
 ## 3.1.3.5 Price elasticity of demand (PED)
 
 **PED = (% change in Qd) ÷ (% change in price)**
@@ -100,6 +111,32 @@ Revenue: 12 × 500 = 6,000 rises to 9.60 × 650 = 6,240
 
 Revenue is not profit. A price cut that raises revenue can still lower profit if extra output is costly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--09-ped-examples.webp" width="900" height="990" alt="Bars compare price and quantity changes for examples 1 to 3 (PED -1.2, -0.5, -3) and show the calculations for predicting sales (704) and finding a price cut (8%)." loading="lazy">
+  <figcaption>Each PED is the quantity bar divided by the price bar.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--10-ped-factors.webp" width="900" height="868" alt="Six factors shown as inelastic to elastic scales." loading="lazy">
+  <figcaption>Substitutes, luxury, share of income, time, habit and market width all move PED.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
+
 ## Working backwards from an elasticity
 
 Rearrange the formula when the elasticity is given.
@@ -143,6 +180,12 @@ Bigger size means a closer link.
 
 **Worked reminder 3.** The price of tea rises 20% and demand for coffee rises 15%. XED = 15 ÷ 20 = +0.75, so the goods are substitutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
+
 ## 3.1.3.6 Price elasticity of supply (PES)
 
 **PES = (% change in Qs) ÷ (% change in price)**
@@ -170,6 +213,22 @@ Price: +20%.  Quantity supplied: +25%.  PES = 25 ÷ 20 = 1.25 (elastic)
 - Elastic supply: output follows demand quickly, so price rises are small and short.
 - Inelastic supply: a demand surge causes a large price rise.
 - Producers with elastic supply win extra sales fast. Consumers gain from steadier prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--12-pes-examples.webp" width="900" height="820" alt="Strawberries PES 0.25 and clothing PES 2, and the price rise needed for 5% more output at PES 0.5 (10%) and PES 2 (2.5%)." loading="lazy">
+  <figcaption>The lower the PES, the bigger the price rise needed to get more output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--13-pes-factors.webp" width="900" height="868" alt="Six factors shown as inelastic to elastic scales." loading="lazy">
+  <figcaption>Spare capacity, stocks, flexibility, time, production period and inputs move PES.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

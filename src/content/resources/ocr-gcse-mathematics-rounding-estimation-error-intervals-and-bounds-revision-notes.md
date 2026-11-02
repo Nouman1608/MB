@@ -56,6 +56,17 @@ Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [printable che
 3.0951 to 2 dp             ->  3.10
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+
 ## 4.01b Estimation
 
 **Method in steps**
@@ -78,6 +89,22 @@ Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [printable che
 **Checking a calculator answer.** If your estimate is near 0.64 and the calculator shows 6.49, a key or decimal point is wrong. Estimates catch factors of 10 quickly.
 
 **The symbol ≈** means "approximately equal to". Use it for estimates and for rounded decimal answers. Use = only for exact values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--01-estimate-with-root.webp" width="900" height="740" alt="Number line of perfect squares with 24.3 close to 25, then the estimate (8 x 0.4) / 5 = 0.64 beside the calculator value 0.649." loading="lazy">
+  <figcaption>Replace the number under the root by the nearest perfect square, then estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--02-estimate-fraction.webp" width="900" height="700" alt="Top 59.2 + 11.8 rounds to 60 + 10 = 70; bottom 0.203 x 7.1 rounds to 0.2 x 7 = 1.4; 70 / 1.4 = 50 against the calculator 49.3." loading="lazy">
+  <figcaption>Round and work out the top and bottom separately, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## 4.01c Error intervals
 
@@ -103,6 +130,17 @@ Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [printable che
 - Object certainly fits when its largest possible size is less than or equal to the smallest possible gap.
 - If the ranges overlap, you cannot be sure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--05-error-interval-rounded-truncated.webp" width="900" height="840" alt="A number line from 2.00 to 2.25. For 2.1 rounded to 1 decimal place the true value lies from 2.05, included, up to 2.15, not included: half a unit either side. For 2.1 truncated to 1 decimal place the digits were cut off, so the true value lies from 2.1, included, up to 2.2, not included: a whole unit above. The value 2.1 is marked on both lines." loading="lazy">
+  <figcaption>Rounded to 1 dp, 2.1 stands for 2.05 ≤ x &lt; 2.15; truncated, it stands for 2.1 ≤ x &lt; 2.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--05-error-interval-nearest-10-2sf.webp" width="900" height="810" alt="Number lines for a = 60 to the nearest 10 (55 &lt;= a &lt; 65) and d = 2400 to 2 s.f. (2350 &lt;= d &lt; 2450), each with half the unit either side, filled dot at the lower end and open ring at the upper." loading="lazy">
+  <figcaption>Half the rounding unit each side; include the lower end only.</figcaption>
+</figure>
+
+
 ## Bounds of calculations (Higher tier only)
 
 | Answer | Add | Subtract | Multiply | Divide |
@@ -121,6 +159,17 @@ Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [printable che
 
 **Worked reminder.** Speed = distance ÷ time with 700 m (nearest 100 m) and 56 s (nearest second). Upper bound 750 ÷ 55.5 = 13.51, lower bound 650 ÷ 56.5 = 11.50. They agree only to 1 sf (both round to 10), so the speed is 10 m/s to 1 sf. Quoting 13 or 12 would not be justified.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--07-bounds-of-area.webp" width="900" height="1075" alt="A rectangle drawn to scale. The smallest possible rectangle is 7.15 by 3.85 cm, area 27.5275 square centimetres. The largest possible rectangle is 7.25 by 3.95 cm, drawn with a dashed outline around it, area 28.6375 square centimetres. A number line of area shows the lower bound, the nominal area 7.2 times 3.9 equals 28.08 and the upper bound, with 28.08 between them." loading="lazy">
+  <figcaption>The area of a 7.2 by 3.9 rectangle (1 dp) lies between 27.5275 and 28.6375 cm².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--03-bounds-subtract-divide.webp" width="900" height="1030" alt="For x - y the upper bound uses the top of x and the bottom of y (4.80), the lower bound the reverse (4.60). For cost divided by length the bounds are 3.032 and 2.968, both 3 to 1 s.f." loading="lazy">
+  <figcaption>For subtraction and division the second quantity uses the opposite end of its interval.</figcaption>
+</figure>
+
+
 ## Discrete versus continuous (Higher tier only)
 
 | Quantity | Example | Interval |
@@ -129,6 +178,12 @@ Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [printable che
 | Discrete (counted) | 200 cars to the nearest hundred | 150 ≤ n ≤ 249 |
 
 The discrete interval can also be written 150 ≤ n < 250. The largest whole number allowed is 249. Do not write 249.9 for a count.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--04-discrete-continuous.webp" width="900" height="870" alt="A continuous mass of 200 g is a bar 150 &lt;= m &lt; 250 ending in an open ring; a discrete count of 200 cars is 100 whole numbers 150 to 249 with 250 crossed out." loading="lazy">
+  <figcaption>Continuous bounds are never reached; counted values stop at 249.</figcaption>
+</figure>
+
 
 ## Wording that gains credit
 
@@ -145,6 +200,12 @@ The discrete interval can also be written 150 ≤ n < 250. The largest whole num
 **Truncated timing.** A stopwatch shows 12.3 s, truncating after the first decimal place. The real time is at least 12.3 and under 12.4: 12.3 ≤ t < 12.4.
 
 **Subtraction bound (Higher tier only).** Gap = 20.5 cm (1 dp) minus a pipe of 4.2 cm (1 dp). Upper bound of the gap left is 20.55 − 4.15 = 16.40. Lower bound is 20.45 − 4.25 = 16.20.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--06-cabinet-and-gap.webp" width="900" height="900" alt="Two bands on a number line from 74.4 to 75.6 cm. The cabinet width can be anywhere from 74.5, included, to 75.5, not included. The gap width has the same interval. The worst case is a cabinet of 75.4 cm and a gap of 74.6 cm, so the cabinet is 0.8 cm too wide. You cannot be sure it fits, because the smallest possible gap, 74.5, is not at least as large as the largest possible cabinet, 75.5." loading="lazy">
+  <figcaption>A 75 cm cabinet could be 75.4 cm and a 75 cm gap 74.6 cm, so you cannot be sure it fits.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,6 +240,12 @@ The discrete interval can also be written 150 ≤ n < 250. The largest whole num
 8. 3.95² = 15.6025 (about 15.6 cm²).
 9. 1450 ≤ n ≤ 1549 (or 1450 ≤ n < 1550).
 10. 9.55 ÷ 2.45 = 3.8979..., so 3.90 to 3 sf. (Lower bound of p is 9.55, upper bound of q is 2.45.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

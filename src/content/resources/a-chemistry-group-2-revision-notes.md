@@ -87,6 +87,12 @@ decompose at the lowest temperature; BaCO₃ and Ba(NO₃)₂ need the highest t
 Chain to learn: **larger cation → lower charge density → less polarisation of the anion → anion bonds
 weakened less → more thermally stable**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-group-2-revision-notes--01-g2-nitrate-polarisation.webp" width="900" height="1060" alt="Mg2+ and Ba2+ sit beside a nitrate ion drawn with N and three O at 120 degrees. The small Mg2+ distorts the cloud more and weakens the N-O bonds, so it decomposes at a lower temperature; Ba2+ distorts less and needs a higher temperature." loading="lazy">
+  <figcaption>Smaller cations polarise the nitrate ion more, so Mg(NO3)2 decomposes at a lower temperature than Ba(NO3)2.</figcaption>
+</figure>
+
+
 ## Solubility and enthalpy of solution of hydroxides and sulfates (27.1, outcome 2)
 
 ### The trends
@@ -95,6 +101,12 @@ weakened less → more thermally stable**.
 |---|---|---|
 | Hydroxides, M(OH)₂ | solubility **increases** | Mg(OH)₂ only sparingly soluble; Ba(OH)₂ much more soluble |
 | Sulfates, MSO₄ | solubility **decreases** | MgSO₄ soluble; BaSO₄ insoluble |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
 
 ### The energy cycle
 
@@ -118,6 +130,17 @@ Down the group **both** the lattice energy and ΔHhyd(cation) become **less exot
 cation gets larger. The trend in ΔHsol depends on **which one falls faster**, and that depends on the
 size of the anion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
+
 ### Hydroxides: a small anion
 
 - OH⁻ is **small**, so the cation radius is a large part of r(cation) + r(anion).
@@ -126,6 +149,12 @@ size of the anion.
 - The lattice energy falls **faster** than the hydration enthalpy of the cation.
 - The energy needed to break the lattice **decreases by more** than the energy released on hydration
   decreases, so **ΔHsol becomes more exothermic** (less endothermic) down the group: **solubility increases**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-group-2-revision-notes--02-g2-anion-size-distance.webp" width="900" height="1040" alt="Ion pairs drawn to scale: for OH- the centre distance rises about 30 percent from Mg to Ba, for SO4 2- about 21 percent, so lattice energy changes more for hydroxides." loading="lazy">
+  <figcaption>A small anion makes the inter-ionic distance grow by a larger fraction than a large anion.</figcaption>
+</figure>
+
 
 ### Sulfates: a large anion
 

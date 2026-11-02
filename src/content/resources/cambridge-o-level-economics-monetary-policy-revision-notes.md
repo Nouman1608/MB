@@ -50,6 +50,37 @@ Monetary policy uses money and credit. Fiscal policy uses tax and government spe
 
 A higher interest rate tends to attract foreign savers, raising demand for the currency and its price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--01-deposit-rounds.webp" width="900" height="940" alt="A deposit of 1,000 is lent out and redeposited in rounds of 900, 810, 729 and so on. With a 10 percent reserve requirement all deposits total 10,000, so 9,000 of new lending; with 20 percent the total is 5,000 and new lending 4,000." loading="lazy">
+  <figcaption>A higher reserve requirement shrinks the lending banks can create from one deposit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--07-money-growth-vs-output.webp" width="900" height="800" alt="Bar chart of growth rates in Country A in one year. The money supply grows from 400 billion to 424 billion, which is 6 percent. Real output grows 2 percent. A dashed hatched block on top of the output bar shows the gap of 4 percentage points. When money grows faster than output, spending can outrun what is produced and prices may rise." loading="lazy">
+  <figcaption>Money supply growth of 6% against real output growth of 2% leaves a gap of 4 points, so spending can outrun output and prices may rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--08-open-market-operations.webp" width="900" height="840" alt="Two panels show the central bank and the public and banks. In the first, the central bank sells government bonds: bonds go to the public and banks and money flows back to the central bank, taking money out of circulation, so the money supply falls, a tight policy. In the second, the central bank buys bonds: bonds go to the central bank and money flows out to the public and banks, so the money supply rises, a loose policy." loading="lazy">
+  <figcaption>When the central bank sells bonds, money flows from the public and banks to it and the money supply falls (tight); when it buys bonds, money flows out and the supply rises (loose).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--09-exchange-rate-elasticity.webp" width="900" height="1000" alt="Three pairs of bars. First, the price of a machine in Country B falls from 500 to 400 B-dollars, down 20 percent, when the A-dollar falls from 0.50 to 0.40. Second, with price elasticity of demand 1.5, a 20 percent price fall raises quantity sold by 1.5 times 20 equals 30 percent, from an index of 100 to 130. Third, an illustrative case with elasticity 0.5 raises sales by only 10 percent, to 110. The larger the elasticity, the bigger the response." loading="lazy">
+  <figcaption>A fall in the A-dollar from 0.50 to 0.40 cuts the machine price in Country B from 500 to 400 B-dollars (20%); with elasticity 1.5, sales rise by 1.5 x 20 = 30%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--10-rate-rise-interest-arithmetic.webp" width="900" height="830" alt="Two worked examples. A firm with a 200,000 loan pays 12,000 interest a year at 6 percent and 18,000 at 9 percent. The rise of 6,000 is 6,000 divided by 12,000, 50 percent more interest, although the rate rose only 3 percentage points. A household with an interest-only mortgage of 90,000 pays 300 a month at 4 percent and 450 at 6 percent. The extra 150 is 6.25 percent of a monthly income of 2,400, shown as a small slice of an income bar." loading="lazy">
+  <figcaption>A 3-point rate rise from 6% to 9% on a 200,000 loan lifts yearly interest from 12,000 to 18,000, 50% more, and a mortgage rise from 4% to 6% adds 150 a month, 6.25% of a 2,400 income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Formulas and methods
 
 | Item | Method |
@@ -75,6 +106,12 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 
 **Worked reminder.** Reserve ratio 10% and a new deposit of 1,000: maximum deposits 1,000 ÷ 0.10 = 10,000, so 9,000 of new lending. At 20%: 5,000 and 4,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--03-real-interest-rate.webp" width="900" height="830" alt="A 5 percent nominal rate gives a real rate of about plus 2 percent when inflation is 3 percent, but about minus 1 percent when inflation is 6 percent, when 1,050 buys only 990.57 of last years goods." loading="lazy">
+  <figcaption>Real rate is roughly nominal rate minus inflation.</figcaption>
+</figure>
+
+
 ## 4.4.3 Effects on the aims
 
 | Aim | Higher rates / stronger currency | Lower rates / weaker currency |
@@ -92,6 +129,12 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 **Evaluation points (use two or three):** low confidence; time lags; cost-push inflation (spending is not the cause); banks may not pass on changes; elasticity of demand for exports; imported inputs getting dearer when the currency falls; conflicts between aims.
 
 **Diagram in words:** in the market for a currency, the exchange rate is on the vertical axis and the quantity of the currency on the horizontal axis. Higher demand for the currency shifts the demand curve right and raises the equilibrium rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--06-tight-loose-five-aims.webp" width="900" height="904" alt="Table with five rows, one for each aim, and two columns. Tight policy (higher rates, less money, stronger currency): inflation slows and imports get cheaper; borrowing, investment and growth fall; demand for workers falls so unemployment may rise; exports get dearer and imports cheaper so the current account gets worse; savers gain and borrowers lose. Loose policy (lower rates, more money, weaker currency): inflation risk and import prices rise; borrowing, investment and growth rise; demand for workers rises so unemployment may fall; exports get cheaper and imports dearer so the current account can improve; savers lose and borrowers gain." loading="lazy">
+  <figcaption>Tight policy slows inflation, growth and jobs growth and worsens the current account, and savers gain; loose policy does the reverse. Each effect depends on a chain that may not hold.</figcaption>
+</figure>
+
 
 ## Extra reminders
 
@@ -157,6 +200,17 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 11. Low business confidence, so firms expect weak sales and do not borrow; or banks do not lend.
 12. Lower rates raise spending and may cut unemployment but raise inflation (full employment versus stable prices), or may weaken the currency and raise import prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining monetary policy as tax and spending changes.
@@ -171,3 +225,9 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): section 4.4, Monetary policy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

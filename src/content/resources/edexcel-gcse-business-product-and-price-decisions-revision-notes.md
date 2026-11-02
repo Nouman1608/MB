@@ -45,6 +45,12 @@ Design is a trade-off. Improving one part often raises cost, which affects price
 
 A bag costs £2.10 for materials, £0.90 for labour and £0.50 for packaging, so the unit cost is £3.50. A leather trim would add £1.20 a unit. The new unit cost is £4.70, a rise of 1.20 ÷ 3.50 × 100 = 34.3%. The trim only pays off if the higher price, or the extra sales, covers that extra £1.20 on every unit sold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--01-design-mix-kestrow.webp" width="900" height="880" alt="Two sets of bars compare Kestrow Bottles design A and B. A has revenue 10,800, total cost 7,680 and profit 3,120 pounds. B has revenue 10,400, total cost 7,810 and profit 2,590 pounds, so B earns 530 pounds less." loading="lazy">
+  <figcaption>Higher cost and price cut sales, so the better-looking design B earns £530 less profit.</figcaption>
+</figure>
+
+
 ## 2. Differentiation (2.2.1)
 
 Differentiation means making a product or service different from rivals' in a way customers notice and value.
@@ -86,9 +92,26 @@ Percentage change = (new value − original value) ÷ original value × 100. Thi
 
 Judge an extension by the extra sales it brings against what it costs. Contribution per unit = selling price − variable cost (standard form, not an Appendix 3 formula).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--03-extension-worth-it.webp" width="900" height="860" alt="Bars show extra contribution of 33,600 pounds (2,100 units at 16 pounds) against an extension cost of 15,000 pounds, leaving a net gain of 18,600 pounds. The 5,100 units is a forecast." loading="lazy">
+  <figcaption>The extension earns £33,600 extra contribution for a £15,000 cost: net gain £18,600.</figcaption>
+</figure>
+
+
 ### Worked reminder: is an extension worth it?
 
 A product sells at £25 with a variable cost of £14, so contribution is £11 a unit. A relaunch costs £6,000. It pays for itself only if it adds more than 6,000 ÷ 11 = 545.45 units, so at least 546 extra units (546 × 11 = £6,006).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--02-plc-from-sales-veradyne.webp" width="900" height="880" alt="A line chart of Veradyne Audio sales over eight years with bands for introduction, growth, maturity and decline. Percentage changes on the previous year run +275, +180, +62, +3, -1, -26 and -41 percent (rounded)." loading="lazy">
+  <figcaption>Sales data and percentage changes show which life cycle phase a product is in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
 
 ## 4. Pricing strategies (2.2.2)
 
@@ -113,6 +136,27 @@ A business can launch a product at £60 and sell 400, or at £45 and sell 600. T
 - Contribution at £60: (60 − 30) × 400 = £12,000. At £45: (45 − 30) × 600 = £9,000.
 
 The lower price earns more revenue but less contribution. Always say which measure you are using.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--04-cost-plus-scone.webp" width="900" height="780" alt="A unit cost of 1.80 pounds plus a 60 percent mark-up of 1.08 pounds gives 2.88 pounds. A price line shows a rival at 2.40 pounds and a psychological price of 2.99 pounds with 1.19 pounds profit a scone." loading="lazy">
+  <figcaption>Cost-plus gives £2.88, which is £0.48 above a rival at £2.40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--05-skimming-lamp.webp" width="900" height="904" alt="Rectangles show contribution per unit times sales. Skimming at 220 pounds gives 500 times 130, 65,000 pounds. Cutting later to 140 pounds gives 1,400 times 50, 70,000 pounds." loading="lazy">
+  <figcaption>Skimming then cutting the price lifts total contribution from £65,000 to £70,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--06-segment-pricing-cafe.webp" width="900" height="810" alt="Revenue bars: two segment prices give 520 plus 630, 1,150 pounds. One price of 6.50 with only 40 students gives 780 pounds. One price of 4.50 with all 220 customers gives 990 pounds." loading="lazy">
+  <figcaption>Pricing for each segment (£1,150) beats either single price (£780 or £990).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
 
 ## 5. Influences on pricing strategies (2.2.2)
 

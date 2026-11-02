@@ -71,6 +71,12 @@ Also know: income tax, VAT and interest rate as household finance terms (N2 note
 
 Symbols: = (equals), ≠ (not equal), < (less than), > (greater than), ≤ and ≥ (include the end value).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## Calculating (N2, N3)
 
 **Priority of operations**
@@ -89,6 +95,17 @@ A reciprocal counts as a division. A square root sign acts like a bracket over e
 
 **Cancellation (N3).** Cancel common factors between any numerator and any denominator before multiplying out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--03-quarter-circle-exact.webp" width="900" height="720" alt="Quarter circle of radius 6 cm. Area = 1/4 x pi x 6^2 = 9 pi cm^2. Perimeter = 6 + 6 + 1/4 x 2 pi x 6 = 12 + 3 pi cm. Answers are left in terms of pi." loading="lazy">
+  <figcaption>Exact answers keep pi: area 9 pi cm^2 and perimeter 12 + 3 pi cm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--04-surds-expand-rationalise.webp" width="900" height="930" alt="A 2 by 2 grid expands (3 + root 2)(1 - root 2): cells 3, -3 root 2, root 2, -2, giving 1 - 2 root 2. Rationalising 15/root 5 multiplies by root 5 over root 5 to get 15 root 5 / 5 = 3 root 5. Higher tier only." loading="lazy">
+  <figcaption>A grid expands surd brackets and multiplying by a form of 1 rationalises a denominator.</figcaption>
+</figure>
+
+
 ## Primes, HCF and LCM (N4)
 
 **Method in steps**
@@ -104,6 +121,12 @@ Worked reminder: 84 = 2² × 3 × 7 because 84 = 4 × 21 = 2 × 2 × 3 × 7.
 
 Check: HCF × LCM = the product of two numbers. This works for two numbers only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## Listing and counting (N5)
 
 **Systematic listing:** fix the first item, run through all options for the second, then move the first item on. Decide at the start whether order matters (AB and BA the same or different?) and whether repeats are allowed.
@@ -111,6 +134,17 @@ Check: HCF × LCM = the product of two numbers. This works for two numbers only.
 **(Higher) Product rule:** m ways then n ways gives m × n ways. If choices cannot repeat, the number of options drops by one each time.
 
 Worked reminder: three-digit numbers using only the digits 1, 2 and 3, repeats allowed: 3 × 3 × 3 = 27.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--01-listing-and-product-rule.webp" width="900" height="1060" alt="Six pairs of colours from red, green, blue and yellow are listed in a fixed order. Below, a code of one letter and two digits has 26 x 10 x 10 = 2600 possibilities, or 26 x 10 x 9 = 2340 if the digits must differ (Higher tier only)." loading="lazy">
+  <figcaption>List in a fixed order so nothing repeats; the product rule multiplies the choices at each stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--01-given-fact-decimal-places.webp" width="900" height="1090" alt="An area model splits 58 x 23 into 58 x 20 = 1160 and 58 x 3 = 174, total 1334. The same digits with the point moved give 5.8 x 2.3 = 13.34 (2 d.p.). For 133.4 / 0.23 the dividend is 1334/10 and the divisor 23/100, so the answer is 58 x 10 = 580." loading="lazy">
+  <figcaption>One known product gives related decimal results by counting decimal places.</figcaption>
+</figure>
+
 
 ## Indices and roots (N6, N7)
 
@@ -127,6 +161,22 @@ Worked reminder: three-digit numbers using only the digits 1, 2 and 3, repeats a
 Roots and integer indices are Foundation (N7). **(Higher)** For a fractional index, root first, then power. For a negative fractional index, take the reciprocal as well.
 
 **(Higher) Estimating a root:** find the two consecutive whole numbers whose powers trap it, then judge which end it is nearer. √55 lies between 7 (49) and 8 (64), a little under 7.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--02-estimate-roots-between-powers.webp" width="900" height="1100" alt="Number lines pair a number with its root. 40 lies between 36 and 49 so its square root is between 6 and 7, about 6.3. 70 lies just above 64 and below 125, so its cube root is just over 4." loading="lazy">
+  <figcaption>Place the number between two known powers; its root sits at the matching place between the two roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
 
 ## Exact calculation (N8)
 
@@ -164,6 +214,17 @@ Adjust: if A ≥ 10, divide A by 10 and add 1 to n; if A < 1, multiply A by 10 a
 Converting: 0.000 81 = 8.1 × 10⁻⁴ (the point moves 4 places right). 7.06 × 10⁵ = 706 000.
 
 **Calculator displays:** read E or ×10 in the display as a power of 10, then write it properly as A × 10ⁿ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--03-standard-form-multiply.webp" width="900" height="1010" alt="The numbers are multiplied (3.2 x 5 = 16) and the powers of 10 are added (4 + -7 = -3), giving 16 x 10^-3. Since 16 is not between 1 and 10 it becomes 1.6 and the power rises by one to -2: 1.6 x 10^-2." loading="lazy">
+  <figcaption>Multiply the numbers, add the powers, then adjust so the front number is between 1 and 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--05-standard-form-add-divide.webp" width="900" height="1180" alt="To add 3.4 x 10^5 and 6.1 x 10^4, rewrite the second as 0.61 x 10^5 then add numbers: 4.01 x 10^5. To divide 4.8 x 10^5 by 1.2 x 10^-3, divide the numbers (4) and subtract the powers (5 - (-3) = 8): 4 x 10^8." loading="lazy">
+  <figcaption>Match the powers to add; divide numbers and subtract powers to divide.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

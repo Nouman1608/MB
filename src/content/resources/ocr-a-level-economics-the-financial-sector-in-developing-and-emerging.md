@@ -54,6 +54,12 @@ The sector's weaknesses limit these roles. Many people are **financially exclude
 
 **Chain of reasoning.** More accounts and safer deposits raise saving, so more funds are available to lend. Lower borrowing costs raise investment. A higher capital stock raises productive capacity, so potential output grows. Employment and incomes follow. Development is wider than growth, so also ask about who gets the credit and whether people's health, education and security improve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--06-fin-saving-to-output-chain.webp" width="900" height="940" alt="A vertical chain of five boxes joined by downward arrows: savings, the financial sector (banks, markets, insurers, payments), investment, capital stock, and potential output, followed by jobs and incomes. To the left a person is shown blocked from the financial sector by a barrier: financially excluded because of no branch, no identity papers or no collateral. A note says to also ask who gets the credit." loading="lazy">
+  <figcaption>Finance links saving to investment and potential output, but excluded people cannot use it.</figcaption>
+</figure>
+
+
 ## 2. Saving, investment and the Harrod-Domar model
 
 Saving matters because it finances investment. The **Harrod-Domar model** links growth to saving:
@@ -78,6 +84,12 @@ So there are two routes: raise s, or lower k. If you want the model to allow for
 - k is not fixed. It changes with technology and with the quality of investment.
 - Raising s means cutting consumption now, and growth is not the same as development.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--01-hd-savings-gap.webp" width="900" height="980" alt="Bars compare the investment needed for 6% growth (36) with domestic saving (24), leaving a savings gap of 12, or 6% of national income. Raising s to 18% or cutting k to 2.4 are the two routes to faster growth." loading="lazy">
+  <figcaption>Growth is s divided by k, so reaching 6% growth with 12% saving and k = 3 leaves a savings gap of 12 units.</figcaption>
+</figure>
+
+
 ## 3. Microfinance
 
 **Microfinance** means financial services, mainly small loans but also savings accounts and insurance, offered to poor people and very small businesses that banks usually exclude. Many lenders use **group lending**: members guarantee one another, so social pressure replaces collateral. Loans are repaid in frequent small instalments.
@@ -94,6 +106,12 @@ The loan helps only when the return on the project exceeds the interest rate.
 - Limits: interest rates are often higher than bank rates because small loans are costly to administer. Borrowers can fall into over-indebtedness. Loans are often used for consumption, not production. Tiny firms may not grow, because the market is small.
 - Microfinance reaches poverty directly but cannot replace infrastructure, education or jobs. It works best alongside them.
 - Judgement: it is useful where there is real demand for small-scale capital and where lenders treat borrowers fairly. It is weaker as a main route to economy-wide development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--02-microfinance-vs-moneylender.webp" width="900" height="880" alt="A 300 loan buys an oven earning 240 a year. At 24% a year the interest is 72 and the net gain 168; at 10% a month the interest is 360 and the net result is a loss of 120." loading="lazy">
+  <figcaption>A loan helps only when the return on the project exceeds the interest rate.</figcaption>
+</figure>
+
 
 ## 4. International financial markets and capital flows
 
@@ -124,6 +142,22 @@ The swing in net flows is −86 units. FDI barely moves; portfolio and bank flow
 - Inflows bring finance, technology (through FDI) and deeper markets. They can also fuel asset bubbles, appreciate the currency and add to external debt.
 - Economies with large reserves, flexible exchange rates and little foreign-currency borrowing cope better. Some use controls on short-term flows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--03-capital-flows-swing.webp" width="900" height="1040" alt="Stacked bars show FDI, portfolio and bank flows in two years. Year 1 is a net inflow of 45 (9.0% of income); year 2 is a net outflow of 41 (-8.2%), a swing of 86 caused by portfolio and bank flows." loading="lazy">
+  <figcaption>FDI barely moves, while portfolio and bank flows cause the whole reversal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--07-fin-push-pull-sudden-stop.webp" width="900" height="850" alt="Two panels. Inflows: an arrow from rich economies (push factors such as low interest rates and weak returns, and willingness to take risk) to an emerging economy (pull factors such as high expected returns, rapid growth, political stability and open markets). Sudden stop: when interest rates abroad rise or investors fear a crisis, the arrow reverses and flows leave fast. Portfolio and bank flows move first; foreign direct investment is long term and hard to withdraw." loading="lazy">
+  <figcaption>Push factors abroad and pull factors at home draw capital in, and a sudden stop reverses it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--08-fin-foreign-currency-debt.webp" width="900" height="880" alt="Two bars. Firms owe 40 units of foreign currency. When the exchange rate is 2 local units per unit of foreign currency the debt costs 80 local units. After the currency falls to 3 local units per foreign unit it costs 120 local units, a rise of 50 percent, although the debt in foreign currency has not changed." loading="lazy">
+  <figcaption>A currency fall from 2 to 3 raises the local cost of a 40-unit foreign debt from 80 to 120.</figcaption>
+</figure>
+
+
 ## 5. Public and private sector debt
 
 **Public sector debt** is owed by the government and state bodies. **Private sector debt** is owed by households and firms. Debt can be domestic or external, and external debt may be in foreign currency. Useful measures are the **debt-to-GDP ratio**, the **debt service ratio** (repayments of principal and interest as a share of export earnings) and interest payments as a share of government revenue.
@@ -143,6 +177,17 @@ The swing in net flows is −86 units. FDI barely moves; portfolio and bank flow
 - Debt relief can free resources, but may raise future borrowing costs.
 - Judgement: debt is a problem when its cost exceeds the growth it creates, so the key questions are what was financed, in which currency and on what terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--04-debt-ratio-rising.webp" width="900" height="920" alt="Debt of 60 against income of 100 becomes 63.6 against 103 after a year at 6% interest and 3% growth, so the debt ratio rises from 60.0% to 61.7%." loading="lazy">
+  <figcaption>The debt ratio rises when the interest rate exceeds the growth rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--09-fin-debt-burden-measures.webp" width="900" height="870" alt="Three bars for invented Country Gamma. Debt service ratio: repayments of 18 are 15 percent of export earnings of 120. Interest: 6 percent on public debt of 60 is 3.6, which is 18 percent of government revenue of 20. Primary surplus: holding debt at 60 percent of income when the interest rate exceeds growth needs a primary surplus of about 1.8 percent of current income, about 1.8 units out of 100. Each bar shows a share of its own base." loading="lazy">
+  <figcaption>Debt service is 15% of exports and interest takes 18% of revenue, and holding the ratio needs a surplus of about 1.8.</figcaption>
+</figure>
+
+
 ## 6. Remittances
 
 **Remittances** are money sent home by migrants working abroad. They are a transfer, not a payment for goods or services.
@@ -157,6 +202,17 @@ The swing in net flows is −86 units. FDI barely moves; portfolio and bank flow
 - Benefits: they lift recipients' income, may fund education, health and small businesses, support the balance of payments and are often steadier than portfolio flows.
 - Costs: a large inflow can appreciate the currency and hurt exporters. Recipients may depend on them, and the emigration of skilled workers (brain drain) removes human capital. Fees are high on small transfers. Remittances can fall in a downturn abroad.
 - Importance varies. They matter most where they are a large share of national income and reach poor households.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--05-remittances-size-cost.webp" width="900" height="870" alt="Remittances of 36 are 9% of national income of 400 and 30% of exports of 120. On a transfer of 200 a 7% fee leaves 186 and a 3% fee leaves 194." loading="lazy">
+  <figcaption>Remittances can be large against income and exports, and fees reduce what arrives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--10-fin-remittance-multiplier.webp" width="900" height="890" alt="Bars for successive rounds of spending. Remittances of 36 units enter as round 1. With a marginal propensity to withdraw of 0.6, 40 percent of each round is re-spent at home, so later rounds are 14.4, 5.76, 2.3 and 0.9, with a further small amount after that. The multiplier is 1 divided by 0.6, which is 1.67, so remittances of 36 raise output by about 60." loading="lazy">
+  <figcaption>With MPW 0.6 the multiplier is 1.67, so 36 of remittances could raise output by about 60.</figcaption>
+</figure>
+
 
 ## 7. Evaluating the financial sector's role
 

@@ -53,15 +53,33 @@ The specification names these terms but does not define them, so the meanings ab
 - Competition from overseas: more choice for customers, pressure on price, possible lost sales for home firms, and an incentive to improve.
 - Buying from overseas: usually lower prices or wider choice, but add shipping, delays, quality checks and any tariff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--01-ferncott-true-cost.webp" width="900" height="920" alt="Two bars: home cloth 76,800 pounds versus overseas cloth 61,200 plus 8% tariff 4,896 plus shipping 3,300 = 69,396. Saving 7,404 (9.6%); 12,300 without the tariff." loading="lazy">
+  <figcaption>Adding the tariff and shipping to the overseas price shrinks the saving from 12,300 to 7,404 pounds.</figcaption>
+</figure>
+
+
 ### Exports
 
 - Benefits: more customers, less reliance on one market, growth when the home market is crowded.
 - Costs: transport, paperwork, learning about local tastes, tariffs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--02-brindle-mug-tariff.webp" width="900" height="900" alt="A 25 pound mug bar and a 28 pound bar with a 3 pound tariff block (12%), plus a bar showing exports as 15% of 480,000 pounds sales." loading="lazy">
+  <figcaption>A 12% tariff adds 3 pounds to a 25 pound mug, and exports are 15% of Brindle sales.</figcaption>
+</figure>
+
+
 ### Changing business locations
 
 - Reasons: lower labour or land costs, closeness to new markets, avoiding tariffs by producing inside the market.
 - Costs: redundancy at home, longer supply chains, harm to reputation, managing from a distance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--03-kelso-moving-production.webp" width="900" height="900" alt="Waterfall: labour saving 336,000 less extra freight 67,500 leaves net saving 268,500 pounds; per shirt labour 9.20 versus 2.48." loading="lazy">
+  <figcaption>Lower overseas labour saves 336,000 pounds, freight takes 67,500, leaving 268,500 before other costs.</figcaption>
+</figure>
+
 
 ### Multinationals
 
@@ -82,6 +100,12 @@ The specification names these terms but does not define them, so the meanings ab
 - Internet and e-commerce: reach overseas customers without shops there; costs include delivery, returns and building trust.
 - Marketing mix: adapt the product, set price for local incomes and tariffs, promote in the local language, choose local places to sell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--04-orla-web-sales.webp" width="900" height="810" alt="Funnel from 48,000 visits to 1,200 orders, then revenue 26,400 split into tea 10,920, delivery 5,040 and 10,440 left." loading="lazy">
+  <figcaption>Only 2.5% of visits order, and after tea and delivery 10,440 pounds is left to cover overheads.</figcaption>
+</figure>
+
+
 ## 2.1.4 Ethics, the environment and business
 
 | Issue | Possible gain | Possible cost |
@@ -97,6 +121,12 @@ Pressure groups and the marketing mix:
 | Price | Fairer pay raises cost, perhaps price |
 | Promotion | Respond to publicity; promote the change |
 | Place | Retailers stop or start stocking the product |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--04-pressure-group-routes.webp" width="900" height="930" alt="Five routes join a pressure group to a business: publicity, boycott, petitions and protests, lobbying for a new law, and meeting managers. They act on sales, reputation and the law. A pressure group can only influence." loading="lazy">
+  <figcaption>Pressure groups act on a business through sales, reputation and the law.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -147,6 +177,12 @@ Point: Switching to recycled packaging may reduce profit in the short run.
 Evidence: It adds cost to every unit sold, so profit per unit falls.
 Development: If customers who care about the environment buy more, sales may rise and the extra volume could repay the cost.
 Judgement: It is worthwhile if the extra sales are likely, so the answer should say how much the business needs to gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--06-solent-refillable-packs.webp" width="900" height="900" alt="Two bars: profit 225,000 now and 226,800 with refillable packaging (270,000 x 0.84), a gain of 1,800 pounds." loading="lazy">
+  <figcaption>Refillable packaging adds 0.06 a bar but extra sales lift profit by 1,800 pounds.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

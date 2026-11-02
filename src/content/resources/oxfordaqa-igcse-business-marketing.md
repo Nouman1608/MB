@@ -52,6 +52,17 @@ Why segment? The business can fit product and message to one group and spend its
 
 *Recommending methods.* Match the method to the segment. Teenagers are reached through social media and influencers. Older customers may respond to newspaper or radio advertising. A high-income segment suits quality magazines and exclusive retail. A low-income segment suits promotions, discounts and low prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-marketing--06-method-to-segment.webp" width="900" height="900" alt="Teenagers (an age segment) are reached through social media and influencers; older customers through newspaper or radio advertising. A high-income segment suits quality magazines and exclusive shops; a low-income segment suits promotions, discounts and low prices." loading="lazy">
+  <figcaption>Choose the promotion method that fits the segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
+
 ## 3.5.3 The purpose and methods of market research
 
 Market research is the collection and analysis of information about a market. Businesses do it to identify market opportunities (gaps, growing demand) and to gain better insight into their customers and competitors. Good research reduces the risk of launching the wrong product.
@@ -87,6 +98,12 @@ You should be able to read tables and charts and use them to decide.
 
 More than half prefer online, so the business could invest in its website and delivery. The survey is quantitative. A follow-up interview with some online buyers would add qualitative reasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-marketing--01-survey-percentages.webp" width="900" height="870" alt="A single bar of 250 customers is split into 140 online, 70 showroom and 40 interior designer. Dividing each count by 250 and multiplying by 100 gives 56%, 28% and 16%, which add to 100%. More than half prefer online, so investing in the website and delivery makes sense." loading="lazy">
+  <figcaption>Each count divided by the total and multiplied by 100 gives a percentage; the three add to 100%.</figcaption>
+</figure>
+
+
 ### Why results can be inaccurate
 
 - The sample is too small or not representative, for example only existing customers are asked.
@@ -95,6 +112,17 @@ More than half prefer online, so the business could invest in its website and de
 - Secondary data is out of date, or the market changes after the research.
 
 Inaccurate results misinform the business, which may launch a product nobody wants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--03-research-accuracy.webp" width="900" height="1010" alt="Two grids of 20 people. A representative sample of 10 has 7 online and 3 not online, matching the market at 70 percent online. An email-only sample of 10 is 100 percent online and overstates online interest. Hobsworth emailed 300 and 240 replied, 80 percent." loading="lazy">
+  <figcaption>A representative sample mirrors the market; a biased one gives misleading results.</figcaption>
+</figure>
+
 
 ## 3.5.4 The marketing mix: price, product, promotion and place
 
@@ -121,6 +149,17 @@ Inaccurate results misinform the business, which may launch a product nobody wan
 
 *Factors influencing price.* Production costs set the floor, because a price below cost makes a loss. The degree of competition limits how far price can rise. The stage in the product life cycle matters too: a new product may be priced high (skimming) or low (penetration), while a declining one may be discounted. As a business expands, lower unit costs may allow lower prices, but new rivals or markets may force different pricing. To assess suitability, weigh each factor for the business in the case: a firm in a crowded market with thin margins is poorly suited to skimming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-marketing--02-cost-plus-loomcraft.webp" width="900" height="810" alt="One bar for a cushion cover shows variable cost 14, fixed share 6 (9,000 divided by 1,500) and a 40% mark-up of 8 on the average cost of 20, giving a price of 28. Below, revenue 42,000 minus total cost 30,000 gives a profit of 12,000 if all 1,500 sell." loading="lazy">
+  <figcaption>Cost-plus adds a percentage mark-up to average cost; here 20 plus 8 gives a price of 28.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-marketing--03-loss-leader-milk.webp" width="900" height="860" alt="Milk costs 2.40 and is sold at 2.10, a loss of 0.30 a carton. On 1,000 cartons the loss is 300. The tactic pays only if the profit on other goods bought by milk shoppers is more than 300." loading="lazy">
+  <figcaption>A loss-leader is worthwhile only if the loss on one product is recovered on other sales.</figcaption>
+</figure>
+
+
 ### Product
 
 *Developing new products.* Benefits: new sales, a spread of risk and a stronger image. Risks: development cost and the chance of failure. Adapting an existing product, for example a new flavour, is usually cheaper and less risky than inventing one. Product design, brand image and the target market's needs must fit: a student laptop needs to be light, durable and affordable.
@@ -139,6 +178,12 @@ Inaccurate results misinform the business, which may launch a product nobody wan
 *Extension strategies* delay decline: new packaging, new uses, new markets, a price cut, a modified design or heavier promotion. Judge them by cost against likely extra sales. They suit a product still earning at maturity or early decline. If demand has fallen because tastes changed permanently, an extension strategy may only waste money.
 
 *Product portfolio.* A business's range of products. It broadens the range to spread risk and reach more segments, and balances it so that mature products fund new ones and not everything declines together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-marketing--04-life-cycle-stages-data.webp" width="900" height="870" alt="A line chart plots seven years of sales with coloured bands for introduction (year 1), growth (years 2 to 4), maturity (year 5) and decline (years 6 and 7). Below, the change on the previous year is +350%, +189%, +73%, -2%, -31% and -51%. A change of only -2% near the peak marks maturity." loading="lazy">
+  <figcaption>The stage is read from how sales change: fast rises, a flat top, then falls.</figcaption>
+</figure>
+
 
 ### Promotion
 
@@ -167,11 +212,33 @@ Analyse the channel against the scenario: product type (perishable, bulky, high 
 
 *e-Commerce.* Online trading is growing in importance because customers can buy at any hour, and a business can reach international markets without opening shops. Benefits: wider reach, lower premises costs, easy data collection. Drawbacks: delivery costs and delays, security and trust worries, strong competition, no chance to touch the product, and the need for good IT. Computer sales suit detailed browsing. Mobile (cell-phone) commerce reaches customers anywhere, but screens are small and weak connections can lose sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-marketing--05-channel-markups.webp" width="900" height="940" alt="Three bars show the price at each step: the producer receives 10, the wholesaler sells at 13 (adds 3, 30% of 10), and the retailer sells at 18 (adds 5, 38% of 13). The public pays 8 more than the producer received, which is 80% more. Selling direct could earn the producer more but needs storage, delivery and selling staff." loading="lazy">
+  <figcaption>Each intermediary adds a mark-up, so the public pays 80% more than the producer receives.</figcaption>
+</figure>
+
+
 ### Integrating the mix
 
 The four elements must fit. A luxury perfume needs a high price, elegant packaging, glossy-magazine advertising and exclusive shops. A budget price with a luxury image confuses buyers. Use the mix to make decisions, for example by recommending the activities that suit a given business and its target market.
 
 The mix changes over time. As a product ages, a business may cut price, change channels (adding online sales), alter promotion from awareness to reminders, or revise the product. Evaluate how a business reacts: does the reaction match the stage, rivals and customer change?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--05-extension-strategies.webp" width="900" height="970" alt="Line graph of Harbourlight candle sales over eight years (2, 9, 21, 33, 38, 38.5, 33, 22 thousand units) with a dashed line showing sales held near 38 if a reusable glass jar is launched in year 6. Five ways to extend the life cycle are listed." loading="lazy">
+  <figcaption>An extension strategy tries to hold sales up instead of letting them decline.</figcaption>
+</figure>
+
 
 ## Common errors
 

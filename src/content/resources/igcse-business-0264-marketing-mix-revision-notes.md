@@ -35,6 +35,12 @@ These notes condense section 3.3 Marketing mix of the Cambridge IGCSE Business 0
 | Sales promotion | Short-term offers to boost sales |
 | Ecommerce | Buying and selling over the internet |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--14-brand-image-and-packaging.webp" width="900" height="780" alt="A pack with brand logo and ingredients label shows packaging protects, informs and attracts. A strong brand brings higher price, loyalty and easier launches; better packs cost more." loading="lazy">
+  <figcaption>Packaging protects, informs and shows the brand; a strong brand image pays back.</figcaption>
+</figure>
+
+
 ## 3.3.1 Product in a page
 
 - Brand image supports higher prices, loyalty and easier launches. Poor image does the reverse.
@@ -65,6 +71,22 @@ These notes condense section 3.3 Marketing mix of the Cambridge IGCSE Business 0
 | Adapt product or packaging | The product looks dated | Redesign cost |
 | More advertising or sales promotion | Customers know the product but are drifting | Effect fades when spending stops |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--03-plc-from-sales-data.webp" width="900" height="950" alt="A line graph of eight years of speaker sales peaks at 42,000 in year 5. Years are shaded as introduction, growth, maturity and decline, with each year-on-year percentage change underneath." loading="lazy">
+  <figcaption>Read the stages from the shape of the data: maturity is flat at the peak, decline is falling sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--11-extension-strategies-fenwick.webp" width="900" height="1010" alt="Fenwick Gate sales rise to 42,000 in year 5 and fall to 18,000 by year 8; a dashed illustrative line shows sales held up by an extension. Four strategy cards give an advantage and disadvantage each." loading="lazy">
+  <figcaption>Extension strategies try to hold up sales when a product matures or declines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## 3.3.2 Price in a page
 
 | Method | Memory hook | Best when |
@@ -80,6 +102,17 @@ Standard form for cost-plus: price = unit cost × (1 + mark-up percentage as a d
 **Worked reminder.** Unit cost 14, mark-up 50%: price = 14 × 1.5 = 21. Profit per unit 7. Selling 300 gives 2,100 profit (amounts in dollars).
 
 **Judging a pricing method.** Ask three things. What does the business want (profit now or share)? Who are the customers (price-sensitive or not)? How many rivals are there? Then pick a method, give the reason from the case, and state one drawback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--10-cost-plus-hollin-bay.webp" width="900" height="780" alt="A bar of 3.20 unit cost plus 1.44 mark-up (45%) makes a 4.64 price; 12,000 bars at 1.44 profit give 17,280 dollars." loading="lazy">
+  <figcaption>Hollin Bay Soaps: 3.20 + 45% = 4.64, and 12,000 bars give 17,280 profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
 
 ## 3.3.3 Place in a page
 
@@ -97,6 +130,17 @@ Standard form for cost-plus: price = unit cost × (1 + mark-up percentage as a d
 4. Justify against one alternative, then give one drawback.
 
 **Margins reminder.** Retailer buys at 150 and adds 40%: shop price 150 × 1.4 = 210, retailer keeps 60.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--04-channel-margin-direct.webp" width="900" height="920" alt="Two bars each total a shop price of 252. Through a retailer Greyfriar gets 180 and the shop keeps 72. Direct, Greyfriar keeps 221 after 31 delivery, 41 more per bike, but needs a website, warehouse and staff." loading="lazy">
+  <figcaption>Selling direct keeps more per bike but only pays if volume covers the extra fixed costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## 3.3.4 Promotion in a page
 
@@ -117,6 +161,12 @@ Standard form for cost-plus: price = unit cost × (1 + mark-up percentage as a d
 | Discounts | Clearing stock fast | Cuts profit per unit |
 
 **Discount reminder.** 10% off 120: 120 × 0.9 = 108.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--12-sales-promotion-vs-advertising.webp" width="900" height="800" alt="Sales promotion (vouchers, loyalty points, competitions, discounts) beside advertising (social media, direct emails, leaflets, billboards), with 15% off 64 giving 54.40." loading="lazy">
+  <figcaption>Sales promotion is short-term offers; advertising is messages in media.</figcaption>
+</figure>
+
 
 ## 3.3.5 Ecommerce in a page
 
@@ -139,6 +189,12 @@ Examples: mobile or internet banking, online shopping, online ticketing.
 4. Show the four fit together.
 5. Say which element matters most here, with a reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 3.3.7 Entering new markets in other countries
 
 | Advantages | Disadvantages |
@@ -149,6 +205,12 @@ Examples: mobile or internet banking, online shopping, online ticketing.
 | Possible lower unit costs | Transport and exchange costs |
 
 **Percentage change.** (new - old) / old × 100. Sales from 8,000 to 10,000 is a 25% rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--13-brisk-haven-new-country.webp" width="900" height="850" alt="Home sales of 500,000 boxes plus 90,000 abroad total 590,000: sales up 18% and the new country 15.3% of the total." loading="lazy">
+  <figcaption>Entering a new country adds 18% to sales and spreads risk.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

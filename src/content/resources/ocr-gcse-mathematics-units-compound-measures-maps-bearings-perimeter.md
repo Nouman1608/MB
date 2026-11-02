@@ -75,6 +75,32 @@ x metres = 100x cm
 Number of pieces = 100x ÷ 20 = 5x
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--03-time-hours-not-decimals.webp" width="900" height="830" alt="Three bars each representing one hour. 18 minutes is 0.3 of the bar, so 3 h 18 min is 3.3 h. 21 minutes is 0.35 of the bar, so 2.35 h is 2 h 21 min. 0.18 of an hour is only 10.8 minutes, so 3.18 h is not 3 h 18 min." loading="lazy">
+  <figcaption>Minutes are fractions of 60, so 18 minutes is 0.3 of an hour, not 0.18.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--04-money-exchange-rate.webp" width="900" height="610" alt="With £1 = €1.17, going from pounds to euros multiplies by 1.17, so £85 becomes €99.45. Going from euros to pounds divides by 1.17, so €234 becomes £200." loading="lazy">
+  <figcaption>Multiply by the rate to go to the currency with the rate; divide to come back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
+
 ## 10.01b Compound units
 
 | Quantity | Relationship | Units used |
@@ -129,6 +155,17 @@ km/h: distance d km, time t/60 h, so speed = d ÷ (t/60) = 60d/t
 m/s: distance 1000d m, time 60t s, so speed = 1000d/(60t) = 50d/(3t)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--01-compound-units-top-over-bottom.webp" width="900" height="885" alt="Four rows each showing a quantity over another with a fraction bar: speed 15 km over 2/3 h gives 22.5 km/h, density 2160 g over 800 cm3 gives 2.7 g/cm3, pressure 840 N over 0.35 m2 gives 2400 N/m2, unit price 210 p over 750 g gives 0.28 p/g. Each compound unit is the top unit over the bottom unit." loading="lazy">
+  <figcaption>Every compound measure is the top quantity divided by the bottom quantity, and its unit is top unit per bottom unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--02-kmh-to-ms-top-and-bottom.webp" width="900" height="690" alt="The speed 54 km per 1 hour has its top converted to 54 000 m by multiplying by 1000 and its bottom to 3600 s by multiplying by 3600. Then 54 000 divided by 3600 is 15 m/s. The short cut is to divide km/h by 3.6." loading="lazy">
+  <figcaption>Convert the top and the bottom of a compound unit separately; for km/h to m/s that is the same as dividing by 3.6.</figcaption>
+</figure>
+
+
 ## 10.01c Maps, bearings and scale drawings
 
 With a scale of 1 : 20 000, each 1 cm measured on the map stands for 20 000 cm on the ground, which is 200 m.
@@ -157,6 +194,22 @@ Bearing of the start from the boat = 076.9° + 180° = 256.9°, so about 257°
 
 On a scale drawing, measure the final line and the angle with a sharp pencil, ruler and protractor, and mark each north line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--05-reverse-bearings.webp" width="900" height="990" alt="Points P and Q each with a parallel north line. Bearing of Q from P is 063 degrees; bearing of P from Q is 243 degrees, which is 063 plus 180." loading="lazy">
+  <figcaption>The two bearings between a pair of points differ by 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--06-boat-route.webp" width="900" height="780" alt="Harbour H, buoys A and B at 1 cm to 2 km. HA is 6 cm at 070 degrees, AB is 4 cm at 160 degrees with a right angle at A. HB measures about 7.2 cm, about 14.4 km, at bearing about 104 degrees." loading="lazy">
+  <figcaption>Boat route drawn to scale, with the distance and bearing of B from H.</figcaption>
+</figure>
+
+
 ## 10.02a Perimeter of rectilinear shapes
 
 Perimeter is the distance round the edge. A rectilinear shape has only straight sides at right angles. Find any missing lengths, then add every side.
@@ -170,6 +223,12 @@ Perimeter = 2 × (14 + 9) = 46 cm
 ```
 
 This shortcut works for any notch cut from a corner. It does not work for a notch cut from the middle of an edge, where you must add the two extra sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--05-rectilinear-corner-notch.webp" width="900" height="796" alt="A 14 cm by 9 cm rectangle with a 5 cm by 4 cm notch removed from its top right corner. Across the outline is 9 + 5 + 14 = 28 cm and down it is 9 + 4 + 5 = 18 cm, so the perimeter is 46 cm, equal to 2 x (14 + 9). The notch removes 5 cm and 4 cm of outline and adds back 5 cm and 4 cm." loading="lazy">
+  <figcaption>Cutting a corner notch moves the outline inwards but keeps its length: the perimeter is that of the outer rectangle.</figcaption>
+</figure>
+
 
 ## 10.02b Circumference and arc length
 
@@ -197,6 +256,12 @@ arc length = (angle/360) × 2πr
 Arc = 80/360 × 2 × π × 9 = 2/9 × 18π = 4π cm
 4π = 12.57 cm (to 2 decimal places)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--01-arc-and-sector.webp" width="900" height="1080" alt="A circle of radius 9 cm with an 80 degree sector shaded and its arc in orange: 80/360 of the circumference gives 4 pi, about 12.57 cm. Below, a sector of radius 7 cm and angle 130 degrees has arc 15.88 cm plus two radii of 7 cm, so its perimeter is about 29.9 cm." loading="lazy">
+  <figcaption>The arc is a fraction of the circumference; the perimeter of a sector also includes the two radii.</figcaption>
+</figure>
+
 
 ## 10.02c Perimeter of composite shapes
 

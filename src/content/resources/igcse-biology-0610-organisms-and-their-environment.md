@@ -61,6 +61,12 @@ The Sun is the principal source of energy input to biological systems. Energy fl
 
 Energy is **not recycled**. It enters as light and eventually leaves as heat. This is the key contrast with nutrients such as carbon and nitrogen, which are recycled (section 19.3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--01-energy-flow.webp" width="900" height="1190" alt="Light energy from the Sun is absorbed by a plant, and photosynthesis transfers it to chemical energy. Chemical energy passes to a herbivore and then a carnivore. At every stage, including decomposers, energy is transferred to the environment as heat. Dead material and waste pass to decomposers, and energy is never recycled." loading="lazy">
+  <figcaption>Energy enters as light, passes along the chain and leaves as heat; it is not recycled.</figcaption>
+</figure>
+
+
 ## 19.2 Food chains and food webs
 
 ### Definitions you must learn
@@ -92,6 +98,12 @@ If disease kills most of the rabbits:
 
 Always give the direction of change **and** the reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--03-web-change.webp" width="900" height="1150" alt="Web: grass eaten by rabbits and voles; rabbits and voles eaten by foxes; voles also eaten by owls. Disease kills most rabbits (1), foxes eat more voles so voles fall (2), owls may fall (3), grass may rise (4)." loading="lazy">
+  <figcaption>Follow every arrow: fewer rabbits means more voles eaten, fewer owls and more grass.</figcaption>
+</figure>
+
+
 ### Human impact on food chains and webs
 
 - **Overharvesting** a food species (for example, catching too many of one fish) removes a food source for its predators, whose populations may fall. Its own prey may increase because they are eaten less.
@@ -106,6 +118,12 @@ Worked example. A single oak tree supports 2 500 caterpillars, which are eaten b
 - Pyramid of biomass: the tree's mass far exceeds that of the caterpillars, which exceeds that of the birds. Each bar is narrower than the one below, so it **is** pyramid-shaped.
 
 **Advantages of a pyramid of biomass over a pyramid of numbers:** it takes account of the size of organisms, so one large tree is not shown as smaller than thousands of insects; it is almost always pyramid-shaped, so it gives a truer picture of how much living material each level supports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--04-pyramids.webp" width="900" height="1030" alt="For one oak supporting 2 500 caterpillars eaten by 30 blue tits, the pyramid of numbers has a narrow base, very wide middle and narrow top, so it is not pyramid-shaped. The pyramid of biomass narrows at each level and is pyramid-shaped." loading="lazy">
+  <figcaption>Biomass gives a true pyramid because it allows for the size of organisms.</figcaption>
+</figure>
+
 
 ### Pyramids of energy (Extended only)
 
@@ -131,6 +149,12 @@ grass → rabbits: (1470 ÷ 21 000) × 100 = 7.0 %
 rabbits → foxes: (126 ÷ 1470) × 100 = 8.57… = 8.6 %
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--05-energy-efficiency.webp" width="900" height="1060" alt="Extended. A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
+  <figcaption>Only about 7 to 9 % passes to the next level here, so energy pyramids narrow quickly.</figcaption>
+</figure>
+
+
 ### Why food chains are short (Extended only)
 
 Because so much energy is lost at each step, the energy reaching each level falls rapidly. By the fourth or fifth level there is too little energy left to support a population large enough to survive. That is why food chains usually have fewer than five trophic levels.
@@ -138,6 +162,12 @@ Because so much energy is lost at each step, the energy reaching each level fall
 ### Eating crops versus eating livestock (Extended only)
 
 If humans eat crop plants, they are primary consumers and receive energy after **one** transfer. If the crop is fed to livestock and humans eat the livestock, there are **two** transfers, and energy is lost as heat, in faeces and in movement by the animals. A given area of crops therefore feeds more people if the crop is eaten directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
 
 ## 19.3 Nutrient cycles
 
@@ -171,6 +201,17 @@ Nitrogen gas makes up most of the air, but plants cannot use it directly. They a
 
 **Roles of microorganisms** (you do not need names such as *Rhizobium*): decomposition, nitrification, nitrogen fixation and denitrification. Lightning is the only listed fixation route that is not biological.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--07-nitrogen-cycle.webp" width="900" height="1090" alt="Extended. Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air." loading="lazy">
+  <figcaption>Bacteria drive four steps: decomposition, nitrification, fixation and denitrification.</figcaption>
+</figure>
+
+
 ## 19.4 Populations
 
 ### Definitions
@@ -195,6 +236,12 @@ A population growing in an environment with **limited resources** follows an S-s
 | Death | Numbers fall | Food runs out or toxic waste accumulates; deaths exceed births |
 
 For the Extended explanation, name the **limiting factor** and link it to birth and death rates. "Competition for food increases, so birth rate falls until it equals death rate" is the level expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--08-population-growth.webp" width="900" height="1130" alt="Sketch graph of population size against time: lag (slow rise), exponential (steep rise), stationary (levels off) then death (falls). Extended explanations: few reproducing; plenty of food and births far exceed deaths; limiting factors so births equal deaths; food runs out or waste builds up so deaths exceed births." loading="lazy">
+  <figcaption>The four phases of the sigmoid growth curve and what causes each (Extended).</figcaption>
+</figure>
+
 
 ### Interpreting population graphs
 

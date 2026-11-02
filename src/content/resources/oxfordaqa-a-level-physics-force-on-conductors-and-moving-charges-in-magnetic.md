@@ -67,6 +67,12 @@ F = BIL = 0.085 × 6.4 × 0.095 = 0.0517 N, which is **0.052 N** to 2 significan
 
 Point your second finger to the right (current). Point your first finger into the page (field). Your thumb now points up the page. The force is **up the page**. Reverse either the current or the field and the force reverses. Reverse both and it stays the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+
 ### Magnetic flux density and the tesla
 
 Rearranging F = BIL gives B = F / (IL).
@@ -143,6 +149,12 @@ T = 2πm / (BQ) = 2π × 6.64 × 10⁻²⁷ / (0.15 × 3.20 × 10⁻¹⁹) = **8
 
 r = mv / (BQ) = 9.11 × 10⁻³¹ × 4.5 × 10⁶ / (0.012 × 1.60 × 10⁻¹⁹) = **2.1 × 10⁻³ m**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+
 ### The cyclotron
 
 A cyclotron accelerates charged particles to high kinetic energy using a modest voltage many times over.
@@ -166,6 +178,12 @@ Maximum speed: v = BQR / m. Maximum kinetic energy: ½mv² = (BQR)² / (2m).
 (d) 1.916 MeV / 30 keV ≈ **64 crossings**, which is about 32 full revolutions.
 
 At speeds close to the speed of light the particle's mass increases, the revolution time is no longer constant and the simple fixed frequency fails. The calculations above assume speeds well below that.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
 
 ## Common errors
 

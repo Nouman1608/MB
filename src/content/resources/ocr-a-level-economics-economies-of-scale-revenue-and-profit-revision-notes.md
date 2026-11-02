@@ -83,6 +83,12 @@ Use them with the [practice questions](/resources/ocr-a-level-economics-economie
 - A small MES relative to the market means many firms and low barriers. A large MES means few firms, perhaps one, and high barriers.
 - A firm below MES has higher costs. If AC is £11.00 against £8.80 at MES, it is (11.00 − 8.80)/8.80 × 100 = 25% above the minimum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--08-lrac-envelope-mes.webp" width="900" height="960" alt="Four dashed lines show cost per unit for plants A to D, plotted from the lesson table. The thick LRAC line follows the lowest plant at each output: 12, 10, 9, 8.50, 7.50, 8. It falls 37.5% from 200 to 600 units, then rises 6.7%. The minimum efficient scale is 600 units at 7.50." loading="lazy">
+  <figcaption>LRAC is the lowest cost per unit at each output; MES is the first output where it reaches its minimum.</figcaption>
+</figure>
+
+
 ## Evaluating scale
 
 Evaluate the causes by asking how large each effect is, how soon it appears, and what limits it. Evaluate significance for each agent.
@@ -103,6 +109,22 @@ Useful evaluation points:
 
 Conclude with a judgement tied to the case: for example, a large MES makes the benefits more significant but also makes market power more likely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--01-diseconomies-costs-vs-output.webp" width="900" height="850" alt="Two bars compare output growth of 33.3 percent with total cost growth of 42.2 percent when the firm moves from 600 to 800 units. Cost per unit rises from 7.50 to 8.00. Costs rising faster than output is a diseconomy of scale." loading="lazy">
+  <figcaption>Output +33.3% but total cost +42.2%: diseconomies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--02-mes-vs-market-size.webp" width="900" height="960" alt="With MES at 600 units, a market of 7,200 units holds 12 firms at MES and a market of 1,000 units holds only 1.67. Many firms survive in the first case; one firm has the cost advantage in the second." loading="lazy">
+  <figcaption>Market size divided by MES shows how many firms can reach the lowest cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Revenue and elasticity
 
 - On a falling demand curve, AR is the demand curve and MR lies below it.
@@ -112,6 +134,22 @@ Conclude with a judgement tied to the case: for example, a large MES makes the b
 - Inelastic (PED between 0 and −1): MR negative, a price fall lowers TR.
 
 **Reminder.** Demand P = 50 − 2Q. At 10 units, P = 30 and TR = 300. MR = 50 − 40 = 10. PED = −(1/2) × 30/10 = −1.5. Check: 30 × (1 − 1/1.5) = 10. TR peaks where MR = 0, at 12.5 units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--09-ar-mr-tr.webp" width="900" height="1100" alt="For demand P = 90 - 3Q, AR falls from 90 to zero at output 30. MR = 90 - 6Q starts at the same point and reaches zero at output 15. Demand is elastic left of 15 and inelastic right of it. TR = 90Q - 3Q^2 peaks at 675 at output 15." loading="lazy">
+  <figcaption>MR hits zero at the output where TR is largest and PED = -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## Profit
 
@@ -128,6 +166,27 @@ Conclude with a judgement tied to the case: for example, a large MES makes the b
 4. Compute TR, TC and profit (or loss), and check against the neighbouring outputs.
 
 **Reminder.** A firm sells 120 units at AR £25 with AC £22.50: TR is £3,000, TC £2,700, so supernormal profit is £300.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--10-accounting-vs-economic-profit.webp" width="900" height="990" alt="Hearth Bakery earns 210,000 with explicit costs of 160,000, so accounting profit is 50,000. Implicit costs of 41,200 (34,000 alternative pay plus 7,200 return on savings) leave economic profit of 8,800. If revenue falls to 195,000, accounting profit is 35,000 but economic profit is -6,200." loading="lazy">
+  <figcaption>Accounting profit ignores implicit costs, so a firm can profit in the accounts and lose in economics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--11-profit-max-mc-mr.webp" width="900" height="940" alt="AR, MR, MC and AC curves for the lesson's example. MR meets MC at output 9. Price on AR is 63 and AC is 35, so the shaded profit rectangle is (63 - 35) x 9 = 252. Profit at 8 or 10 units is 248." loading="lazy">
+  <figcaption>Profit is largest at the output where MC = MR; the rectangle shows 252.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--12-supernormal-normal-loss.webp" width="900" height="1110" alt="Three rectangles as wide as output and as tall as the gap between AR and AC. Firm X: AR 12, AC 10, 400 units, profit 800. Firm Y: AR = AC = 9, 500 units, normal profit. Firm Z: AR 8, AC 11, 300 units, loss of 900." loading="lazy">
+  <figcaption>Profit is the rectangle (AR - AC) x output; normal profit is zero economic profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--03-loss-minimisation-mc-mr.webp" width="900" height="930" alt="AR is 42 minus 3Q, MR is 42 minus 6Q and MC is 18 plus 2Q. MC equals MR at output 3 where price is 33 and average cost 45. The loss rectangle is 12 high and 3 wide, so the loss is 36, less than the 72 fixed cost." loading="lazy">
+  <figcaption>MC = MR still gives the smallest loss: 36 against 72 if the firm closed.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -193,3 +252,9 @@ The sixth unit has MR 28 above MC 25, so it adds 3 to profit. The seventh has MR
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+

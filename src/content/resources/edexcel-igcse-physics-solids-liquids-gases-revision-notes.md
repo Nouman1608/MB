@@ -50,6 +50,17 @@ fluid     p = rho g h
 p = h rho g = 5.0 x 1000 x 9.8 = 49 000 Pa
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-gases-revision-notes--02-same-depth-same-pressure.webp" width="900" height="780" alt="Three containers of different shape are filled with water to the same depth of 0.50 m. The pressure at the base is 4900 Pa in each, from p = h x rho x g." loading="lazy">
+  <figcaption>Pressure in a liquid depends on depth and density, not on the shape of the container.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--05-pressure-5m-water.webp" width="900" height="820" alt="Arrows grow with depth to 49 000 Pa at 5.0 m, with the working 5.0 × 1000 × 9.8." loading="lazy">
+  <figcaption>Pressure in water rises with depth: 49 000 Pa at 5.0 m.</figcaption>
+</figure>
+
+
 ## Particle model
 
 | State | Arrangement | Movement |
@@ -59,6 +70,17 @@ p = h rho g = 5.0 x 1000 x 9.8 = 49 000 Pa
 | Gas | Far apart, random | Fast, random, in all directions |
 
 **Gas pressure** arises from molecules **colliding with the walls** and exerting a force on them. Every gas-law explanation traces back to that mechanism. In a liquid or gas at rest, pressure at a given point acts **equally in all directions** — it has no preferred direction, unlike a force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
 
 ## The gas laws
 
@@ -90,6 +112,22 @@ p1V1 = p2V2
 p2 = 6.0x10^5 Pa
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--09-pressure-volume.webp" width="900" height="1040" alt="A graph of pressure against volume for a fixed mass of gas at constant temperature. The curve passes through 2.0 x 10^5 Pa at 0.30 cubic metres and 6.0 x 10^5 Pa at 0.10 cubic metres, because pressure times volume is constant." loading="lazy">
+  <figcaption>At constant temperature, a third of the volume gives three times the pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--10-pressure-kelvin.webp" width="900" height="1040" alt="A graph of pressure against temperature with kelvin values and Celsius values beneath. The line is straight and heads to zero pressure at 0 K, minus 273 degrees Celsius. Example pressures are 1.00 x 10^5 Pa at 273 K and 1.37 x 10^5 Pa at 373 K." loading="lazy">
+  <figcaption>Pressure is proportional to the kelvin temperature at constant volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--07-absolute-zero-ke.webp" width="900" height="840" alt="Boxes of particles at 0 K, 273 K and 373 K with bars showing mean kinetic energy proportional to Kelvin temperature." loading="lazy">
+  <figcaption>Absolute zero is the temperature of minimum kinetic energy.</figcaption>
+</figure>
+
+
 ## Thermal physics
 
 ```
@@ -109,6 +147,22 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 ```
 
 **Thermal expansion** occurs because particles vibrate more vigorously and take up more space — the particles themselves do not expand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-gases-revision-notes--03-heat-2kg-water-edexcel.webp" width="900" height="840" alt="Two beakers each hold 2.0 kg of water, at 20 and 100 degrees Celsius. The rise is 80 degrees, so E = 2.0 x 4200 x 80 = 672000 J." loading="lazy">
+  <figcaption>Heating 2.0 kg of water through 80 degrees needs 672 000 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--01-thermal-expansion.webp" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications." loading="lazy">
+  <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
+</figure>
+
 
 ## Exam traps
 

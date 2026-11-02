@@ -53,6 +53,12 @@ M_r = mass / n = 0.44 / 1.01x10^-2 = 43.6 -> 44 (likely CO2)
 
 Converting cm³ to m³ and kPa to Pa **before** substituting is what makes this answer come out right rather than a factor of a thousand or more out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--01-mole-hub.webp" width="900" height="1050" alt="A hub with the amount in moles (0.50 mol of CO2) in the centre and four double-headed arrows to mass (22.0 g), particles (3.01 x 10^23), gas volume (12.0 dm3) and solution concentration times volume. Each box shows the formula linking it to moles. The gas-volume route is tagged OCR and Edexcel." loading="lazy">
+  <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
+</figure>
+
+
 ## Empirical and molecular formulae
 
 **Method:** divide each mass or percentage by the relative atomic mass, divide all results by the smallest, then scale to whole numbers.
@@ -62,6 +68,17 @@ molecular formula = empirical formula x (Mr / empirical formula mass)
 ```
 
 For **hydrated salts**, treat the water as another "element": find the moles of anhydrous salt and the moles of water, then take the simplest ratio to get the value of x in `salt·xH₂O`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--05-empirical-formula.webp" width="900" height="1000" alt="A bar chart of moles per 100 g (C 3.33, H 6.70, O 3.33) leads to the ratio 1:2:1, the empirical formula CH2O (mass 30) and, since Mr is 180 (6 x 30), the molecular formula C6H12O6." loading="lazy">
+  <figcaption>Moles from percentages give the ratio, and Mr divided by the empirical mass gives the multiplier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--06-hydrated-salt.webp" width="900" height="900" alt="A crucible of blue hydrated copper sulfate (2.50 g) is heated and becomes white anhydrous copper sulfate (1.60 g) with 0.90 g of water driven off as steam. Moles of 0.0100 CuSO4 and 0.0500 H2O give a 1:5 ratio, so CuSO4.5H2O." loading="lazy">
+  <figcaption>Mass lost on heating gives the moles of water per mole of salt. OCR content.</figcaption>
+</figure>
+
 
 ## Titrations
 
@@ -92,6 +109,12 @@ atom economy      = (Mr of desired product / sum of Mr of ALL reactants) x 100
 
 **High atom economy matters industrially** because it means less waste to dispose of, lower raw-material cost, and better sustainability — an addition reaction has 100% atom economy by definition, which is why addition routes are preferred where available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--08-atom-economy-yield.webp" width="900" height="1050" alt="Panel one is a bar of total reactant mass 238.5 where only the 47.9 of titanium is useful, so atom economy is 20.1%. Panel two compares the possible 5.00 g with 4.25 g collected, an 85% yield." loading="lazy">
+  <figcaption>Atom economy is fixed by the equation; yield depends on the experiment.</figcaption>
+</figure>
+
+
 ## Limiting reagents
 
 The reagent that runs out first determines the maximum product. **Method:** convert both reactants to moles, divide each by its stoichiometric coefficient, and the smaller value identifies the limiting reagent. Base the yield calculation on that one only.
@@ -105,6 +128,12 @@ concentration in mol dm-3  x  M  =  concentration in g dm-3
 ```
 
 **Dilution:** `c₁V₁ = c₂V₂`. A standard solution is prepared by dissolving a weighed mass, transferring quantitatively with washings, and making up to the mark in a volumetric flask — the washings matter, because solute left in the beaker lowers the true concentration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
+</figure>
+
 
 ## Exam traps
 

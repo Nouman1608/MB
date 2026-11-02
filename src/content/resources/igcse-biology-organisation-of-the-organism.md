@@ -50,6 +50,12 @@ Supplement content of its own within 2.1 — the cell-structure outcomes
 are examined identically for Core and Extended candidates, with the
 tier distinction only appearing in the unit-conversion skill in 2.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE BIOLOGY 0610 — TOPIC 2 ORGANISATION OF THE ORGANISM**
@@ -95,6 +101,22 @@ being able to apply the definitions to an unfamiliar example (identify
 which level of organisation a described structure belongs to) tend to
 lose marks that a slightly more careful revision pass would have kept.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Start by building a single, precise table of the plant-cell,
@@ -134,6 +156,17 @@ being able to say where a leaf, a nephron or a red blood cell sits in
 that hierarchy — since Cambridge examiners routinely test definitions
 by asking candidates to apply them to a new context rather than simply
 recall them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -67,6 +67,22 @@ Strength and concentration are different ideas.
 - A dilute strong acid and a concentrated weak acid can both exist. Do not call the concentrated weak acid "stronger".
 - Equal volumes of equal-concentration HCl and CH₃COOH contain the same amount of acid. They neutralise the same amount of alkali, because the equilibrium in the weak acid shifts to release more H⁺ as H⁺ is used up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--06-titration-curves.webp" width="900" height="1090" alt="Four computed curves of pH against base added for 25 cm3 of 0.100 M acid with 0.100 M base. Strong+strong starts at pH 1 and is equivalent at pH 7. Weak acid+strong base starts near 2.9, buffers, and is equivalent near 8.7. Strong acid+weak base is equivalent near 5.3. Weak+weak has no steep section." loading="lazy">
+  <figcaption>Strong or weak acids and bases give curves with different start pH, steep section and equivalence pH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--09-half-equivalence.webp" width="900" height="880" alt="A computed pH curve for ethanoic acid with NaOH shows the buffer region and equivalence at 25 cm3. At 12.5 cm3 dashed lines show pH 4.76 = pKa, because [HA] = [A-] there." loading="lazy">
+  <figcaption>At half the equivalence volume [HA] = [A-], so pH = pKa and Ka = 10^-pH (practical in all boards).</figcaption>
+</figure>
+
+
 ## (c) Neutralisation
 
 Ionic equation for any acid with an alkali: H⁺(aq) + OH⁻(aq) → H₂O(l)
@@ -114,6 +130,12 @@ m = 0.01250 mol × 106.0 g mol⁻¹ = 1.325 g
 
 Indicator colours: methyl orange is red in acid and yellow in alkali. Phenolphthalein is colourless in acid and pink in alkali.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
+
 ## (e) Calculations
 
 Method in steps:
@@ -158,6 +180,12 @@ Use it when a base is insoluble or reacts slowly.
 ### Unfamiliar acids and bases
 
 You will not be given the method. Write the equation from the information in the question: a dibasic acid H₂X releases two H⁺, so it reacts 1 : 2 with NaOH. Treat it like any other ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

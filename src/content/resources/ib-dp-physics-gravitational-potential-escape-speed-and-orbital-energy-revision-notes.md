@@ -29,6 +29,17 @@ These notes condense the additional higher level (AHL) part of D.1 Gravitational
 - **Equipotential surface**: a surface on which Vg has the same value everywhere.
 - **Escape speed**: the speed at a given point that lets a body reach infinity with no kinetic energy left (no drag, no further push).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--01-potential-and-energy.webp" width="900" height="900" alt="Graph of gravitational potential Vg against distance from the centre of Ganymede. Vg is negative everywhere and rises towards zero at infinity. A 900 kg probe at 1.00 x 10^7 m has Vg of -9.87 x 10^5 J per kg and Ep of -8.88 x 10^8 J, which is the energy needed to lift it to infinity." loading="lazy">
+  <figcaption>Vg = -GM/r is negative everywhere and rises to zero at infinity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--06-escape-speed.webp" width="900" height="940" alt="Energy per kg at Ganymede surface for three speeds. Ep is -3.75 x 10^6 J per kg in each. At 1.94 km per s total is -1.88 (bound), at 2.74 km per s total is zero (escape), and at 6.0 km per s total is +14.2, leaving 5.34 km per s far away." loading="lazy">
+  <figcaption>Escape speed makes the total energy zero, and equals root 2 times the orbital speed.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Result | Notes |
@@ -72,6 +83,17 @@ These notes condense the additional higher level (AHL) part of D.1 Gravitational
 - Near a surface the equipotentials are almost parallel and equally spaced, so the field is approximately uniform.
 - Potentials of several bodies add as scalars. Along the line joining two masses, g = 0 where the gradient of the total Vg is zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--04-equipotentials.webp" width="900" height="1150" alt="Concentric dashed circles around Ganymede mark Vg of -3, -2 and -1 x 10^6 J per kg at radii 3.29, 4.94 and 9.87 x 10^6 m. Eight inward field lines cross them at right angles. The gaps (1.65 then 4.93 x 10^6 m) widen outwards, so the field weakens." loading="lazy">
+  <figcaption>Field lines cross equipotentials at right angles, and wider gaps mean a weaker field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--05-two-bodies.webp" width="900" height="970" alt="Graph of Vg along the line joining two asteroids (2.0 and 8.0 x 10^15 kg, 9.0 x 10^3 m apart). Vg has a maximum of -133 J per kg at 3.0 x 10^3 m from the lighter body, where g = 0. It is -200 at 1.0 x 10^3 m and -148 at the midpoint. g points downhill towards each body." loading="lazy">
+  <figcaption>Where the fields cancel, Vg has a maximum and its gradient, g, is zero.</figcaption>
+</figure>
+
+
 ## Atmospheric drag on a satellite
 
 Drag is small, so treat the orbit as a slow spiral through near-circular orbits.
@@ -84,6 +106,12 @@ Drag is small, so treat the orbit as a slow spiral through near-circular orbits.
 | Ep | decreases (by twice the Ek gain) | smaller r |
 | Ek | increases | v larger |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--08-atmospheric-drag.webp" width="900" height="970" alt="A satellite spirals inwards (exaggerated) with velocity along the path and drag opposite. Reasoning chain: drag removes energy, E more negative, r smaller, speed increases. For 2.49 to 2.45 x 10^7 m, Ek rises 1.43 x 10^9 J, Ep falls 2.86 x 10^9 J and E falls 1.43 x 10^9 J; speed rises from 1.653 to 1.666 x 10^4 m per s." loading="lazy">
+  <figcaption>Drag removes energy, the orbit shrinks and the satellite speeds up.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Ratio reasoning.** Planet B has twice the mass and half the radius of planet A. vesc scales as √(M/R), so vesc(B) = √(2 ÷ 0.5) = 2 × vesc(A).
@@ -94,12 +122,24 @@ Drag is small, so treat the orbit as a slow spiral through near-circular orbits.
 
 **Launch energetics with numbers.** For the same planet (GM = 1.2 × 10¹³, R = 4.0 × 10⁶ m), a 100 kg satellite is launched from rest at the surface into a circular orbit of radius 5.0 × 10⁶ m. The surface energy is -GMm/R = -3.0 × 10⁸ J. The orbit energy is -GMm/2r = -1.2 × 10⁸ J. The input is 1.8 × 10⁸ J. Of this, 1.2 × 10⁸ J is the orbital Ek and 6.0 × 10⁷ J is the rise in Ep (from -3.0 × 10⁸ J to -2.4 × 10⁸ J).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--07-orbital-energy.webp" width="900" height="920" alt="Graph of Ek, Ep and E against orbital radius for a 640 kg satellite around Neptune. Ek = -E and Ep = 2E. Moving from 2.49 to 4.00 x 10^7 m raises E from -8.74 to -5.44 x 10^10 J, so 3.30 x 10^10 J is supplied." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r; a bigger orbit has E nearer zero.</figcaption>
+</figure>
+
+
 ## Reading graphs
 
 - **Vg against r**: all values are negative and rise towards zero as r increases. The gradient at a point is the magnitude of g there, so the curve is steepest near the body.
 - **g against r**: the area under the curve between two radii equals the change in Vg between them, in J kg⁻¹. Count squares or use trapezia and state the units.
 - **Ep against r**: the same shape as Vg, scaled by m. The depth of the well at the starting radius is the energy needed to escape from rest.
 - A tangent drawn on a Vg graph gives g at that point. Use a large triangle and show both sides of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--02-field-from-gradient.webp" width="900" height="930" alt="Zoomed graph of Vg near Triton with a right-angled triangle between r = 2.00 and 2.20 x 10^6 m. The slope is 0.324 N per kg, equal to GM/r^2 at the midpoint. The slope is positive, so g points inward." loading="lazy">
+  <figcaption>The magnitude of g is the slope of the Vg graph, and g points downhill, towards the mass.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

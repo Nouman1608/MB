@@ -41,9 +41,46 @@ Condensed for the final weeks. For the full explanation, use the
 | Equitable distribution | **Gini coefficient** (0 = perfect equality, 1 = perfect inequality) |
 | Productivity | Output per worker |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes--02-gini-vs-gdp.webp" width="900" height="1045" alt="A Lorenz graph with a dashed equal-shares line. Country P (quintile shares 12, 16, 20, 24, 28) lies near the line with Gini 0.16; Country Q (4, 8, 13, 20, 55) lies far below with Gini 0.46. Both have the same real GDP per capita, so only the Gini shows the distribution." loading="lazy">
+  <figcaption>Equal real GDP per head can hide very different distributions; the Gini coefficient shows it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--01-macro-objectives-indicators.webp" width="900" height="970" alt="Four cards show the four main objectives and the indicator measuring each: real GDP (per capita) for growth, CPI/RPI for price stability, unemployment measures, and the current account balance. Pills list other objectives: balanced budget, fair income and wealth, and (OxfordAQA only) protecting the environment." loading="lazy">
+  <figcaption>Each objective is matched to the indicator that measures it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
+
 ## Real vs nominal, and index numbers
 
 **Nominal data** = value in the prices of the year recorded. **Real data** = adjusted to remove inflation, so genuine change over time can be compared. **Index numbers** measure proportional change, anchored to a **base year** (value = 100) and built from **weighted** components — components with a larger share of what's measured carry more influence on the index value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--06-un227-ix-weighted-index.webp" width="900" height="980" alt="Bars whose width is the weight and whose height is the index points above 100 for food, housing, transport, leisure and other. A solid line marks the weighted index 109.2 and a dashed line the unweighted average 108.2." loading="lazy">
+  <figcaption>Weights 35/25/15/10/15 give a weighted index of 109.2, against a plain average of 108.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--08-un227-ix-real-gdp.webp" width="900" height="900" alt="Paired bars for years 1 to 3: nominal GDP 800, 860, 930 and real GDP 800.0, 826.9, 845.5 in year 1 prices. Nominal growth is 7.5% and 8.1%; real growth is 3.4% and 2.2%." loading="lazy">
+  <figcaption>Deflating nominal GDP by the price index shows real growth is lower than nominal growth.</figcaption>
+</figure>
+
 
 ## Worked example: matching indicator to objective
 
@@ -75,6 +112,17 @@ Objective threatened: price stability -- higher spending can push
 
 Being able to name a specific policy action, state which objective it advances, and explain the mechanism by which it threatens a second objective is exactly the applied skill 3.2.1.1 tests -- a list of objectives alone does not answer this kind of question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes--03-rate-cut-conflict.webp" width="900" height="1010" alt="Flow chart from a central bank cutting interest rates. One route: spending and aggregate demand rise, giving higher growth and lower unemployment but demand-pull inflation. Other route: relative rates fall, the currency weakens, imports cost more, causing cost-push inflation. Both threaten price stability." loading="lazy">
+  <figcaption>The same rate cut advances growth and jobs while threatening price stability by two routes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+
 ## Calculating an index number
 
 Index numbers let you compare a variable across years relative to a fixed base year, rather than comparing raw values directly.
@@ -90,6 +138,12 @@ Interpretation: prices have risen by 15% relative to the base year.
 ```
 
 Practise this calculation directly rather than only reciting the definition, since exam questions frequently ask for the index value itself, not just an explanation of what an index number is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes--01-index-120-138.webp" width="900" height="900" alt="Two pairs of bars of the same shape. Left: a basket costs 120 pounds in the base year and 138 pounds three years later. Right: after dividing by 120 and multiplying by 100 the bars read 100 and 115. The 15 extra points mean prices are 15 percent higher than in the base year." loading="lazy">
+  <figcaption>Dividing by the base-year value and multiplying by 100 turns 138 into an index of 115.</figcaption>
+</figure>
+
 
 ## Key terms
 

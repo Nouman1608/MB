@@ -104,6 +104,12 @@ structure because resolving very small distances requires very short
 associated wavelengths (via the de Broglie relation), which correspond to
 high particle momentum and energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--01-aphy-quantum-alpha-scattering.webp" width="900" height="1160" alt="Twelve alpha-particle tracks computed from inverse-square repulsion by one small positive nucleus. Distant tracks barely bend, closer ones turn through large angles and the closest is turned back. This shows the atom is mostly empty space with a small, massive, positively charged nucleus." loading="lazy">
+  <figcaption>Alpha tracks bend or rebound because of a tiny, massive, positive nucleus.</figcaption>
+</figure>
+
+
 ## Mass-energy equivalence and antimatter
 
 **Mass-energy equivalence** governs the creation and annihilation of
@@ -151,6 +157,17 @@ Total energy released: ΔE = c²Δm = (3.00 × 10⁸)² × 1.822 × 10⁻³⁰
 Since two identical photons share this energy equally, each photon has
 energy = 1.640 × 10⁻¹³ / 2 = **8.20 × 10⁻¹⁴ J** (about 0.51 MeV, the
 well-known electron rest-mass energy).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--04-aphy-quantum-quarks.webp" width="900" height="1130" alt="Four cards give the quark make-up of the proton (uud), neutron (udd), positive pion (u d-bar) and positive kaon (u s-bar), with the charges adding to +1, 0, +1 and +1. Baryons have three quarks, mesons a quark and an antiquark; leptons such as the electron and neutrino are not made of quarks." loading="lazy">
+  <figcaption>The charges of the quarks add up to the charge of each hadron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
 
 ## Common mistakes
 

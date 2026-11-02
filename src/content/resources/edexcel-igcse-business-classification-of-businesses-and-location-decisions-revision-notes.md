@@ -51,6 +51,22 @@ Method in steps for a sector-share question:
 3. Multiply by 100 and check the shares add to 100%.
 4. Say what the biggest share means for the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--01-riverside-sector-shares.webp" width="900" height="660" alt="One bar of 500,000 pounds of sales revenue is split into forestry (primary) 24%, sawmill (secondary) 60% and delivery (tertiary) 16%. The shares add to 100%. Most revenue is secondary, so a fall in plank demand hurts most." loading="lazy">
+  <figcaption>Riverside Timber earns 60% of its revenue from the secondary sector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--08-bakery-three-sectors.webp" width="900" height="816" alt="One bakery grows wheat (primary), mills flour (secondary) and sells bread (tertiary). Classify the activity, not the whole business." loading="lazy">
+  <figcaption>A single bakery can span all three economic sectors.</figcaption>
+</figure>
+
+
 ## 2. Location factors at a glance (1.4.1)
 
 | Factor | Why it can pull a business towards a site | Why it can push it away |
@@ -79,6 +95,17 @@ Use this guide to get started, then check it against the case.
 
 These are tendencies, not rules. A bulky product with a very small customer base may be driven by the market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--02-thornfield-two-sites.webp" width="900" height="1032" alt="Paired bars compare yearly materials, rent, wages and transport at a city-centre Site A and a smaller-town Site B. Total costs are 285,400 and 268,000 pounds, giving profits of 24,600 and 17,000 pounds. Site A earns 7,600 pounds more." loading="lazy">
+  <figcaption>Site B has lower rent and wages, but Site A still earns 7,600 pounds more profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--13-service-location-map.webp" width="900" height="886" alt="Street map: customers walking past give footfall, a rival can take sales or draw shoppers, staff live nearby, parking and public transport help access, rent and rates are high in busy centres. Online services depend little on customer location." loading="lazy">
+  <figcaption>The location factors a service business weighs.</figcaption>
+</figure>
+
+
 ## 3. The internet and location (1.4.1)
 
 - **E-commerce** is buying and selling online.
@@ -89,6 +116,22 @@ These are tendencies, not rules. A bulky product with a very small customer base
 
 Quick reminder calculation: a business ships 9,000 online orders at £3.20 delivery each. Delivery cost = 9,000 x 3.20 = £28,800.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--03-leaf-lane-online-or-shop.webp" width="900" height="946" alt="Two stacked columns show Leaf Lane location costs. Online totals 66,600 pounds (3.70 per order) from warehouse rent, website and delivery. A shop totals 78,000 pounds (4.33 per order) from rent, utilities and staff. Online is 11,400 pounds cheaper." loading="lazy">
+  <figcaption>Online costs 11,400 pounds less a year in these location-related costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## 4. Legal controls and trade blocs (1.4.1)
 
 - **Legal controls**: rules that limit where or how a business may operate (use of land, noise, pollution, safety). Effects: a site may be unavailable, costs may rise, or a firm may be pushed away from housing. Describe the effect. Do not invent a statute.
@@ -96,6 +139,17 @@ Quick reminder calculation: a business ships 9,000 online orders at £3.20 deliv
 - Reminder calculation: a 10% tariff on £80,000 of imports = 0.10 x 80,000 = £8,000.
 
 Compare the cost of locating inside and outside a bloc by adding the tariff to the outside cost, then comparing totals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--04-tarn-tariff-or-local.webp" width="900" height="810" alt="Two bars compare 1,500 bikes made outside a trade bloc at 220 pounds each plus a 15% tariff (379,500 pounds) with making them inside at 228 pounds each (342,000 pounds). Inside saves 37,500 pounds." loading="lazy">
+  <figcaption>A 15% tariff makes the cheaper-to-make bikes dearer than producing inside the bloc.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--14-legal-controls-on-sites.webp" width="900" height="861" alt="Five controls with their effect: land-use limits can block a site, permission causes delay, environmental rules can block or add cost, safety, employment and building standards add cost, incentives attract." loading="lazy">
+  <figcaption>Legal controls can block, delay, cost or attract.</figcaption>
+</figure>
+
 
 ## 5. Relocation (1.4.1)
 
@@ -114,6 +168,17 @@ Method for a relocation decision:
 3. Compare the one-off cost with the annual net saving: one-off cost / annual net saving = years to recover.
 4. Weigh the non-financial effects (staff, customers, risk).
 5. Make a decision and give a reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--05-brightway-relocation-payback.webp" width="900" height="870" alt="A line graph starts at minus 60,000 pounds, the cost of the move, and rises by 18,000 pounds a year, the net saving. It crosses zero at 3.33 years." loading="lazy">
+  <figcaption>The 60,000 pound move pays back after 3.33 years of 18,000 pound net savings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--15-relocation-costs-risks.webp" width="900" height="820" alt="Five reasons to move (too small, costs rise, customers or suppliers move, lease ends, better labour or market access) and four costs and risks: moving expenses, disrupted production, staff who will not move, customers who cannot find the new site." loading="lazy">
+  <figcaption>Why a business relocates and what the move can cost.</figcaption>
+</figure>
+
 
 ## Command words for this topic
 

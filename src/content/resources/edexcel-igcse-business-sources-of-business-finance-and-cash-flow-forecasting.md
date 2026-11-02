@@ -51,6 +51,17 @@ Finance is also needed **to start up** (premises, equipment, first stock, before
 
 When you choose a source, choose finance that lasts as long as the need it pays for. An overdraft the bank can recall is a risky way to pay for a machine that lasts ten years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--01-finance-three-uses.webp" width="900" height="990" alt="Three rows: finance is used to start up, to keep running and to grow or change. A line chart over eight weeks with illustrative numbers shows a late-paying customer in weeks 4 to 6: the business with access to funds stays above zero, the one without goes below zero and cannot pay." loading="lazy">
+  <figcaption>Finance starts, runs and grows a business, and lets it ride out a bad spell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--06-match-need-to-term.webp" width="900" height="975" alt="A time scale in years shows a short-term need lasting often under a year and a long-term need lasting several years or more. A 10-year machine funded by a recallable overdraft is marked wrong, while a long-term loan or equity covers it. Short need, short-term source; long need, long-term source." loading="lazy">
+  <figcaption>Match the length of the finance to the length of the need.</figcaption>
+</figure>
+
+
 ## 2. Internal sources of finance (3.1.2)
 
 Internal finance comes from inside the business or from its owner.
@@ -58,6 +69,12 @@ Internal finance comes from inside the business or from its owner.
 - **Personal savings.** The owner puts in their own money. There is no interest to pay and no outsider gets a say, but the amount is limited, and the owner risks losing their own money if the business fails. Common at start-up.
 - **Retained profit.** Profit kept inside the business for reinvestment, once tax and any owners' withdrawals or dividends have been taken out. It costs nothing to borrow, but a new business has no past profit to retain, and keeping profit in means owners or shareholders receive less now.
 - **Selling assets.** The business sells something it owns, such as spare land or a machine it no longer uses, to raise cash. It can be quick and has no interest. The business loses the asset, which may harm output, and the price may disappoint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-retained-profit-funding.webp" width="900" height="920" alt="Waterfall chart in dollars: profit before tax 58,000, tax 11,600, dividends 20,000 leaves retained profit 26,400. Ten e-bikes cost 40,000, so there is a gap of 13,600 and retained profit covers 66 percent." loading="lazy">
+  <figcaption>Retained profit is what is left after tax and dividends, and it may not cover the whole purchase.</figcaption>
+</figure>
+
 
 ## 3. External sources of finance (3.1.3)
 
@@ -83,6 +100,27 @@ Hana Candles is a two-person business. It needs 3,000 to cover materials for a b
 
 For the first need, a short-term one, an overdraft or longer payment terms with suppliers fit: the money is needed briefly and repaid when customers pay. For the second, a long-term and expansion need, a bank loan repaid over several years fits better, possibly alongside retained profit saved up beforehand. Share capital would dilute the owners' control, and crowdfunding is uncertain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--01-g59-sources-map.webp" width="900" height="1060" alt="The business is a tall box in the middle. Three internal sources point in from the left: personal savings, retained profit and selling assets. Seven external sources point in from the right: overdraft and trade payables (short-term), loan capital (long-term), share capital (companies only), flotation (plc only), venture capital and crowdfunding." loading="lazy">
+  <figcaption>All ten sources in specification 3.1.2 and 3.1.3, inside and outside the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--02-g59-hana-match.webp" width="900" height="1020" alt="A timeline: a small 3,000 need now for November materials, repaid when customers pay, suits an overdraft or longer supplier terms. A 40,000 workshop in two years suits a bank loan plus retained profit saved up. Share capital and crowdfunding are not chosen. Bar heights are to scale." loading="lazy">
+  <figcaption>Match each of Hana Candles needs to a source that lasts as long as the need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-share-issue-ownership.webp" width="900" height="840" alt="Before the issue the founder holds all 60,000 shares. After 20,000 new shares are issued at 5 dollars there are 80,000 shares: the founder holds 75 percent and investors 25 percent. The business gains 100,000 dollars that never has to be repaid." loading="lazy">
+  <figcaption>Issuing shares raises money that is never repaid but gives away part of the ownership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--03-bf-venture-capital.webp" width="900" height="840" alt="Four equal quarters of 200,000 pounds. The investor holds one quarter (25%), so the whole business is valued at 200,000 / 0.25 = 800,000 pounds." loading="lazy">
+  <figcaption>Paying 200,000 pounds for 25% values the business at 800,000 pounds.</figcaption>
+</figure>
+
+
 ## 4. Why cash matters (3.2.1)
 
 **Cash** means the money the business actually has, in the till and the bank. It is used:
@@ -102,6 +140,17 @@ Worked contrast. A workshop sells goods for 4,000 on credit this month, and the 
 Other causes of the gap: a machine bought for 6,000 reduces cash by 6,000 at once, while its cost to profit is spread over its life; a loan received increases cash but is not profit; late-paying customers and unsold bulk inventory tie up cash.
 
 A business can therefore make a profit and run out of cash, or make a loss and still have a healthy bank balance for a while, for example after selling an asset.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--03-g59-profit-vs-cash.webp" width="900" height="1040" alt="A sale of 4,000 on credit with goods costing 2,500 paid in cash gives profit of plus 1,500 but a cash movement of minus 2,500 this month, because the customer has not paid." loading="lazy">
+  <figcaption>The same sale gives +1,500 profit but -2,500 cash this month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--10-vellam-profit-cash.webp" width="900" height="934" alt="Bars show Vellam Bikes profit of 9,000 but cash change of minus 18,000, taking cash from 20,000 to 2,000." loading="lazy">
+  <figcaption>A profitable quarter can still drain cash.</figcaption>
+</figure>
+
 
 ## 6. Building a cash-flow forecast (3.2.2)
 
@@ -135,6 +184,17 @@ Rosewood begins January with 4,000. Its forecast for three months is below (all 
 
 January: outflows 3,200 + 2,800 + 1,200 = 7,200; net = 9,000 - 7,200 = 1,800; closing = 4,000 + 1,800 = 5,800, which becomes February's opening balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--04-g59-rosewood-chain.webp" width="900" height="980" alt="Horizontal bars follow Rosewood cash from 4,000: January closes at 5,800, February at 6,300 and March at 9,200, each closing balance becoming the next opening balance." loading="lazy">
+  <figcaption>Closing balance = opening + inflows - outflows, and it carries forward as next month opening.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--11-forecast-fill-order.webp" width="900" height="940" alt="A May and June forecast table with the lesson's eight steps numbered: months across the top, opening balance, inflows, outflows, add up, net cash flow, closing balance, and copying the closing balance to the next opening. May closes at 2,800 and June at 3,100. A May credit sale paid in June is June cash in; depreciation is not cash." loading="lazy">
+  <figcaption>The order in which a cash-flow forecast table is completed.</figcaption>
+</figure>
+
+
 ## 7. Interpreting a forecast (3.2.2)
 
 Interpretation means using the figures to say something about the business.
@@ -144,6 +204,12 @@ Interpretation means using the figures to say something about the business.
 3. **Spot timing problems.** A large outflow early and a large inflow late is a warning sign.
 4. **Suggest actions.** For a forecast shortfall: arrange an overdraft, ask suppliers for longer payment terms, delay a purchase, encourage customers to pay sooner, or sell a spare asset. For surplus cash: repay a loan or invest in expansion.
 5. **Remember it is a forecast.** Sales may fall short or costs may rise, so actual cash can differ. It helps planning, but it is only as reliable as its assumptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--05-g59-feb-loan.webp" width="900" height="960" alt="Inflows of 13,500 are 8,500 sales plus a 5,000 loan; outflows of 13,000 include 6,000 equipment. Net cash flow is +500, but would be -4,500 without the loan, so the equipment causes the dip." loading="lazy">
+  <figcaption>February net flow is low because of the 6,000 equipment; the loan hides it.</figcaption>
+</figure>
+
 
 ## Common errors
 

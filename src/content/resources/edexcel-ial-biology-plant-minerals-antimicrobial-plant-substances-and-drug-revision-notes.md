@@ -46,6 +46,17 @@ Percentage reduction = (control − treatment) / control × 100.
 
 Why dry mass? Fresh mass changes with water content. Dry mass measures the biological material made.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--04-aba-stomata.webp" width="900" height="1100" alt="A guard cell: ABA binds a receptor, K+ and Cl- ions leave, guard cell water potential rises so water leaves by osmosis, turgor falls and the pore closes. An open stoma lets CO2 in and water out; a closed one reduces both." loading="lazy">
+  <figcaption>ABA triggers ion loss, then water loss, so guard cells go flaccid and the stoma closes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--08-mineral-deficiencies.webp" width="900" height="1080" alt="Seedlings in water culture: complete solution is healthy; no nitrate yellows older leaves; no magnesium causes yellowing between veins; no calcium kills young tips. Dry mass was 1.84 g (complete) and 0.92, 1.31, 1.12 g, which is 50.0, 28.8 and 39.1 percent less." loading="lazy">
+  <figcaption>Missing nitrate, magnesium or calcium reduces growth, nitrate most.</figcaption>
+</figure>
+
+
 ## 4.9 Core Practical 8: tensile strength
 
 | Quantity | Equation | Unit |
@@ -82,6 +93,17 @@ Binary fission: N = N₀ × 2ⁿ.
 
 *Reminder:* 1 cell, generation time 20 min, 3 hours. n = 180 / 20 = 9. N = 2⁹ = **512**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--03-iaa-root-growth.webp" width="900" height="980" alt="Five roots hang from agar. Growth was 14.0 mm with no IAA and 15.4 mm at the lowest IAA (+10.0 percent), then 12.6, 8.4 and 4.2 mm (-10.0, -40.0 and -70.0 percent) as IAA rose." loading="lazy">
+  <figcaption>Low IAA slightly stimulates root growth, higher IAA inhibits it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--05-apical-dominance.webp" width="900" height="1000" alt="Five pea plants: apex intact gives a 3 mm lateral shoot; apex cut with plain lanolin 40 mm; with 0.01, 0.1 and 1.0 percent IAA 29, 12 and 4 mm, which is 27.5, 70 and 90 percent less than the control." loading="lazy">
+  <figcaption>More IAA on the cut stump means less lateral growth, replacing the apex.</figcaption>
+</figure>
+
+
 ## 4.11 Plant substances
 
 | Plant | Substance | Effect or use |
@@ -95,6 +117,12 @@ Binary fission: N = N₀ × 2ⁿ.
 | Garlic | Allicin | Antimicrobial in laboratory tests |
 
 Plants make these for defence. Biodiversity may hide further useful compounds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--06-gibberellin-germination.webp" width="900" height="1150" alt="A barley grain in section: water enters, the embryo makes gibberellin, the aleurone layer makes amylase, starch is broken down to maltose then glucose which feeds the embryo. Starch-agar dishes show no clear zone without gibberellin, a large zone with it and a smaller zone when ABA is added." loading="lazy">
+  <figcaption>Gibberellin switches on amylase, which digests stored starch for the embryo.</figcaption>
+</figure>
+
 
 ## 4.12 Core Practical 9: antimicrobial plants
 
@@ -117,6 +145,12 @@ Method in steps:
 *Reminder:* disc 6 mm, zone 16 mm across. Total area = π × 8² = 201 mm². Disc = 28.3 mm². Zone beyond the disc = **173 mm²**.
 
 Variables to hold constant: disc size, extract volume and concentration, agar depth, bacterial density, incubation time and temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--09-antimicrobial-zones.webp" width="900" height="1200" alt="A bacterial lawn with 6 mm discs: extract A gives a 14 mm clear zone, B 10 mm, solvent-only gives none and a known antibiotic gives a zone. Inhibited area is 126 mm2 for A and 50 mm2 for B: diameter 1.4 times larger, area 2.5 times larger." loading="lazy">
+  <figcaption>Compare inhibited areas, not diameters.</figcaption>
+</figure>
+
 
 ## 4.13 Drug testing
 

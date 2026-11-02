@@ -140,6 +140,17 @@ determining turning points (maxima and minima) by calculus
 and range; finding the inverse function f⁻¹(x); forming the composite
 function gf(x) = g(f(x))
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+
+
 ## Worked examples
 
 **Solving a quadratic by factorisation (Extended).** Solve x² + 5x + 6 = 0.
@@ -210,6 +221,27 @@ For more practice, use the
 the [Extended algebra practice](/resources/igcse-mathematics-algebra-extended-practice/)
 and the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--07-gradient-turning-points.webp" width="900" height="980" alt="The curve y = x cubed minus 12x has a maximum at (minus 2, 16) and a minimum at (2, minus 16), where the tangent is flat and the gradient is 0. At x = 3 the tangent has gradient 15. The gradient is positive, negative, positive across the three sections." loading="lazy">
+  <figcaption>Turning points are where the gradient dy/dx is zero.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Treat C2.2 (algebraic manipulation) as the foundation to fix before
@@ -237,6 +269,12 @@ and asymptotes as well. Function notation (Extended, E2.13) trips
 students up mostly through notation, not difficulty — practise
 translating f(x) = ... into "substitute x" before attempting fg(x) or
 f⁻¹(x) composite questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

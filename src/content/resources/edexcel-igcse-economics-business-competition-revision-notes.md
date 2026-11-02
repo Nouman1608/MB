@@ -36,10 +36,22 @@ Five headings to use every time: efficiency, choice, quality, innovation, price.
 
 Who is affected: consumers (price, choice, quality), firms (profit squeezed, risk of closure), economy (output, jobs, living standards).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--06-igcse-takeover-market-share.webp" width="900" height="870" alt="A bread market of 400,000 loaves: A has 45%, B 15%, others 40%. After A takes over B, A has 60%, which may worry a regulator." loading="lazy">
+  <figcaption>A takeover can lift market share and so control over price.</figcaption>
+</figure>
+
+
 ## Large and small firms (point b)
 
 - Large: economies of scale, finance, advertising, market power. Risks: slow communication, diseconomies of scale, less competition.
 - Small: flexible, personal service, quick decisions. Risks: higher unit cost, harder to borrow, less able to spread risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--08-igcse-small-vs-large-unit-cost.webp" width="900" height="850" alt="Small bakery average cost 1.50 (3,000 / 2,000); large bakery 1.10 (22,000 / 20,000), a fall of 0.40 or 26.7%. A price between the two lets the large firm profit while the small one loses." loading="lazy">
+  <figcaption>Economies of scale let a large firm undercut a small one.</figcaption>
+</figure>
+
 
 ## Growth and staying small (points c, d)
 
@@ -99,6 +111,27 @@ Features: one dominant business, unique product, price-maker, barriers to entry.
 3. State the possible gain: economies of scale, funded innovation.
 4. Judge: it depends on whether savings are passed on and whether the barriers last.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--07-igcse-bus-merger-monopoly.webp" width="900" height="1000" alt="Five bus firms merge: fare 4.00 to 5.00, trips 50,000 to 42,000, cost per trip 3.60 to 3.00 and profit 20,000 to 84,000. The firm gains and passengers lose." loading="lazy">
+  <figcaption>Merging to monopoly raises profit but also fares, and cuts trips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--01-un185-barriers-to-entry.webp" width="900" height="820" alt="A new firm is blocked by a wall of five barriers: legal rights and licences, patents, marketing budgets, special technology and high start-up costs. Behind the wall sits a monopoly firm that is a price-maker." loading="lazy">
+  <figcaption>The five barriers to entry that protect a monopoly from new rivals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--02-un185-patent-payback.webp" width="900" height="900" alt="Cumulative profit rises by 120,000 a year (15 per pack on 8,000 packs). The bar for year 5 reaches the 600,000 research cost, so payback takes 5 years." loading="lazy">
+  <figcaption>Cumulative patent profit reaches the 600,000 research cost in year 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
+
 ## Oligopoly (points h, i, j)
 
 **Definition:** a market where a few large firms supply most of the output.
@@ -117,6 +150,12 @@ Features: few firms, large firms dominate, different products, barriers to entry
 - Advantages of oligopoly: choice, quality and innovation from competing brands and large profits.
 
 **Small reminder.** Firms each earn (8 - 5) x 4,000 = 12,000 at a price of 8 and cost of 5. A cartel lifting price to 10 and cutting sales to 3,000 each gives (10 - 5) x 3,000 = 15,000. Profit rises by 3,000 each, although sales fall 25%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--05-igcse-cartel-price-war.webp" width="900" height="940" alt="Profit per firm is 30,000 under normal rivalry, 40,000 when a cartel holds, 48,000 for a cheater (30,000 for the others) and 12,000 in a price war. Cheating beats the cartel, so cartels break down." loading="lazy">
+  <figcaption>Cheating on a cartel pays, which leads to a price war.</figcaption>
+</figure>
+
 
 ## Evaluation checklist
 

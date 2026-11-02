@@ -56,6 +56,12 @@ Quick recall for sections 3.1 Introduction to finance and 3.2 Sources of finance
 
 Small example: Mossby Signs buys a cutting machine for USD 12,000 and a large-format printer for USD 3,500, then spends USD 900 on vinyl and USD 450 on a service for an older machine. Capital is 12,000 + 3,500 = USD 15,500. Revenue is 900 + 450 = USD 1,350.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--01-capital-vs-revenue-spending.webp" width="900" height="990" alt="Bars for Plumleigh Print Works spending. Capital: printing press 18,500 and loading ramp 4,900, total 23,400. Revenue: ink and paper 2,340, repair 760 and wages 6,200, total 9,300. Overall 32,700 dollars." loading="lazy">
+  <figcaption>Spending that lasts years is capital; spending used up this year is revenue, including repairs that only restore working order.</figcaption>
+</figure>
+
+
 ## 3.2 sources at a glance
 
 ### Internal
@@ -79,6 +85,22 @@ Small example: Mossby Signs buys a cutting machine for USD 12,000 and a large-fo
 | Microfinance providers | Short to medium | Small loans for those refused by banks | Small amounts, costly interest |
 | Business angels | Long | Funds plus advice and contacts | Gives up ownership and some control |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--03-choosing-source-factors.webp" width="900" height="880" alt="Five stacked rows with icons: purpose and term, amount needed, cost, control and risk, and the business itself, each with a short note from the lesson. A final bar says to recommend one source with a reason." loading="lazy">
+  <figcaption>Work through five factors, then recommend one source and say which factor decides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Internal versus external: the question is where the money comes from, not how long it lasts.
@@ -87,6 +109,17 @@ Small example: Mossby Signs buys a cutting machine for USD 12,000 and a large-fo
 - Leasing versus buying: leasing spreads the cost and avoids a big payment. Buying costs more at first and gives ownership.
 - Crowdfunding versus business angel: many small contributors online versus one wealthy individual who usually wants a share and takes an interest.
 - Profit versus retained profit: retained profit is what remains after tax and dividends, and it is not necessarily held as cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-retained-profit-funding.webp" width="900" height="920" alt="Waterfall chart in dollars: profit before tax 58,000, tax 11,600, dividends 20,000 leaves retained profit 26,400. Ten e-bikes cost 40,000, so there is a gap of 13,600 and retained profit covers 66 percent." loading="lazy">
+  <figcaption>Retained profit is what is left after tax and dividends, and it may not cover the whole purchase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-share-issue-ownership.webp" width="900" height="840" alt="Before the issue the founder holds all 60,000 shares. After 20,000 new shares are issued at 5 dollars there are 80,000 shares: the founder holds 75 percent and investors 25 percent. The business gains 100,000 dollars that never has to be repaid." loading="lazy">
+  <figcaption>Issuing shares raises money that is never repaid but gives away part of the ownership.</figcaption>
+</figure>
+
 
 ## Matching source to situation (AO3)
 
@@ -154,6 +187,12 @@ Use the glossary meanings from the guide.
 8. Loan: interest 7,000 x 0.06 x 3 = 1,260, so total USD 8,260. Lease: 250 x 36 = USD 9,000. The lease costs USD 740 more and gives no ownership unless the contract says so.
 9. A building lasts for decades but an overdraft is short-term, flexible and can be recalled, so repayment would not match the benefit.
 10. Without collateral or a trading record a bank may refuse. An angel may accept the risk, and may add experience and contacts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--03-match-finance-to-asset.webp" width="900" height="820" alt="Four-year timeline. The e-bikes earn revenue for four years. A four-year bank loan of 13,600 at 9 percent simple interest costs 4,896 interest, 18,496 in total, 4,624 a year. An overdraft is short-term and can be called in, a poor match." loading="lazy">
+  <figcaption>Match the term of the finance to the life of the asset: the loan suits bikes that earn for years, the overdraft does not.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

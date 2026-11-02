@@ -41,6 +41,12 @@ Short-form notes on 3.3.4 item 4 and 3.3.5 item 2 of the Pearson Edexcel Interna
 | Corporation tax | Tax on company profits |
 | Pay gap | (Pay of group A - pay of group B) / pay of group A x 100 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--02-occupational-immobility.webp" width="900" height="940" alt="Of 12,000 jobs lost only 2,500 workers have the skills for the 9,000 new vacancies, so 9,500 stay unemployed and 6,500 vacancies stay unfilled. Unemployment rises from 5.0% to 7.4% of a 400,000 labour force." loading="lazy">
+  <figcaption>A skills mismatch leaves vacancies and unemployment side by side.</figcaption>
+</figure>
+
+
 ## Causes and consequences at a glance
 
 | | Geographical | Occupational |
@@ -86,6 +92,22 @@ Wage bill: 8.00 x 500 = 4,000 rises to 8.80 x 470 = 4,136 (+3.4%)
 ```
 Inelastic demand means the wage bill rises; elastic demand means it falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--03-wage-floor-and-cap.webp" width="900" height="950" alt="Labour demand w = 20 - L and supply w = 2 + L meet at 9 thousand workers and a wage of 11. A floor of 13 leaves 4 thousand unemployed (demand 7, supply 11) and cuts the wage bill from 99 to 91. A cap of 8 gives a shortage of 6 thousand (demand 12, supply 6)." loading="lazy">
+  <figcaption>A wage floor above equilibrium creates unemployment and a cap below it creates a shortage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--04-monopsony-minimum-wage.webp" width="900" height="950" alt="A single employer sets MRP = MC at 6 thousand workers and pays 8, which is 6 below MRP of 14. A minimum wage of 10 raises employment to 8 thousand; at 12 employment is 8 with 2 thousand unemployed." loading="lazy">
+  <figcaption>Within a range, a minimum wage under monopsony raises both pay and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## Monopsony reminder
 
 A small fictional town has one large employer. Marginal revenue product is w = 14 - L and supply is w = 2 + L (L in hundreds of workers, w per hour).
@@ -121,6 +143,22 @@ For example: a floor raises pay for those in work (mechanism), but if demand for
 
 Evaluate through elasticities, the share of the tax passed to workers, the time lag, and what the government does with the revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--05-nics-labour-cost.webp" width="900" height="920" alt="A wage of 12.00 with a 10% employer contribution costs the employer 13.20 and, with demand elasticity -0.6, cuts jobs by 6% from 200 to 188. An 8% employee contribution leaves take-home pay of 11.04." loading="lazy">
+  <figcaption>Employer contributions raise the cost of labour and shift demand left; employee contributions cut take-home pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--10-corporation-tax-cut.webp" width="900" height="780" alt="A 400,000 profit pays 100,000 tax at 25 percent, leaving 300,000. At 20 percent it pays 80,000, leaving 320,000: 20,000 more (6.7 percent) but less tax revenue." loading="lazy">
+  <figcaption>A lower rate leaves firms 20,000 more but costs the government revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+
 ## Measures to reduce immobility: method
 
 1. Name the measure (housing, grants, transport, training, apprenticeships, information).
@@ -143,6 +181,12 @@ Geographical check: pay gap 22,500 - 18,000 = 4,500 (25.0%); less extra housing 
 - Evaluation: hard to enforce, hidden discrimination, compliance cost; differences in hours or experience can explain part of a gap.
 
 **Worked reminder.** Mean pay 22.00 against 19.80: gap = 2.20 / 22.00 = 10.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--12-pay-gap-calculation.webp" width="900" height="730" alt="Mean hourly pay is 15.00 for one group and 13.20 for another. The gap of 1.80 is 12.0 percent of 15.00. A gap alone does not prove discrimination; hours, experience and occupation also matter." loading="lazy">
+  <figcaption>A pay gap of 12.0% is a starting point, not proof of discrimination.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -180,6 +224,12 @@ Geographical check: pay gap 22,500 - 18,000 = 4,500 (25.0%); less extra housing 
 10. Enforcement is costly and discrimination can be hidden.
 11. (Pay of one group - pay of the other) / pay of the first group x 100.
 12. Trained workers can be poached by rivals, so the firm cannot capture all the benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--11-retraining-payback.webp" width="900" height="940" alt="1,000 workers are retrained for 6.0 million; 600 find jobs and 400 do not. Each job saves 4,000 benefits and pays 2,800 tax, so the yearly gain is 4.08 million and the cost is repaid in 1.47 years." loading="lazy">
+  <figcaption>The scheme repays its cost in about 1.5 years, but 400 workers gain nothing.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

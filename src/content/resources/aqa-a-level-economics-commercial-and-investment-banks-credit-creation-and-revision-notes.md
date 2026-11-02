@@ -49,6 +49,12 @@ Related pages: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), 
 - Create credit.
 - Maturity transformation: turn short-term deposits into long-term loans.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Balance sheet reminder
 
 Bank L (invented, £m): liquid assets 30, loans 170, so assets are 200. Deposits are 176. Capital is the balancing item: 200 − 176 = 24.
@@ -56,6 +62,12 @@ Bank L (invented, £m): liquid assets 30, loans 170, so assets are 200. Deposits
 - Losses reduce assets, and the whole loss falls on capital first.
 - Capital of 24 is wiped out if assets fall by 24, which is 24 ÷ 200 = 12% of assets.
 - Loans are assets. Deposits are liabilities. Never swap them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--11-bank-balance-sheet.webp" width="900" height="1070" alt="Stacked columns: assets 500 (cash 25, bank loans 45, government bonds 70, mortgages 240, firm loans 110, other 10) equal liabilities 460 plus capital 40." loading="lazy">
+  <figcaption>Assets equal liabilities plus capital; deposits are liabilities.</figcaption>
+</figure>
+
 
 ## Objectives and conflicts
 
@@ -70,6 +82,12 @@ Bank managers balance these by holding a spread of assets: cash, short-term lend
 **Asset ladder for a commercial bank** (from most liquid and lowest return to least liquid and highest return): cash and central bank balances, short-term lending to other banks, government bonds, then loans to households and firms. Moving down the ladder raises expected profit and lowers liquidity. Riskier borrowers sit at the bottom.
 
 **Worked reminder.** Bank L moves 20 from loans yielding 5% into bonds yielding 2%. Income falls by 20 × (0.05 − 0.02) = 0.6. Its liquidity rises. Its profitability falls, and so does its exposure to defaults.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--01-liquidity-vs-profit.webp" width="900" height="840" alt="Two stacked bars show Bank J before and after moving £40m from firm loans (6%) into government bonds (2%). Net interest falls from £10.15m to £8.55m, a drop of £1.6m = 40 × (6% − 2%). Liquidity and security rise while profit falls." loading="lazy">
+  <figcaption>Moving money into safer, more liquid assets improves liquidity and security but cuts profit.</figcaption>
+</figure>
+
 
 ## Credit creation: method in steps
 
@@ -90,6 +108,17 @@ Banks that run both retail and investment activity are bigger and more complex.
 
 **Why combined banks worry regulators.** The activities share one balance sheet and one brand. A loss in trading can spread to the deposit-taking side, so ordinary savers and the payment system are exposed. This is why a combined bank can be seen as too important to fail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--12-credit-creation-chain.webp" width="900" height="1010" alt="A deposit of 600 with 25% kept liquid passes 450, 337.5 and 253.1 down the chain; deposits total 1,640.6 after four rounds, heading to 2,400." loading="lazy">
+  <figcaption>Each loan creates a new deposit, but each round is smaller.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--02-commercial-vs-investment.webp" width="900" height="920" alt="Two columns compare a commercial bank (households and firms; deposits, loans, payments; interest and charges) with an investment bank (large firms, governments, institutions; mergers advice, issuing shares and bonds, trading; fees and trading gains). A chain below shows trading losses putting savers deposits at risk and creating pressure to rescue the bank." loading="lazy">
+  <figcaption>Commercial and investment banks serve different customers and earn in different ways; combining them can raise systemic risk.</figcaption>
+</figure>
+
+
 ## UK regulation
 
 | Body | Remember it as |
@@ -100,6 +129,12 @@ Banks that run both retail and investment activity are bigger and more complex.
 | FCA | Conduct: fair treatment of customers and honest markets |
 
 An in-depth knowledge of these bodies is not expected. Link each to financial stability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--03-uk-regulators.webp" width="900" height="880" alt="The Bank of England houses the PRA, which asks whether each firm is safe, and the FPC, which asks whether the whole system is safe. The FCA, drawn separately, looks at how firms treat customers." loading="lazy">
+  <figcaption>The PRA looks at each firm, the FPC at the whole system and the FCA at conduct.</figcaption>
+</figure>
+
 
 ## Why banks fail
 
@@ -113,15 +148,43 @@ An in-depth knowledge of these bodies is not expected. Link each to financial st
 
 **Ratios.** A liquidity ratio compares liquid assets with short-term liabilities. A capital ratio compares capital with assets. Higher ratios make failure less likely. They also reduce profit and lending. Neither is calculated in the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--13-run-on-bank-illiquid.webp" width="900" height="870" alt="Liquid assets of 140 face demands of 155 (95 withdrawals plus 60 not renewed), a shortfall of 15; selling 40 of mortgages at 85% yields 34 and loses 6." loading="lazy">
+  <figcaption>An illiquid bank cannot meet payments as they fall due.</figcaption>
+</figure>
+
+
 ## Moral hazard: reminder
 
 A bank can take a 50% chance of a gain of 8 or a 50% chance of a loss of 10. Expected value without a rescue: 0.5 × 8 + 0.5 × (−10) = −1. The bank would not take it. If a rescue covers losses, the bank's expected value is 0.5 × 8 = 4, so it takes the gamble. The expected cost to the rescuer is 0.5 × 10 = 5. The bank gains, society pays.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--15-moral-hazard-gamble.webp" width="900" height="850" alt="Expected return: safe 3.0m, risky 1.2m if the bank bears losses, 7.2m if rescued; taxpayer expected cost 6.0m." loading="lazy">
+  <figcaption>With a rescue the bank gambles and others bear the cost.</figcaption>
+</figure>
+
 
 ## Systemic risk and the real economy
 
 Chain: bank losses → lower capital and confidence → credit crunch → lower investment and consumption → lower aggregate demand → lower output and higher unemployment → more loan defaults → weaker banks.
 
 For evaluation: strength of bank capital, speed of regulatory and government response, alternative sources of finance, and the return of confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--14-capital-losses-contagion.webp" width="900" height="1000" alt="Loan losses of 15.8 leave Bank J with 24.2 of capital but take a bank with 10 to minus 5.8 (insolvent); a further 18 loss from Bank K leaves Bank J only 6.2." loading="lazy">
+  <figcaption>Capital is the cushion; one failure can nearly destroy another bank.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and--04-credit-crunch-chain.webp" width="900" height="890" alt="Five steps: banks cut lending (down 8 billion pounds), firms invest 8 billion less, aggregate demand falls by 8 x 1.5 = 12 billion (3.0% of 400 billion), output falls and unemployment rises, and loan defaults rise so banks are weaker, looping back to the start." loading="lazy">
+  <figcaption>A credit crunch can feed through investment and demand to unemployment and back to the banks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
 
 ## Structure for a banking evaluation answer
 

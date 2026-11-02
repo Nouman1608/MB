@@ -71,6 +71,12 @@ Extra cost:       15,200 - 12,000 = 3,200
 
 The deal costs £3,200 more than paying cash, but Treeby keeps £10,000 free at the start. For a young business with little cash, that may be worth it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--03-treeby-hire-purchase.webp" width="900" height="770" alt="Cash price 12,000 pounds against hire purchase of a 2,000 deposit plus 24 payments of 550 (13,200), total 15,200. Extra cost 3,200 pounds; Treeby keeps 10,000 pounds free at the start." loading="lazy">
+  <figcaption>Hire purchase costs £3,200 more in total but needs only £2,000 on day one.</figcaption>
+</figure>
+
+
 ## 3.6.2 Cash flow
 
 **Cash** is the money moving in and out of the business now. **Profit** is revenue minus costs over a period. They are not the same. A firm can sell goods on credit, record the profit at once, and still have no cash until the customer pays. A firm can also have cash in the bank because it took a loan, while making a loss.
@@ -111,6 +117,17 @@ Check January: 14,000 - 15,500 = -1,500, and 6,000 + (-1,500) = 4,500. The balan
 
 To evaluate, match the solution to the cause. A seasonal dip suits an overdraft. A permanent shortage caused by overspending needs lower outflows, not more borrowing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--02-calder-ridge-cash-flow.webp" width="900" height="850" alt="Bars show closing balances of 4,500, 2,500, 1,000 and 5,000 pounds for January to April, with net cash flows of -1,500, -2,000, -1,500 and +4,000. Each closing balance becomes the next opening balance. March leaves only 1,000 pounds." loading="lazy">
+  <figcaption>Closing balance = opening balance + net cash flow, so cash falls to 1,000 pounds in March.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## 3.6.3 Financial terms and calculations
 
 - **Fixed costs** do not change with output in the short run (rent, insurance).
@@ -139,6 +156,12 @@ ARR = 12,000 / 80,000 x 100 = 15%
 
 Compare the ARR with other projects or with the interest rate on borrowing. The figure rests on forecast sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--04-brindle-arr.webp" width="900" height="1010" alt="Returns of 22k, 28k, 30k, 30k and 30k on an 80,000 pound press. Total 140,000, profit 60,000, 12,000 a year, divided by cost 80,000 gives ARR 15%." loading="lazy">
+  <figcaption>ARR divides the average yearly profit by the cost of the investment.</figcaption>
+</figure>
+
+
 ### Break-even
 
 **Break-even output** is the number of units where revenue equals total costs, so profit is zero. The **margin of safety** is actual (or planned) output minus break-even output. You will not be asked to draw a break-even chart or use the break-even formula, but you must interpret a chart and read off values.
@@ -161,6 +184,12 @@ Reading a chart of these lines:
 
 **Value of break-even analysis.** It shows the minimum sales needed, helps a start-up decide if a plan is realistic, supports loan applications and shows the effect of price or cost changes. Limits: it assumes everything produced is sold, that price and variable cost per unit stay constant, and it uses forecasts. It ignores demand and cash timing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--01-hobson-break-even.webp" width="900" height="930" alt="Break-even chart for Hobson Jam Co. Revenue rises 5 pounds a jar, total costs start at 6,000 pounds fixed and rise 2 pounds a jar. They cross at 2,000 jars and 10,000 pounds. Margin of safety at 2,800 jars is 800 jars and profit is 2,400 pounds." loading="lazy">
+  <figcaption>The lines cross at 2,000 jars; selling 2,800 gives an 800-jar margin of safety.</figcaption>
+</figure>
+
+
 ## 3.6.4 Analysing financial performance
 
 **Financial statements** summarise a firm's performance and position. Owners, managers, banks, investors, suppliers and employees use them to judge past results and make decisions, such as whether to lend or invest.
@@ -168,6 +197,12 @@ Reading a chart of these lines:
 ### Income statement
 
 The **income statement** shows revenue, costs and profit over a period (usually a year). Main components: **sales revenue**, **cost of sales** (direct cost of the goods sold), **gross profit** (revenue - cost of sales), **expenses** (rent, wages, marketing) and **net profit** (gross profit - expenses).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--06-ashwick-margins.webp" width="900" height="990" alt="Last year revenue 220,000 pounds: cost of sales 143,000, expenses 55,000, net profit 22,000 (gross 35%, net 10%). This year revenue 250,000: 150,000, 70,000, 30,000 (gross 40%, net 12%). Revenue +14% but expenses +27%." loading="lazy">
+  <figcaption>Both margins rose, but expenses grew about twice as fast as revenue.</figcaption>
+</figure>
+
 
 ### Statement of financial position
 
@@ -178,6 +213,12 @@ The **statement of financial position** lists what a business owns and owes on o
 - Assets - liabilities = net assets, which equals the owners' money in the business: share capital plus retained profit.
 
 For Ashwick Pantry: non-current assets £90,000, inventories £12,000, receivables £3,000 and cash £5,000 give total assets of £110,000. Payables £14,000, an overdraft £6,000 and a bank loan £40,000 give liabilities of £60,000. Net assets are £50,000, matching share capital £20,000 plus retained profit £30,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--05-ashwick-net-assets.webp" width="900" height="950" alt="Assets of 110,000 pounds (non-current 90,000, current 20,000). Liabilities of 60,000 (loan 40,000, current 20,000) plus net assets 50,000. Owners’ money is share capital 20,000 plus retained profit 30,000 = 50,000." loading="lazy">
+  <figcaption>Assets minus liabilities gives net assets, which equal share capital plus retained profit.</figcaption>
+</figure>
+
 
 ### Profit margins
 

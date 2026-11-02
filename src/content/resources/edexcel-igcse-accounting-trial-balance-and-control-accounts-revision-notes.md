@@ -39,6 +39,12 @@ Links: [4AC1 Accounting course hub](/boards/edexcel/igcse/accounting/), [printab
 
 Definition: a list of ledger balances at a date, in a debit column and a credit column.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-trial-balance-columns.webp" width="900" height="850" alt="Two equal stacked columns in dollars. Debit column 108,370: assets 41,020, purchases and expenses 61,750, drawings 5,600. Credit column 108,370: capital 20,000, liabilities 13,210, sales and purchases returns 75,160." loading="lazy">
+  <figcaption>A trial balance agrees when debit and credit columns have equal totals.</figcaption>
+</figure>
+
+
 ## 3.1b Preparing a trial balance
 
 **Method in steps**
@@ -74,6 +80,12 @@ Worked reminder: Merrowdean Pet Supplies, trial balance at 31 December 2026.
 
 Memory hook: assets and expenses sit on the debit side, and the owner's money, loans, income and what is owed to suppliers sit on the credit side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--01-tb-yarrow-columns.webp" width="900" height="900" alt="Yarrow Lane Bakery balances grouped into debit and credit blocks, both totalling 205,150 dollars; closing inventory is not included." loading="lazy">
+  <figcaption>Each balance goes on its normal side and the two columns total 205,150.</figcaption>
+</figure>
+
+
 ## 3.1c Limitations
 
 The trial balance does not prove the books are right. These errors leave it balanced.
@@ -102,6 +114,17 @@ Worked reminder: a cheque of 450 received from a customer is debited to bank as 
 4. Look for a one-sided entry of exactly that amount.
 5. Park what remains in a suspense account (section 3.3).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--02-tb-six-errors-lesson.webp" width="900" height="1108" alt="Six cards for omission, commission, original entry, reversal, compensating and principle errors, each with debit and credit lines and totals that still agree." loading="lazy">
+  <figcaption>Six errors that leave the totals equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--09-mp16-tb-revealed.webp" width="900" height="1126" alt="Four balance scales show which column is higher for addition, partial omission, transposition and unequal posting. A panel contrasts omission (totals agree) with partial omission (credit higher by 1,500)." loading="lazy">
+  <figcaption>Revealed errors leave one column higher; omission does not.</figcaption>
+</figure>
+
 
 ## 3.2a Purpose of control accounts
 
@@ -147,6 +170,22 @@ Worked reminder: Bexley Rowe Timber, year ended 30 September 2026. Opening recei
 | | | Balance c/d | 18,360 |
 | | **80,120** | | **80,120** |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--03-receivables-control-orrin-bell.webp" width="900" height="826" alt="Orrin Bell Hardware trade receivables control account: both sides total 121,640 dollars and the balance c/d is 32,610." loading="lazy">
+  <figcaption>Receivables control account for Orrin Bell Hardware.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--05-control-vs-list-90.webp" width="900" height="830" alt="Control balance 32,610 against list total 32,520: a gap of 90, matching 540 copied as 450." loading="lazy">
+  <figcaption>A 90 gap points to the list first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--06-control-in-or-out.webp" width="900" height="1090" alt="Seven items that belong in the receivables control account and four that are kept out." loading="lazy">
+  <figcaption>What belongs in a control account and what does not.</figcaption>
+</figure>
+
+
 ## Trade payables control account
 
 Rule: increases go on the credit side, decreases on the debit side.
@@ -170,6 +209,17 @@ Worked reminder (same business): opening payables 9,400; credit purchases 40,250
 | Contra | 500 | | |
 | Balance c/d | 8,400 | | |
 | | **49,650** | | **49,650** |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--04-payables-control-tellis.webp" width="900" height="770" alt="Tellis Cycles trade payables control account: both sides total 90,150 dollars and the balance c/d is 20,635." loading="lazy">
+  <figcaption>Payables control account for Tellis Cycles, mirror of receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-mp16-contra.webp" width="900" height="770" alt="Norbury owes 700 and is owed 1,150, so 700 is set off. It is credited in the receivables control account and debited in the payables control account, and 450 is still owed." loading="lazy">
+  <figcaption>A contra reduces both control accounts by the same amount, so enter it in both.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

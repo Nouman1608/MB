@@ -51,6 +51,17 @@ percentage increase = (46,000 - 40,000) / 40,000 x 100 = 15%
 
 Strategy: open a second shop. Tactics: a launch-week free coffee, a hiring advert, a local leaflet drop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--04-ostlewood-objective-strategy-tactics.webp" width="900" height="930" alt="Revenue bars show 420,000 pounds now and a 525,000 pound target, of which 157,500 pounds (30 percent) is online. Three stacked levels show objective, strategy and tactics with their Ostlewood content." loading="lazy">
+  <figcaption>The objective says where, the strategy says which road, and the tactics say what happens this month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+
 ## Why plan implementation
 
 1. Resources are ready when needed (cash, staff, equipment).
@@ -61,6 +72,12 @@ Strategy: open a second shop. Tactics: a launch-week free coffee, a hiring adver
 6. Risks are spotted and fallbacks prepared.
 
 Cost of planning: management time, and a rigid plan may slow a response to events.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--05-implementation-sequence.webp" width="900" height="870" alt="A six-month chart for the Ostlewood online launch shows photography, website, launch stock, email campaign and free postage. The website must finish before the emails start, and a milestone marks the website going live." loading="lazy">
+  <figcaption>Planning sets the order, timing and checkpoints so a good strategy is not lost in poor execution.</figcaption>
+</figure>
+
 
 ## Method: evaluate a strategy
 
@@ -87,12 +104,34 @@ Cost of planning: management time, and a rigid plan may slow a response to event
 - Importance rises with scale, cost, difficulty of reversal and threat to survival.
 - Changing too late can cost more than changing too soon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--09-payback-vs-objective.webp" width="900" height="980" alt="Cumulative extra profit starts at minus 60,000 pounds. At 22,000 a year the line crosses zero at 2.73 years, inside the three-year objective; at 15 percent lower (18,700 a year) it crosses at about 3.2 years, outside it." loading="lazy">
+  <figcaption>A small shortfall in forecast profit pushes payback past the objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--06-stakeholder-gain-concern.webp" width="900" height="820" alt="Five stakeholder rows with a possible gain on the left and a possible concern on the right: owners, employees, customers, lenders and the local community." loading="lazy">
+  <figcaption>A strategy brings possible gains and concerns to each stakeholder group.</figcaption>
+</figure>
+
+
 ## Business plan: purposes
 
 - Test whether the idea can work.
 - Win finance from lenders or investors.
 - Guide managers and set targets.
 - Provide a benchmark for later results.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
 
 ## Business plan: main contents
 
@@ -142,6 +181,22 @@ percentage = 720 / 9,000 x 100 = 8% over budget
 ```
 
 How it improves performance: targets give focus, measuring shows gaps, review finds causes, and corrections close the gap. It fails if the review is skipped, the data is poor, or blame replaces learning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--10-plan-do-review.webp" width="900" height="1070" alt="A loop: Plan sells 55 bikes for profit 1,050; Do sells 41 for a loss of 210; Review finds revenue 3,360 below plan (adverse) and asks why. The result feeds the next plan." loading="lazy">
+  <figcaption>Review finds the cause of the gap and feeds the next plan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--07-review-loops-alter-strategy.webp" width="900" height="1058" alt="A small Plan-Do-Review loop sits inside a larger dashed ring for strategic review. If the strategy still fits, carry on; if not, alter it, which costs retraining and spent money, unsettles stakeholders and can look weak if repeated." loading="lazy">
+  <figcaption>The inner loop checks results often; the outer loop asks less often whether the strategy itself is right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
 
 ## Strategic review
 

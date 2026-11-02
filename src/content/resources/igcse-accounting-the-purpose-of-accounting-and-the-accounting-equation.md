@@ -76,6 +76,12 @@ Paper 1 is multiple choice and Paper 2 is a structured written paper. Both are b
 
 Book-keeping is the foundation. If it is careless, every statement built on it is unreliable. But entering figures does not tell the owner whether the business is doing well, so both are needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--04-bookkeeping-then-accounting.webp" width="900" height="938" alt="A flow from a source document (a $45 chain bill) to book-keeping, which records what happened, to accounting, which summarises, presents and interprets what it means, for example that parts cost rose faster than repair income." loading="lazy">
+  <figcaption>Book-keeping records; accounting summarises and interprets.</figcaption>
+</figure>
+
+
 ## 1.1 Why profit and loss is measured
 
 **Profit** is the amount by which income earned in a period exceeds the expenses of earning it. If expenses are greater, the business has made a **loss**. The measurement is made for a stated period, usually a year, and is shown in the statement of profit or loss.
@@ -102,6 +108,12 @@ Profit is 86,400 − 68,100 = 18,300. The year before, profit was 14,640. The in
 
 A loss is equally informative. It warns the owner before cash runs out that something must change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--05-profit-is-what-is-left.webp" width="900" height="724" alt="Waterfall in dollars: sales revenue 86,400 less materials 31,200, rent 12,000, wages 18,600 and other expenses 6,300 (total 68,100) leaves profit 18,300. The owner took 12,000 as drawings, leaving 6,300 in the business. Last year profit was 14,640, so profit rose 3,660 or 25.0%." loading="lazy">
+  <figcaption>Profit is revenue less expenses; drawings come out of profit, not before it.</figcaption>
+</figure>
+
+
 ## 1.1 Monitoring progress and supporting decisions
 
 Accounting information is useful because it is compared with something: an earlier period, a plan, or another business. Gurpreet Dhillon owns Dhillon Print Studio. Her monthly figures for the first half of the year, in dollars:
@@ -119,6 +131,12 @@ Accounting information is useful because it is compared with something: an earli
 Revenue grew by 29.2% from January to June (9,300 ÷ 7,200 = 1.292) while expenses grew by only 10.7% (7,640 ÷ 6,900 = 1.107). That is how she **monitors progress**: the business is becoming more profitable each month.
 
 The same figures support **decisions**. A steady rise in profit might justify hiring a part-time assistant. If profit had fallen while revenue rose, she would look at which expense was climbing before agreeing to take on more work. Accounting information does not make the decision; it gives the owner facts to base it on. Other decisions of the same kind include whether to buy more equipment, how much credit to allow customers, and whether to ask the bank for a loan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--05-dhillon-monthly-profit.webp" width="900" height="940" alt="A line chart of revenue and expenses (revenue up 29.2%, expenses up 10.7%) with the gap shaded, and bars of monthly profit 300, 550, 800, 1,050, 1,320 and 1,660, total 5,680." loading="lazy">
+  <figcaption>Profit rises each month because revenue grows faster than expenses.</figcaption>
+</figure>
+
 
 ## 1.2 Assets, liabilities and owner's equity
 
@@ -163,6 +181,12 @@ Total assets               26,300       Liabilities + equity 26,300
 
 Total assets are 26,300 and total liabilities 10,200, so owner's equity is 26,300 − 10,200 = 16,100. The two sides agree because the equity figure is what is left over.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--04-karimi-equation-stacks.webp" width="900" height="980" alt="Two stacks of equal height, 26,300 each. Assets are Equipment 14,500, Inventory 3,200, Trade receivables 1,850, Bank 6,400 and Cash 350. The other stack is Trade payables 2,700, Bank loan 7,500 and owner’s equity 16,100 (26,300 minus 10,200)." loading="lazy">
+  <figcaption>Karimi Wheels at 31 December drawn to scale.</figcaption>
+</figure>
+
+
 ## 1.2 Applying the equation
 
 ### Finding a missing figure
@@ -201,6 +225,22 @@ Gurpreet's position at the start and end of the year, in dollars:
 | Owner's equity | 34,500 | 46,500 |
 
 Owner's equity rose by 12,000. During the year she paid in 4,000 of extra capital and took 9,600 in drawings. Profit = closing equity − opening equity − capital introduced + drawings = 46,500 − 34,500 − 4,000 + 9,600 = **17,600**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--06-profit-from-equity.webp" width="900" height="656" alt="Bridge chart in dollars: owner equity starts at 34,500, rises by 4,000 capital paid in and by profit, and falls by 9,600 drawings to reach 46,500. Profit = 46,500 - 34,500 - 4,000 + 9,600 = 17,600." loading="lazy">
+  <figcaption>Profit is the change in equity after removing capital paid in and adding back drawings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--03-waddell-equation-steps.webp" width="900" height="1130" alt="Eight pairs of bars, one per transaction, show assets always equal to liabilities plus owner’s equity. The final position is assets 38,400, liabilities 8,900 and owner’s equity 29,500." loading="lazy">
+  <figcaption>Assets stay equal to liabilities plus equity after every Waddell transaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
 
 ## Common errors
 

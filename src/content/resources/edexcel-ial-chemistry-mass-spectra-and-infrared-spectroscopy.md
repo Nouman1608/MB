@@ -104,6 +104,22 @@ Step 3. Consider each structure. Pentane, CH₃CH₂CH₂CH₂CH₃, can break b
 
 Step 4. No peaks at 29 or 43, so the compound is **2,2-dimethylpropane**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--05-orbitals.webp" width="900" height="1050" alt="An s orbital is a sphere (2s larger than 1s); a p sub-shell is three dumbbell orbitals along x, y and z. Boxes show s = 1 orbital (2 electrons), p = 3 (6), d = 5 (10), and shells hold 2, 8, 18 and 32 electrons." loading="lazy">
+  <figcaption>Each orbital holds two electrons of opposite spin: s has 1 orbital, p has 3, d has 5; shell n holds 2n squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--08-successive-ie.webp" width="900" height="830" alt="A log-scale plot of the twelve successive ionisation energies of magnesium: two low points, a big jump at the third electron, a gradual rise to the tenth, and another huge jump at the eleventh, grouped as shell 3 (2 electrons), shell 2 (8) and shell 1 (2)." loading="lazy">
+  <figcaption>A large jump after the second electron shows two outer electrons (Group 2); further jumps mark inner shells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+
 ### Worked example 2: which bromopropane?
 
 A compound gives two peaks of equal height at m/z 122 and 124, a strong peak at 43, and a pair of equal peaks at 107 and 109. There are no peaks at 93 or 95. Identify the compound.
@@ -115,6 +131,27 @@ Step 2. m/z 43 is a single peak, so it has lost the bromine: 122 − 79 = 43, wh
 Step 3. The pair at 107 and 109 still contains bromine. 122 − 107 = 15, so this is loss of CH₃•, giving C₂H₄Br⁺.
 
 Step 4. Compare the isomers. 2-bromopropane, CH₃CHBrCH₃, loses a methyl group to give CH₃CHBr⁺ (107/109). 1-bromopropane, CH₃CH₂CH₂Br, would be expected to give CH₂Br⁺ at 93/95 by breaking the C1–C2 bond. The data fit **2-bromopropane**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
+  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
+  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Infrared spectroscopy (10.22)
 

@@ -85,6 +85,17 @@ Both fail in the short run and the long run. The gap between actual output and m
 
 **Evaluation checklist.** Variety and choice; zero long-run profit pushes cost control; weaker funds for research; advertising may inform or only persuade; the loss is smaller where demand is flatter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--02-monopolistic-lr-inefficiency.webp" width="900" height="910" alt="After entry AR = 10 − 0.03Q just touches ATC at 100 cakes and price 7, so profit is normal. Lowest ATC is 6 at 200 cakes, giving excess capacity of 100, and MC is 4 against price 7, so there is no allocative efficiency." loading="lazy">
+  <figcaption>In the long run the firm earns normal profit but is neither productively nor allocatively efficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--06-mc-elasticity-at-long-run-point.webp" width="900" height="920" alt="Demand line P = 10 - 0.03Q with the point (100, 7) marked, and the working PED = -(1/0.03) x (7/100) = -2.33, which is elastic." loading="lazy">
+  <figcaption>At the long-run point Shop A's PED is -2.33, so demand there is elastic.</figcaption>
+</figure>
+
+
 ## 8a: Characteristics of contestable markets
 
 - Low or no barriers; low or no sunk costs.
@@ -106,6 +117,12 @@ Both fail in the short run and the long run. The gap between actual output and m
 
 **Reminder example.** Demand P = 30 − Q, MC = 6, n = 2. Monopoly price is 18 with profit 144. With F = 108: (P − 6)(30 − P) = 108, P = 12 or 24, so the limit price is 12 and profit is 108.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--04-limit-pricing-coach.webp" width="900" height="910" alt="Entrant's two-year profit (P − 6)(30 − P) peaks at 144 at the monopoly price of 18. With entry cost F = 108 the curve is above the line between prices 12 and 24, so entry pays; at the limit price of 12 the entrant just breaks even." loading="lazy">
+  <figcaption>The limit price is the lower root of the entrant's break-even condition, giving up 36 of incumbent profit.</figcaption>
+</figure>
+
+
 ## 8c: Costs and benefits
 
 | | Benefits | Costs |
@@ -125,6 +142,12 @@ Evaluate by degree: the less contestable the market, the weaker the discipline.
 
 Higher sunk costs mean a weaker threat, a higher sustainable price and more profit for the incumbent. Recoverable assets (resale value) reduce sunk costs and make the market more contestable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--05-limit-price-and-sunk-cost.webp" width="900" height="840" alt="Limit price against sunk cost F for the coach route: 6 at F = 0, 10 at 80, 12 at 108, 16 at 140 and the monopoly price 18 from F = 144 onwards." loading="lazy">
+  <figcaption>The higher the sunk cost of entry, the higher the price the incumbent can charge without attracting entry.</figcaption>
+</figure>
+
+
 ## Describing the diagrams in words
 
 **Long-run monopolistic competition.** Axes: price and costs (vertical), quantity (horizontal). Draw a downward-sloping AR curve with MR below it, a rising MC and a U-shaped ATC. Output is where MC cuts MR. Price is read up to AR. AR touches ATC at exactly that output, so profit is normal. Label the minimum-ATC output to the right and mark the gap as excess capacity.
@@ -132,6 +155,17 @@ Higher sunk costs mean a weaker threat, a higher sustainable price and more prof
 **Short-run profit.** The same curves, but AR lies above ATC at the profit-maximising output. Shade the rectangle between price and ATC for supernormal profit. For a loss, ATC lies above AR; shade the rectangle between ATC and price.
 
 **Limit pricing.** Describe a price line below the monopoly price. At the limit price the entrant's expected profit just covers its sunk cost, so no entry occurs. The incumbent's profit is smaller than at the monopoly price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--01-monopolistic-sr-profit.webp" width="900" height="880" alt="Firm diagram for the lesson's Shop A. AR = 14 − 0.03Q, MR = 14 − 0.06Q, MC = 2 + 0.02Q and ATC = 400/Q + 2 + 0.01Q. MC = MR at 150 cakes, price 9.50, ATC 6.17, so the shaded rectangle is supernormal profit of 500." loading="lazy">
+  <figcaption>At 150 cakes Shop A earns supernormal profit of 500 cu, which signals entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--03-monopolistic-sr-loss.webp" width="900" height="880" alt="With demand AR = 8 − 0.03Q, MC = MR at 75 cakes and price 5.75, below ATC of 8.08, so the loss rectangle is 175. AVC is 2.75, below the price, so the firm carries on in the short run." loading="lazy">
+  <figcaption>A loss-making firm continues while price covers average variable cost.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 

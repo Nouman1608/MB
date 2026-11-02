@@ -55,6 +55,12 @@ A furnace uses magnesium oxide bricks, copper cable and silicon carbide cutting 
 2. **Copper** is metallic. Its delocalized electrons move under a potential difference, so it conducts; non-directional bonding lets layers slide, so it can be drawn into wire.
 3. **Silicon carbide** is a covalent network. Each atom has four strong covalent bonds in three dimensions, and many must break to scratch it, so it is extremely hard.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--01-bonding-models.webp" width="900" height="910" alt="Three rows show a grid of positive and negative ions (ionic), atoms joined by shared electron pairs (covalent) and cations in a sea of electrons (metallic), each with its typical property. A note says real bonds lie between these ends." loading="lazy">
+  <figcaption>The three bonding models are idealised end points.</figcaption>
+</figure>
+
+
 ## The bonding triangle (Structure 2.4.2)
 
 A bonding triangle (also called a van Arkel–Ketelaar triangle) turns the continuum into a graph. For a binary compound of elements A and B:
@@ -96,6 +102,12 @@ Predict and compare the properties of KCl and AlCl₃ from their positions.
 
 Structure 3.1 uses the same reasoning for the bonding trend in the period 3 oxides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--02-bonding-triangle.webp" width="900" height="880" alt="A graph of electronegativity difference against average electronegativity shows a triangle with Cs (metallic), F2 (covalent) and CsF (ionic) at the corners. KCl, AlCl3, SiC and NiAl are plotted from the lesson values." loading="lazy">
+  <figcaption>Each binary compound is one point: higher means more ionic, low left metallic, low right covalent.</figcaption>
+</figure>
+
+
 ## Alloys (Structure 2.4.3)
 
 An **alloy** is a metal mixed with one or more further elements, metal or non-metal. It is a mixture, not a compound, because its composition can vary. Alloys usually have enhanced properties.
@@ -117,6 +129,12 @@ You do not need to learn specific alloys, only the explanation.
 ### Worked example 4
 
 Explain why brass is harder than copper, yet both conduct. Copper's identical cations form regular layers that slide easily. In brass, zinc atoms of a different size fit into the lattice, which non-directional bonding allows. They disrupt the layers, so more force is needed to make them slide. Both keep mobile delocalized electrons, so both conduct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--03-alloy-layers.webp" width="900" height="810" alt="Two panels show rows of metal atoms. In pure copper the layers slide when pushed; in brass larger zinc atoms distort the layers and block the slide. Free electrons are shown in both, so both conduct." loading="lazy">
+  <figcaption>Different-sized atoms stop layers sliding, but mobile electrons remain.</figcaption>
+</figure>
+
 
 ## Polymers and plastics (Structure 2.4.4)
 
@@ -141,6 +159,12 @@ A **polymer** is a macromolecule made from many small repeating subunits called 
 
 Longer, less branched chains pack closer, so the plastic is stronger and denser. Covalent cross-links between chains stop a plastic softening on heating. Low reactivity also makes plastic waste persist; Structure 3.2 asks what makes some plastics biodegradable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--04-plastic-chains.webp" width="900" height="890" alt="Three panels of wavy chains: long unbranched chains pack close (strong, dense, soften when warmed); branched chains pack loosely (weaker); cross-linked chains joined by covalent links do not soften." loading="lazy">
+  <figcaption>Chain length, branching and cross-links decide strength and softening.</figcaption>
+</figure>
+
+
 ## Addition polymers (Structure 2.4.5)
 
 In **addition polymerization**, the π bond of each monomer's C=C breaks and each carbon forms a new C–C bond to a neighbouring monomer. Nothing else forms, so the **atom economy is 100%**.
@@ -163,6 +187,17 @@ COOH is a side group, not part of the backbone. Each repeating unit has the same
 A polymer has the repeating unit –CH₂–C(CH₃)Cl–. Deduce the monomer.
 
 Put a double bond between the two backbone carbons and remove the continuation bonds: CH₂=C(CH₃)Cl, **2-chloropropene**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--05-addition-polymer.webp" width="900" height="930" alt="Three propenoic acid molecules join: each C=C opens and forms new C-C bonds. The chain shows one repeating unit in brackets with continuation bonds and n, COOH as a side group. Atom economy 100%; unit M = 72.07, 2000 units about 1.44 x 10^5." loading="lazy">
+  <figcaption>Break the C=C, keep the side group, add brackets, continuation bonds and n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--06-polymer-to-monomer.webp" width="900" height="630" alt="The repeating unit with CH3 and Cl on one backbone carbon is shown in brackets with n. An arrow turns the backbone C-C into C=C to give the monomer 2-chloropropene." loading="lazy">
+  <figcaption>Drop the brackets and n, make the backbone C=C, and keep the side groups.</figcaption>
+</figure>
+
 
 ## Condensation polymers (Structure 2.4.6, HL only)
 
@@ -200,6 +235,17 @@ All biological macromolecules form by condensation and break down by **hydrolysi
 Starch is fully hydrolysed to glucose. Find the mass of glucose from 8.10 g of starch.
 
 Each chain unit is C₆H₁₀O₅ (162.16 g mol⁻¹); adding water gives glucose, C₆H₁₂O₆ (180.18 g mol⁻¹). Moles of units = 8.10 / 162.16 = 0.04995 mol, so mass of glucose = 0.04995 × 180.18 = **9.00 g**. The mass rises because water is added.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--07-polyester-hl.webp" width="900" height="1010" alt="Butane-1,4-diol and butanedioic acid are drawn bond by bond with the leaving H and OH highlighted in gold. Two H2O are lost per unit to give the ester-linked repeating unit. Atom economy = 172.20 / (90.14 + 118.10) x 100 = 82.7%." loading="lazy">
+  <figcaption>HL only: each ester link forms with loss of water, so atom economy is below 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--08-polyamide-hydrolysis-hl.webp" width="900" height="1030" alt="Two 4-aminobutanoic acid molecules join head to tail with loss of one H2O to give an amide link, -CONH-; hydrolysis reverses it. A chain of 6 units releases 5 H2O and a protein of 120 amino acids releases 119 H2O." loading="lazy">
+  <figcaption>HL only: condensation releases one water per link; hydrolysis adds it back.</figcaption>
+</figure>
+
 
 ## Common errors
 

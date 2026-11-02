@@ -50,6 +50,12 @@ A travelling wave is a disturbance that moves through a medium, or through space
 
 In a **transverse** wave the particles oscillate at right angles to the direction the wave travels. Waves on a rope and all electromagnetic waves are transverse. In a **longitudinal** wave each particle vibrates along the same line as the direction of travel. Sound is the standard example. A longitudinal wave is a series of compressions, where particles are bunched together, and rarefactions, where they are spread apart.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--01-transverse-vs-longitudinal.webp" width="900" height="890" alt="A rope wave moves particles at right angles to travel; a sound wave moves them along the travel direction. Each highlighted particle only vibrates about its rest position while the pattern moves on. The longitudinal row shows a compression (bunched) and a rarefaction (spread)." loading="lazy">
+  <figcaption>Particles vibrate at right angles to travel in a transverse wave and along travel in a longitudinal wave.</figcaption>
+</figure>
+
+
 ### The wave quantities
 
 - Wavelength λ: the distance along the wave between two neighbouring points that are in step, for example crest to crest or compression to compression. Unit m.
@@ -67,6 +73,12 @@ v = λ/T = fλ
 
 The speed of a mechanical wave is fixed by the medium. The frequency is fixed by the source. So when a wave enters a new medium, f stays the same and λ changes in proportion to v.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--02-wave-quantities.webp" width="900" height="1060" alt="Two graphs of the same rope wave. Displacement against position shows wavelength 0.80 m between crests and the amplitude; displacement against time for one particle shows period 0.40 s. v = f lambda = lambda/T gives 2.0 m/s." loading="lazy">
+  <figcaption>Wavelength is read from a position graph and period from a time graph; v = fλ = λ/T.</figcaption>
+</figure>
+
+
 ### Sound waves
 
 Sound is a longitudinal mechanical wave. A vibrating loudspeaker cone pushes air forward to make a compression, then pulls back to leave a rarefaction. Each air particle oscillates to and fro along the line of travel. It needs a medium and cannot cross a vacuum. The audible range is roughly 20 Hz to 20 kHz.
@@ -76,12 +88,24 @@ Sound is a longitudinal mechanical wave. A vibrating loudspeaker cone pushes air
 - At 20 Hz: λ = 340/20 = 17 m.
 - At 20 000 Hz: λ = 340/20 000 = 0.017 m = 17 mm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--08-doppler-sound-calculations-hl.webp" width="900" height="1130" alt="For an 800 Hz siren moving at 25 m/s in air (340 m/s): ahead the wavelength is 0.394 m and frequency 863 Hz, at rest 0.425 m and 800 Hz, behind 0.456 m and 745 Hz. Source formula f′ = f v/(v ± us) uses minus when approaching; observer formula f′ = f(v ± uo)/v uses plus when approaching." loading="lazy">
+  <figcaption>Sign rules and numbers for the Doppler formulas for sound (HL).</figcaption>
+</figure>
+
+
 ### Electromagnetic waves
 
 Electromagnetic waves are transverse waves made of varying electric and magnetic fields, perpendicular to one another and to the way the wave moves. They do not need a medium and cross a vacuum. In a vacuum all of them travel at the same speed, c = 3.00 × 10⁸ m s⁻¹, so c = fλ for every EM wave.
 
 **Worked example 3.** An FM station broadcasts at 94.5 MHz. Find the wavelength.
 - λ = c/f = 3.00 × 10⁸ / 94.5 × 10⁶ = 3.17 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--05-em-wave-structure.webp" width="900" height="980" alt="An EM wave drawn with the electric field in one plane and the magnetic field in a plane at right angles, both perpendicular to the direction of travel. It needs no medium and travels at c = 3.00 x 10^8 m/s in a vacuum, so c = f lambda; 94.5 MHz gives 3.17 m." loading="lazy">
+  <figcaption>EM waves are transverse oscillations of E and B fields that cross a vacuum at c.</figcaption>
+</figure>
+
 
 ### Mechanical against electromagnetic
 
@@ -106,6 +130,12 @@ The guide directs you to the Physics data booklet for these values. Treat them a
 | X-ray | 10⁻¹¹ to 10⁻⁸ m |
 | Gamma ray | 10⁻¹² m and below |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--06-em-spectrum-wavelengths.webp" width="900" height="1100" alt="A vertical logarithmic wavelength scale places radio (0.1 m and above), microwave, infrared, visible, ultraviolet, X-ray and gamma ray bands at the approximate ranges given in the lesson. The boundaries overlap, so the values are rough." loading="lazy">
+  <figcaption>Wavelength ranges of the EM spectrum on a log scale.</figcaption>
+</figure>
+
+
 ### Particle motion as a wave passes
 
 A displacement-position graph is a snapshot of every particle at one instant; a displacement-time graph follows one particle. To find which way a particle moves, slide the snapshot a little way in the direction of travel and see what profile arrives at that particle.
@@ -120,6 +150,17 @@ A displacement-position graph is a snapshot of every particle at one instant; a 
 - At x = λ/2 the displacement is zero. Particles just to the left are displaced to the right (positive), and particles just to the right are displaced to the left (negative). They are pushed towards x = λ/2, so it is the centre of a **compression**.
 - At x = 0 and x = λ the neighbours are displaced away from the point, so these are centres of **rarefactions**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--03-particle-motion-transverse.webp" width="900" height="1050" alt="A solid curve is the wave at t = 0 and a dashed curve is the same wave T/4 later, moved 0.50 m to the right. Arrows from old to new displacement show particles at x = 0 and 0.5 m moving down and at 1.0 and 1.5 m moving up." loading="lazy">
+  <figcaption>Slide the snapshot forward in the direction of travel to find which way each particle moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--04-compressions-from-displacement.webp" width="900" height="1010" alt="A longitudinal displacement graph (+3 mm at lambda/4, -3 mm at 3 lambda/4) sits above columns of particles drawn from the same function. At lambda/2 the displacement is zero but neighbours are pushed towards it, so it is the centre of a compression; at 0 and lambda the neighbours move apart, giving rarefactions." loading="lazy">
+  <figcaption>A compression is centred where displacement is zero and neighbours converge.</figcaption>
+</figure>
+
+
 ## C.5 The Doppler effect
 
 The Doppler effect is the change in the observed frequency, and so wavelength, of a wave when the source and the observer are moving relative to each other. You hear it as a siren passes: higher pitch on approach, lower as it recedes.
@@ -132,6 +173,12 @@ A wavefront joins points in the same phase, such as successive compressions. For
 **Moving source.** Each wavefront is emitted from a point further along the path. The circles are no longer centred on the same point. Ahead of the source they are closer together, so the wavelength is shorter and the observed frequency higher. Behind it they are further apart, giving longer wavelength and lower frequency. The wave speed in the medium is unchanged.
 
 **Moving observer.** The source is stationary, so the wavefronts stay evenly spaced and λ is unchanged. An observer moving towards the source meets the wavefronts more often, so the observed frequency is higher. Moving away, the fronts arrive less often and the frequency is lower.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--07-doppler-wavefronts.webp" width="900" height="1225" alt="Top: a source moving right at 0.4 of the wave speed emits circular wavefronts that bunch up ahead (shorter wavelength, higher frequency) and spread out behind. Bottom: a source at rest gives evenly spaced fronts; an observer moving towards it meets fronts more often, so f is higher but wavelength is unchanged." loading="lazy">
+  <figcaption>Wavefronts bunch ahead of a moving source; a moving observer meets fronts more often.</figcaption>
+</figure>
+
 
 ### Light: Δf/f = Δλ/λ ≈ v/c
 
@@ -146,6 +193,12 @@ Here Δf and Δλ are the changes in the observed frequency and wavelength, and 
 - v = c Δλ/λ = 3.00 × 10⁸ × 3.5/486.1 = 2.16 × 10⁶ m s⁻¹.
 - The wavelength has increased, so the galaxy is moving away.
 - Check: v/c = 0.0072, much less than 1, so the approximation holds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--09-redshift-spectral-lines.webp" width="900" height="1060" alt="Hydrogen line at 486.1 nm in the laboratory appears at 489.6 nm in a distant galaxy, 3.5 nm longer, so a redshift. v = c Δλ/λ = 2.16 x 10^6 m/s away from us; v/c = 0.0072 so the approximation holds." loading="lazy">
+  <figcaption>A spectral line moved to longer wavelength shows the source receding.</figcaption>
+</figure>
+
 
 ### Spectral lines in astronomy
 

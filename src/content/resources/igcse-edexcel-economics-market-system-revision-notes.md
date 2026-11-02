@@ -32,6 +32,27 @@ Factors of production and rewards: land–rent, labour–wages, capital–intere
 
 **Production possibility curves:** on the curve means efficient and fully employed; inside means unemployment or inefficiency; outside is unattainable. An outward shift represents economic growth from more or better resources, improved technology, or better education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## Demand and supply
 
 **Movement along** is caused by a change in the good's **own price**; a **shift** by anything else.
@@ -44,6 +65,27 @@ For an **inferior good**, demand falls as income rises.
 **Equilibrium:** above it, excess supply pushes price down; below it, excess demand pushes price up.
 
 **The four-step answer** to "explain the effect of X on this market": which curve shifts, which direction, the new equilibrium, and the effect on **both price and quantity**. Answering about price alone forfeits half the marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--04-un185-egg-schedule-slide.webp" width="900" height="960" alt="Demand and supply curves from the lesson egg schedule cross at price 12 and 280 trays. A price rise from 10 to 12 slides up D (demanded 400 to 280, -30%) and up S (supplied 200 to 280, +40%). No curve shifts." loading="lazy">
+  <figcaption>Plotted lesson schedule showing price 10 to 12 as movements along D and S.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Elasticity
 
@@ -68,6 +110,17 @@ YED = %change in Qd / %change in income
 
 **Worked example — YED.** A 5% rise in income causes an 8% rise in quantity demanded: YED = 8 ÷ 5 = **+1.6**, a positive value greater than 1, so the good is a **luxury** (or income-elastic normal good) — demand rises proportionally faster than income. A **negative YED** indicates an **inferior good**: as income rises, demand actually *falls*, because consumers switch to better alternatives they can now afford — value supermarket own-brand products are a typical example.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-market-system-revision-notes--01-rail-fare-ped-revenue.webp" width="900" height="916" alt="A rail operator raises fares 10% and tickets sold fall 4%, so PED is -0.4. On a price against tickets graph, the thin strip gained at the higher fare (960) is bigger than the thin strip lost from fewer tickets (400), so revenue rises from 10,000 to 10,560. The dollar figures are illustrative; only the percentages come from the notes." loading="lazy">
+  <figcaption>Inelastic demand: a 10% fare rise cuts tickets by only 4%, so revenue rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-market-system-revision-notes--02-four-goods-ped.webp" width="900" height="860" alt="Four goods each have a small demand curve. Salt and petrol have steep curves because they are necessities with few or no substitutes, so demand is inelastic. A particular crisp brand and a foreign holiday have flat curves because of many substitutes or because they are luxuries that can be postponed, so demand is elastic." loading="lazy">
+  <figcaption>Salt and petrol are inelastic; a crisp brand and foreign holidays are elastic.</figcaption>
+</figure>
+
+
 ## Market failure
 
 | Failure | Result |
@@ -80,6 +133,17 @@ YED = %change in Qd / %change in income
 A public good requires **both** properties. Street lighting and defence qualify.
 
 **Policies to correct externalities:** taxation, subsidies, fines, regulation, and pollution permits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-market-system-revision-notes--03-public-good-both-properties.webp" width="900" height="818" alt="A grid sorts goods by whether non-payers can be excluded and whether use by one person leaves less for others. Only street lighting and defence are both non-excludable and non-rival, so only they are public goods. A chocolate bar, fish in the open sea and a cinema screening each fail one test." loading="lazy">
+  <figcaption>A public good must be both non-excludable and non-rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-market-system-revision-notes--04-five-externality-policies.webp" width="900" height="890" alt="Five small pictures show the five policies in the notes. Taxation shifts the supply curve up and a subsidy shifts it down. A fine punishes breaking a rule, regulation sets a legal limit, and pollution permits allow a set amount of pollution that can be traded." loading="lazy">
+  <figcaption>The five policies for correcting an externality.</figcaption>
+</figure>
+
 
 ## Worked example: PED and the effect on revenue
 

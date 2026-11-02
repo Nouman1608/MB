@@ -38,6 +38,17 @@ Applying the mix to different contexts changes the emphasis:
 
 **Importance of an integrated mix.** The elements send one message; a premium chocolate at a discount price gives mixed signals. Integration reinforces positioning, avoids wasted spend and is harder to copy. **Influences on the mix:** target market, budget, life cycle stage, competitors, costs, technology and objectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+
 ## Product
 
 ### New product development (NPD)
@@ -66,9 +77,31 @@ When a product reaches maturity, sales growth slows. An **extension strategy** d
 - **Lowering the price:** lifts volume; shrinks unit margin, may start a price war.
 - **Adapting the product:** new flavours or features; development cost, may cannibalise the original.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--01-extension-strategies.webp" width="900" height="1110" alt="A sales curve rises, peaks and declines; a shaded band marks maturity and a dashed line shows sales held up by an extension strategy. Four cards give a gain and a cost for advertising, rebranding, lower price and adapting the product." loading="lazy">
+  <figcaption>Each extension strategy delays decline but carries a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ### Branding
 
 A **brand** (writer's wording) is a name, symbol or design that identifies and differentiates a product. **Value of branding:** recognition, a premium price, trust, easier launches and less switching. **Brand loyalty** means customers repeatedly choose the brand even when alternatives exist, stabilising sales. An **own label brand** (writer's wording) is a product sold under a retailer's name, made by another producer or the retailer. The retailer gains margin and control; quality problems damage its reputation, and the maker may be squeezed on price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--06-npd-six-stages.webp" width="900" height="899" alt="Six numbered rows: 14 ideas, screening drops 9 and keeps 5, concept testing rates 2 highly, business analysis compares break-even 400,000 with demand 520,000, then product testing and launch." loading="lazy">
+  <figcaption>New products pass through six stages in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--02-brand-own-label.webp" width="900" height="700" alt="Two packs: one with the maker’s name (brand) and one with the retailer’s name (own label), with the value and risk of each." loading="lazy">
+  <figcaption>A brand carries the maker’s name; an own label carries the retailer’s.</figcaption>
+</figure>
+
 
 ## Pricing
 
@@ -116,6 +149,22 @@ The rule: with elastic demand a price rise cuts revenue and a cut raises it; wit
 
 *Worked example.* Torrisdale Mobility sells scooters. A rival's scooter rises from £400 to £424 (+6%) and Torrisdale's sales go from 3,000 to 3,270 (+9%). XED = 9 ÷ 6 = **+1.5**: substitutes, and fairly strongly linked. Torrisdale also sells replacement batteries. When it raises the scooter price by 5%, battery sales fall from 4,000 to 3,700 (−7.5%). XED = −7.5 ÷ 5 = **−1.5**: complements. A scooter price cut can also lift battery sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--07-ped-elastic-inelastic-revenue.webp" width="900" height="1100" alt="Two price-quantity rectangles. Helmet: price +10%, sales -15%, PED -1.5, revenue falls from 80,000 to 74,800. Tea: price +10%, sales -6%, PED -0.6, revenue rises from 50,000 to 51,700." loading="lazy">
+  <figcaption>Elastic demand: a price rise cuts revenue. Inelastic: it raises revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--08-cross-price-elasticity.webp" width="900" height="1090" alt="Substitutes: rival scooter price +6% and our scooter sales +9% give XED +1.5. Complements: our scooter price +5% and battery sales -7.5% give XED -1.5." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--09-cost-plus-markup-margin.webp" width="900" height="930" alt="A bar shows cost 1.20 plus profit 0.42 giving a price of 1.62. Mark-up divides profit by cost (35%); margin divides by price (25.9%)." loading="lazy">
+  <figcaption>A mark-up is on cost; a margin is on price.</figcaption>
+</figure>
+
+
 ## The promotional mix
 
 **Purpose and value of promotion:** to inform, persuade and remind; build awareness and image; raise sales.
@@ -131,6 +180,12 @@ The rule: with elastic demand a price rise cuts revenue and a cut raises it; wit
 
 **Influences on the promotional mix:** budget, target market's media habits, product (complex goods need a sales force), life cycle stage, competitors' promotion and B2B or B2C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--03-promotional-mix-six.webp" width="900" height="1040" alt="Six rows, one per promotional element, each with one advantage and one disadvantage." loading="lazy">
+  <figcaption>Every element of the promotional mix has a gain and a cost.</figcaption>
+</figure>
+
+
 ## Distribution (place)
 
 A **channel of distribution** is the route from producer to customer. **Intermediaries** (writer's wording) sit between them:
@@ -143,6 +198,12 @@ A **channel of distribution** is the route from producer to customer. **Intermed
 **Multi-channel distribution** uses several routes at once, such as a shop, a website and a wholesaler. It reaches more customers and spreads risk, but can cause channel conflict and raises management cost.
 
 **Influences on distribution decisions:** product nature (perishable, bulky, high value), target market habits, number of customers, channel cost, control wanted, competitors' routes and technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--04-channels-agent-multi.webp" width="900" height="970" alt="Four routes from maker to customer: via wholesaler and retailer, via retailer, via an agent on commission, or direct online. Multi-channel uses several at once." loading="lazy">
+  <figcaption>An agent sells on commission without stock; multi-channel combines routes.</figcaption>
+</figure>
+
 
 ## The importance of marketing
 
@@ -168,6 +229,12 @@ Definitions below are standard forms or the writer's own wording, not the specif
 - **Price discrimination:** selling one product at different prices to separate customer groups, such as peak and off-peak users. It needs separable markets and can raise revenue; customers may see it as unfair.
 - **Value of PED:** it helps predict revenue effects, but it is an estimate that changes over time.
 - **Exhibitions:** events where firms show products to buyers. Strength: direct contact and demonstration; cost: stand hire and staff time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--05-discrimination-dynamic.webp" width="900" height="1040" alt="Two prices for two separate groups, and a line graph of a price that rises at busy hours of the day." loading="lazy">
+  <figcaption>Discrimination uses fixed groups; dynamic pricing changes with demand.</figcaption>
+</figure>
+
 
 ## Common errors
 

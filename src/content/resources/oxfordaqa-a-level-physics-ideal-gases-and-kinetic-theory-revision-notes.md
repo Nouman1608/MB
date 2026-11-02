@@ -81,6 +81,22 @@ Other links: the [course page](/boards/oxfordaqa/a-level/physics/), the [checkli
 - **Charles's law:** trap dry air in a capillary tube with a liquid index, held in a stirred water bath. Plot the air column length against θ and extrapolate to zero length. The intercept estimates absolute zero.
 - Improve accuracy by waiting at each step, keeping the whole gas sample in the bath and measuring the temperature next to the tube.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
+  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
+  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--05-absolute-zero.webp" width="900" height="1080" alt="Pressure of a fixed volume of air against Celsius temperature: 100 kPa at 20 °C and 128 kPa at 100 °C, a gradient of 0.35 kPa per °C. Extending the line back to zero pressure gives -266 °C, close to the accepted -273 °C; the long extrapolation magnifies small errors." loading="lazy">
+  <figcaption>Extrapolating a pressure-temperature line back to p = 0 estimates absolute zero.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Idea | Do not confuse with |
@@ -151,6 +167,12 @@ Visible smoke or pollen particles jitter randomly because unequal numbers of fas
 10. m = 0.0020 / 6.02 × 10²³ = 3.32 × 10⁻²⁷ kg. c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 273 / 3.32 × 10⁻²⁷) = **1.84 × 10³ m s⁻¹**.
 11. Air molecules, too small to see, strike a smoke particle at random and fast. The numbers hitting each side are unequal at any moment, so the net force changes in size and direction.
 12. They were found by experiment and describe how p, V and T behave. They do not explain why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--08-first-law.webp" width="900" height="1270" alt="Top: a gas absorbs 500 J of thermal energy and expands, doing 200 J of work on its surroundings, so W = -200 J and the internal energy rises by 300 J. Bottom: a piston does 340 J of work on a gas while 120 J leaves by heating, so internal energy rises by 220 J. Waterfall bars show q, W and ΔU. Cambridge only: isothermal ΔU = 0, adiabatic q = 0, isobaric constant pressure, isovolumetric W = 0." loading="lazy">
+  <figcaption>ΔU = q + W, with W the work done on the gas, negative when the gas expands.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

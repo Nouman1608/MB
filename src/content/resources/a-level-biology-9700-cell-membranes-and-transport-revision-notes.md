@@ -75,6 +75,17 @@ Other pages for this topic: the [cell membranes practice questions](/resources/a
 3. Ligand **binds** to a complementary **cell surface receptor** on the target cell.
 4. A specific response follows inside that cell. Cells without the receptor do not respond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--01-fluid-mosaic.webp" width="900" height="970" alt="Cross-section of a cell surface membrane. Phospholipid heads face the watery outside and inside, with hydrophobic tails forming a core. A channel protein with a water-filled pore, a carrier protein and a glycoprotein span the bilayer, cholesterol sits in both layers, and carbohydrate chains on the glycoprotein and a glycolipid face outwards only." loading="lazy">
+  <figcaption>The bilayer, proteins, cholesterol and outward-facing carbohydrate chains of the fluid mosaic model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--02-cell-signalling.webp" width="900" height="1000" alt="A secreting cell releases triangular ligands, which are carried in the blood. The target cell has a receptor with a triangular binding site, so the ligand binds and the cell responds. A second cell with a square binding site cannot bind the ligand and does not respond." loading="lazy">
+  <figcaption>Only cells with a receptor complementary to the ligand respond.</figcaption>
+</figure>
+
+
 ## 4.2 Movement into and out of cells
 
 ### The six processes compared
@@ -87,6 +98,17 @@ Other pages for this topic: the [cell membranes practice questions](/resources/a
 | Active transport | Yes | Yes (carrier) | Yes |
 | Endocytosis | Yes | No | Bulk movement in |
 | Exocytosis | Yes | No | Bulk movement out |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--03-passive-transport.webp" width="900" height="1010" alt="Three panels with a crowded high-concentration side and a sparse low-concentration side. Oxygen crosses the bilayer directly, ions pass through a channel protein pore, and glucose binds to a carrier protein that changes shape. All move down the gradient with no ATP." loading="lazy">
+  <figcaption>Simple diffusion crosses the bilayer; facilitated diffusion uses channel or carrier proteins; none needs ATP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--04-active-bulk-transport.webp" width="900" height="1040" alt="A carrier protein moves glucose from the low to the high concentration side using ATP, which becomes ADP and phosphate. Endocytosis shows the membrane folding in, pinching off and leaving a vesicle inside. Exocytosis shows a vesicle arriving, fusing and releasing its contents outside." loading="lazy">
+  <figcaption>Active transport and bulk transport both need ATP.</figcaption>
+</figure>
+
 
 ### Definitions worth writing word for word
 
@@ -111,6 +133,12 @@ Other pages for this topic: the [cell membranes practice questions](/resources/a
 |---|---|---|
 | Placed in higher ψ | Swells, may burst | Turgid; wall stops bursting |
 | Placed in lower ψ | Shrinks, crenated | Plasmolysed; protoplast pulls from wall |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--05-water-potential-cells.webp" width="900" height="1070" alt="A red blood cell and a plant cell (psi -700 kPa) in solutions of -300, -700 and -1100 kPa. In the higher-psi solution water enters: the red cell swells and may burst, the plant cell is turgid. With equal psi there is no net movement. In the lower-psi solution water leaves: the red cell shrinks and crinkles and the plant protoplast pulls away from the wall (plasmolysis)." loading="lazy">
+  <figcaption>Water moves to the more negative water potential, so cells swell, stay the same or shrink.</figcaption>
+</figure>
+
 
 ### SA:V formulas
 
@@ -140,6 +168,12 @@ SA:V = 69.1 / 31.4 = 2.2 : 1
 4. Calculate SA:V for each cube and plot it against the result.
 5. Conclusion: larger SA:V gives faster complete colour change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--07-agar-cubes.webp" width="900" height="990" alt="Cross-sections of 1, 2 and 3 cm agar cubes drawn to scale, each with a 0.25 cm band reached by acid and a pink unchanged core. The share of volume reached is 87.5, 57.8 and 42.1 percent." loading="lazy">
+  <figcaption>The cube with the largest SA:V has the largest proportion reached by diffusion.</figcaption>
+</figure>
+
+
 ### Method in steps: water potential of a tissue
 
 1. Cut equal-sized cylinders from one tissue; blot and weigh each.
@@ -148,6 +182,12 @@ SA:V = 69.1 / 31.4 = 2.2 : 1
 4. Percentage change = (final − initial) / initial × 100.
 5. Plot percentage change against concentration; read the concentration at 0 % change.
 6. Convert that concentration to water potential using the data supplied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--08-potato-water-potential.webp" width="900" height="1040" alt="Graph of percentage change in mass of potato cylinders against sucrose concentration. The line falls from +11.2 to -8.4 percent and crosses zero at about 0.25 mol per dm cubed, where there is no net water movement. Halfway between -540 and -820 kPa gives about -680 kPa." loading="lazy">
+  <figcaption>The zero-change concentration gives the tissue water potential.</figcaption>
+</figure>
+
 
 ### Worked reminder: finding the 0 % point without a graph
 

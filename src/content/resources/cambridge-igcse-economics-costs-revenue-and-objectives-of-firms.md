@@ -54,6 +54,12 @@ Two links are worth memorising because they let you check any answer:
 
 Fixed costs are fixed only in the sense that they do not move with output over the period being studied. They still have to be paid if output is zero. At zero output, TC equals FC and VC is zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## 3.7.2 Calculating costs
 
 ### Worked example 1: a cost table
@@ -110,6 +116,17 @@ Label both axes, label each curve, and mark the output at which ATC is lowest.
 - **Why they rise later.** The workshop becomes crowded, machines are over-used or overtime is paid, so each extra candle costs more in variable cost.
 - **Using the lowest point.** The output with the lowest ATC is the output at which each unit costs least to make. It is not automatically the profit-maximising output, because that depends on revenue as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--05-hilltop-total-costs.webp" width="900" height="900" alt="FC is flat at 600, VC starts at the origin and rises to 1,740 at 60 candles, and TC starts at 600 and is exactly 600 above VC at every output." loading="lazy">
+  <figcaption>TC = FC + VC, so TC stays 600 above VC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--06-hilltop-average-costs.webp" width="900" height="900" alt="AFC falls from 60 to 10; AVC is U-shaped with lowest 25 at 40 candles; ATC is U-shaped with lowest 38 at 50 candles. The gap between ATC and AVC equals AFC (20 at 30 candles)." loading="lazy">
+  <figcaption>ATC = AFC + AVC, and ATC is lowest further right than AVC.</figcaption>
+</figure>
+
+
 ## 3.7.3 Revenue: the two definitions
 
 **Total revenue (TR)** is the sum a firm takes in from its sales: price × quantity sold.
@@ -117,6 +134,12 @@ Label both axes, label each curve, and mark the output at which ATC is lowest.
 **Average revenue (AR)** is revenue per unit sold: TR ÷ quantity. If every unit is sold at the same price, AR equals the price.
 
 Revenue is not profit. Profit is TR minus TC. A firm with a high TR can still make a loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## 3.7.4 Calculating revenue and the influence of sales
 
@@ -160,6 +183,17 @@ Interpretation:
 
 Be careful with what this does and does not show. It shows TR can rise or fall when price is cut. It does not say which price maximises profit, because costs have not been included. Lower sales also mean lower VC, so a lower-revenue option can still earn more profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--07-hilltop-profit.webp" width="900" height="900" alt="TR rises in a straight line at $45 a candle; TC starts at 600. The gap is a loss of 30 at 30 candles then profits of 200, 350 and 360 at 40, 50 and 60 candles." loading="lazy">
+  <figcaption>Profit is the gap between total revenue and total cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--08-tote-bag-revenue.webp" width="900" height="990" alt="Bars of TR at $12, $10, $8, $6: 1,200, 1,300, 1,200, 960. Changes are +100, -100 and -240 even though sales rose at every cut." loading="lazy">
+  <figcaption>More sales do not guarantee more revenue after a price cut.</figcaption>
+</figure>
+
+
 ## 3.7.5 Objectives of firms
 
 An objective is what a firm is trying to achieve. Different firms, and the same firm at different times, have different objectives.
@@ -199,6 +233,12 @@ Objectives often conflict. Profit now may reduce growth later, and social goals 
 - Competition: strong rivals push firms towards survival or growth through lower prices.
 - Time period: growth may sacrifice short-run profit for long-run profit.
 - Objectives can combine. A firm may seek growth subject to making enough profit to survive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--09-firm-objectives.webp" width="900" height="1130" alt="Four tiles: survival, profit maximisation, growth, social welfare, each with who pursues it. Below, cutting price from 45 to 41 at 60 candles lowers profit from 360 to 120, but TR 2,460 still covers TC 2,340." loading="lazy">
+  <figcaption>The same calculation can look good or poor depending on the objective.</figcaption>
+</figure>
+
 
 ## Common errors
 

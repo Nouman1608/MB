@@ -48,11 +48,23 @@ Lipids are **not polymers** — triglycerides are one glycerol plus three fatty 
 
 **The α/β distinction is the whole answer to cellulose questions.** Because β-glucose has the OH group above carbon 1, alternate molecules must flip 180° to bond, producing straight chains rather than a helix.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+
 ## Lipids
 
 Triglyceride = glycerol + 3 fatty acids, ester bonds. **Saturated** fatty acids have no C=C; **unsaturated** have one or more, which produce kinks that stop close packing — hence oils are liquid at room temperature.
 
 **Phospholipids** replace one fatty acid with a phosphate group, giving a **hydrophilic head and hydrophobic tails**. In water they form a bilayer, tails inward — the basis of every membrane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
 
 ## Proteins
 
@@ -71,6 +83,17 @@ Triglyceride = glycerol + 3 fatty acids, ester bonds. **Saturated** fatty acids 
 
 - **Fibrous** (collagen, keratin) — long, insoluble, structural, repetitive sequence.
 - **Globular** (haemoglobin, enzymes) — compact, soluble, hydrophilic groups outward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
 
 ## Enzymes
 
@@ -100,6 +123,12 @@ Enzymes lower the **activation energy** by forming an enzyme–substrate complex
 
 The non-reducing sugar test must be preceded by a **negative** Benedict's test, and the acid must be **neutralised** before adding Benedict's, or the result is invalid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--09-biochemical-tests.webp" width="900" height="1300" alt="Four pairs of test tubes: Benedict’s (heated) stays blue without reducing sugar and turns brick-red with it; iodine stays orange-brown without starch and turns blue-black with it; biuret stays blue without protein and turns purple with it; in the emulsion test, ethanol then water stays clear without lipid and turns cloudy white with it. A strip shows the Benedict’s colours blue, green, yellow, orange, brick-red with more reducing sugar. A three-step flow shows the non-reducing sugar test: boil with dilute HCl, neutralise with sodium hydrogencarbonate, then Benedict’s and heat." loading="lazy">
+  <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
+</figure>
+
+
 ## Exam traps
 
 - Calling lipids polymers.
@@ -118,3 +147,9 @@ The non-reducing sugar test must be preceded by a **negative** Benedict's test, 
 5. Describe the non-reducing sugar test in full.
 
 **Answers:** 1. A reaction joining two molecules with the release of a water molecule; a glycosidic bond. 2. β-glucose requires alternate molecules to be inverted, producing straight unbranched chains that hydrogen-bond to each other to form microfibrils with high tensile strength. 3. The active site is not initially complementary but changes shape as the substrate binds, straining the substrate's bonds so less energy is needed to break them. 4. All active sites are occupied, so enzyme concentration becomes the limiting factor. 5. Confirm a negative Benedict's test first; boil with dilute HCl to hydrolyse, neutralise with sodium hydrogencarbonate, then heat with Benedict's — brick red indicates a non-reducing sugar was present.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+

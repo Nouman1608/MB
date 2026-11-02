@@ -73,6 +73,22 @@ Each step was driven by an experimental result the previous model couldn't
 explain — a useful thing to be able to describe, not just the final model
 itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-atomic-structure--08-atomic-model-timeline.webp" width="900" height="1140" alt="Dalton: solid sphere (early 1800s). Thomson: plum pudding after the electron was found. Rutherford: tiny dense nucleus from alpha scattering. Bohr: electrons in fixed shells, matching atomic spectra." loading="lazy">
+  <figcaption>Each atom model replaced the last when new evidence disagreed with it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-atomic-structure--03-alpha-scattering-foil.webp" width="900" height="1140" alt="Top: the plum pudding model predicts alpha particles all pass almost straight through. Bottom: alpha particles are fired at gold foil with a detector screen. Most go straight on, some are deflected and a few bounce back, which shows a tiny dense nucleus." loading="lazy">
+  <figcaption>Geiger and Marsden fired alpha particles at gold foil: most passed through, some were deflected and a few bounced back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
+
 ## The structure of the atom
 
 A modern atom is described as a **positively charged nucleus** — containing
@@ -91,12 +107,29 @@ electrons have a negligible mass compared with protons and neutrons.
 | Neutron | 0 | 1 |
 | Electron | -1 | very small (negligible) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-atomic-structure--09-atom-nucleus-scale.webp" width="900" height="1160" alt="The atom has radius about 10^-10 m and the nucleus about 1/10 000 of that, 10^-14 m. If the atom were a 100 m stadium the nucleus would be a 1 cm marble." loading="lazy">
+  <figcaption>The nucleus is about ten thousand times smaller than the atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+
 ## The scale of atoms
 
 Atoms and small molecules have a typical radius on the order of **10⁻¹⁰
 metres** — a scale worth being able to recall directly, since questions may
 ask you to compare it with other sizes (a human hair, a bacterium, a
 nanoparticle) or reason about how many atoms would span a given distance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
 
 ## Working out atomic structure: atomic number, mass number and isotopes
 
@@ -130,6 +163,22 @@ of protons)
 - Neutrons = mass number − atomic number = 24 − 12 = **12**
 - Electrons: a neutral magnesium atom has 12 electrons; forming a 2+ ion
 means *losing* 2 electrons, so this ion has 12 − 2 = **10** electrons
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-atomic-structure--10-ion-particle-count.webp" width="900" height="1040" alt="Magnesium ion Mg2+ with mass number 24 and atomic number 12: 12 protons, 12 neutrons and 10 electrons, because two of the atom's 12 electrons were lost. Protons minus electrons gives charge +2." loading="lazy">
+  <figcaption>Forming an ion changes the electrons, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

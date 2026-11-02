@@ -62,6 +62,12 @@ minerals for this topic; questions naming scurvy or rickets are asking
 specifically for a vitamin deficiency link, not a general "eat
 healthily" answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--01-balanced-diet.webp" width="900" height="1188" alt="Nine rows, each with a food picture: carbohydrates (rice) give energy; fats and oils are an energy store and insulate; proteins (egg) for growth and repair; vitamin C (orange) prevents scurvy; vitamin D (oily fish) prevents rickets; calcium (milk) for strong bones and teeth; iron (green leaves) makes haemoglobin; fibre (carrot) keeps food moving; water is the solvent and transport medium." loading="lazy">
+  <figcaption>Each part of the diet has a job; vitamin C and D deficiency cause scurvy and rickets.</figcaption>
+</figure>
+
+
 ## 7.2 Digestive system — naming and function
 
 **Alimentary canal** (Core): mouth, oesophagus, stomach, small
@@ -82,6 +88,17 @@ A common exam-trap confusion: **egestion is not excretion**. Egestion
 removes food that was never absorbed into the body; excretion (a
 different topic) removes waste made by the body's own metabolism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--03-five-processes.webp" width="900" height="1080" alt="Five numbered steps with small pictures: ingestion (food into the mouth), digestion (a chain of beads cut into single beads), absorption (beads move from gut into blood), assimilation (a cell takes up nutrients) and egestion (faeces leaving). A note contrasts egestion with excretion, which is waste made by the body own cells (Topic 13)." loading="lazy">
+  <figcaption>Learn the five processes in order and keep egestion separate from excretion.</figcaption>
+</figure>
+
+
 ## 7.3 Physical digestion — mechanical breakdown
 
 **Physical digestion** (Core) breaks food into smaller pieces
@@ -96,6 +113,17 @@ cement) and function in physical digestion.
 breaking large fat droplets into smaller ones to increase surface
 area for lipase, without any chemical change to the fat itself (bile
 is not an enzyme).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--04-teeth.webp" width="900" height="1180" alt="Top: half a lower jaw with eight teeth: two incisors (cut), one canine (tears), two premolars (crush) and three molars (grind). Bottom: cross-section of a tooth showing enamel on the crown, dentine beneath, a central pulp holding nerves and blood vessels, and cement covering the root that fixes it in the jaw." loading="lazy">
+  <figcaption>Four types of teeth with their jobs, and the layers inside one tooth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
+</figure>
+
 
 ## 7.4 Chemical digestion — enzymes and their exact roles
 
@@ -125,6 +153,17 @@ conditions — same job (protease), opposite pH environments.
 entering the duodenum, creating a suitable pH for the small
 intestine's own enzymes to work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+</figure>
+
+
 ## 7.5 Absorption — where and how nutrients enter the blood
 
 **Core**: the small intestine is where nutrients are absorbed; most
@@ -139,6 +178,12 @@ villus and the distinct roles of its two internal transport routes:
 - **Lacteals** (part of the lymphatic system) absorb fatty acids and
 glycerol (fat digestion products) specifically — not sugars or
 amino acids.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+
 
 ## Exam traps
 

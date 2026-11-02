@@ -52,6 +52,12 @@ You **simplify** or **evaluate** an expression, **solve** an equation, and **use
 - Division is written as a fraction: (k + 1) ÷ 3 = (k + 1)/3.
 - "Subtract 2 from p, then multiply by 5" is 5(p − 2). Brackets show the order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--06-brackets-order-machine.webp" width="900" height="920" alt="Function machines with n = 5: add 3 then double gives 2(n + 3) = 16; double then add 3 gives 2n + 3 = 13." loading="lazy">
+  <figcaption>Brackets show which operation happens first.</figcaption>
+</figure>
+
+
 ## Substitution (2.3C)
 
 **Method in steps**
@@ -68,6 +74,17 @@ You **simplify** or **evaluate** an expression, **solve** an equation, and **use
 
 **Must-know:** (−3)² = 9 but −3² = −9. On a calculator, type the brackets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--08-substitute-fraction-value.webp" width="900" height="935" alt="For x = 2/3, the top 2x + 1 = 7/3 and the bottom x - 1 = -1/3; 7/3 divided by -1/3 is -7. The three values are marked on a number line." loading="lazy">
+  <figcaption>Work out the numerator and denominator separately, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
+
 ## Formulae from words, diagrams and facts (2.3D–E)
 
 **Method in steps**
@@ -80,6 +97,12 @@ You **simplify** or **evaluate** an expression, **solve** an equation, and **use
 **Worked reminder (words).** A plumber charges a call-out fee of £45 plus £30 per hour. The cost of h hours is C = 45 + 30h.
 
 **Worked reminder (diagram).** A regular hexagon has sides of (x + 2) cm. Its perimeter is P = 6(x + 2) = 6x + 12.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--07-cooking-time-graph.webp" width="900" height="1020" alt="Straight-line graph of T against w: starts at 25 minutes and rises 40 minutes per kg. w = 2.5 gives T = 125, and T = 165 gives w = 3.5." loading="lazy">
+  <figcaption>The formula T = 40w + 25 as a line: slope 40, start 25.</figcaption>
+</figure>
+
 
 ## Changing the subject (2.3F)
 
@@ -102,6 +125,17 @@ v^2 = 2E/m
 v = √(2E/m)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--10-undo-in-reverse-order.webp" width="900" height="1070" alt="Forward and reverse machines for y = (3x - 5)/4, S = 4 pi r squared, V = (2/3) pi r cubed and y = square root of ((x + 3)/2): undo each step in reverse order with the inverse operation." loading="lazy">
+  <figcaption>To change the subject, undo the steps backwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+
 ## Higher tier only: subject appears twice
 
 **Method in steps**
@@ -123,6 +157,12 @@ y = (5x + 2)/(x - 1)
 ```
 
 With a power or root of the subject: isolate the power or root first, then apply the inverse (square to remove a square root, cube root to remove a cube).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--01-subject-twice.webp" width="900" height="980" alt="Four steps for p = (2x + 3)/(x − 1): multiply out to p(x − 1) = 2x + 3, expand, gather the x-terms on the left and the others on the right, then factorise x(p − 2) = p + 3 to get x = (p + 3)/(p − 2). The check p = 5 gives x = 8/3 and back to 5. Terms with x are teal and terms without are gold." loading="lazy">
+  <figcaption>Collect every x-term on one side, then factorise x out.</figcaption>
+</figure>
+
 
 ## Solving linear equations (2.4A)
 
@@ -156,6 +196,17 @@ Fractional coefficients such as (3/4)x = 6 are solved the same way: multiply bot
 
 The Higher tier example in the specification has three fractions in one equation. The method is identical: one LCM, multiply every term, then solve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--09-clear-fractions-lcm.webp" width="900" height="930" alt="Example 15: multiply both sides by 4 to get 3x + 1 = 4(x - 2), so x = 9. Example 16: multiply every term by 15 to get 5(x + 4) - 3(2x - 1) = 15, so x = 8." loading="lazy">
+  <figcaption>Multiply every term by the LCM to remove the fractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+
 ## Setting up equations (2.4B)
 
 | Fact | Equation form |
@@ -171,6 +222,17 @@ The Higher tier example in the specification has three fractions in one equation
 | "A is 3 times B" | A = 3B |
 
 **Method:** define the letter, write every quantity in terms of it, form the equation, solve, then answer the question asked (all the angles, both ages, the cost).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations--03-age-bars.webp" width="900" height="930" alt="Bars show Omar as x and Sana as x + 4, then each gaining 6 years. Their ages in 6 years add to 50, so 2x + 16 = 50 and x = 17: Omar 17, Sana 21." loading="lazy">
+  <figcaption>A bar model turns the story into the equation 2x + 16 = 50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--01-three-in-a-row.webp" width="900" height="940" alt="Three columns of blocks stand for n, n + 1 and n + 2, drawn with n = 4 as 4, 5 and 6 blocks. The 3 extra blocks are regrouped so each column has n + 1 blocks. So the sum 3n + 3 is 3 groups of (n + 1), a multiple of 3." loading="lazy">
+  <figcaption>The sum of three consecutive numbers is always 3(n + 1).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

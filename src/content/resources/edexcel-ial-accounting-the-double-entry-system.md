@@ -101,6 +101,27 @@ The trial balance lists every closing balance and checks that the totals agree.
 
 Agreement shows debits equal credits. It does not prove every entry is correct, because some errors leave both sides equal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--02-ial-bank-account-11.webp" width="900" height="842" alt="Of eleven transactions, seven touch the bank. The bank account shows debits of 31,400 and credits of 14,900 plus a balance carried down of 16,500, which is brought down as a debit." loading="lazy">
+  <figcaption>Seven of the eleven transactions pass through the bank account, leaving a debit balance of 16,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--03-ial-trial-balance-kestrel.webp" width="900" height="984" alt="The Kestrel Ridge trial balance lists seven debit balances and four credit balances, each with a bar. Both columns total 32,500 dollars." loading="lazy">
+  <figcaption>Debits and credits both total 32,500, so the trial balance agrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+
 ## 1.1.4 Books of prime entry
 
 A book of prime entry gives each transaction its first written record, ahead of any ledger posting. Grouping similar items lets ledger postings be made from totals.
@@ -137,6 +158,27 @@ The journal records items such as buying a non-current asset on credit, writing 
 
 Narrative: purchase of a delivery van on credit, invoice dated 12 April.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--01-prime-entry-flow.webp" width="900" height="950" alt="Three credit sales invoices are entered in the sales day book, total 2,700 dollars. Each is debited separately to the customer in the sales ledger and the total is credited once to Sales, so debits equal credits. Credit notes of 150 and 90 total 240 and are debited to Sales returns." loading="lazy">
+  <figcaption>Post each invoice to the customer, but post the day book total to Sales once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--02-petty-cash-imprest.webp" width="900" height="900" alt="A float of 150 dollars pays postage 32, refreshments 18, travel 27 and cleaning 14, a total of 91, leaving 59. The bank reimburses 91 to restore the float to 150, with each expense debited and the bank credited." loading="lazy">
+  <figcaption>The imprest system tops the float back up by exactly what was spent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--04-discount-columns.webp" width="900" height="700" alt="A three-column cash book shows discount allowed of 100 beside a 4,100 receipt and discount received of 200 beside a 7,300 payment. Each discount is posted at once to the personal account; at period end the column totals are posted to the Discount allowed (debit) and Discount received (credit) accounts." loading="lazy">
+  <figcaption>Individual discounts go to personal accounts at once; the column totals go to the discount accounts at period end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--04-ial-prime-entry-purchases-journal.webp" width="900" height="1008" alt="Three cards show the purchases day book (8,000 invoice), purchases returns day book (500 credit note) and the journal (9,500 van on credit). Each ends in a debit and a credit of equal amount." loading="lazy">
+  <figcaption>Every book of prime entry leads to an equal debit and credit in the ledger.</figcaption>
+</figure>
+
+
 ## 1.1.5 End of period transfers and adjustments
 
 At the year end the ledgers need two kinds of work. Adjustments put each expense and income item into the right period (accruals and prepayments, depreciation, irrecoverable debts and inventory). Transfers then move the final figures to the statement of profit or loss, leaving the statement of financial position balances to be brought down.
@@ -170,6 +212,17 @@ Inventory is not updated during the year, so it needs a transfer. Opening invent
 
 Revenue and expense accounts are cleared the same way, and the profit for the year is then transferred to capital.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--03-cost-of-sales-transfer.webp" width="900" height="820" alt="A waterfall in dollars: opening inventory 5,200 plus purchases 41,300, less purchases returns 1,100 and closing inventory 6,400, leaves cost of sales of 39,000." loading="lazy">
+  <figcaption>Because inventory is not updated during the year, cost of sales is found from opening inventory, purchases, returns and closing inventory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--01-ial-year-end-transfers.webp" width="900" height="924" alt="Inventory, purchases and purchases returns accounts transfer to the statement of profit or loss in four numbered steps. Debits 46,500 less credits 7,500 give cost of sales of 39,000 dollars." loading="lazy">
+  <figcaption>The four year-end transfers build cost of sales: 5,200 + 41,300 - 1,100 - 6,400 = 39,000.</figcaption>
+</figure>
+
+
 ## 1.1.6 Allowance for irrecoverable debts
 
 An irrecoverable debt is a trade receivable that will not be paid. It is written off: debit Irrecoverable debts, credit the customer. An allowance for irrecoverable debts is different. It is an estimate of debts that may not be paid, held in its own account and deducted from trade receivables. It reflects prudence, because profit and assets should not be overstated.
@@ -200,6 +253,12 @@ The statement of financial position shows trade receivables of 62,500 less the a
 
 If the next year's schedule produced an allowance of 2,540, the allowance account would be debited with the decrease of 266 and the statement of profit or loss credited with 266, which increases profit. If a debt previously written off is later paid, debit Bank and credit Irrecoverable debts recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--05-allowance-schedule.webp" width="900" height="930" alt="Receivables of 64,100 less a 1,600 write-off leave 62,500, split by age with rates of 1, 4, 10 and 30 percent giving 380, 496, 850 and 1,080, a total allowance of 2,806. The increase of 456 on the existing 2,350 is charged to profit or loss and the statement of financial position shows 59,694." loading="lazy">
+  <figcaption>Write off first, then apply age-band rates; only the increase reaches profit or loss.</figcaption>
+</figure>
+
+
 ## 1.1.7 ICT in the double entry system
 
 Accounting software posts a transaction to every account it affects from a single entry, completing the double entry automatically. A trial balance, a trade receivables ledger control account and draft financial statements can all be produced from the same data.
@@ -214,6 +273,12 @@ Accounting software posts a transaction to every account it affects from a singl
 ### Worked example: what ICT cannot see
 
 A clerk keys a sale of 4,500 as 5,400. The package debits trade receivables 5,400 and credits Sales 5,400. The trial balance agrees, and the control account agrees with the personal ledger, but profit is overstated by 900. Only comparing the invoice with the entry finds it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--05-ial-ict-keyed-error.webp" width="900" height="834" alt="A sale of 4,500 is keyed as 5,400. The package posts debit trade receivables and credit sales of 5,400, so the trial balance and control account agree, but profit is overstated by 900." loading="lazy">
+  <figcaption>ICT completes the double entry but cannot spot a wrong amount keyed in.</figcaption>
+</figure>
+
 
 ## Common errors
 

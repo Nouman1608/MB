@@ -45,6 +45,12 @@ Marketing is how a business connects what it sells with the people who might buy
 
 In an answer, tie each point to the business in the stem. "Marketing increases sales" earns little. "Pembrook Pastries is new on the high street, so advertising its opening informs shoppers who walk past every day" is applied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--01-role-of-marketing.webp" width="900" height="940" alt="Three stacked boxes joined by arrows: identify and understand customers (a bakery finds neighbours want gluten-free bread), inform customers (price, features, where to find it), increase sales (revenue pays costs and leaves profit). A banner says the first two aims serve the third." loading="lazy">
+  <figcaption>The first two aims of marketing serve the third: more sales.</figcaption>
+</figure>
+
+
 ## 2.2 Market research
 
 Market research is the collection and study of information about customers, competitors and the market. Its purpose is to identify and understand customer needs, so a business takes decisions on evidence rather than guesses.
@@ -71,6 +77,12 @@ No method is best in every case. Match the method to the purpose.
 - A firm testing a new recipe needs trialling or a focus group, because a statistic cannot tell it how something tastes.
 - A firm with a small budget and a tight deadline will lean on secondary sources and perhaps a short questionnaire.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--05-research-for-purpose.webp" width="900" height="1160" alt="Four situations matched to a method: a new business with no sales history needs primary research; census data (secondary, free) gives the size of an age group; a new recipe needs trialling or a focus group; a small budget and tight deadline suggests secondary sources plus a short questionnaire. Secondary sources shown: newspapers and magazines, census, websites and internal data." loading="lazy">
+  <figcaption>Match the research method to the purpose: no method is best in every case.</figcaption>
+</figure>
+
+
 ### Qualitative and quantitative data
 
 Quantitative data is numerical: counts, percentages, averages. Qualitative data is descriptive: opinions, reasons, feelings. Numbers show how many; words show why. Good decisions often use both.
@@ -80,6 +92,22 @@ Quantitative data is numerical: counts, percentages, averages. Qualitative data 
 Percentage saying yes = 124 / 200 × 100 = **62%**
 
 That is quantitative. A focus group of eight regular customers adds that they like the sourdough but find the loaf too large for one person. That is qualitative, and it suggests a smaller loaf. The percentage alone could not have told Pembrook that. The 62% is also a sample, so the figure for all customers could differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--09-quant-qual-research.webp" width="900" height="930" alt="A grid of 200 circles with 124 filled shows that 62 percent of a 200-customer sample would buy a sourdough loaf each week (quantitative). Below, a focus group of eight customers says the loaf is too large for one person (qualitative), which suggests a smaller loaf." loading="lazy">
+  <figcaption>The 62% tells Pembrook how many would buy; the focus group tells it why, and what to change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
 
 ## 2.3 Market segmentation
 
@@ -103,6 +131,12 @@ The marketing mix is the combination of the four Ps: product, price, promotion a
 
 Design is how a product looks, feels and works. Invention is creating something new that did not exist before. Innovation is improving or changing an existing idea, such as adding a feature or using a new process. Invention is rarer; innovation is the common route for most firms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--02-design-invention-innovation.webp" width="900" height="980" alt="Three boxes: design (how a product looks, feels and works), invention (something new that did not exist before, rarer) and innovation (improving or changing an existing idea such as a new feature or process, the common route)." loading="lazy">
+  <figcaption>Invention creates something new; innovation improves what exists.</figcaption>
+</figure>
+
+
 ### The product life cycle
 
 | Stage | Sales | What usually happens |
@@ -116,6 +150,12 @@ Design is how a product looks, feels and works. Invention is creating something 
 
 Year 3 to year 4: (25 - 24) / 24 × 100 = **+4.2%**. Sales have almost stopped rising, so this is maturity. Year 5 to year 6: (15 - 23) / 23 × 100 = **-34.8%**. Sales are falling fast, so this is decline. Year 1 to year 2 is +266.7%, which fits growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--06-plc-cracker-sales.webp" width="900" height="850" alt="A bar chart of cracker sales in thousands for years 1 to 6 (3, 11, 24, 25, 23, 15) with the year-on-year percentage changes underneath. The lesson three readings are highlighted: years 1 to 2 growth (+266.7%), years 3 to 4 maturity (+4.2%) and years 5 to 6 decline (-34.8%)." loading="lazy">
+  <figcaption>The size of the percentage change in sales shows which life-cycle stage a product is in.</figcaption>
+</figure>
+
+
 ### Pricing methods
 
 | Method | How it works | Suits |
@@ -128,6 +168,12 @@ Year 3 to year 4: (25 - 24) / 24 × 100 = **+4.2%**. Sales have almost stopped r
 
 The specification does not give a cost-plus formula, so this is the standard form: selling price = unit cost + mark-up. Pembrook's loaf costs £1.80 to make. With a 50% mark-up, 50% of £1.80 is £0.90, so the price is **£2.70**. In a promotion of 20% off, 20% of £2.70 is £0.54, giving **£2.16**. Pembrook still makes £0.36 on each loaf (£2.16 - £1.80), against £0.90 normally, so the promotion must raise volume to be worthwhile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--07-cost-plus-promotion.webp" width="900" height="810" alt="Two stacked bars for a loaf costing 1.80 pounds. With a 50 percent mark-up the price is 2.70, made of cost 1.80 and profit 0.90. A 20 percent promotion removes 0.54, giving a price of 2.16 and a profit of only 0.36. A banner says volume must rise, to about 2.5 times as many loaves for the same profit." loading="lazy">
+  <figcaption>A 20% promotion cuts profit per loaf from 0.90 to 0.36 pounds, so sales volume must rise.</figcaption>
+</figure>
+
+
 ### Promotion
 
 Point of sale methods work where the customer is about to buy:
@@ -139,9 +185,21 @@ Point of sale methods work where the customer is about to buy:
 
 Advertising uses media such as social media, websites, print media, television and radio. Choose by audience and budget. Social media can target an age group cheaply. Television reaches a large audience but costs more. Local radio suits a local shop. Print reaches readers of a particular magazine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--03-promotion-pos-and-media.webp" width="900" height="1250" alt="Four point-of-sale methods (price reductions, loss leaders sold at or below cost, competitions, free samples) and four advertising media chosen by audience and budget (social media cheap for an age group, television large audience but dearer, local radio for a local shop, print for readers of a magazine)." loading="lazy">
+  <figcaption>Point-of-sale methods work at the till; advertising media are chosen by audience and budget.</figcaption>
+</figure>
+
+
 ### Place
 
 Place is how products and services reach customers through digital and physical distribution channels. A physical channel is a shop, market stall or delivery to a premises. A digital channel is the business's own website, an app or an online marketplace. Digital channels reach customers far away and are open at all hours but customers cannot touch the goods; physical outlets allow that but cost rent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--10-place-physical-digital.webp" width="900" height="830" alt="Two columns. Physical channels (shop, stall, delivery) let customers touch the goods but cost rent. Digital channels (website, app, online marketplace) reach customers far away and are open at all hours but customers cannot touch the goods." loading="lazy">
+  <figcaption>Place can be a physical or a digital channel, and each has a trade-off.</figcaption>
+</figure>
+
 
 ### How the four Ps work together
 
@@ -164,6 +222,17 @@ Market share = (business sales / total market sales) × 100. This is the standar
 - Change in Pembrook's sales = (88,400 - 76,800) / 76,800 × 100 = **15.1%**. The market grew 8.3%.
 
 Pembrook grew faster than the market, so its share rose one percentage point. A fall in share while sales rise would mean rivals grew faster. If the year 2 rise followed a promotion, you can only say it is consistent with the promotion working. Other causes, such as a rival closing, could explain it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--08-market-share-pembrook.webp" width="900" height="830" alt="Two bars show the local bakery market. Year 1: market 480,000 pounds with Pembrook at 76,800 (16 percent share). Year 2: market 520,000 with Pembrook at 88,400 (17 percent). The market grew 8.3 percent and Pembrook sales 15.1 percent, so share rose one percentage point." loading="lazy">
+  <figcaption>Pembrook grew faster than its market, so its market share rose from 16% to 17%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--04-mix-decisions.webp" width="900" height="880" alt="Three rows run from a situation to the P to change to the decision: falling sales, price, a promotional price; a new competitor, product, a better design; a new target market, promotion, a different advertising medium." loading="lazy">
+  <figcaption>A change in the situation points to one P of the mix to adjust.</figcaption>
+</figure>
+
 
 ## Common errors
 

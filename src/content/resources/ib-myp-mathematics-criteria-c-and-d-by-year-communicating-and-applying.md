@@ -67,9 +67,21 @@ The pattern is clear. Year 1 asks you to say what you did. Year 3 asks you to gi
 
 This means correct notation, symbols and terminology, in speech and in writing. Typical slips are chaining equals signs across different quantities, writing 2^3 or 4.5E3 instead of 2³ or 4.5 × 10³, and using "times" and "x" without care. The guide's conventions for on-screen examinations make the point directly: use mathematical notation, not calculator notation, and write subscripts and superscripts correctly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--07-cd-notation-slips.webp" width="900" height="770" alt="Three slips and fixes: 2^3 becomes 2 cubed, 4.5E3 becomes 4.5 x 10^3, and the chained line 3 x 4 = 12 + 5 = 17 is split into two correct lines." loading="lazy">
+  <figcaption>Use mathematical notation and one equals sign per value.</figcaption>
+</figure>
+
+
 ### Strand ii: forms of representation
 
 Choose the form that fits the information: a table for discrete values, a graph for a trend or rate of change, an equation for a rule, a diagram for geometry, a sentence for a conclusion. A form is correct when it is labelled, scaled and titled so a reader needs nothing else.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--08-cd-choose-form.webp" width="900" height="780" alt="Five kinds of information matched to a form: discrete values to a table, a trend or rate to a graph, a rule to an equation, geometry to a diagram, a conclusion to a sentence." loading="lazy">
+  <figcaption>Pick the representation that fits the information, then label, scale and title it.</figcaption>
+</figure>
+
 
 ### Strand iii: moving between forms
 
@@ -90,6 +102,12 @@ From Year 3 you are expected to translate. Take a context that arrives as words 
 
 Each form carries the same facts, and the final line states the domain in words and symbols. That final line is what shows you moved between forms with understanding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--01-tank-three-forms.webp" width="900" height="1130" alt="A water tank starts with 40 litres and a pump adds 12 litres each minute. The table, the rule V = 40 + 12t and the graph carry the same facts. The graph starts at (0, 40), has gradient 12 and stops at the full tank, t = 17.5. Reading back, V = 190 gives t = 12.5." loading="lazy">
+  <figcaption>The same tank as a table, a rule and a graph, with the domain 0 ≤ t ≤ 17.5.</figcaption>
+</figure>
+
+
 ### Strand iv: lines of reasoning
 
 Reasoning is complete when no needed step is missing, coherent when each step follows from the one before, and concise when nothing unnecessary is included. Year 5 adds concise to the other two.
@@ -108,15 +126,33 @@ Sum = (n − 2) + (n − 1) + n + (n + 1) + (n + 2) = 5n.
 
 Three lines, each following from the one before, with the variable defined and the conclusion linked back to the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--04-five-consecutive-sum.webp" width="900" height="1210" alt="Five columns of blocks stand for n − 2 to n + 2. The extra blocks on the two taller columns fill the gaps in the two shorter ones, leaving five equal columns of n, so the sum is 5n for every integer n." loading="lazy">
+  <figcaption>Moving blocks from the big columns to the small ones shows why the sum is always 5n.</figcaption>
+</figure>
+
+
 ### Strand v: logical structure
 
 Present work in an order a reader can follow: the question or aim, the information used, the method, the result, a conclusion. Number steps, label diagrams, and keep each calculation next to the idea it supports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--09-cd-solution-layout.webp" width="900" height="850" alt="Five numbered blocks: aim, information, method, result, conclusion, filled in for the tiling problem (203 tiles, 17 boxes, 204 tiles)." loading="lazy">
+  <figcaption>A written solution follows aim, information, method, result, conclusion.</figcaption>
+</figure>
+
 
 ## Criterion D: applying mathematics
 
 ### The command terms that separate the years
 
 The guide defines the key verbs. Describe means give a detailed account. Explain means give that account and add the reasons or causes. Justify means back an answer or conclusion with sound reasons or evidence. Discuss means weigh up a range of arguments or factors in a balanced way. Each one asks for more than the one before, and each year's wording tells you which one to expect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--06-cd-command-ladder.webp" width="900" height="790" alt="Three bars grow from Year 1 to Year 5 for the accuracy of a floor area. Describe says what, explain adds why, justify adds evidence with numbers (16.33 to 16.73 square metres, about 181 to 186 tiles)." loading="lazy">
+  <figcaption>The same question answered at the describe, explain and justify levels.</figcaption>
+</figure>
+
 
 ### Strands i to iii: identify, select, apply
 
@@ -137,6 +173,12 @@ Add 10%: 183.67 × 1.1 = 202.03 tiles
 
 You cannot buy part of a tile, so round up to 203 tiles. Then 203 ÷ 12 = 16.9, so round up again to 17 boxes, which gives 204 tiles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--04-tiling-floor.webp" width="900" height="772" alt="A 3.6 m by 2.4 m floor, shown as 360 cm by 240 cm, is covered by 12 by 8 square tiles of side 30 cm. That gives 96 tiles, checked by dividing the areas." loading="lazy">
+  <figcaption>Convert to one unit first, then count 12 x 8 = 96 tiles.</figcaption>
+</figure>
+
+
 ### Strand iv: the degree of accuracy
 
 The wording by year:
@@ -147,9 +189,26 @@ The wording by year:
 
 The Year 5 version contains numbers that support the claim. That is the difference between explaining and justifying.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--02-tiles-accuracy-range.webp" width="900" height="800" alt="A number line of tile counts. Measuring error allows about 181 to 186 tiles; the no-waste value is 183.67; with 10% extra it is 202.03, rounded up to 203 tiles, or 17 boxes of 12 = 204. 203 is well above the measuring-error band." loading="lazy">
+  <figcaption>The 10% allowance sits well above the range caused by measuring error, so it covers cuts and error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
+
 ### Strand v: does the solution make sense?
 
 Compare the answer with the real situation. In the tiling problem, 17 boxes is sensible because both quantities were rounded up. Rounding down would leave the floor unfinished. A negative tile count, or 202.03 tiles, would not make sense, and saying why shows you checked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ## Model validity
 
@@ -165,6 +224,12 @@ The guide notes that extended writing on a modelling task may ask you to judge w
 
 A justified conclusion states the evidence (the gaps), the limit (the domain), and the effect on the answer (a small overestimate of the burn rate).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--03-candle-model-validity.webp" width="900" height="1100" alt="The candle model h = 24 − 1.5t is a straight line valid until it reaches 0 at t = 16; beyond that it gives impossible negative heights. Measured heights differ from the model by 0.1, 0.2 and 0.4 cm, a growing gap, so the real rate is about 1.46 cm per hour." loading="lazy">
+  <figcaption>Evidence (growing gaps) and limit (domain 0 ≤ t ≤ 16) are what a justified conclusion states.</figcaption>
+</figure>
+
+
 ## The descriptors in brief
 
 | Band | Criterion C in plain words | Criterion D in plain words |
@@ -175,6 +240,12 @@ A justified conclusion states the evidence (the gaps), the limit (the domain), a
 | 7-8 | consistently correct; effective moves between forms (Years 3, 5); coherent (Year 1), complete and coherent (Year 3) or complete, coherent and concise (Year 5) reasoning | appropriate model; correct solution; accuracy explained (Years 1, 3) or justified (Year 5); sense described, explained or justified by year |
 
 Some strands are marked as not demonstrated in the lower bands. A task that never asks for a strand cannot give you credit for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--10-cd-band-ladder.webp" width="900" height="790" alt="Four bands from 1-2 to 7-8 with short plain-word summaries for Criterion C (limited to consistently correct) and Criterion D (limited success to appropriate model and correct solution)." loading="lazy">
+  <figcaption>How Criteria C and D read in each band, in plain words.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -65,6 +65,17 @@ Nominal GDP rises by 6.3% while prices rise by 2.5%. Real growth is 1.063 ÷ 1.0
 
 The labour force is 32 million and 1.6 million are unemployed. The unemployment rate = 1.6 ÷ 32 × 100 = **5.0%**. If 0.8 million more people find work and the labour force stays the same, the rate falls to 0.8 ÷ 32 × 100 = **2.5%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--01-un147-objectives-fiscal.webp" width="900" height="1090" alt="Three rows link price stability, low unemployment and economic growth to their problem and fiscal response, each with a small AD diagram. Spending cuts or tax rises shift AD left; spending rises or tax cuts shift AD right; capital spending and incentives move the capacity line right." loading="lazy">
+  <figcaption>The three objectives, their problems and the fiscal lever for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--02-un147-three-checks.webp" width="900" height="1090" alt="Inflation of 2.5 percent against a 2 percent target, nominal growth of 6.3 percent less prices of 2.5 percent giving real growth of 3.7 percent, and unemployment of 1.6 million in a 32 million labour force falling from 5.0 to 2.5 percent." loading="lazy">
+  <figcaption>Worked example: inflation, real growth and the unemployment rate drawn to scale.</figcaption>
+</figure>
+
+
 ## 5.2.1 and 5.2.2 The budget: deficit and surplus
 
 The **government budget** is the plan of government revenue and government spending for a period, usually a year. Revenue comes mainly from taxes. Spending covers current items and capital items.
@@ -102,6 +113,12 @@ Country A starts the year owing 900. After a deficit of 40 the debt is 900 + 40 
 - **Future taxes** may need to rise, or other spending fall, to pay lenders.
 - Debt owed to **foreign lenders** sends interest abroad. Debt owed to domestic lenders stays in the economy.
 - A large, rising debt can make lenders ask for **higher interest**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--06-eco27-deficit-vs-debt.webp" width="900" height="990" alt="Revenue of 650 against spending of 690 gives a deficit of 40 (1.5 percent of GDP), which is borrowed and added to a national debt of 900, giving 940 (36.2 percent of GDP). Interest at 3.5 percent is 32.9, 5.1 percent of revenue." loading="lazy">
+  <figcaption>A deficit is one year of borrowing; the national debt is the stock it adds to.</figcaption>
+</figure>
+
 
 ## 5.2.4 Taxation
 
@@ -150,6 +167,22 @@ At 60,000: tax = 0.20 × 30,000 + 0.40 × 20,000 = 6,000 + 8,000 = 14,000. Avera
 - **Discourage demerit goods** or activities with negative externalities, by raising their price.
 - **Influence aggregate demand** as part of fiscal policy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--07-eco27-average-marginal-tax.webp" width="900" height="960" alt="The marginal rate is a step line at 0, 20 and 40 percent. The average rate rises from zero towards 40 percent: 12.0 percent at 25,000, 15.0 at 40,000, 23.3 at 60,000 and 30.0 at 100,000. A rising average rate means the tax is progressive." loading="lazy">
+  <figcaption>A tax is progressive when the average rate rises with income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--04-un147-regressive-indirect.webp" width="900" height="940" alt="Household P (income 20,000) spends 16,000 on taxed goods and pays 1,600, 8 percent of income. Household R (income 80,000) spends 40,000 and pays 4,000, 5 percent. The same rate is regressive in effect." loading="lazy">
+  <figcaption>A 10 percent indirect tax takes 8 percent of P income but 5 percent of R.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## 5.2.5 Government spending
 
 - **Current spending** is on goods and services used up in the year: wages of public employees, benefits, debt interest, and day-to-day running costs.
@@ -163,6 +196,12 @@ In Country A capital spending is 130 ÷ 690 × 100 = **18.8%** of the total.
 - **Redistribute income** through benefits and subsidised services.
 - **Support growth** by building infrastructure and funding education, which raise productive capacity.
 - **Influence aggregate demand**, to move output toward full employment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--03-un147-capital-vs-current.webp" width="900" height="830" alt="A bar splits 690 of spending into current 560 and capital 130 (18.8 percent). Current items are wages, benefits, debt interest and running costs; capital items are roads, schools, hospitals and power lines." loading="lazy">
+  <figcaption>Current spending is used up in the year; capital spending builds lasting assets.</figcaption>
+</figure>
+
 
 ## 5.2.6 Expansionary and contractionary fiscal policy
 
@@ -195,6 +234,32 @@ Country A has AD: Y = 1,800 − 6P and short-run aggregate supply SRAS: Y = 600 
 - **Debt**: a larger deficit adds to the national debt and later interest.
 - **Capital spending** may shift long-run supply, helping growth without raising inflation.
 - **Judgement**: expansion suits cyclical unemployment; contraction suits demand-pull inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--08-eco27-adas-spare-vs-full.webp" width="900" height="1060" alt="AD0 and SRAS meet at price 100, output 1,200. A rise of 60 gives price 105, output 1,230. A rise of 240 meets the vertical part of SRAS at output 1,300 and price 123.3, so output rises 8.3 percent but prices rise 23.3 percent." loading="lazy">
+  <figcaption>The same fiscal push raises mainly output with spare capacity and mainly prices at full employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--09-eco27-adas-contractionary.webp" width="900" height="1000" alt="A spending cut of 90 shifts AD left. Equilibrium moves down SRAS from price 100, output 1,200 to price 92.5, output 1,155: prices fall 7.5 percent, output 3.75 percent and employment by 1.125 million." loading="lazy">
+  <figcaption>Contractionary fiscal policy lowers output, employment and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-fiscal-policy--10-eco27-taxcut-vs-spending.webp" width="900" height="1090" alt="A tax cut of 100 adds only 70 to AD when households spend 70 percent, whereas spending of 100 adds the full 100. The tax cut gives price 105.8, output 1,235; the spending rise gives price 108.3, output 1,250." loading="lazy">
+  <figcaption>A spending rise moves AD further than a tax cut of the same size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
 
 ## Common errors
 

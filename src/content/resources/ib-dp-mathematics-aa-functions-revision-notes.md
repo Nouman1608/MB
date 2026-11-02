@@ -73,6 +73,22 @@ general):       g(x) = x^2 is not one-to-one over all real numbers --
 This one-to-one reasoning -- not just mechanically "swapping x and y" -- is what Analysis and
 Approaches mark schemes reward when a question asks *why* an inverse does or does not exist.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--05-composite-order.webp" width="900" height="910" alt="A flow diagram shows x going through g (squaring) and then through f (double and add 3), giving 2x squared plus 3. A graph shows y = x squared and y = 2x squared plus 3. At x = 2, g gives 4 and f of g gives 11; at x = -2 the same values appear." loading="lazy">
+  <figcaption>In f(g(x)) the inner function g acts first; here f(g(x)) = 2x² + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--06-one-to-one-test.webp" width="900" height="1010" alt="Two graphs with a horizontal line. For g(x) = x squared, the line y = 4 cuts the curve at x = -2 and x = 2, so g is many-to-one and has no inverse over all real x. For f(x) = 2x + 3 the line y = 5 cuts once, at x = 1, so f is one-to-one and has an inverse." loading="lazy">
+  <figcaption>A function has an inverse only if it is one-to-one: every horizontal line meets its graph at most once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--07-inverse-reflection.webp" width="900" height="1000" alt="The line y = 2x + 3 and its inverse y = (x - 3)/2 on equal axes with the dashed line y = x. The two lines are mirror images in y = x. The point (1, 5) on f maps to (5, 1) on the inverse, and the segment joining them crosses y = x at (3, 3)." loading="lazy">
+  <figcaption>The graph of f⁻¹ is the graph of f reflected in the line y = x.</figcaption>
+</figure>
+
+
 ## Transformations at a glance
 
 | Transformation | Effect on $y = f(x)$ |
@@ -88,6 +104,22 @@ Apply transformations to the **key features** of the base graph (intercepts, tur
 asymptotes) directly, rather than replotting the whole curve from scratch every time -- this is far
 faster under exam time pressure and less error-prone for multi-step transformations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--02-translations.webp" width="900" height="860" alt="The parabola y = x squared and two copies. One is moved up 2 units, with vertex (0, 2), for y = f(x) + 2. The other is moved 3 units right, with vertex (3, 0), for y = f(x - 3). Arrows run from the original vertex to each new vertex." loading="lazy">
+  <figcaption>f(x) + k moves a graph up and f(x − a) moves it right, because the minus sign inside the bracket works the opposite way to how it looks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--03-stretches.webp" width="900" height="880" alt="Graph of f(x) = x squared minus 4 with two stretched versions. 2f(x) keeps the roots at -2 and 2 but doubles the y-values, so the y-intercept moves from -4 to -8. f(2x) squeezes towards the y-axis, moving the roots to -1 and 1 while the y-intercept stays at -4." loading="lazy">
+  <figcaption>k f(x) stretches vertically by factor k; f(kx) stretches horizontally by factor 1/k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--04-reflections.webp" width="900" height="880" alt="A parabola with turning point (1, 1) and its two reflections. Negating the output, y = -f(x), gives an upside-down parabola with turning point (1, -1), a reflection in the x-axis. Negating the input, y = f(-x), gives a parabola with turning point (-1, 1), a reflection in the y-axis." loading="lazy">
+  <figcaption>−f(x) reflects a graph in the x-axis and f(−x) reflects it in the y-axis; reflect the key points to get the new graph.</figcaption>
+</figure>
+
+
 ## Logarithmic and exponential pairs
 
 Exponential and logarithmic functions are inverses of each other, and this strand expects fluent
@@ -96,6 +128,12 @@ function recognised as the reflection of the corresponding exponential graph in 
 the general graphical signature of any function and its inverse. Questions combining exponential
 growth/decay models with logarithms to solve for an unknown exponent are common, and rely on this
 inverse relationship rather than a separate memorised technique.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--08-exp-log-inverse.webp" width="900" height="990" alt="Graphs of y = 2 to the x and y = log base 2 of x with the dashed line y = x. They mirror each other in y = x. The point (3, 8) on the exponential reflects to (8, 3) on the logarithm, and (0, 1) to (1, 0). The exponential has horizontal asymptote y = 0 and the logarithm has vertical asymptote x = 0." loading="lazy">
+  <figcaption>y = aˣ and y = logₐ x are inverses, so their graphs are reflections in y = x.</figcaption>
+</figure>
+
 
 ## Exam traps
 

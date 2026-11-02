@@ -35,6 +35,22 @@ Three questions every economy must answer: **what** to produce, **how** to produ
 
 **Factors of production:** land (natural resources, earns rent), labour (human effort, wages), capital (man-made aids to production, interest), enterprise (risk-taking and organisation, profit).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--12-opportunity-cost-runner-up.webp" width="900" height="840" alt="Two ranked lists. A student with 40 pounds ranks a concert ticket first, trainers at 35 pounds second and a game at 25 pounds third. She buys the ticket, so her opportunity cost is the trainers only. A council with 60 million pounds ranks a bypass first, a health clinic second and a sports centre third. It builds the bypass, so the opportunity cost is the clinic. Examples 1 and 3 from the lesson." loading="lazy">
+  <figcaption>Opportunity cost is only the next best option given up: trainers for the student, the clinic for the council.</figcaption>
+</figure>
+
+
 ## Production possibility curves
 
 A PPC shows the maximum combinations of two goods with all resources fully and efficiently employed.
@@ -55,11 +71,48 @@ The curve's shape depends on the assumption made about opportunity cost:
 
 Choosing capital goods over consumer goods today shifts the PPC further out in future — the classic present-versus-future trade-off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--07-ppc-why-bowed.webp" width="900" height="1020" alt="Five workers differ in output of food or machines. Switching them to food, best food-makers first, gives points (0,31) to (30,0) where machines lost per extra food rise 0.1, 0.5, 1.2, 2.3, 5.0, so the curve bows out; identical workers would give the dashed straight line. Example numbers." loading="lazy">
+  <figcaption>Unequal resource suitability makes opportunity cost rise and the PPC concave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-production-possibility-curves-and-the-classification--01-ppc-country-a-opportunity-cost.webp" width="900" height="860" alt="A production possibility curve for Country A joins six points from 60 million units of manufactures and no food to 50 million tonnes of food and no manufactures. Each step to the right is labelled with the manufactures given up per extra tonne of food: 0.2, 0.6, 1.2, 1.8 and 2.2. The steps get steeper, so the curve bows outwards." loading="lazy">
+  <figcaption>Each extra tonne of food costs more manufactures than the last, so the curve bows out from the origin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-production-possibility-curves-and-the-classification--02-ppc-constant-cost-island.webp" width="900" height="840" alt="A straight-line production possibility curve for an invented island runs from 120 tonnes of fish with no coconuts to 60 tonnes of coconuts with no fish. Choosing 25 tonnes of coconuts gives up 50 tonnes of fish and leaves 70 tonnes of fish. Every tonne of coconuts always costs 2 tonnes of fish." loading="lazy">
+  <figcaption>When resources suit both uses equally, the curve is straight and each coconut always costs 2 fish.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## Positive and normative
 
 **Positive** statements are factual and can be **tested** against evidence. **Normative** statements contain a value judgement and involve words like *should*, *ought*, *fair*, *too much*.
 
 "Unemployment rose to 8%" is positive. "The government should reduce unemployment" is normative. A statement can be positive and still be wrong — testability, not truth, is the criterion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--09-positive-testable.webp" width="900" height="910" alt="Unemployment rose to 8% checked against a recorded 7% is positive but false; rose to 7% is positive and true; the government should reduce unemployment is normative because no data can settle a value judgement." loading="lazy">
+  <figcaption>A positive statement can be tested, whether or not it is true.</figcaption>
+</figure>
+
 
 ## Economic systems
 
@@ -87,6 +140,12 @@ AS Topic 1 (1.6) classifies free, private and public goods by **scarcity**, **ex
 
 Market failure, externalities, market structures and government failure are **A Level** content (Topics 7 and 8) and are not examined at AS — don't import them into a Topic 1 answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--08-good-type-path.webp" width="900" height="1050" alt="Decision path: not scarce means free good; scarce, excludable and rival means private good; non-excludable and non-rival means public good with free riders so no firm supplies it. Merit and demerit goods are defined by imperfect information, are under- or over-consumed, and can be sold privately." loading="lazy">
+  <figcaption>Scarcity, excludability and rivalry sort goods; information defines merit and demerit goods.</figcaption>
+</figure>
+
+
 ## Worked example: reading opportunity cost from a PPC
 
 An economy can produce a maximum of 100 units of food or 50 units of
@@ -107,6 +166,12 @@ ratio of food given up to machinery gained should be consistent along
 the whole curve — here, 2 units of food per 1 unit of machinery — which
 is a useful check on whether a stated pair of points genuinely lies on
 the same straight-line PPC.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--06-ppc-worked-straight.webp" width="900" height="950" alt="A straight PPC from 50 machinery to 100 food. A (60 food, 20 machinery) to B (40 food, 30 machinery) gives up 20 food for 10 machinery: 2 food per machine everywhere on the line." loading="lazy">
+  <figcaption>Moving along a straight PPC always costs 2 food per machine.</figcaption>
+</figure>
+
 
 ## Exam traps
 

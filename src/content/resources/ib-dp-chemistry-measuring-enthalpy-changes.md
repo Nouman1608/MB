@@ -69,6 +69,12 @@ Rearrange Q = mcΔT:   ΔT = Q / (m × c)
 
 Five times the mass gives one fifth of the rise, so equal heat need not mean equal temperature change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--01-heat-vs-temperature.webp" width="900" height="880" alt="Two beakers each receive 2.09 kJ. 50.0 g of water (one row of particles) warms by 10.0 K; 250 g (five rows) warms by 2.00 K, shown as long and short bars." loading="lazy">
+  <figcaption>Five times the mass of water gives one fifth of the temperature rise for the same heat.</figcaption>
+</figure>
+
+
 ## Reactivity 1.1.2 Exothermic and endothermic reactions
 
 The label depends only on which way energy crosses the boundary.
@@ -94,6 +100,12 @@ Y: ΔT = 27.1 − 19.5 = +7.6 K   water warmed → energy out of system → exot
 ```
 
 ΔT and ΔH always have opposite signs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--02-exo-endo-direction.webp" width="900" height="830" alt="Two beakers with a dashed system circle in water (surroundings). Exothermic: arrows out, thermometer 19.5 to 27.1 C, delta H negative. Endothermic: arrows in, thermometer 19.5 to 12.8 C, delta H positive." loading="lazy">
+  <figcaption>Exothermic reactions warm the surroundings (DeltaH &lt; 0); endothermic ones cool them (DeltaH &gt; 0).</figcaption>
+</figure>
+
 
 ## Reactivity 1.1.3 Stability and energy profiles
 
@@ -136,6 +148,12 @@ Ea = E(peak) − E(reactants)     = 125 − 40 = 85 kJ mol⁻¹
 
 The reactants have the lower potential energy, so they are more stable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--03-energy-profiles.webp" width="900" height="1170" alt="Two profiles of potential energy against reaction coordinate. Endothermic (40, peak 125, 95): DeltaH +55, Ea 85. Exothermic (illustrative, 100, peak 140, 30): DeltaH -70, Ea 40. Ea runs from reactants to the peak; DeltaH from reactants to products." loading="lazy">
+  <figcaption>Products higher means endothermic and less stable; products lower means exothermic and more stable.</figcaption>
+</figure>
+
+
 ## Reactivity 1.1.4 Standard enthalpy change and calorimetry
 
 ### Defining ΔH⦵
@@ -156,6 +174,12 @@ Q  = m × c × ΔT     Q in J; m = mass of water or solution (g);
 According to the guide, both Q = mcΔT and the specific heat capacity of water appear in the data booklet. The standard value of c for water is 4.18 J g⁻¹ K⁻¹. A dilute aqueous solution is treated as if it were water: 1.00 cm³ weighs 1.00 g and has the same c.
 
 Watch the minus sign. Q is the energy the water gains. A rise in temperature gives a positive Q, which is energy the system lost, so ΔH comes out negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--05-fuel-calorimetry.webp" width="900" height="970" alt="A methanol spirit burner under a can of 150.0 g water with thermometer and stirrer. Arrows show heat lost to air; the can warms and soot forms. The measured -566 kJ per mol is compared with the data -726 kJ per mol, 22 percent less exothermic." loading="lazy">
+  <figcaption>Heat losses and incomplete burning make the measured value 22 % less exothermic than the data value.</figcaption>
+</figure>
+
 
 ### Worked example 4: a metal reacting with acid
 
@@ -209,6 +233,17 @@ The guide asks why calorimetry usually records a smaller ΔT than theory predict
 For a reaction in solution, read the thermometer every 30 seconds, starting a few minutes before mixing and carrying on for several minutes after. On the graph, the slow decline after the peak is fitted with a straight line, which is then extended back to the mixing time. Where it meets that time is the best estimate of the peak with no losses.
 
 Suppose the start is 20.4 °C, the highest reading 26.8 °C and the extended line reaches 27.5 °C at the time of mixing. Use ΔT = 7.1 K rather than 6.4 K. The recorded value would make Q roughly 10 % too small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--04-cup-calorimetry.webp" width="900" height="1040" alt="A lidded polystyrene cup with thermometer holds 45.0 g of acid solution and 0.150 g Mg; temperature rises 14.8 K. Steps: n(Mg) 6.170e-3 mol limiting, Q = 2.784 kJ using the solution mass, DeltaH = -451 kJ per mol." loading="lazy">
+  <figcaption>Use the mass of the solution and the limiting reactant: DeltaH = -Q/n = -451 kJ per mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--06-heat-loss-correction.webp" width="900" height="940" alt="Temperature-time graph: 20.4 C before mixing at 2 min, rise to 26.8 C, then a straight cooling line extended back to 27.5 C at mixing. Delta T is 7.1 K, not 6.4 K, which would make Q about 10 percent too small." loading="lazy">
+  <figcaption>Extend the cooling line back to mixing time and use 7.1 K, not 6.4 K.</figcaption>
+</figure>
+
 
 ## Common errors
 

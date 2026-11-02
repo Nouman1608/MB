@@ -66,6 +66,17 @@ Four fictional markets are described below.
 
 Notice what a good answer does. It names the structure and then points to the evidence from all three factors. Market W has many firms, identical goods and free entry, so all three point the same way. Market Y has a high combined share and a barrier, so it fits oligopoly even though there are three firms rather than two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--04-market-structure-spectrum.webp" width="900" height="1020" alt="A spectrum from perfect competition to pure monopoly with three double-headed arrows for number of firms, product and entry. Markets W, X, Y and Z from the lesson are placed in perfect competition, monopolistic competition, oligopoly and pure monopoly." loading="lazy">
+  <figcaption>Place a market using number of firms, product differentiation and ease of entry together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## 3.1.5.2 The objectives of firms
 
 ### Profit maximisation and MC=MR
@@ -79,6 +90,12 @@ The **profit-maximising rule** is to produce where MC = MR. The reasoning runs u
 - Profit is highest at the output where the two meet, with MC rising through MR from below.
 
 On a diagram with output on the horizontal axis and revenue and cost on the vertical axis, MR slopes down (for a firm facing a downward-sloping demand curve), MC is U-shaped, and the profit-maximising output is read down from where MC cuts MR from below. The price is then read from the demand curve (average revenue) above that output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--05-firm-a-objectives.webp" width="900" height="990" alt="AR = 80 - 2Q, MR = 80 - 4Q and MC = 8 + 2Q for Firm A. Profit maximisation at output 12 and price 56 (profit 382k), revenue maximisation with a 300k floor at 17 and 46 (307k), unconstrained revenue maximisation at 20 and 40 (190k). Any output 6 to 18 satisfices a 250k target." loading="lazy">
+  <figcaption>The same firm chooses different outputs and prices under different objectives; price is read from AR.</figcaption>
+</figure>
+
 
 ### Worked example: Firm A
 
@@ -113,6 +130,12 @@ In a small firm the owner often runs the business and wants profit. In a large c
 
 Controls pull the other way. These include pay linked to profit or share price, share options for managers, annual votes by shareholders, and the threat of takeover if the share price is poor. Divorce can also help: skilled managers may run the firm better than the founders did, and they may take a longer-term view.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--06-ownership-control-divorce.webp" width="900" height="840" alt="Many shareholders appoint managers who run the firm. Owners (principals) want profit and dividends; managers (agents) may want pay, status and growth. Pay tied to profit, share options and takeover threat pull managers back." loading="lazy">
+  <figcaption>Owners and managers are different groups with different aims, held in check by controls.</figcaption>
+</figure>
+
+
 ### Worked example: managers choose revenue
 
 Suppose Firm A's managers are paid mainly on sales. Total revenue peaks where MR reaches zero. With MR = 80 − 4Q, that is Q = 20, P = £40, TR = £800 thousand, TC = £610 thousand and profit only £190 thousand. Shareholders insist on at least £300 thousand profit. Profit is £307 thousand at Q = 17 and £274 thousand at Q = 18, so managers expand to Q = 17.
@@ -134,6 +157,17 @@ The managerial objective costs shareholders £75 thousand of profit but gives cu
 - **Market share.** Share of the market is the firm's sales divided by total market sales. If Firm A's market is 240 thousand packs a month, 12 thousand packs is a 5.0% share and 17 thousand is 7.1%.
 
 **Quality in numbers.** Suppose Firm A raises quality. Demand becomes P = 84 − 2Q and costs become TC = 50 + 18Q + Q². MR = MC gives 84 − 4Q = 18 + 2Q, so Q = 11, P = £62, TR = £682 thousand, TC = £369 thousand and profit £313 thousand. Profit falls by £69 thousand, yet price is higher and quality has improved. A firm with a quality objective may accept this. A pure profit maximiser would not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--09-quality-objective.webp" width="900" height="1010" alt="With demand P = 84 - 2Q and TC = 50 + 18Q + Q^2, MR = MC gives Q = 11 and price 62, profit 313. Before, Q was 12, price 56 and profit 382, so profit falls 69." loading="lazy">
+  <figcaption>A quality objective: profit falls by 69 thousand but price and quality are higher.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--10-market-share-grid.webp" width="900" height="1010" alt="A grid of 240 squares is the market. 12 shaded squares are 5.0% and 17 are 7.1%." loading="lazy">
+  <figcaption>Market share is sales divided by total market sales: 12/240 = 5.0%, 17/240 = 7.1%.</figcaption>
+</figure>
+
 
 ### The satisficing principle
 

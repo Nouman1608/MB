@@ -32,6 +32,17 @@ a^m x a^n = a^(m+n)     a^-n = 1/a^n     a^(m/n) = (n-th root of a)^m
 
 Rationalise a single-term denominator by multiplying by the surd; for `a + √b`, multiply by the **conjugate** `a − √b`, since `(a+√b)(a−√b) = a² − b`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--01-root-then-power.webp" width="900" height="880" alt="Three step-by-step pipelines. 64 to the 2/3: cube root gives 4, square gives 16. 1296 to the 3/4: fourth root gives 6, cube gives 216. (27/8) to the minus 2/3: flip to 8/27, cube root gives 2/3, square gives 4/9. A note reminds that 2 to the minus 3 is 1/8, not minus 8." loading="lazy">
+  <figcaption>For a fractional index take the root first, then the power; a negative index flips the fraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--05-conjugate-area.webp" width="900" height="890" alt="A square of side 5 loses a corner square of side 2 root 3 (area 12), leaving an L-shape of area 13. Moving the lower rectangle turns the L into a rectangle of width 5 minus 2 root 3 and height 5 plus 2 root 3, so the conjugate product is rational: 13." loading="lazy">
+  <figcaption>The conjugate pair multiplies to a rational number because (p - q)(p + q) = p squared minus q squared.</figcaption>
+</figure>
+
+
 ## Quadratics
 
 ```
@@ -51,6 +62,37 @@ discriminant:  b^2 - 4ac
 
 **Disguised quadratics** — substitute for the repeated term, then **substitute back and reject impossible values** (√x cannot be negative; aˣ is always positive).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-p1-revision-notes--03-always-positive-two-conditions.webp" width="900" height="1040" alt="Three parabolas: x^2 - 4x + 5 (a &gt; 0, discriminant -4) is always positive; x^2 - 4x + 3 (a &gt; 0, discriminant 4) crosses the axis at 1 and 3; -x^2 + 4x - 5 (discriminant -4 but a &lt; 0) is always negative." loading="lazy">
+  <figcaption>Both a &gt; 0 and discriminant &lt; 0 are needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--08-complete-square-vertex.webp" width="900" height="890" alt="Graph of y = 4x squared + 8x - 3, equal to 4(x+1) squared - 7, with vertex (-1,-7) on the line x = -1, y-intercept (0,-3) and roots about 0.32 and -2.32. A grey dashed y = 4x squared shows the shift of 1 left and 7 down." loading="lazy">
+  <figcaption>Completed-square form a(x + p)^2 + q gives the vertex (-p, q) and the line of symmetry x = -p.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
+  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--04-line-meets-curve.webp" width="900" height="940" alt="Parabola y = x^2 with three parallel lines of gradient 2. Substituting gives discriminants 16, 0 and -8: two intersections, a tangent at (1, 1), and no intersection." loading="lazy">
+  <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--03-hidden-quadratic.webp" width="900" height="1030" alt="Graph of 3^(2x) - 12 times 3^x + 27 crossing the x-axis at x = 1 and x = 2, with its lowest point -9. Below it, the substitution y = 3^x gives y = 3 or 9, and converting back gives x = 1 or 2." loading="lazy">
+  <figcaption>Substitute y = 3^x, solve the quadratic, then convert back to x.</figcaption>
+</figure>
+
+
 ## Coordinate geometry (P1)
 
 ```
@@ -59,6 +101,12 @@ distance = sqrt((x2-x1)^2 + (y2-y1)^2)
 ```
 
 Perpendicular gradients multiply to **−1**. P1's coordinate geometry is lines only (equation of a line, parallel/perpendicular conditions, intersection of a line and a curve) -- the circle is **not** P1 content; see below.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
 
 ## Circle and trigonometry — Unit PSM1 content, not P1
 
@@ -85,6 +133,12 @@ area = (1/2)ab sin C
 
 When solving trigonometric equations, find **all** solutions in the stated interval using the graph's symmetry, and check both ends of the range.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--07-tangent-and-normal.webp" width="900" height="1026" alt="Circle centre (3,-5), point P(6,-1): radius gradient 4/3, tangent gradient -3/4 giving 3x+4y-14=0, normal 4x-3y-27=0 through the centre. No calculus needed." loading="lazy">
+  <figcaption>The tangent is perpendicular to the radius, and the normal runs along it through the centre.</figcaption>
+</figure>
+
+
 ## Differentiation (P1)
 
 ```
@@ -109,6 +163,12 @@ d2y/dx2 = 2, positive  ->  minimum
 
 Completing the square gives (x − 4)² − 13, confirming the same turning point — a quick, independent check worth doing when time allows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-p1-revision-notes--04-stationary-point-x2-8x.webp" width="900" height="880" alt="Parabola with minimum at (4, -13) and horizontal tangent. dy/dx = 2x - 8 = 0 gives x = 4; y = -13; d2y/dx2 = 2 &gt; 0 so a minimum; completing the square confirms the vertex." loading="lazy">
+  <figcaption>The lesson worked example drawn on its graph.</figcaption>
+</figure>
+
+
 ## Integration
 
 ```
@@ -132,6 +192,12 @@ signed integral = -32/3, so area = 32/3
 The curve lies entirely below the axis on this interval, so the signed integral comes out negative — the **area is its magnitude**, 32/3.
 
 For the area between two curves, find the intersections first: they are the limits, and you integrate (upper − lower).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-p1-revision-notes--05-area-below-axis-x2-4.webp" width="900" height="890" alt="Parabola y = x^2 - 4 wholly below the x-axis from -2 to 2, shaded. The integral gives -32/3, so the area is its magnitude, 32/3." loading="lazy">
+  <figcaption>A region wholly below the axis: negative integral, positive area.</figcaption>
+</figure>
+
 
 ## Exam traps
 

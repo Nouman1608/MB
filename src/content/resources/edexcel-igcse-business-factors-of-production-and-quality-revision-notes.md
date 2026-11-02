@@ -40,6 +40,12 @@ These notes condense topic 5, sections 5.3 Factors of production and 5.4 Quality
 
 Key idea: the specification talks about changing relationships. The mix of the four can change, and a business can swap one input for another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--01-four-factors.webp" width="900" height="980" alt="Four cards for Ottersby Bakery: land is the rented unit and ingredients; labour is six bakers; capital is two ovens and a van; enterprise is Hana, who takes the risk and organises the rest. A note says capital is equipment and buildings, not money." loading="lazy">
+  <figcaption>The four factors, shown with Ottersby Bakery.</figcaption>
+</figure>
+
+
 ### Why the mix changes
 
 - New technology makes machines cheaper or more capable.
@@ -47,6 +53,12 @@ Key idea: the specification talks about changing relationships. The mix of the f
 - The business grows and can afford equipment.
 - The business changes where it sells, for example online instead of on the high street.
 - The entrepreneur takes on loans and fixed costs and so more risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--01-tamsin-mix-shift.webp" width="900" height="860" alt="Two stacked bars compare Tamsin Crafts before and after buying a cutting machine. Wages fall from 56.0 to 33.8 percent of costs while equipment rises from 8.0 to 28.2 percent. Cost per toy falls from 12.50 to 7.10 dollars and output per worker rises from 1,714 to 5,000 toys. Fixed costs rise from 20.0 to 40.8 percent of total costs, so risk rises." loading="lazy">
+  <figcaption>Capital replaces labour at Tamsin Crafts: unit cost falls, but fixed costs and risk rise.</figcaption>
+</figure>
+
 
 ### Capital-intensive and labour-intensive
 
@@ -98,6 +110,17 @@ Small reminder: wages 60,000, equipment 20,000, other 20,000. Labour share = 60,
 
 Features of TQM to quote: shared responsibility, prevention, training, a customer focus (internal and external), and continuous improvement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--04-brenmoor-tqm-payback.webp" width="900" height="880" alt="Defects cost Brenmoor Lamps 432 dollars a week at 4 percent and 162 dollars a week at 1.5 percent, a saving of 270 dollars a week. A line of cumulative savings crosses the 6,500 dollar one-off training cost at 24.1 weeks, so payback is about 25 weeks." loading="lazy">
+  <figcaption>TQM saves $270 a week at Brenmoor Lamps and repays its $6,500 cost in about 25 weeks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--05-calder-complaint-rate.webp" width="900" height="840" alt="Two columns compare Calder Physio. Before TQM: 1,500 clients and 45 complaints, a 3.0 percent complaint rate. After TQM: 1,750 clients and 21 complaints, a 1.2 percent rate. The rate fell even as the number of clients grew." loading="lazy">
+  <figcaption>Calder Physio: complaints per 100 clients fell from 3.0 to 1.2 after TQM training.</figcaption>
+</figure>
+
+
 ### Quality control methods
 
 - Inspect every item, or a sample from each batch.
@@ -119,6 +142,17 @@ Features of TQM to quote: shared responsibility, prevention, training, a custome
 4. Payback time = one-off cost ÷ saving per period.
 
 Small reminder: 2,000 units, 5% defective, 8 per defective unit. Defective units = 100; cost = 800. At 2% the cost is 40 × 8 = 320, a saving of 480. A one-off cost of 2,400 would be recovered in 5 periods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--03-qc-vs-tqm.webp" width="900" height="960" alt="Two rows of the same three stages: materials in, work in progress and finished goods. In quality control an inspector checks at set points and finds faults after they occur. In TQM a worker at every stage is responsible for quality, so faults are prevented throughout the process." loading="lazy">
+  <figcaption>Quality control finds faults at checkpoints; TQM makes everyone responsible for preventing them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--11-what-quality-means.webp" width="900" height="776" alt="Quality is how well something meets customer needs. A cheap notebook that holds together is high quality; an expensive hotel room with a broken lock is poor quality. Four benefits: customers come back, better reputation, fewer costly faults, fewer legal claims." loading="lazy">
+  <figcaption>Quality means meeting customer needs, not luxury.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

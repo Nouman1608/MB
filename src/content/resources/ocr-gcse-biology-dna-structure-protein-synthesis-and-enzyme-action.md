@@ -45,6 +45,12 @@ DNA is made of two strands. They wind around each other to form a double helix, 
 
 A common misconception, noted in the specification, is that DNA is made of protein or sugar. It is made of nucleotides. It does contain a sugar and a phosphate group in every nucleotide, but the molecule is a nucleic acid, not a sugar and not a protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+
 ## Nucleotides and base pairing (B1.2c)
 
 Every nucleotide has three parts:
@@ -81,6 +87,17 @@ A sample of double-stranded DNA is 28% adenine. Find the percentage of each base
 
 **A 28%, T 28%, G 22%, C 22%.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--01-nucleotide-parts.webp" width="900" height="1130" alt="A nucleotide is a phosphate group, a sugar and one of four bases. Only the base differs. Below, two strands have sugar and phosphate on the outside and bases pointing inwards: strand 1 reads ATTGC and strand 2 TAACG, with A paired to T and C paired to G." loading="lazy">
+  <figcaption>Every nucleotide has the same sugar and phosphate; only the base differs, and bases pair A-T and C-G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <figcaption>Pairing means A equals T and C equals G.</figcaption>
+</figure>
+
+
 ## Protein synthesis (B1.2d) - Higher Tier only
 
 A gene is a section of DNA that codes for one protein. Proteins are made of amino acids. The order of the amino acids is what makes one protein different from another.
@@ -94,6 +111,12 @@ DNA never leaves the nucleus, yet proteins are built in the cytoplasm. A working
 5. **The chain folds.** The finished chain of amino acids folds into a protein with a specific 3D shape.
 
 Extra detail, not required by the statement but useful: RNA contains the base uracil (U) where DNA has thymine, so an A in the DNA strand is matched by U in the mRNA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
 
 ## How DNA structure affects proteins (B1.2e) - Higher Tier only
 
@@ -122,9 +145,31 @@ The same template, TAC GGT CTT, has its last triplet changed to CAT.
 
 One amino acid has changed. This could alter the folded shape. Not every change matters: if CTT became CTC, the mRNA triplet would be GAG, which codes for the same amino acid (Glu) in the real genetic code, so the protein would be unchanged. A deleted base is more serious, because every triplet after it shifts and the amino acid order changes along the rest of the chain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+
 ### Worked example 5: how many bases?
 
 A protein has 120 amino acids. Each amino acid needs one triplet, so the coding sequence is 120 × 3 = **360 bases**. On a double-stranded gene those 360 bases sit opposite 360 partners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--02-triplet-code-worked.webp" width="900" height="1170" alt="Template TAC GGT CTT gives mRNA AUG CCA GAA and amino acids Met, Pro, Glu. Changing the last triplet to CAT gives mRNA GUA and Val, so one amino acid changes." loading="lazy">
+  <figcaption>Worked examples 3 and 4: each triplet codes for one amino acid, and a base change can change one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--07-mutation-effects.webp" width="900" height="1100" alt="Template TAC GGT CTT gives Met-Pro-Glu. Changing CTT to CTC still gives Glu, so the protein is unchanged. Deleting the first G of GGT shifts every later triplet, so the amino acid order changes along the rest of the chain." loading="lazy">
+  <figcaption>A base change can be silent, but a deleted base shifts every triplet after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--08-enzyme-calcs.webp" width="900" height="998" alt="120 amino acids need 120 triplets, so 360 bases. Catalase rates of 0.35 and 0.55 cm cubed per second at 35 and 45 degrees C give a 57 percent increase." loading="lazy">
+  <figcaption>Worked examples 5 and 6 laid out visually: 120 x 3 = 360 bases, and a 57% rise in rate.</figcaption>
+</figure>
+
 
 ## Enzymes: what they do (B1.2g)
 
@@ -138,6 +183,12 @@ Enzymes are **specific**: the active site shape matches only one substrate (or a
 
 If the enzyme's structure is disrupted, the active site changes shape, the substrate no longer fits and the enzyme cannot work. The enzyme is **denatured**. This is permanent: lowering the temperature again does not restore it. High temperatures and extreme pH values both denature enzymes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+
 ## Factors affecting enzyme-controlled reactions (B1.2g)
 
 **Temperature.** Warmer particles move faster, so enzyme and substrate meet more often and each meeting is more energetic. The rate rises up to the **optimum**. Above it the enzyme starts to denature and the rate falls steeply to zero. Cooling slows the reaction but does not denature the enzyme.
@@ -149,6 +200,12 @@ The specification warns against assuming that every enzyme works best at 37 °C.
 **Substrate concentration.** With a fixed amount of enzyme, more substrate means more collisions, so the rate rises. Eventually every active site is busy, and adding more substrate has no effect. The graph levels off. Something else, such as enzyme concentration, is now limiting.
 
 **Enzyme concentration.** If substrate is in excess, adding enzyme adds active sites and the rate climbs. The rise is in proportion, and stops only when substrate becomes the limiting factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--05-enzyme-conc-graphs.webp" width="900" height="980" alt="Two illustrative graphs. Rate rises with substrate concentration then levels off when all active sites are busy. With substrate in excess, rate rises in proportion to enzyme concentration until substrate is limiting." loading="lazy">
+  <figcaption>Rate levels off when substrate saturates the enzyme; it rises in proportion to enzyme while substrate is in excess.</figcaption>
+</figure>
+
 
 ## Investigating enzymes (B1.2f) and rate calculations
 
@@ -191,6 +248,17 @@ Oxygen collected over time:
 - 50 to 60 s: 0 cm³/s
 
 The rate falls because substrate is used up, so there are fewer collisions with active sites. After 50 s the line is flat: the reaction has finished. On a graph, the steepness of the line at a point is the rate at that moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--03-rate-from-chords.webp" width="900" height="820" alt="Oxygen volume against time rises steeply then levels off. Gradients over 0-10 s, 20-30 s and 40-50 s are 1.4, 0.6 and 0.2 cm3 per s, and the line is flat after 50 s." loading="lazy">
+  <figcaption>The steeper the line, the faster the reaction; it flattens when substrate is used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--06-catalase-gas-syringe.webp" width="900" height="920" alt="A flask of hydrogen peroxide and a catalase source is bunged, with a delivery tube to a gas syringe. The plunger is pushed out to read the oxygen volume, for example 33 cm cubed in 60 s, a rate of 0.55 cm cubed per second." loading="lazy">
+  <figcaption>Oxygen from the flask is collected in a gas syringe and the volume read after a fixed time.</figcaption>
+</figure>
+
 
 ## Common errors
 

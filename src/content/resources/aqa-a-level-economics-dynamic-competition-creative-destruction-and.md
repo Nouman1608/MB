@@ -70,6 +70,12 @@ Payback = 300,000 / 600,000 = 0.5 years = 6 months
 
 If the lower cost is passed on in price, consumers gain in the long run. If Brightwell keeps it as profit, rivals have an incentive to match the saving or leave. Either way, rivalry is what makes the project worth doing: a firm with no rivals has less reason to take the risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--09-brightwell-payback.webp" width="900" height="790" alt="Cumulative savings of 50,000 a month rise to 600,000 in a year against a 300,000 cost, so the line crosses the cost line at 6 months." loading="lazy">
+  <figcaption>Payback is cost divided by annual saving: 300,000 / 600,000 = 0.5 year.</figcaption>
+</figure>
+
+
 ## 2. Non-price competition
 
 Firms do not compete on price alone. The specification lists improving products, reducing costs and improving the quality of the service provided. Other forms of non-price competition include:
@@ -104,6 +110,17 @@ Cost per year: X = 120 / 4 = 30 ; Y = 90 / 2 = 45
 ```
 
 Brand X is cheaper per year of use by 15. A firm that can show this competes on quality without cutting its sticker price. Check whether buyers can verify durability before buying: if they cannot, claims have less force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--10-advertising-break-even.webp" width="900" height="860" alt="Net gain = 15 x chairs - 45,000. The line crosses zero at 3,000 chairs and gives +12,000 at 3,800." loading="lazy">
+  <figcaption>The campaign pays only if it adds more than 3,000 chairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--11-charger-cost-per-year.webp" width="900" height="870" alt="Brand X costs more to buy (120 vs 90) but lasts 4 years against 2, so costs 30 a year against 45." loading="lazy">
+  <figcaption>Quality can beat a lower sticker price when cost per year of use is compared.</figcaption>
+</figure>
+
 
 ## 3. Creative destruction
 
@@ -148,6 +165,12 @@ Consumers pay 20% less per unit and 20% more units are sold. Alpha's profit fall
 - Against: it can leave workers in the old industry facing structural unemployment, and it can take years, during which consumers pay high prices.
 - Against: a dominant firm may buy up or copy a rival, slowing the process.
 - Key judgement: the speed depends on how high the barriers to entry are and on whether patents and funding allow entrants to survive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--04-creative-destruction-entry.webp" width="900" height="890" alt="Bar chart. In year 1 Alpha is the only seller at price 60 and earns 200,000. In year 2 Beta enters, both sell at 48, Alpha earns 56,000 (down 72%) and Beta 80,000. Consumers pay 20% less per unit and 20% more units are sold." loading="lazy">
+  <figcaption>Large profits draw in an innovating entrant, which cuts the price and erodes the incumbent profit.</figcaption>
+</figure>
+
 
 ## 4. Contestable and non-contestable markets
 
@@ -208,6 +231,17 @@ At 14 the entrant (cost 11) can profitably undercut. At 10 the entrant would mak
 - Strengths: it explains good performance by concentrated markets, and it shifts attention from market share to barriers.
 - Limits: few real markets have zero sunk costs. Incumbents can use advertising, loyalty schemes, exclusive contracts or capacity to raise sunk costs for entrants.
 - Policy view: if a market is contestable, keeping entry open matters more than breaking up firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--05-hit-and-run-sunk-costs.webp" width="900" height="910" alt="Two cases of an entrant earning 36,000 over six months against a 240,000 entry cost. If 90% is recoverable the sunk cost is 24,000 and net is +12,000, so hit-and-run pays. If only 40% is recoverable the sunk cost is 144,000 and net is -108,000, needing 24 months to recover, so it does not pay." loading="lazy">
+  <figcaption>Hit-and-run entry only pays when sunk costs are low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--06-entry-deterring-price.webp" width="900" height="890" alt="Price scale with the entrant cost of 11 dashed. At price 14 the incumbent makes 36,000 but an entrant with cost 11 can undercut and profit. At price 10 the incumbent makes 10,000 and an entrant would make a loss. High sunk costs would let the incumbent hold 14." loading="lazy">
+  <figcaption>A contestable market can force an incumbent to price below the monopoly level to deter entry.</figcaption>
+</figure>
+
 
 ## Common errors
 

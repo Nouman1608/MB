@@ -72,6 +72,12 @@ Substitute the parametric x and y into the line equation. Solve for the paramete
 
 **Reminder.** x = 1/t, y = 3t meets y = 5 − x. Then 3t = 5 − 1/t, so 3t² − 5t + 1 = 0. The roots are t = (5 ± √13)/6, not integers, so keep the exact form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--06-hidden-quadratic.webp" width="900" height="1080" alt="The parabola u^2 - 5u + 6 crosses the u-axis at 2 and 3; u &lt; 0 is shaded as impossible since e^x &gt; 0. The curve y = e^(2x) - 5e^x + 6 crosses the x-axis at x = ln 2 and ln 3." loading="lazy">
+  <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
+</figure>
+
+
 ## eˣ and ln x
 
 | Feature | y = eˣ | y = ln x |
@@ -104,6 +110,17 @@ k ln a = ln(aᵏ)             ln 1 = 0,  ln e = 1
 | y = ln(x − a) | Translate right a | x = a | (a + 1, 0) |
 | y = ln x + c | Translate up c | x = 0 | (e⁻ᶜ, 0) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--02-base-family.webp" width="900" height="1000" alt="Curves 2^x, e^x, 3^x and (1/2)^x all pass through (0, 1), lie above the x-axis and have it as an asymptote. Bases above 1 give growth, with e^x between 2^x and 3^x; (1/2)^x decays and mirrors 2^x in the y-axis." loading="lazy">
+  <figcaption>Every aˣ passes through (0, 1); a &gt; 1 grows and a &lt; 1 decays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
+
 ## Method: solving equations with e and ln
 
 1. Isolate the exponential or the logarithm.
@@ -133,6 +150,12 @@ Method in steps for a model problem:
 5. Interpret the answer with units, and say if the model is unrealistic (for example, unlimited growth).
 
 **Reminder.** N = 50e^(0.2t). N = 200 when e^(0.2t) = 4, so t = ln 4/0.2 ≈ 6.93.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

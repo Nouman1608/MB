@@ -70,6 +70,17 @@ Trade-weighted index = 0.50 × 110 + 0.30 × 95 + 0.20 × 120 = 55 + 28.5 + 24 =
 
 The mira has appreciated 7.5% on average, even though it fell 5% against P. Always check that weights sum to 1 (or 100%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--01-real-vs-nominal-rate.webp" width="900" height="810" alt="The nominal rate rises 10.0 percent (3.00 to 3.30). With price indices 104 and 102 the real rate is 3.30 x 104 / 102 = 3.365, up 12.2 percent. Bars show the extra 2.2 points caused by faster price rises in Country M." loading="lazy">
+  <figcaption>Real appreciation (12.2%) exceeds nominal (10.0%) because M's prices rose faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--02-trade-weighted-index.webp" width="900" height="760" alt="Bars of width equal to trade share (N 50%, P 30%, Q 20%) show mira indices 110, 95 and 120 against base 100. The weighted average is 55 + 28.5 + 24 = 107.5, a 7.5 percent appreciation despite a 5 percent fall against P." loading="lazy">
+  <figcaption>A trade-weighted index weights each partner by its share of trade: 107.5.</figcaption>
+</figure>
+
+
 ## 11.2.2 Determination under fixed and managed systems
 
 In a floating system the market sets the rate. The other systems limit that.
@@ -93,6 +104,12 @@ If the peg is below equilibrium there is excess demand. The bank sells miras and
 
 Interest rates give the bank another route. Raising them attracts short-term funds, raises demand for the currency and eases the pressure, but at the cost of higher borrowing costs at home.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--05-peg-excess-supply.webp" width="900" height="880" alt="Demand and supply for miras with equilibrium at 2.30. A peg at 2.50 creates excess supply of 40 million, which the central bank must buy using 100 million nols of reserves." loading="lazy">
+  <figcaption>Defending a peg above equilibrium means buying the excess supply with reserves.</figcaption>
+</figure>
+
+
 ## 11.2.3 Revaluation and devaluation
 
 - Devaluation: a deliberate cut in the official value of a fixed rate by the government or central bank.
@@ -107,6 +124,12 @@ Worked example. The peg is 2.50 nols per mira. Country M devalues to 2.25.
 - An import priced at 900 nols cost 900 ÷ 2.50 = 360 miras. It now costs 900 ÷ 2.25 = 400 miras, which is 11.1% dearer.
 
 Why devalue? To make exports cheaper and imports dearer, expecting to switch spending towards home output (an expenditure-switching effect) and reduce a current account deficit, or when reserves cannot defend the old rate. The risks are higher import prices, loss of credibility and retaliation. A revaluation does the reverse and can be used to curb imported inflation or to correct a surplus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--07-devaluation.webp" width="900" height="810" alt="Before-and-after bars: an export priced at 500 miras falls from 1,250 to 1,125 nols (10% cheaper); an import priced at 900 nols rises from 360 to 400 miras (11.1% dearer)." loading="lazy">
+  <figcaption>Devaluation makes exports cheaper abroad and imports dearer at home.</figcaption>
+</figure>
+
 
 ## 11.2.4 Changes in the rate under different systems
 
@@ -128,6 +151,17 @@ Strengths and weaknesses:
 |---|---|---|
 | Strengths | Certainty for traders; can discipline inflation | Absorbs some shocks; more room for domestic policy; fewer reserves needed |
 | Weaknesses | Needs large reserves; interest rates serve the peg, not the domestic economy; vulnerable to speculation | Less certain; intervention can fail; rules can be unclear |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--06-three-systems.webp" width="900" height="1020" alt="Demand for miras falls by 60 at every rate. A floating rate falls to 2.00; a fixed rate of 2.50 needs 100 million miras bought (250 million nols); a managed floor of 2.20 needs 40 million bought (88 million nols)." loading="lazy">
+  <figcaption>Under floating the price absorbs the shock, under fixed the reserves do, under managed it is shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--03-fixed-vs-managed-pros-cons.webp" width="900" height="940" alt="Two columns compare a fixed rate (flat line at the peg) with a managed float (moving within a band). Fixed: certainty and inflation discipline, but large reserves, rates serving the peg, speculation risk. Managed: absorbs shocks, policy room, fewer reserves, but less certain, intervention can fail, unclear rules." loading="lazy">
+  <figcaption>Strengths and weaknesses of fixed and managed exchange-rate systems.</figcaption>
+</figure>
+
 
 ## 11.2.5 The Marshall-Lerner condition and the J curve
 
@@ -181,6 +215,17 @@ The balance turns positive at about the point where the sum passes 1 (the exact 
 - The time to the turning point is uncertain, so the policy may not deliver within the period that matters.
 
 Finish with a judgement: pick the factor that matters most in the case you are given and say why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--08-marshall-lerner.webp" width="900" height="920" alt="Bars of exports and imports after a 10% depreciation. With elasticities summing to 0.7 the balance is -26; with elasticities summing to 2.0 it is +109." loading="lazy">
+  <figcaption>The trade balance improves only when the two elasticities sum to more than 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-exchange-rate-systems-marshall-lerner-and-the-j-curve--09-j-curve.webp" width="900" height="910" alt="Trade balance over six periods from the lesson table: -100, -47, -26, +15, +88, +119, with the elasticity sum rising from 0.0 to 2.1. The balance turns positive near a sum of 1." loading="lazy">
+  <figcaption>The balance worsens first and then improves as elasticities rise.</figcaption>
+</figure>
+
 
 ## Common errors
 

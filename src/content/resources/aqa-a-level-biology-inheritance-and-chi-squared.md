@@ -43,6 +43,12 @@ No required practical is listed in 3.7.1. The specification suggests crosses of 
 
 The same genotype can give different phenotypes. Many hydrangea varieties are genetically identical when cloned, yet their flower colour changes with the pH of the soil.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+
 ## Setting out a genetic diagram
 
 The specification asks for fully labelled genetic diagrams, so include every stage every time:
@@ -54,6 +60,12 @@ The specification asks for fully labelled genetic diagrams, so include every sta
 5. Offspring phenotypes and the ratio.
 
 Use the same letter for both alleles of one gene (capital for dominant), and for codominance use a capital letter with superscripts, such as Cᴿ and Cᵂ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
 
 ## Monohybrid crosses
 
@@ -76,6 +88,17 @@ A gene can have more than two alleles in a population, but each individual carri
 
 Worked example. A woman of group A and a man of group B have a child of group O. The child is ii, so each parent carries i. The parents must be Iᴬi and Iᴮi. Gametes: Iᴬ or i from the mother, Iᴮ or i from the father. Offspring: IᴬIᴮ (AB), Iᴬi (A), Iᴮi (B), ii (O), each with probability 1/4. The probability that their next child is group AB is 1/4. The probability that their next two children are both group O is 1/4 × 1/4 = 1/16. Multiply probabilities of independent events and add probabilities of alternative outcomes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
+
 ## Dihybrid crosses
 
 A dihybrid cross follows two genes on different chromosomes, which assort independently in meiosis. In a tomato variety, assume purple stem (A) is dominant to green (a) and tall (D) is dominant to dwarf (d). Cross two plants that are AaDd.
@@ -90,6 +113,12 @@ Each parent makes four gamete types in equal numbers: AD, Ad, aD, ad. The 16-box
 | Green dwarf | 1 | 1 |
 
 From 320 offspring expect 180 : 60 : 60 : 20. The quick route is probability: purple dwarf needs purple (3/4) and dwarf (1/4), so 3/4 × 1/4 = 3/16. A test cross of AaDd with aadd gives 1 : 1 : 1 : 1 if the genes assort independently. A result that departs from 9 : 3 : 3 : 1 suggests autosomal linkage or epistasis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
 
 ## Sex linkage
 
@@ -108,6 +137,12 @@ The probability of an affected child is 1/4. Among sons it is 1/2, and no daught
 
 **Birds.** In birds the pattern is reversed: males are ZZ and females ZW. A barred-plumage allele Zᴮ is dominant to non-barred Zᵇ. Cross a non-barred male (ZᵇZᵇ) with a barred female (ZᴮW). Sons are ZᴮZᵇ barred and daughters are ZᵇW non-barred, so chicks can be sexed by plumage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
+
 ## Autosomal linkage
 
 Genes on the same chromosome (autosomal linkage) are inherited together unless crossing over separates them. The alleles on one chromosome are written together, for example GN/gn.
@@ -123,6 +158,12 @@ Worked example. A female fruit fly carries grey body (G, dominant) and normal wi
 
 Independent assortment predicts 250 of each. Instead, the two parental combinations are far commoner. The grey-vestigial and black-normal flies are recombinants made by crossing over between the loci in the mother's meiosis. There are 200 of them, 20% of the offspring. The closer two loci are, the fewer recombinants appear. A chi-squared test on these figures (below) confirms linkage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
+
 ## Epistasis
 
 Epistasis is when the allele of one gene masks or suppresses the expression of the alleles of a different gene at another locus. The result is a modified dihybrid ratio.
@@ -134,6 +175,12 @@ Epistasis is when the allele of one gene masks or suppresses the expression of t
 **Complementary action (9 : 7).** Two enzymes are needed in a pathway. Pigment appears only with a functional allele of each gene, so 9 coloured : 7 white.
 
 To decode an epistasis question, find the total of the ratio (16 for two heterozygous parents), identify which classes have merged, and explain which gene masks the other. Say that expression at one locus depends on the alleles at the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
 
 ## The chi-squared test
 
@@ -160,6 +207,12 @@ Degrees of freedom = 3, critical value 7.81. Since 3.82 < 7.81, the difference i
 **Worked example 4 (epistasis).** Observed 83 red, 36 yellow, 41 white against 9 : 3 : 4 (expected 90, 30, 40): χ² = 0.544 + 1.200 + 0.025 = 1.77; 2 degrees of freedom (critical 5.99). Not significant, so the data are consistent with recessive epistasis.
 
 Do not write that a non-significant result proves the ratio. Say the difference could be due to chance and the results are consistent with the ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ## Common errors
 

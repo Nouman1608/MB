@@ -52,6 +52,12 @@ The vision looks forward and is hard to measure. The mission names the products,
 
 Why have them at all? They can give staff a shared sense of purpose, help managers decide between competing options, signal values to customers and investors, and give a reference point against which later decisions can be judged. The weaknesses are just as testable. Statements can be vague, copied from competitors, ignored in practice or written to look good rather than to guide. A statement that says "we value our staff" while the firm cuts wages at every chance will not be believed. The guide's theory of knowledge prompt asks whether a mission statement is worthless if its effects cannot be easily measured, and your answer can use this tension: the benefit is real but hard to isolate from other causes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--02-vision-mission-objectives.webp" width="900" height="820" alt="Three stacked boxes: the vision is the future picture, the mission is what Elmgrave Bakery does now (local flour, fair pay, opening early), and objectives are measurable targets. Neither statement is an objective." loading="lazy">
+  <figcaption>Vision gives direction, mission describes today, and objectives turn direction into targets.</figcaption>
+</figure>
+
+
 ## Common business objectives
 
 An **objective** is a specific aim that a business sets itself. Objectives give everyone a target, make performance measurable and help the business judge whether its decisions worked. The guide names four common ones.
@@ -63,6 +69,12 @@ Growth means getting bigger. It can be measured in several ways: sales revenue, 
 percentage growth = (new value − old value) ÷ old value × 100
 
 Reasons for choosing growth include economies of scale, a stronger position against competitors, spreading risk across more products or markets, and satisfying managers or owners who want a larger firm. The risks are cash-flow strain, loss of control and a drop in quality if expansion is too fast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--04-growth-margin.webp" width="900" height="900" alt="Indexed bars show sales up 15% (2.40m to 2.76m) and net profit up about 7.3% (180k to 193.2k). Net profit margin falls from 7.5% to 7.0%." loading="lazy">
+  <figcaption>The growth objective was met, but the margin fell because profit grew more slowly than sales.</figcaption>
+</figure>
+
 
 ### Profit
 
@@ -86,6 +98,12 @@ This is a standard illustration and not a formula the guide asks you to memorize
 
 Ethical objectives are aims about acting in line with moral principles, going beyond what the law demands. Examples are paying suppliers a fair price, avoiding misleading advertising, refusing to use materials from unsound sources, or treating staff and customers honestly. They may cost money in the short term, but they can build trust, protect reputation and attract staff and customers who share the values. They can also clash with other objectives, for example when the cheapest supplier does not meet the business's standards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## Worked example 1: growth against profit
 
 **Kestrelwood Furniture** sold USD 2.40 million of furniture last year and USD 2.76 million this year. Net profit was USD 180,000 last year and USD 193,200 this year. Its stated objective was to grow sales revenue by 15%.
@@ -106,6 +124,12 @@ Return to a shareholder: (11.00 − 12.50 + 0.50) ÷ 12.50 × 100 = **−8%**.
 
 The value of all shares, the market capitalization, fell from USD 25.0 million to USD 22.0 million, a fall of USD 3.0 million. The dividend of USD 1.0 million in total softened the loss but did not remove it. Managers aiming to protect shareholder value would have to explain the fall, perhaps by a profit warning, or by the whole market dropping. Without that context you cannot judge whether the managers or outside events were responsible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--03-tindale-return.webp" width="900" height="920" alt="Per-share bars: opening price 12.50, price change -1.50, dividend +0.50, value held 11.50. Return is -8%. For 2,000,000 shares market value fell from 25.0m to 22.0m, softened by 1.0m dividends." loading="lazy">
+  <figcaption>A dividend softens a share price fall but the return was still -8%.</figcaption>
+</figure>
+
+
 ## Strategic and tactical objectives
 
 The guide lists these at AO3, so you need to compare them and judge how they work together.
@@ -123,6 +147,12 @@ Tactical objectives should support the strategic one. If they do not, the busine
 **Example.** Verrane Outdoor Gear sets the strategic objective of becoming a leading maker of sustainable outdoor clothing within seven years. Tactical objectives follow: raise the share of recycled fabric used from 20% to 40% by the end of next year, train all sales staff on repair services within six months, and cut packaging waste by a fifth this quarter. Each is narrow, has a clear deadline and links to the main aim.
 
 Evaluation point: tactical objectives help managers check progress and give staff clear targets, but a business that cares only about short-term targets can damage long-term aims, for example by cutting training to hit a quarterly cost target.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--05-strategic-tactical.webp" width="900" height="880" alt="A strategic objective (lead in sustainable clothing in 7 years) sits above three tactical objectives: cut packaging waste by a fifth this quarter, train sales staff on repairs within six months, raise recycled fabric from 20% to 40% by end of next year. An arrow shows tactical aims supporting the strategic aim." loading="lazy">
+  <figcaption>Tactical objectives are short-term steps that support the long-term strategic objective.</figcaption>
+</figure>
+
 
 ## Corporate social responsibility (CSR)
 

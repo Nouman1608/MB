@@ -64,6 +64,17 @@ Links: the [Business hub](/boards/edexcel/gcse/business/), the [printable checkl
 
 Method for an explain answer: state the point, then add two expansion points. For example, "flow production keeps unit cost low. Fixed costs are spread over a very large number of units, so each unit carries little. The business can then charge a competitive price."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--01-sandforth-job-price.webp" width="900" height="810" alt="A single bar splits the 3,750 pound price into labour 1,680, materials 900, overheads 420 and a 25 per cent mark-up of 750. The first three add to a total cost of 3,000 pounds." loading="lazy">
+  <figcaption>Sandforth Joinery builds one staircase price from labour, materials, overheads and mark-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+
 ## Technology: four things to balance (2.3.1)
 
 | Factor | Plus | Minus |
@@ -93,6 +104,12 @@ Change = (150 − 120) ÷ 120 × 100 = 25%.
 
 A batch workshop spends £18,000 to make 6,000 units: 18,000 ÷ 6,000 = £3.00 each. A flow line spends £60,000 to make 24,000 units: 60,000 ÷ 24,000 = £2.50 each. The flow line is 50p cheaper only because it makes four times as many units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--02-pennine-productivity.webp" width="900" height="850" alt="Before/after bars: productivity rises from 300 to 400 jars per worker (+33.3%) while unit cost falls from 1.50 to 1.25 pounds (-16.7%), although daily costs rise from 2,250 to 3,000 pounds." loading="lazy">
+  <figcaption>Productivity rises and unit cost falls because costs are spread over more jars.</figcaption>
+</figure>
+
+
 ## Bar gate stock graphs: method (2.3.2)
 
 1. Maximum stock is the top of the gate.
@@ -114,6 +131,12 @@ Maximum 400, reorder level 160, use 40 a day, lead time 2 days.
 
 Check the shape: if the line ever touches zero before the jump, the lead time is too long or the reorder level too low. A steeper fall means faster use, so a firm with rising sales may need a higher reorder level or a larger buffer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--03-flour-bar-gate.webp" width="900" height="1000" alt="Stock falls 50 kg a day from a maximum of 600 kg. An order is placed at the 250 kg reorder level on day 7; during the 3-day lead time 150 kg is used so 100 kg (the buffer) remains at delivery on day 10, when 500 kg is added. The cycle repeats every 10 days." loading="lazy">
+  <figcaption>The flour example drawn as a bar gate graph with maximum, reorder level, buffer and lead time marked.</figcaption>
+</figure>
+
+
 ## JIT in brief (2.3.2)
 
 | Advantages | Disadvantages |
@@ -126,6 +149,17 @@ Check the shape: if the line ever touches zero before the jump, the lead time is
 ### Worked reminder: Marsh Paints
 
 Stock falls from £48,000 to £12,000 on average. Holding costs are 5% a year. Reduction in stock = £36,000. Saving = 36,000 × 0.05 = £1,800 a year. One lost day of production could cost more than this, so the answer depends on supplier reliability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--04-brightwater-jit-risk.webp" width="900" height="980" alt="Bars show holding costs falling from 8,100 to 2,250 pounds (saving 5,850) after JIT, against 3,300 pounds lost for each stopped production day; two lost days (6,600) exceed the whole saving." loading="lazy">
+  <figcaption>The JIT saving is smaller than the cost of two days without parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## Suppliers and procurement (2.3.2)
 
@@ -142,6 +176,12 @@ Total cost of a supplier = price × quantity + delivery + cost of problems (late
 ### Worked reminder: two suppliers
 
 An order of 5,000 units. Supplier X £2.80 a unit = £14,000. Supplier Y £3.10 a unit = £15,500. Y is £1,500 dearer, which is 10.7% more (1,500 ÷ 14,000 × 100). If Y is reliable and X is often late, the extra may be worth paying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--05-orchard-suppliers.webp" width="900" height="990" alt="Supplier B costs 6,600 pounds more a year to buy from but saves 3,672 pounds in late-order losses, so Supplier A is still 2,928 pounds a year cheaper on these figures." loading="lazy">
+  <figcaption>Comparing suppliers on total cost, including the cost of late deliveries.</figcaption>
+</figure>
+
 
 ## Logistics and supply decisions (2.3.2)
 

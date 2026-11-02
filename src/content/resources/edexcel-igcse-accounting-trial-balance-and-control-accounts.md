@@ -49,6 +49,12 @@ The purposes are:
 - **To supply the figures for the financial statements.** The income statement and the statement of financial position take their figures from it.
 - **To help locate errors.** If the totals differ, the size of the difference narrows the search.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-trial-balance-columns.webp" width="900" height="850" alt="Two equal stacked columns in dollars. Debit column 108,370: assets 41,020, purchases and expenses 61,750, drawings 5,600. Credit column 108,370: capital 20,000, liabilities 13,210, sales and purchases returns 75,160." loading="lazy">
+  <figcaption>A trial balance agrees when debit and credit columns have equal totals.</figcaption>
+</figure>
+
+
 ## Preparing a trial balance
 
 Take the closing balance of each ledger account and place it on the side where it sits. Use these rules.
@@ -91,6 +97,12 @@ Notes on the method:
 3. Add each column separately, and show the totals on one line at the foot.
 4. Put a bank overdraft in the credit column, because the business owes the bank.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--01-tb-yarrow-columns.webp" width="900" height="900" alt="Yarrow Lane Bakery balances grouped into debit and credit blocks, both totalling 205,150 dollars; closing inventory is not included." loading="lazy">
+  <figcaption>Each balance goes on its normal side and the two columns total 205,150.</figcaption>
+</figure>
+
+
 ## Limitations of a trial balance
 
 Agreeing totals show only that total debits equal total credits. They do not show that every entry is right. The following errors leave the totals equal, so the trial balance cannot reveal them.
@@ -107,6 +119,17 @@ Agreeing totals show only that total debits equal total credits. They do not sho
 Other limits are that the trial balance gives balances at one date only, and it says nothing about whether the amounts are fair.
 
 Errors that do make the totals differ include a one-sided entry (the debit was posted but the credit was not, or the reverse), a different amount on each side, an addition error in a ledger account, and a balance carried down wrongly. For example, a sale of 380 credited to sales with no debit entry makes the credit column bigger by 380. A difference tells you that a mistake exists and gives you its size. It does not tell you where the mistake is. Section 3.3, Correction of errors, covers how to correct these errors and use a suspense account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--02-tb-six-errors-lesson.webp" width="900" height="1108" alt="Six cards for omission, commission, original entry, reversal, compensating and principle errors, each with debit and credit lines and totals that still agree." loading="lazy">
+  <figcaption>Six errors that leave the totals equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--09-mp16-tb-revealed.webp" width="900" height="1126" alt="Four balance scales show which column is higher for addition, partial omission, transposition and unequal posting. A panel contrasts omission (totals agree) with partial omission (credit higher by 1,500)." loading="lazy">
+  <figcaption>Revealed errors leave one column higher; omission does not.</figcaption>
+</figure>
+
 
 ## Purpose of control accounts
 
@@ -155,6 +178,17 @@ Check: the credit entries before the balance total 89,030, and 121,640 less 89,0
 
 Suppose the list of individual balances in the receivables ledger adds to 32,520. The difference is 90. The bookkeeper might look for a transposed figure, such as a balance of 540 copied as 450. The control account is correct if its entries are right, so the list is suspect first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--03-receivables-control-orrin-bell.webp" width="900" height="826" alt="Orrin Bell Hardware trade receivables control account: both sides total 121,640 dollars and the balance c/d is 32,610." loading="lazy">
+  <figcaption>Receivables control account for Orrin Bell Hardware.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--05-control-vs-list-90.webp" width="900" height="830" alt="Control balance 32,610 against list total 32,520: a gap of 90, matching 540 copied as 450." loading="lazy">
+  <figcaption>A 90 gap points to the list first.</figcaption>
+</figure>
+
+
 ## Trade payables control account
 
 Trade payables are suppliers the business owes for goods bought on credit. The account is a total version of the payables ledger. Entries that increase what the business owes go on the credit side. Entries that reduce it go on the debit side.
@@ -190,6 +224,17 @@ Check: 2,640 + 64,800 + 1,215 + 860 = 69,515, and 90,150 less 69,515 is 20,635.
 
 The two examples use the contra the same way. The set-off reduces both control accounts, because the business no longer expects to receive, nor needs to pay, that amount.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--04-payables-control-tellis.webp" width="900" height="770" alt="Tellis Cycles trade payables control account: both sides total 90,150 dollars and the balance c/d is 20,635." loading="lazy">
+  <figcaption>Payables control account for Tellis Cycles, mirror of receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-mp16-contra.webp" width="900" height="770" alt="Norbury owes 700 and is owed 1,150, so 700 is set off. It is credited in the receivables control account and debited in the payables control account, and 450 is still owed." loading="lazy">
+  <figcaption>A contra reduces both control accounts by the same amount, so enter it in both.</figcaption>
+</figure>
+
+
 ## What stays out of a control account
 
 - Cash sales and cash purchases, because they never pass through the ledgers.
@@ -199,6 +244,12 @@ The two examples use the contra the same way. The set-off reduces both control a
 - Any amount that does not change what customers owe or what suppliers are owed.
 
 A customer who overpays has a credit balance in the receivables ledger. The control account closing balance is the net figure, so the debit balances less any credit balances in the ledger should equal it. Read the question to see how it wants such balances shown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-trial-balance-and-control-accounts--06-control-in-or-out.webp" width="900" height="1090" alt="Seven items that belong in the receivables control account and four that are kept out." loading="lazy">
+  <figcaption>What belongs in a control account and what does not.</figcaption>
+</figure>
+
 
 ## Common errors
 

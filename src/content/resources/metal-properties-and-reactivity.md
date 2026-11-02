@@ -111,6 +111,12 @@ water or steam (very reactive metals react with cold water; moderately
 reactive ones need steam), and oxygen (forming a metal oxide, at a rate that
 again depends on reactivity).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
+
 ## The reactivity series
 
 The **reactivity series** ranks metals from most to least reactive:
@@ -154,6 +160,17 @@ Mg is well above Fe, and Fe is above hydrogen while Cu is below it —
 consistent with copper showing no reaction at all.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
+
 ## Displacement reactions
 
 A more reactive metal will **displace** a less reactive metal from a
@@ -174,6 +191,12 @@ Observation: the nail becomes coated in a pink-brown deposit (copper metal);
 the blue solution fades to the pale green of iron(II) sulfate.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
+
 ## Aluminium's apparent unreactivity
 
 Aluminium sits above zinc and iron in the reactivity series, so it should
@@ -187,6 +210,12 @@ exposed aluminium immediately reacts with air to form a new oxide layer.
 Once the oxide layer is removed or prevented from forming (for example by
 scratching the metal under mercury), aluminium reacts with the expected
 vigour for its position in the series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--05-aluminium-oxide-layer.webp" width="900" height="1060" alt="Three stages: oxygen reacts with fresh aluminium; a thin aluminium oxide layer seals the metal against oxygen, water and acid; a scratched layer re-forms immediately." loading="lazy">
+  <figcaption>A thin, self-repairing oxide layer protects aluminium.</figcaption>
+</figure>
+
 
 ## Corrosion and its prevention
 
@@ -204,6 +233,17 @@ underneath is exposed, the steel still doesn't rust. This is **sacrificial
 protection**: zinc is more reactive than iron, so the zinc corrodes
 preferentially, losing electrons in place of the iron, protecting it even
 without an intact physical barrier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--06-rusting-conditions.webp" width="900" height="790" alt="Three tubes with iron nails: in air and water the nail rusts; in dry air above a drying agent it does not; in boiled water under oil it does not. Both oxygen and water are required." loading="lazy">
+  <figcaption>Remove either oxygen or water and rusting stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--07-sacrificial-protection.webp" width="900" height="1000" alt="A scratched painted steel sheet rusts at the scratch because the barrier is broken. A scratched zinc-coated sheet does not rust: zinc, being more reactive, loses electrons and corrodes instead while electrons flow to the steel." loading="lazy">
+  <figcaption>Sacrificial protection keeps working after the barrier is broken.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

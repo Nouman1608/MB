@@ -52,6 +52,12 @@ These are condensed notes for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (Au
 
 If a tree frame is already printed, fill in the missing branch probabilities first. Then answer the question in the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+
 ## Method: "at least one"
 
 ```
@@ -59,6 +65,12 @@ p(at least one) = 1 - p(none)
 ```
 
 Work out the single route where nothing happens and subtract from 1. This is quicker than adding many routes, especially with three or more stages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--12-at-least-one-three.webp" width="900" height="834" alt="A three-stage tree with eight routes. Only the route with three failures (0.8 x 0.8 x 0.8 = 0.512) has no success; the other seven total 0.488." loading="lazy">
+  <figcaption>For at least one, work out the single route for none and subtract from 1.</figcaption>
+</figure>
+
 
 ## Independent or dependent? Spot the wording
 
@@ -68,6 +80,22 @@ Work out the single route where nothing happens and subtract from 1. This is qui
 | "without replacement", "keeps it" | Dependent | Denominator drops by 1; the counted item may drop by 1 |
 | "separate dice", "different days, unrelated" | Independent | Nothing |
 | "if it is wet the first day, the chance becomes..." | Dependent | Second-stage probabilities differ |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--13-rain-dependent-tree.webp" width="900" height="710" alt="A two-stage tree: Monday rain 0.3, dry 0.7. After rain Tuesday rain is 0.6, after dry 0.2. Routes 0.18, 0.12, 0.14, 0.56 total 1; the Tuesday-rain routes give 0.18 + 0.14 = 0.32." loading="lazy">
+  <figcaption>The second-stage branches change with the first result, so the events are dependent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--02-tree-with-replacement.webp" width="900" height="1070" alt="Bag of 5 red and 3 blue, two draws with replacement. Branches are 5/8 and 3/8 both times; ends RR 25/64, RB 15/64, BR 15/64, BB 9/64. One of each is 15/64+15/64 = 15/32." loading="lazy">
+  <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -154,6 +182,12 @@ p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 - **p(A given B) is not p(B given A).** Use the group named after "given" as the denominator.
 - **With replacement versus without.** The tree has the same shape; only the second-stage numbers differ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--11-independence-bars.webp" width="900" height="820" alt="Two squares split into columns. In example 10 the bar for A is 0.4 high in both B and not B, equal to p(A), so independent. In example 6, diamonds fill 1/2 of the red column but p(diamond) is 1/4, so not independent." loading="lazy">
+  <figcaption>Independent means p(A given B) = p(A).</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. A bus is late with probability 0.27. Find the probability it is not late.
@@ -194,6 +228,17 @@ p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 - Using the total as the denominator in a conditional probability instead of the group after "given".
 - Starting a long "at least one" question by listing every route instead of using 1 - p(none).
 - Stating that two events are independent without showing the comparison in a test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

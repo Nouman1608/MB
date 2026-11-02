@@ -45,6 +45,17 @@ Trade matters because no country can produce everything efficiently. It lets a c
 
 Trade is worth more than four times as much relative to output in Country A, so a change in world demand or import prices hits it harder.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--06-trade-share-gdp.webp" width="900" height="850" alt="Bars of exports and imports as a share of GDP: Country A 37.5 plus 43.3 gives 80.8 percent; Country C 10 plus 8.9 gives 18.9 percent. Trade matters over four times as much to A." loading="lazy">
+  <figcaption>Country A trades 80.8% of GDP, Country C 18.9%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## The advantages of trade
 
 1. **Specialisation.** Countries concentrate on what they produce at the lowest opportunity cost, so total output rises.
@@ -73,6 +84,27 @@ Both countries consume more of both goods. Trade allows consumption beyond what 
 
 Average cost falls by 3 per loaf, so the firm can cut prices or raise profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--01-specialisation-and-trade.webp" width="900" height="1190" alt="Bars show cloth and grain for P and Q before specialising, after specialising and after trade. Both countries end with more of both goods; world output rises from 50 to 60 cloth and 35 to 40 grain." loading="lazy">
+  <figcaption>Trade at 1.5 cloth per grain leaves both countries consuming more than before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--07-bakery-export-cost.webp" width="900" height="910" alt="Average cost curve 4 + 100,000/Q: 9 per loaf at 20,000 loaves, 6 at 50,000 loaves after exporting." loading="lazy">
+  <figcaption>Exporting spreads fixed costs and cuts average cost from 9 to 6 a loaf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
+
 ## Global interdependence
 
 Countries are **interdependent** when each relies on others for markets, goods or materials. The consequences cut both ways.
@@ -84,6 +116,12 @@ Countries are **interdependent** when each relies on others for markets, goods o
 | Lower costs through specialisation | Overspecialisation leaves a country exposed if one product's price collapses |
 
 **Worked example 4.** Country M sends 40% of its exports to Country N. A recession in N cuts M's exports to N by 15%, and sales to all other buyers are unchanged. M's total exports fall by 0.40 x 15% = **6%**. A country selling mostly to one partner is more exposed than one with many markets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--08-one-partner-exposure.webp" width="900" height="800" alt="Country M sends 40 of every 100 of exports to N. A 15 percent fall in N purchases removes 6, so total exports fall 6 percent." loading="lazy">
+  <figcaption>A 15% fall in sales to a 40% partner cuts total exports by 6%.</figcaption>
+</figure>
+
 
 ## Free trade: arguments for and against
 
@@ -118,6 +156,12 @@ A **free-trade agreement (FTA)** is a deal between two or more countries to remo
 - A firm buying 25 machines saves 25 x 400 = 10,000 under the FTA.
 
 The firm's costs fall, so it may lower prices or invest. The government loses 400 per machine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--09-tariff-fta.webp" width="900" height="810" alt="A machine costs 5,000 under an FTA and 5,400 with an 8 percent tariff. 25 machines save the firm 10,000; government loses 400 a machine." loading="lazy">
+  <figcaption>An FTA removes a 400 tariff per machine: the firm saves 10,000 on 25 machines.</figcaption>
+</figure>
+
 
 ## How exchange rates are determined
 
@@ -158,6 +202,17 @@ Equilibrium is 2.0 bexo per arlo with 70 million traded. At 2.2 there is a surpl
 
 If instead residents buy more imports, adding 20 million to supply at every rate, equilibrium moves to 1.8, a 10% depreciation. An **appreciation** is a rise in the currency's value, a **depreciation** a fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--02-exchange-rate-equilibrium.webp" width="900" height="1030" alt="Demand and supply for the arlo cross at 2.0 bexo per arlo and 70 million arlo. At 2.2 there is a surplus of 20 million; at 1.8 a shortage of 20 million." loading="lazy">
+  <figcaption>The exchange rate settles where demand for the currency equals its supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--03-exchange-rate-shifts.webp" width="900" height="1260" alt="Two graphs: demand shifting right by 20 million moves the rate from 2.0 to 2.2 (10% appreciation); supply shifting right by 20 million moves it to 1.8 (10% depreciation)." loading="lazy">
+  <figcaption>A rise in demand appreciates the currency; a rise in supply depreciates it.</figcaption>
+</figure>
+
+
 ## Effects of exchange rate changes
 
 Suppose the arlo depreciates from 2.0 to 1.6 bexo.
@@ -179,6 +234,17 @@ The bexo price falls 20% (800 to 640). If price elasticity of demand is -1.5, vo
 An appreciation does the opposite: imports get cheaper (150 bexo costs 60 arlo at 2.5), but exports become dearer and exporters lose competitiveness.
 
 **Evaluating.** The effect depends on the size of the change, elasticity, how much the exporter relies on imported inputs, and the time period, because contracts and prices are often set in advance. One group's gain is another's loss: depreciation helps exporters and hurts importers and holidaymakers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--04-depreciation-effects.webp" width="900" height="1120" alt="A 150-bexo jacket rises from 75 to 93.75 arlo when the rate falls from 2.0 to 1.6, while a 400-arlo export falls from 800 to 640 bexo for foreign buyers." loading="lazy">
+  <figcaption>A depreciation makes imports dearer and exports cheaper abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--10-depreciation-elasticity-profit.webp" width="900" height="920" alt="Profit bars: 1,500,000 before; 1,852,500 if PED is -1.5 (13,000 sold); 1,567,500 if PED is -0.5 (11,000 sold) after a depreciation from 2.0 to 1.6." loading="lazy">
+  <figcaption>Elastic demand makes a depreciation far more profitable for the exporter.</figcaption>
+</figure>
+
 
 ## Common errors
 

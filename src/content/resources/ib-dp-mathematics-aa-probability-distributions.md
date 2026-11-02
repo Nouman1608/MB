@@ -85,6 +85,12 @@ P(sum = 8) = 5/36
 
 If 4% of items from a machine are faulty, the expected number faulty in a batch of 350 is 350 × 0.04 = 14.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--01-imath-aa-prob-sample-space.webp" width="900" height="952" alt="A six by six grid shows all 36 outcomes of two dice with their sums. The five cells with sum 8 are highlighted, so P(sum = 8) = 5/36 and the complement is 31/36." loading="lazy">
+  <figcaption>Counting favourable cells in the sample space gives P(sum = 8) = 5/36.</figcaption>
+</figure>
+
+
 ## 4.6 Combined events and diagrams
 
 For any two events:
@@ -116,6 +122,17 @@ P(RR | same) = (20/56)/(26/56) = 10/13
 
 On the second branch of the tree the denominator drops from 8 to 7. With replacement it would stay at 8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--02-imath-aa-prob-venn.webp" width="900" height="916" alt="A Venn diagram with circle areas drawn in proportion to P(A) = 0.45 and P(B) = 0.30, overlap 0.12. Regions are 0.33, 0.12, 0.18 and 0.37 outside. P(A or B) = 0.63, P(A|B) = 0.4, and P(A)P(B) = 0.135 is not 0.12 so A and B are not independent." loading="lazy">
+  <figcaption>The overlap is counted once in P(A ∪ B), and comparing P(A)P(B) with P(A ∩ B) tests independence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--03-imath-aa-prob-tree.webp" width="900" height="940" alt="Tree for 5 red and 3 blue counters taken without replacement: first branches 5/8 and 3/8, second branches over 7. Outcomes RR 20/56, RB 15/56, BR 15/56, BB 6/56. P(same) = 13/28 and P(RR | same) = 10/13." loading="lazy">
+  <figcaption>On the second branch the denominator drops from 8 to 7 without replacement.</figcaption>
+</figure>
+
+
 ## 4.7 Discrete random variables
 
 A **discrete random variable** X takes separate values, each with a probability. The distribution may be a table or a formula. The probabilities must sum to 1. The expected value is
@@ -133,6 +150,12 @@ P(X ≥ 3) = (5 + 6)/18 = 11/18
 ```
 
 **Fair game check.** You roll a fair die. You win 10 points on a six and lose 2 points otherwise. E(gain) = 10 × 1/6 − 2 × 5/6 = 0, so the game is fair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--04-imath-aa-prob-discrete.webp" width="900" height="900" alt="Bar chart of P(X = x) = (x + 2)/18 for x = 1 to 4. Bars for 3 and 4 give P(X at least 3) = 11/18. A triangle marks E(X) = 25/9 as the balance point. HL note: Var(X) = 95/81." loading="lazy">
+  <figcaption>E(X) is the balance point of the distribution; the HL variance is E(X²) − [E(X)]².</figcaption>
+</figure>
+
 
 ## 4.8 The binomial distribution
 
@@ -158,6 +181,12 @@ E(X) = 20 × 0.15 = 3,  Var(X) = 20 × 0.15 × 0.85 = 2.55
 
 The link to 4.5 is direct: np is the expected number of occurrences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--05-imath-aa-prob-binomial.webp" width="900" height="856" alt="Bar chart of B(20, 0.15) for r = 0 to 9 with groups X at most 2 (0.405), X = 3 (0.243) and X at least 4 (0.352). A triangle marks the mean 3 and the variance is 2.55." loading="lazy">
+  <figcaption>Binomial probabilities are found as pdf and cdf values; the mean np = 3 is the balance point.</figcaption>
+</figure>
+
+
 ## 4.9 The normal distribution
 
 X ~ N(μ, σ²) is a continuous distribution with a symmetric bell-shaped curve centred on μ. Many natural measurements are close to normal. Properties:
@@ -173,6 +202,12 @@ Always sketch the curve and shade the region you want. Probabilities and inverse
 P(45 < X < 58) = 0.872                 (normal cdf, lower 45, upper 58)
 P(X < a) = 0.9  →  a = 55.1            (inverse normal, area 0.9 to the left)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--06-imath-aa-prob-normal.webp" width="900" height="1000" alt="Two curves for N(50, 4²). Area between 45 and 58 is 0.872 (z = −1.25 and 2). Area to the left of a is 0.9, giving a = 55.1." loading="lazy">
+  <figcaption>Shade the region first; normal cdf finds an area and inverse normal finds the value.</figcaption>
+</figure>
+
 
 ## 4.11 Formal conditional probability and independence
 
@@ -218,6 +253,12 @@ Subtract: 30 = 2.9265σ  →  σ = 10.3,  μ = 43.1
 
 Keep the unrounded σ when finding μ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--07-imath-aa-prob-normal-unknowns.webp" width="900" height="1150" alt="Two examples: P(X &gt; 130) = 0.2 for N(120, σ²) gives z = 0.8416 and σ = 11.9. P(X &lt; 30) = 0.1 and P(X &gt; 60) = 0.05 give z = −1.2816 and 1.6449, so σ = 10.3 and μ = 43.1." loading="lazy">
+  <figcaption>Turn each area into a z-value, then solve for the unknown mean or standard deviation.</figcaption>
+</figure>
+
+
 ## 4.13 Bayes' theorem (HL only)
 
 Bayes' theorem reverses a conditional probability. For two events:
@@ -235,6 +276,12 @@ P(D | +) = 0.019/(0.019 + 0.0784) = 0.195
 ```
 
 **Three events.** Machines A, B and C make 50%, 30% and 20% of the output, with fault rates 2%, 3% and 5%. P(faulty) = 0.010 + 0.009 + 0.010 = 0.029, so P(A | faulty) = 0.010/0.029 = 0.345.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--08-imath-aa-prob-bayes.webp" width="900" height="1140" alt="Proportional bars: of 10 000 people 200 have a condition; 190 of them and 784 of the others test positive, so P(D|+) = 190/974 = 0.195. Machines A, B, C make 50%, 30%, 20% of output with fault rates 2%, 3%, 5%, giving 0.010, 0.009, 0.010 and P(A|faulty) = 0.345." loading="lazy">
+  <figcaption>Bayes’ theorem compares one branch with the total of all branches that lead to the observed result.</figcaption>
+</figure>
+
 
 ## 4.14 Variance and continuous random variables (HL only)
 
@@ -268,6 +315,12 @@ Mode: f is increasing on [0, 3], so the mode is 3
 Median: m³/27 = 1/2  →  m = 3/∛2 = 2.38
 Y = 2X − 1:  E(Y) = 7/2,  Var(Y) = 4 × 27/80 = 27/20
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--09-imath-aa-prob-continuous.webp" width="900" height="950" alt="Graph of f(x) = x²/9 on 0 to 3 with total area 1. The median 3/2^(1/3) ≈ 2.38 splits the area into two halves, the mean is 9/4, the mode is 3 and Var(X) = 27/80." loading="lazy">
+  <figcaption>The median splits the area in half; mean, median and mode differ for a skewed pdf.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

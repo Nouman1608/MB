@@ -43,6 +43,12 @@ For full explanations and worked examples, use the [halogens study guide](/resou
 2. Compare electron numbers, with the numbers.
 3. More electrons, stronger London forces, more energy to overcome them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
+
 ## 3.1.3(b): Electron configuration and redox
 
 - Outer shell s²p⁵; one electron short of a full p sub-shell.
@@ -68,6 +74,12 @@ Reactivity: Cl₂ > Br₂ > I₂. A halogen displaces only halides **below** it.
 
 The organic layer sits on top and shows the colours more clearly. That is why it is added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--07-halogen-displacement.webp" width="900" height="1110" alt="A three by three grid of tubes shows each halogen with KCl, KBr and KI; displacement occurs only when the added halogen is more reactive. A lower panel shows chlorine pale green, bromine orange and iodine violet in cyclohexane (OCR and Edexcel)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halide; in cyclohexane the halogens are pale green, orange and violet (OCR, Edexcel).</figcaption>
+</figure>
+
+
 ## 3.1.3(d): The reactivity explanation
 
 Down the group:
@@ -78,6 +90,12 @@ Down the group:
 4. So a 1− ion forms less easily, and reactivity (oxidising power) decreases.
 
 Point 3 is what links the structure to the trend. Do not leave it out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
 
 ## 3.1.3(e): Disproportionation
 
@@ -113,6 +131,17 @@ Names: HClO is chloric(I) acid; NaClO is sodium chlorate(I); ClO⁻ is the chlor
 
 Judgement most often reached: the public health benefit outweighs the small risk. An "evaluate" answer needs that judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
+
 ## 3.1.3(g): Halide tests (PAG4)
 
 **Method in steps**
@@ -132,6 +161,12 @@ Ionic equation pattern: Ag⁺(aq) + X⁻(aq) → AgX(s)
 Ammonia complexes: observations only. In a full anion sequence (3.1.4) test for carbonate, then sulfate, then halide; see [qualitative analysis](/resources/ocr-a-level-chemistry-qualitative-analysis/).
 
 **Molar masses for halide calculations** (Ar: Ag 107.9, Cl 35.5, Br 79.9, I 126.9): AgCl 143.4, AgBr 187.8, AgI 234.8.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -189,6 +224,12 @@ Divide the mass by the Mr of the whole silver halide, then by the volume in dm³
 10. Cream means AgBr, Mr 187.8; 0.376 ÷ 187.8 = 0.00200 mol Br⁻.
 11. HCl brings in its own Cl⁻ ions, so silver chloride would precipitate even with no chloride in the sample.
 12. Ozone or ultraviolet light.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -40,6 +40,12 @@ Also useful: the [practice questions](/resources/cambridge-o-level-economics-cos
 
 Typical fixed costs: rent, insurance, loan repayments, a salaried manager. Typical variable costs: raw materials, packaging, energy used in production, piece-rate pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Method: a cost question in five steps
 
 1. Write down the output the question asks about.
@@ -56,6 +62,12 @@ Typical fixed costs: rent, insurance, loan repayments, a salaried manager. Typic
 
 **Reading a cost table.** Scan down each average column. AFC always falls. Note the output where AVC is lowest and where ATC is lowest; ATC's lowest point comes at the same output as AVC's or to the right of it. If a question asks why, use figures: after AVC begins to rise, AFC may still be falling by more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--03-pottery-working-backwards.webp" width="900" height="950" alt="ATC 29 splits into AVC 17 and AFC 12. Times 30 pots gives TC 870 split into VC 510 and FC 360." loading="lazy">
+  <figcaption>Multiplying averages by output turns them back into totals.</figcaption>
+</figure>
+
+
 ## Cost diagrams (3.7.2)
 
 | Curve | Shape as output rises | Reason |
@@ -68,6 +80,17 @@ Typical fixed costs: rent, insurance, loan repayments, a salaried manager. Typic
 | ATC | U-shaped, above AVC; lowest point to the right of AVC's | The gap is AFC, which keeps falling |
 
 Always label the axes (output on the horizontal, cost or cost per unit on the vertical) and every curve. Describe diagrams in words if asked to explain: say where the curve starts, which way it moves and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--08-bakery-total-costs.webp" width="900" height="810" alt="FC is a flat line at 480. VC starts at the origin and rises to 2,450 at 800 loaves. TC starts at 480 and is exactly 480 above VC at every output, for example 1,360 = 480 + 880 at 400 loaves." loading="lazy">
+  <figcaption>TC starts at the level of FC and stays 480 above VC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--09-bakery-average-costs.webp" width="900" height="840" alt="AFC falls from 4.80 to 0.60. AVC is U-shaped with a lowest 2.20 at 400 loaves. ATC is above AVC, U-shaped, with a lowest 3.26 at 500 loaves. The gap between ATC and AVC is AFC. From 400 to 500 loaves AFC falls 0.24 and AVC rises 0.10." loading="lazy">
+  <figcaption>ATC = AFC + AVC, and ATC is lowest at a larger output than AVC.</figcaption>
+</figure>
+
 
 ## Revenue and the influence of sales (3.7.4)
 
@@ -85,6 +108,22 @@ Always label the axes (output on the horizontal, cost or cost per unit on the ve
 - Discounts: AR falls below the list price because some units sell for less.
 - Higher TR does not always mean higher profit. If extra output raises TC by more than TR, profit falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--10-bakery-profit.webp" width="900" height="900" alt="TR rises in a straight line at 4.00 a loaf while TC starts at 480. The gap is a loss up to about 300 loaves and a profit after. Profit is -200 at 200 loaves, +30 at 300, +370 at 500, +440 at 700 (best) and +270 at 800." loading="lazy">
+  <figcaption>Profit is the gap between TR and TC and is largest at 700 loaves, not the highest output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--11-poster-revenue.webp" width="900" height="880" alt="Five rectangles, price on the height and posters sold on the width, so area is TR: 500, 522, 560, 546, 480 as price falls from 10 to 6. TR rises when 10 goes to 9 (price -10%, sales +16%) and falls when 8 goes to 7 (price -12.5%, sales +11.4%)." loading="lazy">
+  <figcaption>A price cut raises total revenue only if sales rise by a larger percentage than the price falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+
 ## Objectives of firms (3.7.5)
 
 | Objective | What the firm does | Typical evidence | Limit or risk |
@@ -95,6 +134,12 @@ Always label the axes (output on the horizontal, cost or cost per unit on the ve
 | Growth | Raises sales, output or market share | Price cuts, new outlets | Profit may fall now; borrowing risk |
 
 Objectives overlap and can change over time. A start-up may aim for survival, then growth, then profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--12-survival-and-growth.webp" width="900" height="1030" alt="Survival: at price 3.00 and 400 loaves TR is 1,200, covering VC 880 with 320 left towards FC 480, but TC 1,360 gives a loss of 160. Growth: cutting the price to 3.60 lifts sales from 700 to 800 loaves (+14.3%) but profit swings from +440 to a loss of 50." loading="lazy">
+  <figcaption>A firm can cover its variable costs and survive for a while, and can grow sales while giving up profit.</figcaption>
+</figure>
+
 
 ## Evaluation chains for objectives
 
@@ -142,6 +187,12 @@ To evaluate, name the condition that decides the answer, such as how much money 
 10. Social welfare.
 11. The same fixed cost is shared among more units.
 12. AR equals ATC, so profit per unit is 0 and total profit is **0**. The firm breaks even.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--04-scarves-ar-vs-list-price.webp" width="900" height="845" alt="Sixty scarves at 12 and forty at 9 give TR 1,080 and AR 10.80. The gap above the 9 block is 120 lost to the discount." loading="lazy">
+  <figcaption>Discounting pulls AR below the list price.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

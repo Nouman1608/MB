@@ -42,6 +42,12 @@ Related pages: the [operations practice questions](/resources/a-level-business-o
 
 Reminder: price £12, bought-in inputs £7.50. Added value = £4.50 per unit. At 3,000 units, £13,500 in total.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--08-transformation-process.webp" width="900" height="970" alt="Inputs are the four factors of production with bakery examples, transformed by mixing, baking and selling into loaves. Added value per loaf is 4.50 less 1.30 of bought-in materials, 3.20 pounds." loading="lazy">
+  <figcaption>Inputs (the four factors of production) are transformed into outputs that add value.</figcaption>
+</figure>
+
+
 ## 4.1.2 Efficiency, effectiveness, productivity, sustainability
 
 | Term | Meaning | Why it matters |
@@ -72,6 +78,22 @@ Reminder: 5,400 units from 30 workers = 180 per worker. Next month 5,880 from 28
 
 Decision rule: compare the outlay with the yearly saving and the time the business expects to stay. £24,000 outlay saving £6,000 a year is recovered in 4 years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--09-labour-productivity.webp" width="900" height="1010" alt="Before, 20 staff made 2,400 cabinets (120 each); after new jigs 18 staff made 2,700 (150 each), up 25%. Productivity is an average and does not show quality." loading="lazy">
+  <figcaption>Labour productivity rose from 120 to 150 cabinets per employee, +25%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--10-efficient-effective.webp" width="900" height="830" alt="A grid of efficiency (less waste) against effectiveness (meets needs). A very efficient factory that makes goods nobody wants is efficient but ineffective." loading="lazy">
+  <figcaption>Efficiency is about waste; effectiveness is about meeting needs and objectives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--11-solar-payback.webp" width="900" height="780" alt="Bars of money recovered so far: minus 36,000 pounds at the start, rising 9,000 a year to zero in year 4, then 9,000 and 18,000 above." loading="lazy">
+  <figcaption>Outlay of 36,000 pounds recovered in 4 years at 9,000 a year.</figcaption>
+</figure>
+
+
 ## 4.1.3 Capital intensive and labour intensive
 
 | | Benefits | Limitations |
@@ -87,6 +109,17 @@ Method in steps for choosing between two set-ups:
 5. Add non-numbers: flexibility, quality, jobs, risk.
 
 Reminder: fixed £80,000 and £0.50 per unit against fixed £20,000 and £1.10 per unit. Equal when 60,000 = 0.60Q, so Q = 100,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--10-press-v-labour.webp" width="900" height="876" alt="Total cost lines for a press (120,000 + 0.40 a copy) and labour (30,000 + 1.60 a copy) cross at 75,000 copies and 150,000 pounds. Labour is cheaper below that volume, the press above it." loading="lazy">
+  <figcaption>The capital intensive press is cheaper only above 75,000 copies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--14-unit-cost-press-labour.webp" width="900" height="754" alt="Cost per copy for the press (120,000 + 0.40 a copy) and labour (30,000 + 1.60 a copy). Press: 2.80 at 50,000 and 1.60 at 100,000. Labour: 2.20 and 1.90. Both are 2.00 at 75,000 copies." loading="lazy">
+  <figcaption>The press has the lower unit cost only above 75,000 copies.</figcaption>
+</figure>
+
 
 ## 4.1.4 Operations methods
 
@@ -120,6 +153,27 @@ Always check what the question says about volume, variety and price before choos
 - Staff worries about job changes, new skills and resistance.
 - Risk to quality or the brand image (for example bespoke to standard).
 - Suppliers, demand and cash flow must support the new method.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--11-batch-v-flow-week.webp" width="900" height="960" alt="In a 40-hour week at 800 biscuits an hour, ten 1.5 hour changeovers cost 15 hours, leaving 25 hours and 20,000 biscuits; one flavour with no changeovers gives 32,000, which is 12,000 more." loading="lazy">
+  <figcaption>Changeovers between batches cost 12,000 biscuits a week in this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--12-mass-customisation.webp" width="900" height="760" alt="Three sets of standard parts, three colours each. The customer picks one from each set, giving a personal trainer; nine parts can be combined into 27 trainers (illustrative)." loading="lazy">
+  <figcaption>Standard parts combined to a customer's choice give choice at close to mass-production cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--13-change-method-dip.webp" width="900" height="814" alt="An illustrative line of output over time: steady under batch, a dip during the change, then a higher level under flow. Problems to weigh are cost, disruption, staff, customers, suppliers and demand." loading="lazy">
+  <figcaption>Output may fall while the method changes, so weigh the problems against long-term gains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
 
 ## Applying the content in answers
 
@@ -187,6 +241,12 @@ Batch time lost. A line runs 35 hours a week, with 8 changeovers of 1.25 hours e
 - Naming an advantage or disadvantage but not explaining what it does to costs, quality or customers in the case.
 - Judging a sustainability measure without weighing its cost against its saving or image effect.
 - Describing the problems of changing method in general, rather than for the business and the method in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

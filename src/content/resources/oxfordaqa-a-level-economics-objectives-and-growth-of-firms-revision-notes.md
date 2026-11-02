@@ -85,6 +85,12 @@ At the revenue-maximising output, PED = 1 in absolute value, because MR = 0. A p
 
 **Satisficing.** Using the pickle table, suppose the owner wants at least £40 profit. Q = 3 gives £44 and Q = 4 gives £42, so either meets the target. Q = 2 (£30) fails. A satisficer might pick Q = 4 for the larger share. Satisficing is realistic when information is poor, owners are content, or the firm faces little competition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--08-lamp-objectives-diagram.webp" width="900" height="980" alt="Lamp workshop curves AR = 70 - 0.5Q, MR = 70 - Q, MC = 10 + 0.2Q and AC from TC. Profit max is 50 lamps at 45; revenue max 70 at 35; normal-profit output about 78.9 at 30.6." loading="lazy">
+  <figcaption>Each objective picks a different output and price.</figcaption>
+</figure>
+
+
 ## Ownership and control
 
 | Reasons for the divorce | Consequences | Ways to control managers |
@@ -97,6 +103,17 @@ At the revenue-maximising output, PED = 1 in absolute value, because MR = 0. A p
 **Worked reminder.** A manager receives 1.5% of revenue. In the pickle table, a move from Q = 3 to Q = 5 lifts the bonus from £2.25 (1.5% of 150) to £3.00 (1.5% of 200), a gain of £0.75, while profit falls from £44 to £22. Pay linked to revenue rewards the wrong thing; pay linked to profit aligns interests.
 
 Evaluation: the problem is weaker if managers hold shares, if competition punishes slack, or if the stock market threatens takeover. It is stronger when ownership is widely spread and the firm has market power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--01-bonus-revenue-vs-profit.webp" width="900" height="1130" alt="Paired bars compare 50 and 70 lamps. Profit is 500 at 50 lamps and 260 at 70. A 2% revenue bonus is 45 versus 49, so the manager gains 4 while shareholders lose 240. A 2% profit bonus is 10 versus 5.20, so the manager stays at 50." loading="lazy">
+  <figcaption>A bonus on revenue pulls the manager away from the shareholders’ aim; a bonus on profit aligns them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--02-state-bus-objectives.webp" width="900" height="1000" alt="Demand, marginal revenue, marginal cost and average cost for a state bus company. Point A (MR = MC) is 2,000 trips at 6 with profit 2,000; B (AR = AC) is 3,000 trips at 4 with zero profit; C (P = MC) is 4,000 trips at 2 with a loss of 6,000." loading="lazy">
+  <figcaption>Different objectives give different output, price and profit; P = MC needs a subsidy.</figcaption>
+</figure>
+
 
 ## Government ownership and control
 
@@ -131,6 +148,22 @@ Reasons for growth: economies of scale, market power, risk spreading, new market
 - Merged share: 22% + 9% = **31%**.
 - Forward integration: a jam maker sells jars to shops for £2.40, and shops charge £3.20. The retail margin is £0.80 per jar. If running its own shops costs £0.50 per jar, net gain is **£0.30** a jar, or £60,000 on 200,000 jars.
 - Takeover premium: offer £4.20 against a market price of £3.50 is (4.20 − 3.50) ÷ 3.50 = **20%**. For 25m shares the cost is £105m against £87.5m, so the premium is **£17.5m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--11-integration-types.webp" width="900" height="850" alt="Horizontal: Firms R (18%) and S (14%) merge to 32%. Vertical: a furniture maker buys its timber supplier (backward) or a distributor (forward), saving 12 on 10,000 units. Conglomerate: firms in unrelated markets join." loading="lazy">
+  <figcaption>Horizontal joins the same stage, vertical joins different stages, conglomerate joins unrelated markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--12-conglomerate-risk-spread.webp" width="900" height="890" alt="Firm F profit 12, 4, 14, 6 and Firm G 4, 12, 5, 11 swing widely; combined 16, 16, 19, 17. Range falls from 10 and 8 to 3." loading="lazy">
+  <figcaption>Combining unrelated firms smooths profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

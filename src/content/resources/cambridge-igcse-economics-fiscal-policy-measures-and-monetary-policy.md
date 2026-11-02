@@ -49,6 +49,12 @@ There are only two levers: what the government spends and what it collects in ta
 - **Expansionary** (or reflationary) fiscal policy: lower taxes, higher spending, or both. It aims to raise spending in the economy.
 - **Contractionary** (or deflationary) fiscal policy: higher taxes, lower spending, or both. It aims to reduce spending in the economy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--02-un157-fiscal-expansion-contraction.webp" width="900" height="830" alt="Two columns. Expansionary: lower tax, higher spending, spending in the economy rises, deficit tends to widen. Contractionary: higher tax, lower spending, spending in the economy falls, deficit tends to narrow." loading="lazy">
+  <figcaption>Fiscal policy moves the two levers of tax and spending up or down.</figcaption>
+</figure>
+
+
 ## 4.3.8 Measures and the budget balance
 
 **Budget balance = government revenue − government spending.**
@@ -97,6 +103,17 @@ A tax cut paired with a spending rise widens a deficit. A tax rise paired with a
 
 Types of spending matter. Capital spending (roads, schools) can raise the economy's capacity to produce. Current spending (wages, running costs) and transfers (welfare payments) are spent each year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--03-eco37-budget-balance.webp" width="900" height="950" alt="Two stacked bars: revenue 100 and spending 110 in Country A. The spending bar is 10 taller; that gap is the budget deficit, 1.25% of national output of 800." loading="lazy">
+  <figcaption>Budget balance equals revenue minus spending, so 100 minus 110 is a deficit of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--04-eco37-deficit-scenarios.webp" width="900" height="910" alt="Horizontal bars of the deficit in billions: start 10; income tax cut 14.2; cut with a growing tax base 11.68; sales tax rise 3.8; extra spending 20; spending cut 4." loading="lazy">
+  <figcaption>Tax cuts and spending rises widen a deficit; tax rises and spending cuts narrow it.</figcaption>
+</figure>
+
+
 ## 4.3.9 Effects of fiscal policy on macroeconomic aims
 
 Describe the chain, one step at a time, in the economy's own terms (incomes, spending, firms, jobs, prices). You do not need aggregate demand or aggregate supply.
@@ -133,11 +150,28 @@ The higher earner pays a larger **share** of income. Because the share rises wit
 - **Conflicts.** A policy that cuts unemployment can raise inflation or worsen the balance of payments.
 - **Politics.** Tax rises and spending cuts are unpopular, so they may be delayed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--03-un157-progressive-10-vs-16.webp" width="900" height="850" alt="Two income bars each split into a free allowance of 10 and a taxable part. Tax is 2 on income 20 (10% of income) and 8 on income 50 (16%), so the share rises with income." loading="lazy">
+  <figcaption>A progressive tax takes a larger share of income from the higher earner.</figcaption>
+</figure>
+
+
 ## 4.4.1 Money supply and monetary policy
 
 The **money supply** is the total amount of money in an economy, including notes and coins and the deposits people hold in banks that they can spend.
 
 **Monetary policy** is the use of interest rates, the money supply and the foreign exchange rate to influence the economy and help achieve the government's macroeconomic aims. It is usually carried out by the central bank, either independently or on the government's behalf.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--06-eco37-money-supply-levers.webp" width="900" height="880" alt="Two columns. Easier money: the central bank buys bonds or cuts the reserves banks must hold, the money supply rises, credit is easier and rates tend to fall. Tighter money: it sells bonds or raises reserves, the money supply falls, credit is harder and rates tend to rise." loading="lazy">
+  <figcaption>The central bank changes the money supply with bond trades and reserve requirements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## 4.4.2 Monetary policy measures
 
@@ -150,6 +184,12 @@ The **interest rate** is the price of borrowing and the reward for saving. When 
 *Worked example 3.* A firm borrows 200,000 (illustrative). At 5% interest costs 10,000 a year; at 7% they cost 14,000, which is 4,000 more. A project expected to earn 12,000 a year is worth doing at 5% (a gain of 2,000) but not at 7% (a loss of 2,000). Higher rates cancel some investment.
 
 On the other side, a saver with 10,000 earns 200 at 2% and 400 at 4%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
 
 ### Changes in the money supply
 
@@ -166,6 +206,17 @@ The A-dollar rises to 1 A-dollar = 0.80 B-units, an **appreciation** of (0.80 ÷
 - A B-made good priced at 24 B-units cost 24 ÷ 0.50 = 48 A-dollars, and now costs 24 ÷ 0.80 = **30** A-dollars, a fall of **37.5%**.
 
 Exports become dearer abroad and imports cheaper at home. A fall in the rate (depreciation) does the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--05-eco37-rate-and-investment.webp" width="900" height="920" alt="Two bars show the yearly interest on a 200,000 loan: 10,000 at 5 percent and 14,000 at 7 percent. A line at 12,000 shows the project earnings, so the project gains 2,000 at 5 percent and loses 2,000 at 7 percent." loading="lazy">
+  <figcaption>A higher interest rate can make an investment project unprofitable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy--01-un157-a-dollar-appreciation.webp" width="900" height="950" alt="Two pairs of bars show an export going from 20 to 32 B-units (up 60%) and an import going from 48 to 30 A-dollars (down 37.5%) when 1 A-dollar rises from 0.50 to 0.80 B-units." loading="lazy">
+  <figcaption>An appreciation makes exports dearer abroad and imports cheaper at home.</figcaption>
+</figure>
+
 
 ## 4.4.3 Effects of monetary policy on macroeconomic aims
 

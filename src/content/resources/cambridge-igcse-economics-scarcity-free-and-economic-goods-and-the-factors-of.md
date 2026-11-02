@@ -54,6 +54,17 @@ Each decision maker meets the problem in a different form.
 
 **Evaluation point.** Governments can borrow to close a gap, but borrowing is also limited, and repayment uses future resources. Scarcity moves into the future; it does not disappear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--01-gov-budget-shortfall.webp" width="900" height="670" alt="Two bars on one scale: wants 50+40+30=120 against revenue 90, with a dashed 30 shortfall. Invented numbers from the lesson. Wants exceed resources so something must be cut." loading="lazy">
+  <figcaption>Wants of 120 exceed revenue of 90, leaving a shortfall of 30.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+
 ## 1.1.2 Economic goods and free goods
 
 An **economic good** is scarce: producing it uses resources, so it has an opportunity cost and normally a price. A **free good** is not scarce: it is available in unlimited quantity, so no resources need to be given up to obtain it and no price is charged. The test is about resources, not about the label on a till.
@@ -66,6 +77,22 @@ An **economic good** is scarce: producing it uses resources, so it has an opport
 Be careful with a second trap. A good that is **given away** is not automatically free. A charity may hand out food at no charge to the user, but the food still used resources, so it remains an economic good with a cost to someone.
 
 Very few goods are truly free. Sunshine on a beach is the usual example, but the service of safe access, cleaning and lifeguards around it is an economic good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--13-goods-water-village-city.webp" width="900" height="880" alt="A family takes stream water in a remote village using no resources, so it behaves like a free good. In a city, water needs a reservoir, pipes, treatment and workers, so it is an economic good with a price." loading="lazy">
+  <figcaption>The same water can be free in a village and economic in a city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## 1.2.1 Land, labour, capital and enterprise
 
@@ -93,6 +120,17 @@ Check: 54,000 + 18,000 + 6,000 + 42,000 = 120,000
 
 Profit is a **residual**: it is what is left after the other factors are paid. If revenue fell to 70,000, profit would be 70,000 − 78,000 = −8,000, a loss borne by the owner. That is why enterprise is the risk-taking factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--02-bakery-factor-rewards.webp" width="900" height="920" alt="Revenue of 120,000 splits into wages 54,000, rent 18,000, interest 6,000 and profit 42,000 (45/15/5/35 percent). In a bad year revenue 70,000 is below costs 78,000, a loss of 8,000." loading="lazy">
+  <figcaption>Each factor has its own reward; profit is the residual and the owner carries any loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## 1.2.2 Mobility of the factors
 
 **Mobility** is how easily a factor can be moved between uses. There are two kinds. **Geographical mobility** is moving from one place to another. **Occupational mobility** is changing from one job or use to another.
@@ -110,6 +148,17 @@ Profit is a **residual**: it is what is left after the other factors are paid. I
 3. If the worker expects to stay longer than 2.4 years and values the gain above family ties, moving makes sense. Where the gap is smaller or the move costs more, the worker stays: labour is then immobile.
 
 **Chain of reasoning.** Low mobility of labour means vacancies and unemployment can exist together. If unemployed bakers in one region cannot take electrician vacancies elsewhere because they lack skills (occupational) or cannot afford to move (geographical), output is lost. Policies such as retraining grants and help with moving costs work by raising mobility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--03-worker-move-decision.webp" width="900" height="1000" alt="Net gain of 2,500 a year (4,000 pay minus 1,500 housing) against a one-off 6,000 move cost; the cumulative gain line crosses zero at 2.4 years." loading="lazy">
+  <figcaption>Moving pays only if the worker stays longer than 2.4 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--14-factors-mobility-kinds.webp" width="900" height="950" alt="A grid of land, labour, capital and enterprise against geographical and occupational mobility, marked mobile, partly or immobile with the reason from the lesson for each." loading="lazy">
+  <figcaption>Geographical against occupational mobility for each factor.</figcaption>
+</figure>
+
 
 ## 1.2.3 Changes in the quantity and quality of the factors
 
@@ -134,6 +183,22 @@ The quantity of capital rose only because gross investment (60) exceeded depreci
 **Worked example: quality of land.** Country A has 8,000 hectares of farmland. Erosion removes 1.5% a year (8,000 × 0.015 = 120 hectares), while 200 hectares are reclaimed. Net change = +80, closing area 8,080. Fertiliser then raises yield from 3.0 to 3.6 tonnes per hectare, a rise of 20%. Both quantity and quality improved, so output rose from 8,000 × 3.0 = 24,000 tonnes to 8,080 × 3.6 = 29,088 tonnes.
 
 **Evaluation.** Quantity can rise quickly (open the borders, build a factory) but quality takes years (education, experience). Gains in one factor may be cancelled by falls in another. Greater population adds labour, but without matching capital and land, each worker has less to work with.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--04-capital-stock-change.webp" width="900" height="1020" alt="Two tanks start at 500 machines and lose 40 to wear. Buying 60 gives 520 (+4.0%); buying 30 gives 490 (−2.0%). Scale starts at 450." loading="lazy">
+  <figcaption>The capital stock grows only if gross investment exceeds depreciation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--11-factors-quality-examples.webp" width="900" height="830" alt="Labour: output per worker rises from 60 to 65 thousand (+8.3%) and output from 390 to 455. Land: yield rises from 3.0 to 3.6 tonnes per hectare (+20%) and output from 24,000 to 29,088 tonnes." loading="lazy">
+  <figcaption>Quality is output per worker or per hectare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--12-factors-what-moves-each.webp" width="900" height="980" alt="For land, labour, capital and enterprise: what raises or lowers the quantity and the quality of each, in short phrases from the lesson table." loading="lazy">
+  <figcaption>What raises or lowers the quantity and quality of each factor.</figcaption>
+</figure>
+
 
 ## Common errors
 

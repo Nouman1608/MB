@@ -59,6 +59,12 @@ the properties of water related to its roles in living organisms,
 limited to solvent action, high specific heat capacity and latent heat
 of vaporisation
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The biochemical tests in 2.1 are graded almost entirely on procedural
@@ -138,6 +144,12 @@ one of the most transferable exam skills this topic teaches, since the
 same structure-to-function reasoning recurs in Enzymes, Cell membranes
 and transport, and well beyond AS Level into topics such as Nucleic
 acids and protein synthesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--09-biochemical-tests.webp" width="900" height="1300" alt="Four pairs of test tubes: Benedict’s (heated) stays blue without reducing sugar and turns brick-red with it; iodine stays orange-brown without starch and turns blue-black with it; biuret stays blue without protein and turns purple with it; in the emulsion test, ethanol then water stays clear without lipid and turns cloudy white with it. A strip shows the Benedict’s colours blue, green, yellow, orange, brick-red with more reducing sugar. A three-step flow shows the non-reducing sugar test: boil with dilute HCl, neutralise with sodium hydrogencarbonate, then Benedict’s and heat." loading="lazy">
+  <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

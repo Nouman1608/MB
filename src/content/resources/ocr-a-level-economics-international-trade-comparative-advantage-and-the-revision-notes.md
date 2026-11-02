@@ -64,12 +64,29 @@ These notes condense the topic International trade from Component 2, Macroeconom
 
 F has the comparative advantage in A (0.5 is below 0.67). G has it in B (1.5 is below 2). One unit of A should trade for between 0.5 and 0.67 units of B. Equivalently, one unit of B trades for between 1.5 and 2 units of A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--04-comparative-advantage-gains.webp" width="900" height="990" alt="Production frontiers for Country A (80 tonnes coffee or 60 thousand toys) and Country B (30 tonnes or 15 thousand toys). After specialisation and trade at 0.6, A consumes 35 tonnes and 36 thousand toys and B 15 tonnes and 9 thousand toys, each 3 tonnes of coffee better off." loading="lazy">
+  <figcaption>Specialising and trading at 0.6 gives each country 3 more tonnes of coffee.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--05-terms-of-trade-range.webp" width="900" height="680" alt="A number line of thousand toys per tonne of coffee. B gives up 0.5 and A 0.75. Rates between them benefit both, 0.6 gives 3 and 3, and 0.8 is outside the range." loading="lazy">
+  <figcaption>Only terms between the two opportunity costs benefit both countries.</figcaption>
+</figure>
+
+
 ## Method: gains from trade
 
 - Fix a no-trade point on each frontier and total the world output.
 - Move each country towards its comparative advantage good.
 - Pick terms inside the range. The exports of one country equal the imports of the other.
 - State the extra consumption each country gets. A gain exists only if the terms lie inside the range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## Terms of trade
 
@@ -89,6 +106,22 @@ F has the comparative advantage in A (0.5 is below 0.67). G has it in B (1.5 is 
 3. Factor prices tend to move closer together as trade grows.
 
 Assumptions: same technology, similar tastes, perfect competition, no transport costs, factors that move within but not between countries. Weakness: it ignores technology, skills and economies of scale, and it cannot explain much trade between similar countries. For the terms of trade, a country whose abundant factor supports only primary goods faces volatile prices and weak income elasticity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--11-terms-of-trade-index-k.webp" width="900" height="810" alt="Export prices 112 over import prices 125 times 100 is 89.6, a 10.4 percent deterioration. 500 units of exports now buy 448 units of imports." loading="lazy">
+  <figcaption>Country K's terms of trade index of 89.6 means 500 exports buy only 448 imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--12-terms-of-trade-elastic-revenue.webp" width="900" height="960" alt="Export price up 10 percent with PED of -1.5 cuts volume 15 percent. Revenue is 1.10 x 0.85 = 0.935, a 6.5 percent fall." loading="lazy">
+  <figcaption>A better terms of trade can still cut export revenue when demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--13-heckscher-ohlin.webp" width="900" height="880" alt="Country M has abundant land and scarce capital and exports land-intensive goods; Country N is the reverse and exports capital-intensive goods." loading="lazy">
+  <figcaption>Countries export goods that use their abundant factor intensively.</figcaption>
+</figure>
+
 
 ## The changing pattern of global trade
 
@@ -110,12 +143,24 @@ Assumptions: same technology, similar tastes, perfect competition, no transport 
 
 Judgement: strong for resource-based trade, weaker for differentiated manufactures and services. A good conclusion says which assumption matters most for the case in the question, such as rising opportunity costs for a large economy or price volatility for a commodity exporter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--14-absolute-vs-comparative-hours.webp" width="900" height="1110" alt="C needs 4 and 6 hours for steel and furniture, D needs 10 and 12. C has absolute advantage in both; opportunity costs give C comparative advantage in steel (0.67 vs 0.83) and D in furniture (1.2 vs 1.5)." loading="lazy">
+  <figcaption>Fewer hours shows absolute advantage; lower opportunity cost shows comparative advantage.</figcaption>
+</figure>
+
+
 ## International competitiveness
 
 - Productivity, unit labour costs, exchange rate, quality and non-price factors, infrastructure, tax.
 - **Worked reminder.** Wages rise 5% and productivity 3%: ULC changes by 1.05 / 1.03 - 1 = **+1.94%**. Add a 2% appreciation and the ULC in foreign currency rises by 1.0194 x 1.02 - 1 = **+3.98%**.
 - An export priced at 300 domestic units, with 0.40 foreign units per domestic unit, costs 120 abroad. After a 5% appreciation (0.42) it costs 126.
 - Evaluation: price matters more in elastic markets; quality and brand can offset high costs. Low wages can reflect low productivity, so compare ULC, not wages. A government can raise competitiveness through education, infrastructure and investment, but results take years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--06-unit-labour-cost-competitiveness.webp" width="900" height="780" alt="Unit labour cost in X rises 2.91 percent, in W falls 2.86 percent, and X in W's currency rises 7.03 percent after a 4 percent appreciation. X is about 10.2 percent less cost competitive." loading="lazy">
+  <figcaption>Wage and productivity changes plus an appreciation make X about 10.2% less cost competitive.</figcaption>
+</figure>
+
 
 ## Trade and aid
 
@@ -126,6 +171,12 @@ Judgement: strong for resource-based trade, weaker for differentiated manufactur
 | Developing | Market access, foreign exchange | Commodity dependence, price volatility |
 
 Aid: finances investment, health and education, and relief; but risks dependency, corruption, tied aid and debt. Forms include grants, concessional loans, technical help, emergency relief, bilateral aid from one donor and multilateral aid through an institution. Judge by type, governance, size and whether it builds productive capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-international-trade-comparative-advantage-and-the--15-trade-and-aid-table.webp" width="900" height="820" alt="Table of gains and costs of trade for developed, emerging and developing economies, and the benefits and risks of aid." loading="lazy">
+  <figcaption>Trade and aid bring different gains and costs to different groups.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -48,6 +48,12 @@ A cell heterozygous for two unlinked genes, AaBb, can orient its two bivalents i
 
 Across many meioses all four gamete types appear in equal numbers, each ¼. With n pairs of homologous chromosomes there are 2ⁿ possible orientations. For n = 3 that is 8; for the 23 pairs of a human cell it is 2²³ = 8 388 608, before crossing over adds more variety.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--01-independent-assortment.webp" width="900" height="920" alt="Two AaBb cells in metaphase I show the two equally likely chromosome orientations. Orientation 1 gives gametes AB and ab; orientation 2 gives Ab and aB. All four types are each one quarter, and n pairs give 2^n orientations (8 for n = 3, 8 388 608 for n = 23)." loading="lazy">
+  <figcaption>Random orientation of bivalents makes four equally likely gamete types.</figcaption>
+</figure>
+
+
 ## Dihybrid crosses and Punnett grids (D3.2.17)
 
 A **dihybrid cross** follows two genes at once. Take the fruit fly *Drosophila melanogaster*. Ebony body (e) is recessive to grey (E), and vestigial wings (n) are recessive to normal wings (N). The two genes are on different chromosomes. (The letters are simplified for this guide.)
@@ -74,6 +80,22 @@ The phenotypic ratio is **9:3:3:1**. There are nine different genotypes in the g
 **Worked example 2: test cross.** Cross EeNn × eenn. The tester makes only en gametes, so each offspring's phenotype shows the gamete from the heterozygote. The four gamete types are equally likely, so the offspring ratio is **1:1:1:1**: grey normal, grey vestigial, ebony normal, ebony vestigial.
 
 **Nature of science.** Both the 9:3:3:1 ratio and the 1:1:1:1 ratio follow from what is called Mendel's second law, the law of independent assortment. It holds only when genes are on different chromosomes, or far enough apart on one chromosome that recombination reaches 50%. Expect exceptions to any biological "law" under certain conditions. Linkage is the exception in this unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--02-punnett-9331.webp" width="900" height="970" alt="A 4 by 4 Punnett grid for EeNn x EeNn with cells coloured by phenotype. It gives 9 grey normal, 3 grey vestigial, 3 ebony normal and 1 ebony vestigial, a 9:3:3:1 ratio, with nine genotypes in the ratio 1:2:1:2:4:2:1:2:1." loading="lazy">
+  <figcaption>The 16-cell grid gives the 9:3:3:1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--03-why-9331-area-model.webp" width="900" height="960" alt="A square split 3/4 : 1/4 in both directions, so each phenotype is a rectangle whose area is a product of probabilities. The areas are 9/16, 3/16, 3/16 and 1/16, matching the 16 cells of the Punnett grid." loading="lazy">
+  <figcaption>Multiplying two independent 3:1 ratios gives 9:3:3:1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--04-test-cross-1111.webp" width="900" height="930" alt="Each of the four equally likely gametes from EeNn combines with the only tester gamete en. The four offspring genotypes EeNn, Eenn, eeNn and eenn are each one quarter, giving 1:1:1:1." loading="lazy">
+  <figcaption>A test cross shows the heterozygote's four gametes directly.</figcaption>
+</figure>
+
 
 ## Finding gene loci in databases (D3.2.18)
 
@@ -112,6 +134,17 @@ Alleles of linked genes are written beside **vertical lines** that stand for the
 
 **Why recombinants cannot exceed 50%.** Suppose the loci are so far apart that a chiasma forms between them in every meiosis. Of the four chromatids, two are recombinant and two are parental. So 50% of gametes are recombinant at most, which matches independent assortment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--05-linked-genes-notation.webp" width="900" height="970" alt="Homologues are drawn as bars with S and H loci. SH over sh means S and H on the same chromosome; Sh over sH means they are on opposite chromosomes. Without crossing over only two gamete types form, each one half." loading="lazy">
+  <figcaption>Which alleles share a chromosome decides the parental gametes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--06-crossing-over-recombinants.webp" width="900" height="1010" alt="A chiasma between the S and H loci swaps the lower ends of two non-sister chromatids. The four chromatids are SH and sh (parental) and Sh and sH (recombinant), so at most 2 of 4 gametes, 50%, are recombinant." loading="lazy">
+  <figcaption>Crossing over between the loci produces recombinant gametes, at most 50%.</figcaption>
+</figure>
+
+
 ## Recombinants (D3.2.20)
 
 A **recombinant** carries a combination of alleles not present on either chromosome of the parent that made it. The guide asks about one cross type: a double heterozygote × a double homozygous recessive. You identify recombinants at three levels: gametes from the heterozygote, genotypes of offspring, and phenotypes of offspring.
@@ -132,6 +165,12 @@ A **recombinant** carries a combination of alleles not present on either chromos
 If the genes were unlinked, you would expect 125 in each class, so recombinants would be 50%.
 
 **Worked example 4: alleles on opposite chromosomes.** Now the heterozygote is Sh/sH, crossed with sh/sh. Of 500 offspring: serrated smooth 228, smooth hairy 221, serrated hairy 27, smooth smooth 24. The parental gametes are now Sh and sH, so serrated hairy and smooth smooth are the recombinants: 27 + 24 = 51, giving 51/500 × 100 = **10.2%**. Always work out the parental arrangement before deciding which class is recombinant. The commonest phenotypes are not always the same two.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--07-recombinant-frequency.webp" width="900" height="1190" alt="Bar charts for two test crosses of 500 offspring. Cross 1 (SH/sh): recombinants 43 + 38 = 81, 16.2%. Cross 2 (Sh/sH): recombinants 27 + 24 = 51, 10.2%. A dashed line at 125 marks the count per class if genes were unlinked." loading="lazy">
+  <figcaption>Recombinants are the two small classes, but which phenotypes they are depends on the parent arrangement.</figcaption>
+</figure>
+
 
 ## Chi-squared test (D3.2.21)
 
@@ -167,6 +206,17 @@ This far exceeds 7.81, so reject the null hypothesis. The offspring do not fit i
 **Nature of science.** Statistical testing often uses a sample to stand for a population. Here the sample is the F2 generation, or the offspring of the test cross. A larger sample is a better representative. In other experiments the sample is a set of repeated measurements.
 
 A non-significant result does not prove the hypothesis; it shows the data do not contradict it. Expected values should not be very small (many courses use 5 as a rough minimum).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--08-chi-squared-unlinked.webp" width="900" height="980" alt="Observed 218, 83, 71, 28 against expected 225, 75, 75, 25 for 400 flies. The chi-squared terms add to 1.64, below the critical value 7.81 (3 degrees of freedom, p = 0.05), so the null hypothesis is not rejected." loading="lazy">
+  <figcaption>1.64 is below 7.81, so the data fit 9:3:3:1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test--09-chi-squared-linked.webp" width="900" height="980" alt="Observed 214, 205, 43, 38 against 125 expected in each class. The chi-squared terms add to 228.9, far above 7.81, so the null hypothesis is rejected, supporting linkage." loading="lazy">
+  <figcaption>228.9 is far above 7.81, so independent assortment is rejected.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -62,6 +62,12 @@ Conversions: 1 mm = 1000 µm. 1 µm = 1000 nm.
 
 A micrograph has a 15 mm scale bar labelled 0.5 µm. Magnification = 15 mm ÷ 0.5 µm = 15 000 µm ÷ 0.5 µm = ×30 000. A mitochondrion 24 mm wide on the print is 24 ÷ 30 000 mm = 0.0008 mm = 0.8 µm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--02-magnification-scale-bar.webp" width="900" height="1010" alt="A micrograph print shows a mitochondrion 46 mm long and a 25 mm scale bar labelled 1 micrometre. Magnification = 25 000 micrometres / 1 micrometre = x25 000, so the actual length is 46 mm / 25 000 = 1.84 micrometres. To draw a 2 micrometre bar at x12 000, draw a 24 mm line." loading="lazy">
+  <figcaption>Find magnification from the scale bar, then actual size, and work backwards to draw a scale bar.</figcaption>
+</figure>
+
+
 ### Two more reminders
 
 **Graticule.** Sixty graticule divisions line up with 33 stage micrometer divisions of 10 µm. One division = 330 ÷ 60 = 5.5 µm. A cell 9 divisions long is 9 × 5.5 = 49.5 µm.
@@ -79,6 +85,17 @@ Under a different objective lens the graticule value changes, so recalibrate. A 
 | Cryo-EM | Very rapid freezing; no stain or fixing | Molecules close to natural state |
 | Fluorescent stain | Dye emits light after absorbing light | Stained structure glows |
 | Immunofluorescence | Fluorescent antibody binds a chosen protein | Shows where a protein is located |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--01-graticule-calibration.webp" width="900" height="850" alt="Two rulers lined up at both ends: a stage micrometer of 25 divisions of 10 micrometres (250 micrometres) and an eyepiece graticule of 40 divisions. One graticule division is 250 / 40 = 6.25 micrometres, so an onion cell spanning 14 divisions is 87.5 micrometres long. The graticule must be recalibrated for every objective." loading="lazy">
+  <figcaption>Calibrate the graticule against a stage micrometer, then convert divisions to micrometres.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--03-electron-resolution.webp" width="900" height="1010" alt="Visible light has a long wavelength and electrons a much shorter one (not to scale). Two close points imaged with light merge into one blur; with electrons they give two peaks and are resolved. TEM images thin slices and SEM shows 3D surfaces; the cost is dead, stained specimens in a vacuum." loading="lazy">
+  <figcaption>A shorter wavelength gives higher resolution, so electron microscopes show ultrastructure.</figcaption>
+</figure>
+
 
 ## Structures in all cells
 
@@ -122,6 +139,17 @@ Prokaryote structure varies, but the guide asks only for the Gram-positive model
 | Sap vacuole | Storage and turgor in plants |
 | Cytoskeleton | Support and movement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--04-prokaryote-cell.webp" width="900" height="910" alt="A rod-shaped Gram-positive bacterium: a thick cell wall around a plasma membrane, watery cytoplasm with small 70S ribosomes and a nucleoid region holding a loop of naked DNA. There is no nucleus and no membrane-bound organelle." loading="lazy">
+  <figcaption>A prokaryote has naked DNA in a nucleoid, 70S ribosomes and no membrane-bound organelles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--05-eukaryote-cell.webp" width="900" height="940" alt="A eukaryote cell with membrane-bound compartments: a nucleus with a double membrane and pores, rough ER with ribosomes, smooth ER, a Golgi apparatus with vesicles, a lysosome, mitochondria with folded inner membranes, free 80S ribosomes and cytoskeleton fibres." loading="lazy">
+  <figcaption>Membranes divide a eukaryote cell into compartments with different jobs.</figcaption>
+</figure>
+
+
 ## Processes of life
 
 Remember the eight: reproduction, growth, metabolism, nutrition, excretion, movement, homeostasis and response to stimuli. For a named unicellular organism, give a structure for each. Example: *Paramecium* uses cilia to move and a contractile vacuole for water balance.
@@ -146,6 +174,22 @@ For each eukaryote, the cytoplasm is compartmentalized, so reactions with differ
 | Skeletal muscle fibre | Many | Formed by fusion; long cell |
 | Mature red blood cell (mammal) | None | More room for haemoglobin |
 | Phloem sieve tube element | None when mature | Open channel for sap |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--06-animal-fungus-plant.webp" width="900" height="930" alt="Cell wall: none in animals, chitin in fungi, cellulose in plants. Vacuole: small and temporary in animals, often present in fungi, large and central in plants. Chloroplasts only in plants. Centrioles are present in animals, generally absent in fungi and absent in flowering plants." loading="lazy">
+  <figcaption>Cell wall material, vacuole size, chloroplasts and centrioles separate the three kinds of cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--07-atypical-cells.webp" width="900" height="910" alt="Four cells with unusual nuclei: an aseptate fungal hypha (many nuclei, one cytoplasm), a skeletal muscle fibre from fused cells (many nuclei), a mature red blood cell (no nucleus, more room for haemoglobin) and a phloem sieve tube element (no nucleus, open channel for sap)." loading="lazy">
+  <figcaption>Hyphae and muscle fibres have many nuclei; mature red blood cells and sieve tube elements have none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--08-endosymbiosis-hl.webp" width="900" height="1180" alt="A eukaryote ancestor with a nucleus engulfs an aerobic prokaryote, which is not digested and lives on as a mitochondrion. In some lineages a photosynthetic prokaryote is taken in later and becomes a chloroplast. Evidence: both organelles have 70S ribosomes and naked circular DNA, and replicate inside the cell." loading="lazy">
+  <figcaption>Mitochondria and chloroplasts arose from engulfed prokaryotes, shown by their prokaryote-like features.</figcaption>
+</figure>
+
 
 ## Micrograph clues and annotation
 

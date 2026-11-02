@@ -59,6 +59,12 @@ Links: [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/), [printab
   - blood goes to the lungs at **lower pressure**, protecting lung capillaries
   - oxygenated and deoxygenated blood are **kept separate**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+
 ## 9.2 Heart
 
 **Structures (Core):** muscular wall, septum, left and right atria, left and right ventricles, one-way valves, coronary arteries. **Extended only:** atrioventricular valves (between atria and ventricles) and semilunar valves (at the bases of the aorta and pulmonary artery).
@@ -71,6 +77,12 @@ Links: [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/), [printab
 vena cava → right atrium → right ventricle → pulmonary artery → LUNGS
 pulmonary vein → left atrium → left ventricle → aorta → BODY
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
 
 ### Method in steps: one heartbeat (Extended only)
 
@@ -97,6 +109,22 @@ pulmonary vein → left atrium → left ventricle → aorta → BODY
 - Coronary arteries blocked → less oxygen and glucose to heart muscle → muscle cannot respire → may die (heart attack).
 - **Risk factors (the syllabus list):** diet, lack of exercise, stress, smoking, genetic predisposition, age, sex.
 - **Diet:** less saturated fat and cholesterol, less salt. **Exercise:** strengthens heart, controls body mass, lowers blood pressure. Neither changes age, sex or genetic predisposition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
 
 ## 9.3 Blood vessels
 
@@ -126,6 +154,17 @@ pulmonary vein → left atrium → left ventricle → aorta → BODY
 
 **Extended only:** the hepatic portal vein runs from the gut to the liver, carrying absorbed nutrients.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
+
 ## 9.4 Blood
 
 | Component | Function |
@@ -139,6 +178,12 @@ pulmonary vein → left atrium → left ventricle → aorta → BODY
 - **Extended only:** lymphocyte = large round nucleus, little cytoplasm → **antibody production**. Phagocyte = lobed nucleus, more cytoplasm → **engulfs pathogens by phagocytosis**.
 - **Clotting (Core):** prevents blood loss and entry of pathogens.
 - **Extended only:** fibrinogen (soluble) → fibrin (insoluble) → mesh traps blood cells → clot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

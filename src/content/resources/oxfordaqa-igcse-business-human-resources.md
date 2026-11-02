@@ -54,6 +54,12 @@ A **tall** structure has many levels and usually a narrow span of control. A **f
 | Communication | Slower, and messages can change as they pass through many people | Faster and more direct |
 | Management | Clear promotion steps, but more managers to pay | Fewer managers to pay, but each manager is stretched |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ### Worked example: span of control and delayering
 
 Lindenfold Joinery has an owner, 3 managers, 12 team leaders and 96 operatives. Each manager has 4 team leaders. Each team leader has 8 operatives.
@@ -63,6 +69,12 @@ Lindenfold Joinery has an owner, 3 managers, 12 team leaders and 96 operatives. 
 - The span of control is 3 for the owner, 4 for each manager and 8 for each team leader.
 
 The owner delayers by removing the team leaders. The 96 operatives now report to the 3 managers: 96 ÷ 3 = 32 each. Wage costs fall and messages travel faster. Each manager's span rises from 4 to 32, though, which may be too many to supervise or support well, and the 12 team leaders lose their promotion step. Delayering suits a business only if managers can cope with the wider span, for example with skilled operatives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--01-delayering-lindenfold.webp" width="900" height="950" alt="Two stacks of levels. Before: owner 1, managers 3, team leaders 12, operatives 96 with spans 3, 4 and 8. After the team leaders go: owner, 3 managers, 96 operatives; each manager now has 96 divided by 3, which is 32, operatives." loading="lazy">
+  <figcaption>Removing a level cuts cost but widens each manager’s span from 4 to 32.</figcaption>
+</figure>
+
 
 ### Centralised and decentralised structures
 
@@ -96,6 +108,12 @@ The **need for recruitment** arises when a business has a vacancy: someone leave
 5. Shortlisted candidates are interviewed, and may also take tests or give a presentation.
 6. The business checks references, makes an offer and the candidate accepts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ### Benefits of an effective process
 
 An effective process chooses people with the right skills and attitude. The specification asks you to analyse three benefits:
@@ -119,6 +137,12 @@ A poor choice does the reverse: the worker may leave within weeks and the cost i
 | Commission | A percentage of the sales a worker makes, often added to a basic pay |
 | Profit sharing | A share of the business's profit paid to employees |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ### Worked example: pay calculations
 
 Sedgefield Motors pays a salesperson a basic salary of 1,400 a month plus 3% commission on sales above 20,000. Sales in March are 52,000.
@@ -130,6 +154,12 @@ Sedgefield Motors pays a salesperson a basic salary of 1,400 a month plus 3% com
 A cleaner works 38 hours at a wage of 11.50 an hour: 38 × 11.50 = **437**. If a business with 40 employees makes a profit of 240,000 and shares 5% of it equally, the pool is 12,000 and each person receives 12,000 ÷ 40 = **300**.
 
 Financial methods are easy to understand and can link pay to effort. Commission can push staff to take risks or neglect customers after the sale. Profit sharing makes staff care about the whole business, but the payout can be small and is delayed. A fixed salary gives security, but nothing rewards extra effort.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--02-pay-calculations.webp" width="900" height="790" alt="A 52,000 sales bar splits into 20,000 and 32,000 above the threshold; 3% of 32,000 is 960 commission added to 1,400 salary for 2,360. A wage of 11.50 for 38 hours is 437. A 5% profit share of 240,000 is 12,000, or 300 each across 40 staff." loading="lazy">
+  <figcaption>Commission applies only to sales above the threshold; wage follows hours; profit sharing is split equally.</figcaption>
+</figure>
+
 
 ### Non-financial methods
 
@@ -162,6 +192,12 @@ Non-financial methods may cost less than a pay rise, though training and benefit
 Hobsbury Care Homes trains 10 new care assistants. An off the job course costs 450 per person plus 60 travel each: 10 × (450 + 60) = **5,100**. The alternative is on the job training. Each trainee works for 15 days at 40% less output than normal, and a day of normal output is worth 80. Lost output is 10 × 15 × (0.4 × 80) = 4,800. Mentors spend 10 days at 100 a day, which is 1,000. The on the job total is **5,800**.
 
 So off the job is cheaper on these figures. You must still judge the whole picture. On the job training keeps trainees at work and teaches the home's own routines, and the lost output is only an estimate. Off the job may bring new ideas and recognised qualifications. For a small business with few staff, on the job training is usually the practical choice. A large business with many recruits, or one needing specialist skills, may favour off the job. State the choice, then give the reason from the stem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--03-training-cost-hobsbury.webp" width="900" height="800" alt="Two stacked bars: off the job costs 5,100 (fees 4,500 plus travel 600); on the job costs 5,800 (lost output 4,800 plus mentors 1,000). Off the job is 700 cheaper on these figures, but the whole picture must be judged." loading="lazy">
+  <figcaption>Off the job is cheaper here by 700, but the decision needs more than cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

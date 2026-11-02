@@ -54,6 +54,17 @@ No derivations of the means or variances are required.
 
 **Quick contrast.** A count with a known maximum (items in a box, patients in a ward of 20) points to binomial. A count of events with no natural maximum (calls, flaws, particles) points to Poisson. A Poisson model has variance equal to its mean, while a binomial variance is below its mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--01-poisson-vs-binomial-setup.webp" width="900" height="1040" alt="A timeline shows seven events in an interval, so X counts events with no upper limit. Below it, ten trial boxes show six successes, so a binomial X can never exceed n. Poisson events must be single, independent and at a constant average rate." loading="lazy">
+  <figcaption>Poisson counts events in an interval with no upper limit; binomial counts successes in a fixed number of trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
+</figure>
+
+
 ## Method: cumulative probabilities
 
 Let F(r) = P(X ≤ r).
@@ -74,6 +85,12 @@ P(X ≥ 4) = 1 − P(X ≤ 3) = 1 − 0.6496 = 0.3504
 
 Keep four decimal places in given cumulative values until the last line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--02-poisson-shapes.webp" width="900" height="1090" alt="Three bar charts of P(X = r) on one scale for Po(0.8), Po(3) and Po(9). Po(0.8) is strongly skewed, Po(3) peaks at 2 and 3, and Po(9) is wide and nearly symmetric. A dashed line marks the mean λ." loading="lazy">
+  <figcaption>As λ grows the distribution moves right, spreads out and becomes more symmetric.</figcaption>
+</figure>
+
+
 ## Method: scaling a Poisson mean
 
 1. Write the rate with its unit, for example 1.2 per 4 minutes.
@@ -84,6 +101,17 @@ Keep four decimal places in given cumulative values until the last line.
 **Worked reminder.** X ~ Po(6). Then P(3 ≤ X ≤ 5) = F(5) − F(2) = 0.4457 − 0.0620 = 0.3837, and P(X ≥ 7) = 1 − F(6) = 0.3937.
 
 If the interval is five times as long, the mean is five times as large: Po(λ) becomes Po(5λ). The probability is not multiplied by five.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--03-poisson-scaling-interval.webp" width="900" height="1080" alt="Six 10-minute blocks each with mean 1.5 show 20 minutes has λ = 3 and one hour has λ = 9. Po(3) with r ≤ 3 shaded gives 0.647 and Po(9) with r ≥ 10 shaded gives 0.413." loading="lazy">
+  <figcaption>Rescale the mean to the interval you observe before calculating any probability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
 
 ## Method: finding n, p or λ from information
 
@@ -100,6 +128,12 @@ If the interval is five times as long, the mean is five times as large: Po(λ) b
 **Worked reminder.** X ~ B(300, 0.01). Then np = 3, and P(X = 2) ≈ e⁻³ × 3²/2 = 0.2240. The exact value is 0.2244.
 
 If p is near 0.5, the Poisson approximation is poor, and Po(np) has the wrong variance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--04-poisson-approximates-binomial.webp" width="900" height="1190" alt="Binomial bars with Poisson values as dots. B(150, 0.02) and Po(3) match closely (0.4209 against 0.4232 for P(X ≤ 2)). B(20, 0.4) and Po(8) do not (0.1256 against 0.1912), because p is not small." loading="lazy">
+  <figcaption>The approximation works when n is large and p is small, and fails when p is not small.</figcaption>
+</figure>
+
 
 ## Worked reminders: mixed
 

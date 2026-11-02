@@ -54,6 +54,12 @@ Examples you can use:
 
 A good answer names the substance, names the type of wave and says what happens. "Glass blocks light" is too vague, because glass transmits visible light.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## P5.3b: wave velocity and refraction
 
 Electromagnetic waves travel fastest in a vacuum (about 3.00 × 10⁸ m/s, and almost as fast in air). In denser transparent materials such as glass, perspex or water they travel more slowly. Changing speed is the cause of **refraction**.
@@ -110,6 +116,22 @@ A microwave oven uses waves of frequency 2.45 × 10⁹ Hz. Find the wavelength i
 
 The same equation works across the whole electromagnetic spectrum. Always convert nanometres to metres (× 10⁻⁹) before you use it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--06-wavelength-in-glass.webp" width="900" height="830" alt="A wave passes from air to glass. Speed falls from 3.00 x 10^8 to 2.0 x 10^8 m/s and wavelength from 625 nm to 417 nm, while frequency stays at 4.8 x 10^14 Hz." loading="lazy">
+  <figcaption>When light slows in glass the wavelength shortens in proportion; frequency does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--08-blue-light-water.webp" width="900" height="830" alt="Two wave strips to the same scale: blue light has wavelength 462 nm in air and 346 nm in water at the same frequency 6.5e14 Hz. Speed in water is 2.25e8 m/s." loading="lazy">
+  <figcaption>Same frequency, shorter wavelength, lower speed in water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--09-microwave-wavelength.webp" width="900" height="720" alt="A wave of frequency 2.45e9 Hz drawn against a cm ruler: one wavelength is 0.122 m, which is 12.2 cm." loading="lazy">
+  <figcaption>One wavelength of a microwave oven wave is 12.2 cm, shown against a ruler.</figcaption>
+</figure>
+
+
 ## P5.3d: ray diagrams for reflection and refraction (Higher Tier only)
 
 You need to **construct** two-dimensional ray diagrams. They are qualitative: no equations are needed, but the geometry must be right.
@@ -141,6 +163,17 @@ Steps for a ray going from air into a rectangular glass block:
 Reasons: the two bends are equal and opposite because the two faces are parallel. A ray that hits at 0° goes straight through, with no sideways shift.
 
 A faint reflected ray also appears at each surface. Add one if the question asks about reflection as well as refraction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--05-law-of-reflection.webp" width="900" height="830" alt="A ray hits a plane mirror at 35 degrees to the normal and reflects at 35 degrees on the other side. The 55 degree angle to the mirror surface is marked as the common wrong measurement." loading="lazy">
+  <figcaption>Angle of incidence equals angle of reflection, both measured from the normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
 
 ## P5.3c: convex and concave lenses (Higher Tier only)
 
@@ -174,12 +207,39 @@ Where the rays cross is the top of the **image**. Drop a line to the axis to dra
 
 For a **concave** lens the parallel ray spreads out as if it came from F on the object side; trace it backwards with a dashed line. The image is on the same side as the object.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
+
 ### Using lenses to correct vision
 
 - **Short sight:** the eye focuses distant objects in front of the retina. A concave lens spreads the rays slightly first, so the image forms on the retina.
 - **Long sight:** the eye focuses near objects behind the retina. A convex lens converges the rays slightly first, so the image forms on the retina.
 
 The specification's practical suggestions include investigating how a convex lens image of a bulb changes with distance. Your table above predicts the results.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--04-lens-f-to-2f.webp" width="900" height="840" alt="Ray diagram for a converging lens with f = 4 cm. A 2 cm object 6 cm from the lens gives a real, inverted image 4 cm tall 12 cm beyond the lens, magnified by 2.0." loading="lazy">
+  <figcaption>An object between F and 2F gives a real, inverted, magnified image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--08-lens-magnifier.webp" width="900" height="900" alt="Ray diagram for a convex lens with the object inside the principal focus. The two refracted rays spread out and never meet; dotted lines traced backwards meet 7.5 cm from the lens on the same side as the object, giving a virtual, upright image 5 cm tall, which is 2.5 times larger than the 2 cm object." loading="lazy">
+  <figcaption>Inside the principal focus a convex lens gives a larger, upright, virtual image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--09-lens-concave.webp" width="900" height="800" alt="Ray diagram for a concave lens. A ray parallel to the axis bends away from the axis, appearing to come from the principal focus on the object side; the ray through the centre is undeviated. The refracted rays never cross, but dotted lines traced back meet 4 cm from the lens on the object side, giving a virtual, upright image 1 cm tall (one third of the object)." loading="lazy">
+  <figcaption>A concave lens only ever makes a virtual, upright, smaller image.</figcaption>
+</figure>
+
 
 ## P5.3e: colour (Higher Tier only)
 
@@ -207,6 +267,12 @@ An opaque object appears the colour of the light it **reflects** after absorbing
 - **Scattering** (diffuse reflection) happens at a rough surface. The normal changes from point to point, so reflected rays leave in many directions. This is why you can read a page from any angle.
 
 Ordinary coloured objects scatter their colour. A glossy surface also gives a specular highlight in the colour of the light source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--07-filters-and-colour.webp" width="900" height="1010" alt="Primary colours as red, green and blue bars. A red filter leaves red; magenta leaves red and blue; red then green leaves nothing; green light on a red book is absorbed so it looks black." loading="lazy">
+  <figcaption>Filters and objects only remove colours from the light; they never add any.</figcaption>
+</figure>
+
 
 ## Common errors
 

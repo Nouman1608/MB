@@ -60,6 +60,17 @@ Constants used below, as a question would give them: ε₀ = 8.85 × 10⁻¹² F
 
 Label both axes with quantity and unit. For a negative charge, V is negative and rises towards zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--02-energy-stored-vq-graph.webp" width="900" height="1010" alt="A straight V-Q graph from the origin has gradient 1/C. A thin strip is the work V delta Q and the triangle under the line is the energy stored, 1/2 QV = 1/2 CV^2 = Q^2/2C. For 470 microfarad at 12 V the energy is 33.8 mJ. OCR only: charging from a 12 V battery takes QV = 67.7 mJ, half stored and half lost as heat." loading="lazy">
+  <figcaption>The energy stored is the area under the V-Q graph, half of QV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--09-ln-graph-find-rc.webp" width="900" height="1230" alt="Potential difference readings for a discharging capacitor lie on a curve. Plotting ln V against t gives a straight line of gradient minus 0.0500 per second, so RC = 20.0 s. With R = 100 kilohm, C = 200 microfarad. For charging, plot ln(V0 - V) instead." loading="lazy">
+  <figcaption>A ln V against t graph is a straight line whose gradient is minus 1/RC.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Potential at a point from several charges**
@@ -135,6 +146,12 @@ Label both axes with quantity and unit. For a negative charge, V is negative and
 - Describing dielectric action as "the dielectric stores charge" rather than explaining alignment and the opposing field.
 - Giving the energy of a capacitor as QV instead of ½QV.
 - Leaving a graph unlabelled or drawing E against r as a straight line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--04-dielectric-polar-molecules.webp" width="900" height="1090" alt="Polar molecules between capacitor plates point randomly with no field. When the plates are charged they line up, leaving layers of negative ends facing the positive plate and positive ends facing the negative plate. These layers reduce the net field, so the p.d. is smaller for the same charge and C = Q/V rises. For the lesson example, 916 pF with the dielectric against 398 pF in air." loading="lazy">
+  <figcaption>Aligned polar molecules reduce the field, so the same charge gives a smaller p.d. and a larger capacitance.</figcaption>
+</figure>
+
 
 ## Worked reminders: graphs and energy
 

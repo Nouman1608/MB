@@ -65,6 +65,12 @@ Worked reminder (Country C): P = 130 − 5Q, MC = AC = 30.
 - PED = −(1/5) × 80/10 = −1.6: elastic, as it must be.
 - Competition: P = MC gives Q = 20. The monopolist sells half the output at 2.67 times the price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--04-monopoly-cable-car.webp" width="900" height="900" alt="Demand P = 105 - 3Q, MR = 105 - 6Q, MC = AC = 21. MR = MC at 14 thousand rides, price 63 from AR, profit 588. Competition gives 28 at 21; the welfare loss triangle is 294." loading="lazy">
+  <figcaption>Set MR = MC, then read the price from AR.</figcaption>
+</figure>
+
+
 ## Monopoly power
 
 | Influence | Effect |
@@ -76,6 +82,12 @@ Worked reminder (Country C): P = 130 − 5Q, MC = AC = 30.
 
 Monopolistic competition and oligopoly also involve price makers, with differing amounts of this power. With MC = 30, a fall in e from 4 to 2 lifts the profit-maximising price from 40 to 60.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--05-markup-by-elasticity.webp" width="900" height="990" alt="With MC 21, elasticity 7, 3 and 1.5 give prices 24.5, 31.5 and 63 (mark-ups 3.5, 10.5, 42). MR = P(1+1/PED) equals 21 at each price. Advertising moving e from 3 to 1.5 doubles the price." loading="lazy">
+  <figcaption>Less elastic demand gives a bigger mark-up.</figcaption>
+</figure>
+
+
 ## Natural monopoly in numbers
 
 TC = 540 + 6Q and demand P = 42 − 0.4Q.
@@ -85,6 +97,12 @@ TC = 540 + 6Q and demand P = 42 − 0.4Q.
 - P = MC: Q = 90, P = 6, AC = 12, loss 540.
 
 Keep the lesson: pricing at marginal cost leaves a loss, while an unconstrained firm charges well above cost. How policy responds sits in the competition policy and regulation unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--05-natural-monopoly-heating.webp" width="900" height="900" alt="TC = 540 + 6Q so AC falls across the market. The profit-maximiser makes 45 at 24 and profit 270. Pricing at MC gives 90 at 6, below AC of 12, a loss of 540." loading="lazy">
+  <figcaption>Where AC keeps falling, marginal-cost pricing cannot cover cost.</figcaption>
+</figure>
+
 
 ## Monopoly: advantages and disadvantages
 
@@ -115,6 +133,12 @@ Total profit is 409. Segment X is less elastic, so it pays more.
 
 Calculate each segment on its own, then add. Real-world types: peak and off-peak fares, child and adult tickets, student discounts, home and business tariffs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--06-price-discrimination-gym.webp" width="900" height="1110" alt="Two panels with MC = 12. Adults (P = 68 - 4Q) pay 40 for 7 hundred entries, profit 196. Students (P = 32 - 2Q) pay 22 for 5 hundred, profit 50. Total 246 against 196 with a single price of 40." loading="lazy">
+  <figcaption>Charging each segment its own price raises profit and serves students.</figcaption>
+</figure>
+
+
 ## Contestable markets
 
 - Contestability turns on potential entry, not on how many firms are present.
@@ -124,6 +148,12 @@ Calculate each segment on its own, then add. Real-world types: peak and off-peak
 - Limits: most markets lie between the extremes, and incumbents can respond with price cuts, contracts or loyalty offers.
 
 Entry reminder: incumbent price 20, AC 15, 60 units a month. An entrant charges 18 for 2 months: (18 − 15) × 60 × 2 = 360. Sunk cost 100 gives +260, so enter. Sunk cost 500 gives −140, so stay out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable--07-hit-and-run-sunk-costs.webp" width="900" height="960" alt="An entrant earns 810 in 3 months. With sunk costs of 200 the net gain is 610 and it enters; with sunk costs of 1,000 the net is -190 and entry is deterred." loading="lazy">
+  <figcaption>High sunk costs stop hit-and-run entry.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to rehearse
 

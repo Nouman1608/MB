@@ -53,6 +53,12 @@ Transformers sit at both ends of the transmission cables. The first one raises t
 
 The cables carry alternating current. A transformer only works with a changing current, which is why the grid uses ac (see "How a transformer works" below).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--02-national-grid-route.webp" width="900" height="1160" alt="Five boxes in order: power station generator, step-up transformer, transmission cables, step-down transformer, homes. Voltage is raised before the cables and lowered after them; the cables carry alternating current." loading="lazy">
+  <figcaption>Transformers sit at both ends of the transmission cables.</figcaption>
+</figure>
+
+
 ## 3.6.2 b: why the grid uses a high voltage
 
 Electrical power is potential difference multiplied by current: P = V × I. For a fixed power, raising V lowers I.
@@ -78,6 +84,12 @@ A good written answer has a chain: higher voltage gives a lower current for the 
 
 Why not just use thick cables with low resistance instead? You could, but thick cables cost more and are heavy to hold up. Raising the voltage is the cheaper fix. (This is background, not something the specification asks you to state.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
+
 ## 3.6.2 c: structure and operation of a transformer
 
 A basic transformer has three parts:
@@ -97,12 +109,24 @@ How it works:
 
 Soft iron is used because it is easily magnetised and demagnetised, so it follows the changing field. A steady direct current gives a steady field. A steady field does not change, so nothing is induced in the secondary coil. That is why a transformer will not run from a battery. (A battery connected to the primary produces a brief output only at the moment of switching on or off, while the field is changing.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
+
 ## 3.6.2 d: step-up and step-down
 
 - In a **step-up transformer** the potential difference across the secondary coil is greater than across the primary coil.
 - In a **step-down transformer** the potential difference across the secondary coil is less than across the primary coil.
 
 Step-up transformers are used to increase the potential difference before the distribution lines. Step-down transformers are used at the end to produce a safer potential difference for local consumers. Do not write that a step-up transformer "creates extra energy". It raises the potential difference and lowers the current. The power does not rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--06-step-down-vs-step-up.webp" width="900" height="1000" alt="Step-down: 9000 V on 7200 turns to 225 V on 180 turns (ratio 40). Step-up: 24 V, 2.5 A, 72 turns to 300 V, 0.20 A, 900 turns (ratio 12.5), 60 W in and out." loading="lazy">
+  <figcaption>More secondary turns step the voltage up and the current down.</figcaption>
+</figure>
+
 
 ## 3.6.2 e: the turns ratio
 
@@ -171,6 +195,12 @@ period at 50 Hz   = 1 / 50 = 0.020 s
 ```
 
 One 50 Hz cycle lasts 2000 times as long as one 100 kHz cycle. The charger's input current is small because the input voltage is high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--07-switch-mode-features.webp" width="900" height="1110" alt="Switch mode transformers run at 50 to 200 kHz; one 100 kHz cycle is 10 microseconds, 2000 times shorter than a 50 Hz cycle. They are lighter and smaller and use little power with no load. A 5.0 V, 2.0 A charger draws 43 mA from 230 V." loading="lazy">
+  <figcaption>High frequency, small size and low no-load power suit phone chargers.</figcaption>
+</figure>
+
 
 ## Common errors
 

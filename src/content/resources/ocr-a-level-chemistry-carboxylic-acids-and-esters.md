@@ -61,6 +61,12 @@ As the hydrocarbon chain gets longer, solubility falls. The non-polar chain cann
 
 In an answer, name the bond and say which atoms take part: δ+ H to a lone pair on O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--08-addition-elimination.webp" width="900" height="1210" alt="Step 1: a lone pair on water oxygen attacks the delta-positive carbonyl carbon and the C=O electrons move onto oxygen, giving an intermediate with O minus and O plus. Step 2: a lone pair on O minus re-forms C=O and the C-Cl bond breaks, so chloride leaves. Step 3: chloride removes H plus from the O plus to give HCl and ethanoic acid." loading="lazy">
+  <figcaption>Curly arrows start at a lone pair or a bond; the AQA name is nucleophilic addition-elimination.</figcaption>
+</figure>
+
+
 ## 6.1.3(b): Reactions in aqueous conditions
 
 Carboxylic acids are weak acids. In water they partly ionise:
@@ -101,6 +107,17 @@ Volume = 0.0350 × 24.0 = 0.840 dm³ = **840 cm³**.
 **(c)** Magnesium propanoate is (C₃H₅O₂)₂Mg. Mr = 2(36.0 + 5.0 + 32.0) + 24.3 = 170.3.
 Mass = 0.0350 × 170.3 = **5.96 g**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--02-hydrogen-bonding.webp" width="900" height="1030" alt="Two carboxylic acid molecules form a hydrogen-bonded dimer through two O-H...O=C bonds. A bar chart of boiling points for pentane, butanal, butan-1-ol and propanoic acid (all Mr 72 to 74) shows 36, 75, 118 and 141 degrees Celsius as the intermolecular forces strengthen." loading="lazy">
+  <figcaption>Hydrogen-bonded dimers give propanoic acid the highest boiling point of four substances with similar Mr. Edexcel and OCR content.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--03-acid-carbonate-test.webp" width="900" height="950" alt="Ethanoic acid reacts with calcium carbonate in a test tube and carbon dioxide bubbles pass along a delivery tube into limewater, which turns cloudy. The balanced equation needs two acid molecules for each carbonate, and the acid is only partly ionised." loading="lazy">
+  <figcaption>A weak carboxylic acid still releases CO2 from carbonates; limewater turns cloudy. All boards.</figcaption>
+</figure>
+
+
 ## 6.1.3(c): Making esters
 
 ### (i) Carboxylic acid + alcohol, acid catalyst
@@ -123,12 +140,34 @@ A student heats 5.10 g of pentanoic acid with excess ethanol and concentrated H�
 5. Theoretical mass = 0.0500 × 130.0 = 6.50 g
 6. Percentage yield = 4.55 ÷ 6.50 × 100 = **70.0%**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
+</figure>
+
+
 ### (ii) Acid anhydride + alcohol
 
 An acid anhydride reacts with an alcohol on warming to give an ester and a carboxylic acid (not water). No acid catalyst is needed and the reaction is not reversible, so the yield is better than with the acid.
 
 (CH₃CH₂CO)₂O + CH₃CH₂CH₂CH₂OH → CH₃CH₂COOCH₂CH₂CH₂CH₃ + CH₃CH₂COOH
 propanoic anhydride + butan-1-ol → butyl propanoate + propanoic acid
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--01-acid-ester-names.webp" width="900" height="1180" alt="Propanoic acid is drawn with its carbons numbered from the COOH carbon. Ethyl propanoate and methyl methanoate are drawn with the acid part in teal and the alcohol part in gold. The alcohol part is named first, then the acid part ending -oate." loading="lazy">
+  <figcaption>An ester name has two words: the alcohol part (alkyl) first, then the acid part ending -oate. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--04-esterification.webp" width="900" height="1120" alt="Propanoic acid and ethanol react with a concentrated sulfuric acid catalyst and heat to give ethyl propanoate and water in an equilibrium. The OH from the acid and the H from the alcohol are ringed. A bar chart shows 6.63 g collected against a 10.2 g maximum, a 65.0 percent yield." loading="lazy">
+  <figcaption>Acid plus alcohol is reversible, so the yield is below 100 percent. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--09-aspirin-anhydride.webp" width="900" height="1296" alt="Salicylic acid reacts with ethanoic anhydride to give aspirin and ethanoic acid; the ringed ring OH receives the CH3CO group. Two flasks compare the reagents: the anhydride is milder, easier to control and slow to react with moist air with ethanoic acid as by-product, while ethanoyl chloride is vigorous and gives HCl gas." loading="lazy">
+  <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
+</figure>
+
 
 ## 6.1.3(d): Hydrolysis of esters
 
@@ -155,6 +194,12 @@ An ester with formula C₇H₁₄O₂ is refluxed with excess KOH(aq). One produ
 **(b)** Mr(C₇H₁₄O₂) = 84.0 + 14.0 + 32.0 = 130.0; n = 1.95 ÷ 130.0 = 0.0150 mol.
 Mr(CH₃CH₂CH₂COOK) = 48.0 + 7.0 + 32.0 + 39.1 = 126.1.
 Mass = 0.0150 × 126.1 = **1.89 g**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--05-ester-hydrolysis.webp" width="900" height="1160" alt="Ethyl propanoate hydrolysed with dilute acid and water gives propanoic acid and ethanol in a reversible reaction. With sodium hydroxide solution it goes to completion giving sodium propanoate and ethanol, because the carboxylate ion cannot re-form the ester." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible; alkaline hydrolysis goes to completion and gives a salt. All boards.</figcaption>
+</figure>
+
 
 ## 6.1.3(e): Making acyl chlorides with SOCl₂
 
@@ -193,6 +238,12 @@ Notes on the table:
 ### Why phenol needs an acyl chloride
 
 The specification notes that phenol is not readily esterified by carboxylic acids. Heating phenol with a carboxylic acid and an acid catalyst gives very little ester. An acyl chloride reacts with phenol at room temperature, so this is the standard route to a phenyl ester.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--07-acylation-reactions.webp" width="900" height="1240" alt="A strip shows a carboxylic acid converted to an acyl chloride with PCl5 (Edexcel) or SOCl2 (OCR). Ethanoyl chloride and ethanoic anhydride transfer the CH3CO group (teal) to water, methanol, ammonia and methylamine to give ethanoic acid, methyl ethanoate, ethanamide and N-methylethanamide. By-products are HCl or ethanoic acid, and ammonia and amines are needed in twos." loading="lazy">
+  <figcaption>Both reagents put an acyl group on water, an alcohol, ammonia or an amine. PCl5 is Edexcel only and SOCl2 is OCR only.</figcaption>
+</figure>
+
 
 ## Comparing routes to an ester
 

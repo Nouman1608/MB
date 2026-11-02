@@ -62,6 +62,17 @@ Before you write anything, find the right angle and mark the side opposite it. T
 - **Finding the hypotenuse:** square both shorter sides, **add**, then square root.
 - **Finding a shorter side:** square both known sides, **subtract** (hypotenuse² minus the other side²), then square root.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+
 ## Finding the hypotenuse
 
 **Worked example 1 (calculator).** Triangle PQR has a right angle at Q. PQ = 7.4 cm and QR = 5.9 cm. Calculate PR.
@@ -127,6 +138,12 @@ x  = 30 cm
 
 You could also spot that 16, 30, 34 is 8, 15, 17 multiplied by 2. Squaring 34 by hand: 34² = 30² + 2 × 30 × 4 + 4² = 900 + 240 + 16 = 1156.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--03-pythagorean-triples.webp" width="900" height="1040" alt="Four scaled right-angled triangles with sides 3, 4, 5; 5, 12, 13; 8, 15, 17; and 7, 24, 25, each checked by adding the squares of the short sides." loading="lazy">
+  <figcaption>Four whole-number triples are worth recognising.</figcaption>
+</figure>
+
+
 ### Square roots that are not whole numbers
 
 If the answer is not a whole number on a non-calculator paper, the question will tell you what to do. Two common instructions:
@@ -189,6 +206,17 @@ Difference    = 147 − 105.209...
 
 Notice what happens if you round too early. Rounding the diagonal to 105 m first gives 147 − 105 = 42 m, which is wrong to 3 significant figures. The syllabus says you should avoid rounding until you have your final answer, and should use the unrounded value when a result is carried forward. Keep 105.209... in your calculator memory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--04-hidden-right-angle.webp" width="900" height="870" alt="An isosceles triangle with equal sides 17 cm and base 16 cm is split by its height into two right-angled triangles with base 8 cm. The height is 15 cm and the area is 120 cm squared." loading="lazy">
+  <figcaption>Split an isosceles triangle down the middle and use half the base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--05-field-diagonal.webp" width="900" height="975" alt="A rectangular field 85 m by 62 m. Walking two edges is 147 m; the diagonal is 105.209 m. The difference is 41.8 m, and rounding the diagonal early gives a wrong 42 m." loading="lazy">
+  <figcaption>Keep the unrounded diagonal until the final answer.</figcaption>
+</figure>
+
+
 ## "Show that" questions
 
 Sometimes the answer is given and you have to prove it. The syllabus says that when a question asks you to show a given answer to a stated accuracy, you must show full working, intermediate answers and a final answer to at least one degree of accuracy more than the one asked for.
@@ -217,6 +245,12 @@ Knowing the theorem also means knowing it only holds when there is a right angle
 - Sides 9, 11 and 14: 9² + 11² = 81 + 121 = 202 and 14² = 196. Not equal, so the triangle is not right-angled.
 
 Always compare with the **longest** side squared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--06-is-it-right-angled.webp" width="900" height="940" alt="Triangle 20, 21, 29 satisfies 400 plus 441 equals 841 equals 29 squared, so it is right-angled. Triangle 9, 11, 14 gives 202 against 196, so it is not; its largest angle is 88.3 degrees." loading="lazy">
+  <figcaption>Compare the longest side squared with the sum of the other two squares.</figcaption>
+</figure>
+
 
 ## Common errors
 

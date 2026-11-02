@@ -61,6 +61,12 @@ Common denominator 18:
 
 Answer: **5 11/18**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--04-mixed-add.webp" width="900" height="716" alt="Strips divided into eighteenths. 3 and 5/6 is three whole strips plus 15 eighteenths. 1 and 7/9 is one whole strip plus 14 eighteenths. The fractional parts add to 29 eighteenths, which is one whole strip and 11 eighteenths, so the total is 5 and 11/18." loading="lazy">
+  <figcaption>Adding in eighteenths, 15 + 14 = 29 eighteenths is one whole and 11/18 more.</figcaption>
+</figure>
+
+
 ### Worked example 2: multiplying and dividing together
 
 Work out 2 1/4 ÷ 1 1/8 × 5/6.
@@ -87,6 +93,17 @@ Answer: **8/21, which is £32**.
 
 Reverse case: if 3/5 of a length is 21 cm, the whole is 21 ÷ 3/5 = 21 × 5/3 = **35 cm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--05-budget-bar.webp" width="900" height="580" alt="A bar for 84 pounds is cut into 21 equal parts of 4 pounds each. Rent is 2/7, which is 6 parts or 24 pounds. Food is 1/3, which is 7 parts or 28 pounds. The remaining 8 parts are 8/21 of the budget, which is 32 pounds." loading="lazy">
+  <figcaption>Cutting £84 into 21 parts of £4 shows rent, food and what is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--05-ribbon-division.webp" width="900" height="830" alt="A ribbon 7 1/2 m long is drawn to scale on a ruler and cut into 12 numbered pieces of 5/8 m. The working 7 1/2 / 5/8 = 15/2 x 8/5 = 12 matches the count." loading="lazy">
+  <figcaption>Dividing by 5/8 counts how many 5/8 m pieces fit, and the answer is 12.</figcaption>
+</figure>
+
+
 ## Exact calculations with multiples of π (3.03a)
 
 π is a number, so you can add, subtract and multiply multiples of it like any other term. 4π + 3π = 7π and 6 × 5π = 30π. You do not replace π with 3.14 until the final line, and often not at all.
@@ -107,6 +124,12 @@ Path: 81π - 25π = 56π
 
 Answer: **56π m²**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--01-ring-area-pi.webp" width="900" height="779" alt="A circular path is the ring between an outer circle of radius 9 metres and an inner circle of radius 5 metres. The outer circle has area 81 pi and the inner circle 25 pi. Subtracting leaves 56 pi square metres, kept exact in terms of pi." loading="lazy">
+  <figcaption>A ring is the outer circle minus the inner one, and π stays a symbol.</figcaption>
+</figure>
+
+
 ### Worked example 5: a cylinder
 
 A tin is a cylinder with radius 6 cm and height 7 cm. Work out its volume and its curved surface area, both in terms of π.
@@ -117,6 +140,12 @@ Curved surface area = 2πrh = 2 × π × 6 × 7 = 84π
 ```
 
 Answer: **252π cm³ and 84π cm²**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--06-cylinder.webp" width="900" height="816" alt="A cylinder with radius 6 cm and height 7 cm. Its volume is pi times 6 squared times 7, which is 252 pi cubic centimetres. Unrolling the curved surface gives a rectangle 2 pi times 6, which is 12 pi, wide and 7 cm high, so its area is 84 pi square centimetres." loading="lazy">
+  <figcaption>Volume is base area times height, and the unrolled curved surface is a 12π by 7 rectangle.</figcaption>
+</figure>
+
 
 ### Worked example 6: a sector
 
@@ -129,6 +158,12 @@ Ratio = 5π : 25π = 1 : 5
 ```
 
 Answer: **5π cm²**. The π cancels in a ratio, which is why exact methods are neat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
+  <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
+</figure>
+
 
 ### Working backwards
 
@@ -151,6 +186,12 @@ Also √a × √a = a, so (√7)² = 7 and (3√2)² = 9 × 2 = 18.
 
 These rules do not work for addition. √9 + √16 = 3 + 4 = 7, but √(9 + 16) = √25 = 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--08-root-sum.webp" width="900" height="850" alt="A right-angled triangle with short sides root 9 equals 3 and root 16 equals 4 and hypotenuse root of 9 plus 16 equals 5. Walking along the two short sides is 3 plus 4 equals 7, longer than the direct hypotenuse of 5, so the square root of a sum is not the sum of the square roots." loading="lazy">
+  <figcaption>Walking the two short sides of a 3-4-5 triangle is further than the direct hypotenuse.</figcaption>
+</figure>
+
+
 ### Simplifying a surd
 
 Find the largest square number that divides into the number under the root, then take its root outside.
@@ -161,6 +202,12 @@ Find the largest square number that divides into the number under the root, then
 ```
 
 If you spot only a smaller square factor, simplify in two stages: √72 = √(9 × 8) = 3√8 = 3 × 2√2 = 6√2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
 
 ### Adding and subtracting
 
@@ -180,6 +227,12 @@ Answer: **4√5**.
 ### Multiplying and expanding
 
 Expand brackets as normal and use √a × √a = a.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--07-surd-grid.webp" width="900" height="857" alt="Two area grids. For (2 plus root 3)(5 minus root 3) the four cells are 10, 5 root 3, minus 2 root 3 and minus 3, giving 7 plus 3 root 3. For (3 plus root 2) squared the cells are 9, 3 root 2, 3 root 2 and 2, giving 11 plus 6 root 2. Root a times root a equals a." loading="lazy">
+  <figcaption>An area grid gives each product, and √a × √a = a makes the surd cells rational.</figcaption>
+</figure>
+
 
 ### Worked example 8
 
@@ -226,6 +279,12 @@ For a denominator such as a + √b, multiply top and bottom by the **conjugate**
 ```
 1/(√3 + 1) × (√3 - 1)/(√3 - 1) = (√3 - 1)/(3 - 1) = (√3 - 1)/2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
 
 ### Worked example 10
 

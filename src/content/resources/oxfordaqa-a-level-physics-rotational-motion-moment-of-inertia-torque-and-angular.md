@@ -41,6 +41,12 @@ Other pages for this topic: [revision notes](/resources/oxfordaqa-a-level-physic
 
 The specification says that formulae for the moment of inertia of particular solids are supplied when needed. So you do not need to memorise the formula for a particular solid. You do need to use a given expression correctly, and you must know I = mr² and I = Σmr².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
+  <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
+</figure>
+
+
 ## Moment of inertia
 
 Moment of inertia, I, measures how hard it is to change the rotation of an object about a chosen axis. It plays the part that mass plays in straight-line motion. Its unit is kg m².
@@ -81,6 +87,12 @@ end:    I = 3.0 × 1.2² / 3  = 1.44 kg m²
 
 The same rod is four times harder to spin about its end. Half the rod is further from the axis, and r is squared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--09-moment-of-inertia.webp" width="900" height="1050" alt="Three beads of 0.20, 0.50 and 0.10 kg at 0.10, 0.30 and 0.60 m from an axis contribute mr^2 of 0.0020, 0.045 and 0.036 kg m^2, giving I = 0.083 kg m^2 and a kinetic energy of 1.5 J at 6.0 rad/s. A 3.0 kg 1.2 m rod has I = 0.36 kg m^2 about its centre and 1.44 kg m^2 about an end." loading="lazy">
+  <figcaption>I = Σmr² grows with the square of each mass’s distance from the axis, so the same object is harder to spin about its end.</figcaption>
+</figure>
+
+
 ## Angular displacement, speed, velocity and acceleration
 
 These match the linear quantities one for one.
@@ -91,6 +103,27 @@ These match the linear quantities one for one.
 - **Angular acceleration, α.** The rate of change of angular velocity: α = Δω/Δt, in rad s⁻².
 
 Convert before you calculate. For a rotation rate in revolutions per minute, multiply by 2π and divide by 60. A point at distance r from the axis has linear speed v = rω and tangential acceleration a = rα.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--01-radian-omega-v.webp" width="900" height="1160" alt="A circle with a 1 radian sector: the arc along the edge is as long as the radius and the angle is about 57.3 degrees, with quarter, half and three-quarter turns marked as pi/2, pi, 3pi/2 and 2pi. Below, a turntable at 45 rpm has omega 4.71 rad/s everywhere; a point at 0.10 m moves at 0.47 m/s and a point at 0.20 m at 0.94 m/s, so v = omega r." loading="lazy">
+  <figcaption>One radian is the angle whose arc equals the radius, and at the same ω a point further out moves faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
 
 ## Equations for uniform angular acceleration
 
@@ -188,6 +221,12 @@ P = Tω = 12 × 188 = 2.3 × 10³ W
 ```
 
 Use W = Tθ for energy transfer over an angle, and Ek(rot) = ½Iω² for energy stored in the rotation. When a resultant torque speeds up a body, W = Tθ equals the gain in Ek(rot), as in example 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
 
 ## The analogy with translational dynamics
 

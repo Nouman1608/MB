@@ -60,6 +60,12 @@ Test a value between roots to confirm the sign: at x = −1, y = (2)(9)(2) = 36,
 
 The curve rises from far down on the left, crosses at (−3, 0), reaches a maximum above the axis, crosses down at (1, 0), dips below, touches the axis at (2, 0) from below, and then falls away. Label (−3, 0), (1, 0), (2, 0) and (0, 12).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--08-modulus-transformations.webp" width="900" height="940" alt="The dashed curve is f(x) = x squared - 2x - 3. Top: y = |f(x)| reflects the part below the x-axis upwards, giving a maximum (1, 4) between the roots -1 and 3. Bottom: y = f(|x|) copies the right-hand part onto the left by reflection in the y-axis, giving a symmetric W shape with roots plus and minus 3." loading="lazy">
+  <figcaption>|f(x)| flips negative parts up; f(|x|) mirrors the right-hand half into the left.</figcaption>
+</figure>
+
+
 ## 2. The modulus of a linear function (B7)
 
 |x| means the non-negative value of x. So |ax + b| equals ax + b when that is positive or zero, and −(ax + b) when it is negative. Plotting y = |ax + b| gives a V-shape. Its vertex is on the x-axis at x = −b/a, and any part of the straight line that lay below the axis is flipped above it.
@@ -87,6 +93,17 @@ x − 4 = 2x       so x = −4 (but this is the arm where x ≥ 4, so it is reje
 The line y = 2x starts at the origin, below the V (at x = 0 the V is at 4, the line at 0), and meets the left arm at x = 4/3. For every larger x the line is above the V. So the solution is **x > 4/3**.
 
 Always check each root in the original equation. A root from the wrong arm is the usual error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--06-modulus-check-roots.webp" width="900" height="870" alt="The V-shaped graph y = |x - 6| and the line y = 3x - 2 meet only at (2, 4). Algebra also gives x = -2, but there the line is at -8 and the V at +8, so it is rejected. A modulus cannot equal a negative number." loading="lazy">
+  <figcaption>Always check modulus roots: a root from the wrong branch does not fit the graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--07-modulus-inequality.webp" width="900" height="820" alt="Graphs of y = |x + 2| and y = 3|x| meet at x = -1/2 and x = 1. The graph of |x + 2| is below 3|x| for x less than -1/2 and for x greater than 1, so those are the solutions, shown on a number line with open circles." loading="lazy">
+  <figcaption>Solve the equation first, then read from the graph where one modulus graph lies below the other.</figcaption>
+</figure>
+
 
 ## 3. y = a/x and y = a/x² (B7)
 
@@ -164,6 +181,27 @@ Setting them equal: 9x² + 24x + 15 = 3x² + 1, so 6x² + 24x + 14 = 0, which si
 fg(x) = f(√x) = 1/(√x − 2). The input to g needs x ≥ 0. The input to f must not be 2, so √x ≠ 2, which means x ≠ 4. The domain is **x ≥ 0, x ≠ 4**.
 
 For the range, √x − 2 takes every value in [−2, ∞) except 0 (as x ≠ 4). The reciprocal of a value in [−2, 0) is at most −1/2. The reciprocal of a positive value is any positive number. So the range is **fg(x) ≤ −1/2 or fg(x) > 0**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
+  <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--03-fg-not-gf.webp" width="900" height="890" alt="With f(x) = 3x - 5 and g(x) = x squared + 2, fg(x) = 3x squared + 1 and gf(x) = (3x - 5) squared + 2 are different curves. They meet only at x = (15 - root 69)/6, about 1.12, and x = (15 + root 69)/6, about 3.88." loading="lazy">
+  <figcaption>Composing in a different order gives a different function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--04-composite-domain.webp" width="900" height="780" alt="f(x) = root(x - 1) needs its input to be at least 1. g(x) = x squared - 10 gives an output of at least 1 only when x is at most minus root 11 or at least root 11, so fg has that domain. The graph of g is solid only where g(x) is at least 1." loading="lazy">
+  <figcaption>A composite is only defined where the inner function gives an output the outer function accepts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--05-inverse-reflection.webp" width="900" height="980" alt="The curve f(x) = 3 - root(x + 1) for x at least -1 and its inverse f^-1(x) = (3 - x) squared - 1 for x at most 3 are mirror images in the line y = x. Point (8, 0) on f becomes (0, 8) on the inverse and the end point (-1, 3) becomes (3, -1). The domain of the inverse is the range of f and vice versa." loading="lazy">
+  <figcaption>The graph of f^-1 is the graph of f reflected in y = x, with domain and range swapped.</figcaption>
+</figure>
+
 
 ## 7. Inverse functions and their graphs (B8)
 

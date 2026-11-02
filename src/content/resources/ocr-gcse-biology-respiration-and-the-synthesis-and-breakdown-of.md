@@ -48,6 +48,12 @@ Key points:
 
 Respiration is controlled by enzymes, so its rate changes with temperature and pH in the same way as other enzyme-controlled reactions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--03-atp-adp-cycle.webp" width="900" height="890" alt="ADP plus a phosphate becomes ATP when respiration transfers energy. ATP breaks back down to ADP and phosphate, releasing energy for cell work." loading="lazy">
+  <figcaption>ATP is made from ADP and phosphate during respiration and broken back down to release energy.</figcaption>
+</figure>
+
+
 ## B1.3b Respiration is exothermic
 
 An exothermic reaction transfers energy to the surroundings. Respiration is exothermic: part of the energy from the fuel is captured in ATP and the rest is released as heat. This is why you feel warm after exercise, why compost heaps and piles of damp grain get hot, and why mammals and birds can keep their bodies warmer than their surroundings.
@@ -59,6 +65,12 @@ An exothermic reaction transfers energy to the surroundings. Respiration is exot
 3. Rise due to respiration = 4.5 − 0.2 = 4.3 °C.
 
 The boiled peas are the control because boiling denatured their enzymes, so they cannot respire. The result supports the claim that respiration transfers heat to the surroundings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--02-peas-heat-flasks.webp" width="900" height="830" alt="Two vacuum flasks start at 24.0 degrees C. After 24 hours the germinating peas read 28.5 and the boiled control reads 24.2. The rise due to respiration is 4.3 degrees C." loading="lazy">
+  <figcaption>Respiration transfers heat: the live peas warm by 4.3 degrees C more than the boiled control.</figcaption>
+</figure>
+
 
 ## B1.3c Aerobic and anaerobic respiration compared
 
@@ -94,6 +106,27 @@ The ATP figures vary slightly between sources. In the exam the point is "much mo
 
 To make the yeast respire anaerobically, boil and cool the glucose solution (to drive off dissolved oxygen) and float a layer of oil on top. Carbon dioxide can be detected with limewater (turns cloudy) or hydrogen-carbonate indicator (red-orange to yellow). Immobilising yeast in alginate beads makes the yeast easy to remove and re-use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--07-mp22-atp-glucose.webp" width="900" height="910" alt="Dots show glucose molecules needed for 600 ATP: 20 for aerobic respiration at 30 ATP per glucose and 300 for anaerobic at 2 ATP per glucose. Anaerobic respiration uses 15 times as much glucose." loading="lazy">
+  <figcaption>A muscle cell needing 600 ATP uses 15 times more glucose anaerobically than aerobically.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--01-yeast-temperature-rate.webp" width="900" height="880" alt="Bars show yeast CO2 rate at 15, 25, 35 and 55 degrees C from 6, 21, 48 and 3 cm3 in 10 minutes. The rate rises from 2.1 to 4.8 cm3 per minute between 25 and 35 degrees C, a 129 percent increase. At 55 degrees C the rate collapses to 0.3 because enzymes are denatured." loading="lazy">
+  <figcaption>The rate of yeast respiration peaks near 35 degrees C and collapses at 55 degrees C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## B1.3d Sugars: carbohydrates
 
 Large biological molecules are **polymers**: long chains made of many repeating smaller units called **monomers**. Glucose is a sugar and the monomer of the carbohydrates starch, glycogen and cellulose.
@@ -110,6 +143,22 @@ Sugars matter because they are the main respiratory substrate, and because they 
 - A starch chain of 500 glucose units has 499 joins, so 499 water molecules are released on synthesis.
 
 **Test:** Benedict's solution is heated with a reducing sugar (blue to green, yellow, orange or brick red). Iodine solution turns blue-black with starch.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--08-mp22-condensation-mass.webp" width="900" height="900" alt="Three condensation reactions with masses: two glucose to maltose, glycine and alanine to a dipeptide, and glycerol with three palmitic acids to a triglyceride. Each shows the product mass equals the reactant mass minus 18 for each water released." loading="lazy">
+  <figcaption>Every condensation join releases one water molecule of mass 18.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
 
 ## B1.3e Amino acids: proteins
 
@@ -142,6 +191,12 @@ Lipids (fats and oils) are not true polymers because they are not long chains of
 - Mass of the triglyceride (tripalmitin) = 860 − 54 = 806.
 
 **Test:** the emulsion test. Shake the sample with ethanol, then pour into water. A cloudy white layer shows lipid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
 
 ## Common errors
 

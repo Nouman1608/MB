@@ -60,6 +60,12 @@ trade openness (%) = (exports + imports) / GDP × 100
 
 Openness rose by 12.5 percentage points. This suggests Country C's economy is more closely linked to the rest of the world. The measure is a teaching device, not a required formula, so only use it if a question gives you the data. One weakness: a rise in openness can also come from falling GDP, so look at both figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--01-trade-openness.webp" width="900" height="780" alt="Two panels compare Country C in Year 1 and Year 8. Each shows a GDP bar beside a stacked exports and imports bar. Openness is (30 + 36) / 220 = 30.0% in Year 1 and (48 + 54) / 240 = 42.5% in Year 8, a rise of 12.5 percentage points." loading="lazy">
+  <figcaption>Trade openness rises from 30.0% to 42.5% as exports plus imports grow faster than GDP.</figcaption>
+</figure>
+
+
 ## 2. Multinational companies (6.2.2)
 
 A **multinational company (MNC)** is a firm that owns or controls production or other operations in more than one country. Its headquarters sit in the **home country**. Each country where it sets up a factory, shop or office is a **host country**.
@@ -101,6 +107,17 @@ Money that stays in Country H each year:
 Total staying in the host economy = 12,000,000 + 6,000,000 + 7,200,000 + 5,000,000 = **30,200,000**. The 16,800,000 sent home is a benefit to Country M and a cost, in lost income, to Country H.
 
 **Evaluating.** Whether the host gains depends on: how much local content the MNC buys; the skills passed on; whether the jobs would otherwise exist; the tax deal; environmental rules; and how easily the MNC can move. A strong answer weighs these rather than just listing them. For the home country, the net effect depends on whether lost jobs are replaced by higher-skilled head-office and design work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--06-mnc-money-host-country.webp" width="900" height="780" alt="One bar of 47 million a year is split into wages, tax, local purchases, kept profit and profit sent home. The first four, 30.2 million, stay in the host economy and 16.8 million goes to the home country." loading="lazy">
+  <figcaption>Most of an MNC's spending stays in the host country, but the profit sent home is lost income to the host.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--02-mnc-host-home.webp" width="900" height="810" alt="A home country with the headquarters and a host country with the factory, linked by arrows for capital, technology and skills going out and 16.8 million of profit coming home. Under each country are three benefits and three costs from the lesson tables." loading="lazy">
+  <figcaption>An MNC brings benefits and costs to both its host and its home country.</figcaption>
+</figure>
+
 
 ## 3. Benefits of free trade (6.2.3)
 
@@ -148,6 +165,22 @@ Average cost falls by 6, which is 50%. The firm can cut its price, sell more, or
 - **Access to goods a country cannot produce.** A small country with few resources can gain a great deal.
 
 **A variety of countries.** A large country gains from cheaper inputs and competition. A small country gains a market far bigger than its own, which makes economies of scale possible. A developing country that sells primary products or simple goods gains export earnings, which can pay for imported machinery. Each also faces risks, such as falling demand abroad, so do not claim that every group gains equally.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--05-free-trade-world-price.webp" width="900" height="900" alt="Home demand and supply for bicycles meet at price 300 and 400 bicycles. At the world price of 200, consumers buy 600, home firms make 200 and 400 are imported." loading="lazy">
+  <figcaption>Free trade cuts the price from 300 to 200, so consumers buy more but home output halves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--03-fixed-cost-scale.webp" width="900" height="820" alt="Average cost per unit falls as output rises because the fixed cost of 400,000 is spread over more units. At 50,000 units it is 8 + 4 = 12 and at 200,000 units it is 2 + 4 = 6, a fall of 50%." loading="lazy">
+  <figcaption>Exporting raises output, so the fixed cost is spread thinly and average cost halves from 12 to 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--04-free-trade-countries.webp" width="900" height="800" alt="A three-step chain shows how specialisation raises output from the same resources and brings growth and export jobs. Three cards show the gain for a large rich, a small and a developing country, and the shared risk that foreign demand may fall." loading="lazy">
+  <figcaption>Free trade helps the whole economy and each kind of country in a different way, but carries risk.</figcaption>
+</figure>
+
 
 ## Common errors
 

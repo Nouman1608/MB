@@ -43,6 +43,12 @@ Suppose potential output in Country A rises from 800 to 840 units.
 
 Capacity is 5% higher. Whether actual output rises too depends on demand, which is one reason these policies work slowly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Policy 1: investment in education and training
 
 **How it works:** schooling, apprenticeships and retraining raise the skills of workers. A skilled worker produces more per hour, so labour productivity rises and unit costs fall. Workers can also move more easily into growing industries.
@@ -61,6 +67,12 @@ Now suppose only 180 of the 300 end up using the new skills. Extra units become 
 
 **Disadvantages:** costly, and the money has an opportunity cost (a hospital or road not built). Results take years, because children educated today join the workforce much later. Training may not match what employers want. Trained workers can emigrate or leave for rivals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--01-training-payback.webp" width="900" height="910" alt="Line graph of value earned against months. Training 300 workers costs 360,000. With all 300 using the skills value is 60,000 a month so payback is month 6; with only 180 it is 36,000 a month and payback is month 10." loading="lazy">
+  <figcaption>Payback is 6 months if all 300 use the skills, 10 months if only 180 do.</figcaption>
+</figure>
+
+
 ## Policy 2: lower direct taxes
 
 Direct taxes are charged on what a person or firm earns, such as income tax. A lower rate lets workers keep more from every extra hour. The aim is to improve incentives to work, to take a job rather than live on benefits, and to work longer.
@@ -77,6 +89,12 @@ The incentive per hour is only 2 extra. That is why the effect on hours worked i
 **Advantages:** may increase labour supply; may attract skilled workers from abroad; higher spending power helps demand.
 
 **Disadvantages:** the government loses revenue and may have to cut spending or borrow; the gain tends to go mostly to high earners, so inequality may widen; some workers use higher pay to work fewer hours, because they can reach their target income sooner.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--02-take-home-pay.webp" width="900" height="880" alt="Two bars of 2,800 monthly pay: tax 980 and keep 1,820 at 35 percent, tax 840 and keep 1,960 at 30 percent, a gain of 140. An overtime hour of 40 leaves 26 then 28." loading="lazy">
+  <figcaption>Cutting the tax rate from 35% to 30% adds 140 a month but only 2 per overtime hour.</figcaption>
+</figure>
+
 
 ## Policy 3: lower taxes on business profits
 
@@ -99,6 +117,12 @@ So a cut pays for itself only if profits rise a lot.
 
 **Disadvantages:** lost revenue; firms might pay out higher profits to owners instead of investing; benefits go to owners, who tend to be wealthier; the cut is of no use to a loss-making firm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--04-profit-tax-cut.webp" width="900" height="930" alt="Bar chart of tax collected from 1,000 workshops each earning 72,000. At 30 percent it is 21.6 million; at 24 percent with the same profits it is 17.28 million. To collect 21.6 million again at 24 percent each workshop needs profit of 90,000, up 25 percent." loading="lazy">
+  <figcaption>A profit tax cut pays for itself only if profits rise by a lot (25 percent in this example).</figcaption>
+</figure>
+
+
 ## Policy 4: privatisation and deregulation
 
 **Privatisation** transfers a state-owned firm to private owners. The aim is to raise efficiency, because owners seek profit and face competition.
@@ -117,6 +141,12 @@ The government saves the subsidy, but passengers pay 10% more.
 **Advantages:** efficiency and innovation; the government saves subsidies and may raise money from the sale; more choice.
 
 **Disadvantages:** a private monopoly may raise prices; unprofitable but valuable services may be cut; job losses; less regulation can mean lower safety or environmental standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--03-bus-privatisation.webp" width="900" height="920" alt="Bars of cost and fare per trip: state-owned cost 12 and fare 10 (subsidy 10 million); private cost 10.5 and fare 11 (profit 2.5 million). Fare rises 10 percent." loading="lazy">
+  <figcaption>Privatising the bus company ends the 10m subsidy and makes 2.5m profit, but fares rise 10%.</figcaption>
+</figure>
+
 
 ## Helping achieve government objectives
 
@@ -161,6 +191,22 @@ Price elasticity of demand over this change: `(-20%) / (+16.7%) ≈ -1.2`. Where
 
 **Fines** enforce rules, but they work only if checking is regular and the fine exceeds the gain from breaking the rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--02-charcoal-tax.webp" width="900" height="990" alt="Supply and demand for charcoal with Qd = 110 - 2P and Qs = 2P - 10 cross at price 30 and quantity 50. A tax of 10 shifts supply up so price is 35 and quantity 40. Buyers pay 5 more, sellers keep 25, and the shaded rectangle is tax revenue of 400." loading="lazy">
+  <figcaption>A tax equal to the external cost cuts output from 50 to 40 and the burden is shared equally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--04-output-cap.webp" width="900" height="910" alt="Charcoal market with a vertical cap at 40 tonnes. Price is 35 and sellers keep 40 x (35 - 25) = 400 more than under the tax, which gave the 400 to the government." loading="lazy">
+  <figcaption>A 40-tonne cap gives the same quantity as the tax, but the 400 goes to sellers instead of the government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ### Positive externalities: subsidies, provision and information
 
 **Subsidy.** A payment per unit lowers costs, shifts supply right and raises output.
@@ -175,6 +221,17 @@ Rooftop solar panels cut pollution for everyone. Demand is `Qd = 100 - 2P`, supp
 
 **Direct provision** means the state supplies a service such as schooling itself, so that more of it is available. **Information campaigns** raise awareness of benefits or harms and so work by changing demand. Campaigns are cheap but their effect is uncertain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--03-solar-subsidy.webp" width="900" height="990" alt="Supply and demand for rooftop solar with Qd = 100 - 2P and Qs = 10 + P cross at price 30 and quantity 40. A subsidy of 6 shifts supply to Qs = 16 + P so price is 28 and quantity 44. Sellers receive 34 and the shaded rectangle is the government cost of 264." loading="lazy">
+  <figcaption>A subsidy equal to the external benefit lowers the price buyers pay and raises output from 40 to 44.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ### Evaluating externality policies
 
 - The government must estimate the external cost or benefit. If the estimate is wrong, the tax or subsidy is too high or too low.
@@ -182,6 +239,12 @@ Rooftop solar panels cut pollution for everyone. Demand is `Qd = 100 - 2P`, supp
 - Subsidies cost taxpayers and need funding.
 - Bans and limits need enforcement and can push activity into illegal markets.
 - Taxes may drive production abroad if neighbouring countries have none.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Common errors
 

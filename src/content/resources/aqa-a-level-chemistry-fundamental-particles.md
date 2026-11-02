@@ -63,6 +63,27 @@ Check: 49 960 + 36 + 4 = 50 000.
 - Four in 50 000 are turned back, so the positive charge must be packed into a very small volume. A particle only reverses if it meets a heavy, strongly charged region head-on.
 - This evidence supports a small nucleus and cannot be explained by positive charge spread evenly through the atom.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-fundamental-particles--01-scattering-counts.webp" width="900" height="1240" alt="100 squares stand for 50 000 alpha particles, 500 per square. The last square is enlarged to show 460 particles going straight on, 36 deflected and 4 bouncing back (1 in 12 500). Almost all pass through, so the atom is mostly empty space with a tiny dense positive nucleus." loading="lazy">
+  <figcaption>Of 50 000 alpha particles, 49 960 pass straight through, 36 are deflected and 4 bounce back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--04-atom-model-history.webp" width="900" height="1070" alt="Five atom models in order: Dalton a tiny solid sphere; Thomson the plum pudding with electrons in a positive ball; Rutherford a tiny dense positive nucleus in mostly empty space; Bohr electrons in shells; then the discovery of the neutron, so the nucleus holds protons and neutrons." loading="lazy">
+  <figcaption>Each model of the atom replaced the one before as new evidence appeared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--05-alpha-scattering.webp" width="900" height="950" alt="Alpha particles travel from a source towards gold foil. Most pass straight through, a few are deflected, and very few bounce back towards the source. This shows an atom is mostly empty space with a tiny, dense, positive nucleus. The drawing is schematic and the nucleus is drawn far too large." loading="lazy">
+  <figcaption>Rutherford: most alpha particles go straight through; very few bounce back, so the nucleus is tiny, dense and positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--01-plum-pudding-vs-nuclear.webp" width="900" height="1090" alt="Alpha particles fired at one atom. With plum pudding positive charge spread out, every path bends only a few degrees. With a tiny nucleus most pass straight, some deflect and a few bounce back. Large deflections were seen, so the model was replaced." loading="lazy">
+  <figcaption>Scattering results fit a concentrated nucleus, not a spread-out positive charge.</figcaption>
+</figure>
+
+
 ## Relative charge and relative mass
 
 Particles in atoms are so small that chemists compare them with each other instead of using kilograms and coulombs. A **relative** value has no units.
@@ -84,6 +105,12 @@ Points to hold on to:
 
 Compare the actual masses: proton 1.6726 × 10⁻²⁷ kg and electron 9.1094 × 10⁻³¹ kg. Dividing gives 1.6726 × 10⁻²⁷ ÷ 9.1094 × 10⁻³¹ ≈ 1836. So the electron has about 1/1836 of the proton's mass. You are not asked to remember the actual masses, but seeing the division helps you trust the relative figure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-fundamental-particles--02-mass-in-nucleus.webp" width="900" height="1070" alt="One proton balances about 1836 electrons, drawn as a block of 36 by 51 dots. A bar for a carbon atom shows the nucleus contributes 12 and the electrons 0.00326, so 99.97 percent of the mass is in the nucleus." loading="lazy">
+  <figcaption>About 1836 electrons equal one proton, so nearly all of an atom’s mass is in its nucleus.</figcaption>
+</figure>
+
+
 ### Worked example: where the mass of an atom sits
 
 A carbon atom with six protons, six neutrons and six electrons. Use relative masses.
@@ -101,6 +128,17 @@ Over 99.9% of an atom's mass sits in its nucleus. The electrons add so little th
 ### Worked example: why losing an electron hardly changes the mass
 
 A sodium atom has 11 protons and 12 neutrons, so a relative mass of 23 from its nucleus. When it forms Na⁺ it loses one electron, and the mass falls by 1/1840 of a unit. As a fraction of the total: (1/1840) ÷ 23 = 0.0000236, or 0.0024%. The ion and the atom have effectively the same mass, so you can ignore the change when comparing masses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-fundamental-particles--05-sodium-ion-mass.webp" width="900" height="830" alt="Two equal bars show a sodium atom and Na+ ion, both with nuclear mass 23. The ion has lost one electron of mass 1/1840, which is 0.0000236 or 0.0024% of the mass, about 1 part in 42 000." loading="lazy">
+  <figcaption>Losing an electron changes the mass by only 0.0024%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--01-nuclear-model.webp" width="900" height="1080" alt="A not-to-scale atom with a tiny dense nucleus at the centre and electrons in the much larger space around it. A key gives proton +1 and mass 1, neutron 0 and 1, electron -1 and 1/1836. The proton is 1836 times heavier than the electron." loading="lazy">
+  <figcaption>The nucleus holds all the positive charge and almost all the mass; electrons occupy the space outside.</figcaption>
+</figure>
+
 
 ## The structure of the atom
 
@@ -126,6 +164,17 @@ overall charge = number of protons - number of electrons
 
 Changing the number of electrons makes an ion. Changing the number of protons would make a different element, and changing the number of neutrons gives a different isotope (covered in 3.1.1.2).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-fundamental-particles--03-charge-from-counts.webp" width="900" height="960" alt="Two rows of tokens: gold plus protons above navy minus electrons. Matching pairs cancel and the leftover tokens give the charge: 26 protons and 24 electrons leave 2 protons (+2); an ion with 18 electrons and charge 3- has 15 protons, which is phosphorus." loading="lazy">
+  <figcaption>Overall charge is protons minus electrons; neutrons never change it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+
 ### Worked example: finding the charge on an ion
 
 A particle has 26 protons, 30 neutrons and 24 electrons.
@@ -150,6 +199,17 @@ protons = 15
 ```
 
 It has 15 protons, so the atomic number is 15 and the element is phosphorus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-fundamental-particles--04-nucleus-vs-atom-size.webp" width="900" height="1076" alt="An atom drawn as a large circle with a few electrons and a tiny nucleus dot at the centre, enlarged to be visible. Typical sizes make the atom about 100 000 times wider than the nucleus: a 1 cm pea against a 1 km atom." loading="lazy">
+  <figcaption>The atom is mostly empty space with a tiny nucleus at the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
 
 ## Writing good answers
 

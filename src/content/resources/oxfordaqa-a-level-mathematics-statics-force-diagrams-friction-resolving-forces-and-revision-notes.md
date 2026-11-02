@@ -36,6 +36,12 @@ Condensed notes for the first part of section M2.3 (Statics and forces) of the O
 | Weight on a slope of angle α | mg sin α along the slope (down), mg cos α into the slope |
 | Rest on a rough slope, no other force | μ ≥ tan α |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
+
 ## Modelling words
 
 | Word | Meaning |
@@ -97,12 +103,24 @@ upper limit (friction down the slope): P = 29.4 + 10.18  →  P = 39.6
 
 The particle stays at rest for **19.2 N ≤ P ≤ 39.6 N**. Say what each end of the range means in words: at the lower end it is about to slide down, at the upper end it is about to slide up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
+</figure>
+
+
 ## Smooth surfaces and strings
 
 * On a smooth plane inclined at α, a force P parallel to the slope that holds a particle of mass m satisfies P = mg sin α. Then R = mg cos α.
 * A horizontal force H holding the particle on a smooth plane gives H = mg tan α and R = mg / cos α.
 * For a particle hung from two strings, resolve horizontally and vertically. The horizontal components balance. The vertical components together support the weight.
 * In a symmetrical set-up with each string at angle β to the vertical, 2T cos β = mg.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -139,6 +157,12 @@ The particle stays at rest for **19.2 N ≤ P ≤ 39.6 N**. Say what each end of
 8. √(25 + 144) = **13 N**, opposite in direction to the resultant of the other two.
 9. Friction only reaches μR when the particle is on the point of slipping. Otherwise F is smaller and is found by resolving.
 10. 2T cos 30° = 39.2, so T = 39.2 / (2 × 0.8660) = **22.6 N**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

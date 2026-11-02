@@ -75,6 +75,22 @@ So wage differentials reward scarce skills and pull labour towards where it is m
 
 **Evaluation.** The model is a benchmark. It predicts that wages equal MRP, that there are no unemployed workers at the equilibrium wage and that pay differences are temporary. The specification says plainly that all real-world labour markets are imperfectly competitive to some degree, so use the model to ask which assumption fails.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--02-relative-wage-signal.webp" width="900" height="970" alt="Demand and supply for parcel sorters with truncated axes. A demand rise moves equilibrium from 10, 800 to 12, 920; workers moving in shifts supply, giving 10.8, 968. The relative wage falls from 1.20 to 1.08." loading="lazy">
+  <figcaption>Pay rises pull workers in, so the relative wage falls back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+
 ## 2. Sources of imperfection
 
 **Monopsony power.** A monopsony has a single buyer of labour. In practice, think of a dominant employer in an isolated town, or a few employers able to act alike. Power is greater when:
@@ -85,6 +101,12 @@ So wage differentials reward scarce skills and pull labour towards where it is m
 **Imperfect information.** Workers may not know the wages on offer elsewhere. Searching costs time and money. Employers cannot observe productivity before hiring, so they may rely on signals such as qualifications. The result is that similar workers can be paid differently and wages do not adjust quickly.
 
 **Trade unions.** A union sells the labour of its members collectively. It makes the supply side a single seller, which is an imperfection in its own right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--04-labour-market-power.webp" width="900" height="960" alt="Two by two grid: many or one employer against many separate workers or one union. Perfect competition, union in a competitive market, monopsony and bilateral monopoly, with the outcome of each." loading="lazy">
+  <figcaption>Count the employers and the sellers of labour to see where the power lies.</figcaption>
+</figure>
+
 
 ## 3. Wages and employment under a monopsonist
 
@@ -118,6 +140,12 @@ The wage is read from the **supply curve** at L = 9: **W = 13**, not the MCL. Th
 
 **Evaluation.** Both wages and jobs are lower than in the competitive market, and output is lost, so it is allocatively inefficient. But the result depends on the employer's power: the more alternative jobs there are, the flatter the supply curve and the smaller the gap. The employer may also pass lower costs on in lower prices if its product market is competitive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--07-monopsony.webp" width="900" height="930" alt="ACL = 4 + L, MCL = 4 + 2L, MRP = 40 - 2L. Monopsonist hires 900 where MCL = MRP (22), pays 13 from ACL; competitive outcome is 1,200 at 16." loading="lazy">
+  <figcaption>Employer sets employment by MCL = MRP and pays the supply wage.</figcaption>
+</figure>
+
+
 ## 4. Trade unions
 
 ### What affects union strength
@@ -144,6 +172,17 @@ Using Example 2 (W = 10, Q = 800), suppose the union negotiates **13 cu**.
 
 Members in work gain, 120 workers lose jobs and 180 more would like them. Because demand here is inelastic, the total paid to labour rises. With elastic demand it would fall. The union also faces a choice between higher wages and more jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--08-union-competitive.webp" width="900" height="930" alt="Demand 1200 - 40W, supply 200 + 60W. At the union wage 13 employers want 680 and 980 want jobs: 300 excess supply. Wage +30%, employment -15%." loading="lazy">
+  <figcaption>A wage above equilibrium creates unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ### A union enters a monopsony market
 
 Using Example 3 (monopsony: L = 9, W = 13), suppose the union sets a minimum wage. Employment is the smaller of the number of workers willing to work at that wage (supply) and the number the firm wants (demand, MRP = wage).
@@ -158,11 +197,23 @@ Using Example 3 (monopsony: L = 9, W = 13), suppose the union sets a minimum wag
 
 Up to 16 cu the union raises both pay and jobs. Between 16 and 22 pay rises further, and employment falls back but stays above 9. Above 22 (the MRP at the monopsony level of employment), employment falls below the monopsony level. So the result is not a clear trade-off: within a range, a union can raise wages and employment together, because it takes back some of the monopsony gap. Where a union with real bargaining power meets a monopsony, this is bilateral monopoly, and the outcome between 13 and 22 depends on bargaining strength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--01-union-monopsony.webp" width="900" height="1090" alt="Wage against workers in hundreds for the lone cannery: ACL, MCL and MRP lines. With no union 900 workers are hired at 13; a union wage of 16 gives the most jobs, 1,200; a wage of 22 takes employment back to 900. Between 13 and 22 jobs never fall below 900." loading="lazy">
+  <figcaption>A union can raise pay and jobs together against a monopsony, up to the MRP at 900 workers.</figcaption>
+</figure>
+
+
 ### Real wages
 
 Unions bargain for nominal pay, but what matters is real pay. If a deal gives 6% and the prices climb by 4% (index 100 to 104), real wages change by 1.06 ÷ 1.04 − 1 = **+1.9%**.
 
 **Evaluation.** Unions may also raise productivity through lower turnover and better training. Against that, higher wages can create cost-push pressure, widen the gap between insiders and unemployed outsiders, and encourage firms to switch to capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--03-real-wage.webp" width="900" height="860" alt="Bars from 100: pay 106, prices 104 and real pay 101.9. Real pay rises 1.9% because 1.06 divided by 1.04 minus 1 is 0.019." loading="lazy">
+  <figcaption>A 6% pay rise with 4% price rises is only a 1.9% real rise.</figcaption>
+</figure>
+
 
 ## Common errors
 

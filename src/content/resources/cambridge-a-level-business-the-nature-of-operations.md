@@ -68,6 +68,17 @@ Added value is what is left of a product's selling price once you take away the 
 
 Added value is not profit. The £8,000 must still pay wages, rent, energy and other costs. A business can raise added value by raising the price customers will accept (better quality, branding, service) or by buying in cheaper inputs. If Stainby could charge £4.80 for the same loaf with the same input cost, added value would rise to £3.50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--08-transformation-process.webp" width="900" height="970" alt="Inputs are the four factors of production with bakery examples, transformed by mixing, baking and selling into loaves. Added value per loaf is 4.50 less 1.30 of bought-in materials, 3.20 pounds." loading="lazy">
+  <figcaption>Inputs (the four factors of production) are transformed into outputs that add value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+
 ## 4.1.2 Efficiency, effectiveness, productivity and sustainability
 
 The syllabus asks for the importance of all four, so give each a plain meaning and a reason it matters.
@@ -106,6 +117,22 @@ Measures include cutting energy use, recycling or reusing waste, using renewable
 
 **Worked example.** Sandbeck Dairy spends £36,000 on solar panels and saves £9,000 a year on electricity. It recovers the outlay in 36,000 / 9,000 = **4 years**. In year one the cost is a burden on cash. Later the saving helps profit. The decision depends on whether the dairy can fund the outlay and expects to stay on the site long enough.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--09-labour-productivity.webp" width="900" height="1010" alt="Before, 20 staff made 2,400 cabinets (120 each); after new jigs 18 staff made 2,700 (150 each), up 25%. Productivity is an average and does not show quality." loading="lazy">
+  <figcaption>Labour productivity rose from 120 to 150 cabinets per employee, +25%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--10-efficient-effective.webp" width="900" height="830" alt="A grid of efficiency (less waste) against effectiveness (meets needs). A very efficient factory that makes goods nobody wants is efficient but ineffective." loading="lazy">
+  <figcaption>Efficiency is about waste; effectiveness is about meeting needs and objectives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--11-solar-payback.webp" width="900" height="780" alt="Bars of money recovered so far: minus 36,000 pounds at the start, rising 9,000 a year to zero in year 4, then 9,000 and 18,000 above." loading="lazy">
+  <figcaption>Outlay of 36,000 pounds recovered in 4 years at 9,000 a year.</figcaption>
+</figure>
+
+
 ## 4.1.3 Capital intensive and labour intensive operations
 
 A **capital intensive** business relies mainly on machinery and technology. A **labour intensive** business relies mainly on people. Most businesses use both. The question is which dominates.
@@ -123,6 +150,17 @@ A **capital intensive** business relies mainly on machinery and technology. A **
 - At 100,000 copies: press £160,000, labour £190,000. The press is cheaper (unit cost £1.60 against £1.90).
 
 Judgement: if Larkmead expects well over 75,000 copies a year, the press is cheaper. If demand is uncertain or the work varies, the lower fixed cost and flexibility of labour may be the safer choice. Always link your advice to the figures and the stated demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--10-press-v-labour.webp" width="900" height="876" alt="Total cost lines for a press (120,000 + 0.40 a copy) and labour (30,000 + 1.60 a copy) cross at 75,000 copies and 150,000 pounds. Labour is cheaper below that volume, the press above it." loading="lazy">
+  <figcaption>The capital intensive press is cheaper only above 75,000 copies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--14-unit-cost-press-labour.webp" width="900" height="754" alt="Cost per copy for the press (120,000 + 0.40 a copy) and labour (30,000 + 1.60 a copy). Press: 2.80 at 50,000 and 1.60 at 100,000. Labour: 2.20 and 1.90. Both are 2.00 at 75,000 copies." loading="lazy">
+  <figcaption>The press has the lower unit cost only above 75,000 copies.</figcaption>
+</figure>
+
 
 ## 4.1.4 Operations methods
 
@@ -154,6 +192,27 @@ Moving from one method to another is rarely easy. Common problems:
 - **Supply and demand**: suppliers may need to deliver differently, and the market must be large enough for higher output.
 
 A good evaluation weighs these against long-term benefits such as lower unit cost. It also considers timing: a change in a quiet period costs less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--11-batch-v-flow-week.webp" width="900" height="960" alt="In a 40-hour week at 800 biscuits an hour, ten 1.5 hour changeovers cost 15 hours, leaving 25 hours and 20,000 biscuits; one flavour with no changeovers gives 32,000, which is 12,000 more." loading="lazy">
+  <figcaption>Changeovers between batches cost 12,000 biscuits a week in this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--12-mass-customisation.webp" width="900" height="760" alt="Three sets of standard parts, three colours each. The customer picks one from each set, giving a personal trainer; nine parts can be combined into 27 trainers (illustrative)." loading="lazy">
+  <figcaption>Standard parts combined to a customer's choice give choice at close to mass-production cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--13-change-method-dip.webp" width="900" height="814" alt="An illustrative line of output over time: steady under batch, a dip during the change, then a higher level under flow. Problems to weigh are cost, disruption, staff, customers, suppliers and demand." loading="lazy">
+  <figcaption>Output may fall while the method changes, so weigh the problems against long-term gains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
 
 ## Common errors
 

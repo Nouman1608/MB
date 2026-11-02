@@ -72,6 +72,17 @@ ratio = (1 × 10⁻⁴) / (1 × 10⁻⁶) = 10²
 
 The plant cell is 100 times longer: **two orders of magnitude**. Subtracting the powers (−4 − (−6) = 2) is quicker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--01-cell-scale-orders.webp" width="900" height="900" alt="A log number line from 1 nm (10^-9 m) to 1 cm (10^-2 m). A 1 micrometre bacterium sits at 10^-6 m and a 0.1 mm plant cell at 10^-4 m, 100 times longer, two orders of magnitude. Working shown: 0.1 mm x 1000 = 100 micrometres = 1 x 10^-4 m; -4 minus -6 = 2." loading="lazy">
+  <figcaption>Plant cell 0.1 mm and bacterium 1 micrometre are two orders of magnitude apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+
 ## 4.1.1.2 Animal and plant cells
 
 Most **animal cells** have a nucleus, cytoplasm, a cell membrane, mitochondria and ribosomes. **Plant cells** often have these plus **chloroplasts** and a **permanent vacuole filled with cell sap**. Plant and algal cells also have a **cell wall made of cellulose**, which strengthens the cell.
@@ -118,6 +129,22 @@ Give these as "about 5 μm" and "about 750 μm²".
 
 Total magnification = eyepiece lens magnification × objective lens magnification. A ×10 eyepiece with a ×40 objective gives ×400.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+
 ## 4.1.1.3 Cell specialisation
 
 Specialised cells have structures that fit them to a job in a tissue, organ, organ system or whole organism. For an unfamiliar cell, give each feature, then what it allows.
@@ -131,6 +158,17 @@ Specialised cells have structures that fit them to a job in a tissue, organ, org
 | Xylem cell | Dead cells forming hollow tubes; walls strengthened with lignin | Water and mineral ions flow through freely; tubes do not collapse and support the plant |
 | Phloem cell | Cells joined end to end; end walls with pores | Dissolved sugars move from one cell to the next |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--01-cell-muscle-xylem-phloem.webp" width="900" height="910" alt="A muscle cell with protein fibres and mitochondria, a hollow xylem tube with lignin walls and flowing water, and phloem cells joined end to end with pores in the end walls letting sugars pass." loading="lazy">
+  <figcaption>Muscle, xylem and phloem cells each have features that suit their job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
+
 ## 4.1.1.4 Cell differentiation
 
 As an organism develops, cells **differentiate** to form different types of cells. As a cell differentiates, it gains the sub-cellular structures it needs for a certain function. It has then become a **specialised cell**.
@@ -140,6 +178,12 @@ As an organism develops, cells **differentiate** to form different types of cell
 - In mature animals, cell division is mainly restricted to **repair and replacement**.
 
 **Why differentiation matters:** a multicellular organism needs many cell types for different jobs. Differentiation produces them, and they then form tissues and organs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--02-cell-differentiation.webp" width="900" height="960" alt="An unspecialised cell gains structures such as a tail, branched ends or a root hair as it differentiates. Two timelines show animal cells differentiate mainly early while plant cells differentiate throughout life." loading="lazy">
+  <figcaption>Differentiation gives specialised cells; plants keep the ability for longer than animals.</figcaption>
+</figure>
+
 
 ## 4.1.1.5 Microscopy
 
@@ -172,6 +216,17 @@ real size = 36 / 18 000 = 0.002 mm
 magnification = 10 mm / 10 μm = 10 000 μm / 10 μm = ×1000
 real length = 45 mm / 1000 = 0.045 mm = 45 μm
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--03-cell-resolution-limit.webp" width="900" height="1180" alt="Two dots 100 nm apart give one merged blob in a light microscope (limit about 200 nm) but two peaks in an electron microscope. Enlarging a blob adds no detail." loading="lazy">
+  <figcaption>Resolution, not magnification, decides whether close points can be told apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--04-cell-scale-bar-worked.webp" width="900" height="840" alt="A 10 mm scale bar labelled 10 micrometres gives a magnification of x1000, so a cell 45 mm long is 45 micrometres; the bar fits 4.5 times along the cell." loading="lazy">
+  <figcaption>A scale bar gives the magnification, from which real size follows.</figcaption>
+</figure>
+
 
 ## 4.1.1.6 Culturing microorganisms
 
@@ -220,6 +275,17 @@ area = π × 9² = 254.469... ≈ 254 mm²
 ### Required practical 2: antiseptics and zones of inhibition
 
 Spread bacteria evenly over an agar plate using aseptic technique. Add paper discs soaked in different antiseptics (or antibiotics), plus a control disc soaked in sterile water. Tape and incubate the plate. A clear **zone of inhibition** forms where bacteria are killed or stopped from growing. Measure each zone's diameter and find its area with πr². A larger area means a more effective antiseptic. Control disc size, soaking time, bacterium, temperature and incubation time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--02-inhibition-zone-area.webp" width="900" height="1140" alt="Petri dish with three discs: A has an 18 mm clear zone (radius 9 mm, area about 254 mm2), B a 10 mm zone (about 79 mm2, illustrative), and a control disc C with no zone. A bigger area means a more effective antiseptic." loading="lazy">
+  <figcaption>A larger clear zone means a more effective antiseptic; use the radius in pi r squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--05-cell-binary-fission-growth.webp" width="900" height="1010" alt="150 bacteria double every 30 minutes for 3 hours: 6 divisions, 150 x 64 = 9600, or 9.6 x 10^3 in standard form (Higher tier only)." loading="lazy">
+  <figcaption>Numbers double at each division, so growth gets steeper.</figcaption>
+</figure>
+
 
 ## Common errors
 

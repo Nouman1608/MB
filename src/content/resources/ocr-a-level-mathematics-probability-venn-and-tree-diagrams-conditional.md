@@ -36,6 +36,12 @@ Course hub: [/boards/ocr/a-level/mathematics/](/boards/ocr/a-level/mathematics/)
 
 The specification excludes using the formula in 2.03d to find P(A | B) from P(B | A). This guide does not teach that reversal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--03-dice-sample-space-independence.webp" width="900" height="1106" alt="A 6 by 6 grid of two-dice totals. A (first die even) covers 18 cells, B (total 7) 6 cells, both 3 cells. 1/2 x 1/6 = 1/12 = 3/36, so A and B are independent." loading="lazy">
+  <figcaption>Counting cells in the sample space shows P(A and B) equals P(A) x P(B).</figcaption>
+</figure>
+
+
 ## 2.03a Notation, mutually exclusive and independent events
 
 P(A) is the probability that event A happens. A' is the complement ("not A"), so P(A') = 1 − P(A). For a random variable X, P(X = 2) is the probability that X takes the value 2, and P(X = x) is the general form.
@@ -64,6 +70,12 @@ P(A) × P(B) = 0.6 × 0.25 = 0.15
 ```
 
 The two values match, so A and B are independent. They can occur together, so they are not mutually exclusive. (The union formula used in the first line is listed under Stage 2; at Stage 1 you would read P(A ∩ B) from a Venn diagram.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--02-exclusive-vs-independent.webp" width="900" height="1000" alt="With P(A) = 0.4 and P(B) = 0.35, a probability bar shows exclusive events do not overlap (P(A and B) = 0, union 0.75), while a unit square shows independent events overlap in area 0.4 x 0.35 = 0.14 giving a union of 0.61. Exclusive events with non-zero probabilities are never independent." loading="lazy">
+  <figcaption>Independence is an overlap equal to the product; exclusivity is no overlap at all.</figcaption>
+</figure>
+
 
 ## 2.03b Diagrams (Stage 1)
 
@@ -157,6 +169,32 @@ P(B') = 1 − 0.35 = 0.65
 P(A' | B') = 0.2 / 0.65 = 4/13
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--01-venn-addition-law.webp" width="900" height="870" alt="Venn diagram for cards 1 to 20 with A multiples of 3 and B even: 3 only in A, 3 in both, 7 only in B, 7 in neither. 6 + 10 - 3 = 13 cards, so P(A or B) = 13/20 and P(A') = 7/10." loading="lazy">
+  <figcaption>Adding P(A) and P(B) counts the overlap twice, so it is subtracted once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--04-tree-without-replacement.webp" width="900" height="950" alt="Tree for two counters from 6 red and 4 blue without replacement. Second-stage probabilities change (5/9, 4/9 after red; 6/9, 3/9 after blue). Path probabilities RR 30/90, RB 24/90, BR 24/90, BB 12/90. At least one blue is 60/90 = 2/3, and P(first red given at least one blue) = 24/60 = 2/5." loading="lazy">
+  <figcaption>Without replacement the second-stage branches change, and the complement 1 - P(RR) gives at least one blue quickly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--05-two-way-table-given.webp" width="900" height="970" alt="Café table of 250 orders. P(hot and takeaway) = 85/250 = 0.34 uses the grand total; P(hot given takeaway) = 85/150 = 17/30 uses only the takeaway row. Hot and takeaway are not independent since 0.62 x 0.6 = 0.372, not 0.34." loading="lazy">
+  <figcaption>The word given restricts you to one row or column, so its total is the denominator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--06-venn-conditional.webp" width="900" height="1050" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
+  <figcaption>The condition becomes the new sample space and sits in the denominator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--07-reversing-the-condition.webp" width="900" height="910" alt="Out of 10 000 components, 400 faulty and 9 600 good. The test flags 380 faulty and 288 good, 668 in all, so P(faulty given flagged) = 380/668 = 0.569, matching 0.038/0.0668 on a tree." loading="lazy">
+  <figcaption>Reversing the condition means dividing one tree path by all paths that end in the observed outcome.</figcaption>
+</figure>
+
+
 ## 2.03d Conditional probability from first principles (A Level only)
 
 Given that B has happened, B becomes the whole sample space. Count or add only the outcomes inside B, then ask what share of them are also in A:
@@ -209,6 +247,12 @@ Independent model: 0.45 × 0.45 = 0.2025
 ```
 
 The values differ by about 0.0002, so with a large population the independence model is a reasonable approximation. With a small group the gap would be much larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--08-independence-model-check.webp" width="900" height="900" alt="Two students chosen when 45% are girls: the independent model gives 0.2025. The exact value without replacement is 0.2023 for 1200 students (gap 0.0002); illustrative sizes of 100 and 20 students give gaps 0.0025 and 0.0130." loading="lazy">
+  <figcaption>Independence is a good approximation for a large population but poor for a small group.</figcaption>
+</figure>
+
 
 ## Common errors
 

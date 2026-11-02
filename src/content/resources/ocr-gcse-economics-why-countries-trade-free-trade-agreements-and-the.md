@@ -58,6 +58,12 @@ No country can make everything well. Trade lets each country sell what it makes 
 - Wider choice and access to goods that are not produced at home.
 - Better quality, because firms must compete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--07-trade-gains-and-costs.webp" width="900" height="770" alt="Consumers gain lower prices, choice and quality. Producers gain a bigger market, economies of scale and cheaper inputs. Rival home firms lose sales and jobs and need retraining. Other costs: shortages if essentials are imported and pollution from transport." loading="lazy">
+  <figcaption>Trade has winners and losers, and evaluation weighs both.</figcaption>
+</figure>
+
+
 ### Benefits for producers
 
 - A larger market, so higher sales and revenue.
@@ -89,9 +95,26 @@ Cost before = 2,000 x 11 = 22,000        Cost after = 2,600 x 10 = 26,000
 Profit before = 8,000                    Profit after = 13,000   (62.5% rise)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--08-exporter-larger-market.webp" width="900" height="770" alt="Stacked columns before and after the trade deal. Before: revenue 30,000 = cost 22,000 + profit 8,000. After: revenue 39,000 = cost 26,000 + profit 13,000. Revenue rises 30% and profit 62.5%." loading="lazy">
+  <figcaption>More sales and a lower unit cost lift profit by far more than revenue.</figcaption>
+</figure>
+
+
 ### Costs of trade (for evaluation)
 
 Trade is not painless. Domestic firms facing cheaper imports may shrink or close, and their workers may lose jobs. Workers who lose jobs in one industry often need retraining before they can find work in another. A country that relies on imported essentials can be hit by shortages or price rises abroad. Long transport routes add pollution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--01-tariff-removal.webp" width="900" height="880" alt="A stacked bar shows an imported tin at CU 48 plus a CU 12 tariff, making a shelf price of CU 60. Removing the tariff returns the price to CU 48, a fall of 12, which is 20% of 60 and not 25%. A household buying 25 tins saves CU 300." loading="lazy">
+  <figcaption>A 25% tariff on, but only a 20% price fall when removed, because the percentage is taken from the higher price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--06-trade-why-import-export.webp" width="900" height="950" alt="Two panels with Home and Abroad. Exports: goods and services go out and money comes in; reasons are a bigger market, specialisation and foreign currency. Imports: goods come in and money goes out; reasons are resources they lack, lower prices, more variety and inputs for firms." loading="lazy">
+  <figcaption>Countries export for markets, specialisation and foreign currency, and import for resources, price, variety and inputs.</figcaption>
+</figure>
+
 
 ## 4.1 Free trade agreements and the European Union
 
@@ -116,6 +139,12 @@ A **free trade agreement** is a deal between countries to remove or reduce these
 The European Union (EU) is a group of European countries that goes further than a simple free trade agreement. It has a single market, in which goods, services, capital and people can move between members with few barriers. It also has a customs union: members charge a common tariff on imports from outside the EU. The UK was a member until it left the EU, and its trade with the EU is now governed by a trade agreement. Trade with the EU is still very important for UK firms.
 
 Link the EU to the benefits above, then weigh them against drawbacks such as loss of national control over some rules and the cost of membership.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--02-trade-blocs.webp" width="900" height="1090" alt="Three panels with member countries A, B, C and a non-member. In a free trade agreement members trade freely with each other but each charges its own tariff on non-members. A customs union adds one common tariff. The EU also has a single market where goods, services, capital and people move freely." loading="lazy">
+  <figcaption>Each step adds something: free trade inside, then a common external tariff, then a single market.</figcaption>
+</figure>
+
 
 ## 4.2 The balance of payments on current account
 
@@ -175,6 +204,17 @@ Causes of a deficit:
 
 Causes of a surplus are the opposite: a weaker exchange rate, strong productivity, weak domestic demand, abundant resources to export, or investment income earned abroad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ### Evaluating the importance of the current account to the UK
 
 Points for importance:
@@ -194,6 +234,27 @@ Points against:
 ### Worked example 5: same size, different meaning (illustrative)
 
 Country E and Country F each have a deficit of CU 48 billion. E's GDP is 800, so the deficit is 6.0% of GDP; F's GDP is 1,200, so it is 4.0%. If E's imports are mostly consumer goods and F's are machinery, F's deficit is less worrying, because the machines raise future output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--03-current-account-waterfall.webp" width="900" height="860" alt="A waterfall chart for Country A in CU billion: goods -55, services +70, primary income -15, secondary income -25, giving a balance of -25. Credits of 615 less debits of 640 is a deficit of CU 25 billion, 2.0% of a GDP of 1,250." loading="lazy">
+  <figcaption>Four parts of the current account add up to a deficit of CU 25 billion, 2.0% of GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--04-export-import-trend.webp" width="900" height="880" alt="A line chart for Country B shows exports rising from 120 to 158 and imports from 140 to 151 over five years. The balance goes -20, -11, -21, +1, +7, switching to surplus in year 4 when exports rose 14.5% while imports fell. Exports grew 31.7% and imports 7.9% overall." loading="lazy">
+  <figcaption>The balance switches from deficit to surplus in year 4 because exports rose while imports fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--09-same-deficit-different-gdp.webp" width="900" height="800" alt="Two bars to the same scale: Country E GDP 800 and Country F GDP 1,200, each with a deficit of 48. That is 6.0% of GDP for E and 4.0% for F, and F is less worrying if its imports are mostly machinery." loading="lazy">
+  <figcaption>The same deficit is a bigger share of a smaller economy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--10-current-account-four-parts.webp" width="900" height="880" alt="A waterfall in CU billion: goods -55, services +70, primary income -15, secondary income -25, ending at a balance of -25 (credits 615 less debits 640). Goods and services total +15, income flows -40, and the deficit is 2.0% of GDP of 1,250." loading="lazy">
+  <figcaption>The four parts of the current account add up to the overall balance.</figcaption>
+</figure>
+
 
 ## Common errors
 

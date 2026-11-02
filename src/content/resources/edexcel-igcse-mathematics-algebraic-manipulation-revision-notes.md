@@ -34,9 +34,26 @@ x^(1/n) = nth root of x    (fractional power = a root)
 
 Treat these as **three separate rules**, not one blurred idea of "powers can look different." Index laws for combining powers only apply to the **same base**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+
 ## Expanding three linear expressions (2.2A)
 
 **Systematic method:** multiply the first two brackets fully, simplify, **then** multiply by the third bracket — don't attempt all three at once, where arithmetic slips creep in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes--02-expand-three-brackets.webp" width="900" height="980" alt="Multiply the first two brackets to get x squared plus 3x plus 2, then multiply by x minus 3 using a grid. The two x squared terms cancel, leaving x cubed minus 7x minus 6, checked at x = 4 where both forms equal 30." loading="lazy">
+  <figcaption>Multiply two brackets fully, then multiply by the third, and collect like terms.</figcaption>
+</figure>
+
 
 ## Factorising quadratics (2.2B)
 
@@ -60,6 +77,17 @@ a = 2, b = 1.5, c = -5.5
 
 **The single most common error:** forgetting to multiply the adjustment term (−2.25) by the factored-out coefficient (2) before combining with the constant already outside the bracket.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes--03-complete-square-vertex.webp" width="900" height="1000" alt="A parabola y = 2x squared + 6x minus 1 with its lowest point marked at (minus 1.5, minus 5.5). The working shows 2 times 2.25 = 4.5 being combined with the minus 1 to give 2(x + 1.5) squared minus 5.5." loading="lazy">
+  <figcaption>The completed-square form shows the turning point: a = 2, b = 1.5, c = -5.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes--06-factorise-or-complete.webp" width="900" height="1000" alt="Two parabolas. y = x squared + 6x + 5 crosses the x-axis at minus 5 and minus 1, so factorise to (x + 1)(x + 5). y = x squared + 4x + 1 crosses at about minus 3.73 and minus 0.27, not whole numbers, so complete the square to (x + 2) squared minus 3." loading="lazy">
+  <figcaption>If the roots are whole numbers factorise; if not, complete the square.</figcaption>
+</figure>
+
+
 ## Algebraic fractions (2.2C)
 
 Combines several skills at once: **factorise → cancel common factors → find a common denominator**. Revise this **only after 2.2B is genuinely fluent** — a factorising weakness will surface here.
@@ -79,6 +107,22 @@ Result: (2x^2 - 2x + 3) / [(x + 2)(x - 1)]
 ```
 
 **Two commonly rushed steps:** expanding each bracket fully first, and subtracting the **entire second numerator**, not just its first term.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes--04-subtract-whole-numerator.webp" width="900" height="890" alt="Subtracting only the first term of (x squared minus 4) gives 2x squared minus 2x minus 5, worth 0.7 at x = 3. Subtracting the whole bracket gives 2x squared minus 2x + 3, worth 1.5 at x = 3, which matches the original expression." loading="lazy">
+  <figcaption>Subtract the entire second numerator: every sign in it flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ## Proof using algebra (2.2E)
 
@@ -114,6 +158,12 @@ Sub-topics 2.1 and 2.2 are the toolkit every later sub-topic in Topic 2 (Equatio
 ## A note on proof by algebra (2.2E)
 
 A typical exam task: "Prove that the sum of any two consecutive odd numbers is always even." Represent the first odd number generally as 2n + 1 (for any integer n), so the next consecutive odd number is 2n + 3. Their sum is (2n + 1) + (2n + 3) = 4n + 4 = 4(n + 1), which is a multiple of 4 and therefore always even, for **every** integer value of n -- not just the specific examples you might check by hand. Representing the unknown generally, rather than proving the claim only for a few chosen numbers, is what separates a genuine algebraic proof from an unconvincing pattern-spotting answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes--05-consecutive-odds-proof.webp" width="900" height="854" alt="Rows for n = 0 to 4 show sums 4, 8, 12, 16 and 20 as groups of four blocks. The general result (2n + 1) + (2n + 3) = 4(n + 1) holds for every integer n." loading="lazy">
+  <figcaption>Writing the numbers as 2n + 1 and 2n + 3 proves the result for all n, not just the examples.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -131,6 +131,22 @@ Pulse counts over 15 s: rest 18, immediately after exercise 42, two minutes late
 
 An ECG sensor gives the same information. At a chart speed of 25 mm/s, an R-to-R distance of 21 mm is 21 ÷ 25 = 0.84 s, so heart rate = 60 ÷ 0.84 = 71 beats per minute. Control exercise intensity and time, use the same volunteer, and repeat for reliability. Use healthy, consenting volunteers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--08-heart-rate-control.webp" width="900" height="1170" alt="Feedback loop: chemoreceptors and pressure receptors signal the cardiac control centre in the medulla, which uses the sympathetic nerve to speed up or the vagus to slow down the SAN. Adrenaline (OCR) also acts on the SAN. Bars show rest, exercise and recovery rates with blood pH." loading="lazy">
+  <figcaption>Heart rate is adjusted by negative feedback using opposite nerves.</figcaption>
+</figure>
+
+
 ## 5.1.5(l) Muscle
 
 ### Types of muscle

@@ -57,6 +57,12 @@ The two connect. A business with a rehearsed plan still has to manage the crisis
 
 **Worked example: telling them apart.** Vessmere Frozen Foods runs a cold store holding frozen meals for supermarkets. In March the managers write a procedure for a power cut: a standby generator, a call list and a contract with a refrigerated transport firm. That is contingency planning, because no outage has happened. In October a storm cuts the grid at 02:00. The night manager starts the generator, the operations director phones the supermarkets by 06:00 and a statement goes on the website by noon. That is crisis management, because the event is live. The plan shaped the response, yet the choices about which pallets to move first were made on the night.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--09-crisis-timeline.webp" width="900" height="1000" alt="A timeline for Vessmere Frozen Foods. In March the managers prepare a standby generator, a call list and a refrigerated transport deal (contingency planning). At 02:00 in October a storm cuts the grid. Crisis management follows: generator at 02:00, supermarkets phoned by 06:00, statement on the website by noon. A dashed arrow shows lessons feeding back into plans." loading="lazy">
+  <figcaption>Contingency planning happens before the event; crisis management happens during it.</figcaption>
+</figure>
+
+
 ## Factors that affect effective crisis management
 
 The guide lists four factors: transparency, communication, speed and control. They interact, so a strong answer rarely treats one in isolation.
@@ -95,6 +101,17 @@ Limits: too rigid a structure slows decisions, and a leader who holds every deci
 | Control | Duplicated or conflicting actions; no clear decision-maker |
 
 **Worked example: applying the factors.** Quantock Cycles finds that a batch of brake cables may snap. Within hours the managing director names a three-person crisis team (control), stops shipments and tells retailers by phone (speed and communication), and posts the batch numbers and a refund offer online, including that the cause is still being investigated (transparency). Suppose a rival waited a week and then denied any link. Customers judge the first firm as open and the second as evasive. Your explanation should name the factor, say what the business did, and state the effect on a stakeholder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--10-crisis-four-factors.webp" width="900" height="940" alt="Four tiles: transparency (eye) - if missing, loss of trust; communication (speech bubbles) - mixed messages; speed (stopwatch) - damage spreads; control (chain of command) - conflicting actions." loading="lazy">
+  <figcaption>Each factor, when missing, has a likely effect on stakeholders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--06-quantock-four-factors.webp" width="900" height="1020" alt="Quantock names a crisis team (control), stops shipments (speed), phones retailers (communication) and posts batch numbers and a refund while saying the cause is under investigation (transparency): customers see an open firm. A supposed rival waits a week then denies any link: speed and transparency missing, customers see an evasive firm." loading="lazy">
+  <figcaption>Each factor named, what the firm did, and the effect on customers.</figcaption>
+</figure>
+
 
 ## The impact of contingency planning: cost, time, risks, safety
 
@@ -141,6 +158,17 @@ Expected loss with the plan = 0.25 × 20,000 × 5 = 25,000.
 Total cost with the plan = 120,000 + 25,000 = 145,000, which is 55,000 less than 200,000.
 
 On the numbers alone the generator is worth buying. A balanced answer then adds what the numbers leave out. The 25% is an estimate, so a lower real chance would shrink the saving. Spoiled stock, lost customers and the safety of staff in a dark building are not fully priced. The generator also needs testing, or it may fail when needed. The judgement: invest, as long as maintenance and testing really happen. Expected-loss working is a standard way to compare options, not a formula given in the guide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--11-plan-expected-loss.webp" width="900" height="860" alt="Two bars over five years in dollars. With no generator the expected loss is 200,000. With it the plan costs 90,000 installation plus 30,000 maintenance and leaves 25,000 expected loss: 145,000, a saving of 55,000. The 25 percent yearly chance is an estimate." loading="lazy">
+  <figcaption>On these estimates the generator saves 55,000, but the saving depends on the estimated risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--07-plan-time-risk-safety.webp" width="900" height="800" alt="Three rows (time, risks, safety) each give a gain and a catch. Time: staff know roles, faster restart; planning and rehearsal take time. Risks: fewer or smaller events; unimagined events, old plans and false confidence. Safety: evacuation, first aid and shutdown protect people; training and drills needed." loading="lazy">
+  <figcaption>Time, risks and safety each have a gain and a catch to weigh.</figcaption>
+</figure>
+
 
 ## Writing AO3 answers on this section
 

@@ -38,6 +38,17 @@ Read this as a sequence. Each step needs the one before.
 5. **A2.1.2 and A2.1.3** Cells are the smallest self-sustaining units; their origin needs catalysis, self-replication, self-assembly and compartmentalisation.
 6. **A2.1.7 to A2.1.9** LUCA, its date, and its likely home near hydrothermal vents.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--01-early-earth.webp" width="900" height="860" alt="Schematic of early Earth: strong ultraviolet light reaches the surface because there is no ozone layer, the air has much CO2 and CH4 but almost no O2, and lightning and UV supply energy. Carbon compounds form spontaneously in the water, before any cells exist." loading="lazy">
+  <figcaption>Early Earth had no ozone layer and little oxygen; energy from UV and lightning drove pre-biotic formation of carbon compounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--04-fatty-acid-vesicles.webp" width="900" height="790" alt="A fatty acid has a hydrophilic head and a hydrophobic hydrocarbon tail. In water many of them coalesce into a spherical bilayer, a vesicle, with tails inward and heads facing water on both sides, enclosing an inside that can differ from the outside." loading="lazy">
+  <figcaption>Fatty acids spontaneously form vesicles whose inside can hold different chemistry from the outside.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Meaning |
@@ -63,6 +74,17 @@ Read this as a sequence. Each step needs the one before.
 
 Always give both columns when the command word is evaluate, then reach a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--02-miller-urey-apparatus.webp" width="900" height="1050" alt="The closed glass loop of the Miller-Urey experiment: water is boiled, the vapour passes methane, ammonia and hydrogen with electric sparks, is cooled and condensed, and products collect in a trap while water returns to the flask. After days, amino acids were found." loading="lazy">
+  <figcaption>The Miller-Urey apparatus: boil, spark, cool, collect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--03-miller-urey-data.webp" width="900" height="890" alt="Line graph of amino acids in the trap on days 3 and 7. With sparks the amount rises from 14 to 41 micromoles (6.75 micromoles per day, +193%); the control stays near 0.1 to 0.4 micromoles, about 0.98% of the sparks yield." loading="lazy">
+  <figcaption>The worked example as a graph: the gradient is the rate, and the control shows the energy input is needed.</figcaption>
+</figure>
+
+
 ## Living versus non-living
 
 A cell shows the characteristics of life using its own machinery: metabolism, response, homeostasis, growth, reproduction, nutrition and excretion. Viruses are non-living because they have no cytoplasm, no ribosomes, few or no enzymes, and no metabolism of their own. They reproduce only inside a host.
@@ -74,6 +96,12 @@ A cell shows the characteristics of life using its own machinery: metabolism, re
 - Evidence: ribozymes in the ribosome still catalyse peptide bond formation.
 - Later: DNA took over information storage, proteins took over catalysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--05-rna-first.webp" width="900" height="990" alt="RNA is copied by base pairing (A with U, G with C) and can also catalyse reactions as a ribozyme, for example forming peptide bonds in the ribosome. One molecule type could do both jobs; later DNA became the store and proteins the main catalysts." loading="lazy">
+  <figcaption>RNA can carry information and catalyse, avoiding the DNA versus protein chicken-and-egg problem.</figcaption>
+</figure>
+
+
 ## LUCA: evidence and dating
 
 | Evidence for LUCA | Link to vents | Dating methods |
@@ -83,6 +111,12 @@ A cell shows the characteristics of life using its own machinery: metabolism, re
 | Other lineages probably became extinct | Anaerobic, hydrogen-using organism inferred | Molecular clocks |
 
 Remember the nature of science point: the first protocells did not fossilise and pre-biotic conditions cannot be recreated, so hypotheses here are hard to test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--06-earth-clock.webp" width="900" height="780" alt="A 24-hour clock stands for 4540 million years. Oldest accepted evidence of life, 3480 million years ago, falls at 5.6 hours (05:36), so life has been present for about 77% of Earth history." loading="lazy">
+  <figcaption>Earth's 4540 million years on a 24-hour clock: life appears at 05:36 and spans 77% of the time.</figcaption>
+</figure>
+
 
 ## A2.3 Viruses
 
@@ -110,6 +144,12 @@ Small fixed size, DNA or RNA genetic material, protein capsid, no cytoplasm, few
 
 Method for a lytic cycle answer: attach, inject, synthesise, assemble, lyse. Name the order every time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--08-phage-life-cycles.webp" width="900" height="1200" alt="After a phage attaches and injects its DNA, the lytic cycle copies DNA, makes and assembles capsids and ends with lysis, releasing new phages (240 per cell in the worked example). In the lysogenic cycle the DNA integrates as a prophage, is copied at each division, and stress can trigger induction and the lytic cycle." loading="lazy">
+  <figcaption>Lambda phage after injection: the lytic route to lysis, or the lysogenic route with a prophage that can be induced.</figcaption>
+</figure>
+
+
 ### Origins and evolution (A2.3.5 and A2.3.6)
 
 - Diversity suggests several origins.
@@ -118,6 +158,17 @@ Method for a lytic cycle answer: attach, inject, synthesise, assemble, lyse. Nam
 - Fast evolution: short generations, large numbers, high mutation rate, no proofreading in many RNA viruses.
 - Influenza: gradual change by point mutations, sudden change by mixing segments; vaccines reformulated.
 - HIV: error-prone reverse transcriptase; resistance arises; combination drug treatment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--07-virus-structures.webp" width="900" height="1110" alt="Bacteriophage lambda has a capsid head with double-stranded DNA, a tail and no envelope. Coronaviruses and HIV are enveloped with single-stranded RNA; coronaviruses carry spike proteins, HIV carries reverse transcriptase. All have nucleic acid and a capsid and no cytoplasm." loading="lazy">
+  <figcaption>Three viruses compared: genetic material, capsid, envelope and enzymes (schematic, not to scale).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--09-hiv-mutations.webp" width="900" height="1060" alt="Reverse transcriptase makes errors copying HIV RNA to DNA. With 9700 nucleotides and an error rate of 3.0 x 10^-5 per nucleotide, there are 0.29 mutations per genome; in 100 new copies, 75 are identical, 22 carry one mutation and 3 carry two, so about 1 in 4 differs from its parent." loading="lazy">
+  <figcaption>HIV mutation rate: 0.29 mutations per genome means about one new genome in four differs from its parent.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -69,11 +69,28 @@ These notes condense section P1.4 (Integration) of the OxfordAQA International A
 
 Swap the limits and the answer changes sign. If both limits are equal the integral is zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--05-improper-integral.webp" width="900" height="800" alt="The area under y = 8/x³ from x = 2 to x = R is 1 − 4/R². It equals 0.75, 0.96 and 0.9996 for R = 4, 10 and 100, and tends to 1 as R grows. Cambridge 9709 only." loading="lazy">
+  <figcaption>An infinitely long region can still have a finite area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
+
 ## Areas
 
 ### Under a curve
 
 Check the curve is above the x-axis on the interval, then integrate between the limits. If the question names the region as "between the curve and the x-axis" with no limits, the limits are where the curve meets the axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
 
 ### Below the axis
 
@@ -101,6 +118,22 @@ Area = ∫ from −2 to 2 of (12 − 3x²) dx = [12x − x³] = (24 − 8) − (
 Integrate, substitute the unknown limit, set equal to the given value, then solve.
 
 **Reminder.** ∫₀ᵏ 6x^(1/2) dx = 108: [4x^(3/2)]₀ᵏ = 4k^(3/2) = 108, so k^(3/2) = 27 and k = 27^(2/3) = 9.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--02-area-below-axis.webp" width="900" height="760" alt="The curve y = x² − 3x lies below the x-axis from 0 to 3 (integral −9/2) and above it from 3 to 4 (integral 11/6). The area is found by adding the sizes, 19/3, whereas the single integral from 0 to 4 is −8/3." loading="lazy">
+  <figcaption>Regions below the axis give negative integrals, so find the area in separate pieces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--03-area-between-curves.webp" width="900" height="764" alt="The parabola y = 6x − x² and line y = 2x meet at (0, 0) and (4, 8). The region between is cut into vertical strips of height top minus bottom, 4x − x². The integral of that from 0 to 4 is 32/3." loading="lazy">
+  <figcaption>The area between two curves is the integral of the top curve minus the bottom curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
+</figure>
+
 
 ## Trapezium rule
 
@@ -151,6 +184,12 @@ Use more strips (a smaller h). The estimate moves towards the true value, from t
 4. Integrate each power carefully, then substitute the upper limit and the lower limit.
 5. Subtract, simplify, and state the area as a positive number with units if given.
 6. Look at the size of the answer. An area that is far larger than the rectangle around the region has a slip in it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--04-limit-of-a-sum.webp" width="900" height="886" alt="Six rectangles of width 0.5 under y = 2x + 1 give lower and upper totals 10.5 and 13.5. With 30 and 300 strips the bounds tighten to 11.7 to 12.3 and 11.97 to 12.03. The limit is the integral, 12. AQA and OCR content." loading="lazy">
+  <figcaption>As strips get thinner, the rectangle sums close in on the integral.</figcaption>
+</figure>
+
 
 ## Checking your work
 

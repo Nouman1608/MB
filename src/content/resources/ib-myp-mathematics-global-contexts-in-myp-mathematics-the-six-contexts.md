@@ -60,6 +60,12 @@ Two rules from the guide are worth remembering exactly:
 
 The last two columns are Marlbridge suggestions, not the guide's list. The guide names the contexts and leaves the units to the school.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--01-six-global-contexts.webp" width="900" height="800" alt="Six tiles, each with a simple icon. Identities and relationships: two linked people. Orientation in space and time: a compass. Personal and cultural expression: a four-petal pattern. Scientific and technical innovation: a light bulb. Globalization and sustainability: a globe. Fairness and development: a balance scale. A teacher must choose one context for a unit; a context answers why the mathematics matters." loading="lazy">
+  <figcaption>The six contexts, each with an icon.</figcaption>
+</figure>
+
+
 ## Key concepts and related concepts
 
 The guide's Table 1 lists sixteen key concepts across the MYP. Mathematics contributes three: form, logic and relationships. Other key concepts can also be used. In the guide's wording:
@@ -110,6 +116,12 @@ No context is tied to one branch. Volume appears under fairness and quadratics u
 
 The guide uses an SOI to generate factual, conceptual and debatable questions (its Table 4). Factual questions recall facts. Conceptual questions analyse big ideas. Debatable questions weigh perspectives. One SOI should produce all three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--02-statement-of-inquiry-builder.webp" width="900" height="800" alt="Three cards feed into one sentence. Key concept: relationships. Related concepts: models and representation. Global context: identities and relationships. Arrows from the three cards point to the statement of inquiry: Modelling a relationship lets a group choose between options. Two struck-out examples are shown below: a topic title (Ratio and proportion) and a question (How do we choose a hall?), neither of which is a statement of inquiry." loading="lazy">
+  <figcaption>A statement of inquiry joins a key concept, related concepts and a context.</figcaption>
+</figure>
+
+
 ## Worked examples
 
 Each example names the context, does the mathematics, then says what it means.
@@ -136,6 +148,12 @@ A map has scale 1 : 50 000. A trail runs 3 cm east then 4 cm north on the map.
 
 Conclusion: the direct line saves 12 minutes, but it ignores terrain, so the answer is only valid if the ground allows a straight walk. Possible SOI: logic lets us trust distances we cannot walk or measure directly. Key concept logic; related concepts validity and space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
+
 ### Example 3: personal and cultural expression (MYP 4-5)
 
 Tessellations are in the standard column of the framework. A designer tiles a floor with regular octagons and small squares.
@@ -146,6 +164,12 @@ Tessellations are in the standard column of the framework. A designer tiles a fl
 4. Area changes from 1600 cm² to 3600 cm². The ratio is 3600 ÷ 1600 = 2.25, which is 1.5².
 
 Conclusion: lengths scale by 1.5 but area scales by 2.25, so ordering tiles by edge length underestimates the material needed. Possible SOI: understanding how shapes fit together and scale gives designers freedom. Key concept form; related concepts patterns and space.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
 
 ### Example 4: scientific and technical innovation (MYP 4-5)
 
@@ -158,6 +182,12 @@ A battery keeps 97% of its capacity each year. Capacity after n years is 100 × 
 The capacity first falls below 80% by the end of year 8. (Extended: logarithms give n = ln 0.8 ÷ ln 0.97, about 7.33, so the answer during year 8 is consistent.)
 
 Conclusion: the model assumes a constant yearly percentage loss. Real batteries may not behave this way, so state that the model is a simplification. Possible SOI: simplifying a pattern into a model helps us test an innovation. Key concept relationships; related concepts models and simplification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
+
 
 ### Example 5: globalization and sustainability (MYP 4-5 standard)
 
@@ -181,6 +211,37 @@ School A has 300 pupils and 18 computers. School B has 150 pupils and 12 compute
 4. So 2 computers should move from B to A.
 
 Conclusion: totals can hide an unfair share. Possible SOI: choosing a fair basis for comparison changes the decision we make. Key concept relationships; related concepts quantity and equivalence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--03-hall-cost-crossover.webp" width="900" height="870" alt="A graph of cost against number of guests n from 0 to 50. Hall A costs 150 plus 8 per guest, a line starting at 150. Hall B costs 14 per guest, a steeper line starting at 0. They cross at n = 25 where both cost 350. Left of 25 guests hall B is cheaper (20 guests: 280 against 310); right of 25 guests hall A is cheaper (40 guests: 470 against 560)." loading="lazy">
+  <figcaption>The two hall plans cost the same at 25 guests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--04-octagon-square-tiling.webp" width="900" height="790" alt="A floor pattern of regular octagons and small squares. At one highlighted corner two octagons and one square meet. Each octagon has interior angle (8 - 2) x 180 / 8 = 135 degrees and the square has 90 degrees. 135 + 135 + 90 = 360, so the tiles fit around the point with no gaps." loading="lazy">
+  <figcaption>Two octagons and one square meet with no gap: 135 + 135 + 90 = 360.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--06-freight-emissions.webp" width="900" height="780" alt="Two horizontal bars to the same scale. Imported fruit travels 9000 km by sea producing 1188 kg of carbon dioxide and 150 km by road producing 180 kg, a total of 1368 kg or 114 kg per tonne. Local fruit travels 40 km by road producing 48 kg, or 4 kg per tonne. The imported total is 28.5 times the local one. The comparison covers transport only." loading="lazy">
+  <figcaption>Imported fruit gives 1368 kg of CO2 against 48 kg for local fruit, 28.5 times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--07-battery-decay-years.webp" width="900" height="860" alt="A bar chart of battery capacity for years 0, 3, 5, 7 and 8: 100, 91.3, 85.9, 80.8 and 78.4 percent, from 100 times 0.97 to the power n. A dashed line marks 80 percent. Year 7 is just above it and year 8 is below it, so the capacity first falls below 80 percent in year 8. Extended: logarithms give n about 7.33." loading="lazy">
+  <figcaption>Battery capacity falls below 80% in year 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--08-tile-scale-factor-area.webp" width="900" height="780" alt="A square tile of side 40 cm, area 1600 square centimetres, made of 4 blocks of 20 by 20 cm, beside an enlarged tile of side 60 cm, area 3600 square centimetres, made of 9 blocks. Lengths are multiplied by 1.5 and area by 2.25, which is 1.5 squared, since 3600 divided by 1600 is 2.25." loading="lazy">
+  <figcaption>Scale factor 1.5 multiplies area by 2.25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
 
 ## Link to criterion D
 

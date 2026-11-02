@@ -55,6 +55,12 @@ Terms matter. Under a floating system a currency **appreciates** or **depreciate
 
 The percentages differ because each starts from a different base. Quote the currency you are asked about.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--06-quote-direction-percent.webp" width="900" height="810" alt="When the rate moves from 2.50 to 2.80 luma per bex, the luma depreciates 10.7 percent in bex terms while the bex appreciates 12.0 percent in luma terms. A 40-bex good rises from 100 to 112 luma." loading="lazy">
+  <figcaption>The same rate move gives different percentages because the base differs.</figcaption>
+</figure>
+
+
 ## 2. How exchange rates are determined
 
 ### Floating system
@@ -86,6 +92,12 @@ D1 is demand after the rise in exports. S and D cross at X1; S and D1 cross at X
 
 A shift of demand to the right (or supply to the left) raises the rate. A shift of demand to the left (or supply to the right) lowers it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ### Fixed system
 
 In a **fixed** (pegged) system the central bank commits to a target rate, often against another currency or a basket. The market curves still exist, but the central bank must stop the rate leaving the target.
@@ -98,6 +110,12 @@ Take Example 2 with a peg at 0.40 bex per luma and the demand rise of 200.
 Now reverse it: demand falls by 200, so Qd = 800 − 1000p. At 0.40, Qd = 400 and Qs = 600, an excess supply of 200 lumas. The central bank must buy 200 lumas and spend 80 bex of reserves. Reserves are finite, so intervention alone cannot defend a peg under sustained selling.
 
 Other defences: raise interest rates to attract capital (a rightward shift of demand), tighten capital controls, or accept a **devaluation**. Each has a cost (Section 8).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--03-peg-defence.webp" width="900" height="970" alt="The market for lumas has supply S and demand D that shifts right to D1. Floating, the rate would rise from 0.40 to 0.50. Pegged at 0.40, D1 gives excess demand of 200 lumas, so the central bank sells 200 lumas and gains 80 bex of reserves. If demand fell instead it would have to spend reserves." loading="lazy">
+  <figcaption>At a peg below the market rate the central bank must sell 200 lumas and its reserves rise by 80 bex.</figcaption>
+</figure>
+
 
 ## 3. Measures of exchange rates
 
@@ -117,6 +135,12 @@ A currency may rise against one partner and fall against another. The **effectiv
 - EER = (0.50 × 110) + (0.30 × 95) + (0.20 × 90) = 55 + 28.5 + 18 = 101.5.
 - The luma rose against B, fell against C and D, and rose 1.5% overall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--04-effective-exchange-rate.webp" width="900" height="930" alt="A stacked bar shows trade weights of 50, 30 and 20 percent for partners B, C and D. Bars show bilateral indices of 110, 95 and 90 against 100. The weighted sum is 55 plus 28.5 plus 18, which is 101.5, so the luma rose 1.5 percent overall." loading="lazy">
+  <figcaption>The effective exchange rate weights each bilateral index by trade share.</figcaption>
+</figure>
+
+
 ### Nominal and real
 
 A **real** rate adjusts for relative inflation. A simple bilateral version is real rate = nominal rate (foreign currency per unit of home currency) × home price level ÷ foreign price level. A rising real rate means home goods are becoming dearer relative to foreign goods.
@@ -126,6 +150,12 @@ A **real** rate adjusts for relative inflation. A simple bilateral version is re
 - Next year the nominal rate is unchanged at 0.40, but prices are 110 in A and 102 in B.
 - Real rate = 0.40 × 110 ÷ 102 = 0.4314, an index of 107.8.
 - A real appreciation of 7.8% occurred with no nominal change. Had the luma also depreciated nominally to 0.36, the real rate would be 0.36 × 110 ÷ 102 = 0.3882, an index of 97.1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--05-real-exchange-rate.webp" width="900" height="850" alt="Bars show the real exchange rate index. Base year 100. With the nominal rate unchanged at 0.40 but prices up to 110 and 102 the real index is 107.8. If the nominal rate also falls to 0.36 the real index is 97.1." loading="lazy">
+  <figcaption>A real appreciation can happen with no nominal change, because relative prices matter.</figcaption>
+</figure>
+
 
 ## 4. Trends in exchange rate data
 
@@ -139,6 +169,12 @@ Read a series for direction (a rising value index means appreciation), size, tur
 - Explanation: a rising phase, a reversal after Year 3 and a partial recovery. The average (101.7) hides a swing of 13 index points (109 to 96). Link turning points to causes and say whether each is temporary.
 
 Where a nominal index falls but the real index does not, relative inflation has absorbed the depreciation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--07-eer-trend-reading.webp" width="900" height="880" alt="A six-year effective exchange rate index runs 100, 104, 109, 103, 96, 98. It peaks at 109 in year 3 and bottoms at 96 in year 5, a fall of 11.9 percent. Over the whole period it falls 2.0 percent." loading="lazy">
+  <figcaption>Read direction, size and turning points, not just the average.</figcaption>
+</figure>
+
 
 ## 5. Causes of exchange rate changes
 
@@ -173,6 +209,12 @@ Consequences to weigh:
 
 Judge by size, time lags, openness and how much capacity is idle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--06-depreciation-effects.webp" width="900" height="1040" alt="Three before and after bar pairs: a 50-bex component rises from 125 to 138.89 luma; a 200-luma export falls from 80 to 72 bex for the foreign buyer; a 500-bex debt rises from 1,250 to 1,388.9 luma. With imports 20 percent of spending the direct price effect is about 2.2 points." loading="lazy">
+  <figcaption>A fall in the luma makes imports and foreign debt dearer in luma and exports cheaper abroad.</figcaption>
+</figure>
+
+
 ## 7. Hybrid systems
 
 A **hybrid** (managed or intermediate) system mixes features of fixed and floating. The market sets the rate day to day, but the central bank intervenes, sets a band, or steers the rate against a basket.
@@ -184,6 +226,12 @@ A **hybrid** (managed or intermediate) system mixes features of fixed and floati
 | Crawling peg | Target rate adjusted gradually by a set rule |
 
 **Current examples.** Treat classifications as changeable and check the latest International Monetary Fund (IMF) table before an exam. In its 2023 report, the IMF classes China as an "other managed arrangement" and Singapore as a "crawl-like arrangement". Singapore uses the exchange rate as its main monetary policy tool. A currency board, as in Hong Kong, is a hard peg rather than a hybrid: it contrasts with the managed floats above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--07-exchange-rate-systems.webp" width="900" height="1160" alt="Five small time series: a flat fixed peg, a slow staircase for a crawling peg, a line confined to a shaded band, a smoothed managed float and a volatile free float, with an arrow from less to more flexible." loading="lazy">
+  <figcaption>Systems range from a flat fixed peg to a free float, with hybrids between.</figcaption>
+</figure>
+
 
 ## 8. Merits and drawbacks of different systems
 

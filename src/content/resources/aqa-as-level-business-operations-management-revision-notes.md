@@ -44,6 +44,17 @@ For any operations case study, ask five questions the specification tells you to
 - External influences: competitors, customers, technology, suppliers, legislation, environmental concern.
 - Objectives can clash (low cost against high quality), so a judgement is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--06-ops-three-measures.webp" width="900" height="990" alt="Three pairs of bars: labour productivity 800 to 900 loaves per employee (+12.5%), unit cost 0.80 to about 0.77 pounds (-4.2%), capacity utilisation 80% to 90%." loading="lazy">
+  <figcaption>Higher output spreads fixed costs, so unit cost falls as productivity and utilisation rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+
 ## 3.4.2 Operations data
 
 | Measure | Standard form |
@@ -92,6 +103,22 @@ Use of data: supports decisions on hiring, equipment, suppliers and orders. Limi
 
 Technology: automation, computer-aided design and manufacture, robots and online links with customers and suppliers. Gains: speed and fewer errors. Costs: investment, training, system failure, job losses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--07-ops-labour-vs-capital.webp" width="900" height="1086" alt="Total cost lines for hand (4,000 + 22 a door) and machine (14,500 + 10 a door) cross at 875 doors and 23,250 pounds. Hand is cheaper below, machine above. Per-door costs at 600 and 1,200 doors are shown." loading="lazy">
+  <figcaption>The machine line is the better choice only if demand is reliably above 875 doors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ## 3.4.4 Quality
 
 - Importance: repeat sales, reputation, price premium, fewer returns.
@@ -99,6 +126,12 @@ Technology: automation, computer-aided design and manufacture, robots and online
 - Other methods: training, better materials and equipment, customer feedback.
 - Benefits: fewer complaints and less waste. Difficulties: cost, time, staff resistance, customers may not pay more.
 - Consequences of poor quality: returns, wasted materials, lost sales, damaged reputation, compensation, low morale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ## 3.4.5 Inventory and supply chains
 
@@ -133,6 +166,27 @@ Chart reading: stock falls at the rate of use; an order is placed at the re-orde
 - Choice of supplier: price, quality, reliability, speed, flexibility, payment terms, location, ethics and environment.
 - Supply chain management: share information, build relationships, monitor performance, use technology. Value: lower cost, fewer delays, faster response.
 - Outsourcing: expertise, lower cost, focus on core work. Risks: less control, dependence, reputation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--06-ops-mereton-inventory.webp" width="900" height="970" alt="Stock starts at 750 and falls 50 a day. At day 8 it hits the re-order level of 350, the order of 600 arrives at day 12 when stock is at the 150 buffer, and the cycle repeats every 12 days." loading="lazy">
+  <figcaption>Mereton Foods drawn exactly: 50 a day, lead time 4, buffer 150, order 600.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--07-ops-match-supply-demand.webp" width="900" height="1060" alt="Illustrative weekly demand bars against a fixed capacity line. Gold shows demand above capacity, met by outsourcing or temporary staff; dashed gaps show spare capacity, where staff hours follow demand and goods are made to order." loading="lazy">
+  <figcaption>Demand above capacity needs extra supply; demand below it needs flexible staffing and make-to-order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--08-ops-mass-customisation.webp" width="900" height="1060" alt="Standard components (sole, upper, laces) plus customer options (colour and name) give each pair of trainers a unique look while the firm still produces in volume." loading="lazy">
+  <figcaption>Mass customisation combines standard parts with personalised options.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
 
 ## Case-study technique
 

@@ -62,6 +62,17 @@ Classify each: (a) the number of pages in a novel, (b) the time a kettle takes t
 - (b) Continuous. Time is measured and can take any value, such as 138.46 s.
 - (c) Qualitative. It is a category, not a number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--01-data-types.webp" width="900" height="800" alt="A tree splits data into qualitative (words or labels) and quantitative (numbers). Quantitative data is discrete (counted, such as goals, where 2.5 makes no sense) or continuous (measured, such as a time of 17.35 seconds)." loading="lazy">
+  <figcaption>Data is qualitative or quantitative; numbers are counted (discrete) or measured (continuous).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--03-class-intervals.webp" width="900" height="750" alt="Twenty puzzle times are dots on a number line from 5 to 30, split into classes of width 5 with counts 1, 5, 7, 5 and 2. Values exactly on a boundary, such as 15.0, belong to the class that starts there: 15 ≤ t &lt; 20 includes 15 and excludes 20." loading="lazy">
+  <figcaption>A boundary value goes in the class that starts at that value.</figcaption>
+</figure>
+
+
 ## 2. Extracting data from tables and lists (S2)
 
 Read the question first, so you know which row and column you need. Check the units in the heading. Then run a finger along the row and down the column until they meet.
@@ -87,6 +98,12 @@ Total = 6.50 + 9.80 + 14.25 = £30.55
 
 Exact boundary values are where marks are lost. Read the wording ("up to", "over") to decide which row a boundary value belongs to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--01-parcel-bands.webp" width="900" height="710" alt="A courier price list drawn as three weight bands, not to scale. Filled dots at 1 kg and 3 kg show the value belongs to the left band, open dots show it is not in the right band. Parcels of 1 kg, 2.4 kg and 3.1 kg fall in the first, second and third band, costing 6.50, 9.80 and 14.25 pounds, total 30.55 pounds." loading="lazy">
+  <figcaption>&quot;Up to&quot; includes the boundary and &quot;over&quot; excludes it, so each parcel has exactly one price band.</figcaption>
+</figure>
+
+
 ## 3. Two-way tables (S3)
 
 A two-way table sorts the same people or items by two features at once. Rows show one feature, columns the other, and totals go at the ends.
@@ -108,6 +125,12 @@ A film club has 80 members. 35 are under 16. 28 members chose comedy. 12 of the 
 Working: under 16 drama = 35 − 12 = 23. 16 or over = 80 − 35 = 45. 16 or over comedy = 28 − 12 = 16. 16 or over drama = 45 − 16 = 29. Check: 23 + 29 = 52 and 28 + 52 = 80.
 
 **Answer: 29 members.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--04-two-way-table.webp" width="900" height="888" alt="A two-way table of 80 club members by junior or adult and activity. Numbered badges show the order in which missing cells are found: adults 48, adult gym 12, junior gym 4, adult tennis 16, adult swimming 20. Totals 26, 38, 16 and 80 check both ways." loading="lazy">
+  <figcaption>Fill any cell whose row or column is otherwise known, then check totals both ways.</figcaption>
+</figure>
+
 
 ## 4. Averages and range for ungrouped data (S5, Core)
 
@@ -144,6 +167,17 @@ Never average two means. Use the totals.
 
 Example: 15 runners have a mean time of 52 minutes and 25 runners have a mean time of 64 minutes. Total = 15 × 52 + 25 × 64 = 780 + 1600 = 2380. Mean of all 40 = 2380 ÷ 40 = **59.5** minutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--07-combine-two-means.webp" width="900" height="790" alt="Figure showing: 15 runners with mean 52 and 25 runners with mean 64 give totals 780 and 1600, so the mean of all 40 is 59.5, not 58. Combine group means using totals, not by averaging the two means." loading="lazy">
+  <figcaption>Combine group means using totals, not by averaging the two means.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--01-three-averages.webp" width="900" height="770" alt="Six values 2, 3, 3, 4, 5, 13 on a dot plot. The mode is 3 (most common), the median is 3.5 (middle of 3 and 4), the mean is 30 divided by 6 = 5, and the range is 13 - 2 = 11. The large value 13 pulls the mean above the median." loading="lazy">
+  <figcaption>The mean, median, mode and range of one small list of data.</figcaption>
+</figure>
+
+
 ## 5. Frequency tables (S5)
 
 For a table of values x with frequencies f:
@@ -170,6 +204,17 @@ Both lie in the "2" group (positions 12 to 23), so median = 2
 Mode = 2 (frequency 12)
 Range = 5 − 0 = 5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--02-tea-median-strip.webp" width="900" height="720" alt="A strip of 40 boxes shows 40 office staff ordered by cups of tea: three 0s, eight 1s, twelve 2s, nine 3s, five 4s, three 5s, with cumulative frequencies 3, 11, 23, 32, 37, 40. The 20th and 21st boxes are highlighted and sit inside the group of 2s (positions 12 to 23), so the median is 2 cups." loading="lazy">
+  <figcaption>The cumulative frequency column locates positions 20 and 21 inside the group of 2s, so the median is 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--02-frequency-table-averages.webp" width="900" height="950" alt="A frequency table of pets owned by 20 students. Multiplying pets by students gives 0, 8, 8, 6 and 4, a total of 26, so the mean is 26 / 20 = 1.3. The mode is 1 and the median is 1." loading="lazy">
+  <figcaption>For a frequency table, multiply each value by its frequency, add, then divide by the total frequency.</figcaption>
+</figure>
+
 
 ## 6. Grouped data (S5)
 
@@ -200,6 +245,12 @@ Largest possible range = 28 − 8 = 20 minutes
 ```
 
 The mean is only an estimate because each commute is treated as if it took the midpoint time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
+</figure>
+
 
 ## 7. Quartiles, inter-quartile range and percentiles (S5, Extension only)
 
@@ -239,6 +290,17 @@ Build the cumulative frequency, then find the position. For 39 values, n + 1 = 4
 
 Position 10 falls in the group where the cumulative goes from 7 to 16, so Q1 = 3. Position 20 is in the group reaching 26, so the median = 4. Position 30 is in the group reaching 33, so Q3 = 5. IQR = 5 − 3 = **2**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--06-quartiles-by-position.webp" width="900" height="610" alt="Figure showing: Eleven sorted values with n+1 = 12; Q1 at position 3 is 22, median at position 6 is 27, Q3 at position 9 is 33; IQR = 11. Quartile positions are fraction × (n + 1) in the sorted list; IQR = Q3 − Q1." loading="lazy">
+  <figcaption>Quartile positions are fraction × (n + 1) in the sorted list; IQR = Q3 − Q1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
+
 ## 8. Choosing and comparing averages
 
 | Situation | Best choice | Reason |
@@ -248,6 +310,12 @@ Position 10 falls in the group where the cumulative goes from 7 to 16, so Q1 = 3
 | Fair share or total needed | Mean | Uses every value |
 | Spread, no outliers | Range | Simple, but uses only two values |
 | Spread, outliers present (Extension only) | IQR | Ignores the extremes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--03-mean-vs-extreme.webp" width="900" height="860" alt="Two dot plots on a 0 to 100 scale. The ten message counts from Worked example 4 have median 15.5 and mean 16.6. If the largest value 31 is changed to 91 (an illustrative change not in the lesson), the mean rises to 22.6 while the median stays at 15.5." loading="lazy">
+  <figcaption>One extreme value drags the mean but not the median, which is why the median is chosen when there is an outlier.</figcaption>
+</figure>
+
 
 ## Common errors
 

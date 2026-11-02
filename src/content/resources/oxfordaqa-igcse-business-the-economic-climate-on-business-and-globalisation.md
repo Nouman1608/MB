@@ -62,6 +62,12 @@ The specification names only "Sharia compliant alternatives". The three structur
 
 Because the cost is agreed in advance or linked to the business's results, a business using these routes may be less exposed to a change in the rate of interest. This is our own reasoning, not a statement from the specification. They are not free: payments can still be large, and a profit share gives up part of the earnings. Write "may be less exposed", not "is unaffected".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--05-sharia-finance.webp" width="900" height="1010" alt="Three rows: a lease (financier buys the asset and leases it for an agreed payment), a profit share (financier takes a share of results instead of interest), and an instalment sale (financier buys goods and sells them at an agreed price paid in instalments). A banner says the business may be less exposed to rate changes." loading="lazy">
+  <figcaption>Three general interest-free finance structures, which may leave a business less exposed to rate changes.</figcaption>
+</figure>
+
+
 ### Worked example: Bellmoor Bakehouse
 
 Bellmoor Bakehouse has a variable-rate loan of £120,000 and an average overdraft of £10,000. Its profit before interest is £30,000 a year. The rate on the loan rises from 6% to 8%, and the overdraft rate from 14% to 16%.
@@ -79,6 +85,17 @@ Fall in profit         = 2,600 / 21,400 = 12.15%
 
 Profit after interest falls by 12.2% (1 d.p.). The bakery also sells to households with mortgages, so sales of celebration cakes may fall too. A good answer names both channels and says which is bigger. Here the loan effect is certain and the fall in sales only possible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--05-bellmoor-rate-rise.webp" width="900" height="940" alt="Stacked bars of 30,000 profit before interest. Before: loan interest 7,200, overdraft 1,400, profit 21,400. After: 9,600, 1,600 and 18,800. Profit falls 2,600, which is 12.1%." loading="lazy">
+  <figcaption>Extra interest of 2,600 cuts profit after interest from 21,400 to 18,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+
 ## 3.2.3 Level of employment
 
 The level of employment is how many people who want work have jobs. It affects a business in three ways.
@@ -88,6 +105,12 @@ The level of employment is how many people who want work have jobs. It affects a
 3. Costs. Higher pay to attract or keep staff raises labour costs. In a weak jobs market, fear of redundancy makes households cautious and they spend less.
 
 The same change can help one business and hurt another. A restaurant gains from high employment because customers can afford to eat out, but it may find waiters harder to hire. Tie your answer to the type of business in the stem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--02-employment-effects.webp" width="900" height="1030" alt="High versus low employment compared on demand, recruitment and costs, each with a person icon and an arrow showing the direction of the effect." loading="lazy">
+  <figcaption>High and low employment change demand, recruitment difficulty and labour costs in opposite directions.</figcaption>
+</figure>
+
 
 ## 3.2.3 Consumer spending
 
@@ -112,6 +135,12 @@ Fall in revenue: 61,000 - 55,100 = 5,900, or 9.67% (9.7% to 1 d.p.)
 
 Trainers lose 5,400 of the 5,900. A good answer names the trainers, explains that people can postpone buying them, and suggests a response such as promoting the shoes or holding less trainer stock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--01-consumer-spending-fordhaven.webp" width="900" height="950" alt="Two bar pairs: school shoes revenue falls from 25,000 to 24,500 pounds (sales -2%); designer trainers from 36,000 to 30,600 pounds (sales -15%). Total falls from 61,000 to 55,100 (-9.7%) and trainers lose 5,400 of the 5,900." loading="lazy">
+  <figcaption>Luxuries that can be postponed lose far more revenue than necessities when incomes fall.</figcaption>
+</figure>
+
+
 ## 3.2.4 Forms of globalisation
 
 Globalisation is the growing links between countries, so that goods, services, money, people and ideas move more freely across borders. The specification names five features. Learn each as a short definition with a business consequence.
@@ -123,6 +152,22 @@ Globalisation is the growing links between countries, so that goods, services, m
 | Movement of labour | Workers move to other countries to find jobs | Employers get a wider pool of skills; the home country may lose skilled workers |
 | Larger markets | Barriers to trade fall, so a business can sell to customers worldwide, helped by online selling | More sales, and economies of scale |
 | International competition | Overseas firms can sell in your home market | Pressure on prices, quality and survival |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--03-globalisation-forms.webp" width="900" height="940" alt="Five rows with icons: specialisation by country, relative cost advantage, movement of labour, larger markets and international competition, each with a short meaning." loading="lazy">
+  <figcaption>The five named forms of globalisation, each with its meaning at a glance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
 
 ## 3.2.4 Benefits and drawbacks of globalisation
 
@@ -136,6 +181,12 @@ You are asked about businesses and about economies, in both developed and develo
 | Economies of developing countries | Jobs, tax receipts, new technology and skills | Profits may leave the country; local firms may close; workers may leave to find better pay |
 
 A strong answer picks one box and explains the chain. For example: a developing-country clothing maker has a relative cost advantage in labour, so overseas buyers place large orders, so it employs more people. That helps the business and, through jobs, the economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--06-globalisation-gains-losses.webp" width="900" height="950" alt="Grid of benefits and drawbacks for businesses and economies in developed and developing countries, taken from the lesson table." loading="lazy">
+  <figcaption>Keep the four boxes apart and explain one chain.</figcaption>
+</figure>
+
 
 ## 3.2.4 Exchange rates and business
 
@@ -173,6 +224,22 @@ A small, steady movement can be planned for. A sharp or unpredictable one cannot
 - a sudden loss of export sales if the home currency jumps in value
 
 Businesses respond by agreeing prices in advance, finding suppliers at home, or selling in several countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--04-pellanor-weak-currency.webp" width="900" height="1070" alt="Wood per chair rises from 40 to 44 pounds so profit per chair falls from 40 to 36. Yearly profit bars: 80,000 before; 64,800 at 1,800 chairs; 72,000 at 2,000; 79,200 at 2,200, so even 10% more sales leaves profit just below 80,000." loading="lazy">
+  <figcaption>A weaker home currency raises imported input costs, and extra sales may not make up the lost profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--07-severe-fluctuations.webp" width="900" height="970" alt="Two line charts of the cost of an imported order from order to payment in week 4, against sale value 8,600. Steady: cost 8,030, profit 570. Severe: cost 9,300, loss 700." loading="lazy">
+  <figcaption>Large unpredictable exchange-rate moves can wipe out a planned margin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
 
 ## Common errors
 

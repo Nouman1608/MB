@@ -37,6 +37,12 @@ These notes condense section 3.3 of the OxfordAQA International GCSE Accounting 
 | Materiality | Only significant items need full treatment | Would it change a decision? | A 9 stapler is expensed |
 | Realisation | Revenue earned on delivery or service | Has the customer become liable to pay? | Order in March, delivery in April: April revenue |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--05-gc-ten-concepts.webp" width="900" height="1060" alt="Ten cards with a small picture and one-line definition: business entity, money measurement, duality, historic cost, going concern, accruals, consistency, prudence, materiality and realisation, using the lesson examples (land 40,000 not 65,000; a 14 dollar stapler)." loading="lazy">
+  <figcaption>The ten named concepts at a glance.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Accruals versus prudence: accruals puts the item in the right year; prudence chooses the cautious figure when the amount is uncertain.
@@ -77,6 +83,17 @@ Expense for the year = cash paid + closing amount owed - opening amount owed (fo
 4. Add the chosen figures. The total is closing inventory.
 5. Write down only by the amount the lower figure falls below cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--06-inventory-line-by-line.webp" width="900" height="730" alt="Frames cost 1,200 but net realisable value is 950 (1,300 less 350 repair), so 950 is used. Wheels cost 800 with net realisable value 1,100, so 800 is used. Closing inventory is 1,750, which is 250 below cost." loading="lazy">
+  <figcaption>Take the lower of cost and net realisable value for each line, not for the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--06-gc-prudence-in-action.webp" width="900" height="900" alt="Frames cost 1,200 but NRV 950, so 950 is used; wheels cost 800 with NRV 1,100, so 800 is used; closing inventory is 1,750, 250 below cost. Separately, receivables of 12,000 with 5 percent doubtful give a 600 provision and 11,400 shown." loading="lazy">
+  <figcaption>Prudence writes losses down early: inventory line by line and a provision on receivables.</figcaption>
+</figure>
+
+
 ### Method: choosing the concept in an explain question
 
 1. Identify what is being recorded or valued.
@@ -96,6 +113,22 @@ Reminder 3: net realisable value. A line of paint is bought for 70 per unit but 
 Reminder 4: capital or revenue. Zandry Foods pays 2,500 for a freezer and 150 to have it delivered, and also pays 90 for repairs to an old freezer. The new freezer is capital expenditure at 2,650 (debit freezers, credit bank). The repair is revenue expenditure, so it goes to the income statement.
 
 Reminder 5: duality. Zandry Foods takes goods costing 200 for the owner's own use. By business entity this is not a business expense. Debit drawings 200, credit purchases 200 (or inventory, depending on the method). Both effects are equal, which is duality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--05-accruals-vessling.webp" width="900" height="800" alt="Insurance of 3,600 paid on 1 November covers 12 months, so 2 months or 600 is this year expense and 3,000 is a prepayment asset. Electricity of 640 is used but unpaid, so the expense rises by 640 and an other payable is created." loading="lazy">
+  <figcaption>Accruals puts each expense in the year it belongs to, whenever the cash moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--07-gc-depreciation-two-methods.webp" width="900" height="962" alt="A machine costing 18,000 with scrap 3,000 over 5 years: straight line charges 3,000 a year (net book value 15,000 then 12,000); reducing balance at 25% charges 4,500 then 3,375 (net book value 13,500 then 10,125)." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges more early.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--09-gc-accruals-year-end.webp" width="900" height="700" alt="Insurance of 3,600 paid 1 November covers 12 months: 2 months, 600, is this year expense and 3,000 is a prepayment carried forward. The 640 owed for electricity raises the expense by 640 and is an other payable." loading="lazy">
+  <figcaption>Accruals puts each cost in the year it belongs to, creating prepayments and other payables.</figcaption>
+</figure>
+
 
 ## Effect on profit of common treatments
 
@@ -140,6 +173,17 @@ Memory aid: accruals asks "which period?", prudence asks "what is the cautious f
 11. Two from wear and tear, obsolescence, the passage of time, and use.
 12. Going concern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--07-depreciation-18000-machine.webp" width="900" height="770" alt="Two bars each represent the 18,000 cost. Straight line charges 3,000 in years 1 and 2, leaving 12,000. Reducing balance at 25 percent charges 4,500 then 3,375, leaving 10,125." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges more early on.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-concepts-historic-cost.webp" width="900" height="940" alt="Bars show a van costing 22,000, then 16,500 and 12,375 after two years of 25% reducing balance depreciation. A dashed bar shows a dealer value of 15,500 that is not recorded." loading="lazy">
+  <figcaption>The statement shows 12,375 because historic cost ignores the dealer value.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing out the definition but not linking it to the facts in the question.
@@ -151,6 +195,17 @@ Memory aid: accruals asks "which period?", prudence asks "what is the cautious f
 - Using the original cost as the base for reducing balance every year.
 - Showing the prepayment as an expense, or the accrual as an asset.
 - Saying the business "owns" the owner's personal assets, which ignores business entity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--08-capital-cost-18800.webp" width="900" height="790" alt="A bar to scale shows machine 18,000, delivery 300 and installation 500 adding to an asset cost of 18,800. The 120 service is revenue expenditure and the 14 stapler is expensed under materiality." loading="lazy">
+  <figcaption>Costs of bringing an asset into use are capital; running costs and trivial items are expensed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--08-gc-capital-or-revenue.webp" width="900" height="690" alt="Machine 18,000 plus delivery 300 and installation 500 make capital expenditure of 18,800, debited to Machinery and credited to Bank. The 120 service and the 14 stapler are expensed in the income statement, a total of 134." loading="lazy">
+  <figcaption>Costs to bring an asset into use are capitalised; running costs and trivial items are expensed.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

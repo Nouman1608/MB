@@ -45,11 +45,28 @@ n CH2=CH2  ->  -[CH2-CH2]n-
 
 The most frequent errors are keeping the double bond and forgetting the extending bonds through the brackets — both lose the mark even when everything else is correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-addition-polymerisation-revision-notes--02-atom-economy-addition.webp" width="900" height="1010" alt="Three ethene molecules (6 C, 12 H) join into one chain section with 6 C and 12 H. One product, nothing eliminated, so atom economy is 100 percent." loading="lazy">
+  <figcaption>All atoms of the monomers end up in the chain.</figcaption>
+</figure>
+
+
 ## Worked examples
 
 **Repeat unit from a monomer.** Deduce the repeat unit of the polymer formed from propene, CH₂=CHCH₃. Open the double bond into two single bonds, keeping every atom and the CH₃ side-group exactly where it was: **–[CH₂–CH(CH₃)]ₙ–**.
 
 **Monomer from a polymer section.** A section of an addition polymer is drawn as ...–CH₂–CCl₂–CH₂–CCl₂–CH₂–CCl₂–... Deduce the monomer. The repeating unit is –[CH₂–CCl₂]–; closing the two dangling bonds back into a double bond gives the monomer **CH₂=CCl₂** (1,1-dichloroethene).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--06-polymer-to-monomer.webp" width="900" height="630" alt="The repeating unit with CH3 and Cl on one backbone carbon is shown in brackets with n. An arrow turns the backbone C-C into C=C to give the monomer 2-chloropropene." loading="lazy">
+  <figcaption>Drop the brackets and n, make the backbone C=C, and keep the side groups.</figcaption>
+</figure>
+
 
 ## Common addition polymers
 
@@ -72,6 +89,22 @@ The polymer chains are held together by **weak id-id (London dispersion) forces*
 
 **PVC is naturally rigid** because the C–Cl dipoles give permanent dipole–dipole attractions between chains. **Plasticisers** are added to force the chains apart, weakening those attractions and making the material flexible — which is why the same polymer serves for both rigid drainpipes and flexible cable insulation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-addition-polymerisation-revision-notes--02-chain-packing-forces.webp" width="900" height="1090" alt="Three zigzag poly(ethene) chains. Unbranched chains lie close with 16 dashed London force contacts; with branches on the middle chain the outer chains are held apart and only 4 contacts remain. Fewer contacts means weaker total attraction, lower density and lower melting point." loading="lazy">
+  <figcaption>Branching holds chains apart, so there are fewer London force contacts between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--09-pvc-plasticiser.webp" width="900" height="1060" alt="Unplasticised PVC chains lie close with strong forces (dipole-dipole and van der Waals): rigid. Plasticiser molecules push chains apart, weakening forces: flexible. Uses are shown for each." loading="lazy">
+  <figcaption>Plasticiser molecules separate PVC chains, weaken the forces between them and make PVC flexible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--01-ld-hd-polyethene.webp" width="900" height="1070" alt="LD poly(ethene) chains carry many side branches that keep them apart, giving lower density and softer plastic. HD chains are mostly straight with few branches and pack closely, giving higher density and stiffer plastic. Both come from ethene; LD needs very high pressure and temperature, HD lower pressure with a special catalyst." loading="lazy">
+  <figcaption>Branching stops LD chains packing closely; straight HD chains pack tightly.</figcaption>
+</figure>
+
+
 ## Disposal
 
 The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes or water can attack, so addition polymers are **non-biodegradable**. This is the root of the environmental problem and should be stated as the reason rather than just the fact.
@@ -86,6 +119,12 @@ The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes o
 **Feedstock recycling** breaks the polymer back down chemically into its monomers (or other useful small molecules), which can then be used again as a genuine chemical feedstock, rather than simply reshaping the existing plastic as ordinary mechanical recycling does.
 
 **Burning a plain poly(alkene)** like poly(ethene) produces the same products as burning any hydrocarbon (CO₂, CO and soot depending on how complete the combustion is). **Burning PVC is the specific hazard** worth naming — the chlorine produces hydrogen chloride, which is corrosive and toxic, so incinerators handling PVC require scrubbers. Incomplete or poorly controlled combustion of chlorinated plastics can also produce other harmful chlorinated by-products beyond HCl itself, which is why proper flue-gas treatment matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-addition-polymerisation-revision-notes--03-polymer-disposal-routes.webp" width="900" height="1120" alt="Four tiles: landfill (cheap, but takes space and lasts centuries), incineration (releases energy, but makes CO2 and HCl from PVC), recycling (saves crude oil, but sorting is costly and quality drops), feedstock recycling (recovers monomers, but energy-intensive)." loading="lazy">
+  <figcaption>Each disposal route has an advantage and a drawback.</figcaption>
+</figure>
+
 
 ## Exam traps
 

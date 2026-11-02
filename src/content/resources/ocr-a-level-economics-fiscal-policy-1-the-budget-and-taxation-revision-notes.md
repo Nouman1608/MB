@@ -46,6 +46,12 @@ Also use the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable
 
 UK revenue sources to recall: VAT, income tax, National Insurance contributions, corporation tax, excise duties, council tax and business rates. Main spending areas: social protection, health, education, debt interest, defence, transport, public order and safety.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Formula |
@@ -67,6 +73,12 @@ UK revenue sources to recall: VAT, income tax, National Insurance contributions,
 
 **Worked reminder.** Country B charges 0% up to 8,000 cu, 15% from 8,000 to 30,000 cu and 35% above 30,000 cu. At 50,000 cu: tax = 22,000 × 15% + 20,000 × 35% = 3,300 + 7,000 = 10,300 cu. Average rate = 10,300 / 50,000 = 20.6%. At 80,000 cu: 3,300 + 50,000 × 35% = 20,800 cu, an average of 26.0%. The average rises, so the system is progressive. Marginal rate above 30,000 cu is 35%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--01-average-vs-marginal-tax-rate.webp" width="900" height="860" alt="Graph of tax rate against income for Country A with bands 0, 20 and 40 percent. The marginal rate is a step line; the average rate climbs from 10 percent at 20,000 to 32 percent at 100,000. The marginal rate stays above the average, so the average keeps rising and the tax is progressive." loading="lazy">
+  <figcaption>The marginal rate sits above the average rate, so the average rate rises with income.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Average versus marginal**: average is tax over total income; marginal is the rate on the extra income. In a progressive system, marginal exceeds average.
@@ -76,6 +88,12 @@ UK revenue sources to recall: VAT, income tax, National Insurance contributions,
 - **Overall versus current budget**: the overall balance includes capital spending, the current balance does not.
 - **Budget position versus fiscal stance**: position is the balance; stance is the direction policy pushes demand.
 - **Cyclical versus structural**: cyclical changes with the economic cycle without any new decision. Structural needs a policy change or lasting economic change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--02-overall-vs-current-budget.webp" width="900" height="960" alt="Receipts of 350 bn cu against spending of 330 current plus 50 capital, 380 in total. Overall position is minus 30, a deficit of 1.5 percent of GDP; current position is plus 20, a surplus." loading="lazy">
+  <figcaption>Capital spending turns a current surplus into an overall deficit.</figcaption>
+</figure>
+
 
 ## Features of a good tax
 
@@ -89,17 +107,45 @@ Equity (vertical and horizontal), certainty, convenience, economy (cheap to coll
 - Example: base = 800 - 10t gives a peak at t = 800 / 20 = 40%, with revenue 40 × 400 / 100 = 160 bn cu. At 30% revenue is 150 and at 60% it is 120.
 - Evaluation: the real peak is unknown; the response of behaviour differs by tax, country and time; avoidance routes matter; revenue is not the only aim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--07-laffer-lesson-numbers.webp" width="900" height="975" alt="Tax revenue against tax rate for a base of 600 minus 6t. Revenue peaks at 150 bn cu at 50%; 30% and 70% both raise 126 bn cu, but the base is 420 and 180. Above 50% is the prohibitive section." loading="lazy">
+  <figcaption>Revenue rises to 50% then falls as the base shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--08-indirect-tax-revenue-peak.webp" width="900" height="960" alt="Revenue t(320 - 20t) from a per-unit tax on a good with cost 4 cu and demand Q = 400 - 20P rises to 1,280 cu at t = 8 (price 12, sales 160) and falls to zero at t = 16." loading="lazy">
+  <figcaption>A per-unit tax also has a revenue-maximising rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+
+
 ## Flat tax in one view
 
 - For: simple, cheaper to run, less reason to avoid, possible incentive gains at the top.
 - Against: less redistribution, lower revenue unless the rate rises, low earners may lose.
 - Example: 20% above a 6,000 cu allowance on 15,000 cu income gives 1,800 cu, an average rate of 12.0%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--06-flat-tax-vs-bands.webp" width="900" height="880" alt="Average tax rates under the current bands and under a flat 25% above a 10,000 allowance at incomes of 20,000, 50,000 and 100,000 cu. The flat tax is higher at 20,000 (12.5% v 10.0%) and lower at 50,000 and 100,000 (22.5% v 32.0%, a 9,500 cu difference)." loading="lazy">
+  <figcaption>A flat tax takes more from low earners and less from high earners than the bands.</figcaption>
+</figure>
+
+
 ## Cyclical and structural reminders
 
 Example: deficit 3.5% of GDP, output gap +2%, and each 1% of gap shifts the balance by 0.5% of GDP (illustrative). The boom adds 2 × 0.5 = 1.0% of GDP to the balance, so the structural deficit is 3.5 + 1.0 = 4.5%. When the boom ends, the deficit would widen with no policy change.
 
 Overall versus current: Country B receipts 410 bn cu, current spending 395, capital spending 40, GDP 2,500. Overall = 410 - 435 = -25 (1.0% of GDP, deficit). Current = 410 - 395 = +15 (0.6% of GDP, surplus).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--03-cyclical-vs-structural-deficit.webp" width="900" height="710" alt="Three columns in percent of GDP. A deficit of 4 percent with output gap minus 5 percent splits into 2 cyclical (5 x 0.4) and 2 structural. Closing the gap leaves a 2 percent deficit. With a plus 2 percent gap a cyclical surplus of 0.8 flatters the position." loading="lazy">
+  <figcaption>Part of a deficit disappears with growth and part does not.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

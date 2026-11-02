@@ -60,6 +60,12 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Changes in what consumers want | New tastes, incomes, habits | Plant-based food; ethical packaging |
 | Products and services becoming obsolete | Old item replaced | Offer the modern replacement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--01-why-ideas-arise.webp" width="900" height="970" alt="Pellgate Photo Lab: digital cameras (technology) then phones (consumer wants) make film developing obsolete, so the owner prints photo books from phone images, meeting the same need in a new way." loading="lazy">
+  <figcaption>New ideas arise from technology change, changing consumer wants and obsolete products.</figcaption>
+</figure>
+
+
 ### How ideas come about
 
 - **Original ideas**: new to the market. No direct rivals at first, but demand is untested.
@@ -103,6 +109,12 @@ If sales fall to 100 items and costs stay at £1,000, revenue is £900 and there
 
 Failure is the business closing. Financial loss is costs exceeding revenue, or money being lost. A business can make a loss for a while without failing, and a loss over time may cause failure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--02-good-year-poor-year.webp" width="900" height="930" alt="Costs are £49,500 either way. 45 repairs a week gives revenue £66,240 and profit £16,740; 28 a week gives revenue £41,216 and a loss of £8,284. The 17 fewer repairs is a 37.8% fall." loading="lazy">
+  <figcaption>The same business can make a profit or a loss depending on sales.</figcaption>
+</figure>
+
+
 ## 1.1.3 The role of business enterprise
 
 ### Purpose of business activity
@@ -130,6 +142,22 @@ Simple picture of value added: selling price minus the cost of bought-in inputs.
 | Organises resources | Brings premises, labour, equipment and money together | Rents a unit, hires staff, buys machinery |
 | Makes business decisions | Chooses what, where, how and for whom | Picks a product range or a price |
 | Takes risks | Puts time and money in without a guarantee | Uses savings, takes out a loan |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--03-coffee-value-added.webp" width="900" height="950" alt="A £3.10 coffee has £0.45 of bought-in inputs, so value added is £2.65 (85.5% of the price), £318 a day at 120 drinks. It is not all profit." loading="lazy">
+  <figcaption>Value added is price less bought-in inputs and is not the same as profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--04-five-ways-add-value.webp" width="900" height="960" alt="The five ways the specification lists: convenience, branding, quality, design and unique selling point, each with a one-line meaning." loading="lazy">
+  <figcaption>A business adds value through convenience, branding, quality, design or a USP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--05-entrepreneur-roles.webp" width="900" height="810" alt="The potter organises resources (unit, assistant, kiln), decides to make tableware only, and risks £12,000 of savings." loading="lazy">
+  <figcaption>An entrepreneur organises resources, makes decisions and takes risks.</figcaption>
+</figure>
+
 
 ## Quick case recognition
 

@@ -36,6 +36,27 @@ Reminder: 2,000 held for 2 years at 3% inflation is worth 2,000 / 1.03² = **1,8
 
 Real interest rate (exact) = (1 + nominal) / (1 + inflation) − 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--06-bond-price-and-yield.webp" width="900" height="970" alt="Yield against bond price for face value 100 and coupon 6. Price 120 gives 5.0%, 100 gives 6.0%, 80 gives 7.5%. Prices and yields move in opposite directions." loading="lazy">
+  <figcaption>A bond that costs more yields less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--11-barter-versus-money.webp" width="900" height="870" alt="In barter, a farmer with wheat who wants shoes meets a cobbler who wants cloth, so there is no trade. With money the farmer sells wheat for coin, then buys shoes with it." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--12-inflation-erodes-cash.webp" width="900" height="950" alt="1,000 kept in cash while prices rise 4% a year is worth 961.54, 924.56 and 889.00 after one, two and three years, about 11% less. A 2.5% deposit with 4% inflation has a real return of -1.44%." loading="lazy">
+  <figcaption>Inflation weakens money as a store of value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## The three markets
 
 | Market | Trades | Time span | Who uses it |
@@ -68,6 +89,12 @@ Commodities work the same way: a farmer or a baker can fix the price of grain or
 
 Speculation. Stabilising: buying cheap, selling dear, pushing price to its fundamental value. Destabilising: following the trend, which pushes price further away. Herding behaviour means copying others and creates large swings in asset prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--07-forward-contract-hedging.webp" width="900" height="950" alt="The forward contract fixes the cost at 210,526 alphas. If the spot rate falls to 1.80 the unhedged cost is 222,222 and the contract saves 11,696. If it rises to 2.10 the unhedged cost is 190,476 and the contract costs 20,050 extra." loading="lazy">
+  <figcaption>Hedging trades possible gains for certainty.</figcaption>
+</figure>
+
+
 ## What markets do
 
 | Function | How it works |
@@ -76,6 +103,12 @@ Speculation. Stabilising: buying cheap, selling dear, pushing price to its funda
 | Lending | Matches savers with borrowers and spreads risk |
 | Exchange | Payment and currency systems settle trade |
 | Insurance | Pools risk across many people |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--13-insurance-pooling-moral-hazard.webp" width="900" height="990" alt="2,000 households each face a 0.4% chance of a 15,000 loss: 8 claims cost 120,000 against 150,000 of premiums, leaving 30,000. If the chance rises to 0.6% (moral hazard), 12 claims cost 180,000, 30,000 more than premiums." loading="lazy">
+  <figcaption>Pooling works when claims are predictable; moral hazard raises claims above premiums.</figcaption>
+</figure>
+
 
 ## Debt versus equity
 
@@ -86,6 +119,12 @@ Speculation. Stabilising: buying cheap, selling dear, pushing price to its funda
 | If profit falls | Interest still owed | Dividends can be cut |
 | Control | None | Votes |
 | Risk to firm | Higher | Lower |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--08-debt-or-equity.webp" width="900" height="930" alt="Profit left per share with a bond or new shares. Good year (profit 200,000): 0.26 and 0.38. Bad year (profit 80,000): -0.04 with the bond (a 16,000 loss) and 0.15 with shares." loading="lazy">
+  <figcaption>Debt raises returns in good years and the risk of failure in bad years.</figcaption>
+</figure>
+
 
 ## Debt versus equity: method in steps
 
@@ -105,6 +144,17 @@ Reminder: a firm with 100,000 shares needs 500,000. A 6% bond costs 30,000 a yea
 
 Many banks do both, which can raise systemic risk because trading losses can reach depositors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--14-reserve-ratio-credit-multiplier.webp" width="900" height="810" alt="A deposit of 100 is lent on round after round. At a 10% reserve ratio deposits reach at most 100 / 0.10 = 1,000; at 20% they reach 500. A higher ratio is safer but reduces lending." loading="lazy">
+  <figcaption>The maximum credit multiplier is 1 divided by the reserve ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Why a bank fails
 
 - Maturity mismatch: short-term borrowing funds long-term lending.
@@ -121,6 +171,12 @@ Method in steps for a bank balance sheet:
 4. State which problem the bank has, and what remedy fits: a lender of last resort for illiquidity, new capital for insolvency.
 
 Reminder: equity 100, loans 1,400. A 10% default rate loses 140, which is 40 more than equity, so the bank is insolvent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--09-bank-failure-balance-sheet.webp" width="900" height="1040" alt="Balance sheet: assets 1,000 (cash 120, loans 880), deposits 920, equity 80. If 15% of depositors withdraw the bank needs 138 but has 120 cash (illiquid, short by 18). If 10% of loans default the loss of 88 exceeds equity of 80 (insolvent)." loading="lazy">
+  <figcaption>Illiquid means short of cash now; insolvent means losses exceed equity.</figcaption>
+</figure>
+
 
 ## Central bank
 
@@ -147,6 +203,12 @@ Reminder: a new deposit of 500 and a ratio of 12.5% allows deposits of 500 / 0.1
 Reminder: if lending to firms falls by 60 and the multiplier is 2, GDP falls by 120.
 
 Evaluation chain for any shock: size and links of the institution, speed of response, strength of the wider economy, confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--15-systemic-risk-to-gdp.webp" width="900" height="940" alt="Banks, a shadow bank and an insurer owe each other money, so when an investment bank fails the trouble spreads. Credit dries up and investment falls by 40; with a multiplier of 1 / 0.4 = 2.5, GDP falls by 100." loading="lazy">
+  <figcaption>Systemic risk turns one failure into a fall in real GDP through the multiplier.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

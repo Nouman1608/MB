@@ -53,6 +53,17 @@ The power equation Vp Ip = Vs Is is listed with topic P8.2 in the specification.
 
 Use the words **alternating**, **changing** and **induced** in every explanation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--01-transformer-needs-ac.webp" width="900" height="860" alt="Two panels compare a transformer with a.c. and with a battery on the primary. With a.c. the current graph is a sine wave, the core field keeps changing and the voltmeter on the secondary shows an alternating output. With d.c. the current is flat, the field is steady and the voltmeter reads 0 V." loading="lazy">
+  <figcaption>A changing field is needed to induce a potential difference in the secondary coil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
+
 ## P4.2h: turns and potential difference
 
 | Type | Turns | Potential difference | Example |
@@ -62,6 +73,17 @@ Use the words **alternating**, **changing** and **induced** in every explanation
 | Equal | Ns = Np | Vs = Vp | Isolates two circuits |
 
 Explaining the dependence: each turn of the secondary is in the same changing field, so each adds to the induced potential difference. More turns therefore means a bigger total. Doubling Ns doubles Vs. Doubling Np (with Vp and Ns unchanged) halves Vs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--01-turns-ratio-examples.webp" width="900" height="950" alt="A step-up transformer has 300 primary turns at 24 V and 1800 secondary turns, giving 144 V. A step-down transformer has 2000 primary turns at 400 V and gives 25 V, which needs 125 secondary turns. Coil loops are drawn in the same ratio as the turns." loading="lazy">
+  <figcaption>Worked examples 2 and 3 drawn: more secondary turns gives a larger p.d., fewer gives a smaller one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--03-vs-against-ns-graph.webp" width="900" height="810" alt="A graph of Vs in volts against Ns in turns with Np = 300 and Vp = 24 V. The predicted line is straight through the origin with gradient 0.080 V per turn, reaching 144 V at 1800 turns. Six measured points sit slightly below the line." loading="lazy">
+  <figcaption>Vs is proportional to Ns; real measurements fall a little below because energy is wasted.</figcaption>
+</figure>
+
 
 ## P4.2i: equations
 
@@ -108,6 +130,12 @@ Ip = 30 / 80 = 0.375 A
 ```
 
 The current in the primary is smaller than in the secondary, as it must be when the potential difference is larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--02-power-in-equals-power-out.webp" width="900" height="870" alt="Two rectangles on identical axes of p.d. against current. The primary, 225 V by 0.10 A, is tall and thin; the secondary, 9.0 V by 2.5 A, is short and wide. Both have the same area, 22.5 W." loading="lazy">
+  <figcaption>In an ideal transformer p.d. falls by 25 times while current rises by 25 times, so power is unchanged.</figcaption>
+</figure>
+
 
 ### Second worked reminder: find the turns
 
@@ -167,6 +195,17 @@ Headphones work in the same way as a loudspeaker.
 5. The cone pushes the air, making pressure variations that travel away as a sound wave.
 
 For a microphone, reverse the chain: sound, diaphragm, coil moving in a field, induced potential difference, varying current.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--02-microphone.webp" width="900" height="840" alt="Sound pressure variations push on a diaphragm joined to a coil that moves near a permanent magnet. Cutting the field induces a potential difference, and because the coil changes direction the current alternates with the same frequency as the sound." loading="lazy">
+  <figcaption>A microphone turns sound into an alternating current by moving a coil in a magnetic field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--03-loudspeaker.webp" width="900" height="840" alt="An alternating current flows in a coil in the field of a permanent magnet. The force on the coil changes direction with the current, so the coil and its cone move back and forth and push the air into compressions and rarefactions." loading="lazy">
+  <figcaption>A loudspeaker does the reverse of a microphone: alternating current in, sound out.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

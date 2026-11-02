@@ -106,6 +106,17 @@ If you use a GDC sum function, the guide expects you to identify the first term 
 
 **Real data that is nearly arithmetic.** A club's membership over five years is 148, 171, 190, 214, 236. The differences (23, 19, 24, 22) are not equal, so approximate d. Using the first and last values, d ≈ (236 − 148)/4 = 22. The model predicts year 9 as 236 + 4 × 22 = 324 members. The further beyond the data you predict, the less reliable the estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--01-arithmetic-sequence-sum.webp" width="900" height="1010" alt="A bar chart of the first 20 terms of an arithmetic sequence with bars 4 (23) and 11 (51) highlighted. Seven steps of d = 4 link them (51 minus 23 = 28). The first term is 11, the 20th is 87 and the sum of 20 terms is 980, the same as the sigma sum of (4k + 7)." loading="lazy">
+  <figcaption>Find d from two terms, work back to u1, then use S_n = (n/2)(u1 + un).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--02-nearly-arithmetic-data.webp" width="900" height="1020" alt="A graph of club membership for years 1 to 5 (148, 171, 190, 214, 236). The differences 23, 19, 24, 22 are unequal, so d is approximated as (236 - 148)/4 = 22. A dashed extension to year 9 predicts 324 members, in a shaded prediction region that is less reliable." loading="lazy">
+  <figcaption>Approximate d from the first and last values, and treat predictions beyond the data with caution.</figcaption>
+</figure>
+
+
 ## 1.3 Geometric sequences and series
 
 A geometric sequence multiplies by the same **common ratio** r each time.
@@ -124,6 +135,12 @@ S8 = 38 000 × (1.03^8 − 1)/(1.03 − 1) = 337 908.7...  →  £338 000 (3 s.f
 ```
 
 Watch the power: year 8 is u₈, which uses r⁷, not r⁸.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--03-geometric-salary.webp" width="900" height="930" alt="A bar chart of a salary rising 3% a year for 8 years, each bar showing the starting 38 000 plus growth, labelled with the power of r used (r^0 to r^7). Year 8 is 38 000 x 1.03^7, about 46 700 pounds, and the 8-year total is about 338 000 pounds. A warning says the power is 7, not 8." loading="lazy">
+  <figcaption>Year n uses r^(n-1); the sum of the first n terms is a geometric series.</figcaption>
+</figure>
+
 
 ## 1.4 Compound interest and depreciation
 
@@ -159,6 +176,17 @@ value after 4 years = 24 500 × 0.86^4 = 13 401.70  →  £13 401.70
 
 To find when the value first falls below £10 000, use a GDC table of 24 500 × 0.86ⁿ: n = 5 gives £11 525.46 and n = 6 gives £9911.90, so the value first falls below £10 000 at the end of year 6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--04-compound-real-value.webp" width="900" height="975" alt="A graph of 6000 euros at 3.6% per year compounded monthly for 5 years rising to 7181.37 euros, with the real value after 2.1% inflation rising more slowly to 6472.60 euros. The vertical axis starts at 5500. The key shows the formula and the TVM settings N = 60, I% = 3.6, PV = -6000, P/Y = C/Y = 12." loading="lazy">
+  <figcaption>Compounding monthly grows the money; dividing by the inflation factor gives its value in today's money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--05-depreciation.webp" width="900" height="920" alt="A bar chart of a car worth 24 500 pounds losing 14% a year, value 24 500 x 0.86^n for n = 0 to 8. A dashed line marks 10 000 pounds. Year 5 is 11 525.46 (above) and year 6 is 9911.90 (below), so the value first falls below 10 000 at the end of year 6." loading="lazy">
+  <figcaption>Depreciation multiplies by 0.86 each year; a table finds when the value passes 10 000.</figcaption>
+</figure>
+
+
 ## 1.5 Exponents and logarithms
 
 At SL the laws of exponents are for **integer** exponents:
@@ -182,6 +210,12 @@ At SL you work with base 10 (log x) and base e (ln x = logₑ x), and you evalua
 - pH = −log[H⁺]. If [H⁺] = 3.2 × 10⁻⁵, pH = −log(3.2 × 10⁻⁵) = 4.49 (3 s.f.)
 
 The laws of logarithms (log xy = log x + log y and so on) are **HL only** (section AHL 1.9), so they are not part of this unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--06-logarithm-power.webp" width="900" height="1220" alt="Two graphs. y = 10^x reaches 5000 at x = 3.70, so x = log 5000. y = e^x reaches 12 at x = 2.48, so x = ln 12. A further example is pH = -log(3.2 x 10^-5) = 4.49. An HL-only tag notes that the laws of logarithms are not needed here." loading="lazy">
+  <figcaption>a^x = b is the same as x = log_a b; the GDC evaluates log and ln.</figcaption>
+</figure>
+
 
 ## 1.6 Approximation and errors
 
@@ -213,6 +247,12 @@ The lower bound gives the bigger error because the smaller true value is the den
 
 **Estimation.** Check that answers make sense: a length cannot be negative, and a monthly loan payment should not exceed the loan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--07-bounds-percentage-error.webp" width="900" height="1060" alt="Two number lines. The radius 3.4 cm to one decimal place lies in 3.35 &lt;= r &lt; 3.45. The areas from the lower bound, measured value and upper bound are 35.257, 36.317 and 37.393 square centimetres. The percentage errors are 2.88% against the upper and 3.01% against the lower, so the maximum is about 3.01%." loading="lazy">
+  <figcaption>Bounds for the radius give bounds for the area; the maximum percentage error divides by the smaller true value.</figcaption>
+</figure>
+
+
 ## 1.7 Amortization and annuities
 
 **Amortization** is paying off a loan with equal regular payments. An **annuity** is a sequence of equal regular payments into or out of an account. The guide says you do these with technology, that payments in exams are made at the **end** of each period, and that the annuity formula itself will not be examined.
@@ -235,6 +275,12 @@ N = 120, I% = 4.8, PV = 0, PMT = −150, P/Y = 12, C/Y = 12
 FV = 23 044.79  →  £23 044.79 (of which 150 × 120 = £18 000 was paid in)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--08-loan-amortization.webp" width="900" height="1020" alt="A graph of the amount owed on a 15 000 pound loan falling to zero over 48 monthly payments, with a bar showing total repaid 16 909.44 pounds as 15 000 borrowed plus 1909.44 interest. TVM settings N = 48, I% = 6, PV = 15 000, FV = 0, P/Y = C/Y = 12 give PMT = -352.275, so the payment is 352.28 pounds." loading="lazy">
+  <figcaption>Equal monthly payments clear the loan; the extra paid is interest.</figcaption>
+</figure>
+
+
 ## 1.8 Solving equations with technology
 
 The guide says you use technology to solve systems of linear equations in up to 3 variables and polynomial equations. No specific method is required in exams, and a system set in an exam will always have a unique solution. Learn the words **zeros** (of a function) and **roots** (of an equation).
@@ -251,6 +297,12 @@ GDC simultaneous-equation solver:  a = 14, c = 8, s = 10
 Write the system down before quoting the solution.
 
 **Worked example (polynomial).** Solve 2x³ − 5x² − 4x + 3 = 0. The GDC polynomial solver gives x = −1, x = 0.5 and x = 3. In context, reject roots outside the domain, such as a negative length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--09-polynomial-roots.webp" width="900" height="1010" alt="A graph of y = 2x^3 - 5x^2 - 4x + 3 crossing the x-axis at x = -1, 0.5 and 3, the roots from the GDC solver. The region x &lt; 0 is shaded and the root -1 is shown hollow: if x is a length it is rejected." loading="lazy">
+  <figcaption>Roots are where the graph crosses the axis; check them against the context.</figcaption>
+</figure>
+
 
 ## Common errors
 

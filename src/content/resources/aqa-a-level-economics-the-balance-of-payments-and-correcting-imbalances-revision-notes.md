@@ -58,6 +58,17 @@ Check the sign of each: exports and income received are credits; imports and inc
 
 **Worked reminder.** Country C: goods 140 exports, 175 imports; services 88 and 61; primary income 30 received, 47 paid; secondary income 9 received, 21 paid. Balances: −35, +27, −17, −12. Current account = **−37**. Trade balance = −35 + 27 = −8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--06-current-account-build-up.webp" width="900" height="810" alt="A waterfall chart for Country A in cu billion. Goods balance is minus 90 (420 earned minus 510 paid). Services balance is plus 70 (260 minus 190). Primary income balance is minus 25 (85 minus 110). Secondary income balance is minus 32 (20 minus 52). Adding them step by step gives a current account balance of minus 77, a deficit. Goods plus services, the trade balance, is only minus 20, so most of the deficit comes from income flows, minus 57. The deficit is 5.0 percent of GDP of 1,540." loading="lazy">
+  <figcaption>Goods, services, primary and secondary income balances add up to a current account deficit of 77, or 5.0% of GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--07-accounts-sum-to-zero.webp" width="900" height="820" alt="A horizontal balance diagram for Country A in cu billion. The current account deficit of minus 77 extends to the left of a zero line. To the right, a financial account net inflow of plus 72, a capital account of plus 3 and errors and omissions of plus 2 total plus 77. So minus 77 plus 3 plus 72 plus 2 equals zero. Every transaction has two sides, so the whole balance of payments cannot be in deficit; a reference to a deficit nearly always means the current account alone. The deficit is financed by foreigners buying the country assets or lending to it." loading="lazy">
+  <figcaption>The current account deficit of 77 is matched by capital, financial and errors items so the whole balance of payments sums to zero.</figcaption>
+</figure>
+
+
 ## Influences on the current account
 
 | Factor | Effect on the balance | Key evaluation |
@@ -79,6 +90,37 @@ Check the sign of each: exports and income received are credits; imports and inc
 **Worked reminder: depreciation.** Exports 200, imports 260 (balance −60). Currency falls 5%; export elasticity 1.0, import elasticity 0.6, sum 1.6. Export volume +5%: 200 × 1.05 = 210. Import prices +5% and volume −3%: 260 × 1.05 × 0.97 = 264.81. New balance = 210 − 264.81 = **−54.81**, an improvement of 5.19. State the assumptions: full pass-through to import prices, home-currency export prices unchanged, supply able to meet extra demand.
 
 **Cyclical or structural?** A deficit that appears in a boom and shrinks in a slowdown is cyclical, so waiting may be enough. A deficit that persists through the cycle points to weak competitiveness and needs supply-side action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--08-depreciation-prices.webp" width="900" height="900" alt="The exchange rate moves from 2.00 to 2.50 A-units per B-unit, so one A-unit buys 0.50 B-units and then 0.40, a 20 percent fall in value. An export priced at 600 A-units costs 300 B-units before and 240 B-units after, a fall of 20 percent. An import priced at 40 B-units costs 80 A-units before and 100 A-units after, a rise of 25 percent. The currency has lost 20 percent of its value but import prices at home rise 25 percent." loading="lazy">
+  <figcaption>A 20% fall in the currency’s value lowers export prices abroad by 20% but raises import prices at home by 25%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--09-marshall-lerner.webp" width="900" height="860" alt="Three pairs of bars for Country D, with exports in one colour and imports in another. Before the currency falls, exports are 400 and imports 500, a balance of minus 100. After the fall, import prices rise 10 percent and export prices abroad fall 10 percent. In the elastic case (export elasticity 1.2, import elasticity 0.8, sum 2.0), exports rise to 448 and imports fall to 506, so the balance improves to minus 58. In the inelastic case (0.3 and 0.2, sum 0.5), exports rise only to 412 while imports rise to 539, so the balance worsens to minus 127. A depreciation improves the current account only if the elasticities together exceed 1; low short-run elasticities mean the balance may worsen first." loading="lazy">
+  <figcaption>The same currency fall improves the balance when elasticities sum to 2.0 but worsens it when they sum to 0.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--05-bop-unit-labour-cost-gap.webp" width="900" height="880" alt="Country A unit labour cost falls from 2.00 to 1.909 (-4.5%) as wages rise 5% and productivity 10%. Country B rises from 1.50 to 1.515 (+1.0%). The cost gap narrows from 0.50 to about 0.39, though A remains the dearer producer." loading="lazy">
+  <figcaption>Faster productivity growth narrows Country A's unit labour cost gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--06-bop-relative-inflation-currency.webp" width="900" height="870" alt="Three bars of A's relative price: 100 at the start; 103.9 after A's prices rise 6% and its partners' 2% (3.9% dearer); and back to 100 after A's currency falls 3.8%, from 0.500 to 0.481 of a B-unit." loading="lazy">
+  <figcaption>Higher relative inflation makes goods 3.9% dearer; a 3.8% currency fall would restore the old price relationship.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--07-bop-j-curve-example.webp" width="900" height="910" alt="A graph of the trade balance after a currency fall using worked example 5 numbers: -100 before, -127 soon after when elasticities are low, and -58 later when they are higher. The path dips then rises, a J shape. Timing is illustrative." loading="lazy">
+  <figcaption>The balance can worsen first and improve later because elasticities are low in the short run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Investment flows
 
@@ -153,6 +195,12 @@ For a surplus, the reverse: expand demand, let the currency rise, open the marke
 8. 0.72 ÷ 0.80 − 1 = **−10%**.
 9. Switching: tariff, quota or depreciation. Reducing: higher income tax or lower government spending.
 10. The sum of the price elasticities of demand for exports and imports may be below 1, or lags (J-curve) delay the gain; domestic inflation may also erode the advantage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--10-spending-cut-costs.webp" width="900" height="1040" alt="A chain of four steps for Country A, whose deficit is 77. Government spending falls by 30. With a marginal propensity to save of 0.1, tax of 0.2 and imports of 0.2, the multiplier is 1 divided by 0.5, which is 2. Income falls by 30 times 2, which is 60. Imports fall by 0.2 times 60, which is 12. A bar chart compares income lost in A, 60, income lost in partner country S, 20 (because S spends 0.25 on imports and has a multiplier of 1.67, so its income falls by 12 times 1.67), and the improvement in A deficit, only 12. Total income lost across both countries is 80 for a 12 improvement, so the policy is blunt and costly." loading="lazy">
+  <figcaption>A spending cut of 30 costs 60 of income at home and 20 abroad to improve the deficit by only 12.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

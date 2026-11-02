@@ -52,6 +52,12 @@ Rearranged: actual output = utilisation ÷ 100 × maximum; maximum = actual ÷ u
 
 A bottling plant fills 3,150 cases a week against a maximum of 4,500. Utilisation = 3,150 ÷ 4,500 × 100 = **70%**. At 78% of a 6,000-unit maximum, output is 4,680. Moving from 78% to 90% needs 720 more units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--08-capacity-utilisation-gauge.webp" width="900" height="760" alt="Ardmoor Kayaks at 72.5 percent (1,740 of 2,400) with an 85 percent target of 2,040 kayaks, and Oakshott Furniture at 112.5 percent (5,400 against 4,800), beyond the 100 percent line." loading="lazy">
+  <figcaption>Utilisation can sit below, or beyond, 100 percent of maximum output.</figcaption>
+</figure>
+
+
 ## Impact of operating under or over maximum capacity
 
 | | Under capacity | Over capacity |
@@ -66,6 +72,17 @@ A bottling plant fills 3,150 cases a week against a maximum of 4,500. Utilisatio
 
 **Worked reminder (unit cost).** Fixed costs 90,000, variable cost 5 a unit, maximum 30,000 units. At 60% (18,000 units) unit cost = (90,000 + 90,000) ÷ 18,000 = **10.00**. At 80% (24,000 units) it is (90,000 + 120,000) ÷ 24,000 = **8.75**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--11-ardmoor-unit-cost.webp" width="900" height="900" alt="Stacked bars: 150 variable plus 206.90 fixed (356.90) at 1,740 kayaks; 150 plus 171.43 (321.43) at 2,100. Fall 35.47. Ardmoor unit cost at 72.5 and 87.5 percent utilisation." loading="lazy">
+  <figcaption>Ardmoor unit cost falls from 356.90 to 321.43 as fixed cost per kayak is shared over more output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+
 ## Methods of improving capacity utilisation
 
 The syllabus names the area but no specific methods, so use these standard groups.
@@ -78,6 +95,12 @@ The syllabus names the area but no specific methods, so use these standard group
 | Too high | Raise capacity | New machines, extra shifts, larger site | Cost and time; may be spare if demand falls |
 | Too high | Share the load | Outsource overflow work | Less control |
 | Too high | Ration demand | Longer lead times, higher prices | May lose customers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--09-wyndmoor-two-levers.webp" width="900" height="930" alt="Wyndmoor Printing: 62.5 percent now; closing a press gives 83.3 percent; winning orders to 6,000 runs gives 75 percent." loading="lazy">
+  <figcaption>Utilisation rises by cutting capacity or raising output.</figcaption>
+</figure>
+
 
 ## 4.3.2 Outsourcing
 
@@ -99,6 +122,17 @@ The syllabus names the area but no specific methods, so use these standard group
 4. Below break-even, outsourcing is cheaper on cost alone; above it, in-house is cheaper.
 
 **Worked reminder.** Fixed cost 30,000, in-house variable cost 2, contractor price 5. Break-even = 30,000 ÷ 3 = **10,000 units**. At 10,000 units both cost 50,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--10-daleway-make-or-buy.webp" width="900" height="930" alt="Cost lines for packing: in-house 48,000 plus 0.30 per pack, outsourced 0.62 per pack; they meet at 150,000 packs where both cost 93,000." loading="lazy">
+  <figcaption>Outsource below 150,000 packs, pack in-house above, on cost alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--12-outsourcing-gains-risks.webp" width="900" height="1000" alt="Four gains and five risks of outsourcing. Possible positive and negative impacts of outsourcing." loading="lazy">
+  <figcaption>Possible gains and risks when an activity is outsourced.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -165,6 +199,12 @@ Use these to turn description into judgement: how large and how lasting is the p
 8. Using another business to carry out an activity or process the firm could do itself.
 9. 30,000 ÷ (5 − 2) = **10,000 units**.
 10. For example, less control over quality: the firm's brand is judged on work it does not directly supervise, so complaints or lost customers can follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--13-impact-answer-chain.webp" width="900" height="1040" alt="Point (higher unit costs), application (Ardmoor 72.5%, 356.90), analysis chain, evaluation factors and a judgement. How to build an impact and evaluation answer." loading="lazy">
+  <figcaption>Build an impact answer as point, application, analysis chain and evaluation.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

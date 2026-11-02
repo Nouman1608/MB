@@ -66,6 +66,12 @@ Trade relative to output: 190/140 x 100 = 135.7, a rise of 35.7%
 
 Chain: lower freight and trade barriers, lower delivered prices, more trade, and trade rising faster than output. This is the pattern that gives globalisation its meaning. The numbers show association, not proof that freight costs alone were the cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--13-trade-vs-output.webp" width="900" height="880" alt="Indices over 20 years: freight cost falls to 64, world trade rises to 190 and world output to 140, growth rates -2.2, +3.3 and +1.7 percent a year. Trade relative to output rises 35.7 percent." loading="lazy">
+  <figcaption>Trade has grown faster than output as freight costs fell.</figcaption>
+</figure>
+
+
 ## Main characteristics
 
 - **Rising trade relative to output**, as in the example above.
@@ -87,6 +93,12 @@ Chain: lower freight and trade barriers, lower delivered prices, more trade, and
 | Total | 100 | Equals the final price |
 
 Recorded trade is 20 + 50 + 60 = 130, which is more than the 100 that consumers pay, because inputs are counted each time they cross a border. Country Z's exports are 60 but only 10 of that (16.7%) is its own value added. So gross export figures overstate how much a country gains, and a country can be deeply involved in global supply chains yet capture little of the value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--10-supply-chain-value-added.webp" width="900" height="1000" alt="Value added is X 20, Y 30, Z 10 and D 40, totalling the final price of 100. Recorded trade is 130 because inputs are counted at each border. Z exports 60 but adds 10." loading="lazy">
+  <figcaption>Gross trade overstates the value a country captures in a supply chain.</figcaption>
+</figure>
+
 
 ## Consequences of globalisation
 
@@ -131,9 +143,31 @@ Repatriated share of MNC profit = 18/24 = 75%
 
 Output inside the country is 200, but income to its residents is only 182. FDI can raise GDP by more than it raises living standards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--11-gdp-vs-gni-mnc.webp" width="900" height="960" alt="Country E has GDP 200; MNCs earn 24 and send 18 abroad, so GNI is 182." loading="lazy">
+  <figcaption>Profit repatriation makes GNI lower than GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+
 ### Judging who gains more
 
 Typical evaluation: the gains depend on the size and speed of adjustment, whether governments invest in education and infrastructure, how open the country already was, whether exports are manufactures or primary products, and whether tax revenue is used well. Globalisation has widened some gaps between countries while narrowing others, so avoid stating that it helps all LDCs or harms all MDCs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--06-cheaper-imports-basket.webp" width="900" height="955" alt="A basket of 100 has clothing 8 and other goods 92. Clothing prices fall 25%, so the basket costs 98: prices fall 2.0% and purchasing power rises 2.04%." loading="lazy">
+  <figcaption>A big price fall on one item gives a small gain across the whole basket.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--07-displaced-workers-rate.webp" width="900" height="910" alt="60 thousand jobs are lost; 35 thousand find service jobs and 25 thousand stay unemployed. Unemployment rises from 400 to 425 thousand, so the rate moves from 5.0% to 5.3%." loading="lazy">
+  <figcaption>The national rate barely moves but 25 thousand workers bear the loss.</figcaption>
+</figure>
+
 
 ## The role of multinational corporations
 
@@ -171,6 +205,17 @@ Tax after: 0.30 x 25 + 0.10 x 25 = 7.5 + 2.5 = 10, a saving of 3
 ```
 
 The MNC saves 3 and the high-tax government loses 4.5 of revenue, while the low-tax government gains 1.5. Tax authorities try to check that internal prices resemble market prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--12-transfer-pricing.webp" width="900" height="940" alt="Shifting 15 of profit from the 30 percent country to the 10 percent country cuts group tax from 13 to 10: the MNC saves 3, one government loses 4.5 and the other gains 1.5." loading="lazy">
+  <figcaption>Transfer pricing cuts the MNC tax bill and shifts revenue between governments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--08-mnc-employment-multiplier.webp" width="900" height="910" alt="2,000 direct jobs support 1,200 indirect jobs (0.6 each), a total of 3,200 and a multiplier of 1.6. Some indirect jobs may replace local jobs, so the net gain is lower." loading="lazy">
+  <figcaption>The plant creates 3,200 jobs in total, less any jobs lost elsewhere.</figcaption>
+</figure>
+
 
 ### Home countries
 

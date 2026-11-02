@@ -62,6 +62,17 @@ Unreactive nitrogen built up slowly and was not removed. Today dry air is about 
 
 The early proportion was roughly **three orders of magnitude** (about a thousand times) larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--06-es-orders-of-magnitude.webp" width="900" height="730" alt="A logarithmic scale from 0.01 percent to 100 percent. Today carbon dioxide is 430 ppm, which is 0.043 percent. One illustrative model of the early atmosphere gives 70 percent. Three hops of times ten take 0.043 percent to 43 percent, and 70 percent is a little further. The early proportion is about 1600 times larger, closest to 10 cubed: three orders of magnitude." loading="lazy">
+  <figcaption>Early CO2 in the model is about three orders of magnitude larger than today.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
+  <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
+</figure>
+
+
 ## How oxygen built up (C6.3b)
 
 Early oceans contained simple organisms. When **cyanobacteria** and later algae evolved, they began **photosynthesis**:
@@ -71,6 +82,17 @@ Early oceans contained simple organisms. When **cyanobacteria** and later algae 
 At first the oxygen reacted with **dissolved iron** in seawater, so little reached the air. Iron oxides settled out as **banded iron formations**, layered rocks that are part of the evidence. Once the iron was used up, oxygen collected in the atmosphere. The first large rise, called the Great Oxidation Event, is dated to about 2.4 billion years ago.
 
 Oxygen then rose slowly to levels that could support animals. On time-scales (M2h): the oxygen build-up took **billions** of years, while the recent rise in carbon dioxide took about **two hundred** years, roughly seven orders of magnitude shorter. Ideas about this history have changed as new evidence, such as rock dating, appeared (Working Scientifically 1.1a).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--07-oxygen-timeline.webp" width="900" height="1130" alt="Six steps: volcanic gases, cooling and oceans, photosynthesis making oxygen, oxygen reacting with iron to form banded iron rocks, oxygen collecting about 2.4 billion years ago, and today air of 78% nitrogen, 21% oxygen." loading="lazy">
+  <figcaption>Oxygen built up only after dissolved iron was used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--08-photosynthesis.webp" width="900" height="1140" alt="Carbon dioxide and water enter a leaf; light is absorbed by chlorophyll; glucose and oxygen come out. The balanced equation 6CO2 + 6H2O gives C6H12O6 + 6O2 is Extended." loading="lazy">
+  <figcaption>In sunlight, chlorophyll helps plants turn carbon dioxide and water into glucose and oxygen.</figcaption>
+</figure>
+
 
 ## The greenhouse effect (C6.3c)
 
@@ -87,6 +109,17 @@ Two corrections:
 
 - The greenhouse effect is **natural**. Without it the average surface temperature would be around −18 °C instead of about 15 °C. Humans are **enhancing** it.
 - The **ozone hole** lets more ultraviolet reach the ground. It does not cause global warming.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--09-es-ozone-vs-greenhouse.webp" width="900" height="960" alt="Top: an ozone layer with a gap. Ultraviolet from the Sun is stopped by the layer but passes through the hole, so more ultraviolet reaches the ground. Bottom: the greenhouse effect. The warm surface gives out infrared, greenhouse gases such as carbon dioxide and methane absorb it and re-emit some back down, so less escapes and the surface is warmer. The ozone hole does not cause global warming." loading="lazy">
+  <figcaption>The ozone hole and the greenhouse effect are different problems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+
 
 ## Evidence for human-caused climate change (C6.3d)
 
@@ -118,6 +151,12 @@ The level rises in every interval and the **rate of rise is increasing**. Overal
 - **Older data are indirect.** Ice cores, tree rings and sediments are proxies, and early thermometer records covered fewer places.
 - **Climate models** are simplifications. Clouds and feedbacks, such as melting ice reflecting less sunlight, are hard to model precisely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--08-co2-rate-of-rise.webp" width="900" height="900" alt="Bars of 326, 354, 390 and 414 ppm. Average rises are 1.4, 1.8 and 2.4 ppm per year, so the rate of rise is increasing; total rise 88 ppm, about 27%." loading="lazy">
+  <figcaption>Carbon dioxide rises in every interval and the rate is increasing.</figcaption>
+</figure>
+
+
 ## Effects and mitigation (C6.3e)
 
 Carbon dioxide and methane are both greenhouse gases. Methane comes from cattle, rice paddies, landfill and gas leaks. Its level has more than doubled since pre-industrial times, and each molecule warms more than a carbon dioxide molecule.
@@ -143,6 +182,12 @@ Carbon dioxide and methane are both greenhouse gases. Methane comes from cattle,
 
 Weigh **scale, risk and environmental implications** (Working Scientifically 1.1f, Working Scientifically 1.1h): one country acting alone changes little; some effects are unlikely but very serious; some fixes, such as large dams, bring problems of their own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--05-es-mitigation-points.webp" width="900" height="930" alt="A chain: fossil fuels burned releases carbon dioxide, which with methane builds up in the air and causes warming. Renewable or nuclear electricity, energy efficiency, and carbon taxes and emission limits all act on the burning of fossil fuels. Carbon capture and storage acts on the carbon dioxide released, storing it underground. Planting trees removes carbon dioxide from the air by photosynthesis, and cutting methane fixes leaks and captures landfill gas." loading="lazy">
+  <figcaption>Each mitigation measure acts at a different step between burning fuel and warming.</figcaption>
+</figure>
+
+
 ## Air pollutants (C6.3f)
 
 | Pollutant | Main source | Problems caused |
@@ -167,6 +212,17 @@ Check the oxygen atoms each time: 16 = 10 + 6; 22 = 10 + 12; 6 = 6.
 - mass of sulfur = 1200 × 0.80 ÷ 100 = 9.6 kg
 - Mr of SO₂ = 32 + 16 + 16 = 64, so 32 kg of S gives 64 kg of SO₂
 - mass of SO₂ = 9.6 × 64 ÷ 32 = 19.2 kg
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--07-es-so2-mass.webp" width="900" height="780" alt="A boiler burns 1200 kg of heating oil containing 0.80 percent sulfur by mass, which is 9.6 kg of sulfur. Relative masses: sulfur 32 plus oxygen 32 makes sulfur dioxide 64. Scaling by 0.3, 9.6 kg of sulfur combines with 9.6 kg of oxygen to give 19.2 kg of sulfur dioxide." loading="lazy">
+  <figcaption>Sulfur dioxide has twice the mass of the sulfur that burns to make it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
 
 ## Potable water (C6.3g)
 
@@ -194,6 +250,17 @@ Check the oxygen atoms each time: 16 = 10 + 6; 22 = 10 + 12; 6 = 6.
 - ratio = 30 ÷ 3 = 10
 
 Distillation needs about ten times as much energy: one order of magnitude more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--09-desalination-energy.webp" width="900" height="850" alt="Reverse osmosis forces water through a membrane that holds back salt ions. For 20 000 m3 a day it needs 60 000 kWh against 600 000 kWh for distillation, ten times more." loading="lazy">
+  <figcaption>Reverse osmosis uses about a tenth of the energy of distillation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--08-es-water-routes.webp" width="900" height="740" alt="Ground water or fresh surface water: sedimentation, filtration, then sterilisation. This is the easiest route. Waste water needs extra stages first: screening, settling and bacteria breaking down organic matter, then the same steps as above. Salt water is hardest because desalination needs a lot of energy: distillation or reverse osmosis." loading="lazy">
+  <figcaption>The treatment route depends on the water source, from easiest to hardest.</figcaption>
+</figure>
+
 
 ## Common errors
 

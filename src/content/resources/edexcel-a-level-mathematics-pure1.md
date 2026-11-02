@@ -53,6 +53,17 @@ m = (−5 − 7) / (4 − (−2)) = −12 / 6 = −2
 
 The brackets round −2 matter. Writing 4 − 2 in the denominator is a very common slip and gives the wrong gradient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
+
 ## The forms of a straight-line equation
 
 The specification names two forms you must be able to work with.
@@ -78,6 +89,17 @@ Take a fixed point (x₁, y₁) on the line and any other point (x, y) on it. Th
 ### Reading information from ax + by + c = 0
 
 To find the gradient, rearrange to y = −(a/b)x − c/b, so m = −a/b when b ≠ 0. To find where the line crosses the axes, put x = 0 to find the y-intercept and y = 0 to find the x-intercept. To test whether a point lies on the line, substitute its coordinates and see whether the left side equals 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--07-general-form-intercepts.webp" width="900" height="975" alt="The line 6x - 5y - 23 = 0 through A(3,-1) and B(8,5): gradient triangle run 5 rise 6 gives 6/5 = -a/b. Setting x = 0 gives y = -23/5; setting y = 0 gives x = 23/6. B satisfies the equation." loading="lazy">
+  <figcaption>Gradient is -a/b and the intercepts come from setting x or y to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
 
 ## Line through two given points (item 2.1 i)
 
@@ -105,6 +127,17 @@ The intercepts follow from the final equation. Putting y = 0 gives 6x = 23, so t
 
 If the two points have the same x-coordinate, the denominator of the gradient is 0 and the line is vertical, with equation x = that value. If they have the same y-coordinate, the gradient is 0 and the line is horizontal, with equation y = that value. Neither case needs the formula, so recognise them early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--07-line-two-points.webp" width="900" height="910" alt="A straight line passes through (minus 3, minus 4) and (5, 8). A step triangle of 8 across and 12 up gives gradient 3/2. Using one point, y + 4 = 3/2 (x + 3), so y = 3/2 x + 1/2; the line crosses the y-axis at (0, one half)." loading="lazy">
+  <figcaption>Gradient from two points, then the equation of the line through them.</figcaption>
+</figure>
+
+
 ## Parallel lines (item 2.2, first condition)
 
 Two lines are parallel when they have the same gradient. Lines with different gradients must cross, so they cannot be parallel. Two lines with the same gradient and the same intercept are the same line.
@@ -112,6 +145,12 @@ Two lines are parallel when they have the same gradient. Lines with different gr
 ```
 parallel:  m₁ = m₂
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
 
 ## Perpendicular lines (item 2.2, second condition)
 
@@ -127,9 +166,21 @@ You find the perpendicular gradient by turning the gradient upside down and chan
 
 A line with gradient m has direction (1, m): one step right and m steps up. Turning that direction through a right angle gives (−m, 1), which is one step up and m steps to the left. The gradient of the turned direction is 1/(−m) = −1/m. Check with m = 3/5: the turned direction is (−3/5, 1), with gradient 1 ÷ (−3/5) = −5/3, which is the negative reciprocal of 3/5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--01-perp-rotation.webp" width="900" height="860" alt="A line from the origin goes 5 across and 3 up, gradient 3/5. Turned through a right angle it goes 3 left and 5 up, gradient minus 5/3. The right angle is marked, and 3/5 times minus 5/3 equals minus 1." loading="lazy">
+  <figcaption>Turning a direction through a right angle swaps the steps and flips one sign, so the gradients multiply to −1.</figcaption>
+</figure>
+
+
 ### The special cases
 
 The product rule fails when a gradient is 0 or undefined, because you cannot take the reciprocal of 0. A horizontal line (y = k) is perpendicular to every vertical line (x = h). So the line perpendicular to y = 4 through (5, 1) is x = 5, and the line perpendicular to x = 2 through (−3, 6) is y = 6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
 
 ## Parallel or perpendicular line through a given point (item 2.1 ii)
 
@@ -182,6 +233,12 @@ Gradient of l₁: 4y = −kx + 9, so m₁ = −k/4. Gradient of l₂: 2y = 3x �
 
 Check (b): with k = 8/3 the gradient of l₁ is −(8/3)/4 = −2/3, and (−2/3)(3/2) = −1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--08-unknown-k-conditions.webp" width="900" height="1040" alt="Line l2: 3x - 2y = 5 has gradient 3/2. l1: kx + 4y = 9 has gradient -k/4. Parallel when -k/4 = 3/2, k = -6 (lines never meet). Perpendicular when (-k/4)(3/2) = -1, k = 8/3, gradient -2/3, and the lines cross at a right angle." loading="lazy">
+  <figcaption>Write each gradient in terms of k, then apply the parallel or perpendicular condition.</figcaption>
+</figure>
+
+
 ## Combined problems
 
 Longer questions combine the skills. Typical tasks are showing that three points lie on one line, showing a right angle, and finding a perpendicular bisector.
@@ -206,6 +263,17 @@ y − 4 = (3/2)(x − 2)
 ```
 
 Check that the midpoint lies on the line: 3(2) − 2(4) + 2 = 6 − 8 + 2 = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--02-right-angle-gradients.webp" width="900" height="750" alt="Triangle with D(1, 1), E(7, 3), F(0, 4). DE has gradient 1/3 and DF has gradient minus 3. Their product is minus 1 so the angle at D is a right angle." loading="lazy">
+  <figcaption>Gradients 1/3 and −3 multiply to −1, so angle EDF is 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--06-collinear-by-gradient.webp" width="900" height="884" alt="Points A(1,2), B(5,4), C(11,7). Gradient triangle AB has run 4, rise 2 (1/2); BC has run 6, rise 3 (1/2). Equal gradients with B shared mean A, B, C lie on one line." loading="lazy">
+  <figcaption>Equal gradients AB and BC with a shared point show three points are collinear.</figcaption>
+</figure>
+
 
 ## Common errors
 

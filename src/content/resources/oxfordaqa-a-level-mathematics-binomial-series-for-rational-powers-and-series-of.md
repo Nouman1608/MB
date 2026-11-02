@@ -64,6 +64,17 @@ So (1 − 3x)^(−1/2) = 1 + 3x/2 + 27x²/8 + 135x³/16 + …
 
 The series needs |u| < 1, so |−3x| < 1, which gives |x| < 1/3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--07-pascal-binomial.webp" width="900" height="1130" alt="Pascal’s triangle for n = 0 to 6, each entry the sum of the two above; row 5 (1, 5, 10, 10, 5, 1) is highlighted and 10 is shown as 4 + 6. Below, a bar chart of the six terms of (4 + 3x)^5: 1024, 3840x, 5760x^2, 4320x^3, 1620x^4, 243x^5. At x = 1 they add to 7^5 = 16807." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the binomial coefficients; the terms of (4 + 3x)^5 sum to 7^5 at x = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--08-binomial-validity.webp" width="900" height="980" alt="A graph of y = (1 - 3x)^(-1/2) with its series up to x cubed, 1 + 3x/2 + 27x^2/8 + 135x^3/16. A shaded band shows the range of validity, x between minus one third and one third. The series matches near zero but the curves separate outside the band and near the asymptote at x = 1/3." loading="lazy">
+  <figcaption>The series for a rational power only represents the function when |bx/a| &lt; 1.</figcaption>
+</figure>
+
+
 ## 2. Expanding (a + bx)ⁿ
 
 The series is for (1 + something)ⁿ only. If the first term is not 1, take it out:
@@ -125,6 +136,17 @@ The coefficients 1, −2, 3, −4 in (1 + u)⁻² are a quick check on any negat
 ### Why the range matters
 
 The series for (1 + x)⁻¹ is 1 − x + x² − x³ + …, a geometric series with first term 1 and common ratio −x. A geometric series has a sum only if the ratio has modulus less than 1, which is exactly |x| < 1. At x = 2 the terms are 1, −2, 4, −8, … and they grow, so the series cannot equal 1/3. The binomial series has the same limit for every rational n. Outside the range the series is not a valid representation of the function, whatever it looks like.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--03-gp-sum-to-infinity.webp" width="900" height="1030" alt="A graph of the partial sums of 81 + 54 + 36 + ... (first term 81, ratio 2/3) for n = 1 to 20. The points rise then flatten towards a dashed line at 243, the sum to infinity. At n = 5 the sum is 211, a gap of 32. The gap 243(2/3)^n first drops below 1 at n = 14." loading="lazy">
+  <figcaption>Partial sums of a convergent geometric series level off at S_infinity = a/(1 - r).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
 
 ## 3. Products of a polynomial and a binomial series
 
@@ -210,6 +232,12 @@ A quick check: f(0) = 13/(1 × 4) = 13/4, which matches the constant term.
 A denominator such as (x − 3)² is the same as (3 − x)², so 1/(x − 3)² = 1/(9(1 − x/3)²) = (1/9)(1 + 2x/3 + x²/3 + …). A single factor flips its sign: 1/(x − 3) = −1/(3 − x). Always put the constant first and the x-term second, so each part can be written as a constant times (1 + u)ⁿ.
 
 For the specification's own example, (3 + 2x²)/((2x + 1)(x − 3)²) = 2/(7(1 + 2x)) − 6/(7(3 − x)) + 3/(3 − x)². Expanding each part and adding gives 1/3 − 4x/9 + 11x²/9 + …, valid for |x| < 1/2. The specification's binomial example is (2 + 3x)⁻² = (1/4)(1 + 3x/2)⁻² = 1/4 − 3x/4 + 27x²/16 − …, valid for |x| < 2/3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--02-ap-sum-pairing.webp" width="900" height="1070" alt="The series 3 + 7 + 11 + 15 + 19 + 23 + 27, written as the sum from r = 1 to 7 of (4r minus 1), is drawn as seven columns. Each column stacks a term on the term in the reversed order and every column totals 30, the first term plus the last. Seven columns of 30 give twice the sum, 210, so the sum is 105." loading="lazy">
+  <figcaption>Pairing each term with its reverse shows why S_n = half n times (a + l).</figcaption>
+</figure>
+
 
 ## Common errors
 

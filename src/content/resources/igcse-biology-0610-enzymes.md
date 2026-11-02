@@ -64,6 +64,12 @@ Each enzyme has a region called the **active site**. The molecule the enzyme act
 
 Lipase is a good example. Its substrate is fat. Lipase breaks fats and oils down into fatty acids and glycerol, and the same lipase molecule can then act on another fat molecule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+
 ## 5.1.6–5.1.7 Enzyme action and specificity -- Extended only
 
 Extended candidates must **explain** the process using four terms: **active site, enzyme-substrate complex, substrate, product**.
@@ -76,6 +82,12 @@ Extended candidates must **explain** the process using four terms: **active site
 **Specificity** means each enzyme catalyses only one reaction, or one type of reaction. The reason is shape. Only a substrate with a shape complementary to the active site can fit and form an enzyme-substrate complex. Lipase, for example, has no effect on starch: starch has a different shape, does not fit lipase's active site, and so no enzyme-substrate complex forms.
 
 Use the word **complementary**, not "the same shape". The substrate and active site fit together like a key in a lock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--02-specificity.webp" width="900" height="780" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
+  <figcaption>Only a substrate with a complementary shape fits the active site.</figcaption>
+</figure>
+
 
 ## 5.1.5 Temperature and pH -- Core description
 
@@ -90,11 +102,38 @@ Two points Core answers must get right:
 - At **low** temperatures the enzyme is **not** denatured. It is working slowly, and it works faster again if warmed.
 - Denaturation is caused by temperatures **above** the optimum. A heat-denatured enzyme does not start working again when it is cooled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--05-temperature-collisions.webp" width="900" height="910" alt="Two panels at temperatures below the optimum. Cooler: slow substrate molecules, short arrows, one enzyme has a substrate bound. Warmer: more kinetic energy, long arrows, more frequent effective collisions, three enzymes have substrates bound." loading="lazy">
+  <figcaption>More kinetic energy gives more frequent effective collisions and more enzyme-substrate complexes per unit time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
+
 ### pH
 
 Each enzyme has an **optimum pH** at which its activity is highest. Moving the pH away from the optimum, in either direction, reduces activity. Far from the optimum, the enzyme is denatured.
 
 Different enzymes have different optimum pH values. Protease in the stomach (pepsin) works in acidic conditions. Protease in the small intestine (trypsin) works in alkaline conditions. The shape of the graph is a peak at the optimum, falling on both sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
 
 ## 5.1.8–5.1.9 Explaining temperature and pH -- Extended only
 
@@ -170,6 +209,12 @@ Volumes of oxygen collected in 2 minutes:
 Rate = volume ÷ time. At pH 6: 11.0 ÷ 2 = **5.5 cm³ per minute**.
 
 In this data set the optimum is **near pH 7**. The rate at pH 7 is 9.0 ÷ 3.0 = **3 times** the rate at pH 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--08-rate-from-results.webp" width="900" height="980" alt="Two bar charts. Amylase: rates 2.2, 4.2, 6.7, 11.1, 5.6 and 0 at 10 to 60 degrees Celsius (rate = 1000 divided by time), optimum about 40. Catalase: rates 3.0, 5.5, 9.0, 6.5 and 2.5 cm3 per minute at pH 5 to 9, optimum near pH 7." loading="lazy">
+  <figcaption>Rate is calculated from time or volume; the highest bar shows the optimum.</figcaption>
+</figure>
+
 
 ## Common errors
 

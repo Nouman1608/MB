@@ -44,6 +44,12 @@ Human resource management deals with a business's people: planning how many it n
 
 The link to objectives is what earns marks. A business aiming for growth needs HRM to recruit ahead of demand. One aiming at high quality needs training. One aiming at cost control needs HRM to hold down labour costs without driving out the people it needs. State the objective first, then show which HRM activity serves it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--13-hrm-objectives.webp" width="900" height="830" alt="Growth needs recruitment ahead of demand, high quality needs training, and cost control needs HRM to hold down labour costs without losing key people." loading="lazy">
+  <figcaption>State the objective first, then show which HRM activity serves it.</figcaption>
+</figure>
+
+
 ## 2.1.2 Workforce planning
 
 A workforce plan sets out how many staff, with which skills, a business will need and how it will get them. The reasons are to avoid shortages that lose sales, avoid surplus staff who raise costs, give time for recruitment and training, and prepare for change. Its role is to compare the workforce needed (from sales forecasts) with the workforce held (allowing for leavers) and so show the gap.
@@ -60,15 +66,38 @@ labour turnover (%) = (number of employees who leave in the period ÷ average nu
 
 If each leaver costs 1,350 to recruit and 900 to train, the direct cost is 19 × (1,350 + 900) = **42,750**. Lost output while newcomers learn is extra.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--09-turnover-cost.webp" width="900" height="960" alt="Marrowdale turnover is 19 divided by an average of 64, 29.7 percent, against 12 percent at a rival. Nineteen leavers at 2,250 each in recruiting and training cost 42,750 dollars." loading="lazy">
+  <figcaption>High turnover is expensive as well as disruptive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+
 ### Implications of high and low turnover
 
 High turnover raises recruitment and training costs, disrupts teams and customers, and can signal low morale, poor pay or poor management. It may be harmless in seasonal work where staff expect to move on. Low turnover brings stable teams, experience and lower costs, but can mean few new ideas, blocked promotion and staff who stay because they cannot find better jobs. Judge turnover against the type of business and rivals, and ask why people leave.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--08-workforce-plan.webp" width="900" height="960" alt="Two bars of drivers. Today 60, of whom 12 will leave. Needed 69 after 15% growth: 48 who stay, 12 replacements and 9 extra, so 21 must be recruited." loading="lazy">
+  <figcaption>Recruitment must cover both growth and the staff who leave.</figcaption>
+</figure>
+
 
 ## 2.1.3 Recruitment and selection
 
 ### The process and its documents
 
 Recruitment is attracting suitable applicants. A **job description** lists the title, purpose, main duties, reporting line and conditions. A **person specification** lists the qualifications, skills, experience and personal qualities needed. One describes the job; the other the ideal person. Together they guide the advertisement and the choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
 
 ### Recruitment methods
 
@@ -82,9 +111,21 @@ Internal recruitment fills a post from within the business. It is cheaper and fa
 
 **Worked example: Skarrow Hotel.** The head receptionist is retiring. The night supervisor has worked there nine years and knows the booking system. The hotel is also about to open a conference wing, needing someone who has run corporate events. Internal appointment is quick and shows that promotion is possible, but it leaves the night shift without a supervisor and gives no events experience. An agency costs more but could bring that experience. A sound judgement is to advertise externally, since event skills are the deciding need, while inviting the night supervisor to apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ### Selection methods
 
 Selection is choosing among applicants. A **curriculum vitae** (also called a résumé) is the applicant's own summary of education, experience and skills. An **application form** asks everyone the same questions, which makes comparison easier. **Interviews** let the business test communication and fit, but are costly and open to bias. **References** from past employers or teachers give an outside view, though they tend to be positive. **Testing** checks skills or aptitude directly (a typing test, say). **Assessment centres** combine tasks, group exercises, tests and interviews over a day or more: the strongest evidence for skilled posts, but expensive. Match methods to the job.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--11-selection-contract.webp" width="900" height="1030" alt="Six selection methods (CV, application form, interview, references, testing, assessment centre) each with a strength or catch, leading to an employment contract listing title and duties, pay, hours, holidays, place of work, notice and other terms." loading="lazy">
+  <figcaption>Match the selection method to the job, then set the terms in a contract.</figcaption>
+</figure>
+
 
 ### Employment contracts
 
@@ -100,6 +141,12 @@ An employment contract is the agreement between employer and employee. In genera
 
 Impact: redundancy cuts costs but costs money now, can lower the morale of those who stay, and may lose skills needed later. Unfair dismissal risks a claim, lost trust and a poor employer reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--09-redundancy-dismissal.webp" width="900" height="930" alt="Redundancy (the job goes) is voluntary (6 accept a payment) or involuntary (owner picks 2). Dismissal (the person) is fair (valid reason, fair procedure) or unfair (no valid reason or procedure not followed)." loading="lazy">
+  <figcaption>Redundancy is about the post; dismissal is about the person.</figcaption>
+</figure>
+
+
 ## 2.1.5 Morale and welfare
 
 **Morale** is how positive employees feel about the business and their work. **Welfare** is provision for their physical and mental wellbeing, from safe conditions to support services. Good HRM raises both through fair pay, decent conditions, listening and training. High morale tends to bring lower turnover, lower absence and better service.
@@ -107,6 +154,12 @@ Impact: redundancy cuts costs but costs money now, can lower the morale of those
 **Work-life balance** is the balance between time given to work and time for family, rest and interests. Flexible hours, part-time work, job-sharing, home working and reasonable workloads help. The business gains loyalty and applicants, but faces harder scheduling.
 
 **Diversity** means a workforce of people with different ages, genders, backgrounds and abilities. **Equality** means fair treatment and equal opportunity in recruitment, pay and promotion. Benefits include a wider talent pool, varied ideas, a better understanding of customers and a good reputation. Costs include training managers, changing procedures, and conflict if change is poorly handled.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--10-morale-welfare.webp" width="900" height="990" alt="Fair pay, conditions, listening and training raise morale and welfare, bringing lower turnover and absence and better service. Work-life balance, diversity and equality are shown as three small pictures." loading="lazy">
+  <figcaption>Good HRM raises morale and welfare, which pays back in turnover, absence and service.</figcaption>
+</figure>
+
 
 ## 2.1.6 Training and development
 
@@ -120,6 +173,17 @@ The impact of training and development on a business is better skills, quality a
 
 **Worked example: Ferrowby Pharmacies.** A new dispenser has a morning of induction, four weeks on-the-job beside a senior colleague, then one day off-the-job on a medicines course. Later two counter assistants learn to dispense under supervision, so a shop can stay open when someone is absent: multi-skilling and flexibility. The cost is course fees and a likely pay request.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--12-multi-skilling.webp" width="900" height="890" alt="Before training only the dispenser dispenses; after, two assistants can too, so an absence is covered. The cost is fees and a pay request. Intrapreneurship needs skills, time and freedom to try ideas." loading="lazy">
+  <figcaption>Multi-skilling gives cover and flexibility; intrapreneurship needs skills, time and freedom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2.1.7 Management and workforce relations
 
 Cooperation between management and workforce benefits both sides. The business gains smoother change, fewer disputes and better ideas. Employees gain security, a say in decisions and better conditions. Methods include consultation, suggestion schemes and sharing information. Cooperation takes time and can slow decisions.
@@ -127,6 +191,12 @@ Cooperation between management and workforce benefits both sides. The business g
 A **trade union** is an organisation of employees formed to protect and advance their interests. **Collective bargaining** is negotiation between employers and union representatives on behalf of all members, covering pay, hours and conditions. Union members speak with one voice.
 
 **Worked example: pay talks at Yarrowhill.** The payroll is 1,200,000 a year. The union asks for 6% (72,000 extra), management offers 3% (36,000) and they settle at 4.5%, which is **54,000**. For employees, union involvement can bring better pay, safer conditions and protection in disputes. For the employer it brings one negotiation instead of many and a clear channel of communication, but also higher costs, slower decisions and the threat of industrial action if talks fail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--10-pay-talks.webp" width="900" height="950" alt="Bars show the union asking 6% ($72,000), management offering 3% ($36,000) and a settlement at 4.5% ($54,000) of a $1,200,000 payroll." loading="lazy">
+  <figcaption>Collective bargaining settles pay in one negotiation for all union members.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -55,6 +55,12 @@ In a particle diagram, draw circles of equal size. A solid is a tidy lattice of 
 
 Heating a substance gives its particles more energy, so they move or vibrate faster. At a change of state the energy goes into pulling particles apart, not into speeding them up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+
 ## Specific heat capacity (3.4.1 b)
 
 Specific heat capacity is the energy needed to warm each kilogram of a substance by 1 °C.
@@ -74,6 +80,12 @@ E = P t = 60 × 300 = 18 000 J
 c = E / (m Δθ) = 18 000 / (0.50 × 36) = **1000 J/kg °C**
 
 Some of the heater's energy escapes to the surroundings, so the energy that really warms the block is less than 18 000 J. The calculated c is therefore larger than the true value. Lagging the block reduces the error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
 
 ## Specific latent heat (3.4.1 c and d)
 
@@ -102,6 +114,12 @@ Total = 360 400 J = 3.6 × 10⁵ J
 
 Always split a problem at each state change, and use E = m c Δθ only where the substance is staying in one state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-heating-two-stage.webp" width="900" height="876" alt="A graph of temperature against energy supplied. Water rises from 20 to 100 degrees Celsius using 134 400 J (0.40 x 4200 x 80), then stays at 100 degrees while 226 000 J (0.10 x 2.26 x 10^6) boils 0.10 kg away. A bar below shows the two energies adding to 360 400 J, or 3.6 x 10^5 J." loading="lazy">
+  <figcaption>Split the problem at the state change: E = m c Δθ for warming, E = m L while the temperature stays constant.</figcaption>
+</figure>
+
+
 ## Temperature-time graphs and the effect of impurities
 
 Heat a solid at a steady rate and the graph has five parts.
@@ -129,11 +147,38 @@ A cooling curve is the reverse. The temperature falls, flattens while the substa
 
 The curve falls, stays flat at the freezing point while the acid solidifies, then falls again. Hazards: hot water and hot liquid, so wear eye protection, clamp the tube and do not heat the acid in a flame. Draw a smooth line of best fit through the points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--07-cooling-curve-impurity.webp" width="900" height="900" alt="A temperature-time graph with two cooling curves. The pure substance falls, stays flat at about 69 degrees Celsius while it freezes, then falls again. The impure sample freezes at a lower temperature and its curve slopes down gradually through a range instead of having a flat step." loading="lazy">
+  <figcaption>An impurity lowers the freezing point and removes the sharp flat step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--06-stearic-acid-apparatus.webp" width="900" height="1000" alt="Apparatus for the stearic acid practical: step 1 shows a boiling tube of acid standing in a beaker of hot water until fully liquid; step 2 shows the tube clamped with a thermometer, with the temperature read every 30 seconds. A graph below shows temperature falling, flat at about 69 degrees Celsius while the acid freezes, then falling again." loading="lazy">
+  <figcaption>Melt the acid in hot water, then clamp the tube, read a thermometer every 30 seconds and plot the cooling curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+
 ## Conduction and convection (3.4.2 a)
 
 **Conduction in solids.** Heated particles vibrate more and pass vibrations to neighbours, so energy moves along the material. In a metal, free electrons also carry energy. They move through the lattice, collide with particles and share energy quickly, which is why metals are good conductors. Non-metals have no free electrons, so they are poorer conductors, and gases are poor conductors because the particles are far apart and collide rarely. Trapped air makes good insulation.
 
 **Convection** happens in fluids (liquids and gases). The fluid in a heated region has particles that move apart, so it expands and becomes less dense. It rises. Cooler, denser fluid sinks to take its place, setting up a convection current. Convection cannot happen in a solid because the particles cannot flow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--07-free-electron-conduction.webp" width="900" height="890" alt="Two bars of particles. In the metal bar, free electrons move through a lattice of ions from the hot end to the cold end and share energy quickly by colliding with the ions. In the non-metal bar there are no free electrons, so energy passes only by vibrations and conduction is poorer." loading="lazy">
+  <figcaption>Free electrons carry energy through the lattice quickly, so metals conduct better than non-metals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
 
 ## Evaporation and condensation (3.4.2 b)
 
@@ -146,6 +191,12 @@ Evaporation is faster when:
 * the air is drier.
 
 Evaporation happens at any temperature below the boiling point and only at the surface. Condensation is the reverse: vapour particles lose energy, slow down and become liquid, transferring energy to their surroundings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-evaporation-cooling.webp" width="900" height="960" alt="A beaker of liquid with particles; at the surface two fast particles, drawn with gold arrows, escape as vapour. The particles left behind have lower average kinetic energy, so the liquid cools. Evaporation is faster when the liquid is warmer, the surface larger, there is a draught or the air is drier." loading="lazy">
+  <figcaption>The fastest particles leave, so the liquid left behind is cooler.</figcaption>
+</figure>
+
 
 ## Rate of energy transfer by heating (3.4.2 c and d)
 
@@ -173,11 +224,28 @@ The smaller cube has more surface for its volume, so it loses energy faster per 
 
 The fall slows as the difference shrinks, so the graph is a curve that flattens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--03-sa-volume-cubes.webp" width="900" height="860" alt="A 2 cm cube and a 5 cm cube are drawn to scale. The small cube has area 24 cm2 and volume 8 cm3, so area divided by volume is 3.0 per cm; the large cube has 150 cm2 and 125 cm3, giving 1.2 per cm. The cube with the larger ratio has more surface for its volume and loses energy faster." loading="lazy">
+  <figcaption>The smaller cube has the larger area-to-volume ratio, so it loses energy faster per kilogram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--04-cooling-table-graph.webp" width="900" height="742" alt="A graph of drink temperature against time over 20 minutes: 80, 62, 51, 44 and 39 degrees Celsius, in a room at 20 degrees. The gaps to room temperature are 60, 42, 31, 24 and 19 degrees, and the falls in each 5 minutes are 18, 11, 7 and 5 degrees. The curve flattens as the temperature difference gets smaller." loading="lazy">
+  <figcaption>The smaller the temperature difference, the slower the energy transfer, so the cooling curve flattens.</figcaption>
+</figure>
+
+
 ## Expansion (3.4.2 e)
 
 Most substances expand when heated. Particles vibrate with larger amplitude and push each other slightly further apart. Hazards: bridges and roofs need expansion gaps or rollers so they do not buckle. Useful: the bi-metallic strip.
 
 A bi-metallic strip joins two metals, such as brass and iron, which expand by different amounts. When heated, the metal that expands more gets longer and the strip bends, with the more-expanding metal on the outside of the curve. In a thermostat the strip bends away from a contact when the room is warm enough, breaking the circuit and switching off the heater. When the room cools, the strip straightens and the circuit closes again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--06-bimetallic-thermostat.webp" width="900" height="1050" alt="Two drawings of a brass and iron strip clamped at one end. When the room is cool the strip is straight and touches a contact, so the heater circuit is closed. When the room is warm, the brass expands more than the iron, the strip bends upward with brass on the outside of the curve, loses contact and breaks the circuit so the heater switches off." loading="lazy">
+  <figcaption>A warm room bends the strip away from the contact and switches the heater off.</figcaption>
+</figure>
+
 
 ## Common errors
 

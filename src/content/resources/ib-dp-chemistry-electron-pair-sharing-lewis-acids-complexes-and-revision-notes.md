@@ -61,6 +61,12 @@ Every Brønsted–Lowry base is a Lewis base, because accepting H⁺ means donat
 
 **Lewis formulas.** Show every lone pair on the donor atom. Draw the coordination bond as an arrow from donor to acceptor, or as a normal line once formed. A coordination bond is no different from other covalent bonds after it has formed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--01-lewis-acid-base.webp" width="900" height="1030" alt="Dimethyl ether has two lone pairs on oxygen and faces trigonal planar BCl3, which has only six outer electrons on boron. A curly arrow runs from an oxygen lone pair to boron. In the adduct a gold coordination bond joins O to B, O carries +, B carries -, and boron is tetrahedral." loading="lazy">
+  <figcaption>A lone pair on the Lewis base forms a coordination bond to the Lewis acid; both bonding electrons come from the base.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.8 Charge on a complex ion
 
 **Method in steps**
@@ -69,6 +75,12 @@ Every Brønsted–Lowry base is a Lewis base, because accepting H⁺ means donat
 3. Neutral: H₂O, NH₃ (0). Anionic: Cl⁻, Br⁻, F⁻, CN⁻, OH⁻ (−1 each).
 
 **Worked reminder.** Find the oxidation state of iron in [Fe(H₂O)₅(OH)]²⁺: x + 5(0) + (−1) = +2, so x = **+3**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--02-complex-ion-charge.webp" width="900" height="960" alt="An octahedral complex of Cr3+ with two Cl- ligands (-1 each) and four H2O ligands (0 each), each donating a lone pair along an arrow. The sum +3 + 2(-1) + 4(0) gives +1, so the ion is [CrCl2(H2O)4]+." loading="lazy">
+  <figcaption>Complex charge = metal ion charge + ligand charges: +3 + 2(-1) + 4(0) = +1.</figcaption>
+</figure>
+
 
 ## Reactivity 3.4.9 SN1 vs SN2
 
@@ -92,6 +104,22 @@ Secondary halogenoalkanes react by **both** mechanisms.
 
 Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabilise a carbocation by releasing electron density. A primary carbon has neither problem nor benefit, so it reacts in one step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--03-sn2.webp" width="900" height="1110" alt="Three stages: hydroxide attacks carbon from the side opposite bromine with two curly arrows; a bracketed transition state with partial bonds and the other three groups in one plane; the product with OH where the back side was and the other three groups flipped like an umbrella, so the configuration is inverted." loading="lazy">
+  <figcaption>SN2 is a one-step back-side attack through a single transition state, inverting the configuration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--04-sn1.webp" width="900" height="1210" alt="Step 1, slow: the C-Br bond breaks heterolytically giving a bromide ion and a carbocation. Step 2, fast: the planar carbocation, drawn edge-on with an empty orbital above and below, is attacked by water from either face, so SN1 is not stereospecific." loading="lazy">
+  <figcaption>SN1 forms a planar carbocation first, so the nucleophile can attack from either face.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--05-sn-energy-profiles.webp" width="900" height="1180" alt="Two energy profiles: SN2 has one hump (transition state) and rate = k[RX][Nu]; SN1 has two humps with a carbocation dip between them, the first higher and slow, and rate = k[RX]. Doubling [RX] and halving [OH-] leaves an SN2 rate unchanged but doubles an SN1 rate." loading="lazy">
+  <figcaption>SN2 has one hump and depends on both reactants; SN1 has two humps and depends on the halogenoalkane only.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.10 Leaving group
 
 **Rate: RI > RBr > RCl** (same R group).
@@ -99,6 +127,12 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 - C–I is the longest and weakest of the three bonds, so it breaks fastest.
 - I⁻ is the best leaving group: largest ion, charge most spread out, most stable.
 - Do not argue from polarity. C–Cl is the most polar but the slowest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--06-leaving-group.webp" width="900" height="980" alt="Three rows show R-Cl, R-Br and R-I: the C-X bond lengthens and its bond enthalpy falls (346, 290, 228 kJ/mol), so substitution gets faster from Cl to I. Bond strength, not polarity, sets the rate." loading="lazy">
+  <figcaption>The weaker the C-X bond, the faster substitution: RI &gt; RBr &gt; RCl.</figcaption>
+</figure>
+
 
 ## Reactivity 3.4.11 Electrophilic addition (symmetrical alkenes)
 
@@ -115,6 +149,12 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 | X₂ | induced Xδ+ | dihalogenoalkane |
 | H₂O with acid catalyst | H⁺ | alcohol |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--07-electrophilic-addition.webp" width="900" height="1180" alt="Cyclooctene is drawn as an eight-sided ring with one double bond. One curly arrow runs from the C=C pi bond to the H of H-Br and another from the H-Br bond to Br. The intermediate has H on one carbon and + on the next, and Br- donates a lone pair to the positive carbon, giving bromocyclooctane." loading="lazy">
+  <figcaption>The pi bond attacks H, H-Br breaks, then Br- bonds to the carbocation to give bromocyclooctane.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.12 Unsymmetrical alkenes
 
 - Carbocation stability: **tertiary > secondary > primary** (positive inductive effect of alkyl groups).
@@ -123,6 +163,12 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 
 **Small reminder.** 2-methylhex-1-ene, CH₂=C(CH₃)CH₂CH₂CH₂CH₃, with HBr: H adds to C1, giving a tertiary C⁺ on C2. Major product **2-bromo-2-methylhexane**; minor product 1-bromo-2-methylhexane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--08-carbocation-stability.webp" width="900" height="1240" alt="3-methylpent-2-ene can take H+ on C3, giving a secondary carbocation on C2 (two alkyl groups) and the minor product 2-chloro-3-methylpentane, or on C2, giving a tertiary carbocation on C3 (three alkyl groups) and the major product 3-chloro-3-methylpentane." loading="lazy">
+  <figcaption>The more stable tertiary carbocation forms faster, so 3-chloro-3-methylpentane is the major product.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.13 Electrophilic substitution in benzene
 
 1. Arrow from the delocalised ring to E⁺.
@@ -130,6 +176,12 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 3. The C–H bonding pair returns to the π system; H⁺ departs and delocalisation returns.
 
 **Why substitution, not addition?** Keeping the delocalised ring is energetically favoured; addition would lose it. The guide says formation of E⁺ is not assessed. In nitration, HNO₃ behaves as a base towards H₂SO₄, giving NO₂⁺.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--09-benzene-substitution.webp" width="900" height="1010" alt="Step 1: a curly arrow from the delocalised ring to E+ gives a broken-horseshoe cation with + over five carbons, the sixth carbon carrying H and E. Step 2: the C-H bonding pair returns to the ring, H+ leaves and the delocalised ring is restored, giving C6H5E." loading="lazy">
+  <figcaption>Benzene substitutes rather than adds: C6H6 + E+ -&gt; C6H5E + H+, keeping the delocalised ring.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -47,6 +47,12 @@ Three features place a market on the spectrum: the **number of firms**, the **de
 
 To place a case-study market, test each feature in turn. Many growers selling identical onions is close to perfect competition. Forty independent cafes, each with its own menu and location, is close to monopolistic competition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--01-structure-spectrum.webp" width="900" height="900" alt="Four rows from perfect competition to pure monopoly with icons for number of firms, product, entry and price power. Rows follow the lesson table: huge/large/few/one firms; same/differentiated/either/no substitute; free/easy/hard/blocked entry; none/some/considerable/greatest control over price." loading="lazy">
+  <figcaption>The four market structures differ in firms, product, entry and price power.</figcaption>
+</figure>
+
+
 ## 3.3.3.2 Perfect competition
 
 ### Characteristics
@@ -82,6 +88,22 @@ A profit-maximising firm produces where **MC = MR**, with MC rising. Here MR = p
 
 **Shutdown rule:** in the short run, continue to produce while price is at least AVC. In the long run, a firm must cover all its costs, so it leaves if price stays below AC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--08-farm-f-profit-levels.webp" width="900" height="1020" alt="MC, AC and AVC points for 1 to 7 crates. At a price of 40 the farm makes 6 crates and earns 52 supernormal profit. At a price of 31 it makes 5 crates where price equals lowest AC, so profit is normal." loading="lazy">
+  <figcaption>Each farm makes the last crate whose MC is no more than the price: 6 crates at 40 (profit 52), 5 at 31 (profit 0).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--09-farm-f-loss-shutdown.webp" width="900" height="1066" alt="At a price of 28 the farm makes 5 crates with a loss of 15 but adds 25 towards fixed costs, so it stays open. At 21, below the lowest AVC of 22.50, it shuts down because producing would lose 46 against a fixed cost of 40." loading="lazy">
+  <figcaption>Price above AVC but below AC means a loss worth bearing; price below the lowest AVC means shut down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ### The diagram in words
 
 Draw two panels. In the market panel, industry demand slopes down and industry supply slopes up, meeting at the market price. In the firm panel, a horizontal line at that price is AR = MR, with U-shaped AC and rising MC, and MC cuts AC at its minimum. The firm produces where MC meets the price line.
@@ -100,12 +122,29 @@ Supernormal profit attracts entry. Market supply shifts right, price falls, and 
 
 Now start from 138 farms and let demand fall to Qd = 970 − 10P. At a price of 28, demand is 690, equal to 138 × 5, so 28 is the short-run price. Each farm loses 15, so some leave. At price 31 demand is 660, so the long-run number is 660 ÷ 5 = **132**: six farms exit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--04-farm-entry-exit-price.webp" width="900" height="920" alt="Market diagram: entry takes price from 40 to 31 and farms from 100 to 138; after a demand fall, exit takes 138 to 132. Qd = 1000-10P and 970-10P; 690/5 = 138, 660/5 = 132; axes start at 560 and 22." loading="lazy">
+  <figcaption>Entry and exit return the price to minimum AC of 31.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
+
 ### Efficiency: the proposition
 
 Perfect competition is said to give an **efficient allocation of resources** when its assumptions hold, **including the absence of externalities**.
 
 - **Allocative efficiency:** P = MC. The price buyers pay reflects what the last unit is worth to them, and MC what it costs to make.
 - **Productive efficiency:** long-run output is at minimum AC, so no resources are wasted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--05-competitive-efficiency-tests.webp" width="900" height="960" alt="Firm diagram at price 9.80 where P = MC and AC is at its minimum, output 60. Uses the lesson cost function TC = 144+5q+0.04q^2: MC = AC = 9.80 at q = 60 asserted." loading="lazy">
+  <figcaption>In perfect competition P = MC and output is at minimum AC when the assumptions hold.</figcaption>
+</figure>
+
 
 ### Yardstick, and critical assessment
 
@@ -120,6 +159,17 @@ To assess the proposition critically, test the assumptions:
 - **Distribution.** An efficient allocation can still be unfair, because it depends on the income that buyers have.
 
 A sound judgement: the model is a benchmark, not a description, and its efficiency conclusion needs all its assumptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--10-bakery-long-run.webp" width="900" height="928" alt="Demand just touches AC at 40 loaves and 10.20. MR equals MC at 40. MC there is 8.20, so price is 2.00 above MC. Lowest AC is at 60 loaves, so there is excess capacity of 20." loading="lazy">
+  <figcaption>Demand touches AC at 40 loaves: normal profit, but price is above MC and output is 20 below the lowest-AC level of 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
 
 ## 3.3.3.3 Monopolistic competition
 
@@ -152,6 +202,17 @@ In the long-run diagram, demand touches AC at q = 40, to the left of the lowest 
 
 Where firms make losses, some leave. Each remaining firm's demand then shifts right until it touches AC again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--02-bakery-short-run.webp" width="900" height="940" alt="Bakery B diagram: MR = MC at 50, price 12.00, AC 9.88, profit rectangle 106. D = 15-0.06q, MR = 15-0.12q, MC = 5+0.08q, AC = 144/q+5+0.04q; q=50, TR 600, TC 494, profit 106 asserted." loading="lazy">
+  <figcaption>In the short run Bakery B earns supernormal profit of 106 at 50 loaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--06-monopolistic-competition.webp" width="900" height="950" alt="Long-run diagram: the firm produces where MC = MR (output 40). The AR curve is tangent to the AC curve at price 7 and lies below AC elsewhere, so only normal profit is earned." loading="lazy">
+  <figcaption>With many firms and easy entry, monopolistic competitors earn only normal profit in the long run.</figcaption>
+</figure>
+
+
 ### Efficiency compared with perfect competition
 
 With the same costs, AC is lowest at q = 60, where AC = MC = 9.80. A perfectly competitive firm would produce 60 at a price of 9.80.
@@ -179,6 +240,12 @@ Firms compete through branding, advertising, design, quality, location, loyalty 
 The advertising pays, because profit rises from zero to 51. If rivals copy and demand returns to P = 12.2 − 0.05q, the bakery again sells 40 at 10.20. TR = 408 but TC = 174 + 200 + 64 = 438, a **loss of 30**. Everyone has spent more and the gain disappears.
 
 **Evaluation.** Non-price competition benefits consumers when it gives real information or better quality, but not when it only builds a brand that costs more. It depends on whether advertising informs or merely persuades, how easily rivals copy, and whether entry stays easy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--03-advertising-gain-copied.webp" width="900" height="920" alt="Revenue and cost bars for no advert (408, 408), advertising (575, 524, profit 51) and rivals copying (408, 438, loss 30). TR and TC recomputed from the lesson functions with fixed cost 144 or 174." loading="lazy">
+  <figcaption>Advertising lifts profit to 51, but if rivals copy it becomes a loss of 30.</figcaption>
+</figure>
+
 
 ## Common errors
 

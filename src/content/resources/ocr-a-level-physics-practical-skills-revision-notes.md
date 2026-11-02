@@ -33,6 +33,17 @@ A **control variable** is not the same as a **control experiment**: the latter i
 
 Choose instruments with **resolution appropriate to the quantity** — a micrometer, not a ruler, for a wire's diameter — and state a sensible **range and interval**, typically at least **six values** spread across the range. A **risk assessment** must be specific: the **hazard**, the **risk** it creates, and the **control measure** — a generic "wear safety goggles" with no link to the actual experiment earns nothing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--02-plan-variables-instrument.webp" width="900" height="900" alt="Independent, dependent and control variables, then instrument choice by resolution: an illustrative 0.50 mm wire read with a ruler (+/-0.5 mm, 100%) or a micrometer (+/-0.005 mm, 1%), and at least six values." loading="lazy">
+  <figcaption>Choose variables and an instrument whose resolution suits the quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--07-safety-hazard-harm-control.webp" width="900" height="930" alt="Four apparatus with the harm each could cause and a specific control: laser, hot water, falling mass and high current." loading="lazy">
+  <figcaption>Name the hazard, say what could be harmed, then give a control that fits the apparatus.</figcaption>
+</figure>
+
+
 ## The four words that decide marks
 
 | Term | Meaning |
@@ -46,6 +57,17 @@ Choose instruments with **resolution appropriate to the quantity** — a microme
 
 **More repeats improve reliability, reveal anomalies, and improve the accuracy of the mean by reducing the effect of random error — but they do nothing for a systematic error.** Removing a systematic error needs better-calibrated or more sensitive apparatus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
+
 ## Errors
 
 **Random** — unpredictable scatter; reduced by repeating and averaging.
@@ -53,6 +75,17 @@ Choose instruments with **resolution appropriate to the quantity** — a microme
 **Zero error** — the instrument does not read zero when it should.
 
 **An additive systematic error** (e.g. a zero error) appears on a graph as the correct gradient with an **unexpected intercept** — a line that should pass through the origin but doesn't is the giveaway. **A proportional (calibration) systematic error** instead changes the **gradient**, leaving the intercept at the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-skills-revision-notes--04-systematic-error-graph.webp" width="900" height="980" alt="Three lines: true y = 2x through the origin, a zero error y = 2x + 1 with the same gradient but an intercept of 1, and a calibration error y = 2.4x with the origin kept but a different gradient." loading="lazy">
+  <figcaption>A zero error shifts the intercept; a calibration error changes the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-zero-error-micrometer.webp" width="900" height="1010" alt="A micrometer with its jaws closed reads +0.02 mm instead of 0.00 mm. A wire reading of 1.5 mm on the sleeve plus 0.27 mm on the thimble is 1.77 mm. On a zoomed number line an arrow moves 1.77 back by 0.02 mm to the true diameter 1.75 mm. The error is systematic, so repeats do not remove it." loading="lazy">
+  <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
+</figure>
+
 
 ## Uncertainty
 
@@ -71,6 +104,32 @@ percentage uncertainty = (uncertainty / value) x 100
 The power rule matters most: a radius measured to 2% gives a volume uncertain to **6%**.
 
 **Reduce percentage uncertainty by measuring a larger quantity** — time 20 oscillations rather than one, then divide. The absolute uncertainty is fixed by the instrument, so it becomes a smaller share of a larger reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-skills-revision-notes--05-power-rule-percent.webp" width="900" height="890" alt="A radius known to 2 per cent gives 4 per cent for an area proportional to r squared and 6 per cent for a volume proportional to r cubed, shown as bars with icons." loading="lazy">
+  <figcaption>Multiply the percentage uncertainty by the power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--08-single-reading-percentage-uncertainty.webp" width="900" height="1000" alt="Zoomed scales show half-division bands. A metre rule reading 250 mm has +/-0.5 mm, 0.2%. A micrometer reading 0.28 mm has +/-0.005 mm, 1.8%. Bars compare the two: the same half-resolution is a bigger percentage of a small quantity." loading="lazy">
+  <figcaption>Half the resolution divided by the reading, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--10-subtraction-rule-temperature-rise.webp" width="900" height="680" alt="Two temperature readings, 22.0 and 41.5 degrees C, each +/-0.5. The rise is 19.5 C and the absolute uncertainties add to +/-1.0 C, which is 5.1% of the rise." loading="lazy">
+  <figcaption>When you subtract, add the absolute uncertainties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--02-pe-pendulum-many-oscillations.webp" width="900" height="810" alt="Twenty oscillations take 36.8 s, so T is 1.84 s. The 0.2 s start/stop uncertainty shrinks to 0.01 s in T, 0.54 %, whereas timing one oscillation gives 11 %. A fiducial marker at equilibrium gives a clear start and stop point." loading="lazy">
+  <figcaption>Timing 20 oscillations makes the percentage uncertainty twenty times smaller.</figcaption>
+</figure>
+
 
 ## Graphs and analysis
 
@@ -107,6 +166,12 @@ Generic answers score nothing. Name a **specific** change **and its reason**:
 - Repeat and average, to reduce **random** error.
 - Measure a larger quantity, to reduce **percentage** uncertainty.
 - Use a **fiducial marker** at the equilibrium position, because that is where the object moves fastest and timing is most consistent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-skills-revision-notes--06-fiducial-fastest-point.webp" width="900" height="1030" alt="Pendulum with a fiducial marker at the equilibrium position and a speed against position graph that is a semicircle, maximum at the centre. For illustrative A = 0.10 m and period 1.8 s, a 2 mm slip costs about 6 ms at the centre and 18 ms near the end." loading="lazy">
+  <figcaption>Time from the centre where the bob is fastest.</figcaption>
+</figure>
+
 
 ## Worked example: which measurement limits accuracy
 

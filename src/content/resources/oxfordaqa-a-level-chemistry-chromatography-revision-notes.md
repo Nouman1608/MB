@@ -102,6 +102,12 @@ Rf  =  --------------------------------------------------------
 6. A sample spot with no match is a substance not among the standards.
 7. To strengthen a match, rerun in a different solvent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ### TLC technique in brief
 
 | Step | Why |
@@ -119,6 +125,12 @@ Rf  =  --------------------------------------------------------
 - Collect the liquid in a series of fractions; check each fraction by TLC against standards.
 - Combine fractions that contain only one component; leave out fractions that contain two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
+
 ## Gas chromatography and GC-MS
 
 - Sample injected and vaporised; a gas carries it through the column under pressure at high temperature.
@@ -133,6 +145,12 @@ Rf  =  --------------------------------------------------------
 2. Total the precise masses of all the atoms in each candidate.
 3. Pick the total that equals the measured m/z.
 4. Show every sum, not just the one that matches.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

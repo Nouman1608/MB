@@ -40,6 +40,42 @@ The specification says the formulae are in an OxfordAQA guide, "Formulae for acc
 | Trade receivable days | trade receivables / credit revenue x 365 | days |
 | Trade payable days | trade payables / credit purchases x 365 | days |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-revenue-to-profit.webp" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000. Labels give gross profit margin 41.7%, markup 71.4%, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 15.0%." loading="lazy">
+  <figcaption>Each profitability measure takes a different profit and a different base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--07-ratio-receivable-payable-days.webp" width="900" height="790" alt="Two bars on a days axis: customers take 54.75 days (about 55) to pay and the business pays suppliers after 66.9 days (about 67). A bracket shows the gap of about 12 days." loading="lazy">
+  <figcaption>Customers pay before the business has to pay suppliers, which helps cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--03-ratio-inventory-turnover.webp" width="900" height="840" alt="Opening inventory 20,000 and closing 30,000 average 25,000. Cost of sales 140,000 is drawn as blocks of 25,000: five whole blocks and 0.6 of a sixth, so turnover is 5.6 times." loading="lazy">
+  <figcaption>Turnover shows how many times average inventory is sold and replaced in a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Building blocks
 
 - Cost of sales = opening inventory + purchases - closing inventory.
@@ -91,6 +127,12 @@ Customers take 75 days to pay but suppliers are paid in 50. That squeezes cash, 
 | Receivable days | Slow collection or generous terms | Quicker cash, tighter credit control |
 | Payable days | Cash kept longer, supplier goodwill at risk | Suppliers paid quickly, cash used sooner |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Margin divides by revenue. Markup divides by cost of sales. Markup is the larger figure for the same trading.
@@ -99,6 +141,12 @@ Customers take 75 days to pay but suppliers are paid in 50. That squeezes cash, 
 - Profit in relation to revenue uses profit for the year. ROCE uses profit from operations and capital employed.
 - Profit is not cash. Credit sales raise profit but not cash. Depreciation lowers profit but not cash. Buying equipment, repaying loans and drawings lower cash without lowering profit when they happen.
 - Paying a trade payable from the bank lowers current assets and current liabilities by the same amount. A current ratio above 1 : 1 then rises. Buying a non-current asset from the bank lowers current assets only, so the ratio falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--05-ratio-margin-to-markup.webp" width="900" height="900" alt="A graph of markup against gross profit margin drawn from markup = margin / (100 - margin). The curve is above the equal line everywhere, with marked points 20% to 25%, 25% to 33.3%, 37.5% to 60% and 50% to 100%." loading="lazy">
+  <figcaption>For the same trading, markup is always the bigger percentage.</figcaption>
+</figure>
+
 
 ## Cash and profit: effect of common transactions
 
@@ -113,6 +161,17 @@ Customers take 75 days to pay but suppliers are paid in 50. That squeezes cash, 
 | Payment of an expense | Falls | Falls |
 
 When asked why profit and cash differ, name the transactions in the question and say which of the two each one changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--06-ratio-payment-liquidity.webp" width="900" height="830" alt="Paired bars show the current ratio and liquid capital ratio. At the start they are 2.2 and 1.2, after buying equipment for 12,000 they are 1.8 and 0.8, and after paying 10,000 to payables they are 2.8 and 1.3. A dashed line marks 1 : 1." loading="lazy">
+  <figcaption>Paying a short-term debt improves both ratios while buying equipment lowers them, and neither changes profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-cash-vs-profit.webp" width="900" height="840" alt="Three events and their effect on profit and cash when they happen. A credit sale raises profit but cash is unchanged until paid. Depreciation lowers profit with no cash leaving. Drawings lower cash but not profit." loading="lazy">
+  <figcaption>Profit and cash can move in different directions.</figcaption>
+</figure>
+
 
 ## Appraisal and limitations in brief
 
@@ -158,6 +217,12 @@ When asked why profit and cash differ, name the transactions in the question and
 - Calling a figure good or bad with no comparison and no reason.
 - Treating profit and cash as the same thing when explaining a falling bank balance.
 - Giving limitations that are generic and not tied to the business in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--05-ratio-fairmead-appraisal.webp" width="900" height="892" alt="Stacked bars show cost of sales, expenses and profit as a percentage of revenue. Year 1: 60, 22, 18 percent (margin 40.0). Year 2: 65, 16, 19 percent (margin 35.0). Revenue rose 10.0 percent, cost of sales 19.2 percent, expenses fell 20.0 percent." loading="lazy">
+  <figcaption>The margin fell but profit share rose because expenses were cut.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

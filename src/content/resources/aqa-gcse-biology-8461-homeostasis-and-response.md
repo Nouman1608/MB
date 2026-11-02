@@ -89,6 +89,12 @@ Percentage change = (0.27 − 0.32) / 0.32 × 100 = −15.6%
 
 Reaction time fell by **15.6%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--10-homeo-reaction-time.webp" width="900" height="900" alt="Dot plot of five reaction times before (mean 0.32 s) and after (mean 0.27 s) cola, a fall of 15.6%." loading="lazy">
+  <figcaption>Mean reaction time fell by 15.6% after cola.</figcaption>
+</figure>
+
+
 ### The brain (4.5.2.2)
 
 Identify three regions on a diagram:
@@ -98,6 +104,12 @@ Identify three regions on a diagram:
 - **Medulla** -- at the base, joined to the spinal cord: controls unconscious activities such as heart rate and breathing.
 
 **Higher tier only.** Scientists mapped brain regions by studying patients with brain damage, electrically stimulating parts of the brain, and using MRI scanning. The brain is complex and delicate, so investigating and treating brain disorders is very difficult.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--09-homeo-brain-regions.webp" width="900" height="1110" alt="Side view with cerebral cortex, cerebellum and medulla labelled with their functions; Higher tier note on how regions were mapped." loading="lazy">
+  <figcaption>The cortex, cerebellum and medulla have different jobs.</figcaption>
+</figure>
+
 
 ### The eye (4.5.2.3)
 
@@ -120,6 +132,22 @@ In dim light the iris widens the pupil so more light reaches the retina.
 
 **Myopia** (short sight): light from distant objects focuses in front of the retina. It is corrected with a **concave** (diverging) spectacle lens. **Hyperopia** (long sight): light from near objects focuses behind the retina, corrected with a **convex** (converging) lens. Newer options: contact lenses, laser surgery to reshape the cornea, and a replacement lens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--06-eye-structure.webp" width="900" height="860" alt="Section through the eye with light entering from the left. Labels mark the cornea, iris, lens, suspensory ligaments, ciliary muscles, sclera, retina and optic nerve." loading="lazy">
+  <figcaption>Label the parts of the eye named in the specification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--07-accommodation.webp" width="900" height="1240" alt="For a near object the ciliary muscles contract, the suspensory ligaments loosen and the lens is thick so it bends light more. For a distant object the muscles relax, the ligaments are pulled tight and the lens is thin so it bends light less. Rays focus on the retina in both." loading="lazy">
+  <figcaption>Accommodation: ciliary muscles and ligaments change the lens shape to focus on the retina.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--08-sight-defects.webp" width="900" height="1010" alt="Four eye diagrams with rays. Short sight: rays meet in front of the retina; a concave lens moves the focus back onto the retina. Long sight: rays from a near object would meet behind the retina; a convex lens moves the focus onto the retina." loading="lazy">
+  <figcaption>Concave lenses correct short sight and convex lenses correct long sight.</figcaption>
+</figure>
+
+
 ### Control of body temperature (4.5.2.4)
 
 The **thermoregulatory centre** in the brain contains receptors sensitive to blood temperature. Skin temperature receptors also send it impulses.
@@ -128,6 +156,22 @@ The **thermoregulatory centre** in the brain contains receptors sensitive to blo
 - **Too cold:** blood vessels constrict (**vasoconstriction**), sweating stops, and skeletal muscles contract (**shiver**).
 
 **Higher tier only.** Explain these in context: vasodilation sends more blood near the surface, so more energy is transferred to the surroundings; evaporating sweat transfers energy from the skin. Vasoconstriction does the reverse. Shivering needs respiration, which releases energy that warms the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--09-body-temperature.webp" width="900" height="1010" alt="The thermoregulatory centre senses blood temperature. Too hot: skin blood vessels widen, sweat evaporates and more energy goes to the surroundings. Too cold: vessels narrow, sweating stops and muscles shiver, releasing energy from respiration. HT marks the Higher tier explanations." loading="lazy">
+  <figcaption>Vasodilation and sweating cool the body; vasoconstriction and shivering warm it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
 
 ## Hormonal coordination (4.5.3)
 
@@ -170,6 +214,17 @@ Urea excreted    = 30 / 54 × 100 = 55.6%
 
 **Kidney failure** is treated by **dialysis** or a **transplant**. In dialysis, blood flows past a partially permeable membrane. The dialysis fluid has the same glucose and ion concentrations as normal blood, so these are not lost, but no urea, so urea diffuses out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--10-dialysis.webp" width="900" height="950" alt="Blood and dialysis fluid flow past a partially permeable membrane. Urea is high in the blood and absent from fresh fluid, so it diffuses out. The fluid has glucose and ion levels like blood, so these do not leave. Blood cells are too large to pass." loading="lazy">
+  <figcaption>Dialysis fluid has no urea but normal glucose and ions, so only urea is removed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--12-homeo-kidney-numbers.webp" width="900" height="740" alt="Of 180 dm3 filtered, 178.5 is reabsorbed (99.2%) and 1.5 leaves as urine; of 54 g of urea, 30 g (55.6%) is in the urine." loading="lazy">
+  <figcaption>Almost all the water is reabsorbed but a large share of urea is excreted.</figcaption>
+</figure>
+
+
 ### Hormones in reproduction (4.5.3.4)
 
 At puberty, reproductive hormones cause secondary sex characteristics. **Oestrogen** is the main female hormone, made in the ovary. An egg is released about every 28 days: **ovulation**. **Testosterone**, made by the testes, stimulates sperm production.
@@ -196,6 +251,12 @@ At puberty, reproductive hormones cause secondary sex characteristics. **Oestrog
 
 A fertility drug of **FSH and LH** can help a woman become pregnant normally. In **IVF**, the mother is given FSH and LH so several eggs mature; eggs are collected and fertilised by the father's sperm in the laboratory; the fertilised eggs develop into embryos; one or two tiny balls of cells are inserted into the uterus. IVF is emotionally and physically stressful, success rates are not high, and multiple births risk the health of babies and mother. If a clinic records 104 births from 400 treatment cycles, the success rate is 104 / 400 × 100 = **26%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--13-homeo-ivf-steps.webp" width="900" height="1060" alt="Five IVF steps from hormone treatment to inserting embryos, and a success bar of 104 births from 400 cycles (26%)." loading="lazy">
+  <figcaption>IVF has five steps and a success rate of 26% in the lesson example.</figcaption>
+</figure>
+
+
 ### Adrenaline and thyroxine (4.5.3.7) -- Higher tier only
 
 **Adrenaline** from the adrenal glands is released in fear or stress. It increases heart rate and boosts delivery of oxygen and glucose to the brain and muscles, preparing the body for "fight or flight". **Thyroxine** from the thyroid gland stimulates the basal metabolic rate and is important in growth and development. Thyroxine levels are controlled by **negative feedback**: a fall in thyroxine leads to more stimulation of the thyroid, and a rise leads to less.
@@ -213,6 +274,12 @@ Investigate the effect of light or gravity on newly germinated seedlings; record
 - **Auxins:** weed killers, rooting powders, promoting growth in tissue culture.
 - **Ethene:** controls ripening of fruit during storage and transport.
 - **Gibberellins:** end seed dormancy, promote flowering, increase fruit size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--11-homeo-root-gravitropism.webp" width="900" height="1010" alt="A sideways root with auxin on its lower side, then bent downwards because the lower side grows more slowly." loading="lazy">
+  <figcaption>Auxin on the lower side slows growth there, so the root bends down.</figcaption>
+</figure>
+
 
 ## Common errors
 

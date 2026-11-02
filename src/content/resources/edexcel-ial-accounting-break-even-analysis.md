@@ -185,6 +185,12 @@ Suppose Pellory raised its price to 40.00 with the same costs. Contribution rise
 
 The straight lines assume that the selling price and variable cost per unit stay the same at every output, that fixed costs do not change within the range shown (unless a step is drawn in, as in example 2), and that everything made is sold. A bulk discount on materials, for example, would bend the total cost line, so the break-even point read from straight lines is an estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--09-break-even-chart.webp" width="900" height="740" alt="Fixed costs are flat at 30,000 dollars, total costs start there and rise 22.50 per lamp, and revenue rises 37.50 per lamp from zero. They meet at 2,000 lamps and 75,000 dollars. Left of that is loss and right of it profit; the margin of safety to the budget of 4,000 lamps is 2,000 lamps; the angle of incidence is marked at the break-even point." loading="lazy">
+  <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Using the fixed element of a semi-variable cost as part of variable cost, or forgetting to add it to fixed costs.

@@ -57,6 +57,17 @@ Use the [OCR A Level Economics hub](/boards/ocr/a-level/economics/) and the [pri
 
 **Full employment** as a macroeconomic objective does not mean zero unemployment. It means everyone who wants and is able to work at the going wage can find a job, so the only unemployment left is frictional (people between jobs) and voluntary. In practice a government aims for a low rate consistent with stable prices, which links to the natural rate below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--05-labour-force-breakdown.webp" width="900" height="930" alt="The population aged 16 and over (40.0m) splits into labour force 26.5m and inactive 13.5m; the labour force splits into employed 25.2m and unemployed 1.3m. Rates are 4.9%, 63.0% and 33.8%." loading="lazy">
+  <figcaption>Rates use different denominators: labour force for unemployment, population for employment and inactivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--14-ulc-full-employment.webp" width="900" height="920" alt="Wages rise 4.5 percent while productivity rises 1.5 percent, so unit labour cost rises about 3.0 percent, which can feed inflation." loading="lazy">
+  <figcaption>Wage growth that outruns productivity raises unit labour costs.</figcaption>
+</figure>
+
+
 ## 2. Labour Force Survey and claimant count
 
 | | Labour Force Survey (LFS) | Claimant count |
@@ -69,6 +80,12 @@ Use the [OCR A Level Economics hub](/boards/ocr/a-level/economics/) and the [pri
 
 **Worked example.** Country A has an LFS total of 1.3m and a claimant count of 0.90m. Suppose 0.15m claimants are not required to look for work and 0.12m work a few hours on low pay. Claimants who also meet the LFS test = 0.90 − 0.15 − 0.12 = 0.63m. LFS unemployed who do not claim (for example because a partner's income or savings rule out benefit) = 1.30 − 0.63 = **0.67m**. The two measures differ because they count different people, not because one is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--06-lfs-vs-claimant-count.webp" width="900" height="900" alt="Two bars on one scale: LFS unemployed 1.30m (0.63 also claim, 0.67 do not) and claimant count 0.90m (0.63 meet the LFS test, 0.15 not required to look, 0.12 work a few hours). The measures count different people." loading="lazy">
+  <figcaption>The two measures overlap but count different people.</figcaption>
+</figure>
+
+
 ## 3. The natural rate and NAIRU
 
 The **natural rate of unemployment** is what remains when the labour market clears at its equilibrium wage: frictional and structural joblessness stay, cyclical joblessness does not. On an AD/AS diagram, long-run aggregate supply is vertical at the level of output where unemployment is at its natural rate. The **non-accelerating inflation rate of unemployment (NAIRU)** is the rate at which inflation neither rises nor falls. Below it, tight labour markets push wages and prices up faster each year; above it, inflation falls.
@@ -80,6 +97,17 @@ The **natural rate of unemployment** is what remains when the labour market clea
 - If people then expect 2.5%, next year inflation at u = 3.0% is **3.0%**, and then **3.5%**. Holding unemployment below NAIRU makes inflation accelerate.
 
 **Evaluation.** Nobody observes NAIRU directly, so estimates are uncertain and move over time. Long unemployment spells can raise it (hysteresis: skills fade, employers screen out the long-term jobless). Supply-side policies that improve skills and mobility can lower it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--08-nairu-accelerating-inflation.webp" width="900" height="930" alt="With inflation = expected + 0.5 x (4.0 - u): u 4.9% gives 1.55%, falling; u 3.0% gives 2.5%, then 3.0%, then 3.5% as expectations catch up." loading="lazy">
+  <figcaption>Holding unemployment below NAIRU makes inflation accelerate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
 
 ## 4. Difficulties of measuring unemployment
 
@@ -98,6 +126,12 @@ The **natural rate of unemployment** is what remains when the labour market clea
 - Underemployment = 1.1 ÷ 25.2 = **4.4%** of those in work.
 
 The first figure understates spare capacity. **Judgement:** pick the measure to fit the question. For international comparison use the LFS; for local detail use the claimant count.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--11-hidden-unemployment-rate.webp" width="900" height="970" alt="Headline unemployment is 4.9 percent. Adding 0.9 million discouraged workers gives 8.0 percent. 1.1 million part-timers wanting more hours are 4.4 percent of those in work." loading="lazy">
+  <figcaption>Hidden unemployment and underemployment show spare capacity the headline rate misses.</figcaption>
+</figure>
+
 
 ## 5. Causes of unemployment
 
@@ -122,6 +156,27 @@ The first figure understates spare capacity. **Judgement:** pick the measure to 
 
 **Evaluation chain.** Cyclical unemployment dominates in a deep recession, but structural unemployment dominates after long-term industry change and lasts longer. Wage-based explanations are stronger if labour demand is elastic and the wage floor is high; weaker if employers have power over wages. Generous benefits can lengthen job search, yet they also let people find a better match. Technology destroys some jobs and creates others, so the net effect depends on the speed of retraining. Time period, country and sector all matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--07-real-wage-unemployment.webp" width="900" height="1000" alt="Demand L = 120 - 4w and supply L = -30 + 6w meet at w = 15, L = 60. A wage of 18 gives demand 48 and supply 78, so 30 thousand are unemployed (12 lost jobs, 18 new job-seekers)." loading="lazy">
+  <figcaption>A wage floor above equilibrium creates unemployment: 48 jobs but 78 job-seekers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--12-natural-rate-split.webp" width="900" height="790" alt="Frictional 0.30m and structural 0.76m make the natural rate of 4.0 percent; cyclical 0.24m adds 0.9 percent for an actual rate of 4.9 percent of a 26.5 million labour force." loading="lazy">
+  <figcaption>Natural rate plus cyclical unemployment equals the actual rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## 6. Consequences of unemployment
 
 | Who | Consequences |
@@ -137,6 +192,12 @@ The first figure understates spare capacity. **Judgement:** pick the measure to 
 - Lost output at £55,000 per worker: 0.24m × £55,000 = **£13.2bn**, which is **0.88%** of a £1,500bn GDP.
 
 **Evaluation.** The size of the harm depends on the duration, the type (a short frictional spell may improve matching), the quality of benefits and retraining, and whether it falls on one region or group. Long-term unemployment, youth unemployment and concentrated local unemployment are the most damaging. Lower output also reduces tax receipts further, so the fiscal cost can exceed the figure above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--13-cyclical-cost-gbp.webp" width="900" height="850" alt="Each cyclically unemployed worker costs 12,000 pounds in lost tax and benefits; for 0.24 million workers that is 2.88 billion pounds, plus 13.2 billion pounds of lost output (0.88 percent of GDP)." loading="lazy">
+  <figcaption>Fiscal cost and lost output of 0.24 million cyclically unemployed workers.</figcaption>
+</figure>
+
 
 ## 7. Changes in the pattern of employment
 
@@ -157,6 +218,12 @@ Total employment rose 8.6%. Secondary jobs fell 23.9% and tertiary jobs rose 18.
 - **Consequences:** structural unemployment where displaced workers cannot move or retrain; wider regional inequality; more insecure work and in-work poverty; higher productivity in some sectors; a need for new skills; changed tax receipts as pay and hours change.
 
 **Evaluation.** Whether a change helps depends on who gains. A shift to services can raise output and employment overall while hurting the former manufacturing region for decades. Flexible contracts help firms and some workers but raise insecurity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--09-employment-sector-shares.webp" width="900" height="1000" alt="Stacked bars of employment shares by sector, year 1 versus year 10. Tertiary rose from 77.6% to 84.5% and secondary fell from 19.8% to 13.9%; total jobs rose 8.6%." loading="lazy">
+  <figcaption>Services grew while manufacturing jobs shrank.</figcaption>
+</figure>
+
 
 ## 8. The effects of full employment
 

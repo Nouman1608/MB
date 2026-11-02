@@ -72,6 +72,22 @@ Current assets are items that are cash or will become cash within twelve months 
 
 **Why it matters.** Working capital is how a business pays bills as they fall due. A profitable business can still fail if its cash is tied up in inventory and unpaid invoices when wages are due. Too little working capital means missed payments, lost supplier trust and possible insolvency. Too much can mean money sits idle that could have been used to grow. Working capital is also itself a source of finance, as section 5.1.2 explains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--03-working-capital-harrowfield.webp" width="900" height="870" alt="Current assets of 25,000 pounds (inventory 12,000, receivables 9,500, cash 3,500) are stacked beside current liabilities of 15,000 (payables 11,000, overdraft 4,000). The 10,000 pound gap is working capital." loading="lazy">
+  <figcaption>Working capital is current assets minus current liabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--01-bf-startup-finance.webp" width="900" height="930" alt="Two equal-height stacked bars. Costs: equipment 18,000, van 14,000, inventory 4,000, fitting out 9,000, working capital 5,000 pounds, total 50,000. Funding: owner 30,000 (60%) and bank loan 20,000 (40%)." loading="lazy">
+  <figcaption>Start-up costs of 50,000 pounds are matched by 60% owner funds and 40% loan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## 5.1.2 The main sources of finance
 
 Sources are split into **internal** (from inside the business) and **external** (from outside it).
@@ -141,6 +157,37 @@ The owner invests £30,000 (60%) and takes a bank loan for £20,000 (40%).
 | Amount | Limited by what the business has | Can be much larger |
 | Risk | Owners' own money at risk | Repayment pressure or lost ownership |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--04-hire-purchase-cost.webp" width="900" height="820" alt="A cash bar of 12,000 pounds is compared with hire purchase: 2,400 deposit plus 24 payments of 480 (11,520), total 13,920, which is 1,920 or 16% more." loading="lazy">
+  <figcaption>Spreading the cost and owning the oven at the end costs 16% extra.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--02-bf-share-issue.webp" width="900" height="850" alt="A bar of 140,000 shares: 100,000 existing and 40,000 new. The new shares are 28.6% of the company and raise 40,000 x 1.25 = 50,000 pounds." loading="lazy">
+  <figcaption>Issuing 40,000 shares at 1.25 pounds raises 50,000 pounds and gives new shareholders 28.6%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--03-bf-venture-capital.webp" width="900" height="840" alt="Four equal quarters of 200,000 pounds. The investor holds one quarter (25%), so the whole business is valued at 200,000 / 0.25 = 800,000 pounds." loading="lazy">
+  <figcaption>Paying 200,000 pounds for 25% values the business at 800,000 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
+
 ## Choosing a source of finance
 
 The syllabus lists the factors to consider. For each one, ask what it changes.
@@ -161,6 +208,17 @@ Recommendation: a long-term bank loan, topped up with the owner's savings.
 Justification: the purpose is long-term, so a long-term source matches it (purpose, length of time). A sole trader cannot issue shares (legal form). An overdraft would be expensive and could be called in early. Because there is already a loan, the business should check repayments are affordable (existing loans).
 
 A strong answer recommends one source, applies the facts in the case, and gives a reason why a different source is less suitable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--04-bf-recommend-justify.webp" width="900" height="930" alt="Rowanby needs 25,000 pounds for ten or more years as a sole trader. A bank loan is recommended; issuing shares fails on legal form; an overdraft is costly and can be called in. The existing 10,000 pound loan means repayments need checking." loading="lazy">
+  <figcaption>A strong answer picks one source and gives case-based reasons against the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
 
 ## Common errors
 

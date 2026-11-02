@@ -55,6 +55,17 @@ Method in steps for a "training worth it?" question:
 3. Compare, then comment on what the numbers leave out.
 4. Reach a judgement if the command word asks for one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--01-pelham-training-payback.webp" width="900" height="860" alt="Cost 5,136 (fees 3,600 plus wages 1,536) against a waste saving of 1,800 a year; the cost is recovered in about 2.85 years." loading="lazy">
+  <figcaption>Pelham Joinery: 5,136 of cost against 1,800 a year of waste saved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2. Why motivation matters (2.4.1)
 
 - Attracting employees: a good reward package widens the pool of applicants.
@@ -73,6 +84,12 @@ Standard-form calculations (the specification does not give formulas, so these a
 | Commission | Percentage × sales |
 | Piece-rate pay | Rate per item × items made |
 | Time-rate pay | Hourly rate × hours worked |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--02-calder-productivity-turnover.webp" width="900" height="990" alt="Output per worker 300 to 330 (+10%); staff turnover 9 of 36 (25%) to 5 of 36 (13.9%)." loading="lazy">
+  <figcaption>Calder Plastics: output per worker up 10%, turnover down from 25% to 13.9%.</figcaption>
+</figure>
+
 
 ## 3. Theories at a glance (2.4.1)
 
@@ -94,6 +111,17 @@ Must-know distinctions:
 - Maslow's security need versus the social need: a permanent contract meets the first, a friendly team the second.
 - Recognition is a motivator for Herzberg and sits at esteem for Maslow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ## 4. Financial methods (2.4.2)
 
 | Method | Meaning | Key plus | Key minus |
@@ -103,6 +131,27 @@ Must-know distinctions:
 | Commission | Percentage of sales | Pushes sales effort | Pressure on customers; uneven income |
 | Promotion | Move to a senior role | Career goal; esteem | Few posts |
 | Fringe benefits | Extras such as company car, health cover, discounts | Attracts and retains | Cost; not valued by all |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--03-wexcombe-pay-packet.webp" width="900" height="880" alt="Salary 1,450 plus commission 1,925 plus bonus 250 gives 3,625." loading="lazy">
+  <figcaption>Commission follows sales made; the bonus follows a target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--04-quillon-time-v-piece.webp" width="900" height="810" alt="Time rate 475 against piece rate 488, 13 or 2.7% more." loading="lazy">
+  <figcaption>Piece rate paid 13 more than time rate in this week.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--05-rotation-enrichment-autonomy.webp" width="900" height="1080" alt="Rotation moves between same-level tasks; enrichment adds harder tasks; autonomy lets the employee decide how, when and in what order." loading="lazy">
+  <figcaption>Rotation adds variety, enrichment adds depth, autonomy adds freedom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--01-financial-methods-tied-to.webp" width="900" height="900" alt="Five rows pair each financial method with what it is tied to. Remuneration is tied to time worked, a bonus to a target met, commission to sales made, promotion to more pay and duties, and fringe benefits to extras such as a car, health cover or discount. Bonus follows a target while commission follows sales." loading="lazy">
+  <figcaption>Each financial method is tied to something different: time, a target, sales, a bigger role or extras.</figcaption>
+</figure>
+
 
 ## 5. Non-financial methods (2.4.2)
 

@@ -66,6 +66,12 @@ Skeletal muscle fibre: one long multinucleate cell with sarcolemma, T tubules, s
 
 Distinction: ATP is needed to detach the head (step 7) and to re-set it (step 8).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">
+  <figcaption>The cross-bridge cycle: calcium, binding, power stroke, ATP detachment and reset.</figcaption>
+</figure>
+
+
 ## 7.12 The heartbeat
 
 Myogenic means the cardiac muscle starts its own contraction. Sequence:
@@ -182,6 +188,12 @@ Method in steps for a spirometer trace question:
 10. Slow twitch has more mitochondria and myoglobin and fatigues slowly; fast twitch contracts faster and more powerfully but fatigues quickly.
 11. The vagus nerve.
 12. Any two of: increased heart rate, glycogen converted to glucose in the liver, dilated bronchioles, blood diverted to muscle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

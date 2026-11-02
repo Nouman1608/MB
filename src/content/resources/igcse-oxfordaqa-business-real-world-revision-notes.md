@@ -38,9 +38,31 @@ Increase it by branding, better design, superior service, or convenience — or 
 
 The specification also names **opportunity cost** (the next best alternative given up) as a basic concept here, alongside needs and wants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+
 ## Business sectors
 
 **Primary** (extraction), **secondary** (manufacturing), **tertiary** (services). As economies develop, output shifts from primary and secondary towards tertiary. The three sectors are **interdependent** — e.g. a secondary-sector manufacturer needs primary-sector raw materials and tertiary-sector transport, retail and finance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--05-sector-shift.webp" width="900" height="990" alt="Illustrative shares of output: developing economy 40/25/35 and developed economy 3/17/80 (primary/secondary/tertiary). Secondary shrinks and tertiary grows: deindustrialisation." loading="lazy">
+  <figcaption>As an economy develops, secondary shrinks and tertiary grows (illustrative shares).</figcaption>
+</figure>
+
 
 ## Ownership
 
@@ -58,17 +80,50 @@ The specification also requires understanding of **multinational organisations**
 
 **Franchising is not itself a form of ownership or a liability status** — the franchisee trades as a sole trader, partnership or company, and that choice determines liability. It is a growth/set-up method: the franchisee gets a proven brand, training and support, and so faces lower risk, but pays fees and royalties and has little independence; the franchisor expands quickly with limited capital, but risks damage to the brand from a poorly run outlet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ## Business objectives
 
 Objectives change with circumstances: **survival** is the priority for a new start-up, then attention shifts to **profit**, **growth**, **market share**, or **social and environmental goals** as the business matures. Objectives frequently **conflict**: pursuing growth consumes cash that might otherwise be paid out as profit, and ethical or sustainable sourcing typically raises costs, reducing profit in the short term.
 
 **Governments encourage enterprise** — e.g. start-up finance, grants, training, cutting red tape — since new businesses create jobs and tax revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
+
 ## Business planning
 
 A **business plan** sets out purpose, objectives and organisation — needed to clarify thinking and to raise finance. **Benefits:** forces research, required by lenders/investors. **Drawbacks:** takes time, only as good as its assumptions.
 
 **Fixed costs** (don't change with output) + **variable costs** (change with output) = **total costs**. **Revenue** − **total costs** = **profit** (or **loss** if negative).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -82,11 +137,23 @@ Owners, employees, customers, suppliers, government, local community, and lender
 
 A top answer then judges whose interest should take priority, and justifies it in the context of the specific business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## Location
 
 Influences: proximity to **market**, to **raw materials**, to **labour supply**, transport links, cost of premises, competitors, and government incentives.
 
 **Weight-losing** industries (steel, food processing) locate near raw materials because it is cheaper to transport the finished lighter product. **Weight-gaining** and service industries locate near the market. Online retail weakens the pull of the physical market but strengthens the need for good transport links.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
 
 ## Growth
 

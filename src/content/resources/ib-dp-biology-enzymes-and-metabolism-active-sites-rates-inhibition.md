@@ -61,6 +61,17 @@ Enzymes are **globular proteins**: the polypeptide folds into a compact, roughly
 
 **Specificity and denaturation.** The active site shape and charge match only certain substrates, so the enzyme is specific. Anything that changes the three-dimensional structure changes the active site and can stop it binding the substrate. **Denaturation** is a loss of the enzyme's three-dimensional structure through disruption of the bonds that hold it. A denatured enzyme usually cannot return to its working shape, so the loss of activity is usually permanent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--01-induced-fit-specificity.webp" width="900" height="1150" alt="Three rows. Induced fit: an active site close to but not exactly the substrate shape; on binding, arrows show the site and substrate changing shape slightly and a zigzag marks a strained bond. Specificity: a round substrate of the wrong shape cannot bind the notch-shaped site. Denatured enzyme: the site is distorted, the substrate cannot bind and the loss is usually permanent." loading="lazy">
+  <figcaption>Binding changes both enzyme and substrate slightly and strains bonds; a wrong shape or a denatured site stops binding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--02-collisions-and-motion.webp" width="900" height="1060" alt="Three rows. Both free in solution: substrate moves randomly and reacts only if it hits the active site the right way round. Substrate fixed (a large structural polymer): the enzyme moves to it. Enzyme fixed in a membrane: the substrate moves to it." loading="lazy">
+  <figcaption>A reaction needs a collision with the correct orientation; sometimes the enzyme moves, sometimes the substrate.</figcaption>
+</figure>
+
+
 ## Temperature, pH and substrate concentration (C1.1.8)
 
 Explain each effect in terms of collision theory and denaturation.
@@ -88,6 +99,17 @@ A student mixed a protease with a cloudy milk suspension and recorded the time f
 3. The optimum lies between 30 and 50 °C, probably near 40 °C, but no reading lies between 40 and 50.
 4. At 60 °C the enzyme was almost certainly denatured, so substrate could not bind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--03-temperature-and-ph.webp" width="900" height="1140" alt="Top, the worked-example protease data: rate (1000 divided by time) is 4.2, 8.3, 16.7 and 11.1 at 20 to 50 C and about 0 at 60 C; it doubles per 10 C then falls 33% from 40 to 50 C, and the optimum lies between 30 and 50 C. Bottom, an illustrative pH sketch: pepsin peaks in acid, a saliva enzyme near neutral pH." loading="lazy">
+  <figcaption>Away from the optimum the active site changes shape, so the rate falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--04-substrate-concentration.webp" width="900" height="940" alt="A rate against substrate concentration curve rising then flattening to a dashed maximum rate, with three numbered points. Three panels of eight active sites show 2, 4 and 7 occupied at low, medium and high substrate. Only more enzyme (or a better temperature or pH) raises the plateau." loading="lazy">
+  <figcaption>At high substrate nearly every active site is occupied, so the rate reaches a maximum.</figcaption>
+</figure>
+
+
 ## Measuring rates (C1.1.9)
 
 Rate is the amount of product formed, or substrate used, per unit time, found from your own experiment or from secondary data. Typical measures: volume of gas collected, absorbance of a coloured product measured in a colorimeter, mass of substrate remaining, or the time for a visible change (rate is then proportional to 1 / time).
@@ -106,6 +128,12 @@ An enzyme converts a colourless substrate to a coloured product.
 2. Rate between 5 and 7 minutes = (0.53 − 0.47) / 2 = **0.03 absorbance units per minute**.
 3. The rate has fallen to about 27% of the initial rate (0.03 / 0.11). Substrate has been consumed, so collisions with active sites are rarer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--05-initial-rate.webp" width="900" height="990" alt="Absorbance against time points from the worked example (0 to 0.53 over 7 min). The first 3 minutes give 0.33 divided by 3 = 0.11 per min; minutes 5 to 7 give 0.06 divided by 2 = 0.03 per min, 27% of the initial rate. Cuvettes show a colourless solution becoming coloured." loading="lazy">
+  <figcaption>The initial rate is the gradient at the start; it falls as substrate is used up.</figcaption>
+</figure>
+
+
 ## Activation energy (C1.1.10)
 
 **Activation energy** is the energy needed to start a reaction. In an enzyme-catalysed reaction, energy is needed to break bonds in the substrate, and energy is released when bonds form in the products. An enzyme **lowers the activation energy** by holding the substrate in a strained position in the active site. It does not change the energy of reactants or products, so the overall energy change is the same.
@@ -118,6 +146,12 @@ Data: reactants at 40 kJ mol⁻¹, products at 15 kJ mol⁻¹, peak of the uncat
 2. Activation energy with enzyme = 50 − 40 = **10 kJ mol⁻¹**.
 3. The enzyme lowers it by 35 kJ mol⁻¹.
 4. Overall change = 15 − 40 = **−25 kJ mol⁻¹** in both cases, so energy is released.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--06-activation-energy.webp" width="900" height="830" alt="Energy profile in kJ per mol: reactants 40, products 15. Peak 85 without enzyme (Ea 45) and 50 with enzyme (Ea 10), so the enzyme lowers Ea by 35. The overall change is -25 in both cases, so energy is released." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy but does not change the energy of reactants or products.</figcaption>
+</figure>
+
 
 ## Where enzymes work, and metabolic heat (C1.1.11, C1.1.12) -- HL only
 
@@ -150,6 +184,22 @@ Rates (arbitrary units) at different substrate concentrations:
 1. P at 1 mM: (20 − 8) / 20 × 100 = **60%** reduction. At 32 mM: (89 − 73) / 89 × 100 = **18%** reduction.
 2. R at 1 mM: (20 − 10) / 20 × 100 = **50%** reduction. At 32 mM: (89 − 44) / 89 × 100 = **51%** reduction.
 3. The effect of P shrinks as substrate rises, so P is **competitive**. The effect of R stays about the same, so R is **non-competitive**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--07-inhibitor-types.webp" width="900" height="1060" alt="Competitive: an inhibitor shaped like the substrate sits in the active site and blocks it; more substrate beats it (statins). Non-competitive: it binds at an allosteric site and changes the active site shape; more substrate does not help. Mechanism-based: it bonds irreversibly and chemically changes the active site (penicillin and transpeptidase)." loading="lazy">
+  <figcaption>Competitive inhibitors block the active site; non-competitive ones bind elsewhere; mechanism-based ones bind permanently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--08-inhibitor-data.webp" width="900" height="1100" alt="Rate against substrate (1 to 32 mM) for no inhibitor, P and R from the worked example. Bars show P reduces the rate by 60% at 1 mM but only 18% at 32 mM, while R reduces it by 50% and 51%. So P is competitive and R is non-competitive." loading="lazy">
+  <figcaption>If the effect shrinks as substrate rises the inhibitor is competitive; if it stays the same it is non-competitive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition--09-feedback-inhibition.webp" width="900" height="980" alt="Two rows of a pathway from threonine through three intermediates to isoleucine with four numbered enzymes (enzyme 1 is threonine deaminase). With plenty of isoleucine a dashed line shows it inhibiting enzyme 1 and the pathway slows; when isoleucine is low the inhibition lifts and the pathway speeds up." loading="lazy">
+  <figcaption>The end product inhibits an enzyme near the start, so the pathway slows when the product is plentiful.</figcaption>
+</figure>
+
 
 ## Feedback inhibition (C1.1.16) -- HL only
 

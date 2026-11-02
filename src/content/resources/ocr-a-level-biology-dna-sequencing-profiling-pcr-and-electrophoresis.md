@@ -59,6 +59,17 @@ The detector reads the new strand, not the template.
 
 **New techniques.** Sanger sequencing reads a few hundred bases up to about a thousand per reaction, so a genome had to be broken into many pieces, sequenced reaction by reaction and assembled. The human genome, roughly 3 billion base pairs, took many years. High throughput sequencing runs millions of reactions at the same time and software assembles the short reads by finding overlaps. It is much faster and cheaper per base, so sequencing whole genomes of individuals and pathogens is now routine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--01-restriction-sticky-ends.webp" width="900" height="975" alt="Four steps show a DNA duplex with the palindromic site GAATTC. The enzyme cuts after the G in each strand, leaving AATT single-stranded sticky ends. Plasmid and gene ends cut with the same enzyme anneal by hydrogen bonds, and DNA ligase then forms phosphodiester bonds across the two nicks." loading="lazy">
+  <figcaption>Cutting both DNA molecules with the same enzyme gives matching sticky ends, and ligase seals the backbone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
+  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
+</figure>
+
+
 ## 6.1.3(b) Bioinformatics and computational biology
 
 **Bioinformatics** is the development and use of software and databases to store, search and analyse biological data, especially sequences. **Computational biology** uses computer models and algorithms to study biological systems.
@@ -127,6 +138,17 @@ Adding a seventh locus with frequency 0.10 reduces this to about 1 in 6.9 millio
 
 If the stated risk threshold is 40 or more repeats, the 43-repeat allele puts this person in the at-risk group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--07-dna-profile-paternity.webp" width="900" height="1010" alt="Four lanes of band sizes in kb show mother, child and two men. The child has bands 6.5 and 3.5 that the mother lacks, so they come from the father. Man A has both; Man B lacks 3.5 and is excluded. Five independent loci with chances 0.1, 0.05, 0.2, 0.08 and 0.125 give a chance match of 1 in 100 000." loading="lazy">
+  <figcaption>Bands the child lacks from the mother must come from the father: Man A fits, Man B is excluded.</figcaption>
+</figure>
+
+
 ## 6.1.3(d) The polymerase chain reaction
 
 PCR makes many copies of a chosen region of DNA in a test tube, from very little starting material. The mixture contains template DNA, two primers (one for each end of the target, each complementary to one strand), free DNA nucleotides, a buffer and a **thermostable DNA polymerase** such as Taq polymerase, from a heat-tolerant bacterium, which withstands the repeated heating to about 95 °C.
@@ -149,6 +171,12 @@ Ideally the number of copies doubles each cycle: copies = starting copies × 2�
 
 Real reactions fall short of perfect doubling and level off as reagents run out. PCR amplifies any DNA present, so contamination is a risk, and a control tube without template is run to detect it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--05-pcr-cycle.webp" width="900" height="1230" alt="A temperature trace shows 95 C, about 60 C and 72 C plateaus. Three panels show one cycle: heat separates the strands, primers anneal to the 3 prime end of each template, and Taq polymerase extends each primer 5 prime to 3 prime. A bar chart shows copies doubling each cycle, from 4 to 256 in 6 cycles." loading="lazy">
+  <figcaption>Each PCR cycle denatures, anneals and extends, doubling the number of DNA molecules.</figcaption>
+</figure>
+
+
 ## 6.1.3(e) Electrophoresis
 
 Electrophoresis separates charged molecules in an electric field through a gel.
@@ -160,6 +188,12 @@ Electrophoresis separates charged molecules in an electric field through a gel.
 **Worked example (estimating size).** A ladder gives 1500 bp at 14 mm, 1000 bp at 21 mm, 750 bp at 26 mm, 500 bp at 33 mm and 250 bp at 45 mm. A fragment travelled 29 mm. Plotting distance against log₁₀(fragment length) gives a straight line, and reading it at 29 mm gives log₁₀(length) = 2.80, so the fragment is about 630 bp.
 
 **Practical points (PAG6).** Wear gloves, take care with stains, keep mains equipment away from spilled buffer, and stop the run before small fragments leave the gel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
+</figure>
+
 
 ## Common errors
 

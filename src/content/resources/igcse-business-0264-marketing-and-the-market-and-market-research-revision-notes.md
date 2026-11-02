@@ -47,6 +47,12 @@ Five jobs, each linked to the customer:
 
 Memory hook: Identify, Satisfy, Loyal, Relationship, Anticipate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--05-five-roles-of-marketing.webp" width="900" height="790" alt="A loop around the customer: identify needs, satisfy needs, keep loyalty, build relationships, anticipate change, then back to identifying." loading="lazy">
+  <figcaption>The five roles of marketing form a continuing loop around the customer.</figcaption>
+</figure>
+
+
 ## 3.1.2 Understanding market changes
 
 | Question | Points to recall |
@@ -72,6 +78,17 @@ Small worked reminder. A firm with sales revenue of Rs 2,250,000 in a market wor
 
 Key point: share is a comparison with the market. Sales revenue can rise while share falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--01-market-share-altamere.webp" width="900" height="960" alt="Two bars to scale show the bakery market and Altamere inside it. Year 1: Rs 4.2 million of Rs 28 million, a 15 percent share. Year 2: Rs 4.62 million of Rs 33 million, 14 percent. Sales rose 10 percent, the market 17.9 percent, so share fell one point." loading="lazy">
+  <figcaption>Sales revenue can rise while market share falls, so always compare with the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--06-markets-change-firms-respond.webp" width="900" height="920" alt="Spending patterns change (income, fashion, age, technology, substitute prices, attitudes) and competition rises (more firms, online selling, easy price comparison). The business responds with research, product change, pricing, promotion, online selling or a new target group." loading="lazy">
+  <figcaption>Changing spending and rising competition lead to six possible business responses.</figcaption>
+</figure>
+
+
 ## 3.1.3 Mass markets and niche markets
 
 | | Mass market | Niche market |
@@ -79,6 +96,12 @@ Key point: share is a comparison with the market. Sales revenue can rise while s
 | Meaning | Large market, many customers, standard products | Small specialist part of a wider market |
 | Advantages | Big sales volume; economies of scale | Less competition; can charge more; loyal buyers |
 | Disadvantages | Strong competition; lower prices; high promotion costs | Limited customers and growth; vulnerable if niche shrinks; large rivals may enter |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
 
 ## 3.1.4 Market segmentation
 
@@ -94,6 +117,12 @@ Definition: splitting a market into groups whose members share traits.
 
 Advantages: better matching of products to wants; targeted promotion; spots gaps; may raise sales revenue.
 Disadvantages: research cost; several versions raise costs; small segments; groups overlap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## 3.2.1 Market research
 
@@ -125,11 +154,33 @@ A sample is a smaller group chosen to represent the whole population. It is usef
 
 Sample size; bias in who is chosen; question wording; honesty of answers; age of data; reliability of the source; influence of the interviewer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--08-research-accuracy-factors.webp" width="900" height="965" alt="Four panels: 3 asked versus 32 asked, a sample from one group only, a leading versus neutral question, and old data versus the market now." loading="lazy">
+  <figcaption>Sample size, selection, question design and age of data all affect accuracy.</figcaption>
+</figure>
+
+
 ### Analysing simple data
 
 Steps: read the title and units; find the figure asked about; calculate any percentage as part / whole × 100; compare groups; state a conclusion; add one caution about the sample or the data.
 
 Small worked reminder. A sample of 250 shoppers contains 90 who prefer home delivery. Percentage = 90 / 250 × 100 = 36%. If 5,000 customers are like the sample, about 1,800 might prefer delivery. This is an estimate, not a certainty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--02-survey-data-reading.webp" width="900" height="970" alt="Bars show the percentage who would buy an electric bike: 55 percent under 25, 45 percent aged 25 to 44, 20 percent aged 45 and over, with the overall 40.5 percent marked. A strip shows 400 asked, 40.5 percent yes and about 3,240 of 8,000 customers as an estimate." loading="lazy">
+  <figcaption>Percentages by group show where interest is strongest, and the total gives only an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--07-observation-method.webp" width="900" height="930" alt="A three-level shelf with illustrative counts of 40 shoppers: 6 top, 22 eye level, 12 bottom. Observation records real behaviour but not why, and people may act differently if watched." loading="lazy">
+  <figcaption>Observation records what shoppers really do but not why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--09-why-use-market-research.webp" width="900" height="720" alt="Five reasons lead to better decisions: what customers want, less risk before launch, market changes, demand and prices, and competitors." loading="lazy">
+  <figcaption>Five reasons all lead to better decisions.</figcaption>
+</figure>
+
 
 ## Case-study skills for this topic
 
@@ -145,6 +196,12 @@ Example of the pattern. A tea seller is deciding between a customer survey and r
 ## Linking market research to the rest of the topic
 
 Market research feeds the role of marketing: it identifies needs, shows whether they are satisfied and helps anticipate change. Segmentation depends on research data about age, income, location, gender and lifestyle. Market share is itself a secondary figure, often taken from market reports. When a case study gives a table of survey results, expect to link three steps: calculate a percentage, say which group matters most, and recommend an action for that group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

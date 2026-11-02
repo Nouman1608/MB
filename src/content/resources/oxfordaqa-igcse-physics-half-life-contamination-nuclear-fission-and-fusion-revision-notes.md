@@ -78,6 +78,17 @@ Decay is random for one nucleus, but the fraction of a big sample that decays is
 - Atoms that decay are not destroyed. They become a different nucleus.
 - "Average" in the nuclei definition shows it describes a large sample, not one nucleus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--01-bg-subtraction.webp" width="900" height="770" alt="Four bars show counts per minute. The detector starts at 340, which is 20 background plus 320 from the source. Subtracting background leaves 320, three halvings over 75 minutes leave 40, and adding the 20 background back gives a reading of 60 counts per minute." loading="lazy">
+  <figcaption>Subtract the background, halve the source counts once per half-life, then add the background back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+
 ## 3.7.2 i: Contamination and irradiation
 
 | | Contamination | Irradiation |
@@ -94,6 +105,17 @@ Points to remember:
 - Gamma penetrates well and is weakly ionising. It can reach the body from outside.
 - Precautions for a radioactive source: short exposure time, large distance, shielding, handling tools.
 - Contamination is hard to stop, because the atoms can spread and be taken in. Irradiation stops when the exposure stops.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--04-contamination-irradiation.webp" width="900" height="1000" alt="Top panel: a source outside the body sends radiation to a person; the exposure lasts only while the person is near the source and the person does not become radioactive. Bottom panel: radioactive atoms on and inside a person, each emitting radiation, so the body is irradiated until the atoms are removed or decay." loading="lazy">
+  <figcaption>Irradiation is exposure to an outside source; contamination is having radioactive atoms on or in the body.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
 
 ## 3.7.2 j: Range of half-lives, uses and dangers
 
@@ -113,6 +135,12 @@ Illustrative values: technetium-99m about 6 hours, iodine-131 about 8 days, caes
 3. Is the half-life long enough for the job, but short enough to limit later exposure?
 
 Short half-life suits a medical tracer. Long half-life suits a source that must keep working for years. A long-lived source needs safe storage for a long time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--02-half-life-range.webp" width="900" height="888" alt="A bar chart on a log scale ranks eight isotopes by half-life, from technetium-99m at 6 hours to uranium-235 at 700 million years, each with its radiation type. Technetium-99m (gamma, 6 hours) is marked B and the 430-year alpha source is marked A. For a body scan with the detector outside, B is better because gamma escapes the body and the activity soon fades, whereas alpha stays in tissue for years." loading="lazy">
+  <figcaption>Half-lives span hours to billions of years, and the right choice depends on radiation type and half-life together.</figcaption>
+</figure>
+
 
 ## 3.7.3: Nuclear fission
 
@@ -139,11 +167,23 @@ neutron --> U-235 --> 2 smaller nuclei + 2 or 3 neutrons + energy
 
 Control rods absorb neutrons. Lowering them slows the reaction; raising them lets it speed up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--02-chain-control-rods.webp" width="900" height="1060" alt="Top: with each fission releasing two neutrons that each cause a fission, the number of fissions doubles each generation: 1, 2, 4, 8 and so on (16 in the fifth). Bottom: in a reactor, boron control rods absorb the extra neutrons so only one neutron from each fission goes on to cause another fission." loading="lazy">
+  <figcaption>A chain reaction doubles each generation unless control rods absorb the spare neutrons.</figcaption>
+</figure>
+
+
 ### Waste
 
 - Nuclear waste is dangerous because it is radioactive.
 - It may stay radioactive for a long time, depending on its half-life and products.
 - Its disposal must be managed with care. This can influence whether nuclear power is used to generate electricity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--01-fission-event.webp" width="900" height="780" alt="A neutron is absorbed by a uranium-235 nucleus, which splits into barium-141 and krypton-92 and releases three neutrons and energy. Mass numbers balance (1 + 235 = 141 + 92 + 3) and proton numbers balance (92 = 56 + 36)." loading="lazy">
+  <figcaption>Fission of U-235: two smaller nuclei, three neutrons and energy, with both numbers balanced.</figcaption>
+</figure>
+
 
 ## 3.7.4: Nuclear fusion
 
@@ -158,6 +198,12 @@ Control rods absorb neutrons. Lowering them slows the reaction; raising them let
 | Change | Large nucleus splits | Light nuclei join |
 | Before it happens | A neutron is absorbed | Repulsion is overcome |
 | Used in | Reactors | Stars |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--03-fusion-conditions.webp" width="900" height="940" alt="Two positively charged nuclei, hydrogen-2 and hydrogen-3, move towards each other but repel. Very high temperature and pressure let them get close enough to fuse into helium-4, a neutron and energy. Mass number 2 + 3 = 4 + 1 and proton number 1 + 1 = 2." loading="lazy">
+  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between positive nuclei.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

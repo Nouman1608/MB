@@ -36,6 +36,12 @@ These revision notes condense the spatial reasoning geometry rows of the IB *Mat
 | Reflection in x = k | (x, y) → (2k − x, y) |
 | Reflection in y = k | (x, y) → (x, 2k − y) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--12-myp-rhombus-from-coordinates.webp" width="900" height="1075" alt="ABCD with A(1, 1), B(5, 2), C(6, 6), D(2, 5): four sides of √17, opposite sides parallel, diagonals perpendicular, but angle B is 118.1 degrees so it is a rhombus, not a square." loading="lazy">
+  <figcaption>Equal sides and parallel opposite sides make a rhombus; angle B is not 90 degrees.</figcaption>
+</figure>
+
+
 ## Methods in steps
 
 **Equation of a line through two points**
@@ -88,6 +94,22 @@ These revision notes condense the spatial reasoning geometry rows of the IB *Mat
 
 **Short proof.** Triangle XYZ has XY = XZ, and W is the midpoint of YZ. Given XY = XZ and YW = ZW, with XW common, triangles XYW and XZW are congruent by SSS. So angle XYW = angle XZW: the base angles of an isosceles triangle are equal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--04-kite-sss-proof.webp" width="900" height="1040" alt="Kite WXYZ with equal sides marked by ticks and the common diagonal WY dashed. Triangles WXY and WZY are congruent by SSS, so angles XWY and ZWY are equal (36.87 degrees each in this drawing)." loading="lazy">
+  <figcaption>Equal sides and a common side give SSS, so the diagonal bisects the angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--05-congruence-conditions.webp" width="900" height="1106" alt="Four pairs of congruent triangles show which marked parts prove congruence: SSS, SAS, ASA or AAS, and RHS. A final row shows AAA, where equal angles give similar triangles of different size, not congruent ones." loading="lazy">
+  <figcaption>The marked parts that prove congruence, and why AAA does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--06-similar-triangles-mn.webp" width="900" height="900" alt="Triangle ABC with MN parallel to BC and AM = 6, MB = 4, MN = 9, AN = 7.2. The triangles are similar with scale factor 10/6 = 5/3, so BC = 15 and AC = 12." loading="lazy">
+  <figcaption>Scale factor 5/3 gives BC = 15 and AC = 12.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Gradient and equation.** Through (1, 7) and (5, −1): m = −8/4 = −2. Then 7 = −2 + c, so c = 9 and y = −2x + 9.
@@ -118,6 +140,12 @@ These revision notes condense the spatial reasoning geometry rows of the IB *Mat
 - **Enlargement factor.** Between 0 and 1 gives a smaller image. Negative puts the image on the far side of the centre (extended).
 - **Gradient of a vertical line.** It has no gradient; its equation is x = k. A horizontal line has gradient 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--11-myp-enlargement-find-centre.webp" width="900" height="1150" alt="A(3, 2) maps to A-dash (5, 6) with k = 2. The centre C = (1, −2) lies on line AA-dash with CA-dash twice CA, found from C = (A-dash − kA)/(1 − k)." loading="lazy">
+  <figcaption>The centre is found from one point, its image and the scale factor.</figcaption>
+</figure>
+
+
 ## Describing a transformation fully
 
 | Type | Say |
@@ -139,12 +167,24 @@ Isometric transformations give a congruent image. Check one vertex and one side 
 | Enlarge with k = −1 about C | Rotate 180° about C |
 | Rotate 90° clockwise | Rotate 270° anticlockwise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--07-parallel-mirrors-translation.webp" width="900" height="900" alt="Triangle A is reflected in x = 1 to give A-dash, then in x = 4 to give A-double-dash. Every point has moved 6 to the right, twice the gap of 3 between the mirrors, so the result is a translation by (6, 0)." loading="lazy">
+  <figcaption>Two parallel reflections equal a translation of twice the gap.</figcaption>
+</figure>
+
+
 ## Enrichment in brief
 
 - Dilation: the enlargement idea about a fixed centre.
 - Polar coordinates: (r, θ) converts to x = r cos θ, y = r sin θ.
 - Vector notation: AB is the vector from A to B, found as B − A; its magnitude is the distance AB.
 - Vector spaces: a set closed under vector addition and scalar multiplication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--14-myp-polar-coordinates.webp" width="900" height="1000" alt="(4, 3) has r = 5 and angle about 36.9 degrees. The point (6, 60°) has x = 3 and y about 5.196." loading="lazy">
+  <figcaption>Polar coordinates give distance and angle from the origin.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -176,6 +216,12 @@ Isometric transformations give a congruent image. Check one vertex and one side 
 11. AB = (3, −4) as a column; magnitude √(9 + 16) = 5.
 12. x = 8 cos 30° = 4√3 ≈ 6.93 and y = 8 sin 30° = 4, so (6.93, 4).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--08-tessellation-360.webp" width="900" height="1124" alt="Vertex diagrams: three hexagons make 360 degrees, two octagons and a square make 135 + 135 + 90 = 360, and three pentagons make 324 degrees leaving a 36 degree gap." loading="lazy">
+  <figcaption>Angles round a point must make 360 degrees, so hexagons and octagon plus square fit but pentagons do not.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using (y₁ − y₂)/(x₂ − x₁), mixing the order of subtraction.
@@ -192,3 +238,19 @@ Isometric transformations give a congruent image. Check one vertex and one side 
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP, first assessment 2022, published by the International Baccalaureate Organization. Content is drawn from the spatial reasoning branch, geometry rows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+

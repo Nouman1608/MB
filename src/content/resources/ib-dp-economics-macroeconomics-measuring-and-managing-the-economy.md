@@ -68,6 +68,22 @@ sub-topic on the economics of inequality and poverty. The HL-only
 calculation element in this sub-topic is a weighted price index
 constructed from supplied data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
+  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--08-macro-objectives.webp" width="900" height="970" alt="Tiles show economic growth, low and stable inflation, low unemployment and, at HL only, sustainable government debt. A double-headed arrow between growth and inflation shows they can conflict." loading="lazy">
+  <figcaption>Growth, low unemployment and low stable inflation are the SL objectives; sustainable debt is HL only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
+
 ## Not covered in depth by this guide
 
 Sub-topics 3.1-3.3 are large, and this guide concentrates on GDP/GNI, the business cycle, the AD-AS
@@ -105,6 +121,12 @@ sometimes worsen inflation. Equity in the distribution of income is a
 related but separate concern, developed fully in the following
 sub-topic, not a fifth item to add to this list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Confusing GDP (a measure of total output/income) with GNI (GDP plus
@@ -126,6 +148,22 @@ up-to-date real-world examples for growth, inflation and unemployment
 is one of the highest-value pieces of preparation for this sub-topic,
 since HL and SL papers alike credit accurate, specific application
 over generic theory on its own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--01-gdp-and-gni.webp" width="900" height="880" alt="GNI equals GDP plus net income from abroad. With illustrative numbers, GDP of 100 and net income of +20 gives GNI of 120; with net income of -15, GNI is 85. GNI can therefore be above or below GDP." loading="lazy">
+  <figcaption>GNI is GDP plus net income from abroad, which can be positive or negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -170,6 +208,12 @@ is one of the most frequently tested distinctions on this sub-topic,
 and confusing a rate of change with a level is exactly the kind of
 error IB data-response mark schemes penalise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## Quick revision checklist
 
 - State the difference between GDP and GNI, and know why GNI can be
@@ -185,6 +229,12 @@ inflation at both levels, plus government debt sustainability at HL) and give on
 example of two objectives coming into conflict.
 - Practise reading combined output/inflation data to judge whether a
 demand-side or supply-side shock is the more likely explanation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

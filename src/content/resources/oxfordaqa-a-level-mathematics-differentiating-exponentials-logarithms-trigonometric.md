@@ -69,6 +69,12 @@ g′(x) = 3(2e^(2x)) + 4(3 cos 3x) − 2(−(1/2) sin(x/2))
 g′(0) = 6(1) + 12(1) + 0 = 18
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--08-ln-calculus.webp" width="900" height="1050" alt="The tangent to y = ln x at x = 2 has gradient one half, equal to 1/x. Below, the area under y = 1/x from 1 to e is shaded and equals 1, because the integral is ln x and ln e minus ln 1 is 1." loading="lazy">
+  <figcaption>ln x differentiates to 1/x and the area under 1/x from 1 to e is 1.</figcaption>
+</figure>
+
+
 ## The chain rule
 
 For a function of a function, put y = f(u) with u = g(x). Then
@@ -215,6 +221,12 @@ dy/dx = 1/(2x)
 ```
 
 This agrees with differentiating (1/2) ln x directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
 
 ## Choosing the method
 

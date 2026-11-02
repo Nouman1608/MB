@@ -56,6 +56,12 @@ These are condensed notes for section 4.2 Inventory management (4.2.1 and 4.2.2)
 
 Link to cash: every unit in the store is money that has been paid out but not yet earned back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--01-inv-hold-balance.webp" width="900" height="960" alt="A balance with two pans. Benefits: customers served at once, production continues if supply fails, bulk-buy discounts, readiness for busy seasons. Costs: cash tied up, storage and insurance, damage and obsolescence, handling staff. Too little risks a stock-out; too much raises costs." loading="lazy">
+  <figcaption>Holding inventory protects sales but costs cash, space and risk, so the business weighs both.</figcaption>
+</figure>
+
+
 ### Formulas (standard forms; the syllabus names the terms but gives no formula)
 
 | Quantity | Formula |
@@ -115,6 +121,17 @@ Order quantity does not alter the re-order level. It changes the maximum level a
 - Weaknesses anywhere in the chain pass to the business, so managing them reduces risk.
 - Limits: it takes time and money, and it relies on suppliers cooperating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--01-inv-stock-types.webp" width="900" height="780" alt="Three cards (raw materials, work in progress, finished products) for Odlebrook Joinery, each with an example and its purpose, joined by arrows left to right." loading="lazy">
+  <figcaption>The three kinds of inventory and why each is held.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
+
 ## 4.2.2 Just in Time (JIT)
 
 ### JIT and JIC compared
@@ -137,6 +154,12 @@ Order quantity does not alter the re-order level. It changes the maximum level a
 | Quality faults show up quickly | Hard to meet sudden surges in demand |
 | Better response to changing wants | Staff and suppliers need training and commitment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--02-inv-jit-impact.webp" width="900" height="922" alt="Materials arrive as needed and goods leave soon after being made. Possible benefits: less space and cash tied up, less waste, quick response, quality problems seen quickly. Drawbacks: late supplier stops production, lost discounts, more orders, hard to meet surges, staff training. Best with steady demand and close suppliers." loading="lazy">
+  <figcaption>JIT brings real savings but depends on reliable suppliers and predictable demand.</figcaption>
+</figure>
+
+
 ### When JIT is more likely to suit a business
 
 - Demand is steady and forecasts are reliable.
@@ -156,6 +179,22 @@ JIC is more likely to suit a business with uncertain supply, long delivery times
 ### Worked reminder: reading a late delivery
 
 Suppose the cafe above has a chart reading 360 kg at day 0 and 160 kg at day 8, when the order is placed. Usage is 25 kg a day. On time, the delivery arrives on day 12 with 60 kg left. If it arrives 2 days late, the cafe has 60 - (25 x 2) = **10 kg** left on day 14. The buffer has almost gone but no stock-out has happened. A delay of 3 days would cause one: 60 / 25 = 2.4 days of cover remain after day 12.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--02-inv-late-delivery.webp" width="900" height="940" alt="Stock of planks falls from 720; at 320 an order is placed. A 5-day delivery leaves 120, a 7-day delivery leaves 40 (buffer used, no stock-out), a 10-day delivery hits zero on day 18 and stays out for 2 days." loading="lazy">
+  <figcaption>A late delivery eats into the buffer; a very late one causes a stock-out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--04-inv-jit-cost.webp" width="900" height="910" alt="Bars show holding cost 4,320 dollars (JIC) against 720 (JIT), a saving of 3,600, less 2,400 of lost discount, giving a net saving of 1,200 dollars a year." loading="lazy">
+  <figcaption>JIT saves 1,200 dollars a year net, a small gain against the risk of a stoppage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

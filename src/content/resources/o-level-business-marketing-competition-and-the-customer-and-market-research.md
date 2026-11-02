@@ -51,6 +51,12 @@ Loyalty and relationships overlap but are not the same. Loyalty is the behaviour
 
 **Worked example.** Ambergate Cycles sells commuter bicycles. Staff notice that many buyers ask for mudguards and lights. The firm now fits both as standard (identifying and satisfying needs). It texts each buyer a free adjustment offer after six weeks and records their reply (building a relationship). Buyers who return for the adjustment often buy accessories (loyalty). Each action is tied to one of the four jobs, which is how to structure an answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--01-four-jobs-of-marketing.webp" width="900" height="765" alt="A four-box cycle for Ambergate Cycles: identify needs (buyers ask for mudguards and lights), satisfy needs (both fitted as standard), build relationships (text offer after six weeks, reply recorded) and maintain loyalty (buyers return and buy accessories). Loyalty is repeat buying; a relationship is the contact that encourages it." loading="lazy">
+  <figcaption>Each action at Ambergate Cycles ties to one of the four jobs of marketing.</figcaption>
+</figure>
+
+
 ## 3.1.2 Market changes
 
 **Why spending patterns change.** Spending on a product can rise or fall because of:
@@ -78,6 +84,27 @@ Loyalty and relationships overlap but are not the same. Loyalty is the behaviour
 
 Fresh milk fell by 192 between 2021 and 2025, a change of (648 − 840) ÷ 840 × 100 = −22.9%. The total fell only 3.2% ((813 − 840) ÷ 840 × 100) because the new range replaced part of the lost sales. Conclusion: spending has shifted away from milk, and the dairy responded by changing its product range. A fuller answer would add that it should keep researching, because the shift may continue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--01-dairy-spending-shift.webp" width="900" height="850" alt="Fresh milk sales fell 22.9% between 2021 and 2025 while the new plant-based range lifted the total to a fall of only 3.2%. The bars show the three years in the lesson table, split into fresh milk and plant-based." loading="lazy">
+  <figcaption>A market shift shows up in one product but may be offset by a new range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--02-why-spending-changes.webp" width="900" height="760" alt="Six causes point at a central box, spending on a product, which can rise or fall: incomes, tastes and fashion, population, new technology, prices of rival or complement goods, and health, environmental or social attitudes." loading="lazy">
+  <figcaption>Six causes can push spending on a product up or down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## 3.1.3 Niche marketing and mass marketing
 
 **Mass marketing** sells one product to a large, wide market with little variation. **Niche marketing** sells a specialist product to a small, specific part of a market.
@@ -88,6 +115,12 @@ Fresh milk fell by 192 between 2021 and 2025, a change of (648 − 840) ÷ 840 �
 | Niche | Fewer rivals; customers may pay higher prices for a specialist product; strong loyalty | Small market limits sales and growth; risky if tastes change; larger firms may enter |
 
 **Worked example.** Valcrest Foods makes one white loaf and sells it through every supermarket in the country. It gains from high volume, but it competes mainly on price with other mass producers. Duskmere Fitness runs one gym for women who want strength training only. It charges more and keeps members for years, but there are only so many such members in the town. When writing evaluation, say which approach fits the business described (its size, product and market), not which is better in general.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
 
 ## 3.1.4 Market segmentation
 
@@ -112,6 +145,17 @@ Fresh milk fell by 192 between 2021 and 2025, a change of (648 − 840) ÷ 840 �
 | 65 and over | 50 | 44 |
 
 Revenue is customers × mean spend: 3,230 + 19,780 + 10,650 + 2,200 = 35,860. The 25 to 44 group is 43% of customers but 55.2% of revenue (19,780 ÷ 35,860). Age is therefore a sensible basis: spending differs sharply between groups, so products and promotion can target 25 to 44 year olds. Location is less useful here, because 64% of customers live in the city and nothing in the data shows that city and rural buyers behave differently. Say what extra data would change your mind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--02-segment-revenue-share.webp" width="900" height="880" alt="The 25 to 44 group is 43% of customers but 55.2% of the 35,860 dollar revenue. Other groups earn a smaller share of revenue than of customers except 45 to 64, which is level at about 30%. This is why age is a useful basis for segmenting." loading="lazy">
+  <figcaption>Age is a sensible segmentation basis because the 25 to 44 group earns 55.2% of revenue from 43% of customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## 3.2.1 Market research
 
@@ -153,6 +197,17 @@ Revenue is customers × mean spend: 3,230 + 19,780 + 10,650 + 2,200 = 35,860. Th
 
 **Worked example.** Hobsworth Stationers wants to know whether to open a school-supplies website. It emails an online survey to 300 customers drawn from its whole loyalty list, not only those in one shop, and 240 reply. The sample is a reasonable size and covers different customers. However, customers who never use email are missed, so the results may overstate interest in online buying. A good answer states the strength, the weakness and what to do (for example, add some short interviews in store).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--03-research-accuracy.webp" width="900" height="1010" alt="Two grids of 20 people. A representative sample of 10 has 7 online and 3 not online, matching the market at 70 percent online. An email-only sample of 10 is 100 percent online and overstates online interest. Hobsworth emailed 300 and 240 replied, 80 percent." loading="lazy">
+  <figcaption>A representative sample mirrors the market; a biased one gives misleading results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+
 ## 3.2.2 Presentation and use of results
 
 Market research results are shown in tables, bar charts, pie charts, line graphs and diagrams. To analyse them:
@@ -175,6 +230,12 @@ For a pie chart, angle = (number ÷ total) × 360 degrees. This is the standard 
 | Market stall | 24 | 10% | 36° |
 
 The angles add to 360°. The website is the most popular single method (45%), but 55% still prefer another method, so closing the shops would be unwise. A simple conclusion is that a website would suit nearly half the sample, while shops still matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-competition-and-the-customer-and-market-research--03-pie-chart-angles.webp" width="900" height="860" alt="The pie shows in store 40% (144 degrees), website 45% (162), phone 5% (18) and market stall 10% (36). Each angle is number divided by total times 360 and the angles add to 360." loading="lazy">
+  <figcaption>Pie angle = (number / total) x 360 degrees, shown on the lesson's Hobsworth data.</figcaption>
+</figure>
+
 
 ## Common errors
 

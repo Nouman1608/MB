@@ -113,6 +113,12 @@ Check with C(5, 5): √(1² + 3²) = √10
 
 This uses the perpendicular-bisector skills from [coordinate geometry](/resources/igcse-mathematics-coordinate-geometry/). Checking the third point catches slips.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--03-find-the-centre.webp" width="900" height="890" alt="Circle with points A, B, C joined by chords AB and BC. The perpendicular bisector of each chord is dashed with right-angle marks. They cross at the centre O. Draw the perpendicular bisectors of two chords; they cross at the centre of the circle." loading="lazy">
+  <figcaption>The perpendicular bisectors of two chords meet at the centre.</figcaption>
+</figure>
+
+
 ## Property 2: equal chords are equidistant from the centre
 
 If two chords of the same circle have the same length, their perpendicular distances from the centre are equal. The reason is Pythagoras again: the same radius and the same half-chord give the same third side. The reverse also follows from the same calculation: chords the same distance from the centre have the same length.
@@ -139,6 +145,12 @@ AB and CD are parallel chords of a circle with centre O and radius 6.5 cm. AB = 
 A quick check: the diagonal of the rectangle is √(12² + 5²) = 13 cm, which is the diameter. That fits the angle in a semicircle: each corner of the rectangle is 90°, so each diagonal must be a diameter.
 
 The key step is in (a): the question does not say the chords are on opposite sides of O, so you have to work it out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--01-equal-chords.webp" width="900" height="940" alt="Circle with centre O and two equal chords, each marked with double ticks. A dashed perpendicular from O to each chord is labelled d, with right-angle marks. Both distances are equal. Two chords of equal length are the same perpendicular distance d from the centre, and the reverse also holds." loading="lazy">
+  <figcaption>Equal chords are equidistant from the centre.</figcaption>
+</figure>
+
 
 ## Property 3: tangents from an external point are equal in length
 
@@ -239,3 +251,19 @@ Use the [geometry revision notes](/resources/igcse-mathematics-geometry-revision
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027*, Subject content, section 4 Geometry, E4.8 Circle theorems II (Extended subject content), with C4.8 marked "Extended content only".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--04-equal-tangents.webp" width="900" height="900" alt="Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius." loading="lazy">
+  <figcaption>Tangents from an external point are equal in length (here PA = PB = 12).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--05-tangent-angles.webp" width="900" height="910" alt="Circle with tangents PA and PB from P, angle APB 50 degrees. Triangle PAB is isosceles so angles at A and B are 65 degrees. Angle AOB is 360 minus 90 minus 90 minus 50 = 130 degrees. Given angle APB = 50 degrees: equal tangents make PAB isosceles (65 degrees each), and the quadrilateral OAPB gives AOB = 130 degrees." loading="lazy">
+  <figcaption>Using PA = PB and the radius-tangent right angles to find angles.</figcaption>
+</figure>
+

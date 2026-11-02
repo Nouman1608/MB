@@ -57,6 +57,12 @@ A change in the wage itself is a movement along a curve, not a shift.
 3. State the new equilibrium wage and number employed.
 4. Say who gains and who loses, with a sentence of judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+
 ### Small worked reminder
 
 Hourly wage £6, £7, £8, £9. Demand: 90, 70, 50, 30 workers. Supply: 10, 30, 50, 70.
@@ -69,6 +75,32 @@ Wage falls 1/8 = 12.5%; employment rises 20/50 = 40%
 ```
 
 Why wages differ: a high wage goes with scarce skills, long training and high-value work. A low wage goes with plentiful workers and easy entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-wage-demand-rise-bakers.webp" width="900" height="1010" alt="Demand for bakers shifts right by 50 at every wage while supply is unchanged. Equilibrium moves from £10 and 80 bakers to £11 and 110 bakers, a wage rise of 10 per cent and employment rise of 37.5 per cent." loading="lazy">
+  <figcaption>A rise in demand for labour raises both the wage and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--04-wages-surgeon-shelf-stacker.webp" width="900" height="720" alt="Two labour-market graphs on the same scales. Surgeon: steep supply and high demand give a high wage with few workers. Shelf-stacker: large supply gives a low wage with many workers." loading="lazy">
+  <figcaption>Wages differ because supply and demand differ: few can be surgeons, anyone can stack shelves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-labour-shifts-causes.webp" width="900" height="1010" alt="Two graphs for bakers. Demand shifting right by 50 at every wage moves equilibrium from 10 pounds and 80 bakers to 11 pounds and 110. A supply shift right by an illustrative 30 gives 9.40 pounds and 92 bakers. Side lists give what shifts each curve right or left." loading="lazy">
+  <figcaption>Demand and supply of labour shift for named reasons; the wage and employment then move to a new equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
 
 ## Gross and net pay
 
@@ -101,6 +133,22 @@ Net pay      = 294.00 - 51.54             = £242.46
 
 Going backwards: gross = net + all deductions. A deduction as a percentage of gross = deduction / gross × 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--06-weekly-net-pay-allowances.webp" width="900" height="1060" alt="Gross pay of £529.00 is basic pay £425.50 plus overtime £103.50. Income tax £57.80, national insurance £27.12 and pension £26.45 are taken off, leaving net pay of £417.63." loading="lazy">
+  <figcaption>Tax and NI apply only above their allowances; the pension applies to all gross pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--01-pay-rise-net-kept.webp" width="900" height="900" alt="Two bars. A 30,000 gross salary splits into net pay 23,830 (79.4%) and deductions 6,170 (tax 3,500, NI 1,470, pension 1,200). A 1,800 rise splits into 1,242 kept (69%) and 558 deducted (tax 360, NI 126, pension 72). Net pay rises from 23,830 to 25,072." loading="lazy">
+  <figcaption>Only 69% of a 1,800 gross rise reaches net pay, so compare net with net.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--07-gross-to-net-pay.webp" width="900" height="950" alt="Gross pay of 2,400 pounds loses 280 income tax, 190 national insurance and 120 pension, leaving net pay of 1,810 pounds." loading="lazy">
+  <figcaption>Net pay is gross pay minus income tax, national insurance and pension contributions.</figcaption>
+</figure>
+
+
 ## 2.8 Money and the financial sector
 
 - Money is anything generally accepted in payment. Used as a **medium of exchange**, it avoids the double coincidence of wants that barter needs. It speeds up trade, supports specialisation and makes prices comparable.
@@ -117,6 +165,12 @@ Going backwards: gross = net + all deductions. A deduction as a percentage of gr
 | Government | Can borrow; channel for interest rate policy; payments system | Large borrowing means repayments later; failure of an institution harms everyone |
 
 Judgement stems: "most important because...", "depends on...", "less important if...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--03-financial-sector-flows.webp" width="900" height="1040" alt="Three rows show money in and money out: banks (deposits to loans), building societies (savings to mortgages), insurers (premiums to payouts). Three cards then show how consumers, producers and government benefit and the limit for each." loading="lazy">
+  <figcaption>The financial sector turns money in into loans, mortgages and payouts, with benefits and limits for each user.</figcaption>
+</figure>
+
 
 ## Interest rates
 
@@ -138,6 +192,12 @@ Invest only if return is above the interest rate on the loan.
 ```
 
 For compound interest, multiply by (1 + rate) once per year: balance = amount × (1 + rate)^years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--02-interest-savings-mortgage.webp" width="900" height="1050" alt="Top: yearly interest on 3,800 saved at 2.5% and 1.5% with interest added each year (about 95, 97, 100 and 57, 58, 59 pounds), totals 292.18 and 173.58. Bottom: on a 150,000 mortgage one year of interest is 4,500 at 3% and 6,000 at 4%, an extra 1,500 a year or 125 a month." loading="lazy">
+  <figcaption>Compound interest grows each year, and a large loan magnifies a one-point rate rise.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -176,6 +236,12 @@ For compound interest, multiply by (1 + rate) once per year: balance = amount ×
 10. 2 / 10 × 100 = **20%**.
 11. A firm takes on staff because buyers want its output, so the demand for staff is derived from the demand for the goods.
 12. Barter needs each side to want what the other holds. With money, a seller accepts payment and spends it anywhere, so no matching of wants is needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--07-invest-interest-rate-machine.webp" width="900" height="960" alt="A £40,000 machine adds £2,600 profit a year before loan costs. At 5 per cent interest is £2,000, leaving £600, so it is worth doing. At 7 per cent interest is £2,800, a £200 loss, so it is not." loading="lazy">
+  <figcaption>A rise in the loan rate from 5% to 7% turns the investment from profit to loss.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

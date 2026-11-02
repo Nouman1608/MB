@@ -116,6 +116,12 @@ Who donates what:
 | Egg donor | Cytoplasm and mitochondrial DNA |
 | Surrogate | Womb environment only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--09-scnt-cloning.webp" width="900" height="1300" alt="A body cell nucleus is moved into a donor egg whose own nucleus has been removed, using an electric pulse. The egg divides to an early embryo that is implanted in a surrogate mother. The clone has the nuclear DNA of the body-cell donor. In a trial 150 eggs gave 60 embryos, 12 pregnancies, 5 births and 3 survivors, 2 percent." loading="lazy">
+  <figcaption>SCNT puts an adult body-cell nucleus into an enucleated egg, but only about 2% of reconstructed eggs give a surviving animal.</figcaption>
+</figure>
+
+
 ### Evaluating animal cloning
 
 | Area | For | Against |

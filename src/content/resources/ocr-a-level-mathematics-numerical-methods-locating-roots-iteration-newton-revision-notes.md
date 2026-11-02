@@ -48,6 +48,12 @@ These notes condense section 1.09, Numerical Methods, of the OCR A Level Mathema
 
 For "show that α = 1.76 to 2 decimal places", the two end points are 1.755 and 1.765.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+
 ### Iterate and draw (1.09c)
 
 1. Rearrange to x = g(x) and write the iteration xₙ₊₁ = g(xₙ).
@@ -62,12 +68,39 @@ For "show that α = 1.76 to 2 decimal places", the two end points are 1.755 and 
 3. Substitute x₁, then x₂.
 4. Check the last two values agree to the accuracy asked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="880" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
+  <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
+</figure>
+
+
 ### Trapezium rule (1.09f)
 
 1. Find h = (b − a)/n.
 2. List the n + 1 ordinates.
 3. First and last once, the rest doubled, all multiplied by h/2.
 4. For over or under: find the sign of f″ or describe the shape of the curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1180" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
+  <figcaption>For a concave curve the chords lie below it so the trapezium rule under-estimates; for a convex curve it over-estimates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
+  <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--09-simpsons-rule.webp" width="900" height="980" alt="A parabola through the ordinates 1, 1/2, 1/3 of 1/x gives Simpson 1.1111 for 2 strips, compared with mid-ordinate 1.0667 and exact 1.0986." loading="lazy">
+  <figcaption>Simpson's rule integrates the parabola through three ordinates, weights 1, 4, 1, and needs an even number of strips.</figcaption>
+</figure>
+
 
 ## Convergence and diagrams
 
@@ -79,6 +112,12 @@ For "show that α = 1.76 to 2 decimal places", the two end points are 1.755 and 
 | less than −1 | Diverges, alternating | Cobweb outwards |
 
 A rearrangement can converge to one root and diverge from another. For x = (x² + 6)/5, the roots of x² − 5x + 6 = 0 are 2 and 3. Here g′(x) = 2x/5, which is 0.8 at x = 2 (converges) and 1.2 at x = 3 (diverges).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -145,6 +184,12 @@ The exact value is 8/3 = 2.667. The curve is convex (f″ = 2 > 0), so 2.75 is a
 8. Overestimate.
 9. h = 1/5 = 0.2. The x-values are 2, 2.2, 2.4, 2.6, 2.8, 3.
 10. Only x = 2. At x = 2, g′ = 0.8, so it converges. At x = 3, g′ = 1.2, so it diverges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -47,6 +47,12 @@ These notes condense sub-topic 3.5 (Demand management: monetary policy) of Unit 
 
 Potential conflict: pursuing goal 2 by cutting rates can threaten goal 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--06-monetary-limits.webp" width="900" height="770" alt="SL and HL. Two constraints. First, when interest rates are close to zero there is little room to cut further, so the central bank runs out of room in a deep recession; the rates drawn are illustrative. Second, if consumer and business confidence is low, with fear of job loss and no visible demand, cheaper credit may not be used, described as pushing on a string. A rate cut therefore cannot guarantee that aggregate demand rises." loading="lazy">
+  <figcaption>Monetary policy runs out of room near zero and may fail when confidence is low.</figcaption>
+</figure>
+
+
 ## Formulas and calculations
 
 | Item | Formula | Example |
@@ -67,6 +73,12 @@ Potential conflict: pursuing goal 2 by cutting rates can threaten goal 1.
 
 A saver earning 2.0% when inflation is 3.5% has a real return of 2.0% - 3.5% = -1.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--08-real-interest-rate.webp" width="900" height="760" alt="Two invented savings accounts. Account A pays a nominal 6.0 percent with inflation 2.5 percent, so the real rate is plus 3.5 percent and savers gain purchasing power. Account B pays 2.0 percent with inflation 3.5 percent, so the real rate is minus 1.5 percent and savings lose purchasing power. Real interest rate is approximately nominal rate minus inflation rate." loading="lazy">
+  <figcaption>Real rate is nominal rate minus inflation and can be negative.</figcaption>
+</figure>
+
+
 ## Transmission: expansionary chain
 
 Rate cut → cheaper borrowing and a smaller reward for saving → C and I rise → possibly a lower exchange rate, so X - M rises → AD shifts right → real GDP rises, unemployment falls, the price level rises.
@@ -74,6 +86,12 @@ Rate cut → cheaper borrowing and a smaller reward for saving → C and I rise 
 Contractionary chain: the reverse.
 
 Small worked reminder: a 150,000 tav loan at 4% costs 6,000 a year in interest; at 3% it costs 4,500, saving 1,500. Investment rule: go ahead if the expected return exceeds the borrowing rate, so a 4.5% project fails at 5.0% and passes at 3.5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--05-rate-cut-transmission.webp" width="900" height="900" alt="SL and HL. A household with a 150,000 tav variable-rate loan pays 6,000 tavs a year at 4% and 4,500 at 3%, saving 1,500 a year. A firm has a project expected to return 4.5%. With borrowing at 5.0% it is rejected; with borrowing at 3.5% it is accepted. Cheaper credit raises consumption and investment, so aggregate demand shifts right." loading="lazy">
+  <figcaption>A rate cut from 4% to 3% saves a 150,000 tav borrower 1,500 a year and makes a 4.5% project worthwhile.</figcaption>
+</figure>
+
 
 ## Diagram checklists
 
@@ -85,17 +103,50 @@ Small worked reminder: a 150,000 tav loan at 4% costs 6,000 a year in interest; 
 - Draw AD2 to the right, reaching potential.
 - Label the old and new equilibria and the gap, and write what changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--09-recessionary-gap-easing.webp" width="900" height="980" alt="AD and AS diagram with price level on the vertical axis and real GDP in billions of tavs on the horizontal axis. Potential output is a vertical LRAS at 800. AD1 crosses AS at E1 with real GDP 740, a gap of 60 bn or 7.5 percent of potential. Expansionary monetary policy shifts AD right to AD2, which crosses AS at E2 with real GDP 800: output rises, unemployment falls and the price level rises a little. Price levels are illustrative." loading="lazy">
+  <figcaption>Easing shifts AD right and closes a 60 bn gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+
 ### Contractionary policy (inflationary gap)
 
 - Same axes. AD1 crosses AS above potential output.
 - Draw AD2 to the left, back to potential.
 - Label the equilibria and the gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--10-inflationary-gap-tightening.webp" width="900" height="980" alt="AD and AS diagram with a vertical LRAS at potential output 1,000 bn tavs. AD1 crosses AS at E1 with real GDP 1,060, a positive gap of 60 bn or 6 percent of potential. Contractionary monetary policy (higher interest rates) shifts AD left to AD2, which crosses AS at E2 with real GDP 1,000, so the price level stops rising. The short-run cost is lower output growth and possibly higher unemployment. Price levels are illustrative." loading="lazy">
+  <figcaption>Tightening shifts AD left and closes a 60 bn gap.</figcaption>
+</figure>
+
+
 ### Money market (HL only)
 
 - Axes: nominal interest rate (vertical), quantity of money (horizontal).
 - Downward-sloping demand for money, vertical supply of money.
 - Equilibrium where they cross. A rise in supply moves the vertical line right and the rate down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--11-money-creation.webp" width="900" height="1060" alt="HL. With a 20 percent minimum reserve requirement, a 1,000 tav deposit has 200 kept as reserve and 800 lent out in round 1. The 800 becomes a new deposit: 160 reserve and 640 lent in round 2, then 128 reserve and 512 lent in round 3, and so on, each round 0.8 times the last. The money multiplier is 1 divided by 0.20, which is 5, so total deposits reach at most 5,000 and 4,000 of new money is created. The limit is lower if banks hold extra reserves or people hold cash." loading="lazy">
+  <figcaption>Each loan becomes a deposit, so 1,000 can support up to 5,000 of deposits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--12-money-market.webp" width="900" height="980" alt="HL. Money market diagram with the interest rate on the vertical axis and quantity of money in billions of tavs on the horizontal axis. Money demand slopes down as Md = 500 − 40r; money supply is a vertical line set by the central bank. With supply 300 the equilibrium rate is 5 percent. If the central bank buys bonds or uses quantitative easing and supply rises to 340, the rate falls to 4 percent and cheaper borrowing raises aggregate demand. A fall in supply to 260 would raise the rate to 6 percent." loading="lazy">
+  <figcaption>A larger money supply lowers the equilibrium interest rate from 5% to 4%.</figcaption>
+</figure>
+
 
 ## HL only: tools at a glance
 
@@ -119,6 +170,12 @@ Worked reminder: a deposit of 800 with a ratio of 12.5% gives a multiplier of 8,
 ### Method: money market numbers (HL only)
 
 With Md = 500 - 40r and a money supply of 300: 500 - 40r = 300, so r = 5%. If supply becomes 340: r = 4%. If it becomes 260: r = 6%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--04-reserve-ratio-cut.webp" width="900" height="870" alt="HL. A 400 tav initial deposit. With a 10% minimum reserve ratio the money multiplier is 10 and the maximum deposits are 4,000. Cutting the ratio to 8% raises the multiplier to 12.5 and maximum deposits to 5,000. The bars show the initial 400 and the extra deposits created by lending." loading="lazy">
+  <figcaption>Cutting the reserve ratio from 10% to 8% lifts the multiplier from 10 to 12.5 and maximum deposits from 4,000 to 5,000.</figcaption>
+</figure>
+
 
 ## Effectiveness: evaluation grid
 
@@ -196,6 +253,12 @@ The guide places the gap diagrams and the effectiveness points at the evaluation
 - Mixing up the money market diagram with the AD/AS diagram (the vertical axis is the interest rate there).
 - Giving HL tools to an SL-only question without linking them to the question set.
 - Writing "the central bank prints money" and stopping, with no effect on interest rates or lending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -70,6 +70,12 @@ a^(−m/n) = 1 / a^(m/n)
 
 **Reminder:** with letters, apply the index to each factor. (8a³)^(2/3) = 4a².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--01-root-then-power.webp" width="900" height="880" alt="Three step-by-step pipelines. 64 to the 2/3: cube root gives 4, square gives 16. 1296 to the 3/4: fourth root gives 6, cube gives 216. (27/8) to the minus 2/3: flip to 8/27, cube root gives 2/3, square gives 4/9. A note reminds that 2 to the minus 3 is 1/8, not minus 8." loading="lazy">
+  <figcaption>For a fractional index take the root first, then the power; a negative index flips the fraction.</figcaption>
+</figure>
+
+
 ## Solving index equations
 
 | Type | What to do |
@@ -83,6 +89,17 @@ a^(−m/n) = 1 / a^(m/n)
 **Reminder (unknown as base):** x^(−1/2) = 1/7 gives x = (1/7)⁻² = 49, with x > 0.
 
 **Reminder (quadratic pattern):** 2^(2x) − 10 × 2ˣ + 16 = 0. Let y = 2ˣ: y² − 10y + 16 = 0, so (y − 2)(y − 8) = 0. Then 2ˣ = 2 or 2ˣ = 8, so x = 1 or x = 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--02-same-base-indices.webp" width="900" height="920" alt="Two straight lines show the indices of 3 on each side of 9^(x+1) = 27^(2x-1): 2x+2 and 6x-3. They cross at x = 5/4 where both equal 4.5, which is the solution." loading="lazy">
+  <figcaption>When both sides are powers of the same base, equate the indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--03-hidden-quadratic.webp" width="900" height="1030" alt="Graph of 3^(2x) - 12 times 3^x + 27 crossing the x-axis at x = 1 and x = 2, with its lowest point -9. Below it, the substitution y = 3^x gives y = 3 or 9, and converting back gives x = 1 or 2." loading="lazy">
+  <figcaption>Substitute y = 3^x, solve the quadratic, then convert back to x.</figcaption>
+</figure>
+
 
 ## Surd rules
 
@@ -130,6 +147,12 @@ Multiply out as with algebra, then replace each √a × √a by a, and collect t
 **Reminder:** 2/(√5 + √3) = 2(√5 − √3)/(5 − 3) = √5 − √3.
 
 **Reminder:** (1 + √3)/(√3 − 1). Multiply by (√3 + 1)/(√3 + 1). Numerator: (1 + √3)² = 4 + 2√3. Denominator: 3 − 1 = 2. Result: 2 + √3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--05-conjugate-area.webp" width="900" height="890" alt="A square of side 5 loses a corner square of side 2 root 3 (area 12), leaving an L-shape of area 13. Moving the lower rectangle turns the L into a rectangle of width 5 minus 2 root 3 and height 5 plus 2 root 3, so the conjugate product is rational: 13." loading="lazy">
+  <figcaption>The conjugate pair multiplies to a rational number because (p - q)(p + q) = p squared minus q squared.</figcaption>
+</figure>
+
 
 ## Longer worked reminders
 
@@ -211,6 +234,12 @@ Do these without a calculator. Cover the answers first.
 10. **2 + √3**.
 11. 5^(2x) = 5^(x+3), so 2x = x + 3, giving **x = 3**.
 12. **x = 1 or x = 3**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
+  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

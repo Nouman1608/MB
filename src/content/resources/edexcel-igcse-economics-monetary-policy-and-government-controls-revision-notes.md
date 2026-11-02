@@ -46,6 +46,12 @@ Course pages: [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/), [
 - Inflation below target or the economy weak: cut the rate.
 - Independence: less pressure from elections (advantage), but unelected officials decide (disadvantage).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Transmission mechanism
 
 ### A rate rise, step by step
@@ -58,6 +64,12 @@ Course pages: [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/), [
 
 A rate cut runs the other way: AD rises, growth rises, unemployment falls, and inflation may rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--08-rate-rise-chain.webp" width="900" height="925" alt="Flow diagram from a rate rise through households, firms and the currency to a fall in AD from 1,000 to 945, then to inflation, growth, unemployment and the current account. Inflation and growth slow, unemployment rises later and the current account tends to worsen. A rate cut works in reverse." loading="lazy">
+  <figcaption>A rate rise cuts C, I and net exports, which lowers AD and the macroeconomic objectives move accordingly.</figcaption>
+</figure>
+
+
 ### Consumers and businesses
 
 | Group | Rate rises | Rate falls |
@@ -65,6 +77,17 @@ A rate cut runs the other way: AD rises, growth rises, unemployment falls, and i
 | Borrowers (consumers) | Pay more, spend less | Pay less, spend more |
 | Savers | Earn more, may save more | Earn less, may spend more |
 | Firms | Borrowing dearer, less investment, higher costs | Borrowing cheaper, more investment, lower costs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--10-oven-and-interest-rate.webp" width="900" height="976" alt="At 3%, 5% and 8% on an 80,000 loan, interest is 2,400, 4,000 and 6,400 against a 5,600 gain: profit +3,200, +1,600 and -800." loading="lazy">
+  <figcaption>At 8% the oven loses money, so the bakery would not buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
 
 ### Effects on objectives
 
@@ -74,6 +97,12 @@ A rate cut runs the other way: AD rises, growth rises, unemployment falls, and i
 | Growth | Slows | Rises |
 | Unemployment | May rise | May fall |
 | Current account | Tends to worsen (stronger currency) | Tends to improve (weaker currency) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--09-ad-before-after.webp" width="900" height="850" alt="Bars show consumption -30, investment -15, exports -5 and higher imports -5 with government spending unchanged, so AD falls 55. AD falls from 1,000 to 945, which is 5.5%." loading="lazy">
+  <figcaption>A rate rise cuts AD by 55, or 5.5%.</figcaption>
+</figure>
+
 
 ## Method reminders with numbers
 
@@ -94,9 +123,21 @@ Rate 8%: interest 3,200, net -600    -> do not go ahead
 
 Inflation = (new CPI - old CPI) / old CPI x 100. CPI 140 to 144.2: (4.2 / 140) x 100 = 3.0%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--11-rate-cut-exchange-rate.webp" width="900" height="950" alt="A rate cut lowers demand for the currency: 2.00 to 1.80. An export priced 50 falls from 100 to 90 B-units (-10%); an import of 72 B-units rises from 36 to 40 A-units (+11.1%)." loading="lazy">
+  <figcaption>A rate cut makes exports cheaper abroad and imports dearer at home.</figcaption>
+</figure>
+
+
 ### Real interest rate
 
 Roughly nominal rate minus inflation. A rate of 5% with inflation of 3% is about 2%. With inflation of 6%, it is about −1%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--10-real-interest-rate.webp" width="900" height="690" alt="Bars compare a 6% nominal rate with 4% inflation (real about +2%) and 7% inflation (real about -1%). At 7% inflation saving loses buying power." loading="lazy">
+  <figcaption>The real rate is roughly the nominal rate minus inflation.</figcaption>
+</figure>
+
 
 ### Exchange rate and prices
 
@@ -119,6 +160,12 @@ Yield = yearly income / price x 100. A bond paying 3 a year at a price of 100 yi
 - It aims to lower borrowing costs and lift spending.
 - Risks: inflation if too much money is created; higher prices for shares and property, which benefit existing owners; hard to reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--12-asset-purchasing-bond-yield.webp" width="900" height="880" alt="A bond pays 4 on face value 100. Central bank buying lifts the price from 100 to 104, so yield falls from 4.00% to 3.85%." loading="lazy">
+  <figcaption>Higher bond prices mean lower yields.</figcaption>
+</figure>
+
+
 ## Limits of monetary policy
 
 - Time lags before spending changes.
@@ -126,6 +173,12 @@ Yield = yearly income / price x 100. A bond paying 3 a year at a price of 100 yi
 - Cost-push inflation is not cured by dearer borrowing.
 - Fixed-rate borrowers respond slowly.
 - Fighting inflation can raise unemployment; cutting rates can raise inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
 
 ## Government controls: advantages and disadvantages
 
@@ -140,9 +193,26 @@ Yield = yearly income / price x 100. A bond paying 3 a year at a price of 100 yi
 
 Expected fine = chance of being caught x fine. A firm saves 50,000 by dumping; chance of capture 20%; fine 150,000. Expected fine = 0.2 x 150,000 = 30,000. This is less than 50,000, so the fine does not deter. To deter, the fine must exceed 50,000 / 0.2 = 250,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--13-fine-and-chance-of-capture.webp" width="900" height="1044" alt="Saving from dumping is 60,000 and chance of capture 25%. Fines of 100,000, 240,000 and 300,000 give expected fines 25,000, 60,000 and 75,000." loading="lazy">
+  <figcaption>A fine only deters if the expected fine exceeds the saving.</figcaption>
+</figure>
+
+
 ### Permits: the trading test
 
 A firm must emit 60 tonnes less than it does now. Cutting costs 40 a tonne (2,400). Buying 60 permits at 25 each costs 1,500. Buying is cheaper by 900, so the firm buys. The firm with the lowest cutting cost sells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--14-pollution-permit-trading.webp" width="900" height="1040" alt="Without trading K cuts 100 (3,000) and L cuts 100 (8,000), total 11,000. With trading K cuts 200 for 6,000 and sells 100 permits to L at 55. Total emissions stay 800." loading="lazy">
+  <figcaption>The same cap is met at 6,000 instead of 11,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--11-compliance-burden.webp" width="900" height="810" alt="Bars show 12,000 as 5.0% of a small firm’s 240,000 sales but 0.2% of a large firm’s 6,000,000. Small firms bear a heavier burden and some may close." loading="lazy">
+  <figcaption>The same 12,000 rule takes 5.0% of a small firm’s sales but 0.2% of a large firm’s.</figcaption>
+</figure>
+
 
 ## Building an evaluation
 

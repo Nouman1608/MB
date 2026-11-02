@@ -37,6 +37,12 @@ Condensed notes for section 3.4.3.2, Factors that affect economic development, i
 | Debt-service ratio | Interest and repayments as a percentage of export earnings |
 | Property rights | Legally secure ownership that people can use, sell or pledge |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--04-prebisch-singer-terms-of-trade.webp" width="900" height="1225" alt="Bars show demand growth of 2.0% for primary products and 7.2% for manufactures when world income rises 4%. Export price index falls to 80 and import index rises to 110, so terms of trade are 72.7 and export volume must rise 37.5% for the same imports." loading="lazy">
+  <figcaption>Low income elasticity of demand for primary goods drags down the terms of trade.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Measure | Formula |
@@ -101,6 +107,12 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 
 **Institutions.** Rule of law, property rights, governance, corruption, instability, war and conflict. Strong institutions make investment safe; corruption and conflict destroy capital and trust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--10-financial-access-circle.webp" width="900" height="1000" alt="Access to financial services leads to more saving captured, more lending, more investment, higher output and income, and so more saving: a circle that feeds itself. Without access, savings sit as cash or livestock and the chain never starts." loading="lazy">
+  <figcaption>Financial access sets off a self-reinforcing chain of saving, lending and investment.</figcaption>
+</figure>
+
+
 ## Evaluation prompts
 
 - Short run or long run? Infrastructure and schooling take years; a debt crisis or crop failure acts at once.
@@ -126,6 +138,12 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 - Fluctuations in commodity prices (short run, supply shocks) versus Prebisch-Singer (long-run trend in relative prices).
 - Growth versus development: a factor can raise GDP and still leave health, equality or sustainability behind.
 - Debt level versus debt burden: compare debt-service ratio, interest rate and growth, not the raw total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--09-debt-to-gdp-deficit.webp" width="900" height="960" alt="Debt of 40 and GDP of 100 give a ratio of 40%. A deficit of 5 lifts debt to 45 while nominal GDP grows 6% to 106, so the ratio becomes 42.5%. Debt grew 12.5% but GDP only 6%." loading="lazy">
+  <figcaption>A deficit can raise the debt to GDP ratio even when GDP is growing.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -156,6 +174,22 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 10. 0.95 × 1.10 = 1.045: revenue **up 4.5%**.
 11. 50 / 5 = **10**.
 12. For example: no automatic turning point, and pollution may be moved abroad rather than reduced; some damage may be irreversible before the peak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--01-harrod-domar-growth.webp" width="900" height="1176" alt="Lines g = s/3 and g = s/2.5 on axes of savings rate and growth. Points A to D show 5%, 7%, 6% and the 18% saving needed for 6% growth with k = 3. The 3 point savings gap on GDP of 200bn is 6bn a year." loading="lazy">
+  <figcaption>Growth rises with saving and falls with a higher capital-output ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--07-quintile-income-ratio.webp" width="900" height="880" alt="Before reform the top 20% get 55% of income and the bottom 20% get 4%, a ratio of 13.75. After reform the shares are 48% and 6%, a ratio of 8.0, a narrower gap." loading="lazy">
+  <figcaption>The top-to-bottom quintile ratio falls from 13.75 to 8.0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--08-openness-debt-ratios.webp" width="900" height="850" alt="Three ratios drawn as parts of a whole bar: openness (30 + 36) / 120 = 55%; debt to GDP 30 / 60 = 50%; debt-service ratio 3 / 12 = 25%." loading="lazy">
+  <figcaption>Each ratio is a part divided by a whole.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

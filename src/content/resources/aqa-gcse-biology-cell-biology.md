@@ -92,11 +92,43 @@ AQA GCSE Biology (8461) specification, for first teaching September
 
 Sub-cellular structures worth knowing by function: the **nucleus** controls activity and holds DNA, **mitochondria** are the site of aerobic respiration, **ribosomes** make proteins, **chloroplasts** absorb light for photosynthesis, and the **cell membrane** controls what enters and leaves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+
 ## Specialisation and differentiation
 
 Cells differentiate to carry out particular jobs. Sperm cells have a tail and many mitochondria for swimming; nerve cells are long with branched ends to carry impulses; muscle cells contain protein fibres that shorten; root hair cells have a large surface area for absorbing water; xylem cells are hollow, dead and strengthened with lignin; phloem cells have sieve plates for transporting dissolved sugars.
 
 In animals most cells differentiate early and lose the ability to change, while many plant cells retain it for life — which is why plants can be cloned from cuttings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--04-muscle-xylem-phloem.webp" width="900" height="1100" alt="A muscle cell has protein fibres that shorten so the cell contracts. A xylem vessel is hollow and dead with a wall strengthened by lignin. A phloem cell has sieve plates that let dissolved sugars pass through." loading="lazy">
+  <figcaption>Three specialised cells the lesson names that the existing figure does not show.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
 
 ## Microscopy
 
@@ -108,13 +140,36 @@ magnification = size of image / size of real object
 
 Always convert to the same units first. 1 mm = 1000 micrometres.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--01-magnification-units.webp" width="900" height="1000" alt="Worked example from the lesson. A cell 0.05 mm across has an image 100 mm across. Both are converted to micrometres (1 mm = 1000 micrometres): 50 and 100 000. Magnification = image / actual = 100 000 / 50 = x2000, which is about the limit of a light microscope; electron microscopes magnify far more." loading="lazy">
+  <figcaption>Convert to the same units first, then divide image size by real size.</figcaption>
+</figure>
+
+
 ## Cell division by mitosis
 
 The cell cycle consists of growth and DNA replication, then mitosis, then cytoplasmic division. Mitosis produces two genetically identical diploid daughter cells, and is used for growth, repair and asexual reproduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--02-cell-cycle.webp" width="900" height="1160" alt="Four steps using a cell with 4 chromosomes: growth and DNA copied; mitosis, copies move to opposite ends; cytoplasm divides; two identical diploid cells, each with 4 chromosomes. Each can start the cycle again. Mitosis is used for growth, repair and asexual reproduction." loading="lazy">
+  <figcaption>The cell cycle: growth and DNA copying, mitosis, then cytoplasmic division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## Stem cells
 
 Stem cells are undifferentiated cells that can divide to produce more cells and then differentiate into one or more specialised cell types. **Embryonic stem cells** can differentiate into almost any cell type in the body. **Adult stem cells**, found in tissues such as bone marrow, have a more limited range and can produce only certain cell types, such as the various blood cells. Plants also keep a supply of undifferentiated cells, called **meristem cells**, in their growing tips (roots and shoots) throughout life. Stem cells have therapeutic uses — bone marrow stem cells are already used to treat some blood disorders, and embryonic stem cells are being researched for treating conditions such as paralysis and diabetes — but their use raises ethical and safety issues, including the destruction of embryos to obtain embryonic stem cells and the risk that transplanted stem cells could transfer a viral infection or trigger an immune reaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--03-stem-cells.webp" width="900" height="1130" alt="Embryonic stem cells can become almost any cell type; adult stem cells such as those in bone marrow only certain types such as blood cells; plants keep undifferentiated meristem cells in shoot and root tips throughout life." loading="lazy">
+  <figcaption>Embryonic stem cells can become almost any cell; adult stem cells and meristem cells are more limited or confined to growing tips.</figcaption>
+</figure>
+
 
 ## Transport in cells
 
@@ -123,6 +178,17 @@ Substances move into and out of cells by three processes, distinguished by what 
 - **Diffusion** — the net movement of particles (such as gases or dissolved solutes) from an area of **higher concentration to an area of lower concentration**, down a concentration gradient, until evenly spread. It requires no energy input from the cell. The rate of diffusion increases with a greater concentration gradient, a higher temperature, and a larger surface area.
 - **Osmosis** — the diffusion of **water** specifically, across a partially permeable membrane, from a region of higher water concentration (a dilute solution) to a region of lower water concentration (a concentrated solution). Like diffusion, it needs no energy input.
 - **Active transport** — the movement of particles from a **lower to a higher concentration**, against the concentration gradient. Because this is the opposite direction to diffusion, it requires energy released by respiration. Active transport allows substances to be absorbed even when they are already more concentrated inside than outside — for example, root hair cells absorbing mineral ions from very dilute solutions in the soil (plants need these ions for healthy growth), and sugar molecules such as glucose being absorbed from lower concentrations in the gut into the blood, which has a higher sugar concentration. Plants do not take up glucose from the soil; they make it by photosynthesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--05-gut-glucose-active.webp" width="900" height="720" alt="Glucose moves from the gut, where its concentration is low, through a gut wall cell that uses energy from respiration, into the blood, where its concentration is higher. This is against the concentration gradient." loading="lazy">
+  <figcaption>Glucose is absorbed from the gut into the blood by active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
 
 ## Worked example
 

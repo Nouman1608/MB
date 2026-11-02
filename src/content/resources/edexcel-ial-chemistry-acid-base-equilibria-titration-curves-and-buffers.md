@@ -70,6 +70,17 @@ start: Ka = 10^-4.82 = 1.51 × 10⁻⁵
 
 The equivalence point is at 20.0 cm³ and above pH 7, because the butanoate ion is a weak base.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--09-half-equivalence.webp" width="900" height="880" alt="A computed pH curve for ethanoic acid with NaOH shows the buffer region and equivalence at 25 cm3. At 12.5 cm3 dashed lines show pH 4.76 = pKa, because [HA] = [A-] there." loading="lazy">
+  <figcaption>At half the equivalence volume [HA] = [A-], so pH = pKa and Ka = 10^-pH (practical in all boards).</figcaption>
+</figure>
+
+
 ### Diprotic acids and bases
 
 A diprotic acid, H₂X, reacts with two moles of NaOH per mole. If its two pKa values are well apart, the curve has **two vertical sections**, and the second equivalence volume is twice the first. Half-way to the first equivalence point, pH = pKa₁; half-way between the two, pH = pKa₂. Sulfuric acid is usually treated as a strong diprotic acid: one vertical section, but twice the NaOH needed by the same amount of HCl.
@@ -81,6 +92,12 @@ CO₃²⁻ + H⁺ → HCO₃⁻        (first equivalence, pH about 8 to 9)
 HCO₃⁻ + H⁺ → H₂O + CO₂    (second equivalence, pH about 4)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
+
 ### Worked example 2
 
 20.0 cm³ of 0.0750 mol dm⁻³ Na₂CO₃ is titrated with 0.120 mol dm⁻³ HCl.
@@ -90,6 +107,12 @@ moles CO₃²⁻ = 0.0200 × 0.0750 = 1.50 × 10⁻³ mol
 first equivalence:  1.50 × 10⁻³ / 0.120 = 12.5 cm³
 second equivalence: twice the moles of HCl, so 25.0 cm³
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--06-titration-curves.webp" width="900" height="1090" alt="Four computed curves of pH against base added for 25 cm3 of 0.100 M acid with 0.100 M base. Strong+strong starts at pH 1 and is equivalent at pH 7. Weak acid+strong base starts near 2.9, buffers, and is equivalent near 8.7. Strong acid+weak base is equivalent near 5.3. Weak+weak has no steep section." loading="lazy">
+  <figcaption>Strong or weak acids and bases give curves with different start pH, steep section and equivalence pH.</figcaption>
+</figure>
+
 
 ## 14.16 Choosing an indicator
 
@@ -110,6 +133,12 @@ Typical ranges (in a question, always use the values you are given):
 - Weak acid + weak base: none gives a sharp end point; use a pH meter.
 - Sodium carbonate + HCl: phenolphthalein for the first end point, methyl orange for the second.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
+
 ## 14.17 and 14.18 Buffer solutions
 
 A **buffer solution** is one whose pH changes very little when a small amount of acid or alkali is added to it. It does not hold the pH constant, and a large addition overwhelms it.
@@ -128,6 +157,17 @@ The salt is fully ionised and the weak acid barely dissociated, so both A⁻ and
 - **Small amount of alkali added**: OH⁻ + HA → A⁻ + H₂O. The ratio [HA]/[A⁻] again changes only slightly.
 
 In an NH₃/NH₄Cl buffer, NH₃ + H⁺ → NH₄⁺ and NH₄⁺ + OH⁻ → NH₃ + H₂O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--02-ph-scale.webp" width="900" height="990" alt="A colour bar from pH 0 to 14 with pins for 0.0250 M HNO3 (1.60), blood (7.35-7.45) and 0.0400 M NaOH (12.60). Below, [H+] falls from 1 to 1e-14 while [OH-] rises, and their product is Kw so pH + pOH = 14.00." loading="lazy">
+  <figcaption>Each pH unit is a tenfold change in [H+], and [H+][OH-] = Kw = 1.00e-14 at 298 K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--08-buffer-action.webp" width="900" height="940" alt="A beaker holds eight HA and six A- particles (0.200 mol HA, 0.150 mol A-, pH 4.63). Adding a little H+ turns A- into HA and moves pH to 4.58; adding a little OH- turns HA into A- and moves pH to 4.68. Water would fall from 7 to 2.00." loading="lazy">
+  <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
+</figure>
+
 
 ## 14.19 Calculating the pH of a buffer
 
@@ -221,6 +261,12 @@ One method uses half-neutralisation:
 4. Measure the pH. Now [HA] = [A⁻], so pKa = pH and Ka = 10^-pH.
 
 Neither concentration needs to be known. Or measure the pH of an acid of known concentration and use Ka = [H⁺]²/[HA] (outcome 14.14). The specification also suggests plotting titration curves with a data logger and analysing vinegar. Errors come from an uncalibrated or unrinsed meter, or reading before the value settles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--05-approximation-fails.webp" width="900" height="1000" alt="A graph of pH against concentration for chloroethanoic acid shows a dashed shortcut line and a solid true line separating as the acid is diluted. At 0.0100 M the shortcut gives 2.43 but the true pH is 2.51." loading="lazy">
+  <figcaption>At 0.0100 M chloroethanoic acid the shortcut implies about 37% dissociation, so [HA] is not unchanged and the true pH is 2.51 (OCR only).</figcaption>
+</figure>
+
 
 ## Common errors
 

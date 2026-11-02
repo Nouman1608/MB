@@ -55,6 +55,12 @@ Liquidity matters because a business that cannot pay wages, suppliers or the ele
 
 Liquidity is judged with the current ratio and the acid test ratio. Both compare current assets with current liabilities. These come from the statement of financial position (section 5.4): current assets are items such as inventories, receivables and cash, and current liabilities are debts due within a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
+
 ## The five ratios (5.5.3)
 
 ### Formulas
@@ -73,6 +79,12 @@ Supporting definitions:
 - Profit in the profit margin and ROCE is the profit figure taken from the income statement. If a question gives a single "profit" figure, use that figure; if it gives several profit figures, state which one you use.
 - Capital employed is the long-term finance in the business. The standard form is total assets − current liabilities, which equals owners' capital plus non-current liabilities.
 - Acid test removes inventories because they are the current asset that is slowest and least certain to be turned into cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--01-capital-employed.webp" width="900" height="1030" alt="Two bars: total assets of 440 minus current liabilities of 80 leaves capital employed of 360, which equals owners' capital plus non-current liabilities. The 300 and 60 split is illustrative." loading="lazy">
+  <figcaption>Capital employed = total assets minus current liabilities = owners' capital plus non-current liabilities.</figcaption>
+</figure>
+
 
 ### Worked example: Hollin Cycles
 
@@ -129,6 +141,32 @@ A ratio on its own says little. Make a judgement by comparing with:
 
 Then ask why the figure changed, using the other information in the case. Look at rising costs, a change in prices, extra borrowing, a new loan, slower payment by customers or large purchases of inventories. Link the cause to the business in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--09-hollin-profitability.webp" width="900" height="850" alt="Paired bars: gross profit margin 40% to 35%, profit margin 12% to 8%, ROCE 16% to 10%, although revenue rose 12.5%." loading="lazy">
+  <figcaption>Every profitability ratio fell in Year 2 even though revenue grew.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--10-hollin-liquidity.webp" width="900" height="940" alt="For each year, current assets (cash plus receivables, then inventories) are drawn beside current liabilities with a dashed line at the amount owed. Current ratio 1.5 then 1.2; acid test 0.63 then 0.36." loading="lazy">
+  <figcaption>Without inventories, Hollin Cycles can cover only 36 cents of each dollar owed in Year 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--02-five-ratio-fractions.webp" width="900" height="940" alt="For each of the five ratios a bar shows the bottom of the fraction and a second bar, to the same scale, shows the top, using Hollin Cycles Year 1: 40%, 12%, 16%, 1.5 : 1 and 0.63 : 1. Margins and ROCE carry a percent sign; liquidity ratios do not." loading="lazy">
+  <figcaption>Each ratio is one amount divided by another; the result is a percentage or a ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--03-judge-with-yardsticks.webp" width="900" height="1050" alt="Hollin Year 2 ROCE of 10% is compared with last year (16%), an illustrative similar firm (12%) and an illustrative target (15%). Prompts then ask why the figure changed." loading="lazy">
+  <figcaption>Judge a ratio against the trend, competitors and targets, then ask why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## Why and how accounts are used (5.5.4)
 
 Different users want different things from the same set of accounts and ratios.
@@ -147,6 +185,17 @@ These are examples. The syllabus asks for the needs of different users and how t
 
 Match the ratio to the user. A lender or supplier cares most about liquidity (current ratio, acid test) and profit that can cover interest. An investor cares most about ROCE and profit margin. A manager looks at all five, mainly to spot problems early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--11-users-and-ratios.webp" width="900" height="755" alt="Lenders and suppliers look at the current ratio and acid test; investors at ROCE and profit margin; managers at all five ratios." loading="lazy">
+  <figcaption>Different users of accounts look at different ratios.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--04-other-users-of-accounts.webp" width="900" height="940" alt="Owners and shareholders ask whether their return is good and decide to keep, increase or sell and how to vote on dividends. Employees ask whether the business is secure and profitable and decide whether to seek higher pay or another job. Government asks whether the right tax is paid and makes a tax assessment." loading="lazy">
+  <figcaption>Owners, employees and government each ask a different question of the accounts.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Dividing gross profit by cost of sales instead of revenue.
@@ -156,6 +205,12 @@ Match the ratio to the user. A lender or supplier cares most about liquidity (cu
 - Describing a figure without explaining what it means for the business.
 - Saying a high current ratio is always good, with no comment on idle assets.
 - Naming a user without saying which result that user would look at and what they would decide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--05-ratio-slips.webp" width="900" height="1010" alt="Four wrong-versus-right pairs with Hollin Year 1 figures: dividing gross profit by cost of sales (66.7%) instead of revenue (40%); using revenue as profit in ROCE (133.3%) instead of 16%; leaving inventories in the acid test (1.5 : 1) instead of 0.63 : 1; and putting % on the wrong ratios." loading="lazy">
+  <figcaption>Four common ratio mistakes beside the correct working.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

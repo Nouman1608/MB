@@ -69,6 +69,17 @@ Pie chart of the £72,000 annual revenue: kayak hire has a 162° sector, paddleb
 
 Use of the data: demand is strongly seasonal, so the business could plan temporary staff for July and August and use September to promote tours. The data does not say why September fell, so it would be sensible to check the weather and local events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--01-bookings-bar-chart.webp" width="900" height="990" alt="Bar chart of monthly bookings May to September with a dashed mean line at 300. May to July is a 133.3 percent increase and August to September a 56.5 percent decrease." loading="lazy">
+  <figcaption>Read the axis first, then use the mean and percentage change on the original figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--02-pie-sector-to-pounds.webp" width="900" height="940" alt="Pie chart of 72,000 pounds revenue: kayak hire 162 degrees (45 percent, 32,400 pounds), paddleboards 108 degrees (30 percent, 21,600 pounds), tours 90 degrees (25 percent, 18,000 pounds)." loading="lazy">
+  <figcaption>Angle divided by 360 gives the share; multiply by total revenue for pounds.</figcaption>
+</figure>
+
+
 ## 3. Financial data
 
 Financial data in this specification covers profit and loss information, profitability ratios, average rate of return and cash-flow forecasts. The Appendix 3 formulae are:
@@ -109,6 +120,22 @@ Interpretation: sales revenue rose 16.7%, yet net profit fell 6.7%. Cost of sale
 
 February's balance is negative, so the studio needs a short-term source of finance, or must move payments, before then. A profitable business can still have a negative balance in a month.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--03-margins-revenue-up-profit-down.webp" width="900" height="1000" alt="Two stacked bars show revenue split into cost of sales, other costs and net profit. Revenue rose 16.7 percent, cost of sales 24.4 percent and net profit fell 6.7 percent as margins dropped from 40 and 15 percent to 36 and 12 percent." loading="lazy">
+  <figcaption>Costs rose faster than revenue, so both margins fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--04-arr-press-vs-option.webp" width="900" height="1060" alt="Bars show press profits of 9, 15, 18 and 18 thousand pounds with an average of 15,000. ARR is 25 percent against 22.5 percent for the second option." loading="lazy">
+  <figcaption>ARR = average annual profit divided by cost, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--05-cash-forecast-negative-month.webp" width="900" height="990" alt="Closing balances of 1,500, minus 2,500 and 4,500 pounds for January to March from an opening 4,000 pounds; February falls below zero." loading="lazy">
+  <figcaption>A forecast can show a negative month, so short-term finance may be needed.</figcaption>
+</figure>
+
+
 ## 4. Marketing data
 
 The specification names market research data. Survey answers are the usual example, and the results of a promotion can be treated in the same way. Turn counts into percentages, then compare.
@@ -131,6 +158,12 @@ Percentage = replies / 320 × 100. The treats range is the most popular choice, 
 
 The advert cost more in total but less per voucher used (£600 / 150 = £4 against £300 / 60 = £5). Cautions: the people surveyed are existing customers, so they may not represent shoppers who have never visited, and saying what they want in a survey is not the same as buying.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--01-ormside-survey-vouchers.webp" width="900" height="1075" alt="Horizontal bars show 320 customers surveyed: natural treats 128 (40 percent), grooming 96 (30), training toys 64 (20), none 32 (10), each replies divided by 320 times 100. Two cards compare promotions: the social media advert cost 600 pounds for 150 vouchers, 4 pounds each; the printed flyer 300 pounds for 60 vouchers, 5 pounds each." loading="lazy">
+  <figcaption>Turn counts into percentages, and divide cost by vouchers used to compare promotions.</figcaption>
+</figure>
+
+
 ## 5. Market data
 
 Market data describes the whole market. The specification names market share, changes in costs and changes in prices.
@@ -149,6 +182,12 @@ Cawood's sales grew 4%, which looks healthy, but the market grew 20%, so its sha
 
 **Changes in costs and prices.** A supplier raises the price of a part from £2.50 to £2.75: (2.75 − 2.50) / 2.50 × 100 = **10% increase**. A product sells at £6.00 and uses one part, so the profit per unit before other costs falls from £3.50 to £3.25, a 7.1% fall, if the business absorbs the rise. If it raises the price by 25p to £6.25 (a 4.2% rise), profit per unit is protected but customers may buy less or switch. Market data on competitor prices helps judge which risk is bigger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--06-market-share-cawood.webp" width="900" height="990" alt="Cawood sales grew 4 percent but the market grew 20 percent, so share fell from 15 to 13 percent, a fall of 2 percentage points." loading="lazy">
+  <figcaption>Growing sales and a falling market share can happen together.</figcaption>
+</figure>
+
+
 ## 6. Use and limitations of financial information
 
 **Understanding business performance.** Financial information shows whether a business is profitable, how profit has changed, how margins compare with last year, with a target or with a competitor, and whether cash is running short.
@@ -165,6 +204,12 @@ Cawood's sales grew 4%, which looks healthy, but the market grew 20%, so its sha
 - **Profit is not cash.** A profit figure says nothing about when money arrives.
 
 **Worked "evaluate" structure.** Should Pennine Print Studio buy the press? For: ARR of 25% beats 22.5%, and profits rise each year. Against: the profits are forecasts, the £60,000 may strain cash (the forecast shows a negative balance in February), and the margin trend suggests costs are already rising. Judgement: buy only if it can be financed without a cash shortfall and if the cost of sales problem is understood first. A conclusion that picks a side and names the deciding factor is what the command word asks for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ## Common errors
 

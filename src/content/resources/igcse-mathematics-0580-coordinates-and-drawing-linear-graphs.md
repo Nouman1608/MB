@@ -117,6 +117,27 @@ So (4, -7) does not lie on the line.
 
 The point (4, –7) is one unit above the line. The same substitution is how you check each point in a table of values before you plot it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--01-along-then-up.webp" width="900" height="960" alt="Points A (2, 5) and B (5, 2) are plotted on a 0 to 6 grid. Each is reached by moving across x first, then up y. They are different points, so the order of the numbers matters." loading="lazy">
+  <figcaption>Always move along the x-axis first, then up or down the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--03-complete-rectangle.webp" width="900" height="1060" alt="Rectangle PQRS has P (-3, 2), Q (1, 2) and R (1, -4). S is found directly below P and level with R, giving S (-3, -4). The sides measure 4 and 6 units." loading="lazy">
+  <figcaption>S shares its x with P and its y with R.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--04-scaled-grid.webp" width="900" height="860" alt="A grid corner is at x = 3, y = 10, with 10 squares worth 2 units across and 5 units up. Point A is 7 squares across and 3 up, so A is (4.4, 11.5)." loading="lazy">
+  <figcaption>Work out what one small square is worth on each axis before reading a point.</figcaption>
+</figure>
+
+
 ## 3.2 Drawing linear graphs
 
 A linear equation is one where x and y appear only to the power 1, with no xy term. Its graph is always a straight line. So you only need two correct points to fix the line, but you should always work out **three**. The third point is a check: if the three plotted points do not line up, one of them is wrong.
@@ -222,6 +243,17 @@ x =  4:  y = (20 - 10) / 2 = 5
 ```
 
 Plot (–1, –7.5), (0, –5), (2, 0) and (4, 5), and rule the line across –1 ≤ x ≤ 4. Dividing by –2 flips the signs of both terms, which is where most errors happen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
+</figure>
+
 
 ## Common errors
 

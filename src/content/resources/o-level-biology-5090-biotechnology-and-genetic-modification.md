@@ -71,6 +71,17 @@ Yeast is grown in a sugar solution (for example, from fruit or grain) with **no 
 
 Always divide the change by the **starting** value for a percentage increase, not by the final value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-biotechnology-and-genetic-modification--04-dough-rising-data.webp" width="900" height="770" alt="Two measuring cylinders show dough at 50 cm3 at the start and 125 cm3 after 60 minutes. The increase is 75 cm3, a 150 percent increase, at a mean rate of 1.25 cm3 per minute, because carbon dioxide from yeast is trapped in the dough." loading="lazy">
+  <figcaption>Dough rises from 50 to 125 cm3 in 60 minutes: 150% increase, 1.25 cm3 per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--02-yeast.webp" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Extended equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise." loading="lazy">
+  <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread.</figcaption>
+</figure>
+
+
 ## 18.1.2 and 18.1.3 Why bacteria are useful
 
 The syllabus gives four reasons. Learn them as a set.
@@ -94,6 +105,17 @@ In a "discuss" question, give the feature and then say **why it helps**: "bacter
 
 Each division doubles the population, so numbers rise very fast.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--01-bacteria.webp" width="900" height="1130" alt="Three panels. One: one bacterium becomes 2, 4 then 8 as numbers double, showing rapid reproduction. Two: a bacterium makes a protein, a complex molecule. Three, Extended: a bacterial cell with a main DNA loop and small plasmids; a plasmid can be opened, given a gene and closed; growing bacteria raises few ethical concerns." loading="lazy">
+  <figcaption>Bacteria multiply fast, make complex molecules and carry plasmids that can take a new gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
+
 ## 18.1.4 Fermenters
 
 A **fermenter** is a large, closed vessel in which bacteria or fungi are grown in controlled conditions to make a useful product on a large scale. Examples include insulin from genetically modified bacteria and the antibiotic penicillin from the fungus *Penicillium*.
@@ -115,6 +137,12 @@ The syllabus limits the conditions to five. For each one, know **how** it is con
 - The temperature inside rises, because respiration of the microorganisms releases heat and it is no longer removed.
 - Above the optimum, enzymes in the microorganisms are denatured.
 - Growth and product formation slow down or stop, so the **yield falls**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
+</figure>
+
 
 ## 18.1.5 Enzymes in industry
 
@@ -152,6 +180,17 @@ In a fair test the mass of pulp, temperature and time stay the same, and the con
 
 Milk is treated with lactase so that the lactose is already broken down. People who are lactose intolerant can then drink it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--03-pectinase.webp" width="900" height="1000" alt="Pectin holds plant cells together. Pectinase breaks down pectin and cell walls so juice leaks out. Measuring cylinders show 18.0 cm3 of cloudy juice without pectinase and 27.0 cm3 of clearer juice with it, an increase of 9.0 cm3 or 50 percent." loading="lazy">
+  <figcaption>Pectinase gives 50% more juice, and clearer juice, in the worked example.</figcaption>
+</figure>
+
+
 ## 18.2.1 What genetic modification means
 
 **Genetic modification** is changing the genetic material of an organism by **removing, changing or inserting individual genes**. A gene from one organism can be put into a different species, which then makes the protein that gene codes for.
@@ -168,6 +207,17 @@ People with Type 1 diabetes need insulin (see [Coordination and control](/resour
 
 This links straight back to 18.1.3: plasmids carry the gene in, rapid reproduction gives a large population, and bacteria can make a complex molecule (a protein).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-biotechnology-and-genetic-modification--05-gm-insulin-five-steps.webp" width="900" height="1085" alt="Five steps: cut the human insulin gene from human DNA, insert it into a plasmid, a bacterium takes up the plasmid, bacteria reproduce rapidly in a fermenter, and bacteria make insulin that is extracted and purified." loading="lazy">
+  <figcaption>The five-step outline of making human insulin with GM bacteria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
+
 ## 18.2.3 GM crop plants
 
 The syllabus names three reasons for inserting genes into crop plants.
@@ -177,6 +227,12 @@ The syllabus names three reasons for inserting genes into crop plants.
 | (a) Confer resistance to herbicides | The crop survives when the field is sprayed with herbicide, but weeds die. Less competition from weeds means a higher yield | Herbicide-resistant soya or maize |
 | (b) Confer resistance to insect pests | The plant makes a protein that is toxic to certain insect larvae that eat it. Less damage; less insecticide needed | Crops with a gene from the bacterium *Bacillus thuringiensis* (Bt), such as Bt cotton |
 | (c) Provide additional vitamins | The edible part contains a vitamin, or a substance the body turns into one | Golden Rice, which makes beta-carotene; the body converts this to vitamin A |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
 
 ## 18.2.4 Advantages and risks of GM
 
@@ -207,6 +263,12 @@ The syllabus limits this to crop plants and bacteria.
 - Against: the seed may cost more, and non-pest insects feeding on the crop could be harmed. [1]
 
 A "discuss" answer needs points on **both** sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-biotechnology-and-genetic-modification--06-gm-gains-and-risks.webp" width="900" height="893" alt="Two columns. Advantages: higher yield, less insecticide, more vitamins such as Golden Rice, cheap human insulin. Risks: gene spread to wild relatives, resistant pests, harm to non-pest insects, health concerns, higher seed cost." loading="lazy">
+  <figcaption>Potential advantages and risks of GM crops and bacteria side by side.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -47,6 +47,12 @@ Test yourself with the [practice set](/resources/ib-dp-biology-water-potential-a
 - A shell of water molecules then surrounds each solute particle and keeps it dispersed.
 - Non-polar substances cannot do this, so they stay undissolved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--01-solvation.webp" width="900" height="950" alt="A sodium ion is surrounded by six water molecules with their oxygen ends (slightly negative) pointing at it, and a chloride ion by six water molecules with their hydrogen ends (slightly positive) pointing at it. Glucose has four drawn OH groups, each hydrogen bonded (dashed) to a water molecule, so it dissolves. A hydrocarbon chain has no such attraction, so water does not cluster round it and it is poorly soluble." loading="lazy">
+  <figcaption>Solvent molecules cluster round ions and polar molecules through attractions; non-polar chains cannot form them.</figcaption>
+</figure>
+
+
 ## D2.3.2 and D2.3.3: Direction of water movement
 
 **Method in steps**
@@ -64,6 +70,12 @@ Test yourself with the [practice set](/resources/ib-dp-biology-water-potential-a
 | Hypertonic medium | Out | Crenated | Plasmolysed |
 
 **Wording to use:** "The solution outside has a lower solute concentration than the cytoplasm, so there is net movement of water into the cell by osmosis." Never write "water moves to where there is less water".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--02-osmosis-direction.webp" width="900" height="990" alt="A partially permeable membrane separates a hypotonic solution of 0.12 mol per cubic decimetre from cell contents of 0.30. Solute cannot cross, and the thick arrow shows net water movement into the cell, with a thin arrow for the smaller flow the other way. In the isotonic panel the solute concentrations are equal, and two equal arrows show water crossing both ways at the same rate: a dynamic equilibrium." loading="lazy">
+  <figcaption>Net water movement is towards the higher solute concentration; in isotonic solutions it still crosses both ways at equal rates.</figcaption>
+</figure>
+
 
 ## D2.3.4: Plant tissue experiment
 
@@ -84,6 +96,17 @@ Test yourself with the [practice set](/resources/ib-dp-biology-water-potential-a
 
 **Limitations to quote:** surface liquid left on pieces after blotting; pieces cut from different regions of the tissue; too few repeats; time too short to reach equilibrium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--05-plant-tissue-practical.webp" width="900" height="740" alt="A graph of mean percentage mass change of parsnip cylinders against sucrose concentration from 0.0 to 0.8 mol per cubic decimetre. The line falls from +14.2 per cent to minus 17.9 per cent and crosses zero at about 0.34 mol per cubic decimetre, found by straight-line interpolation between 0.2 and 0.4. Above zero the tissue gains water, below it loses water. The percentage change formula and the 2.00 g to 2.31 g example are shown." loading="lazy">
+  <figcaption>Plotting percentage change against concentration: where the line crosses zero the solution is isotonic with the tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--06-sd-and-se.webp" width="900" height="830" alt="A number line with five repeat values 8.1, 6.9, 7.5, 9.0 and 6.4 per cent and their mean, 7.58. A long bar of plus and minus one standard deviation (1.02) shows the spread of repeats. A shorter bar of plus and minus one standard error (1.02 divided by root 5, giving 0.46) shows how precisely the mean is known. The mean is quoted as 7.6 plus or minus 0.5 per cent." loading="lazy">
+  <figcaption>SD shows how spread out the repeats are; SE (SD divided by the square root of n) shows how precisely the mean is estimated.</figcaption>
+</figure>
+
+
 ## D2.3.5: Cells without a wall
 
 - **Hypotonic medium:** swell and burst.
@@ -91,11 +114,23 @@ Test yourself with the [practice set](/resources/ib-dp-biology-water-potential-a
 - **Freshwater unicellular organisms:** water enters constantly. A contractile vacuole collects it and expels it, using ATP.
 - **Multicellular animals:** keep tissue fluid isotonic to the cells so cells do not swell or shrink harmfully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--03-animal-cells.webp" width="900" height="730" alt="Three animal cells in three solutions. In a hypotonic solution water enters, the cell swells and its membrane bursts (lysis). In an isotonic solution equal arrows show no net change. In a hypertonic solution water leaves and the cell shrinks with a puckered outline (crenation)." loading="lazy">
+  <figcaption>Without a wall nothing resists swelling, so cells burst in hypotonic and crenate in hypertonic solutions.</figcaption>
+</figure>
+
+
 ## D2.3.6: Cells with a wall
 
 - **Hypotonic medium:** water enters, protoplast presses on the wall, turgor pressure develops. The cell is turgid and does not burst because the wall resists.
 - **Hypertonic medium:** water leaves, protoplast shrinks, membrane pulls away from the wall. The cell is plasmolysed.
 - **Gap in a plasmolysed cell:** filled with the external solution, since the wall is permeable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--04-plant-cells.webp" width="900" height="660" alt="Three plant cells with a thick wall around a protoplast and a vacuole. In a hypotonic solution the protoplast fills the wall, pressing outward (turgor pressure) and the cell is turgid. In an isotonic solution the cell is flaccid with little turgor. In a hypertonic solution the protoplast shrinks away from the wall, and the gap holds the outside solution." loading="lazy">
+  <figcaption>The wall resists expansion, giving turgor in dilute solutions and plasmolysis (membrane pulling away) in concentrated ones.</figcaption>
+</figure>
+
 
 ## D2.3.7: Isotonic solutions in medicine
 
@@ -124,6 +159,17 @@ Remember: distilled water given into a vein would be hypotonic to the blood, so 
 | ψw, water potential | Zero or negative | Sum of the two |
 
 **Worked reminder.** Cell with ψs = −650 kPa and ψp = +400 kPa. ψw = −650 + 400 = **−250 kPa**. In a solution with ψw = −250 kPa there is no net movement of water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--07-water-potential-equation.webp" width="900" height="980" alt="HL only. A bar chart in kilopascals. The plant cell has solute potential minus 800 and pressure potential plus 500, so water potential minus 300. The open solution has solute potential minus 600, pressure potential 0 and water potential minus 600. Water moves from the higher value (minus 300) to the lower (minus 600), so it leaves the cell." loading="lazy">
+  <figcaption>Worked example 5: water potential = solute potential + pressure potential, and water moves from higher to lower water potential.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-potential-and-osmosis--08-turgor-and-plasmolysis-hl.webp" width="900" height="850" alt="HL only. A graph of cell pressure potential against the water potential of the open solution outside, for a cell with solute potential minus 800 kPa. In pure water the pressure potential is 800 kPa, equal to minus the solute potential. It falls linearly to 200 kPa at minus 600 kPa (worked example 5) and reaches zero at minus 800 kPa, incipient plasmolysis. Beyond that the cell plasmolyses." loading="lazy">
+  <figcaption>Turgor (pressure potential) falls as the outside water potential falls and reaches zero at incipient plasmolysis, where water potential equals solute potential.</figcaption>
+</figure>
+
 
 ## D2.3.11: Explaining tissue changes (HL only)
 

@@ -39,6 +39,22 @@ Match each characteristic to a function. Acceptable and divisible serve exchange
 
 **Narrow and broad.** Notes and coins 25, current accounts 95, savings 210, time deposits 70. Narrow = 25 + 95 = 120. Broad = 120 + 210 + 70 = 400. Moving 40 from current to savings: narrow 80, broad 400.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--02-store-of-value-erosion.webp" width="900" height="870" alt="Bar chart of the buying power, in today’s prices, of 2,000 units of money kept for four years while prices rise 3% a year: 2,000 today, 1,942 after year 1, 1,885 after year 2, 1,830 after year 3 and 1,777 after year 4, a loss of 223. High inflation weakens money as a store of value." loading="lazy">
+  <figcaption>At 3% inflation 2,000 units under a mattress buy only 1,777 units’ worth after 4 years, a loss of 223.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--03-narrow-vs-broad-money.webp" width="900" height="940" alt="Two stacked bars. Before: notes and coins 30, current account deposits 170, savings deposits 410 and time deposits 140. Narrow money (notes and coins plus current accounts) is 200 and broad money is 750. After households move 60 from current to savings accounts, narrow money falls to 140 while broad money stays at 750." loading="lazy">
+  <figcaption>Narrow money is 200 and broad money 750; moving 60 into savings cuts narrow money to 140 but leaves broad money at 750.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula |
@@ -104,6 +120,22 @@ Match each characteristic to a function. Acceptable and divisible serve exchange
 | Demand | Money held | Borrowing |
 | Emphasis | Short run | Link to saving and investment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--12-money-liquidity-preference.webp" width="900" height="970" alt="Two money market diagrams with vertical money supply and downward-sloping money demand Md = 300 minus 20r. Ms 220 gives 4%; Ms 260 gives 2%; a shift of demand to 340 minus 20r with Ms 220 gives 6%." loading="lazy">
+  <figcaption>Ms = 220 gives 4%; more money lowers the rate to 2%; higher money demand raises it to 6%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--13-money-loanable-funds.webp" width="900" height="1150" alt="Loanable funds supply Qs = 40 + 8r and demand Qd = 120 - 12r meet at 4% and 72. At 3% demand 84 exceeds supply 64; at 5% supply 80 exceeds demand 60. Higher saving gives 3.2% and 81.6; lower business confidence gives 3% and 64." loading="lazy">
+  <figcaption>Saving and borrowing meet at 4% and 72 units; more saving gives 3.2%, weaker confidence 3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--05-bond-price-and-yield.webp" width="900" height="900" alt="Graph of yield against bond price for a bond paying a fixed 5 a year. Yield = 5 divided by price, so a price of 80 gives 6.25%, a price of 100 gives 5% and a price of 125 gives 4%. A higher price means a lower yield. When people buy bonds the price rises and the yield, the interest rate, falls." loading="lazy">
+  <figcaption>A bond paying 5 a year yields 6.25% at a price of 80, 5% at 100 and 4% at 125, so rising bond prices mean falling interest rates.</figcaption>
+</figure>
+
+
 ## Diagram checklist
 
 Draw both interest rate diagrams with the interest rate on the vertical axis.
@@ -132,6 +164,12 @@ Always label both axes, both curves, the original and new equilibrium and the ar
 - Higher expected inflation tends to raise nominal rates. This is often called the Fisher effect.
 - Evaluate: nominal rates do not always move one for one with expected inflation. Central bank policy, risk and the supply of saving also matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--15-money-real-interest-rate.webp" width="900" height="950" alt="A saver’s 10,000 grows to 10,300 at 3% but buys only 9,810 in today’s prices with 5% inflation, a real rate of -1.9%. A lender expecting 4% inflation wants about 7.12% nominal; a 7% borrower with 9% inflation has a real rate of -1.8%." loading="lazy">
+  <figcaption>10,000 at 3% with 5% inflation buys 190 less after a year, a real rate of −1.9%.</figcaption>
+</figure>
+
+
 ## The Fisher equation of exchange and the quantity theory
 
 **Reminder.** M = 60, V = 5, T = 100. P = 60 × 5 / 100 = 3.00. If M rises 10% to 66, P = 3.30. The rise is 10%.
@@ -146,6 +184,17 @@ Always label both axes, both curves, the original and new equilibrium and the ar
 | | Inflation can be cost-push |
 
 **Judgement.** Strongest over the long run and at high inflation. Weakest in the short run and when there is spare capacity. Always say which assumption fails and what happens to P as a result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--14-money-equation-of-exchange.webp" width="900" height="980" alt="Bars show MV equal to PT: 450 times 6 equals 3.00 times 900, both 2,700; after M rises 10% both become 2,970 and P is 3.30. Growth-rate examples show prices rising 2.76% or only 1.4% when V and T change." loading="lazy">
+  <figcaption>MV = PT always holds; the quantity theory only follows if V and T are constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -172,6 +221,12 @@ Always label both axes, both curves, the original and new equilibrium and the ar
 8. 200 − 10r = 120 gives 8%; 200 − 10r = 150 gives 5%.
 9. 6 / 120 = 5%; 6 / 75 = 8%.
 10. Narrow = 120; broad = 400.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--11-money-credit-creation.webp" width="900" height="950" alt="Four rounds of lending from a 750 deposit with a 15% reserve ratio: lent amounts 637.50, 541.88, 460.59 and 391.50. Deposits approach a maximum of 5,000, a multiplier of 6.67. With 10% cash leakage the limit is 3,000." loading="lazy">
+  <figcaption>With a 15% reserve ratio, 750 of cash can support at most 5,000 of deposits (3,000 with a 10% cash leakage).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

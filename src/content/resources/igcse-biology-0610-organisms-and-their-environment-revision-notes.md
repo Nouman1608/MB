@@ -44,6 +44,12 @@ Also useful: the [IGCSE Biology hub](/boards/cambridge/igcse/biology/), the [061
 - Route: **light energy** → (photosynthesis in producers) → **chemical energy** in organic compounds → passed along by feeding → eventually transferred to the **environment** as heat (mainly from respiration).
 - Energy **flows** through an ecosystem in one direction. It is not recycled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--01-energy-flow.webp" width="900" height="1190" alt="Light energy from the Sun is absorbed by a plant, and photosynthesis transfers it to chemical energy. Chemical energy passes to a herbivore and then a carnivore. At every stage, including decomposers, energy is transferred to the environment as heat. Dead material and waste pass to decomposers, and energy is never recycled." loading="lazy">
+  <figcaption>Energy enters as light, passes along the chain and leaves as heat; it is not recycled.</figcaption>
+</figure>
+
+
 ## 19.2 Food chains and food webs
 
 ### Definitions (Core) -- learn the wording
@@ -68,6 +74,12 @@ Trophic levels in order: **producers → primary consumers → secondary consume
 3. Check for knock-on effects: a predator that loses one food source may eat more of another.
 4. For every change you state, give the reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--03-web-change.webp" width="900" height="1150" alt="Web: grass eaten by rabbits and voles; rabbits and voles eaten by foxes; voles also eaten by owls. Disease kills most rabbits (1), foxes eat more voles so voles fall (2), owls may fall (3), grass may rise (4)." loading="lazy">
+  <figcaption>Follow every arrow: fewer rabbits means more voles eaten, fewer owls and more grass.</figcaption>
+</figure>
+
+
 ### Human impact (Core)
 
 - **Overharvesting** a food species: its predators lose food and may decline; its prey may increase.
@@ -83,6 +95,17 @@ Trophic levels in order: **producers → primary consumers → secondary consume
 
 - **Biomass better than numbers (Core):** accounts for the size of organisms; gives a truer picture of the amount of living material each level holds.
 - **Energy better than both (Extended only):** shows energy transferred over a period of time, not at one moment; never inverted; lets you compare transfer efficiencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--04-pyramids.webp" width="900" height="1030" alt="For one oak supporting 2 500 caterpillars eaten by 30 blue tits, the pyramid of numbers has a narrow base, very wide middle and narrow top, so it is not pyramid-shaped. The pyramid of biomass narrows at each level and is pyramid-shaped." loading="lazy">
+  <figcaption>Biomass gives a true pyramid because it allows for the size of organisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--05-energy-efficiency.webp" width="900" height="1060" alt="Extended. A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
+  <figcaption>Only about 7 to 9 % passes to the next level here, so energy pyramids narrow quickly.</figcaption>
+</figure>
+
 
 ### Energy transfer (Extended only)
 
@@ -104,6 +127,12 @@ Trophic levels in order: **producers → primary consumers → secondary consume
 **Inverted pyramid (Core).** One rose bush supports 600 aphids, which support 15 ladybirds. The pyramid of numbers has a narrow base, a wide middle and a narrow top. The pyramid of biomass is a normal pyramid, because the bush is far heavier than all the aphids together.
 
 **Efficiency (Extended only).** Always divide the higher trophic level by the lower one. If your answer is over 100 %, you have divided the wrong way round.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
 
 ## 19.3 Nutrient cycles
 
@@ -133,6 +162,17 @@ Trophic levels in order: **producers → primary consumers → secondary consume
 
 **Microorganism roles** you must state: decomposition, nitrification, nitrogen fixation, denitrification. Names of individual bacteria are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--07-nitrogen-cycle.webp" width="900" height="1090" alt="Extended. Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air." loading="lazy">
+  <figcaption>Bacteria drive four steps: decomposition, nitrification, fixation and denitrification.</figcaption>
+</figure>
+
+
 ## 19.4 Populations
 
 ### Definitions (Core)
@@ -153,6 +193,12 @@ Limited to: **food supply, competition, predation, disease**.
 | Exponential (log) | Steep rise | Resources plentiful; births far exceed deaths |
 | Stationary | Level | Limiting factors (e.g. food, space) act; births = deaths |
 | Death | Fall | Food exhausted or toxic waste builds up; deaths exceed births |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--08-population-growth.webp" width="900" height="1130" alt="Sketch graph of population size against time: lag (slow rise), exponential (steep rise), stationary (levels off) then death (falls). Extended explanations: few reproducing; plenty of food and births far exceed deaths; limiting factors so births equal deaths; food runs out or waste builds up so deaths exceed births." loading="lazy">
+  <figcaption>The four phases of the sigmoid growth curve and what causes each (Extended).</figcaption>
+</figure>
+
 
 ### Method: calculating a growth rate from a graph
 

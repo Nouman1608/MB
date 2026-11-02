@@ -86,6 +86,17 @@ Total overhead is the same under both. The method changes how it is shared out b
 | Targets cost control through the drivers | Savings appear only if resources are removed |
 | Supports range and process decisions | Based on past data; little gain where overheads are small |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-activity-based-costing--01-abc-pools-by-driver.webp" width="900" height="978" alt="Four overhead pools are shared between S and C in proportion to driver use: S gets $108,000 ($4.50 each), C gets $90,000 ($30.00 each)." loading="lazy">
+  <figcaption>Each pool is shared by how many times each product uses its driver.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-activity-based-costing--02-abc-labour-hours-misleads.webp" width="900" height="1070" alt="C uses 70% of set-ups but only 33% of labour hours. Overhead per crate: S 5.50 (labour hours) vs 4.50 (ABC); C 22.00 vs 30.00, so C is under-costed by 8.00." loading="lazy">
+  <figcaption>A single labour-hour rate under-costs the product that uses most set-ups.</figcaption>
+</figure>
+
+
 ## Worked reminder: a service business
 
 Verdane Linen Services washes linen for hotels (H) and restaurants (R). Overheads of 180,000 are currently shared on service labour hours: 8,000 for H and 4,000 for R, a total of 12,000. The rate is 15 per hour. Hotels take 120,000 and restaurants take 60,000. Hotels send 160,000 kg a year and restaurants 80,000 kg. That makes the overhead 0.75 per kg for each.
@@ -109,6 +120,22 @@ With direct costs of 0.55 per kg and a price of 1.60 per kg for both, the tradit
 - Compare methods by working out both unit costs, then both profits, then saying what the manager should do differently.
 
 Example: 500 units are unsold. Unit overhead is 7.00 under ABC and 5.50 under labour hours. Closing inventory carries 500 × 1.50 = 750 more overhead under ABC, so profit is 750 higher.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-activity-based-costing--03-abc-same-profit-different-split.webp" width="900" height="790" alt="Three equal bars show total profit of 139,500 whichever overhead method is used; only the split between S and C changes (C earns 12.50, 21.30 or 4.50 per crate)." loading="lazy">
+  <figcaption>Changing the absorption method moves profit between products without changing the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-activity-based-costing--04-abc-pricing-decision.webp" width="900" height="1090" alt="Cost and profit per C crate: price 62.50 gives 4.50 profit, price 66.00 gives 8.00, and 66.00 with set-ups cut from 140 to 100 gives 12.80 (cost 53.20), against a rival at 66.00." loading="lazy">
+  <figcaption>Matching the rival at 66.00 and cutting set-ups raises profit per crate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-activity-based-costing--01-abc-unsold-inventory.webp" width="900" height="825" alt="Three stacked bars show closing inventory of 3,000 S and 500 C valued at labour-hour cost (76,000), machine-hour cost (74,900) and ABC cost (77,000). More cost held in inventory means less charged to sales, so ABC profit is 1,000 above labour hours and 2,100 above machine hours." loading="lazy">
+  <figcaption>Overhead carried in unsold stock is not charged to the period, so the method changes profit when inventory changes.</figcaption>
+</figure>
+
 
 ## Decisions and recommendations
 

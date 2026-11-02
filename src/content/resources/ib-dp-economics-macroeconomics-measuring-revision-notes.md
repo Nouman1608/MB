@@ -41,6 +41,17 @@ Business cycle phases: EXPANSION -> PEAK -> CONTRACTION (recession) -> TROUGH
 
 **Recession** = falling real output. **Slower growth** = positive but reduced growth — these are **different things**, and IB questions frequently test this distinction using data extracts rather than definitions alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--01-gdp-and-gni.webp" width="900" height="880" alt="GNI equals GDP plus net income from abroad. With illustrative numbers, GDP of 100 and net income of +20 gives GNI of 120; with net income of -15, GNI is 85. GNI can therefore be above or below GDP." loading="lazy">
+  <figcaption>GNI is GDP plus net income from abroad, which can be positive or negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+
 ## The AD-AS model (3.2)
 
 **The single most important diagram in this unit** — nearly every later demand-side and supply-side policy sub-topic is explained via shifting one of AD-AS's two curves.
@@ -51,6 +62,27 @@ Business cycle phases: EXPANSION -> PEAK -> CONTRACTION (recession) -> TROUGH
 | **Aggregate supply (AS)** | Production costs, productivity, productive capacity (short run vs. long run differ) |
 
 **Common exam error:** shifting the wrong curve — a change in one of AD's four components shifts AD; a change in **costs** or **productive capacity** shifts AS.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
+  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## Worked example: reading combined data
 
@@ -85,6 +117,12 @@ CONCLUSION: distinguish LEVELS from RATES OF CHANGE -- this is
 
 **A recession is a fall in the LEVEL of real output; slower growth is a fall in the RATE of growth, with output still rising** — confusing the two is one of the most heavily tested errors on this sub-topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## Macroeconomic objectives (3.3)
 
 ```
@@ -97,6 +135,17 @@ CONCLUSION: distinguish LEVELS from RATES OF CHANGE -- this is
 (HL calculation element in this sub-topic: constructing a weighted price index from supplied data. Equity in the distribution of income is a related but separate concern, covered in the following sub-topic on inequality and poverty -- including the Lorenz curve and Gini coefficient, both interpreted at SL, with construction of a Lorenz curve HL only.)
 
 Learn these as the objectives of *this* sub-topic (three at SL, four at HL) — evaluation questions often ask which objective a policy serves and which it might conflict with (e.g. growth-boosting policy can worsen inflation); do not add equity to this list, since the syllabus places it in the next sub-topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--08-macro-objectives.webp" width="900" height="970" alt="Tiles show economic growth, low and stable inflation, low unemployment and, at HL only, sustainable government debt. A double-headed arrow between growth and inflation shows they can conflict." loading="lazy">
+  <figcaption>Growth, low unemployment and low stable inflation are the SL objectives; sustainable debt is HL only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
 
 ## Worked example: a second data-response scenario
 
@@ -131,6 +180,17 @@ CONCLUSION: this data extract is consistent with EITHER a demand-side
 ```
 
 Practising both directions -- adverse supply shocks (first worked example) and this more ambiguous case -- builds genuine fluency in reading combined output/inflation data rather than jumping to a single pattern, and in being precise about the price *level* versus the inflation *rate*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-revision-notes--01-keynesian-flat-range.webp" width="900" height="880" alt="Price level against real output with a Keynesian AS curve that is flat at a price level of 50 up to output 80, then rises and becomes steep near full capacity. AD1 meets AS at output 60; a rightward shift to AD2 moves equilibrium to output 75, still on the flat range, so output rises while the price level stays at 50. The data alone cannot rule out a supply-side gain." loading="lazy">
+  <figcaption>In the flat range of the Keynesian AS curve, a rightward AD shift raises output with little change in the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-revision-notes--02-steady-inflation-prices-rise.webp" width="900" height="1030" alt="Four small charts. Real GDP growth rises from 2% to 5%, so the level goes 100, 102, 107.1. Inflation stays at 2% in both years, so the price level still rises 100, 102, 104.04. A steady inflation rate is not a stable price level." loading="lazy">
+  <figcaption>A constant 2% inflation rate means prices keep rising every year; only 0% inflation holds the price level steady.</figcaption>
+</figure>
+
 
 ## What these notes do not cover
 

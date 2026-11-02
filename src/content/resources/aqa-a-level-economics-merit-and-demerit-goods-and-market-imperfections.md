@@ -70,6 +70,12 @@ The market settles where MPB meets MPC, which is below the social optimum where 
 
 The same triangle is lost whether the cause is information, externality or both. Say which gap is which.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--07-merit-good-worked-example.webp" width="900" height="1030" alt="Perceived MPB 40 - 2Q, true private benefit 44 - 2Q, MSB 52 - 2Q and MC 10 + Q for health screening. Market output is 10, the optimum is 14. At 10 the 12 gap is an information gap of 4 plus external benefit 8. The welfare triangle is 24 thousand cu." loading="lazy">
+  <figcaption>Merit good output is too low by an information gap plus an external benefit; the triangle is 24.</figcaption>
+</figure>
+
+
 ## Demerit goods: the mirror image
 
 For a demerit good, consumers overvalue the product, or ignore harm to others. Marginal social benefit lies below marginal private benefit. The market quantity is higher than the optimum, so the good is over-provided.
@@ -83,11 +89,23 @@ For a demerit good, consumers overvalue the product, or ignore harm to others. M
 
 In words: output is too high and resources are pulled into a product whose use does not justify its opportunity cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--08-demerit-good-worked-example.webp" width="900" height="1030" alt="Perceived MPB 42 - 2Q, true private benefit 39 - 2Q, MSB 33 - 2Q and MC 6 + Q for a sweetened drink. Market output 12, optimum 9. At 12 the gap of 9 is information gap 3 plus harm to others 6. The deadweight loss triangle is 13.5 thousand cu." loading="lazy">
+  <figcaption>Demerit good output is too high; the triangle between MC and MSB is 13.5.</figcaption>
+</figure>
+
+
 ## Imperfect information as a cause
 
 Consumers may under-provide themselves with merit goods because the benefits come years later, are hard to see, or because they have never experienced the good. Consumers may over-consume demerit goods because the harm is delayed, uncertain, or concealed by advertising or addiction. In both cases their willingness to pay does not reflect true private benefit, so demand misstates the real benefit. The first diagram shows this as a gap between perceived and true benefit.
 
 A good can be a demerit good mainly through information (a harmful additive nobody knows about) or mainly through externalities (heavy drinking leading to violence), but in both cases the judgement that the consumer is also harmed by their own choice is what makes it a demerit good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## Not all externality goods are merit or demerit goods
 
@@ -98,6 +116,12 @@ The specification says that not all products with positive or negative externali
 3. Is the issue the consumer's own misjudgement, rather than only a spillover?
 
 If the answer to the second question is no, it is an externality case only. A householder's well-kept front garden gives neighbours a positive externality, yet nobody calls a garden a merit good. Driving a car creates congestion and emissions for others, yet few people say the driver is harming themselves by driving, so a car is not usually a demerit good. Vaccination, by contrast, benefits others and is also thought to be undervalued by individuals: it is both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--03-externality-test.webp" width="900" height="890" alt="Three-question flow. If there is no external benefit or cost it is not this case; if the consumer would not be better or worse off choosing differently it is an externality case only (garden, car); yes to all three is a merit or demerit good (vaccination)." loading="lazy">
+  <figcaption>The three-question test separates merit and demerit goods from externality-only cases.</figcaption>
+</figure>
+
 
 ## Imperfect and asymmetric information
 
@@ -111,6 +135,12 @@ Imperfect information means buyers or sellers lack complete knowledge of price, 
 4. Lost gains from trade = 50 × (8,000 − 6,500) = **75,000** cu.
 
 A mutually beneficial exchange has failed to happen, which is a misallocation. Other consequences: consumers buy too much or too little of goods whose quality they cannot judge; markets may be missing altogether (complete market failure), as with insurance when insurers cannot assess risk; and a professional (an agent) may know more than the client. Evaluation points are that sellers can signal quality, consumers can use reviews and warranties, and regulation can require disclosure. Information problems are larger for complex, rarely bought or long-term products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--09-used-tractors-asymmetric-information.webp" width="900" height="960" alt="A price ladder: good tractor worth 8,000, good sellers need 6,500, buyers offer the 6,000 average, poor tractor worth 4,000, poor sellers need 3,000. 6,000 is below 6,500 so good tractors leave; lost gains are 50 x 1,500 = 75,000 cu." loading="lazy">
+  <figcaption>Buyers who cannot tell quality offer an average price, so good sellers leave.</figcaption>
+</figure>
+
 
 ## Monopoly and monopoly power
 
@@ -126,6 +156,17 @@ A pure monopoly is a single seller; monopoly power exists where a firm with a la
 
 Evaluation matters. A monopoly with large economies of scale may have much lower unit costs. If, in the same market, a fragmented industry had marginal cost 80, competition would give Q = 20 at P = 80, whereas the monopolist (marginal cost 20) gives Q = 25 at P = 70. The monopoly beats competition on price only if rivals' cost exceeds 70, which is the monopoly price. Also consider dynamic efficiency (profit funds research), the threat of entry, and any regulation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--10-monopoly-worked-example.webp" width="900" height="920" alt="Demand P = 120 - 2Q, MR = 120 - 4Q and MC = 20. Competition gives Q 50 at P 20. The monopolist sets MR = MC at Q 25 and price 70, with consumer surplus 625, profit 1,250 and deadweight loss 625, together the 2,500 of competitive consumer surplus." loading="lazy">
+  <figcaption>Monopoly restricts output to 25 and raises price to 70, creating a deadweight loss of 625.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--04-scale-vs-fragmented.webp" width="900" height="980" alt="Demand P = 120 - 2Q. Monopoly with MC 20 sells 25 thousand at 70 (M); a fragmented industry with MC 80 sells 20 thousand at 80 (F). Monopoly is cheaper only if rivals' cost is above 70." loading="lazy">
+  <figcaption>Whether a monopoly beats competition on price depends on the cost saving from scale.</figcaption>
+</figure>
+
+
 ## Immobility of factors of production
 
 Factors are immobile when they cannot move easily to where they are most valuable. Occupational immobility means skills do not transfer between jobs; geographical immobility means housing costs, family ties and information costs stop movement between areas. Capital can be immobile too: specialised machinery has little alternative use.
@@ -138,6 +179,17 @@ Factors are immobile when they cannot move easily to where they are most valuabl
 4. If 150 are retrained at 9,000 each (1.35 million), they regain 4.5 million of output a year, so the cost is recovered in 0.3 of a year, about 3.6 months. 250 vacancies remain unfilled.
 
 Consequences are structural unemployment, wasted resources inside the production possibility frontier, shortages elsewhere and persistent wage and regional differences. The market failure is that prices (wages) signal where labour is needed but resources cannot respond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--01-immobility-mismatch.webp" width="900" height="780" alt="Region A has 12,000 in its labour force; unemployment rises from 300 (2.5%) to 900 (7.5%) when a mill closes. The 600 ex-mill workers cannot fill the 400 vacancies in Region B because of a skills gap. Idle, they lose 18 million cu of output a year." loading="lazy">
+  <figcaption>Immobility leaves unemployed workers and vacancies side by side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--02-retraining-payback.webp" width="900" height="810" alt="Of 600 idle workers 150 are retrained (cost 1.35m); 450 stay idle and 250 of 400 vacancies stay unfilled. The 150 regain 4.5m of output a year, so the cost is recovered in 0.3 of a year, about 3.6 months." loading="lazy">
+  <figcaption>Retraining 150 workers pays for itself in 3.6 months but leaves most of the gap open.</figcaption>
+</figure>
+
 
 ## Common errors
 

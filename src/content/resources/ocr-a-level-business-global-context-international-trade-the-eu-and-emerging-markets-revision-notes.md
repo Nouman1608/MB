@@ -66,6 +66,17 @@ Also useful: the wider [External influences revision notes](/resources/ocr-a-lev
 3. Weigh the best alternative and say why it is weaker.
 4. Mention a condition that would change your view.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--08-globalisation-facilitators.webp" width="900" height="790" alt="Five facilitators point into globalisation: Internet and communications, e-commerce, trade liberalisation, transport infrastructure and multinationals." loading="lazy">
+  <figcaption>Five facilitators that make globalisation easier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## Global brands
 
 - **Opportunities from rising global brands:** trust and scale to lean on, licensing or supply deals, a "local alternative" position.
@@ -100,6 +111,12 @@ Also useful: the wider [External influences revision notes](/resources/ocr-a-lev
 
 **Support for traders:** financial (export credit insurance or guarantees, bank trade finance, grants where available) and non-financial (government advice and market information, trade fairs and missions, chambers of commerce and trade associations, agents and distributors).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--05-trade-barriers.webp" width="900" height="910" alt="Five barriers: tariff (tax on imports), quota (limit on quantity), embargo (ban on trade with a country), subsidy to local firms, and administrative rules." loading="lazy">
+  <figcaption>Five ways a country can make imports harder or dearer.</figcaption>
+</figure>
+
+
 ## Exchange rates
 
 Rate form used here: foreign units per £1.
@@ -125,6 +142,27 @@ The conversion rule and the barrier list are standard background, not specificat
 - Existing contracts or fixed prices that delay the effect.
 - Whether costs and sales are in the same currency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--03-currency-conversion.webp" width="900" height="950" alt="With £1 = €1.15, converting pounds to euros multiplies (£24 becomes €27.60) and converting euros to pounds divides (€4,600 becomes £4,000). If the pound weakens to €1.05 the euro invoice costs £4,380.95, £380.95 more, and the £24 scarf costs €25.20." loading="lazy">
+  <figcaption>Multiply to go from pounds to a foreign currency, divide to come back, and check the starting currency first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+
 ## Free trade and trading blocs
 
 | | Advantages to a business | Disadvantages to a business |
@@ -141,12 +179,24 @@ The conversion rule and the barrier list are standard background, not specificat
 - **UK outside the Single European Market:** freedom over product and employment rules, but loss of frictionless access and possible extra certification or local operations.
 - **Expand into Europe and/or global markets?** Europe is near and large but now involves more paperwork. Global markets may grow faster but bring distance, culture and currency risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--06-eu-bloc.webp" width="900" height="900" alt="The EU is a trading bloc containing the Single European Market and the Eurozone (euro, one interest rate); other members keep their own currency. The UK is outside, with its own trade deals, rules and rate, facing more paperwork, possible tariffs and euro risk." loading="lazy">
+  <figcaption>The EU, Single European Market and Eurozone, and the UK outside.</figcaption>
+</figure>
+
+
 ## Emerging markets and the global environment
 
 - Features: fast growth, rising incomes, growing middle class, still developing institutions and infrastructure.
 - Impact on a business: new customers and cheaper production sites, but also new rivals, price pressure and risk.
 - Changes in the global environment: exchange rates, trade policy, technology, political events, regulation, tastes, competitors.
 - Responses: diversify markets and suppliers, protect against currency risk, adapt products, invest in innovation, or stay local and differentiate. Justify against alternatives and cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--07-emerging-buyers.webp" width="900" height="790" alt="Two 100-square grids: 10 per cent of 30 million is 3.0 million middle-income buyers; 16 per cent of 32 million is 5.12 million, growth of 70.7 per cent." loading="lazy">
+  <figcaption>Both population and middle-income share rise, so the buyer group grows 70.7 per cent.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

@@ -75,6 +75,17 @@ d = 10 visits, when each costs £45
 
 On the graph, A starts higher but has the smaller gradient, so the lines cross at (10, 45). For fewer than 10 visits, B is cheaper. For more than 10 visits, A is cheaper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and--09-cooling-solve.webp" width="900" height="910" alt="A cooling curve through the table of values for a cup of tea (90 degrees at 0 minutes down to 33 at 30). A horizontal dashed line at 50 degrees meets the curve between 10 and 15 minutes, and reading down gives about 11 minutes. The curve is still falling at 30 minutes." loading="lazy">
+  <figcaption>To solve for a value on a curve, draw a horizontal line at that height and read down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and--10-gym-cross.webp" width="900" height="910" alt="Two cost lines against number of visits: Gym A starts at 25 pounds and rises 2 pounds a visit, Gym B starts at 10 pounds and rises 3.50 pounds a visit. They cross at (10, 45). Before 10 visits B is cheaper; after 10 visits A is cheaper." loading="lazy">
+  <figcaption>Where two cost lines cross the deals cost the same; the smaller gradient wins for larger numbers of visits.</figcaption>
+</figure>
+
+
 ## 2. The gradient of a straight line as a rate of change
 
 A straight line's gradient is (change in vertical value) ÷ (change in horizontal value). In a real graph, it is the **rate of change**: the units are "vertical unit per horizontal unit", such as litres per minute or pounds per kilogram. A positive gradient means the quantity is rising; a negative gradient means it is falling. The vertical intercept is the starting value when the horizontal value is zero.
@@ -88,6 +99,22 @@ Gradient = (18 - 30)/(8 - 0) = -12/8 = -1.5
 ```
 
 The gradient is **-1.5 cm per hour**: the candle burns down 1.5 cm every hour. The height h after t hours is h = 30 - 1.5t. It burns out when 30 = 1.5t, so **t = 20 hours**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and--01-u-candle-line.webp" width="900" height="850" alt="Graph of candle height against time: 30 cm at the start and 18 cm at 8 hours, a gradient of −12 ÷ 8 = −1.5 cm per hour. The line h = 30 − 1.5t reaches zero at 20 hours, when the candle burns out." loading="lazy">
+  <figcaption>The gradient −1.5 cm per hour is the burning rate, and the line reaches zero at 20 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--02-taxi-fare.webp" width="900" height="930" alt="A taxi cost graph starts at $3 on the vertical axis, the fixed charge. The gradient is 15 dollars per 10 km, $1.50 per km, and $24 is read across to 14 km. A 20 km ride costs $33, not the $36 that scaling would give." loading="lazy">
+  <figcaption>A line with an intercept: gradient is the rate, intercept is the fixed charge, and scaling fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--01-miles-to-km.webp" width="900" height="930" alt="A conversion graph for miles and kilometres is a straight line through the origin and (50, 80). Reading up from 30 miles and across gives 48 km, and the gradient 80 divided by 50 is 1.6 km per mile. Because the line passes through (0, 0), values can be scaled." loading="lazy">
+  <figcaption>Reading a conversion graph, and why a line through the origin lets you scale.</figcaption>
+</figure>
+
 
 ## 3. Distance, speed and acceleration
 
@@ -135,6 +162,17 @@ Average speed = 3000/200 = 15 m/s
 
 The train travels **3 km**. The parallel sides of the trapezium are the times (100 s and 200 s); its height is the speed (20 m/s).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--03-van-journey.webp" width="900" height="930" alt="A distance-time graph of a van: 36 km out in 45 minutes (48 km/h), a flat 30 minute stop, then 36 km back in an hour (36 km/h). The whole trip is 72 km in 2.25 hours, so the average speed is 32 km/h, with the stop counted." loading="lazy">
+  <figcaption>Reading speed, stops and average speed from a distance-time graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp" width="900" height="890" alt="A speed-time graph for a cyclist: 0 to 12 m/s in 8 s, 12 m/s for 20 s, then to rest in 6 s. The area under the graph is the distance, 48 + 240 + 36 = 324 m, and the average speed is 324 divided by 34 = 9.53 m/s." loading="lazy">
+  <figcaption>Gradient is acceleration and area under the graph is distance.</figcaption>
+</figure>
+
+
 ## 4. Curved graphs: gradients and areas (Extension only)
 
 ### Gradient at a point (Extension only)
@@ -156,6 +194,17 @@ Gradient = (28 - 4)/(6 - 2) = 24/4 = 6
 ```
 
 The trolley's speed at t = 4 is about **6 m/s**. It is an estimate, because it depends on how accurately the tangent is drawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and--12-inverse-square-signal.webp" width="900" height="910" alt="A falling curve S = 1600 over d squared passes through (5, 64), (10, 16) and (20, 4). Each doubling of distance divides the strength by 4. S = 4 needs d squared = 400, so d = 20." loading="lazy">
+  <figcaption>In inverse-square variation, doubling the distance divides the value by 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
 
 ### Area under a curve (Extension only)
 
@@ -181,6 +230,17 @@ Area ≈ (2/2) × [0 + 10 + 2 × (3.6 + 6.4 + 8.4 + 9.6)]
 ```
 
 The runner covers about **66 m** in 10 s. Because the curve bends downwards, each trapezium sits slightly below the curve, so 66 m is a slight underestimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and--11-trapezium-estimate.webp" width="900" height="880" alt="A runner’s speed curve from 0 to 10 seconds, split into five trapezium strips of width 2 with areas 3.6, 10, 14.8, 18 and 19.6. They total 66, so the runner covers about 66 metres, a slight underestimate because the curve bends downwards." loading="lazy">
+  <figcaption>The trapezium rule splits the area under a curve into strips whose areas add to an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
 
 ## 5. Direct and inverse variation (Extension only)
 
@@ -253,6 +313,12 @@ For direct variation with xⁿ, work out y ÷ xⁿ for each pair. For inverse va
 ### Effect of changing a quantity
 
 For y = kx², doubling x multiplies y by 4. For y = k/x, doubling x halves y.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and--02-u-direct-square.webp" width="900" height="880" alt="Graph of y = 3x² with the points (5, 75), (8, 192) and (7, 147) marked and dashed guides to the axes. k = 75 ÷ 25 = 3, y = 3 × 64 = 192 at x = 8, and x² = 49 so x = 7 when y = 147." loading="lazy">
+  <figcaption>From (5, 75) we get k = 3; then x = 8 gives 192 and y = 147 gives x = 7.</figcaption>
+</figure>
+
 
 ## Common errors
 

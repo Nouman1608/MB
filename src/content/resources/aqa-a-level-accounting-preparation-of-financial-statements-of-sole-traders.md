@@ -44,6 +44,17 @@ A trial balance records what has been entered in the books. The financial statem
 
 Every adjustment has **two effects**: one in the income statement and one in the statement of financial position. Train yourself to write both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--09-markup-margin.webp" width="900" height="830" alt="Two bars show cost of 100. With profit of 25, mark-up is 25 percent and margin 20 percent. With profit of 60, mark-up is 60 percent and margin 37.5 percent. With a 60 percent mark-up, cost of sales is sales divided by 1.60." loading="lazy">
+  <figcaption>Mark-up is profit as a percentage of cost; margin is profit as a percentage of revenue.</figcaption>
+</figure>
+
+
 ## Accruals and prepayments of expenses
 
 An **accrued expense** has been incurred but not yet paid: add it to the expense and show it as a current liability. A **prepaid expense** has been paid for a later period: deduct it from the expense and show it as a current asset.
@@ -61,6 +72,12 @@ Bank               2,610      1 Jan Balance b/d         240
 
 The charge is 2,610 - 240 + 310 = **£2,680**. The £240 paid this year belonged to last year, so it is not this year's expense. The credit balance of £310 carried down is the accrual in the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+
 ## Income due and income received in advance
 
 These mirror expense adjustments. **Income due** (earned, not yet received) is added to the income and shown as a current asset. **Income received in advance** is deducted from the income and shown as a current liability.
@@ -75,6 +92,12 @@ Depreciation spreads the cost of a non-current asset over the periods that use i
 - **Reducing balance:** a fixed % of the carrying amount (cost - accumulated depreciation). The charge falls every year.
 
 Entries: debit depreciation (income statement), credit provision for depreciation. In the statement of financial position show cost, less accumulated depreciation, equals carrying amount. Always read the question's policy, for example a full year's charge in the year of purchase and none in the year of disposal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
 
 ## Disposal of non-current assets
 
@@ -98,6 +121,12 @@ Machinery (cost)     18,000    Provision for depreciation 10,800
 
 The carrying amount was 18,000 - 10,800 = £7,200 and the proceeds £6,000, so the **loss is £1,200**, shown as an expense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
+  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+</figure>
+
+
 ## Irrecoverable debts, their recovery and the provision for doubtful debts
 
 An **irrecoverable debt** is one the business is sure it will not collect. Debit irrecoverable debts (expense), credit the customer's account in the sales ledger.
@@ -112,6 +141,12 @@ Dr Bank                                Cr Customer account
 The recovery is **income** in the year it is received. You do not reopen the earlier year.
 
 A **provision for doubtful debts** is an estimate (prudence) of debts that may not be paid, often a % of trade receivables after writing off irrecoverable debts. Only the **change** in the provision goes to the income statement: an increase is an expense, a decrease is income. The full provision is deducted from trade receivables in the statement of financial position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Goods taken for own use
 
@@ -235,6 +270,12 @@ Capital (equity)
 Net assets and closing capital agree at **£50,595**. If yours do not, check that each adjustment appears twice.
 
 A service business uses the same layout without the trading section: list the fee or commission income, then deduct expenses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
 
 ## Common errors
 

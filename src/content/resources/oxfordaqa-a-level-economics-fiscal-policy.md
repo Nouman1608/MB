@@ -78,6 +78,37 @@ A rise in spending of the same size has the larger effect because none of it lea
 3. Time lags: it takes time to see a problem, agree a policy and spend the money, and by then the economy may have moved on.
 4. Confidence: if households expect higher taxes later, they may save a tax cut.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--11-spending-vs-tax-cut-multiplier.webp" width="900" height="1090" alt="MPW 0.50 gives multiplier 2. Spending of 50 raises income by 100. A tax cut of 50 of which 70% is spent gives a first round of 35 and income up 70." loading="lazy">
+  <figcaption>Spending has a larger effect than an equal tax cut because none leaks in round one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--02-un226-fp-spare-capacity.webp" width="900" height="1030" alt="Two aggregate demand and supply diagrams with price level on the vertical axis and real output on the horizontal axis. Both use the same upward-sloping short-run aggregate supply curve, flat at low output and steep at high output, and the same rightward shift of AD from AD1 to AD2. With spare capacity, the equilibrium moves along the flat part, so output rises about 45 percent and the price level about 9 percent. Near full capacity, on the steep part, output rises only about 5 percent while the price level rises about 15 percent. Time lags, confidence and the multiplier can still change the result." loading="lazy">
+  <figcaption>The same rightward shift of AD raises output a lot and prices a little when there is spare capacity, and the reverse near full capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Influencing aggregate supply
 
 Fiscal policy can also raise productive capacity, shifting long-run aggregate supply (LRAS) right and short-run supply with it.
@@ -87,6 +118,12 @@ Fiscal policy can also raise productive capacity, shifting long-run aggregate su
 - Subsidies can cut costs of production in a chosen sector.
 
 The effect is slow. Potential output rises and inflationary pressure is lower at any level of output. Evaluation points: the spending has an opportunity cost, projects can be badly chosen, and a tax cut might be spent on leisure or saved rather than turned into extra work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Allocation of resources and pattern of activity
 
@@ -104,6 +141,12 @@ The tax shifts supply up by 3, so supply becomes Qs = 30 + 20(P - 3). Setting 15
 If the drink creates an external cost of 3 per unit, the tax moves the price closer to the full social cost, so output falls towards the efficient level and resources move to other uses. A subsidy does the reverse for a good with an external benefit. The revenue can fund spending elsewhere.
 
 A higher tax on one product shifts demand to substitutes. Spending on, say, renewable energy shifts the pattern of activity towards that sector. Evaluation: the gain depends on the tax matching the real external cost, and when demand is inelastic the tax raises revenue but changes quantity only a little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--01-un226-fp-gadget-tax.webp" width="900" height="1030" alt="Price and quantity diagram for gadget fizz with demand Qd = 150 minus 10P and supply Qs = 30 plus 20P. Without tax, equilibrium is price 4 and quantity 110. A tax of 3 per unit shifts supply up by 3, giving a new equilibrium at price 6 and quantity 90. Buyers pay 2 more per unit, shown as a shaded rectangle from 4 to 6 across 90 units, worth 180. Sellers keep 3 instead of 4, so they bear 1 per unit, a rectangle from 3 to 4 across 90 units, worth 90. Tax revenue is 3 times 90, which is 270." loading="lazy">
+  <figcaption>A tax of 3 moves the gadget fizz price from 4 to 6 and quantity from 110 to 90; buyers bear 2 per unit (180) and sellers 1 (90).</figcaption>
+</figure>
+
 
 ## Direct and indirect taxes
 
@@ -131,6 +174,17 @@ The average rate rises with income, so this tax is progressive. The marginal rat
 
 The tax takes a falling share of income, so it is regressive against income. A system that leans on indirect taxes can therefore be less equitable than one that leans on progressive income tax.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--12-average-tax-rate-progressive-regressive.webp" width="900" height="1050" alt="Average income tax rate rises with income: 0% at 9,000, 15% at 30,000, 30% at 80,000, so progressive. A 10% sales tax takes 8.2% of household L income (22,000) but 5.0% of household H income (90,000), so regressive." loading="lazy">
+  <figcaption>Classify a tax by what happens to the average rate as income rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--03-un226-fp-tax-bands.webp" width="900" height="850" alt="Three horizontal bars show incomes of 9,000, 30,000 and 80,000 split into tax slices. The first 12,000 is untaxed. The slice from 12,000 to 45,000 is taxed at 25 percent and the slice above 45,000 at 45 percent. Income 9,000 pays nothing. Income 30,000 pays 25 percent of 18,000, which is 4,500, an average rate of 15 percent. Income 80,000 pays 25 percent of 33,000, which is 8,250, plus 45 percent of 35,000, which is 15,750, a total of 24,000 and an average rate of 30 percent." loading="lazy">
+  <figcaption>Each slice of income is taxed at its own rate: 0% to 12,000, 25% to 45,000 and 45% above, so 80,000 pays 24,000, an average of 30%.</figcaption>
+</figure>
+
+
 ## Budget balance and national debt
 
 The budget balance describes a single year, while the national debt is the accumulated total of past borrowing. Each deficit adds to the debt, and a surplus can reduce it.
@@ -144,6 +198,12 @@ The budget balance describes a single year, while the national debt is the accum
 
 A deficit raises the debt, but growth can hold the ratio nearly steady. A surplus of 25 in a later year would cut debt from 1,328 to 1,303. The cost of a high debt is interest payments, which use money that could pay for other spending, and possible worry among lenders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--13-deficit-and-national-debt.webp" width="900" height="1210" alt="Debt grows from 1,280 by 48 a year to 1,424 in three years. As a share of GDP the ratio rises to 44.5% if GDP is flat but stays near 40.1% if nominal GDP grows 3.5% a year." loading="lazy">
+  <figcaption>A deficit is a yearly flow that adds to the debt stock; growth can hold the ratio steady.</figcaption>
+</figure>
+
+
 ## Cyclical and structural influences
 
 The cyclical part of the balance moves automatically with the economic cycle: in a downturn tax revenue falls and unemployment benefits rise. The structural part is what would remain at potential output.
@@ -155,6 +215,12 @@ The cyclical part of the balance moves automatically with the economic cycle: in
 - Actual deficit = 710 - 630 = 80. Structural deficit = 690 - 672 = 18. Cyclical deficit = 62.
 
 When recovery closes the gap, 62 of the deficit disappears. The other 18 remains until taxes or spending policy change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--14-structural-and-cyclical-deficit.webp" width="900" height="980" alt="Actual GDP is 6.25% below potential. Revenue falls by 42 and spending rises by 20, so the cyclical deficit is 62. With the structural deficit of 18 the actual deficit is 80." loading="lazy">
+  <figcaption>Recovery removes the cyclical part but not the structural part of a deficit.</figcaption>
+</figure>
+
 
 ## Common errors
 

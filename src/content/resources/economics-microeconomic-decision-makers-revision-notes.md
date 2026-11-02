@@ -33,6 +33,22 @@ Condensed for the final weeks. For the full explanation, use the
 4. **Trade unions** — how to represent workers' interests? See "Trade unions" below.
 5. **Firms** — how to grow, what to produce, by what method? See "Firms and production (3.6)" below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--01-five-decision-makers.webp" width="900" height="990" alt="Five rows show banks, households, workers, trade unions and firms, each with the question that decision maker faces and its sub-topic number (3.1 to 3.8)." loading="lazy">
+  <figcaption>The five decision makers of Topic 3 and the question each one faces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--02-household-influences.webp" width="900" height="800" alt="Income, the rate of interest and confidence feed into a household, which decides on spending, saving and borrowing; they vary between households and over time. If confidence about future income rises, spending and borrowing rise and saving falls even if current income is unchanged." loading="lazy">
+  <figcaption>Three influences shape a household decisions; higher confidence raises spending and borrowing and lowers saving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Money and banking (3.1)
 
 The syllabus covers the **forms, functions and characteristics of money** without attaching a
@@ -44,6 +60,22 @@ for deferred payment** (lets debts be agreed now and settled later). For money t
 functions it needs **characteristics**: general acceptability, durability, portability,
 divisibility, scarcity (limited supply) and difficulty to counterfeit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/economics-microeconomic-decision-makers-revision-notes--01-money-characteristics.webp" width="900" height="1118" alt="Six boxes, one per characteristic of money. Acceptable: two people trade using a coin. Durable: a coin lasts while a torn note does not. Portable: a coin fits in a purse. Divisible: 100 can be paid as 50 plus 30 plus 20. Scarce: supply is limited, shown as four coins fenced in. Hard to fake: a real coin passes and a copy is spotted." loading="lazy">
+  <figcaption>Six characteristics let money work as a means of payment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-money-banking-and-household-spending-saving-and--07-barter-ratios-vs-prices.webp" width="900" height="880" alt="Two circles of 12 goods: barter joins every pair with a line (66 ratios); with money each good has one price to the money at the centre (12 prices)." loading="lazy">
+  <figcaption>Money cuts 66 exchange ratios to 12 prices.</figcaption>
+</figure>
+
+
 ## Workers — the largest sub-topic, four parts
 
 - **Choice of occupation**: wage factors (pay, benefits) vs non-wage factors (security, conditions,
@@ -52,6 +84,12 @@ divisibility, scarcity (limited supply) and difficulty to counterfeit.
 - **Earnings differences**: demand/supply, bargaining strength, discrimination, government policy —
   applied across skilled/unskilled, sector, gender, private/public.
 - **Division of labour**: advantages/disadvantages for workers, firms and the economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--03-earnings-gap-forces.webp" width="900" height="970" alt="Four forces (demand and supply, bargaining strength, discrimination, government policy) combine to give worker A higher earnings than worker B. Gaps are found between skilled and unskilled, primary, secondary and tertiary sectors, male and female, and private and public sector workers." loading="lazy">
+  <figcaption>Four forces combine to produce earnings gaps between the groups the syllabus names.</figcaption>
+</figure>
+
 
 ## Trade unions (3.4)
 
@@ -69,6 +107,17 @@ a collective voice that balances an individual worker's weaker bargaining positi
 employer. **Disadvantages** can include higher costs for firms (potentially raising prices or
 reducing employment), and the risk of industrial action disrupting production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--04-eco52-unions.webp" width="900" height="930" alt="A lone worker has little power while a group can bargain for all. Three boxes show the union roles: bargain over pay, hours and conditions; protect jobs; lobby government. Five chips list what makes a union stronger." loading="lazy">
+  <figcaption>A union gains power by acting together, and some conditions make it stronger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--04-union-pay-claim-viewpoints.webp" width="900" height="1020" alt="Illustrative example: a union wins a 5% pay claim for 100 workers paid 400 a week. Workers gain 20 each (benefit); the firm weekly wage bill rises from 40,000 to 42,000 (cost); government income tax at an assumed 20% rises from 8,000 to 8,400 (benefit)." loading="lazy">
+  <figcaption>The same pay claim can be a benefit or a cost depending on the viewpoint.</figcaption>
+</figure>
+
+
 ## Firms and production (3.6)
 
 Three linked ideas sit between firms' growth (3.5) and firms' costs and revenue (3.7):
@@ -81,6 +130,17 @@ Three linked ideas sit between firms' growth (3.5) and firms' costs and revenue 
 - **Production vs productivity**: **production** is the total quantity of output, while
   **productivity** is output **per unit of input** (e.g. output per worker) — a firm can increase
   production without increasing productivity, and vice versa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--08-factor-demand-drivers.webp" width="900" height="900" alt="Four boxes (demand for the firm's product, price of different factors, availability of factors, productivity of factors) all feed one box: the firm's demand for factors of production." loading="lazy">
+  <figcaption>Demand for the product, factor prices, availability and productivity together drive a firm's demand for factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--05-eco52-labour-capital.webp" width="900" height="890" alt="Line graph of weekly cost against weekly wage for 500 units. Labour-intensive cost is 12w+400, capital-intensive is 3w+2,200. They cross at wage 200 (cost 2,800); labour is cheaper below, capital above." loading="lazy">
+  <figcaption>Lower wages favour labour-intensive methods; higher wages favour capital-intensive ones.</figcaption>
+</figure>
+
 
 ## Firms' costs and revenue — the calculation-heavy table
 
@@ -153,6 +213,12 @@ external diseconomies from the whole industry growing too large in one area (e.g
 rising local wages as firms compete for the same workers). Keep the internal/external distinction
 straight, since exam questions often ask you to classify a described cause into the correct category
 rather than just naming the general concept of "economies of scale."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/economics-microeconomic-decision-makers-revision-notes--02-diseconomies-internal-external.webp" width="900" height="1100" alt="Two panels. Internal diseconomies: one firm that has grown too large, drawn as seven staff points joined by 21 tangled links, with messages getting lost and hard coordination; the cause is inside the firm. External diseconomies: a whole industry crowded into one area with three factories and a traffic jam, causing local congestion and local wages rising; the cause is in the area. Both raise average cost per unit." loading="lazy">
+  <figcaption>Internal diseconomies come from the firm being too large; external ones from the industry crowding one area.</figcaption>
+</figure>
+
 
 ## Linking the decision-makers together
 

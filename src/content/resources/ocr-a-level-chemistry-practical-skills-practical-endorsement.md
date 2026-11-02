@@ -50,6 +50,12 @@ What the specification says:
 
 The standard is "consistently and routinely", not one good session.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--01-endorsement-map.webp" width="900" height="1040" alt="Twelve ticked tiles PAG1 to PAG12 show the minimum of 12 assessed activities. Five numbered CPAC criteria are listed. The endorsement is teacher assessed and reported separately as Pass or Not Classified." loading="lazy">
+  <figcaption>The endorsement needs 12 PAGs, five CPAC criteria shown consistently, and gives Pass or Not Classified.</figcaption>
+</figure>
+
+
 ## Coverage table
 
 | Spec ref | What you must be able to do | Main PAG link |
@@ -102,6 +108,17 @@ A 100 cm³ syringe is needed.
 
 **pH, 1.2.2(c).** A pH chart with universal indicator gives a rough value. A pH meter or a data-logger probe is more precise, but calibrate it with buffers of known pH and rinse it with distilled water between samples. In a PAG11-style task, benzoic acid at 0.100 mol dm⁻³ (use Ka = 6.3 × 10⁻⁵ mol dm⁻³) has [H⁺] = √(6.3 × 10⁻⁶) and pH 2.60, easy to tell from a strong acid of the same concentration at pH 1.00.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--07-gas-syringe-size.webp" width="900" height="770" alt="A 100 cm3 gas syringe is filled to 59.9 cm3, the CO2 volume from 0.250 g CaCO3 (n = 2.498e-3 mol, x 24 000 cm3 per mol)." loading="lazy">
+  <figcaption>The expected gas volume, 59.9 cm3, tells you a 100 cm3 syringe is needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--07-benzoic-acid-ph.webp" width="900" height="990" alt="Two beakers of 0.100 mol per dm cubed acid, 40 units each. The strong acid is fully split into ions; in benzoic acid only 1 of 40 splits. On a pH scale the strong acid sits at 1.00 and benzoic acid at 2.60, from H+ = square root of Ka times c = 2.51 x 10^-3." loading="lazy">
+  <figcaption>A weak acid releases fewer H+ ions, so benzoic acid at 0.100 mol per dm cubed has pH 2.60 against 1.00 for a strong acid.</figcaption>
+</figure>
+
+
 ## 1.2.2 Titration, standard solutions and indicators
 
 **Standard solution, 1.2.2(e).** Dissolve the weighed solid in distilled water in a beaker. Transfer it through a funnel into the volumetric flask, rinsing beaker, rod and funnel into the flask. Fill until the bottom of the meniscus sits on the line at eye level, then stopper and invert.
@@ -134,6 +151,17 @@ Leave the rough titre out of the mean.
 
 The phthalate is a weak acid: use phenolphthalein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--02-standard-solution.webp" width="900" height="810" alt="Two balance readings, 14.562 g and 10.480 g, give 4.082 g of solid by difference. The solid is dissolved in a beaker, rinsed through a funnel into a volumetric flask, filled until the bottom of the meniscus sits on the line, then stoppered and inverted." loading="lazy">
+  <figcaption>Weigh by difference, dissolve, rinse into the flask and fill to the line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--03-concordant-titres-calc.webp" width="900" height="810" alt="Bars show titres 21.70 (rough, left out), 21.35, 21.40 and 21.30 cm3. The three concordant titres average 21.35 cm3, giving NaOH 0.0937 mol per dm3 with a burette uncertainty of 0.47 per cent." loading="lazy">
+  <figcaption>Leave the rough titre out and average the concordant ones before calculating.</figcaption>
+</figure>
+
+
 ## 1.2.2 Preparation and purification
 
 **Reflux and distillation, 1.2.2(d)(ii).** Clamp flask and condenser to a retort stand. For **reflux**, the condenser is vertical and open at the top, so volatile reactants condense and return during long heating. For **distillation**, the thermometer bulb sits level with the side arm and you collect the fraction boiling at the expected temperature. Water enters each condenser at the bottom.
@@ -164,6 +192,27 @@ The solvent front moves 7.5 cm; spot X moves 3.9 cm and spot Y 5.7 cm.
 Rf(X) = 3.9 / 7.5 = 0.52      Rf(Y) = 5.7 / 7.5 = 0.76
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--04-rf-from-plate.webp" width="900" height="825" alt="A plate shows a pencil baseline above the solvent level and a solvent front 7.5 cm away. Spots X and Y moved 3.9 cm and 5.7 cm, so Rf is 0.52 and 0.76." loading="lazy">
+  <figcaption>Rf is the spot distance divided by the solvent distance, both from the baseline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--04-two-ways-to-filter.webp" width="900" height="800" alt="Left, gravity filtration with fluted filter paper: hot solution goes in and solid impurity stays on the paper. Right, a Buchner funnel with flat filter paper on a side-arm flask joined to a vacuum: crystals collect on the paper and solvent is pulled through so they are drier." loading="lazy">
+  <figcaption>Fluted paper removes insoluble impurities from a hot solution; a Buchner funnel under reduced pressure collects crystals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--05-separating-funnel-steps.webp" width="900" height="850" alt="Three steps: shake the inverted funnel opening the tap often to release pressure; stand it upright and run off the lower layer, keeping the correct one (test with a drop of water); dry the organic layer with anhydrous magnesium sulfate, then redistil." loading="lazy">
+  <figcaption>Shake and vent, run off the lower layer, then dry the organic layer and redistil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--06-melting-point-purity.webp" width="900" height="700" alt="A capillary tube of solid in a heated block. A temperature axis marks a known melting point at 122 C. A pure sample melts over a 1 C range at that value; an impure one melts lower and over a wider range, 113 to 119 C." loading="lazy">
+  <figcaption>Impurities lower the melting point and widen the range.</figcaption>
+</figure>
+
+
 ## 1.2.2 Tests, cells and rates
 
 **Qualitative tests, 1.2.2(d)(iii).** For ions (PAG4), test for carbonate, then sulfate, then halide, so earlier ions cannot give false positives: dilute nitric acid gives effervescence with carbonate; barium ions give a white precipitate with sulfate; silver nitrate gives white, cream or yellow precipitates with chloride, bromide or iodide, separated by their solubility in aqueous ammonia. Warm ammonium salts with sodium hydroxide; the ammonia turns damp red litmus blue. For organic groups (PAG7): bromine water decolourises with alkenes; acidified dichromate, warmed in a water bath, turns green with primary and secondary alcohols and aldehydes; 2,4-DNP precipitates carbonyls; Tollens' reagent gives a silver mirror with aldehydes; carbonates fizz with carboxylic acids; warm aqueous silver nitrate in ethanol precipitates halide from haloalkanes.
@@ -193,6 +242,22 @@ Soak the salt bridge in potassium nitrate, not potassium chloride, which would p
 Doubling concentration roughly doubles 1/t (ratios 1.97 and 2.07): first order.
 
 A **continuous monitoring** method (PAG9) follows gas volume, mass loss or colour against time. If the final gas volume is 64.0 cm³, with 32.0 cm³ at 38 s and 48.0 cm³ at 76 s, the half-life is a constant 38 s, so the reaction is first order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--05-silver-copper-cell.webp" width="900" height="880" alt="A silver half-cell (positive) and copper half-cell (negative) are joined by a potassium nitrate salt bridge and a high-resistance voltmeter reading +0.46 V, from 0.80 minus 0.34." loading="lazy">
+  <figcaption>Cell voltage is E(positive) minus E(negative); use a KNO3 salt bridge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--06-clock-reaction-1-over-t.webp" width="900" height="820" alt="1/t is plotted against concentration for three runs: 0.00847, 0.0167 and 0.0345 per second at 0.020, 0.040 and 0.080 mol per dm3. Each doubling about doubles 1/t, so first order." loading="lazy">
+  <figcaption>Doubling concentration roughly doubles 1/t, showing first order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--08-half-life-gas-volume.webp" width="900" height="960" alt="Gas volume against time for a reaction ending at 64.0 cm cubed. It is 32.0 at 38 s and 48.0 at 76 s, and 56 at 114 s by calculation. The gas still to come halves every 38 s (32, 16, 8), a constant half-life, so the reaction is first order." loading="lazy">
+  <figcaption>A constant 38 s half-life shows the reaction is first order.</figcaption>
+</figure>
+
 
 ## Related pages
 

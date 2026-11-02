@@ -66,6 +66,12 @@ When you are ready to apply these notes, use the [practice questions](/resources
 8. **Build the statement of financial position** with the five sub-headings, splitting any loan instalment due within 12 months into current liabilities.
 9. **Check it balances.** Total assets = equity + non-current liabilities + current liabilities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+
 ## Reminder: one share issue, three numbers
 
 A company issues 10,000 ordinary shares of 0.40 nominal value at 1.15 each.
@@ -77,6 +83,17 @@ Share premium   10,000 x 0.75 =  7,500   (Cr)
 ```
 
 Premium per share = issue price - nominal value. Share capital and share premium together always equal the cash received.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
 
 ## Which sub-heading?
 
@@ -123,6 +140,22 @@ Premium per share = issue price - nominal value. Share capital and share premium
 8. 54,000 / 0.45 = **120,000 shares**; share capital up 120,000 x 0.20 = **24,000**; issue price 0.20 + 0.45 = **0.65**.
 9. Current liabilities **10,000**; non-current liabilities **40,000**.
 10. **Preference shares** and **general reserves**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
+  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

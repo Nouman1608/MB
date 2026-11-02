@@ -46,6 +46,12 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 
 **Must-know distinction:** dismissal concerns the individual worker; redundancy concerns the post.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--04-flexible-workforce-cost.webp" width="900" height="890" alt="A step chart shows 3 bakers needed for 40 weeks and 5 for 12 busy weeks. Cost bars: option A £122,304, option B £85,478.40 (£73,382.40 permanent plus £12,096 temporary), saving £36,825.60." loading="lazy">
+  <figcaption>Using temporary staff in the busy weeks saves £36,825.60 a year, before allowing for lower skill and morale.</figcaption>
+</figure>
+
+
 ### Recruitment, selection and training
 
 - **Recruitment** attracts applicants; **selection** picks one.
@@ -54,6 +60,22 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 - **Costs to list:** advertising, agency fees, interview time, tests, induction, trainer time, lost output while learning.
 - **Worked reminder:** advert £900, agency fee 10% of a £25,000 salary (£2,500) and two managers interviewing for 3 hours each at £25 an hour (£150) give a hiring cost of £3,550, before any induction or training.
 - **Induction:** introduction to the firm. **On-the-job:** learning at the workstation. **Off-the-job:** away from work, such as a course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--05-recruitment-cost.webp" width="900" height="980" alt="Bars itemise external recruitment costs (advert, agency fee, interviews, induction) totalling £5,212 and internal costs (advert, interviews, training and cover) totalling £2,640. Internal is £2,572 cheaper." loading="lazy">
+  <figcaption>Internal recruitment costs £2,572 less than external recruitment in this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ### Organisational design
 
@@ -77,6 +99,17 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 | Tall | Close control but slow, costly | Clear promotion steps; may feel restrictive |
 | Flat | Quick, cheaper | More responsibility; fewer promotion steps, risk of overload |
 | Matrix | Shares skills across projects | Variety; two bosses can conflict |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-matrix-structure.webp" width="900" height="760" alt="A grid of three departments and two projects with six workers. One highlighted worker reports to both a department head and a project manager." loading="lazy">
+  <figcaption>In a matrix structure a worker can have two line managers, one for the department and one for the project.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--07-span-of-control-cost.webp" width="900" height="1020" alt="Two grids of 144 operatives: with a span of 12 there are 12 supervisors costing £408,000, with a span of 6 there are 24 supervisors costing £816,000." loading="lazy">
+  <figcaption>Halving the span of control doubles the supervision bill, here by £408,000.</figcaption>
+</figure>
+
 
 ### Motivation
 
@@ -122,11 +155,28 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 - Piecework: 480 units at 75p is £360.
 - Profit share: 5% of £260,000 is £13,000; shared among 26 staff, £500 each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-taylor-v-mayo.webp" width="900" height="930" alt="Two panels. Taylor: simple tasks, close supervision and pay by output, so pay drives work. Mayo: belonging, team working and manager interest drive work." loading="lazy">
+  <figcaption>Taylor relies on pay; Mayo relies on belonging and attention.</figcaption>
+</figure>
+
+
 ### Leadership
 
 - **Management:** plans, organises, coordinates and controls. **Leadership:** sets direction and inspires.
 - **Autocratic:** leader decides alone. **Paternalistic:** leader decides but explains and cares. **Democratic:** involves staff. **Laissez-faire:** broad aims, staff decide how.
 - **Entrepreneur to leader:** the founder must delegate, trust managers and put systems in place, which is hard for someone used to controlling everything.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--07-four-leadership-styles.webp" width="900" height="1040" alt="Four rows from autocratic to laissez-faire, with leader control falling. Paternalistic: leader decides but explains and cares about welfare, suits staff who value security." loading="lazy">
+  <figcaption>Four styles, including paternalistic, ordered by how much say staff have.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--08-founder-to-leader.webp" width="900" height="950" alt="Left: a founder personally handles sales, cash, staff and quality. Right: a leader delegates to two managers who each look after two areas. A box defines an intrapreneur, and barriers are listed." loading="lazy">
+  <figcaption>As a firm grows the founder must delegate and become a leader.</figcaption>
+</figure>
+
 
 ## 1.3.5 Entrepreneurs and leaders
 
@@ -140,11 +190,23 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 | Barriers | Finance, experience, red tape, competition, fear of failure |
 | Risk and uncertainty | Risk can be estimated; uncertainty cannot |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--08-risk-uncertainty.webp" width="900" height="900" alt="Ten teal and copper circles (7 in 10) show a risk with an estimable chance; ten grey question-mark circles show uncertainty with unknown odds. Research, a cash buffer and flexible plans reduce both." loading="lazy">
+  <figcaption>Risk can be estimated; uncertainty cannot be measured.</figcaption>
+</figure>
+
+
 ### Motives and characteristics
 
 - **Characteristics and skills:** risk-taking, creativity, determination, self-confidence, organisation, communication, opportunity spotting.
 - **Financial motives:** profit maximisation (highest possible) and profit satisficing (enough to be content).
 - **Non-financial motives:** ethical stance, social entrepreneurship, independence, home working.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--09-maximise-v-satisfice.webp" width="900" height="900" alt="An illustrative profit curve peaks at the profit-maximising output. A satisficer stops at a profit that is enough for the owner. Four non-financial motives are listed below." loading="lazy">
+  <figcaption>Profit maximisers aim for the peak, satisficers for enough.</figcaption>
+</figure>
+
 
 ### Business objectives
 
@@ -165,6 +227,12 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 
 - **Opportunity cost:** the next best alternative given up. Two uses of £20,000 earn £3,000 and £2,600 a year. Choosing the first gives a net gain of £400 and an opportunity cost of £2,600.
 - **Trade-off:** more of one aim means less of another, for example growth against short-term profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--10-caldwyn-opportunity-cost.webp" width="900" height="900" alt="The oven adds 9,000 a year and advertising adds 7,500. Choosing the oven gives up 7,500, the opportunity cost, leaving a net gain of 1,500." loading="lazy">
+  <figcaption>Opportunity cost is the next best option forgone, here 7,500.</figcaption>
+</figure>
+
 
 ## Method in steps for a judgement question
 

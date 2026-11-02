@@ -53,6 +53,17 @@ Names of the first ten straight-chain alkanes: methane, ethane, propane, butane,
 - Pairs repel and get as far apart as possible: **tetrahedral, 109.5°**.
 - In a 3-D drawing: two bonds as lines in the plane, one solid wedge (towards you), one dashed wedge (away).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+</figure>
+
+
 ## 4.1.2(c): Boiling points
 
 ### Method in steps: chain-length answer
@@ -70,6 +81,17 @@ Names of the first ten straight-chain alkanes: methane, ethane, propane, butane,
 4. Less energy needed to overcome them, so a lower boiling point.
 
 Straight-chain alkanes from methane to butane are gases at room temperature; pentane to decane are liquids.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.2(d): Low reactivity
 
@@ -101,6 +123,12 @@ Worked reminder, butane in limited oxygen to carbon monoxide:
 
 **Why CO is dangerous:** it is toxic because it binds to haemoglobin and reduces oxygen transport in the blood; it is colourless and odourless, so it is not noticed without a detector.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## 4.1.2(f): Radical substitution
 
 Conditions: chlorine or bromine with **UV radiation**.
@@ -120,6 +148,12 @@ Worked reminder, propane and chlorine forming 2-chloropropane:
 - Termination: Cl• + Cl• → Cl₂; CH₃CH•CH₃ + Cl• → CH₃CHClCH₃; 2CH₃CH•CH₃ → (CH₃)₂CHCH(CH₃)₂
 
 Checks: one radical on each side of a propagation step; two radicals to none in termination. Half curly arrows are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.2(g): Why it is limited in synthesis
 
@@ -157,6 +191,12 @@ Worked reminder, 2,2-dimethylbutane, CH₃C(CH₃)₂CH₂CH₃:
 - **Homolytic vs heterolytic fission.** Homolytic: one electron to each atom, two radicals. Heterolytic: both electrons to one atom, ions.
 - **Propagation vs termination.** Propagation keeps the number of radicals the same; termination removes two.
 - **Complete vs incomplete combustion.** Same fuel; the difference is the oxygen supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Quick self-test
 

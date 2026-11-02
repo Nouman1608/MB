@@ -114,6 +114,32 @@ Use =, <, <<, > and >> accurately. A single < is "less than". A double << is "mu
 | Estimate vs count | Sampling gives an estimate only |
 | Correlation vs cause | A pattern does not by itself show cause |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--09-quadrat-scaling.webp" width="900" height="1066" alt="A 40 m by 25 m meadow shows twelve random quadrats with the buttercup count in each. Total 38, mean 3.17 per quadrat, 12.67 per square metre, times 1000 square metres gives about 12 700." loading="lazy">
+  <figcaption>Mean per quadrat, divided by quadrat area, times total area gives the estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--10-capture-recapture.webp" width="900" height="800" alt="Day 1: 48 beetles are marked. Day 2: 40 are caught and 6 carry a mark. The estimate is 48 times 40 divided by 6, which is 320 beetles." loading="lazy">
+  <figcaption>Marked number times second sample divided by recaptured marked gives an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--11-transect-dandelion.webp" width="900" height="880" alt="A tape runs from a hedge with a quadrat every 2 m up to 10 m. The graph shows dandelion cover rising from 2 to 38 percent while light rises from 20 to 95 units." loading="lazy">
+  <figcaption>Cover and light rise together along the transect, a link not proof.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--07-quadrat-placement.webp" width="900" height="805" alt="Two 10 m by 10 m areas. On the left six quadrats are placed at random coordinates, with one example pair marked on the axes. On the right a tape runs across the area with a quadrat every 2 m." loading="lazy">
+  <figcaption>Random sampling gives every spot an equal chance; a transect with regular quadrats suits a gradual change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--08-percentile-shells.webp" width="900" height="845" alt="A bar chart of 20 ordered shell lengths from 21 mm to 40 mm. The first 15 bars are shaded and the 15th, 35 mm, is highlighted: 0.75 times 20 is 15, so 75 percent of shells are 35 mm or shorter." loading="lazy">
+  <figcaption>The 75th percentile of 20 shells is the 15th value, 35 mm.</figcaption>
+</figure>
+
+
 ## B6.1b: Human interactions and biodiversity
 
 ### Negative
@@ -139,6 +165,32 @@ Out of 25 seeds, 23 germinated at pH 7 and 4 at pH 3. Percentages are 92% and 16
 ### Indicator species
 
 Crusty lichens tolerate more sulfur dioxide. Bushy lichens need cleaner air. Mapping lichen types shows an air-quality gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--12-acid-germination.webp" width="900" height="790" alt="Line graph of percentage of 25 cress seeds germinating at pH 7 to 3: 92, 88, 76, 48 and 16 percent. Germination falls as acidity rises, steeply below pH 5." loading="lazy">
+  <figcaption>Germination falls from 92% to 16% as pH falls from 7 to 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--05-lichen-so2.webp" width="900" height="780" alt="A factory releases sulfur dioxide. A tree near it carries only crusty lichens; a tree far away carries crusty and bushy lichens. A grey strip fades from more to less sulfur dioxide." loading="lazy">
+  <figcaption>Crusty lichens tolerate more sulfur dioxide; bushy lichens need cleaner air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--06-protect-biodiversity.webp" width="900" height="740" alt="Two columns of icons. Protecting species: legal protection, captive breeding then release, seed banks. Protecting habitats: nature reserves, restoring hedgerows and ponds, reducing pollution." loading="lazy">
+  <figcaption>Conservation can focus on individual species or on selected habitats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--02-monoculture-trade-off.webp" width="900" height="1065" alt="A mixed natural area is compared with a monoculture. The advantage is efficient machinery use and lower cost per unit. Disadvantages: pests and disease spread easily so more pesticide is used; the same ions are removed each year so more fertiliser is needed; hedgerows and habitats are removed so biodiversity falls." loading="lazy">
+  <figcaption>A monoculture is cheap to farm but needs more pesticide and fertiliser and reduces biodiversity.</figcaption>
+</figure>
+
 
 ## B6.1c: Maintaining biodiversity
 
@@ -169,6 +221,17 @@ Ecotourism links conservation to income, so the people who live near wildlife ga
 3. Comment on sample size and repeats.
 4. Comment on other variables that were not controlled.
 5. Say what extra evidence would improve the conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--13-river-evidence.webp" width="900" height="880" alt="A river strip shows an outflow with sample sites above and below. Bar charts show dissolved oxygen falling from 8.4 to 3.1 (63 percent) and mayfly nymphs from 46 to 12 (74 percent). Both fall together, a link not proof." loading="lazy">
+  <figcaption>Oxygen fell 63% and mayflies 74% below the outflow; one sample each is weak evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -57,6 +57,27 @@ General equations to adapt:
 - CH₃COCl + 2RNH₂ → CH₃CONHR + RNH₃⁺Cl⁻
 - [Cu(H₂O)₆]²⁺ + 4RNH₂ → [Cu(RNH₂)₄(H₂O)₂]²⁺ + 4H₂O (in excess amine)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--03-prep-routes.webp" width="900" height="1130" alt="Three routes: halogenoalkane with excess ammonia in ethanol (sealed tube, heat) gives a mixture of amines; a nitrile reduced with LiAlH4 in dry ether or H2/Ni gives only the primary amine; a nitro compound reduced with Sn and conc. HCl under reflux then NaOH gives a phenylamine plus water." loading="lazy">
+  <figcaption>Amines are made from halogenoalkanes, by reducing nitriles, or by reducing nitro compounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--05-sn-mechanism.webp" width="900" height="1170" alt="Curly-arrow mechanism for ethylamine + bromomethane: lone pair on N attacks the delta-plus carbon and the C-Br bond breaks to give Br-; a second ethylamine removes H+ from the N+ intermediate, giving N-methylethylamine and ethylammonium bromide." loading="lazy">
+  <figcaption>Nucleophilic substitution: N lone pair attacks C, Br- leaves, then H+ is removed from N+.</figcaption>
+</figure>
+
+
 ## Solubility and base strength (19.3)
 
 - **Miscible with water:** N–H and the N lone pair hydrogen bond with water. A big hydrocarbon part (the ring in phenylamine) lowers solubility.
@@ -67,6 +88,12 @@ General equations to adapt:
 | Phenylamine | Delocalised into the ring π system | Weakest |
 | Ammonia | No effect | Middle |
 | Butylamine | Alkyl group releases electron density | Strongest |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--02-base-strength.webp" width="900" height="1030" alt="Three rows compare the lone pair on N as a teal cloud: dense in ethylamine (alkyl pushes electrons onto N), average in ammonia, spread into the ring in phenylamine. A gauge ranks base strength ethylamine &gt; ammonia &gt; phenylamine." loading="lazy">
+  <figcaption>The more available the nitrogen lone pair, the stronger the base: ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
+
 
 ## Making amines (19.4, 19.5)
 
@@ -92,6 +119,12 @@ Too warm, and the diazonium ion breaks down to N₂ gas and phenol.
 ## Amides (19.7)
 
 Acyl chloride + NH₃ → primary amide + NH₄Cl. Acyl chloride + amine → N-substituted amide. Both are fast at room temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
 
 ## Polymers (19.8 to 19.10)
 
@@ -124,6 +157,27 @@ Acyl chloride + NH₃ → primary amide + NH₄Cl. Acyl chloride + amine → N-s
 - Zwitterions explain the high melting temperature and solubility in water.
 - **Plane-polarised light:** a single enantiomer rotates the plane in a polarimeter. Glycine (no chiral carbon) and racemic mixtures do not.
 - **Peptide bond:** –COOH of one + –NH₂ of the next → –CONH– + H₂O. Two different amino acids give two dipeptides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
 
 ## Core Practical 15: tests for unknowns (19.12)
 

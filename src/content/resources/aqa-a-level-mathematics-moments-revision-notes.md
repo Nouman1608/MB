@@ -27,6 +27,17 @@ Practise afterwards with the [Moments practice questions](/resources/aqa-a-level
 
 The specification says: **Understand and use moments in simple static contexts.** In practice that means turning effects of forces on rods, beams, planks, hinged rods and ladders that are at rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--02-resultant-moment.webp" width="900" height="1050" alt="A 4 m light rod is pivoted 1.5 m from A with downward forces 30 N at A, 10 N at C and 18 N at B. Moments about P are 45 N m anticlockwise against 15 + 45 = 60 N m clockwise, a resultant of 15 N m clockwise." loading="lazy">
+  <figcaption>Add the moments in one sense and subtract those in the other to find which way the rod turns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--03-beam-two-supports.webp" width="900" height="1100" alt="A 6 m uniform beam of 40 kg rests on supports 1 m and 4.5 m from A with a 30 kg child at 5.5 m. Moments about C remove R_C and give R_D = 602 N; resolving vertically gives R_C = 84 N." loading="lazy">
+  <figcaption>Take moments about a support so one unknown reaction drops out, then resolve vertically for the other.</figcaption>
+</figure>
+
+
 ## Definitions
 
 | Term | Meaning |
@@ -38,6 +49,12 @@ The specification says: **Understand and use moments in simple static contexts.*
 | Line of action | the line along which a force acts, extended both ways |
 | Rigid body | an object that keeps its shape; distances along it are fixed |
 | Centre of mass | the point where the weight of the body acts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--07-centre-of-mass-particles.webp" width="900" height="1260" alt="Particles of 4 kg at (-1, 2), 1 kg at (3, 5) and 3 kg at (2, -3) have sum m = 8, sum mx = 5 and sum my = 4. The centre of mass G is at (0.625, 0.5), marked on the axes." loading="lazy">
+  <figcaption>The centre of mass is the mass-weighted average of the positions.</figcaption>
+</figure>
+
 
 ## Key results
 
@@ -53,6 +70,12 @@ The specification says: **Understand and use moments in simple static contexts.*
 | Rough contact | friction F ≤ μR; F = μR only in limiting equilibrium |
 
 Appendix B of the specification lists formulae you must recall. For mechanics it includes weight = mass × g and F ≤ μR, both used in almost every moments question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--01-moment-of-a-force.webp" width="900" height="860" alt="A 24 N force acts at A on a 2.5 m rod OA at 40 degrees to the rod. The perpendicular distance from O to the line of action is 2.5 sin 40 = 1.61 m, and F sin theta turns the rod while F cos theta passes through O. Moment = 24 x 2.5 x sin 40 = 38.6 N m anticlockwise." loading="lazy">
+  <figcaption>Only the part of the force at right angles to the rod turns it: moment = F d sin theta.</figcaption>
+</figure>
+
 
 ## Modelling words
 
@@ -83,6 +106,12 @@ Related mechanics notes: [Forces and Newton's laws](/resources/aqa-a-level-mathe
     3. Take moments about D.
     4. Solve for the unknown mass, distance or force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--04-point-of-tilting.webp" width="900" height="1060" alt="The beam is about to tilt about D, so R_C = 0. Moments about D give 40g x 1.5 = Mg x 1.5, so M = 40 kg; a number line shows the beam stays level below 40 kg and tilts above it. The 30 kg child would need to stand 6.5 m from A, beyond the 6 m beam." loading="lazy">
+  <figcaption>When a beam is about to tilt about one support, the reaction at the other support is zero.</figcaption>
+</figure>
+
+
 ## Method in steps: ladders
 
     1. Smooth wall: one horizontal reaction S.
@@ -91,6 +120,12 @@ Related mechanics notes: [Forces and Newton's laws](/resources/aqa-a-level-mathe
     4. Resolve horizontally: F = S.
     5. Moments about the foot: S × (height of top) = weights × (horizontal distances).
     6. If about to slip, F = μR; otherwise F ≤ μR.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--06-ladder-smooth-wall.webp" width="900" height="1120" alt="A 5 m, 18 kg uniform ladder rests at 70 degrees against a smooth wall. Moments about A use the horizontal arm 2.5 cos 70 for the weight and the vertical arm 5 sin 70 for the wall reaction, giving S = 32.1 N. With R = 176.4 N, mu = 0.182." loading="lazy">
+  <figcaption>Weight acts at a horizontal distance, the wall reaction at a vertical height: cos and sin must not be swapped.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -161,6 +196,12 @@ A second moments equation, about a different point, can replace the resolving st
 10. **Horizontally**, perpendicular to the wall, away from it.
 11. The hinge force has unknown components; their moments about the hinge are zero, so they drop out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--09-lamina-hanging-freely.webp" width="900" height="1002" alt="A right-angled triangle ABC with AB = 12 cm and BC = 9 cm hangs freely from A. G is at (3, 4) with B at the origin and must lie vertically below A, so AG is 3 across and 8 down. The angle between AB and the vertical has tan = 3/8, giving 20.6 degrees." loading="lazy">
+  <figcaption>A freely suspended lamina settles with its centre of mass directly below the suspension point.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Multiplying by the distance along the rod when the force is at an angle; you need d sin θ.
@@ -173,6 +214,12 @@ A second moments equation, about a different point, can replace the resolving st
 - Dropping the direction in a "magnitude and direction" answer.
 - Using centimetres in a moment and giving an answer 100 times too large.
 - Rounding a tension early, then using it to find a reaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--05-hinged-rod.webp" width="900" height="1000" alt="A 1.8 m, 4 kg rod is hinged at A and held horizontal by a string at 40 degrees to the rod, with a 2 kg particle 1.5 m from A. Moments about A give T = 55.9 N; resolving gives H = 42.8 N and V = 22.9 N, a hinge force of 48.5 N at 28.1 degrees above the horizontal." loading="lazy">
+  <figcaption>Taking moments about the hinge removes both hinge components, leaving the tension to find first.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

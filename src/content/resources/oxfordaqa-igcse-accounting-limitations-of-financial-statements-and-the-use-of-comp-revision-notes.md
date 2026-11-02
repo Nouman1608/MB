@@ -57,6 +57,22 @@ A statement or ratio is a summary of the past, in money, at a date or over a per
 | Averages hide detail | One figure covers many items | One slow customer inside receivable days |
 | Profit is not cash | Profit can exist without cash | Profit made, but customers pay late |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--03-mp15-window-dressing.webp" width="900" height="760" alt="Paying 20,000 dollars of payables early with cash moves the current ratio from 1.50 to 2.00 with no change in trading." loading="lazy">
+  <figcaption>A ratio taken at one date can be changed by timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--04-mp15-policy-profit.webp" width="900" height="800" alt="Two shops with identical trading report profit of 46,000 and 42,000 dollars because they depreciate a 40,000 machine by different methods; profit to revenue is 23.0% against 21.0%." loading="lazy">
+  <figcaption>Different depreciation policies change profit and ratios without any change in performance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--02-un15-not-in-the-figures.webp" width="900" height="920" alt="An iceberg: the tip above the water line is the financial statements and ratios; below it sit nine non-financial factors the statements leave out, from management skills and staff morale to law, ethics, location and future plans." loading="lazy">
+  <figcaption>Non-financial factors decide success but do not appear in the statements.</figcaption>
+</figure>
+
+
 ## Non-financial factors at a glance
 
 - Management quality and staff skills
@@ -132,6 +148,12 @@ Use these to turn a fact into a point that earns credit.
 
 Manual methods: low cost, no power needed, suit few transactions. Slow, error-prone, hard to search.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--03-un15-computer-vs-manual.webp" width="900" height="920" alt="Two columns list six advantages of accounting software with ticks and five disadvantages with crosses, and a box notes that manual books are cheap and need no power but are slow and easier to get wrong." loading="lazy">
+  <figcaption>Weigh software against manual methods and tie each point to the business.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Limitation of a statement (historical cost, snapshot) versus limitation of a ratio (needs comparison, no reasons). Many points apply to both.
@@ -167,6 +189,22 @@ Manual methods: low cost, no power needed, suit few transactions. Slow, error-pr
 9. Any two from cost, security risk, system failure, staff training, wrong data still posted.
 10. 200 x 11 = 2,200, less 1,500 = 700.
 11. False. It posts whatever is entered, so wrong amounts are posted wrongly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--01-un15-tideway-ratios.webp" width="900" height="960" alt="Six pairs of bars compare Tideway Tiles Year 1 and Year 2: gross profit margin 40.0% to 35.0%, profit to revenue 15.3% to 10.5%, ROCE 29.4% to 21.8%, current ratio 2.00 to 1.78, liquid capital ratio 1.25 to 1.03, trade receivable days 36.5 to 54.8. Every measure is weaker although revenue rose 8.3%." loading="lazy">
+  <figcaption>Every ratio weakened for Tideway Tiles, but the ratios do not say why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--04-un15-rowan-hill-software.webp" width="900" height="970" alt="4 hours x 50 weeks is 200 hours worth 2,400 dollars at 12 an hour. Year 1 cost is 1,800 plus 600 training = 2,400, net 0. Year 2 cost is 1,800, net saving 600 dollars. The 4 hours is an estimate." loading="lazy">
+  <figcaption>The software just covers its cost in Year 1 and saves 600 dollars a year after that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -60,6 +60,17 @@ Goods: 300 - 340 = -40. Services: 110 - 60 = +50. Primary income: 25 - 45 = -20.
 
 Reminder: Country C has a goods deficit but an overall surplus. Always report the section figures and the total.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--05-un155-country-b.webp" width="900" height="970" alt="Waterfall of Country B balances: goods +180, services -60, primary +20, secondary -20, total +120, 4.0% of a GDP of 3,000 million." loading="lazy">
+  <figcaption>A country can have deficits in some sections and still run an overall surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## 6.4.2 Causes of deficit and surplus
 
 | Cause of deficit | Cause of surplus |
@@ -75,6 +86,12 @@ Reminder: Country C has a goods deficit but an overall surplus. Always report th
 | Collapse in tourism inflows | Strong tourism inflows |
 
 Link the cause to the section it affects. For example, high debt interest appears under primary income, and a tourism fall appears under services.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--11-commodity-price-chain.webp" width="900" height="980" alt="Six steps: world price of the mineral falls, export earnings fall, goods balance heads for deficit, fewer foreign currencies earned, demand for the home currency falls, exchange rate may fall. Also felt in mining jobs and government revenue." loading="lazy">
+  <figcaption>Each link of the chain earns analysis credit.</figcaption>
+</figure>
+
 
 ## 6.4.3 Consequences
 
@@ -106,6 +123,22 @@ A depreciation lowers the foreign price of exports and raises the home price of 
 
 Worked reminder: a foreign good costs 40 foreign units. The home currency falls from 0.50 to 0.40 foreign units. Home price rises from 40 / 0.50 = 80 to 40 / 0.40 = 100, a 25% rise. With import PED 0.4, quantity falls by 0.4 x 25% = 10%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--12-depreciation-example.webp" width="900" height="970" alt="A 20% depreciation: export earnings 600,000 to 780,000 (+180,000, PED 1.5); import spending 300,000 to 318,750 (+18,750, PED 0.6). Net improvement 161,250." loading="lazy">
+  <figcaption>A depreciation helps when export demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--06-un155-ca-consequences.webp" width="900" height="890" alt="Arrows show a deficit tends to lower growth, jobs and the currency and raise import prices, while a surplus does the reverse, with demand pull possible." loading="lazy">
+  <figcaption>Persistent deficits and surpluses push GDP, jobs, prices and the exchange rate in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## 6.4.4 Policies and effectiveness
 
 | Policy | How it works | Main limitation |
@@ -132,6 +165,17 @@ Worked reminder (tariff): imports of 500, tariff 10%. Import PED 0.8, so quantit
 Worked reminder (contractionary policy): a tax rise cuts household income by 200. If households spend 0.25 of each unit of income on imports, imports fall by 200 x 0.25 = 50. The cost is lower demand for domestic goods as well, so output and jobs may fall.
 
 Evaluation checklist: match the policy to the cause; consider PED, time lag, retaliation, side effects (inflation, unemployment, growth) and who gains or loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--13-tariff-ped.webp" width="900" height="870" alt="Imports of 610 with a 10% tariff fall to 573.4 if PED is 0.6 (saving 36.6) and to 518.5 if PED is 1.5 (saving 91.5)." loading="lazy">
+  <figcaption>A tariff works far better when demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -165,6 +209,12 @@ Evaluation checklist: match the policy to the cause; consider PED, time lag, ret
 8. Price rise 20%, quantity falls 0.5 x 20% = 10%: 300 x 0.90 = **270**.
 9. If demand for exports and imports is inelastic, the volumes barely change and the import bill rises.
 10. It reduces growth, investment and jobs, and raises the cost of borrowing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--10-ca-four-sections.webp" width="900" height="890" alt="Waterfall for Country A: goods -90, services +70, primary income -45, secondary income -15, current account -80 (5.0% of GDP 1,600). Goods and services together are -20." loading="lazy">
+  <figcaption>The current account balance is the sum of the four section balances.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

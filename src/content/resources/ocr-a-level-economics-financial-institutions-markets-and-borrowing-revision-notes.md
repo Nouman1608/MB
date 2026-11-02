@@ -53,6 +53,12 @@ Test yourself with the [practice questions](/resources/ocr-a-level-economics-fin
 
 Chain for any institution: **action** (lends, invests, trades) → **change in a variable** (credit, asset prices, wealth, confidence) → **component of AD or AS** (C, I, LRAS) → **outcome** (output, employment, prices).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--08-financial-intermediation.webp" width="900" height="970" alt="Savers pass funds to banks (retail, commercial, investment) and to non-bank funds (pension, insurance, hedge), which lend to borrowers. More lending raises consumption and investment and so aggregate demand; tighter lending lowers it even if interest rates are unchanged." loading="lazy">
+  <figcaption>Intermediaries turn saving into lending, which feeds C, I and AD.</figcaption>
+</figure>
+
+
 ## Markets
 
 **Stock market.** Firms raise equity; prices drive the wealth effect. Reminder: households hold 600m cu of shares and prices fall 15%. Wealth loss = 600 × 0.15 = 90m cu. If 5% of lost wealth is cut from spending, consumption falls 90 × 0.05 = 4.5m cu.
@@ -69,6 +75,22 @@ Method for a bond price after market rates change: price = coupon ÷ new yield. 
 
 **Foreign exchange market.** A depreciation makes exports cheaper abroad and imports dearer at home; an appreciation does the opposite. Capital inflows tend to push the rate up and outflows to push it down. The effect on the trade balance depends on elasticities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--10-bond-price-yield.webp" width="900" height="970" alt="A curve of yield (coupon 4 divided by price) against bond price: price 80 gives 5.0 percent, 100 gives 4.0 percent, 125 gives 3.2 percent. If new bonds pay 5 percent the old bond is worth 80, a 20 percent fall." loading="lazy">
+  <figcaption>Bond price and yield move in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--02-wealth-effect-share-fall.webp" width="900" height="850" alt="Share wealth of 400m cu falls 20%, a loss of 80m. With an assumed 4 cu less consumption per 100 cu lost, spending falls 3.2m cu, shown as a thin slice of the magnified loss." loading="lazy">
+  <figcaption>A fall in share prices cuts wealth and, through it, consumption.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--03-depreciation-export-price.webp" width="900" height="970" alt="A good costing 40 cu is 32 fu abroad at 1 cu = 0.80 fu and 28.8 fu at 0.72 fu, a 10% fall. A weaker currency makes exports cheaper abroad and imports dearer at home." loading="lazy">
+  <figcaption>Depreciation of the cu lowers the foreign-currency price of exports by 10%.</figcaption>
+</figure>
+
+
 ## Inter-bank lending
 
 - Banks with surplus funds lend short-term to banks with a gap after daily payments.
@@ -80,6 +102,17 @@ Method for interest on an inter-bank loan: amount × annual rate × days ÷ 365.
 ```
 80m cu for 7 days at 3.5% = 80,000,000 × 0.035 × 7/365 = 53,698.63 cu
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--04-interbank-lending-contagion.webp" width="900" height="960" alt="Bank X lends 30m cu overnight to Bank Y at 3.2% a year; one night of interest is 2,630.14 cu. If banks doubt Bank Y and it fails, losses spread to connected banks X and Z and lending dries up." loading="lazy">
+  <figcaption>Inter-bank lending moves liquidity, but lost trust lets one failure spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## Forms of borrowing: quick comparison
 
@@ -103,6 +136,22 @@ Method for interest on an inter-bank loan: amount × annual rate × days ÷ 365.
 
 **Pay day loan.** Borrow 200 cu, repay 230 cu after 14 days. Cost = 30 ÷ 200 = 15%. Simple annualised = 15 × 365 ÷ 14 = 391%. Compare it with other borrowing only after annualising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--11-borrowing-costs.webp" width="900" height="960" alt="Bars compare rates: mortgage 4.8 percent, unsecured loan 9 percent, overdraft 24 percent, credit card 24 percent nominal and 26.8 percent compounded, and a pay day loan at 182.5 percent simple or about 448 percent compounded (bar cut off)." loading="lazy">
+  <figcaption>Short-term loans must be annualised before their cost can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--05-mortgage-ltv-negative-equity.webp" width="900" height="990" alt="A 200,000 cu house with a 20,000 cu deposit and 180,000 cu loan has a 90% loan-to-value ratio. After a 15% price fall the home is worth 170,000 cu, below the loan, so equity is minus 10,000 cu. A 25-year repayment mortgage at 4.8% costs about 1,031 cu a month." loading="lazy">
+  <figcaption>A price fall can push a high-LTV mortgage into negative equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+
 ## Risk, security and interest rates
 
 - **Risk premium.** Higher chance of default → higher rate to compensate.
@@ -120,6 +169,12 @@ With recovery share s of the loan: (1 − p)(1 + r) + p × s = 1 + t.
 
 Ranking of typical rates, lowest to highest: government bonds, secured mortgage, unsecured loan, credit card, pay day loan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--12-risk-and-security.webp" width="900" height="890" alt="Two stacked bars: with no security the lender needs 9.375 percent to expect 5 percent when 4 percent default; with security recovering 70 percent the rate is 6.46 percent, about 2.9 points lower." loading="lazy">
+  <figcaption>Security cuts the rate a lender needs by about 2.9 percentage points.</figcaption>
+</figure>
+
+
 ## Other worked reminders
 
 **Bank margin.** A bank lends 100,000 cu at 6.5% and pays depositors 1.5%. Interest received is 6,500 cu, interest paid is 1,500 cu, margin is 5,000 cu, which covers costs, bad debts and profit.
@@ -129,6 +184,12 @@ Ranking of typical rates, lowest to highest: government bonds, secured mortgage,
 **Leverage.** Capital 50, assets 400. Leverage = 8. A 10% fall in assets loses 40, which is 80% of capital. The fall that wipes out capital is 50 ÷ 400 = 12.5%.
 
 **Price-earnings.** Share price 60, earnings per share 4: ratio = 15. Dividend 1.5 on price 60: dividend yield = 2.5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--01-insurance-pooling.webp" width="900" height="990" alt="Two bars for an insurer with 1,000 policies, each a 2% chance of a 10,000 cu claim. Expected claims are 200,000 cu and premium income is 230,000 cu, leaving a 30,000 cu margin. A storm hitting every policy breaks the pooling assumption." loading="lazy">
+  <figcaption>Pooling makes the total claim predictable, so premiums can exceed expected claims.</figcaption>
+</figure>
+
 
 ## Evaluating the financial sector in the real economy
 
@@ -174,6 +235,12 @@ Judgement factors: size of leverage, quality of lending, trust between instituti
 8. 20 ÷ 160 = 12.5%.
 9. Forced selling can push asset prices down and pass losses to lenders.
 10. 1.06 ÷ 0.95 = 1.1158, so 11.6%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--09-hedge-fund-leverage.webp" width="900" height="970" alt="A fund with capital 100 borrows 400 to hold 500 of assets. Asset changes of plus 4, minus 4 and minus 20 percent give returns on capital of plus 20, minus 20 and minus 100 percent, so capital is wiped out." loading="lazy">
+  <figcaption>With 4 times borrowing, a 4% move becomes a 20% return on capital and a 20% fall wipes it out.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

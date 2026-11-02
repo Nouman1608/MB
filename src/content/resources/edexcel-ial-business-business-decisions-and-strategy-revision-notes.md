@@ -33,6 +33,27 @@ These notes condense Unit 3, Business decisions and strategy (sections 3.3.1 to 
 - **PESTLE:** political, economic, social, technological, legal, environmental.
 - **Porter's five forces:** rivalry, new entrants, substitutes, buyer power, supplier power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--01-ansoff-risk.webp" width="900" height="930" alt="Two by two grid of current and new products against current and new markets: market penetration lowest risk, product and market development higher, diversification highest." loading="lazy">
+  <figcaption>Moving away from current products and markets raises risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--10-boston-matrix-data.webp" width="900" height="790" alt="Growth against relative share, split at 10% and 1.0. Trail boot is a cash cow, waterproof jacket a star, child's sandal a question mark and wool socks a dog." loading="lazy">
+  <figcaption>Plotting each product by growth and relative share gives its Boston Matrix category.</figcaption>
+</figure>
+
+
 ## 3.3.2 Growth
 
 | Point | Notes |
@@ -76,6 +97,17 @@ These notes condense Unit 3, Business decisions and strategy (sections 3.3.1 to 
 - CPA: estimated durations, resources not shown.
 - Contribution: fixed costs must still be covered; assumes spare capacity and stable prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--03-kiln-payback-npv.webp" width="900" height="1260" alt="Cumulative cash crosses zero at 2.86 years; discounted flows total 86,320 against a cost of 80,000, an NPV of +6,320." loading="lazy">
+  <figcaption>Payback asks when the cost is recovered; NPV asks whether discounted cash beats the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--04-illingby-decision-tree.webp" width="900" height="1180" alt="Large launch EV 260, net 140; small launch EV 130, net 90; the large launch has the higher net EV." loading="lazy">
+  <figcaption>Net EV is the expected value of the outcomes minus the cost of the option.</figcaption>
+</figure>
+
+
 ## 3.3.4 Influences on decisions
 
 - **Culture:** strong (widely held) or weak (inconsistent). Types: power, role, task, person. Formed by founders, history, leadership, structure. Hard to change because of habit and resistance.
@@ -103,6 +135,12 @@ Statement of comprehensive income (profit and loss account): revenue less cost o
 
 Ratio limitations: historic, accounting policies differ, ignore non-financial factors. HR limitations: averages hide detail and causes. HR strategies: financial rewards, employee share ownership, consultation, empowerment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--06-ostbury-ratios.webp" width="900" height="1280" alt="Capital employed 460 gives gearing 39.1% and ROCE 19.6%; the acid test is 70 over 100, 0.7." loading="lazy">
+  <figcaption>Gearing and ROCE share capital employed; the acid test leaves out inventory.</figcaption>
+</figure>
+
+
 ## 3.3.6 Managing change
 
 - Factors: culture, size of organisation, speed of change, managing resistance, transformative leadership (inspiring vision that changes attitudes).
@@ -118,6 +156,12 @@ Ratio limitations: historic, accounting policies differ, ignore non-financial fa
 **Reading the five forces.** If buyers are few and large, buyer power is high and prices are squeezed. If entry costs are low, new entrants threaten profit. If close substitutes exist, customers can switch. Recommend entering a market only when the forces leave room for profit.
 
 **Special orders.** Accept an extra order only if its price exceeds variable cost per unit, there is spare capacity, and regular customers will not expect the same lower price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-zelbury-trend-seasonal.webp" width="900" height="950" alt="Zelbury quarterly sales with the centred trend 30.5, 31.5, 32.5, 33.5 and seasonal gaps of -2.5, +8.5, -8.5 and +2.5." loading="lazy">
+  <figcaption>Seasonal gap is actual sales minus the centred trend.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -156,6 +200,12 @@ Ratio limitations: historic, accounting policies differ, ignore non-financial fa
 10. 9 / 60 x 100 = 15%.
 11. For example natural disasters, IT systems failure, loss of key staff (any two).
 12. Expanding sales faster than working capital can finance, causing cash shortage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-duskwell-special-order.webp" width="900" height="800" alt="Two stacked bars. A regular jar sells at 18 with variable cost 11, so contribution is 7. A special order at 13 gives contribution 2 per jar. 2,000 jars at 2 each add 4,000." loading="lazy">
+  <figcaption>A special order at a lower price still adds 2 per jar towards fixed costs and profit: 4,000 on 2,000 jars.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

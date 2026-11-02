@@ -61,6 +61,12 @@ The guide does not supply formulas here, so the formulas below are the usual tex
 
 For the target price row, the output is 900 boxes, so variable costs are 900 × 10 = 9,000, and the target profit is 5,400.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-contribution-waterfall.webp" width="900" height="1140" alt="A mug sells for 40: 16 variable and 24 contribution. At 650 mugs revenue 26,000 less variable 10,400 is contribution 15,600, less fixed 12,000 is profit 3,600." loading="lazy">
+  <figcaption>Total contribution pays the fixed costs; what is left is profit.</figcaption>
+</figure>
+
+
 ## Method in steps: any break-even question
 
 1. Write down price, variable cost per unit, fixed costs and output.
@@ -68,6 +74,17 @@ For the target price row, the output is 900 boxes, so variable costs are 900 × 
 3. Find what is asked: break-even quantity, profit, margin of safety, target output or target price.
 4. Round the break-even quantity up to a whole unit if it is not whole.
 5. Add units and currency. State what the result means for the business in one sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--10-kilbrook-break-even-chart.webp" width="900" height="1110" alt="Fixed costs flat at 12,000; total cost from 12,000 rising 16 per mug; revenue rising 40 per mug. They cross at 500 mugs and 20,000 dollars. Loss lies left and profit right. At 650 mugs margin of safety is 150 and profit 3,600." loading="lazy">
+  <figcaption>Break-even, loss, profit and margin of safety read from one chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
 
 ## Drawing the chart
 
@@ -101,6 +118,22 @@ Chart movements:
 * Variable cost up: total cost line steeper, break-even point moves right.
 * Fixed costs up: total cost line shifts up with the same slope, break-even point moves right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--14-break-even-change-cases.webp" width="900" height="1030" alt="Four bars along 0 to 800 mugs: base break-even 500, safety 150, profit 3,600; price 44: 429, 221, 6,200; variable cost 20: 600, 50, 1,000; fixed costs 15,000: 625, 25, 600." loading="lazy">
+  <figcaption>Each change moves break-even and the margin of safety at 650 mugs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+
 ## Worked reminder: keeping profit after a price cut
 
 Hobsfield Bakery considers a price of 23 and wants to keep its profit of 3,000.
@@ -110,6 +143,12 @@ Hobsfield Bakery considers a price of 23 and wants to keep its profit of 3,000.
 * Check: 924 × 13 = 12,012, then 12,012 − 9,000 = 3,012, which is at least 3,000.
 
 The cut means selling about 124 more boxes just to stand still. Whether demand will rise by that much is the judgement a good answer makes. This is also where the limitation "says nothing about demand" earns its place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--12-target-output-and-price.webp" width="900" height="1130" alt="Profit line (24 per mug less 12,000) crosses zero at 500 and reaches a 6,000 goal at 750 mugs. For 600 mugs, revenue needed is 12,000 + 9,600 + 6,000 = 27,600, so price 46." loading="lazy">
+  <figcaption>Target profit output and target price from the contribution formula.</figcaption>
+</figure>
+
 
 ## Reading values from a chart
 
@@ -140,6 +179,22 @@ Learn at least five, with a reason each.
 * Says nothing about whether customers will buy the break-even quantity.
 
 For an AO3 answer, link one or two limitations to the business described, then give a judgement on how useful the tool is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--13-break-even-step-fixed-costs.webp" width="900" height="1030" alt="The model total cost line is straight. An illustrative 4,000 step above 700 mugs reduces profit at 800 mugs from 7,200 to 3,200 while break-even stays at 500." loading="lazy">
+  <figcaption>If fixed costs step up, the straight-line break-even model overstates profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-break-even-other-limitations.webp" width="900" height="1250" alt="Four rows: one product (shared fixed costs hard to split), forecast data (price 40 vs 38 moves break-even from 500 to 546), static (chart drawn once, costs, rivals and demand move later) and non-financial factors (quality, reputation, welfare, ethics are not on the chart)." loading="lazy">
+  <figcaption>Four more reasons break-even analysis can mislead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

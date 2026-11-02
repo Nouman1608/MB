@@ -55,6 +55,12 @@ The specification gives exactly these eight groups, three internal and five exte
 - **Management:** they run the business and can ask for any report. They need figures to control costs and plan. A bonus may depend on profit.
 - **Owners/shareholders:** they are paid last, after costs and interest. Profit belongs to them. A dividend is the part paid out as cash. Retained profit is the part kept in the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--01-acc14-stakeholders.webp" width="900" height="1090" alt="Eight stakeholder groups in two lists. Internal (employees, management, owners/shareholders) can ask for any figure; external (customers, suppliers, government, lenders, local community) see published statements. Each row gives one interest." loading="lazy">
+  <figcaption>Three internal and five external stakeholders, each with one distinct interest.</figcaption>
+</figure>
+
+
 ## External stakeholders in brief
 
 - **Customers:** they want the business to keep trading, especially if they rely on it for a product, a warranty or a deposit already paid.
@@ -93,6 +99,17 @@ The same business, three readers: the owner sees the profit, the supplier sees t
 | Cuts prices to win sales | Customers | Owners, if profit falls |
 | Builds a larger site | Employees, owners | Local community |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--01-un14-interests-collide.webp" width="900" height="1246" alt="Five decisions, each with a gaining group and a group that may lose: bigger dividend (shareholders gain, lenders and employees may lose), higher wages (employees gain, owners lose), higher prices (owners gain, customers lose), delayed supplier payment (business gains, suppliers lose), factory expansion (owners and employees gain, community loses)." loading="lazy">
+  <figcaption>Every decision helps one stakeholder and may hurt another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+
 ## Which information each group reads first
 
 | Group | What they look for | Why |
@@ -107,6 +124,12 @@ The same business, three readers: the owner sees the profit, the supplier sees t
 | Local community | Local news on jobs, expansion or closure | Affects their everyday lives |
 
 Profit appears in several rows, but for different reasons. A good answer always says why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--02-acc14-same-figures-different-readers.webp" width="900" height="822" alt="Westerly Joinery wages of 150,000 matter to employees (12 staff, 12,500 each) and management (15.6% of revenue). Loan interest of 5,400 is 9% of the 60,000 loan and is the lender return. The 20,000 dividend gives an 8,000-share holder 1,600." loading="lazy">
+  <figcaption>The same figures serve different stakeholders; each reads a different line first.</figcaption>
+</figure>
+
 
 ## Two model answers
 

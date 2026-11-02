@@ -84,6 +84,12 @@ using time and money, including currency conversion
 - 1.11 Electronic calculators — efficient and accurate use of a
 calculator
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--07-reverse-percentage-bar.webp" width="900" height="840" alt="A bar of ten 10 percent blocks: eight blocks are the 84 pound sale price (80 percent) and two are the 20 percent discount. One block is 10.50 pounds so the original is 105 pounds, not 100.80." loading="lazy">
+  <figcaption>Divide the sale price by 80 percent to get 10 percent, then scale up to the original 100 percent.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 This topic is graded most heavily on accuracy under exam conditions
@@ -101,6 +107,12 @@ of the gap between competent and confident performance on this topic.
 
 Because Foundation and Higher tier both draw on this topic list, confirm with your teacher exactly which sub-topics and outcome levels apply to your own tier before assuming full overlap with a study partner on the other tier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--05-ribbon-division.webp" width="900" height="830" alt="A ribbon 7 1/2 m long is drawn to scale on a ruler and cut into 12 numbered pieces of 5/8 m. The working 7 1/2 / 5/8 = 15/2 x 8/5 = 12 matches the count." loading="lazy">
+  <figcaption>Dividing by 5/8 counts how many 5/8 m pieces fit, and the answer is 12.</figcaption>
+</figure>
+
+
 ## Worked example: standard form with a negative index
 
 Standard form questions on negative indices are a common source of
@@ -116,6 +128,22 @@ the leading numbers and add the indices, then adjust if the result is
 no longer between 1 and 10 -- for example, (2 × 10³) × (6 × 10⁴) = 12 ×
 10⁷, which must be rewritten as 1.2 × 10⁸ to stay in correct standard
 form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--06-standard-form-multiply.webp" width="900" height="990" alt="(2 × 10³) × (6 × 10⁴): multiply 2 × 6 = 12 and add indices 3 + 4 = 7 giving 12 × 10⁷. Since 12 is not between 1 and 10 it becomes 1.2 × 10, so the answer is 1.2 × 10⁸." loading="lazy">
+  <figcaption>Multiply the numbers, add the indices, then rewrite so the number is between 1 and 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
 
 ## Worked example: upper and lower bounds
 
@@ -133,6 +161,17 @@ other. Getting the direction of this combination right, rather than
 simply using upper bounds throughout, is what separates a correct
 answer from a plausible-looking incorrect one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--01-bounds-in-calculations.webp" width="900" height="930" alt="Bars to scale for a = 8.4 and b = 3.2 (1 d.p.): sums use matching bounds; for a minus b the largest answer is upper bound of a minus lower bound of b, and the smallest is lower bound of a minus upper bound of b." loading="lazy">
+  <figcaption>For a subtraction, the largest answer pairs the upper bound of one value with the lower bound of the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--08-bounds-8-4-cm.webp" width="900" height="840" alt="A number line shows 8.4 cm to 1 d.p. lies from 8.35 (included) to 8.45 (not included). With an illustrative 3.2 cm, the sum ranges 11.50 to 11.70 and the difference 5.10 to 5.30, using upper − lower for the maximum difference." loading="lazy">
+  <figcaption>8.4 cm lies between 8.35 and 8.45; for a difference the maximum pairs the upper bound with the lower bound.</figcaption>
+</figure>
+
+
 ## Worked example: compound interest
 
 Compound interest within 1.6 is tested through the same core formula
@@ -145,6 +184,12 @@ trap is applying simple rather than compound interest by mistake, or
 rounding the multiplier too early in the calculation rather than
 carrying full accuracy through to the final step and rounding only the
 final answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--02-compound-interest-bars.webp" width="900" height="890" alt="Five bars show 2,000 pounds growing by 3 percent a year to 2,060.00, 2,121.80, 2,185.45 and 2,251.02. Total interest is 251.02, compared with 240 for simple interest." loading="lazy">
+  <figcaption>Each year the 3% is taken on the new balance, so the interest itself earns interest.</figcaption>
+</figure>
+
 
 ## Set notation in brief
 

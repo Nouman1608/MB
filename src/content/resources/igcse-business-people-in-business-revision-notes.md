@@ -42,6 +42,12 @@ training, promotion opportunities.
 Benefits of a motivated workforce: higher **labour productivity**,
 lower **absenteeism**, lower **labour turnover**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
+
 ## 2.2 Organisation and management
 
 Read and draw organisational charts: **levels of hierarchy**, **span
@@ -63,6 +69,12 @@ A **trade union** represents employee interests; membership affects
 both the employee (representation, collective bargaining) and the
 employer (negotiating with a collective body rather than individuals).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ## 2.3 Recruitment, selection and training
 
 - **Internal vs external recruitment** — internal is cheaper/faster
@@ -80,6 +92,17 @@ needed (automation, falling demand) — not the person's fault.
 - **Legal controls**: contracts, unfair dismissal, discrimination,
 health and safety, minimum wage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2.4 Internal and external communication
 
 Communication methods have benefits/limitations, including
@@ -88,6 +111,12 @@ limitation rather than listing in isolation. Know common **barriers**
 to communication (noise, jargon, poor channel choice, hierarchy
 length) and how a business can reduce them (training, choosing an
 appropriate method for the message, shortening reporting lines).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
 
 ## The exam's favourite instruction: "recommend and justify"
 
@@ -125,6 +154,12 @@ justify with scenario detail, acknowledge a limitation — is the
 reliable way to score full marks on "recommend and justify" questions
 across this entire topic, not just leadership style.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
+
 ## Herzberg's motivators vs hygiene factors — a frequent mix-up
 
 Herzberg's theory is tested specifically enough that a general
@@ -144,6 +179,12 @@ alone (e.g. raising pay) removes a source of dissatisfaction but does
 not, by itself, create lasting motivation** — that requires
 addressing the motivator column as well, which is why a business
 that only ever raises pay may still see low motivation persist.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
 
 ## Worked example: applying Herzberg to a scenario
 

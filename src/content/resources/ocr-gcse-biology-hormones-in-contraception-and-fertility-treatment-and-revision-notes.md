@@ -59,6 +59,27 @@ These notes condense statements B3.2e to B3.2i of module B3.2 in the OCR GCSE (9
 
 **Calculation reminder.** Expected pregnancies = users × (rate per 100) ÷ 100. For 300 pill users at 9 per 100: 300 × 9 ÷ 100 = 27. For 300 condom users at 18 per 100: 54. The difference is 54 − 27 = 27 pregnancies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--05-pill-stops-ovulation.webp" width="900" height="910" alt="Three steps: the daily pill keeps oestrogen and progesterone high; the pituitary gland is inhibited and releases no FSH; no follicle matures and no egg is released. Progesterone also thickens cervical mucus." loading="lazy">
+  <figcaption>High hormone levels switch off FSH, so no egg is released.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--06-contraception-effectiveness.webp" width="900" height="770" alt="Bar chart of approximate pregnancies per 100 women per year (typical use): condom 18, pill 9, injection 6, implant or coil under 1. A dashed outline marks 2 per 100 for perfect condom use." loading="lazy">
+  <figcaption>Methods needing no daily action fail least; human error matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--07-non-hormonal-contraception.webp" width="900" height="935" alt="Barrier methods stop sperm meeting the egg and only condoms also reduce infection risk; the copper coil makes the uterus unwelcoming; natural family planning avoids sex when an egg may be present; sterilisation blocks the ducts and is permanent; abstinence is the only completely effective method." loading="lazy">
+  <figcaption>How each non-hormonal method works and its key point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
+
 ## B3.2f: Treating infertility (Higher Tier only)
 
 - Cause often linked to low FSH or LH, so eggs do not mature or ovulation does not occur.
@@ -77,6 +98,12 @@ These notes condense statements B3.2e to B3.2i of module B3.2 in the OCR GCSE (9
 
 **Success rate.** Rate = live births ÷ cycles × 100. Example: 45 births from 150 cycles is 45 ÷ 150 × 100 = 30%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--07-ivf-steps.webp" width="900" height="1160" alt="Five steps: FSH and LH injections; eggs collected; eggs mixed with sperm in a dish; embryos develop for a few days; one or two embryos placed in the uterus. Progesterone is often given afterwards." loading="lazy">
+  <figcaption>IVF fertilises eggs outside the body, then returns embryos to the uterus.</figcaption>
+</figure>
+
+
 ## B3.2g: Auxin and tropisms (both tiers)
 
 | Response | Where auxin collects | Effect on growth | Result |
@@ -89,6 +116,22 @@ These notes condense statements B3.2e to B3.2i of module B3.2 in the OCR GCSE (9
 - Auxin is made in the tip and moves back to the elongating zone.
 - Unequal distribution of auxin gives unequal growth, and unequal growth gives bending.
 - Tip removed: no response. Tip covered: no response. Tip uncovered but lower part covered: response still happens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--08-gravitropism-shoot-root.webp" width="900" height="990" alt="Shoot and root on their side: auxin collects on the lower side of both. In the shoot the lower cells elongate more so it curves up; in the root high auxin slows the lower cells so the upper cells grow more and it curves down." loading="lazy">
+  <figcaption>Same auxin distribution, opposite response in shoot and root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--08-tip-foil-phototropism.webp" width="900" height="1040" alt="Four seedlings lit from the right: intact tip bends (mean 38 degrees), tip cut off no bending, foil over tip no bending, foil below the tip still bends (mean 36). The tip detects light and a signal passes down." loading="lazy">
+  <figcaption>Cutting or covering the tip stops bending, so the tip detects light.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
 
 ## B3.2h: Variety of effects
 
@@ -109,6 +152,22 @@ Ripe fruit gives off ethene, a gas, which ripens fruit nearby: the reason one ba
 | Seedless fruit | Auxin or gibberellin | Unpollinated flower develops a fruit without seeds |
 | Ripening on demand | Ethene | Fruit picked green, ripened at destination |
 | Altering dormancy | Gibberellins | End dormancy so seeds germinate together |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--04-gibberellin-ethene-effects.webp" width="900" height="957" alt="Gibberellin promotes stem growth, germination by stimulating enzymes that break down stored food, and flower opening. Ethene ripens fruit and promotes leaf shedding." loading="lazy">
+  <figcaption>Gibberellins and ethene each have several effects on plant growth and development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--05-ethene-bananas.webp" width="900" height="990" alt="Green bananas ripen in 7 days alone and in 3 days beside an over-ripe banana, 57 percent quicker. Ethene gas from the ripe banana reaches the green one." loading="lazy">
+  <figcaption>Ethene from a ripe banana shortens ripening from 7 to 3 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--06-plant-hormone-uses.webp" width="900" height="925" alt="Rooting powder makes cuttings grow roots; selective herbicide kills broad-leaved weeds but spares grass; auxin or gibberellin on unpollinated flowers gives seedless fruit; green fruit is ripened with ethene on arrival; gibberellin ends seed dormancy." loading="lazy">
+  <figcaption>Five ways growers use plant hormones.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

@@ -89,6 +89,17 @@ In this guide, **other payables** are amounts the business owes that are not tra
 4. Carry that balance down on the side that lets the account balance, and bring it down on the opposite side.
 5. Whatever makes the account balance is moved to the statement of profit or loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--06-prepaid-insurance-months.webp" width="900" height="785" alt="A twelve-month strip shows a 2,400 policy paid in December: seven months, 1,400, belong to the year to 30 June 2028 and five months, 1,000, are prepaid. The insurance account totals 3,300 on each side, with 2,300 to profit or loss and 1,000 carried down." loading="lazy">
+  <figcaption>Only the months used fall in this year; the rest is a prepaid asset carried down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+
 ## Worked example: Tarnwood Cycles, year ended 30 June 2028
 
 **Insurance (prepaid expense).** The previous policy ran to 30 November 2027, so $900 was prepaid on 1 July 2027.
@@ -178,6 +189,27 @@ Taken together, these four year-end adjustments leave profit $680 lower than if 
 | Accrued hire fees | Understated by $260 | Assets understated |
 | Sponsorship in advance | Overstated by $1,500 | Liabilities understated |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--07-four-adjustments-profit.webp" width="900" height="915" alt="A running change in profit. Accrued wages reduce profit by 440, prepaid insurance adds 1,000, accrued hire fees add 260 and sponsorship in advance reduces profit by 1,500. Together profit is 680 dollars lower." loading="lazy">
+  <figcaption>Each adjustment moves profit up or down; the four together lower it by $680.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--08-pr-income-ledgers.webp" width="900" height="944" alt="Two T-accounts in dollars. Hire fees: debit profit or loss 4,310; credit b/d 150, bank 3,900, c/d 260, so 260 is brought down as a debit (other receivable). Sponsorship: debit profit or loss 300 and c/d 1,500; credit bank 1,800, so 1,500 is brought down as a credit (other payable)." loading="lazy">
+  <figcaption>Accrued income is a debit balance and income in advance a credit balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+
 ## Irrecoverable debts
 
 An **irrecoverable debt** is money due from a credit customer that the business has given up expecting, for example because the customer is bankrupt or cannot be traced. The sale was already recorded as revenue, so the loss is an expense and sales are left unchanged. Journal: Dr Irrecoverable debts, Cr the customer.
@@ -205,6 +237,17 @@ Date      Details                Amount  Date      Details                Amount
 ```
 
 Trade receivables fall by 1,120 dollars, and the whole amount is treated as a cost of the year in the statement of profit or loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--08-debt-recovered-two-steps.webp" width="900" height="830" alt="Two journal cards for T Nakamura. Step 1 reinstates the debt: debit T Nakamura 425, credit Debts recovered 425. Step 2 records the cash: debit Bank 425, credit T Nakamura 425. His account balances to nil and the 425 is income of the year." loading="lazy">
+  <figcaption>Reinstate the customer first, then record the cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--09-pr-write-off-ledgers.webp" width="900" height="881" alt="Pellegrini owed 780, so his account is credited and the irrecoverable debts account debited. With Thackray 340 the account totals 1,120, transferred to profit or loss as an expense; sales are unchanged." loading="lazy">
+  <figcaption>A write-off is an expense of 1,120; sales are not reduced.</figcaption>
+</figure>
+
 
 ## Irrecoverable debts recovered
 
@@ -293,6 +336,27 @@ Expense: increase in allowance                534
 Income:  irrecoverable debts recovered        425
 Net charge to profit                        1,229
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--10-pr-allowance-three-years.webp" width="900" height="765" alt="Bars in dollars: 5 percent of 29,600 is 1,480 (expense); 5 percent of 40,280 is 2,014 so the increase of 534 is an expense; 4 percent of 34,000 is 1,360 so the decrease of 654 is income." loading="lazy">
+  <figcaption>Only the change in the allowance reaches profit: an increase is an expense, a decrease is income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--11-pr-net-charge.webp" width="900" height="700" alt="Irrecoverable debts 1,120 and allowance increase 534 are expenses; debts recovered 425 is income. The net charge to profit is 1,229." loading="lazy">
+  <figcaption>Two expenses less one income give a net charge of 1,229.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

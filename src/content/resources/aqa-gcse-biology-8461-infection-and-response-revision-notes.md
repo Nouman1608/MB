@@ -50,6 +50,17 @@ lists every specification point.
 | Destroying or controlling vectors | Removes the organism that carries the pathogen |
 | Vaccination | Makes people immune, so the pathogen has fewer hosts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-infection-and-response-revision-notes--02-infection-four-controls.webp" width="900" height="905" alt="Four panels: hygiene, isolating infected people, controlling vectors such as mosquitoes, and vaccination. Each breaks the route from pathogen to a new host." loading="lazy">
+  <figcaption>Each control cuts the route from an infected source to a new host.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
+  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
+</figure>
+
+
 ## The seven named diseases (4.3.1.2 to 4.3.1.5)
 
 | Disease | Pathogen | Host | Spread | Key symptoms or signs | Control or treatment |
@@ -64,6 +75,22 @@ lists every specification point.
 
 **Why plant diseases reduce growth:** TMV and black spot both reduce the area of healthy green leaf, so
 **less photosynthesis** takes place and less glucose is available for growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--05-named-diseases.webp" width="900" height="963" alt="Seven diseases in four pathogen groups. Viruses: measles, HIV, TMV (plant). Bacteria: salmonella, gonorrhoea. Fungi: rose black spot (plant). Protists: malaria. One spread route or symptom is shown for each." loading="lazy">
+  <figcaption>Seven named diseases grouped by the type of pathogen that causes them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--10-malaria-cycle.webp" width="900" height="895" alt="A mosquito bites an infected person, picks up the malaria protist, and bites a second person, passing it on. Control by stopping mosquito breeding in standing water and by using nets." loading="lazy">
+  <figcaption>Malaria passes between people by mosquito; stop breeding and use nets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-plant-disease-signs.webp" width="900" height="1000" alt="Three panels: TMV (virus) gives a mosaic of light and dark patches and less photosynthesis; rose black spot (fungus) gives purple or black spots and less photosynthesis; aphids are insect pests, not pathogens." loading="lazy">
+  <figcaption>The three plant problems named in the specification: TMV, black spot and aphids.</figcaption>
+</figure>
+
 
 ## 4.3.1.6 Human defences
 
@@ -82,6 +109,22 @@ lists every specification point.
 2. **Antibody production** -- antibodies bind to a specific pathogen and help destroy it.
 3. **Antitoxin production** -- antitoxins neutralise the toxins released by bacteria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--02-defences.webp" width="900" height="980" alt="Schematic body with five numbered defences: 1 skin as the outline, a physical barrier; 2 nose hairs, in a magnified circle, trap dust and pathogens; 3 sticky mucus traps pathogens in the airways; 4 stomach acid kills pathogens in food and drink; 5 white blood cells in a vessel engulf pathogens and make antibodies. Defences 1 to 4 act before the blood." loading="lazy">
+  <figcaption>Four barriers act before pathogens reach the blood; white blood cells deal with those that get in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--05-white-cell-defences.webp" width="900" height="1060" alt="Phagocytosis: a white cell takes in a pathogen. Antibodies: Y-shaped proteins bind the matching pathogen only. Antitoxins: attach to toxins released by bacteria." loading="lazy">
+  <figcaption>Antibodies act on the pathogen; antitoxins act on the toxin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--01-phagocytosis.webp" width="900" height="1130" alt="Three steps drawn on a white blood cell with a lobed nucleus. 1: it detects a pathogen and moves towards it. 2: it engulfs the pathogen, which ends up in a vacuole. 3: lysosome enzymes enter the vacuole and digest the pathogen into fragments." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen into a vacuole and lysosome enzymes digest it.</figcaption>
+</figure>
+
+
 ## 4.3.1.7 Vaccination -- method in steps
 
 1. Small quantities of a **dead or inactive** form of the pathogen are put into the body.
@@ -92,6 +135,17 @@ lists every specification point.
 **Population effect:** if a large proportion of people are immune, the pathogen has few hosts to pass to,
 so spread falls and unvaccinated people are also protected. You do not need to learn vaccination schedules
 or the side effects of particular vaccines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
+</figure>
+
 
 ## 4.3.1.8 Antibiotics and painkillers
 
@@ -104,6 +158,12 @@ or the side effects of particular vaccines.
 - Specific bacteria should be treated with **specific antibiotics**.
 - Antibiotics have greatly reduced deaths from bacterial disease, but **resistant strains** are a serious concern.
 - Drugs that kill viruses are hard to develop, because viruses live inside cells and the drug may **damage body tissues**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-cause-or-symptom.webp" width="900" height="780" alt="An antibiotic kills bacteria, cannot kill viruses, and a painkiller treats the symptom (pain) only while the pathogen is still present." loading="lazy">
+  <figcaption>Antibiotics act on bacteria; painkillers act on symptoms only.</figcaption>
+</figure>
+
 
 ## 4.3.1.9 Discovery and development of drugs
 
@@ -215,6 +275,12 @@ and **aphids** (insects).
 10. It can divide and it makes the antibody.
 11. Magnesium (chlorosis).
 12. Antibacterial chemicals, or poisons that deter herbivores.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-infection-and-response-revision-notes--01-infection-percent-infected.webp" width="900" height="940" alt="Two grids of 100 squares. Vaccinated: 36 of 1200 is 3 percent, 3 squares filled. Unvaccinated: 150 of 1200 is 12.5 percent, 12.5 squares filled." loading="lazy">
+  <figcaption>36 ÷ 1200 × 100 = 3% against 150 ÷ 1200 × 100 = 12.5%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

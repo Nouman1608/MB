@@ -61,6 +61,17 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - Host tax before: 5.0 × 0.20 = 1.0. After: 3.0 × 0.20 = 0.6. Tax lost: **0.4 million**.
 - The affiliate pays 2.0 × 0.05 = 0.1 million. Group tax falls from 1.0 to 0.7, a saving of **0.3 million**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--01-transfer-pricing.webp" width="900" height="870" alt="Shows how an internal charge moves profit to the 10% tax country: group tax 3.0 to 2.2, Country A loses 1.2. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>A 4.0 internal charge cuts tax in Country A by 1.2 and the group total by 0.8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--11-mnc-what-it-does.webp" width="900" height="780" alt="A head office in the home country passes technology to subsidiaries in host countries A and B, which send profits back. The subsidiaries trade components with each other at transfer prices. Plants built or bought abroad are FDI." loading="lazy">
+  <figcaption>An MNC organises production, technology and profits across countries.</figcaption>
+</figure>
+
+
 ## 11.5.4 FDI: consequences
 
 - **Where it appears:** the inflow is in the financial account; later profit outflows are in primary income in the current account.
@@ -73,6 +84,22 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - Local content share of costs is a separate measure; if 18 of 60 million is spent on local inputs it is 18 ÷ 60 = **30%**.
 
 **FDI as a share of GDP:** FDI inflow ÷ GDP × 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--02-fdi-value-added.webp" width="900" height="860" alt="Splits 40.0 of value added into wages, tax and repatriated profit (44% stays, 56% leaves) and shows 380 net new jobs. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Of the plant’s 40.0 million value added, 44% stays in the host country and 56% is sent abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--12-mnc-host-gains-costs.webp" width="900" height="906" alt="Possible benefits: jobs and training; capital and new technology; tax revenue and exports; competition lowers prices; linkages to local suppliers. Possible costs: local firms squeezed out; profits sent abroad; tax avoidance by transfer pricing; pollution and weak labour standards; footloose." loading="lazy">
+  <figcaption>The same MNC can bring both gains and costs to a host country.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--15-mnc-fdi-vs-portfolio.webp" width="900" height="820" alt="FDI means productive assets or a controlling stake in a foreign business, for example building a factory or buying a majority of shares. Portfolio investment is buying shares or bonds without control and can be sold quickly." loading="lazy">
+  <figcaption>FDI needs control or lasting productive assets; portfolio investment does not.</figcaption>
+</figure>
+
 
 ## 11.5.5 External debt
 
@@ -113,6 +140,17 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 
 **Evaluation:** debt can be good if it funds projects earning more than the interest; judge by size relative to income, currency, interest rate, use and growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--03-debt-service-ratio.webp" width="900" height="790" alt="Bars of debt service divided by exports: 15%, 19.5%, 21.7%; notes debt to GNI (40%) is a different ratio. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Debt service as a share of exports rises from 15% to 21.7% with no new borrowing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--04-depreciation-and-debt.webp" width="900" height="850" alt="Exchange rate 4.00 to 5.00 b-units per FCU: debt 9,600 to 12,000 (+25%); debt service share of revenue 20% to 25%. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>A 20% fall in the b-unit raises the home-currency debt by 25%.</figcaption>
+</figure>
+
+
 ## 11.5.6 The IMF
 
 | Role | Detail |
@@ -126,6 +164,17 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 **Evaluation:** loans prevent disorderly adjustment and restore confidence. Conditions can reduce output and public services, one policy set may not fit every country, and the long-run effect depends on whether reforms raise growth.
 
 **Reminder: austerity effect.** A condition cuts government spending by 50 million. With a multiplier of 1.5, GDP falls by 50 × 1.5 = **75 million**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--05-imf-financing-gap.webp" width="900" height="790" alt="Deficit 300 = private inflows 180 + reserves 40 + gap 80; the deficit-cut condition lowers GDP by 180 (3.0%). Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>An IMF loan could fill an 80 million financing gap, but the loan condition cuts GDP by about 3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--14-mnc-imf-vs-world-bank.webp" width="900" height="860" alt="The IMF deals with the short run: surveillance and advice, temporary loans for payments gaps, conditions and training. The World Bank funds the long run: project loans, soft loans, support for the poorest countries and reform advice. Both were set up at Bretton Woods and both can attach conditions." loading="lazy">
+  <figcaption>The IMF focuses on short-run stability and the World Bank on long-run development.</figcaption>
+</figure>
+
 
 ## 11.5.7 The World Bank
 
@@ -142,6 +191,12 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 | Focus | Short-run payments and macro stability | Long-run development and poverty |
 | Typical support | Temporary balance of payments loans | Project and programme loans, grants |
 | Both | Attach conditions; can be criticised for policies that ignore local needs | |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--13-mnc-world-bank-loan-cost.webp" width="900" height="630" alt="A 200 million FCU loan costs 4 million a year at 2% and 14 million at 7%. The saving is 10 million a year, 200 million over 20 years of interest." loading="lazy">
+  <figcaption>Soft World Bank loans cut the cost of development finance.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

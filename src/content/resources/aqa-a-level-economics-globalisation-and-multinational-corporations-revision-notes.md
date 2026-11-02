@@ -66,6 +66,12 @@ Trade relative to output = trade index / output index x 100
 Illustrative example: trade index 100 to 190 and output index 100 to 140 over 20 years.
 Trade grows 3.3% a year, output 1.7% a year, and trade relative to output is 135.7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--13-trade-vs-output.webp" width="900" height="880" alt="Indices over 20 years: freight cost falls to 64, world trade rises to 190 and world output to 140, growth rates -2.2, +3.3 and +1.7 percent a year. Trade relative to output rises 35.7 percent." loading="lazy">
+  <figcaption>Trade has grown faster than output as freight costs fell.</figcaption>
+</figure>
+
+
 ## Characteristics checklist
 
 - Trade rising relative to output.
@@ -84,6 +90,12 @@ Trade grows 3.3% a year, output 1.7% a year, and trade relative to output is 135
 4. Compare a country's value added with its gross exports.
 
 Illustrative: output sold for 60 using 50 of imported inputs gives value added of 10, or 16.7% of gross exports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--10-supply-chain-value-added.webp" width="900" height="1000" alt="Value added is X 20, Y 30, Z 10 and D 40, totalling the final price of 100. Recorded trade is 130 because inputs are counted at each border. Z exports 60 but adds 10." loading="lazy">
+  <figcaption>Gross trade overstates the value a country captures in a supply chain.</figcaption>
+</figure>
+
 
 ## Consequences
 
@@ -108,6 +120,17 @@ Small reminders (illustrative):
 - 2,000 direct jobs and 0.6 indirect per direct job: 3,200 jobs, multiplier 1.6.
 - Tax of 30% on 40 profit and 10% on 10 profit gives 13. After moving 15 of profit: 0.30 x 25 + 0.10 x 25 = 10.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--06-cheaper-imports-basket.webp" width="900" height="955" alt="A basket of 100 has clothing 8 and other goods 92. Clothing prices fall 25%, so the basket costs 98: prices fall 2.0% and purchasing power rises 2.04%." loading="lazy">
+  <figcaption>A big price fall on one item gives a small gain across the whole basket.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--07-displaced-workers-rate.webp" width="900" height="910" alt="60 thousand jobs are lost; 35 thousand find service jobs and 25 thousand stay unemployed. Unemployment rises from 400 to 425 thousand, so the rate moves from 5.0% to 5.3%." loading="lazy">
+  <figcaption>The national rate barely moves but 25 thousand workers bear the loss.</figcaption>
+</figure>
+
+
 ## MNC role: reasons and effects
 
 **Why firms go multinational:** markets, lower costs, resources and skills, avoiding trade barriers, economies of scale, taxes and incentives, and spreading risk.
@@ -122,11 +145,23 @@ Small reminders (illustrative):
 | Supplier links | Footloose behaviour |
 | | Weaker standards possible |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--12-transfer-pricing.webp" width="900" height="940" alt="Shifting 15 of profit from the 30 percent country to the 10 percent country cuts group tax from 13 to 10: the MNC saves 3, one government loses 4.5 and the other gains 1.5." loading="lazy">
+  <figcaption>Transfer pricing cuts the MNC tax bill and shifts revenue between governments.</figcaption>
+</figure>
+
+
 ## Two chains to learn in full
 
 **Offshoring in an MDC.** A firm moves assembly abroad, so domestic manufacturing jobs fall. Displaced workers whose skills do not fit new vacancies stay unemployed, which is structural unemployment. It is concentrated in particular regions, so local demand and tax revenue fall there. Meanwhile consumers pay lower prices and exporters gain markets. Judgement: the net effect depends on how quickly workers retrain and move, and on whether new jobs appear.
 
 **FDI in an LDC.** A foreign firm builds a plant, so jobs, wages and tax revenue rise and technology transfers. Local suppliers may gain orders, which raises income further through the multiplier. But if profits are repatriated, GNI rises by less than GDP, and if the plant uses imported inputs, few local links form. Judgement: the gain is larger where the host has skilled workers, bargaining power and rules that keep value in the country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--11-gdp-vs-gni-mnc.webp" width="900" height="960" alt="Country E has GDP 200; MNCs earn 24 and send 18 abroad, so GNI is 182." loading="lazy">
+  <figcaption>Profit repatriation makes GNI lower than GDP.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -173,6 +208,12 @@ Use these to move from description to judgement:
 9. Competition from low-wage producers and offshoring can reduce demand and pay for lower-skilled workers, while skilled workers and owners may gain.
 10. A higher share measures integration, not how gains are shared. Some workers or regions may lose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--08-mnc-employment-multiplier.webp" width="900" height="910" alt="2,000 direct jobs support 1,200 indirect jobs (0.6 each), a total of 3,200 and a multiplier of 1.6. Some indirect jobs may replace local jobs, so the net gain is lower." loading="lazy">
+  <figcaption>The plant creates 3,200 jobs in total, less any jobs lost elsewhere.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing globalisation as only trade, with nothing on capital, labour, technology or supply chains.
@@ -187,3 +228,9 @@ Use these to move from description to judgement:
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, for first teaching from September 2015. Section 4.2.6.1 Globalisation (site-map number 3.2.6.1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+

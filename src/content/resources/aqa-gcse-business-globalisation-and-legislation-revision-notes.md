@@ -48,6 +48,12 @@ The specification lists two bullets: better designs, and higher quality products
 
 Quality and price together mean good value, but this squeezes profit margin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-compete-abroad.webp" width="900" height="930" alt="Three routes (better designs, higher quality, lower prices) point at sales abroad. Offering quality and price together gives best value but squeezes the profit margin." loading="lazy">
+  <figcaption>UK firms compete abroad through design, quality and price.</figcaption>
+</figure>
+
+
 ### Benefits and drawbacks of globalisation
 
 | Benefits | Drawbacks |
@@ -57,6 +63,12 @@ Quality and price together mean good value, but this squeezes profit margin.
 | Larger output can lower unit costs | Exchange rate risk |
 | New ideas, skills and suppliers | Cultural, language and legal differences |
 | Less reliance on the UK economy | Reputation risk from unethical overseas suppliers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-globalisation-four-functions.webp" width="900" height="880" alt="A plus (bigger market, cheaper parts, new ideas) and a minus (foreign rivals, longer chains, currency risk), then four cards: operations (longer supply chains), human resources (cheaper rivals, language skills), marketing (adapt per country) and finance (shipping costs, other currencies)." loading="lazy">
+  <figcaption>Globalisation brings opportunity and risk to each functional area.</figcaption>
+</figure>
+
 
 ### Impact on the four functional areas
 
@@ -75,6 +87,27 @@ Quality and price together mean good value, but this squeezes profit margin.
 | Weaker pound | Exports cheaper abroad, sales may rise | Imports dearer, costs rise, profit falls unless prices rise |
 
 You will not be asked to calculate exchange rate conversions. A firm that both imports and exports is partly protected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--08-pound-matrix.webp" width="900" height="930" alt="A grid shows a stronger pound hurts exporters and helps importers, while a weaker pound helps exporters and hurts importers. Firms that both import and export are partly protected." loading="lazy">
+  <figcaption>The direction of the pound has opposite effects on exporters and importers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--09-importer-squeeze.webp" width="900" height="870" alt="Frame costs of 240,000 pounds rise 10% (24,000 pounds). Operating profit of 96,000 pounds falls to 72,000, a 25% fall." loading="lazy">
+  <figcaption>A small rise in one cost can remove a quarter of profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--06-exporter-stronger-pound.webp" width="900" height="900" alt="25 jumper icons each stand for 320 jumpers, 8,000 in total. A stronger pound makes jumpers dearer abroad and sales fall 12 percent: 3 icons or 960 jumpers are lost, leaving 7,040. Lost revenue is 960 x 45 pounds = 43,200 pounds a year." loading="lazy">
+  <figcaption>A 12% sales fall loses 960 jumpers, £43,200 of revenue a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
 
 ### Method in steps: an exchange rate question
 
@@ -150,6 +183,17 @@ Only brief knowledge of each law is needed. Put most effort into the effects on 
 - forced changes to how the business operates
 - bad publicity, lost customers and difficulty recruiting
 - do not quote figures for fines unless the case study gives them
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--10-cost-of-law.webp" width="900" height="970" alt="Three bars to one scale: a minimum-wage rise costing 5,054.40 pounds a year, safe-lifting training at 1,190 pounds and a toy recall at 12,600 pounds." loading="lazy">
+  <figcaption>Complying costs money, but getting it wrong costs more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
 
 ## Case-study skills
 

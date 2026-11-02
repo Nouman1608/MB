@@ -91,6 +91,12 @@ Worked reminder: (7 − x)/((1 − x)(1 + 2x)) = 2/(1 − x) + 5/(1 + 2x). Check
 | 1/(3 − x) or 1/(3 − x)² | |x| < 3 |
 | Whole function | |x| < 1/2 (the narrowest) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--08-binomial-validity.webp" width="900" height="980" alt="A graph of y = (1 - 3x)^(-1/2) with its series up to x cubed, 1 + 3x/2 + 27x^2/8 + 135x^3/16. A shaded band shows the range of validity, x between minus one third and one third. The series matches near zero but the curves separate outside the band and near the asymptote at x = 1/3." loading="lazy">
+  <figcaption>The series for a rational power only represents the function when |bx/a| &lt; 1.</figcaption>
+</figure>
+
+
 ## Products and quotients
 
 Write a quotient as a product with a negative power. For example, (1 + x)/(1 − 2x)^(1/2) = (1 + x)(1 − 2x)^(−1/2).

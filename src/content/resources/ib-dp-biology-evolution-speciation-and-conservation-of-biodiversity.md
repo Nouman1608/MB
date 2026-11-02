@@ -70,6 +70,12 @@ Counting differences position by position: P and Q differ at 1 position (8.3%), 
 
 **Why DNA can differ without the protein differing.** The genetic code is degenerate: several codons code for one amino acid. Compare ATG GCT AAG CTT GGA CCA with ATG GCA AAG CTC GGT CCA. Three bases differ (3 of 18), yet both code for Met-Ala-Lys-Leu-Gly-Pro. DNA can therefore show more differences than the protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--01-sequence-differences.webp" width="900" height="880" alt="Four 12-letter protein sequences with differences from P highlighted, the six pairwise difference counts and percentages, and a tree showing P and Q most closely related and S most distant. A gap-free count of differences shows the branching order. Data are hypothetical." loading="lazy">
+  <figcaption>More differences between sequences means a longer time since the lineages shared an ancestor.</figcaption>
+</figure>
+
+
 ## A4.1.3 Selective breeding
 
 Humans choose which animals and plants breed. Domesticated dogs show huge variation in size, coat and behaviour, yet all descend from wolves. Cabbage, broccoli, kale and kohlrabi are varieties of one wild species, *Brassica oleracea*, selected for different plant parts. Differences between varieties, and from the wild ancestor, arose rapidly. Selection can change populations quickly. Natural selection works the same way, with the environment selecting.
@@ -78,15 +84,33 @@ Humans choose which animals and plants breed. Domesticated dogs show huge variat
 
 **Homologous structures** have the same underlying structure because they were inherited from a common ancestor, even if they now do different jobs. The key example is the **pentadactyl limb** of tetrapods. A human arm, bat wing, whale flipper and horse leg all have one upper bone (humerus), two lower bones (radius and ulna), wrist bones, and digits. The bones differ in proportion: long finger bones support a bat's wing membrane, short stout ones form a flipper. A shared plan serving different functions is best explained by descent from a common ancestor, adapted by selection in each lineage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--02-homologous-limbs.webp" width="900" height="1010" alt="Four schematic forelimbs (human arm, bat wing, whale flipper, horse leg) share one humerus, radius and ulna, wrist bones and digits, but with different proportions. This shared plan with different jobs points to a common ancestor." loading="lazy">
+  <figcaption>The same bone plan in four different limbs shows descent from a common ancestor.</figcaption>
+</figure>
+
+
 ## A4.1.5 Convergent evolution
 
 **Analogous structures** do the same job but arose separately in different lineages. They arise by **convergent evolution**: unrelated lineages face similar selection pressures and evolve similar solutions. Examples: the wings of a bat and an insect (a bat wing is a modified pentadactyl limb with skin stretched over bones, an insect wing is a cuticle outgrowth), and the streamlined bodies and fins of sharks and dolphins. Check internal structure: different origins mean analogous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--03-convergent-evolution.webp" width="900" height="990" alt="A bat wing (bones and skin) is compared with an insect wing (cuticle, no bones), and a shark with a dolphin. Both pairs do the same job but arose separately, so they are analogous." loading="lazy">
+  <figcaption>Similar structures with different origins are analogous and come from convergent evolution.</figcaption>
+</figure>
+
 
 ## A4.1.6 Speciation by splitting
 
 **Speciation** is the formation of new species. Every new species arises by the splitting of a pre-existing species, so speciation increases the total number of species, and extinction decreases it. Gradual change in one lineage over time, with no split, is not speciation.
 
 **Worked example.** A region has 1,200 species. Over a period, 35 new species form by splitting and 60 become extinct. Net change = 35 − 60 = −25, so 1,175 species remain. Extinction exceeds speciation, so diversity falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--04-speciation-isolation.webp" width="900" height="1240" alt="Three panels show gene flow in one population, a river splitting it, and divergence in allele frequencies on each side (bonobos and chimpanzees). A bar chart then shows 1,200 species gaining 35 by splitting and losing 60 to extinction, leaving 1,175." loading="lazy">
+  <figcaption>Isolation stops gene flow, differential selection makes the sides diverge, and speciation adds species while extinction removes them.</figcaption>
+</figure>
+
 
 ## A4.1.7 Reproductive isolation and differential selection
 
@@ -98,13 +122,31 @@ Populations of one species diverge when gene flow between them stops. This is **
 
 Isolation that stops interbreeding may be geographic, behavioural or temporal. **Allopatric speciation** happens when populations are physically separated, so geographic isolation stops gene flow first. **Sympatric speciation** happens in the same area, so isolation must be behavioural (for example, different courtship signals) or temporal (breeding at different times of day or year). Both need isolation, variation and divergence under selection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--05-allopatric-sympatric-hl.webp" width="900" height="1200" alt="Allopatric speciation has populations separated by a barrier such as mountains or a river. Sympatric speciation happens in one area, where isolation is behavioural (different courtship signals) or temporal (breeding in different months)." loading="lazy">
+  <figcaption>Allopatric needs a physical barrier; sympatric needs behavioural or temporal isolation.</figcaption>
+</figure>
+
+
 ## A4.1.9 Adaptive radiation (HL only)
 
 **Adaptive radiation** is the rapid evolution of many related species from one ancestor, each adapted to a different niche. It occurs where niches are vacant, such as on newly formed islands or after a mass extinction. Each species uses a different resource, so close relatives coexist without competing, increasing biodiversity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--06-adaptive-radiation-hl.webp" width="900" height="940" alt="One ancestor reaches a new island with vacant niches. Four descendants each use a different food (seeds, insects, nectar, fruit) with a matching beak, so close relatives coexist with little competition." loading="lazy">
+  <figcaption>Adaptive radiation produces many related species, each in a different niche.</figcaption>
+</figure>
+
+
 ## A4.1.10 Barriers to hybridization (HL only)
 
 Barriers keep the gene pools of species apart. **Courtship behaviour** is specific to a species, so an animal usually ignores the displays of other species. If hybridization does occur, hybrids may be sterile. A **mule** (horse × donkey) is sterile: a horse has 64 chromosomes and a donkey 62, so a mule has 32 + 31 = 63. These cannot all pair up in meiosis, so viable gametes are not formed. Alleles cannot pass between species through the hybrid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--07-hybrid-polyploid-hl.webp" width="900" height="1110" alt="A mule has 32 + 31 = 63 chromosomes, which cannot all pair in meiosis, so it is sterile. In the hypothetical plant example, hybrid X and Y gametes give 13 unpaired chromosomes; doubling to 26 gives 13 pairs, so the new species is fertile." loading="lazy">
+  <figcaption>Odd or unpaired chromosomes make hybrids sterile; doubling restores pairing and creates a new species in one generation.</figcaption>
+</figure>
+
 
 ## A4.1.11 Abrupt speciation in plants (HL only)
 
@@ -134,6 +176,12 @@ Study only human causes. **Mixed dipterocarp forest** in Southeast Asia has been
 
 **Worked example.** A forest reserve covers 3,200 km² in the first survey and 2,480 km² nine years later. Loss = 720 km². Percentage loss = 720 ÷ 3,200 × 100 = 22.5%. Mean loss = 80 km² per year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--08-measuring-biodiversity.webp" width="900" height="1190" alt="Site A and Site B both have richness 4 and 100 individuals but A is even (25 each) and B is dominated by one species (70, 10, 10, 10). Richness falling from 48 to 39 is -18.8%, and a forest falling from 3,200 to 2,480 square kilometres is -22.5%, or 80 square kilometres per year." loading="lazy">
+  <figcaption>Richness counts species, evenness compares abundances, and percentage change measures loss.</figcaption>
+</figure>
+
+
 ## A4.2.5 Evidence of the crisis
 
 Evidence comes from reliable surveys of many habitats worldwide and from reports of IPBES, the intergovernmental biodiversity and ecosystem services science panel. Its 2019 assessment reported that about one million species face extinction and that the current extinction rate is at least tens to hundreds of times the average of the last 10 million years. Surveys must be repeated to show change in **species richness** (number of species) and **evenness** (how similar the abundances are).
@@ -158,6 +206,12 @@ Large mammals with big home ranges need in situ protection. A tiny population ma
 ## A4.2.8 EDGE of Existence
 
 The **EDGE of Existence** programme prioritizes species that are **evolutionarily distinct** and **globally endangered**. An evolutionarily distinct species has few close relatives, so it represents a long unique branch of the tree of life. Losing it removes much evolutionary history at once. Prioritizing which species to save raises ethical, political, cultural and economic questions, so it is debated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--09-edge-species.webp" width="900" height="1130" alt="A species on a long unique branch of the tree of life loses much evolutionary history if it goes extinct, unlike one of several close relatives. EDGE species are both evolutionarily distinct and globally endangered, and choosing priorities raises ethical, political, cultural and economic questions." loading="lazy">
+  <figcaption>EDGE prioritises species that are evolutionarily distinct and globally endangered.</figcaption>
+</figure>
+
 
 ## Common errors
 

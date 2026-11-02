@@ -39,6 +39,12 @@ These notes condense 4.3.3 item 2, points a to g, of the Pearson Edexcel Interna
 
 Market words (appreciation, depreciation) go with floating rates. Official words (revaluation, devaluation) go with fixed or managed rates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--08-appreciation-vs-depreciation-asymmetry.webp" width="900" height="1060" alt="Grid of the four terms and bars showing the ark rising 2.00 to 2.50 bels (+25%) while the bel falls 0.50 to 0.40 arks (-20%); a 400-ark good rises 800 to 1,000 bels." loading="lazy">
+  <figcaption>The same move is +25% for one currency and -20% for the other.</figcaption>
+</figure>
+
+
 ## Intervention (2b)
 
 | Tool | Effect on the rate | Cost or limit |
@@ -58,6 +64,17 @@ To lower the rate the central bank sells its own currency, cuts interest rates o
 | Managed | Some stability and some flexibility | Needs reserves and judgement; markets may test it |
 
 **Peg check.** Demand for arks is Qd = 100 − 20R and supply Qs = 40 + 20R. Equilibrium: 60 = 40R, so R = 1.50. A peg at 1.80 gives Qd = 64 and Qs = 76. The excess supply is 12 billion arks. Reserves needed: 12 × 1.80 = 21.6 billion bels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--05-peg-above-equilibrium.webp" width="900" height="910" alt="The lesson market for arks: Qd = 160 - 50R, Qs = 20 + 20R. Equilibrium is 2.00 and 60; at the 2.40 peg demand is 40 and supply 68, an excess supply of 28 billion arks, costing 67.2 billion bels of reserves to absorb." loading="lazy">
+  <figcaption>A peg above equilibrium creates excess supply that the central bank must buy with reserves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--06-interest-rate-defends-peg.webp" width="900" height="1016" alt="Demand D1 (Qd = 160 - 50R), supply S (Qs = 20 + 20R), peg 2.40. Excess supply at the peg is 28. A higher interest rate shifts demand to Qd = 188 - 50R, by 28, and clears the peg at 68." loading="lazy">
+  <figcaption>Higher interest rates shift demand right and clear the peg.</figcaption>
+</figure>
+
 
 ## Floating rate factors (2c)
 
@@ -79,6 +96,22 @@ Method in steps:
 | Fall in a commodity price (exporter) | Down |
 
 **PPP quick form.** Rate = price level of basket abroad ÷ price level at home. If a basket costs 90 arks and 180 bels, PPP is 2.00 bels per ark. Relative PPP: the currency of the country with higher inflation should depreciate by about the gap. With inflation of 3% in A and 5% in B, the ark should rise by 1.05 ÷ 1.03 − 1 = 1.94%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--07-fixed-managed-floating-paths.webp" width="900" height="1092" alt="Three time paths on one scale: flat fixed rate; managed rate held in a band with authorities stepping in; freely moving floating rate." loading="lazy">
+  <figcaption>Fixed, managed and floating differ in who moves the rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--11-interest-gain-vs-rate-risk.webp" width="900" height="890" alt="Bels returned from the ark deposit (52,500 x rate) against 102,000 from staying home. Break-even 1.943; at 1.95 she is 375 ahead, at 1.90 2,250 behind." loading="lazy">
+  <figcaption>Expected exchange-rate falls can cancel an interest advantage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## Effects of a change (2f)
 
@@ -114,6 +147,17 @@ balance
 **Quick calculation.** Net exports rise by 30 million arks. MPW is 0.4, so the multiplier is 2.5 and GDP rises by 75 million, if there is spare capacity.
 
 **Inflation quick form.** Imports are 15% of the basket and import prices rise 10%. Direct effect: 0.15 × 10 = 1.5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--06-j-curve.webp" width="900" height="900" alt="The lesson illustrative path of the trade balance after a depreciation: 0, -38, -25, +10, +50, +94 million arks at 0, 3, 6, 9, 12 and 18 months. Short-run elasticities sum to 0.7 (balance -38.1); long-run to 1.8 (balance +94.4)." loading="lazy">
+  <figcaption>The trade deficit deepens first and then improves once elasticities rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--09-depreciation-three-effects.webp" width="900" height="1040" alt="Worked examples after the ark falls to 1.60: multiplier 2 gives +80m GDP, 4% of 2,000m, about 2,000 jobs; imports at 20% of the basket with +25% prices give +5.0% (3.0% at 60% pass-through); a 600m ark factory costs 1,200m then 960m bels." loading="lazy">
+  <figcaption>A depreciation affects growth, prices and foreign investment.</figcaption>
+</figure>
+
 
 ## Competitive depreciations (2g)
 
@@ -166,6 +210,12 @@ balance
 8. 30 ÷ 0.4 = 75 million.
 9. 1.5%.
 10. Buy the currency with reserves; raise interest rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--07-ppp-exchange-rates.webp" width="900" height="1050" alt="The same basket costs 100 X in Country X and 200 Y in Country Y. At the market rate (4 Y = 1 X) Country Y income looks like 5,000 X, but at the PPP rate (2 Y = 1 X) it is 10,000 X, matching the 2 to 1 gap in baskets bought (200 versus 100)." loading="lazy">
+  <figcaption>PPP rates adjust for cost-of-living differences so incomes can be compared by what they buy.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

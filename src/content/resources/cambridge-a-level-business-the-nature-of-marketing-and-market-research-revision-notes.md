@@ -33,6 +33,12 @@ These notes condense sections 3.1 (The nature of marketing) and 3.2 (Market rese
 - Link: marketing objectives should be set so that reaching them helps achieve the corporate objective. If the corporate aim is growth in a new country, a marketing aim might be a set share of that country's market.
 - Marketing relies on other functions: operations (supply what is promised), finance (budget), human resources (skilled staff).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--05-objectives-cascade.webp" width="900" height="800" alt="A corporate objective to expand into a new region leads to a marketing objective of reaching a set share of that region within two years, which depends on operations, finance and human resources." loading="lazy">
+  <figcaption>Marketing objectives must support corporate objectives and rely on other functions.</figcaption>
+</figure>
+
+
 ## 3.1.2 Demand and supply
 
 | | Demand | Supply |
@@ -50,6 +56,12 @@ Method for any demand and supply question:
 Shift summary: demand up gives higher price and higher quantity; demand down gives lower price and lower quantity; supply up gives lower price and higher quantity; supply down gives higher price and lower quantity.
 
 Shortage (demand above supply) pushes price up. Surplus (supply above demand) pushes price down. Equilibrium is where they match.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--04-honey-demand-shift.webp" width="900" height="854" alt="Price against quantity from the lesson table. Demand D1 and supply S cross at 6 dollars and 80 jars (E1). Adding 40 jars at every price shifts demand to D2, crossing S at 7 dollars and 100 jars (E2). A rise in demand raises both price and quantity." loading="lazy">
+  <figcaption>A rise in demand of 40 jars at every price raises price from 6 to 7 dollars and quantity from 80 to 100.</figcaption>
+</figure>
+
 
 ## 3.1.3 Markets
 
@@ -76,6 +88,22 @@ Worked reminder. Tarrowgate Tea sells 12.8 in a market worth 80.0 (both in milli
 
 Implication: the firm grew faster than the market, so it gained share. If a firm's growth is below the market's, its share falls even when its sales rise. Falling share signals weaker competitiveness; slowing market growth warns of saturation and may push firms towards new segments or products.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--05-share-falls-sales-rise.webp" width="900" height="860" alt="Bars show Vantley sales inside the whole market. Sales rose from 5.2 to 5.5 million (5.8%) but the market grew 10.0%, so share fell from 13.0% to 12.5%." loading="lazy">
+  <figcaption>Sales can rise while market share falls if the market grows faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--06-product-classification.webp" width="900" height="800" alt="A grid of consumer and industrial markets against goods and services: washing machine (durable) and bread (non-durable) as consumer goods, a haircut as a consumer service, machinery and components as industrial goods, and cleaning or software support as industrial services." loading="lazy">
+  <figcaption>Products are classified by who buys them and whether they are goods or services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--01-market-vs-product-orientation.webp" width="900" height="910" alt="Two three-step flows. Market orientation: ask customers what they need, design the product to match, sell to buyers who want it. Product orientation: start with what the business can make, make it, then look for buyers. The orientation shapes every later marketing decision." loading="lazy">
+  <figcaption>Market orientation starts from customer needs; product orientation starts from what the business can make.</figcaption>
+</figure>
+
+
 ## 3.1.4 Product classification, B2C and B2B
 
 - Consumer goods: durable (a bicycle) and non-durable (milk).
@@ -99,6 +127,12 @@ Implication: the firm grew faster than the market, so it gained share. If a firm
 | For | Volume, economies of scale, wide reach | Less competition, loyalty, premium prices possible |
 | Against | Strong rivals, thin margins, costly promotion | Limited size, dependence, entry by large firms |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
+
 ## 3.1.6 Segmentation
 
 | Method | Based on | Example |
@@ -111,12 +145,34 @@ Implication: the firm grew faster than the market, so it gained share. If a firm
 - Disadvantages: higher research and promotion costs, shorter production runs, segments hard to measure, segment may be too small.
 - Psychographic data is usually the hardest to collect and measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--07-segmentation-bases.webp" width="900" height="870" alt="Geographic (region, city size, climate), demographic (age, income, occupation) and psychographic (lifestyle, values, personality) bases, with a scale showing psychographic segments are the hardest to measure." loading="lazy">
+  <figcaption>Psychographic segments describe lifestyle and values and are the hardest to measure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
+
 ## 3.1.7 CRM
 
 - Aims: keep customers, increase repeat purchases, learn about wants, encourage recommendations.
 - Costs: systems and software, training, loyalty rewards, data protection risks.
 - Benefits: retention, more sales per customer, targeted offers, cheaper than winning new customers.
 - Cost-benefit check: if a scheme costs 9,000 a year and each retained customer is worth 60 of contribution, it breaks even at 9,000 / 60 = 150 retained customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--06-crm-break-even.webp" width="900" height="820" alt="The scheme costs a flat 18,000 dollars and each kept member is worth 95 dollars. At 120 members the benefit is 11,400, a loss of 6,600; the lines cross at 189.5, so 190 retained members are needed." loading="lazy">
+  <figcaption>The loyalty scheme breaks even at 190 retained members; at 120 it loses 6,600 dollars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--08-crm-loop.webp" width="900" height="900" alt="A loop from collecting customer data, to targeted offers and rewards, to repeat purchases and recommendations, to kept customers and more sales each. The costs are software and data systems, staff training, loyalty rewards and the risk of misusing personal data." loading="lazy">
+  <figcaption>CRM keeps customers using data, at a cost, and is cheaper than finding new ones.</figcaption>
+</figure>
+
 
 ## 3.2.1 Purposes of research
 
@@ -147,6 +203,17 @@ Say which type a source is, then explain its usefulness for the decision in the 
 - Quantitative: numbers, easy to compare. Qualitative: opinions and reasons, explains why.
 - Tables, charts and graphs: read the title and units, quote figures, calculate a percentage or change, state the trend, then qualify it.
 - Worked reminder: sales rise from 45 to 54 in a year. Change = 9; 9 / 45 x 100 = 20%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--07-survey-percentages.webp" width="900" height="780" alt="Bars show the share in each age group who would buy weekly: 70%, 40% and 24%, with an overall line at 46% (115 of 250). The sample is of existing customers only." loading="lazy">
+  <figcaption>Interest in the new loaf falls with age, but the sample is existing customers only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-marketing-and-market-research--09-data-kinds-reliability.webp" width="900" height="834" alt="Quantitative data is numerical (70%, 40% and 24% of age groups would buy weekly) and qualitative data explains why. Findings are more reliable when the sample is large and representative, questions are neutral, the source is credible and the data is recent." loading="lazy">
+  <figcaption>Numbers show what, words show why, and four features make findings reliable.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

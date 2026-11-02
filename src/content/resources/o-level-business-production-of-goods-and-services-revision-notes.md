@@ -56,6 +56,12 @@ Method in steps for a labour productivity question:
 
 Small reminder: a bakery that baked 1,800 loaves with 9 workers and later 2,200 loaves with 10 workers moved from 200 to 220 loaves per worker, a rise of 10%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--05-production-vs-productivity.webp" width="900" height="1020" alt="Paired bars: production 2,400 to 3,150 mugs a week (+31.25%), workers 20 to 21 (+5%), productivity 120 to 150 mugs per worker (+25%)." loading="lazy">
+  <figcaption>Production rose more than productivity because one extra worker was hired.</figcaption>
+</figure>
+
+
 ## Efficiency
 
 **Benefits of increasing efficiency**
@@ -84,6 +90,17 @@ Small reminder: a bakery that baked 1,800 loaves with 9 workers and later 2,200 
 **Cost of holding inventories:** storage, insurance, damage or going out of date, money tied up.
 **Cost of holding too little:** production stops; lost sales; unhappy customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--08-stock-cover.webp" width="900" height="710" alt="Six day columns: days 1 to 4 each use 150 frames from 600 in store; days 5 and 6 have no stock, so production halts for 2 days when a delivery is 6 days late." loading="lazy">
+  <figcaption>600 frames at 150 a day last 4 days; a 6-day delay halts production for 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--11-stock-holding-cost.webp" width="900" height="790" alt="Stock of 90,000 dollars costs 1,800 a month at 2%; cut to 30,000 it costs 600, saving 1,200 a month." loading="lazy">
+  <figcaption>Cutting stock from 90,000 to 30,000 dollars saves 1,200 a month.</figcaption>
+</figure>
+
+
 ## Lean production
 
 Aim: less waste of materials, time and space, while still meeting customer needs.
@@ -96,6 +113,17 @@ Aim: less waste of materials, time and space, while still meeting customer needs
 **Benefits of lean production:** lower holding costs; less waste; fewer defects; faster response to customers; less cash tied up; involved workers.
 
 **Risk to mention in a judgement:** JIT depends on suppliers, so a late delivery can stop production. This risk is a general point rather than a syllabus listing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--10-kaizen-small-steps.webp" width="900" height="980" alt="Three worker suggestions feed a staircase of six small steps over time: no single change is large but costs fall and quality rises." loading="lazy">
+  <figcaption>Kaizen is many small improvements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## Methods of production: comparison
 
@@ -115,6 +143,27 @@ Aim: less waste of materials, time and space, while still meeting customer needs
 - Batch: variety at moderate cost, but time lost between batches.
 - Flow: lowest unit cost, but expensive and hard to change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--06-batch-production.webp" width="900" height="860" alt="A flow of a 500-jar strawberry batch, a 2-hour vat clean, a 500-jar plum batch and another clean. Three batches a day mean 3 x 2 = 6 hours of cleaning." loading="lazy">
+  <figcaption>Batch production loses time cleaning and resetting between batches.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--13-sunnyfield-unit-cost.webp" width="900" height="780" alt="9,000 bottles an hour x 20 hours = 180,000 a day; 54,000 dollars / 180,000 = 0.30 dollars per bottle." loading="lazy">
+  <figcaption>Flow production spreads cost over huge output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--14-job-batch-flow-tradeoffs.webp" width="900" height="990" alt="Job, batch and flow with two benefits and two limitations each; unit cost falls and flexibility falls from job to flow (qualitative)." loading="lazy">
+  <figcaption>Benefits and limitations of the three methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+
 ## Recommending and justifying a method
 
 Method in steps:
@@ -133,6 +182,12 @@ Note the command words:
 - **Justify** means support the choice with reasons, ideally weighed against the alternatives.
 - **Evaluate** means weigh both sides and reach a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--12-oakenshaw-batch-choice.webp" width="900" height="820" alt="Oakenshaw facts tested against job, flow and batch production; batch is recommended, with a 3 hours a month drawback." loading="lazy">
+  <figcaption>Recommending batch production for Oakenshaw Toys.</figcaption>
+</figure>
+
+
 ## Technology in production
 
 | Technology | What it does | Benefit | Limitation |
@@ -142,6 +197,12 @@ Note the command words:
 | CAD linked to CAM | Design goes straight to production | Faster launches; customised items at lower cost | Needs skilled staff |
 
 Technology changes the choice of method: it can make batch changes faster and make flow production workable at lower volumes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--07-cad-cam-waste.webp" width="900" height="820" alt="Two grids of 100 squares, each square 50 boards of 5,000. Wasted squares fall from 8 (400 boards, 8%) to 3 (150 boards, 3%), saving 250 boards or 3,000 dollars a month at 12 dollars a board." loading="lazy">
+  <figcaption>CAD and CAM cut board waste from 8% to 3%.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

@@ -61,6 +61,22 @@ Current account balance = -90 + 70 - 45 - 15 = **-80**, a deficit of 80 million 
 
 Notice that the services surplus partly offsets the goods deficit. The primary income deficit is the cost of the interest and profits paid to foreign owners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--12-depreciation-example.webp" width="900" height="970" alt="A 20% depreciation: export earnings 600,000 to 780,000 (+180,000, PED 1.5); import spending 300,000 to 318,750 (+18,750, PED 0.6). Net improvement 161,250." loading="lazy">
+  <figcaption>A depreciation helps when export demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--06-un155-ca-consequences.webp" width="900" height="890" alt="Arrows show a deficit tends to lower growth, jobs and the currency and raise import prices, while a surplus does the reverse, with demand pull possible." loading="lazy">
+  <figcaption>Persistent deficits and surpluses push GDP, jobs, prices and the exchange rate in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ### Worked example 2: a surplus
 
 Country B, one illustrative year, millions of units: goods inflows 900, outflows 720; services 150 and 210; primary income 60 and 40; secondary income 25 and 45.
@@ -68,6 +84,22 @@ Country B, one illustrative year, millions of units: goods inflows 900, outflows
 Balances: goods +180, services -60, primary income +20, secondary income -20. Current account = 180 - 60 + 20 - 20 = **+120**, a surplus. With GDP of 3,000 million, the surplus is 120 / 3,000 x 100 = **4.0%** of GDP.
 
 A country can run a deficit in some sections and an overall surplus, or the reverse. Always calculate each section before you comment on the total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--10-ca-four-sections.webp" width="900" height="890" alt="Waterfall for Country A: goods -90, services +70, primary income -45, secondary income -15, current account -80 (5.0% of GDP 1,600). Goods and services together are -20." loading="lazy">
+  <figcaption>The current account balance is the sum of the four section balances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--05-un155-country-b.webp" width="900" height="970" alt="Waterfall of Country B balances: goods +180, services -60, primary +20, secondary -20, total +120, 4.0% of a GDP of 3,000 million." loading="lazy">
+  <figcaption>A country can have deficits in some sections and still run an overall surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## 6.4.2 Causes of deficits and surpluses
 
@@ -86,6 +118,17 @@ Causes of a surplus are largely the reverse: competitive, high-quality exports; 
 ### Chain of reasoning: a commodity price fall
 
 Suppose a country earns most of its export income from one mineral. The world price of the mineral falls. Export earnings fall, so the goods balance moves towards deficit. Fewer foreign currencies are earned, the demand for the home currency falls, and the exchange rate may fall. The fall is also felt in mining jobs and in government revenue. Explaining each link in order is how you gain analysis credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--11-commodity-price-chain.webp" width="900" height="980" alt="Six steps: world price of the mineral falls, export earnings fall, goods balance heads for deficit, fewer foreign currencies earned, demand for the home currency falls, exchange rate may fall. Also felt in mining jobs and government revenue." loading="lazy">
+  <figcaption>Each link of the chain earns analysis credit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## 6.4.3 Consequences of a deficit or surplus
 
@@ -143,6 +186,12 @@ If import PED is 0.6, quantity falls by 6%, so imports fall to 610 x 0.94 = 573.
 - *Trade rules and agreements* may limit what a country can do.
 
 A strong answer picks a policy that matches the cause, says how it works, then says when and why it may fail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--13-tariff-ped.webp" width="900" height="870" alt="Imports of 610 with a 10% tariff fall to 573.4 if PED is 0.6 (saving 36.6) and to 518.5 if PED is 1.5 (saving 91.5)." loading="lazy">
+  <figcaption>A tariff works far better when demand is elastic.</figcaption>
+</figure>
+
 
 ## Common errors
 

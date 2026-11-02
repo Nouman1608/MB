@@ -51,11 +51,23 @@ Chain: demand-side stimulus, so AD rises, so firms hire, so unemployment falls, 
 
 The trade-off worsens after a supply shock. It may vanish in the long run if expectations adjust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
+
 ### Growth and inflation
 
 Chain: faster AD-led growth, so spare capacity is used up, so costs and bottlenecks rise, so the price level rises.
 
 **Worked example 2 (Country B).** Output is 480 and potential output is 500, a gap of −4.0%. The government injects 18. With a multiplier of 2, output rises by 36 to 516, which is 16 (3.2%) above potential. The extra demand cannot be met and prices rise. An injection of 20 ÷ 2 = 10 would close the gap exactly. The conflict appears only once spare capacity is gone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
 
 ### Inflation and the balance of payments
 
@@ -69,11 +81,38 @@ Chain: rising incomes, so spending on imports rises with the marginal propensity
 
 **Worked example 4 (Country D).** GDP is 800, the marginal propensity to import is 0.35 and the current account deficit is 16 (2.0% of GDP). GDP grows 3%, so rises by 24. Imports rise by 0.35 × 24 = 8.4. Exports rise by 3 because trading partners grow. The deficit becomes 16 + 8.4 − 3 = 21.4, which is 21.4 ÷ 824 = 2.6% of GDP. The rise in GDP that exports alone could pay for is 3 ÷ 0.35 = 8.57, or 1.07%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ### Growth and income and wealth equality
 
 Chain: if growth is led by a few high-skill or capital-heavy sectors, top earners gain first, and asset owners gain as asset prices rise, so inequality widens. It is not automatic. Broad-based growth in jobs and wages can narrow inequality.
 
 **Worked example 5 (Country E).** Three groups: the bottom 40% of people with average income 8,000, the middle 50% with 22,000, the top 10% with 90,000. Mean income = 0.4 × 8,000 + 0.5 × 22,000 + 0.1 × 90,000 = 23,200. Incomes then grow 1%, 3% and 7%. New means: 8,080, 22,660 and 96,300, so the national mean is 24,192, growth of 4.3%. The top 10% share rises from 38.8% to 39.8%; the bottom 40% falls from 13.8% to 13.4%. Absolute gains are 80 and 6,300. Growth was strong, yet the gap widened.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--05-pol-phillips-cost-shock.webp" width="900" height="960" alt="A short-run Phillips curve for Country A through the points (8% unemployment, 1.0% inflation), (7%, 1.8%), (6%, 2.9%) and (5%, 4.4%). A cost shock lifts inflation by 1.5 points at every unemployment rate, shifting the curve up. To bring inflation back to 2.9% the economy must move along the new curve to 7.5% unemployment, which is 375,000 more unemployed than at 6% with a labour force of 25 million." loading="lazy">
+  <figcaption>After a cost shock the same inflation needs more unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--06-growth-widens-gap.webp" width="900" height="980" alt="Groups growing 1, 3 and 7 percent gain 80, 660 and 6,300 per person. Mean income rises 4.3 percent, yet the top 10 percent share rises from 38.8 to 39.8 percent and the bottom 40 percent share falls from 13.8 to 13.4 percent." loading="lazy">
+  <figcaption>Strong growth can still widen the gap when the gains go mainly to the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--08-real-exchange-rate.webp" width="900" height="930" alt="Home prices rise 6 percent and foreign prices 2 percent with the nominal rate fixed at 2.00. The real rate rises 3.9 percent, so to restore competitiveness the nominal rate would need to fall to 1.925." loading="lazy">
+  <figcaption>With a fixed nominal rate, higher home inflation makes goods 3.9 percent dearer in real terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## 2. Consequences and resolution
 
@@ -122,11 +161,33 @@ The slope of AS determines whether an AD change shows up in output or prices. Us
 
 Neo-classical analysis sees long-run AS as steep or vertical; Keynesian analysis sees it as flat at low output. Spare capacity and supply-side policy make AS more elastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+
 ### The role of expectations
 
 Expectations affect wage bargaining, pricing and real interest rates. Under adaptive expectations people extrapolate from past inflation. Under rational expectations they use all available information, including announced policy, so credible policy changes behaviour quickly.
 
 **Worked example 8.** A nominal interest rate of 4% with expected inflation of 2% gives a real rate of 1.04 ÷ 1.02 − 1 = 1.96%. If expected inflation rises to 5%, the real rate is 1.04 ÷ 1.05 − 1 = −0.95%. The same interest rate now stimulates instead of restrains. Policy outcomes depend on what people expect, and this is why credibility matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--06-pol-sticky-wages.webp" width="900" height="960" alt="Labour market with demand L = 14 - 0.4w and supply L = 4 + 0.6w (millions of workers; wage in currency units per hour), equilibrium at wage 10 and 10 million workers. Demand falls to L = 12.4 - 0.4w. If wages are flexible the wage falls to 8.4 and employment to 9.04 million. If the wage stays at 10, demand is 8.4 million but supply is 10 million, so 1.6 million are unemployed." loading="lazy">
+  <figcaption>Flexible wages cut pay; sticky wages cut jobs and leave 1.6 million unemployed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--05-as-elasticity-split.webp" width="900" height="880" alt="A 5 percent rise in nominal AD is split into price and output by elasticity of AS. With e = 4 prices rise 1.0 and output 4.0 percent; with e = 1 both 2.5; with e = 0.25 prices 4.0 and output 1.0 percent." loading="lazy">
+  <figcaption>The more elastic aggregate supply is, the more of a demand rise shows up as output rather than prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--09-real-interest-rate.webp" width="900" height="840" alt="A nominal rate of 4 percent with expected inflation of 2 percent gives a real rate of 1.96 percent (restrains). With expected inflation of 5 percent the real rate is minus 0.95 percent (stimulates)." loading="lazy">
+  <figcaption>The same nominal interest rate restrains or stimulates depending on expected inflation.</figcaption>
+</figure>
+
 
 ## 4. Why approaches change
 
@@ -136,6 +197,12 @@ Each shift followed a failure of the previous approach to deal with events.
 - **Keynesian demand management in the 1970s.** After the war, governments used AD to maintain full employment. In the 1970s oil price rises and strong wage claims raised costs and inflation while unemployment also rose (stagflation). Worked example 9: money wages rise 11% with inflation at 9% and productivity up 0.5%. Real wages rise 1.8% and unit labour costs 1.11 ÷ 1.005 − 1 = 10.5%. Expanding AD to cut unemployment fed inflation, and the Phillips Curve trade-off seemed to break down.
 - **The monetarist approach in the 1980s.** Monetarists stressed expectations, the natural rate of unemployment, control of money supply growth, and supply-side reform. From MV = PY with V constant, money growth of 9% and real output growth of 2% imply inflation of 1.09 ÷ 1.02 − 1 = 6.9%. Cutting money growth to 5% implies 2.9%. Weakness: if velocity falls 2% a year, 5% money growth gives only 0.9% inflation, so targets proved unreliable; and in some countries high interest rates deepened recession.
 - **The 2007-08 financial crisis and aftermath.** Bank losses on lending, shown by a bank with assets of 100 and equity of 4: a 5% fall in asset values costs 5, wiping out equity. The failure of a large US investment bank in 2008 spread fear and cut credit. Central banks cut policy rates to very low levels and used quantitative easing; many governments first supported demand, then consolidated budgets. Worked example 10: cutting spending by 20 with a multiplier of 1.5 would reduce output by 30. Regulation of bank capital tightened. The period reopened debate about stimulus versus consolidation and financial stability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--07-policy-approaches-timeline.webp" width="900" height="1290" alt="Four episodes with the lesson key numbers: Depression (a 30 percent fall needs 42.9 percent to recover), 1970s stagflation (unit labour costs up about 10 percent), 1980s monetarism (money growth 9 percent gives 6.9 percent inflation, 5 percent gives 2.9), 2007-08 (a 5 percent asset loss wipes out equity of 4)." loading="lazy">
+  <figcaption>Each change of policy approach followed a failure of the previous one.</figcaption>
+</figure>
+
 
 ## Common errors
 

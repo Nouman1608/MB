@@ -60,6 +60,22 @@ Test yourself with the [practice questions](/resources/ib-dp-mathematics-aa-sl-l
 - **Parabola:** the graph of a quadratic function.
 - **Roots / zeros:** solutions of f(x) = 0; the x-intercepts of y = f(x).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--02-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = 3 + root(x + 4) starting at (-4, 3). The domain, on the x-axis, is x at least -4 because the root needs x + 4 at least 0. The range, on the y-axis, is f(x) at least 3." loading="lazy">
+  <figcaption>A quick sketch shows the range: here it starts at 3, not at all real numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--03-composite-order.webp" width="900" height="810" alt="Two function machines with f(x) = 3x - 2 and g(x) = x squared + 1. Input 2 through g then f gives 5 then 13; through f then g gives 4 then 17. The composites are 3x squared + 1 and 9x squared - 12x + 5, so the order matters." loading="lazy">
+  <figcaption>(f o g)(2) = 13 but (g o f)(2) = 17: apply the inner function first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--04-inverse-restricted.webp" width="900" height="1010" alt="The solid teal curve h(x) = (x - 1)^2 + 3 for x at least 1 and its inverse 1 + root(x - 3) for x at least 3 are mirror images in y = x, for example (2, 4) and (4, 2). The faint left half shows that h(0) = h(2) = 4 without the restriction." loading="lazy">
+  <figcaption>Restricting the domain makes h one-to-one, and its inverse is the reflection in y = x.</figcaption>
+</figure>
+
+
 ## Formulas and forms
 
 | Item | Result |
@@ -74,6 +90,12 @@ Test yourself with the [practice questions](/resources/ib-dp-mathematics-aa-sl-l
 | Quadratic, vertex form | f(x) = a(x − h)² + k, vertex (h, k), axis x = h |
 | Quadratic formula | x = (−b ± √(b² − 4ac))/(2a) |
 | Discriminant | Δ = b² − 4ac |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--06-three-forms.webp" width="900" height="960" alt="Parabola f(x) = 2x^2 - 8x + 6. The expanded form shows the y-intercept (0, 6), the factorised form 2(x - 1)(x - 3) the x-intercepts 1 and 3, and the completed-square form 2(x - 2)^2 - 2 the vertex (2, -2). The axis of symmetry is x = 2." loading="lazy">
+  <figcaption>Each form of a quadratic shows a different feature of the same parabola.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -135,6 +157,12 @@ Test yourself with the [practice questions](/resources/ib-dp-mathematics-aa-sl-l
 3. For asymptotes, trace towards the gap or the end of the curve and write the line as an equation (x = a or y = b).
 4. Record values to 3 significant figures and give points as coordinates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--01-perpendicular-lines.webp" width="900" height="920" alt="Line AB through A(-2, 5) and B(4, 1) has gradient -2/3 and equation 2x + 3y - 11 = 0 with intercepts (11/2, 0) and (0, 11/3). The perpendicular through B has gradient 3/2 and equation y = 3/2 x - 5. A right-angle mark at B shows they are perpendicular; the gradients multiply to -1." loading="lazy">
+  <figcaption>Perpendicular gradients are negative reciprocals, so they multiply to -1.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - Line through (2, −1) perpendicular to y = 4x + 3: m = −1/4, so y + 1 = −(1/4)(x − 2), giving x + 4y + 2 = 0.
@@ -146,6 +174,12 @@ Test yourself with the [practice questions](/resources/ib-dp-mathematics-aa-sl-l
 ## Using technology (Paper 2)
 
 Paper 1 allows no technology; Paper 2 requires it. With a GDC, find zeros, maximum and minimum points, intersections of two graphs, and vertical and horizontal asymptotes. Give values to 3 significant figures and points as coordinates. Everything in the method boxes above must also work by hand for Paper 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--05-gdc-features.webp" width="900" height="900" alt="Graph of f(x) = x^3 - 3x + 1 and the line g(x) = 2 - x. The curve has zeros at -1.88, 0.347 and 1.53, a maximum at (-1, 3) and a minimum at (1, -1). The line meets it at (-1, 3), (-0.618, 2.62) and (1.62, 0.382)." loading="lazy">
+  <figcaption>The zeros, turning points and intersections a GDC gives, written to 3 significant figures.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -186,6 +220,12 @@ Paper 1 allows no technology; Paper 2 requires it. With a GDC, find zeros, maxim
 11. (x + 5)(x − 3) ≤ 0: **−5 ≤ x ≤ 3**
 12. **(x − 5)² − 7**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--07-discriminant-cases.webp" width="900" height="1010" alt="Three parabolas y = x^2 - 4x + c. For c = 3 the discriminant is 4 and the curve crosses the x-axis at 1 and 3. For c = 4 it is 0 and the curve touches the axis at 2. For c = 5 it is -4 and the curve stays above the axis." loading="lazy">
+  <figcaption>Delta &gt; 0, = 0 and &lt; 0 mean two, one repeated and no real roots.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving a perpendicular line the same gradient, or using the reciprocal without changing the sign.
@@ -198,6 +238,12 @@ Paper 1 allows no technology; Paper 2 requires it. With a GDC, find zeros, maxim
 - Writing the vertex of a(x + h)² + k as (h, k) instead of (−h, k).
 - Giving the region between the roots of a quadratic inequality when the sketch shows it is outside them (or the reverse).
 - Forgetting that k making the x² coefficient zero turns the quadratic into a linear equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--09-quadratic-inequality.webp" width="900" height="890" alt="Graph of y = (x - 4)(x + 3) with roots -3 and 4. The curve is above the x-axis for x &lt; -3 and x &gt; 4; those parts of the axis are highlighted with open circles at -3 and 4." loading="lazy">
+  <figcaption>An upward parabola is above the axis outside its roots, so x &lt; -3 or x &gt; 4.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -67,6 +67,17 @@ Worked reminder: a 1000 kg van slows from 20 to 12 m s⁻¹ over 80 m on a level
 R = 1600 N
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--03-work-energy-slope.webp" width="900" height="870" alt="All boards. 12 kg crate, 90 N pull, 25 N resistance, 15 m up 20°: 1350 J of work becomes 603.3 J PE, 371.7 J KE and 375 J lost to resistance, v = 7.87 m/s." loading="lazy">
+  <figcaption>The work done by the driving force is shared between PE, KE and work against resistance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--04-energy-along-motion.webp" width="900" height="890" alt="All boards. 0.8 kg slides down a smooth 2.5 m drop (energy conserved, 7 m/s), then 4 N resistance removes 19.6 J over 4.9 m." loading="lazy">
+  <figcaption>Mechanical energy is conserved on a smooth slide and removed steadily by a constant resistance.</figcaption>
+</figure>
+
+
 ## Conservation of mechanical energy
 
 If only gravity (and forces that do no work, such as a normal reaction from a smooth surface) act:
@@ -85,6 +96,12 @@ Worked reminder: a bead slides from rest down a smooth wire, dropping 1.8 m.
 v² = 2 × 9.8 × 1.8 = 35.28       v = 5.94 m s⁻¹ (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--07-direct-impact.webp" width="900" height="930" alt="Edexcel IAL only. 2 kg at 5 m/s hits 3 kg at 1 m/s with e = 0.6: speeds 1.16 and 3.56 m/s, KE 26.5 J to 20.356 J." loading="lazy">
+  <figcaption>Use conservation of momentum and the restitution law together; kinetic energy is lost when e &lt; 1.</figcaption>
+</figure>
+
+
 ## Power
 
 - Power is the rate of doing work. 1 W = 1 J s⁻¹. 1 kW = 1000 W.
@@ -96,6 +113,22 @@ v² = 2 × 9.8 × 1.8 = 35.28       v = 5.94 m s⁻¹ (3 s.f.)
 Method for vehicle problems: 1) convert P to watts; 2) write F = P/v; 3) write the equation of motion along the road; 4) solve for a, v or R.
 
 Worked reminder: a van of mass 1500 kg has power 45 kW and resistance 1000 N. Its maximum speed on level ground is 45000/1000 = 45 m s⁻¹. At 20 m s⁻¹ the driving force is 45000/20 = 2250 N, so a = (2250 − 1000)/1500 = 0.833 m s⁻² (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--01-work-component.webp" width="900" height="740" alt="All boards. Force 40 N at 35° moves a trolley 12 m: components 32.8 N and 22.9 N, work 40×12×cos 35° = 393 J (OxfordAQA example 1)." loading="lazy">
+  <figcaption>Only the component of the force along the motion does work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--02-sign-of-work.webp" width="900" height="860" alt="All boards (OxfordAQA lesson table). Force at 0°, 90° and 180° to the motion gives work +Fd, 0 and −Fd." loading="lazy">
+  <figcaption>Work is positive along the motion, zero at right angles and negative against it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--05-power-force-speed.webp" width="900" height="1010" alt="All boards. Car 900 kg, 24 kW, resistance 600 N, sin α = 1/20: F = P/v meets the needed 1041 N at 23.1 m/s; at 15 m/s F = 1600 N and a = 0.621 m/s²." loading="lazy">
+  <figcaption>A faster car has less driving force, and steady speed is where P/v equals the force needed.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

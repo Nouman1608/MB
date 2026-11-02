@@ -73,6 +73,22 @@ So f(x) = (x − 2)(2x − 1)(x + 3). Check: f(1/2) = 1/4 + 1/4 − 13/2 + 6 = 0
 
 The specification allows any valid method for the remaining factors, including inspection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--01-factor-theorem-graph.webp" width="900" height="1020" alt="Graph of f(x) = x cubed minus 4x squared minus 7x + 10 crossing the x-axis at minus 2, 1 and 5. Each root is marked and labelled with its linear factor (x + 2), (x - 1), (x - 5). A zero of the function corresponds to a linear factor." loading="lazy">
+  <figcaption>A root of f is where the graph meets the x-axis, and it gives a linear factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--02-remainder-is-fa.webp" width="900" height="990" alt="Two cubics are drawn: f(x) = 3x^3 + 2x^2 - 7x + 4 and (x - 2)(3x^2 + 8x + 9), which always sit 22 apart. At x = 2 the gap is marked as 22, equal to f(2), the remainder when f is divided by (x - 2)." loading="lazy">
+  <figcaption>Dividing by (x - 2) leaves a remainder equal to the height f(2); the quotient part is the same curve lowered by that amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--04-cubic-factor-shapes.webp" width="900" height="1160" alt="Three cubic graphs with positive x^3 term. Three distinct factors cross the axis three times, a repeated factor touches the axis, and a quadratic factor with negative discriminant gives only one crossing." loading="lazy">
+  <figcaption>Distinct, repeated and irreducible quadratic factors give crossing three times, touching, or crossing once.</figcaption>
+</figure>
+
+
 ## 3. Algebraic division and the remainder (1.02k, A Level only)
 
 Dividing f(x) by (ax − b) gives a quotient and a remainder:
@@ -102,6 +118,12 @@ p(1/2) = 2/8 + 2/4 − 5/2 + 4 = 9/4
 
 The remainder on division by (2x − 1) is 9/4. Substitute the root of the divisor, not the number in the bracket.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--03-division-columns.webp" width="900" height="938" alt="Long division of 6x^3 + x^2 - 7x + 6 by (3x - 1) laid out in columns. The quotient 2x^2 + x - 2 is built one term at a time and the leftover 4 equals f(1/3)." loading="lazy">
+  <figcaption>Each quotient term is multiplied by the divisor and subtracted until only the remainder is left.</figcaption>
+</figure>
+
+
 ## 4. Solving polynomial equations of degree 4 or less (1.02k, A Level only)
 
 Find one factor with the factor theorem, divide, and repeat on the quotient until you reach a quadratic.
@@ -116,6 +138,12 @@ g(x) = (x − 2)(x² + x − 6) = (x − 2)(x − 2)(x + 3)
 ```
 
 So f(x) = (x − 2)³(x + 3). The solutions are x = 2 (a repeated root) and x = −3. Test a value again on the quotient before moving on, because a root can repeat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--05-quartic-repeated-root.webp" width="900" height="985" alt="Graph of x^4 - 3x^3 - 6x^2 + 28x - 24. It crosses the axis at x = -3 and flattens as it crosses at x = 2, which is a root three times, so f(x) = (x - 2)^3 (x + 3)." loading="lazy">
+  <figcaption>A repeated root makes the curve flatten at the axis; the factor theorem is applied again to each quotient.</figcaption>
+</figure>
+
 
 ## 5. Rational expressions (1.02k, A Level only)
 
@@ -153,6 +181,12 @@ The original expression is undefined at x = 2 and x = −2, so the simplified fo
 Dividing gives quotient x² + x − 2 and remainder 1, because (x − 3)(x² + x − 2) = x³ − 2x² − 5x + 6. The check is f(3) = 27 − 18 − 15 + 7 = 1. So
 
 (x³ − 2x² − 5x + 7)/(x − 3) = x² + x − 2 + 1/(x − 3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--07-rational-divide-first.webp" width="900" height="940" alt="Graph of (x^3 - 2x^2 - 5x + 7)/(x - 3) with a vertical asymptote at x = 3 and the dashed parabola y = x^2 + x - 2. The function equals this quotient plus 1/(x - 3), so it follows the parabola far from the asymptote." loading="lazy">
+  <figcaption>After division, the polynomial part shows the long-run shape and the fraction part gives the asymptote.</figcaption>
+</figure>
+
 
 ## 6. Partial fractions (1.02y, A Level only)
 
@@ -196,6 +230,12 @@ Result: 2 − 4/(x + 1) + 5/(x + 2). The specification states numerators are con
 **Use 1: integration.** ∫ (10x − 5)/[(x + 1)(2x − 3)] dx = ∫ 3/(x + 1) + 4/(2x − 3) dx = 3 ln|x + 1| + 2 ln|2x − 3| + c.
 
 **Use 2: binomial series.** Take 1/[(1 − x)(1 + 2x)] = (1/3)/(1 − x) + (2/3)/(1 + 2x). Expand each fraction as a series: (1/3)(1 + x + x²) + (2/3)(1 − 2x + 4x²) = 1 − x + 3x² + …, valid for |x| < 1/2, the narrower of the two ranges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--08-partial-fractions-sum.webp" width="900" height="880" alt="Three curves: (10x - 5)/((x + 1)(2x - 3)), 3/(x + 1) and 4/(2x - 3). Each part has one vertical asymptote, and adding the two parts point by point gives the combined curve." loading="lazy">
+  <figcaption>A fraction with two linear factors is the sum of two simpler fractions, one per asymptote.</figcaption>
+</figure>
+
 
 ## 7. Functions in modelling (1.02z, A Level only)
 

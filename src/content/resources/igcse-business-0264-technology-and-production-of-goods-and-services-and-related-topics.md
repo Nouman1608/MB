@@ -48,6 +48,12 @@ Production once relied mainly on people using hand tools. Technology has changed
 
 The difference is in how much a person is involved. A worker feeding timber into a powered saw is mechanisation. A line where a computer decides what to cut, moves the pieces and checks them is automation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--01-mechanisation-vs-automation.webp" width="900" height="920" alt="Two panels. Mechanisation: a person feeds timber into a powered saw, so human input is high. Automation: a computer wired to a saw and a camera check along a conveyor, with the person only supervising, so human input is low." loading="lazy">
+  <figcaption>Mechanisation needs a person to operate the machine; automation runs once set up.</figcaption>
+</figure>
+
+
 ### Computer-Aided Manufacture (CAM)
 
 **Computer-Aided Manufacture (CAM)** uses computers to control machines and equipment in the making of a product. A design is turned into instructions, and the machine follows them exactly each time.
@@ -67,6 +73,12 @@ Why this matters for a business:
 
 Each worker is paid £480 a week, so the weekly wage bill is 12 × £480 = £5,760. Wage cost per chair falls from £5,760 ÷ 240 = **£24.00** to £5,760 ÷ 330 = **£17.45** (to the nearest penny). That is a clear gain, but the question for the owner is whether the saving is enough to justify the cost of the machines. Application means using the numbers like this, not just naming CAM.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--08-cam-productivity.webp" width="900" height="800" alt="Chairs per worker rise from 20 to 27.5 a week (+37.5%) and wage cost per chair falls from £24.00 to £17.45 (about −27%)." loading="lazy">
+  <figcaption>Higher productivity lowers the labour cost of each unit.</figcaption>
+</figure>
+
+
 ### 3D printing
 
 **3D printing** builds an object layer by layer from a digital design. It is a form of technology-led production that suits one-off items and small runs, because it needs no special mould or tool for each new design.
@@ -78,6 +90,12 @@ Each worker is paid £480 a week, so the weekly wage bill is 12 × £480 = £5,7
 - Saving: £6,000 − £4,675 = **£1,325**.
 
 The printer pays for itself quickly if Ludwick makes four or more prototypes (the printer's fixed outlay of £4,500 is spread over more items, and each extra prototype costs only £35 rather than £1,200). Time may also fall: if the printer makes a prototype in days rather than the weeks an outside supplier needs, a design can be changed and tested sooner. The limits are that 3D printing may be slow for large quantities, and the range of materials and the size of items can be restricted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--07-printer-vs-supplier.webp" width="900" height="850" alt="Total cost against prototypes made: outside supplier £1,200 each; own printer £4,500 plus £35 each. The printer is cheaper from 4 prototypes; at 5 it saves £1,325." loading="lazy">
+  <figcaption>A fixed outlay is spread over more items, so the printer wins above 3.86 prototypes.</figcaption>
+</figure>
+
 
 ### Technology in the service sector
 
@@ -91,6 +109,12 @@ Technology does not only change factories. Services also use it to raise **produ
 
 These are the most the till could handle if customers were queueing without a break, so real figures are lower. The point is that shorter transactions let the same member of staff serve more people. Other service-sector examples are online booking, self-service tills, and mobile banking. Benefits: faster service, fewer errors, lower labour cost per customer and 24-hour availability. Problems: system failures, security risks such as fraud, and customers who are not comfortable with the technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--09-contactless-throughput.webp" width="900" height="770" alt="In two minutes one till serves 3 customers at 40 seconds each (90 an hour) or 8 at 15 seconds each (240 an hour): 150 more an hour, about 167%." loading="lazy">
+  <figcaption>Shorter transactions let the same member of staff serve more people.</figcaption>
+</figure>
+
+
 ## Advantages and disadvantages of technology
 
 The syllabus asks about both **businesses** and **employees**. Keep the two groups separate in your answer.
@@ -101,6 +125,12 @@ The syllabus asks about both **businesses** and **employees**. Keep the two grou
 | Employees | Less heavy, dull or dangerous work; chances to learn new skills; possibly higher pay for skilled technical roles | Some jobs disappear; need to retrain; fear of redundancy; work may become repetitive or machine-paced |
 
 Notice that one change can appear in both columns. Cutting machines raise output (a business gain) and may replace workers (an employee loss). In a case study, decide which effect matters most for the business described. A small firm with little cash may find the cost the main issue. A firm struggling to hire skilled staff may value automation more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--02-technology-gains-and-losses.webp" width="900" height="950" alt="Grid of advantages and disadvantages for businesses and for employees, with a note that one change can appear in both columns." loading="lazy">
+  <figcaption>Advantages and disadvantages of technology, kept separate for businesses and employees.</figcaption>
+</figure>
+
 
 ## 4.3.1 Sustainable production of goods and services
 
@@ -133,6 +163,32 @@ Corrimar also installs solar panels costing £30,000, which cut its electricity 
 | Can motivate employees who want to work for a responsible firm | Competitors with cheaper methods may win price-sensitive customers |
 
 In Corrimar's case, the wastage saving and the solar panels reduce costs, while the new wrapper adds £1,000. A good answer weighs these together. It also considers the long term: the panels run for years after the five-year recovery period, so the gain continues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--10-solar-payback.webp" width="900" height="780" alt="Cumulative savings of £6,000 a year reach the £30,000 panel cost in year 5." loading="lazy">
+  <figcaption>Payback time = cost ÷ yearly saving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--03-six-ways-sustainable.webp" width="900" height="1024" alt="Six icon tiles name the six syllabus ways to be more sustainable. Two panels contrast reusing (the same bottle used again) with recycling (a can broken down and made into something new)." loading="lazy">
+  <figcaption>Six ways to be more sustainable, and how reusing differs from recycling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--04-corrimar-waste-wrapper.webp" width="900" height="1046" alt="Bars to scale for 40 tonnes: waste falls from 4.8 t (12%) to 2.8 t (7%), saving 2.0 t worth 1,800 pounds a year. The wrapper change adds 1,000 pounds a year. Net of these two changes is 800 pounds a year." loading="lazy">
+  <figcaption>Waste saving of 1,800 against a wrapper cost of 1,000 a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--05-sustainability-gains-costs.webp" width="900" height="750" alt="Advantages and disadvantages of sustainability for a business, with a timeline arrow from cost now to savings later." loading="lazy">
+  <figcaption>Sustainability often costs first and saves later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
 
 ## Common errors
 

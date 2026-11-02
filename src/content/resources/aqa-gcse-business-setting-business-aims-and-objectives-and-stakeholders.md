@@ -65,6 +65,12 @@ market share (%) = (business sales / total market sales) x 100
 
 This is the standard form; the specification names market share as an objective and does not print a formula.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--01-seven-objectives.webp" width="900" height="732" alt="Eight picture cards show the main objectives: survival, profit maximisation, domestic growth, international growth, market share, customer satisfaction, social and ethical, and shareholder value. Each has a short example of what it means." loading="lazy">
+  <figcaption>The main objectives at a glance, with growth split into home and abroad.</figcaption>
+</figure>
+
+
 ### Worked example: market share and growth
 
 Kettlebrook Candles sells £1,800,000 of candles a year in a market worth £24,000,000.
@@ -76,6 +82,12 @@ Kettlebrook Candles sells £1,800,000 of candles a year in a market worth £24,0
 
 Notice that sales could rise by 20% (to £2,160,000) and market share would still be only 2,160,000 / 27,000,000 x 100 = 8.0%. A business can grow in sales and still lose ground if the market grows faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--04-market-share-trap.webp" width="900" height="990" alt="Bar chart of market share: 7.5% today, 8.0% if sales rise 20% in a market that has grown to 27 million pounds, and the 10% target. The market also grew, so a 20% sales rise falls short." loading="lazy">
+  <figcaption>A rise in sales does not guarantee the target market share if the market grows too.</figcaption>
+</figure>
+
+
 ### Worked example: shareholder value
 
 Fairholm Cycles is a private limited company with 400,000 shares. Profit after tax is £240,000 and the directors decide to pay half of it out as dividends.
@@ -85,6 +97,17 @@ Fairholm Cycles is a private limited company with 400,000 shares. Profit after t
 3. A shareholder with 100,000 shares (25%) receives 100,000 x 0.30 = **£30,000**.
 
 If the share price rose from £2.40 to £2.76, the increase is 0.36 / 2.40 x 100 = **15%**. Both the dividend and the rise in the share price add to shareholder value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-aim-or-objective.webp" width="900" height="990" alt="A staircase rises to a flag labelled aim. The aim is the long-term goal of being the best-known bakery in town; an objective is a specific target on the way, such as 500 regular customers in a year." loading="lazy">
+  <figcaption>An aim is the direction; an objective is a specific target on the way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--06-shareholder-value.webp" width="900" height="930" alt="Half of 240,000 pounds profit is paid as a 120,000 pound dividend, 30p on each of 400,000 shares; a 25% holder gets 30,000 pounds. A share price rise from 2.40 to 2.76 pounds is 15%." loading="lazy">
+  <figcaption>Dividends and a rising share price both add to shareholder value.</figcaption>
+</figure>
+
 
 ## Purpose and role of objectives
 
@@ -96,6 +119,12 @@ Objectives are not decoration in a business plan. They do real work:
 - **Judging success.** After a period, the business compares results with objectives. Missing a target prompts a change of plan; beating it may justify setting a higher one.
 - **Other parties.** Lenders and investors read objectives to judge whether the business is worth backing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--04-purpose-of-objectives.webp" width="900" height="880" alt="A central hub of business objectives points to four jobs: direction, decision making, motivation and judging success, each with a one-line meaning." loading="lazy">
+  <figcaption>Objectives give direction, guide decisions, motivate staff and set the yardstick for success.</figcaption>
+</figure>
+
+
 ## Why objectives differ between businesses
 
 The specification names three reasons (the list begins "reasons include"). Use them as a checklist in case studies.
@@ -103,6 +132,12 @@ The specification names three reasons (the list begins "reasons include"). Use t
 1. **Size.** A small business often has survival or a steady income for the owner as its main concern. A large business can afford to aim at being the dominant business in the market.
 2. **Level of competition.** In a crowded market a business may focus on customer satisfaction or market share to avoid being squeezed out. With little competition, profit maximisation is easier to pursue.
 3. **Type of business.** **Not-for-profit organisations**, such as charities, put their social objectives first. They still need to cover costs to survive, but they measure success by what they achieve for the people they serve, not by profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--02-why-objectives-differ.webp" width="900" height="1010" alt="Three rows compare two cases each. Small and large businesses, crowded and uncontested markets, and for-profit and not-for-profit organisations are shown with the objectives each is likely to prioritise." loading="lazy">
+  <figcaption>Size, competition and type of business all change which objective comes first.</figcaption>
+</figure>
+
 
 ## Why objectives change as a business evolves
 
@@ -119,6 +154,17 @@ A business may also change objectives after a shock such as a new competitor, a 
 ### Success beyond profit
 
 The specification states that success can be measured in other ways than profit. Examples: market share, number of customers, customer satisfaction scores, number of new products launched, staff turnover, carbon emissions cut, or money raised for a good cause. A business that makes less profit this year but wins a larger share of the market may be succeeding against its own objective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -155,6 +201,22 @@ Worked example. Piperhill Bakery has four employees on £11.20 an hour. The owne
 The rise would help employees but cut the money available for the oven. The owner must weigh higher costs against the risk that unhappy staff leave. Conflict can also arise between customers (lower prices) and owners (higher profit), or between the community (less noise) and a business that wants longer opening hours.
 
 How a business may respond: compromise, rank the groups by importance and power, consult stakeholders, or explain the reasons for a decision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--05-pay-rise-conflict.webp" width="900" height="1000" alt="Employees and the owner pull in opposite directions. A 5% rise from 11.20 to 11.76 an hour costs 873.60 pounds per worker a year and 3,494.40 pounds for four workers, money not available for the oven." loading="lazy">
+  <figcaption>A pay rise helps employees but reduces money available to the owner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-stakeholder-wants-impact.webp" width="900" height="980" alt="Five cards, one per stakeholder group, each list what the group wants, how it can gain from the business and how it can suffer. Groups are owners, employees, customers, local community and suppliers." loading="lazy">
+  <figcaption>What each stakeholder wants and how business activity affects them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
 
 ## Common errors
 

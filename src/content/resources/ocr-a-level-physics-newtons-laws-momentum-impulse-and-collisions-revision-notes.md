@@ -33,6 +33,12 @@ These notes condense section 3.5 of the OCR A Level Physics A (H556) specificati
 - **Perfectly elastic collision (3.5.2(c)):** total kinetic energy is unchanged.
 - **Inelastic collision (3.5.2(c)):** total kinetic energy decreases; momentum is still conserved in a closed system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--08-collision-2d.webp" width="900" height="1110" alt="A 0.16 kg puck at 5.0 m s-1 hits a stationary 0.24 kg puck. The first leaves at 3.0 m s-1 at 35 degrees; the second leaves at 2.0 m s-1 at 34 degrees on the other side. A to-scale momentum triangle closes on the original 0.80 kg m s-1. Kinetic energy falls from 2.0 J to 1.22 J, so it is inelastic." loading="lazy">
+  <figcaption>Momentum is conserved on each axis, so the two final momenta add as vectors to the initial momentum.</figcaption>
+</figure>
+
+
 ## Formulae and units
 
 | Quantity | Equation | Unit |
@@ -52,6 +58,12 @@ Why F = ma is a special case: for constant mass, Δp = mΔv, so F = mΔv/Δt = m
 A genuine pair has all of these. The forces are the same type. They are equal in magnitude. They are opposite in direction. They act on different bodies.
 
 The weight of a stationary book and the push of the table are **not** a pair, because they act on one body and differ in type. The partner of the weight is the equal upward gravitational pull the book exerts on the Earth. Always name both bodies when you state a pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -101,6 +113,17 @@ Loss = **5400 J**, so the collision is inelastic.
 - **Third-law pair versus balanced forces:** the members of a pair act on separate bodies, whereas balanced forces share one body.
 - **Exact versus estimated area:** straight-line graphs give an exact area; curves give an estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
+  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. A 0.25 kg ball moving at 14 m s⁻¹ rebounds along the same line at 6.0 m s⁻¹. Find the magnitude of its change in momentum.
@@ -126,6 +149,12 @@ Loss = **5400 J**, so the collision is inelastic.
 8. F = ma: a = 24 ÷ 6.0 = 4.0 m s⁻², F = 1100 × 4.0 = 4400 N. F = Δp/Δt: (1100 × 24) ÷ 6.0 = 4400 N. Both give **4400 N**, because the mass is constant.
 9. They act on the same body, and they are different types of force (gravitational and contact).
 10. Momentum and total energy are conserved; **kinetic energy is not**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -62,6 +62,22 @@ Small reminder: Ixworth Cycles has a £50,000 variable-rate loan. The rate rises
 
 Sharia compliant alternatives: say what they avoid (interest), name one structure (leasing, profit share or an agreed-price sale), and say that the business may be less exposed to a rate change (our own reasoning, not a specification statement) but still has payments to make.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--05-sharia-finance.webp" width="900" height="1010" alt="Three rows: a lease (financier buys the asset and leases it for an agreed payment), a profit share (financier takes a share of results instead of interest), and an instalment sale (financier buys goods and sells them at an agreed price paid in instalments). A banner says the business may be less exposed to rate changes." loading="lazy">
+  <figcaption>Three general interest-free finance structures, which may leave a business less exposed to rate changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--05-bellmoor-rate-rise.webp" width="900" height="940" alt="Stacked bars of 30,000 profit before interest. Before: loan interest 7,200, overdraft 1,400, profit 21,400. After: 9,600, 1,600 and 18,800. Profit falls 2,600, which is 12.1%." loading="lazy">
+  <figcaption>Extra interest of 2,600 cuts profit after interest from 21,400 to 18,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+
 ## Employment: cause and effect
 
 | Employment | Demand | Recruitment and pay | Likely winners |
@@ -71,6 +87,12 @@ Sharia compliant alternatives: say what they avoid (interest), name one structur
 
 Always add one sentence on the business type. A recruitment agency is affected differently from a restaurant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--02-employment-effects.webp" width="900" height="1030" alt="High versus low employment compared on demand, recruitment and costs, each with a person icon and an arrow showing the direction of the effect." loading="lazy">
+  <figcaption>High and low employment change demand, recruitment difficulty and labour costs in opposite directions.</figcaption>
+</figure>
+
+
 ## Consumer spending and incomes
 
 - Income up: more spending, especially on products people can postpone. A business may need more stock, staff and space.
@@ -78,6 +100,12 @@ Always add one sentence on the business type. A recruitment agency is affected d
 - A mixed range spreads the risk. A single-product business is exposed.
 
 Small reminder: sales of 2,000 units at £12 give £24,000. A 25% fall in volume leaves £18,000, a fall of £6,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--01-consumer-spending-fordhaven.webp" width="900" height="950" alt="Two bar pairs: school shoes revenue falls from 25,000 to 24,500 pounds (sales -2%); designer trainers from 36,000 to 30,600 pounds (sales -15%). Total falls from 61,000 to 55,100 (-9.7%) and trainers lose 5,400 of the 5,900." loading="lazy">
+  <figcaption>Luxuries that can be postponed lose far more revenue than necessities when incomes fall.</figcaption>
+</figure>
+
 
 ## Forms of globalisation
 
@@ -88,6 +116,27 @@ Small reminder: sales of 2,000 units at £12 give £24,000. A 25% fall in volume
 | Movement of labour | Wider choice of staff; skills may leave a country |
 | Larger markets | More customers, scope for economies of scale |
 | International competition | Pressure on prices and market share |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--03-globalisation-forms.webp" width="900" height="940" alt="Five rows with icons: specialisation by country, relative cost advantage, movement of labour, larger markets and international competition, each with a short meaning." loading="lazy">
+  <figcaption>The five named forms of globalisation, each with its meaning at a glance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
 
 ## Benefits and drawbacks grid
 
@@ -100,6 +149,12 @@ Small reminder: sales of 2,000 units at £12 give £24,000. A 25% fall in volume
 
 Method: pick one box, name a benefit or drawback, add "so" twice to show the chain, then say how big it is for the business in the stem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--06-globalisation-gains-losses.webp" width="900" height="950" alt="Grid of benefits and drawbacks for businesses and economies in developed and developing countries, taken from the lesson table." loading="lazy">
+  <figcaption>Keep the four boxes apart and explain one chain.</figcaption>
+</figure>
+
+
 ## Exchange rates: the direction table
 
 | Home currency | Exporter | Importer |
@@ -110,6 +165,17 @@ Method: pick one box, name a benefit or drawback, add "so" twice to show the cha
 A firm that does both imports and exports has two effects pulling against each other. Weigh them: which is larger depends on how much of its cost is imported and how responsive its overseas buyers are to price.
 
 Severe fluctuations: unpredictable costs, difficulty setting prices, uncertain profit, harder investment decisions. Responses: agree prices in advance, use home suppliers, sell in several countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--04-pellanor-weak-currency.webp" width="900" height="1070" alt="Wood per chair rises from 40 to 44 pounds so profit per chair falls from 40 to 36. Yearly profit bars: 80,000 before; 64,800 at 1,800 chairs; 72,000 at 2,000; 79,200 at 2,200, so even 10% more sales leaves profit just below 80,000." loading="lazy">
+  <figcaption>A weaker home currency raises imported input costs, and extra sales may not make up the lost profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--07-severe-fluctuations.webp" width="900" height="970" alt="Two line charts of the cost of an imported order from order to payment in week 4, against sale value 8,600. Steady: cost 8,030, profit 570. Severe: cost 9,300, loss 700." loading="lazy">
+  <figcaption>Large unpredictable exchange-rate moves can wipe out a planned margin.</figcaption>
+</figure>
+
 
 ## Routine for a longer answer
 

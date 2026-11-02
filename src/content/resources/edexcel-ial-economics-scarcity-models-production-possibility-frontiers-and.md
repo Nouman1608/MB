@@ -48,6 +48,12 @@ Ceteris paribus means "all other things being equal". To see the effect of one v
 
 **Worked example (illustrative).** A small bakery in Town X cuts the price of a roll by 10% (from 2.00 to 1.80). Weekly sales rise 12% (from 500 to 560). That week a rival bakery was shut for repairs, so the 12% cannot be put down to the price cut alone. The ceteris paribus statement is: "a fall in price raises quantity demanded, other things equal". To test it, compare weeks when the rival was open.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--01-ceteris-paribus-bakery.webp" width="900" height="860" alt="A bakery cuts the roll price 10% from 2.00 to 1.80 and weekly sales rise 12% from 500 to 560. A rival bakery was shut that week, so other things were not equal and the 12% cannot all be credited to the price cut." loading="lazy">
+  <figcaption>Ceteris paribus: with a rival shut, the 12% rise is not all due to the price cut.</figcaption>
+</figure>
+
+
 ## 2 Positive and normative economics
 
 A positive statement can be tested against evidence. It may be true or false. A normative statement, or value judgement, says what ought to be and depends on opinion.
@@ -59,6 +65,12 @@ A positive statement can be tested against evidence. It may be true or false. A 
 | The government should cut income tax to reduce unemployment | Normative | "Should" signals a value judgement |
 
 **Role of value judgements.** Evidence alone never settles policy. Choosing between higher growth and lower pollution, or between lower taxes and better public services, needs a view on whose interests count and how much. Governments, voters and economists all use value judgements to set objectives and weigh trade-offs. Good writing shows which conclusions follow from the evidence and which depend on the judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## 3 Scarcity
 
@@ -77,6 +89,32 @@ A positive statement can be tested against evidence. It may be true or false. A 
 **Worked example (illustrative).** In one oven-hour, a small bakery can make either 40 loaves or 60 pastries. The opportunity cost of one loaf is 60/40 = 1.5 pastries. The opportunity cost of one pastry is 40/60 = 2/3 of a loaf.
 
 **Free goods and economic goods.** A free good has no opportunity cost in using it. There is enough to satisfy all wants at zero price, such as sunlight or air on a remote hillside. An economic good is scarce, uses resources and has an opportunity cost, so it normally carries a price. Do not confuse "free to the user" with "free good". A public park with no entry fee is paid for through taxes. Its land and labour could have been used elsewhere, so it is an economic good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--02-renewable-vs-non-renewable.webp" width="900" height="900" alt="Stock against time with illustrative numbers. If use equals regrowth a renewable stock stays level; if use exceeds regrowth it shrinks; a non-renewable stock has no regrowth and runs out fastest." loading="lazy">
+  <figcaption>Renewable stocks can last if use does not exceed regrowth; non-renewable stocks are used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
 
 ## 4 Production possibility frontiers
 
@@ -118,6 +156,22 @@ Moving from F to C is not growth. It is better use of existing resources.
 
 **Limits of the model.** It uses two goods, assumes fixed resources and technology, and ignores distribution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--08-ppf-country-a.webp" width="900" height="970" alt="Frontier through A to E from the lesson table, with F inside and an unattainable point outside. Opportunity cost rises from 2.4 to 6 consumer goods per capital good." loading="lazy">
+  <figcaption>Rising opportunity cost bows the frontier outwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--09-ppf-invest-now-grow-later.webp" width="900" height="850" alt="Country A gives up 36 consumer goods now for a frontier 20% higher (max 120); Country B gives up 4 for a frontier 5% higher (105)." loading="lazy">
+  <figcaption>Investment costs consumption now for potential later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--05-ppf-shift-causes.webp" width="900" height="980" alt="Country A frontier shown with an outward shift (growth) and an inward shift (decline), both scaled by 20% for illustration, with the causes of each listed." loading="lazy">
+  <figcaption>Outward shifts come from more or better resources and technology; inward shifts from destruction or loss.</figcaption>
+</figure>
+
+
 ## 5 Specialisation, money and financial markets
 
 **Specialisation** means a worker, firm or region concentrates on a narrow range of tasks. The **division of labour** breaks a job into stages and gives each stage to a different person.
@@ -145,6 +199,17 @@ Together these make specialisation workable: workers sell output for money and b
 - **Facilitate exchange** of goods and services through payment systems and credit.
 - **Provide forward markets** in commodities and currencies. A bakery agrees today to buy 30 tonnes of flour in three months at 420 a tonne. If the spot price turns out to be 465, it saves (465 − 420) × 30 = 1,350. If it is 390, it pays 900 more than spot, but it had certainty.
 - **Provide a market for equities.** An investor buys 200 shares at 15 (3,000). A dividend of 0.60 a share pays 120, a 4% yield. If the price rises to 18, the capital gain is 600, or 20%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--03-barter-45-vs-10.webp" width="900" height="750" alt="Ten goods as dots. Barter needs a rate for every pair, 45 lines. Money needs one price per good, 10 lines to a central money point." loading="lazy">
+  <figcaption>10 goods need 10 x 9 / 2 = 45 barter rates but only 10 money prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--04-forward-and-equity.webp" width="900" height="730" alt="A bakery agrees to buy 30 tonnes of flour at 420. Spot 465 saves 1,350; spot 390 costs 900 more but gave certainty. 200 shares at 15 cost 3,000; dividend 0.60 pays 120 (4%); a rise to 18 gains 600 (20%)." loading="lazy">
+  <figcaption>Forward contracts give price certainty; equities pay a dividend and a possible capital gain.</figcaption>
+</figure>
+
 
 ## 6 Free market, mixed and command economies
 

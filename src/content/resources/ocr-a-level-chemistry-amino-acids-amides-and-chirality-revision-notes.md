@@ -43,6 +43,12 @@ Use the [OCR chemistry hub](/boards/ocr/a-level/chemistry/) for other topics and
 - **Chiral centre:** a carbon atom carrying four different atoms or groups.
 - **Optical isomers:** a pair of non-superimposable mirror images about a chiral centre (enantiomers).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+
 ## Amino acid reactions at a glance
 
 | Group | Reagent | Conditions | What forms | General equation |
@@ -72,6 +78,22 @@ Alanine is CH₃CH(NH₂)COOH, M = 89.0 g mol⁻¹. For 0.890 g:
 ### Naming esters of amino acids
 
 Alcohol part first, then the acid with "-oate". Ethanol + alanine → **ethyl 2-aminopropanoate**, CH₃CH(NH₂)COOCH₂CH₃ (M = 117.0 g mol⁻¹). In the acidic mixture the NH₂ may be protonated, but write the ester with NH₂ when asked for the ester.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
 
 ## Amides: spot and classify
 
@@ -133,6 +155,17 @@ Compare **whole** groups, not just the atom attached. CH₂CH₃ and CH₂CH₂C
 - **2-methylhexanoic acid**, CH₃(CH₂)₃C\*H(CH₃)COOH: C2 has H, CH₃, C₄H₉, COOH → **1**.
 - **2,4-dichloropentane**, CH₃C\*HClCH₂C\*HClCH₃: C2 and C4 each have H, Cl, CH₃ and the rest of the chain → **2**.
 - **4-methylcyclohexan-1-ol**: the two ring paths from C1 are identical, and C4 also sits on a symmetrical ring → **0**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

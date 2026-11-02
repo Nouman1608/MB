@@ -76,6 +76,12 @@ FeS:     Fe and S chemically bonded; fixed ratio 1 : 1; new properties;
          iron recovered only by a chemical reaction
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--04-iron-sulfur-mixture-compound.webp" width="900" height="940" alt="A mixture of iron and sulfur atoms, not bonded and in any ratio, has its iron pulled out by a magnet. After strong heating the atoms form iron(II) sulfide, FeS, each iron bonded to one sulfur in a fixed 1 to 1 ratio, and the magnet lifts nothing." loading="lazy">
+  <figcaption>A magnet separates iron from a mixture with sulfur, but not from the compound iron(II) sulfide.</figcaption>
+</figure>
+
+
 ### Worked example 2: classifying substances
 
 Classify each substance as an element, a compound or a mixture: argon, carbon dioxide, air, sea water, nitrogen gas, sodium chloride.
@@ -87,6 +93,12 @@ mixtures:  air; sea water - substances not bonded, composition varies
 ```
 
 In a particle diagram, look at each separate particle. If every particle is identical and contains one kind of atom, it is an element. If every particle is identical but contains more than one kind of atom, it is a compound. If there is more than one kind of particle, it is a mixture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+
 
 ## 2.2 Atomic structure and the Periodic Table
 
@@ -101,6 +113,12 @@ An atom has a tiny central **nucleus** containing **protons** and **neutrons**. 
 | electron | shells | −1 | 1/1840 (negligible) |
 
 The electron's mass is roughly 1/1840 of a proton's, which is why it is usually called negligible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
 
 ### Proton number and mass number
 
@@ -118,6 +136,17 @@ electrons = proton number   (for a neutral atom)
 electrons = proton number − charge   (for an ion)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--02-counting-ion-particles.webp" width="900" height="920" alt="Bars for protons, neutrons and electrons: Al 13, 14, 13; Al3+ 13, 14, 10; S2- 16, 16, 18; Ca2+ 20, 20, 18. Only the electron count changes when an ion forms." loading="lazy">
+  <figcaption>Forming an ion changes only the number of electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+
 ### Worked example 3: counting particles in atoms and ions
 
 Complete the table for an aluminium atom (proton number 13, mass number 27), an aluminium ion Al³⁺, a sulfide ion S²⁻ (proton number 16, mass number 32) and a calcium ion Ca²⁺ (proton number 20, mass number 40).
@@ -131,6 +160,12 @@ Ca2+       20        40 − 20 = 20    20 − 2 = 18
 ```
 
 Forming an ion changes **only** the number of electrons. The protons and neutrons stay the same, so Al³⁺ is still aluminium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
 
 ### Electronic configuration (proton number 1 to 20)
 
@@ -182,6 +217,17 @@ The syllabus asks you to *state* three facts:
 3. The number of **occupied electron shells** equals the **period number**.
 
 Fact 2 does not apply to Group VIII. Helium has only 2 outer electrons, yet it is in Group VIII because its only shell is full.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--02-config-group-period-both-ways.webp" width="900" height="1130" alt="Shell diagrams for configuration 2,8,5 (Group V, Period 3, proton number 15, phosphorus) and for Period 2 Group VI (configuration 2,6, proton number 8, oxygen). A note says to use the atom, not the ion." loading="lazy">
+  <figcaption>Outer electrons give the group, shells give the period, and the electrons add up to the proton number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
 
 ### Worked example 6: from configuration to position, and back
 
@@ -250,6 +296,17 @@ Ar = sum of (relative isotopic mass × abundance) ÷ total abundance
 
 When abundances are percentages, the total is 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--01-ar-percentages-boron-magnesium.webp" width="900" height="1200" alt="Boron 20 percent boron-10 and 80 percent boron-11 gives Ar 10.8, not the plain average 10.5. Magnesium 79, 10 and 11 percent of masses 24, 25 and 26 gives 2432 divided by 100, 24.3 to 1 d.p. Number lines show each answer nearer the commonest isotope." loading="lazy">
+  <figcaption>Weight each isotope mass by its percentage abundance, add, and divide by 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
+
 ### Worked example 9: boron (Extended only)
 
 Boron is about 20% boron-10 and 80% boron-11. Calculate its relative atomic mass.
@@ -275,6 +332,17 @@ Ar = (24 × 79 + 25 × 10 + 26 × 11) ÷ 100
    = 24.32
    = 24.3 (1 d.p.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--03-isotopes-or-not.webp" width="900" height="930" alt="Ar-40 and Ca-40 are not isotopes (different protons). F-19 and F- are an atom and its ion, not isotopes. O-16 and O-18 have the same protons but 8 and 10 neutrons, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same proton number and different neutron numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
 
 ## Common errors
 

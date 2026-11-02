@@ -79,6 +79,12 @@ Oakspire's stand at the food fair costs £432, including the samples. The team h
 
 This ignores the cost of making the packs, so it is not profit. The trial covered its cost on first sales alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix--01-trial-cost-per-buyer.webp" width="900" height="684" alt="Oakspire handed out 1,200 sample pots; 18% (216 people) bought a full pack at £3.50, giving £756 revenue against a £432 stand cost. Cost per buyer was £2 and revenue was £324 above cost, before production costs." loading="lazy">
+  <figcaption>A product trial paid for itself on first sales, before production costs.</figcaption>
+</figure>
+
+
 ## 2. Technology in promotion (2.2.3)
 
 Technology lets a business choose who sees its message and measure how they respond.
@@ -106,6 +112,12 @@ Oakspire sends an e-newsletter with a discount code to 5,000 subscribers. It cos
 
 The business can tell exactly what the newsletter earned, which is harder with a poster or a sponsorship. It also shows the limit: only 60 of 5,000 subscribers bought.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix--02-e-newsletter-funnel.webp" width="900" height="824" alt="Of 5,000 subscribers emailed, 24% (1,200) opened the newsletter and 5% of those (60) ordered at an average £22, giving £1,320 revenue against £150 cost, £1,170 above cost. Only 60 of 5,000 bought." loading="lazy">
+  <figcaption>An e-newsletter is easy to measure but few subscribers end up buying.</figcaption>
+</figure>
+
+
 ## 3. Place: retailers and e-tailers (2.2.4)
 
 Place is about how the product reaches the customer. The specification names two methods of distribution.
@@ -130,6 +142,22 @@ Orrin Outdoors makes tents. A retailer buys each tent at £78 and sells it for �
 - Orrin keeps £78 per tent via the retailer and £110 − £16 = £94 per tent online.
 
 Online is better per tent, but volume matters. Suppose the retailer would buy 900 tents a year and the website would sell 400. The money received is 900 × £78 = £70,200 via the retailer and 400 × £94 = £37,600 online. The retailer route reaches more customers, so Orrin might use both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix--03-retailer-or-website.webp" width="900" height="905" alt="Per tent Orrin keeps £78 of the £120 shop price via a retailer (the shop keeps £42, 35%) but £94 of the £110 website price after £16 of costs. Per year 900 tents via the retailer bring £70,200 against £37,600 for 400 online." loading="lazy">
+  <figcaption>Online keeps more per tent, but the retailer route reaches more customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## 4. How one element influences another (2.2.5)
 
@@ -157,6 +185,17 @@ Wheldrake Running sells lightweight running shoes to serious club runners.
 - Promotion: sponsorship of local running clubs and a budget of £9,500 on £95,000 of expected sales, which is 10% of revenue.
 
 The elements support each other, so rivals find it hard to copy. A rival could copy a lower price, but not the specialist reputation built across product, shops and clubs. If Wheldrake discounted heavily or moved into discount stores, the premium message would be weakened.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Common errors
 

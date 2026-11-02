@@ -173,6 +173,22 @@ Estimated mean  = 195 ÷ 20 = 9.75
 Modal class     = 6–10
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--02-goals-frequency-table.webp" width="900" height="1010" alt="Bar chart of goals in 25 matches with the mode at 2 and the mean 47/25 = 1.88 marked. A strip of the 25 ordered matches shows the 13th value is 2, the median." loading="lazy">
+  <figcaption>From a frequency table: multiply value by frequency for the mean, find the (n+1)/2 th value for the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--03-grouped-mean-waiting-times.webp" width="900" height="870" alt="Waiting times of 40 customers in five classes of width 5. Midpoints 2.5 to 22.5 times frequencies total 485, so the estimated mean is 12.125, about 12.1 minutes. The modal class is 10 &lt; t &lt;= 15." loading="lazy">
+  <figcaption>Use class midpoints, not boundaries, so the grouped mean is only an estimate.</figcaption>
+</figure>
+
+
 ## 9.4 Statistical charts and diagrams
 
 ### Bar charts
@@ -231,6 +247,17 @@ A pictogram uses a symbol, and the **key** says how many items one symbol stands
 
 If one symbol = 8 cars, then 3½ symbols = 28 cars, 2½ symbols = 20 cars and 4½ symbols = 36 cars. A value such as 30 would need three-quarters of the last symbol, so choose a key that divides your data sensibly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--04-composite-and-dual-bars.webp" width="900" height="1040" alt="Hot and cold canteen lunches over five days as a composite bar chart (totals 65, 65, 70, 80, 75) and a dual bar chart. Friday is the only day cold beats hot." loading="lazy">
+  <figcaption>A composite chart shows totals, a dual chart compares the two groups directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--05-pie-chart-angles.webp" width="900" height="830" alt="Pie chart of 72 pupils choosing a sport. Each pupil is 5 degrees, giving sectors of 120, 90, 60, 45 and 45 degrees. A 75 degree sector stands for 15 pupils." loading="lazy">
+  <figcaption>Each sector angle is frequency divided by total, times 360 degrees.</figcaption>
+</figure>
+
+
 ## 9.2 Interpreting and comparing data
 
 To **read** a chart, use the scale and key, not the look of the picture. To **draw an inference**, state what the figures show and use words from the context.
@@ -262,6 +289,12 @@ Route 2:  0 1 2 4 5 8 8
 * **A chart cannot prove cause.** Two things rising together do not show that one causes the other.
 * **Changing the scale** (a truncated axis, uneven symbols) can exaggerate a difference.
 * **Predicting beyond the data** is unreliable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
+  <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
 
 ## Common errors
 

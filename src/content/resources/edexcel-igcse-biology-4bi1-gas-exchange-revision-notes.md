@@ -48,6 +48,12 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 - **Photosynthesis**: in the light only. Takes in carbon dioxide, gives out oxygen.
 - Cells using a gas keep its concentration low inside the leaf, so the gradient is maintained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+
 ### 2.42B Leaf adaptations
 
 | Feature | Benefit |
@@ -64,6 +70,17 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 - Usually **open in light** (carbon dioxide in for photosynthesis, oxygen out).
 - Usually **closed in the dark** or when water is short (reduces water loss, but limits gas exchange).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--04-guard-cells-stomata.webp" width="900" height="800" alt="Two section views: guard cells curve apart in the light so gases diffuse through the stoma; they close it in the dark or when short of water, reducing water loss and carbon dioxide supply." loading="lazy">
+  <figcaption>Guard cells change shape to open or close the stoma.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
+
 ### 2.44B Net exchange and light intensity
 
 | Light | Comparison | Net result |
@@ -71,6 +88,12 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 | Dark | Respiration only | Oxygen in, carbon dioxide out |
 | Dim (balance point) | Photosynthesis rate = respiration rate | No net exchange |
 | Bright | Photosynthesis faster | Carbon dioxide in, oxygen out |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--07-leaf-net-exchange.webp" width="900" height="1080" alt="In the dark only respiration happens, so oxygen goes in and carbon dioxide comes out. At one dim intensity photosynthesis equals respiration so there is no net exchange. In bright light photosynthesis is faster, so carbon dioxide goes in and oxygen comes out." loading="lazy">
+  <figcaption>Net gas exchange of a leaf depends on whether respiration or photosynthesis is faster.</figcaption>
+</figure>
+
 
 ### 2.45B Hydrogen-carbonate indicator practical
 
@@ -88,6 +111,17 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 4. No-leaf control tube.
 5. Same temperature, same distance from lamp, same time; compare colours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--03-hydrogen-carbonate-method.webp" width="900" height="1070" alt="Four tubes at equal distance from a lamp: foil (yellow), gauze (red), uncovered (purple) and a no-leaf control (red); indicator volume, leaf area and temperature are kept the same." loading="lazy">
+  <figcaption>Same leaf, same distance, different light: the indicator colour shows net carbon dioxide change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
+
 ## Humans (2.46–2.50)
 
 ### 2.46 The thorax
@@ -96,6 +130,12 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 - Ribs protect the lungs; **intercostal muscles** lie between the ribs.
 - **Diaphragm**: muscle sheet below the lungs, separating thorax from abdomen.
 - **Pleural membranes** with fluid between them reduce friction during breathing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
 
 ### 2.47 Ventilation in steps
 
@@ -114,6 +154,12 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 3. Thorax volume decreases.
 4. Pressure rises above atmospheric.
 5. Air flows out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
+</figure>
+
 
 ### 2.48 Alveoli adaptations
 
@@ -137,12 +183,34 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 
 **Coronary heart disease chain:** fatty deposits narrow coronary arteries → clot blocks artery → heart muscle short of oxygen → cannot respire aerobically → heart attack. Smoking raises the risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--08-emphysema.webp" width="900" height="940" alt="A healthy lung has many small air sacs with a large surface area. In emphysema the alveolus walls break down, leaving fewer, larger air spaces. The same air space has less wall surface, so less oxygen enters the blood and the person is breathless." loading="lazy">
+  <figcaption>Emphysema replaces many small alveoli with fewer large air spaces and so reduces surface area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--09-coronary-heart-disease.webp" width="900" height="1080" alt="A healthy coronary artery lets blood and oxygen reach the heart muscle. Fatty deposits narrow the artery so less oxygen arrives. A clot can then block it, the muscle beyond gets no oxygen and may die: a heart attack." loading="lazy">
+  <figcaption>Fatty deposits and a clot in a coronary artery can cut off the heart muscle's oxygen supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--02-smoking-chemicals.webp" width="900" height="960" alt="Tar deposits on an airway lining (carcinogens, irritation); a red blood cell with three haemoglobin sites holding carbon monoxide and one holding oxygen; a wide vessel narrowing under nicotine." loading="lazy">
+  <figcaption>Tar harms the airways, carbon monoxide cuts oxygen carried and nicotine narrows blood vessels.</figcaption>
+</figure>
+
+
 ### 2.50 Breathing practical
 
 - **Limewater** turns cloudy with carbon dioxide. Exhaled air turns it cloudy faster than inhaled air.
 - Approximate composition: inhaled air about 21% oxygen, 0.04% carbon dioxide; exhaled air about 16% oxygen, 4% carbon dioxide, warmer and more water vapour.
 - **Exercise**: count breaths per minute at rest, exercise for a fixed time, count again; repeat for a mean. Control type, length and intensity of exercise.
 - Exercise → faster respiration in muscles → more oxygen needed and more carbon dioxide made → faster, deeper breathing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--01-breathing-rate-worked-example.webp" width="900" height="1000" alt="Bars show three one-minute counts at rest (14, 15, 16; mean 15) and after skipping (26, 29, 29; mean 28). The increase of 13 gives 13 / 15 x 100 = 86.7 %." loading="lazy">
+  <figcaption>The lesson worked example: mean breathing rate rises from 15 to 28 breaths per minute, an 86.7 % increase.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

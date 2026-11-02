@@ -75,6 +75,12 @@ H₂N–CH(R₁)–COOH + H₂N–CH(R₂)–COOH  →  H₂N–CH(R₁)–CO–
 
 Two amino acids make a **dipeptide**; many make a **polypeptide**, with a free amine group at one end and a free carboxyl group at the other. A protein is one or more polypeptides folded into a specific shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
+
 ### Breaking a peptide bond: hydrolysis
 
 **Hydrolysis** is the reverse. A molecule of water is added across the peptide bond, which breaks and re-forms the –COOH and –NH₂ groups. In cells, protease enzymes catalyse this. In the laboratory, boiling with acid also hydrolyses peptide bonds.
@@ -90,6 +96,17 @@ Two amino acids make a **dipeptide**; many make a **polypeptide**, with a free a
 (b) A chain of n amino acids has n − 1 peptide bonds, so 120 − 1 = **119 water molecules**.
 (c) Count each chain separately, because the chains are not joined by peptide bonds: (60 − 1) + (45 − 1) = **103 peptide bonds**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
+
 ## 2.3.2 The four levels of protein structure
 
 **Primary structure** is the sequence of amino acids in a polypeptide chain, held by peptide bonds. Changing one amino acid can change how the whole chain folds, because every later level depends on the R groups the sequence sets.
@@ -102,6 +119,12 @@ Two amino acids make a **dipeptide**; many make a **polypeptide**, with a free a
 **Tertiary structure** is the further folding of the whole chain, helices and sheets included, into a precise three-dimensional shape. It is held by interactions between **R groups** that may be far apart in the sequence.
 
 **Quaternary structure** is the association of **two or more polypeptide chains** into one functional protein. The same interactions as in tertiary structure hold the chains together. A protein made of a single chain has no quaternary structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
 
 ## 2.3.3 The interactions that hold proteins in shape
 
@@ -150,6 +173,12 @@ Each chain has its own primary, secondary (mostly α-helix) and tertiary structu
 *Solution.* Four haem groups per molecule, one O₂ per haem: 4 × 2.8 × 10⁸ = **1.12 × 10⁹ oxygen molecules**.
 
 For transport of oxygen and carbon dioxide, and the dissociation curve, see the [Transport in mammals study guide](/resources/a-level-biology-9700-transport-in-mammals/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
 
 ## 2.3.7 The structure of collagen
 

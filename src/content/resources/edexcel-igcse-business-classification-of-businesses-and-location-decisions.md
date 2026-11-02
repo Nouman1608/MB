@@ -70,6 +70,22 @@ The shares add to 100%. The business earns most of its revenue from the secondar
 
 Sector affects what a business needs. A primary business needs land or access to a resource. A secondary business needs equipment, materials and often space. A tertiary business needs customers, skilled people and often convenient access. These needs lead straight into the location factors below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--01-riverside-sector-shares.webp" width="900" height="660" alt="One bar of 500,000 pounds of sales revenue is split into forestry (primary) 24%, sawmill (secondary) 60% and delivery (tertiary) 16%. The shares add to 100%. Most revenue is secondary, so a fall in plank demand hurts most." loading="lazy">
+  <figcaption>Riverside Timber earns 60% of its revenue from the secondary sector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--08-bakery-three-sectors.webp" width="900" height="816" alt="One bakery grows wheat (primary), mills flour (secondary) and sells bread (tertiary). Classify the activity, not the whole business." loading="lazy">
+  <figcaption>A single bakery can span all three economic sectors.</figcaption>
+</figure>
+
+
 ## 2. Proximity to market, labour, materials and competitors (1.4.1)
 
 A location decision is a choice of where to operate. Four proximity factors are named in the specification.
@@ -100,6 +116,17 @@ Site A gives £7,600 more profit. Site B has lower rent and wages but higher tra
 
 The numbers favour Site A. A strong answer then weighs what the table leaves out: the revenue figures are forecasts, a city centre may bring parking and congestion problems, and the owner may prefer a smaller town for reasons that are not financial. A recommendation is supported by figures and tested against these limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--02-thornfield-two-sites.webp" width="900" height="1032" alt="Paired bars compare yearly materials, rent, wages and transport at a city-centre Site A and a smaller-town Site B. Total costs are 285,400 and 268,000 pounds, giving profits of 24,600 and 17,000 pounds. Site A earns 7,600 pounds more." loading="lazy">
+  <figcaption>Site B has lower rent and wages, but Site A still earns 7,600 pounds more profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
+
 ## 3. Nature of the business activity (1.4.1)
 
 The type of activity can fix, or narrow, the choice of location.
@@ -110,6 +137,12 @@ The type of activity can fix, or narrow, the choice of location.
 - A service such as accountancy or web design may need only an office and a good connection, so it has wide freedom.
 
 Ask the same question each time: what does this activity need most, and where is that found at the lowest cost?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--13-service-location-map.webp" width="900" height="886" alt="Street map: customers walking past give footfall, a rival can take sales or draw shoppers, staff live nearby, parking and public transport help access, rent and rates are high in busy centres. Online services depend little on customer location." loading="lazy">
+  <figcaption>The location factors a service business weighs.</figcaption>
+</figure>
+
 
 ## 4. The impact of the internet: e-commerce and/or fixed premises (1.4.1)
 
@@ -133,6 +166,17 @@ Shop option: rent £3,000 x 12 = £36,000; utilities £6,000; two shop assistant
 
 The online route costs £11,400 less in these location-related costs and £0.63 less per order. A fuller answer adds that the shop gives customers a chance to taste and smell the tea, which the website cannot, and that the online option depends on reliable couriers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--03-leaf-lane-online-or-shop.webp" width="900" height="946" alt="Two stacked columns show Leaf Lane location costs. Online totals 66,600 pounds (3.70 per order) from warehouse rent, website and delivery. A shop totals 78,000 pounds (4.33 per order) from rent, utilities and staff. Online is 11,400 pounds cheaper." loading="lazy">
+  <figcaption>Online costs 11,400 pounds less a year in these location-related costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## 5. Legal controls and trade blocs (1.4.1)
 
 **Legal controls.** Governments and local authorities can set rules that limit where and how a business operates. In general terms these include limits on the use of land in an area, controls on pollution or noise, and rules on safety at work. Such controls can rule out a site, add costs (for example, equipment to cut pollution) or push noisy or polluting firms away from housing. The specification does not name any particular law for this point, so describe the effect on the business and not the detail of a statute.
@@ -149,6 +193,17 @@ Inside: 1,500 x £228 = £342,000.
 
 Producing inside the bloc saves £37,500 even though the unit cost is higher. If the tariff were much lower, the answer could reverse. Quote the figures and the condition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--04-tarn-tariff-or-local.webp" width="900" height="810" alt="Two bars compare 1,500 bikes made outside a trade bloc at 220 pounds each plus a 15% tariff (379,500 pounds) with making them inside at 228 pounds each (342,000 pounds). Inside saves 37,500 pounds." loading="lazy">
+  <figcaption>A 15% tariff makes the cheaper-to-make bikes dearer than producing inside the bloc.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--14-legal-controls-on-sites.webp" width="900" height="861" alt="Five controls with their effect: land-use limits can block a site, permission causes delay, environmental rules can block or add cost, safety, employment and building standards add cost, incentives attract." loading="lazy">
+  <figcaption>Legal controls can block, delay, cost or attract.</figcaption>
+</figure>
+
+
 ## 6. Relocation (1.4.1)
 
 The same factors drive relocation: a business moves when its current site no longer fits, for example when rent rises, when materials or customers are now elsewhere, when it needs more space, or when a legal control changes. Relocation brings one-off costs (moving, fitting out, disruption to production) and risks, such as losing staff who will not move or customers who no longer find you.
@@ -161,6 +216,17 @@ Annual rent saving = 2,000 x 12 = £24,000. Net annual saving = 24,000 - 6,000 =
 Years to recover the move cost = 60,000 / 18,000 = 3.33 years.
 
 Whether that is good enough depends on how long the firm expects to stay, whether it will lose any walk-in customers, and the risk to staff morale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-classification-of-businesses-and-location-decisions--05-brightway-relocation-payback.webp" width="900" height="870" alt="A line graph starts at minus 60,000 pounds, the cost of the move, and rises by 18,000 pounds a year, the net saving. It crosses zero at 3.33 years." loading="lazy">
+  <figcaption>The 60,000 pound move pays back after 3.33 years of 18,000 pound net savings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--15-relocation-costs-risks.webp" width="900" height="820" alt="Five reasons to move (too small, costs rise, customers or suppliers move, lease ends, better labour or market access) and four costs and risks: moving expenses, disrupted production, staff who will not move, customers who cannot find the new site." loading="lazy">
+  <figcaption>Why a business relocates and what the move can cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

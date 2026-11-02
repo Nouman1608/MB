@@ -124,6 +124,12 @@ y = 16 − 24 + 4 = −4
 
 The point is **(4, −4)**. Always find the y-coordinate as well, because the question asks for a point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points--01-gradient-function.webp" width="900" height="1070" alt="Two graphs share one x axis. The upper graph is y = x squared minus 6x plus 4, with its lowest point at (3, minus 5). The lower graph is its gradient function dy/dx = 2x minus 6, which crosses zero at x = 3. A dashed line at gradient 2 meets the gradient line at x = 4, and reading down to the curve gives the point (4, minus 4), where a tangent has gradient 2." loading="lazy">
+  <figcaption>The gradient function is the gradient of the curve at every x; setting it equal to 2 finds the point.</figcaption>
+</figure>
+
+
 ## A14: tangents
 
 A **tangent** to a curve at a point is the straight line that touches the curve there and has the same direction as the curve. The key fact:
@@ -167,6 +173,17 @@ y = 2x − 12
 ```
 
 The tangent is **y = 2x − 12**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points--02-tangent-equation.webp" width="900" height="910" alt="The cubic y = x cubed minus 4x squared plus 3x plus 2 passes through (3, 2). The gradient there is 6, so a tangent with a step triangle of across 1 and up 6 touches the curve at that point. Its equation is y minus 2 = 6(x minus 3), which gives y = 6x minus 16." loading="lazy">
+  <figcaption>The tangent touches the curve at (3, 2) and has the same gradient, 6, as the curve there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
 
 ## A15: stationary points
 
@@ -268,6 +285,27 @@ Test x = −1, x = 0.5 and x = 2:
 | dy/dx | −24 | 0 | −1.5 | 0 | 48 |
 
 At x = 0 the gradient is negative on both sides, so **(0, 0) is a stationary point of inflection**. At x = 1 the gradient goes − then +, so **(1, −1) is a minimum**. Sketch: the curve falls from the top left, flattens momentarily at the origin, keeps falling to the minimum at (1, −1), then rises steeply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points--03-stationary-kinds.webp" width="900" height="1090" alt="Three panels show tangents just before, at and just after a stationary point. At the maximum (minus 3, 29) the gradient goes +15, 0, minus 9. At the minimum (1, minus 3) it goes minus 9, 0, +15. At the stationary inflection (2, 9) it goes +3, 0, +3, so it keeps the same sign and the curve keeps rising." loading="lazy">
+  <figcaption>A stationary point is classified by the sign of the gradient either side of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points--04-quartic-inflection.webp" width="900" height="880" alt="The quartic y = 3x to the power 4 minus 4x cubed is flat at x = 0 and x = 1. The gradient is minus 24 at x = minus 1, minus 1.5 at x = 0.5 and +48 at x = 2. At (0, 0) the gradient is negative on both sides, so it is an inflection; at (1, minus 1) it changes from negative to positive, so it is a minimum." loading="lazy">
+  <figcaption>A flat point where the gradient does not change sign is an inflection, not a turning point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points--04-sketch-cubic-steps.webp" width="900" height="850" alt="The cubic y = x cubed + 3x squared minus 9x + 2 drawn from its equation with the three sketching steps marked: the stationary points (minus 3, 29) and (1, minus 3) with flat tangents, the y-intercept (0, 2), and arrows showing the curve falling to the left and rising to the right because the x cubed term is positive." loading="lazy">
+  <figcaption>A sketch uses the stationary points, the y-intercept and the end behaviour set by the highest power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--07-gradient-turning-points.webp" width="900" height="980" alt="The curve y = x cubed minus 12x has a maximum at (minus 2, 16) and a minimum at (2, minus 16), where the tangent is flat and the gradient is 0. At x = 3 the tangent has gradient 15. The gradient is positive, negative, positive across the three sections." loading="lazy">
+  <figcaption>Turning points are where the gradient dy/dx is zero.</figcaption>
+</figure>
+
 
 ## Common errors
 

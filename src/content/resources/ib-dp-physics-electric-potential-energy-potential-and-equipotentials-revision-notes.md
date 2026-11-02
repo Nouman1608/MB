@@ -33,6 +33,12 @@ Related: the [course hub](/boards/ib/ib-dp/physics/), the [printable checklist](
 - **Equipotential surface:** a surface on which Ve is the same at every point.
 - **Electronvolt, eV:** the work done on charge e through 1 V. 1 eV = 1.60 × 10⁻¹⁹ J.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--04-potential-gradient.webp" width="900" height="1150" alt="For a +6.0 nC point charge the tangent to V against r at 0.25 m (216 V) has gradient -863 V per metre, so |E| = 863 V per metre. For parallel plates 12 mm apart at 240 V the potential falls linearly, so E = V/d = 2.0 x 10^4 V per metre." loading="lazy">
+  <figcaption>Field strength is minus the slope of the potential graph.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Formula | Notes |
@@ -102,6 +108,12 @@ Rules to state in answers:
 - Close equipotentials (at equal steps in V) mean a strong field.
 - Equipotentials never cross.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--08-several-charges.webp" width="900" height="1280" alt="Computed equipotentials for three arrangements. For two opposite charges the midplane is at V = 0. For four alternating charges at square corners V = 0 along both lines through the centre and E = 0 at the centre. For four equal positive charges E = 0 at the centre and the equipotentials near it are closed loops." loading="lazy">
+  <figcaption>Equipotentials of several charges follow the sign rules and symmetry, never crossing each other.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Ep and Ve:** Ep belongs to a system and is in joules. Ve belongs to a point and is in joules per coulomb. Ep = qVe for a charge q placed at a point of potential Ve.
@@ -137,6 +149,17 @@ Rules to state in answers:
 9. They attract, so work must be done to separate them to infinity; the system has less energy than at infinite separation. Mathematically q₁q₂ is negative.
 10. **Zero**, because ΔVe = 0 and W = qΔVe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--05-work-and-electronvolts.webp" width="900" height="1180" alt="An electron starts at rest at 0 V and is accelerated to a plate at +450 V. Its potential energy falls from 450 eV to 0 while its kinetic energy rises from 0 to 450 eV. KE = 7.2 x 10^-17 J = 450 eV and the final speed is 1.3 x 10^7 m per second." loading="lazy">
+  <figcaption>Energy lost as potential energy appears as kinetic energy: qdV = 450 eV for an electron through 450 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--07-conducting-sphere.webp" width="900" height="1160" alt="A conducting sphere of radius 0.080 m at 1500 V carries 13 nC. Inside, V is constant at 1500 V and E is zero. Outside, V falls as 1/r (600 V at 0.20 m) and E jumps to 1.9 x 10^4 V per metre at the surface then falls as 1/r squared." loading="lazy">
+  <figcaption>Inside a charged conductor V is constant and E is zero; outside it behaves like a point charge at the centre.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dropping the minus sign of a negative charge in Ep or Ve, so an attractive pair appears to store positive energy.
@@ -151,6 +174,17 @@ Rules to state in answers:
 - Treating Ve inside a conducting sphere as kQ/r with a small r. The interior value stays at the surface value kQ/R.
 - Writing W = qΔVe with the wrong sign convention and not saying who does the work. State whether it is the external agent or the field.
 - Giving a speed without checking that energy was converted to joules first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--03-potentials-add.webp" width="900" height="900" alt="V is plotted along the line through +4.0 nC and -1.0 nC, 0.50 m apart. It is zero at 0.40 m and 0.67 m from the positive charge, and about 345 V at 0.10 m on the far side of the positive charge. Zero potential does not mean zero field." loading="lazy">
+  <figcaption>Potentials from several charges add as signed numbers; V can be zero where the field is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--06-equipotentials-basics.webp" width="900" height="1170" alt="For a point charge, rings at equal 100 V steps are concentric circles, closer together near the charge, crossed at right angles by radial field lines. Between parallel plates, equipotentials at 0, 60, 120, 180 and 240 V are equally spaced planes with uniform field lines perpendicular to them." loading="lazy">
+  <figcaption>Equipotentials are crossed at 90 degrees by field lines and crowd together where the field is strong.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

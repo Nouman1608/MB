@@ -61,6 +61,12 @@ Trial: 500 samples are given out, 12% buy a pack at £4.50.
 - Revenue: 60 × £4.50 = **£270**.
 - Compare it with the cost of the samples and stand. If those cost £200, revenue is £70 above the cost, before the cost of making the packs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix--01-trial-cost-per-buyer.webp" width="900" height="684" alt="Oakspire handed out 1,200 sample pots; 18% (216 people) bought a full pack at £3.50, giving £756 revenue against a £432 stand cost. Cost per buyer was £2 and revenue was £324 above cost, before production costs." loading="lazy">
+  <figcaption>A product trial paid for itself on first sales, before production costs.</figcaption>
+</figure>
+
+
 ## 2. Technology in promotion (2.2.3)
 
 | Method | What it is | Advantage | Disadvantage |
@@ -82,6 +88,12 @@ An online advert costs £360 and produces 30 sales.
 - Cost per sale: £360 ÷ 30 = **£12**.
 - If each sale earns £9 of revenue, the advert did not pay for itself on first sales. If customers come back, the answer may change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix--02-e-newsletter-funnel.webp" width="900" height="824" alt="Of 5,000 subscribers emailed, 24% (1,200) opened the newsletter and 5% of those (60) ordered at an average £22, giving £1,320 revenue against £150 cost, £1,170 above cost. Only 60 of 5,000 bought." loading="lazy">
+  <figcaption>An e-newsletter is easy to measure but few subscribers end up buying.</figcaption>
+</figure>
+
+
 ## 3. Place: retailers and e-tailers (2.2.4)
 
 | | Retailer | E-tailer (e-commerce) |
@@ -100,6 +112,22 @@ A retailer buys a jacket for £18 and sells it for £30.
 - As a share of the selling price: 12 ÷ 30 × 100 = **40%**.
 
 A producer that sells directly online keeps more per item but pays for delivery and has fewer customers unless it promotes the site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix--03-retailer-or-website.webp" width="900" height="905" alt="Per tent Orrin keeps £78 of the £120 shop price via a retailer (the shop keeps £42, 35%) but £94 of the £110 website price after £16 of costs. Per year 900 tents via the retailer bring £70,200 against £37,600 for 400 online." loading="lazy">
+  <figcaption>Online keeps more per tent, but the retailer route reaches more customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## 4. How the elements influence each other (2.2.5)
 
@@ -124,6 +152,17 @@ Method: name the change, name the element it affects, say what the business shou
 - An advantage must matter to the target market.
 - An integrated mix is hard for a rival to copy, because it relies on four connected decisions.
 - A mix that sends mixed messages, such as a premium product sold in a discount outlet with a low-price advert, weakens the advantage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

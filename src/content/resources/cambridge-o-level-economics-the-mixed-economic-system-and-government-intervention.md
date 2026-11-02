@@ -40,6 +40,17 @@ A **mixed economic system** combines private-sector choices, guided by prices, w
 
 Why mix? A pure market can fail: it under-provides public and merit goods, over-provides demerit goods and ignores external costs. Governments therefore use the market for most decisions and step in where it fails. Countries differ in how far they intervene, so "mixed" is a matter of degree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## Maximum prices (price ceilings)
 
 A **maximum price** is a legal cap: sellers may not charge more than it. It has an effect only if it sits **below** the equilibrium price.
@@ -65,6 +76,17 @@ Diagram in words: the maximum price line is horizontal below the intersection of
 
 Consequences: rationing by queues or favouritism, falling quality, and less incentive to supply. Gains: lower prices for those who get the good. Effectiveness depends on enforcement and on how elastic supply is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--06-maximum-rent-shortage.webp" width="900" height="910" alt="Demand and supply for rented homes meet at rent 10 and 400 homes. A maximum rent of 6 gives 280 homes supplied and 480 demanded, a shortage of 200. Demand for 280 homes would support a rent of 16, shown as a possible black-market rent." loading="lazy">
+  <figcaption>A maximum price below equilibrium leaves 200 homes short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+
 ## Minimum prices (price floors)
 
 A **minimum price** is a legal floor: sellers may not charge less than it. It has an effect only if it sits **above** equilibrium. Governments use it to support producers' incomes or to discourage consumption.
@@ -81,6 +103,12 @@ Diagram in words: the minimum price line is horizontal above equilibrium. It cut
 
 Evaluation: producers who sell gain, consumers pay more and buy less, taxpayers fund any purchases, and resources go into over-production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--03-mix-minimum-price-tea.webp" width="900" height="910" alt="Demand and supply cross at 18 and 320. A floor of 22 gives demand 280 and supply 380, a surplus of 100. Buying it costs 2,200, shown as the shaded rectangle." loading="lazy">
+  <figcaption>A minimum price of 22 creates a surplus of 100 that costs 2,200 to buy.</figcaption>
+</figure>
+
+
 ## Maximum and minimum prices in the labour market
 
 Here the price is the wage, demand is firms' demand for workers and supply is workers' willingness to work. A **minimum wage** is a price floor.
@@ -94,6 +122,17 @@ Here the price is the wage, demand is firms' demand for workers and supply is wo
 
 Evaluation: workers who keep their jobs gain, but some lose work. The effect depends on how elastic labour demand is. Where firms have few substitutes for workers, the fall in jobs is small. A **maximum wage** would sit below equilibrium and create a shortage of labour, but it is rare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--08-minimum-wage-unemployment.webp" width="900" height="910" alt="Labour demand and supply meet at wage 15 and 450 hundred workers. A minimum wage of 18 gives demand for 360 and supply of 510, so 150 hundred workers are unemployed. Total pay falls from 6,750 to 6,480." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for those in work but creates unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Maximum and minimum prices in the foreign exchange market
 
 The "price" is the exchange rate: how many units of one currency buy a unit of another. Demand for a currency comes from foreigners buying that country's exports and assets. Supply comes from residents buying imports and assets abroad.
@@ -105,6 +144,12 @@ The "price" is the exchange rate: how many units of one currency buy a unit of a
 3. **Minimum exchange rate of 5** (to keep import prices low): Qd = 450 and Qs = 600, so there is excess supply of 150 million dinars. The central bank must buy them, spending 5 × 150 = 750 million foreign units of reserves.
 
 Evaluation: holding a rate above equilibrium needs enough foreign reserves and cannot last if they run out. A lower rate helps exporters but makes imports dearer; a higher rate does the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--04-mix-exchange-rate-limits.webp" width="900" height="900" alt="Equilibrium is at a rate of 4 and 500 million dinars. A ceiling of 3 gives excess demand of 150 million; a floor of 5 gives excess supply of 150 million and reserve spending of 750 million." loading="lazy">
+  <figcaption>Holding the dinar away from equilibrium leaves a 150 million gap the central bank must fill.</figcaption>
+</figure>
+
 
 ## Indirect taxation
 
@@ -124,6 +169,17 @@ Who bears more? The side with the **more inelastic** curve. At the original equi
 
 Uses: raising revenue and discouraging demerit goods. Limits: with inelastic demand a tax cuts consumption only slightly, can be regressive, and may encourage smuggling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--07-indirect-tax-incidence.webp" width="900" height="960" alt="A tax of 6 shifts supply up by 6. Equilibrium moves from price 16 and 200 packs to price 20 and 160 packs. A rectangle 6 high and 160 wide is split into consumers 4 by 160 equals 640 and producers 2 by 160 equals 320, total 960." loading="lazy">
+  <figcaption>The tax is shared: consumers pay 4 more and producers keep 2 less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## Subsidies
 
 A **subsidy** is a payment by the government to producers (or consumers) that lowers costs. The supply curve moves **down by the subsidy**.
@@ -137,6 +193,12 @@ A **subsidy** is a payment by the government to producers (or consumers) that lo
 5. Cost to government = 6 × 290 = 1,740.
 
 Uses: encouraging merit goods and goods with external benefits, and supporting infant industries. Limits: the cost falls on taxpayers, producers may become inefficient, and removal can be politically hard.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--05-mix-subsidy-solar-heaters.webp" width="900" height="930" alt="A subsidy of 6 moves supply down. Price falls from 20 to 16 and quantity rises from 250 to 290. Sellers receive 22. Cost to government is 6 x 290 = 1,740." loading="lazy">
+  <figcaption>A subsidy of 6 cuts the price buyers pay to 16 and costs the government 1,740.</figcaption>
+</figure>
+
 
 ## Regulation, privatisation, nationalisation and direct provision
 
@@ -157,6 +219,12 @@ A small calculation: if a state firm is sold for 450 and it was costing the gove
 - The maximum is 300 / 60 = 5 bridges or 300 / 40 = 7 barriers.
 - Building 3 bridges costs 180, leaving 120, which pays for 120 / 40 = 3 barriers.
 - The opportunity cost of one more bridge is 60 / 40 = 1.5 barriers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--06-mix-bridges-barriers-opportunity-cost.webp" width="900" height="870" alt="A budget line shows 5 bridges or 7 barriers for 300. Three of each fits exactly. One more bridge gives up 1.5 barriers." loading="lazy">
+  <figcaption>Each extra bridge costs 1.5 flood barriers in this budget.</figcaption>
+</figure>
+
 
 ## Judging effectiveness
 

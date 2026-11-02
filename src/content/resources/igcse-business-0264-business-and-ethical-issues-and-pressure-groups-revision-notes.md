@@ -49,6 +49,17 @@ All businesses and figures here are invented. Money is in dollars and written as
 
 These are given as examples, so be ready for others in a case study. Link the issue to the people affected: employees, suppliers, customers, the community and owners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--01-four-ethical-issues.webp" width="900" height="900" alt="Four cards: child labour (children at work, not at school), fair wages, fair supplier prices, and clean suppliers. An ethical choice goes beyond what the law requires." loading="lazy">
+  <figcaption>The four ethical issues named in the syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ## How businesses may respond
 
 | Response | One-line evaluation |
@@ -70,6 +81,12 @@ These are given as examples, so be ready for others in a case study. Link the is
 3. Explain what it changes, such as supplier checks that reduce the chance of child labour.
 4. Say what it costs or gains the business, using any figures given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--02-response-to-issue.webp" width="900" height="980" alt="Each issue points to a response and its cost: check suppliers, pay higher wages, pay fair prices, change to ethical suppliers. The legal minimum is the lowest-cost option; a written policy, telling customers and answering complaints are other responses." loading="lazy">
+  <figcaption>Match the response to the issue in the question, and state its cost.</figcaption>
+</figure>
+
+
 ## Advantages and disadvantages of being ethical
 
 | Advantages | Disadvantages |
@@ -83,6 +100,12 @@ These are given as examples, so be ready for others in a case study. Link the is
 | Possibly a higher price | Untrue claims damage reputation |
 
 The balance depends on the business. A strong brand with customers who care has more to gain. A business whose customers buy only on price may find the costs hard to recover.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## Pressure groups (6.5.1)
 
@@ -109,6 +132,17 @@ A pressure group cannot order a business to change. It works through sales, repu
 
 Ignore, defend, negotiate, change practice, or change practice and publicise it. Judge each by cost, speed and the effect on reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--04-pressure-group-routes.webp" width="900" height="930" alt="Five routes join a pressure group to a business: publicity, boycott, petitions and protests, lobbying for a new law, and meeting managers. They act on sales, reputation and the law. A pressure group can only influence." loading="lazy">
+  <figcaption>Pressure groups act on a business through sales, reputation and the law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--04-group-influence-factors.webp" width="900" height="990" alt="Five wedges widen from weak to strong influence: support from the public and media, how much the business relies on its reputation, how easily customers can switch, whether demands are affordable and clear, and whether the group can cut sales or change the law." loading="lazy">
+  <figcaption>Five factors decide how much influence a pressure group has.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -133,6 +167,17 @@ Dorrance Bakery buys 60 tonnes of flour a year at 500 a tonne. A fair-price agre
 
 This is a small share of revenue, so the bakery may judge the move affordable, especially if it wins loyal customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--03-fair-wage-cost.webp" width="900" height="880" alt="Profit falls from 600,000 to 540,000 dollars (10 percent) after a 0.30 dollar wage rise on 200,000 shirts. A 3 percent price rise to 9.27 dollars adds 54,000 dollars if sales hold, giving 594,000." loading="lazy">
+  <figcaption>A fair wage costs $60,000 a year; a price rise can win most of it back if customers stay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--03-brindlewick-fair-price.webp" width="900" height="1010" alt="Cashew cost per pack rises from 1.00 to 1.15 dollars so contribution falls from 1.80 to 1.65. Earning the same 540,000 dollars needs 327,273 packs, about 9.1 percent more sales; if customers do not respond, profit falls by 45,000." loading="lazy">
+  <figcaption>A fairer price to the cooperative needs about 9.1% more sales to earn the same contribution.</figcaption>
+</figure>
+
+
 ### Cost of a boycott
 
 Harlequin Toys sells 40,000 toys at 12 each, so sales revenue is 480,000. A pressure group campaign reduces sales by 5%, and the contribution on each sale is 30%.
@@ -141,6 +186,12 @@ Harlequin Toys sells 40,000 toys at 12 each, so sales revenue is 480,000. A pres
 - Lost contribution = 30% × 24,000 = 7,200.
 
 If changing its practice would cost more than 7,200 a year, Harlequin might wait. If the campaign is growing, the loss could be larger, so the decision is not just about this year's figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--05-boycott-v-filter.webp" width="900" height="880" alt="If the boycott lasts, Vessarine loses 120,000 dollars of contribution a year. A filter costs 18,000 plus 5,000 running, 23,000 dollars a year. Responding costs about a fifth of the loss." loading="lazy">
+  <figcaption>If the boycott lasts, responding ($23,000) costs far less than the lost contribution ($120,000).</figcaption>
+</figure>
+
 
 ## Command words used in this topic
 

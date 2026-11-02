@@ -46,6 +46,17 @@ Why so little? Typical reasons are that some light is reflected, some passes str
 
 Energy stored = 3.2 × 10⁶ × 0.01 = **3.2 × 10⁴ kJ per m²** (32 000 kJ).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--02-energy-1-percent-10-percent.webp" width="900" height="1240" alt="A 100-square grid with one square highlighted shows plants storing about 1 percent of 3.2 million kJ per square metre: 32000 kJ. Four boxes then show about 10 percent passing on each time: 32000, 3200, 320, 32 kJ per square metre." loading="lazy">
+  <figcaption>Only about 1 percent of light is stored by plants and about 10 percent passes up each level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--01-energy-flow.webp" width="900" height="1190" alt="Light energy from the Sun is absorbed by a plant, and photosynthesis transfers it to chemical energy. Chemical energy passes to a herbivore and then a carnivore. At every stage, including decomposers, energy is transferred to the environment as heat. Dead material and waste pass to decomposers, and energy is never recycled." loading="lazy">
+  <figcaption>Energy enters as light, passes along the chain and leaves as heat; it is not recycled.</figcaption>
+</figure>
+
+
 ## 3.3.1 b: why only about 10% moves up
 
 Only approximately 10% of the biomass from each trophic level is transferred to the level above. The rest is lost for two reasons:
@@ -72,6 +83,12 @@ Both values are close to 10%, which fits the rule. The rule is an approximation,
 | Tertiary consumers (10%) | 32 |
 
 Because so little is left after three transfers, food chains rarely have more than four or five trophic levels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--05-energy-efficiency.webp" width="900" height="1060" alt="Extended. A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
+  <figcaption>Only about 7 to 9 % passes to the next level here, so energy pyramids narrow quickly.</figcaption>
+</figure>
+
 
 ## 3.3.1 c: pyramids of biomass
 
@@ -101,6 +118,12 @@ The frog bar is under 1 mm. That is correct, not a mistake: the pyramid is narro
 - The biomass is usually dry mass, because water content varies and dry mass is a better measure of the material that has been built.
 - Say what the pyramid represents. A bar shows the biomass at the time of sampling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--01-biomass-pyramid-to-scale.webp" width="900" height="830" alt="Three equal-height bars centred on a line, scale 1 mm = 50 kg. Grass 3000 kg is 60 mm, grasshoppers 360 kg is 7.2 mm, frogs 45 kg is 0.9 mm. Transfers are 12.0 and 12.5 percent, so the frog bar is under 1 mm." loading="lazy">
+  <figcaption>A to-scale pyramid shows why top bars are so narrow: each transfer is about 10 percent.</figcaption>
+</figure>
+
+
 ## 3.3.1 d: efficiency of food production (B)
 
 Each extra stage in a food chain loses most of the biomass and energy. Reducing the number of stages therefore increases the proportion of the producers' energy that reaches humans. Eating plants directly (one step) is more efficient than feeding the plants to livestock and eating the meat (two steps).
@@ -113,6 +136,12 @@ Each extra stage in a food chain loses most of the biomass and energy. Reducing 
 If a person needs 10 MJ per day, the crop feeds 7 500 ÷ 10 = **750 person-days**, but the meat feeds 750 ÷ 10 = **75 person-days**. Cutting out the cattle stage gives ten times as much human food from the same land.
 
 A balanced answer also notes that some land (steep hillsides, poor soil) suits grazing animals better than crops, and that meat supplies protein. The question usually asks only for the efficiency argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--03-shorter-food-chain-more-food.webp" width="900" height="1140" alt="Direct eating delivers 7500 MJ (750 person-days); feeding cattle first delivers 750 MJ (75 person-days). Bars are drawn to scale and ten person icons are compared with one." loading="lazy">
+  <figcaption>Cutting out the cattle stage gives ten times as much human food from the same land.</figcaption>
+</figure>
+
 
 ## 3.3.2 a to c: needs and competition
 
@@ -145,6 +174,17 @@ Percentage decrease in mean mass from 10 to 80 seedlings: (0.92 − 0.19) ÷ 0.9
 
 Explanation: crowded seedlings compete for light, water and mineral ions, so each plant has less to photosynthesise and grow with. The total per tray rises only slowly (9.2 g to 15.2 g) while seedling number rises eightfold, so each extra plant adds less and less.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--04-seedling-competition.webp" width="900" height="1150" alt="Two bar charts for 10, 20, 40 and 80 seedlings per tray. Mean dry mass per plant falls from 0.92 to 0.19 g (79.3 percent). Total mass per tray rises only from 9.2 to 15.2 g." loading="lazy">
+  <figcaption>Crowded seedlings compete, so each plant is smaller and the tray total rises only slowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--05-plant-animal-needs.webp" width="900" height="1100" alt="Plants need light, carbon dioxide, water, mineral ions and space from surroundings and pollination and seed dispersal from other organisms. Animals need oxygen, water, shelter and space, and food and mates." loading="lazy">
+  <figcaption>Organisms take materials from their surroundings and from other organisms; where supplies are limited they compete.</figcaption>
+</figure>
+
+
 ## 3.3.2 d to f: adaptations
 
 An **adaptation** is a feature that enables an organism, including a microorganism, to survive in the conditions in which it normally lives. There are three kinds.
@@ -161,6 +201,12 @@ The types overlap. Hibernation is a behaviour, but it works by lowering metaboli
 
 Some organisms live where conditions are extreme, such as very high salt levels, high temperatures or high pressures. These are **extremophiles**. Examples: archaea in salt lakes that tolerate salt concentrations that would make water leave the cells of most organisms; bacteria such as *Thermus aquaticus* in hot springs at around 70 °C; and microorganisms living deep in the ocean under great pressure. Their proteins and cell structures work in conditions that would damage those of most organisms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--07-extremophiles-habitats.webp" width="900" height="1040" alt="Three habitats: archaea in very salty lakes, Thermus aquaticus in hot springs at about 70 degrees C, and microorganisms in the deep ocean under great pressure." loading="lazy">
+  <figcaption>Extremophiles have proteins and cell structures that work in conditions that would damage those of most organisms.</figcaption>
+</figure>
+
+
 ### Using information to suggest adaptations
 
 You may be given facts about an animal or plant and asked how it is adapted. Use three steps: identify the **problem** the habitat creates, name the **feature**, then say how it **helps survival**.
@@ -172,6 +218,27 @@ You may be given facts about an animal or plant and asked how it is adapted. Use
 - Benefit: this slows the diffusion of water vapour out of the leaf, so less water is lost by transpiration.
 
 That is a structural adaptation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--06-dune-grass-rolled-leaf.webp" width="900" height="950" alt="Cross-section of a rolled leaf with hair-lined pits holding stomata traps moist air in dry wind, slowing diffusion of water vapour out so less is lost by transpiration. This is a structural adaptation." loading="lazy">
+  <figcaption>Rolled leaves and hair-lined pits trap moist air and cut water loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--08-flea-tapeworm-adaptations.webp" width="900" height="1150" alt="Flea: flattened body, claws, piercing mouthparts, strong back legs. Tapeworm: hooks and suckers, thick covering, long flat body, no digestive system, egg-filled segments." loading="lazy">
+  <figcaption>Each feature helps the parasite feed, stay attached or spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and--09-malaria-parasite-vector.webp" width="900" height="1200" alt="A mosquito (the vector) passes single-celled parasites into the blood. They live inside liver and red blood cells and reproduce rapidly there. Another mosquito carries them to the next person." loading="lazy">
+  <figcaption>The malaria parasite is small enough to live inside cells and is spread by a vector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--03-adaptive-hare.webp" width="900" height="980" alt="A schematic snow hare labels four adaptive features: thick fur traps air to reduce heat loss, short ears have a smaller area so lose less heat, large furry feet spread weight so it does not sink in snow, and white fur gives camouflage. A note says scars and trained muscles are not adaptive features because they are gained in life, not inherited." loading="lazy">
+  <figcaption>Each adaptive feature is inherited and helps survival in the hare's cold, snowy habitat.</figcaption>
+</figure>
+
 
 ## Parasite adaptations (B)
 

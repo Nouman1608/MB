@@ -68,6 +68,12 @@ Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checkli
 - Same loop: in phase. Neighbouring loops: antiphase.
 - Displacement against time at one position: same period everywhere, different amplitude.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+
 ## Patterns (4.4.4(e)(i))
 
 Letters: N = node, A = antinode.
@@ -77,6 +83,12 @@ Letters: N = node, A = antinode.
 | String fixed at both ends | N A N, L = lambda/2 | 2nd: N A N A N; 3rd: three loops |
 | Tube open at both ends | A N A, L = lambda/2 | 2nd: A N A N A; same frequency series as string |
 | Tube closed at one end | N A (closed end node, open end antinode), L = lambda/4 | 3rd: N A N A, L = 3 lambda/4; 5th: L = 5 lambda/4 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
+  <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
+</figure>
+
 
 ## Method in steps: resonance tube (4.4.4(e)(ii), PAG5)
 
@@ -107,6 +119,12 @@ Why use the difference: the antinode is slightly above the tube mouth, and that 
 
 **E.** Graph of f against 1/L for a fixed string: the line passes through the origin and its gradient is v / 2. If the gradient is 36 m/s, then v = 72 m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
+  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
+</figure>
+
+
 ## Model answer: how a stationary wave forms
 
 Use this skeleton for any "explain" question on a string or tube.
@@ -119,6 +137,12 @@ Use this skeleton for any "explain" question on a string or tube.
 6. Only frequencies for which the pattern fits the end conditions give a steady pattern, and these are the harmonics.
 
 **F.** Closed tube, harmonics up to the 5th: frequencies f1, 3 f1 and 5 f1. For f1 = 150 Hz these are 150 Hz, 450 Hz and 750 Hz. The gap between consecutive resonances is always 2 f1 = 300 Hz.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

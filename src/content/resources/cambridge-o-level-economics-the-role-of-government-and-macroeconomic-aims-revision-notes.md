@@ -37,6 +37,12 @@ Remember the logic: match the level to the scale of the problem. A problem that 
 
 Why governments act at all: markets under-supply some goods, ignore some harm to third parties, leave incomes unequal and cannot guarantee stable output, jobs and prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--01-eco52-levels.webp" width="900" height="840" alt="Three panels show a council clearing drains (local), a national government building setting tax and spending (national) and two fish in a globe for a joint limit on shared fish (international). An arrow shows that bigger problems need a higher level." loading="lazy">
+  <figcaption>The level of government should match the scale of the problem.</figcaption>
+</figure>
+
+
 ## 4.2.1 The five aims
 
 | Aim | Meaning | How success is judged |
@@ -102,6 +108,22 @@ A rising average rate narrows the gap: the tax is progressive.
 - Public pressure: voters notice jobs and prices.
 - Measurability: criteria make results checkable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--02-eco52-aims.webp" width="900" height="900" alt="Five gauges with the target band shaded: real growth 6.25% is above 3-5%; unemployment 5.0% misses and 4.32% meets under 4.5%; inflation 3.0% sits at the top of 1-3%; a 2.0% of GDP surplus is within 3%; the income ratio of K to J falls from 3.00 to 2.58 after tax." loading="lazy">
+  <figcaption>Each aim is judged against a measurable criterion, using the lesson's worked values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
+
 ## 4.2.2 Conflicts between aims
 
 | Conflict | Chain of cause and effect | Weaker when |
@@ -154,9 +176,36 @@ Each chain should end by naming the aim that suffers. A good answer then adds on
 
 Redistribution moves purchasing power from higher to lower earners. A progressive tax takes a larger share of higher incomes, and the revenue can fund benefits and public services that low earners use more. Judge success by a narrowing gap, for example a falling ratio of after-tax incomes. Evaluation: very high tax rates may weaken incentives to work, and redistribution may cost growth in the short run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ### Why numerical criteria matter
 
 A target such as "annual inflation between 1% and 3%" can be tested. It lets voters judge the government, helps firms plan, and shows when policy must change. A vague aim such as "a strong economy" cannot be tested. Criteria are usually set over a period, such as a year, so that short-lived swings do not look like failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--03-eco52-employment-prices.webp" width="900" height="940" alt="A four-step chain (demand rises, firms hire, wages rise, prices rise) above two bar charts: unemployment 9% to 6% (360 to 240 thousand) and inflation 2.0% to 5.5%." loading="lazy">
+  <figcaption>Pushing unemployment down can push inflation up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--07-aims-jobs-leak-into-imports.webp" width="900" height="820" alt="100,000 workers earning 15,000 add 1,500 million of income. 28% (420 million) goes on imports, 1,080 million at home. The import rise worsens the current account." loading="lazy">
+  <figcaption>New jobs lift incomes, and 420 million of the 1,500 million leaks into imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

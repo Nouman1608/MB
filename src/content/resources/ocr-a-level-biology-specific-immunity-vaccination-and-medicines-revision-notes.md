@@ -47,6 +47,12 @@ Humoral response: antibodies in body fluids, from B cells. Cell-mediated respons
 
 Plasma cell adaptation: abundant rough endoplasmic reticulum and Golgi apparatus, to make and secrete protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+
 ## 4.1.1(g) Primary and secondary responses
 
 | Feature | Primary | Secondary |
@@ -64,6 +70,12 @@ Plasma cell adaptation: abundant rough endoplasmic reticulum and Golgi apparatus
 2. Read both peak values and say "x times higher" (divide).
 3. Rate = change in concentration / change in time, from two points on the steepest part.
 4. Link the differences to memory cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
 
 ### Worked reminder
 
@@ -125,6 +137,12 @@ Memory hook: the shape of the tip fits the antigen, the same way a substrate fit
 - Example: rheumatoid arthritis, where joint tissues are attacked, causing inflammation, pain and cartilage damage.
 - Treatment can suppress immunity, which raises infection risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+
 ## 4.1.1(l) Vaccination
 
 - Vaccine: antigen from a pathogen in a safe form (weakened, killed, harmless toxin or purified protein).
@@ -174,6 +192,17 @@ Reduction = (80 - 6) / 80 x 100 = 92.5 %
 
 Routine vaccinations: for example measles, mumps, rubella, diphtheria, tetanus, whooping cough, polio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--05-antibody-structure.webp" width="900" height="1320" alt="An antibody is Y-shaped, with two heavy and two light chains joined by disulfide bridges, a flexible hinge, a variable region at each arm tip forming an antigen-binding site, and a constant stem. Two binding sites let one antibody link two pathogens, so they clump (agglutination)." loading="lazy">
+  <figcaption>Antibody structure explains its specificity and its ability to clump pathogens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
+
 ## 4.1.1(m) Medicines
 
 | Source | Example |
@@ -207,6 +236,12 @@ Antibiotics do not work against viruses.
 Doublings = 10
 Number = 50 x 2^10 = 51 200
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## Command words and data
 

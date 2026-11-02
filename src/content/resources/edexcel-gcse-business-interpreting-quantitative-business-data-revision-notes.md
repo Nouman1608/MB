@@ -37,6 +37,22 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 
 The specification says the data is used to **support**, **inform** and **justify** business decisions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--03-margins-revenue-up-profit-down.webp" width="900" height="1000" alt="Two stacked bars show revenue split into cost of sales, other costs and net profit. Revenue rose 16.7 percent, cost of sales 24.4 percent and net profit fell 6.7 percent as margins dropped from 40 and 15 percent to 36 and 12 percent." loading="lazy">
+  <figcaption>Costs rose faster than revenue, so both margins fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--04-arr-press-vs-option.webp" width="900" height="1060" alt="Bars show press profits of 9, 15, 18 and 18 thousand pounds with an average of 15,000. ARR is 25 percent against 22.5 percent for the second option." loading="lazy">
+  <figcaption>ARR = average annual profit divided by cost, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--05-cash-forecast-negative-month.webp" width="900" height="990" alt="Closing balances of 1,500, minus 2,500 and 4,500 pounds for January to March from an opening 4,000 pounds; February falls below zero." loading="lazy">
+  <figcaption>A forecast can show a negative month, so short-term finance may be needed.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Measure | Formula | Where it comes from |
@@ -102,6 +118,17 @@ ARR: a repair workshop costs £20,000 and is expected to earn £4,000, £6,000, 
 - A pie chart shows shares of a whole. A 72° sector is 72 / 360 = 20%.
 - A chart shows what happened, not why. Say what else you would need to know.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--01-bookings-bar-chart.webp" width="900" height="990" alt="Bar chart of monthly bookings May to September with a dashed mean line at 300. May to July is a 133.3 percent increase and August to September a 56.5 percent decrease." loading="lazy">
+  <figcaption>Read the axis first, then use the mean and percentage change on the original figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--02-pie-sector-to-pounds.webp" width="900" height="940" alt="Pie chart of 72,000 pounds revenue: kayak hire 162 degrees (45 percent, 32,400 pounds), paddleboards 108 degrees (30 percent, 21,600 pounds), tours 90 degrees (25 percent, 18,000 pounds)." loading="lazy">
+  <figcaption>Angle divided by 360 gives the share; multiply by total revenue for pounds.</figcaption>
+</figure>
+
+
 ## Marketing data
 
 - Convert survey counts into percentages before comparing.
@@ -109,12 +136,24 @@ ARR: a repair workshop costs £20,000 and is expected to earn £4,000, £6,000, 
 - Think about the sample: how many people, and are they the right people?
 - Stated intentions may not turn into purchases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--01-ormside-survey-vouchers.webp" width="900" height="1075" alt="Horizontal bars show 320 customers surveyed: natural treats 128 (40 percent), grooming 96 (30), training toys 64 (20), none 32 (10), each replies divided by 320 times 100. Two cards compare promotions: the social media advert cost 600 pounds for 150 vouchers, 4 pounds each; the printed flyer 300 pounds for 60 vouchers, 5 pounds each." loading="lazy">
+  <figcaption>Turn counts into percentages, and divide cost by vouchers used to compare promotions.</figcaption>
+</figure>
+
+
 ## Market data
 
 - Market share can fall while sales rise, if the market grows faster than the business.
 - A 15% share is changed by percentage points, not percentages: 15% to 13% is two percentage points.
 - A rise in a supplier's price is a percentage change in costs: £8.00 to £8.60 is 7.5%.
 - Business choices after a cost rise: absorb it, raise the price, or find a cheaper supplier. Each has a risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-interpreting-quantitative-business-data--06-market-share-cawood.webp" width="900" height="990" alt="Cawood sales grew 4 percent but the market grew 20 percent, so share fell from 15 to 13 percent, a fall of 2 percentage points." loading="lazy">
+  <figcaption>Growing sales and a falling market share can happen together.</figcaption>
+</figure>
+
 
 ## Use and limitations of financial information
 
@@ -132,6 +171,12 @@ Must-know distinctions:
 - Support, inform and justify: showing what is happening, backing a choice, and giving the reason for it.
 
 Command words (Appendix 1): **Identify** (read from a graph or table), **Calculate** (workings given), **State** (up to a sentence, from the data given), **Explain** (a fact plus two expansion points, no context), **Analyse** (extended, in the context given), **Justify** (use the information to recommend one of two options), **Evaluate** (reach a supported conclusion).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

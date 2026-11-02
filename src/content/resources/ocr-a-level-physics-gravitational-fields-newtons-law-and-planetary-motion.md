@@ -75,6 +75,12 @@ The direction is towards the planet's centre, and free fall is at 8.8 m s⁻².
 
 **Link to other fields (5.4.1(e)).** Gravitational, electric and magnetic fields each give a force on an object with the right property. Gravity acts on mass. Electric fields act on charge, with field strength defined as force per unit charge in the same way: E = F/Q (section 6.2). Both point-source fields are radial and weaken with distance. They differ in one key way: gravity only attracts, because mass has one sign, while electric forces can attract or repel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
+
 ## 5.4.2 Newton's law of gravitation
 
 **Newton's law (5.4.2(a)).** Two point masses attract each other with a force proportional to the product of the masses and inversely proportional to the square of their separation:
@@ -121,6 +127,12 @@ fractional decrease     = 0.0031 %
 ```
 
 A 100 m change in height alters g by about three parts in a hundred thousand, far smaller than the uncertainty in most experiments. The field lines are effectively parallel and equally spaced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
 
 ## 5.4.3 Planetary motion
 
@@ -194,6 +206,22 @@ v  = 2πr/T = 3.07 × 10³ m s⁻¹
 Newtonian theory predicts where the orbit must be. Only one radius gives a 24-hour period, so all geostationary satellites share the same orbit height.
 
 **Uses and issues.** Because the satellite stays fixed in the sky, a ground dish can point at it without tracking. Uses include television broadcasting, telephone links and observing weather over a fixed region. Drawbacks: a signal takes at least 2 × 3.59 × 10⁷ / 3.00 × 10⁸ ≈ 0.24 s to go up and back, and coverage near the poles is poor. Satellites are expensive to build and launch, and debris from collisions or failures endangers others in the same orbit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--09-kepler-second.webp" width="900" height="970" alt="An elliptical orbit with the Sun at one focus. The line from the Sun sweeps equal areas in equal times, so the comet moves fast (54 km per s) near the Sun and slowly (10.8 km per s) far away. At closest and furthest points v1 r1 = v2 r2." loading="lazy">
+  <figcaption>Equal areas in equal times: fastest when closest to the Sun, with v1r1 = v2r2 at the two extremes.</figcaption>
+</figure>
+
 
 ## Common errors
 

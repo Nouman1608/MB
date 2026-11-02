@@ -41,6 +41,12 @@ Technology; ethical and environmental influences; market conditions and competit
 - **External influences:** customers, competitors, suppliers, law, the economy, technology.
 - **Conflicts:** low cost against high quality; speed against environmental impact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--01-yarlcote-three-measures.webp" width="900" height="1020" alt="Three panels for Yarlcote Bakery. Capacity utilisation: 18,000 loaves of a 24,000 capacity is 75%. Labour productivity: 450 loaves per employee, rising to 495 (+10%) after training. Unit cost: 27,000 pounds divided by 18,000 loaves is 1.50 pounds." loading="lazy">
+  <figcaption>Productivity, unit cost and capacity utilisation worked from one week of bakery data.</figcaption>
+</figure>
+
+
 ## 3.4.2 Operations data: formulas
 
 | Measure | Standard form |
@@ -80,6 +86,22 @@ Technology; ethical and environmental influences; market conditions and competit
 - **Using capacity efficiently:** boost demand with promotion or off-peak pricing; accept subcontract work; sub-let spare space; time maintenance for quiet periods; cut capacity if low use persists.
 - **Technology:** computer-aided design and manufacture, robots, automated stock control, production-planning software. Drawbacks: cost, retraining, breakdown and cyber risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--02-vanterra-hand-or-robot.webp" width="900" height="1060" alt="Total cost lines for assembling frames by hand (24,000 pounds fixed, 9 pounds a frame) and with a robotic cell (60,000 fixed, 5 a frame). They cross at 9,000 frames and 105,000 pounds. Below that hand is cheaper, above it the robot is. Examples at 7,000 and 12,000 frames are shown." loading="lazy">
+  <figcaption>Capital intensive becomes cheaper only above 9,000 frames.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--04-yarlcote-capacity-unit-cost.webp" width="900" height="900" alt="Unit cost per loaf falls as capacity utilisation rises: 1.75 pounds at 50 percent, 1.50 pounds at 75 percent (the lesson example) and 1.38 pounds at 100 percent, using an illustrative 9,000 pound fixed cost and 1 pound per loaf." loading="lazy">
+  <figcaption>Higher utilisation spreads the same fixed costs over more loaves, so unit cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ## 3.4.4 Quality
 
 - **Importance:** price, reputation, loyalty, fewer returns, lower waste.
@@ -89,6 +111,12 @@ Technology; ethical and environmental influences; market conditions and competit
 - **Benefits:** fewer defects, less rework, stronger brand, can support higher prices.
 - **Difficulties:** cost of training and equipment, slower output if checks are heavy, standards set higher than customers value, slow payback.
 - **Consequences of poor quality:** refunds and returns, rework and scrap, lost customers, damaged reputation, falling sales, complaint handling, possible legal claims, low staff morale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ## 3.4.5 Flexibility, inventory and supply chains
 
@@ -119,6 +147,12 @@ Technology; ethical and environmental influences; market conditions and competit
 - **Choosing suppliers:** price, quality, reliability, speed, flexibility, payment terms, ethics and environment, location, financial strength.
 - **Managing the supply chain:** share forecasts, long-term relationships, tracking technology, fewer links, agreed standards. Value: lower cost, fewer shortages, faster delivery.
 - **Outsourcing:** value is expertise, focus, variable instead of fixed costs. Risks: loss of control, dependence, confidentiality, reputational damage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--03-yarlcote-flour-reorder.webp" width="900" height="1090" alt="Flour stock falls 150 kg a day from 1,800 kg. At the re-order level of 900 kg an order of 1,500 kg is placed; after a 4-day lead time stock reaches the 300 kg buffer as the delivery arrives, lifting it back to 1,800 kg. The cycle repeats every 10 days." loading="lazy">
+  <figcaption>Re-order level = buffer + daily usage x lead time = 900 kg.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

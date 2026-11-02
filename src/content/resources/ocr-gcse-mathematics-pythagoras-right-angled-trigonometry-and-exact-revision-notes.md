@@ -49,6 +49,17 @@ Hypotenuse 10, side 6:  a² = 100 − 36 = 64,   a = 8
 
 **Derivation reminder.** Four identical right-angled triangles in a square of side (a + b) leave a tilted square of side c: (a + b)² = 4(½ab) + c², which simplifies to a² + b² = c².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+
 ## Trigonometry: method in steps
 
 1. Label the sides hypotenuse, opposite, adjacent from the angle you are using.
@@ -112,6 +123,22 @@ angle to base = tan⁻¹(5/10) = 26.6°
 
 For a pyramid with its apex above the centre of a square base, the horizontal distance to a corner is half the base diagonal, and to the middle of a base edge is half the base side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--02-pyramid-edge-and-angle.webp" width="900" height="1260" alt="A pyramid with a square base of side 10 cm and the apex V 12 cm vertically above the centre M. Half the base diagonal MC is 5 root 2, 7.07 cm. The triangle V M C has a right angle at M. Its hypotenuse is the sloping edge VC, the square root of 194, 13.9 cm. The angle between the sloping edge and the base is found from tan theta = 12 over 5 root 2, giving 59.5 degrees." loading="lazy">
+  <figcaption>The right-angled triangle V M C inside a pyramid gives the sloping edge √194 = 13.9 cm and the angle 59.5° with the base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--07-two-step-bd-then-bc.webp" width="900" height="850" alt="Triangle ABC with D on AC and BD perpendicular to it. BD = 14 sin 35 = 8.03 cm in triangle ABD, then BC = 8.03 / sin 50 = 10.5 cm in triangle BDC." loading="lazy">
+  <figcaption>Find the shared side BD first, then use it in the second triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--08-pyramid-face-angle.webp" width="900" height="950" alt="The cross-section through the apex and the midpoint of a base edge has sides 12 and 5, slant height 13 and a face angle of 67.4 degrees. A plan view shows 5 to the edge midpoint but 5 root 2 to the corner, which is used for the sloping edge angle of 59.5 degrees." loading="lazy">
+  <figcaption>Use the edge midpoint (distance 5) for the face angle and the corner (5 root 2) for the edge angle.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Rectangle diagonal.** A rectangle is 7.5 cm by 4 cm. Its diagonal is the hypotenuse of a right-angled triangle.
@@ -140,6 +167,22 @@ height = 40 × tan 28° = 21.3 m (3 s.f.)
 sin 60° ÷ tan 60° = (√3/2) ÷ √3 = 1/2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--05-grid-distance.webp" width="900" height="830" alt="A grid with A(-2, 3), B(5, 9) and a right-angled triangle with sides 7 across and 6 up. AB squared is 49 + 36 = 85, so AB = root 85 = 9.22." loading="lazy">
+  <figcaption>The distance between two points is the hypotenuse of a right-angled triangle on the grid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--06-is-it-right-angled.webp" width="900" height="940" alt="Triangle 20, 21, 29 satisfies 400 plus 441 equals 841 equals 29 squared, so it is right-angled. Triangle 9, 11, 14 gives 202 against 196, so it is not; its largest angle is 88.3 degrees." loading="lazy">
+  <figcaption>Compare the longest side squared with the sum of the other two squares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--04-hidden-right-angle.webp" width="900" height="870" alt="An isosceles triangle with equal sides 17 cm and base 16 cm is split by its height into two right-angled triangles with base 8 cm. The height is 15 cm and the area is 120 cm squared." loading="lazy">
+  <figcaption>Split an isosceles triangle down the middle and use half the base.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Idea | Do not confuse with |
@@ -152,6 +195,12 @@ sin 60° ÷ tan 60° = (√3/2) ÷ √3 = 1/2
 | cos 30° = √3/2 | cos 60° = 1/2 |
 | Angle of elevation: up from the horizontal | Angle of depression: down from the horizontal |
 | Exact value: a surd or fraction | Decimal value: rounded, so it does not answer a question that asks for an exact value |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--04-trig-multiply-or-divide.webp" width="900" height="1140" alt="Three triangles for Examples 6 to 8. With x on top (12 sin 38 = 7.39 m, 6.5 tan 52 = 8.32 cm) you multiply; with x on the bottom (5.4 / sin 28 = 11.5 cm) you divide." loading="lazy">
+  <figcaption>When the unknown is on top multiply, when it is on the bottom divide.</figcaption>
+</figure>
+
 
 ## Units, rounding and checks
 
@@ -199,6 +248,18 @@ sin 60° ÷ tan 60° = (√3/2) ÷ √3 = 1/2
 - Mixing up the two shapes behind the exact values: the 1, 1, √2 triangle is 45°, while the 1, √3, 2 triangle is 30° and 60°.
 - In 3D, using the wrong horizontal distance. A sloping edge of a pyramid goes to a corner, not to the middle of a base edge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--01-pythagoras-derivation.webp" width="900" height="1040" alt="A large square of side a plus b, with a = 3 and b = 4, so area 49. Four identical right-angled triangles with short sides 3 and 4 sit in its corners, each of area half a b, 6, so 24 altogether. A tilted inner square of side c, the hypotenuse 5, is left in the middle with area 25. So (a + b) squared equals 4 times half a b plus c squared; the 2ab terms cancel, leaving a squared plus b squared equals c squared." loading="lazy">
+  <figcaption>Four copies of a 3, 4, 5 triangle in a square of side a + b leave a tilted square c², so a² + b² = c².</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment in 2017, published by OCR. Statements 10.05a, 10.05b and 10.05c.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+

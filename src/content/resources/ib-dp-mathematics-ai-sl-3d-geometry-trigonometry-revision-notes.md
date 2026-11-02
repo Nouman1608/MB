@@ -47,6 +47,17 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 
 Limits set by the guide: SL exams only set right-angled trigonometry on 3D shapes; no ambiguous case of the sine rule; radians are not required at SL (radians are HL only, AHL 3.7). The guide says all formulae required for the course are in the formula booklet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--05-elevation-two-points.webp" width="900" height="940" alt="From A the angle of elevation of a tower top is 32 degrees; after walking 40 m to B it is 51 degrees. Triangle ABT has angles 32, 129 and 19 degrees, the sine rule gives BT = 65.1 m, and the height is BT sin 51 = 50.6 m." loading="lazy">
+  <figcaption>Two elevation angles from points in line with a tower give its height via the sine rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--07-arc-sector-fraction.webp" width="900" height="1070" alt="A sector of radius 9 cm and angle 150 degrees is 5/12 of the circle. Arc = 23.6 cm, area = 106 square cm, perimeter = 23.6 + 9 + 9 = 41.6 cm. An arc of 20 cm gives an angle of 127.3 degrees." loading="lazy">
+  <figcaption>Arc length and sector area are the same fraction, angle/360, of the circumference and area.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula |
@@ -112,6 +123,17 @@ Limits set by the guide: SL exams only set right-angled trigonometry on 3D shape
 
 **Segment.** Radius 10 m, angle 80°: sector 69.81 m² minus triangle (1/2)(10²) sin 80° = 49.24 m² gives 20.6 m².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--03-hemisphere-cone-solid.webp" width="900" height="810" alt="A hemisphere of radius 6 cm with a cone of height 8 cm on its flat face. The slant height is 10 cm. Outside surface is 60 pi (cone) plus 72 pi (hemisphere) = 132 pi, about 415 square cm; volume is 240 pi, about 754 cubic cm. The joint circle is not counted." loading="lazy">
+  <figcaption>Only the curved outside surfaces count in the surface area of a hemisphere and cone joined face to face.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--04-obtuse-cosine-rule.webp" width="900" height="990" alt="A 7, 9, 12 triangle drawn to scale. The cosine rule gives cos C = -14/126, a negative value, so C is obtuse at 96.4 degrees, shown on a cosine graph. The area is 31.3 square cm." loading="lazy">
+  <figcaption>A negative cosine from the cosine rule means the angle is obtuse.</figcaption>
+</figure>
+
+
 ## GDC checklist
 
 The guide lists technology as required on every AI paper. Use it, but show the set-up.
@@ -133,6 +155,12 @@ The guide lists technology as required on every AI paper. Use it, but show the s
 | Sector vs segment | Segment = sector − triangle, triangle area = (1/2)r² sin θ |
 | Line-plane angle in a pyramid | Sloping edge: projection is half a diagonal. Apex to edge midpoint: projection is half a side |
 | Sphere vs hemisphere surface | Sphere 4πr²; hemisphere curved 2πr², total 3πr² if the flat face shows |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--02-pyramid-angles.webp" width="900" height="1110" alt="Two copies of a right pyramid with base side 10 and height 12. The angle between a sloping edge and the base uses half a diagonal (7.07), giving 59.5 degrees. The angle between the face line to an edge midpoint and the base uses half a side (5), giving 67.4 degrees." loading="lazy">
+  <figcaption>The angle between a line and a plane is measured against the line's projection on that plane.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -164,6 +192,12 @@ The guide lists technology as required on every AI paper. Use it, but show the s
 11. 60/tan 25° = **129 m**
 12. 062° + 180° = **242°**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--08-segment-sector-minus-triangle.webp" width="900" height="910" alt="A sector of radius 10 m and angle 80 degrees has area 69.8 square m; its triangle has area 49.2 square m; the segment between chord and arc is the difference, 20.6 square m." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using vertical height where slant height is needed (or the reverse) in cone and pyramid surface areas.
@@ -175,6 +209,12 @@ The guide lists technology as required on every AI paper. Use it, but show the s
 - Giving a bearing as "77°" instead of three figures, 077°, or measuring it anticlockwise.
 - Leaving out the two radii when a sector perimeter is asked for.
 - Answering in radians because the calculator was in radian mode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--06-bearings-back-bearing.webp" width="900" height="940" alt="A boat sails 12 km on bearing 040 to P then 9 km on bearing 130 to Q. North lines are drawn at H and P; the back bearing at P is 220, so angle HPQ is 90 degrees, HQ is 15 km and the bearing of Q from H is 076.9 degrees." loading="lazy">
+  <figcaption>Draw a north line at every point and use back bearings to find interior angles.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

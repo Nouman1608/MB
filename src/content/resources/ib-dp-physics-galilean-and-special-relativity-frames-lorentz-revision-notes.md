@@ -35,10 +35,37 @@ Links: [IB DP Physics hub](/boards/ib/ib-dp/physics/), [printable checklist](/ch
 - **Invariant**: has the same value in all inertial frames (the space-time interval is one).
 - **World line**: the path of a particle on a space-time diagram. This unit uses constant velocity only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--05-time-dilation.webp" width="900" height="980" alt="Top: one clock at one place records 3.0 s (proper time). Bottom: in the Earth frame the same events are 1.2e9 m apart and need two clocks, giving 5.0 s. The longer bar is gamma times the shorter." loading="lazy">
+  <figcaption>Proper time is the shorter interval, measured on one clock where both events happen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--07-simultaneity.webp" width="900" height="910" alt="A space-time diagram with flashes A and B 600 m apart on the same horizontal line, so simultaneous in S. The tilted x′ line through B meets the ct′ axis at -346 m (-1.15 us), so B happens first in S′ moving at 0.50c." loading="lazy">
+  <figcaption>Events simultaneous in S but at different x are not simultaneous in S′.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--08-spacetime-axes.webp" width="900" height="1010" alt="A space-time diagram with light lines at 45 degrees and the S′ axes for 0.60c tilted by 31.0 degrees towards the light line. Event P (x = 1.0, ct = 2.0 light-seconds) is read in S′ along lines parallel to the primed axes: x′ = -0.25, ct′ = 1.75." loading="lazy">
+  <figcaption>Read S′ coordinates along lines parallel to the tilted primed axes, not perpendicular to them.</figcaption>
+</figure>
+
+
 ## The two postulates
 
 1. The laws of physics take the same form in every inertial reference frame.
 2. The speed of light in a vacuum is the same in all inertial frames, independent of the motion of source or observer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--01-galilean-transformation.webp" width="900" height="960" alt="Two position axes at the same instant, t = t′ = 40 s. Frame S′ moves at 12 m/s, so its origin is 480 m along S. An event at x = 300 m in S is at x′ = -180 m in S′. A car at 30 m/s in S has u′ = 18 m/s in S′." loading="lazy">
+  <figcaption>Galilean transformation: x′ = x - vt, t′ = t and u′ = u - v.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--04-invariant-interval.webp" width="900" height="980" alt="The same two events in S (dx = 1.2e9 m, c dt = 1.5e9 m) and in S′ at 0.80c (dx′ = 0, c dt′ = 0.9e9 m). Both give (Delta s)^2 = 0.81e18 m^2, so Delta s = 0.9e9 m and proper time 3.0 s." loading="lazy">
+  <figcaption>The interval Delta s is the same in every inertial frame, and the proper time is Delta s divided by c.</figcaption>
+</figure>
+
 
 ## Formula table
 
@@ -109,6 +136,12 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 - **Symmetry**: each inertial observer sees the other's clock slow and the other's rod contracted.
 - **Axes on a diagram**: ct and x are perpendicular. ct′ and x′ are not drawn perpendicular, and their scales differ from ct and x.
 - **Muon evidence**: in the Earth frame, the muon lifetime is dilated. In the muon frame, the distance is contracted. Both lead to the same result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--09-muon-decay.webp" width="900" height="980" alt="Two views of muons at 0.98c with lifetime 2.2 us. In the Earth frame, dilation lets them travel 3.3 km instead of 650 m. In the muon frame, the 6.0 km layer is contracted to 1.19 km and crossed in 4.1 us." loading="lazy">
+  <figcaption>Time dilation in the Earth frame and length contraction in the muon frame explain the same observation.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -85,6 +85,12 @@ Ketone: 4.16 ÷ 6.40 = **0.65**. Alcohol: 1.28 ÷ 6.40 = **0.20**.
 
 **Limitation.** Two compounds can share an Rf value, so a match supports an identification but does not prove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
+
 ## 6.3.1(b): Gas chromatography
 
 In GC the mobile phase is an unreactive carrier gas, such as helium or nitrogen. The stationary phase is a high-boiling liquid on a solid support inside a long, thin column in an oven. The sample is injected, vaporised and carried through the column to a detector. The chromatogram shows detector response against time.
@@ -94,6 +100,12 @@ In GC the mobile phase is an unreactive carrier gas, such as helium or nitrogen.
 The **retention time** is how long a component takes, from the moment of injection, to reach the detector. Read it at the top of the peak. A component that is more soluble in the liquid stationary phase, or less volatile, spends longer in the column and has a longer retention time.
 
 Retention time also depends on the column, oven temperature and carrier gas flow rate. To identify a peak, compare it with a pure standard run under the same conditions. Two compounds can share a retention time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--02-deprotonation-ladder.webp" width="900" height="970" alt="Two rows of hexa-aqua complexes with six ligand circles. Water ligands (teal) become hydroxide ligands (gold) one at a time, each step removing H+ and lowering the charge by 1. A 2+ ion reaches charge 0 after two steps and a 3+ ion after three; the neutral complex is the precipitate." loading="lazy">
+  <figcaption>A complex that has lost enough H+ to reach zero charge is no longer attracted to water and precipitates.</figcaption>
+</figure>
+
 
 ### (b)(ii) Amounts and proportions
 
@@ -140,6 +152,12 @@ A citrus extract was diluted by a factor of 5 and injected. Its limonene peak ar
 
 The unknown lies inside the range of the standards; reading beyond them would mean extrapolating, which is less reliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
+
 ## 6.3.1(c): Tests for organic functional groups
 
 These tests use a test-tube scale: a few drops of liquid or a little solid, with a few cm³ of reagent. Key techniques for PAG7:
@@ -179,6 +197,12 @@ Bottles A to D hold butanal, butanone, butan-2-ol and 2-methylpropan-2-ol, in so
 1. **2,4-DNP.** A and C give yellow-orange precipitates, so they are the carbonyl compounds. B and D give no precipitate.
 2. **Tollens' on A and C.** C gives a silver mirror; A does not. **C is butanal** and **A is butanone**.
 3. **Acidified dichromate on B and D.** B turns green; D stays orange. **B is butan-2-ol** (secondary) and **D is 2-methylpropan-2-ol** (tertiary).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--03-hydroxide-ammonia-tests.webp" width="900" height="1220" alt="A grid of test tubes for Fe2+, Cu2+, Fe3+ and Al3+ showing the starting solution and the result with a few drops and excess NaOH, then NH3. Fe2+ gives a green and Fe3+ a brown precipitate that never dissolves; Cu2+ gives a pale blue precipitate that dissolves only in excess NH3 to a deep blue solution; Al3+ gives a white precipitate that dissolves only in excess NaOH." loading="lazy">
+  <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
+</figure>
+
 
 ## Common errors
 

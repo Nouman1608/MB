@@ -61,6 +61,12 @@ Step 4  Consequence                 Price, pack size and promotion must now be
 
 A stronger answer also offers a way forward: Aldersley could run a short taste panel and price test with shoppers, then change pack size before a full launch. That moves it toward market orientation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--01-market-vs-product-orientation.webp" width="900" height="910" alt="Two three-step flows. Market orientation: ask customers what they need, design the product to match, sell to buyers who want it. Product orientation: start with what the business can make, make it, then look for buyers. The orientation shapes every later marketing decision." loading="lazy">
+  <figcaption>Market orientation starts from customer needs; product orientation starts from what the business can make.</figcaption>
+</figure>
+
+
 ### Market share
 
 **Market share** is the proportion of total sales in a market that one business wins. The guide lists it without a formula, so this is the standard form:
@@ -70,6 +76,17 @@ market share (%) = (business's sales revenue / total sales revenue of the market
 ```
 
 Use the same measure (revenue or units) and the same time period on the top and bottom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--09-share-leadership-balance.webp" width="900" height="810" alt="Higher level only. A balance: gains of leading (buying power and lower unit costs, brand strength and premium pricing, stakeholder confidence) against costs and risks (promotion or price cuts shrink profit, share can hide weak profit, a big share of a shrinking market is weak). Read share with market growth." loading="lazy">
+  <figcaption>Market leadership brings gains but also costs and risks, so weigh both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
 
 ### Market growth
 
@@ -95,6 +112,12 @@ Greywick share Y2  = 12.5 / 51.84 x 100                       = 24.1% (3 s.f.)
 Interpretation: Lunthorpe's sales grew by 18.75%, more than double the market's 8.0%, so its share rose by about one percentage point. Greywick's sales also rose, but by only about 4.2%, which is below market growth, so its share slipped even though it sold more. Rising sales do not guarantee a rising share. Say "percentage points" when you compare two shares.
 
 When a question says "comment", follow the calculation with a judgment: Lunthorpe is gaining ground, but it is still far behind the leader, so the number alone does not prove it is winning the market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--08-share-vs-market-growth.webp" width="900" height="870" alt="Bar chart of sales growth: Lunthorpe 18.75 percent, whole market 8.0 percent, Greywick 4.2 percent, with a dashed market-growth line. Lunthorpe's share rises from 10.0 to 11.0 percent; Greywick's slips from 25.0 to 24.1 percent." loading="lazy">
+  <figcaption>A business gains share only when its sales grow faster than the market.</figcaption>
+</figure>
+
 
 ### The importance of market share and market leadership (HL only)
 
@@ -148,6 +171,27 @@ low     |  Rival B         |                  |                  |
 
 Reading the map: Cadwallow is positioned as a premium touring specialist. The empty top-left cell (a low-priced tourer) is a gap, but the map cannot say whether enough customers would pay for it. Further research would be needed before moving into it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--09-position-map.webp" width="900" height="860" alt="Position map with price on the horizontal axis and touring suitability on the vertical axis. Cadwallow is high on both, Rival A high price and medium suitability, Rival B low on both, Rival C medium on both. The low-price, high-suitability area is empty." loading="lazy">
+  <figcaption>A position map shows crowded areas and gaps, but cannot say whether a gap is worth entering.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--10-segment-value.webp" width="900" height="900" alt="Rectangles whose width is buyers per year and height is average spend, so area is value: commuters 18.0 million, weekend riders 19.8 million, tourers 8.4 million, total 46.2 million. Tourers are 18.2 percent of the total with the highest spend per buyer; a 20 percent share is 700 bikes, 1.68 million dollars." loading="lazy">
+  <figcaption>The tourer niche is the smallest segment by value but has the highest spend per buyer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--11-segmentation-bases.webp" width="900" height="890" alt="A row of customers in three colour groups shows a market split into segments. Four common bases: demographic (age, income), geographic (place), psychographic (way of life) and behavioral (buying habits). After segmentation come targeting and positioning." loading="lazy">
+  <figcaption>Markets can be segmented by who people are, where they live, how they live and how they buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
+
 ### Niche market and mass market
 
 A **niche market** is a small, specialized segment with distinct needs. A **mass market** is a large market of customers with broadly similar needs, served with a standard offer.
@@ -160,6 +204,12 @@ A **niche market** is a small, specialized segment with distinct needs. A **mass
 | Risk | Dependence on a small customer base | Low margins; hard to stand out |
 
 In the Cadwallow case, the niche has the smallest value but the highest spend per buyer, which is why a specialist can profit there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
 
 ### The importance of a USP
 
@@ -177,6 +227,22 @@ Differentiation means making an offer different from rivals' in ways customers n
 - **Ethical or sustainable practices**, if the target market values them.
 
 Differentiation has a cost, and it only pays if the extra price or extra sales exceed it. Link the method to the target market: a service advantage helps little with customers who buy purely on price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--01-differentiation-routes.webp" width="900" height="928" alt="Six tiles show ways a business can differentiate itself: product features and quality, brand image and packaging, service, place and access, and price positioning (cheaper or premium), and ethical or sustainable practices. A panel says differentiation is worth it only if the extra income is greater than the extra cost." loading="lazy">
+  <figcaption>Six routes to differentiation, worthwhile only when extra income exceeds extra cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--10-usp-differentiation.webp" width="900" height="750" alt="A hub with USP in the centre and six routes: product features and quality, branding and image, service, place and access, price positioning, ethical or sustainable practices. A USP works only if buyers value it and rivals cannot easily copy it." loading="lazy">
+  <figcaption>Six routes can create a USP, but it must be valued and hard to copy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--02-marketing-planning-chain.webp" width="900" height="730" alt="A chain: the corporate objective must be supported by the marketing objectives (market share, brand awareness), which are reached through the marketing mix strategy (the seven Ps). Market research informs the objectives and sales forecasts (HL only) inform the plan. An illustrative bar shows market share of 12% against a 15% target." loading="lazy">
+  <figcaption>Marketing objectives must support the corporate objective and are met through the marketing mix, informed by research and forecasts.</figcaption>
+</figure>
+
 
 ## Common errors
 

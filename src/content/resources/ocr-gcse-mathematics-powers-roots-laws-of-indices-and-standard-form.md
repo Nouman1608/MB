@@ -71,6 +71,12 @@ Roots undo powers. The square root √144 = 12 because 12² = 144. The cube root
 
 Answer: **42**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
+
 ## Negative indices (3.01a, 3.01b)
 
 A negative index means "one over". Write a⁻ⁿ = 1/aⁿ. The sign tells you to take the reciprocal. It does not make the answer negative.
@@ -92,6 +98,17 @@ For a fraction, the reciprocal flips it and the index becomes positive.
 Answer: **27/8** (or 3 3/8).
 
 A power of zero gives 1 for any non-zero base. This follows from the division law below: 5³ ÷ 5³ = 5⁰, and anything divided by itself is 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--08-reciprocal-flip-powers.webp" width="900" height="1090" alt="(2/3)^-3 is flipped to (3/2)^3 = 27/8. For the Higher tier equation y^(-1/2) = 1/5: 1/root y = 1/5, root y = 5, y = 25." loading="lazy">
+  <figcaption>Negative index: flip the fraction. Undo a negative fractional index by flipping and squaring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
 
 ## The laws of indices (3.01c)
 
@@ -139,6 +156,17 @@ so n = −3
 
 Answer: **n = −3**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--07-index-lanes.webp" width="900" height="860" alt="Two worked index simplifications split into a lane for the numbers and a lane for each letter, giving 18x^3 and (5/2)x^2y^3." loading="lazy">
+  <figcaption>Handle the number part first, then each letter separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+
 ## Fractional indices (3.01a, 3.01b) -- Higher tier only
 
 A fractional index is a root. In a^(m/n), the bottom number n names the root and the top number m is the power.
@@ -183,6 +211,12 @@ y = 25
 
 Answer: **y = 25**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+
 ## Estimating powers and roots (3.01b) -- Higher tier only
 
 To estimate a root, find the perfect squares or cubes on either side, then decide which is closer.
@@ -198,6 +232,12 @@ so √200 is below 14.5, and rounds to 14
 Answer: **14**.
 
 The same method works for cube roots. For ∛70: 4³ = 64 and 5³ = 125, and 4.5³ = 91.125 is above 70, so ∛70 is nearer 4. To estimate a power, round the base: 4.1³ is close to 4³ = 64.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--09-estimate-roots.webp" width="900" height="1060" alt="Two number lines. √200 lies between 14 (196) and 15 (225); 14.5² = 210.25 is above 200 so √200 ≈ 14.14 rounds to 14. ∛70 lies between 4 (64) and 5 (125); 4.5³ = 91.125 is above 70 so ∛70 ≈ 4.12 is nearer 4." loading="lazy">
+  <figcaption>Use the midpoint square or cube to decide which whole number a root is nearer.</figcaption>
+</figure>
+
 
 ## Standard form: converting and interpreting (3.02a)
 
@@ -230,6 +270,17 @@ Numbers like 37.5 × 10⁴ or 0.8 × 10⁵ are **not** in standard form because 
 ```
 
 Order: **4.1 × 10⁻², 8 × 10⁴, 2.9 × 10⁵, 3.2 × 10⁵**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--08-standard-form-order.webp" width="900" height="710" alt="Four numbers in rows by power of 10, smallest first: 4.1 × 10⁻², 8 × 10⁴, 2.9 × 10⁵, 3.2 × 10⁵. The last two share a power so A is compared (2.9 &lt; 3.2)." loading="lazy">
+  <figcaption>Compare powers of 10 first, then the A values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## Calculations in standard form (3.02b)
 
@@ -282,6 +333,17 @@ Answer: **4.82 × 10⁶**.
 ```
 
 Answer: **3 × 10³ bytes**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--06-standard-form-multiply-divide.webp" width="900" height="1010" alt="Worked multiply and divide: (3.2 × 10⁵) × (4 × 10⁻⁸): 3.2 × 4 = 12.8, indices 5 + (−8) = −3, then tidy 12.8 to 1.28 and raise the index to −2 giving 1.28 × 10⁻². (9.6 × 10⁷) ÷ (1.6 × 10⁻³): 6 and 7 − (−3) = 10, giving 6 × 10¹⁰." loading="lazy">
+  <figcaption>Multiply or divide the numbers, add or subtract the indices, then tidy A into 1 to 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--07-standard-form-add.webp" width="900" height="870" alt="Bars drawn to scale: 4.5 × 10⁶ and 3.2 × 10⁵ rewritten as 0.32 × 10⁶ combine to length 4.82, so the sum is 4.82 × 10⁶. Indices are added only when multiplying." loading="lazy">
+  <figcaption>To add standard form numbers, match the powers of 10 first.</figcaption>
+</figure>
+
 
 ## Common errors
 

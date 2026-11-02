@@ -55,6 +55,12 @@ The International Labour Organisation (ILO) measure counts a person as unemploye
 
 Now suppose 44,000 unemployed people give up looking and become inactive. Unemployed = 176,000. Labour force = 4,356,000. Rate = 176,000 ÷ 4,356,000 × 100 = **4.04%**. The rate fell although nobody found a job, and participation fell to 67.0%. So a falling rate can hide discouraged workers. Because the ILO measure relies on survey answers about searching, it also excludes people who want work but are not searching.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--06-ilo-discouraged-workers.webp" width="900" height="950" alt="Two bars split the working-age population into employed, unemployed and inactive. When 44,000 unemployed people stop looking, the rate falls from 5.0% to 4.04% and participation from 67.7% to 67.0%, though nobody found a job." loading="lazy">
+  <figcaption>A falling unemployment rate can hide discouraged workers leaving the labour force.</figcaption>
+</figure>
+
+
 ## Types of unemployment
 
 | Type | Cause | Example | Suited policy |
@@ -68,11 +74,28 @@ Now suppose 44,000 unemployed people give up looking and become inactive. Unempl
 
 **Supply-side causes and LRAS.** Structural and frictional unemployment are supply-side. They reduce the normal capacity level of output, so the vertical long-run aggregate supply (LRAS) curve sits further left than it would with better matching. Raising aggregate demand alone then risks inflation instead of jobs. The policy must match the cause: retraining and mobility help structural unemployment, and extra demand does not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--09-lras-structural-unemployment.webp" width="900" height="915" alt="AD/AS diagram. The vertical LRAS shifts left from LRAS1 to LRAS2 because structural and frictional unemployment reduce normal capacity. The original equilibrium E is then above potential output, so raising aggregate demand alone risks higher prices instead of more jobs." loading="lazy">
+  <figcaption>Structural and frictional unemployment lower potential output, so more demand alone brings inflation, not jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## Unemployment and underemployment
 
 Unemployed people have no work. Underemployed people have work but not enough of it or not the right kind: part-timers who want full-time hours, or graduates in jobs that use few of their skills.
 
 **Worked example.** In Country Alpha, 410,000 of the 4,180,000 employed want more hours. Underemployment = 410,000 ÷ 4,180,000 × 100 = **9.8%**. A worker on 16 hours who wants 40 has 24 unused hours, or 60% of capacity. These people are counted as employed, so the 5.0% unemployment rate understates spare capacity in the labour market. Underemployment signals wasted resources, lower incomes and lower output, and it can mean a negative output gap even when headline unemployment looks low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--07-underemployment.webp" width="900" height="810" alt="The unemployment rate of 5.0% sits beside an underemployment rate of 9.8%. A part-timer on 16 hours who wants 40 has 24 unused hours, 60% of capacity." loading="lazy">
+  <figcaption>Underemployed workers count as employed, so the headline rate understates spare capacity.</figcaption>
+</figure>
+
 
 ## Demand-side and supply-side influences on employment
 
@@ -84,6 +107,12 @@ Labour demand is derived demand: firms hire workers to produce goods that people
 Underemployment has both sides too: weak demand leads firms to cut hours instead of jobs, while skill mismatch, a shortage of full-time vacancies and the spread of short-hours contracts keep workers in too little or unsuitable work.
 
 Chain: higher business confidence → more investment → higher aggregate demand → firms expand → more vacancies → employment rises, unemployment falls. This lasts only if capacity grows. If the economy is near capacity, wages and prices rise instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--08-demand-jobs-chain.webp" width="900" height="818" alt="A chain of five boxes: business confidence rises, investment rises, aggregate demand rises, firms expand and vacancies rise, employment goes up and unemployment goes down. A side box says that near capacity wages and prices rise instead, and another says the jobs last only if capacity grows." loading="lazy">
+  <figcaption>Higher confidence raises investment and demand, which lifts employment, but only lasting growth in capacity keeps the jobs.</figcaption>
+</figure>
+
 
 ## Global influences
 
@@ -112,6 +141,27 @@ Real wage: if nominal pay rises 3.1% and prices rise 4.5%, real pay changes by 1
 
 **Deflationary policy.** Policies that cut aggregate demand (higher taxes, higher interest rates) are called deflationary. They usually produce disinflation: a tax rise might cut inflation from 5% to 3%, so prices still rise. Deflation needs a fall in the price level itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--08-disinflation-vs-deflation.webp" width="900" height="860" alt="A price index starting at 100 rises to 114.6 when inflation falls from 7% to 5% to 2% (disinflation) but falls to 95.57 when prices drop 1.5% a year (deflation)." loading="lazy">
+  <figcaption>Disinflation is a falling inflation rate; deflation is a falling price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--10-basket-index-check.webp" width="900" height="840" alt="Three bars whose widths are the basket weights (food 30 percent, housing 40 percent, transport 30 percent) and whose heights are item indices 108, 104 and 120. Each contributes 32.4, 41.6 and 36.0, which add to the weighted index of 110.0." loading="lazy">
+  <figcaption>A weighted price index is the sum of weight times item index: 32.4 + 41.6 + 36.0 = 110.0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## Demand-pull inflation
 
 Demand-pull inflation comes from a rightward shift of aggregate demand (AD) along short-run aggregate supply (SRAS), especially near full capacity. Causes: faster consumer spending, investment, government spending, export demand, or excessive growth in the money supply.
@@ -121,6 +171,12 @@ Demand-pull inflation comes from a rightward shift of aggregate demand (AD) alon
 | AD shifts right from AD to AD2 | 100 → 108 | 500 → 520 (+4.0%) |
 
 Money supply chain: if the money supply grows 9% a year while capacity grows 2%, and people's spending per unit of money is steady, spending outruns output. Excess ≈ 1.09 ÷ 1.02 − 1 = **6.9%**, which bids up prices. Faster money growth raises AD only if money is spent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## Cost-push inflation
 
@@ -134,11 +190,23 @@ Output falls while prices rise, so unemployment may rise too.
 
 **Worked example (bakery, illustrative).** Cost per loaf 2.00: ingredients 40%, energy 15%, labour 45%. Ingredients +10%, energy +20%, labour +2%. Cost rise = 0.40 × 10 + 0.15 × 20 + 0.45 × 2 = 4.0 + 3.0 + 0.9 = **7.9%**. New cost = 2.00 × 1.079 = **2.158**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--09-cost-push-bakery.webp" width="900" height="760" alt="Before and after bars show a loaf costing 2.00 rising to 2.158 as ingredients rise 10%, energy 20% and labour 2%. Weighted contributions are 4.0, 3.0 and 0.9 percentage points, a 7.9% rise." loading="lazy">
+  <figcaption>Cost rises are weighted by each input's share of total cost.</figcaption>
+</figure>
+
+
 ## External events and the exchange rate
 
 **World commodity prices.** If a key fuel or metal becomes dearer on world markets, firms that use it face higher costs (cost-push). Households buy it directly. How far inflation rises depends on how much the economy imports and whether the country can switch to substitutes.
 
 **Exchange rate.** Country Delta's currency is the zed. An imported good costs 50 foreign units. At 1 zed = 2.0 foreign units, it costs 25 zeds. After the zed depreciates to 1.6, it costs 50 ÷ 1.6 = 31.25 zeds, **+25%**. If imports are 20% of the basket and pass-through is 60%, imported inflation adds 0.6 × 0.20 × 25 = **3.0 percentage points**. Depreciation also lifts exports and AD (demand-pull). Appreciation works in reverse and can reduce inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--10-depreciation-imported-inflation.webp" width="900" height="960" alt="A good costing 50 foreign units rises from 25 to 31.25 zeds when the zed falls from 2.0 to 1.6. With imports 20% of the basket and 60% pass-through, inflation rises by 3.0 percentage points." loading="lazy">
+  <figcaption>Depreciation raises import prices; the effect on inflation depends on import share and pass-through.</figcaption>
+</figure>
+
 
 ## Common errors
 

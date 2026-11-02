@@ -60,6 +60,12 @@ A vector has both **magnitude** (size) and **direction**. A scalar, such as 5 or
 
 A column vector (x, y) means "move x across and y up". Negative x is left and negative y is down. So →AB = (4, −3) means from A go 4 right and 3 down to reach B. Reversing the direction changes every sign: →BA = −→AB = (−4, 3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
+
 ### Scalar multiples, addition and subtraction
 
 - Multiply by a scalar: 3(2, −5) = (6, −15). The result is parallel to the original and three times as long. A negative scalar reverses the direction.
@@ -67,6 +73,22 @@ A column vector (x, y) means "move x across and y up". Negative x is left and ne
 - Adding vectors means following one and then the other ("nose to tail"). The single vector from the start to the end is the **resultant**.
 
 Two vectors are **parallel** when one is a scalar multiple of the other. For example, 6**a** − 9**b** = 3(2**a** − 3**b**), so 6**a** − 9**b** is parallel to 2**a** − 3**b** and three times as long.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <figcaption>p − q is p plus the opposite of q.</figcaption>
+</figure>
+
 
 ### Modulus
 
@@ -108,6 +130,12 @@ SQ = SR + RQ = 2a − (3a − b) = −a + b
 
 Checking by another route, →SP + →PQ, gives the same answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--09-quadrilateral-pqrs.webp" width="900" height="870" alt="Quadrilateral PQRS on a grid with example vectors a = (2, 1) and b = (0, 2). PQ = a + 2b, QR = 3a - b, RS = -2a, so PS = 2a + b (dashed) and SQ = -a + b." loading="lazy">
+  <figcaption>Worked example 3 drawn on a grid.</figcaption>
+</figure>
+
+
 ### Vector proof
 
 Section 5.1 G asks you to "apply vector methods for simple geometrical proofs". The usual targets are:
@@ -128,6 +156,12 @@ OD = 2a + b = 3 × ON
 →OD is a multiple of →ON, so the lines ON and OD are parallel. They share the point O, so O, N and D are collinear. Also →ND = →OD − →ON = (2/3)(2**a** + **b**) = 2→ON, so **ON : ND = 1 : 2**.
 
 A proof must end with a sentence that names both facts: the scalar multiple *and* the common point. "Parallel" alone does not prove three points are on one line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-vec-proof-collinear.webp" width="900" height="1010" alt="Triangle OAB is drawn with a = (3,1), b = (1,4). N divides AB in ratio 1:2 and ON = (1/3)(2a + b). D has OD = 2a + b = 3 ON, so O, N and D are on one line with ON : ND = 1 : 2." loading="lazy">
+  <figcaption>OD is a multiple of ON and both start at O, so O, N and D are collinear.</figcaption>
+</figure>
+
 
 ## 5.2 Transformation geometry (both tiers)
 
@@ -155,6 +189,12 @@ Add the centre back:   (1, 2), (1, 4), (−2, 2)
 
 The image has vertices **(1, 2), (1, 4) and (−2, 2)**. Check one length: the side from (3, 2) to (5, 2) has length 2, and so does its image from (1, 2) to (1, 4).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--04-vec-rotation-about-centre.webp" width="900" height="848" alt="Triangle T with vertices (3,2), (5,2), (3,5) turns 90° anticlockwise about (2,1) to T′ with vertices (1,2), (1,4), (−2,2). The method is subtract the centre, turn (x, y) to (−y, x), add the centre." loading="lazy">
+  <figcaption>Rotating about a centre that is not the origin: subtract the centre, turn, add it back.</figcaption>
+</figure>
+
+
 ### Reflection
 
 A reflection is specified by a **mirror line**. The specification lists lines such as x = 1, y = 2, y = x and y − x = 0. Note that y − x = 0 is the same line as y = x.
@@ -167,6 +207,17 @@ For example, reflecting (3, −1) gives (−1, 3) in y = x, (−1, −1) in x = 
 
 To **construct** a mirror line from an object and its image, join a point to its image and draw the perpendicular bisector of that segment. Check it with a second pair of points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--05-vec-one-point-three-mirrors.webp" width="900" height="1036" alt="The point (3,−1) is reflected in x = 1, y = 2 and y = x, giving (−1,−1), (3,5) and (−1,3). In y = x the coordinates swap. The point and its image are equally far from each mirror." loading="lazy">
+  <figcaption>One point reflected in three of the specification mirror lines, including y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--06-construct-mirror-line.webp" width="900" height="1028" alt="Triangle ABC and its image A′B′C′ on a grid. Join A to A′, draw equal arcs from A and A′ to find two crossing points, and draw the line through them: this is the mirror line y = x. It also passes through the midpoint of BB′." loading="lazy">
+  <figcaption>Constructing the perpendicular bisector of a point and its image.</figcaption>
+</figure>
+
+
 ### Translation
 
 A translation is specified by a distance and a direction, written as a column vector. Translating by (−5, 3) moves every point 5 left and 3 up. To describe a translation, subtract object coordinates from image coordinates: image − object.
@@ -174,6 +225,12 @@ A translation is specified by a distance and a direction, written as a column ve
 ### What each transformation keeps
 
 Rotations, reflections and translations preserve **length and angle**, so the image is **congruent** to the object. Enlargements preserve **angles but not lengths**, so the image is similar to the object, not congruent (unless the scale factor is 1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-congruent-vs-similar.webp" width="900" height="1020" alt="Four panels show a 3-4-5 triangle and its image. Translation, reflection and rotation keep lengths and angles, so the image is congruent. Enlargement by 2 doubles lengths (hypotenuse 5 to 10) but keeps angles, so the image is similar." loading="lazy">
+  <figcaption>Congruent or similar: what each transformation keeps.</figcaption>
+</figure>
+
 
 ### Enlargement
 
@@ -194,6 +251,17 @@ add C back:       (3, 1), (5, 1), (5, 3)
 ```
 
 The image is **(3, 1), (5, 1), (5, 3)**. Each side is half as long and each angle is unchanged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--06-vec-find-enlargement-centre.webp" width="900" height="1010" alt="Shape P and its enlargement Q are drawn. Lines through each vertex and its image meet at (1,1), the centre. Q is 3 times as far from the centre as P, so the scale factor is 3." loading="lazy">
+  <figcaption>Join each point to its image; the lines meet at the centre of enlargement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--08-enlargement-no-centre.webp" width="900" height="850" alt="A small right-angled triangle (legs 2 and 1) and two copies with legs 4 and 2, drawn in different places. With no centre only the size matters: lengths double, angles stay the same and sides stay parallel." loading="lazy">
+  <figcaption>Enlargement with no centre can be drawn anywhere.</figcaption>
+</figure>
+
 
 ### Complete descriptions
 

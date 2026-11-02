@@ -54,12 +54,34 @@ These are condensed notes for sections 9.2 Quality management and 9.3 Operations
 
 Must-know distinction: QC detects after the event; QA prevents by controlling the process; TQM makes everyone responsible, so it reduces the need for inspectors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--11-qa-payoff.webp" width="900" height="810" alt="Two bars: before quality assurance 800 faulty mugs at $4 cost $3,200; after, 300 faulty mugs cost $1,200 plus $1,800 for QA, $3,000. The net monthly gain is $200." loading="lazy">
+  <figcaption>Quality assurance saves $2,000 of scrap but costs $1,800, a net gain of $200 a month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--11-tqm-everyone.webp" width="900" height="940" alt="Four departments (operations, finance, marketing, HR) around a central quality star show that everyone owns quality. Below, a chain of three stages and a customer, each stage with a shield, shows each stage treating the next as its customer and passing on nothing faulty." loading="lazy">
+  <figcaption>In TQM every employee in every department is responsible for quality, getting it right first time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+
 ## 9.2.2 Benchmarking
 
 Comparing performance, processes or products with the best (a rival, a leader in another industry with a similar process, or the best unit inside the business) and using the gap to set targets and make changes. These groupings are the standard description; the syllabus asks for its importance in quality management.
 
 - Importance: shows where the business falls short; sets realistic targets; supports continuous improvement.
 - Limits: rival data is hard to obtain; one business's method may not suit another; targets only match the best.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--14-benchmark-gap.webp" width="900" height="730" alt="Quenmoor takes 6.5 days to deliver a special order against 4.0 for a leading firm; the gap is 2.5 days, 38 percent of Quenmoor time, and is a target to investigate." loading="lazy">
+  <figcaption>Benchmarking turns a performance gap into a target.</figcaption>
+</figure>
+
 
 ## 9.3.1 Operational decisions
 
@@ -71,6 +93,12 @@ Comparing performance, processes or products with the best (a rival, a leader in
 
 IT and AI: automation, computer-aided design, stock tracking, demand forecasting, fault detection by camera, predictive servicing, customer chatbots. Benefits: speed, consistency, data. Risks: cost, job change, system failure, poor data, cyber-risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--13-operations-decisions.webp" width="900" height="900" alt="Human resources, marketing and finance each point at an operations circle: staff limit output, demand forecasts set volume and specification, funds decide equipment, stock and training. A band notes that IT speeds information, AI analyses and decides, with risks of cost, jobs and failure." loading="lazy">
+  <figcaption>Operations decisions are limited by HR, marketing and finance resources and changed by IT and AI.</figcaption>
+</figure>
+
+
 ## 9.3.2 Flexibility and innovation
 
 - Three kinds of flexibility: volume, delivery time, specification.
@@ -78,6 +106,12 @@ IT and AI: automation, computer-aided design, stock tracking, demand forecasting
 - Cost: training, equipment, unused capacity.
 - Process innovation: changing current processes, or adopting new ways of producing products or delivering services.
 - Benefits: lower cost, higher quality, faster delivery. Risks: cost, disruption, may not work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--14-three-flexibilities.webp" width="900" height="990" alt="Three rows: volume (output bars rising and falling), delivery time (a stopwatch and arrow) and specification (a square changing to a circle). A band lists ways to gain flexibility and its cost." loading="lazy">
+  <figcaption>Flexibility can mean changing volume, delivery time or specification.</figcaption>
+</figure>
+
 
 ## 9.3.3 Enterprise resource planning (ERP)
 
@@ -94,6 +128,12 @@ Main features: integrated software, one shared database, linked modules (such as
 
 Limits: cost, disruption, training, resistance to change, reliance on accurate data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--12-erp-database.webp" width="900" height="810" alt="Six modules (purchasing, inventory, production, sales, finance, HR) connect by two-way arrows to one shared database, giving real-time automatic data transfer." loading="lazy">
+  <figcaption>An ERP system links departments through one shared database.</figcaption>
+</figure>
+
+
 ## 9.3.4 Lean production
 
 Aim: minimum waste (materials, time, space, effort, inventory) while meeting customer needs and quality standards. Purpose: lower costs, higher quality, speed, efficiency.
@@ -108,6 +148,17 @@ Aim: minimum waste (materials, time, space, effort, inventory) while meeting cus
 | Waste management | Find and remove waste | Hard to measure; effort |
 
 Links: inventory control (minimal inventory, JIT); quality (right first time); employees (wider roles, more skills); capacity management (high utilisation, less slack); efficiency (lower cost per unit).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--12-lean-six-strategies.webp" width="900" height="862" alt="Six lean strategies, each with an icon and one limitation: kaizen, quality circles, simultaneous engineering, cell production, JIT manufacturing and waste management." loading="lazy">
+  <figcaption>Each lean strategy cuts waste but has a limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## 9.3.5 Operations planning
 
@@ -133,6 +184,12 @@ Need: correct order of work, resources in place, delays seen early.
 A takes 2 days. B takes 5 days. C takes 3 days. B and C both start after A. D (4 days) starts after B and C. Path A, B, D = 11 days; path A, C, D = 9 days. Minimum duration 11 days, critical path A, B, D. C has total float 2 days (LFT 7 − EST 2 − 3 = 2).
 
 Benefits: shows minimum time, critical activities and slack. Limits: estimates may be wrong, ignores cost and resources unless added, complex for big projects, needs updating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--13-cpa-elmsdale.webp" width="900" height="890" alt="A network of six nodes with a dummy activity. Earliest starts are 0, 3, 7, 8, 13, 15 and latest finishes 0, 3, 7, 10, 13, 15. The critical path A, B, D, F takes 15 days. C has total float 2 and free float 0; E has total float 2 and free float 2." loading="lazy">
+  <figcaption>The critical path is the longest route; floats show how much other activities can slip.</figcaption>
+</figure>
+
 
 ## Using the case study and judging
 

@@ -52,6 +52,17 @@ The schedule follows Qd = 600 − 200P. A rise in price from £1.00 to £1.50 mo
 
 Why does it slope down? A higher price means other goods are now relatively cheaper, so buyers switch (the substitution effect), and it cuts the real purchasing power of income (the income effect). Market demand is the sum of every buyer's demand at each price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--01-demand-why-slopes-down.webp" width="900" height="1000" alt="A demand line with the oat-bar price rising from 1.00 to 1.50 and quantity falling from 400 to 300. Two panels give the reasons: substitution (the good is dearer than others, buyers switch) and income effect (an illustrative 12 pound budget buys 12 bars at 1.00 but 8 at 1.50)." loading="lazy">
+  <figcaption>A higher own price moves buyers up the curve through substitution and a fall in real purchasing power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+
 ## 2. Shifts in demand
 
 Anything other than the good's own price that changes demand at every price shifts the whole curve. Rightward is an increase in demand, leftward a decrease.
@@ -77,6 +88,17 @@ Anything other than the good's own price that changes demand at every price shif
 At every price, 100 more bars are demanded: a parallel rightward shift. Chain of reasoning: a change in tastes raises willingness to buy at each price, so the curve moves right, and the same £1.50 now sells 400 rather than 300. Do not call this an extension, because price has not changed.
 
 Common error: drawing a shift when the question describes a change in the good's own price. Ask first whether the price of the good itself changed (movement along) or something else did (shift).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--11-kiosk-movement-vs-shift.webp" width="900" height="940" alt="Price against bars per week for the kiosk (axes start at 200 bars and 0.50 pounds). D1 is Qd = 600 - 200P. A price rise from 1.00 to 1.50 moves up D1 from 400 to 300 bars, a contraction. After a news story demand becomes Qd = 700 - 200P (D2), so at 1.50 the kiosk sells 400 instead of 300: a shift right." loading="lazy">
+  <figcaption>Own price change moves along the curve; any other cause shifts the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
 
 ## 3. Price elasticity of demand (PED)
 
@@ -109,6 +131,17 @@ The size is read as a number: −1.2 means that each 1% rise in price cuts quant
 
 The same slope gives different elasticities, because the percentages depend on where you start. The answer also depends on direction: £2.50 to £2.00 gives price −20% and quantity +100%, so PED = −5.0. That is why a question states the change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--13-ped-five-cases.webp" width="900" height="960" alt="Five small demand graphs through the same point: a vertical line (PED 0), a steep line (between 0 and 1), a curve with constant price times quantity (exactly 1), a flatter line (above 1) and a horizontal line (infinite)." loading="lazy">
+  <figcaption>The five PED categories in the lesson table drawn as demand curves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## 4. PED and total revenue (total expenditure)
 
 Total revenue = price × quantity. What the firm receives is what consumers spend, so revenue and total expenditure move together.
@@ -133,6 +166,22 @@ On the kiosk schedule, revenue is £250, £400, £450, £400 and £250 at prices
 
 **Evaluation.** Revenue is not profit. A price rise with inelastic demand lifts revenue, but if costs rise with output the profit effect needs the cost data. Also consider: PED estimates are based on past behaviour; rivals may react; the short run may differ from the long run; and a firm with inelastic demand may attract regulation or public criticism if it raises prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--12-kiosk-ped-revenue.webp" width="900" height="950" alt="Top: the kiosk demand line with points at 2.50, 2.00, 1.50, 1.00 and 0.50. From 2.00 to 2.50 PED is -2.0 (elastic); from 1.00 to 1.50 PED is -0.5 (inelastic). Bottom: revenue at those points is 250, 400, 450, 400, 250, peaking at 1.50 where PED is 1." loading="lazy">
+  <figcaption>Revenue is highest where PED = 1; above that price demand is elastic, below it inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--02-ped-revenue-pharmacy-ferry.webp" width="900" height="920" alt="Revenue rectangles before and after for the pharmacy (8 x 400 to 9 x 380, up 220) and the ferry (20 x 300 to 18 x 345, up 210). Gained and lost strips are drawn to scale with their areas labelled." loading="lazy">
+  <figcaption>Revenue is the area of the price-quantity rectangle; the PED decides whether the gained strip or the lost strip is bigger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## 5. Income elasticity of demand (YED)
 
 YED = percentage change in quantity demanded divided by percentage change in income
@@ -155,6 +204,17 @@ The sign is the key: positive means normal, negative means inferior.
 
 **Factors.** Whether the good is a necessity or luxury; the level of income (a good can be normal at low income and inferior at high income); and the quality of alternatives. A branded good is inferior only relative to what buyers trade up to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--14-yed-income-change.webp" width="900" height="1010" alt="Bars show the change in demand. With Town B income up 10%: restaurant meals +15% (YED +1.5), bread +2% (+0.2), budget bus tickets -10% (-1.0). In a recession with income down 4%: a good with YED +2.0 loses 8% of demand, a good with YED -0.5 gains 2%." loading="lazy">
+  <figcaption>The sign of YED gives normal or inferior; its size gives how strongly demand responds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--04-yed-slope-zones.webp" width="900" height="860" alt="Percentage change in demand against percentage change in income as straight lines whose slope is the YED: meals +1.5, bread +0.2, bus -1.0. Shaded zones mark elastic (above 1), inelastic (0 to 1) and inferior (negative)." loading="lazy">
+  <figcaption>YED is the slope of demand against income: above 1 elastic, 0 to 1 inelastic, below 0 inferior.</figcaption>
+</figure>
+
+
 ## 6. Cross elasticity of demand (XED)
 
 XED = percentage change in the quantity of good A bought divided by percentage change in the price of good B
@@ -174,6 +234,12 @@ Take care: the numerator is the quantity of the good whose demand you are studyi
 Factors: how close the substitute is (brand loyalty, product features), how tightly two goods are used together, and how widely you define the market. Brands of cola are closer substitutes than cola and juice.
 
 Uses: a firm facing a close substitute that is cheaper may lose sales fast, so it may price match. A firm selling complements may sell the main item cheaply and profit from the add-on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--03-xed-substitutes-complements.webp" width="900" height="880" alt="Two panels: brand X price +8% raises demand for brand Y 12% (XED +1.5, substitutes); printer price +10% cuts ink demand 6% (XED -0.6, complements). Quantity bars are before and after." loading="lazy">
+  <figcaption>The numerator is the quantity of the good studied and the denominator is the other good’s price; the sign shows substitutes or complements.</figcaption>
+</figure>
+
 
 ## 7. Factors influencing PED
 

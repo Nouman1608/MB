@@ -56,6 +56,32 @@ These notes condense Cambridge International AS & A Level Accounting 9706 (sylla
 
 **Dissolution order:** transfer assets (not bank) to realisation; credit proceeds; settle liabilities (a discount is a credit); debit costs; share the balance in the profit-sharing ratio; close capital accounts through the bank.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--03-realisation-account.webp" width="900" height="1060" alt="The realisation account of Larkhall Joinery has debits of 150,000 assets, 14,200 payables settled and 1,800 costs, and credits of 147,000 proceeds and 15,000 payables transferred, leaving a 4,000 loss. The loss is shared 3:2 (2,400 and 1,600) and the 135,000 bank balance is paid out as 81,600 and 53,400." loading="lazy">
+  <figcaption>On dissolution, the realisation account finds the profit or loss, and the bank pays out what is left of each partner's capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--06-goodwill-types.webp" width="900" height="920" alt="Inherent goodwill (reputation, location, loyalty) is built by the business and is not in the books. Purchased goodwill is the price paid above the fair value of net assets and is recorded as an intangible asset; the 150,000 and 120,000 numbers are illustrative." loading="lazy">
+  <figcaption>Only purchased goodwill is recorded in the books.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
+  <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
+  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
+</figure>
+
+
 ## 3.1.3 Clubs and societies
 
 | Receipts and payments account | Income and expenditure account |
@@ -72,6 +98,22 @@ These notes condense Cambridge International AS & A Level Accounting 9706 (sylla
 - **Donations:** general donations are income; donations for a purpose are capital receipts.
 - **Incomplete records:** build the opening statement, rebuild missing totals in ledger accounts, then prepare the statements.
 - **Finance and fundraising:** compare subscriptions, donations, grants, loans and events by amount raised, reliability, cost and effort, then recommend with reasons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--08-northcote-ie.webp" width="900" height="1030" alt="A horizontal waterfall builds income of 15,200 from subscriptions, life membership, donation, bar and raffle, deducts expenses of 7,120 to a surplus of 8,080, and adds it to the 48,300 accumulated fund to reach 56,380." loading="lazy">
+  <figcaption>Income less expenses gives the surplus that grows the accumulated fund.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--01-cash-vs-surplus.webp" width="900" height="826" alt="A waterfall turns the 9,500 rise in cash into the 5,500 surplus: take off the 5,000 capital donation, add back 7,500 floodlights spending, take off 1,160 of life fees not yet income and 5,520 depreciation, add 180 for owing and prepaid timing." loading="lazy">
+  <figcaption>A cash rise differs from the surplus because of capital items, life fees, depreciation and timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
 
 ## 3.1.4 Manufacturing businesses
 
@@ -99,6 +141,12 @@ Direct costs vary with units made. Indirect costs support production as a whole.
 - **Statement of financial position (company):** non-current assets at carrying amount, current assets, then equity (share capital, share premium, reserves, retained earnings), non-current liabilities (such as debentures) and current liabilities (including tax owing). Total assets equal equity plus liabilities.
 - **Ledger entries:** a share issue at a premium credits share capital at nominal value and share premium for the rest. A rights issue is a share issue to existing holders, usually below market price. A bonus issue is paid for out of reserves and brings in no cash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--07-nca-schedule.webp" width="900" height="910" alt="A schedule rolls cost from 200,000 to 265,000 (additions 70,000, disposals 15,000, revaluation 10,000) and depreciation from 60,000 to 76,000 (charge 22,000, disposals 6,000), giving a carrying amount of 189,000. Figures are illustrative but tied to the Cranleigh purchase, depreciation, proceeds and profit on disposal." loading="lazy">
+  <figcaption>A schedule of non-current assets rolls cost and depreciation forward to carrying amount.</figcaption>
+</figure>
+
+
 ## Statements round-up (A Level)
 
 - **Partnership:** profit for the year comes from the statement of profit or loss. The appropriation account shares it. The statement of financial position shows each partner's capital and current account in the equity section. After a change, the closing capital accounts feed the statement of financial position.
@@ -119,6 +167,17 @@ Profit for the year 48,000. B has a salary of 6,000. Interest on capital at 5% i
 | Credited to current accounts | 25,090 | 22,910 | 48,000 |
 
 Check: 48,000 − 6,000 − 3,500 + 650 = 39,150. Each partner's total is the current account credit before drawings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--04-part-year-split.webp" width="900" height="830" alt="Twelve equal monthly bars of 8,000 show profit of 96,000 for the year to 31 December. January to September (72,000) use the old terms and October to December (24,000) use the new terms, each shared with its own salaries, interest and ratio." loading="lazy">
+  <figcaption>Split the year by time and apply each period's own terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

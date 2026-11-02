@@ -47,6 +47,17 @@ A rise in the value of a currency is an **appreciation**. A fall is a **deprecia
 
 In a **floating** system, buyers and sellers in the foreign exchange market decide the rate. In a **fixed** system, the government or central bank picks the rate and steps in to defend it. Under a fixed system, an upward change that the authorities choose is a **revaluation** and a downward one is a **devaluation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--09-fx-convert-both-ways.webp" width="900" height="880" alt="Multiply brin by 3.00 to get sarn (80 brin = 240 sarn); divide sarn by 3.00 to get brin (450 sarn = 150 brin)." loading="lazy">
+  <figcaption>Multiply to go from brin to sarn, divide to go back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--10-fx-appreciation-asymmetry.webp" width="900" height="980" alt="Rate 3.00 to 3.60: brin appreciates 20 percent; sarn falls from 0.3333 to 0.2778 brin, a depreciation of 16.7 percent." loading="lazy">
+  <figcaption>The two percentages differ, so name the currency.</figcaption>
+</figure>
+
+
 ## 6.3.2 How the rate is determined
 
 The foreign exchange market is where currencies are bought and sold. Put the exchange rate (sarn per brin) on the vertical axis and the quantity of brin on the horizontal axis.
@@ -78,6 +89,12 @@ rate
      +----------------------------- brin per month
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--01-fx-equilibrium.webp" width="900" height="930" alt="Plots the lesson's schedule of demand and supply for brin. They cross at 3.00 sarn per brin and 100 million brin. At 3.5 there is a surplus of 30 million; at 2.5 a shortage of 30 million." loading="lazy">
+  <figcaption>Demand and supply of brin set the exchange rate at 3.00; away from it, surplus or shortage pushes the rate back.</figcaption>
+</figure>
+
+
 ## 6.3.3 Causes of fluctuations
 
 Any change that moves the demand or supply curve changes the equilibrium rate. Under a floating system the rate then moves; under a fixed system the pressure builds up instead.
@@ -95,6 +112,22 @@ Any change that moves the demand or supply curve changes the equilibrium rate. U
 If many speculators act together, the extra supply of brin pushes the rate down, as they predicted.
 
 **MNCs.** When a multinational company (MNC) sets up in Country B, it brings foreign currency and must buy brin to pay wages and local suppliers. Spending 45 million sarn on local costs needs 45 ÷ 3.00 = 15 million brin. Demand rises and the brin appreciates. When an MNC leaves, or sends profits home, it sells brin and buys foreign currency. Supply rises and the brin depreciates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--11-fx-speculation.webp" width="900" height="1040" alt="1,200,000 brin sold at 3.00 gives 3,600,000 sarn; bought back at 2.50 gives 1,440,000 brin, profit 240,000 or 20 percent." loading="lazy">
+  <figcaption>Speculation can earn 20% and push the rate the way it was expected to go.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--12-fx-mnc-demand.webp" width="900" height="690" alt="45 million sarn of local costs needs 15 million brin; demand for brin rises and it appreciates. An MNC leaving sells brin, supply rises and the brin depreciates." loading="lazy">
+  <figcaption>MNCs arriving raise, and leaving lower, the value of the brin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## 6.3.4 Consequences for export and import prices and spending
 
@@ -125,6 +158,22 @@ A depreciation cuts spending on imports only if import demand is elastic. If imp
 
 **Evaluation.** Say which way the effect goes, then qualify it: how big is the PED, how long is the period, and do exporters pass the change into their prices? An exporter that relies on imported materials sees costs rise after a depreciation, which offsets some of the gain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--02-fx-export-import-prices.webp" width="900" height="900" alt="Two bar pairs show a 600 brin bicycle costing 1,800 sarn at 3.00 and 2,160 sarn at 3.60, and a 900 sarn machine costing 300 brin at 3.00 and 360 brin at 2.50. Both prices rise by 20 percent." loading="lazy">
+  <figcaption>An appreciation raises export prices in foreign currency; a depreciation raises import prices in home currency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--03-fx-spending-ped.webp" width="900" height="900" alt="Bars show foreign spending on bicycles: 3.60 million before, 2.76 million with elastic demand (PED -1.8) and 3.80 million with inelastic demand (PED -0.6). Spending falls 23.2 percent or rises 5.6 percent." loading="lazy">
+  <figcaption>After a 20% price rise, spending on exports falls if demand is elastic and rises if it is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--13-fx-import-spending-ped.webp" width="900" height="830" alt="A 20 percent price rise on 500 machines: PED -0.5 raises the bill to 162,000, -0.8 to 151,200, -1.5 cuts it to 126,000." loading="lazy">
+  <figcaption>Import spending falls only if demand is elastic.</figcaption>
+</figure>
+
+
 ## 6.3.5 Floating and fixed systems compared
 
 Under a fixed rate the central bank must keep the market rate at the chosen value. Suppose the rate is fixed at 3.00 and demand for brin falls by 30 million at every rate. At 3.00 demand is now 70 and supply is 100, a surplus of 30 million brin. To hold the rate the central bank can:
@@ -141,6 +190,12 @@ Reserves are limited. If the problem is permanent, the authorities may have to d
 | Disadvantages | Uncertainty and risk for traders; large swings can discourage trade and investment; a depreciation raises import prices | Needs reserves; interest rates are tied to defending the peg instead of the home economy; the rate can become wrong and cannot adjust easily; devaluation can shake confidence |
 
 **Evaluation.** A fixed rate can suit a country whose trade is concentrated with one partner and which values stable prices. It needs large reserves and a credible government. A floating rate suits an economy that wants control over its interest rates. Judge by the country's situation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-foreign-exchange-rates--04-fx-fixed-rate-defence.webp" width="900" height="930" alt="Demand falls from D1 to D2. At the fixed rate of 3.00 there is a surplus of 30 million brin, which the central bank buys using 90 million sarn of reserves. Left to float, the rate would fall to 2.5." loading="lazy">
+  <figcaption>Holding a fixed rate when demand falls means buying the surplus currency from reserves.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -111,6 +111,17 @@ percentage decrease = (168 ÷ 480) × 100 = 35.0%
 
 Each suggestion links a factor to how the net works, which is what "discuss" rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ## 10.2 Antibiotics
 
 ### How penicillin acts on bacteria
@@ -124,9 +135,26 @@ Two consequences follow:
 - Penicillin works only on bacteria that are **growing and making new cell wall**.
 - Human cells have **no cell wall**, so penicillin does not harm them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
+
 ### Why antibiotics do not affect viruses
 
 Antibiotics work by interfering with structures or processes found in bacteria: the peptidoglycan cell wall, bacterial (70S) ribosomes and bacterial enzymes. A virus has **none of these**: it is nucleic acid in a protein coat, with no metabolism of its own, and it replicates using the host cell's enzymes and ribosomes. So there is no target for the antibiotic. This is why a doctor should not prescribe antibiotics for a cold, influenza or HIV.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
 
 ### Antibiotic resistance
 
@@ -176,6 +204,12 @@ A hospital tested samples of one bacterial species for resistance to an antibiot
 **(c) Explain the trend.** Use of the antibiotic killed susceptible bacteria. Resistant bacteria, which already carried a mutation, survived and reproduced, so the resistance allele became more common in the population. Plasmids carrying the gene may also have passed to other bacteria.
 
 Compare percentages, not raw numbers: the sample size changed each year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## Common errors
 

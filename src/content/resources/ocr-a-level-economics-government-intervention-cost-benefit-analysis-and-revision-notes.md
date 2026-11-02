@@ -50,6 +50,27 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 | Information provision | Labels, campaigns | Demand shifts (down for demerit, up for merit) | Cheap; keeps choice | Weak where behaviour is habitual |
 | Competition policy | Controls collusion, abuse, mergers | Price falls, output rises with more competition | Lower prices, more choice | Slow, costly, evidence needed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--06-gov-buffer-grain.webp" width="900" height="1060" alt="Two diagrams with a 40 floor and 60 ceiling. In a bumper harvest the free price 32 is below the floor so the agency buys 128 tonnes for 5,120 cu. In a poor harvest the free price 70 is above the ceiling so it sells 60 tonnes for 3,600 cu." loading="lazy">
+  <figcaption>The agency buys at the floor and sells at the ceiling to hold the price inside the band.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Key calculations
 
 **Tax incidence.** Consumers' burden = new price minus old price. Producers' burden = tax minus that rise. Revenue = tax x new quantity. Deadweight loss = 0.5 x tax x fall in quantity (for a tax on a good with no externality).
@@ -93,6 +114,12 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 - For: includes external effects, common basis for comparison, makes trade-offs explicit.
 - Against: money values for intangibles are contestable, forecasts uncertain, result sensitive to the discount rate, ignores distribution, can be used to justify decisions already made.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--03-cba-discount-rate.webp" width="900" height="870" alt="A tram line costing 650 million cu brings 210 million cu a year for four years. At 5% the present values total 744.65 million, NPV +94.65 million, so it passes. At 15% they total 599.55 million, NPV -50.45 million, so it fails." loading="lazy">
+  <figcaption>The same project passes at a 5% discount rate and fails at 15%.</figcaption>
+</figure>
+
+
 ## Government failure
 
 **Definition.** Intervention that fails to improve, or worsens, resource allocation, leaving welfare lower than it could be.
@@ -107,6 +134,12 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 | Time lags | Policy takes effect after conditions change |
 
 **Consequences.** Resources misallocated, taxpayers' money wasted, new inequity, loss of confidence in policy. A failed intervention can still beat doing nothing: always compare the outcome with the original market failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--04-government-failure-tax.webp" width="900" height="920" alt="With officials setting a 9 cu tax instead of 5 cu, output falls to 50.4, below the optimum 60. A new deadweight loss of 19.2 cu replaces the 30 cu loss, so welfare is still 10.8 cu better: a partial failure." loading="lazy">
+  <figcaption>Setting the tax too high creates a new 19.2 cu welfare loss, though it remains better than no tax.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -155,6 +188,12 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 11. The private partner needs a profit and bears financing costs, and the contract may be hard to monitor, so payments over many years can exceed the cost of direct public borrowing.
 12. State provision, financed by tax, because a public good will not be supplied by the market (non-excludable, so no one pays).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--02-tradable-permits-saving.webp" width="900" height="1210" alt="Three plants each emit 50 tonnes under a cap of 90. Without trading each cuts 20 tonnes for 460 cu in total. With trading the cheapest cuts are made first for 270 cu, saving 190 cu, with permits trading at 7 cu." loading="lazy">
+  <figcaption>Trading lets the plant with the lowest abatement cost do most of the cutting, saving 190 cu.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a method without saying which market failure it corrects.
@@ -165,6 +204,17 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 - Listing advantages and disadvantages with no judgement on which dominates.
 - Writing "government failure" for any policy that has side effects, without comparing to the original failure.
 - Leaving out units or the label for the diagram axes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--01-packaging-tax.webp" width="900" height="920" alt="Packaging market with an external cost of 5 cu. A 5 cu tax shifts supply up onto marginal social cost and moves the market from 72 units to the optimum 60. The shaded triangle is the 30 cu deadweight loss removed. Consumers bear 40% and producers 60% of the tax." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from 72 to the social optimum of 60 and removes a 30 cu welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--05-gov-subsidy-training.webp" width="900" height="790" alt="Demand and supply meet at A with 52 places at 24 cu. A 5 cu subsidy moves supply down so B has 58 places and students pay 21 cu. MSB crosses supply at 58 where providers receive 26 cu; the small triangle is the 15 cu welfare gain against a 290 cu cost." loading="lazy">
+  <figcaption>A 5 cu subsidy reaches the optimum 58 places, but the gain of 15 cu is small next to its cost of 290 cu.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -112,6 +112,17 @@ Statement of financial position extract, end of year 2:
 
 The machine's accumulated depreciation is 2 x 7,000 = 14,000. Both columns of figures must reconcile: 80,000 - 28,000 = 52,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--01-eop-two-methods.webp" width="900" height="1040" alt="A line chart shows carrying value over three years. The Quillen machine falls by 7,000 a year (48,000 to 27,000); the vehicle at 25 percent reducing balance falls by 8,000, 6,000 and 4,500. A table gives the yearly charges and the SPL totals of 15,000 and 13,000." loading="lazy">
+  <figcaption>Straight line gives equal charges; reducing balance gives falling charges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--02-eop-ledger-to-sfp.webp" width="900" height="855" alt="The vehicles provision for depreciation account holds 8,000 brought forward plus 6,000 year 2 depreciation, 14,000 carried down. The SFP extract deducts depreciation from cost: machine 34,000, vehicle 18,000, total 52,000." loading="lazy">
+  <figcaption>The provision account is deducted from cost on the SFP; the asset account stays at cost.</figcaption>
+</figure>
+
+
 ## 3. Disposal of non-current assets (5.2 d)
 
 On a sale, take the asset's cost and its accumulated depreciation out of the ledgers, then set the sale proceeds against the carrying value.
@@ -131,6 +142,12 @@ Profit on disposal     1,700 | Bank                  15,200
 The profit is the balancing figure. It is credited to the SPL as income. A loss is the balancing figure on the credit side and is an expense in the SPL. After the entries, the vehicle account and the vehicle's provision account both show nil.
 
 Worked check: if the proceeds had been 12,000 the debit side would hold cost 32,000 only, the credit side 18,500 + 12,000 = 30,500, and the balancing loss of 1,500 would appear on the credit side. That equals 13,500 - 12,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--03-eop-vehicle-disposal.webp" width="900" height="826" alt="The disposal account shows cost 32,000 and profit 1,700 on the debit side against provision 18,500 and bank 15,200 on the credit side. Bars compare carrying value 13,500 with proceeds of 15,200 (profit 1,700) and 12,000 (loss 1,500)." loading="lazy">
+  <figcaption>Profit or loss on disposal is proceeds minus carrying value.</figcaption>
+</figure>
+
 
 ## 4. Irrecoverable debts and the provision: why and what (5.3 a, b)
 
@@ -188,6 +205,12 @@ Bal c/d                3,900 |
 
 Only the change in the provision goes to the SPL, never the whole provision. The write-offs and the provision are separate steps, and the provision is worked out after the write-offs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--04-eop-write-off-provision.webp" width="900" height="980" alt="Four steps: write off 2,400, leaving receivables of 84,000; provision at 5 percent is 4,200 against 3,500 held; only the 700 change joins the write-offs for an SPL expense of 3,100; the SFP shows 79,800. Next year the provision falls by 300." loading="lazy">
+  <figcaption>Write off known debts first, then provide on what is left and charge only the change.</figcaption>
+</figure>
+
+
 ## 6. Other receivables and other payables: why and what (5.4 a, b)
 
 Each period's SPL has to carry the expenses and income earned or used in it, with or without a matching cash movement. That is the accruals concept.
@@ -233,6 +256,17 @@ Bank                   4,800 | Bal c/d prepaid          800
 The balance carried down on the electricity account (1,350) goes to other payables under current liabilities. The balance carried down on insurance (800) goes to other receivables under current assets. Each balance is then brought down on the opposite side for the start of next year.
 
 The same logic applies to income. If Yestor sub-lets a room and receives 3,000 of rent but is still owed 500 for the year, the SPL shows rent receivable of 3,500 and the 500 is an other receivable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--05-eop-accrual-prepayment.webp" width="900" height="832" alt="Electricity T-account: 9,400 bank and 1,350 c/d against 1,100 b/f and 9,650 SPL; the 1,350 is an other payable. Insurance: 600 b/f and 4,800 bank against 4,600 SPL and 800 c/d; the 800 is an other receivable." loading="lazy">
+  <figcaption>The balance carried down becomes an other payable (liability) or other receivable (asset).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--09-adj-four-ledger-sides.webp" width="900" height="970" alt="Four small T-accounts show where b/d and c/d sit. Other payables and income received in advance (liabilities) open on the credit side; other receivables and income due (assets) open on the debit side. The balance is carried down on the opposite side and brought down on the same side as the opening balance." loading="lazy">
+  <figcaption>Assets open on the debit side and liabilities on the credit side.</figcaption>
+</figure>
+
 
 ## Common errors
 

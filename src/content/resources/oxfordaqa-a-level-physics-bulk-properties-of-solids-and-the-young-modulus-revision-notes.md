@@ -38,6 +38,12 @@ Use g = 9.81 N kg⁻¹.
 - **Breaking stress:** the stress at which the material fractures.
 - **Young modulus:** the ratio tensile stress : tensile strain, in the region where stress is proportional to strain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--01-spring-tensile-compressive.webp" width="900" height="960" alt="The same spring is shown at natural length, pulled by 7.2 N (45 mm longer) and pushed by 4.8 N (30 mm shorter). x is the change from natural length. k = 7.2 / 0.045 = 160 N/m." loading="lazy">
+  <figcaption>Hooke's law F = kx applies to both tensile extension and compression; x is the change in length.</figcaption>
+</figure>
+
+
 ## Formulas and units
 
 | Quantity | Formula | Unit |
@@ -91,6 +97,12 @@ The ½kΔL² form only works when F = kΔL holds. For a non-linear graph, use th
 
 **Reminder 5.** A 0.20 kg trolley is pushed back against a spring of k = 500 N m⁻¹ by 0.030 m, on a smooth slope rising at 30°. The stored energy is ½ × 500 × 0.030² = 0.225 J. Written as a gain in height, 0.225 = 0.20 × 9.81 × h, so the trolley rises 0.115 m vertically from release.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--03-elastic-energy-area.webp" width="900" height="990" alt="The area under a straight force-extension line is a triangle: 0.5 x 7.2 x 0.045 = 0.162 J. Doubling the extension to 0.090 m gives 0.648 J, four times as much." loading="lazy">
+  <figcaption>Elastic potential energy is the area under the line, E = 1/2 Fx = 1/2 kx squared.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Compare | Key difference |
@@ -106,6 +118,22 @@ The ½kΔL² form only works when F = kΔL holds. For a non-linear graph, use th
 
 For a metal such as copper, describe the curve in order. The line is straight and steep at first, then the gradient decreases at the limit of proportionality. Beyond the elastic limit, strain keeps increasing and is permanent. The curve ends at the breaking stress. For glass, the line is straight and stops at fracture. Always say which axis you are describing, and give the gradient in the first straight region as the Young modulus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--05-stress-strain-young-modulus.webp" width="900" height="1050" alt="A 2.0 m wire of cross-section 1.0e-6 m squared carries 60 N and extends 1.5 mm. Stress is 6.0e7 Pa, strain is 7.5e-4 and E is 8.0e10 Pa." loading="lazy">
+  <figcaption>Stress is force per area, strain is extension per original length, and their ratio is the Young modulus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--07-ductile-stress-strain.webp" width="900" height="1040" alt="A sketch of stress against strain for a ductile metal: straight line to the limit of proportionality, elastic limit, yield point, peak (UTS), necking and breaking. The gradient of the straight part is the Young modulus." loading="lazy">
+  <figcaption>A ductile metal shows an elastic region, then plastic deformation, necking and fracture; the gradient of the straight part is E.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--08-material-types.webp" width="900" height="1165" alt="Stress-strain sketches: ductile copper has a big plastic region; brittle glass is straight to the break; rubber has a loading curve above its unloading curve and returns to zero, the area between them being heat. Strong, stiff and tough are different properties." loading="lazy">
+  <figcaption>Brittle, ductile and polymeric materials have characteristic stress-strain shapes.</figcaption>
+</figure>
+
+
 ## Reading graphs
 
 - **Straight line through the origin:** Hooke's law holds. Gradient is k (force on the vertical axis).
@@ -113,6 +141,12 @@ For a metal such as copper, describe the curve in order. The line is straight an
 - **Unloading line parallel to the loading line, ending at a positive extension:** plastic deformation has occurred. The gap on the extension axis is the permanent extension.
 - **Area between loading and unloading lines:** energy transferred to internal energy of the material, not recovered.
 - **Straight line ending at fracture:** brittle behaviour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
+  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -139,6 +173,12 @@ For a metal such as copper, describe the curve in order. The line is straight an
 8. E = FL/(AΔL) = 60 × 0.90 / (3.0 × 10⁻⁷ × 1.8 × 10⁻³) = 1.0 × 10¹¹ Pa.
 9. ½ × 300 × 0.040² = 0.24 J; v = √(2 × 0.24 / 0.050) = 3.1 m s⁻¹.
 10. Energy that is not recovered: it is transferred to internal energy of the material.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--02-force-extension-graph.webp" width="900" height="960" alt="Force against extension for a stiff spring (gradient 160 N/m) and a softer one (80 N/m). The stiff spring is straight to its limit of proportionality at 0.07 m and 11.2 N, then curves." loading="lazy">
+  <figcaption>The gradient of a force-extension graph is the spring constant; a steeper line is a stiffer spring.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

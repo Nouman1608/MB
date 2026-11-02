@@ -62,12 +62,34 @@ All numbers are invented for revision. Country A and the other examples are fict
 5. Government revenue or cost = amount per unit × new quantity.
 6. Burden: buyers' share = price rise × quantity. Sellers' share = the rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--08-snack-indirect-tax.webp" width="900" height="960" alt="Supply and demand diagram for a fictional snack: demand Qd = 900 - 50P and supply Qs = 100P - 300. Before tax, price is 8 cu and quantity 500. A 3 cu per-unit tax shifts supply up by 3: buyers now pay 10 cu, sellers keep 7 cu and quantity falls to 400. The rectangle between 8 and 10 is the consumers share, 800 cu, and between 7 and 8 the producers share, 400 cu. Tax revenue is 1,200 cu." loading="lazy">
+  <figcaption>Buyers pay 2 cu more and sellers keep 1 cu less, so consumers bear 800 cu and producers 400 cu of the 1,200 cu raised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--09-snack-subsidy.webp" width="900" height="960" alt="Same fictional snack market as the tax example. A 1.5 cu per-unit subsidy shifts supply down by 1.5. The new equilibrium is price 7 cu and quantity 550. Buyers save 1 cu a unit, 550 cu in total, and sellers receive 8.5 cu, 0.5 cu more, 275 cu in total. The cost to the government is 1.5 times 550, 825 cu." loading="lazy">
+  <figcaption>The subsidy lowers the price buyers pay to 7 cu and lifts output to 550; it costs the government 825 cu.</figcaption>
+</figure>
+
+
 ## Government spending and revenue
 
 - **Spending purposes:** public and merit goods, transfer payments, demand management, subsidies, debt interest.
 - **Revenue sources:** direct taxes, indirect taxes, borrowing, sales of assets and charges.
 - A recession often widens the deficit because tax receipts fall and benefit payments rise.
 - A deficit is a one-year gap. The national debt is the accumulated total owed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--06-budget-deficit-country-a.webp" width="900" height="1130" alt="Two stacked columns in billions of currency units. Spending is 340: welfare 100, health 90, education 60, defence 30, debt interest 20 and other 40. Revenue is 325: income tax 110, national insurance 55 and corporation tax 35 (direct, 200 in total), VAT 80 and excise duties 25 (indirect, 105 in total) and other 20. The revenue column is 15 shorter, a budget deficit of 15 billion." loading="lazy">
+  <figcaption>Spending of 340 against revenue of 325 leaves a deficit of 15 billion cu, which must be borrowed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Fiscal policy chains
 
@@ -76,6 +98,32 @@ All numbers are invented for revision. Country A and the other examples are fict
 **Contractionary:** higher tax or lower spending → lower demand → lower inflation pressure → but slower growth and possible job losses.
 
 **Knock-on effect:** an injection is re-spent in rounds. Saving, taxes and imports reduce each round.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--05-multiplier-bridge-200.webp" width="900" height="920" alt="Government spends 200 cu. If recipients re-spend 60% of extra income, successive rounds are 120, 72, 43.2 and 25.92 cu, and the total rise in income is 200 x 2.5 = 500 cu. At 80% re-spending the total is 200 x 5 = 1,000 cu." loading="lazy">
+  <figcaption>Each round of spending is a fraction of the last, so the total is larger than 200 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--06-tax-cut-chain.webp" width="900" height="820" alt="A tax cut raises disposable income, then consumer spending and aggregate demand. With spare capacity, output and jobs rise and unemployment falls. Near full capacity, firms raise prices and inflation can rise." loading="lazy">
+  <figcaption>A tax cut raises demand; the result depends on spare capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--07-tax-cut-band-example.webp" width="900" height="770" alt="Income bands: 0% to 12,000 cu, 20% cut to 18% from 12,000 to 40,000 cu, 40% above. A worker on 30,000 cu has 18,000 cu in the band and gains 360 cu a year. Anyone above 40,000 cu gains 560 cu." loading="lazy">
+  <figcaption>Only income inside the cut band gains, so the saving is 360 cu at 30,000 cu and 560 cu above 40,000 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
 
 ## Evaluating fiscal policy
 
@@ -98,6 +146,12 @@ All numbers are invented for revision. Country A and the other examples are fict
 
 **Redistribution evaluation.** Gains: lower inequality, funding for health and education, higher spending from low-income households. Costs: possible reduced effort, avoidance, high cost for taxpayers, reliance on benefits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--07-average-tax-rate-progressive.webp" width="900" height="900" alt="Graph of average tax rate (percentage of income) against income in currency units. Income tax with 0% to 12,000, 20% to 40,000 and 40% above: the average rate is 8.0% at 20,000, 12.0% at 30,000 and 21.1% at 55,000, a rising curve. A 20% sales tax on spending gives 15% of income for a household on 20,000 and 10% for a household on 55,000, a falling line." loading="lazy">
+  <figcaption>An income tax is progressive because the average rate rises with income; a 20% sales tax is regressive because the share paid falls.</figcaption>
+</figure>
+
+
 ## Monetary policy chains
 
 **Rate cut:** cheaper borrowing, lower return on saving → more consumption and investment → higher aggregate demand → growth, more jobs → inflation pressure rises.
@@ -112,6 +166,17 @@ All numbers are invented for revision. Country A and the other examples are fict
 | Consumers | Less spending | More spending |
 
 **Limits:** time lags, weak confidence, banks may not pass on changes, heavy household debt, savers hurt by low rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy--10-oven-investment-interest.webp" width="900" height="980" alt="Horizontal bars compare the yearly extra profit of 1,300 cu from a 20,000 cu oven (a 6.5% return) with the yearly interest on a loan. At 5% interest costs 1,000 cu, leaving 300 cu, so the bakery invests. At 8% interest costs 1,600 cu, a loss of 300 cu, so it does not." loading="lazy">
+  <figcaption>The oven returns 1,300 cu a year: worth buying with a 5% loan, not with an 8% loan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
 
 ## Matching policies to objectives
 

@@ -52,6 +52,12 @@ Other links: the [IB DP Business Management hub](/boards/ib/ib-dp/business/), th
 3. If they cannot, say how the business might observe behaviour or test a prototype.
 4. Close with the risk: the need may be smaller than hoped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--07-latent-needs-iceberg.webp" width="900" height="780" alt="An iceberg: known needs above the water, found by surveys, complaints and focus groups; latent needs below, found by watching behaviour, technology push and R&amp;D creativity." loading="lazy">
+  <figcaption>Latent needs are hidden until a product reveals them.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 | Compare | Incremental | Disruptive |
@@ -64,6 +70,32 @@ Other links: the [IB DP Business Management hub](/boards/ib/ib-dp/business/), th
 Intellectual property: copyright covers creative works, a patent covers an invention, a trademark covers an identifying sign. The guide asks for general knowledge, not the legal rules of a particular country. Say the owner may license the work for a fee.
 
 R&D intensity (standard ratio, not named in the guide) = R&D spending ÷ sales revenue × 100. Example: 2.7 million dollars of R&D on 45.0 million of sales revenue = 6.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--06-rd-percent-sales.webp" width="900" height="960" alt="Bars for Pennibar Foods in $ million: last year sales 40.0, R&amp;D 3.2 (8.0%); this year sales 48.0, R&amp;D 3.6 (7.5%). R&amp;D spending rose 12.5% and sales 20.0%, so the ratio fell." loading="lazy">
+  <figcaption>The R&amp;D ratio fell because revenue grew faster than R&amp;D spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--07-rd-payback.webp" width="900" height="980" alt="Cumulative net cash for the new product in $ million: -1.2, -0.7, -0.2, +0.3, +0.8 at years 0 to 4. It crosses zero at 2.4 years (1.2 divided by 0.5). The forecast cash flow may be wrong." loading="lazy">
+  <figcaption>Payback of 2.4 years depends on the forecast of 0.5 million a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--05-ip-three-forms.webp" width="900" height="720" alt="Three cards using the invented Pennibar Foods: copyright protects creative works (recipe book text), a patent protects new inventions (baking without frying), a trademark protects brand identity (name and fox logo). Protection stops copying and can be licensed for a fee." loading="lazy">
+  <figcaption>Copyright, patent and trademark protect different things.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--06-incremental-disruptive.webp" width="900" height="840" alt="An illustrative graph: a staircase of small steps for incremental innovation, and a steeper new curve for disruptive innovation that starts lower and overtakes it. Incremental is cheaper and less risky; disruptive is costly and uncertain with large possible rewards." loading="lazy">
+  <figcaption>Incremental innovation improves in steps; disruptive innovation starts a new curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
 
 ## 5.9 Management information systems: key points
 
@@ -89,6 +121,12 @@ R&D intensity (standard ratio, not named in the guide) = R&D spending ÷ sales r
 - Against: reward cost, privacy concerns, possible bias in offers, members who would have bought anyway.
 - Test: compare extra gross profit with reward and running costs, and ask whether the programme caused the extra spending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--08-loyalty-waterfall.webp" width="900" height="990" alt="Waterfall in dollars a month: extra gross profit 184,800 less rewards 100,800 less running costs 35,000 leaves a net benefit of 49,000. Members may already have been the best customers, so the programme may not have caused all the extra spending." loading="lazy">
+  <figcaption>A loyalty programme nets 49,000 a month, but causation is uncertain.</figcaption>
+</figure>
+
+
 ### Managing and monitoring employees (AO3)
 
 - Uses: schedules, output measures, location tracking, absence flags.
@@ -113,6 +151,17 @@ R&D intensity (standard ratio, not named in the guide) = R&D spending ÷ sales r
 | Society | Wider access to services | Energy use, unequal access |
 
 Ethical prompts: consent, how long data is kept, who is responsible for an automated decision, and fairness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--09-basket-support-confidence.webp" width="900" height="1080" alt="Bars scaled to 2,500 baskets: 500 with oat milk, 350 of them also with granola; 625 with granola overall. Support 14%, confidence 70%, lift 2.8 times (70 divided by 25). A pattern is not proof of cause." loading="lazy">
+  <figcaption>Support, confidence and lift measure how strongly two items are bought together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--09-mis-chain.webp" width="900" height="938" alt="A five-step chain: internet of things sensors, data centres and cloud, databases and big data, analytics, neural networks and AI, then managers decide. A side bar shows cybersecurity guarding every stage." loading="lazy">
+  <figcaption>MIS technologies feed one another from data capture to decision.</figcaption>
+</figure>
+
 
 ## Method boxes for command terms
 
@@ -176,6 +225,12 @@ Write the formula, substitute, then give the answer with its unit.
 10. 960 ÷ 7.5 = 128 an hour, which is 106.7% of target.
 11. Using digital tools to monitor and measure work broken into small tasks, applying Taylor's scientific management ideas.
 12. Customers may not know their data is used, so consent and privacy are in question. Patterns may also copy past bias into offers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--08-digital-taylorism-scans.webp" width="900" height="800" alt="A bar shows 112 scans an hour against a target of 120, which is 93.3% (840 scans in 7.5 hours). A heavy trolley or a faulty scanner would give the same number, so the data shows what happened, not why." loading="lazy">
+  <figcaption>The data says how fast, not why.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

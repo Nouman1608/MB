@@ -58,6 +58,17 @@ Notes on the grid:
 - The guide's description of ethics refers to the natural environment next to internal and external stakeholders. Treat it as an affected party that someone else speaks for.
 - Lenders and suppliers are external, but have real influence through credit terms and prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--01-hallowfield-gains-losses.webp" width="900" height="960" alt="A grid of 140 employee dots with 26 shown as losing their jobs (18.6%). Bars show the dividend rising from 244,000 to 452,800 and the yarn supplier order falling from 400 to 340 tonnes (-15%). The gain falls on owners and the cost on workers and the supplier." loading="lazy">
+  <figcaption>Automation helps shareholders but costs jobs and a supplier order: who gains and who loses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## Interest and influence at a glance
 
 | Group | Typical interest | Typical power |
@@ -72,6 +83,12 @@ Notes on the grid:
 | Community | Jobs, low disruption | Complaints, protests, planning pressure |
 | Competitors | Market share | Price cuts, copying, hiring staff |
 | Pressure groups | A cause | Publicity, lobbying |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--01-interest-vs-influence.webp" width="900" height="910" alt="A two-by-two grid with influence on the horizontal axis and interest on the vertical axis. Shareholders and skilled staff sit top right, casual staff and the yarn supplier top left, the bank bottom right and a single customer bottom left. Placement is illustrative." loading="lazy">
+  <figcaption>Interest is what a group wants; influence is what it can do.</figcaption>
+</figure>
+
 
 ## Typical conflicts (pairs to recall)
 
@@ -104,9 +121,21 @@ The guide's suggested inquiry statement asks why change could bring conflict amo
 5. Link to the opposing group and say who gains and loses.
 6. For discuss, evaluate, justify or recommend: weigh the sides and finish with a reasoned judgment. The guide classifies these command terms at AO3, so they ask for more than description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--03-shareholder-vs-stakeholder.webp" width="900" height="880" alt="A large oval of stakeholders contains chips for employees, managers, customers, suppliers, banks, government, community and competitors. A smaller gold circle of shareholders sits inside. Every shareholder is a stakeholder, but not the reverse." loading="lazy">
+  <figcaption>Shareholders are one type of stakeholder.</figcaption>
+</figure>
+
+
 ## Ways to respond to conflict
 
 Standard approaches, not a syllabus list: communication and consultation, compromise (for example phasing a change), prioritizing a group and explaining why, and sharing gains (for example a bonus or community fund). Each has a cost, so a strong answer says what the cost is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--02-conflict-responses.webp" width="900" height="924" alt="Four rows show communicating and consulting, compromising, prioritising and sharing the gain. Each has a cost: time, may satisfy nobody fully, others lose, lower owners’ return." loading="lazy">
+  <figcaption>Each response to stakeholder conflict has a cost.</figcaption>
+</figure>
+
 
 ## Small worked reminder
 

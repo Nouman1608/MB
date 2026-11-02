@@ -46,6 +46,27 @@ Sketch to remember: two smooth humps on one axis. The hot one is taller and sits
 
 **Method for a two-mark comparison:** one mark for intensity (hotter body, greater), one for wavelength (hotter body, strongest emission at shorter wavelength).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--06-hot-cool-curves.webp" width="900" height="920" alt="Intensity against wavelength for two bodies. The hotter body (5000 K) has a tall hump peaking near 580 nm; the cooler body (3000 K) a low wide hump peaking near 970 nm. The hotter curve is higher at every wavelength." loading="lazy">
+  <figcaption>A hotter body emits more and its peak moves to shorter wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--07-orbit-speed-radius.webp" width="900" height="1040" alt="Earth with an inner orbit (satellite A, 7540 m/s, 5830 s) and an outer orbit (satellite B, 6310 m/s, 9950 s). Arrow lengths show speed: the lower orbit is faster and has the shorter period." loading="lazy">
+  <figcaption>A satellite in a lower orbit moves faster than one in a higher orbit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--08-earth-balance.webp" width="900" height="1130" alt="Two diagrams of Earth with arrow widths proportional to amounts. First: 100 in, 30 reflected, 70 absorbed, 70 emitted, so steady. Second: only 66 escape, so net gain 4 and Earth warms until 70 escape again." loading="lazy">
+  <figcaption>Temperature depends on the balance of radiation absorbed and emitted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
+
 ## P8.3e: solar system facts (Higher Tier only)
 
 Order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
@@ -67,6 +88,22 @@ Order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptun
 | Polar | Low, around one and a half hours | Passes over both poles, Earth turns below | Mapping, environment monitoring, weather, surveillance |
 
 Similar to natural satellites: held by gravity, same laws. Different: built and launched, small, chosen orbit, working life.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--07-geo-polar-orbits.webp" width="900" height="870" alt="Earth with a small polar orbit through both poles (radius 7.171e6 m, period 6040 s, speed 7460 m/s) and a much larger geostationary ring over the equator (radius 4.22e7 m, period 24 h, speed 3070 m/s). Radii are drawn to the same scale." loading="lazy">
+  <figcaption>Geostationary and polar orbits compared at the same scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--08-moon-and-satellite.webp" width="900" height="915" alt="Earth with a natural Moon on an outer orbit and an artificial satellite on an inner orbit. An arrow on each points to the centre of Earth to show gravity is the inward force. The Moon formed naturally; the satellite is built, launched and controlled from Earth." loading="lazy">
+  <figcaption>Natural and artificial satellites both orbit because of gravity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
 
 ## P8.3f and P8.3g: circular orbits (Higher Tier only)
 
@@ -116,6 +153,12 @@ Useful relation from speed = distance / time: orbital speed = 2πr / T.
 - atmosphere composition: ozone absorbs ultraviolet; greenhouse gases absorb infrared from the surface and re-emit it in all directions
 
 **Method for a greenhouse-gas question:** (1) more greenhouse gas absorbs more outgoing infrared, (2) less escapes to space, so emitted is less than absorbed, (3) Earth warms, (4) it emits more until the balance returns at a higher temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

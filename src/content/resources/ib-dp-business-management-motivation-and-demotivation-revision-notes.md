@@ -50,12 +50,24 @@ These notes condense section 2.4, Motivation and demotivation, from Unit 2 (Huma
 4. Esteem
 5. Self-actualization
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+
 ### Herzberg sorting
 
 - Hygiene factors: pay, working conditions, policy, supervision, job security.
 - Motivators: achievement, recognition, responsibility, the work itself, advancement.
 
 Must-know distinction: a pay rise removes a source of complaint (hygiene). Responsibility and recognition create commitment (motivators).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
 
 ## HL only: other theories
 
@@ -67,6 +79,22 @@ Must-know distinction: a pay rise removes a source of complaint (hygiene). Respo
 | Expectancy theory | Effort leads to performance, performance leads to reward, reward is valued | Make targets reachable and rewards visible and wanted |
 
 Equity and expectancy are named together in the guide with no detail. The key terms above are the standard ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--02-needs-theories.webp" width="900" height="1030" alt="Two panels of three needs each. McClelland: achievement (challenge, feedback), affiliation (good relationships), power (influence over others). Deci and Ryan: autonomy (choice in how to work), competence (feeling capable), relatedness (connection with others). Heavy use of external rewards can weaken intrinsic motivation." loading="lazy">
+  <figcaption>McClelland and Deci and Ryan each describe three needs that drive motivation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--03-equity-theory.webp" width="900" height="890" alt="Two employees do the same duties, so inputs are equal at three blocks. You receive two blocks of reward (ratio 0.67) and a colleague three (ratio 1.00). Unequal ratios are seen as unfair and demotivate. Units are illustrative." loading="lazy">
+  <figcaption>Equity theory: staff compare their reward-to-input ratio with colleagues’.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--04-expectancy-chain.webp" width="900" height="1090" alt="A chain from effort to performance to reward with three numbered beliefs: effort leads to performance, performance leads to a reward, and the reward is valued. When all hold, motivation is high. In a second chain the performance-to-reward link is broken and motivation falls." loading="lazy">
+  <figcaption>Expectancy theory: if any of the three links is weak, motivation falls.</figcaption>
+</figure>
+
 
 ## HL only: labour turnover
 
@@ -84,6 +112,12 @@ Reminders:
 
 Causes: low pay, poor management, no promotion, weak training, poor working conditions. Effects: recruitment and training costs, lost experience, lower morale. A low rate is not always good, because new staff can bring new ideas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+
 ## HL only: appraisal
 
 | Type | Purpose | Timing |
@@ -92,6 +126,17 @@ Causes: low pay, poor management, no promotion, weak training, poor working cond
 | Summative | Judge performance (pay, promotion) | End of period |
 | 360-degree feedback | Views from managers, peers, subordinates, sometimes customers | Usually periodic |
 | Self-appraisal | Employee reviews own performance | Before a meeting with the manager |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--01-piece-vs-time-rate.webp" width="900" height="890" alt="A graph of weekly pay against garments sewn. The piece rate of $2.40 a garment rises from zero; the time rate of $14 for 38 hours is a flat $532. They meet at 221.67 garments, so 222 are needed to match. At 215 garments the piece rate pays $516, which is $16 less." loading="lazy">
+  <figcaption>A piece rate only beats a time rate if the worker can reach a high enough output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--03-feedback-360.webp" width="900" height="890" alt="The employee sits at the centre. Arrows point in from the manager, peers and subordinates, and from customers (dashed, sometimes included)." loading="lazy">
+  <figcaption>360-degree feedback gathers views from every direction, not just the manager.</figcaption>
+</figure>
+
 
 ## HL only: recruitment
 
@@ -124,6 +169,22 @@ Reminders:
 - Commission of 6% on sales of 48,000 gives 2,880.
 - A profit-related pool of 5% of 320,000 is 16,000. Shared among 40 staff, it gives 400 each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--05-job-redesign.webp" width="900" height="950" alt="Enlargement adds more tasks at the same level (wider). Enrichment adds planning and decision-making on top of doing (deeper) and targets Herzberg motivators. Rotation moves staff between tasks or departments." loading="lazy">
+  <figcaption>Enrichment adds depth; enlargement adds more of the same; rotation swaps tasks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--01-commission-prp-pay.webp" width="900" height="970" alt="Top: a stacked bar of monthly pay, base salary 1,800 plus commission 2,500 (4% of 62,500 sales), total 4,300. Bottom: 60 employee circles share a 36,000 pool, which is 8% of a 450,000 profit, so each receives 600." loading="lazy">
+  <figcaption>Commission rewards one person's sales; profit-related pay shares a pool among all staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
+
 ## Non-financial rewards (SL and HL)
 
 | Reward | Meaning | Direction |
@@ -142,6 +203,12 @@ Reminders:
 | Induction | Settles new staff, covers safety and rules | Takes time; weak if rushed |
 | On the job | Cheap, relevant | Depends on the trainer; may disrupt work |
 | Off the job | Wider skills, expert input | Costly; time away from work |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ## Linking rewards to theories
 

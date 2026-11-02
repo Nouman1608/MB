@@ -135,6 +135,22 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - **Exponential form and sinusoids.** A cos(ωt + α) matches Ae^(iα). Adding waves of the same frequency becomes adding complex numbers.
 - **Multiplication and geometry.** Multiplying by re^(iθ) rotates by θ anticlockwise about the origin and stretches by r. Multiplying by i is a quarter-turn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--06-complex-roots.webp" width="900" height="1080" alt="Top: parabola y = x^2 - 4x + 13 with vertex (2, 9) that never meets the x-axis (discriminant -36). Bottom: Argand diagram with the roots 2 + 3i and 2 - 3i, a conjugate pair with real part 2, the same as the vertex x-coordinate." loading="lazy">
+  <figcaption>The parabola misses the x-axis, so the roots 2 +/- 3i are complex and appear as a conjugate pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--08-multiply-turn-stretch.webp" width="900" height="960" alt="Argand diagram with z = 2 + i. Multiplying by i turns it by pi over 2 to -1 + 2i. Multiplying by 2e^(i pi/6) = root 3 + i turns it by pi over 6 and doubles its length, giving about 2.46 + 3.73i." loading="lazy">
+  <figcaption>Multiplying by e^(i theta) turns a point by theta; the modulus scales the length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--09-adding-sinusoids.webp" width="900" height="1010" alt="Graphs of V1 = 12 cos 50t, V2 = 5 cos(50t + pi/2) and their sum 13 cos(50t + 0.395), with the same addition shown as complex numbers: 12 + 5i has modulus 13 and argument 0.395 rad." loading="lazy">
+  <figcaption>Adding sinusoids of equal frequency by adding complex numbers: amplitude 13, phase 0.395.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **log (xy) vs log x × log y.** Only the first splits into a sum.
@@ -145,6 +161,12 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - **Geometric meaning.** Addition is vector addition. Multiplying by re^(iθ) is a rotation by θ with a stretch of factor r.
 - **Powers vs roots.** You must find integer powers. The guide says you will not be asked to find roots of complex numbers in examinations.
 - **Converges vs diverges.** A geometric series with r = −0.9 has a sum to infinity; one with r = 1.1 or r = −1 does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--07-polar-quadrant.webp" width="900" height="1040" alt="Argand diagram with -3 + 3i in the second quadrant, modulus 3 root 2 and argument 3 pi over 4 (pi minus the reference angle pi over 4). The calculator value -pi over 4 points into the wrong quadrant and is crossed out." loading="lazy">
+  <figcaption>Finding the argument of -3 + 3i: sketch the quadrant, do not trust arctan alone.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -176,6 +198,12 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 11. 6e^(iπ/3) = 6(1/2 + (√3/2)i) = **3 + 3√3 i**.
 12. (√2)⁸ e^(iπ) = 16 × (−1) = **−16**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--03-rational-exponents.webp" width="900" height="940" alt="Graph of y = x^(2/3) through (8, 4) and (27, 9). Below, two flow chains: 27 to cube root 3 to square 9; and 16 to fourth root 2 to cube 8 to reciprocal 1/8." loading="lazy">
+  <figcaption>27^(2/3) = 9 and 16^(-3/4) = 1/8 by taking the root first.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Splitting log (x + 3) as log x + log 3.
@@ -188,6 +216,12 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - Writing an exponential form with the angle in degrees.
 - Adding sinusoid amplitudes directly instead of adding the complex numbers.
 - Giving only a GDC answer with no complex number written down, so no method mark can be awarded if the answer is wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--05-bouncing-ball.webp" width="900" height="940" alt="A ball dropped from 8 m then bouncing to 6 m, 4.5 m, 3.375 m and so on. The rises form a geometric series with sum 24; with matching falls the total distance is 8 + 2 x 24 = 56 m." loading="lazy">
+  <figcaption>Total distance of the bouncing ball: 8 + 2 x 24 = 56 m.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

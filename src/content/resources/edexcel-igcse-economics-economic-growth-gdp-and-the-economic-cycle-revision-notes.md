@@ -63,6 +63,32 @@ Worked reminder: nominal GDP 600 to 645, index 100 to 104. Real = 645 / 1.04 = 6
 - What is produced is not shown, only its value.
 - Data may be estimated and revised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle--01-alder-nominal-real-growth.webp" width="900" height="950" alt="Bars compare year 1 GDP of 600 billion with year 2 nominal GDP of 645 billion, split into about 20.2 billion of extra output and 24.8 billion of higher prices. Nominal growth is 7.5% and real growth about 3.4%." loading="lazy">
+  <figcaption>Most of Alder's 7.5% nominal growth is higher prices; real growth is about 3.4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle--02-brill-gdp-per-head.webp" width="900" height="840" alt="Bars show real GDP up 5%, population up 2% and GDP per head up 2.94%, from 30,000 to about 30,882." loading="lazy">
+  <figcaption>Output grew 5% but GDP per head only about 2.9% because population grew too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## The economic cycle
 
 Sketch: a wave of real GDP against time, rising and falling around an upward trend line. Label the peak as boom, the falling section as downturn, the bottom as recession and the rising section as recovery.
@@ -76,6 +102,27 @@ Sketch: a wave of real GDP against time, rising and falling around an upward tre
 
 Unemployment lags output. In a recovery, firms wait before hiring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle--06-ember-growth-distribution.webp" width="900" height="960" alt="Five households before and after growth. The mean income rises 20 percent from 40 to 48, but households 1 and 2 gain nothing. The richest share rises from 50 to 55 percent." loading="lazy">
+  <figcaption>Average income can rise strongly while the poorest gain nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle--07-cedar-cycle-data.webp" width="900" height="910" alt="Growth bars for six years are coloured by stage: boom, downturn, recession, recovery. Inflation and unemployment rows sit underneath, with unemployment peaking at 7.2 percent after output turned." loading="lazy">
+  <figcaption>Reading boom, downturn, recession and recovery from growth, inflation and unemployment data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+
 ## Impact of growth: pros and cons
 
 | Area | Possible benefit | Possible cost |
@@ -86,6 +133,12 @@ Unemployment lags output. In a recovery, firms wait before hiring.
 | Productive potential | Frontier shifts out; more can be made in future | Growth from idle resources does not raise potential |
 | Inflation | Little if capacity grows as fast as spending | Spending rising faster than capacity pushes prices up |
 | Environment | Richer countries can afford cleaner methods | More resource use, pollution and waste |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle--03-dune-growth-jobs-emissions.webp" width="900" height="1020" alt="Two panels of bars. Output up 4% with output per worker up 1.5% gives jobs up 2.46%, or none if productivity rises 4%. Output up 4% with emissions per unit down 1% gives emissions up 2.96%, or down 1.2% if emissions per unit fall 5%." loading="lazy">
+  <figcaption>Growth in output splits into productivity and jobs, and into emissions per unit and total emissions.</figcaption>
+</figure>
+
 
 ## Why each stage behaves as it does
 
@@ -115,6 +168,12 @@ Unemployment lags output. In a recovery, firms wait before hiring.
 | Resources are lost or damaged | The frontier moves inward | Potential falls |
 
 Example: a frontier with maxima of 80 consumer goods and 40 capital goods that becomes 88 and 44 has risen by 10% on both axes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## Evaluation framework for growth questions
 
@@ -161,6 +220,12 @@ Example: a frontier with maxima of 80 consumer goods and 40 capital goods that b
 10. 1.06 × 0.97 - 1 = 2.82%, a **rise of 2.8%**.
 11. (485 - 500) / 500 × 100 = **-3.0%**.
 12. Firms wait until demand has recovered for good before hiring, and may use spare capacity or existing workers first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

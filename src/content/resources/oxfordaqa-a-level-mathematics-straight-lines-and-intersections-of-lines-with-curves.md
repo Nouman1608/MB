@@ -34,6 +34,12 @@ Pair it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-strai
 
 Every method below is algebra you can do by hand, and the working is what shows your understanding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--09-two-circles.webp" width="900" height="1058" alt="OCR only. Circles x^2+y^2=16 and (x-6)^2+(y-2)^2=9 with d=sqrt(40) between 1 and 7 so they cross at two points; number line of d shows the touching and separate cases." loading="lazy">
+  <figcaption>Compare the distance between centres with the sum and difference of the radii.</figcaption>
+</figure>
+
+
 ## Gradient, mid-point and distance
 
 For points A(x₁, y₁) and B(x₂, y₂):
@@ -90,6 +96,17 @@ Multiply through by the denominator to clear fractions, then collect everything 
 
 **Reading a gradient from ax + by + c = 0.** Rearrange to y = −(a/b)x − c/b. The gradient is −a/b and the y-intercept is −c/b. For 6x − 4y + 9 = 0 the gradient is 6/4 = 3/2 and the intercept is 9/4. Beware the sign: the gradient is minus a over b, not a over b.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--02-straight-line-model.webp" width="900" height="880" alt="Candle height h = 24 - 1.8t: intercept 24 cm, gradient -1.8 cm per hour, burnt out at t = 40/3 h; the model is invalid beyond that. Worked example from the AQA lesson." loading="lazy">
+  <figcaption>The gradient is a rate of change, the intercept a starting value, and the model has a limited domain. AQA and OCR.</figcaption>
+</figure>
+
+
 ## Parallel and perpendicular lines
 
 * Parallel lines have equal gradients: m₁ = m₂.
@@ -122,6 +139,17 @@ y + 2 = 5/2 (x − 6)
 
 A parallel line keeps the left-hand side, 5x − 2y, and changes only the constant. Here 5(6) − 2(−2) = 34, which gives the same answer in one line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
+  <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--07-tangent-and-normal.webp" width="900" height="1026" alt="Circle centre (3,-5), point P(6,-1): radius gradient 4/3, tangent gradient -3/4 giving 3x+4y-14=0, normal 4x-3y-27=0 through the centre. No calculus needed." loading="lazy">
+  <figcaption>The tangent is perpendicular to the radius, and the normal runs along it through the centre.</figcaption>
+</figure>
+
+
 ## Where a line meets a curve
 
 To find where a line meets a curve, solve their equations simultaneously. The method never changes.
@@ -145,6 +173,12 @@ Points: (2, 3) and (5, 9)
 For x = 2 the line gives y = 2(2) − 1 = 3, and for x = 5 it gives y = 9. Substituting into the curve returns the same values, and doing so is a worthwhile check.
 
 Do not stop at the x-values. A question that asks for the points of intersection needs both coordinates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
+  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
+</figure>
+
 
 ## What the discriminant tells you
 

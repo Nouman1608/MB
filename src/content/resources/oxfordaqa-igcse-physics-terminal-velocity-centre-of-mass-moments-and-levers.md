@@ -62,6 +62,12 @@ Use resultant force = mass × acceleration, with gravitational field strength 10
 - (b) Resultant = 800 − 320 = 480 N, so a = 480 ÷ 80 = **6.0 m/s²**.
 - (c) Resultant is zero, so drag = weight = **800 N**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--03-terminal-velocity.webp" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
+  <figcaption>Terminal velocity is reached when drag has grown to balance the weight.</figcaption>
+</figure>
+
+
 ## Parachutes and velocity-time graphs (3.1.6 c)
 
 A parachute has a very large area, so at any given speed it produces far more drag than a body alone. The parachutist reaches terminal velocity at a much lower speed, which allows a safe landing.
@@ -98,6 +104,12 @@ For a skydiver who opens a parachute the graph has four parts:
 - (b) a = (30 − 28) ÷ 2 = 1.0 m/s². Resultant = 75 × 1.0 = 75 N. Drag = 750 − 75 = **675 N** (an average over the interval).
 - (c) The speed stops changing from 8 s, so the terminal velocity is **30 m/s**. Drag equals weight, **750 N**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--01-parachute-velocity-time.webp" width="900" height="1320" alt="A speed-time graph in four stages: speed rises and flattens, holds at a first terminal speed, drops steeply when the parachute opens, then holds at a much lower terminal speed. Force arrows show drag below, equal to, then much greater than, then equal to weight." loading="lazy">
+  <figcaption>Opening a parachute gives a second, much lower terminal speed.</figcaption>
+</figure>
+
+
 ## Streamlining (3.1.6 d)
 
 Streamlining shapes an object so fluid flows smoothly past it. Less drag means a higher maximum speed.
@@ -128,6 +140,17 @@ Why it works: a freely hanging card has its centre of mass directly below the pi
 
 The position of the centre of mass affects stability. An object is more stable with a low centre of mass and a wide base. A tall, narrow object with a high centre of mass tips easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity." loading="lazy">
+  <figcaption>The centre of gravity is where the plumb lines from two suspension points cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--06-stability.webp" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
+  <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples.</figcaption>
+</figure>
+
+
 ## Moments (3.1.8 a)
 
 The turning effect of a force is called the moment. 
@@ -142,6 +165,22 @@ The distance d is measured at right angles to the force, from the pivot to the f
 
 - (a) M = 150 × 0.28 = **42 N m**.
 - (b) F = M ÷ d = 42 ÷ 0.35 = **120 N**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
+  <figcaption>Use the perpendicular distance from the pivot to the line of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--04-balanced-seesaw.webp" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
+  <figcaption>Balanced moments (360 N m each side) and balanced forces (700 N up) both hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--06-moments-balance.webp" width="900" height="830" alt="A beam on a central pivot with 2.0 N at 0.30 m on the left and W at 0.20 m on the right. The anticlockwise moment 0.60 N m equals the clockwise moment 0.60 N m, so W = 3.0 N and the beam balances." loading="lazy">
+  <figcaption>A beam balances when the clockwise and anticlockwise moments about the pivot are equal.</figcaption>
+</figure>
+
 
 ## The principle of moments (3.1.8 b)
 
@@ -179,6 +218,12 @@ The weight of an object acts through its centre of mass. While the vertical line
 
 Vehicles: a bus or lorry with a heavy load stacked high has a high centre of mass, so a smaller tilt (for example on a sloping road or in a sharp turn) brings the line of action outside the wheels. Balancing toys: the toy has weights on long arms so the centre of mass is below the pivot. When it is nudged, the weight gives a moment that swings it back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--01-toppling-box-moment.webp" width="900" height="880" alt="A box 0.50 m wide weighs 200 N with its centre of mass 0.25 m from the tipping edge. A horizontal push acts 0.80 m above the floor. Weight gives 50 N m anticlockwise; the push gives F x 0.80 clockwise, so tipping starts at F = 62.5 N." loading="lazy">
+  <figcaption>The box starts to tip when the push moment equals the weight moment about the lower edge.</figcaption>
+</figure>
+
+
 ## Levers (3.1.8 d)
 
 A lever is a rigid bar that turns about a pivot. A simple lever can be a force multiplier: a small force (the effort) far from the pivot overcomes a large force (the load) close to the pivot. Crowbars, wheelbarrows and nutcrackers work this way.
@@ -189,6 +234,12 @@ A lever is a rigid bar that turns about a pivot. A simple lever can be a force m
 - Load = 96 ÷ 0.15 = **640 N**.
 
 The force is multiplied by 1.20 ÷ 0.15 = 8. In return, the effort moves eight times as far as the load.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--02-crowbar-force-multiplier.webp" width="900" height="930" alt="A crowbar with the load 0.15 m and the 80 N effort 1.20 m from the pivot. 80 x 1.20 = 96 N m, so the load is 640 N: the force is multiplied by 8 and the effort end moves 8 times as far." loading="lazy">
+  <figcaption>A long effort distance and a short load distance multiply the force.</figcaption>
+</figure>
+
 
 ## Common errors
 

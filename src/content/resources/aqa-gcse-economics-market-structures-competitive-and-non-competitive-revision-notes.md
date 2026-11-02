@@ -46,6 +46,17 @@ Method for a market share question:
 
 Quick reminder: shares of 40, 30, 20, 10 give the top two 40 + 30 = 70%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--01-structures-range.webp" width="900" height="983" alt="Three Dunmere markets with 40, 3 and 1 firm, and the competitive versus non-competitive ends of the range. Many firms with similar products and easy entry sit at the competitive end; one or few firms with branded products and hard entry sit at the other." loading="lazy">
+  <figcaption>A market is placed on the range by number of producers, product differentiation and ease of entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--02-market-share.webp" width="900" height="950" alt="The top two firms in an invented broadband market hold 65 percent and the top three 80 percent, so it is concentrated. Forty equal window cleaners hold 2.5 percent each." loading="lazy">
+  <figcaption>Adding the largest shares shows concentration; equal small firms cannot dominate.</figcaption>
+</figure>
+
+
 ## 3.1.5.2 Competitive markets
 
 **Definition:** a market where many producers compete for the same customers.
@@ -69,6 +80,12 @@ How producers operate: keep costs low, price close to rivals, compete on quality
 | Consumers | Lower prices, better quality and service, easy switching |
 | Producers | Squeezed profit margins, pressure to cut costs and innovate, weak firms may fail |
 | Workers | More firms hiring means more opportunities; but cost pressure may limit pay or threaten jobs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--07-ms-competition-impacts.webp" width="900" height="940" alt="Three rows for consumers, producers and workers in a competitive market. Consumers get lower prices, wider choice, better service and easy switching, all benefits. Producers face pressure: margins are squeezed, costs must fall and weak firms may exit, though efficient firms survive and may grow. Workers see mixed effects: more job openings and the chance of pay rises, but pay can be held down and jobs can be less secure when firms are under price pressure." loading="lazy">
+  <figcaption>Competition benefits consumers, pressures producers and has mixed effects on workers.</figcaption>
+</figure>
+
 
 ### Why profits are lower than where a few producers dominate
 
@@ -98,6 +115,22 @@ Two new bakeries open nearby and the price falls to £2.80. Costs and sales stay
 
 A 6.7% price fall halves the profit. This is why competition squeezes profits so sharply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--03-profit-two-markets.webp" width="900" height="880" alt="Same cost of 10.50 per clean. Price 12 gives 1.50 profit (12.5 percent margin, 90 pounds on 60 cleans); price 18 gives 7.50 (41.7 percent, 4,500 pounds on 600 cleans)." loading="lazy">
+  <figcaption>With equal costs, the higher price in a dominated market explains the bigger margin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--04-oligopoly-payoffs.webp" width="900" height="960" alt="Two-by-two table of invented profits for firms X and Y. Both high 40/40 (total 80), X low only 60/15, Y low only 15/60, both low 25/25 (total 50)." loading="lazy">
+  <figcaption>If both firms cut price each earns less, which is why oligopolists fear price wars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--05-scale-barrier.webp" width="900" height="960" alt="At a price of 5.20 a firm with unit cost 6.00 loses 0.80 a unit, while a firm with unit cost 4.50 makes 0.70 a unit, 28,000 pounds on 40,000 units." loading="lazy">
+  <figcaption>Lower unit costs from scale let a large firm survive where small rivals cannot.</figcaption>
+</figure>
+
+
 ## 3.1.5.3 Non-competitive markets
 
 **Definition:** a market where competition is limited because one firm or a few firms dominate.
@@ -122,6 +155,12 @@ Impact on **price and choice:** higher prices and narrower choice than in a comp
 | Typical behaviour | Can raise price, limited pressure to improve | Avoids price wars, competes on branding, advertising and features; may collude (usually unlawful) |
 
 A firm with a very large share but not 100% has monopolistic power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-structures-competitive-and-non-competitive--06-ms-monopoly-fare-rise.webp" width="900" height="890" alt="Three bars for an invented mountain railway adult fare. The old fare is 20 pounds. The monopoly raises it to 26 pounds, a rise of 6 pounds, which is 6 divided by 20 times 100, equal to 30 per cent. After a rival coach route the fare is cut to 22 pounds, a fall of 4 pounds, which is 4 divided by 26 times 100, equal to 15.4 per cent of the 26 pound fare, leaving the fare 10 per cent above the original 20 pounds." loading="lazy">
+  <figcaption>A £6 rise on £20 is 30%, while a cut from £26 to £22 is 15.4%.</figcaption>
+</figure>
+
 
 ### Worked reminder: monopoly price change
 

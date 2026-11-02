@@ -63,6 +63,12 @@ Alpha particles are positively charged. The observations, and what each tells yo
 
 Say "repelled" or "electrostatic repulsion" when you explain a large deflection. Alpha particles carry positive charge, so the nucleus must be positive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--01-aphy-quantum-alpha-scattering.webp" width="900" height="1160" alt="Twelve alpha-particle tracks computed from inverse-square repulsion by one small positive nucleus. Distant tracks barely bend, closer ones turn through large angles and the closest is turned back. This shows the atom is mostly empty space with a small, massive, positively charged nucleus." loading="lazy">
+  <figcaption>Alpha tracks bend or rebound because of a tiny, massive, positive nucleus.</figcaption>
+</figure>
+
+
 ## How understanding of the nucleus has changed
 
 You need an appreciation of how the picture developed, not exact dates. A good short account runs in this order.
@@ -102,6 +108,12 @@ Electron: 1.60 × 10⁻¹⁹ ÷ 9.11 × 10⁻³¹ = **1.76 × 10¹¹ C kg⁻¹**
 
 The electron's specific charge is about 1800 times greater. The charges are equal in size, so the difference is entirely down to mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--09-aphy-quantum-de-broglie.webp" width="900" height="1190" alt="Electrons accelerated through a potential difference pass through graphite and form rings on a screen. Doubling V from 2.5 kV to 5 kV shortens lambda from 24.6 pm to 17.4 pm and shrinks the rings by 0.71. A log scale shows a 0.057 kg ball at 40 m/s with lambda about 3e-34 m, far smaller than an electron at 3.5 kV (2e-11 m)." loading="lazy">
+  <figcaption>Faster electrons have a shorter wavelength, and only atom-sized wavelengths diffract noticeably.</figcaption>
+</figure>
+
+
 ### Worked example 2: an ion
 
 Find the specific charge of the iron ion with 26 protons, 30 neutrons and 23 electrons.
@@ -121,6 +133,12 @@ A sulfide ion has 16 protons, 16 neutrons and 18 electrons.
 2. Mass ≈ 32 × 1.67 × 10⁻²⁷ = 5.34 × 10⁻²⁶ kg (adding the eighteen electrons changes this by about 0.03%).
 3. Specific charge = **−5.99 × 10⁶ C kg⁻¹**, with the negative sign carried from the charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--04-aphy-quantum-quarks.webp" width="900" height="1130" alt="Four cards give the quark make-up of the proton (uud), neutron (udd), positive pion (u d-bar) and positive kaon (u s-bar), with the charges adding to +1, 0, +1 and +1. Baryons have three quarks, mesons a quark and an antiquark; leptons such as the electron and neutrino are not made of quarks." loading="lazy">
+  <figcaption>The charges of the quarks add up to the charge of each hadron.</figcaption>
+</figure>
+
+
 ## Proton number, nucleon number and nuclide notation
 
 - **Proton number Z**: number of protons. It sets which element the atom is.
@@ -136,6 +154,12 @@ You must be familiar with the notation with A as a superscript and Z as a subscr
 ```
 
 This nuclide has 26 protons and 56 − 26 = 30 neutrons. A neutral atom has 26 electrons. **Isotopes** of an element have the same Z and different A, so they differ in neutron number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
 
 ## 3.3.2 Classification and antiparticles
 
@@ -172,6 +196,12 @@ If both particles were at rest, each photon would carry 0.511 MeV.
 
 A proton and an antiproton at rest annihilate. Total energy = 2 × 938.3 = **1876.6 MeV** (about 1.88 GeV), so each of two photons has 938.3 MeV.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
+
 ## Pair production
 
 Pair production is the reverse process. A photon of sufficient energy turns into a particle and its antiparticle. Charge is conserved, so the pair has zero net charge. It occurs close to a nucleus, which takes up a little momentum. You can ignore that recoil in calculations.
@@ -192,6 +222,12 @@ A photon of energy 3.50 MeV produces an electron-positron pair.
 3. Shared equally: **1.24 MeV each**.
 
 A photon of 0.80 MeV cannot produce this pair, since 0.80 is less than 1.022.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
 
 ## Common errors
 

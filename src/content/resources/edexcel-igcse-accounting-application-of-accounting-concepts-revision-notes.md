@@ -57,6 +57,12 @@ Method in steps:
 
 Reminder example. Wren Lane Pottery buys a kiln for 10,000 with a five-year life and nil residual. Straight line gives 10,000 / 5 = 2,000 each year. Reducing balance at 40% gives 4,000 in year 1 and (10,000 − 4,000) × 40% = 2,400 in year 2. Profit differs by 2,000 in year 1 and 400 in year 2 depending on the method. Choosing a method each year to suit the profit wanted is the failure to avoid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--01-g2-02-consistency-switch.webp" width="900" height="950" alt="Bars show Maple Quay Cycles profit of 27,100 in Year 1, 28,600 in Year 2 if straight line is kept, and 26,680 if the business switches to 20% reducing balance. Trading improved by 1,500, but the switch makes profit appear to fall by 420." loading="lazy">
+  <figcaption>Changing depreciation method can hide a real rise in profit.</figcaption>
+</figure>
+
+
 ## Prudence
 
 Method in steps:
@@ -72,6 +78,17 @@ Reminders:
 - A hoped-for order of 5,000 not yet signed is not revenue.
 
 Limit: prudence allows careful estimates. It does not allow hidden reserves or inventing losses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--02-g2-02-prudence-profit-walk.webp" width="900" height="890" alt="Draft profit of 42,000 falls by 1,200 when slate is valued at net realisable value of 2,700 instead of cost 3,900, and by 1,070 for a 5% provision on 21,400 of receivables. Adjusted profit is 39,730." loading="lazy">
+  <figcaption>Prudence recognises losses early, so adjusted profit is lower than the draft.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--02-u2-005-lower-of-cost-nrv.webp" width="900" height="900" alt="Cost and net realisable value bars for porcelain, slate and mosaic, with the lower one outlined as the value used: 6,400, 2,700 and 1,800, totalling 10,900 against cost of 12,100." loading="lazy">
+  <figcaption>Each inventory line is valued at the lower of cost and net realisable value.</figcaption>
+</figure>
+
 
 ## Accruals
 
@@ -92,6 +109,17 @@ Reminders:
 
 The accruals concept is the reason a bill arriving after the year end can still be a cost of this year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--03-g2-02-accruals-profit-bridge.webp" width="900" height="920" alt="Draft profit of 18,000 changes by -480 for electricity owed, +1,980 for insurance paid in advance and +1,900 for catering earned but not recorded, giving 21,400." loading="lazy">
+  <figcaption>Accruals puts each item in the year it belongs to.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--01-u2-005-insurance-timeline.webp" width="900" height="850" alt="Twelve month boxes show the 2,640 insurance paid on 1 October: October to December (660) is this year's expense and January to September (1,980) is an other receivable." loading="lazy">
+  <figcaption>Only the months used before the year end are charged to this year.</figcaption>
+</figure>
+
+
 ## Materiality
 
 Method in steps:
@@ -102,6 +130,12 @@ Method in steps:
 4. Say the answer depends on the size of the business.
 
 Reminder: an item of 90 against profit of 12,000 is 90 / 12,000 × 100 = 0.75%, so it is unlikely to be material. A policy line such as "expense purchases under a set amount" is fine when applied consistently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--04-g2-02-materiality-share.webp" width="900" height="980" alt="Each item is shown as a share of profit of 38,000: stapler 0.04%, repair bill 0.63% and folding machine 25.3%. The same 240 repair bill would be 12% of a stall profit of 2,000." loading="lazy">
+  <figcaption>Materiality is judged against the size of the business, not by a fixed number.</figcaption>
+</figure>
+
 
 ## Money measurement
 
@@ -117,6 +151,12 @@ Limits to know:
 - Money changes in value over time, so old and new costs are added together.
 - Disputed or uncertain values cannot be stated exactly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--05-g2-02-money-measurement-limits.webp" width="900" height="880" alt="Premises bought for 60,000 ten years ago and a van bought for 18,000 this year are added at cost to give 78,000. The mechanic with a national reputation has no money figure and is not recorded." loading="lazy">
+  <figcaption>Only items with a money value are recorded, usually at cost.</figcaption>
+</figure>
+
+
 ## Business entity
 
 Method in steps:
@@ -127,6 +167,12 @@ Method in steps:
 4. Profit goes up by the amount removed; drawings go up by the same amount, so capital is unchanged overall.
 
 Reminder: 150 of owner's personal phone bill charged to telephone expense adds 150 to profit and 150 to drawings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-application-of-accounting-concepts--06-g2-02-entity-drawings.webp" width="900" height="940" alt="Three private items of 2,200, 640 and 380, total 3,220, move from expenses to drawings. Profit rises from 44,900 to 48,120 and drawings from 14,000 to 17,220." loading="lazy">
+  <figcaption>Private bills paid by the business are drawings, not expenses.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

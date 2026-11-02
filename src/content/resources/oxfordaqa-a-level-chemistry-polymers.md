@@ -88,6 +88,12 @@ n HOOC–(CH₂)₅–COOH  +  n HO–(CH₂)₄–OH
 
 - The linkage is an **ester** link, so the product is a **polyester**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+
 ### Polyamides from amino acids
 
 An amino acid carries –NH₂ and –COOH on the same molecule, so a single kind of monomer is enough. The amine end of one molecule reacts with the acid end of the next. The repeating unit holds **one** residue, and one water molecule forms per unit. When several different amino acids join, the polyamide is a polypeptide; proteins are studied in section 3.3.13.
@@ -97,6 +103,12 @@ An amino acid carries –NH₂ and –COOH on the same molecule, so a single kin
 - Remove H from the N and OH from the carbonyl carbon.
 - Repeating unit: **–[NH–CH(C₂H₅)–CO]–**, with bonds through both brackets and n outside.
 - Equation: n H₂N–CH(C₂H₅)–COOH → –[NH–CH(C₂H₅)–CO]ₙ– + n H₂O
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
 
 ### From a section of chain to the repeating unit and the monomers
 
@@ -135,6 +147,22 @@ The Mr of a two-monomer repeating unit equals the sum of the two monomer Mr valu
 - Cross-check: Mr(heptanedioic acid) + Mr(butane-1,4-diol) − 2(18.0) = 160.0 + 90.0 − 36.0 = 214.0.
 - Number of units = 3.21 × 10⁴ ÷ 214.0 = **150**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
+
 ## 3.3.12.1 Forces between condensation polymer chains
 
 Every polymer has **van der Waals forces** (induced dipole–dipole forces) between its chains. Condensation polymers also contain polar linkages, which add stronger forces.
@@ -144,6 +172,12 @@ Every polymer has **van der Waals forces** (induced dipole–dipole forces) betw
 - **Kevlar** chains are flat and rigid because of the benzene rings. They pack side by side in parallel, which lines up many N–H and C=O groups and gives a large number of hydrogen bonds. That explains the strength of Kevlar fibres.
 
 Stronger forces between chains mean more energy is needed to separate them. So a polyamide usually melts higher than a polyester of similar chain size, because hydrogen bonds are stronger than dipole–dipole forces. Melting separates chains; it does not break covalent bonds inside a chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
 
 ## 3.3.12.2 Biodegradability and hydrolysis
 

@@ -63,6 +63,22 @@ Steps to gaseous ions: 159 + 520 + 122 − 349 = +452
 
 Lattice energy = −409 − 452 = **−861 kJ mol⁻¹**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--03-polarisation-covalent-character.webp" width="900" height="1150" alt="Left: Cs+ and Cl- as spheres; experiment (-668) is close to the ionic model (-652). Right: small Ag+ pulls the Cl- cloud towards it, giving shared electron density; experiment (-905) is clearly more exothermic than the model (-833). The gaps are 2.5 and 8.6 percent." loading="lazy">
+  <figcaption>A larger experimental-versus-model gap shows more covalent character, caused by a cation polarising the anion (AQA, OxfordAQA, Edexcel).</figcaption>
+</figure>
+
+
 ## Method: drawing the Born-Haber diagram
 
 - Elements in standard states go on the zero line, for example Li(s) + ½Cl₂(g).
@@ -83,6 +99,22 @@ Lattice energy = −409 − 452 = **−861 kJ mol⁻¹**
 ΔsolH = 2074 + (−1616) + 2(−297) = **−136 kJ mol⁻¹**
 
 As an energy level diagram: the gaseous ions sit at the top, the solid 2074 below them, and the aqueous ions 2210 below them. The solution therefore ends 136 below the solid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
 
 ## Covalent character and polarisation (12.14, 12.15)
 

@@ -51,6 +51,37 @@ Related pages: [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics
 
 **Quick reminder.** A body orbits at r = 6.0 × 10⁷ km with a speed of 40 km/s. T = 2πr / v = 2π × 6.0 × 10⁷ / 40 = 9.4 × 10⁶ s, which is 109 days.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--09-sp-light-time-orbital-speed.webp" width="900" height="965" alt="Light takes 500 s to reach Earth, so the orbit radius is 1.5 x 10^11 m. One orbit is 2 pi r and takes 3.15 x 10^7 s, giving a speed of about 29.9 km/s." loading="lazy">
+  <figcaption>Earth’s orbital speed follows from the light travel time and v = 2πr ÷ T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--11-sp-planet-period-speed.webp" width="900" height="920" alt="Four practice planets with distance, period and computed orbital speed bars: 50, 42, 31 and 15 km/s from nearest to furthest. Further planets have longer periods and move more slowly." loading="lazy">
+  <figcaption>Orbital period rises and orbital speed falls with distance from the Sun.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--06-moon-orbit-month.webp" width="900" height="870" alt="Top view, not to scale: the Moon goes once round the Earth in approximately one month." loading="lazy">
+  <figcaption>The Moon takes about one month for one orbit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--10-orbital-speed-worked.webp" width="900" height="870" alt="Moon example: T = 1.56e5 s, 2πr = 2.64e6 km, v = 17 km/s. Reverse example: vT = 4.5e7 km, r = 7.2e6 km. One orbit is 2π radii laid end to end." loading="lazy">
+  <figcaption>Worked examples 2 and 3 of v = 2πr/T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--01-seasons.webp" width="900" height="640" alt="Side view of the Earth either side of the Sun with its axis tilted 23.4 degrees, always pointing the same way. When the north leans towards the Sun a place at 45 degrees north has the Sun 68 degrees high at noon (summer); half an orbit later it is 22 degrees high (winter)." loading="lazy">
+  <figcaption>The tilted axis, not distance from the Sun, causes the seasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--05-orbital-speed.webp" width="900" height="1030" alt="A satellite on a dashed circular orbit of radius r around Earth, with its velocity tangent to the orbit. One orbit is a distance 2 pi r = 4.4 x 10^7 m, covered in 6000 s, so v = 2 pi r / T is about 7330 m/s." loading="lazy">
+  <figcaption>Orbital speed is the circumference of the orbit divided by the time for one orbit.</figcaption>
+</figure>
+
+
 ## 6.1.2 The Solar System
 
 **The Solar System contains**
@@ -85,12 +116,29 @@ Related pages: [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics
 
 **Quick reminder: the Sun's light.** The Sun is about 1.5 × 10⁸ km away. At 3.0 × 10⁵ km/s, light takes 1.5 × 10⁸ / 3.0 × 10⁵ = 500 s to arrive, which matches the recall fact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--09-minor-bodies-map.webp" width="900" height="960" alt="Plan view with the planets in order, the asteroid belt between Mars and Jupiter, the dwarf planet Pluto, and a comet on an elongated orbit with its tail pointing away from the Sun." loading="lazy">
+  <figcaption>Asteroid belt, dwarf planet and comet in the Solar System.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+
 ## 6.2.1 The Sun as a star
 
 - Medium-sized star, mostly hydrogen and helium.
 - Radiates most of its energy in the infrared, visible and ultraviolet regions of the electromagnetic spectrum.
 - Powered by nuclear reactions that release energy.
 - In stable stars, the reaction is the fusion of hydrogen into helium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--08-sun-radiation-spectrum.webp" width="900" height="960" alt="A 5800 K black-body curve peaks near 500 nm; ultraviolet (below 400 nm), visible (400 to 700 nm) and infrared (above 700 nm) regions are shaded and hold almost all the energy." loading="lazy">
+  <figcaption>The Sun radiates mostly infrared, visible and ultraviolet.</figcaption>
+</figure>
+
 
 ## 6.2.2 Stars
 
@@ -117,6 +165,12 @@ Other stars in the Milky Way are much further from the Earth than the Sun is.
 | Planetary nebula and white dwarf | from the red giant of a less massive star |
 | Supernova | explosion of a red supergiant; nebula with hydrogen and new heavier elements; neutron star or black hole left at the centre |
 | New stars | the supernova nebula may form new stars with orbiting planets |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--10-sp-light-year-scale.webp" width="900" height="1155" alt="A light-year is the distance light travels in a year, 9.5 x 10^15 m. On a log scale Sun to Earth is 500 light-seconds and the Milky Way is about 100 000 light-years across." loading="lazy">
+  <figcaption>A light-year is a distance, and the Milky Way is about 100 000 light-years across.</figcaption>
+</figure>
+
 
 ## 6.2.3 The Universe
 
@@ -164,6 +218,12 @@ Other stars in the Milky Way are much further from the Earth than the Sun is.
 9. A neutron star or a black hole.
 10. X is further away and moving away from the Earth faster than Y.
 11. Fusion of hydrogen into helium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--07-gravity-field-strength.webp" width="900" height="1090" alt="Two same-size planets, mass M and 2M: the 2M planet has twice the field arrow. A graph shows g falling with distance from the planet centre." loading="lazy">
+  <figcaption>Field strength rises with planet mass and falls with distance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

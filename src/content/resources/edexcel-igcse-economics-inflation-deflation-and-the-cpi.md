@@ -42,6 +42,12 @@ This guide covers the "low and stable inflation" statement, section 2.1.1 b), of
 
 One effect to note: when prices rise, each unit of money buys fewer goods. Its purchasing power falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--11-cpi-rates.webp" width="900" height="830" alt="CPI path showing inflation, slower inflation and deflation. The CPI is 100 in 2025, 104.55 in 2026, 107.0 in 2027 and 105.5 in 2028. The rates are +4.55%, +2.3% and -1.4%, and the last is deflation." loading="lazy">
+  <figcaption>A positive but smaller rate is slower inflation; a negative rate is deflation.</figcaption>
+</figure>
+
+
 ## Measuring inflation with the CPI
 
 The **consumer price index (CPI)** measures the average change in the prices of a basket of goods and services bought by typical households. It is a weighted index. Households spend more on food and housing than on cinema trips, so a price change in food must count for more.
@@ -83,6 +89,12 @@ Do not confuse a CPI of 107 with 107% inflation. It means prices are 7% above th
 
 The CPI is an average. A household that spends heavily on transport has a different experience from the typical household. Weights are updated only periodically, so they can drift from real spending patterns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--10-cpi-weighted.webp" width="900" height="920" alt="The five-group weighted CPI worked example. Weights 30, 35, 15, 10 and 10 with 2026 indices of 106, 103, 110, 98 and 104 give products totalling 10,455, so the CPI is 104.55." loading="lazy">
+  <figcaption>Weights times indices, divided by the total weight, give a CPI of 104.55.</figcaption>
+</figure>
+
+
 ## Types of inflation
 
 Use a price-level and real-output diagram. The vertical axis is the general price level, the horizontal axis is real output, and the curves are aggregate demand (AD) and aggregate supply (AS).
@@ -122,6 +134,17 @@ Ingredients rise 12% and wages rise 8%.
 
 Average cost is now 1,088 ÷ 2,000 = KD 0.544 per loaf, also up 8.8%. To keep its profit per loaf, the bakery must raise its price by about the same percentage. If many firms do this, the general price level rises. Notice that output may fall: if loaf prices rise, quantity demanded drops.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--12-bakery-cost-push.webp" width="900" height="840" alt="Bakery costs before and after input cost rises. Ingredients +12% and wages +8% lift weekly cost from 1,000 to 1,088, so cost per loaf rises from KD 0.50 to KD 0.544, up 8.8%." loading="lazy">
+  <figcaption>Rising costs of 8.8% must be passed on in prices to keep profit per loaf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+
 ## Inflation and interest rates
 
 The two move together in both directions.
@@ -132,6 +155,22 @@ The two move together in both directions.
 **Real interest** is the nominal rate minus inflation, roughly. If a savings account pays 2% and inflation is 4.55%, the real return is about −2.5 percentage points. Check: KD 1,000 becomes KD 1,020, but the basket that cost KD 1,000 now costs KD 1,045.50, so the saver can buy 2.4% less.
 
 Interest rates also affect firms. A firm borrows KD 200,000 to buy a machine it expects to return 5% a year (KD 10,000). At 4% interest, its interest cost is KD 8,000, so it gains KD 2,000. At 7%, the cost is KD 14,000, so the machine loses KD 4,000 a year and the firm will probably not buy it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--13-real-return-savings.webp" width="900" height="870" alt="Savings at 2% against a basket whose price rises 4.55%. KD 1,000 grows to 1,020 but the basket rises to 1,045.50, so the saver can buy 2.4% less." loading="lazy">
+  <figcaption>A 2% saving return is a real loss when prices rise 4.55%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--07-machine-interest.webp" width="900" height="900" alt="Bars compare a machine return of 10,000 with interest of 8,000 at 4% and 14,000 at 7%. The firm gains 2,000 a year at 4% but loses 4,000 a year at 7%." loading="lazy">
+  <figcaption>At 7% interest the machine loses money, so the firm will probably not buy it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
 
 ## The effects of inflation
 
@@ -157,6 +196,22 @@ The effect depends on the cause. Falling export sales and falling demand under c
 ### Uncertainty, confidence and investment
 
 Rapid or unpredictable inflation makes the future harder to plan. Firms cannot be sure what costs and prices will be, so they find it harder to agree long contracts. Consumers who expect prices to keep rising may cut back on spending that is not essential. Falling confidence reduces spending and investment. Higher interest rates and uncertain returns also make firms delay investment, which reduces the economy's productive capacity over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--14-real-pay.webp" width="900" height="870" alt="Pay rise of 3% against a CPI of 104.55. Pay rises from 2,000 to 2,060 but real pay in 2025 prices is 2,060 / 104.55 x 100 = 1,970, a fall of 1.5%." loading="lazy">
+  <figcaption>A 3% pay rise is a fall in real pay when the CPI rises 4.55%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--05-menu-costs.webp" width="900" height="730" alt="A same-scale bar shows 45 for menus plus 18 for staff time giving 63, repeated four times to give 252. One price change costs KD 63; four a year cost KD 252." loading="lazy">
+  <figcaption>Each price change costs the cafe KD 63, so four changes cost KD 252.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--06-exports-dearer.webp" width="900" height="860" alt="A number line shows KD 50 rising to 52.28 with 4.55% inflation and to 50.50 with 1% inflation. The gap is KD 1.78, so foreign buyers switch to the cheaper rival." loading="lazy">
+  <figcaption>Higher inflation makes Country K’s good KD 1.78 dearer than the rival’s.</figcaption>
+</figure>
+
 
 ## Evaluating inflation
 

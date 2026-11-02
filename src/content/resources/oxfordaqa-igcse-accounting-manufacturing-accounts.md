@@ -64,6 +64,12 @@ The three statements fit together like this.
 
 Carriage inwards is the cost of bringing materials to the factory, so it belongs here. Carriage outwards is the cost of delivering to customers, so it belongs in the income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--01-mp15-factory-cost.webp" width="900" height="880" alt="Raw materials used and direct wages add to prime cost of 119,900 dollars; overheads of 46,700 bring the factory cost of finished goods to 166,600 dollars, which replaces purchases in the income statement." loading="lazy">
+  <figcaption>Prime cost plus overheads gives the factory cost that replaces purchases.</figcaption>
+</figure>
+
+
 ## 3. Overhead cost
 
 **Overheads** (factory overheads) are the costs of running the factory that you cannot trace to one unit of output. Typical items are indirect wages (supervisors, cleaners, maintenance staff), factory power, factory insurance, factory rent and rates, and depreciation of machinery.
@@ -74,6 +80,12 @@ Four rules from the adjustments in the specification apply.
 - **Other receivables.** A cost paid in advance is deducted from the amount paid. A prepayment is an other receivable in the statement of financial position.
 - **Depreciation.** Depreciation of factory machinery is a factory overhead. Depreciation of office equipment is not. The specification names the straight line and reducing balance methods.
 - **Shared costs.** When one bill covers both the factory and the office, split it on the basis the question gives, such as floor area, and charge each part to its own section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
 
 ## 4. Factory cost of finished goods
 
@@ -99,12 +111,24 @@ The top half changes. The cost of sales uses the factory cost, not purchases.
 
 Below gross profit, list the expenses of selling, distribution and administration, including adjustments for the provision for doubtful debts and irrecoverable debts. Gross profit less these expenses is the **profit for the year**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--02-mp15-cost-of-sales.webp" width="900" height="945" alt="Opening finished goods 9,200 and factory cost 166,600 are added, then closing finished goods 10,400 and goods taken for own use 1,500 are deducted, giving cost of sales 163,900 dollars and gross profit 94,100 dollars." loading="lazy">
+  <figcaption>The manufacturer cost of sales uses factory cost, not purchases.</figcaption>
+</figure>
+
+
 ## 6. The statement of financial position
 
 The headings are the ones used for any sole trader. A manufacturer has two things to remember.
 
 - Inventories are shown in two lines: raw materials and finished goods. Both are current assets at the closing figures used in the statements.
 - Machinery and factory buildings sit with the non-current assets, at cost less accumulated depreciation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--06-un15-ashvane-position.webp" width="900" height="960" alt="Statement of financial position for Ashvane Joinery with raw materials 7,100 and finished goods 10,400 highlighted as two inventory lines among current assets of 54,100; net assets 94,400 equal equity of capital 80,000 plus profit 45,900 less drawings 31,500." loading="lazy">
+  <figcaption>A manufacturer shows raw materials and finished goods as separate inventory lines.</figcaption>
+</figure>
+
 
 ## 7. Worked example: Ashvane Joinery
 
@@ -210,6 +234,12 @@ The provision rises from 600 to 5% of 18,000, which is 900, so the increase is 3
 
 Net assets are 55,200 + 54,100 − 14,900 = 94,400, which equals equity. That agreement is your check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--05-un15-ashvane-depreciation.webp" width="900" height="900" alt="Machinery cost 90,000: earlier depreciation 36,000, this year 10,800 (20% of 54,000 carrying amount), carrying amount 43,200. Office equipment cost 20,000: earlier 6,000, this year 2,000 (10% of cost), carrying amount 12,000. Machinery charge goes in the manufacturing account, office charge in the income statement; carrying amounts total 55,200." loading="lazy">
+  <figcaption>Reducing balance uses the carrying amount, straight line uses cost, and each charge goes to a different statement.</figcaption>
+</figure>
+
+
 ## 8. Commenting on the statements
 
 You may be asked to comment on a manufacturer's results. Work from figures you can calculate from the statements.
@@ -219,6 +249,12 @@ You may be asked to comment on a manufacturer's results. Work from figures you c
 - **Cost of materials against wages.** Materials used (71,300) and direct wages (48,600) are the two parts of prime cost. A change in either points to a different problem: a price from suppliers, or labour hours.
 
 A comment needs a figure, a comparison and a reason. State that a limit applies: one year of figures cannot show a trend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--07-un15-ashvane-comments.webp" width="900" height="870" alt="Overheads of 46,700 are 38.9% of prime cost 119,900; gross profit 94,100 on net sales 258,000 is 36.5%; prime cost is materials 71,300 (59.5%) and wages 48,600 (40.5%). One year cannot show a trend." loading="lazy">
+  <figcaption>Ashvane figures to calculate before commenting: a figure, a comparison and a reason.</figcaption>
+</figure>
+
 
 ## 9. Common errors
 

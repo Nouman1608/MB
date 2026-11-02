@@ -48,6 +48,22 @@ Added value can be increased by raising the price through **branding, better des
 
 **Opportunity cost** is the value of the **next best alternative given up** when a choice is made. It exists because resources are scarce while wants are unlimited, so choosing to produce or buy one thing always means giving up something else — the concept underlying every needs-versus-wants and resource-allocation question in this topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+
 ## The three sectors
 
 | Sector | Activity | Example |
@@ -58,6 +74,17 @@ Added value can be increased by raising the price through **branding, better des
 
 **Deindustrialisation** is the decline of secondary and rise of tertiary as an economy develops — usually because manufacturing relocates to countries with lower labour costs while domestic incomes rise and demand shifts towards services.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--05-sector-shift.webp" width="900" height="990" alt="Illustrative shares of output: developing economy 40/25/35 and developed economy 3/17/80 (primary/secondary/tertiary). Secondary shrinks and tertiary grows: deindustrialisation." loading="lazy">
+  <figcaption>As an economy develops, secondary shrinks and tertiary grows (illustrative shares).</figcaption>
+</figure>
+
+
 ## Classification and objectives
 
 **Private sector** — owned by individuals, usually profit-motivated. **Public sector** — owned by government, aims at service provision, employment and public welfare rather than profit. Most real economies are **mixed economies**, containing both a private and a public sector operating alongside each other, rather than being purely one or the other.
@@ -65,6 +92,12 @@ Added value can be increased by raising the price through **branding, better des
 Business objectives: survival (the priority for a start-up), profit, growth, market share, and increasingly **social and environmental objectives**. Objectives change over time — survival first, then profit and growth once established.
 
 **Social enterprises** pursue social and environmental aims alongside financial ones, reinvesting profit rather than distributing it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-activity-revision-notes--02-objectives-change.webp" width="900" height="910" alt="A start-up first aims for survival. Once established, a business pursues profit, growth and market share. A separate band notes that social and environmental objectives are increasingly set as well." loading="lazy">
+  <figcaption>Objectives move from survival to profit, growth and market share, with social and environmental aims added.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -79,6 +112,12 @@ Business objectives: survival (the priority for a start-up), profit, growth, mar
 
 **Stakeholder conflict is the highest-scoring part of this topic.** A strong answer identifies the conflict, explains *why* the interests oppose, and then evaluates which stakeholder the business should prioritise and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## Legal structures
 
 | Type | Liability | Ownership | Key point |
@@ -92,9 +131,31 @@ Business objectives: survival (the priority for a start-up), profit, growth, mar
 
 **Divorce of ownership from control** arises in a plc: shareholders own the business but directors run it, and their objectives may differ — directors may pursue growth or their own status while shareholders want dividends.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+
 ## Business size
 
 Measured by **number of employees, capital employed, value of output, or market share** — never by one measure alone, since a capital-intensive firm may employ few people yet be very large. Profit is not a measure of size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
+  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
+</figure>
+
 
 ## Exam traps
 

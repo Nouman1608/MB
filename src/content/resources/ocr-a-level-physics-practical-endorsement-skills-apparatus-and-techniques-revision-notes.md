@@ -107,12 +107,44 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 4. Add the thimble reading in hundredths of a millimetre.
 5. Subtract the zero error. Repeat at other positions and average.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--01-pe-micrometer-zero-error.webp" width="900" height="870" alt="A micrometer sleeve shows 6.5 mm and the thimble reads 28 divisions of 0.01 mm, a reading of 6.78 mm. With the jaws closed it read +0.03 mm, so 0.03 mm is subtracted to give 6.75 mm." loading="lazy">
+  <figcaption>Read both scales, then subtract the zero error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--08-vernier-caliper-reading.webp" width="900" height="670" alt="A zoomed main scale and vernier scale. The vernier zero is just past 14 mm and the 17th vernier mark lines up with a main mark, so the reading is 14 + 17 x 0.02 = 14.34 mm." loading="lazy">
+  <figcaption>Main scale 14 mm plus the aligned vernier mark, 17 x 0.02 mm, gives 14.34 mm.</figcaption>
+</figure>
+
+
 ### Reading an oscilloscope, step by step
 
 1. Note the Y-gain (V/div) and time-base (time/div) settings.
 2. Count the vertical divisions peak to peak and multiply by V/div, then halve for the peak value.
 3. Count the horizontal divisions for one cycle and multiply by time/div to get T.
 4. Find f = 1/T.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--03-pe-light-gates-acceleration.webp" width="900" height="840" alt="A 0.050 m card blocks gate 1 for 0.040 s and gate 2 for 0.025 s, giving 1.25 m/s and 2.0 m/s. With 0.35 s between the gates the acceleration is 2.1 m/s squared." loading="lazy">
+  <figcaption>Speed is card width over blocking time; acceleration follows from the change in speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--05-pe-oscilloscope-trace.webp" width="900" height="1080" alt="A trace 5.2 divisions peak to peak at 0.5 V/div is 2.6 V peak to peak, so 1.3 V peak. One cycle of 5.0 divisions at 0.2 ms/div is 1.0 ms, so 1000 Hz." loading="lazy">
+  <figcaption>Count divisions, then multiply by the Y-gain or time-base setting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--07-safety-hazard-harm-control.webp" width="900" height="930" alt="Four apparatus with the harm each could cause and a specific control: laser, hot water, falling mass and high current." loading="lazy">
+  <figcaption>Name the hazard, say what could be harmed, then give a control that fits the apparatus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--10-analogue-interpolation-parallax.webp" width="900" height="1060" alt="A pointer between marks 4 and 5 estimated as 4.6, and a measuring cylinder where an eye level with the meniscus bottom reads 44 mL while an eye above reads higher." loading="lazy">
+  <figcaption>Estimate between marks to the nearest fifth and read at eye level to avoid parallax.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -121,6 +153,12 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 **Grating.** 600 lines per mm gives d = 1.667 × 10⁻⁶ m. For light of wavelength 650 nm in the first order, sin θ = 650 × 10⁻⁹ / 1.667 × 10⁻⁶ = 0.39, so θ = 23.0°. Measuring the angle on both sides of the central maximum and averaging helps check that the grating is square to the beam.
 
 **Radiation.** Background 72 counts in 300 s is 0.24 s⁻¹. A source giving 1944 counts in 60 s is 32.4 s⁻¹. Corrected rate: 32.4 − 0.24 = 32.2 s⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--06-pe-gm-background-count.webp" width="900" height="990" alt="The source gives 1944 counts in 60 s (32.4 per second) and background gives 72 counts in 300 s (0.24 per second), so the corrected rate is 32.2 per second. The count uncertainty is about the square root of N, 44, or 2.3 %." loading="lazy">
+  <figcaption>Measure background with the source absent and subtract it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -135,6 +173,12 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 - Radioactive sources: keep in the storage container when not in use, handle with tongs, point away from people, short time and large distance, follow your centre's rules.
 - Lasers: lowest suitable power, never look into the beam or a reflection, keep the beam below eye level, stop it with a screen.
 - Circuits: use a low current, switch off before changing connections, check wires are not hot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--04-pe-led-series-resistor.webp" width="900" height="820" alt="A 6.0 V supply, a series resistor and an LED carry conventional current from the positive terminal. R = (6.0 - 2.0)/0.015 = 267 ohm; the standard 270 ohm gives 14.8 mA and dissipates 0.059 W." loading="lazy">
+  <figcaption>The resistor takes the 4.0 V the LED does not need.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -161,6 +205,12 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 8. d = 3.33 µm; λ = 3.33 × 10⁻⁶ × sin 11.5° = 665 nm.
 9. Background 0.50 s⁻¹; source 90.0 s⁻¹; corrected 89.5 s⁻¹.
 10. Any two: low-power laser, never look into the beam, remove reflective objects, stop the beam with a screen, warning notice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--02-pe-pendulum-many-oscillations.webp" width="900" height="810" alt="Twenty oscillations take 36.8 s, so T is 1.84 s. The 0.2 s start/stop uncertainty shrinks to 0.01 s in T, 0.54 %, whereas timing one oscillation gives 11 %. A fiducial marker at equilibrium gives a clear start and stop point." loading="lazy">
+  <figcaption>Timing 20 oscillations makes the percentage uncertainty twenty times smaller.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

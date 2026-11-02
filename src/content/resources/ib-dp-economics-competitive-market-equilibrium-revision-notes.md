@@ -50,6 +50,17 @@ Use the [course hub](/boards/ib/ib-dp/economics/) and the [printable checklist](
 5. For a shift, draw the new curve, label it (D₂ or S₂) and show an arrow.
 6. Mark the new equilibrium and label its price and quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--05-eco73-shortage-surplus.webp" width="900" height="770" alt="Demand and supply cross at price 14 and quantity 32. At 10 vel the shortage is 24 and at 18 vel the surplus is 24, both horizontal gaps. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Shortage and surplus around equilibrium (SL and HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
+
 ## Method: what happens when a curve shifts
 
 1. Name the determinant that changed (income, tastes, costs, technology, number of firms and so on).
@@ -69,6 +80,17 @@ Worked reminder with illustrative figures (a fictional market for lamps). Quanti
 
 If both curves shift, one of price and quantity is certain and the other depends on the relative size of the shifts. Say which, and draw one case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--06-eco73-equilibrium-shifts.webp" width="900" height="1140" alt="A demand rise of 12 at every price moves equilibrium from (14, 32) to (16, 40) via a shortage of 12; a supply rise of 12 moves it to (12, 36) via a surplus of 12. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Shifts to a new equilibrium (SL and HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
+  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
+</figure>
+
+
 ## Price mechanism: three jobs
 
 - **Signalling.** A rising price signals growing scarcity relative to demand. A falling price signals the opposite.
@@ -76,6 +98,12 @@ If both curves shift, one of price and quantity is certain and the other depends
 - **Rationing.** When quantity is limited, the price decides who gets the good. Those unwilling or unable to pay at that price drop out.
 
 Resource allocation is the combined effect of signalling and incentive. In an answer, apply each function to a named change, not to a general statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--01-un193-price-signal-incentive-rationing.webp" width="900" height="880" alt="After demand rises, buyers want 44 thousand tonnes at the old price of 14 while sellers offer 32, a shortage of 12. The price rises to 16 (signal), sellers extend output from 32 to 40 (incentive) and buyers contract from 44 to 40 (rationing)." loading="lazy">
+  <figcaption>Signalling, incentive and rationing shown on the Verland kora market when the price rises from 14 to 16.</figcaption>
+</figure>
+
 
 ## Surplus: what to shade
 
@@ -96,6 +124,12 @@ Worked reminder with illustrative figures (a fictional market): demand intercept
 
 Show the formula, the substitution and the units each time. Paper 1 does not allow a calculator, according to the guide, so choose to simplify early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--07-eco73-surplus-areas.webp" width="900" height="900" alt="Consumer surplus is half times 32 times 16 = 256 and producer surplus half times 32 times 8 = 128, social surplus 384. After the demand rise they are 400 and 200. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Consumer and producer surplus (SL; calculation HL only).</figcaption>
+</figure>
+
+
 ## Allocative efficiency: two statements, one idea
 
 1. At equilibrium, social surplus is at its maximum.
@@ -110,6 +144,12 @@ D shows MB. S shows MC. Compare any output with the equilibrium output:
 | Above | MB smaller than MC | Surplus lost | Output should fall |
 
 The loss from a wrong output is a triangle between D and S, which is a welfare loss. The conclusion holds when the curves show all the benefits and costs involved. Where they do not, the outcome can be inefficient, and later sub-topics explain why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--08-eco73-allocative-efficiency.webp" width="900" height="910" alt="At output 24 MB 18 exceeds MC 12 and at 40 MC 16 exceeds MB 10; each triangle of lost surplus is 24. Social surplus is 360, 384, 360 at outputs 24, 32, 40. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Allocative efficiency: MB = MC (SL and HL).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

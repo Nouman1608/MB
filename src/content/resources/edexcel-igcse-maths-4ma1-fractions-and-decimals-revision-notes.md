@@ -43,6 +43,12 @@ For full explanations and longer worked examples, use the [fractions and decimal
 | Terminating decimal | Stops after a finite number of digits | 0.375 |
 | Recurring decimal | A digit or block repeats forever | 0.3̇ = 0.333... |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--04-simplify-hcf.webp" width="900" height="870" alt="An 84-cell grid in 7 rows of 12 with 3 rows (36 cells) shaded. The HCF of 36 and 84 is 12, so 36/84 = 3/7." loading="lazy">
+  <figcaption>Dividing top and bottom by the HCF gives lowest terms.</figcaption>
+</figure>
+
+
 ## Methods in steps
 
 | Task | Steps |
@@ -66,6 +72,17 @@ Divide by a fraction:   5/6 ÷ 10/9 = 5/6 × 9/10 = 45/60 = 3/4
 Unit fraction:          8 ÷ 3 = 8 × 1/3 = 8/3
 Terminating decimal:    0.035 = 35/1000 = 7/200 = 3.5%
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--12-fraction-of-quantity-bar.webp" width="900" height="544" alt="A bar of 156 kg in 12 parts of 13 kg; 7 shaded parts give 91 kg." loading="lazy">
+  <figcaption>Divide by the denominator, then multiply by the numerator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--13-minutes-as-fraction-of-hours.webp" width="900" height="665" alt="A bar of 150 minutes (2½ hours) in 15 blocks of 10 minutes with 4 shaded: 40/150 = 4/15. Dividing 40 by 2.5 would mix units." loading="lazy">
+  <figcaption>Convert to the same units, then write part over whole.</figcaption>
+</figure>
+
 
 ## Equivalents worth knowing by heart (1.2G, 1.3D)
 
@@ -103,6 +120,22 @@ smallest first:  1.07, 1.077, 1.7, 1.707
 
 To order a mix of fractions and decimals, convert everything to decimals, order, then write the answer using the original numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--05-order-over-120.webp" width="900" height="870" alt="5/8, 7/12, 2/3 and 3/5 are written over 120 as 75, 70, 80 and 72 and placed on a number line. Smallest first: 7/12, 3/5, 5/8, 2/3." loading="lazy">
+  <figcaption>Over a common denominator the numerators show the order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--15-decimal-to-fraction-percent.webp" width="900" height="720" alt="A 10 by 10 grid with 84 squares shaded shows 0.84 = 84/100 = 21/25 = 84%. Two whole bars and one eighth of a third show 2.125 = 2125/1000 = 17/8 = 2 1/8 = 212.5%." loading="lazy">
+  <figcaption>Write the digits over the place value, simplify, and multiply by 100 for a percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## Recurring decimals (Higher tier only)
 
 **Notation.** One dot over a single repeating digit: 0.6̇ = 0.666... Dots over the first and last digits of a repeating block: 0.1̇4̇ = 0.141414... and 0.3̇12̇ = 0.312312...
@@ -126,6 +159,12 @@ To order a mix of fractions and decimals, convert everything to decimals, order,
 | One digit before the recurring digit | 100x − 10x = 90x | 0.24̇: 90x = 24.44… − 2.44… = 22, so x = 22/90 = 11/45 |
 
 The pattern table is a quick check. When a question says **"prove"** or **"show that"**, write the full algebra: the x, the two multiples, the subtraction and the simplifying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--07-recurring-mixed.webp" width="900" height="950" alt="Digit tiles for x = 0.2151515…, 10x = 2.151515… and 1000x = 215.151515… show identical recurring tails. Subtracting gives 990x = 213, so x = 213/990 = 71/330." loading="lazy">
+  <figcaption>Choose the two multiples of x whose recurring tails line up.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -176,6 +215,12 @@ The pattern table is a quick check. When a question says **"prove"** or **"show 
 - Rounding a recurring decimal too early, then giving a percentage that is slightly wrong.
 - (Higher) Subtracting 100x − x when only one digit recurs after a non-recurring digit, so the tails do not cancel.
 - (Higher) Giving a calculator conversion with no algebra on a "prove" question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

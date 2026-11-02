@@ -70,6 +70,17 @@ These notes condense OxfordAQA International AS and A-level Physics (9630), Vers
 | Orbiting satellite | Gravitational attraction |
 | Rider held against a rotating cylinder wall | Push of the wall (normal contact force) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--03-centripetal-force-sources.webp" width="900" height="1090" alt="Four top-view pictures: a bung on a string (tension), a coin on a turntable (friction), a rider in a spinning drum (push of the wall) and a satellite (gravity). In each the real force points to the centre and the velocity is tangent. The resultant is mv^2/r = m omega^2 r." loading="lazy">
+  <figcaption>Centripetal force is not an extra force: it is the real force or resultant pointing to the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Convert and find speed.** A disc turns at 33 revolutions per minute and a point lies 0.15 m from the axis. Then f = 33/60 = 0.55 Hz, ω = 2π × 0.55 = 3.46 rad s⁻¹ and v = 3.456 × 0.15 = 0.52 m s⁻¹.
@@ -95,6 +106,17 @@ These notes condense OxfordAQA International AS and A-level Physics (9630), Vers
 - **Circular path and straight tangent.** If the force stops, the object moves off at constant velocity along the tangent. It does not spiral out radially.
 - **Force and work.** The centripetal force acts at 90° to the velocity, so it transfers no energy and the speed stays constant.
 - **v²/r and ω²r.** Same quantity, different data. Use whichever you were given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--01-radian-omega-v.webp" width="900" height="1160" alt="A circle with a 1 radian sector: the arc along the edge is as long as the radius and the angle is about 57.3 degrees, with quarter, half and three-quarter turns marked as pi/2, pi, 3pi/2 and 2pi. Below, a turntable at 45 rpm has omega 4.71 rad/s everywhere; a point at 0.10 m moves at 0.47 m/s and a point at 0.20 m at 0.94 m/s, so v = omega r." loading="lazy">
+  <figcaption>One radian is the angle whose arc equals the radius, and at the same ω a point further out moves faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
 
 ## Graph reminders
 

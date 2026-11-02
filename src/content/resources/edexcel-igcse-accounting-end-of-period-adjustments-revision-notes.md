@@ -65,6 +65,12 @@ Causes (give a reason, not just a label):
 
 **Must-know distinction:** straight line uses residual value and life. Reducing balance uses a percentage and the carrying value (net book value) brought forward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--01-eop-two-methods.webp" width="900" height="1040" alt="A line chart shows carrying value over three years. The Quillen machine falls by 7,000 a year (48,000 to 27,000); the vehicle at 25 percent reducing balance falls by 8,000, 6,000 and 4,500. A table gives the yearly charges and the SPL totals of 15,000 and 13,000." loading="lazy">
+  <figcaption>Straight line gives equal charges; reducing balance gives falling charges.</figcaption>
+</figure>
+
+
 ## 5.2 c Calculate and record
 
 Talbury Pottery buys a kiln for 25,000. It uses reducing balance at 20%.
@@ -108,6 +114,12 @@ Kiln at cost          25,000 | Provision for dep     12,200
 
 A profit goes to the credit side of the SPL as income. A loss goes to the debit side as an expense. Remember that the loss is not a cash payment. It is the difference between what the asset was valued at in the books and what it fetched.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--03-eop-vehicle-disposal.webp" width="900" height="826" alt="The disposal account shows cost 32,000 and profit 1,700 on the debit side against provision 18,500 and bank 15,200 on the credit side. Bars compare carrying value 13,500 with proceeds of 15,200 (profit 1,700) and 12,000 (loss 1,500)." loading="lazy">
+  <figcaption>Profit or loss on disposal is proceeds minus carrying value.</figcaption>
+</figure>
+
+
 ## 5.3 a, b Irrecoverable debts and provision
 
 | | Irrecoverable debt | Provision for irrecoverable debts |
@@ -118,6 +130,12 @@ A profit goes to the credit side of the SPL as income. A loss goes to the debit 
 | SPL | Whole amount is an expense | Only the change is an expense or income |
 
 Why a provision is needed: prudence stops assets and profit being overstated, and accruals (matching) puts the likely loss in the year of the sale. Trade receivables on the SFP then show what the business expects to collect. The specification's glossary gives "allowance for doubtful debt" as the modern term for a provision for doubtful debt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--04-eop-write-off-provision.webp" width="900" height="980" alt="Four steps: write off 2,400, leaving receivables of 84,000; provision at 5 percent is 4,200 against 3,500 held; only the 700 change joins the write-offs for an SPL expense of 3,100; the SFP shows 79,800. Next year the provision falls by 300." loading="lazy">
+  <figcaption>Write off known debts first, then provide on what is left and charge only the change.</figcaption>
+</figure>
+
 
 ## 5.3 c Calculate and record
 
@@ -165,6 +183,17 @@ SFP: other receivables 1,000 (current assets); other payables 700 + 250 = 950 (c
 
 Income works the same way. Rent receivable 6,000 received with 500 still owed gives income of 6,500 and an other receivable of 500.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--05-eop-accrual-prepayment.webp" width="900" height="832" alt="Electricity T-account: 9,400 bank and 1,350 c/d against 1,100 b/f and 9,650 SPL; the 1,350 is an other payable. Insurance: 600 b/f and 4,800 bank against 4,600 SPL and 800 c/d; the 800 is an other receivable." loading="lazy">
+  <figcaption>The balance carried down becomes an other payable (liability) or other receivable (asset).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--09-adj-four-ledger-sides.webp" width="900" height="970" alt="Four small T-accounts show where b/d and c/d sit. Other payables and income received in advance (liabilities) open on the credit side; other receivables and income due (assets) open on the debit side. The balance is carried down on the opposite side and brought down on the same side as the opening balance." loading="lazy">
+  <figcaption>Assets open on the debit side and liabilities on the credit side.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Depreciation (a charge, no cash) versus disposal profit or loss (difference between proceeds and carrying value).
@@ -200,6 +229,12 @@ Income works the same way. Rent receivable 6,000 received with 500 still owed gi
 9. 12,000 - 1,000 = 11,000.
 10. 8,500 + 650 - 400 = 8,750.
 11. Current liabilities, as other payables.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-end-of-period-adjustments--02-eop-ledger-to-sfp.webp" width="900" height="855" alt="The vehicles provision for depreciation account holds 8,000 brought forward plus 6,000 year 2 depreciation, 14,000 carried down. The SFP extract deducts depreciation from cost: machine 34,000, vehicle 18,000, total 52,000." loading="lazy">
+  <figcaption>The provision account is deducted from cost on the SFP; the asset account stays at cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -111,6 +111,12 @@ Put each balance in the column where it normally sits.
 
 The debits add to 108,370 and the credits add to 108,370, so the trial balance agrees. If capital had not been given, it would be the figure that balances the columns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-trial-balance-columns.webp" width="900" height="850" alt="Two equal stacked columns in dollars. Debit column 108,370: assets 41,020, purchases and expenses 61,750, drawings 5,600. Credit column 108,370: capital 20,000, liabilities 13,210, sales and purchases returns 75,160." loading="lazy">
+  <figcaption>A trial balance agrees when debit and credit columns have equal totals.</figcaption>
+</figure>
+
+
 ## 3. Amending a trial balance that contains errors
 
 A draft trial balance was first prepared for Torridge Cycles with two mistakes in listing: drawings (5,600) was put in the credit column, and rent was copied as 4,080 instead of 4,800.
@@ -123,6 +129,12 @@ A draft trial balance was first prepared for Torridge Cycles with two mistakes i
 | **Amended totals** | **108,370** | **108,370** |
 
 The draft gap was 11,920. Moving drawings accounts for 11,200 of it (5,600 comes off one side and goes onto the other, so the gap changes by twice that) and the rent slip accounts for the other 720. When you amend, name each error, state its effect on each column and finish with equal totals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--08-close-the-gap.webp" width="900" height="850" alt="The draft gap of 11,920 splits into 5,600 + 5,600 (drawings moved from the credit to the debit column, so the gap changes by twice 5,600) and 720 (rent copied as 4,080 not 4,800). Amended totals are both 108,370." loading="lazy">
+  <figcaption>Moving a balance across columns changes the gap by twice its value.</figcaption>
+</figure>
+
 
 ## 4. Errors that do not affect the trial balance
 
@@ -138,6 +150,17 @@ In each error below the debits and credits stay equal, so the trial balance stil
 | Compensating | Two separate errors, equal and opposite, cancel out | Sales is overcast by 500 and purchases is overcast by 500 |
 
 To name the type, ask whether the transaction was recorded at all, then whether the right class of account, the right account, the right sides and the right amount were used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## 5. Correcting errors with journal entries
 
@@ -157,6 +180,12 @@ Two that are often mishandled:
 - **Complete reversal.** The 900 was debited to bank and credited to the supplier. The right entry is credit bank and debit supplier. To reach it you must undo the wrong entry (900) and then make the right one (900), so the correcting journal is for 1,800.
 
 Each journal needs a narrative, for example "Correction of omitted credit sale".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--09-journal-size.webp" width="900" height="950" alt="Top: a sale of 2,730 recorded as 2,370 needs a journal for the 360 shortfall only. Bottom: a 900 payment entered the wrong way round raised the bank by 900 instead of lowering it, so the journal is 1,800 (undo 900, then redo 900)." loading="lazy">
+  <figcaption>Original entry: add the shortfall. Complete reversal: double the amount.</figcaption>
+</figure>
+
 
 ## 6. The suspense account
 
@@ -191,6 +220,17 @@ The account clears, so the difference is fully explained. If it did not, an erro
 
 A payment posted to the wrong supplier is commission and needs no suspense; a payment debited to the supplier with no credit entry in bank would need it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-torridge-suspense-clears.webp" width="900" height="712" alt="A running-total bar chart: +700, +360, then −840 leaves a 220 gap. The suspense account shows debits 700 and 360 and credits 220 and 840, both totalling 1,060, so it clears to nil." loading="lazy">
+  <figcaption>The three errors explain the 220 and the suspense account clears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
+
 ## 7. Adjusting profit after correcting errors
 
 Only errors that touch revenue or expense accounts change profit. Ask for each correction: does it increase profit, reduce profit or leave it unchanged?
@@ -209,6 +249,12 @@ Only errors that touch revenue or expense accounts change profit. Ask for each c
 | **Corrected profit** | | **39,350** |
 
 The net change is +2,500. A loss is adjusted the same way: a correction that raises profit reduces the loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--04-corrected-profit.webp" width="900" height="838" alt="A horizontal waterfall in pounds starts at draft profit 42,300, adds 400, 270 and 140 for overstated or undercast items, deducts 180 for the missed discount allowed and 860 for van repairs wrongly capitalised, and ends at 42,070. A commission error between two customers leaves profit unchanged." loading="lazy">
+  <figcaption>Corrected profit is draft profit adjusted line by line for each error that touches income or expense.</figcaption>
+</figure>
+
 
 ## 8. Effect on the statement of financial position
 
@@ -230,6 +276,12 @@ Corrections to asset, liability and capital accounts change the statement of fin
 | **Equity and liabilities** | **45,500** | **+3,900** | **49,400** |
 
 Error 6 is a complete reversal, so bank rises by 1,400: remove the wrong credit of 700 and add the correct debit of 700. Assets rise by 3,900 and equity rises by the same amount, so the statement still balances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--06-kelsterton-sofp-effect.webp" width="900" height="810" alt="Two bars of equal length 3,900. Assets rise by 1,800, 950 and a net 1,150 on bank; equity rises by 2,500 profit and 1,400 capital. Totals go from 45,500 to 49,400 on both sides." loading="lazy">
+  <figcaption>Correcting the six errors raises assets and equity by the same 3,900.</figcaption>
+</figure>
+
 
 ## Common errors to avoid
 

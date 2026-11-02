@@ -50,6 +50,17 @@ Accounting identity: current account + capital account + financial account + err
 | Income | Profit and interest received from abroad | Profit and interest paid abroad |
 | Current transfers | Migrants' remittances received | Aid given, payments to international bodies |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--01-bop-accounts-sum-to-zero.webp" width="900" height="1010" alt="A running-total waterfall: current account -47, capital +4, financial +40 (FDI +22, portfolio +31, other -13) and errors +3 return the total to zero." loading="lazy">
+  <figcaption>The current account deficit is matched by net inflows of funds, so all the accounts together sum to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--02-bop-current-account-components.webp" width="900" height="880" alt="A waterfall builds the current account from goods -49, services +32, income -17 and transfers -13 to a deficit of 47, which is 3.1% of GDP; goods plus services is -17." loading="lazy">
+  <figcaption>Each component balance is credits minus debits, and all four are needed to reach the current account balance of -47.</figcaption>
+</figure>
+
+
 ## Method: calculating balances
 
 1. Write credits and debits for each component.
@@ -80,6 +91,12 @@ Check: −23 + 1 + 24 − 2 = 0.
 - The government may be forced into policies that conflict with growth and employment.
 - A persistent surplus can cause overheating at home and retaliation abroad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--06-bop-deficit-spiral.webp" width="900" height="1040" alt="A four-step loop (deficit, borrowing, liabilities of 400, 20 paid abroad) feeds back into the deficit. Bars show the deficit of 47 growing by 20 of extra income debits to 67." loading="lazy">
+  <figcaption>Borrowing to fund a deficit raises income paid abroad, which makes the deficit larger.</figcaption>
+</figure>
+
+
 ## Causes of imbalances
 
 | Type | Cause | Direction |
@@ -98,10 +115,27 @@ Check: −23 + 1 + 24 − 2 = 0.
 
 **Worked reminder.** Country N's imports of goods are 150, YED of imports 1.5, domestic income grows 4%. Imports rise 1.5 × 4 = 6%, which is 150 × 0.06 = 9. New imports 159.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--03-bop-yed-imports.webp" width="900" height="1160" alt="Paired bars show goods exports and imports before and after growth. Imports rise 4.0% and exports 2.4%, so the goods balance moves from -49 to -53.87." loading="lazy">
+  <figcaption>Imports with a high income elasticity and exports with a low one widen the deficit even when both economies grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## Consequences
 
 - **Deficit:** rising foreign liabilities; income outflows; currency weakness and import-price inflation; pressure to cut demand; leakage of demand from domestic producers.
 - **Surplus:** growing overseas assets; upward pressure on the currency; export-led jobs; risk of inflation and trade disputes; weak domestic consumption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--07-bop-consequences.webp" width="900" height="970" alt="Two columns compare a persistent deficit and surplus on five rows: debt and assets, currency, growth and jobs, policy pressure, and other countries, with up and down arrow icons." loading="lazy">
+  <figcaption>A deficit and a surplus have mirror-image effects on debt, currency, jobs, policy and partner countries.</figcaption>
+</figure>
+
 
 ## Policies to correct a deficit
 
@@ -120,6 +154,17 @@ Check: −23 + 1 + 24 − 2 = 0.
 **Worked reminder.** MPS 0.2, MPT 0.2, MPM 0.2. Multiplier = 1 ÷ 0.6 = 1.67. Spending cut of 9 gives income down 15 and imports down 0.2 × 15 = **3**.
 
 **Unit labour cost** = wage per hour ÷ output per hour. If a wage of 30 is paired with output of 20, ULC is 1.50. Wage +3% and output +9%: 30.9 ÷ 21.8 = 1.42, a fall of 5.5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--04-bop-expenditure-reducing.webp" width="900" height="980" alt="A chain shows government spending down 14, income down 20 via the multiplier 1.43, and imports down only 6; a bar shows this closes 6 of the 47 deficit." loading="lazy">
+  <figcaption>Cutting demand costs 20 of output to improve the current account by only 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--05-bop-unit-labour-cost.webp" width="900" height="1070" alt="Two bars compare unit labour cost before training (35 / 25 = 1.40) and after (36.4 / 28 = 1.30), a fall of 7.1%." loading="lazy">
+  <figcaption>When productivity rises faster than wages, unit labour cost falls and exporters become more competitive.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to rehearse
 

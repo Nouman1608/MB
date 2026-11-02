@@ -63,6 +63,42 @@ happiness and wellbeing, including indicators of national happiness
 and wellbeing and the relationship between real incomes and subjective
 happiness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--03-value-and-volume.webp" width="900" height="820" alt="Ten apples at $2.00 (value $20) become eleven apples at $2.40 (value $26.40). Value rises 32% but volume, the physical quantity, rises only 10%." loading="lazy">
+  <figcaption>Value is measured in money; volume counts only physical output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--06-purchasing-power-parity.webp" width="900" height="872" alt="Country A earns $4,000 a month and a basket costs $100, so it buys 40 baskets. Country B earns $1,000 and a basket costs $40, so it buys 25. At exchange rates B looks 25% of A, but adjusted for PPP it is 62.5% of A." loading="lazy">
+  <figcaption>PPP adjusts incomes for what they buy locally, giving a truer comparison of living standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Treat the three named distinctions (real/nominal, total/per capita,

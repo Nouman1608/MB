@@ -71,11 +71,23 @@ H — C — C — C — C — H
 
 Skeletal formula: draw the carbon zigzag, leave out C and H atoms, and draw the =O on the correct corner. For an aldehyde, the =O sits on the end of a line, and you may write the end group as CHO.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+
 ## 15.7 Physical properties
 
 ### i No hydrogen bonds between carbonyl molecules
 
 Hydrogen bonding needs a hydrogen atom bonded directly to N, O or F. In aldehydes and ketones every hydrogen is bonded to carbon, so the molecules **cannot hydrogen bond to each other**. They have London forces plus permanent dipole–permanent dipole forces from the polar C=O bond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
 
 ### Worked example 2: comparing boiling temperatures
 
@@ -121,6 +133,12 @@ n(Ag)       = 2 × 0.0150 = 0.0300 mol
 m(Ag)       = 0.0300 × 107.9 = 3.24 g
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--03-silver-ratio.webp" width="900" height="1010" alt="RCHO is oxidised to RCOOH, releasing two electrons. Each electron reduces an Ag+ ion to Ag, so one mole of aldehyde gives two moles of silver. 1.16 g of propanal gives 0.0200 mol aldehyde, 0.0400 mol Ag and 4.32 g silver." loading="lazy">
+  <figcaption>One mole of aldehyde releases two electrons and so deposits two moles of silver.</figcaption>
+</figure>
+
+
 ## 15.8 ii Reduction with LiAlH₄
 
 Lithium tetrahydridoaluminate(III), LiAlH₄ (lithium aluminium hydride), in **dry ether (ethoxyethane)** reduces carbonyl compounds to alcohols. The ether must be dry because LiAlH₄ reacts violently with water. Water or dilute acid is added only after the reduction is over. The reducing agent can be written as [H]:
@@ -141,6 +159,12 @@ n = 2.15 ÷ 86.0 = 0.0250 mol
 maximum mass = 0.0250 × 88.0 = 2.20 g
 yield = 1.76 ÷ 2.20 × 100 = 80.0%
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
 
 ## 15.8 iii Nucleophilic addition of HCN
 
@@ -173,6 +197,12 @@ The carbonyl carbon is trigonal planar: it and its three neighbours sit flat. Cy
 
 Both samples are inactive, for different reasons. Say which applies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+
 ## 15.8 iv The 2,4-DNPH test
 
 2,4-Dinitrophenylhydrazine (2,4-DNPH, Brady's reagent) gives a **yellow-orange precipitate** with any aldehyde or ketone. It shows a carbonyl group is present but not which kind. You do not need the equation.
@@ -193,6 +223,12 @@ Use these values for the 2,4-DNPH derivatives.
 
 A purified derivative of compound Y melts at 125 °C. That sits between butanal and propanone, so the melting temperature alone does not decide. Y gives no silver mirror with Tollens' reagent, so it is not an aldehyde. Y is **propanone**. Always back a close melting-temperature match with a second test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
+
 ## 15.8 v The iodoform test
 
 Warm the compound with iodine solution and sodium hydroxide solution. A **pale yellow precipitate** of triiodomethane (iodoform, CHI₃), with an antiseptic smell, shows a **CH₃CO– group**. Positive carbonyl compounds are methyl ketones (CH₃COR) and ethanal, the only aldehyde with this group.
@@ -209,6 +245,12 @@ The rest of the molecule leaves as a carboxylate ion with one fewer carbon atom.
 
 The organic by-product is sodium 2-methylpropanoate. From 2.58 g of the ketone (Mr 86.0): n = 2.58 ÷ 86.0 = 0.0300 mol, so the maximum mass of CHI₃ (Mr 393.7) is 0.0300 × 393.7 = **11.8 g**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Numbering a ketone from the wrong end, giving pentan-4-one instead of pentan-2-one.
@@ -223,6 +265,12 @@ The organic by-product is sodium 2-methylpropanoate. From 2.58 g of the ketone (
 ## Next steps
 
 Next, read the condensed [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) and then try the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/). Use the [checklist](/checklists/edexcel/a-level/chemistry/) to tick off each outcome, and take a free [diagnostic](/diagnostics/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -37,12 +37,29 @@ These notes condense section 5.2 (Cash-flow forecasting and working capital) of 
 | Overdraft | Bank permission to spend more than is in the account, up to a limit |
 | Working capital | Current assets minus current liabilities (the standard form) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Why cash is important
 
 - Pays wages, suppliers, bills, loan repayments and tax on time.
 - Lets the business buy equipment or take up a bulk-buying chance.
 - Running out of cash can end a business, even one with orders. Cash shortage is the everyday form of the liquidity problems named in section 1.3.4.
 - Profit and cash differ: a credit sale adds to profit now but brings in cash later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--10-forecast-vs-actual.webp" width="900" height="1045" alt="The Orchard Row forecast closes at 2,800, 3,100 and minus 300 dollars, warning of the July shortage in advance. A dashed illustrative actual line, with a customer paying 500 dollars late, closes at 2,800, 2,600 and minus 800, showing that forecasts are estimates to compare with actual cash and update." loading="lazy">
+  <figcaption>A forecast gives early warning but is only an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
 
 ## Building a forecast: method in steps
 
@@ -72,6 +89,12 @@ Reading it: the balance stays positive but falls for two months, so the owner sh
 
 Suppose Wickham Pottery's May outflows rise by 600 because it buys a second kiln shelf set. May net cash flow becomes -500 - 600 = -1,100, so the May closing balance is 1,200 - 1,100 = 100. June opens with 100, not 700. June net cash flow is still +700, so June closes at **800**, not 1,400. Every later month moves by the same 600.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--11-forecast-fill-order.webp" width="900" height="940" alt="A May and June forecast table with the lesson's eight steps numbered: months across the top, opening balance, inflows, outflows, add up, net cash flow, closing balance, and copying the closing balance to the next opening. May closes at 2,800 and June at 3,100. A May credit sale paid in June is June cash in; depreciation is not cash." loading="lazy">
+  <figcaption>The order in which a cash-flow forecast table is completed.</figcaption>
+</figure>
+
+
 ## Command words for this topic
 
 | Command word | What to do here |
@@ -94,6 +117,12 @@ For a recommendation or justification, give your choice, give a reason tied to t
 
 **Interpret:** for each month say whether the closing balance is positive or negative, find the lowest point and its cause, describe the trend, and suggest what the business should do. Use the figures from the table in your answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--04-orchard-row-forecast.webp" width="900" height="1080" alt="Closing cash balances for Orchard Row are 2,800, 3,100 and minus 300 dollars for May to July, with opening balances and net cash flows beneath. A dashed bar shows July closing at 3,700 dollars if the 4,000 dollar machine is moved to August." loading="lazy">
+  <figcaption>Each closing balance becomes the next opening balance; July is 300 short because of the machine.</figcaption>
+</figure>
+
+
 ## Why forecasts are important
 
 - Show future shortages in time to arrange a fix.
@@ -113,6 +142,12 @@ For a recommendation or justification, give your choice, give a reason tied to t
 
 Others: delay a planned purchase, sell an unused asset, owner adds money. Match the fix to the business and to how long the gap lasts. A one-off gap suits a short-term fix; a lasting gap needs higher prices or lower costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--09-three-cash-fixes.webp" width="900" height="1075" alt="Orchard Row is minus 300 dollars in July. An overdraft keeps bills paid but costs interest and can be withdrawn; delaying supplier payments keeps cash in longer but suppliers may refuse credit; asking debtors to pay sooner brings cash sooner but customers may be annoyed. A permanent gap needs higher prices or lower costs." loading="lazy">
+  <figcaption>Three short-term fixes for a cash gap, each with a benefit and a drawback.</figcaption>
+</figure>
+
+
 ## Working capital
 
 **Working capital = current assets - current liabilities** (standard form).
@@ -128,6 +163,12 @@ Quick check: inventories 9,000, receivables 3,000, cash 500; payables 4,000, ove
 **Importance:** pays day-to-day costs; lets the business buy stock and meet orders; absorbs a slow month; too little risks a liquidity problem; too much leaves money idle.
 
 **Effects:** a customer paying a debt changes receivables into cash, so working capital is unchanged. Buying equipment with cash lowers working capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--05-working-capital-kingfisher.webp" width="900" height="970" alt="Current assets of 7,900 dollars (inventories, receivables, cash) stand against current liabilities of 4,500 dollars (payables, overdraft); the gap is working capital of 3,400 dollars. Paying 900 dollars cash for tools lowers it to 2,500 dollars, but a customer paying a debt leaves it unchanged." loading="lazy">
+  <figcaption>Working capital = current assets minus current liabilities = $3,400 for Kingfisher.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

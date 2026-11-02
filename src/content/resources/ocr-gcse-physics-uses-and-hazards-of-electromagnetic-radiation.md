@@ -59,6 +59,12 @@ A hospital needs to sterilise a batch of sealed plastic syringes in their packag
 
 **Answer: gamma rays.** A good answer names the wave and gives two linked reasons: penetration of the packaging, and killing of microorganisms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## P5.2h: Hazards of ultraviolet, X-rays and gamma rays
 
 Ultraviolet waves, X-rays and gamma rays carry enough energy per photon to damage living cells. X-rays and gamma rays are ionising: they can remove electrons from atoms and molecules, which makes the molecules unstable or breaks them apart. Ultraviolet carries less energy but can still damage cells at the skin and the eye.
@@ -82,6 +88,17 @@ The size of the risk depends on the dose, meaning the amount of radiation absorb
 
 The specification suggests investigating the balance of risks for staff and patients during radiotherapy. Radiotherapy uses a beam of gamma rays or X-rays to kill cancer cells. The beam is aimed at the tumour from several directions so that the tumour receives a high dose while the healthy tissue along each path receives much less. Staff operate the machine from another room, because they repeat the work every day and would otherwise build up a large total exposure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--05-radiation-shielding.webp" width="900" height="940" alt="Three rows compare ultraviolet, X-rays and gamma rays with and without a shield. Ultraviolet damages skin and eyes and is stopped by sunscreen or clothing; X-rays and gamma rays pass deep into the body and need a lead apron or thick lead or concrete respectively." loading="lazy">
+  <figcaption>Shield thickness grows from sunscreen to a lead apron to thick lead or concrete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--06-radiotherapy-beams.webp" width="900" height="880" alt="A cross-section of the body with five beams converging on a small tumour. All five overlap at the tumour so its dose is high; healthy tissue on any one path receives only one beam." loading="lazy">
+  <figcaption>Beams from several directions give the tumour a high dose and healthy tissue a low one.</figcaption>
+</figure>
+
+
 ### Worked example 2: weighing risk and benefit
 
 A radiographer takes an X-ray of a patient's wrist. Explain why the radiographer leaves the room but the patient does not.
@@ -91,6 +108,12 @@ A radiographer takes an X-ray of a patient's wrist. Explain why the radiographer
 3. The radiographer takes many X-rays every day. Leaving the room, or standing behind a shield, prevents those small doses adding up over months and years.
 
 **Answer:** the benefit to the patient outweighs the small risk from one exposure, while the radiographer would have a large total dose from repeated exposures with no personal benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--04-radiation-cell-damage.webp" width="900" height="860" alt="A cell absorbs radiation. A high dose kills many cells, causing burns. A lower dose can damage DNA, and the damaged cell may divide without control, which is cancer. Bigger doses and longer exposure raise the risk." loading="lazy">
+  <figcaption>Radiation can kill cells or damage their DNA, and the risk grows with dose and time.</figcaption>
+</figure>
+
 
 ## P5.2i: Detecting hidden structures (Higher Tier only)
 
@@ -103,6 +126,12 @@ Waves can show what is inside a body or a planet without cutting it open. The id
 ### X-rays
 
 Soft tissue absorbs few X-rays. Bone absorbs many. A detector placed behind the body records where X-rays arrive. Bones leave a shadow, because fewer X-rays reach the detector behind them, and on the image they show as pale areas. Soft organs are poorly shown because they all absorb about the same. A patient may swallow a barium meal, because barium compounds absorb X-rays strongly and outline the gut.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--04-xray-shadow.webp" width="900" height="880" alt="X-rays pass through an arm onto a detector. Soft tissue absorbs few X-rays so those detector cells are dark, while bone absorbs many so only a weak beam gets through and the bone shows pale on the image." loading="lazy">
+  <figcaption>Bone absorbs more X-rays than soft tissue, so it casts a pale shadow on the image.</figcaption>
+</figure>
+
 
 ### Gamma rays
 
@@ -136,6 +165,22 @@ Explain why an X-ray image of a broken arm shows the break but an ultrasound pro
 1. Bone absorbs more X-rays than the surrounding tissue, so bone casts a clear shadow, and a break appears as a gap or line in that shadow.
 2. Ultrasound is reflected strongly at the surface of bone, so little reaches beyond it and the break cannot be seen in the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--07-tracer-and-thermal-imaging.webp" width="900" height="930" alt="Top: a gamma tracer collects in an organ, more where it is more active; gamma rays leave the body and a camera detects them. Bottom: skin emits infrared; a thermal camera sees the surface only, and an inflamed area is warmer." loading="lazy">
+  <figcaption>A gamma camera shows where a tracer collects; a thermal camera shows surface temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--08-echoes-at-boundaries.webp" width="900" height="1210" alt="Top: an ultrasound pulse at 1500 m/s reflects at boundaries 3.0 cm and 6.0 cm deep, giving echoes at 40 and 80 microseconds. Bottom: seismic waves cross the Earth; those that travel only through solids are stopped by the liquid outer core, showing part of the core is liquid." loading="lazy">
+  <figcaption>Reflections and wave speeds at boundaries reveal layers inside the body and the Earth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
+
 ## P5.2j: Radio waves and circuits
 
 Radio waves are produced by oscillations in an electrical circuit, and radio waves can also cause oscillations in a circuit. This is how radio communication works.
@@ -151,6 +196,12 @@ Describe how a radio signal from a transmitter produces a sound in a portable ra
 2. The waves travel through the air to the radio's aerial.
 3. The waves make electrons in the receiving aerial oscillate, which gives an alternating current in the radio circuit of the same frequency as the waves.
 4. The circuit changes the signal into sound through the loudspeaker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--05-radio-aerials.webp" width="900" height="830" alt="An alternating current in the transmitter circuit makes electrons oscillate in the transmitting aerial, which gives out radio waves. The waves make electrons oscillate in the receiving aerial, giving an alternating current of the same frequency in the receiver circuit." loading="lazy">
+  <figcaption>Radio waves are made by, and induce, oscillations in circuits at the same frequency.</figcaption>
+</figure>
+
 
 ## Common errors
 

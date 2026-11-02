@@ -29,11 +29,43 @@ Condensed for the final weeks. For the full explanation, use the
 
 Lithium, sodium and potassium react **similarly** with water (evidence they're a family), but with **increasing vigour down the group** (evidence of the reactivity trend). **Reactivity increases down Group 1** because the single outer electron is progressively **easier to lose** as it sits further from the nucleus, with more shielding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--06-group1-shielding.webp" width="900" height="1095" alt="Lithium, sodium and potassium atoms with 2, 3 and 4 shells and one outer electron each. Inner shells shield the outer electron more as shells increase, so the pull from the nucleus shown as a bar falls from strong to weaker to weakest, and the outer electron is lost more easily." loading="lazy">
+  <figcaption>More shells give more shielding and a weaker pull on the outer electron, so Group 1 reactivity rises down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+
 ## Group 7: halogens (b)
 
 Chlorine, bromine and iodine — physical states/colours change down the group (chlorine: pale green gas; bromine: red-brown liquid; iodine: grey-black solid). **Displacement reactions** between halogens and halide solutions provide the evidence: a more reactive halogen displaces a less reactive one from its salt solution. **Reactivity decreases down Group 7** because the outer shell needing one more electron is progressively **harder to fill** as it sits further from the nucleus, with more shielding.
 
 **Memorise the opposite directions:** Group 1 reactivity **increases** down; Group 7 reactivity **decreases** down. A common exam-pressure error is applying the wrong direction to the wrong group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--01-halogen-reactivity-shells.webp" width="900" height="950" alt="Chlorine 2,8,7, bromine 2,8,18,7 and iodine 2,8,18,18,7 with a gap for one incoming electron; more shells means more shielding, so gaining an electron is harder and reactivity falls." loading="lazy">
+  <figcaption>Down Group VII the outer shell is further out and more shielded, so reactivity decreases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--10-halogen-states-trend.webp" width="900" height="910" alt="Fluorine pale yellow gas, chlorine pale yellow-green gas, bromine red-brown liquid with orange-brown vapour, iodine grey-black solid with purple vapour when warmed. Reactivity falls and melting and boiling points rise down the group." loading="lazy">
+  <figcaption>Gas, liquid, solid: states and colours down Group 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--01-group-trends-energy-levels.webp" width="900" height="1000" alt="Electron-shell diagrams of lithium (2 levels) and rubidium (5 levels) each lose a gold outer electron, which is lost more easily from rubidium. Chlorine (3 levels) and iodine (5 levels) each have seven outer electrons and a gap for one more; the pull on the incoming electron is weaker in iodine. The same extra energy level gives opposite trends." loading="lazy">
+  <figcaption>One extra energy level makes Group 1 more reactive down the group and Group 7 less reactive.</figcaption>
+</figure>
+
 
 ## Gases in the atmosphere (c)
 
@@ -45,6 +77,27 @@ Chlorine, bromine and iodine — physical states/colours change down the group (
 | Carbon dioxide | ~0.04% |
 
 **Measuring % oxygen experimentally:** react a metal (e.g. iron) or non-metal (e.g. phosphorus) with the oxygen in a sealed volume of air, and measure the volume decrease. **Combustion** of magnesium, hydrogen and sulfur in oxygen. **Thermal decomposition** of metal carbonates (e.g. copper(II) carbonate) releases CO₂. **CO₂ is a greenhouse gas**, linked to climate change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--01-air-four-gases.webp" width="900" height="920" alt="A bar shows dry air is 78% nitrogen, 21% oxygen and about 1% other gases. The last 1% is magnified 100 times: argon 0.9%, carbon dioxide 0.04%, other gases 0.06%. Argon is more abundant than carbon dioxide." loading="lazy">
+  <figcaption>The four main gases of dry air, with the last 1% magnified so argon and carbon dioxide can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--02-oxygen-in-air-experiment.webp" width="900" height="900" alt="Damp iron wool in an upturned tube over water: 100 cm3 of air at the start, 79 cm3 of gas left after several days. 100 - 79 = 21 cm3, so 21 % is oxygen." loading="lazy">
+  <figcaption>Rusting iron removes oxygen; the volume lost divided by the starting volume gives the percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--03-burning-elements-in-oxygen.webp" width="900" height="930" alt="Magnesium, hydrogen and sulfur each burn in oxygen: 2Mg + O2 gives 2MgO, 2H2 + O2 gives 2H2O, S + O2 gives SO2, shown with atoms and flame colours." loading="lazy">
+  <figcaption>Burning an element in oxygen forms its oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--04-carbonate-thermal-decomposition.webp" width="900" height="975" alt="Green copper(II) carbonate is heated; carbon dioxide passes to limewater, which turns milky. CuCO3 gives black CuO plus CO2." loading="lazy">
+  <figcaption>Thermal decomposition of a carbonate gives an oxide and carbon dioxide.</figcaption>
+</figure>
+
 
 ## Reactivity series (d)
 
@@ -58,6 +111,12 @@ Learn this **eleven-metal order** as one memorised sequence — nearly every que
 
 **Rusting:** iron rusts in the presence of **both water and oxygen** together (neither alone is sufficient). Prevention: **barrier methods** (paint, oil — physically excludes water/oxygen), **galvanising** (zinc coating — also provides sacrificial protection if scratched), **sacrificial protection** (a more reactive metal, e.g. zinc or magnesium, corrodes preferentially, protecting the iron).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--01-reactivity-series-11-metals.webp" width="900" height="1002" alt="Eleven metals from potassium at the top to gold at the bottom, with lithium between sodium and calcium. Potassium, sodium, lithium and calcium react with cold water; magnesium, aluminium, zinc and iron react with dilute acid; copper, silver and gold do not. A metal displaces any metal below it." loading="lazy">
+  <figcaption>The eleven-metal reactivity series in the order the specification gives, including lithium.</figcaption>
+</figure>
+
+
 ## Oxidation, reduction and redox
 
 | Definition style | Oxidation | Reduction |
@@ -66,6 +125,12 @@ Learn this **eleven-metal order** as one memorised sequence — nearly every que
 | **Electron-based** | Loss of electrons | Gain of electrons |
 
 **Redox** = a reaction where oxidation and reduction happen simultaneously. Practise **both** definitions on the same reaction — exam questions may use either convention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-reactivity-revision-notes--02-redox-two-views.webp" width="900" height="1040" alt="Magnesium heated with copper(II) oxide gives magnesium oxide and copper. In the oxygen view Mg gains oxygen (oxidised) and CuO loses oxygen (reduced). In the electron view Mg loses 2 electrons and Cu2+ gains 2 electrons. Both views agree." loading="lazy">
+  <figcaption>Practise both definitions on the same reaction: the verdict is the same.</figcaption>
+</figure>
+
 
 ## Worked example: predicting a displacement reaction
 

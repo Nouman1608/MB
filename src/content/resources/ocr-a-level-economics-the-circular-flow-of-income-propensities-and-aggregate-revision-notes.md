@@ -64,6 +64,12 @@ Find weak spots with the [free diagnostics](/diagnostics/), tick off topics on t
 
 Relationships: APC + APS = 1 and MPC + MPS = 1 on disposable income. Equilibrium in the flow: W = J.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--08-cf-mpw.webp" width="900" height="980" alt="A bar splits a 200 rise in national income into saving 30, tax 50, imports 40 and 80 re-spent, giving MPS 0.15, MRT 0.25, MPM 0.20 and MPW 0.60." loading="lazy">
+  <figcaption>The marginal propensity to withdraw adds the three leakages; 1 minus MPW is re-spent on domestic output.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **Calculating propensities**
@@ -95,6 +101,17 @@ Trigger → which component changes → direction at every price level → shift
 
 **Accelerator.** v = 3, output up by 8: net investment = 24. Output flat: net investment = 0, so only replacement is left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--06-cf-three-methods.webp" width="900" height="1040" alt="Three equal-height stacked columns show the output, income and expenditure methods each totalling 1,000 for Country A." loading="lazy">
+  <figcaption>The three methods give the same total because every unit spent is someone’s output and income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--09-cf-double-counting.webp" width="900" height="850" alt="A farm-mill-bakery chain and two bars: adding sales of 30, 50 and 90 gives 170, counting wheat three times, while adding value added of 30, 20 and 40 gives 90, the price of the bread." loading="lazy">
+  <figcaption>Adding value added at each stage gives 90, avoiding the double counting that adding sales (170) creates.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Average versus marginal:** APC uses the whole of income; MPC uses only the extra.
@@ -112,6 +129,22 @@ Axes: price level (vertical), real GDP (horizontal). The curve slopes down for t
 - **Interest rate effect:** higher prices raise money demand and interest rates, cutting C and I.
 - **International trade effect:** higher domestic prices hurt exports and favour imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--10-cf-ad-slope.webp" width="900" height="970" alt="A downward-sloping AD curve with points A and B shows a rise in the price level as a movement along the curve; three cards give the wealth, interest rate and trade effects." loading="lazy">
+  <figcaption>A higher price level reduces real output demanded through three effects, a movement along AD.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--11-cf-ad-shift-worked.webp" width="900" height="940" alt="A waterfall of changes in C (+15), I (-10), G (+20), X (+5) and M (-8, because more imports lower AD) totals +22, a shift of AD to the right." loading="lazy">
+  <figcaption>Adding the component changes, with imports negative, gives a rightward AD shift of 22.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+
 ## Determinants and shifts
 
 | Component | Main determinants |
@@ -123,6 +156,12 @@ Axes: price level (vertical), real GDP (horizontal). The curve slopes down for t
 
 A rise in any component at a given price level shifts AD right. A fall shifts it left. A higher exchange rate tends to shift AD left, since X falls and M rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+
 ## Evaluation prompts
 
 **Income and consumption:** income is the main driver, but MPC is not fixed. It depends on who gets the income, whether the rise is expected to last, wealth, credit, interest rates and time lags.
@@ -130,6 +169,12 @@ A rise in any component at a given price level shifts AD right. A fall shifts it
 **Accelerator:**
 - *For:* explains why investment swings more than output.
 - *Against:* spare capacity, uncertain expectations, finance and interest rates, a changing capital-output ratio, and lumpy investment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--10-cf-consumption-function.webp" width="900" height="1000" alt="A graph of C = 50 + 0.8Yd starting at 50 on the vertical axis. At Yd 400, C is 370; at 500, C is 450. A step of 100 in income gives 80 in consumption, so MPC is 0.8." loading="lazy">
+  <figcaption>Consumption rises by 0.8 for each extra unit of disposable income, on top of autonomous consumption of 50.</figcaption>
+</figure>
+
 
 ## Circular flow sketch
 
@@ -145,9 +190,21 @@ Injections: I (from financial sector), G (from government), X (overseas)
 
 Equilibrium: W = J. If J is above W, income tends to rise; if below, it tends to fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--01-circular-flow.webp" width="900" height="980" alt="Households and firms pass spending and income round a loop; saving, taxes and imports leak out and investment, government spending and exports flow in." loading="lazy">
+  <figcaption>Leakages equal injections, so national income is steady; injections above leakages raise it.</figcaption>
+</figure>
+
+
 ## Consumption function reminder
 
 C = a + b·Yd, where a is autonomous consumption and b is the MPC. With a = 40 and b = 0.9, Yd = 300 gives C = 40 + 270 = **310**, and Yd = 400 gives C = **400**. The rise in C is 90 for a rise of 100 in Yd, so MPC = **0.9**. APC at 300 is 310/300 = 1.03, so the household is spending more than its income, using savings or credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--07-cf-apc-mpc.webp" width="900" height="1000" alt="Consumption plotted against disposable income lies on C = 10 + 0.8Yd. A step of 100 in income gives 80 in consumption (MPC 0.8) while dashed rays from the origin show APC falling from 0.90 to 0.825." loading="lazy">
+  <figcaption>MPC stays at 0.8 at every income level, so the average propensity to consume falls as income rises.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -157,6 +214,12 @@ C = a + b·Yd, where a is autonomous consumption and b is the MPC. With a = 40 a
 - **Faster output growth:** firms need more capital, so net investment rises, so AD rises. Slower growth does the opposite.
 - **Government spending cut:** G is a direct component, so AD shifts left at every price level, with no change in the price level needed.
 - **Higher income tax rate:** lower Yd, so C falls, so AD shifts left. A bigger MRT also raises MPW, so less of each extra unit of income is re-spent at home.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--09-cf-accelerator.webp" width="900" height="1076" alt="Output bars with the change in output sit above bars of gross investment (3 x change in output + 20). In year 4 output rises but investment falls from 65 to 50." loading="lazy">
+  <figcaption>Investment depends on the change in output, so slower growth cuts investment even while output rises.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

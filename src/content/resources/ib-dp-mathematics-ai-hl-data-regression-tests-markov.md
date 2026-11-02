@@ -64,6 +64,12 @@ You must also pick the **relevant variables** from a large data set and choose d
   - *Content validity*: the questions cover every part of what is being measured.
   - *Criterion-related validity*: the results agree with an established measure (the criterion).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--01-imath-ai-hl-reliability-validity.webp" width="900" height="1065" alt="Four dartboards with seven crosses each. Top row clusters tightly (reliable); bottom row is scattered (not reliable). Left column is centred on the bullseye (valid); right column is centred off target (not valid). A box lists the checks: test-retest and parallel forms for reliability, content and criterion-related for validity." loading="lazy">
+  <figcaption>Reliable means consistent, valid means accurate; the two are independent.</figcaption>
+</figure>
+
+
 ### χ² goodness of fit with estimated parameters
 
 For a χ² goodness of fit test, choose categories so that every **expected** frequency is greater than 5. Merge neighbouring categories if needed, and say why.
@@ -71,6 +77,12 @@ For a χ² goodness of fit test, choose categories so that every **expected** fr
 Degrees of freedom = (number of categories after merging) − 1 − (number of parameters estimated from the data).
 
 Estimating a Poisson mean or a binomial p costs 1; estimating a normal μ and σ costs 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--02-imath-ai-hl-chi-squared-df.webp" width="900" height="1030" alt="Bar chart of Poisson(2) expected frequencies shows 5 and 6-or-more fall below 5 and are merged into a single category. A second chart compares observed and expected for the six categories. Degrees of freedom are 6 − 1 − 1 = 4, chi-squared 5.37, p 0.251, so H0 is not rejected." loading="lazy">
+  <figcaption>Merge categories until every expected frequency exceeds 5, then subtract the estimated parameters from the number of categories minus 1.</figcaption>
+</figure>
+
 
 ### Worked example 1
 
@@ -131,6 +143,17 @@ The area y m² of an algae patch after x weeks:
 - Quadratic: y = 0.487x² − 0.813x + 3.56, R² = 0.999.
 
 The quadratic explains 99.9% of the variation in area, against 93.0% for the line. It predicts 28.2 m² at week 8, a small extrapolation. A cubic gives R² even closer to 1, but that alone does not make it better.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--03-imath-ai-hl-regression-r-squared.webp" width="900" height="1010" alt="Scatter plot of algae area against weeks 1 to 7 with a linear fit (R² 0.930) and a quadratic fit (R² 0.999). Dashed extensions predict 28.2 m² and 22.4 m² at week 8. A note warns that higher R² alone does not prove a better model." loading="lazy">
+  <figcaption>A quadratic explains 99.9% of the variation against 93.0% for the line, but R² alone is not enough to choose a model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--04-imath-ai-hl-ssres.webp" width="900" height="1250" alt="Two plots of the data (1,5), (2,9), (3,14), (4,22) with models A and B. Gold squares on each residual have side proportional to the residual (drawn 3 times larger). SSres is 2 for model A and 2.52 for model B, so A fits better." loading="lazy">
+  <figcaption>SSres is the sum of squared residuals, and a smaller value means a better fit.</figcaption>
+</figure>
+
 
 ## 4.18 Hypothesis testing
 
@@ -202,6 +225,22 @@ Under H₀ the total is Y ~ Po(8 × 3.5) = Po(28). P(Y ≤ 19) = 0.0478 < 0.05, 
 
 For bivariate normal data, H₀: ρ = 0 and H₁: ρ > 0, ρ < 0 or ρ ≠ 0. The data will be given. Your GDC returns r and the p-value to compare with the significance level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--05-imath-ai-hl-binomial-errors.webp" width="900" height="960" alt="Two bar charts. For B(20, 0.3) the bars 0 to 2 form the critical region with Type I probability 0.0355. For B(20, 0.15) the bars 3 or more are the Type II error with probability 0.595." loading="lazy">
+  <figcaption>The critical region is the largest one with probability under the significance level; a Type II error depends on the true parameter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--06-imath-ai-hl-normal-test-errors.webp" width="900" height="950" alt="Two normal curves for the sample mean, N(500, 0.8²) and N(498, 0.8²). The left tail of the first below 498.68 is the Type I error (0.05); the part of the second above 498.68 is the Type II error (0.196). The observed 498.3 lies in the critical region." loading="lazy">
+  <figcaption>The same critical value splits both curves: its tail under H0 is Type I, its tail under the true mean is Type II.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--07-imath-ai-hl-poisson-critical-region.webp" width="900" height="830" alt="Bar chart of Po(28) with bars 12 to 19 shaded as the critical region, probability 0.0478. Including 20 would give 0.0727, over 0.05. The observed 19 lies in the region." loading="lazy">
+  <figcaption>For discrete variables take the largest critical region whose probability stays under the significance level.</figcaption>
+</figure>
+
+
 ## 4.19 Markov chains
 
 A **transition matrix** T holds the probabilities of moving between states. In IB notation Tᵢⱼ is the probability of moving **from state j to state i**, so each **column** sums to 1. A **transition diagram** shows the same information as arrows between states.
@@ -225,6 +264,17 @@ s₂ = T² s₀ = (0.575, 0.425)ᵀ
 ```
 
 For the exact steady state, solve 0.8a + 0.3b = a with a + b = 1. This gives 0.2a = 0.3b, so a = 3/5 and b = 2/5. In the long run, 60% of members attend in a given week. Check: T¹⁰s₀ = (0.5999, 0.4001)ᵀ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--08-imath-ai-hl-markov-transitions.webp" width="900" height="1010" alt="Two-state diagram for gym attendance with probabilities 0.8, 0.2, 0.3 and 0.7, matched to the transition matrix whose columns are the from-states and sum to 1. Starting at (0.5, 0.5), the states after one and two weeks are (0.55, 0.45) and (0.575, 0.425)." loading="lazy">
+  <figcaption>Each column of T sums to 1 and s_n = Tⁿ s₀.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--09-imath-ai-hl-markov-steady-state.webp" width="900" height="1010" alt="Line graph of the proportion attending over 10 weeks from two different starts (0.5 and 0), both approaching the steady state 0.6 = 3/5. A box shows solving 0.2a = 0.3b with a + b = 1." loading="lazy">
+  <figcaption>A regular chain settles to the same steady state whatever the start.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

@@ -67,6 +67,17 @@ In words: with output on the horizontal axis and LRAC on the vertical axis, the 
 
 Total cost rises throughout: falling average cost is not falling total cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--09-scale-percentage-test.webp" width="900" height="830" alt="Output and total cost percentage changes for 100 to 200 and 500 to 600 parcels show economies then diseconomies. Totals recomputed: 1,920/1,200 = +60%; 4,680/3,600 = +30%; AC 12.00, 9.60, 7.20, 7.80." loading="lazy">
+  <figcaption>Compare the % change in output with the % change in total cost to spot economies or diseconomies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Minimum efficient scale (3b)
 
 Minimum efficient scale (MES) is the smallest output that achieves the lowest possible LRAC. By that scale the firm has used up the available economies of scale. In the example MES is 400 parcels: 7.20 is the lowest LRAC, and 400 is the first output that reaches it.
@@ -77,6 +88,12 @@ MES matters most against the size of the market.
 - If MES were 1,500 parcels, there is room for only 2,000/1,500 = 1.33 firms. One large firm has the lowest costs, so the market tends towards monopoly.
 - If MES were 40 parcels, room exists for 50 firms, so many small firms can survive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--10-mes-market-size.webp" width="900" height="830" alt="Three bars of a 2,000-parcel market split into blocks of MES 400, 1,500 and 40. 2000/400=5; 2000/1500=1.33; 2000/40=50." loading="lazy">
+  <figcaption>MES against market size tells how many firms fit.</figcaption>
+</figure>
+
+
 
 ## Internal and external economies (3c)
 
@@ -85,6 +102,12 @@ An internal economy of scale is a saving the firm earns by expanding. It slides 
 An external economy of scale comes from the growth of the industry, usually in one area. It lowers the costs of every firm, so each firm's whole LRAC curve shifts down.
 
 Internal economies are a movement along LRAC and help one firm. External economies are a shift of LRAC and help all firms in the industry. Keep these apart in diagrams.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--01-lrac-internal-vs-external.webp" width="900" height="820" alt="Courier LRAC from the lesson table: MES at 400 parcels (7.20); a 5% external economy shifts the whole curve down (7.20 to 6.84) while an internal economy is a slide along it." loading="lazy">
+  <figcaption>An internal economy moves a firm along its LRAC; external economies shift the whole curve down.</figcaption>
+</figure>
+
 
 ## Sources of internal economies (3d)
 
@@ -101,6 +124,17 @@ Internal economies are a movement along LRAC and help one firm. External economi
 
 Most sources spread a fixed or lumpy cost over more units, or use buying power. Name the source and give the reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--11-internal-economies-numbers.webp" width="900" height="1020" alt="Paired bars give the lesson illustrations for financial, technical, managerial, marketing, purchasing and risk bearing economies. 12,000/25,000=0.48; 7,500/25,000=0.30; 3.00 to 0.50; 1.50 to 0.40; 1.50 to 0.30; 1.40 to 1.26; revenue -20% v -10%." loading="lazy">
+  <figcaption>Most economies spread a lumpy cost over more units; risk bearing spreads demand risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
+
 ## Sources of external economies (3e)
 
 - Availability of skilled labour. When many firms in one industry settle in one area, colleges and training follow, and skilled workers are easy to hire. Each firm spends less on training and recruitment.
@@ -116,6 +150,17 @@ Most sources spread a fixed or lumpy cost over more units, or use buying power. 
 - X-inefficiency. This is a failure to produce at the lowest cost possible for the output, because managers and workers have little pressure or incentive to cut waste. It is more likely when monitoring weakens as the firm grows, or where competition is weak.
 
 **Worked example 3.** Return to the courier firm. Its true LRAC at 400 parcels is 7.20 cu. Suppose slack management leads to an actual average cost of 8.10 cu. The gap is 0.90 cu a parcel, which is 0.90/7.20 = 12.5% above the best achievable, or 0.90 x 400 = 360 cu a day of avoidable cost. This is X-inefficiency: the firm is above its LRAC, not just far along it. The specification lists it as a source of diseconomies, so use it to explain a rising LRAC, and note that it can occur at any size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--12-communication-links.webp" width="900" height="930" alt="Complete networks for 5 and 10 people and bars for 5, 10 and 20 people show links n(n-1)/2. Edges counted in code: 10 and 45; 190 for 20; 190/45 = 4.2." loading="lazy">
+  <figcaption>Links grow much faster than staff numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--13-x-inefficiency-gap.webp" width="900" height="870" alt="LRAC from the courier table with the actual 8.10 above the best 7.20 at 400 parcels. AC = TC/Q for every table point; 0.90, 12.5% and 360 recomputed." loading="lazy">
+  <figcaption>X-inefficiency puts the firm above its LRAC, 0.90 per parcel at 400 parcels.</figcaption>
+</figure>
+
 
 ## Normal profit, supernormal profit and losses (4a)
 
@@ -140,6 +185,12 @@ Total supernormal profit or loss = (AR - AC) x quantity. A negative result is a 
 At 5.40 the accounts show 5,400 - 4,500 = 900 cu of profit. Of that, 500 is normal profit and 400 is supernormal. At 4.00 the accounts show -500, but the economic loss is -1,000.
 
 Supernormal profit signals that a market is worth entering, if barriers to entry allow it. Losses signal that resources would earn more elsewhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--02-profit-loss-shutdown-car-wash.webp" width="900" height="840" alt="Car wash worked example: fixed cost 1,800, AVC 3.20, AC 5.00 at 1,000 cars. Prices above 5.00 give supernormal profit, between 3.20 and 5.00 a loss but production continues, below 3.20 shutdown. Profits at 6.20, 5.40, 5.00, 4.00 and 3.00 are +1,200, +400, 0, -1,000 and -2,000." loading="lazy">
+  <figcaption>Profit or loss at each price shows when to produce and when to shut down.</figcaption>
+</figure>
+
 
 ## Shutdown points (4b)
 

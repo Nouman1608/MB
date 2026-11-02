@@ -65,6 +65,17 @@ The specification says knowledge of intersection, union and complement symbols i
 
 The grid has 3 × 4 = 12 cells. Products: 1 gives 2, 4, 6, 8. 3 gives 6, 12, 18, 24. 5 gives 10, 20, 30, 40. Products greater than 20: 24, 30, 40. That is 3 out of 12, so the probability is 1/4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--06-two-spinners-grid.webp" width="900" height="1020" alt="Grid of the 12 sums of spinner A (1 to 4) and spinner B (2, 4, 6); four sums are at least 8 and six are even." loading="lazy">
+  <figcaption>The sample space grid for Worked example 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+
+
 ## Systematic listing and the product rule (11.02b)
 
 **Systematic listing strategy**
@@ -91,6 +102,17 @@ number of ways = (choices at stage 1) × (choices at stage 2) × ...
 | PIN of 4 digits, no repeats | 10 × 9 × 8 × 7 | 5 040 |
 
 **Worked reminder (Higher tier only).** A locker code is one letter from A to D followed by two digits, and digits may repeat. There are 4 × 10 × 10 = 400 codes. If codes are chosen at random, the probability of the code B07 is 1/400. If the two digits must be different, there are 4 × 10 × 9 = 360 codes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--07-systematic-listing.webp" width="900" height="990" alt="Digits 2, 5, 8 listed by fixing the first digit gives six numbers, four over 500; three coin flips grouped by heads give 1, 3, 3, 1 outcomes." loading="lazy">
+  <figcaption>Systematic lists for Worked examples 3 and 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--08-product-rule-slots.webp" width="900" height="1100" alt="Boxes of choices multiply: meals 4x5x3 = 60; codes 6x6x10x10x10 = 36 000 or 6x5x10x10x10 = 30 000; runners 6x5x4 = 120." loading="lazy">
+  <figcaption>The product rule for Worked examples 5 to 7.</figcaption>
+</figure>
+
 
 ## Sets and Venn diagrams (11.02c)
 
@@ -129,6 +151,12 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 
 **Worked reminder with set-builder notation.** Let H = {x | x is a whole number from 1 to 12} and let K = {x | x is a factor of 12}. Then K = {1, 2, 3, 4, 6, 12}, which is 6 of the 12 members of H. A whole number picked at random from H is in K with probability 6/12 = 1/2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--09-set-builder-lines.webp" width="900" height="1030" alt="D (real numbers between 1 and 3), D with integers only = {2}, F = {2,3,4,5,6} and E = factors of 30, each on a number line." loading="lazy">
+  <figcaption>The lesson's set-builder examples drawn on number lines.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Total of a set versus "only" part of a set: 18 hockey players includes the 5 who also play netball.
@@ -162,6 +190,12 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 9. 13/30.
 10. 5/12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing only part of the sample space, then giving a total that is too small.
@@ -173,6 +207,22 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 - Using the group total as the denominator for a conditional probability.
 - Using 10 × 10 × 10 × 10 when repeats are not allowed.
 - Giving set notation without saying whether x is an integer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--09-venn-1-to-20.webp" width="900" height="880" alt="Venn diagram of 1 to 20: multiples of 3 only 3, 9, 15; both 6, 12, 18; even only 2, 4, 8, 10, 14, 16, 20; neither 1, 5, 7, 11, 13, 17, 19. Counts 3, 3, 7, 7 total 20." loading="lazy">
+  <figcaption>Fill every number into the four regions and check the total is 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
 
 ## Next steps
 

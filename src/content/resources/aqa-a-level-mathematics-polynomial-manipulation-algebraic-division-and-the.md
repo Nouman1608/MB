@@ -141,6 +141,17 @@ The quotient is 2x² − x − 1 and the remainder is 6. Check by expanding: (2x
 
 **Alternative: matching coefficients.** For Example 5, write 3x³ + 2x² − 7x + 4 ≡ (x − 2)(ax² + bx + c) + r. Comparing x³ gives a = 3. Comparing x² gives b − 2a = 2, so b = 8. Comparing x gives c − 2b = −7, so c = 9. The constant term gives r − 2c = 4, so r = 22. This is slower on paper but easy to check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--03-division-columns.webp" width="900" height="938" alt="Long division of 6x^3 + x^2 - 7x + 6 by (3x - 1) laid out in columns. The quotient 2x^2 + x - 2 is built one term at a time and the leftover 4 equals f(1/3)." loading="lazy">
+  <figcaption>Each quotient term is multiplied by the divisor and subtracted until only the remainder is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--08-partial-fractions-sum.webp" width="900" height="880" alt="Three curves: (10x - 5)/((x + 1)(2x - 3)), 3/(x + 1) and 4/(2x - 3). Each part has one vertical asymptote, and adding the two parts point by point gives the combined curve." loading="lazy">
+  <figcaption>A fraction with two linear factors is the sum of two simpler fractions, one per asymptote.</figcaption>
+</figure>
+
+
 ## 4. The factor theorem and the remainder
 
 **Remainder result.** When f(x) is divided by (x − a), the remainder is f(a). Reason: f(x) = (x − a)q(x) + r, and putting x = a gives f(a) = r.
@@ -182,6 +193,27 @@ Subtract: 3a = −6, so a = −2 and b = 6
 
 Check: f(x) = 2x³ − 2x² − 7x + 6 and f(2) = 16 − 8 − 14 + 6 = 0. Dividing by (x − 2) gives 2x² + 2x − 3. Its discriminant is 4 + 24 = 28, which is not a perfect square, so the other two roots are irrational and the factorisation stops at f(x) = (x − 2)(2x² + 2x − 3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--01-factor-theorem-graph.webp" width="900" height="1020" alt="Graph of f(x) = x cubed minus 4x squared minus 7x + 10 crossing the x-axis at minus 2, 1 and 5. Each root is marked and labelled with its linear factor (x + 2), (x - 1), (x - 5). A zero of the function corresponds to a linear factor." loading="lazy">
+  <figcaption>A root of f is where the graph meets the x-axis, and it gives a linear factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--02-remainder-is-fa.webp" width="900" height="990" alt="Two cubics are drawn: f(x) = 3x^3 + 2x^2 - 7x + 4 and (x - 2)(3x^2 + 8x + 9), which always sit 22 apart. At x = 2 the gap is marked as 22, equal to f(2), the remainder when f is divided by (x - 2)." loading="lazy">
+  <figcaption>Dividing by (x - 2) leaves a remainder equal to the height f(2); the quotient part is the same curve lowered by that amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--04-cubic-factor-shapes.webp" width="900" height="1160" alt="Three cubic graphs with positive x^3 term. Three distinct factors cross the axis three times, a repeated factor touches the axis, and a quadratic factor with negative discriminant gives only one crossing." loading="lazy">
+  <figcaption>Distinct, repeated and irreducible quadratic factors give crossing three times, touching, or crossing once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--05-quartic-repeated-root.webp" width="900" height="985" alt="Graph of x^4 - 3x^3 - 6x^2 + 28x - 24. It crosses the axis at x = -3 and flattens as it crosses at x = 2, which is a root three times, so f(x) = (x - 2)^3 (x + 3)." loading="lazy">
+  <figcaption>A repeated root makes the curve flatten at the axis; the factor theorem is applied again to each quotient.</figcaption>
+</figure>
+
+
 ## 5. Rational expressions
 
 A rational expression is one polynomial divided by another. Simplify by factorising top and bottom, then cancelling common factors. You can only cancel factors, never terms.
@@ -213,6 +245,12 @@ Excluded values are x = 0, −3 and 2.
 Dividing x³ + x² − 5x + 8 by (x + 3) gives quotient x² − 2x + 1 and remainder 5, because f(−3) = −27 + 9 + 15 + 8 = 5. So
 
 (x³ + x² − 5x + 8)/(x + 3) = x² − 2x + 1 + 5/(x + 3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--07-rational-divide-first.webp" width="900" height="940" alt="Graph of (x^3 - 2x^2 - 5x + 7)/(x - 3) with a vertical asymptote at x = 3 and the dashed parabola y = x^2 + x - 2. The function equals this quotient plus 1/(x - 3), so it follows the parabola far from the asymptote." loading="lazy">
+  <figcaption>After division, the polynomial part shows the long-run shape and the fraction part gives the asymptote.</figcaption>
+</figure>
+
 
 ## Common errors
 

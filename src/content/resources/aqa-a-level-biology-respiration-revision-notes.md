@@ -57,12 +57,34 @@ Totals before oxidative phosphorylation: 10 reduced NAD, 2 reduced FAD, 4 ATP, 6
 
 Reminder: ATP made = 4, ATP used = 2, net = 2. Pyruvate is a three-carbon molecule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--03-glycolysis.webp" width="900" height="1120" alt="Glucose (6C) is phosphorylated using 2 ATP, the hexose bisphosphate splits into two triose phosphates, and each is oxidised to pyruvate, making reduced NAD and 2 ATP. Net per glucose: 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate." loading="lazy">
+  <figcaption>Glycolysis uses 2 ATP and makes 4, a net gain of 2 ATP, 2 reduced NAD and 2 pyruvate.</figcaption>
+</figure>
+
+
 ## Anaerobic respiration
 
 - If respiration is only anaerobic, pyruvate accepts hydrogen from reduced NAD.
 - **Lactate**: pyruvate + reduced NAD → lactate + NAD. No CO₂.
 - **Ethanol**: pyruvate → ethanal + CO₂; ethanal + reduced NAD → ethanol + NAD.
 - Purpose: regenerate NAD so glycolysis can continue. No extra ATP is made by this step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--01-respiration-overview.webp" width="900" height="1080" alt="A map of one glucose through respiration in three bands. Glycolysis in the cytoplasm gives 2 pyruvate, net 2 ATP and 2 reduced NAD. Pyruvate enters the matrix, where the link reaction (twice) and Krebs cycle (twice) release 6 CO2 in total and make 2 more ATP. Reduced NAD and FAD carry hydrogen to the inner membrane, where the electron transport chain and ATP synthase make most of the ATP and oxygen forms water." loading="lazy">
+  <figcaption>One glucose passes through four stages in three places: cytoplasm, matrix and inner mitochondrial membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--06-atp-yield.webp" width="900" height="910" alt="Aerobic respiration gives 32 ATP: 4 by substrate-level phosphorylation, 25 from 10 reduced NAD at 2.5 each and 3 from 2 reduced FAD at 1.5 each. Anaerobic respiration gives only the 2 ATP from glycolysis, so aerobic gives 16 times as much." loading="lazy">
+  <figcaption>Using 2.5 and 1.5 ATP per reduced NAD and FAD, aerobic respiration gives 32 ATP against 2 anaerobically.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--08-fermentation.webp" width="900" height="1030" alt="Without oxygen only glycolysis runs. In animals pyruvate accepts hydrogen from reduced NAD to make lactate (reversible, no CO2). In yeast and plants pyruvate loses CO2 to make ethanal, which is reduced to ethanol (not reversible). Both regenerate NAD; no ATP comes from this step." loading="lazy">
+  <figcaption>Fermentation regenerates NAD so glycolysis can continue; the only ATP is the net 2 from glycolysis.</figcaption>
+</figure>
+
 
 ## Link reaction and Krebs cycle
 
@@ -78,6 +100,17 @@ Reminder: ATP made = 4, ATP used = 2, net = 2. Pyruvate is a three-carbon molecu
 
 Both happen twice per glucose. Pyruvate enters the matrix by active transport.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--02-mitochondrion-structure.webp" width="900" height="1110" alt="A labelled mitochondrion: outer membrane, intermembrane space, inner membrane folded into cristae, and matrix with circular DNA and ribosomes. A worked example gives 27 mm / 15 000 = 1.8 micrometres." loading="lazy">
+  <figcaption>The folded inner membrane gives a large surface area; the matrix holds the enzymes of the link reaction and Krebs cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--04-link-and-krebs.webp" width="900" height="1080" alt="In the link reaction pyruvate loses CO2 and hydrogen to become acetyl CoA (2C), twice per glucose. In the Krebs cycle acetyl CoA joins a 4C compound to make citrate (6C); each turn releases 2 CO2 and makes 3 reduced NAD, 1 reduced FAD and 1 ATP before regenerating the 4C compound." loading="lazy">
+  <figcaption>Each turn of the Krebs cycle gives 2 CO2, 3 reduced NAD, 1 reduced FAD and 1 ATP; there are two turns per glucose.</figcaption>
+</figure>
+
+
 ## Oxidative phosphorylation in steps
 
 1. Electrons from reduced NAD and reduced FAD are handed to carriers in the inner mitochondrial membrane.
@@ -89,6 +122,12 @@ Both happen twice per glucose. Pyruvate enters the matrix by active transport.
 
 Cristae increase the membrane area, so more chains and ATP synthase molecules fit in each mitochondrion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--07-chemiosmosis.webp" width="900" height="1060" alt="Reduced NAD gives hydrogen to carriers in the inner membrane. Electrons pass along the chain and the energy released pumps H+ into the intermembrane space. H+ flows back through ATP synthase, making ATP from ADP and Pi (chemiosmosis). Oxygen is the final electron acceptor and forms water." loading="lazy">
+  <figcaption>Energy from electron transport builds a proton gradient; protons flow back through ATP synthase to make ATP.</figcaption>
+</figure>
+
+
 ## Other substrates
 
 | Substrate | Breakdown product | Enters respiration as |
@@ -97,6 +136,12 @@ Cristae increase the membrane area, so more chains and ATP synthase molecules fi
 | Protein | Amino acids, after amino group removal | Krebs cycle intermediates or acetyl CoA |
 
 Lipids give more reduced coenzymes per gram than carbohydrate because they contain more hydrogen per gram.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--09-respiratory-substrates.webp" width="900" height="1040" alt="Glucose enters at glycolysis. Glycerol from lipids enters glycolysis and fatty acids are cut into 2C units forming acetyl CoA. Amino acids lose their amino group and the carbon skeleton enters as pyruvate, acetyl CoA or a Krebs cycle intermediate. Lipids give about 37-39 kJ per g, carbohydrate and protein about 16-17, with RQ about 0.7, 1.0 and 0.9." loading="lazy">
+  <figcaption>Lipids and proteins join respiration at different points; lipids have more hydrogen per gram and so give more ATP.</figcaption>
+</figure>
+
 
 ## Required practical 9 reminders
 
@@ -172,6 +217,12 @@ Lipids give more reduced coenzymes per gram than carbohydrate because they conta
 9. As acetyl CoA, into the Krebs cycle.
 10. 6.3 ÷ 7 = 0.90 cm³ per min.
 11. It shows that CO₂ release depends on living cells, not on the solution or equipment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--05-respiration-tally.webp" width="900" height="860" alt="Stacked bars show the CO2, reduced NAD, reduced FAD and ATP made by each stage per glucose: 6 CO2, 10 reduced NAD, 2 reduced FAD and 4 ATP made directly." loading="lazy">
+  <figcaption>Six CO2 account for all six carbons of glucose; most energy is still held in 12 reduced coenzymes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

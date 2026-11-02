@@ -71,6 +71,12 @@ allowed prediction of undiscovered elements; Group 0 (the noble gases)
 as unreactive elements with stable outer-shell electron arrangements —
 eight outer electrons for all noble gases except helium, which has two
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The atomic-number/mass-number relationship (3.1.2) underpins almost
@@ -113,6 +119,22 @@ neutrons — two more than the first isotope. This is exactly what makes
 the two atoms isotopes of the same element rather than different
 elements.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Confusing atomic number (protons only) with mass number (protons plus
@@ -122,6 +144,12 @@ Forgetting that a neutral atom always has equal protons and electrons,
 even when the question only states the mass and atomic numbers.
 Miscounting electron shells by not filling the lowest available energy
 level first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 
@@ -133,6 +161,12 @@ neutrons.
 group number to outer-shell electron count.
 - Explain why the noble gases are unreactive in terms of their electron
 arrangement, not just as a memorised fact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--03-group-0-full-outer-shells.webp" width="900" height="810" alt="Shell diagrams of helium (2), neon (2,8) and argon (2,8,8) under a Group 0 label. Each has a full outer shell, 2 electrons for helium and 8 for neon and argon, which is a stable arrangement; other atoms react to get one like it." loading="lazy">
+  <figcaption>Group 0 elements have full outer shells, which makes them unreactive.</figcaption>
+</figure>
+
 
 ## States of matter and diffusion
 
@@ -149,6 +183,32 @@ ammonia and hydrochloric acid gases meeting to form a visible white ring
 of ammonium chloride, are used as *evidence* that particles are in
 constant, random motion — be ready to explain what a specific diffusion
 result shows about particle behaviour, not just to describe the setup.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--07-diffusion-bromine-kmno4.webp" width="900" height="990" alt="Bromine vapour spreads up through a gas jar of air, and a purple potassium manganate(VII) crystal spreads through water, because particles move randomly from crowded to spread out." loading="lazy">
+  <figcaption>Diffusion in a gas and in a liquid is evidence for random particle motion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp" width="900" height="990" alt="Gas or liquid particles that start crowded on one side spread randomly through the whole box, moving net from high to low concentration. In a solid the particles stay in fixed positions, so nothing spreads." loading="lazy">
+  <figcaption>Diffusion is net movement from high to low concentration, caused by random particle motion; it does not happen in solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
+
 
 ## Related resources
 

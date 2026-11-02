@@ -75,6 +75,12 @@ Risk rises with smoking, high blood pressure, high blood cholesterol, a diet hig
 
 **Data skills:** compare rates per 100 000, not raw counts. Correlation coefficients run from −1 to +1 and show strength, not cause. A weak correlation weakens a hypothesis; a strong one does not prove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--02-coronary-occlusion.webp" width="900" height="1080" alt="Three steps along a coronary artery long section: plaque builds up under the lining and narrows the lumen, the plaque ruptures and a clot blocks the lumen, and the heart muscle beyond is starved of oxygen and glucose and dies (heart attack)." loading="lazy">
+  <figcaption>A plaque and clot in a coronary artery cut off the blood supply to heart muscle.</figcaption>
+</figure>
+
+
 ## Water in plants (B3.2.7 to B3.2.10)
 
 **Transpiration pull in steps**
@@ -95,6 +101,12 @@ Risk rises with smoking, high blood pressure, high blood cholesterol, a diet hig
 | Cortex | Between epidermis and bundles | Wide, surrounding the vascular tissue |
 | Epidermis | Outer protective layer | Outer layer with root hair cells |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--03-xylem-transpiration-pull.webp" width="900" height="1010" alt="Evaporation from mesophyll walls (-1.5 MPa) and vapour loss through a stoma pull water up a xylem vessel from soil (-0.2 MPa), a 1.3 MPa gradient. An enlargement shows hydrogen-bonded water molecules (cohesion), adhesion to the lignified wall and the lignin that stops collapse." loading="lazy">
+  <figcaption>Water is pulled up an unbroken column as it evaporates from the leaf.</figcaption>
+</figure>
+
+
 ## Tissue fluid and lymph (B3.2.11 to B3.2.13, HL only)
 
 - Arteriolar end: high hydrostatic pressure pushes plasma out of the capillary, forming tissue fluid.
@@ -103,6 +115,12 @@ Risk rises with smoking, high blood pressure, high blood cholesterol, a diet hig
 - The rest drains into lymph vessels (thin walls with gaps, valves) and returns to the blood near the heart.
 
 **Worked reminder.** Net force = hydrostatic pressure − protein pull. If the arteriole end is 3.8 kPa and the protein pull is 3.1 kPa, the net is +0.7 kPa outwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--05-tissue-fluid.webp" width="900" height="980" alt="A capillary beside a body cell and a lymph capillary, with a graph. Blood pressure falls from 4.3 to 1.6 kPa against a constant 3.3 kPa protein pull, so the net force is +1.0 kPa (fluid out) at the arteriole end and -1.7 kPa (fluid back) at the venule end. Excess fluid drains into lymph." loading="lazy">
+  <figcaption>Pressure balance explains why fluid leaves at one end of a capillary and returns at the other.</figcaption>
+</figure>
+
 
 ## Circulation and the heart (B3.2.14 to B3.2.16, HL only)
 
@@ -125,12 +143,39 @@ Risk rises with smoking, high blood pressure, high blood cholesterol, a diet hig
 
 Heart rate = 60 ÷ cycle time. Pulse pressure = systolic − diastolic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--06-circulation.webp" width="900" height="1200" alt="Top: bony fish, heart then gill capillaries then body capillaries then back, so blood passes through the heart once and pressure drops after the gills. Bottom: mammal, right ventricle to lungs, left atrium, left ventricle to body, right atrium, so blood passes through the heart twice, with the lung circuit at lower pressure." loading="lazy">
+  <figcaption>Fish blood passes through the heart once per circuit, mammal blood twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--07-heart-pathway.webp" width="900" height="960" alt="Frontal view of the heart with numbered steps 1 to 8 from vena cava, right atrium, right ventricle, pulmonary artery, pulmonary veins, left atrium, left ventricle to aorta. Atrioventricular and semilunar valves, the septum, the pacemaker (SAN) and the thicker left ventricle wall are marked." loading="lazy">
+  <figcaption>Follow the numbers to trace blood through the four chambers and past each valve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--08-cardiac-cycle.webp" width="900" height="980" alt="Five steps in the left side of the heart. The atrium contracts; ventricular pressure rises above atrial pressure and the AV valve closes; ventricular pressure exceeds aortic pressure so the semilunar valve opens; the ventricle relaxes and the semilunar valve closes; the AV valve opens as filling begins. A 0.8 s cycle is 75 beats per minute." loading="lazy">
+  <figcaption>Valves open and close because of pressure differences.</figcaption>
+</figure>
+
+
 ## Root pressure and phloem (B3.2.17 and B3.2.18, HL only)
 
 - **Root pressure:** active transport of mineral ions into xylem, then osmosis, gives positive pressure. It helps when transpiration is low (humid air, spring before leaf opening).
 - **Sieve tube elements:** sieve plates, little cytoplasm, few organelles, no nucleus.
 - **Companion cells:** many mitochondria for active loading; plasmodesmata link them to sieve tubes.
 - **Flow:** loading at a source draws water in and raises pressure; unloading at a sink lowers it; sap flows down the pressure difference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--04-stem-root-plan.webp" width="900" height="1010" alt="Plan diagrams of a dicot stem and root as tissue regions. The stem has epidermis, cortex, a ring of vascular bundles (xylem inside, phloem outside) and pith. The root has an epidermis with root hairs, a wide cortex and a central star-shaped xylem with phloem between its arms." loading="lazy">
+  <figcaption>Where xylem and phloem sit in a dicot stem and root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--09-phloem-source-sink.webp" width="900" height="900" alt="A vertical sieve tube with sieve plates and companion cells. At the source sucrose is loaded and water enters by osmosis, giving high pressure; at the sink sucrose is unloaded and water leaves, giving low pressure. Sap flows down the gradient. Companion cells have many mitochondria and plasmodesmata." loading="lazy">
+  <figcaption>Pressure differences move sap from source to sink.</figcaption>
+</figure>
+
 
 ## Calculations to know
 

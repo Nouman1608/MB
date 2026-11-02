@@ -42,6 +42,12 @@ These notes condense outcomes 5.1.1(a) to 5.1.1(d) and 5.1.2(a) to 5.1.2(b) of t
 
 Peptide hormones bind to receptors on the surface membrane. Steroid hormones can cross the membrane and bind to receptors inside the cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
+</figure>
+
+
 ## 5.1.1(c): principles of homeostasis
 
 **Homeostasis** = keeping the internal environment within narrow limits around a set point.
@@ -76,6 +82,12 @@ Peptide hormones bind to receptors on the surface membrane. Steroid hormones can
 - Two opposing effectors give control in both directions.
 - Excretion removes metabolic waste. Secretion releases a useful product, such as a hormone or bile salts. Egestion removes undigested food.
 - Nervous signals reach specific cells. A hormone reaches every cell via the blood, but only cells with its receptor respond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
 
 ## 5.1.1(d): temperature control
 
@@ -119,6 +131,22 @@ Skin blood flow falls from 20 to 6 cm³ min⁻¹ in the cold.
 - Change = 6 − 20 = −14
 - Percentage change = (−14 ÷ 20) × 100 = **−70%**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
+
 ## 5.1.2(a): excretion
 
 **Excretion** = getting rid of metabolic waste from the body. Egestion is removal of undigested material that was never absorbed.
@@ -140,6 +168,12 @@ Importance: protects metabolism (enzymes need suitable conditions) and contribut
 | Hepatic portal vein | Nutrient-rich blood from the small intestine, in |
 | Hepatic vein | Blood out, to the vena cava |
 | Bile duct | Bile to the gall bladder and intestine |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
 
 ### Histology of a lobule
 

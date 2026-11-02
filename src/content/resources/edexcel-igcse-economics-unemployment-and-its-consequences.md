@@ -69,6 +69,17 @@ The number of unemployed rose by 1,750 − 1,400 = 350 thousand. As a percentage
 
 Dividing by the wrong base is a common slip. Using the whole working-age group of 26,000 thousand gives 1,400 ÷ 26,000 × 100 = 5.4%, which is wrong because the inactive are not in the labour force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--09-unemployment-rate-ilo.webp" width="900" height="970" alt="Year 1 and Year 2 bars split 26,000 thousand working-age people into employed, unemployed and inactive. The labour force is 20,000 in both years, giving rates of 7% and 8.75%: the number rose 25% but the rate rose 1.75 percentage points." loading="lazy">
+  <figcaption>Calculating the unemployment rate from the labour force, not the working-age population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--04-ilo-three-part-test.webp" width="900" height="980" alt="A three-question test: no paid work, available within two weeks, looked in the last four weeks. A no at any step leads to employed or economically inactive; three yes answers mean unemployed." loading="lazy">
+  <figcaption>The ILO test as a decision path.</figcaption>
+</figure>
+
+
 ## The five types
 
 | Type | What causes it | Typical features |
@@ -106,6 +117,22 @@ The gap between January and July is 13 − 2 = 11 percentage points. The four-mo
 - A shop assistant made redundant when national spending drops in a recession: cyclical.
 - A graduate looking for a first job: frictional.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--10-seasonal-resort.webp" width="900" height="880" alt="Bar chart of a resort with labour force 4,000: January 13%, April 6%, July 2%, October 5%, average 6.5%. The 11-point gap repeats each year so it is seasonal." loading="lazy">
+  <figcaption>A seasonal unemployment pattern repeats yearly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--05-classify-the-case.webp" width="900" height="960" alt="Five short cases each point to a type: bank clerk structural, farm picker seasonal, accountant voluntary (partly frictional), shop assistant cyclical, graduate frictional." loading="lazy">
+  <figcaption>Matching each case to its type of unemployment, including voluntary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## The consequences
 
 ### Output and scarce resources
@@ -114,9 +141,21 @@ Unemployed workers are an unused factor of production. Resources are scarce, so 
 
 **Worked example 4:** Country A's extra 350 thousand unemployed each would have produced an average of 24,000 currency units a year. Lost output = 350,000 × 24,000 = 8,400,000,000 units, or 8,400 million. This assumes they would have matched average output, which is a simplification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--07-lost-output-area.webp" width="900" height="880" alt="A rectangle 350,000 workers wide and 24,000 a year tall has area 8,400 million, the output not produced. The economy sits below its productive potential." loading="lazy">
+  <figcaption>Lost output as workers times average output.</figcaption>
+</figure>
+
+
 ### Poverty
 
 Wages are the main income for most households. Unemployment benefit is usually lower than the wage, so household income falls. A household with two earners on 1,800 and 1,200 a month has 3,000. If the second earner loses the job and receives a benefit of 500, income becomes 1,800 + 500 = 2,300. The fall is 700 ÷ 3,000 × 100 = **23.3%**. Where savings are small, that gap pushes families towards poverty, and the risk grows the longer the spell lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--06-household-income-drop.webp" width="900" height="840" alt="Household income falls from 3,000 (1,800 plus 1,200) to 2,300 (1,800 plus a 500 benefit) when the second earner loses the job. The 700 fall is 23.3 percent." loading="lazy">
+  <figcaption>A job loss cuts household income by 23.3% even with a benefit.</figcaption>
+</figure>
+
 
 ### Government spending on benefits and tax revenue
 
@@ -133,13 +172,31 @@ Cost to the government of one more unemployed person = benefit 6,000 + lost inco
 
 For 50,000 more unemployed: 50,000 × 9,760 = **488 million**. Of this, benefits are 300 million and lost tax is 188 million. Households also spend (13,600 − 6,000) × 50,000 = 380 million less. That money is not available for schools, hospitals or other public services, or must be found by borrowing or higher taxes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--11-cost-of-unemployment-to-government.webp" width="900" height="990" alt="Employed worker pays 3,000 income tax and 1,360 sales tax; unemployed receives 6,000 benefit and pays 600 sales tax. Cost to government 6,000 + 3,000 + 760 = 9,760 per person, 488 million for 50,000 people (300 million benefits, 188 million lost tax)." loading="lazy">
+  <figcaption>Why rising unemployment costs the government in benefits and lost tax.</figcaption>
+</figure>
+
+
 ### Consumer and business confidence
 
 Households fear for their own jobs, so they save more and spend less. Falling spending cuts sales. Firms then expect weak demand, postpone investment and may hold back hiring. This reduces demand for workers and can worsen unemployment, so cyclical unemployment can feed on itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--08-confidence-loop.webp" width="900" height="976" alt="A loop of five steps: households fear for jobs, save more and spend less, firms sell less and expect weak demand, firms postpone investment and hiring, fewer jobs, and back to fear. Cyclical unemployment can feed on itself." loading="lazy">
+  <figcaption>How falling confidence can deepen cyclical unemployment.</figcaption>
+</figure>
+
+
 ### Society
 
 Long spells can bring stress, ill health and loss of self-esteem. Unemployment may be concentrated in some regions or groups, such as young people, which widens inequality. Pressure on community services can grow, and in some areas crime may rise. These effects are harder to measure than output or tax.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## Evaluating the impact
 

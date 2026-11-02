@@ -52,6 +52,12 @@ confined to a single question.
   between the three forms as needed to compare and order a mixed set
   of values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+
 ## Why this topic follows Number directly
 
 Topic 1 (Number operations and integers) established calculation with
@@ -78,6 +84,12 @@ the most commonly misapplied percentage skills on this specification
 the wrong answer (£78.20) because £68 is 85% of the original, not
 100% of it minus something.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-decimals-and-percentages--05-reverse-percentage.webp" width="900" height="810" alt="A bar is split into 85% (68 pounds) and 15% (dashed). The whole bar is the original price, 80 pounds, found by 68 / 0.85. A warning shows that adding 15% of 68 to 68 gives 78.20, which is wrong." loading="lazy">
+  <figcaption>The sale price is 85% of the original, so divide by 0.85.</figcaption>
+</figure>
+
+
 ## Worked example: percentage multiplier
 
 A quantity of £1,800 grows by 5% per year, compounded annually, for
@@ -91,6 +103,17 @@ Using a single multiplier (1.05) rather than calculating 5% and adding
 it on each year is faster and less error-prone, and generalises
 directly to compound growth and decay problems that reappear in
 Topic 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-decimals-and-percentages--06-compound-growth.webp" width="900" height="910" alt="Bars show 1,800 pounds growing to 1,890 and then 1,984.50 pounds, each step multiplied by 1.05. The combined multiplier is 1.05 squared = 1.1025. Simple interest would give 1,980 pounds." loading="lazy">
+  <figcaption>Each year the 5% is taken of the new, larger amount, so the single multiplier is raised to a power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -112,6 +135,17 @@ Topic 5.
   eye** rather than converting them all to a common form first, which
   is unreliable once denominators or decimal places differ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
+
 ## Worked example: fraction of an amount versus fraction arithmetic
 
 It is worth distinguishing two skills that both fall under 2.1 but are
@@ -127,6 +161,17 @@ fraction of an amount -- which wastes time without being wrong in
 principle, just inefficient under exam conditions. The specification
 treats both as part of the same 2.1 Fractions sub-topic, so a revision
 plan that only drills one of the two skills leaves a genuine gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-decimals-and-percentages--07-fraction-of-amount.webp" width="900" height="640" alt="A bar for 45 pounds is cut into 5 parts of 9 pounds, with 3 shaded making 27 pounds. Working: 45 / 5 = 9, then 9 x 3 = 27." loading="lazy">
+  <figcaption>Divide by the bottom, then multiply by the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-decimals-and-percentages--10-fdp-add-two-thirds-quarter.webp" width="900" height="730" alt="Two bars are cut into 12 parts. The first shows 2/3 as 8 parts and the second shows 1/4 as 3 parts. Joined they fill 11 of 12 parts, so 2/3 + 1/4 = 8/12 + 3/12 = 11/12." loading="lazy">
+  <figcaption>Convert both fractions to twelfths, then add the tops only.</figcaption>
+</figure>
+
 
 ## How to approach it
 

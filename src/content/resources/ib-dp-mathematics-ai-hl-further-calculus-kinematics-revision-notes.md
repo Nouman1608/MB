@@ -52,6 +52,12 @@ Check your coverage against the [printable syllabus checklist](/checklists/ib/ib
 - **Acceleration (a):** rate of change of velocity.
 - **ẋ and ẍ:** dx/dt and d²x/dt².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--03-concavity-inflexion.webp" width="900" height="778" alt="The cubic is shaded copper where it is concave down (x &lt; 2) and teal where it is concave up (x &gt; 2). The local maximum (1, 6) has f″ = −6, the local minimum (3, 2) has f″ = 6, and the point of inflexion (2, 4) is where f″ = 0 and changes sign, with a tangent of gradient −3 that crosses the curve." loading="lazy">
+  <figcaption>A point of inflexion is where the second derivative changes sign, here at (2, 4).</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Topic | Result |
@@ -124,6 +130,12 @@ Work in radians for all calculus with trigonometric functions.
 - f(x) = x³ − 3x: f′′(x) = 6x, so the curve is concave-down for x < 0 and concave-up for x > 0, with an inflexion at (0, 0).
 - If v = 3 − t, the particle is at rest at t = 3 and changes direction there. At t = 5, v = −2 and speed = 2 m s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--09-back-then-forward.webp" width="900" height="800" alt="The velocity v = e^(0.5t) − 3 is negative until t = 2 ln 3 ≈ 2.20 s and positive after. The backward area is −2.59 and the forward area is +3.37, so displacement is 2e² − 14 ≈ 0.778 m while total distance is about 5.96 m." loading="lazy">
+  <figcaption>The particle moves back about 2.59 m then forward 3.37 m, so displacement is small but distance is larger.</figcaption>
+</figure>
+
+
 ## Using your GDC in this unit
 
 All three HL papers require technology, but the GDC supports the method rather than replacing it.
@@ -135,6 +147,12 @@ All three HL papers require technology, but the GDC supports the method rather t
 - **Checking derivatives:** the numerical derivative at a point is a quick check of a chain-rule or quotient-rule answer.
 - **Accuracy:** store intermediate values in the GDC memory and round only the final answer to 3 significant figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--05-net-integral-vs-area.webp" width="900" height="764" alt="The parabola y = x² − 4x + 3 crosses the x-axis at x = 1 and x = 3. The region above the axis from 0 to 1 gives +4/3 and the region below the axis from 1 to 3 gives −4/3, so the net integral is 0 but the area is 4/3 + 4/3 = 8/3." loading="lazy">
+  <figcaption>A definite integral counts area below the axis as negative, so split at the roots to find the total area.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Displacement vs distance:** displacement is ∫v dt and can be negative or zero; distance is ∫|v| dt and is never negative.
@@ -144,6 +162,12 @@ All three HL papers require technology, but the GDC supports the method rather t
 - **x-axis vs y-axis rotation:** πy² dx with x-limits versus πx² dy with y-limits.
 - **a = dv/dt vs a = v(dv/ds):** use the first when v is given in terms of t; use the second when v is given in terms of s.
 - **Speeding up vs slowing down:** same signs of v and a → speeding up; opposite signs → slowing down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--08-displacement-vs-distance.webp" width="900" height="1128" alt="Two graphs share a time axis from 0 to 5 s: displacement s above and velocity v = 3(t − 1)(t − 3) below. The particle is at rest at t = 1 and t = 3. The areas under v are +4, −4 and +20, so displacement is 20 m but total distance is 28 m. At t = 2.5 s, v = −2.25 and a = 3, so the particle is slowing down." loading="lazy">
+  <figcaption>Displacement adds the signed areas under v, but distance adds their sizes.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -175,6 +199,12 @@ All three HL papers require technology, but the GDC supports the method rather t
 11. a = v(dv/ds) = (2s + 3)(2) = 10 m s⁻²
 12. ẋ = −3 sin 3t, ẍ = −9 cos 3t = −9x
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--06-volume-about-x-axis.webp" width="900" height="818" alt="The region under y = e^(x/2) from x = 0 to 2 is shaded, with its reflection shown below the axis to suggest the solid. A thin vertical slice is a disc of radius y and area πy². Adding the discs gives V = π∫₀² eˣ dx = π(e² − 1) ≈ 20.1." loading="lazy">
+  <figcaption>Each thin slice of the solid is a disc of area πy², so V = π∫y² dx.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving out the inner derivative in the chain rule, such as d/dx(e^(4x)) written as e^(4x).
@@ -187,6 +217,12 @@ All three HL papers require technology, but the GDC supports the method rather t
 - Using x-limits, or πy², when the rotation is about the y-axis.
 - Giving displacement when the question asks for distance travelled, or quoting a negative speed.
 - Writing a GDC answer to fewer than 3 significant figures, or rounding early and carrying the error forward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--07-bowl-about-y-axis.webp" width="900" height="878" alt="The region between y = x² and the y-axis up to y = 9 is shaded, with its mirror image in copper. A thin horizontal slice at y = 6 is a disc of radius x, where x² = y. The volume is π∫₀⁹ y dy = 81π/2 ≈ 127 cm³." loading="lazy">
+  <figcaption>About the y-axis, use y-limits and write x² in terms of y.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

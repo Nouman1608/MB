@@ -50,6 +50,12 @@ So every cost gets two labels, one from each pair. A cost can be fixed and direc
 
 A fixed cost is a cost whose total stays the same when the quantity produced or sold changes, at least over the output range the business is dealing with. Examples are rent on a workshop, insurance, a manager's salary and a monthly software subscription. The word "fixed" refers to the total. Fixed cost per unit is not fixed: it falls as output rises, because the same total is shared across more units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+
 ## Variable costs
 
 A variable cost is a cost whose total changes as output changes. Raw materials, packaging, and wages paid per item made are typical examples. Variable cost per unit stays the same (in the simple model used in school courses), so doubling output doubles total variable cost. Check the scenario wording: wages paid per piece produced are variable, while a salary paid monthly regardless of output is fixed.
@@ -57,6 +63,12 @@ A variable cost is a cost whose total changes as output changes. Raw materials, 
 ## Direct costs
 
 A direct cost can be traced to a particular product, service, department or unit of output. Materials used to make one product and labor paid to make that product are direct costs of that product. The test is traceability: could you point to the product and say how much of this cost it caused?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--05-direct-indirect-test.webp" width="900" height="1132" alt="A yes/no question (could you point at the product and say how much of this cost it caused?) sorts Harbour Pine costs into direct (15,300) and indirect (6,280), each with a fixed or variable chip. Machine lease is fixed yet direct; glue and sandpaper are variable yet indirect." loading="lazy">
+  <figcaption>Directness is a traceability test, separate from whether a cost is fixed or variable.</figcaption>
+</figure>
+
 
 ## Indirect costs (overheads)
 
@@ -103,6 +115,22 @@ Suppose next month the workshop sells 50 tables and still 120 chairs. Table vari
 
 The machine lease per table fell from 500 ÷ 40 = 12.50 to 500 ÷ 50 = 10.00 dollars. The total did not move; the share carried by each table did. This is the fixed-cost-per-unit effect, and it is why business owners often want higher output when fixed costs are heavy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--05-costs-two-labels.webp" width="900" height="860" alt="A grid with fixed and variable columns and direct and indirect rows, filled with Harbour Pine Joinery costs: machine lease 500 (fixed direct), rent 2,400, insurance 300, salary 3,200 and website 60 (fixed indirect, 5,960), tables 10,000 and chairs 4,800 (variable direct, 14,800) and glue 320 (variable indirect). Two bars show the 21,580 total split by behaviour and by traceability." loading="lazy">
+  <figcaption>Each cost is both fixed or variable and direct or indirect, but the total is the same either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--06-costs-fixed-per-unit.webp" width="900" height="850" alt="A 500 dollar monthly machine lease is spread over 40 tables (12.50 each) and over 50 tables (10.00 each). The total is unchanged; the share per table falls." loading="lazy">
+  <figcaption>Fixed cost per unit falls as output rises because the same total is shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+
 ## Why the distinctions matter to a business
 
 - Knowing which costs are variable shows what extra output will add to spending. Knowing which are fixed shows what must be paid even if sales are poor.
@@ -140,6 +168,17 @@ Reading the table: the largest stream is the tours, at about 30 percent. No stre
 Now test a price rise on one stream. If hire rises from 14 to 16 dollars and hours fall to 780, revenue from hire becomes 16 × 780 = 12,480, which is lower than 12,600. If the rise were to 15 dollars and hours fell only to 880, revenue would be 13,200, which is higher. Same direction of price change, opposite effect on revenue, because the fall in quantity differs.
 
 The membership line deserves a small note. If members pay 120 dollars up front for a year, a business may collect the cash in one month although the service lasts twelve. Treat that as a reminder that revenue and cash flow are different ideas, which section 3.7 covers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--07-revenue-streams.webp" width="900" height="850" alt="Five streams for Duskwater Kayak Hire in dollars: hire 12,600 (23.6%), tours 15,960 (29.9%), cafe 13,760 (25.7%), merchandise 5,735 (10.7%), memberships 5,400 (10.1%). Together 53,455." loading="lazy">
+  <figcaption>Total revenue is the sum of each stream calculated as price times quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--08-price-up-revenue.webp" width="900" height="700" alt="Revenue is drawn as a rectangle of price by hours. At 14 dollars and 900 hours revenue is 12,600. At 16 dollars and 780 hours it falls to 12,480. At 15 dollars and 880 hours it rises to 13,200." loading="lazy">
+  <figcaption>The same direction of price change can raise or lower revenue, depending on the fall in quantity.</figcaption>
+</figure>
+
 
 ## Answering exam questions on this section
 

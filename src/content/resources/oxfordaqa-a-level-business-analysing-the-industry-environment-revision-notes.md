@@ -48,6 +48,12 @@ Exam-style set: [practice questions](/resources/oxfordaqa-a-level-business-analy
 
 **Rule of thumb:** strong forces mean lower industry profitability; weak forces mean higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## What makes each force strong
 
 | Force | Strong if... | Firm might weaken it by... |
@@ -57,6 +63,12 @@ Exam-style set: [practice questions](/resources/oxfordaqa-a-level-business-analy
 | Supplier power | few suppliers, unique input, costly to switch, firm is a small customer | multiple suppliers, long contracts, alternative inputs, backward integration |
 | Entry threat | low set-up costs, no licences, little know-how needed, weak loyalty, open distribution | economies of scale, patents, exclusive distribution deals, loyalty |
 | Substitute threat | close alternatives, better value, easy to switch | better value, product development, bundling |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
 
 ## Useful numbers from AS
 
@@ -80,6 +92,12 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 4. **Explain the impact** on this business's price, cost, volume and profit.
 5. **Prioritise:** which one or two forces matter most, and why.
 6. **Recommend or judge**, saying what the answer depends on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
 
 ## Method in steps: responding to a change in a force
 

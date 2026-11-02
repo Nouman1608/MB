@@ -63,6 +63,17 @@ A valid probability function has every p(x) between 0 and 1 and a total of exact
 2. The final total must be 1.
 3. Write F as a table or state the value for each x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--01-pmf-to-cdf.webp" width="900" height="1076" alt="Two bar charts for a variable with p(x) = (6 minus x)/14 for x = 1 to 4. The top chart shows p(x) as 5/14, 4/14, 3/14, 2/14 with x = 3 and 4 highlighted as P(X &gt; 2). The lower chart shows F(x) = 5/14, 9/14, 12/14, 1, and the gap from F(2) up to 1 equals 5/14, so P(X &gt; 2) = 1 - F(2)." loading="lazy">
+  <figcaption>How p(x) builds F(x), and why P(X &gt; 2) = 1 - F(2) = 5/14.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--07-bernoulli-to-binomial.webp" width="900" height="980" alt="Three trials each succeed with probability 0.4. The 8 outcomes are grouped by successes x: 1 way for x = 0 (0.216), 3 ways for x = 1 (0.432 in total), 3 ways for x = 2 (0.288), 1 way for x = 3 (0.064). One trial has mean 0.4 and variance 0.24; three have np = 1.2 and npq = 0.72." loading="lazy">
+  <figcaption>Why the binomial has coefficients nCx: it counts the arrangements of successes.</figcaption>
+</figure>
+
+
 ## 5.3: expectation and variance
 
 ### Formulas
@@ -93,6 +104,27 @@ E(X²)  = 0 + 0.2 + 1.6 + 2.7        = 4.5
 Var(X) = 4.5 − 1.9² = 4.5 − 3.61    = 0.89
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--02-mean-balance-point.webp" width="900" height="820" alt="A bar chart of X = 0 to 4 with probabilities 0.10, 0.30, 0.35, 0.20, 0.05 balanced on a plank with the pivot at 1.8 = E(X). A gold band shows the mean plus and minus one standard deviation, 1.03. E(X^2) = 4.3 so Var(X) = 4.3 - 3.24 = 1.06." loading="lazy">
+  <figcaption>E(X) is where the distribution balances; Var(X) measures spread about it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--03-linear-change-ax-b.webp" width="900" height="920" alt="Two bar charts on one scale. X takes 0 to 4 with mean 1.8 and variance 1.06. Y = 4X - 3 takes -3, 1, 5, 9, 13 with the same bar heights: the mean moves to 4.2 and the variance is 16 times larger, 16.96. Adding b shifts, multiplying by a stretches." loading="lazy">
+  <figcaption>Shifting moves the mean only; scaling by a multiplies the variance by a squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--05-variance-adds.webp" width="900" height="930" alt="Two bar charts on the same scale for two independent fair dice. X + Y runs from 2 to 12 with mean 7. X - Y runs from -5 to 5 with mean 0. Both have the same spread, variance 35/6 = 5.83, because Var(X +/- Y) = Var(X) + Var(Y)." loading="lazy">
+  <figcaption>Means follow the sign; variances always add, so X + Y and X - Y have the same spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--09-binomial-mean-variance.webp" width="900" height="1170" alt="Three bar charts of B(20, p). For p = 0.2 the mean is 4 and the variance 3.2; for p = 0.5 the mean is 10 and the variance 5, the widest; for p = 0.8 the mean is 16 and the variance 3.2. A dashed line marks each mean and a gold band one standard deviation either side." loading="lazy">
+  <figcaption>Mean np and variance npq, and why the spread is greatest at p = 0.5.</figcaption>
+</figure>
+
+
 ## 5.4: the discrete uniform distribution
 
 | Quantity | Value for x = 1, 2, …, n |
@@ -110,6 +142,12 @@ For consecutive whole numbers that start somewhere else, subtract to get back to
 3. Write the mean and variance for the shifted variable.
 4. Undo the shift: add the constant to the mean and leave the variance unchanged.
 5. Probabilities are each 1/n, so a probability for a range is the number of values in that range divided by n.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--04-discrete-uniform.webp" width="900" height="770" alt="Ten equal bars of height 0.1 for X = 1 to 10. The mean 5.5 is at the centre and a gold band marks one standard deviation either side. For n = 10, E(X) = 5.5 and Var(X) = 99/12 = 8.25; a fair die (n = 6) has mean 3.5 and variance 35/12." loading="lazy">
+  <figcaption>Equal bars: the mean sits at the centre, (n + 1)/2.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -133,6 +171,12 @@ a + b + 0.2 = 1           so a + b = 0.8
 Subtract: b = 0.7, then a = 0.1
 Check: 0.2 + 2.8 + 1.2 = 4.2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--08-binomial-probabilities.webp" width="900" height="1040" alt="Two bar charts of B(12, 0.35). The bar at x = 4 is highlighted: P(X = 4) = 495 x 0.35^4 x 0.65^8 = 0.2367. In the second chart the bars up to 4 sum to 0.5833 and those from 5 upward sum to 1 - 0.5833 = 0.4167, so P(X &gt;= 5) = 1 - P(X &lt;= 4)." loading="lazy">
+  <figcaption>A single probability, and why &quot;at least 5&quot; is one minus the cumulative probability up to 4.</figcaption>
+</figure>
+
 
 ### A linear change of a uniform variable
 

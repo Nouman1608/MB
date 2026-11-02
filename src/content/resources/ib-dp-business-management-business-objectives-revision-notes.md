@@ -50,6 +50,12 @@ The guide does not give formal definitions, so these are the standard forms.
 
 **Must-know distinction:** a statement is not an objective. An objective is a specific target set to move toward the statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--02-vision-mission-objectives.webp" width="900" height="820" alt="Three stacked boxes: the vision is the future picture, the mission is what Elmgrave Bakery does now (local flour, fair pay, opening early), and objectives are measurable targets. Neither statement is an objective." loading="lazy">
+  <figcaption>Vision gives direction, mission describes today, and objectives turn direction into targets.</figcaption>
+</figure>
+
+
 ## Common objectives
 
 | Objective | What it means | Typical measure | Main benefit | Main risk |
@@ -70,6 +76,12 @@ The guide does not give formal definitions, so these are the standard forms.
 
 The guide does not give these formulas for 1.3. They are the usual textbook forms, so state which one you use and show the working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--03-tindale-return.webp" width="900" height="920" alt="Per-share bars: opening price 12.50, price change -1.50, dividend +0.50, value held 11.50. Return is -8%. For 2,000,000 shares market value fell from 25.0m to 22.0m, softened by 1.0m dividends." loading="lazy">
+  <figcaption>A dividend softens a share price fall but the return was still -8%.</figcaption>
+</figure>
+
+
 ### Method for a growth or profit calculation
 
 1. Write the formula.
@@ -79,11 +91,23 @@ The guide does not give these formulas for 1.3. They are the usual textbook form
 
 **Small worked reminder.** A firm's sales rise from 80 to 92 (thousand units). Growth = (92 − 80) ÷ 80 × 100 = 15%. A net profit of 45 on revenue of 600 gives a margin of 45 ÷ 600 × 100 = 7.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--04-growth-margin.webp" width="900" height="900" alt="Indexed bars show sales up 15% (2.40m to 2.76m) and net profit up about 7.3% (180k to 193.2k). Net profit margin falls from 7.5% to 7.0%." loading="lazy">
+  <figcaption>The growth objective was met, but the margin fell because profit grew more slowly than sales.</figcaption>
+</figure>
+
+
 ### Growth and profit can pull apart
 
 - Growth bought with discounts raises sales but squeezes the margin.
 - Profit pushed up by cost cuts may harm quality, so growth stalls later.
 - A new business often accepts low profit to build a customer base.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## Strategic and tactical objectives
 
@@ -102,6 +126,12 @@ The guide does not give these formulas for 1.3. They are the usual textbook form
 - If conditions change, strategic objectives may need revision. This links to the guide's inquiry statement about why objectives might change over time.
 
 **Spotting the type in a question:** look for a time frame (five years versus this quarter), the unit it applies to (whole firm versus one team) and whether it states a destination or an action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-business-objectives--05-strategic-tactical.webp" width="900" height="880" alt="A strategic objective (lead in sustainable clothing in 7 years) sits above three tactical objectives: cut packaging waste by a fifth this quarter, train sales staff on repairs within six months, raise recycled fabric from 20% to 40% by end of next year. An arrow shows tactical aims supporting the strategic aim." loading="lazy">
+  <figcaption>Tactical objectives are short-term steps that support the long-term strategic objective.</figcaption>
+</figure>
+
 
 ## CSR
 

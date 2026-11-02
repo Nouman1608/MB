@@ -63,6 +63,12 @@ The specification shows the reaction for ethene like this:
 3. Add a bond line out of each end, **through the brackets**, to show the chain carries on.
 4. Write **n** after the closing bracket, matching the n in front of the monomer: n monomers make one chain of n units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+
 ### Worked example 1: poly(propene)
 
 Propene is CH₂=CH–CH₃. One carbon of the double bond carries two H atoms; the other carries one H and a CH₃ group, which stays as a side branch.
@@ -100,6 +106,22 @@ A chemist makes poly(propene) chains each containing 3200 propene units. Find th
 
 Because the polymer is the only product, the mass of polymer equals the mass of monomer that reacted: 50 kg of propene gives at most 50 kg of poly(propene).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--03-bromine-monomer-polymer.webp" width="900" height="920" alt="Propene has a C=C double bond, so it is unsaturated and turns orange bromine water colourless. Poly(propene) has only C-C single bonds in the chain, so it is saturated and bromine water stays orange. The test tells the monomer from the polymer." loading="lazy">
+  <figcaption>Propene decolourises bromine water; poly(propene) does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+
 ## 3.10.2 b: Properties depend on monomer and conditions
 
 - **What it is made from.** Different monomers give different side groups, which change how chains pack. Poly(ethene) and poly(propene) differ for this reason.
@@ -124,6 +146,12 @@ Which grade suits thin, stretchy food wrap, and which suits rigid crates washed 
 - Food wrap: **LD poly(ethene)**. Branched chains cannot pack closely, so forces between chains are weaker and the chains slide past each other.
 - Crates: **HD poly(ethene)**. Closely packed straight chains have stronger forces between them, so the plastic is rigid and softens at a higher temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--01-ld-hd-polyethene.webp" width="900" height="1070" alt="LD poly(ethene) chains carry many side branches that keep them apart, giving lower density and softer plastic. HD chains are mostly straight with few branches and pack closely, giving higher density and stiffer plastic. Both come from ethene; LD needs very high pressure and temperature, HD lower pressure with a special catalyst." loading="lazy">
+  <figcaption>Branching stops LD chains packing closely; straight HD chains pack tightly.</figcaption>
+</figure>
+
+
 ## 3.10.2 c: Thermosoftening and thermosetting polymers
 
 **Thermosoftening polymers** are made of individual polymer chains, tangled together like cooked spaghetti. Each chain is held together by strong covalent bonds, but there are no bonds joining one chain to the next. The chains are held to each other only by weak **intermolecular forces**.
@@ -146,6 +174,12 @@ On cooling, the forces re-form and the polymer sets again, so it can be reshaped
 *Answer:* In the thermosoftening polymer, the chains are separate and held together only by weak intermolecular forces. Heat overcomes these forces so the chains move past each other and the bowl softens. In the thermosetting polymer, the chains are joined by strong covalent cross-links, which do not break at oven temperature, so the chains stay in place and the bowl keeps its shape.
 
 The answer names the force or bond in each case and says what happens to it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--02-thermosoftening-thermosetting.webp" width="900" height="1040" alt="Top: separate chains joined only by weak dashed intermolecular forces; heating overcomes them so chains slide and the plastic softens. Bottom: chains joined by strong covalent cross-links drawn as thick bars; heating does not break them so the plastic does not melt." loading="lazy">
+  <figcaption>Weak forces between chains let a thermosoftening polymer soften; covalent cross-links stop a thermosetting polymer melting.</figcaption>
+</figure>
+
 
 ## 3.10.2 d: New materials and their uses
 
@@ -180,6 +214,12 @@ This causes problems with waste disposal:
 
 - **Landfill sites.** Polymer waste does not rot, so it fills space that is running out, and new sites use more land.
 - **Litter.** Discarded plastic lasts for years, spoils streets, beaches and countryside, and harms animals that swallow it or get tangled in it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
 
 ## 3.10.2 f: Cornstarch and biodegradable plastics
 

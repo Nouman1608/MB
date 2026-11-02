@@ -76,6 +76,17 @@ Not required by the guide: permutations with identical objects, circular arrange
 
 Worked reminder: 4 different red cards and 3 different blue cards in a row, with the blue cards together. Treat the blues as one block, so arrange 5 items in 5! = 120 ways, then order the blues in 3! = 6 ways: 120 × 6 = 720.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--01-perm-vs-comb.webp" width="900" height="1020" alt="Eight runners A to H, with A, B and C on a podium. The six orders in which A, B, C could stand are listed. Because podium order matters there are 8 x 7 x 6 = 336 ways (8P3); ignoring order each group of three is counted 3! = 6 times, giving 56 groups (8C3)." loading="lazy">
+  <figcaption>Order matters for a podium (nPr) but not for a committee (nCr): nCr = nPr / r!.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--02-at-least-complement.webp" width="900" height="1030" alt="Bar chart of 5-person committees from 6 teachers and 4 parents by number of parents: 6, 60, 120, 60, 6, totalling 252. Removing the k = 0 and k = 1 bars leaves 252 - 6 - 60 = 186, matching 120 + 60 + 6." loading="lazy">
+  <figcaption>Count the unwanted cases and subtract from the total.</figcaption>
+</figure>
+
+
 ### Binomial expansion with n ∈ ℚ
 
 ```
@@ -90,6 +101,12 @@ Worked reminder: (1 + x)^(1/2) = 1 + x/2 − x²/8 + …, valid for |x| < 1.
 
 Worked reminder with a ≠ 1: √(9 − x) = 3(1 − x/9)^(1/2) = 3(1 − x/18 − x²/648 + …) = 3 − x/6 − x²/216 + …, valid for |x| < 9.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--03-binomial-rational-validity.webp" width="900" height="1010" alt="Graph of 1/(1-2x)^2 and its series 1 + 4x + 12x^2 + 32x^3 for x from -0.7 to 0.7. The curves agree near zero and separate towards and beyond |x| = 1/2, the validity limit. A note shows sqrt(4.2) is about 2.049391 from the sqrt(4 + x) expansion." loading="lazy">
+  <figcaption>The expansion is valid only for |-2x| &lt; 1, i.e. |x| &lt; 1/2.</figcaption>
+</figure>
+
+
 ### Partial fractions
 
 ```
@@ -99,6 +116,12 @@ Worked reminder with a ≠ 1: √(9 − x) = 3(1 − x/9)^(1/2) = 3(1 − x/18 �
 4. Substitute each root, or equate coefficients
 5. Check with one value of x
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--04-partial-fractions-graph.webp" width="900" height="1000" alt="Graph of (4x+7)/((x+1)(x+2)) with its parts 3/(x+1) and 1/(x+2), sharing vertical asymptotes x = -1 and x = -2. Substituting x = -1 gives A = 3 and x = -2 gives B = 1; check at x = 0: 7/2 = 3 + 1/2." loading="lazy">
+  <figcaption>The whole fraction equals the sum of its two partial fractions everywhere it is defined.</figcaption>
+</figure>
+
 
 ### Induction layout
 
@@ -113,6 +136,12 @@ Divisibility tip: write aᵏ⁺¹ as a × aᵏ, then split off a multiple of the
 
 Differentiation tip: differentiate the assumed formula for the k-th derivative once, and factorise to the k + 1 form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--05-induction-dominoes.webp" width="900" height="1000" alt="Dominoes fall in a chain from a push at the first; each is labelled with n and the sum of r(r+1): 2, 8, 20, 40, 70. Four steps follow: basis, assumption, inductive step S_k + (k+1)(k+2) = (k+1)(k+2)(k+3)/3, conclusion." loading="lazy">
+  <figcaption>Induction: if P(1) is true and P(k) implies P(k+1), every domino falls.</figcaption>
+</figure>
+
+
 ### Contradiction layout
 
 ```
@@ -126,6 +155,12 @@ Differentiation tip: differentiate the assumed formula for the k-th derivative o
 Worked reminder, ∛5 is irrational: suppose ∛5 = p/q in lowest terms. Then p³ = 5q³, so 5 divides p³ and hence p (5 is prime). Write p = 5s: 125s³ = 5q³, so q³ = 25s³ and 5 divides q. Both p and q have the factor 5, a contradiction.
 
 The guide's examples of this type include the irrationality of √3 and of the cube root of 5, the infinitude of primes (Euclid), and that rational + irrational is irrational.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--08-contradiction-root3.webp" width="900" height="1064" alt="Five-step chain: assume sqrt3 = p/q in lowest terms; p^2 = 3q^2; p multiple of 3, p = 3s; q^2 = 3s^2 so q is a multiple of 3; common factor 3 contradicts the assumption, so sqrt3 is irrational." loading="lazy">
+  <figcaption>Assuming the opposite leads to an impossibility.</figcaption>
+</figure>
+
 
 ### Linear systems by elimination
 
@@ -142,6 +177,12 @@ Worked reminder: x + y + z = 1, x + 2y + 3z = 4, 2x + 3y + 4z = 6. Subtracting t
 
 On Paper 2 or 3, a GDC solver or matrix row reduction can do the arithmetic. The guide expects both algebraic and technological methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--06-linear-system-cases.webp" width="900" height="1000" alt="Map of the (k, m) plane for the system in worked example 12. Every k not equal to 7 gives a unique solution; on the line k = 7 there is no solution except at (7, 8), where there are infinitely many, x = 3 - 2t, y = 1 + t, z = t." loading="lazy">
+  <figcaption>The last row (k - 7)z = m - 8 decides between unique, no and infinitely many solutions.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Permutation vs combination:** a president and secretary (ordered) vs a pair of reps (unordered). ⁵P₂ = 20 but ⁵C₂ = 10.
@@ -151,6 +192,12 @@ On Paper 2 or 3, a GDC solver or matrix row reduction can do the arithmetic. The
 - **No solution vs infinitely many:** 0 = 5 in the last line means inconsistent; 0 = 0 means infinitely many.
 - **Substitution vs equating coefficients:** substituting the roots of the denominator is quickest; equating coefficients works every time and makes a good check.
 - **Identity vs equation:** partial fractions are identities (≡), true for every x in the domain, which is why you can substitute any convenient x.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--07-counterexample-prime.webp" width="900" height="1040" alt="Dot plot of n^2 - n + 11 for n = 0 to 12. Values for n = 0 to 10 are prime (circles); n = 11 gives 121 = 11 x 11 and n = 12 gives 143 = 11 x 13, both not prime (crossed squares)." loading="lazy">
+  <figcaption>One counterexample, with an explanation, disproves a statement.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

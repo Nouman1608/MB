@@ -65,6 +65,12 @@ If you are sitting the Core papers, you still need every Core line here in full.
 - few ethical concerns over their manipulation and growth
 - presence of plasmids, which can carry an inserted gene into bacteria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--01-bacteria.webp" width="900" height="1130" alt="Three panels. One: one bacterium becomes 2, 4 then 8 as numbers double, showing rapid reproduction. Two: a bacterium makes a protein, a complex molecule. Three, Extended: a bacterial cell with a main DNA loop and small plasmids; a plasmid can be opened, given a gene and closed; growing bacteria raises few ethical concerns." loading="lazy">
+  <figcaption>Bacteria multiply fast, make complex molecules and carry plasmids that can take a new gene.</figcaption>
+</figure>
+
+
 ## 21.2 Biotechnology
 
 ### Summary table
@@ -120,6 +126,27 @@ Where temperature is involved, finish with enzyme ideas from topic 5: rate rises
 
 Products to name: **insulin** (GM bacteria), **penicillin** (fungus), **mycoprotein** (fungus).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--02-yeast.webp" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Extended equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise." loading="lazy">
+  <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--03-pectinase.webp" width="900" height="1000" alt="Pectin holds plant cells together. Pectinase breaks down pectin and cell walls so juice leaks out. Measuring cylinders show 18.0 cm3 of cloudy juice without pectinase and 27.0 cm3 of clearer juice with it, an increase of 9.0 cm3 or 50 percent." loading="lazy">
+  <figcaption>Pectinase gives 50% more juice, and clearer juice, in the worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
+</figure>
+
+
 ## 21.3 Genetic modification
 
 ### Four Core examples
@@ -156,6 +183,17 @@ Products to name: **insulin** (GM bacteria), **penicillin** (fungus), **mycoprot
 4. Repeat until the marks are covered, keeping both sides roughly balanced.
 
 A list of advantages alone cannot reach full marks, however long it is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

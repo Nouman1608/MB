@@ -119,6 +119,12 @@ Fehling's solution would have turned 3-methylbutanal green as well.
 Had the fifth bottle held 2-methylbutan-2-ol (tertiary) instead, both liquids at step 4 would stay
 orange, and only IR could separate them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## 3.3.6.2 Mass spectrometry: from precise mass to molecular formula
 
 The time of flight mass spectrometer, and its use to find relative molecular mass, belong to 3.1.1.2 and
@@ -161,6 +167,12 @@ C7H16N2 : 7(12.0000) + 16(1.0078) + 2(14.0031)           = 128.1310
 Only C₈H₁₆O matches, so L is **C₈H₁₆O**. This is a molecular formula, not a structure. C₈H₁₆O could be an
 aldehyde, a ketone, an unsaturated alcohol or a cyclic alcohol. Worked example 4 narrows it down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
+
 ## 3.3.6.3 Infrared spectroscopy
 
 ### Why bonds absorb
@@ -188,6 +200,12 @@ on this page. In an exam, read the values from the booklet you are given.
 
 O–H bands are broad because [hydrogen bonding](/resources/oxfordaqa-a-level-chemistry-shapes-polarity-and-intermolecular-forces/)
 spreads the O–H bond strengths over a range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
 
 ### Fingerprinting
 

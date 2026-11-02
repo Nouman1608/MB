@@ -60,6 +60,12 @@ Each element has its own set of energy-level gaps, so its own pattern of lines. 
 
 Rank by photon energy: yellow light from a sodium lamp (589 nm), infrared from a heat lamp, ultraviolet from a sunbed. Wavelength falls from infrared to yellow to ultraviolet, so frequency and energy rise in that order: **infrared < yellow < ultraviolet**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--01-line-spectrum.webp" width="900" height="1000" alt="An electron on a lower level takes in energy and jumps to a higher level; it then drops back and emits one photon with energy equal to the gap. Below, a continuous spectrum is a smooth band of every colour and a line spectrum is a dark strip with a few separate coloured lines." loading="lazy">
+  <figcaption>Electrons drop between fixed levels and give out photons of fixed energy, so each element gives separate lines rather than a continuous band.</figcaption>
+</figure>
+
+
 ## The hydrogen emission spectrum (1.3.2)
 
 Every hydrogen line comes from its single electron dropping from a higher level to a lower one.
@@ -105,6 +111,12 @@ Use these values for hydrogen energy levels, in kJ mol⁻¹: n = 2, −328; n = 
 
 The n = 3 → 2 line is the red line of the hydrogen spectrum, at about 656 nm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--02-hydrogen-levels.webp" width="900" height="1178" alt="An energy-level diagram of hydrogen from n = 1 to n = 5 with the levels crowding towards n = infinity. Arrows show drops to n = 1 (ultraviolet), n = 2 (visible, including 3 to 2 at 182.2 kJ per mol and 4 to 2 at 246.0 kJ per mol) and n = 3 (infrared)." loading="lazy">
+  <figcaption>Drops to n = 1 give ultraviolet, to n = 2 visible and to n = 3 infrared; the levels crowd together as n rises.</figcaption>
+</figure>
+
+
 ## Main energy levels (1.3.3)
 
 Each main energy level has an integer number n, counting outwards from the nucleus. Level n holds at most **2n²** electrons.
@@ -128,6 +140,12 @@ An **orbital** is a region around the nucleus in which an electron is very likel
 
 - An **s orbital** is a sphere with the nucleus at its centre.
 - A **p sublevel** has three dumbbell-shaped p orbitals, each with two lobes either side of the nucleus. They lie along the x, y and z axes at right angles to each other (px, py, pz) and have equal energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--03-orbital-shapes.webp" width="900" height="990" alt="An s orbital is a sphere around the nucleus. The three p orbitals are dumbbells with two lobes each, lying along the x, y and z axes at right angles to one another and with equal energy." loading="lazy">
+  <figcaption>An s orbital is a sphere; the three p orbitals are dumbbells along the x, y and z axes.</figcaption>
+</figure>
+
 
 ## Orbitals and the three filling rules (1.3.5)
 
@@ -185,6 +203,12 @@ Two atoms below Z = 36 break the simple filling order:
 
 The 4s and 3d sublevels are close in energy. Moving one electron from 4s into 3d gives a half-filled 3d⁵ set (Cr) or a filled 3d¹⁰ set (Cu), which lowers the overall energy. Chromium ends up with six unpaired electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--05-cr-cu.webp" width="900" height="796" alt="Boxes for 4s and 3d show that chromium is [Ar] 3d5 4s1 (half-filled 3d, six unpaired electrons) not 3d4 4s2, and copper is [Ar] 3d10 4s1 (full 3d, one unpaired electron) not 3d9 4s2." loading="lazy">
+  <figcaption>One 4s electron moves to 3d in Cr and Cu, giving a half-filled or full 3d set.</figcaption>
+</figure>
+
+
 ### Worked example 6: the bromide ion, Z = 35
 
 ```
@@ -194,6 +218,17 @@ Br⁻ ion:  add 1 electron to 4p
 ```
 
 Br⁻ has the same configuration as krypton. For a negative ion, add electrons to the next free place in the Aufbau order. For a positive ion, remove electrons from the highest main level first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--04-sulfur-orbitals.webp" width="900" height="844" alt="An orbital diagram of sulfur with 1s, 2s, 2p, 3s and 3p boxes, higher energy higher up. All boxes are full except 3p, where one electron sits in each box and the fourth pairs up, leaving two unpaired electrons. Labels name the Aufbau, Pauli and Hund rules." loading="lazy">
+  <figcaption>Electrons fill the lowest energy first, at most two per box with opposite spins, singly before pairing: sulfur is [Ne] 3s2 3p4 with two unpaired electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--06-ions.webp" width="900" height="1010" alt="Orbital boxes show Mn losing two electrons from 4s first to form Mn2+ with [Ar] 3d5 (five unpaired electrons), and Br gaining one electron into 4p to form Br- with 36 electrons, the same as krypton." loading="lazy">
+  <figcaption>Positive ions lose electrons from the highest main level (4s before 3d); negative ions add electrons to the next free place.</figcaption>
+</figure>
+
 
 ## HL only: the convergence limit and first ionization energy (1.3.6)
 
@@ -225,9 +260,21 @@ Period 2 first ionization energies, in kJ mol⁻¹ (use these values):
 - **Dip from Be to B**: boron's electron comes from 2p, a sublevel of higher energy than 2s, so less energy is needed.
 - **Dip from N to O**: in oxygen, one 2p orbital holds a pair. Repulsion between the paired electrons makes one of them easier to remove than any of nitrogen's three unpaired 2p electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--08-period2-ie.webp" width="900" height="1010" alt="A graph of first IE from Li to Ne (520, 900, 801, 1086, 1402, 1314, 1681, 2081 kJ per mol) with dips ringed at B and O. Orbital boxes show boron has a lone 2p electron, higher in energy than 2s, and oxygen has a pair in one 2p box whose repulsion makes one electron easier to remove." loading="lazy">
+  <figcaption>HL only: B dips because its outer electron is in 2p; O dips because of repulsion between paired 2p electrons.</figcaption>
+</figure>
+
+
 ### Trend down a group
 
 First IE falls down a group. The outer electron is in a higher main level, further from the nucleus and more shielded, which outweighs the extra nuclear charge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--07-convergence-ie.webp" width="900" height="1070" alt="A photon at the convergence limit lifts the ground-state electron out of the atom (n = infinity); that energy gap is the first ionization energy. A flow from 241 nm gives 8.25 x 10^-19 J per atom, 4.97 x 10^5 J per mol and 497 kJ per mol." loading="lazy">
+  <figcaption>HL only: first IE = hc/lambda at the convergence limit, multiplied by L and divided by 1000.</figcaption>
+</figure>
+
 
 ## HL only: successive ionization energies (1.3.7)
 
@@ -243,6 +290,12 @@ The largest increase is between the 4th and 5th values.
 4 electrons are removed before the jump -> 4 outer electrons
 Silicon is in group 14 (configuration [Ne] 3s² 3p²).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-configurations--09-successive-ie-si.webp" width="900" height="1020" alt="A log-scale graph of silicon's five successive ionization energies rises gently then jumps sharply from the 4th to the 5th. A silicon atom with shells of 2, 8 and 4 electrons shows the four outer electrons; four come off before the jump, so group 14." loading="lazy">
+  <figcaption>HL only: the number of electrons removed before the big jump equals the outer electrons and gives the group.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -78,6 +78,12 @@ sin²θ / cos²θ = (sin θ / cos θ)² = tan²θ
 
 For a "show that", write each step and finish on exactly the expression you were given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
+  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+</figure>
+
+
 ## Solving a basic equation in an interval
 
 The inverse function (sin⁻¹, cos⁻¹ or tan⁻¹) returns one value, the principal value. The interval may contain others, so you find the rest from the symmetry of the graph. Write α for the acute reference angle, found by ignoring the sign on the right-hand side.
@@ -116,6 +122,17 @@ sine is negative in the 3rd and 4th quadrants:
 
 Solutions: **θ = 203.6° and 336.4°** (to 1 d.p.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--05-arcsin-sin-trap.webp" width="900" height="910" alt="The zigzag graph of arcsin(sin x) against the line y = x. They agree only for x between −π/2 and π/2. At x = 5π/6 the value is π/6." loading="lazy">
+  <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--07-sin-sum-proof.webp" width="900" height="880" alt="Triangle XYZ is split by a perpendicular ZW into angles A and B. Its area is ½pq sin(A+B) and also ½ph sin A + ½qh sin B; with h = q cos B = p cos A this gives sin(A+B) = sin A cos B + cos A sin B." loading="lazy">
+  <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
+</figure>
+
+
 ### Worked example 4: tan θ = 2.5, 0° ≤ θ ≤ 360°
 
 ```
@@ -124,6 +141,12 @@ Solutions: **θ = 203.6° and 336.4°** (to 1 d.p.).
 ```
 
 Solutions: **θ = 68.2° and 248.2°**. The next value, 428.2°, is outside the interval.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--02-cot-graph.webp" width="900" height="880" alt="Cotangent from 0 to 2π with tangent dotted. Asymptotes at 0, π and 2π; each branch falls and crosses zero at π/2 and 3π/2, where tangent is undefined. Period π." loading="lazy">
+  <figcaption>Cot x falls in every branch, has period π and equals 0 where tan x is undefined.</figcaption>
+</figure>
+
 
 ### Worked example 5: radians, cos θ = 0.3, −π ≤ θ ≤ π
 
@@ -147,6 +170,17 @@ On the unit circle, sin θ is the height of the point and cos θ is its horizont
 | sin θ and cos θ in a linear equation | Divide by cos θ to get tan θ |
 | Squared function plus the other function | Substitute with sin²θ + cos²θ = 1, then solve the quadratic |
 | Common factor on both sides | Move everything to one side and factorise |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
+  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+</figure>
+
 
 ## Equations with a shifted angle
 

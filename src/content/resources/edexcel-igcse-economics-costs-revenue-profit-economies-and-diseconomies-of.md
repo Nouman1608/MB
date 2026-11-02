@@ -81,6 +81,27 @@ Three readings:
 - ATC is lowest at 500 candles (12.00).
 - Profit is highest at 600 candles (2,100), even though ATC there is higher. The lowest cost per unit is not automatically the highest profit, because profit also depends on how many units are sold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of--09-igcse-kestrel-profit-vs-atc.webp" width="900" height="990" alt="Profit for 100 to 700 candles is -2,000, -1,200, 0, 1,200, 2,000, 2,100, 1,400. ATC is 36, 22, 16, 13, 12, 12.50, 14. ATC is lowest at 500 but profit highest at 600." loading="lazy">
+  <figcaption>The lowest cost per unit is not automatically the highest profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of--13-igcse-fixed-cost-spread.webp" width="900" height="910" alt="At 600 loaves ATC is 2.70 (fixed 1.50 + variable 1.20); at 900 loaves it is 2.20 (fixed 1.00 + variable 1.20). Profit rises from 480 to 1,170." loading="lazy">
+  <figcaption>Fixed cost per loaf falls as output rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## 2. Economies of scale (1.2.3 b)
 
 **Economies of scale** are the drop in cost per unit that happens when a firm expands its scale of production. They are a long-run idea, because every input, including premises and machinery, can change.
@@ -114,6 +135,22 @@ Short calculations:
 
 **Internal or external?** Ask who caused it. If the firm's own growth caused it, it is internal. If the growth of the industry or district caused it, it is external. A firm cannot create external economies alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of--12-igcse-external-shift.webp" width="900" height="760" alt="On the Delta Foods curve, a firm growing moves along the curve from A to B (internal economy). Growth of the industry shifts the whole curve down, from A to C (external economy). The 15% shift is illustrative." loading="lazy">
+  <figcaption>Internal economies move along LRAC; external economies shift it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of--03-un185-internal-economies-numbers.webp" width="900" height="940" alt="Purchasing: flour falls from 0.80 to 0.68 a kg (15%, saving 1,440 on 12,000 kg). Marketing: a 12,000 campaign costs 0.60 a unit over 20,000 units but 0.20 over 60,000. Financial: interest on a 200,000 loan is 18,000 at 9% against 13,000 at 6.5%." loading="lazy">
+  <figcaption>Bars compare a smaller and a larger firm for three internal economies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
+
 ## 3. Diseconomies of scale (1.2.3 c)
 
 **Diseconomies of scale** are a rise in cost per unit when a firm expands its scale of production beyond a certain point.
@@ -126,6 +163,12 @@ Short calculations:
 | Distance between top management and workers | Directors lose contact with the shop floor | Workers feel unimportant and productivity falls |
 
 Build each point as a chain: cause, effect on the firm, effect on average cost. For example: the firm opens many branches, so instructions pass through several managers, so messages are delayed or distorted, so staff make errors that need correcting, so average cost rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of--11-igcse-diseconomies-chain.webp" width="900" height="950" alt="Chain from the lesson: many branches, orders pass through managers, messages delayed, errors, average cost rises." loading="lazy">
+  <figcaption>Diseconomies are explained as a chain from cause to higher average cost.</figcaption>
+</figure>
+
 
 ## 4. The LRAC diagram (1.2.3 c)
 
@@ -166,6 +209,17 @@ External economies are different. They lower the whole curve, moving it down, ra
 - From 40,000 to 60,000, LRAC rises: diseconomies of scale. The rise is 5.80 - 5.00 = 0.80, which is 0.80 / 5.00 = 16%.
 - The most efficient output is 40,000 units, where LRAC is lowest.
 - If the price is 7, profit at 40,000 units is 40,000 x 7 - 200,000 = 80,000, or 2.00 per unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of--10-igcse-delta-lrac.webp" width="900" height="850" alt="LRAC from 8.00 at 10,000 units to 5.00 at 40,000 (down 37.5%) then to 5.80 at 60,000 (up 16%). The lowest point is the most efficient output." loading="lazy">
+  <figcaption>The LRAC data show economies then diseconomies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
 
 ## 5. Evaluating scale
 

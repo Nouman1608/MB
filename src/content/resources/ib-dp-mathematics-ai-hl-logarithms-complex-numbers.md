@@ -83,6 +83,17 @@ Check each root in the original equation. With x = −5, log x is undefined, so 
 
 Logarithms scale very large and very small numbers (the guide links this to AHL 2.10). The chemistry link is pH = −log [H⁺]. Because log (100c) = log 100 + log c = 2 + log c, multiplying the hydrogen ion concentration by 100 lowers the pH by exactly 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--01-logs-are-lengths.webp" width="900" height="1030" alt="Three rows of bars whose lengths are base 10 logarithms. log 4 plus log 5 has the same length as log 20; log 20 minus log 4 leaves log 5; three bars of log 2 equal log 8. This shows the product, quotient and power laws, valid only for positive numbers." loading="lazy">
+  <figcaption>The three laws of logarithms shown as lengths: log 4 + log 5 = log 20, log 20 - log 4 = log 5, 3 log 2 = log 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--02-log-equation-domain.webp" width="900" height="940" alt="Graph of y = log x + log (x - 15), defined only for x greater than 15, meeting y = 2 at x = 20. The region x up to 15 is shaded as undefined. The other root of the quadratic, x = -5, lies in that region and is crossed out." loading="lazy">
+  <figcaption>Graph of log x + log (x - 15) showing the valid root x = 20 and the rejected root x = -5.</figcaption>
+</figure>
+
+
 ## 1.10 Rational exponents
 
 A rational exponent combines a root and a power:
@@ -111,6 +122,12 @@ x^(2/3) × x^(1/2) ÷ x^(1/6) = x^(4/6 + 3/6 − 1/6) = x^(6/6) = x
 ```
 
 Use a common denominator when you add fractional powers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--03-rational-exponents.webp" width="900" height="940" alt="Graph of y = x^(2/3) through (8, 4) and (27, 9). Below, two flow chains: 27 to cube root 3 to square 9; and 16 to fourth root 2 to cube 8 to reciprocal 1/8." loading="lazy">
+  <figcaption>27^(2/3) = 9 and 16^(-3/4) = 1/8 by taking the root first.</figcaption>
+</figure>
+
 
 ## 1.11 Infinite geometric series
 
@@ -144,6 +161,17 @@ The factor 2 counts each rise and its matching fall. Forgetting it, or doubling 
 **Worked example 7.** Write 0.272727… as a fraction.
 
 0.272727… = 0.27 + 0.0027 + … with u₁ = 0.27 and r = 0.01, so S_∞ = 0.27 / 0.99 = 27/99 = **3/11**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--04-infinite-sum-partial.webp" width="900" height="870" alt="Bar chart of partial sums of a geometric series with first term 10 and ratio 0.75. The bars approach the dashed line at 40, the sum to infinity, reaching 38.7 at n = 12." loading="lazy">
+  <figcaption>Partial sums of 10 + 7.5 + ... approach S_inf = 40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--05-bouncing-ball.webp" width="900" height="940" alt="A ball dropped from 8 m then bouncing to 6 m, 4.5 m, 3.375 m and so on. The rises form a geometric series with sum 24; with matching falls the total distance is 8 + 2 x 24 = 56 m." loading="lazy">
+  <figcaption>Total distance of the bouncing ball: 8 + 2 x 24 = 56 m.</figcaption>
+</figure>
+
 
 ## 1.12 Complex numbers in Cartesian form
 
@@ -187,6 +215,12 @@ x = (4 ± √(−36)) / 2 = (4 ± 6i) / 2 = 2 ± 3i
 ```
 
 The graph of f(x) = x² − 4x + 13 never meets the x-axis, because the discriminant is negative. Its vertex is at (2, 9), and the real part of the roots, 2, is the x-coordinate of the vertex.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--06-complex-roots.webp" width="900" height="1080" alt="Top: parabola y = x^2 - 4x + 13 with vertex (2, 9) that never meets the x-axis (discriminant -36). Bottom: Argand diagram with the roots 2 + 3i and 2 - 3i, a conjugate pair with real part 2, the same as the vertex x-coordinate." loading="lazy">
+  <figcaption>The parabola misses the x-axis, so the roots 2 +/- 3i are complex and appear as a conjugate pair.</figcaption>
+</figure>
+
 
 ## 1.13 Polar and exponential forms
 
@@ -241,12 +275,29 @@ V = 13 cos(50t + 0.395)
 
 Your GDC can do the addition and the conversion in one step in polar mode. Write down the complex number you entered so your method is visible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--09-adding-sinusoids.webp" width="900" height="1010" alt="Graphs of V1 = 12 cos 50t, V2 = 5 cos(50t + pi/2) and their sum 13 cos(50t + 0.395), with the same addition shown as complex numbers: 12 + 5i has modulus 13 and argument 0.395 rad." loading="lazy">
+  <figcaption>Adding sinusoids of equal frequency by adding complex numbers: amplitude 13, phase 0.395.</figcaption>
+</figure>
+
+
 ### Geometric interpretation
 
 - Adding or subtracting complex numbers is vector addition or subtraction on the Argand diagram.
 - Multiplying by re^(iθ) rotates a point anticlockwise by θ about the origin and stretches its distance from the origin by the factor r.
 
 For example, multiplying by i = e^(iπ/2) is a rotation of π/2 anticlockwise: (2 + i) × i = −1 + 2i. Multiplying by 2e^(iπ/6) = √3 + i rotates by π/6 and doubles the modulus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--07-polar-quadrant.webp" width="900" height="1040" alt="Argand diagram with -3 + 3i in the second quadrant, modulus 3 root 2 and argument 3 pi over 4 (pi minus the reference angle pi over 4). The calculator value -pi over 4 points into the wrong quadrant and is crossed out." loading="lazy">
+  <figcaption>Finding the argument of -3 + 3i: sketch the quadrant, do not trust arctan alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--08-multiply-turn-stretch.webp" width="900" height="960" alt="Argand diagram with z = 2 + i. Multiplying by i turns it by pi over 2 to -1 + 2i. Multiplying by 2e^(i pi/6) = root 3 + i turns it by pi over 6 and doubles its length, giving about 2.46 + 3.73i." loading="lazy">
+  <figcaption>Multiplying by e^(i theta) turns a point by theta; the modulus scales the length.</figcaption>
+</figure>
+
 
 ## Common errors
 

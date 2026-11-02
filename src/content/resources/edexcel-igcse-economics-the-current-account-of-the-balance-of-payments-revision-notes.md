@@ -95,6 +95,32 @@ Under a market-determined rate, a deficit means the supply of the home currency 
 - Multiply to go from A to B. Divide to go from B to A.
 - Practise with a current quotation from a bank, newspaper or website. Rates change daily, so use a fresh one each time and check whether the currency has gone up or down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--01-visibles-invisibles-balance.webp" width="900" height="1150" alt="Two waterfall charts. Country P: goods balance -15 plus services balance +11 gives a current account of -4, a deficit. Country S: goods +17 plus services -6 gives +11, a surplus. Figures are in billions of local currency." loading="lazy">
+  <figcaption>Visible and invisible balances add up to the current account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--02-exchange-rate-export-import-prices.webp" width="900" height="1060" alt="Three rows compare prices at 1.60, 1.20 and 2.00 quin per pel. At 1.20 the machine is 25% cheaper abroad and the foreign good 33.3% dearer at home; at 2.00 the machine is 25% dearer and the foreign good 20% cheaper." loading="lazy">
+  <figcaption>A weaker currency makes exports cheaper and imports dearer; a stronger currency does the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--05-ca-quotation.webp" width="900" height="710" alt="A quotation tile reads GBP/USD 1.30, meaning 1 pound buys 1.30 dollars. Going from pounds to dollars you multiply by 1.30, so 50 pounds is 65 dollars. Going back you divide by 1.30, so 65 dollars is 50 pounds. The rate 1.30 comes from the lesson; the amounts 50 and 65 are illustrative." loading="lazy">
+  <figcaption>In a quotation the first currency is the one being priced: multiply to go to the second, divide to come back (amounts are illustrative).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## Reasons for deficits and surpluses
 
 | Cause | Deficit if | Surplus if |
@@ -106,6 +132,17 @@ Under a market-determined rate, a deficit means the supply of the home currency 
 | Exchange rate | Rises: exports dearer, imports cheaper | Falls: exports cheaper, imports dearer |
 
 Chain of reasoning to write out: cause, then buyer response, then change in exports or imports, then effect on the balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--01-ca-reasons.webp" width="900" height="968" alt="Two panels. Towards surplus: high-quality domestic goods, low domestic prices and a falling exchange rate all raise exports and cut imports. Towards deficit: low-quality domestic goods make buyers switch to imports, high-quality or cheap foreign goods raise imports, and a rising exchange rate cuts exports and raises imports." loading="lazy">
+  <figcaption>Quality, price and the exchange rate each push the current account towards surplus or deficit through exports and imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--02-ca-relative-price.webp" width="900" height="1020" alt="Two bars. Country P chair prices start at an index of 100 and rise 6 percent to 106. The foreign rival starts at 100 and rises 2 percent to 102. The relative price is 1.06 divided by 1.02, which is 1.039, so P chairs are about 3.9 percent dearer even though both rose. The vertical axis starts at 60 to show the gap." loading="lazy">
+  <figcaption>A 6% rise against a 2% rise makes Country P’s chairs about 3.9% dearer than the rival’s.</figcaption>
+</figure>
+
 
 ## Impact of a deficit
 
@@ -122,6 +159,17 @@ Worked reminder: reserves of 45 and a deficit of 9 a year last 45 / 9 = 5 years.
 - The reason matters: imports of machinery may raise future output, while imports of consumer goods may not.
 - A surplus is not free of cost: the country gives up goods it could have enjoyed, and a stronger currency can hurt exporters.
 - A high or rising deficit as a share of GDP is more worrying than one that is small and stable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--03-ca-imported-costs.webp" width="900" height="900" alt="Three stacked bars of a bakery’s unit cost in pels. Now: 140 home costs plus 60 imported flour is 200. If the foreign flour price rises 10 percent, flour costs 66 and the total is 206, up 3 percent. If the pel falls from 1.60 to 1.20 quin, 96 quin of flour costs 80 pels instead of 60, the total is 220, up 10 percent." loading="lazy">
+  <figcaption>A bakery with 60 of its 200 unit costs imported sees costs rise 3% if foreign flour rises 10%, but 10% if the pel falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments--04-ca-reserves.webp" width="900" height="830" alt="Bar chart of foreign reserves in billions. Reserves start at 30, fall to 18 after one year and 6 after two years because the deficit is 12 billion a year. A dashed line reaches zero at 2.5 years, which is 30 divided by 12. After that the country must borrow or sell assets to foreigners." loading="lazy">
+  <figcaption>Reserves of 30 billion and a 12 billion yearly deficit last 2.5 years.</figcaption>
+</figure>
+
 
 ## Model chain of reasoning
 

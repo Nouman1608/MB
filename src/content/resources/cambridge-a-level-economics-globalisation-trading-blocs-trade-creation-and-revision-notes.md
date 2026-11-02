@@ -51,6 +51,12 @@ These notes condense section 11.6 (outcomes 11.6.1 to 11.6.3) of the Cambridge I
 
 **Evaluate with:** who gains and who loses; short run against long run; the country's stage of development; labour market flexibility and skills; whether the state can retrain and support displaced workers; the size of each effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--04-globalisation-gains-losses.webp" width="900" height="895" alt="Five groups (consumers, firms, workers, countries, environment), each with a possible gain marked by an up arrow and a possible loss marked by a down arrow, as in the lesson table." loading="lazy">
+  <figcaption>Globalisation brings possible gains and losses to each group, so evaluate who is affected and how much.</figcaption>
+</figure>
+
+
 ## 11.6.2 Forms of integration
 
 Each form builds on the one before it.
@@ -77,6 +83,22 @@ Each form builds on the one before it.
 
 - Gains: coordinated policy, fewer policy clashes, a single large market.
 - Losses: large loss of sovereignty over tax and spending, and a one-size policy that may not fit every member.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--10-forms-of-integration.webp" width="900" height="910" alt="A grid shows that a free trade area removes internal tariffs; a customs union adds a common external tariff; a monetary union adds one currency; a full economic union adds shared policies. Each row keeps the ticks above and adds one." loading="lazy">
+  <figcaption>Each form of integration adds one feature to the one before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--05-trade-deflection.webp" width="900" height="870" alt="A good priced 100 outside a free trade area costs 130 entering member H directly (30% tariff) but 110 entering via member L (10% tariff) and moving tariff-free to H. An origin check on the internal route stops this. Tariff rates are illustrative." loading="lazy">
+  <figcaption>Without rules of origin, goods enter through the lowest-tariff member and bypass the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--06-monetary-union-balance.webp" width="900" height="1042" alt="Three gains (no conversion costs, no exchange-rate risk inside, easy price comparison) and three losses (one interest rate for all, no devaluation after a shock, slower adjustment through wages, prices and labour)." loading="lazy">
+  <figcaption>A monetary union removes currency costs and risk but takes away national interest rate and exchange rate tools.</figcaption>
+</figure>
+
 
 ## 11.6.3 Trade creation and trade diversion
 
@@ -115,6 +137,22 @@ Domestic cost 80 cu. Partner 70 cu, outsider 90 cu, tariff 25%.
 - effects on non-members and the risk of retaliation.
 
 **Intra-bloc share.** Intra-bloc trade share = intra-bloc trade ÷ total trade × 100. If it is 36 out of 90, the share is 40%. A rising share does not by itself prove diversion or creation; check whether imports from outside fell (diversion) or total imports rose with outside imports steady (consistent with creation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--11-trade-creation.webp" width="900" height="970" alt="Demand Q = 300 - 10P. Before the union A buys 100 tractors at home cost 20; after it buys 150 from B at 15. The saving on the first 100 is 500 and the extra 50 units add 125, a welfare gain of 625." loading="lazy">
+  <figcaption>Cheaper partner imports replace home output, a gain of 625 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--12-trade-diversion.webp" width="900" height="1050" alt="Demand Q = 500 - 10P. Before the union A buys 230 parts from W at 27 with tariff; after it buys 280 from B at 22. Of the buyers' 1,275 gain, 1,150 is a transfer from tariff revenue and 125 is a true gain, while buying from B instead of W costs 920 more. Net -795." loading="lazy">
+  <figcaption>Switching to a dearer partner supplier leaves Country A 795 cu worse off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and--07-diversion-cost-gap.webp" width="900" height="830" alt="Graph of Country A's net effect against the partner's price, extending the lesson's trade diversion example. At price 22 the net effect is -795, and the line crosses zero near 19.3, so only a partner nearly as cheap as the outsider gives a gain." loading="lazy">
+  <figcaption>The wider the cost gap in favour of outsiders, the bigger the diversion loss.</figcaption>
+</figure>
+
 
 ## Evaluation chains to rehearse
 

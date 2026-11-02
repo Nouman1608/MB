@@ -91,6 +91,22 @@ Var(X) = 10.5 − 3² = 1.5
 σ = √1.5 = 1.22 (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--02-mean-balance-point.webp" width="900" height="820" alt="A bar chart of X = 0 to 4 with probabilities 0.10, 0.30, 0.35, 0.20, 0.05 balanced on a plank with the pivot at 1.8 = E(X). A gold band shows the mean plus and minus one standard deviation, 1.03. E(X^2) = 4.3 so Var(X) = 4.3 - 3.24 = 1.06." loading="lazy">
+  <figcaption>E(X) is where the distribution balances; Var(X) measures spread about it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--04-discrete-uniform.webp" width="900" height="770" alt="Ten equal bars of height 0.1 for X = 1 to 10. The mean 5.5 is at the centre and a gold band marks one standard deviation either side. For n = 10, E(X) = 5.5 and Var(X) = 99/12 = 8.25; a fair die (n = 6) has mean 3.5 and variance 35/12." loading="lazy">
+  <figcaption>Equal bars: the mean sits at the centre, (n + 1)/2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--09-binomial-mean-variance.webp" width="900" height="1170" alt="Three bar charts of B(20, p). For p = 0.2 the mean is 4 and the variance 3.2; for p = 0.5 the mean is 10 and the variance 5, the widest; for p = 0.8 the mean is 16 and the variance 3.2. A dashed line marks each mean and a gold band one standard deviation either side." loading="lazy">
+  <figcaption>Mean np and variance npq, and why the spread is greatest at p = 0.5.</figcaption>
+</figure>
+
+
 ## 3. Linear functions: E(aX + b) and Var(aX + b)
 
 If you change every value of X to aX + b, the specification expects you to know:
@@ -109,6 +125,12 @@ E(2X + 3)   = 2(3) + 3 = 9
 Var(2X + 3) = 2² × 1.5 = 6
 Var(4X − 5) = 4² × 1.5 = 24
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--03-linear-change-ax-b.webp" width="900" height="920" alt="Two bar charts on one scale. X takes 0 to 4 with mean 1.8 and variance 1.06. Y = 4X - 3 takes -3, 1, 5, 9, 13 with the same bar heights: the mean moves to 4.2 and the variance is 16 times larger, 16.96. Adding b shifts, multiplying by a stretches." loading="lazy">
+  <figcaption>Shifting moves the mean only; scaling by a multiplies the variance by a squared.</figcaption>
+</figure>
+
 
 ## 4. E(g(X)) for any function of X
 
@@ -136,6 +158,12 @@ E(100/W²)  = 25(0.4) + 6.25(0.3) + 4(0.2) + 1(0.1)
 ```
 
 So E(10/W) = 3.25, which is not equal to 2.5. For a reciprocal, always work from the table.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--01-pmf-to-cdf.webp" width="900" height="1076" alt="Two bar charts for a variable with p(x) = (6 minus x)/14 for x = 1 to 4. The top chart shows p(x) as 5/14, 4/14, 3/14, 2/14 with x = 3 and 4 highlighted as P(X &gt; 2). The lower chart shows F(x) = 5/14, 9/14, 12/14, 1, and the gap from F(2) up to 1 equals 5/14, so P(X &gt; 2) = 1 - F(2)." loading="lazy">
+  <figcaption>How p(x) builds F(x), and why P(X &gt; 2) = 1 - F(2) = 5/14.</figcaption>
+</figure>
+
 
 ## 5. Variance of a non-linear function
 
@@ -188,6 +216,17 @@ E(3X − 2Y)   = 3(3) − 2(4) = 1
 Var(3X − 2Y) = 9(1.5) + 4(5.4) = 13.5 + 21.6 = 35.1
 Var(X + Y)   = 1.5 + 5.4 = 6.9, so sd = √6.9 = 2.63 (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--05-variance-adds.webp" width="900" height="930" alt="Two bar charts on the same scale for two independent fair dice. X + Y runs from 2 to 12 with mean 7. X - Y runs from -5 to 5 with mean 0. Both have the same spread, variance 35/6 = 5.83, because Var(X +/- Y) = Var(X) + Var(Y)." loading="lazy">
+  <figcaption>Means follow the sign; variances always add, so X + Y and X - Y have the same spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--06-binomial-conditions.webp" width="900" height="1000" alt="Four cards show the conditions for B(n, p): a fixed number of trials, two outcomes, independent trials and the same probability p each time. Three failures are listed: cards dealt without replacement, throws until the first six, and rain on following days." loading="lazy">
+  <figcaption>The four conditions, and three situations where the model fails.</figcaption>
+</figure>
+
 
 ## 8. Sums of independent variables
 

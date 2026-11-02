@@ -92,6 +92,27 @@ Quick reminders:
 
 Worked reminder: the solvent front moves 9.0 cm and a spot moves 2.7 cm, so Rf = 2.7 ÷ 9.0 = 0.30. A second spot at 8.1 cm has Rf = 0.90: it is more attracted to the mobile phase (the solvent) than the first spot is, so it travels further.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--01-element-compound-mixture.webp" width="900" height="980" alt="Three panels of particles. Oxygen molecules show an element, water molecules (one O bonded to two H) show a compound with a fixed 2 : 1 ratio, and separate unbonded oxygen and hydrogen molecules show a mixture in any ratio. A bracket marks element and compound as pure substances." loading="lazy">
+  <figcaption>An element has one kind of atom, a compound has bonded atoms in a fixed ratio, and a mixture is not bonded and has no fixed ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--02-homogeneous-heterogeneous.webp" width="900" height="780" alt="Two beakers. A sugar solution has sugar spread evenly through water in one phase. Oil on vinegar has a visible boundary between two layers, so two phases." loading="lazy">
+  <figcaption>A homogeneous mixture has one phase; a heterogeneous mixture shows more than one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--03-recrystallization.webp" width="900" height="1180" alt="Five numbered steps: dissolve in the least hot water, filter hot so sand stays on the paper, cool slowly so crystals form, filter and wash with cold water, and dry. A pure sample then melts sharply." loading="lazy">
+  <figcaption>Dissolve in hot solvent, filter, cool, collect crystals and dry; a sharp melting point checks purity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--04-chromatography-rf.webp" width="900" height="940" alt="A paper strip in a tank has a pencil base line above the solvent. The solvent front is 6.8 cm above the base line; spots are 2.04 cm and 4.42 cm above it. Rf = a divided by b gives 0.30 and 0.65." loading="lazy">
+  <figcaption>Rf is the distance from base line to spot centre divided by the distance to the solvent front.</figcaption>
+</figure>
+
+
 ## Structure 1.1.2 Kinetic molecular theory
 
 | | Solid | Liquid | Gas |
@@ -121,6 +142,17 @@ Use (aq) for a solution in water, and (s), (l) or (g) for a solid, liquid or gas
 - Evaporation can happen at any temperature at which the liquid exists; boiling happens only once the boiling point is reached.
 - Iodine crystals warmed gently in a beaker give a purple vapour that forms crystals again on a cold surface: sublimation, then deposition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--05-three-states.webp" width="900" height="850" alt="Three boxes: an ordered lattice of touching vibrating particles for a solid, touching disordered particles in the lower part of the box for a liquid, and widely spaced fast random particles filling the box for a gas. Attraction between particles falls from solid to gas." loading="lazy">
+  <figcaption>Solids have ordered touching particles, liquids touching disordered ones and gases widely spaced fast ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--06-changes-of-state.webp" width="900" height="970" alt="Solid, liquid and gas joined by arrows: melting, vaporization and sublimation take in energy (endothermic) and freezing, condensation and deposition give out energy (exothermic)." loading="lazy">
+  <figcaption>Changes that separate particles are endothermic; the reverse changes are exothermic.</figcaption>
+</figure>
+
+
 ## Structure 1.1.3 Temperature and average kinetic energy
 
 ### Key facts
@@ -145,6 +177,17 @@ Worked reminder: a freezer at −18 °C is at −18 + 273.15 = 255.15 K. A tempe
 - Cooling curve: same in reverse; a pure liquid freezes at one temperature, a mixture over a range.
 
 Worked reminder: a pure solid heated steadily shows plateaus at 44 °C and 280 °C. Melting point = 44 + 273.15 = 317.15 K; boiling point = 280 + 273.15 = 553.15 K. At 100 °C the substance is a liquid, (l).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--07-heating-curve.webp" width="900" height="890" alt="A heating curve with a Celsius axis and a matching kelvin axis. It rises from -20 degrees to a 3 minute plateau at 17 degrees (290.15 K), rises to an 11 minute plateau at 118 degrees (391.15 K), then rises again. Plateaus are where energy changes potential energy, not temperature." loading="lazy">
+  <figcaption>Temperature is constant on the plateaus, and the boiling plateau is longer than the melting one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--08-kelvin-ke.webp" width="900" height="850" alt="Bars proportional to kelvin temperature. Heating from 27 to 327 degrees Celsius (300.15 to 600.15 K) doubles the average kinetic energy. Heating from 10 to 20 degrees Celsius (283.15 to 293.15 K) raises it by only about 3.5 percent." loading="lazy">
+  <figcaption>Average kinetic energy is proportional to the kelvin temperature, so use K for ratios.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -46,6 +46,12 @@ Both papers are based on all the subject content, so expect these topics to appe
 - Fewer complaints and returns saves staff time.
 - It helps the business stand out from competitors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--09-quality-matters.webp" width="900" height="900" alt="Better quality leads to two benefits. Sales hold up because customers buy again, recommend the business and give it a good reputation. Costs fall because there are fewer faulty items, less rework and fewer refunds. Both protect profit." loading="lazy">
+  <figcaption>Quality protects sales (repeat custom, reputation) and cuts the cost of faults, rework and refunds.</figcaption>
+</figure>
+
+
 ## Quality control versus quality assurance
 
 | | Quality control | Quality assurance |
@@ -57,6 +63,22 @@ Both papers are based on all the subject content, so expect these topics to appe
 | Weakness | Waste already incurred, inspection cost, sampling can miss faults | Set-up cost, needs training and cooperation, slower results |
 | Suits | Small firms, low-cost goods, limited budget | Costly or risky faults, brand built on quality, large output |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--04-qa-cost-of-faults.webp" width="900" height="710" alt="Faults cost 450 dollars a week now (750 jars at 0.60). With quality assurance faults fall to 250 jars costing 150, plus a 200 dollar programme, total 350, a net gain of 100 dollars a week." loading="lazy">
+  <figcaption>Prevention costs money but can cost less than the faults it removes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--04-tqm-trade-off.webp" width="900" height="730" alt="A balance scale: costs (staff training, inspection) on the left, benefits (fewer defects, less waste, fewer recalls) on the right. For a growing firm that outsources or franchises, the scale tips to benefits because oversight is lower." loading="lazy">
+  <figcaption>TQM adds training and inspection costs but is easier to justify for a growing business that outsources or franchises.</figcaption>
+</figure>
+
+
 ## Method: recommend and justify control or assurance
 
 1. Name your choice clearly (control or assurance).
@@ -65,6 +87,12 @@ Both papers are based on all the subject content, so expect these topics to appe
 4. Weigh a drawback or a condition (for example, set-up cost or needing staff cooperation).
 5. Finish with one sentence that answers the question asked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--11-location-method.webp" width="900" height="830" alt="Five numbered steps for a location recommendation: identify what matters most to the business, pick two or three factors that fit, compare the options using figures, name the choice with a reason, and weigh one drawback or unknown." loading="lazy">
+  <figcaption>Follow the same five steps in any location case study.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Defect rate and estimate.** A sample of 250 items has 5 faulty. Defect rate = 5 / 250 x 100 = 2%. In a batch of 3,000 the estimate is 2% x 3,000 = 60 faulty items. If each costs 1.20 dollars to fix, the cost is 60 x 1.20 = 72 dollars.
@@ -72,6 +100,12 @@ Both papers are based on all the subject content, so expect these topics to appe
 **Is prevention worth it?** A firm makes 2,000 items a week. At 4% faulty and 2.50 dollars each, faults cost 200 dollars. If a prevention programme cuts faults to 1%, faults cost 50 dollars. The gap is 150 dollars a week, so the programme is worth it if it costs less than 150 dollars a week.
 
 **Comparing sites by total cost.** Add rent, wages and transport for each site. Site 1: 70,000 + 205,000 + 15,000 = 290,000. Site 2: 52,000 + 226,000 + 9,000 = 287,000. The gap is 3,000 a year, so cost alone is close and other factors (skills, customers, growth) decide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--05-workshop-site-costs.webp" width="900" height="790" alt="Stacked bars of annual cost in $ thousand: A 234 (54 rent, 162 wages, 18 transport), B 201 (28, 132, 41), C 206 (36, 144, 26). B is cheapest but has few skilled workers; C is the better choice." loading="lazy">
+  <figcaption>The cheapest site is not always the best site.</figcaption>
+</figure>
+
 
 ## Location: manufacturing
 
@@ -85,6 +119,12 @@ Both papers are based on all the subject content, so expect these topics to appe
 | Government help | Grants or tax breaks may favour an area |
 | Room to expand | Space for growth avoids a costly move later |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## Location: services
 
 | Factor | Typical effect |
@@ -96,6 +136,12 @@ Both papers are based on all the subject content, so expect these topics to appe
 | Parking, access, safety | Affect whether customers will visit |
 | Skilled staff | The quality of the service depends on them |
 | Communications | Online and phone services need reliable internet and power |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--10-physio-sites.webp" width="900" height="830" alt="Bars compare two clinic sites. Site X gets 1,248 customers a month at a rent of 2.40 dollars each; Site Y gets 780 customers a month at a rent of 1.54 dollars each. X brings more customers, Y is cheaper per customer, so capacity and cash decide the choice." loading="lazy">
+  <figcaption>Site X wins on customers, Site Y on rent per customer; the recommendation depends on capacity and cash.</figcaption>
+</figure>
+
 
 ## Location: choosing a country
 
@@ -110,6 +156,12 @@ Both papers are based on all the subject content, so expect these topics to appe
 | Exchange rate | A changing currency alters costs and revenue |
 | Language and culture | Affect working with staff and customers |
 | Legal requirements | Rules differ between countries |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--06-country-shirt-cost.webp" width="900" height="930" alt="Country P costs 11.77 dollars per shirt (materials 6.00, labour 4.20, tax 1.02, shipping 0.55). Country Q costs 9.90 (materials 6.00, labour 2.60, shipping 1.30, no tax). Q is 1.87 cheaper." loading="lazy">
+  <figcaption>Compare every cost, including tax and shipping, not just labour.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

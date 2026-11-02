@@ -113,6 +113,17 @@ Interpretation: net cash flow is negative in January and February, so the balanc
 
 Evaluate by asking: how large is the gap, how long will it last, and which fix harms the business least?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-finance--01-hobsbourne-forecast.webp" width="900" height="886" alt="Three columns for Jan, Feb and Mar show opening balances 4,000, 2,500 and 1,000 and closing balances 2,500, 1,000 and 2,000. Net cash flow is -1,500, -1,500 and +1,000. Gold arrows show each closing balance becoming the next opening balance." loading="lazy">
+  <figcaption>Each month closing balance is the next month opening balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-finance--02-profit-not-cash.webp" width="900" height="966" alt="Selling 6,000 pounds of bikes on credit and paying 4,000 pounds cash for stock gives a paper profit of 2,000 pounds. Cash falls by 4,000 pounds until customers pay." loading="lazy">
+  <figcaption>A credit sale is profit now but cash later.</figcaption>
+</figure>
+
+
 ## 3.6.3 Financial terms and calculations
 
 - **Fixed costs** do not change with output (rent, insurance).
@@ -147,6 +158,17 @@ Businesses invest in new machinery, buildings and vehicles. The **payback period
 **Worked example.** Hobsbourne Cycles buys a repair machine for £60,000. Net cash inflows: year 1 £20,000, year 2 £25,000, year 3 £25,000, year 4 £30,000.
 Cumulative inflows: £20,000, £45,000, £70,000. After two years £15,000 is still to repay. Year 3 brings £25,000, so 15,000 ÷ 25,000 = 0.6 of the year, about 7 months. **Payback period = 2 years 7 months.**
 Value: a shorter payback means lower risk and faster return of cash. Limit: it ignores cash earned after payback and does not show overall profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-finance--03-cinderfield-break-even.webp" width="900" height="936" alt="Fixed costs are flat at 12,000, total costs rise to 28,000 and revenue to 40,000 at 4,000 jars. The lines cross at 2,000 jars and 20,000 pounds. At 3,000 jars the margin of safety is 1,000 jars and profit is 6,000 pounds." loading="lazy">
+  <figcaption>Break-even is where the lines cross; margin of safety is the distance above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-finance--04-hobsbourne-payback.webp" width="900" height="826" alt="Cumulative inflows of 20,000, 45,000, 70,000 and 100,000 pounds are compared with the 60,000 pound cost. 15,000 is left after year 2, which is 0.6 of year 3, about 7 months." loading="lazy">
+  <figcaption>The 60,000 pound machine pays back in 2 years 7 months.</figcaption>
+</figure>
+
 
 ## 3.6.4 Analysing the financial performance of a business
 
@@ -189,6 +211,17 @@ Net profit margin = (net profit ÷ revenue) × 100.
 ### Making judgements
 
 Compare current performance, performance against previous years, performance against competitors, and the view of each stakeholder. Here revenue rose 20% and profit rose in pounds, but both margins fell, so costs grew faster than sales. Owners may be pleased by higher profit; a lender may worry that margins are slipping; employees may hope for a pay rise but may fear cost cutting. A good answer weighs these and reaches a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-finance--05-margins-two-years.webp" width="900" height="911" alt="Two bars show revenue split into cost of sales, expenses and net profit for the previous and current year. Gross margin fell from 40% to 37.5% and net margin from 14% to 12.5% although revenue rose 20% and net profit rose from 28,000 to 30,000." loading="lazy">
+  <figcaption>Profit rose in pounds but both margins fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-finance--06-sofp-equation.webp" width="900" height="936" alt="Total assets of 125,000 equal current liabilities 30,000 plus non-current liabilities 40,000 plus equity 55,000. Net assets 125,000 - 70,000 = 55,000, which equals share capital 30,000 plus retained profit 25,000." loading="lazy">
+  <figcaption>Net assets equal equity.</figcaption>
+</figure>
+
 
 ## Common errors
 

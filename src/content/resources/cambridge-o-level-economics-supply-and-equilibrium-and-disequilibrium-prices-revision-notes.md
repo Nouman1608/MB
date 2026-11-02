@@ -97,6 +97,12 @@ Worked reminder (candles). Demand is 100, 80, 60, 40 and 20 candles at 2, 4, 6, 
 
 Equilibrium price is 6 cu and equilibrium sales are 60 candles per day. With equations, Qd = 120 - 10P and Qs = 10P, so 120 = 20P, P = 6 and Q = 60. Total spending on candles at equilibrium is 6 x 60 = 360 cu.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--09-equilibrium-algebra.webp" width="900" height="1010" alt="Demand Qd = 220 - 4P and supply Qs = 4P - 20 cross at price 30 and quantity 100. Algebra: set equal, 220 - 4P = 4P - 20, 240 = 8P, P = 30, Q = 220 - 120 = 100." loading="lazy">
+  <figcaption>Set Qd equal to Qs, solve for P, then substitute to find Q.</figcaption>
+</figure>
+
+
 ## Disequilibrium in steps
 
 1. Compare the market price with equilibrium.
@@ -109,6 +115,22 @@ Chain of reasoning for a surplus: price above equilibrium, so stalls hold unsold
 Chain of reasoning for a shortage: price below equilibrium, so buyers cannot get what they want and bid up the price (or sellers raise it), so quantity supplied extends and quantity demanded contracts, and the market moves up to 6 cu.
 
 Quantity traded in disequilibrium is the **smaller** of Qd and Qs. At 4 cu only 40 candles can be sold, because that is all that is on offer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--01-apricot-equilibrium.webp" width="900" height="930" alt="Demand slopes down and supply slopes up on price (cu per kg) and quantity (kg per week) axes. They cross at E: price 30, quantity 100 kg. At 40 cu supply is 140 and demand 60, a surplus of 80 kg. At 20 cu demand is 140 and supply 60, a shortage of 80 kg." loading="lazy">
+  <figcaption>At 30 cu per kg the apricot market clears; above it there is a surplus of 80 kg and below it a shortage of 80 kg.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--03-apricot-supply-shifts.webp" width="900" height="940" alt="Demand stays fixed. A drying machine moves supply right so equilibrium falls to price 20 and 140 kg. A 10 cu tax moves supply up by 10 so equilibrium rises to price 35 and 80 kg. The original equilibrium is price 30 and 100 kg." loading="lazy">
+  <figcaption>An increase in supply lowers price and raises sales; a tax raises price by less than the tax and cuts sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Shifting supply and the new equilibrium
 
@@ -124,6 +146,17 @@ Pattern to remember, with demand unchanged:
 | Decrease | Rises | Falls |
 
 Worked reminder for a decrease. Wax becomes dearer and every stall offers 20 fewer candles at each price. Supply becomes Qs = 10P - 20. Setting 120 - 10P = 10P - 20 gives 140 = 20P, so P = 7 and Q = 50. At the old price of 6 cu, supply is 40 against demand of 60, a shortage of 20, so the price rises to 7 cu and sales fall from 60 to 50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
 
 ## Drawing the diagram
 
@@ -173,6 +206,12 @@ Checklist for every diagram: axes labelled Price and Quantity; each curve labell
 9. A higher price makes extra output more profitable and covers the higher cost of each extra unit.
 10. Price rises and quantity falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--08-supply-extension-percent.webp" width="900" height="970" alt="A supply curve for apricots with points (60 kg, 20 cu) and (140 kg, 40 cu). Price 20 to 40 extends supply by 80 kg, 133.3% of 60. Price 40 to 20 contracts supply by 80 kg, 57.1% of 140." loading="lazy">
+  <figcaption>The same 80 kg is a different percentage because the starting point differs.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using "increase" or "decrease" for a price-driven change. Use extension and contraction.
@@ -183,6 +222,12 @@ Checklist for every diagram: axes labelled Price and Quantity; each curve labell
 - Stopping at "price changes" without saying why, in terms of unsold stock or competing buyers.
 - Adding prices when asked for market supply.
 - Treating a shift of supply as a shift of demand when the cause is a cost or tax.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices--02-market-supply-aggregation.webp" width="900" height="990" alt="Three farm supply curves and the flatter market curve are drawn from the lesson table. A stacked bar shows that at 30 cu per kg the farms supply 40, 30 and 30 kg, which add to 100 kg." loading="lazy">
+  <figcaption>Market supply is found by adding quantities across sellers at each price.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

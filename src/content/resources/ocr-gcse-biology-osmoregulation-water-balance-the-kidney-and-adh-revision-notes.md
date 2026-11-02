@@ -52,6 +52,17 @@ Method for data questions:
 
 Small reminder: a cell volume going from 40 to 34 units is (34 - 40) / 40 x 100 = -15%, a 15% fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--01-mp22-animal-cell-osmosis.webp" width="900" height="860" alt="A red blood cell is drawn in dilute, equal and concentrated fluid with arrows for net water movement. In dilute fluid water enters and the cell swells and may burst (lysis). In equal fluid there is no net movement. In concentrated fluid water leaves and the cell shrinks." loading="lazy">
+  <figcaption>What happens to an animal cell when the water potential of the fluid around it changes?</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--02-mp22-rbc-volume-graph.webp" width="900" height="740" alt="Graph of red blood cell volume as a percentage of the start against sodium chloride percentage, using the lesson data. All cells burst at 0.0, volume is 122 at 0.6, 100 at 0.9, 78 at 1.5 and 58 at 2.5. The 0.9 percent solution has the same water potential as the cytoplasm." loading="lazy">
+  <figcaption>Red blood cell volume changes with salt concentration and stays constant at 0.9% sodium chloride.</figcaption>
+</figure>
+
+
 ## B3.3h: Structure
 
 Urinary system: renal artery (blood in) and renal vein (blood out) -> kidney -> ureter -> bladder -> urethra.
@@ -71,6 +82,32 @@ Order of the tubule: Bowman's capsule, proximal convoluted tubule, loop of Henl�
 | Loop of Henlé | More water reabsorbed; fluid becomes more concentrated |
 | Collecting duct | Final adjustment of water reabsorbed; carries fluid to the pelvis |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--03-mp22-nephron-parts.webp" width="900" height="960" alt="A single kidney tubule is drawn across the cortex and medulla. It shows the Bowman's capsule with glomerulus, the proximal convoluted tubule, the loop of Henle dipping into the medulla, and the collecting duct leading to the pelvis, with the main job of each part." loading="lazy">
+  <figcaption>The Bowman's capsule, proximal convoluted tubule and loop of Henle sit in order along the tubule, which joins the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--09-un39-kidney-gross-structure.webp" width="900" height="960" alt="Section through a kidney showing the outer cortex, the striped medulla and the hollow pelvis at the centre. The renal artery brings blood in and the renal vein takes it away; urine leaves the pelvis by the ureter to the bladder." loading="lazy">
+  <figcaption>Cortex, medulla and pelvis of a kidney, with the renal artery, renal vein and ureter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--02-urinary-system.webp" width="900" height="975" alt="Two kidneys lie either side of the spine. A ureter runs from each kidney to the bladder, which stores urine, and one urethra carries urine out. Arrowheads show urine flowing kidney, ureter, bladder, urethra." loading="lazy">
+  <figcaption>Urine flows kidney, ureter, bladder, urethra: two ureters, one urethra.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--03-kidney-section.webp" width="900" height="1000" alt="A kidney cut lengthways: the cortex is the darker outer layer and the medulla is made of cone-shaped inner regions. The ureter leaves from the central, concave inner side." loading="lazy">
+  <figcaption>Cortex is the outer layer, medulla the inner cone-shaped regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
+
 ## B3.3g: Water balance
 
 | Water gained | Water lost |
@@ -89,6 +126,12 @@ The kidneys alter the **volume** and **concentration** of urine to match what th
 Method for water balance sums: add all gains, add all non-urine losses, urine = gains - non-urine losses (when balance is kept).
 
 Small reminder: gains 2400 cm³, non-urine losses 1100 cm³, so urine = 2400 - 1100 = 1300 cm³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--10-un39-water-balance-budget.webp" width="900" height="920" alt="Paired bars for a mild day and a hot day. Water in is 2500 cm3 on both days (drinks 1500, food 700, respiration 300). Water out is also 2500: sweat 400 and 1500, breath 400, faeces 100, urine 1600 and 500. Urine falls about 69% on the hot day." loading="lazy">
+  <figcaption>Water gained equals water lost; on a hot day the kidneys cut urine from 1600 to 500 cm3.</figcaption>
+</figure>
+
 
 ## B3.3i: ADH and negative feedback (Higher Tier only)
 
@@ -124,6 +167,27 @@ Thirst is a response of behaviour: it makes you take in water, while the kidneys
 Risk of failure: dehydration shrinks cells; very large drinks dilute body fluids so cells swell.
 
 Small reminder: a person of mass 55.0 kg falls to 54.2 kg after a hot run. Loss = 0.8 kg, which is 0.8 / 55.0 x 100 = 1.5% of body mass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--04-mp22-adh-feedback.webp" width="900" height="1100" alt="A five-step loop shows blood becoming concentrated, detection by the hypothalamus, release of more ADH, more permeable collecting ducts and rising blood water potential. Below, high ADH is drawn with many water arrows crossing the duct wall (small concentrated urine) and low ADH with one (large dilute urine)." loading="lazy">
+  <figcaption>ADH keeps blood water potential steady by negative feedback on the permeability of the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--11-un39-urine-after-drinking.webp" width="900" height="850" alt="Bar chart of hourly urine volume after drinking 1000 cm3 of water: 60, 290, 410 and 120 cm3. Less ADH is released while blood is dilute, giving a large volume of dilute urine; ADH rises again as the volume falls. Total 880 cm3, 88% of the drink; hour 1 to 3 rise 583%." loading="lazy">
+  <figcaption>Urine volume rises then falls after a big drink as ADH changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--12-un39-osmotic-challenges.webp" width="900" height="1060" alt="Three rows. Sweating and high salt intake make the blood more concentrated: thirst, more ADH, small concentrated urine (salt leaves in it). Excess water makes the blood more dilute: less ADH and a large volume of dilute urine. Tubes show more dissolved particles when concentrated." loading="lazy">
+  <figcaption>Three challenges to blood water potential and the body response to each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh--13-un39-runner-sweat-rate.webp" width="900" height="950" alt="A runner goes from 68.0 kg to 66.3 kg, losing 1.7 kg (2.5% of body mass). Adding the 0.6 dm3 drunk gives 2.3 dm3 of sweat water, which over 2.5 hours is 0.92 dm3 per hour." loading="lazy">
+  <figcaption>Sweat rate worked out from mass lost, water drunk and time.</figcaption>
+</figure>
+
 
 ## Answer frames to learn
 

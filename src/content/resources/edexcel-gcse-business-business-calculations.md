@@ -52,6 +52,12 @@ Gross profit = £184,000 − £110,400 = **£73,600**
 
 This is not the money the owner can keep. The shop still has to pay rent, wages, insurance and interest from this figure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--02-wickham-pence-per-pound.webp" width="900" height="890" alt="One bar stands for £1 of sales: 60p cost of sales, 28.8p other operating expenses, 1.7p interest and 9.5p net profit. Gross profit is the last 40p and net profit the last 9.5p, a gap of 30.5 percentage points." loading="lazy">
+  <figcaption>Each margin is a share of £1 of sales revenue: 40.0% gross, 9.5% net.</figcaption>
+</figure>
+
+
 ## Part 2: net profit
 
 Net profit is what remains after the other costs of running the business have been paid. Appendix 3 gives the formula.
@@ -66,6 +72,12 @@ Other operating expenses are the running costs that are not part of cost of sale
 2. Net profit = £73,600 − £56,100 = **£17,500**
 
 If the answer to a net profit calculation is negative, the business has made a loss for the period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--01-wickham-sales-to-net-profit.webp" width="900" height="910" alt="A waterfall shows Wickham Row Cycles sales revenue of £184,000, less cost of sales £110,400 to leave gross profit £73,600, less expenses and interest £56,100 to leave net profit £17,500." loading="lazy">
+  <figcaption>Gross profit is what is left after cost of sales; net profit is what is left after expenses and interest too.</figcaption>
+</figure>
+
 
 ## Part 3: gross and net profit margin
 
@@ -120,6 +132,17 @@ For the shop in this example, the cost of sales rose by 17.0% while sales revenu
 
 Each has a risk. A price rise can lose customers, and a cheaper supplier can lower quality. Good answers apply the point to the business in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--03-wickham-margins-year-compare.webp" width="900" height="970" alt="Bars compare Wickham Row Cycles in two years. Gross margin falls from 40.0% to 37.0% and net margin from 9.5% to 8.7%, although sales rise 11.4% and net profit 2.0%. Cost of sales rose 17.0%." loading="lazy">
+  <figcaption>Net profit rose in pounds but both margins fell; 40.0% to 37.0% is a fall of 3 percentage points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--01-margin-levers-wickham-row.webp" width="900" height="836" alt="Grouped bars for Wickham Row Cycles, sales 184,000 pounds. Now: gross margin 40.0% and net margin 9.5%. Raising price (sales up 5,000 pounds): 41.6% and 11.9%. Cutting cost of sales by 5,000 pounds: 42.7% and 12.2%. Cutting other expenses by 5,000 pounds: gross stays 40.0%, net 12.2%." loading="lazy">
+  <figcaption>Each change adds 5,000 pounds of net profit, but only the first two lift gross margin.</figcaption>
+</figure>
+
+
 ## Part 5: average rate of return
 
 A business may spend money on an investment, such as a new machine, a van or a shop refit, and wants to know what it earns each year compared with its cost. Appendix 3 gives the formula.
@@ -138,6 +161,17 @@ Total profit here means the profit the investment is expected to produce over it
 The answer says that, on average, each £1 spent on the kiln is expected to bring back 25p of profit a year.
 
 If a question gives the cash the investment will bring in, not the profit, the cash returned includes the money that pays back the cost, so work out the profit first by taking the cost off. Check the wording, and if it is unclear, say how you have treated the figures. That is advice on method, not wording from the specification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--04-juniper-average-annual-profit.webp" width="900" height="880" alt="Five bars show forecast kiln profits of £3,000, £5,400, £6,600, £7,200 and £7,800. A dashed line marks the £6,000 average, which is 25% of the £24,000 cost." loading="lazy">
+  <figcaption>Average annual profit is total profit divided by years; the rate is that average divided by cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--05-juniper-arr-a-vs-b.webp" width="900" height="940" alt="Two bars each stand for a kiln cost. A earns £6,000 a year on £24,000 (25%); B earns £4,950 a year on £18,000 (27.5%). B has the higher rate; A has the larger yearly and total profit." loading="lazy">
+  <figcaption>B has the higher rate of return, A the larger profit: choose one and justify it.</figcaption>
+</figure>
+
 
 ## Part 6: interpreting average rate of return
 

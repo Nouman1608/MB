@@ -42,6 +42,12 @@ These notes condense **section 3.1.1, Economic foundations**, of the AQA specifi
 - Quality can blur the line. Food is a need, but expensive restaurant meals are a want.
 - **Central purpose of economic activity:** to make goods and services that meet needs and wants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--04-needs-wants-line-moves.webp" width="900" height="890" alt="A strip splits needs from wants. A dashed line shows the boundary a century ago and a solid line shows today, with an internet connection moving from want to need. Two more strips show a coat as a need in a cold climate and closer to a want in a warm one." loading="lazy">
+  <figcaption>The needs and wants boundary moves with time, technology and place.</figcaption>
+</figure>
+
+
 ## The three key decisions
 
 | Decision | Ask | Typical contrast |
@@ -56,6 +62,17 @@ These notes condense **section 3.1.1, Economic foundations**, of the AQA specifi
 2. Divide by output to get cost per unit.
 3. Compare, then add non-cost points such as jobs lost or the risk of relying on a machine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--07-how-to-produce-cost.webp" width="900" height="980" alt="Labour-intensive costs 8,000 pounds (8.00 a unit); capital-intensive costs 5,500 (5.50 a unit), saving 2,500 but 15 workers lose jobs. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Comparing methods of production by cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--05-three-key-decisions.webp" width="900" height="930" alt="Three rows: what to produce (homes or shopping centres), how to produce (hand-picking at 8 pounds a unit or a machine at 5.50 a unit), who benefits (anyone who can pay or shared by need)." loading="lazy">
+  <figcaption>Every society must decide what, how and for whom to produce.</figcaption>
+</figure>
+
+
 ## The main groups and how they interact
 
 - **Consumers** sell labour and receive wages, then spend on products.
@@ -63,6 +80,12 @@ These notes condense **section 3.1.1, Economic foundations**, of the AQA specifi
 - **Government** collects taxes, provides public services, pays benefits, gives subsidies and sets rules.
 
 Link them in a chain: a rise in a tax on firms lowers profit, which may lead to higher prices or fewer jobs, which changes what consumers can afford.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--06-gcse-circular-flow.webp" width="900" height="990" alt="Consumers and producers exchange spending and goods and services, labour and resources, and wages, rent, interest and profit. Both pay taxes to government, which returns benefits and public services to consumers and subsidies and rules to producers." loading="lazy">
+  <figcaption>How consumers, producers and government are linked by flows of money, goods and resources.</figcaption>
+</figure>
+
 
 ## Factors of production and rewards
 
@@ -100,6 +123,17 @@ Saving: 4,200 - 3,500 = £700 a week
 
 Cost per chair favours the machine. The wider answer notes that eight jobs go and the workshop depends on orders staying high.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--08-bakery-rewards.webp" width="900" height="900" alt="One bar of 8,000 pounds revenue split into rent, wages, interest, ingredients and profit, labelled with the factor each rewards. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Revenue is shared out as rewards to the factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## Scarcity and choice
 
 - Resources are scarce; wants are unlimited. Therefore choices must be made, and every choice has a cost.
@@ -136,6 +170,27 @@ Switching only 4 hectares from wheat to potatoes: gain 4 × 1,150 = £4,600, los
 **Worked reminder: an individual.** Sam has a four-hour Saturday shift at £9 an hour: 4 × 9 = £36. If the next best use of those hours is a trip valued at £30, taking the shift gives a net advantage of £6. Sam must also weigh unmeasured costs such as tiredness.
 
 **Cost-benefit decision rule:** compare net benefit (benefit minus cost) for each option, then question the data. Estimates can be wrong, some benefits cannot be priced, and different groups gain or lose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--09-oven-opportunity-cost.webp" width="900" height="920" alt="Three oven hours make 72 cakes or 180 loaves; choosing cakes gives up 180 loaves, so one cake costs 2.5 loaves. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Opportunity cost in a bakery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--10-net-benefit-choice.webp" width="900" height="980" alt="Park net 30, car park net 35, library net 25. The car park is chosen and the park is the opportunity cost. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Choose the highest net benefit; opportunity cost is the next best.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--07-hospital-or-schools.webp" width="900" height="830" alt="120 million pounds buys one hospital wing or three 40 million schools. Choosing the wing costs three schools; choosing three schools costs the wing." loading="lazy">
+  <figcaption>Opportunity cost is the best alternative given up, not the money spent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -178,3 +233,9 @@ Switching only 4 hectares from wheat to potatoes: gain 4 × 1,150 = £4,600, los
 ## Official syllabus
 
 Source: the AQA GCSE Economics specification (8136), Version 1.0, published by AQA, for first teaching from September 2017. This page follows section 3.1.1, Economic foundations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+

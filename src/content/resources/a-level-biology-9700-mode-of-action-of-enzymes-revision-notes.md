@@ -69,6 +69,12 @@ The deciding factor is **where the enzyme acts**. Every enzyme is made inside a 
 
 The enzyme lowers activation energy only. The energy of substrates and products, and so the **overall energy change**, stays the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
+</figure>
+
+
 ## Lock-and-key vs induced fit
 
 | Feature | Lock-and-key | Induced fit |
@@ -81,6 +87,12 @@ The enzyme lowers activation energy only. The energy of substrates and products,
 | Explains a small range of similar substrates? | No | Yes |
 
 One-line distinction: in induced fit, the **active site** changes shape when the substrate binds; in lock-and-key, it does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -102,6 +114,12 @@ One-line distinction: in induced fit, the **active site** changes shape when the
 - Alternative: time how long an extract-soaked filter-paper disc takes to rise through hydrogen peroxide.
 - Plot volume against time; the curve is steepest at the start and levels off when the substrate is used up.
 - Rate = volume ÷ time (cm³ s⁻¹). Initial rate = gradient of tangent at t = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
+  <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
+</figure>
+
 
 ## Method box: amylase (substrate disappearing)
 
@@ -156,6 +174,22 @@ Coloured substrate disappearing → absorbance falls. Coloured product forming �
 10. The blue-black solution absorbs red light most strongly, so absorbance changes most with starch concentration.
 11. A blank containing everything except the coloured starch–iodine complex, for example iodine solution and water.
 12. The total oxygen depends on how much substrate was present; the initial rate shows how fast the enzyme works before substrate concentration falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

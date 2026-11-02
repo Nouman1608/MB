@@ -133,6 +133,17 @@ Standards go on the same plate because Rf values change with the solvent, the st
 conditions; side by side, sample and standard get identical treatment. A match is good evidence, not proof:
 two substances can share an Rf value in one solvent. Repeating in a different solvent is a further test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## Column chromatography (CC)
 
 A vertical column is packed with a solid, the stationary phase. The mixture is added at the top and solvent is
@@ -163,6 +174,12 @@ The peaks match D and F, so the sample **contains D and F**; no E is detected. T
 retention time on one column, so a match is strong evidence, not certainty. That is one reason GC is combined
 with mass spectrometry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
+
 ## Mass spectrometry of the components separated by GC
 
 In GC-MS, the gas leaving the column passes into a mass spectrometer. GC has already separated the mixture,
@@ -185,6 +202,12 @@ C5H12N2 : 5(12.0000) + 12(1.0078) + 2(14.0031)          = 100.0998
 ```
 
 Only **C₄H₈N₂O** matches. GC separated this component; mass spectrometry identified its formula.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ## Required practical 12: separation of species by TLC
 
@@ -223,6 +246,12 @@ Condense this with the [revision notes](/resources/aqa-a-level-chemistry-chromat
 try the [practice questions](/resources/aqa-a-level-chemistry-chromatography-practice/). The transition metal
 ion tests in [reactions of ions in aqueous solution](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution/)
 pair with the suggestion of using TLC on transition metal ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

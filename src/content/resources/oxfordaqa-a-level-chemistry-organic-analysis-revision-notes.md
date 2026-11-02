@@ -109,6 +109,17 @@ C3H10N2O : 3(12.0000) + 10(1.0078) + 15.9949 + 2(14.0031)     = 90.0791
 The molecular formula is **C₄H₁₀O₂**. It might be a diol such as butane-1,4-diol, or many other isomers.
 Only IR, test tube results or fingerprint comparison can go further.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## 3.3.6.3 Infrared spectroscopy
 
 **Key idea.** Each type of bond absorbs IR radiation in its own wavenumber range (cm⁻¹). A spectrum shows transmittance

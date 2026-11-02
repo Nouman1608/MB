@@ -47,6 +47,12 @@ A budget is a plan, stated in money terms, for a coming period. Budgetary contro
 
 **Disadvantages:** a wrong formula or hard-coded number can pass unnoticed and spread through linked sheets; weak version control and access control; files can be lost or altered without a record; staff need skills; a polished layout can hide poor assumptions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+
 ## 3. The master budget
 
 The master budget brings the functional budgets together into a summary: usually the budgeted statement of profit or loss, the budgeted statement of financial position and the cash budget. Management and owners can then see whether the plan achieves the organisation's objectives.
@@ -165,6 +171,52 @@ April ends overdrawn, so the business should arrange an overdraft or delay the e
 
 Non-current assets: 50,000 + 14,000 - 2,400 depreciation = 61,600. Retained earnings: 16,496 + 37,800 = 54,296. Closing inventory: materials 756 kg x 4 = 3,024 plus finished goods 5,200. The statement balances, which checks the earlier budgets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--01-limiting-factor-cap.webp" width="900" height="870" alt="Customer demand of 1,300 units is compared with production capacity of 1,200 units; the extra 100 units have no capacity, so the sales budget is the smaller figure, 1,200. Overtime, subcontracting and new machinery are shown as ways to lift the cap." loading="lazy">
+  <figcaption>The budget starts from the constraint: demand is capped by capacity unless capacity is increased.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--01-budget-purchases-labour.webp" width="900" height="1250" alt="Two bars per month show materials needed (used plus closing inventory) equal materials available (opening plus purchases), giving purchases of 2,200, 2,564 and 2,688 kg costing 8,800, 10,256 and 10,752 dollars. Below, units made times 0.75 hours at 12 dollars give labour costs of 9,360, 11,160 and 12,420 dollars." loading="lazy">
+  <figcaption>Purchases are what is needed less what is already held; labour is units times hours times rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--02-budget-receivables-payables.webp" width="900" height="1090" alt="Cash received each month equals the previous month’s credit sales, and cash paid equals the previous month’s purchases. Closing receivables of 42,000 and payables of 10,752 dollars are June’s credit sales and purchases." loading="lazy">
+  <figcaption>Receivables and payables are collected and paid one month later, so each closing balance is the latest month’s figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--03-budget-profit-statement.webp" width="900" height="990" alt="Revenue of 144,000 dollars less cost of sales 72,000 gives gross profit of 72,000. Selling expenses of 7,200 and fixed overheads of 27,000 (including 2,400 depreciation) leave a profit of 37,800 dollars." loading="lazy">
+  <figcaption>The budgeted profit builds from revenue down through cost of sales and expenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--04-budget-position-balances.webp" width="900" height="1096" alt="Assets of 125,048 dollars less payables of 10,752 leave net assets of 114,296, equal to share capital 60,000 plus retained earnings 54,296. Retained earnings are 16,496 plus the quarter’s profit of 37,800." loading="lazy">
+  <figcaption>Net assets equal equity, which checks that the earlier budgets agree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--01-budget-order.webp" width="900" height="1060" alt="A flow chart starts with the principal budget factor, usually sales demand. The sales budget feeds the production budget, which feeds the purchases and labour budgets. These feed the cash budget, then the budgeted income statement and financial position, which together form the master budget. Edexcel also adds receivables, payables and capital budgets." loading="lazy">
+  <figcaption>Budgets are prepared in a fixed order, each feeding the next, ending in the master budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--02-production-budget.webp" width="900" height="880" alt="For April, May and June, a bar of what is needed (sales plus closing stock) sits above a bar of what is available (opening stock plus production); both have equal totals of 500, 620 and 710 units. Each month's closing stock becomes the next month's opening stock." loading="lazy">
+  <figcaption>Production is the amount needed to meet sales and closing stock after using up opening stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--03-receipts-timing.webp" width="900" height="700" alt="Three boxes show May, June and July sales. Arrows lead to a July receipts bar of 32,400 pounds made up of 9,000 from May credit sales, 14,400 from June credit sales and 9,000 of July cash sales." loading="lazy">
+  <figcaption>Cash is budgeted in the month it arrives, not the month of the sale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--04-cash-budget-balance.webp" width="900" height="910" alt="Bars show the forecast closing bank balance: 2,400 pounds in July, an overdraft of 7,900 in August and 3,500 in September. Cash in and out are listed for each month. A note says the August van purchase causes the overdraft and depreciation never appears in a cash budget." loading="lazy">
+  <figcaption>The cash budget warns months ahead that an overdraft will be needed.</figcaption>
+</figure>
+
+
 ## 5. Flexible budgets
 
 A fixed budget is set for one planned activity level and is not changed. If actual output differs, comparing actual costs with it is unfair: higher output naturally costs more. A flexible budget restates the budget for the actual activity level. Variable items are recalculated per unit; fixed items stay the same within the normal range of activity.
@@ -188,6 +240,12 @@ Planned sales and output were 2,000 lamps; 2,300 were made and sold. Selling pri
 
 Against the fixed budget, profit looks 1,100 better. Against the flexed budget it is 5,800 worse. The extra 300 lamps explain a rise of 6,900 (300 x 23 contribution); the cost and price differences explain the rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--02-production-cost-reconciliation.webp" width="900" height="900" alt="A waterfall for Sutterby Lamps starts at the flexible budgeted cost of production, 69,500 dollars. Materials add 2,300 adverse, labour takes off 300 favourable, variable production overhead adds 600 adverse and fixed production overhead adds 400 adverse, reaching actual production cost of 72,500. Selling and administration costs are excluded." loading="lazy">
+  <figcaption>Production costs only: 69,500 + 2,300 - 300 + 600 + 400 = 72,500.</figcaption>
+</figure>
+
+
 ## 6. Causes of differences
 
 Differences between actual and flexed figures are not caused by volume. Possible causes: supplier price changes or discounts; poorer or better quality material; waste and spoilage; labour overtime, pay awards or slower work; machine breakdowns; selling price cuts or discounts to win sales; inflation in overheads; budget errors. Causes can be linked: cheaper low-quality material may give an adverse usage difference, and a price cut might lift volume. Adverse means profit is lower than the flexed budget; favourable means higher.
@@ -208,6 +266,12 @@ Differences between actual and flexed figures are not caused by volume. Possible
 Check: 69,500 + 2,300 - 300 + 600 + 400 = 72,500.
 
 **Flexible budgeted profit to actual profit**: start with 26,900, add favourable and deduct adverse differences, including revenue and selling costs: 26,900 - 2,300 (revenue) - 2,300 + 300 - 600 - 400 - 200 - 300 = 21,100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--05-budget-profit-reconciliation.webp" width="900" height="894" alt="A waterfall from the flexed budgeted profit of 26,900 dollars applies seven differences (revenue 2,300 A, materials 2,300 A, labour 300 F, variable production overhead 600 A, fixed production overhead 400 A, variable selling 200 A, fixed administration and selling 300 A) to reach the actual profit of 21,100 dollars." loading="lazy">
+  <figcaption>Each favourable or adverse difference moves flexed profit step by step to actual profit.</figcaption>
+</figure>
+
 
 ## 8. Behavioural aspects
 

@@ -52,6 +52,17 @@ Values between 0 and 0.5 are unlikely and values between 0.5 and 1 are likely. A
 P(on time) = 1 - 0.12 = 0.88
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--01-probability-scale.webp" width="900" height="840" alt="A bag of 20 beads (4 green, 6 yellow, 10 white) above a number line from 0 impossible to 1 certain. A black bead sits at 0, a white bead at 0.5 and the event not green at 0.8. The left half is unlikely and the right half likely." loading="lazy">
+  <figcaption>Probabilities run from 0 (impossible) to 1 (certain), with 0.5 an even chance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+
 ## 11.01d: Equally likely outcomes
 
 When every outcome is equally likely, as with a fair coin, a fair dice or a bag of identical counters:
@@ -87,6 +98,17 @@ An experiment is **random** if you cannot predict the next outcome, even though 
 
 Randomness also means that past results do not change the next one. If a fair coin has landed heads four times in a row, the chance of heads next time is still 1/2. Short runs of the same result are normal in random experiments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--10-equally-likely-tiles.webp" width="900" height="880" alt="Ten tiles spell STATISTICS. Highlighting the 3 T tiles gives P(T) = 3/10, the 2 I tiles P(I) = 1/5 and every tile except the 3 S tiles P(not S) = 7/10." loading="lazy">
+  <figcaption>With equally likely outcomes, probability is wanted tiles divided by all tiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--01-coin-run-independence.webp" width="900" height="880" alt="Four heads in a row are followed by a question mark for the next toss. Two equal bars show heads and tails are each still 1/2 likely. A note says HHHHH and HHHHT are each 1/32 likely." loading="lazy">
+  <figcaption>A run of heads does not change the chance of heads next time.</figcaption>
+</figure>
+
+
 ## 11.01d: Two dice and simple combined events
 
 When two fair dice are rolled and the scores added, list every pair in a table. There are 36 equally likely pairs.
@@ -117,6 +139,22 @@ The number of ways to make each total, in order from 2 to 12, is 1, 2, 3, 4, 5, 
 
 Do not use 11 totals as the sample space. The totals 2 to 12 are not equally likely, which is why you list the 36 pairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--12-two-dice-totals.webp" width="900" height="900" alt="A bar chart of ways to make each total from 2 to 12 with two dice: 1, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1 (36 in all). Prime totals 2, 3, 5, 7, 11 are highlighted with 1 + 2 + 4 + 6 + 2 = 15 ways, so P(prime) = 15/36 = 5/12." loading="lazy">
+  <figcaption>Totals are not equally likely, so count the 36 pairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--02-dice-doubles-diagonal.webp" width="900" height="880" alt="A 6 by 6 grid of two-dice totals with the diagonal from (1,1) to (6,6) highlighted. These 6 doubles out of 36 pairs give P(same score) = 6/36 = 1/6." loading="lazy">
+  <figcaption>The doubles sit on the diagonal of the grid: 6 of the 36 pairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+
+
 ## 11.01d: Expected outcomes
 
 If an experiment is repeated n times and the probability of an outcome is p, the expected number of times it happens is:
@@ -135,6 +173,12 @@ P(prime total) = 15/36 = 5/12, so expected = 5/12 × 144 = 60
 ```
 
 **Worked example 6.** A fair dice is rolled 240 times. Expected number of multiples of 3 (3 and 6): P = 2/6 = 1/3, so 1/3 × 240 = **80**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--06-expected-frequency.webp" width="900" height="990" alt="Three bars with the expected share shaded: a fair ten-sided dice rolled 150 times gives 45 multiples of 3; a spinner with P(4) 0.355 spun 600 times gives 213; a town of 18400 adults with probability 0.065 gives 1196 cyclists." loading="lazy">
+  <figcaption>Expected frequency is probability times number of trials, an average rather than an exact result.</figcaption>
+</figure>
+
 
 ## 11.01b: Relative frequency, tables and frequency trees
 
@@ -167,6 +211,12 @@ Overall: (205 + 96)/400 = 301/400 = 0.7525
 Seeds on the sunny shelf germinated more often (0.82 compared with 0.64), so in this experiment light seems to help germination. Describe the pattern in words as well as giving the numbers.
 
 When you are asked to record results, a tally table with a total row and a relative frequency column is clear and easy to check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--11-frequency-tree-seeds.webp" width="900" height="920" alt="A frequency tree for 400 seeds: sunny shelf 250 (205 germinated, 45 not) and shaded shelf 150 (96 germinated, 54 not). Bars compare germination relative frequency: sunny 0.82, shaded 0.64, overall 0.7525." loading="lazy">
+  <figcaption>A frequency tree holds counts, and relative frequencies compare the groups.</figcaption>
+</figure>
+
 
 ## 11.01c: Relative frequency as an estimate of probability
 
@@ -201,6 +251,22 @@ A fair coin has P(heads) = 0.5.
 ```
 
 With 1000 trials, a gap of 0.061 is bigger than you would usually expect from chance, so the result suggests the coin may be biased towards heads. It does not prove it. To be more confident, repeat the experiment with more trials. If the relative frequency stayed near 0.56 as the trials grew, the case for bias would be stronger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--03-spinner-settles.webp" width="900" height="920" alt="A spinner with 8 equal sectors, 2 red, has P(red) = 0.25. The relative frequency of red for 20, 50, 100, 500 and 2000 spins (0.15, 0.22, 0.27, 0.256, 0.2485) moves towards the dashed line at 0.25." loading="lazy">
+  <figcaption>With more spins the relative frequency settles close to the theoretical 0.25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
+  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--05-fair-or-biased.webp" width="900" height="850" alt="Bar chart of relative frequencies after 200 spins: 1 is 0.155, 2 is 0.26, 3 is 0.23, 4 is 0.355. A dashed line at 0.25 shows a fair spinner. Scores 1 and 4 are far from it, which suggests bias." loading="lazy">
+  <figcaption>Results far from 0.25 after many spins suggest, but do not prove, a biased spinner.</figcaption>
+</figure>
+
 
 ## Common errors
 

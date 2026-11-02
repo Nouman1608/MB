@@ -65,6 +65,12 @@ You do not need the principle of equi-marginal utility, or to use it to explain 
 
 Sketch of the logic in words: the MU curve is a downward line, the quantity bought is where it falls to the price, and a lower price means a point further along it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--05-mu-to-demand.webp" width="900" height="960" alt="Bars give the value of visits 1 to 4 (20, 15, 10, 5). At prices 16, 12, 8 and 4 she buys 1, 2, 3 and 4 visits." loading="lazy">
+  <figcaption>Diminishing marginal utility gives a downward-sloping demand curve.</figcaption>
+</figure>
+
+
 ## Information
 
 | Idea | Key points |
@@ -81,6 +87,22 @@ Sketch of the logic in words: the MU curve is a downward line, the quantity boug
 4. Conclude that mutually beneficial trades do not happen, so resources are misallocated.
 
 **Worked reminder.** A lender in Country C cannot tell safe borrowers from risky ones. Of 600 borrowers, 300 are safe (expected loss 20 each) and 300 risky (expected loss 100 each). The average expected loss is (20 + 100) ÷ 2 = 60, so every borrower is charged 60 for risk. Safe borrowers who would pay no more than 40 for the loan's risk charge leave. The 300 risky borrowers remain, each costing 100 in expected loss but paying 60, so the lender loses 300 × (100 - 60) = 12,000. The charge must rise towards 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--06-tariff-information.webp" width="900" height="940" alt="Tariff X (20 + 0.12 per unit) and Y (90 + 0.08 per unit) cross at 1,750 units. At 1,500 units X costs 200 and Y 210." loading="lazy">
+  <figcaption>Comparing only unit prices can mislead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--10-adverse-selection-insurance.webp" width="900" height="890" alt="At a premium of 300 the insurer breaks even (300,000 in and out). When low-risk customers leave, 150,000 comes in against 250,000 of claims, a loss of 100,000." loading="lazy">
+  <figcaption>Adverse selection makes a market fail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## Behavioural economics
 
@@ -111,6 +133,12 @@ Behavioural economists question the assumption that individuals are rational uti
 
 **Worked reminder (anchoring).** A shop shows a coat as "was 200, now 130". The saving looks like 35%, since 70 ÷ 200 = 0.35. If the coat was only ever sold for 140, the true saving is 10 ÷ 140, about 7%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--11-gym-bounded-self-control.webp" width="900" height="870" alt="A member plans 12 visits but makes 3. Cost per visit rises from 3 to 12; pay-per-visit would have cost 21 against 36 paid, a loss of 15." loading="lazy">
+  <figcaption>Bounded self-control: knowing the plan but not following it.</figcaption>
+</figure>
+
+
 ## Firms, governments and nudges
 
 | Actor | Use of behavioural evidence |
@@ -124,6 +152,12 @@ Behavioural economists question the assumption that individuals are rational uti
 - Against: may fade, vary between people, be hard to measure, and could be too weak for large externalities. Some people object that nudges manipulate.
 
 **Worked reminder.** A city has 4,000 drivers. Under opt-in, 25% join a car-share scheme: 1,000. Under opt-out, 55% stay in: 2,200. That is 1,200 more. The nudge changes the default and not the price, so inertia does the work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--14-default-enrolment-nudge.webp" width="900" height="1010" alt="Opt-in gets 280 of 800 staff saving, opt-out 640, worth 259,200 a year extra. A council letter raises on-time payment from 15,600 to 16,600 households at 10 each." loading="lazy">
+  <figcaption>Nudges steer choice through defaults and norm messages.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -161,6 +195,12 @@ Behavioural economists question the assumption that individuals are rational uti
 - Treating a nudge as a ban, a tax or a subsidy.
 - Evaluating nudges with a list and no judgement.
 - Leaving a calculation without saying what the number means.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--04-total-marginal-utility.webp" width="900" height="1080" alt="Total utility 40, 70, 90, 100, 100, 90 for visits 1 to 6; marginal utility 40, 30, 20, 10, 0, -10. TU peaks where MU is zero." loading="lazy">
+  <figcaption>Diminishing marginal utility and the TU/MU link.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

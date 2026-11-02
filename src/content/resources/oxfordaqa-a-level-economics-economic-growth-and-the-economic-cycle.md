@@ -74,6 +74,37 @@ Average annual (compound) rate = 1.20^(1/6) - 1 = 3.09%
 
 A simple average (20% / 6 = 3.33%) overstates it because growth compounds. If the trend rate were 3% and potential output started at 1,800, it would reach 1,800 x 1.03^6 = 2,149 after six years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--06-ppd-short-vs-long-growth.webp" width="900" height="955" alt="Production possibility diagram with capital goods and consumer goods on the axes. Point A is inside boundary PPB 1, with unemployed resources. Moving to B on the boundary is short-run growth. Moving to C on a boundary 25 percent further out is long-run growth because capacity has risen. The Keynesian view is that an economy can stay inside the boundary for years." loading="lazy">
+  <figcaption>Short-run growth moves towards the boundary; long-run growth shifts the whole boundary outwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--07-trend-rate-compound.webp" width="900" height="870" alt="Real output starts at 1,800. Growing at the compound rate of 3.09 percent a year it reaches 2,160 after six years. Growing at the simple-average rate of 3.33 percent a year compounded, it would reach about 2,191, so the simple average overstates the trend rate." loading="lazy">
+  <figcaption>The compound rate 1.20^(1/6) - 1 = 3.09% reaches 2,160; compounding the simple average 3.33% overshoots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+
 ## 2. Determinants of growth
 
 Split causes by what they change.
@@ -100,6 +131,17 @@ Contributions (percentage points): C 1.5, I 1.0, G 0.5, net exports -0.5
 
 **Evaluation.** Demand-side policies can speed up short-run growth but cannot lift the trend rate unless they also raise investment, which raises capacity. Supply-side improvements raise the trend rate but usually take years to work. A balanced answer says which is more relevant to the economy described, using the evidence in the data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--04-growth-contributions.webp" width="900" height="820" alt="A waterfall in percentage points: consumption +1.5, investment +1.0, government +0.5 and net exports -0.5 add to 2.5% growth on a base of 1,200." loading="lazy">
+  <figcaption>Each demand component contributes a share of the 2.5% growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+
 ## 3. Output gaps
 
 **Potential output** is the level of real GDP the economy can sustain when its resources are normally employed. It is the position of the vertical LRAS curve.
@@ -121,6 +163,17 @@ Output gap (%) = (actual real GDP - potential real GDP) / potential real GDP x 1
 A positive gap usually brings inflationary pressure, because firms bid for scarce labour and materials and operate above normal capacity; unemployment is likely to be low. It tends to pull in imports. A negative gap means idle resources, higher cyclical (demand-deficient) unemployment and downward pressure on inflation.
 
 **Evaluation points.** Potential output cannot be observed directly, so gaps are estimates and get revised. A gap measured in one year says nothing certain about the next. Also, growth and the gap are different things: if potential grows 3% a year, actual growth of 2% still widens a negative gap, even though real GDP is rising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--01-output-gap.webp" width="900" height="850" alt="Real GDP of 861 and 806.4 are plotted against potential output of 840, showing a positive gap of +2.5% and a negative gap of -4.0%. The dashed line is potential output." loading="lazy">
+  <figcaption>A positive gap means output above normal capacity; a negative gap means idle resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--03-gap-widens-while-growing.webp" width="900" height="920" alt="Potential output grows 3% a year and actual real GDP 2% a year from the same start. Both rise, but the shaded gap grows from 0 to about -4.8% by year 5." loading="lazy">
+  <figcaption>Real GDP can rise while the negative output gap widens.</figcaption>
+</figure>
+
 
 ## 4. The economic cycle
 
@@ -145,6 +198,12 @@ The **economic cycle** is the repeated rise and fall of actual real GDP around i
 
 Notice the timing. In year 2, growth has slowed, yet inflation is higher than in year 1 and unemployment is at its lowest. Both lag real GDP. In year 4, output grows again but unemployment is at its highest. Investment moves the most, because firms respond strongly to changes in growth and confidence. Use several indicators together; one indicator on its own can mislead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--02-cycle-indicators-lag.webp" width="900" height="1085" alt="Four small charts show growth, inflation, unemployment and investment for five years, shaded by phase. Growth peaks first, inflation a year later and unemployment last, in year 4. Investment moves the most." loading="lazy">
+  <figcaption>Inflation and unemployment lag real GDP, so several indicators must be read together.</figcaption>
+</figure>
+
+
 ## 5. Demand-side and supply-side shocks
 
 A **shock** is a sudden, unexpected event that shifts AD or SRAS. It may start at home or abroad.
@@ -168,6 +227,12 @@ If the multiplier is 2: fall in GDP = 15 x 2 = 30  (3.0% of GDP)
 A country that depends heavily on exports is exposed to this kind of shock. A less open economy would feel less.
 
 **Evaluation.** The size of the effect depends on how large and how long-lasting the shock is, how open the economy is, how much spare capacity exists, how flexible wages and prices are, and the government's response. A temporary supply shock may leave capacity unchanged. A deep recession that scraps firms and leaves workers jobless for long periods can reduce capacity, shifting LRAS left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--05-export-shock-multiplier.webp" width="900" height="800" alt="Exports of 300 are 30% of GDP of 1,000. A 5% fall in exports is a loss of 15 (1.5% of GDP) which a multiplier of 2 turns into a 30 fall (3.0% of GDP): 15 first-round and 15 knock-on." loading="lazy">
+  <figcaption>A shock abroad is multiplied into a larger fall in domestic GDP.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -26,6 +26,12 @@ and for a paper-by-paper exam-day plan see the
 
 Because the mathematical exploration is worth 20% at both SL and HL -- at SL that equals half of Paper 1 or Paper 2 (40% each), while at HL it equals two-thirds of Paper 1 or Paper 2 (30% each) and exactly matches Paper 3 (20%) -- and is completed over an extended period without exam-day time pressure, it is one of the most controllable components of the final grade if work begins early. A first draft written and checked against the criteria well before the deadline, then revised at least once, consistently outperforms one rushed in the final weeks, so treating exploration milestones with the same seriousness as an exam date protects a meaningful share of the overall grade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--04-exploration-vs-papers.webp" width="900" height="880" alt="Bars to one scale. At SL the exploration (20%) is half of Paper 1 or 2 (40%). At HL it is two thirds of Paper 1 or 2 (30%) and equals Paper 3 (20%)." loading="lazy">
+  <figcaption>The exploration is worth 20% at both levels: half of a paper at SL, two thirds at HL, and equal to Paper 3.</figcaption>
+</figure>
+
+
 ## SL vs HL
 
 | Component | SL | HL |
@@ -36,6 +42,12 @@ Because the mathematical exploration is worth 20% at both SL and HL -- at SL tha
 | Mathematical exploration (internal) | 20% | 20% |
 
 The current course's Paper 3 duration is 1 hour 15 minutes, per the live examination schedule, through its final session in November 2028. Its successor course, first assessed in 2029, shortens Paper 3 to 1 hour -- that reduction does not apply to the course covered in these notes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--03-assessment-weightings.webp" width="900" height="820" alt="Two stacked bars each totalling 100%. SL: Paper 1 40% (1.5 h, no calculator), Paper 2 40% (1.5 h), exploration 20%. HL: Paper 1 30% (2 h, no calculator), Paper 2 30% (2 h), Paper 3 20% (1 h 15, HL only), exploration 20%." loading="lazy">
+  <figcaption>Weightings and durations of each component at SL and HL; only Paper 1 is sat without technology.</figcaption>
+</figure>
+
 
 ## The defining feature vs. Applications and Interpretation
 
@@ -63,6 +75,12 @@ Both DP mathematics courses are assessed to the same demanding IB standard and c
 ## Command terms across the papers
 
 As with every DP mathematics course, command terms signal the depth of response expected: **calculate**, **find**, **solve** and **write down** point to a direct computational or algebraic answer; **hence** or **hence or otherwise** require building on a previous part of the same question, often reusing a result just derived; **show that** requires a fully justified derivation reaching a given result, with every algebraic step shown, rather than simply stating the answer is correct; **prove** requires a rigorous, logically complete argument, most often tested at HL. Losing marks on a "show that" question by skipping intermediate algebraic steps, even when the final answer matches, is one of the most common and avoidable errors in this course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--05-show-that-steps.webp" width="900" height="890" alt="A worked example: show that 2(x+1)^2 minus 8 equals 2(x minus 1)(x plus 3), in five equal lines: expand the bracket, collect terms, factor out 2, factorise. Skipping lines can lose marks even if the final line matches; calculate asks only for the answer." loading="lazy">
+  <figcaption>A &quot;show that&quot; question needs every algebraic step written out.</figcaption>
+</figure>
+
 
 ## Exam traps
 

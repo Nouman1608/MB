@@ -60,6 +60,17 @@ The plum pudding model could not explain large deflections, because spread-out p
 
 Scientists checked and built on each other's work, and that teamwork is part of how models develop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-atomic-model-atomic-size-and-density--01-atom-models-timeline.webp" width="900" height="1030" alt="Three models in order. Plum pudding: ball of positive charge with electrons embedded, evidence the electron. Nuclear model: tiny dense positive nucleus with electrons around it, evidence alpha scattering. Bohr model: electrons in orbits at fixed distances, evidence light of set colours." loading="lazy">
+  <figcaption>Each atomic model replaced the last because it fitted new evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
+
 ## P1.1b: the nuclear atom
 
 An atom has a **positively charged nucleus** surrounded by **negatively charged electrons**. Three facts to state:
@@ -74,6 +85,12 @@ Nucleus = 100 m ÷ 10 000 = 0.010 m = 1.0 cm. It is a marble in the middle of a 
 
 Because volume depends on the cube of the radius, the nucleus occupies a fraction of about (1 ÷ 10 000)³ = 1 × 10⁻¹² of the atom's volume. Yet it holds almost all the mass. This is why the nucleus is extremely dense and why the atom is mostly empty space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-atomic-model-atomic-size-and-density--01-nucleus-scale.webp" width="900" height="1070" alt="An atom drawn as a 100 m stadium with a tiny dot at the centre. A magnified marble shows the nucleus is 100 m divided by 10 000 = 1.0 cm. Its volume is (1/10 000) cubed = 1 x 10^-12 of the atom, yet it holds almost all the mass." loading="lazy">
+  <figcaption>The nucleus is about 10 000 times smaller across than the atom.</figcaption>
+</figure>
+
+
 ## P1.1c: sizes to recall
 
 The specification says to know that atoms and small molecules are typically **1 × 10⁻¹⁰ m** across. This is an order of magnitude, not an exact value. Different atoms differ a little, and bigger molecules are larger.
@@ -83,6 +100,12 @@ The specification says to know that atoms and small molecules are typically **1 
 0.080 mm = 8.0 × 10⁻⁵ m. Number = 8.0 × 10⁻⁵ ÷ 1 × 10⁻¹⁰ = 8 × 10⁵, or about 800 000 atoms.
 
 Be careful with terms. A molecule is two or more atoms joined together. "Particle" is a general word and can mean an atom, a molecule or a subatomic particle, so use the exact word the question uses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-atomic-model-atomic-size-and-density--02-atoms-across-a-hair.webp" width="900" height="900" alt="A hair 0.080 mm wide is zoomed to a row of atoms each 1 x 10^-10 m across. 8.0 x 10^-5 divided by 1 x 10^-10 = 8 x 10^5, about 800 000 atoms." loading="lazy">
+  <figcaption>About 800 000 atoms fit across a hair.</figcaption>
+</figure>
+
 
 ## P1.1d: defining density
 
@@ -116,6 +139,27 @@ Volume of stone = 52.0 − 40.0 = 12.0 cm³. Density = 87.5 ÷ 12.0 = 7.29 g/cm�
 
 The specification suggests measuring length, volume and mass to calculate density, and investigating Archimedes' principle using eureka cans. The method for an irregular solid is: measure its mass on a balance, then find its volume from the water it displaces (in a measuring cylinder or a eureka can), then divide. For a liquid, measure the mass of a measuring cylinder empty and then with liquid, subtract, and read the volume from the scale at eye level. The main error sources are reading the meniscus, trapped air bubbles on a sunk object, and forgetting to subtract the container's mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-atomic-model-atomic-size-and-density--03-density-unit-conversion.webp" width="900" height="970" alt="A 1 cm cube holding 1 g scales to a 1 m cube of 1 000 000 cm3 holding 1000 kg, so multiply g/cm3 by 1000. Brass block 3.0 x 4.0 x 2.0 cm, 204 g: 8.5 g/cm3 = 8500 kg/m3." loading="lazy">
+  <figcaption>To convert g/cm3 to kg/m3, multiply by 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--05-density-regular-solid.webp" width="900" height="1000" alt="A 10 cm by 5 cm by 4 cm block has volume 200 cm3. On a balance it has mass 540 g. Density = 540 / 200 = 2.7 g/cm3." loading="lazy">
+  <figcaption>For a regular solid, calculate the volume from its sides, find the mass on a balance, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--02-volume-by-displacement.webp" width="900" height="870" alt="A measuring cylinder reads 40 cm3 before a stone is lowered in and 65 cm3 after. The shaded rise is the stone volume, 65 - 40 = 25 cm3. The eye is level with the bottom of the meniscus." loading="lazy">
+  <figcaption>The volume of an irregular solid is the rise in liquid level, not the final reading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--06-density-liquid.webp" width="900" height="930" alt="A measuring cylinder on a balance reads 80 g empty and 112 g with 40 cm3 of liquid. Liquid mass = 112 - 80 = 32 g, so density = 32 / 40 = 0.8 g/cm3." loading="lazy">
+  <figcaption>Subtract the empty container mass before dividing by the liquid volume.</figcaption>
+</figure>
+
+
 ## P1.1e: density and the states of matter
 
 Density depends on how many particles are packed into a space and on how heavy they are. For one substance, the particles are the same in every state, so the difference comes from the spacing.
@@ -131,6 +175,17 @@ In a gas the particles are far apart, with nothing between them (not air, not "v
 Water as a liquid has a density of about 1000 kg/m³, while air is about 1.2 kg/m³. The ratio is 1000 ÷ 1.2 = about 830, so water is some hundreds of times denser. That is why a change of state from liquid to gas, such as boiling, produces a large increase in volume.
 
 Most solids are slightly denser than their liquids because the regular arrangement packs particles a little closer. Water is an unusual case: ice is less dense than liquid water, which is why ice floats. If a question asks about this, say that the arrangement of the particles in ice takes up more space than in liquid water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-atomic-model-atomic-size-and-density--05-ice-melts-and-floats.webp" width="900" height="980" alt="4.6 kg of ice (5.0 x 10^-3 m3, 920 kg/m3) melts to water of 4.6 x 10^-3 m3 (1000 kg/m3), a fall of 4.0 x 10^-4 m3. Ice floats because it is less dense; about 92% is below the surface." loading="lazy">
+  <figcaption>Ice takes up more space than the same mass of water, so it floats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
 
 ## P1.1f: mass conserved, volume changes
 
@@ -149,6 +204,12 @@ Mass = 1.2 × 0.050 = 0.060 kg. New density = 0.060 ÷ 0.0125 = **4.8 kg/m³**. 
 Volume of ice = 4.6 ÷ 920 = 5.0 × 10⁻³ m³. Volume of water = 4.6 ÷ 1000 = 4.6 × 10⁻³ m³. Volume decreases by 0.4 × 10⁻³ m³, which is **4.0 × 10⁻⁴ m³**. The mass is unchanged at 4.6 kg throughout.
 
 **A useful check.** If a gas is heated in a rigid, sealed container, both mass and volume stay the same, so the density does not change. If it is heated in a balloon that expands, the volume rises and the density falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-atomic-model-atomic-size-and-density--04-gas-compressed-density.webp" width="900" height="910" alt="Two syringes with the same eight particles. 0.050 m3 at 1.2 kg/m3 gives 0.060 kg; pushed to 0.0125 m3 the density is 4.8 kg/m3 and mass is still 0.060 kg." loading="lazy">
+  <figcaption>Volume divided by 4 means density times 4 when no gas escapes.</figcaption>
+</figure>
+
 
 ## Common errors
 

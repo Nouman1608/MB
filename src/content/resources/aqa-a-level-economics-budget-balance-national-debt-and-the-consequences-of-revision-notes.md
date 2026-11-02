@@ -38,6 +38,17 @@ These notes condense the budget balance and national debt points of AQA A-level 
 | Crowding out | Government borrowing raising interest rates and reducing private investment |
 | OBR | Independent body producing forecasts and assessing the public finances |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--01-deficit-adds-to-debt.webp" width="900" height="940" alt="Revenue 420 against spending of 420 plus interest 36 gives a deficit of 36. A tank of debt rises from 720 to 756 as the deficit flows in; the primary balance is zero." loading="lazy">
+  <figcaption>The deficit is a flow that adds to the debt, which is a stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--03-cyclical-structural-deficit.webp" width="900" height="790" alt="Output gap of 75 times 0.32 gives a cyclical deficit of 24, leaving a structural deficit of 12 out of the 36 total." loading="lazy">
+  <figcaption>At potential output the deficit would fall to 12, not zero.</figcaption>
+</figure>
+
+
 ## Key relationships
 
 | Relationship | Rule |
@@ -114,6 +125,12 @@ When the interest rate is above nominal growth, the ratio climbs even with a bal
 
 **Rebalancing by cuts.** Lower spending reduces AD, income and tax receipts, so the deficit falls by less than the cut. Consequence: slower growth and higher unemployment in the short run. Evaluation: lasting gains need a credible plan, spare capacity elsewhere, or lower interest rates to offset the fall in demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--05-rebalancing-the-budget.webp" width="900" height="830" alt="A spending cut of 12 reduces the deficit by 6; a tax rise of 12 reduces it by 7.5, because falling income reduces tax revenue." loading="lazy">
+  <figcaption>Both measures improve the balance by less than the headline 12.</figcaption>
+</figure>
+
+
 ## Consequences at a glance
 
 | Effect | Deficit | Surplus |
@@ -125,6 +142,42 @@ When the interest rate is above nominal growth, the ratio climbs even with a bal
 | Interest rates | Crowding out risk | Debt repayment may lower rates |
 | Supply side | Investment can raise LRAS | Room for investment later |
 | Future | Interest payments, tax burden | Lower debt, room to respond to shocks |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--04-deficit-spending-multiplier.webp" width="900" height="960" alt="Withdrawals of 0.50 give a multiplier of 2; extra spending of 12 raises income by 24, tax of 6 comes back and the deficit rises by 6." loading="lazy">
+  <figcaption>Deficit-financed spending partly pays for itself when output is below potential.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--05-budget-crowding-out.webp" width="900" height="964" alt="Loanable funds diagram. Government borrowing of 40 shifts demand from D1 to D2, so the interest rate rises from 8 to 9.2 per cent and total borrowing rises from 100 to 120, but private investment falls from 100 to 80." loading="lazy">
+  <figcaption>Government borrowing competes with firms for savings and crowds out private investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--07-budget-surplus-boom-slump.webp" width="900" height="1200" alt="Two AD/AS diagrams with the same curved AS. The same leftward AD shift cuts the price level by 7.5 and output by 2.5 near full capacity, but cuts output by 9.5 and the price level by only 0.5 with spare capacity." loading="lazy">
+  <figcaption>A surplus eases inflation in a boom but deepens a slowdown in a slump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -181,6 +234,12 @@ For any claim about a deficit, surplus, debt or rebalancing measure, test it aga
 10. Debt risk depends on the interest rate against growth, who holds the debt, its currency and its maturity, not on the ratio alone.
 11. Any two: forecasting, assessing performance against fiscal targets, long-term sustainability, fiscal risks, scrutinising policy costings.
 12. A surplus removes demand, so it can deepen the downturn, raise unemployment and reduce tax revenue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--02-debt-ratio-rate-vs-growth.webp" width="900" height="860" alt="Country A debt ratio rises from 60.0% to 61.2% (interest 5% above growth 3%). Country B falls from 90.0% to 89.4% (interest 2% below growth 4%). Same 3.0% deficit." loading="lazy">
+  <figcaption>Compare the interest rate with nominal growth, not just the deficit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

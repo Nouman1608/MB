@@ -81,6 +81,12 @@ Both countries consume more of both goods. The gains (240 + 260 = 500 grain and 
 
 If the opportunity costs are the same, there is no comparative advantage and no gain from specialising. Suppose Country C needs 3 hours per coffee and 6 per tablet, and Country D needs 6 and 12. D has an absolute disadvantage in both, but 1 tablet costs 2 coffee in both countries. Trade changes nothing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--05-no-gain-equal-costs.webp" width="900" height="910" alt="Country C needs 3 hours per coffee and 6 per tablet; D needs 6 and 12. In both, one tablet costs 2 coffee, so on the number line of the price of a tablet in coffee there is no price at which both gain." loading="lazy">
+  <figcaption>Equal opportunity costs mean no comparative advantage and no gain from trade, even though D is slower at both goods.</figcaption>
+</figure>
+
+
 ### Assumptions, and why they matter
 
 - Constant opportunity costs. In reality costs usually rise as a country shifts resources into one good, so full specialisation may not be sensible.
@@ -91,6 +97,22 @@ If the opportunity costs are the same, there is no comparative advantage and no 
 - Only two goods and two countries. Real trade involves many.
 
 **Evaluation.** The model shows the potential gain from trade, not a guaranteed one. Where the assumptions fail badly, as with large transport costs or immobile workers, the gain shrinks. The model is also static, since it uses today's opportunity costs, and says little about how advantage changes over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--01-opportunity-cost-ppf.webp" width="900" height="920" alt="Two straight production possibility lines from the same hours. Country A can make at most 2,400 grain or 600 furniture, so one furniture costs 4 grain; Country B at most 1,400 grain or 700 furniture, so one furniture costs 2 grain. B gives up less to make furniture so has the comparative advantage in furniture, A in grain." loading="lazy">
+  <figcaption>Comparative advantage goes to the country that gives up less, not the one that is more productive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--02-specialise-and-trade.webp" width="900" height="1170" alt="Two production possibility diagrams. A specialises in grain (2,400) and B in furniture (700) and they trade at 3 grain per furniture, 320 furniture for 960 grain. A moves from 1,200 grain and 300 furniture to 1,440 and 320; B from 700 and 350 to 960 and 380. Both end beyond their own line." loading="lazy">
+  <figcaption>Specialising and trading at a price between the two opportunity costs puts both countries beyond their own production possibilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--03-price-band.webp" width="900" height="710" alt="A number line for the price of one furniture in grain. Below 2, B grows its own grain; above 4, A makes its own furniture; between 2 and 4 both gain. A price nearer 2 favours A and nearer 4 favours B. Equal opportunity costs mean no gain." loading="lazy">
+  <figcaption>Both countries gain only if the price lies between the two opportunity costs.</figcaption>
+</figure>
+
 
 ## Other benefits of trade
 
@@ -104,6 +126,22 @@ Average cost falls by 40%, because fixed costs are spread over more units. Chain
 **Increased competition.** Imports and the chance of losing export sales put pressure on domestic firms. Chain of reasoning: more rivals mean less ability to raise prices without losing customers, so firms cut costs and improve quality, so efficiency rises and consumers get lower prices and more choice. Evaluation: it works best where competition is real and firms can adjust. Some firms will fail instead, and a few large rivals could still dominate.
 
 **Further benefits** you can use briefly: wider choice for consumers, access to goods and raw materials that a country cannot produce, and the spread of ideas and technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--04-export-scale.webp" width="900" height="760" alt="Average cost per loaf against output. At 20,000 loaves (home market) average cost is 10; at 60,000 loaves (with exports) it is 6, a 40 percent fall, because the fixed costs of 120,000 are spread over more units." loading="lazy">
+  <figcaption>A larger market spreads fixed costs, so unit costs fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--08-competition-chain.webp" width="900" height="930" alt="A five-step chain: more rivals, less power to raise prices, firms cut costs and improve quality, efficiency rises, lower prices and more choice. A dashed box lists when it fails: competition not real, some firms fail instead, a few large rivals still dominate." loading="lazy">
+  <figcaption>Competition from trade pushes firms to cut costs and improve quality, but only where competition is real.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
 
 ## The costs of international trade
 
@@ -121,6 +159,17 @@ Average cost falls by 40%, because fixed costs are spread over more units. Chain
 **Worked example: over-specialisation.** Exports are 25% of national income, and one commodity is 40% of exports. If its price falls 15% and the volume sold stays the same, the loss is 0.25 × 0.40 × 0.15 = 0.015, or 1.5% of national income.
 
 **Evaluation.** Costs are usually concentrated on particular workers and regions, while benefits are spread widely as lower prices. That is why trade can be good for national income and still politically difficult. Governments can respond with retraining and regional policy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--06-jobs-net-loss.webp" width="900" height="800" alt="A waterfall of 6,500 jobs lost and 4,000 jobs created leaves a net loss of 2,500, which is only a thin sliver (0.2%) of a labour force of 1,250,000, though the cost falls on particular workers and regions." loading="lazy">
+  <figcaption>A small net job loss can hide a large cost for the workers and regions affected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--07-over-specialisation-nested.webp" width="900" height="740" alt="Bars to one scale: national income 100%, exports 25%, one commodity 40% of exports (10% of income), and a 15% price fall on it, a loss of 1.5% of national income (0.25 x 0.40 x 0.15 = 0.015)." loading="lazy">
+  <figcaption>Dependence on one export means a price fall can cut national income by 1.5% even if volumes hold.</figcaption>
+</figure>
+
 
 ## Changes in the UK pattern of trade
 
@@ -145,6 +194,12 @@ Reasons the UK pattern changes:
 - **Tastes, incomes and technology.** Rising incomes shift demand towards services, and digital technology makes more services tradable.
 
 **Evaluation.** Which reason matters most varies by industry. Shifts in advantage take years, since capital and skills adjust slowly, while exchange rates and trade agreements can act faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--05-advantage-reversal.webp" width="900" height="780" alt="Bars give the opportunity cost of one software in steel. Before training K pays 2 steel against L at 1.5, so L has the advantage; after K cuts its software time to 5 hours K pays 1.25, below 1.5, so K gains the advantage and L moves to steel. The pattern of trade reverses." loading="lazy">
+  <figcaption>Comparative advantage changes over time, so the pattern of trade changes too.</figcaption>
+</figure>
+
 
 ## Common errors
 

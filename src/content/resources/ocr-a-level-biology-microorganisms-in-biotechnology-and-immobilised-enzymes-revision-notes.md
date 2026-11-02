@@ -35,6 +35,12 @@ These revision notes condense learning outcomes 6.2.1(e) to 6.2.1(i) of the OCR 
 | Zone of inhibition | Clear area around an antibiotic disc where bacteria did not grow |
 | Immobilised enzyme | Enzyme fixed in or on an inert support so it stays in the reactor |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
+
 ## 6.2.1(e) and (f): microorganisms and food
 
 **Why use microorganisms:**
@@ -111,6 +117,17 @@ On a log scale, the exponential phase is a straight line. A gradient of 0.30 log
 - When a question asks you to explain a plateau, name the limiting factor and link it to the numbers or the information given.
 - For a bar chart of colony counts or zone areas, compare values using figures from the chart and calculate any percentage difference as (difference / original) × 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
+  <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
+  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
+</figure>
+
+
 ## 6.2.1(h)(ii): investigating growth
 
 **Method in steps**
@@ -137,6 +154,22 @@ On a log scale, the exponential phase is a straight line. A gradient of 0.30 log
 **Examples to apply:** glucose isomerase (glucose to fructose), lactase (lactose to glucose and galactose), penicillin acylase, aminoacylase, glucoamylase.
 
 **Bead worked reminder.** SA:V of a sphere = 3/r. Radius 1.5 mm gives 3 / 1.5 = **2.0 mm⁻¹**. Halving the radius doubles it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--09-immobilised-enzymes.webp" width="900" height="1290" alt="Making beads: enzyme and sodium alginate drip from a syringe into calcium chloride and set as beads. Using them: beads packed in a column with substrate in and product out, so the enzyme is reused and the product is pure; smaller beads have a larger surface area to volume ratio (3.0 against 1.5 per mm). Four OCR immobilisation methods: adsorption, covalent bonding, entrapment and membrane separation." loading="lazy">
+  <figcaption>Immobilised enzymes stay in place, can be reused and do not contaminate the product.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

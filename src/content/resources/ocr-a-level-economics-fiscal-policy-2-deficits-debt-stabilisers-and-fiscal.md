@@ -57,6 +57,12 @@ Closing debt       = 1,200 + 60 = 1,260
 
 If GDP grows to 1,575 (nominal growth of 5%), the debt ratio is 1,260 / 1,575 = 80.0%, the same as the opening 1,200 / 1,500. So the debt can rise in money terms while the debt-to-GDP ratio is flat. The ratio is the better measure of burden because it compares debt with the income that supports it. Debt is also described as gross or net of the government's financial assets, and as held domestically or by foreign lenders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--04-deficit-flow-debt-stock.webp" width="900" height="1060" alt="Revenue 400 and spending 460 including 30 interest give a deficit of 60, 4 percent of GDP 1,500 and a primary deficit of 30. Debt rises from 1,200 to 1,260 while GDP grows from 1,500 to 1,575, so debt stays 80 percent of GDP." loading="lazy">
+  <figcaption>A deficit adds to the debt stock, but debt can stay flat as a share of GDP.</figcaption>
+</figure>
+
+
 ## 2. Financing a deficit
 
 The government must find money to cover the gap. The main routes:
@@ -67,6 +73,12 @@ The government must find money to cover the gap. The main routes:
 - **Running down cash balances or reserves**, which can only be done for a limited time.
 
 In Country A the 60 might be raised as 35 of long-term bonds bought by domestic pension funds and banks, 15 bought by overseas investors and 10 of short-term bills. Total: 60. Overseas holders mean future interest leaves the country. Short-term bills must be refinanced soon, so the government is exposed if interest rates have risen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--09-financing-a-deficit.webp" width="900" height="870" alt="A deficit of 60 is financed by 35 of long-term bonds bought at home, 15 of bonds bought by overseas investors and 10 of short-term bills. Overseas holders mean interest leaves the country; bills must be refinanced soon. Central bank borrowing and asset sales are other routes." loading="lazy">
+  <figcaption>Most deficits are financed by selling bonds and bills.</figcaption>
+</figure>
+
 
 ## 3. Correcting a deficit or a surplus
 
@@ -89,6 +101,12 @@ Deficit falls by       = 20 - 10 - 2 = 8   (from 60 to 52)
 Only 40% of the cut reached the deficit, while GDP fell by 40. The larger the multiplier and the weaker the economy, the bigger this gap.
 
 A **surplus** can be corrected by cutting taxes, raising spending or repaying debt. It may cause a drag on demand if it arises in a weak economy, but it builds room for future borrowing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--05-spending-cut-leakages.webp" width="900" height="820" alt="A spending cut of 20 with a multiplier of 2 lowers GDP by 40. Tax revenue falls 10 and benefits rise 2, so only 8 reaches the deficit, which falls from 60 to 52: 40 percent of the cut." loading="lazy">
+  <figcaption>Because GDP falls, tax receipts fall and benefits rise, so a cut reduces the deficit by less than its size.</figcaption>
+</figure>
+
 
 ## 4. Consequences of government debt
 
@@ -114,6 +132,12 @@ Benefits: borrowing can fund investment that raises future growth and tax revenu
 
 If interest costs rise to 4.5% on all debt: 0.80 x 1.045 / 1.05 + 0.0190 = 0.8152, so the ratio rises to 81.5%. When r is above g, the government must run a primary surplus to stop the ratio climbing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--10-debt-ratio-dynamics.webp" width="900" height="960" alt="Next year's debt ratio is the old ratio times (1+r)/(1+g) plus the primary deficit share. With r = 2.5% and g = 5% the ratio stays 80.0%; with r = 4.5% it rises to 81.5%." loading="lazy">
+  <figcaption>Higher interest costs lift the debt-to-GDP ratio.</figcaption>
+</figure>
+
+
 ## 5. Automatic stabilisers
 
 **Automatic stabilisers** are features of the budget that offset swings in output without any new decision. Progressive income taxes and unemployment benefits are the standard examples.
@@ -124,6 +148,12 @@ If interest costs rise to 4.5% on all debt: 0.80 x 1.045 / 1.05 + 0.0190 = 0.815
 They work with no time lag in decision-making and no political delay. They do not remove the cycle, only soften it.
 
 **Worked example.** Leakages without tax: 0.1 + 0.15 = 0.25, multiplier 4. With the 0.25 marginal tax rate: 0.5, multiplier 2. An investment fall of 10 cuts GDP by 40 without the tax system and by 20 with it. If GDP falls by 20, tax revenue falls by 0.25 x 20 = 5 and benefits rise by 0.05 x 20 = 1, so the deficit widens by 6 with no policy decision. Stabilisers are stronger where tax rates are progressive and benefits generous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--11-automatic-stabilisers-halve.webp" width="900" height="850" alt="An investment fall of 10 cuts GDP by 40 with multiplier 4 but only 20 once a 25% marginal tax rate takes the multiplier to 2. With GDP down 20, tax falls 5 and benefits rise 1, so the deficit widens 6 without any policy decision." loading="lazy">
+  <figcaption>Tax and benefit rules halve the GDP fall and widen the deficit automatically.</figcaption>
+</figure>
+
 
 ## 6. Discretionary fiscal policy
 
@@ -139,6 +169,22 @@ Net cost to budget  = 12 - 6 = 6
 
 Half the stimulus pays for itself. The limits are time lags (recognising the problem, deciding, implementing, then the effect appearing), uncertainty about the multiplier, and political motives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--12-discretionary-spending-net-cost.webp" width="900" height="920" alt="Extra spending of 12 with multiplier 2 raises GDP by 24. Tax revenue rises 6 (25% of 24), so the net cost is 6, half of the spending." loading="lazy">
+  <figcaption>Half of a spending stimulus pays for itself through extra tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+
 ## 7. Crowding out and crowding in
 
 **Crowding out** happens when government borrowing reduces private spending. Extra bond sales compete for savings and push up interest rates, so private investment falls (financial crowding out). Government use of scarce labour or capital near full capacity can also squeeze out private use (resource crowding out).
@@ -153,6 +199,12 @@ Rise in GDP           = 8 x 2 = 16   (not 24)
 One third of the spending was crowded out. Crowding out is weak with spare capacity, when savings are high, or when the central bank holds rates down. In an open economy a higher rate can also raise the exchange rate and cut net exports.
 
 **Crowding in** occurs when government spending raises private spending. Higher demand lifts firms' expectations and sales, and the accelerator effect encourages investment. Public infrastructure can raise the returns on private projects. If crowding in adds 3 of private investment, the net injection is 11 and GDP rises by 22.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--06-crowding-out-in.webp" width="900" height="960" alt="Spending of 12 with multiplier 2 raises GDP by 24 with no crowding out. Crowding out of 4 gives net 8 and GDP +16, a third of the spending crowded out. Crowding in of 3 gives net 11 and GDP +22." loading="lazy">
+  <figcaption>Crowding out shrinks and crowding in enlarges the effect of fiscal stimulus.</figcaption>
+</figure>
+
 
 ## 8. How effective is fiscal policy?
 
@@ -170,6 +222,12 @@ A **fiscal rule** is a commitment that limits the budget, for instance a ceiling
 **Worked example.** In Country A: current spending is 430, capital spending 30, revenue 400. The current deficit is 30 and the overall deficit 60. Borrowing of 60 exceeds capital spending of 30 by 30, so the golden rule is broken. A deficit limit of 3% of GDP allows 45, so 15 of correction is needed. A debt ceiling of 60% is exceeded at 80%.
 
 **Effectiveness:** credibility helps if the rule is enforced and independently monitored. Weaknesses are rigidity that forces cuts in a recession, escape clauses that weaken trust, accounting tricks, and pressure on capital spending, which is easy to cut.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--13-fiscal-rules-country-a.webp" width="900" height="850" alt="Country A borrows 60 against capital spending of 30, breaking the golden rule by 30. A 3% of GDP limit allows 45, so 15 of correction is needed. Debt of 80% of GDP exceeds a 60% ceiling by 20 points." loading="lazy">
+  <figcaption>Country A breaks all three example fiscal rules.</figcaption>
+</figure>
+
 
 ## Common errors
 

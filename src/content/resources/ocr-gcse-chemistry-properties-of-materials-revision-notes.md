@@ -44,6 +44,27 @@ The [study guide](/resources/ocr-gcse-chemistry-properties-of-materials/) explai
 
 **CM2.3i reminder.** In a flat drawing of diamond, a carbon with four lines is a tetrahedron in 3D. In graphite, the space between sheets in a drawing is a region of weak forces, not empty "nothing". To identify a structure from a model, count bonds on one carbon and check whether it continues (giant) or closes into a cage (molecule).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--08-un112-carbon-chains-rings.webp" width="900" height="870" alt="A straight chain, a branched chain and a six-carbon ring drawn from computed coordinates; methane, ethane and propane differ by one CH2 each." loading="lazy">
+  <figcaption>Chains, rings and a homologous family.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--09-un112-graphene-nanotube.webp" width="900" height="810" alt="Graphene is a one-atom-thick hexagon sheet, each carbon bonded to three others. A nanotube is the same sheet rolled into a tube. Both conduct and are strong." loading="lazy">
+  <figcaption>Graphene and a nanotube share one hexagon pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
+
 ## C2.3d: changes of state
 
 Method in steps for "explain why X has a higher boiling point than Y":
@@ -59,6 +80,22 @@ Must-know facts:
 - Boiling a simple molecular liquid does **not** break covalent bonds inside its molecules.
 - Bigger simple molecules: stronger intermolecular forces, higher boiling point.
 - Freezing and condensing transfer energy **out** to the surroundings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--10-un112-predict-states.webp" width="900" height="1115" alt="Substances A to D at 25 degrees C and minus 200 degrees C are shown as particle pictures labelled solid, liquid or gas, using the lesson mp and bp values." loading="lazy">
+  <figcaption>State of A to D at two temperatures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
+</figure>
+
 
 ## C2.3e: predicting states
 
@@ -83,6 +120,17 @@ Watch negative numbers. −50 °C is **higher** than −120 °C. A substance wit
 | Metal | Metal cations with delocalised electrons around them | High | Yes, solid or liquid | Malleable |
 
 **Must-know distinction:** atoms do not have bulk properties. A single atom of a metal does not conduct or bend; one carbon atom is neither hard nor soft. Properties come from many atoms bonded and arranged together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## C2.3g: nano dimensions
 
@@ -116,6 +164,17 @@ Watch negative numbers. −50 °C is **higher** than −120 °C. A substance wit
 **Small reminder.** Cube of side 4 nm: area = 6 × 16 = 96 nm², volume = 64 nm³, ratio = 96 ÷ 64 = **1.5 nm⁻¹**.
 
 **Dissolving tablets (PAG C8):** independent variable is particle size (whole, broken, powdered); dependent variable is time to dissolve; control mass of tablet, volume of water and temperature. Repeat and take a mean, leaving out anomalies. Powdered tablets dissolve fastest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--02-mp-che-16-surface-to-volume.webp" width="900" height="1060" alt="A cube of side 2 units cut into eight cubes of side 1 keeps volume 8 but doubles surface area from 24 to 48, so the ratio rises from 3 to 6. The lesson example compares a 1000 nm cube (0.006 per nm) with a 20 nm cube (0.3 per nm), 50 times more." loading="lazy">
+  <figcaption>Cutting a solid into smaller pieces raises the surface area to volume ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--11-un112-dissolving-tablets.webp" width="900" height="1010" alt="Bars show mean dissolving times of 72 s for a whole tablet, 53 s for halves and 24 s for powder, with the three repeats as dots." loading="lazy">
+  <figcaption>Dissolving time falls as the tablet is broken up.</figcaption>
+</figure>
+
 
 ## C2.3i and C2.3j: uses and risks
 

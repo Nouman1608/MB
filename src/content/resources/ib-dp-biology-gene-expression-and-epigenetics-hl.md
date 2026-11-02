@@ -71,6 +71,17 @@ Cells were grown with or without a glucocorticoid hormone (a steroid). Reporter-
 
 For cells with the receptor, activity rises 270 / 15 = **18 times**, a **1700%** increase ((270 − 15) / 15 × 100). Cells without the receptor barely change (14 to 16). So the response needs the receptor, which acts as a transcription factor once the hormone has bound it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--01-transcription-control.webp" width="900" height="1020" alt="A stretch of DNA is shown twice: with no transcription factors RNA polymerase cannot attach and no mRNA forms; with transcription factors on the enhancer and promoter, polymerase attaches and mRNA is made. The enhancer is drawn far from the promoter and raises the rate. A transcription factor can also block attachment." loading="lazy">
+  <figcaption>Transcription factors bound to enhancer and promoter let RNA polymerase transcribe the gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--02-hormone-receptor.webp" width="900" height="1060" alt="A steroid hormone enters the cell and binds a receptor; the complex enters the nucleus, binds a DNA sequence and switches the gene on. Reporter activity with the receptor rises from 15 to 270 (x18, +1700%); without the receptor it stays at 14 and 16." loading="lazy">
+  <figcaption>A hormone-receptor complex acts as a transcription factor: activity rises 18-fold only in cells with the receptor.</figcaption>
+</figure>
+
+
 ## D2.2.3 Degrading mRNA
 
 Translation depends on mRNA being present. Cells therefore regulate protein output by controlling how long mRNA lasts. In human cells mRNA may persist from minutes up to days before **nucleases** break it down. An mRNA with a short life gives a short burst of protein and lets the cell change quickly. An mRNA with a long life keeps producing protein from one transcript.
@@ -86,6 +97,12 @@ Transcription of gene X was stopped at time 0 and mRNA was measured.
 | mRNA (units) | 640 | 320 | 160 | 80 | 40 |
 
 The amount halves every 3 hours, so the half-life is **3 h**. Another mRNA, with half-life 8 h, has 100 × (1/2)³ = **12.5%** left after 24 h (three half-lives). Check: 24 / 8 = 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--03-mrna-half-life.webp" width="900" height="920" alt="Percentage of mRNA left against time for two mRNAs. Gene X (640, 320, 160, 80, 40 units at 0-12 h) has a half-life of 3 h. An mRNA with a half-life of 8 h has 12.5% left at 24 h, three half-lives." loading="lazy">
+  <figcaption>Short-lived mRNA gives a quick change in protein; long-lived mRNA keeps making protein.</figcaption>
+</figure>
+
 
 ## D2.2.4 Epigenesis
 
@@ -110,6 +127,12 @@ A genome has 20 000 protein-coding genes (data supplied). Transcripts from two c
 
 Liver: 9 000 / 20 000 × 100 = **45%**. Precursor: 3 000 / 20 000 × 100 = **15%**. Both cells hold all 20 000 genes (same genome), but the liver cell expresses three times as many. A protein in the proteome also needs translation, and mRNA life (D2.2.3) affects it, so transcriptome and proteome do not match perfectly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--04-genome-vs-transcriptome.webp" width="900" height="970" alt="Two 100-square grids (1 square = 200 genes) show 9 000 of 20 000 genes transcribed in a liver cell (45%) and 3 000 in a red cell precursor (15%). The genome is the same; the transcriptome and proteome differ." loading="lazy">
+  <figcaption>Same genome, different genes expressed: 45% in a liver cell, 15% in a red cell precursor.</figcaption>
+</figure>
+
+
 ## D2.2.6 Epigenetic tags
 
 An **epigenetic tag** is a chemical group added to DNA or to histone proteins that changes expression without changing the base sequence. DNA is wound round histones in **nucleosomes**.
@@ -129,9 +152,21 @@ A reporter gene was put under a promoter with different treatments.
 
 Methylation lowers activity by (840 − 63) / 840 × 100 = **92.5%**, or 13.3-fold. Removing methyl groups restores activity to 420 / 840 × 100 = **50%** of the unmethylated level, which is 6.7 times the methylated level. This supports a causal role for methylation, because an intervention reversed the effect. The drug restored only part of the activity, so some methyl groups probably remained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--05-dna-methylation.webp" width="900" height="1210" alt="An unmethylated promoter lets RNA polymerase make mRNA; methyl tags on the promoter block it. A histone methyl tag is shown (can repress or activate). Reporter activity: 840 unmethylated, 63 methylated (-92.5%), 420 after a methyl-removing drug (50%)." loading="lazy">
+  <figcaption>Promoter methylation represses transcription, and removing tags restores part of the activity.</figcaption>
+</figure>
+
+
 ## D2.2.7 Epigenetic inheritance
 
 A change in phenotype can be passed to **daughter cells or offspring** without any change in nucleotide sequence. This can happen if tags, for instance methyl groups on DNA or modified histones, **stay attached through mitosis or meiosis**. Mitotic inheritance keeps a differentiated cell line stable. Inheritance through meiosis would carry tags to offspring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--06-tag-inheritance.webp" width="900" height="1280" alt="In mitosis a cell and both daughter cells carry the same methyl tags. When gametes form most tags are removed, ovum and sperm keep a few, and the zygote starts largely reset but keeps some tags. Tag numbers are illustrative." loading="lazy">
+  <figcaption>Tags persist through mitosis, but most are removed from ovum and sperm.</figcaption>
+</figure>
+
 
 ## D2.2.8 Environmental effects on expression
 
@@ -142,6 +177,12 @@ The environment can change tags and so expression. The guide's example is that *
 Most epigenetic tags are removed from the ovum and sperm, so the zygote starts largely reset. **Not all** are removed. Some tags marking whether a gene came from the father or the mother remain, and affect which copy is expressed.
 
 Tigons and ligers show this. A liger has a lion father and tiger mother; a tigon has a tiger father and lion mother. The two hybrids differ in phenotype (ligers tend to be larger) even though both inherit one set of chromosomes from each species. A proposed explanation is that the tags kept on some growth-related genes differ between lions and tigers, so a gene is expressed to a different extent depending on which species supplied it and through which parent. Present this as an outline of an epigenetic origin, not a proven mechanism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--07-liger-tigon.webp" width="900" height="1080" alt="A liger (lion father, tiger mother) and a tigon (tiger father, lion mother) each inherit one chromosome set from each species yet differ in size; ligers tend to be larger. The proposed explanation is tags on growth-related genes differing by species and parent of origin, not a proven mechanism." loading="lazy">
+  <figcaption>Hybrids with the same two species but different parent of origin differ in size, which may reflect epigenetic tags.</figcaption>
+</figure>
+
 
 ## D2.2.10 Monozygotic twin studies
 
@@ -156,6 +197,12 @@ Mean difference in methylation at one site between twins in a pair (data supplie
 | Mean difference (percentage points) | 2.1 | 5.4 | 9.8 |
 
 From age 3 to 50 the difference rises by 9.8 − 2.1 = 7.7 points, and the 50-year-old pairs differ 9.8 / 2.1 = **4.7 times** more. The pattern suggests that identical genomes drift apart in expression as different environments accumulate. These are different groups of twins, not the same twins followed over time, so age is not the only possible factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--08-twin-methylation.webp" width="900" height="1160" alt="Identical twins share a genome. Mean methylation difference within pairs is 2.1 points at age 3, 5.4 at 28 and 9.8 at 50: +7.7 points and x4.7. These are different groups of twins, not the same twins over time." loading="lazy">
+  <figcaption>The methylation difference between identical twins is larger in older pairs.</figcaption>
+</figure>
+
 
 ## D2.2.11 External factors on expression
 
@@ -175,6 +222,12 @@ The guide limits you to **one hormone** and **one biochemical**; lactose or tryp
 | Repressor cannot bind operator | 1380 | 1420 |
 
 Wild type rises 1400 / 2 = **700-fold** with lactose. The mutant is high either way (1420 / 1380 = 1.03, almost no change). So the mutant repressor no longer blocks the operator, and expression no longer depends on lactose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--09-lactose-repressor.webp" width="900" height="1290" alt="With no lactose the repressor binds the operator and blocks RNA polymerase; with lactose a lactose-derived molecule binds the repressor, which leaves the operator and the genes are transcribed. Wild-type beta-galactosidase rises 2 to 1400 (x700); a mutant whose repressor cannot bind is high either way (1380, 1420; x1.03). Tryptophan works the other way." loading="lazy">
+  <figcaption>Lactose releases the repressor so the genes switch on; a repressor mutant ignores lactose.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -64,6 +64,22 @@ C=O. This is **nucleophilic addition**, and every reaction in this section excep
 The carbon of the C=O has three bonding regions, so it is **trigonal planar**, with bond angles of about 120°.
 This flat shape matters later, when you explain why some products are racemic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
+
 ## Oxidation of aldehydes
 
 Aldehydes are **readily oxidised to carboxylic acids**. The carbon of the –CHO group carries a hydrogen atom,
@@ -106,6 +122,17 @@ mass of Ag          = 0.0400 × 107.9 = 4.316 g
 ```
 
 Answer: **4.32 g** of silver (3 significant figures).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--03-silver-ratio.webp" width="900" height="1010" alt="RCHO is oxidised to RCOOH, releasing two electrons. Each electron reduces an Ag+ ion to Ag, so one mole of aldehyde gives two moles of silver. 1.16 g of propanal gives 0.0200 mol aldehyde, 0.0400 mol Ag and 4.32 g silver." loading="lazy">
+  <figcaption>One mole of aldehyde releases two electrons and so deposits two moles of silver.</figcaption>
+</figure>
+
 
 ## Reduction with NaBH₄
 
@@ -154,6 +181,17 @@ percentage yield  = 0.0400 ÷ 0.0500 × 100 = 80.0 %
 ```
 
 Answer: **80.0 %**. Compare moles, not masses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
 
 ## Forming hydroxynitriles: KCN followed by dilute acid
 
@@ -212,6 +250,12 @@ So you wear gloves and eye protection, work in a fume cupboard, and add the acid
 used rather than HCN itself because HCN is toxic and volatile, so it is hard to handle safely, and because HCN is a weak
 acid, so it supplies few CN⁻ ions. KCN is ionic and supplies plenty of CN⁻ nucleophile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--07-kcn-hazard.webp" width="900" height="890" alt="A beaker of KCN solution has dilute acid added by a dropper, producing HCN gas marked with a hazard diamond. The precautions shown are gloves and eye protection, a fume cupboard and adding acid slowly." loading="lazy">
+  <figcaption>Acid turns CN- into toxic, volatile HCN gas, so use protection, a fume cupboard and add acid slowly.</figcaption>
+</figure>
+
+
 ## Why the products can be racemic
 
 You met chirality in optical isomerism (3.3.7). A carbon with four different groups is a chiral centre, and its
@@ -239,6 +283,12 @@ those two groups, plus OH and CN.
 
 This is why the specification says **aldehydes and unsymmetrical ketones** form mixtures of enantiomers.
 Methanal is the one aldehyde that does not, because its carbonyl carbon carries two H atoms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
 
 ## Common errors
 

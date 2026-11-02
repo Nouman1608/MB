@@ -43,6 +43,22 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 
 **Both methods (only these examples are required):** malarial parasites (asexual in humans, sexual in mosquitoes); fungi (asexual spores, sexual for variation); plants (seeds sexually; runners in strawberries, bulb division in daffodils).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--03-cf-carriers.webp" width="900" height="845" alt="Two carrier parents Ff have children FF, Ff, Ff and ff. One in four has cystic fibrosis and one half are carriers." loading="lazy">
+  <figcaption>Two carriers: 1/4 chance of cystic fibrosis, 1/2 carrier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## DNA
 
 - DNA: polymer, two strands, **double helix**, found in chromosomes.
@@ -57,6 +73,12 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 - Protein synthesis: made on **ribosomes** from a template; carrier molecules bring amino acids in order; chain folds into a unique shape (enzyme, hormone, collagen).
 - Most mutations do not change the protein, or change it only slightly. A few change its shape: an enzyme's active site no longer fits its substrate, or a structural protein loses strength.
 - Non-coding DNA switches genes on and off; variants there change gene expression.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--11-base-triplets.webp" width="900" height="1010" alt="A strand ATGCCA is paired to give TACGGT (A with T, C with G). Every three bases code for one amino acid, so ATG and CCA give two amino acids, and 450 bases give 150 amino acids." loading="lazy">
+  <figcaption>Complementary pairing and the triplet code from the worked example.</figcaption>
+</figure>
+
 
 ## Genetic crosses -- method in steps
 
@@ -81,6 +103,17 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 **Family trees.** Two unaffected parents with an affected child → the allele is recessive and both parents are heterozygous.
 
 **Embryo screening issues.** Cost; risk of the procedure; destroying embryos; fear of choosing characteristics. Judge from the information given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--01-punnett-mice.webp" width="900" height="870" alt="Two black Bb mice are crossed. The Punnett square gives BB, Bb, Bb and bb, so three black to one brown, and the probability of a brown pup is 1/4." loading="lazy">
+  <figcaption>Bb × Bb gives 1 BB : 2 Bb : 1 bb, so 3 black : 1 brown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--02-two-pups-1-in-16.webp" width="900" height="830" alt="A 4 by 4 grid of pairs of pups from two Bb × Bb crosses has one brown-and-brown cell in sixteen, so the probability is 1/4 × 1/4 = 1/16." loading="lazy">
+  <figcaption>Two brown pups: 1/4 × 1/4 = 1/16.</figcaption>
+</figure>
+
 
 ## 4.6.2 Variation and evolution
 
@@ -110,6 +143,17 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 
 **Higher tier only -- genetic engineering steps:** enzymes isolate the gene → insert it into a **vector** (plasmid or virus) → vector carries gene into cells → done at an early stage of development.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--12-adult-cell-cloning.webp" width="900" height="1010" alt="Four steps: the nucleus is removed from an unfertilised egg; the nucleus of an adult body cell is inserted; an electric shock makes it divide into an embryo; the embryo is put into the womb of an adult female. The clone has the same genes as the skin cell donor." loading="lazy">
+  <figcaption>Adult cell cloning produces an animal genetically identical to the donor of the body cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--04-cloning-methods.webp" width="900" height="1000" alt="Tissue culture grows plant cells in a dish into identical plants. A cutting grows roots into a new plant with the same genes. Embryo transplants split an early embryo into cells and place the identical embryos in host mothers." loading="lazy">
+  <figcaption>Cloning without an adult cell: tissue culture, cuttings, embryo transplants.</figcaption>
+</figure>
+
+
 ## 4.6.3 Developing the theory
 
 | Scientist | Contribution |
@@ -133,12 +177,34 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 
 **Extinction:** no individuals of a species remain alive. Factors to describe include a new disease, a new predator or competitor, a change in habitat or climate, and a catastrophic event.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--13-speciation-steps.webp" width="900" height="1030" alt="Four stages with example pale and dark beetles: one population, split by a river, each group still varied; different ground selects different variants; the groups cannot interbreed to produce fertile offspring so they are two new species." loading="lazy">
+  <figcaption>Isolation plus different selection can give two species that cannot interbreed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--14-fossil-routes.webp" width="900" height="1170" alt="Fossils form from parts that have not decayed because a condition for decay is absent, from parts replaced by minerals, or as traces such as footprints, burrows and rootlet traces. The record is incomplete because early life was soft-bodied and geological activity destroyed many traces." loading="lazy">
+  <figcaption>Three routes to a fossil, and why the fossil record is incomplete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--05-ideas-timeline.webp" width="900" height="1025" alt="Timeline in order: Mendel mid 1800s, Wallace and Darwin joint writings 1858, Origin of Species 1859, chromosomes late 1800s, genes linked to chromosomes early 1900s, DNA structure mid 1900s. Lamarck proposed lifetime changes are inherited, almost never true." loading="lazy">
+  <figcaption>Order of the ideas behind inheritance and evolution (not to scale).</figcaption>
+</figure>
+
+
 ## 4.6.4 Classification -- reading an evolutionary tree
 
 1. Find the two organisms at the tips of the branches.
 2. Trace back to where their branches join: that point is their most recent common ancestor.
 3. The more recent the join, the more closely related they are.
 4. Extinct organisms are placed on the tree using fossil data; living ones using current classification data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--15-classification-levels.webp" width="900" height="1080" alt="Seven levels from kingdom to species. The binomial name is genus plus species, with Homo sapiens as an example. Woese’s three-domain system groups life into archaea, bacteria and eukaryota." loading="lazy">
+  <figcaption>Linnaeus’s seven levels, binomial names, and Woese’s three domains.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

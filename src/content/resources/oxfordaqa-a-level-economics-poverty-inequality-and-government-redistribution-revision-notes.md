@@ -67,6 +67,17 @@ Wealth is usually more unequal than income, and the two feed each other: income 
 
 **Mean versus median.** Ten households have incomes of 100, 140, 160, 200, 230, 260, 300, 350, 900 and 1,000. Mean = **364**, median = (230 + 260) / 2 = **245**. The mean is pulled up by the top two, so the median is the better guide to a typical household, and a 60% median line is **147**. Households below it: 100 and 140, so **20%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--06-lorenz-before-after-tax.webp" width="900" height="990" alt="Lorenz curves from the lesson's quintile data. Cumulative shares before tax and benefits are 5, 14, 28, 50, 100 (Gini about 0.41) and after are 8, 20, 36, 59, 100 (Gini about 0.31). The after curve lies closer to the line of equality." loading="lazy">
+  <figcaption>Tax and benefits move the Lorenz curve towards the equality line and cut the Gini from about 0.41 to 0.31.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
+
 ## Method: relative versus absolute poverty
 
 1. Find the median (relative) or the fixed basket cost (absolute).
@@ -75,9 +86,21 @@ Wealth is usually more unequal than income, and the two feed each other: income 
 4. After growth, recompute the median for the relative line; keep the basket cost, adjusted only for price changes, for the absolute line.
 5. State the result: equal percentage growth for all leaves relative poverty unchanged but can cut absolute poverty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--07-relative-absolute-poverty.webp" width="900" height="970" alt="Bars show weekly incomes of the five poorest of nine households. Before growth, both the relative line (60% of median 260 = 156) and an absolute line of 160 leave 2 households in poverty. After a 10% rise the relative line moves to 171.6 and still captures 2, but the fixed absolute line of 160 now captures only 1." loading="lazy">
+  <figcaption>Equal percentage growth cuts absolute poverty but leaves relative poverty unchanged.</figcaption>
+</figure>
+
+
 ## Real terms and index numbers
 
 Real value = nominal value × 100 / price index. A wage of 36,000 when prices have risen from 100 to 112 is worth 36,000 × 100 / 112 = **32,143** in base-year prices. A benefit index that rises from 100 to 105 while prices rise to 108 has a real index of 105 / 108 × 100 = **97.2**, a fall of 2.8%. This is why benefit uprating matters for absolute poverty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--05-benefit-real-value.webp" width="900" height="770" alt="A number line from 94 to 108 starting at 100. A benefit rises 4% to 104 while prices rise 6% to 106. The real value is 1.04 divided by 1.06, which is 98.1, a fall of 1.9%." loading="lazy">
+  <figcaption>A benefit that rises less than prices falls in real terms.</figcaption>
+</figure>
+
 
 ## Method: tax and benefit calculations
 
@@ -93,6 +116,22 @@ Real value = nominal value × 100 / price index. A wage of 36,000 when prices ha
 **Poverty trap.** Benefit withdrawn at 50p per 1 earned, income tax 20%: combined marginal rate 70%. Extra earnings of 200 give 200 − 40 − 100 = **60** net.
 
 **Targeting.** Paying 50 to each of 200 households costs 10,000. Paying 50 only to the 60 poorest households costs 3,000. Targeting lowers cost but needs a test and can create a poverty trap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--08-progressive-tax-rates.webp" width="900" height="900" alt="Marginal rate steps from 0% to 15% at 8,000 and to 35% at 30,000. The average rate rises with income: 9% at 20,000 (tax 1,800) and 20.6% at 50,000 (tax 10,300), so the tax is progressive." loading="lazy">
+  <figcaption>Rising average rates are what make a tax progressive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--09-poverty-trap.webp" width="900" height="780" alt="From 80 of extra earnings, a means-tested benefit withdrawn at 65p per 1 and 20% tax leave the worker 12 (tax 16, benefit lost 52). A universal benefit leaves 64 after tax of 16." loading="lazy">
+  <figcaption>An 85% combined marginal rate means extra work barely pays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Policy summary
 
@@ -114,6 +153,22 @@ Real value = nominal value × 100 / price index. A wage of 36,000 when prices ha
 - More unequal, benefits: stronger rewards for effort, training, risk-taking and saving.
 - More unequal, costs: wasted talent, weaker spending by low-income households, social tension and unequal political influence.
 - Chain: lower taxes raise reward for effort, which may raise output; but if low-income households cannot afford education, productivity growth later suffers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--02-poverty-cycle-effects.webp" width="900" height="890" alt="A parent on low income spends less on a child's education, so the child earns less as an adult and has a low income again. Below, effects of poverty on individuals, the economy and society." loading="lazy">
+  <figcaption>Low income limits education, which limits future earnings, so poverty can repeat across generations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--03-equal-v-unequal-tradeoff.webp" width="900" height="810" alt="Two columns compare a more equal distribution (five bars of 20% each) with a more unequal one (5% rising to 50%), with the gains and costs the lesson lists for each. Neither end is free of costs." loading="lazy">
+  <figcaption>Each end of the spectrum brings gains and costs, so the best distribution is a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--04-fact-v-judgement-gini.webp" width="900" height="890" alt="The Gini falling from 0.41 to 0.31 is a positive, testable statement. Whether this is desirable is normative and depends on the view: a free-market view stresses incentives and growth, an egalitarian view stresses fairness and redistribution." loading="lazy">
+  <figcaption>The same fact is judged differently under free-market and egalitarian views.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 
@@ -150,6 +205,17 @@ Real value = nominal value × 100 / price index. A wage of 36,000 when prices ha
 8. Regressive: 5% of the low income and 1% of the high income.
 9. It can encourage avoidance, such as gifts before death or moving assets abroad, and it may discourage saving.
 10. Low-income households cannot afford education or health care, so merit goods are under-consumed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--01-income-wealth-loop.webp" width="900" height="890" alt="A four-step loop: higher income allows more saving, saving buys assets, assets earn income and rise in value, which raises income again. Below, a house price rise adds to an owner's wealth and does nothing for a renter." loading="lazy">
+  <figcaption>Income and wealth inequality can reinforce each other through saving and asset ownership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

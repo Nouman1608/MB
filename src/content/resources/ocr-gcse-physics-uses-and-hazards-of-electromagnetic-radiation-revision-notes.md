@@ -47,6 +47,17 @@ Memory hooks:
 
 Specification demonstrations to remember: microwaves lighting a bulb in a beaker of water, which shows that they heat water in foods, and a phone camera looking at the infrared emitter on a remote control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--05-radiation-shielding.webp" width="900" height="940" alt="Three rows compare ultraviolet, X-rays and gamma rays with and without a shield. Ultraviolet damages skin and eyes and is stopped by sunscreen or clothing; X-rays and gamma rays pass deep into the body and need a lead apron or thick lead or concrete respectively." loading="lazy">
+  <figcaption>Shield thickness grows from sunscreen to a lead apron to thick lead or concrete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## Hazards (P5.2h)
 
 | Wave | Hazard to body tissue | Typical protection |
@@ -62,6 +73,12 @@ Key points:
 - The risk grows with the dose and with the time of exposure.
 - Radiotherapy aims gamma or X-ray beams at a tumour from several directions, which gives the tumour a high dose and spreads a lower dose across healthy tissue.
 - Staff step out of the room because their repeated exposures add up. A patient has one examination with a benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--04-radiation-cell-damage.webp" width="900" height="860" alt="A cell absorbs radiation. A high dose kills many cells, causing burns. A lower dose can damage DNA, and the damaged cell may divide without control, which is cancer. Bigger doses and longer exposure raise the risk." loading="lazy">
+  <figcaption>Radiation can kill cells or damage their DNA, and the risk grows with dose and time.</figcaption>
+</figure>
+
 
 ## Detecting hidden structures (P5.2i, Higher Tier only)
 
@@ -89,11 +106,33 @@ Choosing between methods (use these phrases):
 - Gamma tracers show function rather than structure.
 - Thermal imaging shows the surface only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--07-tracer-and-thermal-imaging.webp" width="900" height="930" alt="Top: a gamma tracer collects in an organ, more where it is more active; gamma rays leave the body and a camera detects them. Bottom: skin emits infrared; a thermal camera sees the surface only, and an inflamed area is warmer." loading="lazy">
+  <figcaption>A gamma camera shows where a tracer collects; a thermal camera shows surface temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--08-echoes-at-boundaries.webp" width="900" height="1210" alt="Top: an ultrasound pulse at 1500 m/s reflects at boundaries 3.0 cm and 6.0 cm deep, giving echoes at 40 and 80 microseconds. Bottom: seismic waves cross the Earth; those that travel only through solids are stopped by the liquid outer core, showing part of the core is liquid." loading="lazy">
+  <figcaption>Reflections and wave speeds at boundaries reveal layers inside the body and the Earth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
+
 ## Radio waves and circuits (P5.2j)
 
 - A transmitter has an alternating current. It makes electrons in the aerial oscillate, and the aerial gives out radio waves of the same frequency.
 - A receiver works in reverse. Radio waves make electrons in the receiving aerial oscillate, which produces an alternating current of the same frequency in the receiver circuit.
 - The circuit then turns that signal into sound or a picture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--05-radio-aerials.webp" width="900" height="830" alt="An alternating current in the transmitter circuit makes electrons oscillate in the transmitting aerial, which gives out radio waves. The waves make electrons oscillate in the receiving aerial, giving an alternating current of the same frequency in the receiver circuit." loading="lazy">
+  <figcaption>Radio waves are made by, and induce, oscillations in circuits at the same frequency.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -149,6 +188,12 @@ Example: why is ultraviolet used in a water steriliser? Ultraviolet damages the 
 10. Radio waves make electrons in the aerial oscillate, which gives an alternating current of the same frequency as the waves.
 11. Gamma rays pass out of the body and can be detected, while infrared is absorbed by skin and tissue before it reaches the surface.
 12. Imaging uses a small dose to make a picture, but treatment uses a larger, focused dose to kill cancer cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--04-xray-shadow.webp" width="900" height="880" alt="X-rays pass through an arm onto a detector. Soft tissue absorbs few X-rays so those detector cells are dark, while bone absorbs many so only a weak beam gets through and the bone shows pale on the image." loading="lazy">
+  <figcaption>Bone absorbs more X-rays than soft tissue, so it casts a pale shadow on the image.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

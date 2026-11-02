@@ -105,6 +105,17 @@ Documents can be produced and recorded either way.
 
 The information is the same in both forms. Speed, storage and error risk differ (see the last section).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-business-documents-and-books-of-prime-entry--01-invoice-layout.webp" width="900" height="1000" alt="An invoice from Verrick Paints to Brayfield Decorators shows 40 tins at 18.00, a list price total of 720.00. A bar splits it into 540 paid and 180 trade discount. The invoice total of 540.00 is the figure recorded, and the 3% cash discount in the terms is not deducted unless paid in time (16.20)." loading="lazy">
+  <figcaption>A worked invoice: list price, trade discount, total and terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-business-documents-and-books-of-prime-entry--02-statement-of-account.webp" width="900" height="1140" alt="A June statement lists invoice 5101 (540.00), credit note 301 (54.00), the transfer received (471.42) and discount allowed (14.58). The running balance falls 540.00, 486.00, 14.58 and then nil. A column chart shows the balance falling." loading="lazy">
+  <figcaption>Brayfield checks the statement against its own purchases ledger.</figcaption>
+</figure>
+
+
 ## The books of prime entry
 
 A book of prime entry holds the **first** record of a transaction, made from its source document. The ledger comes next, after posting. The seven books:
@@ -154,6 +165,22 @@ Opening entries and corrections of errors also suit the general journal.
 
 Check the conditions. Ostlund Hotels pays after the discount period, so it earns none.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-business-documents-and-books-of-prime-entry--01-docs-to-books.webp" width="900" height="878" alt="Five source documents point to the seven books of prime entry. An invoice goes to the sales journal (seller) and purchases journal (buyer). A credit note goes to the sales returns or purchases returns journal. Receipts, counterfoils and paying-in slips go to the cash book; petty cash vouchers to the petty cash book; anything else to the general journal." loading="lazy">
+  <figcaption>Each source document is the first record that feeds a particular book of prime entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--06-prime-entry-trial-balance.webp" width="900" height="1250" alt="Six books of prime entry feed ledger accounts, which feed a trial balance. The example trial balance has debits of 12,000 (cash, equipment, stock) equal to credits of 12,000 (capital, creditors). Equal totals do not prove the absence of errors." loading="lazy">
+  <figcaption>Transactions flow from books of prime entry to ledgers to a trial balance that checks debits equal credits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
+
 ## The cash book
 
 The cash book has a cash column and a bank column on each side, plus discount columns. Its **dual function**: it is a book of prime entry (transactions are first recorded in it) and the ledger account for cash and bank (its balances are those accounts' balances). The ledger holds no separate cash or bank account.
@@ -173,6 +200,17 @@ Opening balances 1 June: cash 150, bank 2,840.
 | | | **14.58** | **335.00** | **3,856.42** | | | **12.00** | **335.00** | **3,856.42** |
 
 The **contra** entry moves 100 from the bank to the till: both sides are in the cash book, so nothing is posted. Brayfield owed 540 less the 54 credit note = 486; the 3% discount is 14.58, so 471.42 was paid. Aldersey was owed 640 less 40 = 600; the 2% discount is 12.00, so 588.00 was paid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-business-documents-and-books-of-prime-entry--03-cash-book-columns.webp" width="900" height="815" alt="Cash transactions go in the cash column (closing 240.00) and cheques, cards, transfers and online payments in the bank column (closing 2,458.42). A 100 contra moves money from bank to till with no ledger posting. The cash book is both a book of prime entry and the cash and bank ledger account." loading="lazy">
+  <figcaption>Only the method of payment decides the column; a contra needs no posting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-business-documents-and-books-of-prime-entry--04-petty-cash-imprest.webp" width="900" height="840" alt="A 120 float. June vouchers total 89.75 (postage 27.00, travel 30.60, cleaning 20.90, sundry 11.25) leaving 30.25 in the tin. Topping up by exactly 89.75 restores 120.00." loading="lazy">
+  <figcaption>The float is restored by the amount spent, not the cash left in the tin.</figcaption>
+</figure>
+
 
 ## Posting to the ledger
 
@@ -195,6 +233,12 @@ Brayfield Decorators account
 ```
 
 The two sides agree, so the balance is nil, matching the statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-business-documents-and-books-of-prime-entry--02-brayfield-account.webp" width="900" height="840" alt="A T-account for Brayfield Decorators: invoice 540.00 on the debit side, credit note 54.00, bank 471.42 and discount allowed 14.58 on the credit side, totals 540.00 and a nil balance. A bar splits the 540.00 into the three entries." loading="lazy">
+  <figcaption>Three credit entries clear the 540.00 invoice and the balance agrees with the statement of account.</figcaption>
+</figure>
+
 
 ## Petty cash and the imprest system
 

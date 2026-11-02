@@ -73,6 +73,22 @@ P(A′) = 1 − P(A)
 
 This works because "A happens" and "A does not happen" cover every possibility and share none. It is the quickest route whenever "not" or "at least one" appears.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-probability--03-club-table-bar-60.webp" width="900" height="780" alt="A bar of 60 members split into walk 21, bus 18, cycle 9 and car 12. P(bus) = 18/60 = 3/10 and P(not car) = 48/60 = 4/5, always over the whole 60." loading="lazy">
+  <figcaption>The denominator is the whole 60, not the row you are looking at.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--01-probability-scale.webp" width="900" height="840" alt="A bag of 20 beads (4 green, 6 yellow, 10 white) above a number line from 0 impossible to 1 certain. A black bead sits at 0, a white bead at 0.5 and the event not green at 0.8. The left half is unlikely and the right half likely." loading="lazy">
+  <figcaption>Probabilities run from 0 (impossible) to 1 (certain), with 0.5 an even chance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+
 ## 8.2 Relative and expected frequencies
 
 ### Relative frequency
@@ -116,6 +132,27 @@ An expected frequency need not be a whole number, and it is not a promise. A rea
 - **Random** means each item has a chance of being picked and the choice cannot be predicted or controlled. "A ball is chosen at random" tells you every ball is equally likely to be chosen, so you can use the equally-likely formula.
 
 If a question asks whether a game is fair, compare each probability with what a fair game would give and refer to the numbers in your answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
+  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--06-expected-frequency.webp" width="900" height="990" alt="Three bars with the expected share shaded: a fair ten-sided dice rolled 150 times gives 45 multiples of 3; a spinner with P(4) 0.355 spun 600 times gives 213; a town of 18400 adults with probability 0.065 gives 1196 cyclists." loading="lazy">
+  <figcaption>Expected frequency is probability times number of trials, an average rather than an exact result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--05-fair-or-biased.webp" width="900" height="850" alt="Bar chart of relative frequencies after 200 spins: 1 is 0.155, 2 is 0.26, 3 is 0.23, 4 is 0.355. A dashed line at 0.25 shows a fair spinner. Scores 1 and 4 are far from it, which suggests bias." loading="lazy">
+  <figcaption>Results far from 0.25 after many spins suggest, but do not prove, a biased spinner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--03-prob-die-sixes.webp" width="900" height="990" alt="Bars compare expected sixes (120 x 1/6 = 20) with observed sixes (27), 7 more. A number line marks the fair value 0.167 and observed relative frequency 0.225. With only 120 rolls the difference could be chance; roll many more times." loading="lazy">
+  <figcaption>27 sixes against 20 expected is not proof of bias from only 120 rolls.</figcaption>
+</figure>
+
 
 ## 8.3 Probability of combined events
 
@@ -168,6 +205,17 @@ With three sets, fill the region where all three overlap first, then the regions
 
 **Worked example (three sets).** Of 40 pupils, 20 play chess (A), 18 play draughts (B) and 15 play go (C). Seven play A and B, 6 play A and C, 5 play B and C, and 3 play all three. Exactly two games: A and B only 7 − 3 = 4, A and C only 6 − 3 = 3, B and C only 5 − 3 = 2. One game only: A 20 − 4 − 3 − 3 = 10, B 18 − 4 − 2 − 3 = 9, C 15 − 3 − 2 − 3 = 7. The regions total 38, so 2 pupils play none. P(exactly one game) = 26/40 = 13/20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-probability--01-cafe-venn-probabilities.webp" width="900" height="1250" alt="A two-set Venn diagram of 50 people: tea only 20, both 8, coffee only 14, neither 8. Three small shaded copies show P(T and C) = 4/25, P(tea only) = 2/5 and P(T′) = 11/25." loading="lazy">
+  <figcaption>Fill the Venn diagram from the middle outwards, then read each probability over 50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-probability--02-three-set-venn-40-pupils.webp" width="900" height="1030" alt="Three overlapping circles for chess 20, draughts 18 and go 15 among 40 pupils: all three 3, exactly two 4, 3 and 2, one only 10, 9 and 7, none 2. P(exactly one game) = 26/40 = 13/20." loading="lazy">
+  <figcaption>Fill the centre first, then the pairs, then the single-set regions.</figcaption>
+</figure>
+
+
 ### Tree diagrams
 
 A tree diagram shows a sequence of events. Write the probabilities beside the branches and write the outcomes at the end of the branches. The branches leaving any one point carry probabilities with total 1.
@@ -210,6 +258,22 @@ P(delayed and on time)  = 0.2 × 0.3  = 0.06
 ```
 
 All four path probabilities (0.14, 0.06, 0.04 and 0.76) add to 1, which is a good final check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-probability--05-tree-changing-branches.webp" width="900" height="930" alt="A tree for a delayed train (0.2) then a late pupil: 0.7 if delayed, 0.05 if not. Paths give 0.14, 0.06, 0.04 and 0.76, adding to 1. The two late paths give P(late) = 0.18." loading="lazy">
+  <figcaption>The second branches need not repeat: multiply along, add the paths you want, check the total is 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-probability--06-product-grid.webp" width="900" height="840" alt="A 3 by 4 grid of the 12 products of spinner and die. Five products are 6 or more (5/12). Four are odd, so the probability of an even product is 1 - 4/12 = 2/3." loading="lazy">
+  <figcaption>List all 12 equally likely products, then count the cells you want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+
 
 ## Choosing a method
 

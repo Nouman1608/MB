@@ -66,6 +66,12 @@ Fall = 1.50 - 1.10 = 0.40 -> 0.40 / 1.50 x 100 = 26.7%
 
 The large bakery can sell below the small one's cost and still make a profit. That is the main advantage of size.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--08-igcse-small-vs-large-unit-cost.webp" width="900" height="850" alt="Small bakery average cost 1.50 (3,000 / 2,000); large bakery 1.10 (22,000 / 20,000), a fall of 0.40 or 26.7%. A price between the two lets the large firm profit while the small one loses." loading="lazy">
+  <figcaption>Economies of scale let a large firm undercut a small one.</figcaption>
+</figure>
+
+
 ## What helps firms grow (point c)
 
 - **Access to finance.** A firm can reinvest profits, borrow from a bank or sell shares. A firm that cannot raise money cannot buy machines or open new sites.
@@ -84,6 +90,12 @@ If A takes over B: (180,000 + 60,000) / 400,000 x 100 = 60%
 ```
 
 A takeover that lifts A from 45% to 60% could worry a regulator, because A would gain much more control over the price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--06-igcse-takeover-market-share.webp" width="900" height="870" alt="A bread market of 400,000 loaves: A has 45%, B 15%, others 40%. After A takes over B, A has 60%, which may worry a regulator." loading="lazy">
+  <figcaption>A takeover can lift market share and so control over price.</figcaption>
+</figure>
+
 
 ## Why firms stay small (point d)
 
@@ -135,6 +147,17 @@ Evaluation: the firm gains, because profit rises from 20,000 to 84,000. Passenge
 
 **Worked example: payback on a patent.** A drug firm spends 600,000 on research and wins a patent. It earns a profit of 15 per pack on 8,000 packs a year, which is 120,000 a year. Payback is 600,000 / 120,000 = 5 years. Without the patent a rival could copy the drug and the profit would not be there to repay the research. The cost is that patients pay a higher price while the patent lasts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--07-igcse-bus-merger-monopoly.webp" width="900" height="1000" alt="Five bus firms merge: fare 4.00 to 5.00, trips 50,000 to 42,000, cost per trip 3.60 to 3.00 and profit 20,000 to 84,000. The firm gains and passengers lose." loading="lazy">
+  <figcaption>Merging to monopoly raises profit but also fares, and cuts trips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
+
 ## Oligopoly (points h, i, j)
 
 **Definition.** An oligopoly is a market in which a few large firms supply most of the output.
@@ -170,6 +193,12 @@ Features:
 | Cartels | None for consumers | High fixed prices, which many governments make illegal |
 | Price wars | Lower prices for consumers | May drive out smaller rivals; once rivals are gone, prices may rise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--05-igcse-cartel-price-war.webp" width="900" height="940" alt="Profit per firm is 30,000 under normal rivalry, 40,000 when a cartel holds, 48,000 for a cheater (30,000 for the others) and 12,000 in a price war. Cheating beats the cartel, so cartels break down." loading="lazy">
+  <figcaption>Cheating on a cartel pays, which leads to a price war.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Writing "monopoly means one firm" without saying it dominates, or without linking features to barriers to entry.
@@ -181,6 +210,17 @@ Features:
 ## Evaluating "monopoly is bad for consumers"
 
 Chain of reasoning: no rivals, so the firm can raise price without losing customers, so consumers pay more and get less choice. But large output can bring lower unit cost, and patent profits can fund new products. Whether consumers lose depends on whether the saving is passed on, whether a regulator limits prices, and how long the barriers last. A judgement should name which factor decides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--01-un185-barriers-to-entry.webp" width="900" height="820" alt="A new firm is blocked by a wall of five barriers: legal rights and licences, patents, marketing budgets, special technology and high start-up costs. Behind the wall sits a monopoly firm that is a price-maker." loading="lazy">
+  <figcaption>The five barriers to entry that protect a monopoly from new rivals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--02-un185-patent-payback.webp" width="900" height="900" alt="Cumulative profit rises by 120,000 a year (15 per pack on 8,000 packs). The bar for year 5 reaches the 600,000 research cost, so payback takes 5 years." loading="lazy">
+  <figcaption>Cumulative patent profit reaches the 600,000 research cost in year 5.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

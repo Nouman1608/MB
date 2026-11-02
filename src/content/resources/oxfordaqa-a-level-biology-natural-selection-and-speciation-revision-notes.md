@@ -45,6 +45,12 @@ These notes condense sections 3.3.8.1 and 3.3.8.2 of the OxfordAQA *Internationa
 
 Write all five links when asked to explain. Missing the inheritance step is the commonest slip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+
 ## Calculating allele frequency
 
 | Quantity | Working |
@@ -63,6 +69,17 @@ Write all five links when asked to explain. Missing the inheritance step is the 
 
 State whether a change is absolute (0.125) or relative (31%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## Three types of selection
 
 | | Stabilising | Directional | Disruptive |
@@ -80,6 +97,12 @@ State whether a change is absolute (0.125) or relative (31%).
 3. Peak stayed, curve taller and narrower: stabilising.
 4. Single peak became two peaks: disruptive.
 5. Name the type, and state what was removed or favoured, quoting data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
 
 ## Reproductive separation and speciation
 
@@ -100,6 +123,12 @@ State whether a change is absolute (0.125) or relative (31%).
 ### Polyploid reminder
 
 Diploid 2n = 18, tetraploid 4n = 36. Tetraploid × diploid gives 27 chromosomes (triploid), which cannot pair into sets at meiosis, so the hybrid is sterile. The tetraploids form a new reproductively separate group in one step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
 
 ## Model explanation to learn
 
@@ -173,6 +202,12 @@ Each pressure acts on phenotypes. The effect on the gene pool appears only after
 8. In other places. A geographical barrier stops gene flow.
 9. Tetraploid 4n = **44**. The hybrid has 22 + 11 = **33**.
 10. Evolution is a property of the population's gene pool, which only changes when alleles pass to offspring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

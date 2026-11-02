@@ -28,6 +28,12 @@ These revision notes condense topic 3.4 Human resources from the AQA GCSE Busine
 - Business objectives are split into functional plans (operations, HR, marketing, finance) with clear links back to the objective.
 - Quick check: if the objective is a new branch, HR needs to recruit and train staff, finance needs to budget for wages, and operations needs the site ready.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--01-hr-objective-four-plans.webp" width="900" height="820" alt="A top box with the objective to grow sales revenue by 20 percent links to four plans: marketing sets out promotion, operations raises capacity, HR recruits and trains extra staff, finance budgets for the extra wage bill. If HR fails to recruit in time the other three plans fail too." loading="lazy">
+  <figcaption>If HR recruits late, the marketing, operations and finance plans for a 20% growth objective fail too.</figcaption>
+</figure>
+
+
 ## 3.4.1 Organisational structures
 
 ### Definitions
@@ -57,11 +63,33 @@ Why have a structure: clear job roles, clear responsibilities, a route for decis
 
 Method for span of control: span = number of subordinates / number of managers at that level. Example: Westerholt Cycles has 35 mechanics and 5 team leaders, so span is 35 / 5 = 7. If the firm hires two more team leaders, span narrows to 35 / 7 = 5, and the structure becomes taller if a level is added above them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--14-tall-vs-flat.webp" width="900" height="925" alt="Two charts with the same 16 workers. Tall: 5 levels, span 2, chain of 4 links, 15 managers. Flat: 3 levels, span 4, chain of 2 links, 5 managers." loading="lazy">
+  <figcaption>The same 16 workers in a tall and a flat structure (illustrative numbers).</figcaption>
+</figure>
+
+
 ### Centralised or decentralised
 
 - Centralised: consistent, tight control, slow, may demotivate.
 - Decentralised: fast, locally informed, motivating, but decisions may differ between sites.
 - Appropriate structure depends on size, type of work, staff skills, and the speed of decisions needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--02-pellingdon-delayering.webp" width="900" height="975" alt="Before: owner, 2 managers, 6 supervisors, 48 bookbinders (4 levels, owner span 2, supervisor span 8). After removing the manager level: 3 levels and the owner span rises to 6." loading="lazy">
+  <figcaption>Removing the manager level cuts the structure from 4 levels to 3 and widens the owner span from 2 to 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--11-burdock-chart.webp" width="900" height="990" alt="Burdock Joinery chart: a managing director with four managers (span 4); operations has two supervisors (span 2) each with 6 workers (span 6); marketing 3, finance 2 and HR 1 staff. 4 levels, a chain of 3 links from worker to managing director, 25 employees." loading="lazy">
+  <figcaption>Burdock Joinery: levels, spans, chain of command and total employees read from the chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
 
 ## 3.4.2 Recruitment and selection
 
@@ -75,6 +103,12 @@ Growth, replacing leavers, new skills, new roles.
 |---|---|---|
 | For | Cheap, quick, known person, motivates staff, little induction | Wider choice, new ideas and skills |
 | Against | Narrow choice, no fresh ideas, creates another vacancy | Costly, slower, unknown person, more induction, may upset current staff |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--01-recruit-routes.webp" width="900" height="860" alt="Two panels compare internal recruitment (existing staff, one promoted into the vacancy) with external recruitment (a large crowd of outside applicants). Internal is quicker and cheaper, the record is known and it shows promotion is possible, but there are few applicants, no new ideas and the old job must be filled. External gives a larger pool and fresh ideas but costs more, ability is less certain and staff may feel overlooked." loading="lazy">
+  <figcaption>Internal and external recruitment each have benefits and limitations.</figcaption>
+</figure>
+
 
 ### The process in order
 
@@ -102,6 +136,17 @@ Memory hook: the job description is about the job; the person specification is a
 | Part time | Fewer hours | Flexible, matches busy times | Less availability |
 | Job share | One job split between two | Cover and mix of skills | More handovers |
 | Zero hours | No guaranteed hours | Flexible, low cost when quiet | Uncertain income, less loyalty |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--03-harnsworth-recruitment-stages.webp" width="900" height="1028" alt="Seven stages: job analysis, job description, person specification, advertise, shortlist, select by interview plus driving test, offer and contract, with Harnsworth content at each stage." loading="lazy">
+  <figcaption>Harnsworth works through all seven stages, adding a driving test because an interview cannot show driving ability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--04-four-contract-types.webp" width="900" height="961" alt="Four rows with an illustrative Monday to Friday strip: full time, part time, job share and zero hours, each with the gains and, for job share and zero hours, the drawbacks given in the lesson." loading="lazy">
+  <figcaption>Zero hours has no guaranteed hours; part time normally has set hours.</figcaption>
+</figure>
+
 
 ## 3.4.3 Motivating employees
 
@@ -131,6 +176,17 @@ Worked reminders, using Ottenshaw Dental Studio:
 
 Evaluation point: financial methods work well for staff with low pay or sales roles; non-financial methods matter where pay is already fair. A mix often works best.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--05-corvington-commission.webp" width="900" height="905" alt="A 1,200 pound salary plus 4 percent of 30,000 pounds of sales (1,200) gives 2,400 pounds. An illustrative quiet month with 10,000 pounds of sales gives 1,600 pounds." loading="lazy">
+  <figcaption>Commission rewards effort but makes pay unstable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--06-corvington-profit-sharing.webp" width="900" height="986" alt="10 percent of 60,000 pounds profit is 6,000 pounds; shared equally between 25 staff that is 240 pounds each." loading="lazy">
+  <figcaption>Profit sharing pays each of 25 staff 240 pounds from a 6,000 pound pool, and falls if profit falls.</figcaption>
+</figure>
+
+
 ## 3.4.4 Training
 
 ### Benefits
@@ -146,6 +202,12 @@ Increased productivity, coping with technology change, increased motivation, sta
 | Off the job | Expert teaching, wider skills, qualifications | Dearer, worker absent |
 
 Choosing a method: say which suits the business, give a case reason (cost, size, technology, risk to customers), and weigh the alternative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

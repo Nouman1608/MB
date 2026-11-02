@@ -55,6 +55,12 @@ A short case shows the gap (all amounts in this guide are in dollars). Quorley T
 
 Current ratio = 45,500 ÷ 36,000 = 1.26 : 1. Without inventory the figure is 5,500 ÷ 36,000 = 0.15 : 1. Quorley Tiles is profitable but its cash position is tight: most of its current assets are tiles on the shelf, not money. That is the distinction part (a) tests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--01-prof-vs-cash.webp" width="900" height="1050" alt="Two bars compare Quorley Tiles current assets of 45,500 (inventory 40,000, receivables 5,000, bank 500) with current liabilities of 36,000. Profit is 15% of revenue, the current ratio is 1.26 : 1, but without inventory the acid test is 0.15 : 1." loading="lazy">
+  <figcaption>A business can be profitable yet short of cash when most current assets are inventory.</figcaption>
+</figure>
+
+
 ## 2. Where the figures come from
 
 Work from the two statements, using the board's terms: revenue, cost of sales, gross profit, other operating expenses, profit for the year; and inventory, trade receivables, bank, trade payables, other payables.
@@ -67,6 +73,12 @@ Work from the two statements, using the board's terms: revenue, cost of sales, g
 Both routes must give the same answer. Use one as a check on the other. If a question gives you its own definition, follow that instead.
 
 **Presenting ratios.** Percentages: show the formula, the working and the answer to 1 or 2 decimal places, with the % sign. Liquidity ratios: write as x : 1, to 2 decimal places. A bare number with no unit or sign is easy to misread.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--02-capital-employed-two-routes.webp" width="900" height="970" alt="Bars for Year 1 and Year 2 show capital employed built two ways: equity plus non-current liabilities, and non-current assets plus current assets minus current liabilities. Year 1 gives 200,000 both ways and Year 2 gives 230,000 both ways." loading="lazy">
+  <figcaption>Both routes to capital employed give the same total, so one checks the other.</figcaption>
+</figure>
+
 
 ## 3. Profitability ratios (4.4 b)
 
@@ -117,6 +129,12 @@ Vossberg Garden Centre is a sole trader business. Figures for two years:
 - Year 1: 30,000 ÷ 200,000 × 100 = **15.0%**.
 - Year 2: 27,000 ÷ 230,000 × 100 = **11.74%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--03-vossberg-profitability.webp" width="900" height="970" alt="Paired bars show gross profit percentage 35.0 to 33.0, profit for the year as a percentage of revenue 12.5 to 9.0, and ROCE 15.0 to 11.74. The first two divide by revenue and ROCE divides by capital employed." loading="lazy">
+  <figcaption>Vossberg earned less on all three profitability measures in Year 2.</figcaption>
+</figure>
+
+
 ## 4. Liquidity ratios (4.4 c)
 
 | Ratio | Formula | Notes |
@@ -136,6 +154,12 @@ Liquid (acid test) ratio:
 - Year 1: (60,000 − 30,000) ÷ 32,000 = 30,000 ÷ 32,000 = **0.94 : 1**.
 - Year 2: (82,000 − 48,000) ÷ 65,000 = 34,000 ÷ 65,000 = **0.52 : 1**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--05-vossberg-liquidity.webp" width="900" height="1045" alt="Stacked bars compare current assets with current liabilities for both years. Current ratio fell 1.88 to 1.26 and acid test fell 0.94 to 0.52 as liabilities rose from 32,000 to 65,000 and inventory is excluded from the acid test." loading="lazy">
+  <figcaption>Liquidity weakened because current liabilities nearly doubled.</figcaption>
+</figure>
+
+
 ## 5. Interpreting the results
 
 Calculation earns part of the credit; interpretation needs a conclusion in words. Use four steps: say what the ratio did, give a possible reason, link it to the other ratios, and state the consequence.
@@ -154,6 +178,12 @@ Calculation earns part of the credit; interpretation needs a conclusion in words
 - Overall: Year 2 shows higher revenue but lower profitability and weaker liquidity. The owner should control expenses, review pricing and reduce the inventory held.
 
 Useful comparisons are with the previous year, with a target, or with a similar business. Be careful when comparing businesses of different types, as their normal ratios differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--04-vossberg-revenue-split.webp" width="900" height="915" alt="Each bar splits revenue into cost of sales, other operating expenses and profit. Year 1 is 65.0, 22.5 and 12.5 percent; Year 2 is 67.0, 24.0 and 9.0 percent. Gross margin fell 2.0 points and expenses rose 1.5 points, so profit percentage fell 3.5 points." loading="lazy">
+  <figcaption>Higher cost of sales and faster-growing expenses squeezed the profit percentage.</figcaption>
+</figure>
+
 
 ## 6. Common errors
 

@@ -75,6 +75,12 @@ Magnification has **no unit**. Write it as ×8000, not "8000 µm".
 
 *Reminder:* a nucleus on a TEM micrograph labelled ×14 000 measures 84 mm. 84 mm = 84 000 µm. 84 000 ÷ 14 000 = **6 µm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
+
+
 ### Scale bar
 
 1. Measure the scale bar in mm and convert to the bar's unit.
@@ -89,6 +95,12 @@ Magnification has **no unit**. Write it as ×8000, not "8000 µm".
 3. One eyepiece unit = total micrometer length ÷ number of eyepiece units.
 4. Swap in the specimen, count eyepiece units, multiply.
 5. **Recalibrate after changing the objective.** Quadruple the magnification and one eyepiece unit covers a quarter of the distance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
+  <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
+</figure>
+
 
 ### Temporary preparation
 
@@ -127,6 +139,12 @@ A drawing has its **own magnification**: drawing size ÷ actual size. It is not 
 **Why a vacuum:** air molecules would scatter the electrons. So no living specimens.
 
 **Empty magnification:** enlarging beyond the resolution limit gives a bigger, equally blurred image with no new detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

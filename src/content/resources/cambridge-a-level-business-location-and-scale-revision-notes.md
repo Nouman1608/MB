@@ -64,6 +64,12 @@ These are condensed notes for section 9.1 Location and scale (9.1.1 Location and
 | Supply chain | Short | Longer | Longest, most disruption risk |
 | Main gain | Close contact | Wider market | Cheaper inputs, new markets |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--01-reach-local-national-international.webp" width="900" height="860" alt="Three panels: local (one town, short supply chain, close contact, small market), national (sites linked across one country, longer chain, wider market, network cost) and international (sites in two countries separated by a border, longest chain, cheaper inputs and new markets, exchange-rate and cultural risk, law and currency differ)." loading="lazy">
+  <figcaption>How far a location decision reaches changes the supply chain, benefits and risks.</figcaption>
+</figure>
+
+
 ### Offshoring and reshoring at a glance
 
 | | Offshoring | Reshoring |
@@ -73,6 +79,17 @@ These are condensed notes for section 9.1 Location and scale (9.1.1 Location and
 | Costs and risks | Freight and duty, exchange rates, weaker control, long lead times, image if home jobs go | Higher labour cost, new plant cost, loss of overseas know-how |
 | Who is affected | Home workers may lose jobs; host economy gains jobs | Home jobs created; overseas workers lose out |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--01-westmarsh-offshoring.webp" width="900" height="970" alt="Stacked bars of cost per shirt: home 13.80, offshore 11.67, and offshore after wages rise 50 percent and freight doubles 14.07. Freight and duty plus higher fixed costs eat into the labour saving. When offshore cost exceeds home cost, reshoring becomes attractive." loading="lazy">
+  <figcaption>Westmarsh: the offshore saving disappears once wages and freight rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-offshore-reshore-pushes.webp" width="900" height="930" alt="Arrows run both ways between home and overseas. Offshoring reasons: lower labour and land costs, skills, nearer markets, avoiding import taxes, incentives. Reshoring reasons: rising wages abroad, transport costs, quality failures, long lead times, supply disruption. Globalisation eases moves; protectionism and rising wages can push firms back." loading="lazy">
+  <figcaption>Firms move operations in both directions, for different reasons.</figcaption>
+</figure>
+
+
 ### Globalisation and location
 
 - Lower trade barriers and transport costs make distant sites practical.
@@ -81,11 +98,23 @@ These are condensed notes for section 9.1 Location and scale (9.1.1 Location and
 - Overseas competition pushes costs down, which can force relocation.
 - Not one-way: protectionism, rising wages abroad and disruption can reverse the trend.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## 9.1.2 Scale of operations
 
 ### Factors that influence scale
 
 Market size; finance; type of product (mass versus personalised); technology; owner's objectives; competition; risk and regulation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--03-scale-factors.webp" width="900" height="1100" alt="Seven factors drawn as bars from small scale to large scale: market size, finance, type of product, technology, owner objectives, competition, risk and regulation, each with the small-scale and large-scale pull." loading="lazy">
+  <figcaption>Each factor pushes a firm towards small or large scale.</figcaption>
+</figure>
+
 
 ### Economies and diseconomies
 
@@ -93,6 +122,12 @@ Market size; finance; type of product (mass versus personalised); technology; ow
 |---|---|---|
 | Economies | Purchasing, technical, financial, marketing, managerial, risk-bearing | Skilled labour pool, supplier cluster, better infrastructure, local training |
 | Diseconomies | Communication, coordination, slow decisions, low motivation, duplication | Congestion, wage and land price rises, strained infrastructure, local labour shortage |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--03-internal-external-economies.webp" width="900" height="1120" alt="Two graphs on the Sundermere curve. An internal economy is a movement down along one curve as the firm grows. An external economy shifts the whole curve down because every firm in the industry gains. The size of the shift is illustrative." loading="lazy">
+  <figcaption>Internal economies move you along the curve; external economies shift it.</figcaption>
+</figure>
+
 
 ### Must-know distinctions
 
@@ -136,6 +171,12 @@ Another Otterburne plan makes 40,000 units a year. Home site: variable cost 9.00
 - Weigh the one-off cost and the disruption against the annual saving.
 - Add non-financial effects: control, speed, image, staff, risk.
 - End with a decision and the condition on which it depends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-sundermere-unit-cost.webp" width="900" height="950" alt="Line chart of the lesson data: unit cost falls from 14.00 at 1,000 loaves to 8.00 at 8,000 then rises to 10.00 at 16,000. Doubling from 4,000 to 8,000 cuts unit cost 11.1 percent; doubling from 8,000 to 16,000 raises it 25 percent." loading="lazy">
+  <figcaption>Unit cost is lowest at 8,000 loaves; beyond that diseconomies of scale push it up.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -42,6 +42,12 @@ Related pages: [revision notes for this unit](/resources/cambridge-igcse-economi
 
 Supply-side policy is government action to raise the economy's productive capacity, meaning how much it can produce when resources are fully used. It works by making labour, capital and markets more productive and efficient. It is not mainly about boosting spending. Fiscal and monetary policy change demand in the short run. Supply-side policy aims to shift the whole production possibility curve (PPC) outwards over the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## 4.5.2 Supply-side measures
 
 For each measure, write the chain: what the government does, who changes behaviour, what happens to output or costs, and the effect on the economy.
@@ -53,6 +59,12 @@ The government funds schools, colleges and apprenticeships, or pays firms to tra
 Worked example (Bakery X, invented). Four workers are paid 400 a week in total and make 40 units each week, so labour cost per unit is 400 ÷ 40 = 10. After a training course funded by the government, the same workers make 50 units. Productivity has risen by (50 − 40) ÷ 40 × 100 = 25%. With wages unchanged, labour cost per unit falls to 400 ÷ 50 = 8, a fall of 20%.
 
 Evaluation: spending takes years to pay off, costs the government money, and trained workers may emigrate or leave for rivals. The result depends on whether the skills match what employers need.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--06-training-unit-cost.webp" width="900" height="740" alt="Grids of 40 and 50 units for the same wage bill of 400: cost per unit falls from 10 to 8 as output rises 25%." loading="lazy">
+  <figcaption>Higher productivity cuts labour cost per unit by 20% when wages are unchanged.</figcaption>
+</figure>
+
 
 ### Labour market reforms
 
@@ -67,6 +79,12 @@ Direct taxes are paid by people and firms from income and profit, such as income
 Worked example (a worker in Country K, invented). Gross pay is 400 a week and the income tax rate is 30%, so take-home pay is 400 × 0.70 = 280. The rate is cut to 25%, and take-home pay becomes 400 × 0.75 = 300, a rise of 7.1%. On an extra hour paid at 20, the worker keeps 14 before the cut and 15 after it.
 
 Evaluation: a tax cut reduces government revenue unless the extra work and spending bring in enough tax. Some people may work less because they can earn the same with fewer hours. Gains go mainly to higher earners, which can widen inequality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--01-tax-cut-and-sale-numbers.webp" width="900" height="740" alt="A worker on 400 keeps 280 at 30% tax and 300 at 25%, up 7.1%; on an extra hour of 20 they keep 14 then 15. A railway losing 40 a year is sold for 500, which is 12.5 years of losses." loading="lazy">
+  <figcaption>A 5-point tax cut lifts take-home pay from 280 to 300; the railway sale equals 12.5 years of losses.</figcaption>
+</figure>
+
 
 ### Deregulation
 
@@ -88,6 +106,12 @@ Worked example (invented). A state railway loses 40 a year and the government se
 
 Evaluation: a private monopoly can raise prices. The new owner may close unprofitable but socially useful services. A one-off sale is not a lasting source of revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--05-supply-side-measures.webp" width="900" height="1140" alt="Six tiles name the measures; an arrow leads to more workers, skills, capital and competition; an outward-shifting PPC (computed from x²+y²=R², R 100 to 120) shows capacity rising in the long run." loading="lazy">
+  <figcaption>All six measures aim to shift the PPC outwards over the long run.</figcaption>
+</figure>
+
+
 ## 4.5.3 Effects on the government's macroeconomic aims
 
 | Aim | How supply-side policy may help | Limit |
@@ -99,6 +123,12 @@ Evaluation: a private monopoly can raise prices. The new owner may close unprofi
 | Redistribution of income | Education and training may lift low earners | Lower taxes and benefits can widen inequality |
 
 Supply-side policy can ease conflicts between aims. Raising output capacity can allow growth with less pressure on prices, unlike a demand boost that runs into capacity limits. The cost is time: results may take many years, so governments often pair it with demand policies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--02-supply-side-aims-table.webp" width="900" height="800" alt="Five aims each with one way supply-side policy may help and one limit: growth, unemployment, stable prices, balance of payments and income gaps." loading="lazy">
+  <figcaption>Each aim has a way supply-side policy may help and a limit.</figcaption>
+</figure>
+
 
 ## 4.6.1 Economic growth defined
 
@@ -129,6 +159,32 @@ Worked example 4 (Country C, invented). Real GDP rises 5.0% from 1 200 to 1 260 
 
 Limits of GDP per head: it is an average and hides inequality; it leaves out unpaid work and the informal sector; it ignores pollution and leisure; and it cannot show how good the goods and services are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--07-real-gdp-calculation.webp" width="900" height="1150" alt="Country A: nominal 800 to 858 (+7.25%) but real 825 (+3.1%) with index 104. Country B: nominal +8.0% but real 576, a fall of 4.0%, with index 112.5." loading="lazy">
+  <figcaption>Real GDP = nominal GDP ÷ price index × 100 shows the true change in output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--08-gdp-per-head-calculation.webp" width="900" height="1010" alt="Country A: GDP +3.1%, population +2.5%, GDP per head 20,000 to 20,122 (+0.6%). Country C: GDP and population both +5.0%, so GDP per head stays 20,000." loading="lazy">
+  <figcaption>GDP per head grows only when output grows faster than population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--04-gdp-per-head-average.webp" width="900" height="770" alt="Five illustrative incomes 4, 6, 8, 12 and 70 thousand average 20 thousand, which four of five earn well below; four chips list what is left out." loading="lazy">
+  <figcaption>An average of 20 can hide a wide spread of incomes, and GDP leaves out unpaid work, pollution, leisure and quality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ## 4.6.3 Recession
 
 A recession is a period when real GDP falls. A common rule of thumb is a fall for two consecutive quarters, though the syllabus asks you for the meaning, not a fixed rule. The opposite of a recession is a period of positive growth.
@@ -157,6 +213,17 @@ Capital goods
 ```
 
 In a recession output falls, so the economy moves from a point on the PPC to a point inside it. Resources, especially labour and capital, are unemployed or underused. The curve itself has not moved, because the quantity and quality of resources have not changed in the short run. Recovery moves the economy back towards the curve. If a long recession leaves people out of work so long that their skills fade, or firms scrap machinery, the PPC itself can shift inwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and--03-recession-quarters.webp" width="900" height="790" alt="Line chart of real GDP 250, 248, 245, 247 with quarterly growth of -0.8%, -1.2% and +0.8% and a peak-to-trough fall of 2.0%." loading="lazy">
+  <figcaption>Real GDP falls for two consecutive quarters, 2.0% from peak to trough.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## Common errors
 

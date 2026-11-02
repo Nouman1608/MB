@@ -57,6 +57,12 @@ Four requirements must be met:
 
 Remove any one and the ecosystem can shift to a different state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--01-stability-requirements.webp" width="900" height="1080" alt="Four cards show the requirements: energy supply (light in, heat out), nutrient recycling by decomposers, genetic diversity and climate within tolerance. A graph shows a population varying around a steady mean." loading="lazy">
+  <figcaption>A stable ecosystem varies around a steady pattern and needs energy, recycled nutrients, genetic diversity and tolerable climate.</figcaption>
+</figure>
+
+
 ## Tipping points: the Amazon (D4.2.3)
 
 A tipping point is a threshold beyond which a change becomes self-reinforcing and hard to reverse. In the Amazon, trees release water vapour by transpiration. Over a large area this vapour cools the air, helps drive air flows and returns as rainfall. Clearing forest reduces transpiration, so rainfall falls, so more trees die, so transpiration falls again. This is positive feedback.
@@ -70,6 +76,12 @@ percentage change = (new − original) ÷ original × 100
 
 The forest has declined by 22.5% from its original area. Always measure against the original area, not the current one. Keep the sign or the word "decrease".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--02-amazon-tipping-point.webp" width="900" height="1110" alt="Forest clearing reduces transpiration and rainfall, so more trees die: a positive feedback loop. Forest area falls from 120 000 to 93 000 km2, a change of -22.5%." loading="lazy">
+  <figcaption>Positive feedback drives the Amazon tipping point; percentage change is measured against the original area.</figcaption>
+</figure>
+
+
 ## Models of stability: mesocosms (D4.2.4)
 
 A mesocosm is a small, enclosed model ecosystem. **Sealed glass vessels** are preferred to open tanks because matter cannot enter or leave, while light energy still passes through the glass. Aquatic or microbial systems are more likely to work than terrestrial ones, for example pond water with algae, small invertebrates and decomposing microbes.
@@ -80,6 +92,12 @@ To investigate a variable, set up several identical vessels and change one facto
 
 **Limitation:** a mesocosm is much simpler than a natural ecosystem, so results cannot be applied directly to it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--03-mesocosm.webp" width="900" height="1010" alt="Two sealed jars hold the same pond community. The lit jar persists; the dark jar collapses because producers lose their energy supply. Matter cannot enter or leave but light passes through." loading="lazy">
+  <figcaption>Removing light from a sealed mesocosm shows that an energy supply is needed for stability.</figcaption>
+</figure>
+
+
 ## Keystone species (D4.2.5)
 
 A keystone species has a **disproportionate impact on community structure** relative to its abundance. If it is removed, the community can change greatly and may collapse.
@@ -87,6 +105,12 @@ A keystone species has a **disproportionate impact on community structure** rela
 **Worked example.** A predatory fish is removed from a pond. Its prey, a grazing snail, increases from 40 to 62 per m², a 55% rise. The snails graze algae and plants, and plant species fall from 14 to 6, a change of (6 − 14) ÷ 14 × 100 = −57.1%. The predator was controlling the herbivore, so its removal let one species dominate.
 
 Sea otters controlling urchins in kelp forests and apex predators controlling herbivores on land are further examples. Do not confuse a keystone species with the most abundant species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--04-keystone-species.webp" width="900" height="1080" alt="Removing a predatory fish raises snails from 40 to 62 per m2 (+55%) and cuts plant species from 14 to 6 (-57.1%)." loading="lazy">
+  <figcaption>A keystone species has a disproportionate effect on the community relative to its abundance.</figcaption>
+</figure>
+
 
 ## Sustainable harvesting (D4.2.6)
 
@@ -102,6 +126,12 @@ Harvesting is sustainable when the **rate of harvesting is lower than the rate o
 Each boat-day catches almost a third less, which suggests the stock is falling. Other evidence: fish getting smaller and younger, and catches exceeding the estimated annual replacement.
 
 **Terrestrial plant.** For a wild-harvested species such as a bark or nut tree, compare harvest rate with recruitment of new mature trees, and survey seedlings and age structure. If 4 trees per hectare per year are harvested and 2.5 mature in their place, the population is falling by 1.5 per hectare per year, so the harvest is unsustainable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--05-sustainable-harvesting.webp" width="900" height="1030" alt="CPUE falls from 0.50 to 0.345 t per boat-day (-30.9%), suggesting a falling fish stock. For a harvested tree, 4 are cut per hectare per year but 2.5 mature, a loss of 1.5." loading="lazy">
+  <figcaption>Harvesting is sustainable only when the harvest rate is below the replacement rate.</figcaption>
+</figure>
+
 
 ## Sustainability of agriculture (D4.2.7)
 
@@ -128,6 +158,12 @@ BOD is the oxygen used by microorganisms breaking down organic matter in a water
 
 **Worked example.** A sample from a stream beside farmland has dissolved oxygen 9.0 mg dm⁻³ at the start and 2.4 mg dm⁻³ after five days sealed in the dark at 20 °C. BOD = 9.0 − 2.4 = **6.6 mg dm⁻³**. A higher value than a clean-water sample indicates more organic matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--06-eutrophication-bod.webp" width="900" height="1050" alt="Fertiliser nutrients cause an algal bloom that blocks light; plants die and bacteria respire aerobically, lowering oxygen. A sealed sample falls from 9.0 to 2.4 mg per dm3 over five days, a BOD of 6.6." loading="lazy">
+  <figcaption>Decomposer respiration, not the algae, uses up the oxygen; BOD measures this demand.</figcaption>
+</figure>
+
+
 ## Biomagnification (D4.2.9)
 
 Some toxins are not broken down or excreted, and are either fat-soluble or bound to proteins, so they accumulate in tissues. At each trophic level each consumer takes in many prey from the trophic level beneath, so concentration increases along the food chain. Top consumers receive the highest dose.
@@ -135,6 +171,12 @@ Some toxins are not broken down or excreted, and are either fat-soluble or bound
 Examples: **DDT**, an insecticide, which thinned the eggshells of some birds of prey; and **mercury**, which builds up in large predatory fish.
 
 **Worked example.** Pollutant concentrations in tissue: plankton 0.04 mg kg⁻¹, small fish 0.5, large fish 2.0, fish-eating bird 25. From plankton to bird the concentration rises by 25 ÷ 0.04 = **625 times**. From large fish to bird it rises 25 ÷ 2.0 = 12.5 times.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--07-biomagnification.webp" width="900" height="1030" alt="Pollutant concentration in tissue rises 0.04, 0.5, 2.0, 25 mg per kg along a food chain (log scale), a 625-fold increase from plankton to bird." loading="lazy">
+  <figcaption>Persistent toxins accumulate so top consumers receive the highest dose.</figcaption>
+</figure>
+
 
 ## Plastic pollution (D4.2.10)
 
@@ -163,6 +205,17 @@ Rewilding restores natural processes. Methods:
 **Cyclical succession:** some ecosystems show a repeating cycle of communities instead of one climax. In a heather moorland, young, building, mature and degenerate heather phases follow each other, and gaps then restart the cycle.
 
 **Climax community and arrested succession.** Given particular conditions, succession tends toward a characteristic climax community. Human influences can prevent it. Grazing by farm livestock holds grassland and stops tree seedlings growing. Draining a wetland stops wetland succession and the area is held in another state.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--08-primary-succession.webp" width="900" height="1080" alt="Bare rock is colonised by lichens and mosses, then grasses and shrubs, then trees, while soil deepens. Plant species rise from 4 to 17 (+325%) and soil organic matter from 0.5% to 14% (x28)." loading="lazy">
+  <figcaption>Primary succession builds soil and increases plant diversity over time (HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--09-cyclical-arrested-succession.webp" width="900" height="1150" alt="Heather moorland cycles through young, building, mature and degenerate phases, with gaps restarting the cycle. Grazing livestock and draining a wetland arrest succession." loading="lazy">
+  <figcaption>Succession can be cyclical, and human activity can hold it in a non-climax state (HL).</figcaption>
+</figure>
+
 
 ## Common errors
 

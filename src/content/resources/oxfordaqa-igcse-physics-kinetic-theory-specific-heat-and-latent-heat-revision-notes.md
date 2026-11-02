@@ -54,6 +54,12 @@ Rearrangements: c = E / (m Δθ), Δθ = E / (m c), m = E / L, L = E / m. If a h
 
 At a change of state the energy changes the separation of the particles, not their speed, so temperature stays constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+
 ## Method in steps: energy calculations
 
 1. Write down which stages happen (warming, melting, warming, boiling).
@@ -92,6 +98,32 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 * Safety: eye protection, hot water, no direct flame, clamp the tube.
 * Improve reliability: repeat, stir gently while liquid, read the thermometer at eye level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--07-cooling-curve-impurity.webp" width="900" height="900" alt="A temperature-time graph with two cooling curves. The pure substance falls, stays flat at about 69 degrees Celsius while it freezes, then falls again. The impure sample freezes at a lower temperature and its curve slopes down gradually through a range instead of having a flat step." loading="lazy">
+  <figcaption>An impurity lowers the freezing point and removes the sharp flat step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-heating-two-stage.webp" width="900" height="876" alt="A graph of temperature against energy supplied. Water rises from 20 to 100 degrees Celsius using 134 400 J (0.40 x 4200 x 80), then stays at 100 degrees while 226 000 J (0.10 x 2.26 x 10^6) boils 0.10 kg away. A bar below shows the two energies adding to 360 400 J, or 3.6 x 10^5 J." loading="lazy">
+  <figcaption>Split the problem at the state change: E = m c Δθ for warming, E = m L while the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--06-stearic-acid-apparatus.webp" width="900" height="1000" alt="Apparatus for the stearic acid practical: step 1 shows a boiling tube of acid standing in a beaker of hot water until fully liquid; step 2 shows the tube clamped with a thermometer, with the temperature read every 30 seconds. A graph below shows temperature falling, flat at about 69 degrees Celsius while the acid freezes, then falling again." loading="lazy">
+  <figcaption>Melt the acid in hot water, then clamp the tube, read a thermometer every 30 seconds and plot the cooling curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+
 ## Conduction, convection, evaporation
 
 * **Conduction in a metal:** vibrating particles pass energy on, and free electrons move through the lattice carrying energy, so metals are good conductors.
@@ -100,6 +132,22 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 * **Evaporation cooling:** fastest particles leave, so the average kinetic energy of those left falls. The liquid cools.
 * **Faster evaporation:** higher temperature, larger surface area, moving air, drier air.
 * **Condensation:** vapour particles lose energy and become liquid, giving energy to the surroundings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-evaporation-cooling.webp" width="900" height="960" alt="A beaker of liquid with particles; at the surface two fast particles, drawn with gold arrows, escape as vapour. The particles left behind have lower average kinetic energy, so the liquid cools. Evaporation is faster when the liquid is warmer, the surface larger, there is a draught or the air is drier." loading="lazy">
+  <figcaption>The fastest particles leave, so the liquid left behind is cooler.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--07-free-electron-conduction.webp" width="900" height="890" alt="Two bars of particles. In the metal bar, free electrons move through a lattice of ions from the hot end to the cold end and share energy quickly by colliding with the ions. In the non-metal bar there are no free electrons, so energy passes only by vibrations and conduction is poorer." loading="lazy">
+  <figcaption>Free electrons carry energy through the lattice quickly, so metals conduct better than non-metals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
 
 ## Rate of energy transfer by heating
 
@@ -111,11 +159,28 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 * A small, thin object has a high ratio and cools quickly; a large, round object has a low ratio and cools slowly.
 * Cooling fins have a large surface area. Large ears help animals lose energy in hot places; small ears and compact bodies keep energy in cold places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--03-sa-volume-cubes.webp" width="900" height="860" alt="A 2 cm cube and a 5 cm cube are drawn to scale. The small cube has area 24 cm2 and volume 8 cm3, so area divided by volume is 3.0 per cm; the large cube has 150 cm2 and 125 cm3, giving 1.2 per cm. The cube with the larger ratio has more surface for its volume and loses energy faster." loading="lazy">
+  <figcaption>The smaller cube has the larger area-to-volume ratio, so it loses energy faster per kilogram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--04-cooling-table-graph.webp" width="900" height="742" alt="A graph of drink temperature against time over 20 minutes: 80, 62, 51, 44 and 39 degrees Celsius, in a room at 20 degrees. The gaps to room temperature are 60, 42, 31, 24 and 19 degrees, and the falls in each 5 minutes are 18, 11, 7 and 5 degrees. The curve flattens as the temperature difference gets smaller." loading="lazy">
+  <figcaption>The smaller the temperature difference, the slower the energy transfer, so the cooling curve flattens.</figcaption>
+</figure>
+
+
 ## Expansion
 
 * Heated particles vibrate with larger amplitude and spread slightly further apart.
 * Hazard: bridges and roofs need expansion joints or rollers.
 * Use: bi-metallic strip. Two metals expand by different amounts, so the strip bends; the metal that expands more is on the outside of the bend. In a thermostat the bend opens a contact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--06-bimetallic-thermostat.webp" width="900" height="1050" alt="Two drawings of a brass and iron strip clamped at one end. When the room is cool the strip is straight and touches a contact, so the heater circuit is closed. When the room is warm, the brass expands more than the iron, the strip bends upward with brass on the outside of the curve, loses contact and breaks the circuit so the heater switches off." loading="lazy">
+  <figcaption>A warm room bends the strip away from the contact and switches the heater off.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -69,6 +69,17 @@ A button workshop adds workers to a fixed set of machines.
 
 MP of worker 4 = 33 - 27 = 6. Diminishing returns begin after worker 3 (MP peaks at 11). AP is highest at 3 workers (9.0) and falls at 4 because the new worker's MP (6) is below the average.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--05-nursery-mp-ap.webp" width="900" height="970" alt="MP is 9, 13, 14, 10, 6, 3, 0, -3 and AP is 9, 11, 12, 11.5, 10.4, 9.2, 7.9, 6.5 for 1 to 8 workers. MP cuts AP at its peak between 3 and 4 workers." loading="lazy">
+  <figcaption>MP rises then falls (diminishing returns after worker 3) and cuts AP at its maximum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--01-returns-to-scale-lrac.webp" width="900" height="960" alt="Crate workshop with sets of one worker and one machine at 200 a day. Output grows faster than inputs for sets 2 and 3 (140 and 75 percent against 100 and 50), by the same percentage for sets 4 and 5, and more slowly for set 6 (11.4 against 20). LRAC falls from 4.00 to 3.33 and 2.86, stays at 2.86, then rises to 3.08." loading="lazy">
+  <figcaption>With constant input prices, increasing returns to scale mean falling LRAC, constant returns mean flat LRAC and decreasing returns mean rising LRAC.</figcaption>
+</figure>
+
+
 ## Short-run cost formulae
 
 | Measure | Formula |
@@ -94,6 +105,27 @@ Fixed cost is 150. Output in units, costs in currency units (invented).
 
 MC from 20 to 30 = (380 - 290) ÷ 10 = 9. ATC is lowest at 30 (12.67): MC of 9 is below ATC, so ATC falls; MC of 14 is above ATC at 40 (13.00), so ATC rises. The crossing lies between 30 and 40.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--06-nursery-cost-curves.webp" width="900" height="1000" alt="MC, AVC and ATC from the nursery table at 9 to 55 trays. MC falls then rises steeply and crosses AVC and ATC at their minimum points." loading="lazy">
+  <figcaption>MC mirrors MP and AVC mirrors AP, so the cost curves are U-shaped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--08-mes-and-entry.webp" width="900" height="960" alt="L-shaped LRAC with MES at 500. An entrant at 100 has cost 6.0, 76.5% above 3.4. Demand of 1,500 supports three firms at MES; 600 supports one." loading="lazy">
+  <figcaption>A high MES relative to demand means few firms and a cost barrier to entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--03-lrac-l-shaped-mes.webp" width="900" height="915" alt="LRAC against output (thousands) from the lesson table: 9.0, 6.0, 4.5, 3.8, 3.5, then 3.4 at 500 and at 800, so the curve falls and goes flat (L-shaped). MES is 500. An entrant at output 100 has LRAC 6.0, 76.5 percent above 3.4; at 200 it is 4.5, 32.4 percent above." loading="lazy">
+  <figcaption>MES is the smallest output where LRAC reaches its lowest level, and entrants below it face a cost disadvantage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--04-fixed-cost-shifts-atc.webp" width="900" height="900" alt="Cost per tray against output for the nursery. Solid lines show ATC with fixed cost 100 (7.39 at 46 trays), AVC and MC; a dashed line shows ATC with fixed cost 160 (8.70 at 46 trays), higher by 60 divided by output. AVC and MC do not move because fixed cost is not part of them." loading="lazy">
+  <figcaption>A rise in fixed cost lifts ATC but leaves AVC and MC unchanged.</figcaption>
+</figure>
+
+
 ## Why the short-run curves have their shapes
 
 - **MC**: falls while MP rises, then rises when diminishing returns set in (same wage, less extra output).
@@ -113,11 +145,28 @@ cost
  +-------------------- output
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ## Factor prices, productivity and the choice of inputs
 
 - A rise in the price of a variable input shifts MC, AVC and ATC up; a fall shifts them down.
 - Higher productivity (higher MP and AP) lowers MC and AVC. If output per worker rises 25% with the wage unchanged, AVC falls by 20% (1 ÷ 1.25 = 0.8).
 - Firms switch towards the input that is relatively cheaper, if the technology allows. With a wage of 40 and a machine at 40 a day, a method using 5 workers and 2 machines costs 280; a method using 2 workers and 5 machines costs 280 as well, so at a wage of 50 the costs are 330 and 300 and the machine-heavy method wins. Switching is easier in the long run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--02-method-choice-wage.webp" width="900" height="925" alt="Daily cost of making 100 units against the wage. Method L (8 workers, 2 machines) costs 8w + 80 and method K (3 workers, 6 machines) costs 3w + 240. The lines cross at a wage of 32 where both cost 336. At wage 50 K is cheaper (390 against 480); at wage 30 L is cheaper (320 against 330)." loading="lazy">
+  <figcaption>The cheaper method switches at a wage of 32, so a firm moves to the input that has become relatively cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--05-productivity-shifts-costs.webp" width="900" height="900" alt="Cost per tray against output. Dashed lines are AVC and ATC before training and solid lines after output rises 25 percent at every labour level. At 4 workers output moves from 46 to 57.5 trays, AVC from 5.22 to 4.17 (down 20.0 percent) and ATC from 7.39 to 5.91. Both curves shift down." loading="lazy">
+  <figcaption>Higher productivity lowers AVC and ATC at every number of workers.</figcaption>
+</figure>
+
 
 ## Long-run cost curves
 
@@ -135,6 +184,12 @@ cost
 | Large (about the size of the market) | One firm, or very few | High |
 
 Worked reminder 3: if MES is 250 units and the market takes 1,000 units, the market can hold 1,000 ÷ 250 = 4 firms producing at MES. A new entrant making 50 units would have LRAC well above those firms, which deters entry unless it can start larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and--07-three-plants-lrac.webp" width="900" height="940" alt="Short-run average costs for small, medium and large plants at six outputs, with the thick LRAC line at the lowest cost for each output (6.00, 6.15, 5.47, 5.70, 5.17, 5.00)." loading="lazy">
+  <figcaption>LRAC is the lowest edge of the short-run curves.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

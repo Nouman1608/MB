@@ -78,6 +78,17 @@ students for this sub-topic, which is unusual across the DP Physics
 syllabus and worth knowing so revision time is not spent hunting for
 HL-only extension material that does not exist here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--03-named-forces.webp" width="900" height="1118" alt="Nine small pictures: normal force, friction, tension, elastic (Hooke) force, viscous drag and buoyancy as contact forces; weight, electric and magnetic force as field forces, each with its arrow and formula." loading="lazy">
+  <figcaption>The syllabus names six contact forces and three field forces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--07-explosion.webp" width="900" height="890" alt="Two trolleys of 2 kg and 3 kg, at rest with a spring between them, fly apart at 3 m/s left and 2 m/s right. Their momenta of minus 6 and plus 6 sum to zero, while 15 J of stored spring energy becomes 9 J plus 6 J of kinetic energy." loading="lazy">
+  <figcaption>In an explosion total momentum stays zero while kinetic energy increases.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because A.2 spans several distinct but related ideas -- forces,
@@ -98,6 +109,32 @@ is not a new, separate force -- it is whichever named force (tension,
 gravity, friction, the normal force) happens to be providing the
 centre-directed resultant in a given scenario, and misidentifying it as
 an independent force is one of the most common errors at this level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--01-free-body-slope.webp" width="900" height="940" alt="A 5.0 kg block slides down a 30 degree slope. Its free-body diagram shows weight 49 N, normal force 42.5 N, friction 8.5 N up the slope and resultant 16.0 N down the slope, giving a = 3.2 m/s squared." loading="lazy">
+  <figcaption>A free-body diagram shows only the forces on one body; the resultant along the slope is mg sin theta minus friction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--04-friction-graph.webp" width="900" height="920" alt="A graph of friction against applied force: friction equals the applied force up to the maximum static value 49 N, then drops to the constant dynamic value 39 N once sliding. Pictures show equal forces at rest and unequal forces when sliding." loading="lazy">
+  <figcaption>Static friction matches the push up to mu_s F_N; dynamic friction mu_d F_N is lower.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--05-impulse-area.webp" width="900" height="870" alt="A ball hits a wall at 8 m/s and rebounds at 6 m/s, changing momentum by 5.6 N s. The area under its force-time graph equals this impulse; the average force is 280 N over 20 ms." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph and equals the change in momentum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--08-circular-motion.webp" width="900" height="1040" alt="A ball moves round a circle with tangent velocity arrows of equal length and a force arrow pointing to the centre at each position. With r = 0.50 m and T = 0.80 s, omega is 7.85 rad/s, v is 3.93 m/s and a is 30.8 m/s squared." loading="lazy">
+  <figcaption>The force points to the centre, perpendicular to velocity, so it changes direction but not speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--09-centripetal-sources.webp" width="900" height="1040" alt="Four top views of circular motion with a teal arrow to the centre: tension for a ball on a string, gravity for a satellite, friction for a car on a bend, and the normal force on a rider against a drum wall." loading="lazy">
+  <figcaption>Centripetal force is the real force, such as tension, gravity, friction or the normal force, that points to the centre.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -140,6 +177,12 @@ two-step method -- check momentum conservation first, then compare
 kinetic energy before and after -- is the reliable way to classify any
 collision the exam presents, rather than trying to judge from the
 scenario's description alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--06-collisions.webp" width="900" height="970" alt="A 2 kg trolley at 3 m/s hits a 1 kg trolley at rest. Stuck together they move at 2 m/s: momentum stays 6 but kinetic energy falls from 9 J to 6 J. Bouncing apart at 1 and 4 m/s keeps both momentum and kinetic energy." loading="lazy">
+  <figcaption>Momentum is conserved in every collision; kinetic energy only in elastic ones.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

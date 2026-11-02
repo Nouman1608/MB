@@ -59,6 +59,22 @@ Rf is always between 0 and 1, and is **constant for a given substance under iden
 
 **Limitation:** two different substances can coincidentally have the same Rf, so TLC alone cannot identify a compound with certainty — a known reference spot run alongside is what makes the comparison meaningful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-chromatography-revision-notes--01-tlc-set-up.webp" width="900" height="1100" alt="A TLC plate stands in a beaker with solvent below a pencil baseline, so the spot starts above the solvent. Two mistakes are crossed out: an ink baseline that runs up the plate, and a spot below the solvent level that dissolves away." loading="lazy">
+  <figcaption>Pencil baseline, spot above the solvent: both protect the sample.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-chromatography-revision-notes--02-tlc-polarity-rf.webp" width="900" height="1020" alt="A TLC plate with solvent front 8.0 cm from the baseline. Illustrative spots move 2.0, 4.4 and 6.8 cm, giving Rf 0.25, 0.55 and 0.85. The most polar compound sticks to polar silica most and moves least." loading="lazy">
+  <figcaption>Stronger adsorption on polar silica gives a lower Rf; greater solubility in the solvent gives a higher Rf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
+
 ## Gas-liquid chromatography (GLC)
 
 **Stationary phase:** a high-boiling liquid on an inert solid support.
@@ -71,6 +87,17 @@ The sample is vaporised and carried through a heated column.
 **The peak area is proportional to the amount** of each component, so GLC is quantitative — a calibration is needed to convert areas into concentrations. Percentage composition = (area of one peak ÷ total area of all peaks) × 100%. **Worked example.** A three-component mixture gives peak areas of 15.0, 25.0 and 20.0 (arbitrary units) for A, B and C. Total area = 60.0, so percentage of A = (15.0 ÷ 60.0) × 100% = **25.0%**. Using peak *height* instead of area is a common error — a broader, shorter peak can represent the same amount as a narrower, taller one.
 
 **Limitation:** the sample must be volatile and thermally stable, so GLC cannot be used for compounds that decompose on heating. And, as with TLC, two compounds can share a retention time, so retention time alone cannot identify a compound with certainty — a known reference run alongside under identical conditions is needed for a confident match.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-chromatography-revision-notes--03-glc-apparatus.webp" width="900" height="880" alt="Carrier gas flows past an injector into a heated column of liquid on solid support, then to a detector. The trace shows retention time as the time from injection to the peak." loading="lazy">
+  <figcaption>Retention time runs from injection to the detector peak.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-chromatography-revision-notes--04-glc-peak-area.webp" width="900" height="760" alt="Three GLC peaks with areas 15.0, 25.0 and 20.0. Peaks A and C are equally tall but have different areas, and B is shorter but has the largest area. Total 60.0 gives A 25.0%, B 41.7%, C 33.3%." loading="lazy">
+  <figcaption>Percentage composition uses peak area, never peak height.</figcaption>
+</figure>
+
 
 ## Combined techniques (enrichment — beyond the syllabus)
 

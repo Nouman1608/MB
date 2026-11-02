@@ -79,6 +79,12 @@ subject to  2x + 3y + 4z ≤ 36
 
 You cannot draw a three-variable problem on a two-dimensional graph, so the graphical methods below apply to two variables only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--01-words-to-inequalities.webp" width="900" height="1190" alt="Four phrases from the lesson table are drawn as shaded regions: x + y ≤ 40, x ≥ 5, x ≥ 2y and 7x ≤ 3y. Each boundary line is drawn from its equation and the allowed side is shaded." loading="lazy">
+  <figcaption>Each phrase in a problem becomes a line, and the inequality tells you which side to keep.</figcaption>
+</figure>
+
+
 ## 5.2 Graphical solution
 
 ### Drawing the feasible region
@@ -141,6 +147,27 @@ Ruler check: the line C = 300 has intercepts (10, 0) and (0, 12). Slide it away 
 
 The minimum cost is 380p (£3.80), using 6 kg of A and 8 kg of B. At that point the protein and fibre limits are both exactly met, and the total mass is 14 kg, so 2 kg of capacity is unused.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--02-feasible-region.webp" width="900" height="800" alt="The florist problem drawn with its three boundary lines (roses, lilies and y = x) and axes. The shaded region R has four vertices: (0, 0), (18, 0), (12, 12) and about (14.57, 10.29)." loading="lazy">
+  <figcaption>The feasible region R is where every constraint is satisfied, and its corners are found by solving pairs of lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--03-vertex-method.webp" width="900" height="800" alt="The region R with P = 6x + 5y worked out at each vertex: 0, 108, 132 and about 138.86. The largest value, 138.86, is at the vertex where the roses and lilies lines cross." loading="lazy">
+  <figcaption>Evaluate the objective at every vertex and pick the largest (or smallest) value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--04-ruler-method.webp" width="900" height="810" alt="Parallel dashed lines P = 60 and P = 100, all with gradient -6/5, are drawn across region R. A solid line at P = 138.86 touches R at one point only, the vertex (14.57, 10.29). An arrow shows the line sliding away from the origin." loading="lazy">
+  <figcaption>Slide the objective line outwards; for a maximum, the last point of R it touches is the optimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--05-minimising-cost.webp" width="900" height="810" alt="Triangular region R from the feed problem with vertices (12, 4), (4, 12) and (6, 8). The line C = 300 pence misses R; sliding it outwards, it first touches R at (6, 8), where C = 380p, the minimum. Other vertices cost 460p and 420p." loading="lazy">
+  <figcaption>To minimise, slide the objective line outwards from the origin; the first point of R it touches is the optimum.</figcaption>
+</figure>
+
+
 ## 5.3 Integer solutions
 
 Some variables must be whole numbers: bouquets, vans, people. Then the feasible solutions are the lattice points (points with integer coordinates) inside R. The vertex answer is only a guide.
@@ -168,6 +195,12 @@ Ruler version: slide the objective line inwards from the vertex and stop at the 
 Why nothing better exists: a better plan would need P from 136 to 138, so it must lie on 6x + 5y = 136, 137 or 138. The whole-number points on these lines with x ≥ y, such as (16, 8) on 136 and (13, 12) on 138, all break the lilies limit or the roses limit.
 
 The answer is 15 small and 9 large bouquets, with profit £135. All 54 lily stems are used, and 57 of the 60 bunches of roses. Rounding down would give (14, 10) and £134, which is not the best.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--06-integer-solutions.webp" width="900" height="1010" alt="A zoomed graph of the florist region around the optimum, with whole-number points marked. (15, 10) and (14, 11), the rounded points, are outside R. (14, 10) gives P = 134 and (15, 9) gives P = 135, the best whole-number plan." loading="lazy">
+  <figcaption>Rounding the vertex does not work: the best whole-number plan is (15, 9) with profit £135.</figcaption>
+</figure>
+
 
 ## Common errors
 

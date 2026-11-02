@@ -64,6 +64,12 @@ If the rate moves from 2.00 to 2.50 D-units per C-unit, the C-unit has risen by 
 
 When a currency gains value, foreign buyers pay more for its exports while home buyers pay less for imports. A fall in value does the opposite. The effect on spending depends on price elasticity of demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--11-depreciation-prices.webp" width="900" height="830" alt="A-unit falls 1.00 to 0.80. Export 50 A-units: 50 to 40 B-units (-20%). Import 30 B-units: 30 to 37.5 A-units (+25%)." loading="lazy">
+  <figcaption>A depreciation cuts export prices abroad and raises import prices at home.</figcaption>
+</figure>
+
+
 ## Government intervention
 
 | Tool | How it works | Limit or cost |
@@ -79,6 +85,17 @@ When a currency gains value, foreign buyers pay more for its exports while home 
 
 Suppose the central rate is 2.00 with a permitted band of plus or minus 5%. The limits are 2.00 × 0.95 = 1.90 and 2.00 × 1.05 = 2.10. If the rate hits 1.90, the central bank must buy C-units. Absorbing 30 million C-units a week at 1.90 costs 30 × 1.90 = 57 million D-units a week. Reserves of 90 million D-units last 90 / 57 = about 1.6 weeks. So heavy selling pressure drains reserves quickly, and the bank must also change the interest rate, tighten controls or reset the band.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--06-defending-a-peg.webp" width="900" height="1090" alt="Peg at 1.10: demand 80, supply 120, excess supply 40 million. Central bank spends 44m B-units a week; reserves of 220m last 5 weeks. Devaluing to 1.00 is -9.1%." loading="lazy">
+  <figcaption>A peg set above the market rate drains reserves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--14-what-shifts-the-curves.webp" width="900" height="940" alt="Five causes with demand and supply shifts of the A-unit: export demand, higher interest rates, higher inflation, FDI, speculators expecting a fall, and the resulting appreciation or depreciation." loading="lazy">
+  <figcaption>Demand right or supply left raises the A-unit; the reverse lowers it.</figcaption>
+</figure>
+
+
 ## Fixed versus floating
 
 | Fixed | Floating |
@@ -93,6 +110,12 @@ Must-know distinctions:
 - Appreciation (floating) versus revaluation (fixed).
 - Intervention in a floating system is occasional; in a fixed system it is the rule.
 - A managed float is neither fully fixed nor fully free.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--10-fixed-vs-floating.webp" width="900" height="1171" alt="Seven rows comparing fixed and floating systems with ticks for advantages and crosses for drawbacks; each system has three advantages and four drawbacks." loading="lazy">
+  <figcaption>Neither system wins outright; it depends on the economy.</figcaption>
+</figure>
+
 
 ## Currency unions
 
@@ -113,6 +136,27 @@ Union rate 4%. Member P has inflation of 6%, Member R has 2%. Approximate real r
 If unit labour costs in Member P rise 8% a year faster than its partners' for 3 years, the cumulative gap is 1.08 × 1.08 × 1.08 = 1.2597, about 26%. A floating currency would need to fall by 1 / 1.2597 − 1 = −20.6% to restore the position. Inside the union the alternative is an internal devaluation, with lower wages and prices and often high unemployment.
 
 Do not confuse a currency union with a customs union. A customs union removes trade barriers between members and sets a common external tariff. A currency union shares money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--05-floating-rate-appreciation.webp" width="900" height="1050" alt="Demand and supply of the A-unit: equilibrium 1.00 and 100m; demand shifts right by 30 at every price, new equilibrium 1.075 and 115m, an appreciation of 7.5%." loading="lazy">
+  <figcaption>Higher interest rates raise demand for the A-unit and it appreciates 7.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--07-currency-union-one-rate.webp" width="900" height="760" alt="Same 3% rate gives real rate -1.9% for X (inflation 5%) and +2.0% for Y (inflation 1%)." loading="lazy">
+  <figcaption>One union rate is too loose for one member and too tight for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--12-currency-union-transaction-costs.webp" width="900" height="870" alt="Exporter with 6m B-unit sales loses 2% = 120,000 to bank margins, 8% of 1.5m profit." loading="lazy">
+  <figcaption>Transaction costs can take 8% of an exporter profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--13-internal-devaluation.webp" width="900" height="970" alt="Member X costs 110 against partners 100. Own currency: depreciate 9.1% in one move. In a union: cut costs and wages 9.1%, slow and may need high unemployment." loading="lazy">
+  <figcaption>Inside a union an internal devaluation replaces depreciation.</figcaption>
+</figure>
+
 
 ## A chain of reasoning to learn
 
@@ -169,3 +213,9 @@ Use this pattern for any "explain" or "assess" answer. Cause: interest rates in 
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, section 4.2.6.4 (Exchange rate systems).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

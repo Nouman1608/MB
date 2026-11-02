@@ -64,6 +64,17 @@ It only works with **zero** on one side. Always rearrange first.
 
 Reminder: x² + 11x + 28 = 0 → (x + 4)(x + 7) = 0 → x = −4 or x = −7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
+
 ### Factorisation, ax² + bx + c = 0 (Higher tier only)
 
 ```
@@ -87,6 +98,17 @@ Reminder: 5x² − 13x − 6 = 0. a × c = −30, and −15 + 2 = −13. So 5x²
 
 Reminder: x² + 6x + 2 = 0. a = 1, b = 6, c = 2, so b² − 4ac = 36 − 8 = 28. Then x = (−6 ± √28)/2, which is x = −0.354 or x = −5.65 to 3 significant figures. The exact form simplifies to −3 ± √7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--04-quad-discriminant.webp" width="900" height="1010" alt="Three parabolas: 3x² − 7x + 1 (b² − 4ac = 37) crosses the x-axis twice; x² − 6x + 9 (0) touches it once at x = 3; x² − 2x + 3 (−8) never reaches it, so there are no real solutions." loading="lazy">
+  <figcaption>Positive discriminant: two solutions; zero: one repeated solution; negative: none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--05-quad-formula-symmetry.webp" width="900" height="960" alt="The graph of y = 3x² − 7x + 1 with its axis of symmetry x = 7/6 (= −b/2a). The two roots lie the same distance, √37/6, either side, giving x = (7 ± √37)/6 = 0.153 or 2.18." loading="lazy">
+  <figcaption>The formula is the axis of symmetry −b/2a plus and minus a distance √(b² − 4ac)/2a.</figcaption>
+</figure>
+
+
 ### Completing the square (Higher tier only)
 
 ```
@@ -99,6 +121,22 @@ Reminder: x² + 6x + 2 = 0. a = 1, b = 6, c = 2, so b² − 4ac = 36 − 8 = 28.
 
 Reminder with a ≠ 1: 3x² + 12x − 5 = 0. Factor out 3: 3(x² + 4x) − 5 = 0, so 3[(x + 2)² − 4] − 5 = 0 and 3(x + 2)² − 17 = 0. Then (x + 2)² = 17/3 and x = −2 ± √(17/3), which is 0.380 or −4.38 to 3 significant figures. The −4 inside the square bracket must be multiplied by 3 before you combine it with −5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--10-quad-complete-square-a.webp" width="900" height="950" alt="The parabola y = 2x squared - 12x + 7 has its minimum at (3, -11) on the line x = 3 and crosses the x-axis at 0.655 and 5.35, matching x = 3 plus or minus root 11/2 from completing the square." loading="lazy">
+  <figcaption>Completing the square with a not 1 shows the turning point and the roots on the graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--04-complete-square-tiles.webp" width="900" height="730" alt="Tiles for x squared plus 6x plus 5 nearly make a square of side x plus 3, but the 3 by 3 corner needs 9 unit squares and only 5 are there. So 4 are missing and x squared plus 6x plus 5 equals (x + 3) squared minus 4." loading="lazy">
+  <figcaption>Completing the square fills the corner of (x + 3)² and then takes away what was never there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
+
 ### Forming an equation from a context (Higher tier only)
 
 ```
@@ -109,6 +147,17 @@ Reminder with a ≠ 1: 3x² + 12x − 5 = 0. Factor out 3: 3(x² + 4x) − 5 = 0
 ```
 
 Reminder: two consecutive positive integers have a product of 132. Let the smaller be n, so n(n + 1) = 132 and n² + n − 132 = 0. This factorises as (n + 12)(n − 11) = 0. The integers must be positive, so n = 11 and the integers are **11 and 12**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--06-quad-context-rectangle.webp" width="900" height="970" alt="A rectangle drawn to scale, 12 cm by 5 cm, with the graph of y = x² + 3x − 70 below. It crosses the x-axis at x = −10, which would give a width of −12 cm and is rejected, and at x = 7, which is kept." loading="lazy">
+  <figcaption>Reject the root that gives an impossible length: only x = 7 works, giving 12 cm by 5 cm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--12-quad-choose-method.webp" width="900" height="1090" alt="Five rows pair a situation (easy factors, decimal places, in the form a plus or minus root b, x squared = k, one linear and one quadratic) with a method and a lesson example." loading="lazy">
+  <figcaption>Look at what the question asks, then pick the method.</figcaption>
+</figure>
+
 
 ## Which method?
 
@@ -132,6 +181,17 @@ Reminder: two consecutive positive integers have a product of 132. Let the small
 ```
 
 Reminder: y = 3x and x² + y² = 40 → x² + 9x² = 40 → x² = 4 → x = ±2. Pairs: (2, 6) and (−2, −6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--07-quad-line-meets-circle.webp" width="900" height="990" alt="The circle x² + y² = 13 and the line y = x + 1 meet at (2, 3) and (−3, −2), matching the solutions of x² + x − 6 = 0 found by substitution." loading="lazy">
+  <figcaption>Each solution pair is a point where the line meets the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--11-quad-parabola-line.webp" width="900" height="940" alt="The curve y = x squared - 3x + 4 and the line y = 2x - 2 meet at (2, 2) and (3, 4), the solutions of x squared - 5x + 6 = 0." loading="lazy">
+  <figcaption>The solutions of a line and a parabola are the points where they cross.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -54,6 +54,12 @@ These are condensed notes for sections 2.5 (Competition) and 2.6 (Production) of
 5. State the new equilibrium: lower price, higher quantity.
 6. Add the effect on consumers and on existing producers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ### Market structures at a glance
 
 | | Competitive | Oligopoly | Monopoly |
@@ -64,6 +70,27 @@ These are condensed notes for sections 2.5 (Competition) and 2.6 (Production) of
 | Choice | Wide | Limited | Little |
 
 Interdependence means one firm's decision affects its rivals, so oligopolists often avoid price wars. A firm with 30% of a market worth £1,200m has sales of £360m, because 360 ÷ 1,200 × 100 = 30%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--10-herb-pots-entry-shift.webp" width="900" height="1000" alt="Demand 1000 - 50p meets supply 200 + 50p at 8 pounds and 600 pots. Three new stalls shift supply right by 200 and the equilibrium moves to 6 pounds and 700 pots; at 8 pounds there is a surplus of 200." loading="lazy">
+  <figcaption>Entry shifts supply right, so price falls and quantity rises along demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--11-oligopoly-price-war.webp" width="900" height="970" alt="Two rival firms with unit cost 6. At 10 pounds each earns 20,000; if both cut to 9 pounds each earns 16,500, which is 3,500 less." loading="lazy">
+  <figcaption>Matched price cuts leave both oligopolists worse off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--04-three-market-structures.webp" width="900" height="1040" alt="Three columns compare market structures. Competitive: many small firms, low barriers to entry, firms take the market price, wide choice. Oligopoly: a few large firms, high barriers, price influenced by rivals moves, limited choice. Monopoly: one firm, very high barriers, most control of price, little or no choice. Barriers shown as brick walls of rising height: high start-up costs, patents, control of a key resource and strong brands." loading="lazy">
+  <figcaption>More firms means lower barriers, less price control for each firm and more choice for buyers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
 
 ## 2.6 Production
 
@@ -77,6 +104,17 @@ Interdependence means one firm's decision affects its rivals, so oligopolists of
 - For the economy: more output, jobs, incomes, tax revenue and exports; higher living standards.
 - For firms: lower cost per unit and the ability to compete on price.
 - Limits: extra output may only reflect extra workers; automation can cost jobs; growth can damage the environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--01-harbour-tools-productivity.webp" width="900" height="970" alt="Bar chart of output per worker at Harbour Tools: 30 tools in Year 1, 30 in Year 2 (output and workers both up 15 percent, so productivity unchanged) and 36 in Year 3 after new machines, a 20 percent rise. Below, labour cost per tool with wages of 18,000 pounds per worker falls from 600 pounds in Year 1 (18,000 divided by 30) to 500 pounds in Year 3 (18,000 divided by 36), a fall of 16.7 percent. Invented figures from the lesson." loading="lazy">
+  <figcaption>Output per worker is flat in Year 2 and up 20% in Year 3, so labour cost per tool falls from £600 to £500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
 
 ## Costs, revenue, profit and loss
 
@@ -116,6 +154,22 @@ At 150 repairs the TC is 1,500 + 4 × 150 = £2,100, so TR of £1,650 gives a lo
 - Profit attracts new firms; losses push firms to cut costs or leave.
 - A price cut raises total revenue only if the rise in sales is proportionally large enough. Selling at £12 and then £10 changes TR from 12 × 200 = £2,400 to 10 × 260 = £2,600 if sales rise from 200 to 260: price falls 16.7% but quantity rises 30%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--12-kiln-corner-profit.webp" width="900" height="1000" alt="Total revenue (9 pounds a mug) against total cost (600 fixed plus variable). Loss up to 150 mugs, break-even just above 150, highest profit 250 pounds at 250 mugs." loading="lazy">
+  <figcaption>Profit is the gap between total revenue and total cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--03-kiln-corner-cost-rise.webp" width="900" height="1010" alt="Two stacked columns, each the same height as revenue of 2,250 pounds at 250 mugs. Now: fixed cost 600, variable cost 1,400 and profit 250. After variable costs rise 10 percent: fixed cost 600, variable cost 1,540 (up 140) and profit only 110, a fall of 56 percent. Invented figures from the lesson." loading="lazy">
+  <figcaption>A 10% rise in variable costs cuts Kiln Corner profit at 250 mugs from £250 to £110, a fall of 56%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
+
 ## Economies of scale
 
 | Type | Idea |
@@ -128,6 +182,17 @@ At 150 repairs the TC is 1,500 + 4 × 150 = £2,100, so TR of £1,650 gives a lo
 | Risk-bearing | A wide range of products spreads the risk |
 
 **Worked reminder.** A cafe chain (invented) pays £12 a kilogram for coffee beans in small orders and £10.50 a kilogram in bulk orders. The fall is (10.50 − 12) ÷ 12 × 100 = **−12.5%**, a purchasing economy. Link it to competition: lower average cost lets a firm cut price or raise its margin, and the largest firms may deter entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--13-candle-average-cost.webp" width="900" height="950" alt="Average cost per candle is 5.00 at 1,000, 3.50 at 4,000, 3.20 at 8,000 and 3.40 at 16,000 candles. Output rises 700% from 1,000 to 8,000 while average cost falls 36%." loading="lazy">
+  <figcaption>Average cost falls with scale, but not forever.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--02-six-sources-economies-of-scale.webp" width="900" height="990" alt="Six tiles each with a simple icon: technical (bigger machines and specialised workers), purchasing (bulk buying discounts), financial (cheaper borrowing), managerial (specialist managers), marketing (advertising cost spread over more units) and risk-bearing (many products absorb a failure). Below, a line falls from average cost 5.00 pounds at 1,000 candles to 3.20 pounds at 8,000 candles, the candle maker example." loading="lazy">
+  <figcaption>The six sources of economies of scale all push average cost down as output rises.</figcaption>
+</figure>
+
 
 ## Evaluation chains to learn
 

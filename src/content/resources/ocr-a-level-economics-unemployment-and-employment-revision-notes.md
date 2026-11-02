@@ -68,6 +68,12 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 
 **Worked reminder.** Country B: LFS unemployed 0.80m, claimant count 0.55m. Gap = **0.25m**, most plausibly jobless people who do not claim (savings, partner's income) less claimants who are not job-seeking. A rule change alone can move the claimant count without any change in jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--06-lfs-vs-claimant-count.webp" width="900" height="900" alt="Two bars on one scale: LFS unemployed 1.30m (0.63 also claim, 0.67 do not) and claimant count 0.90m (0.63 meet the LFS test, 0.15 not required to look, 0.12 work a few hours). The measures count different people." loading="lazy">
+  <figcaption>The two measures overlap but count different people.</figcaption>
+</figure>
+
+
 ## Natural rate and NAIRU in steps
 
 1. Natural rate = frictional + structural unemployment as a percentage of the labour force.
@@ -81,6 +87,17 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 
 **Evaluate:** NAIRU cannot be observed and shifts with skills, benefits, bargaining power and expectations. Supply-side policy lowers it; deep recessions can raise it through hysteresis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--08-nairu-accelerating-inflation.webp" width="900" height="930" alt="With inflation = expected + 0.5 x (4.0 - u): u 4.9% gives 1.55%, falling; u 3.0% gives 2.5%, then 3.0%, then 3.5% as expectations catch up." loading="lazy">
+  <figcaption>Holding unemployment below NAIRU makes inflation accelerate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
+
 ## Measurement difficulties
 
 - Hidden unemployment: discouraged workers counted as inactive.
@@ -89,6 +106,12 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 - Informal work, regional and group averages hiding detail, publication lags.
 
 **Worked reminder.** Country B: 0.5m discouraged workers and 0.7m underemployed. Broader rate = (0.8 + 0.5) ÷ (20.0 + 0.5) = **6.3%** against 4.0% headline. Underemployment = 0.7 ÷ 19.2 = **3.6%** of those employed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--11-hidden-unemployment-rate.webp" width="900" height="970" alt="Headline unemployment is 4.9 percent. Adding 0.9 million discouraged workers gives 8.0 percent. 1.1 million part-timers wanting more hours are 4.4 percent of those in work." loading="lazy">
+  <figcaption>Hidden unemployment and underemployment show spare capacity the headline rate misses.</figcaption>
+</figure>
+
 
 ## Causes: which type is it?
 
@@ -102,6 +125,27 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 
 **Method for a cause question:** name the type; explain the chain from cause to jobs; say who is affected and for how long; judge importance against the other causes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--07-real-wage-unemployment.webp" width="900" height="1000" alt="Demand L = 120 - 4w and supply L = -30 + 6w meet at w = 15, L = 60. A wage of 18 gives demand 48 and supply 78, so 30 thousand are unemployed (12 lost jobs, 18 new job-seekers)." loading="lazy">
+  <figcaption>A wage floor above equilibrium creates unemployment: 48 jobs but 78 job-seekers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--12-natural-rate-split.webp" width="900" height="790" alt="Frictional 0.30m and structural 0.76m make the natural rate of 4.0 percent; cyclical 0.24m adds 0.9 percent for an actual rate of 4.9 percent of a 26.5 million labour force." loading="lazy">
+  <figcaption>Natural rate plus cyclical unemployment equals the actual rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Consequences: grouping and judging
 
 - **Individuals:** income, health, skills, lasting scars.
@@ -110,6 +154,12 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 - **Economy and society:** lost output and growth, inequality, regional decline, crime, family strain.
 
 **Judge by:** duration, spread, cause, safety net, and whether the unemployment was cyclical (recoverable) or structural (persistent).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--13-cyclical-cost-gbp.webp" width="900" height="850" alt="Each cyclically unemployed worker costs 12,000 pounds in lost tax and benefits; for 0.24 million workers that is 2.88 billion pounds, plus 13.2 billion pounds of lost output (0.88 percent of GDP)." loading="lazy">
+  <figcaption>Fiscal cost and lost output of 0.24 million cyclically unemployed workers.</figcaption>
+</figure>
+
 
 ## Pattern of employment
 
@@ -120,6 +170,12 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 
 **Worked reminder.** Country B services employment rises from 12.0m to 12.6m: **+5.0%**. If total employment rises from 18.4m to 19.2m, that is **+4.3%**, so services gain share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--09-employment-sector-shares.webp" width="900" height="1000" alt="Stacked bars of employment shares by sector, year 1 versus year 10. Tertiary rose from 77.6% to 84.5% and secondary fell from 19.8% to 13.9%; total jobs rose 8.6%." loading="lazy">
+  <figcaption>Services grew while manufacturing jobs shrank.</figcaption>
+</figure>
+
+
 ## Full employment
 
 | Gains | Risks |
@@ -129,6 +185,17 @@ Also useful: [OCR A Level Economics hub](/boards/ocr/a-level/economics/), [print
 | Better wellbeing and skill use | Rising imports and a worse trade balance |
 
 **Worked reminder.** Country B pay up 3%, productivity up 2%: unit labour cost growth = 1.03 ÷ 1.02 − 1 = **0.98%**. If pay rises 6% while productivity rises 2%, it is **3.9%**, a clear inflation risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--05-labour-force-breakdown.webp" width="900" height="930" alt="The population aged 16 and over (40.0m) splits into labour force 26.5m and inactive 13.5m; the labour force splits into employed 25.2m and unemployed 1.3m. Rates are 4.9%, 63.0% and 33.8%." loading="lazy">
+  <figcaption>Rates use different denominators: labour force for unemployment, population for employment and inactivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-unemployment-and-employment--14-ulc-full-employment.webp" width="900" height="920" alt="Wages rise 4.5 percent while productivity rises 1.5 percent, so unit labour cost rises about 3.0 percent, which can feed inflation." loading="lazy">
+  <figcaption>Wage growth that outruns productivity raises unit labour costs.</figcaption>
+</figure>
+
 
 ## Policies matched to the type of unemployment
 

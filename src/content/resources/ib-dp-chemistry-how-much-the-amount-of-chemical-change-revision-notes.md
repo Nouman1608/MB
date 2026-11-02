@@ -37,6 +37,12 @@ Afterwards, test yourself with the [Reactivity 2.1 practice questions](/resource
 - **Percentage yield**: experimental yield as a percentage of theoretical yield.
 - **Atom economy**: molar mass of the desired product as a percentage of the total molar mass of all reactants in the balanced equation; a green chemistry measure of efficiency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--07-atom-economy.webp" width="900" height="970" alt="Mass bars compare two routes to methanol. Route 1 has reactants 32.05 and one product of 32.05, so 100 %. Route 2 has reactants 50.07 and products 32.05 methanol plus 18.02 water, so 64.0 %, with 36.0 % of the mass as water." loading="lazy">
+  <figcaption>Atom economy = molar mass of desired product / total molar mass of reactants x 100.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Relationship | Notes |
@@ -84,6 +90,12 @@ Two points come straight from the guide: work with Ar values to two decimal plac
 2. Add up the molar masses of all reactants, each multiplied by its coefficient.
 3. Divide the molar mass of the wanted product (times its coefficient) by that total, then × 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--01-balance-atom-tally.webp" width="900" height="980" alt="Dot rows count each element on both sides of Al2O3 + 3H2SO4 -&gt; Al2(SO4)3 + 3H2O: Al 2 = 2, S 3 = 3, O 15 = 15, H 6 = 6. Balance with coefficients only, never subscripts." loading="lazy">
+  <figcaption>Count every element on both sides; change coefficients, never subscripts.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Limiting check.** 4Li(s) + O₂(g) → 2Li₂O(s), with 0.50 mol Li and 0.15 mol O₂. Li: 0.50 ÷ 4 = 0.125. O₂: 0.15 ÷ 1 = 0.15. Lithium gives the smaller value, so it is limiting. Li₂O formed = 0.50 × 2/4 = 0.25 mol, and 0.15 − 0.125 = 0.025 mol O₂ is left.
@@ -101,6 +113,12 @@ Two points come straight from the guide: work with Ar values to two decimal plac
 - **Percentage yield vs atom economy.** Yield depends on how the reaction is carried out. Atom economy is fixed by the equation, so better technique cannot change it.
 - **Atom economy vs waste.** Inversely related: lower atom economy means a bigger share of reactant mass leaves as by-products.
 - **(aq) vs (l).** A substance dissolved in water is (aq); a pure liquid, such as water itself or ethanol, is (l).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--06-percentage-yield.webp" width="900" height="1010" alt="A dashed bar shows the 3.236 g theoretical yield of KCl and a filled bar the 2.91 g collected, giving 89.9 %. Icons show reasons for a lower yield: incomplete reaction, side reactions, product lost in transfer." loading="lazy">
+  <figcaption>Percentage yield = experimental yield / theoretical yield x 100, based on the limiting reactant.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -144,6 +162,12 @@ Use these Ar values: Cu 63.55, H 1.01, O 16.00, Zn 65.38. Vm = 22.7 dm³ mol⁻�
 - Mixing grams and moles in the percentage yield fraction.
 - Leaving coefficients out when totalling reactant molar masses for atom economy.
 - Claiming that selling a by-product raises the atom economy; the value comes only from the equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--03-gas-volume-ratio.webp" width="900" height="820" alt="Four gas columns show 60 cm3 CO and 60 cm3 NO reacting to give 60 cm3 CO2 and 30 cm3 N2 at the same temperature and pressure. The volume ratio equals the mole ratio, so no molar volume is needed." loading="lazy">
+  <figcaption>At fixed temperature and pressure, gas volumes are in the mole ratio.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

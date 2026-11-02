@@ -77,6 +77,12 @@ H₂O ⇌ H⁺ + OH⁻        Kc = [H⁺][OH⁻] / [H₂O]
 
 [H₂O] is so large compared with the ions that it is effectively constant, so Kc × [H₂O] = Kw. The dissociation is **endothermic**, so raising the temperature moves the equilibrium right and **Kw increases**. Pure water then has pH below 7 but stays neutral.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
+  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **pH of a strong acid (monoprotic)**
@@ -115,6 +121,12 @@ H₂O ⇌ H⁺ + OH⁻        Kc = [H⁺][OH⁻] / [H₂O]
 - A weak acid with Ka = 2.0 × 10⁻⁶ mol dm⁻³ at 0.500 mol dm⁻³: [H⁺] = √(1.0 × 10⁻⁶) = 1.0 × 10⁻³, so pH = 3.00.
 - Buffer with n(HA) = n(A⁻): [H⁺] = Ka, so pH = pKa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
+
 ## Titrations, pH curves and indicators (3.1.10.5)
 
 **Titration results**: use only concordant titres (usually within 0.10 cm³) for the mean, and ignore the rough titre.
@@ -137,6 +149,12 @@ Indicator ranges to know: methyl orange 3.1–4.4 (red to yellow); phenolphthale
 - Equivalence above 7 with a weak acid and strong base: A⁻ removes H⁺ from water, leaving OH⁻.
 - Equivalence below 7 with a strong acid and weak base: the cation of the salt donates H⁺ to water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--06-titration-curves.webp" width="900" height="1090" alt="Four computed curves of pH against base added for 25 cm3 of 0.100 M acid with 0.100 M base. Strong+strong starts at pH 1 and is equivalent at pH 7. Weak acid+strong base starts near 2.9, buffers, and is equivalent near 8.7. Strong acid+weak base is equivalent near 5.3. Weak+weak has no steep section." loading="lazy">
+  <figcaption>Strong or weak acids and bases give curves with different start pH, steep section and equivalence pH.</figcaption>
+</figure>
+
+
 ## Required practical 7
 
 **Aim**: record pH while a strong base is run into a weak acid, then while a strong acid is run into a weak base.
@@ -147,6 +165,12 @@ Indicator ranges to know: methyl orange 3.1–4.4 (red to yellow); phenolphthale
 - Use smaller additions near the end point to define the steep section.
 - Plot pH (y-axis) against volume added (x-axis). Equivalence volume is at the middle of the steep section.
 - For the weak acid run, read pH at half the equivalence volume to get pKa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--09-half-equivalence.webp" width="900" height="880" alt="A computed pH curve for ethanoic acid with NaOH shows the buffer region and equivalence at 25 cm3. At 12.5 cm3 dashed lines show pH 4.76 = pKa, because [HA] = [A-] there." loading="lazy">
+  <figcaption>At half the equivalence volume [HA] = [A-], so pH = pKa and Ka = 10^-pH (practical in all boards).</figcaption>
+</figure>
+
 
 ## Buffers (3.1.10.6)
 
@@ -213,6 +237,17 @@ Indicator ranges to know: methyl orange 3.1–4.4 (red to yellow); phenolphthale
 - Stating the pH of neutral water is always 7.
 - Writing the buffer explanation without naming which equilibrium shifts and in which direction.
 - Missing the half-equivalence trick (pH = pKa) when a question gives a pH curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

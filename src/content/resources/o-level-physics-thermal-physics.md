@@ -42,6 +42,12 @@ This guide teaches topic 2, Thermal physics, from the Cambridge O Level Physics 
 
 Changes of state: solid to liquid is melting, liquid to solid is solidification, liquid to gas is boiling (or evaporation), and gas to liquid is condensation. Direct gas-to-solid and solid-to-gas changes are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--06-changes-of-state.webp" width="900" height="740" alt="Nine particles in a solid, liquid and gas. Arrows are labelled melting, freezing, boiling or evaporating, and condensing; a curved arrow from solid to gas is sublimating. Nine particles in every state show that mass is conserved." loading="lazy">
+  <figcaption>Every change of state is a physical change in which mass is conserved.</figcaption>
+</figure>
+
+
 ## 2.1.2 The particle model
 
 ### Structure and motion
@@ -49,6 +55,12 @@ Changes of state: solid to liquid is melting, liquid to solid is solidification,
 - **Solid:** particles are packed closely in a regular pattern. Strong forces hold each particle in place, so it only vibrates about a fixed position.
 - **Liquid:** particles are close together but in no fixed pattern. They slide past one another. The forces are weaker than in a solid.
 - **Gas:** particles are far apart and move quickly in random directions. The forces between them are negligible except during collisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
 
 ### Temperature and absolute zero
 
@@ -58,11 +70,23 @@ A higher temperature means a higher average kinetic energy of the particles, so 
 
 Gas particles collide with the walls of a container. A rebounding particle changes direction, so the wall pushes on it, and by the third law of motion the particle pushes back on the wall with an equal force. Huge numbers of collisions each second give a steady force on each unit of area of the wall. That force per unit area is the pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
+
 ### The three relationships (qualitative)
 
 1. **Pressure and temperature at constant volume.** Heat the gas and the particles move faster. Collisions with the walls become more frequent and each one is more forceful, so the pressure rises.
 2. **Volume and temperature at constant pressure.** Faster particles would hit the walls harder and more often, so for the pressure to stay the same, the volume must increase and the walls are hit less often.
 3. **Pressure and volume at constant temperature.** The particles keep the same average speed. A smaller volume means they travel a shorter distance between wall collisions, so they hit the walls more often and the pressure rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--10-pressure-kelvin.webp" width="900" height="1040" alt="A graph of pressure against temperature with kelvin values and Celsius values beneath. The line is straight and heads to zero pressure at 0 K, minus 273 degrees Celsius. Example pressures are 1.00 x 10^5 Pa at 273 K and 1.37 x 10^5 Pa at 373 K." loading="lazy">
+  <figcaption>Pressure is proportional to the kelvin temperature at constant volume.</figcaption>
+</figure>
+
 
 ### The equation p1V1 = p2V2
 
@@ -85,6 +109,17 @@ The pressure fell because the volume rose.
 | p (kPa) | 60 | 30 | 20 | 10 |
 
 Doubling the volume halves the pressure. Drawing p against 1/V gives a straight line passing through the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--11-boyle-pv-table-graphs.webp" width="900" height="1200" alt="Table of V and p with pV = 1200; p against V curve and p against 1/V straight line through the origin." loading="lazy">
+  <figcaption>pV = 1200 data as a curve and as a straight line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--09-gas-pv-constant.webp" width="900" height="1030" alt="Two cylinders hold the same six particles at 0.030 and 0.020 cubic metres. A pressure against volume graph is a falling curve for pV = 3.6. Point A is 120 kPa at 0.030 m3 and point B is 180 kPa at 0.020 m3, with dashed guides." loading="lazy">
+  <figcaption>At constant temperature, pressure times volume is constant, so squeezing a gas raises its pressure.</figcaption>
+</figure>
+
 
 ## 2.2.1 Thermal expansion
 
@@ -110,6 +145,12 @@ T (in K) = θ (in °C) + 273
 ```
 
 A change of 1 K equals a change of 1 °C. Absolute zero is 0 K.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--01-thermal-expansion.webp" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications." loading="lazy">
+  <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
+</figure>
+
 
 ## 2.2.2 Specific heat capacity
 
@@ -163,6 +204,12 @@ c = 18 000 / (0.80 × 45) = 500 J/(kg °C)
 
 Some energy leaks to the surroundings, so the temperature rise is smaller than expected. That makes c too large. Insulation reduces the error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--12-thermal-worked-examples.webp" width="900" height="1100" alt="Syringe 105 kPa 80 to 140 cm3 gives 60 kPa; tea 0.25 kg x 4200 x 44 = 46 200 J; oil 60 W for 300 s gives c = 2000; steel 100 W for 180 s gives c = 500 J/(kg C)." loading="lazy">
+  <figcaption>The lesson’s four calculations drawn as pictures.</figcaption>
+</figure>
+
+
 ## 2.2.3 Melting, boiling and evaporation
 
 ### Energy without a change in temperature
@@ -193,6 +240,12 @@ Evaporation is faster when:
 - the surface area is larger, since more particles are near the surface
 - air moves over the surface, since it carries away escaped particles that might return.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--15-latent-heat-particles.webp" width="900" height="1040" alt="Solid, liquid and gas particle pictures with 7, 4 and 0 bonds. Melting and boiling add energy at steady temperature, pulling particles apart." loading="lazy">
+  <figcaption>Latent heat increases particle potential energy.</figcaption>
+</figure>
+
+
 ## 2.3 Transfer of thermal energy
 
 ### 2.3.1 Conduction
@@ -200,6 +253,12 @@ Evaporation is faster when:
 In a solid, vibrating atoms pass energy to their neighbours through the lattice. This happens in all solids. In metals there are also free (delocalised) electrons. They gain energy, move through the metal, and pass it on in collisions. So metals conduct much better than non-metals.
 
 **Experiment to compare conductors.** Stand rods of different materials, with the same size, in hot water. Stick a pin to the free end of each with a blob of wax. The pin drops off first from the best conductor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--02-conduction-metal-vs-nonmetal.webp" width="900" height="1040" alt="Two rods from a hot end to a cold end. In the non-metal, atoms pass energy to neighbours by vibration. In the metal, free electrons also move through the lattice carrying energy, so metals conduct much better." loading="lazy">
+  <figcaption>Metals conduct better because free electrons carry energy as well as atom vibrations.</figcaption>
+</figure>
+
 
 ### 2.3.2 Convection
 
@@ -223,12 +282,24 @@ Dull surfaces emit and absorb better than shiny ones. A hotter object, and one w
 - **Emitters:** fill a Leslie cube (or identical cans with different surfaces) with hot water. Place a radiation detector or thermometer the same distance from each face. The dull black face gives the largest reading.
 - **Absorbers:** place identical dull black and shiny metal plates the same distance from a heater. Attach a small piece of wax or a thermometer to the back of each. The wax on the black plate melts first, or its temperature rises faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--13-leslie-cube-emission.webp" width="900" height="930" alt="A Leslie cube: the dull black face gives the biggest detector reading, shiny silver the smallest. Hotter objects and larger surfaces emit faster." loading="lazy">
+  <figcaption>Leslie cube and what changes the rate of emission.</figcaption>
+</figure>
+
+
 ### 2.3.4 Everyday applications
 
 - **Kitchen pans:** a metal base conducts energy from the hob. The plastic handle is an insulator. Convection spreads energy through the liquid.
 - **Heating a room:** a radiator warms the air around it. The air expands, becomes less dense and rises, while cooler air sinks and moves in. A convection current warms the whole room.
 - **Infrared thermometer:** it detects the infrared radiation emitted by an object and shows its temperature without touching it.
 - **Insulation:** air trapped in small pockets is a poor conductor and cannot circulate. Loft insulation, double glazing and cavity walls use this to cut conduction and convection. Shiny foil reflects radiation. A lid on a hot drink reduces convection and evaporation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--14-heat-transfer-at-home.webp" width="900" height="1190" alt="Pan: metal base conducts, plastic handle insulates. Radiator: convection loop. Infrared thermometer detects emitted infrared. Loft insulation and double glazing trap air." loading="lazy">
+  <figcaption>Everyday pictures of conduction, convection and radiation.</figcaption>
+</figure>
+
 
 ## Common errors
 

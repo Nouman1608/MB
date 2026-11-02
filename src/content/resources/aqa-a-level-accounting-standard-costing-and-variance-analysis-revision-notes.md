@@ -74,6 +74,17 @@ in the reconciliation. If the question gives a standard profit per unit to use, 
 5. Check: price + usage = total materials; rate + efficiency = total labour.
 6. Label every variance F or A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--11-price-usage-variance.webp" width="900" height="940" alt="Wool was bought at 8.70 dollars against a standard 9.00, saving 0.30 on all 7,050 kilograms: 2,115 favourable. 150 kilograms more than the standard 6,900 were used, worth 1,350 at the standard price: adverse. The axes are zoomed in." loading="lazy">
+  <figcaption>Price variance uses actual quantity; usage variance uses standard price.</figcaption>
+</figure>
+
+
 ## Method in steps: reconciliations
 
 **Cost reconciliation**
@@ -193,6 +204,12 @@ ignores non-financial factors such as quality.
    and efficiency variances.
 10. Using more skilled, higher-paid staff who work faster.
 11. Deducted from standard cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

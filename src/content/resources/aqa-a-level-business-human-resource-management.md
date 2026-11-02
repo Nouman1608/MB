@@ -50,6 +50,12 @@ The specification lists these objectives:
 
 **Soft and hard HRM.** A hard approach treats employees as a cost and a resource to be used efficiently: tight control, flexible contracts, pay linked to output, workforce numbers adjusted quickly to demand. A soft approach treats employees as an asset to be developed: investment in training, involvement in decisions, strong communication and commitment. The approach a business takes influences which objectives it sets. A soft approach points towards engagement and talent development. A hard approach points towards numbers, costs and location.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--09-hr-hard-soft.webp" width="900" height="960" alt="Hard HRM treats staff as a resource at lowest cost with close control and short-term contracts, cutting cost fast but risking low morale. Soft HRM treats staff as an asset to develop with training and long-term commitment, costing more but building skill and loyalty." loading="lazy">
+  <figcaption>Hard and soft HRM treat employees as a cost or as an asset.</figcaption>
+</figure>
+
+
 ## 2. Analysing human resource performance (3.6.2)
 
 The specification requires you to calculate and interpret four measures. The official text names them but gives no formulas, so the forms below are the standard ones.
@@ -87,6 +93,17 @@ Productivity improved, yet cost per unit rose faster because pay per employee ro
 
 **Using data for decisions and planning.** HR data supports decisions on recruitment (a high turnover suggests more hiring is needed), training (low productivity may point to a skills gap), pay (cost per unit against rivals), workforce size (numbers needed for forecast demand) and working patterns. Data shows what has happened, not why, so read it with qualitative evidence such as exit interviews.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--01-hr20-turnover-retention.webp" width="900" height="890" alt="Thornapple Print Works leavers total 17: 12 from the starting 80 and 5 who joined in the year. Labour turnover is 17 divided by the average 85, 20.0 percent. Retention is (80 minus 12) divided by 80, 85.0 percent." loading="lazy">
+  <figcaption>Turnover uses the average headcount; retention uses the starting group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--02-hr20-productivity-cost.webp" width="900" height="910" alt="Glenrowan Cycles output per employee rose 3.1 percent, labour cost per unit rose 3.4 percent and pay per employee rose 6.7 percent, so unit cost rose faster than productivity." loading="lazy">
+  <figcaption>Cost per unit rose faster than productivity because pay per employee rose more.</figcaption>
+</figure>
+
+
 ## 3. Job design (3.6.3, first part)
 
 Job design is deciding what tasks a job contains and how much control the post-holder has. Influences include technology, workforce skills, cost control, culture and the effect on motivation.
@@ -105,6 +122,12 @@ The first three produce experienced meaningfulness, autonomy produces experience
 
 **Worked example 3.** At Linnet Hollow Dental, receptionists only answer the phone, and a separate team books treatments and chases payments. Redesign could let each receptionist handle a patient from first call to final payment (task identity, skill variety), set their own daily order of work (autonomy), and show them monthly patient-satisfaction scores (feedback). The cost is training time; the benefit is lower turnover.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--04-hr20-hackman-oldham.webp" width="900" height="810" alt="Skill variety, task identity and task significance produce experienced meaningfulness; autonomy produces experienced responsibility; feedback produces knowledge of results; these lead to higher motivation, quality and satisfaction and lower absence and turnover." loading="lazy">
+  <figcaption>Five job characteristics feed three psychological states, which produce the outcomes.</figcaption>
+</figure>
+
+
 ## 4. Organisational design (3.6.3, second part)
 
 Organisational design is how the business is structured. The specification lists five decisions.
@@ -120,6 +143,12 @@ Organisational design is how the business is structured. The specification lists
 **Influences on delegation, centralisation and decentralisation.** Delegation is more likely where managers trust skilled staff and the decision is low-risk. Centralisation suits a business that needs consistent standards, tight cost control, or fast crisis decisions, or one in which the owner prefers control. Decentralisation suits large, spread-out or diverse businesses where local knowledge matters and where empowered staff are more motivated.
 
 **The value of changing job and organisational design.** Benefits can be faster decisions, lower overheads, better motivation and a better fit with new technology. Costs include disruption, redundancy costs, resistance and retraining. The change is worth it where the long-term gain exceeds these costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--03-hr20-span-layers.webp" width="900" height="970" alt="With 144 warehouse staff, a span of 12 gives 12 supervisors and a director (flat, two layers). A span of 4 gives 36 supervisors, 9 managers, 3 senior managers and a director (tall, four layers)." loading="lazy">
+  <figcaption>A wider span means fewer layers and cheaper management but less time per person.</figcaption>
+</figure>
+
 
 ## 5. Managing the human resource flow (3.6.3, third part)
 
@@ -155,6 +184,12 @@ The theories give managers a framework, but people differ, so the right method d
 **Non-financial methods** include job enrichment, job rotation, empowerment, teamworking, training and development, recognition, flexible working and a clear career path.
 
 **Choosing and assessing reward systems.** Influences include whether the work is measurable, the budget, rivals' pay, the culture and employee preferences. Assess effectiveness using labour turnover, absenteeism, productivity, labour cost per unit and employee surveys, and compare gains with the scheme's cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--03-pay-piece-commission.webp" width="900" height="970" alt="Two bars on one scale show piece rate (450 units at £0.80 earns £360) and commission (£1,200 plus 4% of £22,000, which is £880, totals £2,080)." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to fixed pay.</figcaption>
+</figure>
+
 
 ## 7. Improving employer-employee relations (3.6.5)
 

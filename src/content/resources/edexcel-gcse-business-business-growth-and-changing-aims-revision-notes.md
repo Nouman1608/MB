@@ -46,6 +46,17 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Flotation | A company offering its shares to the public on the stock market |
 | Aim and objective | An aim is the broad long-run purpose; an objective is a specific target set to reach it |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--03-merger-or-takeover.webp" width="900" height="860" alt="In a merger two firms agree to join as one. In a takeover one firm buys enough of another to control it, even if the target does not want it." loading="lazy">
+  <figcaption>Merger means both sides agree; takeover means one side gains control.</figcaption>
+</figure>
+
+
 ## Growth methods at a glance
 
 | Method | Type | Advantage | Drawback |
@@ -94,6 +105,17 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 
 **Matching finance to the situation.** A business with weak profit has little retained profit, so it may need a loan or shares. A business already heavily in debt may prefer shares. A short-term cash need might suit selling an unused asset.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--03-zandrick-funding-stack.webp" width="900" height="1180" alt="Four sources add up to the 980,000 pound cost: retained profit 310,000 and depot sale 150,000 (internal), bank loan 400,000 and share capital 120,000 (external). The loan is repaid with 480,000, which is 20 percent more than borrowed." loading="lazy">
+  <figcaption>Four sources fund the 980,000 pound takeover; the loan costs 20% extra.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--05-sandell-flotation.webp" width="900" height="1070" alt="Before the flotation the founders own all 3,000,000 shares. Issuing 800,000 new shares at 1.75 pounds raises 1,400,000 pounds. Founders then hold 78.9 percent of 3,800,000 shares, sharing profit and decisions." loading="lazy">
+  <figcaption>Floating Sandell Fitness raises 1.4 million pounds but dilutes the founders to 78.9%.</figcaption>
+</figure>
+
+
 ## Why aims change, and how
 
 | Reason | Example |
@@ -112,6 +134,12 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Product range | Adding lines for new customers, or dropping weak ones |
 
 **Must-know distinction.** Organic growth keeps control and grows slowly. Inorganic growth is faster but costs more and brings integration problems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--06-sandell-aims-change.webp" width="900" height="1190" alt="Year 1 margin is 9.0 percent with the aim of growth and 24 staff. Year 2 margin halves to 4.5 percent, the aim becomes survival and staff fall to 20, down 16.7 percent." loading="lazy">
+  <figcaption>Falling profit margin turns Sandell Fitness from growth to survival.</figcaption>
+</figure>
+
 
 ## Worked reminder: Teelan Tools
 
@@ -171,6 +199,12 @@ The mix is a judgement. More loan capital means more interest and fixed repaymen
 10. Any two of: market conditions, technology, performance, legislation, internal reasons.
 11. Adding a new line to serve new customers, or dropping a weak, loss-making line to save cost.
 12. Its shares are traded openly, so another business can buy enough of them to gain control; a sole trader has no shares to buy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--04-zandrick-takeover-share.webp" width="900" height="1060" alt="Buying 350,000 shares at 2.80 pounds costs 980,000 pounds. Market shares of 14 percent and 6 percent combine to 20 percent, though the 6 percent could shrink if staff leave." loading="lazy">
+  <figcaption>The takeover costs 980,000 pounds and lifts market share from 14% to 20%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

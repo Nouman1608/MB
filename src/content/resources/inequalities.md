@@ -63,6 +63,12 @@ and **closed circles** represent inclusive inequalities (⩽, ⩾).
 A closed circle sits at −3 (inclusive, ⩽) and an open circle at 1 (strict,
 <), with the line shaded solid between them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+
 ## Solving linear inequalities
 
 Linear inequalities are solved with the same steps as linear equations,
@@ -83,6 +89,12 @@ both sides by a negative number reverses the inequality sign.**
 3x − 2x < 4
 x < 4
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--02-negative-flips-sign.webp" width="900" height="1030" alt="Values of x from minus 5 to 2 are put through minus 2x and compared with 6. Only x greater than minus 3 passes, so −2x &lt; 6 becomes x &gt; −3, shown on a number line with an open circle at minus 3. Dividing by a negative reverses the sign." loading="lazy">
+  <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
+</figure>
+
 
 ## Double inequalities and integer solutions
 
@@ -109,6 +121,12 @@ but 3 is *not* (strict, <). Miscounting which endpoint is included is a
 common way to lose an easy mark, particularly under time pressure near
 the end of a paper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
+</figure>
+
+
 ## Inequalities in two variables, graphically
 
 A linear inequality in two variables is represented on a graph as a region
@@ -125,6 +143,12 @@ unwanted side (x ⩾ 1, to the right); draw a solid horizontal line at y = 1
 left unshaded — to the left of x = 1 and on or above y = 1 — is the region
 satisfying both inequalities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--04-two-variable-shading.webp" width="900" height="950" alt="A grid with a broken vertical line at x = 1 (shade right) and a solid horizontal line at y = 1 (shade below). The unshaded region R at upper left satisfies both inequalities; the point (−1, 3) is inside it." loading="lazy">
+  <figcaption>Broken line for strict inequalities, solid for inclusive; shade the unwanted region and leave R clear.</figcaption>
+</figure>
+
+
 ## Listing the inequalities defining a region
 
 Given a shaded diagram, the reverse skill is required: identify each
@@ -135,6 +159,12 @@ or ⩽ / ⩾ (solid line), and decide which side of each line the *unshaded*
 **Note:** linear programming — optimising a quantity subject to a system
 of inequalities — is explicitly **not included** in this syllabus; the
 skill required stops at representing, solving and reading off regions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

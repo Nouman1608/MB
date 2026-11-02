@@ -32,6 +32,27 @@ Objectives should be **SMART**. Corporate objectives include profit maximisation
 
 **Strategy** is the long-term plan for achieving objectives; **tactics** are short-term actions serving it. Strategic decisions are long-term, high-risk, costly to reverse, and taken at the top; tactical decisions are the opposite.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--05-strategic-v-tactical.webp" width="900" height="920" alt="Four sliders for time horizon, risk, cost to reverse and who decides. Tactical decisions sit at the short, low, cheap, managers end; strategic decisions at the long, high, costly, top-team end." loading="lazy">
+  <figcaption>Strategic decisions are long-term, high-risk, costly to reverse and taken at the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--14-obj-smart.webp" width="900" height="810" alt="Five tests: specific, measurable, achievable, realistic, time-limited. Become the best fails all five; the school-market objective with 8% and a year-end deadline passes. Achievable concerns resources; realistic concerns the market." loading="lazy">
+  <figcaption>Check each SMART letter: the vague aim fails every test and the dated, measured one passes.</figcaption>
+</figure>
+
+
 ## Analytical frameworks
 
 **SWOT** — Strengths and Weaknesses are **internal**; Opportunities and Threats are **external**. Putting an item in the wrong half is a common error, and the useful move is to pair them: which strength lets us take which opportunity, which weakness exposes us to which threat.
@@ -41,6 +62,32 @@ Objectives should be **SMART**. Corporate objectives include profit maximisation
 **Porter's Five Forces:** competitive rivalry, threat of new entrants, threat of substitutes, bargaining power of buyers, bargaining power of suppliers. It assesses the **attractiveness of an industry**, not the strength of one firm — a distinction worth making explicitly.
 
 **Porter's generic strategies:** cost leadership, differentiation, and focus (cost or differentiation within a niche). Porter's argument is that a firm attempting both cost leadership and differentiation risks being **"stuck in the middle"** — a claim worth challenging in evaluation, since firms such as large supermarkets arguably do both successfully.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--04-swot-pairing.webp" width="900" height="780" alt="A strength (strong online brand) is paired with an outside opportunity (market shifting online); a weakness (low cash reserves) is paired with an outside threat (a rival cuts prices). Strengths and weaknesses are internal, opportunities and threats external." loading="lazy">
+  <figcaption>Pair strengths with opportunities and weaknesses with threats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--03-five-forces-diagram.webp" width="900" height="1040" alt="Five boxes inside one dashed industry outline: rivalry between firms in the centre with arrows in from new entrants, supplier power, buyer power and substitutes. Five Forces judges an industry, not one firm." loading="lazy">
+  <figcaption>Porter's Five Forces rates the attractiveness of an industry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--01-maplecote-swot-pest.webp" width="900" height="1020" alt="A SWOT grid for Maplecote Ceramics (inside: strengths, weakness; outside: opportunity, threat) with PEST items feeding the outside row. Numbers and items are the lesson's. Maplecote SWOT and PEST: inside and outside factors, with PEST feeding opportunities and threats." loading="lazy">
+  <figcaption>Maplecote SWOT grid with the four PEST headings feeding the outside boxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--09-five-forces-drivers.webp" width="900" height="915" alt="Five rows each showing what weakens and strengthens rivalry, entrants, substitutes, buyers and suppliers." loading="lazy">
+  <figcaption>Drivers that make each force weaker or stronger.</figcaption>
+</figure>
+
 
 ## Ansoff's Matrix
 
@@ -73,6 +120,12 @@ B: EV = (0.7 x 100 000) + (0.3 x 10 000) =  73 000    net gain =  73 000 - 30 00
 
 Option A is recommended, since its net gain (£78,000) exceeds Option B's (£43,000).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--01-decision-tree-worked.webp" width="900" height="1050" alt="A decision square branches to Option A costing 50,000 and Option B costing 30,000. A has a 0.6 chance of 200,000 and 0.4 of 20,000, so expected value 128,000. B has 0.7 of 100,000 and 0.3 of 10,000, so expected value 73,000. Net gains are 78,000 and 43,000, so A is recommended." loading="lazy">
+  <figcaption>Expected values are worked right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ## Investment appraisal
 
 ```
@@ -100,6 +153,17 @@ ARR = (15 000 / 100 000) x 100 = 15%
 ```
 
 Neither payback nor ARR discounts these cash flows, so both treat a pound received in year four as equally valuable as a pound received now — which is exactly what NPV corrects for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--02-payback-arr-worked.webp" width="900" height="1020" alt="A project costs 100,000 and returns 40,000 in each of four years. Cumulative cash crosses zero at 2.5 years, the payback period. Total profit is 60,000, an average of 15,000 a year, which is 15 percent of the investment." loading="lazy">
+  <figcaption>Payback reads the crossing point; ARR compares average profit with the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--03-npv-discount-rate-flip.webp" width="900" height="830" alt="NPV of the lesson project (cost 100,000, then 40,000 for four years) falls as the discount rate rises: +60,000 at 0 percent, about +26,800 at 10 percent, +3,500 at 20 percent, zero at about 21.9 percent and -5,500 at 25 percent." loading="lazy">
+  <figcaption>A higher discount rate turns an accept into a reject, so NPV is only as good as its rate.</figcaption>
+</figure>
+
 
 ## Risk and uncertainty
 

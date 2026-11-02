@@ -48,6 +48,27 @@ The unit is the newton metre (N m). If a force acts at an angle θ to a bar, onl
 Perpendicular component of the force = 85 sin 30° = 42.5 N.
 Moment = 42.5 × 0.24 = 10.2 N m (3 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--05-momentum-change.webp" width="900" height="1090" alt="A ball hits a wall at 32 m s-1 and rebounds at 24 m s-1. Taking towards the wall as positive, the initial momentum is +1.824 and the final is -1.368 kg m s-1, so the change is -3.192. The velocity change is 56 m s-1, not 8. Over 4.5 ms the average force is 709 N away from the wall." loading="lazy">
+  <figcaption>Because momentum is a vector, a rebound changes it by the sum of the two sizes, and F = Δp/Δt gives the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
+
 ## 3.2.3(b) Couples and torque
 
 A couple is a pair of forces that are equal in size, opposite in direction and parallel, but whose lines of action do not coincide. The resultant force is zero, so a couple produces rotation only.
@@ -81,6 +102,12 @@ R_B = 242.6 N, so R_B = 243 N (3 s.f.).
 
 Balance forces vertically: R_A + R_B = 220 + 650 = 870 N.
 R_A = 870 − 242.6 = 627.4 N, so R_A = 627 N (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--09-moments-beam.webp" width="900" height="930" alt="A 4.0 m, 220 N board rests on supports A and B with a 650 N worker 1.0 m from the left end. Taking moments about A removes R_A: 220 x 1.5 + 650 x 0.5 = R_B x 2.7, so R_B = 243 N, and balancing forces gives R_A = 627 N." loading="lazy">
+  <figcaption>Choose a pivot where an unknown force acts, equate clockwise and anticlockwise moments, then balance forces.</figcaption>
+</figure>
+
 
 ## 3.2.3(d) Centre of mass and centre of gravity
 

@@ -62,6 +62,12 @@ The topic-wide summary is in the [Principles of chemistry revision notes](/resou
 | O | 2.6 | O²⁻ | 2.8 |
 | Cl | 2.8.7 | Cl⁻ | 2.8.8 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--10-aluminium-ion.webp" width="900" height="700" alt="An aluminium atom has 13 protons and 13 electrons arranged 2.8.3, so its charge is zero. It loses its three outer electrons. The Al3+ ion has the same 13 protons but only 10 electrons arranged 2.8, so its charge is 13 minus 10, which is plus 3. The ion has a full outer shell like a noble gas." loading="lazy">
+  <figcaption>Protons stay the same and electrons are lost, so the charge becomes 3+.</figcaption>
+</figure>
+
+
 ### Ion charges (1.38)
 
 | 1+ | 2+ | 3+ | 1− | 2− | 3− |
@@ -82,6 +88,12 @@ Group 1 → 1+, Group 2 → 2+, Group 3 → 3+. Group 5 → 3−, Group 6 → 2�
 
 Small reminder: Ca²⁺ and NO₃⁻ → LCM 2 → one Ca²⁺, two NO₃⁻ → Ca(NO₃)₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
+</figure>
+
+
 ### Ionic dot-and-cross (1.40)
 
 - Only Groups 1, 2, 3 combined with Groups 5, 6, 7 are required.
@@ -90,6 +102,22 @@ Small reminder: Ca²⁺ and NO₃⁻ → LCM 2 → one Ca²⁺, two NO₃⁻ →
 - Negative ion: 8 outer electrons, with the gained ones drawn as the other symbol.
 - Number of ions drawn must match the formula (e.g. two Na⁺ for one O²⁻).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--07-double-triple-bonds.webp" width="900" height="880" alt="Dot-and-cross diagrams for four molecules. Chlorine Cl2 has one shared pair and three lone pairs on each atom. Oxygen O2 has two shared pairs, a double bond, and two lone pairs on each atom. Nitrogen N2 has three shared pairs, a triple bond, and one lone pair on each atom. Ammonia NH3 has three shared pairs and one lone pair on nitrogen. In each, two times the shared pairs plus two times the lone pairs equals the total outer electrons." loading="lazy">
+  <figcaption>Shared pairs and lone pairs account for every outer electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--09-sodium-oxide-dot-cross.webp" width="900" height="850" alt="Outer shells only. Two sodium atoms each have one outer electron, shown as dots, and an oxygen atom has six outer electrons, shown as crosses. Each sodium gives its electron to oxygen. The result is two Na+ ions with no outer electrons shown and one O2- ion with eight outer electrons: six crosses and two dots. The charges add to zero, so the formula is Na2O." loading="lazy">
+  <figcaption>Why sodium oxide needs two sodium atoms for each oxygen atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
+
 ### Structure and properties (1.41-1.43)
 
 | Property | Reason |
@@ -97,6 +125,17 @@ Small reminder: Ca²⁺ and NO₃⁻ → LCM 2 → one Ca²⁺, two NO₃⁻ →
 | High melting and boiling points | Many strong electrostatic attractions between oppositely charged ions throughout the lattice need a lot of energy to overcome |
 | Solid does **not** conduct | Ions held in fixed positions |
 | Molten or aqueous **does** conduct | Ions free to move and carry charge |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--03-ionic-conduction.webp" width="900" height="1115" alt="Three circuits with battery, bulb and electrodes. In the solid, the ions are fixed in place and the bulb is off. When molten or dissolved in water, positive ions move to the negative electrode and negative ions to the positive electrode, so the bulb lights." loading="lazy">
+  <figcaption>Ions carry current only when free to move: molten or dissolved, not solid.</figcaption>
+</figure>
+
 
 ## 1(g) Covalent bonding
 
@@ -137,6 +176,17 @@ Small reminder (halogens, Mr from A_r F = 19, Cl = 35.5, Br = 80, I = 127):
 | Mr | 38 | 71 | 160 | 254 |
 | State at 25 °C | gas | gas | liquid | solid |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--08-halogen-mr-boiling-point.webp" width="900" height="850" alt="A graph of boiling point against relative molecular mass for the halogens: fluorine F2 (Mr 38) boils at minus 188 degrees Celsius, chlorine Cl2 (Mr 71) at minus 34, bromine Br2 (Mr 160) at 59 and iodine I2 (Mr 254) at 184. A dashed line marks 25 degrees Celsius, so fluorine and chlorine are gases, bromine a liquid and iodine a solid at room temperature. As Mr rises the forces between molecules get stronger, so more energy is needed to separate them, but the covalent bonds inside each molecule are not broken." loading="lazy">
+  <figcaption>The boiling point of the halogens rises with relative molecular mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+
 ### Giant covalent structures (1.49-1.50)
 
 - Network of strong covalent bonds throughout → melting **breaks covalent bonds** → high melting and boiling points; solids.
@@ -150,9 +200,21 @@ Small reminder (halogens, Mr from A_r F = 19, Cl = 35.5, Br = 80, I = 127):
 | Electrical conductivity | None | Conducts | Poor |
 | Why | No free electrons | One delocalised electron per C, moves along layers | Electrons cannot move from molecule to molecule |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--06-c60-fullerene.webp" width="900" height="920" alt="A C60 fullerene molecule drawn from computed coordinates is a hollow ball of 60 carbon atoms made of 20 hexagons and 12 pentagons, each carbon bonded to three others. Below, two separate C60 molecules are held to each other only by weak forces, so the substance is soft and conducts poorly, unlike diamond whose atoms form a giant covalent network." loading="lazy">
+  <figcaption>C60 is made only of carbon but is simple molecular, not a giant structure.</figcaption>
+</figure>
+
+
 ### Conductivity (1.51)
 
 Covalent compounds do not usually conduct electricity. Graphite is the exception to learn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
 
 ## 1(h) Metallic bonding -- Paper 2 only
 
@@ -178,6 +240,12 @@ Covalent compounds do not usually conduct electricity. Graphite is the exception
 - **Graphite vs C60:** both have three bonds per carbon, but graphite is a giant layered structure that conducts; C60 is molecular and a poor conductor.
 - **Ionic vs metallic conduction:** ions must be free to move (molten or aqueous only) vs delocalised electrons move (solid too).
 - **Lose vs gain:** metals lose electrons; nothing gains protons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -66,6 +66,12 @@ A profit-maximising firm will produce in the short run if revenue covers its var
 - Price £2.50: TR = £1,000, variable cost £1,200, contribution −£200. Loss = **£1,100**, worse than £900, so it shuts down.
 - Long run: average cost = 900 ÷ 400 + 3.00 = **£5.25**. Below this price the owner earns less than normal profit and exits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--10-laundry-shutdown.webp" width="900" height="960" alt="Fixed cost 900, variable cost 3.00, 400 loads. At price 4.50 operating loses 300 against 900 shut, so stay. At 2.50 operating loses 1,100, so shut. Price bands: below 3.00 shut, 3.00 to 5.25 stay in the short run, above 5.25 normal profit." loading="lazy">
+  <figcaption>Shut down when price is below variable cost; stay in the long run only above average cost.</figcaption>
+</figure>
+
+
 ### Other objectives
 
 Firms have a range of possible objectives, and each changes price, output and conduct differently. Using the lamp workshop:
@@ -80,11 +86,23 @@ At the revenue-maximising output, price elasticity of demand is unitary: PED = (
 
 **Survival** matters in a recession or when a rival enters: the firm may cut price to cover variable cost. **Growth** and **market share** may justify low prices now to build scale or deter entry. **Quality** may raise costs and price but build loyalty. Firms may also pursue ethical, environmental or employee-welfare aims, or managers may seek status. In each case, say what happens to price, output and profit, and whether the aim can be sustained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--08-lamp-objectives-diagram.webp" width="900" height="980" alt="Lamp workshop curves AR = 70 - 0.5Q, MR = 70 - Q, MC = 10 + 0.2Q and AC from TC. Profit max is 50 lamps at 45; revenue max 70 at 35; normal-profit output about 78.9 at 30.6." loading="lazy">
+  <figcaption>Each objective picks a different output and price.</figcaption>
+</figure>
+
+
 ### Satisficing
 
 Satisficing means aiming for a satisfactory outcome, not the maximum. Managers or owners set a target, such as a minimum profit, and then pursue other aims once it is met.
 
 Suppose the lamp owner is content with £400 a week. Profit = 60Q − 0.6Q² − 1,000, which is at least £400 for Q between about 37.1 and 62.9. The owner could choose 62 lamps (profit 60 × 62 − 0.6 × 3,844 − 1,000 = £413.60), selling more and holding a larger share, while still hitting the target. This helps to explain why real firms do not always choose MR = MC: information is incomplete, and the cost of finding the exact optimum may exceed the gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--09-lamp-satisficing-profit-curve.webp" width="900" height="900" alt="Profit = 60Q - 0.6Q^2 - 1,000 peaks at 500 at 50 lamps. Profit is at least 400 between 37.1 and 62.9 lamps; 62 lamps earns 413.60." loading="lazy">
+  <figcaption>A satisficer can pick any output that meets the target.</figcaption>
+</figure>
+
 
 ### The divorce of ownership from control
 
@@ -95,6 +113,12 @@ In a large company the owners (shareholders) are separate from the managers who 
 **Consequences:** shareholders (the principals) want profit and dividends, while managers (the agents) know more about the firm (asymmetric information) and may prefer pay, status, security, growth or sales. Suppose the lamp manager earns a bonus of 2% of revenue. At Q = 50 the bonus is £45; at Q = 70 it is £49. Gaining £4 costs shareholders £240 of profit, so the incentive is poorly aligned. A bonus of 2% of profit pays £10 at Q = 50 and £5.20 at Q = 70, so it rewards the shareholders' aim.
 
 Shareholders can respond with profit-linked pay, share options, independent directors, voting at the annual meeting, and the threat of takeover if poor performance lowers the share price. Evaluate: managers may take a longer view than impatient shareholders, and professional managers may raise efficiency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--01-bonus-revenue-vs-profit.webp" width="900" height="1130" alt="Paired bars compare 50 and 70 lamps. Profit is 500 at 50 lamps and 260 at 70. A 2% revenue bonus is 45 versus 49, so the manager gains 4 while shareholders lose 240. A 2% profit bonus is 10 versus 5.20, so the manager stays at 50." loading="lazy">
+  <figcaption>A bonus on revenue pulls the manager away from the shareholders’ aim; a bonus on profit aligns them.</figcaption>
+</figure>
+
 
 ### Government ownership and control
 
@@ -110,6 +134,12 @@ A publicly owned firm may be asked to pursue objectives other than profit, such 
 
 At P = MC the loss is 8,000 − 14,000 = £6,000, so a subsidy is needed. Evaluate: low prices help low-income users and may reduce external costs such as congestion, but a guaranteed subsidy can weaken the incentive to control cost, and political aims can change with each government.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--02-state-bus-objectives.webp" width="900" height="1000" alt="Demand, marginal revenue, marginal cost and average cost for a state bus company. Point A (MR = MC) is 2,000 trips at 6 with profit 2,000; B (AR = AC) is 3,000 trips at 4 with zero profit; C (P = MC) is 4,000 trips at 2 with a loss of 6,000." loading="lazy">
+  <figcaption>Different objectives give different output, price and profit; P = MC needs a subsidy.</figcaption>
+</figure>
+
+
 ## 3.3.1.4 The growth of firms
 
 ### How and why firms grow
@@ -118,11 +148,23 @@ At P = MC the loss is 8,000 − 14,000 = £6,000, so a subsidy is needed. Evalua
 
 Reasons for growth: economies of scale and lower average cost; greater market power; spreading risk; new markets; survival; and managers' wish for status or pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ### Horizontal integration
 
 Horizontal integration joins two firms that sell the same kind of product at the same stage of production. **Worked example (Country D, illustrative).** In a market worth £400m, Firm R sells £72m (18%) and Firm S sells £56m (14%). Together: 128 ÷ 400 = **32%**. Firm R produces 6m units at a total cost of £54m (£9 per unit) and Firm S makes 5m units for £44m (£8.80). Joint cost is £98m, or £8.91 per unit. If merging removes £5m of duplicated overhead, cost falls to £93m ÷ 11m = **£8.45 per unit**.
 
 Benefits: scale economies, less competition and more bargaining power. Costs: higher prices, less choice, possible diseconomies of scale and regulatory challenge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--03-merger-unit-cost.webp" width="900" height="930" alt="Blocks with area equal to total cost: R is 6m units at 9 (54m), S is 5m at 8.80 (44m). Joined they cost 98m for 11m units, 8.91 each; removing 5m of duplicated overhead leaves 93m, 8.45 each." loading="lazy">
+  <figcaption>Merging cut cost per unit from about 8.91 to 8.45 once 5m of overhead is removed.</figcaption>
+</figure>
+
 
 ### Vertical integration
 
@@ -132,9 +174,26 @@ Firms at different stages join. **Backward** integration buys a supplier; **forw
 
 Firms in unrelated markets join, mainly to spread risk. In Country E, profits (£m) over four years are Firm F: 12, 4, 14, 6 and Firm G: 4, 12, 5, 11. Combined profit is 16, 16, 19, 17. The range falls from 10 and 8 to **3**. Benefits: stable profit and access to new markets. Costs: few cost synergies and weaker management focus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--12-conglomerate-risk-spread.webp" width="900" height="890" alt="Firm F profit 12, 4, 14, 6 and Firm G 4, 12, 5, 11 swing widely; combined 16, 16, 19, 17. Range falls from 10 and 8 to 3." loading="lazy">
+  <figcaption>Combining unrelated firms smooths profit.</figcaption>
+</figure>
+
+
 ### The price of a takeover
 
 A target's shares are £2.50 each and there are 40m shares: market value £100m. A 30% premium gives £3.25 a share, or £130m. The extra £30m is recovered from £5m annual savings in **six years**, before any integration costs. Evaluate: gains depend on whether savings are real, how well staff and systems combine, and how much was borrowed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--11-integration-types.webp" width="900" height="850" alt="Horizontal: Firms R (18%) and S (14%) merge to 32%. Vertical: a furniture maker buys its timber supplier (backward) or a distributor (forward), saving 12 on 10,000 units. Conglomerate: firms in unrelated markets join." loading="lazy">
+  <figcaption>Horizontal joins the same stage, vertical joins different stages, conglomerate joins unrelated markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--04-takeover-premium-payback.webp" width="900" height="840" alt="A bar shows market value 100m plus a 30m premium (3.25 a share, 130m paid). Six blocks of 5m annual savings repay the 30m premium in six years, before integration costs." loading="lazy">
+  <figcaption>A 30m premium is recovered from 5m savings in six years.</figcaption>
+</figure>
+
 
 ## Common errors
 

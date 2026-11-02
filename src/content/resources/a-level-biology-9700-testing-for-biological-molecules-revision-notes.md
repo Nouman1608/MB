@@ -35,6 +35,12 @@ Practise with the [testing for biological molecules practice questions](/resourc
 | 2.1.2 | Standardise a Benedict's test and estimate a reducing sugar concentration from time to first colour change or colour standards |
 | 2.1.3 | Test for a non-reducing sugar with acid hydrolysis, neutralisation, then Benedict's |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
+
 ## 2.1.1 Test summary table
 
 | Test | Detects | Reagent and method | Heat? | Positive | Negative |
@@ -90,6 +96,12 @@ Practise with the [testing for biological molecules practice questions](/resourc
 - mol dm⁻³ → g dm⁻³: multiply by relative molecular mass (glucose = 180). Then g dm⁻³ ÷ 10 = % (w/v).
 - Rate from time: rate = 1/t (units s⁻¹). Shorter time, higher rate, higher concentration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+
 ### Worked reminders
 
 **Converting units.** 0.30 mol dm⁻³ glucose → 0.30 × 180 = 54 g dm⁻³ → 54 ÷ 10 = **5.4 % (w/v)**.
@@ -135,6 +147,17 @@ Practise with the [testing for biological molecules practice questions](/resourc
 | Green | Brick-red | Reducing sugar and non-reducing sugar |
 
 The last row only works if volumes and heating are the same in both tests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--09-biochemical-tests.webp" width="900" height="1300" alt="Four pairs of test tubes: Benedict’s (heated) stays blue without reducing sugar and turns brick-red with it; iodine stays orange-brown without starch and turns blue-black with it; biuret stays blue without protein and turns purple with it; in the emulsion test, ethanol then water stays clear without lipid and turns cloudy white with it. A strip shows the Benedict’s colours blue, green, yellow, orange, brick-red with more reducing sugar. A three-step flow shows the non-reducing sugar test: boil with dilute HCl, neutralise with sodium hydrogencarbonate, then Benedict’s and heat." loading="lazy">
+  <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

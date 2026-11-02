@@ -72,6 +72,12 @@ stimulus (change) → receptor → coordination system → effector → response
 - **Effectors** are **muscles and glands**.
 - **Negative feedback:** the response reverses the change, so the variable returns towards the set point and the corrective action then stops. The variable fluctuates within a narrow range.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
+
 ### Urea and deamination
 
 Excess amino acids cannot be stored. In the **liver** their amino groups are removed (**deamination**) and converted to **urea**, which the blood carries to the kidneys. For 14.1.3 you only need to **state** this.
@@ -93,6 +99,17 @@ In a longitudinal section, from outside in:
 
 Follow one nephron: blood enters the **glomerulus** (a knot of capillaries) through the wider afferent arteriole and leaves through the narrower efferent arteriole. The glomerulus sits in a cup, the **Bowman's capsule**. The filtrate then passes along the **proximal convoluted tubule (PCT)**, the **loop of Henle** (dipping into the medulla), the **distal convoluted tubule (DCT)**, and into a **collecting duct**, which many nephrons share. In photomicrographs of the cortex, glomeruli appear as round, densely stained balls inside a clear capsule space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--02-nephron.webp" width="900" height="1090" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
+  <figcaption>The nephron runs from the glomerulus in the cortex, through the loop of Henle in the medulla, to the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--05-loop-of-henle.webp" width="900" height="1080" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
+  <figcaption>The ascending limb pumps out ions and the descending limb loses water, building a steep gradient that lets the collecting duct recover water.</figcaption>
+</figure>
+
+
 ### Ultrafiltration in the Bowman's capsule
 
 Glomerular blood is at **high hydrostatic pressure** because the afferent arteriole is wider than the efferent. Water and small solutes are forced through three layers:
@@ -102,6 +119,12 @@ Glomerular blood is at **high hydrostatic pressure** because the afferent arteri
 3. the **podocytes** of the capsule wall, whose extensions leave **filtration slits**
 
 The **glomerular filtrate** contains water, glucose, amino acids, urea and ions. **Blood cells and most plasma proteins stay in the blood**, because they are too large to pass the basement membrane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
 
 ### Selective reabsorption in the PCT
 
@@ -132,6 +155,12 @@ percentage       = 119.2 ÷ 120 × 100 = 99.3 %  (3 s.f.)
 
 If urea is 0.30 g dm⁻³ in plasma and 21 g dm⁻³ in urine, urine is 21 ÷ 0.30 = **70 times** more concentrated in urea, mainly because water is reabsorbed and most urea is not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
+
 ### Osmoregulation: ADH and aquaporins
 
 If you sweat heavily and drink nothing, the water potential of your blood falls.
@@ -142,6 +171,12 @@ If you sweat heavily and drink nothing, the water potential of your blood falls.
 4. **Vesicles containing aquaporins** fuse with the luminal membrane.
 5. The duct wall becomes **more permeable to water**, so water moves by osmosis into the low-water-potential tissue fluid of the medulla, then into the blood.
 6. A **smaller volume of more concentrated urine** forms. As blood water potential rises, less ADH is released (**negative feedback**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
 
 ### Cell signalling: glucagon
 
@@ -156,6 +191,12 @@ Glucagon does not enter the liver cell; it uses a **second messenger**. Learn th
 
 **Worked example 2.** In a model cascade, each active enzyme activates 50 molecules of the next, over three stages. One enzyme at the top gives 50 × 50 × 50 = 50³ = **125 000** active final enzymes. That is why a tiny glucagon concentration releases a lot of glucose quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
+</figure>
+
+
 ### Negative feedback control of blood glucose
 
 | | Blood glucose too high | Blood glucose too low |
@@ -167,6 +208,17 @@ Glucagon does not enter the liver cell; it uses a **second messenger**. Learn th
 | Result | Concentration falls towards the set point | Concentration rises towards the set point |
 
 Insulin and glucagon act antagonistically. **Worked example 3:** after a meal, blood glucose rises from 5.2 to 8.3 mmol dm⁻³. Percentage increase = (8.3 − 5.2) ÷ 5.2 × 100 = **59.6%**. Always divide by the starting value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
 
 ### Test strips and biosensors
 

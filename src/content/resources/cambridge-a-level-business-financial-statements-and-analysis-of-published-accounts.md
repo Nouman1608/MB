@@ -59,6 +59,12 @@ Retained earnings are the profit kept in the business after dividends. They add 
 
 **Amending the statement.** A question may change one line and ask for the new profit. Change the line, then recalculate every line below it. Suppose Corrabeck cuts all prices by 5% and sells the same volume. Revenue falls to 4,560 but cost of sales stays at 3,120, so gross profit is 1,440. Expenses stay at 1,200, so profit from operations is 240. Tax at 20% is 48, so profit for the year is 192. The gross profit margin falls from 35% to 31.6%. A small fall in price causes a large fall in profit because costs have not changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--01-pl-waterfall.webp" width="900" height="1012" alt="Horizontal waterfall bars in $000: revenue 4,800, less cost of sales 3,120 gives gross profit 1,680 (35% margin), less expenses 1,200 gives operating profit 480 (10%), less tax 96 gives profit for the year 384, less dividends 150 leaves retained earnings 234." loading="lazy">
+  <figcaption>Each deduction shrinks revenue step by step until 234 is retained.</figcaption>
+</figure>
+
+
 ## 10.1.2 Statement of financial position
 
 The statement of financial position shows what a business owns and owes on one date. Its purpose is to show its financial strength: assets, liabilities and the owners' stake.
@@ -89,6 +95,12 @@ Net assets = non-current assets + net current assets − non-current liabilities
 - Tax charged in the statement of profit or loss is a current liability until it is paid.
 - Depreciation is an expense in the statement of profit or loss and lowers non-current assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--02-sofp-balance.webp" width="900" height="1000" alt="Two stacks each total 2,500 ($000): non-current assets 2,000 plus net current assets 500, and shares 1,000, reserves 800 and a 700 bank loan. Equity of 1,800 equals net assets of 2,500 minus the 700 loan." loading="lazy">
+  <figcaption>Net assets always equal equity, which is why the statement balances.</figcaption>
+</figure>
+
+
 ## 10.1.3 Inventory valuation
 
 Valuing inventory is difficult because the true value is uncertain. Goods may be damaged, out of fashion or slow to sell. Prices may change. Counting and valuing large or varied stock takes judgement. The value matters because it changes cost of sales, and so profit, and also current assets.
@@ -96,6 +108,12 @@ Valuing inventory is difficult because the true value is uncertain. Goods may be
 **The net realisable value (NRV) method.** NRV is the estimated selling price less any costs needed to sell the goods or make them saleable. The standard approach is to value inventory at the lower of cost and NRV, so that assets are not overstated. This is the standard form; the syllabus lists the method by name.
 
 Corrabeck holds 300 oak panels that cost 26 each. Water damage means they can only be sold for 24, and each needs 3 of repair work. NRV per panel is 24 − 3 = 21. Cost is 300 × 26 = 7,800 (in dollars, not thousands) and NRV is 300 × 21 = 6,300. Inventory is valued at the lower figure, 6,300. The write-down of 1,500 increases cost of sales, so profit falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--03-nrv-inventory.webp" width="900" height="1080" alt="A panel costing 26 sells for 24 but needs 3 of repair, so NRV is 21. For 300 panels cost is 7,800 and NRV 6,300; inventory is valued at 6,300 and the 1,500 write-down raises cost of sales." loading="lazy">
+  <figcaption>Inventory is valued at the lower of cost and net realisable value.</figcaption>
+</figure>
+
 
 ## 10.1.4 Depreciation
 
@@ -112,6 +130,12 @@ Corrabeck buys a van for 48,000 (dollars), residual value 6,000, life 5 years. A
 
 Impact: the 8,400 is charged as an expense in the statement of profit or loss each year, reducing profit. On the statement of financial position the van is shown at net book value, which falls by 8,400 a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--04-straight-line-dep.webp" width="900" height="980" alt="Net book value of a 48,000 van falls by 8,400 a year to 6,000 residual value after 5 years. The 8,400 is an expense in the statement of profit or loss and no cash leaves that year." loading="lazy">
+  <figcaption>Straight-line depreciation takes the same expense each year and lowers net book value.</figcaption>
+</figure>
+
+
 ## 10.2 Analysing published accounts
 
 Ratios turn the figures into comparisons. A single ratio says little. Compare it with the same business in earlier years, with competitors, and with what the business is trying to achieve. Corrabeck's ratios are worked below, using the formulas the syllabus gives.
@@ -126,6 +150,12 @@ Liquidity is the ability to pay short-term debts as they fall due. It matters be
 Both are presented as ratios. The acid test strips out inventory because it is the hardest current asset to turn into cash quickly. Some people quote a current ratio near 2 and an acid test near 1 as comfortable, but these are rules of thumb, not syllabus requirements, and the right level depends on the industry. Too high may mean cash or stock is sitting idle.
 
 Methods of improving liquidity: reduce inventory; collect receivables faster; negotiate longer payment terms with suppliers; replace short-term borrowing with long-term borrowing; issue shares; sell and lease back an asset.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--01-liquidity-ratios.webp" width="900" height="930" alt="Stacked columns ($000): current assets 1,000 (cash 80, receivables 400, inventory 520) over current liabilities 500 give a current ratio of 2.0 to 1. Removing inventory leaves 480, so the acid test is 0.96 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the hardest current asset to turn into cash.</figcaption>
+</figure>
+
 
 ### 10.2.2 Profitability ratios
 
@@ -149,9 +179,21 @@ Financial efficiency is how well a business manages inventory, receivables and p
 
 Fewer receivable days and faster inventory turnover are usually better. More payable days helps cash but risks supplier goodwill. Methods of improving efficiency: tighter credit control, early-settlement discounts, just-in-time ordering, and agreeing longer supplier terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--02-efficiency-days.webp" width="900" height="990" alt="Cost of sales 3,120 is 6.24 times average inventory 500. Receivables days are 38.0 and payables days 50.0, drawn as bars on a 0 to 60 day scale." loading="lazy">
+  <figcaption>Turnover and days ratios show how fast stock, receivables and payables move.</figcaption>
+</figure>
+
+
 ### 10.2.4 Gearing ratio
 
 Gearing shows how far a business relies on long-term borrowing. Gearing = non-current liabilities ÷ capital employed × 100 = 700 ÷ 2,500 × 100 = **28%**. A high figure means more interest to pay and more risk, especially if profits fall. A low figure means less risk but possibly slower growth. Methods of improving (lowering) gearing: repay loans, issue shares, retain more profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--03-capital-employed.webp" width="900" height="850" alt="Capital employed of 2,500 ($000) is shares 1,000, reserves 800 and a bank loan 700. ROCE is 480 over 2,500, 19.2%; gearing is 700 over 2,500, 28%." loading="lazy">
+  <figcaption>ROCE and gearing share the same denominator, capital employed.</figcaption>
+</figure>
+
 
 ### 10.2.5 Investment ratios
 
@@ -162,6 +204,12 @@ These show the return to investors, which matters because shareholders and poten
 - Price/earnings ratio = market price ÷ earnings per share = 4.80 ÷ 0.384 = **12.5**.
 
 A low cover means little profit is retained for growth. A high P/E suggests investors expect growth. Methods of improving investor return: raise profit, raise the dividend (if cash allows), and build confidence so the share price rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--04-investment-ratios.webp" width="900" height="1010" alt="Profit of 384 covers the 150 dividend 2.56 times; EPS is 0.384; the 4.80 price is 12.5 times EPS; the 0.15 dividend is 3.1% of the price." loading="lazy">
+  <figcaption>Dividend cover, EPS, P/E and yield all come from the same profit, dividend and price.</figcaption>
+</figure>
+
 
 ### Comparing with a competitor
 
@@ -174,6 +222,12 @@ A low cover means little profit is retained for growth. A high P/E suggests inve
 | Gearing | 28% | 52% |
 
 Corrabeck is more liquid, more profitable overall and less risky. Wentwater earns a better gross margin but loses it in expenses, and its high gearing means higher interest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--05-ratio-compare.webp" width="900" height="1060" alt="Paired bars: current ratio 2.0 v 1.1, gross margin 35% v 38%, operating margin 10% v 7%, ROCE 19.2% v 14%, gearing 28% v 52%." loading="lazy">
+  <figcaption>Corrabeck is more liquid and less risky; Wentwater loses its better gross margin in expenses.</figcaption>
+</figure>
+
 
 ## Common errors
 

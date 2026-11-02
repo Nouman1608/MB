@@ -58,11 +58,23 @@ A business is an organisation that uses resources to produce goods or services t
 
 Match the reason to the evidence in the case study. "She noticed nobody sold gluten-free pastries nearby" points to a business opportunity, not simply to making goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--05-reasons-for-starting.webp" width="900" height="850" alt="Five rows give the reasons the specification lists with an example each: producing goods, supplying services, distributing products, fulfilling a business opportunity and benefiting others." loading="lazy">
+  <figcaption>Five reasons for starting a business, each with an example.</figcaption>
+</figure>
+
+
 ### Goods, services, needs and wants
 
 Goods are physical items you can touch, such as bicycles. Services are activities done for you, such as repairs. Many businesses sell both: a cycle shop sells bikes (goods) and fits them (service).
 
 Needs are things people must have to live, such as food, water, shelter and clothing. Wants are things people would like but could live without, such as a new phone. The same item can sit on either side: a first winter coat is a need, a fifth designer coat is a want.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
 
 ### Factors of production
 
@@ -77,6 +89,12 @@ Businesses combine four resources to make products.
 
 Capital here means machinery and vehicles, not start-up money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+
 ### Opportunity cost
 
 Opportunity cost is the next best alternative given up when you make a choice. Resources are limited, so using them one way means not using them another way.
@@ -89,6 +107,12 @@ Opportunity cost is the next best alternative given up when you make a choice. R
 4. She chooses planters because £300 is the highest.
 5. The next best alternative is mugs at £240, so the opportunity cost of choosing planters is **£240**, not £90 and not £300.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+
 ### The three sectors
 
 | Sector | What happens | Examples |
@@ -98,6 +122,12 @@ Opportunity cost is the next best alternative given up when you make a choice. R
 | Tertiary | Providing services | Retail, banking, teaching, hairdressing |
 
 Classify by what the activity is. A farm shop that grows and sells vegetables does primary work (growing) and tertiary work (selling).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
 
 ### Enterprise and entrepreneurs
 
@@ -127,6 +157,12 @@ Businesses face a constantly changing environment. The specification names four 
 
 A good answer states the change, then its effect on a function, such as packaging expectations raising a bakery's operating costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--02-changing-environment.webp" width="900" height="1010" alt="Four boxes (technology, economic situation, legislation, environmental expectations) each point an arrow at a business building. Each has a short effect from the lesson." loading="lazy">
+  <figcaption>Four named drivers keep the business environment changing.</figcaption>
+</figure>
+
+
 ## 3.1.2 Business ownership
 
 Ownership means the legal structure a business adopts. The specification expects you to understand the structures and compare them on four issues: management and control, sources of finance, liability and distribution of profits. You are not expected to know the legal process of incorporation.
@@ -140,6 +176,12 @@ Liability is responsibility for a business's debts. With **unlimited liability**
 1. Shortfall: £64,000 − £25,000 = £39,000.
 2. If Northcrake were a sole trader, the owner is personally liable for the £39,000, so personal assets could be used.
 3. If it were a private limited company and a shareholder had invested £15,000, that shareholder loses the £15,000 invested but is not asked to pay the £39,000 from personal savings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
 
 ### Sole traders
 
@@ -191,6 +233,12 @@ A plc can sell shares to the public, usually through a stock market. The word pu
 - Profits: dividends paid to a very large number of shareholders, and shareholders expect returns.
 - Drawbacks: costly to run, more public scrutiny, and the business can be taken over.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+
 ### Not-for-profit organisations
 
 These exist mainly to benefit a cause or community rather than to pay profit to owners. Charities and many community groups are examples. Any surplus (income left after costs) is normally put back into the work, not shared out among owners.
@@ -210,6 +258,22 @@ The specification asks you to evaluate which structure is most appropriate for e
 3. Make a judgement and justify it. Say what would change your answer.
 
 **Example.** A new mobile dog-grooming start-up needs little capital and its founder wants control. A sole trader may be suitable, but unlimited liability matters if she buys a costly van on credit. A large established chain that wants to open fifty branches needs large amounts of capital, which points to a plc. If the owners also want to keep control, the cost of share issues and the risk of takeover count against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--01-profit-sharing.webp" width="900" height="920" alt="Two worked examples of sharing profit. A partnership with profit of 54,000 pounds split 60:40 gives 32,400 and 21,600 pounds. A private limited company paying 18,000 pounds on 30,000 shares pays 60p a share, so 12,000 shares receive 7,200 pounds." loading="lazy">
+  <figcaption>Profit is shared by agreed split in a partnership and by shares held in a company.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--06-ownership-compare.webp" width="900" height="928" alt="A table compares sole trader, partnership, private limited company, public limited company and not-for-profit on control, finance, liability and profits. Liability cells are colour-coded: unlimited, limited or depends." loading="lazy">
+  <figcaption>The five ownership forms compared on control, finance, liability and profits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership--07-choosing-a-structure.webp" width="900" height="970" alt="Three numbered steps: identify needs, weigh options, judge and justify. Two worked examples follow: a dog-grooming start-up pointing to a sole trader and a fifty-branch chain pointing to a plc, each with a warning." loading="lazy">
+  <figcaption>The evaluation method applied to a start-up and a large chain.</figcaption>
+</figure>
+
 
 ## Common errors
 

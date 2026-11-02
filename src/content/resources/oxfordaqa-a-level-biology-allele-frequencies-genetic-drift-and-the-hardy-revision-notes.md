@@ -40,6 +40,12 @@ These notes condense sections 3.3.7.1 and 3.3.7.2 of the OxfordAQA International
 - Advantage: more reliable high yield.
 - Disadvantage: little variation for selection to act on if conditions change, for example a new disease. More individuals may be susceptible at once. Breeding between relatives makes harmful homozygous recessive genotypes more likely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+
 ## Bottleneck versus drift
 
 | | Genetic bottleneck | Genetic drift |
@@ -50,6 +56,17 @@ These notes condense sections 3.3.7.1 and 3.3.7.2 of the OxfordAQA International
 | Linked to advantage? | No, survival is largely by chance | No |
 
 Link them in an answer: a bottleneck leaves a small population, and drift acts strongly in a small population, so rare alleles are easily lost and the recovered population is genetically uniform.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
 
 ## Hardy-Weinberg: conditions and results
 
@@ -74,6 +91,12 @@ If they hold, allele frequencies stay constant from generation to generation.
 | Frequency of aa type | q² |
 | Recessive phenotype (complete dominance) | q² |
 | Dominant phenotype (complete dominance) | p² + 2pq, or 1 − q² |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
 
 ## Method in steps
 

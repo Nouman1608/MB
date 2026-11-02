@@ -58,12 +58,29 @@ Worked reminder: a cyclist rides 27 km in 1 h 30 min. Speed = 27 ÷ 1.5 = 18 km/
 - 12:40 am is 00:40. 12:40 pm is 12:40.
 - To find an arrival time, add the hours and minutes separately and carry over 60 minutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+
 ### Method: converting units
 
 1. Note how many small lengths fit into the large one (for example, 100 cm in each metre).
 2. Square that number for area, or cube it for volume.
 3. Multiply when going to a smaller unit, divide when going to a larger unit.
 4. Check the size: a smaller unit gives a bigger number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
 
 ## G15: area and prisms
 
@@ -87,6 +104,22 @@ Worked reminder: a cyclist rides 27 km in 1 h 30 min. Speed = 27 ÷ 1.5 = 18 km/
 4. State units cubed.
 
 Worked reminder: a trapezium has parallel sides 5 and 11 and height 4. Area = ½ × 16 × 4 = 32. Used as the end of a prism 3.5 long, V = 32 × 3.5 = 112.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--05-area-formulas.webp" width="900" height="1350" alt="A gold triangle slides from one end of a parallelogram to make a rectangle, so A = bh. Two trapeziums make a parallelogram of base a+b, and two triangles make a parallelogram of base b, giving the half formulas." loading="lazy">
+  <figcaption>Each formula comes from rearranging or doubling the shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--06-perpendicular-height.webp" width="900" height="1130" alt="A parallelogram with base 12 cm, slant 7.5 cm and height 6 cm. Area is 12 x 6 = 72 cm squared using the perpendicular height; perimeter adds all four sides to give 39 cm." loading="lazy">
+  <figcaption>Use the perpendicular height for area and every side for perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--01-prism-volume.webp" width="900" height="740" alt="A triangular prism whose cross-section is a right-angled triangle with sides 6 cm, 8 cm and 10 cm. The triangle has area 24 square centimetres. The prism is 15 cm long, shown by an arrow along its length. Volume equals cross-section area times length, 24 times 15 equals 360 cubic centimetres." loading="lazy">
+  <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
+</figure>
+
 
 ## G16: circles and composite shapes
 
@@ -115,6 +148,22 @@ Worked reminder: a 10 cm square has a quarter-circle of radius 4 cm removed from
 
 Worked reminder: semicircle of radius 5. Perimeter = 5π + 10 = 25.7. Area = ½ × π × 25 = 12.5π = 39.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--04-composite-perimeter.webp" width="900" height="720" alt="A rectangle 12 cm by 7 cm has a semicircle of diameter 7 cm on one 7 cm side. The outside edges are the two 12 cm sides, the far 7 cm side and the arc 3.5 pi, giving a perimeter of about 42.0 cm. The 7 cm join is inside and is left out. The area is 84 plus 6.125 pi, about 103.2 square centimetres." loading="lazy">
+  <figcaption>Only the outside edges count towards the perimeter of a composite shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--01-circle-c-and-a-in-pi.webp" width="900" height="930" alt="A circle of radius 7.5 cm with its circumference drawn as a thick ring and its area shaded. Below, C = 2πr = 15π = 47.1 cm and A = πr² = 56.25π = 176.7 cm². A three-box strip reverses the problem: C = 30 gives r = 15/π, then A = 225/π = 71.6 cm²." loading="lazy">
+  <figcaption>Keep π in the working, then round once at the end; when given C, find r first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--02-square-minus-quarter-circle.webp" width="900" height="650" alt="A 16 cm square with a quarter-circle of radius 9 cm removed from one corner. Straight edges 16, 16, 7 and 7 add to 46 cm, the arc is 4.5π, giving perimeter 60.1 cm; area is 256 minus 20.25π = 192.4 cm²." loading="lazy">
+  <figcaption>The two cut 9 cm edges disappear and are replaced by a quarter-circle arc.</figcaption>
+</figure>
+
+
 ## Extension only: 3D solids
 
 | Solid | Volume | Surface area |
@@ -141,6 +190,22 @@ A frustum is a cone or pyramid with a smaller, similar cone or pyramid removed f
 Worked reminder: a cone of height 15 cm and radius 6 cm has a top cone of height 6 cm removed. Scale factor = 6 ÷ 15 = 0.4, so the top cone has radius 2.4 cm. Large volume = (1/3) × π × 36 × 15 = 180π. Small volume = (1/3) × π × 5.76 × 6 = 11.52π. Frustum = 168.48π = 529.3 cm³.
 
 Worked reminder: cone, radius 3 and height 4, so l = 5. Volume = (1/3) × π × 9 × 4 = 12π. Curved area = π × 3 × 5 = 15π. Total area = 15π + 9π = 24π.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--05-frustum-cone.webp" width="900" height="780" alt="A cone of radius 12 cm and height 20 cm has a cone of height 8 cm cut off its top. The scale factor is 0.4, so the small cone has radius 4.8 cm. The large cone has volume 960 pi and the small cone 61.44 pi, so the frustum has volume 898.56 pi, about 2822.9 cubic centimetres." loading="lazy">
+  <figcaption>Frustum volume is the large cone minus the small cone, found with the scale factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--03-pyramid-slant-height-ex15.webp" width="900" height="810" alt="A square-based pyramid (base 9 cm, height 10 cm) with the vertical height, half-base and slant height marked, and the same right-angled triangle drawn flat. s squared = 10 squared + 4.5 squared = 120.25 so s = 10.966 cm; four faces total 197.4 cm² and the surface area is 278.4 cm²." loading="lazy">
+  <figcaption>The slant height of a pyramid face is the hypotenuse of a right-angled triangle with the vertical height and half the base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--04-pyramid-frustum-ex18.webp" width="900" height="760" alt="Side view of a square-based pyramid with base 12 cm and height 18 cm, cut at 9 cm from the top. Bars show large 864, small 108 (one eighth of the large) and frustum 756 cm³." loading="lazy">
+  <figcaption>A frustum is the large pyramid minus the small one; the small one is one eighth of the volume at scale factor one half.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -29,6 +29,22 @@ These revision notes condense section S1.2 (Discrete random variables) of the Ox
 - The variance Var(X) = σ² measures spread about the mean. The standard deviation is σ = √Var(X).
 - Independent variables: knowing the value of one tells you nothing about the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--02-mean-balance-point.webp" width="900" height="820" alt="A bar chart of X = 0 to 4 with probabilities 0.10, 0.30, 0.35, 0.20, 0.05 balanced on a plank with the pivot at 1.8 = E(X). A gold band shows the mean plus and minus one standard deviation, 1.03. E(X^2) = 4.3 so Var(X) = 4.3 - 3.24 = 1.06." loading="lazy">
+  <figcaption>E(X) is where the distribution balances; Var(X) measures spread about it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--04-discrete-uniform.webp" width="900" height="770" alt="Ten equal bars of height 0.1 for X = 1 to 10. The mean 5.5 is at the centre and a gold band marks one standard deviation either side. For n = 10, E(X) = 5.5 and Var(X) = 99/12 = 8.25; a fair die (n = 6) has mean 3.5 and variance 35/12." loading="lazy">
+  <figcaption>Equal bars: the mean sits at the centre, (n + 1)/2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--09-binomial-mean-variance.webp" width="900" height="1170" alt="Three bar charts of B(20, p). For p = 0.2 the mean is 4 and the variance 3.2; for p = 0.5 the mean is 10 and the variance 5, the widest; for p = 0.8 the mean is 16 and the variance 3.2. A dashed line marks each mean and a gold band one standard deviation either side." loading="lazy">
+  <figcaption>Mean np and variance npq, and why the spread is greatest at p = 0.5.</figcaption>
+</figure>
+
+
 ## Formulae to learn
 
 The specification states that knowledge of these is expected.
@@ -85,6 +101,12 @@ E(W/10) = 2.1, Var(W/10) = 49/100 = 0.49
 ## Distributions given by a function
 
 Write the table out first. For P(X = x) = kx for x = 1, 2, 3, the probabilities are k, 2k, 3k, so 6k = 1 and k = 1/6. Then E(X) = (1 + 4 + 9)/6 = 7/3 and E(X²) = (1 + 8 + 27)/6 = 6, so Var(X) = 6 − 49/9 = 5/9. The same steps work for any rule on a finite list of values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--01-pmf-to-cdf.webp" width="900" height="1076" alt="Two bar charts for a variable with p(x) = (6 minus x)/14 for x = 1 to 4. The top chart shows p(x) as 5/14, 4/14, 3/14, 2/14 with x = 3 and 4 highlighted as P(X &gt; 2). The lower chart shows F(x) = 5/14, 9/14, 12/14, 1, and the gap from F(2) up to 1 equals 5/14, so P(X &gt; 2) = 1 - F(2)." loading="lazy">
+  <figcaption>How p(x) builds F(x), and why P(X &gt; 2) = 1 - F(2) = 5/14.</figcaption>
+</figure>
+
 
 ## Worked reminder: combining variables
 

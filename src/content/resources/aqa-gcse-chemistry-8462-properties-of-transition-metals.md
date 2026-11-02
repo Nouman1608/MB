@@ -114,6 +114,22 @@ A strong answer makes paired comparisons, one property at a time:
 
 Each point names both metals or uses a comparative word. "Nickel is hard" alone does not compare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--06-tm-data-bars.webp" width="900" height="1136" alt="Two bar charts compare Li, Na, K with Cr, Mn, Fe, Co, Ni, Cu. Melting points: Group 1 all below 200 degrees Celsius, transition metals all above 1000. Densities: Group 1 below 1 g/cm3 (water), transition metals 7 to 9. Fe melts 1440 degrees higher than Na and is about 8 times as dense." loading="lazy">
+  <figcaption>Transition metals have much higher melting points and densities than Group 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--07-tm-reactivity-compare.webp" width="900" height="835" alt="A grid compares sodium with iron and copper. Oxygen: sodium tarnishes in seconds; copper needs heating and makes black CuO. Water: sodium fizzes and releases hydrogen; copper does not react. Chlorine: sodium burns with a bright yellow flame; hot iron glows. Reactivity meters are full for Group 1 and low for transition metals." loading="lazy">
+  <figcaption>Transition metals are much less reactive than Group 1 metals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+
 ## 4.1.3.2 Typical properties of transition metals
 
 The specification gives three typical properties. Many (not necessarily all) transition elements:
@@ -136,6 +152,17 @@ A Group 1 metal always forms a 1+ ion (Na⁺, K⁺). A transition metal can ofte
 | Cobalt | Co²⁺ and Co³⁺ | cobalt(II) chloride CoCl₂ |
 
 Manganese also shows different charges: it is Mn²⁺ in manganese(II) compounds, and manganese(IV) oxide is MnO₂.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--08-tm-ion-charges-formulae.webp" width="900" height="920" alt="Sodium forms only 1+, whereas Fe, Cu, Cr and Co each have two ion charges shown by the Roman numeral. Iron(II) chloride is one Fe2+ with two Cl-, so FeCl2. Iron(III) oxide is two Fe3+ (6+) with three O2- (6-), so Fe2O3." loading="lazy">
+  <figcaption>The Roman numeral gives the ion charge, and the charges must cancel in the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
 
 ### Worked example 3: writing formulae from Roman numerals
 
@@ -172,6 +199,17 @@ CuSO₄ + 2NaOH → Cu(OH)₂ + Na₂SO₄
 
 See the [Chemical analysis study guide](/resources/aqa-gcse-chemistry-8462-chemical-analysis/) for the full set of ion tests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--09-tm-coloured-compounds.webp" width="900" height="920" alt="Test tubes show nine transition-metal compounds from the lesson (copper(II) sulfate blue, copper(II) carbonate green, iron(II) pale green, iron(III) orange-brown, chromium(III) oxide green, potassium dichromate orange, potassium manganate(VII) purple, cobalt(II) chloride pink, nickel(II) sulfate blue-green) next to colourless sodium chloride." loading="lazy">
+  <figcaption>Transition-metal compounds are usually coloured; Group 1 compounds are not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+
 ### Catalysts
 
 A catalyst changes the rate of a reaction but is not used up. Many transition metals and their compounds are useful catalysts. Two examples you should know:
@@ -182,6 +220,12 @@ A catalyst changes the rate of a reaction but is not used up. Many transition me
 Other examples you may meet: nickel is used to add hydrogen to vegetable oils, and copper(II) sulfate speeds up the reaction between zinc and dilute acid. The specification says you do not need to know catalyst names other than those it specifies, so iron in the Haber process is the one to have ready.
 
 You can spot a catalyst in an equation or method because it is **not in the chemical equation**: it is written over the arrow or listed as a condition. In experiments, it speeds up the reaction and the same mass is left at the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--10-tm-catalyst-data.webp" width="900" height="700" alt="A bar chart of oxygen made in 50 s: none 6 cm3, oxide A 48, oxide B 30, oxide C 6, with 0.5 g of solid left each time. A and B speed the reaction up and are not used up, so they are catalysts; C is not. Mean rate with A is 48 / 50 = 0.96 cm3/s." loading="lazy">
+  <figcaption>A catalyst speeds up a reaction and is not used up.</figcaption>
+</figure>
+
 
 ### Worked example 4: identifying a catalyst from data
 

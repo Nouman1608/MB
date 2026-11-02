@@ -83,6 +83,22 @@ Net migration is immigration minus emigration. Emigration of skilled workers (br
 
 **Worked example.** Country F has 12,000 engineers and 1,500 emigrate in a year, a loss of 12.5%. Remittances are 1.2bn in a 30bn economy, 4% of GDP. The net effect depends on whether remittance income and returning skills exceed the lost output and the training cost. Evaluate with the share of skilled leavers, whether the jobs existed at home anyway, and whether remittances are spent on consumption or on investment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--09-dependency-ratio.webp" width="900" height="1020" alt="Country A has 14, 24 and 2 million in the three age bands (ratio 66.7%, mostly youth); Country B has 6, 21 and 9 million (ratio 71.4%, mostly old age)." loading="lazy">
+  <figcaption>Similar dependency ratios can hide very different burdens: youth costs v ageing costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--10-population-growth-per-person.webp" width="900" height="910" alt="Natural increase 2.3% less 0.3% net emigration gives 2.0% population growth; of 3.5% GDP growth about 2.0 is absorbed by extra people, leaving about 1.47% per person; doubling time 35 years." loading="lazy">
+  <figcaption>Population growth absorbs much of GDP growth, leaving less per person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--04-brain-drain-remittances.webp" width="900" height="830" alt="Icons for 12,000 engineers with 1,500 emigrating (12.5%) and a bar showing remittances of 1.2bn as 4% of 30bn GDP. 1 icon = 500; 24 icons, 3 leave; 1.2/30=4%." loading="lazy">
+  <figcaption>Brain drain removes 12.5% of engineers while remittances add 4% of GDP.</figcaption>
+</figure>
+
+
 ## Debt
 
 ### Overseas debt
@@ -102,6 +118,22 @@ Money spent on debt service is not spent on schools, roads or health, which is t
 
 Household debt matters through spending and stability. A household with debt of 26,000 and income of 20,000 has a debt-to-income ratio of 130%. If the interest rate on that debt rises from 5% to 8%, interest rises from 1,300 to 2,080, an extra 780, or 3.9% of income. Spending on goods falls, firms' sales fall and growth slows. Poor households may also borrow at very high rates just to cover food, which keeps them from saving or investing in education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--11-credit-bank-vs-informal.webp" width="900" height="960" alt="A pump costing 600 earns 150 a year: with an 18% bank loan interest is 108 and net gain 42; with 10% a month (213.8% a year) interest is about 1,283 and the net loss about 1,133." loading="lazy">
+  <figcaption>Unaffordable informal credit stops profitable investments from being made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--13-overseas-debt-burden.webp" width="900" height="960" alt="Debt 9.6bn dollars is 40% of GNI; debt service 0.9bn is 15% of exports; a currency fall from 10 to 12.5 per dollar lifts local-currency debt from 96bn to 120bn (+25%)." loading="lazy">
+  <figcaption>Debt service ratio and exchange-rate falls show when borrowing becomes a constraint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--05-household-debt-interest.webp" width="900" height="910" alt="Bars compare income 20,000 with debt 26,000 (130%) and interest of 1,300 at 5% against 2,080 at 8%. 26,000/20,000=130%; 1,300; 2,080; extra 780 = 3.9% of income." loading="lazy">
+  <figcaption>Higher interest on household debt takes an extra 3.9% of income.</figcaption>
+</figure>
+
+
 ## Access to credit and banking
 
 Banks and other financial institutions pool saving and lend it to those with productive plans. Where few people have bank accounts, saving is hoarded as cash or goods and lending is informal.
@@ -120,6 +152,12 @@ Infrastructure includes roads, ports, electricity, water, telecoms and internet.
 **Worked example.** A crop is worth 100 at the farm. Poor roads mean 30% spoils before market, so 70 reaches buyers. After a road upgrade only 10% spoils, so 90 arrives, a gain of 20 or 28.6% more produce delivered from the same effort.
 
 Poor infrastructure raises costs, cuts competitiveness, and deters foreign direct investment. Frequent power cuts leave machines idle, or force firms to buy generators. Building it is expensive and slow, which is why the constraint can last for decades.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--06-value-lost-before-use.webp" width="900" height="830" alt="Equal-scale bars show crop spoiled on poor roads, budget lost to leakage and profit lost to a bribe. 70 or 90 of 100 arrives (+28.6%); 80 budget leaks 20% so 64, 32 km v 40 km; profit 100 to 25 after a 75 bribe." loading="lazy">
+  <figcaption>Poor roads, leakage and bribes each cut the value that reaches users.</figcaption>
+</figure>
+
 
 ## Education and skills
 
@@ -159,6 +197,17 @@ Terrorism raises security costs, deters tourists and investors, and increases un
 
 **Worked example.** Tourist arrivals fall from 800,000 to 600,000 (down 25%). At 900 per visitor the direct loss is 180m. With a multiplier of 1.6 (marginal propensity to withdraw 0.625) the fall in income is 288m. Security spending rising from 2% to 5% of a 50bn GDP diverts 1.5bn from other uses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--12-civil-war-output-gap.webp" width="900" height="920" alt="A real GDP index falls 8, 15, 10, 6 and 4 percent over five years to 63.5, against 115.9 on a 3% trend: a gap of 52.4, 45.2% of potential." loading="lazy">
+  <figcaption>War leaves output far below trend and the gap persists after the fighting stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--07-terrorism-tourism-multiplier.webp" width="900" height="820" alt="Arrivals fall 25%, a direct loss of 180m grows to 288m with a multiplier of 1.6; security spending diverts 1.5bn. 200,000 x 900=180m; 1/0.625=1.6; 180x1.6=288m; (5%-2%) of 50bn=1.5bn." loading="lazy">
+  <figcaption>Fewer tourists cut spending by 180m, and the multiplier raises the fall in income to 288m.</figcaption>
+</figure>
+
+
 ## Linking the constraints
 
 Constraints reinforce one another. Low income gives low saving, little investment and poor infrastructure, then low productivity and low income again. Corruption can weaken banks; war drives migration; debt cuts spending on schools.
@@ -168,6 +217,12 @@ Evaluation points to use:
 - Cause or consequence? Low income may be both.
 - Time scale: war damage can fade faster than weak education.
 - Evidence: governance and corruption are hard to measure, and rankings rely on perceptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--08-constraints-feed-each-other.webp" width="900" height="1120" alt="A loop from low income to low saving, little investment and poor infrastructure, low productivity and back, with three cross-links. Loop and links as stated in the lesson paragraph." loading="lazy">
+  <figcaption>Constraints reinforce one another in a loop and link to each other.</figcaption>
+</figure>
+
 
 ## Common errors
 

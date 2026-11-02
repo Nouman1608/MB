@@ -36,6 +36,12 @@ Links: [9202 chemistry hub](/boards/oxfordaqa/igcse/chemistry/) · [topic checkl
 
 **Recognition rule:** you must recognise any alcohol, carboxylic acid or ester from its name or formula, even ones you are not asked to name. Butanol is still an alcohol; methyl propanoate is still an ester.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+
 ## Formulae to know
 
 | Compound | Structural formula | Mr (H = 1, C = 12, O = 16) |
@@ -85,6 +91,27 @@ H - C - C - C - O - H
 
 **With sodium:** 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂. Two moles of alcohol (or sodium) give one mole of hydrogen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions--01-first-three-alcohols.webp" width="900" height="1180" alt="Displayed formulae of methanol, ethanol and propanol with the -OH group highlighted. Each has four bonds per carbon, two per oxygen and one per hydrogen. Each member adds one CH2." loading="lazy">
+  <figcaption>Methanol, ethanol and propanol share the -OH group and differ by CH2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions--05-alcohol-sodium-hydrogen.webp" width="900" height="860" alt="Sodium fizzes in an alcohol, shrinks and disappears, giving hydrogen. Hydrogen collected in an upturned tube gives a squeaky pop with a lighted splint. 2CH3OH + 2Na gives 2CH3ONa + H2." loading="lazy">
+  <figcaption>Alcohols react with sodium to give hydrogen, confirmed by the squeaky pop test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--03-ethanol-combustion.webp" width="900" height="950" alt="Ball models show one ethanol molecule and three oxygen molecules turning into two carbon dioxide and three water molecules, releasing heat. Both sides contain 2 carbon, 6 hydrogen and 7 oxygen atoms. Ethanol is used as a fuel and as a solvent." loading="lazy">
+  <figcaption>Burning ethanol makes carbon dioxide and water and releases heat; ethanol is a fuel and a solvent.</figcaption>
+</figure>
+
+
 ## Oxidation of ethanol (3.10.3.1 c)
 
 Ethanol → **ethanoic acid**, by either:
@@ -93,6 +120,17 @@ Ethanol → **ethanoic acid**, by either:
 - **microbial action** using oxygen from the air (why opened wine turns sour).
 
 Ethanoic acid is the main acid in **vinegar**. Overall: C₂H₅OH + O₂ → CH₃COOH + H₂O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions--08-ethanol-oxidation-dichromate.webp" width="900" height="850" alt="Acidified potassium dichromate with ethanol turns from orange to green on warming as ethanoic acid forms. Oxidation keeps the two carbons; combustion gives CO2 and H2O." loading="lazy">
+  <figcaption>Ethanol is oxidised to ethanoic acid; dichromate turns orange to green.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
 
 ## Carboxylic acids (3.10.3.2 b)
 
@@ -124,6 +162,22 @@ Examples:
 - **Strong** acids (hydrochloric, nitric, sulfuric) ionise completely.
 - Same concentration → weak acid gives **fewer H⁺ ions** → **higher pH**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions--07-carboxylic-acids-displayed.webp" width="900" height="1036" alt="Displayed formulae of methanoic (1 C), ethanoic (2 C) and propanoic (3 C) acid with the -COOH group highlighted." loading="lazy">
+  <figcaption>The first three carboxylic acids with the carboxyl group highlighted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
+  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
+
 ## Esters (3.10.3.3)
 
 ```
@@ -145,6 +199,17 @@ H - C - C - O - C - C - H
 - Properties: **volatile** (evaporate easily), **distinctive smells**.
 - Uses: **flavourings** and **perfumes**.
 - The reaction is reversible, so you never get the full calculated mass of ester.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions--02-acid-or-ester-isomers.webp" width="900" height="860" alt="Propanoic acid and methyl ethanoate drawn as displayed formulae; both are C3H6O2. The COOH group ends the acid; in the ester a carbon sits on both sides of COO." loading="lazy">
+  <figcaption>Same molecular formula, different functional group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions--06-mole-chains-alcohol-acid-ester.webp" width="900" height="940" alt="Three chains: 0.69 g Na to 0.36 dm3 H2; 6.9 g ethanol to 9.0 g ethanoic acid; 9.0 g ethanoic acid to a maximum 13.2 g ethyl ethanoate." loading="lazy">
+  <figcaption>Three worked mole calculations drawn as mass-moles-ratio chains.</figcaption>
+</figure>
+
 
 ## How the three families link
 

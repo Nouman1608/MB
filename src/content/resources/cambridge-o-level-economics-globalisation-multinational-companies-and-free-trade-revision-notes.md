@@ -42,6 +42,12 @@ These notes condense sections 6.2.1 to 6.2.3 of the Cambridge O Level Economics 
 
 **Method: trade openness.** Add exports and imports, divide by GDP, multiply by 100. Example: exports 18, imports 22, GDP 160 gives 40 / 160 × 100 = **25%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--01-trade-openness.webp" width="900" height="780" alt="Two panels compare Country C in Year 1 and Year 8. Each shows a GDP bar beside a stacked exports and imports bar. Openness is (30 + 36) / 220 = 30.0% in Year 1 and (48 + 54) / 240 = 42.5% in Year 8, a rise of 12.5 percentage points." loading="lazy">
+  <figcaption>Trade openness rises from 30.0% to 42.5% as exports plus imports grow faster than GDP.</figcaption>
+</figure>
+
+
 ## 6.2.2 MNCs: costs and benefits
 
 | | Benefits | Costs |
@@ -73,6 +79,12 @@ These notes condense sections 6.2.1 to 6.2.3 of the Cambridge O Level Economics 
 - Is there pollution or use of scarce resources?
 - Would the MNC leave easily?
 - Conclusion: it depends on these factors, so decide which matters most and say why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--02-mnc-host-home.webp" width="900" height="810" alt="A home country with the headquarters and a host country with the factory, linked by arrows for capital, technology and skills going out and 16.8 million of profit coming home. Under each country are three benefits and three costs from the lesson tables." loading="lazy">
+  <figcaption>An MNC brings benefits and costs to both its host and its home country.</figcaption>
+</figure>
+
 
 ## 6.2.3 Benefits of free trade
 
@@ -111,6 +123,22 @@ Always finish with a sentence on who gains (consumers) and who loses (home produ
 | Developing | Export earnings from primary or simple goods; imports of machinery |
 
 **Limits to mention in evaluation.** Free trade has losers, such as home producers who cannot compete, and workers may need retraining. Falling demand abroad hurts export industries. A country that depends on a few exports is exposed. The benefits are spread unevenly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--05-free-trade-world-price.webp" width="900" height="900" alt="Home demand and supply for bicycles meet at price 300 and 400 bicycles. At the world price of 200, consumers buy 600, home firms make 200 and 400 are imported." loading="lazy">
+  <figcaption>Free trade cuts the price from 300 to 200, so consumers buy more but home output halves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--03-fixed-cost-scale.webp" width="900" height="820" alt="Average cost per unit falls as output rises because the fixed cost of 400,000 is spread over more units. At 50,000 units it is 8 + 4 = 12 and at 200,000 units it is 2 + 4 = 6, a fall of 50%." loading="lazy">
+  <figcaption>Exporting raises output, so the fixed cost is spread thinly and average cost halves from 12 to 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--04-free-trade-countries.webp" width="900" height="800" alt="A three-step chain shows how specialisation raises output from the same resources and brings growth and export jobs. Three cards show the gain for a large rich, a small and a developing country, and the shared risk that foreign demand may fall." loading="lazy">
+  <figcaption>Free trade helps the whole economy and each kind of country in a different way, but carries risk.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -155,6 +183,12 @@ Always finish with a sentence on who gains (consumers) and who loses (home produ
 - Forgetting the chain: lower price, then more quantity demanded, then higher consumer surplus or real income.
 - Giving only benefits in an evaluation question.
 - Leaving out the percentage sign, or dividing by the wrong base in a percentage change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade--06-mnc-money-host-country.webp" width="900" height="780" alt="One bar of 47 million a year is split into wages, tax, local purchases, kept profit and profit sent home. The first four, 30.2 million, stay in the host economy and 16.8 million goes to the home country." loading="lazy">
+  <figcaption>Most of an MNC's spending stays in the host country, but the profit sent home is lost income to the host.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

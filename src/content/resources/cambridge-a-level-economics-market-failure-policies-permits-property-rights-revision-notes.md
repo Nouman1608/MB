@@ -52,6 +52,17 @@ Strengths: cap fixes total pollution, cheapest cuts happen first, firms keep cut
 
 Weaknesses: regulator must set the cap without full information, price instability, free allocation favours existing firms, hot spots, hoarding, monitoring cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--01-permit-trading.webp" width="900" height="1100" alt="Three factories each emit 120 tonnes under a cap of 240. Without trading each cuts 40 tonnes for a total cost of 3,600. With trading C cuts 100 (1,000), B cuts 20 (600) and A none, total 1,600. C sells 60 permits at 30 to A (40) and B (20). The saving is 2,000." loading="lazy">
+  <figcaption>Worked example: trading moves the cuts to the cheapest factory and saves 2,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--10-un147-permit-price-swings.webp" width="900" height="970" alt="A vertical permit supply at the 240 tonne cap meets demand D1 at a price of 30. Illustrative shifts give 50 or 10." loading="lazy">
+  <figcaption>The cap fixes quantity, so the permit price swings with demand.</figcaption>
+</figure>
+
+
 ## Property rights
 
 Method: identify the missing right, say who should hold it, show how ownership makes the owner bear the cost of overuse.
@@ -63,6 +74,17 @@ Rule of thumb: open access stops where revenue per unit of input equals cost. Ef
 Other uses: patents and copyright reward invention. Rights can support bargaining, as long as bargaining costs are low and parties are few.
 
 Limits: hard to define for moving resources, costly to enforce, unequal initial allocation, rights over ideas can create monopoly power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--02-open-access-woodcutters.webp" width="900" height="1230" alt="Average revenue per woodcutter falls from 60 to 40 and marginal revenue from 60 to 20 against a cost of 40. Open access ends with 6 woodcutters and net revenue zero; 3 woodcutters give the highest net revenue of 36." loading="lazy">
+  <figcaption>Open access lets 6 woodcutters in; the efficient number is 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--11-un147-patent-incentive.webp" width="900" height="890" alt="Without protection rivals copy an idea and the firm earns no return; with a patent or copyright only the owner sells and earns a return, at the cost of monopoly power and higher prices." loading="lazy">
+  <figcaption>Patents and copyright reward research but create monopoly power.</figcaption>
+</figure>
+
 
 ## Nationalisation and privatisation
 
@@ -76,6 +98,12 @@ Limits: hard to define for moving resources, costly to enforce, unequal initial 
 
 Key point: competition and market structure matter at least as much as who owns the firm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--03-privatise-natural-monopoly.webp" width="900" height="1040" alt="Demand P = 100 - Q, marginal cost 20, fixed cost 600. A private monopoly produces 40 at 60 with profit 1,000 and a lost-surplus triangle of 800. A state firm at P = MC produces 80 at 20 but loses 600." loading="lazy">
+  <figcaption>Worked example: privatising without competition cuts output from 80 to 40 and loses 800 of surplus.</figcaption>
+</figure>
+
+
 ## Provision of information
 
 Link to failure: consumers lack information or misjudge it, so private benefit differs from true benefit.
@@ -85,6 +113,17 @@ Effect: for a demerit good, information shifts demand left; for a merit good, it
 Evaluation prompts: cost, speed, freedom of choice, ignored by addicted or short-sighted consumers, effects fade, no help against third-party harm.
 
 **Cost-effectiveness reminder.** Cost divided by units of consumption avoided. Campaign costing 2,000,000 that avoids 30,000 units costs 66.67 per unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--12-un147-info-cost-per-unit.webp" width="900" height="880" alt="A campaign costing 2,000,000 avoids 30,000 units (66.67 each); a label costing 900,000 avoids 12,000 (75 each)." loading="lazy">
+  <figcaption>Worked example: the campaign is cheaper per unit avoided.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## Behavioural insights and nudge theory
 
@@ -100,6 +139,12 @@ Evaluation prompts: cost, speed, freedom of choice, ignored by addicted or short
 
 Strengths: low cost, keeps choice, can be tested. Limits: effect size, durability, little force against large externalities, ethical worries about manipulation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--04-pension-default-nudge.webp" width="900" height="850" alt="Of 2,000 workers 800 (40 percent) join when they must opt in and 1,700 (85 percent) stay in under automatic enrolment: 900 more members, 45 percentage points, 112.5 percent more, worth 648,000 a year." loading="lazy">
+  <figcaption>Worked example: automatic enrolment lifts membership from 800 to 1,700.</figcaption>
+</figure>
+
+
 ## Government failure
 
 Causes, each with a short link to a policy:
@@ -114,6 +159,12 @@ Consequences: net welfare loss, higher costs for taxpayers, weaker incentives to
 **Reminder example.** MAC = 4q, MSB = 120 - 2q. Efficient cut 20 (net benefit 1,200). Ordering 30 gives net benefit 900, a welfare loss of 300. Ordering 12 gives 1,008, a loss of 192.
 
 Evaluation rule: weigh the policy error against the original market failure. A badly aimed policy can still beat doing nothing if the market failure is large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--05-government-failure-wrong-cut.webp" width="900" height="870" alt="MAC 4q and MSB 120 - 2q meet at q = 20 with net benefit 1,200. Ordering 30 gives 900 (loss 300) and ordering 12 gives 1,008 (loss 192)." loading="lazy">
+  <figcaption>Worked example: a regulator that misjudges the cut loses welfare in either direction.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 

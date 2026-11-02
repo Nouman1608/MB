@@ -75,6 +75,12 @@ These notes condense section 5.3 (Oscillations) of the OCR Advanced GCE in Physi
 - a-x: a line through the origin, sloping down, with gradient −ω².
 - v-x: an ellipse, with intercepts ±A on the x axis and ±ωA on the v axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
+
 ## Energy (5.3.2)
 
 - At x = 0: Ek is maximum (equal to E) and Ep is a minimum.
@@ -84,6 +90,12 @@ These notes condense section 5.3 (Oscillations) of the OCR Advanced GCE in Physi
 - In time, Ek and Ep each vary at twice the oscillation frequency.
 - With damping, the total-energy line would fall with time.
 - Type of potential energy: elastic for a spring, gravitational for a pendulum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
 
 ## Method in steps: timing an oscillation (5.3.1(c)(ii), PAG10)
 
@@ -105,6 +117,12 @@ These notes condense section 5.3 (Oscillations) of the OCR Advanced GCE in Physi
 - Energy lost per cycle is a fraction of the energy at the start of that cycle, and energy is proportional to A².
 - Damping reduces the amplitude at resonance and widens the peak. The peak moves to slightly lower frequency.
 - Critical damping is used where a quick settle matters, such as a car suspension, a door closer or the needle of a meter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--08-damping-resonance.webp" width="900" height="1110" alt="Top: displacement against time for light, critical and heavy damping, with a dashed envelope on the light-damping curve. Bottom: amplitude of a forced oscillation against driving frequency over natural frequency; light damping gives a tall sharp peak near f0 and heavy damping a lower, broader peak at slightly lower frequency." loading="lazy">
+  <figcaption>Damping removes energy; resonance is largest when the driving frequency matches the natural frequency, and damping flattens it.</figcaption>
+</figure>
+
 
 ## Resonance graph (5.3.3(c) to (e))
 
@@ -166,6 +184,12 @@ The driving force has a frequency that you can change. When it matches the natur
 10. ω = 2π × 2.0 = 12.57 rad s⁻¹. k = mω² = 0.50 × 157.9 = 79 N m⁻¹.
 11. The frequency of the driver is equal to the natural frequency of the oscillating system.
 12. It reduces the percentage uncertainty from reaction time in the period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

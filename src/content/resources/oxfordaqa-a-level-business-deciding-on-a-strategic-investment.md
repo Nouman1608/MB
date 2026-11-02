@@ -105,6 +105,17 @@ An expected value is a weighted average: Option B will actually earn £180,000 o
 
 Trees are most useful when probabilities rest on reliable past data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
+
 ## 2. The meaning and significance of investment
 
 **Investment** means spending money now on assets, such as machinery, buildings, vehicles, technology or research, in the hope of earning greater returns in the future. A **strategic investment** is large and long term and shapes the direction of the whole business, such as a new factory.
@@ -197,6 +208,17 @@ NPV = 269,661 - 222,000 = £47,661
 | NPV | Allows for the time value of money | Result depends on the discount rate chosen |
 
 All three rely on forecast cash flows, which grow less reliable further ahead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--06-payback-period.webp" width="900" height="940" alt="Cumulative cash flow columns for years 0 to 5 cross zero halfway through year 4: 36,000 short at the end of year 3 and 72,000 arriving in year 4 gives 3 years 6 months." loading="lazy">
+  <figcaption>Payback is when cumulative cash flow reaches zero: here 3 years 6 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
 
 ## 4. Factors influencing investment decisions
 

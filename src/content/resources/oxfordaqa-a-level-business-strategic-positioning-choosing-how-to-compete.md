@@ -38,6 +38,12 @@ Shorter recap: [revision notes](/resources/oxfordaqa-a-level-business-strategic-
 
 **Exam route.** All of 3.4 is examined in Unit 4: Business strategy, a written exam of 1 hour 45 minutes worth 80 marks and 30% of the International A-level. It has two compulsory sections, each built on one case study with five short answer and extended response questions worth 40 marks. Because the specification builds in some synoptic assessment, answers here can call on AS positioning (3.1.2.3), [SWOT analysis](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis/) and [Porter's five forces](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment/). At AS, positioning was a marketing decision; here it is a long-term choice for the whole business that shapes every function.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+
 ## 1. Market mapping: purpose and value
 
 A **market map** (also called a perceptual map or positioning map) plots the brands or businesses in a market against two features that matter to customers, such as price and quality. Positions come from customer research or managers' judgement.
@@ -87,6 +93,12 @@ Council pool      6 ÷ 5.2 = £1.15 per point
 | Highlights gaps and close rivals | A gap may exist because there is no demand, or no profitable way to serve it |
 | Based on customer views, if built from research | Perceptions vary by segment and change over time |
 | Helps plan positioning and repositioning | If based on managers' opinion, it may reflect bias, not customers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
 
 ## 2. Choosing a strategic position: benefits and price
 
@@ -144,6 +156,12 @@ Differentiated option keeps its price but loses 5% of sales:
 ```
 
 **Judgement.** The low cost option makes more profit in the base case, but its low contribution per bike (£260 against £490) leaves it badly exposed to price cuts. The better choice depends on whether Larchpoint really can produce more cheaply than rivals and how price-sensitive e-bike buyers are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
+  <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
 
 ## 4. Influences on the choice of positioning strategy
 
@@ -209,6 +227,12 @@ Fall = 102,000 − 35,100 = £66,900
 ## Next steps
 
 For quick recall use the [revision notes](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-revision-notes/), apply them in the [practice questions](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-practice/), and use [OxfordAQA A-level Business exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/) for case study technique. For AS positioning, see the [AS marketing guide](/resources/a-level-oxfordaqa-business-marketing/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

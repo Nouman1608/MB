@@ -77,6 +77,17 @@ Windlow Pottery sells hand-made mugs and bowls from one shop. Monthly sales reve
 
 The website raises monthly profit, but by much less than the 45% rise in revenue suggests. The shop lost £1,500, so the gain is £8,100, not £9,600: sales moved across.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--11-website-shift.webp" width="900" height="980" alt="Monthly sales rise from 18,000 to 26,100 pounds, up 45%, but 1,500 moved from the shop to the website. Extra gross profit of 4,860 less 3,300 of costs leaves 1,560 more profit a month." loading="lazy">
+  <figcaption>Revenue rose 45% but profit rose by far less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ### Digital communication with stakeholders
 
 Stakeholders are the groups with an interest in a business: owners, employees, customers, suppliers, lenders, the local community. Digital communication means using electronic channels to share information with them. The specification expects you to know relevant examples, such as email and video conferencing.
@@ -97,6 +108,22 @@ Elmswick Candles makes four trips a month to meet a wax supplier, at £85 per tr
 3. Annual saving = 311 × 12 = £3,732.
 
 The saving is real, but the owner should also weigh the loss of face-to-face contact with a key supplier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--02-video-meetings-saving.webp" width="900" height="846" alt="Four trips at 85 pounds make 340 pounds of travel a month. Video software costs 29 pounds, leaving 311 pounds saved a month, or 3,732 pounds a year." loading="lazy">
+  <figcaption>Video meetings save 311 pounds a month, but face-to-face contact is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--03-email-or-video.webp" width="900" height="860" alt="Email is cheap, fast and leaves a record but can go unread and tone is misjudged; it suits telling 200 customers a closure date. Video calls save travel and let people see faces and share files but need good internet and are less personal; they suit tense talks with an overseas supplier." loading="lazy">
+  <figcaption>Choose the method to fit the stakeholder and the message.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
 
 ## 3.2.2 Ethical and environmental considerations
 
@@ -138,6 +165,12 @@ Drayton Loaf Co. bakes and sells 5,000 loaves a month at £2.50. Flour costs £0
 
 Judgement: a 20% fall in profit is large, but about 5% more sales would repay it. The decision depends on whether customers will notice and care.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--12-fair-price-profit.webp" width="900" height="880" alt="Profit falls from 1,500 to 1,200 pounds a month when flour rises from 0.40 to 0.46 a loaf, a fall of 20%. With 1.14 contribution per loaf, 264 extra loaves, about 5.3% more, restores the 300." loading="lazy">
+  <figcaption>A 20% profit fall can be recovered with about 5% more sales.</figcaption>
+</figure>
+
+
 ### Environmental considerations
 
 The specification says you should understand how society and consumers expect greater environmental responsibility in businesses' decision-making, and the costs and benefits of behaving this way. The named areas are below.
@@ -161,6 +194,12 @@ Vessmore Print Works spends £48,000 a year on paper. Recycled paper costs 12% m
 
 The net cost is modest. If it wins a contract with a customer who requires recycled stock, the decision is easy to justify.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--13-recycled-paper.webp" width="900" height="860" alt="Recycled paper adds 5,760 pounds a year; sorting offcuts saves 1,900, so the net extra cost is 3,860, which is 6.2% of annual profit of 62,000." loading="lazy">
+  <figcaption>The net cost of recycled paper is a small share of profit.</figcaption>
+</figure>
+
+
 ### Sustainability
 
 The specification gives no definition. In the usual textbook sense, sustainability means a business operates so that today's demand is served without leaving later generations short of what they will need. For business, it means using resources and operating in ways that can continue over time. The specification names two ideas.
@@ -178,6 +217,27 @@ Rushvale Tiles considers fitting solar panels to its factory roof for £30,000. 
 3. Net gain over their life = 75,000 - 30,000 = £45,000.
 
 Profit falls in the year of purchase if paid from cash, but emissions and later costs fall. The owner must be confident the panels will last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--14-solar-payback.webp" width="900" height="910" alt="Cumulative cash starts at minus 30 thousand pounds and rises 7.5 thousand a year, crossing zero at 4 years and reaching plus 45 thousand at year 10." loading="lazy">
+  <figcaption>Panels pay back in 4.0 years and gain 45,000 over their 10-year life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
 
 ## How to write an analysis or evaluation answer
 

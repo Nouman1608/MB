@@ -32,6 +32,17 @@ These notes condense point c) of section 2.1.1, low unemployment, from the Pears
 | Economically inactive | Of working age but not working and not passing the ILO test, such as full-time students and carers |
 | Unemployment rate | Number unemployed, divided by the labour force, then multiplied by 100 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--09-unemployment-rate-ilo.webp" width="900" height="970" alt="Year 1 and Year 2 bars split 26,000 thousand working-age people into employed, unemployed and inactive. The labour force is 20,000 in both years, giving rates of 7% and 8.75%: the number rose 25% but the rate rose 1.75 percentage points." loading="lazy">
+  <figcaption>Calculating the unemployment rate from the labour force, not the working-age population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--04-ilo-three-part-test.webp" width="900" height="980" alt="A three-question test: no paid work, available within two weeks, looked in the last four weeks. A no at any step leads to employed or economically inactive; three yes answers mean unemployed." loading="lazy">
+  <figcaption>The ILO test as a decision path.</figcaption>
+</figure>
+
+
 ## Formulas and method
 
 | Task | Method |
@@ -87,6 +98,22 @@ Must-know distinctions:
 
 A ski village (illustrative) has a labour force of 2,500. Unemployed: 450 in May, 100 in January. Rates: 450 ÷ 2,500 × 100 = 18% and 100 ÷ 2,500 × 100 = 4%. The gap is 14 percentage points. Because it repeats each year, it is seasonal, and a fall from May to January is not a sign of recovery.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--10-seasonal-resort.webp" width="900" height="880" alt="Bar chart of a resort with labour force 4,000: January 13%, April 6%, July 2%, October 5%, average 6.5%. The 11-point gap repeats each year so it is seasonal." loading="lazy">
+  <figcaption>A seasonal unemployment pattern repeats yearly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--05-classify-the-case.webp" width="900" height="960" alt="Five short cases each point to a type: bank clerk structural, farm picker seasonal, accountant voluntary (partly frictional), shop assistant cyclical, graduate frictional." loading="lazy">
+  <figcaption>Matching each case to its type of unemployment, including voluntary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## Consequences: cause, effect, next effect
 
 | Impact | Chain |
@@ -106,9 +133,21 @@ Benefit 5,200, lost income tax 2,800, lost sales tax 600 per person.
 Cost per person = 5,200 + 2,800 + 600 = 8,600.
 For 60,000 people: 60,000 × 8,600 = **516 million**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--11-cost-of-unemployment-to-government.webp" width="900" height="990" alt="Employed worker pays 3,000 income tax and 1,360 sales tax; unemployed receives 6,000 benefit and pays 600 sales tax. Cost to government 6,000 + 3,000 + 760 = 9,760 per person, 488 million for 50,000 people (300 million benefits, 188 million lost tax)." loading="lazy">
+  <figcaption>Why rising unemployment costs the government in benefits and lost tax.</figcaption>
+</figure>
+
+
 ### Worked reminder: household income
 
 A household has one earner on 2,000 a month after tax. The earner is made redundant and the benefit is 900. New income = 900. Fall = (2,000 − 900) ÷ 2,000 × 100 = **55%**. A fall of this size means the household has to cut spending on non-essentials, and it risks poverty if savings run out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--06-household-income-drop.webp" width="900" height="840" alt="Household income falls from 3,000 (1,800 plus 1,200) to 2,300 (1,800 plus a 500 benefit) when the second earner loses the job. The 700 fall is 23.3 percent." loading="lazy">
+  <figcaption>A job loss cuts household income by 23.3% even with a benefit.</figcaption>
+</figure>
+
 
 ### Evaluation checklist
 
@@ -117,6 +156,17 @@ A household has one earner on 2,000 a month after tax. The earner is made redund
 - Who is affected: region, age, industry
 - Short run against long run
 - How generous benefits are (less poverty, higher government cost)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--08-confidence-loop.webp" width="900" height="976" alt="A loop of five steps: households fear for jobs, save more and spend less, firms sell less and expect weak demand, firms postpone investment and hiring, fewer jobs, and back to fear. Cyclical unemployment can feed on itself." loading="lazy">
+  <figcaption>How falling confidence can deepen cyclical unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## Command words for this topic
 
@@ -157,6 +207,12 @@ The specification describes how the command words work. Use these as a guide to 
 8. **Structural**.
 9. Fewer people earn wages, so less income tax is collected. Their spending falls, so sales tax revenue also falls.
 10. Fewer households have secure incomes, so spending falls. Firms expect weak sales, so they delay investment and hiring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--07-lost-output-area.webp" width="900" height="880" alt="A rectangle 350,000 workers wide and 24,000 a year tall has area 8,400 million, the output not produced. The economy sits below its productive potential." loading="lazy">
+  <figcaption>Lost output as workers times average output.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

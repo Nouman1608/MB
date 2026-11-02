@@ -58,6 +58,17 @@ Q = CV = 33 × 10⁻⁶ × 24 = 7.92 × 10⁻⁴ C
 
 The charge is 7.9 × 10⁻⁴ C (0.79 mC) to 2 s.f.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--01-charge-flow-in-circuit.webp" width="900" height="1140" alt="Two circuits show a capacitor charging from a cell and discharging through a resistor. Teal arrows show electron flow round the circuit and gold arrows the conventional current, opposite in direction. No electrons cross the gap: charge is moved from one plate to the other by the circuit. The p.d. rises to the cell p.d. while charging and falls to zero while discharging." loading="lazy">
+  <figcaption>Electrons move round the circuit, never across the gap, and the current reverses on discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--05-isolated-sphere-capacitance.webp" width="900" height="980" alt="Two isolated spheres with radii 0.10 m and 0.20 m are shown at the same potential, 1000 V. C = 4 pi epsilon0 r depends only on the radius, so the larger sphere has capacitance 22.2 pF against 11.1 pF and holds twice the charge, 22.2 nC against 11.1 nC." loading="lazy">
+  <figcaption>The capacitance of an isolated sphere is proportional to its radius.</figcaption>
+</figure>
+
+
 ## 6.1.1(b) Charging and discharging: electron flow
 
 No electrons cross the insulating gap. Charge is moved from one plate to the other by the circuit.
@@ -73,6 +84,12 @@ The current is the same in the wires on both sides of the capacitor at any insta
 **Discharging through a resistor.** The supply is removed and the plates are joined through a resistor. Electrons flow from the negative plate round the circuit to the positive plate, until both plates are neutral and the p.d. is zero. The current is in the opposite direction through the capacitor to the charging current. It falls as the p.d. falls.
 
 In answers, say which plate electrons leave, which they reach, and that they travel through the external circuit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--06-rc-charge-discharge-curves.webp" width="900" height="1130" alt="Against time in units of RC, charging makes Q and the capacitor p.d. rise towards their final values (63 percent at one RC) while the current and resistor p.d. fall from their maximum. V_R + V_C always equals V0. Discharging makes Q, V and I all fall with the same exponential shape (37 percent at one RC)." loading="lazy">
+  <figcaption>Charge and p.d. rise or fall, but the current always decays exponentially.</figcaption>
+</figure>
+
 
 ## 6.1.1(c) Capacitors in series
 
@@ -97,6 +114,17 @@ V across 15 µF = 9.0 × 10⁻⁵ / 15 × 10⁻⁶ = 6.0 V
 ```
 
 Check: 9.0 + 6.0 = 15 V.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--03-series-parallel-capacitors.webp" width="900" height="1100" alt="The same two capacitors, 10 and 15 microfarad, are connected across 15 V. In series each holds 90 microcoulombs and the p.d.s (9.0 V and 6.0 V) add, giving 6.0 microfarad. In parallel each has 15 V and the charges (150 and 225 microcoulombs) add, giving 25 microfarad." loading="lazy">
+  <figcaption>Series: same charge, p.d.s add, smaller C. Parallel: same p.d., charges add, larger C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--04-dielectric-polar-molecules.webp" width="900" height="1090" alt="Polar molecules between capacitor plates point randomly with no field. When the plates are charged they line up, leaving layers of negative ends facing the positive plate and positive ends facing the negative plate. These layers reduce the net field, so the p.d. is smaller for the same charge and C = Q/V rises. For the lesson example, 916 pF with the dielectric against 398 pF in air." loading="lazy">
+  <figcaption>Aligned polar molecules reduce the field, so the same charge gives a smaller p.d. and a larger capacitance.</figcaption>
+</figure>
+
 
 ## 6.1.1(d) Capacitors in parallel
 
@@ -170,6 +198,17 @@ When a small charge ΔQ is moved onto a capacitor that is already at p.d. V, the
 For charging from zero to Q, the area is a triangle, so W = ½QV.
 
 For charging from Q₁ to Q₂ the area is a trapezium, so W = ½(V₁ + V₂)(Q₂ − Q₁).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--02-energy-stored-vq-graph.webp" width="900" height="1010" alt="A straight V-Q graph from the origin has gradient 1/C. A thin strip is the work V delta Q and the triangle under the line is the energy stored, 1/2 QV = 1/2 CV^2 = Q^2/2C. For 470 microfarad at 12 V the energy is 33.8 mJ. OCR only: charging from a 12 V battery takes QV = 67.7 mJ, half stored and half lost as heat." loading="lazy">
+  <figcaption>The energy stored is the area under the V-Q graph, half of QV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--09-ln-graph-find-rc.webp" width="900" height="1230" alt="Potential difference readings for a discharging capacitor lie on a curve. Plotting ln V against t gives a straight line of gradient minus 0.0500 per second, so RC = 20.0 s. With R = 100 kilohm, C = 200 microfarad. For charging, plot ln(V0 - V) instead." loading="lazy">
+  <figcaption>A ln V against t graph is a straight line whose gradient is minus 1/RC.</figcaption>
+</figure>
+
 
 ## 6.1.2(b) Energy stored
 

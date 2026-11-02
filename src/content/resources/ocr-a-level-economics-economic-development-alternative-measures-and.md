@@ -41,6 +41,22 @@ Related: the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable
 
 **Sustainable development** is progress that satisfies present needs without closing off later generations' ability to satisfy their own. It has economic, social and environmental strands. The key idea is that the environment is a stock of natural capital as well as a source of amenities. Output financed by using up that stock cannot continue indefinitely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--11-sustainable-development-natural-capital.webp" width="900" height="1030" alt="Three overlapping circles (economic, social, environmental) with sustainable development where they meet, and three tanks with falling levels showing natural capital as a stock that can be run down. Output financed by using up the stock cannot continue indefinitely. Schematic, no data." loading="lazy">
+  <figcaption>Sustainable development has three strands, and natural capital is a stock that growth can run down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--12-structural-change-country-c.webp" width="900" height="740" alt="Three stacked bars of output shares. 2000: 38, 22, 40. 2010: 25, 30, 45. 2020: 12, 28, 60 for primary, secondary and tertiary. Primary falls from 38% to 12% and tertiary rises from 40% to 60%." loading="lazy">
+  <figcaption>Country C shifts from primary to tertiary activity between 2000 and 2020.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--15-environmental-kuznets-curve.webp" width="900" height="760" alt="An inverted-U curve of pollution against income per head: pollution rises, reaches a turning point, then falls as higher income funds cleaner technology and regulation. It is an idea, not measured data, and depends on policy and on the pollutant." loading="lazy">
+  <figcaption>The environmental Kuznets curve says pollution first rises and then falls as income grows.</figcaption>
+</figure>
+
+
 ## 2. Growth versus development
 
 Growth is a rise in real GDP. It normally helps development, since it enlarges the pool of resources for hospitals, schools and infrastructure. It does not guarantee it. A chain of reasoning to use:
@@ -67,6 +83,12 @@ Use simplified goalposts: life expectancy 25 to 85 years; mean years of schoolin
 Income index = (ln 9,000 - ln 100) / (ln 75,000 - ln 100) = 0.680. Country A: (0.783 x 0.600 x 0.680) to the power 1/3 = 0.684. Country B: (0.883 x 0.722 x 0.680) to the power 1/3 = 0.757.
 
 The same income per head gives different development. Now suppose Country A's GNI per head rises 40% to 12,600 with no change in health or schooling. The income index rises to 0.731 and HDI to 0.700 (from 0.684). Growth of 40% gives only 2.4% more HDI, because income is logged (diminishing returns to income) and the other two dimensions are unchanged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--05-hdi-same-income.webp" width="900" height="1060" alt="Bars show health, education and income indices and HDI for two countries with the same income per head: HDI 0.684 and 0.757. A final pair of bars shows a 40 percent rise in income lifting HDI only 2.4 percent." loading="lazy">
+  <figcaption>The same income can give different HDI, and income growth adds little because income is logged.</figcaption>
+</figure>
+
 
 ## 3. Growth, structural change and sustainable development
 
@@ -110,6 +132,17 @@ GDP growth = 24%. Net exports moved from -4 to +2, a change of 6, so they contri
 
 Risks: dependence on primary exports. Terms of trade = export prices relative to import prices, as an index: (X price index / M price index) x 100. If export prices stand at 112 and import prices at 140 (base 100): 112 / 140 x 100 = 80, a fall of 20%. Then 140 / 112 = 1.25 times the export volume is needed to pay for the same imports. Primary prices are volatile, and some economists argue their prices drift down against manufactured goods in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--13-net-exports-contribution-growth.webp" width="900" height="830" alt="A ladder of bars splits GDP growth of 24% (100 to 124) into contributions: consumption 10, investment 6, government 2 and net exports 6 percentage points. Net exports moved from -4 (30 - 34) to +2 (42 - 40)." loading="lazy">
+  <figcaption>Net exports supplied 6 of the 24 percentage points of Country F’s growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--14-oda-share-and-tied-aid.webp" width="900" height="790" alt="Top: Donor D gives 6.3bn of ODA, 0.35% of its 1,800bn GNI, against a UN target of 0.7% (12.6bn), a shortfall of 6.3bn. Bottom: Recipient E receives 1.2bn (5% of GNI); if tied aid makes goods 25% dearer, it buys only 0.96bn of goods, losing 0.24bn." loading="lazy">
+  <figcaption>Aid can fall short of the target and tied aid buys less than its face value.</figcaption>
+</figure>
+
+
 ## 5. Measuring progress: GDP, HDI, GPI and others
 
 **GDP per head**: simple, regularly produced and comparable, and linked to resources available. It ignores distribution, unpaid work, the informal economy, environmental damage, leisure and what is produced.
@@ -134,6 +167,22 @@ GDP rose from 900 to 990 (+10%), yet GPI fell by 4.0% (456 / 475 - 1). Growth in
 
 Evaluation: no single measure is best. GDP shows resources, HDI broad living standards, GPI sustainability and distribution; a dashboard of several is better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--06-gpi-vs-gdp.webp" width="900" height="960" alt="Waterfall bars for two years build GPI from consumption, inequality, unpaid work and damage: 475 then 456. GDP rose 10 percent while GPI fell 4.0 percent." loading="lazy">
+  <figcaption>GPI can fall even when GDP rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## 6. Growth and happiness
 
 The **Easterlin Paradox**: within a country at one time, richer people report being happier, yet as a country grows richer over time average happiness does not rise much. Invented data for Country G:
@@ -150,6 +199,12 @@ GDP per head rose 160% while satisfaction rose 0.1 points. In 2020 the top incom
 Possible explanations: people compare themselves with others (relative income), adapt to higher living standards, and care about things growth may not improve, such as security, health and trust. Counter-arguments: the finding depends on the data, later research by others has questioned it, very poor countries show a strong link between income and happiness, and happiness surveys are subjective.
 
 The **Office for National Statistics (ONS) Measuring National Well-being programme** was launched in 2010. It reports on ten areas, including personal well-being, relationships, health, what we do, where we live, personal finance, the economy, education and skills, governance and the environment, and asks people directly about life satisfaction, feeling that what they do is worthwhile, happiness and anxiety. It treats GDP as one indicator among many.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--07-easterlin-paradox.webp" width="900" height="1100" alt="Two line charts: GDP per head index rises 100 to 260 while average life satisfaction stays about 6.8 to 6.9." loading="lazy">
+  <figcaption>Average happiness barely rises as GDP per head grows.</figcaption>
+</figure>
+
 
 ## 7. International organisations
 

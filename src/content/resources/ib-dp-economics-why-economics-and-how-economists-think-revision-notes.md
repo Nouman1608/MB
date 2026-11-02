@@ -61,6 +61,32 @@ On a PPC: opportunity cost of one extra unit of good X = (units of Y lost) / (un
 
 > **Reminder.** Between two points on a fictional PPC, 30 extra bicycles cost 12 tonnes of grain. Opportunity cost per bicycle = 12 / 30 = **0.4 tonnes**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--01-kestria-ppc-rising-cost.webp" width="900" height="930" alt="Graph of Wheat in tonnes (vertical) against Boats (horizontal) for the fictional economy of Kestria. The production possibilities curve passes through A (0 boats, 100 tonnes), B (10, 96), C (20, 84), D (30, 60) and E (40, 0). Wheat given up per extra boat is 0.4, 1.2, 2.4 and 6.0 tonnes on successive steps, so the cost rises and the curve bows outwards. Point X (20 boats, 70 tonnes) lies inside the curve: 84 minus 70 is 14 tonnes of wheat wasted because resources are idle." loading="lazy">
+  <figcaption>The five Kestria points A to E are plotted, with 0.4, 1.2, 2.4 and 6.0 tonnes of wheat lost per extra boat, and X inside the curve with 14 tonnes wasted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--02-constant-cost-ppc.webp" width="900" height="840" alt="Graph of Wheat in tonnes against Boats. A straight line joins 100 tonnes of wheat with no boats to 50 boats with no wheat. Every extra boat costs 100 divided by 50, which is 2 tonnes of wheat, at every point. Making 20 boats gives up 20 times 2, which is 40 tonnes, leaving 60 tonnes of wheat. A straight line means constant opportunity cost because resources are equally suited to both goods." loading="lazy">
+  <figcaption>A straight-line PPC from 100 tonnes of wheat to 50 boats costs 2 tonnes per boat everywhere, so 20 boats leaves 60 tonnes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--03-tamsin-opportunity-cost.webp" width="900" height="850" alt="Three horizontal bars show Tamsin's yearly options: running the bakery earns 26,000 crowns, a chef job pays 24,000 and a flour mill job pays 21,000. The chef job is the next best alternative, so the opportunity cost of the bakery is 24,000 crowns. It is not 45,000, because she could never take both jobs. The bakery leaves her 2,000 crowns better off. All numbers are illustrative." loading="lazy">
+  <figcaption>Opportunity cost is the single next best option (the 24,000 chef job), not the sum of everything given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## Basic questions and systems
 
 Three questions: what and how much, how, for whom.
@@ -114,6 +140,12 @@ Method: add the three leakages, add the three injections, compare. Equal means s
 
 > **Reminder.** S = 50, T = 60, M = 40; I = 55, G = 70, X = 25. Leakages = 150, injections = 150, so the flow is stable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--04-pellora-leakages-injections.webp" width="900" height="900" alt="Three horizontal stacked bars in billions of crowns. Leakages are saving 60, taxation 90 and imports 70, total 220. Injections are investment 80, government spending 100 and exports 40, total 220, so the flow of income is stable. If investment rises to 110, injections are 250, which is 30 more than leakages, so income tends to rise until leakages grow to match. Imports are a leakage, not an injection." loading="lazy">
+  <figcaption>Leakages and injections each total 220, and a rise in investment to 110 makes injections 250, 30 above leakages.</figcaption>
+</figure>
+
+
 ## Positive and normative
 
 | Positive | Normative |
@@ -127,6 +159,17 @@ A positive statement can still be false. It is positive because it can be checke
 
 Logic and assumptions, then hypothesis, then model or theory, then test with empirical evidence, then keep, revise or reject (refutation). Ceteris paribus isolates one variable's effect. Real-world data rarely holds other factors constant, which limits testing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--05-ceteris-paribus-bus-fares.webp" width="900" height="850" alt="Two bars show weekly bus journeys in the fictional city of Dunmere: 12,000 when the fare is 4 crowns and 13,800 when the fare is 3 crowns, a rise of 1,800 or 15 percent. Two arrows point at the rise: the fare cut being tested, and a doubling of fuel prices in the same month. Because other things did not stay equal, the data cannot cleanly confirm or refute the hypothesis that a lower fare increases journeys." loading="lazy">
+  <figcaption>Journeys rose 15% after a fare cut but fuel prices doubled too, so ceteris paribus fails and the hypothesis cannot be cleanly tested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--13-method-loop.webp" width="900" height="1060" alt="A flow from assumptions and logic to hypothesis to evidence test with ceteris paribus, then a decision: not contradicted means supported for now; contradicted means reject or revise and try a new claim." loading="lazy">
+  <figcaption>Hypothesis, test and refutation form a loop.</figcaption>
+</figure>
+
+
 ## Economic thought in one table
 
 | Century | Names and ideas |
@@ -135,6 +178,12 @@ Logic and assumptions, then hypothesis, then model or theory, then test with emp
 | 19th | Utility and the margin; Say's law (supply creates its own demand); Marxist critique |
 | 20th | Keynesian revolution; macroeconomic policy; monetarist and new classical counter-revolution |
 | 21st | Behavioural economics and psychology; links between economy, society and environment; circular economy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-why-economics-and-how-economists-think--12-economic-thought-timeline.webp" width="900" height="958" alt="A vertical timeline of four centuries listing the ideas the lesson names, from Adam Smith and laissez faire to behavioural economics and the circular economy." loading="lazy">
+  <figcaption>Key ideas from the 18th to the 21st century.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -216,3 +265,14 @@ Pair every diagram with a sentence or two of explanation, and show every stage o
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020): Unit 1, sub-topics 1.1 and 1.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+

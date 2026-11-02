@@ -65,6 +65,27 @@ A student connects a new cell to a small lamp and records the pd across it every
 
 **(c) Could the cell keep the lamp lit for a whole day?** No. Nothing is added to the cell, so once its reactants are used up it cannot produce a pd.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--06-cell-pd-graph.webp" width="900" height="850" alt="Line graph of pd against time for a cell with a lamp: 1.52, 1.50, 1.47, 1.41, 1.24, 0.66 and 0.04 V at 0, 2, 4, 6, 8, 9 and 10 hours. The pd falls 0.11 V in 6 hours, then 1.37 V between 6 and 10 hours as reactants run out." loading="lazy">
+  <figcaption>The pd stays almost steady until the reactants run out, then falls steeply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--07-cell-vs-fuel-cell.webp" width="900" height="1030" alt="A sealed chemical cell goes from new (reactants) to flat (all products) with pd falling from 1.52 V to 0.04 V and nothing added; a fuel cell is fed hydrogen from a tank and oxygen from the air, gives only water, and runs while fuel is supplied." loading="lazy">
+  <figcaption>A chemical cell has its reactants sealed in; a fuel cell is fed reactants continuously.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--06-cell-pd-time.webp" width="900" height="780" alt="Line graph of the lesson pd-time data (1.52 V at 0 h to 0.04 V at 10 h), with a slow fall to 6 h then a steep fall as reactants run out. " loading="lazy">
+  <figcaption>The pd stays nearly steady, then drops steeply as the sealed reactants are used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--07-sealed-vs-fed.webp" width="900" height="720" alt="A sealed chemical cell with reactants inside compared with a fuel cell fed hydrogen and oxygen with water leaving. " loading="lazy">
+  <figcaption>A chemical cell has sealed reactants; a fuel cell is fed fuel and oxygen continuously.</figcaption>
+</figure>
+
+
 ## 3.9.3 b: Fuel cells
 
 A **fuel cell** produces electricity through the reaction of a **fuel with oxygen**. The difference from an ordinary chemical cell is where the reactants come from.
@@ -90,6 +111,12 @@ Hydrogen does not burn in the cell. There is no flame, and the energy is transfe
 - **Cars:** the fuel cell supplies electricity to an electric motor. The driver refills a hydrogen tank.
 - **Spacecraft:** a spacecraft carries hydrogen and oxygen and the fuel cell turns them into electricity. On the Apollo missions the water made by the fuel cells was used by the crew for drinking, so the "waste" was useful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
+</figure>
+
+
 ### Why fuel cells cause less pollution when in use
 
 **Water is the only waste product** from a hydrogen–oxygen fuel cell. Hydrogen contains no carbon and no sulfur, so the cell cannot make carbon dioxide, carbon monoxide, soot or sulfur dioxide. That is why the specification says fuel cells cause less pollution **when in use**.
@@ -109,6 +136,12 @@ Step 3. Moles of H₂O = 450 mol.
 Step 4. Mr of H₂O = (2 × 1) + 16 = 18. Mass of water = 450 × 18 = 8100 g = **8.1 kg**.
 
 The same journey also used 225 mol of oxygen (7.2 kg), taken from the air.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--10-bus-distance.webp" width="900" height="790" alt="Energy bars for 142 000 kJ from 1.0 kg of hydrogen: 30 percent useful (42 600 kJ, 60 km) for the engine bus and 50 percent (71 000 kJ, 100 km) for the fuel cell bus, with arrows proportional to distance. " loading="lazy">
+  <figcaption>On 1.0 kg of hydrogen the fuel cell bus goes 100 km and the engine bus 60 km.</figcaption>
+</figure>
+
 
 ## Hydrogen as a fuel: storage and use
 
@@ -139,6 +172,22 @@ Volume = 2500 × 24 = 60 000 dm³ = **60 m³** (1 m³ = 1000 dm³).
 
 60 ÷ 0.125 = **480**. The gas has to be squeezed into a space 480 times smaller, which is why a high-pressure tank is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--08-h2-storage-volume.webp" width="900" height="1006" alt="Two squares with areas in proportion to volume: 5.0 kg of hydrogen is 2500 mol and fills 60 m3 at room temperature and pressure, against a 0.125 m3 tank, so it must be squeezed into a space 480 times smaller." loading="lazy">
+  <figcaption>5.0 kg of hydrogen fills 60 m3, 480 times the volume of the tank.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--08-h2-storage-volume.webp" width="900" height="880" alt="Chain 5.0 kg to 2500 mol to 60 000 dm3 (60 m3) and two cubes drawn to scale beside a 0.125 m3 tank: 480 times smaller. " loading="lazy">
+  <figcaption>The 60 m3 of hydrogen gas must fit into a tank 480 times smaller.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--08-fuel-cell-vs-petrol.webp" width="900" height="1180" alt="Four rows compare a fuel cell with a petrol engine. The fuel cell gives water only and is generally more efficient, but hydrogen is hard to store and few stations supply it. Petrol gives CO2, CO and NOx but is easy to store with stations everywhere." loading="lazy">
+  <figcaption>Fuel cells are cleaner and more efficient, but hydrogen is harder to store and refuel than petrol.</figcaption>
+</figure>
+
+
 ## Products of combustion
 
 The second heading is **products of combustion**. Hydrogen can also be burned, for example in an engine adapted to use it.
@@ -148,6 +197,12 @@ hydrogen + oxygen → water (exothermic)
 **Benefit:** because hydrogen contains no carbon or sulfur, burning it releases no carbon dioxide, so it does not add to the increase in carbon dioxide that may cause climate change. It also gives no carbon monoxide, no soot particulates and no sulfur dioxide.
 
 **Disadvantage:** an engine burns hydrogen in **air**, not pure oxygen, and combustion happens at a **high temperature**. Section 3.10 of the specification says oxides of nitrogen are formed at high temperatures. So a hydrogen engine can release oxides of nitrogen, which cause acid rain. A fuel cell does not burn the hydrogen, so this problem does not arise in the same way and water is still the only waste product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--09-h2-nox-engine.webp" width="900" height="700" alt="A hydrogen engine takes in hydrogen and air; the very hot flame makes NOx as well as water. A fuel cell has no flame and only water. " loading="lazy">
+  <figcaption>Burning hydrogen in air at high temperature can make NOx; a fuel cell makes only water.</figcaption>
+</figure>
+
 
 ## Comparing combustion of hydrogen with fuel cells
 
@@ -176,6 +231,12 @@ Engine bus: 42 600 ÷ 710 = **60 km**. Fuel cell bus: 71 000 ÷ 710 = **100 km**
 **(c) Use this and your own knowledge to compare the two buses.**
 
 On these figures the fuel cell bus goes further on the same mass of hydrogen, so it needs less hydrogen to be stored and made. Both buses produce water and no carbon dioxide when running. The engine burns hydrogen in air at high temperature, so it may also release oxides of nitrogen, whereas the fuel cell's only waste product is water. Both still share the storage problems of hydrogen gas. On this information the fuel cell bus is the better choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--09-bus-distance.webp" width="900" height="840" alt="1.0 kg of hydrogen releases 142 000 kJ. The engine bus uses 30% usefully (42 600 kJ, 60 km at 710 kJ per km); the fuel cell bus uses 50% (71 000 kJ, 100 km)." loading="lazy">
+  <figcaption>On the same hydrogen, the fuel cell bus travels 100 km and the engine bus 60 km.</figcaption>
+</figure>
+
 
 ## Common errors
 

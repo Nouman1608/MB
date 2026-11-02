@@ -99,6 +99,17 @@ substitutes at directly).
 Secondary and tertiary amines can be recognised and drawn, but naming them
 systematically is not required at this level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
+
 ## Electrophilic substitution and addition-elimination
 
 Two new mechanism *names* are introduced here, ahead of seeing them
@@ -151,6 +162,32 @@ Halogenoarenes: Electrophilic Substitution and
 Reactivity](/resources/a-arenes-and-halogenoarenes/) explains — why
 reactions that would disrupt this delocalised system are strongly disfavoured
 in comparison to reactions that leave it intact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
 
 ## Common mistakes
 

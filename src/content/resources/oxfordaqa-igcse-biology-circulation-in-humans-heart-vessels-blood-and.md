@@ -51,6 +51,12 @@ Two circuits mean blood returning from the lungs is pumped again before it trave
 
 The heart has four chambers. The two upper chambers are the **right atrium** and **left atrium**. The two lower chambers are the **right ventricle** and **left ventricle**. Valves inside the heart keep blood moving one way. You do not need to know the names of the valves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+
 ## Blood flow through the heart and the named vessels (h, i)
 
 The atria receive blood. They contract and force it into the ventricles. The ventricles then contract and force blood out of the heart. The route is:
@@ -74,6 +80,17 @@ The specification limits the vessels you must know to five: aorta, vena cava, pu
 
 Notice that the pulmonary artery carries low-oxygen blood and the pulmonary vein carries high-oxygen blood. Arteries carry blood away from the heart and veins carry it back. Oxygen content does not decide the name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+
 ## Arteries, veins and capillaries (j, k)
 
 **Arteries** carry blood away from the heart. Their walls are thick and contain muscle and elastic fibres, so they withstand high pressure and can stretch and recoil as each surge of blood arrives.
@@ -92,9 +109,31 @@ Volume per minute = 64 × 69 = 4416 cm³, which is 4.416 dm³, so **about 4.4 dm
 
 During exercise suppose the rate is 150 beats per minute and each beat pushes out 88 cm³. Volume per minute = 88 × 150 = 13 200 cm³. The increase is 13 200 − 4416 = 8784 cm³, and 8784 ÷ 4416 × 100 = **199 per cent** (3 s.f.). More oxygen and glucose are delivered to working muscle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--09-heart-output-area.webp" width="900" height="960" alt="A graph with beats per minute along the bottom and cm3 per beat up the side. A teal rectangle 69 beats per minute by 64 cm3 per beat has area 4416 cm3 per minute at rest. A larger rectangle 150 by 88 has area 13200 cm3 per minute during exercise. The gold L-shaped extra area of 8784 cm3 is a 199 percent increase." loading="lazy">
+  <figcaption>Volume per minute is beats per minute times volume per beat: rest 69 × 64 = 4416 cm³, exercise 150 × 88 = 13 200 cm³, an increase of 199%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+
 ## The pacemaker (d)
 
 A group of cells in the right atrium acts as the heart's natural pacemaker. It controls the resting heart rate. If the rhythm becomes irregular, a surgeon can fit an **artificial pacemaker**, an electrical device that corrects irregularities in the heart rate. In an exam, say that the device supplies electrical signals so the heart beats regularly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--01-stent-artery.webp" width="900" height="780" alt="Three coronary artery cross-sections at one scale: healthy 3.6 mm, narrowed by fatty deposits to 1.5 mm (58.3% narrower), and held open by a stent at 3.2 mm (113% wider than narrowed). The stent is shown as a dashed mesh tube pressed against the deposits." loading="lazy">
+  <figcaption>A stent props a fatty-narrowed coronary artery open from inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--06-pacemaker.webp" width="900" height="1060" alt="A heart outline with the right atrium labelled and a cluster of cells in it marked as the natural pacemaker. A device box labelled artificial pacemaker is joined to the heart by a wire and sends electrical signals. Below, an irregular heartbeat trace with uneven gaps is compared with a regular trace with equal gaps when the artificial pacemaker is used." loading="lazy">
+  <figcaption>A group of cells in the right atrium is the natural pacemaker; an artificial pacemaker sends electrical signals to keep an irregular heartbeat regular.</figcaption>
+</figure>
+
 
 ## Coronary heart disease and stents (e)
 
@@ -120,6 +159,12 @@ Heart valves can become faulty in two main ways:
 A faulty valve can be replaced with a **biological valve**, taken from a human or another mammal, or with a **mechanical valve**.
 
 An **artificial heart** is a mechanical pump. It is occasionally used to keep a patient alive while they wait for a heart transplant, or to give the patient's own heart a rest so it can recover.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--03-faulty-valves.webp" width="900" height="960" alt="Four tubes show a heart valve. Healthy: flaps lie back to let blood through, then meet to stop back-flow. Stiff: flaps open only a little so blood is held back. Leaky: flaps do not seal so blood flows backwards." loading="lazy">
+  <figcaption>A stiff valve holds blood back; a leaky valve lets it flow backwards.</figcaption>
+</figure>
+
 
 ## Blood (l to q)
 
@@ -147,6 +192,17 @@ Convert units: 7.5 µm = 0.0075 mm.
 
 Magnification = image size ÷ real size = 36 ÷ 0.0075 = **× 4800**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--02-abo-compatibility.webp" width="900" height="800" alt="A grid of recipient groups O, A, B and AB against donor groups. Ticks and crosses match the lesson table: O receives only O, A receives O and A, B receives O and B, AB receives all four. The O donor column is outlined as the universal donor." loading="lazy">
+  <figcaption>A recipient can receive red cells only if the donor cells carry no antigen the recipient has antibodies against.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--10-rbc-magnification.webp" width="900" height="960" alt="A red blood cell with real diameter 7.5 micrometres, which is 0.0075 millimetres, is drawn 36 millimetres across. An arrow from the tiny real cell to the large drawing is labelled times 4800, found by dividing 36 by 0.0075." loading="lazy">
+  <figcaption>Magnification = image size ÷ real size: 36 mm ÷ 0.0075 mm = ×4800.</figcaption>
+</figure>
+
+
 ## Antigens, transplants and rejection (r, s)
 
 **Antigens** are proteins on the surface of cells. Your immune system recognises the antigens on your own cells as "self".
@@ -164,6 +220,17 @@ You may be asked to weigh treating organ failure with a mechanical device agains
 |---|---|---|
 | Advantages | available without a donor; no tissue-type matching; no rejection | a living organ does the whole job; no moving machinery to fail |
 | Disadvantages | blood clots can form on artificial surfaces; may need anticoagulant drugs; infection risk; needs a power supply (artificial hearts); mechanical failure | shortage of donors and waiting time; rejection risk; immunosuppressant drugs make infection more likely; major surgery |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--07-rejection.webp" width="900" height="1000" alt="Three panels. In the first, antibodies of the recipient attach to different antigens on a donor organ cell, which is rejection. In the second, a donor cell with the same kind of antigens as the recipient is not attacked. In the third, immune-suppressing drugs mean the antibodies are weak and do not attack the donor cell." loading="lazy">
+  <figcaption>Antibodies attack the donor organ's foreign antigens; a similar tissue type or immune-suppressing drugs reduce rejection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--08-device-vs-transplant.webp" width="900" height="1050" alt="A grid compares a mechanical device and a transplant on five points. Donor: the device needs none, the transplant faces a shortage and waiting. Rejection: none for the device, a risk for the transplant. Infection: a risk for both, more likely for the transplant because of drugs. Machine failure: the device can fail, the transplant has no moving machinery. Drugs: the device may need anticoagulants, the transplant needs immunosuppressants." loading="lazy">
+  <figcaption>Five points from the lesson on which a mechanical device and a transplant differ; finish an evaluation with a judgement for the patient described.</figcaption>
+</figure>
+
 
 ## ABO blood groups (t)
 

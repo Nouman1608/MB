@@ -52,6 +52,22 @@ Function notation names the rule. In f(x) = 6 - 4x, the letter f is the name, x 
 
 The relation x² + y² = 25 is not a function: x = 3 gives y = 4 or y = -4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--09-vertical-line-test.webp" width="900" height="820" alt="A vertical line at x = 3 cuts the circle x squared plus y squared equals 25 twice, at (3, 4) and (3, minus 4), so it is not a function. It cuts the line f(x) = 6 minus 4x once, at (3, minus 6), so that is a function." loading="lazy">
+  <figcaption>A vertical line cutting twice means one input has two outputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--02-mapping-domain-range.webp" width="900" height="990" alt="A mapping diagram for h(x) = x squared minus 4 with domain minus 2, minus 1, 0, 1, 3. The arrows give outputs 0, minus 3, minus 4, minus 3, 5. The range is minus 4, minus 3, 0, 5, each listed once; two inputs may share an output." loading="lazy">
+  <figcaption>The range lists each different output once; two inputs can share an output.</figcaption>
+</figure>
+
+
 ## Linear functions
 
 A linear function is f(x) = mx + c. The gradient m is the change in output for each 1 added to the input. The constant c is where the line meets the y-axis. Between points (x₁, y₁) and (x₂, y₂), m = (y₂ - y₁)/(x₂ - x₁).
@@ -80,6 +96,12 @@ Replace y: 3x + 2(2x + 1) = 16, so 7x + 2 = 16 and x = 2. Then y = 2(2) + 1 = 5.
 **Elimination.** Solve 2x + 3y = 12 and 5x - 3y = 9. Adding removes y: 7x = 21, so x = 3. Then 6 + 3y = 12 gives y = 2. Check in the other equation: 15 - 6 = 9. Correct.
 
 On a graph, draw both lines on one set of axes and read where they cross. A graph gives an approximate answer, so use algebra when exact values are needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--15-fm-simultaneous.webp" width="900" height="1160" alt="Two graphs: y = 2x + 1 and 3x + 2y = 16 cross at (2, 5); 2x + 3y = 12 and 5x - 3y = 9 cross at (3, 2). Dashed lines drop to the axes." loading="lazy">
+  <figcaption>The algebraic solution is the crossing point of the two lines.</figcaption>
+</figure>
+
 
 ## Quadratic functions and their parameters
 
@@ -113,6 +135,27 @@ A quadratic has an x² term and graphs as a parabola. The guide lists three form
 - Axis: t = -20/(2 × -5) = 2. Then h(2) = -20 + 40 + 1 = 21, so the greatest height is 21 m.
 - Lands when h = 0: t = (20 + √420)/10 ≈ 4.05 s (the negative root is rejected).
 - Limits: the model ignores air resistance and only applies from throwing until landing, so t ≥ 0 and h ≥ 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--05-quad-three-forms.webp" width="900" height="960" alt="The graph of f(x) = x squared minus 6x plus 5 with its three forms matched to features: factorised form gives x-intercepts 1 and 5, vertex form gives the vertex (3, minus 4), and the general form gives the y-intercept 5. The axis x = 3 is halfway between the roots." loading="lazy">
+  <figcaption>Each form of the same quadratic shows a different feature directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--07-ball-model-domain.webp" width="900" height="870" alt="The thrown-ball model h = −5t² + 20t + 1 is drawn solid from the throw to the landing at t ≈ 4.05 s, with a greatest height of 21 m at t = 2. The other root, t = −0.05, and negative heights after landing are outside the domain." loading="lazy">
+  <figcaption>A real context restricts the domain: here 0 ≤ t ≤ 4.05.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--13-fm-complete-square.webp" width="900" height="940" alt="Graph of y = 3x^2 and y = 3x^2 - 6x + 1; the second is the first moved 1 right and 2 down with vertex (1, -2). Working: 3(x^2 - 2x) + 1, then 3[(x - 1)^2 - 1] + 1, then 3(x - 1)^2 - 2." loading="lazy">
+  <figcaption>Completing the square shows the vertex (1, -2) and the translation from y = 3x^2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--14-fm-parabola-width.webp" width="900" height="1000" alt="Graphs of y = 0.5x^2, y = x^2 and y = 3x^2. Cut at y = 3 the widths are 4.90, 3.46 and 2.00, so larger a means narrower. A negative a opens downward." loading="lazy">
+  <figcaption>A larger |a| gives a narrower parabola.</figcaption>
+</figure>
+
 
 ## Exponential functions and horizontal asymptotes
 
@@ -148,6 +191,12 @@ A rational function has a linear expression over a linear expression. The denomi
 - x-intercept: 4x + 3 = 0, so x = -3/4. y-intercept: f(0) = 3/(-1) = -3.
 - The graph has two separate branches, one each side of x = 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--08-rational-asymptotes.webp" width="900" height="950" alt="The graph of f(x) = (4x + 3)/(x − 1) has two branches either side of the vertical asymptote x = 1 and approaches the horizontal asymptote y = 4. It crosses the axes at (−3/4, 0) and (0, −3). The domain excludes x = 1 and the range excludes 4." loading="lazy">
+  <figcaption>The denominator gives the vertical asymptote; a/c gives the horizontal one.</figcaption>
+</figure>
+
+
 ## Extended: transforming quadratics
 
 Starting from y = x², these changes act on the graph:
@@ -170,6 +219,12 @@ Starting from y = x², these changes act on the graph:
 
 The vertex is (3, 1) and the maximum value is 1, so the range is y ≤ 1. Vertex form is the transformation written as a rule. Reflecting y = x² in the y-axis changes nothing, because the parabola is symmetric about that axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--06-quad-transform-point.webp" width="900" height="960" alt="The point (1, 1) on y = x squared is followed through right 3, stretch by 2, reflection in the x-axis and up 1, ending at (4, minus 1) on the curve y = minus 2(x minus 3) squared plus 1. The vertex moves from (0, 0) to (3, 1)." loading="lazy">
+  <figcaption>Following one point shows the four transformations in the order the lesson gives.</figcaption>
+</figure>
+
+
 ## Extended: shapes of other functions
 
 | Function | Shape and key features |
@@ -182,6 +237,12 @@ The vertex is (3, 1) and the maximum value is 1, so the range is y ≤ 1. Vertex
 
 An asymptote is read from the rule: look for inputs that make a denominator zero, a tangent undefined, or a logarithm's argument zero. For a rational function that is the vertical asymptote. For exponentials it is the horizontal asymptote.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--11-fm-log-mirror.webp" width="900" height="1010" alt="Graph of y = 2^x and y = log2 x as mirror images in y = x. The log curve passes (1, 0), (2, 1), (4, 2), (8, 3), has asymptote x = 0 and only x &gt; 0. A note gives ln x as base e, about 2.718, and e^x = 7 giving x = ln 7, about 1.95." loading="lazy">
+  <figcaption>The logarithm curve is the reflection of the exponential curve in y = x.</figcaption>
+</figure>
+
+
 ## Enrichment (optional)
 
 - **Transforming cubic and trigonometric functions.** The same rules apply. y = 2 sin x + 1 stretches the wave to amplitude 2 and lifts it by 1, so its values lie between -1 and 3.
@@ -189,6 +250,12 @@ An asymptote is read from the rule: look for inputs that make a denominator zero
 - **Composite functions.** g∘f(x) means g(f(x)): apply f first. With f(x) = 2x + 3 and g(x) = x², g∘f(3) = g(9) = 81, but f∘g(3) = f(9) = 21. Order matters.
 - **Inverse functions.** The inverse f⁻¹ reverses f. For f(x) = 2x + 3, write y = 2x + 3, swap to x = 2y + 3, and solve: f⁻¹(x) = (x - 3)/2. Mirror the graph of f in the line y = x to get the graph of f⁻¹.
 - **Logarithmic functions.** The logarithm of a to base b is the power that b needs to reach a. So log₂ 32 = 5, and 2ˣ = 20 gives x = log₂ 20 ≈ 4.32.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--12-fm-trig-transform.webp" width="900" height="850" alt="Graph of y = sin x (dashed) and y = 2 sin x + 1 from 0 to 360 degrees. The second has amplitude 2 about the midline y = 1, maximum 3 and minimum -1." loading="lazy">
+  <figcaption>Stretch by 2 and lift by 1 gives values between -1 and 3.</figcaption>
+</figure>
+
 
 ## Common errors
 

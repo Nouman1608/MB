@@ -90,6 +90,27 @@ An atom has a small central **nucleus** containing protons and neutrons, surroun
 
 The **atomic number** is the number of protons, and it defines the element. The **mass number** is the total number of protons and neutrons. Atoms are neutral overall, so the number of electrons equals the number of protons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--12-nucleus-scale.webp" width="900" height="940" alt="An atom drawn 560 px wide. The nucleus is 1/10,000 of that, so only 0.056 px wide, effectively invisible at the centre. Even magnified 1000 times it would be 56 px, one tenth of the atom width, as the bars show. Nearly all of the atom is empty space." loading="lazy">
+  <figcaption>The nucleus is about 1/10,000 of the atom diameter, so on this scale it is a hairline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--13-electron-mass.webp" width="900" height="830" alt="A balance with one proton on the left pan and 1840 electrons, drawn as a 46 by 40 block of dots, on the right pan. The beam is level because their masses are equal, so an electron has relative mass 1/1840." loading="lazy">
+  <figcaption>It takes about 1840 electrons to match the mass of one proton.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+
 ## Isotopes and relative atomic mass
 
 **Isotopes** are atoms of the same element with the same number of protons but different numbers of neutrons. Because chemical behaviour is determined by electrons, isotopes of an element react identically — only their masses differ.
@@ -100,6 +121,17 @@ Relative atomic mass is the weighted mean mass of the isotopes present:
 Ar = [(mass 1 x abundance 1) + (mass 2 x abundance 2)] / 100
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
+
 ## Electronic structure
 
 Electrons occupy shells from the innermost outwards, holding a maximum of 2, then 8, then 8. Chlorine (17 electrons) is 2,8,7. The number of outer-shell electrons determines the group, and the number of occupied shells determines the period.
@@ -108,11 +140,28 @@ Electrons occupy shells from the innermost outwards, holding a maximum of 2, the
 
 Ideas about the atom changed as experimental evidence accumulated: Dalton's solid spheres, then Thomson's plum pudding model, then Rutherford's alpha-scattering experiment which showed most of an atom is empty space with a dense positive nucleus, then Bohr's shells, and finally the discovery of the neutron. This sequence is a favourite context for questions about how scientific models respond to new evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--04-atom-model-history.webp" width="900" height="1070" alt="Five atom models in order: Dalton a tiny solid sphere; Thomson the plum pudding with electrons in a positive ball; Rutherford a tiny dense positive nucleus in mostly empty space; Bohr electrons in shells; then the discovery of the neutron, so the nucleus holds protons and neutrons." loading="lazy">
+  <figcaption>Each model of the atom replaced the one before as new evidence appeared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--05-alpha-scattering.webp" width="900" height="950" alt="Alpha particles travel from a source towards gold foil. Most pass straight through, a few are deflected, and very few bounce back towards the source. This shows an atom is mostly empty space with a tiny, dense, positive nucleus. The drawing is schematic and the nucleus is drawn far too large." loading="lazy">
+  <figcaption>Rutherford: most alpha particles go straight through; very few bounce back, so the nucleus is tiny, dense and positive.</figcaption>
+</figure>
+
+
 ## The periodic table
 
 Elements are arranged in the periodic table by **increasing atomic number**. **Mendeleev** built an early version by ordering elements by atomic mass and grouping them by properties, but crucially he **left gaps for elements not yet discovered** and used those gaps to predict their properties -- the later discovery of gallium and germanium, matching his predictions closely, is what confirmed his arrangement and is why his table succeeded where earlier attempts failed.
 
 **Metals** are found on the left and centre of the table and lose electrons to form positive ions; **non-metals** are found on the right and gain or share electrons. Elements in the same group have the same number of outer-shell electrons and therefore react in similar ways.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--11-group-numbers-0-1-7.webp" width="900" height="750" alt="The first four periods of the periodic table with groups numbered 1, 2, transition metals between Group 2 and Group 3, then Groups 3 to 7 and Group 0 on the right. Group 1 alkali metals have one outer electron, Group 7 halogens seven, Group 0 noble gases a full outer shell." loading="lazy">
+  <figcaption>AQA numbers the groups 1 to 7 then 0, with the transition metals between Groups 2 and 3.</figcaption>
+</figure>
+
 
 ## Group 1 -- the alkali metals
 
@@ -120,11 +169,23 @@ Group 1 elements react with water to form a metal hydroxide and hydrogen: **meta
 
 **Reactivity increases going down the group**, and a full explanation needs all three linked steps: the outer electron is **further from the nucleus** as more shells are added; there is therefore **more shielding** from the inner shells; so the **attraction between the nucleus and the outer electron is weaker**, and that electron is lost more easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--06-group1-shielding.webp" width="900" height="1095" alt="Lithium, sodium and potassium atoms with 2, 3 and 4 shells and one outer electron each. Inner shells shield the outer electron more as shells increase, so the pull from the nucleus shown as a bar falls from strong to weaker to weakest, and the outer electron is lost more easily." loading="lazy">
+  <figcaption>More shells give more shielding and a weaker pull on the outer electron, so Group 1 reactivity rises down the group.</figcaption>
+</figure>
+
+
 ## Group 7 -- the halogens
 
 Melting and boiling points **increase** going down Group 7, because the molecules get larger and the intermolecular forces between them get stronger -- but **reactivity decreases**, the opposite trend to Group 1. The reasoning is the same physics applied to the opposite process: a halogen reacts by **gaining** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted less strongly and gained less readily.
 
 A more reactive halogen will **displace** a less reactive one from a solution of its salt -- chlorine displaces bromine, and bromine displaces iodine. Adding chlorine water to potassium iodide solution, for example, the more reactive chlorine displaces iodine from solution, and the colourless mixture turns **brown** as iodine is formed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--14-group7-group0-boiling-points.webp" width="900" height="975" alt="Line graph of boiling point against period. Group 7: F2 -188, Cl2 -34, Br2 59, I2 184 degrees C. Group 0: He -269, Ne -246, Ar -186, Kr -153, Xe -108. Both rise. Larger particles have stronger forces between them, so higher boiling points." loading="lazy">
+  <figcaption>Boiling points rise down Group 7 and Group 0 because larger particles have stronger intermolecular forces.</figcaption>
+</figure>
+
 
 ## Group 0 -- the noble gases
 
@@ -139,6 +200,12 @@ A mixture is two or more elements or compounds not chemically combined together,
 Transition metals sit in the central block of the periodic table, between Group 2 and Group 3. Compared with the Group 1 alkali metals, transition metals are **typical metals**: they have much **higher melting points** (with the exception of mercury, which is liquid at room temperature), are considerably **denser**, and are **harder and stronger**, whereas Group 1 metals are soft enough to cut with a knife, have low melting points and low density. Transition metals are also **much less reactive** than Group 1 metals -- they do not react vigorously with water or oxygen the way sodium or potassium do, which is why they are useful as structural and everyday materials.
 
 Beyond the metallic comparison, transition metals share three typical properties: they can form ions with **variable (more than one) ionic charge**, for example iron forming Fe2+ and Fe3+; their compounds are typically **coloured** (copper compounds are often blue, iron(II) compounds green and iron(III) compounds orange-brown); and the elements and their compounds are often useful as **catalysts**, for example iron in the Haber process and manganese(IV) oxide as a catalyst for the decomposition of hydrogen peroxide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--15-transition-vs-group1.webp" width="900" height="880" alt="Group 1 metal such as sodium: soft enough to cut with a knife, and fizzes in water making hydrogen. Transition metal such as iron: hard and strong so the knife does not cut it, and no vigorous reaction with water." loading="lazy">
+  <figcaption>Compared with Group 1, transition metals are harder and much less reactive.</figcaption>
+</figure>
+
 
 ## Worked example
 

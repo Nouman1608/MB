@@ -34,6 +34,17 @@ A **system** is an object or group of objects. When a system changes, energy is 
 
 **The specification lists three routes by which a system can change** (for which you must be able to calculate the associated energy): heating, work done by a force, or work done when a current flows. Many questions in this sub-topic ask you to identify which of these caused the change, but most are calculations rather than classifications.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-revision-notes--05-three-routes.webp" width="900" height="820" alt="Three panels. Heating: a flame transfers thermal energy to water so its thermal store rises. Work done by a force: a force moves a block along a surface so its kinetic store rises. Work done when a current flows: a cell drives a current through a motor that lifts a load so its gravitational store rises." loading="lazy">
+  <figcaption>A system can change by heating, work done by a force, or work done when a current flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--03-stores-fall-and-rise.webp" width="900" height="1118" alt="Six situations, each with the store that decreases and the store that increases, e.g. vehicle slowing: kinetic falls, thermal in brakes, tyres and road rises." loading="lazy">
+  <figcaption>In every change one store falls and another rises.</figcaption>
+</figure>
+
+
 ## The three core equations
 
 ```
@@ -48,6 +59,32 @@ gravitational potential     Ep = m g h
 
 **g.p.e. uses height gained, not total height.** If an object falls partway, use the *change* in height, not the starting height above the ground.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-revision-notes--06-height-gained.webp" width="900" height="940" alt="A ball of mass 2.0 kg falls from the top of a 10 m tower to a ledge 6 m above the ground. The height change is 4 m, so the energy lost is 2.0 x 9.8 x 4 = 78.4 J. Using 10 m would wrongly give 196 J." loading="lazy">
+  <figcaption>Use the change in height, not the starting height above the ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-revision-notes--07-two-spring-limits.webp" width="900" height="960" alt="Force-extension graph of a spring. The line is straight up to the limit of proportionality at 0.20 m and 8 N, where Ee = half k e squared holds. Beyond it the graph curves. The elastic limit lies at or beyond that point (here 0.28 m); past it the spring stays permanently stretched when unloaded." loading="lazy">
+  <figcaption>The elastic limit lies at or beyond the limit of proportionality; beyond the elastic limit the spring is permanently deformed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power--03-braking-doubling-speed.webp" width="900" height="950" alt="Two lanes show a 1200 kg van braking with the same 6000 N force. From 10 m/s it has 60 000 J and stops in 10 m; from 20 m/s it has 240 000 J and stops in 40 m. Doubling the speed gives four times the energy and four times the braking distance." loading="lazy">
+  <figcaption>Doubling speed quadruples the kinetic energy, so the same brakes need four times the distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-in-a-system--08-elastic-energy-area.webp" width="900" height="960" alt="Force against extension graph for a spring with k = 40 N/m, straight up to 0.20 m. The area under the line to 0.10 m is 0.2 J and to 0.20 m is 0.8 J, matching half k e squared. Doubling the extension gives four times the energy." loading="lazy">
+  <figcaption>Elastic energy is the area under the force-extension line, E = half k e squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-forces--06-spring-elastic-energy.webp" width="900" height="1060" alt="Two force-extension graphs: an elastic spring retraces its line on unloading, an inelastic one ends with a permanent extension. A third graph shows the triangle under the line up to 0.15 m and 6.0 N, whose area is the stored energy 0.45 J." loading="lazy">
+  <figcaption>Elastic objects return to their shape; the area under the line is the energy stored, Ee = ½ k e².</figcaption>
+</figure>
+
+
 
 ## Specific heat capacity
 
@@ -59,6 +96,17 @@ change in thermal energy   delta-E = m c delta-theta
 
 **Required practical activity 1** determines the specific heat capacity of one or more materials. The method links the decrease of one energy store (electrical work done, usually via a heater) to the resulting rise in temperature and the thermal energy gained. Know that some energy is always dissipated to the surroundings during the experiment, which is a source of systematic error the practical write-up should mention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--01-heating-mc-delta-theta.webp" width="900" height="870" alt="Two temperature strips. Aluminium 0.50 kg warms 20 to 60 C: 0.50 x 900 x 40 = 18 000 J. Kettle water 1.5 kg warms 20 to 100 C: 1.5 x 4200 x 80 = 504 000 J, which at 2.4 kW takes 210 s." loading="lazy">
+  <figcaption>Energy for a temperature rise is mass x specific heat capacity x temperature change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
+
 ## Power
 
 ```
@@ -67,6 +115,17 @@ power = work done / time                 P = W/t
 ```
 
 **Power is a rate**, measured in watts. 1 joule transferred per second = 1 watt. Two devices doing the same job at different speeds have different power outputs even though they transfer the same total energy — the faster one is more powerful. This is the standard way examiners test whether you understand "rate" versus "total amount".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-in-a-system--06-two-motors-power.webp" width="900" height="1100" alt="Two motors each lift a 50 N weight through 2.0 m, doing 100 J of work. The slow motor takes 4.0 s (25 W); the fast motor takes 2.0 s (50 W)." loading="lazy">
+  <figcaption>Same work in less time means greater power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-in-a-system--04-thrown-ball-energy.webp" width="900" height="1030" alt="A 0.20 kg ball is thrown up at 8.0 m/s. At launch it has 6.4 J of kinetic energy and no gravitational potential energy. At the top, 3.27 m up, it has 6.4 J of gravitational potential energy and no kinetic energy." loading="lazy">
+  <figcaption>All 6.4 J moves from the kinetic to the gravitational potential store.</figcaption>
+</figure>
+
 
 ## Worked example
 

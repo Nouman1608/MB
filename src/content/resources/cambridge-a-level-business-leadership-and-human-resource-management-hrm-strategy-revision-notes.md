@@ -41,6 +41,22 @@ Method for a "qualities" question:
 2. Show how each helps (for example, empathy lifts morale).
 3. Say whether the same qualities would matter in a different situation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--12-hr-power-bases.webp" width="900" height="1020" alt="Five bases: legitimate, reward and coercive (tied to the position; reward and coercive give compliance not commitment), expert and referent (stay with the person and win willing effort)." loading="lazy">
+  <figcaption>Five bases of leader power and the effort each wins.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--08-hr-theories.webp" width="900" height="1110" alt="Four panels: trait (born leaders, ignores learning and situation), behavioural (behaviour can be learned, assumes one best mix), contingency (best style depends on situation, e.g. directive in a crisis and consultative with experts), transformational (inspires a shared vision, relies on one person)." loading="lazy">
+  <figcaption>Four theories explain leadership as traits, behaviour, situation or inspiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
+
+
 ## 7.3.2 Theories: one-line recall
 
 | Theory | Core idea | Main weakness |
@@ -74,6 +90,12 @@ Goleman's four competencies, as the syllabus lists them:
 | Social skills | Builds relationships, communicates, resolves conflict |
 
 Application: a leader who loses temper under pressure lacks self-management. One who ignores signs of stress in the team lacks social awareness. Link each to a consequence such as absenteeism or turnover.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--13-hr-goleman-eq.webp" width="900" height="970" alt="A two by two grid: self-awareness and self-management for own emotions, social awareness and social skills for other people." loading="lazy">
+  <figcaption>Goleman four competencies in a grid.</figcaption>
+</figure>
+
 
 ## 7.4.1 HRM approaches
 
@@ -116,6 +138,17 @@ Contract types to know: temporary, zero hours, part-time, full-time, annualised 
 **Causes:** poor selection; no training; low motivation; weak leadership; unclear objectives; poor equipment or conditions; personal problems.
 **Consequences:** low output and quality; high unit cost; lost sales; falling morale; more absence and turnover.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--10-hr-performance-measures.webp" width="900" height="980" alt="Productivity rose from 264 to 300 units per employee (+13.6 percent); 9 of 48 employees left (18.75 percent); 540 of 12,000 days were lost (4.5 percent)." loading="lazy">
+  <figcaption>Productivity rose while turnover stayed high.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+
 ### Improving performance: match the strategy to the cause
 
 | Cause | Strategy |
@@ -127,12 +160,24 @@ Contract types to know: temporary, zero hours, part-time, full-time, annualised 
 | Poor conditions | Better equipment, hours or workspace |
 | Persistent failure | Warnings, redeployment, dismissal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--11-hr-cause-fix.webp" width="900" height="966" alt="Poor performance means lower output, higher unit costs, lost customers, low morale and absence. Match the fix to the cause: skills gap to training; low motivation to pay, enrichment or recognition; unclear aims to objectives and MBO; weak supervision to leadership training; poor conditions to better equipment or hours. Last resort: warning, redeployment, dismissal." loading="lazy">
+  <figcaption>The strategy should match the cause of poor performance.</figcaption>
+</figure>
+
+
 ### Management by Objectives (MBO)
 
 Steps: set business objectives, cascade them, agree individual objectives with each employee, provide resources, monitor and review, reward and reset.
 
 - **Useful when:** staff are skilled and trusted, and results can be measured.
 - **Limits:** time-consuming; targets can be out of date; may encourage a focus on what is measured; poorly suited where tasks are routine and tightly controlled.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--11-hr-mbo-cascade.webp" width="900" height="920" alt="Business sales target rises 10 percent to 1,320,000 dollars; Branch A agrees 495,000 dollars; its manager gets the local advertising budget and quarterly reviews, with review feeding new objectives." loading="lazy">
+  <figcaption>MBO cascades agreed objectives down and reviews them.</figcaption>
+</figure>
+
 
 ### IT and AI in HRM
 
@@ -145,6 +190,22 @@ Steps: set business objectives, cascade them, agree individual objectives with e
 | Staff queries | Chatbots | Impersonal; cannot handle complex cases |
 
 Judgement line: these tools save time and cost, but people decisions still need human oversight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--09-hr-hard-soft.webp" width="900" height="960" alt="Hard HRM treats staff as a resource at lowest cost with close control and short-term contracts, cutting cost fast but risking low morale. Soft HRM treats staff as an asset to develop with training and long-term commitment, costing more but building skill and loyalty." loading="lazy">
+  <figcaption>Hard and soft HRM treat employees as a cost or as an asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--10-hr-contracts.webp" width="900" height="1054" alt="Eleven contracts, each with an illustrative week pattern, one gain and one risk for the business, e.g. temporary matches demand but has low loyalty; zero hours pays as needed but staff are insecure; gig economy pays per task but gives little control." loading="lazy">
+  <figcaption>Eleven flexible contracts, each with a typical week and a business gain and risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--12-hr-it-ai.webp" width="900" height="960" alt="IT holds records and supports recruitment, training, payroll and performance data; AI screens applications, answers queries and spots patterns. Benefits are speed, lower admin cost and consistency; risks are bias, less personal contact, privacy worries and cost or over-reliance. Humans still decide." loading="lazy">
+  <figcaption>IT and AI speed up HR work but carry risks, and people still decide.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

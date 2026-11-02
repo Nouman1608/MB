@@ -56,6 +56,12 @@ The second distinction is about direction.
 
 Do not confuse "deflationary policy" with "deflation". Deflationary policy slows demand. Deflation is a falling price level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+
 ## 4b: Fiscal instruments
 
 **Government spending** includes current spending (wages, health, transfers such as unemployment benefit) and capital spending (roads, schools). Spending is an injection, so a rise shifts AD right directly.
@@ -76,6 +82,12 @@ Country A has potential output of 420bn and actual output of 400bn. The output g
 Now compare a lump-sum tax cut of 10bn. Households spend (1 − 0.15 − 0.10) = 0.75 of it at home, so the first-round injection is 7.5bn. Output rises by 7.5 × 2.5 = **18.75bn**. To close the whole 20bn gap by tax alone you would need 20 / 1.875 = 10.67bn. Spending is "more powerful per unit of budget cost" because none of it leaks into saving or imports in the first round.
 
 This assumes spare capacity. If the economy is already at full capacity, extra AD mainly raises the price level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--04-spending-vs-tax-cut.webp" width="900" height="940" alt="Two bar sets with a multiplier of 2.5. A government spending rise of 8bn is fully spent in the first round, so output rises 20bn and closes the 20bn gap. A tax cut of 10bn has only 7.5bn spent at home because 1.5 is saved and 1.0 goes on imports, so output rises 18.75bn and the gap is not closed." loading="lazy">
+  <figcaption>Why a spending rise is stronger per unit of budget cost than a tax cut.</figcaption>
+</figure>
+
 
 ## 4c: Monetary instruments
 
@@ -108,12 +120,44 @@ The authorities can require banks to lend more cautiously or less cautiously. Ex
 
 Banks must hold a minimum share of deposits as liquid assets. A higher ratio leaves less to lend. In a simplified case, new reserves of 5bn support at most 5 / 0.10 = 50bn of deposits at a 10% requirement, but 5 / 0.12 = 41.67bn at 12%. Lending capacity falls from 45bn to 36.67bn. This is a ceiling, since banks may hold extra reserves and may not find enough borrowers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--05-qe-bond-yield.webp" width="900" height="860" alt="Curve of bond yield against bond price for a bond paying 6 a year. At price 100 the yield is 6.00%, at 110 it is 5.45% and at 125 it is 4.80%. When the central bank buys bonds the price rises, so the yield falls and borrowing becomes cheaper." loading="lazy">
+  <figcaption>Why QE pushes long-term interest rates down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--01-rate-cut-mortgage-real-rate.webp" width="900" height="1010" alt="Two bar pictures. A 200,000 mortgage costs 14,000 a year at 7% and 12,000 at 6%, saving 2,000 a year (about 166.67 a month). Below, bars split the policy rate into inflation and real rate: 5% is 3% plus 2% real, and after the cut 4% is 3% plus 1% real." loading="lazy">
+  <figcaption>A rate cut cuts mortgage interest and the real rate, raising disposable income and AD.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--02-credit-limits-ltv-reserves.webp" width="900" height="1040" alt="Top: on a 250,000 house a 90% loan-to-value limit allows a 225,000 loan and needs a 25,000 deposit; an 80% limit allows 200,000 and needs 50,000. Bottom: 5bn of reserves supports 50bn of deposits at 10% (45bn to lend) but 41.67bn at 12% (36.67bn to lend, 8.33bn less)." loading="lazy">
+  <figcaption>Tighter lending criteria and higher reserve requirements cut credit without changing the interest rate.</figcaption>
+</figure>
+
+
 ## 4d: The role of central banks
 
 1. **Implementing monetary policy.** It sets the policy interest rate, runs QE and applies any reserve or lending rules.
 2. **Achieving an inflation target.** Many central banks are given a target. Suppose Country A's target is 2%. The price index rises from 125.0 to 129.5, so inflation = (129.5 − 125.0) / 125.0 = **3.6%**. That is 1.6 percentage points above target. Next year's index would need to be about 132.09 (129.5 × 1.02) to hit it. The central bank would consider deflationary monetary policy.
 3. **Banker to the government.** It holds the government's accounts, handles payments and helps the government issue and manage its debt.
 4. **Banker to the banks, and lender of last resort.** Commercial banks hold reserve accounts with it, which they use to settle debts with each other. If a solvent bank cannot meet withdrawals because it cannot get funds elsewhere, the central bank steps in with a loan so that a loss of confidence does not spread. Drawback: moral hazard, since banks may take bigger risks if they expect rescue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--03-inflation-target-gap.webp" width="900" height="930" alt="Bars show actual inflation of 3.6% against a 2% target, 1.6 percentage points above. A price index line shows 125.0 last year, 129.5 this year and about 132.09 needed next year to hit 2%." loading="lazy">
+  <figcaption>The index rise from 125.0 to 129.5 is 3.6%, above the 2% target; 132.09 would hit it next year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central--04-central-bank-banker-lender.webp" width="900" height="990" alt="The central bank sits between the government (it holds accounts, handles payments and debt) and commercial banks (reserve accounts settle debts between banks; emergency loan to a solvent bank as lender of last resort). A box notes the moral hazard drawback." loading="lazy">
+  <figcaption>The central bank is banker to the government and to the banks, and lends in an emergency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## 4e: Strengths and weaknesses
 

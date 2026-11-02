@@ -43,6 +43,12 @@ Links: [AQA A-level Physics hub](/boards/aqa/a-level/physics/), [printable check
 | Mass-energy | E = mc² | 1 u = 931.5 MeV |
 | Binding energy | (mass of nucleons − mass of nucleus) × c² | use nuclear, not atomic, mass |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+
 ## 3.8.1.1 Rutherford scattering
 
 | Observation | Conclusion |
@@ -89,6 +95,27 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 
 **Worked reminder.** Nuclei in 1.0 g of a nuclide with molar mass 100 g mol⁻¹: N = (1.0/100) × 6.02 × 10²³ = **6.02 × 10²¹**. Keep the mass and molar mass in the same unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--01-aphy-nuclear-radiations.webp" width="900" height="840" alt="Alpha is stopped by paper, beta by a few mm of aluminium and gamma is only reduced by thick lead. Alpha makes the most ion pairs along its short track and gamma the fewest. Alpha is least hazardous outside the body and most hazardous inside it." loading="lazy">
+  <figcaption>Alpha, beta and gamma differ in how far they penetrate and how strongly they ionise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--03-aphy-nuclear-random-decay.webp" width="900" height="1170" alt="100 dice are thrown repeatedly and every six is removed. Which die goes is unpredictable, but the number left follows the smooth curve 100 x (5/6)^n, halving after about 3.8 throws." loading="lazy">
+  <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--04-aphy-nuclear-half-life.webp" width="900" height="1010" alt="Corrected count rate against time for a source starting at 800 counts per minute. The rate halves every 14 minutes whether it starts from 800 or 488, so the half-life is constant and lambda = ln 2 / 14 = 0.0495 per minute." loading="lazy">
+  <figcaption>The half-life is the same wherever on the decay curve you start.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
+  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
+
 ## 3.8.1.4 Nuclear instability
 
 | Region of N–Z graph | Decay | Z | N |
@@ -130,12 +157,24 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 4. Multiply by 931.5 to get MeV (or by c² after converting to kg, for J).
 5. Divide by A for binding energy per nucleon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--07-aphy-nuclear-binding-curve.webp" width="900" height="980" alt="Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 at about 8.8 MeV and falls slowly to about 7.6 MeV for uranium-235. Fusion of light nuclei and fission of heavy nuclei both move nuclei towards the peak and release energy: 17.6 MeV for deuterium plus tritium and about 184 MeV for a uranium-235 fission." loading="lazy">
+  <figcaption>Both fusion and fission release energy because their products sit nearer the peak of the curve.</figcaption>
+</figure>
+
+
 ### Method in steps: energy released in a reaction
 
 1. Add the masses on each side (atomic masses are fine if the electrons balance).
 2. Mass lost = mass before − mass after.
 3. Energy released = mass lost × 931.5 MeV.
 4. Check that nucleon number and charge balance in the equation first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--06-aphy-nuclear-mass-defect.webp" width="900" height="920" alt="The four separate nucleons of helium-4 weigh 4.031882 u but the nucleus 4.001505 u. The mass defect 0.030377 u is equivalent to 28.3 MeV, the binding energy, which is 7.07 MeV per nucleon." loading="lazy">
+  <figcaption>The binding energy is the energy equivalent of the mass defect.</figcaption>
+</figure>
+
 
 ## 3.8.1.7 Induced fission
 
@@ -208,3 +247,14 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
+  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+

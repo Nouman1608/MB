@@ -34,6 +34,17 @@ Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) speci
 - Ineffective communication: wrong orders, missed deadlines, rumours, complaints, lost sales, staff who feel ignored.
 - Always finish the chain: poor communication leads to a result, and the result costs money, time or reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--05-internal-external-receiver.webp" width="900" height="1130" alt="An email to a colleague inside the business is internal; the same method sent to a supplier outside is external. Five lesson examples are sorted by receiver." loading="lazy">
+  <figcaption>Sort communication by who receives it, not by the method used.</figcaption>
+</figure>
+
+
 ## 2. Methods, benefits and limitations (2.1.1)
 
 | Method | Key benefit | Key limitation |
@@ -58,6 +69,12 @@ Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) speci
 3. Give one limitation or a better alternative.
 4. Make a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--01-video-v-travel.webp" width="900" height="730" alt="Two bars to scale: travel to head office costs 4,320 dollars a year (6 managers x 4 trips x 180) and video conferencing 1,140 dollars (95 x 12). The saving is 3,180 dollars, but face-to-face gives better feedback and trust." loading="lazy">
+  <figcaption>Video conferencing saves 3,180 a year, but the loss of face-to-face contact must be weighed.</figcaption>
+</figure>
+
+
 ## 3. Barriers (2.1.2)
 
 | Barrier | How it arises | Removal |
@@ -71,6 +88,12 @@ Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) speci
 
 **Remedy to remember:** feedback. Two-way communication (conversation, meeting) catches misunderstanding; one-way communication (notice, memo) does not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--06-barrier-reason-problem-fix.webp" width="900" height="1150" alt="A four-step chain: jargon in the order email, because the office uses short forms the plant does not know, led to 150 boxes being repacked, fixed by plain words, a standard layout and confirmation before packing." loading="lazy">
+  <figcaption>A barrier has a reason, causes a problem and needs a matching fix.</figcaption>
+</figure>
+
+
 ## 4. Types of employment (2.2.1)
 
 | Type | Meaning | One benefit | One limitation |
@@ -82,6 +105,12 @@ Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) speci
 
 **Worked reminder.** A part-time worker on 25 hours when the full-time week is 40 hours works 25 ÷ 40 = 62.5% of a full-time week. Pay at 11.00 an hour is 25 × 11.00 = 275 a week.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--02-job-share-pay.webp" width="900" height="760" alt="A 40-hour job is split between Ali (22 hours) and Bea (18 hours). Pay at 11.00 an hour is 242 and 198, total 440, the same as one full-timer." loading="lazy">
+  <figcaption>A job share covers the full hours at the same total pay as one full-time worker.</figcaption>
+</figure>
+
+
 ## 5. Recruitment documents (2.2.2)
 
 | Document | Who writes it | One line to remember |
@@ -90,6 +119,32 @@ Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) speci
 | Person specification | Employer | Who is wanted: skills, qualifications, experience, qualities |
 | Application form | Applicant completes the employer's form | Same questions for all, easy to compare |
 | CV/résumé | Applicant | Applicant's own summary of history and skills |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--03-agency-cost.webp" width="900" height="690" alt="A bar splits the 3,520 cost of filling a 24,000 post into the 640 advertisement and the 2,880 agency fee (12 percent of salary)." loading="lazy">
+  <figcaption>An agency hire costs 640 + 2,880 = 3,520.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--04-shortlist-funnel.webp" width="900" height="774" alt="Sixty dots show applications; 9 gold dots are the 15 percent shortlisted. Nine interviews of 45 minutes take 405 minutes, 6.75 hours." loading="lazy">
+  <figcaption>Shortlisting 15 percent of 60 applications leaves 9 interviews of 6.75 hours in all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--06-recruitment-documents.webp" width="900" height="1000" alt="Four cards: the job description (employer; the job), the person specification (employer; the person wanted), the application form (employer designs; same questions for all) and the CV (applicant writes; own choice of content)." loading="lazy">
+  <figcaption>The job description says what the job is; the person specification says who is wanted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--11-three-routes.webp" width="900" height="804" alt="Internal: cheaper, quicker; small pool, leaves a gap. External: bigger pool but dearer and slower, via an agency (saves time, fee) or online (cheap, many unsuitable applicants)." loading="lazy">
+  <figcaption>Three ways to find candidates and the main advantage and drawback of each.</figcaption>
+</figure>
+
 
 ## 6. The recruitment process (2.2.3)
 
@@ -112,6 +167,12 @@ Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) speci
 - **Minimum wage laws:** a legal lowest hourly pay. Effects: higher wage costs (especially for part-time and casual roles), possible price rises or lower profit, better pay and motivation for workers.
 
 **Worked reminder.** Minimum hourly pay 8.50 (invented). A worker on 35 hours must earn at least 35 × 8.50 = 297.50 a week. A worker on 28 hours paid 7.40 is short by 1.10 an hour: 28 × 1.10 = 30.80 a week, or 1,601.60 over 52 weeks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--05-hartwell-minimum-wage.webp" width="900" height="820" alt="Two bars compare weekly pay for three part-timers: 456 at 7.60 an hour and 492 at the invented minimum of 8.20. The extra is 36 a week, 1,872 over 52 weeks." loading="lazy">
+  <figcaption>Paying the minimum wage costs Hartwell Bakery 36 more a week.</figcaption>
+</figure>
+
 
 ## Command words with this topic
 

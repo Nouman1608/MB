@@ -67,6 +67,12 @@ YED (bus journeys)     = −5 ÷ 5  = −1.0
 
 **Worked example 3: XED.** The price of Brand X cereal bars rises from 2.00 to 2.20 cu (+10%). Demand for Brand Y bars rises from 300 to 345 (+15%). XED = +15 ÷ 10 = +1.5. Separately, a games console price rises 20% and demand for its games falls from 1,000 to 900 (−10%): XED = −10 ÷ 20 = −0.5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## 2.2.3: relative percentage changes, size and sign
 
 **Relative changes.** Elasticity uses percentages, not absolute amounts, so it compares changes of different goods fairly. A rise from 2 to 3 cu is +50%. A rise from 20 to 21 cu is +5%. Both add about 1 cu to a price, but they are very different price changes. Elasticity also has no units, so you can compare goods measured in kilograms, journeys or subscriptions.
@@ -83,6 +89,12 @@ YED (bus journeys)     = −5 ÷ 5  = −1.0
 
 **Size.** For YED, a value above +1 means demand is income elastic (a "luxury" in the textbook sense, as with restaurant meals above). A value between 0 and +1 means income inelastic (a necessity). For XED, a larger size means a closer relationship. Cereal bars at +1.5 are close substitutes. The console and games at −0.5 are complements, but a weak pair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+
 ## 2.2.4: describing elasticity values
 
 Use these terms, using the size of PED.
@@ -96,6 +108,12 @@ Use these terms, using the size of PED.
 | Perfectly elastic | infinity | Any price rise cuts demand to zero | Horizontal |
 
 In worked example 1, PED is −0.8, so demand is inelastic: a 15% price rise cut quantity by only 12%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--10-ped-five-demand-shapes.webp" width="900" height="1320" alt="Five demand curve sketches: vertical (PED 0), steep (between 0 and 1), rectangular hyperbola (1), shallow (greater than 1) and horizontal (infinity)." loading="lazy">
+  <figcaption>The five named cases of PED and the demand-curve shape that goes with each.</figcaption>
+</figure>
+
 
 ## 2.2.5: PED along a straight-line demand curve
 
@@ -114,6 +132,17 @@ Take the demand curve P = 80 − 4Q, which meets the price axis at 80 and the qu
 So PED is elastic on the upper half, unitary at the midpoint and inelastic on the lower half. Revenue is highest at the midpoint. A sketch in words: price on the vertical axis, quantity on the horizontal, a downward line from 80 to 20, with the midpoint at (10, 40) marked as unitary.
 
 **Choice of base matters for big changes.** Moving from price 60 to 40 gives %ΔP = −33.3% and %ΔQ = +100%, so PED = −3.0. Moving back from 40 to 60 gives %ΔP = +50% and %ΔQ = −50%, so PED = −1.0. Both match the point values at the starting price. Calculate over small changes, or state which base you use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--09-ped-line-80-4q.webp" width="900" height="1060" alt="Straight demand line P = 80 − 4Q with points at output 5, 10 and 15. PED is −3 (elastic) at the top, −1 at the midpoint and −0.33 (inelastic) lower down. The revenue curve beneath peaks at 400 at the midpoint and is 300 at the other two points." loading="lazy">
+  <figcaption>Along P = 80 − 4Q the slope stays −4 but PED falls from elastic to inelastic and revenue peaks at the midpoint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--04-ped-base-choice.webp" width="900" height="1000" alt="Demand line P = 80 - 4Q with point A (quantity 5, price 60) and point B (quantity 10, price 40). Moving A to B: price -33.3%, quantity +100%, PED -3.0, matching the point value at 60. Moving B to A: price +50%, quantity -50%, PED -1.0, matching the point value at 40." loading="lazy">
+  <figcaption>Going from 60 to 40 gives PED −3.0; going back from 40 to 60 gives −1.0, so state your base.</figcaption>
+</figure>
+
 
 ## 2.2.6: factors affecting each elasticity
 
@@ -143,6 +172,12 @@ Total expenditure of consumers equals price × quantity, and is the same amount 
 **Worked example 5: price cut, inelastic demand.** The same price cut raises quantity from 100 to 104 (+4%). PED = −0.4. Expenditure: 1,000 → 936. Revenue falls.
 
 **Worked example 6: price rise.** A price rise from 10 to 12 cu (+20%) with PED of −0.5 cuts quantity by 10%, from 100 to 90. Expenditure: 1,000 → 1,080. With PED of −2 instead, quantity falls 40% to 60 and expenditure falls to 720.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## 2.2.8: implications for decision-making
 

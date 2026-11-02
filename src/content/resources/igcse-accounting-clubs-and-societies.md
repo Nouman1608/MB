@@ -74,6 +74,12 @@ An **income and expenditure account** does the job of a statement of profit or l
 | Subscriptions received, 9,150 | Receipt of 9,150 | Income of 9,330 after adjusting for arrears, advance payments and amounts written off |
 | Opening cash and bank, 2,400 | First receipt | Never shown |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--04-rp-vs-ie.webp" width="900" height="1055" alt="Four Kelmarsh items shown in both accounts: the 1,500 boat is a payment but not expenditure (only 1,350 depreciation); rent paid 2,400 becomes expenditure 2,500; subscriptions received 9,150 become income 9,330; opening cash is never income." loading="lazy">
+  <figcaption>The receipts and payments account follows cash; the income and expenditure account follows the year.</figcaption>
+</figure>
+
+
 ## Preparing a receipts and payments account
 
 1. Write the opening cash and bank balance on the receipts side.
@@ -101,6 +107,12 @@ Regatta entry fees            1,350   Insurance                        780
 
 The balance carried down is 20,700 less payments of 16,370, which is 4,330.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--05-rp-account-layout.webp" width="900" height="1028" alt="Receipts 20,700 including the opening balance 2,400; payments 16,370 plus the closing balance 4,330 as balancing figure. Nothing is adjusted." loading="lazy">
+  <figcaption>The closing balance is the balancing figure.</figcaption>
+</figure>
+
+
 ## Revenue-generating activities
 
 Many clubs run activities to raise money. Each gets its own short account, and only the net result goes to the income and expenditure account. A café or refreshments activity is prepared like a trading account, then its direct expenses are deducted. The cash book shows what was paid, so adjust the payments for trade payables:
@@ -124,6 +136,12 @@ Profit on café                                       2,840
 ```
 
 The regatta is a one-off event. Entry fees of 1,350 less costs of 700 give a surplus on the regatta of 650. If costs had been larger, the activity would show a loss, which is deducted in the income and expenditure account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
 
 ## Subscriptions
 
@@ -149,6 +167,17 @@ Subscription income is therefore 9,330. The write-off of 90 is not deducted from
 
 The club also keeps an allowance for irrecoverable debts on its arrears, using the method from 4.4. It was 30 at the start. At the year end it is 10% of 450, which is 45. The increase of 15 is expenditure, and the allowance of 45 is deducted from arrears in the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--06-kelmarsh-subscriptions.webp" width="900" height="1030" alt="Subscriptions account totalling 9,890 with income 9,330 as the balancing figure. The 90 write-off is separate expenditure; the allowance rises from 30 to 45, an extra 15 of expenditure." loading="lazy">
+  <figcaption>Income of 9,330 is the balancing figure; the 90 and the 15 are expenditure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
+
 ## Adjustments from 5.1
 
 Section 5.5 applies the adjustments listed in 5.1. Drawings are an owner's item, so a club has none.
@@ -169,6 +198,17 @@ Kelmarsh's boats had a net book value of 12,000 at 1 January. With the new boat,
 The adjusted figures are:
 - Boat shed rent: 2,400 paid + 400 owing at the end - 300 owing at the start = 2,500.
 - Insurance: 780 paid + 180 prepaid at the start - 195 prepaid at the end = 765.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--07-insurance-prepaid.webp" width="900" height="830" alt="Insurance paid 780, plus 180 prepaid at the start, less 195 prepaid at the end, gives an expense of 765." loading="lazy">
+  <figcaption>Insurance expense is 780 + 180 − 195 = 765.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--08-adjustments-table.webp" width="900" height="1006" alt="Six adjustments (depreciation, accrued expense, prepaid expense, accrued income, income in advance, irrecoverable debt and allowance) with their effect on the income and expenditure account and the statement of financial position." loading="lazy">
+  <figcaption>Each adjustment changes both statements.</figcaption>
+</figure>
+
 
 ## Income and expenditure account
 
@@ -193,6 +233,12 @@ Less expenditure
                                                     10,710
 Surplus for the year                                 2,110
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--05-surplus-to-fund.webp" width="900" height="900" alt="Income of 12,820 and expenditure of 10,710 are drawn to one scale, leaving a surplus of 2,110. The opening fund of 14,280 plus the surplus gives a closing fund of 16,390. A deficit would be subtracted." loading="lazy">
+  <figcaption>The surplus is added to the accumulated fund; a deficit is subtracted.</figcaption>
+</figure>
+
 
 ## Accumulated fund
 
@@ -238,6 +284,12 @@ Total accumulated fund and liabilities              17,560
 ```
 
 Both totals are 17,560. A deficit would be subtracted from the opening fund instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--09-sofp-balances.webp" width="900" height="860" alt="Assets of 17,560 (boats 12,150, cash 4,330, other current assets 1,080) equal accumulated fund 14,280 plus surplus 2,110 plus liabilities 1,170." loading="lazy">
+  <figcaption>Assets and fund plus liabilities both total 17,560.</figcaption>
+</figure>
+
 
 ## Common errors
 

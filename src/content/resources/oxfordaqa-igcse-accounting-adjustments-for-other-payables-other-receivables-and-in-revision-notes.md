@@ -35,6 +35,12 @@ Accruals concept: each item of income or expense is placed in the year it relate
 | Income due | Income earned, not yet received | Profit up | Current asset |
 | Income received in advance | Cash received, service not yet given | Profit down | Current liability |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+
 ## Formulae
 
 Use these as a check on your ledger. The opening figure is the balance brought down at the start of the year and the closing figure is the balance at the year end.
@@ -67,6 +73,17 @@ Pattern: for anything you owe or are owed at the start, the opening amount belon
 | Income due | Debit | Credit | Debit |
 | Income received in advance | Credit | Debit | Credit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--09-adj-four-ledger-sides.webp" width="900" height="970" alt="Four small T-accounts show where b/d and c/d sit. Other payables and income received in advance (liabilities) open on the credit side; other receivables and income due (assets) open on the debit side. The balance is carried down on the opposite side and brought down on the same side as the opening balance." loading="lazy">
+  <figcaption>Assets open on the debit side and liabilities on the credit side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--10-adj-draft-profit-walk.webp" width="900" height="900" alt="A waterfall starts at draft net profit 18,450, subtracts wages owing 640, adds rent paid in advance 1,100 and commission due 210, subtracts rent received in advance 480, and ends at adjusted net profit 18,640, a net change of +190." loading="lazy">
+  <figcaption>Each adjustment moves profit up or down depending on whether it changes an expense or an income.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 Fraction method: an annual maintenance contract of 2,400 is paid on 1 October and covers twelve months. The year end is 31 December. Months used: 3, so the charge is 2,400 x 3/12 = 600. Months left: 9, so the other receivable is 2,400 x 9/12 = 1,800.
@@ -74,6 +91,17 @@ Fraction method: an annual maintenance contract of 2,400 is paid on 1 October an
 Profit correction: a draft profit of 15,000 omits 300 owing for telephone and 200 of commission due. The adjusted profit is 15,000 - 300 + 200 = 14,900.
 
 Statement layout reminder: the expense or income appears in the income statement at the adjusted figure, while the closing balance appears separately in the statement of financial position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--06-adj-income-two-ways.webp" width="900" height="1118" alt="Two waterfalls. Income due: 4,200 less 350 plus 700 gives 4,550. Income received in advance: 5,100 plus 600 less 900 gives 4,800. Axis starts at 3,500." loading="lazy">
+  <figcaption>Income for the year is cash adjusted by the opening and closing balances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## Worked reminder: one ledger from start to finish
 
@@ -100,6 +128,17 @@ Check with the formula: 2,150 - 180 + 240 = 2,210. The 240 goes to current liabi
 | Closing income due | Not shown | Current assets |
 | Closing income received in advance | Not shown | Current liabilities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--08-adj-payables-t-account.webp" width="900" height="785" alt="An electricity T-account with debit on the left: bank 3,640 and balance c/d 520, total 4,160. On the credit side: balance b/d 410 and income statement 3,750, total 4,160, then balance b/d 520 for the next year. The charge is 3,640 - 410 + 520 = 3,750." loading="lazy">
+  <figcaption>The opening balance goes on the credit side and the balancing figure is the income statement charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--08-adj-sandmere-profit.webp" width="900" height="918" alt="A waterfall from gross profit 61,500 adding rent 3,250 and design fees 4,500, then subtracting wages 24,800, rates 3,600, heat and light 3,550 and insurance 1,250, to net profit 36,050." loading="lazy">
+  <figcaption>Each adjusted figure feeds the income statement to give net profit.</figcaption>
+</figure>
+
+
 ## Checklist before you move on
 
 - I can state what the accruals concept means and link it to each adjustment.
@@ -117,6 +156,12 @@ Check with the formula: 2,150 - 180 + 240 = 2,210. The 240 goes to current liabi
 - Cash paid versus the charge for the year: they are equal only when the opening and closing balances are both zero or cancel out.
 - A balance carried down versus brought down: carried down closes the old period and brought down opens the new one.
 - Reversal at the start of a year: an amount owing or prepaid at the end of one year becomes the opening balance of the next, so it is dealt with again when the next payment or receipt is recorded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -146,6 +191,12 @@ Answer all ten from memory, then check below. Businesses are invented.
 9. 12,000 + 250 + 180 - 90 = 12,340.
 10. The accruals concept.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--07-adj-insurance-prepaid.webp" width="900" height="620" alt="A waterfall: paid 1,260, plus 300 paid in advance at start, less 340 paid in advance at end, gives a charge of 1,220." loading="lazy">
+  <figcaption>The prepaid amounts at the start and end adjust the cash paid to give the charge.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the wrong sign for the opening balance, so that the charge comes out too high or too low.
@@ -157,6 +208,12 @@ Answer all ten from memory, then check below. Businesses are invented.
 - Adding all four adjustments to profit with the same sign instead of checking whether each increases or decreases profit.
 - Listing the items under non-current headings.
 - Giving a numerical answer with no working, so that an arithmetic slip leaves nothing to reward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--09-adj-sandmere-position.webp" width="900" height="830" alt="Two scaled columns. Current assets 1,700: other receivables 1,450 and income due 250. Current liabilities 2,150: other payables 1,250 and income received in advance 900." loading="lazy">
+  <figcaption>Other receivables and income due are current assets; other payables and income received in advance are current liabilities.</figcaption>
+</figure>
+
 
 ## Next steps
 

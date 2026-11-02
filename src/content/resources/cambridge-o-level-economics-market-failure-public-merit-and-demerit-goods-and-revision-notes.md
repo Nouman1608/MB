@@ -51,6 +51,17 @@ These notes squeeze section 2.10 (Market failure) of the 2026 examination syllab
 
 Syllabus limit: give examples of these areas only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--06-fizzy-drink-demerit.webp" width="900" height="830" alt="A fizzy drink costs 2.00 and the buyer values it at 3.00, a gain of 1.00. Social cost is 2.00 + 1.50 + 0.50 = 4.00, so the net for society is minus 1.00 and consumption is too high." loading="lazy">
+  <figcaption>The buyer sees +1.00 but society loses 1.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## Consequences (2.10.3)
 
 | Situation | Market output vs best output | Word to use |
@@ -61,6 +72,12 @@ Syllabus limit: give examples of these areas only.
 | External benefit | Too low | Under-consumption |
 
 Misallocation means resources are in the wrong uses. Too much goes into harmful goods, and too little into beneficial ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--08-output-too-high-or-too-low.webp" width="900" height="830" alt="Two panels compare market output with the best output. Demerit goods and goods with external costs are over-produced; merit goods and goods with external benefits are under-produced. Resources go to the wrong uses." loading="lazy">
+  <figcaption>Markets over-produce goods with external costs and under-produce those with external benefits.</figcaption>
+</figure>
+
 
 ## Formulae and quick checks
 
@@ -88,6 +105,12 @@ Misallocation means resources are in the wrong uses. Too much goes into harmful 
 2. So output or consumption is too high or too low.
 3. So resources are misallocated.
 4. So society is worse off. Name who loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--09-four-link-answer-chain.webp" width="900" height="830" alt="Two four-step chains. Demerit good: buyers ignore the harm, buy more than is best, resources flow into the good, other uses lose out. Merit good: buyers undervalue the benefit, buy too little, resources are left under-used, welfare is lower than possible." loading="lazy">
+  <figcaption>Build each answer as four linked steps.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -150,6 +173,12 @@ Use an example from the area the question asks about. Do not stretch to topics o
 - **Over-consumption or over-production.** Say which side you mean, though both are too much.
 - **Occupational or geographical immobility.** Skills against location.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+
 ## Sentence frames for explanations
 
 - "Because the good is non-excludable, people can use it without paying, so firms cannot earn revenue and do not supply it."
@@ -158,6 +187,12 @@ Use an example from the area the question asks about. Do not stretch to topics o
 - "Workers lack the skills for the vacancies, so labour is unemployed while jobs go unfilled, which wastes a factor of production."
 
 Add the name of the good, one named person or group who gains or loses, and one number if the question gives data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--02-vaccination-merit-good.webp" width="900" height="870" alt="Three columns compared with a price line at 18. The buyer perceives a benefit of only 12, below the price, so net is minus 6 and the person does not buy. The true private benefit is 24, net plus 6. Adding the external benefit of 14 to other people and the health service gives a social benefit of 38, net plus 20. Because the buyer decides on the perceived 12, the merit good is under-consumed." loading="lazy">
+  <figcaption>The buyer perceives a benefit of 12 against a price of 18 and does not buy, although the true private benefit is 24 and the social benefit 38.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -189,6 +224,12 @@ Add the name of the good, one named person or group who gains or loses, and one 
 11. 85 - 70 = 15.
 12. For example smoke or noise that harms neighbours, or river pollution that harms downstream fishers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--07-tree-plot-external-benefit.webp" width="900" height="780" alt="A plot costs 60 and gives the landowner timber worth 50 (net minus 10), so none is planted. Adding 30 of flood relief to farms makes the social benefit 80, a net of plus 20 per plot, so 20 plots would add 400." loading="lazy">
+  <figcaption>External benefits mean too few plots are planted.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a public good only by who pays for it, with no mention of non-excludable or non-rival.
@@ -204,3 +245,9 @@ Add the name of the good, one named person or group who gains or loses, and one 
 ## Official syllabus
 
 Source: Cambridge International, Cambridge O Level Economics (2281), examination year 2026, version 2, section 2.10 headed Market failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+

@@ -60,6 +60,17 @@ Statement C6.2i follows: hexan-1-ol reacts like ethanol because both carry –OH
 - C₈H₁₈: 2 × 8 + 2 = 18 fits CₙH₂ₙ₊₂: **alkane** (octane).
 - C₂H₅OH ends in –OH: **alcohol** (ethanol).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+
 ## Naming and drawing the first four members (C6.2b, CM6.2i)
 
 The stem gives the number of carbons: meth- 1, eth- 2, prop- 3, but- 4. The alkenes start at two carbons, because a C=C bond needs two.
@@ -88,6 +99,17 @@ Check that each carbon has four bonds, each hydrogen one and each oxygen two.
 
 **Three dimensions to two (CM6.2i).** A carbon with four single bonds is tetrahedral (about 109.5°), but a displayed formula draws 90° angles. Likewise diamond is a 3D network with each carbon bonded to four others, while one layer of graphite's hexagons can be drawn flat. The suggested **molecular models** help: build butane from a kit, rotate it, then draw it flat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-un112-tetra-3d-2d.webp" width="900" height="1020" alt="Methane drawn in 3D with one wedge bond, two dashed bonds and one bond in the page, then as a flat displayed formula with 90 degree bonds. Underneath, a carbon with four bonds is diamond-like and one with three bonds is graphite-like." loading="lazy">
+  <figcaption>Flat displayed formulae use 90 degrees even though the real bond angle is 109.5 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
+
 ## Reactions you must predict (C6.2c)
 
 **Combustion.** Complete combustion of any alkane, alkene or alcohol gives carbon dioxide and water.
@@ -108,6 +130,32 @@ Check that each carbon has four bonds, each hydrogen one and each oxygen two.
 C₃H₇OH + 2[O] → C₂H₅COOH + H₂O (propan-1-ol to propanoic acid)
 
 The acid keeps the alcohol's carbon count. The same rules apply to "other given members" such as hex-1-ene (C6.2i).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--02-un112-butanol-mass.webp" width="900" height="990" alt="A four-step ladder from 3.70 g of butan-1-ol to 8.80 g of carbon dioxide: divide by Mr 74, multiply by 4 from the equation, multiply by 44." loading="lazy">
+  <figcaption>Mass to moles to moles to mass for burning butan-1-ol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
 
 ## Addition polymers (C6.2d, C6.2g)
 
@@ -160,6 +208,12 @@ The suggested practical is the "nylon rope trick":
 
 The acid is used as its dichloride, so the small molecule is **hydrogen chloride**, not water. Wear gloves and eye protection (both reactants are corrosive) and keep flames away from the flammable cyclohexane; use a fume cupboard.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--03-un112-nylon-rope.webp" width="900" height="920" alt="A beaker with aqueous diamine below and cyclohexane plus diacid chloride above; nylon film forms at the boundary and is wound onto a rod. HCl, not water, is the small molecule released." loading="lazy">
+  <figcaption>Nylon forms as a film where the two layers meet.</figcaption>
+</figure>
+
+
 ## Natural polymers (C6.2h)
 
 - **DNA** is a polymer of four different monomers called **nucleotides**. Each is named after the base it contains: adenine (A), thymine (T), cytosine (C) and guanine (G).
@@ -195,6 +249,12 @@ Fractional distillation gives more long-chain molecules than people want, and to
 
 Carbon left: 15 − 9 = 6, so 3 each; hydrogen left: 32 − 20 = 12, so 6 each. The product is **C₃H₆, propene**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-u2061-cracking-c15.webp" width="900" height="975" alt="A chain of 15 carbon atoms (C15H32) is cut into a 9-carbon alkane, C9H20, and two 3-carbon propene molecules, C3H6, each with a C=C double bond. Carbon left is 15 - 9 = 6, so 3 each; hydrogen left is 32 - 20 = 12, so 6 each. Equation: C15H32 -&gt; C9H20 + 2 C3H6." loading="lazy">
+  <figcaption>Subtract the known product from C15H32 and share the rest between the two identical molecules: each is C3H6, propene.</figcaption>
+</figure>
+
+
 ## Cells and fuel cells (C6.2p, C6.2q)
 
 A **chemical cell** keeps giving a potential difference only until its reactants run out. A **fuel cell** is fed continuously with fuel and oxygen, so it keeps working while they flow in.
@@ -215,6 +275,12 @@ In the hydrogen/oxygen fuel cell with an acidic electrolyte:
 | Quiet, few moving parts | Few refuelling stations |
 
 Other fuel cells use fuels such as methanol: easier to store as a liquid, but it releases carbon dioxide. For a given use, weigh storage, cost, emissions and running time, then reach a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--04-un112-fuel-cell-halves.webp" width="900" height="920" alt="Hydrogen enters at the negative electrode and oxygen at the positive, with an acid electrolyte between. Electrons go round the external circuit and H+ ions through the electrolyte; both half-equations and the overall equation are shown." loading="lazy">
+  <figcaption>Half-equations at each electrode of the acidic hydrogen fuel cell.</figcaption>
+</figure>
+
 
 ## Common errors
 

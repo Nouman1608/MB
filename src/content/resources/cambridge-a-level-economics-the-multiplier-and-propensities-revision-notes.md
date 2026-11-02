@@ -54,6 +54,22 @@ Method for any propensity question:
 - apm at 800 = 120/800 = 0.15; mpm = 20/100 = 0.20.
 The art rose because mrt is above art: a progressive tax. The mpm exceeds the apm, so imports are growing faster than income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--12-apc-and-mpc.webp" width="900" height="1040" alt="Consumption against disposable income for C = 50 + 0.7Yd through (200,190), (300,260), (400,330). The ray from the origin to (300,260) has slope 0.867 (apc); the triangle 100 across and 70 up gives mpc 0.7. apc falls 0.95, 0.867, 0.825 while mpc stays 0.7." loading="lazy">
+  <figcaption>apc falls as income rises because of autonomous consumption; mpc stays at 0.7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--03-propensity-base-conversion.webp" width="900" height="830" alt="One unit of national income is split: tax 0.25, disposable 0.75, of which saved 0.15 and spent 0.60; of the spending 0.10 goes on imports and 0.50 is re-spent at home. Withdrawals 0.25 + 0.15 + 0.10 = 0.50, so k = 1 / 0.50 = 2, equal to 1 / (1 - 0.8 x 0.75 + 0.1)." loading="lazy">
+  <figcaption>Taxing first means the saving and spending shares are 0.75 of each extra unit of income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--04-apm-art-mrt.webp" width="900" height="1130" alt="Two graphs for Country D. Imports M = 0.1Y: a ray from the origin to M = 114 at Y = 1,140 gives apm 0.10, and the step from 1,140 to 1,400 (26 over 260) gives mpm 0.10. Tax T = 0.25Y: ray gives art 0.25 and steps 65 over 260 give mrt 0.25. Both functions pass through the origin so average equals marginal." loading="lazy">
+  <figcaption>apm and art are levels over Y; mpm and mrt are changes over changes.</figcaption>
+</figure>
+
+
 ## Multiplier formulae
 
 | Economy | k = |
@@ -78,6 +94,22 @@ The art rose because mrt is above art: a progressive tax. The mpm exceeds the ap
 - Country G, open with government: mps = 0.10, mrt = 0.30, mpm = 0.20. mpw = 0.60, so k = 1/0.60 = 1.667. An investment injection of 90 raises Y by 90 x 1.667 = 150.
 - Country H: mpc = 0.9 on disposable income, t = 0.2, mpm = 0.12. k = 1/(1 - 0.9 x 0.8 + 0.12) = 1/0.4 = 2.5. Check: 0.1 x 0.8 + 0.2 + 0.12 = 0.40.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--08-leakages-and-multiplier.webp" width="900" height="1070" alt="One extra unit of income splits into saving 0.15, tax 0.20, imports 0.15 and 0.50 re-spent, so mpw 0.50 and k = 2. A 60 cu rise in government spending creates rounds of 60, 30, 15, 7.5, ... totalling 120." loading="lazy">
+  <figcaption>The bigger the leakages, the smaller the multiplier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## National income determination
 
 | Approach | Equilibrium condition |
@@ -97,12 +129,34 @@ The art rose because mrt is above art: a progressive tax. The mpm exceeds the ap
 - Y = 330 / 0.5 = 660.
 - Check: Yd = 528, C = 60 + 396 = 456, S = 528 - 456 = 72, T = 132, M = 66. Withdrawals = 270 = injections (90 + 110 + 70). This is equilibrium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--09-income-equilibrium-45-degree.webp" width="900" height="1080" alt="Graph of planned expenditure against income. The AD line 570 + 0.5Y crosses the 45-degree line at 1,140. At 900, AD is 120 above income so output rises; at 1,400, AD is 130 below so output falls." loading="lazy">
+  <figcaption>Equilibrium is where AD meets the 45-degree line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--11-injections-equal-withdrawals.webp" width="900" height="1070" alt="Injections are fixed at 470 (I 150, G 200, X 120). Withdrawals are 350 at income 900, 470 at 1,140 and 600 at 1,400, so income rises, is in equilibrium, or falls." loading="lazy">
+  <figcaption>Equilibrium is where planned injections equal planned withdrawals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
+
 ## Effect of a change in AD
 
 - Change in Y = k x change in autonomous spending.
 - Required injection for a target rise in Y = target change / k.
 - For Country J, G rises by 20: change in Y = 2 x 20 = 40, so new Y = 700. If X falls by 15: change in Y = -30.
 - The multiplier works downwards too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--10-shift-or-pivot.webp" width="900" height="1080" alt="Zoomed graph (axes start at 900). Government spending up 40 shifts AD up in parallel (Y = 1,220). Raising the tax rate from 25% to 35% flattens AD to gradient 0.42 (Y about 983, a fall of about 157). Original equilibrium is 1,140." loading="lazy">
+  <figcaption>Autonomous changes shift AD; a change in a propensity pivots it.</figcaption>
+</figure>
+
 
 ## Worked reminder: a change in the tax rate
 

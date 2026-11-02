@@ -48,6 +48,17 @@ The syllabus lists four reasons. Learn each as a cause with an effect.
 - **Free trade agreements.** Countries in an agreement reduce or remove trade barriers such as tariffs between them. Selling to those countries becomes cheaper, so trade grows.
 - **Newly industrialised countries.** These are countries whose manufacturing has grown quickly. They offer large new markets as incomes rise, and low-cost sites for production and supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--10-globalisation-reasons.webp" width="900" height="910" alt="Four causes each lead to more trade across borders: better transport, technological change, free trade agreements and newly industrialised countries." loading="lazy">
+  <figcaption>The four syllabus reasons for globalisation, each a cause of more trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ### Opportunities and threats for businesses
 
 | Opportunities | Threats |
@@ -88,6 +99,22 @@ Imbrook could raise its price, switch to a supplier inside a free trade agreemen
 
 Last year, demand for imported frames in a country was 10,000. A quota now limits imports to 6,000, a cut of 40%. A local frame maker faces fewer rivals and can expect more orders and perhaps a higher price. Bike assemblers who relied on imports must find the other 4,000 frames at home, pay more or make fewer bikes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--01-tariff-frames.webp" width="900" height="850" alt="Two bars show one $300 bike. Before the tariff: frame $80, other costs $140, profit $80. After a 15% tariff the frame costs $92 including a $12 tariff, so profit is $68. On 10,000 bikes profit falls from $800,000 to $680,000." loading="lazy">
+  <figcaption>A 15% tariff on frames cuts Imbrook Cycles profit by $120,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--11-import-quota-example.webp" width="900" height="830" alt="A quota lets 6,000 of 10,000 frames in and keeps 4,000 out, a 40 percent cut. Local makers may sell more; assemblers must find frames at home, pay more or make fewer bikes." loading="lazy">
+  <figcaption>A quota caps units: 6,000 of 10,000 frames get in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
+
 ## 6.2.2 Multinational companies (MNCs)
 
 A **multinational company (MNC)** is a business that has operations, such as factories, offices or shops, in more than one country. It is usually run from a head office in one country. This is the standard meaning.
@@ -101,6 +128,12 @@ A **multinational company (MNC)** is a business that has operations, such as fac
 - **Spreading risk.** A fall in demand in one country can be offset by sales elsewhere.
 - **Stronger brand and reputation** as a global name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--12-mnc-business-advantages.webp" width="900" height="910" alt="A hub labelled MNC links six advantages: larger markets, lower costs, avoiding trade barriers, economies of scale, spreading risk and a global brand." loading="lazy">
+  <figcaption>Six advantages to a business of becoming a multinational company.</figcaption>
+</figure>
+
+
 ### Advantages for the country where an MNC is located
 
 The syllabus gives four examples: jobs, exports, increased choice and investment.
@@ -109,6 +142,12 @@ The syllabus gives four examples: jobs, exports, increased choice and investment
 - **Exports.** If the MNC sells part of its output abroad, the country earns income from overseas buyers.
 - **Increased choice.** Consumers can buy goods and services that were not available before, often at lower prices.
 - **Investment.** The MNC pays for buildings, machinery and training, which may also help local firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--13-mnc-host-country.webp" width="900" height="880" alt="A balance: jobs, exports, more choice and investment on the gains side; more competition, environmental damage, resources taken and profits sent home on the losses side." loading="lazy">
+  <figcaption>A host country gains and loses from an MNC.</figcaption>
+</figure>
+
 
 ### Disadvantages for the country where an MNC is located
 
@@ -141,6 +180,12 @@ The quarry's own accounts show 450,000, but the community bears 200,000 of cost.
 
 Not all effects are bad. If the quarry paid to resurface a road that other drivers also use, that is an external benefit. When you evaluate, compare the size of external costs and benefits and ask who bears or gains from them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--02-quarry-external-cost.webp" width="900" height="860" alt="Two columns: the quarry sees a $450,000 private profit. Subtracting $200,000 of external cost borne by the community leaves a $250,000 gain to society." loading="lazy">
+  <figcaption>The community bears $200,000 of cost that the quarry does not pay.</figcaption>
+</figure>
+
+
 ## 6.2.4 Exchange rates
 
 An **exchange rate** is the value of one currency measured in another currency. The syllabus asks for two ideas.
@@ -162,6 +207,27 @@ Link the change to price, costs or competitiveness, the three effects named in t
 Deverill Pottery makes plates in a country whose currency has just appreciated. Its clay is bought locally, but half its sales are exports. Overseas shoppers now pay more for each plate, so its products are less competitive against rivals. Sales abroad may fall. The firm might lower its profit margin to hold its price, but that cuts profit. The effect on a business that mostly imports its materials would be the reverse.
 
 No conversion sums are needed here, because exchange rate calculations are not assessed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--14-exchange-rate-effects.webp" width="900" height="830" alt="A grid of exporters and importers against appreciation and depreciation of the home currency. Appreciation: exporters lose competitiveness, importers see lower costs. Depreciation: the reverse." loading="lazy">
+  <figcaption>Appreciation and depreciation affect exporters and importers in opposite ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
 
 ## Common errors
 

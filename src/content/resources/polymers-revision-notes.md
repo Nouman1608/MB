@@ -66,6 +66,17 @@ CH2=CHCH3, propene.
 
 *(0620 Extended, 5070 required)* Naming: poly + (monomer name), e.g. poly(chloroethene) = PVC — always check whether the question wants the systematic name (chloroethene) or the common/trade name (PVC, Terylene), since both appear across past papers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+
 ## Condensation polymerisation *(0620 Extended, 5070 required)*
 
 - **Polyamide (nylon)** — dicarboxylic acid + diamine → amide link **–CONH–**, water lost.
@@ -74,6 +85,22 @@ CH2=CHCH3, propene.
 Draw these as blocks joined by the linkage, with the lost water molecules shown.
 
 **PET is recyclable back to its monomers.** Because the condensation reaction that made its ester linkages can be reversed, PET can be broken back down into its original dicarboxylic acid and diol monomers, then re-polymerised into new PET — a distinction worth knowing, since not every plastic can be recycled this molecular way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## Natural polymers *(0620 Extended, 5070 required)*
 
@@ -89,11 +116,28 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
 
 *Background — beyond the syllabus, not examinable:* starch and cellulose (both glucose polymers joined by glycosidic linkages) and DNA (nucleotides joined by phosphodiester linkages) are natural polymers, but neither is named in the 0620/5070 subject content.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
+
 ## Plastics and the environment
 
 **Problems:** most addition polymers are **non-biodegradable** (the C–C backbone is unreactive), so they persist in landfill and oceans; burning PVC releases toxic HCl; they are made from finite crude oil.
 
 **Solutions:** recycling (but sorting is difficult and quality degrades — PET is the exception that can be recycled back to its own monomers *(0620 Extended, 5070 required)*), biodegradable and photodegradable plastics, reduced use, incineration with energy recovery and gas scrubbing. See the [Polymers study guide](/resources/polymers/) for the full syllabus coverage and worked examples behind every table above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
 
 ## Exam traps
 

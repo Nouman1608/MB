@@ -32,6 +32,27 @@ A **magnetic field** is a region where a magnetic pole feels a force. Its direct
 
 Around a bar magnet the lines leave the N pole, enter the S pole, never cross, and are closest together where the field is strongest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--08-plotting-compass.webp" width="900" height="940" alt="A bar magnet with its north end on the right. A dashed line of dots curves from near the north pole round to the south pole; each dot is a pencil mark made at one end of the compass needle. Two plotting compasses are drawn on the line with the needle’s north end pointing along the line away from the N pole. Steps: mark the two ends of the needle, move the compass so one end sits on the last mark, repeat, then join the marks. The line is computed from the field of two opposite poles." loading="lazy">
+  <figcaption>Pencil marks at the needle ends join to form a field line from N to S.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--01-mag-poles.webp" width="900" height="970" alt="Two bar magnets with computed field lines. With unlike poles facing, the lines run straight across the gap from north to south and the magnets attract. With like poles facing, the lines bend away and squash apart, with a neutral point halfway where the fields cancel and a compass would not settle." loading="lazy">
+  <figcaption>Unlike poles attract and like poles repel; between two like poles there is a neutral point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--02-induced-magnet.webp" width="900" height="930" alt="A bar magnet held over an iron nail makes the nail an induced magnet: its near end becomes a south pole and its far end a north pole, so it is pulled up and holds a clip. When the magnet is removed the nail loses its poles and the clip falls. Induced magnets are only ever attracted." loading="lazy">
+  <figcaption>An iron nail is an induced magnet only while a magnet is near it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
+
 ## 4.2 Electrical quantities
 
 ### Charge and electric fields
@@ -70,6 +91,22 @@ For a wire of one material, resistance rises in **direct proportion to length** 
 
 Raising a metal's temperature increases its resistance, because the vibrating atoms collide with the free electrons more often.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--09-conductor-test.webp" width="900" height="850" alt="Two circuits with a cell, a lamp and a gap bridged by a test strip. With a copper strip the lamp lights, and a close-up shows free electrons drifting between the atoms. With a plastic strip the lamp stays off, and the close-up shows every electron held in its atom so none can drift." loading="lazy">
+  <figcaption>A lamp in series with a test strip, with close-ups of free and bound electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--10-plates-field.webp" width="900" height="850" alt="A positively charged plate above and a negatively charged plate below. Nine equally spaced parallel lines with arrows run from the positive plate to the negative plate. A positive test charge between the plates feels a force downwards along the lines, which defines the field direction. The ends of the plates are ignored." loading="lazy">
+  <figcaption>Equally spaced parallel field lines run from the positive to the negative plate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--11-ewq-worked.webp" width="900" height="740" alt="A circuit with a 9.0 V cell and a lamp. Six coulombs of charge travel round, and the cell does 9 J of work on each one, a total of 54 J. Dividing the work by the charge gives E = W/Q = 54 J divided by 6.0 C = 9.0 V, so one volt is one joule per coulomb." loading="lazy">
+  <figcaption>54 J of work on 6.0 C gives E = 9.0 V, i.e. 9 J per coulomb.</figcaption>
+</figure>
+
+
 ## 4.3 Electric circuits
 
 ### Components
@@ -91,6 +128,12 @@ Two series resistors share the supply p.d. in proportion to their resistances: R
 
 As an input sensor, an NTC thermistor or LDR is in series with a fixed resistor. When the thermistor warms, its resistance falls, so its share of the p.d. falls and the fixed resistor's share rises. An LDR does the same with light.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--04-em-potential-divider.webp" width="900" height="1085" alt="A 10 V supply across 3.0 kilohm and 2.0 kilohm in series splits into 6.0 V and 4.0 V. A potentiometer with its slider 40% up the track gives 4.0 V on a voltmeter." loading="lazy">
+  <figcaption>Series resistors share the supply p.d. in proportion to their resistances, and a slider picks off a fraction.</figcaption>
+</figure>
+
+
 ## 4.4 Practical electricity
 
 Uses include heating, lighting, battery charging, motors and electronics. In a lighting circuit, parallel lamps each get the full supply p.d. and work independently, so one failing leaves the rest on.
@@ -108,6 +151,12 @@ A fuse holds a thin wire that melts once the current goes above its rating. A tr
 A mains circuit has live (line), neutral and earth wires. A switch goes in the live wire; in the neutral wire, the appliance would stay live when off.
 
 **Earthing.** The earth wire connects a metal case to the ground. If the live wire touches an earthed case, a large current flows to earth, the fuse melts or the trip switch operates, and the case is made safe. A **double-insulated** appliance has a non-conducting case, so it cannot become live.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--12-trip-switch.webp" width="900" height="1060" alt="Two views of a trip switch in the live wire of an appliance circuit with a 5 A setting. In normal use 3.5 A flows, below the setting, and the contacts stay closed. In a fault 12 A flows, above the setting, and the contacts open, cutting off the live supply. The trip switch can be reset after the fault is fixed, whereas a fuse wire melts and must be replaced. Currents are illustrative." loading="lazy">
+  <figcaption>A trip switch opens its contacts when the current exceeds its setting and can be reset.</figcaption>
+</figure>
+
 
 ## 4.5 Electromagnetic effects
 
@@ -139,6 +188,17 @@ Each of two parallel wires sits in the other's field. Currents in the **same** d
 
 A coil in a field has a turning effect that increases with more turns, a bigger current and a stronger field. In the d.c. motor, brushes press on a **split-ring commutator** on the coil. Each half turn it swaps contacts, reversing the coil current so the coil keeps turning the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--01-em-parallel-wires.webp" width="900" height="1130" alt="End-on view of two parallel wires with circular field rings. Same-direction currents give opposite fields between the wires, which cancel, so the wires attract. Opposite-direction currents give fields that add between the wires, so they repel." loading="lazy">
+  <figcaption>Parallel wires carrying current in the same direction attract; in opposite directions they repel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--02-em-relay.webp" width="900" height="1040" alt="Two panels of a relay. With the switch open the armature is raised and the lamp is off. With the switch closed the coil magnetises the iron core, which pulls the armature down, closes the contacts and lights the lamp." loading="lazy">
+  <figcaption>A small current in an electromagnet closes contacts in a separate larger-current circuit.</figcaption>
+</figure>
+
+
 ### The transformer
 
 An iron-cored transformer has a **primary** and **secondary** coil on a soft-iron core. A.c. in the primary sets up a varying field in the core, and this induces an e.m.f. in the secondary. D.c. gives no changing field, so no output. **Step-up** means more secondary turns than primary; **step-down** means fewer. Vp ÷ Vs = Np ÷ Ns.
@@ -154,6 +214,12 @@ An iron-cored transformer has a **primary** and **secondary** coil on a soft-iro
 An oscilloscope displays a waveform as a trace. The **Y-gain** sets the p.d. per vertical division and the **timebase** sets the time per horizontal division.
 
 *Worked example 8.* Y-gain 2.0 V/div, timebase 5.0 ms/div. A wave peaks 3.0 divisions above the centre line and one cycle spans 4.0 divisions. Peak p.d. = 3.0 × 2.0 = **6.0 V**; period = 4.0 × 5.0 = **20 ms**. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--03-em-oscilloscope-trace.webp" width="900" height="1080" alt="An oscilloscope grid shows a sine trace with a peak 3.0 divisions high and one cycle 4.0 divisions long. With 2.0 V/div the peak is 6.0 V; with 5.0 ms/div the period is 20 ms." loading="lazy">
+  <figcaption>Peak p.d. and period come from counting divisions and multiplying by the Y-gain and timebase.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

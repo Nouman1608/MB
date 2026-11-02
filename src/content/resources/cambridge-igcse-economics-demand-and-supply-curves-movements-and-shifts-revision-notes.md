@@ -60,6 +60,12 @@ The syllabus gives extension, contraction, increase and decrease as examples of 
 
 Memory aid: for demand, extension goes with a price fall. For supply, extension goes with a price rise. Both are "more quantity".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--04-eco36-move-or-shift.webp" width="900" height="980" alt="A decision path starting with whether the good’s own price changed. Yes leads to movement along the same curve (extension or contraction). No leads to a shift of the demand or supply curve; right is an increase, left a decrease." loading="lazy">
+  <figcaption>First ask whether the good’s own price changed.</figcaption>
+</figure>
+
+
 ## Conditions of demand
 
 | Change | Effect on demand |
@@ -74,6 +80,37 @@ Memory aid: for demand, extension goes with a price fall. For supply, extension 
 | Expectation of higher future prices | Increase now |
 | Season or weather suits the good | Increase |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--01-eco36-market-demand.webp" width="900" height="1000" alt="Price against quantity demanded per day. Household demand curves A, B and C slope down and the market curve lies to the right of all three. At 4 cu the households buy 6, 2 and 2, so the market buys 10. A stacked bar shows the quantities being added." loading="lazy">
+  <figcaption>Market demand is found by adding quantities at each price: a horizontal sum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--02-eco36-demand-shift.webp" width="900" height="950" alt="Two parallel downward demand curves D0 and D1. D1 is 8 units to the right at every price. At a price of 4 cu quantity demanded rises from 10 to 18 without any change in price." loading="lazy">
+  <figcaption>A non-price cause shifts the whole demand curve right: an increase in demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--01-un155-demand-movement.webp" width="900" height="1010" alt="Demand curve for ice lollies with the price falling from 4 to 2 cu: quantity moves from 10 to 20 along the same curve, +100%, and the reverse is -50%." loading="lazy">
+  <figcaption>A price change slides you along the same demand curve, and the percentage depends on the start point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--03-un155-demand-conditions.webp" width="900" height="970" alt="Six small graphs show the old demand curve in grey and the new one in colour: normal-good income, inferior-good income, substitute price, complement price, expectations and weather." loading="lazy">
+  <figcaption>Whether D shifts right or left depends on the condition and the type of good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## Conditions of supply
 
 | Change | Effect on supply |
@@ -87,6 +124,32 @@ Memory aid: for demand, extension goes with a price fall. For supply, extension 
 | Good harvest | Increase |
 | Poor harvest, flood or drought | Decrease |
 | Other goods become more profitable to make | Decrease |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--03-eco36-supply-tax.webp" width="900" height="950" alt="Two upward supply curves S1 and S2. After a 1 cu tax per loaf S2 lies one price unit above S1. Twenty loaves need 3 cu on S1 but 4 cu on S2, so supply has decreased." loading="lazy">
+  <figcaption>An indirect tax raises costs and decreases supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--02-un155-supply-movement.webp" width="900" height="1010" alt="Supply curve for loaves from three bakers. The price rising from 2 to 4 cu moves quantity from 10 to 30 along S (+200%); the reverse is -66.7%." loading="lazy">
+  <figcaption>Own price moves you along the supply curve, not the curve itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--04-un155-buyers-sellers.webp" width="900" height="1115" alt="Top: 200 households buying 600 lollies rise 15% to 230 households buying 690. Bottom: supply 10,20,30,40 becomes 13,23,33,43 when baker W enters." loading="lazy">
+  <figcaption>More buyers shift demand right and more sellers shift supply right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

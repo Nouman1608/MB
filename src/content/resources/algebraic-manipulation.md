@@ -133,6 +133,12 @@ Step 2 — multiply that result by the third bracket:
 = 2x³ + 3x² − 11x − 6
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--01-expand-area-grid.webp" width="900" height="820" alt="An area grid for (3x + y)(x minus 4y) with columns 3x and y and rows x and minus 4y. The cells are 3x squared, xy, minus 12xy and minus 4y squared. Adding them and combining the xy terms gives 3x squared minus 11xy minus 4y squared." loading="lazy">
+  <figcaption>Every term in the first bracket multiplies every term in the second.</figcaption>
+</figure>
+
+
 ## Factorising
 
 **Factorise** means the reverse of expanding — write an expression as a
@@ -184,6 +190,17 @@ factor first, then factorise what's left if it will factorise further.
 = 2x(x + 2)(x + 3)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
+
 ## Completing the square
 
 Writing *ax² + bx + c* as a squared bracket plus (or minus) a constant makes
@@ -224,6 +241,12 @@ substitute back and multiply the −4 by the 2 that was factored out:
 Check by expanding: 2(x + 2)² − 5 = 2(x² + 4x + 4) − 5 = 2x² + 8x + 8 − 5 =
 2x² + 8x + 3. ✓
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--04-complete-square-tiles.webp" width="900" height="730" alt="Tiles for x squared plus 6x plus 5 nearly make a square of side x plus 3, but the 3 by 3 corner needs 9 unit squares and only 5 are there. So 4 are missing and x squared plus 6x plus 5 equals (x + 3) squared minus 4." loading="lazy">
+  <figcaption>Completing the square fills the corner of (x + 3)² and then takes away what was never there.</figcaption>
+</figure>
+
+
 ## Algebraic fractions
 
 The rules are the same as for ordinary fractions — but factorising first is
@@ -263,6 +286,12 @@ denominator: x² − 5x + 6 = (x − 2)(x − 3)
 Cancelling is only ever valid for a **factor** of the whole numerator and the
 whole denominator — never for a term that's merely added or subtracted
 somewhere inside an unfactorised expression.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

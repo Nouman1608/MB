@@ -62,6 +62,12 @@ Every proportion statement becomes an equation by replacing ∝ with "= k ×", w
 
 These formulae are not on the Higher tier formulae sheet, so learn the method rather than looking for them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--07-eight-forms.webp" width="900" height="1250" alt="Eight small graphs with k = 1: y = kx, kx squared, kx cubed and k root x rise from the origin; the four inverse forms fall and approach both axes without touching them." loading="lazy">
+  <figcaption>The eight allowed forms and the shape of each graph.</figcaption>
+</figure>
+
+
 ## The four-step method
 
 Almost every proportion question follows the same four steps.
@@ -72,6 +78,12 @@ Almost every proportion question follows the same four steps.
 4. **Use the formula** to find the unknown, either by substituting or by rearranging.
 
 Step 3 matters. Many questions say "find a formula for y in terms of x", and the mark for that needs the formula with a number in place of k, not just the value of k on its own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--08-four-step-method.webp" width="900" height="850" alt="Four numbered boxes using E proportional to v squared with E = 36 when v = 3: write with k, substitute, solve for k and rewrite as E = 4v squared, then use the formula to find E = 100 when v = 5." loading="lazy">
+  <figcaption>The four steps worked through one example.</figcaption>
+</figure>
+
 
 ## Direct proportion
 
@@ -94,6 +106,12 @@ E is directly proportional to the square of v. When v = 3, E = 36.
 ```
 
 In (c) you take a square root. v = −7 also satisfies v² = 49, but the question says v > 0. Always read the context: lengths, speeds and times are positive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--05-root-worked.webp" width="900" height="1000" alt="The graph of P = 3 times the square root of Q. The given point (16, 12) gives k = 3. Reading up from Q = 49 gives P = 21, and reading across from P = 27 gives Q = 81 because squaring undoes the root." loading="lazy">
+  <figcaption>Find k from one point, then read the graph either way.</figcaption>
+</figure>
+
 
 ### Worked example 2: proportional to a square root
 
@@ -159,6 +177,17 @@ y is inversely proportional to x³. When x = 2, y = 500. Find y when x = 5.
      y = 4000/5³ = 4000/125 = 32
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--06-inverse-worked-three.webp" width="900" height="1290" alt="Three falling graphs: F = 180/r squared, a = 12/root b and y = 4000/x cubed, each with the points from the worked examples and the value of k found from the first point." loading="lazy">
+  <figcaption>The worked inverse examples drawn as graphs: each point satisfies the formula, and the first pair gives k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
+
 ## Scale factors: what happens when x changes
 
 Some questions give no numbers for k at all. They ask what happens to y when x is multiplied by some factor. If y = kxⁿ and x is multiplied by c, then y is multiplied by cⁿ. For inverse forms, y is divided by cⁿ.
@@ -183,6 +212,22 @@ percentage increase in y = (1.728 − 1) × 100 = 72.8%
 
 A common wrong answer is 60% (three lots of 20%). Powers multiply; they do not add percentages. This links to repeated percentage change in Higher statement 1.6A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--03-prop-percent-powers.webp" width="900" height="900" alt="Three bars compare y after x is increased by 20 percent: y proportional to x rises 20 percent (x1.2), to x squared 44 percent (x1.44) and to x cubed 72.8 percent (x1.728). A dashed line marks the wrong answer of 60 percent." loading="lazy">
+  <figcaption>Powers multiply: a 20% rise in x gives 44% for x² and 72.8% for x³, not 40% or 60%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--03-square-the-change.webp" width="900" height="680" alt="Squares with sides 1, 2 and 3 contain 1, 4 and 9 unit squares. Doubling x multiplies y by 4 and tripling x multiplies y by 9. The multiplier on x is squared." loading="lazy">
+  <figcaption>For y = kx squared, multiplying x by a number multiplies y by that number squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--04-ten-percent-square.webp" width="900" height="970" alt="A unit square grows by 10 percent on each side. Two strips of 0.10 and a corner of 0.01 are added, so the area is 1.21. y rises by 21 percent, not 20 percent." loading="lazy">
+  <figcaption>A 10% rise in x gives a 21% rise in y when y is proportional to x squared.</figcaption>
+</figure>
+
+
 ## Recognising proportion from a table
 
 To test a table of values, work out the quantity that should stay constant.
@@ -199,6 +244,12 @@ To test a table of values, work out the quantity that should stay constant.
 | y | 40 | 20 | 16 | 10 |
 
 As x doubles from 2 to 4, y halves, which suggests inverse proportion. Check xy: 2 × 40 = 80, 4 × 20 = 80, 5 × 16 = 80, 8 × 10 = 80. The product is constant, so y is inversely proportional to x and **y = 80/x**. When x = 32, y = 80/32 = 2.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--02-prop-table-test.webp" width="900" height="910" alt="The table x = 2, 4, 5, 8 and y = 40, 20, 16, 10 with three check rows: y/x, xy and x squared times y, with bars scaled to each row. Only xy stays at 80, so y = 80/x and y = 2.5 when x = 32." loading="lazy">
+  <figcaption>Work out the quantity that should stay constant; the row that does not change shows the relationship.</figcaption>
+</figure>
+
 
 ## Graphs of proportion
 
@@ -228,6 +279,22 @@ straight line through the origin, so y = kx
 10 = k × 4   so   k = 2.5
 y = 2.5x,  so when x = 7, y = 2.5 × 7 = 17.5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--01-prop-straighten.webp" width="900" height="1070" alt="Two graphs of E = 4v squared. Against v the points (1, 4), (2, 16), (3, 36) lie on a curve; against v squared they lie on a straight line through the origin. A triangle from (4, 16) to (9, 36) has run 5 and rise 20, so the gradient is 4 = k." loading="lazy">
+  <figcaption>Plot y against x² to get a straight line through the origin whose gradient is k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -54,6 +54,22 @@ Three rules keep your answers accurate.
 
 **Other contexts.** A farmer who plants wheat gives up the vegetables the same land could have grown. A government that builds a road gives up the clinics or schools the money could have funded. A firm that uses its own warehouse gives up the rent it could have earned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--02-ppc-increasing-cost.webp" width="900" height="830" alt="Bars of rice lost per extra boat: 0.4, 1.2, 2.4 and 6.0 thousand tonnes for the four moves, each adding 10 boats. The rising bars show increasing opportunity cost." loading="lazy">
+  <figcaption>Moving along the curve, each extra boat costs more rice than the one before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--07-cost-of-studying.webp" width="900" height="690" alt="One bar: earnings forgone 57,600 (2,400 x 24) plus fees 6,000 (3,000 x 2) give a total cost of 63,600." loading="lazy">
+  <figcaption>Most of the cost of studying is the pay given up, not the fees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## 1.3.2 How opportunity cost influences decisions
 
 Decision makers compare the benefit of the choice with the benefit of the best alternative. If the alternative is worth more, a rational decision maker changes course.
@@ -120,6 +136,17 @@ A PPC can be a straight line. This shows **constant** opportunity cost, which ha
 
 The PPC illustrates scarcity (the economy cannot go beyond the curve), choice (it must pick a point) and opportunity cost (the slope). As a model it shows only two goods, assumes full employment and says nothing about how output is shared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--01-ppc-country-a.webp" width="900" height="990" alt="Rice in thousand tonnes against boats. Points A to E (0 and 100, 10 and 96, 20 and 84, 30 and 60, 40 and 0) form an outward-bowing curve. Point P at 20 boats and 70 rice is inside the curve, 14 thousand tonnes below point C (16.7 percent). Points outside the curve cannot be reached." loading="lazy">
+  <figcaption>Country A's table plotted as a PPC, with P under the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--06-ppc-straight-line-bakery.webp" width="900" height="860" alt="A straight line from 100 loaves and no cakes to 50 cakes and no loaves. Moving 10 cakes along it costs 20 loaves, so every cake costs 2 loaves at every point." loading="lazy">
+  <figcaption>Constant opportunity cost gives a straight PPC.</figcaption>
+</figure>
+
+
 ## 1.4.2 Points under, on and beyond a PPC
 
 | Position | Meaning |
@@ -137,6 +164,12 @@ The PPC illustrates scarcity (the economy cannot go beyond the curve), choice (i
 Moving from P to C adds 14 thousand tonnes at no opportunity cost, because idle resources are put to work. A point such as 20 boats and 95 thousand tonnes lies beyond the curve (95 is 11 more than 84), so the economy cannot reach it now.
 
 Causes of points under the curve include unemployment, a recession, a disaster that stops production, and poor allocation of workers to jobs. The result is lost output and lost tax revenue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## 1.4.3 Movements along a PPC and opportunity cost
 
@@ -200,6 +233,22 @@ A flood destroys a quarter of Country A's farmland. Maximum rice falls from 100 
 **Capital goods and consumer goods.** Putting resources into capital goods now means fewer consumer goods now but a larger PPC later. Suppose Country X invests heavily, and its maximum consumer goods output rises from 200 to 230 over some years, while Country Y's stays at 200. X's growth is (230 − 200) / 200 × 100 = 15%. The price is lower consumption today.
 
 **Evaluation.** An outward shift only raises potential output. Whether people benefit depends on using resources fully, on the mix of goods produced and on how income is shared. Growth that depletes resources can eventually shift the curve back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--03-ppc-three-shifts.webp" width="900" height="1150" alt="Three graphs of Country A before (dashed) and after (solid). All resources 15 percent better: rice 100 to 115, boats 40 to 46. Rice-only improvement: rice 100 to 130, boats unchanged. A flood: rice 100 to 75, boats unchanged." loading="lazy">
+  <figcaption>Equal growth moves the whole curve; a one-good change pivots it; a disaster shifts it inwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--08-capital-goods-grow-ppc.webp" width="900" height="970" alt="Two schematic PPCs for capital against consumer goods. Country Y stays at a maximum of 200 consumer goods; Country X after investing reaches 230, growth of 15%, at the price of lower consumption today." loading="lazy">
+  <figcaption>Investing in capital goods lowers consumption now but raises potential output later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## Common errors
 

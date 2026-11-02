@@ -49,6 +49,12 @@ Two broad sources matter for the rest of this guide:
 
 An advantage only helps if customers notice it and rivals cannot copy it quickly. A patent, a strong brand or a skilled workforce can last. A price cut is easy to match. Porter's two models give you a structured way to say where advantage can come from (the generic strategies) and how hard it is to earn profit in the market at all (Five Forces).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--10-competitive-advantage-routes.webp" width="900" height="880" alt="Illustrative unit price, cost and margin: rival 100/80/20, lower cost 100/70/30, valued difference 120/85/35." loading="lazy">
+  <figcaption>Lower cost or valued difference both raise margin, if rivals cannot copy.</figcaption>
+</figure>
+
+
 ## Porter's Five Forces: nature and purpose
 
 **Nature.** Porter's Five Forces is an analytical framework that looks at the competitive pressures inside an industry. It names five forces:
@@ -75,6 +81,12 @@ Five Forces describes the **industry**. A business's own strengths are a separat
 
 These drivers are standard textbook factors, not listed in the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--09-five-forces-drivers.webp" width="900" height="915" alt="Five rows each showing what weakens and strengthens rivalry, entrants, substitutes, buyers and suppliers." loading="lazy">
+  <figcaption>Drivers that make each force weaker or stronger.</figcaption>
+</figure>
+
+
 ### Worked example: Piperwick Laundry Services
 
 Piperwick Laundry Services cleans linen for hotels and guesthouses in a medium-sized coastal town. Annual sales revenue is £2.4 million. Its three largest customers (two hotel groups and a conference centre) pay £850,000, £400,000 and £250,000 a year. Its plant runs at 71% of capacity. A national laundry chain has just opened a depot 40 miles away. Piperwick buys detergent and machine servicing from a handful of specialist firms.
@@ -91,6 +103,12 @@ Step 2: assess each force using evidence from the case.
 
 Step 3: reach a judgement. The industry is not highly attractive for a business this size. The strongest pressure comes from buyers, so the most useful response is to reduce dependence on three customers, for example by winning many smaller guesthouse contracts and offering longer contracts to the large ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--06-piperwick-buyers.webp" width="900" height="940" alt="A revenue bar of 2.4 million pounds shows the top three customers paying 1.5 million (62.5 percent), the largest about 35 percent. A second bar shows 71 percent of plant capacity used and 29 percent spare." loading="lazy">
+  <figcaption>Customer concentration and spare capacity are the evidence behind strong buyer power and rivalry.</figcaption>
+</figure>
+
+
 ### Applying Five Forces: position and proposed position
 
 The specification asks you to evaluate a business's **position** (where it stands now) or **proposed position** (a market it plans to enter). The method is the same:
@@ -102,6 +120,12 @@ The specification asks you to evaluate a business's **position** (where it stand
 
 For a proposed move, ask whether the forces in the new market are weaker than in the current one. A market with strong rivalry and low entry costs may look big but offer little profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
+
 ### Usefulness of Five Forces
 
 Evaluate usefulness by weighing both sides.
@@ -111,6 +135,17 @@ Evaluate usefulness by weighing both sides.
 **Against:** it gives a snapshot, while markets change (new technology can reshape the forces quickly); it ranks pressures but does not say what to do; it treats the industry as the unit, so it says little about the strengths of an individual business; the strength of each force is a judgement, and managers can disagree.
 
 **Judgement.** It is most useful as a first filter for entry decisions and for explaining low margins. It is less useful alone, so a convincing answer says what it should be combined with, for example SWOT and a forecast of how the forces will change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--11-models-usefulness.webp" width="900" height="910" alt="For and against each model; use as a diagnosis not a recipe." loading="lazy">
+  <figcaption>Strengths and limits of the two models.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
 
 ## Porter's generic strategies: nature and purpose
 
@@ -141,6 +176,12 @@ Ironwell charges about 131% more per bike. Seabright earns the lower margin but 
 
 Neither strategy is automatically better; each works only if the business delivers what it needs. Seabright needs volume and low cost, so a fall in sales hurts it more. Ironwell needs customers who keep valuing the finish, so a cheaper imitation could threaten it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--05-seabright-ironwell.webp" width="900" height="890" alt="Seabright earns 64 pounds per bike (20.0 percent) on 12,000 bikes: 768,000 pounds. Ironwell earns 200 pounds (27.0 percent) on 3,500 bikes: 700,000 pounds." loading="lazy">
+  <figcaption>A lower margin can still give the higher total profit through volume.</figcaption>
+</figure>
+
+
 ### Applying the generic strategies: position and proposed position
 
 To evaluate a position, follow these steps:
@@ -161,9 +202,21 @@ For a proposed position, test whether the business has the resources for the new
 
 **Judgement.** The strategies are useful as a way to diagnose what a business is trying to do, less useful as a recipe. A strong answer links the verdict to the case: a small firm with limited funds may benefit from the clarity of a focus strategy, while a large firm in a changing market needs more flexibility.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--04-generic-strategies-grid.webp" width="900" height="970" alt="A two by two grid of source of advantage (lower cost, differentiation) against scope (whole market, narrow segment), naming cost leadership, cost focus, differentiation and differentiation focus, with Seabright in cost leadership and Ironwell in differentiation focus." loading="lazy">
+  <figcaption>The generic strategies combine a source of advantage with a market scope.</figcaption>
+</figure>
+
+
 ## Linking the models
 
 The two models answer different questions. Five Forces asks how hard it is to earn profit in this industry. The generic strategies ask how this business will win customers. In the Piperwick case, strong buyer power suggests differentiating through reliability and service contracts, because competing only on price against bigger rivals would be risky. Use each to test the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--12-models-linked-piperwick.webp" width="900" height="920" alt="Piperwick top three customers are 62.5 percent of sales, so buyer power is strong, so differentiate through reliability and service contracts." loading="lazy">
+  <figcaption>Each model tests the other.</figcaption>
+</figure>
+
 
 ## Common errors
 

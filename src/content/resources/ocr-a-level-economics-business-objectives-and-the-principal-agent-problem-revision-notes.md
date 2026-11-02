@@ -115,15 +115,58 @@ Extra units needed = extra annual cost ÷ contribution per unit. A £24,000 cost
 
 **Reminder.** A bonus on one year's profit can lead a manager to cut research or training to lift this year's profit. A bonus on a multi-year average aligns the manager better with shareholders. Check any bonus rule against what the manager can control in the short term.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--10-principal-agent-gap.webp" width="900" height="800" alt="Two figures face each other. Shareholders, the principal, want profit and share value. Managers, the agent, are hired by the shareholders but may want pay, power and a quiet life. A dashed line between them marks the different aims, and managers know more about the firm than shareholders do, which is asymmetric information. Four ways to narrow the gap are shown: pay tied to long-term results, monitoring and audits, independent directors and the threat of takeover." loading="lazy">
+  <figcaption>Shareholders hire managers whose aims and information differ, and four mechanisms narrow the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--11-bonus-points-wrong-way.webp" width="900" height="1060" alt="Line chart of yearly profit in millions of pounds over five years. Option X, cutting research, gives 4.0, 3.2, 2.6, 2.0 and 1.6, total 13.4. Option Y, keeping research, gives 3.0, 3.4, 3.8, 4.2 and 4.6, total 19.0, which is 5.6 more. With a bonus of 3 percent of one year of profit the manager gets 120,000 pounds from X and 90,000 from Y, so picks X, against shareholders' interest. With a bonus of 3 percent of the five-year average profit the manager gets 80,400 pounds from X and 114,000 from Y, so picks Y, which matches shareholders' interest." loading="lazy">
+  <figcaption>A one-year profit bonus makes the manager choose option X, while a five-year average bonus makes them choose Y, which owners prefer.</figcaption>
+</figure>
+
+
 ## Non-maximising objectives: evaluation points
 
 - **Satisficing:** realistic when information is poor and goals compete. But "satisfactory" is vague, so the theory predicts less well.
 - **Social welfare:** serves a wider group and often means lower prices or more output. But reinvestment is limited and efficiency may weaken without a profit motive.
 - **CSR:** can protect the brand, attract staff and reduce risk, so it may raise long-run profit. It can also be costly, partial or marketing only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--09-alpha-profit-objectives.webp" width="900" height="920" alt="Graph of profit in thousand pounds against output in thousand units a month for the invented Firm Alpha, profit = 80Q - 10Q squared - 60. Profit peaks at 100 at output 4 and price 80, where MR equals MC. Sales volume maximisation sets output 7, where profit is just 10 and price 65; output 8 would lose 60. Unconstrained revenue maximisation sets output 10, where marginal revenue is zero, with a loss of 260. A satisficing firm with a profit target of 80 may choose any output from 3 to 5 (profits 90, 100 and 90)." loading="lazy">
+  <figcaption>Firm Alpha profit is plotted against output, marking the output chosen under profit, volume and revenue maximisation and the satisficing range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--01-alpha-profit-floor.webp" width="900" height="900" alt="Graph of Firm Alpha profit in thousand pounds against output in thousand units a month, profit = 80Q minus 10Q squared minus 60. Profit is highest at Q 4 where price is 80 pounds and profit 100 thousand. If shareholders demand at least 50 thousand pounds of profit, the zone from about 1.76 to 6.24 qualifies, and the highest whole-number output in it, which maximises revenue, is Q 6 with revenue 420 thousand and profit 60 thousand; Q 7 gives only 10 thousand profit. If the floor is zero, so the firm just breaks even as a social-welfare or volume-maximising firm, output is Q 7 at a price of 65 pounds." loading="lazy">
+  <figcaption>A profit floor sets the highest affordable output: Q 6 with a £50k floor, Q 7 at break-even (also the social-welfare price of £65).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--02-growth-retained-profit.webp" width="900" height="820" alt="A profit of 0.5 million pounds is split: 80 percent, 0.4 million, is retained and 20 percent, 0.1 million, is paid as dividend. Capital of 2.0 million plus the retained 0.4 million gives 2.4 million next year, growth of 20 percent (0.4 divided by 2.0). The columns are drawn to the same scale." loading="lazy">
+  <figcaption>Retaining 80% of £0.5m profit lifts capital from £2.0m to £2.4m, growth of 20%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--03-csr-break-even.webp" width="900" height="850" alt="Graph of pounds against extra units sold. A flat line shows the extra annual cost of ethical sourcing, 30,000 pounds. A rising line shows total contribution at 6 pounds per unit, reaching 30,000 pounds at 5,000 units where the lines cross. The firm must sell 30,000 divided by 6, which is 5,000, extra units to cover the cost." loading="lazy">
+  <figcaption>The extra £30,000 cost is recovered after 5,000 extra units at £6 contribution each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
+
 ## Factors influencing the choice
 
 Ownership and legal form; the gap between ownership and control; strength of competition; stage of the business; financial health; stakeholder and public pressure; the economic cycle. The judgement usually turns on who holds control and what constrains them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--04-objective-factors.webp" width="900" height="836" alt="Seven factors and their effect. Ownership and legal form: a listed company aims for profit, a charity for social welfare. A wider split between ownership and control gives more room for revenue, growth and utility goals. Strong competition forces profit and efficiency, weak competition allows slack. A new business needs survival and sales, a mature one can pay dividends. A firm in financial difficulty puts survival first, a cash-rich firm can afford growth or CSR. Stakeholder pressure pushes firms toward CSR. In a downturn firms focus on survival and break-even." loading="lazy">
+  <figcaption>Who owns and controls the firm, and its market and finances, push it toward different objectives.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

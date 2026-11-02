@@ -70,6 +70,27 @@ The average is lowest at 2,000 and 3,000 (6.00). It rises to 6.50 at 4,000, so d
 | Did cost per unit rise because output rose? | Diseconomy |
 | Did costs rise for another reason, such as a tax or a supplier price rise? | Not a diseconomy of scale |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--01-haldane-average-cost.webp" width="900" height="900" alt="Stacked columns show average total cost per candle at 2,000, 4,000, 8,000, 12,000 and 16,000 candles: 8.00, 5.00, 3.50, 3.40 and 3.80. The fixed part falls from 6.00 to 0.75 as the 12,000 fixed cost is spread. Cost is lowest at 12,000 candles, then rises by 0.40, which is a diseconomy of scale." loading="lazy">
+  <figcaption>Haldane Candles: average cost falls to 3.40 at 12,000 candles, then rises to 3.80.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--02-external-economy.webp" width="900" height="850" alt="A wax supplier opens next door to Haldane Candles and delivery cost falls by 0.15 a candle. At 8,000 candles this saves 1,200, so total cost falls from 28,000 to 26,800 and average total cost from 3.50 to 3.35. Haldane did nothing itself, so the economy is external." loading="lazy">
+  <figcaption>An outside change cuts Haldane average cost from 3.50 to 3.35.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--03-economies-internal-external.webp" width="900" height="1012" alt="Six tiles show internal economies: purchasing, technical, financial, marketing, managerial and risk-bearing. Five firms in one area share skilled labour, suppliers and a freight terminal, which are external economies. The test is whether the saving would vanish if one firm or the whole area shrank." loading="lazy">
+  <figcaption>Internal economies come from the firm growing; external ones from the whole area growing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--02-four-diseconomies.webp" width="900" height="916" alt="Four panels: poor communication, lack of commitment or loyalty, weak coordination and lack of control, each with what goes wrong. All raise average cost." loading="lazy">
+  <figcaption>The four diseconomies of scale, each shown as a picture.</figcaption>
+</figure>
+
+
 ## 2. Production types (5.2.1)
 
 | | Job | Batch | Flow |
@@ -94,6 +115,17 @@ When asked for the impact of a type, choose two or three of: unit cost, flexibil
 
 Quick test (a standard form; the specification gives no formula for intensity): labour cost ÷ total cost × 100. Labour of 24,000 out of total costs of 96,000 is 25%. Set that beside a rival whose labour is 70% of costs and you can say the first firm is the more capital intensive. The specification sets no cut-off, so always compare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--03-labour-share.webp" width="900" height="780" alt="Two bars show labour cost as a share of total cost. Firm A spends 60,000 of 80,000 on labour, 75%, so it is labour intensive. Firm B spends 18,000 of 90,000, 20%, so it is more capital intensive. There is no fixed cut-off, so the two are compared." loading="lazy">
+  <figcaption>Labour is 75% of Firm A costs and 20% of Firm B costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+
 ## 3. Productivity (5.2.1)
 
 Standard form, because the specification gives no formula:
@@ -116,6 +148,12 @@ Worked reminder: 12 workers make 1,440 units a day.
 
 Impact of higher productivity: lower unit costs, room to cut price or lift profit, more output from the same staff, stronger competitiveness. Watch for: lower quality or lower morale if the gain comes from pressure on workers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--04-marden-productivity.webp" width="900" height="810" alt="Thirty workers make 2,700 garments a week, 90 per worker. After training and new sewing machines they make 3,060, 102 per worker, a rise of 13.3%. Wages stay at 13,500 a week, so labour cost per garment falls from 5.00 to 4.41." loading="lazy">
+  <figcaption>Productivity rises from 90 to 102 garments per worker, and labour cost per garment falls to 4.41.</figcaption>
+</figure>
+
+
 ## 4. Lean production (5.2.2)
 
 | Idea | In one line | Benefit | Risk or cost |
@@ -125,6 +163,17 @@ Impact of higher productivity: lower unit costs, room to cut price or lift profi
 | Using resources effectively | Make the most of materials, time, energy and space | Lower unit costs, protects profit, supports competitiveness | Takes planning and monitoring |
 
 Example for Kaizen: a packing team notices that 36 of 1,200 parcels (3%) are damaged and suggests a firmer box. Damaged parcels fall to 12 of 1,200 (1%). Small ideas, repeated, add up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--10-kaizen-small-steps.webp" width="900" height="980" alt="Three worker suggestions feed a staircase of six small steps over time: no single change is large but costs fall and quality rises." loading="lazy">
+  <figcaption>Kaizen is many small improvements.</figcaption>
+</figure>
+
 
 ## 5. Robotics and technology (5.2.3)
 
@@ -136,6 +185,12 @@ Robotics makes production more capital intensive. Weigh four factors.
 - **Flexibility:** can be reprogrammed against being less adaptable than people for unusual jobs.
 
 For a judgement, decide which factor matters most to this business. A firm making millions of identical items will favour cost and productivity; a firm making custom items will favour flexibility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production--05-teller-robots.webp" width="900" height="760" alt="Without robots 8 workers make 400 units a day, 50 per worker, at 1.20 per unit. With robots 3 workers make 600 units, 200 per worker, at 0.80 per unit, for the same daily cost of 480. The robots purchase price is not counted, so quality and flexibility must also be weighed." loading="lazy">
+  <figcaption>Teller: robots lift output per worker from 50 to 200 and cut cost per unit from 1.20 to 0.80, before purchase price.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

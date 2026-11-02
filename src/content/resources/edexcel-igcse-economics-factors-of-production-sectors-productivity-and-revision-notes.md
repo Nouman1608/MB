@@ -38,6 +38,12 @@ Also useful: the [practice questions](/resources/edexcel-igcse-economics-factors
 
 Capital means equipment, not money. Enterprise is the factor that brings the other three together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+
 ## 1.2.1 b: Sectors
 
 | Sector | Activity | Examples |
@@ -47,6 +53,22 @@ Capital means equipment, not money. Enterprise is the factor that brings the oth
 | Tertiary | Services | Retail, banking, education, transport |
 
 Classify by the activity carried out, not by the firm's name.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--04-sector-jobs-shift.webp" width="900" height="900" alt="Two stacked bars with length proportional to total jobs: Year 1 (20 million) primary 60%, secondary 15%, tertiary 25%; Year 2 (28 million) 35%, 25%, 40%, with jobs in millions. Primary share fell 25 percentage points; primary jobs fell 18.3%." loading="lazy">
+  <figcaption>A falling share of jobs is not the same as a fall of the same size in the number of jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--03-sector-output-per-worker.webp" width="900" height="860" alt="Three rows for Country A in Year 2 comparing share of jobs with share of output. Primary 35% of jobs, 22% of output, ratio 0.63. Secondary 25% and 28%, ratio 1.12. Tertiary 40% and 50%, ratio 1.25. The economy average is 1.00." loading="lazy">
+  <figcaption>Dividing output share by jobs share gives 0.63, 1.12 and 1.25 against an average of 1.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
 
 ## 1.2.1 c: Changing importance of sectors
 
@@ -85,6 +107,37 @@ Productivity = output / number of units of input (for labour: output per worker,
 
 Reminder: a firm with 8 workers makes 960 units, so productivity is 120. With 10 workers it makes 1,150, so productivity is 115. Output rose 19.8%, yet productivity fell by 4.2%: (115 - 120) / 120 x 100 = -4.17%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--06-average-productivity-falls.webp" width="900" height="940" alt="Two bar panels. Rice yield per hectare is 3.0, then 4.2 after irrigation, then 3.84 after reclaiming 10 poorer hectares. Average output per worker is $40, then $38 when 20 migrants at $30 arrive, then $41 once they reach $45." loading="lazy">
+  <figcaption>Total output can rise while average productivity falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--01-tile-cutter.webp" width="900" height="950" alt="Two rows of a tile workshop with 4 workers. Hand cutting gives 500 tiles per worker; a computer-controlled cutter gives 1,600, up 220%. Costs to weigh are the cutter price, training and possible job losses." loading="lazy">
+  <figcaption>A computer-controlled cutter lifts output per worker from 500 to 1,600 tiles, up 220%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--02-land-mechanisms.webp" width="900" height="940" alt="Three soil cross-sections with a plant. Fertiliser adds nutrients; drainage removes surplus water so roots can grow; irrigation supplies water in dry spells, and in the lesson example raises yield from 3.0 to 4.2 tonnes per hectare (+40%)." loading="lazy">
+  <figcaption>Fertiliser, drainage and irrigation each raise yield in a different way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--04-human-capital.webp" width="900" height="660" alt="A worker with a short stack of skill blocks, an arrow labelled education and training, and the worker with a taller stack, so output per hour rises. Below, the trade-off: training costs money and time, and trained staff may leave for a rival." loading="lazy">
+  <figcaption>Training raises human capital, but costs money and time and trained staff may leave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+
 ## 1.2.2 b: What affects productivity
 
 | Factor | Ways to raise productivity | Cost or limit |
@@ -116,6 +169,17 @@ Method for explaining benefits (a chain): tasks split, so workers repeat one tas
 Reminder with numbers: a workshop of 3 workers (120 hours in total) makes whole shirts at 3 hours each, so 40 shirts. If the work is divided so that labour time per shirt falls to 2 hours, output is 60 shirts, up 50%. With a weekly wage bill of USD 360, labour cost per shirt falls from USD 9.00 to USD 6.00.
 
 Evaluation points: standardised products suit division of labour; made-to-order products do not. The market must be big enough to sell extra output. Job rotation, team working and better pay can limit boredom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--05-mug-division-of-labour.webp" width="900" height="920" alt="One bar shows 2 hours to make a whole mug. A second bar splits the work into shaping 0.25, glazing 0.5, handles 0.3 and packing 0.2 hours, 1.25 in total. Output rises from 100 to 160 mugs and labour cost per mug falls from $6.00 to $3.75." loading="lazy">
+  <figcaption>Splitting the job cuts labour time per mug and raises output per worker.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-factors-of-production-sectors-productivity-and--05-division-of-labour-both-sides.webp" width="900" height="780" alt="A two by two grid. Workers: quick to learn, skill builds fast, pay may rise versus repetitive, narrow skills, low motivation. Businesses: more output per worker, lower unit costs, consistent quality versus absence and turnover, line stops if one is off, less flexible." loading="lazy">
+  <figcaption>Weigh the advantages and disadvantages for workers and for businesses.</figcaption>
+</figure>
+
 
 ## Sketch: shares of employment over time
 

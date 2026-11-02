@@ -69,6 +69,12 @@ Read the table. AC falls to 30 cars, then rises. MC is below AC while AC falls (
 
 A rise in fixed cost to 200 at 30 cars: TC = 200 + 400 = 600, so AC = 600 ÷ 30 = 20.00, up from 17.33 (+15.4%). AVC and MC do not change, because they do not include fixed cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ### Worked example 2: a pottery studio's revenue, cost and profit
 
 Demand is price = 44 − 4 × quantity (mugs a day), and fixed cost is 30.
@@ -85,6 +91,27 @@ Demand is price = 44 − 4 × quantity (mugs a day), and fixed cost is 30.
 Working for 4 mugs: TR = 28 × 4 = 112; MR = 112 − 96 = 16; profit = 112 − 102 = 10. Profit is highest at 3 mugs (12). MR is above MC at the third mug (24 against 16), so that mug adds to profit. At the fourth mug MR (16) is below MC (18), so it lowers profit. Marginal values explain why the profit peak is where it is. The A2 content in 3.3.2.4 asks you to calculate and interpret these revenue values.
 
 A profit per unit check: AR − AC at 3 mugs is 32 − 28 = 4, and 4 × 3 = 12, the same as TR − TC.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity--05-mr-v-mc-pottery.webp" width="900" height="970" alt="For mugs 1 to 6, MR is 40, 32, 24, 16, 8, 0 and MC is 20, 18, 16, 18, 22, 26. MR beats MC for the first three mugs, so profit rises to 12 at 3 mugs, then falls." loading="lazy">
+  <figcaption>Make another unit while MR is above MC; profit peaks where that stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity--13-car-wash-cost-curves.webp" width="900" height="880" alt="AFC falls 12.00 to 2.40, AVC runs 14.00, 13.00, 13.33, 15.00, 17.60 and AC 26.00, 19.00, 17.33, 18.00, 20.00 for 10 to 50 cars. MC per 10-car step is 14, 12, 14, 20, 28, below AC while AC falls and above it once AC rises." loading="lazy">
+  <figcaption>The lesson table plotted: AC falls to 30 cars, MC cuts it from below.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## QS8: elasticity
 
@@ -119,9 +146,21 @@ A bowling alley cuts a session price from 10 to 8 and weekly sessions rise from 
 
 Why: TR = price × quantity. With elastic demand the percentage change in quantity outweighs the percentage change in price, and with inelastic demand it is the other way round. This is the link between PED and total revenue (total expenditure) in section 3.1.2.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ### Worked example 4: elasticity changes along a straight line
 
 Demand is Q = 200 − 10P. At a price of 8, Q = 120. At 9, Q = 110: %ΔQ = −8.33%, %ΔP = +12.5%, PED = −0.67. At a price of 12, Q = 80; at 13, Q = 70: %ΔQ = −12.5%, %ΔP = +8.33%, PED = −1.5. TR at 8 is 960 and at 9 is 990, so a rise raises TR where demand is inelastic. At 12 the TR is 960 and at 13 it is 910, so the rise lowers TR where demand is elastic. A straight-line demand curve has the same slope everywhere but a different elasticity at each price, because the same unit change is a bigger percentage at low quantities. Also note the direction: the move from 13 back to 12 gives %ΔQ = +14.3% and %ΔP = −7.7%, so PED is −1.86. Calculations depend on the starting point, so always use the one the question gives you.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
 
 ### Worked example 5: YED and XED
 
@@ -129,9 +168,31 @@ Household income rises from 3,000 to 3,150 (+5.0%). Takeaway meals rise from 8 t
 
 The price of tea rises from 4.00 to 4.40 (+10.0%) and demand for coffee rises from 500 to 540 (+8.0%): XED = +0.8, so they are substitutes. If the price of printers rises 20% and demand for ink cartridges falls 30%, XED = −1.5, so they are complements. The larger the number, the closer the link.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+
 ### Worked example 6: PES
 
 A farm cooperative sees the price of its crop rise from 50 to 55 (+10.0%) and quantity supplied rise from 2,000 to 2,100 tonnes (+5.0%): PES = 5.0 ÷ 10.0 = 0.5. Supply is inelastic. This fits a product that takes a season to grow, where output cannot rise quickly. If a price fall of 20% cuts quantity supplied by 30%, PES = +1.5, elastic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity--10-elasticity-base-matters.webp" width="900" height="1040" alt="On Q = 200 - 10P, moving from price 12 (Q 80) to 13 (Q 70) gives -12.5% / +8.33% = -1.50. Moving back from 13 to 12 gives +14.3% / -7.7% = -1.86. Same points, different base." loading="lazy">
+  <figcaption>The base of the percentage change changes the answer: -1.50 one way, -1.86 back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity--11-yed-xed-lesson-numbers.webp" width="900" height="960" alt="Income +5.0% raises takeaway meals 12.5% (YED +2.5, normal good) and cuts budget rice 5.0% (YED -1.0, inferior). Tea price +10% raises coffee demand 8.0% (XED +0.8, substitutes); printer price +20% cuts ink demand 30% (XED -1.5, complements)." loading="lazy">
+  <figcaption>Response percentage divided by cause percentage; the sign shows the type of good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity--12-pes-lesson-numbers.webp" width="900" height="600" alt="Crop price +10% (50 to 55) raises quantity supplied 5.0% (2,000 to 2,100 tonnes): PES 0.5, inelastic. A price fall of 20% cutting supply 30% gives PES +1.5, elastic." loading="lazy">
+  <figcaption>Two PES calculations from the lesson: 0.5 (inelastic) and +1.5 (elastic).</figcaption>
+</figure>
+
 
 ## A2: marginal revenue and PED
 
@@ -144,6 +205,12 @@ When a firm cuts price to sell more, it gains from the extra units and loses on 
 | Inelastic (between 0 and −1) | Negative | Falls |
 
 A firm maximising profit will therefore not choose a point where demand is inelastic, because MR is negative and MC cannot be.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity--06-mr-and-ped.webp" width="900" height="960" alt="Demand P = 20 - 0.1Q and MR = 20 - 0.2Q. MR is positive while demand is elastic and reaches zero at Q = 100 where PED is -1. At Q = 80, P = 12 and PED = -1.5 give MR 4." loading="lazy">
+  <figcaption>MR hits zero where PED is -1, and a profit maximiser avoids the inelastic part.</figcaption>
+</figure>
+
 
 ## Interpreting and evaluating
 

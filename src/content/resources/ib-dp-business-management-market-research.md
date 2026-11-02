@@ -64,6 +64,12 @@ A simple sequence works for most cases:
 
 In an exam, "how" usually means naming a method and saying what the business would do with it, not just listing it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--10-research-steps.webp" width="900" height="908" alt="Six steps: state the question, check secondary sources, collect primary data, choose a sample, analyze with limits in mind, then act and record, which feeds the next study." loading="lazy">
+  <figcaption>Research is a cycle that starts with a clear question.</figcaption>
+</figure>
+
+
 ## Primary market research
 
 Primary research is new data collected for the business's own purpose. The guide lists four methods.
@@ -75,6 +81,12 @@ Primary research is new data collected for the business's own purpose. The guide
 **Focus groups.** A small group discusses a product, advertisement or idea, led by a moderator. Strength: reveals how opinions form and change through discussion and gives reasons behind feelings. Limitations: a few strong voices can dominate, the group is small and may not represent the market, and the language the moderator uses can steer the conclusions.
 
 **Observations.** The researcher watches what people actually do, such as which shelf they look at, how long they queue, or how they use a website. Strength: shows real behavior rather than reported behavior. Limitations: it shows what people do but not why, and watching people raises privacy questions if they do not know.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--11-primary-methods.webp" width="900" height="850" alt="Cards for survey, interview, focus group and observation, each with one strength and one limitation from the lesson." loading="lazy">
+  <figcaption>Each primary method gives something and misses something.</figcaption>
+</figure>
+
 
 ## Secondary market research
 
@@ -90,6 +102,12 @@ Secondary research uses data that already exists, collected by someone else for 
 
 General strengths of secondary research: cheaper, quicker, and good for background. General limitations: not designed for your question, may be out of date, and you cannot check how it was collected. Many businesses start here and use primary research to fill what is missing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--12-secondary-sources.webp" width="900" height="900" alt="Five sources (market analyses, academic journals, government publications, media articles, online content) each with what it gives and what to watch for." loading="lazy">
+  <figcaption>Secondary data is cheap and quick but not made for your question.</figcaption>
+</figure>
+
+
 ## Qualitative and quantitative research
 
 **Quantitative research** produces numerical data that can be counted, averaged or tested statistically, such as sales figures, percentages and rating scores. It tells you how many, how much and how often. It needs larger samples to be reliable.
@@ -97,6 +115,12 @@ General strengths of secondary research: cheaper, quicker, and good for backgrou
 **Qualitative research** produces descriptive data about opinions, attitudes and motives, such as comments, stories and reactions. It tells you why and how people feel. It is usually gathered from fewer people, is harder to summarize, and is open to interpretation.
 
 The methods do not map neatly one-to-one. A survey with only closed questions is mainly quantitative, a survey with open questions adds a qualitative element, and interviews and focus groups are mainly qualitative. Many studies use both: qualitative work finds out which issues matter, then quantitative work measures how widespread they are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--04-research-types.webp" width="900" height="820" alt="A two by two grid. Columns: primary (new data you collect) and secondary (existing data reused). Rows: quantitative (numbers) and qualitative (views and reasons). Examples: tick-box questionnaire, published sales statistics, interview or focus group, press articles and reviews." loading="lazy">
+  <figcaption>Research is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
 
 ## Sampling
 
@@ -110,6 +134,12 @@ Researchers rarely ask everyone, so they choose a sample of the target populatio
 
 Extension beyond the content list: the guide's content list for 4.4 does not mention sample error or bias. They appear only in its suggested theory of knowledge questions, which ask how a company might protect against sample error and bias and whether researcher bias can be eliminated. Sampling can introduce sample error and bias. Larger samples and clear selection rules reduce the risk but do not remove it. Bias can also arise from the researcher, for example through leading questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
+  <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
+</figure>
+
+
 ## Worked example 1: a quota sample
 
 Ellerby Fold Cycles plans a folding bicycle for commuters. Its customer list has 4,000 people: 1,200 aged 18 to 29, 1,600 aged 30 to 44, 800 aged 45 to 59 and 400 aged 60 and over. It wants a quota sample of 100.
@@ -119,6 +149,12 @@ Step 1: Work out each group's share of the list. 1,200 / 4,000 = 30%, 1,600 / 4,
 Step 2: Apply each share to the sample of 100. The quotas are 30, 40, 20 and 10 respondents.
 
 Step 3: Comment. The sample mirrors the list's age profile. But inside each age band the staff choose whom to ask, so it is not random, and a list of existing customers says little about people who do not yet buy from the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--07-quota-sample.webp" width="900" height="1030" alt="A bar shows a customer list of 4,000 split 30, 40, 20 and 10 percent by age. A grid of 100 dots shows the same shares as quotas of 30, 40, 20 and 10." loading="lazy">
+  <figcaption>Quotas copy the list profile, but staff still choose who to ask.</figcaption>
+</figure>
+
 
 ## Worked example 2: reading survey results
 
@@ -134,11 +170,28 @@ Share who agree or strongly agree: (14 + 31) / 100 = 45%.
 
 Interpretation: opinion is split, with a mean just above the midpoint. Only 40% replied, so those who did may feel more strongly than those who did not. Ellerby may follow up with a focus group of price-sensitive customers to learn why 30 respondents disagreed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--08-survey-results.webp" width="900" height="920" alt="A bar chart of 100 ratings: 14, 31, 25, 20 and 10 for ratings 5 down to 1. 45 percent agree, 30 percent disagree, mean 3.19, with a 40 percent response rate." loading="lazy">
+  <figcaption>Opinion is split and only 40 percent replied.</figcaption>
+</figure>
+
+
 ## Worked example 3: combining secondary and primary data
 
 A market analysis shows folding e-bike sales rose from 40,000 units to 48,000 units in a year. Growth is (48,000 − 40,000) / 40,000 = 20%. Ellerby sold 2,400 units, so its share is 2,400 / 48,000 = 5%.
 
 Cost comparison for the primary work: the online survey cost USD 350 for 100 responses, which is 3.50 per response. Two focus groups of eight people cost USD 900 each, so 1,800 / 16 = 112.50 per participant. The focus groups cost far more per person but explain the reasons behind the numbers. Neither replaces the other, so a justified recommendation is to use the survey to measure and the focus group to explain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--13-market-growth-share.webp" width="900" height="960" alt="Bars show sales rising from 40,000 to 48,000, growth of 20 percent. A 100-square grid for the 48,000 market shows Ellerby’s 2,400 bikes as 5 squares, a 5 percent share." loading="lazy">
+  <figcaption>Growth is 20% and Ellerby’s share is 5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--14-cost-per-response.webp" width="900" height="920" alt="An online survey costs 3.50 per response; focus groups cost 112.50 per participant, about 32 times more. The survey measures and the focus group explains, so use both." loading="lazy">
+  <figcaption>Focus groups cost far more per person but explain the reasons.</figcaption>
+</figure>
+
 
 ## Common errors
 

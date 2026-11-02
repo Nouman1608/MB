@@ -55,6 +55,17 @@ These notes condense learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level B
 4. In a root, the higher auxin level inhibits elongation on the lower side, so the root bends down.
 5. Mechanism of elongation: auxin makes cells pump hydrogen ions into the wall, the wall acidifies, cellulose bonds loosen and turgor stretches the cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--01-phototropism-iaa.webp" width="900" height="1110" alt="Two steps show a shoot lit from the right. More IAA (0.62 units) collects on the shaded side than the lit side (0.38 units), so shaded cells elongate more and the shoot bends towards the light." loading="lazy">
+  <figcaption>Unequal IAA gives unequal elongation, so the shoot bends towards light.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--02-gravitropism-shoot-root.webp" width="900" height="1100" alt="A horizontal shoot and root both have more IAA on the lower side. In the shoot this stimulates lower cells, so it curves up. In the root it inhibits lower cells, so upper cells grow more and it curves down." loading="lazy">
+  <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
+</figure>
+
+
 ### Practical: tropisms (PAG11)
 
 - Seedlings such as cress or mustard; one-sided light or horizontal position.
@@ -79,6 +90,12 @@ These notes condense learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level B
 4. Guard-cell water potential rises, water leaves by osmosis, turgor falls.
 5. Stomata close; water loss falls but carbon dioxide uptake falls too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--04-aba-stomata.webp" width="900" height="1100" alt="A guard cell: ABA binds a receptor, K+ and Cl- ions leave, guard cell water potential rises so water leaves by osmosis, turgor falls and the pore closes. An open stoma lets CO2 in and water out; a closed one reduces both." loading="lazy">
+  <figcaption>ABA triggers ion loss, then water loss, so guard cells go flaccid and the stoma closes.</figcaption>
+</figure>
+
+
 ### Leaf loss steps
 
 1. Shorter days and colder weather lower auxin from the leaf.
@@ -94,6 +111,12 @@ These notes condense learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level B
 4. Amylase hydrolyses starch to maltose, then glucose.
 5. Glucose is respired and used for growth until photosynthesis starts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--06-gibberellin-germination.webp" width="900" height="1150" alt="A barley grain in section: water enters, the embryo makes gibberellin, the aleurone layer makes amylase, starch is broken down to maltose then glucose which feeds the embryo. Starch-agar dishes show no clear zone without gibberellin, a large zone with it and a smaller zone when ABA is added." loading="lazy">
+  <figcaption>Gibberellin switches on amylase, which digests stored starch for the embryo.</figcaption>
+</figure>
+
+
 ## 5.1.5(c) Apical dominance evidence
 
 | Treatment | Result | Conclusion |
@@ -102,6 +125,12 @@ These notes condense learning outcomes 5.1.5(a) to 5.1.5(f) of the OCR A Level B
 | Remove apex, add auxin to stump | Laterals stay short | Auxin replaces the apex |
 | Remove apex, add plain carrier | Laterals grow | Carrier has no effect (control) |
 | Higher auxin concentration | Greater inhibition | Effect depends on concentration |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--05-apical-dominance.webp" width="900" height="1000" alt="Five pea plants: apex intact gives a 3 mm lateral shoot; apex cut with plain lanolin 40 mm; with 0.01, 0.1 and 1.0 percent IAA 29, 12 and 4 mm, which is 27.5, 70 and 90 percent less than the control." loading="lazy">
+  <figcaption>More IAA on the cut stump means less lateral growth, replacing the apex.</figcaption>
+</figure>
+
 
 
 ## 5.1.5(d) Gibberellin evidence

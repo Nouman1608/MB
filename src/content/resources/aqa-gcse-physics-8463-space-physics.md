@@ -52,6 +52,22 @@ The solar system has **one star, the Sun**. Around the Sun orbit **eight planets
 
 The solar system is a small part of a much bigger system, the **Milky Way galaxy**. A galaxy is a huge group of stars held together by gravity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--14-redshift-spectra.webp" width="900" height="900" alt="Three spectra from 400 to 750 nm with a dark line at 656 nm (laboratory), 689 nm (galaxy A) and 722 nm (galaxy B). The increases are 33 nm (5.0 %) and 66 nm (10 %), so galaxy B is moving away faster." loading="lazy">
+  <figcaption>A bigger increase in wavelength means a faster, more distant galaxy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--07-dark-mass-dark-energy.webp" width="900" height="1220" alt="Top: light from a far galaxy bends as it passes a cluster of galaxies inside a larger region of invisible dark mass; dark mass bends light and holds galaxies together but emits no electromagnetic radiation. Bottom: arrows for a distant galaxy get longer from earlier to now, showing recession speeding up since 1998, whose cause is called dark energy." loading="lazy">
+  <figcaption>Dark mass and dark energy are two things scientists cannot yet explain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+
 ### How the Sun formed
 
 The Sun formed from a cloud of dust and gas called a **nebula**. Gravitational attraction pulled the dust and gas together. As the material fell inwards, it became denser and hotter.
@@ -63,6 +79,12 @@ Explain this in a chain of steps:
 3. When the core is hot and dense enough, light nuclei (such as hydrogen) join together. This is **nuclear fusion**.
 4. Fusion releases energy, and the star begins to shine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--05-sun-from-nebula.webp" width="900" height="1113" alt="Four steps. 1: a nebula, a cloud of dust and gas, with gravity pulling inwards. 2: it becomes denser and hotter, with temperature and pressure rising at the centre. 3: the core is hot and dense enough for hydrogen nuclei to join to make helium, nuclear fusion. 4: fusion releases energy and the star shines." loading="lazy">
+  <figcaption>A nebula collapses under gravity until fusion starts and a star shines.</figcaption>
+</figure>
+
+
 ### Why a star is stable for a long time
 
 Two effects act on a star at the same time:
@@ -73,6 +95,17 @@ Two effects act on a star at the same time:
 While these two effects balance, the star is in **equilibrium**. Its size stays roughly the same. This stable stage is called the **main sequence**, and the Sun is in it now.
 
 Use "balance" or "equilibrium" in your answer. Saying "the star is stable" without naming both effects will not score the marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--11-star-balance.webp" width="900" height="760" alt="Three stars with inward gravity arrows and outward fusion arrows. Gravity stronger: the star shrinks. Equal arrows: balance, a stable main sequence star. Fusion stronger: the star expands." loading="lazy">
+  <figcaption>A main sequence star is stable because gravity and fusion balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
 
 ## 4.8.1.2 The life cycle of a star
 
@@ -107,6 +140,12 @@ Fusion processes in stars produce **all of the naturally occurring elements**:
 - **Elements heavier than iron are produced in a supernova.**
 - The supernova explosion **distributes the elements throughout the universe**. That material can later form new stars and planets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+
 ## 4.8.1.3 Orbital motion, natural and artificial satellites
 
 ### Gravity keeps things in orbit
@@ -130,6 +169,12 @@ Fusion processes in stars produce **all of the naturally occurring elements**:
 
 **Distinctions:** what they orbit, whether they are natural or made by people, and their size (planets are generally much larger than artificial satellites).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--04-orbit-planet-moon-satellite.webp" width="900" height="1110" alt="Three orbit diagrams: a planet orbits the Sun, a moon orbits a planet, an artificial satellite orbits the Earth. The planet and moon are natural, the satellite is made by people; in each case a copper arrow shows gravity pulling the orbiting body towards the centre. Satellites are used for communications, weather monitoring and observing. None is a star, so they only reflect light." loading="lazy">
+  <figcaption>Planets, moons and artificial satellites all orbit because gravity pulls them towards what they orbit.</figcaption>
+</figure>
+
+
 ### Higher tier only: changing velocity, constant speed
 
 This part is **Higher tier only**. Speed is a scalar; velocity is a vector, so it has a direction.
@@ -144,6 +189,12 @@ In a circular orbit:
 
 Gravity acts at right angles to the motion, so it changes direction but not speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--12-orbit-velocity.webp" width="900" height="930" alt="A satellite at four points on a circular orbit around Earth, each with a velocity arrow along the tangent and a gravity arrow to the centre at right angles. Speed is constant but direction changes. Worked example: 2 pi x 6.90e6 / 5700 = 7610 m/s." loading="lazy">
+  <figcaption>Gravity is at right angles to the motion, so it changes the direction but not the speed.</figcaption>
+</figure>
+
+
 ### Higher tier only: speed and radius of a stable orbit
 
 This part is also **Higher tier only**. For a stable orbit, each speed goes with one particular radius. If the speed changes, **the radius must change** too.
@@ -152,6 +203,12 @@ This part is also **Higher tier only**. For a stable orbit, each speed goes with
 - Objects in **larger** orbits (further out) move more slowly.
 
 The reason, qualitatively: closer to the Earth, gravity is stronger, so an object must move faster to stay in orbit rather than fall inwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--13-orbit-radius-speed.webp" width="900" height="920" alt="Three orbits around Earth with a satellite on each. The inner satellite has the longest speed arrow, the middle shorter and the outer the shortest, showing closer orbits are faster." loading="lazy">
+  <figcaption>For a stable orbit, a smaller radius goes with a greater speed.</figcaption>
+</figure>
+
 
 ### Worked example 1: speed of an orbiting satellite
 
@@ -198,6 +255,12 @@ Galaxy B has the bigger red-shift, so it is **moving away faster** and is **furt
 
 Measurements show that a galaxy's speed away from us increases with its distance. This pattern is evidence that **space itself is expanding**. If every part of space is stretching, galaxies that are further apart separate more quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--15-galaxy-speed-distance.webp" width="900" height="980" alt="A graph of galaxy speed against distance with points (1, 2300), (2, 4600), (3, 6900), (4, 9200) on a straight line through the origin. The galaxy at 2.5 is predicted at 5750 km/s." loading="lazy">
+  <figcaption>Speed is directly proportional to distance: the further the galaxy, the faster it recedes.</figcaption>
+</figure>
+
+
 ### Worked example 3: using speed–distance data
 
 The table gives data for four galaxies.
@@ -230,6 +293,12 @@ There is still much about the universe that is not understood:
 
 - **Dark mass (dark matter)** bends light and holds galaxies together, but does not emit electromagnetic radiation. Nobody knows what it is.
 - **Dark energy** is the name given to whatever is causing the universe to expand ever faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--06-expansion-run-backwards.webp" width="900" height="1010" alt="A graph of distance against time for four galaxies from the lesson speed-distance table, drawn back in time as straight lines. They all meet at zero distance 13.8 billion years ago, because distance divided by speed is the same for every galaxy. So everything started in one very small, hot, dense place, the Big Bang." loading="lazy">
+  <figcaption>Running the expansion backwards brings every galaxy back to one point.</figcaption>
+</figure>
+
 
 ## Common errors
 

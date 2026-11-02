@@ -102,6 +102,12 @@ pivot itself and so has zero perpendicular distance to it):
 d = 1.0 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--09-moments-beam.webp" width="900" height="930" alt="A 4.0 m, 220 N board rests on supports A and B with a 650 N worker 1.0 m from the left end. Taking moments about A removes R_A: 220 x 1.5 + 650 x 0.5 = R_B x 2.7, so R_B = 243 N, and balancing forces gives R_A = 627 N." loading="lazy">
+  <figcaption>Choose a pivot where an unknown force acts, equate clockwise and anticlockwise moments, then balance forces.</figcaption>
+</figure>
+
+
 ## Density and pressure
 
 **Density** ρ = mass / volume. **Pressure** p = force / area (acting

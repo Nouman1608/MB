@@ -67,6 +67,17 @@ Notation: →AB is the vector from A to B (arrow over AB in the exam); **a** is 
 
 Small reminder: if →OA = **a**, →OB = **b** and M is the midpoint of AB, then →OM = **a** + ½(**b** − **a**) = ½**a** + ½**b**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--09-quadrilateral-pqrs.webp" width="900" height="870" alt="Quadrilateral PQRS on a grid with example vectors a = (2, 1) and b = (0, 2). PQ = a + 2b, QR = 3a - b, RS = -2a, so PS = 2a + b (dashed) and SQ = -a + b." loading="lazy">
+  <figcaption>Worked example 3 drawn on a grid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <figcaption>p − q is p plus the opposite of q.</figcaption>
+</figure>
+
+
 ### Method: vector proof
 
 1. Write every vector you need in terms of the same base vectors (usually **a** and **b**).
@@ -86,12 +97,24 @@ MN = (1/3)AB
 
 So MN is parallel to AB and one third of its length. No common point is needed here, because the question is about parallel lines, not collinear points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-vec-proof-collinear.webp" width="900" height="1010" alt="Triangle OAB is drawn with a = (3,1), b = (1,4). N divides AB in ratio 1:2 and ON = (1/3)(2a + b). D has OD = 2a + b = 3 ON, so O, N and D are on one line with ON : ND = 1 : 2." loading="lazy">
+  <figcaption>OD is a multiple of ON and both start at O, so O, N and D are collinear.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - **→AB vs →BA**: same length, opposite direction; every component changes sign.
 - **Parallel vs collinear**: parallel needs a scalar multiple only; collinear also needs a shared point.
 - **Vector vs modulus**: a vector has two components; its modulus is one positive number.
 - **Position vector vs displacement**: →OA is the position vector of A; →AB is a displacement between two points.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
+</figure>
+
 
 ## 5.2 Transformation geometry (both tiers)
 
@@ -103,6 +126,12 @@ So MN is parallel to AB and one third of its length. No common point is needed h
 | Reflection | Mirror line | Length and angle | Congruent |
 | Translation | Column vector (distance and direction) | Length and angle | Congruent |
 | Enlargement | Centre and positive scale factor (fractions allowed) | Angle only | Similar, not congruent unless the scale factor is 1 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-congruent-vs-similar.webp" width="900" height="1020" alt="Four panels show a 3-4-5 triangle and its image. Translation, reflection and rotation keep lengths and angles, so the image is congruent. Enlargement by 2 doubles lengths (hypotenuse 5 to 10) but keeps angles, so the image is similar." loading="lazy">
+  <figcaption>Congruent or similar: what each transformation keeps.</figcaption>
+</figure>
+
 
 ### Coordinate rules
 
@@ -131,12 +160,49 @@ Small reminder: rotating (2, 5) through −90° about O gives (5, −2). Swap, t
 
 Small worked reminder: a triangle with a side of 6 cm maps to a triangle whose matching side is 2 cm, the same way round. The scale factor is 2 ÷ 6 = 1/3, so the answer starts "enlargement, scale factor 1/3". The image is smaller, but it is still called an enlargement; 4MA1 uses positive scale factors only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--04-vec-rotation-about-centre.webp" width="900" height="848" alt="Triangle T with vertices (3,2), (5,2), (3,5) turns 90° anticlockwise about (2,1) to T′ with vertices (1,2), (1,4), (−2,2). The method is subtract the centre, turn (x, y) to (−y, x), add the centre." loading="lazy">
+  <figcaption>Rotating about a centre that is not the origin: subtract the centre, turn, add it back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--05-vec-one-point-three-mirrors.webp" width="900" height="1036" alt="The point (3,−1) is reflected in x = 1, y = 2 and y = x, giving (−1,−1), (3,5) and (−1,3). In y = x the coordinates swap. The point and its image are equally far from each mirror." loading="lazy">
+  <figcaption>One point reflected in three of the specification mirror lines, including y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--06-vec-find-enlargement-centre.webp" width="900" height="1010" alt="Shape P and its enlargement Q are drawn. Lines through each vertex and its image meet at (1,1), the centre. Q is 3 times as far from the centre as P, so the scale factor is 3." loading="lazy">
+  <figcaption>Join each point to its image; the lines meet at the centre of enlargement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--06-construct-mirror-line.webp" width="900" height="1028" alt="Triangle ABC and its image A′B′C′ on a grid. Join A to A′, draw equal arcs from A and A′ to find two crossing points, and draw the line through them: this is the mirror line y = x. It also passes through the midpoint of BB′." loading="lazy">
+  <figcaption>Constructing the perpendicular bisector of a point and its image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--08-enlargement-no-centre.webp" width="900" height="850" alt="A small right-angled triangle (legs 2 and 1) and two copies with legs 4 and 2, drawn in different places. With no centre only the size matters: lengths double, angles stay the same and sides stay parallel." loading="lazy">
+  <figcaption>Enlargement with no centre can be drawn anywhere.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - **Clockwise vs anticlockwise**: −90° is clockwise; +90° is anticlockwise.
 - **x = 2 vs y = 2**: x = 2 is a vertical line; y = 2 is horizontal.
 - **Scale factor ½ vs 2**: ½ makes the image smaller and nearer the centre.
 - **Congruent vs similar**: rotation, reflection and translation give congruent images; enlargement gives similar images.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

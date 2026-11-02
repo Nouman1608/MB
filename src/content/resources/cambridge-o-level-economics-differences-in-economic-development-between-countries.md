@@ -60,6 +60,27 @@ A person in L has, on average, 13.75 times the income of a person in K.
 
 **Impacts of a low income:** low spending on food, housing, health and schooling, so living standards are low. People save little. The government collects little tax, so it cannot easily pay for hospitals, roads and teachers. This can trap a country in a loop in which poverty feeds on itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--03-dev-population-growth.webp" width="900" height="1050" alt="K has faster GDP growth than L but slower growth in income per head because its population grows 2.5% a year. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Yearly growth of GDP, population and income per head for K and L, with income per head after ten years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--06-dev-poverty-loop.webp" width="900" height="800" alt="Low income leads to little saving, little investment and low productivity, which keeps income low. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four-step loop from low income to little saving, little investment and low productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## Productivity
 
 Productivity measures how much is produced from each unit of a resource used. For labour, divide output by the number of workers or hours.
@@ -76,6 +97,12 @@ L's workers produce about 11.5 times as much each, so a high income per head fol
 **Impacts of higher productivity:** more output from the same workforce. Employers can pay higher wages without raising prices. Firms become more competitive against foreign producers, so exports can grow.
 
 If output per worker in K rose from 9,600 to 10,560, the change is (10,560 − 9,600) / 9,600 × 100 = 10%. With the same workers, output rises by 10%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
 
 ## Population growth
 
@@ -115,6 +142,17 @@ Half the workers produce under 30% of output. If 0.5 million workers moved from 
 
 **Impacts of a large primary sector:** output per worker is often low, and incomes depend on weather and world prices, so they fluctuate. Raw materials usually sell for less than the finished goods made from them. **Impacts of a larger secondary and tertiary share:** higher value added, more varied jobs and steadier incomes. Moving out of farming needs capital, skills and roads, so structural change takes time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--04-dev-sector-shares.webp" width="900" height="890" alt="Half of Country K workers are in the primary sector but produce under 30% of output, so output per worker there is lowest. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Stacked bars comparing each sector share of workers with its share of output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## Saving and investment
 
 Saving is income not spent. Banks lend savings to firms, which invest in capital goods. Investment raises the capital stock, productivity and future output.
@@ -134,11 +172,28 @@ Each worker in L gets about 30 times as much new capital as a worker in K each y
 
 **Impacts:** low investment means low capital per worker, low productivity and low growth. Countries may rely on foreign investment, and the profits then leave the country.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--05-dev-gap-multiples.webp" width="900" height="890" alt="L has 13.75 times the income per head, 11.5 times the output per worker and 29.8 times the new capital per worker of K. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Bars showing how many times larger L is than K on income, output per worker and new capital per worker.</figcaption>
+</figure>
+
+
 ## Education
 
 **Causes of differences:** the amount the government spends on schools, whether families can afford fees and uniforms, whether children must work, and the number of qualified teachers. In Country K the government spends 3% of GDP on education (1,440 million) for 3 million pupils, which is 480 each. In L it spends 5% of GDP (16,500 million) for 1.1 million pupils, which is 15,000 each.
 
 **Impacts:** an educated workforce learns new methods faster, uses machines properly and earns more. Educated people may start businesses and attract foreign firms that need skills. Better-educated parents tend to have fewer children and invest in their health. In a country with little education, firms struggle to find skilled staff and wages stay low. Some educated workers emigrate (brain drain), which loses the benefit of the state's spending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--01-dev-education-per-pupil.webp" width="900" height="720" alt="K spends 480 per pupil and L 15,000, so L spends 31.25 times as much per pupil. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Spending per pupil on one scale: 480 in K against 15,000 in L.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--04-dev-brain-drain.webp" width="900" height="950" alt="The state pays for schooling, the worker emigrates and the home country loses the benefit of that spending. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Flow showing an educated worker leaving and the home state losing its schooling spend.</figcaption>
+</figure>
+
 
 ## Healthcare
 
@@ -157,6 +212,12 @@ If lost time reduces output in proportion, K loses 6% of 48,000 million, which i
 
 **Impacts:** healthy workers work more days, concentrate better and live longer, so skills are used for longer. Poor health reduces productivity, lowers school attendance, raises family spending on medicine and reduces saving. Better health also lowers child death rates, which in time can reduce birth rates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--02-dev-working-days-lost.webp" width="900" height="1060" alt="K loses 15 of 250 days (6%) and L 5 (2%); K loses 2,880 million of output. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Grids of 250 working days showing 15 lost in K and 5 in L.</figcaption>
+</figure>
+
+
 ## Evaluating causes of differences
 
 Examiners ask for a judgement, not just a list. Build a chain, then weigh it.
@@ -167,6 +228,12 @@ Examiners ask for a judgement, not just a list. Build a chain, then weigh it.
 4. Qualify it: how large, how quickly, and compared with what.
 
 **Weighing the causes.** Education and health raise the quality of labour, but need government spending. Investment raises capital, but needs saving. Many factors reinforce each other, so a single "main cause" is hard to prove. A reasonable judgement picks one factor, explains why it comes first in a given case (for example, a country with a healthy workforce but no capital needs investment first) and admits that the others still matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--03-dev-evaluation-chain.webp" width="900" height="1070" alt="Low investment gives less capital per worker, so lower productivity and lower income per head; then qualify by size, speed and comparison. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four-step chain from cause to link, impact and qualification.</figcaption>
+</figure>
+
 
 ## Common errors
 

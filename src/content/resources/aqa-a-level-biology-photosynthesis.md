@@ -70,6 +70,22 @@ H₂O → 2H⁺ + 2e⁻ + ½O₂
 
 Photolysis produces three things. The electrons replace those lost from chlorophyll. The protons add to the proton concentration inside the thylakoid space and are used with NADP. The oxygen diffuses out of the leaf or is used in respiration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--04-light-dependent-stage.webp" width="900" height="960" alt="A thylakoid membrane with thylakoid space above and stroma below. Light excites electrons in photosystem II, replaced by photolysis of water, and they pass along the electron transport chain, which pumps protons into the thylakoid space. Electrons reach photosystem I and reduce NADP, while protons flow back through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Where ATP, reduced NADP and oxygen come from on the thylakoid membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <figcaption>Which products each photophosphorylation route makes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
+
 ## The light-independent reaction
 
 Reduced NADP supplies hydrogen (reducing power) and ATP supplies energy. The cycle that uses them is the Calvin cycle.
@@ -99,6 +115,17 @@ A culture of algae is in bright light with plenty of carbon dioxide, then the li
 
 If instead the carbon dioxide were removed in the light, RuBP could not be used, so RuBP would rise and GP would fall. Link each change to a reaction and you will be able to explain any graph of this kind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--07-gp-rubp-levels.webp" width="900" height="960" alt="Two model graphs. When light is switched off GP rises and RuBP falls. When carbon dioxide is removed RuBP rises and GP falls. Each follows from which reactions still run." loading="lazy">
+  <figcaption>Predicting how GP and RuBP change when light or CO2 is removed.</figcaption>
+</figure>
+
+
 ## Limiting factors
 
 A limiting factor is the variable that is in shortest supply or furthest from its best value, so that changing it changes the rate while the others do not. The environmental factors to know are:
@@ -122,6 +149,12 @@ To identify the limiting factor, change one factor at a time. If increasing it r
 | D | high | 0.40% | 15 °C | 11 |
 
 Comparing A with B changes only light, and the rate rises, so light limits A. Comparing B with C changes only carbon dioxide, so carbon dioxide limits B. Comparing C with D shows temperature affects the rate at 15 °C, which is a limiting factor in D.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
+  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
+</figure>
+
 
 ## Agricultural data
 
@@ -164,6 +197,17 @@ The solvent front moved 7.8 cm. Spots were at 7.4, 5.5, 5.0 and 3.4 cm.
 Rf = 7.4 ÷ 7.8 = 0.95; 5.5 ÷ 7.8 = 0.71; 5.0 ÷ 7.8 = 0.64; 3.4 ÷ 7.8 = 0.44.
 
 Rf has no units and is always less than 1. Compare with reference values for the same solvent and paper to identify pigments. An extra or stronger spot in one extract shows that plant has more of that pigment. Safety: solvents are often flammable and harmful, so ventilate and keep flames away.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--02-pigment-spectra.webp" width="900" height="900" alt="Schematic absorption curves for chlorophyll a, chlorophyll b and carotenoids are plotted with an action spectrum over a coloured wavelength strip. The chlorophylls absorb mainly blue and red and little green, and the action spectrum follows the combined absorption. At 450 nm the action spectrum is 78 units and at 550 nm 20 units, 26 percent." loading="lazy">
+  <figcaption>The action spectrum follows the pigments absorption spectra, with low but non-zero rate in green.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--03-chromatography-rf.webp" width="900" height="880" alt="A chromatography strip stands in solvent with a pencil origin and a solvent front 84 mm above it. Four pigment spots at 80, 55, 50 and 42 mm give Rf values 0.95, 0.65, 0.60 and 0.50. Rf has no units and is less than 1." loading="lazy">
+  <figcaption>How Rf is measured from the origin and calculated for each pigment.</figcaption>
+</figure>
+
 
 ## Required practical 8: dehydrogenase in chloroplast extracts
 

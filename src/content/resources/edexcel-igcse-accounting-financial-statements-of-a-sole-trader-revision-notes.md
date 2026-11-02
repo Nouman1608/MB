@@ -74,6 +74,17 @@ Profit for the year  (or loss for the year)
 | Drawings | Not in the income statement | Owner's withdrawals reduce equity |
 | Purchase of non-current assets | Not in the income statement | Capital expenditure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--01-ss-cost-of-sales.webp" width="900" height="954" alt="Cost of sales is built from opening inventories 8,400, plus purchases 61,300 and carriage inwards 1,200, less purchases returns 2,300 and closing inventories 9,100, giving 59,500. Net revenue of 116,500 then splits into cost of sales 59,500 and gross profit 57,000. Carriage inwards belongs in cost of sales; carriage outwards is an expense." loading="lazy">
+  <figcaption>Cost of sales is built step by step, then taken from net revenue to leave gross profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--02-ss-gross-to-profit.webp" width="900" height="1140" alt="Starting at gross profit of 57,000, discount received of 520 is added and seven expenses are deducted in turn. Carriage outwards is highlighted because it is an expense, not part of cost of sales. Expenses total 29,640 and profit for the year is 27,880." loading="lazy">
+  <figcaption>Gross profit plus other income, less every expense, leaves profit for the year of $27,880.</figcaption>
+</figure>
+
+
 ## 4.1b Statement of financial position: layout to learn
 
 ```
@@ -120,6 +131,22 @@ Equity
 ### Order of current assets
 
 Inventories, trade receivables, other receivables, bank, cash. The idea is least liquid first, most liquid last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--03-ss-profit-into-equity.webp" width="900" height="1056" alt="Net assets are built from non-current assets 88,400 plus working capital 16,600 less the loan 20,000 to give 85,000. Equity is opening capital 66,120 plus profit for the year 27,880 less drawings 9,000, also 85,000. The two totals match, so the statement balances." loading="lazy">
+  <figcaption>Profit from the income statement is added to capital, and the result equals net assets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--05-ss-negative-working-capital.webp" width="900" height="1016" alt="Current assets of 4,630 are smaller than current liabilities of 7,610, so working capital is negative 2,980. Non-current assets of 11,400 less that shortfall gives 8,420, and deducting the 6,000 loan leaves net assets of 2,420." loading="lazy">
+  <figcaption>Current liabilities exceed current assets, so working capital is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--04-st-one-year-test.webp" width="900" height="900" alt="A grid splits assets and liabilities at one year. Current assets and current liabilities fall within a year; non-current assets (including intangible goodwill) and non-current liabilities run beyond a year. A bar shows capital as opening capital plus profit less drawings, plus any capital introduced." loading="lazy">
+  <figcaption>Whether an item is current or non-current depends on whether it lasts or falls due within one year.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -212,6 +239,17 @@ When expenses exceed gross profit plus other income, the result is a loss for th
 - Giving gross profit but not carrying on to profit for the year.
 - Showing a bank overdraft as an asset.
 - Not checking that net assets equal equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--04-ss-loss-and-drawings.webp" width="900" height="920" alt="Alder Row Bakery has income of 25,200 and expenses of 28,580, so there is a loss of 3,380. The loss and drawings of 7,200 are both deducted from opening capital of 13,000, leaving 2,420, which equals net assets." loading="lazy">
+  <figcaption>A loss is deducted from capital, and drawings reduce it further.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--01-ss-where-does-it-go.webp" width="900" height="1036" alt="Six items sorted by where they belong. Carriage inwards of $1,200 goes into cost of sales. Carriage outwards of $1,150 and loan interest of $360 are expenses in the income statement. A loan repayment reduces the loan liability, buying a vehicle adds a non-current asset, and drawings of $9,000 reduce equity; none of these three is an expense." loading="lazy">
+  <figcaption>Only some items are expenses: repayments, asset purchases and drawings are not.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -73,6 +73,12 @@ Every transaction has two effects. Double entry records both: one account is **d
 
 For any transaction, ask three questions. Which two accounts change? What type is each? Does each increase or decrease? The answers give the debit and the credit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## Posting a month of transactions
 
 Vellacott Pottery Supplies, a new sole trader business, records these transactions in May. Posting means copying each half of the entry to its ledger account, with the date, the amount and the name of the **other** account in the details column. (In practice transactions are first listed in books of prime entry, covered in the overview guide.)
@@ -92,6 +98,17 @@ Vellacott Pottery Supplies, a new sole trader business, records these transactio
 | 28 | Owner takes money from the bank for personal use | Drawings | Bank | 400 |
 
 Notice that a payment to a supplier is a debit in the supplier's account, because a liability is falling. A return by a customer is a credit in the customer's account, because an asset is falling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-post-busy-accounts.webp" width="900" height="890" alt="Three ledger accounts from Vellacott Pottery Supplies with debit on the left and credit on the right. Bank has debits of 12,000, 1,800 and 1,500 and credits of 2,400, 600, 2,000 and 400, balance 9,900 debit. Kirtle Clay (supplier) has a balance of 800 credit and Garnet Row Hotel (customer) 500 debit." loading="lazy">
+  <figcaption>The bank, supplier and customer accounts after posting May.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--02-post-single-entries.webp" width="900" height="1174" alt="Eight Vellacott ledger accounts with their postings: Capital credit 12,000; Shop fittings debit 2,400; Purchases debit 3,100; Sales credits 2,250 and 1,800 (balance 4,050); Rent debit 600; Purchases returns credit 300; Sales returns debit 250; Drawings debit 400. Each shows the date and the other account." loading="lazy">
+  <figcaption>The remaining eight accounts, each holding one half of a transaction.</figcaption>
+</figure>
+
 
 ## Balancing an account
 
@@ -116,6 +133,12 @@ Dr                              |Cr
 ```
 
 The cash book records bank and cash transactions first and also serves as the ledger account for them (section 2.3), so the bank account is drawn here in ledger form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
 
 ## Transfers at the year end
 
@@ -145,6 +168,12 @@ SoPL here stands for the statement of profit or loss account. Closing an expense
 | Drawings | $400 Dr | Deducted from capital, not from profit |
 
 The debit balances and the credit balances both total $17,150 at 31 May, which is the check you meet in the [trial balance and verification guide](/resources/igcse-accounting-verification-of-accounting-records/). Preparing the full statements is covered in the [financial statements guide](/resources/igcse-accounting-preparation-of-financial-statements/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--02-year-end-transfers.webp" width="900" height="984" alt="Income and expense balances are closed to the statement of profit or loss; asset, liability and capital balances are carried down to the statement of financial position; drawings are taken off capital. Vellacott balances at 31 May: debit and credit balances both total 17,150." loading="lazy">
+  <figcaption>Income and expenses are closed; assets, liabilities and capital are carried down.</figcaption>
+</figure>
+
 
 ## Running balance accounts
 
@@ -182,6 +211,12 @@ $300 returned,
 $2,000 paid, so
 $800 is still owed at 31 May.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--03-read-balances.webp" width="900" height="882" alt="Two bar charts in dollars. Kirtle Clay (supplier): bought 3,100, returned 300, paid 2,000, 800 still owed (credit balance). Garnet Row Hotel (customer): sold 2,250, returned 250, paid 1,500, 500 still owed to us (debit balance)." loading="lazy">
+  <figcaption>A credit balance on a supplier means we owe; a debit balance on a customer means they owe us.</figcaption>
+</figure>
+
+
 ## Division of the ledger
 
 The ledger is divided so that different types of account are kept together.
@@ -193,6 +228,12 @@ The ledger is divided so that different types of account are kept together.
 | Nominal (general) ledger | Every account that is not a customer's or a supplier's: assets, expenses, income, capital and drawings | Shop fittings, Rent, Sales, Purchases, Capital, Drawings, the two returns accounts |
 
 Splitting the ledger lets different staff look after customers and suppliers, and a customer's balance can be found without searching every account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
+  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
+</figure>
+
 
 ## Digital ledgers
 

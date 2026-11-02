@@ -52,6 +52,17 @@ The reason it exceeds 1 is that one person's spending is another person's income
 
 The rounds go on, each smaller than the last, and the total converges on 100 x 1/(1 - 0.75) = 400 cu. The multiplier is 4. The process runs in reverse for a fall in injections, and it takes time: income does not reach the new level at once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Average and marginal propensities
 
 Average propensities relate a total to income at one level. Marginal propensities relate a change to the change in income that caused it.
@@ -74,6 +85,17 @@ Here C is consumption, S is saving, M is imports, T is tax revenue and Y is nati
 | 400 | 330 | 70 |
 
 At Yd = 300: apc = 260/300 = 0.867 and aps = 40/300 = 0.133. From 200 to 300: mpc = (260 - 190)/(300 - 200) = 70/100 = 0.7 and mps = 30/100 = 0.3. The data fit C = 50 + 0.7Yd, with autonomous consumption of 50. Because of that fixed 50, the apc falls as income rises (0.95, 0.867, 0.825) while the mpc stays at 0.7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--12-apc-and-mpc.webp" width="900" height="1040" alt="Consumption against disposable income for C = 50 + 0.7Yd through (200,190), (300,260), (400,330). The ray from the origin to (300,260) has slope 0.867 (apc); the triangle 100 across and 70 up gives mpc 0.7. apc falls 0.95, 0.867, 0.825 while mpc stays 0.7." loading="lazy">
+  <figcaption>apc falls as income rises because of autonomous consumption; mpc stays at 0.7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--04-apm-art-mrt.webp" width="900" height="1130" alt="Two graphs for Country D. Imports M = 0.1Y: a ray from the origin to M = 114 at Y = 1,140 gives apm 0.10, and the step from 1,140 to 1,400 (26 over 260) gives mpm 0.10. Tax T = 0.25Y: ray gives art 0.25 and steps 65 over 260 give mrt 0.25. Both functions pass through the origin so average equals marginal." loading="lazy">
+  <figcaption>apm and art are levels over Y; mpm and mrt are changes over changes.</figcaption>
+</figure>
+
 
 ## Formulae for the multiplier
 
@@ -101,6 +123,17 @@ Government spending rises by 60 cu: change in Y = 2 x 60 = 120 cu.
 **Worked example 3 (disposable-income form).** Country C has mpc = 0.8 on disposable income, a tax rate of 25% and mpm = 0.1.
 k = 1/(1 - 0.8 x 0.75 + 0.1) = 1/(1 - 0.6 + 0.1) = 1/0.5 = 2.
 Check through withdrawals: mps(1 - t) + t + mpm = 0.2 x 0.75 + 0.25 + 0.1 = 0.15 + 0.25 + 0.10 = 0.5, so k = 2. Both routes agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--08-leakages-and-multiplier.webp" width="900" height="1070" alt="One extra unit of income splits into saving 0.15, tax 0.20, imports 0.15 and 0.50 re-spent, so mpw 0.50 and k = 2. A 60 cu rise in government spending creates rounds of 60, 30, 15, 7.5, ... totalling 120." loading="lazy">
+  <figcaption>The bigger the leakages, the smaller the multiplier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--03-propensity-base-conversion.webp" width="900" height="830" alt="One unit of national income is split: tax 0.25, disposable 0.75, of which saved 0.15 and spent 0.60; of the spending 0.10 goes on imports and 0.50 is re-spent at home. Withdrawals 0.25 + 0.15 + 0.10 = 0.50, so k = 1 / 0.50 = 2, equal to 1 / (1 - 0.8 x 0.75 + 0.1)." loading="lazy">
+  <figcaption>Taxing first means the saving and spending shares are 0.75 of each extra unit of income.</figcaption>
+</figure>
+
 
 ## National income determination
 
@@ -137,6 +170,22 @@ Check why other levels are not equilibrium:
 
 Equilibrium is not necessarily full employment. The income approach shows only where planned injections and withdrawals balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--09-income-equilibrium-45-degree.webp" width="900" height="1080" alt="Graph of planned expenditure against income. The AD line 570 + 0.5Y crosses the 45-degree line at 1,140. At 900, AD is 120 above income so output rises; at 1,400, AD is 130 below so output falls." loading="lazy">
+  <figcaption>Equilibrium is where AD meets the 45-degree line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--11-injections-equal-withdrawals.webp" width="900" height="1070" alt="Injections are fixed at 470 (I 150, G 200, X 120). Withdrawals are 350 at income 900, 470 at 1,140 and 600 at 1,400, so income rises, is in equilibrium, or falls." loading="lazy">
+  <figcaption>Equilibrium is where planned injections equal planned withdrawals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
+
 ## Effect of a change in AD on national income
 
 Change in Y = k x change in autonomous spending. Only autonomous changes shift the AD line; a rise in Y itself moves along it.
@@ -156,6 +205,12 @@ k = 1/(1 - 0.8 x 0.65 + 0.1) = 1/0.58 = 1.724. Y = 570 x 1.724 = 982.8, a fall o
 - Crowding out: if government borrowing raises interest rates, private investment may fall.
 - Stable propensities: the mpc, tax rate and mpm are assumed constant but may change with confidence, expectations or exchange rates.
 - High leakages: a country that imports heavily or taxes heavily has a small multiplier, so a given injection achieves less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-the-multiplier-and-propensities--10-shift-or-pivot.webp" width="900" height="1080" alt="Zoomed graph (axes start at 900). Government spending up 40 shifts AD up in parallel (Y = 1,220). Raising the tax rate from 25% to 35% flattens AD to gradient 0.42 (Y about 983, a fall of about 157). Original equilibrium is 1,140." loading="lazy">
+  <figcaption>Autonomous changes shift AD; a change in a propensity pivots it.</figcaption>
+</figure>
+
 
 ## Common errors
 

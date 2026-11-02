@@ -62,6 +62,12 @@ A reaction can carry two labels. Halogenoalkane + water is substitution and hydr
 | Secondary | 2 | CH₃CHICH₂CH₃, 2-iodobutane |
 | Tertiary | 3 | (CH₃)₂CBrCH₂CH₃, 2-bromo-2-methylbutane |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+
 ## Reagents table (10.8)
 
 | Reagent | Conditions | Reagent acts as | Product | Example from bromoethane |
@@ -90,6 +96,12 @@ Key equations (R = alkyl group):
 4. Second curly arrow: C–X bonding pair moving onto X.
 5. Products: the alcohol and X⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
+
 ### Method in steps: NH₃ with a primary halogenoalkane
 
 1. Same first arrows, but from the lone pair on N of NH₃.
@@ -98,6 +110,12 @@ Key equations (R = alkyl group):
 4. Products: R–NH₂ and NH₄⁺.
 
 SN1 and SN2 labels and mechanisms belong to Unit 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
 
 ## Rate trends (10.10, 10.12, 10.13)
 
@@ -147,6 +165,12 @@ Relative rate ∝ 1/time. **Small worked reminder:** if one compound gives a pre
 - **Ammonia vs cyanide:** both are nucleophiles; only cyanide adds a carbon atom.
 - **Primary vs tertiary classification:** count carbons bonded to the C–X carbon, not the total number of carbons in the molecule.
 - **Halogen test vs rate test:** the halogen test hydrolyses with NaOH(aq) first and must be acidified; the rate test uses water in ethanol, so no acidifying is needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Quick self-test
 

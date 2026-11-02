@@ -26,6 +26,12 @@ These notes condense statement B4 of Section B (Algebra and functions) in the AQ
 
 Use elimination and substitution on pairs of equations in two unknowns, including one linear and one quadratic. Both methods must be familiar. You choose whichever suits the pair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--06-amth-simultaneous-lawns.webp" width="900" height="718" alt="Perimeters give the line a+b=11 and areas give the circle a^2+b^2=61, meeting at (5, 6) and (6, 5). Both points are the same pair of lawns with sides 5 m and 6 m." loading="lazy">
+  <figcaption>The line and circle meet at two symmetric points that describe one real-life answer.</figcaption>
+</figure>
+
+
 ## Key ideas
 
 | Idea | Summary |
@@ -67,6 +73,12 @@ After equating, you have ax² + bx + c = 0 in x. Then:
 | negative | line does not meet the curve |
 
 If the line contains a letter such as k, the discriminant is an expression in k. Set it equal to zero, greater than zero or less than zero to answer the question. The tangent case also gives the point of contact: the repeated root is x = −b/(2a).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--04-amth-simultaneous-discriminant.webp" width="900" height="968" alt="Lines y=2x+k are drawn with the curve y=x^2-4x+6; the discriminant is 12+4k. For k=0 it is 12 (two points), for k=-3 it is 0 (tangent at (3, 3)) and for k=-6 it is -12 (no intersection)." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether a line cuts, touches or misses a curve.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -126,6 +138,17 @@ The sides are 5 cm and 12 cm. Define your letters, state the equations, and fini
 
 Compare the ratios of coefficients before you start. If the x and y coefficients are in the same ratio but the constants are not, the lines are parallel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--01-amth-simultaneous-solutions.webp" width="900" height="1200" alt="Three graphs show two lines crossing at (23/11, 15/11), two parallel lines 2x+3y=5 and 4x+6y=7 that never meet, and the coincident lines x+2y=3 and 2x+4y=6. Elimination gives one pair, a false statement 0 = -3, or infinitely many solutions respectively." loading="lazy">
+  <figcaption>A solution is a point on both lines, so lines can cross once, never, or coincide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--03-amth-simultaneous-line-circle.webp" width="900" height="972" alt="The line y=2x+1 meets the circle x^2+y^2=34 at two points. Substituting gives 5x^2+4x-33=0 so x=11/5 or -3, and the line gives y=27/5 and -5." loading="lazy">
+  <figcaption>Substitute the linear equation into the quadratic, then use the line to find each partner value.</figcaption>
+</figure>
+
+
 ## Checking your answers
 
 - Put both values back into the equation that you did not use last.
@@ -145,6 +168,12 @@ Finding where a line meets a curve is the algebra behind many coordinate geometr
 - **Tangent versus intersection.** A tangent gives one repeated root, so one point, not two.
 - **x-values versus points.** The quadratic in x gives only x-values. The question wants points.
 - **Exact versus decimal.** Surd answers stay as surds unless you are asked for a rounded form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--02-amth-simultaneous-elimination.webp" width="900" height="962" alt="The lines 5x+3y=11 and 2x-7y=4 cross at (89/41, 2/41). Scaling by 7 and 3 and adding gives 41x = 89, a vertical line through the same crossing point; substituting gives y = 2/41." loading="lazy">
+  <figcaption>Adding the scaled equations produces a new line through the same intersection point.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

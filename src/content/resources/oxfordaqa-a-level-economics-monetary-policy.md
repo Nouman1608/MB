@@ -42,6 +42,12 @@ Monetary policy is the use of the central bank's powers to influence three thing
 
 Many central banks have operational independence: the government sets the objective and the bank chooses how to meet it. This reduces the pull of short-term popularity, though unelected officials then make decisions that affect everyone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 2. Objectives and targets
 
 The prime objective is usually to control inflation. Subsidiary objectives include moderating fluctuations in economic activity, which means leaning against booms and slumps.
@@ -58,6 +64,12 @@ Year 3: (108.2 - 103.9) / 103.9 x 100 = 4.1%
 Both are above the 3.5% upper limit. The bank would consider tightening policy, though it also weighs forecast inflation, the output gap and the cause of the price rises.
 
 A flexible inflation target lets the bank accept a small overshoot if the alternative is a deep recession. That is how the subsidiary objective works in practice. Other targets, such as money supply growth, are possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--12-inflation-target-band.webp" width="900" height="880" alt="Inflation is 3.9% in year 2 and 4.1% in year 3 against a target range of 1.5% to 3.5% around 2.5%. Both years are above the upper limit." loading="lazy">
+  <figcaption>Both years overshoot the 3.5% upper limit of the target range.</figcaption>
+</figure>
+
 
 ## 3. Interest rates: the transmission mechanism
 
@@ -103,6 +115,37 @@ Lower AD reduces demand-pull inflation.
 - **Distribution.** Borrowers lose and savers gain.
 - **Limits on cuts.** When rates are already very low, there is little room to cut further, which is one reason for quantitative easing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--09-rate-rise-size-of-effect.webp" width="900" height="920" alt="Flow for Country A: rate +0.75 points on 20bn variable-rate debt gives 150m extra interest, 375 per household. AD falls 150m (consumption -105m, investment -45m). With multiplier 1.6 real GDP falls 240m, 0.6% of 40bn." loading="lazy">
+  <figcaption>Follows a 0.75 point rate rise from extra interest to a 0.6% fall in real GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--01-real-rate-output-gap.webp" width="900" height="1015" alt="A bar splits a 5.5% nominal rate into 4.1% inflation and about 1.4% real rate (exact 1.34%). A number line shows actual output 320 and potential 328, a gap of -2.4%. A negative gap means spare capacity so a cut is more likely." loading="lazy">
+  <figcaption>Real rate and output gap for Country A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## 4. The exchange rate and macroeconomic performance
 
 The exchange rate can be moved deliberately or as a side effect of other decisions. A fall in the currency's value is a depreciation, and a rise is an appreciation.
@@ -140,6 +183,22 @@ Because net exports form part of AD, the AD curve moves right. The size of the g
 
 An appreciation has the opposite pattern: lower inflation and cheaper imports, but weaker exports, slower growth and more job losses in tradable industries. The bank can also trade in the foreign exchange market: selling its own currency for foreign currency tends to push the rate down, and buying it tends to push the rate up. This has limits, because reserves are finite and markets are large.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--10-depreciation-net-exports.webp" width="900" height="860" alt="Currency falls 0.90 to 0.72 B-units, minus 20%. Exports rise 25 to 31bn (PED -1.2); imports stay 22bn (PED -0.8); net exports rise 3 to 9bn. AD +6bn, times 1.6 is +9.6bn real GDP, 3.0% of 320bn." loading="lazy">
+  <figcaption>With elastic exports and inelastic imports a depreciation lifts net exports from 3bn to 9bn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--02-depreciation-objectives.webp" width="900" height="1020" alt="Five rows show growth rising, unemployment falling, inflation rising, the current account improving if elasticities are high, and living standards falling in the short run. Net exports rise from +3bn to +9bn." loading="lazy">
+  <figcaption>Likely effects of a depreciation on each objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+
 ## 5. Other instruments, including quantitative easing
 
 Other instruments include requiring banks to hold more reserves, limiting the credit banks may extend, and signalling future interest rate intentions to shape expectations. Quantitative easing (QE) is large-scale buying of government bonds by the central bank. It can raise AD because it increases the money supply and reduces interest rates.
@@ -158,6 +217,12 @@ Other instruments include requiring banks to hold more reserves, limiting the cr
 - Higher asset prices benefit the wealthy more, which can widen inequality.
 - The central bank ends up holding a large quantity of bonds, which must eventually be sold or allowed to mature.
 - When spare capacity is small, a larger money supply can feed inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--11-qe-bond-yield-money.webp" width="900" height="914" alt="Central bank buys 36bn of bonds. A bond paying 9 a year yields 4.5% at price 200 and 4.0% at 225. Money supply rises from 480bn to 516bn, +7.5%." loading="lazy">
+  <figcaption>QE raises bond prices, lowers yields and increases the money supply.</figcaption>
+</figure>
+
 
 ## Putting it together: an evaluative paragraph
 

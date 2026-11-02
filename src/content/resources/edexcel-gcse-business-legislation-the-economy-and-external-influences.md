@@ -66,6 +66,17 @@ Refunds saved = 1,020 - 340 = £680. Net saving = 680 - 600 = £80.
 
 The money saving is small, but the check also protects the reputation of the brand and reduces complaints. Quality rules therefore push the business towards better inspection, and the benefit is more than the arithmetic shows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--01-larch-fell-quality-check.webp" width="900" height="860" alt="Larch Fell Outdoor sells 400 tents. 3% faulty gives 12 refunds at £85, £1,020. An extra check costing £600 cuts faults to 1%, 4 refunds, £340. Refunds plus check cost £940, so the net saving is £80." loading="lazy">
+  <figcaption>A quality check: does it pay? (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations--06-consumer-law-rights.webp" width="900" height="960" alt="Goods must be safe, of satisfactory quality and match their description. If not, the customer may be entitled to a repair, replacement or refund, and the business may face costs, penalties or a recall." loading="lazy">
+  <figcaption>Consumer law expects safe goods of satisfactory quality that match their description; if not, remedies and penalties follow.</figcaption>
+</figure>
+
+
 ## 2. Employment law (1.5.3)
 
 Employment law protects people who work for a business. The specification lists four areas.
@@ -115,6 +126,12 @@ Total = 5,000 + 25,200 = £30,200, which is about 11.8 times the cost of complyi
 
 The figures for a penalty and lost sales are assumptions made for the example. The point is the comparison: the cost of compliance is usually smaller than the possible cost of failure, and meeting obligations also brings benefits that do not show in the sums.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--02-sedge-cafe-comply-or-not.webp" width="900" height="870" alt="Sedge Cafe, sales revenue £210,000. Meeting obligations costs £2,550 a year, 1.2% of sales. Ignoring them could mean a £5,000 penalty plus £25,200 lost sales, £30,200 in total, about 11.8 times as much. The penalty and lost sales are assumptions." loading="lazy">
+  <figcaption>Meeting the rules v ignoring them (worked example from the lesson).</figcaption>
+</figure>
+
+
 ## 4. The economic climate (1.5.4)
 
 The economic climate means the general condition of the economy in which a business operates. It is outside the business's control. The specification lists six influences.
@@ -158,6 +175,32 @@ An exporter sees the opposite side. A £50 lamp costs a buyer 60 euros at 1.20, 
 ### Taxation
 
 Taxes affect businesses directly and indirectly. If a tax on profit rises from 20% to 25% and a business makes £40,000 profit before tax, the tax goes from £8,000 to £10,000 and profit kept falls from £32,000 to £30,000. Taxes on incomes or on spending reduce what customers can buy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--03-piper-dale-income-squeeze.webp" width="900" height="810" alt="Piper and Dale monthly revenue is £15,000: £9,000 premium cakes and £6,000 bread. Premium cakes fall 15% to £7,650 and bread 3% to £5,820. Revenue falls £1,530 to £13,470, which is 10.2%." loading="lazy">
+  <figcaption>Squeezed incomes hit cakes harder (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--04-osprey-print-inflation-interest.webp" width="900" height="880" alt="Osprey Print profit was £28,000. 5% inflation adds £3,100 to materials. Interest on a £50,000 loan rises from 4% to 7%, from £2,000 to £3,500, adding £1,500. Total extra cost £4,600, so profit is £23,400, a fall of 16.4%." loading="lazy">
+  <figcaption>Two pressures on one profit (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-legislation-the-economy-and-external-influences--05-wren-lighting-weaker-pound.webp" width="900" height="860" alt="Wren Lighting pays a supplier 9,600 euros. At £1 = 1.20 euros it costs £8,000; at £1 = 1.10 euros it costs £8,727.27, which is £727.27 or 9.1% more. An exporter selling a £50 lamp charges a buyer 60 euros at 1.20 but 55 euros at 1.10, so a weaker pound makes exports cheaper." loading="lazy">
+  <figcaption>A weaker pound: who gains? (worked example from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation--02-employment-effects.webp" width="900" height="1030" alt="High versus low employment compared on demand, recruitment and costs, each with a person icon and an arrow showing the direction of the effect." loading="lazy">
+  <figcaption>High and low employment change demand, recruitment difficulty and labour costs in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--08-pound-matrix.webp" width="900" height="930" alt="A grid shows a stronger pound hurts exporters and helps importers, while a weaker pound helps exporters and hurts importers. Firms that both import and export are partly protected." loading="lazy">
+  <figcaption>The direction of the pound has opposite effects on exporters and importers.</figcaption>
+</figure>
+
 
 ## 5. Responding to external influences (1.5.5)
 

@@ -38,6 +38,17 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 - Work-in-progress is valued at the materials, labour and factory overheads put in so far.
 - All three closing figures are current assets in the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--01-mfg-three-inventories-six-figures.webp" width="900" height="860" alt="Three columns for a furniture maker, in dollars. Raw materials opened at 12,400 and closed at 14,100; work-in-progress opened at 6,800 and closed at 8,300; finished goods opened at 21,500 and closed at 18,900. Raw materials and work-in-progress are adjusted in the manufacturing account, finished goods in the income statement. All three closing figures are current assets, together 41,300." loading="lazy">
+  <figcaption>Three inventories give six figures, adjusted in two different statements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--04-mfg-prime-total-production-cost.webp" width="900" height="1108" alt="A waterfall in dollars. Raw materials consumed 94,900 plus manufacturing wages 58,400 plus machine hire 4,500 gives prime cost 157,800. Adding factory overheads 50,950 gives total cost 208,750. Adding opening work-in-progress 6,800 and deducting closing work-in-progress 8,300 gives production cost 207,250." loading="lazy">
+  <figcaption>Prime cost, total cost and production cost are built up in stages.</figcaption>
+</figure>
+
+
 ## 4.5 (b) The cost groups
 
 | Group | Contains | Feeds |
@@ -47,6 +58,27 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 | Not factory costs | Office salaries, selling and distribution costs, office depreciation | Income statement expenses |
 
 If a cost is shared between factory and office, apportion it as the question states. Only the factory share enters the manufacturing account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--02-mfg-raw-materials-consumed-odlington.webp" width="900" height="885" alt="A waterfall in dollars: opening 12,400, plus purchases 96,300, plus carriage inwards 2,100, less returns outwards 1,800, less closing inventory 14,100, gives raw materials consumed of 94,900." loading="lazy">
+  <figcaption>Raw materials consumed, not purchases, goes into prime cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--03-mfg-which-cost-odlington.webp" width="900" height="830" alt="Direct costs make prime cost of 157,800: raw materials consumed 94,900, manufacturing wages 58,400 and machine hire 4,500. Factory overheads total 50,950: indirect wages 17,200, power 9,600, rent 12,000, depreciation 8,400 and maintenance 3,750. Office, shop and sales costs are not factory costs and go in the income statement." loading="lazy">
+  <figcaption>Direct costs make prime cost; factory overheads are added later; office costs stay out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--05-mfg-production-cost-to-gross-profit.webp" width="900" height="930" alt="Opening finished goods 21,500 plus production cost 207,250, less closing finished goods 18,900, gives cost of sales 209,850. Revenue 312,500 less cost of sales leaves gross profit 102,650. Production cost takes the place of purchases." loading="lazy">
+  <figcaption>Production cost replaces purchases and finished goods are adjusted in the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-manufacturer--06-mfg-factory-share-apportion.webp" width="900" height="830" alt="Two bars in dollars on one scale. Rent and rates of 24,000: three quarters, 18,000, is factory and 6,000 is office. Insurance of 6,000: two thirds, 4,000, is factory and 2,000 is office. Factory shares go in the manufacturing account; office shares in the income statement." loading="lazy">
+  <figcaption>Only the factory share of a shared cost goes in the manufacturing account.</figcaption>
+</figure>
+
 
 ## Formulas
 

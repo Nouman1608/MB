@@ -75,6 +75,27 @@ Items are more useful as money if they are:
 
 **Judging an item.** Salt is durable and fairly uniform, but is heavy to carry in bulk and hard to divide exactly. A bank balance is divisible, portable and easy to transfer, but depends on trust in the bank and in the currency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--01-barter-rates-vs-prices.webp" width="900" height="910" alt="With 5 goods, barter needs 10 exchange rates, one for every pair of goods; pricing the same goods in money needs only 5 prices. With 50 goods barter needs 50 x 49 / 2 = 1,225 rates but money needs only 50 prices." loading="lazy">
+  <figcaption>With 50 goods barter needs 1,225 exchange rates, but pricing each good in money needs only 50 prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--02-money-loses-purchasing-power.webp" width="900" height="720" alt="Country A has a price index that rises from 100 to 125, a 25 percent rise in prices. One unit of money now buys 100 divided by 125, which is 0.8 or 80 percent of what it bought before, a loss of 20 percent of its purchasing power." loading="lazy">
+  <figcaption>When prices rise 25 percent a unit of money buys only 80 percent of what it did.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## 3.1.2 Banking
 
 ### Central banks
@@ -88,6 +109,12 @@ A **central bank** is the main monetary authority of a country. It does not usua
 - carries out the government's **monetary policy**, mainly through the interest rate
 - supervises banks and manages foreign currency reserves
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ### Commercial banks
 
 **Commercial banks** are private, profit-seeking firms used by the public. Typical roles:
@@ -100,6 +127,12 @@ A **central bank** is the main monetary authority of a country. It does not usua
 Banks earn by charging borrowers more than they pay depositors.
 
 **Worked example (invented).** A small bank holds deposits of 1,000,000 units and lends 80 per cent of them. Lent: 800,000. It charges 9 per cent on loans: 72,000 interest income. It pays 3 per cent to depositors: 30,000 cost. Gross interest margin: 72,000 − 30,000 = 42,000, before wages and other running costs. If it lent all deposits it would have nothing in hand for withdrawals, so banks keep part back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--04-bank-interest-margin.webp" width="900" height="890" alt="A bank lends 800,000 of 1,000,000 deposits, earns 72,000 interest at 9 percent and pays depositors 30,000 at 3 percent, leaving a gross margin of 42,000 before running costs." loading="lazy">
+  <figcaption>Banks earn by charging borrowers more than they pay depositors.</figcaption>
+</figure>
+
 
 ### Why banks matter to each group
 
@@ -123,6 +156,12 @@ Higher income allows more spending and more saving. Richer households usually sa
 
 **Income change over time.** A household's income rises from 2,000 to 2,400 (up 20 per cent). Spending rises from 1,700 to 1,980 (up 280 ÷ 1,700 = 16.5 per cent). Saving moves from 300 to 420, up 40 per cent. Of the extra 400, 280 (70 per cent) was spent and 120 saved. The saving ratio rose from 15 to 17.5 per cent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--05-saving-ratio.webp" width="900" height="850" alt="Household A with income 3,000 saves 450, a ratio of 15 percent. Household B with income 1,200 saves 24, a ratio of 2 percent. Bars share one scale." loading="lazy">
+  <figcaption>The saving ratio is a share of income, not an amount saved.</figcaption>
+</figure>
+
+
 ### The rate of interest
 
 For savers, interest is a reward for not spending. For borrowers, it is the cost of borrowing.
@@ -135,11 +174,33 @@ For savers, interest is a reward for not spending. For borrowers, it is the cost
 
 **Real interest.** The real rate is roughly the nominal rate minus inflation. At 5 per cent interest and 3 per cent inflation, the real return is about 2 per cent. At 3 per cent interest and 4 per cent inflation it is about −1 per cent, so savings lose purchasing power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--03-simple-vs-compound-interest.webp" width="900" height="890" alt="Total interest earned on 2,000 units at 4 percent: simple interest is 80, 160 and 240 after years 1, 2 and 3. Compound interest is 80, 163.20 and 249.73, so after 3 years it is 9.73 more because interest earns interest." loading="lazy">
+  <figcaption>Compound interest pulls ahead of simple interest because earlier interest earns interest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--04-flat-rate-loan-cost.webp" width="900" height="800" alt="A 12,000 loan over 2 years in 24 monthly instalments. At 8 percent the interest is 1,920, the total 13,920 and each instalment 580. At 10 percent the interest is 2,400, the total 14,400 and each instalment 600, which is 20 a month or 3.45 percent more and 480 more in total." loading="lazy">
+  <figcaption>Raising the flat rate from 8 to 10 percent adds 20 to each monthly instalment and 480 to the total repaid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ### Confidence
 
 Confidence is how secure households feel about jobs, future income and prices. When it is high, households spend more, borrow for big purchases and save less. When it is low, they save a precaution fund, delay purchases and avoid new debt, even if current income has not changed.
 
 **Worked example (invented).** Planned spending on non-essentials is 1,500 a month. Fear of job losses cuts it by 8 per cent: 1,500 × 0.92 = 1,380, so 120 a month moves to saving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--05-confidence-spending-saving.webp" width="900" height="800" alt="Planned spending on non-essentials is 1,500 a month. When fear of job losses cuts it by 8 percent it becomes 1,380, so 120 a month is moved into saving as a precaution, even though income has not changed." loading="lazy">
+  <figcaption>Fear of job losses cuts planned non-essential spending by 8 percent, so 120 a month moves to saving.</figcaption>
+</figure>
+
 
 ### Between households and over time
 

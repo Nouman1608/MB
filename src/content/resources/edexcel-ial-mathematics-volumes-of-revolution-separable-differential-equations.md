@@ -89,6 +89,12 @@ V = 18π − 9π
 
 **V = 9π**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--07-volume-of-revolution.webp" width="900" height="870" alt="The region under y = e^(2x) from x = 0 to x = ½ is spun about the x-axis. The picture shows the curve, its mirror image and eight thin discs, each with radius equal to y. One disc is highlighted with its radius marked. Adding the disc volumes gives V = π∫y² dx = π(e² − 1)/4, about 5.02." loading="lazy">
+  <figcaption>Each thin slice is nearly a disc of volume πy² δx; adding them gives the volume of revolution.</figcaption>
+</figure>
+
+
 ## 6.1 Volume from parametric equations
 
 If x = x(t) and y = y(t), then dx = (dx/dt) dt, so
@@ -197,6 +203,17 @@ r = 3:  9 = t/3 + 1/3, so t = 26
 
 **k = 1/3 and t = 26 hours**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--01-family-of-solutions.webp" width="900" height="920" alt="A slope field for dy/dx = 3x²y with the solution curves y = Ae^(x³) for A = 0.5, 1, 2 and 3. Each curve follows the short gradient marks. The thick curve through (0, 2) is the particular solution with A = 2; the others share the same equation but have different values of the constant." loading="lazy">
+  <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--04-newton-cooling.webp" width="900" height="920" alt="Graph of temperature against time for a drink cooling in a 20 degree room, T = 20 + 65e^(−kt). It starts at 85, is 60 at 5 minutes and 30 at 19.3 minutes. It flattens towards the dashed line T = 20 but never reaches it." loading="lazy">
+  <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
+</figure>
+
+
 ## 6.5 Area from parametric equations
 
 The area under a curve is ∫ y dx. With a parameter,
@@ -250,6 +267,12 @@ Area = ∫ (t = π to 0) 2 sin t × (−5 sin t) dt
 
 This is half the area of an ellipse with semi-axes 5 and 2, which is ½ × π × 5 × 2 = 5π.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--08-parametric-area-backwards.webp" width="900" height="740" alt="The curve x = 5 cos t, y = 2 sin t for 0 ≤ t ≤ π is the top half of an ellipse. It starts at (5, 0), passes (0, 2) and ends at (−5, 0), so x decreases as t increases and dx/dt = −5 sin t is negative. Integrating y dx/dt from t = π down to 0 gives the positive area 5π, about 15.7." loading="lazy">
+  <figcaption>When x runs backwards, take the limits in the order that makes x increase, otherwise the area comes out negative.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Forgetting to square y, or squaring only part of it, such as writing (t + 2)² as t² + 4.
@@ -261,9 +284,21 @@ This is half the area of an ellipse with semi-axes 5 and 2, which is ½ × π ×
 - Applying the initial condition before the constant has been introduced.
 - Losing a negative sign when dx/dt is negative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
+</figure>
+
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-practice/), then condense with the [revision notes](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-revision-notes/). For an overview of all papers, see [IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
+  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

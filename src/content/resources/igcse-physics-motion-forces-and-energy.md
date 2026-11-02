@@ -120,6 +120,12 @@ nuclear, solar; Supplement: efficiency calculations), and power
 how pressure varies with force and area; (Supplement) the equation for
 pressure change with depth in a liquid, Δp = ρgΔh
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 This topic rewards fluency with a small set of equations (v = s/t,
@@ -206,6 +212,32 @@ the surface — not on the shape or width of the container. A narrow tube
 of water 2.0 m deep therefore exerts exactly the same pressure at its
 base as a wide tank of water at the same 2.0 m depth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--03-terminal-velocity.webp" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
+  <figcaption>Terminal velocity is reached when drag has grown to balance the weight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--04-mass-and-weight.webp" width="900" height="970" alt="A 5.0 kg block has a weight arrow of 49 N on Earth (g = 9.8 N/kg) but only about 8.2 N on the Moon, where g is about a sixth as large. Mass stays 5.0 kg." loading="lazy">
+  <figcaption>Mass stays the same everywhere, but weight (W = mg) depends on the gravitational field strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--06-moments-balance.webp" width="900" height="830" alt="A beam on a central pivot with 2.0 N at 0.30 m on the left and W at 0.20 m on the right. The anticlockwise moment 0.60 N m equals the clockwise moment 0.60 N m, so W = 3.0 N and the beam balances." loading="lazy">
+  <figcaption>A beam balances when the clockwise and anticlockwise moments about the pivot are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+</figure>
+
+
 ## Measurement techniques (1.1)
 
 **Lengths and volumes.** Measure a length with a ruler held against the
@@ -262,6 +294,12 @@ floats in water. The 2.7 g/cm³ stone sinks.
 *(Supplement)* Two liquids that do not mix form layers: the less dense
 liquid floats on top. Oil of density 0.92 g/cm³ floats on water
 (1.0 g/cm³).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker (Extended) oil of 0.92 g/cm3 floats on water of 1.0 g/cm3." loading="lazy">
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+</figure>
+
 
 ## Forces: experiments and everyday moments (1.5)
 
@@ -348,6 +386,12 @@ cycle that fills hydroelectric reservoirs, and drives winds and waves.
 The Sun releases energy by **nuclear fusion**, and research is being
 carried out into how energy released by nuclear fusion can be used to
 generate electricity on a large scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp" width="900" height="1000" alt="A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%." loading="lazy">
+  <figcaption>A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

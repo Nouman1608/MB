@@ -60,6 +60,12 @@ Pellgate Photo Lab developed holiday film. Digital cameras arrived (technology),
 
 Notice the pattern in a good answer: name the change, say who is affected, then say what opportunity follows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--01-why-ideas-arise.webp" width="900" height="970" alt="Pellgate Photo Lab: digital cameras (technology) then phones (consumer wants) make film developing obsolete, so the owner prints photo books from phone images, meeting the same need in a new way." loading="lazy">
+  <figcaption>New ideas arise from technology change, changing consumer wants and obsolete products.</figcaption>
+</figure>
+
+
 ## 2. How new business ideas come about
 
 | Source | What it means | Strength | Weakness |
@@ -107,6 +113,12 @@ The reward side is just as real. In the good year the owner keeps the profit and
 
 Risk and reward are linked: the bigger the possible reward, the greater the risk usually is. Risk is not a reason never to start, and reward is not guaranteed. A balanced answer shows both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--02-good-year-poor-year.webp" width="900" height="930" alt="Costs are £49,500 either way. 45 repairs a week gives revenue £66,240 and profit £16,740; 28 a week gives revenue £41,216 and a loss of £8,284. The 17 fewer repairs is a 37.8% fall." loading="lazy">
+  <figcaption>The same business can make a profit or a loss depending on sales.</figcaption>
+</figure>
+
+
 ## 4. The role of business enterprise
 
 The specification gives the purpose of business activity as three things: to produce goods or services, to meet customer needs, and to add value.
@@ -134,6 +146,17 @@ Brindle Street Coffee Cart buys £0.45 of coffee, milk and cup for each drink an
 
 The specification does not list a formula for value added. This is only a simple way to picture it: selling price less the cost of bought-in inputs. The £2.65 is not all profit, because wages, rent and the cart itself still have to be paid for. It is high because the cart is convenient (on the commuter route), the brand is trusted and the coffee is good quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--03-coffee-value-added.webp" width="900" height="950" alt="A £3.10 coffee has £0.45 of bought-in inputs, so value added is £2.65 (85.5% of the price), £318 a day at 120 drinks. It is not all profit." loading="lazy">
+  <figcaption>Value added is price less bought-in inputs and is not the same as profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--04-five-ways-add-value.webp" width="900" height="960" alt="The five ways the specification lists: convenience, branding, quality, design and unique selling point, each with a one-line meaning." loading="lazy">
+  <figcaption>A business adds value through convenience, branding, quality, design or a USP.</figcaption>
+</figure>
+
+
 ## 5. The role of entrepreneurship
 
 An entrepreneur is a person who sets up and runs a business, spotting an opportunity and acting on it. The specification gives three roles.
@@ -150,6 +173,12 @@ A woman rents a unit, hires one assistant, buys a pottery kiln and decides to ma
 - Taking risks: the £12,000 may not be recovered if sales are weak.
 
 For a context question, tie each role to a detail from the case. A bare list of the three roles earns little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-enterprise-and-entrepreneurship--05-entrepreneur-roles.webp" width="900" height="810" alt="The potter organises resources (unit, assistant, kiln), decides to make tableware only, and risks £12,000 of savings." loading="lazy">
+  <figcaption>An entrepreneur organises resources, makes decisions and takes risks.</figcaption>
+</figure>
+
 
 ## How the command words apply
 

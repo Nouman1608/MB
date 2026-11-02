@@ -36,6 +36,12 @@ When you are ready, try the [practice questions](/resources/o-level-biology-5090
 - **Pollination**: transfer of pollen from an anther to a stigma.
 - **Fertilisation (humans)**: fusion of the nuclei of a sperm and an egg cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--01-chromosome-numbers-36.webp" width="900" height="1030" alt="Three rows of rods. A body cell of 36 (18 pairs) gives a gamete of 18 by meiosis. Two gametes of 18 fuse to give a zygote of 36. Mitosis keeps 36." loading="lazy">
+  <figcaption>Meiosis halves the chromosome number, fertilisation restores it and mitosis keeps it.</figcaption>
+</figure>
+
+
 ## 16.1 Nuclear division at a glance
 
 | | Mitosis | Meiosis |
@@ -48,6 +54,17 @@ When you are ready, try the [practice questions](/resources/o-level-biology-5090
 
 **Worked reminder.** Diploid number 20 → each gamete has 20 ÷ 2 = **10**; the zygote has 10 + 10 = **20**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## 16.2 Asexual v sexual reproduction
 
 Asexual examples: binary fission in bacteria, budding in yeast, potato tubers, strawberry runners, onion bulbs.
@@ -57,6 +74,12 @@ Asexual examples: binary fission in bacteria, budding in yeast, potato tubers, s
 | For | No mate or pollinator; fast; many offspring; good features kept | Variation; population can respond to environmental change; seeds spread widely |
 | Against | No variation; one disease or change can affect all; crowding and competition | Two parents or pollen transfer needed; slower; more energy used |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+
 ## 16.3 Plants
 
 ### Flower parts
@@ -65,6 +88,12 @@ Asexual examples: binary fission in bacteria, budding in yeast, potato tubers, s
 - **Petals**: attract insects (insect-pollinated flowers).
 - **Stamen** = **anther** (makes pollen) + **filament** (supports anther).
 - **Carpel** = **stigma** (receives pollen) + **style** (holds stigma; pollen tube grows through) + **ovary** (holds ovules) + **ovules** (contain female gametes).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--02-flower-parts.webp" width="900" height="880" alt="Half-flower diagram labelling petal, sepal, and the male stamen (anther on a filament) and female carpel (stigma, style, ovary with ovules), each with its function." loading="lazy">
+  <figcaption>Label the parts of a flower and say what each does.</figcaption>
+</figure>
+
 
 ### Insect- v wind-pollinated
 
@@ -84,6 +113,12 @@ Asexual examples: binary fission in bacteria, budding in yeast, potato tubers, s
 | Response to environmental change | Less able | More able |
 | Reliance on pollinators | Low | High |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--02-self-and-cross-pollination.webp" width="900" height="1010" alt="Self-pollination moves pollen within one plant: similar offspring, less variation, no pollinator needed. Cross-pollination moves pollen to a different plant of the same species: varied offspring, more variation, relies on pollinators." loading="lazy">
+  <figcaption>Self-pollination gives less variation but needs no pollinator; cross-pollination gives more variation but relies on pollinators.</figcaption>
+</figure>
+
+
 ### From pollen to seed: method in steps
 
 1. Pollen lands on the stigma.
@@ -99,6 +134,17 @@ Asexual examples: binary fission in bacteria, budding in yeast, potato tubers, s
 - **Wind**: wings or parachutes, light, large surface area → stays airborne longer.
 - **Animal**: hooks catch on fur, or fleshy coloured fruit is eaten and seeds are egested elsewhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--01-seed-germination.webp" width="900" height="1160" alt="A bean seed opened out showing testa, cotyledons, radicle and plumule, then three steps: water absorbed and testa splits; water activates amylase and protease; soluble products go to the radicle and plumule, radicle first." loading="lazy">
+  <figcaption>Seed parts and the three steps of germination.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--03-seed-dispersal.webp" width="900" height="1065" alt="Wind-dispersed fruits are light with wings or hairs and a large surface area. Hooked fruits catch on fur. Fleshy fruits are eaten and tough-coated seeds are egested away. Dispersal reduces competition." loading="lazy">
+  <figcaption>Three dispersal methods and why plants disperse seeds.</figcaption>
+</figure>
+
+
 ### Germination
 
 Conditions: **water**, **oxygen**, **suitable temperature**. Light is not one of them.
@@ -113,6 +159,12 @@ Process in steps:
 **Worked reminder.** 18 of 24 seeds germinate: 18 ÷ 24 × 100 = **75%**.
 
 **Practical tips.** Use a control with all three conditions. Remove oxygen with boiled, cooled water under an oil layer. Use a refrigerator for low temperature. Keep seed type, number and time the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--02-germination-tubes.webp" width="900" height="1151" alt="Four tubes of 40 seeds. A damp, air, 25 C: 36 germinated, 90 percent, control. B dry: 0 percent. C boiled water under oil: 5 percent. D 4 C: 15 percent. These show water, oxygen and warmth are needed." loading="lazy">
+  <figcaption>Dot grids show 36, 0, 2 and 6 seeds out of 40 germinating.</figcaption>
+</figure>
+
 
 ## 16.4 Humans
 
@@ -145,6 +197,12 @@ Process in steps:
 - **Testosterone**: facial and body hair, deeper voice, muscle growth, sperm production starts.
 - **Oestrogen**: breasts develop, hips widen, menstrual cycle starts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--05-puberty-secondary-characteristics.webp" width="900" height="1120" alt="Testosterone from the testes causes facial and body hair, a deeper voice, muscle growth and sperm production. Oestrogen from the ovaries causes breast development, wider hips and the start of the menstrual cycle." loading="lazy">
+  <figcaption>Testosterone and oestrogen cause the secondary sexual characteristics at puberty.</figcaption>
+</figure>
+
+
 ### Menstrual cycle hormones
 
 | Hormone | Made by | Role |
@@ -163,6 +221,12 @@ Progesterone falls → lining breaks down (menstruation) → FSH rises again.
 - **Placenta**: O₂ and dissolved nutrients to fetus; CO₂ and urea to mother. Bloods do not mix.
 - **Umbilical cord**: carries fetal blood to and from the placenta.
 - Some **viruses** cross the placenta, e.g. rubella, HIV.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--04-implantation-of-the-embryo.webp" width="900" height="890" alt="Four stages: fertilisation in the oviduct, the zygote dividing by mitosis, a ball of cells reaching the uterus, and the embryo implanting in the thick uterus lining. A schematic shows where each happens." loading="lazy">
+  <figcaption>The zygote divides to a ball of cells that implants in the lining of the uterus.</figcaption>
+</figure>
+
 
 ## Answer frames to learn
 

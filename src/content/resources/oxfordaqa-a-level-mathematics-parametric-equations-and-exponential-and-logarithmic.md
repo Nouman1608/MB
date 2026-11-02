@@ -128,6 +128,12 @@ t = 4 or t = −2
 
 The points are (16, 8) and (4, −4). Check in y² = 4x: 64 = 64 and 16 = 16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--05-solve-index.webp" width="900" height="1160" alt="The graph of 5^x meets y = 40 at x = 2.29 (ln 40 divided by ln 5). Below, points 0.8^n fall; n = 13 gives 0.0550 and n = 14 gives 0.0440, the first below 0.05. Dividing by the negative ln 0.8 reverses the inequality, so n &gt; 13.4." loading="lazy">
+  <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
+</figure>
+
+
 ## 2. The function eˣ and its graph
 
 The number e ≈ 2.71828 is the base for which the exponential function has a particularly simple gradient (you will use this in P2.6). The function f(x) = eˣ has these features.
@@ -149,6 +155,17 @@ Sketch description for y = eˣ: close to the negative x-axis on the left, throug
 | y = 2eˣ − 5 | y-intercept (0, −3), asymptote y = −5 |
 
 For y = 2eˣ − 5, the curve meets the x-axis when eˣ = 5/2, so x = ln(5/2) ≈ 0.916.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--02-base-family.webp" width="900" height="1000" alt="Curves 2^x, e^x, 3^x and (1/2)^x all pass through (0, 1), lie above the x-axis and have it as an asymptote. Bases above 1 give growth, with e^x between 2^x and 3^x; (1/2)^x decays and mirrors 2^x in the y-axis." loading="lazy">
+  <figcaption>Every aˣ passes through (0, 1); a &gt; 1 grows and a &lt; 1 decays.</figcaption>
+</figure>
+
 
 ## 3. The function ln x and its graph
 
@@ -227,6 +244,17 @@ You may be asked to comment on the model. Useful points are these.
 - Pure growth N = Aeᵏᵗ has no upper limit. Real populations run out of food or space, so the model only holds for a limited time.
 - A decay model never reaches zero, but real quantities are measured in whole units.
 - State what the numbers mean in context, with units (hours, days, minutes).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--03-gradient-ekx.webp" width="900" height="1040" alt="On y = e^(2x), the tangent at (0, 1) has gradient 2 and at x = 0.6 (height 3.32) has gradient 6.64, shown by a triangle with run 0.4 and rise 2.66. Each gradient is 2 times the height, so dy/dx = ky." loading="lazy">
+  <figcaption>The gradient of e^kx is k times its height, so growth is proportional to size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
 
 ## Common errors
 

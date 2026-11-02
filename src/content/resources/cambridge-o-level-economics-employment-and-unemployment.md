@@ -44,6 +44,12 @@ Related pages: the [revision notes](/resources/cambridge-o-level-economics-emplo
 
 Full-time students, retired people and anyone who has chosen not to seek work sit outside the labour force, so none of them is counted as unemployed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--13-emp-labour-force-structure.webp" width="900" height="810" alt="The labour force is the employed plus the unemployed; students, retired people and those not seeking work are outside it. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Structure of the labour force: employed plus unemployed, with students, retired and non-seekers outside.</figcaption>
+</figure>
+
+
 ## 4.7.2 Changing patterns and level of employment
 
 The pattern of employment is who works, in which sector and under which employer. The level is how many people work. Both change over time.
@@ -68,6 +74,27 @@ Tertiary workers rise from 0.25 × 6,000,000 = 1,500,000 to 0.52 × 6,000,000 = 
 **Why more women join the labour force.** Attitudes change, so paid work outside the home is more accepted. More girls finish school, laws can ban discrimination, smaller families free up time and many households want a second income. In Country Y the labour force is 3,000,000 with 1,260,000 women in year 1 (1,260,000 ÷ 3,000,000 × 100 = 42%). By year 10 it is 3,300,000 with 1,650,000 women (50%).
 
 **Falling state employment.** A country shifting towards a market economy sells or closes state-owned firms and lets private firms supply more. In Country Y the public sector employs 480,000 of 2,400,000 formal workers (20%) before reform and 300,000 of 2,500,000 (12%) after.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--09-emp-sector-shares-country-y.webp" width="900" height="890" alt="Primary falls from 45% to 18%, secondary stays 30% and tertiary rises from 25% to 52%, an extra 1,620,000 tertiary workers. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Stacked bars of employment shares in Country Y, year 1 and year 10, joined by bands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--10-emp-women-labour-force.webp" width="900" height="890" alt="Women rise from 1,260,000 of 3,000,000 (42%) to 1,650,000 of 3,300,000 (50%). Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Dot grids showing women as 42% then 50% of the labour force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--11-emp-state-employer.webp" width="900" height="890" alt="State jobs fall from 480,000 of 2,400,000 to 300,000 of 2,500,000. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Dot grids showing the state share of formal workers falling from 20% to 12%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
 
 ## 4.7.3 Measurement of unemployment
 
@@ -103,6 +130,17 @@ Gap = 229,600 - 150,000 = 79,600
 
 The survey suggests about 79,600 people want work but are not on the benefit register. Survey figures are estimates from a sample, so they carry some error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--01-unemployment-rate-and-labour-force.webp" width="900" height="940" alt="Stacked bars for Country X. Year 1: 3,725,000 employed and 275,000 unemployed give a rate of 6.9 percent. Year 2: 3,790,000 and 310,000 give 7.6 percent. The labour force grew by 100,000: 65,000 into jobs and 35,000 jobless." loading="lazy">
+  <figcaption>Employment rose by 65,000 but the rate rose because the labour force grew by 100,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--02-claimant-count-vs-survey.webp" width="900" height="890" alt="A survey of 2,500 people finds 140 jobless (5.6 percent), scaled to 229,600. The claimant count is 150,000 (3.7 percent). Bars show the gap of 79,600 who want work but are not on the register." loading="lazy">
+  <figcaption>The survey suggests about 79,600 more people want work than the claimant count shows.</figcaption>
+</figure>
+
+
 ## 4.7.4 Causes and types of unemployment
 
 | Kind | Why it arises | Illustration |
@@ -125,6 +163,17 @@ If recovery removes all cyclical unemployment:
 
 A recovery cannot get below 4.2% here. The remaining unemployment needs different remedies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--03-three-types-country-z.webp" width="900" height="870" alt="Country Z has 420,000 unemployed (7.0 percent of 6,000,000): frictional 60,000, structural 190,000, cyclical 170,000. Removing cyclical leaves 250,000, or 4.2 percent, which recovery cannot go below." loading="lazy">
+  <figcaption>Recovery cannot take the rate below 4.2 percent because the rest is frictional and structural.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## 4.7.5 Consequences of unemployment
 
 | Who is affected | Harm done | Possible upside |
@@ -141,6 +190,12 @@ Output lost = 80,000 x 14,000 = 1,120,000,000
 ```
 
 The government loses 336 million from its budget. The economy loses 1,120 million of goods and services, the opportunity cost of idle labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--05-cost-of-unemployment.webp" width="900" height="850" alt="Per person 1,500 less tax plus 2,700 more benefit is 4,200, so 80,000 people cost the budget 336 million. Each would have produced 14,000, so output lost is 1,120 million." loading="lazy">
+  <figcaption>Unemployment costs the government 336 million and the economy 1,120 million of output.</figcaption>
+</figure>
+
 
 ## 4.7.6 Policies to reduce unemployment
 
@@ -175,6 +230,17 @@ Training is cheaper per job and the jobs are lasting. Public works help immediat
 3. What does it cost, and who pays?
 4. What side effects arise, such as higher prices or more borrowing?
 5. Judge: a country with mainly structural unemployment gains little from a demand boost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--04-remedy-matching.webp" width="900" height="904" alt="Frictional unemployment is matched with job information and job centres. Structural is matched with training, help to move, hiring subsidies and incentives for new firms in jobless areas. Cyclical is matched with more spending, lower taxes and lower interest rates." loading="lazy">
+  <figcaption>Pair each remedy with the cause it fits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-employment-and-unemployment--12-emp-cost-per-job.webp" width="900" height="830" alt="Training costs 5,455 per job and public works 8,000, but 3,300 jobs only move unemployment from 7.0% to 6.9%. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Cost per job of a training scheme (5,455) against public works (8,000).</figcaption>
+</figure>
+
 
 ## Common errors
 

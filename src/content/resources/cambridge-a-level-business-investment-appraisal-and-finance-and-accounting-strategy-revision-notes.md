@@ -44,6 +44,17 @@ These notes condense sections 10.3 Investment appraisal and 10.4 Finance and acc
 
 Average profit = (total net cash inflows − total depreciation) / years. Total depreciation = cost − residual value. Average investment is usually (cost + residual value) / 2. This is the standard form, so state it. Discount factor = 1 / (1 + r)^n is the standard form, and you use the factors a question gives you. The initial cost is paid now and is not discounted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--03-ia-valdrick-payback.webp" width="900" height="935" alt="Cumulative inflow for Project A is 60, 150, 270, 350 and 400 thousand pounds; the cost of 240 thousand is repaid 0.75 of the way through Year 3, so payback is 2 years 9 months. Cash after payback is ignored." loading="lazy">
+  <figcaption>Payback for Valdrick Project A is 2 years 9 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--04-ia-valdrick-npv.webp" width="900" height="964" alt="Each cash flow is shrunk by its discount factor: 54,540; 74,340; 90,120; 54,640; 31,050 and 18,630 for the resale. They total 323,320; less the 240,000 cost (not discounted) leaves an NPV of 83,320 pounds." loading="lazy">
+  <figcaption>Project A at 10% has a net present value of £83,320.</figcaption>
+</figure>
+
+
 ### Method in steps
 
 1. Payback: write the cumulative total for each year. Find the year it passes the cost. Fraction = amount still needed / that year's inflow. Convert to months.
@@ -70,6 +81,52 @@ A packing line costs £70,000. Inflows are £20,000, £30,000, £30,000 and £20
 - Qualitative factors: strategic fit, employees, brand and reputation, environmental impact, reliability of forecasts, competitors' reactions, flexibility, method of funding.
 - Every method relies on forecasts. A balanced recommendation uses more than one method plus judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--05-ia-arr.webp" width="900" height="1090" alt="Annual profits 18, 48, 78, 38 and 8 thousand pounds average 38 thousand; average investment is (240 + 30) / 2 = 135 thousand; ARR = 28.1 percent." loading="lazy">
+  <figcaption>ARR divides average annual profit by average investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--06-ia-a-vs-b.webp" width="900" height="1170" alt="Paired bars for projects A and B: payback 2 yrs 9 mths vs 2 yrs 6 mths (B better), ARR 28.1 vs 16.3 percent (A), NPV 83,320 vs 39,190 pounds (A)." loading="lazy">
+  <figcaption>The three methods can pick different winners.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--07-ia-ratios-trend.webp" width="900" height="940" alt="Grouped bars of gross margin, operating margin and ROCE for Oswin Bay last year and this year and for Embergate; revenue rose 14.3 percent but margins and ROCE fell." loading="lazy">
+  <figcaption>Revenue growth cost Oswin Bay margin and return.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--08-ia-debt-equity.webp" width="900" height="1000" alt="Two stacked bars of 12.0 million capital employed: share issue gives gearing 25.0 percent, 6 percent loan gives 41.7 percent; ROCE 15.8 percent in both; dividend cover 2.6 vs 2.4." loading="lazy">
+  <figcaption>Debt and shares change gearing and cover but not ROCE.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--05-ia-method-compare.webp" width="900" height="1010" alt="Mini charts compare payback (stops at repayment), ARR (average) and NPV (discounted flows). Payback uses neither all years nor timing, ARR uses all years but not timing, NPV uses both. Qualitative factors to add: strategy fit, employees, brand, environment, reliable forecasts, competitors, flexibility, funding." loading="lazy">
+  <figcaption>Each appraisal method uses and ignores different information, so add qualitative judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--07-ia-dividend.webp" width="900" height="940" alt="Profit of 1.08 million pounds split as 0.54 dividend and 0.54 kept gives cover 2.0; halving the dividend to 0.27 keeps 0.81, doubles cover to 4.0 and halves yield. More cash is kept but income investors may be disappointed." loading="lazy">
+  <figcaption>Halving the dividend doubles dividend cover and keeps more cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--06-payback-period.webp" width="900" height="940" alt="Cumulative cash flow columns for years 0 to 5 cross zero halfway through year 4: 36,000 short at the end of year 3 and 72,000 arriving in year 4 gives 3 years 6 months." loading="lazy">
+  <figcaption>Payback is when cumulative cash flow reaches zero: here 3 years 6 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
+  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
+</figure>
+
+
 ## 10.4 Finance and accounting strategy
 
 ### Accounting data and the annual report (10.4.1)
@@ -79,6 +136,12 @@ A packing line costs £70,000. Inflows are £20,000, £30,000, £30,000 and £20
 - Used to set targets, choose growth or consolidation, choose funding and check progress.
 - Annual report (general description): financial statements and notes, a directors' or chair's report, an auditor's report.
 - Usefulness varies: shareholders want profit and dividends; lenders want gearing and ability to pay interest; suppliers want liquidity; employees want security; managers want performance against targets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--06-ia-stakeholders.webp" width="900" height="1100" alt="An annual report with financial statements, directors report and auditor report is at the centre of seven stakeholders, each with what they look for: shareholders profit and dividends, lenders gearing, employees job security, suppliers liquidity and payables days, managers targets, government tax and employment, competitors a rival strengths." loading="lazy">
+  <figcaption>Different stakeholders read the same annual report for different things.</figcaption>
+</figure>
+
 
 ### Ratio formulas (syllabus forms)
 

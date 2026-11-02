@@ -60,6 +60,12 @@ Also useful: the earlier [global context, trade, EU and emerging markets notes](
 
 **Who is more affected?** Firms with imported inputs, overseas sales, global rivals and price-aware customers. Firms serving a small local market with local inputs are less affected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--08-globalisation-facilitators.webp" width="900" height="790" alt="Five facilitators point into globalisation: Internet and communications, e-commerce, trade liberalisation, transport infrastructure and multinationals." loading="lazy">
+  <figcaption>Five facilitators that make globalisation easier.</figcaption>
+</figure>
+
+
 ## Multinationals: evaluation grid
 
 | Positive | Negative |
@@ -95,6 +101,12 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 
 **Support:** financial (credit insurance for exports, bank trade finance, grants) and non-financial (official advice, trade shows, agents, business associations).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--02-tariff-15-percent.webp" width="900" height="840" alt="An imported part priced at 60 pounds carries a 15 per cent tariff of 9 pounds, so costs the importer 69 pounds. The home supplier can charge up to just under 69 pounds and still win orders." loading="lazy">
+  <figcaption>A 15% tariff adds 9 pounds, giving the home supplier room to price up to just under 69 pounds.</figcaption>
+</figure>
+
+
 ## Exchange rate method
 
 1. Write the rate as foreign units per £1, for example £1 = USD 1.25.
@@ -121,6 +133,17 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 | Free trade | wider markets, cheaper inputs, leaner operations | tougher rivals, job losses, reliance on suppliers |
 | Trading bloc | smoother access, shared rules, larger market | rivals within the bloc, imposed rules, barriers to outsiders |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--01-ashenfold-weaker-pound.webp" width="900" height="1160" alt="Two before-and-after bar panels. The USD 780 frame brings in 600 pounds at 1.30 and 650 pounds at 1.20, a gain of 50 pounds. The 2,375,000 yen components cost 12,500 pounds at 190 and 13,194.44 pounds at 180, which is 694.44 pounds more. The pound fell 7.7 per cent against the dollar." loading="lazy">
+  <figcaption>A weaker pound raised Ashenfold's export revenue by 50 pounds but its import cost by 694.44 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--05-interest-rate-pound-chain.webp" width="900" height="990" alt="A rise in UK interest rates makes pound savings pay more, overseas holders want pounds, and the pound's rate rises. That raises export prices abroad and lowers import costs. A rate cut tends to do the reverse." loading="lazy">
+  <figcaption>How a UK rate rise feeds through to a stronger pound and to export and import prices.</figcaption>
+</figure>
+
+
 ## The European Union
 
 | Feature | Effect on a business |
@@ -132,12 +155,24 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 
 **Recommend and justify:** compare nearer, similar European markets with distant global ones on growth, risk, cost and fit with the product. State what would change your choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets--06-eu-bloc.webp" width="900" height="900" alt="The EU is a trading bloc containing the Single European Market and the Eurozone (euro, one interest rate); other members keep their own currency. The UK is outside, with its own trade deals, rules and rate, facing more paperwork, possible tariffs and euro risk." loading="lazy">
+  <figcaption>The EU, Single European Market and Eurozone, and the UK outside.</figcaption>
+</figure>
+
+
 ## Emerging markets and global changes
 
 - Impact: new customers and cheaper production (opportunity); new rivals, price pressure, instability and currency risk (threat).
 - Global changes to watch: currencies, trade policy, technology, politics, regulation, tastes, new entrants.
 - Responses: diversify markets and suppliers, fix prices in advance, adapt products, innovate. Justify against cost and the alternatives.
 - Growth check: value after n years = start × (1 + rate)ⁿ. Percentage rise = (end − start) ÷ start × 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--04-whitlowe-growth.webp" width="900" height="900" alt="Bars show middle-income households growing 9 per cent a year from 2.40 million to 3.69 million after five years: 2.62, 2.85, 3.11, 3.39, 3.69. 2.4 times 1.09 to the power 5 gives a rise of 53.9 per cent." loading="lazy">
+  <figcaption>Compound growth of 9% a year lifts the market from 2.4 to 3.69 million households.</figcaption>
+</figure>
+
 
 ## Political and other international points
 
@@ -146,6 +181,17 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 - Competition may be local, national or global; global rivals may have lower costs or stronger brands.
 - Offshoring payback: payback (years) = set-up cost ÷ annual saving. Landed cost per unit = unit cost + tariff + shipping.
 - International influences appear in the lists of external influences on marketing, operations, finance and people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--03-mossbarrow-offshoring.webp" width="900" height="1040" alt="UK unit cost 18.00 pounds against offshore landed cost 14.28 (11.00 plus 0.88 tariff plus 2.40 shipping), a saving of 3.72 a unit, 148,800 pounds a year at 40,000 units. The 90,000 pound set-up cost is repaid in 0.60 years, about 7.3 months." loading="lazy">
+  <figcaption>Landed cost, annual saving and payback for Mossbarrow Stationery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-globalisation-four-functions.webp" width="900" height="880" alt="A plus (bigger market, cheaper parts, new ideas) and a minus (foreign rivals, longer chains, currency risk), then four cards: operations (longer supply chains), human resources (cheaper rivals, language skills), marketing (adapt per country) and finance (shipping costs, other currencies)." loading="lazy">
+  <figcaption>Globalisation brings opportunity and risk to each functional area.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -176,6 +222,12 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 10. An economy growing fast and industrialising, with rising incomes, that is still less developed than rich economies.
 11. Bringing work that was done abroad back to the home country.
 12. 125 × 1.08 = £135.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--06-trend-or-plan.webp" width="900" height="1100" alt="Globalisation is a trend that draws many firms into tighter links with nobody in control. A global strategy is one firm's own plan to compete in several markets. A firm with no plan can still be hit, for example by an overseas rival." loading="lazy">
+  <figcaption>Globalisation is a trend; a global strategy is a firm's plan.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

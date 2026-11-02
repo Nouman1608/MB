@@ -160,13 +160,41 @@ Generation 1: A alleles = 2 × 245 + 210 = 700 of 1000, so p = 0.70 and q = 0.30
 
 The frequency of a has risen from 0.30 to 0.44, so the allele frequency is changing. If generation 1 conditions had continued, aa would be 0.09 × 500 = 45; the observed 100 is far higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+
 ### (ii) Causes of change
 
 **Mutation** creates new alleles at a very low rate, so by itself it changes allele frequencies slowly. **Natural selection** changes them when individuals with certain alleles survive and reproduce more than others, so those alleles become more common. Selection acts on phenotypes, and the allele frequency changes in the next generation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ### (iii) Reproductive isolation
 
 If two populations of a species are kept apart (by a barrier such as water, by different breeding times or by different courtship behaviour), they no longer exchange alleles. Each population accumulates different mutations and experiences different selection pressures. Over many generations the genetic information diverges until members of the two populations can no longer breed together and have fertile offspring. They are now separate species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
 
 ## 4.21 Zoos and seed banks
 
@@ -191,6 +219,12 @@ Good evaluations end with a judgement, such as that these methods support in sit
 - Using the heterozygosity index on the number of alleles instead of the number of individuals.
 - Taking q as the recessive phenotype frequency, instead of q².
 - Saying Hardy-Weinberg proves evolution is occurring: it is a baseline against which change is detected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

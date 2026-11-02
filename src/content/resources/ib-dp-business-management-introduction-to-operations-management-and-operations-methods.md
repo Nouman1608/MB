@@ -66,6 +66,12 @@ The guide's conceptual understandings give you the best framework for an analysi
 
 The guide suggests decision trees, descriptive statistics and circular business models as tools to integrate in this unit. You will see the first two in the worked examples below. A circular business model keeps materials in use through reuse, repair or recycling instead of a one-way take, make, dispose line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--01-ops-role-transformation.webp" width="900" height="960" alt="Five inputs (materials, labour, equipment, energy, information) flow into operations, which plans, organizes and controls, and out come goods or services. Two columns compare the cost of inputs with the worth of the output; the gap is the value added. Column heights are illustrative." loading="lazy">
+  <figcaption>Operations turns inputs into outputs, and the difference in worth is value added.</figcaption>
+</figure>
+
+
 ## 5.2 Operations methods
 
 The four methods differ in two things: how many identical units are made, and how closely each unit matches an individual customer's wishes. Think of a line from "one unique unit" to "huge numbers of identical units", with mass customization sitting on the high-volume end but with variety added.
@@ -79,6 +85,12 @@ The four methods differ in two things: how many identical units are made, and ho
 - **Strengths:** the product fits the customer exactly; skilled workers are motivated by varied, whole tasks; a high price can be charged.
 - **Limitations:** high cost per unit; slow; no gains from repeating a task; heavy reliance on scarce skilled labour; cash is tied up in each job until the customer pays.
 - **Suited to:** bespoke goods and services where the customer pays for uniqueness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--02-job-boat-cost-build-up.webp" width="900" height="920" alt="A stepped bar chart in USD: materials 4,200, labour 310 h x 28 = 8,680 and overheads 2,100 make a total cost of 14,980. A 25% mark-up of 3,745 gives a price of 18,725 and a profit of 3,745." loading="lazy">
+  <figcaption>Cost plus 25% mark-up gives the price of one bespoke dinghy.</figcaption>
+</figure>
+
 
 ### Batch production
 
@@ -98,6 +110,17 @@ Larger batches spread the set-up cost over more units. The trade-off is unsold s
 - **Limitations:** idle time during changeovers; stock of finished or part-finished goods; planning is harder than with a single line.
 - **Suited to:** products with several varieties, repeat orders and demand that varies by season or size.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--01-batch-setup-cost.webp" width="900" height="1090" alt="A curve of cost per loaf against batch size, from 0.60 + 120 divided by batch size. Batches of 200, 400 and 800 loaves cost 1.20, 0.90 and 0.75 dollars a loaf. Bars beneath split each cost into the 0.60 variable part and a shrinking set-up share." loading="lazy">
+  <figcaption>Larger batches spread the set-up cost over more loaves, but risk unsold stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--05-batch-cost-mean-range.webp" width="900" height="920" alt="A dot plot of five batch costs per loaf: 0.92, 0.88, 0.95, 0.90 and 0.85 dollars. The mean is 0.90 and the range is 0.10, which suggests a stable process." loading="lazy">
+  <figcaption>Mean and range summarize five batch costs.</figcaption>
+</figure>
+
+
 ### Mass/flow production
 
 **Mass production** (also called **flow production**) makes large numbers of a standardized product on a continuous line, with each unit moving from stage to stage. The guide names it "mass/flow production", so treat the two terms as one method.
@@ -113,6 +136,12 @@ The USD 15.00 difference shows why flow production depends on high, steady deman
 - **Limitations:** very high set-up cost for the line; inflexible; repetitive jobs can demotivate workers; a breakdown can stop the whole line; unsold output piles up if demand falls.
 - **Suited to:** standard products with large, stable demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--02-flow-utilisation.webp" width="900" height="1060" alt="A falling unit-cost curve for a toaster line of capacity 1,200 a day: 39.50 dollars a unit at 600 units (50% utilisation) and 24.50 at 1,200 units (100%), a difference of 15.00." loading="lazy">
+  <figcaption>Flow production is cheapest per unit only when the line is kept busy.</figcaption>
+</figure>
+
+
 ### Mass customization
 
 **Mass customization** uses mass-production techniques and standard components to offer products that each customer can personalize.
@@ -122,6 +151,12 @@ The USD 15.00 difference shows why flow production depends on high, steady deman
 - **Strengths:** customers pay a premium for personalization; low cost compared with job production; less unsold stock, because pairs are made to order; customer data feeds back to the design team.
 - **Limitations:** needs flexible machines or technology and a well-organized supply chain; delivery takes longer than buying from a shelf; complexity is harder to manage; the premium may not be worth it if customers want speed or the lowest price.
 - **Suited to:** markets where customers value individuality and the product can be built from modules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--03-custom-shoe-profit.webp" width="900" height="880" alt="Two stacked columns: a standard shoe costs 38 and sells for 89 (profit 51); a personalized pair costs 46 and sells for 129 (profit 83). Extra cost 8, customer pays 40 more, so profit rises by 32." loading="lazy">
+  <figcaption>Personalization adds $8 of cost but $40 of price.</figcaption>
+</figure>
+
 
 ### Comparing the four methods
 
@@ -133,6 +168,17 @@ The USD 15.00 difference shows why flow production depends on high, steady deman
 | Flexibility | Very high | Medium | Low | Medium to high |
 | Typical risk | Skills shortage | Stock and changeovers | Falling demand | Complex supply chain |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--04-methods-compare-dots.webp" width="900" height="840" alt="Four cards rank volume, cost per unit and flexibility from one to five dots for job, batch, mass/flow and mass customization, with each method’s typical risk, taken from the lesson’s table." loading="lazy">
+  <figcaption>Dots rank the lesson’s table words; more dots means more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+
 ## Choosing a method: an evaluation example
 
 AO3 questions want a judgement. The choice of method depends on demand, product, capital available, customer expectations and the business's values.
@@ -143,6 +189,17 @@ Jarrowfield Cycles currently uses batch production. It could invest in flexible 
 - **Stay with batch:** cost USD 60,000. High demand returns USD 300,000; low demand USD 150,000. Expected value = 0.6 × 300,000 + 0.4 × 150,000 = 240,000. Net = 240,000 − 60,000 = **USD 180,000**.
 
 Investing is ahead by USD 34,000 on these figures. If the probability of high demand is p, the two options are equal when 440p − 50 = 150p + 90 (in thousands), so p = 140 ÷ 290 = **0.483**. Below that, staying with batch production is better. A strong answer also weighs what the numbers leave out: the owners' access to finance, the risk of the low-demand outcome, the effect on employees' skills, and whether personalization suits the brand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--03-method-choice-break-even.webp" width="900" height="1030" alt="Two lines show net value against the probability of high demand: invest 440p minus 50 and stay with batch 150p plus 90, in USD thousand. They cross at p = 0.483; to the left batch is better, to the right investing is better." loading="lazy">
+  <figcaption>The better method depends on how likely high demand is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Common errors
 

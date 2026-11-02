@@ -71,6 +71,12 @@ Events per second: 2.0 × 10²⁷ / 4.29 × 10⁻¹² = **4.7 × 10³⁸ s⁻¹*
 
 Hydrogen used per second: 4 × 1.67 × 10⁻²⁷ × 4.66 × 10³⁸ = **3.1 × 10¹² kg s⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+
 ## 5.5.1(c) A low-mass star such as the Sun
 
 1. **Main sequence**: hydrogen fuses to helium in the core for most of the star's life.
@@ -109,6 +115,12 @@ A star of much greater mass than the Sun (roughly eight solar masses or more) be
 4. **Supernova**: the outer layers rebound and are thrown into space in a huge explosion that is extremely luminous. It scatters heavy elements that later form new stars and planets.
 5. **Remnant**: a **neutron star** if the remaining core is below a limit of a few solar masses, otherwise a **black hole**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
+  <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
+</figure>
+
+
 ## 5.5.1(f) Neutron stars and black holes
 
 **Neutron star**
@@ -134,6 +146,12 @@ Surface field strength: g = GM/r² = 6.67 × 10⁻¹¹ × 2.99 × 10³⁰ / (1.2
 
 Escape velocity: v = √(2GM/r) = **1.8 × 10⁸ m s⁻¹**, which is 0.61 of c. It is below c, so light escapes and this object is not a black hole. A black hole of the same mass would have an event horizon radius of 2GM/c² = 4.4 km, smaller than this star. Compressing the same mass inside that radius would make it a black hole.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+
 ## 5.5.1(g) The HR diagram
 
 The Hertzsprung–Russell diagram plots the **luminosity** of stars against their **surface temperature**. Luminosity is on the vertical axis, often as a multiple of the Sun's, on a logarithmic scale. Temperature is on the horizontal axis and it **decreases from left to right**, so the hottest stars are on the left.
@@ -155,6 +173,12 @@ Star P: 2 × 10⁴ times the Sun's luminosity, surface temperature 3600 K. Star 
 - Q is hot but dim, so it lies in the bottom left: a **white dwarf**.
 - R has luminosity and temperature close to the Sun's: a **main sequence** star.
 - P is 2 × 10⁴ / 1 × 10⁻³ = **2 × 10⁷** times as luminous as Q. P is cooler, so its much greater luminosity comes from a far larger surface area.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
 
 ## Common errors
 

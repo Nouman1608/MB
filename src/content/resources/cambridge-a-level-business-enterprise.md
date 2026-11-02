@@ -49,6 +49,12 @@ Producing anything needs the four factors of production:
 
 Standard teaching adds that each factor earns a reward (rent, wages, interest and profit). That reward list is the usual textbook form, not something the syllabus itself sets out, so use it only as support.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+
 ### Adding value
 
 Adding value means turning inputs into outputs that sell for more than the bought-in inputs cost. The standard form is:
@@ -69,6 +75,17 @@ The owner then adds a printed bag and a story card. Bought-in cost rises to £1.
 
 The caveat matters. A higher price may reduce the number sold, so the gain is only certain if customers accept the new price. Ways to add value include branding, design, quality, service and convenience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--05-en-value-added.webp" width="900" height="770" alt="Two stacked bars per loaf. A plain loaf sells at 4.60 pounds with 1.00 of bought-in ingredients and packaging, so value added is 3.60 and 700 loaves a week add 2,520 pounds. With a printed bag and story card the price is 4.90, bought-in cost 1.10, value added 3.80 and weekly value added 2,660, a rise of 140 if sales volume holds. Value added is not profit." loading="lazy">
+  <figcaption>Adding a printed bag and story card raises value added per loaf and per week.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+
 ### Economic activity, choice and opportunity cost
 
 Economic activity is the production and consumption of goods and services. Resources are limited but wants are not, which creates the problem of choice: using resources one way means not using them another way. **Opportunity cost** is the value of the next best alternative given up.
@@ -80,6 +97,22 @@ Economic activity is the production and consumption of goods and services. Resou
 - If he builds the frames, the opportunity cost is the £1,080 of repair income given up.
 
 He may still choose the frames, for example to build a reputation for custom work. Opportunity cost shows what a decision costs; it does not by itself say which choice is right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--06-en-opportunity-cost.webp" width="900" height="780" alt="Two bars to the same scale. Repairs for 40 hours at 27 pounds an hour bring in 1,080. Two custom frames each selling at 620 with 150 of materials bring in 2 times 470, which is 940. If Bastian builds the frames, the opportunity cost is the next best alternative given up: the 1,080 of repair income. Opportunity cost shows what a decision costs; it does not by itself say which choice is right." loading="lazy">
+  <figcaption>The opportunity cost of building frames is the repair income given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
 
 ### The dynamic business environment
 
@@ -100,6 +133,12 @@ Common causes of failure: weak planning, too little finance or poor cash control
 
 The key contrast is between selling abroad and owning operations abroad. Multinationals can use lower-cost locations and reach bigger markets, but they face more complexity, exchange-rate exposure and local-culture issues.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--06-en-reach.webp" width="900" height="870" alt="Four rows: local (one town), national (one country), international (sells in 2+ countries, often exporting) and multinational (owns operations in 2+ countries)." loading="lazy">
+  <figcaption>The difference between selling abroad and owning operations abroad.</figcaption>
+</figure>
+
+
 ## 1.1.2 Entrepreneurs and intrapreneurs
 
 ### Qualities
@@ -111,6 +150,12 @@ Both need: creativity and the ability to spot opportunities, willingness to take
 An **entrepreneur** creates and starts up a business, usually putting in their own money and bearing the risk. Their role in start-up includes spotting the opportunity, gathering the resources, and organising production and selling.
 
 An **intrapreneur** behaves in an entrepreneurial way inside an existing business. The employer carries the financial risk, but the intrapreneur proposes and drives new products, processes or ventures. Their role in ongoing success is to keep a large business innovative, so that it does not become slow and fixed as it ages. A business can encourage this with freedom to experiment, rewards for ideas and tolerance of some failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--07-en-entrepreneur-intrapreneur.webp" width="900" height="830" alt="An entrepreneur starts a new business with their own money and bears the risk. An intrapreneur innovates inside an existing business and the employer bears the financial risk." loading="lazy">
+  <figcaption>Entrepreneurs carry the risk themselves; intrapreneurs work with their employer's money.</figcaption>
+</figure>
+
 
 ### Barriers to entrepreneurship
 
@@ -125,9 +170,21 @@ An **intrapreneur** behaves in an entrepreneurial way inside an existing busines
 
 The syllabus lists both and does not define them, so this is the standard distinction. **Risk** is the chance of loss where the possible outcomes and their likelihood can be estimated, for example from past sales. **Uncertainty** is where outcomes cannot be predicted reliably, so no probabilities can be put on them, as when a new technology appears. Risk can be reduced through research and insurance. Uncertainty can only be managed through flexibility and contingency plans.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--08-en-risk-uncertainty.webp" width="900" height="770" alt="Risk: outcomes and odds can be estimated, shown by a pie chart; manage with research and insurance. Uncertainty: no reliable odds, shown by question marks; manage with flexibility and contingency plans." loading="lazy">
+  <figcaption>Risk can be estimated; uncertainty cannot.</figcaption>
+</figure>
+
+
 ### Enterprise and a country's development
 
 Business enterprise can raise the development of a country by creating jobs and incomes, adding output and tax revenue, encouraging innovation, increasing competition, and giving people more choice. Evaluate by noting that benefits depend on the kind of enterprise: a very high failure rate wastes resources, and some activity may harm the environment or local communities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--07-en-country-development.webp" width="900" height="910" alt="A hub-and-spoke picture. New businesses in the centre lead to jobs, incomes, output, tax revenue, innovation, and more competition and choice. A warning strip adds the evaluation point: benefits depend on the kind of enterprise, a high failure rate wastes resources, and some activity may harm the environment or local communities." loading="lazy">
+  <figcaption>Business enterprise can add jobs, incomes, output, tax revenue, innovation and choice, but has costs too.</figcaption>
+</figure>
+
 
 ## 1.1.3 Business plans
 
@@ -140,6 +197,17 @@ Key elements: the business idea and its aims; the target market and market resea
 A cautious reader tests the assumption. If orders are 25% lower, they fall to 90 a month, so revenue is 90 × £18 = £1,620 a month, or £19,440 a year. That is £6,480 a year below the forecast. The plan is only as reliable as its order assumption.
 
 **Benefits:** forces careful thinking, exposes weaknesses before money is spent, helps raise finance, and gives targets for review. **Limitations:** takes time to write; forecasts rest on assumptions that may be wrong; the market may change and make it out of date; and a plan cannot guarantee success.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--09-en-plan-assumption.webp" width="900" height="850" alt="Sundial Seeds start-up cost 18,000 is 9,000 savings plus a 9,000 loan. Forecast annual revenue 25,920 pounds falls to 19,440 if orders are 25 percent lower, a gap of 6,480." loading="lazy">
+  <figcaption>A business plan is only as reliable as its assumptions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
+  <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
+</figure>
+
 
 ## Common errors
 

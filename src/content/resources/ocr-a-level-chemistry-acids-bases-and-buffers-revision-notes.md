@@ -36,6 +36,12 @@ These notes condense section 5.1.3, Acids, bases and buffers, of the H432 specif
 - **Buffer solution:** a system that minimises pH changes on addition of small amounts of an acid or a base.
 - **End point:** the point in a titration where the indicator changes colour, when [HIn] = [In⁻].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
+
 ## Formulas (5.1.3(c)–(g), (l))
 
 | Quantity | Formula | Units |
@@ -102,9 +108,21 @@ Working backwards: a strong base solution of pH 11.65 has [H⁺] = 10⁻¹¹·�
 
 **Units of Ka.** In [H⁺][A⁻] / [HA], two concentration units on top and one underneath leave mol dm⁻³. In Kw nothing is divided, so the units are mol² dm⁻⁶.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
+
 ## Approximation limits (5.1.3(h))
 
 The assumption [HA]equilibrium ≈ [HA]undissociated breaks down for "stronger" weak acids (large Ka), particularly in dilute solution. A significant fraction dissociates, so the real [HA] is lower than the starting value. The approximation then gives an [H⁺] that is too high and a pH that is too low. A useful test: if the approximate [H⁺] is more than a few per cent of the starting concentration, treat the answer with suspicion. You will not be asked to solve the quadratic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--05-approximation-fails.webp" width="900" height="1000" alt="A graph of pH against concentration for chloroethanoic acid shows a dashed shortcut line and a solid true line separating as the acid is diluted. At 0.0100 M the shortcut gives 2.43 but the true pH is 2.51." loading="lazy">
+  <figcaption>At 0.0100 M chloroethanoic acid the shortcut implies about 37% dissociation, so [HA] is not unchanged and the true pH is 2.51 (OCR only).</figcaption>
+</figure>
+
 
 ## Buffers in one box (5.1.3(i)–(m))
 
@@ -131,6 +149,17 @@ Commonly quoted ranges: methyl orange about 3.1–4.4 (red in acid, yellow in al
 - **Reading pKa from a curve:** when a weak acid is titrated with a strong base, the pH halfway to equivalence equals pKa.
 - **Sketching:** mark the start pH, the equivalence volume and the steep section clearly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--06-titration-curves.webp" width="900" height="1090" alt="Four computed curves of pH against base added for 25 cm3 of 0.100 M acid with 0.100 M base. Strong+strong starts at pH 1 and is equivalent at pH 7. Weak acid+strong base starts near 2.9, buffers, and is equivalent near 8.7. Strong acid+weak base is equivalent near 5.3. Weak+weak has no steep section." loading="lazy">
+  <figcaption>Strong or weak acids and bases give curves with different start pH, steep section and equivalence pH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
+
 ## pH meter (5.1.3(o), PAG11)
 
 Calibrate with buffers of known pH; rinse the electrode with deionised water between readings; let the reading settle; keep the temperature constant; store the electrode wet.
@@ -142,6 +171,12 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 - **Ka and pKa:** the two move in opposite directions, so a weak acid has a small Ka but a large pKa.
 - **Neutral and pH 7:** a neutral solution is one where [H⁺] and [OH⁻] are equal; that coincides with pH 7 only at 298 K.
 - **Buffer and neutral solution:** a buffer resists pH change at whatever pH it is set; it need not be at pH 7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
+  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -183,6 +218,12 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 - Choosing an indicator for a weak acid–weak base titration: none is suitable.
 - Including spectator ions in an ionic equation, or splitting an insoluble solid into ions.
 - Giving units for pH or pKa: both have none.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--08-buffer-action.webp" width="900" height="940" alt="A beaker holds eight HA and six A- particles (0.200 mol HA, 0.150 mol A-, pH 4.63). Adding a little H+ turns A- into HA and moves pH to 4.58; adding a little OH- turns HA into A- and moves pH to 4.68. Water would fall from 7 to 2.00." loading="lazy">
+  <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

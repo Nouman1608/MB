@@ -57,6 +57,17 @@ Leaf lengths (mm) were sorted into classes: 35–44: 2 leaves; 45–54: 7; 55–
 - The data peak in the middle class and tail off at both ends. That shape is typical of continuous variation.
 - Like other continuous features, leaf length is affected by **genes** and by the **environment** (light, water, soil).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--05-leaf-length-histogram.webp" width="900" height="880" alt="A histogram of 24 leaf lengths in four classes: 35-44 mm 2 leaves, 45-54 mm 7, 55-64 mm 10, 65-74 mm 5. The bars touch and peak in the middle class." loading="lazy">
+  <figcaption>Continuous data are shown as a histogram with touching bars, peaking in the middle class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+
 ## 17.2 DNA
 
 ### Structure of DNA (17.2.1)
@@ -74,6 +85,12 @@ Leaf lengths (mm) were sorted into classes: 35–44: 2 leaves; 45–54: 7; 55–
 - The **sequence of bases** in a gene determines the **sequence of amino acids** needed to make a specific protein.
 - **Different sequences of amino acids give different shapes** to protein molecules. Shape decides function: the active site of an enzyme and the binding site of an antibody both depend on it (see [Enzymes](/resources/enzymes/)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+
 ### Worked example 2: base pairing
 
 **(a)** One strand reads **ATCGGA**. Write the other strand.
@@ -81,6 +98,17 @@ Pair each base: A–T, T–A, C–G, G–C, G–C, A–T. Answer: **TAGCCT**.
 
 **(b)** In a DNA molecule, 30% of the bases are A. Find the percentage of C.
 A pairs with T, so T = **30%**. A + T = 60%, leaving 40% for C + G. C pairs with G, so they are equal: C = **20%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <figcaption>Pairing means A equals T and C equals G.</figcaption>
+</figure>
+
 
 ## 17.3 Inheritance
 
@@ -97,6 +125,12 @@ A pairs with T, so T = **30%**. A + T = 60%, leaving 40% for C + G. C pairs with
 | Heterozygous | Two different alleles of a gene, e.g. Rr |
 | Dominant | An allele expressed in the phenotype when one copy is present (capital letter) |
 | Recessive | An allele expressed only when no dominant allele is present (small letter) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ### Genetic diagrams and Punnett squares (17.3.4)
 
@@ -124,6 +158,17 @@ Gametes:             R or r      R or r
 
 Offspring genotypes: 1 RR : 2 Rr : 1 rr. RR and Rr are both round, so the phenotypic ratio is **3 round : 1 wrinkled**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+
 ### Worked example 4: a 1 : 1 cross
 
 The same heterozygous plant (Rr) is crossed with a wrinkled plant (rr). Gametes: R or r from the first parent, only r from the second.
@@ -139,6 +184,12 @@ Offspring: 1 Rr : 1 rr, so **1 round : 1 wrinkled**.
 
 Each fertilisation is a **chance** event: which gamete meets which is random. A predicted ratio is what you expect **on average**. With **small numbers of offspring**, chance has a big effect, so the observed ratio often differs from the expected one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--08-expected-vs-observed.webp" width="900" height="920" alt="Eight seeds from an Rr by Rr cross: expected 6 round and 2 wrinkled, observed 5 and 3 (about 1.67 to 1). With 2400 seeds expect very close to 1800 round and 600 wrinkled." loading="lazy">
+  <figcaption>Small samples stray from the expected ratio; large samples get close.</figcaption>
+</figure>
+
+
 ### Worked example 5
 
 The cross in Worked example 3 gave just 8 seeds: 5 round and 3 wrinkled. Expected: 8 × 3/4 = **6 round** and 8 × 1/4 = **2 wrinkled**. The observed ratio is 5 : 3, about **1.67 : 1**, not 3 : 1. The sample is small, and fertilisation is random, so this is not surprising. With 2400 seeds you would expect very close to 1800 round and 600 wrinkled.
@@ -146,6 +197,12 @@ The cross in Worked example 3 gave just 8 seeds: 5 round and 3 wrinkled. Expecte
 ### Pure-breeding (17.3.6)
 
 Two **identical homozygous** individuals that breed together will be **pure-breeding**: RR × RR gives only RR; rr × rr gives only rr. Every offspring has the same phenotype as the parents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--04-pure-breeding-peas.webp" width="900" height="960" alt="Two crosses in peas. RR x RR gives gametes R only and all RR round offspring. rr x rr gives gametes r only and all rr wrinkled offspring. Identical homozygous parents are pure-breeding." loading="lazy">
+  <figcaption>Identical homozygous parents breed true: RR x RR gives only RR, rr x rr gives only rr.</figcaption>
+</figure>
+
 
 ### Codominance: ABO blood groups (17.3.7)
 
@@ -157,6 +214,12 @@ In **codominance**, both alleles in a heterozygote are expressed in the phenotyp
 | IᴮIᴮ or IᴮIᵒ | B |
 | IᴬIᴮ | AB (both alleles expressed) |
 | IᵒIᵒ | O |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--07-abo-codominance.webp" width="900" height="1000" alt="Four blood groups and their genotypes: A (IAIA or IAIO), B (IBIB or IBIO), AB (IAIB, both expressed) and O (IOIO). A group AB father and group O mother have children IAIO (A) and IBIO (B) in a 1 to 1 ratio." loading="lazy">
+  <figcaption>Both alleles show in group AB: codominance.</figcaption>
+</figure>
+
 
 ### Worked example 6
 
@@ -186,6 +249,12 @@ The ratio is **1 female : 1 male**, so each child has an equal chance of being e
 - A **chromosome mutation** is a **change in chromosome number or structure**. Example: **Down's syndrome**, where a person has **47 chromosomes instead of 46**.
 - **Sources of genetic variation** in populations: **mutation, meiosis, random mating and random fertilisation**.
 - **Ionising radiation** (for example X-rays and gamma rays) and **some chemicals** increase the **rate** of mutation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--09-gene-vs-chromosome-mutation.webp" width="900" height="1260" alt="A one-base change in an illustrative DNA sequence changes an amino acid and so the protein shape, as in sickle cell anaemia. A chromosome mutation changes number: Down syndrome has 47 chromosomes instead of 46." loading="lazy">
+  <figcaption>Gene mutation changes bases; chromosome mutation changes number or structure.</figcaption>
+</figure>
+
 
 ## 17.4 Selection
 

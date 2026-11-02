@@ -71,6 +71,12 @@ Equation, gaseous on both sides: Ba(g) → Ba⁺(g) + e⁻
 
 Magnesium is the exception; its crystal arrangement differs, so the size argument does not predict it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+
 ## 3. Reactions with water
 
 | Metal | Conditions | Equation | Key observation |
@@ -84,6 +90,17 @@ Magnesium is the exception; its crystal arrangement differs, so the size argumen
 - Trend: more vigorous down the group, because the outer electrons are removed more easily.
 - Redox: metal 0 → +2 (oxidised); H +1 → 0 (reduced).
 - One mole of metal gives one mole of H₂ and one mole of M(OH)₂, which supplies two moles of OH⁻.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
 
 ## 4. Titanium extraction
 
@@ -110,6 +127,12 @@ mass TiCl₄  = 25.0 × 189.9   = 4748 g = 4.75 kg
 Hook: "hydroxides **rise**, sulfates **sink**". A saturated Ba(OH)₂ solution is far more alkaline than a
 saturated Mg(OH)₂ solution because it holds more OH⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
+</figure>
+
+
 ## 6. Uses linked to solubility
 
 | Compound | Use | Why it suits the job |
@@ -129,6 +152,12 @@ CaCO₃ + SO₂    → CaSO₃ + CO₂
 ```
 
 CaO and CaCO₃ both react 1 : 1 with SO₂; only the carbonate route releases CO₂.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
 
 ## 7. The sulfate test
 
@@ -152,6 +181,12 @@ n(SO₄²⁻)   = 0.0150 × 0.0620  = 9.30 × 10⁻⁴ mol
 mass BaSO₄ = 9.30 × 10⁻⁴ × 233.4 = 0.217 g
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
+
 ## 8. Required practical 3: Group 2 cations
 
 | Test on a fresh portion | Mg²⁺ | Ca²⁺ | Sr²⁺ | Ba²⁺ |
@@ -161,6 +196,12 @@ mass BaSO₄ = 9.30 × 10⁻⁴ × 233.4 = 0.217 g
 
 Read the rows from the trends: a hydroxide precipitate shrinks down the group; a sulfate precipitate grows.
 Compare solutions of similar concentration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--05-group2-thermal-stability.webp" width="900" height="1000" alt="Rows for Mg2+ to Ba2+ show a cation beside a carbonate ion whose electron cloud is distorted most by the smallest cation. Bars show more heat is needed to decompose as the cation gets larger. Equations for carbonate and nitrate decomposition are given. Edexcel only." loading="lazy">
+  <figcaption>Edexcel only: smaller, more highly charged cations polarise the anion more, so Group 2 carbonates and nitrates become more stable down the group.</figcaption>
+</figure>
+
 
 ## 9. Must-know distinctions
 

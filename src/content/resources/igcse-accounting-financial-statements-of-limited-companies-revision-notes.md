@@ -77,6 +77,12 @@ These revision notes condense syllabus section 5.3 Limited companies from the Ca
 | Vote | Usually | No |
 | Repayment | Not normally repaid while trading | On the agreed date |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--07-shares-or-debentures.webp" width="900" height="780" alt="Raising 80,000 dollars by shares leaves profit for the year at 50,000 and any 8,000 dollar dividend comes out of equity. Debenture interest of 6,400 dollars is a compulsory finance cost, lowering profit to 43,600, and debentures are a liability." loading="lazy">
+  <figcaption>Share dividends are optional and leave equity; debenture interest is compulsory and reduces profit.</figcaption>
+</figure>
+
+
 ## Share capital formulas
 
 - Issued = number of shares x nominal value.
@@ -91,6 +97,12 @@ These revision notes condense syllabus section 5.3 Limited companies from the Ca
 1. **Statement of profit or loss.** Revenue less cost of sales gives gross profit. Make every 5.1 adjustment, deduct expenses to reach profit from operations, deduct debenture interest (finance costs) for profit for the year.
 2. **Statement of changes in equity.** Start with opening balances in each column. Add shares issued and profit for the year. Move any transfer from retained earnings to the general reserve. Deduct dividends paid from retained earnings. Add across for the total and down for each closing balance.
 3. **Statement of financial position.** Non-current assets at cost, accumulated depreciation and carrying value; current assets; equity copied from step 2; debentures as non-current liabilities; current liabilities including other payables for accrued interest. Total assets must equal total equity and liabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
 
 ## Worked reminder: statement of changes in equity
 
@@ -111,6 +123,17 @@ At 31 March 2028           100,000     20,000   15,000   28,800 163,800
 ```
 
 Dividends: 5% x $20,000 = &#36;1,000 and 100,000 x &#36;0.07 = &#36;7,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--01-lc-four-parts-of-equity.webp" width="900" height="990" alt="A stacked bar shows equity of 261,300 dollars made of ordinary share capital 150,000, preference share capital 40,000, general reserve 15,000 and retained earnings 56,300, each with a short meaning. A strip shows that moving 5,000 dollars from retained earnings to the general reserve leaves total equity unchanged." loading="lazy">
+  <figcaption>Equity has four parts, and a transfer to the general reserve only moves money between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
 
 ## Worked reminder: what a missing adjustment does
 
@@ -133,6 +156,22 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 - Depreciation: straight line on cost; reducing balance on the carrying value at the start; revaluation method is opening value plus additions less closing valuation.
 - Drawings adjustments are in the 5.1 list; revise the method in the topic 5 guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Dividends: statement of changes in equity. Debenture interest: statement of profit or loss.
@@ -140,6 +179,12 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 - A transfer to the general reserve changes the split of equity, not the total.
 - Issued, called-up and paid-up are three different figures.
 - Statement of financial position equity uses closing balances, not opening ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--06-issued-called-paid-up.webp" width="900" height="730" alt="Three bars to one scale show issued capital of 60,000 dollars, called-up capital of 48,000 dollars (12,000 not yet called) and paid-up capital of 46,800 dollars after 1,200 dollars unpaid on 3,000 shares." loading="lazy">
+  <figcaption>Issued, called-up and paid-up capital are three different figures.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -157,6 +202,12 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 ### Answers
 
 1. The amount invested in the shares. 2. $96,000 - &#36;31,500 = &#36;64,500. 3. Preference share capital, ordinary share capital, general reserve, retained earnings. 4. Issued &#36;45,000; called-up &#36;27,000; paid-up &#36;27,000 - (2,000 x &#36;0.30) = &#36;26,400. 5. Finance costs in the statement of profit or loss, after profit from operations. 6. Interest &#36;2,800, so &#36;36,400 - &#36;2,800 = &#36;33,600. 7. None; it moves between reserves. 8. Non-current liabilities. 9. &#36;22,000 + &#36;15,000 - &#36;2,000 - &#36;1,200 - &#36;6,000 = &#36;27,800. 10. The statement of changes in equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
+  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

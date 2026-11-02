@@ -36,6 +36,17 @@ These notes condense quantitative skills QS4 (construct and interpret a range of
 | Scatter graph | Link between two variables | Do not join the points |
 | Economics diagram | Markets, costs, revenue | Label axes, curves, equilibrium |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--11-gr-pie-angles.webp" width="900" height="970" alt="A pie chart of Country B spending of 80 billion units. Health 24 is 30% and 108 degrees, education 16 is 20% and 72 degrees, welfare 20 is 25% and 90 degrees, defence 8 is 10% and 36 degrees, debt interest 6 is 7.5% and 27 degrees, other 6 is 7.5% and 27 degrees. The angles sum to 360 degrees. A pie shows shares only, not whether the total rose." loading="lazy">
+  <figcaption>Each slice angle is item ÷ total × 360, and the six angles must add to 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--04-un227-gr-choose-form.webp" width="900" height="990" alt="Six small example graphs: line graph for change over time, bar chart for comparing categories, compound bar for total and parts, pie chart for shares of one total, scatter graph for whether two variables move together, and an economics diagram for price, quantity and cost." loading="lazy">
+  <figcaption>Pick the graphical form that matches the question being asked.</figcaption>
+</figure>
+
+
 ## Constructing a graph in steps
 
 1. Pick the form that fits the question.
@@ -69,6 +80,12 @@ Check any pie by adding the angles. For a country's tax revenue of 50 split into
 5. Use it to predict only inside the range of the data.
 6. State that correlation does not prove cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--12-gr-scatter-trend.webp" width="900" height="970" alt="Scatter graph of eight households in Town C with household income in thousand units on the horizontal axis and monthly restaurant spending on the vertical axis. The points rise from (20, 40) to (60, 110). The mean point is (38.1, 71.25). A trend line through (20, 40) and (60, 108) has gradient 68 divided by 40, which is 1.7. The line is dashed beyond the data at an income of 70, where predictions are less reliable." loading="lazy">
+  <figcaption>The trend line through (20, 40) and (60, 108) has gradient 1.7, so each extra 1,000 of income goes with about 1.7 more spent a month in this sample.</figcaption>
+</figure>
+
+
 ## Method for a market diagram from equations
 
 1. Equate the two quantity equations and solve for price.
@@ -77,6 +94,17 @@ Check any pie by adding the angles. For a country's tax revenue of 50 split into
 4. For a tax, shift supply up by the tax; for a subsidy, shift it down.
 5. Re-solve, then compare the price consumers pay with the price producers receive.
 6. Tax revenue (or subsidy cost) is the per-unit amount times the new quantity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--01-un227-gr-tax-diagram.webp" width="900" height="1030" alt="A price against quantity diagram with demand Qd = 110 - 4P and supply Qs = 6P - 30 meeting at price 14 and quantity 54. A dashed supply line shifted up by the tax of 5 meets demand at price 17 and quantity 42. Two boxes up to quantity 42 split the tax: consumers pay 3 more (126) and producers keep 2 less (84), so revenue is 210." loading="lazy">
+  <figcaption>The tax of 5 on suppliers moves price from 14 to 17 and splits the tax 60:40 between consumers and producers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -90,6 +118,12 @@ Check any pie by adding the angles. For a country's tax revenue of 50 split into
 ## Reading written extracts
 
 Extract the figures, quantify them, connect them to a concept and judge their limits. Always give the unit and year when you quote a number. Note who is speaking, since a firm, a government and a union may present the same figure differently. Separate what the source states from what you infer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--05-un227-gr-four-steps.webp" width="900" height="1204" alt="A four-step flow for reading an extract, using the cafe example: extract (price +12%, customers -6%), quantify (PED -0.5, revenue +5.3%), connect (inelastic, so revenue rises), judge (no costs given; cause not proved). A strip shows the answer chain figure, meaning, why it matters, limit." loading="lazy">
+  <figcaption>Extract, quantify, connect and judge, then chain the points into an evaluation.</figcaption>
+</figure>
+
 
 ## Evaluation prompts for data answers
 
@@ -116,6 +150,12 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
 
 **A rate of change on a line graph.** The steeper the line, the faster the change, and a horizontal stretch means no change. A line that bends downward but stays above the axis still shows a rising series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--10-gr-growth-vs-level.webp" width="900" height="950" alt="Two charts for Country A over 2015 to 2022. The upper line graph shows the level of real GDP: 200, 206.00, 213.21, 217.47, 214.21, 205.64, 210.78 and 219.22 billion units, with a peak in 2018 and a trough in 2020. The lower bar chart shows annual growth: 3.0, 3.5, 2.0, negative 1.5, negative 4.0, 2.5 and 4.0 percent. In 2021 growth is positive yet the level is still below the 2018 peak." loading="lazy">
+  <figcaption>In 2021 growth is positive (+2.5%) but real GDP (210.78) is still below its 2018 peak (217.47); it passes the peak only in 2022.</figcaption>
+</figure>
+
+
 ## Reading a table of data
 
 1. Read the title, the units and the years before any numbers.
@@ -123,6 +163,22 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
 3. Calculate change, share or ratio rather than saying "it went up".
 4. Compare like with like: same base year, same unit, same period.
 5. Write one sentence of meaning for each calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--13-gr-truncated-axis.webp" width="900" height="910" alt="The same two bars of sales, 480 and 504, drawn twice. On the left the axis starts at zero and the bars look almost equal, which is correct for a 5% rise. On the right the axis starts at 470, so the bars are 10 and 34 units tall and the second bar looks 3.4 times the first." loading="lazy">
+  <figcaption>Sales rise 5% from 480 to 504; starting the axis at 470 makes the second bar look 3.4 times as tall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--02-un227-gr-dual-axes.webp" width="900" height="1010" alt="Two charts of the same two series. On scale choice A the lines stay apart; on scale choice B, with the right axis starting at 280, they cross. X rose 40% and Y 13.3%, so the crossing is created by the scales." loading="lazy">
+  <figcaption>The same two series can be made to run apart or cross by changing the axis scales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--03-un227-gr-points-vs-percent.webp" width="900" height="900" alt="One bar of 6.0 with an extra 1.5 is shown twice. Measured in percent it is a rise of 1.5 percentage points; measured against the starting 6.0 it is a rise of 25%." loading="lazy">
+  <figcaption>An unemployment rate rising from 6.0% to 7.5% is 1.5 percentage points, or 25% in relative terms.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -149,6 +205,12 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
 8. The bars are 10 and 20 tall from the axis start, so the second looks twice as tall. The true rise is 10/100 = 10%.
 9. The points are separate observations, not a continuous series. A line of best fit summarises the pattern instead.
 10. 100 - 5P = 3P + 20 gives 80 = 8P, so P = 10; Q = 100 - 50 = 50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

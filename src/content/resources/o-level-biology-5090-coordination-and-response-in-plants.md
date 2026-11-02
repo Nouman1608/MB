@@ -55,6 +55,22 @@ The name of each tropism tells you the stimulus: *photo-* means light, *gravi-* 
 
 A seed can land in the soil in any position. Whichever way up it lies, the root curves down and the shoot curves up. This gets the root into the soil, where it anchors the plant and takes up water and mineral ions, and gets the shoot up towards the light.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--08-gravitropism-roots-shoots.webp" width="900" height="740" alt="Three seeds in soil: upright, upside down and sideways. Whichever way it first points, every root curves to grow downwards and every shoot curves to grow upwards. Roots are positively gravitropic, shoots negatively." loading="lazy">
+  <figcaption>Roots grow towards gravity and shoots away from it, whichever way the seed lies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--09-gravitropism-auxin-shoot.webp" width="900" height="920" alt="A shoot lying on its side in the dark. Auxin from the tip collects on the lower side (many more dots below than above). Auxin stimulates cell elongation, so the lower cells are longer and the shoot curves upwards." loading="lazy">
+  <figcaption>More auxin below makes the lower cells longer, so the shoot curves up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--11-clinostat-control.webp" width="900" height="1006" alt="Two dishes of pinned seeds in the dark with roots pointing down, up and sideways. Still dish: roots curve down and shoots curve up. Clinostat that turns the seedlings slowly: roots and shoots keep growing in the direction they started because no side is affected by gravity for longer." loading="lazy">
+  <figcaption>The clinostat is the control: without one-sided gravity the curving does not happen.</figcaption>
+</figure>
+
+
 ## 15.1.2 Phototropism
 
 **Phototropism** is a response in which parts of a plant grow towards or away from light.
@@ -70,6 +86,22 @@ You will investigate roots as well as shoots (15.1.4). Shoots respond strongly t
 |---|---|---|
 | Shoot | Grows away: negative gravitropism | Grows towards: positive phototropism |
 | Root | Grows towards: positive gravitropism | Little or none; any curve is away from the light |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--07-phototropism-setup.webp" width="900" height="840" alt="Two light-proof boxes of seedlings: one with a slit giving one-sided light, where shoots curve towards it and the angle from the vertical is measured; and a control with even light where they grow straight. Other variables are kept the same." loading="lazy">
+  <figcaption>Test box with one-sided light versus an evenly lit control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--09-shoot-root-summary.webp" width="900" height="800" alt="Shoot: away from gravity (negative), towards one-sided light (positive). Root: towards gravity (positive), little or no response to one-sided light, any curve away from the light." loading="lazy">
+  <figcaption>Shoot and root responses to gravity and light compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
 
 ## 15.1.3 How auxin controls shoot growth
 
@@ -132,6 +164,17 @@ A student cut a thin section through a shoot that had bent towards light. The me
 - Percentage = 24 ÷ 60 × 100 = **40%** longer.
 - Explanation: more auxin was on the shaded side, and auxin stimulates cell elongation, so the shaded-side cells elongated more. Note that the cells got **longer**; the answer is not "more cells" on the shaded side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--10-phototropism-tip-experiments.webp" width="900" height="950" alt="Four oat seedlings with light from the left. A untreated: bends towards the light. B tip cut off: little growth, no bend. C tip covered by a light-proof cap: grows straight up. D region below the tip covered by a sleeve: still bends towards the light." loading="lazy">
+  <figcaption>The shoot tip makes auxin and detects the light; covering the region below it does not stop bending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--06-cell-lengths-40pc.webp" width="900" height="860" alt="Lit-side cells 60 micrometres and shaded-side cells 84 micrometres, drawn to scale. The 24 micrometre difference is 40% longer; the cells are longer, not more numerous." loading="lazy">
+  <figcaption>Shaded-side cells are 40% longer than lit-side cells.</figcaption>
+</figure>
+
+
 ## 15.1.4 Investigating gravitropism and phototropism
 
 Seedlings are used because they grow quickly and the curve is easy to see within a few days. Cress, mustard, maize or bean seedlings all work. Large bean seeds are useful for roots, because the root is easy to see and measure.
@@ -164,6 +207,12 @@ Five shoots in one-sided light had these angles of curvature after 48 hours: 32�
 - Sum = 32 + 35 + 28 + 41 + 34 = 170°.
 - Mean = 170 ÷ 5 = **34°**. The range is 28° to 41°.
 - Using five seedlings, not one, makes the mean more reliable, because seedlings vary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--08-results-data.webp" width="900" height="830" alt="Five angles 32, 35, 28, 41 and 34 degrees sum to 170 so the mean is 34 degrees. A root growing from 12 mm to 30 mm in 3 days grew 18 mm, 6 mm per day." loading="lazy">
+  <figcaption>Worked examples 3 and 4 shown as charts with the arithmetic.</figcaption>
+</figure>
+
 
 ### Worked example 4: root growth rate
 

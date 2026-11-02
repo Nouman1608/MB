@@ -53,6 +53,12 @@ its economic policy -- and why achieving one goal can make another harder to rea
 - The central tension: policies designed to achieve one objective can positively or negatively affect
   the others
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The single idea that ties this whole subtopic together is trade-off: no policy improves every objective
@@ -76,6 +82,12 @@ income), the government (benefit payments, lost tax revenue) and the wider econo
 satisfactory balance of payments means the country's trade and financial transactions with the rest of
 the world are broadly sustainable, without a persistently large deficit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## Cost-push vs demand-pull inflation
 
 Cost-push inflation arises when production costs rise (wages, raw materials, imported input prices),
@@ -83,6 +95,12 @@ forcing businesses to raise prices to protect margins. Demand-pull inflation ari
 the economy outstrips the economy's capacity to supply it, pulling prices up. The distinction matters
 because the appropriate policy response differs: demand-pull inflation calls for reducing demand (e.g.
 raising interest rates), while cost-push inflation is harder to fix through demand-side policy alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## Why governments cannot maximise every objective at once
 
@@ -96,6 +114,12 @@ to exports, worsening the balance of payments. This is why exam questions on thi
 candidates to evaluate a policy against multiple objectives rather than just one -- a strong answer
 explicitly identifies which objectives a policy helps and which it may harm, rather than assuming every
 policy is straightforwardly beneficial.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Worked example: evaluating a policy against multiple objectives
 
@@ -132,6 +156,12 @@ Describing a policy's effect on only one objective, ignoring the trade-off with 
 cost-push and demand-pull inflation, or applying the wrong policy response to each. Treating economic
 growth as an unambiguous good without acknowledging any implications. Omitting the balance of payments as
 one of the four objectives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

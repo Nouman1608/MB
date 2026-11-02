@@ -49,6 +49,22 @@ RCOCl + R'NH2    ->  RCONHR' (N-substituted amide)
 
 **Reduction:** LiAlH₄ reduces the C=O of an amide specifically to give an amine — CH₃CONH₂ →[LiAlH₄] CH₃CH₂NH₂. This is one of the standard amine-production routes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--04-amide-lone-pair.webp" width="900" height="980" alt="Top: the free lone pair on ethylamine takes up H+. Bottom: in ethanamide the lone pair on N is delocalised into the C=O group (curly arrows), so it cannot take up H+ and the amide is neutral." loading="lazy">
+  <figcaption>Delocalisation of the N lone pair into C=O makes amides neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--05-amide-hydrolysis.webp" width="900" height="940" alt="Ethanamide is hydrolysed with acid (H2O and HCl) to ethanoic acid and ammonium chloride, or with NaOH(aq) to sodium ethanoate and ammonia." loading="lazy">
+  <figcaption>Acid gives the acid plus an ammonium salt; alkali gives the carboxylate salt plus ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+
 ## Amino acids
 
 General formula `H₂NCHRCOOH` — an amine group and a carboxylic acid group on the same carbon.
@@ -74,6 +90,22 @@ General formula `H₂NCHRCOOH` — an amine group and a carboxylic acid group on
 
 **Amino acids are chiral** (except glycine, whose R group is H, so it has no four different groups). Naturally occurring amino acids are almost exclusively the L-form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--06-electrophoresis-direction.webp" width="900" height="975" alt="An amino acid with isoelectric point 6.0 is a cation and moves to the cathode at pH 3.0, a zwitterion that stays put at pH 6.0, and an anion that moves to the anode at pH 9.0." loading="lazy">
+  <figcaption>Below its pI an amino acid moves to the cathode, at pI it stays, above pI it moves to the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--01-glycine-achiral.webp" width="900" height="830" alt="Two panels show the central carbon of an amino acid with NH2, COOH, R and H. In alanine (R = CH3) all four groups differ, so it is a chiral centre with two mirror-image forms. In glycine (R = H) two groups are identical hydrogens, so there is no chiral centre and glycine is achiral." loading="lazy">
+  <figcaption>Glycine has two hydrogens on its central carbon, so it is the one achiral amino acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+
 ## Dipeptides and tripeptides
 
 The **peptide bond** `–CONH–` forms by condensation between the amine group of one amino acid and the carboxyl group of another, releasing water. Joining two amino acids gives a **dipeptide**; joining three gives a **tripeptide** — this is as far as 9701 takes peptide chemistry.
@@ -81,6 +113,12 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 **Hydrolysis** with aqueous acid (e.g. dilute or concentrated HCl), heated under reflux, breaks a dipeptide or tripeptide back down into its constituent amino acids, reversing each peptide bond in the chain.
 
 **Beyond the syllabus (not assessed at this level):** the folding of many amino acids into a full protein — primary, secondary (α-helix, β-pleated sheet) and tertiary structure, disulfide bridges between cysteine residues — is background context only. 9701 stops at di- and tripeptides and does not require any of this terminology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
 
 ## Exam traps
 

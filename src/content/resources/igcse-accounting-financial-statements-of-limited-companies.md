@@ -69,9 +69,21 @@ A limited company is a separate legal entity owned by shareholders. Its activity
 - A **manufacturing** company makes what it sells; its factory cost of production replaces purchases in cost of sales (5.4).
 - A **combination** does more than one of these, such as making furniture and charging fitting fees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--02-lc-types-of-company.webp" width="900" height="850" alt="Four cards show how the statement of profit or loss starts for trading, service, manufacturing and combination companies. Trading deducts cost of sales to reach gross profit, service has fees and expenses with no cost of sales, and manufacturing uses factory cost in place of purchases." loading="lazy">
+  <figcaption>The activity of the company decides how its statement of profit or loss begins.</figcaption>
+</figure>
+
+
 ## Limited liability
 
 Limited liability caps a shareholder's loss. Suppose a company fails owing $70,000 and its assets raise &#36;30,000, a shortfall of &#36;40,000. A shareholder with 5,000 fully paid &#36;1 shares loses the &#36;5,000 invested and nothing more; creditors cannot claim that person's home or savings. A partly paid shareholder can be asked only for the unpaid part. A sole trader would have to find the &#36;40,000 from private resources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--05-limited-liability.webp" width="900" height="770" alt="A failed company owes 70,000 dollars and its assets raise 30,000, a shortfall of 40,000. A fully paid shareholder loses only the 5,000 invested; a sole trader must find the 40,000 from private funds." loading="lazy">
+  <figcaption>Limited liability stops creditors reaching shareholders' private assets.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages
 
@@ -97,6 +109,12 @@ In evaluation, tie each point to the situation: "raises large sums" matters for 
 
 Check: assets $150,000 less liabilities &#36;40,000 gives equity of &#36;110,000, which could be ordinary shares &#36;70,000, general reserve &#36;15,000 and retained earnings &#36;25,000. A transfer to the general reserve moves money within equity, so the total is unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--01-lc-four-parts-of-equity.webp" width="900" height="990" alt="A stacked bar shows equity of 261,300 dollars made of ordinary share capital 150,000, preference share capital 40,000, general reserve 15,000 and retained earnings 56,300, each with a short meaning. A strip shows that moving 5,000 dollars from retained earnings to the general reserve leaves total equity unchanged." loading="lazy">
+  <figcaption>Equity has four parts, and a transfer to the general reserve only moves money between them.</figcaption>
+</figure>
+
+
 ## Shares or debentures?
 
 **Loan capital** is money lent to the company, usually as **debentures**. Tarnbridge Textiles Ltd needs $80,000 and expects profit from operations of &#36;50,000. Compare two ways.
@@ -112,6 +130,12 @@ Check: assets $150,000 less liabilities &#36;40,000 gives equity of &#36;110,000
 | Dividend leaves the statement of changes in equity | Interest is a finance cost in the statement of profit or loss |
 | Not normally repaid while trading | Repaid on the agreed date |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--07-shares-or-debentures.webp" width="900" height="780" alt="Raising 80,000 dollars by shares leaves profit for the year at 50,000 and any 8,000 dollar dividend comes out of equity. Debenture interest of 6,400 dollars is a compulsory finance cost, lowering profit to 43,600, and debentures are a liability." loading="lazy">
+  <figcaption>Share dividends are optional and leave equity; debenture interest is compulsory and reduces profit.</figcaption>
+</figure>
+
+
 ## Issued, called-up and paid-up
 
 Marchwood Foods Ltd issues 120,000 ordinary shares of $0.50 each.
@@ -122,11 +146,28 @@ Marchwood Foods Ltd issues 120,000 ordinary shares of $0.50 each.
 
 Check which word the question uses; each gives a different figure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--06-issued-called-paid-up.webp" width="900" height="730" alt="Three bars to one scale show issued capital of 60,000 dollars, called-up capital of 48,000 dollars (12,000 not yet called) and paid-up capital of 46,800 dollars after 1,200 dollars unpaid on 3,000 shares." loading="lazy">
+  <figcaption>Issued, called-up and paid-up capital are three different figures.</figcaption>
+</figure>
+
+
 ## The three statements
 
 1. **Statement of profit or loss**: as for a sole trader down to profit from operations, then deduct finance costs (debenture interest) to reach profit for the year. Dividends never appear here.
 2. **Statement of changes in equity**: a column for each part of equity, running from opening balance through shares issued, profit for the year, transfers and dividends paid to the closing balance.
 3. **Statement of financial position**: the equity section copies the closing line of statement 2; debentures go under non-current liabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
 
 ## Worked example: Hollowbrook Stationers Ltd
 
@@ -249,6 +290,12 @@ Total equity and liabilities                           328,600
 
 Check that the closing line of the statement of changes in equity matches the equity section and that the statement balances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
+  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
+</figure>
+
+
 ## Second example: a service company with a loss
 
 Sedgley Surveying Ltd earned fees of $96,000 and had expenses of &#36;98,500, a loss from operations of &#36;2,500. Interest on &#36;25,000 of 8% debentures is &#36;2,000, so the loss for the year is &#36;4,500. An ordinary dividend of &#36;0.06 a share is paid.
@@ -278,6 +325,22 @@ Section 5.3 points back to the 5.1 list. Treatment is the same in a company.
 | Depreciation (straight line, reducing balance) | Expense | Raise accumulated depreciation |
 | Revaluation method | Opening value + additions - closing valuation | Asset at closing valuation |
 | Drawings | Method as in the sole trader guide | Method as in the sole trader guide |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -50,6 +50,17 @@ Income is a flow: money received over a period, such as wages, rent, interest, p
 
 Wealth is usually distributed more unequally than income, because assets accumulate over generations and a small group holds most of the financial assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--01-income-wealth-loop.webp" width="900" height="890" alt="A four-step loop: higher income allows more saving, saving buys assets, assets earn income and rise in value, which raises income again. Below, a house price rise adds to an owner's wealth and does nothing for a renter." loading="lazy">
+  <figcaption>Income and wealth inequality can reinforce each other through saving and asset ownership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## 2. Factors affecting the distribution
 
 **Income.**
@@ -96,6 +107,17 @@ The Gini coefficient compares two areas: the gap between the Lorenz curve and th
 
 **Limits of the measures.** The Gini is a single number, so different distributions can share the same value. It says nothing about the level of income. It depends on the unit used (individual or household) and on whether income is measured before or after tax. Informal and untaxed income and the cost of living differences between regions may be missed. Wealth data are harder to collect than income data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--06-lorenz-before-after-tax.webp" width="900" height="990" alt="Lorenz curves from the lesson's quintile data. Cumulative shares before tax and benefits are 5, 14, 28, 50, 100 (Gini about 0.41) and after are 8, 20, 36, 59, 100 (Gini about 0.31). The after curve lies closer to the line of equality." loading="lazy">
+  <figcaption>Tax and benefits move the Lorenz curve towards the equality line and cut the Gini from about 0.41 to 0.31.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
+
 ## 4. Relative and absolute poverty
 
 Absolute poverty means income too low to afford a basic fixed set of necessities, whatever others earn. Relative poverty means income below a set share of typical income, often 60% of the median, so it measures exclusion from the normal standard of living.
@@ -108,6 +130,12 @@ Absolute poverty means income too low to afford a basic fixed set of necessities
 
 Growth that lifts all incomes by the same percentage cuts absolute poverty and leaves relative poverty unchanged. Relative poverty falls only if low incomes grow faster than the median.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--07-relative-absolute-poverty.webp" width="900" height="970" alt="Bars show weekly incomes of the five poorest of nine households. Before growth, both the relative line (60% of median 260 = 156) and an absolute line of 160 leave 2 households in poverty. After a 10% rise the relative line moves to 171.6 and still captures 2, but the fixed absolute line of 160 now captures only 1." loading="lazy">
+  <figcaption>Equal percentage growth cuts absolute poverty but leaves relative poverty unchanged.</figcaption>
+</figure>
+
+
 ## 5. Causes and effects of poverty
 
 **Causes.** Unemployment and long-term worklessness; low pay and insecure work; low skills and poor access to education; ill health or disability; large families or single-adult households; old age without adequate pension; discrimination; living in a region with few jobs; inadequate benefits; and, in developing economies, low national output and weak institutions. Poverty also passes between generations: low income limits spending on a child's education, which limits future earnings.
@@ -116,6 +144,12 @@ Growth that lifts all incomes by the same percentage cuts absolute poverty and l
 - On individuals: poorer health and life expectancy, weaker educational attainment, lower life chances.
 - On the economy: waste of human capital, lower labour productivity, weaker consumer demand, higher spending on health and welfare.
 - On society: crime, social exclusion and political instability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--02-poverty-cycle-effects.webp" width="900" height="890" alt="A parent on low income spends less on a child's education, so the child earns less as an adult and has a low income again. Below, effects of poverty on individuals, the economy and society." loading="lazy">
+  <figcaption>Low income limits education, which limits future earnings, so poverty can repeat across generations.</figcaption>
+</figure>
+
 
 ## 6. Benefits and costs of different distributions
 
@@ -127,6 +161,17 @@ Growth that lifts all incomes by the same percentage cuts absolute poverty and l
 **Inequality and market failure.** Excessive inequality can cause market failure: poor households cannot afford education or health insurance, so merit goods are under-consumed; wealth can buy market power. It can also be a consequence: monopoly profits, information gaps and discrimination in markets create unequal rewards. Markets allocate by ability to pay, not by need, so efficient outcomes can still be unfair.
 
 **Value judgements.** Positive statements, such as "the Gini fell from 0.41 to 0.31", can be tested. Whether that is desirable is normative. People differ on how equal is equitable: some value equal outcomes, some equal opportunities, some reward for effort. These views drive policy choices, so a good answer says which view it assumes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--03-equal-v-unequal-tradeoff.webp" width="900" height="810" alt="Two columns compare a more equal distribution (five bars of 20% each) with a more unequal one (5% rising to 50%), with the gains and costs the lesson lists for each. Neither end is free of costs." loading="lazy">
+  <figcaption>Each end of the spectrum brings gains and costs, so the best distribution is a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--04-fact-v-judgement-gini.webp" width="900" height="890" alt="The Gini falling from 0.41 to 0.31 is a positive, testable statement. Whether this is desirable is normative and depends on the view: a free-market view stresses incentives and growth, an egalitarian view stresses fairness and redistribution." loading="lazy">
+  <figcaption>The same fact is judged differently under free-market and egalitarian views.</figcaption>
+</figure>
+
 
 ## 7. Policies to alleviate poverty and change distribution
 
@@ -145,6 +190,27 @@ Growth that lifts all incomes by the same percentage cuts absolute poverty and l
 **Other policies.** A minimum wage; education and training (which raise future productivity); free or subsidised health, housing and education; wealth and inheritance taxes; regional policy and job creation; and supply-side measures that raise employment.
 
 **Consequences.** Redistribution can reduce poverty and increase equity, but may reduce work effort, saving and enterprise, raise government spending and the tax burden, and encourage avoidance. Benefit levels also matter in real terms: if a benefit rises 4% while prices rise 6%, real value changes by 1.04 / 1.06 − 1 = **−1.9%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--08-progressive-tax-rates.webp" width="900" height="900" alt="Marginal rate steps from 0% to 15% at 8,000 and to 35% at 30,000. The average rate rises with income: 9% at 20,000 (tax 1,800) and 20.6% at 50,000 (tax 10,300), so the tax is progressive." loading="lazy">
+  <figcaption>Rising average rates are what make a tax progressive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--09-poverty-trap.webp" width="900" height="780" alt="From 80 of extra earnings, a means-tested benefit withdrawn at 65p per 1 and 20% tax leave the worker 12 (tax 16, benefit lost 52). A universal benefit leaves 64 after tax of 16." loading="lazy">
+  <figcaption>An 85% combined marginal rate means extra work barely pays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--05-benefit-real-value.webp" width="900" height="770" alt="A number line from 94 to 108 starting at 100. A benefit rises 4% to 104 while prices rise 6% to 106. The real value is 1.04 divided by 1.06, which is 98.1, a fall of 1.9%." loading="lazy">
+  <figcaption>A benefit that rises less than prices falls in real terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## 8. Evaluating approaches
 

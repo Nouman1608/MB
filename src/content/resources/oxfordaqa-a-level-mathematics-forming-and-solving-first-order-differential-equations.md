@@ -70,6 +70,12 @@ dr/dt = (dV/dt) ÷ (dV/dr) = −k × 4πr² ÷ 4πr² = −k
 
 So dr/dt = −k, a constant. The radius falls at a constant rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--01-family-of-solutions.webp" width="900" height="920" alt="A slope field for dy/dx = 3x²y with the solution curves y = Ae^(x³) for A = 0.5, 1, 2 and 3. Each curve follows the short gradient marks. The thick curve through (0, 2) is the particular solution with A = 2; the others share the same equation but have different values of the constant." loading="lazy">
+  <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
+</figure>
+
+
 ## Solving by separation of variables
 
 An equation is separable when the right side factorises into a function of x multiplied by a function of y, that is dy/dx = f(x) × g(y), which is a product of two separate factors.
@@ -143,6 +149,12 @@ m(10) = 50e^(−10k) = 50 × (38/50)^2.5 = 25.2 g (3 s.f.)
 
 Keep k in exact form until the last step. Rounding k early shifts later answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
+  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+</figure>
+
+
 ## Cooling towards a constant
 
 Newton's law of cooling gives dT/dt = −k(T − S), where S is the surroundings temperature. Substitute u = T − S, or separate directly and use ln(T − S).
@@ -161,6 +173,12 @@ T = 30:  10 = 65e^(−kt)  →  t = ln(6.5)/k = 19.3 minutes
 ```
 
 The temperature approaches 20 °C but never reaches it. That is why the model uses T − 20, not T.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--04-newton-cooling.webp" width="900" height="920" alt="Graph of temperature against time for a drink cooling in a 20 degree room, T = 20 + 65e^(−kt). It starts at 85, is 60 at 5 minutes and 30 at 19.3 minutes. It flattens towards the dashed line T = 20 but never reaches it." loading="lazy">
+  <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
+</figure>
+
 
 ## Practical problems that are not exponential
 
@@ -195,6 +213,22 @@ t → ∞:  x → 20 mg
 
 At t = 5 hours the amount is 15.5 mg (3 s.f.). Rate in minus rate out is the pattern for mixing, infusion and filling problems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--05-rate-in-minus-out.webp" width="900" height="990" alt="Top graph: the amount of drug rises from 0, is 15.5 mg at 5 hours and levels off at 20 mg. Bottom graph: rate in is constant at 6 mg per hour and rate out 0.3x rises with x; they cross at x = 20. Below 20 the amount rises, above 20 it would fall." loading="lazy">
+  <figcaption>The long-term amount is where the rate in equals the rate out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--08-parametric-area-backwards.webp" width="900" height="740" alt="The curve x = 5 cos t, y = 2 sin t for 0 ≤ t ≤ π is the top half of an ellipse. It starts at (5, 0), passes (0, 2) and ends at (−5, 0), so x decreases as t increases and dx/dt = −5 sin t is negative. Integrating y dx/dt from t = π down to 0 gives the positive area 5π, about 15.7." loading="lazy">
+  <figcaption>When x runs backwards, take the limits in the order that makes x increase, otherwise the area comes out negative.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Putting +c on both sides. One constant is enough.
@@ -205,6 +239,12 @@ At t = 5 hours the amount is 15.5 mg (3 s.f.). Rate in minus rate out is the pat
 - Quoting a rounded k in later working. Use the exact expression.
 - Forgetting the units or the meaning of t = 0 in a context question.
 - Leaving a solution as ln y = ... when the question asks for y in terms of x or t.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
+</figure>
+
 
 ## Next steps
 

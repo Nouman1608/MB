@@ -70,6 +70,17 @@ Which gas is it?
 
 Negative results rule gases out, but always finish with the positive test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-identifying-products-of-reactions--08-id-gas-elimination.webp" width="900" height="800" alt="Glowing splint goes out (not oxygen), limewater stays clear (not CO2), lighted splint gives a squeaky pop (hydrogen)." loading="lazy">
+  <figcaption>Negative results rule gases out; the squeaky pop confirms hydrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
+
+
 ## Flame tests (C4.2c and C4.2e)
 
 Some metal ions colour a flame, which identifies the metal ion in a sample.
@@ -84,6 +95,12 @@ Some metal ions colour a flame, which identifies the metal ion in a sample.
 
 Wear eye protection, because the acid is corrosive. The yellow safety flame has its own colour, which would hide the result. Cleaning matters because a trace of an earlier sample, especially a sodium compound, adds its own colour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-identifying-products-of-reactions--03-flame-method.webp" width="900" height="1140" alt="Four pictured steps: clean the loop in acid and a blue flame, pick up grains, hold in the edge of the blue flame and record the colour, and use the blue not the yellow flame. Four steps drawn as pictures." loading="lazy">
+  <figcaption>Clean loop, blue flame, record the colour.</figcaption>
+</figure>
+
+
 ### Interpreting flame colours (C4.2e)
 
 | Metal ion | Flame colour |
@@ -93,6 +110,12 @@ Wear eye protection, because the acid is corrosive. The yellow safety flame has 
 | Potassium, K⁺ | Lilac |
 | Calcium, Ca²⁺ | Orange-red (brick red) |
 | Copper, Cu²⁺ | Green (blue-green) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--04-flame-tests.webp" width="900" height="940" alt="Six Bunsen flames with a wire loop: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green." loading="lazy">
+  <figcaption>Flame colours for six metal ions.</figcaption>
+</figure>
+
 
 ### Worked example 2: two red flames
 
@@ -126,6 +149,17 @@ Sodium hydroxide solution is added to a pale green solution, and a green solid f
 
 Sodium ions and the original anion are spectators. For iron(III) the solid is Fe(OH)₃.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--03-al-zn-ca.webp" width="900" height="934" alt="Aluminium, zinc and calcium all give a white precipitate with NaOH. Excess NaOH separates calcium (insoluble) from the other two. Ammonia gives calcium no precipitate, and in excess it dissolves zinc but not aluminium." loading="lazy">
+  <figcaption>Three ions, four tubes each: the deciding tests are highlighted.</figcaption>
+</figure>
+
+
 ## Tests for aqueous anions (C4.2b, Higher Tier only)
 
 | Anion | Test | Positive result |
@@ -141,6 +175,17 @@ Why acidify first? Carbonate ions also give precipitates with silver and barium 
 Why that acid? Hydrochloric acid would add chloride ions to the halide test, so use nitric acid. Sulfuric acid would add sulfate ions to the sulfate test, so use hydrochloric or nitric acid.
 
 The precipitates form by simple ion pairing, for example Ag⁺(aq) + Br⁻(aq) → AgBr(s) and Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s). The carbonate reaction is CO₃²⁻ + 2H⁺ → CO₂ + H₂O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-identifying-products-of-reactions--06-id-carbonate-test.webp" width="900" height="890" alt="A tube of solid carbonate and acid fizzes, and a delivery tube carries CO2 into limewater, which turns milky. Ionic equation: CO3 2- + 2H+ gives CO2 + H2O." loading="lazy">
+  <figcaption>Acid releases CO2 from a carbonate, and the gas turns limewater milky.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--05-halide-sulfate.webp" width="900" height="840" alt="Sample is acidified with dilute nitric acid, then silver nitrate gives a white, cream or yellow precipitate for chloride, bromide, iodide. Barium nitrate gives a white precipitate for sulfate." loading="lazy">
+  <figcaption>Acidify first, then silver nitrate (halides) or barium nitrate (sulfate).</figcaption>
+</figure>
+
 
 ## Identifying species from results (C4.2d)
 
@@ -163,6 +208,12 @@ Solid Z dissolves in water to give a colourless solution. Results:
 **Step 1.** A white precipitate that dissolves in excess sodium hydroxide shows zinc ions, Zn²⁺. (Calcium would also be white, but it would not dissolve, and it would give an orange-red flame.)
 **Step 2.** A yellow precipitate with acidified silver nitrate shows iodide ions, I⁻.
 **Step 3.** Zn²⁺ needs two I⁻ to balance the charges. **Z is zinc iodide, ZnI₂.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-identifying-products-of-reactions--07-id-salt-z.webp" width="900" height="850" alt="Flame test shows none of the five colours; sodium hydroxide gives a white precipitate dissolving in excess (Zn2+); silver nitrate gives yellow (I-). Zn2+ needs 2 I-, so Z is ZnI2." loading="lazy">
+  <figcaption>Three tests combine to give Zn2+ and I-, so Z is ZnI2.</figcaption>
+</figure>
+
 
 ## Instrumental methods (C4.2f)
 
@@ -211,6 +262,17 @@ An unknown liquid gives the chart below, shown as bar heights. Simplified refere
 **Step 4.** Every peak and relative height matches propanone. **The unknown is propanone.**
 
 Check your Mr from the formula: propanone, C₃H₆O, is (3 × 12) + (6 × 1) + 16 = 58.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-identifying-products-of-reactions--01-ms-anatomy.webp" width="900" height="890" alt="Bar chart: m/z 15 (25), 43 (100), 58 (60). The tallest peak at 43 is the base peak, set to 100. The highest m/z peak, 58, is the molecular ion, so Mr = 58, matching C3H6O. A bar chart with m/z on the horizontal axis and relative abundance on the vertical axis." loading="lazy">
+  <figcaption>Label the base peak, molecular ion and fragment peaks on a mass spectrum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-identifying-products-of-reactions--02-ms-match.webp" width="900" height="1052" alt="The unknown has Mr 58 with peaks at 15, 43 and 58. Ethanol (Mr 46) and butane (no 15 peak, 58 only 10) are ruled out; propanone matches every peak and height. Four small bar charts stacked." loading="lazy">
+  <figcaption>Compare Mr first, then the pattern of peaks, to match an unknown to a reference.</figcaption>
+</figure>
+
 
 ## Common errors
 

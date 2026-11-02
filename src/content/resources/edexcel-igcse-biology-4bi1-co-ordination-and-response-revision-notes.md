@@ -65,6 +65,22 @@ Even light or darkness → auxin spread evenly → stem grows straight.
 
 **Plant vs animal responses:** plants respond by **growth**, which is slow and usually permanent; animals respond with muscles and glands, which is fast and reversible. Both still follow stimulus → receptor → effector. In a stem, the tip detects the light and the elongating cells further down carry out the response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--13-tropisms.webp" width="900" height="1060" alt="Light from one side: shoot grows towards light (positive phototropism), root away (negative). Seedling on its side: shoot grows up (negative geotropism), root down (positive)." loading="lazy">
+  <figcaption>Shoots and roots respond oppositely to light and gravity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--02-seedling-bend-rate.webp" width="900" height="990" alt="A seedling lit from the left has auxin on the shaded right side, so it bends 28 degrees towards the light. Rate is angle divided by time: 28 ÷ 8 = 3.5 degrees per hour." loading="lazy">
+  <figcaption>The lesson bending example drawn with the 28° angle and the rate calculation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
+
 ## Nervous and hormonal systems (2.86–2.89)
 
 | | Nervous | Hormonal |
@@ -80,6 +96,12 @@ Even light or darkness → auxin spread evenly → stem grows straight.
 - Neurones: sensory (in), relay (within CNS), motor (out).
 
 **Synapse in four steps:** impulse arrives → neurotransmitter released → diffuses across gap → binds to receptors on next neurone, starting a new impulse. One-way only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--03-nervous-vs-hormonal.webp" width="900" height="1080" alt="A nervous route (CNS to muscle by neurones) is very fast; a hormonal route (gland, blood, target organ) is slower. A sketch graph shows the nervous effect peaking quickly and ending soon, the hormonal effect rising later and lasting longer." loading="lazy">
+  <figcaption>Nervous control is very fast and short; hormonal control is slower and longer lasting.</figcaption>
+</figure>
+
 
 ## Reflex arc (2.90)
 
@@ -117,6 +139,27 @@ Fast because the route is short, has few synapses and bypasses conscious thought
 | Bright | Contracts | Relaxes | Constricts |
 | Dim | Relaxes | Contracts | Dilates |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--10-eye-structure.webp" width="900" height="1060" alt="Section through the eye with 11 numbered parts: cornea, iris, pupil, lens, suspensory ligaments, ciliary muscle, sclera, retina, fovea, optic nerve and blind spot." loading="lazy">
+  <figcaption>Numbered parts of the eye from the lesson table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--11-eye-focusing.webp" width="900" height="1170" alt="Distant object: ciliary muscle relaxes, ligaments pulled tight, lens thinner, light bent less. Near object: ciliary muscle contracts, ligaments slacken, lens fatter, light bent more. Rays meet on the retina in both." loading="lazy">
+  <figcaption>The lens changes shape so that near and distant objects focus on the retina.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--01-stimulus-receptor-effector.webp" width="900" height="890" alt="Two chains: heat from a hot object, temperature receptors in finger skin, biceps muscle, hand pulled away; bright light, light receptors in the retina, iris muscles, pupil smaller. A note says homeostasis keeps the internal environment constant." loading="lazy">
+  <figcaption>Stimulus, receptor, effector and response for a finger and an eye.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--03-pupil-percentage-change.webp" width="900" height="960" alt="Pupil drawn to scale at 7.2 mm in dim light and 2.7 mm in bright light. Change = -4.5 mm; -4.5 ÷ 7.2 × 100 = -62.5%." loading="lazy">
+  <figcaption>Pupil diameters drawn to scale with the percentage-change working.</figcaption>
+</figure>
+
+
 ## Skin and temperature (2.93)
 
 | Too hot | Too cold |
@@ -124,6 +167,12 @@ Fast because the route is short, has few synapses and bypasses conscious thought
 | More sweat; evaporation removes heat | Less sweat |
 | Vasodilation: arterioles to skin widen | Vasoconstriction: arterioles to skin narrow |
 | More blood near surface, more heat radiated | Less blood near surface, less heat lost |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--12-skin-temperature.webp" width="900" height="860" alt="Too hot: more sweat evaporates and the arterioles widen so more blood flows near the surface and more heat is lost. Too cold: less sweat and arterioles narrow so less heat is lost. Vessels do not move; arterioles change width." loading="lazy">
+  <figcaption>Sweating and the width of skin arterioles control heat loss.</figcaption>
+</figure>
+
 
 ## Hormones (2.94, 2.95B)
 
@@ -139,6 +188,17 @@ Fast because the route is short, has few synapses and bypasses conscious thought
 | LH (Paper 2 only) | Pituitary | Triggers ovulation |
 
 The menstrual cycle itself is in Topic 3: see the [reproduction and inheritance revision notes](/resources/edexcel-igcse-biology-reproduction-inheritance-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--14-hormone-sources.webp" width="900" height="770" alt="Body outline showing glands: pituitary (ADH, FSH, LH; Paper 2 only), adrenal glands (adrenaline), pancreas (insulin), ovaries (oestrogen, progesterone), testes (testosterone)." loading="lazy">
+  <figcaption>Which gland makes each hormone named in the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--04-insulin-lowers-glucose.webp" width="900" height="1065" alt="High blood glucose makes the pancreas release insulin, which makes the liver and muscles convert glucose to glycogen and cells take up glucose, so blood glucose falls. Glycogen (the store) is not glucagon." loading="lazy">
+  <figcaption>Insulin lowers blood glucose by turning glucose into glycogen; the lesson does not teach glucagon.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

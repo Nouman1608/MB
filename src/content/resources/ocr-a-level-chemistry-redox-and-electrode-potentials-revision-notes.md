@@ -39,6 +39,12 @@ Use the [OCR chemistry hub](/boards/ocr/a-level/chemistry/) for every H432 topic
 
 Memory hook: the agent is named for what it does to the other species, not what happens to itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--02-hydrogen-electrode.webp" width="900" height="1130" alt="A platinum electrode in 1.00 mol per dm3 H+ with hydrogen gas bubbled over it is the standard hydrogen electrode, defined as 0.00 V. Joined to a zinc half-cell by a salt bridge it reads 0.76 V with zinc negative, so E° for Zn2+/Zn is -0.76 V. Standard conditions are 298 K, 100 kPa (101 kPa in the Cambridge syllabus) and 1.00 mol per dm3." loading="lazy">
+  <figcaption>The hydrogen electrode is defined as 0.00 V, so every other half-cell potential is read against it under standard conditions.</figcaption>
+</figure>
+
+
 ## Building equations (5.2.3(b))
 
 **Method in steps: half-equations (acid)**
@@ -78,6 +84,12 @@ Equations to know how to use:
 
 - MnO₄⁻ + 8H⁺ + 5Fe²⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O
 - I₂ + 2S₂O₃²⁻ → 2I⁻ + S₄O₆²⁻
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
 
 ## Titration calculations (5.2.3(e))
 
@@ -126,6 +138,17 @@ Concentration rule: raising the concentration of a species on the left of a half
 - Lithium-based cells: benefits weighed against toxicity and fire risk.
 - Fuel cell: the fuel is oxidised at the negative electrode; oxygen is reduced at the positive electrode. The cell runs while fuel and oxygen are supplied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Define a reducing agent in terms of electrons.
@@ -156,6 +179,12 @@ Concentration rule: raising the concentration of a species on the left of a half
 11. Neither species is a solid that conducts; inert platinum transfers electrons between the ions and the circuit.
 12. High activation energy (slow rate), or non-standard concentrations change the electrode potentials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Naming the element ("manganese") instead of the agent (MnO₄⁻ or "manganate(VII) ions").
@@ -167,6 +196,12 @@ Concentration rule: raising the concentration of a species on the left of a half
 - Giving a cell potential with a negative sign for the positive electrode, or omitting "V".
 - Saying a reaction "will happen" because E⦵cell is positive, with no mention of rate or concentration.
 - Using a metal electrode (such as iron) for a half-cell of two iron ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -59,6 +59,12 @@ unemployment rate (%) = unemployed / labour force x 100
 
 Example (Country Y, illustrative): output rises from 640 to 672. Growth = 32 / 640 x 100 = 5.0%. If 600 of a labour force of 8,000 are unemployed, the rate is 600 / 8,000 x 100 = 7.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--01-micro-v-macro-measures.webp" width="900" height="960" alt="Two panels. Micro: the price of mangoes at one stall. Macro: real output rising from 800 to 832 is growth of 4.0%, and 1,200 unemployed out of a labour force of 15,000 is 8.0%. The decision makers differ: households, workers and firms against government and central bank." loading="lazy">
+  <figcaption>Micro covers single markets; macro covers whole-economy measures such as growth and unemployment.</figcaption>
+</figure>
+
+
 ### Decision makers at a glance
 
 | Decision maker | Level | A typical decision |
@@ -94,6 +100,12 @@ Classify each point as micro or macro: the wage of nurses in one town (micro); t
 - At 60: shortage of 60. Only 50 are traded (the smaller quantity).
 - At 100: surplus of 60. Only 50 are traded.
 - Price change from 60 to 80 is (80 - 60) / 60 x 100 = 33.3%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--05-mango-market-equilibrium.webp" width="900" height="960" alt="Demand and supply lines for mangoes cross at price 4 and 60 kg. At price 2 there is a shortage of 70 and 20 kg trades; at price 6 a surplus of 70 and 30 kg trades. Revenue is 40, 240 and 180." loading="lazy">
+  <figcaption>Only the smaller of quantity demanded and supplied is traded out of equilibrium.</figcaption>
+</figure>
+
 
 ### Method: adjustment to equilibrium
 
@@ -142,6 +154,12 @@ A small workshop needs 100 units a day. Method 1 costs 5w + 20 (w is the daily w
 
 Higher wages push firms towards capital-intensive methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--06-how-to-produce-cost.webp" width="900" height="960" alt="Cost lines for method A (8w + 30) and method B (3w + 200) cross at wage 34 and cost 302. Hand harvesting is cheaper below 34, the machine above." loading="lazy">
+  <figcaption>The answer to &quot;how to produce&quot; depends on the relative prices of labour and capital.</figcaption>
+</figure>
+
+
 ## The three jobs of the price mechanism
 
 | Job | What it does | Example chain |
@@ -149,6 +167,12 @@ Higher wages push firms towards capital-intensive methods.
 | Signalling | Tells producers what buyers want | Price of a product rises, so producers see more demand |
 | Incentive | Rewards producers and changes buyers' behaviour | Higher profit encourages more supply; higher price discourages some buying |
 | Rationing | Shares scarce goods among buyers | Price rises until only those willing and able to pay can buy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
 
 ## Evaluating the price mechanism
 
@@ -201,6 +225,17 @@ For "explain" answers, use a chain: cause, effect on buyers or sellers, effect o
 9. Signalling, incentive and rationing.
 10. w = 30.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--02-for-whom-income-share.webp" width="900" height="790" alt="Bars to one scale show Household H (income 600) and Household L (income 150). Buying 5 kg of mangoes costs 20, which is 3.3% of H's income and 13.3% of L's." loading="lazy">
+  <figcaption>The price rations output by ability to pay: the same 20 is four times the share of income for L.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+
 ## Building an explain answer
 
 A reliable order for questions on markets:
@@ -228,3 +263,9 @@ Use the same order for "what, how, for whom" answers: state the question, say wh
 ## Official syllabus
 
 The Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), sections 2.1 and 2.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+

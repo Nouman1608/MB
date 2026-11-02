@@ -51,6 +51,12 @@ Planning, co-ordination, communication, control, motivation and responsibility. 
 name the purpose and link it to a consequence: "co-ordination -- the purchases budget is based on
 planned production, so materials arrive when the factory needs them".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--07-incremental-vs-zbb.webp" width="900" height="920" alt="Incremental budgeting starts from last year's 20,000 pounds and adds 3 percent to reach 20,600. Zero-based budgeting starts from nothing and includes only justified items: website 6,000 and trade show 8,000, rejecting a 4,000 old brochure, for 14,000." loading="lazy">
+  <figcaption>Incremental budgets build on last year; zero-based budgets must justify every item from nil.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Budget or figure | Formula |
@@ -71,6 +77,12 @@ The first five rows are for the functional budgets, assessed at A-level. The las
 
 Sales, then production, then materials usage, purchases and labour, then the cash budget, and finally
 the budgeted income statement and statement of financial position, which draw on all the others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--01-budget-order.webp" width="900" height="1060" alt="A flow chart starts with the principal budget factor, usually sales demand. The sales budget feeds the production budget, which feeds the purchases and labour budgets. These feed the cash budget, then the budgeted income statement and financial position, which together form the master budget. Edexcel also adds receivables, payables and capital budgets." loading="lazy">
+  <figcaption>Budgets are prepared in a fixed order, each feeding the next, ending in the master budget.</figcaption>
+</figure>
+
 
 ## Method in steps: functional budgets (Assessed at A-level)
 
@@ -113,6 +125,17 @@ Closing balance             x        (x)        x
 
 Each closing balance is the next month's opening balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--03-receipts-timing.webp" width="900" height="700" alt="Three boxes show May, June and July sales. Arrows lead to a July receipts bar of 32,400 pounds made up of 9,000 from May credit sales, 14,400 from June credit sales and 9,000 of July cash sales." loading="lazy">
+  <figcaption>Cash is budgeted in the month it arrives, not the month of the sale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--04-cash-budget-balance.webp" width="900" height="910" alt="Bars show the forecast closing bank balance: 2,400 pounds in July, an overdraft of 7,900 in August and 3,500 in September. Cash in and out are listed for each month. A note says the August van purchase causes the overdraft and depreciation never appears in a cash budget." loading="lazy">
+  <figcaption>The cash budget warns months ahead that an overdraft will be needed.</figcaption>
+</figure>
+
+
 ## Method in steps: budgeted statements (International AS)
 
 1. Find revenue, purchases and expenses for the period, adjusting cash figures for accruals and
@@ -127,6 +150,12 @@ Each closing balance is the next month's opening balance.
 budgeted income statement charges 7,800 - 650 = **7,150**; the 650 is an other receivable; the bank
 figure uses the full 7,800. Equipment cost 25,000 with accumulated depreciation 9,000 at the start;
 20% reducing balance gives depreciation of 20% x 16,000 = **3,200** and a carrying amount of **12,800**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--05-profit-not-cash.webp" width="900" height="910" alt="A waterfall starts at budgeted profit of 17,700 pounds, adds back 2,000 depreciation, then subtracts the van (15,000), drawings (7,500) and higher receivables (7,500) and adds higher payables (3,600). The bank falls by 6,700, from 3,200 to a 3,500 overdraft." loading="lazy">
+  <figcaption>A profitable budget can still leave the bank overdrawn because profit is not cash.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -165,6 +194,12 @@ each difference favourable or adverse, investigate and act. Detailed variances b
 higher cost reduces profit. Budgeted sales were 31,000 and actual 32,400: **1,400 favourable**. The
 budget holder for materials should be asked why: a supplier price rise, more wastage, or simply more
 output to meet the extra sales. The right action depends on the cause, so investigate before acting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
+  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -66,6 +66,17 @@ Franchisor receives in year 1 = £15,000 + £10,800 = £25,800
 
 The franchisor gains £25,800 without paying for the premises, but it must still check that the outlet meets its standards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--05-franchise-income.webp" width="900" height="760" alt="An outlet has sales of 180,000 pounds. The franchisor receives a 6 percent share, 10,800 pounds, plus a 15,000 pound initial fee, a year 1 total of 25,800 pounds." loading="lazy">
+  <figcaption>The franchisor gains £25,800 in year 1 without paying for the premises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ### Expanding through e-commerce
 
 The business sells online, usually as well as through its shops.
@@ -87,9 +98,21 @@ These are external growth. In a merger, two businesses agree to join and become 
 - Advantage: growth is fast, and the business gains the other firm's customers, brands, staff and premises at once.
 - Disadvantage: it can be expensive, the two cultures may clash, some jobs may be lost, and the expected benefits may not appear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--03-merger-or-takeover.webp" width="900" height="860" alt="In a merger two firms agree to join as one. In a takeover one firm buys enough of another to control it, even if the target does not want it." loading="lazy">
+  <figcaption>Merger means both sides agree; takeover means one side gains control.</figcaption>
+</figure>
+
+
 ### Choosing a method
 
 Compare the methods against the business in the question: how much money it has, how quickly it wants to grow and how much control the owners want. A small business with little capital may prefer franchising. A business with strong cash reserves may open new stores. A business that wants a rival's customers quickly may consider a takeover.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
 
 ## Economies of scale
 
@@ -114,6 +137,12 @@ Oven cost per loaf at 8,000 loaves = £900 / 8,000 = £0.1125
 
 The same oven adds only about 11p to each loaf at the higher output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--06-two-economies-of-scale.webp" width="900" height="900" alt="Bulk flour costs 0.72 pounds a kilogram at 2,000 kg against 0.90 at 500 kg, a 20 percent lower price. A 900 pound a week oven costs 0.45 pounds a loaf at 2,000 loaves but about 11 pence at 8,000." loading="lazy">
+  <figcaption>Purchasing economies cut the price paid per unit; technical economies spread equipment cost over more units.</figcaption>
+</figure>
+
+
 ## Diseconomies of scale
 
 A diseconomy of scale is a rise in average unit cost caused by being too big. The specification says that with growth businesses increase the risk of diseconomies of scale occurring because of:
@@ -123,6 +152,12 @@ A diseconomy of scale is a rise in average unit cost caused by being too big. Th
 - **reduced staff motivation**: workers in a large organisation may feel less valued or less connected to its aims, so they work less well or leave.
 
 These are risks, not certainties. A well-managed large business can avoid them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--04-diseconomies-causes.webp" width="900" height="975" alt="Three cards: poor communication (messages across more layers are missed), coordination issues (a missed handover between departments) and reduced motivation (faces from smiling to frowning as the firm grows). Result: average unit cost rises. These are risks, not certainties." loading="lazy">
+  <figcaption>Poor communication, coordination issues and reduced motivation can push average unit cost up.</figcaption>
+</figure>
+
 
 ## Average unit cost
 
@@ -165,6 +200,17 @@ Second worked example, with a larger scale effect. Kilnwood Furniture makes chai
 The average unit cost falls to £48 at 1,500 chairs, then climbs. Between 1,500 and 2,400 chairs it rises by £8, which is 16.7% (8 / 48 x 100). If the manager also reports late deliveries and staff turnover at the larger output, those would support communication, coordination and motivation as explanations.
 
 When you interpret, say what happened, give figures, and link it to a cause that fits the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--07-bakery-unit-cost.webp" width="900" height="780" alt="Average unit cost falls from 1.70 pounds at 2,000 loaves to a low of 1.10 pounds at 8,000, then rises to 1.20 pounds at 12,000. Total cost still rises at every step." loading="lazy">
+  <figcaption>Unit cost falls to 8,000 loaves (economies of scale) then rises (diseconomies), while total cost keeps rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--05-kilnwood-unit-cost.webp" width="900" height="800" alt="Bars of average unit cost: 52 pounds at 1,000 chairs, 48 at 1,500 (lowest), 52 at 2,000 and 56 at 2,400. From 1,500 to 2,400 it rises 8 pounds, 16.7 percent." loading="lazy">
+  <figcaption>Unit cost falls to £48 at 1,500 chairs then rises 16.7% by 2,400.</figcaption>
+</figure>
+
 
 ## Putting it together in an answer
 

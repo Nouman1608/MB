@@ -64,6 +64,12 @@ Sole traders and partnerships sit inside the private sector.
 
 **Must-know distinction.** Unlimited liability means personal assets are at risk if the business cannot pay its debts. Shared decisions and shared profit are the usual points to set against more capital and more skills.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--01-g15-unlimited-liability.webp" width="900" height="900" alt="Debts of 80,000 against assets of 52,000 leave a shortfall of 28,000. Because a sole trader has unlimited liability, creditors can claim the owner's personal assets for that 28,000. Partners are personally responsible between them." loading="lazy">
+  <figcaption>Odalis Vandeleur's 28,000 shortfall falls on her personal assets.</figcaption>
+</figure>
+
+
 ## Stakeholders (1.1 b)
 
 Stakeholder: a person or group with an interest in the business.
@@ -80,6 +86,17 @@ Stakeholder: a person or group with an interest in the business.
 | Community | Will jobs and local activity continue? | Growth or decline signs |
 
 **Method in three steps.** (1) Name the stakeholder. (2) Name the item in the statements. (3) State the decision it helps with. A list of names alone does not show the connection the specification asks for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--02-g15-stakeholder-figures.webp" width="900" height="960" alt="Three panels use Brandvold Print Studio. The bank compares profit 24,450 with the 6,000 yearly repayment (4.075 times). A supplier compares receivables plus bank, 15,400, with the 9,600 owed. The tax authority starts from the 24,450 profit." loading="lazy">
+  <figcaption>One set of figures answers a different question for each stakeholder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--01-acc14-stakeholders.webp" width="900" height="1090" alt="Eight stakeholder groups in two lists. Internal (employees, management, owners/shareholders) can ask for any figure; external (customers, suppliers, government, lenders, local community) see published statements. Each row gives one interest." loading="lazy">
+  <figcaption>Three internal and five external stakeholders, each with one distinct interest.</figcaption>
+</figure>
+
 
 ## The six concepts (1.2 a)
 
@@ -124,6 +141,27 @@ Stakeholder: a person or group with an interest in the business.
 **Pooled capital.** Two partners put in 25,000 and 15,000. Capital is 25,000 + 15,000 = **40,000**. If profit of 18,000 is shared equally, each partner receives 18,000 ÷ 2 = **9,000**, whereas a sole trader would keep all 18,000.
 
 **Stakeholder link.** A bank sees profit of 24,000 and a loan repayment of 6,000 a year. 24,000 ÷ 6,000 = **4 times**, so repayment looks affordable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--03-g15-consistency-vehicle.webp" width="900" height="820" alt="Year 2 depreciation on a 15,000 vehicle at 20% is 3,000 on straight line but 2,400 on reducing balance from a 12,000 book value. Switching raises year 2 profit by 600 only because of the method." loading="lazy">
+  <figcaption>Switching depreciation method moves year 2 profit by 600 with no change in trading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
+  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--05-g15-accruals-insurance.webp" width="900" height="700" alt="Twelve monthly boxes of 200 show insurance of 2,400 paid on 1 October. Only October to December, 600, is this year's expense; the other nine months, 1,800, are a prepayment." loading="lazy">
+  <figcaption>Only 600 of the 2,400 insurance is this year's expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--06-g15-business-entity-drawings.webp" width="900" height="880" alt="Sigrun takes 14,000 cash, 300 of goods and pays a 410 household bill from the business. These are drawings of 14,710, not expenses, so profit stays 24,450 and closing capital is 41,000 + 24,450 - 14,710 = 50,740." loading="lazy">
+  <figcaption>Owner's personal spending is drawings, which reduce capital but not profit.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

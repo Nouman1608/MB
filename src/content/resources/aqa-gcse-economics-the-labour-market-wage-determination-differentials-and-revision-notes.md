@@ -42,6 +42,12 @@ These notes condense **section 3.1.5.4, The labour market**, in AQA's GCSE Econo
 - It sets incomes for most households, which they then spend in other markets.
 - It works through demand and supply, but wages can be slow to adjust, and workers cannot always move between areas or jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## Demand and supply of labour
 
 | | Demand for labour | Supply of labour |
@@ -52,6 +58,22 @@ These notes condense **section 3.1.5.4, The labour market**, in AQA's GCSE Econo
 | Shifts left if | Product demand falls, productivity falls, machines become cheaper | Fewer trained, longer training, other jobs pay more, worse conditions |
 
 Remember the exam rule: a change in the **wage** moves you along a curve; a change in anything else shifts the curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--04-wage-equilibrium-region-c.webp" width="900" height="960" alt="Wage against number of care workers. Demand Qd = 240 - 12W and supply Qs = 12W - 48 cross at 12 pounds an hour and 96 workers. At 10 pounds there is a shortage of 48 and at 14 pounds a surplus of 48." loading="lazy">
+  <figcaption>The wage settles where the workers wanted equal the workers willing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--05-wage-shifts-region-c.webp" width="900" height="1290" alt="Top: demand rises by 24 workers at every wage, so the wage rises from 12 to 13 pounds and employment from 96 to 108. Bottom: supply rises by 24, so the wage falls to 11 pounds while employment also rises to 108." loading="lazy">
+  <figcaption>A rise in demand pushes the wage up; a rise in supply pushes it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
 
 ## Method: finding and changing a wage
 
@@ -102,6 +124,17 @@ Example: Job P pays £15 an hour and Job R pays £24.
 
 The gap is the same £9 each time; the base changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--06-wage-differential.webp" width="900" height="940" alt="Two supply and demand graphs. Welders: Qd = 120 - 4W, Qs = 4W - 40, wage 20 pounds, 40 workers. Helpers: Qd = 300 - 10W, Qs = 20W, wage 10 pounds, 200 workers. The 10 pound gap is 100 percent more than helpers earn." loading="lazy">
+  <figcaption>Scarce skills with strong demand earn a higher wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--01-trainee-vs-experienced-pay.webp" width="900" height="920" alt="A trainee electrician earns 9.50 pounds an hour and an experienced one 19 pounds, a gap of 9.50. The experienced worker earns 100% more than the trainee, but the trainee earns 50% less than the experienced worker." loading="lazy">
+  <figcaption>The same gap is 100% more or 50% less depending on the base.</figcaption>
+</figure>
+
+
 ## Gross and net pay
 
 | Item | Rule |
@@ -131,6 +164,27 @@ The gap is the same £9 each time; the base changes.
 - Deductions are 5,040 ÷ 24,000 = 21% of gross.
 
 **Total income** means adding every source, using net amounts for work income: net pay + second job (net) + interest + other payments received.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--07-gross-to-net-weekly.webp" width="900" height="950" alt="Waterfall: basic pay 420 plus overtime 90 gives gross pay 510. Income tax 80, National Insurance 40 and pension 25.50 are deducted (145.50, 28.5 percent of gross) leaving net pay 364.50." loading="lazy">
+  <figcaption>Net pay is what remains after income tax, National Insurance and pension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--02-salary-gross-to-net-monthly.webp" width="900" height="900" alt="A 36,000 pound salary loses 4,800 tax, 2,160 National Insurance and 1,800 pension, leaving 27,240 net a year, or 2,270 a month from 3,000 gross. Adding 340 and 25 of other net income gives 2,635 a month." loading="lazy">
+  <figcaption>Annual gross to net to monthly, then adding net amounts for total income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and--03-pay-rise-net-share.webp" width="900" height="790" alt="A 4% rise adds 1,440 to gross pay. Tax takes 288, National Insurance 86.40 and pension 72, so 993.60 is kept, a 3.6% rise in net pay." loading="lazy">
+  <figcaption>The fixed allowance means net pay rises by less than gross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--07-gross-to-net-pay.webp" width="900" height="950" alt="Gross pay of 2,400 pounds loses 280 income tax, 190 national insurance and 120 pension, leaving net pay of 1,810 pounds." loading="lazy">
+  <figcaption>Net pay is gross pay minus income tax, national insurance and pension contributions.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

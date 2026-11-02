@@ -53,6 +53,12 @@ In one year (3.15 × 10⁷ s): 0.060 K.
 
 A tiny imbalance therefore adds up to a measurable warming over decades.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--01-power-balance.webp" width="900" height="1060" alt="Three planets with power-in and power-out arrows show temperature rising, steady (equilibrium) or falling. A 0.8 W per square metre surplus into a 100 m ocean layer warms it by 0.060 K a year." loading="lazy">
+  <figcaption>A temperature changes only when power in and power out differ.</figcaption>
+</figure>
+
+
 ## Emissivity
 
 A black surface is an ideal emitter: at temperature T it radiates σT⁴ for each square metre. Real surfaces radiate less. Emissivity is the ratio of the power per unit area a surface radiates to the power per unit area an ideal black surface radiates at the same temperature:
@@ -66,6 +72,12 @@ It is a pure ratio, so it has no unit, and its value cannot exceed 1. Rearranged
 P/A = 1240 / 2.0 = 620 W m⁻².
 σT⁴ = 5.67 × 10⁻⁸ × 330⁴ = 672 W m⁻².
 e = 620 / 672 = **0.92**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--04-emissivity.webp" width="900" height="1070" alt="Two bars at 330 K: an ideal black surface radiates 672 W per square metre and the rock face 620. Emissivity is the ratio, 0.92, with no unit and never above 1." loading="lazy">
+  <figcaption>Emissivity compares what a surface radiates with an ideal black surface at the same temperature.</figcaption>
+</figure>
+
 
 ## Albedo
 
@@ -82,6 +94,12 @@ Earth's albedo is not fixed. It changes through the day and with the season as c
 α = 5.1 × 10¹⁶ / 1.7 × 10¹⁷ = **0.30**.
 Absorbed = 0.70 × 1.7 × 10¹⁷ = **1.2 × 10¹⁷ W**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--03-albedo.webp" width="900" height="990" alt="A bar splits 1.7e17 W of incident sunlight into 30 percent scattered (albedo 0.30) and 70 percent absorbed, 1.2e17 W. Sketches show snow and cloud scatter strongly while ocean and forest scatter little." loading="lazy">
+  <figcaption>Albedo is the fraction of incident power scattered back; 1 - alpha is absorbed.</figcaption>
+</figure>
+
+
 ## The solar constant and the factor of one quarter
 
 The solar constant S is the intensity of solar radiation at the top of a planet's atmosphere, measured on a surface facing the Sun, at the planet's distance from the star. For Earth S is about 1360 W m⁻².
@@ -96,6 +114,12 @@ So for Earth the mean is 1361/4 = 340 W m⁻² (using S = 1361 W m⁻²). Includ
 
 P = S × πR² = 1361 × π × (6.37 × 10⁶)² = **1.73 × 10¹⁷ W**.
 Check: dividing by 4πR² = 5.10 × 10¹⁴ m² gives 340 W m⁻².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--02-factor-of-four.webp" width="900" height="1150" alt="Parallel sunlight hits a planet; only the projected disc of area pi R squared intercepts it, but the whole 4 pi R squared surface radiates. So the mean intensity is S/4, 340 W per square metre for S = 1361." loading="lazy">
+  <figcaption>The disc intercepts the sunlight but the whole sphere radiates, giving S/4.</figcaption>
+</figure>
+
 
 ## Equilibrium temperature with no atmosphere
 
@@ -114,6 +138,12 @@ T = **287 K** (about 14 °C).
 **Worked example 5.** Earth, S = 1361 W m⁻², α = 0.30. With e = 1 the absorbed intensity is 238 W m⁻² and T = **255 K**, about −18 °C. With e = 0.95 the same absorbed intensity gives T = 258 K, because a less efficient emitter must be hotter to lose the same power.
 
 Earth's actual mean surface temperature is nearer 288 K. The 33 K gap is the greenhouse effect at work: the greenhouse effect helps maintain life by keeping the surface warm enough for liquid water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--05-no-atmosphere-temperature.webp" width="900" height="1080" alt="On a temperature scale, Earth with no atmosphere settles at 255 K (258 K if e = 0.95), below the 273 K freezing point; the real mean is 288 K, 33 K higher. That gap is the greenhouse effect." loading="lazy">
+  <figcaption>Without greenhouse gases Earth would sit near 255 K, 33 K below its actual mean.</figcaption>
+</figure>
+
 
 ## The main greenhouse gases
 
@@ -138,9 +168,26 @@ The molecule is left in a higher level. It later returns to a lower level and em
 
 **Resonance model.** Think of the bonds in a molecule as tiny oscillators with natural frequencies. When the electromagnetic wave has the same frequency as a natural frequency, the molecule is driven at resonance. It absorbs energy efficiently, oscillates with a large amplitude, and radiates in all directions. Both models give the same result: infrared at particular frequencies is absorbed strongly, other radiation is not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--06-sun-vs-earth-spectrum.webp" width="900" height="1040" alt="Scaled Planck curves on a log wavelength axis: the Sun (5800 K) peaks at 0.50 micrometres in the visible and Earth (288 K) at 10 micrometres in the infrared. Sunlight mostly passes through the atmosphere; much of the infrared is absorbed." loading="lazy">
+  <figcaption>Hot Sun radiates visible light, cool Earth radiates infrared (Wien law).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--07-absorb-reemit.webp" width="900" height="1080" alt="A CO2 molecule absorbs infrared from the surface and re-emits it in all directions, about half back down. An energy-level sketch shows absorption when hf equals the gap; a 15 micrometre photon has 1.33e-20 J." loading="lazy">
+  <figcaption>Greenhouse gases absorb infrared and re-emit it in all directions, not just reflect it.</figcaption>
+</figure>
+
+
 ## The enhanced greenhouse effect
 
 The natural greenhouse effect exists without human action. The enhanced greenhouse effect is the extra warming caused by human activities that raise greenhouse gas concentrations. More molecules absorb more of the outgoing infrared, more is re-emitted downward, and the surface warms until the power escaping to space again matches the power absorbed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--09-enhanced-effect.webp" width="900" height="1140" alt="Surface temperature plotted against the absorbed fraction a from the layer model: 255 K at a = 0, 288 K at a = 0.78, 290 K at a = 0.82 (a 2.4 K rise) and 303 K at a = 1." loading="lazy">
+  <figcaption>More greenhouse gas raises a, and the surface warms until balance is restored.</figcaption>
+</figure>
+
 
 ## Energy balance with the atmosphere
 
@@ -166,6 +213,12 @@ Ts = **288 K**.
 TA = Ts / 2^(1/4) = **242 K**.
 
 Now raise a to 0.82 as the concentration of greenhouse gases grows: Ts = **290 K**, a rise of 2.4 K. That is the enhanced greenhouse effect in a model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--08-layer-model.webp" width="900" height="1080" alt="Space, a one-layer atmosphere and the surface with flows in W per square metre: 238 sunlight in, 390 surface infrared, 86 passing through, 152 emitted up and 152 down. Space: 86 + 152 = 238; surface: 238 + 152 = 390, giving 288 K and 242 K." loading="lazy">
+  <figcaption>Each layer balances: power in equals power out at space and at the surface.</figcaption>
+</figure>
+
 
 ## Common errors
 

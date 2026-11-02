@@ -72,6 +72,17 @@ Buyers and sellers trade 60 permits, so the cap holds at 240 tonnes. The price i
 - Large firms may hoard permits to block rivals, and pollution may concentrate in one locality.
 - Monitoring and enforcement are costly, and cheating weakens the scheme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--01-permit-trading.webp" width="900" height="1100" alt="Three factories each emit 120 tonnes under a cap of 240. Without trading each cuts 40 tonnes for a total cost of 3,600. With trading C cuts 100 (1,000), B cuts 20 (600) and A none, total 1,600. C sells 60 permits at 30 to A (40) and B (20). The saving is 2,000." loading="lazy">
+  <figcaption>Worked example: trading moves the cuts to the cheapest factory and saves 2,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--10-un147-permit-price-swings.webp" width="900" height="970" alt="A vertical permit supply at the 240 tonne cap meets demand D1 at a price of 30. Illustrative shifts give 50 or 10." loading="lazy">
+  <figcaption>The cap fixes quantity, so the permit price swings with demand.</figcaption>
+</figure>
+
+
 ## Property rights
 
 **What it is.** Many externalities arise because nobody owns the resource. Where a resource is open to all, each user ignores the cost their use imposes on others. Defining and enforcing property rights gives an owner an incentive to protect the resource, and lets those harmed bargain or claim compensation.
@@ -92,6 +103,17 @@ With open access, woodcutters keep entering while revenue per woodcutter exceeds
 **Other uses.** Patents and copyright create property rights over ideas, so firms can earn a return on research that rivals could otherwise copy.
 
 **Evaluation.** Rights are hard to define for air, oceans and wildlife that move. Enforcement and legal systems cost money. When the number of affected parties is large, bargaining costs can block agreement. Who receives the rights at the start affects fairness, as the owner gains the value. Rights over ideas can also create monopoly power and raise prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--02-open-access-woodcutters.webp" width="900" height="1230" alt="Average revenue per woodcutter falls from 60 to 40 and marginal revenue from 60 to 20 against a cost of 40. Open access ends with 6 woodcutters and net revenue zero; 3 woodcutters give the highest net revenue of 36." loading="lazy">
+  <figcaption>Open access lets 6 woodcutters in; the efficient number is 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--11-un147-patent-incentive.webp" width="900" height="890" alt="Without protection rivals copy an idea and the firm earns no return; with a patent or copyright only the owner sells and earns a return, at the cost of monopoly power and higher prices." loading="lazy">
+  <figcaption>Patents and copyright reward research but create monopoly power.</figcaption>
+</figure>
+
 
 ## Nationalisation and privatisation
 
@@ -118,6 +140,12 @@ Privatising a natural monopoly without changing market structure shifts 1,000 do
 
 **Evaluation.** Ownership matters less than competition. A private monopoly still has market power. A state firm may lack cost discipline, face political interference and have no incentive to innovate. Results depend on the starting efficiency of the firm and on how the sale is carried out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--03-privatise-natural-monopoly.webp" width="900" height="1040" alt="Demand P = 100 - Q, marginal cost 20, fixed cost 600. A private monopoly produces 40 at 60 with profit 1,000 and a lost-surplus triangle of 800. A state firm at P = MC produces 80 at 20 but loses 600." loading="lazy">
+  <figcaption>Worked example: privatising without competition cuts output from 80 to 40 and loses 800 of surplus.</figcaption>
+</figure>
+
+
 ## Provision of information
 
 Market failure arises when consumers lack information or misjudge it, for example underestimating the harm of a demerit good. Government can supply information through labels, warnings, campaigns and public data. If consumers act on it, the perceived benefit falls towards the true benefit. For a demerit good, the demand curve shifts left, reducing overconsumption.
@@ -132,6 +160,17 @@ Cost per unit of consumption avoided = 2,000,000 / 30,000 = 66.67
 A label costing 900,000 dollars that cuts sales by 12,000 units costs 75 dollars per unit avoided, so the campaign is more cost-effective on this measure.
 
 **Evaluation.** Information is cheap and keeps freedom of choice. But addicted or short-sighted consumers may ignore it, effects fade, and it cannot stop pollution that harms third parties.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--12-un147-info-cost-per-unit.webp" width="900" height="880" alt="A campaign costing 2,000,000 avoids 30,000 units (66.67 each); a label costing 900,000 avoids 12,000 (75 each)." loading="lazy">
+  <figcaption>Worked example: the campaign is cheaper per unit avoided.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
 
 ## Behavioural insights and nudge theory
 
@@ -150,6 +189,12 @@ Rise = 900 / 800 = 112.5%     Change = 45 percentage points
 If each member contributes 720 dollars a year (3% of 24,000 dollars), contributions rise by 900 x 720 = 648,000 dollars a year.
 
 **Evaluation.** Nudges are low cost and preserve choice. Yet effects may be small or temporary, may not suit large externalities such as heavy pollution, and critics see them as manipulation. A nudge works best where people want the outcome but fail to act.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--04-pension-default-nudge.webp" width="900" height="850" alt="Of 2,000 workers 800 (40 percent) join when they must opt in and 1,700 (85 percent) stay in under automatic enrolment: 900 more members, 45 percentage points, 112.5 percent more, worth 648,000 a year." loading="lazy">
+  <figcaption>Worked example: automatic enrolment lifts membership from 800 to 1,700.</figcaption>
+</figure>
+
 
 ## Government failure
 
@@ -170,6 +215,12 @@ Orders only 12: net benefit 1,008, loss = 192
 ```
 
 **Consequences.** Misallocated resources and lost welfare, higher costs for taxpayers, reduced incentives to innovate, black markets, and loss of trust in policy. Government failure does not mean doing nothing is better. Compare the size of the original market failure with the size of the likely policy error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-permits-property-rights--05-government-failure-wrong-cut.webp" width="900" height="870" alt="MAC 4q and MSB 120 - 2q meet at q = 20 with net benefit 1,200. Ordering 30 gives 900 (loss 300) and ordering 12 gives 1,008 (loss 192)." loading="lazy">
+  <figcaption>Worked example: a regulator that misjudges the cut loses welfare in either direction.</figcaption>
+</figure>
+
 
 ## Common errors
 

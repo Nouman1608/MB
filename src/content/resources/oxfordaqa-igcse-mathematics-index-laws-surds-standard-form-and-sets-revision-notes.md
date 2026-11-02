@@ -57,6 +57,22 @@ Reminder: 4a³ × 6a⁻⁷ = 24a⁻⁴ = 24/a⁴. The coefficients multiply (4 �
 
 **Fractional powers (Extension only).** Take the root first, then the power. Reminder: 32^(2/5): 32^(1/5) = 2, and 2² = 4. A negative fractional power is a reciprocal as well: 4^(−3/2) = 1/(4^(3/2)) = 1/8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--02-index-hops.webp" width="900" height="1258" alt="Number lines show the index of each letter as a running total. Multiplying adds the index and dividing subtracts it. For (4p^5q^2) x (3p^-6 q) / (6pq^4) the numbers give 2, p goes +5, -6, -1 to end at -2, and q goes +2, +1, -4 to end at -1, so the answer is 2p^-2 q^-1. For 12y^7 / 8y^3 the numbers give 3/2 and y goes +7 then -3 to reach 4." loading="lazy">
+  <figcaption>Each index is a running total: multiplying adds, dividing subtracts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+
 ## N7: Exact calculation
 
 **Fractions: method in steps**
@@ -105,6 +121,27 @@ Reminder for a two-term denominator: 8/(4 + √3) = 8(4 − √3)/13 = (32 − 8
 
 **Comparing sizes.** Compare the powers of 10 first. If the powers are equal, compare the A parts. For example, 8.1 × 10⁻³ is smaller than 2 × 10⁻², because −3 < −2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--08-i-standard-form-add.webp" width="900" height="780" alt="Bars in blocks of 10 to the 4 show 6.5 blocks plus 0.8 block (8 times 10 cubed) making 7.3 blocks, so 6.5 times 10 to the 4 plus 8 times 10 cubed = 7.3 times 10 to the 4." loading="lazy">
+  <figcaption>Rewrite both numbers with the same power of 10, then add the A values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--09-i-calculator-display.webp" width="900" height="760" alt="Two calculator screens. 3.6E9 becomes 3.6 times 10 to the 9, a big number, 3 600 000 000. 4.5E-3 becomes 4.5 times 10 to the minus 3, a small number, 0.0045." loading="lazy">
+  <figcaption>3.6E9 means 3.6 × 10⁹ and 4.5E-3 means 4.5 × 10⁻³; write the full form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--01-sf-multiply-divide.webp" width="900" height="1178" alt="Three worked examples of multiplying or dividing standard form numbers. The A parts and the powers of 10 are worked separately: 3.2 times 4 and 10 to the 5 times 10 to the minus 2 give 12.8 times 10 cubed, tidied to 1.28 times 10 to the 4. 7.2 divided by 1.8 and 10 to the 8 divided by 10 cubed give 4 times 10 to the 5, already tidy. 1.5 times 10 to the 11 divided by 3 times 10 to the 8 gives 0.5 times 10 cubed, tidied to 5 times 10 squared seconds." loading="lazy">
+  <figcaption>Work the numbers and the powers of 10 separately, then tidy so that 1 ≤ A &lt; 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--04-rationalise-single-surd.webp" width="900" height="880" alt="A square with side root 3 has area 3, so root 3 times root 3 is whole. Multiplying 6/root3 top and bottom by root 3 gives 6 root3 / 3 = 2 root 3, and 5/(2 root 5) becomes root 5 / 2. Bars on a common scale show each pair has the same length, about 3.46 and 1.12." loading="lazy">
+  <figcaption>Multiplying top and bottom by the surd changes the form, not the value.</figcaption>
+</figure>
+
+
 ## N9: Sets
 
 | Notation | Reading | How to find it |
@@ -127,6 +164,12 @@ Reminder for two sets: if 30 pupils study Spanish or French, 18 study Spanish an
 **Worked reminder (three sets).** In a group of 30, 12 take art, 10 take music, 7 take drama. 3 take art and music only, and 2 take all three. Nobody takes drama and music without art, and 4 take art and drama only. Then art only = 12 − 3 − 2 − 4 = 3, music only = 10 − 3 − 2 = 5, and drama only = 7 − 4 − 2 = 1. Inside the circles: 3 + 5 + 1 + 3 + 4 + 2 + 0 = 18, so 30 − 18 = 12 take none of them.
 
 **Describing regions.** (A ∪ B)′ is the outside region only. A′ ∩ B is "in B but not in A", which is the part of circle B outside the overlap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--10-i-venn-two-sets-listed.webp" width="900" height="840" alt="Venn diagram for integers 1 to 18: B (factors of 24) only 1, 2, 3, 6; A (multiples of 4) only 16; both 4, 8, 12; outside 5, 7, 9, 10, 11, 13, 14, 15, 17, 18. n(A union B) = 8 and n of the complement = 10." loading="lazy">
+  <figcaption>Every integer from 1 to 18 sits in exactly one region, so n(A ∪ B) = 4 + 7 − 3 = 8.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -160,6 +203,12 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
 11. 4.2 × 10⁶⁻⁽⁻²⁾ = **4.2 × 10⁸**
 12. (a) **{3, 5, 7}**. (b) A ∪ B = {1, 2, 3, 5, 7, 9}, so **6**. (c) **{4, 6, 8, 10}**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--03-fractional-root-first.webp" width="900" height="960" alt="Two Extension examples. For (16x^8)^(3/4) take the fourth root of 16 to get 2 and cube it to get 8; split eight factors of x into four groups of two and keep three groups to get x^6, so the answer is 8x^6. For x^(3/2)=125, raise both sides to the power 2/3: the cube root of 125 is 5 and squaring gives 25, so x=25." loading="lazy">
+  <figcaption>Take the root first, then the power, on every factor; use the reciprocal power to solve.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Multiplying the powers instead of adding them in aᵐ × aⁿ, or adding coefficients that should be multiplied.
@@ -172,6 +221,12 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
 - Copying a calculator display such as 2.4E-5 as the final answer instead of writing 2.4 × 10⁻⁵.
 - In Venn diagrams, filling the single-set regions before the overlap, so the totals do not add up.
 - Using A ∪ B when the question says "and" (that is A ∩ B), or the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--11-i-like-surds-tiles.webp" width="900" height="800" alt="Tiles of length root 3: three root 12 lengths make 6 tiles, root 75 is 5 tiles, together 11 tiles, so the sum is 11 root 3. A note shows root 2 plus root 3 is not root 5." loading="lazy">
+  <figcaption>3√12 + √75 = 6√3 + 5√3 = 11√3: only like surds add.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

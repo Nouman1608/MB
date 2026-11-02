@@ -40,6 +40,32 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Proteins:** primary (sequence) → secondary (α-helix, β-pleated sheet, hydrogen bonds) → tertiary (3-D shape; hydrogen, ionic, disulfide, hydrophobic interactions) → quaternary (multiple polypeptides). **The primary structure determines all higher levels.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
+
 ## Water
 
 - **Polar**, so it is an excellent **solvent** for ions and polar molecules — the medium for all metabolic reactions and for transport.
@@ -49,6 +75,27 @@ Condensed for the final weeks. For the full explanation, use the
 - **Less dense as ice**, so ice floats and insulates the water beneath, allowing aquatic life to survive winter.
 
 Every one of these traces back to **hydrogen bonding**, which is what the mark scheme wants stated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-biology-molecules-transport-revision-notes--04-ice-floats.webp" width="900" height="950" alt="Top: a winter pond with a floating ice layer under cold air; liquid water and a fish remain below. Bottom: a block of ice floating with about 92 percent under the waterline and 8 percent above." loading="lazy">
+  <figcaption>Ice floats and insulates the water beneath it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--03-water-heat.webp" width="900" height="1050" alt="Top: 500 kJ absorbed by 42 kg of liquid raises water by 2.85 degrees Celsius but a liquid with half the specific heat capacity by 5.67 degrees. Bottom: removing 90 kJ needs only 37.5 g of water to evaporate, compared with 21.5 kg of water warmed by 1 degree Celsius; to the same scale the evaporation bar is a sliver." loading="lazy">
+  <figcaption>Water warms slowly and removes a lot of heat when it evaporates.</figcaption>
+</figure>
+
 
 ## The circulatory system
 
@@ -61,6 +108,12 @@ Double circulation: blood passes through the heart twice per circuit, keeping ox
 | **Artery** | Thick muscular wall, elastic fibres, narrow lumen | Withstands and maintains high pressure; elastic recoil smooths flow |
 | **Vein** | Thin wall, wide lumen, **valves** | Low pressure; valves prevent backflow |
 | **Capillary** | **One cell thick**, very narrow | Short diffusion distance, large surface area |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-biology-molecules-transport-revision-notes--03-double-circulation.webp" width="900" height="1005" alt="Blood leaves the right ventricle by the pulmonary artery to the lungs, returns by the pulmonary vein to the left atrium, leaves the left ventricle by the aorta to the body and returns by the vena cava to the right atrium. Oxygenated blood is red, deoxygenated blue; the pulmonary circuit is lower pressure and the systemic circuit higher." loading="lazy">
+  <figcaption>Blood passes through the heart twice per circuit.</figcaption>
+</figure>
+
 
 ## The cardiac cycle
 
@@ -83,6 +136,12 @@ The sequence, which must be given in order:
 
 Blockage of a coronary artery causes a **myocardial infarction**; blockage in the brain causes a stroke.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-biology-molecules-transport-revision-notes--01-athero-sequence.webp" width="900" height="890" alt="Six artery cross-sections in order: damaged endothelium, white blood cells gathering, cholesterol deposits forming an atheroma, calcium and fibres hardening it and narrowing the lumen, higher pressure damaging the lining again (a positive feedback loop back to step 1), and finally a ruptured plaque with a clot blocking the artery." loading="lazy">
+  <figcaption>Atherosclerosis in order, including the positive feedback loop.</figcaption>
+</figure>
+
+
 ## Risk factors and correlation
 
 **Modifiable:** diet high in saturated fat and salt, smoking, inactivity, obesity, high alcohol intake.
@@ -91,6 +150,12 @@ Blockage of a coronary artery causes a **myocardial infarction**; blockage in th
 **Correlation does not establish causation.** A good evaluation of a study asks about sample size, whether it was representative, whether the study was controlled, how long it ran, whether other variables were accounted for, and who funded it.
 
 **HDL** transports cholesterol **to the liver** for disposal and is protective; **LDL** transports cholesterol **to the tissues** and is associated with plaque formation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-biology-molecules-transport-revision-notes--02-hdl-ldl-direction.webp" width="900" height="840" alt="A liver on the left and an artery wall with an atheroma on the right. LDL particles carry cholesterol from the liver to the tissues and are linked to plaque; HDL particles carry cholesterol from the tissues back to the liver for disposal and are protective." loading="lazy">
+  <figcaption>LDL takes cholesterol out to the tissues; HDL brings it back to the liver.</figcaption>
+</figure>
+
 
 ## Exam traps
 

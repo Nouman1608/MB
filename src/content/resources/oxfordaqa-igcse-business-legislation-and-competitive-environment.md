@@ -50,6 +50,12 @@ The specification does not name particular Acts or regulators. Keep your answers
 
 Legislation is a legal requirement. That separates it from ethics (section 3.2.2), which covers choices a business makes that go further than the law demands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ### Assessing the impact: a four-part checklist
 
 The specification lists four effects to assess. Use them as a checklist, then add the context of the business in the question.
@@ -82,6 +88,12 @@ Now consider the benefit side. If the higher pay cut the number of leavers from 
 | All rivals in the country face the same floor, so none can win customers simply by underpaying | Higher prices or lower profit; small firms with thin margins may struggle |
 | Clear rule that helps recruitment planning | Businesses may cut hours or hire fewer people |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--06-min-wage-cost.webp" width="900" height="1010" alt="Fourteen of 24 staff are on the minimum. A rise of 0.70 an hour over 2,000 hours is 1,400 each and 19,600 in total, 1.75% of sales of 1,120,000. Fewer leavers save 2,700, leaving a net cost of 16,900." loading="lazy">
+  <figcaption>The cost is small against sales and is partly offset by lower recruitment costs.</figcaption>
+</figure>
+
+
 ### Worked example: a safe working environment
 
 Orsino must fit guards to its saws. The guards cost 6,300 once. Training 24 staff for 4 hours each, valuing time at 8.00 an hour, costs 24 x 4 x 8.00 = 768. A course fee adds 600, so training is 1,368 and compliance is 7,668 in total.
@@ -96,6 +108,12 @@ Non-compliance  15,000 + 5,000 + 3,200 = 23,200
 **Benefits of safe-workplace laws to a business:** fewer accidents and less absence, better morale, a good reputation with recruits and customers, and no price advantage for rivals who cut corners. **Drawbacks:** equipment and training costs, time spent on risk checks and records, and disruption while changes are made. Smaller businesses feel the fixed cost more heavily because they spread it over fewer sales.
 
 Note the recruitment link: a business with a poor safety record finds it harder to attract applicants, and managers need training to run inspections.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--07-safety-cost.webp" width="900" height="920" alt="Compliance costs 7,668 (guards 6,300, training 1,368). One injury without guards costs 23,200 (compensation 15,000, fine 5,000, lost output 3,200), about three times as much." loading="lazy">
+  <figcaption>Breaking safety law costs about three times as much as following it.</figcaption>
+</figure>
+
 
 ### Worked example: consumer protection
 
@@ -117,6 +135,12 @@ New monthly total      = 2,550   (saving 1,350 a month, 16,200 a year)
 ```
 
 Consumer protection laws therefore **impact on businesses** in two ways. They add cost (checks, refunds, clear product descriptions, staff training on complaints). They also build trust, which can raise repeat purchases, and they stop rivals from winning sales with misleading claims. Failure to follow them can mean compensation, fines, legal fees, damaged reputation and lost customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--08-returns-check.webp" width="900" height="980" alt="Before a check, 60 returns at 65 cost 3,900 a month. A 600 check cuts returns to 30, costing 1,950, so the total is 2,550, a saving of 1,350 a month and 16,200 a year." loading="lazy">
+  <figcaption>A small quality check cuts the cost of refunds.</figcaption>
+</figure>
+
 
 ### Common errors on legislation
 
@@ -154,6 +178,12 @@ Potential impacts of competition on a business:
 
 Which effect matters most depends on the business: how loyal its customers are, how different its product is, and how big its cost cushion is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--09-price-cut-profit.webp" width="900" height="870" alt="Profit drawn as area. 600 bikes at a margin of 100 give 60,000. If Stellmark matches a rival price of 360 the margin is 60 and profit 36,000. It needs 1,000 bikes, 400 more, to earn 60,000 again." loading="lazy">
+  <figcaption>Matching a price cut means selling about 67% more to keep the same profit.</figcaption>
+</figure>
+
+
 ### Minimal or no competition
 
 You should be able to identify when a business faces little or none:
@@ -165,6 +195,12 @@ You should be able to identify when a business faces little or none:
 - A government controls the supply.
 
 The business can then charge higher prices and keep more profit. But it may have less pressure to improve service, risks attracting new entrants, and can face public criticism or regulation if it charges too much.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
 
 ### Risk and uncertainty
 
@@ -184,6 +220,12 @@ The business can then charge higher prices and keep more profit. But it may have
 
 No activity removes risk. Each has a cost: market research and insurance cost money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--01-risk-against-reward.webp" width="900" height="1056" alt="A balance shows risks (falling sales, new rivals, unpaid bills, theft and accidents) against rewards (profit, being your own boss, an idea made real, independence). Six risk-cutting activities sit below: market research, business plan, insurance, several products, cash reserves, loyal customers. No activity removes risk and each costs money." loading="lazy">
+  <figcaption>An entrepreneur weighs reward against risk and can cut, but not remove, the risk.</figcaption>
+</figure>
+
+
 ### Developing countries competing with developed countries
 
 Businesses in developing countries can compete through **lower cost advantage**, because labour and some other costs are often lower. They may also offer local knowledge, local materials or a niche product.
@@ -197,6 +239,12 @@ Cost advantage            = 10.10 - 5.70           = 4.40  (43.6% of rival cost)
 ```
 
 That 4.40 lets Nuroo undercut on price or earn a higher profit. But the advantage is not guaranteed. Longer delivery times, weaker transport links, variable quality, exchange-rate movements and customers' trust in the rival can all cut into it. Developed-country rivals compete with branding, quality and service.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-legislation-and-competitive-environment--10-cost-advantage.webp" width="900" height="980" alt="Two bars show Nuroo costing 5.70 a shirt against 10.10 for the rival, a 4.40 advantage or 43.6% of rival cost. The advantage can be reduced by slow delivery, variable quality and exchange rates." loading="lazy">
+  <figcaption>Lower costs give a developing-country firm room to undercut, but the edge is not guaranteed.</figcaption>
+</figure>
+
 
 ### Common errors on competition
 

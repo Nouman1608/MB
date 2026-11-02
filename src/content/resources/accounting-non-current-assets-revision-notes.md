@@ -38,12 +38,24 @@ Accounting (9706), 2026-2028 series.
 - Misclassifying capital as revenue expenditure: **understates** profit and asset value.
 - Misclassifying revenue as capital expenditure: **overstates** profit and asset value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--01-capital-vs-revenue.webp" width="900" height="970" alt="Two columns contrast capital expenditure (buying a van, extending a building, benefiting many years) with revenue expenditure (fuel, repainting, benefiting this year only). Two panels show that treating capital as revenue understates profit and assets, and treating revenue as capital overstates both." loading="lazy">
+  <figcaption>Capital spending benefits several years; putting it in the wrong group distorts profit and asset value.</figcaption>
+</figure>
+
+
 ## Why assets depreciate
 
 - Causes: physical wear and tear, economic obsolescence, passing of time (fixed useful life), depletion
   (e.g. mineral reserves).
 - **Depreciation** = systematically allocating an asset's cost over its useful life, applying the
   **matching/accruals concept** — cost matched against the revenue it helps generate each period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
 
 ## Two depreciation methods
 
@@ -54,12 +66,24 @@ Accounting (9706), 2026-2028 series.
 - Choosing the *most appropriate* method for a given asset is itself examinable — a judgement, not just
   a calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+
 ## Cost model vs revaluation model
 
 - **Cost model**: asset stays recorded at original cost less accumulated depreciation.
 - **Revaluation model**: asset periodically revalued to current market value; gains generally go to a
   revaluation reserve, not straight to profit.
 - Must be able to prepare ledger accounts/journal entries for both acquisition and revaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--04-cost-vs-revaluation.webp" width="900" height="960" alt="An illustrative building has a carrying value of 80,000 pounds. Under the cost model it stays unchanged; under the revaluation model it is restated to 100,000 and the 20,000 increase goes to a revaluation reserve, not profit, with a debit Building and credit Revaluation reserve journal." loading="lazy">
+  <figcaption>A revaluation gain goes to a revaluation reserve, not to ordinary profit.</figcaption>
+</figure>
+
 
 ## Disposal
 
@@ -68,6 +92,12 @@ Accounting (9706), 2026-2028 series.
 - Close out cost and accumulated depreciation accounts through a disposal account.
 - Depreciation charge for the year affects both the statement of profit or loss and the statement of
   financial position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
+  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## Exam technique for this topic
 

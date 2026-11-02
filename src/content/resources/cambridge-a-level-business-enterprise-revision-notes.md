@@ -37,9 +37,26 @@ These are condensed notes for section 1.1 Enterprise of the Cambridge Internatio
 | Opportunity cost | The value of the next best alternative given up |
 | Problem of choice | Resources are limited and wants are not, so using resources one way means not using them another way |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+
 ### Formula to know
 
 Value added = selling price − cost of bought-in materials and services. It is a standard form. It is not profit, because wages and overheads come out of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
 
 ### Reminders
 
@@ -71,6 +88,17 @@ Link the cause to the case facts. "Poor cash flow" earns little; "monthly costs 
 
 Must-know distinction: international is about where it sells; multinational is about where it operates. (These are the standard distinctions; the syllabus lists the four types without defining them.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--06-en-reach.webp" width="900" height="870" alt="Four rows: local (one town), national (one country), international (sells in 2+ countries, often exporting) and multinational (owns operations in 2+ countries)." loading="lazy">
+  <figcaption>The difference between selling abroad and owning operations abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+
 ## 1.1.2 Entrepreneurs and intrapreneurs
 
 ### Compare the two
@@ -90,6 +118,12 @@ Creativity and opportunity recognition; calculated risk-taking; determination an
 
 Finance; lack of skills or experience; regulation and the cost of complying; competition and entry costs; fear of failure; lack of an idea, information or networks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--07-en-entrepreneur-intrapreneur.webp" width="900" height="830" alt="An entrepreneur starts a new business with their own money and bears the risk. An intrapreneur innovates inside an existing business and the employer bears the financial risk." loading="lazy">
+  <figcaption>Entrepreneurs carry the risk themselves; intrapreneurs work with their employer's money.</figcaption>
+</figure>
+
+
 ### Risk versus uncertainty
 
 | | Risk | Uncertainty |
@@ -100,9 +134,21 @@ Finance; lack of skills or experience; regulation and the cost of complying; com
 
 These are the standard definitions, since the syllabus lists both terms without defining them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--08-en-risk-uncertainty.webp" width="900" height="770" alt="Risk: outcomes and odds can be estimated, shown by a pie chart; manage with research and insurance. Uncertainty: no reliable odds, shown by question marks; manage with flexibility and contingency plans." loading="lazy">
+  <figcaption>Risk can be estimated; uncertainty cannot.</figcaption>
+</figure>
+
+
 ### Enterprise and a country's development
 
 Jobs and incomes, output and tax revenue, innovation, competition and choice. Evaluation: a high failure rate wastes resources, and some enterprise harms the environment or the community.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--07-en-country-development.webp" width="900" height="910" alt="A hub-and-spoke picture. New businesses in the centre lead to jobs, incomes, output, tax revenue, innovation, and more competition and choice. A warning strip adds the evaluation point: benefits depend on the kind of enterprise, a high failure rate wastes resources, and some activity may harm the environment or local communities." loading="lazy">
+  <figcaption>Business enterprise can add jobs, incomes, output, tax revenue, innovation and choice, but has costs too.</figcaption>
+</figure>
+
 
 ## 1.1.3 Business plans
 
@@ -116,6 +162,17 @@ Method in steps for a plan question:
 
 Small worked reminder: a forecast of 150 orders at £12 gives monthly sales revenue of £1,800. If orders prove 20% lower at 120, revenue is £1,440, which is £360 less. Test the sensitivity of the plan to the assumption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--09-en-plan-assumption.webp" width="900" height="850" alt="Sundial Seeds start-up cost 18,000 is 9,000 savings plus a 9,000 loan. Forecast annual revenue 25,920 pounds falls to 19,440 if orders are 25 percent lower, a gap of 6,480." loading="lazy">
+  <figcaption>A business plan is only as reliable as its assumptions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
+  <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Value added.** A leather wallet sells at £14.00. Bought-in leather costs £5.50 and packaging £0.50, so bought-in cost is £6.00 and value added is £14.00 − £6.00 = £8.00. For 2,000 wallets, total value added is £16,000. Show the subtraction before the total.
@@ -123,6 +180,12 @@ Small worked reminder: a forecast of 150 orders at £12 gives monthly sales reve
 **Opportunity cost.** A florist can accept a wedding order worth £640 with £280 of materials, a net £360, or run an events stall worth £430 with £120 of materials, a net £310. If she takes the wedding, the opportunity cost is the £310 net she gives up. Take net figures where costs are given, and name only the next best option.
 
 **Scale and risk in context.** A bakery selling in one town is local. If it ships across the country it is national. If it exports to three countries it is international. If it opens its own ovens in two of them it is multinational. Whenever a case shows a risk, ask whether the probabilities could be estimated; if not, call it uncertainty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--06-en-opportunity-cost.webp" width="900" height="780" alt="Two bars to the same scale. Repairs for 40 hours at 27 pounds an hour bring in 1,080. Two custom frames each selling at 620 with 150 of materials bring in 2 times 470, which is 940. If Bastian builds the frames, the opportunity cost is the next best alternative given up: the 1,080 of repair income. Opportunity cost shows what a decision costs; it does not by itself say which choice is right." loading="lazy">
+  <figcaption>The opportunity cost of building frames is the repair income given up.</figcaption>
+</figure>
+
 
 ## How to write the answer
 

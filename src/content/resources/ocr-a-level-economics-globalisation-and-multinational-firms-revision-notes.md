@@ -39,11 +39,23 @@ These notes condense the topic Globalisation from the OCR *A Level Economics (H4
 
 Faster growth of trade than output; rising FDI; multinational firms and global supply chains; integrated financial markets; migration and remittances; technology and information flows; a rising share of world output and trade for emerging economies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--01-glob-measures.webp" width="900" height="800" alt="Three pairs of bars compare Year 1 with Year 25: world trade index 100 to 310 against output 100 to 180, call cost 9.00 to 0.60, and emerging-economy export share 18% to 34%. Trade intensity is up 72.2%, the call cost is down 93.3%, and the share is up 16 percentage points." loading="lazy">
+  <figcaption>Trade grew faster than output, communication got far cheaper and emerging economies took a bigger export share.</figcaption>
+</figure>
+
+
 ## Causes in one list
 
 Cheaper transport; information technology; trade liberalisation; capital liberalisation; the search of multinational firms for costs and markets; opening up of emerging economies; rising incomes.
 
 Link each cause to a mechanism. For transport: lower cost per unit shipped, so distant production becomes profitable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--07-offshoring-payback.webp" width="900" height="890" alt="Unit cost per coat: 46 at home, 38 in Country E, 40.25 if Country E wages rise 25 percent. Savings of 8 and 5.75 on 200,000 coats repay the 6.4 million set-up cost in 4.0 and 5.6 years." loading="lazy">
+  <figcaption>A move abroad pays back, but rising foreign wages lengthen the payback.</figcaption>
+</figure>
+
 
 ## Formulas and methods
 
@@ -82,6 +94,27 @@ Link each cause to a mechanism. For transport: lower cost per unit shipped, so d
 
 **Evaluation points for any group.** Starting point and institutions; policy response such as education and retraining; time period; distribution of gains within the economy; the counterfactual of not opening up; other causes such as technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--02-glob-real-wage-split.webp" width="900" height="770" alt="Skilled wages rise 12% and unskilled 3% while prices rise 5%. In real terms skilled workers gain 6.7% and unskilled lose 1.9%, and the wage ratio widens from 2.00 to 2.17." loading="lazy">
+  <figcaption>Prices rising 5% turn a 3% money rise into a real loss for unskilled workers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--03-glob-commodity-shock.webp" width="900" height="700" alt="Export earnings of 400 are 280 from one crop and 120 from other goods. A 20% price fall cuts the crop to 224, a loss of 56, so total exports fall to 344, a 14% fall." loading="lazy">
+  <figcaption>A 20% price fall on a crop worth 70% of exports removes 14% of all export earnings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--04-glob-emerging-slowdown.webp" width="900" height="810" alt="E import growth falls from 12.6% to 7.2%, a 5.4 point slowdown. Multiplying by 0.15 (share of A exports going to E) and 0.30 (exports as share of A GDP) leaves a 0.24 point fall in A growth, shown as three shrinking bars." loading="lazy">
+  <figcaption>A large fall in an emerging economy import growth shrinks to 0.24 points of growth for a country with modest links.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ## Multinational firms
 
 | For host economies | Against host economies |
@@ -97,6 +130,17 @@ Link each cause to a mechanism. For transport: lower cost per unit shipped, so d
 **Evaluation.** Net effect depends on local linkages, tax rules, the host's bargaining power, the type of FDI (new plant or takeover) and the alternatives. A good judgement names which condition matters most in the context given.
 
 **Value added reminder.** A plant creates 80 of value added, of which 30 is profit belonging to foreign owners. Wages and taxes are the rest, so residents receive (80 - 30) / 80 = 62.5%. Output in the country is higher than income to its residents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--08-host-keeps-value-added.webp" width="900" height="1020" alt="A plant adds 120 million: wages 50, taxes 10, profit 60 of which 45 is sent abroad and 15 retained but foreign-owned. Residents keep 60, half. Cumulative profit sent abroad reaches 180 million in Year 4, passing 150 invested." loading="lazy">
+  <figcaption>Only part of a foreign-owned plant output stays with host residents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
 
 ## Emerging economies and others
 

@@ -58,6 +58,17 @@ Gradient = 117 ÷ 100 = 1.17 euros per pound.
 
 To read from the graph, go up from the pounds value to the line, then across. To go the other way, start on the euro axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--06-temperature-graph.webp" width="900" height="1030" alt="Graph of F = 1.8C + 32 from C = -50 to 110. It crosses the F axis at 32, passes through (100, 212), has gradient 180/100 = 1.8, and meets the dashed line F = C at (-40, -40)." loading="lazy">
+  <figcaption>A conversion line that misses the origin: gradient 1.8, intercept 32, meeting F = C at -40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--01-miles-to-km.webp" width="900" height="930" alt="A conversion graph for miles and kilometres is a straight line through the origin and (50, 80). Reading up from 30 miles and across gives 48 km, and the gradient 80 divided by 50 is 1.6 km per mile. Because the line passes through (0, 0), values can be scaled." loading="lazy">
+  <figcaption>Reading a conversion graph, and why a line through the origin lets you scale.</figcaption>
+</figure>
+
+
 ### Temperature conversion graphs
 
 Degrees Celsius to degrees Fahrenheit uses F = 1.8C + 32. This line misses the origin: at C = 0 the value of F is 32.
@@ -98,6 +109,12 @@ Average speed = 36 ÷ 4 = 9 km/h
 
 He ends at home, so his distance from home is 0 at the end. The distance he has travelled is not 0. Do not mix these up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--03-van-journey.webp" width="900" height="930" alt="A distance-time graph of a van: 36 km out in 45 minutes (48 km/h), a flat 30 minute stop, then 36 km back in an hour (36 km/h). The whole trip is 72 km in 2.25 hours, so the average speed is 32 km/h, with the stop counted." loading="lazy">
+  <figcaption>Reading speed, stops and average speed from a distance-time graph.</figcaption>
+</figure>
+
+
 ## 2. Direct and inverse proportion graphs (7.04a)
 
 **Direct proportion.** y is directly proportional to x when y = kx. The graph is a straight line through the origin, and the gradient is k. Doubling x doubles y.
@@ -122,6 +139,17 @@ Points: (2, 24), (4, 12), (6, 8), (8, 6), (12, 4).
 ```
 
 How to tell the two apart on a graph: for direct proportion, y ÷ x is the same at every point. For inverse proportion, x × y is the same at every point. A straight line missing the origin is linear but is not direct proportion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--01-pay-direct-proportion.webp" width="900" height="925" alt="Graph of pay P in pounds against hours h with P = 14.5h: a straight line through (0, 0). A gradient triangle across 4 hours and up 58 pounds gives 14.5 pounds per hour. Dashed lines show 7.5 hours gives 108.75 pounds." loading="lazy">
+  <figcaption>Pay is directly proportional to hours: a line through the origin whose gradient is 14.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
 
 ## 3. Gradient, ratio and rates of change (7.04b)
 
@@ -155,6 +183,12 @@ On a velocity-time graph the gradient is the acceleration, in m/s². A negative 
 10 to 40 s:  gradient 0, so constant velocity 15 m/s
 40 to 55 s:  gradient = (0 - 15) ÷ 15 = -1, so deceleration 1 m/s²
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--03-velocity-time-acceleration.webp" width="900" height="980" alt="Velocity-time graph through (0,0), (10,15), (40,15), (55,0). Segment A has gradient 1.5 m/s^2, B is flat (constant 15 m/s) and C has gradient -1 m/s^2, a deceleration." loading="lazy">
+  <figcaption>On a velocity-time graph the gradient is acceleration; a negative gradient is deceleration.</figcaption>
+</figure>
+
 
 ### Average and instantaneous rate of change (Higher tier only)
 
@@ -195,6 +229,27 @@ Gradient = (16 - 8) ÷ 12 = 2/3 m/s² (about 0.67).
 ```
 
 Tangent estimates depend on careful drawing. Show the two points you used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--07-chords-to-tangent.webp" width="900" height="1200" alt="Graph of s = 2t^2 with point P (2, 8). Chords to t = 3, 2.5 and 2.1 have gradients 10, 9 and 8.2 and approach the tangent at P of gradient 8; a chord from 2 to 2+h has gradient 8+2h." loading="lazy">
+  <figcaption>Shorter chords have gradients closer to the tangent gradient, 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--02-savings-gradient-rate.webp" width="900" height="925" alt="Straight line from (0, 200) to (8, 520) for a savings balance. A gradient triangle across 4 months and up 160 pounds gives 40 pounds per month; the intercept 200 is the starting balance." loading="lazy">
+  <figcaption>The gradient 320 divided by 8 = 40 is the saving rate in pounds per month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--04-tangent-speed-curve.webp" width="900" height="985" alt="Curve v = 18t/(t+3) with a tangent at (6, 12) through (0, 8) and (12, 16), gradient 8/12 = 2/3 m/s^2, and a dashed chord from t = 3 to 9 with gradient 0.75 m/s^2." loading="lazy">
+  <figcaption>The tangent gives the acceleration at t = 6; the chord gives the average over 3 to 9 s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
 
 ## 4. Areas under graphs (7.04c, Higher tier only)
 
@@ -238,6 +293,17 @@ Area ≈ 3 × (0/2 + 9 + 12 + 13.5 + 14.4/2)
 ```
 
 Here the curve is concave, so the trapezia fall short of it and the estimate is an underestimate. Narrower strips give a better estimate. Say whether your answer is an over- or under-estimate when the question asks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--08-trapezium-estimate.webp" width="900" height="1000" alt="Graph of v = 18t/(t+3) for t from 0 to 12 with four trapezium strips of width 3 joining (0,0), (3,9), (6,12), (9,13.5), (12,14.4). Strip areas 13.5, 31.5, 38.25 and 41.85 total 125.1 m, an under-estimate because the curve is concave." loading="lazy">
+  <figcaption>Trapezia under a concave speed curve give 125.1 m, an under-estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--05-takings-area-rate.webp" width="900" height="960" alt="Rate graph through (0,0), (2,60), (5,60), (8,20) split into a triangle of 60 pounds, a rectangle of 180 pounds and a trapezium of 120 pounds, total 360 pounds." loading="lazy">
+  <figcaption>The area under a pounds-per-hour graph is the total money taken: 360 pounds.</figcaption>
+</figure>
+
 
 ## Common errors
 

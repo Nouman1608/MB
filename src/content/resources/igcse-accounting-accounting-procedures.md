@@ -175,6 +175,12 @@ profit. The first error above is also an error of principle, which Topic
 motor vehicles $2,400); the $480 of depreciation charged on the repairs
 must then be removed as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
+
 ## Worked example: three depreciation methods
 
 **Depreciation** is the part of the cost of a non-current asset that is
@@ -313,6 +319,12 @@ the statement of financial position shows equipment at cost $45,000,
 less accumulated depreciation $17,400 (the balance on the provision
 account), giving a net book value of $27,600.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
+
 ## Worked example: accruals and prepayments
 
 The **matching / accruals concept** says that the expenses and incomes of
@@ -396,6 +408,12 @@ The opening credit balance was income received in advance (an other
 payable); the closing debit balance is accrued income (an other
 receivable). Income of $6,000 — exactly twelve months at $500 — reaches
 the statement of profit or loss, whatever the cash received.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
 
 ## Worked example: irrecoverable debts and the allowance
 
@@ -519,6 +537,12 @@ Date     Details                        $  Date     Details                     
 When an allowance is **created** for the first time there is no opening
 balance, so the whole amount is the charge: Dr statement of profit or
 loss, Cr allowance for irrecoverable debts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
 
 ## Worked example: valuing inventory and the effect of errors
 

@@ -48,6 +48,12 @@ Implication in one line each:
 
 Reminder: a business owes £27,500 and its assets raise £19,000. Shortfall = 27,500 - 19,000 = £8,500.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--01-elmstead-shortfall.webp" width="900" height="880" alt="Elmstead Ceramics fails owing £48,000 and its assets raise £31,000, a £17,000 shortfall. As a sole trader Imran must find the £17,000 himself. As a private limited company where he paid £12,000 for shares, he loses at most £12,000 and the creditors lose the £17,000." loading="lazy">
+  <figcaption>Limited liability caps the owner’s loss and moves the shortfall onto creditors.</figcaption>
+</figure>
+
+
 ## 1.4.1 Ownership types at a glance
 
 | | Sole trader | Partnership | Private limited company |
@@ -59,6 +65,12 @@ Reminder: a business owes £27,500 and its assets raise £19,000. Shortfall = 27
 | Typical fit | Hairdresser, tradesperson, market stall | Two dentists, a small design firm | A growing firm that wants outside investors |
 
 Profit sharing reminder: three partners agree to share equally and make £45,000. Each receives 45,000 / 3 = £15,000. If they share in the ratio of capital instead, add the parts first, then divide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--02-calder-moss-split.webp" width="900" height="643" alt="Aisha puts in £40,000 and Rory £20,000, a 2 to 1 ratio. Profit of £54,000 is three parts of £18,000: Aisha takes two parts (£36,000) and Rory one (£18,000)." loading="lazy">
+  <figcaption>Partners who share profit in the ratio of capital split £54,000 as £36,000 and £18,000.</figcaption>
+</figure>
+
 
 ## 1.4.1 Franchising
 
@@ -75,6 +87,17 @@ Advantages and disadvantages, sorted by who they affect:
 - Franchisor loses: some control over day-to-day quality, and part of the revenue.
 
 Reminder calculation: initial fee £15,000, royalty 4% of sales revenue of £225,000. Royalty = 0.04 x 225,000 = £9,000. First-year payments = 15,000 + 9,000 = £24,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--03-fresh-press-year-one.webp" width="900" height="770" alt="A waterfall chart: £34,000 profit before royalty, less a 7% royalty on £180,000 sales (£12,600), leaves £21,400. The £30,000 initial fee takes year one to minus £8,600." loading="lazy">
+  <figcaption>A franchisee’s first year may not cover the initial fee.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
 
 ## 1.4.2 Location factors
 
@@ -96,6 +119,12 @@ Method for a "which site?" question: pick the factor that matters most for this 
 
 Reminder calculation: a shop pays £9,000 rent on total costs of £60,000. Rent share = 9,000 / 60,000 x 100 = 15%. One site has expected sales of £82,000 and another £64,000. The first is (82,000 - 64,000) / 64,000 x 100 = 28.1% higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--04-oakfield-sites.webp" width="900" height="925" alt="Site A has location costs of £30,000 and sales of £140,000; Site B has costs of £25,400 and sales of £118,000. A costs £4,600 more but sells £22,000 (18.6%) more." loading="lazy">
+  <figcaption>A dearer town-centre site can pay for itself through higher sales.</figcaption>
+</figure>
+
+
 ### The internet and location
 
 - E-commerce: customers can be anywhere, so market proximity matters less.
@@ -103,6 +132,22 @@ Reminder calculation: a shop pays £9,000 rent on total costs of £60,000. Rent 
 - Fixed premises still matter for storage, dispatch, trying goods and services delivered in person.
 - Click-and-collect or delivery adds new costs to weigh.
 - Many firms mix an online presence with a shop or depot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## Building a strong written answer
 

@@ -43,6 +43,12 @@ Also useful: the [practice questions](/resources/oxfordaqa-igcse-mathematics-fun
 - To find an input from an output, undo the steps in reverse order.
 - Negative inputs go in brackets: for x² − 3x with x = −2, the output is 4 + 6 = 10.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--05-order-matters.webp" width="900" height="650" alt="Two function machines start with x = 4. Add 3 then multiply by 5 gives 7 then 35, the expression 5(x + 3). Multiply by 5 then add 3 gives 20 then 23, the expression 5x + 3. The outputs differ, so brackets record the order." loading="lazy">
+  <figcaption>The same two steps in a different order give different outputs, 35 and 23, for input 4.</figcaption>
+</figure>
+
+
 ## A9 Extension only: function toolkit
 
 | Term | Meaning | Quick example |
@@ -73,6 +79,47 @@ Also useful: the [practice questions](/resources/oxfordaqa-igcse-mathematics-fun
 
 Worked reminder: k(x) = (x + 1)/(x − 2). Then y(x − 2) = x + 1, so x(y − 1) = 2y + 1, giving k⁻¹(x) = (2x + 1)/(x − 1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--05-restricted-range.webp" width="900" height="910" alt="The curve f(x) = x squared + 2 is drawn only for x from minus 3 to 2. The lowest output is 2 at x = 0, the dip, and the highest is 11 at the left end x = minus 3. The right end gives only 6. The range is 2 up to 11." loading="lazy">
+  <figcaption>On a restricted domain the range comes from the shape of the curve, not just from the end values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--06-composite-two-roots.webp" width="900" height="910" alt="The composite fg(x) = 2x squared minus 7 is a U-shaped curve with lowest point (0, minus 7). A horizontal line at 25 meets it at x = minus 4 and x = 4, so solving fg(x) = 25 gives two answers." loading="lazy">
+  <figcaption>Solving fg(x) = 25 gives two roots because the horizontal line meets the curve twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--02-mapping-domain-range.webp" width="900" height="990" alt="A mapping diagram for h(x) = x squared minus 4 with domain minus 2, minus 1, 0, 1, 3. The arrows give outputs 0, minus 3, minus 4, minus 3, 5. The range is minus 4, minus 3, 0, 5, each listed once; two inputs may share an output." loading="lazy">
+  <figcaption>The range lists each different output once; two inputs can share an output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
+  <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--06-composite-order.webp" width="900" height="840" alt="With f(x) = 3x minus 1 and g(x) = x squared plus 4, starting from 2: fg(2) applies g first to give 8 then f to give 23; gf(2) applies f first to give 5 then g to give 29. So fg(x) = 3x squared plus 11 and gf(x) = 9x squared minus 6x plus 5 differ." loading="lazy">
+  <figcaption>In gf(x) the function nearest x acts first, so fg(x) and gf(x) usually differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--05-inverse-graph.webp" width="900" height="1034" alt="Graphs of f(x) = (2x minus 7) over 3 and its inverse (3x plus 7) over 2, with the dashed line y = x. Point (5, 1) on f matches (1, 5) on the inverse, the mirror image in y = x. The link between them crosses y = x at (3, 3)." loading="lazy">
+  <figcaption>The graph of f⁻¹ is the reflection of the graph of f in the line y = x.</figcaption>
+</figure>
+
+
 ## A10 Core: four quadrants
 
 | Quadrant | Signs (x, y) |
@@ -86,6 +133,12 @@ Worked reminder: k(x) = (x + 1)/(x − 2). Then y(x − 2) = x + 1, so x(y − 1
 - y = b is horizontal and x = a is vertical.
 - y = x passes through quadrants 1 and 3. y = −x passes through quadrants 2 and 4.
 - To complete a parallelogram ABCD, use the same step from A to B as from D to C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--08-parallelogram-vertex.webp" width="900" height="880" alt="A, B and C of parallelogram ABCD are plotted at (minus 3, 2), (1, 2) and (3, minus 1). Moving A to B is 4 across, so D to C is also 4 across, giving D = (minus 1, minus 1). A to D and B to C are both 2 across and 3 down." loading="lazy">
+  <figcaption>Opposite sides of a parallelogram make the same move, which locates the fourth vertex.</figcaption>
+</figure>
+
 
 ## A11 Core: straight lines
 
@@ -120,6 +173,17 @@ Worked reminder: take A(1, 3) and B(5, 6). Then gradient AB = 3/4. The line thro
 2. Flip it and change its sign to get −1/m.
 3. Substitute the point into y − y₁ = (−1/m)(x − x₁).
 4. Tidy up, and check by substituting the point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--07-line-two-points.webp" width="900" height="910" alt="A straight line passes through (minus 3, minus 4) and (5, 8). A step triangle of 8 across and 12 up gives gradient 3/2. Using one point, y + 4 = 3/2 (x + 3), so y = 3/2 x + 1/2; the line crosses the y-axis at (0, one half)." loading="lazy">
+  <figcaption>Gradient from two points, then the equation of the line through them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--06-point-gradient-line.webp" width="900" height="880" alt="A line through (4, minus 1) with gradient minus 2/3 drawn on a grid. A step triangle goes across 3 and down 2 to (7, minus 3). The equation y minus (minus 1) = minus 2/3 (x minus 4) rearranges to y = minus 2/3 x + 5/3, or 2x + 3y = 5, and the line crosses the y-axis at (0, 5/3)." loading="lazy">
+  <figcaption>A point and a gradient fix the line: y - y1 = m(x - x1), checked by substituting the point.</figcaption>
+</figure>
+
 
 ## More worked reminders
 

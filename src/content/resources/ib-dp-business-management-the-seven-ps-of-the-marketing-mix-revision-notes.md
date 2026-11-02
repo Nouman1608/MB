@@ -58,9 +58,21 @@ The guide frames people, processes and physical evidence in the context of marke
 
 Link: cash from mature products pays for launches elsewhere in the portfolio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--03-plc-profit-cash-investment.webp" width="900" height="920" alt="Profit and cash flow curves across introduction, growth, maturity and decline. Profit is negative at launch, highest in maturity and falls in decline. Cash flow lags profit in growth, then turns strongly positive. Investment bars read high, high, low, minimal." loading="lazy">
+  <figcaption>Cash flow lags profit in growth because stock and equipment are paid for before customers pay.</figcaption>
+</figure>
+
+
 ### Extension strategies
 
 Actions that delay decline: new markets, repositioning, new features or variants, new packaging, new uses, price changes. Evaluate on cost, risk to the brand, fit with the product and how long the effect lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--05-extension-strategies.webp" width="900" height="794" alt="A sales curve rises, peaks and declines (dashed). With an extension the decline is put off (solid). Six ways to extend are listed, with Marnitz’s battery version highlighted. Curve is illustrative." loading="lazy">
+  <figcaption>Extension strategies keep sales going longer and put off decline.</figcaption>
+</figure>
+
 
 ### Branding
 
@@ -72,6 +84,17 @@ Actions that delay decline: new markets, repositioning, new features or variants
 | Value | Extra worth that supports price and sale value |
 
 Importance: differentiation, price premium, cheaper repeat sales, easier new launches. Risk: one failure harms the whole brand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--04-branding-four-aspects.webp" width="900" height="948" alt="A staircase of four bars: awareness, development, loyalty and value, leading to a price premium and cheaper repeat sales. The risk is that one bad event can hurt every product under the brand." loading="lazy">
+  <figcaption>Awareness, development, loyalty and value build a brand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
 
 ## Price
 
@@ -87,6 +110,12 @@ Importance: differentiation, price premium, cheaper repeat sales, easier new lau
 | Dynamic (HL only) | Changes with demand or time | Perishable capacity, online sales | Customers may feel treated unfairly |
 | Competitive (HL only) | Set by reference to rivals | Many similar products | Little room for profit; may start price war |
 | Contribution (HL only) | Covers variable cost plus a contribution | Spare capacity, special orders | Ignores full cost if used all the time |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--06-seven-ps.webp" width="900" height="990" alt="Four core Ps (Product, Price, Place, Promotion) apply to every business. Three extra Ps matter especially for services: People, Process and Physical evidence. A service is experienced, not just bought." loading="lazy">
+  <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
+</figure>
+
 
 ### Formulas
 
@@ -114,6 +143,27 @@ The guide does not print these formulas, so these are the standard forms.
 4. State the sign, then say elastic or inelastic.
 5. Link to revenue or to the decision asked for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--05-cost-plus-contribution-pricing.webp" width="900" height="750" alt="A cost-plus bar: unit cost 180 plus 35% mark-up of 63 gives 243 dollars. A contribution bar, HL only: price 150 less variable cost 120 leaves 30 per frame, and 400 frames contribute 12,000 dollars." loading="lazy">
+  <figcaption>Cost-plus adds a mark-up to unit cost; contribution pricing only needs to beat variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--06-ped-elastic-revenue.webp" width="900" height="980" alt="A demand curve with points at 250 dollars and 2,000 units and 275 dollars and 1,700 units. A 10% price rise cuts quantity by 15%, so PED is -1.5 (elastic). Revenue gained is 42,500 and lost is 75,000, so revenue falls from 500,000 to 467,500." loading="lazy">
+  <figcaption>When demand is elastic, raising the price lowers revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--06-four-pricing-methods.webp" width="900" height="1110" alt="Four panels: loss leader (milk at a loss draws shoppers who spend on other items), predatory (price below rivals’ cost), premium (high price with a strong brand) and dynamic pricing (seat price rising towards flight day, HL only). Numbers are illustrative." loading="lazy">
+  <figcaption>Loss leader, predatory, premium and dynamic pricing in pictures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+
 ## Promotion
 
 | Type | One-line meaning | Examples |
@@ -126,6 +176,17 @@ Social media marketing, to evaluate:
 
 - For: low entry cost, precise targeting, two-way contact, fast results data, shareable content.
 - Against: negative comments spread, needs staff time, platform changes, audience may not match the target market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--04-promotion-atl-btl-ttl.webp" width="900" height="1080" alt="Three rows with a megaphone and twelve customers. Above the line reaches everyone with paid mass media. Below the line reaches a few chosen customers directly. Through the line combines both under one message." loading="lazy">
+  <figcaption>Above the line reaches many, below the line reaches chosen customers, through the line does both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--07-social-media-evaluation.webp" width="900" height="854" alt="A balance scale lists strengths (low start cost, targeting, two-way contact, fast results, sharing) against limitations (bad comments, staff time, platform rules, audience mismatch). The judgement depends on the firm’s customers." loading="lazy">
+  <figcaption>Weigh social media’s strengths and limits against the target audience.</figcaption>
+</figure>
+
 
 ## Place
 
@@ -141,6 +202,12 @@ Social media marketing, to evaluate:
 | People | Staff behavior shapes the whole customer experience | Cultural variation in expected relationships; training and recruitment |
 | Processes | Reliable, quick delivery builds loyalty | Changes (such as automation or online booking) bring benefits and disruption |
 | Physical evidence | Intangible services need tangible cues | Premises, uniforms, website, branded materials must match the promised quality |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--08-service-ps-dental.webp" width="900" height="1018" alt="Three bands: people (formal versus friendly styles by culture), processes (book, check in, treat, pay with online booking) and physical evidence (clean room, uniforms, certificates, website)." loading="lazy">
+  <figcaption>People, processes and physical evidence at a dental studio.</figcaption>
+</figure>
+
 
 ## Appropriate marketing mixes
 

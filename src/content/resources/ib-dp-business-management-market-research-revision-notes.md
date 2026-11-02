@@ -55,6 +55,12 @@ Evaluation point: compare the cost of the research with the cost of a wrong deci
 5. Analyze and note limits
 6. Act, then review
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--10-research-steps.webp" width="900" height="908" alt="Six steps: state the question, check secondary sources, collect primary data, choose a sample, analyze with limits in mind, then act and record, which feeds the next study." loading="lazy">
+  <figcaption>Research is a cycle that starts with a clear question.</figcaption>
+</figure>
+
+
 ## Primary methods at a glance
 
 | Method | Best for | Main strength | Main limitation |
@@ -63,6 +69,17 @@ Evaluation point: compare the cost of the research with the cost of a wrong deci
 | Interviews | Detailed views from individuals | Can probe and follow up | Slow, costly per person, interviewer influence |
 | Focus groups | Reasons behind attitudes, reactions to ideas | Discussion reveals why people feel as they do | Small group, dominant voices, moderator influence |
 | Observations | Real behavior, such as how shoppers move | Shows what people do, not what they say | Does not explain why, privacy concerns |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--11-primary-methods.webp" width="900" height="850" alt="Cards for survey, interview, focus group and observation, each with one strength and one limitation from the lesson." loading="lazy">
+  <figcaption>Each primary method gives something and misses something.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--14-cost-per-response.webp" width="900" height="920" alt="An online survey costs 3.50 per response; focus groups cost 112.50 per participant, about 32 times more. The survey measures and the focus group explains, so use both." loading="lazy">
+  <figcaption>Focus groups cost far more per person but explain the reasons.</figcaption>
+</figure>
+
 
 ## Secondary sources at a glance
 
@@ -76,12 +93,24 @@ Evaluation point: compare the cost of the research with the cost of a wrong deci
 
 General: cheaper and faster than primary, but not designed for your question and not under your control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--12-secondary-sources.webp" width="900" height="900" alt="Five sources (market analyses, academic journals, government publications, media articles, online content) each with what it gives and what to watch for." loading="lazy">
+  <figcaption>Secondary data is cheap and quick but not made for your question.</figcaption>
+</figure>
+
+
 ## Qualitative versus quantitative
 
 - Quantitative: numbers, larger samples, easy to compare and total, but gives little reason.
 - Qualitative: words and reasons, smaller samples, rich detail, but open to interpretation and hard to generalize.
 - Best practice often uses both: qualitative to find the issues, quantitative to measure them.
 - Do not label a method by name alone. A survey can be quantitative (closed questions) or partly qualitative (open questions).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--04-research-types.webp" width="900" height="820" alt="A two by two grid. Columns: primary (new data you collect) and secondary (existing data reused). Rows: quantitative (numbers) and qualitative (views and reasons). Examples: tick-box questionnaire, published sales statistics, interview or focus group, press articles and reviews." loading="lazy">
+  <figcaption>Research is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
 
 ## Sampling methods
 
@@ -96,6 +125,12 @@ Quota calculation reminder: quota for a group = (group size / population size) �
 Worked reminder: Plumbridge Soap Works has 600 customers, 70% women and 30% men, and wants a quota sample of 40. Women: 0.70 × 40 = 28. Men: 0.30 × 40 = 12. Total 28 + 12 = 40.
 
 Bias reminders (extension: the content list does not include sample error or bias; they come from the guide's suggested theory of knowledge questions): sample error (the sample differs from the population), selection bias (how people are chosen), non-response bias (people who reply differ from those who do not) and researcher bias (leading questions or interviewer influence). Larger samples and clear rules reduce these risks but do not remove them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
+  <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -123,6 +158,12 @@ Plumbridge Soap Works posts a short survey to 120 customers and gets 30 replies.
 - Share rating 4 or 5: (8 + 12) / 30 = 20 / 30 = 66.7%
 
 Always state the base of a percentage. Here the percentage who rate the scent highly is out of the 30 who replied, not out of the 120 who were asked. Then add a comment: a 25% response rate means the replies may come from customers with stronger views, so the result is indicative and not conclusive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--08-survey-results.webp" width="900" height="920" alt="A bar chart of 100 ratings: 14, 31, 25, 20 and 10 for ratings 5 down to 1. 45 percent agree, 30 percent disagree, mean 3.19, with a 40 percent response rate." loading="lazy">
+  <figcaption>Opinion is split and only 40 percent replied.</figcaption>
+</figure>
+
 
 ## Writing evaluation answers on research
 

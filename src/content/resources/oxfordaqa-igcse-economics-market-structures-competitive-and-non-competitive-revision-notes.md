@@ -51,6 +51,22 @@ Markets lie along a range, not in two boxes. Use all three factors together.
 
 Remember the trap: a market with many differentiated sellers and easy entry (bakeries, say) is still competitive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--01-ms-spectrum.webp" width="900" height="850" alt="Four example markets are placed on a range from competitive to single producer, with the number of producers, differentiation and ease of entry for each." loading="lazy">
+  <figcaption>Use all three factors to place a market on the range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--09-product-differentiation.webp" width="900" height="890" alt="Identical tomatoes are close substitutes, so a dearer stall loses buyers. Differently shaped branded bakery products look distinct and keep some loyal buyers, yet that market is still competitive." loading="lazy">
+  <figcaption>Differentiation makes buyers see a product as distinct from rivals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## 3.1.5.2 Competitive markets
 
 **Characteristics.** Many producers; similar products or small differences; easy entry and exit; buyers can compare and switch.
@@ -68,6 +84,32 @@ Remember the trap: a market with many differentiated sellers and easy entry (bak
 | Workers | More openings and pay prospects, but cost pressure can limit pay or security |
 
 **Why profits are lower.** Chain: high profit → easy entry → more supply → lower price → lower profit. Where a few producers dominate, entry is hard, so profit lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--02-ms-entry-erosion.webp" width="900" height="790" alt="Bars show a tomato seller's daily profit shrinking from Z225 to zero as the price falls from Z5.50 to Z4.00 when more stalls open." loading="lazy">
+  <figcaption>Where entry is easy, high profit attracts rivals until little is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--03-ms-same-cost.webp" width="900" height="810" alt="Two stacked bars with equal cost show a profit of Z1,000 in a competitive market (price Z11) and Z5,000 in a market dominated by three firms (price Z15)." loading="lazy">
+  <figcaption>With equal costs, the dominated market earns a much higher margin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--04-ms-price-war.webp" width="900" height="810" alt="Grouped bars show three oligopoly firms' profits: Z3,000 each at the start, Z3,200 for the firm that cuts its price while rivals hold, then Z2,200 each when all cut." loading="lazy">
+  <figcaption>When rivals match a price cut, every firm earns less than before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--05-ms-scale.webp" width="900" height="880" alt="A falling average cost curve against a Z40 price shows a loss at 20,000 tonnes and a Z1,000,000 profit at 80,000 tonnes." loading="lazy">
+  <figcaption>Only the large plant earns a profit at the market price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## 3.1.5.3 Non-competitive markets
 
@@ -87,6 +129,12 @@ Remember the trap: a market with many differentiated sellers and easy entry (bak
 - mergers and takeovers
 - successful growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--10-sources-of-market-power.webp" width="900" height="950" alt="A wall of barriers keeps small firms from a few big firms: start-up costs, economies of scale, patents and licences, brand loyalty and control of supplies. Mergers reduce producers and successful growth builds dominance." loading="lazy">
+  <figcaption>Barriers to entry, mergers and growth give a few firms market power.</figcaption>
+</figure>
+
+
 ### Consequences
 
 | For | Possible harm | Possible benefit |
@@ -94,6 +142,12 @@ Remember the trap: a market with many differentiated sellers and easy entry (bak
 | Consumers | Higher prices, less choice | Lower prices if scale savings are passed on |
 | The dominant firm | Complacency, higher costs over time | High profit funds investment |
 | Rivals | Squeezed out or kept out | Some survive in niches |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--11-market-power-consequences.webp" width="900" height="910" alt="For consumers, the dominant firm and smaller rivals, each has a possible harm and a possible benefit; the balance depends on barrier height, fear of entrants and savings passed on." loading="lazy">
+  <figcaption>Market power can harm or help consumers, the dominant firm and rivals.</figcaption>
+</figure>
+
 
 ## Method boxes
 

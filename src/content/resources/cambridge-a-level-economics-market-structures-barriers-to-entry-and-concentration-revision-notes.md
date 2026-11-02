@@ -49,6 +49,12 @@ Quick recall for outcomes 7.6.1, 7.6.2, 7.6.3 and 7.6.5 of the Cambridge Interna
 
 Memory aid for describing any structure: number, product, entry, information, price control. Always say which market you are defining before you classify it, because a narrow market looks more concentrated than a broad one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--11-four-market-structures.webp" width="900" height="1000" alt="Four rows from perfect competition (very many identical sellers, free entry, price taker) through monopolistic competition and oligopoly to monopoly (one seller, blocked entry, price maker). Dot counts are illustrative." loading="lazy">
+  <figcaption>The four market structures differ in sellers, product, entry, information and price control.</figcaption>
+</figure>
+
+
 ## Natural monopoly: the method
 
 1. Find the fixed cost and the variable cost per unit.
@@ -87,6 +93,27 @@ Market 90,000 units, MES 90,000: 1 firm (natural monopoly)
 
 Sunk cost reminder: outlay 200,000 cu, resale value of equipment 60,000 cu. Unrecoverable amount = 200,000 − 60,000 = 140,000 cu, provided nothing else can be recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--13-mes-room-for-firms.webp" width="900" height="920" alt="Market of 480,000 tonnes: MES 40,000 leaves room for 12 firms, 160,000 for 3, 480,000 for 1, and 600,000 gives 0.8 of a firm." loading="lazy">
+  <figcaption>A large minimum efficient scale leaves room for few firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--14-sunk-costs-entry.webp" width="900" height="820" alt="Of a 900,000 outlay, equipment 500,000 (resale 150,000), advertising 250,000 and a refundable deposit 150,000: 300,000 is recoverable and 600,000 sunk, two thirds." loading="lazy">
+  <figcaption>Worked example: two thirds of the entry outlay is sunk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--05-limit-pricing-entrant-loss.webp" width="900" height="830" alt="The incumbent has unit cost 4.00 and price 5.00 (profit 1.00 a unit). A new entrant at 10,000 units has unit cost 6.40, so matching 5.00 it loses 1.40 a unit, 14,000 in total." loading="lazy">
+  <figcaption>Worked example: matching the incumbent price, the entrant loses 14,000 while the incumbent still profits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Concentration ratio: the method
 
 ```
@@ -110,6 +137,22 @@ If total sales are 80 million cu: top two sell 50% of 80 = 40 million cu
 Working from sales: the top three firms sell 36 million cu in a market of 120 million cu. CR3 = 36 / 120 x 100 = 30%.
 
 Working backwards: if CR3 is 58%, the rest of the market is 100 − 58 = 42%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--15-same-cr4-different-markets.webp" width="900" height="760" alt="Markets P (55, 15, 10, 8) and Q (22, 22, 22, 22) both have CR4 of 88 percent. If two of Q leaders merge, CR3 rises from 66 to 88 percent." loading="lazy">
+  <figcaption>The same CR4 can hide very different markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--06-cr4-working-backwards.webp" width="900" height="590" alt="Total sales are 250 million and CR4 is 72%, so the top four sell 180 million (average 45 million) and the rest 70 million. If the largest sells 90 million its share is 36%." loading="lazy">
+  <figcaption>Working backwards: CR4 of 72% of 250 million is 180 million, and a largest firm of 90 million has a 36% share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
 
 ## Same ratio, different market
 
@@ -175,6 +218,12 @@ How serious is a barrier to entry?
 8. 36 / 120 x 100 = 30%.
 9. 200,000 − 60,000 = 140,000 cu.
 10. Any one: it hides how shares are divided among the leading firms; it depends on market definition; it ignores imports; it says nothing about barriers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--12-natural-monopoly-one-or-two.webp" width="900" height="890" alt="One firm serves 200,000 units at average cost 5 (total 1,000,000). Two firms each serve 100,000 at average cost 8 (total 1,600,000) because the second duplicates the pipes. The extra 600,000 is one more fixed cost." loading="lazy">
+  <figcaption>Worked example: duplicating the network adds exactly one fixed cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

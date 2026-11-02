@@ -57,6 +57,17 @@ Step 5, Tavistry's market share: 2.457 / 16.38 × 100 = 15.0%.
 
 Interpretation: value grew faster than volume (9.2% against 5.0%) because the average price also rose, so volume alone understates the growth in sales revenue. A 15.0% share makes Tavistry a significant player that does not dominate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--01-market-size-growth-share.webp" width="900" height="940" alt="Two bar pairs compare volume (6.0 to 6.3 million loaves, +5.0%) and value (15.0 to 16.38 million cu, +9.2%). A share bar shows Tavistry at 15.0% of the Year 2 market." loading="lazy">
+  <figcaption>Value grew faster than volume because the price also rose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ## 2. Four firm concentration ratio
 
 The **four firm concentration ratio** adds the market shares of the four largest firms.
@@ -70,6 +81,12 @@ Step 2, ratio: 25.0 + 18.0 + 12.0 + 9.0 = 64.0%.
 Step 3, all other firms share the remaining 36.0%.
 
 Interpretation: 64% means a few firms hold most of the market, which may point to higher barriers or scope to influence price. It does not by itself show how fiercely they compete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--02-concentration-ratio.webp" width="900" height="810" alt="A 100-square grid shows shares of 25, 18, 12 and 9 per cent for the top four firms and 36 per cent for the rest. The four firm concentration ratio is 64.0%." loading="lazy">
+  <figcaption>Add the four largest shares to get the concentration ratio.</figcaption>
+</figure>
+
 
 ## 3. Barriers to entry
 
@@ -88,12 +105,24 @@ A **barrier to entry** is anything that makes it hard or costly for a new busine
 | Existing businesses | Protected from new rivals; more stable share and profit; less pressure to cut price or innovate | Always exposed to new entrants; must keep prices down and keep improving; profit can be competed away |
 | Customers | Less choice; prices may be higher; less pressure on quality | More choice; keener prices; businesses are pushed to improve quality and service |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--03-barriers-to-entry.webp" width="900" height="890" alt="A new firm faces a wall of five bricks (entry costs, legal requirements, specialist knowledge, customer loyalty, resources or distribution) in front of a market. Panels compare high and low barriers for existing firms and customers." loading="lazy">
+  <figcaption>Five barriers stand between a new firm and the market.</figcaption>
+</figure>
+
+
 ## 4. Market conditions and their impact
 
 Market conditions describe how competitive, crowded and fast changing a market is. They affect **demand**, **business decisions** (price, range, investment) and **profits**.
 
 - **Saturated market:** most potential customers already buy the product, so total sales barely grow. A firm can grow only by taking share from rivals. Decisions lean toward differentiation, promotion or cost cutting, and profit is squeezed if rivals cut price.
 - **Dynamic market:** it changes quickly, with new products, technology or customer tastes and often fast growth. Demand can rise rapidly, but so can the risk of falling behind. Decisions lean toward investing in innovation and capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--10-saturated-v-dynamic-market.webp" width="900" height="970" alt="Two bar charts of an illustrative market size index. Saturated: total stays 100 and our share rises 20 to 28 per cent, so growth means taking share. Dynamic: total rises 100 to 280 and our share stays 20 per cent." loading="lazy">
+  <figcaption>In a saturated market growth means taking share; in a dynamic market the market itself grows.</figcaption>
+</figure>
+
 
 ## 5. The external business environment
 
@@ -113,6 +142,12 @@ A normal good with YED above 1 is income elastic: demand rises by a larger perce
 To find the change in quantity demanded when YED is known, rearrange:
 
 **% change in quantity demanded = YED × % change in income**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--04-income-elasticity-yed.webp" width="900" height="935" alt="A graph of % change in quantity against % change in income. Premium meals (YED +1.5) slope up and budget noodles (YED -0.6) slope down. At +2.5% income, meals rise 3.75% (80,000 to 83,000) and noodles fall 1.5% (50,000 to 49,250)." loading="lazy">
+  <figcaption>A normal good has positive YED; an inferior good has negative YED.</figcaption>
+</figure>
+
 
 ### Worked example 3: ready meals and budget noodles
 
@@ -148,6 +183,27 @@ A fall works in the opposite direction.
 
 The **exchange rate** is the price of one currency in terms of another. When the home currency rises in value (strengthens), imports become cheaper in home currency terms and exports become dearer for overseas buyers. A weaker home currency does the reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--05-weaker-currency-two-effects.webp" width="900" height="980" alt="The rate moves from 1 cu = 2.0 FC to 1.6 FC. Clay cost rises from 20,000 to 25,000 cu (+25%) and a tile falls from 60 to 48 FC abroad (-20%)." loading="lazy">
+  <figcaption>A weaker currency raises import costs but makes exports cheaper abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ### Worked example 4: imported clay and exported tiles
 
 Ravenhallow Tiles buys clay for 40,000 foreign currency units (FC) per order and exports tiles priced at 30 cu each.
@@ -160,6 +216,12 @@ So the weaker currency raises Ravenhallow's input costs by 25% but makes its til
 ### 5.4 Costs of inputs
 
 Inputs include raw materials, components, energy and labour. A rise lifts unit costs and cuts margins unless the business passes it on or saves elsewhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--11-input-cost-jacket-margin.webp" width="900" height="790" alt="Stacked bars of cost per jacket. Now: price 80, cost 52, margin 28 (35.0%). Fabric up 10%: cost 55, margin 25 (31.25%), contribution down 30,000. Price up 5% to 84: margin 29 (34.5%) but customers may be lost." loading="lazy">
+  <figcaption>A higher input cost cuts the margin unless it is passed on.</figcaption>
+</figure>
+
 
 ### Worked example 5: jackets
 
@@ -174,6 +236,12 @@ Options: absorb the fall; raise price 5% to 84 cu (margin 29 cu, 34.5%) and risk
 ### 5.5 Competition
 
 A new entrant takes share and can force a price response, cutting profit per sale. A rival leaving does the opposite. How easily rivals can enter depends on the barriers in section 3. Competition from abroad works the same way: overseas rivals selling in the home market add to the number of businesses, take share and press on price, and a weaker home currency can make their goods dearer and ease the pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--12-policy-competition-chain.webp" width="900" height="715" alt="Five rows lead to profit: tax on inputs raises costs, subsidy to buyers raises demand, a rule forcing a new product changes a decision, many rivals mean little power over price, few rivals mean more." loading="lazy">
+  <figcaption>Follow the chain from change to effect to profit.</figcaption>
+</figure>
+
 
 ### 5.6 Government policies and the degree of competition
 

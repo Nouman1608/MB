@@ -50,6 +50,12 @@ Its main roles in liberalisation:
 
 Evaluation: the WTO works by consensus, so deals are slow. Weaker members may lack the resources to bring cases. Enforcement relies on retaliation, which favours large economies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--04-wto-five-jobs.webp" width="900" height="810" alt="Five rows with icons: negotiation (bound cuts), non-discrimination, dispute settlement, transparency and rules on unfair practice such as anti-dumping duties." loading="lazy">
+  <figcaption>The WTO has five main jobs in liberalising trade.</figcaption>
+</figure>
+
+
 ## 4b. Types of trading bloc
 
 A trading bloc is a group of countries that give each other preferential trade treatment. Each type adds to the one before.
@@ -62,6 +68,12 @@ A trading bloc is a group of countries that give each other preferential trade t
 | Economic and monetary union | Removed | Yes | Yes | Yes |
 
 In a free-trade area, an outside firm could ship goods in through the member with the lowest tariff. Members therefore need rules of origin to check where goods were made. A customs union avoids that problem with a common external tariff but requires members to agree trade policy. A common market also needs common product standards. A monetary union means members give up their own interest rate and exchange rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--10-trading-bloc-ladder.webp" width="900" height="812" alt="A table of four bloc types against four features. Free-trade area: internal tariffs removed only. Customs union adds a common external tariff. Common market adds free movement of labour and capital. Economic and monetary union adds a single currency and monetary policy." loading="lazy">
+  <figcaption>Each type of bloc adds one feature to the one before.</figcaption>
+</figure>
+
 
 ## 4c. Costs and benefits of membership
 
@@ -98,6 +110,17 @@ What decides the balance? A bigger cost gap between partners and outsiders, high
 
 Evaluation: gains depend on how like the members are, how big the bloc is and how long adjustment takes. Outsiders lose exports, which may bring retaliation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--11-trade-diversion.webp" width="900" height="890" alt="Demand is Q = 1,000 - 2P. Before the free-trade area Country A buys 600 from C at 200 (160 plus 25% tariff). After, it buys 640 from B at 180. Consumers gain 12,000 plus a 400 triangle, but tariff revenue of 24,000 is lost, of which 12,000 is now paid to B instead of C. Net effect -11,600. The price axis starts at 140." loading="lazy">
+  <figcaption>Switching to a dearer partner costs Country A 11,600 in this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--12-trade-creation.webp" width="900" height="930" alt="Demand is Q = 500 - 2P. With a 40% tariff F is 105, so Country E buys at home at 100 (Q 300). After the free-trade area F sells at 75 and Q is 350. The production effect is 300 x 25 = 7,500 and the consumption triangle is 625, a net gain of 8,125. The price axis starts at 60." loading="lazy">
+  <figcaption>Replacing dearer home output with cheaper partner imports gives a net gain.</figcaption>
+</figure>
+
+
 ## 4d. Conflicts between trading blocs and the WTO
 
 - **Discrimination.** Blocs favour members over non-members, which cuts across the non-discrimination principle. The WTO allows blocs only if they cover substantially all trade between members and do not raise barriers to outsiders overall.
@@ -105,6 +128,12 @@ Evaluation: gains depend on how like the members are, how big the bloc is and ho
 - **Rules of origin and external tariffs** can become barriers by another name.
 - **Stepping stone or stumbling block?** Blocs can move faster than large multilateral talks and spread liberalisation. They may also let large members avoid multilateral deals and set up rival regimes.
 - **Overlapping memberships** create complex rules that raise the costs of trading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--05-bloc-vs-wto.webp" width="900" height="860" alt="A and B share a free-trade area so B sells to A at 180 with no tariff, while outsider C pays the 25% tariff and lands at 200. The WTO allows blocs only if they cover nearly all trade and do not raise outside barriers overall." loading="lazy">
+  <figcaption>A bloc favours members over outsiders, which cuts across WTO non-discrimination.</figcaption>
+</figure>
+
 
 ## 5a. Reasons for restricting free trade
 
@@ -117,6 +146,12 @@ Evaluation: gains depend on how like the members are, how big the bloc is and ho
 | Dumping | Sale below cost to drive out rivals harms home firms; anti-dumping duty restores a fair price | Low prices may benefit consumers, and proving dumping is hard |
 | Current account deficit | Cutting imports improves the balance | Does not fix causes, and retaliation cuts exports |
 | Revenue | Tariffs are simple to collect, useful where income tax is hard to collect | Distorts prices, and revenue falls if imports fall |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--06-reasons-to-restrict-trade.webp" width="900" height="862" alt="Seven arguments for protection (infant and declining industries, jobs, security, dumping, deficit, revenue), each paired with its weakness." loading="lazy">
+  <figcaption>Every argument for protection comes with a weakness.</figcaption>
+</figure>
+
 
 ## 5b. Types of restriction
 
@@ -137,6 +172,22 @@ Evaluation: gains depend on how like the members are, how big the bloc is and ho
 
 **Subsidy to domestic producers**: with a subsidy of 3 per unit at the world price of 12, producers receive 15 and supply 50. Consumers still pay 12 and buy 72. Imports = 22. Cost to government = 50 × 3 = 150. Producer surplus gain = 141. **Welfare loss = 150 − 141 = 9.** Consumers are not hurt, but taxpayers pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--13-tariff-winners-losers.webp" width="900" height="940" alt="Demand Qd = 120 - 4P, supply Qs = 20 + 2P, world price 12. A tariff of 3 lifts the price to 15: producers gain 141, government collects 30 and two triangles of welfare loss total 27; consumers lose 198. A quota of 10 gives the same price but the 30 goes to licence holders." loading="lazy">
+  <figcaption>A tariff transfers surplus from consumers to producers and the government and wastes 27 of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--14-subsidy-domestic-producers.webp" width="900" height="890" alt="At the world price of 12, a subsidy of 3 lifts home output from 44 to 50 while consumers still pay 12 and buy 72; imports are 22. Taxpayers pay 150, of which producers gain 141 and 9 is welfare loss." loading="lazy">
+  <figcaption>A subsidy protects producers without raising consumer prices, but taxpayers pay 150 for a 141 gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--08-quota-rent.webp" width="900" height="890" alt="Same market as the tariff example. A quota of 10 imports raises the price to 15; the 30 rectangle between quantities 50 and 60 is quota rent, which goes to licence holders unless licences are auctioned." loading="lazy">
+  <figcaption>A quota gives the same price rise as a tariff but the 30 goes to licence holders.</figcaption>
+</figure>
+
+
 ## 5c. Impact of protection
 
 | Group | Likely effect |
@@ -146,6 +197,12 @@ Evaluation: gains depend on how like the members are, how big the bloc is and ho
 | Governments | Tariff revenue gained; subsidy cost incurred; risk of trade disputes |
 | Living standards | Lower real income if prices rise and efficiency falls; may rise later if infant industries succeed |
 | Equality | Taxes on basics hit low-income households hardest; protected jobs may help low-skilled workers; owners of protected firms gain |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism--07-protection-who-gains.webp" width="900" height="800" alt="Using the tariff example, consumers lose 198, home producers gain 141 and the government gains 30. Living standards tend to fall and taxes on basics hit the poor hardest." loading="lazy">
+  <figcaption>Protection helps producers and governments but costs consumers.</figcaption>
+</figure>
+
 
 ## Common errors
 

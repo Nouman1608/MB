@@ -46,6 +46,32 @@ Other pages: [course hub](/boards/cambridge/o-level/business/), [printable check
 
 **Reminder example (Vellam Bikes):** profit 9 000, but cash change −18 000 because 24 000 of sales were on credit and 9 000 went on a machine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--09-profit-purposes.webp" width="900" height="570" alt="Calderfold Kayaks profit after tax of 48,000 splits into dividends 20,000 (reward for risk) and retained profit 28,000 (a source of finance with no interest and no new owners)." loading="lazy">
+  <figcaption>Profit rewards owners for risk and retained profit finances the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--10-vellam-profit-cash.webp" width="900" height="934" alt="Bars show Vellam Bikes profit of 9,000 but cash change of minus 18,000, taking cash from 20,000 to 2,000." loading="lazy">
+  <figcaption>A profitable quarter can still drain cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## 5.3.2 Income statements
 
 ### Layout (standard form for a limited company)
@@ -73,12 +99,29 @@ The syllabus names revenue, cost of sales, gross profit, profit and retained pro
 
 **Reminder example (Calderfold Kayaks):** profit 60 000. A 5% price rise with no lost sales gives profit 84 000. If sales volume falls 8% as well, profit is 66 720. The recommendation depends on how customers react.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--09-option-compare.webp" width="900" height="1070" alt="Bars compare profit against the current 60,000: option A 84,000, option B 68,280, and option A if sales fall 8 percent 66,720, so B is slightly ahead." loading="lazy">
+  <figcaption>The better option can change when you test the assumption about customers.</figcaption>
+</figure>
+
+
 ### Limits to mention
 
 - It covers a past period only.
 - It does not show cash.
 - Forecasts using it rely on assumptions.
 - It does not show how the profit is financed or what the business owns (that is the statement of financial position).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--08-income-statement-steps.webp" width="900" height="1060" alt="A step-down chart: revenue 480,000, minus cost of sales 288,000 gives gross profit 192,000, minus expenses 132,000 gives profit 60,000, minus tax 12,000 and dividends 20,000 leaves retained profit 28,000." loading="lazy">
+  <figcaption>How each line of an income statement is taken from the one above to reach retained profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## 5.4 Statement of financial position
 
@@ -101,6 +144,12 @@ The syllabus names revenue, cost of sales, gross profit, profit and retained pro
 | Capital employed | Equity + non-current liabilities (also total assets − current liabilities) |
 | Working capital | Current assets − current liabilities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
+
 ### Method: interpreting a statement
 
 1. **What does it own?** Compare non-current and current assets. Note how much of the current assets is inventories.
@@ -110,12 +159,29 @@ The syllabus names revenue, cost of sales, gross profit, profit and retained pro
 
 **Reminder example (Lantern Quay Books):** capital employed 273 000, of which the loan is 33.0% and equity 67.0%. Working capital is 33 000, but 66 000 of the 89 000 current assets is inventories.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--10-sofp-lantern.webp" width="900" height="1150" alt="Two columns of equal height 329. Left: non-current assets 240, inventories 66, receivables plus cash 23. Right: equity 183, long-term bank loan 90, current liabilities 56. Net assets 183 equal equity; working capital is 33." loading="lazy">
+  <figcaption>Assets are paid for by owners and lenders, so the two sides balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--12-capital-employed-split.webp" width="900" height="570" alt="Capital employed 273,000 equals total assets 329,000 less current liabilities 56,000, financed 67.0% by equity (183,000) and 33.0% by a bank loan (90,000)." loading="lazy">
+  <figcaption>Capital employed and its 67.0% / 33.0% financing split.</figcaption>
+</figure>
+
+
 ### Selling inventories to raise finance
 
 - Selling at cost for cash: inventories fall, cash rises by the same amount, and total current assets stay the same but are more liquid.
 - The cash can reduce an overdraft.
 - Selling below cost: less cash raised, and the loss reduces retained profit and equity.
 - Risk: too little stock left to serve customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--11-sell-inventories.webp" width="900" height="872" alt="Three columns of current assets: before, stock sold at cost, stock sold below cost, with the effect on cash, loss, retained profit and net assets." loading="lazy">
+  <figcaption>Selling stock at cost raises cash with no loss; selling below cost raises less and creates a loss.</figcaption>
+</figure>
+
 
 ## Answering exam questions on this topic
 

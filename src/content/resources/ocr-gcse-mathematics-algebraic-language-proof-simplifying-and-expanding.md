@@ -59,6 +59,12 @@ An **equation** is true only for some values. An **identity** is true for every 
 * 3(x + 2) ≡ 3x + 6 is an identity. Any value of x works.
 * 5x − 1 = 14 is an equation. Only x = 3 works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--08-identity-or-equation.webp" width="900" height="1030" alt="Two graphs. In the top graph the lines y = 3(x + 2) and y = 3x + 6 lie exactly on top of each other, so the identity is true for every x. In the bottom graph the line y = 5x minus 1 meets the horizontal line y = 14 at one point, x = 3, so the equation is true only when x = 3." loading="lazy">
+  <figcaption>An identity is true for every x; an equation is true only at the point where the two sides meet.</figcaption>
+</figure>
+
+
 ### Showing that expressions are equivalent
 
 Take one side and change it, line by line, until it matches the other. Do not work on both sides at once. Do not stop after trying one number.
@@ -87,6 +93,12 @@ Perimeter = 2 × (length + width)
           = 2 × (3x + 4)
           = 6x + 8
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--01-perimeter-6x-plus-8.webp" width="900" height="760" alt="A rectangle with sides 2x + 5 and x − 1 drawn for x = 4, with the four sides added to give 6x + 8. The check 13 + 3 + 13 + 3 = 32 matches 6(4) + 8." loading="lazy">
+  <figcaption>Adding the four sides of the rectangle gives 6x + 8.</figcaption>
+</figure>
+
 
 ### Algebraic proof (Higher tier only)
 
@@ -133,6 +145,22 @@ Let the numbers be 2k + 1 and 2k + 3.
 
 k + 1 is an integer, so the difference is a multiple of 8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--10-odd-times-odd.webp" width="900" height="900" alt="A grid of 5 rows by 7 columns of dots, 35 in all, showing (2a + 1)(2b + 1) with a = 2 and b = 3. 24 teal dots are 4ab, 10 gold dots down one side and along the bottom are 2a + 2b, and one copper dot in the corner is left over. Every other dot is in a pair, 17 pairs in all, which is 2(2ab + a + b). So the product is 2 times an integer plus 1, which is odd." loading="lazy">
+  <figcaption>Pair up the dots: one is always left over, so odd times odd is odd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--02-diff-squares-consecutive-odd.webp" width="900" height="660" alt="A 7 by 7 grid with a 5 by 5 square removed leaves 24 squares in three blocks of 8. This is the case k = 2 of (2k + 3)² − (2k + 1)² = 8(k + 1)." loading="lazy">
+  <figcaption>The L-shaped difference of 7² and 5² splits into 3 blocks of 8, the k = 2 case of 8(k + 1).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--01-three-in-a-row.webp" width="900" height="940" alt="Three columns of blocks stand for n, n + 1 and n + 2, drawn with n = 4 as 4, 5 and 6 blocks. The 3 extra blocks are regrouped so each column has n + 1 blocks. So the sum 3n + 3 is 3 groups of (n + 1), a multiple of 3." loading="lazy">
+  <figcaption>The sum of three consecutive numbers is always 3(n + 1).</figcaption>
+</figure>
+
+
 ## Collecting like terms (6.01b)
 
 **Like terms** have exactly the same letters with exactly the same powers. Add or subtract the coefficients and keep the letters. The sign in front of a term belongs to it.
@@ -163,6 +191,12 @@ Answer: **3x² − 2x + 4**.
 
 5xy − 2yx = 3xy, and x² is a different kind of term. Answer: **3xy + x²**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
+
 ## Simplifying products and quotients (6.01c)
 
 ### Both tiers
@@ -187,6 +221,22 @@ Numbers: 18 ÷ 6 = 3. a: a⁴ ÷ a² = a². b: b³ ÷ b = b². Answer: **3a²b²
 **Worked example 11.** Simplify 12p³q / 8pq².
 
 Divide the numbers by their common factor 4 to get 3/2. p: p³ ÷ p = p². q: q ÷ q² leaves q on the bottom. Answer: **3p² / 2q**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--09-square-a-binomial.webp" width="900" height="830" alt="Two three-by-three grids drawn with x = 1. On the left a square of side x + 2 is split into x squared, two strips of 2x and a 2 by 2 square of 4, which total 9. On the right only the x squared and 4 pieces are drawn and the two 2x strips are dashed question marks, giving 5. So (x + 2) squared is x squared + 4x + 4, not x squared + 4." loading="lazy">
+  <figcaption>Squaring a bracket gives four pieces, so the two middle strips cannot be left out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--01-expand-area-grid.webp" width="900" height="820" alt="An area grid for (3x + y)(x minus 4y) with columns 3x and y and rows x and minus 4y. The cells are 3x squared, xy, minus 12xy and minus 4y squared. Adding them and combining the xy terms gives 3x squared minus 11xy minus 4y squared." loading="lazy">
+  <figcaption>Every term in the first bracket multiplies every term in the second.</figcaption>
+</figure>
+
 
 ### Negative and fractional powers (Higher tier only)
 
@@ -218,6 +268,22 @@ The negative sign means reciprocal. The cube root of 8 is 2, and a⁶ to the pow
 **Worked example 16.** Simplify 4a³b⁻² × 5a⁻⁵b^(1/2).
 
 Numbers: 20. a: 3 + (−5) = −2. b: −2 + ½ = −3/2. Answer: **20a⁻²b^(−3/2)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
 
 ## Multiplying out brackets (6.01d)
 

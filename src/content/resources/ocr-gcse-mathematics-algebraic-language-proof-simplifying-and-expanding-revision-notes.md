@@ -86,6 +86,22 @@ Another: the square of an odd number is one more than a multiple of 4.
 
 Examples are never a proof. Testing 3, 5 and 7 shows nothing about all odd numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--10-odd-times-odd.webp" width="900" height="900" alt="A grid of 5 rows by 7 columns of dots, 35 in all, showing (2a + 1)(2b + 1) with a = 2 and b = 3. 24 teal dots are 4ab, 10 gold dots down one side and along the bottom are 2a + 2b, and one copper dot in the corner is left over. Every other dot is in a pair, 17 pairs in all, which is 2(2ab + a + b). So the product is 2 times an integer plus 1, which is odd." loading="lazy">
+  <figcaption>Pair up the dots: one is always left over, so odd times odd is odd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--02-diff-squares-consecutive-odd.webp" width="900" height="660" alt="A 7 by 7 grid with a 5 by 5 square removed leaves 24 squares in three blocks of 8. This is the case k = 2 of (2k + 3)² − (2k + 1)² = 8(k + 1)." loading="lazy">
+  <figcaption>The L-shaped difference of 7² and 5² splits into 3 blocks of 8, the k = 2 case of 8(k + 1).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--01-three-in-a-row.webp" width="900" height="940" alt="Three columns of blocks stand for n, n + 1 and n + 2, drawn with n = 4 as 4, 5 and 6 blocks. The 3 extra blocks are regrouped so each column has n + 1 blocks. So the sum 3n + 3 is 3 groups of (n + 1), a multiple of 3." loading="lazy">
+  <figcaption>The sum of three consecutive numbers is always 3(n + 1).</figcaption>
+</figure>
+
+
 ## Collecting like terms (6.01b)
 
 Like terms have the same letters with the same powers. Keep the sign with its term.
@@ -97,6 +113,12 @@ Like terms have the same letters with the same powers. Keep the sign with its te
 | 2xy and 2x | No |
 
 Worked reminder: 6x + 2y − x + 4y = 5x + 6y.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
 
 ## Products and quotients (6.01c)
 
@@ -113,6 +135,22 @@ Method in steps: numbers first, then each letter in turn, then write the answer 
 
 Worked reminder: 3a² × 4a³ = 12a⁵, and 20m⁵n ÷ 5m² = 4m³n.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--09-square-a-binomial.webp" width="900" height="830" alt="Two three-by-three grids drawn with x = 1. On the left a square of side x + 2 is split into x squared, two strips of 2x and a 2 by 2 square of 4, which total 9. On the right only the x squared and 4 pieces are drawn and the two 2x strips are dashed question marks, giving 5. So (x + 2) squared is x squared + 4x + 4, not x squared + 4." loading="lazy">
+  <figcaption>Squaring a bracket gives four pieces, so the two middle strips cannot be left out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--01-expand-area-grid.webp" width="900" height="820" alt="An area grid for (3x + y)(x minus 4y) with columns 3x and y and rows x and minus 4y. The cells are 3x squared, xy, minus 12xy and minus 4y squared. Adding them and combining the xy terms gives 3x squared minus 11xy minus 4y squared." loading="lazy">
+  <figcaption>Every term in the first bracket multiplies every term in the second.</figcaption>
+</figure>
+
+
 ### Negative and fractional powers (Higher tier only)
 
 | Rule | Example |
@@ -125,6 +163,22 @@ Worked reminder: 3a² × 4a³ = 12a⁵, and 20m⁵n ÷ 5m² = 4m³n.
 Method in steps for a fractional power of a product: deal with the number and each letter separately. For a negative power, work out the positive power first and then take the reciprocal.
 
 Worked reminder: 2a⁻³ × 3a⁵ = 6a², and (16x⁸)^(3/4) = 8x⁶, because 16^(3/4) = 8 and x⁸ to the power ¾ is x⁶.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
 
 ## Expanding brackets (6.01d)
 

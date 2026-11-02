@@ -42,6 +42,12 @@ The guide does not print a formula or a one-line definition for this section, so
 
 Stakeholders are different from **shareholders**. A shareholder is one type of stakeholder: an owner of shares in a company. Do not use the two words as though the two meant one thing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--03-shareholder-vs-stakeholder.webp" width="900" height="880" alt="A large oval of stakeholders contains chips for employees, managers, customers, suppliers, banks, government, community and competitors. A smaller gold circle of shareholders sits inside. Every shareholder is a stakeholder, but not the reverse." loading="lazy">
+  <figcaption>Shareholders are one type of stakeholder.</figcaption>
+</figure>
+
+
 ## Internal and external stakeholders
 
 **Internal stakeholders** are individuals or groups inside the organization. **External stakeholders** are individuals or groups outside it who are affected by it, or who can affect it. The table gives common examples and the interest each group typically has. These are standard groups, not an official list.
@@ -69,6 +75,12 @@ Second, the natural environment cannot speak, yet the guide's description of the
 
 Two stakeholders may both care about an issue, yet only one can change the outcome. A large bank holding the business's overdraft usually has more influence than a single customer. A group of employees with scarce skills has more influence than a casual worker. When you analyse a case, say **what each group wants** and **what it can do about it**. Both parts earn application credit when you tie them to details in the stem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--01-interest-vs-influence.webp" width="900" height="910" alt="A two-by-two grid with influence on the horizontal axis and interest on the vertical axis. Shareholders and skilled staff sit top right, casual staff and the yarn supplier top left, the bank bottom right and a single customer bottom left. Placement is illustrative." loading="lazy">
+  <figcaption>Interest is what a group wants; influence is what it can do.</figcaption>
+</figure>
+
+
 ## Worked example 1: identifying and applying stakeholders
 
 **Hallowfield Textiles** is an invented privately held company with 140 employees. Its average wage is 29,500 per employee per year, so the annual wage bill is 140 × 29,500 = 4,130,000. The board plans to install automated looms. The change would remove 26 jobs, a saving in wages of 26 × 29,500 = 767,000 per year. The new machines cost 245,000 a year to run and maintain. Annual profit is currently 610,000. The company pays 40% of profit as dividends. The weaver that supplies the specialist yarn would see Hallowfield's order fall from 400 tonnes to 340 tonnes.
@@ -92,6 +104,12 @@ Internal: the 140 employees, the managers, the shareholders. External: the yarn 
 
 **Step 4: Make a judgment about interests.**
 The gain falls mainly on the owners, and the cost falls mainly on the workers and the supplier. This sets up the next section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--01-hallowfield-gains-losses.webp" width="900" height="960" alt="A grid of 140 employee dots with 26 shown as losing their jobs (18.6%). Bars show the dividend rising from 244,000 to 452,800 and the yarn supplier order falling from 400 to 340 tonnes (-15%). The gain falls on owners and the cost on workers and the supplier." loading="lazy">
+  <figcaption>Automation helps shareholders but costs jobs and a supplier order: who gains and who loses.</figcaption>
+</figure>
+
 
 ## Conflict between stakeholders
 
@@ -127,6 +145,17 @@ The guide lists the content point as conflict between stakeholders, not a set of
 
 Each has a cost. Consultation takes time, compromise may satisfy nobody fully, and sharing gains lowers the owners' return.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--02-conflict-responses.webp" width="900" height="924" alt="Four rows show communicating and consulting, compromising, prioritising and sharing the gain. Each has a cost: time, may satisfy nobody fully, others lose, lower owners’ return." loading="lazy">
+  <figcaption>Each response to stakeholder conflict has a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## Worked example 2: analysing a conflict with numbers
 
 Return to Hallowfield. Staff representatives ask for a 3% pay rise.
@@ -138,6 +167,12 @@ Return to Hallowfield. Staff representatives ask for a 3% pay rise.
 **Step 3: Identify the conflict.** Employees want more pay; shareholders want to protect the dividend and the share value. Each pound used for one purpose is not available for the other.
 
 **Step 4: Analyse.** The 3% rise is small per worker, but large compared with the dividend. Hallowfield could meet staff halfway, for example by agreeing a smaller rise now and a profit-linked bonus later. That keeps the dividend steadier and still recognizes the staff. The final choice depends on how scarce the workers' skills are and how much the owners value stable returns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--02-pay-rise-vs-dividend.webp" width="900" height="940" alt="Profit of 610,000 splits into a 244,000 dividend and 366,000 kept. A 3% pay rise costs 123,900, cutting profit to 486,100, and equals 50.8% of the dividend. Pay and dividends compete for the same profit." loading="lazy">
+  <figcaption>A 3% pay rise is worth half the dividend, so employees and shareholders clash over the same profit.</figcaption>
+</figure>
+
 
 ## How to write a good AO2 answer on stakeholders
 

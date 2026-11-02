@@ -65,6 +65,22 @@ A change in the good's own price is the only thing that moves you **along** the 
 
 The curve shifts up by £2 at every quantity (equivalently left by 120 units at every price). The effect on price is worked out in the equilibrium section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--06-sup-mc-is-supply.webp" width="900" height="1160" alt="A price-taking firm supplies where price equals MC, so £8 gives 3 units. With 100 identical firms the market supplies 300 units at £8 and 500 at £12. Firm supply is its MC curve and market supply adds 100 firms' quantities." loading="lazy">
+  <figcaption>Firm supply is its MC curve and market supply adds 100 firms' quantities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Price elasticity of supply
 
 **Price elasticity of supply (PES)** measures how responsive quantity supplied is to a change in price.
@@ -101,6 +117,22 @@ PES is normally positive because supply slopes upwards.
 - **Mobility of factors of production.** If workers and capital can switch easily between products, supply is more elastic.
 - **Ease of entry and production time.** Low barriers and quick production help; goods that take a season to grow, or perishable goods that cannot be stored, are inelastic in the short run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--10-sup-pes-calculation.webp" width="900" height="1050" alt="The bakery raises output from 200 to 260 loaves when price rises from £2.50 to £3.00. PES is 30 divided by 20, which is 1.5. Bakery price +20% and quantity +30% give PES 1.5." loading="lazy">
+  <figcaption>Bakery price +20% and quantity +30% give PES 1.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--11-pes-value-scale.webp" width="900" height="1010" alt="Five small supply diagrams: a vertical line has PES 0, a line cutting the quantity axis is between 0 and 1, a line through the origin is exactly 1, a line cutting the price axis is above 1, and a horizontal line is infinite." loading="lazy">
+  <figcaption>The shape of a straight supply line shows which PES range it falls in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--15-pes-equation-check.webp" width="900" height="1010" alt="Supply Qs = 100 + 60P gives 580 at price 8 and 640 at price 9. Price rises 12.5% and quantity 10.3%, so PES is 0.83." loading="lazy">
+  <figcaption>Between prices 8 and 9 on Qs = 100 + 60P, PES is 0.83, which is inelastic.</figcaption>
+</figure>
+
+
 ## The determination of equilibrium market prices
 
 In a competitive market, **equilibrium** is the price at which quantity demanded equals quantity supplied, so there is no tendency for price to change. **Disequilibrium** exists at any other price.
@@ -134,6 +166,17 @@ In the tax case price rises by £1.20, less than the £2 tax, so buyers bear 60%
 
 The same method works for real markets: housing, a farm crop, concert tickets or a currency. Name the market, identify the cause, decide which curve shifts and in which direction, and then compare equilibria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--08-sup-shift-new-equilibria.webp" width="900" height="1140" alt="A rise in demand of 100 gives £9 and 640 units; a fall in supply of 100 gives £9 and 540 units, both from £8 and 580. Demand +100 and supply -100 both move the equilibrium price to £9." loading="lazy">
+  <figcaption>Demand +100 and supply -100 both move the equilibrium price to £9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--09-sup-tax-shift.webp" width="900" height="1050" alt="The tax shifts supply up by £2. The new equilibrium is £9.20 and 532 units. Buyers pay £1.20 more and firms keep £0.80 less. A £2 tax moves price by only £1.20: buyers bear 60%." loading="lazy">
+  <figcaption>A £2 tax moves price by only £1.20: buyers bear 60%.</figcaption>
+</figure>
+
+
 ### Assumptions of the model
 
 - Many buyers and sellers, each a **price taker**.
@@ -144,6 +187,12 @@ The same method works for real markets: housing, a farm crop, concert tickets or
 - No externalities: private costs and benefits equal social ones.
 
 **Evaluation.** Many markets have a few large sellers, branded goods or imperfect information; some prices are sticky, set by contract or regulated; adjustment takes time (housing, farming); and behaviour is not always rational. The model is best treated as a benchmark that explains the direction of change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--07-sup-equilibrium-gaps.webp" width="900" height="990" alt="Qd = 900 - 40P and Qs = 100 + 60P meet at £8 and 580 units. At £10 supply exceeds demand by 200; at £6 demand exceeds supply by 200. Excess supply at £10 and excess demand at £6 push price to £8." loading="lazy">
+  <figcaption>Excess supply at £10 and excess demand at £6 push price to £8.</figcaption>
+</figure>
+
 
 ## The interrelationship between markets
 
@@ -164,6 +213,22 @@ A change in one market spreads to others through five links.
 **Worked chain (multi-market).** A poor wheat harvest shifts supply of wheat left, raising its price. Flour costs rise, shifting supply of bread left and raising bread prices. Some buyers switch to rice (a substitute), so its demand and price rise. Mills use less labour, so derived demand for labour falls.
 
 When you write about related markets, show a direction at every step, and state whether you are describing a shift or a movement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--12-composite-demand-milk.webp" width="900" height="770" alt="Two bars show milk shared between cheese, butter and yoghurt with illustrative shares. When cheese demand rises, cheese gets 15 more and butter 15 less." loading="lazy">
+  <figcaption>With composite demand, more of the good for one use leaves less for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--13-derived-demand-bricks.webp" width="900" height="950" alt="5,000 homes at 8,000 bricks each need 40,000,000 bricks. If homes fall 12% to 4,400, bricks fall 12% to 35,200,000." loading="lazy">
+  <figcaption>Brick demand follows house building because the bricks per home are fixed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--14-multi-market-chain.webp" width="900" height="820" alt="A poor wheat harvest cuts wheat supply and raises its price. Flour costs push bread supply left and its price up. Buyers switch to rice, raising its demand and price. Mills use less labour, so demand for labour falls." loading="lazy">
+  <figcaption>A change in the wheat market spreads to bread, rice and labour.</figcaption>
+</figure>
+
 
 ## Common errors
 

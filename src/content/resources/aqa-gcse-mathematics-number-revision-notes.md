@@ -71,6 +71,22 @@ A x 10^n        where  1 <= A < 10
 
 Multiplying and dividing: handle the numbers and the powers separately, then **re-adjust** if A falls outside the range. `40 × 10⁵` must become `4 × 10⁶`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--06-rationalising-denominators.webp" width="900" height="850" alt="6 over root 3 becomes 2 root 3 on multiplying top and bottom by root 3. 4 over (3 + root 5) becomes 3 - root 5 on multiplying by the conjugate (3 - root 5), since 9 - 5 = 4. Decimal checks agree." loading="lazy">
+  <figcaption>Multiply top and bottom by the right surd to leave a whole number underneath without changing the value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+
 ## Percentages
 
 ```
@@ -82,6 +98,22 @@ compound interest:  P x (multiplier)^n
 **Reverse percentage is the most commonly failed question.** If a price is £69 after a 15% increase, the original is 69 ÷ 1.15 = £60 — **not** 69 × 0.85, which gives £58.65. Divide, never subtract.
 
 A 15% rise followed by a 15% fall does **not** return you to the start: 1.15 × 0.85 = 0.9775, a 2.25% net loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
 
 ## Fractions
 
@@ -106,6 +138,17 @@ Writing this error interval is Foundation (N15). **(Higher)** Combining bounds �
 
 **Subtraction and division cross over.** That is the entire difficulty of the topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--05-bounds-in-division.webp" width="900" height="1090" alt="A distance of 8.4 m lies between 8.35 and 8.45; a time of 2.0 s lies between 1.95 and 2.05. The largest speed is 8.45 divided by 1.95, about 4.33; the smallest is 8.35 divided by 2.05, about 4.07." loading="lazy">
+  <figcaption>Higher tier: for a division use the largest top with the smallest bottom for the upper bound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--08-truncate-vs-round.webp" width="900" height="810" alt="On a number line from 3.7 to 3.8, 3.72 rounds and truncates to 3.7. 3.78 rounds to 3.8 but truncates to 3.7, because truncation just cuts off the digits." loading="lazy">
+  <figcaption>Rounding goes to the nearest value; truncating simply cuts digits off.</figcaption>
+</figure>
+
+
 ## HCF and LCM
 
 Use prime factorisation. HCF = product of the **lowest** power of each common prime. LCM = product of the **highest** power of every prime appearing.
@@ -120,11 +163,23 @@ HCF = lowest power of each shared prime = 2^2 x 3 = 12
 LCM = highest power of every prime present = 2^3 x 3^2 x 5 = 360
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## Reverse percentage for a decrease
 
 A jacket costs £68 after a 15% **reduction**. The sale price is 85% of the original, so the multiplier is 0.85: original = 68 ÷ 0.85 = **£80**. Check by working forwards: 80 × 0.85 = 68.
 
 The trap here is finding 15% of £68 and adding it on — that gives £78.20, which is wrong, because the percentage applies to the **original** price, not the sale price. **Estimating** by rounding each value to 1 significant figure before a calculation is also useful for sanity-checking whether an answer is plausible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--04-reverse-percentage-jacket.webp" width="900" height="900" alt="A bar for the sale price 68 pounds is 85 percent. Dividing by 0.85 gives the original, 80 pounds, as 100 percent. The slip of adding 15 percent of 68 gives 78.20 pounds, which is wrong." loading="lazy">
+  <figcaption>Divide by the multiplier to get back to the original price.</figcaption>
+</figure>
+
 
 ## Exam traps
 

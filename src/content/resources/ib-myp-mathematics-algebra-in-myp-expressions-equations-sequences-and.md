@@ -57,6 +57,27 @@ Sequence 13, 19, 25, 31, 37. The first difference is 6 each time, so the rule is
 
 Quadratic example: 5, 9, 15, 23, 33. First differences: 4, 6, 8, 10. Second differences: all 2, so the rule contains n². Subtract n² (1, 4, 9, 16, 25) and the leftovers are 4, 5, 6, 7, 8, which is n + 3. The rule is **n² + n + 3**. To justify it, the gap between terms n and n + 1 is ((n + 1)² + (n + 1) + 3) − (n² + n + 3) = 2n + 2, which is 4, 6, 8, 10 for n = 1 to 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--05-myp-sequence-proof-groups.webp" width="900" height="990" alt="Sums of consecutive terms of 6n + 7 (32, 44, 56, 68) drawn as 8, 11, 14 and 17 columns of four squares, matching 12n + 20 = 4(3n + 5)." loading="lazy">
+  <figcaption>Each sum is 3n + 5 groups of four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--01-linear-nth-term.webp" width="900" height="940" alt="Graph of the sequence 5, 8, 11, 14 against n. Each point is 3 higher than the one before, so the points lie on a straight line of gradient 3. Extending the line back to n = 0 gives 2, so the nth term is 3n + 2." loading="lazy">
+  <figcaption>A linear sequence lies on a straight line whose gradient is the common difference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+
 ## Forming and solving equations
 
 Define the unknown, build the equation from the words, solve, then check against the story.
@@ -79,6 +100,12 @@ A value *satisfies* an equation if substituting it makes both sides equal. *Solv
 
 Two expressions are equivalent if they have the same value for every input. Equations hold for particular values, so check them by substitution. Equivalence needs algebra: 4(x + 2) and 4x + 8 are equivalent because expanding turns one into the other. Testing one value is not enough. (x + 3)² and x² + 9 both equal 9 when x = 0, but at x = 1 they give 16 and 10, so they are not equivalent. Use the symbol ≡ for "is identical to".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--08-myp-equal-once-not-equivalent.webp" width="900" height="900" alt="The graphs of (x + 3)² and x² + 9 meet only at x = 0 where both are 9. At x = 1 they give 16 and 10. They differ by 6x, so they are not equivalent." loading="lazy">
+  <figcaption>Two expressions can agree at one value and still be different.</figcaption>
+</figure>
+
+
 ## Simultaneous equations
 
 Two equations in x and y have a solution that satisfies both.
@@ -96,6 +123,12 @@ Check in the second: 9 − 8 = 1.
 **Substitution:** y = x − 4 and 3x + 2y = 7. Replace y: 3x + 2x − 8 = 7, so x = 3 and y = −1.
 
 **Graphically:** draw both lines; the coordinates of the intersection are the solution. For y = x/2 + 1 and x + y = 7 the lines cross at (4, 3): check 4/2 + 1 = 3 and 4 + 3 = 7. Parallel lines never meet, so there is no solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--01-myp-simultaneous-scaling-graph.webp" width="900" height="1130" alt="Graph of 4x + 3y = 24 and 3x − 2y = 1 meeting at (3, 4), with the elimination steps (times 2, times 3, add, substitute). A dashed line 4x + 3y = 12, added for illustration, is parallel to the first line and never meets it, so there would be no solution." loading="lazy">
+  <figcaption>Elimination with scaling gives (3, 4); a parallel line never meets, so no solution.</figcaption>
+</figure>
+
 
 ## Expressions: substitute, expand, factorize
 
@@ -123,6 +156,12 @@ Solve like an equation, with one change: multiplying or dividing by a negative r
 
 **Double inequalities** are solved in one go by doing the same to all three parts: −5 ≤ 2x − 3 < 9 gives −2 ≤ 2x < 12, so **−1 ≤ x < 6**. On a number line use an open circle for < and > and a filled circle for ≤ and ≥. The integers that satisfy it are −1, 0, 1, 2, 3, 4, 5, which is 7 values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--02-myp-compound-inequalities.webp" width="900" height="1200" alt="Number lines show AND as an overlap (−3 ≤ x &lt; 6), OR as two separate rays (x ≤ −3 or x &gt; 3), and the double inequality −1 ≤ x &lt; 6 with its seven integers." loading="lazy">
+  <figcaption>And keeps the overlap, or keeps both pieces.</figcaption>
+</figure>
+
+
 ## Quadratic equations
 
 Rearrange to one side equal to zero first. Then pick a method.
@@ -138,6 +177,17 @@ If the number under the root is negative, the graph never reaches the x-axis and
 **Graphically:** draw y = ax² + bx + c and read off the x-values at its crossings of the x-axis; those are the solutions of ax² + bx + c = 0. The graph is symmetrical about the vertical line through the midpoint of the two roots.
 
 **In context:** a picture frame is 4 cm longer than it is wide and its area is 96 cm². With width w, w(w + 4) = 96, so w² + 4w − 96 = 0 and (w + 12)(w − 8) = 0. Width cannot be negative, so **w = 8 cm** and the length is 12 cm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--11-myp-quadratic-formula-graph.webp" width="900" height="1024" alt="y = 3x² + 4x − 5 crosses the x-axis at 0.786 and −2.12, symmetric about x = −2/3. The curve y = x² + 2x + 3 has b² − 4ac = −8 and never reaches the axis, so has no real root." loading="lazy">
+  <figcaption>Roots are where the curve meets y = 0; a negative discriminant means no crossing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--04-myp-picture-frame-quadratic.webp" width="900" height="1090" alt="A frame is drawn as a w by w square plus a 4 by w strip, giving w² + 4w = 96. The graph of y = w² + 4w − 96 crosses zero at −12 and 8; the negative root is rejected, so the width is 8 cm and the length 12 cm." loading="lazy">
+  <figcaption>A quadratic from a context: only w = 8 makes sense.</figcaption>
+</figure>
+
 
 ## Using and rearranging formulae
 
@@ -176,6 +226,12 @@ Algorithm: set p = 3 and t = 0. Repeat: add p to t, then double p. Stop when t i
 
 The output is **93**. The algorithm is adding the terms of the sequence 3, 6, 12, 24, 48 until the total passes 60.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--09-myp-flowchart-trace.webp" width="900" height="900" alt="A flowchart sets t = 0 and p = 3, adds p to t, doubles p and tests t &gt; 60, looping back on No. A trace table shows t = 3, 9, 21, 45, 93 and p = 6, 12, 24, 48, 96. The output is 93." loading="lazy">
+  <figcaption>A flowchart and its trace table for the doubling-terms algorithm.</figcaption>
+</figure>
+
+
 ## Extended: arithmetic and geometric sequences
 
 For terms a₁, a₂, a₃, … (the guide's notation list writes terms this way) an **arithmetic** sequence adds a common difference d, so aₙ = a₁ + (n − 1)d. A **geometric** sequence multiplies by a common ratio r, so aₙ = a₁ × rⁿ⁻¹.
@@ -183,6 +239,12 @@ For terms a₁, a₂, a₃, … (the guide's notation list writes terms this way
 Arithmetic: 50, 44, 38, … has a₁ = 50 and d = −6, so aₙ = 56 − 6n and a₁₅ = −34.
 
 Geometric: 5, 15, 45, … has a₁ = 5 and r = 3, so aₙ = 5 × 3ⁿ⁻¹ and a₆ = 1215. The progression shows growth by tripling; the arithmetic one shows steady decline.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--03-myp-arith-geom-sigma.webp" width="900" height="1290" alt="Bar charts of the arithmetic sequence 50, 44, 38 (a_n = 56 − 6n), the geometric sequence 5, 15, 45 (a_n = 5 × 3^(n−1)) and the six terms of the sigma sum of 3k − 2, which total 51." loading="lazy">
+  <figcaption>A fixed step, a fixed ratio, and a sigma sum of six terms.</figcaption>
+</figure>
+
 
 ## Enrichment
 
@@ -193,6 +255,12 @@ Geometric: 5, 15, 45, … has a₁ = 5 and r = 3, so aₙ = 5 × 3ⁿ⁻¹ and a
 **Sigma notation** writes a sum compactly. Σ from k = 1 to 6 of (3k − 2) = 1 + 4 + 7 + 10 + 13 + 16 = 51.
 
 **Convergence and divergence:** 12, 6, 3, … halves each time, so its running total approaches 24 and the series *converges*. A sequence with r = 3 gets ever larger, so its total *diverges*. Convergence needs a ratio between −1 and 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--10-myp-series-converges.webp" width="900" height="960" alt="A bar of length 24 is filled by 12, 6, 3, 1.5, … and the running total 12, 18, 21, 22.5, 23.25, 23.625 approaches but never passes 24. A ratio between −1 and 1 means the total converges." loading="lazy">
+  <figcaption>A halving sequence has a running total that approaches 24.</figcaption>
+</figure>
+
 
 ## Common errors
 

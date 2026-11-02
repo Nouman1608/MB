@@ -33,6 +33,12 @@ These notes condense sections 3.2.5 (Breathing) and 3.2.6 (Respiration) of the O
 - Air path: trachea, bronchi, bronchioles, alveoli.
 - Recognise on a diagram: ribs, intercostal muscles, diaphragm, lungs, trachea, bronchi, bronchioles, alveoli.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
+
 ### Inhaling and exhaling (3.2.5 b)
 
 | | Inhale | Exhale |
@@ -49,12 +55,24 @@ Method in steps for a 4-mark explanation:
 3. State the pressure change compared with the surrounding air.
 4. State which way the air moves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
+</figure>
+
+
 ### Alveoli (3.2.5 c)
 
 - Very large surface area.
 - Richly supplied with blood capillaries.
 - Result: gases diffuse readily into and out of the blood.
 - Helpful extras: thin walls (short diffusion distance), breathing keeps renewing the air.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
 
 ### Ventilators (3.2.5 d)
 
@@ -63,6 +81,12 @@ Method in steps for a 4-mark explanation:
 | Effect | air is drawn into the lungs | air is forced into the lungs |
 | Outline | pressure lowered around the chest in a sealed chamber | air pushed into the airway above outside pressure |
 | Used when | spontaneous breathing has stopped through disease or injury | same |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--06-ventilators.webp" width="900" height="960" alt="Top: negative pressure. The patient is in a sealed chamber with the head outside; a pump lowers the pressure round the chest, the chest is pulled out and air is drawn in. Bottom: positive pressure. A pump pushes air down a tube into the airway at a pressure above the surroundings and the lungs inflate." loading="lazy">
+  <figcaption>Negative pressure draws air in by lowering pressure round the chest; positive pressure pushes it in.</figcaption>
+</figure>
+
 
 ## 3.2.6 Respiration at a glance
 
@@ -81,6 +105,17 @@ Method in steps for a 4-mark explanation:
 - Muscle glycogen converted back to glucose.
 - Effect: more glucose and oxygen supplied; carbon dioxide removed faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--03-step-test-plan.webp" width="900" height="1030" alt="A timeline of three stages: rest, two minutes of stepping on and off a step, and recovery, with pulse and breathing rate measured at each. Below, three labelled rows show the variable that is changed (exercise), the variables measured (pulse rate and breathing rate) and the things kept the same (same person, step height and rate, timing and room). A final strip shows three resting pulse readings of 66, 70 and 68 giving a mean of 68." loading="lazy">
+  <figcaption>The step-test plan: change the exercise, measure pulse and breathing rate, keep everything else the same, then repeat and take a mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--04-exercise-percent-change.webp" width="900" height="990" alt="Two pairs of horizontal bars. Pulse rises from 68 to 112 beats per minute, a 64.7 percent increase (about 65 percent). Breathing rate rises from 15 to 31 breaths per minute, a 106.7 percent increase (about 107 percent). A third pair of bars compares the percentages, showing breathing rate rose by more. The formula divides the change by the original value." loading="lazy">
+  <figcaption>Both pulse and breathing rate rise with exercise, but breathing rate rises by the larger percentage because the change is divided by the smaller starting value.</figcaption>
+</figure>
+
+
 ### Anaerobic respiration (3.2.6 i-m)
 
 | | Muscle (animals) | Plants and some microorganisms |
@@ -93,6 +128,27 @@ Method in steps for a 4-mark explanation:
 - Anaerobic respiration in muscle: incomplete breakdown of glucose, so lactic acid builds up.
 - Oxygen debt: oxygen needed afterwards to oxidise lactic acid to carbon dioxide and water.
 - Fatigue: muscles stop contracting efficiently; one cause is lactic acid build-up; blood flowing through the muscles eventually removes it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--01-lactic-fatigue.webp" width="900" height="1140" alt="Top: the equation C6H12O6 to 2C3H6O3 with rows of atom tiles showing 6 carbon, 12 hydrogen and 6 oxygen on each side, so glucose splits into two lactic acid molecules with the same atoms. Bottom: a muscle at the start with few lactic acid dots and a muscle after long vigorous activity crowded with dots and fatigued, with an arrow to a blood vessel that carries the lactic acid away." loading="lazy">
+  <figcaption>Glucose splits into two lactic acid molecules without oxygen; the lactic acid that builds up causes muscle fatigue until blood removes it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--02-plant-respiration-energy.webp" width="900" height="810" alt="A plant cell contains several labelled mitochondria, where most respiration reactions happen. An energy arrow runs from the cell to a reaction in which sugar and nitrate join to make an amino acid, and amino acids are then built into a protein chain." loading="lazy">
+  <figcaption>Respiration in mitochondria transfers the energy a plant cell uses to build sugars and nitrates into amino acids and then proteins.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--05-yeast-bubble-rate.webp" width="900" height="1140" alt="A test tube holds yeast in glucose solution with a layer of oil on top and bubbles of carbon dioxide rising. Beside it, 38 bubbles are drawn as dots counted over 5 minutes, and dividing 38 by 5 gives a rate of 7.6 bubbles per minute. The gas turns limewater cloudy and ethanol is left in the liquid." loading="lazy">
+  <figcaption>Yeast respires anaerobically under oil; counting 38 bubbles in 5 minutes gives a rate of 7.6 bubbles per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -138,6 +194,17 @@ Ethanol: 2C2H5OH + 2CO2 has 6 carbon, 12 hydrogen and 6 oxygen, matching glucose
 - Rate from 10 to 20 min: 3.5 / 10 = 0.35 mmol/dm3 per minute.
 - Fastest fall is at the start, when the concentration is highest.
 - Link to theory: the blood removes lactic acid and oxygen oxidises it, repaying the oxygen debt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--07-pressure-trace.webp" width="900" height="1000" alt="Graph of thorax pressure minus outside air over 3 seconds: down to minus 0.3 kPa at 0.75 s (inhalation, air in), zero at 1.5 s, up to plus 0.3 kPa at 2.25 s (exhalation, air out), zero at 3.0 s. One breath is 3.0 s, so 20 breaths per minute." loading="lazy">
+  <figcaption>Pressure below outside air means inhaling; above means exhaling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--08-lactic-acid-recovery.webp" width="900" height="970" alt="Line graph of blood lactic acid after a sprint: 12.5, 8.0, 4.5 and 2.0 mmol per dm3 at 0, 10, 20 and 30 minutes. The falls are 4.5, 3.5 and 2.5, so it falls fastest at the start. The first fall is 36% of the start; the average rate from 10 to 20 minutes is 0.35 mmol per dm3 per minute." loading="lazy">
+  <figcaption>The fall in lactic acid is fastest at first as oxygen oxidises it.</figcaption>
+</figure>
+
 
 ### Rate from a count
 

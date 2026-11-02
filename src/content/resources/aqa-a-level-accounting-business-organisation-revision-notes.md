@@ -37,6 +37,12 @@ Build this table **once**, from memory, covering all three dimensions the specif
 
 **"Limited" ≠ small.** A common misunderstanding: "limited" refers to a limit on the **owner's financial liability**, not a limit on the business's size or turnover.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+
 ## Sources of finance by ownership type
 
 | Source | Sole trader | Partnership | Ltd | plc |
@@ -47,6 +53,12 @@ Build this table **once**, from memory, covering all three dimensions the specif
 | Debentures | — | — | ✓ | ✓ |
 
 **Match each source to which ownership types can realistically access it, and why** — this converts a rote list into examinable understanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-business-organisation-revision-notes--04-bo-finance-access.webp" width="900" height="814" alt="A grid shows owner or partners' capital for sole traders and partnerships, bank overdraft, loan and mortgage for all four types, ordinary shares for limited companies (limited for private, main large-scale route for plc) and debentures for Ltd and plc." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can reach it.</figcaption>
+</figure>
+
 
 ## Worked example: comparing finance sources
 
@@ -70,6 +82,12 @@ Public limited company
 
 Structure every finance-source answer around a **named source with a specific risk attached** — this is what distinguishes a strong answer from an unstructured list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
+
 ## Worked example: choosing a structure as a business grows
 
 A sole trader's business has grown to the point where she wants to raise a large amount of finance to expand and is comfortable sharing control. Which structure(s) become realistic options, and why?
@@ -92,13 +110,31 @@ Option 3: Float as a public limited company (plc)
 
 Working through a scenario like this -- rather than only comparing structures in the abstract -- is close to how exam questions on this content are actually phrased, since AQA typically frames Topic 3.2 questions around a business facing a specific growth or finance decision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-business-organisation-revision-notes--05-bo-growth-options.webp" width="900" height="920" alt="Three options for a growing sole trader: take a partner (unlimited liability, more capital), convert to a private Ltd (limited liability, outside shareholders, accounts filed) or float as a plc (large-scale finance, most reporting, owner diluted)." loading="lazy">
+  <figcaption>Each structure gains something and costs something.</figcaption>
+</figure>
+
+
 ## Key terms
 
 **Sole trader** — one owner, unlimited liability. **Partnership** — 2+ owners sharing capital/profits/liability, governed by agreement or the Partnership Act 1890 by default. **Private limited company (Ltd)** — limited liability, shares not offered to the public. **Public limited company (plc)** — limited liability, shares publicly tradable, more extensive statutory reporting. **Unlimited liability** — personal assets can settle business debts. **Limited liability** — owner's loss capped at the amount invested.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## A note on partnership agreements
 
 Where partners have not drawn up their own written agreement, the **Partnership Act 1890** applies by default -- and its default terms are often less favourable than a bespoke agreement would be (for example, profits are shared **equally** regardless of unequal capital contributions, and no partner is entitled to a salary unless the agreement says so). Knowing that the Act is a *fallback*, not a requirement to have one, is a specific point worth stating precisely if a question asks about partnerships without an agreement in place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-business-organisation-revision-notes--06-bo-partnership-default.webp" width="900" height="800" alt="With no agreement the Partnership Act 1890 default applies. In an illustrative case capital of 60,000 and 20,000 pounds still gives equal profit shares of 20,000 each from a 40,000 profit, and no salary." loading="lazy">
+  <figcaption>Without an agreement, profits are shared equally whatever the capital.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

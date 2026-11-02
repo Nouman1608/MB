@@ -53,6 +53,12 @@ How the π-system forms: each carbon uses three electrons in σ-bonds and has on
 
 Method for the hydrogenation comparison: multiply the cyclohexene value by three, then subtract it from the measured benzene value. The positive difference is the extra stability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+
 ## 6.1.1(c): Naming in four rules
 
 1. Prefix + benzene: bromobenzene, 1,4-dichlorobenzene.
@@ -73,6 +79,17 @@ Check: 2,4-dinitromethylbenzene has CH₃ on carbon 1 and NO₂ on carbons 2 and
 | Acylation | Acyl chloride, e.g. C₂H₅COCl | AlCl₃ | RCO⁺ | Phenyl ketone + HCl |
 
 Friedel–Crafts reactions form a new C–C bond to the ring, so they are used to build carbon skeletons in synthesis (see 6.2.4).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
 
 ## 6.1.1(e): Mechanism in steps
 
@@ -101,6 +118,17 @@ Friedel–Crafts reactions form a new C–C bond to the ring, so they are used t
 | Effect on Br₂ | Induces a dipole; Br₂ reacts | Cannot polarise Br₂ enough |
 | Result | Bromine water decolourised | No reaction without a halogen carrier |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
+
 ## 6.1.1(g): Unfamiliar reactions
 
 Spot the δ+ or positive species in the reagents. That is the electrophile. Use the same three arrows. The ring loses one H⁺. Read any extra information the question gives you, such as which atom carries the δ+ charge.
@@ -125,6 +153,12 @@ Spot the δ+ or positive species in the reagents. That is the electrophile. Use 
 
 Equations: C₆H₅OH + 3Br₂ → C₆H₂Br₃OH + 3HBr; C₆H₅OH + HNO₃ → C₆H₄(OH)NO₂ + H₂O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+
 ## 6.1.1(j): Why phenol reacts faster
 
 Oxygen lone pair (in a p-orbital) → partly delocalised into the ring → ring electron density increases → ring more susceptible to electrophilic attack → Br₂ polarised without a carrier.
@@ -142,6 +176,12 @@ Do not explain it through the stability of the intermediate.
 Positions 2 and 6 are equivalent, as are 3 and 5. Any other group's effect will be supplied in the question.
 
 Synthesis rule: put the directing group on first if you want its pattern. Nitrate before you halogenate to get a 3-substituted nitro compound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -205,6 +245,12 @@ For the contrast with electrophilic addition to C=C, revisit [alkenes for OCR](/
 - Writing "benzene has no double bonds so it can't react" instead of comparing electron density.
 - Predicting 2,4,6-substitution for phenol when position 4 is already occupied.
 - Treating Na₂CO₃ as a test that phenol passes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -47,6 +47,17 @@ Links: [practice questions](/resources/cambridge-o-level-economics-population-pr
 5. Divide by the opening population and multiply by 100.
 6. Add total change to the opening figure for the closing population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--06-population-change.webp" width="900" height="860" alt="Births 509,600 minus deaths 327,600 give natural change of plus 182,000. Immigrants 128,000 minus emigrants 61,600 give net migration plus 66,400. Total change is plus 248,400, a growth rate of 0.68 percent." loading="lazy">
+  <figcaption>Total change is natural change plus net migration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--06-country-l-net-emigration.webp" width="900" height="900" alt="Country L: births 316,800 and deaths 105,600 give natural change of +211,200. Immigrants 9,600 and emigrants 28,800 give net migration of -19,200. Total change is +192,000, a growth rate of 2.0 percent, taking the population from 9,600,000 to 9,792,000." loading="lazy">
+  <figcaption>In Country L net emigration slows growth, but births far above deaths still give 2.0 percent growth.</figcaption>
+</figure>
+
+
 ### Worked reminder (Country W, illustrative)
 
 Opening population 18,000,000. Births 288,000. Deaths 216,000. Immigrants 36,000. Emigrants 18,000.
@@ -75,6 +86,17 @@ Key links to remember:
 - An ageing country can have a high death rate with good healthcare.
 - Falling infant mortality lowers the birth rate after a delay, because families no longer need extra children as insurance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--07-push-and-pull-migration.webp" width="900" height="740" alt="Two country boxes joined by an arrow. Push factors from the origin country are unemployment, low wages, conflict and poor services. Pull factors of the destination are jobs, higher wages, better schools and hospitals, and safety. A gate in the middle shows that entry limits, visa policy and travel cost change the flow." loading="lazy">
+  <figcaption>Push factors drive people out of one country, pull factors draw them into another, and entry rules can limit the flow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--08-birth-death-rate-causes.webp" width="900" height="940" alt="Birth rate falls with more education for girls, easier contraception and fewer infant deaths, and stays high where there is no state pension. Death rate falls with clean water, healthcare, food and income, and rises with conflict, famine and disease outbreaks, or with an older age structure even when healthcare is excellent." loading="lazy">
+  <figcaption>Each cause either pushes a rate up or pulls it down; an old population can show a high death rate even with good healthcare.</figcaption>
+</figure>
+
+
 ## 3. Optimum population (5.3.3)
 
 - **Optimum population:** the size at which output per head is at its peak for the country's land, resources, capital and technology.
@@ -93,6 +115,12 @@ Key links to remember:
 
 Optimum = 6 million (output per head 20). At 8 million the extra 2 million add only 24 billion, which is 12 each, below the average of 20. Country X would be over-populated at 8 million.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--07-optimum-population.webp" width="900" height="880" alt="Output per head is 12, 17, 20, 19 and 16 at populations of 6, 12, 18, 24 and 30 million, peaking at 18 million, the optimum. Left of the peak the country is under-populated; right of it, over-populated." loading="lazy">
+  <figcaption>Output per head peaks at the optimum population.</figcaption>
+</figure>
+
+
 ## 4. Effects of population size and structure (5.3.3)
 
 | Change | Possible benefits | Possible costs |
@@ -110,6 +138,12 @@ Growth in GDP per head ≈ GDP growth − population growth. Exact: (1 + g_GDP) 
 ### Chain of reasoning for an ageing population
 
 Low birth rate and long life expectancy → more people aged 65 and over, fewer workers → fewer taxpayers per pensioner → government must raise taxes, borrow or cut other spending to pay for pensions and healthcare → possible labour shortages and higher wages → policies such as raising the retirement age or encouraging immigration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--09-gdp-per-head-growth.webp" width="900" height="830" alt="GDP growth of 3.6 percent against population growth of 2.4 percent gives about 1.2 percent growth per head. GDP growth of 2.0 percent against population growth of 2.5 percent gives minus 0.49 percent." loading="lazy">
+  <figcaption>Output per head falls when population grows faster than output.</figcaption>
+</figure>
+
 
 ## 5. Interpreting a pyramid
 
@@ -134,6 +168,17 @@ Use these to turn a list into a judgement:
 - **Time period.** A young population is a cost now and may be a gain in fifteen years.
 - **Policy.** Education, jobs growth, family policy and migration rules can change the outcome.
 - **Evidence.** What do the figures in the question actually show? Use two or three of them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--08-population-pyramids.webp" width="900" height="1200" alt="Three pyramids in percent of population: Country N is youthful (35 percent under 15, 59 dependants per 100 workers), Country M is ageing (16 percent aged 65+, 41 per 100) and Country P has 58 percent males bunched at 15 to 44 (32 per 100)." loading="lazy">
+  <figcaption>Check the width of the base, the middle and the top, then compare the two sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--09-age-structure-dependants.webp" width="900" height="810" alt="Shares of population aged 0-14, 15-64 and 65+: Country N 35, 63 and 2 percent, Country M 13, 71 and 16 percent, Country P 12, 76 and 12 percent. Dependants per 100 workers are 59 for N, 41 for M and 32 for P. Country M has 4.4 workers for each person aged 65 or over, Country N has 31.5." loading="lazy">
+  <figcaption>Country N has many children, Country M many pensioners; both carry more dependants per 100 workers than Country P.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

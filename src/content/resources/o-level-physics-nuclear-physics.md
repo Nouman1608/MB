@@ -70,6 +70,22 @@ An atom is neutral because protons and electrons are equal in number. An atom be
 - Neutrons: 63 − 29 = 34 and 65 − 29 = 36.
 - They differ only in neutron number, so they are isotopes of copper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--01-nuclide-notation-ions.webp" width="900" height="970" alt="Nuclide notation for magnesium-24 with A = 24 and Z = 12 gives 12 neutrons. A neutral Mg atom has 12 protons, 12 neutrons and 12 electrons; losing two electrons gives Mg2+ with 10 electrons. Only electrons change." loading="lazy">
+  <figcaption>Mg-24 as nuclide notation, and the Mg2+ ion built from it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
+
 ## 5.2.1 Detecting radioactivity
 
 - **Alpha particles:** a **cloud chamber** shows alpha particles as short, thick, straight tracks of condensed vapour along the path of ionisation. A **spark counter** has a charged wire above a metal gauze; an alpha particle ionises the air and a spark jumps across.
@@ -93,6 +109,22 @@ To find the **corrected count rate** from a source, subtract the background coun
 - Background rate: 18 ÷ 3 = 6 counts per minute.
 - Corrected rate: 78 − 6 = **72 counts per minute**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--05-nuc-counting-background.webp" width="900" height="1030" alt="A GM tube and counter record 156 counts in 2 minutes with a source (78 per minute) and 18 counts in 3 minutes without it (6 per minute). Subtracting gives a corrected rate of 72 counts per minute." loading="lazy">
+  <figcaption>Subtract the background count rate from the measured count rate, using the same time unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--02-alpha-detectors.webp" width="900" height="930" alt="A cloud chamber shows alpha particles as short, thick, straight tracks of condensed vapour. A spark counter has a charged wire above a metal gauze and a spark jumps across when an alpha particle ionises the air." loading="lazy">
+  <figcaption>Two ways to detect alpha particles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--08-background-subtraction.webp" width="900" height="740" alt="Detector reading 372 per minute is 352 from the source plus 20 background. After 9 hours (3 half-lives of 3 h) only the source count is divided by 8 to 44, so the reading is 64 per minute. Dividing 372 by 8 gives 46.5 and is wrong." loading="lazy">
+  <figcaption>Only the source part of a count rate halves each half-life.</figcaption>
+</figure>
+
+
 ## 5.2.2 The three types of emission
 
 Unstable nuclei give out radiation. The emission is **spontaneous** (it needs no outside trigger) and **random in direction**.
@@ -108,6 +140,12 @@ Beta here means β⁻, the electron. Strong ionisation and weak penetration go t
 **Deflection.** Alpha particles are positive, beta particles are negative and gamma rays are uncharged.
 - In an **electric field**, alpha bends towards the negative plate, beta towards the positive plate, and gamma does not bend. Beta bends much more than alpha because its mass is far smaller.
 - In a **magnetic field**, alpha and beta curve in opposite directions (they are opposite charges moving the same way) and gamma goes straight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--06-nuc-magnetic-deflection.webp" width="900" height="955" alt="Particles move up into a magnetic field directed into the page. Positive alpha curves left, negative beta curves right in a tighter curve, and gamma goes straight on." loading="lazy">
+  <figcaption>Alpha and beta curve in opposite directions in a magnetic field; gamma is not deflected.</figcaption>
+</figure>
+
 
 ## 5.2.3 Radioactive decay
 
@@ -152,6 +190,12 @@ Each fission releases neutrons, and these can be absorbed by other uranium-235 n
 
 To keep the power steady, on average one neutron from each fission must go on to cause one more fission.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--07-nuc-reactor-parts.webp" width="900" height="940" alt="A reactor vessel with fuel rods, control rods that move in and out and moderator. Hot coolant carries heat to a boiler, where steam drives a turbine and generator; cool coolant returns to the core." loading="lazy">
+  <figcaption>The moderator slows neutrons, control rods absorb them and the coolant carries the heat away.</figcaption>
+</figure>
+
+
 ## 5.2.5 Half-life
 
 The **half-life** of an isotope is how long it takes for half of the nuclei of that isotope present, whatever the sample size, to decay. The background-corrected count rate also halves in this time.
@@ -189,6 +233,22 @@ Match the **type of radiation** (penetration and ionisation) and the **half-life
 | Measuring and controlling thickness | Sheet material: the radiation must be partly absorbed. Thin aluminium foil suits beta; a thick steel plate needs gamma. Long half-life keeps readings steady |
 | Diagnosing and treating cancer | Gamma: a gamma emitter swallowed or injected can be tracked outside the body, and a short half-life means it soon disappears; a focused beam of gamma from several directions delivers a high dose to a tumour and a lower dose to tissue around it |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--08-nuc-smoke-alarm.webp" width="900" height="1075" alt="Two plates with an americium-241 alpha source between them. In clean air alpha ionises the air and a small current flows. Smoke absorbs the alpha particles, so fewer ions form, the current falls and the alarm sounds." loading="lazy">
+  <figcaption>Smoke soaks up alpha particles, so the current drops and the alarm goes off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--04-gamma-uses.webp" width="900" height="940" alt="Gamma passes through sealed packs and kills bacteria without making food radioactive. Beams from several directions meet at a tumour. A swallowed gamma emitter is tracked by a detector outside the body." loading="lazy">
+  <figcaption>Gamma used for food and sterilising, cancer treatment and diagnosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--05-half-life-table.webp" width="900" height="990" alt="Count rates 660, 340, 180 and 100 minus background 20 give 640, 320, 160 and 80 at 0, 15, 30 and 45 min. The corrected rate halves every 15 min; at 60 min it is 40." loading="lazy">
+  <figcaption>Worked example 5: correct for background, then find the half-life.</figcaption>
+</figure>
+
+
 ## 5.2.6 Safety precautions
 
 Ionising radiation damages living cells. Effects include **cell death**, **mutations** (changes to DNA, which may be passed on) and **cancer**.
@@ -197,6 +257,12 @@ To use, move and store radioactive materials safely:
 - **Reduce exposure time:** keep the source out only while needed.
 - **Increase distance:** handle with long tongs, never by hand, and stay well back.
 - **Use shielding:** keep sources in lead-lined containers; use lead or concrete walls to absorb radiation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--03-safety-rules.webp" width="900" height="890" alt="Three rules: less time (short exposure beats long), more distance (long tongs, never by hand), shielding (lead or concrete absorbs radiation)." loading="lazy">
+  <figcaption>Time, distance and shielding reduce exposure.</figcaption>
+</figure>
+
 
 ## Common errors
 

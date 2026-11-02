@@ -62,6 +62,12 @@ Also useful: the [Edexcel IAL Chemistry course page](/boards/edexcel/a-level/che
 
 Any fragment that keeps the halogen also shows the pair. A fragment that has lost it is a single peak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+
 ### Method in steps: suggesting a structure from a mass spectrum
 
 1. Find M⁺ (highest m/z, ignoring M+1). Write down Mr.
@@ -72,6 +78,32 @@ Any fragment that keeps the halogen also shows the pair. A fragment that has los
 6. Pick the isomer whose expected fragments match. Write "suggest" and give the reason.
 
 **Small worked reminder.** M⁺ = 86 with a peak at 57: 86 − 57 = 29, so C₂H₅• or CHO• has been lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
+  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
+  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
 
 ## 10.22 Infrared spectra: key ideas
 

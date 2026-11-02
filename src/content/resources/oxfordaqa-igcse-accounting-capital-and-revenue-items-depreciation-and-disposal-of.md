@@ -58,6 +58,17 @@ Thorncombe Bakery made these payments in its first year. Classify each one.
 | Routine repainting of the shop | 640 | Revenue expenditure | Maintenance |
 | Solicitor's fee on buying the shop | 900 | Capital expenditure | Cost of acquiring the property |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-four-kinds.webp" width="900" height="850" alt="A two by two grid of capital or revenue against spending or income, with the Thorncombe Bakery examples and where each is recorded: statement of financial position, income statement, or disposal account or capital." loading="lazy">
+  <figcaption>Capital and revenue, spending and income: four kinds, each with its own home in the accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--01-capital-vs-revenue.webp" width="900" height="970" alt="Two columns contrast capital expenditure (buying a van, extending a building, benefiting many years) with revenue expenditure (fuel, repainting, benefiting this year only). Two panels show that treating capital as revenue understates profit and assets, and treating revenue as capital overstates both." loading="lazy">
+  <figcaption>Capital spending benefits several years; putting it in the wrong group distorts profit and asset value.</figcaption>
+</figure>
+
+
 ## Capital and revenue: income
 
 Revenue income comes from the normal trading and investing activity of the business: sales, rent received, commission received and similar. It is credited to the income statement.
@@ -85,6 +96,12 @@ Worked example 2: Thorncombe's profit was first calculated as 21,400. The 350 in
 
 Corrected profit is 21,630. This ignores any depreciation on the extra 350, which would be small by comparison.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-thorncombe-correction.webp" width="900" height="904" alt="Installation 350 wrongly expensed is added back, repair 120 wrongly capitalised is deducted: 21,400 becomes 21,630." loading="lazy">
+  <figcaption>Correcting two misclassifications raises profit by a net 230.</figcaption>
+</figure>
+
+
 ## Why non-current assets depreciate
 
 A non-current asset is kept for use over several years, but it does not last for ever. Depreciation spreads the cost over the years in which the asset helps to earn revenue. Reasons for depreciation include:
@@ -94,6 +111,12 @@ A non-current asset is kept for use over several years, but it does not last for
 - passage of time, for example a lease that runs out or an asset that deteriorates with age.
 
 Depreciation is not a way of valuing the asset at its market price. It is a method of sharing out cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
 
 ## Depreciation is a non-cash expense
 
@@ -138,6 +161,17 @@ Compare a straight line charge of 4,800 a year, which would have written off 14,
 
 Both methods should be used consistently from year to year. Switching methods without good reason makes profits harder to compare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--05-reducing-balance-van.webp" width="900" height="910" alt="A 24,000 van at 20 percent reducing balance: charges 4,800, 3,840 and 3,072, closing NBVs 19,200, 15,360 and 12,288. Written off 11,712 against 14,400 straight line." loading="lazy">
+  <figcaption>Reducing balance charges 20 percent of a shrinking NBV, so the charge falls each year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+
 ## Entering depreciation: the provision for depreciation
 
 Instead of reducing the asset account directly, the asset stays at cost. A separate account, the provision for depreciation, builds up the total depreciation. Each year you:
@@ -178,6 +212,12 @@ Year 2 statement of financial position extract (non-current assets):
 
 The income statement for Year 2 shows depreciation of 3,000 as an expense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--05-provision-builds.webp" width="900" height="940" alt="Three bars of 18,000 show the loom at purchase, Year 1 and Year 2, with provision 0, 3,000 and 6,000 and NBV 18,000, 15,000 and 12,000." loading="lazy">
+  <figcaption>The asset stays at cost while the provision builds up and NBV falls.</figcaption>
+</figure>
+
+
 ## Disposal of non-current assets
 
 When an asset is sold you must remove its cost and its provision from the books and find the profit or loss on sale. A disposal account does this. Its layout:
@@ -203,6 +243,12 @@ Sellick Textiles sells a press that cost 15,000. Its provision for depreciation 
 
 Check: NBV was 6,000 and the press sold for 4,100, so there is a loss of 1,900.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-disposal-loss-profit.webp" width="900" height="1066" alt="Press cost 15,000, provision 9,000, sold 4,100: loss 1,900. Press cost 12,000, provision 7,500, sold 5,200: profit 700. Bars compare NBV with proceeds." loading="lazy">
+  <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
+</figure>
+
+
 ### Worked example 7: a profit
 
 A different press cost 12,000, has a provision of 7,500 and sells for 5,200. NBV is 4,500, so there is a profit of 700.
@@ -223,6 +269,17 @@ Equipment cost 8,000 on 1 January Year 1 and is depreciated at 10% of cost a yea
 - Proceeds 5,000, so the loss on disposal is 200.
 
 Post the 400 charge to the provision before you open the disposal account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-part-year-disposal.webp" width="900" height="911" alt="Years 1 to 3 carry 800 each and Year 4 carries 400 (6 months), so the provision at sale is 2,800 and NBV 5,200. Proceeds 5,000 give a loss of 200. The disposal account totals 8,000 on each side." loading="lazy">
+  <figcaption>Charge depreciation to the date of sale before opening the disposal account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
+  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## Common errors
 

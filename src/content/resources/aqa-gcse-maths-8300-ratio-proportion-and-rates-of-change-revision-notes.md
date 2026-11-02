@@ -63,6 +63,22 @@ For full explanations, read the [ratio, proportion and rates of change study gui
 
 **Worked reminder:** 72 km/h = 72 000 m ÷ 3600 s = **20 m/s**. Squared and cubed units need the conversion factor squared or cubed: 3.5 m² = **35 000 cm²**, not 350 cm².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--12-speed-unit-conversion.webp" width="900" height="910" alt="72 km per hour is multiplied by 1000 to give 72 000 m per hour, then divided by 3600 to give 20 m per second. Dividing km/h by 3.6 gives m/s." loading="lazy">
+  <figcaption>Convert km/h to m/s by changing the distance unit and the time unit separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--13-compound-unit-triangles.webp" width="900" height="1050" alt="Three formula triangles: speed = distance / time (150 km in 2 h is 75 km/h), density = mass / volume (540 g in 200 cm^3 is 2.7 g/cm^3), pressure = force / area (600 N on 0.5 m^2 is 1200 N/m^2)." loading="lazy">
+  <figcaption>Speed, density and pressure are each one quantity divided by another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--01-unit-conversion.webp" width="900" height="1060" alt="A square metre is drawn as a 10 by 10 grid of 10 cm squares, so 1 m2 is 100 times 100 = 10 000 cm2. A 1 m cube has 10 by 10 grids on its faces, and one small cube is 1 litre (1000 cm3). So 1 m3 = 1 000 000 cm3 = 1000 litres." loading="lazy">
+  <figcaption>Square or cube the conversion factor when converting areas and volumes.</figcaption>
+</figure>
+
+
 ## Ratio (R3–R8)
 
 **Method in steps: sharing in a ratio**
@@ -85,6 +101,17 @@ For full explanations, read the [ratio, proportion and rates of change study gui
 - **Best buy (R5):** compare cost per equal quantity. 400 g for £1.56 is 39p per 100 g; 650 g for £2.47 is 38p per 100 g, so the 650 g pack is better value.
 - **Maps and scales (R2):** on a 1 : 25 000 map, 8.6 cm represents 8.6 × 25 000 = 215 000 cm = **2.15 km**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-revision-notes--03-combining-ratios.webp" width="900" height="960" alt="a:b = 2:3 and b:c = 4:5 are scaled by 4 and 3 so b = 12 in both, giving a:b:c = 8:12:15." loading="lazy">
+  <figcaption>Make the shared quantity equal, then join the ratios.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--09-share-40-in-3-to-5.webp" width="900" height="890" alt="A bar of 8 blocks of 5 pounds shows 40 pounds shared 3:5 as 15 and 25 pounds, which are 3/8 (37.5%) and 5/8 (62.5%) of the total." loading="lazy">
+  <figcaption>Share 40 pounds in the ratio 3:5 by finding the value of one part, and see the shares as fractions and percentages.</figcaption>
+</figure>
+
+
 ## Percentages (R9)
 
 | Change | Multiplier |
@@ -101,6 +128,12 @@ For full explanations, read the [ratio, proportion and rates of change study gui
 
 - **Percentage change** = (change ÷ original) × 100.
 - **Simple interest** is the same amount each year: £2400 at 3.5% for 4 years earns 2400 × 0.035 × 4 = **£336**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--06-reverse-percentage-increase.webp" width="900" height="900" alt="The price after a 20 percent increase, 60 pounds, is a bar of 120 percent. Dividing by 1.2 gives the original, 50 pounds, as 100 percent. Taking 80 percent of 60 gives 48 pounds, which is wrong." loading="lazy">
+  <figcaption>60 is 120% of the original, so divide by 1.2 to get 50.</figcaption>
+</figure>
+
 
 ## Direct and inverse proportion (R10, R13, R14)
 
@@ -121,6 +154,17 @@ For full explanations, read the [ratio, proportion and rates of change study gui
 
 **Worked reminders:** if y ∝ x and y = 21 when x = 6, then k = 3.5 and y = **35** when x = 10. If y ∝ 1/x and y = 8 when x = 5, then k = 40 and y = **2.5** when x = 16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
+
 ## Similarity links (R12)
 
 Lengths in similar shapes are in a single ratio, the scale factor. In a right-angled triangle, the trigonometric ratios (for example opposite ÷ hypotenuse) stay the same when the triangle is enlarged. That is why sin, cos and tan depend only on the angle. You can also compare any two lengths, areas or volumes with a ratio (both tiers): use the same units, then simplify, so 0.6 m² : 1500 cm² = 6000 : 1500 = **4 : 1**. How areas and volumes scale in similar figures is covered in the Geometry and measures topic.
@@ -132,6 +176,12 @@ Lengths in similar shapes are in a single ratio, the scale factor. In a right-an
 - **Instantaneous rate of change (Higher tier only, R15):** the gradient of the **tangent** at a point. Draw the tangent with a ruler, pick two points far apart on it, and find rise ÷ run.
 - Always give units: for depth in cm against time in minutes, the rate is in cm per minute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
+
 ## Growth and decay (R16)
 
 Compound interest: **Total accrued = P(1 + r/100)ⁿ**. You must know this formula; it is not given in the exam.
@@ -141,6 +191,17 @@ Compound interest: **Total accrued = P(1 + r/100)ⁿ**. You must know this formu
 - "How many years until…" questions: work out successive powers until the value first passes the target.
 
 **General iterative processes (Higher tier only):** a rule such as uₙ₊₁ = 0.5uₙ + 12 with u₀ = 30 gives u₁ = 27, u₂ = 25.5, u₃ = 24.75. Feed each answer back into the rule, and keep full values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-revision-notes--02-iterative-process.webp" width="900" height="900" alt="Bars show 30, 27, 25.5 and 24.75 from the rule next term = 0.5 times last term + 12 starting at 30. Arrows show each step; a dashed line at 24 shows the values closing in." loading="lazy">
+  <figcaption>Each answer is fed back into the rule to give the next term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--07-simple-vs-compound-interest.webp" width="900" height="950" alt="A graph of 1000 pounds over 5 years at 3 percent. Simple interest rises in equal steps to 1150 pounds (multiplier 1.15). Compound interest curves slightly higher to 1159.27 pounds (multiplier 1.03 to the power 5, about 1.159). The vertical axis starts at 1000." loading="lazy">
+  <figcaption>Compound interest multiplies by 1.03^5 = 1.159; simple interest by 1.15.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

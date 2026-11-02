@@ -41,6 +41,52 @@ simplicity; real PPCs are typically bowed outward.
 
 **Specialisation and exchange.** Specialisation raises output through practice, mechanisation and economies of scale, but creates interdependence, which requires exchange. Without money, trade needs a **double coincidence of wants** — each party wanting exactly what the other offers — which barter rarely delivers. Money solves this by acting as a medium of exchange, a measure of value, a store of value, and a means of deferred payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-introduction-revision-notes--01-straight-ppc-inside-curve.webp" width="900" height="940" alt="A straight-line PPC runs from 40 machinery to 80 food, so 2 food costs 1 machinery. At 50 food the curve allows 15 machinery. An economy making only 10 machinery sits inside the curve, meaning unemployed or inefficient resources." loading="lazy">
+  <figcaption>With 80 food or 40 machinery at the extremes, 50 food and 10 machinery lies inside the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--10-economic-problem-three-questions.webp" width="900" height="980" alt="Three cards. What to produce: for example more hospitals or more roads. How to produce: many workers or machines. For whom: who gets the goods and how income is shared. Below, a bar showing who decides: markets, a mix, or the government. Resources are scarce and wants are unlimited, so every society must choose." loading="lazy">
+  <figcaption>Scarcity forces every society to decide what, how and for whom to produce, and who decides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--12-opportunity-cost-runner-up.webp" width="900" height="840" alt="Two ranked lists. A student with 40 pounds ranks a concert ticket first, trainers at 35 pounds second and a game at 25 pounds third. She buys the ticket, so her opportunity cost is the trainers only. A council with 60 million pounds ranks a bypass first, a health clinic second and a sports centre third. It builds the bypass, so the opportunity cost is the clinic. Examples 1 and 3 from the lesson." loading="lazy">
+  <figcaption>Opportunity cost is only the next best option given up: trainers for the student, the clinic for the council.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--11-capital-vs-money.webp" width="900" height="820" alt="Two panels. Capital, a factor of production, means productive equipment such as an oven, a mixer and a delivery van, which make other goods and earn interest. Money, or finance, means cash and savings and is not a factor of production. An arrow shows that money is used to buy capital." loading="lazy">
+  <figcaption>Capital is equipment that makes goods; money is finance that can buy capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--05-economic-groups-interdependence.webp" width="900" height="900" alt="Consumers supply labour and spend with producers; producers pay wages, rent and profit. Both pay taxes to the government, which provides services and benefits to both. Breaking one link affects the others." loading="lazy">
+  <figcaption>Consumers, producers and the government depend on each other through flows of money and services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+
 ## Where this topic's content stops
 
 Demand, supply, elasticity, competition and the role of money in financial markets are **Topic 2, The Role of Markets and Money** content (the second half of Component 01), not Introduction to Economics — see that topic's own notes. This topic's content is limited to the main economic groups, factors of production, and the basic economic problem (1.1 and 1.2) above.
@@ -138,3 +184,9 @@ the specific skill this sub-topic tests in scenario-based questions.
 4. Explain why money solves the double coincidence of wants problem created by specialisation and exchange.
 
 **Answers:** 1. The next best alternative forgone when a choice is made. 2. What, how, and for whom to produce; a market economy uses the price mechanism, a planned economy uses the state, and a mixed economy combines both. 3. The opportunity cost ratio is 2 food = 1 machinery. At 50 food, the curve allows (80 − 50) ÷ 2 = 15 machinery, but the economy produces only 10, so it lies inside the curve — resources are unemployed or used inefficiently. 4. Barter requires each party to want exactly what the other offers; money removes this requirement by acting as a medium of exchange that both parties accept, alongside serving as a measure of value, a store of value, and a means of deferred payment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+

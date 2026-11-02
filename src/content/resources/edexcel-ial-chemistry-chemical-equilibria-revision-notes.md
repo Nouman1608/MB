@@ -37,6 +37,12 @@ They cover Topic 13: Chemical Equilibria of the Pearson Edexcel International Ad
 | Partial pressure, p(A) | x(A) × total pressure; the pressure A would exert alone |
 | Position of equilibrium | How much of the mixture is on the reactant side and how much on the product side |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--08-kp-partial-pressure.webp" width="900" height="930" alt="Two aligned bars show mole fractions of N2, H2 and NH3 (0.250, 0.625, 0.125) multiplied by 20.0 MPa to give partial pressures 5.00, 12.5 and 2.50 MPa. Kp = 2.50^2 / (5.00 x 12.5^3) = 6.40 x 10^-4 MPa^-2." loading="lazy">
+  <figcaption>Partial pressure is mole fraction times total pressure, and Kp uses partial pressures of gases only.</figcaption>
+</figure>
+
+
 ## Formulae at a glance
 
 | Quantity | Expression |
@@ -94,6 +100,17 @@ Kp = 1.10 / (0.40 × 0.25) = **11.0 atm⁻¹**
 
 **How to explain it with K.** After the change, the fraction in the K expression no longer equals K. The mixture reacts until it does. For example, doubling the pressure on 2A(g) ⇌ B(g) halves the fraction p(B) / p(A)², so more A turns into B.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
+  <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
+  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
+</figure>
+
+
 ## 13.6 and 13.7: temperature changes K
 
 | Forward reaction | Raise T | Lower T |
@@ -102,6 +119,17 @@ Kp = 1.10 / (0.40 × 0.25) = **11.0 atm⁻¹**
 | Endothermic | K larger; equilibrium moves right | K smaller; equilibrium moves left |
 
 The order of the explanation matters: **temperature changes K first**, and the composition then changes so that the fraction matches the new K.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
+</figure>
+
 
 ## 13.8: entropy, temperature and K
 
@@ -179,6 +207,12 @@ These are rough guides. A large K does not mean a fast reaction: kinetic stabili
 - Explaining a temperature effect without saying that K changes.
 - Mixing kJ and J in ΔSsurroundings.
 - Treating a large K as proof that a reaction is fast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
 
 ## Next steps
 

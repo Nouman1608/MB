@@ -69,6 +69,27 @@ Price rises from 20 to 25 and quantity supplied from 160 to 200 in an illustrati
 
 Memory aid: extend a straight supply line back. Meeting the price axis means elastic. Meeting the quantity axis means inelastic. Passing through the origin means unitary, however steep it is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--01-pes-constant-shapes.webp" width="900" height="1140" alt="Four supply diagrams. A vertical line is perfectly inelastic with PES 0. A horizontal line is perfectly elastic with PES infinity. Two straight lines through the origin, one steep and one shallow, both have PES exactly 1 because price and quantity double together." loading="lazy">
+  <figcaption>A straight line through the origin has PES 1 however steep it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--02-pes-intercept-rule.webp" width="900" height="1170" alt="Two straight supply lines. One meets the price axis above zero and has PES 2.0 at price 4 and about 1.3 at price 8, so it is elastic at every point. The other meets the quantity axis to the right of the origin and has PES about 0.67 at price 4 and 0.80 at price 8, so it is inelastic at every point." loading="lazy">
+  <figcaption>Where a straight supply line meets an axis decides whether PES is above or below 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--05-pes-method.webp" width="900" height="790" alt="Old and new bars for price (40 to 46, +15%) and quantity supplied (500 to 560, +12%). PES = 12 / 15 = 0.8, below one, so inelastic." loading="lazy">
+  <figcaption>PES compares the percentage rise in output with the percentage rise in price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--06-pes-predict.webp" width="900" height="690" alt="Flow 1: PES 1.5, price +8% gives output +12%, 2 000 tiles become 2 240. Flow 2: PES 0.4, wanted output +6% needs price +15%, 80 vels becomes 92 vels." loading="lazy">
+  <figcaption>Rearrange PES to find the output change from a price change, or the price change an output target needs.</figcaption>
+</figure>
+
+
 ## Determinants of PES
 
 | Determinant | Raises PES | Lowers PES |
@@ -81,6 +102,22 @@ Memory aid: extend a straight supply line back. Meeting the price axis means ela
 
 How to use these in an answer: name the determinant, say whether it makes supply more or less responsive, and tie it to the product in the question. For example, "the firm is operating at full capacity, so extra output requires new machines, which lowers PES in the short run."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--07-pes-time.webp" width="900" height="810" alt="After a 10% price rise, output rises 1% in a week (PES 0.1), 6% in a year (PES 0.6) and 15% in five years (PES 1.5), crossing the 10% line." loading="lazy">
+  <figcaption>The same product moves from inelastic to elastic as the time allowed grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--08-pes-determinants.webp" width="900" height="960" alt="Five sliders from lower to higher PES: time, mobility of factors, unused capacity, ability to store, and rate of cost increase, with the low-PES and high-PES condition at each end." loading="lazy">
+  <figcaption>Each determinant has a low-PES end and a high-PES end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+
 ## HL only: primary commodities and manufactured goods
 
 The PES of primary commodities is generally lower than that of manufactured products. Reasons to remember:
@@ -92,6 +129,12 @@ The PES of primary commodities is generally lower than that of manufactured prod
 - Weather and geology interfere with planned output.
 
 Manufacturers generally have more flexibility with shifts, machinery and stocks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

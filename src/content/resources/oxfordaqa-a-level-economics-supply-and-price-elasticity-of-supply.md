@@ -64,6 +64,32 @@ Quantity supplied therefore rises as price rises.
 
 Market supply is the sum of the quantities every firm supplies at each price. You add horizontally. Suppose three bakeries have supply curves Qs = 80P − 40, Qs = 70P − 30 and Qs = 50P − 30. At a price of 2.00 they supply 120, 110 and 70 loaves, so the market supplies 300. At 3.00 they supply 200, 180 and 120, a total of 500. Both totals match the schedule above, so the market curve is Qs = 200P − 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--06-supply-market-sum.webp" width="900" height="930" alt="Supply lines for three bakeries and the market. At a price of 2.00 they supply 120, 110 and 70 loaves, shown as a stacked bar totalling the market 300. Market supply Qs = 200P - 100 is the horizontal sum." loading="lazy">
+  <figcaption>Market supply is found by adding quantities across firms at each price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--07-supply-tax-and-cost-shifts.webp" width="900" height="1190" alt="A per-unit tax of 0.30 moves the supply curve up 0.30 or left 60 loaves (300 to 240 at price 2). New ovens move it right 60 loaves (300 to 360, up 20%)." loading="lazy">
+  <figcaption>A tax shifts supply left, a cost fall shifts it right, by the same 60 loaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--08-supply-schedule-plot.webp" width="900" height="850" alt="Five points from (1.00, 100) to (3.00, 500) lie on the line Qs = 200P - 100, which meets the price axis at 0.50." loading="lazy">
+  <figcaption>Plotting the schedule gives an upward-sloping straight-line supply curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## 2. Movements along and shifts of the supply curve
 
 When the price of the good itself changes, you move along the same curve. This is an extension or a contraction of supply. Any other determinant changing causes a shift of the whole curve. A shift to the right is an increase in supply (more supplied at every price). A shift to the left is a decrease in supply.
@@ -115,6 +141,12 @@ In Country B, the price of tomatoes rises by 8%. Within a few weeks quantity sup
 - Short run: PES = 2.4 ÷ 8 = **0.3** (inelastic)
 - Long run: PES = 12 ÷ 8 = **1.5** (elastic)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--11-pes-short-long-run.webp" width="900" height="830" alt="Price rises 8%; quantity rises 2.4% within weeks (PES 0.3) and 12% after two seasons (PES 1.5)." loading="lazy">
+  <figcaption>Supply is more elastic when firms have more time.</figcaption>
+</figure>
+
+
 ### Worked example 3: finding the quantity
 
 PES for a product is 0.6. Its price rises from 50 to 56, and quantity supplied was 5,000.
@@ -122,6 +154,17 @@ PES for a product is 0.6. Its price rises from 50 to 56, and quantity supplied w
 - % change in price = 6 ÷ 50 × 100 = 12%
 - % change in quantity = 0.6 × 12 = 7.2%
 - New quantity = 5,000 × 1.072 = **5,360**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--09-pes-worked-bakery.webp" width="900" height="850" alt="A price rise from 2.00 to 2.50 (+25%) moves quantity from 300 to 400 (+33.3%) along the bakery supply curve, so PES = 1.33." loading="lazy">
+  <figcaption>PES divides the percentage change in quantity by the percentage change in price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--12-pes-find-new-quantity.webp" width="900" height="890" alt="Price 50 to 56 is +12%; with PES 0.6 quantity rises 7.2%, so 5,000 becomes 5,360." loading="lazy">
+  <figcaption>Multiply the price change by PES, then apply it to the old quantity.</figcaption>
+</figure>
+
 
 ### Interpreting the value
 
@@ -133,6 +176,12 @@ PES for a product is 0.6. Its price rises from 50 to 56, and quantity supplied w
 | Above 1 | Elastic | Quantity changes by a larger percentage than price |
 | Infinite | Perfectly elastic | Firms supply any amount at one price (a horizontal curve) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--10-pes-categories.webp" width="900" height="900" alt="Five small diagrams: vertical (PES 0), line cutting the quantity axis (below 1), line through the origin (1), line cutting the price axis (above 1) and horizontal (infinity)." loading="lazy">
+  <figcaption>Each PES category has its own supply-curve shape.</figcaption>
+</figure>
+
+
 ### Straight-line supply curves
 
 You can tell the elasticity of a straight supply curve from where it meets an axis, without calculating:
@@ -142,6 +191,22 @@ You can tell the elasticity of a straight supply curve from where it meets an ax
 - A line that meets the quantity axis has PES below 1 at every point, rising towards 1 as you move up it.
 
 Check the first case with a point: if Qs = 200P, at P = 2 the quantity is 400 and PES = (200 × 2) ÷ 400 = 1. The bakery curve meets the price axis at 0.50, and its PES is 2.00 at a price of 1.00, 1.33 at 2.00 and 1.20 at 3.00. So a straight line does not have constant elasticity unless it starts at the origin. Do not confuse slope with elasticity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--08-supply-pes-line-rule.webp" width="900" height="1200" alt="Three straight supply lines with PES computed at prices 1, 2 and 3. Through the origin PES is 1.00 everywhere; the lesson bakery line meeting the price axis gives 2.00, 1.33, 1.20; a line meeting the quantity axis (illustrative) gives 0.67, 0.80, 0.86." loading="lazy">
+  <figcaption>The axis a straight line meets tells you whether PES is above, below or equal to 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply--09-supply-spare-capacity.webp" width="900" height="870" alt="A firm using 70% of capacity can grow output about 43% (30 / 70) without new plant; a firm at 98% only about 2%. More spare capacity means more elastic supply." loading="lazy">
+  <figcaption>Spare capacity limits how fast output can respond to a price rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## 4. Determinants of price elasticity of supply
 

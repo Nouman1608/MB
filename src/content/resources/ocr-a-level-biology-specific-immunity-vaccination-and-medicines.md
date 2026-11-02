@@ -49,6 +49,12 @@ An antigen is a molecule, usually a protein on the surface of a pathogen, that t
 4. Cytokines stimulate B cells that have bound the same antigen to divide and differentiate. Cytokines also activate T killer cells and attract and stimulate phagocytes.
 5. Most of the B cell clone becomes **plasma cells**, which secrete large quantities of one antibody. A few become B memory cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+
 ### The cells and their roles
 
 | Cell | Role |
@@ -60,6 +66,12 @@ An antigen is a molecule, usually a protein on the surface of a pathogen, that t
 | B memory | Long-lived, stays ready for the same antigen |
 
 T cells provide the **cell-mediated** response, because the cells themselves act. B cells provide the **humoral** response, because antibodies in body fluids act.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
 
 ## Primary and secondary responses (4.1.1(g))
 
@@ -82,6 +94,12 @@ Peak ratio = 750 / 30 = 25 times higher
 
 **Explanation:** the first exposure left B memory cells. They are already selected and are present in large numbers, so no time is spent finding a matching cell. They divide and form plasma cells at once. A vertical axis that covers a huge range is often drawn as a log scale, so equal steps then mean equal multiples, not equal amounts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
+
 ## Antibodies (4.1.1(h))
 
 Antibodies are **globulin proteins**, also called immunoglobulins, made by plasma cells. Each has quaternary structure and four polypeptide chains:
@@ -92,6 +110,17 @@ Antibodies are **globulin proteins**, also called immunoglobulins, made by plasm
 - a **constant region** that is the same in antibodies of one class. Cells such as phagocytes recognise it.
 
 The specificity comes from tertiary structure in the variable region, as with an enzyme and its substrate. A different antigen does not fit. General functions: bind to antigens, mark pathogens for destruction, and neutralise toxins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--05-antibody-structure.webp" width="900" height="1320" alt="An antibody is Y-shaped, with two heavy and two light chains joined by disulfide bridges, a flexible hinge, a variable region at each arm tip forming an antigen-binding site, and a constant stem. Two binding sites let one antibody link two pathogens, so they clump (agglutination)." loading="lazy">
+  <figcaption>Antibody structure explains its specificity and its ability to clump pathogens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## Opsonins, agglutinins and anti-toxins (4.1.1(i))
 
@@ -115,6 +144,12 @@ Active immunity is slow to start and long-lasting, because memory cells form. Pa
 ## Autoimmune disease (4.1.1(k))
 
 An **autoimmune disease** happens when the immune system fails to distinguish self from non-self and attacks the body's own tissues. In **rheumatoid arthritis**, the immune system attacks tissues in the joints, causing inflammation, pain and damage to cartilage. Treatment often uses drugs that suppress immune activity. The cost is a greater risk of infection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
 
 ## Vaccination (4.1.1(l))
 
@@ -177,6 +212,12 @@ Resistant after 8 h = 20 x 2^16 = 1 310 720, about 1.3 x 10^6
 ```
 
 Reducing resistance: use antibiotics only when needed and as prescribed, do not use them for viruses, prevent infection by hygiene and vaccination, and develop new antibiotics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## Common errors
 

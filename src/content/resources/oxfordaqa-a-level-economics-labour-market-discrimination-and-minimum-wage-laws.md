@@ -75,6 +75,17 @@ Now a law requires one wage for both groups. Where both supply, combined supply 
 
 Group B gains 6.4 an hour and 16 jobs, group A loses, and total employment is unchanged in this linear case. Pay is still below MRP of 40: that is the monopsony effect, not discrimination.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--08-discrimination-two-groups.webp" width="900" height="1110" alt="Two diagrams with MRP 40. Group A with supply elasticity 4.0 gets a wage of 32 and 80 jobs; group B with elasticity 1.5 gets 24 and 40 jobs. B is paid 25 percent less. Surplus is 640 on each group." loading="lazy">
+  <figcaption>Less elastic supply means a lower wage for equal productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ### Effects on wages, levels and types of employment
 
 **Wages.** A pay gap compares average pay. Five men in a firm earn 14, 16, 18, 20 and 32 an hour. Five women earn 12, 14, 16, 18 and 20.
@@ -88,6 +99,12 @@ The mean is pulled up by the 32, so compare both. The raw gap also overstates di
 
 **Types of employment.** Occupational segregation, a glass ceiling to promotion and over-representation in part-time or insecure work are all patterns. The crowding model shows the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--02-un228-pay-gap-mean-median.webp" width="900" height="1000" alt="Two number lines show five men earning 14, 16, 18, 20 and 32 and five women earning 12 to 20. Means are 20 and 16, medians 18 and 16. Mean gap 20%, median gap 11.1%." loading="lazy">
+  <figcaption>The 32 pulls the men's mean up, so the mean gap (20%) exceeds the median gap (11.1%).</figcaption>
+</figure>
+
+
 ### Worked example 2: crowding
 
 Country B has 300 equally skilled workers: 100 in group P and 200 in group Q. Two occupations each have labour demand w = 30 − 0.1L. Without discrimination 150 work in each and the wage is 15 in both. Output value in one occupation is the area under the demand curve, 30L − 0.05L². Two occupations at L = 150 give 2 × (4,500 − 1,125) = **6,750**.
@@ -99,6 +116,12 @@ Now group Q is excluded from occupation 1. Group P's 100 workers take all the oc
 * Output value: (3,000 − 500) + (6,000 − 2,000) = 6,500, which is 250 (3.7%) less than 6,750.
 
 Crowding lowers pay where the excluded group is concentrated, raises it where they are barred, and wastes output through misallocation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--09-crowding-model.webp" width="900" height="1170" alt="Demand w = 30 - 0.1L in both occupations. Excluding group Q from occupation 1 gives wages of 20 and 10, a 50 percent gap, and output falls from 6,750 to 6,500 (down 250, 3.7 percent)." loading="lazy">
+  <figcaption>Crowding lowers pay for the excluded group and wastes output.</figcaption>
+</figure>
+
 
 ### Advantages and disadvantages
 
@@ -113,6 +136,12 @@ Crowding lowers pay where the excluded group is concentrated, raises it where th
 * the size of the unexplained gap, not the raw one;
 * employer market power, since competition for workers erodes discrimination in the long run;
 * how strongly equal-pay law is enforced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--01-un228-one-wage-law.webp" width="900" height="940" alt="Clustered columns show hourly wage and jobs for groups A and B with and without a one-wage law. A goes 32 and 80 to 30.4 and 64; B goes 24 and 40 to 30.4 and 56. The firm surplus falls from 1,280 to 1,152." loading="lazy">
+  <figcaption>A law forcing one wage lifts group B by 6.4 an hour and 16 jobs and cuts the firm surplus by 10%.</figcaption>
+</figure>
+
 
 ## Minimum wage laws (3.3.4.6)
 
@@ -131,6 +160,12 @@ If demand were elastic, the bill would fall and the low paid as a group would lo
 
 Other effects. Firms may substitute capital for labour, cut hours or training, raise prices, or work informally. Higher pay may raise productivity and cut turnover, and low earners spend most of any extra income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--10-min-wage-competitive-12.webp" width="900" height="880" alt="Demand L = 900 - 30w, supply L = 40w + 200. A minimum of 12 cuts jobs from 600 to 540 and raises supply to 680, leaving 140 unemployed. The wage bill rises from 6,000 to 6,480." loading="lazy">
+  <figcaption>A floor above equilibrium creates unemployment of 140.</figcaption>
+</figure>
+
+
 ### Worked example 4: a monopsony
 
 Suppose one employer hires all the care assistants, and demand is its MRP: w = 30 − L/30. The supply curve is w = 0.025L − 5, so MC = 0.05L − 5.
@@ -148,6 +183,12 @@ Suppose one employer hires all the care assistants, and demand is its MRP: w = 3
 
 In a monopsony a modest floor raises both pay and employment. The gain peaks at the competitive wage. Above it, employment is set by demand and falls as in a competitive market. Here employment does not fall below 420 until the floor goes above 16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--11-min-wage-employment-by-floor.webp" width="900" height="940" alt="Employment against minimum wage. Competitive: 600 up to a floor of 10, then 540 at 12 and 420 at 16. Monopsony: 420 up to 5.5, rising to 600 at 10, then the same as competitive." loading="lazy">
+  <figcaption>In monopsony a modest floor raises jobs; above the competitive wage jobs fall.</figcaption>
+</figure>
+
+
 ### Advantages and disadvantages of a national minimum wage
 
 | Advantages | Disadvantages |
@@ -164,6 +205,17 @@ In a monopsony a modest floor raises both pay and employment. The gain peaks at 
 * **Ratio to median.** With median pay of 20, a minimum of 12 is 60% of the median. The higher the ratio, the more workers are affected and the greater the risk to jobs.
 
 **Evaluation.** The effect on jobs depends on the level relative to the median, the elasticity of labour demand (labour's share of costs, ease of substituting capital, elasticity of product demand), employer market power, the point in the cycle, and the time period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--03-un228-real-min-wage.webp" width="900" height="840" alt="The minimum wage rises 2.5% from 12 to 12.30 while prices rise 4.5%, giving a real wage of 11.77, down 1.9%. A bar shows 12 is 60% of median pay of 20." loading="lazy">
+  <figcaption>Real minimum 11.77 (down 1.9%) and a minimum of 60% of the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Common errors
 

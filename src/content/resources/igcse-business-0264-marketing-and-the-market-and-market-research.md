@@ -47,6 +47,12 @@ Marketing links a business to the people who buy from it. The role has five part
 - Building customer relationships. Businesses keep in touch through email, social media, feedback forms and friendly service. A customer who feels known is more likely to return and to recommend the business.
 - Anticipating changes in customer needs. Tastes, incomes and technology move on. A business that watches trends can adjust its range before sales fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--05-five-roles-of-marketing.webp" width="900" height="790" alt="A loop around the customer: identify needs, satisfy needs, keep loyalty, build relationships, anticipate change, then back to identifying." loading="lazy">
+  <figcaption>The five roles of marketing form a continuing loop around the customer.</figcaption>
+</figure>
+
+
 ## 3.1.2 Understanding market changes
 
 A market is where buyers and sellers meet to trade a product. Markets are never still.
@@ -95,6 +101,17 @@ Altamere's sales revenue grew by 10%, yet the market grew by about 17.9%. Its sh
 
 You may also be given the share and one other figure and asked to find the missing one. Rearrange: total market sales revenue = business sales revenue / market share × 100. If a firm has a 12% share on sales revenue of Rs 600,000, the market is 600,000 / 12 × 100 = Rs 5,000,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--01-market-share-altamere.webp" width="900" height="960" alt="Two bars to scale show the bakery market and Altamere inside it. Year 1: Rs 4.2 million of Rs 28 million, a 15 percent share. Year 2: Rs 4.62 million of Rs 33 million, 14 percent. Sales rose 10 percent, the market 17.9 percent, so share fell one point." loading="lazy">
+  <figcaption>Sales revenue can rise while market share falls, so always compare with the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--06-markets-change-firms-respond.webp" width="900" height="920" alt="Spending patterns change (income, fashion, age, technology, substitute prices, attitudes) and competition rises (more firms, online selling, easy price comparison). The business responds with research, product change, pricing, promotion, online selling or a new target group." loading="lazy">
+  <figcaption>Changing spending and rising competition lead to six possible business responses.</figcaption>
+</figure>
+
+
 ## 3.1.3 Mass markets and niche markets
 
 A **mass market** is a very large market where a product is sold to many customers. Examples are basic foods, mobile phone plans and everyday clothing. A **niche market** is a small part of a larger market with specific needs. An example is bicycles built for very tall riders, within the wider cycle market.
@@ -105,6 +122,12 @@ A **mass market** is a very large market where a product is sold to many custome
 | Niche market | Fewer competitors; customers may accept higher prices; loyal customers; specialist reputation | Small number of customers and limited growth; risk if the niche shrinks; larger firms may move in; higher unit costs from small output |
 
 **Worked example 2.** Norwenna Cycles makes frames for riders over 195 cm tall. There are few rivals, so it charges well above the price of standard frames and customers return because few others fit them. But total demand is small. If a large manufacturer began making tall frames, Norwenna could lose its main advantage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
 
 ## 3.1.4 Market segmentation
 
@@ -123,6 +146,12 @@ Segmentation splits a market into groups whose members have something in common,
 **Disadvantages:** research into each segment costs money; producing several versions can raise costs and reduce economies of scale; the business may focus on small segments and miss the bigger picture; groups overlap, so the segments are not always clear.
 
 **Worked example 3.** Pimlow Fitness runs a gym in a city. It offers low-price off-peak membership for students (age and income), a lunchtime express class for office workers (lifestyle) and a women-only morning session (gender). Each offer has its own advertising. This helps Pimlow fill quiet hours, but it must pay for extra instructors and separate advertising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## 3.2 Market research
 
@@ -149,6 +178,17 @@ Primary research is collecting new information for the first time for a specific
 
 General points on primary research: it is up to date and fits the exact question, but it costs more and takes longer than secondary research.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--07-observation-method.webp" width="900" height="930" alt="A three-level shelf with illustrative counts of 40 shoppers: 6 top, 22 eye level, 12 bottom. Observation records real behaviour but not why, and people may act differently if watched." loading="lazy">
+  <figcaption>Observation records what shoppers really do but not why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+
 ### Secondary research (desk research)
 
 Secondary research uses information that already exists and was collected for another purpose. Sources named in the syllabus are competitor websites, government sources, market reports and trade magazines.
@@ -169,6 +209,12 @@ A **sample** is a smaller group chosen from the whole population of customers to
 - Source reliability: a competitor's claims or a company with something to sell may not be neutral.
 - Interviewer or observer influence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--08-research-accuracy-factors.webp" width="900" height="965" alt="Four panels: 3 asked versus 32 asked, a sample from one group only, a leading versus neutral question, and old data versus the market now." loading="lazy">
+  <figcaption>Sample size, selection, question design and age of data all affect accuracy.</figcaption>
+</figure>
+
+
 ### Analysing simple market research data
 
 You may be given a table, a chart or a set of percentages and asked to read it, calculate from it and draw a conclusion.
@@ -183,6 +229,17 @@ You may be given a table, a chart or a set of percentages and asked to read it, 
 | Total | 400 | 162 | 40.5% |
 
 Steps: percentage = number who would buy / number in group × 100. Overall: 162 / 400 × 100 = 40.5%. Reading the table, interest falls with age. Interest is strongest in the under 25 group. A sensible conclusion is that Norwenna should aim early promotion at younger riders. If the sample is representative, about 40.5% of 8,000, or 3,240 customers, might be interested. Treat that as an estimate: stated intentions do not always become purchases, and email customers may differ from the wider market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--02-survey-data-reading.webp" width="900" height="970" alt="Bars show the percentage who would buy an electric bike: 55 percent under 25, 45 percent aged 25 to 44, 20 percent aged 45 and over, with the overall 40.5 percent marked. A strip shows 400 asked, 40.5 percent yes and about 3,240 of 8,000 customers as an estimate." loading="lazy">
+  <figcaption>Percentages by group show where interest is strongest, and the total gives only an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-and-the-market-and-market-research--09-why-use-market-research.webp" width="900" height="720" alt="Five reasons lead to better decisions: what customers want, less risk before launch, market changes, demand and prices, and competitors." loading="lazy">
+  <figcaption>Five reasons all lead to better decisions.</figcaption>
+</figure>
+
 
 ## Common errors
 

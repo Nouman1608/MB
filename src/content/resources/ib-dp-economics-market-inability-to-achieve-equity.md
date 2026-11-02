@@ -42,6 +42,12 @@ How the content is examined, as printed in the guide: HL candidates sit three pa
 - **Equality** means shares that are the same size. **Equity** means fairness, which is a judgement. A very unequal outcome may or may not be thought inequitable, but this sub-topic asks you to explain how the market produces the unequal outcome.
 - A **free market economy** is one where prices and quantities are set by buyers and sellers, with no government taking part.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## The circular flow model, drawn for this question
 
 The guide wants the circular flow model used to show *why* inequalities arise. A plain household and firm loop is enough. Name the two markets, the four flows and the four factor incomes.
@@ -67,6 +73,17 @@ The guide wants the circular flow model used to show *why* inequalities arise. A
 Read it in two steps. The households own the factors of production and sell their services to firms in the factor market. Firms pay factor incomes back. Households then spend that income in the product market, which gives firms their revenue.
 
 The inequality is created at the **factor market**. The size of each household's income depends on two things: how many units of each factor it owns, and the price those factors fetch. Both differ widely across households, and nothing inside the loop evens them out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--10-equity-factor-market-loop.webp" width="900" height="970" alt="HL only. Households on the left and firms on the right, joined by two markets. In the product market, households spend and firms supply goods and services. In the factor market, households sell factor services (labour, land, capital, enterprise) and firms pay back factor incomes (wages, rent, interest, profit). The factor market is highlighted because inequality starts there: household H1 owns only labour and receives only wages, while household H10 owns all four factors and receives wages, rent, interest and profit. There is no government in the loop." loading="lazy">
+  <figcaption>Households sell factor services in the factor market, so inequality starts there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
 
 ## Why the free market results in unequal income
 
@@ -106,6 +123,12 @@ Veldmark is an invented free market economy with no government. Total factor inc
 
 **Link to the diagram:** the factor-market arrow carries the same total to every group of households, but the contents of each household's arrow differ. The ones holding capital, land and a business receive more arrows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--11-equity-veldmark-incomes.webp" width="900" height="930" alt="HL only. Ten equal households in an invented free market economy, with total income 1,000 veld. Stacked bars split each household income into wages, interest, rent and profit. H1 receives 25, all wages. H10 receives 260, of which 110 is wages and 150 is interest, rent and profit. The poorest four households receive 150, which is 15 percent of income; the richest two receive 440, which is 44 percent. Property income is 345, which is 34.5 percent of all income, and the three richest households receive 280 of it." loading="lazy">
+  <figcaption>Stacked bars show wage and property income for ten households.</figcaption>
+</figure>
+
+
 ## Worked example 2: two labour markets
 
 Factor prices come from demand and supply. In Veldmark, the market for basic service workers has demand Qd = 600 - 10w and supply Qs = 20w, where w is the hourly wage in veld and Q is thousands of hours. The market for specialist engineers has Qd = 500 - 2w and Qs = 3w.
@@ -117,6 +140,12 @@ Specialist engineers: 500 - 2w = 3w gives 5w = 500, so w = 100. Then Q = 3 x 100
 Check: 600 - 10(20) = 400 and 500 - 2(100) = 300, both equal the supply figures.
 
 The specialist wage is 100 / 20 = 5 times the basic wage. On a diagram of each market, the equilibrium wage sits where the demand and supply curves cross. The engineers' supply curve is steeper and further left because training is long and costly, and demand is strong. Nobody set this gap. It emerged from the two markets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--12-equity-two-labour-markets.webp" width="900" height="1010" alt="HL only. Hourly wage in veld against hours of work in thousands. Basic service workers: demand Qd = 600 − 10w and supply Qs = 20w meet at wage 20 and 400 thousand hours. Specialist engineers: demand Qd = 500 − 2w and supply Qs = 3w meet at wage 100 and 300 thousand hours. The engineers’ wage is five times the basic wage, and no one set the gap; it came out of the two markets." loading="lazy">
+  <figcaption>Two labour markets clear at wages of 20 and 100.</figcaption>
+</figure>
+
 
 ## Worked example 3: wealth builds on itself
 
@@ -137,6 +166,12 @@ Continuing the same steps for each year:
 | 5 | 270.56 | 1,011.14 | 56.11 | 122.17 |
 
 The income gap widens from 260 - 55 = 205 veld in year 1 to 270.56 - 56.11 = 214.45 veld in year 5. Both households save, yet the one that starts with more gains more in money terms each year. No policy and no wrongdoing is needed for this: the market's own workings widen the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--13-equity-wealth-snowball.webp" width="900" height="1030" alt="HL only. Capital earns 5 percent a year. Household H10 starts with wealth 800, other income 220 and saves 20 percent of income. Year 1: income 260, saving 52, wealth next year 852. Household H4 starts with wealth 100, other income 50 and saves 10 percent. Year 1: income 55, saving 5.5, wealth next year 105.5. Income bars show the gap widening from 205 in year 1 (260 against 55) to 214.45 in year 5 (270.56 against 56.11), with no policy or wrongdoing needed." loading="lazy">
+  <figcaption>H10 and H4 each save, but the household with more starting wealth gains more each year.</figcaption>
+</figure>
+
 
 ## How to answer an exam question on this
 

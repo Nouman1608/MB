@@ -90,6 +90,22 @@ Number of sides (regular)  = 360° ÷ exterior angle
 
 **Congruent** means the same shape and the same size (reflections included).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--02-polygonSum.webp" width="900" height="1090" alt="A regular octagon is split into 6 triangles from one corner, so its angles total 6 x 180 = 1080 degrees = (16 - 4) x 90. A quadrilateral, pentagon and hexagon show 360, 540 and 720 degrees." loading="lazy">
+  <figcaption>Triangles from one corner explain the (2n - 4) x 90 degree angle sum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--05-regular-polygons.webp" width="900" height="1100" alt="A pentagon has 5 lines each from a vertex to the opposite side midpoint, order 5 and turn 72 degrees. An octagon has 8 lines, 4 vertex to vertex and 4 midpoint to midpoint, order 8 and turn 45 degrees. A turn of 24 degrees gives 15 sides and an interior angle of 156 degrees." loading="lazy">
+  <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
+</figure>
+
+
 ## Measures (4.4)
 
 - **Bearings**: from north, clockwise, three figures. Back bearing = bearing ± 180°.
@@ -121,6 +137,17 @@ Number of sides (regular)  = 360° ÷ exterior angle
 
 Keep arcs visible. Scale drawings: real length = map length × scale factor, then convert units (100 000 cm = 1 km).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--10-perp-bisector.webp" width="900" height="930" alt="Line AB of 6 units with arcs of radius 4 from A and B crossing above and below; joining the crossings gives the perpendicular bisector through the midpoint M with a right angle." loading="lazy">
+  <figcaption>Equal arcs from both ends cross on the perpendicular bisector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--03-bisector.webp" width="900" height="900" alt="Angle ABC of 70 degrees is bisected: an arc from B cuts both arms, equal arcs from the cuts meet at X, and the line BX makes two 35 degree angles." loading="lazy">
+  <figcaption>Angle bisector construction with arcs kept visible.</figcaption>
+</figure>
+
+
 ## Circle facts (4.6)
 
 **Both tiers**
@@ -136,6 +163,22 @@ Keep arcs visible. Scale drawings: real length = map length × scale factor, the
 - Alternate segment theorem: angle between tangent and chord = angle in the alternate segment.
 - Intersecting chords inside: AX × XB = CX × XD.
 - Chords extended to meet outside at P: PA × PB = PC × PD.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--08-secants-product.webp" width="900" height="880" alt="From P, one line meets the circle at A and B with PA = 5 and AB = 7, another at C and D with PC = 4. PA × PB = 5 × 12 = 60 = PC × PD, so PD = 15 and CD = 11. Drawn to scale." loading="lazy">
+  <figcaption>PA × PB equals PC × PD for any two lines from P.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--09-alternate-segment.webp" width="900" height="860" alt="A tangent at T and chord TA make a 50° angle; the angle TBA at B in the alternate segment is also 50°. Computed from coordinates." loading="lazy">
+  <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--04-chords.webp" width="900" height="1000" alt="Two chords cross at X inside a circle with AX = 6, XB = 4, CX = 3, XD = 8. Both products equal 24." loading="lazy">
+  <figcaption>Intersecting chords: AX x XB = CX x XD.</figcaption>
+</figure>
+
 
 ## Trigonometry and Pythagoras (4.8)
 
@@ -158,6 +201,17 @@ The sine rule, cosine rule and ½ab sin C are on the Higher formulae sheet; Pyth
 1. Sketch the right-angled triangle you need, separately from the solid.
 2. Find any missing base length first (often a diagonal, using Pythagoras).
 3. For the angle between a line and a plane, use the triangle made by the line, its projection on the plane and the vertical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--11-bearing-components.webp" width="900" height="900" alt="A ship sails 12 km on bearing 040°: north part 12 cos 40° = 9.19 km and east part 12 sin 40° = 7.71 km, forming a right-angled triangle where 9.19² + 7.71² = 144." loading="lazy">
+  <figcaption>A bearing splits into north = d cos θ and east = d sin θ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--05-ladder.webp" width="900" height="850" alt="A 6.5 m ladder with its foot 2.5 m from a wall reaches h = 6 m, since h squared = 42.25 - 6.25 = 36." loading="lazy">
+  <figcaption>Pythagoras with the ladder as the hypotenuse.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -207,6 +261,12 @@ Angle with opposite 5, hypotenuse 8:  sin⁻¹(5/8) = 38.7°
 11. **36.9° and 143.1°** (1 d.p.)
 12. ½ × 5 × 8 × sin 150° = 20 × 0.5 = **10 cm²**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--01-triExterior.webp" width="900" height="820" alt="A triangle with angles 65, 80 and 35 degrees found from x = 30, with a side extended to show the 145 degree exterior angle equals 65 + 80." loading="lazy">
+  <figcaption>The exterior angle of a triangle equals the sum of the two interior opposite angles.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving a reason as "Z angles" or "F angles" instead of "alternate angles are equal" or "corresponding angles are equal".
@@ -223,3 +283,9 @@ Angle with opposite 5, hypotenuse 8:  sin⁻¹(5/8) = 38.7°
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 4, Geometry and trigonometry, sections 4.1–4.8 (Foundation and Higher tier content).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+

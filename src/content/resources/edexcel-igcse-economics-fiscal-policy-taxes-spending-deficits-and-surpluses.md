@@ -46,6 +46,12 @@ Fiscal policy is set in the government's budget. Two directions are worth naming
 - **Expansionary** (or reflationary) fiscal policy: higher government spending, lower taxes, or both. It aims to raise total demand.
 - **Contractionary** fiscal policy: lower government spending, higher taxes, or both. It aims to reduce total demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--06-expansion-vs-contraction.webp" width="900" height="720" alt="Two columns with arrows. Expansionary: government spending up, taxes down, total demand up. Contractionary: government spending down, taxes up, total demand down. Either tool alone, or both together." loading="lazy">
+  <figcaption>Expansionary policy raises demand; contractionary policy reduces it.</figcaption>
+</figure>
+
+
 ## 2. Government revenue: direct and indirect taxes
 
 Government revenue is the money the state receives, and most of it comes from taxes.
@@ -81,6 +87,22 @@ For gross pay of 15,000: tax = 5,000 at 20% = 1,000; net pay = **14,000**; avera
 Country A charges a 12% sales tax. A coat has a pre-tax price of 250. Tax = 250 × 0.12 = 30, so the shelf price is **280**.
 
 Now compare two households, both buying only taxed goods. A low-income household has an income of 12,000 and spends 9,000, tax included. The tax inside this spending is 9,000 × 12 ÷ 112 = 964.29, which is **8.04%** of its income. A high-income household has an income of 60,000 and spends 20,000. The tax inside is 2,142.86, which is only **3.57%** of income. A flat percentage tax on spending takes a bigger share of a low income, because poorer households spend most of what they earn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--07-income-tax-bands.webp" width="900" height="910" alt="Two bars to the same scale show bands of 0%, 20% and 40%. Pay of 42,000 pays 0, 4,000 and 4,800: tax 8,800, net 33,200, average rate 20.95%. Pay of 15,000 pays 1,000: net 14,000, average 6.67%." loading="lazy">
+  <figcaption>Each band is taxed at its own rate, so the average rate rises with income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--10-sales-tax-regressive.webp" width="900" height="890" alt="A coat costs 250 plus 30 sales tax = 280. Two bars each stand for a household income. The tax inside the low-income household spending is 8.04% of its income; for the high-income household it is 3.57%." loading="lazy">
+  <figcaption>A flat percentage tax on spending takes a bigger share of a low income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## 3. Government expenditure: the main areas
 
@@ -121,6 +143,17 @@ A deficit is a flow in one year. Deficits added together over time build up the 
 
 Country B (illustrative) collects 420 and spends 390, so it has a **surplus of 30**. With GDP of 2,500, that is 1.2% of GDP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--08-budget-deficit.webp" width="900" height="960" alt="Two stacked columns for Country A: revenue 850 (direct 430, indirect 370, other 50) and spending 1,000 in seven items. A dashed box shows the deficit of 150, which is 3.0% of GDP of 5,000." loading="lazy">
+  <figcaption>A deficit is spending minus revenue in one year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--07-deficit-vs-debt.webp" width="900" height="880" alt="A tub labelled national debt, a stock, filled with three yearly deficits of 150 each (an illustrative assumption), 450 in total, with an arrow pouring in a deficit of 150 in one year, a flow." loading="lazy">
+  <figcaption>Yearly deficits add up to the national debt.</figcaption>
+</figure>
+
+
 ## 5. The impact of a deficit and of a surplus
 
 **A deficit can help.**
@@ -145,6 +178,12 @@ Country B (illustrative) collects 420 and spends 390, so it has a **surplus of 3
 - Cuts may hit healthcare, education or infrastructure, which affect long-run output.
 
 A balanced budget is the in-between case, where revenue equals spending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--08-deficit-harm.webp" width="900" height="950" alt="A bar of Country A revenue 850 with 60 (7.1%) going to debt interest and 790 left for services, and a four-step chain: government borrows more, interest rates may rise, firms pay more to borrow, private investment falls (crowding out)." loading="lazy">
+  <figcaption>Debt interest takes 7.1% of revenue, and heavy borrowing can crowd out private investment.</figcaption>
+</figure>
+
 
 ## 6. Fiscal policy and the macroeconomic objectives
 
@@ -175,6 +214,27 @@ Country D (illustrative) has GDP of 60,000 (millions) and cuts income tax so tha
 
 The tax cut helps growth, but only part of it stays in the economy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--09-tax-cut-leakages.webp" width="900" height="900" alt="Step-down bars in million: extra income 1,200, minus 240 saved, minus 240 spent on imports, leaving 720 added to domestic demand, which is 1.2% of GDP of 60,000." loading="lazy">
+  <figcaption>Only part of a tax cut becomes extra domestic demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--09-country-c-growth-chain.webp" width="900" height="810" alt="A waterfall of three bars: government spends 60 (3.0% of GDP), workers and suppliers spend 30 more (1.5%), giving a total rise in GDP of 90 (4.5%) on a GDP of 2,000, 1.5 times the first spend." loading="lazy">
+  <figcaption>A 60 spend (3.0% of GDP) becomes a 90 rise in GDP (4.5%) once the money is spent again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+
 ## 7. Evaluating fiscal policy
 
 An evaluation answer weighs points and reaches a supported conclusion. Useful points:
@@ -184,6 +244,12 @@ An evaluation answer weighs points and reaches a supported conclusion. Useful po
 - **State of the economy.** Expansion works best when resources are idle. When the economy is close to full capacity, it mainly pushes prices up.
 - **Cost.** Borrowing to fund expansion raises the deficit and debt.
 - **Who is affected.** Tax rises hit some groups harder than others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--10-spare-capacity.webp" width="900" height="920" alt="Two panels with bars showing capacity used (illustrative). With idle resources, extra demand lifts output a lot and prices barely move. Near full capacity, output barely rises and prices rise." loading="lazy">
+  <figcaption>Extra demand raises output when resources are idle and prices when the economy is near capacity.</figcaption>
+</figure>
+
 
 ## Common errors
 

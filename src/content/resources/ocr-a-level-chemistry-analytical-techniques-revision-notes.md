@@ -83,6 +83,12 @@ In examinations the specification says IR absorption data are given on the Data 
 
 **Worked reminder.** Butanal oxidised under reflux to butanoic acid: the strong C=O at about 1700 cm⁻¹ stays, and a very broad O–H appears across 2500–3300 cm⁻¹. Butan-1-ol oxidised to butanal: the broad O–H at 3200–3600 cm⁻¹ goes, and C=O appears.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## 4.2.4(e): IR in the real world
 
 - Each gas absorbs at its own wavenumbers, so one gas can be measured in a mixture. More gas means more absorption.
@@ -100,6 +106,12 @@ In examinations the specification says IR absorption data are given on the Data 
 | M+1 peak | small peak one unit above M⁺, from molecules containing a carbon-13 atom |
 
 Not needed: mass spectra of organic halogen compounds, which the specification says you will not be expected to interpret.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
 
 ## 4.2.4(g): Fragmentation
 
@@ -122,6 +134,12 @@ Not needed: mass spectra of organic halogen compounds, which the specification s
 4. Look for peaks that are **missing** too. No peak at 29 hints at no ethyl group.
 
 **Worked reminder.** A compound has M⁺ at m/z 128 and peaks at 113 and 85. 128 − 113 = 15, so •CH₃ is lost. 128 − 85 = 43, so a piece of mass 43 (•C₃H₇ or •CH₃CO) is lost. Suggest groups that fit, then check them against the IR evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ## 4.2.4(h): Combined techniques
 

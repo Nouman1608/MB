@@ -51,6 +51,17 @@ A hybridoma behaves like both parent cells. From the lymphocyte it gets the abil
 **Worked example.** Explain why the tumour cell is needed.
 A normal lymphocyte cannot go on dividing for long, so it would give only a small amount of antibody. The tumour cell divides repeatedly, so the hybridoma forms a large clone that keeps making the same antibody.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--07-mab-production.webp" width="900" height="1140" alt="Six steps: inject a mouse with the antigen; take antibody-making B lymphocytes from the spleen; fuse them with myeloma tumour cells to make hybridomas; screen and keep the right hybridomas; clone and culture them; collect and purify identical antibodies. The lymphocyte supplies the antibody and the tumour cell supplies unlimited division." loading="lazy">
+  <figcaption>Monoclonal antibodies are made by fusing antibody-making lymphocytes with tumour cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
+
 ## B6.3n Uses of monoclonal antibodies (Higher Tier only)
 
 Because a monoclonal antibody binds one antigen and nothing else, it can be used to find that antigen or to carry something to it.
@@ -79,6 +90,17 @@ Cancer cells carry antigens on their surface that are rare on healthy cells. A m
 | Still not risk-free | Some healthy cells carry the antigen, and the treatment is costly |
 
 Treatment of this kind is described in the specification as a potential use, so know it as a developing approach.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--08-pregnancy-strip.webp" width="900" height="1040" alt="A strip with mobile antibodies on beads at the wet end. hCG binds them and flows along; the test line fixes hCG-bead complexes; the control line fixes all mobile antibodies. Two lines: positive. Control only: negative. No control line: invalid." loading="lazy">
+  <figcaption>A pregnancy test uses antibodies to detect the hormone hCG; the control line shows the test worked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--06-monoclonal-antibody-drug-delivery-and-psa.webp" width="900" height="1180" alt="Top: antibodies carrying a drug bind antigens on a tumour cell but pass by a healthy cell with no antigen. Bottom: antibodies hold PSA in blood samples; a raised sample has more PSA (9 against 3 shown), which calls for more tests but is not proof of cancer." loading="lazy">
+  <figcaption>One antibody binds one target: it can carry a drug or measure a protein.</figcaption>
+</figure>
+
 
 ## B6.3p Aseptic techniques in culturing organisms
 
@@ -109,6 +131,22 @@ Clear zone radius = 12 mm, disc radius = 3 mm. Area = π × 12² − π × 3² =
 
 The same data can be shown as a bar chart. Check that the axes carry units and that you read from the correct bar.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--09-aseptic-technique.webp" width="900" height="1140" alt="Six panels: wipe the bench with alcohol; autoclave glassware and media at about 121 degrees for 15 minutes; flame the loop red hot and cool it in air; work near a Bunsen flame whose updraught carries microbes away; lift the lid only slightly and briefly; hold the lid on with a few short pieces of tape." loading="lazy">
+  <figcaption>Aseptic technique keeps unwanted microorganisms out of a culture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--09-culture-plate-areas-pi-r-squared.webp" width="900" height="1010" alt="A colony of diameter 9 mm has radius 4.5 mm and area 63.6 mm². A 6 mm disc in a 24 mm clear zone leaves pi x 12² minus pi x 3² = about 424 mm² of clear agar." loading="lazy">
+  <figcaption>Use the radius, not the diameter, in pi r².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--10-incubation-tape-inverted-25c-control.webp" width="900" height="1050" alt="Four panels: a few short pieces of tape so oxygen can enter, the dish incubated upside down, incubation at about 25 °C not 37 °C, and an uninoculated control plate that stays clear." loading="lazy">
+  <figcaption>School incubation: taped, inverted, 25 °C, with a control.</figcaption>
+</figure>
+
+
 ## B6.3q Discovery and development of new medicines
 
 Developing a medicine is slow, costly and often fails. The aim is a drug that works, is safe, and can be given at a suitable dose.
@@ -138,6 +176,27 @@ Drug: 78 ÷ 120 × 100 = 65%. Placebo: 42 ÷ 120 × 100 = 35%. Difference = 65 �
 The placebo group still improved, so some improvement is not caused by the drug. Only the 30-point gap can be credited to it.
 
 **Worked example (percentage change).** Laboratory cell counts fall from 5.0 × 10⁴ cells with no drug to 3.2 × 10⁴ with the drug. Percentage change = (3.2 − 5.0) ÷ 5.0 × 100 = −36%, a decrease of 36%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--10-clinical-trial-phases.webp" width="900" height="1080" alt="Preclinical tests (cells, computer models, animals) come before any person. Phase 1: a small group of healthy volunteers for safety. Phase 2: a small group of patients for effect, dose and side effects. Phase 3: a large group of patients compared with a placebo or current treatment." loading="lazy">
+  <figcaption>New medicines pass preclinical and three clinical phases with growing numbers of people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--11-placebo-comparison.webp" width="900" height="980" alt="Two grids of 120 patients. 78 improved on the new drug (65 percent) and 42 on the placebo (35 percent). The difference of 30 percentage points is credited to the drug." loading="lazy">
+  <figcaption>A placebo group shows how much improvement is not caused by the drug.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--07-medicines-from-natural-sources.webp" width="900" height="980" alt="Willow bark led to aspirin, foxglove gives digoxin and Penicillium mould gave penicillin; today chemists also make and modify chemicals and screen many candidates." loading="lazy">
+  <figcaption>Many medicines began as chemicals from living things.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--08-phase3-double-blind-trial.webp" width="900" height="1020" alt="Identical drug and placebo pills mean nobody knows who gets which. In 120 patients on each, 78 improved on the drug (65%) and 42 on the placebo (35%); the 30 point gap is credited to the drug." loading="lazy">
+  <figcaption>Double-blind design and a percentage comparison in a phase 3 trial.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -73,6 +73,12 @@ Method in steps:
 
 **Worked reminder.** Shop fittings costing 2,300 were debited to repairs. This is an error of principle. Dr Shop fittings 2,300, Cr Repairs 2,300. Narrative: fittings are capital expenditure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--03-journal-size.webp" width="900" height="910" alt="An invoice of 1,260 recorded as 1,620 needs a journal for only 360. A receipt of 520 posted to the wrong sides swings bank from minus 520 to plus 520, so the journal is 1,040." loading="lazy">
+  <figcaption>The journal is the excess for an original entry error but double for a complete reversal.</figcaption>
+</figure>
+
+
 ## 3.3 c: suspense account
 
 Use it when the trial balance does not agree, until the errors are found.
@@ -94,12 +100,29 @@ Method in steps:
 
 When a suspense account does not clear to nil, look for another error. If a transaction was left out entirely, suspense is not involved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--01-kelsby-tb-gap.webp" width="900" height="730" alt="Kelsby Bakery trial balance: debit column 141,328, credit column 141,660, so the credit side is 332 higher. The 332 is debited to suspense so both columns read 141,660." loading="lazy">
+  <figcaption>A higher credit total puts the difference as a debit in suspense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--02-kelsby-suspense.webp" width="900" height="800" alt="Suspense debit side: difference 332 and discount received 190 (522). Credit side: trade receivables 450 and rent 72 (522). It clears to nil; the error of principle never passes through it." loading="lazy">
+  <figcaption>The suspense account clears to nil once the three trial balance errors are corrected.</figcaption>
+</figure>
+
+
 ## 3.4 a: purpose of a bank reconciliation statement
 
 - To check that the cash book and the bank statement agree, apart from timing items.
 - To find errors made by the business or the bank.
 - To spot entries on the statement that are missing from the cash book.
 - To help detect fraud and show the true available balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--05-bank-statement-purpose.webp" width="900" height="780" alt="A cash book written by the business and a bank statement written by the bank are compared line by line. Five purposes: confirm payments reached the bank, find unrecorded bank entries, spot mistakes, show how much can safely be spent, detect unauthorised payments." loading="lazy">
+  <figcaption>The bank statement is an independent check on the cash book.</figcaption>
+</figure>
+
 
 ## 3.4 b: the process
 
@@ -119,6 +142,22 @@ When a suspense account does not clear to nil, look for another error. If a tran
 | Unpresented cheque | Reconciliation | Add to cash book balance |
 | Uncredited lodgement | Reconciliation | Deduct from cash book balance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--04-halvorn-sort.webp" width="900" height="660" alt="Ten Halvorn differences: seven are entered in the cash book (700, 12, 45, 120, 300, 230 and the 90 cheque correction); three timing items (380, 215 and 1,100) go on the reconciliation only." loading="lazy">
+  <figcaption>Sort each difference into update the cash book or reconciliation only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--01-brec-where-it-goes.webp" width="900" height="1050" alt="Bank charges, interest paid, direct debit and standing order are credits; bank interest received and credit transfer are debits. Outstanding bankings are added, unpresented cheques deducted and bank errors corrected on the reconciliation only." loading="lazy">
+  <figcaption>Items the bank knows first go in the cash book; items the business knows first only change the reconciliation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--08-bank-cashbook-sides.webp" width="900" height="900" alt="Debit side (money in): credit transfer, interest received, error too little received or too much paid. Credit side (money out): charges, interest paid, direct debit, standing order, error too much received or too little paid. Unpresented cheques and uncredited deposits are never entered." loading="lazy">
+  <figcaption>Which side each updating item goes on, and what must never be entered.</figcaption>
+</figure>
+
+
 ## 3.4 c: preparing the statement
 
 Layout when you start from the updated cash book:
@@ -137,6 +176,12 @@ If you start from the statement, the signs reverse: add uncredited lodgements an
 **Overdrawn accounts.** An overdrawn cash book is a credit balance. Treat overdrafts as negatives. Suppose the updated cash book shows an overdraft of 1,025, unpresented cheques are 520 and an uncredited lodgement is 610. Then (1,025) + 520 − 610 = (1,115). The statement shows an overdraft of 1,115.
 
 **Quick check before you write the answer.** Ask: is a statement item already in my cash book? If yes, it is a timing item or an error. If no, it is a cash book update. Ask this for every line on the statement and every line in the cash book, and tick each one as you go. An item you cannot match is the one that needs thought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--06-halvorn-reconcile.webp" width="900" height="740" alt="From 3,747, add unpresented cheques 595 and deduct the uncredited lodgement 1,100 to reach the statement balance of 3,242. The reverse route returns 3,747." loading="lazy">
+  <figcaption>Add unpresented cheques, deduct the lodgement and the statement balance of 3,242 follows.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -171,6 +216,12 @@ If you start from the statement, the signs reverse: add uncredited lodgements an
 8. 4,100 − 36 + 250 = 4,314.
 9. Cash book update: direct debit, credit transfer. Reconciliation item: unpresented cheque, uncredited lodgement.
 10. 3,300 + 270 − 480 = 3,090.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--05-halvorn-cashbook.webp" width="900" height="878" alt="Cash book 3,640 plus 700, 12 and 90, less 45, 120, 300 and 230 gives an updated balance of 3,747." loading="lazy">
+  <figcaption>Update the cash book first: 3,640 becomes 3,747.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

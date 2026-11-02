@@ -110,6 +110,12 @@ Butan-1-ol, CH₃CH₂CH₂CH₂OH:
 
 Check: count H atoms. Alcohol 10 H; aldehyde 8 H + water 2 H. Balanced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--04-alcohol-classes.webp" width="900" height="1180" alt="Butan-1-ol, butan-2-ol and 2-methylpropan-2-ol are drawn as displayed formulae with the C-OH carbon and its H highlighted (2, 1 and 0 H). Primary gives butanoic acid and secondary gives butanone, orange to green; tertiary gives no reaction and stays orange. Matches worked example 4." loading="lazy">
+  <figcaption>Oxidation needs an H on the C-OH carbon, so tertiary alcohols resist it.</figcaption>
+</figure>
+
+
 ## 4.2.1(d): Dehydration to alkenes
 
 - Reagent: concentrated H₃PO₄ or concentrated H₂SO₄ as acid catalyst; heat.
@@ -124,6 +130,17 @@ Check: count H atoms. Alcohol 10 H; aldehyde 8 H + water 2 H. Balanced.
 4. Check each product for E/Z isomerism (4.1.3).
 
 Example: 2-methylheptan-2-ol, (CH₃)₂C(OH)CH₂CH₂CH₂CH₂CH₃, gives 2-methylhept-1-ene and 2-methylhept-2-ene. The second has two CH₃ groups on one C=C carbon, so it has no E/Z isomers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--01-hydration-mechanism.webp" width="900" height="1290" alt="Three-step curly-arrow mechanism for making ethanol from ethene and an acid catalyst: C=C attacks H+, a water lone pair attacks the carbocation, the O-H bond breaks releasing H+. Below, propene gives the secondary carbocation and propan-2-ol as the major product. AQA mechanism; other boards state the reaction without needing the mechanism." loading="lazy">
+  <figcaption>Electrophilic addition of water to an alkene: the first arrow starts at the C=C bond, not at H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--09-elimination-products.webp" width="900" height="940" alt="Skeletal formulae. Butan-2-ol loses H from C1 to give but-1-ene, or from C3 to give but-2-ene, which exists as E and Z isomers: three alkenes in total." loading="lazy">
+  <figcaption>Losing H from either neighbouring carbon gives different alkenes, including E and Z isomers.</figcaption>
+</figure>
+
 
 ## 4.2.1(e): Substitution to haloalkanes
 
@@ -182,6 +199,12 @@ Example: heptan-1-ol gives 1-bromoheptane, CH₃(CH₂)₆Br.
 - Saying tertiary alcohols "do not react" without the observation: the solution stays orange.
 - Naming only one alkene when the C–OH carbon has two different neighbours carrying H.
 - Writing "Br₂" or "bromine water" as the reagent for making a bromoalkane from an alcohol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--06-carbonyl-tests.webp" width="900" height="1085" alt="Tubes in a water bath: with Tollens' reagent the aldehyde gives a silver mirror and the ketone no change; with Fehling's (or Benedict's) solution the aldehyde gives a red precipitate and the ketone stays blue. Board tags: Tollens' in AQA and OxfordAQA, Benedict's in Edexcel." loading="lazy">
+  <figcaption>Aldehydes are oxidised by mild oxidants and ketones are not, giving different observations.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -93,6 +93,12 @@ The oxidation number of an atom is the charge it would have if all its bonds wer
 
 **Reminder 5: not redox.** Precipitation of a sulfate, or a neutralisation such as H⁺ + OH⁻ → H₂O: no element changes oxidation number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
+
 ## 8.10 Half-equations
 
 ### Method in steps (acid conditions)
@@ -102,6 +108,12 @@ The oxidation number of an atom is the charge it would have if all its bonds wer
 3. Hydrogen ions fix hydrogen.
 4. Electrons fix charge, added on the more positive side.
 5. Cross-check the electron count against the oxidation number change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
 
 ### Method in steps: combining
 
@@ -116,6 +128,22 @@ The oxidation number of an atom is the charge it would have if all its bonds wer
 - Overall: **ClO⁻ + 2I⁻ + 2H⁺ → Cl⁻ + I₂ + H₂O** (charge −1 on both sides).
 
 **Reminder 7.** Peroxide as an oxidising agent: H₂O₂ + 2H⁺ + 2e⁻ → 2H₂O (O −1 → −2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--02-hydrogen-electrode.webp" width="900" height="1130" alt="A platinum electrode in 1.00 mol per dm3 H+ with hydrogen gas bubbled over it is the standard hydrogen electrode, defined as 0.00 V. Joined to a zinc half-cell by a salt bridge it reads 0.76 V with zinc negative, so E° for Zn2+/Zn is -0.76 V. Standard conditions are 298 K, 100 kPa (101 kPa in the Cambridge syllabus) and 1.00 mol per dm3." loading="lazy">
+  <figcaption>The hydrogen electrode is defined as 0.00 V, so every other half-cell potential is read against it under standard conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
 
 ## Electron bookkeeping
 
@@ -151,6 +179,12 @@ The same steps work the other way round, starting from the oxidising agent, to f
 2. If none change, it is not redox.
 3. If they change, find which element goes up (oxidised) and which goes down (reduced).
 4. If both changes belong to one element that started in one species, it is disproportionation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -202,6 +236,12 @@ The same steps work the other way round, starting from the oxidising agent, to f
 - Balancing atoms in a half-equation but not charge, or putting the electrons on the wrong side.
 - Leaving electrons, or uncancelled H⁺ and H₂O, in a full ionic equation.
 - Forgetting that oxygen in water often keeps its oxidation number of −2 while only hydrogen changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

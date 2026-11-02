@@ -61,6 +61,12 @@ The market sets the price where market demand meets market supply. The single fi
 
 So the firm's demand curve is horizontal at the market price, and **AR = MR = P** at every output. In words: the market diagram has demand sloping down and supply sloping up, meeting at the equilibrium price. The firm diagram shows a flat line at that price, with a U-shaped MC curve crossing it from below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
+
 ## 4. Short run: supernormal profit or loss
 
 A firm with this invented cost function (units per day, costs in pounds) has total fixed cost of 256. Output of 4 to 10 gives:
@@ -83,6 +89,17 @@ MC is the extra cost of one more unit. It cuts AVC at its minimum (24, at 6 unit
 
 **Shut-down, price 15.** MC = 15 at 5 units. TR = 75, TC = 381, loss = 306. Price 15 is below the AVC of 25. Producing loses more than the fixed cost of 256, so the firm should stop. The short-run shut-down rule is: stay open if P ≥ AVC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-perfect-competition-and-monopolistic-competition--01-pc-short-run-decisions.webp" width="900" height="1070" alt="A cost diagram for a price-taking firm with MC, AC and AVC curves from the lesson cost schedule (fixed cost 256). Three horizontal price lines show the firm choosing output where MC equals price. At price 87 output is 9 and supernormal profit is 230. At price 39 output is 7 and the loss is 158, smaller than the fixed cost, so it stays open because price exceeds AVC of 25." loading="lazy">
+  <figcaption>The firm sets MC = P; it stays open while P is at least AVC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ## 5. Long run: normal profit only
 
 Entry and exit are free, so profit signals move firms in and out.
@@ -95,6 +112,12 @@ Entry and exit are free, so profit signals move firms in and out.
 **Worked example.** Market demand is Qd = 1752 − 16P. With 40 identical firms at price 87, each produces 9, so market output is 360. Check demand: 1752 − 16 × 87 = 360, so the market clears. Each firm earns 230, so firms enter. The price falls to 60, the minimum of AC. At 60, each firm produces 8 and earns TR 480 less TC 480 = **0**. Market demand is 1752 − 960 = 792, so the number of firms is 792 ÷ 8 = 99. **59 firms** have entered.
 
 The long-run equilibrium has P = AR = MR = MC = AC at the lowest point of AC. The firm earns normal profit only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-perfect-competition-and-monopolistic-competition--02-pc-entry-long-run.webp" width="900" height="1230" alt="Two linked diagrams. In the market diagram demand Qd = 1752 - 16P meets the supply of 40 firms at price 87 and output 360. Supernormal profit of 230 per firm attracts 59 entrants, so supply (99 firms) shifts right and price falls to 60 with market output 792. In the firm diagram the price line falls from 87 to 60, touching the minimum of AC at 8 units, where profit is zero: normal profit only." loading="lazy">
+  <figcaption>Entry shifts market supply right until price falls to minimum AC and profit is zero.</figcaption>
+</figure>
+
 
 ## 6. Allocative and productive efficiency
 
@@ -115,6 +138,12 @@ The long-run equilibrium has P = AR = MR = MC = AC at the lowest point of AC. Th
 - P = MC is allocative efficiency in private terms only. If there are external costs or benefits, the competitive outcome is not socially optimal.
 
 **Judgement.** The theory is more useful as a yardstick and a way to reason about entry than as a description of real firms. Its value depends on the question: it is strong for analysing price signals and weak for predicting innovation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
 
 ## 8. Monopolistic competition: characteristics
 
@@ -146,6 +175,27 @@ At this point PED = (dQ/dP) × (P/Q) = (−1/2) × (24/5) = −2.4, which is ela
 **Short-run loss.** Suppose demand were P = 22 − 2q, so MR = 22 − 4q. MC = MR gives 4 + 2q = 22 − 4q, so q = 3 and P = 16. TR = 48 and TC = 36 + 12 + 9 = 57, a loss of **9**. AVC is 4 + 3 = 7, below the price, so the bakery stays open in the short run. In the long run some bakeries exit, and demand for the survivors shifts right until normal profit returns.
 
 **Efficiency in the long run.** Minimum AC is at 6 units (AC = 16). The firm produces 4 units: **excess capacity** of 2 units, and AC of 17 exceeds the minimum, so it is not productively efficient. P = 17 exceeds MC = 12, so it is not allocatively efficient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-perfect-competition-and-monopolistic-competition--03-mc-short-run-profit.webp" width="900" height="1010" alt="A bakery in monopolistic competition has a downward-sloping demand curve P = 34 - 2q, MR = 34 - 4q, MC = 4 + 2q and AC = 36/q + 4 + q. MC equals MR at 5 units. Reading up to the demand curve gives price 24. AC at 5 units is 16.20, so the shaded rectangle is supernormal profit of 5 x (24 - 16.20) = 39." loading="lazy">
+  <figcaption>MC = MR fixes output; the price is read from the demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-perfect-competition-and-monopolistic-competition--04-mc-long-run-tangency.webp" width="900" height="1010" alt="After entry, each bakery demand curve shifts left and flattens to P = 22 - 1.25q until it just touches AC at 4 units and price 17. MC equals MR at 4 units. Profit is zero (TR 68 equals TC 68). Minimum AC is 16 at 6 units, so the firm produces 2 units short of the lowest-cost output: excess capacity." loading="lazy">
+  <figcaption>Entry leaves demand tangent to AC, with spare capacity and P above MC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-perfect-competition-and-monopolistic-competition--04-mc-short-run-loss.webp" width="900" height="990" alt="MC equals MR at 3 units and the price from the demand curve is 16. AC at 3 units is 19, so the shaded rectangle is the loss of 9 (TR 48, TC 57). Price exceeds AVC of 7 so the bakery stays open in the short run." loading="lazy">
+  <figcaption>At MC = MR the price of 16 is below AC of 19, giving a loss of 9 that is worth bearing in the short run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--06-monopolistic-competition.webp" width="900" height="950" alt="Long-run diagram: the firm produces where MC = MR (output 40). The AR curve is tangent to the AC curve at price 7 and lies below AC elsewhere, so only normal profit is earned." loading="lazy">
+  <figcaption>With many firms and easy entry, monopolistic competitors earn only normal profit in the long run.</figcaption>
+</figure>
+
 
 ## 10. Advantages and disadvantages
 

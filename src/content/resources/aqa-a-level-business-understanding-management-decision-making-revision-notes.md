@@ -80,6 +80,12 @@ To test how sensitive a choice is, let the probability be p and solve for the va
 
 Value the last decisions first. At a decision node, take the best branch. At a chance node, take the probability-weighted average. Subtract costs on the way back. A test or survey is worth paying for only if the improvement it brings exceeds its cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--01-two-stage-tree.webp" width="900" height="1180" alt="A decision tree for Calder Moss Cycles. Launching now has net gain 42. Testing first costs 10; after a good result launching gives net gain 98, after a poor result not launching gives 0. Rolled back the test route is worth 39, so launching now wins by 3." loading="lazy">
+  <figcaption>Work right to left: value the later decision first, then roll back.</figcaption>
+</figure>
+
+
 ### Value and limits of trees
 
 | Value | Limit |
@@ -90,6 +96,22 @@ Value the last decisions first. At a decision node, take the best branch. At a c
 | Gives a record of reasoning | Ignores non-financial factors |
 | Reduces reliance on guesswork | Poor for uncertainty; costs time to gather data |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--10-net-gain-spread.webp" width="900" height="920" alt="For Fenwick Reach Bakery, opening a shop has an average net gain of 62,000 pounds but a worst case of minus 70,000. Upgrading ovens averages 32,000 but the worst case is minus 10,000. The average hides the spread." loading="lazy">
+  <figcaption>The shop has the higher average net gain but a far worse worst case than the ovens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ## Risk, uncertainty, opportunity cost: must-know distinctions
 
 - **Risk versus uncertainty**: risk can be given probabilities; uncertainty cannot. Trees deal with risk.
@@ -97,6 +119,17 @@ Value the last decisions first. At a decision node, take the best branch. At a c
 - **Opportunity cost versus cost**: cost is what you pay; opportunity cost is the best alternative you forgo. With net gains of £12,000, £9,000 and £7,000, choosing the first has an opportunity cost of **£9,000**, not £16,000.
 - **EV versus net gain**: EV ignores what the option costs.
 - **Average versus outcome**: a one-off decision gets one outcome, never the average.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--02-opportunity-cost-next-best.webp" width="900" height="1060" alt="Three bars show net gains of 28,000, 21,000 and 15,000 pounds. The machine is chosen, so the opportunity cost is the next best, training at 21,000, not 36,000." loading="lazy">
+  <figcaption>Opportunity cost is the single next-best option given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--08-risk-vs-uncertainty.webp" width="900" height="900" alt="Risk is shown as a pie of three outcomes with chances 0.6, 0.3 and 0.1 that can be estimated. Uncertainty is shown as scattered question marks for a product type nobody has sold, where chances cannot be reliably estimated." loading="lazy">
+  <figcaption>Risk has estimable chances; uncertainty does not, so a tree handles risk but not true uncertainty.</figcaption>
+</figure>
+
 
 ## Influences on decision making
 
@@ -109,6 +142,17 @@ Value the last decisions first. At a decision node, take the best branch. At a c
 | Resource constraints | Money, staff, time, space, equipment | A business cannot fund a £90,000 option with £30,000 |
 
 Always link the influence to the business in the question, then say whether it strengthens or weakens the case for the numerically best option.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--07-data-vs-intuition.webp" width="900" height="890" alt="Intuition (experience and judgement) is fast and works without data but is open to bias. Data-based decisions are visible and defensible but need time and money. Urgent or small decisions and new markets with no history lean to intuition; large, costly, hard-to-reverse decisions lean to data." loading="lazy">
+  <figcaption>Data and intuition suit different decisions, and most real decisions mix both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--09-five-influences-oddbrook.webp" width="900" height="990" alt="The kiln line has a net gain of 55,000 pounds, but five influences also shape the decision. In the Oddbrook example the mission, a rival price cut and limited cash all apply, while objectives and ethics are not tested." loading="lazy">
+  <figcaption>Mission, objectives, ethics, the external environment and resource constraints all weigh against the net gain.</figcaption>
+</figure>
+
 
 ## Command words in this topic
 

@@ -48,6 +48,12 @@ For condensed recall use the [revision notes](/resources/aqa-a-level-business-un
 
 Most real decisions mix the two. A manager may calculate, then override the result because the numbers miss something. An exam answer gains by saying *which* suits *this* business and why, not by declaring one approach always better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--07-data-vs-intuition.webp" width="900" height="890" alt="Intuition (experience and judgement) is fast and works without data but is open to bias. Data-based decisions are visible and defensible but need time and money. Urgent or small decisions and new markets with no history lean to intuition; large, costly, hard-to-reverse decisions lean to data." loading="lazy">
+  <figcaption>Data and intuition suit different decisions, and most real decisions mix both.</figcaption>
+</figure>
+
+
 ## Risk, reward, uncertainty and opportunity cost
 
 Keep these four ideas separate. The specification names them without defining them, so the meanings below are the standard ones.
@@ -58,6 +64,17 @@ Keep these four ideas separate. The specification names them without defining th
 - **Opportunity cost**: the value of the next-best alternative given up. It is that one alternative, not the sum of all the options rejected.
 
 **Worked example: opportunity cost.** The owner of Gorsemoor Tea has £50,000 and compares three uses, each with its calculated net gain: a new blending machine £28,000, staff training £21,000, a website rebuild £15,000. She picks the machine. The opportunity cost is the next-best option, **£21,000** from training, not £36,000 (training plus website). Even a profitable choice has an opportunity cost, and it can be large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--02-opportunity-cost-next-best.webp" width="900" height="1060" alt="Three bars show net gains of 28,000, 21,000 and 15,000 pounds. The machine is chosen, so the opportunity cost is the next best, training at 21,000, not 36,000." loading="lazy">
+  <figcaption>Opportunity cost is the single next-best option given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--08-risk-vs-uncertainty.webp" width="900" height="900" alt="Risk is shown as a pie of three outcomes with chances 0.6, 0.3 and 0.1 that can be estimated. Uncertainty is shown as scattered question marks for a product type nobody has sold, where chances cannot be reliably estimated." loading="lazy">
+  <figcaption>Risk has estimable chances; uncertainty does not, so a tree handles risk but not true uncertainty.</figcaption>
+</figure>
+
 
 ## Decision trees
 
@@ -99,11 +116,33 @@ When a first decision leads to later decisions, work **right to left**: value th
 
 Launching directly scores £3,000 more on these figures. The test is worth having only if the value of the information exceeds its cost. Here it does not, but it also removes the chance of a £30,000 loss (80,000 − 50,000) after a launch into low demand, which a risk-averse owner might value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--01-two-stage-tree.webp" width="900" height="1180" alt="A decision tree for Calder Moss Cycles. Launching now has net gain 42. Testing first costs 10; after a good result launching gives net gain 98, after a poor result not launching gives 0. Rolled back the test route is worth 39, so launching now wins by 3." loading="lazy">
+  <figcaption>Work right to left: value the later decision first, then roll back.</figcaption>
+</figure>
+
+
 ### Value and limits of decision trees
 
 Value: they force managers to list options, probabilities and costs; they compare options on one measure; they show the downside as well as the average; they give a record of reasoning to defend.
 
 Limits: probabilities and payoffs are estimates, often opinions in numerical form, and a small change can reverse the ranking; they ignore the timing of returns and non-financial factors such as brand, morale or ethics; net gain hides the spread of outcomes; gathering data costs time and money; and they suit risk, not true uncertainty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--10-net-gain-spread.webp" width="900" height="920" alt="For Fenwick Reach Bakery, opening a shop has an average net gain of 62,000 pounds but a worst case of minus 70,000. Upgrading ovens averages 32,000 but the worst case is minus 10,000. The average hides the spread." loading="lazy">
+  <figcaption>The shop has the higher average net gain but a far worse worst case than the ovens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Influences on decision making
 
@@ -118,6 +157,12 @@ Even a correct calculation does not settle a decision. The specification lists f
 | **Resource constraints** | Money, skilled staff, time, space and equipment limit what can be done. An option the business cannot fund is not really an option |
 
 **Worked example 3.** Oddbrook Pottery's decision tree favours buying a kiln line that triples output (net gain £55,000). Mission (hand-finished ceramics) conflicts with it. The business has £30,000 in cash, so a loan is needed (resource constraint). A rival has just cut prices (competition). A good recommendation weighs these against the figure, perhaps favouring a smaller purchase that fits the mission and the budget.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--09-five-influences-oddbrook.webp" width="900" height="990" alt="The kiln line has a net gain of 55,000 pounds, but five influences also shape the decision. In the Oddbrook example the mission, a rival price cut and limited cash all apply, while objectives and ethics are not tested." loading="lazy">
+  <figcaption>Mission, objectives, ethics, the external environment and resource constraints all weigh against the net gain.</figcaption>
+</figure>
+
 
 ## Reaching a judgement
 

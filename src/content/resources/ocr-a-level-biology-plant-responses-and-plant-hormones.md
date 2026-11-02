@@ -79,6 +79,17 @@ Use seedlings that grow quickly, such as cress, mustard or oat seedlings.
 
 Control species, age, temperature, light intensity and distance, and humidity. Wash hands after handling compost. Measuring an angle by eye is subjective, so photograph every seedling at a fixed distance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--01-phototropism-iaa.webp" width="900" height="1110" alt="Two steps show a shoot lit from the right. More IAA (0.62 units) collects on the shaded side than the lit side (0.38 units), so shaded cells elongate more and the shoot bends towards the light." loading="lazy">
+  <figcaption>Unequal IAA gives unequal elongation, so the shoot bends towards light.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--02-gravitropism-shoot-root.webp" width="900" height="1100" alt="A horizontal shoot and root both have more IAA on the lower side. In the shoot this stimulates lower cells, so it curves up. In the root it inhibits lower cells, so upper cells grow more and it curves down." loading="lazy">
+  <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
+</figure>
+
+
 ## Roles of plant hormones (5.1.5(b))
 
 | Hormone | Main roles in this unit |
@@ -93,6 +104,17 @@ Control species, age, temperature, light intensity and distance, and humidity. W
 **Leaf loss in deciduous plants.** As days shorten and temperature falls, auxin from the leaf declines. Ethene then promotes formation of an abscission zone at the base of the leaf stalk. Cells in the separation layer make enzymes that digest cell walls, and the leaf falls. A protective layer on the stem side seals the scar against infection. Losing leaves reduces water loss when water is hard to absorb.
 
 **Seed germination.** ABA helps keep a seed dormant. When the seed takes up water, the embryo makes gibberellin. Gibberellin diffuses to the aleurone layer and stimulates transcription of the gene for amylase. Amylase hydrolyses stored starch to maltose, which is converted to glucose. The glucose supplies respiration and growth in the embryo until it can photosynthesise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--04-aba-stomata.webp" width="900" height="1100" alt="A guard cell: ABA binds a receptor, K+ and Cl- ions leave, guard cell water potential rises so water leaves by osmosis, turgor falls and the pore closes. An open stoma lets CO2 in and water out; a closed one reduces both." loading="lazy">
+  <figcaption>ABA triggers ion loss, then water loss, so guard cells go flaccid and the stoma closes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--06-gibberellin-germination.webp" width="900" height="1150" alt="A barley grain in section: water enters, the embryo makes gibberellin, the aleurone layer makes amylase, starch is broken down to maltose then glucose which feeds the embryo. Starch-agar dishes show no clear zone without gibberellin, a large zone with it and a smaller zone when ABA is added." loading="lazy">
+  <figcaption>Gibberellin switches on amylase, which digests stored starch for the embryo.</figcaption>
+</figure>
+
 
 ## Auxin and apical dominance (5.1.5(c))
 
@@ -111,6 +133,12 @@ In apical dominance, the apical bud suppresses growth of lateral buds. Auxin fro
 1. Plain lanolin is the control for the IAA treatments, so compare each with 40 mm.
 2. Percentage inhibition at 0.01% IAA = (40 − 29) ÷ 40 × 100 = 27.5%. At 0.1% it is (40 − 12) ÷ 40 × 100 = 70%. At 1.0% it is (40 − 4) ÷ 40 × 100 = 90%.
 3. Conclusion: the more auxin applied to the stump, the greater the inhibition, so auxin replaces the effect of the apex. At 1.0% the lateral shoot is almost as short as with the apex intact (4 mm and 3 mm).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--05-apical-dominance.webp" width="900" height="1000" alt="Five pea plants: apex intact gives a 3 mm lateral shoot; apex cut with plain lanolin 40 mm; with 0.01, 0.1 and 1.0 percent IAA 29, 12 and 4 mm, which is 27.5, 70 and 90 percent less than the control." loading="lazy">
+  <figcaption>More IAA on the cut stump means less lateral growth, replacing the apex.</figcaption>
+</figure>
+
 
 ## Gibberellin and stem elongation (5.1.5(d))
 
@@ -151,6 +179,17 @@ Because concentrations differ by factors of ten, plot them on a logarithmic axis
 **Rooting powders.** Cuttings dipped in auxin powder grow roots from the cut stem more quickly. This gives many genetically identical plants (clones).
 
 **Hormonal weedkillers.** Synthetic auxins such as 2,4-D are not broken down by plants as natural IAA is. They persist and cause fast, uncontrolled growth in broad-leaved weeds, which then die. They are selective because narrow-leaved crops such as cereals and lawn grasses are far less affected. Evaluate by balancing higher yields against run-off and harm to non-target plants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--03-iaa-root-growth.webp" width="900" height="980" alt="Five roots hang from agar. Growth was 14.0 mm with no IAA and 15.4 mm at the lowest IAA (+10.0 percent), then 12.6, 8.4 and 4.2 mm (-10.0, -40.0 and -70.0 percent) as IAA rose." loading="lazy">
+  <figcaption>Low IAA slightly stimulates root growth, higher IAA inhibits it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--07-ethene-ripening.webp" width="900" height="1140" alt="Bananas took 8 days to ripen in air and 3 days with ethene, 62.5 percent quicker. Ethene gas spreads from ripe fruit to green neighbours. Bananas are picked green, shipped cool and ripened with ethene on arrival." loading="lazy">
+  <figcaption>Ethene is a gas signal that speeds ripening and lets fruit be picked green.</figcaption>
+</figure>
+
 
 ## Common errors
 

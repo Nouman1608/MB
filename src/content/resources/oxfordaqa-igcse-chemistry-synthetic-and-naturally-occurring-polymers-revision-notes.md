@@ -55,6 +55,12 @@ Examples named in the specification: ethene → poly(ethene); propene → poly(p
 4. Bracket the unit with the outgoing bonds crossing the brackets; write n after it.
 5. Put n in front of the monomer in the equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+
 ### Method in steps: polymer → monomer
 
 1. Pick out the two-carbon repeating unit.
@@ -81,6 +87,22 @@ Chain unit given as –( CH(CH₃)–CH₂ )n–. Monomer: CH(CH₃)=CH₂, whic
 | Alkene monomer | Orange → colourless |
 | Polymer chain | Stays orange |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--03-bromine-monomer-polymer.webp" width="900" height="920" alt="Propene has a C=C double bond, so it is unsaturated and turns orange bromine water colourless. Poly(propene) has only C-C single bonds in the chain, so it is saturated and bromine water stays orange. The test tells the monomer from the polymer." loading="lazy">
+  <figcaption>Propene decolourises bromine water; poly(propene) does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+
 ## 3.10.2 b: Same monomer, different polymer
 
 Properties depend on (1) the monomer used and (2) the conditions, including the catalyst.
@@ -97,6 +119,12 @@ Properties depend on (1) the monomer used and (2) the conditions, including the 
 
 Chain of reasoning to learn: conditions → branching → packing → strength of intermolecular forces → properties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--01-ld-hd-polyethene.webp" width="900" height="1070" alt="LD poly(ethene) chains carry many side branches that keep them apart, giving lower density and softer plastic. HD chains are mostly straight with few branches and pack closely, giving higher density and stiffer plastic. Both come from ethene; LD needs very high pressure and temperature, HD lower pressure with a special catalyst." loading="lazy">
+  <figcaption>Branching stops LD chains packing closely; straight HD chains pack tightly.</figcaption>
+</figure>
+
+
 ## 3.10.2 c: Thermosoftening vs thermosetting
 
 | | Thermosoftening | Thermosetting |
@@ -111,6 +139,12 @@ Chain of reasoning to learn: conditions → branching → packing → strength o
 "The chains in a thermosoftening polymer are held to each other only by weak intermolecular forces. Little energy is needed to overcome these, so on heating the chains slide past one another and the polymer softens."
 
 What breaks: the forces **between** chains. What does not break: the covalent bonds **within** each chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--02-thermosoftening-thermosetting.webp" width="900" height="1040" alt="Top: separate chains joined only by weak dashed intermolecular forces; heating overcomes them so chains slide and the plastic softens. Bottom: chains joined by strong covalent cross-links drawn as thick bars; heating does not break them so the plastic does not melt." loading="lazy">
+  <figcaption>Weak forces between chains let a thermosoftening polymer soften; covalent cross-links stop a thermosetting polymer melting.</figcaption>
+</figure>
+
 
 ## 3.10.2 d: New materials and uses
 
@@ -143,6 +177,12 @@ How new materials are developed: identify the need → choose monomers and condi
 | Drawback | Polymer fragments may remain | Needs land to grow the crop; breakdown needs suitable conditions |
 
 Cornstarch comes from plants, so it is renewable; most synthetic polymers come from crude oil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
 
 ## Model answers to learn
 

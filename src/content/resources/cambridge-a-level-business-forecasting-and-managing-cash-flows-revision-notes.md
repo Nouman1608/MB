@@ -51,6 +51,12 @@ The syllabus does not print the balance formulae. These are the standard forms.
 - Gives a standard to compare actual cash with.
 - Helps a start-up work out how much finance it needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--05-lymmerton-table.webp" width="900" height="940" alt="Full forecast table in pounds, January to April: inflows, outflows, net cash flow, opening and closing balances. Closing balances 3,200, 3,700, 1,000, 3,050; March closing becomes April opening." loading="lazy">
+  <figcaption>Each closing balance carries forward as the next opening balance.</figcaption>
+</figure>
+
+
 ## Method: building or completing a forecast
 
 1. List the inflows month by month. Put credit sales in the month the customer pays, not the month of sale.
@@ -96,6 +102,12 @@ A negative closing balance means the business expects to be overdrawn or without
 
 Example: if Dormer's October inflows fall by £1,000 because a customer pays in November, October closing becomes −£500 and November closing is £2,200 only if November also gains the £1,000. The total over the quarter is unchanged, but the business is overdrawn in between.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--06-forecast-amend.webp" width="900" height="990" alt="Line chart of closing balances. Original: 3,200, 3,700, 1,000, 3,050. Amended: 3,200, 3,700, minus 700 in March and minus 1,050 in April, both below zero (overdrawn)." loading="lazy">
+  <figcaption>One late change flows through every later month because closing balances carry forward.</figcaption>
+</figure>
+
+
 ## Limitations of forecasts
 
 - Based on sales estimates, which are uncertain, especially for a new business.
@@ -129,6 +141,32 @@ Example: if Dormer's October inflows fall by £1,000 because a customer pays in 
 | Lower inventory | Stock-outs and lost sales |
 | Leasing or hire purchase | Higher total cost |
 | Cut costs | Quality or growth may suffer |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--07-debt-factoring.webp" width="900" height="940" alt="A bar of 15,000 pounds of invoices: 12,000 advanced at once (80%), 450 kept as a 3% fee, and 2,550 passed on when customers pay." loading="lazy">
+  <figcaption>Factoring brings cash in quickly but the fee reduces the profit on the sale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--06-cash-methods.webp" width="900" height="1015" alt="Twelve methods in four groups (cash in sooner, cash out later, cash out less, new money in), each with its main drawback." loading="lazy">
+  <figcaption>Every method of improving cash flow has a price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--07-match-method.webp" width="900" height="970" alt="A temporary dip below zero suits an overdraft or longer supplier credit; a permanent gap needs long-term finance; slow customers need credit control or factoring; idle assets can be sold or leased back." loading="lazy">
+  <figcaption>Choose the method by the size and length of the problem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

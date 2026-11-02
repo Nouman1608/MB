@@ -52,6 +52,12 @@ A preferential trade agreement gives the countries in it better terms of trade w
 
 The difference is the number of parties and the geographic spread. A multilateral deal applies terms to a very wide group, while bilateral and regional deals favour a smaller group and so discriminate against everyone else.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--07-ib-int-agreements.webp" width="900" height="990" alt="Three network pictures: two countries linked (bilateral), five neighbours linked inside a region (regional), and many countries across the world linked through the WTO (multilateral)." loading="lazy">
+  <figcaption>The number and spread of parties distinguishes the three kinds of agreement.</figcaption>
+</figure>
+
+
 ## Types of trading bloc
 
 The three types differ in how deep the integration goes. Each type includes the features of the one before it.
@@ -69,6 +75,12 @@ The three types differ in how deep the integration goes. Each type includes the 
 
 **Common market.** A common market adds free movement of labour and capital. A worker in Tamarek can take a job in Veldoria without a work permit. Firms can build factories in any member state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--08-ib-int-bloc-types.webp" width="900" height="1170" alt="Three bloc diagrams. In a free trade area members keep different outside tariffs (5% and 30%), so an Orsin good costing 80 is 104 direct or 84 via Tamarek. A customs union has one 30% tariff so both cost 104. A common market adds free movement of labour and capital." loading="lazy">
+  <figcaption>Going from free trade area to customs union to common market deepens integration.</figcaption>
+</figure>
+
+
 ## Advantages of trading blocs
 
 ### Greater access to markets and economies of scale
@@ -85,9 +97,21 @@ Average cost = (600 000 + 4 × 300 000) ÷ 300 000 = 1 800 000 ÷ 300 000 = **6*
 
 Average cost falls by 10, a fall of 62.5%. The firm can cut prices and still profit. Evaluation: this only helps if demand in partner states is large enough and the firm can actually raise output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--11-ib-int-scale-economies.webp" width="900" height="870" alt="A falling average cost curve with the firm at 50 000 units (cost 16) and, after the bloc forms, 300 000 units (cost 6): a 62.5% fall." loading="lazy">
+  <figcaption>Spreading fixed costs over a larger bloc market lowers average cost.</figcaption>
+</figure>
+
+
 ### Greater employment opportunities
 
 Where there is freedom of labour, workers can move to where jobs are. Suppose Tamarek has a labour force of 2 000 000 and 11% are unemployed, which is 220 000 people. If 40 000 unemployed workers move to Veldoria and find jobs, Tamarek's unemployed fall to 180 000 and its labour force to 1 960 000. Unemployment is 180 000 ÷ 1 960 000 = **9.2%**. The workers gain, and Veldoria's firms fill vacancies. Evaluation: Tamarek may lose skilled workers it needs, and wages in Veldoria may come under pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--01-int-labour-mobility.webp" width="900" height="770" alt="Two bars of Tamarek labour force. Before, 220 000 of 2 000 000 are unemployed (11%). After 40 000 unemployed workers take jobs in Veldoria, 180 000 of 1 960 000 are unemployed (9.2%)." loading="lazy">
+  <figcaption>When 40 000 jobless workers move to Veldoria, Tamarek unemployment falls from 11% to 9.2%.</figcaption>
+</figure>
+
 
 ### Stronger bargaining power
 
@@ -111,6 +135,12 @@ Worked example. Fictional Veldoria makes gadgets at a cost of 100. Partner Tamar
 
 Before the bloc, domestic gadgets are cheapest at 100. After it, Tamarek's price of 90 beats both. Veldoria switches to Tamarek. This is **trade creation**. If 1 000 units switch, the saving in production cost is (100 − 90) × 1 000 = 10 000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--09-ib-int-trade-creation.webp" width="900" height="970" alt="Price bars for gadgets in Veldoria. Before the bloc the domestic good (100) is cheapest; after, Tamarek’s tariff-free price of 90 is cheapest, so buyers switch and save 10 per unit." loading="lazy">
+  <figcaption>Trade creation: buying switches from a dearer home producer to a cheaper partner.</figcaption>
+</figure>
+
+
 ## Disadvantages of trading blocs
 
 ### Trade diversion (HL only)
@@ -128,6 +158,12 @@ Worked example. Veldoria also buys textiles. Its own cost is 135, Tamarek's is 1
 Before the bloc, Veldoria buys from Orsin at 104. After it, Tamarek's price of 100 is lowest, so the trade is **diverted** to Tamarek.
 
 Consumers pay 4 less (104 − 100). But the real resource cost rises by 100 − 80 = 20 a unit, because the world's cheapest producer lost the sale. The government also loses the tariff it used to collect on Orsin's goods, 80 × 0.30 = 24 a unit. Net effect per unit = 4 − 24 = −20, which equals the rise in resource cost. On 5 000 units the net loss is 100 000. A bloc with more trade creation than diversion is better for its members. The result depends on how far partner costs are from world costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--10-ib-int-trade-diversion.webp" width="900" height="1250" alt="Price bars show Veldoria switching from cheaper Orsin (104) to Tamarek (100) once Tamarek’s tariff is removed. A bar chart then shows consumers gaining 4 per unit, tariff revenue falling 24, net minus 20." loading="lazy">
+  <figcaption>Trade diversion: a cheaper outsider is replaced by a dearer partner, and the country loses overall.</figcaption>
+</figure>
+
 
 ### Loss of sovereignty
 
@@ -157,6 +193,12 @@ The guide lists the heading only, so the points below are standard analysis. Che
 - Members lose their own monetary policy. One interest rate must suit all. If Veldoria has inflation of 7% and Tamarek 0.5%, and their weights in the union are 60% and 40%, the union-wide figure is 0.6 × 7 + 0.4 × 0.5 = **4.4%**. A policy suited to 4.4% is wrong for both.
 - Members cannot use a falling exchange rate to recover competitiveness after a shock.
 - A weak member may need support from stronger ones, which creates political tension.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--02-int-monetary-union.webp" width="900" height="880" alt="Bars of inflation: Veldoria 7%, Tamarek 0.5%, union weighted 4.4% (0.6x7 + 0.4x0.5), showing one policy fits neither. A second panel shows 1.5% of 2 400 000 = 36 000 a year saved on conversion costs." loading="lazy">
+  <figcaption>A single currency saves 36 000 in conversion costs but forces one policy on economies that differ.</figcaption>
+</figure>
+
 
 ## The World Trade Organization
 

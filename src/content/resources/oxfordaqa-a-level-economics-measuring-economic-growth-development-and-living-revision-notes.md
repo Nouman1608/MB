@@ -94,6 +94,32 @@ These are tendencies. Countries sit on a spectrum, and some MEDC-style indicator
 
 HDI uses the geometric mean so weakness in one dimension cannot be hidden by strength in another. Income enters as a logarithm because extra income adds less well-being at higher levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--02-hdi-geometric-mean.webp" width="900" height="930" alt="Three bars on a 0 to 1 scale: health 0.800, education 0.64, income 0.662. HDI is their geometric mean, 0.697, slightly below the arithmetic mean 0.701." loading="lazy">
+  <figcaption>HDI is the geometric mean of three indices, so a weak dimension pulls it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--03-mpi-h-times-a.webp" width="900" height="860" alt="Two rectangles with width H (share poor) and height A (average share of deprivations). Country T: 32% by 46% gives MPI 0.147. Country U: 20% by 40% gives 0.080. Area equals MPI." loading="lazy">
+  <figcaption>MPI is the area of a rectangle: the extent of poverty times its depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--08-lorenz-two-countries.webp" width="900" height="1070" alt="Lorenz curves for Countries V and W with Gini 0.452 and 0.276 and quintile ratios 13.5 and 4.3. Cumulative shares and Gini by trapezium strips recomputed in code and asserted." loading="lazy">
+  <figcaption>Country W has a Lorenz curve nearer equality than Country V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--09-ihdi-inequality-discount.webp" width="900" height="740" alt="HDI 0.720 against IHDI 0.612 with the 0.108 loss, 15.0%. (0.720-0.612)/0.720 = 15.0% asserted." loading="lazy">
+  <figcaption>IHDI discounts HDI for inequality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Growth versus development.** Growth is one number (output). Development is many (health, education, fairness).
@@ -111,11 +137,48 @@ Weaknesses: averages hide distribution; informal and unpaid work missed; composi
 
 *Chain of reasoning.* Higher real GDP per head means more output per person. This allows more consumption, public spending and investment, which can raise health and education. However, if gains go to a few, if growth uses up natural capital, or if hours worked rise sharply, well-being may not rise. Judgement: it is a good starting indicator but should be read alongside others such as HDI, IHDI and a distribution measure, and its reliability depends on how evenly and sustainably the gains arise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--04-mean-vs-median-income.webp" width="900" height="850" alt="Bars for nine household incomes: 120, 140, 150, 160, 175, 190, 210, 260 and 1,295. The mean is 300 and the median 175; eight of nine households earn less than the mean." loading="lazy">
+  <figcaption>One very high income pulls the mean far above the typical household.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--06-real-growth-per-head.webp" width="900" height="850" alt="Bars show GDP +22.5%, population +16.7% and GDP per head +5.0%, with the formula (1+g)/(1+p)-1. 441/360, 21/18, 1.225/1.1667-1 = 5.0%, 1.09/1.06-1 = 2.8% asserted." loading="lazy">
+  <figcaption>Real change per head is found by dividing, not subtracting.</figcaption>
+</figure>
+
+
 ## Limits to growth
 
 - **Environmental:** finite resources, pollution, climate change, habitat loss. Growth that depletes natural capital is not sustainable.
 - **Social:** congestion, rising inequality, weakened communities, stress. Output can rise while well-being falls.
 - **Evaluation:** cleaner technology and fair sharing can loosen the limits; the right balance depends on the country's stage and the time horizon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--01-gdp-gni-nni.webp" width="900" height="790" alt="Waterfall chart for Country B in billions with the axis starting at 500. GDP 640, plus 21 earned abroad, minus 58 sent abroad gives GNI 603. Minus 54 capital depreciation gives NNI 549. Per head the values are 32,000, 30,150 and 27,450." loading="lazy">
+  <figcaption>GNI adds income from abroad and subtracts income paid abroad; NNI also subtracts depreciation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--07-low-base-gain.webp" width="900" height="770" alt="Gains of 168 (7% of 2,400) and 900 (2% of 45,000) with the gap widening from 42,600 to 43,332. 2400x7%, 45000x2%, 900/168 = 5.4 asserted; gap figures derived from lesson numbers." loading="lazy">
+  <figcaption>A high percentage growth from a low base can be a much smaller absolute gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--10-sustainable-adjustment.webp" width="900" height="920" alt="Waterfall from GDP 500 less depletion 35 and pollution 25 to 440, 12% lower. 500-35-25 = 440 and 60/500 = 12% asserted." loading="lazy">
+  <figcaption>Subtracting depletion and pollution gives a lower, sustainability-adjusted figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

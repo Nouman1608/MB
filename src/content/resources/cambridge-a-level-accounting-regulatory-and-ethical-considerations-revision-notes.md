@@ -37,6 +37,17 @@ These notes condense section 3.2 Regulatory and ethical considerations of the Ca
 | IAS 37 | Provisions and contingencies | Provision: obligation, probable, reliable estimate |
 | IAS 38 | Intangible assets | Research expensed; development capitalised if criteria met; no internally generated goodwill |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--10-cam-ias-provisions-contingent.webp" width="900" height="960" alt="Three lanes. A provision needs a present obligation from a past event, a probable outflow and a reliable estimate; if all three are met it is recognised. A contingent liability, a possible obligation or one that is not probable or not measurable, is disclosed in the notes; if the outflow is remote nothing is shown. A contingent asset is disclosed when the inflow is probable and recognised only when realisation is virtually certain." loading="lazy">
+  <figcaption>A provision is recognised, a contingent liability is disclosed, and a contingent asset is recognised only when virtually certain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--02-three-headings.webp" width="900" height="820" alt="A waterfall of cash for the year. The company started with an overdraft of 14,600 dollars (negative cash). Operating activities added 192,900, investing used 163,000 and financing used 11,000, a net increase of 18,900, leaving closing cash and cash equivalents of 4,300 dollars." loading="lazy">
+  <figcaption>Operating, investing and financing flows move opening cash (an overdraft) to closing cash.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Inventory valuation (IAS 2)**
@@ -94,6 +105,42 @@ Non-cash deals, such as shares issued in exchange for a building, are not cash f
 | Materiality | Separate items that could influence users' decisions |
 | Comparative information | Prior year figures shown beside the current year |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--06-cam-ias-asset-cost.webp" width="900" height="878" alt="A table builds up the cost of a frame-welding line. Included, with running totals: purchase price 180,000, import duty 9,000 (189,000), delivery 4,000 (193,000), installation 7,500 (200,500), testing 3,500 (204,000) and an estimate of removal costs 12,000 (216,000). Staff training 2,500 and head office administration 6,000 are crossed out and treated as expenses. With residual value 8,000 and a ten year life, annual depreciation is 20,800." loading="lazy">
+  <figcaption>Only costs needed to bring the asset into use are added; training and head office administration are expensed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--07-cam-ias-impairment.webp" width="900" height="830" alt="Three bars for a mixing plant. Carrying amount 640,000 dollars. Fair value 500,000 less 20,000 disposal costs gives 480,000. Value in use is 455,000. The recoverable amount is the higher of the last two, 480,000, shown by a dashed line. The part of the carrying amount above it, 160,000, is the impairment loss charged to profit or loss. Depreciation then runs on 480,000, for example 60,000 a year over 8 years." loading="lazy">
+  <figcaption>An asset is written down to the higher of fair value less costs of disposal and value in use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--08-cam-ias-events-after-year-end.webp" width="900" height="890" alt="A timeline starts at the reporting date. Three events follow. A customer owing 18,400 dollars goes into liquidation: adjusting, because the debt was already doubtful at the reporting date. Inventory costing 31,000 is sold for 22,500, so net realisable value was below cost: adjusting, a write-down of 8,500. A fire destroys a store: non-adjusting, so only a note. Adjusting events total 26,900, so draft profit of 412,000 becomes 385,100." loading="lazy">
+  <figcaption>Adjusting events change the figures; non-adjusting events are only disclosed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--09-cam-ias-research-development.webp" width="900" height="780" alt="A bar for Oakhanger Plastics shows spending in order: research 135,000 dollars and early development 48,000 before feasibility could be shown, together 183,000, are expensed. Later development of 210,000 met every capitalisation criterion and is recognised as an intangible asset. With a five year life, amortisation is 42,000 a year." loading="lazy">
+  <figcaption>Research and early development are expensed; later development that meets every criterion becomes an asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--01-reg-ias2-tarnholt.webp" width="900" height="840" alt="Tarnholt Ceramics values three product lines at the lower of cost and net realisable value (NRV). Mugs cost 14,000 and have NRV 15,000, so 14,000 is used. Vases cost 22,000 but NRV is 21,000 (26,000 less 5,000 costs to sell), so 21,000 is used and 1,000 is written off as an expense. Tiles cost and NRV are both 9,600. Inventories are 44,600 against a cost total of 45,600." loading="lazy">
+  <figcaption>Vases are written down by 1,000 because NRV is below cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--02-reg-ias8-estimate.webp" width="900" height="760" alt="Quarrenby Foods bought a machine for 90,000 with residual value 6,000 and a 7 year life, giving 12,000 a year. After 3 years the carrying amount is 54,000. Management now expects 3 more years of use, so depreciation from now is (54,000 minus 6,000) divided by 3, which is 16,000 a year. The first three years are not restated. A material prior period error is different: the comparatives are restated." loading="lazy">
+  <figcaption>A change in estimate applies from now on, while a prior period error restates comparatives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+
 ## Applying a standard in an answer
 
 1. Name the standard and state the rule in one sentence.
@@ -115,6 +162,17 @@ Non-cash deals, such as shares issued in exchange for a building, are not cash f
 - Stakeholder effects: investors, lenders, employees, tax authority, suppliers, customers and the business itself.
 - Social implications: staff and community (closures), environment, honesty about risks, use of local suppliers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
+  <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
+</figure>
+
+
 ## Audit and stewardship (3.2.3)
 
 | Point | Detail |
@@ -126,6 +184,12 @@ Non-cash deals, such as shares issued in exchange for a building, are not cash f
 | Internal audit | Within the business, reports to management, reviews controls and efficiency |
 | Unqualified report | Statements give a true and fair view |
 | Qualified report | True and fair view "except for" a material matter or missing evidence |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--03-reg-audit-two-kinds.webp" width="900" height="1110" alt="Two columns compare the audits. External audit: shareholders appoint an auditor who is independent of the company; the auditor does not prepare the accounts, and gives an opinion on whether they give a true and fair view; the report goes to shareholders and is often required by law. The outcome is an unqualified report (true and fair) or a qualified report (true and fair except for a stated matter). Internal audit: directors or management appoint an employee or outsourced auditor who reviews controls, risks and efficiency and reports to directors; it is usually a choice." loading="lazy">
+  <figcaption>External and internal audit differ in who appoints, who reports and what is reviewed.</figcaption>
+</figure>
+
 
 ## Evaluation points to have ready
 

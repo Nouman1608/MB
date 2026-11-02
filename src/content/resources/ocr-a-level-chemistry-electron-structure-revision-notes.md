@@ -45,6 +45,32 @@ Once these notes feel secure, test yourself with the [electron structure practic
 
 Rule of thumb: shell n holds 2n² electrons in n² orbitals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--05-orbitals.webp" width="900" height="1050" alt="An s orbital is a sphere (2s larger than 1s); a p sub-shell is three dumbbell orbitals along x, y and z. Boxes show s = 1 orbital (2 electrons), p = 3 (6), d = 5 (10), and shells hold 2, 8, 18 and 32 electrons." loading="lazy">
+  <figcaption>Each orbital holds two electrons of opposite spin: s has 1 orbital, p has 3, d has 5; shell n holds 2n squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--06-filling-order.webp" width="900" height="1000" alt="An energy ladder with boxes for 1s up to 4p; the 4s level is just below 3d. Potassium fills 1s to 3p fully and puts its 19th electron in 4s, leaving 3d empty. A note says 4s is lost first on ionising." loading="lazy">
+  <figcaption>Sub-shells fill 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, but 4s empties first on ionisation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--07-electron-boxes.webp" width="900" height="970" alt="Box diagrams: oxygen 1s2 2s2 2p4 with electrons singly in the 2p boxes before pairing; chromium with one electron in 4s and one in each 3d box; copper with one electron in 4s and a full 3d." loading="lazy">
+  <figcaption>Electrons occupy orbitals singly before pairing; Cr (3d5 4s1) and Cu (3d10 4s1) are exceptions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--08-successive-ie.webp" width="900" height="830" alt="A log-scale plot of the twelve successive ionisation energies of magnesium: two low points, a big jump at the third electron, a gradual rise to the tenth, and another huge jump at the eleventh, grouped as shell 3 (2 electrons), shell 2 (8) and shell 1 (2)." loading="lazy">
+  <figcaption>A large jump after the second electron shows two outer electrons (Group 2); further jumps mark inner shells.</figcaption>
+</figure>
+
+
 ### Sub-shells
 
 | Sub-shell type | Orbitals in it | Electron capacity |
@@ -87,6 +113,12 @@ The two 3d electrons sit in separate orbitals with parallel spins, leaving three
 
 Oxygen's fourth 2p electron has to pair, because all three 2p orbitals already hold one electron. That pairing matters again in 3.1.1, where it helps explain ionisation energy patterns across Period 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--09-period3-ie.webp" width="900" height="950" alt="A line plot of first ionisation energy from Na to Ar, rising with two ringed dips at Al and S. Box diagrams explain them: Al has a lone 3p electron, higher in energy than 3s; S has two electrons paired in one 3p orbital that repel." loading="lazy">
+  <figcaption>First ionisation energy rises across Period 3 with dips at Al (outer 3p electron) and S (paired 3p electrons).</figcaption>
+</figure>
+
+
 ## Why the model was refined (HSW1, HSW7)
 
 The additional guidance links 2.2.1 to how scientific models develop. The simple shell model (2, 8, 8) cannot explain why potassium starts the fourth shell before the third is full. Splitting shells into sub-shells and orbitals with different energies explains this, and also explains patterns in ionisation energies. If a question asks why the model changed, the answer is that new evidence did not fit the older model, so the model was refined to account for it.
@@ -108,6 +140,12 @@ The additional guidance links 2.2.1 to how scientific models develop. The simple
 | Cu, Z = 29 | 3d⁹ 4s² | 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹ |
 
 A half-full or full 3d sub-shell is the usual explanation for the extra stability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Method in steps: configuration of an ion, 2.2.1(d)(ii)
 

@@ -67,6 +67,12 @@ The safe alternative is a servicing contract with a certain gain of £28,000. Th
 
 Judgement: the workshop looks attractive if Mossgill could absorb a £60,000 loss. If that would threaten the three shops, the certain £28,000 may be better. The expected value is an average, not a result the business will actually receive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--05-risk-reward-mossgill.webp" width="900" height="1070" alt="Three bars with width equal to probability show gains of 150,000, 40,000 and a loss of 60,000. Expected value is 53,000, above the safe 28,000, but there is a 20 percent chance of losing 60,000 and a 210,000 spread." loading="lazy">
+  <figcaption>Higher expected reward comes with a real chance of a loss.</figcaption>
+</figure>
+
+
 ## Quantifiable and unquantifiable risk
 
 A **quantifiable risk** is one where the business can put a number on the likelihood, the size of the loss, or both, usually from past data or research. The standard technique (general business knowledge; the specification does not name it here) is expected value, which weights each outcome by its probability. Examples: bad debts as a share of credit sales, breakdowns based on maintenance records, theft or fire risks that an insurer prices.
@@ -78,6 +84,17 @@ A quantifiable risk can be priced, insured or budgeted for, while an unquantifia
 **Evaluating quantifiable risks.** Strengths: numbers allow comparison between options, insurance and provisions. Weaknesses: past data may not repeat, the figures suggest more precision than exists, and non-financial effects such as morale are ignored.
 
 **Evaluating unquantifiable risks.** Recognising them encourages scenario planning, flexibility and cash reserves. The weakness is that there is nothing to compare, so managers may ignore them or freeze. They can hurt most because the business cannot prepare precisely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--06-quantifiable-unquantifiable.webp" width="900" height="1000" alt="Quantifiable risks such as bad debts, breakdowns and fire can be given numbers from past data and insured or budgeted. Unquantifiable risks such as a rival's technology, fashion or overseas politics have no reliable number and call for flexibility and cash." loading="lazy">
+  <figcaption>Quantifiable risks can be priced; unquantifiable ones can only be prepared for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
 
 ## Reducing risk
 
@@ -95,6 +112,17 @@ A business cannot remove risk, but it can reduce its level. Evaluate each method
 
 For the **business**: unexpected losses, cash-flow crisis, lost sales, damaged reputation, higher borrowing costs and, at worst, closure. For **stakeholders**: owners or shareholders lose dividends or capital; employees face redundancy or short-time working; lenders face late or missed repayments; suppliers are not paid and may lose a customer; customers lose a product or after-sales support; the local community loses jobs and spending. Judge severity by the loss relative to the firm's resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--01-ways-reduce-risk.webp" width="900" height="999" alt="Seven rows, one per method of reducing risk, each with what it gives (plus) and its catch (minus): research, spreading, phasing, insurance, contracts, prudence and contingency planning. Icons are simple symbols for each method." loading="lazy">
+  <figcaption>Each way of reducing risk has a benefit and a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--02-poor-risk-stakeholders.webp" width="900" height="870" alt="A central circle for poor risk management links to six stakeholder cards giving the consequence for each: owners, employees, lenders, suppliers, customers and the community. The business itself faces losses, a cash-flow crisis and possible closure." loading="lazy">
+  <figcaption>Poor risk management harms the business and every stakeholder group in a different way.</figcaption>
+</figure>
+
+
 ## Risks specific to the entrepreneur
 
 An **entrepreneur** takes the risk of starting or running a business in the hope of reward. The risks to evaluate are personal as well as commercial:
@@ -105,6 +133,12 @@ An **entrepreneur** takes the risk of starting or running a business in the hope
 - **Business failure** through poor demand, strong competition or weak cash flow, with the effects on health, family and reputation.
 
 Judge the size of these risks against the entrepreneur's savings, experience and support, and set them against the reward: profit, independence and a business that can be sold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
 
 ## Uncertainty
 
@@ -135,6 +169,22 @@ Demand is uncertain because a large customer may reduce its orders (external) an
 | 11,000 | 11,000 × 11 - 88,000 = £33,000 |
 
 At the middle forecast the margin of safety is 9,000 - 8,000 = 1,000 units, which is 11.1% of forecast sales. A fall of just over 11% turns profit into loss. So uncertainty affects planning (a cash buffer), decision making (delay the second press until orders are confirmed) and forecasting (three scenarios, not one number).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--07-uncertainty-causes.webp" width="900" height="940" alt="The business sits in a box with internal causes: a key worker leaving, product success and machine reliability. Arrows come in from external causes: the economy, interest rates, competitors, tastes, weather and regulation." loading="lazy">
+  <figcaption>Internal uncertainty can be reduced with information; external uncertainty can only be prepared for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--08-uncertain-demand-range.webp" width="900" height="1000" alt="A profit line crosses zero at 8,000 units. Forecasts of 7,000, 9,000 and 11,000 units give profits of minus 11,000, 11,000 and 33,000 pounds. The margin of safety at 9,000 is 1,000 units, 11.1 percent." loading="lazy">
+  <figcaption>Forecast a range: a fall of just over 11% at the middle forecast turns profit into loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
 
 ## Opportunity cost
 
@@ -168,6 +218,17 @@ The owner chooses A. The opportunity cost is **option C, £7,500 a year** (£37,
 - depends on estimates, and non-financial factors may change the ranking.
 
 In longer answers, state the alternative forgone, give its value, then judge whether the chosen option beats it by enough to cover any extra risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost--03-birchall-opportunity-cost.webp" width="900" height="890" alt="Bars show returns on 60,000 pounds: A cold room 15 percent, C van 12.5 percent, B loan repayment 7 percent. A is chosen; the opportunity cost is C at 7,500 pounds a year, not 11,700 pounds, because money can be spent only once." loading="lazy">
+  <figcaption>The opportunity cost is the single next best option, not the total of everything rejected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
 
 ## Common errors
 

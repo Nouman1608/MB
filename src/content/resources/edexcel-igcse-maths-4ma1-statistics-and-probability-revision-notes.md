@@ -68,6 +68,17 @@ A calculator may be used on every 4MA1 paper, and a calculator with Σx and Σfx
 - **Histograms (Higher tier only)**: no gaps, a continuous scale on the horizontal axis, and frequency density on the vertical axis. Area represents frequency.
 - **Cumulative frequency (Higher tier only)**: plot running totals at upper class boundaries; the graph never goes down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp" width="900" height="801" alt="A whole circle is 8 books and a quarter circle is 2. Monday to Wednesday and Friday read 28, 18, 32 and 14. Thursday is 130 minus 92 = 38 books, which is 4 and three quarters circles." loading="lazy">
+  <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
+
 ### Method: draw a histogram (Higher tier only)
 
 1. Find each class width from the boundaries (for 15 < t ≤ 20 the width is 5).
@@ -76,6 +87,12 @@ A calculator may be used on every 4MA1 paper, and a calculator with Σx and Σfx
 4. Draw each bar between its class boundaries at its frequency density.
 
 To read a frequency back from a histogram, multiply bar height by bar width. For part of a bar, use only the part of the width you need, and assume values are spread evenly across the class.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
 
 ## 6.2 Statistical measures
 
@@ -100,6 +117,27 @@ Small worked reminder: 4, 7, 7, 9, 13 has mean 40 ÷ 5 = 8, median 7, mode 7 and
 2. Read across from n/4, n/2 and 3n/4 to the curve, then down.
 3. IQR = upper quartile − lower quartile.
 4. "More than x": read the cumulative frequency at x and subtract it from n.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-statistics-and-probability--09-stat-quartiles-from-list.webp" width="900" height="810" alt="Higher tier. Eleven ordered values 3 to 21. The lower quartile is the 3rd value, 6; the median is the 6th, 11; the upper quartile is the 9th, 15. IQR = 15 − 6 = 9 and range = 21 − 3 = 18." loading="lazy">
+  <figcaption>Quartile positions are (n + 1)/4, (n + 1)/2 and 3(n + 1)/4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
 
 ### Must-know distinctions
 
@@ -135,12 +173,24 @@ Small worked reminder: 4, 7, 7, 9, 13 has mean 40 ÷ 5 = 8, median 7, mode 7 and
 
 Small worked reminder: if P(A) = 0.4 and P(B) = 0.25, then P(A or B) = 0.65 if A and B are mutually exclusive, and P(A and B) = 0.1 if they are independent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-statistics-and-probability--10-stat-late-at-least-once.webp" width="900" height="900" alt="Higher tier. A two-day tree with late probability 0.2 and not late 0.8 each day. LL 0.04, LN 0.16, NL 0.16, NN 0.64. Late at least once is 0.04 + 0.16 + 0.16 = 0.36, or quicker 1 − 0.8 × 0.8 = 0.36." loading="lazy">
+  <figcaption>1 − P(never late) is quicker than adding three routes.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - **Mutually exclusive vs independent**: add for "or" with mutually exclusive events; multiply for "and" with independent events.
 - **With vs without replacement**: with replacement the probabilities stay the same at every stage; without replacement they change.
 - **Relative frequency vs probability**: relative frequency is an estimate that improves with more trials.
 - **Expected frequency vs actual result**: expected frequency is a long-run average; the actual count will usually differ a little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-statistics-and-probability--02-venn-50-people.webp" width="900" height="880" alt="A Venn diagram of 50 people: 17 in A only, 8 in both, 12 in B only, 13 in neither. Three small Venn diagrams shade the regions for P(A) = 1/2, P(A or B or both) = 37/50 and P(B but not A) = 6/25." loading="lazy">
+  <figcaption>Worked example 10 as a Venn diagram, with each probability shaded.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -184,6 +234,12 @@ Small worked reminder: if P(A) = 0.4 and P(B) = 0.25, then P(A or B) = 0.65 if A
 - On a tree diagram without replacement, keeping the same denominator for the second pick.
 - Adding the probabilities along a branch instead of multiplying them.
 - In a Venn diagram, putting the full set total inside the "only" region and counting the overlap twice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

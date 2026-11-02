@@ -72,6 +72,12 @@ Memory aid: debit assets, expenses and drawings when they rise; credit liabiliti
 
 Returns accounts take the opposite side to the account they reduce: sales returns are debited like an expense, purchases returns are credited like income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## Common entries
 
 | Transaction | Debit | Credit |
@@ -97,6 +103,17 @@ Returns accounts take the opposite side to the account they reduce: sales return
 3. Use the rules to choose debit or credit.
 4. Write the date, the **other** account's name and the amount in each account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-post-busy-accounts.webp" width="900" height="890" alt="Three ledger accounts from Vellacott Pottery Supplies with debit on the left and credit on the right. Bank has debits of 12,000, 1,800 and 1,500 and credits of 2,400, 600, 2,000 and 400, balance 9,900 debit. Kirtle Clay (supplier) has a balance of 800 credit and Garnet Row Hotel (customer) 500 debit." loading="lazy">
+  <figcaption>The bank, supplier and customer accounts after posting May.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--02-post-single-entries.webp" width="900" height="1174" alt="Eight Vellacott ledger accounts with their postings: Capital credit 12,000; Shop fittings debit 2,400; Purchases debit 3,100; Sales credits 2,250 and 1,800 (balance 4,050); Rent debit 600; Purchases returns credit 300; Sales returns debit 250; Drawings debit 400. Each shows the date and the other account." loading="lazy">
+  <figcaption>The remaining eight accounts, each holding one half of a transaction.</figcaption>
+</figure>
+
+
 ## Method: balancing a two-sided account
 
 1. Total both sides.
@@ -118,6 +135,17 @@ Dr                            |Cr
 ```
 
 The hotel still owes 1,300, so this is a debit balance and a trade receivable. The debit total (2,640) minus the credit entries (1,000 and 340) gives 1,300.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--03-read-balances.webp" width="900" height="882" alt="Two bar charts in dollars. Kirtle Clay (supplier): bought 3,100, returned 300, paid 2,000, 800 still owed (credit balance). Garnet Row Hotel (customer): sold 2,250, returned 250, paid 1,500, 500 still owed to us (debit balance)." loading="lazy">
+  <figcaption>A credit balance on a supplier means we owe; a debit balance on a customer means they owe us.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
 
 ## Running balance reminders
 
@@ -152,6 +180,12 @@ Date    Details            Debit    Credit    Balance
 
 Closing an expense account is a credit in the expense account. Closing an income account is a debit in the income account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--02-year-end-transfers.webp" width="900" height="984" alt="Income and expense balances are closed to the statement of profit or loss; asset, liability and capital balances are carried down to the statement of financial position; drawings are taken off capital. Vellacott balances at 31 May: debit and credit balances both total 17,150." loading="lazy">
+  <figcaption>Income and expenses are closed; assets, liabilities and capital are carried down.</figcaption>
+</figure>
+
+
 ## Reading balances
 
 | Account | Debit balance | Credit balance |
@@ -169,6 +203,12 @@ Say what the figure means in words, not only "debit" or "credit". A debit balanc
 | Sales ledger | Credit customers' accounts |
 | Purchases ledger | Credit suppliers' accounts |
 | Nominal (general) ledger | All other accounts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
+  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
+</figure>
+
 
 ## Digital ledgers
 

@@ -34,6 +34,12 @@ These notes cover sub-topic 2(e) Extraction and uses of metals of the Pearson Ed
 - **Unreactive** metals are often found as the **uncombined element**: gold, and sometimes silver.
 - Extracting a metal from its oxide = removing oxygen = **reduction**. Metal ions gain electrons = also reduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--02-ores-and-gold.webp" width="900" height="920" alt="Haematite is an ore containing iron(III) oxide, bauxite an ore containing aluminium oxide, and gold is found as the uncombined element. Reactive metals are never found uncombined." loading="lazy">
+  <figcaption>Ores contain metal compounds; unreactive gold is found uncombined.</figcaption>
+</figure>
+
+
 ## 2.23C Method depends on reactivity
 
 ```
@@ -63,6 +69,17 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 - **Iron(III) oxide** is reduced (loses oxygen). Carbon monoxide is oxidised and is the **reducing agent**.
 - Detailed knowledge of the blast furnace is not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--04-steels-carbon-content.webp" width="900" height="1000" alt="A scale of carbon content from 0 to 4 percent. Low-carbon steel (up to 0.3%) is strong, malleable and cheap but rusts; high-carbon steel (0.6 to 1.0%) is very hard but brittle; blast-furnace iron (about 4%) is brittle. Stainless steel has at least 10.5% chromium and resists corrosion." loading="lazy">
+  <figcaption>The carbon content of iron and steel decides how hard or brittle it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+
 ### Aluminium: electrolysis
 
 | Feature | Recall |
@@ -74,6 +91,32 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 | Anode (+) | 2O²⁻ → O₂ + 4e⁻ (oxidation) |
 | Anodes replaced | Oxygen reacts with the hot carbon anodes to form CO₂, so they burn away |
 | Main cost | Electricity |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--03-uses-aluminium-copper.webp" width="900" height="1135" alt="Six rows pair a property with a use: aluminium for aircraft bodies, overhead cables and drinks cans; copper for wiring, water pipes and saucepan bases." loading="lazy">
+  <figcaption>Each use follows from a property of the metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--04-titanium-extraction.webp" width="900" height="880" alt="Titanium(IV) chloride is heated with molten magnesium at 800 to 850 degrees C under argon, giving titanium and magnesium chloride; the magnesium chloride is electrolysed to recover magnesium. For 4.80 kg Ti: 100 mol Ti, 200 mol Mg, 4.80 kg Mg." loading="lazy">
+  <figcaption>Magnesium displaces titanium, and the magnesium chloride is recycled by electrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--05-recycling-aluminium.webp" width="900" height="700" alt="Two bars compare energy: new aluminium from ore uses 100 percent, aluminium from scrap about 5 percent." loading="lazy">
+  <figcaption>Recycling aluminium needs only about 5% of the energy of making it from ore.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
 
 ## 2.24C Commenting on a process
 
@@ -119,6 +162,12 @@ Memory hook: **more carbon → harder but more brittle**.
 > 1. Pure metal: atoms all the same size in regular layers, which slide easily.
 > 2. Alloy: atoms of a different size distort the layers.
 > 3. So the layers slide over each other less easily → harder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

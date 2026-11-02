@@ -81,6 +81,17 @@ Unit conversions: 1 MeV = 1.60 × 10⁻¹³ J; 1 fm = 10⁻¹⁵ m.
 
 **Radius ratio reminder.** A = 216 against A = 8: R is in the ratio (216/8)^(1/3) = 3.0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--03-aphy-nuclear-random-decay.webp" width="900" height="1170" alt="100 dice are thrown repeatedly and every six is removed. Which die goes is unpredictable, but the number left follows the smooth curve 100 x (5/6)^n, halving after about 3.8 throws." loading="lazy">
+  <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
+</figure>
+
+
 ## 3.12.2 Mass and energy
 
 **Mass-energy.** E = mc² applies to every energy change. Chemical changes alter mass too, but by far too little to measure. For nuclear changes the mass change is measurable.
@@ -96,6 +107,12 @@ Unit conversions: 1 MeV = 1.60 × 10⁻¹³ J; 1 fm = 10⁻¹⁵ m.
 
 **Method for energy released in a reaction.** Add up the masses before; add up the masses after; the difference in u times 931.5 is the energy released in MeV. If the mass after is smaller, energy is released. Use nuclear masses throughout, or atomic masses throughout when the numbers of electrons before and after match.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--06-aphy-nuclear-mass-defect.webp" width="900" height="920" alt="The four separate nucleons of helium-4 weigh 4.031882 u but the nucleus 4.001505 u. The mass defect 0.030377 u is equivalent to 28.3 MeV, the binding energy, which is 7.07 MeV per nucleon." loading="lazy">
+  <figcaption>The binding energy is the energy equivalent of the mass defect.</figcaption>
+</figure>
+
+
 ## The binding energy per nucleon graph
 
 | Region | Nucleon number | What happens |
@@ -107,6 +124,12 @@ Unit conversions: 1 MeV = 1.60 × 10⁻¹³ J; 1 fm = 10⁻¹⁵ m.
 - Fusion region: left of the peak. Fission region: right of the peak.
 - Energy released = Σ(A × BE per nucleon) after − Σ(A × BE per nucleon) before.
 - Typical values: hydrogen-2 about 1.1, helium-4 7.07, carbon-12 7.68, iron-56 8.79, uranium-235 7.59 (MeV per nucleon).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--07-aphy-nuclear-binding-curve.webp" width="900" height="980" alt="Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 at about 8.8 MeV and falls slowly to about 7.6 MeV for uranium-235. Fusion of light nuclei and fission of heavy nuclei both move nuclei towards the peak and release energy: 17.6 MeV for deuterium plus tritium and about 184 MeV for a uranium-235 fission." loading="lazy">
+  <figcaption>Both fusion and fission release energy because their products sit nearer the peak of the curve.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -159,3 +182,14 @@ Unit conversions: 1 MeV = 1.60 × 10⁻¹³ J; 1 fm = 10⁻¹⁵ m.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.12.1 and 3.12.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
+  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+

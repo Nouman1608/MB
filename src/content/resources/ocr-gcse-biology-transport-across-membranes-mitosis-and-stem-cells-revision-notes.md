@@ -36,6 +36,12 @@ These notes condense statements B2.1a to B2.1f of the OCR GCSE (9-1) Biology A G
 | Stem cell | Undifferentiated cell that can divide and differentiate. |
 | Meristem | Region in a plant, at root and shoot tips, where stem cells divide. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+
 ## B2.1a Transport across membranes
 
 ### Comparison
@@ -61,6 +67,17 @@ These notes condense statements B2.1a to B2.1f of the OCR GCSE (9-1) Biology A G
 | Same | No net change | No net change |
 | More concentrated (lower water potential) | Loses water, shrinks | Loses water, becomes flaccid, membrane pulls away from the wall |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--03-cell-doubling.webp" width="900" height="1080" alt="Bar chart of cells at 0 to 48 hours in 8-hour steps: 1, 2, 4, 8, 16, 32, 64. Six divisions give 2 to the power 6, which is 64." loading="lazy">
+  <figcaption>Each division doubles the cells: 6 divisions in 48 hours gives 64.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--04-root-tip-mitosis-count.webp" width="900" height="1036" alt="A root tip with the dividing region near the tip, and a microscope field of 250 cells of which 35 are in mitosis. 35 divided by 250 times 100 is 14.0 percent." loading="lazy">
+  <figcaption>35 of 250 cells in mitosis is 14.0%, high because cells near the tip divide for growth.</figcaption>
+</figure>
+
+
 ### Method in steps: osmosis investigation
 
 1. Cut identical cylinders of plant tissue (same diameter and length).
@@ -71,11 +88,33 @@ These notes condense statements B2.1a to B2.1f of the OCR GCSE (9-1) Biology A G
 6. Calculate percentage change for each.
 7. Draw a graph of percentage change against concentration. The point where the line meets zero shows no net water movement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+
 ### Worked reminder: percentage change
 
 Percentage change = (final − initial) ÷ initial × 100.
 Chip: 2.50 g to 2.75 g gives +10.0%. Chip: 2.50 g to 2.20 g gives −12.0%.
 A negative answer is a loss. Always divide by the initial value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--01-nitrate-uptake-oxygen.webp" width="900" height="1210" alt="Two beakers hold a root, one bubbled with air and one with nitrogen. Bars show nitrate uptake of 5.0 and 1.0 units per hour, an 80 percent fall. Uptake needing oxygen means it needs respiration energy, pointing to active transport." loading="lazy">
+  <figcaption>Nitrate uptake falls 80% without oxygen, so it needs respiration: active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--06-swede-cylinders-graph.webp" width="900" height="800" alt="Graph of percentage change in mass against sucrose concentration: +12.0, +5.0, -2.0, -10.0 percent at 0.0, 0.2, 0.4, 0.6 mol/dm3. The line crosses zero at about 0.34 mol/dm3 where there is no net water movement." loading="lazy">
+  <figcaption>Percentage mass change falls with sucrose concentration and crosses zero near 0.34 mol/dm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--08-percentage-gain-mass.webp" width="900" height="660" alt="Bars to scale for 12.5 kg and 14.0 kg with the 1.5 kg gain highlighted. 1.5 divided by 12.5 times 100 is 12.0 percent, dividing by the start value." loading="lazy">
+  <figcaption>Percentage gain is divided by the starting mass.</figcaption>
+</figure>
+
 
 ## B2.1b Mitosis and the cell cycle
 
@@ -93,6 +132,12 @@ A negative answer is a loss. Always divide by the initial value.
 - Spindle fibres pull chromatids to opposite poles.
 - Two nuclei form; the cell divides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--07-mitosis-stages-drawn.webp" width="900" height="1030" alt="Four panels: chromosomes shorten and thicken; line up across the centre with spindle fibres; chromatids pulled to opposite ends; two nuclei form and the cell splits. A 4-chromosome cell gives two cells with 4 chromosomes each." loading="lazy">
+  <figcaption>Mitosis in four stages, ending with two identical daughter cells.</figcaption>
+</figure>
+
+
 ### Numbers to remember
 
 | Stage | Chromosomes (parent has 12) | DNA (parent 8 units) |
@@ -109,6 +154,12 @@ A negative answer is a loss. Always divide by the initial value.
 
 200 cells counted, 18 in mitosis: 18 ÷ 200 × 100 = 9.0%. A high percentage means rapid growth in that tissue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--02-chromosomes-chromatids.webp" width="900" height="1220" alt="A cell with 12 chromosomes and 8 units of DNA copies its DNA to give 12 chromosomes of two chromatids each (24 chromatids, 16 units), then mitosis gives two cells each with 12 chromosomes and 8 units." loading="lazy">
+  <figcaption>Replication doubles the chromatids and DNA; mitosis restores 12 chromosomes and 8 units in each daughter cell.</figcaption>
+</figure>
+
+
 ## B2.1c Differentiation
 
 - Differentiation produces specialised cells.
@@ -124,6 +175,12 @@ A negative answer is a loss. Always divide by the initial value.
 | Nerve cell | Long, branched | Carry impulses |
 
 Answer pattern: name the feature, then say how it helps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--05-muscle-cell-adaptations.webp" width="900" height="790" alt="Elongated muscle cell drawn relaxed and contracted. Each shows three parallel contractile fibres and ten mitochondria. Fibres shorten to contract; mitochondria supply energy from respiration." loading="lazy">
+  <figcaption>Muscle cell: contractile fibres and many mitochondria.</figcaption>
+</figure>
+
 
 ## B2.1d to B2.1f Stem cells
 

@@ -41,11 +41,48 @@ Higher total demand → firms sell more → firms hire idle workers and use idle
 
 **Limit:** at the curve, more demand only raises prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--15-eg-who-gains.webp" width="900" height="910" alt="Bars show each group's share of total income in Country D before and after total income grows 10 percent from 500 to 550. The poorest 20 percent of households receive 20, rising 3 percent to 20.6, so their share falls from 4.0 to 3.7 percent. The richest 20 percent receive 250, rising 14 percent to 285, so their share rises from 50.0 to 51.8 percent. Everyone is better off in money terms but the gap has widened." loading="lazy">
+  <figcaption>Incomes all rise, yet the poorest share falls from 4.0% to 3.7%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--09-growth-who-gains.webp" width="900" height="740" alt="Two bars of income shares in Country D. Before growth (total 500) the poorest 20% have 4.0%, the middle 60% 46.0% and the richest 20% 50.0%. After growth (total 550, +10%) the poorest have gained 3% and the richest 14%, so shares become 3.7%, 44.4% and 51.8%." loading="lazy">
+  <figcaption>Everyone is better off in money terms, yet the poorest share falls and the richest share rises.</figcaption>
+</figure>
+
+
 ### The four causes of a PPC shift
 1. **Investment:** more capital goods, so each worker produces more.
 2. **Technology:** better methods give more output from the same inputs.
 3. **Quantity of factors:** more land, labour or capital (new resources found, a bigger working population, immigration).
 4. **Quality of factors:** better trained, healthier workers; more advanced machines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--11-eg-spare-capacity.webp" width="900" height="910" alt="Bar charts for Country B, which can produce 1,000 units when resources are fully used. In year 1 output is 800 (80 percent used, spare capacity 200) and 44 million of a 50 million labour force are employed, so unemployment is 12 percent. After total demand rises, year 2 output is 950 (95 percent used, spare capacity 50) and employment is 47.5 million, so unemployment is 5 percent. Real GDP rises 18.75 percent with no new resources. Once output reaches 1,000 extra demand only raises prices." loading="lazy">
+  <figcaption>A rise in demand uses idle resources, so output rises with no new capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--12-eg-net-investment.webp" width="900" height="1140" alt="Two waterfall charts of Country B's capital stock, which starts at 1,000 units. With gross investment of 120 and depreciation of 80, net investment is 40 and the stock rises to 1,040, an increase of 4 percent. If gross investment were only 80, net investment would be zero and the stock would stay at 1,000, so the economy's capacity would not grow. The vertical axis starts at 900." loading="lazy">
+  <figcaption>Only gross investment above depreciation adds to the capital stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--13-eg-labour-quality-quantity.webp" width="900" height="830" alt="A rectangle diagram for Country C. The base rectangle is 20 million workers by 20 units of output per worker, an area of 400 units. Training raises output per worker by 5 percent to 21, adding a strip of 20 units. The labour force rising 2 percent to 20.4 million adds a strip of 8 units. A small corner of 0.4 units comes from both changes together. The new rectangle is 20.4 by 21, which is 428.4 units, an increase of 28.4 units or 7.1 percent, slightly more than 5 plus 2 percent." loading="lazy">
+  <figcaption>Better and more workers multiply, giving 7.1% rather than exactly 7%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--14-eg-ppc-shift-numbers.webp" width="900" height="960" alt="A graph with consumer goods on the horizontal axis and capital goods on the vertical axis. Country A's production possibility curve joins the points (0, 100), (40, 90), (70, 70), (90, 40) and (100, 0). The point (50, 50) lies inside the curve, so resources are not fully used. If every figure rises 10 percent the curve shifts outward to (0, 110), (44, 99), (77, 77), (99, 44) and (110, 0); the middle point (70, 70) becomes (77, 77). Choosing more capital goods now gives up consumer goods now but shifts the curve outward in future." loading="lazy">
+  <figcaption>A 10% rise in every figure shifts the whole PPC outward, so (70, 70) becomes (77, 77).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ### Method: utilisation and growth
 1. Utilisation (%) = actual output ÷ potential output × 100.
@@ -59,6 +96,12 @@ Gross investment 120, depreciation 80 → net 40. Capital stock 1,000 → 1,040,
 
 ### Method: productivity and labour
 Output per worker = output ÷ workers. If output per worker rises 5% and the labour force rises 2%, potential output rises by 1.05 × 1.02 = 1.071, which is 7.1% (not 7%). Multiply the changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--06-growth-labour-quality-and-tax.webp" width="900" height="880" alt="An area diagram: 20 million workers × 20 output per worker = 400. A 5% training gain adds a strip of 20, a 2% rise in workers adds a strip of 8, and the two multiply to leave a corner of 0.4, giving 20.4 × 21 = 428.4 (+7.1%). Bars then show tax at 25% rising from 100 to 107.1, an extra 7.1." loading="lazy">
+  <figcaption>Because the two causes multiply, output rises 7.1%, slightly more than 5% + 2%, and tax revenue rises with it.</figcaption>
+</figure>
+
 
 ### PPC table reminder (Country A, invented)
 | Consumer goods | 0 | 40 | 70 | 90 | 100 |
@@ -119,6 +162,17 @@ Supply-side measures have their own unit in section 4.5. In growth answers, link
 - Deficit = spending − revenue. Spending 160, revenue 140: deficit 20, which is 20 ÷ 400 × 100 = 5% of GDP. Extra 10 of spending: deficit 30, 7.5% of GDP.
 - Return on a project = yearly gain ÷ cost × 100. A road costing 60 that adds 9 a year returns 15%; payback = 60 ÷ 9 = 6.7 years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--07-road-or-training-payback.webp" width="900" height="770" alt="Two rows of blocks, one per year of extra output. The road costs 60 and gains 9 a year; the training scheme costs 30 and gains 4.5 a year. Both return 15% a year and pay back in 6.7 years, so cost alone does not decide." loading="lazy">
+  <figcaption>The road and the training scheme give the same return and payback despite the road costing twice as much.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--08-budget-deficit-percent-of-gdp.webp" width="900" height="860" alt="Two pairs of bars for Country C (GDP 400). Spending of 160 against revenue of 140 gives a deficit of 20, which is 5% of GDP. Extra spending of 10 on infrastructure raises spending to 170 and the deficit to 30, which is 7.5% of GDP." loading="lazy">
+  <figcaption>Spending an extra 10 on infrastructure lifts the deficit from 5% to 7.5% of GDP.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Movement within the PPC versus shift of the PPC.** A rise in demand uses spare resources. Investment and technology create capacity.
@@ -171,3 +225,9 @@ Supply-side measures have their own unit in section 4.5. In growth answers, link
 ## Official syllabus
 
 Aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 4.6.4 to 4.6.6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+

@@ -49,6 +49,12 @@ A small rise can speed reactions up. A large rise stops them. Both extremes thre
 
 Blood pH is held at about 7.4 (roughly 7.35 to 7.45). A change in pH alters the concentration of hydrogen ions, which changes the charges on R groups in the enzyme. Ionic and hydrogen bonds then break or form in the wrong places, the tertiary structure alters and the active site is distorted. Substrate binds less well, so enzyme activity falls. In severe cases the enzyme is denatured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
+  <figcaption>How a red cell carries CO2 and why chloride moves in.</figcaption>
+</figure>
+
+
 ### Worked example: pH and enzyme activity
 
 An enzyme in cells has this relative activity (optimum = 100).
@@ -175,6 +181,32 @@ Data supplied from a resting volunteer:
 
 - Change in heart rate from 60 to 140 mmHg: (60 − 78) ÷ 78 × 100 = **−23.1 %**.
 - Pressure rises, pressure receptors send more impulses to the medulla, the medulla sends more impulses along the vagus (parasympathetic) nerve to the SAN, and the heart rate falls. That lowers pressure again. When pressure is low, fewer impulses arrive and sympathetic stimulation raises the heart rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--02-tissue-fluid.webp" width="900" height="1020" alt="A capillary from arterial to venous end beside a body cell and lymph capillary. Bars show blood pressure (4.0 then 1.6 kPa) against the 3.3 kPa pull of plasma proteins, giving a net 0.7 kPa out then 1.7 kPa in. Excess fluid drains to lymph." loading="lazy">
+  <figcaption>Pressure balance explains why fluid leaves at the arterial end and returns at the venous end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--06-cardiac-cycle.webp" width="900" height="1180" alt="Pressure graph for left atrium, ventricle and aorta at five times in a 0.75 s cycle with the open or closed state of the atrioventricular and semilunar valves worked out from the pressures. The cycle gives 80 beats per minute." loading="lazy">
+  <figcaption>Valves open and close only because of pressure differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--08-heart-rate-control.webp" width="900" height="1170" alt="Feedback loop: chemoreceptors and pressure receptors signal the cardiac control centre in the medulla, which uses the sympathetic nerve to speed up or the vagus to slow down the SAN. Adrenaline (OCR) also acts on the SAN. Bars show rest, exercise and recovery rates with blood pH." loading="lazy">
+  <figcaption>Heart rate is adjusted by negative feedback using opposite nerves.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -50,6 +50,12 @@ Standard theory assumes three things.
 
 She stops where the extra benefit falls below the extra cost. Behavioural economics asks how often real people decide this way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--02-un193-rational-bike-rides.webp" width="900" height="770" alt="Five rides are worth 9, 7, 5, 3 and 1 crowns against a fare of 4. The first three have net benefits of 5, 3 and 1, total 9 crowns, so the rational consumer takes 3 rides and stops." loading="lazy">
+  <figcaption>A rational consumer rides until the extra benefit falls below the fare, earning net benefit 9.</figcaption>
+</figure>
+
+
 ## Biases and rules of thumb
 
 Behavioural economics uses evidence on how people actually decide. Three biases are listed.
@@ -69,6 +75,12 @@ Behavioural economics uses evidence on how people actually decide. Three biases 
 
 The bias leads to over-insurance. Notice that this is an error of judgement, not of arithmetic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--10-eco73-biases-anchoring-availability.webp" width="900" height="920" alt="Anchoring: the headline 37.5 percent cut is only a 6.25 percent real saving against the usual 160. Availability: the felt expected loss is 150 against a true 6 and a cover price of 20. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Two biases that bend a price decision (HL only).</figcaption>
+</figure>
+
+
 ## Bounded rationality
 
 Herbert Simon argued that people have limited information, time and thinking capacity, so they cannot find the best option. **Bounded rationality** means decisions are rational only within those limits. People use rules of thumb and accept a "good enough" option. Firms do the same, which links to satisficing later.
@@ -78,6 +90,12 @@ Herbert Simon argued that people have limited information, time and thinking cap
 **Bounded self-control** describes someone who can name the better long-term option yet fails to follow it, because rewards now outweigh rewards later. Typical cases are under-saving, over-eating and putting off a dental check.
 
 **Worked example.** A saver is offered 100 now or 120 in 4 weeks, and picks 100 now. She is then offered 100 in 52 weeks or 120 in 56 weeks, and picks 120 in 56 weeks. The waiting time and gain are the same (a 20% gain for 4 extra weeks), yet the choice flips. When the reward is immediate she gives way; when everything is distant she is patient. Rational choice would give the same answer both times.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--03-un193-bounded-self-control.webp" width="900" height="850" alt="The saver picks 100 now over 120 in 4 weeks, but picks 120 in 56 weeks over 100 in 52 weeks, although the delay and 20% gain are identical." loading="lazy">
+  <figcaption>The same 4-week wait and 20% gain gives opposite choices depending on whether the reward is immediate.</figcaption>
+</figure>
+
 
 ## Bounded selfishness
 
@@ -90,6 +108,12 @@ Herbert Simon argued that people have limited information, time and thinking cap
 
 The proposer who expects others to care about fairness does better by being generous. Fairness changes what maximising means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--04-un193-bounded-selfishness.webp" width="900" height="730" alt="An offer of 10 is rejected 80% of the time, giving the proposer an expected 10. An offer of 24 is accepted 95% of the time, giving an expected 34.2." loading="lazy">
+  <figcaption>Because responders care about fairness, the fair offer earns the proposer more.</figcaption>
+</figure>
+
+
 ## Imperfect information
 
 Perfect information is rare. Buyers may not know quality, future prices or hidden terms, and sellers may use this.
@@ -100,6 +124,12 @@ Perfect information is rare. Buyers may not know quality, future prices or hidde
 - Q: 24 x 24 = **576**.
 
 A buyer who picks P because "10 a month" is the bigger-looking headline pays 168 more. Imperfect information, a low anchor and limited attention to small print combine here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--05-un193-imperfect-information.webp" width="900" height="650" alt="Plan P costs 60 plus 684 = 744 over 24 months. Plan Q costs 576. The plan that looks cheaper costs 168 more." loading="lazy">
+  <figcaption>The headline &quot;10 a month&quot; hides a 24-month cost that is 168 higher than the alternative.</figcaption>
+</figure>
+
 
 ## Choice architecture and nudges
 
@@ -127,6 +157,12 @@ The default works because of inertia and because people read the default as advi
 - **Strengths:** cheap, keep freedom of choice, suit cases where bias harms the chooser.
 - **Limits:** effects can fade, may not fit all groups, give little to people who have genuinely different preferences, and raise questions about who decides what is "better". Compare with taxes, bans or information campaigns when you judge them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--11-eco73-default-nudge.webp" width="900" height="910" alt="Opt-in gives 12 percent (2 400 of 20 000) and opt-out 68 percent (13 600), so the default adds 11 200 members; at 3 a month the extra spend is 403 200 a year. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>A default is a nudge (HL only).</figcaption>
+</figure>
+
+
 ## Business objectives
 
 Standard theory assumes firms maximise profit, where marginal revenue (MR) equals marginal cost (MC). The guide also lists alternatives: corporate social responsibility (CSR), market share, satisficing and growth.
@@ -151,6 +187,12 @@ MR is 100 - 4Q and MC is 20, so MR = MC at Q = 20.
 - **CSR:** if the firm spends 100 on a local programme, fixed cost rises to 300 and profit at Q = 20 falls to 500.
 
 Why firms depart from profit maximisation: owners and managers differ (separation of ownership and control), information is limited, and reputation and long-run survival matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--09-eco73-objectives-profit-curve.webp" width="900" height="1030" alt="Profit = -2Q squared + 80Q - 200. Profit is maximal at Q 20 (600), revenue peaks at Q 25 (profit 550), market share at Q 37 (profit 22), satisficing target 400 at Q 10 to 30, CSR spend of 100 gives 500 at Q 20. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>One firm, five objectives (HL only).</figcaption>
+</figure>
+
 
 ## Common errors
 

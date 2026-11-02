@@ -52,6 +52,12 @@ A carbon atom has four outer electrons and shares all four, so **carbon forms fo
 
 Chain length, branching, rings and attached groups can all vary, so the number of possible compounds is enormous: natural ones such as sugars, fats and proteins, and synthetic ones such as plastics and drugs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--08-un112-carbon-chains-rings.webp" width="900" height="870" alt="A straight chain, a branched chain and a six-carbon ring drawn from computed coordinates; methane, ethane and propane differ by one CH2 each." loading="lazy">
+  <figcaption>Chains, rings and a homologous family.</figcaption>
+</figure>
+
+
 ## Carbon structures (C2.3c, CM2.3i)
 
 The same atoms give very different materials depending on bonding and arrangement.
@@ -70,6 +76,22 @@ The same atoms give very different materials depending on bonding and arrangemen
 1. Graphite has layers held together by weak forces, so layers slide off onto paper.
 2. Graphite's carbons bond to three neighbours each, so one outer electron per atom is delocalised; it moves and carries charge, making graphite a good electrode.
 3. Diamond's carbons each take part in four strong covalent bonds, locked into a 3D network, so it is extremely hard, which suits a cutting tip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--09-un112-graphene-nanotube.webp" width="900" height="810" alt="Graphene is a one-atom-thick hexagon sheet, each carbon bonded to three others. A nanotube is the same sheet rolled into a tube. Both conduct and are strong." loading="lazy">
+  <figcaption>Graphene and a nanotube share one hexagon pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
 
 ## Changes of state and bond strength (C2.3d, C2.3e)
 
@@ -101,6 +123,22 @@ At 25 °C: A is between −117 and 79, so **liquid**. B is below 63, so **solid*
 
 At −200 °C: A, B and D are below their melting points, so all **solid**. C is between −218 and −183, so **liquid**. C is liquid over a range of only 35 °C. D has by far the highest melting point, which points to a giant structure; C, with very low values, is a simple molecular substance with weak intermolecular forces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--10-un112-predict-states.webp" width="900" height="1115" alt="Substances A to D at 25 degrees C and minus 200 degrees C are shown as particle pictures labelled solid, liquid or gas, using the lesson mp and bp values." loading="lazy">
+  <figcaption>State of A to D at two temperatures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
+</figure>
+
+
 ## Bulk properties and bonding (C2.3f)
 
 Bulk properties (hardness, melting point, conductivity) belong to a large sample. They depend on bond type, bond strength compared with intermolecular forces, and arrangement.
@@ -115,6 +153,17 @@ Bulk properties (hardness, melting point, conductivity) belong to a large sample
 
 **Atoms do not have bulk properties.** A single copper atom is not shiny, malleable or a conductor. Those properties come from billions of atoms bonded together with delocalised electrons. Diamond and graphite prove the point: both contain only carbon atoms, yet one is the hardest natural material and the other is soft. The difference is the bonding and arrangement, not the atoms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
+
 ## Nanoparticles: size and scale (C2.3g, CM2.3ii to CM2.3iv)
 
 One nanometre (1 nm) is 1 × 10⁻⁹ m. Nanoparticles are usually taken as particles between 1 nm and 100 nm across, so each contains anything from a few tens to millions of atoms. An atom has a radius of about 0.1 nm, so an atom is roughly 0.2 nm across; small molecules are a little larger, and a C₆₀ molecule is about 1 nm across. A nanoparticle is therefore bigger than an atom or a small molecule, but far smaller than anything you can see.
@@ -126,6 +175,12 @@ One nanometre (1 nm) is 1 × 10⁻⁹ m. Nanoparticles are usually taken as part
 - Compare with a 1 mm grain of salt: 1 × 10⁻³ ÷ 3.2 × 10⁻⁸ = **31 250**. The grain is about 31 000 times wider.
 
 Put both numbers in the same unit before you divide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--01-mp-che-16-nano-scale.webp" width="900" height="980" alt="A logarithmic size line from 0.1 nm to 1 mm. An atom is about 0.2 nm across, C60 about 1 nm, nanoparticles 1 to 100 nm, and a salt grain 1 mm. A 32 nm particle is 3.2 x 10^-8 m, about 160 atoms across, and 31 250 times narrower than a 1 mm grain." loading="lazy">
+  <figcaption>Nanoparticles sit between atoms and everything you can see.</figcaption>
+</figure>
+
 
 ## Surface area to volume (C2.3h, CM2.3v, CM2.3vi)
 
@@ -148,6 +203,17 @@ So **as particles get smaller, the surface area to volume ratio gets larger**. I
 **Practical suggestion: dissolving tablets (PAG C8).** Drop identical soluble tablets into the same volume of water at the same temperature: one whole, one broken into halves, one crushed to powder. Time how long each takes to dissolve. Repeat each test and calculate a mean.
 
 **Worked example 5.** Times to dissolve in seconds: whole tablet 74, 70, 72; halves 51, 55, 53; powder 24, 22, 26. Means: whole = 216 ÷ 3 = **72 s**, halves = 159 ÷ 3 = **53 s**, powder = 72 ÷ 3 = **24 s**. The smaller the pieces, the larger the total surface exposed to water, so the faster the tablet dissolves. The independent variable is particle size; the mass of tablet, volume and temperature of water must be kept the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--02-mp-che-16-surface-to-volume.webp" width="900" height="1060" alt="A cube of side 2 units cut into eight cubes of side 1 keeps volume 8 but doubles surface area from 24 to 48, so the ratio rises from 3 to 6. The lesson example compares a 1000 nm cube (0.006 per nm) with a 20 nm cube (0.3 per nm), 50 times more." loading="lazy">
+  <figcaption>Cutting a solid into smaller pieces raises the surface area to volume ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--11-un112-dissolving-tablets.webp" width="900" height="1010" alt="Bars show mean dissolving times of 72 s for a whole tablet, 53 s for halves and 24 s for powder, with the three repeats as dots." loading="lazy">
+  <figcaption>Dissolving time falls as the tablet is broken up.</figcaption>
+</figure>
+
 
 ## Uses and risks of nanoparticles (C2.3i, C2.3j)
 

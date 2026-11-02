@@ -49,6 +49,12 @@ Effects of a tariff in one line each:
 - Government gains revenue.
 - Consumers lose more than producers and government gain, so there is a net loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--01-tariff-diagram.webp" width="900" height="1040" alt="Supply and demand diagram for kettles in Alder with a world price of 30c and a tariff price of 40c. Under free trade home firms supply 40 and buyers demand 140 so imports are 100. With the tariff supply is 70, demand 120 and imports 50. Area a (producer gain 550), b (150) and d (100) are shown with c, government revenue 500; b plus d is the deadweight loss of 250." loading="lazy">
+  <figcaption>A 10c tariff cuts imports from 100 to 50; areas b and d (250) are the deadweight loss.</figcaption>
+</figure>
+
+
 ## Worked reminder: a tariff
 
 Country Pell's market for ceramic stoves (thousands, c): Qd = 120 − 2P, Qs = 2P − 10, world price 20 c.
@@ -62,6 +68,12 @@ Country Pell's market for ceramic stoves (thousands, c): Qd = 120 − 2P, Qs = 2
 
 Same market, **quota of 30**: the price must rise to 25 so that Qd - Qs = 30. Quota rent = 5 × 30 = 150. Who gets it decides whether the country loses more than under the tariff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--04-quota-rent.webp" width="900" height="1010" alt="Supply and demand diagram for kettles in Alder. At the world price of 30c home firms supply 40 and buyers demand 140. A quota of 50 imports raises the price until demand 120 minus supply 70 equals 50, at 40c. The gold rectangle between the world price and 40c, from quantity 70 to 120, is the quota rent of 10 times 50 equals 500. If licences are auctioned the government gets it; if licences are free, importers or foreign exporters keep it and the home economy is worse off than under a tariff." loading="lazy">
+  <figcaption>A quota of 50 raises the price to 40c just as the tariff did; the 10c gap on 50 kettles is quota rent of 500, kept by whoever holds the licences.</figcaption>
+</figure>
+
+
 ## Tariff versus quota versus export subsidy
 
 | | Tariff | Quota | Export subsidy |
@@ -73,6 +85,12 @@ Same market, **quota of 30**: the price must rise to 25 so that Qd - Qs = 30. Qu
 | Main risk | Retaliation | Retaliation, rent going abroad | Retaliation, taxpayers fund it |
 
 A subsidy of 4 c on 40 units exported costs the government 4 × 40 = 160.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--02-export-subsidy-diagram.webp" width="900" height="1020" alt="Supply and demand diagram for tinned fish in Brindle. At the world price of 60c home buyers demand 30 and firms supply 90, exporting 60. With a 10c export subsidy firms receive 70c, demand falls to 20, supply rises to 110 and exports reach 90. The gold rectangle is the subsidy cost of 900; two small copper triangles (100 and 50) make the net loss of 150." loading="lazy">
+  <figcaption>A 10c subsidy costs the government 900 but gains producers net 750, so Brindle loses 150.</figcaption>
+</figure>
+
 
 ## Causes of protectionism
 
@@ -86,6 +104,12 @@ A subsidy of 4 c on 40 units exported costs the government 4 × 40 = 160.
 - Standards on safety, labour or the environment.
 
 Evaluation: ask who gains, who pays and for how long. Do consumers pay more than the benefit? Will other countries retaliate? Does it delay the structural change the economy needs?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--04-trade-war-payoffs.webp" width="900" height="1010" alt="A two by two payoff table. Country A chooses rows, Country B chooses columns, each free trade or tariff. Both free trade gives 10 and 10; A tariff alone gives A 14 and B 4; B tariff alone gives A 4 and B 14; both tariff gives 6 each. Whatever the other does, a tariff pays more, so both tariff and each gets 6, below the 10 from free trade." loading="lazy">
+  <figcaption>Each country does better by imposing a tariff whatever the other does, yet both end with 6 instead of 10.</figcaption>
+</figure>
+
 
 ## Consequences: winners and losers
 
@@ -104,6 +128,22 @@ Country Tarn has a tariff of 6 per unit on all imports and buys 40 units a year.
 - Consumers save (18 - 15) × 40 = 120. Tariff revenue lost = 6 × 40 = 240. Net = **-120**.
 - Check: the extra resource cost is (15 - 12) × 40 = 120.
 - Trade creation example: Tarn's own firms make a good at 20, and Wick sells it at 15. After the union Tarn imports it, saving (20 - 15) × 40 = 200 of resources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--03-trade-diversion.webp" width="900" height="1030" alt="Two bar charts. Before the union, Hale pays Cedar 20 plus a 10 tariff, 30 in all, against 24 plus 10, 34, from Dunmore, so it buys from Cedar. After Hale and Dunmore form a union the tariff on Dunmore goes, so Dunmore costs 24 and Hale switches to it. Consumers save 600, tariff revenue of 1,000 is lost, net 400 loss equal to the extra resource cost (24-20) x 100." loading="lazy">
+  <figcaption>Buying from a dearer member (24) instead of a cheaper outsider (20) is trade diversion: a net loss of 400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--05-trade-creation.webp" width="900" height="1030" alt="Two bar charts. Before the union Hale's own firms supply at 28, while Dunmore's 24 plus the tariff of 10 costs 34, so Hale produces at home. After the union the tariff on Dunmore goes, Dunmore costs 24 and Hale imports from it. For 100 units the saving is (28 minus 24) times 100 equals 400. Unlike trade diversion, the switch is from a dearer producer to a cheaper one." loading="lazy">
+  <figcaption>When a union lets Hale buy from cheaper Dunmore (24) instead of its own dearer firms (28), resources of 400 are saved: trade creation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto--06-fta-customs-union-sem.webp" width="900" height="1000" alt="Three stacked panels. Free trade area: three members trade freely with each other, but each keeps its own tariff on outsiders. Customs union: free trade inside and one common external tariff around the whole group. Single European Market: goes further, with goods, services, capital and people moving freely and common rules and standards and common competition rules." loading="lazy">
+  <figcaption>Each step keeps the one before and adds more: a free trade area frees trade inside, a customs union adds one common outside tariff, and the Single European Market adds free movement and common rules.</figcaption>
+</figure>
+
 
 ## Chain of reasoning for a tariff answer
 

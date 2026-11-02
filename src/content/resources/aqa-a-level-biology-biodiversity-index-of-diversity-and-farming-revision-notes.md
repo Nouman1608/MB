@@ -39,6 +39,12 @@ These are condensed notes for AQA A-level Biology (7402) section 3.4.6, *Biodive
 - The Earth: only estimated, because many species are not yet described.
 - Compare like with like: same scale, same sampling method, same effort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
+
 ## Richness and the index of diversity
 
 | Measure | What it uses | Weakness |
@@ -71,6 +77,17 @@ N is the total number of organisms of all species. n is the number of organisms 
 - A species with n = 0 is not in the sample, so ignore it.
 - A species with n = 1 adds 0 to the denominator.
 - Equal counts across species give a high d. One dominant species gives a low d.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
 
 ## Interpreting d
 
@@ -119,6 +136,12 @@ Chain to write: habitat or food removed, so fewer niches, so fewer species, so l
 - Use the same method, effort and time of year in each habitat being compared.
 - Take enough samples that rare species are likely to appear.
 - Repeat on different days if you can, and quote values with a sensible number of significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

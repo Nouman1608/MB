@@ -33,6 +33,12 @@ These notes condense **section 3.1.4.1, The importance of cost, revenue and prof
 - Firms often have more than one objective, and they can conflict. Winning share by cutting price lowers profit per unit.
 - A new firm often values growth more than profit at first. An established firm may focus on profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--03-market-share-vs-growth.webp" width="900" height="1010" alt="Two 10x10 grids show 12 percent and a 15 percent target share of a 600,000 pound market, then bars show sales growth of 12.5 percent. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Market share and sales growth are measured differently.</figcaption>
+</figure>
+
+
 ## Cost formulas
 
 | Term | Formula |
@@ -48,6 +54,17 @@ These notes condense **section 3.1.4.1, The importance of cost, revenue and prof
 - AFC always falls as output rises, because the fixed bill is shared out.
 - Decide fixed or variable from how the cost behaves, not from how often it is paid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--01-afc-falls.webp" width="900" height="1070" alt="Fixed cost per paddle falls from 40 to 10 pounds as output rises from 100 to 400. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Same fixed bill shared by more units, so average cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Revenue and profit formulas
 
 | Term | Formula |
@@ -56,6 +73,12 @@ These notes condense **section 3.1.4.1, The importance of cost, revenue and prof
 | Average revenue (AR) | TR / quantity sold (equals price if one price is charged) |
 | Profit | TR - TC (a negative result is a loss) |
 | Profit per unit | AR - AC |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -96,9 +119,21 @@ Starting from the £3,000 profit above:
 - **Do both**: the biggest gain usually comes when costs fall and revenue rises together.
 - **Check the net effect**: extra advertising is a cost, so revenue must rise by more than the new cost for profit to increase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--02-profit-actions.webp" width="900" height="1010" alt="Profit for five actions: 3,000 start, 3,400, 3,900, 3,200 and 1,400. The last has a higher price but lower profit because sales fall too far. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>A higher price does not guarantee higher profit.</figcaption>
+</figure>
+
+
 ## Higher prices and the incentive to expand
 
 Chain: **price rises, so profit per unit rises (if costs are unchanged), so supplying more is more attractive, so firms expand and new firms may enter.** This explains the upward-sloping supply curve. A higher price does not always mean higher total profit, because quantity sold may fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--09-price-gap-expansion.webp" width="900" height="1030" alt="At average cost £50, a price of £65 leaves a £15 gap per paddle and a price of £75 leaves £25. The bigger gap encourages expansion." loading="lazy">
+  <figcaption>A higher price widens the gap over average cost and encourages expansion.</figcaption>
+</figure>
+
 
 ## Moral and ethical considerations
 
@@ -108,6 +143,12 @@ The specification says producers' motives may conflict with ethical and moral in
 - **Why a firm may do it**: lower average costs or higher revenue, so more profit.
 - **Who loses**: workers, local residents, customers, the environment.
 - **Evaluation**: reputation, fines and lost customers can cancel the gain; the answer depends on laws, customer awareness and firm size. Conclude with a clear judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-business-objectives-costs-revenue-and-profit--08-ethics-profit-stream.webp" width="900" height="1010" alt="Dumping waste cuts average cost from £14 to £11.50, raising profit on 20,000 shirts from £40,000 to £90,000. Local people lose clean water and wildlife is harmed." loading="lazy">
+  <figcaption>The firm gains £50,000 while others bear the cost.</figcaption>
+</figure>
+
 
 ## Worked reminder 3: share, growth and mixed prices
 

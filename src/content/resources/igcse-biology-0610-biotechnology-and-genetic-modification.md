@@ -63,6 +63,12 @@ Bacteria are useful in biotechnology and genetic modification for two reasons:
 - **Rapid reproduction rate.** Under good conditions a population grows very quickly, so a large amount of product can be made in a short time.
 - **Ability to make complex molecules.** Bacteria can make proteins and other complex molecules that are useful to humans.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
+
 ### Extended only
 
 You must also be able to *discuss* why bacteria are useful, limited to two further points:
@@ -71,6 +77,12 @@ You must also be able to *discuss* why bacteria are useful, limited to two furth
 - **The presence of plasmids.** Plasmids are small circular loops of DNA found in bacterial cells, separate from the main circular DNA. They can be cut open, have a gene inserted and be put back into bacteria. This makes them ideal for carrying a new gene into a bacterium (see 21.3).
 
 For "discuss", say *why* each feature helps, not just that bacteria have it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--01-bacteria.webp" width="900" height="1130" alt="Three panels. One: one bacterium becomes 2, 4 then 8 as numbers double, showing rapid reproduction. Two: a bacterium makes a protein, a complex molecule. Three, Extended: a bacterial cell with a main DNA loop and small plasmids; a plasmid can be opened, given a gene and closed; growing bacteria raises few ethical concerns." loading="lazy">
+  <figcaption>Bacteria multiply fast, make complex molecules and carry plasmids that can take a new gene.</figcaption>
+</figure>
+
 
 ## 21.2 Biotechnology
 
@@ -168,6 +180,27 @@ rate = 6 ÷ 3 = 2 °C per hour
 
 **Answer: 2 °C per hour.** The microorganisms were still respiring, and respiration releases heat energy. With no cooling water, the heat was not removed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--02-yeast.webp" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Extended equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise." loading="lazy">
+  <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--03-pectinase.webp" width="900" height="1000" alt="Pectin holds plant cells together. Pectinase breaks down pectin and cell walls so juice leaks out. Measuring cylinders show 18.0 cm3 of cloudy juice without pectinase and 27.0 cm3 of clearer juice with it, an increase of 9.0 cm3 or 50 percent." loading="lazy">
+  <figcaption>Pectinase gives 50% more juice, and clearer juice, in the worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
+</figure>
+
+
 ## 21.3 Genetic modification
 
 ### Core: what GM is
@@ -208,6 +241,12 @@ The syllabus names soya, maize and rice. "Discuss" means give both sides.
 - Insect pests may become resistant to the toxin over time.
 - Some people are concerned about possible effects on human health, such as allergies, even though evidence is limited.
 - Growing one variety over large areas reduces genetic variation in the crop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ## Common errors
 

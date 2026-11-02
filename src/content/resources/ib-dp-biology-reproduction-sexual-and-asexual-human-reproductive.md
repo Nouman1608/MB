@@ -57,6 +57,12 @@ Sexual reproduction involves two gametes, usually from two parents, produced by 
 
 The guide asks for the relative advantages. Asexual reproduction lets a well-adapted individual produce many offspring that carry the same successful genotype. Sexual reproduction produces new gene combinations, so some offspring may be adapted to a changed environment, for example a new disease or a warmer climate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--01-sexual-vs-asexual.webp" width="900" height="1225" alt="One parent and mitosis give identical offspring; two parents with meiosis and fusion of gametes give new gene mixes. Bands A and B stand for gene versions: the asexual parent and its three offspring all show A-B-A, while three sexual offspring each have a different mix of parent A and parent B bands." loading="lazy">
+  <figcaption>Asexual reproduction copies the parent; sexual reproduction mixes two parents' genes.</figcaption>
+</figure>
+
+
 ## D3.1.2 Meiosis and fusion of gametes in the life cycle
 
 A sexual life cycle alternates between haploid cells (n) and diploid cells (2n). Meiosis halves the chromosome number to make haploid gametes. Fusion of gametes, also called fertilization, restores the diploid number in the zygote.
@@ -64,6 +70,12 @@ A sexual life cycle alternates between haploid cells (n) and diploid cells (2n).
 Meiosis breaks up the combinations of alleles that a parent carries. Fusion of gametes then brings together alleles from two different parents in new combinations. Without meiosis, chromosome number would double every generation.
 
 **Worked example.** Human body cells have 46 chromosomes. Each gamete has 23. The zygote has 23 + 23 = 46 chromosomes, so the diploid number is restored.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--02-life-cycle-gametes.webp" width="900" height="1075" alt="A diploid adult cell (46) makes haploid gametes (23) by meiosis: a large egg with food reserves and a small swimming sperm with little food. Fusion gives a zygote of 23 + 23 = 46 chromosomes, which grows by mitosis." loading="lazy">
+  <figcaption>Meiosis halves the chromosome number and fusion of gametes restores it.</figcaption>
+</figure>
+
 
 ## D3.1.3 Male and female sexes
 
@@ -101,6 +113,12 @@ You should be able to draw both systems and annotate names and functions.
 | Cervix | Narrow opening between uterus and vagina |
 | Vagina | Receives semen; birth canal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--03-reproductive-systems.webp" width="900" height="1265" alt="Female: ovary, oviduct (site of fertilization), uterus with endometrium lining, cervix, vagina. Male: testis in the scrotum, epididymis, sperm duct, seminal vesicle, prostate gland, urethra, penis, with the bladder for context. Short function notes follow each name." loading="lazy">
+  <figcaption>Labelled schematics of the female and male systems with one-line functions.</figcaption>
+</figure>
+
+
 ## D3.1.5 Ovarian and uterine cycles
 
 The ovarian cycle (events in the ovary) and the uterine cycle (events in the endometrium) together make the menstrual cycle. Typical length is about 28 days, but it varies between people.
@@ -120,6 +138,12 @@ percentage change = (10 − 2) ÷ 2 × 100 = **+400%**
 
 **Worked example (interpreting).** LH is 8 units on day 12 and 60 units on day 14, a rise of (60 − 8) ÷ 8 × 100 = 650%. Day 14 is the surge, so ovulation follows soon after. The surge is explained by positive feedback from high oestradiol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--04-menstrual-cycle.webp" width="900" height="1215" alt="Over 28 days, FSH and LH, oestradiol and progesterone, and endometrium thickness are plotted. Negative feedback operates early and in the luteal phase, positive feedback around the oestradiol peak, and the LH surge on day 14 triggers ovulation. LH rises 8 to 60 units (+650%) and endometrium 2 to 10 mm (+400%)." loading="lazy">
+  <figcaption>Feedback type changes through the cycle: negative, then positive for the LH surge, then negative again.</figcaption>
+</figure>
+
+
 ## D3.1.6 Fertilization in humans
 
 Fertilization usually takes place in the oviduct. The sequence is:
@@ -129,6 +153,12 @@ Fertilization usually takes place in the oviduct. The sequence is:
 3. The nuclear membranes around the sperm and egg nuclei dissolve.
 4. The chromosomes condense. All of them, 23 from each parent, take part in one joint mitosis.
 5. Mitosis produces two diploid nuclei, each with 46 chromosomes, in a two-cell embryo.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--05-fertilization-steps.webp" width="900" height="1130" alt="Five steps in the egg: membranes fuse; sperm nucleus enters while tail and mitochondria are destroyed; nuclear membranes dissolve; 23 + 23 chromosomes condense and join one mitosis; two cells each with 46 chromosomes result." loading="lazy">
+  <figcaption>Fertilization ends with a two-cell embryo in which every nucleus is diploid (46).</figcaption>
+</figure>
+
 
 ## D3.1.7 Hormones in IVF
 
@@ -146,6 +176,12 @@ Collecting several eggs raises the chance of at least one healthy embryo. Supero
 
 **Worked example.** If 12 eggs are collected and 9 fertilize, the fertilization rate is 9 ÷ 12 × 100 = **75%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--06-ivf-hormones.webp" width="900" height="1150" alt="Five steps: own pituitary secretion suppressed; FSH (with LH) makes many follicles grow; a final dose matures eggs, which are collected; eggs and sperm are mixed in a dish (9 of 12 fertilize, 75%); the embryo is placed in the uterus with progesterone support." loading="lazy">
+  <figcaption>IVF uses hormones to suppress the natural cycle and cause superovulation so several eggs mature at once.</figcaption>
+</figure>
+
+
 ## D3.1.8 Flowering plant reproduction
 
 Flowering plants reproduce sexually, even when one flower has both male and female parts (hermaphrodite). Gametes are made by meiosis.
@@ -155,6 +191,12 @@ Flowering plants reproduce sexually, even when one flower has both male and fema
 - **Pollination** is the transfer of pollen from an anther to a stigma.
 - **Pollen tube.** The pollen grain germinates on the stigma and a tube grows down the style to the ovule, carrying the male nucleus to the egg.
 - **Fertilization.** A male gamete fuses with the egg to form a zygote, which divides by mitosis to form the embryo inside the seed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--07-insect-pollinated-flower.webp" width="900" height="730" alt="A flower in section with petals, sepals, nectary, two stamens (filament and anther), and a carpel of stigma, style and ovary with ovules. A pollen grain on the stigma has grown a pollen tube down the style to an ovule, carrying sperm to the egg." loading="lazy">
+  <figcaption>Parts of an insect-pollinated flower and the route of the pollen tube to the ovule.</figcaption>
+</figure>
+
 
 ## D3.1.9 An insect-pollinated flower
 
@@ -182,6 +224,12 @@ Cross-pollination moves pollen between different plants. Methods you need:
 - **Separate male and female plants**.
 - **Animals or wind** carry pollen between plants. Animal-pollinated flowers have the features in D3.1.9. Wind-pollinated flowers usually have small, dull petals, large feathery stigmas and anthers hanging outside the flower.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--08-avoiding-inbreeding.webp" width="900" height="1070" alt="Three methods of cross-pollination: ripening at different times, separate male and female flowers on one plant, or on separate plants. Below, a stigma with alleles S1 and S2 blocks S1 pollen; from an S1S3 plant 50% of pollen can fertilize, from an S3S4 plant 100% is accepted." loading="lazy">
+  <figcaption>Cross-pollination methods and self-incompatibility reduce inbreeding.</figcaption>
+</figure>
+
+
 ## D3.1.11 Self-incompatibility
 
 Self-pollination leads to inbreeding, which lowers genetic diversity and often reduces vigour. Many species have genetic self-incompatibility. If pollen carries an allele that matches one in the stigma tissue, pollen germination or pollen-tube growth is blocked. Only gametes from a different plant can fuse.
@@ -205,6 +253,12 @@ Germination needs water, oxygen and a suitable temperature. The sequence is:
 change = (38 − 52) ÷ 52 × 100 = −26.9%, and rate = 14 ÷ 6 = **2.3 mg per day**.
 
 The mass falls because stored food is used in respiration and lost as carbon dioxide before photosynthesis begins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--09-germination.webp" width="900" height="1030" alt="A seed absorbs water; the embryo releases gibberellin; amylase turns stored starch into sugars; sugars feed the embryo. A graph shows dry mass falling from 52 mg to 38 mg over 6 days, -26.9%, or 2.3 mg per day." loading="lazy">
+  <figcaption>Stored food is used in respiration, so seed dry mass falls before photosynthesis begins.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -95,6 +95,12 @@ Resistance of a metal wire also depends on its dimensions. A longer wire has a l
 
 Each time the length doubles or triples, R does too, so R is proportional to length. For 1.00 m, R = 6.0 Ω.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics--02-wire-length-resistance.webp" width="900" height="740" alt="Resistance against length for a wire at constant current gives 1.2, 2.4, 3.6 and 4.8 ohms at 0.2 to 0.8 m on a straight line through the origin. Doubling the length doubles the resistance, reaching 6.0 ohms at 1.00 m." loading="lazy">
+  <figcaption>For one wire, resistance is directly proportional to length.</figcaption>
+</figure>
+
+
 ## Designing circuits to explore these effects (P3.2f)
 
 The specification suggests building circuits and measuring current and p.d., recording the p.d. across and current through different components to calculate resistances, and investigating how the length of a wire affects its resistance.
@@ -114,6 +120,17 @@ Using more or fewer cells in the supply also changes the p.d. For a full I-V gra
 - Repeat readings and take a mean, and check meters for a zero error before you start.
 - For a diode, include a fixed resistor in series so the current cannot become large enough to damage it.
 - For a thermistor, place it in a water bath and read the temperature with a thermometer as you heat or cool it. For an LDR, change the light intensity falling on it, for example by moving a lamp towards or away from it, and keep other light constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics--01-resistance-measuring-circuit.webp" width="900" height="850" alt="A cell, variable resistor, ammeter and lamp in one loop, with a voltmeter connected across the lamp only. Example readings are 0.45 A and 3.0 V, giving R = 6.7 ohms." loading="lazy">
+  <figcaption>To find R, put the ammeter in series and the voltmeter across the component only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
 
 ## I-V graphs: linear or non-linear (P3.2g)
 
@@ -162,6 +179,22 @@ At 20 °C: I = 6.0 ÷ 2000 = 0.0030 A = **3.0 mA**. At 60 °C: I = 6.0 ÷ 400 = 
 **Worked example 8: an LDR.** An LDR is connected across 5.0 V. In the dark its resistance is 500 kΩ. In bright light it is 2 kΩ.
 
 Dark: I = 5.0 ÷ 500 000 = 0.000 010 A = **10 µA**. Bright: I = 5.0 ÷ 2000 = 0.0025 A = **2.5 mA**. Resistance falls as light intensity rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics--03-thermistor-ldr-current.webp" width="900" height="840" alt="An NTC thermistor on 6.0 V carries 3.0 mA at 20 C (2000 ohm) and 15 mA at 60 C (400 ohm). An LDR on 5.0 V carries 10 microamps in the dark (500 kilohm) and 2.5 mA in bright light (2 kilohm)." loading="lazy">
+  <figcaption>Lower resistance means a larger current for the same supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics--01-diode-resistance-two-points.webp" width="900" height="810" alt="An I-V graph for a diode in the forward direction with two points: 0.60 V at 2 mA and 0.70 V at 20 mA. A dashed line from the origin to each point shows R = V / I: 300 ohms for the first and 35 ohms for the second. The steeper line has the smaller resistance, so the resistance falls sharply as p.d. rises." loading="lazy">
+  <figcaption>Read V and I at a point and divide: the diode resistance falls from 300 ohm to 35 ohm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
 
 ## Common errors
 

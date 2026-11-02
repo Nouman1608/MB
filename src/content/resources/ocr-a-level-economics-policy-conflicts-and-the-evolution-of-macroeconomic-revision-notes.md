@@ -35,6 +35,12 @@ These notes condense the topics **Policy conflicts** and **Approaches to policy 
 - **Credibility:** belief that policy-makers will do what they announce.
 - **Policy mix:** several instruments used together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--08-real-exchange-rate.webp" width="900" height="930" alt="Home prices rise 6 percent and foreign prices 2 percent with the nominal rate fixed at 2.00. The real rate rises 3.9 percent, so to restore competitiveness the nominal rate would need to fall to 1.925." loading="lazy">
+  <figcaption>With a fixed nominal rate, higher home inflation makes goods 3.9 percent dearer in real terms.</figcaption>
+</figure>
+
+
 ## The five trade-offs at a glance
 
 | Conflict | Chain in short | Eases when |
@@ -46,6 +52,22 @@ These notes condense the topics **Policy conflicts** and **Approaches to policy 
 | Growth and income and wealth equality | Gains concentrated at the top; asset prices rise | Broad-based job growth; redistribution; skills |
 
 Describe diagrams in words: for example, AD shifts right along a steep SRAS, so the price level rises with little extra output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
 
 ## Method: writing a conflict answer
 
@@ -81,6 +103,12 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 
 **Evaluation hooks:** short run against long run; size of spare capacity; demand-pull against cost-push; credibility; who pays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Jobs against inflation (Country A, invented).** The labour force is 40 million. Unemployment falls from 7.0% to 5.5%: 1.5% × 40 million = 600,000 more people employed. If inflation rises from 2.0% to 3.5% on the way, each extra 100,000 jobs cost 0.25 points of inflation. Always state both sides of the exchange.
@@ -99,11 +127,33 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 - Adaptive against rational expectations: the second gives credible announcements more power.
 - Cyclical against structural unemployment: only the first responds well to demand policy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--05-pol-phillips-cost-shock.webp" width="900" height="960" alt="A short-run Phillips curve for Country A through the points (8% unemployment, 1.0% inflation), (7%, 1.8%), (6%, 2.9%) and (5%, 4.4%). A cost shock lifts inflation by 1.5 points at every unemployment rate, shifting the curve up. To bring inflation back to 2.9% the economy must move along the new curve to 7.5% unemployment, which is 375,000 more unemployed than at 6% with a labour force of 25 million." loading="lazy">
+  <figcaption>After a cost shock the same inflation needs more unemployment.</figcaption>
+</figure>
+
+
 ## Debates
 
 - **Wage and price flexibility.** Flexible: markets clear and unemployment is temporary (neo-classical). Sticky: demand shocks leave lasting unemployment (Keynesian). A big wage cut also cuts spending.
 - **AS flexibility.** The more elastic AS is, the more of an AD rise shows in output. Steep AS near capacity turns it into prices. Supply-side measures raise elasticity.
 - **Expectations.** Higher expected inflation lowers the real interest rate and raises wage claims. Credible announced policy changes behaviour sooner under rational expectations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--06-pol-sticky-wages.webp" width="900" height="960" alt="Labour market with demand L = 14 - 0.4w and supply L = 4 + 0.6w (millions of workers; wage in currency units per hour), equilibrium at wage 10 and 10 million workers. Demand falls to L = 12.4 - 0.4w. If wages are flexible the wage falls to 8.4 and employment to 9.04 million. If the wage stays at 10, demand is 8.4 million but supply is 10 million, so 1.6 million are unemployed." loading="lazy">
+  <figcaption>Flexible wages cut pay; sticky wages cut jobs and leave 1.6 million unemployed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--05-as-elasticity-split.webp" width="900" height="880" alt="A 5 percent rise in nominal AD is split into price and output by elasticity of AS. With e = 4 prices rise 1.0 and output 4.0 percent; with e = 1 both 2.5; with e = 0.25 prices 4.0 and output 1.0 percent." loading="lazy">
+  <figcaption>The more elastic aggregate supply is, the more of a demand rise shows up as output rather than prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--09-real-interest-rate.webp" width="900" height="840" alt="A nominal rate of 4 percent with expected inflation of 2 percent gives a real rate of 1.96 percent (restrains). With expected inflation of 5 percent the real rate is minus 0.95 percent (stimulates)." loading="lazy">
+  <figcaption>The same nominal interest rate restrains or stimulates depending on expected inflation.</figcaption>
+</figure>
+
 
 ## Why approaches changed
 
@@ -115,6 +165,12 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 | 2007-08 crisis and aftermath | Bank losses, credit freeze, deep recession | Low rates, quantitative easing, stimulus then consolidation, tighter bank rules |
 
 **Pattern to remember:** each approach was shaped by the problem of its day. Mass unemployment favoured demand management. Inflation with unemployment favoured control of money, expectations and supply. A banking collapse brought unusual central bank tools and a lasting argument about the right balance between stimulus and consolidation. In an answer, name the circumstance, the policy response, and one limit of that response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--07-policy-approaches-timeline.webp" width="900" height="1290" alt="Four episodes with the lesson key numbers: Depression (a 30 percent fall needs 42.9 percent to recover), 1970s stagflation (unit labour costs up about 10 percent), 1980s monetarism (money growth 9 percent gives 6.9 percent inflation, 5 percent gives 2.9), 2007-08 (a 5 percent asset loss wipes out equity of 4)." loading="lazy">
+  <figcaption>Each change of policy approach followed a failure of the previous one.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

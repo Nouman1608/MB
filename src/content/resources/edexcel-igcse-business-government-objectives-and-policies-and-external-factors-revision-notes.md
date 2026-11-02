@@ -63,6 +63,17 @@ Briefest coverage in these notes: legislation (the specification names no partic
 
 **Reminder calculation.** Sales tax: price × rate = tax; price + tax = customer price. At 12% on 85, the tax is 10.20 and the customer pays 95.20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--01-sales-tax-lamp.webp" width="900" height="860" alt="A bar for the $85 lamp is extended by a copper block of $10.20, the 12% sales tax, giving a customer price of $95.20. Two boxes show the retailer keeping its price so the customer pays more and may buy fewer, or cutting its own price so its margin shrinks." loading="lazy">
+  <figcaption>A 12% sales tax raises the customer price from $85 to $95.20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--02-budget-split.webp" width="900" height="820" alt="Horizontal bars show a 250 billion budget: health 75 (30%), education 50 (20%), transport 30 (12%), defence 20 (8%) and 75 for everything else. Transport is highlighted because a transport firm depends on it." loading="lazy">
+  <figcaption>The four named areas total 175, leaving 75; a cut to transport puts a transport firm at risk.</figcaption>
+</figure>
+
+
 ## 1.6.2 How governments affect business activity
 
 | Policy | What it is | Likely effect on a business |
@@ -81,6 +92,12 @@ Briefest coverage in these notes: legislation (the specification names no partic
 
 Reminder: 40 with a 15% tariff becomes 46.00, so a home product at 44 is now cheaper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--03-tariff-dalmoor.webp" width="900" height="820" alt="Bars compare a frame import at $40, the same import with a $6 tariff at $46, and a home frame at $44 marked by a dashed line. The tariff turns the import from cheaper to dearer; 12,000 frames give $72,000 of tariff." loading="lazy">
+  <figcaption>A 15% tariff takes the import from $40 to $46, above the home price of $44.</figcaption>
+</figure>
+
+
 ## 1.6.3 Interest rates
 
 **Businesses.** Higher rates mean higher interest on loans and overdrafts, lower profit, and fewer projects worth the borrowing cost. Lower rates reverse this.
@@ -96,6 +113,17 @@ Reminder: 40 with a 15% tariff becomes 46.00, so a home product at 44 is now che
 
 **Reminder calculation.** Interest = loan × rate. 120,000 at 5% is 6,000; at 8% is 9,600. That is a rise of 3 percentage points but a 60% rise in the bill.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--04-loan-rate-hartwell.webp" width="900" height="830" alt="Two columns show yearly interest on a $120,000 loan: $6,000 at 5% and $9,600 at 8%, an extra $3,600. Two boxes contrast a rise of 3 percentage points with a 60% rise in the bill." loading="lazy">
+  <figcaption>A 3-point rate rise lifts the interest bill by 60%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--01-rates-to-sales.webp" width="900" height="980" alt="A flow diagram shows a rate rise reaching consumers three ways: borrowing is dearer so credit buying falls, saving pays more so some people save instead of spending, and variable-rate debt costs more so less income is left. Consumer spending falls. Bars show a furniture shop falling from $80,000 to $72,000 a month, a drop of $8,000 or 10%." loading="lazy">
+  <figcaption>Higher rates cut consumer spending three ways, taking a furniture shop from $80,000 to $72,000 a month.</figcaption>
+</figure>
+
+
 ## 1.7.1 External factors
 
 | Factor | Examples | Effect on decisions |
@@ -106,6 +134,12 @@ Reminder: 40 with a 15% tariff becomes 46.00, so a home product at 44 is now che
 | Political | Government policy, elections, stability | Planning, tax, trade, laws |
 
 An external factor is something the firm cannot control but must respond to. Always link the factor to a specific decision: what to sell, where, at what price, how to produce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--05-packaging-brelland.webp" width="900" height="810" alt="A bar shows a $4.00 pack with a $0.30 recyclable packaging cost, 7.5% of the price. 50,000 packs make $15,000 a year. Three boxes show the responses: raise the price, absorb it, or gain sales if customers value it." loading="lazy">
+  <figcaption>Recyclable packaging adds $0.30 a pack, $15,000 a year.</figcaption>
+</figure>
+
 
 ## Method in steps: answering an analyse or evaluate question
 

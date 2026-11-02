@@ -88,6 +88,12 @@ Divide by h **before** letting h → 0, or you get 0/0.
 
 Higher derivatives are written dⁿy/dxⁿ or f⁽ⁿ⁾(x). For y = xeˣ you get y′ = (x + 1)eˣ, y″ = (x + 2)eˣ, y‴ = (x + 3)eˣ, which suggests f⁽ⁿ⁾(x) = (x + n)eˣ. That kind of pattern is proved by mathematical induction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--02-chords-to-tangent.webp" width="900" height="844" alt="Chords from (1, −1) on f(x) = 2x² − 3x to points h = 1, 0.5 and 0.25 further along have gradients 3, 2 and 1.5, which is 1 + 2h. As h → 0 the chord becomes the tangent of gradient 1 = f′(1) = 4 − 3." loading="lazy">
+  <figcaption>As h shrinks, the chord gradient 4x + 2h − 3 settles on the derivative.</figcaption>
+</figure>
+
+
 ## 5.13 l'Hôpital's rule
 
 If lim f(x)/g(x) as x → a (or x → ∞) has the form 0/0 or ∞/∞, then
@@ -109,6 +115,12 @@ With Maclaurin series instead: 1 − cos 2x = 1 − (1 − 2x² + …) = 2x² �
 
 Limits at infinity link to horizontal asymptotes: lim (x→∞) (ln x)/x has form ∞/∞, and one application gives (1/x)/1 → 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--01-limit-at-a-hole.webp" width="900" height="758" alt="The graph of (1 − cos 2x)/x² has an open circle at x = 0 because the expression is 0/0 there. From both sides the values climb towards the dashed line at 2, for example 1.42 at x = ±1 and 1.84 at x = ±0.5. l’Hôpital’s rule applied twice gives (4 cos 2x)/2, which tends to 2." loading="lazy">
+  <figcaption>A 0/0 limit can exist even where the function is undefined; here it equals 2.</figcaption>
+</figure>
+
+
 ## 5.14 Implicit differentiation, related rates, optimisation
 
 When y is not given explicitly, differentiate every term with respect to x and use the chain rule on terms in y: d/dx(y²) = 2y dy/dx, and d/dx(xy) = y + x dy/dx.
@@ -125,6 +137,17 @@ dy/dx = −(2x + y)/(x + 2y) = −4/5 at (1, 2)
 **Related rates.** Write a formula linking the quantities, differentiate with respect to t, then substitute. A spherical balloon gains volume at 50 cm³ s⁻¹. Since V = (4/3)πr³, dV/dt = 4πr² dr/dt. When r = 5, 50 = 100π dr/dt, so dr/dt = 1/(2π) ≈ 0.159 cm s⁻¹.
 
 **Optimisation.** Find stationary points, then check the ends of the allowed interval. If A = x(20 − 2x) with 0 ≤ x ≤ 4, the stationary point x = 5 lies outside the domain, so the maximum is at the end point: A(4) = 48.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--03-implicit-slope.webp" width="900" height="996" alt="The tilted closed curve x² + xy + y² = 7 is drawn with equal axis scales. The point (1, 2) lies on it since 1 + 2 + 4 = 7, and the gold tangent there has gradient −4/5, matching dy/dx = −(2x + y)/(x + 2y)." loading="lazy">
+  <figcaption>Differentiating every term, with dy/dx on y terms, gives the tangent gradient on an implicit curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--04-end-point-optimum.webp" width="900" height="746" alt="A = x(20 − 2x) is shown with the allowed domain 0 ≤ x ≤ 4 shaded. The turning point at x = 5 (A = 50) is outside the domain, so the greatest value in the domain is at the end point x = 4, where A = 48." loading="lazy">
+  <figcaption>Check the end points of the allowed interval as well as the stationary points.</figcaption>
+</figure>
+
 
 ## 5.15 Further derivatives and integrals
 
@@ -187,6 +210,12 @@ Area between a curve and the y-axis from y = a to y = b is ∫ₐᵇ |x| dy. Vol
 
 For y = x³ between y = 1 and y = 8, x = y^(1/3). The area to the y-axis is ∫₁⁸ y^(1/3) dy = (3/4)(16 − 1) = 45/4. Rotating the same region about the y-axis gives π ∫₁⁸ y^(2/3) dy = (3π/5)(32 − 1) = 93π/5. Rotating y = 1/x, 1 ≤ x ≤ 3, about the x-axis gives π ∫₁³ x⁻² dx = 2π/3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--05-rotate-about-y-axis.webp" width="900" height="876" alt="The region between x = y^(1/3) and the y-axis for 1 ≤ y ≤ 8 is shaded, with its mirror image. A thin horizontal strip at y = 4 is a disc of radius x. The area to the y-axis is ∫x dy = 45/4 and the volume about the y-axis is π∫x² dy = 93π/5." loading="lazy">
+  <figcaption>About the y-axis, slice horizontally: V = π∫x² dy.</figcaption>
+</figure>
+
+
 ## 5.18 Differential equations
 
 **Euler's method** for dy/dx = f(x, y) uses xₙ₊₁ = xₙ + h and yₙ₊₁ = yₙ + h f(xₙ, yₙ). For dy/dx = x + y, y(0) = 1, h = 0.1:
@@ -218,6 +247,17 @@ n = 500/(1 + 9e^(−0.5t))
 
 **Integrating factor.** For y′ + P(x)y = Q(x), multiply by I(x) = e^(∫P dx); the left side becomes d/dx(I y). For y′ + (2/x)y = 3x, x > 0: I = x², so (x²y)′ = 3x³, x²y = (3/4)x⁴ + C and y = (3/4)x² + C/x². With y(1) = 1, C = 1/4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--06-euler-method.webp" width="900" height="766" alt="Three straight Euler steps from (0, 1) reach (0.1, 1.1), (0.2, 1.22) and (0.3, 1.362). The exact solution y = 2eˣ − x − 1 lies above the Euler path and has y(0.3) ≈ 1.400, so Euler underestimates here by about 0.038." loading="lazy">
+  <figcaption>Euler’s method follows the slope at each step, so it drifts off the exact curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--07-logistic-growth.webp" width="900" height="776" alt="The solution n = 500/(1 + 9e^(−0.5t)) starts at 50 and levels off at the dashed limit 500. The gold tangent at n = 250 (t = 2 ln 9 ≈ 4.39) has the largest gradient, 0.001 × 250 × 250 = 62.5." loading="lazy">
+  <figcaption>The logistic solution grows fastest at half the limit and then levels off.</figcaption>
+</figure>
+
+
 ## 5.19 Maclaurin series
 
 f(x) = f(0) + x f′(0) + (x²/2!) f″(0) + (x³/3!) f‴(0) + …
@@ -243,6 +283,12 @@ Find eˣ sin x up to x³.
 ```
 
 **From a differential equation.** If dy/dx = 2x − y², y(0) = 1, differentiate repeatedly: y′(0) = −1; y″ = 2 − 2yy′ gives y″(0) = 4; y‴ = −2(y′)² − 2yy″ gives y‴(0) = −10. So y ≈ 1 − x + 2x² − (5/3)x³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--08-maclaurin-sin.webp" width="900" height="776" alt="sin x is plotted with the Maclaurin polynomials x, x − x³/3! and x − x³/3! + x⁵/5!. Each extra term keeps the polynomial close to sin x for longer. At x = 1 the values are 0.8415, 0.8333 and 0.8417." loading="lazy">
+  <figcaption>Adding Maclaurin terms improves the fit to sin x near 0.</figcaption>
+</figure>
+
 
 ## Common errors
 

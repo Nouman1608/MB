@@ -60,6 +60,12 @@ Firms hire for the output labour produces, so the demand for labour moves with d
 
 Reminder: wages up 2% while prices rise 3% gives 1.02 ÷ 1.03 - 1 = -0.97%. Real pay fell, although nominal pay rose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--10-nominal-vs-real-wage.webp" width="900" height="740" alt="The money wage rises from 12.00 to 12.60 pounds, 5 percent, while prices rise 4 percent (index 100 to 104). The real wage is 12.12 pounds, a rise of just 0.96 percent." loading="lazy">
+  <figcaption>A 5% pay rise became under 1% in real terms once prices rose.</figcaption>
+</figure>
+
+
 ## Method in steps: WED
 
 1. Find the percentage change in the wage.
@@ -69,6 +75,12 @@ Reminder: wages up 2% while prices rise 3% gives 1.02 ÷ 1.03 - 1 = -0.97%. Real
 5. Link to the wage bill: elastic means a wage rise cuts the bill; inelastic means it rises.
 
 Reminder: a 5% wage rise with WED of -2 cuts employment by 10%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--03-wed-wage-bill.webp" width="900" height="920" alt="Two panels show the bakery wage bill as wage times workers. A rise from £10 to £11 with employment falling to 170 gives WED -1.5 and the bill falls from £2,000 to £1,870. With employment at 190 the WED is -0.5 and the bill rises to £2,090." loading="lazy">
+  <figcaption>If demand for labour is elastic a wage rise cuts the wage bill; if inelastic it raises it.</figcaption>
+</figure>
+
 
 ## Factors to remember
 
@@ -100,6 +112,22 @@ Rules of thumb:
 
 **Evaluating the impact on firms.** Judge by labour's share of costs, the ability to pass costs on, whether productivity responds, the time period, and whether the change is in wages or in ULC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--09-unit-labour-cost.webp" width="900" height="840" alt="Firm A pays 12 pounds an hour and makes 6 units, so unit labour cost is 2.00 pounds. Firm B pays 9 pounds and makes 3 units, so unit labour cost is 3.00 pounds. A pays a third more but has a ULC a third lower." loading="lazy">
+  <figcaption>Unit labour cost depends on both the wage and productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--05-ulc-exchange-rate.webp" width="900" height="830" alt="Columns of unit labour cost in pounds: Country P £0.50; Country Q £0.67 at 10 Q per £1 and £0.56 at 12 Q per £1. The depreciation cuts Q’s ULC by 16.7% with no change in local wages or productivity." loading="lazy">
+  <figcaption>A weaker currency lowers unit labour cost measured in pounds even when local wages and output do not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+
 ## Human capital
 
 Raised by education, training and experience. It lifts productivity, lowers ULC and raises MRP. Training costs are paid now and the return comes later, so a firm weighs the payback. A firm may under-invest if trained workers can leave for rivals.
@@ -112,6 +140,12 @@ extra net revenue = 360 × 2 = £720 a year
 payback = 900 ÷ 720 × 12 = 15 months
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--04-training-payback-9-months.webp" width="900" height="770" alt="Twelve columns show cumulative extra net revenue at £200 a month against a £1,800 training cost. The ninth column reaches £1,800, so payback takes 9 months. The workings (960 extra units, £2,400 a year) are written below." loading="lazy">
+  <figcaption>Training costing £1,800 earns £2,400 a year in extra net revenue, so it pays back in 9 months.</figcaption>
+</figure>
+
+
 ## Wage rises and the firm: worked reminder
 
 Labour is £120,000 of a firm's £400,000 total costs (30%). Wages rise 6%.
@@ -123,6 +157,17 @@ productivity +3%: ULC change = 1.06 ÷ 1.03 - 1 = +2.91%
 ```
 
 The same wage rise has no effect on ULC if productivity matches it, and a clear effect if it does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--08-mrp-hiring-decision.webp" width="900" height="930" alt="With each unit sold at 5 pounds, MRP for workers 1 to 7 is 70, 60, 50, 40, 30, 20 and 10 pounds. At a wage of 36 pounds the firm hires 4 workers, at 28 pounds 5 and at 52 pounds 2. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while the MRP of the next worker is at least the wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--01-mrp-hiring-wage-36.webp" width="900" height="710" alt="Columns show the MRP of seven workers (£70 down to £10) at a £5 unit price, with a line at the £36 wage. Workers one to four are hired because their MRP is at least the wage; five to seven are not. At £28 the firm hires 5 and at £52 it hires 2." loading="lazy">
+  <figcaption>A firm hires while the MRP of the next worker is at least the wage, so the falling MRP is its demand for labour.</figcaption>
+</figure>
+
 
 ## MRP theory in six lines
 
@@ -147,6 +192,12 @@ Worked reminder with a second table. A firm sells at £7 a unit and the MPP of w
 At a wage of £33 the firm hires 2 workers (the second adds £42, the third only £28). If the wage falls to £20 it hires 3: a movement along the MRP curve. A rise in productivity that lifts every MPP by 20% would shift the curve right.
 
 Evaluation of MRP theory: it is hard to apply to team work and public services; it assumes profit-seeking firms, identical workers and a wage the firm cannot influence; real wages also reflect bargaining power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs--02-mr-below-price-mrp.webp" width="900" height="850" alt="Two revenue rectangles: 36 units at £6.00 (216) and 44 units at £5.50 (242). The 8 new units add 44 but the lower price removes 18 from the first 36, so marginal revenue is 26 ÷ 8 = £3.25 and the fourth worker’s MRP is £26, not £40." loading="lazy">
+  <figcaption>When selling more means cutting price, marginal revenue is below price and so is MRP.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

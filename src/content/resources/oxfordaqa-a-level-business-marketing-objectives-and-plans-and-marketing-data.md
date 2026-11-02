@@ -36,6 +36,12 @@ Neither specification prints formulas for the calculations, so the formulas belo
 - **Links with other functions**: operations must be able to supply what is promoted, finance sets the budget and tracks cash, and human resources provides staff with the skills to deliver the offer.
 - **Global business**: customers and rivals can be anywhere, and online selling reaches abroad. Opportunities are larger markets and new customers. Challenges are different tastes and languages, unfamiliar competitors and the cost of reaching distant buyers. Adapting the offer may be needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
+
 ## Marketing objectives
 
 A marketing objective is a measurable, time-limited target for the marketing function. Both versions list sales volume, sales value, market share, customer retention and repeat sales, and sales per product, employee, region, store or customer, with calculation and interpretation. Brand loyalty is listed in 9725 only.
@@ -86,6 +92,17 @@ Orchardway delivers fruit boxes by subscription. It began the year with 2,400 su
 
 New customers hide the one in five who left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--03-share-up-store-sales-down.webp" width="900" height="980" alt="Bars show market share rising from 12.5 to 13.5 percent while sales per store fell from 264,000 (5 stores) to 252,000 (6 stores)." loading="lazy">
+  <figcaption>Sandgrove gained market share, but the sixth store sells less than the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ## Marketing plans
 
 A marketing plan is a written plan for achieving marketing aims. The elements differ by version.
@@ -108,6 +125,17 @@ Return on marketing spending (%) = (extra profit gained from the marketing - mar
 - Revenue ratio = 5 to 1 looks better than the profit measure, which is why profit is preferred.
 
 Limit: not all extra sales may come from the campaign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--06-return-on-marketing-spend.webp" width="900" height="910" alt="Bars show extra revenue 90,000, extra gross profit 36,000 and spend 18,000; the gain of 18,000 divided by the spend gives a 100 percent return." loading="lazy">
+  <figcaption>Return on marketing spend uses extra profit, not revenue: here (36,000 - 18,000) / 18,000 = 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--01-marketing-plan-parts.webp" width="900" height="1074" alt="Two plan layouts. 9625: objectives, strategy, tactics, budget. 9725: objectives, marketing mix (product, price, promotion, place), budget. An 18,000 example budget is split 40/20/30/10 per cent, giving 7,200, 3,600, 5,400 and 1,800." loading="lazy">
+  <figcaption>Plans turn an aim into an approach, actions and a budget.</figcaption>
+</figure>
+
 
 ## Influences on marketing plans, objectives and decisions
 
@@ -166,6 +194,27 @@ The 9725 text names these primary and secondary methods and asks for their advan
 
 **Influences on choosing a method.** Cost: small firms may rely on secondary data. Time required: a quick decision cannot wait for weeks of fieldwork. Reliability of findings: larger, well-chosen samples give findings you can trust. These often conflict, so say which matters most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--04-stratified-sample.webp" width="900" height="1030" alt="A bar of 1,200 students splits into 600, 360 and 240. A sample of 100 shown as dots takes 50, 30 and 20 in the same proportions, chosen at random in each group. A quota sample sets the same numbers but the interviewer chooses." loading="lazy">
+  <figcaption>A stratified sample copies the population mix; a quota sample uses the same numbers but lets the interviewer choose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--02-qualitative-v-quantitative.webp" width="900" height="830" alt="A bar chart shows 248 yes and 152 no from 400 people (62 per cent would buy). Beside it, three speech bubbles show illustrative opinions. Numbers show how many; opinions explain why; using both is usually best." loading="lazy">
+  <figcaption>Quantitative data counts; qualitative data explains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
+  <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
+</figure>
+
+
 ## Interpretation of marketing data
 
 Both versions ask you to interpret and use marketing data in decisions and planning. State what the number shows, how reliable it is, then what the business should do.
@@ -175,6 +224,22 @@ Both versions ask you to interpret and use marketing data in decisions and plann
 **Confidence levels and confidence intervals.** A survey of a sample gives an estimate for the whole market. A confidence interval is the range within which the true figure is expected to lie, and the confidence level (such as 95%) says how sure we can be that the method captures the true value. Illustration, not required by the specification: 62% of a sample of 400 customers would buy a new product. At 95% confidence the interval is about 57% to 67%. A sample of 100 with the same result gives about 52% to 72%, which is wider and less useful. A 99% level widens it. A bigger sample narrows it but costs more.
 
 **Big data and data mining (9625 only).** Big data means very large, fast-growing sets of data, such as purchase records, website clicks and social media activity. Data mining means searching such data for patterns, for example which products are bought together or which customers are about to leave. Value: better targeting and early warning of change. Limits: cost, poor-quality data, patterns that are chance rather than cause, and customer concern about personal data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--05-correlation-value.webp" width="900" height="1215" alt="Two scatter plots with trend lines and a scale from -1 to +1: +0.86 is strong and positive, +0.18 is weak and positive. Correlation shows association, not cause." loading="lazy">
+  <figcaption>A correlation near 1 means a strong link and near 0 a weak one, but neither proves cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--03-confidence-interval-width.webp" width="900" height="936" alt="Three ranges around a sample result of 62 per cent: 57 to 67 per cent for 400 people at 95 per cent, 52 to 72 per cent for 100 people at 95 per cent, and 56 to 68 per cent for 400 people at 99 per cent. A bigger sample narrows the range and a higher level widens it." loading="lazy">
+  <figcaption>A bigger sample narrows the interval; a higher confidence level widens it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--04-big-data-mining.webp" width="900" height="900" alt="Three very large data sources (purchases, website clicks, social media) feed data mining, which finds patterns such as items bought together and customers about to leave. Value: better targeting, early warning. Limits: cost, poor data, chance patterns, privacy concerns." loading="lazy">
+  <figcaption>Data mining searches big data for patterns, with limits.</figcaption>
+</figure>
+
 
 ## Common errors
 

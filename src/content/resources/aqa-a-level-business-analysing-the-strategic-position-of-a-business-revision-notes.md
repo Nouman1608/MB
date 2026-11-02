@@ -35,6 +35,12 @@ These notes condense topic 3.7, Analysing the strategic position of a business (
 - Strategy sets what each function must do; for example a low-cost strategy pushes operations to cut waste and marketing to stress price.
 - SWOT: internal strengths and weaknesses, external opportunities and threats. Useful for organising evidence; weak because it is a list, subjective and dated. Always rank points and reach a choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--03-swot-grid.webp" width="900" height="900" alt="A two by two grid: inside the firm are strengths and weaknesses, outside the firm are opportunities and threats. Rank the points and link them to a choice." loading="lazy">
+  <figcaption>SWOT splits internal strengths and weaknesses from external opportunities and threats.</figcaption>
+</figure>
+
+
 ## 3.7.2 Financial ratio analysis
 
 | Ratio | Standard form | High or rising means |
@@ -59,6 +65,17 @@ Capital employed = total equity + non-current liabilities. The specification nam
 
 **Value of ratios:** allow comparison over time and with other businesses; but backward-looking, depend on accounting choices, ignore non-financial factors, need a like-for-like benchmark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--01-roce-gearing.webp" width="900" height="960" alt="A bar splits capital employed of 1,200 into equity 800 and borrowing 400. ROCE is 180 divided by 1,200, 15.0 percent, the same as last year. Gearing is 400 divided by 1,200, 33.3 percent, up from 25.0 percent, so borrowing funded the change." loading="lazy">
+  <figcaption>Capital employed is equity plus non-current liabilities; ROCE held at 15.0% while gearing rose from 25.0% to 33.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--02-current-ratio.webp" width="900" height="1040" alt="Current assets of 420 (inventories 150, receivables 120, cash 150) are compared with current liabilities of 350. The ratio is 1.2 to 1, up from 0.95 to 1 last year, so liquidity improved." loading="lazy">
+  <figcaption>Current assets 420 against current liabilities 350 gives 1.2 : 1, up from 0.95 : 1.</figcaption>
+</figure>
+
+
 ## 3.7.3 Overall performance
 
 - Non-financial data: operations (capacity utilisation, productivity, defects, delivery times), human resources (labour turnover, absenteeism, training), marketing (market share, satisfaction, retention). Analyse over time or against other businesses.
@@ -69,6 +86,12 @@ Capital employed = total equity + non-current liabilities. The specification nam
 |---|---|---|---|
 | Kaplan and Norton's Balanced Scorecard | Financial; customer; internal business processes; learning and growth | Balances short and long term | Time to design; weighting measures |
 | Elkington's Triple Bottom Line | Profit, People, Planet | Broader view of success | Social and environmental impact hard to measure |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--02-triple-bottom-line.webp" width="900" height="920" alt="Three overlapping circles labelled Profit, People and Planet meet at success. Profit is financial results, People is social impact on employees, community and supply chain, Planet is environmental impact." loading="lazy">
+  <figcaption>Elkington’s Triple Bottom Line reports Profit, People and Planet.</figcaption>
+</figure>
+
 
 ## 3.7.4 Political and legal change
 
@@ -94,6 +117,12 @@ Capital employed = total equity + non-current liabilities. The specification nam
 - Globalisation: reasons are cheaper transport and communication, freer trade, search for lower costs and bigger markets. Importance: markets, inputs, scale economies, but more rivals and currency risk.
 - Emerging economies: fast-growing demand and production base; political and infrastructure risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ## 3.7.6 Social and technological change
 
 - Demographics and movement: ageing population, urbanisation and migration.
@@ -103,6 +132,12 @@ Capital employed = total equity + non-current liabilities. The specification nam
 - Carroll's pyramid, base to top: economic, legal, ethical, philanthropic.
 - Pressures for socially responsible behaviour: consumers, pressure groups, social media, employees, investors, regulators.
 - Technology: affects every function and strategy; creates markets, ends products, lowers entry barriers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--06-carroll-pyramid.webp" width="900" height="940" alt="A four-layer pyramid from the base up: economic (be profitable), legal (obey the law), ethical (do what is right and fair) and philanthropic (give back to the community)." loading="lazy">
+  <figcaption>Carroll’s pyramid has economic, legal, ethical and philanthropic layers from the base up.</figcaption>
+</figure>
+
 
 ## 3.7.7 Porter's five forces
 
@@ -115,6 +150,12 @@ Capital employed = total equity + non-current liabilities. The specification nam
 | Substitute threat | Easy alternatives | Price ceiling |
 
 Forces change with technology, mergers, regulation and new products. Weak forces mean higher profit potential. Forces shape competitive strategy: build barriers, differentiate, secure customers or suppliers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
 
 ## 3.7.8 Investment appraisal
 
@@ -132,6 +173,27 @@ Forces change with technology, mergers, regulation and new products. Weak forces
 - Sensitivity: with cash flows 10% lower, NPV falls to about +£5,240.
 
 Factors influencing the decision: investment criteria, non-financial factors, risk and uncertainty. Sensitivity analysis changes one assumption at a time to see how much the result depends on it; it shows which forecasts matter but gives no probabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--03-payback-glenfauld.webp" width="900" height="1040" alt="Cumulative cash flow columns run from minus 360 to plus 150 over years 0 to 4. The line crosses zero four fifths of the way through year 3. Payback is 2 + 120 / 150 = 2.8 years." loading="lazy">
+  <figcaption>Payback is reached 2.8 years in, when cumulative cash flow crosses zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--04-npv-glenfauld.webp" width="900" height="1020" alt="Cash flows of 110, 130, 150 and 120 become present values 101.85, 111.45, 119.07 and 88.20 at 8 percent. They total 420.58 against a cost of 360, so NPV is plus 60.58 (about plus 60,580 pounds)." loading="lazy">
+  <figcaption>Discounting at 8% gives present values totalling 420.58, so NPV is +£60,580.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--05-sensitivity-glenfauld.webp" width="900" height="1000" alt="A line of NPV against percentage change in all cash flows. NPV is 60.58 as planned, 18.53 if cash flows are 10 percent lower, and zero at minus 14.4 percent; below that NPV is negative." loading="lazy">
+  <figcaption>NPV falls to about £18,530 if cash flows are 10% lower and reaches zero at about -14.4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--01-arr-glenfauld.webp" width="900" height="1090" alt="Total returns of 510 minus the cost of 360 give a net return of 150. Shared over four years that is 37.5 a year, which is 10.4 percent of the 360 cost. ARR is compared with a target." loading="lazy">
+  <figcaption>ARR for Glenfauld is 37.5 / 360 x 100 = 10.4%.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

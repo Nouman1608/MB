@@ -49,6 +49,12 @@ These notes condense statements 2.2.2 d), e) and f) of the Pearson Edexcel Inter
 
 Memberships change. Use the current facts in your course materials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--05-bloc-types.webp" width="900" height="1040" alt="Three panels with members A, B and C linked without barriers; arrows from a non-member meet tariff barriers. Free-trade area: different tariffs. Customs union: equal common tariff. Common market: common tariff plus free movement of labour and capital (stated in the caption only)." loading="lazy">
+  <figcaption>How the three types of trading bloc treat members and non-members.</figcaption>
+</figure>
+
+
 ## Impact of a bloc in one table
 
 | | Members | Non-members |
@@ -93,6 +99,12 @@ Evaluation points: slow talks, costly cases for poor countries, weak enforcement
 
 **Dispute arithmetic.** Exports fall from 800 to 680 million. Loss = 120 million. Percentage fall = 120 ÷ 800 = **15%**. Authorised retaliation is limited to about the same value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--01-wto-steel-dispute.webp" width="900" height="1050" alt="Two bars show N’s steel sales to M falling from 800 to 680 million, a loss of 120 million or 15 percent. Four numbered steps follow: N complains, a panel rules, M refuses to lift the barrier, and N may restrict M’s goods up to about 120 million." loading="lazy">
+  <figcaption>The WTO dispute process using the steel example.</figcaption>
+</figure>
+
+
 ## Trade patterns
 
 | | Developed | Developing |
@@ -108,6 +120,32 @@ Many developing countries now export more manufactures and trade more with each 
 **Dependence.** Exports 500 million, 62% coffee: 310 million. Price falls 20%, PED −0.5, so quantity rises 10%. Revenue = 0.80 × 1.10 = 0.88, a fall of 12%, or 37.2 million. Total exports fall 7.4%.
 
 **Income elasticity.** Primary product YED 0.3, machinery YED 1.5, income up 10%: demand up 3% against 15%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--06-trade-creation.webp" width="900" height="910" alt="Desks cost 80 at home; B costs 62 plus 30% tariff = 80.6 before the bloc, so A buys at home. After the bloc B costs 62 and A switches, saving 18 per desk and 90,000 on 5,000 desks." loading="lazy">
+  <figcaption>Trade creation: a cheaper partner replaces a home producer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--07-trade-diversion.webp" width="900" height="960" alt="Before the bloc outsider V (46 plus 20% tariff = 55.2) beats partner T (50 plus tariff = 60). After the bloc T costs 50 and S switches. Buyers save 52,000, the government loses 92,000 of tariff revenue, net -40,000." loading="lazy">
+  <figcaption>Trade diversion: a dearer partner replaces a cheaper outsider.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--08-coffee-dependence.webp" width="900" height="830" alt="Two bars of export earnings: before 500 million (coffee 310, other 190); after a 20% coffee price fall with PED -0.5, coffee earns 272.8 million and total exports fall to 462.8 million, 7.4% lower." loading="lazy">
+  <figcaption>A country relying on one primary export loses income when its price falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -169,6 +207,12 @@ Many developing countries now export more manufactures and trade more with each 
 10. 0.4 × 4 = 1.6% rise.
 11. Supply and demand for primary products shift with weather and world demand, and demand is price inelastic, so prices swing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--02-bloc-scale-economies.webp" width="900" height="900" alt="A falling average cost curve passes through 60 at 20,000 units and 42 at 50,000 units, approaching variable cost 30. Stacked bars show fixed cost per unit falling from 30 to 12 while variable cost stays 30." loading="lazy">
+  <figcaption>Spreading fixed costs over more units cuts average cost by 30%.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a customs union as "no tariffs", missing the common external tariff.
@@ -183,3 +227,9 @@ Many developing countries now export more manufactures and trade more with each 
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, first teaching September 2017, published by Pearson Education Limited. Statements 2.2.2 d), e) and f).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+

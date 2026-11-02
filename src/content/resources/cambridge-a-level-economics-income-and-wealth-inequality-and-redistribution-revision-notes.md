@@ -36,6 +36,12 @@ Useful links: the [Cambridge A Level Economics hub](/boards/cambridge/a-level/ec
 - Net wealth = assets − debts. Example: assets 340,000 and debts 190,000 give net wealth of 150,000.
 - A household can have high income and low wealth, or low income and high wealth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+
 ## 3.3.2 Measuring inequality
 
 **Quintile shares.** Rank households, split into five equal groups and compare shares of income. Example: if the richest 20% get 40% and the poorest 20% get 8%, the ratio is 40 ÷ 8 = 5.0.
@@ -55,6 +61,12 @@ Useful links: the [Cambridge A Level Economics hub](/boards/cambridge/a-level/ec
 
 **Limitations.** One number hides the shape of the distribution; different distributions can share a Gini. It says nothing about absolute living standards. It can be affected by household size, age structure and hidden activity. It is a snapshot at one date. It does not show whether inequality is fair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--01-ineq-lorenz-two-countries.webp" width="900" height="1040" alt="Lorenz curves for Country A and B from the lesson quintile shares. The gap between the line of equality and A is shaded; Gini about 0.35 for A and 0.27 for B; richest/poorest ratios 7.3 and 4.2." loading="lazy">
+  <figcaption>Country B bows less far from the line of equality than Country A, so it is more equal.</figcaption>
+</figure>
+
+
 ## 3.3.3 Reasons for inequality
 
 | Cause | Link in the chain |
@@ -69,6 +81,17 @@ Useful links: the [Cambridge A Level Economics hub](/boards/cambridge/a-level/ec
 | Saving and compounding | Higher earners save more; 50,000 at 6% for 10 years becomes 50,000 × 1.06¹⁰ = 89,542 |
 | Inheritance and gifts | Wealth passes between generations |
 | Asset price rises | Owners of property and shares gain most |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--02-ineq-skilled-unskilled-wages.webp" width="900" height="1270" alt="Two labour market graphs on the same wage scale: skilled S equilibrium wage 30 with 300 thousand hours (33 and 360 after demand rises by 90); unskilled U equilibrium wage 10 with 500 thousand hours." loading="lazy">
+  <figcaption>Scarce skills earn three times the unskilled wage because supply is limited by training.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--03-ineq-wealth-compounding.webp" width="900" height="1060" alt="100,000 at 4 percent grows to 219,112 in 20 years (gain 119,112); 400,000 at 5 percent yields 20,000 a year without working." loading="lazy">
+  <figcaption>Compounding and asset income make wealth more unequal than income.</figcaption>
+</figure>
+
 
 ## 3.3.4 Policies
 
@@ -110,6 +133,12 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
 
 **State provision method.** Express the service's value as a share of income. Value 4,000 is 25% of a 16,000 income but 5% of an 80,000 income. Final incomes are 20,000 and 84,000, so the ratio falls from 80,000 ÷ 16,000 = 5.0 to 84,000 ÷ 20,000 = 4.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--04-ineq-minimum-wage.webp" width="900" height="1010" alt="Demand L = 1,000 - 50w and supply L = -200 + 100w meet at wage 8 and 600 workers. A minimum of 10 cuts employment to 500, leaves 300 unemployed, and raises the wage bill from 4,800 to 5,000 because demand is inelastic (-0.67)." loading="lazy">
+  <figcaption>A minimum wage above equilibrium creates unemployment but can raise the pay of those still employed.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Flow versus stock. Income versus wealth.
@@ -118,6 +147,17 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
 - Universal versus means-tested benefits.
 - Redistribution of income (flow) versus redistribution of wealth (stock).
 - Equality (same outcome) versus equity (fairness). Say which you are using.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--05-ineq-progressive-tax.webp" width="900" height="1000" alt="Marginal rate steps 0, 20, 40 percent; the average rate rises from 0 to 10, 24 and 32 percent and always lies below it. The richest-to-poorest ratio falls from 12.5 to 8.5." loading="lazy">
+  <figcaption>A tax is progressive when the average rate rises with income because the marginal rate exceeds it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 
@@ -156,6 +196,12 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
 9. Some low-paid workers live in better-off households; job losses; hours cut; the unemployed gain nothing.
 10. Hides the shape of the distribution; ignores absolute living standards; can depend on the measure used.
 11. 4,000 ÷ 16,000 = 25%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--08-inheritance-capital-gains-tax.webp" width="900" height="840" alt="Inheritance tax: 450,000 estate, 250,000 free, 200,000 taxed at 30 percent gives 60,000, 13.3 percent of the estate. Capital gains tax: gain 60,000, allowance 10,000, 50,000 taxed at 25 percent gives 12,500." loading="lazy">
+  <figcaption>Only the part of an estate above 250,000, or of a gain above the allowance, is taxed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

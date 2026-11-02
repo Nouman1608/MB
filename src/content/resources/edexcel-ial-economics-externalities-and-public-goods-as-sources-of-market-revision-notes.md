@@ -46,6 +46,12 @@ All data are invented. Useful links: the [Edexcel economics hub](/boards/edexcel
 
 Formulas: MSB = MPB + MEB. MSC = MPC + MEC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
+
 ## The four types
 
 | Type | Test | Typical example |
@@ -54,6 +60,12 @@ Formulas: MSB = MPB + MEB. MSC = MPC + MEC.
 | External cost of consumption | Harm arises when the good is used | Exhaust fumes from driving |
 | External benefit of production | Gain arises when the good is made | A hillside orchard that supports local wildlife |
 | External benefit of consumption | Gain arises when the good is used | Training that makes a worker safer for colleagues |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--10-four-types-of-externality.webp" width="900" height="1100" alt="Two by two grid: chemical works polluting a river (negative production), loud music (negative consumption), bees pollinating crops (positive production), a first-aider helping others (positive consumption)." loading="lazy">
+  <figcaption>Production or consumption, cost or benefit: four types.</figcaption>
+</figure>
+
 
 ## Diagram recipes
 
@@ -141,6 +153,22 @@ Method for classifying a good:
 2. Ask: can non-payers be stopped? If no, it is non-excludable.
 3. Both no: public good. Both yes (rival and excludable): private good. Otherwise say it is a mixed case and explain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--03-street-lighting-free-riders.webp" width="900" height="1040" alt="Five households value street lighting at 40, 30, 25, 20 and 15, a total benefit of 130 against a cost of 100, so it is worth having. With an equal split of 20 each, the household valuing it at 15 refuses. Contributions reach only 80, short of 100 by 20, so the lights are not provided." loading="lazy">
+  <figcaption>A worthwhile public good is not supplied because contributions fall short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - External cost versus total cost: external cost is only the part borne by third parties.
@@ -174,6 +202,17 @@ Method for classifying a good:
 8. Non-rival and non-excludable.
 9. It is non-excludable, so households have an incentive to free ride, and a firm cannot collect enough revenue to cover the cost.
 10. Qm is **less than** Qs; the market produces or consumes too little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--01-negative-externality-welfare-loss.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB equals MSB and falls from 100 at zero. MPC is 20 + 2Q and MSC is 12 higher, 32 + 2Q. The market equilibrium Qm is 20 tonnes at price 60. The social optimum Qs is 17 tonnes at price 66. The welfare loss triangle between Qs and Qm has base 3 and height 12, so area 18." loading="lazy">
+  <figcaption>Shows why the market overproduces when there is an external cost, and how big the welfare loss is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--02-positive-externality-welfare-gain.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB is 90 - 3Q and MSB sits 8 above it. MC is 18 + Q. The market equilibrium Qm is 18 classes at price 36. The social optimum Qs is 20 classes where MSB meets MC at 38. The welfare gain triangle has base 2 and height 8, so area 8." loading="lazy">
+  <figcaption>Shows why the market underprovides when there is an external benefit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

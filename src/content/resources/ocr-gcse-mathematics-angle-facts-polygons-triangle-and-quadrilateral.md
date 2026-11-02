@@ -63,6 +63,17 @@ y = 20
 
 The angles are 85° and 95°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral--11-algebraic-angles-point-line.webp" width="900" height="930" alt="Four angles at a point, 3x, 2x + 20, x + 40 and 90, make 360 so x = 35. Two angles on a line, 5y − 15 and 3y + 35, make 180 so y = 20." loading="lazy">
+  <figcaption>Forming and solving an equation from angles at a point and on a line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--01-angle-rules-point-line-opposite.webp" width="900" height="1170" alt="Figure showing: Angles at a point (120+75+65+100), on a straight line (105+75) and vertically opposite (75=75, 105=105). Angles at a point add to 360°, on a line to 180°, and vertically opposite angles are equal." loading="lazy">
+  <figcaption>Angles at a point add to 360°, on a line to 180°, and vertically opposite angles are equal.</figcaption>
+</figure>
+
+
 ## Parallel lines (8.03c)
 
 Three facts, each with a name you must quote as the reason:
@@ -92,6 +103,12 @@ Angle BGH = 68°    (angles on a line: 180 − 112)
 ```
 
 Always write the reason beside the angle. Never write "Z angles" as a reason: use the word alternate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+
 
 ## Angles in polygons (8.03d)
 
@@ -140,6 +157,27 @@ a = 70
 
 The last two angles are 140° and 100°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral--02-triangle-angle-sum-parallel.webp" width="900" height="790" alt="Triangle ABC has angles 50, 60 and 70 degrees. A dashed line through A parallel to BC makes alternate angles of 50 and 60 degrees either side of A. These with the 70 degrees at A fill a straight line, so they total 180 degrees." loading="lazy">
+  <figcaption>A line through the apex parallel to the base shows the angle sum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--02-exterior-angle-triangle.webp" width="900" height="700" alt="Figure showing: Isosceles triangle with apex 48 and base angles 66; extending BC gives an exterior angle of 114, equal to 48+66. An exterior angle equals the sum of the two interior opposite angles (Example 5 numbers)." loading="lazy">
+  <figcaption>An exterior angle equals the sum of the two interior opposite angles (Example 5 numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--04-polygon-triangles-angle-sum.webp" width="900" height="1010" alt="Figure showing: A heptagon splits into 5 triangles from one vertex, so interior angles total 900 degrees; smaller polygons with 3 to 7 sides split into 1 to 5 triangles. A polygon with n sides splits into n − 2 triangles, so its angles sum to (n − 2) × 180°." loading="lazy">
+  <figcaption>A polygon with n sides splits into n − 2 triangles, so its angles sum to (n − 2) × 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
+
 ## Triangle properties (8.04a)
 
 - **Isosceles:** two equal sides, and the angles opposite them (the base angles) are equal. Reason: the triangle is symmetrical about the line from the apex to the midpoint of the base, and that line meets the base at right angles.
@@ -163,6 +201,12 @@ Angle AED = (180 − 30) ÷ 2 = 75°
 ```
 
 Here a length fact (all sides of a square are equal) is what gives the angle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral--08-isosceles-equilateral.webp" width="900" height="630" alt="An isosceles triangle with equal sides ticked and a dashed mirror line giving equal 55 degree base angles. An equilateral triangle with three equal sides and three 60 degree angles." loading="lazy">
+  <figcaption>The mirror line of an isosceles triangle gives equal base angles, and an equilateral triangle has three 60° angles.</figcaption>
+</figure>
+
 
 ## Quadrilateral properties (8.04b)
 
@@ -205,6 +249,12 @@ Sum of angles = 360°, so 2 × angle ABC = 360 − 64 − 118 = 178
 Angle ABC = 89°
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--03-special-quadrilaterals.webp" width="900" height="1280" alt="Figure showing: Square, rectangle, parallelogram, rhombus, kite and trapezium drawn with equal-side ticks, parallel chevrons and dashed diagonals showing which diagonals are equal, bisect or cross at 90 degrees. Each special quadrilateral with its equal sides and diagonal properties." loading="lazy">
+  <figcaption>Each special quadrilateral with its equal sides and diagonal properties.</figcaption>
+</figure>
+
+
 ## Symmetry (8.04c)
 
 A shape has **reflection symmetry** if a mirror line maps it onto itself. It has **rotation symmetry** if turning it about its centre by less than 360° fits it onto itself. The **order** is the number of positions in a full turn, counting the start. Order 1 means no rotation symmetry. The turn between positions is 360° ÷ order.
@@ -223,6 +273,12 @@ A shape has **reflection symmetry** if a mirror line maps it onto itself. It has
 | Regular n-sided polygon | n | n |
 
 **Example 11.** A regular polygon has interior angle 150°. Exterior angle = 30°, so n = 360 ÷ 30 = 12. It has 12 lines of symmetry and rotation symmetry of order 12.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--05-regular-polygons.webp" width="900" height="1100" alt="A pentagon has 5 lines each from a vertex to the opposite side midpoint, order 5 and turn 72 degrees. An octagon has 8 lines, 4 vertex to vertex and 4 midpoint to midpoint, order 8 and turn 45 degrees. A turn of 24 degrees gives 15 sides and an interior angle of 156 degrees." loading="lazy">
+  <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
+</figure>
+
 
 ## Proofs
 
@@ -248,6 +304,17 @@ Triangle OBC is isosceles, so angle OCB = angle OBC = q    (base angles)
 Angles of triangle ABC: p + q + (p + q) = 180°             (angle sum of a triangle)
 So 2(p + q) = 180° and angle ACB = p + q = 90°
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral--09-proof-semicircle.webp" width="900" height="850" alt="A circle with diameter AB and point C on it. Radii OA, OB and OC make two isosceles triangles with base angles p and q, so p + q + (p + q) = 180 and angle ACB = 90." loading="lazy">
+  <figcaption>Two isosceles triangles prove that the angle in a semicircle is 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral--10-proof-quadrilateral-diagonal.webp" width="900" height="969" alt="Quadrilateral ABCD split by diagonal AC into triangles ABC and ACD, each with angles adding to 180 degrees, so the quadrilateral angles add to 360 degrees." loading="lazy">
+  <figcaption>A diagonal splits a quadrilateral into two triangles, so its angles total 2 × 180° = 360°.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -54,6 +54,12 @@ Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable [checklist](/c
 3. Check the mRNA is the same as the coding strand with T changed to U.
 4. Label ends if you are HL: the mRNA is made 5' to 3'.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--01-transcription.webp" width="900" height="800" alt="RNA polymerase on an unwound bubble copies the template strand of a gene into RNA, with the RNA peeling away behind it. The coding strand ATGGCTAACCGT, template TACCGATTGGCA and RNA AUGGCUAAC are from worked example 1. The next nucleotide, C, pairs with G on the template. A key shows the four pairs." loading="lazy">
+  <figcaption>RNA polymerase builds RNA from the template strand using A-U, T-A, G-C and C-G pairs.</figcaption>
+</figure>
+
+
 ## The genetic code: D1.2.8 and D1.2.9
 
 | Idea | Key point |
@@ -65,6 +71,17 @@ Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable [checklist](/c
 | Universality | Same code in bacteria and humans, so genes can be moved between species |
 
 **Method: mRNA to polypeptide.** Find AUG, split into threes, look up each codon, stop at a stop codon. The stop codon has no amino acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--03-triplet-code.webp" width="900" height="740" alt="Bars show 4, 16 and 64 possible codes for one, two and three bases, against 20 amino acids. A grid of 64 squares shows 61 amino acid codons and 3 stops, so the code is degenerate." loading="lazy">
+  <figcaption>Three bases per codon give 64 codes, enough for 20 amino acids, with 61 codons sharing them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--04-codon-table.webp" width="900" height="950" alt="The 4 by 4 mRNA codon table with the amino acid for every codon, AUG (Met, start) highlighted and the three stop codons shaded." loading="lazy">
+  <figcaption>Find the first base row, second base column, then the third base in the corner.</figcaption>
+</figure>
+
 
 ## Translation: D1.2.5 to D1.2.7 and D1.2.10
 
@@ -78,6 +95,17 @@ Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable [checklist](/c
 - Elongation is a cycle: matching tRNA arrives, a peptide bond forms between its amino acid and the chain, the ribosome moves one codon along the mRNA, the empty tRNA is released.
 - A peptide bond forms by condensation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--05-translation-overview.webp" width="900" height="600" alt="An mRNA runs between the small and large ribosomal subunits. Two tRNAs pair with codons GCU and AAC by their anticodons CGA and UUG, carrying the chain Met-Ala and asparagine." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, bringing amino acids in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--06-elongation.webp" width="900" height="1130" alt="Three steps of elongation: a tRNA binds the A site, a peptide bond forms moving the chain onto it, then the ribosome moves one codon and the empty tRNA leaves. E, P and A site names are HL only." loading="lazy">
+  <figcaption>Each cycle adds one amino acid and the ribosome moves one codon.</figcaption>
+</figure>
+
+
 ## Mutations: D1.2.11
 
 | Type | Result in the polypeptide |
@@ -88,6 +116,12 @@ Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable [checklist](/c
 | Insertion or deletion of one or two bases | Frameshift; every later codon changes |
 
 Example to remember: sickle cell disease. GAG (glutamic acid) becomes GUG (valine) in the haemoglobin β chain mRNA. The change in structure makes the haemoglobin aggregate in low oxygen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--07-point-mutations.webp" width="900" height="1138" alt="The worked example mRNA is shown with a silent, a missense and a nonsense substitution and a frameshift deletion, each translated with the codon table, plus the sickle cell GAG to GUG change." loading="lazy">
+  <figcaption>Point mutations can be silent, missense or nonsense; a deletion shifts the reading frame.</figcaption>
+</figure>
+
 
 ## HL only: D1.2.12 to D1.2.19
 
@@ -102,6 +136,22 @@ Example to remember: sickle cell disease. GAG (glutamic acid) becomes GUG (valin
 | D1.2.17 Ribosome sites | A site: tRNA arrives. P site: tRNA holding the chain. E site: tRNA exits |
 | D1.2.18 Modification | Pre-proinsulin to proinsulin, then to insulin, in two stages |
 | D1.2.19 Proteasomes | Constant breakdown and synthesis sustain a functional proteome |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--02-promoter-direction.webp" width="900" height="880" alt="Three stages: transcription factors bind a promoter, RNA polymerase attaches, then it moves along the template from 3 prime to 5 prime while RNA grows at its 3 prime end. Promoter and gene are labelled. HL only." loading="lazy">
+  <figcaption>Transcription factors help RNA polymerase attach at the promoter, then RNA is made 5 prime to 3 prime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--08-pre-mrna-processing.webp" width="900" height="810" alt="Pre-mRNA of 2768 bases (six exons totalling 618 plus 2150 bases of introns, 77.7 per cent) loses its introns in the nucleus, giving a 618-base mature mRNA with a 5 prime cap and poly-A tail." loading="lazy">
+  <figcaption>Introns are removed, exons joined, and a cap and tail added to stabilise the mRNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--09-alternative-splicing.webp" width="900" height="820" alt="The six exons drawn to scale. Variant A joins all of them (618 bases, 206 codons); variant B skips exons 3 and 4 (450 bases, 150 codons). All exon lengths divide by three, so the reading frame is kept." loading="lazy">
+  <figcaption>Skipping exons gives a different polypeptide from the same gene.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

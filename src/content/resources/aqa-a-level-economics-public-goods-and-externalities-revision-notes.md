@@ -52,6 +52,22 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 - **Non-rival** means the marginal cost of an extra user is zero, so the efficient price is zero.
 - Pure public goods are rare. Most real goods are quasi-public.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--07-quasi-public-goods-shift.webp" width="900" height="990" alt="A two by two grid of rival and non-rival against excludable and non-excludable. Private good (a meal) is rival and excludable; common resource (open-sea fish) is rival and non-excludable; club or quasi-public good (uncongested toll road) is non-rival and excludable; pure public good (street lighting) is non-rival and non-excludable. Arrow 1: congestion moves a non-rival good up to rival, for example a bridge at rush hour. Arrow 2: technology such as encryption moves a non-excludable good across to excludable, so a supplier can charge." loading="lazy">
+  <figcaption>Congestion makes a non-rival good rival; technology such as encryption makes a non-excludable good excludable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+
 ## Public good or private good?
 
 Ask two questions. Could a supplier stop me using it if I do not pay? Does my use leave less for you? Two yeses give a private good; two noes give a pure public good; one of each gives a common resource or a quasi-public good. A good being funded by taxes does not decide its category.
@@ -87,6 +103,12 @@ Two households value units 1, 2 and 3 of a flood alarm at 10, 6 and 2 (household
 - It worsens as groups grow bigger and as contributions become harder to observe.
 - It is the reason private markets do not supply pure public goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ## Tragedy of the commons
 
 - No owner, so each user disregards the harm done to fellow users.
@@ -101,6 +123,12 @@ On a lake, the total catch from n boats is 20n - 2n². A boat costs 8.
 - Open access: average catch 20 - 2n = 8, so n = 6. Catch = 120 - 72 = 48, cost = 48, net = 0.
 - Optimum: marginal catch 20 - 4n = 8, so n = 3. Catch = 60 - 18 = 42, cost = 24, net = 18.
 - Boats beyond 3 add less than their cost, so they destroy value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--06-fishery-commons.webp" width="900" height="1010" alt="Graph with number of boats on the horizontal axis. The average catch per boat falls from 30 as 30 - 2n; the marginal catch falls faster, as 30 - 4n. The boat cost is a flat line at 10. Marginal catch meets the cost at 5 boats (the social optimum) and average catch meets it at 10 boats (open access). Both give a catch of 100, but cost is 50 at 5 boats and 100 at 10, so net gain is 50 against 0." loading="lazy">
+  <figcaption>Boats enter until the average catch equals the cost (10 boats), but the social optimum is 5 boats.</figcaption>
+</figure>
+
 
 ## Externalities: the four cases
 
@@ -123,6 +151,12 @@ MPB = 29 - 2Q, MPC = MSC = 2 + Q, and the external cost of consumption is 6 per 
 - Social: 23 - 2Q = 2 + Q, so Q = 7 and P = 9.
 - Over-consumption = 2 thousand. Welfare loss = ½ × 2 × 6 = 6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--07-negative-externality-paint.webp" width="900" height="950" alt="Graph with quantity in thousands and price in pounds. MPB slopes down; MPC and MSC slope up, MSC 6 above MPC. The market equilibrium is where MPB meets MPC at Q 5 and price 14. The social optimum is where MPB meets MSC at Q 3.5 and price 17. The triangle between them has area 4.5, a welfare loss of 4,500 pounds, because 1.5 thousand units are over-produced." loading="lazy">
+  <figcaption>The market makes 5 thousand units; the social optimum is 3.5. The welfare loss is 4.5 (£4,500).</figcaption>
+</figure>
+
+
 ### Small worked reminder: a positive consumption externality
 
 MPB = 19 - Q, MPC = MSC = 3 + Q, and the external benefit is 4 per unit, so MSB = 23 - Q. Quantity is in thousands.
@@ -132,12 +166,39 @@ MPB = 19 - Q, MPC = MSC = 3 + Q, and the external benefit is 4 per unit, so MSB 
 - Under-consumption = 2 thousand. Welfare gain from reaching the social output = ½ × 2 × 4 = 4.
 - The market ignores the 4 per unit that third parties gain, so it stops too early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--08-positive-externality-orchard.webp" width="900" height="950" alt="Graph with quantity and price. MPB slopes down; MPC and MSC slope up with MSC 10 below MPC. Market equilibrium where MPB meets MPC is at Q 6 and price 23. The social optimum where MPB meets MSC is at Q 8 and price 17. The triangle between 6 and 8 has area 10 and is the welfare gain from correcting the under-production of 2 units." loading="lazy">
+  <figcaption>The market makes 6 units; the social optimum is 8. Correcting the under-production gains 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--09-consumption-externality-negative.webp" width="900" height="990" alt="Price on the vertical axis and quantity on the horizontal. MPB slopes down from 30, MPC (equal to MSC) slopes up from 6, and MSB is MPB minus an external cost of 8, drawn dashed below it. The market equilibrium where MPB meets MPC is at quantity 6 and price 18; the social optimum where MSB meets MPC is at quantity 4 and price 14. The triangle between them, area half times 2 times 8 equals 8, is the welfare loss from over-consumption." loading="lazy">
+  <figcaption>When consuming a good harms others, MSB lies below MPB, so the market over-consumes (6 instead of 4) and society loses 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--10-consumption-externality-positive.webp" width="900" height="990" alt="Price on the vertical axis and quantity on the horizontal. MPB slopes down from 30, MPC slopes up from 6, and MSB is MPB plus an external benefit of 8, drawn dashed above it. The market equilibrium is at quantity 6 and price 18; the social optimum where MSB meets MPC is at quantity 8 and price 22. The triangle between them, half times 2 times 8 equals 8, is the welfare gain missed by under-consumption." loading="lazy">
+  <figcaption>When consuming a good benefits others, MSB lies above MPB, so the market under-consumes (6 instead of 8) and society misses a gain of 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+
 ## Property rights
 
 - Without rights, no one can charge for use or be made to pay for damage.
 - Example chain: no owner of a river, so the polluter pays nothing, so output is too high, so the cost falls on downstream users, so resources are misallocated.
 - A sole owner of a resource bears the cost of over-use, so tends to limit use to the efficient level.
 - Rights can be hard to define for shared resources and to enforce across borders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--08-property-rights-missing-market.webp" width="900" height="1000" alt="Two scenes of a factory beside a river with a farm downstream. In the first, nobody owns the river: the factory pays nothing, waste flows downstream and the farm bears the cost, with no market to price the damage. In the second, an owner with enforceable property rights can exclude and charge, so the factory pays and the cost now reaches the polluter. Illustrative scene with no numbers." loading="lazy">
+  <figcaption>Without property rights nobody can charge the factory for using the river, so the cost lands on downstream users; with enforceable rights the cost reaches the polluter.</figcaption>
+</figure>
+
 
 ## Evaluation checklist
 

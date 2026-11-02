@@ -49,6 +49,12 @@ Remember SMRI: **S**upport for the decision, **M**ission and ethics, **R**eputat
 
 Counter-points: time, cost, delay, and no way to satisfy every conflicting need.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--01-why-needs-matter.webp" width="900" height="930" alt="A balance scale. One pan lists four benefits of considering stakeholder needs: support, fit with mission and ethics, reputation and better information. The other lists the costs: time, money, delay and the impossibility of satisfying everyone." loading="lazy">
+  <figcaption>Weigh the support gained against the delay and cost.</figcaption>
+</figure>
+
+
 ## Mapping power and interest
 
 The grid below is the standard form. The specification names the two dimensions, not the box titles.
@@ -74,6 +80,17 @@ Harkstone Dairy plans to cut its prices by 2.5% for a year to keep a large super
 - Dairy farmers who supply milk: moderate power, high interest because the price cut limits what Harkstone can pay them. Consult.
 - A local radio station: low power, low interest. Monitor, until a farmers' protest raises its interest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--04-pellshaw-map.webp" width="900" height="1090" alt="A 1 to 5 power and interest grid places five Pellshaw Joinery stakeholders into the four boxes. Score-3 stakeholders are marked as judgement calls, and an arrow shows the joiners gaining power if they threaten to resign." loading="lazy">
+  <figcaption>Scores are judgements and positions can change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+
 ## Needs: quick reference
 
 | Group | Wants from decisions |
@@ -96,6 +113,22 @@ Harkstone Dairy plans to cut its prices by 2.5% for a year to keep a large super
 | Price cut | Customers | Shareholders, suppliers |
 | Depot extension | Employment, customers | Neighbours (noise, traffic) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--05-pay-or-dividend.webp" width="900" height="1010" alt="Stacked bars split profit into dividend and retained profit before the rise and under two options after a £50,000 pay rise. Option A cuts the dividend by 27.8%; option B cuts retained profit by 55.6%." loading="lazy">
+  <figcaption>Quantifying a conflict shows what each option costs each group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--02-needs-table.webp" width="900" height="908" alt="Eight stakeholders in internal and external groups, each with its typical needs, matching the lesson table." loading="lazy">
+  <figcaption>Different groups want different things from the same decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--03-launch-overlap.webp" width="900" height="940" alt="A successful product launch in the centre with arrows to shareholders (profit), employees (jobs), suppliers (orders) and government (tax)." loading="lazy">
+  <figcaption>One decision can serve several stakeholder groups.</figcaption>
+</figure>
+
+
 ### Resolving conflict
 
 Compromise, delay, alternative option, or explained priority. Choice is shaped by mission, objectives, power, size of decision and long-run effect. Say which and why.
@@ -113,6 +146,12 @@ Compromise, delay, alternative option, or explained priority. Choice is shaped b
 
 The specification does not list these influences, so treat them as developed points and always tie them to the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--04-relationship-influences.webp" width="900" height="1016" alt="Four panels: dependence (a supplier selling 60% to one buyer), size and market position, leadership style (one-way v two-way) and media raising the power of low-power groups." loading="lazy">
+  <figcaption>Dependence, size, leadership style and media change who holds power.</figcaption>
+</figure>
+
+
 ## Managing the relationship
 
 | | Communication | Consultation |
@@ -122,6 +161,12 @@ The specification does not list these influences, so treat them as developed poi
 | Advantages | Fast, cheap, consistent | Better decisions, less resistance, builds trust |
 | Disadvantages | Little feedback, may seem dismissive | Slow, raises expectations, may expose opposition |
 | Best for | Low-power, high-interest groups; keeping others informed | High-power, high-interest groups; major decisions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--06-consult-or-inform.webp" width="900" height="1010" alt="A one-way arrow shows communication and a two-way pair of arrows shows consultation. Four rows then show which method Pellshaw uses for shareholders, joiners and staff, the bank and neighbouring shops." loading="lazy">
+  <figcaption>Match the method to the stakeholder.</figcaption>
+</figure>
+
 
 ## Building an evaluative answer
 

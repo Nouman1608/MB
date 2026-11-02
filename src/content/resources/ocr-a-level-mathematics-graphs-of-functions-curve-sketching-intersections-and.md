@@ -89,6 +89,17 @@ Write y = k(x + 2)(x − 3)². Put x = 0: k × 2 × 9 = 36, so k = 2.
 
 **y = 2(x + 2)(x − 3)²**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--03-tracking-points.webp" width="900" height="1050" alt="The cubic x^2(x-3) and the curve y = -2f(x+1)+5 with gold arrows carrying (0,0), (2,-4) and (3,0) to (-1,5), (1,13) and (2,5). The y-intercept (0,9) is marked separately because it is found from the new equation." loading="lazy">
+  <figcaption>Track each key point through the map (x, y) to (x-1, -2y+5).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--06-sketching-polynomials.webp" width="900" height="1230" alt="Three small graphs show a linear factor crossing, a squared factor touching and a cubed factor flattening as it crosses. Below, y = (2-x)(x+1)^3 is sketched with the flat point (-1,0), root (2,0), y-intercept (0,2) and maximum (5/4, 2187/256)." loading="lazy">
+  <figcaption>Odd powers cross the axis, even powers touch it.</figcaption>
+</figure>
+
+
 ## 3. Reciprocal graphs (1.02o)
 
 Both curves have the axes as asymptotes. An asymptote is a line the curve approaches ever more closely but does not meet.
@@ -104,6 +115,12 @@ Both curves have the axes as asymptotes. An asymptote is a line the curve approa
 Neither curve crosses an axis. Mark a point such as (1, a) to fix the scale.
 
 A translated reciprocal such as y = 1/(x − 1) has its vertical asymptote at x = 1, because the function is undefined there. In the same way, for y = 6/(x − 2) the vertical asymptote is x = 2, the horizontal asymptote stays at y = 0, and putting x = 0 gives the y-intercept (0, −3). The graph never meets the x-axis because 6/(x − 2) is never zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--08-reciprocal-shapes.webp" width="900" height="1190" alt="Four graphs: y = 2/x in quadrants 1 and 3, y = -2/x in quadrants 2 and 4, y = 2/x^2 with both branches above the axis and y = -2/x^2 with both below. The axes are asymptotes and (1, a) fixes the scale." loading="lazy">
+  <figcaption>Both axes are asymptotes of a/x and a/x^2.</figcaption>
+</figure>
+
 
 ## 4. Algebra and graphs together (1.02p)
 
@@ -162,6 +179,12 @@ Sketch y = 6/x and y = 5 − x. They meet where 6 = 5x − x², so x² − 5x + 
 
 **0 < x < 2 or x > 3**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--07-inequalities-from-graphs.webp" width="900" height="1110" alt="The cubic y = (x+2)(x-1)^2 and the line y = 4(x-1) meet at x = -3, 1 and 2. Shaded bands show where the cubic is above the line: -3 &lt; x &lt; 1 and x &gt; 2, repeated on a number line." loading="lazy">
+  <figcaption>Read inequalities from where one graph lies above the other.</figcaption>
+</figure>
+
+
 ## 7. Proportionality (1.02r)
 
 "y is proportional to f(x)" means y = k f(x) for a constant k. Find k from one pair of values, then use it.
@@ -187,6 +210,12 @@ I = k/d², so 18 = k/4 and k = 72.
 **Example 10.** A table gives (x, y) values (1, 4), (2, 32), (3, 108), (4, 256). Which relationship fits?
 
 Test y/x²: 4, 8, 12, 16 (not constant). Test y/x³: 4, 4, 4, 4. So y = 4x³, and a graph of y against x³ is a straight line through the origin with gradient 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--09-testing-proportionality.webp" width="900" height="1070" alt="The points (1,4), (2,32), (3,108), (4,256) lie on a curve when y is plotted against x but on a straight line through the origin of gradient 4 against x^3. A table shows y/x^2 varies while y/x^3 is always 4." loading="lazy">
+  <figcaption>A straight line through the origin confirms y is proportional to x^n; its gradient is k.</figcaption>
+</figure>
+
 
 ## Common errors
 

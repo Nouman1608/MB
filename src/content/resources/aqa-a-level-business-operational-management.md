@@ -80,6 +80,12 @@ After a training programme the same 40 employees make 19,800 loaves. Productivit
 
 Interpreting data means asking what a number means for the decision, not only what it is. A 75% utilisation figure says there is spare capacity, so extra orders can be met without new investment. Compare it with earlier periods and targets. Data supports planning: forecast demand against capacity, spot bottlenecks, decide when to hire or invest, and check whether a change has worked. Data can mislead if it is out of date or ignores quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--01-yarlcote-three-measures.webp" width="900" height="1020" alt="Three panels for Yarlcote Bakery. Capacity utilisation: 18,000 loaves of a 24,000 capacity is 75%. Labour productivity: 450 loaves per employee, rising to 495 (+10%) after training. Unit cost: 27,000 pounds divided by 18,000 loaves is 1.50 pounds." loading="lazy">
+  <figcaption>Productivity, unit cost and capacity utilisation worked from one week of bakery data.</figcaption>
+</figure>
+
+
 ## 3.4.3 Increasing efficiency and productivity
 
 **Capacity.** Capacity matters because a business with too little loses sales and damages dependability, and one with too much carries idle fixed costs. High utilisation spreads fixed costs over more units, so unit cost falls. Run it too close to 100% and there is no slack for breakdowns or surges.
@@ -109,6 +115,22 @@ So the answer depends on expected volume, how sure the forecast is, and how quic
 
 **Utilising capacity efficiently.** Raise demand through promotion or off-peak pricing; take extra orders from other firms; rent out spare space; schedule maintenance for quiet periods; if utilisation is persistently low, cut capacity by selling or closing assets. **Technology** can help: computer-aided design and manufacturing, robots, automated stock systems, sensors that predict breakdowns and software that plans production. Costs, retraining and cyber-security are the usual drawbacks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--02-vanterra-hand-or-robot.webp" width="900" height="1060" alt="Total cost lines for assembling frames by hand (24,000 pounds fixed, 9 pounds a frame) and with a robotic cell (60,000 fixed, 5 a frame). They cross at 9,000 frames and 105,000 pounds. Below that hand is cheaper, above it the robot is. Examples at 7,000 and 12,000 frames are shown." loading="lazy">
+  <figcaption>Capital intensive becomes cheaper only above 9,000 frames.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--04-yarlcote-capacity-unit-cost.webp" width="900" height="900" alt="Unit cost per loaf falls as capacity utilisation rises: 1.75 pounds at 50 percent, 1.50 pounds at 75 percent (the lesson example) and 1.38 pounds at 100 percent, using an illustrative 9,000 pound fixed cost and 1 pound per loaf." loading="lazy">
+  <figcaption>Higher utilisation spreads the same fixed costs over more loaves, so unit cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ## 3.4.4 Improving quality
 
 **Importance.** Quality is how well a product or service meets customer expectations. Good quality supports price, repeat purchase, reputation and brand loyalty, and reduces waste, returns and warranty costs. What counts as quality varies: a budget airline's customers may mean punctuality and safety, while a luxury hotel's mean service and detail.
@@ -122,6 +144,12 @@ So the answer depends on expected volume, how sure the forecast is, and how quic
 **Benefits:** fewer defects, lower waste and rework, a stronger brand, and the chance to charge more. **Difficulties:** training and equipment cost money; more inspection slows output; very high standards can cost more than customers will pay.
 
 **Consequences of poor quality:** returns and refunds, rework and scrap, lost customers, damaged reputation, falling sales, extra complaint handling, possible legal claims, and low staff morale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ## 3.4.5 Managing inventory and supply chains
 
@@ -155,6 +183,12 @@ On an **inventory control chart** the line falls steadily at the rate of use, a 
 **Managing the supply chain.** Share forecasts and sales data, build long-term relationships, use technology to track orders, reduce the number of links, and agree standards. The value is lower cost, fewer shortages and faster delivery.
 
 **Outsourcing.** Using an outside firm for an activity lets the business focus on what it does best, access expertise and turn fixed costs into variable ones. Risks include less control over quality, dependence, confidentiality, and reputational harm if the supplier acts badly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-operational-management--03-yarlcote-flour-reorder.webp" width="900" height="1090" alt="Flour stock falls 150 kg a day from 1,800 kg. At the re-order level of 900 kg an order of 1,500 kg is placed; after a 4-day lead time stock reaches the 300 kg buffer as the delivery arrives, lifting it back to 1,800 kg. The cycle repeats every 10 days." loading="lazy">
+  <figcaption>Re-order level = buffer + daily usage x lead time = 900 kg.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -47,6 +47,12 @@ Use it with the [Inheritance revision notes](/resources/edexcel-igcse-biology-4b
 
 The **genome** is the entire DNA of an organism. A **gene** is a section of a DNA molecule that codes for a specific protein. Each **chromosome** is one long DNA molecule, and genes sit at positions along it. Chromosomes are found in the **nucleus**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+
 ## DNA and RNA (3.16B–3.17B) -- Paper 2 only
 
 A DNA molecule is **two strands coiled to form a double helix**. The strands are linked by a series of **paired bases**:
@@ -62,6 +68,12 @@ An RNA molecule is **single stranded** and contains **uracil (U) instead of thym
 Given strand:          A T T G C A G C
 Complementary strand:  T A A C G T C G
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
 
 ## Protein synthesis (3.18B) -- Paper 2 only
 
@@ -90,6 +102,17 @@ tRNA anticodons:  U A C   G G A   U U C    (complementary to each codon)
 ```
 
 Three codons, so this section codes for **three amino acids**. Notice that the anticodons have the same sequence as the DNA template, but with U in place of T.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--01-codon-anticodon.webp" width="900" height="1080" alt="Worked example. The DNA template TAC GGA TTC is transcribed into mRNA codons AUG CCU AAG (T pairs with A, A with U). Each tRNA anticodon (UAC, GGA, UUC) pairs with its codon and carries one amino acid, so three codons give three amino acids." loading="lazy">
+  <figcaption>Template, mRNA codons and tRNA anticodons for TAC GGA TTC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
 
 ## Alleles and the key terms (3.19–3.21B)
 
@@ -125,9 +148,26 @@ Offspring:  1 red (CR CR) : 2 roan (CR CW) : 1 white (CW CW)
 
 The phenotype ratio is **1 : 2 : 1**, matching the genotype ratio, because each genotype has its own phenotype.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--02-codominance-roan.webp" width="900" height="1200" alt="Red CR CR crossed with white CW CW gives all roan CR CW. Roan crossed with roan gives a Punnett square of 1 red, 2 roan and 1 white, so the phenotype ratio equals the genotype ratio 1 : 2 : 1." loading="lazy">
+  <figcaption>Both alleles show in a codominant heterozygote, giving 1 red : 2 roan : 1 white.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--06-genotype-phenotype-terms.webp" width="900" height="960" alt="Chromosome pairs for BB, Bb and bb with the matching guinea pig: homozygous black, heterozygous black, homozygous white." loading="lazy">
+  <figcaption>Genotype is the alleles; phenotype is the characteristic shown.</figcaption>
+</figure>
+
+
 ## Polygenic inheritance (3.22)
 
 Most phenotypic features are **polygenic**: they result from several genes acting together, not a single gene. Human height and skin colour are examples. Because many alleles add their effects, these features show a range of values rather than a few clear-cut types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--05-polygenic-height.webp" width="900" height="1045" alt="Three bar charts for an illustrative additive model: one gene gives 3 classes (1:2:1), two genes 5 classes (1:4:6:4:1), four genes 9 classes (1:8:28:56:70:56:28:8:1)." loading="lazy">
+  <figcaption>More genes acting together give more classes and a smoother range of values.</figcaption>
+</figure>
+
 
 ## Monohybrid crosses and probabilities (3.23, 3.25)
 
@@ -157,6 +197,17 @@ Probability of white = 2 out of 4 = **1/2** (0.5, or 50%). Ratio 1 black : 1 whi
 
 Give a probability as a fraction, decimal, percentage or "1 in 4"; a ratio such as 3 : 1 is **not** a probability. Each fertilisation is independent, so the probability is the same for every offspring, however many have already been born.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+
 ## Family pedigrees (3.24)
 
 A pedigree shows a characteristic through generations. Squares are males, circles are females, a shaded symbol is affected, and a horizontal line joins parents.
@@ -168,6 +219,12 @@ A pedigree shows a characteristic through generations. Squares are males, circle
 3. **Chance their next child is affected.** Aa × Aa gives 1 AA : 2 Aa : 1 aa, so the probability is **1/4**.
 
 Key clue: **two unaffected parents with an affected child means recessive**; two affected parents with an unaffected child means dominant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
 
 ## Sex determination (3.26–3.27)
 
@@ -186,6 +243,12 @@ Offspring: 2 XX (female) : 2 XY (male)
 
 Probability of a boy = **1/2** at every fertilisation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+
 ## Mitosis, meiosis and fertilisation (3.28–3.32)
 
 **Mitosis** divides a diploid cell into **two cells with identical sets of chromosomes**. It happens in **growth, repair, cloning and asexual reproduction**.
@@ -201,6 +264,12 @@ In human cells the **diploid number is 46** and the **haploid number is 23**.
 - (a) Mitosis keeps the number the same: **20**.
 - (b) Meiosis halves it: 20 ÷ 2 = **10**.
 - (c) Two gametes fuse: 10 + 10 = **20**, restoring the diploid number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--07-chromosome-numbers-20.webp" width="900" height="900" alt="Mitosis keeps 20 chromosomes in each daughter cell, meiosis gives gametes with 10, and two gametes fuse to give a zygote with 20." loading="lazy">
+  <figcaption>Chromosome counts for diploid number 20 through mitosis, meiosis and fertilisation.</figcaption>
+</figure>
+
 
 ## Variation and mutation (3.33–3.37B)
 

@@ -59,6 +59,17 @@ These notes condense section 4.6 (Economic growth) of the Cambridge O Level Econ
 
 Nominal GDP rose 10.0% in year 2 and 7.14% in year 3. Real GDP grew 0% in year 2 and fell 5.71% in year 3. Higher nominal GDP did not mean more output. If real GDP keeps falling in later years, the economy is in recession.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--10-growth-ppc-pqr.webp" width="900" height="1030" alt="P is inside the PPC, Q is on it and R is on a new outward PPC. Higher demand moves P to Q; capacity growth is needed to reach R. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>PPC with points P, Q and R from the lesson and the shifted curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+
 ## Recession (4.6.3)
 
 - **Causes:** fall in consumer spending, in investment, or in exports; sharp cuts in government spending or rises in tax; higher interest rates; a banking crisis that stops lending; a supply shock such as a sharp rise in input costs.
@@ -75,6 +86,17 @@ Country N is invented. Real GDP per quarter, in billions: quarter 1, 320; quarte
 - Share of potential: 96.97% in quarter 1 and 94.24% in quarter 3. The gap grew from 10 to 19.
 - Tax revenue: 0.25 x 320 = 80.0 and 0.25 x 311 = 77.75, a fall of 2.25 a quarter.
 - Quarter 4: (313 - 311) / 311 x 100 = +0.64%. Output has started to recover but is still below its earlier peak, so the gap to potential (17) remains large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--07-growth-recession-spiral.webp" width="900" height="800" alt="Falling spending cuts firms sales, firms cut jobs and workers who lose jobs spend less, so spending falls again. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four-step loop in which falling spending cuts sales, jobs and incomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--09-growth-recession-gap.webp" width="900" height="800" alt="Real GDP falls from 250 to 244 over two quarters, a recession, and the gap below potential grows from 10 to 16. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Real GDP per quarter for Country B against potential output of 260.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -107,6 +129,32 @@ End with a short judgement that follows from your points.
 
 Quantity of factors: more workers, land, capital. Quality: skills, health, better machines. Technology: new methods raise output per worker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--08-growth-nominal-vs-real.webp" width="900" height="810" alt="Country A nominal GDP rises from 600 to 780 but real GDP stays at 650 in years 3 and 4, so year 4 growth is 11.1% nominal and 0% real. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Paired nominal and real GDP bars for years 1 to 4 with year 4 growth rates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--11-growth-per-head-falls.webp" width="900" height="960" alt="Country D real GDP grows 3.0% but population 3.4%, so GDP per head falls 0.39%; Country E GDP per head rises 1.50%. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Growth of real GDP, population and GDP per head for countries D and E.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--05-growth-workers-times-output.webp" width="900" height="910" alt="Employment +1.5% and output per worker +2.0% give real GDP +3.53%; with population +1.0%, GDP per head rises 2.50%. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Growth rates for workers, output per worker, real GDP, population and GDP per head.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--07-growth-costs-benefits-economies.webp" width="900" height="1240" alt="Growth gains most in a low-income economy, gives smaller gains and heavier environmental costs in a high-income one, and is unstable for a one-export economy. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Three balance scales weighing costs and benefits of growth by type of economy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--08-growth-policies-ppc.webp" width="900" height="1140" alt="Fiscal and monetary policy use spare capacity; education, infrastructure, investment incentives and trade and investment policies shift the PPC outward, slowly but lastingly. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Two PPC diagrams: demand policies move towards the curve, capacity policies shift it out.</figcaption>
+</figure>
+
+
 ## Consequences of growth (4.6.5)
 
 | Benefits | Costs |
@@ -118,6 +166,12 @@ Quantity of factors: more workers, land, capital. Quality: skills, health, bette
 | More profit for investment | Inflation and rising imports if demand grows too fast |
 
 Weighing: growth matters most in poorer economies, where basic needs are unmet. Environmental costs weigh more in richer economies. Always tie your answer to the type of economy in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--06-growth-tax-gains.webp" width="900" height="740" alt="A 4% rise adds 26 to output and 6.5 to tax revenue at a 25% share. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Real GDP rises 650 to 676 and the extra 26 splits into 6.5 tax and 19.5 kept.</figcaption>
+</figure>
+
 
 ## Policies and their effectiveness (4.6.6)
 
@@ -179,3 +233,14 @@ Evaluation prompts: spare capacity, time lag, cost, side effects on prices and t
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), section 4.6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+

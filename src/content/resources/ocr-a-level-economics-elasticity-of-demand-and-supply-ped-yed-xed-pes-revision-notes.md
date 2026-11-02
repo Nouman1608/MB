@@ -73,11 +73,33 @@ On any straight line PED changes with position. Take Q = 900 - 100P, which meets
 - Low on the line: large Q, small P ÷ Q, inelastic.
 - Only a rectangular hyperbola has the same PED all along.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes--02-pes-supply-line-shapes.webp" width="900" height="1030" alt="Three straight supply lines pass through price 5 and quantity 100. The line cutting the quantity axis has PES 0.5, the line through the origin has PES exactly 1 and the line cutting the price axis has PES 2. Where a straight supply line meets the axes decides whether it is inelastic, unit elastic or elastic." loading="lazy">
+  <figcaption>A straight supply line cutting the quantity axis is inelastic, through the origin is unit elastic, cutting the price axis is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes--04-ped-tr-demand-line.webp" width="900" height="1020" alt="Demand Q = 1,200 minus 200P is plotted with PED at five prices: minus 5.0, minus 2.0, minus 1.0, minus 0.5 and minus 0.2. Bars show total revenue 1,000, 1,600, 1,800, 1,600 and 1,000. Revenue peaks where PED is minus 1." loading="lazy">
+  <figcaption>PED falls in size down the line and revenue peaks where PED = -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
+
 ### PED and total revenue
 
 - Elastic demand: cut the price to raise revenue.
 - Inelastic demand: raise the price to raise revenue.
 - Mixed result check: a 5% price rise with PED = -0.4 gives a 2% fall in quantity. Revenue is 1.05 × 0.98 = 1.029 times the old figure, up 2.9%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ### Determinants of PED
 
@@ -89,6 +111,12 @@ On any straight line PED changes with position. Take Q = 900 - 100P, which meets
 - Addiction and loyalty.
 
 **Evaluation tip:** pick the dominant factor for the product named and argue it, then say how time changes the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes--01-ped-five-shapes.webp" width="900" height="1190" alt="Six small graphs show the demand curve for each PED value: vertical for 0, steep for inelastic, a rectangular hyperbola for minus 1, shallow for elastic and horizontal for minus infinity. A sixth graph shows two equal-area rectangles under the hyperbola. Along a hyperbola price times quantity is constant, so revenue never changes." loading="lazy">
+  <figcaption>Each PED value has its own demand curve shape; on a rectangular hyperbola P x Q is constant.</figcaption>
+</figure>
+
 
 ## Indirect tax and subsidy
 
@@ -111,6 +139,22 @@ Check: 0.75 ÷ (0.75 + 0.25) = 0.75
 
 **Evaluation:** consider the aim (revenue or cutting consumption), who is hit (low-income households if the good is a necessity), PES, and the time period.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes--05-tax-subsidy-split-a-b.webp" width="900" height="1030" alt="A 0.60 tax or subsidy is split between buyers and sellers. With inelastic demand A buyers take 0.40 and sellers 0.20; with elastic demand B buyers take 0.24 and sellers 0.36. Quantities and tax revenue or subsidy cost are shown." loading="lazy">
+  <figcaption>The less elastic side bears more of a tax and gains more of a subsidy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## YED
 
 | YED | Good | Effect of rising income |
@@ -124,6 +168,12 @@ Check: 0.75 ÷ (0.75 + 0.25) = 0.75
 - Prediction: YED = -0.5 with income down 4% gives quantity up 2%.
 - Use: firms forecast sales through the cycle and decide product mix. Governments judge which sectors expand as incomes grow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+
 ## XED
 
 | XED | Goods |
@@ -135,6 +185,12 @@ Check: 0.75 ÷ (0.75 + 0.25) = 0.75
 - **Substitutes.** The price of a spread rises from £4.00 to £4.40 (+10%) and sales of a rival spread rise 900 to 936 (+4%). XED = +0.4.
 - **Complements.** Phone price falls £300 to £270 (-10%) and sales of cases rise 500 to 530 (+6%). XED = 6 ÷ -10 = **-0.6**.
 - Use: a firm judges how rivals' price changes affect it, sets prices for linked products, and defines which rivals matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
 
 ## PES
 
@@ -149,6 +205,12 @@ Check: 0.75 ÷ (0.75 + 0.25) = 0.75
 - **Worked reminder.** Price rises £12 to £13.20 (+10%) and supply rises 400 to 420 (+5%). PES = **0.5**.
 - Determinants: spare capacity, stocks, time, factor mobility, production period and perishability, barriers to entry.
 - Link to tax and subsidy: more elastic supply means buyers bear less of a tax and a subsidy raises output more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## Usefulness to economic agents
 

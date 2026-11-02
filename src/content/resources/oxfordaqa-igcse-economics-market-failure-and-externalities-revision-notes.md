@@ -54,6 +54,27 @@ The specification does not give a closed list. Use these, and link each to the p
 
 Section 3.2.3.4 covers policies to correct positive and negative externalities in the second half of the course.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--06-intervention-methods.webp" width="900" height="920" alt="Five methods are shown with what each changes and one limit: tax, subsidy, regulation or ban, direct provision, and information." loading="lazy">
+  <figcaption>Each method of intervention changes something and has a limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--07-tax-level-evaluation.webp" width="900" height="1110" alt="Rows of six output blocks from Worked example 1 show no tax over-produces by one block (loss 15), a tax of 15 gives the best output of 3 blocks, and a tax of 25 stops block 3 (lost gain 5)." loading="lazy">
+  <figcaption>A tax set too high or too low still leaves misallocation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## 3.1.6.2 Externalities
 
 ### Core formulas
@@ -127,6 +148,27 @@ If a question gives a named good, place or firm, name it in your answer. Write "
 | Percentage change in quantity | PED × percentage change in price | -0.4 × 10 = -4% |
 
 When demand is inelastic, a price rise from a tax cuts quantity only slightly. Revenue is healthy, but consumption barely moves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--11-mf-town-x.webp" width="900" height="1000" alt="Benefit falls from 80 to 30 over blocks 1 to 6, private cost rises from 20 to 70 and social cost is private cost plus 15. The market stops at block 4 where benefit equals private cost. Society would stop at block 3. Block 4 costs society 65 but is worth 50, a loss of 15." loading="lazy">
+  <figcaption>A negative externality makes the market over-produce by one block.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--12-mf-island-b.webp" width="900" height="1000" alt="Private benefit falls from 90 to 10 over units 1 to 5, and social benefit is private benefit plus 25. At a cost of 40 the market provides 3 units but society would take 4. Unit 4 is worth 55 and costs 40, a gain of 15. A subsidy of 25 gives output 4 at a bill of 100." loading="lazy">
+  <figcaption>A positive externality makes the market provide one unit too few.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--05-tax-ped-link.webp" width="900" height="720" alt="A tax raises price by 10%. With elasticity -0.4 quantity falls by 4%, a small fall, so the state collects plenty while people keep buying." loading="lazy">
+  <figcaption>A 10% price rise with elasticity -0.4 cuts quantity by only 4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

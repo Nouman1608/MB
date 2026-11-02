@@ -66,6 +66,12 @@ UNIFORM field (parallel plates):
 
 The structural similarity is the point — both are inverse-square laws with the same mathematics. The differences are sign and shielding. Learn the table row by row: comparison questions between gravitational and electric fields draw on it directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
+  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
+</figure>
+
+
 ## Radial vs uniform fields
 
 **Radial** (point charge or sphere):
@@ -85,6 +91,17 @@ The direction is radially outward from a positive charge (the direction of the f
 - Field lines are **parallel and evenly spaced**.
 - E = V/d and is the **same everywhere** between the plates.
 - Potential varies **linearly** with distance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
+  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
+  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
+</figure>
+
 
 ## Charged particle in a uniform field
 
@@ -112,11 +129,23 @@ v = sqrt(2qV/m) = sqrt(2 x 1.60e-19 x 500 / 9.11e-31) = 1.33 x 10^7 m/s
 
 This assumes all the work done by the field converts to kinetic energy, which holds as long as no other force acts on the electron. The same relation works for any charged particle accelerated from rest through a known potential difference, not only electrons — just substitute the correct charge and mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--04-charged-sphere-field.webp" width="900" height="1040" alt="A −45 nC sphere of radius 2.0 cm acts, outside it, like a point charge at its centre, so r is measured from the centre. At r = 6.0 cm E = 1.1×10⁵ N C⁻¹ inwards. OCR only: C = 4πε₀R for an isolated sphere." loading="lazy">
+  <figcaption>Outside a charged sphere, measure distance from its centre and use the point-charge formula.</figcaption>
+</figure>
+
+
 ## Equipotentials
 
 Lines (or surfaces) of constant potential, always **perpendicular to field lines**. No work is done moving a charge along an equipotential.
 
 Relationship: `E = −dV/dr` — field strength is the negative potential gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
+  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
+</figure>
+
 
 ## Exam traps
 
@@ -140,3 +169,9 @@ Related: [Electric Fields practice questions](/resources/a-physics-electric-fiel
 7. An electron is accelerated from rest through a p.d. of 500 V. Find its final speed.
 
 **Answers:** 1. F = Q₁Q₂/(4πε₀r²); ε₀ is in F m⁻¹ (equivalently C² N⁻¹ m⁻²), and 1/(4πε₀) ≈ 8.99 × 10⁹ N m² C⁻². 2. Gravitational potential is always negative because gravity is only attractive; electric potential is positive near a positive charge and negative near a negative charge. 3. E = V/d = 200/0.005 = **40 000 V/m**. 4. A parabola — constant velocity across the field, constant acceleration along it, exactly like projectile motion. 5. The force is perpendicular to the displacement at every point, so W = Fd cos 90° = 0. 6. E = 8.99 × 10⁹ × 5.0 × 10⁻⁶ ÷ 0.20² = **1.12 × 10⁶ N/C**, directed radially outward. 7. v = √(2qV/m) = √(2 × 1.60 × 10⁻¹⁹ × 500 ÷ 9.11 × 10⁻³¹) = **1.33 × 10⁷ m/s**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
+  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+</figure>
+

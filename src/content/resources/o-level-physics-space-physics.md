@@ -70,6 +70,32 @@ r = 9.0 × 5.0 × 10⁶ / 2π = 7.2 × 10⁶ km.
 
 For T, use T = 2πr / v.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--09-sp-light-time-orbital-speed.webp" width="900" height="965" alt="Light takes 500 s to reach Earth, so the orbit radius is 1.5 x 10^11 m. One orbit is 2 pi r and takes 3.15 x 10^7 s, giving a speed of about 29.9 km/s." loading="lazy">
+  <figcaption>Earth’s orbital speed follows from the light travel time and v = 2πr ÷ T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--06-moon-orbit-month.webp" width="900" height="870" alt="Top view, not to scale: the Moon goes once round the Earth in approximately one month." loading="lazy">
+  <figcaption>The Moon takes about one month for one orbit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--10-orbital-speed-worked.webp" width="900" height="870" alt="Moon example: T = 1.56e5 s, 2πr = 2.64e6 km, v = 17 km/s. Reverse example: vT = 4.5e7 km, r = 7.2e6 km. One orbit is 2π radii laid end to end." loading="lazy">
+  <figcaption>Worked examples 2 and 3 of v = 2πr/T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--01-seasons.webp" width="900" height="640" alt="Side view of the Earth either side of the Sun with its axis tilted 23.4 degrees, always pointing the same way. When the north leans towards the Sun a place at 45 degrees north has the Sun 68 degrees high at noon (summer); half an orbit later it is 22 degrees high (winter)." loading="lazy">
+  <figcaption>The tilted axis, not distance from the Sun, causes the seasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--05-orbital-speed.webp" width="900" height="1030" alt="A satellite on a dashed circular orbit of radius r around Earth, with its velocity tangent to the orbit. One orbit is a distance 2 pi r = 4.4 x 10^7 m, covered in 6000 s, so v = 2 pi r / T is about 7330 m/s." loading="lazy">
+  <figcaption>Orbital speed is the circumference of the orbit divided by the time for one orbit.</figcaption>
+</figure>
+
+
 ## 6.1.2 The Solar System
 
 ### What is in it
@@ -93,6 +119,12 @@ Three ideas link the strength of a gravitational field to mass and distance.
 3. The field strength at the surface of the Sun is greater than at the surface of any of the planets, because the Sun has by far the most mass.
 
 For the Earth, the field strength at the surface is 9.8 N/kg, about 10 N/kg (the syllabus gives the acceleration of free fall near the Earth's surface as approximately 9.8 m/s², the same value). The topic text does not ask you to recall it. Other planets have different values, which you may be asked to compare in a table.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--07-gravity-field-strength.webp" width="900" height="1090" alt="Two same-size planets, mass M and 2M: the 2M planet has twice the field arrow. A graph shows g falling with distance from the planet centre." loading="lazy">
+  <figcaption>Field strength rises with planet mass and falls with distance.</figcaption>
+</figure>
+
 
 ### What keeps planets in orbit
 
@@ -127,6 +159,27 @@ T = 700 × 24 × 3600 = 6.05 × 10⁷ s. v = 2π × 300 × 10⁶ / 6.05 × 10⁷
 
 When you describe a trend, quote figures with units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--11-sp-planet-period-speed.webp" width="900" height="920" alt="Four practice planets with distance, period and computed orbital speed bars: 50, 42, 31 and 15 km/s from nearest to furthest. Further planets have longer periods and move more slowly." loading="lazy">
+  <figcaption>Orbital period rises and orbital speed falls with distance from the Sun.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--12-sp-gravity-vs-density.webp" width="900" height="900" alt="A scatter graph of surface field strength against density for four practice planets. Planet D has the lowest density but the strongest field, so density does not decide field strength." loading="lazy">
+  <figcaption>The planet with the strongest surface field is not the densest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--09-minor-bodies-map.webp" width="900" height="960" alt="Plan view with the planets in order, the asteroid belt between Mars and Jupiter, the dwarf planet Pluto, and a comet on an elongated orbit with its tail pointing away from the Sun." loading="lazy">
+  <figcaption>Asteroid belt, dwarf planet and comet in the Solar System.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+
 ## 6.2.1 The Sun as a star
 
 Know these facts about the Sun.
@@ -136,6 +189,12 @@ Know these facts about the Sun.
 - It radiates most of its energy in the infrared, visible and ultraviolet regions of the electromagnetic spectrum.
 
 Stars are powered by **nuclear reactions** that release energy. In stable stars, such as the Sun, the reactions involve the **fusion of hydrogen into helium**. Fusion means nuclei join to form a heavier nucleus, and the reaction releases energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--08-sun-radiation-spectrum.webp" width="900" height="960" alt="A 5800 K black-body curve peaks near 500 nm; ultraviolet (below 400 nm), visible (400 to 700 nm) and infrared (above 700 nm) regions are shaded and hold almost all the energy." loading="lazy">
+  <figcaption>The Sun radiates mostly infrared, visible and ultraviolet.</figcaption>
+</figure>
+
 
 ## 6.2.2 Stars
 
@@ -166,6 +225,12 @@ Learn the sequence in order.
 8. **New stars.** The nebula from a supernova may form new stars with orbiting planets.
 
 The word "planetary" in "planetary nebula" does not mean the nebula contains planets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--10-sp-light-year-scale.webp" width="900" height="1155" alt="A light-year is the distance light travels in a year, 9.5 x 10^15 m. On a log scale Sun to Earth is 500 light-seconds and the Milky Way is about 100 000 light-years across." loading="lazy">
+  <figcaption>A light-year is a distance, and the Milky Way is about 100 000 light-years across.</figcaption>
+</figure>
+
 
 ## 6.2.3 The Universe
 

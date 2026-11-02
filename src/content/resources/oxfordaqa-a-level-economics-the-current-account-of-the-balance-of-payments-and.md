@@ -75,6 +75,32 @@ Country A, in billions of A-units, with GDP of 1,600.
 
 Trade in goods and services balances here, yet the account is in deficit because of income flows. Read each line separately before judging the total. A deficit is not automatically harmful. It is more worrying when large and lasting, and when the cause is poor competitiveness. Imports of machinery that lift future output are a milder case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--01-ca-four-parts.webp" width="900" height="810" alt="Paired bars show credits (right) and debits (left) for goods, services, primary income and secondary income in Country A, with balances -35, +35, -14 and -18. Trade balance is 0 and the current account is -32, or -2.0% of GDP." loading="lazy">
+  <figcaption>The four parts of the current account with credits, debits and the balance on each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--02-unit-labour-cost.webp" width="900" height="840" alt="Wage per worker rises 4% and output per worker 10%, so unit labour cost falls from 20 to 18.91, a fall of 5.5%." loading="lazy">
+  <figcaption>Productivity growing faster than wages lowers unit labour cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--03-relative-prices-inflation.webp" width="900" height="800" alt="Price indexes of Country A and its partner start at 100 and reach 108 and 102. The ratio 108/102 = 1.0588 means Country A goods are 5.9% dearer." loading="lazy">
+  <figcaption>Faster home inflation raises relative prices and tends to worsen the balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+
 ## Factors that influence the current account
 
 ### Productivity
@@ -101,11 +127,23 @@ Now add elasticities. Suppose foreign demand for the machine has PED = -1.5. A 2
 
 Suppose home demand for the import has PED = -0.6. A 25% price rise cuts quantity by 0.6 × 25 = 15%. Spending in A-units = 1.25 × 0.85 = 1.0625, up 6.25%. Inelastic import demand means the import bill rises at first, so the balance can worsen before it improves. The effect grows with time as buyers switch, and the improvement is larger when the two demands are elastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--05-depreciation-prices.webp" width="900" height="1060" alt="Country A depreciates from 0.50 F to 0.40 F per A-unit. A machine falls from 6,000 F to 4,800 F; an import rises from 100 to 125 A-units. With export PED 1.5 revenue rises 4 percent; with import PED 0.6 the import bill rises 6.25 percent." loading="lazy">
+  <figcaption>Prices change first; the balance improves only if demand responds strongly enough.</figcaption>
+</figure>
+
+
 ### Economic activity at home and abroad
 
 Rising incomes at home raise spending on imports. Rising incomes abroad raise demand for exports. Income elasticity of demand (YED) measures the size of the response: %ΔQ = YED × %Δincome.
 
 **Worked example 5.** Country A's imports of goods have YED = 1.8 and home income rises 3%, so imports rise 5.4%: 275 × 1.054 = 289.85. Its exports have YED = 1.2 and partners' income rises 2%, so exports rise 2.4%: 240 × 1.024 = 245.76. The goods balance moves from -35 to 245.76 - 289.85 = **-44.09**, a worsening of 9.09. Growth at home draws in imports faster than growth abroad lifts exports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Possible conflicts between objectives
 
@@ -125,6 +163,12 @@ LRAS is vertical at the normal capacity level of output. A **positive output gap
 
 **Worked example 6.** Potential output is 1,000. Real GDP of 1,020 gives a gap of +2.0%. Real GDP of 960 gives a gap of -4.0%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--04-output-gaps.webp" width="900" height="860" alt="AD/AS diagram with vertical LRAS at potential output 1,000. AD1 meets SRAS at 960, a 4 percent negative gap. AD2 meets SRAS at 1,020, a 2 percent positive gap." loading="lazy">
+  <figcaption>A negative gap leaves spare capacity; a positive gap stretches resources and pushes prices up.</figcaption>
+</figure>
+
+
 ### Growth and its side effects
 
 Growth that comes from higher AD is faster than growth in capacity, so it can overheat. Growth that comes from supply-side improvements shifts LRAS right and avoids most of the inflation conflict. Four side effects matter.
@@ -133,6 +177,12 @@ Growth that comes from higher AD is faster than growth in capacity, so it can ov
 - **Distribution.** Suppose the poorest 40% have income 200, the middle 40% have 400 and the richest 20% have 400, so total income is 1,000. After growth they get 206, 416 and 432: rises of 3%, 4% and 8%, with total income 1,054 (+5.4%). The richest 20% share goes from 40.0% to 40.99%, and the poorest 40% share falls from 20.0% to 19.54%. Average income rose, yet inequality widened.
 - **Unemployment.** Output grows 3% while output per worker grows 3.5%. Labour needed changes by 1.03 / 1.035 = 0.9952, a fall of 0.5%. This is growth without job creation. Faster growth usually lowers cyclical unemployment, but not if productivity rises as fast.
 - **Budget balance.** Suppose tax is 35% of GDP and spending is 380 when GDP is 1,000, so the deficit is 380 - 350 = 30, or 3.0% of GDP. GDP rises to 1,030 and tax revenue to 360.5. Spending on benefits falls 4, so spending is 376. The deficit is 376 - 360.5 = 15.5, or **1.5%** of 1,030. Growth narrowed the deficit because tax revenue rose and benefit spending fell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--04-growth-side-effects.webp" width="900" height="1000" alt="Four panels with before and after bars: emissions rise 1.9%, the richest 20% share rises to 40.99% while the poorest 40% falls to 19.54%, labour needed falls 0.5%, and the deficit falls from 3.0% to 1.5% of GDP." loading="lazy">
+  <figcaption>Four side effects of growth, each with its worked numbers.</figcaption>
+</figure>
+
 
 ### Inflation, unemployment and the current account
 
@@ -143,6 +193,12 @@ In the short run, expanding AD to cut unemployment moves the economy along SRAS,
 In the short run, policymakers can use different instruments for different aims, or accept a trade-off. In the long run, supply-side policies such as education, training and investment shift LRAS right. They can raise output and lower unemployment without adding to inflation, and a higher-productivity economy competes better abroad.
 
 **Evaluation chain.** State the conflict, then explain it with AD/AS, then judge: how big is the spare capacity, how fast does the economy adjust, and is the shock temporary? A conflict is sharper when the economy is near full capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Common errors
 

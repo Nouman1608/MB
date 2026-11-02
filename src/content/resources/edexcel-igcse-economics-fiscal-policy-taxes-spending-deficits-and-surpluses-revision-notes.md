@@ -48,6 +48,12 @@ All figures below are invented and illustrative.
 | Indirect taxes | Sales tax or VAT, excise duties |
 | Main spending areas | Healthcare, education, social protection (benefit payments), defence and public order, infrastructure, debt interest |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--08-budget-deficit.webp" width="900" height="960" alt="Two stacked columns for Country A: revenue 850 (direct 430, indirect 370, other 50) and spending 1,000 in seven items. A dashed box shows the deficit of 150, which is 3.0% of GDP of 5,000." loading="lazy">
+  <figcaption>A deficit is spending minus revenue in one year.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Measure | Formula |
@@ -89,6 +95,12 @@ All figures below are invented and illustrative.
 
 **Worked reminder.** Revenue 640, spending 700, GDP 3,000. Deficit = 60; as a share of GDP = 60 ÷ 3,000 × 100 = **2.0%**. If revenue were 910 and spending 880, there would be a **surplus of 30**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--07-income-tax-bands.webp" width="900" height="910" alt="Two bars to the same scale show bands of 0%, 20% and 40%. Pay of 42,000 pays 0, 4,000 and 4,800: tax 8,800, net 33,200, average rate 20.95%. Pay of 15,000 pays 1,000: net 14,000, average 6.67%." loading="lazy">
+  <figcaption>Each band is taxed at its own rate, so the average rate rises with income.</figcaption>
+</figure>
+
+
 ## Effect chains on the macroeconomic objectives
 
 | Objective | Expansionary policy | Contractionary policy |
@@ -102,6 +114,32 @@ All figures below are invented and illustrative.
 
 Tax cuts: a cut in income tax raises net pay. A tax cut of 2% on gross pay of 30,000 adds 600 to net pay. Part is saved and part goes on imports, so the boost to domestic demand is smaller than the cut.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--09-tax-cut-leakages.webp" width="900" height="900" alt="Step-down bars in million: extra income 1,200, minus 240 saved, minus 240 spent on imports, leaving 720 added to domestic demand, which is 1.2% of GDP of 60,000." loading="lazy">
+  <figcaption>Only part of a tax cut becomes extra domestic demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--09-country-c-growth-chain.webp" width="900" height="810" alt="A waterfall of three bars: government spends 60 (3.0% of GDP), workers and suppliers spend 30 more (1.5%), giving a total rise in GDP of 90 (4.5%) on a GDP of 2,000, 1.5 times the first spend." loading="lazy">
+  <figcaption>A 60 spend (3.0% of GDP) becomes a 90 rise in GDP (4.5%) once the money is spent again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+
 ## Deficit and surplus: impacts
 
 | | Positive | Negative |
@@ -110,6 +148,17 @@ Tax cuts: a cut in income tax raises net pay. A tax cut of 2% on gross pay of 30
 | Surplus | Pays off debt; builds a reserve | Takes demand out of the economy; may mean cuts to services |
 
 Deficit is a yearly flow. National debt is the total stock of past borrowing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--07-deficit-vs-debt.webp" width="900" height="880" alt="A tub labelled national debt, a stock, filled with three yearly deficits of 150 each (an illustrative assumption), 450 in total, with an arrow pouring in a deficit of 150 in one year, a flow." loading="lazy">
+  <figcaption>Yearly deficits add up to the national debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--08-deficit-harm.webp" width="900" height="950" alt="A bar of Country A revenue 850 with 60 (7.1%) going to debt interest and 790 left for services, and a four-step chain: government borrows more, interest rates may rise, firms pay more to borrow, private investment falls (crowding out)." loading="lazy">
+  <figcaption>Debt interest takes 7.1% of revenue, and heavy borrowing can crowd out private investment.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -132,6 +181,12 @@ Country E (illustrative) has GDP of 40,000 (millions). A tax cut gives 500,000 w
 
 The lesson for evaluation: the bigger the share saved or spent on imports, the weaker the boost to growth, jobs and prices at home.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--10-sales-tax-regressive.webp" width="900" height="890" alt="A coat costs 250 plus 30 sales tax = 280. Two bars each stand for a household income. The tax inside the low-income household spending is 8.04% of its income; for the high-income household it is 3.57%." loading="lazy">
+  <figcaption>A flat percentage tax on spending takes a bigger share of a low income.</figcaption>
+</figure>
+
+
 ## Which policy for which problem?
 
 | Problem | Fiscal response | Typical risk |
@@ -141,6 +196,12 @@ The lesson for evaluation: the bigger the share saved or spent on imports, the w
 | Large gap between rich and poor | Progressive income tax and benefits | Taxpayers may have less reason to work or invest |
 | Pollution | Tax on polluting goods; spending on clean alternatives | Higher prices for consumers |
 | Weak transport and power networks | Spending on infrastructure | Costly to fund; slow to deliver |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--06-expansion-vs-contraction.webp" width="900" height="720" alt="Two columns with arrows. Expansionary: government spending up, taxes down, total demand up. Contractionary: government spending down, taxes up, total demand down. Either tool alone, or both together." loading="lazy">
+  <figcaption>Expansionary policy raises demand; contractionary policy reduces it.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 

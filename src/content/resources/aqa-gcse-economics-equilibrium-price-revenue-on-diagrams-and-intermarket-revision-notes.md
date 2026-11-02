@@ -56,6 +56,12 @@ Price (£)   Demanded   Supplied   Gap
 - At £6: excess demand of 240. At £14: excess supply of 240.
 - Method: find the row where the two columns match. On a diagram, find where the curves cross.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--01-eq-flower-disequilibrium.webp" width="900" height="1010" alt="A demand and supply diagram for weekly bunches of flowers in an illustrative Town A. Demand is 400 minus 20 times the price and supply is 40 plus 10 times the price, so they cross at 12 pounds and 160 bunches. At the lower price of 8 pounds buyers want 240 and sellers offer 120, an excess demand of 120 bunches, so the price rises towards 12. At the higher price of 16 pounds sellers offer 200 and buyers want 80, an excess supply of 120 bunches, so the price falls towards 12. The curves do not move; only the price and the quantities along the curves change." loading="lazy">
+  <figcaption>The flower market at £8 and £16, away from the £12 equilibrium.</figcaption>
+</figure>
+
+
 ## Price adjustment
 
 Excess demand chain: buyers compete, sellers see shortages, price rises, quantity supplied rises, quantity demanded falls, gap closes.
@@ -81,6 +87,22 @@ Four steps: which curve, which direction, what appears at the old price, new pri
 
 If both curves shift, one of price or quantity is certain. In the two reminders above applied together (demand down 120, supply up 60), price falls to £7 but the quantity stays at 200. Without the numbers you could only say price falls and quantity is uncertain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--04-eq-three-shifts-flowers.webp" width="900" height="1350" alt="Three small diagrams for the flower market, each starting at 12 pounds and 160 bunches. Demand rises: excess demand 60, new equilibrium 14 and 180. Supply falls: excess demand 30, new equilibrium 13 and 140. Supply rises: excess supply 60, new equilibrium 10 and 200." loading="lazy">
+  <figcaption>Each shift opens an excess at the old price, and price then moves to the new equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Revenue on the diagram
 
 Revenue is the rectangle from the origin to the equilibrium point: price x quantity.
@@ -95,12 +117,29 @@ Away from equilibrium, quantity sold is the smaller of the two quantities. At £
 
 For a single firm, use the firm's own price and output, not the market's.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--05-eq-revenue-rectangle.webp" width="900" height="1240" alt="A flower market diagram with the rectangle from the origin to equilibrium shaded: 12 times 160 equals 1,920 pounds. A bar chart compares revenue in the original market (1,920), after demand rises (2,520), supply falls (1,820), supply rises (2,000), and away from equilibrium at 16 pounds (1,280) and 8 pounds (960)." loading="lazy">
+  <figcaption>Revenue is price times quantity, the rectangle to the equilibrium point.</figcaption>
+</figure>
+
+
 ## Applying it to real markets
 
 - Seasonal goods: supply rises at harvest, so the price falls.
 - Fixed-capacity events: supply is vertical, so a rise in demand changes only the price.
 - Rising costs: supply shifts left, so price rises and quantity falls.
 - Always name the good, the buyers, the sellers and the cause of the shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--02-eq-real-markets.webp" width="900" height="1170" alt="Three small demand and supply diagrams with illustrative numbers. Seasonal fruit: the harvest shifts supply right, so the price falls and quantity rises. Event tickets: seats are fixed so supply is a vertical line; a rise in demand raises only the price, not the quantity. A rise in costs: supply shifts left, so the price rises and quantity falls." loading="lazy">
+  <figcaption>Fruit, tickets and cost rises each shift one curve and move the price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
 
 ## Complements and substitutes (3.1.3.4)
 
@@ -114,6 +153,12 @@ Chain example: poor harvest, coffee supply falls, coffee price rises, quantity o
 Related markets also react to changes in demand. If demand for a console rises, the console price tends to rise, and demand for the games used on it rises as well.
 
 On the supply side, if a farmer can grow either wheat or barley, a higher wheat price shifts barley supply left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
 
 ## Diagram checklist
 
@@ -134,6 +179,17 @@ A short numerical chain for a made-up Town B. Suppose bus fares and train fares 
 - Train revenue rises from 6 x 400 = £2,400 to 7 x 450 = £3,150.
 
 Now take cars and fuel as complements. If a tax makes cars dearer, fewer cars are bought. Demand for fuel shifts left, so the fuel price and quantity fall. Stating each step in order makes the chain clear and earns credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--06-eq-related-markets-chain.webp" width="900" height="1350" alt="Three diagrams. Coffee supply shifts left, price 7.50 to 8.50 and quantity 340 to 300, a movement along demand. Tea, a substitute, has demand shifting right: 4 and 340 to 4.50 and 370. Milk, a complement, has demand shifting left: 12 and 360 to 11 and 340." loading="lazy">
+  <figcaption>A supply change in one market shifts demand in substitute and complement markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--03-eq-wheat-barley-link.webp" width="900" height="930" alt="A farmer can grow wheat or barley. When demand for wheat rises, the wheat price goes up, so the farmer plants more wheat; in the illustrative bar, wheat takes 70 per cent of the field instead of 50 per cent. That leaves less land for barley, so the supply curve of barley shifts left, which raises the barley price and cuts the barley quantity. A change in one market therefore reaches the other through the producer's choice." loading="lazy">
+  <figcaption>A higher wheat price pulls land from barley and shifts barley supply left.</figcaption>
+</figure>
+
 
 ## Supply-side links between markets
 
@@ -196,3 +252,9 @@ Producers decide what to make, and that links markets too.
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA. Sections 3.1.3.3 and 3.1.3.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+

@@ -57,6 +57,12 @@ Each pair gives the coordinates of one intersection of the two graphs. If the su
 
 **Example 2.** y = 2x − 7 and y = x² − 3x + 1 give x² − 5x + 8 = 0. Here b² − 4ac = 25 − 32 = −7, which is negative, so the line and curve never meet and there are no solutions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--04-line-meets-curve.webp" width="900" height="940" alt="Parabola y = x^2 with three parallel lines of gradient 2. Substituting gives discriminants 16, 0 and -8: two intersections, a tangent at (1, 1), and no intersection." loading="lazy">
+  <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
+</figure>
+
+
 ## 1.7 and 1.9 Solving inequalities
 
 **Linear.** Solve as an equation, but reverse the inequality sign when you multiply or divide by a negative number.
@@ -86,6 +92,27 @@ Check x = −1: −6 < 5, true. Check x = 1: 6 < 5, false. Check x = 2: 3 < 5, t
 
 When two conditions must hold together, solve each separately and keep the values that satisfy both, using a number line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
+  <figcaption>Sketch the curve: above the axis gives an &quot;or&quot; answer outside the roots, below gives an &quot;and&quot; answer between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--05-curve-below-line.webp" width="900" height="880" alt="The curve y = x^2 - 4x + 3 and line y = 3 - 2x meet at x = 0 and x = 2. The curve is below the line between them, so 0 &lt; x &lt; 2." loading="lazy">
+  <figcaption>f(x) &lt; g(x) means the first graph lies below the second; find the intersections first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--07-fraction-inequality.webp" width="900" height="940" alt="Graph of y = 5/(x - 2) with asymptote x = 2 and the line y = 3. The curve is above the line only for 2 &lt; x &lt; 11/3. Multiplying by x - 2 is unsafe because its sign changes at x = 2." loading="lazy">
+  <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
+</figure>
+
+
 ## 1.8 Regions defined by inequalities
 
 1. Draw the boundary: y = x + c or y = ax² + bx + c.
@@ -96,6 +123,12 @@ When two conditions must hold together, solve each separately and keep the value
 **Example 7.** Show the region where y ≥ x² − 4x and y < x + 6.
 
 The boundaries meet where x² − 4x = x + 6, so x² − 5x − 6 = 0 and x = −1 or 6, giving (−1, 5) and (6, 12). The parabola is solid. The line is dotted. Test (1, 0): 0 ≥ −3 is true and 0 < 7 is true. R is the region above the parabola and below the line, between the two intersection points. Both intersection points lie on the dotted line, so neither is in R.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--06-inequality-region.webp" width="900" height="990" alt="Solid parabola y = x^2 - 4x and dotted line y = x + 6 meet at (-1, 5) and (6, 12). The region R between them is shaded; the test point (1, 0) satisfies both inequalities. Solid means included, dotted means excluded." loading="lazy">
+  <figcaption>Solid boundaries include their values, dotted ones do not; test a point to choose the side to shade. (Edexcel IAL / AQA content.)</figcaption>
+</figure>
+
 
 ## 1.10 Polynomials and f(x) notation
 
@@ -145,6 +178,12 @@ Neither graph is defined at x = 0, and neither crosses an axis.
 **Using intersections.** To show how many solutions an equation has, rewrite it as two curves and sketch both.
 
 **Example 11.** Show that x³ − x − 5 = 0 has exactly one real root. Rearrange to x³ − x = 5, then x² − 1 = 5/x. Sketch y = x² − 1 and y = 5/x. For x > 0 the parabola rises from −1 while the reciprocal falls from very large values, so they cross once. For x < 0 the reciprocal is below −1 for −5 < x < 0, where the parabola is at least −1, and for x < −5 the parabola is positive while the reciprocal is negative. There is no crossing. Hence **one real root** (about 1.90).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--01-completing-the-square.webp" width="900" height="910" alt="Graph of y = -2x^2 + 8x + 3 rewritten as -2(x - 2)^2 + 11. The vertex (2, 11) is the maximum because a is negative, the line of symmetry is x = 2, the y-intercept is 3 and the roots are about -0.35 and 4.35." loading="lazy">
+  <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
+</figure>
+
 
 ## 1.12 Transformations of y = f(x)
 

@@ -104,6 +104,27 @@ P |      |            P |                  P | \
 
 A straight downward-sloping demand curve does not have one PED. Near the top (high price, low quantity) a given change in price is a small percentage and a given change in quantity is a large percentage, so demand is elastic there. Near the bottom it is inelastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--08-elasticity-curve-shapes.webp" width="900" height="1170" alt="Nine small graphs: demand curves for PED 0, infinity and 1; supply curves for PES 0, infinity and 1; and straight supply lines starting on the price axis (PES above 1), the origin (1) and the quantity axis (below 1)." loading="lazy">
+  <figcaption>The shape of a curve tells you whether demand or supply is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--06-ped-straight-line-market-k.webp" width="900" height="810" alt="The straight demand line quantity = 120 - 10 x price is elastic above a price of 6, exactly unitary at price 6 and inelastic below. Price falls 10 to 8, 8 to 6 and 4 to 2 give PED -5, -2 and -0.5." loading="lazy">
+  <figcaption>PED changes along a straight demand line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--10-ped-pes-backwards.webp" width="900" height="810" alt="Demand: PED -0.5 and a price rise of 8% gives -4% quantity, so 2,000 becomes 1,920. Supply: PES 0.4 and a price rise of 25% gives +10% quantity, so 600 becomes 660." loading="lazy">
+  <figcaption>Percentage change in quantity = elasticity x percentage change in price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## 2.7.3 Determinants of PED
 
 1. **Availability and closeness of substitutes.** If a buyer can switch easily, a price rise sends them elsewhere, so demand is elastic. A good with few substitutes has inelastic demand.
@@ -114,6 +135,12 @@ A straight downward-sloping demand curve does not have one PED. Near the top (hi
 6. **Habit or addiction.** Buyers who feel they must have the product respond little to price.
 
 Link each determinant to the good: with no close substitutes for a medicine, buyers cannot switch, so demand is inelastic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--09-ped-determinants.webp" width="900" height="860" alt="Four rows contrast inelastic and elastic demand: few or none against many close substitutes; necessity against luxury; small against large share of income; short run against long run." loading="lazy">
+  <figcaption>What pushes demand towards inelastic or elastic.</figcaption>
+</figure>
+
 
 ## 2.7.4 PED and total spending (revenue)
 
@@ -145,6 +172,17 @@ Revenue is greatest at a price of 6, where demand is about unitary. Cutting pric
 
 In a diagram, revenue is the rectangle under the demand curve: height equals the price and width equals the quantity. After a price cut on elastic demand, the new rectangle is larger. After a price cut on inelastic demand, the new rectangle is smaller.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--07-ped-revenue-market-k.webp" width="900" height="800" alt="Revenue against price in Market K (quantity = 120 - 10 x price): 200, 320, 360, 320, 200 at prices 10, 8, 6, 4, 2. Above price 6 demand is elastic and a price cut raises revenue; below 6 it is inelastic and a cut lowers revenue." loading="lazy">
+  <figcaption>Revenue peaks where demand is about unitary; either side, a price cut helps or hurts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## 2.7.5 Why PED matters
 
 **Consumers.** If demand is inelastic, a price rise leaves buyers paying more in total for almost the same amount, so spending on necessities takes a larger share of their budget. If demand is elastic, buyers can protect themselves by switching, and competition between sellers helps them.
@@ -161,6 +199,12 @@ In a diagram, revenue is the rectangle under the demand curve: height equals the
 - If PED = -2.0: quantity falls 20%, to 6,400. Tax revenue = 6,400 x 0.50 = **3,200**.
 
 A tax raises more revenue on inelastic demand, but it also cuts consumption less. If the aim is to discourage a harmful product, inelastic demand makes the tax a weak tool, and the government may need other measures too, such as information campaigns or regulation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--07-ped-tax-revenue.webp" width="900" height="840" alt="A tax of 0.50 raising price 10%: with PED -0.3 sales fall to 7,760 and tax revenue is 3,880; with PED -2.0 sales fall to 6,400 and revenue is 3,200." loading="lazy">
+  <figcaption>Inelastic demand raises more tax revenue.</figcaption>
+</figure>
+
 
 ## 2.8.1 What PES measures
 
@@ -203,6 +247,12 @@ P |      |            P |                  P |        /
 5. **Supply of raw materials.** If inputs are in short supply or take a long time to grow, supply is inelastic.
 6. **Length of the production process.** Crops that take a season to grow cannot respond within it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+
 ## 2.8.4 Why PES matters
 
 **Worked example 7.** Demand in two markets (invented) starts at the pattern quantity = 200 - 10 x price, so the starting price in each is 10 and quantity 100. Demand then rises to quantity = 230 - 10 x price. In Market X supply is inelastic (quantity = 100 + 2 x (price - 10)). In Market Y supply is elastic (quantity = 100 + 20 x (price - 10)).
@@ -219,6 +269,12 @@ The same rise in demand gives a large price rise and small quantity rise in X, a
 **Producers.** Firms with elastic supply can take advantage of a price rise by expanding output quickly. Those with inelastic supply cannot, and their rivals may win the extra sales. Producers use PES when planning spare capacity and stock.
 
 **Government.** Governments need PES when they want more output. A subsidy to a sector with inelastic supply raises output only slightly and lowers price only slightly, so much of the money may simply raise producers' profit. A government that wants to ease a shortage of a good with inelastic supply, such as housing, may need measures that increase supply over time, because a short-run price signal will not work quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--08-pes-same-demand-rise.webp" width="900" height="1150" alt="Demand rises from Q = 200 - 10P to 230 - 10P. With inelastic supply price rises 25% to 12.5 and quantity 5% to 105; with elastic supply price rises 10% to 11 and quantity 20% to 120. Axes start at 60 and 6." loading="lazy">
+  <figcaption>The same rise in demand has different effects depending on PES.</figcaption>
+</figure>
+
 
 ## Common errors
 

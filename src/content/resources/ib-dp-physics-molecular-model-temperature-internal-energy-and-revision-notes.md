@@ -35,6 +35,12 @@ Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Printable list: [IB DP 
 - Solids and liquids resist compression because the particles already touch.
 - Gases fill their container and compress easily because of the large gaps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--01-molecular-model.webp" width="900" height="700" alt="Three boxes show a solid lattice with particles vibrating about fixed sites, a liquid pile of touching particles that can slide past each other, and a gas of few, widely spaced particles with long arrows for fast random motion. Under each box are its compressibility and density. Solids and liquids have density of order 10^3 kg per cubic metre, gases about a thousand times less." loading="lazy">
+  <figcaption>Solids and liquids have touching particles; gas particles are far apart and move fast and randomly.</figcaption>
+</figure>
+
+
 ## Formulas and rules
 
 | Quantity | Relationship | Notes |
@@ -55,6 +61,17 @@ Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Printable list: [IB DP 
 - **Phase change:** temperature constant, kinetic energy per particle unchanged, potential energy changes.
 - **Evaporation** is a surface effect that needs no particular temperature. **Boiling** takes place in the bulk of the liquid at its boiling point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--04-internal-energy.webp" width="900" height="920" alt="Nine particles are joined by zigzag springs for intermolecular potential energy and carry arrows for random kinetic energy. Internal energy is the total potential plus the total random kinetic energy. A block moving through space is marked as not part of internal energy." loading="lazy">
+  <figcaption>Internal energy is total intermolecular potential energy plus total random kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--07-evaporation-boiling.webp" width="900" height="740" alt="Two tanks compare evaporation, where a few fast surface molecules escape at any temperature below boiling and the liquid left cools, with boiling, where vapour bubbles form throughout the liquid at a fixed temperature and the energy supplied raises potential energy." loading="lazy">
+  <figcaption>Evaporation is at the surface and cools the liquid; boiling is throughout the liquid at constant temperature.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Idea A | Idea B |
@@ -72,6 +89,12 @@ Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Printable list: [IB DP 
 3. For each change of state use Q = mL with the right L.
 4. Add the stages. If a heater is involved, use t = Q/P.
 5. Check units (kg, J, K) and give the answer to three significant figures unless told otherwise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--06-heating-curve.webp" width="900" height="990" alt="A heating graph for 0.180 kg of ice from -18 C to water at 40 C. Warming ice takes 6804 J, melting at constant 0 C takes 60120 J, warming water takes 30096 J; total 97020 J, with melting 62 percent." loading="lazy">
+  <figcaption>Melting needs the largest share of energy while the temperature stays constant.</figcaption>
+</figure>
+
 
 ## Method for a mixing problem
 
@@ -106,6 +129,12 @@ A heating curve plots temperature against time for a sample heated at constant p
 - Gradient of a sloping section is P/(mc), so a steeper line means a smaller specific heat capacity for the same mass and power.
 - The boiling stage is much longer than the melting stage because L_v is much larger than L_f.
 - On cooling, the same curve is read backwards: condensing and freezing release the energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--03-ek-kelvin.webp" width="900" height="1080" alt="A straight line through the origin plots mean kinetic energy against kelvin temperature using E_k = 3/2 k_B T. At 240 K it is 4.97e-21 J (helium speed about 1.22e3 m/s) and at 480 K it is 9.94e-21 J, double. Bar charts contrast doubling kelvin temperature (energy doubles) with doubling Celsius temperature from 20 to 40 C (energy rises only 1.07 times)." loading="lazy">
+  <figcaption>Mean kinetic energy is proportional to kelvin temperature, not Celsius.</figcaption>
+</figure>
+
 
 ## Two short worked reminders
 

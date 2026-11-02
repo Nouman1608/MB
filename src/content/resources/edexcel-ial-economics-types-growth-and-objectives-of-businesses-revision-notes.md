@@ -40,6 +40,17 @@ Condensed notes for the Pearson Edexcel International Advanced Subsidiary/Advanc
 
 Must-know distinction: a not-for-profit body may earn a surplus. The question is where the surplus goes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--01-ial-three-objectives.webp" width="900" height="1010" alt="Bakery with AR = 120 - 6Q, MR = 120 - 12Q, MC = 12 + 6Q, AC = 80/Q + 12 + 3Q. MC cuts MR at Q = 6 (price 84) for profit maximisation, MR = 0 at Q = 10 (price 60) for revenue maximisation, and AR meets AC at Q = 11.2 (price 52.8) for sales volume maximisation." loading="lazy">
+  <figcaption>Profit, revenue and sales maximisation give three different outputs on one diagram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--09-business-types-surplus.webp" width="900" height="932" alt="Six rows show private sector, state-owned, for-profit, not-for-profit, co-operative and joint venture, each with who owns it and where the surplus or aim points." loading="lazy">
+  <figcaption>Types of business differ in who owns them and where any surplus goes.</figcaption>
+</figure>
+
+
 ## 2. Size and growth (items 2a to 2g)
 
 - **SME or large:** state the measure (employees, turnover or assets). Definitions differ between countries.
@@ -80,6 +91,32 @@ Always write the unit and say what the base is. In a percentage change question 
 2. Chain the gain: lower unit costs, then lower prices only if competition forces a pass-on.
 3. Chain the harm: market power, higher prices, job losses.
 4. Judge with a condition: market contestability, regulator, size of the savings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--02-ial-merger-types.webp" width="900" height="900" alt="A bakery in a supply chain: buying the flour mill is backward vertical (saves 280,000 a year), the shop chain forward vertical (keeps the 10 retail margin), a rival bakery horizontal (30% + 20% = 50% share) and a travel agent conglomerate (profit steady)." loading="lazy">
+  <figcaption>The four merger types show who buys whom along the supply chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--10-growth-sums.webp" width="900" height="760" alt="Left: revenue rises from 4.0m to 4.6m, a 15% rise. Right: shares at 2.40 and a bid of 3.12 give a 30% premium; for 5m shares, 12.0m becomes 15.6m, an extra 3.6m." loading="lazy">
+  <figcaption>Organic growth is a percentage rise; a takeover premium is the extra paid over market value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--11-growth-constraints.webp" width="900" height="906" alt="Bars grow until they meet a dashed limit. Four constraints: size of market, access to finance, owner objectives and regulation." loading="lazy">
+  <figcaption>Four things can stop a firm growing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--12-growth-impact.webp" width="900" height="750" alt="Gains and losses from growth for businesses, workers and consumers, with the outcome depending on savings passed on, competition and the regulator." loading="lazy">
+  <figcaption>Growth brings gains and losses to businesses, workers and consumers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--13-demerger-split.webp" width="900" height="920" alt="Five reasons feed into one firm splitting into Business A and Business B. Gains: focus and higher valuation of parts. Loss: economies of scale." loading="lazy">
+  <figcaption>A demerger trades scale economies for focus.</figcaption>
+</figure>
+
 
 ## 3. Objectives (items 3a to 3c)
 
@@ -123,6 +160,17 @@ Two rival bus companies merge. Cost chain: one head office and shared depots, so
 ### Worked chain: demerger
 
 A group that makes tools, toys and tiles struggles to manage three unrelated businesses. Managers lose focus, so costs rise and profit lags. After a demerger, each firm has a clear aim and its own management. The tile business is valued more highly and can raise finance easily. Workers may fear job losses in the old head office but may gain a clearer career path in the smaller firm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--03-ial-profit-satisficing.webp" width="900" height="950" alt="Profit curve 108Q - 9Q^2 - 80 peaks at 244 at Q = 6, is 100 at Q = 10 and zero at Q = 11.2. A gold band for Q = 3.8 to 8.2 marks profit of at least 200." loading="lazy">
+  <figcaption>A satisficing manager can pick any output where profit meets the owners minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--04-ial-principal-agent.webp" width="900" height="1000" alt="Owners earn 244 thousand pounds at Q = 6 but 100 thousand at Q = 10. A manager paid 2% of revenue earns 10,080 at Q = 6 and 12,000 at Q = 10, so prefers Q = 10 while owners lose 144 thousand." loading="lazy">
+  <figcaption>A revenue-linked bonus pulls the manager away from the owners profit.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

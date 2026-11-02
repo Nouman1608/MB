@@ -79,6 +79,32 @@ When you analyse a table or graph of GDP, work through these steps.
 
 Always check whether the data is real or nominal, whether it is a total or per capita, and what period it covers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-growth-gdp-and-unemployment--08-gdp-growth-and-unemployment-country-z.webp" width="900" height="1030" alt="Real GDP growth for years 2 to 8 computed from GDP 600 to 677 billion, with years 4 and 5 shaded as falling output, above the unemployment rate which peaks at 5.5% in year 5." loading="lazy">
+  <figcaption>Unemployment peaked in the year after output began to fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-growth-gdp-and-unemployment--09-gdp-vs-gdp-per-person.webp" width="900" height="940" alt="GDP rises 3.0% from 600 to 618 billion while population rises 4.0% from 75 to 78 million, so GDP per person falls 1.0% from 8,000 to 7,923 units." loading="lazy">
+  <figcaption>Total GDP can rise while GDP per person falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+
 ## Determinants of growth
 
 Growth happens when an economy produces more from its resources, or has more resources to use.
@@ -95,6 +121,12 @@ Growth happens when an economy produces more from its resources, or has more res
 A short calculation shows how the determinants combine. If Country Z's workforce rises by 5% and output per worker rises by 2%, total output rises by 1.05 x 1.02 = 1.071, which is 7.1%. It is slightly more than adding 5% and 2% because the extra workers are also more productive.
 
 Chain of reasoning for **investment**: firms buy new machines, so each worker has more capital, so output per worker rises, so potential output rises and growth is higher. Investment also costs something now: money spent on machines is not spent on consumption, which is an opportunity cost. For education and training, the chain is similar: skills rise, productivity rises, wages and tax revenue rise, but training takes years to pay off.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-growth-gdp-and-unemployment--01-growth-workforce-productivity.webp" width="900" height="991" alt="An area diagram of starting output 1.000. The workforce rises 5%, adding a strip of 0.050, and output per worker rises 2%, adding a strip of 0.020. A tiny corner of 0.001 is where both gains overlap. The total is 1.071, a 7.1% rise." loading="lazy">
+  <figcaption>Output rises 7.1%, not 7%, because the extra workers are also more productive.</figcaption>
+</figure>
+
 
 ## Costs and benefits of growth
 
@@ -158,6 +190,22 @@ North has 27% of the labour force but 55% of the unemployed. The national averag
 
 Cyclical unemployment falls as the economy recovers. Frictional unemployment is short and hard to remove. Structural unemployment can last for years and needs retraining or help to move.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-growth-gdp-and-unemployment--10-unemployment-rate-labour-force.webp" width="900" height="990" alt="Bars split the labour force into employed and unemployed. Year 5: 1.8 of 33.0 million is 5.5%. Year 6: 1.5 of 33.3 million is 4.5%, a fall of 1.0 percentage point." loading="lazy">
+  <figcaption>The unemployment rate divides the unemployed by the labour force, not by the employed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-growth-gdp-and-unemployment--11-regional-unemployment-gap.webp" width="900" height="950" alt="Region North has 27% of the labour force but 55% of the unemployed. Rates are North 8.0%, whole country 4.0% and South 2.5%." loading="lazy">
+  <figcaption>A national average unemployment rate hides large regional differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## Causes and consequences of unemployment
 
 **Causes** include weak demand in a recession, firms replacing workers with machines, foreign competition that closes factories, a lack of the skills employers want, workers unable to move because of housing costs, and seasonal patterns.
@@ -173,6 +221,12 @@ Unemployed resources are also output lost, so unemployment lowers GDP below what
 ### Evaluating
 
 The seriousness of unemployment depends on its type, length and location. Short frictional unemployment can help people find better matches. Long structural unemployment in one region does lasting damage. The best answers weigh these cases and then reach a conclusion about who is hurt most.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-growth-gdp-and-unemployment--02-unemployment-cost-government.webp" width="900" height="870" alt="One unemployed person costs 7,000 units in benefits and 4,500 in lost tax, 11,500 a year. Multiplying by 1,320,000 unemployed people gives 15,180 million units, made up of 9,240 million benefits and 5,940 million lost tax." loading="lazy">
+  <figcaption>Unemployment of 4.0% costs the government 15,180 million units a year (illustrative).</figcaption>
+</figure>
+
 
 ## Common errors
 

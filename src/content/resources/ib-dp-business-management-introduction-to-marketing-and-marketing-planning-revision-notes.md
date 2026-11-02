@@ -63,6 +63,17 @@ Keep the measure (revenue or units) and the period the same on both parts of eac
 4. Compare: if business sales grew faster than the market, share rose; if slower, share fell.
 5. Comment in context. Mention percentage points when comparing two shares, and say what the result means for the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--08-share-vs-market-growth.webp" width="900" height="870" alt="Bar chart of sales growth: Lunthorpe 18.75 percent, whole market 8.0 percent, Greywick 4.2 percent, with a dashed market-growth line. Lunthorpe's share rises from 10.0 to 11.0 percent; Greywick's slips from 25.0 to 24.1 percent." loading="lazy">
+  <figcaption>A business gains share only when its sales grow faster than the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ### Worked reminder: Ilkesby Candles
 
 Market sales rose from USD 25.0 million to USD 26.5 million. Ilkesby's sales rose from USD 2.5 million to USD 2.65 million.
@@ -86,6 +97,12 @@ Ilkesby grew exactly as fast as its market, so its share did not move even thoug
   - Against: costly to win and defend, may distract from profit, complacency.
   - Judgment: depends on how much unit costs fall with volume and on whether customers favor familiar brands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--09-share-leadership-balance.webp" width="900" height="810" alt="Higher level only. A balance: gains of leading (buying power and lower unit costs, brand strength and premium pricing, stakeholder confidence) against costs and risks (promotion or price cuts shrink profit, share can hide weak profit, a big share of a shrinking market is weak). Read share with market growth." loading="lazy">
+  <figcaption>Market leadership brings gains but also costs and risks, so weigh both.</figcaption>
+</figure>
+
+
 ## 4.2 at a glance
 
 ### Role of marketing planning
@@ -94,6 +111,22 @@ Ilkesby grew exactly as fast as its market, so its share did not move even thoug
 - Sets measurable targets (for example a share target) and a budget.
 - Coordinates actions and people; lets managers compare results with the plan.
 - Limitation: relies on assumptions and forecasts, so it needs review as conditions change. SWOT and STEEPLE analysis can feed it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--01-market-vs-product-orientation.webp" width="900" height="910" alt="Two three-step flows. Market orientation: ask customers what they need, design the product to match, sell to buyers who want it. Product orientation: start with what the business can make, make it, then look for buyers. The orientation shapes every later marketing decision." loading="lazy">
+  <figcaption>Market orientation starts from customer needs; product orientation starts from what the business can make.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--02-marketing-planning-chain.webp" width="900" height="730" alt="A chain: the corporate objective must be supported by the marketing objectives (market share, brand awareness), which are reached through the marketing mix strategy (the seven Ps). Market research informs the objectives and sales forecasts (HL only) inform the plan. An illustrative bar shows market share of 12% against a 15% target." loading="lazy">
+  <figcaption>Marketing objectives must support the corporate objective and are met through the marketing mix, informed by research and forecasts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
 
 ### Method in steps: segment, target, position
 
@@ -107,6 +140,12 @@ Ilkesby grew exactly as fast as its market, so its share did not move even thoug
 
 A position map has two axes, for example price and quality. Brands close together are direct rivals. An empty area is a possible gap, but it only becomes an opportunity if enough customers want what the gap offers and the business can supply it profitably.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--09-position-map.webp" width="900" height="860" alt="Position map with price on the horizontal axis and touring suitability on the vertical axis. Cadwallow is high on both, Rival A high price and medium suitability, Rival B low on both, Rival C medium on both. The low-price, high-suitability area is empty." loading="lazy">
+  <figcaption>A position map shows crowded areas and gaps, but cannot say whether a gap is worth entering.</figcaption>
+</figure>
+
+
 ### Niche versus mass
 
 | Factor | Niche | Mass |
@@ -116,12 +155,29 @@ A position map has two axes, for example price and quality. Brands close togethe
 | Price | Often premium | Often competitive |
 | Main risk | Small customer base; larger rival may enter | Low margins; hard to stand out |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
+
 ### USP and differentiation
 
 - A USP must be valued by the target market, not just different.
 - It is stronger if rivals cannot easily copy it.
 - Ways to differentiate: features and quality, brand image, service, access or location, price position, ethical or sustainable practice.
 - Differentiation is worthwhile only if the extra revenue exceeds the extra cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--01-differentiation-routes.webp" width="900" height="928" alt="Six tiles show ways a business can differentiate itself: product features and quality, brand image and packaging, service, place and access, and price positioning (cheaper or premium), and ethical or sustainable practices. A panel says differentiation is worth it only if the extra income is greater than the extra cost." loading="lazy">
+  <figcaption>Six routes to differentiation, worthwhile only when extra income exceeds extra cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--10-usp-differentiation.webp" width="900" height="750" alt="A hub with USP in the centre and six routes: product features and quality, branding and image, service, place and access, price positioning, ethical or sustainable practices. A USP works only if buyers value it and rivals cannot easily copy it." loading="lazy">
+  <figcaption>Six routes can create a USP, but it must be valued and hard to copy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -181,6 +237,12 @@ The guide classifies command terms by assessment objective. Typical uses here:
 - Describing niche and mass markets without saying which suits this business and why.
 - In "evaluate" or "justify" answers, stopping at one side without a reasoned judgment.
 - Forgetting that HL points on market leadership need both a benefit and a limitation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--11-segmentation-bases.webp" width="900" height="890" alt="A row of customers in three colour groups shows a market split into segments. Four common bases: demographic (age, income), geographic (place), psychographic (way of life) and behavioral (buying habits). After segmentation come targeting and positioning." loading="lazy">
+  <figcaption>Markets can be segmented by who people are, where they live, how they live and how they buy.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

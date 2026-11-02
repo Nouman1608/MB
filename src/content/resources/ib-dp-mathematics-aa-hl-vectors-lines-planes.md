@@ -98,6 +98,12 @@ MN = ON − OM = ½b − ½a = ½(b − a) = ½AB
 
 MN is a scalar multiple of AB, so they are parallel, and |MN| = ½|AB|. Write every vector in terms of the given vectors, then state the conclusion in words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--01-vector-proof-midpoints.webp" width="900" height="940" alt="Triangle OAB with M and N the midpoints of OA and OB. OM = a/2 and ON = b/2, so MN = ON - OM = (b - a)/2 = AB/2: MN is parallel to AB and half as long." loading="lazy">
+  <figcaption>Write every vector in terms of a and b; a scalar multiple proves parallel lines.</figcaption>
+</figure>
+
+
 ## 3.13 The scalar product
 
 For v = (v₁, v₂, v₃) and w = (w₁, w₂, w₃):
@@ -123,6 +129,12 @@ cos θ = −5/15 = −1/3
 ```
 
 A negative scalar product means an obtuse angle. Find k so that (2, k, 1) is perpendicular to (1, 3, −4): 2 + 3k − 4 = 0, so k = 2/3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--02-scalar-product-angle.webp" width="900" height="920" alt="Vectors u (length 3) and v (length 5) meet at 109 degrees. The component of u along v is -1, so u . v = 3 x 5 x (-1/3) = -5. A positive scalar product means an acute angle, zero means perpendicular and negative means obtuse." loading="lazy">
+  <figcaption>The sign of u . v tells you whether the angle is acute, right or obtuse.</figcaption>
+</figure>
+
 
 ## 3.14 Equations of lines
 
@@ -162,6 +174,12 @@ cos θ = |2 + 3 + 0| / (√17 × √2) = 5/√34
 
 A boat has position r = (2, 5) + t(3, −4) km, t hours after noon. Its velocity is (3, −4) km h⁻¹, its speed is √(9 + 16) = 5 km h⁻¹, and at 2 pm it is at (8, −3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--03-three-forms-of-a-line.webp" width="900" height="787" alt="The line through A(1, -2, 4) and B(3, 1, 2) in 3D with position vector a and direction b = (2, 3, -2). Points for lambda = -1, 0, 1, 2 are marked. The same line is r = (1, -2, 4) + lambda(2, 3, -2), x = 1 + 2 lambda etc., and (x - 1)/2 = (y + 2)/3 = (z - 4)/(-2)." loading="lazy">
+  <figcaption>A line is a point plus any multiple of a direction, written in vector, parametric or Cartesian form.</figcaption>
+</figure>
+
+
 ## 3.15 How two lines meet
 
 In three dimensions two lines are one of four types:
@@ -192,6 +210,12 @@ z check: 3 + 2(2) = 7 and 8 + (−1) = 7   ✓
 
 The lines intersect at (3, 0, 7).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--04-how-two-lines-meet.webp" width="900" height="1010" alt="A decision chart for two lines: parallel directions with a common point give coincident lines, without one give parallel lines. Non-parallel directions: solve two components and test the third; if it holds the lines intersect (example at (3, 0, 7)), otherwise they are skew (z = 7 against z = 8)." loading="lazy">
+  <figcaption>Check directions first, then solve two components and test the third.</figcaption>
+</figure>
+
+
 ## 3.16 The vector product
 
 The vector product (also called the cross product) of v = (v₁, v₂, v₃) and w = (w₁, w₂, w₃) is
@@ -217,6 +241,12 @@ AB × AC = (1×2 − (−1)×3,  (−1)×1 − 2×2,  2×3 − 1×1) = (5, −5,
 Area = ½ × 5√3 = 5√3/2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--05-vector-product-area.webp" width="900" height="852" alt="Two vectors in the x-y plane make a parallelogram of area 5. Their vector product (0, 0, 5) is perpendicular to both, points along the right-hand screw direction, and its length equals the area; half of it is the triangle area. Reversing the order reverses the sign." loading="lazy">
+  <figcaption>The vector product is perpendicular to both vectors and its length is the parallelogram area.</figcaption>
+</figure>
+
+
 ## 3.17 Equations of planes
 
 A plane has three equivalent forms:
@@ -241,6 +271,12 @@ Check B: 3 − 1 − 1 = 1 ✓   Check C: 2 − 3 + 2 = 1 ✓
 ```
 
 A vector equation is r = (1, 0, 0) + λ(2, 1, −1) + μ(1, 3, 2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--06-equation-of-a-plane.webp" width="900" height="786" alt="The plane through A(1, 0, 0), B(3, 1, -1) and C(2, 3, 2) with a normal arrow. n = AB x AC = (5, -5, 5), so use (1, -1, 1); a . n = 1 gives x - y + z = 1, which B and C both satisfy." loading="lazy">
+  <figcaption>A normal vector and one point give r . n = a . n, and so ax + by + cz = d.</figcaption>
+</figure>
+
 
 ## 3.18 Intersections and angles with planes
 
@@ -286,6 +322,17 @@ cos θ = |1 − 2 + 3| / (√3 × √14) = 2/√42  →  θ = 72.0°
 ```
 
 The planes x + y + z = 6, 2x − y + z = 3 and x + 2y − z = 2 meet at the single point (1, 2, 3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--07-line-meets-plane.webp" width="900" height="906" alt="A side view of the line crossing the plane at t = 3/2, at (5/2, 7/2, 2). The angle phi between line and plane has sin phi = |b . n| / (|b||n|) = root 2 / 3, so phi = 28.1 degrees; the angle with the normal is 61.9 degrees." loading="lazy">
+  <figcaption>Substitute the line into the plane to find the point; use sin for the line-plane angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--08-three-planes.webp" width="900" height="950" alt="Four pictures of three planes: one point (1 solution), a common line like pages of a book (infinitely many), a triangular prism (no solution) and parallel planes (no solution). Example: x + y + z = 6, 2x - y + z = 3, x + 2y - z = 2 meet at (1, 2, 3)." loading="lazy">
+  <figcaption>Counting solutions of three equations tells you how three planes meet.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

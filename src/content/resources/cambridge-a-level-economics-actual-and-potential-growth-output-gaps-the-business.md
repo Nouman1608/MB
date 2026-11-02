@@ -53,6 +53,17 @@ The two can differ. With spare capacity, a rise in aggregate demand raises actua
 
 Actual growth of 5.2% in year 2 is above potential growth of 3%, so spare capacity is used up. Growth of 7.4% in year 3 cannot last, because output has overshot capacity. In year 4 actual output falls while potential output still rises by 3%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 9.2.2 Positive and negative output gaps
 
 An **output gap** is the difference between actual output and potential output.
@@ -68,6 +79,17 @@ A **negative output gap** means actual output is below potential. There is spare
 **Worked example 3 (a gap can narrow while both grow).** In country M, actual output rises from 640 to 672 (5.0%) and potential output rises from 700 to 724.5 (3.5%). Gap before: (640 − 700) / 700 = −8.57%. Gap after: (672 − 724.5) / 724.5 = −7.25%. The gap narrows because actual growth (5.0%) is above potential growth (3.5%). It does not close, so spare capacity remains.
 
 **Difficulty in measurement.** Potential output cannot be observed. It is estimated from trends in labour, capital and productivity, and estimates are revised, so the size of a gap is uncertain. If a supply shock damages capacity, the same output may become a positive gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--06-output-gap-country-k.webp" width="900" height="980" alt="Potential output grows 3% a year from 1,000. Actual output is 960, 1,010, 1,085 and 1,070, so the gap as a percentage of potential is -4.0%, -1.9%, +2.3% and -2.1%. Only year 3 is a positive gap." loading="lazy">
+  <figcaption>Output gap is actual minus potential, divided by potential.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--03-gap-estimate-uncertainty.webp" width="900" height="830" alt="With actual output 1,070, potential of 1,092.7 gives a gap of -2.1%, but an illustrative revised capacity of 1,050 gives +1.9%. The same output can be a negative or a positive gap depending on the estimate of potential." loading="lazy">
+  <figcaption>Potential output is estimated, so the size and even the sign of an output gap is uncertain.</figcaption>
+</figure>
+
 
 ## 9.2.3 The business (trade) cycle
 
@@ -97,6 +119,32 @@ The **business cycle** is the pattern of fluctuations of actual growth around th
 **Worked example 5.** In an invented economy, mps = 0.10, marginal rate of tax withdrawal = 0.20 and mpm = 0.20. The multiplier is 1 / (0.10 + 0.20 + 0.20) = 2.0. A fall in investment of 20 reduces income by 20 × 2.0 = 40. If income-linked taxes were absent, the multiplier would be 1 / (0.10 + 0.20) = 3.33 and income would fall by 66.7. Taxes that rise and fall with income make the multiplier smaller and the swings milder. In the downturn, tax revenue falls by 40 × 0.20 = 8. If unemployment benefit rises by 4, the budget balance worsens by 12, which supports demand without any new decision.
 
 **Limits.** Stabilisers reduce fluctuations but do not remove them or close a large gap. They are stronger with progressive taxes and generous benefits. They worsen the budget deficit in a recession, can slow a recovery by holding back disposable income, and do not change the trend rate of growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--07-cycle-phases-country-l.webp" width="900" height="950" alt="Real GDP index peaks at 106.18 after year 2, falls to a trough of 103.75 after year 4, and growth turns positive in year 5. At 105.0 output is still below the old peak, so growth can recover before the level of output does." loading="lazy">
+  <figcaption>Positive growth after a recession does not mean output is back to its previous peak.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--08-automatic-stabilisers.webp" width="900" height="900" alt="A fall in investment of 20 cuts income by 40 with income taxes (multiplier 2.0) but by 66.7 without them (multiplier 3.33). In the downturn tax revenue falls by 8 and benefits rise by 4, so the budget worsens by 12 with no new decision." loading="lazy">
+  <figcaption>Income-linked taxes and benefits make the multiplier smaller and the swings milder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--04-cycle-causes-timeline.webp" width="900" height="880" alt="A cycle line swings around a dashed trend. Numbered points show easy credit and optimism, over-ordered stocks at the peak, higher rates tightening credit, an external shock and late policy deepening the swing." loading="lazy">
+  <figcaption>Credit, stocks, external shocks and policy lags all feed the swings of the cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
 
 ## 9.2.4 Policies to promote growth and their effectiveness
 
@@ -131,6 +179,22 @@ Separate policies for **actual growth** (demand side, mainly useful when there i
 - **Uncertainty:** the multiplier and the size of the gap are estimates.
 
 A strong answer reaches a judgement: supply-side policy gives more durable growth, demand policy is quicker in a recession, and the best mix depends on the size and cause of the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--09-policy-matched-to-gap.webp" width="900" height="940" alt="With potential output 2,000 and multiplier 2.5, extra government spending of 30 raises output by 75. From 1,900 (gap -5%) it narrows the gap to -1.25%; from 2,060 (gap +3%) it pushes the gap to +6.75%, causing inflation instead of growth." loading="lazy">
+  <figcaption>The same stimulus helps with a negative gap but is inflationary with a positive gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--01-potential-growth-compounding.webp" width="900" height="910" alt="Columns show growth of 1.2% from more workers and 2.5% from higher output per worker. Stacked, they make 3.7% with a thin extra 0.03 from growth on growth, so potential output grows 3.73%. Adding the two rates gives 3.7%, close but not exact." loading="lazy">
+  <figcaption>Potential growth is (1.012 x 1.025) - 1 = 3.73%, slightly more than the sum of the two rates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--02-growth-policies-which-curve.webp" width="900" height="1030" alt="Two schematic AD/AS diagrams. Demand-side policies shift AD right along SRAS, raising actual output within months while LRAS stays put. Supply-side policies shift LRAS right, raising potential output, but take years." loading="lazy">
+  <figcaption>Demand-side policies move actual output quickly; supply-side policies raise capacity slowly.</figcaption>
+</figure>
+
 
 ## Common errors
 

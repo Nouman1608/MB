@@ -103,6 +103,17 @@ average velocity = -2 / 20 = -0.1 m/s
 
 The particle ends **2 m on the negative side of O**, having travelled **26 m**. The average speed is **1.3 m s⁻¹** and the average velocity is **−0.1 m s⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
+  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--05-calculus-turning-points.webp" width="900" height="1040" alt="Two graphs share a time axis. Displacement x = 2t³ − 15t² + 24t reaches 11 m at t = 1, minus 16 m at t = 4 and minus 5 m at t = 5. Velocity, its derivative, is zero at t = 1 and 4 and negative between. Displacement is minus 5 m but distance is 11 + 27 + 11 = 49 m." loading="lazy">
+  <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
+</figure>
+
+
 ## Graphs in kinematics (3.02b and 3.02c)
 
 For motion in a straight line, three facts do most of the work.
@@ -134,6 +145,12 @@ distance = 30 + 72 + 18 + 2 = 122 m
 The accelerations are **2.4, 0 and −4 m s⁻²**. It changes direction at **t = 14**. The displacement is **118 m** and the distance travelled is **122 m**.
 
 Sketch the graph first, then split it into triangles, rectangles and trapezia.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
+</figure>
+
 
 ## The constant acceleration formulae (3.02d)
 
@@ -201,6 +218,17 @@ distance up to t = 6 is 9 + 9 = 18 m
 
 It is 5 m from O at **t = 1 and t = 5**, returns at **t = 6**, and has travelled **18 m**. A quadratic in t often gives two answers. The particle passes the same point going out and coming back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+
 ## Two dimensions with vectors (3.02e, A Level only)
 
 For constant acceleration in a plane, apply the formulae to vectors. The specification gives these.
@@ -227,6 +255,12 @@ parallel to x-axis: -3 + 1.5t = 0, so t = 2
 ```
 
 After 4 s the velocity is **(4, 3) m s⁻¹**, the speed is **5 m s⁻¹** and the displacement is **(12, 0) m**. It moves parallel to the x-axis at **t = 2**, when its velocity is (3, 0) m s⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
 
 ## Common errors
 

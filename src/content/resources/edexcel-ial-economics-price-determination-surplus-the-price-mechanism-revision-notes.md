@@ -65,6 +65,22 @@ The price-axis intercept of demand is 476 / 8 = 59.5 cu. The lowest supply price
 
 Chain for excess supply: stock builds up, sellers cut price, quantity demanded extends, quantity supplied contracts, the gap shrinks to zero. Reverse it for excess demand. Always name the movement along each curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--12-pd-honey-excess-supply-demand.webp" width="900" height="890" alt="Honey demand Qd = 900 minus 50P and supply Qs = 50P minus 100 cross at 10 cu and 400 jars. At a price of 14 cu buyers want 200 jars and sellers offer 600, an excess supply of 400, so unsold stock builds and the price falls. At 6 cu buyers want 600 and sellers offer 200, an excess demand of 400, so queues and empty shelves let sellers raise the price. Both gaps close at 10 cu." loading="lazy">
+  <figcaption>At 14 cu the honey market has an excess supply of 400 jars and the price falls; at 6 cu it has an excess demand of 400 and the price rises; both close at 10 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--13-pd-tax-incidence-inelastic-demand.webp" width="900" height="890" alt="A second illustrative market: demand Qd = 700 minus 20P and supply Qs = 40P minus 260 cross at price 16 and 380 units. A tax of 6 per unit shifts supply up and the new equilibrium is price 20 and 300 units. Consumers pay 4 more, two thirds of the tax; producers keep 14, which is 2 less, one third. Tax revenue is 6 times 300, which is 1,800, split 1,200 borne by buyers and 600 by sellers. At equilibrium price elasticity of demand is minus 0.84 and of supply is 1.68, so the less elastic side, demand, bears more of the tax." loading="lazy">
+  <figcaption>A tax of 6 raises the price from 16 to 20, so buyers bear 4 and sellers 2, because demand (elasticity minus 0.84) is less elastic than supply (1.68).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+
 ## Shifts of demand and supply (1b)
 
 | Shift | Price | Quantity |
@@ -77,6 +93,17 @@ Chain for excess supply: stock builds up, sellers cut price, quantity demanded e
 Worked reminder: demand falls by 40 at every price, so Qd = 436 - 8P. Then 436 - 8P = 12P - 24 gives 460 = 20P, so P = 23 cu and Q = 12 x 23 - 24 = 252. The price falls by 2 cu, and quantity falls by 24.
 
 Remember the causes for each curve. Demand shifts come from income, tastes, prices of related goods, population and expectations. Supply shifts come from costs, technology, taxes and subsidies, and number of firms. A change in price itself is never a shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--01-honey-surplus-after-demand-rise.webp" width="900" height="1180" alt="Two graphs of the honey market with price in currency units and jars per week. Top: demand P = 18 - Q/50 and supply P = 2 + Q/50 meet at price 10 and 400 jars. Consumer surplus is the teal triangle above the price, 1,600 cu, and producer surplus is the gold triangle below it, 1,600 cu, total 3,200. Bottom: a health trend shifts demand right to P = 20.4 - Q/50, shown with the old demand curve dashed. Equilibrium moves to price 11.2 and 460 jars. Each surplus triangle grows to 2,116 cu, a rise of 516 each, and total surplus is 4,232. If supply fell instead, price 11 and 350 jars, both surpluses would be 1,225, down 375. Edexcel IAL 1.3.4. Illustrative numbers." loading="lazy">
+  <figcaption>Both surpluses grow when demand rises: 1,600 each becomes 2,116 each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
 
 ## Surplus (2a, 2b)
 
@@ -99,6 +126,17 @@ For a supply increase, check the numbers before you claim producers gain: they s
 
 Must-know distinction: producer surplus is not profit. It is measured against marginal cost, so fixed costs are not subtracted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--02-honey-tax-welfare-loss.webp" width="900" height="1110" alt="Honey market graph, price in cu against jars per week. Demand P = 18 - Q/50, supply P = 2 + Q/50, and supply after a 5 cu specific tax P = 7 + Q/50, drawn dashed. The tax moves the equilibrium from 10 cu and 400 jars to 12.5 cu and 275 jars. Buyers pay 12.5 and sellers keep 7.5, so each absorbs 2.5 of the tax. Consumer surplus is 756.25, producer surplus 756.25, government tax revenue is the rectangle 5 times 275 = 1,375, and the welfare loss triangle, the surplus on the 125 jars no longer traded, is 312.5. The four areas add to 3,200, the total surplus before the tax. Edexcel IAL 1.3.4. Illustrative numbers." loading="lazy">
+  <figcaption>A 5 cu tax splits 2.5 each, raises 1,375 and loses 312.5 of surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
+</figure>
+
+
 ## Price mechanism (3a, 3b)
 
 | Function | One-line explanation | Example chain |
@@ -115,6 +153,22 @@ Evaluation points for the price mechanism:
 - It rations by ability to pay, not by need.
 - Information may be poor and responses slow.
 - Prices may leave out wider costs and benefits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--10-pd-local-national-global.webp" width="900" height="990" alt="Three cards, local, national and global, each with an example and two bars for the price signal and the supply response. Local: a farmers’ market stall changes its price board in minutes, rationing shows as sell-outs and signals are easy to read. National: a rent rise in a growing city signals demand for homes, but planning delays and construction time slow the incentive effect. Global: a drought in an exporting region raises the world price and the signal travels fast, but the response takes a whole growing season and low-income buyers can be priced out. Bar lengths are schematic, not measured." loading="lazy">
+  <figcaption>Price signals work in local, national and global markets, but the supply response is quick at a market stall and slow where planning delays or a growing season intervene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
+  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
 
 ## Indirect taxes (4a, 4b)
 
@@ -145,6 +199,12 @@ Impact summary:
 
 Ad valorem taxes: the supply curve pivots, so the vertical gap widens as price rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--11-pd-ad-valorem-pivot.webp" width="900" height="870" alt="Honey supply P = 2 + Q/50. An ad valorem tax, here an invented 50 percent, multiplies the supply price by 1.5, so the supply curve pivots upward. The vertical gap is 1 at zero output, 3 at 200 jars, 7 at 600 jars and 9 at 800 jars, growing as price rises. By contrast a specific tax of 5 per jar moves the curve up in parallel, by the same amount at every quantity." loading="lazy">
+  <figcaption>A percentage tax makes the supply curve pivot upward, with the tax gap growing as the price rises, unlike a fixed tax that shifts the curve in parallel.</figcaption>
+</figure>
+
+
 ## Subsidies (4c, 4d)
 
 A subsidy shifts supply vertically downward by its value. For 5 cu on Market R, Qs becomes 12(P + 5) - 24 = 12P + 36.
@@ -156,6 +216,12 @@ Cost to government: 5 x 300 = 1,500 cu
 ```
 
 Gains split 3 : 2 in favour of consumers, matching the tax. Evaluation: the subsidy raises output and may help a good with wider benefits, but it costs the government, has an opportunity cost, and may lead to dependence. The less price-responsive the demand, the more of the gain goes to consumers; the less price-responsive the supply, the more goes to producers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--03-honey-subsidy-cost-and-gains.webp" width="900" height="1060" alt="Honey market graph, price in cu against jars per week. Demand P = 18 - Q/50, supply P = 2 + Q/50, and supply after a 4 cu subsidy P = -2 + Q/50, drawn dashed. The subsidy moves equilibrium from 10 cu and 400 jars to 8 cu and 500 jars. Consumers pay 8 and producers receive 12. The subsidy cost is the rectangle from price 8 to 12 across 500 jars, 2,000 cu. It splits into consumer gain 900 (teal), producer gain 900 (gold) and a small triangle of 200 for the extra 100 jars whose cost exceeds their value, so the net effect is minus 200. Edexcel IAL 1.3.4. Illustrative numbers." loading="lazy">
+  <figcaption>A 4 cu subsidy gives 900 to each side but costs 2,000, a net loss of 200.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -43,6 +43,12 @@ These notes condense the external influences content in the OCR A Level Business
 | Ethics | moral principles a business chooses to follow beyond the legal minimum |
 | Sustainability | using resources so present needs are met and later generations can meet theirs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--04-policy-tools.webp" width="900" height="900" alt="Three panels: monetary policy uses interest rates, fiscal policy changes tax and spending, supply-side policy raises productive capacity through training, roads and incentives." loading="lazy">
+  <figcaption>Tell the three policies apart by the tool each one uses.</figcaption>
+</figure>
+
+
 ## Political factors in a table
 
 | Idea | Effect on business |
@@ -115,6 +121,17 @@ These notes condense the external influences content in the OCR A Level Business
 
 **More affected:** digitisable products (music, books, banking) and online customers. **Less affected:** local, hands-on trades. **Rapid change:** early adopters gain an edge, but rivals copy fast, products age quickly and staff need retraining.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--04-digital-exposure.webp" width="900" height="860" alt="A scale from less to more affected places a rural joiner at the low end and digitisable products at the high end. Boxes list the lesson opportunities and threats." loading="lazy">
+  <figcaption>Exposure to the digital revolution varies; every business faces opportunities and threats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+
 ## Ethical factors
 
 **Law versus ethics.** The law is compulsory, enforced by the state and carries penalties. Ethics is chosen, based on moral judgement, and the penalty is reputational. Legal does not mean ethical.
@@ -134,6 +151,12 @@ These notes condense the external influences content in the OCR A Level Business
 | positive press | claims that do not match practice backfire |
 
 **Conflicts with other objectives:** profit, growth, cost control. **Managing them:** phase the change, adjust price, share costs along the supply chain, explain choices to customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--02-ottermead-fair-trade-margin.webp" width="900" height="870" alt="Two stacked bars for a 24 pound shirt. Fairly traded cotton adds 90 pence to a 15 pound unit cost, so the margin falls from 9 pounds (37.5%) to 8.10 pounds (33.75%)." loading="lazy">
+  <figcaption>Ethical sourcing can cut the margin when the price is held.</figcaption>
+</figure>
+
 
 ## Legal factors
 
@@ -160,6 +183,12 @@ Legislation covers employment, equality, company and partnership matters, health
 **Conflicts:** greener inputs and processes can cost more. Manage by phasing, targeting savings and clear communication.
 
 **Ignoring external factors:** risks lost sales, fines, rising costs, reputational harm and failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-solar-payback.webp" width="900" height="830" alt="Cumulative saving rises 9,000 pounds a year and crosses the 60,000 pound cost at 6.7 years, about 6 years 8 months." loading="lazy">
+  <figcaption>Payback is the time for cumulative savings to equal the cost.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -200,6 +229,17 @@ An ethical change that cuts margin from 35% to 32% is a trade-off. Argue whether
 8. 45,000 ÷ 7,500 = **6 years**.
 9. Law is compulsory with state penalties; ethics is chosen and rests on moral judgement.
 10. For example, sellers of luxuries or durables, because customers delay purchases; and heavily indebted firms, because fixed interest costs stay while sales fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--02-direct-indirect-tax.webp" width="900" height="1030" alt="An electric bike costs 1,250 pounds before a 20 percent indirect tax of 250 pounds, so the customer pays 1,500 and the shop passes the 250 to the government. A business with 400,000 pounds profit pays 25 percent corporation tax of 100,000 pounds and keeps 300,000." loading="lazy">
+  <figcaption>Indirect tax is borne by the customer through the price; direct tax is paid by the business itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-subsidy-break-even.webp" width="900" height="960" alt="A break-even chart: revenue 5 pounds a unit, total cost 96,000 fixed plus 4.20 a unit, crossing at 120,000 units. With a 30p subsidy per unit the cost line is flatter and they cross at 87,273 units." loading="lazy">
+  <figcaption>A per-unit subsidy raises contribution and lowers break-even by 32,727 units.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

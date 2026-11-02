@@ -66,6 +66,12 @@ A one-line test: if the bad event has not happened, it is planning; if it is hap
 3. Say how a named stakeholder (customer, employee, supplier, shareholder, community) is affected.
 4. State a limit or condition if the question asks you to analyse or evaluate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--06-quantock-four-factors.webp" width="900" height="1020" alt="Quantock names a crisis team (control), stops shipments (speed), phones retailers (communication) and posts batch numbers and a refund while saying the cause is under investigation (transparency): customers see an open firm. A supposed rival waits a week then denies any link: speed and transparency missing, customers see an evasive firm." loading="lazy">
+  <figcaption>Each factor named, what the firm did, and the effect on customers.</figcaption>
+</figure>
+
+
 ## Impact of contingency planning
 
 | Impact | For planning | Against planning |
@@ -94,6 +100,22 @@ Worked reminder with invented figures. Lanternhill Resort pays 30,000 over three
 - Difference: 54,000 − 39,000 = 15,000 in favour of the backup.
 
 Then add what the numbers miss: the chance is an estimate, guest safety, reputation and whether the backup will be tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--09-crisis-timeline.webp" width="900" height="1000" alt="A timeline for Vessmere Frozen Foods. In March the managers prepare a standby generator, a call list and a refrigerated transport deal (contingency planning). At 02:00 in October a storm cuts the grid. Crisis management follows: generator at 02:00, supermarkets phoned by 06:00, statement on the website by noon. A dashed arrow shows lessons feeding back into plans." loading="lazy">
+  <figcaption>Contingency planning happens before the event; crisis management happens during it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--11-plan-expected-loss.webp" width="900" height="860" alt="Two bars over five years in dollars. With no generator the expected loss is 200,000. With it the plan costs 90,000 installation plus 30,000 maintenance and leaves 25,000 expected loss: 145,000, a saving of 55,000. The 25 percent yearly chance is an estimate." loading="lazy">
+  <figcaption>On these estimates the generator saves 55,000, but the saving depends on the estimated risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--07-plan-time-risk-safety.webp" width="900" height="800" alt="Three rows (time, risks, safety) each give a gain and a catch. Time: staff know roles, faster restart; planning and rehearsal take time. Risks: fewer or smaller events; unimagined events, old plans and false confidence. Safety: evacuation, first aid and shutdown protect people; training and drills needed." loading="lazy">
+  <figcaption>Time, risks and safety each have a gain and a catch to weigh.</figcaption>
+</figure>
+
 
 ## Command terms for this section
 
@@ -128,6 +150,12 @@ Strong answers show that the four factors support one another.
 - Communication is the channel through which the other three reach stakeholders.
 
 A useful sentence pattern: "Because the business [did X], stakeholders [reacted Y], which [helped or harmed Z]."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-crisis-management-and-contingency-planning-hl-only--10-crisis-four-factors.webp" width="900" height="940" alt="Four tiles: transparency (eye) - if missing, loss of trust; communication (speech bubbles) - mixed messages; speed (stopwatch) - damage spreads; control (chain of command) - conflicting actions." loading="lazy">
+  <figcaption>Each factor, when missing, has a likely effect on stakeholders.</figcaption>
+</figure>
+
 
 ## Linking planning to the four impacts
 

@@ -113,6 +113,17 @@ CH₃COCH₂CH₃ + HCN → CH₃C(OH)(CN)CH₂CH₃               → 2-hydroxy
 
 Both mechanisms have the same shape: attack on C, electrons to O, then protonate O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+
 ## Racemic mixtures in four lines
 
 1. The C=O group is **planar** (trigonal planar carbon).
@@ -123,6 +134,12 @@ Both mechanisms have the same shape: attack on C, electrons to O, then protonate
 
 Quick rule: an aldehyde (except methanal) or an **unsymmetrical** ketone gives a chiral product. Methanal (H, H)
 and symmetrical ketones such as propanone or pentan-3-one do not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -146,6 +163,12 @@ blue. Pentanal is oxidised to pentanoic acid (as pentanoate in the alkaline reag
 - Control: fume cupboard, gloves, eye protection, careful addition of acid.
 - KCN rather than HCN: HCN is hard to handle safely, and as a weak acid it gives few CN⁻ ions; KCN gives plenty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--07-kcn-hazard.webp" width="900" height="890" alt="A beaker of KCN solution has dilute acid added by a dropper, producing HCN gas marked with a hazard diamond. The precautions shown are gloves and eye protection, a fume cupboard and adding acid slowly." loading="lazy">
+  <figcaption>Acid turns CN- into toxic, volatile HCN gas, so use protection, a fume cupboard and add acid slowly.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -160,6 +183,12 @@ blue. Pentanal is oxidised to pentanoic acid (as pentanoate in the alkaline reag
 Related pages: [alcohols](/resources/aqa-a-level-chemistry-alcohols-revision-notes/) (making aldehydes and
 ketones) and [organic analysis](/resources/aqa-a-level-chemistry-organic-analysis-revision-notes/) (test order
 and IR).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -191,6 +220,12 @@ and IR).
 10. No change: the solution stays blue (it is a ketone).
 11. HCN is toxic and volatile, so it is hard to handle; or HCN is a weak acid and supplies few CN⁻ ions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - CN⁻ arrow drawn from the N atom instead of the lone pair on C.
@@ -203,6 +238,12 @@ and IR).
 - Claiming propanone or methanal gives enantiomers.
 - Using a 1 : 1 ratio for aldehyde to silver instead of 1 : 2.
 - "Toxic" for KCN with no mention of HCN release on adding acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

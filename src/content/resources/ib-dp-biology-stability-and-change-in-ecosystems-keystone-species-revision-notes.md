@@ -43,6 +43,17 @@ These notes condense IB Diploma Programme Biology D4.2 Stability and change (D4.
 - Four requirements: energy supply; nutrient recycling; genetic diversity; climatic variables within tolerance levels.
 - Memory hook: energy flows through, matter cycles round, genes give options, climate sets the limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--01-stability-requirements.webp" width="900" height="1080" alt="Four cards show the requirements: energy supply (light in, heat out), nutrient recycling by decomposers, genetic diversity and climate within tolerance. A graph shows a population varying around a steady mean." loading="lazy">
+  <figcaption>A stable ecosystem varies around a steady pattern and needs energy, recycled nutrients, genetic diversity and tolerable climate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--03-mesocosm.webp" width="900" height="1010" alt="Two sealed jars hold the same pond community. The lit jar persists; the dark jar collapses because producers lose their energy supply. Matter cannot enter or leave but light passes through." loading="lazy">
+  <figcaption>Removing light from a sealed mesocosm shows that an energy supply is needed for stability.</figcaption>
+</figure>
+
+
 ## D4.2.3: Amazon tipping point
 
 Chain of events:
@@ -53,6 +64,12 @@ Chain of events:
 - Uncertainty remains about the minimum forest area that keeps these processes going.
 - Percentage change = (new − original) ÷ original × 100.
 - Reminder: forest area falls from 250 to 200 million hectares, so (200 − 250) ÷ 250 × 100 = **−20%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--02-amazon-tipping-point.webp" width="900" height="1110" alt="Forest clearing reduces transpiration and rainfall, so more trees die: a positive feedback loop. Forest area falls from 120 000 to 93 000 km2, a change of -22.5%." loading="lazy">
+  <figcaption>Positive feedback drives the Amazon tipping point; percentage change is measured against the original area.</figcaption>
+</figure>
+
 
 ## D4.2.4: mesocosms
 
@@ -73,6 +90,12 @@ Limitation: far simpler than nature.
 - Add to answers: name the species, say what it controls, describe the knock-on changes.
 - Distinction: **keystone** is about impact; **dominant** is about numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--04-keystone-species.webp" width="900" height="1080" alt="Removing a predatory fish raises snails from 40 to 62 per m2 (+55%) and cuts plant species from 14 to 6 (-57.1%)." loading="lazy">
+  <figcaption>A keystone species has a disproportionate effect on the community relative to its abundance.</figcaption>
+</figure>
+
+
 ## D4.2.6: assessing sustainability
 
 Method in steps:
@@ -84,6 +107,12 @@ Method in steps:
 Reminder: replacement 3000 t, catch 1500 t, so the catch is 1500 ÷ 3000 × 100 = 50% of replacement, which is sustainable if the estimate is sound.
 
 Examples to know: one terrestrial plant species and one marine fish species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--05-sustainable-harvesting.webp" width="900" height="1030" alt="CPUE falls from 0.50 to 0.345 t per boat-day (-30.9%), suggesting a falling fish stock. For a harvested tree, 4 are cut per hectare per year but 2.5 mature, a loss of 1.5." loading="lazy">
+  <figcaption>Harvesting is sustainable only when the harvest rate is below the replacement rate.</figcaption>
+</figure>
+
 
 ## D4.2.7: agricultural sustainability
 
@@ -102,6 +131,12 @@ Cause and effect chain: leaching of nitrogen and phosphate, so algal bloom, so l
 - Decomposers use the oxygen, not the algae directly.
 - Reminder: dissolved oxygen 8.0 falls to 3.5 mg dm⁻³ in a sealed bottle. BOD = 8.0 − 3.5 = **4.5 mg dm⁻³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--06-eutrophication-bod.webp" width="900" height="1050" alt="Fertiliser nutrients cause an algal bloom that blocks light; plants die and bacteria respire aerobically, lowering oxygen. A sealed sample falls from 9.0 to 2.4 mg per dm3 over five days, a BOD of 6.6." loading="lazy">
+  <figcaption>Decomposer respiration, not the algae, uses up the oxygen; BOD measures this demand.</figcaption>
+</figure>
+
+
 ## D4.2.9: biomagnification
 
 Needed properties: persistent, not excreted, and stored in tissues (DDT is fat-soluble; mercury compounds bind to proteins).
@@ -110,6 +145,12 @@ Needed properties: persistent, not excreted, and stored in tissues (DDT is fat-s
 - Calculate the factor as concentration at higher level ÷ concentration at lower level. Reminder: 12 ÷ 0.3 = **40 times**.
 
 Distinction: bioaccumulation is build-up in one organism; biomagnification is the increase along the food chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--07-biomagnification.webp" width="900" height="1030" alt="Pollutant concentration in tissue rises 0.04, 0.5, 2.0, 25 mg per kg along a food chain (log scale), a 625-fold increase from plankton to bird." loading="lazy">
+  <figcaption>Persistent toxins accumulate so top consumers receive the highest dose.</figcaption>
+</figure>
+
 
 ## D4.2.10: plastics
 
@@ -137,6 +178,17 @@ Example: Hinewai Reserve, Banks Peninsula, New Zealand, where degraded gorse-cov
 - **Arrested succession**: human activity holds the community in an earlier stage, for example livestock grazing or wetland drainage.
 - Primary succession sequence for a bare rock surface: lichens and mosses, then soil begins to form, then grasses and herbs, then shrubs, then trees. Each stage changes the environment (more soil, more shade, more nutrients) so that the next stage can establish.
 - Cyclical succession is not a failure to reach a climax. The cycle itself is the stable pattern, so cite a named example and the phases in order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--08-primary-succession.webp" width="900" height="1080" alt="Bare rock is colonised by lichens and mosses, then grasses and shrubs, then trees, while soil deepens. Plant species rise from 4 to 17 (+325%) and soil organic matter from 0.5% to 14% (x28)." loading="lazy">
+  <figcaption>Primary succession builds soil and increases plant diversity over time (HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species--09-cyclical-arrested-succession.webp" width="900" height="1150" alt="Heather moorland cycles through young, building, mature and degenerate phases, with gaps restarting the cycle. Grazing livestock and draining a wetland arrest succession." loading="lazy">
+  <figcaption>Succession can be cyclical, and human activity can hold it in a non-climax state (HL).</figcaption>
+</figure>
+
 
 ## Answering data and explain questions
 

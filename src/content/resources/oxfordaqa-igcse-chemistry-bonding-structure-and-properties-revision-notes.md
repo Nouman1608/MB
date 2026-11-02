@@ -71,6 +71,12 @@ Answer both for a structure and you can explain any property in this section.
 3. Say there are many of them, in all directions.
 4. Link to energy: overcoming them takes a lot of energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+
 ## 3.2.2 b: ionic compounds conduct when melted or dissolved
 
 | State | Ions free to move? | Conducts? |
@@ -80,6 +86,12 @@ Answer both for a structure and you can explain any property in this section.
 | Dissolved in water | Yes | Yes |
 
 The charge carriers are **ions**, never electrons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--03-ionic-conduction.webp" width="900" height="1115" alt="Three circuits with battery, bulb and electrodes. In the solid, the ions are fixed in place and the bulb is off. When molten or dissolved in water, positive ions move to the negative electrode and negative ions to the positive electrode, so the bulb lights." loading="lazy">
+  <figcaption>Ions carry current only when free to move: molten or dissolved, not solid.</figcaption>
+</figure>
+
 
 ## 3.2.2 c, d and e: simple molecules
 
@@ -101,6 +113,17 @@ boiling cannot be breaking covalent bonds.
 
 Take care with negative numbers: −196 °C is lower than −7 °C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-bonding-structure-and-properties--05-bond-vs-boiling-energy.webp" width="900" height="860" alt="Two HCl molecules show a strong H-Cl bond and a weak force between molecules. A short bar for 16 kJ to boil 1 mol sits beside a bar 27 times longer for 432 kJ to break the H-Cl bonds." loading="lazy">
+  <figcaption>Breaking the bonds needs 27 times the energy of boiling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+
 ## 3.2.2 f: giant covalent structures
 
 - Every atom is linked to other atoms by **strong covalent bonds**, throughout the structure.
@@ -119,11 +142,28 @@ Take care with negative numbers: −196 °C is lower than −7 °C.
 | Small, separate groups of bonded atoms with space between them | Simple molecular |
 | Atoms joined by bonds that continue to the edge in every direction | Giant covalent |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-bonding-structure-and-properties--06-classify-from-diagram.webp" width="900" height="1105" alt="Four diagrams: alternating + and - ions are a giant ionic lattice; positive ions in a sea of electrons are a metal; small separate groups of atoms are simple molecular; atoms joined by bonds running off every edge are giant covalent." loading="lazy">
+  <figcaption>Ask what the particles are and whether the bonds stop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+
 ## 3.2.2 g: metals conduct heat and electricity
 
 - Metals contain **delocalised electrons** that can move through the whole structure.
 - Moving electrons carry **charge** (electrical conduction) and **energy** (thermal conduction).
 - Conduction depends on the **ability of electrons to move** through the metal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## Model answer: comparing two structures
 

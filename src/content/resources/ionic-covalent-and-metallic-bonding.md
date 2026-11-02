@@ -91,6 +91,17 @@ ions are held in fixed positions.
 Notice that both explanations refer to the lattice. That is why the giant lattice outcome
 and the explanation outcome sit together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--03-ionic-conduction.webp" width="900" height="1115" alt="Three circuits with battery, bulb and electrodes. In the solid, the ions are fixed in place and the bulb is off. When molten or dissolved in water, positive ions move to the negative electrode and negative ions to the positive electrode, so the bulb lights." loading="lazy">
+  <figcaption>Ions carry current only when free to move: molten or dissolved, not solid.</figcaption>
+</figure>
+
+
 ### Dot-and-cross diagrams for ionic bonding
 
 A dot-and-cross diagram shows only the **outer shell** electrons, using dots for the
@@ -126,6 +137,12 @@ In both cases the metal ion has lost its whole outer shell, so no dots are left 
 it (if a shell is drawn for the ion, it is the full shell underneath, now the outer one),
 and the non-metal ion has 8 outer electrons: its own electrons as crosses plus the
 transferred electrons as dots. Count the symbols inside each bracket before moving on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
 
 ## 2.5 Simple molecules and covalent bonds
 
@@ -179,6 +196,17 @@ pairs from the double bond).
 The single most common error in this topic is confusing these two. Melting a simple
 molecular substance breaks intermolecular forces, not covalent bonds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+
 ## 2.6 Giant covalent structures
 
 **CORE (0620) · REQUIRED (5070)** — describe the giant covalent structures of graphite and
@@ -201,6 +229,17 @@ graphite conducts electricity — unusually for a non-metal.
 Both are forms of carbon. The difference in properties comes entirely from the difference
 in structure and bonding, which is exactly what examiners want you to say.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
+
 ## 2.7 Metallic bonding
 
 **EXTENDED / SUPPLEMENT (0620) — the whole of subtopic 2.7. The Core column for 2.7 is
@@ -218,6 +257,12 @@ metallic lattice and a "sea" of delocalised electrons.
 This explains why metals **conduct electricity** — the delocalised electrons are free to
 move — and why they are **malleable and ductile**: layers of ions can slide over one
 another without breaking the bonding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

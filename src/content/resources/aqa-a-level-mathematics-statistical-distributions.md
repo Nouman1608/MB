@@ -97,6 +97,17 @@ In practice you use your calculator's **binomial probability** function for P(X 
 | at least 5 | X ≥ 5 | 1 − P(X ≤ 4) |
 | between 3 and 6 inclusive | 3 ≤ X ≤ 6 | P(X ≤ 6) − P(X ≤ 2) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--01-poisson-events.webp" width="900" height="900" alt="Bar chart of Po(3.2) for r = 0 to 10. The bar at r = 2 is gold with probability 0.209 and the bars from r = 3 upward are dark teal with total 0.620. A dashed line at 3.2 marks the mean, which equals the variance." loading="lazy">
+  <figcaption>The Po(3.2) distribution, with P(X = 2) = 0.209 and P(X ≥ 3) = 0.620 marked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--02-poisson-approx-binomial.webp" width="900" height="890" alt="Paired bars for r = 0 to 9 compare the exact binomial B(200, 0.015) with Po(3); they are almost identical. P(X ≤ 2) is 0.421 exactly and 0.423 by the Poisson. The rule is n &gt; 50 and np &lt; 5." loading="lazy">
+  <figcaption>B(200, 0.015) and Po(3) side by side, showing why Po(np) works for large n and small p.</figcaption>
+</figure>
+
+
 ### Worked example 2 -- binomial probabilities
 
 15% of the light bulbs from a supplier fail within a year. A random sample of 20 bulbs is taken.
@@ -204,6 +215,32 @@ P(X ≤ 28) ≈ P(Y < 28.5) = 0.212 (3 s.f.)
 The two agree closely. Your calculator gives the exact binomial value, so use the binomial unless
 the question asks about the Normal link.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--03-poisson-normal-correction.webp" width="900" height="950" alt="Bars for Po(25) with the curve N(25, 25) drawn over them. Bars from r = 31 are gold and a dashed line at 30.5 shows the continuity-corrected boundary. z = 1.1 gives 1 − Φ(1.1) = 0.136." loading="lazy">
+  <figcaption>Why P(X &gt; 30) becomes P(Y &gt; 30.5) when a Poisson is approximated by a normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--04-linear-combinations-variance.webp" width="900" height="940" alt="Two normal curves share mean 4040 g. The tall narrow one is the total of four separate bags (variance 4σ² = 256) and the low wide one is four times one bag (variance 16σ² = 1024)." loading="lazy">
+  <figcaption>Adding four independent bags gives variance 4σ², but scaling one bag by 4 gives 16σ².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--05-pdf-area-mean-median.webp" width="900" height="950" alt="Graph of f(x) = (4x − x²)/9 on 0 to 3. The total area is 1 and a dashed line at the median 1.79 splits it into two halves. The mean, 7/4, sits just left of the median. Variance is 0.538." loading="lazy">
+  <figcaption>A pdf has area 1; the median splits the area in half and the mean is the balance point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--06-sample-mean-distribution.webp" width="900" height="890" alt="Two normal curves centred on 30: a wide one for a single value (sd 6) and a narrow one for the mean of 50 values (sd 0.85). The area of the narrow curve above 31 is shaded and equals 0.119." loading="lazy">
+  <figcaption>The mean of 50 values varies far less than one value, so P(X̄ &gt; 31) is only 0.119.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--09-normal-68-95-997.webp" width="900" height="950" alt="Bell curve for N(250, 4²), symmetric about 250 g. Shaded bands show 68% within 1 sd (246 to 254), 95% within 2 sd and 99.7% within 3 sd. The points of inflection at 246 and 254 are marked, and a second row gives z from −3 to 3." loading="lazy">
+  <figcaption>The Normal curve is symmetrical, has inflection points at μ ± σ and holds about 68%, 95% and 99.7% of values within 1, 2 and 3 sd.</figcaption>
+</figure>
+
+
 ## N3 -- Choosing a model
 
 Pick the model from the **type of variable** and the **conditions**, and give a reason in context.
@@ -262,6 +299,17 @@ working shows what you entered.
 - Using a Normal model for a variable that cannot be negative when μ is close to 0.
 - Calculating a mean and variance for a general discrete table. This is excluded from 7357.
 - Rounding a probability to 2 decimal places mid-question and carrying the error forward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--07-confidence-interval-95.webp" width="900" height="910" alt="A normal curve of the sample mean centred on 56.5 with standard error 0.675. The central 95% of area, from 55.2 to 57.8, is shaded teal with 2.5% in each tail, and a bracket marks the interval (55.2, 57.8)." loading="lazy">
+  <figcaption>The 95% interval is the sample mean plus or minus 1.96 standard errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--08-type-i-type-ii-poisson.webp" width="900" height="990" alt="Two bar charts share a dashed boundary between 8 and 9. Under H0 (Po(4.5)) the bars from 9 upward have probability 0.0403, the Type I error. If the true mean is 7 (Po(7)) the bars up to 8 have probability 0.729, the Type II error." loading="lazy">
+  <figcaption>Type I error is landing in the rejection region when H0 is true; Type II is landing outside it when H0 is false.</figcaption>
+</figure>
+
 
 ## Next steps
 

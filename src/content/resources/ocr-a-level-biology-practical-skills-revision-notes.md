@@ -34,6 +34,12 @@ Condensed for the final weeks. For the full explanation, use the
 
 A **control experiment** is different from a control variable: it is a parallel run with the independent variable absent, showing that the effect observed is caused by the factor being tested and nothing else. Boiled enzyme in place of active enzyme is the standard example.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--01-variables-control-experiment.webp" width="900" height="900" alt="Three boxes name the independent variable (what you change, e.g. temperature), the dependent variable (what you measure, e.g. time to end point) and control variables (pH, enzyme and substrate concentration). Below, a test tube with active enzyme and substrate sits beside a control experiment tube with boiled enzyme and substrate, so the factor under test is absent." loading="lazy">
+  <figcaption>A control experiment removes the factor under test; control variables are the conditions you keep the same.</figcaption>
+</figure>
+
+
 ## The five words that are constantly confused
 
 | Term | Meaning |
@@ -50,6 +56,27 @@ A set of results can be **precise but not accurate** — a wrongly calibrated ba
 
 **Increasing repeats improves reliability and lets you spot anomalies, and it improves the accuracy of the mean by reducing the effect of random error** (repeating and averaging cancels out random scatter around the true value). **It does nothing for a systematic error** — a consistent bias caused by, for example, a wrongly calibrated instrument — which needs recalibration, not more repeats.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-skills-revision-notes--05-repeatable-reproducible-resolution.webp" width="900" height="1180" alt="Repeatable: same person, method and apparatus give 4.2 s twice. Reproducible: a different person or apparatus also gives 4.2 s. Resolution: the smallest change an instrument detects; a 0.1 mm ruler is finer than a 1 mm ruler." loading="lazy">
+  <figcaption>Repeatable keeps everything the same; reproducible changes operator, apparatus or method; resolution belongs to the instrument.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--10-accuracy-precision-targets.webp" width="900" height="900" alt="Four targets with five readings each. Tight and central: accurate and precise. Tight but off to one side: precise, not accurate (systematic error). Scattered around the centre: accurate on average, not precise (random error). Scattered and off-centre: neither." loading="lazy">
+  <figcaption>Accuracy is closeness to the true value; precision is how close repeats are to each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--02-replication-mean-spread.webp" width="900" height="870" alt="Four repeat times of 42, 45, 44 and 43 seconds on a number line, range 3 s and mean 43.5 s. A single reading could give 0.024 or 0.022 per second, while the mean gives 0.023 per second." loading="lazy">
+  <figcaption>Repeats and the spread show how far one reading could mislead and how reliable the mean is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--05-anomaly-five-repeats.webp" width="900" height="970" alt="Five repeat CO2 volumes on a number line, with 8.1 circled as anomalous. The mean of the other four is 12.7 cm3, range 0.5. Including 8.1 gives 11.8, 7.2 percent too low." loading="lazy">
+  <figcaption>Identify the anomaly, exclude it and say why, then take the mean of the rest.</figcaption>
+</figure>
+
+
 ## Uncertainty
 
 ```
@@ -61,6 +88,17 @@ For a measurement requiring **two** readings — a burette, a thermometer measur
 
 **To reduce percentage uncertainty, measure a larger quantity.** The absolute uncertainty stays the same, so it becomes a smaller proportion. That is why you time ten swings rather than one, or weigh a larger mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-skills-revision-notes--02-percentage-uncertainty-larger-quantity.webp" width="900" height="880" alt="The same ruler (1 mm divisions) measures a 10 mm and a 100 mm object. Two readings of plus or minus 0.5 mm give plus or minus 1 mm, which is 10 % of 10 mm but only 1 % of 100 mm." loading="lazy">
+  <figcaption>A fixed absolute uncertainty is a smaller percentage of a larger quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--06-combining-uncertainty.webp" width="900" height="1000" alt="A gas syringe marked every 1 cm3 reads 2.0 and 10.0 cm3, each plus or minus 0.5, giving 8.0 plus or minus 1.0 cm3 or 12.5 percent. Time adds 0.83 percent, so the rate has 13.3 percent uncertainty: 0.133 plus or minus 0.018 cm3 per s. A 0.1 cm3 syringe gives 1.25 percent." loading="lazy">
+  <figcaption>Uncertainties in a difference add, then percentage uncertainties add for a quotient.</figcaption>
+</figure>
+
+
 ## Errors
 
 - **Random error** — scatter around the true value, from unpredictable variation. Reduced by **repeating and averaging**.
@@ -68,6 +106,17 @@ For a measurement requiring **two** readings — a burette, a thermometer measur
 - **Zero error** — a specific systematic error where the instrument does not read zero when it should.
 
 If a graph line should pass through the origin but has an intercept, that indicates a **systematic** error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-skills-revision-notes--01-random-vs-systematic-repeats.webp" width="900" height="1160" alt="Two number lines show six readings of a 50.0 g mass. Random scatter averages to exactly 50.0 g. Readings all shifted high average 52.4 g, still 2.4 g too high, so a systematic error needs recalibration, not more repeats." loading="lazy">
+  <figcaption>Repeating and averaging removes random scatter but not a systematic offset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-skills-revision-notes--04-zero-error-intercept.webp" width="900" height="980" alt="Mass of water against volume should pass through the origin. The measured line crosses the mass axis at about 4 g because an empty balance reads 4.0 g: a zero error, which is systematic." loading="lazy">
+  <figcaption>An intercept on a line that should start at the origin points to a systematic zero error.</figcaption>
+</figure>
+
 
 ## Graphs
 
@@ -78,6 +127,12 @@ If a graph line should pass through the origin but has an intercept, that indica
 - Draw a **curve** if the data curve — forcing a straight line loses marks.
 
 **Error bars** show the range or uncertainty of the data. Where error bars for two conditions **overlap**, the difference between them may not be significant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-skills-revision-notes--03-error-bars-overlap.webp" width="900" height="860" alt="Two bar charts of treatments A and B. When the error bars overlap (A 10 plus or minus 3, B 13 plus or minus 3) the difference may not be significant; with a clear gap (A 10, B 17, bars plus or minus 1.5) it is more likely real." loading="lazy">
+  <figcaption>Overlapping error bars suggest the difference may not be significant.</figcaption>
+</figure>
+
 
 ## Improving an experiment — what actually scores
 
@@ -110,6 +165,17 @@ Biological drawings should use **clear, continuous lines** with **no shading**, 
 **Colorimetry** measures absorbance or transmission; a **calibration curve** made from solutions of known concentration allows an unknown concentration to be read off.
 
 **Rate** is usually calculated as **1/time**, where time is measured to a fixed end point, or from the **initial gradient of a tangent** to a curve when the reaction slows over the course of the experiment — the initial rate is used because substrate concentration is highest, and least changed, at the very start.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--02-serial-dilution.webp" width="900" height="860" alt="Four test tubes in a row: stock, then three tubes each made by moving 1 cm3 of the previous tube into 9 cm3 of solvent. The tubes are 1, one tenth, one hundredth and one thousandth of the stock concentration and are drawn progressively paler." loading="lazy">
+  <figcaption>Each tenfold step moves 1 cm3 into 9 cm3 of solvent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--03-colorimeter-calibration.webp" width="900" height="980" alt="Graph of absorbance against concentration (arbitrary units) with six known points on a straight best-fit line. A dashed line from an unknown absorbance of 0.50 meets the line and drops to the concentration axis at about 0.62." loading="lazy">
+  <figcaption>Read an unknown concentration from its absorbance using the calibration line (illustrative data).</figcaption>
+</figure>
+
 
 ## Choosing a statistical test
 

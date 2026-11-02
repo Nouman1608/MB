@@ -46,6 +46,17 @@ These notes are aligned to the IB *Mathematics* guide for the Middle Years Progr
 | Systems | Sets of parts that connect to and depend on one another |
 | Validity | Sound, logical mathematics giving a true and accurate conclusion or a sensible interpretation of results |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--09-representation-y-2x-minus-1.webp" width="900" height="960" alt="Four panels: words, equation, a table (x = 0 to 3 gives y = -1, 1, 3, 5) and a straight-line graph with gradient 2 crossing the y-axis at -1." loading="lazy">
+  <figcaption>The same relationship can be shown in words, an equation, a table or a graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+
 ## Branch links at a glance
 
 | Branch | Related concepts the guide lists for it |
@@ -129,6 +140,12 @@ Memory hooks:
 | Quantity and number | A quantity is an amount, usually with units |
 | Validity and correctness | Valid means the reasoning is sound and the result makes sense in context |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--11-validity-negative-width.webp" width="900" height="960" alt="Graph of x squared + 2x - 35 with roots at -7 and 5; the negative-x region is shaded as invalid, and the valid answer is a 7 m by 5 m grid of 35 squares." loading="lazy">
+  <figcaption>A solution of the equation must also make sense in the situation.</figcaption>
+</figure>
+
+
 ## Command terms that go with the concepts
 
 The guide's command terms tell you what a question wants. In your own words:
@@ -173,6 +190,12 @@ Link to the criteria as well. Criterion B (investigating patterns) leans on patt
 9. 8 + 0 + 2 + 1 = 11.
 10. C = 5 + 2 × 8 = 21. It may ignore discounts for bulk buying, extra charges or limits on n (any sensible point).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
+
 ## Where credit is usually lost
 
 - Giving an everyday meaning of a concept when the question asks for its meaning in mathematics.
@@ -184,6 +207,12 @@ Link to the criteria as well. Criterion B (investigating patterns) leans on patt
 - Accepting a negative length or an impossible count because it solves the equation.
 - Describing a model as perfect, without saying what it ignores.
 - Claiming a link between two variables is causal because they are correlated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--10-tank-quantity-litres.webp" width="900" height="1000" alt="A 2.5 m by 1.2 m by 0.8 m tank with V = 2.4 m3 and the conversion x 1000 to 2400 litres." loading="lazy">
+  <figcaption>A quantity needs its unit, and converting units is part of the mathematics.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -37,6 +37,22 @@ The sections below follow the specification's own headings for 3.1.3: customer n
 - **Market mapping** plots brands on a chart using two features customers care about, such as price and quality. It shows where rivals cluster and where there may be a gap, though a gap may mean nobody wants that combination.
 - **Influences on how research is conducted:** risk (a costly launch justifies more research), cost (budget limits sample size), time (a fast-moving market may rule out slow methods) and the need for reliability (a high-stakes decision needs results that would repeat).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--03-mkt-confidence-interval.webp" width="900" height="890" alt="A number line shows a survey result of 40% with a 95% confidence interval of 35% to 45%. A larger sample gives a narrower interval (illustrative). A marker at 44% shows a project that pays off only near the top of the interval." loading="lazy">
+  <figcaption>The true market figure probably lies in the interval; a decision that pays only at its top is risky.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
+
 ## Markets and marketing data
 
 **Types of market.** Business to business (**B2B**) buyers are few, buy large quantities, want specification and reliability, and often deal through account managers. Business to consumer (**B2C**) has many buyers, with branding and promotion more prominent. Consumer to consumer (**C2C**) is trade between individuals, usually through an online platform. **Goods** can be stored and examined; **services** are intangible, so people, process and the environment matter more.
@@ -71,6 +87,32 @@ Tarnhollow grew faster than its market, so share rose one percentage point: it i
 
 **Correlation.** Positive: both rise together. Negative: one rises as the other falls. Strong: points close to a line. Weak: widely scattered. Correlation shows association, not cause: a third factor such as weather may drive both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--01-mkt-growth-and-share.webp" width="900" height="990" alt="Two bars show the cold-brew market at 120m pounds in 2025 and 138m in 2026, with Tarnhollow as the gold part: 18m then 22.08m. Market growth is 15.0%, sales growth 22.7% and market share rises from 15.0% to 16.0%." loading="lazy">
+  <figcaption>Tarnhollow grew faster than its market, so its share rose one percentage point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--05-mkt-correlation.webp" width="900" height="1280" alt="Four scatter graphs show positive and negative correlation, strong and weak, each with a line of best fit. A panel shows weather driving both ice cream and sun cream sales, so correlation is not cause." loading="lazy">
+  <figcaption>Strong correlation means dots close to a line; correlation shows association, not cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--01-mkt-index-numbers.webp" width="900" height="900" alt="Bars show a base year at 100, a later year at 115 and a period at 97. 57,500 divided by 50,000 times 100 gives 115, a 15% rise; an index of 97 is a 3% fall." loading="lazy">
+  <figcaption>Index numbers set the base period at 100 so changes read directly as percentages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--02-mkt-volume-value.webp" width="900" height="840" alt="Each rectangle has price on the width and units on the height, so its area is revenue. 10,000 units at 5.00 pounds is 50,000; 11,000 units at 4.50 pounds is 49,500, a fall of 1%." loading="lazy">
+  <figcaption>Units rose 10% and price fell 10%, yet value fell 1%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--03-mkt-return-on-spend.webp" width="900" height="830" alt="Two bars at the same scale: 24,000 pounds of spend split in quarters and 6,000 pounds of profit filling one quarter. The return is 6,000 / 24,000 x 100 = 25%." loading="lazy">
+  <figcaption>A 24,000 pound campaign that earned 6,000 pounds profit returned 25%.</figcaption>
+</figure>
+
+
 ## Demand and elasticity
 
 **Influences on demand** include price, incomes, tastes, substitutes and complements, advertising and the number of buyers. The specification gives these formulas.
@@ -82,11 +124,28 @@ Tarnhollow grew faster than its market, so share rose one percentage point: it i
 
 **YED.** Positive means a normal good: if incomes rise 4% and quantity rises 6%, YED = +1.5 and demand grows faster than income. Negative means an inferior good: incomes up 5% and quantity down 2% gives −0.4, so demand falls as people can afford alternatives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--02-mkt-elasticity-revenue.webp" width="900" height="1140" alt="Revenue drawn as price times quantity. A 10% price cut with 15% more sales (PED -1.5) raises revenue from 200,000 to 207,000 pounds; with PED -0.5 an 8% price rise cuts quantity 4% and revenue rises 3.7%." loading="lazy">
+  <figcaption>Elastic demand: a price cut raises revenue; inelastic demand: a price rise does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--04-mkt-yed-normal-inferior.webp" width="900" height="840" alt="Bars from a zero line show income and quantity changes. Normal good: +4% income and +6% quantity give +1.5. Inferior good: +5% income and -2% quantity give -0.4." loading="lazy">
+  <figcaption>A positive YED marks a normal good and a negative YED an inferior good.</figcaption>
+</figure>
+
+
 ## Target market
 
 **Segmentation** divides a market into groups with similar needs. The specification names four bases: **demographic** (age, gender, income, family), **geographic** (region, urban or rural, climate), **psychographic** (lifestyle, values, attitudes) and **behavioural** (usage rate, loyalty, occasion of purchase).
 
 **Choosing and entering a target market** is influenced by segment size and growth, competition, the firm's resources and brand, the marketing objectives, and entry cost. A **niche** market is small and specialised: less competition and scope for higher prices, but limited sales and vulnerability if the segment shrinks. A **mass** market offers bigger volumes but more rivals and less tailored products. The mix must then be **adapted** to the target market: a premium segment suggests higher quality, price and service together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--05-mkt-segment-bases.webp" width="900" height="1040" alt="Four cards show demographic, geographic, psychographic and behavioural segmentation with the lesson examples. Psychographic and behavioural are shown with a thought bubble and a shopping basket." loading="lazy">
+  <figcaption>The specification names four bases for segmenting a market.</figcaption>
+</figure>
+
 
 ## Objectives and planning
 
@@ -145,6 +204,12 @@ Digital technology, including **artificial intelligence (AI)**, supports **socia
 **Measures of success** should include search performance, click-through rates, time spent on a site, conversion rates, number of users or subscribers and advertising revenue. In a digital example, 5,000 clicks from 200,000 advert views gives a click-through rate of 2.5%, and 400 purchases from those clicks gives a conversion rate of 8% (standard forms).
 
 **Customer relationship management (CRM)** supports customer acquisition, retention, lead generation and pipeline management (tracking prospects through stages to a sale). **Data analytics** supports segmentation, campaign performance tracking, personalisation, predictions and dynamic pricing. Digital tools can improve competitiveness (lower cost per customer, faster response) but cost, poor data and privacy concerns limit them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--04-mkt-digital-funnel.webp" width="900" height="830" alt="A funnel narrows from 200,000 advert views to 5,000 clicks (2.5% click-through) to 400 purchases (8% conversion). It is not to scale." loading="lazy">
+  <figcaption>Click-through rate is clicks over views; conversion rate is purchases over clicks.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -63,6 +63,17 @@ Drawing rules: sharp pencil; single clear lines; no shading; correct proportions
 
 Measuring: ruler for length; squared paper for area; balance for mass; stopwatch for time; thermometer or probe for temperature; read a meniscus at eye level; gas syringe or inverted measuring cylinder for gas; indicator, paper or probe for pH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--01-slide-method.webp" width="900" height="1010" alt="Four panels show a drop on a slide, epidermis laid on the drop with forceps, a cover slip lowered at an angle supported by a needle, and the shortest objective lens used first with the large then small focus wheel." loading="lazy">
+  <figcaption>Make a temporary slide by lowering the cover slip slowly, then focus from the shortest objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--06-drawing-rules.webp" width="900" height="870" alt="A good drawing of an onion epidermis cell has a single clear line, no shading, ruled label lines that end on the cell wall, vacuole and nucleus without crossing, a title with the magnification and a scale bar. The poor drawing is shaded, its label lines cross and it has no title or scale." loading="lazy">
+  <figcaption>Do and do not for a labelled scientific drawing.</figcaption>
+</figure>
+
+
 ## PAG 2: key facts
 
 Safe heating: yellow safety flame when lighting and idle, blue flame to heat; water bath or electric heater for gentle heating; eye protection; tubes in a holder, pointing away; hair tied back.
@@ -77,6 +88,12 @@ Safe heating: yellow safety flame when lighting and idle, blue flame to heat; wa
 - These tests are qualitative. Benedict's colour gives only a rough guide to amount.
 - Continuous sampling: take samples from one mixture at set intervals and test each, for example drops of iodine on a spotting tile. The end point is the first sample that no longer turns blue-black.
 - Rate from an end point = 1 ÷ time. A time of 50 s gives 1 ÷ 50 = 0.02 s⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--07-safe-heating.webp" width="900" height="905" alt="Two Bunsen burners: air hole closed gives a yellow safety flame, air hole open gives a blue heating flame. Below, a boiling tube held in a holder in a beaker of hot water on a heatproof mat, a water bath. Eye protection, tied-back hair and tubes pointed away from people." loading="lazy">
+  <figcaption>Safety flame versus heating flame, and heating in a water bath.</figcaption>
+</figure>
+
 
 ## PAG 3: key facts
 
@@ -110,6 +127,17 @@ Capture-recapture assumptions: marks stay and do no harm, marked animals mix wit
 
 Abiotic factors: light intensity, temperature, moisture level and soil pH, each measured at the sampling point. Biotic factors: predators, food, competition. A matching pattern shows correlation only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--04-random-quadrats-scaling.webp" width="900" height="940" alt="Nine quadrats in a 450 square metre meadow hold 6, 2, 9, 4, 0, 7, 3, 5 and 8 buttercups. Total 44, mean 4.9 per quadrat, 19.6 per square metre, estimate about 8800." loading="lazy">
+  <figcaption>From counts in nine quadrats to an estimate for the whole meadow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--08-transect-belt.webp" width="900" height="700" alt="Plan view from a path to woodland with a tape line and six quadrats at regular intervals, plant dots in each quadrat, and a smaller sun under each to show a falling light reading. The idea is that organisms and abiotic readings are recorded at each point along the gradient." loading="lazy">
+  <figcaption>A transect samples a gradient with quadrats at regular intervals.</figcaption>
+</figure>
+
+
 ## PAG 4: key facts
 
 | Method | What you measure | Example |
@@ -132,6 +160,12 @@ Method in steps for a rate from a table of results:
 
 Worked reminder: 9 cm³ in the first 30 s is 9 ÷ 30 = 0.30 cm³/s. A bubble that moves 25 mm in 5 minutes in a capillary of radius 0.4 mm: volume = π × 0.4² × 25 = 12.6 mm³, so rate = 2.5 mm³ per minute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--07-potometer-uptake.webp" width="900" height="890" alt="A cut shoot on a water-filled tube with a capillary of radius 0.5 mm. The bubble moves 42 mm in 6 minutes: volume 33 mm3, rate 5.5 mm3 per minute." loading="lazy">
+  <figcaption>Converting bubble movement in a capillary into a volume rate.</figcaption>
+</figure>
+
+
 ## Working scientifically skills 2a to 2d
 
 | Skill | What you do |
@@ -142,6 +176,12 @@ Worked reminder: 9 cm³ in the first 30 s is 9 ÷ 30 = 0.30 cm³/s. A bubble tha
 | 2d | Communicate the reason for the investigation, the method, the findings and the conclusion |
 
 Graph checklist: independent variable on the x-axis; labelled axes with units; even scales that use over half the grid; points plotted exactly; line of best fit through the trend, not joined dot to dot unless the data call for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--10-accuracy-precision-targets.webp" width="900" height="900" alt="Four targets with five readings each. Tight and central: accurate and precise. Tight but off to one side: precise, not accurate (systematic error). Scattered around the centre: accurate on average, not precise (random error). Scattered and off-centre: neither." loading="lazy">
+  <figcaption>Accuracy is closeness to the true value; precision is how close repeats are to each other.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -177,6 +217,12 @@ Graph checklist: independent variable on the x-axis; labelled axes with units; e
 9. Any two: gas volume per time, water uptake, time for a colour change.
 10. **Lipid**; a cloudy white emulsion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--05-capture-recapture-beetles.webp" width="900" height="910" alt="40 beetles are marked and released; a second sample of 35 contains 7 marked. Population = 40 x 35 / 7 = 200." loading="lazy">
+  <figcaption>The capture-recapture estimate worked with the lesson numbers.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not converting mm to µm before calculating, or giving the wrong unit.
@@ -188,6 +234,12 @@ Graph checklist: independent variable on the x-axis; labelled axes with units; e
 - Calling a correlation a proof.
 - Not saying which variables were controlled and how.
 - Leaving out units in the heading of a table column.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--03-continuous-sampling-end-point.webp" width="900" height="900" alt="A tube of amylase and starch is sampled every 30 s onto iodine in a spotting tile. Wells are blue-black while starch remains and orange-brown when it has gone. An end point of 80 s gives a rate of 0.0125 per second." loading="lazy">
+  <figcaption>Starch end point from a spotting tile, and rate = 1 divided by time.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

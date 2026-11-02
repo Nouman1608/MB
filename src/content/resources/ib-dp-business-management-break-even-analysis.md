@@ -69,6 +69,17 @@ Profit = 15,600 − 12,000 = **3,600**.
 
 The studio sells more than it needs to pay its bills, so it makes a profit. How much more? The margin of safety answers that, below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-contribution-waterfall.webp" width="900" height="1140" alt="A mug sells for 40: 16 variable and 24 contribution. At 650 mugs revenue 26,000 less variable 10,400 is contribution 15,600, less fixed 12,000 is profit 3,600." loading="lazy">
+  <figcaption>Total contribution pays the fixed costs; what is left is profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+
 ## Break-even quantity (point)
 
 The break-even quantity is the output at which total revenue equals total costs, so profit is zero. At lower output the business makes a loss. At higher output it makes a profit.
@@ -82,6 +93,12 @@ Break-even quantity = fixed costs / contribution per unit
 For Kilbrook Pottery: 12,000 / 24 = **500 mugs**.
 
 The break-even point is often given in revenue terms too: 500 × 40 = 20,000. If the sum is not a whole number, round up, because you cannot sell part of a unit and still break even.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## Profit or loss at any output
 
@@ -136,6 +153,17 @@ On the chart you can read each aspect:
 
 Label both axes and every line, and mark the break-even point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--10-kilbrook-break-even-chart.webp" width="900" height="1110" alt="Fixed costs flat at 12,000; total cost from 12,000 rising 16 per mug; revenue rising 40 per mug. They cross at 500 mugs and 20,000 dollars. Loss lies left and profit right. At 650 mugs margin of safety is 150 and profit 3,600." loading="lazy">
+  <figcaption>Break-even, loss, profit and margin of safety read from one chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+
 ## Margin of safety
 
 Margin of safety is the amount by which actual (or planned) output is above the break-even output. It tells you the fall in sales the business can absorb and still avoid a loss.
@@ -159,6 +187,12 @@ Target profit output = (fixed costs + target profit) / contribution per unit
 If Kilbrook Pottery wants 6,000 profit: (12,000 + 6,000) / 24 = **750 mugs**. This is under the 800-mug capacity, so it is possible.
 
 **Target profit**, in the way the guide lists it, is the profit made at a chosen output. It uses the profit formula above. At 800 mugs the target profit is 7,200, as shown earlier. The two ideas are inverses. One asks "what output gives this profit?" and the other asks "what profit does this output give?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--12-target-output-and-price.webp" width="900" height="1130" alt="Profit line (24 per mug less 12,000) crosses zero at 500 and reaches a 6,000 goal at 750 mugs. For 600 mugs, revenue needed is 12,000 + 9,600 + 6,000 = 27,600, so price 46." loading="lazy">
+  <figcaption>Target profit output and target price from the contribution formula.</figcaption>
+</figure>
+
 
 ## Target price
 
@@ -193,6 +227,17 @@ Graphical method:
 
 Reverse changes move the lines the other way. A price rise may also cut demand, and the table shows only the arithmetic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--14-break-even-change-cases.webp" width="900" height="1030" alt="Four bars along 0 to 800 mugs: base break-even 500, safety 150, profit 3,600; price 44: 429, 221, 6,200; variable cost 20: 600, 50, 1,000; fixed costs 15,000: 625, 25, 600." loading="lazy">
+  <figcaption>Each change moves break-even and the margin of safety at 650 mugs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ## Limitations of break-even as a decision-making tool
 
 The guide lists limitations without naming them, so these are the common ones. Pick those that fit the case.
@@ -207,6 +252,17 @@ The guide lists limitations without naming them, so these are the common ones. P
 * **Does not show demand.** The tool does not say whether customers will buy the break-even quantity at that price.
 
 For an AO3 answer, do not just list. Take one or two limitations and tie them to the case, then say whether the tool is still useful. For example, it helps a start-up see the sales it needs but cannot show whether those sales are realistic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--13-break-even-step-fixed-costs.webp" width="900" height="1030" alt="The model total cost line is straight. An illustrative 4,000 step above 700 mugs reduces profit at 800 mugs from 7,200 to 3,200 while break-even stays at 500." loading="lazy">
+  <figcaption>If fixed costs step up, the straight-line break-even model overstates profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-break-even-other-limitations.webp" width="900" height="1250" alt="Four rows: one product (shared fixed costs hard to split), forecast data (price 40 vs 38 moves break-even from 500 to 546), static (chart drawn once, costs, rivals and demand move later) and non-financial factors (quality, reputation, welfare, ethics are not on the chart)." loading="lazy">
+  <figcaption>Four more reasons break-even analysis can mislead.</figcaption>
+</figure>
+
 
 ## Worked example: a short decision
 

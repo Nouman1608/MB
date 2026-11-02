@@ -89,6 +89,12 @@ Variation is the differences between individuals. **Intraspecific variation** is
 - **Random fertilisation** of gametes combines alleles in new ways.
 - In sexual reproduction, two parents give offspring a mixture of alleles. Asexual reproduction gives clones, which differ only through mutation and the environment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
+
 ### Environmental causes
 
 Environment affects the expression of the genotype. Examples are mineral supply and light on plant growth, diet on animal body mass, and soil pH on the flower colour of hydrangeas. Most characteristics are affected by both genes and environment. Identical twins share the same genotype, so differences between them are environmental.
@@ -102,6 +108,12 @@ Mean of A = 235 ÷ 10 = 23.5 mm. Mean of B = 290 ÷ 10 = 29.0 mm.
 Standard deviation, s = √[Σ(x − mean)² ÷ (n − 1)]. For site A, Σ(x − mean)² = 22.5, so s = √(22.5 ÷ 9) = √2.5 = 1.58 mm. For site B the same method gives s = 2.31 mm.
 
 The means differ by 5.5 mm. The standard deviations show a larger spread at site B. The ranges (21 to 26 and 26 to 33) barely overlap, but a difference in means alone cannot say whether the cause is genetic or environmental. That needs a controlled experiment, such as growing offspring of both groups in the same conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
 
 ## Adaptations (4.2.2(g))
 
@@ -135,11 +147,33 @@ If the same spray is used each generation, the percentage resistant rises to 62.
 
 Say "the proportion of the population with the allele increased" rather than "the insects adapted". Individuals do not change their genotype to suit the environment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## Evolution and human populations (4.2.2(i))
 
 ### Pesticide resistance in insects
 
 Resistant insects survive spraying, reproduce and pass on the allele. Over several generations most of the population is resistant. The consequences are lower crop yields, higher costs, and in disease vectors such as mosquitoes, poorer control of diseases such as malaria. Ways to slow resistance include rotating pesticides, using different types of pest control together, and leaving some areas unsprayed so that non-resistant insects survive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
+</figure>
+
 
 ### Drug resistance in microorganisms
 
@@ -167,6 +201,12 @@ Reducing resistance depends on human actions:
 - Saying variation is only genetic. Most characteristics are affected by both genes and environment.
 - Using "survival of the fittest" without mentioning reproduction and inheritance.
 - Claiming similar features prove close relationship. Unrelated groups may converge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

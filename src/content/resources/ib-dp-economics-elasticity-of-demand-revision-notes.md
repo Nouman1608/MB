@@ -65,6 +65,17 @@ Raw PED is negative on a downward-sloping demand curve. Decide whether you quote
 - The midpoint, where PED is unitary, gives maximum revenue.
 - Example for Q = 100 - 5P: PED size is 2.33 between prices 14 and 16 and 0.25 between prices 4 and 6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-demand--04-ib-el-ped-straight-line.webp" width="900" height="1240" alt="A straight demand line Q = 100 - 5P split at its midpoint (P 10, Q 50) into an elastic upper half and an inelastic lower half, with the PED of two price ranges marked, above an arch-shaped total revenue curve peaking at 500 at the midpoint." loading="lazy">
+  <figcaption>On a straight demand line PED falls from elastic to inelastic, and revenue peaks at the midpoint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-demand--05-ib-el-constant-ped.webp" width="900" height="1170" alt="Three graphs: a vertical line (perfectly inelastic, PED 0), a horizontal line (perfectly elastic, PED infinity) and a curved rectangular hyperbola (unitary, PED 1) on which two shaded rectangles of price times quantity both have area 200." loading="lazy">
+  <figcaption>The three constant-elasticity cases the guide asks you to draw.</figcaption>
+</figure>
+
+
 ## Determinants of PED
 
 | Determinant | More elastic when | More inelastic when |
@@ -75,6 +86,12 @@ Raw PED is negative on a downward-sloping demand curve. Decide whether you quote
 | Time | Long period | Short period |
 
 Always apply the determinant to the good in the question. A named factor with no link to the case earns little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-demand--03-ped-determinants.webp" width="900" height="810" alt="Four sliders from inelastic to elastic: substitutes (lifesaving medicine to branded snack), necessity (basic food to luxury), share of income (box of matches to a car), time (short run to long run)." loading="lazy">
+  <figcaption>Few substitutes, necessities, small budget share and a short time all push demand towards inelastic.</figcaption>
+</figure>
+
 
 ## PED and total revenue
 
@@ -87,6 +104,12 @@ Always apply the determinant to the good in the question. A named factor with no
 **Worked reminder.** A fictional cinema cuts its ticket price from 12 to 10 (-16.67%) and weekly attendance rises from 600 to 780 (+30%). PED = 30 / -16.67 = -1.8, elastic. Revenue rises from 7,200 to 7,800.
 
 Diagram: draw the demand curve, then two shaded rectangles from the origin to each price-quantity point. Label the rectangle gained and the rectangle lost, and say which is larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## Importance of PED (AO3)
 
@@ -128,6 +151,22 @@ Manufactures face branded rivals and can be differentiated, so buyers switch mor
 
 - For firms: forecast sales through the economic cycle and plan the product range as incomes rise.
 - Sectoral structure: low-YED agriculture grows more slowly than income and high-YED services faster, so the share of services tends to rise as incomes rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-demand--06-ib-el-engel-curve.webp" width="900" height="980" alt="Three Engel curves with income up and quantity along: an elastic curve flatter than the unit line, an inelastic curve steeper than it, and an inferior-good curve that bends back toward the income axis." loading="lazy">
+  <figcaption>Engel curves: the shape shows whether quantity rises faster than income, slower, or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-demand--04-yed-wexmoor.webp" width="900" height="800" alt="With income up 10%, restaurant meals rise 30% (YED +3.0), rice 2% (YED +0.2) and instant noodles fall 10% (YED -1.0)." loading="lazy">
+  <figcaption>Bars longer than the income bar are income elastic; a bar to the left is an inferior good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
 
 ## Diagrams to be able to draw
 
@@ -201,3 +240,9 @@ Use these to turn description into a judgement.
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020, International Baccalaureate Organization. Sub-topic 2.5 Elasticity of demand, within Unit 2: Microeconomics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+

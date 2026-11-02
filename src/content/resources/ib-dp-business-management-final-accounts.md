@@ -88,6 +88,22 @@ Fenrow Ceramics makes dinner sets. For its latest year, all figures are in thous
 
 Unit check: all lines share the same unit. Write "thousand dollars" or state it in the heading. Dropping the unit costs the clarity that the command term **calculate** asks for ("obtain a numerical answer showing the relevant stages in the working").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--01-fenrow-profit-and-loss.webp" width="900" height="874" alt="Waterfall in thousands of dollars: sales revenue 840, minus cost of sales 360 gives gross profit 480, minus expenses 360 gives operating profit 120, minus interest 12 gives profit before tax 108, minus tax 27 gives profit after tax 81, minus dividends 30 leaves retained profit 51." loading="lazy">
+  <figcaption>Each line of the profit and loss account takes something off the one above, ending in retained profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--02-fenrow-balance-sheet.webp" width="900" height="1022" alt="Two columns in thousands of dollars. Assets 650: equipment and premises 420, trademark 60, inventory 72, receivables 58, cash 40. Liabilities 241 and equity 409: current liabilities 91, bank loan 150, share capital 250, retained profit 159 (108 plus 51 from the profit and loss account)." loading="lazy">
+  <figcaption>Net assets of 409 equal equity of 409, and the 51 retained profit is the link from the profit and loss account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## The balance sheet
 
 The **balance sheet** shows what a business owns, owes and is worth at a single point in time. It rests on the accounting equation:
@@ -124,6 +140,12 @@ Net assets equal equity, so the balance sheet balances. The link between the two
 
 How to read it: working capital of 79 is positive, so the current assets exceed the debts due soon. The loan sits in non-current liabilities, so repayment pressure is spread over years. A bank would compare these with the profit figures before lending more. The guide deals with ratios in 3.5, so only the plain figures are needed here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
+
 ## Intangible assets
 
 An **intangible asset** is an asset with no physical form that is expected to bring benefit over more than one year. The guide lists "different types of intangible assets" without naming them, so learn these standard ones:
@@ -135,6 +157,12 @@ An **intangible asset** is an asset with no physical form that is expected to br
 - **Goodwill**: the extra amount a buyer pays for a business above the value of its identifiable net assets, reflecting its reputation and customer base. For example, if a buyer pays 540 for a business whose identifiable net assets are worth 360, goodwill is 180.
 
 Intangible assets appear in non-current assets. They are harder to value than physical items because there is nothing to inspect, and their worth can fall suddenly if a brand is damaged or a patent expires. A business may also hold valuable assets that never reach its balance sheet, so the balance sheet can understate its real worth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--01-intangibles-goodwill.webp" width="900" height="806" alt="Four tiles name patent, trademark or brand, copyright and licence or franchise. A bar shows a buyer paying 540 for a business with identifiable net assets of 360. The other 180 is goodwill." loading="lazy">
+  <figcaption>Goodwill is the price paid minus identifiable net assets: 540 - 360 = 180.</figcaption>
+</figure>
+
 
 ## Depreciation (HL only)
 
@@ -176,6 +204,22 @@ This is an AO3 point, so give a reason tied to the asset.
 - **Units of production** suits assets worn out by use, such as a machine whose output varies or a vehicle measured by distance. It matches the charge to the wear, but you must be able to estimate lifetime output, and charges swing between years.
 
 A strong answer uses the case: if output is stable, the two methods give similar charges and simplicity favours straight line. If output swings with demand, units of production matches cost to benefit better.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--02-kiln-depreciation.webp" width="900" height="926" alt="Bar chart for a kiln costing 96,000 dollars. Straight line charges 12,000 in each year. Units of production charges 18,000 in year 1 and 11,000 in year 2. Net book values are 84,000 and 78,000 after year 1, then 72,000 and 67,000." loading="lazy">
+  <figcaption>Same kiln, two methods: the charge differs when output swings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--04-depreciation.webp" width="900" height="1124" alt="Asset costing $12,000, residual $2,000, 5 years. Straight line charges $2,000 each year; units of production charges $1,000, $2,000, $3,000, $2,400 and $1,600 for 5k, 10k, 15k, 12k and 8k units. Both total $10,000." loading="lazy">
+  <figcaption>Straight line spreads depreciation evenly; units of production follows how much the asset is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
 
 ## Common errors
 

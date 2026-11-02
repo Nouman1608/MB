@@ -60,6 +60,17 @@ Course links: [MYP Individuals and Societies hub](/boards/ib/ib-myp/myp-individu
 
 Memory aid: each leakage pairs with the injection on its row (saving–investment through banks; taxes–government spending; imports–exports).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--01-circular-flow-leakages.webp" width="900" height="910" alt="Households at the top and firms at the bottom, with wages, rent, interest and profit flowing up the left and spending flowing down the right. Gold arrows carry the three leakages (saving to banks, taxes to government, imports to overseas) out of the flow; teal arrows carry the three injections (investment, government spending, exports) back in to firms. If injections exceed leakages the flow of income grows." loading="lazy">
+  <figcaption>Leakages take money out of the circular flow and injections add it back in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--06-myp-agents-conflicts.webp" width="900" height="830" alt="Four boxes. Households buy, work and save, and want satisfaction. Firms produce, employ and invest, and want profit. Banks take deposits and lend, and make their profit from the gap between interest charged and paid. Government collects taxes, provides services and makes laws, and wants citizens' well-being. Households save money with banks, banks lend to firms. Conflicts of interest are shown by double arrows: households and firms disagree over wages and prices, and government wants tax revenue that households and firms would rather keep." loading="lazy">
+  <figcaption>Four agents, what each wants, and where their interests clash.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Measure | Formula | Unit |
@@ -76,6 +87,12 @@ Memory aid: each leakage pairs with the injection on its row (saving–investmen
 | Dimension index | (actual − minimum) ÷ (maximum − minimum) | 0 to 1 |
 
 **HDI goalposts (UNDP):** life expectancy 20–85 years; expected schooling 0–18 years; mean schooling 0–15 years; GNI per capita (PPP) 100–75,000, using natural logarithms. Education index = average of the two schooling indices. Groups: very high 0.800+, high 0.700–0.799, medium 0.550–0.699, low below 0.550.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--03-nominal-real-per-person-growth.webp" width="900" height="900" alt="Three bars for fictional Aldmere: nominal GDP growth 8.3 percent, real GDP growth 4.2 percent after dividing by the price index of 104, and real GDP per person growth 2.6 percent after allowing for population rising from 32.0 to 32.5 million. About half of the nominal rise (40 of 80 billion crowns) was only higher prices." loading="lazy">
+  <figcaption>Removing price rises and then population growth shrinks 8.3% nominal growth to 2.6% growth per person.</figcaption>
+</figure>
+
 
 ## Definitions to learn word for word
 
@@ -126,6 +143,22 @@ Small reminder: CPI 140 → 147 is inflation of 7 ÷ 140 × 100 = 5%.
 | Seasonal | Seasonal demand | A ski instructor in summer |
 | Structural | Decline of an industry; skills mismatch | Shipyard workers after a yard closes |
 | Cyclical | Low spending in a recession | Car-factory workers laid off as sales fall |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--05-unemployment-rate-labour-force.webp" width="900" height="810" alt="One bar for fictional Aldmere’s 21.0 million people of working age: 13.8 million employed, 1.2 million unemployed and 6.0 million economically inactive. The labour force is employed plus unemployed, 15.0 million, so the unemployment rate is 1.2 divided by 15.0, which is 8.0 percent. Dividing by 21.0 million would wrongly give 5.7 percent." loading="lazy">
+  <figcaption>The unemployment rate divides the unemployed by the labour force, not by everyone of working age.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--07-myp-unemployment-types.webp" width="900" height="930" alt="Four panels. Frictional: a short gap between one job and the next, for example a graduate seeking a first job. Seasonal: demand changes with the seasons, drawn as monthly bars high in summer and low in winter, for example a beach lifeguard in winter. Structural: industries decline and skills no longer match jobs, drawn as falling bars of mining jobs, for example miners after coal mines close. Cyclical: low spending in a recession, drawn as a wave of spending with a trough, for example factory workers laid off when sales fall. The shapes are illustrative." loading="lazy">
+  <figcaption>The four types of unemployment, each with a picture and the lesson’s example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--08-myp-percentage-points.webp" width="900" height="770" alt="Two bars show an unemployment rate of 8.0 percent before and 6.0 percent after. The gap between the bars is 2 percentage points (8.0 minus 6.0). The same gap is one quarter of the original 8.0 bar, so the rate has fallen by 25 percent (2 divided by 8 times 100). Percentage points and percent are different ideas." loading="lazy">
+  <figcaption>A 2 percentage point fall in an 8.0% rate is a 25% fall in the rate.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -190,6 +223,18 @@ Small reminder: CPI 140 → 147 is inflation of 7 ÷ 140 × 100 = 5%.
 - Describing a trend with no years, no figures or no units.
 - Claiming one variable caused another because they move together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--02-gdp-expenditure-aldmere.webp" width="900" height="980" alt="Waterfall chart for fictional Aldmere in billions of crowns: consumer spending 620, plus investment 150, plus government spending 210 reaches 980, then net exports of 280 minus 300 = minus 20 take it down to GDP of 960. Dividing 960 billion by a population of 32 million gives GDP per capita of 30,000 crowns." loading="lazy">
+  <figcaption>GDP adds C, I and G and then adds net exports, which are negative when imports exceed exports.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "economic agents and their interests and role in the economy: consumers, producers, governments, banks" and "measurements and trends" among the topics explored in the individuals and societies on-screen examinations. The full MYP individuals and societies guide is available to schools through the IB.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+

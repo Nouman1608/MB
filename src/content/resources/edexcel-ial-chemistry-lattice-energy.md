@@ -96,6 +96,22 @@ Fluorine steps: the formula needs 2 mol of F atoms and 2 mol of F⁻ ions, so 2(
 
 ΔfH = 2337 + (−498) + (−2957) = **−1118 kJ mol⁻¹**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--03-polarisation-covalent-character.webp" width="900" height="1150" alt="Left: Cs+ and Cl- as spheres; experiment (-668) is close to the ionic model (-652). Right: small Ag+ pulls the Cl- cloud towards it, giving shared electron density; experiment (-905) is clearly more exothermic than the model (-833). The gaps are 2.5 and 8.6 percent." loading="lazy">
+  <figcaption>A larger experimental-versus-model gap shows more covalent character, caused by a cation polarising the anion (AQA, OxfordAQA, Edexcel).</figcaption>
+</figure>
+
+
 ## 12.14 and 12.15 Experimental and theoretical values
 
 You can arrive at a lattice energy in two independent ways.
@@ -138,6 +154,12 @@ CsI(s) + aq → Cs⁺(aq) + I⁻(aq)
 Cs⁺(g) + aq → Cs⁺(aq)
 
 Hydration always releases energy. Water is polar: cations attract the partially negative oxygen end of water molecules, while anions attract the partially positive hydrogen ends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
 
 ## 12.17 Finding ΔsolH from a cycle
 

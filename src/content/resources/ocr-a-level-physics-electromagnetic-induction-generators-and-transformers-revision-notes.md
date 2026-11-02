@@ -55,6 +55,12 @@ Worked reminder: a coil of 150 turns and area 2.0 × 10⁻³ m² has its normal 
 
 Key points: Φ is largest when the field is perpendicular to the surface (θ = 0) and zero when the field is parallel to it (θ = 90°). Flux changes sign if the coil is turned over.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
+  <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
+
 ## 6.3.3(c) Faraday and Lenz
 
 Flux linkage can change because the field changes, because the area changes, or because the angle changes. All three induce an e.m.f.
@@ -69,6 +75,12 @@ Lenz's law and energy: pushing a magnet into a coil needs a force because the in
 
 An open circuit has an induced e.m.f. but no current, so there is no opposing force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+
 ## 6.3.3(d)(i) Induced e.m.f.
 
 E = −Δ(NΦ)/Δt
@@ -79,6 +91,12 @@ E = −Δ(NΦ)/Δt
 - Turning a coil through 180° reverses the flux, so the change is 2NΦ, not NΦ.
 
 Worked reminder: a flux linkage falls uniformly from 0.072 Wb turns to 0.012 Wb turns in 0.30 s. |E| = (0.072 − 0.012)/0.30 = 0.20 V.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--05-lenz-law-magnet-coil.webp" width="900" height="1110" alt="Three rows show a bar magnet with its north pole facing a coil and a centre-zero meter. Moving in: the near end of the coil becomes a north pole and repels the magnet. Held still: no deflection. Moving out: the near end becomes a south pole and attracts the magnet, and the meter deflection reverses." loading="lazy">
+  <figcaption>The induced pole always opposes the magnet movement, so the meter deflects one way going in and the other way coming out.</figcaption>
+</figure>
+
 
 ## 6.3.3(d)(ii) Search coil investigations
 
@@ -136,6 +154,12 @@ The core is laminated to reduce eddy currents and the energy transferred as heat
 Worked reminder: an ideal transformer has Np = 500 and Ns = 25. The primary p.d. is 120 V and the secondary current is 4.0 A. Vs = 120 × 25/500 = 6.0 V. Ip = 4.0 × 25/500 = 0.20 A. Check: 120 × 0.20 = 24 W and 6.0 × 4.0 = 24 W.
 
 Efficiency = output power/input power × 100%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
 
 ## 6.3.3(f)(ii) Transformer investigations
 

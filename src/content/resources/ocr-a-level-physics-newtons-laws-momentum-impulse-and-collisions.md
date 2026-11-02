@@ -47,6 +47,12 @@ A third-law pair has four features. The forces are the same type (both gravitati
 
 For a book on a table, the Earth's pull on the book pairs with the book's pull on the Earth. The table's push on the book pairs with the book's push on the table. The weight and the table's push are equal and opposite, yet they are not a pair, because they share one body and differ in type.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+
 ## 3.5.1(b) Linear momentum
 
 Linear momentum is mass multiplied by velocity:
@@ -64,6 +70,12 @@ Change = −1.368 − 1.824 = −3.192, so the magnitude is **3.2 kg m s⁻¹** 
 
 The velocity change is 56 m s⁻¹, not 8, because the direction reverses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--05-momentum-change.webp" width="900" height="1090" alt="A ball hits a wall at 32 m s-1 and rebounds at 24 m s-1. Taking towards the wall as positive, the initial momentum is +1.824 and the final is -1.368 kg m s-1, so the change is -3.192. The velocity change is 56 m s-1, not 8. Over 4.5 ms the average force is 709 N away from the wall." loading="lazy">
+  <figcaption>Because momentum is a vector, a rebound changes it by the sum of the two sizes, and F = Δp/Δt gives the force.</figcaption>
+</figure>
+
+
 ## 3.5.1(c) Force as rate of change of momentum
 
 The net force equals the rate of change of momentum:
@@ -80,6 +92,12 @@ F = Δp/Δt = 3.192 ÷ 0.0045 = 709 N, so **7.1 × 10² N** (2 s.f.), directed a
 
 Momentum lost per second = 0.45 × 14 = 6.3 kg m s⁻¹ per second, so the wall exerts **6.3 N** on the water. By the third law, the water exerts **6.3 N** on the wall. The water is a stream, not one body of fixed mass, so F = Δp/Δt is the natural form to use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ## 3.5.1(d) Impulse
 
 Rearranging the second law gives FΔt = Δp. The quantity FΔt is the **impulse** of the force. Its unit is N s, equal to kg m s⁻¹. Impulse is a vector in the direction of the force, and the impulse of the net force equals the change in momentum.
@@ -87,6 +105,12 @@ Rearranging the second law gives FΔt = Δp. The quantity FΔt is the **impulse*
 If Δp is fixed, a longer time Δt means a smaller average force.
 
 Air bags, seat belts and crumple zones do exactly this. A person stopping from a given speed has a fixed change of momentum, and a longer stopping time gives a smaller average force on the body. The benefit is lower injury risk. A risk is an air bag deploying forcefully close to a small passenger. An evaluation should name both a benefit and a risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
 
 ## 3.5.1(e) Impulse as the area under a force-time graph
 
@@ -115,6 +139,12 @@ This is an estimate, because straight lines approximate the curve. Narrower stri
 The principle of conservation of momentum: for a system of interacting bodies, the total momentum in a given direction before an interaction equals the total momentum in that direction after it, provided no resultant external force acts on the system.
 
 It follows from the third law: the two bodies exert equal and opposite forces for the same time, so they receive equal and opposite impulses. One gains the momentum the other loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
+  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
+</figure>
+
 
 ## 3.5.2(b) Collisions in one dimension
 
@@ -161,6 +191,12 @@ v_y = −0.2753 ÷ 0.24 = −1.147 m s⁻¹ (downwards)
 Speed = √(1.695² + 1.147²) = **2.0 m s⁻¹**, at tan⁻¹(1.147 ÷ 1.695) = **34° below the x-axis**.
 KE before = ½ × 0.16 × 5.0² = 2.0 J. KE after = ½ × 0.16 × 3.0² + ½ × 0.24 × 2.047² = 0.72 + 0.503 = 1.22 J.
 Kinetic energy has fallen, so the collision is **inelastic**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--08-collision-2d.webp" width="900" height="1110" alt="A 0.16 kg puck at 5.0 m s-1 hits a stationary 0.24 kg puck. The first leaves at 3.0 m s-1 at 35 degrees; the second leaves at 2.0 m s-1 at 34 degrees on the other side. A to-scale momentum triangle closes on the original 0.80 kg m s-1. Kinetic energy falls from 2.0 J to 1.22 J, so it is inelastic." loading="lazy">
+  <figcaption>Momentum is conserved on each axis, so the two final momenta add as vectors to the initial momentum.</figcaption>
+</figure>
+
 
 ## Common errors
 

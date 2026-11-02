@@ -52,6 +52,22 @@ Reactivity series (part): **K, Na, Ca, Mg, Al, (C), Zn, Fe, Sn, Pb, (H), Cu, Ag,
 
 > **Method: percentage of metal in an oxide.** (1) Find Mr. (2) Divide the total Ar of the metal atoms by Mr. (3) Multiply by 100. Then the maximum mass of metal = mass of oxide × fraction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--03-copper-percentage-yield.webp" width="900" height="830" alt="Bars drawn to one scale: 4.00 g CuO holds at most 3.19 g copper (63.5 / 79.5 of the mass). 2.72 g was recovered, so percentage yield is 2.72 / 3.195 x 100 = 85.1%." loading="lazy">
+  <figcaption>Yield compares the copper recovered with the most that could form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+
 ## C6.1b: electrolysis extraction
 
 - **Why:** metal is above carbon, so carbon cannot remove the oxygen.
@@ -62,6 +78,12 @@ Reactivity series (part): **K, Na, Ca, Mg, Al, (C), Zn, Fe, Sn, Pb, (H), Cu, Ag,
   - CuSO₄(aq): copper at the cathode (pink coating), oxygen at the anode (relights a glowing splint).
 - Graph skill: mass deposited against time is a straight line; the gradient is the rate in g/min.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--02-cathode-mass-gradient.webp" width="900" height="940" alt="Graph of cathode mass gained against time at 0, 4, 8, 12 and 16 minutes (0, 0.10, 0.19, 0.30, 0.40 g) with a best-fit line through the origin. Gradient is 0.40 divided by 16, 0.025 g/min, the deposition rate." loading="lazy">
+  <figcaption>The gradient of the mass-time line is the rate copper is deposited.</figcaption>
+</figure>
+
+
 ## C6.1c: biological methods (Higher Tier only)
 
 | | Bioleaching | Phytoextraction |
@@ -71,6 +93,27 @@ Reactivity series (part): **K, Na, Ca, Mg, Al, (C), Zn, Fe, Sn, Pb, (H), Cu, Ag,
 | Then | scrap iron displacement or electrolysis | dissolve ash, then displacement or electrolysis |
 | Good | low energy, no big mine | low energy, cleans land, little visible damage |
 | Bad | slow; toxic leachate risk | slow; needs land; burning releases CO₂ |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--04-haber-temperature.webp" width="900" height="950" alt="Sketch graph: yield of ammonia falls as temperature rises while rate rises. 450 degrees is a compromise between them. A sketch graph of temperature from 200 to 600 degrees Celsius." loading="lazy">
+  <figcaption>A moderate temperature balances yield against rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--05-haber-contact-pressure.webp" width="900" height="950" alt="Haber: 4 molecules become 2, so about 200 atm helps. Contact: 3 become 2 but equilibrium already lies far right, so about 1 atm is used. Two panels." loading="lazy">
+  <figcaption>Pressure suits the Haber process but adds little to the Contact process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--08-bio-extraction.webp" width="900" height="870" alt="Bioleaching: bacteria in low-grade ore give a copper-ion leachate, then copper by scrap iron or electrolysis; very slow. Phytoextraction: plants take up metal ions, are burned to ash rich in metal compounds; burning releases CO2. Bioleaching: bacteria in a heap of low-grade ore make a leachate containing copper ions; copper is then obtained with scrap iron or by electrolysis." loading="lazy">
+  <figcaption>Two biological ways to recover copper from poor ore.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--04-rate-concentration-proportional.webp" width="900" height="890" alt="Rate-concentration graph with points (0.40, 0.021) and (0.80, 0.042) on one straight line through the origin. Doubling concentration doubles rate, so rate is directly proportional to concentration (rate / concentration = 0.0525)." loading="lazy">
+  <figcaption>Doubling the concentration doubles the initial rate: a straight line through the origin.</figcaption>
+</figure>
+
 
 ## C6.1d–f: industrial conditions (Higher Tier only)
 
@@ -112,6 +155,12 @@ Ammonia → nitrogen fertilisers → more protein in crops → higher yields. Wi
 | Reactants | bought, dilute | made on site, concentrated |
 | Energy | heating to evaporate | reaction heat reused |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--01-fertiliser-chain.webp" width="900" height="990" alt="Flow diagram of one site: air and natural gas feed the Haber process to make ammonia, which is oxidised to nitric acid; ammonia with nitric acid gives ammonium nitrate and with sulfuric acid (from sulfur by the Contact process) gives ammonium sulfate. Phosphate rock supplies P and potassium chloride supplies K, so crops get soluble N, P and K." loading="lazy">
+  <figcaption>Several plants on one site feed each other to make fertilisers with N, P and K.</figcaption>
+</figure>
+
+
 ## C6.1k–l: life-cycle assessment
 
 Four stages, each with resource use and environmental impact:
@@ -123,11 +172,23 @@ Four stages, each with resource use and environmental impact:
 
 > **Method: interpreting LCA data.** (1) Add each product's total for one measure. (2) Scale to the same number of uses or years. (3) Compare. (4) Name a factor the data miss, such as pollution or how long the product lasts, and note that some judgements are subjective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--06-lca-crossover.webp" width="900" height="985" alt="Lines: steel 18 + 0.05n and plastic 1.2n MJ cross at 15.7 uses. At 16 uses steel is 18.8 MJ against 19.2 MJ. A line graph of total energy in megajoules against number of uses." loading="lazy">
+  <figcaption>Steel bottle total energy falls below plastic from the 16th use.</figcaption>
+</figure>
+
+
 ## C6.1m–n: recycling
 
 - Recycling into a **different** product: crushed glass as road aggregate or sand; plastic bottles into fibres for clothing or carpets; old tyres into play-area surfacing.
 - Viable when: bulk supply is reliable, the new use tolerates impurities, it saves raw materials, energy or landfill.
 - Decision factors: collection and sorting costs, energy and transport, ease of separating mixed materials, market price, scarcity of the raw material, landfill charges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--05-recycling-routes.webp" width="900" height="930" alt="Two process lanes: plastic bottles are washed, shredded, melted and drawn into fibres for fleece; wrong-colour glass is crushed into aggregate for road surfaces. Viable because material is collected in bulk, the new use needs low purity, and raw materials and landfill are saved." loading="lazy">
+  <figcaption>Recycled material often gets a different, less demanding job.</figcaption>
+</figure>
+
 
 ## C6.1o–q: alloys and corrosion
 
@@ -155,6 +216,12 @@ Four stages, each with resource use and environmental impact:
 | Metal | strong, tough, conducts, can be shaped | dense, may corrode |
 
 Quantitative comparison: work out a ratio such as strength ÷ density or cost per kilogram, then pick the material that best matches the stated use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--07-materials-strength.webp" width="900" height="920" alt="Strength divided by density: composite 375, aluminium alloy 107, steel 51, poly(ethene) 26, glass 20, clay ceramic 2.5 MPa per g/cm3. A horizontal bar chart of tensile strength divided by density." loading="lazy">
+  <figcaption>Strength per unit density ranks the materials.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

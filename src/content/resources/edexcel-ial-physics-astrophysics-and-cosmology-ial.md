@@ -120,6 +120,17 @@ using **standard candles** — objects of known luminosity, such as certain
 supernovae — where measured intensity and known luminosity give distance
 via the inverse-square relationship above.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
+
 ## The Hertzsprung-Russell diagram and stellar life cycles
 
 The **Hertzsprung-Russell diagram** plots stellar luminosity against
@@ -129,6 +140,22 @@ of stars** — a star's position on the diagram, and how it moves across it
 over time, reflects its stage of nuclear fusion and eventual fate
 (depending on initial mass, this may include red giant, white dwarf,
 supernova, neutron star or black hole stages).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
+  <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
+</figure>
+
 
 ## Redshift and cosmology
 
@@ -159,6 +186,12 @@ wavelength at which it emits most strongly, using Wien's law.
 
 λmax = (2.898 × 10⁻³) / T = (2.898 × 10⁻³) / 5800 = **5.00 × 10⁻⁷ m**
 (500 nm — in the visible spectrum, consistent with a Sun-like star).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

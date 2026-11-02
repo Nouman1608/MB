@@ -45,6 +45,12 @@ Once these notes feel secure, test yourself with the [Carboxylic acids and ester
 
 **Model answer:** "The –COOH group forms hydrogen bonds with water molecules: the δ+ H of O–H is attracted to a lone pair on a water oxygen. As the carbon chain gets longer, more of the molecule is non-polar and cannot hydrogen bond, so solubility decreases."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--08-addition-elimination.webp" width="900" height="1210" alt="Step 1: a lone pair on water oxygen attacks the delta-positive carbonyl carbon and the C=O electrons move onto oxygen, giving an intermediate with O minus and O plus. Step 2: a lone pair on O minus re-forms C=O and the C-Cl bond breaks, so chloride leaves. Step 3: chloride removes H plus from the O plus to give HCl and ethanoic acid." loading="lazy">
+  <figcaption>Curly arrows start at a lone pair or a bond; the AQA name is nucleophilic addition-elimination.</figcaption>
+</figure>
+
+
 ## 6.1.3(b): Acid reactions in aqueous conditions
 
 Carboxylic acids are weak acids: RCOOH ⇌ RCOO⁻ + H⁺. They still react as acids.
@@ -78,6 +84,12 @@ Comparing the acidity of different carboxylic acids is not required. The full se
 2. Effervescence means a gas is given off.
 3. Bubble the gas through limewater; it turns milky, confirming CO₂ and a carboxylic acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--07-acylation-reactions.webp" width="900" height="1240" alt="A strip shows a carboxylic acid converted to an acyl chloride with PCl5 (Edexcel) or SOCl2 (OCR). Ethanoyl chloride and ethanoic anhydride transfer the CH3CO group (teal) to water, methanol, ammonia and methylamine to give ethanoic acid, methyl ethanoate, ethanamide and N-methylethanamide. By-products are HCl or ethanoic acid, and ammonia and amines are needed in twos." loading="lazy">
+  <figcaption>Both reagents put an acyl group on water, an alcohol, ammonia or an amine. PCl5 is Edexcel only and SOCl2 is OCR only.</figcaption>
+</figure>
+
+
 ## 6.1.3(c): Making esters
 
 **Naming in steps**
@@ -97,6 +109,22 @@ Comparing the acidity of different carboxylic acids is not required. The full se
 
 Worked reminder (ii): (CH₃CO)₂O + CH₃OH → CH₃COOCH₃ + CH₃COOH, giving methyl ethanoate and ethanoic acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--01-acid-ester-names.webp" width="900" height="1180" alt="Propanoic acid is drawn with its carbons numbered from the COOH carbon. Ethyl propanoate and methyl methanoate are drawn with the acid part in teal and the alcohol part in gold. The alcohol part is named first, then the acid part ending -oate." loading="lazy">
+  <figcaption>An ester name has two words: the alcohol part (alkyl) first, then the acid part ending -oate. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--04-esterification.webp" width="900" height="1120" alt="Propanoic acid and ethanol react with a concentrated sulfuric acid catalyst and heat to give ethyl propanoate and water in an equilibrium. The OH from the acid and the H from the alcohol are ringed. A bar chart shows 6.63 g collected against a 10.2 g maximum, a 65.0 percent yield." loading="lazy">
+  <figcaption>Acid plus alcohol is reversible, so the yield is below 100 percent. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--09-aspirin-anhydride.webp" width="900" height="1296" alt="Salicylic acid reacts with ethanoic anhydride to give aspirin and ethanoic acid; the ringed ring OH receives the CH3CO group. Two flasks compare the reagents: the anhydride is milder, easier to control and slow to react with moist air with ethanoic acid as by-product, while ethanoyl chloride is vigorous and gives HCl gas." loading="lazy">
+  <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
+</figure>
+
+
 ## 6.1.3(d): Hydrolysis of esters
 
 | | (i) Hot aqueous acid | (ii) Hot aqueous alkali |
@@ -112,6 +140,12 @@ Worked reminder (ii): HCOOCH₂CH₂CH₃ + NaOH → HCOONa + CH₃CH₂CH₂OH,
 1. The salt or acid tells you the R–COO part.
 2. The alcohol tells you the R' part.
 3. Write RCOOR' and check the molecular formula adds up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--05-ester-hydrolysis.webp" width="900" height="1160" alt="Ethyl propanoate hydrolysed with dilute acid and water gives propanoic acid and ethanol in a reversible reaction. With sodium hydroxide solution it goes to completion giving sodium propanoate and ethanol, because the carboxylate ion cannot re-form the ester." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible; alkaline hydrolysis goes to completion and gives a salt. All boards.</figcaption>
+</figure>
+
 
 ## 6.1.3(e): Acyl chlorides from SOCl₂
 
@@ -220,6 +254,12 @@ All of these happen readily at room temperature and are not reversible. Every on
 **11.** Both –COOH groups hydrogen bond to water. In decanoic acid the long non-polar chain cannot hydrogen bond to water, so the molecule as a whole is barely soluble.
 
 **12.** Propanamide, CH₃CH₂CONH₂, a primary amide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--03-acid-carbonate-test.webp" width="900" height="950" alt="Ethanoic acid reacts with calcium carbonate in a test tube and carbon dioxide bubbles pass along a delivery tube into limewater, which turns cloudy. The balanced equation needs two acid molecules for each carbonate, and the acid is only partly ionised." loading="lazy">
+  <figcaption>A weak carboxylic acid still releases CO2 from carbonates; limewater turns cloudy. All boards.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

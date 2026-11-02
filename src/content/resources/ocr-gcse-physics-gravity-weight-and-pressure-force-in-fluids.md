@@ -43,6 +43,12 @@ The strength of the field depends on the mass that creates it. A very massive ob
 
 The attraction acts on **both** objects, so the Earth is pulled towards you as well as you towards the Earth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--06-attraction-pencils-earth.webp" width="900" height="830" alt="Two pencils on a desk attract each other, but the arrows showing the pull are tiny: the force is far too small to notice. Below, a person stands on the Earth. Earth pulls the person down and the person pulls Earth up with a force of the same size in the opposite direction. The panels are not drawn to the same force scale. Only the very large mass of the Earth gives a pull you notice." loading="lazy">
+  <figcaption>Every mass attracts every other, but only Earth-sized masses give a pull you notice.</figcaption>
+</figure>
+
+
 ## Weight and the newtonmeter (P2.3h)
 
 **Weight** is the force on an object caused by the gravitational field it is in. It is a force, so it is measured in newtons (N) and it acts downwards towards the centre of the planet. **Mass** is the amount of matter in an object. It is measured in kilograms (kg) and it does not change when the object moves to another planet.
@@ -71,6 +77,12 @@ A probe weighs 48 N on the Moon, where g = 1.6 N/kg. Find its mass and its weigh
 2. m = 48 / 1.6 = **30 kg**
 3. Mass is unchanged on Earth, so W = 30 × 10 = **300 N**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--04-mass-vs-weight.webp" width="900" height="950" alt="The same 10 kg mass hangs from a force meter on the Earth (98 N, g = 9.8 N/kg) and on the Moon (16 N, g = 1.6 N/kg). The weight arrows are drawn in proportion to the weights. The mass does not change." loading="lazy">
+  <figcaption>Weight is a force that depends on the gravitational field strength; mass does not change.</figcaption>
+</figure>
+
+
 ## Free fall (P2.3i)
 
 An object is in free fall when the only force acting on it is its weight. In that case it accelerates downwards. Near the Earth's surface you should recall that the acceleration in free fall is about 10 m/s², which matches g = 10 N/kg. A more precise value is 9.8 m/s². The specification gives g as 10 N/kg, so use 10 unless a question supplies another value.
@@ -91,6 +103,22 @@ A 0.25 kg stone and a 4.0 kg stone are dropped together in a vacuum. Show that t
 3. Both accelerate at **10 m/s²**, so they reach the floor together.
 
 A free-falling object gains about 10 m/s of speed every second. After 3.0 s from rest its speed is 10 × 3.0 = 30 m/s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--08-free-fall-equal-acceleration.webp" width="900" height="980" alt="A 0.25 kg and a 4.0 kg stone dropped together in a vacuum are level at 0, 1, 2 and 3 s, with speeds 0, 10, 20 and 30 m/s. Weights of 2.5 N and 40 N each divided by their mass give 10 m/s2." loading="lazy">
+  <figcaption>All objects in free fall accelerate equally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--06-free-fall.webp" width="900" height="920" alt="A ball dropped from rest is shown at 0, 1, 2 and 3 seconds with gaps that grow. Its downward speed is 9.8, 19.6 and 29.4 m/s, so it gains 9.8 m/s each second." loading="lazy">
+  <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--04-terminal-velocity.webp" width="900" height="880" alt="A speed-time graph rises then levels at 50 m/s. Free-body diagrams at A, B and C show weight 800 N with drag 0, about 290 N and about 800 N, so the resultant falls from 800 N to about zero." loading="lazy">
+  <figcaption>As speed rises drag grows until it equals the weight; resultant force is zero and speed stays constant.</figcaption>
+</figure>
+
 
 ## Applying the formulae (P2.3j, Higher Tier only)
 
@@ -116,6 +144,27 @@ A 5.0 kg crate is lifted by a rope with an upward pull of 70 N. Find its acceler
 2. Resultant force = 70 − 50 = 20 N upwards.
 3. a = F / m = 20 / 5.0 = **4.0 m/s²** upwards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--07-weight-mass-gradient.webp" width="900" height="1010" alt="Weight against mass gives straight lines through the origin with gradients g = 10 (Earth), 4.0 and 1.6 (Moon) N/kg. A 3.0 kg mass weighs 30 N on Earth and 12 N where g = 4.0." loading="lazy">
+  <figcaption>The gradient of a weight-mass line is g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--08-crate-lift-resultant.webp" width="900" height="1080" alt="A 5.0 kg crate is lifted by a rope with an upward pull of 70 newtons. Its weight is 5.0 times 10 = 50 newtons downward. The arrows are drawn to the same scale: the resultant is 70 minus 50 = 20 newtons upward, so the acceleration is 20 divided by 5.0 = 4.0 metres per second squared upward." loading="lazy">
+  <figcaption>Include the weight as one of the forces when finding the resultant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--09-fixed-weight-mass-g.webp" width="900" height="885" alt="Three newtonmeters each read 12 N. On Earth, g = 10 N/kg, so the mass is 1.2 kg. On a planet with g = 4.0 N/kg the mass is 3.0 kg. On the Moon, g = 1.6 N/kg, the mass is 7.5 kg. The block drawn under each newtonmeter has a height proportional to its mass. As g falls, the mass needed for the same weight rises." loading="lazy">
+  <figcaption>For a fixed weight, the smaller g is, the larger the mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
+
 ## Pressure in fluids and the force it causes (P2.3n, Higher Tier only)
 
 A **fluid** is a gas or a liquid. Its particles move constantly and collide with any surface they touch. Each collision pushes on the surface. Billions of collisions each second add up to a steady pressure.
@@ -123,6 +172,12 @@ A **fluid** is a gas or a liquid. Its particles move constantly and collide with
 The key result: pressure in a fluid causes a **net force at right angles** to any surface in contact with it. At each collision the particle rebounds from the surface, so the push is perpendicular to the surface. On a curved surface such as a balloon, the force on each small patch points directly outwards from that patch. This is why a balloon stays round.
 
 If fluid acts on both sides of a surface, it is the **difference** in pressure that matters. A tyre pressure that is higher than the air pressure outside gives a net outward force on the tyre wall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--02-right-angles-experiment.webp" width="900" height="880" alt="Three beakers hold a thistle funnel at the same depth facing up, sideways and down, joined to a U-tube manometer. The arrows meet the membrane at right angles and the manometer shows the same height difference h each time." loading="lazy">
+  <figcaption>Pressure at a point acts at right angles to the surface, and is the same in every direction.</figcaption>
+</figure>
+
 
 ## Pressure, force and area (P2.3o, Higher Tier only)
 
@@ -158,6 +213,12 @@ A lid of area 0.012 m² closes a container. The pressure inside is 1.8 × 10⁵ 
 2. F = p A = 8.0 × 10⁴ × 0.012
 3. F = **960 N**, outwards and at right angles to the lid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--07-drawing-pin-pressure.webp" width="900" height="1070" alt="A thumb pushes a drawing pin with 30 newtons. The pin head has area 1.5 times 10 to the minus 4 square metres, giving 2.0 times 10 to the 5 pascals. The tip has area 2.5 times 10 to the minus 7 square metres, giving 1.2 times 10 to the 8 pascals, which is 600 times larger. Below, a balloon pressed on a single pin bursts, but on many pins the same force is shared over a larger total area, so the pressure is lower and it survives." loading="lazy">
+  <figcaption>A small area concentrates the same force into a much larger pressure.</figcaption>
+</figure>
+
+
 ## Simple hydraulic systems (P2.3o, Higher Tier only)
 
 A hydraulic system uses a liquid to transmit pressure. It has a small piston (the effort) joined by a pipe to a large piston (the load). Liquids are almost impossible to compress, and the pressure applied to an enclosed liquid is passed on through it. So the pressure is the same at both pistons:
@@ -175,6 +236,12 @@ The small piston has area 4.0 × 10⁻⁴ m² and the large piston has area 6.0 
 3. Area ratio = 6.0 × 10⁻³ / 4.0 × 10⁻⁴ = 15, so the force is 15 times bigger.
 4. The large piston moves 0.30 / 15 = **0.020 m**.
 5. Check: work in = 120 × 0.30 = 36 J; work out = 1800 × 0.020 = 36 J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--06-hydraulic-press.webp" width="900" height="1110" alt="A small piston of area 4.0 x 10^-4 m2 pushed with 120 N moves 0.30 m. The pressure, 3.0 x 10^5 Pa, is the same throughout, so the 6.0 x 10^-3 m2 piston gives 1800 N and moves 0.020 m. Work in and out are both 36 J." loading="lazy">
+  <figcaption>A hydraulic system multiplies force by the area ratio and divides distance by the same factor.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -44,6 +44,17 @@ These notes summarise sections 1.1 and 1.2 of the Cambridge IGCSE Economics 0455
 
 **Worked reminder.** Country A (invented) has 90 to spend but wants 50 + 40 + 30 = 120. Shortfall = 120 − 90 = 30.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--01-gov-budget-shortfall.webp" width="900" height="670" alt="Two bars on one scale: wants 50+40+30=120 against revenue 90, with a dashed 30 shortfall. Invented numbers from the lesson. Wants exceed resources so something must be cut." loading="lazy">
+  <figcaption>Wants of 120 exceed revenue of 90, leaving a shortfall of 30.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+
 ## 1.1.2 Economic goods and free goods
 
 | Economic good | Free good |
@@ -57,6 +68,22 @@ These notes summarise sections 1.1 and 1.2 of the Cambridge IGCSE Economics 0455
 - A good with a zero price to the user is not necessarily free: free school meals still use resources.
 - The same item can be free in one setting and economic in another: stream water for a village, piped water for a city.
 - Very few goods are truly free. Say "in this setting" when you give an example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--13-goods-water-village-city.webp" width="900" height="880" alt="A family takes stream water in a remote village using no resources, so it behaves like a free good. In a city, water needs a reservoir, pipes, treatment and workers, so it is an economic good with a price." loading="lazy">
+  <figcaption>The same water can be free in a village and economic in a city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## 1.2.1 The four factors, their nature and rewards
 
@@ -79,6 +106,12 @@ Worked reminder (a small bakery, invented): revenue 120,000; wages 54,000; rent 
 
 **Capital is not money.** Money buys capital; it does not itself produce.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--02-bakery-factor-rewards.webp" width="900" height="920" alt="Revenue of 120,000 splits into wages 54,000, rent 18,000, interest 6,000 and profit 42,000 (45/15/5/35 percent). In a bad year revenue 70,000 is below costs 78,000, a loss of 8,000." loading="lazy">
+  <figcaption>Each factor has its own reward; profit is the residual and the owner carries any loss.</figcaption>
+</figure>
+
+
 ## 1.2.2 Mobility of the factors
 
 - **Geographical mobility:** movement between places.
@@ -94,6 +127,17 @@ Worked reminder (a small bakery, invented): revenue 120,000; wages 54,000; rent 
 **Worked reminder.** Net gain from moving = 4,000 − 1,500 = 2,500 a year. Payback = 6,000 ÷ 2,500 = 2.4 years.
 
 **Chain to use:** low labour mobility → vacancies and unemployed workers in the same economy → lost output → policy to raise mobility (retraining, help with moving costs, better job information).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--03-worker-move-decision.webp" width="900" height="1000" alt="Net gain of 2,500 a year (4,000 pay minus 1,500 housing) against a one-off 6,000 move cost; the cumulative gain line crosses zero at 2.4 years." loading="lazy">
+  <figcaption>Moving pays only if the worker stays longer than 2.4 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--14-factors-mobility-kinds.webp" width="900" height="950" alt="A grid of land, labour, capital and enterprise against geographical and occupational mobility, marked mobile, partly or immobile with the reason from the lesson for each." loading="lazy">
+  <figcaption>Geographical against occupational mobility for each factor.</figcaption>
+</figure>
+
 
 ## 1.2.3 Quantity and quality of the factors
 
@@ -115,6 +159,22 @@ Worked reminder: 500 + 60 − (500 × 0.08) = 500 + 60 − 40 = 520.
 - Quantity can change fast; quality is slow and costly.
 - More workers with no extra capital means less capital per worker.
 - Non-renewable land resources fall in quantity as they are used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--04-capital-stock-change.webp" width="900" height="1020" alt="Two tanks start at 500 machines and lose 40 to wear. Buying 60 gives 520 (+4.0%); buying 30 gives 490 (−2.0%). Scale starts at 450." loading="lazy">
+  <figcaption>The capital stock grows only if gross investment exceeds depreciation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--11-factors-quality-examples.webp" width="900" height="830" alt="Labour: output per worker rises from 60 to 65 thousand (+8.3%) and output from 390 to 455. Land: yield rises from 3.0 to 3.6 tonnes per hectare (+20%) and output from 24,000 to 29,088 tonnes." loading="lazy">
+  <figcaption>Quality is output per worker or per hectare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of--12-factors-what-moves-each.webp" width="900" height="980" alt="For land, labour, capital and enterprise: what raises or lowers the quantity and the quality of each, in short phrases from the lesson table." loading="lazy">
+  <figcaption>What raises or lowers the quantity and quality of each factor.</figcaption>
+</figure>
+
 
 ## Linking the sections
 
@@ -169,3 +229,9 @@ Worked reminder: 500 + 60 − (500 × 0.08) = 500 + 60 − 40 = 520.
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.1 The nature of the economic problem and 1.2 The factors of production.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+

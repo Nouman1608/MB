@@ -115,6 +115,22 @@ Mᵣ check: alkane Mᵣ = 14n + 2; cycloalkane Mᵣ = 14n.
 4. Name each one and cross out any duplicates with the same name.
 5. For cycloalkanes, repeat for each ring size from the full ring down to three carbons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Crude oil and fuels (4.12)
 
 | Process | What it does | Example equation |
@@ -128,6 +144,12 @@ Why crack: demand for short-chain fuels like petrol exceeds supply, and alkenes 
 Cracking practical (further suggested): heat aluminium oxide strongly, let heat reach paraffin on
 mineral wool, collect gas over water, test with bromine water (decolourised). Remove the delivery tube
 from the water before heating stops to prevent suck-back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Combustion and pollutants (4.13–4.14, 4.17)
 
@@ -175,6 +197,17 @@ Conditions: alkane + Cl₂ or Br₂, ultraviolet light. Example: cyclohexane and
 
 Limited use in synthesis: the product can be substituted further (C₆H₁₀Cl₂ and beyond), and
 termination gives side products, so you get a mixture and a low yield of any one compound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -60,6 +60,17 @@ Links: [Edexcel IGCSE Chemistry course hub](/boards/edexcel/igcse/chemistry/), [
 | gas volume | V = n × 24 | dm³ | Paper 2 only |
 | gas volume | V = n × 24 000 | cm³ | Paper 2 only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--04-mgo-formula-experiment.webp" width="900" height="1120" alt="Crucible with lid ajar over a Bunsen flame, air entering. Example masses 0.24 g Mg and 0.40 g oxide give 0.16 g oxygen; moles 0.010 each so MgO." loading="lazy">
+  <figcaption>Weigh before and after, subtract to find oxygen, then compare moles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 ### Balancing an equation (1.25)
@@ -71,6 +82,17 @@ Links: [Edexcel IGCSE Chemistry course hub](/boards/edexcel/igcse/chemistry/), [
 
 For an unfamiliar reaction, take the formulae and states from the question. "Precipitate" means (s); "solution" means (aq); "fizzing" or "gas given off" means (g).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--03-percentage-yield.webp" width="900" height="990" alt="Two bars compare theoretical iron yield 28.0 g with actual 25.2 g; the missing 2.8 g is dashed. 25.2 divided by 28.0 times 100 is 90.0 percent." loading="lazy">
+  <figcaption>Percentage yield compares what you collect with the maximum the equation allows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+
 ### Reacting mass (1.29)
 
 1. Mass → moles of the known substance (÷ M_r).
@@ -80,6 +102,22 @@ For an unfamiliar reaction, take the formulae and states from the question. "Pre
 **Worked reminder.** `Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq)`. 3.31 g of lead(II) nitrate (M_r 331) is 0.0100 mol, so 0.0100 mol of PbI₂ (M_r 461) forms: **4.61 g**. (A_r: N = 14, O = 16, I = 127, Pb = 207)
 
 If the question gives masses of reactant and product, find moles of each and use them to deduce the ratio, and so the equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--05-hydrated-salt-water.webp" width="900" height="970" alt="Heating 3.66 g hydrated barium chloride leaves 3.12 g; 0.54 g of water was lost. Moles 0.0150 and 0.0300 give ratio 1 to 2, so BaCl2.2H2O." loading="lazy">
+  <figcaption>Mass lost on heating is water; compare its moles with the salt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--05-fe-cl2-equation-from-masses.webp" width="900" height="1040" alt="A stacked bar shows 5.60 g of iron and 10.65 g of chlorine making 16.25 g of iron chloride. Moles are shown as blocks of 0.050 mol: 2 blocks of iron (0.100 mol) and 3 blocks of chlorine (0.150 mol). The 2 to 3 ratio gives 2Fe + 3Cl2 gives 2FeCl3." loading="lazy">
+  <figcaption>Subtract to find the chlorine mass, convert both masses to moles, and the simplest ratio gives the equation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
 
 ### Empirical formula (1.33)
 
@@ -102,6 +140,12 @@ If the question gives masses of reactant and product, find moles of each and use
 3. Use the equation's ratio.
 4. c = n ÷ V for the unknown.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--07-make-500-cm3-solution.webp" width="900" height="960" alt="Three steps: 500 cm cubed is 0.500 dm cubed; 0.100 times 0.500 is 0.0500 mol; 0.0500 times 40 is 2.00 g of sodium hydroxide. A balance reading 2.00 g is drawn beside a volumetric flask filled to the 500 cm cubed mark." loading="lazy">
+  <figcaption>Volume x concentration gives moles; moles x Mr gives the mass of solid to weigh out.</figcaption>
+</figure>
+
+
 ### Gas volume (1.35C, Paper 2 only)
 
 1. Moles of the known substance.
@@ -111,6 +155,22 @@ If the question gives masses of reactant and product, find moles of each and use
 **Worked reminder.** `2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)`. 2.30 g of sodium (A_r 23) is 0.100 mol, giving 0.0500 mol of hydrogen: 0.0500 × 24 000 = **1200 cm³** (1.20 dm³) at rtp.
 
 For reacting gases only, volume ratio = mole ratio, so no conversion to moles is needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--03-gas-molar-volume-rtp.webp" width="900" height="1304" alt="Three identical gas jars of hydrogen, oxygen and carbon dioxide each hold one mole and have a volume of 24 dm cubed at rtp. A flow shows 7.50 g CaCO3 giving 0.0750 mol, then 0.0750 mol CO2, then 1.80 dm cubed (1800 cm cubed) after multiplying by 24. A bar shows 1.80 dm cubed as a small share of the 24 dm cubed in one mole." loading="lazy">
+  <figcaption>One mole of any gas occupies 24 dm³ at rtp, so volume = moles × 24.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--04-gas-volume-ratio.webp" width="900" height="740" alt="Stacked 50 cm cubed blocks show methane as 1 block, oxygen as 2 blocks and carbon dioxide as 1 block for the equation CH4 + 2O2 gives CO2 + 2H2O. Water is shown as a liquid droplet with no gas volume." loading="lazy">
+  <figcaption>At the same conditions gases react in the ratio of the equation: 50 cm³ methane needs 100 cm³ oxygen and gives 50 cm³ carbon dioxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
 
 ## Practical 1.36: formula of a metal oxide
 
@@ -177,6 +237,12 @@ The formula of **water** can be found the same way: reduce copper(II) oxide with
 - In a practical write-up, not mentioning heating to constant mass, or letting copper cool in air after reduction.
 - **(Paper 2)** Using a volume in cm³ in c = n ÷ V without dividing by 1000.
 - **(Paper 2)** Multiplying by 24 when cm³ is asked for, or by 24 000 when dm³ is asked for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--06-multiply-up-fe3o4.webp" width="900" height="1050" alt="Moles of iron 0.0600 and oxygen 0.0800 are drawn as bars. Dividing by 0.0600 gives 1 iron to 1.33 oxygen, drawn as one iron atom, one oxygen atom and a third of an oxygen atom. Multiplying by 3 gives 3 iron atoms and 4 oxygen atoms, so the formula is Fe3O4; rounding to 1 would wrongly give FeO." loading="lazy">
+  <figcaption>A ratio such as 1 : 1.33 is not an error: multiply up to whole numbers to get Fe₃O₄.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

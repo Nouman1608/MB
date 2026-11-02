@@ -33,6 +33,12 @@ These notes summarise references A19 and A22 of section 3.2.3 in the OxfordAQA I
 | A22 | Two simultaneous equations | One unknown per fact; one equation per fact |
 | A22 | Interpret | Units, sense check, answer the actual question |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--05-bike-hire-crossover.webp" width="900" height="950" alt="Graph of cost against days for Shop A (15 + 6d) and Shop B (9d). They cross at 5 days and 45 pounds; B is cheaper before, A after." loading="lazy">
+  <figcaption>Worked example 9: the equation 15 + 6d = 9d is where the two cost lines meet.</figcaption>
+</figure>
+
+
 ## Solving a linear equation
 
 Steps:
@@ -78,6 +84,17 @@ x = 24
 
 Check every solution by substituting it into the original equation, not into a line of your own working. This catches both slips in expanding and slips in moving terms. Leave an answer as a fraction or a decimal as the question asks. A non-integer answer is not a sign of an error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--01-clear-fractions-times-6.webp" width="900" height="900" alt="(2x + 1)/3 minus (x - 4)/2 equals 2. Multiply every term by 6 to get 2(2x + 1) minus 3(x - 4) equals 12. Expanding flips both signs of the bracket, giving x + 14 = 12, so x = -2, and the check gives 2." loading="lazy">
+  <figcaption>Clear fractions by multiplying every term, and flip both signs when subtracting a bracket.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+
 ## Approximate solutions from a graph
 
 - Solve f(x) = g(x) by drawing y = f(x) and y = g(x). The solution is the x-coordinate of each crossing point.
@@ -93,6 +110,17 @@ Reminder E: 2x − 1 = 5 − x. Table for x = 0, 1, 2, 3:
 | y = 5 − x | 5 | 4 | 3 | 2 |
 
 The values are equal at x = 2 (both 3), so the lines cross at (2, 3) and the solution is x = 2. Algebra confirms it: 3x = 6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--04-solve-by-graph-crossing.webp" width="900" height="950" alt="Graph of y = 4 - x and y = 2x - 3 crossing at x = 7/3. A dashed line drops to the x-axis at about 2.3; the solution is the x-value, not the y-value." loading="lazy">
+  <figcaption>Solve 4 - x = 2x - 3 by reading the x-coordinate of the crossing point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--03-linear-intersection.webp" width="900" height="970" alt="Graphs of y = 5 - 2x and y = 3(x + 7) cross at x = -3.2, y = 11.4, the solution of the equation." loading="lazy">
+  <figcaption>The solution of an equation is the x where both sides have the same value.</figcaption>
+</figure>
+
 
 ## Forming expressions and formulae
 
@@ -148,6 +176,12 @@ x = 28
 
 The integers are 28, 29, 30.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--02-triangle-angles-equation.webp" width="900" height="940" alt="A triangle drawn to scale with angles (2x + 10), (3x - 5) and (x + 25) degrees. They sum to 180, so 6x + 30 = 180, x = 25 and the angles are 60, 70 and 50 degrees." loading="lazy">
+  <figcaption>Angles in a triangle give the equation 6x + 30 = 180.</figcaption>
+</figure>
+
+
 ## Two simultaneous equations from a problem
 
 Define two letters. Write one equation for each fact. Solve the pair, then answer in context with units.
@@ -160,6 +194,17 @@ p + 2n = 6.60     (2)
 ```
 
 Doubling (2) gives 2p + 4n = 13.20, and subtracting (1) leaves 3n = 5.70, so n = 1.90. Substitute into (1): 2p = 5.60, so p = 2.80. A pen costs £2.80 and a notebook costs £1.90. Check in (2): 2.80 + 3.80 = 6.60.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--05-ticket-prices-two-lines.webp" width="900" height="860" alt="Graph of 2a + 3c = 46.50 and a + 5c = 49.50 with adult price a across and child price c up. They cross at a = 12, c = 7.50, so an adult ticket is 12 pounds and a child ticket 7.50 pounds." loading="lazy">
+  <figcaption>Each fact is a line; the ticket prices are where the two lines cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## Comparing two costs
 
@@ -178,6 +223,12 @@ Both firms charge £15 for 6 km. For a shorter journey Firm A is cheaper because
 ## Rejecting an impossible solution
 
 Reminder K. A rectangle has width x cm and length (x + 5) cm, and a perimeter of 4x + 10. A student sets the perimeter equal to 3x + 4 and finds x = −6. A width cannot be negative, so no such rectangle exists. When you reach an impossible value, say so in a sentence and check the equation for a slip before concluding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--03-rectangle-perimeter-equation.webp" width="900" height="850" alt="A rectangle drawn to scale, length (3x - 2) cm and width (x + 4) cm, perimeter 60 cm. 2[(3x - 2) + (x + 4)] = 60 gives x = 7, so it is 19 cm by 11 cm." loading="lazy">
+  <figcaption>Perimeter is twice (length + width), which gives an equation in x.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

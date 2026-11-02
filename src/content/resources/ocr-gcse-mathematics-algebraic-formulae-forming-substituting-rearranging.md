@@ -63,6 +63,12 @@ P = 2(w + 3w − 2) = 2(4w − 2) = 8w − 4
 
 The width is 6 cm and the length is 16 cm. Check: 2 × (6 + 16) = 44.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--04-forming-formula-plumber.webp" width="900" height="810" alt="A bar drawn to scale shows a plumber cost for 3.5 hours. A gold block of 35 pounds is the fixed call-out charge. Three teal blocks of 22 pounds and a half block of 11 pounds follow, with hour marks underneath. The whole bar is 112 pounds. Below, C = 35 + 22h, and with h = 3.5 it gives 35 + 77 = 112." loading="lazy">
+  <figcaption>A fixed charge is a number on its own; a charge per hour is a number multiplied by h.</figcaption>
+</figure>
+
+
 ## 6.02b Substituting into formulae
 
 Replace each letter by its value, put every substituted number in brackets, then work in the usual order: brackets, powers and roots, multiplication and division, addition and subtraction.
@@ -100,6 +106,12 @@ Evaluate the top and bottom separately before dividing. If a formula contains a 
 L/g = 2.5/10 = 0.25
 T = 2π × √0.25 = 2π × 0.5 = π
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
 
 ## 6.02c Changing the subject
 
@@ -157,6 +169,12 @@ v² − 2as = u²
 u = √(v² − 2as)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--11-alg-subject-area-radius.webp" width="900" height="960" alt="A graph of A = pi r^2 for r from 0 to 4. From A = 32.2 on the vertical axis a dashed line goes across to the curve and down to r = 3.2, which is r = square root of (A/pi) taking the positive root." loading="lazy">
+  <figcaption>Reading r from A on the graph is the same as undoing the square with a square root.</figcaption>
+</figure>
+
+
 ### Subject appears twice
 
 Remove any fraction, expand brackets, collect every term containing the subject on one side, factorise, then divide.
@@ -181,6 +199,12 @@ v = fu/(u − f)
 ```
 
 Do not flip each term separately. Combine into a single fraction first, then invert the whole thing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--05-change-subject-reverse-steps.webp" width="900" height="850" alt="Two rows of boxes. The top row builds A from b with a = 3, h = 4 and b = 5: b is 5, add a gives 8, multiply by h gives 32, multiply by one half gives A = 16. The bottom row starts at A = 16 and undoes each step in reverse order: multiply by 2 gives 32, divide by h gives 8, subtract a gives 5, which is b. The result is b = 2A/h minus a." loading="lazy">
+  <figcaption>Change the subject by undoing the steps in the reverse order.</figcaption>
+</figure>
+
 
 ## 6.02d Standard formulae
 
@@ -241,6 +265,12 @@ x = (5 ± √73)/8
 x = 1.69  or  x = −0.44
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--06-quadratic-formula-graph.webp" width="900" height="920" alt="The graph of y = 4x squared minus 5x minus 3, a U-shaped curve, crosses the x-axis at x = 1.69 and x = minus 0.44, marked with dots. A dashed vertical line at x = 5/8 is the axis of symmetry, halfway between the two crossing points, through the lowest point of the curve. Below, a = 4, b = minus 5, c = minus 3 give b squared minus 4ac = 73, so x = (5 plus or minus root 73) divided by 8." loading="lazy">
+  <figcaption>The two answers from the quadratic formula are the points where the curve meets the x-axis.</figcaption>
+</figure>
+
+
 ### Higher tier only: sine rule, cosine rule and area
 
 For a triangle with sides a, b, c opposite angles A, B, C (**Higher tier only**):
@@ -282,6 +312,32 @@ A negative cosine means an obtuse angle.
 ```
 Area = ½ × 6.4 × 9.1 × sin 54° = 23.6 cm²
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--10-alg-circle-circumference-area.webp" width="900" height="960" alt="Example 13: a pond with diameter 6.4 m has area pi x 3.2^2 = 32.2 m^2, and its circumference is pi diameters, 20.1 m, shown as a bar of three diameters and 0.14 of a diameter. Example 14: C = 18 pi gives r = 9 and A = 81 pi cm^2." loading="lazy">
+  <figcaption>The circumference is a little over three diameters; the area uses the radius squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
 
 ## 6.02e Kinematics formulae
 
@@ -325,6 +381,17 @@ The negative sign shows deceleration.
 t = (−4 ± √(16 + 480))/6 = (−4 ± 22.27)/6
 t = 3.05 s   (reject the negative root)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--07-constant-acceleration-areas.webp" width="900" height="920" alt="A velocity-time graph for a car starting at 12 metres per second and accelerating at 1.5 metres per second squared for 8 seconds. The line rises from 12 to 24 metres per second, so v = u + at. The area under it is a teal rectangle, ut = 96 metres, plus a gold triangle, half a t squared = 48 metres. The total area, the distance travelled, is 144 metres." loading="lazy">
+  <figcaption>Distance is the area under the velocity-time graph: a rectangle ut plus a triangle ½at².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--09-alg-ball-thrown-up.webp" width="900" height="970" alt="A ball thrown up at 14 m/s with a = -9.8 m/s^2 is shown at 0 m, 5 m and 10 m with arrows proportional to speed: 14, 9.9 and 0 m/s. Using v^2 = u^2 + 2as with v = 0 gives s = 10 m." loading="lazy">
+  <figcaption>The speed falls to zero at the top, which gives the height from v squared.</figcaption>
+</figure>
+
 
 ## Common errors
 

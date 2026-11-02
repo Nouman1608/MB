@@ -49,6 +49,22 @@ Use them with the [practice questions](/resources/ib-dp-mathematics-ai-hl-furthe
 - **Piecewise model:** a function defined by different rules on different intervals of its domain.
 - **Semi-log graph:** log y plotted against x. **Log-log graph:** log y plotted against log x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--04-order-of-transformations.webp" width="900" height="850" alt="With f(x) = x², stretching by 2 then translating up 3 gives vertex (0, 3); translating up 3 then stretching by 2 gives vertex (0, 6). Different order, different graph." loading="lazy">
+  <figcaption>The order of a stretch and a translation changes the final graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--05-half-life.webp" width="900" height="884" alt="A = 80e^(−kt) falls from 80 to 40 at t = 5.2, to 20 at 10.4, and is 16.2 mg at t = 12. k = ln 2 / half-life = 0.1333." loading="lazy">
+  <figcaption>The mass halves every half-life, and k = ln 2 divided by the half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--07-logistic-limit.webp" width="900" height="856" alt="P(t) = 2400/(1 + 15e^(−kt)), k = ln5/4, starts at 150, passes (4, 600), reaches 2000 at t = 10.7 and levels off below the asymptote P = 2400, the carrying capacity." loading="lazy">
+  <figcaption>A logistic model grows quickly then levels off at its carrying capacity.</figcaption>
+</figure>
+
+
 ## Key results
 
 | Topic | Result |
@@ -120,6 +136,12 @@ The vertical steps must be stretch then translate. Swapping them gives p(f(x) + 
 - **Degrees vs radians:** HL sinusoidal models are in radians unless a degree symbol appears, as in sin x°. Period 2π/b, not 360°/b.
 - **Inverse vs reciprocal:** f⁻¹(x) is the inverse function, not 1/f(x).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--06-sinusoidal-tide.webp" width="900" height="844" alt="D(t) = 3.2 sin(0.507(t − 1.9)) + 5.2 has axis y = 5.2, amplitude 3.2, maximum 8.4 at t = 5, minimum 2.0 at t = 11.2 and period 12.4 h. The depth is above 7 m from t = 3.08 to 6.92, 3.84 hours." loading="lazy">
+  <figcaption>Amplitude, axis, period and shift can be read off the graph of the tide model.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. f(x) = 2x + 1 and g(x) = x². Find (f ∘ g)(3) and (g ∘ f)(3).
@@ -162,6 +184,12 @@ The vertical steps must be stretch then translate. Swapping them gives p(f(x) + 
 - Rounding k in a half-life or logistic model to 2 s.f. before substituting, so the final answer is outside 3 s.f. accuracy.
 - Reporting e^(gradient) as b in a power model. In a log-log fit, b is the gradient itself.
 - Making a prediction far outside the data range without commenting on extrapolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--02-restricted-inverse.webp" width="900" height="990" alt="f(x) = (x − 2)² + 1 for x ≥ 2 rises from (2, 1); the dashed left half is outside the domain. Its inverse 2 + √(x − 1), x ≥ 1, is the reflection in y = x, with (4, 5) mapping to (5, 4). The domain of the inverse is the range of f." loading="lazy">
+  <figcaption>Restrict the domain, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

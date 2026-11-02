@@ -69,6 +69,12 @@ The specification links this section to two ideas about how science works:
 
 A short story you can use: the plum-pudding picture had electrons embedded in a positive sphere. Alpha-particle scattering evidence, where most particles went straight through and a few were deflected strongly, supported a small, dense, positive nucleus surrounded by mostly empty space. Shell models then explained patterns across the periodic table.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+
 ## 2.1.1(c): the two definitions
 
 Learn both. The specification says definitions are required.
@@ -79,6 +85,17 @@ Learn both. The specification says definitions are required.
 | Relative atomic mass | The mean mass of an atom of the element, weighted by the abundance of each isotope as it occurs, compared with 1/12th the mass of an atom of carbon-12 |
 
 Carbon-12 is the standard for atomic masses. Both quantities are ratios, so they have no units. The phrase "weighted mean" is what separates the second definition from the first. Say which isotope or element you are describing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--05-orbitals.webp" width="900" height="1050" alt="An s orbital is a sphere (2s larger than 1s); a p sub-shell is three dumbbell orbitals along x, y and z. Boxes show s = 1 orbital (2 electrons), p = 3 (6), d = 5 (10), and shells hold 2, 8, 18 and 32 electrons." loading="lazy">
+  <figcaption>Each orbital holds two electrons of opposite spin: s has 1 orbital, p has 3, d has 5; shell n holds 2n squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--08-successive-ie.webp" width="900" height="830" alt="A log-scale plot of the twelve successive ionisation energies of magnesium: two low points, a big jump at the third electron, a gradual rise to the tenth, and another huge jump at the eleventh, grouped as shell 3 (2 electrons), shell 2 (8) and shell 1 (2)." loading="lazy">
+  <figcaption>A large jump after the second electron shows two outer electrons (Group 2); further jumps mark inner shells.</figcaption>
+</figure>
+
 
 ## 2.1.1(d): mass spectrometry calculations
 
@@ -105,6 +122,22 @@ Worked reminder, using invented data for an element Y: peaks at m/z 46, 47 and 4
 The result must fall between the smallest and largest isotopic mass, closer to the most abundant isotope. If not, recheck the arithmetic.
 
 Working backwards: if only two isotopes exist, let one abundance be x and the other 100 − x, then solve. The relative atomic mass must lie between the two isotopic masses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
+  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
+  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
 
 ## 2.1.1(e): Mr and relative formula mass
 

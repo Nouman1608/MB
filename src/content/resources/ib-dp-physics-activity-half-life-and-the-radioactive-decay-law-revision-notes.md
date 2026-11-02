@@ -57,6 +57,12 @@ The same factor applies to N, A and corrected count rate. Half-life does not dep
 - Do not halve the background. Only the source's contribution decays.
 - Counts are random, so a longer count time gives a smaller fractional uncertainty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--03-background-correction.webp" width="900" height="1090" alt="Two stacked bars: now 212 counts/min is 12 background plus 200 from the source. After 12 h (4 half-lives of 3.0 h) the source part is 12.5 and background is still 12, giving 24.5. Halving 212 would wrongly give 13.25." loading="lazy">
+  <figcaption>Halve only the corrected count rate; the background does not halve.</figcaption>
+</figure>
+
+
 ## Method: determining a half-life
 
 | Step | What to do |
@@ -71,6 +77,17 @@ The same factor applies to N, A and corrected count rate. Half-life does not dep
 
 Safety: handle sources with tongs, keep them in a shielded store when not in use, keep your distance, and limit exposure time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--01-random-fixed-fraction.webp" width="900" height="1150" alt="Four grids of 64 nuclei show the start and after 1, 2 and 3 half-lives. Gold nuclei are undecayed and dashed grey ones have decayed. Which nuclei go is random, but 32, 16 and 8 are left, which is 1/2, 1/4 and 1/8." loading="lazy">
+  <figcaption>Which nucleus decays is random, yet the fraction left after each half-life is fixed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--04-half-life-from-graph.webp" width="900" height="1010" alt="A decay curve starts at 160 counts per minute and halves every 3.0 h: 80 at 3 h, 40 at 6 h, 20 at 9 h. Arrows mark the time for each halving, all 3.0 h, which are averaged." loading="lazy">
+  <figcaption>Read several halving times from the curve and average them to get the half-life.</figcaption>
+</figure>
+
+
 ## Real-life contexts
 
 | Context | Radiation | Half-life | Reason |
@@ -84,6 +101,17 @@ Safety: handle sources with tongs, keep them in a shielded store when not in use
 **Dating method.** Divide the activity per gram of living material by the activity per gram of the sample. Write the ratio as 2ⁿ. Age = n × T½. Assume the starting activity per gram was the same as in living material today.
 
 Alpha radiation is stopped by paper or a few centimetres of air, so it is no use for gauging or tracing through material, and it is hazardous if the source is inside the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--05-radioisotope-uses.webp" width="900" height="1290" alt="Four rows pair a picture with radiation type and half-life. Medical imaging: gamma, short half-life of hours. Leak tracing: gamma, short. Sheet thickness: beta or gamma, long half-life of months. Dating: carbon-14 beta, 5730 years." loading="lazy">
+  <figcaption>Choose the radiation by what must get through, and the half-life by how long the signal must last.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--06-carbon-dating.webp" width="900" height="1170" alt="Bars of activity per gram of carbon halve from 0.24 Bq (living) to 0.12, 0.060 and 0.030 at 5730, 11 460 and 17 190 years. The bone at 0.030 has ratio 8 = 2 cubed, so 3 half-lives, 17 190 years." loading="lazy">
+  <figcaption>Ratio of activities gives the number of half-lives; multiply by 5730 years.</figcaption>
+</figure>
+
 
 ## HL only: the decay law
 
@@ -105,6 +133,17 @@ Alpha radiation is stopped by paper or a few centimetres of air, so it is no use
 **Probability meaning.** The probability that a given nucleus decays in a short interval Δt is approximately λΔt, but only when λΔt is much less than 1. The exact value is 1 − e^(−λΔt).
 
 **Worked reminder.** Carbon-14 has T½ = 5730 years, so λ = ln2/5730 = 1.21 × 10⁻⁴ year⁻¹. A sample with a quarter of the original activity is at n = 2, so its age is 11 460 years. For a sample at 35% of the original, t = ln(1/0.35)/λ = 8.7 × 10³ years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--07-decay-law-hl.webp" width="900" height="1110" alt="Iodine-131 (half-life 8.0 days) falls to 1/2, 1/4 and 1/8 at 8, 16 and 24 days. At 20 days the curve reads 0.177, so 17.7 percent remains, from lambda = ln2/8.0 = 0.0866 per day and e to the minus 1.73." loading="lazy">
+  <figcaption>N = N0 e^(-lambda t) works for any time, and agrees with (1/2)^2.5 at 20 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--08-decay-probability-hl.webp" width="900" height="1100" alt="The exact probability 1 - e^(-lambda dt) bends below the straight line lambda dt and never exceeds 1. At one half-life the line gives 0.69 but the exact value is 0.50. For technetium-99m over 1.0 h, 0.1155 is about 6 percent above the exact 0.1091." loading="lazy">
+  <figcaption>Use lambda dt as a probability only when it is much smaller than 1.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -144,6 +183,12 @@ Alpha radiation is stopped by paper or a few centimetres of air, so it is no use
 10. T½ = ln2 / 0.025 = **28 s** (27.7 s).
 11. N = 5.0 × 10⁶ × e^(−0.020 × 30) = 5.0 × 10⁶ × e^(−0.6) = **2.7 × 10⁶**.
 12. A = λN = 4.0 × 10⁻⁶ × 2.0 × 10¹² = **8.0 × 10⁶ Bq**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--02-activity-count-rate.webp" width="900" height="1110" alt="A source emits 20 particles in one second in all directions (20 Bq) but only 3 reach the Geiger-Muller detector, so the count rate is 3 per second. Some miss and some are absorbed. Halving the activity halves the count rate for the same set-up." loading="lazy">
+  <figcaption>Count rate is only part of the activity, but they fall in the same proportion.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

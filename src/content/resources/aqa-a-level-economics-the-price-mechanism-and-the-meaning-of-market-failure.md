@@ -70,6 +70,27 @@ Read the chain. The shortage lets bakers raise price (**signal**). Buyers on the
 
 The relative price of inputs changed the method. No instruction was needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--01-sourdough-price-signals.webp" width="900" height="860" alt="Supply and demand diagram for sourdough loaves. Demand D1 is Qd = 600 minus 50P and supply S is Qs = 100P; they cross at price 4 pounds and 400 loaves. Demand rises to D2, Qd = 750 minus 50P. At the old price of 4 pounds, quantity demanded is 550 and quantity supplied is 400, a shortage of 150. The shortage lets bakers raise the price, which acts as the signal (1). The new equilibrium is 5 pounds and 500 loaves. Along D2 quantity demanded falls from 550 to 500 as buyers on the margin drop out (2, rationing). Along S quantity supplied rises from 400 to 500 because of the extra 1 pound per loaf (3, incentive)." loading="lazy">
+  <figcaption>Demand for sourdough rises, the shortage lets the price rise from 4 to 5, and the chain shows signal, rationing and incentive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--02-how-input-prices-pick-method.webp" width="900" height="930" alt="Two panels compare the daily cost of two ways of making the same output. Method L uses 8 workers and 1 machine; Method C uses 3 workers and 3 machines; a machine costs 200 pounds a day. At a wage of 120 pounds, Method L costs 1,160 pounds (960 for workers plus 200 for the machine) and Method C costs 960 pounds (360 plus 600), so the firm chooses Method C. At a wage of 60 pounds, Method L costs 680 pounds (480 plus 200) and Method C costs 780 pounds (180 plus 600), so the firm chooses Method L. A change in the relative price of inputs changed the method with no instruction." loading="lazy">
+  <figcaption>A change in the wage from 120 to 60 flips the cheapest production method with no instruction from anyone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+
 ## Advantages and disadvantages of the price mechanism
 
 | Advantages | Disadvantages |
@@ -100,6 +121,17 @@ A price of £30 clears the market. H1 and H2 buy; revenue is £60 and consumer s
 
 Evaluation: the criticism is strongest for necessities with no substitutes, and weaker where income differences are small or the government can adjust incomes. Whether a result is "unfair" is a normative judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--03-impersonal-price-mechanism.webp" width="900" height="830" alt="Four households have maximum prices (willingness to pay) of 40, 34, 26 and 15 pounds and monthly incomes of 3,000, 1,200, 1,500 and 600 pounds. Two units are on sale and a price of 30 pounds clears the market, so H1 and H2 buy and H3 and H4 are priced out. Revenue is 60 pounds and consumer surplus is 10 plus 4 equals 14 pounds. The 30 pound price is 1 percent of H1 income, 2.5 percent of H2, 2 percent of H3 and 5 percent of H4. H4 low willingness to pay may reflect low income rather than low need, so the market is efficient in its own terms but not necessarily fair." loading="lazy">
+  <figcaption>A price of 30 clears the market but is 1% of one household’s income and 5% of another’s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--02-price-mechanism-for-and-against.webp" width="900" height="930" alt="A balance scale sits above five advantages and five disadvantages of the price mechanism, taken from the lesson's table in shortened form." loading="lazy">
+  <figcaption>The price mechanism has real strengths and real weaknesses to weigh.</figcaption>
+</figure>
+
+
 ## Extending the price mechanism into new areas
 
 Some activities have traditionally relied on gifts, queues or public provision. Arguments for extending the market are better supply, shorter queues and a clear price signal. Arguments against are that payment can change motives and the meaning of the activity.
@@ -111,6 +143,12 @@ Some activities have traditionally relied on gifts, queues or public provision. 
 - Cost after: 12,000 × (15 + 20) = £420,000, or £37.23 per usable unit.
 
 The market raises quantity but cost per usable unit more than doubles. The specification point is that **payment changes the nature of the transaction and the incentives**. People who gave from a sense of duty may stop when giving becomes a sale (crowding out of intrinsic motives), and extrinsic rewards may attract donors with the most reason to hide their health. Judge by weighing the extra supply against quality, cost and the meaning attached to giving. Other examples include charging for road space or charging for school places.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--01-blood-market-cost.webp" width="900" height="1040" alt="Usable blood units rise from 9,800 to 11,280 (+15.1%) when £20 is paid, but cost per usable unit rises from £15.31 to £37.23. The numbers come from the lesson's invented Country B example." loading="lazy">
+  <figcaption>Paying donors raises quantity but more than doubles the cost per usable unit.</figcaption>
+</figure>
+
 
 ## The meaning of market failure
 
@@ -135,6 +173,22 @@ The market raises quantity but cost per usable unit more than doubles. The speci
 
 The market exists, but it misallocates. Detailed treatment is left to the guides on public goods, externalities and policy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--04-missing-market-street-light.webp" width="900" height="1000" alt="Three neighbours would pay 10, 8 and 6 pounds a month for a street light, a total of 24 pounds, which exceeds its cost of 15 pounds a month, so providing it would give a net benefit of 9 pounds. A bar chart shows the cost bar of 15 and the stacked willingness to pay bars reaching 24. The picture below shows a lamp lighting three neighbours who each hope the others will pay. Nobody can be stopped from using the light, so a private firm cannot collect revenue, no market forms, and the 9 pounds of net benefit is lost. This is a complete market failure because the market is missing." loading="lazy">
+  <figcaption>The light is worth 24 to its users against a cost of 15, yet no market forms because nobody can be made to pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--05-partial-failure-overproduction.webp" width="900" height="880" alt="Marginal private benefit MPB is 20 minus 0.05Q, marginal private cost MPC is 4 plus 0.03Q, and each unit imposes an external cost of 2 pounds, so marginal social cost MSC is 6 plus 0.03Q. The market equates MPB and MPC at 200 units and a price of 10 pounds. The social optimum equates MPB and MSC at 175 units and a price of 11.25 pounds. The market overproduces by 25 units. The welfare loss is a triangle with a height of 2 pounds at 200 units and a base of 25 units, so its area is half times 2 times 25 equals 25 pounds. The market exists but misallocates resources." loading="lazy">
+  <figcaption>With an external cost of 2 the market makes 200 units where society wants 175, a welfare loss of 25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ### Overview of causes
 
 | Cause | Why resources are misallocated | Type | Example |
@@ -146,6 +200,17 @@ The market exists, but it misallocates. Detailed treatment is left to the guides
 | Demerit goods | Harms underestimated | Partial | Tobacco |
 | Monopoly and other imperfections | Price above marginal cost, immobile resources, poor information | Partial | A sole supplier |
 | Inequality | Allocation follows income, not need | Partial | Unaffordable essentials |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--03-causes-complete-or-partial.webp" width="900" height="929" alt="Public goods are the complete failure (missing market), for example street lighting. Six other causes are partial failures where the market exists but misallocates, each with the lesson's example." loading="lazy">
+  <figcaption>Complete failure means no market; partial failure means a market that gets it wrong.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
 
 ## Common errors
 

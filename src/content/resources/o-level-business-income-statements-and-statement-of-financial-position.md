@@ -69,6 +69,32 @@ Cash in = 6 000. Cash out = 15 000 + 9 000 = 24 000. Change in cash = 6 000 − 
 
 So the business is profitable but its cash has fallen. With an opening balance of 20 000, cash at the end is only 2 000. Even a profitable business may run short of cash when customers pay late, when it buys assets for cash, or when it repays loans. Taking out a loan raises cash but is not profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--09-profit-purposes.webp" width="900" height="570" alt="Calderfold Kayaks profit after tax of 48,000 splits into dividends 20,000 (reward for risk) and retained profit 28,000 (a source of finance with no interest and no new owners)." loading="lazy">
+  <figcaption>Profit rewards owners for risk and retained profit finances the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--10-vellam-profit-cash.webp" width="900" height="934" alt="Bars show Vellam Bikes profit of 9,000 but cash change of minus 18,000, taking cash from 20,000 to 2,000." loading="lazy">
+  <figcaption>A profitable quarter can still drain cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## 5.3.2 Income statements
 
 An income statement shows how a business's profit was made over a period, usually a year. Here is the layout in the standard form for a limited company. Constructing one is not assessed, so concentrate on what each line means.
@@ -121,6 +147,22 @@ Now Option B (68 280) is slightly ahead. A good evaluation says which option is 
 
 **Limits of income statements in decisions**: they look backwards at a past period; they do not show cash; and forecasts built from them rest on assumptions about sales and costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--08-income-statement-steps.webp" width="900" height="1060" alt="A step-down chart: revenue 480,000, minus cost of sales 288,000 gives gross profit 192,000, minus expenses 132,000 gives profit 60,000, minus tax 12,000 and dividends 20,000 leaves retained profit 28,000." loading="lazy">
+  <figcaption>How each line of an income statement is taken from the one above to reach retained profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--09-option-compare.webp" width="900" height="1070" alt="Bars compare profit against the current 60,000: option A 84,000, option B 68,280, and option A if sales fall 8 percent 66,720, so B is slightly ahead." loading="lazy">
+  <figcaption>The better option can change when you test the assumption about customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## 5.4 Statement of financial position
 
 A statement of financial position shows what a business owns (assets), what it owes (liabilities) and how it is financed, on one date.
@@ -136,6 +178,12 @@ A statement of financial position shows what a business owns (assets), what it o
 | Equity (owners' funds) | Money owners have put in or left in | Share capital, retained profit |
 
 The syllabus uses "debtors" in its cash-flow section. Receivables and payables are the usual statement-of-financial-position names for debtors and creditors, so treat them as the same thing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
 
 ### The shape of a statement
 
@@ -175,6 +223,17 @@ Ask three questions of any statement.
 
 **3. Can it meet its short-term debts?** Current assets (89 000) exceed current liabilities (56 000), so there is working capital of 33 000. Take away the inventories, though, and only 23 000 of current assets (receivables and cash) are available to cover 56 000 of debts. Lantern Quay depends on selling its stock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--10-sofp-lantern.webp" width="900" height="1150" alt="Two columns of equal height 329. Left: non-current assets 240, inventories 66, receivables plus cash 23. Right: equity 183, long-term bank loan 90, current liabilities 56. Net assets 183 equal equity; working capital is 33." loading="lazy">
+  <figcaption>Assets are paid for by owners and lenders, so the two sides balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--12-capital-employed-split.webp" width="900" height="570" alt="Capital employed 273,000 equals total assets 329,000 less current liabilities 56,000, financed 67.0% by equity (183,000) and 33.0% by a bank loan (90,000)." loading="lazy">
+  <figcaption>Capital employed and its 67.0% / 33.0% financing split.</figcaption>
+</figure>
+
+
 ### Selling inventories to raise finance
 
 A business short of cash can sell inventories. Suppose Lantern Quay sells 30 000 of its inventories at cost for cash:
@@ -183,6 +242,12 @@ A business short of cash can sell inventories. Suppose Lantern Quay sells 30 000
 - Current assets stay at 89 000 but are more liquid. The overdraft of 15 000 can be cleared, leaving cash of 24 000.
 
 If the stock has to be sold for less than cost, say 24 000 for 30 000 of stock, the business raises less cash (cash up by 24 000) and makes a loss of 6 000, so retained profit falls to 77 000 and net assets to 177 000. Selling off inventories may also leave too little to serve customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--11-sell-inventories.webp" width="900" height="872" alt="Three columns of current assets: before, stock sold at cost, stock sold below cost, with the effect on cash, loss, retained profit and net assets." loading="lazy">
+  <figcaption>Selling stock at cost raises cash with no loss; selling below cost raises less and creates a loss.</figcaption>
+</figure>
+
 
 ## Common errors
 

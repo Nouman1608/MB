@@ -66,6 +66,17 @@ Worked reminders:
 - (1 − x)⁻¹ = 1 + x + x² + x³ + …, valid for |x| < 1.
 - (2 + x)⁻¹ = (1/2)(1 + x/2)⁻¹ = (1/2)(1 − x/2 + x²/4 − …) = 1/2 − x/4 + x²/8 − …, valid for |x| < 2. Taking out 2⁻¹ = 1/2 first is the step that is most often skipped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--07-pascal-binomial.webp" width="900" height="1130" alt="Pascal’s triangle for n = 0 to 6, each entry the sum of the two above; row 5 (1, 5, 10, 10, 5, 1) is highlighted and 10 is shown as 4 + 6. Below, a bar chart of the six terms of (4 + 3x)^5: 1024, 3840x, 5760x^2, 4320x^3, 1620x^4, 243x^5. At x = 1 they add to 7^5 = 16807." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the binomial coefficients; the terms of (4 + 3x)^5 sum to 7^5 at x = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--08-binomial-validity.webp" width="900" height="980" alt="A graph of y = (1 - 3x)^(-1/2) with its series up to x cubed, 1 + 3x/2 + 27x^2/8 + 135x^3/16. A shaded band shows the range of validity, x between minus one third and one third. The series matches near zero but the curves separate outside the band and near the asymptote at x = 1/3." loading="lazy">
+  <figcaption>The series for a rational power only represents the function when |bx/a| &lt; 1.</figcaption>
+</figure>
+
+
 ## D2 -- Sequences
 
 - **nth-term formula:** uₙ given directly; substitute n.
@@ -81,6 +92,17 @@ uₙ₊₁ − uₙ = 1/(n + 2) − 1/(n + 1) = −1/((n + 1)(n + 2)) < 0
 ```
 
 so the sequence is decreasing for every n ≥ 1, and the terms approach 2 from above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--05-sequence-behaviour.webp" width="900" height="1110" alt="Three plots of terms against n. u_n = n squared minus 8n falls to its least value, minus 16 at n = 4, then rises. The recurrence x_(n+1) = 1/(1 - x_n) with x_1 = 3 gives 3, minus one half, two thirds, then repeats every three terms. u_n = (3n - 1)/(n + 2) increases for ever but stays below the limit 3." loading="lazy">
+  <figcaption>Sequences can decrease then increase, repeat in a cycle, or climb towards a limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--06-recurrence-cobweb.webp" width="900" height="1140" alt="A cobweb diagram for x_(n+1) = 0.6x_n + 8 with x_1 = 5. The lines y = 0.6x + 8 and y = x are drawn. The path steps from 5 through 11, 14.6 and 16.76 and closes in on where the lines cross at L = 20, found by solving L = 0.6L + 8." loading="lazy">
+  <figcaption>A recurrence settles at the limit L where L = f(L); the cobweb shows the terms closing in on it.</figcaption>
+</figure>
+
 
 ## D3 -- Sigma notation
 
@@ -129,6 +151,12 @@ Worked reminders:
 Worked reminder: a ball dropped from 2 m rebounds to 60% of its previous height each time. The rebound heights 1.2, 0.72, … form a geometric series with S∞ = 1.2/(1 − 0.6) = 3. Each rebound is travelled up and down, so the total distance is 2 + 2 × 3 = 8 m. The model predicts infinitely many bounces, which is its obvious limitation.
 
 Always say what n counts and whether term 1 is "now" or "after one step". Name one limitation: growth cannot continue forever, rates change, money is in whole pence. For modelling as an overarching theme, see the [overarching themes guide](/resources/aqa-a-level-mathematics-overarching-themes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--01-ap-vs-gp.webp" width="900" height="1060" alt="Two bar charts of six terms each. The arithmetic progression 5, 8, 11, 14, 17, 20 adds 3 each time, so the added amount on top of each bar is the same height every time. The geometric progression 3, 6, 12, 24, 48, 96 doubles each time, so the added amount grows. Three consecutive terms satisfy 2b = a + c for an arithmetic progression (8, 11, 14) and b squared = ac for a geometric one (6, 12, 24)." loading="lazy">
+  <figcaption>An arithmetic progression adds the same amount each time; a geometric progression multiplies by the same ratio.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,6 +207,12 @@ Always say what n counts and whether term 1 is "now" or "after one step". Name o
 - Miscounting terms in sigma notation that does not start at r = 1.
 - Losing the minus sign in r when solving r³ = negative number.
 - In models, giving an answer with no context or units, or calling a geometric model "linear".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
 
 ## Next steps
 

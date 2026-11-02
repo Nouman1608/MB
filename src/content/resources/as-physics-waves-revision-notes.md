@@ -56,6 +56,17 @@ v = f λ            f = 1 / T
 
 **Intensity ∝ amplitude²** — doubling the amplitude quadruples the intensity. And intensity ∝ 1/r² for an **ideal isotropic point source radiating equally in all directions with negligible absorption**, since the same total power is spread over the surface of an ever-larger sphere as distance from the source increases — doubling the distance from such a source cuts the intensity to a quarter, not a half. A directional source, a source near a reflecting boundary, or significant absorption in the medium can all make the real fall-off deviate from a simple inverse-square law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+
 ## Transverse vs longitudinal
 
 | | Transverse | Longitudinal |
@@ -72,6 +83,12 @@ v = f λ            f = 1 / T
 - **Ripple tank** → a vibrating bar gives straight wavefronts, a dipper gives circular ones; a lamp above projects crests as bright lines (spacing on the screen = λ × magnification); a stroboscope at the wave frequency "freezes" the pattern so λ can be measured and v = fλ found; a floating object bobs up and down without moving along.
 
 Only transverse waves can be polarised — the standard reason sound cannot be, since a longitudinal oscillation has only one direction (parallel to travel) to begin with, so there is no second plane for a filter to restrict it to.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
 
 ## Polarisation and Malus's law
 

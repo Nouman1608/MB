@@ -86,6 +86,17 @@ Check the reverse. If the price rises from 2 cu to 4 cu, quantity falls from 20 
 
 Careful wording: the demand curve does not move here. Say "extension of demand" or "increase in quantity demanded". Do not say "increase in demand".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--01-un155-demand-movement.webp" width="900" height="1010" alt="Demand curve for ice lollies with the price falling from 4 to 2 cu: quantity moves from 10 to 20 along the same curve, +100%, and the reverse is -50%." loading="lazy">
+  <figcaption>A price change slides you along the same demand curve, and the percentage depends on the start point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+
 ## 2.3.3 Individual and market demand
 
 **Individual demand** is one buyer's demand. **Market demand** is the demand of all buyers in the market. You find it by **aggregation**: add the quantities demanded at each price. On a diagram this is a horizontal sum.
@@ -103,6 +114,12 @@ At 4 cu: 6 + 2 + 2 = 10. Household B buys nothing at 5 cu, so it adds zero at th
 **Worked example (shares).** At 2 cu, Household B's share of market demand is 6/20 × 100 = **30%**. At 4 cu, Household C's share is 2/10 × 100 = **20%**.
 
 Never add prices. Prices stay the same down the column; only quantities are added.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--01-eco36-market-demand.webp" width="900" height="1000" alt="Price against quantity demanded per day. Household demand curves A, B and C slope down and the market curve lies to the right of all three. At 4 cu the households buy 6, 2 and 2, so the market buys 10. A stacked bar shows the quantities being added." loading="lazy">
+  <figcaption>Market demand is found by adding quantities at each price: a horizontal sum.</figcaption>
+</figure>
+
 
 ## 2.3.4 Conditions of demand and shifts
 
@@ -139,6 +156,22 @@ The new curve D1 lies to the right of D0. At 4 cu, demand has gone from 10 to 18
 
 **Worked example (number of buyers).** Suppose 200 identical households each buy 3 lollies at 2 cu, so market quantity is 600. The number of households rises 15% to 230. Market quantity at 2 cu becomes 230 × 3 = 690, an increase of 90. Demand has increased.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--02-eco36-demand-shift.webp" width="900" height="950" alt="Two parallel downward demand curves D0 and D1. D1 is 8 units to the right at every price. At a price of 4 cu quantity demanded rises from 10 to 18 without any change in price." loading="lazy">
+  <figcaption>A non-price cause shifts the whole demand curve right: an increase in demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--03-un155-demand-conditions.webp" width="900" height="970" alt="Six small graphs show the old demand curve in grey and the new one in colour: normal-good income, inferior-good income, substitute price, complement price, expectations and weather." loading="lazy">
+  <figcaption>Whether D shifts right or left depends on the condition and the type of good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## 2.4.1 Supply and its diagram
 
 **Supply** is how much of a good or service sellers are ready and able to put on the market at each price over a stated period. Here is the daily supply of loaves from three bakers, X, Y and Z, in Village V (illustrative).
@@ -174,11 +207,28 @@ Only the good's own price slides you along the same supply curve.
 
 **Worked example.** The price rises from 2 cu to 4 cu. Market supply rises from 10 to 30, so it extends by 20. Percentage change = (30 − 10)/10 × 100 = **+200%**. If the price falls back from 4 cu to 2 cu: (10 − 30)/30 × 100 = **−66.7%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--02-un155-supply-movement.webp" width="900" height="1010" alt="Supply curve for loaves from three bakers. The price rising from 2 to 4 cu moves quantity from 10 to 30 along S (+200%); the reverse is -66.7%." loading="lazy">
+  <figcaption>Own price moves you along the supply curve, not the curve itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+
 ## 2.4.3 Individual and market supply
 
 Market supply is the sum of firms' supplies at each price, as in the table above. At 5 cu: 16 + 14 + 10 = 40. At 5 cu, Baker Z supplies 10/40 × 100 = **25%** of the market. At 3 cu, Baker X supplies 8/20 × 100 = **40%**.
 
 If a fourth baker, W, enters and supplies 3 loaves at every price from 2 cu up, market supply becomes 0, 13, 23, 33, 43. The number of sellers has risen, so supply has increased.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--04-un155-buyers-sellers.webp" width="900" height="1115" alt="Top: 200 households buying 600 lollies rise 15% to 230 households buying 690. Bottom: supply 10,20,30,40 becomes 13,23,33,43 when baker W enters." loading="lazy">
+  <figcaption>More buyers shift demand right and more sellers shift supply right.</figcaption>
+</figure>
+
 
 ## 2.4.4 Conditions of supply and shifts
 
@@ -204,6 +254,17 @@ Supply shifts when something other than the good's own price changes.
 
 **Worked example (tax).** A tax of 1 cu per loaf means bakers need 1 cu more per loaf to supply the same quantity. Before the tax, 20 loaves were supplied at 3 cu. After the tax, 20 loaves are supplied at 4 cu, since 4 cu − 1 cu = 3 cu reaches the bakers. At 5 cu, supply is 30 (the old 4 cu quantity), at 3 cu it is 10 and at 2 cu it is 0. The curve shifts up and left. A subsidy of 1 cu does the reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--03-eco36-supply-tax.webp" width="900" height="950" alt="Two upward supply curves S1 and S2. After a 1 cu tax per loaf S2 lies one price unit above S1. Twenty loaves need 3 cu on S1 but 4 cu on S2, so supply has decreased." loading="lazy">
+  <figcaption>An indirect tax raises costs and decreases supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Movement or shift? A method
 
 1. Underline what changed. Is it the good's own price?
@@ -217,6 +278,12 @@ Supply shifts when something other than the good's own price changes.
 **Chain of reasoning, demand.** "A rise in the price of train tickets makes bus travel relatively cheaper. Some commuters switch, so demand for bus travel increases at every price. The curve shifts right."
 
 Consider the limits of these arguments. Several things may change at once, so you may not know the net effect without sizes. An increase in income raises demand for a normal good but cuts demand for an inferior good. Supply may react slowly, for example when crops take months to grow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts--04-eco36-move-or-shift.webp" width="900" height="980" alt="A decision path starting with whether the good’s own price changed. Yes leads to movement along the same curve (extension or contraction). No leads to a shift of the demand or supply curve; right is an increase, left a decrease." loading="lazy">
+  <figcaption>First ask whether the good’s own price changed.</figcaption>
+</figure>
+
 
 ## Common errors
 

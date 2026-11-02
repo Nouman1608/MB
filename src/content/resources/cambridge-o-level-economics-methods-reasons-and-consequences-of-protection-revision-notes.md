@@ -57,6 +57,22 @@ These notes condense sections 6.2.4 to 6.2.6 of the Cambridge O Level Economics 
 
 **Subsidy reminder.** A subsidy of 15 on 145 units costs 15 x 145 = 2,175. Buyers still pay the world price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--06-tariff-chair-market.webp" width="900" height="900" alt="Price and quantity graph for chairs in Country P. Downward demand D and upward home supply S. The world price is 80, where buyers want 940 and home firms make 100, so 840 are imported. A tariff of 20 lifts the price to 100: buyers want 800 and home firms make 160, so 640 are imported. Shaded areas: home firms gain 2,600, the government collects 20 times 640 equals 12,800, and two triangles worth 600 and 1,400 are lost to the country, a total of 2,000. Buyers lose 17,400 in all." loading="lazy">
+  <figcaption>A tariff of 20 lifts the chair price from 80 to 100 and cuts imports from 840 to 640; areas show home firms +2,600, government 12,800 and a 2,000 net loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--07-four-methods-compared.webp" width="900" height="920" alt="Paired bars for chairs in Country P. Free trade: buyers pay 80 and 840 are imported. Tariff of 20: price 100, imports 640, the government collects 12,800. Quota of 640: same price and imports, but licence holders get the 12,800. Subsidy of 15 to home makers: buyers still pay 80, imports fall only to 795, and taxpayers pay 2,175. Embargo: imports stop and the price rises to 164, a rise of 105 percent." loading="lazy">
+  <figcaption>A tariff and a quota give the same price and imports, a subsidy leaves the price unchanged, and an embargo stops imports and raises the price most.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--01-subsidy-supply-shift.webp" width="900" height="900" alt="Price and quantity graph for chairs in Country P. Demand D slopes down and home supply S1 slopes up. A subsidy of 15 per chair lowers the supply curve by 15 to S2. At the world price of 80 the home firms now make 145 chairs instead of 100, while buyers still pay 80 and want 940, so imports fall from 840 to 795. The shaded rectangle between prices 80 and 95 and quantity 145 is the cost to taxpayers: 15 times 145 equals 2,175. Imports fall less than under the tariff of 20, where they fell to 640." loading="lazy">
+  <figcaption>A subsidy of 15 lowers home supply from S1 to S2, so home output rises from 100 to 145 at the world price of 80, imports fall to 795 and taxpayers pay 15 x 145 = 2,175.</figcaption>
+</figure>
+
+
 ## Quota reminder
 
 A quota of 640 chairs in the same market gives the same home price of 100 as the tariff of 20, because imports of 640 fill the gap between demand (800) and home output (160). The extra 20 per chair, 20 x 640 = 12,800, goes to whoever holds the import licences. If foreign sellers hold them, the gain leaves the country. If the government sells them, it collects the money.
@@ -91,6 +107,17 @@ A ban on all imports leaves only home supply. In the example, price rises from 8
 
 **Dumping check.** A seller charges 38 abroad and 52 at home. A tariff of 14 closes the gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--08-infant-industry-cost.webp" width="900" height="850" alt="Column chart of average cost per bottle at four output levels: 80 dollars at 1,000 bottles, 63 at 2,000, 59 at 3,000 and 58 at 4,000, from total costs of 80,000, 126,000, 177,000 and 232,000. A dashed line shows the import price of 60. The plant loses to imports at 1,000 and 2,000 but beats them from 3,000, so protection is justified until about 3,000 units." loading="lazy">
+  <figcaption>Average cost per bottle falls from 80 to 58 as output rises, and drops below the import price of 60 at 3,000 bottles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--10-dumping-below-cost.webp" width="900" height="850" alt="Column chart for a foreign glass maker: cost to make 45 dollars, price at home 52, and price in Country P only 38. The price in Country P is below both cost and home price, which is dumping. A dashed outline shows a tariff of 14 lifting the import price from 38 to the home price of 52." loading="lazy">
+  <figcaption>A seller whose cost is 45 and home price 52 sells at 38 in Country P, below both, so a tariff of 14 lifts the price to the home price.</figcaption>
+</figure>
+
+
 ## Consequences (6.2.6)
 
 | Group | Likely effect |
@@ -113,6 +140,17 @@ A ban on all imports leaves only home supply. In the example, price rises from 8
 - Smuggling and evasion.
 
 **Partner effect check.** Exports of 840 at 80 = 67,200 fall to 640 at 80 = 51,200. Fall = 16,000, or 23.8%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--09-tariff-effectiveness-elasticity.webp" width="900" height="910" alt="Two panels. A tariff raises the import price from 40 to 44, a rise of 10 percent. If demand for imports is inelastic, imports fall only from 2,000 to 1,900 (minus 5 percent), elasticity minus 0.5, revenue 4 times 1,900 equals 7,600, and home firms are barely helped. If demand is elastic, imports fall to 1,400 (minus 30 percent), elasticity minus 3.0, revenue 4 times 1,400 equals 5,600, and home firms gain far more." loading="lazy">
+  <figcaption>A 10% rise in the import price cuts imports by only 5% when demand is inelastic (-0.5) but 30% when elastic (-3.0).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection--02-tariff-trading-partner.webp" width="900" height="820" alt="Two bars show export revenue of Country R, the seller of chairs to Country P. Before the tariff R sells 840 chairs at 80, revenue 67,200. After the tariff of 20 in Country P it sells 640 chairs at 80, revenue 51,200, a fall of 16,000 or 23.8 percent, shown as a dashed empty block. Below, arrows show Country P taxing R chairs and Country R possibly retaliating with its own tariffs on P goods, so both sides lose sales. Jobs may be lost in the R chair industry." loading="lazy">
+  <figcaption>Country R export revenue falls from 840 x 80 = 67,200 to 640 x 80 = 51,200, down 16,000 (23.8%), and Country R may retaliate with its own tariffs.</figcaption>
+</figure>
+
 
 ## Putting protection in context
 

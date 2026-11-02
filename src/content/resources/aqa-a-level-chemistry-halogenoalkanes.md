@@ -114,6 +114,12 @@ theoretical mass = 0.100 × 83.0 = 8.30 g
 % yield = 5.81 ÷ 8.30 × 100 = 70.0%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ### Ammonia: halogenoalkane → primary amine
 
 Reagent and conditions: **excess** ammonia dissolved in ethanol, heated in a sealed container (under
@@ -150,6 +156,12 @@ Polarity runs the other way. The C–F bond is the most polar, so on polarity al
 fluoroalkanes react fastest. In fact, they react slowest. So the **bond enthalpy, not the polarity**, decides
 the rate: less energy is needed to break a C–I bond, so iodoalkanes react fastest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--04-bond-enthalpy-rate.webp" width="900" height="1110" alt="Bars of mean bond enthalpy C-F 470, C-Cl 350, C-Br 290, C-I 230 kJ/mol with a rate indicator, plus a note that C-F is the most polar yet slowest, so bond enthalpy not polarity decides the rate." loading="lazy">
+  <figcaption>The weaker the C-X bond, the faster it hydrolyses; polarity predicts the opposite order.</figcaption>
+</figure>
+
+
 ### Test-tube hydrolysis: comparing rates
 
 The specification suggests a test-tube comparison. A typical method:
@@ -176,6 +188,12 @@ Step 3: explanation: the C–I bond has the lowest bond enthalpy, so it breaks m
 
 Keep temperature, volumes and chain length the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--05-silver-nitrate-test.webp" width="900" height="990" alt="Three tubes in one water bath with AgI yellow, AgBr cream and AgCl white precipitates after 45 s, 540 s and over 30 min, with Ag+ + X- -&gt; AgX." loading="lazy">
+  <figcaption>Water hydrolyses the halogenoalkane and the halide ion precipitates with Ag+; the iodoalkane gives its precipitate first.</figcaption>
+</figure>
+
+
 ### Preparing and purifying a chloroalkane
 
 A tertiary alcohol such as 2-methylpropan-2-ol reacts with concentrated hydrochloric acid at room
@@ -196,6 +214,27 @@ temperature:
    boiling point.
 
 If you are unsure which layer is organic, add a little water and see which layer gets bigger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--03-ammonia-mechanism.webp" width="900" height="910" alt="Step 1: the N lone pair attacks C and the C-Br pair moves to Br, giving CH3CH2NH3+ and Br-. Step 2: a second NH3 takes H+, giving ethylamine and NH4+." loading="lazy">
+  <figcaption>Ammonia acts twice, first as a nucleophile and then as a base, giving ethylamine and NH4+ (AQA, Edexcel, OxfordAQA; OCR teaches it later).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 3.3.3.2 Elimination
 
@@ -237,6 +276,17 @@ and ends between the two carbons, forming the C=C.
 If the two carbons next to the C–X carbon are different, elimination can give more than one alkene; check
 each product for E–Z isomerism (3.3.1.3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--07-substitution-vs-elimination.webp" width="900" height="1050" alt="2-bromopropane with warm aqueous KOH gives propan-2-ol (OH- as nucleophile); with hot ethanolic KOH under reflux it gives propene, water and bromide (OH- as base)." loading="lazy">
+  <figcaption>Solvent and temperature decide whether hydroxide substitutes or eliminates (AQA, Edexcel, OxfordAQA; not in the OCR lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--08-elimination-mechanism.webp" width="900" height="1070" alt="Arrow 1 from an O lone pair to an H on the carbon next to C-Br, arrow 2 from that C-H bond into the C-C bond forming C=C, arrow 3 from C-Br to Br. Products are propene, water and bromide." loading="lazy">
+  <figcaption>Hydroxide takes a proton from the neighbouring carbon, the C-H pair becomes the C=C bond and Br leaves.</figcaption>
+</figure>
+
+
 ## 3.3.3.3 Ozone depletion
 
 **Ozone, O₃,** forms naturally in the upper atmosphere. It is beneficial because it **absorbs ultraviolet
@@ -273,6 +323,12 @@ molecules. This contributes to the hole in the ozone layer.
 community provided evidence for legislation to ban the use of CFCs as solvents and refrigerants. Chemists
 have since developed alternative **chlorine-free** compounds, such as hydrofluorocarbons (HFCs), which
 contain no C–Cl bond to release chlorine atoms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--09-cfc-ozone-cycle.webp" width="900" height="1110" alt="UV breaks C-Cl in CCl2F2 to give a Cl atom; Cl + O3 -&gt; ClO + O2 and ClO + O3 -&gt; Cl + 2 O2; net 2 O3 -&gt; 3 O2. OCR tag: NO radicals or Br atoms work the same way." loading="lazy">
+  <figcaption>A Cl atom from a CFC is regenerated in the cycle, so it catalyses 2 O3 -&gt; 3 O2 (AQA and OCR; OxfordAQA does not include ozone).</figcaption>
+</figure>
+
 
 ## Common errors
 

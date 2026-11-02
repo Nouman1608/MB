@@ -63,6 +63,22 @@ Resources: the annual marketing budget is £300 000, which is 6.25% of current s
 
 Judgement: planning is most valuable when the market is fairly stable and spending is large. In a fast-changing market the plan needs regular review.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--06-olmera-plan-numbers.webp" width="900" height="990" alt="Market share bars: 8 percent now (4.8 million in a 60 million market) and an 11 percent target in two years (7.28 million in a 66.15 million market), needing 51.6 percent more sales. The 300,000 pound budget splits research 8, product 22, promotion 45, place 25 percent." loading="lazy">
+  <figcaption>Olmera: turning a share target into a sales target and a budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--06-planning-gains-costs.webp" width="900" height="818" alt="Five stages in order: research, objectives, resources, marketing mix, results against targets. Benefits sit on the left and limitations on the right beside the stage where they arise." loading="lazy">
+  <figcaption>Where each benefit and limit of marketing planning shows up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--02-marketing-planning-chain.webp" width="900" height="730" alt="A chain: the corporate objective must be supported by the marketing objectives (market share, brand awareness), which are reached through the marketing mix strategy (the seven Ps). Market research informs the objectives and sales forecasts (HL only) inform the plan. An illustrative bar shows market share of 12% against a 15% target." loading="lazy">
+  <figcaption>Marketing objectives must support the corporate objective and are met through the marketing mix, informed by research and forecasts.</figcaption>
+</figure>
+
+
 ## 8.2.2 Approaches to marketing strategy
 
 ### Consistency with the business, the product and the market
@@ -78,6 +94,12 @@ A mismatch shows up as wasted spend. For example, a budget-priced product promot
 ### A coordinated strategy
 
 A coordinated strategy means the four parts of the marketing mix, and the other functions, support one clear message. If the product is premium, the price, packaging, promotion and retailers should all say premium. It needs developing over time: set the objective, research, choose the target segment and position, design the mix, implement, then monitor and adjust. Coordination also covers the other departments. Operations must be able to supply what the campaign promises, finance must release the budget, and human resources must supply trained staff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ### Strategies focused on specific marketing objectives
 
@@ -98,6 +120,12 @@ In a case study, quote the objective first, then show which parts of the mix ser
 Information technology lets a business gather and use data on a large scale: online sales records, website visits, social media activity, customer databases and loyalty-card data. This supports research, segmentation and personalised promotion, and it makes e-commerce and online distribution possible.
 
 Artificial intelligence goes further. It can analyse large data sets to spot buying patterns, forecast demand, adjust prices automatically, recommend products to individual customers, answer customer questions through chatbots and help to create promotional content. Benefits include speed, lower unit costs and more precise targeting. Limitations include the cost of systems and skills, errors if the data is poor, customer concern about privacy and loss of the personal touch. Evaluate by size and market: a small local business may gain little, whereas an online retailer with millions of transactions may gain a great deal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--07-it-ai-data-to-decisions.webp" width="900" height="1040" alt="IT collects data (online sales, website visits, social media, loyalty cards), AI analyses it, and marketing uses it for patterns, demand forecasts, automatic prices, recommendations, chatbots and content. Gains: speed, lower unit costs, targeting. Limits: cost, poor data, privacy, less personal touch." loading="lazy">
+  <figcaption>From data to decisions, with the gains and limits of AI.</figcaption>
+</figure>
+
 
 ## 8.2.3 International marketing
 
@@ -133,12 +161,24 @@ Veldrath Tea compares three markets. Each criterion has a weight out of 100, and
 
 Weighted totals (out of 500): X = 120 + 75 + 40 + 75 + 40 = 350. Y = 150 + 100 + 40 + 30 + 30 = 350. Z = 90 + 125 + 80 + 60 + 20 = 375. Market Z scores highest. Two markets tie, so a judgement is needed, and Z's lead depends on the weights and on scores that are themselves opinions. If cultural fit mattered more, Z would fall back. Present the table as an aid to decision, not as proof.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--07-market-selection-scores.webp" width="900" height="930" alt="Stacked bars of weight times score for markets X, Y and Z: totals 350, 350 and 375 out of 500. Z leads, X and Y tie, and the ranking depends on weights and opinion-based scores." loading="lazy">
+  <figcaption>Weighted scoring: Z leads, but the judgement depends on the weights.</figcaption>
+</figure>
+
+
 ### Pan-global marketing or local differences
 
 - **Pan-global marketing** uses one product, brand and message worldwide. Benefits: economies of scale, consistent brand, lower promotion costs. Risk: it may ignore tastes, laws or culture.
 - **Maintaining local differences** adapts the mix to each market. Benefits: closer fit with customers. Costs: higher costs and a possibly weaker global brand.
 
 Choose by looking at the product and the market. Products with universal appeal (such as technology goods) suit a pan-global approach. Food, clothing and services tied to culture often need adaptation. Many businesses keep the brand global and adapt other parts of the mix.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--07-standardise-or-adapt.webp" width="900" height="960" alt="Standardisation sends one identical product and approach to every market, giving lower cost but less local fit. Adaptation tailors the product to each market, giving more relevance but higher cost. Markets differ in culture, language, legal requirements and consumer behaviour." loading="lazy">
+  <figcaption>Standardisation lowers cost; adaptation improves local relevance; the best choice depends on the product and markets.</figcaption>
+</figure>
+
 
 ### Choosing a strategy to develop a global market and the method of entry
 
@@ -165,6 +205,17 @@ Pavonia Furniture compares three entry methods. Figures are in £000.
 | Own subsidiary | 400 | 210 | 230 | 1.90 years |
 
 Net over 3 years = 3 × annual figure − set-up cost. Payback = set-up cost ÷ annual figure. The subsidiary gives the highest return and full control but ties up the most money and carries the most risk. Licensing repays almost immediately but gives up control of quality. A sound answer weighs these against the owner's priorities rather than picking the biggest number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--08-entry-method-comparison.webp" width="900" height="1010" alt="Bars compare set-up cost and three-year income for licensing (30, 210), joint venture (200, 360) and own subsidiary (400, 630), in thousands of pounds, with net 180, 160, 230 and payback 0.43, 1.67, 1.90 years." loading="lazy">
+  <figcaption>Pavonia: licensing repays fastest; a subsidiary returns most but ties up most money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
 
 ## Common errors
 

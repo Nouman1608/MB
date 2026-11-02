@@ -65,6 +65,12 @@ The two overlap. A head of department who sets a timetable is managing. When the
 
 Notice the pattern. Each point names the idea, quotes a detail from the stem and links the two with a reason. That is what AO2 asks for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--08-calder-fenn-manager-leader.webp" width="900" height="840" alt="Marit’s calendar and drawing assignments are organizing, her Friday budget check is controlling, and her school-buildings announcement is leadership because it sets direction and influences staff." loading="lazy">
+  <figcaption>Marit manages and leads in the same job.</figcaption>
+</figure>
+
+
 ## Leadership styles
 
 The guide names five styles. The official text does not define them, so the descriptions below are standard accounts. In an answer, show you can recognize a style from behavior, not from a label alone.
@@ -113,6 +119,12 @@ Factors a situational leader weighs include:
 - the leader's own strengths
 - the culture and size of the organization
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--09-situational-factors.webp" width="900" height="800" alt="Five factors feed a leader who picks a style: autocratic, paternalistic, democratic or laissez-faire. No single style is best." loading="lazy">
+  <figcaption>Situational leaders choose the style to fit the situation.</figcaption>
+</figure>
+
+
 ### Choosing between styles: a comparison
 
 | Style | Who decides | Staff input | Speed | Typical risk |
@@ -122,6 +134,17 @@ Factors a situational leader weighs include:
 | Democratic | Group, led by the leader | High | Slow | Delay, compromise |
 | Laissez-faire | Staff | Very high | Varies | Lack of direction |
 | Situational | Depends on circumstances | Varies | Varies | Inconsistency if style shifts without explanation |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--12-style-input-suits.webp" width="900" height="800" alt="Bars show staff input rising from autocratic (very low) through paternalistic (low) and democratic (high) to laissez-faire (very high), with speed and the situations each style suits." loading="lazy">
+  <figcaption>Staff input and best-fit situations for the four named styles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
+
 
 ### Worked example: evaluating a style
 
@@ -134,6 +157,17 @@ Factors a situational leader weighs include:
 3. Judgement: her ability to switch is the strongest feature of her leadership. It suggests a situational approach. The risk is that staff may find the change confusing, so she should explain why she acts differently in a crisis. A manager who used one style all the time would probably handle at least one of these two events badly.
 
 That final step is the AO3 skill: a conclusion backed by criteria such as urgency, expertise and risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--11-pindlebrook-two-styles.webp" width="900" height="1000" alt="At 5 am the manager decides alone and tells three shift leads (autocratic, urgent and safety at stake). Two months later staff vote on three proposals (democratic). Switching style is a situational approach." loading="lazy">
+  <figcaption>One manager, two styles, each fitted to the situation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
 
 ## Scientific and intuitive thinking/management (HL only)
 
@@ -151,6 +185,12 @@ This point is labelled HL only in the guide, and it is taught at AO2. The guide 
 | Risk | Over-reliance on data that is old or incomplete | Bias, error, difficulty justifying the decision to others |
 
 Good HL answers avoid presenting one as always right. Managers often combine both: they test an idea with data and then use judgement on the final call. For application, ask what data the business actually has and how much time the decision allows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--10-sci-vs-intuitive.webp" width="900" height="910" alt="Scientific management runs data to analysis to decision and is often slower; intuitive runs experience to judgement to decision and is often quick. Each has conditions where it is best; managers often combine both. HL only." loading="lazy">
+  <figcaption>Two routes to a decision, and when each fits.</figcaption>
+</figure>
+
 
 ## Common errors
 

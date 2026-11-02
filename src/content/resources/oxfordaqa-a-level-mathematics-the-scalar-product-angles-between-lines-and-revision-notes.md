@@ -51,6 +51,12 @@ The scalar product is a number. The answer is never a vector.
 - **Perpendicular distance**: the length PX, the shortest distance from P to the line.
 - **Skew lines**: lines in three dimensions that are neither parallel nor intersecting. They still have an angle between them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--04-collinear-proof.webp" width="900" height="1029" alt="Trapezium ABCD with AB = a, AD = b, DC = 2a and F on AC with AF:FC = 1:2. Then BF = one third of BD, so B, F and D are collinear and BF:FD = 1:2." loading="lazy">
+  <figcaption>Write each vector in terms of a and b; two parallel vectors sharing a point prove the points are collinear.</figcaption>
+</figure>
+
+
 
 ## Method: angle between two lines
 
@@ -92,6 +98,17 @@ p = 1/7 or p = 1
 
 Squaring can introduce roots that give the supplementary angle. Here p + 2 is positive for both values, so both give 45°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--07-intersect-or-skew.webp" width="900" height="916" alt="Top views of two pairs of 3D lines. l1 and l2 cross at (5, 4) and both have z = 5 there, so they intersect at (5, 4, 5). l1 and l3 cross in the top view at (-1, 1) but have z = -4 and z = 2, so they are skew." loading="lazy">
+  <figcaption>Two lines can cross in a top view and still miss; the third component decides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
+  <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
+</figure>
+
+
 ## Method: foot of the perpendicular
 
 For P and line l: r = a + td:
@@ -127,6 +144,12 @@ distance² = |AP|² − (AP.d / |d|)²
 
 Use this when the question asks only for the distance. If it asks for the foot, you still need t.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
+  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Scalar product versus vector: one is a number, the other a vector.
@@ -135,6 +158,17 @@ Use this when the question asks only for the distance. If it asks for the foot, 
 - Perpendicular distance versus distance to a point on the line: only the foot gives the shortest distance.
 - Perpendicular test versus parallel test: perpendicular needs u.v = 0. Parallel needs one vector to be a multiple of the other.
 - Unknown constants: set u.v = 0 for perpendicular. For a given angle, use the cosine form and expect a quadratic after squaring, then check which roots fit the sign of the scalar product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
+  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
+  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
+</figure>
+
 
 ## Exam habits
 
@@ -164,6 +198,17 @@ A = 74.2° (1 d.p.)
 ```
 
 Both vectors start at A, which is the vertex of the angle. Using AB and CA instead would give the supplement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
+  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--05-forces-equilibrium.webp" width="900" height="1137" alt="Forces (3, -2), (-5, 7) and (2, -5) N drawn head to tail form a closed triangle, so the sum is zero and the particle is in equilibrium. The resultant of the first two is (-2, 5) N, magnitude 5.39 N at 111.8 degrees to i; a 2 kg particle would accelerate at (-1, 2.5) m s^-2." loading="lazy">
+  <figcaption>Forces add as vectors, and equilibrium means the head-to-tail loop closes.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

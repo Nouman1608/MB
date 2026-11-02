@@ -102,6 +102,12 @@ Closing inventory up $400 → gross profit, profit, current assets and
 capital all up $400. Recording goods for own use → profit up, drawings
 up by the same amount, closing capital unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-revision-notes--01-adjustments-two-homes.webp" width="900" height="977" alt="Five year-end adjustments with illustrative dollar amounts, each shown with its effect in the profit or loss statement and its home in the statement of financial position. Accrued expense 300 raises expenses and is an other payable. Prepaid expense 200 lowers expenses and is an other receivable. Accrued income 150 raises income and is an other receivable. Income in advance 120 lowers income and is an other payable. Goods for own use 90 lower purchases and raise drawings." loading="lazy">
+  <figcaption>Each adjustment changes the same amount in both statements, so the statement of financial position still balances.</figcaption>
+</figure>
+
+
 ## 5.2 Partnerships
 
 Can be trading, service, manufacturing or a combination.
@@ -129,6 +135,12 @@ loss; can have a debit balance (shown in brackets in the SOFP).
 **Not required (syllabus Note):** dissolution, changes to the
 profit-sharing ratio, limited liability partnerships, and financial
 statements on the admission/departure of a partner.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--04-capital-vs-current-account.webp" width="900" height="962" alt="Quill's capital account stays at 55,000 dollars. His current account moves through interest, salary, loan interest, profit share, drawings and interest on drawings to a debit balance of 5,020 dollars, so capital less that balance gives 49,980 dollars in the statement of financial position." loading="lazy">
+  <figcaption>Capital is fixed; the current account collects the year's movements and can end in debit.</figcaption>
+</figure>
+
 
 ## 5.3 Limited companies
 
@@ -164,6 +176,17 @@ transfer to general reserve – dividends paid = closing balances. SOFP
 shows equity from the SOCE closing line; debentures under non-current
 liabilities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--07-shares-or-debentures.webp" width="900" height="780" alt="Raising 80,000 dollars by shares leaves profit for the year at 50,000 and any 8,000 dollar dividend comes out of equity. Debenture interest of 6,400 dollars is a compulsory finance cost, lowering profit to 43,600, and debentures are a liability." loading="lazy">
+  <figcaption>Share dividends are optional and leave equity; debenture interest is compulsory and reduces profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--06-issued-called-paid-up.webp" width="900" height="730" alt="Three bars to one scale show issued capital of 60,000 dollars, called-up capital of 48,000 dollars (12,000 not yet called) and paid-up capital of 46,800 dollars after 1,200 dollars unpaid on 3,000 shares." loading="lazy">
+  <figcaption>Issued, called-up and paid-up capital are three different figures.</figcaption>
+</figure>
+
+
 ## 5.4 Manufacturing accounts
 
 | Term | Meaning |
@@ -177,6 +200,12 @@ liabilities.
 Factory cost of production goes into cost of sales in the SoPL. The
 SOFP shows three inventories: raw materials, work in progress, finished
 goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--04-mfg-factory-cost.webp" width="900" height="915" alt="A waterfall in dollars: raw materials consumed 117,300 plus direct labour 86,500 is prime cost 203,800. Adding factory overheads 66,600 and opening work in progress 4,800 and deducting closing work in progress 6,300 gives factory cost of production 268,900." loading="lazy">
+  <figcaption>Prime cost plus overheads, adjusted for work in progress, gives the factory cost of production.</figcaption>
+</figure>
+
 
 ## 5.5 Clubs and societies
 
@@ -193,6 +222,12 @@ payable. I&E figure = received + closing arrears + opening advance –
 opening arrears – closing advance.
 - **Accumulated fund** = assets – liabilities (the club's capital);
 closing = opening + surplus (– deficit).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--06-kelmarsh-subscriptions.webp" width="900" height="1030" alt="Subscriptions account totalling 9,890 with income 9,330 as the balancing figure. The 90 write-off is separate expenditure; the allowance rises from 30 to 45, an extra 15 of expenditure." loading="lazy">
+  <figcaption>Income of 9,330 is the balancing figure; the 90 and the 15 are expenditure.</figcaption>
+</figure>
+
 
 ## 5.6 Incomplete records
 
@@ -217,6 +252,12 @@ syllabus formulas, the only ones accepted in candidate responses.
 **Syllabus Note:** incomplete records questions are only on sole
 traders, not on service or manufacturing businesses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--13-ir-profit-from-capital.webp" width="900" height="750" alt="Closing capital 10,780 less opening 9,500 gives a rise of 1,280. Adding drawings of 9,600 and deducting capital introduced of 2,500 gives profit of 8,380." loading="lazy">
+  <figcaption>Profit is the change in capital, with drawings added back and capital introduced deducted.</figcaption>
+</figure>
+
+
 ## Worked example: partnership appropriation account
 
 Profit for the year $48,000 (after $500 interest on Bea's loan).
@@ -237,6 +278,12 @@ Shared: Amir 3/5 = 21,540;  Bea 2/5 = 14,360   (total 35,900)
 The $500 loan interest was charged in the statement of profit or loss
 **before** the $48,000 was found — it is not in the appropriation
 account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-revision-notes--02-appropriation-worked.webp" width="900" height="930" alt="Profit 48,000 plus interest on drawings 900 gives 48,900. Interest on capital (Amir 3,000, Bea 2,000) and Bea salary 8,000 total 13,000 are deducted, leaving 35,900 shared 3:2 as Amir 21,540 and Bea 14,360. Bea loan interest 500 was charged earlier and is not here." loading="lazy">
+  <figcaption>Loan interest comes before profit; the appropriation account only shares the profit out.</figcaption>
+</figure>
+
 
 ## Exam traps
 

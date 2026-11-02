@@ -56,6 +56,12 @@ An alpha particle is positive, so only a small, positively charged, massive obje
 
 **Simple nuclear model.** The atom has a tiny central nucleus containing protons (charge +e) and neutrons (no charge). Electrons (charge −e) are found outside it. A neutral atom contains the same number of electrons as protons. Protons and neutrons are called nucleons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--01-aphy-quantum-alpha-scattering.webp" width="900" height="1160" alt="Twelve alpha-particle tracks computed from inverse-square repulsion by one small positive nucleus. Distant tracks barely bend, closer ones turn through large angles and the closest is turned back. This shows the atom is mostly empty space with a small, massive, positively charged nucleus." loading="lazy">
+  <figcaption>Alpha tracks bend or rebound because of a tiny, massive, positive nucleus.</figcaption>
+</figure>
+
+
 ## 6.4.1(c): relative sizes
 
 Atomic radii are of the order of 10⁻¹⁰ m. A nucleus has a radius of the order of 10⁻¹⁵ to 10⁻¹⁴ m. So the atom is roughly 10⁴ to 10⁵ times wider than its nucleus.
@@ -85,6 +91,12 @@ Protons repel each other electrostatically, yet nuclei exist. The force holding 
 
 Describe the force against separation graph in words: zero (or tiny) at large separation, a strong attractive region out to about 3 fm, and a steep repulsion inside about 0.5 fm, crossing zero at about 0.5 fm. 1 fm = 10⁻¹⁵ m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--03-aphy-quantum-strong-force.webp" width="900" height="1090" alt="Schematic graph of force against nucleon separation. Below about 0.5 fm the force is repulsive; from 0.5 to about 3 fm it is attractive; beyond about 3 fm it is negligible. Three pictures of two nucleons show pushing apart, pulling together and no effect." loading="lazy">
+  <figcaption>The strong force is repulsive below 0.5 fm, attractive up to about 3 fm and negligible beyond (AQA and OCR).</figcaption>
+</figure>
+
+
 ## 6.4.1(f)-(g): nuclear radius and density
 
 The radius of a nucleus is R = r₀A^(1/3), where r₀ is a constant (about 1.2 fm) and A is the nucleon number. Since volume is (4/3)πR³, volume is proportional to A. Each nucleon takes up about the same volume.
@@ -104,6 +116,12 @@ A cancels, so every nucleus has the same density.
 
 The atom's mean density is similar to everyday solids and liquids. Nuclear matter is vastly denser: one cubic centimetre of it would have a mass of about 2 × 10¹¹ kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
+
 ## 6.4.2(a)-(b): particles and antiparticles
 
 Every particle has a corresponding antiparticle with the same mass. A charged particle's antiparticle has the opposite charge.
@@ -116,6 +134,17 @@ Every particle has a corresponding antiparticle with the same mass. A charged pa
 | neutrino ν | antineutrino ν̄ | Both neutral |
 
 A bar over a symbol marks an antiparticle. Being neutral does not mean a particle is its own antiparticle; the neutron and antineutron are different particles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--04-aphy-quantum-quarks.webp" width="900" height="1130" alt="Four cards give the quark make-up of the proton (uud), neutron (udd), positive pion (u d-bar) and positive kaon (u s-bar), with the charges adding to +1, 0, +1 and +1. Baryons have three quarks, mesons a quark and an antiquark; leptons such as the electron and neutrino are not made of quarks." loading="lazy">
+  <figcaption>The charges of the quarks add up to the charge of each hadron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
 
 ## 6.4.2(c)-(d): hadrons and leptons
 
@@ -164,6 +193,12 @@ Check charge: left +2/3; right −1/3 + 1 + 0 = +2/3. Balanced.
 Only one quark changes; the other two are spectators. Both decays are due to the weak nuclear force. The neutrino is a lepton: a very light neutral particle.
 
 **Worked example.** Show that neutron decay is balanced in the quark model. Neutron udd → proton uud. One d becomes u. The d quark emits e⁻ and ν̄, so udd → u + u + d + e⁻ + ν̄. Charge on the left: 0. Charge on the right: +1 (proton) − 1 (electron) = 0. Balanced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
 
 ## 6.4.2(l): decay of other particles
 

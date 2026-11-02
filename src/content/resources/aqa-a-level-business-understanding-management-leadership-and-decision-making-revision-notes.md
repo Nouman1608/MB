@@ -33,6 +33,12 @@ Related pages: the [topic study guide](/resources/aqa-a-level-business-managers-
 | Named theories | Tannenbaum Schmidt continuum; Blake Mouton grid |
 | Effectiveness | Judge each style against the context and against evidence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
+
+
 ## What managers do
 
 The role of managers includes five activities. Learn them as a cycle.
@@ -44,6 +50,12 @@ The role of managers includes five activities. Learn them as a cycle.
 5. **Reviewing**: compare results with objectives, then feed the lessons into the next round of objectives.
 
 Reminder for answers: link each activity to the case. "The manager reviews sales" scores less than "reviewing the second-quarter sales against the target showed the new menu was not working".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--01-manager-five-activity-loop.webp" width="900" height="1000" alt="Five boxes in a loop: setting objectives, analysing, leading, making decisions and reviewing, with Kestrel Bindery examples. An arrow returns from reviewing to setting objectives." loading="lazy">
+  <figcaption>The five activities form a loop: reviewing feeds the next objectives.</figcaption>
+</figure>
+
 
 ## Styles: definitions to recall
 
@@ -81,6 +93,12 @@ Standard seven-position summary (not a quotation):
 3. Ask: how much freedom is left to the team?
 4. Name the position (or range) and quote the evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--03-continuum-seven-positions.webp" width="900" height="1090" alt="Seven rows show the continuum from 1 (decides and announces) to 7 (team acts within limits), with the manager's share of authority falling. Position 5, asking for suggestions then deciding, is highlighted as the Kestrel Bindery owner." loading="lazy">
+  <figcaption>The continuum is a line of seven positions, not four boxes.</figcaption>
+</figure>
+
+
 ## Blake Mouton grid
 
 - Two axes, each scored 1 to 9: **concern for production** and **concern for people**.
@@ -100,6 +118,12 @@ Standard seven-position summary (not a quotation):
 2. Collect evidence on people: training, listening, support.
 3. Give each a score from 1 to 9 and write them in the right order.
 4. Check the evidence is enough. A single email is thin evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--04-blake-mouton-grid.webp" width="900" height="960" alt="A 9 by 9 grid with concern for production across and concern for people up. Impoverished (1,1), produce or perish (9,1), country club (1,9), middle of the road (5,5) and team management (9,9) are marked." loading="lazy">
+  <figcaption>Write a position as (production, people).</figcaption>
+</figure>
+
 
 ## Continuum against grid
 
@@ -121,6 +145,22 @@ Group them to remember them.
 - **The manager**: personality, beliefs about people, own skills.
 - **The organisation**: culture, size, structure, history.
 - **The situation**: crisis, competition, labour market, time available.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--03-style-influences.webp" width="900" height="1080" alt="Six influences each shown pushing towards a directive or an involving style." loading="lazy">
+  <figcaption>Each influence can push a manager either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--04-style-effectiveness-table.webp" width="900" height="1080" alt="A table of five styles with continuum positions, strengths, weaknesses and where each tends to fit." loading="lazy">
+  <figcaption>Context decides which style is most effective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--05-ferrymoor-style-over-time.webp" width="900" height="920" alt="Continuum positions 1 and 2 for week one, moving to 4 and 5 as skills grow; the time horizon decides." loading="lazy">
+  <figcaption>Start directive, then move along the continuum as skills grow.</figcaption>
+</figure>
+
 
 ## Effectiveness: a ready-made argument frame
 

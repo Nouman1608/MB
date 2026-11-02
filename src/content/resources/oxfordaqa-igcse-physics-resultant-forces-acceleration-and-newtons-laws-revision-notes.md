@@ -57,6 +57,17 @@ Rearrange before you substitute, and convert grams to kilograms and minutes to s
 
 Method for naming a pair: write "A exerts a force on B" and swap to "B exerts the same type of force on A".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
+  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
+</figure>
+
+
 ## Finding a resultant
 
 Forces in a line:
@@ -78,6 +89,17 @@ Sense check: the resultant lies between the difference and the sum of the two fo
 
 Worked reminder: forces of 10 N and 6 N with 60° between them give a resultant of about 14 N, roughly 22° from the 10 N force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--01-scale-drawing-two-forces.webp" width="900" height="770" alt="A head-to-tail scale drawing at 1 cm to 1 N: an 8.0 cm arrow, then a 5.0 cm arrow at 60 degrees to it. The resultant from the start to the tip measures 11.4 cm, so about 11 N at about 22 degrees to the 8 N force. It lies between 3 N and 13 N." loading="lazy">
+  <figcaption>Head-to-tail scale drawing of 8 N and 5 N at 60 degrees gives a resultant of about 11 N.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--03-sledge-resultant-450-180-70.webp" width="900" height="840" alt="Force arrows to scale show a 450 N forward pull and backward friction of 180 N and wind of 70 N on a sledge. A bar splits the 450 N into 180 N, 70 N and 200 N left over. The resultant is 200 N forwards." loading="lazy">
+  <figcaption>Forwards positive: 450 − 180 − 70 = 200 N forwards.</figcaption>
+</figure>
+
+
 ## Acceleration
 
 * Acceleration is the rate of change of velocity.
@@ -90,6 +112,17 @@ Worked reminder: velocity 5 m/s to 17 m/s in 4 s.
 ```
 a = (17 - 5) / 4 = 3.0 m/s²
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--02-acceleration-worked-examples.webp" width="900" height="950" alt="Two velocity-time graphs show a car speeding up from 8 to 26 m/s in 9 s and a train slowing from 40 m/s to rest in 25 s. The change in velocity and the time are marked on each line. The accelerations are 2.0 m/s² and -1.6 m/s² (a deceleration of 1.6 m/s²)." loading="lazy">
+  <figcaption>a = Δv ÷ t for a car speeding up (+2.0 m/s²) and a train slowing (−1.6 m/s²).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## Velocity-time graphs
 
@@ -112,12 +145,29 @@ Distance = 1/2 x 3 x 9 + 6 x 9 = 13.5 + 54 = 67.5 m
 
 Do not confuse the graph types: gradient of a distance-time graph is speed, gradient of a velocity-time graph is acceleration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--02-cyclist-velocity-time.webp" width="900" height="920" alt="Velocity-time graph: 0 to 12 m/s in 6 s, constant 12 m/s for 8 s, then down to 0 in 6 s. Gradients are 2.0, 0 and minus 2.0 m/s squared; areas 36, 96 and 36 m; total 168 m and average speed 8.4 m/s." loading="lazy">
+  <figcaption>Gradients and areas of the cyclist graph give 168 m and 8.4 m/s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+
 ## Newton's First Law
 
 * Resultant zero, object moving: same speed, same direction.
 * Resultant zero, object at rest: stays at rest.
 * A steady speed in a straight line needs balanced forces, not a resultant force.
 * When a vehicle brakes, loose passengers carry on forwards because nothing slows them until a seat belt or seat does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--01-first-law-balanced-forces.webp" width="900" height="1060" alt="A car at a steady 20 m/s has equal and opposite driving and resistive forces, so the resultant is zero. A bus drawn twice shows the passenger keeping the old velocity when the bus brakes, until a seat belt pushes. The passenger leans forward because nothing slows them." loading="lazy">
+  <figcaption>Zero resultant force means constant velocity; a braking bus does not slow an unrestrained passenger.</figcaption>
+</figure>
+
 
 ## Newton's Second Law
 
@@ -136,6 +186,17 @@ a = 3600 / 2000 = 1.8 m/s²
 ```
 
 Proportionality: more resultant force means more acceleration; more mass means less acceleration for the same force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--04-cyclist-force-to-distance.webp" width="900" height="940" alt="A cyclist of total mass 85 kg has 140 N forward and 60 N resistive, so 80 N resultant and a = 0.941 m/s². The v-t graph is a straight line to 6.0 m/s at 6.4 s. The shaded triangle gives a distance of 19 m." loading="lazy">
+  <figcaption>Worked example 8: force to acceleration to time to distance using a velocity-time graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

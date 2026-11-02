@@ -77,6 +77,12 @@ All three appear under current assets in the statement of financial position.
 Carriage inwards on raw materials belongs here. Carriage outwards is a selling cost and goes in the
 income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
+
 ## Overhead cost
 
 Factory **overheads** are indirect production costs. They are needed to make the goods but cannot be
@@ -144,6 +150,27 @@ Profit on manufacture (15% x 442,500)                       66,375
 Transfer to income statement                               508,875
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--06-factory-cost-buildup.webp" width="900" height="984" alt="A waterfall builds up direct materials 185,100, direct wages 142,000 and royalties 6,800 to prime cost 333,900, adds overheads 110,800, adjusts work in progress by minus 2,200 to a factory cost of 442,500, then adds 15% profit on manufacture 66,375 for a transfer of 508,875." loading="lazy">
+  <figcaption>Factory cost builds up from prime cost and overheads, adjusted for work in progress, then profit on manufacture is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--01-cash-vs-surplus.webp" width="900" height="826" alt="A waterfall turns the 9,500 rise in cash into the 5,500 surplus: take off the 5,000 capital donation, add back 7,500 floodlights spending, take off 1,160 of life fees not yet income and 5,520 depreciation, add 180 for owing and prepaid timing." loading="lazy">
+  <figcaption>A cash rise differs from the surplus because of capital items, life fees, depreciation and timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
+
 ## Profit on manufacture
 
 Many manufacturers transfer goods out of the factory at more than cost: either cost plus a set
@@ -176,6 +203,12 @@ Each year the income statement takes just the **movement** in the provision:
 
 In the statement of financial position, finished goods are shown at transfer price less the full
 closing provision, which is cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--08-unrealised-profit.webp" width="900" height="1056" alt="Closing finished goods of 29,900 at transfer price contain 26,000 cost and 3,900 unearned profit (29,900 x 15/115). The provision rose from 3,150 to 3,900, so only 750 is deducted from profit on manufacture of 66,375, leaving 65,625. Taking 15% of 29,900 is wrong." loading="lazy">
+  <figcaption>Remove unearned profit from closing finished goods using m/(100+m), and charge only the change in the provision.</figcaption>
+</figure>
+
 
 ## Worked example 2: income statement and inventories
 

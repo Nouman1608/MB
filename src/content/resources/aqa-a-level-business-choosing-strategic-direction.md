@@ -80,6 +80,17 @@ Glenmarrick Oat Bars sells £4.0m a year in a £40m market, so market share is 4
 
 Penetration pays back fastest and with least uncertainty, but its ceiling is low. The other two take about two years to repay but offer larger long-term growth. Numbers alone do not decide: a good answer also weighs risk, finance and the owners' objectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--01-ansoff-glenmarrick.webp" width="900" height="960" alt="A two by two grid of existing or new products against existing or new markets, using Glenmarrick Oat Bars: market penetration (share 10% to 12%), new product development (protein bar), market development (new export region) and diversification. Risk dots rise from penetration to diversification." loading="lazy">
+  <figcaption>The four Ansoff directions, with relative risk, for Glenmarrick Oat Bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--02-option-payback.webp" width="900" height="870" alt="Bars of payback time: penetration 0.9 years, market development 1.9 years, new product development 2.1 years, with each option cost and annual contribution." loading="lazy">
+  <figcaption>Penetration pays back fastest, but numbers alone do not decide.</figcaption>
+</figure>
+
+
 ## Part 3: Reasons for choosing, and value of, each direction
 
 The specification asks you to explain why a business picks an option and how valuable it is. Use the context.
@@ -117,6 +128,12 @@ Odelstone Footwear can follow either route.
 
 Differentiation earns a higher margin and double the profit per pair, but low cost wins on total profit because volume is 2.5 times higher. The premium is (70 - 40) / 40 = 75%, which customers must value for 40,000 sales to hold. The choice rests on whether the brand can deliver that premium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--03-low-cost-vs-differentiation.webp" width="900" height="1070" alt="Paired bars for low cost and differentiation: profit per pair 9 and 18 pounds, pairs sold 100,000 and 40,000, total profit 900,000 and 720,000 pounds. Margins are 22.5% and 25.7% and the price premium is 75%." loading="lazy">
+  <figcaption>Differentiation earns more per pair, but low cost earns more in total here.</figcaption>
+</figure>
+
+
 ## Part 5: Bowman's strategic clock
 
 Bowman's clock plots price (horizontal) against perceived benefits (vertical) and gives eight positions. The numbering below is the standard form.
@@ -134,6 +151,12 @@ Bowman's clock plots price (horizontal) against perceived benefits (vertical) an
 
 Positions 1 to 3 are price-based, 3 to 5 benefit-based, and 6 to 8 are generally seen as unsustainable because customers receive poor value. Unlike Porter, the clock allows hybrid strategies and shows how a move in price or benefits shifts the position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-choosing-strategic-direction--04-bowman-clock.webp" width="900" height="1250" alt="Eight numbered positions on a ring around a price (horizontal) and perceived benefits (vertical) grid. Positions 1 to 3 are price-based, 3 to 5 benefit-based and 6 to 8 are warnings." loading="lazy">
+  <figcaption>Bowman’s eight positions on price and perceived benefits axes.</figcaption>
+</figure>
+
+
 ## Part 6: Influences on the choice, and value of each strategy
 
 Influences include the size and nature of the market, customer sensitivity to price, the business's cost structure and resources, competitors' positions, brand strength, technology and the owners' objectives. A business with no scale economies should not pick cost leadership. A business in a market where customers care little about quality gains little from differentiation.
@@ -147,6 +170,12 @@ Competitive advantage is something a business does better than rivals that custo
 Benefits: higher market share, higher margins or price premiums, customer loyalty, resilience in downturns, and an attractive base for investors and talented staff.
 
 Difficulties of maintaining it: rivals copy successful ideas; technology changes quickly; customer tastes shift; costs such as wages and materials rise; patents and brand loyalty may fade; and holding an advantage takes continuing investment in innovation, training and marketing. An advantage that rests on one supplier, one product or one person is fragile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--10-competitive-advantage-routes.webp" width="900" height="880" alt="Illustrative unit price, cost and margin: rival 100/80/20, lower cost 100/70/30, valued difference 120/85/35." loading="lazy">
+  <figcaption>Lower cost or valued difference both raise margin, if rivals cannot copy.</figcaption>
+</figure>
+
 
 ## Common errors
 

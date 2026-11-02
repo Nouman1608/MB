@@ -57,6 +57,17 @@ OCR warns about two misconceptions. The word "dominant" can mislead. The dominan
 
 Dominant does not mean common or stronger. Some inherited conditions are caused by dominant alleles and some by recessive alleles, and the allele that causes a disorder can be either type.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--09-genotype-phenotype-words.webp" width="900" height="910" alt="Three fruit flies with their chromosome pair. VV and vv are homozygous, Vv is heterozygous. V is dominant, so VV and Vv have normal wings; only vv has vestigial wings." loading="lazy">
+  <figcaption>A dominant allele shows with one copy; a recessive allele needs two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+
 ## Punnett squares (B5.1j)
 
 A Punnett square shows every way two parents' gametes can combine. Each parent contributes one allele per gamete.
@@ -84,6 +95,12 @@ Genotypes: 1 VV : 2 Vv : 1 vv. Phenotypes: three boxes have normal wings and one
 
 If the flies produce 240 offspring, the expected numbers are 240 × 3/4 = 180 normal and 240 × 1/4 = 60 vestigial.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+
 ### Worked example 2: heterozygous parent and homozygous recessive parent
 
 Huntington's disease is caused by a dominant allele (H). A man with the disease is heterozygous (Hh). His partner does not have the disease (hh).
@@ -96,6 +113,17 @@ Huntington's disease is caused by a dominant allele (H). A man with the disease 
 Two boxes are Hh (affected) and two are hh (unaffected). The ratio is **1 affected : 1 unaffected**, so every child has an even chance (50%) of being affected.
 
 Each child is an independent event, so earlier children do not change the odds for the next one. The chance that four children are all unaffected is (1/2)⁴ = 1/16.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--02-huntington-cross.webp" width="900" height="1030" alt="Punnett square of an affected Hh father and unaffected hh mother: two Hh and two hh boxes, so each child has a 1 in 2 chance. Four children are independent, so all four unaffected is 1/16." loading="lazy">
+  <figcaption>Hh x hh gives 50% affected for each child; four unaffected children in a row is 1/16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
 
 ### Worked example 3: homozygous parents
 
@@ -116,6 +144,17 @@ One horned calf proves she is Pp. Five polled calves in a row make PP likely but
 
 A ratio such as 3:1 is a prediction about probability, not a guarantee. Fertilisation is random, so real counts vary. With 16 offspring you might see 10 : 6, which is far from 12 : 4 but not surprising. With several hundred offspring the result usually sits much closer to 3:1. Tossing a coin ten times rarely gives exactly five heads, but a thousand tosses gets close to half. OCR suggests a coin or die as a way to explore this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--10-pure-breeding-to-f2.webp" width="900" height="1110" alt="Pure-breeding VV and vv parents give F1 all Vv with normal wings; crossing F1 gives F2 VV, Vv, Vv and vv, three normal to one vestigial." loading="lazy">
+  <figcaption>The recessive feature disappears in the F1 and returns in about a quarter of the F2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--11-test-cross.webp" width="900" height="940" alt="A polled cow could be PP or Pp. Crossed with horned pp, PP gives all polled calves and Pp gives half polled, half horned. One horned calf proves Pp; five polled calves if Pp has probability 1/32." loading="lazy">
+  <figcaption>A cross with a recessive animal reveals an unknown dominant genotype.</figcaption>
+</figure>
+
+
 ## Sex determination in humans (B5.1k)
 
 Humans have 23 pairs of chromosomes. One pair is the sex chromosomes. Females have two X chromosomes (XX). Males have an X and a Y (XY).
@@ -131,11 +170,33 @@ Two boxes are XX (girl) and two are XY (boy). The ratio is **1 female : 1 male**
 
 For a family of three children, the probability that all are girls is (1/2)³ = 1/8 (12.5%). The probability of one boy and one girl in two children is 2 × (1/4) = 1/2, because there are two orders: boy then girl, or girl then boy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--03-three-girls-tree.webp" width="900" height="950" alt="Tree of three births, each girl or boy with probability 1/2. Eight equally likely outcomes; only GGG is all girls, 1/8 = 12.5%. The next baby is still 1/2." loading="lazy">
+  <figcaption>A tree of three births shows one of eight equally likely outcomes is all girls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+
 ## Most features involve many genes (B5.1l)
 
 Some features, including a few inherited disorders, are controlled by a single gene and fall into clear categories that Punnett squares predict well. Most phenotypic features are the result of **multiple genes**, not a single gene. Height and skin colour are examples. Many genes each add a small effect, so the population shows a smooth range of phenotypes, not two or three clear types.
 
 This is why you cannot predict height from one Punnett square. The number of possible allele combinations grows quickly: if each gene had just two alleles, two genes give 3² = 9 genotypes and three genes give 3³ = 27. OCR also states that characteristics are influenced by the genome and its interaction with the environment, so both genes and surroundings affect many features.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--04-genotype-count.webp" width="900" height="850" alt="Grids of squares show 3 genotypes for one gene, 9 for two and 27 for three, following 3^n." loading="lazy">
+  <figcaption>Genotypes multiply as 3 to the power n, so one Punnett square cannot cope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--05-many-genes-range.webp" width="900" height="1100" alt="Top: 75% normal and 25% vestigial wings from a Vv x Vv cross. Bottom: an illustrative model of 10 genes with small effects gives a bell-shaped range from short to tall." loading="lazy">
+  <figcaption>One gene gives clear categories; many genes give a smooth range.</figcaption>
+</figure>
+
 
 ## The development of our understanding of genetics (B5.1m)
 
@@ -148,6 +209,12 @@ The specification names the work of Mendel. This unit also links to the working 
 **Later work.** Better microscopes allowed scientists to see chromosomes. In the early 1900s it was proposed that Mendel's units are carried on chromosomes. In 1953 the double helix structure of DNA was worked out, which explained how information can be stored and copied. The human genome was later sequenced, around 2003. New technology kept supplying new evidence, and explanations changed to fit.
 
 Modern knowledge raises ethical issues, such as who should have access to a person's genetic information and how it should be used. Be ready to give a balanced view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--01-mendel-timeline.webp" width="900" height="1020" alt="A timeline: mid-1800s Mendel breeds pea plants and counts ratios; 1860s published but little read; around 1900 accepted; early 1900s units proposed to be on chromosomes; 1953 DNA double helix; around 2003 human genome sequenced." loading="lazy">
+  <figcaption>Six steps from Mendel's pea plants to the sequenced human genome.</figcaption>
+</figure>
+
 
 ## Common errors
 

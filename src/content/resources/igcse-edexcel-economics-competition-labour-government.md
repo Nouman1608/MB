@@ -88,6 +88,12 @@ takeovers; intervention in the labour market through a minimum wage, and
 the advantages, disadvantages and diagrammatic effect of setting a
 minimum wage above the market equilibrium
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 1.2.4's monopoly-versus-oligopoly material is easiest to hold in memory
@@ -135,6 +141,17 @@ lower, market-clearing wage. Being able to state both the winners (those
 still employed, now on higher pay) and the losers (those now unemployed)
 is what separates a full-mark evaluation from a one-sided description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Describing oligopoly and monopoly as if either is simply "one big firm"
@@ -147,6 +164,12 @@ equally -- it only affects workers whose market wage was already below
 the new minimum. Confusing a shift in the labour supply curve (caused
 by, for example, migration or the school-leaving age) with a movement
 along it (caused by a change in the wage itself).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

@@ -51,6 +51,17 @@ If the rate rises to 1 lumo = 0.60 dorn, the lumo has **appreciated**: it buys m
 
 **Fixed system.** The government or central bank sets a rate against another currency and acts to hold it there. It does this by buying or selling currency from its reserves of foreign currency, and by using interest rates. Under a fixed system the authorities can also decide to change the fixed rate itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--09-eco37-two-currencies-two-percentages.webp" width="900" height="920" alt="Bars show 1 lumo buys 0.50 then 0.60 dorn (up 20 percent) and 1 dorn buys 2 then 1.67 lumos (down 16.7 percent)." loading="lazy">
+  <figcaption>The same exchange-rate change gives different percentages for the two currencies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--06-un157-fixed-demand-shift.webp" width="900" height="870" alt="Graph of the lumo market: supply and original demand meet at 0.50 and 70 million. Demand rises by 25 to D2, giving a shortage of 25 million at the fixed rate, which the central bank covers by selling lumos or by raising interest rates." loading="lazy">
+  <figcaption>Under a fixed rate a demand rise creates a shortage the central bank must meet.</figcaption>
+</figure>
+
+
 ## 6.3.2 Equilibrium in the foreign exchange market
 
 Think of the market for lumos. On the vertical axis is the price of a lumo (dorn per lumo). On the horizontal axis is the quantity of lumos traded per week.
@@ -71,6 +82,12 @@ The equilibrium rate is where the curves cross. An invented schedule, in million
 At 0.60 there is a surplus of 85 − 60 = 25 million lumos. Sellers compete to offload them, so the rate falls. At 0.40 there is a shortage of 80 − 55 = 25. Buyers bid the price up, so the rate rises. Both movements end at 0.50, where 70 million lumos are traded.
 
 **Under a fixed system** the same curves exist, but the rate does not move. Suppose the authorities fix 1 lumo = 0.50 dorn and demand rises by 25 million at each rate. At 0.50 demand is 95 and supply is 70, a shortage of 25. To hold the rate the central bank must sell 25 million lumos and take in dorn, or raise interest rates to attract more buyers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--07-eco37-lumo-equilibrium.webp" width="900" height="970" alt="Graph of dorn per lumo against millions of lumos per week. Demand and supply cross at 0.50 and 70 million. At 0.40 there is a shortage of 25 million so the rate rises; at 0.60 a surplus of 25 million so the rate falls." loading="lazy">
+  <figcaption>Demand and supply of a currency set the equilibrium exchange rate.</figcaption>
+</figure>
+
 
 ## 6.3.3 Causes of fluctuations
 
@@ -95,6 +112,22 @@ Any cause works by shifting the demand curve or the supply curve for the currenc
 **Speculation.** Speculators buy a currency they expect to rise and sell one they expect to fall. Their actions can bring about the change they expect, so a rumour can move a rate.
 
 **MNCs.** A multinational company entering Country L must buy lumos to pay wages, rent and suppliers, which raises demand. When it leaves, it sells assets and sends profits and capital abroad, which raises supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--08-eco37-lumo-shifts.webp" width="900" height="1110" alt="Two graphs of the lumo market. A demand rise from 120-100r to 140-100r moves the rate from 0.50 to 0.58 with 82 million traded (appreciation 16%). A supply rise from -5+150r to 15+150r moves it to 0.42 with 78 million traded (depreciation 16%)." loading="lazy">
+  <figcaption>Shifting demand or supply of a currency appreciates or depreciates its exchange rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--05-un157-causes-of-rate-change.webp" width="900" height="970" alt="Four rows link a cause (interest rate rise, speculators expecting a fall, MNC entering, MNC leaving) to a change in demand or supply of lumos and to the lumo rising or falling." loading="lazy">
+  <figcaption>Interest rates, speculation and MNCs each work by shifting demand or supply of the currency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## 6.3.4 Consequences for prices and spending
 
@@ -134,6 +167,17 @@ PED = % change in quantity demanded ÷ % change in price. So % change in quantit
 
 Summary: when price rises, spending falls if demand is elastic and rises if demand is inelastic. When price falls, the reverse holds. A depreciation helps a country's trade position most when demand for its exports and for its imports is elastic. In the short run demand is often less elastic, because contracts and habits take time to change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--10-eco37-export-spending-ped.webp" width="900" height="910" alt="Three bars of foreign spending on cakes: 50,000 before; 42,000 (down 16 percent) if PED is -1.5; 54,000 (up 8 percent) if PED is -0.5." loading="lazy">
+  <figcaption>Whether spending on exports rises or falls after an appreciation depends on PED.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--04-un157-import-spending-ped.webp" width="900" height="910" alt="Three bars of spending on imported machines in lumos: 6,000 before; 6,750 (180 machines at 37.50) if PED is -0.4; 3,750 (100 machines) if PED is -2." loading="lazy">
+  <figcaption>Whether import spending rises or falls after a depreciation depends on PED.</figcaption>
+</figure>
+
+
 ## 6.3.5 Floating versus fixed systems
 
 | | Floating | Fixed |
@@ -144,6 +188,12 @@ Summary: when price rises, spending falls if demand is elastic and rises if dema
 **Worked example, defending a peg.** Country L fixes 1 lumo = 0.50 dorn. Suppose supply of lumos exceeds demand by 20 million per week at that rate. The central bank must buy 20 million lumos, paying 20 × 0.50 = 10 million dorn per week from its reserves. With 100 million dorn in reserves, it can keep this up for 100 ÷ 10 = 10 weeks. After that it must change the fixed rate or raise interest rates.
 
 **Evaluating.** A floating system suits a large economy with strong institutions and a mixed pattern of trade. A fixed system may suit a small economy that trades mostly with one partner and wants stable prices, provided it holds enough reserves. Neither is best in every case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-foreign-exchange-rates--11-eco37-defending-a-peg.webp" width="900" height="930" alt="Ten blocks of 10 million dorn make up reserves of 100 million. Each week the central bank buys 20 million lumos for 10 million dorn, so the bar chart of reserves falls to zero after 10 weeks." loading="lazy">
+  <figcaption>Defending a fixed rate drains foreign currency reserves.</figcaption>
+</figure>
+
 
 ## Common errors
 

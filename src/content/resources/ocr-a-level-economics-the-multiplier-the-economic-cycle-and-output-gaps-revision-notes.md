@@ -49,6 +49,12 @@ These notes condense the topic **The economic cycle** from the OCR *A Level Econ
 
 A common definition of a recession is two consecutive quarters of falling real GDP. Say it is a convention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+
 ## Actual versus trend growth
 
 Method in steps:
@@ -59,6 +65,17 @@ Method in steps:
 4. Compare: actual above trend narrows or reverses a negative gap; actual below trend widens it.
 
 Actual growth can be fast while trend is slow (a recovery from a deep recession). Trend growth needs more or better resources: it shifts LRAS and the PPF/C outward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--11-mac-real-growth-average.webp" width="900" height="870" alt="Line chart of real GDP for Country Q over 8 years: 400, 412, 428, 436, 425, 432, 450, 466 billion. Growth is 3.88 percent in year 3, minus 2.52 percent in year 5 (a fall) and 3.56 percent in year 8. A dashed line shows the average growth of 2.21 percent a year over 7 years, from 400 to 466. A note shows nominal GDP of 582.5 divided by a deflator of 125 times 100 gives real GDP 466. Compare peak to peak or trough to trough." loading="lazy">
+  <figcaption>Real GDP, growth in single years, and the 2.21% average, with nominal converted to real by the deflator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
 
 ## Factors determining trend growth
 
@@ -73,6 +90,17 @@ Actual growth can be fast while trend is slow (a recovery from a deep recession)
 | Competition and enterprise | Pressure to cut costs and innovate |
 
 Evaluation prompts: which factor matters most for this economy (usually productivity in a mature economy); time lags; whether factors reinforce each other; whether a deep recession causes hysteresis and lowers trend growth; whether the gains are sustainable (resources, environment).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--12-mac-potential-growth-components.webp" width="900" height="910" alt="Bars. The labour force grows 0.5 percent a year and output per worker 1.8 percent a year. Combined bar: potential output grows 1.005 times 1.018 minus 1, which is 2.31 percent a year. The two growth rates multiply, so the total is slightly more than the simple sum of 2.3, by a cross term of about 0.009 percentage points." loading="lazy">
+  <figcaption>Potential output growth combines labour growth and productivity growth multiplicatively: 2.31%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## The multiplier
 
@@ -106,6 +134,22 @@ Evaluation prompts: which factor matters most for this economy (usually producti
 - Who receives the money: groups with a high MPC raise k.
 
 **Role and purpose.** It explains why spending changes have a magnified effect on income and helps estimate the impact of a change in investment, government spending or exports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--06-multiplier-leakages.webp" width="900" height="1030" alt="Of each extra 100 of income, 12 is saved, 18 taxed, 20 spent on imports and 50 re-spent. A government spending rise of 70 produces rounds of 70, 35, 17.5, 8.75 and 4.375 and so on, totalling 140 because k = 1 / 0.50 = 2." loading="lazy">
+  <figcaption>Leakages mean each round is half the last, so k = 1 / MPW = 2 and income rises by 140.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--07-multiplier-and-ad.webp" width="900" height="1060" alt="AD0 and SRAS meet at P = 100, real GDP = 800. A spending rise of 24 with k = 2.5 shifts AD right by 60, but the new equilibrium (P = 107.5) has real GDP of only 830, a rise of 30, an effective multiplier of 1.25." loading="lazy">
+  <figcaption>With an upward-sloping SRAS part of the AD shift is lost to higher prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--13-mac-accelerator-lesson-table.webp" width="900" height="1000" alt="Two aligned charts for years 1 to 8 with capital-output ratio v = 2. Income: 500, 520, 545, 565, 577, 581, 579, 570, peaking in year 6. Net investment is v times the change in income: 40, 50, 40, 24, 8, minus 4 and minus 18 for years 2 to 8. Investment peaks in year 3, when income growth is fastest, and falls from year 4 even though income keeps rising until year 6, so the slowdown starts before output peaks." loading="lazy">
+  <figcaption>Net investment depends on the change in income, so it peaks in year 3 while income peaks in year 6.</figcaption>
+</figure>
+
 
 ## The multiplier-accelerator model
 
@@ -163,6 +207,27 @@ Evaluation prompts: size and speed of the shock; flexibility of wages and prices
 | Low inflation or deflation | Short-term gains in jobs and profits |
 
 Evaluation prompts: how big and how long; who is hurt or helped; whether the economy self-corrects; trade-offs with other objectives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--08-output-gap-cycle.webp" width="900" height="990" alt="Potential output grows 2.5% a year from 1,000. Vertical lines show the gap between trend and actual output in years 1, 3, 5 and 6: -4.00%, +2.91%, -5.78% and -7.02%." loading="lazy">
+  <figcaption>An output gap is the percentage distance between actual and potential output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--09-output-gap-adas.webp" width="900" height="990" alt="With LRAS at potential output of 850, the equilibrium at real GDP 800 is a negative gap of 5.88%. An illustrative higher AD curve meets SRAS at 900, to the right of LRAS, a positive gap of 5.88%." loading="lazy">
+  <figcaption>If AD meets SRAS left of LRAS the gap is negative; to the right it is positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--10-output-gap-ppf.webp" width="900" height="990" alt="The frontier joins the lesson's five points. Producing 40 capital goods and 144 consumer goods is 36 below the 180 the frontier allows at 40 capital goods, a negative gap of 20%." loading="lazy">
+  <figcaption>A point inside the PPF is a negative output gap with unused resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--14-mac-output-gap-after-spending.webp" width="900" height="990" alt="AD/AS graph. AD0 is 1,200 minus 4P, SRAS is 400 plus 4P, so equilibrium is price 100 and real GDP 800. LRAS is a vertical line at potential output 850. The output gap is (800 minus 850) divided by 850, minus 5.88 percent. Government spending rises by 24 with multiplier 2.5, shifting AD to AD1, 1,260 minus 4P. New equilibrium is price 107.5 and real GDP 830, and the gap narrows to (830 minus 850) divided by 850, minus 2.35 percent. Both equilibria are left of LRAS, so the gap stays negative." loading="lazy">
+  <figcaption>AD shifts right and equilibrium moves from 800 to 830, narrowing the output gap from -5.88% to -2.35%.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

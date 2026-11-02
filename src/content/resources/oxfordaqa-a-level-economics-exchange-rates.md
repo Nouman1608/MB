@@ -54,6 +54,12 @@ Four terms must be kept apart.
 
 The two percentages differ because each uses a different base. State which currency you mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--11-two-views-percentages.webp" width="900" height="990" alt="The rate moves from 1 ar = 2.00 bel to 1.60 bel. The ar depreciates 20%, but 1 bel buys 0.50 ar then 0.625 ar, so the bel appreciates 25%." loading="lazy">
+  <figcaption>The percentage differs because each currency uses a different base.</figcaption>
+</figure>
+
+
 ## 2. Determination in a freely floating system
 
 In a **free float** the rate emerges from buying and selling of currencies on the foreign exchange market, with no government action.
@@ -76,6 +82,17 @@ Demand equals supply at **2.0 bel per ar**, with 80 million ar traded. Now forei
 
 In a diagram: the vertical axis is the rate (bel per ar), the horizontal axis is quantity of ar. Demand shifts right, and the intersection with the supply curve moves up and to the right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--12-float-equilibrium-shift.webp" width="900" height="900" alt="Demand D1 and supply S for the ar meet at 2.0 bel per ar and 80m ar. Foreign investors add 30m to demand at every rate, so D2 meets S at 2.2 and 95m: a 10% appreciation." loading="lazy">
+  <figcaption>Higher demand for a currency raises its equilibrium exchange rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## 3. Causes of changes in the exchange rate
 
 Anything that shifts demand or supply moves the rate. Learn each as a chain.
@@ -97,6 +114,12 @@ Anything that shifts demand or supply moves the rate. Learn each as a chain.
 
 Speculation can be **self-fulfilling**: if traders expect the ar to rise, they buy, and it rises. **Herding behaviour** means traders copy each other instead of judging fundamentals. Fear of missing out or of losses spreads, so the rate can overshoot well beyond what trade and investment flows justify, then reverse sharply. This makes the rate volatile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--02-speculator-profit-and-herding.webp" width="900" height="1090" alt="A speculator spends 1,000,000 bel on 500,000 ar at 2.00. Selling at 2.20 gives 1,100,000 bel, a 100,000 (10%) profit; selling at 1.90 gives 950,000, a 50,000 loss. A loop shows speculation can be self-fulfilling when traders copy each other." loading="lazy">
+  <figcaption>Speculation can win 10% or lose 5%, and herding makes expectations self-fulfilling.</figcaption>
+</figure>
+
+
 ## 4. Government intervention
 
 Governments and central banks may influence the rate. The methods are:
@@ -109,6 +132,12 @@ Governments and central banks may influence the rate. The methods are:
 
 Limits: reserves are finite, speculators may be larger than the central bank, and a rate rise to defend the currency may slow growth, conflicting with domestic aims. Intervention suits short-lived swings, not a fundamental imbalance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--13-defend-the-rate.webp" width="900" height="930" alt="After demand falls by 25m, the rate of 2.00 has excess supply of 25m ar. The central bank must buy it, using 50m bel of reserves, enough for 8 months; the free rate would be about 1.83." loading="lazy">
+  <figcaption>Holding a rate against market pressure uses up reserves.</figcaption>
+</figure>
+
+
 ## 5. Exchange rate systems
 
 | System | How it works | Advantages | Disadvantages |
@@ -118,6 +147,12 @@ Limits: reserves are finite, speculators may be larger than the central bank, an
 | Managed | Floats, but the central bank intervenes to smooth or steer the rate | Reduces extreme swings while keeping some flexibility | Needs reserves; policy may be unclear; markets can test the band |
 
 A small economy trading mostly with one partner may value a peg. A large, diverse economy may prefer freedom to set interest rates for domestic goals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--01-rate-systems-who-moves-the-rate.webp" width="900" height="1060" alt="Three small time-series charts contrast a free float (market moves the rate), a fixed rate (government devalues then revalues) and a managed float (kept in a band). Appreciation and depreciation are market moves; devaluation and revaluation are deliberate government changes. The rates are illustrative." loading="lazy">
+  <figcaption>Under a float the market moves the rate; under a fixed system the government resets it; a managed float is steered within a band.</figcaption>
+</figure>
+
 
 ## 6. How changes in the exchange rate affect people and the economy
 
@@ -160,9 +195,31 @@ Depreciation therefore helps the trade balance only if demand for exports and im
 
 **Evaluation points:** size of the change, elasticities, time lags, spare capacity, use of imported inputs, and whether exporters cut prices abroad or keep the profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--14-elasticity-trade-balance.webp" width="900" height="990" alt="With elastic demand, a 20% fall in the ar raises exports to 130 and imports to 112.5, improving the balance by 17.5. With inelastic demand exports reach 109 and imports 116.25, so the balance worsens by 7.25." loading="lazy">
+  <figcaption>Depreciation improves the trade balance only if demand is elastic enough.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--03-depreciation-holiday-and-bakery.webp" width="900" height="900" alt="The ar falls from 2.00 to 1.60 bel. A hotel at 1,200 bel costs 600 ar before and 750 ar after, 25% more. A bakery with costs of 100, of which 30 is imported flour, sees flour rise 25% so costs become 107.5, up 7.5%." loading="lazy">
+  <figcaption>A falling currency raises the home-currency price of foreign holidays and imported inputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--04-net-exports-multiplier-28.webp" width="900" height="980" alt="Net exports rise by 17.5. With a multiplier of 1.6 and spare capacity, GDP rises by 28 (17.5 direct plus 10.5 from further rounds), which is 2.8% of a GDP of 1,000. Near full capacity the extra demand mainly raises prices." loading="lazy">
+  <figcaption>A 17.5 rise in net exports becomes a 28 rise in GDP through the multiplier, if there is spare capacity.</figcaption>
+</figure>
+
+
 ## 7. The role of the IMF
 
 The **International Monetary Fund (IMF)** is an international organisation of member countries. Its main roles are to promote international monetary cooperation and exchange rate stability, to lend to members with balance of payments difficulties (usually on conditions about policy changes), to monitor members' economies and give policy advice, and to provide technical assistance. Conditions can be criticised because they may force spending cuts that slow growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--05-imf-roles.webp" width="900" height="1060" alt="The IMF is an organisation of member countries. Its roles are promoting monetary cooperation and exchange rate stability, lending to members with balance of payments difficulties, monitoring and advising, and technical assistance. Loans usually carry policy conditions, which can force spending cuts that slow growth." loading="lazy">
+  <figcaption>Four roles of the IMF, and why lending conditions are criticised.</figcaption>
+</figure>
+
 
 ## Common errors
 

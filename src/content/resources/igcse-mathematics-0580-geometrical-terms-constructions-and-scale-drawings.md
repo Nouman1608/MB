@@ -122,6 +122,12 @@ Square-based pyramid: 1 square + 4 triangles = 5 faces
 
 A sector is bounded by two radii, a segment by a chord. They are the pair most often confused.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
+</figure>
+
+
 ## 4.2 Geometrical constructions
 
 ### Measuring and drawing
@@ -186,6 +192,17 @@ Volume = (1/3) x 36 x 4 = 48 cm^3
 
 More on this in the [Mensuration study guide](/resources/igcse-mathematics-mensuration/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--02-triangle-three-sides.webp" width="900" height="810" alt="Triangle ABC with AB 9 cm. An arc of radius 7.5 cm from A and an arc of radius 6 cm from B cross at C, and AC and BC are joined. Angles are about 41, 56 and 83 degrees." loading="lazy">
+  <figcaption>Construct a triangle from three sides with compasses, keeping the arcs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--03-pyramid-net.webp" width="900" height="1130" alt="Net of a square-based pyramid: 6 cm square (area 36) and four triangles 5 cm high (area 15 each), so surface area 96 cm squared. A 3-4-5 right-angled triangle shows the vertical height is 4 cm, so volume is 48 cm cubed." loading="lazy">
+  <figcaption>The slant height 5 is not the vertical height 4 used in the volume.</figcaption>
+</figure>
+
+
 ## 4.3 Scale drawings
 
 ### Using a scale
@@ -230,6 +247,22 @@ Drawing lengths: 12 / 2 = 6 cm;  8 / 2 = 4 cm
 ```
 
 Checks: the bearing of H from A is 250°, so angle HAB = 250° − 160° = 90°. Pythagoras' theorem and trigonometry give 14.4 km and 103.7°, matching the drawing. The bearing of H from B is about 104° + 180° = 284°. The trigonometry subtopics say knowledge of bearings may be required; see the [Trigonometry study guide](/resources/igcse-mathematics-trigonometry/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--05-reverse-bearings.webp" width="900" height="990" alt="Points P and Q each with a parallel north line. Bearing of Q from P is 063 degrees; bearing of P from Q is 243 degrees, which is 063 plus 180." loading="lazy">
+  <figcaption>The two bearings between a pair of points differ by 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--06-boat-route.webp" width="900" height="780" alt="Harbour H, buoys A and B at 1 cm to 2 km. HA is 6 cm at 070 degrees, AB is 4 cm at 160 degrees with a right angle at A. HB measures about 7.2 cm, about 14.4 km, at bearing about 104 degrees." loading="lazy">
+  <figcaption>Boat route drawn to scale, with the distance and bearing of B from H.</figcaption>
+</figure>
+
 
 ## Common errors
 

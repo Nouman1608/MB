@@ -35,6 +35,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Pathogens** (bacteria, viruses) cause disease by penetrating one of a mammal's interfaces with the environment, which include the **digestive**, **reproductive** and **gas-exchange** systems (this is not a complete list -- the skin is a further interface). Always name the specific interface relevant to a given example — the gas-exchange system for an airborne respiratory pathogen, for instance — rather than describing entry in the abstract.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-biology-causes-of-disease-revision-notes--01-pathogen-interfaces.webp" width="900" height="890" alt="A body outline with a dashed skin boundary. Arrows show pathogens entering through the gas-exchange system (airborne), the digestive system (food and water) and the reproductive system (sexual contact), and through the skin as a further interface. Answers should name the specific interface." loading="lazy">
+  <figcaption>Pathogens enter through interfaces with the environment; name the one that fits the example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--06-bacteria-toxins-virus-damage.webp" width="900" height="850" alt="Bacteria release toxins that make you ill. Viruses enter cells, reproduce inside them and damage the cell." loading="lazy">
+  <figcaption>Bacteria poison; viruses damage cells.</figcaption>
+</figure>
+
+
 ## Lifestyle, CHD and cancer (3.2.1.2)
 
 Specific **risk factors** are associated with **coronary heart disease** and **cancer**, and changes in lifestyle can reduce that risk. This sub-topic is a **data-handling skill as much as a content one**: practise reading incidence data (disease rates plotted against a risk factor such as smoking prevalence or dietary fat intake) and drawing a conclusion that explicitly separates **correlation from causation**.
@@ -53,6 +64,12 @@ Limitation:  correlation is not proof of causation -- other variables
 ```
 
 Exam answers that state the limitation explicitly, rather than only describing the correlation, score in the top band.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-biology-causes-of-disease-revision-notes--02-incidence-data-steps.webp" width="900" height="1190" alt="A scatter graph of illustrative country data shows CHD rate rising with saturated fat intake, with a best-fit line. Three steps follow: describe, conclude that the data are consistent with a risk factor, and evaluate by naming other variables such as smoking, activity and genetics. Correlation is not proof of causation." loading="lazy">
+  <figcaption>Describe, conclude, then name another variable before claiming causation.</figcaption>
+</figure>
+
 
 ## Key terms
 
@@ -78,6 +95,12 @@ Exam answers that state the limitation explicitly, rather than only describing t
 ## Naming a pathogen and its mechanism
 
 A strong answer does more than state "pathogens cause disease" — it names a specific pathogen and identifies which mechanism, or both, it uses. For example, the bacterium responsible for tetanus causes disease almost entirely through toxin production (the toxin affects the nervous system, causing muscle spasms, while the bacterium itself does relatively little direct tissue damage), whereas many viruses cause disease predominantly through direct cell damage as they replicate inside and rupture host cells. Being able to give a worked example like this, rather than a purely general statement, is the difference between a mid-band and a top-band answer on this sub-topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--09-cholera-toxin.webp" width="900" height="1010" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
+  <figcaption>Cholera toxin keeps chloride channels open, so ions then water flood into the gut.</figcaption>
+</figure>
+
 
 ## Interpreting incidence data precisely
 

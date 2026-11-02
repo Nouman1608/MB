@@ -84,6 +84,27 @@ Entering all fourteen lines as one opening journal means a keying slip shows up 
 
 The six balances sum to the 14,820 in the trial balance. The four supplier balances (5,200, 3,640, 1,730 and 860) sum to 11,430. Inventory is entered item by item, as quantity multiplied by cost, and must total 18,400. The asset register holds cost and accumulated depreciation for each asset, with the depreciation rule (vehicles 15% of cost, fittings 10% of cost, straight line). Net book value is 90,000 + 15,400 + 7,200 = 112,600.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--03-transfer-stages.webp" width="900" height="962" alt="Eight numbered stages run from planning to changing over. The first five happen before keying (plan, cut-over date, update the manual books, clean the data, design account codes), stage 6 is entering opening balances, and stages 7 and 8 verify and then change over and review." loading="lazy">
+  <figcaption>The transfer is a sequence: prepare, key, then verify and go live.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--06-cas-opening-trial-balance.webp" width="900" height="1142" alt="Bars for the fourteen trial balance lines: eight debit lines and six credit lines each total 173,810 dollars, so a keying slip in the opening journal would show at once." loading="lazy">
+  <figcaption>The fourteen opening lines give equal debit and credit totals of 173,810.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--07-cas-control-totals.webp" width="900" height="950" alt="Six customer balances add to 14,820, four supplier balances to 11,430, inventory items must total 18,400, and the asset register nets to 112,600 (90,000 + 15,400 + 7,200), each matching the trial balance." loading="lazy">
+  <figcaption>Each ledger or register must add up to its trial balance line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--05-bank-reconciliation.webp" width="900" height="762" alt="The cash book balance of 4,215 is updated for a credit transfer, bank charges, a standing order, a dishonoured cheque and a cheque error, reaching 4,560. The bank statement balance of 5,790 plus an outstanding lodgement of 1,925 less unpresented cheques of 3,155 also reaches 4,560. The updated cash book figure is the one used in the statement of financial position." loading="lazy">
+  <figcaption>Update the cash book first, then adjust the statement for timing so both agree.</figcaption>
+</figure>
+
+
 ## What integrity means
 
 Accounting data has integrity when it is complete (nothing left out or entered twice), accurate (right amounts, right accounts), valid (it relates to real balances and transactions), authorised (entered by someone entitled to enter it) and unchanged by anything other than a recorded correction. These are working terms for this guide, not wording from the syllabus. Each safeguard below protects one or more of them.
@@ -96,6 +117,17 @@ Accounting data has integrity when it is complete (nothing left out or entered t
 - **Keep the manual records.** Retain the originals and take a copy, so the transfer can be restarted if the data is damaged.
 - **Control who enters data.** Give access to authorised staff, and arrange for a second person to check the entries rather than the person who keyed them.
 - **Fix the cut-off rule.** Write down which documents belong in the manual closing balances and which are keyed as new transactions, so none is missed or counted twice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--08-cas-safeguards-gates.webp" width="900" height="1232" alt="Three stages lead to a clean, backed-up opening position. Before keying: reconcile the books, note source totals, keep a copy. While keying: validation, a balanced journal, control, count and hash totals. After keying: compare trial balances, agree ledgers to control accounts, trace a sample, look for unusual items, back up and keep an audit trail." loading="lazy">
+  <figcaption>The safeguards fall into three gates: before, while and after the data is keyed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
 
 ## Safeguards while the data is entered
 
@@ -119,6 +151,22 @@ This time Thistlewood Cafe (3106) is left out. The system shows these figures ag
 
 The hash difference of 3,106 is the missing account's code, and the control total difference of 1,225 is its balance. The record count alone says a record is missing. The hash total says which. The control total says how much.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--04-batch-controls-omission.webp" width="900" height="940" alt="Six accounts on the manual list are compared with the five keyed in; Thistlewood Cafe (3106, balance 1,225) is missing. The record count differs by 1, so a record is missing. The hash total of codes differs by 3,106, which is the missing code. The control total differs by 1,225, which is the missing balance." loading="lazy">
+  <figcaption>Record count says if, hash total says which, control total says how much.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--05-transposition-validation.webp" width="900" height="1000" alt="The source balance 4,260 is keyed as 4,620 with the middle two digits swapped. The control total is 15,180 against 14,820, a difference of 360, which divides by 9, hinting at swapped digits. Validation checks that the entry is a number and the account exists both pass, but they cannot show the amount is right." loading="lazy">
+  <figcaption>A control total flags the slip; validation alone would not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+
 ## Safeguards after the data is entered
 
 - **Compare trial balances.** Print the trial balance from the new system and compare it with the manual trial balance line by line, not just at the total, because two errors can offset each other.
@@ -141,6 +189,12 @@ Halstead keeps both sets of books through April 2027 and compares them:
 
 The 1,150 gap in revenue and receivables is one invoice left in an unposted batch. The missing depreciation arises because the rules for vehicles (28,000 × 15% ÷ 12 = 350 a month) and fittings (12,000 × 10% ÷ 12 = 100 a month) were not set up. Before any inventory effect, the computer profit is 1,150 lower for the missing revenue and 450 higher for the missing expense, so it is 700 below the manual figure. The parallel run found both faults before the manual books were abandoned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--06-parallel-run.webp" width="900" height="968" alt="Halstead compares its manual books with the computer for April 2027. Revenue and closing receivables are each 1,150 lower on the computer because of one unposted invoice, purchases agree, and monthly depreciation of 450 is missing because the rules were not set up. The computer profit is therefore 700 below the manual profit." loading="lazy">
+  <figcaption>Running both sets of books found two faults before the manual books were dropped.</figcaption>
+</figure>
+
+
 ## Approaches to the changeover
 
 The syllabus does not name changeover methods, but each is a way of managing the risk to data.
@@ -150,6 +204,12 @@ The syllabus does not name changeover methods, but each is a way of managing the
 | Direct | The old books stop and the new system starts on the cut-over date | Cheapest and quickest | Any fault is live, with no second set to compare |
 | Parallel | Both are run for a period and results compared | Differences reveal errors before the old books are dropped | Double work and cost |
 | Phased | One ledger moves at a time, such as trade payables first | Faults are contained to a small area | The business runs two systems for longer |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--07-changeover-approaches.webp" width="900" height="1070" alt="Three timelines show the old manual books and the new system. Direct: one switch at the cut-over date, cheapest but any fault is live. Parallel: both run for a period and results are compared, finding errors early at the cost of double work. Phased: one ledger moves at a time, keeping faults small but running two systems for longer." loading="lazy">
+  <figcaption>Each changeover approach trades the cost of running two systems against the risk to the data.</figcaption>
+</figure>
+
 
 ## Evaluating the choices
 

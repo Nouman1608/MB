@@ -175,6 +175,12 @@ business decision back to the objective it appears to be serving,
 rather than treating the decision in isolation from what the business
 is actually trying to achieve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## Economic sectors and business structure
 
 1.2.1 requires candidates to classify business activity into the
@@ -190,6 +196,12 @@ sector** (owned and funded by government, providing services rather
 than pursuing profit) and the **private sector** (owned by individuals
 or shareholders, generally profit-motivated), and candidates should be
 able to discuss businesses operating within each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
 
 ## Measuring and growing business size
 

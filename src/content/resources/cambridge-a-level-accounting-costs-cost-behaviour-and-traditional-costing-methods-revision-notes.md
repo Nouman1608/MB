@@ -44,6 +44,12 @@ Full explanations and worked examples are in the [study guide](/resources/cambri
 | Margin of safety | Budgeted sales minus break-even sales |
 | JIT | Materials arrive when needed, so little inventory is held |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--01-cost-behaviour.webp" width="900" height="1008" alt="Four small graphs of cost against benches made. Rent is a flat 18,000 pounds, timber rises 38 pounds per bench from zero, electricity starts at a 2,400 pound standing charge and adds 1.50 per bench (5,400 at 2,000 benches), and a supervisor cost steps from 28,000 to 56,000 pounds after 2,500 benches." loading="lazy">
+  <figcaption>Fixed, variable, semi-variable and stepped costs behave differently as output grows.</figcaption>
+</figure>
+
+
 ## 2.1.1 Materials, labour and cost behaviour
 
 - Split wages into direct labour and indirect labour. Overtime premium is usually an overhead unless one job caused it.
@@ -62,9 +68,46 @@ Full explanations and worked examples are in the [study guide](/resources/cambri
 
 Keldon Bags: opening 50 at 4.00, bought 50 at 5.00, then 60 issued, 40 left. FIFO closing 40 × 5.00 = 200, cost of issues 450 − 200 = 250. AVCO average 450 / 100 = 4.50, closing 180, cost of issues 270. Rising prices: FIFO gives higher closing inventory and higher profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--09-fifo-vs-avco.webp" width="900" height="910" alt="Dunnock Pumps has 400 units costing 5,200 dollars: 100 at 12, 200 at 13 and 100 at 14. Under FIFO the oldest 300 units are issued for 3,800 and the closing 100 are the newest layer, 1,400. Under periodic AVCO every unit is valued at 13.00, so issues cost 3,900 and closing inventory is 1,300." loading="lazy">
+  <figcaption>FIFO leaves the newest layer in closing inventory; periodic AVCO values every unit at one average.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--10-perpetual-avco.webp" width="900" height="940" alt="Five columns track units and value in stock. After each purchase the average is recalculated: 12.67 after the 5 March receipt and 13.20 after the 18 March receipt. The issues cost 1,900 and 1,980, leaving 100 units worth 1,320. Closing inventory is 1,400 under FIFO, 1,300 under periodic AVCO and 1,320 under perpetual AVCO." loading="lazy">
+  <figcaption>Perpetual AVCO recalculates the average after every receipt, so it differs from periodic AVCO.</figcaption>
+</figure>
+
+
 ### JIT
 
 Principles: small frequent deliveries, reliable suppliers, quality built in, planning matched to demand. For: lower storage cost, less cash tied up, less obsolescence. Against: stoppages from late delivery, lost bulk discounts, higher ordering costs. Best when suppliers are reliable and demand is steady.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--08-cost-buildup.webp" width="900" height="938" alt="Bars to scale show Whinfell Cycles costs for 400 bikes. Direct materials (34,000) and direct labour (16,800) are traced to each bike and make a prime cost of 50,800. Indirect materials, labour and expenses (1,200, 3,000 and 5,600) make overheads of 9,800. Production cost of 60,600 divided by 400 bikes is 151.50 a bike." loading="lazy">
+  <figcaption>Prime cost plus production overheads gives the full production cost per bike.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--12-semi-variable-split.webp" width="900" height="870" alt="Power cost is 4,150 dollars at 300 bikes and 4,950 at 500. The extra 800 for 200 more bikes gives 4.00 a bike, and 4,150 less 300 times 4.00 leaves a fixed part of 2,950. At 400 bikes the cost is 2,950 plus 1,600, which is 4,550." loading="lazy">
+  <figcaption>Two known points give the variable cost per unit and the fixed part of a semi-variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--09-cost-jit-stock.webp" width="900" height="1030" alt="Two sawtooth graphs with the same use of 100 units a day show bulk delivery (1,000 every 10 days, average stock 500) against just in time (200 every 2 days, average stock 100). The benefit is less stock and cash tied up; the risk is that a late delivery stops production." loading="lazy">
+  <figcaption>Just in time holds far less stock but depends on reliable delivery (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--10-cost-stepped-inspector.webp" width="900" height="920" alt="A step graph of inspector cost: 2,100 dollars up to 250 bikes, 4,200 to 500 and 6,300 above. 400 bikes need two inspectors ($4,200) and 520 need three ($6,300)." loading="lazy">
+  <figcaption>A stepped cost jumps each time output passes another 250 bikes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--11-cost-overtime.webp" width="900" height="770" alt="An assembler’s 40 hours at 14 dollars cost 560 and 5 overtime hours at time and a half (21 dollars) cost 105, a total of 665. Overtime caused by one customer’s rush job is usually charged to that job; general overtime is an overhead." loading="lazy">
+  <figcaption>Overtime is paid at time and a half and charged to a job or to overheads depending on its cause.</figcaption>
+</figure>
+
 
 ## 2.2.1 Unit, job and batch costing
 
@@ -75,6 +118,12 @@ Principles: small frequent deliveries, reliable suppliers, quality built in, pla
 | Batch | Groups of identical items | Batch cost / items | Bakery batch; laundry load |
 
 Method in steps for a job or batch statement: direct materials, direct labour, direct expenses, absorbed overhead, total cost, then add mark-up (on cost) or margin (on selling price).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--11-unit-job-batch.webp" width="900" height="940" alt="Unit costing divides a service total of 33,300 dollars by 740 sessions to give 45.00 a session. Job costing adds materials 1,860, labour 750 and overhead 560 to give a job cost of 3,170, then adds a 30 percent mark-up of 951 for a price of 4,121. Batch costing divides a 240 batch cost by 250 loaves to give 0.96 a loaf." loading="lazy">
+  <figcaption>Unit and batch costing divide the total by the number of items; job costing builds a cost and adds a mark-up.</figcaption>
+</figure>
+
 
 ## 2.2.2 Absorption costing
 
@@ -93,6 +142,17 @@ Causes: actual activity differs from budget, actual spending differs from budget
 - **Uses:** full cost for pricing, inventory valuation, product cost comparisons.
 - **Limitations:** subjective bases, fixed costs spread as if variable, profit depends on production level, arbitrary service department splits.
 - **Decision support:** useful for long-run pricing and cost recovery; not enough alone for short-run choices, because fixed costs may not change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--01-overhead-reapportionment.webp" width="900" height="930" alt="Stores holds 13,000 and Maintenance 12,000. Stores is shared 60:40 so Cutting gets 7,800 and Assembly 5,200. Maintenance is shared 75:25 so Cutting gets 9,000 and Assembly 3,000. Cutting totals 54,000 and Assembly 31,000, making 85,000 in all." loading="lazy">
+  <figcaption>Service department costs are reapportioned one way, into the production departments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--12-cost-reapportion.webp" width="900" height="970" alt="Stores (13,000) is shared 60:40 and Maintenance (12,000) 75:25 between Cutting and Assembly, so Cutting rises from 37,200 to 54,000 and Assembly from 22,800 to 31,000; the total of 85,000 is unchanged." loading="lazy">
+  <figcaption>Service department costs are reapportioned to the production departments, leaving the total unchanged.</figcaption>
+</figure>
+
 
 ## 2.2.3 Marginal costing
 
@@ -117,6 +177,12 @@ Brindley Tools: price 50, variable cost 30, fixed costs 80,000. Contribution 20;
 
 - **Uses:** contribution by product, short-run decisions, no inventory distortion of profit.
 - **Limitations:** needs a fixed and variable split, long-run prices must still cover fixed costs, not full cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods--13-cost-target-profit.webp" width="900" height="890" alt="A profit line for Wyncombe Toys (contribution 16 dollars, fixed costs 48,000) crosses zero at 3,000 units, gives 16,000 at the budgeted 4,000 (margin of safety 1,000 units, 25%) and reaches the 20,000 target at 4,250 units. The C/S ratio of 40% gives break-even revenue of 120,000." loading="lazy">
+  <figcaption>Target units are fixed costs plus target profit divided by contribution per unit.</figcaption>
+</figure>
+
 
 ## Decision rules
 

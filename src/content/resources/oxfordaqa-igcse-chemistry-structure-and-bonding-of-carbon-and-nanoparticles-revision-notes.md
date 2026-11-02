@@ -47,6 +47,12 @@ Other links: [course hub](/boards/oxfordaqa/igcse/chemistry/), [printable checkl
 - Carbon can form **four covalent bonds**.
 - Diamond, graphite and fullerenes are all pure carbon. Different bonding patterns give different properties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+
 ## 3.2.3 b–d: Diamond and graphite side by side
 
 | | Diamond | Graphite |
@@ -83,6 +89,22 @@ atoms = 0.0020 × 6.02 × 10²³ = 1.204 × 10²¹
 delocalised electrons = 1.20 × 10²¹ (one per atom)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--02-carbon-outer-electrons.webp" width="900" height="960" alt="A carbon atom has 6 electrons arranged 2,4, so 4 outer electrons. In diamond all 4 are used in 4 bonds, leaving no free electrons, so diamond does not conduct. In graphite 3 are used in bonds and the fourth is delocalised and can move along the layer, so graphite conducts like a metal." loading="lazy">
+  <figcaption>Diamond uses all four outer electrons in bonds; graphite leaves one per atom free to carry current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
+
 ## 3.2.3 e: Fullerenes
 
 - Different numbers of carbon atoms.
@@ -97,6 +119,12 @@ delocalised electrons = 1.20 × 10²¹ (one per atom)
 | Nanotubes for reinforcing materials, eg tennis rackets | Strong for their mass, so they add strength without much weight |
 
 The right-hand column is the style of reasoning to use when a question supplies information. It is not extra content to memorise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--06-fullerenes.webp" width="900" height="850" alt="Simplified drawings of a hexagon-ring nanotube and a hollow cage holding a drug. Nanotubes reinforce materials such as tennis rackets; cages can carry drugs; fullerenes are also used as lubricants and catalysts." loading="lazy">
+  <figcaption>Fullerenes are carbon structures based on hexagonal rings, with several uses.</figcaption>
+</figure>
+
 
 ## 3.2.4: Nanoparticles
 
@@ -134,6 +162,17 @@ Smaller particles have a higher ratio. Example: a 50 nm cube has a ratio of 6 ÷
 New computers; new catalysts; new coatings; highly selective sensors; stronger and lighter construction materials; new cosmetics such as suntan creams and deodorants.
 
 You do not need specific nanoparticle examples. Questions may give you information about a material and ask you to relate its use to its structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--07-nanoscale.webp" width="900" height="800" alt="A log scale from 1 nm to 1 mm with 1-100 nm shaded. Particle A (4.0e-8 m = 40 nm) lies inside; particle B (0.35 um = 350 nm) lies outside." loading="lazy">
+  <figcaption>Nanoparticles are 1-100 nm: convert units before deciding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--08-sa-to-v.webp" width="900" height="940" alt="Cubes of side 4, 2 and 1 have surface area to volume ratios 1.5, 3 and 6, so halving the side doubles the ratio. A 5 nm cube has ratio 1.2 per nm and a 5 um (5000 nm) cube 0.0012 per nm, 1000 times smaller." loading="lazy">
+  <figcaption>The smaller the cube, the larger its surface area to volume ratio.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

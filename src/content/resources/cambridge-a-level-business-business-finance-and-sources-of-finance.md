@@ -65,6 +65,17 @@ Cash is the money a business holds and can use now. Profit is sales revenue minu
 
 Pendlemoor is profitable on paper, yet its bank balance fell by £7,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ### Failure from lack of finance
 
 A business that cannot pay its debts when they fall due is insolvent, whatever its profit. The syllabus names three outcomes.
@@ -74,6 +85,12 @@ A business that cannot pay its debts when they fall due is insolvent, whatever i
 - Administration: an outside administrator takes charge to try to rescue the business or sell it as a going concern, which gives it time while creditors are held back.
 
 Liquidation ends the business; administration tries to keep all or part of it alive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--10-fin-insolvency.webp" width="900" height="950" alt="Insolvent means unable to pay debts when due. Bankruptcy applies to a person such as a sole trader or partner; liquidation closes the business and sells assets; administration puts an outsider in charge to rescue or sell it as a going concern." loading="lazy">
+  <figcaption>Liquidation ends the business; administration tries to keep all or part of it alive; bankruptcy is for individuals.</figcaption>
+</figure>
+
 
 ## 5.1.2 Working capital
 
@@ -104,6 +121,22 @@ Capital expenditure is spending on non-current assets that will be used for more
 A new van and a workshop extension are capital expenditure. The van's fuel and repairs to a leaking roof are revenue expenditure.
 
 The distinction matters because the two are financed differently. Capital expenditure often needs long term finance. Revenue expenditure comes from the business's regular cash flow or short term finance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--06-fin-working-capital.webp" width="900" height="870" alt="Current assets of 40,000 (inventory 14,000, receivables 22,000, cash 4,000) less current liabilities of 27,000 (payables 18,000, overdraft 9,000) leave working capital of 13,000, shown as the dashed gap." loading="lazy">
+  <figcaption>Working capital is current assets minus current liabilities, here 13,000 pounds, and is not cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--07-fin-receivables.webp" width="900" height="730" alt="At 60 days about 29,589 is owed; at 30 days about 14,795. Cutting the credit period by 30 days releases about 14,795 of cash, with a warning that strict terms risk losing customers." loading="lazy">
+  <figcaption>Collecting 30 days sooner releases about 14,795 pounds of cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--06-fin-capital-revenue.webp" width="900" height="970" alt="Capital items (van, workshop extension, machinery) serve the business beyond one year; revenue items (fuel, roof repair, wages) are used within the year. Capital often needs long-term finance." loading="lazy">
+  <figcaption>Capital spending buys long-lasting assets; revenue spending covers everyday costs.</figcaption>
+</figure>
+
 
 ## 5.2.1 Ownership and sources of finance
 
@@ -138,6 +171,22 @@ Internal finance comes from inside the business. External finance comes from out
 - Crowd funding: raising small sums from many people, usually through an online platform, in return for a reward, a product or a share.
 - Government grants: money from a government body, often for a stated purpose. It need not be repaid but conditions apply and it is limited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--09-fin-leaseback.webp" width="900" height="930" alt="A dashed line shows 260,000 received now. Bars show cumulative rent at 24,000 a year reaching 240,000 after ten years, and the business no longer owns the workshop." loading="lazy">
+  <figcaption>Sale and leaseback gives 260,000 pounds now but costs 24,000 a year in rent and the property is no longer owned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--07-fin-hp-leasing.webp" width="900" height="940" alt="Hire purchase is paid in instalments plus interest and the asset is owned after the final payment; leasing is a regular fee and the asset is never owned." loading="lazy">
+  <figcaption>Hire purchase ends in ownership; leasing never does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--08-fin-give-up.webp" width="900" height="824" alt="External sources grouped by what the business gives up: interest, ownership and control, part of the invoice value, or conditions and supplier trust." loading="lazy">
+  <figcaption>Each external source asks for something different in return.</figcaption>
+</figure>
+
+
 ## 5.2.3 Factors affecting the choice of source
 
 - Cost: interest, fees and the dividends or profit given up. Compare the total cost over the life of the finance.
@@ -146,6 +195,12 @@ Internal finance comes from inside the business. External finance comes from out
 - Use to which it is put: long term assets suit long term finance; short term gaps suit short term finance.
 - Level of existing debt: a business already paying heavy interest may find lenders unwilling or the extra interest unaffordable, which pushes it toward share capital or internal finance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--10-fin-choice.webp" width="900" height="910" alt="Five factors: cost, flexibility, control, use and existing debt. If existing debt is high choose shares; if not and owners want control and profit covers 3,200, choose the loan; otherwise weigh cost, flexibility and use." loading="lazy">
+  <figcaption>A decision path built from the lesson's five choice factors.</figcaption>
+</figure>
+
+
 ## 5.2.4 Selecting the source of finance
 
 **Worked example.** Zora runs a small bakery needing £8,000 for 3 months while a large catering order is delivered and paid for. A bank overdraft at 12% a year costs £8,000 × 12% × 3/12 = £240 if the full amount is used for 3 months. A 12-month loan at 9% costs £8,000 × 9% = £720 in interest, though the money is needed only for a quarter. The overdraft is more appropriate because the need is short term and its cost follows the time used.
@@ -153,6 +208,17 @@ Internal finance comes from inside the business. External finance comes from out
 Now a long term need: £40,000 for equipment lasting five years. A loan at 8% costs £3,200 a year in interest if the balance stays at £40,000 (an interest-only illustration), or £16,000 over five years. A share issue has no interest but gives up ownership. Choose the loan if the owners want control and profit can cover interest; choose shares if debt is already high.
 
 An evaluation about finance weighs the factors against the facts. A good answer picks a source, explains why it fits, and states one reason against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--08-fin-overdraft-loan.webp" width="900" height="730" alt="A timeline over 12 months shows the 8,000 pound need lasting 3 months. An overdraft used for 3 months costs 240; a 12-month loan costs 720 although the money is needed for a quarter." loading="lazy">
+  <figcaption>For a 3-month need an overdraft costs 240 pounds against 720 pounds for a 12-month loan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--09-fin-loan-cost.webp" width="900" height="930" alt="A 40,000 loan at 8% costs 3,200 a year, 16,000 over five years (interest-only illustration); a share issue has no interest but gives up ownership." loading="lazy">
+  <figcaption>A bank loan costs 16,000 of interest over five years; shares cost no interest but share ownership.</figcaption>
+</figure>
+
 
 ## Common errors
 

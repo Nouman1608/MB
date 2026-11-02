@@ -38,6 +38,12 @@ Use this page with the [revision notes](/resources/ib-dp-business-management-the
 
 The guide pairs most of these with the skill "evaluate" (AO3), so reasoned judgement matters more than description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--06-seven-ps.webp" width="900" height="990" alt="Four core Ps (Product, Price, Place, Promotion) apply to every business. Three extra Ps matter especially for services: People, Process and Physical evidence. A service is experienced, not just bought." loading="lazy">
+  <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
+</figure>
+
+
 ## Product
 
 ### Product life cycle, portfolio and the mix
@@ -66,6 +72,12 @@ Link these three to the stage, because the guide asks for the relationship.
 
 Cash flow often lags profit in growth because the business pays for stock and equipment before customers pay. A portfolio works well when cash from mature products funds the launch of new ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--03-plc-profit-cash-investment.webp" width="900" height="920" alt="Profit and cash flow curves across introduction, growth, maturity and decline. Profit is negative at launch, highest in maturity and falls in decline. Cash flow lags profit in growth, then turns strongly positive. Investment bars read high, high, low, minimal." loading="lazy">
+  <figcaption>Cash flow lags profit in growth because stock and equipment are paid for before customers pay.</figcaption>
+</figure>
+
+
 ### Extension strategies
 
 An extension strategy aims to keep sales going for longer and put off the start of decline. Examples are finding new markets, repositioning, adding features or a new variant, changing packaging, a new use for the product, or cutting price. The guide pairs this with evaluation, so ask whether the strategy fits the product, costs less than a new launch, and avoids harming the brand.
@@ -77,6 +89,12 @@ An extension strategy aims to keep sales going for longer and put off the start 
 
 A balanced answer recommends (a) if cash reserves are strong and the segment is large enough, because it extends the life cycle without relying on price. It names the condition on which the judgement depends.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--05-extension-strategies.webp" width="900" height="794" alt="A sales curve rises, peaks and declines (dashed). With an extension the decline is put off (solid). Six ways to extend are listed, with Marnitz’s battery version highlighted. Curve is illustrative." loading="lazy">
+  <figcaption>Extension strategies keep sales going longer and put off decline.</figcaption>
+</figure>
+
+
 ### Branding
 
 The guide lists four aspects of branding.
@@ -87,6 +105,17 @@ The guide lists four aspects of branding.
 - Brand value: the extra worth a brand carries, which supports higher prices and can be counted as an asset when a business is sold.
 
 The importance of branding is that it separates a product from near-identical rivals, supports a price premium, lowers the cost of winning repeat customers and makes new products easier to launch under a trusted name. The risk is that one bad event can damage every product under the same brand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--04-branding-four-aspects.webp" width="900" height="948" alt="A staircase of four bars: awareness, development, loyalty and value, leading to a price premium and cheaper repeat sales. The risk is that one bad event can hurt every product under the brand." loading="lazy">
+  <figcaption>Awareness, development, loyalty and value build a brand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
 
 ## Price
 
@@ -130,6 +159,27 @@ Marnitz raises a price from 250 to 275 dollars, and monthly sales fall from 2,00
 
 Demand is price elastic (the size of the figure is above 1). Revenue falls from 250 × 2,000 = 500,000 dollars to 275 × 1,700 = 467,500 dollars. A business facing elastic demand loses revenue by raising price, so a price cut may suit it better. If demand were inelastic (size below 1), a rise would increase revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--05-cost-plus-contribution-pricing.webp" width="900" height="750" alt="A cost-plus bar: unit cost 180 plus 35% mark-up of 63 gives 243 dollars. A contribution bar, HL only: price 150 less variable cost 120 leaves 30 per frame, and 400 frames contribute 12,000 dollars." loading="lazy">
+  <figcaption>Cost-plus adds a mark-up to unit cost; contribution pricing only needs to beat variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--06-ped-elastic-revenue.webp" width="900" height="980" alt="A demand curve with points at 250 dollars and 2,000 units and 275 dollars and 1,700 units. A 10% price rise cuts quantity by 15%, so PED is -1.5 (elastic). Revenue gained is 42,500 and lost is 75,000, so revenue falls from 500,000 to 467,500." loading="lazy">
+  <figcaption>When demand is elastic, raising the price lowers revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--06-four-pricing-methods.webp" width="900" height="1110" alt="Four panels: loss leader (milk at a loss draws shoppers who spend on other items), predatory (price below rivals’ cost), premium (high price with a strong brand) and dynamic pricing (seat price rising towards flight day, HL only). Numbers are illustrative." loading="lazy">
+  <figcaption>Loss leader, predatory, premium and dynamic pricing in pictures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+
 ## Promotion
 
 | Type | Meaning | Examples |
@@ -141,6 +191,17 @@ Demand is price elastic (the size of the figure is above 1). Revenue falls from 
 Above the line has wide reach but high cost and is hard to measure. Below the line is cheaper per customer and easier to track, but reaches fewer people.
 
 Social media marketing as a promotional strategy asks for evaluation. Strengths: low cost to start, precise targeting, two-way contact, results that can be measured quickly, and content that customers share. Limitations: negative comments spread fast, the business needs staff time to respond, platforms change their rules, and the audience may not match the target market. Judge it for the firm's customers: it suits a young audience, and less well a business whose buyers do not use these platforms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--04-promotion-atl-btl-ttl.webp" width="900" height="1080" alt="Three rows with a megaphone and twelve customers. Above the line reaches everyone with paid mass media. Below the line reaches a few chosen customers directly. Through the line combines both under one message." loading="lazy">
+  <figcaption>Above the line reaches many, below the line reaches chosen customers, through the line does both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--07-social-media-evaluation.webp" width="900" height="854" alt="A balance scale lists strengths (low start cost, targeting, two-way contact, fast results, sharing) against limitations (bad comments, staff time, platform rules, audience mismatch). The judgement depends on the firm’s customers." loading="lazy">
+  <figcaption>Weigh social media’s strengths and limits against the target audience.</figcaption>
+</figure>
+
 
 ## Place
 
@@ -161,6 +222,12 @@ A service is intangible, produced and consumed together, and varies with who del
 - **People:** the importance of employee-customer relationships is that patients judge the whole visit by how the dentist and receptionist treat them. Cultural variation matters: in some cultures patients expect formal, respectful distance, and in others a friendly, personal style. Training and recruitment must reflect the local culture.
 - **Processes:** the importance of delivery processes is that booking, check-in, treatment and payment shape the experience. A change such as online booking reduces waiting and errors, but may disadvantage patients who dislike technology, and staff need retraining.
 - **Physical evidence:** because a service cannot be inspected beforehand, tangible cues signal quality: a clean waiting room, uniforms, a tidy website, branded appointment cards and visible certificates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-the-seven-ps-of-the-marketing-mix--08-service-ps-dental.webp" width="900" height="1018" alt="Three bands: people (formal versus friendly styles by culture), processes (book, check in, treat, pay with online booking) and physical evidence (clean room, uniforms, certificates, website)." loading="lazy">
+  <figcaption>People, processes and physical evidence at a dental studio.</figcaption>
+</figure>
+
 
 ## Appropriate marketing mixes
 

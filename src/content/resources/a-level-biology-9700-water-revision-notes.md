@@ -41,6 +41,12 @@ Two jobs, both in one outcome:
 
 Nothing else is required for 2.4. Cohesion of water in the xylem is in Topic 7; water potential is in Topic 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+
 ## Definitions
 
 | Term | Definition to learn |
@@ -65,6 +71,12 @@ Nothing else is required for 2.4. Cohesion of water in the xylem is in Topic 7; 
 ```
 
 **Drawing check:** label δ+ on H and δ− on O; dotted line from H of one molecule to O of the next; the solid lines inside a molecule are covalent bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
 
 ## The three properties at a glance
 
@@ -125,6 +137,12 @@ A full answer has three links. Miss one and you usually lose a mark.
 
 Links: hydrophobic R groups folding into the centre of globular proteins (2.3) and phospholipid bilayers (2.2, Topic 4) both depend on water's polarity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Covalent bond vs hydrogen bond.** O–H inside one molecule is covalent and strong. The attraction between molecules is a hydrogen bond and weak.
@@ -133,6 +151,12 @@ Links: hydrophobic R groups folding into the centre of globular proteins (2.3) a
 - **Evaporation cools; dripping does not.** Only sweat that evaporates removes the latent heat.
 - **Polar vs non-polar.** Polar and charged substances dissolve; non-polar ones do not, because they cannot form hydrogen bonds with water.
 - **Solvent vs reactant.** Water dissolves substances (solvent action) and also takes part in hydrolysis (a reactant). For 2.4, the property asked for is solvent action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--03-water-heat.webp" width="900" height="1050" alt="Top: 500 kJ absorbed by 42 kg of liquid raises water by 2.85 degrees Celsius but a liquid with half the specific heat capacity by 5.67 degrees. Bottom: removing 90 kJ needs only 37.5 g of water to evaporate, compared with 21.5 kg of water warmed by 1 degree Celsius; to the same scale the evaporation bar is a sliver." loading="lazy">
+  <figcaption>Water warms slowly and removes a lot of heat when it evaporates.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

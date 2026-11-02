@@ -54,6 +54,12 @@ Ansoff's matrix is a model of growth strategy. It sorts the options open to a bu
 
 To tell two quadrants apart, change one thing at a time. If only the product is new, it is product development. If only the market is new, it is market development. If both are new, it is diversification. If neither is new, it is penetration. A bakery selling its loaves in another city is market development; a bakery opening a hardware shop is diversification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--02-ansoff-matrix.webp" width="900" height="850" alt="A grid of existing or new products against existing or new markets for a UK clothing retailer. Market penetration is lowest risk; product development and market development carry more; diversification (new product, new market) is highest." loading="lazy">
+  <figcaption>Ansoff's Matrix links growth options to how much is new, and so to risk.</figcaption>
+</figure>
+
+
 ### Example strategies
 
 | Quadrant | Examples of strategies |
@@ -76,6 +82,17 @@ Stakeholders feel the risk differently.
 - **Customers** may gain new products, but quality could slip if the business is stretched.
 - **Local community** may gain jobs or suffer extra traffic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--12-ansoff-stakeholders.webp" width="900" height="976" alt="A risk scale from penetration (lowest) through market or product development to diversification (highest), then a possible gain and possible harm for owners, employees, lenders, suppliers, customers and the local community." loading="lazy">
+  <figcaption>Higher-risk growth strategies can bring gains or harms for every stakeholder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+
 ### Recommending and justifying a strategy
 
 A recommendation is not enough on its own. Tie the choice to the business's objectives, its resources, the state of the market, the time available and its attitude to risk. Then weigh the other options and say why they are less suitable.
@@ -90,6 +107,12 @@ Worked example. Daskell Bakehouse has 14 shops and annual sales of £6.2m. Sales
 | Retail of kitchen equipment | Diversification | £900,000 | New product and new customers |
 
 The three new shops cost £1.2m in total, which is £400,000 each. A recommendation: Daskell should start with penetration and add product development later. Penetration costs the least and uses the knowledge it already has, so a mistake is cheap, and it fits an owner who wants limited borrowing. Market development needs the most money and an unfamiliar customer base. Diversification adds both kinds of uncertainty, with £900,000 at risk and no experience in kitchen equipment. The judgement depends on one assumption: that there is still room to win more sales from current customers. If shops already serve nearly everyone nearby, penetration may bring little extra, and product development becomes the better first step. A small trial would test this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--11-daskell-options.webp" width="900" height="934" alt="Ansoff matrix with the four Daskell options and costs: penetration 90,000 pounds, product development 350,000, market development 1.2 million (400,000 per shop), diversification 900,000. The recommendation is to start with penetration then add product development." loading="lazy">
+  <figcaption>Cost and risk both favour penetration first for Daskell.</figcaption>
+</figure>
+
 
 ### Usefulness of the matrix
 
@@ -130,6 +153,32 @@ Working for B's payback: after three years £190,000 has come back, so £10,000 
 
 Payback favours A. ARR and NPV favour B. The conflict arises because A returns cash early and then fades, while B builds slowly and earns more overall. With a 15% discount rate B's NPV is still higher at about £66,900, against about £10,300 for A, so the ranking is not sensitive to the rate. The recommendation depends on context. If Truvane is short of cash, early payback matters. If it can wait, B offers much more value. In Ansoff terms, A is product development and B is diversification (a new bike and a new market), which the matrix rates as riskier. Truvane should test B's forecasts, for example the export demand, before committing. Qualitative factors then decide: does Truvane have export knowledge, will staff cope, and does the project fit its aims?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--01-tools-cumulative-cash.webp" width="900" height="730" alt="Line chart of cumulative net cash (thousand pounds) over five years for two 200 thousand pound projects. A reaches zero at 2.0 years then flattens to plus 80. B reaches zero at 3.09 years, overtakes A near year 3.6 and ends at plus 230." loading="lazy">
+  <figcaption>Project A recovers its cost sooner, but Project B ends far ahead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--02-tools-conflict-scoreboard.webp" width="900" height="880" alt="Scoreboard: payback 2.0 v 3.1 years (A wins); ARR 8.0% v 23.0% (B wins); NPV at 10% plus 29,700 v plus 109,400 (B); NPV at 15% plus 10,300 v plus 66,900 (B)." loading="lazy">
+  <figcaption>Payback picks A; ARR and NPV pick B, and the NPV ranking does not change at 15%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--06-payback-period.webp" width="900" height="940" alt="Cumulative cash flow columns for years 0 to 5 cross zero halfway through year 4: 36,000 short at the end of year 3 and 72,000 arriving in year 4 gives 3 years 6 months." loading="lazy">
+  <figcaption>Payback is when cumulative cash flow reaches zero: here 3 years 6 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+
 ### Evaluating decisions using quantitative and qualitative information
 
 Quantitative information (costs, forecasts, ratios, NPV, expected values) is objective in form and allows comparison, but depends on estimates. Qualitative information (reputation, ethics, staff views, fit with the mission) is harder to compare but often explains why a "good" project fails. A strong evaluation follows five steps:
@@ -140,6 +189,12 @@ Quantitative information (costs, forecasts, ratios, NPV, expected values) is obj
 4. Bring in qualitative factors and stakeholders.
 5. Make a justified judgement on the course of action, saying what would change it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--13-five-step-judgement.webp" width="900" height="926" alt="Five numbered steps using Truvane Cycles: state each tool result, explain why they differ, test the inputs (these three quantitative), bring in qualitative factors, then make a justified judgement and say what would change it." loading="lazy">
+  <figcaption>A strong evaluation moves from numbers to qualitative factors to a justified judgement.</figcaption>
+</figure>
+
+
 ### Likely success, strengths and limitations of the tools
 
 To judge the likely success of a proposal, ask whether the numbers are realistic, whether the business has the people, money and time, how it compares with other options, and how rivals and the market may react. Each tool has strengths and limits:
@@ -149,6 +204,12 @@ To judge the likely success of a proposal, ask whether the numbers are realistic
 - **NPV:** accounts for time value; depends on the chosen discount rate and is harder to explain.
 - **Decision trees:** weigh risk using probabilities; the probabilities are often guesses and the expected value is an average that may never occur.
 - **Ansoff's matrix:** broad and simple but with no figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ### Reasons for success or failure of a business
 

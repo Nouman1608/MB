@@ -60,6 +60,22 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 
 **Trap.** Employment 18.4 million unchanged and 0.2 million jobless people give up looking: unemployed falls from 1.1 to 0.9 million, so the rate falls from 5.6% to 4.7%, though no one gained a job.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--01-ue-labour-force.webp" width="900" height="990" alt="Two stacked bars for Country A, whose working-age population is 26.0 million. In year 0, 18.4 million are employed, 1.1 million unemployed and 6.5 million not in the labour force. The labour force is 19.5 million, so the unemployment rate is 1.1 divided by 19.5, which is 5.6 percent, and the participation rate is 75 percent. In year 1 employment is unchanged but 0.2 million jobless people stop looking. Unemployment is 0.9 million out of a labour force of 19.3 million, a rate of 4.7 percent. Those 0.2 million still have no job; counting them again gives 5.6 percent." loading="lazy">
+  <figcaption>The rate is measured against the labour force, and people who stop looking drop out of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--05-claimant-vs-survey.webp" width="900" height="810" alt="Two to-scale bars: the labour force survey finds 1.10 million unemployed, the claimant count 0.78 million (70.9% of the survey figure). The 0.32 million gap is jobless people not eligible for benefit or not registered. The survey is comparable across countries; the claimant count is quick but follows benefit rules." loading="lazy">
+  <figcaption>The claimant count is 70.9% of the survey figure for Country A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--06-who-gets-counted.webp" width="900" height="810" alt="Five cases and their effect on the measured rate: discouraged workers, hidden unemployed and underemployed part-timers understate it; benefit claimants working informally overstate it; sampling error and differing definitions push it either way." loading="lazy">
+  <figcaption>Which jobless people are missed or wrongly counted changes the measured rate.</figcaption>
+</figure>
+
+
 ## 4.5.3: types of unemployment
 
 | Type | Cause | Lasts | Example |
@@ -73,6 +89,22 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 **Cyclical chain.** AD falls (shifts left along SRAS), real output falls, firms cut labour, unemployment rises, incomes fall, AD falls further.
 
 **Structural chain.** Industry declines, workers hold skills no one wants or live far from vacancies (occupational and geographical immobility), jobs go unfilled elsewhere while people stay unemployed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--02-ue-types-mix.webp" width="900" height="830" alt="Horizontal bars show 600 unemployed people in an invented region: 90 frictional (15 percent), 210 structural (35 percent), 150 cyclical (25 percent), 100 seasonal (16.7 percent) and 50 technological (8.3 percent). The cyclical bar is outlined: a boom would mainly remove that 25 percent, not the larger structural group, which needs retraining or moving." loading="lazy">
+  <figcaption>A boom would mainly remove the cyclical 25%, not the structural 35%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
 
 ## 4.5.4: consequences of unemployment
 
@@ -88,6 +120,12 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 **Chain for the economy.** Fewer workers employed, so output sits below what the economy could produce. Lower income and spending, so less tax and more benefit spending. Long spells erode skills, so the jobless are harder to employ later.
 
 **Evaluate** by type, duration, concentration in a region, and benefit levels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--07-cost-of-unemployment.webp" width="900" height="810" alt="Two bars to the same scale: output lost 33,000 million cu, and the government cost of benefits paid 6,600 million plus tax forgone 4,950 million, a fiscal cost of 11,550 million cu, for 1.1 million unemployed people." loading="lazy">
+  <figcaption>Fiscal cost is 11,550m cu against 33,000m cu of lost output.</figcaption>
+</figure>
+
 
 ## 4.6.1: definitions
 
@@ -111,6 +149,12 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 
 **Difficulties.** Basket and weights age; substitution is ignored; quality change and new goods; households differ (no typical household); regional and informal prices; costly sampling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--03-pi-cpi-disinflation.webp" width="900" height="970" alt="A line chart shows the consumer price index rising from 100 in year 0 to 105.6 in year 1 and 108.2 in year 2, computed from category weights of 30, 35, 15 and 20. A dashed extension shows a possible fall to 107.1. Bars below show the inflation rate: 5.6 percent in year 1, 2.5 percent in year 2 (disinflation, because the CPI still rises) and minus 1.0 percent if the CPI fell to 107.1 (deflation)." loading="lazy">
+  <figcaption>Inflation fell from 5.6% to 2.5% while the CPI kept rising (disinflation); a CPI fall would be deflation.</figcaption>
+</figure>
+
+
 ## 4.6.3: nominal and real
 
 | Quantity | Formula |
@@ -129,6 +173,12 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 2. Divide nominal by the index and multiply by 100.
 3. Compare real figures from different years, not nominal ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--04-pi-real-wage.webp" width="900" height="930" alt="A line chart compares a worker's nominal monthly wage with the real wage over three years. Nominal pay is 2,400, 2,520 and 2,640 currency units. Deflated by the CPI (100, 105.6, 108.2) real pay is 2,400, 2,386.4 and 2,439.9. In year 1 nominal pay rises 5.0 percent but real pay falls 0.6 percent. In year 2 nominal pay rises 4.8 percent and real pay rises 2.2 percent. Real equals nominal divided by the price index times 100." loading="lazy">
+  <figcaption>Nominal pay rose 5.0% in year 1 but real pay fell 0.6%.</figcaption>
+</figure>
+
+
 ## 4.6.4: causes of inflation
 
 | | Demand-pull | Cost-push |
@@ -141,6 +191,17 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 **Worked reminder.** Start with price level 100 and output 400. Case 1 ends at price level 105 and output 412: AD has shifted right (demand-pull). Case 2 ends at price level 105 and output 392: SRAS has shifted left (cost-push). Both show 5% inflation.
 
 **Distinguish** by output. Rising prices with rising output point to demand-pull. Rising prices with falling output point to cost-push (stagflation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--05-pi-pull-vs-push.webp" width="900" height="1060" alt="Two aggregate demand and short-run aggregate supply diagrams for an invented economy that starts at price level 100 and real output 500. In the demand-pull case aggregate demand shifts right and the new equilibrium is price level 108 and output 520, so prices rise 8 percent and output rises. In the cost-push case short-run aggregate supply shifts left and the new equilibrium is price level 108 and output 470, so prices also rise 8 percent but output falls. Rising prices with falling output is stagflation." loading="lazy">
+  <figcaption>Prices rise 8% in both cases but output rises with demand-pull and falls with cost-push.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--08-cpi-different-households.webp" width="900" height="990" alt="Stacked spending-share bars with the lesson year-1 price rises (food 8, housing 4, transport 12, recreation 0). The official weights 30/35/15/20 give 5.6%; an illustrative food-heavy household 50/30/10/10 gives 6.4%; an illustrative commuter household 20/25/45/10 gives 8.0%." loading="lazy">
+  <figcaption>The same price rises give different inflation for different spending patterns.</figcaption>
+</figure>
+
 
 ## 4.6.5: consequences of inflation
 
@@ -155,6 +216,12 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 **Worked reminder.** Someone holding 8,000 cu in cash while prices rise 4% holds buying power worth 8,000 ÷ 1.04 = 7,692.3 cu, a fall of 307.7 cu, or 3.8%.
 
 **Evaluate** by rate, whether inflation was anticipated, and whether incomes keep pace.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--09-inflation-real-values.webp" width="900" height="890" alt="Three pairs of bars: a fixed pension of 1,200 is worth 1,136.4 real (down 5.3%); savings of 10,000 at 3% become 10,300 but 9,753.8 real, below the start; a fixed debt of 20,000 is worth 18,939.4 real, so the borrower gains 1,060.6." loading="lazy">
+  <figcaption>At 5.6% inflation fixed incomes and savers lose, borrowers gain.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

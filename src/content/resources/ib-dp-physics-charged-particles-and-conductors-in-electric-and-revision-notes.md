@@ -36,6 +36,17 @@ These are condensed notes for **D.3, Motion in electromagnetic fields**, from th
 | Charge-to-mass ratio | q/m = v/(Br) | Rearranged from the radius |
 | Parallel wires | F/L = μ0 I1 I2 / (2πr) | μ0 = 4π × 10^-7 T m A^-1 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--01-electron-in-electric-field.webp" width="900" height="804" alt="A negative electron enters parallel to two plates with the field pointing up. The force on it is down, so it follows a parabola: constant speed along the plates, uniform acceleration across them. It is deflected 9.9 mm and leaves 18 degrees below its original direction." loading="lazy">
+  <figcaption>An electron crossing a uniform field follows a parabola, like a projectile.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--06-charge-to-mass-ratio.webp" width="900" height="940" alt="A beam is speed-selected (v = E/B = 1.5e5 m/s), then bent into a 6.3 mm radius semicircle by 0.25 T. q/m = v/(Br) = 9.5e7 C/kg, close to the proton value 9.58e7." loading="lazy">
+  <figcaption>Selecting the speed and measuring the radius gives q/m = v/(Br).</figcaption>
+</figure>
+
+
 ## Key facts
 
 - **Kinetic energy stays constant** in a magnetic field. The force is at right angles to the velocity, so it does no work. The speed does not change; the direction does.
@@ -43,6 +54,12 @@ These are condensed notes for **D.3, Motion in electromagnetic fields**, from th
 - The magnetic force is at its largest when velocity and field are at 90°.
 - **Same-direction currents attract. Opposite-direction currents repel.** The two forces form a Newton's third law pair, so they are equal and opposite.
 - Charge and mass cancel in qE = qvB, so a velocity selector passes any particle of speed E/B.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--03-circular-path-in-b-field.webp" width="900" height="980" alt="A proton moves anticlockwise in a field into the page. At four points the velocity is tangent to the circle and the force points to the centre, so no work is done and speed is constant. Worked values: F = 1.44e-14 N, r = 10.4 mm, T = 2.19e-7 s." loading="lazy">
+  <figcaption>The magnetic force supplies the centripetal force, giving a circle of radius mv/(qB).</figcaption>
+</figure>
+
 
 ## Direction rules
 
@@ -53,6 +70,17 @@ These are condensed notes for **D.3, Motion in electromagnetic fields**, from th
 5. **Electric field.** Force on a positive charge is along E. Force on a negative charge is opposite to E.
 
 A worked reminder for rule 1: a proton moves to the right in a field into the page. Fingers right, curl into the page, thumb up. The force is up, so the proton curves upward. An electron curves downward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--02-magnetic-force-direction.webp" width="900" height="970" alt="A proton moving right in a field into the page is pushed up the page; an electron on the same path is pushed down. A proton moving along the field feels no force because sin 0 = 0." loading="lazy">
+  <figcaption>The force is perpendicular to v and B; reverse it for a negative charge; zero when v is parallel to B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--08-parallel-wires.webp" width="900" height="1110" alt="Two wires 4.0 cm apart carry 12 A and 8.0 A. With currents in the same direction the forces point towards each other (attract); with opposite currents they point apart (repel). Each force per unit length is 4.8e-4 N/m, 7.2e-4 N over 1.5 m." loading="lazy">
+  <figcaption>Currents in the same direction attract; opposite currents repel, with equal and opposite forces.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -105,6 +133,12 @@ A worked reminder for rule 1: a proton moves to the right in a field into the pa
 
 Particles go straight through crossed fields with E = 4.0 × 10^3 V m^-1 and B = 0.020 T. So v = E/B = 2.0 × 10^5 m s^-1. They then enter a second field of 0.50 T at right angles and move on a circle of radius 2.1 mm. Then q/m = v/(Br) = 2.0 × 10^5 / (0.50 × 2.1 × 10^-3) = 1.9 × 10^8 C kg^-1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--05-velocity-selector.webp" width="900" height="850" alt="A positive particle moves between plates with E down and B into the page. Electric force is down and magnetic force up. Only v = E/B goes straight through the slit; a faster particle bends up, a slower one bends down." loading="lazy">
+  <figcaption>Only particles with v = E/B pass straight through crossed fields.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 Constants: e = 1.60 × 10^-19 C, proton mass 1.67 × 10^-27 kg, μ0 = 4π × 10^-7 T m A^-1.
@@ -132,6 +166,12 @@ Constants: e = 1.60 × 10^-19 C, proton mass 1.67 × 10^-27 kg, μ0 = 4π × 10^
 8. F/L = 4π × 10^-7 × 20 × 30 / (2π × 0.050) = **2.4 × 10^-3 N m^-1**, attractive.
 9. It **doubles**, to 4.8 × 10^-3 N m^-1.
 10. q/m = v/(Br) = 4.0 × 10^5 / (0.30 × 0.020) = **6.7 × 10^7 C kg^-1**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--07-force-on-a-wire-angle.webp" width="900" height="1010" alt="A 0.35 m wire carrying 4.5 A in 0.12 T feels 0.189 N at 90 degrees, 0.0945 N at 30 degrees and no force when parallel to the field. The force is always into the page, perpendicular to wire and field." loading="lazy">
+  <figcaption>F = BIL sin theta: the force depends on the angle between wire and field.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

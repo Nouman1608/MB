@@ -74,6 +74,12 @@ The owner sets an objective of 9% market share next year. If the market stays at
 
 Objectives can pull against each other: cutting prices to raise sales and market share may lower profit. A good answer says which objective matters more in the situation given and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--01-market-share-target.webp" width="900" height="810" alt="Three bars for Alder Bakes. 360,000 dollars of a 4,800,000 dollar market is 7.5 percent. A 9 percent target needs 432,000 dollars if the market stays put and 453,600 if it grows 5 percent to 5,040,000." loading="lazy">
+  <figcaption>A growing market raises the revenue needed to hit the same share target.</figcaption>
+</figure>
+
+
 ## 2. Why objectives change (1.1.2)
 
 Objectives are not fixed. The specification lists five reasons.
@@ -113,6 +119,17 @@ A business closes owing creditors 150,000. Its assets sell for 100,000, leaving 
 
 Limited liability reduces the risk of investing, so it makes it easier to attract investors. It is a reason owners choose to form a company.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--03-liability-shortfall.webp" width="900" height="830" alt="Debts of 150,000 dollars against assets of 100,000 leave a 50,000 dollar shortfall. A sole trader must pay it personally; limited company shareholders lose only their investment." loading="lazy">
+  <figcaption>Limited liability caps shareholders' loss; unlimited liability does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## 5. Ownership, control, finance and profits (1.2.2)
 
 | | Sole trader | Partnership | Private limited company | Public limited company | Public corporation |
@@ -132,6 +149,22 @@ A company separates ownership from control. Shareholders own it, but directors u
 Calder Ltd, a private limited company, makes a profit of 90,000. The directors keep 40% in the business: 0.4 × 90,000 = **36,000** retained profit. The remaining **54,000** is paid out as dividends. Three shareholders hold 60%, 25% and 15% of the shares, so they receive 32,400, 13,500 and 8,100. Check: 32,400 + 13,500 + 8,100 = 54,000.
 
 Now compare a partnership earning 72,000, shared 50%, 30% and 20% between three partners: 36,000, 21,600 and 14,400. Retained profit is a decision for the partners, not a separate group of directors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--02-profit-shares.webp" width="900" height="750" alt="Calder Ltd keeps 36,000 of 90,000 dollars and pays 54,000 as dividends, shared 32,400, 13,500 and 8,100 by 60, 25 and 15 percent holdings. A partnership profit of 72,000 shares as 36,000, 21,600 and 14,400." loading="lazy">
+  <figcaption>Companies split profit between retention and dividends; partners simply share it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
 
 ## 6. Public corporations and choosing a form (1.2.2)
 
@@ -171,6 +204,12 @@ Example: a franchisee outlet has revenue of 210,000 and costs of 150,000 before 
 **Social enterprise**: a business with social or environmental objectives that earns revenue by trading. It still aims to cover costs, but profits are usually put back into the social purpose rather than only paid out to owners.
 
 **Multinational**: a business with operations in more than one country, usually run from a head office. Benefits include access to new markets and the chance to produce where costs are lower. Drawbacks include the difficulty of controlling operations in many places and the effects of different laws and cultures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--04-franchise-profit.webp" width="900" height="770" alt="Revenue of 210,000 dollars less costs of 150,000 and an 8 percent fee of 16,800 leaves profit of 43,200 dollars." loading="lazy">
+  <figcaption>The franchisor fee reduces the franchisee's profit.</figcaption>
+</figure>
+
 
 ## Common errors
 

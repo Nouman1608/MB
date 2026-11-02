@@ -43,6 +43,12 @@ These notes condense section 2.4 (Motivating employees) of the Cambridge IGCSE B
 
 Use at least two different reasons in an answer. "Money" alone gains little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--05-why-people-work.webp" width="900" height="1050" alt="A hub labelled why work with six spokes: money, security, social contact, status and recognition, job satisfaction, and using and developing skills. Money is only one of six." loading="lazy">
+  <figcaption>Six reasons people work; the mix differs from person to person.</figcaption>
+</figure>
+
+
 ## The four benefits of a well-motivated workforce
 
 | Benefit | Link to cost or profit |
@@ -66,6 +72,12 @@ The syllabus formulas list gives labour productivity as output per period divide
 Productivity = 9,000 ÷ 25 = 360 metres per weaver.
 Turnover = 6 ÷ 48 × 100 = 12.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--02-turnover-and-productivity.webp" width="900" height="890" alt="Sixty people are shown, nine highlighted as leavers, giving labour turnover of 15%. Eighteen sorters handle 12,600 parcels, so productivity is 700 parcels per sorter per day." loading="lazy">
+  <figcaption>Labour turnover and labour productivity worked through for Venn Logistics.</figcaption>
+</figure>
+
+
 ## The three theories at a glance
 
 ### Maslow
@@ -85,6 +97,12 @@ Method in steps:
 2. Choose something that meets that level.
 3. Say why a lower-level reward would add little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+
 ### Taylor
 
 - Workers are motivated mainly by money.
@@ -100,11 +118,23 @@ Method in steps:
 | Stop dissatisfaction if good | Create satisfaction and effort |
 | Do not motivate alone | Need hygiene factors to be fair first |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ### Must-know distinctions between theories
 
 - Taylor says pay motivates. Herzberg says pay is a hygiene factor.
 - Maslow gives a ladder of needs. Herzberg gives two groups of factors.
 - Maslow's esteem and self-actualisation levels sit close to Herzberg's motivators.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--08-linden-quay.webp" width="900" height="890" alt="Linden Quay Cafe already has fair pay and a safe kitchen. Herzberg says add motivators such as menu design and a monthly top performer. Maslow says the lower two levels are met so target social and esteem needs." loading="lazy">
+  <figcaption>The same cafe analysed with Herzberg and with Maslow: both point to recognition and responsibility.</figcaption>
+</figure>
+
 
 ## 2.4.2 Financial methods
 
@@ -132,6 +162,27 @@ Examples with Gantry Lane Printers:
 - Profit sharing: 8% of a 150,000 profit = 12,000, shared by 20 staff = **600 each**.
 - Salary: 2,400 a month × 12 = **28,800** a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--01-commission-pay-split.webp" width="900" height="790" alt="A hotel adviser on a base salary plus 4% commission earns 3,900, of which 64.1% (2,500) is commission. Her pay rises with bookings but is less secure in a quiet month." loading="lazy">
+  <figcaption>Commission is 4% of 62,500 bookings, giving 64.1% of total pay of 3,900.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--06-pay-calculations.webp" width="900" height="870" alt="Three cards show worked pay examples: time-based pay 40 hours at 8.25 is 330, piece-rate 412 units at 0.85 is 350.20, salary 31,200 divided by 12 is 2,600 a month, each with one strength and one weakness." loading="lazy">
+  <figcaption>Time-based pay, piece-rate and salary worked through, with a strength and weakness of each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--07-profit-sharing.webp" width="900" height="980" alt="A profit bar of 240,000 with a 10 percent slice, a pool of 24,000, shared among 30 employees at 800 each." loading="lazy">
+  <figcaption>Venn Logistics shares 10% of a 240,000 profit equally among 30 employees: 800 each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
+
 ## Non-financial methods
 
 | Method | What it is | Link to theory | Limit |
@@ -153,6 +204,12 @@ Method in steps:
 5. Make a clear final decision.
 
 Good judgements rest on the workers' circumstances: age, type of job, current pay, and the business's size and cash position. A small business with little cash may prefer praise and flexible duties to a costly bonus scheme.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--09-bexley-hollow.webp" width="900" height="1010" alt="Facts from the case lead to three options: pay rise and piece-rate are rejected with a reason, job rotation with enrichment is chosen. The limit is training cost and a slower start; the result is less absence and turnover." loading="lazy">
+  <figcaption>Bexley Hollow: facts, options weighed, the choice, its limit and its likely result.</figcaption>
+</figure>
+
 
 ## Worked reminder: applying a theory
 

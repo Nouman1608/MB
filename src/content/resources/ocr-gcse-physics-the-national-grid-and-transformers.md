@@ -53,6 +53,17 @@ The examples of potential difference are illustrative. If a question gives diffe
 
 Many learners think the high potential difference is "pushed along" the cable and used up. It is not. The specification warns about this: high potential differences are applied **across** the power lines (between a line and the ground), not **along** them. The potential difference along a cable is only the small amount IR needed to push the current through the cable's resistance. For a 400 kV line carrying 30 A through a total resistance of 8.0 Ω, the potential difference along the line is 30 × 8.0 = 240 V, a tiny fraction of 400 kV.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--06-grid-pd-route.webp" width="900" height="860" alt="Potential difference on a log scale at five stages: about 20 kV at the generator, 400 kV after step-up, 400 kV on the lines, 11 kV after step-down and 230 V at homes." loading="lazy">
+  <figcaption>The p.d. is stepped up for transmission and stepped down in stages for homes (example values).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--10-pd-along-vs-across.webp" width="900" height="960" alt="A power line strung between two pylons above the ground. A voltmeter connected between the line and the ground reads 400 kilovolts. A second voltmeter connected across the two ends of the line reads only 240 volts, which is the current of 30 amperes times the line resistance of 8.0 ohms. A bar underneath shows that 240 volts is just 0.06 percent of 400 kilovolts, a sliver too thin to see." loading="lazy">
+  <figcaption>The 400 kV is across the line to ground; along the whole cable the p.d. is only I × R = 240 V.</figcaption>
+</figure>
+
+
 ## P8.2d: Step-up and step-down transformers
 
 A **transformer** changes the size of an alternating potential difference. The grid uses two kinds.
@@ -63,6 +74,12 @@ A **transformer** changes the size of an alternating potential difference. The g
 Transformers need an alternating current, because they work through a changing magnetic field. This is one reason the grid uses a.c. The mechanism is on the transformers page linked above. For P8.2d you only need to recall what each type does and where it sits.
 
 Quick test: look at where the arrow of power is going. Leaving a power station, the potential difference goes up, so step-up. Arriving at a town, it goes down, so step-down. Far from the power station you may see several step-down stages in a row.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
 
 ## P8.2e: Why the grid is efficient
 
@@ -114,6 +131,17 @@ With the same power entering the line, a lower supply potential difference means
 | 24 | 0.50 | 0.125 | 99% |
 
 Doubling the supply potential difference halves the current and cuts the wasted power to a quarter. That is the pattern to describe in a data question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--08-model-power-line.webp" width="900" height="1080" alt="Three set-ups of a model power line carrying 12 watts through a line of 0.50 ohms. With a 6 volt supply the line current is 2.0 amperes, 2.0 watts are wasted in the line and 83 percent reaches the lamp. With 12 volts the current is 1.0 ampere, 0.50 watts are wasted and 96 percent reaches the lamp. With 24 volts the current is 0.50 amperes, 0.125 watts are wasted and 99 percent reaches the lamp. The thickness of the red line shows the current, and each bar shows how the 12 watts is split between the lamp and the wasted heat. Doubling the p.d. halves the current and cuts the wasted power to a quarter." loading="lazy">
+  <figcaption>For 12 W entering a 0.50 Ω line, doubling the supply p.d. halves the current and quarters the wasted power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
 
 ## P8.2f: Turns, power and high-voltage advantages (Higher Tier only)
 
@@ -168,6 +196,17 @@ The step-up transformer lets the station send out the same power as a small curr
 At the other end, step-down transformers lower the potential difference to a value suitable for homes. Say that to sum up the two jobs: **step up for efficient transmission, step down for safe use.**
 
 A full Higher Tier answer links the chain: more secondary turns, so higher potential difference, so (for the same power) lower current, so less heating in the cables, so less energy wasted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--07-step-up-transformer-example.webp" width="900" height="930" alt="Step-up transformer with 500 and 10 000 turns: 20 kV at 4000 A becomes 400 kV at 200 A; power is 80 MW on both sides." loading="lazy">
+  <figcaption>With 20 times more secondary turns the p.d. rises 20 times and the current falls 20 times; power is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--09-step-down-street-example.webp" width="900" height="930" alt="A street substation transformer with 4400 turns on the primary coil and 92 turns on the secondary coil. The primary takes 11 kilovolts at 5.0 amperes through a thin cable. The secondary delivers 230 volts at 239 amperes through a thick cable. Both sides carry 55 kilowatts of power. The turns ratio is about 47.8, so the potential difference is divided by 47.8 and the current is multiplied by 47.8. The coils are not drawn to scale." loading="lazy">
+  <figcaption>A street transformer with 4400 and 92 turns gives 230 V at 239 A from 11 kV at 5.0 A, with 55 kW on both sides.</figcaption>
+</figure>
+
 
 ## Common errors
 

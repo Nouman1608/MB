@@ -50,6 +50,12 @@ Plants have no lungs and no ventilation. Every gas that enters or leaves a leaf 
 
 Diffusion only works because cells keep the gradient going. A photosynthesising cell uses carbon dioxide, so the concentration inside the leaf stays lower than in the air outside, and carbon dioxide keeps diffusing in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+
 ### Two processes, opposite exchanges (2.41B)
 
 Two processes in leaf cells exchange the same two gases in opposite directions:
@@ -73,6 +79,17 @@ What you measure from a whole leaf is the **net** exchange: the result of both p
 
 Each stoma is a pore between two **guard cells**, which change shape to open or close it. Stomata usually open in the light, letting carbon dioxide in for photosynthesis, and close in the dark or when the plant is short of water. Closing reduces water loss but also cuts the carbon dioxide supply. In this sub-topic, describe their role as letting gases diffuse in and out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--04-guard-cells-stomata.webp" width="900" height="800" alt="Two section views: guard cells curve apart in the light so gases diffuse through the stoma; they close it in the dark or when short of water, reducing water loss and carbon dioxide supply." loading="lazy">
+  <figcaption>Guard cells change shape to open or close the stoma.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
+
 ### Day, night and net exchange (2.44B)
 
 Respiration never stops. Photosynthesis depends on light. So the net exchange changes with **light intensity**:
@@ -84,6 +101,12 @@ Respiration never stops. Photosynthesis depends on light. So the net exchange ch
 | Bright | Photosynthesis > respiration | Carbon dioxide taken in, oxygen given out |
 
 Where the two rates are equal, the carbon dioxide made by respiration is used at once by photosynthesis, and vice versa for oxygen. Both processes continue; the *net* exchange with the air is zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--07-leaf-net-exchange.webp" width="900" height="1080" alt="In the dark only respiration happens, so oxygen goes in and carbon dioxide comes out. At one dim intensity photosynthesis equals respiration so there is no net exchange. In bright light photosynthesis is faster, so carbon dioxide goes in and oxygen comes out." loading="lazy">
+  <figcaption>Net gas exchange of a leaf depends on whether respiration or photosynthesis is faster.</figcaption>
+</figure>
+
 
 ### Practical: hydrogen-carbonate indicator (2.45B)
 
@@ -113,6 +136,17 @@ After two hours the tubes look like this: foil-covered tube yellow; gauze-covere
 - Uncovered: photosynthesis is faster than respiration. Carbon dioxide is removed, so the indicator turns **purple**.
 - Control: it stays **red**, which shows the colour changes were caused by the leaf and not by light or the tube itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--03-hydrogen-carbonate-method.webp" width="900" height="1070" alt="Four tubes at equal distance from a lamp: foil (yellow), gauze (red), uncovered (purple) and a no-leaf control (red); indicator volume, leaf area and temperature are kept the same." loading="lazy">
+  <figcaption>Same leaf, same distance, different light: the indicator colour shows net carbon dioxide change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
+
 ## Gas exchange in humans (2.46–2.50)
 
 ### Structure of the thorax (2.46)
@@ -120,6 +154,12 @@ After two hours the tubes look like this: foil-covered tube yellow; gauze-covere
 Air enters through the nose and mouth and passes down the **trachea**. The trachea divides into two **bronchi** (one to each lung). Each bronchus divides into many smaller **bronchioles**, which end in clusters of air sacs called **alveoli**, where gas exchange happens.
 
 The lungs sit inside the **ribcage**. The **intercostal muscles** run between the ribs. The **diaphragm** is a sheet of muscle that separates the thorax from the abdomen. Two **pleural membranes** line the outside of the lungs and the inside of the thorax, with a thin layer of fluid between them. The fluid reduces friction as the lungs move during breathing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
 
 ### Ventilation (2.47)
 
@@ -137,6 +177,12 @@ Ventilation moves air in and out of the lungs. Air always moves from higher pres
 When you breathe out hard (during exercise, for example) the internal intercostal muscles also contract to pull the ribs down faster.
 
 Write the chain in order: muscles, volume, pressure, air movement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
+</figure>
+
 
 ### Alveoli (2.48)
 
@@ -164,6 +210,22 @@ Tobacco smoke harms both the lungs and the circulatory system.
 
 **Coronary heart disease.** The coronary arteries supply the heart muscle with oxygen and glucose. Smoking increases the risk that fatty deposits build up in their walls, narrowing them. A blood clot can then block a narrowed artery. The heart muscle beyond the blockage gets no oxygen, cannot respire aerobically, and may die: a heart attack. Carbon monoxide makes things worse because the blood that does reach the heart carries less oxygen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--08-emphysema.webp" width="900" height="940" alt="A healthy lung has many small air sacs with a large surface area. In emphysema the alveolus walls break down, leaving fewer, larger air spaces. The same air space has less wall surface, so less oxygen enters the blood and the person is breathless." loading="lazy">
+  <figcaption>Emphysema replaces many small alveoli with fewer large air spaces and so reduces surface area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--09-coronary-heart-disease.webp" width="900" height="1080" alt="A healthy coronary artery lets blood and oxygen reach the heart muscle. Fatty deposits narrow the artery so less oxygen arrives. A clot can then block it, the muscle beyond gets no oxygen and may die: a heart attack." loading="lazy">
+  <figcaption>Fatty deposits and a clot in a coronary artery can cut off the heart muscle's oxygen supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--02-smoking-chemicals.webp" width="900" height="960" alt="Tar deposits on an airway lining (carcinogens, irritation); a red blood cell with three haemoglobin sites holding carbon monoxide and one holding oxygen; a wide vessel narrowing under nicotine." loading="lazy">
+  <figcaption>Tar harms the airways, carbon monoxide cuts oxygen carried and nicotine narrows blood vessels.</figcaption>
+</figure>
+
+
 ### Practical: investigating breathing (2.50)
 
 **Carbon dioxide release.** Air is breathed in through one tube of limewater and out through another, using a two-tube apparatus. The limewater that exhaled air bubbles through turns **cloudy (milky)** much sooner, which shows exhaled air contains more carbon dioxide. As a rough guide, inhaled air is about 21% oxygen and 0.04% carbon dioxide; exhaled air is about 16% oxygen and 4% carbon dioxide, and it is warmer and holds more water vapour.
@@ -184,6 +246,12 @@ Percentage increase = 13 / 15 × 100 = 86.7%
 **Explanation.** During exercise muscles respire faster, so they need more oxygen and produce more carbon dioxide. Breathing faster and deeper increases ventilation, which keeps the concentration gradients at the alveoli steep, so more oxygen diffuses into the blood and more carbon dioxide is removed.
 
 If you count for 30 seconds, double the count to get breaths per minute: 8 breaths in 30 s is 16 per minute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--01-breathing-rate-worked-example.webp" width="900" height="1000" alt="Bars show three one-minute counts at rest (14, 15, 16; mean 15) and after skipping (26, 29, 29; mean 28). The increase of 13 gives 13 / 15 x 100 = 86.7 %." loading="lazy">
+  <figcaption>The lesson worked example: mean breathing rate rises from 15 to 28 breaths per minute, an 86.7 % increase.</figcaption>
+</figure>
+
 
 ## Common errors
 

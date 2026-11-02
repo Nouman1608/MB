@@ -137,6 +137,17 @@ Six monodentate ligands means coordination number 6, so the geometry is
 octahedral: **[Cr(H₂O)₆]³⁺** (overall charge = metal's +3, since water is
 neutral).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--02-complex-shapes.webp" width="900" height="1160" alt="Four ball-and-stick drawings: octahedral [Cu(H2O)6]2+ (90 degrees), tetrahedral [CuCl4]2- (109.5), square planar cisplatin (90) and linear [Ag(NH3)2]+ (180). Small ligands give octahedral, larger Cl- gives tetrahedral." loading="lazy">
+  <figcaption>Complex ions are octahedral, tetrahedral, square planar or linear depending on the ligands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--03-cis-trans-isomers.webp" width="900" height="1040" alt="Octahedral [Co(NH3)4Cl2]+ and square planar [Pt(NH3)2Cl2] each shown twice: with the two Cl ligands 90 degrees apart (cis) and 180 degrees apart (trans). The cis square planar form is cisplatin." loading="lazy">
+  <figcaption>Cis isomers have the two Cl ligands at 90 degrees and trans at 180 degrees; cisplatin is cis.</figcaption>
+</figure>
+
+
 ## Ligand exchange
 
 Because the bonds between a metal ion and its ligands are dative, one
@@ -169,6 +180,12 @@ NH₃(aq) (acting as a base), but that precipitate **does** redissolve in
 excess NH₃(aq), as NH₃ then acts as a ligand and undergoes ligand exchange
 with water to form the soluble ammine complex (e.g.
 [Cu(NH₃)₄(H₂O)₂]²⁺, deep blue).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
 
 ## Transition-metal redox chemistry
 
@@ -219,6 +236,12 @@ Cu²⁺/Cu⁺ equilibrium position is dragged continuously to the right by Le
 Chatelier's principle, driving the reaction forward despite the
 unfavourable standard electrode potentials. This is a case where removal
 of a product matters more than the standard-conditions calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -58,6 +58,17 @@ Its **functions** are:
 
 Link functions to characteristics when you write: a seashell fails on uniformity and limited supply; a stone is not portable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## The money supply: narrow and broad money
 
 The **money supply** is the total amount of money held in an economy at a given moment. Definitions differ between countries and over time, so use the definition a question gives. The distinction is about **liquidity**, the ease and speed of turning an asset into spendable money without loss of value.
@@ -76,6 +87,12 @@ Country A defines narrow money as notes and coins held outside banks. Broad mone
 - Households withdraw 10 from instant-access deposits as cash. Narrow money rises to 46. Deposits fall by 10, so broad money = 46 + 154 + 230 + 170 = **600**, unchanged.
 - Households move 30 from a notice account to an instant-access account. Neither measure changes, but broad money is now more liquid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--08-narrow-vs-broad-money.webp" width="900" height="950" alt="Broad money 600 = notes and coins 36 + instant 164 + notice 230 + fixed-term 170; narrow money 36 is 6.0%." loading="lazy">
+  <figcaption>Narrow money is a small subset of broad money.</figcaption>
+</figure>
+
+
 ## Three financial markets
 
 | | Money market | Capital market | Foreign exchange market |
@@ -86,6 +103,17 @@ Country A defines narrow money as notes and coins held outside banks. Broad mone
 | Price | Short-term interest rates | Share prices; bond prices and yields | Exchange rates |
 
 Within the capital market, a **primary market** is where new shares or bonds are first sold, raising money for the issuer. A **secondary market** is where existing ones are traded between investors. Secondary markets raise no new funds for the issuer but make assets liquid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--01-three-financial-markets.webp" width="900" height="885" alt="Three cards: the money market trades short-term loans and assets (under one year) and is priced by short-term interest rates; the capital market trades shares and bonds for long-term finance, priced by share and bond prices; the foreign exchange market trades currencies and is priced by exchange rates." loading="lazy">
+  <figcaption>The line between the money and capital markets is how long the money is lent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--02-primary-vs-secondary-market.webp" width="900" height="880" alt="In the primary market an issuer sells new shares or bonds and receives money. In the secondary market a seller resells old shares or bonds to a buyer; the issuer receives nothing new, but assets stay liquid." loading="lazy">
+  <figcaption>Only the primary market raises new funds for the issuer.</figcaption>
+</figure>
+
 
 ## The role of financial markets in the wider economy
 
@@ -101,6 +129,12 @@ Financial markets connect those with surplus funds (savers) with those who need 
 **Chain of reasoning.** Well-functioning markets lower the cost of finance → more projects have an expected return above the cost of funds → investment rises → capital stock and productive capacity grow → aggregate demand rises now and long-run aggregate supply rises later.
 
 **Evaluation.** Markets can misprice assets. Herd behaviour, speculation and poor information can inflate asset prices and cause sharp falls, which damage confidence and can spread through the economy. Small firms often face higher borrowing costs or are shut out. The benefits also depend on regulation, covered in a different unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--03-financial-markets-chain.webp" width="900" height="950" alt="Five steps: lower cost of finance, more projects with return above cost, investment rises, capital stock and capacity grow, AD rises now and long-run AS later. A warning notes that markets can misprice assets." loading="lazy">
+  <figcaption>Well-functioning markets raise investment and growth, but can misprice assets.</figcaption>
+</figure>
+
 
 ## Debt and equity
 
@@ -135,6 +169,12 @@ A small bakery chain has 100,000 shares and profit before interest of 90,000. It
   - Interest cover (profit ÷ interest) falls from 150,000 ÷ 42,000 = 3.57 to 40,000 ÷ 42,000 = 0.95.
 
 **Judgement.** Debt magnifies gains when returns are good and losses when they are poor. It suits stable, predictable profits. Equity suits uncertain profits and high-growth firms, but dilutes control. The answer depends on the stability of profit, existing borrowing and interest rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--11-loan-vs-shares.webp" width="900" height="970" alt="Profit per share: good year loan 1.08, shares 0.9375; downturn loan -0.02, shares 0.25. Interest cover 3.57 falls to 0.95." loading="lazy">
+  <figcaption>Debt magnifies gains and losses; equity dilutes gains but cuts risk.</figcaption>
+</figure>
+
 
 ## Government bonds: coupon, maturity and yield
 
@@ -182,6 +222,17 @@ A rise from 5% to 8% cuts the price from 100 to 62.50, a fall of 37.5%.
 - A holder who keeps the bond to maturity still gets the nominal value and the coupons.
 - Government faces higher yields on new borrowing, which raises the cost of financing debt.
 - Investors who expect rates to rise may sell now, bringing the price fall forward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--09-bond-price-and-rates.webp" width="900" height="1010" alt="Price = 5 / rate: 125 at 4%, 100 at 5%, 80 at 6.25%, 62.5 at 8%; a rise from 5% to 8% cuts price 37.5%." loading="lazy">
+  <figcaption>Fixed coupon means price falls when market rates rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--10-maturity-and-price-fall.webp" width="900" height="960" alt="Coupon 6 bond after rates rise 6% to 8%: 1 year 98.15, 5 years 92.01, no maturity 75." loading="lazy">
+  <figcaption>The longer to maturity the larger the price fall.</figcaption>
+</figure>
+
 
 ## Common errors
 

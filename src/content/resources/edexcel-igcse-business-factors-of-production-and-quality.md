@@ -52,6 +52,12 @@ The specification names four inputs: enterprise, capital, land and labour. These
 
 The specification word is "relationships". The key idea is that the mix is not fixed. A business can use more of one input and less of another to reach the same output, and the best mix changes over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--01-four-factors.webp" width="900" height="980" alt="Four cards for Ottersby Bakery: land is the rented unit and ingredients; labour is six bakers; capital is two ovens and a van; enterprise is Hana, who takes the risk and organises the rest. A note says capital is equipment and buildings, not money." loading="lazy">
+  <figcaption>The four factors, shown with Ottersby Bakery.</figcaption>
+</figure>
+
+
 ## 2. Why the relationships change
 
 Several forces push a business to change its mix.
@@ -88,6 +94,12 @@ Step 5: the risk. Equipment costs and rent do not change with output, so they ar
 
 Conclusion: the mix moved from labour towards capital. Costs per toy fell sharply, but the owner carries more risk and three workers need redeploying or retraining.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--01-tamsin-mix-shift.webp" width="900" height="860" alt="Two stacked bars compare Tamsin Crafts before and after buying a cutting machine. Wages fall from 56.0 to 33.8 percent of costs while equipment rises from 8.0 to 28.2 percent. Cost per toy falls from 12.50 to 7.10 dollars and output per worker rises from 1,714 to 5,000 toys. Fixed costs rise from 20.0 to 40.8 percent of total costs, so risk rises." loading="lazy">
+  <figcaption>Capital replaces labour at Tamsin Crafts: unit cost falls, but fixed costs and risk rise.</figcaption>
+</figure>
+
+
 ## 3. Capital-intensive and labour-intensive activities
 
 - A **capital-intensive** activity uses a high proportion of capital compared with labour. Examples are a car assembly plant, an oil refinery or a bottling plant. Capital makes up most of the cost.
@@ -117,6 +129,12 @@ Orrin Books moves from a high-street shop to an online business.
 
 Rent is 30,000 ÷ 220,000 × 100 = 13.6% of costs in the shop and 14,000 ÷ 200,000 × 100 = 7.0% online. The business needs less prime land and fewer staff, and spends more on technology. Land, labour and capital have all changed in importance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--02-orrin-shop-online.webp" width="900" height="850" alt="Two cost bars for Orrin Books. In the shop, rent of 30,000 dollars is 13.6 percent of 220,000 dollars of costs. Online, rent of 14,000 dollars is 7.0 percent of 200,000 dollars of costs. Wages fall from 64,000 to 40,000 and website, delivery and other costs rise from 16,000 to 36,000 dollars." loading="lazy">
+  <figcaption>Moving online cuts rent and wages but raises technology costs at Orrin Books.</figcaption>
+</figure>
+
+
 ## 4. The concept of quality
 
 **Quality** is how well a good or service meets, or exceeds, what customers expect and the standard the business has set. For goods it can mean reliability, durability, finish and safety. For services it can mean speed, accuracy, friendliness and consistency.
@@ -128,6 +146,12 @@ Why it matters:
 - **Both.** Good quality builds reputation and repeat custom. Poor quality brings complaints, refunds and lost sales.
 
 A business sets a quality standard, then uses quality control or TQM to reach it. Higher quality usually costs money, so the business weighs this against the benefits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--11-what-quality-means.webp" width="900" height="776" alt="Quality is how well something meets customer needs. A cheap notebook that holds together is high quality; an expensive hotel room with a broken lock is poor quality. Four benefits: customers come back, better reputation, fewer costly faults, fewer legal claims." loading="lazy">
+  <figcaption>Quality means meeting customer needs, not luxury.</figcaption>
+</figure>
+
 
 ## 5. Quality control
 
@@ -149,6 +173,12 @@ Brenmoor Lamps makes 1,200 lamps a week. 4% are defective, and each defective la
 Defective lamps = 1,200 × 0.04 = 48. Weekly cost = 48 × 9 = 432.
 
 The company can catch these lamps by inspection, so customers do not see them, but it still pays the 432.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--03-qc-vs-tqm.webp" width="900" height="960" alt="Two rows of the same three stages: materials in, work in progress and finished goods. In quality control an inspector checks at set points and finds faults after they occur. In TQM a worker at every stage is responsible for quality, so faults are prevented throughout the process." loading="lazy">
+  <figcaption>Quality control finds faults at checkpoints; TQM makes everyone responsible for preventing them.</figcaption>
+</figure>
+
 
 ## 6. Total quality management (TQM)
 
@@ -176,6 +206,17 @@ New defects = 1,200 × 0.015 = 18; cost = 18 × 9 = 162. Weekly saving = 432 −
 After that the saving continues, and fewer faulty lamps reach customers. The business should also ask whether quality will really hold, because TQM needs staff commitment and takes time.
 
 A service example: Calder Physio had 45 complaints from 1,500 clients (3.0%). After TQM training, it had 21 complaints from 1,750 clients (1.2%). The rate fell even as numbers grew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--04-brenmoor-tqm-payback.webp" width="900" height="880" alt="Defects cost Brenmoor Lamps 432 dollars a week at 4 percent and 162 dollars a week at 1.5 percent, a saving of 270 dollars a week. A line of cumulative savings crosses the 6,500 dollar one-off training cost at 24.1 weeks, so payback is about 25 weeks." loading="lazy">
+  <figcaption>TQM saves $270 a week at Brenmoor Lamps and repays its $6,500 cost in about 25 weeks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--05-calder-complaint-rate.webp" width="900" height="840" alt="Two columns compare Calder Physio. Before TQM: 1,500 clients and 45 complaints, a 3.0 percent complaint rate. After TQM: 1,750 clients and 21 complaints, a 1.2 percent rate. The rate fell even as the number of clients grew." loading="lazy">
+  <figcaption>Calder Physio: complaints per 100 clients fell from 3.0 to 1.2 after TQM training.</figcaption>
+</figure>
+
 
 ## 7. Quality and competitive advantage
 

@@ -40,6 +40,12 @@ Businesses grow to gain sales revenue, market share, profit, lower unit costs, m
 
 Organic (internal) growth comes from the business's own resources: new products, new outlets, more customers. It is slower and lower-risk. External growth comes through other businesses: a merger (two firms agree to combine), a takeover (one firm buys control of another, which may be friendly or hostile), a venture (a joint venture or alliance with another firm) or franchising. It is faster but costlier, with a risk of culture clash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+
 ### Methods of growth
 
 - **Merger:** two businesses agree to combine. Costs are shared, but integration is hard.
@@ -54,6 +60,17 @@ Worked example. Quorrel Fitness franchises a gym format. A new franchisee pays a
 
 Quorrel grows with little capital of its own, but one poor outlet can harm the brand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--01-franchise-income-quorrel.webp" width="900" height="830" alt="A shop icon shows year-one sales of 400,000 pounds. Times 6 percent gives a royalty of 24,000 pounds, and the 30,000 pound initial fee is added. One bar splits the franchisor income into fee and royalty, totalling 54,000 pounds." loading="lazy">
+  <figcaption>Quorrel earns 54,000 pounds from one outlet in year one: a 30,000 pound fee plus a 24,000 pound royalty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--07-how-tightly-joined.webp" width="900" height="1000" alt="Three rows from looser to tighter: strategic alliance (separate firms cooperate), joint venture (firms create a shared business C), merger or takeover (firms become one)." loading="lazy">
+  <figcaption>Alliance, joint venture and merger differ in how tightly the firms are joined.</figcaption>
+</figure>
+
+
 ### Types of growth (integration)
 
 | Type | Meaning | Example direction |
@@ -64,6 +81,12 @@ Quorrel grows with little capital of its own, but one poor outlet can harm the b
 | Conglomerate | With a firm in an unrelated industry | The bakery buys a fitness centre |
 
 Horizontal integration raises market share; vertical integration secures supply or outlets; conglomerate integration spreads risk but offers little synergy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--01-integration-four-types.webp" width="900" height="840" alt="A bakery chain in the centre. Above it a rival bakery chain: horizontal integration, which raises market share. Left, a flour mill: vertical backward, securing supply. Right, cafes: vertical forward, securing outlets. Below, a fitness centre in an unrelated industry: conglomerate, spreading risk with little synergy." loading="lazy">
+  <figcaption>Which firm the bakery buys decides the type of integration.</figcaption>
+</figure>
+
 
 ### The problems of growth, and how to manage them
 
@@ -98,6 +121,22 @@ Worked example. Zephrane's first 1,000 units cost £50 each. It sees an 80% curv
 5. Growth through collaboration. Versions differ on the final crisis.
 
 Cairnhill Bakery grew from one founder-run shop. At ten shops, managers wanted freedom (crisis of autonomy); delegating to area managers then raised the owner's worry about control. The model suggests the business needs a new management approach, but real firms do not follow the phases neatly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--02-economies-of-scale-zephrane.webp" width="900" height="828" alt="Two bars show average cost per unit. At 20,000 units average cost is 12 pounds (240,000 divided by 20,000); at 50,000 units it is 9 pounds (450,000 divided by 50,000). The fall is 3 pounds, or 25 percent." loading="lazy">
+  <figcaption>Zephrane’s average cost falls 25% when output rises from 20,000 to 50,000 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--03-experience-curve-80.webp" width="900" height="856" alt="A falling line through four points of unit cost against cumulative units: 50 pounds at 1,000, 40 at 2,000, 32 at 4,000 and 25.60 at 8,000. Each doubling multiplies the cost by 0.8. A note contrasts scale (output in one period) with experience (total output over time)." loading="lazy">
+  <figcaption>On an 80% experience curve each doubling of cumulative output cuts unit cost to 80% of the previous level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--04-greiner-growth-crises.webp" width="900" height="894" alt="Five growth phases in order, each followed by a crisis: creativity then leadership, direction then autonomy, delegation then control, coordination then red tape, and collaboration, where versions differ on the final crisis." loading="lazy">
+  <figcaption>In Greiner’s model each phase of growth ends in a crisis that forces a change of management style.</figcaption>
+</figure>
+
 
 ### Impact on the functional areas
 
@@ -166,6 +205,17 @@ Brackenwold Outdoor sells jackets in many countries. If tastes vary and price ma
 
 **Impact on functional areas:** marketing (adaptation, language), operations (global supply chains, quality control), finance (currency risk, funding overseas operations) and human resources (managing staff across cultures and laws).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--05-bartlett-ghoshal-grid.webp" width="900" height="898" alt="A two by two grid of pressure for local responsiveness against pressure for cost reduction. Low and low is international; high responsiveness and low cost is multi-domestic; low responsiveness and high cost is global; high and high is transnational. An identical jacket where price decides fits global." loading="lazy">
+  <figcaption>The two pressures place a firm in one of four international strategies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--06-offshoring-saving.webp" width="900" height="946" alt="Two bars of delivered unit cost. Made in the UK: 9.60 pounds. Made overseas: 4.10 labour and materials plus 1.80 transport equals 5.90 pounds. The saving is 3.70 pounds a unit, about 185,000 pounds on 50,000 units, to be set against lead times, quality risk and brand image." loading="lazy">
+  <figcaption>Offshoring saves Zephrane £3.70 a unit (about £185,000 on 50,000 units) before risks are weighed.</figcaption>
+</figure>
+
+
 ## 3.9.4 Assessing greater use of digital technology
 
 The specification names **e-commerce** (selling online), **big data** (very large, fast-growing sets of data), **data mining** (searching data for patterns, such as which customers buy together) and **enterprise resource planning (ERP)** (integrated software that links finance, stock, orders and HR in one system).
@@ -177,6 +227,17 @@ The specification names **e-commerce** (selling online), **big data** (very larg
 Worked example. Ibberton Hardware has online sales of £280,000 out of total sales of £1,120,000, so e-commerce is **25%** of sales. Its site had 80,000 visits and 3,200 orders, a conversion rate of 3,200 / 80,000 = **4%**. Data mining shows who buys paint with brushes, supporting bundled offers.
 
 **Impact on functional areas:** marketing (targeting, online promotion), operations (ERP for stock and scheduling, automation), finance (real-time data, system cost) and human resources (retraining, redundancies, remote working).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--02-ibberton-online-conversion.webp" width="900" height="1040" alt="A bar splits Ibberton total sales of 1,120,000 pounds into online 280,000 (25%) and other 840,000. A grid of 100 squares, each 800 of 80,000 visits, has 4 highlighted for 3,200 orders: a 4% conversion rate." loading="lazy">
+  <figcaption>Online sales are 25% of the total, and 4 in every 100 visits end in an order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--12-erp-database.webp" width="900" height="810" alt="Six modules (purchasing, inventory, production, sales, finance, HR) connect by two-way arrows to one shared database, giving real-time automatic data transfer." loading="lazy">
+  <figcaption>An ERP system links departments through one shared database.</figcaption>
+</figure>
+
 
 ## Common errors
 

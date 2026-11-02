@@ -59,11 +59,28 @@ OCR describes the reaction as a two-stage process. The summary in the specificat
 
 Glucose is then used in respiration or built into other compounds, or stored as starch. The starch can be detected, which is how many of the practicals below work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--01-two-stage-process.webp" width="900" height="905" alt="Inside a chloroplast, chlorophyll traps light. Stage one needs light: water is split, giving off oxygen as a waste gas and supplying hydrogen. Stage two needs no light directly: the hydrogen fixes carbon dioxide into glucose. The balanced equation has 6 C, 12 H and 18 O on each side." loading="lazy">
+  <figcaption>Photosynthesis as two stages, with the balanced equation checked atom by atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+
 ## B1.4c: Photosynthesis is endothermic
 
 An endothermic reaction takes in energy from the surroundings. In photosynthesis the energy comes from light. The products, glucose and oxygen, hold more chemical energy than the reactants, carbon dioxide and water. That stored energy is what respiration later releases. Respiration is the opposite pattern: it releases energy to the surroundings, so it is exothermic.
 
 A common slip is to say that photosynthesis "makes" energy. Energy is not made. Light energy is transferred to chemical energy stored in glucose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--02-endothermic-energy-level.webp" width="900" height="810" alt="An energy level diagram with chemical energy on the vertical axis. Carbon dioxide and water sit low; glucose and oxygen sit higher. A gold arrow marked light in goes up between them, so photosynthesis is endothermic. A copper arrow shows respiration releasing that energy again." loading="lazy">
+  <figcaption>Light energy is transferred to, and stored as, chemical energy in glucose.</figcaption>
+</figure>
+
 
 ## B1.4d: Investigating photosynthesis
 
@@ -97,6 +114,27 @@ Counting bubbles is quick but poor, because bubble size varies. Measuring volume
 ### Algae in alginate beads
 
 Single-celled algae can be trapped in jelly-like alginate beads. The beads are put in hydrogencarbonate indicator. This indicator is red at normal carbon dioxide levels, turns yellow when carbon dioxide rises and purple when it falls. Photosynthesising algae use up carbon dioxide, so the indicator shifts towards purple. Changing the number of beads, the lamp distance or the temperature lets you test each factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--03-priestley-ingenhousz-history.webp" width="900" height="890" alt="Three rows. Priestley (1770s): a plant restores air in which a candle had stopped burning. Ingenhousz: a green leaf gives off gas in light but not in the dark. Mass gain: a plant given only water, air and light gains dry mass, so the new mass comes from carbon dioxide and water." loading="lazy">
+  <figcaption>The three historical clues that led to the photosynthesis equation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--04-starch-test-variegated-leaf.webp" width="900" height="1030" alt="A destarched variegated leaf with a foil strip is kept in light then tested with iodine. Green uncovered area a turns blue-black; white area b and foil-covered green area c stay orange-brown. a vs b tests chlorophyll; a vs c tests light." loading="lazy">
+  <figcaption>Only the green, lit area makes starch and turns blue-black.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--05-pondweed-light-distance.webp" width="900" height="1090" alt="A lamp shines on pondweed; the lamp distance changes light intensity and bubbles are counted. Bar chart of means: 42 at 10 cm, 30 at 20 cm, 19 at 30 cm, 10 at 40 cm. Closer lamp gives a faster rate." loading="lazy">
+  <figcaption>The closer the lamp, the more bubbles per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
 
 ## B1.4e: Factors affecting the rate
 
@@ -136,6 +174,32 @@ The reactions are catalysed by enzymes. Warming the plant towards the optimum gi
 ### Limiting factors
 
 A limiting factor is whichever condition is lowest relative to what the plant could use, so it caps the rate. On a graph with a flat section, the variable plotted on the x axis has stopped being the cap, and something else has taken over.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--05-mp22-light-inverse-square.webp" width="900" height="1020" alt="A lamp lights screens at 10 cm and 20 cm: at 20 cm the light spreads over four tiles, so each gets a quarter. A graph of the lesson data plots rate against relative intensity 1/d squared, close to a straight line through the origin." loading="lazy">
+  <figcaption>Doubling the lamp distance cuts intensity to a quarter, and rate is roughly proportional to intensity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--06-mp22-co2-light-interaction.webp" width="900" height="940" alt="A graph of the lesson data at 25 degrees Celsius shows rate against light intensity at 0.04 and 0.10 percent carbon dioxide. The curves overlap up to 20 au where light limits, then the lower curve plateaus at 24 and the upper rises to 38 at 50 au (58 percent higher) before levelling at 40." loading="lazy">
+  <figcaption>Where two curves split, the extra carbon dioxide shows which factor is limiting; a plateau means a different factor now limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--04-rate-percentage-change-worked.webp" width="900" height="900" alt="Top: oxygen volume against time with a dashed line to 2.7 cm3 at 9 minutes, so the rate is 2.7 divided by 9, which is 0.30 cm3 per minute. Bottom: bars of 8.0 and 14.0 bubbles per minute, a rise of 6.0, which is 75 percent." loading="lazy">
+  <figcaption>Rate is volume over time, and percentage change is change over original times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--05-lamp-distance-worked.webp" width="900" height="880" alt="Two rows with a lamp, a near screen and a far screen. The same light that fills one tile at the near screen spreads over 4 tiles at 50 cm, or 16 tiles at 40 cm. Moving from 25 to 50 cm gives one quarter of the intensity; moving from 40 to 10 cm gives 16 times." loading="lazy">
+  <figcaption>Why doubling the lamp distance quarters the intensity and bringing it four times closer multiplies it by 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
 
 ## B1.4f: Interaction of limiting factors (Higher Tier only)
 

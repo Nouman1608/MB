@@ -77,6 +77,17 @@ Total of these four = 175, so 75 is left for everything else.
 
 A firm in the transport sector sees a large part of its possible demand coming from the 30. If the government is forced by a constraint to cut that figure, the firm's order book is at risk. That is the link examiners want: spending decision, constraint, effect on a named business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--01-sales-tax-lamp.webp" width="900" height="860" alt="A bar for the $85 lamp is extended by a copper block of $10.20, the 12% sales tax, giving a customer price of $95.20. Two boxes show the retailer keeping its price so the customer pays more and may buy fewer, or cutting its own price so its margin shrinks." loading="lazy">
+  <figcaption>A 12% sales tax raises the customer price from $85 to $95.20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--02-budget-split.webp" width="900" height="820" alt="Horizontal bars show a 250 billion budget: health 75 (30%), education 50 (20%), transport 30 (12%), defence 20 (8%) and 75 for everything else. Transport is highlighted because a transport firm depends on it." loading="lazy">
+  <figcaption>The four named areas total 175, leaving 75; a cut to transport puts a transport firm at risk.</figcaption>
+</figure>
+
+
 ## 2. How governments affect business activity (1.6.2)
 
 ### Infrastructure provision
@@ -107,6 +118,12 @@ Dalmoor Cycles imports a frame at a cost of 40 each. The government puts a 15% t
 Tariff per frame = 40 × 15% = 6.00. Cost after tariff = 46.00.
 
 A home producer sells similar frames for 44. Before the tariff the import was cheaper at 40. After it, the import is more expensive at 46. Dalmoor's costs rise by 15%. It can pass the increase on to its customers, accept a lower margin, or switch to the home supplier. If it imported 12,000 frames in the year, the government collects 12,000 × 6.00 = 72,000 in tariff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--03-tariff-dalmoor.webp" width="900" height="820" alt="Bars compare a frame import at $40, the same import with a $6 tariff at $46, and a home frame at $44 marked by a dashed line. The tariff turns the import from cheaper to dearer; 12,000 frames give $72,000 of tariff." loading="lazy">
+  <figcaption>A 15% tariff takes the import from $40 to $46, above the home price of $44.</figcaption>
+</figure>
+
 
 ## 3. Interest rates (1.6.3)
 
@@ -146,6 +163,17 @@ Change = 72,000 − 80,000 = −8,000. Percentage change = (−8,000 ÷ 80,000) 
 
 The shop has a double problem: weaker sales, and a higher interest bill if it borrowed to buy stock. A balanced answer says which effect is likely to be larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--04-loan-rate-hartwell.webp" width="900" height="830" alt="Two columns show yearly interest on a $120,000 loan: $6,000 at 5% and $9,600 at 8%, an extra $3,600. Two boxes contrast a rise of 3 percentage points with a 60% rise in the bill." loading="lazy">
+  <figcaption>A 3-point rate rise lifts the interest bill by 60%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--01-rates-to-sales.webp" width="900" height="980" alt="A flow diagram shows a rate rise reaching consumers three ways: borrowing is dearer so credit buying falls, saving pays more so some people save instead of spending, and variable-rate debt costs more so less income is left. Consumer spending falls. Bars show a furniture shop falling from $80,000 to $72,000 a month, a drop of $8,000 or 10%." loading="lazy">
+  <figcaption>Higher rates cut consumer spending three ways, taking a furniture shop from $80,000 to $72,000 a month.</figcaption>
+</figure>
+
+
 ## 4. External factors (1.7.1)
 
 **External factors** are things outside a business's control that still affect its decisions. The specification names four: social, technological, environmental and political.
@@ -173,6 +201,12 @@ Brelland Snacks sells 50,000 packs a year at 4.00. Recyclable packaging adds 0.3
 Extra cost = 50,000 × 0.30 = 15,000 a year. As a share of the price, 0.30 ÷ 4.00 = 7.5%.
 
 If it raises the price by 0.30 it protects its margin but may lose price-sensitive customers. If it absorbs the cost, profit falls by 15,000. If customers value the change, sales might rise. The decision depends on how strong that customer concern is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-government-objectives-and-policies-and-external-factors--05-packaging-brelland.webp" width="900" height="810" alt="A bar shows a $4.00 pack with a $0.30 recyclable packaging cost, 7.5% of the price. 50,000 packs make $15,000 a year. Three boxes show the responses: raise the price, absorb it, or gain sales if customers value it." loading="lazy">
+  <figcaption>Recyclable packaging adds $0.30 a pack, $15,000 a year.</figcaption>
+</figure>
+
 
 ## Common errors
 

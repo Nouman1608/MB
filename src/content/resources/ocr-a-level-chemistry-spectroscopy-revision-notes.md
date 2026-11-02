@@ -35,6 +35,12 @@ Links: [OCR A Level Chemistry hub](/boards/ocr/a-level/chemistry/), [H432 checkl
 - **Integration trace:** a stepped line; step heights are in the ratio of the numbers of protons.
 - **Labile proton:** an O–H or N–H proton that exchanges with D₂O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+
 ## Shift ranges for practice
 
 The specification says chemical shift values will be provided on the Data Sheet in examinations, so use those in the exam. These typical ranges match the Marlbridge study guide and practice set.
@@ -54,6 +60,12 @@ The specification says chemical shift values will be provided on the Data Sheet 
 
 Two pairs trip people up. A C=O carbon at δ 160–185 is an acid, ester or amide; at δ 190–220 it is an aldehyde or ketone. A proton at δ 9.4–10.0 is the aldehyde H; at δ 10.0–12.5 it is the acid O–H.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
+
 ## 6.3.2(a): Carbon-13 method in steps
 
 1. Count lines = number of carbon environments.
@@ -62,6 +74,12 @@ Two pairs trip people up. A C=O carbon at δ 160–185 is an acid, ester or amid
 4. List every structure that fits; say if more than one does.
 
 Small reminder: benzene-1,4-dicarboxylic acid, HOOC–C₆H₄–COOH, has eight carbons but only three environments: the two C=O, the two ring carbons bonded to COOH, and the four ring C–H carbons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
 
 ## 6.3.2(b): Proton method in steps
 
@@ -83,9 +101,21 @@ Count protons on **every** adjacent carbon. A CH₂ between a CH₃ and a CH₂ 
 
 Small reminder: in 1-chloropropan-2-one, ClCH₂COCH₃, both signals are singlets (2H and 3H), because the carbon between them is the C=O carbon, which has no hydrogen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+
 ## 6.3.2(c): Predicting a spectrum
 
 For each environment give three things: shift range, relative area, and splitting (with the number of adjacent H as the reason). For carbon-13, give the number of lines and a shift range for each. Do not predict splitting for carbon-13 or for aromatic protons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ## 6.3.2(d): TMS, solvents and D₂O
 

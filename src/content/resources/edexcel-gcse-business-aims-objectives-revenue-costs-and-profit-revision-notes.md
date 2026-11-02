@@ -60,12 +60,24 @@ Learn five reasons and apply one to the case in front of you.
 4. Type of business: community projects may add social objectives.
 5. Market conditions: tough competition can move the focus to survival.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - **Sales vs profit.** Sales can rise while profit falls, for example after a price cut.
 - **Market share vs sales.** Market share compares the business with the whole market. Sales only count the business.
 - **Aim vs objective.** An aim gives direction. An objective is the measurable step.
 - **Survival vs financial security.** Survival is staying open. Financial security is a stable income and a cushion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-aim-or-objective.webp" width="900" height="990" alt="A staircase rises to a flag labelled aim. The aim is the long-term goal of being the best-known bakery in town; an objective is a specific target on the way, such as 500 regular customers in a year." loading="lazy">
+  <figcaption>An aim is the direction; an objective is a specific target on the way.</figcaption>
+</figure>
+
 
 ## 1.3.2 Formulae (Appendix 3 forms)
 
@@ -83,6 +95,17 @@ Learn five reasons and apply one to the case in front of you.
 
 - Fixed: does not change with output in the period. Examples: rent, insurance, a loan interest bill, a software subscription.
 - Variable: changes as output changes. Examples: raw materials, packaging, parts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--01-wren-profit-or-loss.webp" width="900" height="990" alt="Two pairs of bars on one scale. At 500 candles revenue is £6,000 and total costs £4,350 (£2,100 fixed plus £2,250 variable), so profit is £1,650. At 200 candles revenue is £2,400 and total costs £3,000 (£2,100 plus £900), so there is a loss of £600. Fixed costs are the same in both months." loading="lazy">
+  <figcaption>The same fixed costs turn a good month into a profit and a weak month into a loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--04-wren-contribution-blocks.webp" width="900" height="990" alt="A £12 candle splits into £4.50 variable cost and £7.50 contribution. A grid of 50 blocks stands for 500 candles at £75 of contribution per block of ten. The first 28 blocks (280 candles, £2,100) cover fixed costs, which is break-even. The last 22 blocks (220 candles, £1,650) are profit." loading="lazy">
+  <figcaption>Break-even is the number of £7.50 contributions needed to cover £2,100 of fixed costs.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -124,6 +147,12 @@ Kestrel charges £40 a repair. Variable cost is £15 a repair. Fixed costs are �
 | Variable cost falls to £12 | Total costs line flatter | £5,000 ÷ £28 = 178.57, so 179 |
 
 Costs rising means break even output rises and the margin of safety falls. Prices rising does the opposite, as long as customers keep buying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--03-wren-break-even-moves.webp" width="900" height="1040" alt="Three number lines compare the old break-even output of 280 candles with the new one. A price of £13 gives 248, fixed costs of £2,500 give 334 and a variable cost of £5.50 gives 324, each rounded up from 247.06, 333.33 and 323.08. A higher price lowers break-even; higher costs raise it." loading="lazy">
+  <figcaption>Each change in price or cost moves the break-even output, down for a price rise and up for a cost rise.</figcaption>
+</figure>
+
 
 ## Using the command words
 
@@ -193,6 +222,12 @@ Use the Kestrel data (price £40, variable cost £15, fixed costs £5,000) unles
 - Reading the margin of safety from the wrong axis, or giving a revenue figure when units were asked for.
 - Leaving out units or the £ sign after a calculation.
 - Saying how a change shifts the lines without stating the consequence for the owner.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--02-wren-break-even-chart.webp" width="900" height="860" alt="Revenue rises from the origin to £6,000 at 500 candles; total costs start at £2,100 and reach £4,350; fixed costs are a flat line at £2,100. The lines cross at 280 candles and £3,360. Loss lies left of the crossing, profit to the right (£1,650 at 500), and the margin of safety is the 220 candles from 280 to 500." loading="lazy">
+  <figcaption>A break-even chart for Wren Street Candles showing break-even, loss, profit and margin of safety.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

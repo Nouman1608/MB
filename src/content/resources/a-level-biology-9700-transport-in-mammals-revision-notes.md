@@ -72,6 +72,12 @@ Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) · C
 | Monocyte | Large, kidney-shaped | Largest white cell |
 | Lymphocyte | Large, round, fills most of cell | Thin rim of cytoplasm |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--01-vessels.webp" width="900" height="1150" alt="Three cross-sections side by side: a thick-walled artery with a narrow lumen (wall to lumen 3:5 as in the lesson example), a thin-walled vein with a wide lumen and a long section showing a valve, and a capillary whose one-cell wall holds red cells in single file. Each layer is labelled." loading="lazy">
+  <figcaption>Artery, vein and capillary structure matched to function.</figcaption>
+</figure>
+
+
 ### Water: two properties only
 
 - **Solvent action** → glucose, ions, amino acids and urea are carried dissolved in plasma.
@@ -83,6 +89,12 @@ Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) · C
 2. Cells and most plasma proteins stay in the blood (too large).
 3. Venous end: hydrostatic pressure lower; plasma proteins keep blood water potential lower → water returns by osmosis.
 4. Excess drains into lymph vessels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--02-tissue-fluid.webp" width="900" height="1020" alt="A capillary from arterial to venous end beside a body cell and lymph capillary. Bars show blood pressure (4.0 then 1.6 kPa) against the 3.3 kPa pull of plasma proteins, giving a net 0.7 kPa out then 1.7 kPa in. Excess fluid drains to lymph." loading="lazy">
+  <figcaption>Pressure balance explains why fluid leaves at the arterial end and returns at the venous end.</figcaption>
+</figure>
+
 
 ### Plan diagram rules
 
@@ -118,6 +130,12 @@ CO₂ + Hb → carbaminohaemoglobin
 
 **Percentage saturation** = (oxygen carried ÷ maximum oxygen that could be carried) × 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--04-oxygen-dissociation.webp" width="900" height="1010" alt="Graph of haemoglobin saturation against pO2: the S-shaped adult curve, the same curve shifted right by high CO2 (Bohr shift) and a fetal curve to the left. The lesson numbers show 97% in the lungs and 45% or 30% at 3 kPa, releasing 10.4 or 13.4 cm3 per 100 cm3." loading="lazy">
+  <figcaption>Higher CO2 shifts the curve right so more oxygen is unloaded.</figcaption>
+</figure>
+
+
 ### The Bohr shift
 
 High pCO₂ → more H⁺ → haemoglobin's affinity for O₂ falls → curve shifts **right** → more O₂ unloaded in active tissues. In the lungs, CO₂ is lost → higher affinity → loading.
@@ -141,6 +159,12 @@ High pCO₂ → more H⁺ → haemoglobin's affinity for O₂ falls → curve sh
 | Blood plasma | Inside blood vessels | Water, dissolved solutes, plasma proteins |
 | Tissue fluid | Around cells | Water and small solutes; very little protein; no red blood cells |
 | Lymph | Lymph vessels | Excess tissue fluid that did not return to the capillaries |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
+  <figcaption>How a red cell carries CO2 and why chloride moves in.</figcaption>
+</figure>
+
 
 ## 8.3 The heart
 
@@ -171,9 +195,36 @@ High pCO₂ → more H⁺ → haemoglobin's affinity for O₂ falls → curve sh
 - **Semilunar valves** close when arterial pressure rises above ventricular pressure; they stop backflow into the ventricles.
 - The **SAN** starts each beat; the **AVN** delays it; **Purkyne tissue** conducts it through the ventricles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--06-cardiac-cycle.webp" width="900" height="1180" alt="Pressure graph for left atrium, ventricle and aorta at five times in a 0.75 s cycle with the open or closed state of the atrioventricular and semilunar valves worked out from the pressures. The cycle gives 80 beats per minute." loading="lazy">
+  <figcaption>Valves open and close only because of pressure differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
+</figure>
+
+
 ### Control sequence
 
 SAN (right atrium wall, pacemaker) → excitation across both atria → atria contract → non-conducting layer blocks direct spread → **AVN delay** (atria finish emptying) → **Purkyne tissue** down the septum → ventricles contract from the base upwards. Nervous and hormonal control are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--08-heart-rate-control.webp" width="900" height="1170" alt="Feedback loop: chemoreceptors and pressure receptors signal the cardiac control centre in the medulla, which uses the sympathetic nerve to speed up or the vagus to slow down the SAN. Adrenaline (OCR) also acts on the SAN. Bars show rest, exercise and recovery rates with blood pH." loading="lazy">
+  <figcaption>Heart rate is adjusted by negative feedback using opposite nerves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--09-atheroma.webp" width="900" height="1180" alt="Two artery cross-sections to the same scale: a 4.0 mm lumen (12.57 mm2) and a lumen narrowed by atheroma to 2.8 mm (6.16 mm2), a 30% fall in diameter but 51% in area. A chain shows clot formation, a blocked coronary artery and heart muscle death." loading="lazy">
+  <figcaption>A 30% narrowing in diameter halves the cross-sectional area.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

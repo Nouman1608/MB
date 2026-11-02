@@ -62,6 +62,12 @@ then zero and positives:                 0, 3, 11
 answer: -15, -8, -2, 0, 3, 11
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--09-orderLine.webp" width="900" height="760" alt="The six integers are marked on a number line; reading left to right gives -15, -8, -2, 0, 3, 11." loading="lazy">
+  <figcaption>Further left means smaller.</figcaption>
+</figure>
+
+
 ### Directed numbers in context
 
 Temperatures, bank balances and heights above and below sea level all use negative numbers. A rise means add; a fall means subtract. The difference between two values is the larger minus the smaller.
@@ -73,6 +79,12 @@ Temperatures, bank balances and heights above and below sea level all use negati
 22:00:    4 - 6  = -2 °C
 difference:  4 - (-9) = 4 + 9 = 13 degrees
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--05-temperatures-number-line.webp" width="900" height="840" alt="A number line from −10 to 6 shows −9 °C at 05:00, a rise of 13 to 4 °C at 14:00, and a fall of 6 to −2 °C at 22:00. The difference between 05:00 and 14:00 is 13 degrees." loading="lazy">
+  <figcaption>A rise adds, a fall subtracts, and the difference is the larger minus the smaller.</figcaption>
+</figure>
+
 
 ### The four rules with negative numbers
 
@@ -104,6 +116,12 @@ Multiplication and division have equal priority, so work left to right: 30 ÷ (2
 - A **prime factor** is a factor that is prime. The prime factors of 42 are 2, 3 and 7.
 - A **common factor** of two numbers divides both; a **common multiple** is in both times tables.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--10-factorsPrimes.webp" width="900" height="1040" alt="Factors of 42 are joined in pairs multiplying to 42 with the prime factors 2, 3, 7 highlighted; below, the primes between 30 and 50 (31, 37, 41, 43, 47) are highlighted." loading="lazy">
+  <figcaption>Factor pairs of 42 and the primes from 31 to 47.</figcaption>
+</figure>
+
+
 ## 1.4 Powers and roots
 
 ### Square and cube numbers
@@ -116,6 +134,12 @@ cubes:   1, 8, 27, 64, 125, and 1000 (= 10^3)
 ```
 
 Squaring and square-rooting undo each other, as do cubing and cube-rooting. So 13² = 169 and √196 = 14; 6³ = 216 and ∛343 = 7. The √ sign means the positive root. A cube root of a negative number is negative: ∛(−125) = −5, because (−5)³ = −125. A negative number has no real square root.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
 
 ### Index notation and index laws
 
@@ -138,6 +162,27 @@ divide:      3^(3 - 4) = 3^-1
 value:       3^-1 = 1/3
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--12-indexExample.webp" width="900" height="760" alt="Powers of 3 from 3^-2 to 3^5 are shown with values; multiplying by 3^-2 moves the index from 5 to 3 and dividing by 3^4 moves it to -1, giving 1/3." loading="lazy">
+  <figcaption>Index laws add and subtract the indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--02-negative-powers.webp" width="900" height="890" alt="Bars show (-2) to the powers 1 to 5: -2, 4, -8, 16, -32, alternating negative and positive. A second pair shows (-2)^4 = 16 but -2^4 = -16." loading="lazy">
+  <figcaption>Odd powers of a negative number are negative, even powers are positive, and brackets decide what is raised to the power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+
 ### Product of prime factors
 
 Every integer greater than 1 can be written as a product of primes in exactly one way, apart from the order. Use a factor tree or repeated division by primes, starting with the smallest.
@@ -155,6 +200,12 @@ Every integer greater than 1 can be written as a product of primes in exactly on
 ```
 
 "Product of powers" means you must use index form for repeated primes. Check by multiplying back: 4 × 9 × 5 × 7 = 1260.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--03-factor-tree-1260.webp" width="900" height="1050" alt="A factor tree splits 1260 into 2 and 630, then 630 into 2 and 315, 315 into 3 and 105, 105 into 3 and 35, and 35 into 5 and 7. The primes 2, 2, 3, 3, 5, 7 give 2² × 3² × 5 × 7." loading="lazy">
+  <figcaption>Splitting off the smallest prime each time gives 1260 = 2² × 3² × 5 × 7.</figcaption>
+</figure>
+
 
 ### Highest common factor and lowest common multiple
 
@@ -175,6 +226,17 @@ LCM = 2³ × 3 × 5 × 7 = 840
 A check: HCF × LCM = 12 × 840 = 10 080 = 84 × 120. This works for any two numbers.
 
 **Recognising the context.** "Largest", "greatest", or "split into equal groups with none left over" points to the HCF. "Next time they happen together", "smallest number both go into" points to the LCM. Two buses leave a station together at 08:00; one runs every 12 minutes and the other every 18 minutes. LCM(12, 18) = 36, so they next leave together at **08:36**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--04-hcf-lcm-84-120.webp" width="900" height="860" alt="A Venn diagram of the prime factors of 84 and 120. The overlap (2, 2, 3) multiplies to the HCF 12; every prime in the diagram multiplies to the LCM 840." loading="lazy">
+  <figcaption>Shared primes give the HCF 12; all the primes together give the LCM 840.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--13-hcfLcm.webp" width="900" height="880" alt="A Venn diagram of the prime factors of 84 and 120: the overlap 2, 2, 3 gives HCF 12, and all primes give LCM 840; 12 x 840 = 84 x 120 = 10080." loading="lazy">
+  <figcaption>HCF is the overlap of prime factors and LCM is everything.</figcaption>
+</figure>
+
 
 ## 1.4 Surds (Higher tier only)
 
@@ -222,6 +284,12 @@ To rationalise means to rewrite a fraction so that the denominator has no surd.
     numerator:   4(3 - √5)
     answer:      4(3 - √5)/4 = 3 - √5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--11-surds.webp" width="900" height="1270" alt="Three panels: root 72 = 6 root 2 by a square factor; root 45 + root 20 = 5 root 5 as blocks; (2 + root 3)(4 - root 3) = 5 + 2 root 3 using a grid." loading="lazy">
+  <figcaption>Simplify, add and expand surds.</figcaption>
+</figure>
+
 
 ## 1.4 Fractional and negative powers (Higher tier only)
 

@@ -42,12 +42,24 @@ Condensed notes for the final weeks, aligned to the OCR GCSE (9-1) Gateway Scien
 - Test with a suspended magnet: repulsion or attraction shows the force direction.
 - Field picture: between unlike poles the lines run across the gap; between like poles they bend away, with a neutral point halfway between equal poles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--01-mag-poles.webp" width="900" height="970" alt="Two bar magnets with computed field lines. With unlike poles facing, the lines run straight across the gap from north to south and the magnets attract. With like poles facing, the lines bend away and squash apart, with a neutral point halfway where the fields cancel and a compass would not settle." loading="lazy">
+  <figcaption>Unlike poles attract and like poles repel; between two like poles there is a neutral point.</figcaption>
+</figure>
+
+
 ## Permanent and induced (P4.1b)
 
 - Magnetic materials: iron, steel, cobalt, nickel.
 - Induced magnet: nearest end gets the opposite pole, so it is always attracted, never repelled.
 - Repulsion is the only sure test for a magnet. Attraction could be a magnet or just a magnetic material.
 - Soft iron loses magnetism quickly. Steel keeps it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--02-induced-magnet.webp" width="900" height="930" alt="A bar magnet held over an iron nail makes the nail an induced magnet: its near end becomes a south pole and its far end a north pole, so it is pulled up and holds a clip. When the magnet is removed the nail loses its poles and the clip falls. Induced magnets are only ever attracted." loading="lazy">
+  <figcaption>An iron nail is an induced magnet only while a magnet is near it.</figcaption>
+</figure>
+
 
 ## Field lines (P4.1c)
 
@@ -67,6 +79,17 @@ Rules:
 - Field weakens with distance.
 - Iron filings show the pattern but not the direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--01-mag-plot-compass.webp" width="900" height="1130" alt="A bar magnet with a plotting compass. The needle ends are marked with dots, the compass is slid so its tail sits on the last dot, and the dots are joined into one field line from the north pole round to the south pole. Below, iron filings round the same magnet line up along the field and show its pattern but not its direction." loading="lazy">
+  <figcaption>A plotting compass traces one field line with a direction; iron filings show only the pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
+
 ## Earth's field and the dipping compass (P4.1d)
 
 - A compass needle is a small magnet that aligns with the field it is in.
@@ -75,6 +98,12 @@ Rules:
 - That pattern matches a bar magnet's field, so the Earth's core must be magnetic.
 - Geographic poles and magnetic poles are in different places.
 - A compass north end points to geographic north, so the Earth's pole nearby acts as a magnetic south pole.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--03-earth-dip.webp" width="900" height="790" alt="A circle for the Earth with a bar magnet in its core, axis tilted from the dashed spin axis. Dipole field lines leave near the geographic south and re-enter near geographic north, where the magnetic pole acts as a south pole. Three dipping compasses show the needle horizontal near the equator, tilted down at mid-latitudes and almost vertical near the pole." loading="lazy">
+  <figcaption>The field of a magnet in the core explains why a dipping compass tilts more steeply nearer the poles.</figcaption>
+</figure>
+
 
 ## Current and field (P4.1e, P4.1f)
 
@@ -91,6 +120,12 @@ Rules:
 | Further from wire | Weaker |
 | Current reversed | Same strength, opposite direction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--04-wire-field.webp" width="900" height="1030" alt="Top: a wire carrying current out of the page has anticlockwise ring-shaped field lines, closer together near the wire; reversing the current reverses the field. Bottom: compasses at 2, 4, 6 and 8 cm turn 70, 45, 25 and 15 degrees from the Earth’s field direction, so the field weakens with distance." loading="lazy">
+  <figcaption>The field round a wire is a set of rings that weakens with distance; reversing the current reverses it.</figcaption>
+</figure>
+
+
 ## Solenoids (P4.1g)
 
 - A solenoid's field has a bar magnet's shape: strong, nearly uniform inside, spreading outside.
@@ -100,6 +135,22 @@ Rules:
 - Iron core becomes an induced magnet and adds to the field.
 
 Worked reminder: 240 turns in 12 cm is 240 ÷ 12 = 20 turns per cm. The same turns in 8 cm is 240 ÷ 8 = 30 turns per cm, which is 50% more per centimetre ((30 − 20) ÷ 20 = 0.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--05-solenoid.webp" width="900" height="1050" alt="Top: side view of an eight-loop solenoid with field lines computed by summing circular loops. Inside the lines are nearly parallel; outside they curve from the right (north) end back to the left (south) end like a bar magnet. Bottom: 150 turns over 6.0 cm is 25 turns per cm, over 9.0 cm it is 16.7 turns per cm, a 33% fall." loading="lazy">
+  <figcaption>A solenoid has a bar magnet field; packing the same turns into a shorter length strengthens it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--02-mag-clips-current.webp" width="900" height="870" alt="A graph of clips lifted by an electromagnet against current: 4, 9, 13 and 18 clips at 0.5, 1.0, 1.5 and 2.0 A. Doubling the current from 1.0 A to 2.0 A doubles the clips from 9 to 18, a 100 per cent increase." loading="lazy">
+  <figcaption>In the lesson data, doubling the current doubled the clips lifted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--03-mag-iron-core.webp" width="900" height="1090" alt="An air-core solenoid with a few widely spaced field lines, then the same coil with a soft iron core drawn with lines three times closer to show a much stronger field. Below, with the current off, a soft iron core drops its clips while a steel core keeps them." loading="lazy">
+  <figcaption>A soft iron core strengthens the field and switches off with the current; steel stays magnetised.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

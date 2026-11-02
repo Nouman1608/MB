@@ -78,6 +78,12 @@ cos θ = (25 + 36 − 81) / (2 × 5 × 6) = −20/60 = −1/3
 
 Two sides 7 and 10 enclosing 150°: area = ½ × 7 × 10 × sin 150° = 35 × ½ = 17.5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--03-sector-triangle-segment.webp" width="900" height="765" alt="A sector of radius 10 cm and angle π/3 has area 50π/3. Subtracting the triangle of area 25√3 leaves the segment, ½r²(θ − sin θ), about 9.06 cm². The arc length is rθ = 10π/3 cm and θ must be in radians." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
+
+
 ## 3.2 Radians
 
 ### Definitions and conversions
@@ -126,6 +132,22 @@ Working backwards: area 18 and r = 6 give θ = 2A / r² = 36/36 = 1 radian, and 
 4. If two unknowns appear (r and θ), form two equations from the arc, area or perimeter and eliminate one.
 5. Check that θ is sensible: a sector needs 0 < θ < 2π.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--04-which-rule.webp" width="900" height="846" alt="Four triangles show the given information. Two sides and the angle between (SAS) or three sides (SSS) need the cosine rule: missing side 9.23, largest angle 96.4°. Two angles and a side (AAS) need the sine rule: missing side 22.9. Two sides and a non-included angle (SSA) use the sine rule but may have two answers." loading="lazy">
+  <figcaption>Match the known sides and angles to the rule: cosine for SAS and SSS, sine for AAS and SSA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--05-ambiguous-case.webp" width="900" height="890" alt="Angle A = 34°, a = 9, b = 13. A circle of radius 9 centred on C meets the line through A at two points, giving two triangles: B = 126.1° with c = 5.47, and B = 53.9° with c = 16.1. Two triangles exist when b sin A &lt; a &lt; b, here 7.27 &lt; 9 &lt; 13." loading="lazy">
+  <figcaption>Two sides and a non-included angle can fit two different triangles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--07-small-angle-approximations.webp" width="900" height="1100" alt="For θ from 0 to 1 radian, sin θ and tan θ hug the line y = θ near zero and cos θ hugs 1 − θ²/2. At θ = 0.2, sin = 0.1987, tan = 0.2027, cos = 0.9801 and 1 − θ²/2 = 0.9800." loading="lazy">
+  <figcaption>For small θ in radians, sin θ and tan θ are close to θ and cos θ is close to 1 − θ²/2.</figcaption>
+</figure>
+
+
 ## 3.3 Graphs of trigonometric functions
 
 ### Key facts
@@ -148,6 +170,12 @@ sin(π/2 − x) = cos x     cos(π/2 − x) = sin x
 
 Add or subtract 2π (360°) to any sine or cosine, or π (180°) to any tangent, and the value is unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
+  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
+</figure>
+
+
 ### Exact values to recall
 
 | x | 0 | π/6 | π/4 | π/3 | π/2 |
@@ -155,6 +183,12 @@ Add or subtract 2π (360°) to any sine or cosine, or π (180°) to any tangent,
 | sin x | 0 | 1/2 | √2/2 | √3/2 | 1 |
 | cos x | 1 | √3/2 | √2/2 | 1/2 | 0 |
 | tan x | 0 | √3/3 | 1 | √3 | undefined |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
+  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+</figure>
+
 
 ### Method: sketching a transformed trig curve
 
@@ -171,6 +205,17 @@ Add or subtract 2π (360°) to any sine or cosine, or π (180°) to any tangent,
 - y = sin 2x: period π, so two waves between 0 and 2π.
 - y = tan 2x: period π/2, first asymptote at x = π/4.
 - y = cos(x/2): period 4π, so only half a wave appears between 0 and 2π; it starts at 1 and reaches −1 at x = 2π.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--08-reciprocal-graphs.webp" width="900" height="1102" alt="y = sec x, cosec x and cot x drawn over their parent functions. sec has asymptotes at 90° and 270°, cosec and cot at 0°, 180° and 360°. sec and cosec only take values y ≥ 1 or y ≤ −1 with period 360°; cot takes all real values with period 180°." loading="lazy">
+  <figcaption>A reciprocal graph has an asymptote wherever the parent function is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -206,6 +251,12 @@ Add or subtract 2π (360°) to any sine or cosine, or π (180°) to any tangent,
 8. Two (B = 41.8° or 138.2°).
 9. −1/2, −1/2 and −1.
 10. π and π/3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
+  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

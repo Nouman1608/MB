@@ -48,6 +48,12 @@ A useful comparison: one door out of a hall is slow, two doors side by side let 
 
 Practical link: the specification suggests investigating the brightness of bulbs in series and parallel. Two identical bulbs in series are each dimmer than a single bulb, because the current is smaller. Two identical bulbs in parallel are each as bright as a single bulb on the same supply, because each branch has the full supply p.d., but the cell supplies more current overall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--03-bulb-brightness-series-parallel.webp" width="900" height="970" alt="Three circuits with identical bulbs and the same cell. A single bulb carries current I and is bright. Two bulbs in series each carry half of I and are dim. Two bulbs in parallel each carry I and are as bright as the single bulb, while the cell supplies 2 I." loading="lazy">
+  <figcaption>Series bulbs share one path and dim; parallel bulbs each get the full cell p.d. and the cell supplies more current.</figcaption>
+</figure>
+
+
 ## P3.2j: currents, p.d.s and resistances
 
 ### The rules
@@ -91,6 +97,17 @@ A resistor R₁ = 4.0 Ω is in series with a parallel pair, a 6.0 Ω resistor an
 
 Method for mixed circuits: find the p.d. or current you can be sure of, then apply the series or parallel rule one section at a time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--04-series-parallel-mixed.webp" width="900" height="830" alt="A 4.0 ohm resistor has 6.0 V across it, leaving 6.0 V across both parallel branches. The branches carry 1.0 A and 0.50 A, which add to the 1.5 A ammeter reading." loading="lazy">
+  <figcaption>Find the p.d. or current you are sure of, then apply the series and parallel rules one section at a time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## P3.2k: circuits for measurement and testing
 
 - **Ammeter in series.** It must sit in the path of the current being measured. Ammeters have very low resistance so they do not change the current.
@@ -108,6 +125,22 @@ An NTC thermistor is in series with a 100 Ω fixed resistor on a 6.0 V supply. A
 3. Thermistor resistance = 4.0 / 0.020 = 200 Ω.
 4. The thermistor is heated until its resistance is 50 Ω. Net resistance = 100 + 50 = 150 Ω, so current = 6.0 / 150 = 0.040 A.
 5. The voltmeter now reads 0.040 × 100 = 4.0 V. The reading rose as the temperature rose, so the voltmeter reading is an indicator of temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--05-thermistor-sensor-circuit.webp" width="900" height="880" alt="With a 200 ohm thermistor the current is 0.020 A and the voltmeter across the 100 ohm resistor reads 2.0 V. When heated to 50 ohm the current is 0.040 A and the reading rises to 4.0 V." loading="lazy">
+  <figcaption>A voltmeter across the fixed resistor turns a temperature change into a voltage change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--04-voltmeter-fault-finding.webp" width="900" height="900" alt="Two series circuits with both lamps unlit and a voltmeter across lamp 1. If lamp 1 has a broken filament the voltmeter reads close to the supply p.d. If lamp 1 is fine and the break is elsewhere in the wire, no current flows and the voltmeter reads close to zero." loading="lazy">
+  <figcaption>A voltmeter across an unlit lamp reads close to the supply p.d. only if that lamp is the break.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
 
 ## P3.2l and P3.2m: power, energy and charge
 
@@ -146,6 +179,12 @@ A 9.0 V cell is connected to a 15 Ω resistor and a 30 Ω resistor in series. Fi
 4. Total power = 0.60 + 1.2 = 1.8 W. Check: V × I = 9.0 × 0.20 = 1.8 W.
 5. t = 5.0 × 60 = 300 s. Energy = 1.8 × 300 = 540 J.
 6. Charge flowing = I × t = 0.20 × 300 = 60 C. Check with E = Q × V = 60 × 9.0 = 540 J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--02-series-power-energy-charge.webp" width="900" height="920" alt="A 9.0 V cell drives 0.20 A through a 15 ohm and a 30 ohm resistor in series. The resistors transfer 0.60 W and 1.2 W, which add to the 1.8 W supplied (9.0 V x 0.20 A). In 300 s that is 540 J, and the 60 C of charge that flows through 9.0 V also gives 540 J." loading="lazy">
+  <figcaption>The power in each resistor adds up to V x I, and E = Pt agrees with E = QV.</figcaption>
+</figure>
+
 
 ## Common errors
 

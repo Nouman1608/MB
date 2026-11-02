@@ -66,6 +66,12 @@ Given AUG AAA CAC UAA with AAA = Lys, AAG = Lys, CAC = His, UAA = stop. A change
 
 A gene of 1200 bases with a supplied rate of 2 × 10⁻⁸ per base per replication has 2.4 × 10⁻⁵ expected mutations per replication. Over 5 × 10⁵ replications the expected number is 12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--08-gene-mutation-effects.webp" width="900" height="1090" alt="An mRNA read in codons codes Met, Gly, Leu, Thr, Lys, Pro then stop. A silent substitution leaves the protein unchanged, another changes one amino acid to Val, another makes an early stop codon, and a deletion shifts every codon after it." loading="lazy">
+  <figcaption>Substitutions may change one amino acid or nothing; a deletion changes everything after it.</figcaption>
+</figure>
+
+
 ## Non-disjunction
 
 - Arises spontaneously in meiosis.
@@ -78,6 +84,12 @@ A gene of 1200 bases with a supplied rate of 2 × 10⁻⁸ per base per replicat
 | Meiosis II (sister chromatids stay together) | One n + 1, one n − 1, two normal |
 
 Human example: 23 chromosomes in a normal gamete, 24 with an extra chromosome 21, giving 47 in the zygote.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
 
 ## Meiosis in outline
 
@@ -105,6 +117,17 @@ Parent cell 2n = 6 (three pairs), after replication:
 Rules: halving occurs at meiosis I. Each cell after meiosis I has one member of every pair, never both. Meiosis II separates chromatids and does not change the number.
 
 DNA amount per cell (arbitrary units): 2 before replication, 4 after replication, 2 after meiosis I, 1 after meiosis II.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--06-meiosis-variation.webp" width="900" height="1260" alt="Top: a chiasma between non-sister chromatids turns AB, AB, ab, ab into AB, Ab, aB and ab. Bottom: three homologous pairs give 2^3 = 8 different gametes, humans 2^23 = 8 388 608, and random fertilisation of 8 by 8 gives 64." loading="lazy">
+  <figcaption>Crossing over and independent assortment make every gamete different.</figcaption>
+</figure>
+
 
 ## Mitosis versus meiosis
 
@@ -193,6 +216,12 @@ Human: n = 23, 2²³ = 8 388 608 gamete types; 2⁴⁶ = 70 368 744 177 664 zygo
 - Using the diploid number as n in 2ⁿ.
 - Calling every gamete a product of meiosis in plants.
 - Giving a percentage increase using the new value as the baseline.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -36,6 +36,12 @@ Labels follow the framework: **standard** (MYP 4-5), **extended** (MYP 4-5) and 
 | Domain, range (extended) | Allowed inputs; outputs that occur |
 | Extrapolation | Using a model beyond the data that built it |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--09-vertical-line-test.webp" width="900" height="820" alt="A vertical line at x = 3 cuts the circle x squared plus y squared equals 25 twice, at (3, 4) and (3, minus 4), so it is not a function. It cuts the line f(x) = 6 minus 4x once, at (3, minus 6), so that is a function." loading="lazy">
+  <figcaption>A vertical line cutting twice means one input has two outputs.</figcaption>
+</figure>
+
+
 ## Linear functions (standard)
 
 | Item | Result |
@@ -72,6 +78,12 @@ The solution is the pair (x, y) that fits both equations, which is where the gra
 
 **Reminder.** y = x + 4 and 2x + y = 13. Substitute: 2x + x + 4 = 13, so x = 3 and y = 7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--15-fm-simultaneous.webp" width="900" height="1160" alt="Two graphs: y = 2x + 1 and 3x + 2y = 16 cross at (2, 5); 2x + 3y = 12 and 5x - 3y = 9 cross at (3, 2). Dashed lines drop to the axes." loading="lazy">
+  <figcaption>The algebraic solution is the crossing point of the two lines.</figcaption>
+</figure>
+
+
 ## Quadratics (standard)
 
 | Form | Rule | Gives you |
@@ -100,6 +112,12 @@ The solution is the pair (x, y) that fits both equations, which is where the gra
 4. Join with a smooth curve and label the points.
 
 **Completing the square.** x² + 6x + 2 = (x + 3)² - 9 + 2 = (x + 3)² - 7. For a leading coefficient other than 1, factor it out of the x terms first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--14-fm-parabola-width.webp" width="900" height="1000" alt="Graphs of y = 0.5x^2, y = x^2 and y = 3x^2. Cut at y = 3 the widths are 4.90, 3.46 and 2.00, so larger a means narrower. A negative a opens downward." loading="lazy">
+  <figcaption>A larger |a| gives a narrower parabola.</figcaption>
+</figure>
+
 
 ## Exponential functions (standard)
 
@@ -133,6 +151,12 @@ The solution is the pair (x, y) that fits both equations, which is where the gra
 | 2ˣ | all reals | f(x) > 0 |
 | 1/x | x ≠ 0 | f(x) ≠ 0 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--02-mapping-domain-range.webp" width="900" height="990" alt="A mapping diagram for h(x) = x squared minus 4 with domain minus 2, minus 1, 0, 1, 3. The arrows give outputs 0, minus 3, minus 4, minus 3, 5. The range is minus 4, minus 3, 0, 5, each listed once; two inputs may share an output." loading="lazy">
+  <figcaption>The range lists each different output once; two inputs can share an output.</figcaption>
+</figure>
+
+
 ## Rational functions (extended)
 
 For f(x) = (ax + b)/(cx + d):
@@ -147,6 +171,17 @@ For f(x) = (ax + b)/(cx + d):
 
 **Reminder.** f(x) = (5x - 10)/(x + 2): vertical asymptote x = -2, horizontal y = 5, x-intercept 2, y-intercept -5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--08-rational-asymptotes.webp" width="900" height="950" alt="The graph of f(x) = (4x + 3)/(x − 1) has two branches either side of the vertical asymptote x = 1 and approaches the horizontal asymptote y = 4. It crosses the axes at (−3/4, 0) and (0, −3). The domain excludes x = 1 and the range excludes 4." loading="lazy">
+  <figcaption>The denominator gives the vertical asymptote; a/c gives the horizontal one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--11-fm-log-mirror.webp" width="900" height="1010" alt="Graph of y = 2^x and y = log2 x as mirror images in y = x. The log curve passes (1, 0), (2, 1), (4, 2), (8, 3), has asymptote x = 0 and only x &gt; 0. A note gives ln x as base e, about 2.718, and e^x = 7 giving x = ln 7, about 1.95." loading="lazy">
+  <figcaption>The logarithm curve is the reflection of the exponential curve in y = x.</figcaption>
+</figure>
+
+
 ## Transforming quadratics (extended)
 
 | Rule | Effect on the graph of f |
@@ -159,6 +194,17 @@ For f(x) = (ax + b)/(cx + d):
 | f(bx) | horizontal dilation, factor 1/b |
 
 **Reminder.** y = 3(x + 2)² - 7 is y = x² moved 2 left, dilated vertically by 3, then moved 7 down. Vertex (-2, -7).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--06-quad-transform-point.webp" width="900" height="960" alt="The point (1, 1) on y = x squared is followed through right 3, stretch by 2, reflection in the x-axis and up 1, ending at (4, minus 1) on the curve y = minus 2(x minus 3) squared plus 1. The vertex moves from (0, 0) to (3, 1)." loading="lazy">
+  <figcaption>Following one point shows the four transformations in the order the lesson gives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--13-fm-complete-square.webp" width="900" height="940" alt="Graph of y = 3x^2 and y = 3x^2 - 6x + 1; the second is the first moved 1 right and 2 down with vertex (1, -2). Working: 3(x^2 - 2x) + 1, then 3[(x - 1)^2 - 1] + 1, then 3(x - 1)^2 - 2." loading="lazy">
+  <figcaption>Completing the square shows the vertex (1, -2) and the translation from y = 3x^2.</figcaption>
+</figure>
+
 
 ## Shapes and asymptotes (extended)
 
@@ -179,6 +225,12 @@ For f(x) = (ax + b)/(cx + d):
 | Composite g∘f | do f first, then g; order matters |
 | Inverse f⁻¹ | swap x and y, solve for y; mirror image in y = x |
 | Logarithm | logarithm base b of a asks which power of b gives a |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--12-fm-trig-transform.webp" width="900" height="850" alt="Graph of y = sin x (dashed) and y = 2 sin x + 1 from 0 to 360 degrees. The second has amplitude 2 about the midline y = 1, maximum 3 and minimum -1." loading="lazy">
+  <figcaption>Stretch by 2 and lift by 1 gives values between -1 and 3.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -70,6 +70,22 @@ These notes condense sections 3.5.1 (Oscillating systems) and 3.5.2 (Forced vibr
 
 **Worked reminder.** A 0.40 kg trolley on a horizontal spring (k = 200 N m⁻¹) is pulled 5.0 cm and released. Ep at the start = ½kA² = ½ × 200 × 0.050² = **0.25 J**, which equals the maximum Ek. Maximum speed = √(2 × 0.25 / 0.40) = **1.1 m s⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
+
 ## Damping
 
 | Type | Behaviour | Example |
@@ -112,6 +128,12 @@ If the resistive force grows with speed, the amplitude falls by the same fractio
 **Stationary-wave resonance.** A string fixed at both ends resonates at f = v/2L, then 2f, 3f and so on. An air column closed at one end resonates when the length is λ/4, then 3λ/4, 5λ/4.
 
 **Worked reminder.** A string of length 1.0 m with wave speed 50 m s⁻¹: lowest resonance f = 50 / 2.0 = **25 Hz**; next **50 Hz**. A closed tube resonates at its shortest length of 0.15 m: λ = 0.60 m, so f = 340 / 0.60 = **567 Hz**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--08-damping-resonance.webp" width="900" height="1110" alt="Top: displacement against time for light, critical and heavy damping, with a dashed envelope on the light-damping curve. Bottom: amplitude of a forced oscillation against driving frequency over natural frequency; light damping gives a tall sharp peak near f0 and heavy damping a lower, broader peak at slightly lower frequency." loading="lazy">
+  <figcaption>Damping removes energy; resonance is largest when the driving frequency matches the natural frequency, and damping flattens it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

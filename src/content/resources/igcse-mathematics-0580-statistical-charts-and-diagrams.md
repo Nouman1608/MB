@@ -83,6 +83,12 @@ Number of people
 
 On paper you would usually draw vertical bars. The data are discrete, so the bars are separate, with equal gaps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
+
 ## 9.4 (a) Bar charts
 
 ### Drawing a bar chart
@@ -141,6 +147,12 @@ Packed lunch   Y9   ███                15
 - A **dual** chart is better for comparing one category across groups, because every bar starts at 0. It shows at once that sandwiches become more popular from Year 9 to Year 11 (25, 30, 40) while hot meals become less popular (40, 35, 20).
 - A **composite** chart is better for comparing totals and the make-up of each total, because the full bar is the total.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
+  <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
+</figure>
+
+
 ## 9.4 (c) Pictograms
 
 A **pictogram** uses a symbol to stand for a fixed number of items. The **key** gives that number. A part of a symbol stands for the same fraction of the number.
@@ -178,6 +190,12 @@ So Thursday is drawn as ● ● ● ● ◕.
 (c) How many more books were borrowed on Wednesday than on Tuesday? 32 − 18 = **14 books**. Work with the numbers, not with counting symbols, so that the parts are handled correctly.
 
 When you draw a pictogram, keep every symbol the same size and lined up, and always include the key.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp" width="900" height="801" alt="A whole circle is 8 books and a quarter circle is 2. Monday to Wednesday and Friday read 28, 18, 32 and 14. Thursday is 130 minus 92 = 38 books, which is 4 and three quarters circles." loading="lazy">
+  <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
+</figure>
+
 
 ## 9.4 (b) Pie charts
 
@@ -239,6 +257,17 @@ Check: 105 + 75 + 54 + 36 = 270
 
 A pie chart shows **proportions**, not sizes. Suppose a second school has 600 students in the same year, and its German sector is 60°. The angle is smaller than 72°, but the number is larger: 60/360 × 600 = **100** students, against 54 in the first school. You can say "a smaller proportion chose German", but not "fewer students chose German", unless you know both totals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
+  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
+</figure>
+
+
 ## 9.4 (d) Stem-and-leaf diagrams
 
 A **stem-and-leaf diagram** keeps every data value while showing the shape of the data. The **stem** is the leading part of each value and the **leaf** is the final digit. The syllabus requires the data to be **ordered** and the diagram to have a **key**.
@@ -286,6 +315,12 @@ Interpreting the diagram:
 - **Shape:** the longest row is 14, so the most common times are 14.0 to 14.9 seconds.
 
 Leaves are single digits, evenly spaced, with no commas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--06-stem-and-leaf.webp" width="900" height="866" alt="Rows 12 to 16 hold the 20 ordered times, with the key 12 | 5 meaning 12.5 seconds. The 10th and 11th values, 14.2 and 14.4, give the median 14.3 s. The range is 4.3 s." loading="lazy">
+  <figcaption>Count leaves, not stems, to find the median, and always include the key.</figcaption>
+</figure>
+
 
 ## Common errors
 

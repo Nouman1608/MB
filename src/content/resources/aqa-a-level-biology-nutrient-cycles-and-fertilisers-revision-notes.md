@@ -73,6 +73,17 @@ Other facts to link in:
 - Nodule bacteria receive carbohydrate from the legume. The legume receives fixed nitrogen. This is why legumes can be grown to improve soil.
 - Species names of bacteria are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--05-nitrogen-cycle.webp" width="900" height="1200" alt="Nitrogen gas is fixed to ammonium by bacteria. Dead matter and urea are ammonified to ammonium by saprobionts, nitrifying bacteria oxidise ammonium to nitrite and nitrate, and plants take up nitrate. Denitrifying bacteria in waterlogged anaerobic soil return nitrogen to the air." loading="lazy">
+  <figcaption>Five bacterial processes move nitrogen between air, soil and living things.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
+
 ## The phosphorus cycle at a glance
 
 | Stage | Detail |
@@ -133,6 +144,12 @@ Eutrophication, in order:
 7. Fish and other aerobic organisms suffocate.
 
 Ways to reduce the problem: apply the right amount at the right time, avoid spreading before heavy rain, keep strips of vegetation along waterways, and use slow-release or natural fertilisers where suitable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -198,6 +215,12 @@ When a graph or table shows nitrate, algae and oxygen over time, take these step
 - Writing "nutrients" instead of nitrate or phosphate ions when asked what the plant takes up.
 - Not showing the working for a percentage by mass: set out each stage so that your method can be followed.
 - Describing mycorrhizae as parasitic. They are mutualistic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

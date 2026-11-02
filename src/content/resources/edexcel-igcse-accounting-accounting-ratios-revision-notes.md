@@ -35,6 +35,22 @@ Quick recall for the Pearson Edexcel International GCSE in Accounting (4AC1) spe
 
 Key line: profit is not cash. A business can be profitable and short of cash, for example when profit is tied up in inventory or in amounts owed by customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--01-prof-vs-cash.webp" width="900" height="1050" alt="Two bars compare Quorley Tiles current assets of 45,500 (inventory 40,000, receivables 5,000, bank 500) with current liabilities of 36,000. Profit is 15% of revenue, the current ratio is 1.26 : 1, but without inventory the acid test is 0.15 : 1." loading="lazy">
+  <figcaption>A business can be profitable yet short of cash when most current assets are inventory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--03-vossberg-profitability.webp" width="900" height="970" alt="Paired bars show gross profit percentage 35.0 to 33.0, profit for the year as a percentage of revenue 12.5 to 9.0, and ROCE 15.0 to 11.74. The first two divide by revenue and ROCE divides by capital employed." loading="lazy">
+  <figcaption>Vossberg earned less on all three profitability measures in Year 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--05-vossberg-liquidity.webp" width="900" height="1045" alt="Stacked bars compare current assets with current liabilities for both years. Current ratio fell 1.88 to 1.26 and acid test fell 0.94 to 0.52 as liabilities rose from 32,000 to 65,000 and inventory is excluded from the acid test." loading="lazy">
+  <figcaption>Liquidity weakened because current liabilities nearly doubled.</figcaption>
+</figure>
+
+
 ## 2. The five formulas
 
 | Ratio | Formula | Write as |
@@ -78,6 +94,12 @@ Revenue 82,000; cost of sales 57,400; other operating expenses 17,220. Equity 57
 | Acid test | (15,000 − 9,000) ÷ 8,000 | 0.75 : 1 |
 
 Reading: Palmerston Stationery retains 30 cents from every dollar of revenue as gross profit, and 9 cents once expenses are met. Its acid test is below 1 : 1, so quick assets do not fully cover current liabilities, and it relies on selling inventory to pay its bills.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--04-vossberg-revenue-split.webp" width="900" height="915" alt="Each bar splits revenue into cost of sales, other operating expenses and profit. Year 1 is 65.0, 22.5 and 12.5 percent; Year 2 is 67.0, 24.0 and 9.0 percent. Gross margin fell 2.0 points and expenses rose 1.5 points, so profit percentage fell 3.5 points." loading="lazy">
+  <figcaption>Higher cost of sales and faster-growing expenses squeezed the profit percentage.</figcaption>
+</figure>
+
 
 ## 5. Must-know distinctions
 
@@ -127,6 +149,12 @@ A full comment has three parts: the change (with figures), a reason that fits th
 8. Inventory has to be sold, and the customers then have to pay, before it becomes cash; it may also be slow to sell. The acid test shows cover without relying on that.
 9. Revenue: the income statement. Non-current liabilities: the statement of financial position.
 10. **False.** Profit and cash are different. Profit may be tied up in inventory or in money owed by customers, or used to buy non-current assets or repay loans, leaving little cash to pay short-term debts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-accounting-ratios--02-capital-employed-two-routes.webp" width="900" height="970" alt="Bars for Year 1 and Year 2 show capital employed built two ways: equity plus non-current liabilities, and non-current assets plus current assets minus current liabilities. Year 1 gives 200,000 both ways and Year 2 gives 230,000 both ways." loading="lazy">
+  <figcaption>Both routes to capital employed give the same total, so one checks the other.</figcaption>
+</figure>
+
 
 ## 8. Where marks are usually lost
 

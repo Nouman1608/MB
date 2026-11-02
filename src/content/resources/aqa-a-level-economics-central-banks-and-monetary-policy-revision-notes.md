@@ -49,6 +49,17 @@ These revision notes condense central banks and monetary policy for AQA A-level 
 5. Carry out monetary policy.
 6. Contribute to financial stability (regulation is a separate topic).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--08-cb-six-functions.webp" width="900" height="740" alt="A central bank with six numbered spokes: issues banknotes, banker to the government, banker to commercial banks, lender of last resort, carries out monetary policy, contributes to financial stability." loading="lazy">
+  <figcaption>The six main functions of a central bank.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Objectives and the MPC
 
 - The government sets the objectives. The Bank chooses how to meet them.
@@ -66,6 +77,12 @@ These revision notes condense central banks and monetary policy for AQA A-level 
 5. State the decision, and why, using the data given.
 
 **Reminder.** CPI moves from 104.0 to 105.6: (105.6 - 104.0) / 104.0 x 100 = 1.5%. That is below the target by 0.5 percentage points. With weak demand, a cut is more likely than a rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--10-pound-appreciation-prices.webp" width="900" height="900" alt="The pound rises from 1.30 to 1.50 dollars. A 40 pound export rises from 52 to 60 dollars (+15.4%); a 90 dollar import falls from 69.23 to 60.00 pounds (-13.3%)." loading="lazy">
+  <figcaption>An appreciation makes exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## Factors the MPC considers
 
@@ -95,6 +112,37 @@ These revision notes condense central banks and monetary policy for AQA A-level 
 
 **Reminder: household cost.** A variable-rate, interest-only mortgage of £80,000 moves from 2.5% to 3.0%. Interest rises from £2,000 to £2,400 a year, so £400 a year more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--06-inflation-vs-target.webp" width="900" height="770" alt="CPI rises from 112.5 to 116.1, so inflation is 3.2%, 1.2 percentage points above the 2% target. Because the gap is over one point the Governor writes an open letter." loading="lazy">
+  <figcaption>Inflation of 3.2% is 1.2 points above target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--07-bank-rate-transmission.webp" width="900" height="1090" alt="Flow chart from a bank rate rise to higher loan rates, falls in consumption and investment, a stronger currency and lower net exports, then lower AD and slower inflation, with a lag of a year or more." loading="lazy">
+  <figcaption>The chain must be completed to AD and inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--08-household-to-ad-effect.webp" width="900" height="830" alt="A mortgage of 120,000 pounds costs 1,800 a year more (150 a month) when rates rise from 3.5% to 5%. In the economy, falls of 6, 4 and 2 sum to 12, times 1.6 is 19.2, which is 2.0% of GDP 960." loading="lazy">
+  <figcaption>A small cost per household becomes a 2.0% fall in AD.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--09-cb-real-interest-rate.webp" width="900" height="810" alt="Two bar pairs. A saver earning 5 per cent with 3 per cent inflation has a real rate of about 2 per cent (exactly 1.94). Earning 3 per cent with 4.5 per cent inflation gives about minus 1.5 per cent (exactly minus 1.44)." loading="lazy">
+  <figcaption>The real rate is the nominal rate minus inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--12-cb-cost-push-bank-rate.webp" width="900" height="998" alt="AD/SRAS diagram. An energy cost shock moves the economy from A (price 100, output 100) to B (112, 80). A bank rate rise shifts AD left to C (100, 60): the price returns but output falls further." loading="lazy">
+  <figcaption>Raising bank rate against cost-push inflation lowers output without removing the cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+
 ## Exchange rate effects
 
 | | Appreciation | Depreciation |
@@ -120,6 +168,22 @@ The effect on the current account depends on how elastic trade volumes are, and 
 | Forward guidance | Communicates future path | Shapes expectations now | Needs credibility |
 
 **Reminder: QE accounting.** The Bank buys £30bn of gilts from a pension fund: pension fund deposits +£30bn; commercial bank reserves +£30bn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--09-quantitative-easing.webp" width="900" height="920" alt="The Bank buys 30bn of gilts from a pension fund. The fund swaps gilts for a deposit; the commercial bank gains reserves and a deposit liability of 30bn." loading="lazy">
+  <figcaption>QE creates electronic reserves to buy assets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--10-cb-funding-for-lending.webp" width="900" height="870" alt="Flow from the Bank of England to banks to households and firms: cheap funding linked to lending leads to lower loan rates and more credit, and more lending earns cheaper funding." loading="lazy">
+  <figcaption>Funding for Lending ties banks cheap funding to how much they lend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-central-banks-and-monetary-policy--11-cb-forward-guidance.webp" width="900" height="906" alt="Expected bank rate over five years with and without guidance. If low rates are expected to last, the average long-term rate set today is 0.8 per cent instead of 2.2 per cent." loading="lazy">
+  <figcaption>If people believe the signal, long-term rates adjust now.</figcaption>
+</figure>
+
 
 ## Worked reminder: size of an AD change
 

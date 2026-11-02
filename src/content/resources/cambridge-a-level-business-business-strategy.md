@@ -49,6 +49,12 @@ Strategic management is the process of deciding and carrying out strategy. The s
 - Choice: selecting from the options, using tools such as the Ansoff matrix, blue ocean strategy and decision trees.
 - Implementation: putting the choice into practice through plans, budgets, people and control. This links to 6.2.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--01-strategy-stages.webp" width="900" height="1060" alt="Strategic management has three stages in order. Analysis uses PEST, SWOT and five forces; choice uses the Ansoff matrix, blue ocean and decision trees; implementation uses plans, budgets, people and control." loading="lazy">
+  <figcaption>Three stages of strategic management and the tools used at each.</figcaption>
+</figure>
+
+
 
 ### SWOT analysis
 
@@ -58,11 +64,28 @@ Maplecote Ceramics is an invented maker of hand-finished tableware. Its strength
 
 A SWOT is only a starting point. It is a list that does not rank the items or say what to do, so evaluation should say which two or three factors drive the decision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--01-maplecote-swot-pest.webp" width="900" height="1020" alt="A SWOT grid for Maplecote Ceramics (inside: strengths, weakness; outside: opportunity, threat) with PEST items feeding the outside row. Numbers and items are the lesson's. Maplecote SWOT and PEST: inside and outside factors, with PEST feeding opportunities and threats." loading="lazy">
+  <figcaption>Maplecote SWOT grid with the four PEST headings feeding the outside boxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+
 ### PEST analysis
 
 PEST examines the external environment under four headings: political, economic, social and technological. Maplecote might list new import rules (political), a fall in consumer spending (economic), a trend for handmade goods (social) and cheaper online selling platforms (technological).
 
 Its limits: the headings overlap, findings date quickly, and it ignores the business's own position. Pair it with SWOT: PEST feeds the opportunities and threats boxes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
 
 ### Porter's five forces
 
@@ -78,11 +101,23 @@ Porter's five forces assesses how attractive an industry is by looking at five p
 
 Strong forces squeeze prices or push up costs, so profit falls. Apply it by naming the force and the evidence in the case. Its limits are that it describes an industry at one moment, and a business may have little power to change the forces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+
 ### Core competence framework
 
 A core competence is something a business does especially well that gives it an advantage over rivals. In the standard framework (Prahalad and Hamel) a competence is core when it gives access to a variety of markets, adds to the benefit customers perceive, and is hard for competitors to copy. The syllabus names the framework but not these three tests, so treat them as the standard form.
 
 Maplecote's glaze recipes, developed over twenty years, could be a core competence: they could be used in tiles as well as tableware, customers notice the finish, and rivals cannot easily reproduce them. The strategic message is to build strategy around what the business is best at.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--02-core-competence-tests.webp" width="900" height="1010" alt="Glaze recipes pass three tests in turn: many markets, customer-perceived benefit, hard to copy. Result: a core competence. The three standard tests of a core competence applied to Maplecote." loading="lazy">
+  <figcaption>Maplecote glaze recipes pass the three standard tests of a core competence.</figcaption>
+</figure>
+
 
 ### Ansoff matrix
 
@@ -101,6 +136,12 @@ Blue ocean strategy is about creating a new, uncontested market space instead of
 
 Maplecote could drop wholesale discounting, reduce range size, raise the customer's design input and create a subscription plate service. The benefit is less direct competition; the risk is untested demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--04-blue-ocean-four-actions.webp" width="900" height="930" alt="Four boxes show eliminate, reduce, raise and create applied to Maplecote Ceramics, with small bar icons. Benefit: less direct competition; risk: untested demand." loading="lazy">
+  <figcaption>The four blue ocean actions applied to Maplecote.</figcaption>
+</figure>
+
+
 ### Scenario planning
 
 Scenario planning builds a small number of detailed, plausible pictures of the future and tests the strategy against each one. It suits long periods and high uncertainty, where a single forecast is unreliable.
@@ -112,6 +153,12 @@ Scenario planning builds a small number of detailed, plausible pictures of the f
 | Pessimistic | Imports undercut prices | −£90,000 |
 
 The pessimistic case shows the business needs a plan for a loss, such as a second supplier and a cost-cutting trigger point. Limits: it takes managers' time, and no scenario set can include every event.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--02-scenario-planning.webp" width="900" height="960" alt="Bar chart of Maplecote Ceramics profit forecasts: optimistic 420, central 260, pessimistic minus 90 (thousand pounds). The loss case means the business needs a plan such as a second supplier." loading="lazy">
+  <figcaption>Scenario planning tests a strategy against several futures, including a loss.</figcaption>
+</figure>
+
 
 ### Force field analysis
 
@@ -145,6 +192,12 @@ Upgrade: expected value = (0.6 × 2.4) + (0.4 × 1.6) = 1.44 + 0.64 = £2.08m. N
 
 The new plant has the higher net gain, by £0.32m. A good answer then evaluates. The probabilities are estimates, the upgrade loses less if demand is weak, and the figures ignore non-financial factors and the time value of money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--03-fernlock-decision-tree.webp" width="900" height="980" alt="Decision tree for Fernlock Dairy. New plant: EV 3.6 million, net gain 1.6 million. Upgrade: EV 2.08 million, net gain 1.28 million. The new plant is higher by 0.32 million." loading="lazy">
+  <figcaption>Expected value then net gain for each option: the new plant wins by 0.32m.</figcaption>
+</figure>
+
+
 ## 6.2.2 Corporate planning and implementation
 
 ### Corporate planning
@@ -162,6 +215,12 @@ Corporate culture is the shared values, beliefs and accepted ways of behaving in
 
 Culture is difficult and slow to change, so a strategy that conflicts with it may fail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--03-culture-and-decisions.webp" width="900" height="1090" alt="Cautious cultures point to market penetration and risk-taking ones to diversification; culture also affects consultation, ethics and implementation. How corporate culture shapes strategic decisions." loading="lazy">
+  <figcaption>Culture sets how bold strategic choices are and how decisions are made.</figcaption>
+</figure>
+
+
 ### Transformational leadership
 
 Transformational leadership aims to inspire people to commit to a shared vision and go beyond their own interests. In the usual description, the leader communicates a clear vision, stimulates new thinking, treats individuals as people with different needs, and acts as a role model. It contrasts with transactional leadership, based on rewards and penalties for set tasks.
@@ -172,11 +231,23 @@ It is important in strategic change because it builds commitment. The limits are
 
 Strategic change is a major shift in direction, such as entering a new market or restructuring. It is often resisted because people fear job loss, extra work or the unknown. Managers can manage it by explaining the reasons clearly, involving staff, training them, setting milestones, and appointing change leaders. Control means checking progress against objectives, budgets and deadlines, and adjusting the plan. Force field analysis (above) gives a way to find the main resistance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--04-strategic-change-control.webp" width="900" height="1010" alt="Fears cause resistance; managers explain, involve, train, set milestones and appoint change leaders; control checks progress and adjusts the plan. Managing and controlling strategic change." loading="lazy">
+  <figcaption>Resistance to change, managers' responses and the check-and-adjust control loop.</figcaption>
+</figure>
+
+
 ### Contingency planning and crisis management
 
 A contingency plan is prepared in advance for a specific unlikely but serious event, such as a factory fire, a product recall, a data breach or loss of a major supplier. It names who does what, how to communicate and how to keep key operations going. Its importance is speed and reduced damage. The cost is effort spent on events that may never occur.
 
 Crisis management is the way a business handles a crisis once it occurs: forming a response team, giving accurate and prompt information to customers, staff and the public, fixing the cause, and recovering reputation. Contingency planning comes before; crisis management happens during and after.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-strategy--05-contingency-vs-crisis.webp" width="900" height="985" alt="Timeline with an event. Before: contingency plan (who does what, communication, key operations). After: response team, information, fix cause, recover reputation. Contingency planning (before) versus crisis management (during and after)." loading="lazy">
+  <figcaption>A contingency plan comes before an event; crisis management follows it.</figcaption>
+</figure>
+
 
 ## Common errors
 

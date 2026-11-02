@@ -57,6 +57,17 @@ A firm is productively efficient when it produces a given output at the lowest p
 
 AC falls while MC is below it and rises once MC is above it. They meet at Q = 4, where AC = £36. The firm is productively efficient only at 4,000 tiles. At 5,000 tiles AC is £36.60, so it is not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--08-productive-efficiency-tiles.webp" width="900" height="1000" alt="AC and MC curves for TC = 48 + 12Q + 3Q squared; MC cuts AC at its lowest point at Q = 4 thousand where both are 36." loading="lazy">
+  <figcaption>Productive efficiency is at the lowest point of AC, where MC = AC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ## Allocative efficiency
 
 A market is allocatively efficient when resources are put to the uses that society values most, so that the mix of output matches what consumers value at the margin. The condition is price equal to marginal cost (P = MC). Price shows the marginal benefit of the last unit to consumers and MC shows the cost of the resources used. If P > MC, consumers would pay more for another unit than it costs to make, so output is too low. If P < MC, output is too high. If there are external effects, the full test is marginal social benefit equal to marginal social cost (MSB = MSC).
@@ -69,6 +80,17 @@ A market is allocatively efficient when resources are put to the uses that socie
 
 Units 7 to 9 thousand are worth more than they cost, yet are not produced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--09-monopoly-allocative-loss.webp" width="900" height="1000" alt="Demand, MR and MC curves: the monopolist produces Q = 6 at price 32; allocative efficiency is at Q = 9, price 26; the welfare loss triangle is 18 thousand." loading="lazy">
+  <figcaption>A monopolist restricts output below the P = MC level, losing 18 thousand pounds of welfare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
+
 ## Economic efficiency, static and dynamic efficiency
 
 Economic efficiency is the best use of scarce resources overall. In practice it needs productive and allocative efficiency together. **Static efficiency** is efficiency at one point in time, given the resources and technology available. **Dynamic efficiency** is efficiency over time, through investment, research and innovation that lower costs or create better products, so that cost curves shift down.
@@ -77,11 +99,23 @@ Economic efficiency is the best use of scarce resources overall. In practice it 
 
 The two can conflict. A firm with price power may charge above MC and be statically inefficient, yet use its profit to invest. A perfectly competitive firm may be statically efficient but earn only normal profit in the long run, leaving little to invest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--02-static-dynamic-payback.webp" width="900" height="1010" alt="A firm spends 450,000 on a process that cuts unit cost from 20 to 17.50 on 120,000 units, saving 300,000 a year. Cumulative cash goes from minus 450 thousand to minus 150, plus 150 and plus 450 over three years, crossing zero at 1.5 years." loading="lazy">
+  <figcaption>Spending now to lower future cost: payback is 450,000 / 300,000 = 1.5 years.</figcaption>
+</figure>
+
+
 ## X-inefficiency
 
 X-inefficiency exists when a firm produces at a higher cost than the lowest possible for its output, because there is little pressure to control cost. Its actual AC curve lies above the efficient one. Causes include weak competition, managers pursuing goals other than lowest cost, slack in workers' effort and poor monitoring.
 
 **Worked example.** A sheltered firm in Country D (illustrative) has unit cost £22. A firm of the same size facing competition has £18. Excess cost = 22 − 18 = £4 per unit, which is 4 ÷ 18 = **22.2%** above the efficient level. At 50,000 units that is 4 × 50,000 = £200,000 of avoidable cost a year. If competition arrives and cost falls to £18, the firm moves from the higher AC curve to the lower one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--12-x-inefficiency-gap.webp" width="900" height="1010" alt="Two columns of unit cost: competitive firm 18, sheltered firm 22, an excess of 4 (22.2 percent), or 200,000 pounds a year on 50,000 units." loading="lazy">
+  <figcaption>A sheltered firm carries avoidable cost of 4 pounds a unit.</figcaption>
+</figure>
+
 
 ## Conditions, and other market structures
 
@@ -102,6 +136,17 @@ Productive and allocative efficiency are most likely when:
 | Monopoly | No | Often not | Restricts output to raise price; weak pressure on cost |
 
 **Evaluation.** Perfect competition is a benchmark rather than a description. Few real markets match it. A large firm may reach a lower AC through economies of scale than many small ones, so a monopoly can be productively more efficient than a fragmented market. A threat of entry in a contestable market can push even a large firm towards efficient prices. Dynamic gains from a profit-rich firm may outweigh static loss. The result depends on how large the price gap is and how the profits are used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--03-perfect-competition-short-long-run.webp" width="900" height="1210" alt="Three graphs of the tile firm AC and MC with a price line. At 42 it produces 5 and earns 27 thousand profit; at 36 it produces 4 with zero profit, the long-run position; at 30 it produces 3 and loses 21 thousand." loading="lazy">
+  <figcaption>Perfect competition is allocatively efficient (P = MC) in the short run and productively efficient too in the long run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--04-efficiency-by-market-structure.webp" width="900" height="950" alt="A table of four market structures with symbols for allocative and productive efficiency. Perfect competition: yes, and yes in the long run. Monopolistic competition: no and no. Oligopoly: usually not, depends. Monopoly: no, often not." loading="lazy">
+  <figcaption>Only perfect competition meets both tests, and productive efficiency only in the long run.</figcaption>
+</figure>
+
 
 ## Importance of each type of efficiency
 
@@ -161,6 +206,22 @@ The market under-consumes, because the buyer counts only private benefit.
 
 Each is market failure because prices reflect only private costs and benefits, so output differs from where MSB = MSC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--10-externality-negative-production.webp" width="900" height="1000" alt="MPB, MPC and MSC curves. Market at Q = 10, P = 30; social optimum at Q = 8, P = 34; welfare loss triangle 8 thousand." loading="lazy">
+  <figcaption>Ignoring external cost leads to over-production and a welfare loss of 8 thousand pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--11-externality-positive-consumption.webp" width="900" height="1130" alt="MPB, MSB and MC curves. Market at Q = 13, P = 38; social optimum at Q = 15, P = 42; welfare gain triangle 12 thousand." loading="lazy">
+  <figcaption>Ignoring external benefit leads to under-consumption.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--01-externality-cases-2-and-4.webp" width="900" height="1260" alt="Two graphs mirror the drawn cases with illustrative numbers. In case 2 MSB lies below MPB, so the market buys 10 against an optimum of 8. In case 4 MSC lies below MPC, so the market produces 8 against an optimum of 10. Each welfare-loss triangle has base 2 and height 8." loading="lazy">
+  <figcaption>Cases 2 and 4 mirror cases 1 and 3: over-consumption and under-production.</figcaption>
+</figure>
+
+
 ## Effects on markets
 
 - **Education:** a positive externality of consumption, because skills help employers and society. Under-consumption follows if individuals count only their own gain.
@@ -169,6 +230,12 @@ Each is market failure because prices reflect only private costs and benefits, s
 - **Environment:** firm pollution is a negative externality of production.
 
 **Evaluation.** The size of the gap matters more than its existence. External costs and benefits are hard to measure, so the optimum is uncertain. Some effects appear only in the long run. A small externality may not justify the expense of correcting it. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--05-externality-cases-in-real-markets.webp" width="900" height="990" alt="Five rows link markets to externality cases. Education and vaccination are under-consumed (13 against 15); smoking and congestion are over-consumed and pollution over-produced (10 against 8)." loading="lazy">
+  <figcaption>Education, health, transport and the environment map onto the four externality cases.</figcaption>
+</figure>
+
 
 ## Common errors
 

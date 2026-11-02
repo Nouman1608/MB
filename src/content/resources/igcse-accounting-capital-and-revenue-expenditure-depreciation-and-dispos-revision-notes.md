@@ -78,6 +78,17 @@ These are condensed notes for syllabus sections 4.1 Capital and revenue expendit
 2. Choose the account type: non-current asset, expense, capital or loan, or income.
 3. Write the double entry, with the bank or supplier on the other side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--01-capital-revenue-receipts.webp" width="900" height="1161" alt="Capital receipts (owner capital 5,000, bank loan 20,000, old lathe sold 2,100) are credited to capital, loan and disposal accounts and are not income. Revenue receipts (sales, rent received, commission received) are credited to income accounts and move to the statement of profit or loss." loading="lazy">
+  <figcaption>Capital receipts are not income; revenue receipts are.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
+
 ## Effect of incorrect treatment
 
 | Mistake | Profit | Non-current assets |
@@ -88,6 +99,17 @@ These are condensed notes for syllabus sections 4.1 Capital and revenue expendit
 | Revenue receipt credited to capital or a liability | Understated | No change |
 
 Where depreciation was charged on the wrongly capitalised item, the overstatement is the amount **less** that depreciation. Reminder: 800 of repairs debited to machinery, depreciated at 25% on cost for a full year. Profit and assets are both overstated by 800 − 200 = 600.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--01-misposted-corrected-profit.webp" width="900" height="1010" alt="A running total from draft profit 41,500 through four misposted items (+675, -414, -5,000, +1,200) to corrected profit 37,961. Bar lengths are proportional to each adjustment. Capital wrongly treated as revenue and revenue as capital change profit by less than the full amount because of depreciation." loading="lazy">
+  <figcaption>Each misposting moves profit by a different amount, ending at 37,961.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--01-capital-vs-revenue.webp" width="900" height="970" alt="Two columns contrast capital expenditure (buying a van, extending a building, benefiting many years) with revenue expenditure (fuel, repainting, benefiting this year only). Two panels show that treating capital as revenue understates profit and assets, and treating revenue as capital overstates both." loading="lazy">
+  <figcaption>Capital spending benefits several years; putting it in the wrong group distorts profit and asset value.</figcaption>
+</figure>
+
 
 ## 4.2 Depreciation: why and how
 
@@ -101,6 +123,27 @@ Where depreciation was charged on the wrongly capitalised item, the overstatemen
 
 Apply the stated method, rate and policy (full year in the year of purchase, or months owned) exactly, and keep the method the same from year to year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--03-revaluation-depreciation.webp" width="900" height="790" alt="Hand tools are valued at 3,150 at the start and 820 are bought, giving 3,970. They are valued at 2,990 at the end, so depreciation is 3,970 - 2,990 = 980." loading="lazy">
+  <figcaption>Under revaluation, depreciation is opening value plus additions minus closing value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--02-choosing-depreciation-method.webp" width="900" height="1050" alt="Straight-line suits premises, machinery, fixtures and fittings (value falls by the same amount each year). Reducing balance suits motor vehicles and computer equipment (falls fast, then slower). Revaluation suits loose tools: 3,970 less closing value 2,990 gives 980." loading="lazy">
+  <figcaption>Each asset type is paired with the method that suits it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+
 ## Journal entries to learn
 
 | Event | Debit | Credit |
@@ -113,6 +156,12 @@ Apply the stated method, rate and policy (full year in the year of purchase, or 
 | Proceeds | Bank | Disposal account |
 | Profit on disposal | Disposal account | Statement of profit or loss |
 | Loss on disposal | Statement of profit or loss | Disposal account |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--03-wexford-journal.webp" width="900" height="897" alt="Six journal entries for Wexford in 2028: machine D bought for 27,600, machine A disposal entries (30,000; 11,250; 20,000), year-end depreciation 8,520 and profit on disposal 1,250. Total debits equal total credits." loading="lazy">
+  <figcaption>The 2028 journal entries, debit on the left and credit on the right.</figcaption>
+</figure>
+
 
 ## Disposal in steps, with a worked reminder
 
@@ -134,6 +183,17 @@ Vehicles (cost)          40,000    Provision for depreciation   17,500
 Profit or loss (profit)   1,500    Bank                         24,000
                          41,500                                 41,500
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--02-part-year-disposal.webp" width="900" height="850" alt="A month strip shows machine A owned for nine months of 2028. A cost bar of 30,000 splits into 9,000 earlier depreciation, 2,250 for 2028 and net book value 18,750. The sale price of 20,000 exceeds net book value by 1,250, the profit on disposal." loading="lazy">
+  <figcaption>Depreciation is charged up to the sale date, so profit on disposal is proceeds minus net book value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -180,6 +240,12 @@ Profit or loss (profit)   1,500    Bank                         24,000
 - Missing the part-year or full-year policy the question states.
 - Giving the effect of an error on profit without saying whether it is overstated or understated, or without a figure.
 - Forgetting to bring the balances down on the asset and provision accounts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos--04-wexford-ledgers.webp" width="900" height="1264" alt="Machinery account totals 99,600; provision for depreciation totals 22,920; disposal account totals 31,250 with a profit of 1,250. Cost 69,600 less provision 11,670 gives net book value 57,930." loading="lazy">
+  <figcaption>Machine A leaves all three accounts; the profit balances the disposal account.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

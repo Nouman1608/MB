@@ -38,6 +38,12 @@ Start from the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounti
 
 The specification names the ratios you calculate elsewhere in section 3.5 (gross profit margin, markup, rate of inventory turnover, profit in relation to revenue, return on capital employed, current ratio, liquid capital ratio, trade receivable days and trade payable days). It also points to the OxfordAQA guide "Formulae for accounting ratios". Use that guide for the exact formulas. This page uses the ratios only to show what they can and cannot tell you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+
 ## 1. Why limits matter
 
 Financial statements report what has already happened, in money. A ratio turns two of those figures into one number that is easy to compare. Both are useful, and both leave things out. An appraisal that quotes a ratio and stops there earns little. A good appraisal also says what else you would need to know before trusting the ratio.
@@ -84,6 +90,22 @@ One trade receivable days figure can hide a single customer who owes a very larg
 
 A business can report a profit and still run out of cash, for example when customers pay late or when cash is tied up in inventory. Profit measures performance over a period. It is not a bank balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--03-mp15-window-dressing.webp" width="900" height="760" alt="Paying 20,000 dollars of payables early with cash moves the current ratio from 1.50 to 2.00 with no change in trading." loading="lazy">
+  <figcaption>A ratio taken at one date can be changed by timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--04-mp15-policy-profit.webp" width="900" height="800" alt="Two shops with identical trading report profit of 46,000 and 42,000 dollars because they depreciate a 40,000 machine by different methods; profit to revenue is 23.0% against 21.0%." loading="lazy">
+  <figcaption>Different depreciation policies change profit and ratios without any change in performance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--05-profit-not-cash.webp" width="900" height="910" alt="A waterfall starts at budgeted profit of 17,700 pounds, adds back 2,000 depreciation, then subtracts the van (15,000), drawings (7,500) and higher receivables (7,500) and adds higher payables (3,600). The bank falls by 6,700, from 3,200 to a 3,500 overdraft." loading="lazy">
+  <figcaption>A profitable budget can still leave the bank overdrawn because profit is not cash.</figcaption>
+</figure>
+
+
 ## 3. Non-financial limitations
 
 These are facts that decide success but are not in the statements.
@@ -101,6 +123,12 @@ These are facts that decide success but are not in the statements.
 | Future plans | A planned new product or closure is not in last year's statements. |
 
 In a scenario question, pick the factors that fit it rather than listing all of them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--02-un15-not-in-the-figures.webp" width="900" height="920" alt="An iceberg: the tip above the water line is the financial statements and ratios; below it sit nine non-financial factors the statements leave out, from management skills and staff morale to law, ethics, location and future plans." loading="lazy">
+  <figcaption>Non-financial factors decide success but do not appear in the statements.</figcaption>
+</figure>
+
 
 ## 4. Worked examples
 
@@ -150,6 +178,12 @@ Two shops each buy a machine for 40,000. Shop A uses straight line depreciation 
 
 The shops trade identically, yet B looks 2 percentage points less profitable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--01-un15-tideway-ratios.webp" width="900" height="960" alt="Six pairs of bars compare Tideway Tiles Year 1 and Year 2: gross profit margin 40.0% to 35.0%, profit to revenue 15.3% to 10.5%, ROCE 29.4% to 21.8%, current ratio 2.00 to 1.78, liquid capital ratio 1.25 to 1.03, trade receivable days 36.5 to 54.8. Every measure is weaker although revenue rose 8.3%." loading="lazy">
+  <figcaption>Every ratio weakened for Tideway Tiles, but the ratios do not say why.</figcaption>
+</figure>
+
+
 ## 5. Computers in accounting
 
 The specification asks for advantages and disadvantages of computerised software for recording accounting data, compared with manual methods. Manual methods mean paper books and ledgers written by hand, possibly with a calculator.
@@ -184,6 +218,17 @@ Rowan Hill Cycles processes about 40 ledger entries a day by hand. It is offered
 - Year 2 onwards cost 1,800, leaving a net saving of 600 a year.
 
 On these figures the software pays for itself in the first year. A fair answer also notes the non-money points: fewer arithmetic errors, but a new risk from data loss. The 4 hours is an estimate, so the decision rests on it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--03-un15-computer-vs-manual.webp" width="900" height="920" alt="Two columns list six advantages of accounting software with ticks and five disadvantages with crosses, and a box notes that manual books are cheap and need no power but are slow and easier to get wrong." loading="lazy">
+  <figcaption>Weigh software against manual methods and tie each point to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-limitations-of-financial-statements-and-the-use-of-comp--04-un15-rowan-hill-software.webp" width="900" height="970" alt="4 hours x 50 weeks is 200 hours worth 2,400 dollars at 12 an hour. Year 1 cost is 1,800 plus 600 training = 2,400, net 0. Year 2 cost is 1,800, net saving 600 dollars. The 4 hours is an estimate." loading="lazy">
+  <figcaption>The software just covers its cost in Year 1 and saves 600 dollars a year after that.</figcaption>
+</figure>
+
 
 ## 6. Writing a good answer
 

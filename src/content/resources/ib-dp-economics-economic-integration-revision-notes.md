@@ -40,6 +40,12 @@ Test yourself with the [practice questions](/resources/ib-dp-economics-economic-
 | Trade diversion (HL only) | A switch from a low-cost outsider to a higher-cost partner |
 | Rules of origin | Tests of where a good truly comes from, used to stop goods entering through the lowest-tariff member |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--07-ib-int-agreements.webp" width="900" height="990" alt="Three network pictures: two countries linked (bilateral), five neighbours linked inside a region (regional), and many countries across the world linked through the WTO (multilateral)." loading="lazy">
+  <figcaption>The number and spread of parties distinguishes the three kinds of agreement.</figcaption>
+</figure>
+
+
 ## The ladder of integration
 
 ```
@@ -50,6 +56,12 @@ Free trade area  ->  Customs union  ->  Common market  ->  Monetary union
 ```
 
 Each step adds a feature and takes a little more national control. A useful memory aid is: internal barriers go, then the external tariff is shared, then factors move, then the currency is shared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--08-ib-int-bloc-types.webp" width="900" height="1170" alt="Three bloc diagrams. In a free trade area members keep different outside tariffs (5% and 30%), so an Orsin good costing 80 is 104 direct or 84 via Tamarek. A customs union has one 30% tariff so both cost 104. A common market adds free movement of labour and capital." loading="lazy">
+  <figcaption>Going from free trade area to customs union to common market deepens integration.</figcaption>
+</figure>
+
 
 ## Advantages of trading blocs: quick recall
 
@@ -85,6 +97,17 @@ Reminder example. Fictional country Brelan has a 20% tariff. Its own cost for a 
 - Switch from outsider to partner, so this is **trade diversion**.
 - Resource cost rises by 64 − 55 = 9 a unit. Consumers pay 2 less (66 − 64). Tariff revenue lost is 55 × 0.20 = 11. Net = 2 − 11 = −9, which matches.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--09-ib-int-trade-creation.webp" width="900" height="970" alt="Price bars for gadgets in Veldoria. Before the bloc the domestic good (100) is cheapest; after, Tamarek’s tariff-free price of 90 is cheapest, so buyers switch and save 10 per unit." loading="lazy">
+  <figcaption>Trade creation: buying switches from a dearer home producer to a cheaper partner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--10-ib-int-trade-diversion.webp" width="900" height="1250" alt="Price bars show Veldoria switching from cheaper Orsin (104) to Tamarek (100) once Tamarek’s tariff is removed. A bar chart then shows consumers gaining 4 per unit, tariff revenue falling 24, net minus 20." loading="lazy">
+  <figcaption>Trade diversion: a cheaper outsider is replaced by a dearer partner, and the country loses overall.</figcaption>
+</figure>
+
+
 ## Monetary union
 
 | Advantages (HL only evaluation) | Disadvantages (HL only evaluation) |
@@ -97,6 +120,12 @@ Reminder example. Fictional country Brelan has a 20% tariff. Its own cost for a 
 The guide gives the heading but no list for monetary union, so these are standard points. Always apply them. For example, if a shock hits only one member, the single interest rate cannot fit both that member and the rest.
 
 A quick calculation. A firm converts 900 000 units of currency a year, losing 2% each time. The saving after union is 900 000 × 0.02 = 18 000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--02-int-monetary-union.webp" width="900" height="880" alt="Bars of inflation: Veldoria 7%, Tamarek 0.5%, union weighted 4.4% (0.6x7 + 0.4x0.5), showing one policy fits neither. A second panel shows 1.5% of 2 400 000 = 36 000 a year saved on conversion costs." loading="lazy">
+  <figcaption>A single currency saves 36 000 in conversion costs but forces one policy on economies that differ.</figcaption>
+</figure>
+
 
 ## The WTO
 
@@ -158,6 +187,12 @@ For any AO3 question, give both sides and then a verdict. Useful criteria are:
 8. 0.5 × 6 + 0.5 × 2 = 4%.
 9. Barriers to services are regulations, not tariffs, so they are hard to compare and trade off.
 10. Members may see less need for a global deal because their main trade is already free.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--11-ib-int-scale-economies.webp" width="900" height="870" alt="A falling average cost curve with the firm at 50 000 units (cost 16) and, after the bloc forms, 300 000 units (cost 6): a 62.5% fall." loading="lazy">
+  <figcaption>Spreading fixed costs over a larger bloc market lowers average cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

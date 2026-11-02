@@ -94,6 +94,17 @@ Notice that forming an ion changes only the electron count. The nucleus, and so 
 - Charge = 38 − 36 = +2.
 - Symbol: **⁸⁸₃₈Sr²⁺**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--01-nuclear-model.webp" width="900" height="1080" alt="A not-to-scale atom with a tiny dense nucleus at the centre and electrons in the much larger space around it. A key gives proton +1 and mass 1, neutron 0 and 1, electron -1 and 1/1836. The proton is 1836 times heavier than the electron." loading="lazy">
+  <figcaption>The nucleus holds all the positive charge and almost all the mass; electrons occupy the space outside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--02-counting-ions.webp" width="900" height="1090" alt="Bar charts for Co 3+, Te 2- and Sr 2+ show protons = Z, neutrons = A - Z and electrons = Z - charge. A dashed outline shows the neutral atom electron count, so the electrons lost or gained are visible." loading="lazy">
+  <figcaption>Forming an ion changes only the number of electrons.</figcaption>
+</figure>
+
+
 ## Structure 1.2.2: Isotopes and relative atomic mass
 
 ### What isotopes are
@@ -153,6 +164,27 @@ x = 0.570
 
 So antimony is **57.0% ¹²¹Sb** and **43.0% ¹²³Sb**. The two percentages must add to 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--03-isotopes.webp" width="900" height="1080" alt="Two nuclei, iridium-191 and iridium-193, both with 77 protons but 114 and 116 neutrons. Same electrons give the same chemistry; different mass changes density, melting and boiling points and diffusion rate." loading="lazy">
+  <figcaption>Isotopes share Z but differ in neutrons, so chemistry is the same and mass-dependent physical properties differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--04-isotope-physical.webp" width="900" height="1040" alt="Two UF6 molecules, 235UF6 with relative mass 349 and 238UF6 with 352, differ by 0.86 percent. In a race diagram the lighter one diffuses slightly faster at the same temperature." loading="lazy">
+  <figcaption>The lighter isotopic molecule diffuses slightly faster, which physical separation methods exploit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--05-ar-weighted-mean.webp" width="900" height="1000" alt="Bars for iridium-191 (37.3 percent, 190.96) and iridium-193 (62.7 percent, 192.96) sit on a number line with a balance point at 192.21. The calculation (190.96 x 37.3 + 192.96 x 62.7) / 100 gives 192.21, nearer the more abundant isotope." loading="lazy">
+  <figcaption>Ar is the abundance-weighted mean, so it lies nearer the more abundant isotope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--06-abundance-from-ar.webp" width="900" height="1030" alt="A number line for antimony from 120.90 to 122.90 shows Ar 121.76 nearer antimony-121, at distances 0.86 and 1.14. A bar splits 57.0 percent antimony-121 and 43.0 percent antimony-123. Algebra gives x = 0.570." loading="lazy">
+  <figcaption>Solving 120.90x + 122.90(1 - x) = 121.76 gives 57.0% 121Sb and 43.0% 123Sb, which add to 100%.</figcaption>
+</figure>
+
+
 ## Structure 1.2.3: Mass spectra (HL only)
 
 A mass spectrometer turns atoms of an element into positive ions and sorts them by their mass-to-charge ratio, m/z. The guide says the operational details of the instrument will not be assessed. What you must do is read the output.
@@ -186,6 +218,12 @@ Ar = (84 × 0.6 + 86 × 9.9 + 87 × 7.0 + 88 × 82.5) / 100
 87.71 is closest to 87.62, so the metal is **strontium**. The small gap comes from using whole-number m/z values rather than exact isotopic masses.
 
 (c) Which isotope is most abundant? The tallest peak is at m/z 88, so ⁸⁸Sr.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-nuclear-atom--07-ms-element-hl.webp" width="900" height="1100" alt="A bar-chart mass spectrum with peaks at m/z 84, 86, 87 and 88 (0.6, 9.9, 7.0 and 82.5 percent) shows four isotopes, the tallest being 88Sr. The calculated Ar 87.71 lies beside Sr 87.62 on a number line with Rb and Y, so the metal is strontium." loading="lazy">
+  <figcaption>Each peak is one isotope; the weighted mean m/z gives Ar, which identifies the element. HL only.</figcaption>
+</figure>
+
 
 ## Common errors
 

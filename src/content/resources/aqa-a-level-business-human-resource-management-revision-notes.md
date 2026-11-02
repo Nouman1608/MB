@@ -44,6 +44,12 @@ These notes condense section 3.6, Decision making to improve human resource perf
 | Typical methods | Flexible contracts, output pay, tight supervision | Training, involvement, communication |
 | Objectives favoured | Numbers, location, cost | Engagement, talent development, values |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--09-hr-hard-soft.webp" width="900" height="960" alt="Hard HRM treats staff as a resource at lowest cost with close control and short-term contracts, cutting cost fast but risking low morale. Soft HRM treats staff as an asset to develop with training and long-term commitment, costing more but building skill and loyalty." loading="lazy">
+  <figcaption>Hard and soft HRM treat employees as a cost or as an asset.</figcaption>
+</figure>
+
+
 ## HR data (3.6.2)
 
 The specification names the measures but not the formulas. These are the standard forms.
@@ -74,6 +80,12 @@ Data helps decisions on hiring, training, pay, staffing levels and working patte
 
 Outcomes: higher motivation, quality and satisfaction; lower absence and turnover. To apply it, name the characteristic in the case, say what a redesign would change and say what it would cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--04-hr20-hackman-oldham.webp" width="900" height="810" alt="Skill variety, task identity and task significance produce experienced meaningfulness; autonomy produces experienced responsibility; feedback produces knowledge of results; these lead to higher motivation, quality and satisfaction and lower absence and turnover." loading="lazy">
+  <figcaption>Five job characteristics feed three psychological states, which produce the outcomes.</figcaption>
+</figure>
+
+
 ## Organisational design (3.6.3)
 
 | Term | Meaning |
@@ -90,6 +102,12 @@ Outcomes: higher motivation, quality and satisfaction; lower absence and turnove
 - Delegation, centralisation and decentralisation depend on trust, skills, risk, size, spread of sites and the need for consistency or local knowledge.
 - Changing design: possible gains in speed, cost, motivation and fit with technology; possible costs in disruption, redundancy and resistance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--03-hr20-span-layers.webp" width="900" height="970" alt="With 144 warehouse staff, a span of 12 gives 12 supervisors and a director (flat, two layers). A span of 4 gives 36 supervisors, 9 managers, 3 senior managers and a director (tall, four layers)." loading="lazy">
+  <figcaption>A wider span means fewer layers and cheaper management but less time per person.</figcaption>
+</figure>
+
+
 ## Human resource flow (3.6.3)
 
 1. Human resource plan: forecast need, compare with supply, plan the gap.
@@ -99,6 +117,17 @@ Outcomes: higher motivation, quality and satisfaction; lower absence and turnove
 5. Redundancy.
 
 Each helps meet objectives on the number, skills and location of employees. Redeployment and training keep skills; redundancy cuts cost fast but has financial and morale costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--01-hr20-turnover-retention.webp" width="900" height="890" alt="Thornapple Print Works leavers total 17: 12 from the starting 80 and 5 who joined in the year. Labour turnover is 17 divided by the average 85, 20.0 percent. Retention is (80 minus 12) divided by 80, 85.0 percent." loading="lazy">
+  <figcaption>Turnover uses the average headcount; retention uses the starting group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--02-hr20-productivity-cost.webp" width="900" height="910" alt="Glenrowan Cycles output per employee rose 3.1 percent, labour cost per unit rose 3.4 percent and pay per employee rose 6.7 percent, so unit cost rose faster than productivity." loading="lazy">
+  <figcaption>Cost per unit rose faster than productivity because pay per employee rose more.</figcaption>
+</figure>
+
 
 ## Motivation (3.6.4)
 
@@ -118,6 +147,12 @@ Each helps meet objectives on the number, skills and location of employees. Rede
 Non-financial methods: job enrichment and rotation, empowerment, teamworking, training, recognition, flexible working, career paths.
 
 Choose and judge a reward system by the type of work, budget, rivals' pay, culture and staff preferences, then by turnover, absence, productivity, unit cost and surveys, set against cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-human-resource-management--03-pay-piece-commission.webp" width="900" height="970" alt="Two bars on one scale show piece rate (450 units at £0.80 earns £360) and commission (£1,200 plus 4% of £22,000, which is £880, totals £2,080)." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to fixed pay.</figcaption>
+</figure>
+
 
 ## Employer-employee relations (3.6.5)
 

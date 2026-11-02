@@ -100,6 +100,17 @@ Must-know distinctions:
 - Too little working capital risks missed payments. Too much leaves resources idle.
 - A high current ratio built on slow receivables or unsold stock is weaker than it looks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--07-working-capital.webp" width="900" height="1030" alt="Current assets 83,000 (cash 3,000, receivables 54,000, stock 26,000) against current liabilities 51,000 (tax 8,000, overdraft 12,000, payables 31,000). Working capital is 32,000; current ratio 1.63; acid test 1.12." loading="lazy">
+  <figcaption>Working capital is current assets minus current liabilities; the acid test removes stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
+
 ## Cash flow forecasts
 
 Layout in order: opening balance, cash inflows, cash outflows, net cash flow, closing balance. Last month's closing balance is next month's opening balance. The guide says forecasts in case studies will follow its presentation layout, so check your own copy of the guide for the exact rows.
@@ -123,6 +134,17 @@ Worked reminder: opening balance 2,000, inflows 9,000, outflows 11,500. Net cash
 | Lets managers test a decision in advance | Accuracy falls the further ahead it looks |
 | Helps plan the timing of investment | Takes time and information to prepare |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--04-forecast-layout.webp" width="900" height="900" alt="Table of opening balance, inflows, outflows, net cash flow and closing balance for March to June. Closing balances 1,300, -11,800, -3,700, 11,400; each closing balance is the next opening balance. April outflows include 16,000 for kayaks." loading="lazy">
+  <figcaption>A forecast chains month to month, and one large purchase can make a profitable business overdrawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Investment, profit and cash flow
 
 - Day of purchase: cash falls by the full price.
@@ -130,6 +152,22 @@ Worked reminder: opening balance 2,000, inflows 9,000, outflows 11,500. Net cash
 - Later: sales revenue, profit and cash inflows may rise if the investment works.
 - Stock investment ties up working capital until the stock is sold.
 - Result: a business can look profitable and still run short of cash in the year it invests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--06-profit-to-cash.webp" width="900" height="790" alt="Waterfall from profit 10,500: add back depreciation 1,500, subtract 18,000 because receivables rose (48,000 earned, 30,000 received), subtract 9,000 for the machine. Net cash flow is -15,000." loading="lazy">
+  <figcaption>A profitable month can still be a cash outflow because of credit sales, non-cash costs and asset purchases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--05-invest-cash-profit.webp" width="900" height="850" alt="One bar shows 16,000 of cash leaving in April; four bars of 4,000 show the yearly depreciation charge that reduces profit. In the year of buying, cash falls by 16,000 but profit by only 4,000." loading="lazy">
+  <figcaption>Cash falls when paid, profit only by the yearly depreciation charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
 
 ## Strategies
 
@@ -142,6 +180,17 @@ Pick by cause. The guide does not list strategies, so this table is standard tea
 | Large purchase | Lease instead of buy, sale and leaseback, delay the purchase | Higher total cost; lost asset |
 | Excess stock | Reduce stock, stricter ordering | Stock-outs |
 | Persistent losses | Cut costs, raise prices, restructure | Short-term cash fixes only postpone failure |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--08-buy-or-lease.webp" width="900" height="1010" alt="Closing balances for March to June. Buying gives 1,300, -11,800, -3,700, 11,400 (overdrawn in April and May). Leasing at 1,100 a month gives 1,300, 3,100, 10,100, 24,100, never overdrawn." loading="lazy">
+  <figcaption>Leasing avoids the large April payment and the overdraft, though it may cost more over many years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--06-cash-fixes.webp" width="900" height="750" alt="A cash tank with four groups: bring cash in sooner (chase receivables, early-payment discount, debt factoring), release tied-up cash (sell and lease back, reduce stock), top up from outside (overdraft, short-term loan), slow cash out (delay supplier payments, lease, cut costs, delay investment)." loading="lazy">
+  <figcaption>Choose the strategy that fits the cause; if the cause is losses, quick fixes only delay the problem.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

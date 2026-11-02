@@ -65,6 +65,12 @@ particles      N = n x 6.02 x 10^23
 
 *(0620 Extended, 5070 required)* **Unit trap:** 1000 cm³ = 1 dm³. Divide cm³ by 1000 before using c = n / V.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
+
 ## The universal method *(0620 Extended, 5070 required)*
 
 Almost every stoichiometry question is the same four steps:
@@ -75,6 +81,12 @@ Almost every stoichiometry question is the same four steps:
 4. Convert the unknown moles back to mass, volume or concentration.
 
 Skipping step 1 invalidates step 3, which is where most lost marks originate — an unbalanced equation gives the wrong mole ratio, and every later step inherits that error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
 
 ## Common ions to know by heart
 
@@ -91,6 +103,12 @@ Skipping step 1 invalidates step 3, which is where most lost marks originate —
 
 *(0620 Extended, 5070 required)* **When the charges don't cancel neatly, use the lowest common multiple.** Al³⁺ and O²⁻: the LCM of 3 and 2 is 6, so 2 Al³⁺ balances 3 O²⁻, giving **Al₂O₃**. The compound must always end up electrically neutral overall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
+</figure>
+
+
 ## Empirical formula — the routine *(0620 Extended, 5070 required)*
 
 ```
@@ -101,6 +119,12 @@ Skipping step 1 invalidates step 3, which is where most lost marks originate —
 ```
 
 Molecular formula = empirical formula × n, where n = (molecular mass) / (empirical mass).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--08-empirical-formula.webp" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
+  <figcaption>Divide masses by Ar, divide by the smallest, then scale up using Mr for the molecular formula.</figcaption>
+</figure>
+
 
 ## Percentage composition by mass *(0620 Extended, 5070 required)*
 

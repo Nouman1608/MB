@@ -75,6 +75,17 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 
 **Evaluation:** hard to measure, ignores distribution and the environment, and the optimum changes over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--05-population-change-rates.webp" width="900" height="920" alt="Bars show natural increase, net migration and growth per 1,000 people for Country A and Country B. Country B shrinks naturally but grows through net migration." loading="lazy">
+  <figcaption>Population growth equals natural increase plus net migration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--06-optimum-population.webp" width="900" height="900" alt="Output per head is plotted against population for current and better technology. It peaks at 30 million with current technology and at 40 million with better technology." loading="lazy">
+  <figcaption>Better technology moves the optimum population from 30 to 40 million.</figcaption>
+</figure>
+
+
 ### Urbanisation
 
 - Level = urban ÷ total population. It generally rises as farming productivity rises and industry and services grow.
@@ -83,6 +94,12 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 - Evaluate: does job creation keep pace with migration?
 
 **Worked reminder.** 3.2 million urban out of 8.0 million is 40%. If the urban population becomes 5.4 million of 9.0 million, the level is 60%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--01-urbanisation-country-d.webp" width="900" height="820" alt="Two columns for Country D. Earlier: population 36.0 million, urban 14.4 million (40 percent), rural 21.6 million. Later: population 42.0 million, urban 21.0 million (50 percent), rural 21.0 million. Urban population grew 45.8 percent, total population 16.7 percent, and rural population fell 2.8 percent." loading="lazy">
+  <figcaption>Urbanisation is the rising urban share: 40% to 50%, even though the rural population barely changes.</figcaption>
+</figure>
+
 
 ## 11.4.2 Gini coefficient and Lorenz curve
 
@@ -114,6 +131,22 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 - A policy that shifts the curve towards the line (progressive tax, transfers) lowers the Gini.
 - Limits: the Gini ignores the level of income, can hide where the inequality sits, and depends on whether income or wealth, before or after tax, is used. Informal activity may go unmeasured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--07-gini-unequal-groups.webp" width="900" height="1140" alt="A Lorenz curve through three points is split into trapezia of 0.050, 0.160 and 0.080 giving B = 0.290. The Gini coefficient is 1 minus 2B, which is 0.42." loading="lazy">
+  <figcaption>Adding the trapezia gives B, and Gini = 1 - 2B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--02-crossing-lorenz-curves.webp" width="900" height="1010" alt="Two Lorenz curves that cross. Curve A, the lesson quintile data for Country A with cumulative income shares of 5, 15, 30, 55 and 100 percent, and curve B with cumulative shares 10, 20, 31, 44 and 100 percent, which is an illustrative example constructed for this figure. B lies above A for the poorest 60 percent and below it for the richest, crossing at about 62 percent of the population. Both have a Gini coefficient of 0.38." loading="lazy">
+  <figcaption>Two crossing Lorenz curves can share the same Gini: B is fairer to the poorest, A to the middle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--06-lorenz-gini.webp" width="900" height="1040" alt="Lorenz curve diagram. The diagonal is the line of equality. With quintile income shares 5, 10, 15, 25 and 45 percent the Lorenz curve bows below the diagonal. Area A between the diagonal and the curve, divided by A plus B, gives a Gini of 0.38. A dashed curve with shares 8, 12, 17, 25 and 38 percent lies closer to the diagonal with a Gini of 0.29." loading="lazy">
+  <figcaption>The further the Lorenz curve bows from the line of equality, the higher the Gini coefficient.</figcaption>
+</figure>
+
+
 ## 11.4.3 Economic structure
 
 ### Employment by sector
@@ -130,6 +163,12 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 
 **Evaluate:** moving into informal, low-productivity services brings little gain. Compare each sector's share of output with its share of jobs to see productivity. Employment shares alone cannot show living standards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--08-employment-sector-shift.webp" width="900" height="1030" alt="Stacked columns show Country E employment by sector in year 1 and year 20, with output share divided by jobs share for year 20: 0.40, 1.20 and 1.29." loading="lazy">
+  <figcaption>As a country develops, jobs move out of low-productivity primary work.</figcaption>
+</figure>
+
+
 ### Pattern of trade
 
 | Level | Typical exports | Typical imports |
@@ -141,6 +180,12 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 These are tendencies, not rules. A resource-rich country can have high income and primary exports.
 
 **Worked reminder.** Country X exports 10 bn, 60% primary (6 bn). Country Y exports 50 bn, 6% primary (3 bn). If the price of primary goods falls 10% with volumes unchanged, X loses 0.6 bn (6.0%) and Y loses 0.3 bn (0.6%). Concentration on primary exports makes X far more exposed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of--09-primary-export-dependence.webp" width="900" height="940" alt="Country L, 85% primary exports, loses 17% of export value when primary prices fall 20%. Country H, 10% primary, loses 2%." loading="lazy">
+  <figcaption>Dependence on primary exports exposes a country to price falls.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

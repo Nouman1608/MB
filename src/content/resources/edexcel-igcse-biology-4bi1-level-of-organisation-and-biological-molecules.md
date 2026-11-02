@@ -73,6 +73,22 @@ A tissue is made of **similar** cells; an organ is made of **different** tissues
 
 Answer: ribosome → epithelial cell → epithelium → small intestine → digestive system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--03-organisation-order.webp" width="900" height="1060" alt="Five rows from smallest to largest: ribosome (organelle), epithelial cell (cell), epithelium (tissue), small intestine (organ), digestive system (system)." loading="lazy">
+  <figcaption>Ribosome, epithelial cell, epithelium, small intestine and digestive system in order of size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--04-stomach-tissues.webp" width="900" height="950" alt="Schematic stomach wall with a muscle layer that churns food, a glandular layer that secretes enzymes and an epithelial layer that lines the stomach. Several different tissues working together make an organ." loading="lazy">
+  <figcaption>The stomach is an organ because it contains muscle, glandular and epithelial tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## 2(c) Biological molecules
 
 ### Elements (2.7)
@@ -84,6 +100,12 @@ Answer: ribosome → epithelial cell → epithelium → small intestine → dige
 | Lipids (fats and oils) | Carbon, hydrogen, oxygen |
 
 Carbohydrates and lipids contain the same three elements, but lipids have much less oxygen in proportion to their carbon and hydrogen. Glucose, a carbohydrate, is C₆H₁₂O₆. If a molecule contains nitrogen, it is the protein.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--01-elements.webp" width="900" height="1000" alt="Three rows of atom symbols. Carbohydrates and fats and oils contain carbon, hydrogen and oxygen only, with nitrogen crossed out. Proteins contain carbon, hydrogen, oxygen and always nitrogen, and some also contain sulfur." loading="lazy">
+  <figcaption>Only proteins contain nitrogen.</figcaption>
+</figure>
+
 
 ### Large molecules from small units (2.8)
 
@@ -101,6 +123,12 @@ Points examiners look for:
 - A lipid molecule is made of one glycerol joined to fatty acids (usually three). A lipid is **not** a chain of repeating identical units, so do not call it a chain of fatty acids alone.
 
 Digestion (point 2.29, sub-topic 2(e)) reverses 2.8: amylase and maltase break starch to glucose, proteases break proteins to amino acids, and lipases break lipids to fatty acids and glycerol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
 
 ## Food tests (2.9)
 
@@ -133,6 +161,22 @@ A student tests three drinks.
 2. Q: all tests negative. It might be water, or it might contain a sugar such as sucrose that Benedict's does not detect. You cannot conclude it has no sugar at all.
 3. R: green Benedict's means a **small amount of glucose**, less than in P.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--08-food-test-drinks-pqr.webp" width="900" height="760" alt="Test tubes for drinks P, Q and R: P is positive for Benedict’s, biuret and emulsion tests only; Q is all negative; R has a green Benedict’s result only." loading="lazy">
+  <figcaption>P has glucose, protein and fat; Q shows no positive test (sucrose would also be negative); R has a little glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
+
 ## Enzymes (2.10–2.14B)
 
 ### Enzymes as biological catalysts (2.10)
@@ -146,11 +190,28 @@ Enzymes catalyse both kinds of metabolic reaction:
 
 Each enzyme has an **active site** with a specific shape. Only a substrate with a complementary shape fits it. The substrate binds to form an enzyme-substrate complex, the reaction happens, and the products leave. The enzyme is unchanged and can be used again. This is why each enzyme is **specific**: amylase acts on starch but not on protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--02-specificity.webp" width="900" height="780" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
+  <figcaption>Only a substrate with a complementary shape fits the active site.</figcaption>
+</figure>
+
+
 ### Temperature (2.11)
 
 - **Below the optimum**: molecules have less kinetic energy, so enzyme and substrate collide less often. Fewer enzyme-substrate complexes form and the rate is low. The enzyme is not damaged; warming it up restores activity.
 - **Rising to the optimum**: more frequent successful collisions, faster rate. Many human enzymes have an optimum near 37 °C.
 - **Above the optimum**: the bonds holding the protein in shape break. The **active site changes shape**, so the substrate no longer fits. The enzyme is **denatured**. The rate falls steeply. Denaturation is permanent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--09-temperature-practical-variables.webp" width="900" height="1000" alt="Identical tubes in water baths at 20 to 60 degrees Celsius (changed), a stopwatch and iodine tile (measured), and four things kept the same." loading="lazy">
+  <figcaption>Which variable is changed, which is measured and which are kept the same.</figcaption>
+</figure>
+
 
 ### Practical: temperature and amylase (2.12)
 
@@ -202,6 +263,12 @@ The method is the same as the temperature practical, with two changes:
 2. Rate at pH 7 = 1/45 = 0.0222 s⁻¹. Rate at pH 5 = 1/180 = 0.00556 s⁻¹.
 3. 180 ÷ 45 = 4, so the reaction at pH 7 is **four times faster** than at pH 5.
 4. At pH 5 the active site of amylase is altered, so fewer starch molecules fit and fewer enzyme-substrate complexes form per second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--05-enzyme-rates-edexcel.webp" width="900" height="1270" alt="Bar charts of rate = 1 ÷ time for amylase. Temperature: 0.00417, 0.00833, 0.0167, 0.00667 and 0 per second at 20 to 60 degrees C, so 40 C is four times faster than 20 C. pH (Paper 2 only): 0.00278, 0.00556, 0.0111, 0.0222, 0.00833, so pH 7 is four times faster than pH 5." loading="lazy">
+  <figcaption>Shorter times give higher rates; the optimum shows as the tallest bar.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -36,6 +36,17 @@ All three are **internal** statements: prepared for use inside the company, **no
 **Not examined in 3.7:** preference shares and general reserves.
 **Section 3.16 instead:** statements of cash flow, schedules of non-current assets, revaluation, rights and bonus issues, published accounts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+
 ## Key terms
 
 - **Ordinary share capital** -- number of shares issued x nominal value.
@@ -102,6 +113,12 @@ Profit for the year after tax        46,800
 ```
 
 **Retained earnings.** Opening £84,300, profit after tax £46,800, dividends paid £20,000: closing = 84,300 + 46,800 - 20,000 = **£111,100**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
 
 ## Where each item goes
 
@@ -177,6 +194,22 @@ Rows: start balance, share issue, profit (loss) for the year,
 10. 200,000 + 35,000 + 64,000 = **£299,000**.
 11. 150,000 - 54,000 = **£96,000**.
 12. They are prepared for **use within the company** (directors and managers), not for publication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--05-revaluation.webp" width="900" height="970" alt="Buildings with a carrying amount of 272,000 pounds are revalued to 408,000. The 136,000 pound unrealised gain goes to a revaluation reserve in equity, not the income statement. Yearly depreciation rises from 8,000 to 12,000 pounds." loading="lazy">
+  <figcaption>An unrealised revaluation gain goes to a reserve, not profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

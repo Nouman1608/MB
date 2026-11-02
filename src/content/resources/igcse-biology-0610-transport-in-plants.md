@@ -98,6 +98,17 @@ The syllabus limits you to three features. For each, give the feature **and** ho
 
 You do not need details of how lignin is laid down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+
 ## 8.2 Water uptake
 
 ### Root hair cells (Core)
@@ -124,6 +135,17 @@ Water crosses the root cortex to the xylem in the centre of the root, travels up
 4. Look at it with a hand lens.
 
 **Result:** coloured spots appear in a ring near the outside of the stalk. These are the **xylem** in the vascular bundles. The veins of the leaves also become coloured, showing that water travels all the way to the leaves in the xylem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--04-celery-stain.webp" width="900" height="1290" alt="A celery stalk stands in dyed water. The dye rises up the stalk and the leaf veins turn coloured. A thin cross-section seen through a hand lens shows coloured spots in a ring near the outside. These spots are the xylem, so water travels in the xylem all the way to the leaves." loading="lazy">
+  <figcaption>The dye stains only the xylem, showing where water travels.</figcaption>
+</figure>
+
 
 ## 8.3 Transpiration
 
@@ -189,6 +211,22 @@ Working for the fan: 311.8 − 305.4 = 6.4 g; 6.4 ÷ 4 = 1.6 g per hour. The pla
 
 This builds on the terms turgid, turgor pressure and flaccid from section 3.2 of the syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--07-wilting.webp" width="900" height="1150" alt="Extended. With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
+  <figcaption>Water loss makes cells flaccid, so the plant droops.</figcaption>
+</figure>
+
+
 ## 8.4 Translocation (Extended only)
 
 **Translocation** is the movement of **sucrose and amino acids in phloem** from **sources** to **sinks**.
@@ -206,6 +244,12 @@ Some parts change role, depending on what they are doing.
 - Once it is fully grown and photosynthesising, it makes more sugar than it uses, so it **releases** sucrose into the phloem. It is now a **source**.
 
 A storage organ works the same way. It is a sink while it is filling with starch, and a source when the starch is broken down to sucrose and sent to new growth. The [practice set](/resources/igcse-biology-transport-in-plants-practice/) has a question on this for a potato tuber.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## Common errors
 

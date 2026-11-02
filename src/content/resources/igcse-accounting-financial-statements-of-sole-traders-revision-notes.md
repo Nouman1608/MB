@@ -66,6 +66,22 @@ Quick recall for **syllabus section 5.1 Sole traders** (Cambridge IGCSE Accounti
 - **Current liabilities:** due within a year (trade payables, other payables, overdraft). **Non-current liabilities:** due after more than a year.
 - **Capital:** opening capital + profit - drawings (+ capital introduced).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--04-st-one-year-test.webp" width="900" height="900" alt="A grid splits assets and liabilities at one year. Current assets and current liabilities fall within a year; non-current assets (including intangible goodwill) and non-current liabilities run beyond a year. A bar shows capital as opening capital plus profit less drawings, plus any capital introduced." loading="lazy">
+  <figcaption>Whether an item is current or non-current depends on whether it lasts or falls due within one year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Item | Formula |
@@ -81,6 +97,12 @@ Quick recall for **syllabus section 5.1 Sole traders** (Cambridge IGCSE Accounti
 | Expense for the year | Trial balance figure + accrued - prepaid |
 | Income for the year | Trial balance figure + accrued - received in advance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--01-manufacturing-account.webp" width="900" height="794" alt="Raw materials used of 31,900 dollars plus direct wages 22,500 give prime cost 54,400. Factory overheads of 13,600 take it to 68,000, and the work in progress adjustment (add 1,800, deduct 2,300) gives factory cost of production 67,500 dollars." loading="lazy">
+  <figcaption>Prime cost plus overheads, adjusted for work in progress, is the factory cost that replaces purchases.</figcaption>
+</figure>
+
+
 ## Method: both statements from a trial balance
 
 1. Read every adjustment first and tick each trial balance line it touches.
@@ -90,6 +112,12 @@ Quick recall for **syllabus section 5.1 Sole traders** (Cambridge IGCSE Accounti
 5. Set out each non-current asset with its cost, its depreciation to date and its carrying value.
 6. List current assets, then capital, then liabilities. Adjust drawings.
 7. Check that total assets equal total capital and liabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
 
 ## Where each adjustment goes
 
@@ -105,6 +133,12 @@ Quick recall for **syllabus section 5.1 Sole traders** (Cambridge IGCSE Accounti
 | Goods taken (at cost) | Lower purchases | Higher drawings |
 | Asset taken (carrying value) | None | Asset lower, drawings higher |
 | Private expense paid | Lower expense | Higher drawings |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Worked reminder: correcting a draft profit
 
@@ -128,6 +162,12 @@ Each row shows what happens if the item is missed from the finished statements.
 The statement of financial position can still balance when it is wrong, so a balance check does not find these errors.
 
 The syllabus text says both papers draw on all the subject content and that calculators may be used, so 5.1 content can appear on either paper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--02-drawings-three-kinds.webp" width="900" height="780" alt="Three boxes feed one drawings box: 18,000 dollars cash, 260 dollars of private telephone calls and a printer at its carrying value of 300 dollars, totalling 18,560 dollars. Each item is removed from where it was charged." loading="lazy">
+  <figcaption>Drawings include cash, private expenses and assets taken at carrying value.</figcaption>
+</figure>
+
 
 ## Layout skeletons
 
@@ -179,6 +219,22 @@ short-term liabilities = same total
 10. No. It is a service business, so fees less expenses give profit.
 11. Cost of sales is too high, so profit is 500 too low.
 12. Income rises by 120; other receivables rise by 120.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--05-st-revaluation-depreciation.webp" width="900" height="850" alt="A waterfall chart starts with tools valued at 2,000, adds 400 bought, and ends with a valuation of 1,700. The drop from 2,400 to 1,700 is the depreciation of 700, shown as 2,000 plus 400 minus 1,700." loading="lazy">
+  <figcaption>Revaluation depreciation is opening value plus additions less closing value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

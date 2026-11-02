@@ -40,6 +40,12 @@ Use this page with the [revision notes](/resources/oxfordaqa-igcse-accounting-ac
 
 The same section also asks you to appraise business performance on profitability and liquidity, to know the difference between cash and profit, and to know the limitations of ratio analysis. The last three sections of this guide cover those uses of the ratios.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+
 ## The standard forms
 
 | Measure | Standard form |
@@ -108,6 +114,32 @@ Statement of financial position extract at 30 June:
 
 **Reading the results.** Customers take about 55 days to pay but the business takes about 67 days to pay its own suppliers. That helps cash, but suppliers may withdraw credit terms if the gap grows. A current ratio of 2.2 : 1 looks safe, and the liquid capital ratio of 1.2 : 1 shows the business does not rely on selling kites to meet its short-term debts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-revenue-to-profit.webp" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000. Labels give gross profit margin 41.7%, markup 71.4%, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 15.0%." loading="lazy">
+  <figcaption>Each profitability measure takes a different profit and a different base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--07-ratio-receivable-payable-days.webp" width="900" height="790" alt="Two bars on a days axis: customers take 54.75 days (about 55) to pay and the business pays suppliers after 66.9 days (about 67). A bracket shows the gap of about 12 days." loading="lazy">
+  <figcaption>Customers pay before the business has to pay suppliers, which helps cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--03-ratio-inventory-turnover.webp" width="900" height="840" alt="Opening inventory 20,000 and closing 30,000 average 25,000. Cost of sales 140,000 is drawn as blocks of 25,000: five whole blocks and 0.6 of a sixth, so turnover is 5.6 times." loading="lazy">
+  <figcaption>Turnover shows how many times average inventory is sold and replaced in a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+
 ## Markup and margin are not the same
 
 Both use gross profit. Margin divides by revenue. Markup divides by cost of sales. For the same trading, markup is always the bigger number.
@@ -122,6 +154,17 @@ Both use gross profit. Margin divides by revenue. Markup divides by cost of sale
 To convert, imagine revenue of 100. A margin of 20% means gross profit of 20 and cost of sales of 80, so markup is 20 / 80 = 25%. A markup of 60% means cost of 100 and gross profit of 60, so revenue is 160 and margin is 60 / 160 = 37.5%.
 
 Finding a missing figure uses the same idea. A trader has a 25% margin and cost of sales of 45,000. Cost of sales is 75% of revenue, so revenue is 45,000 / 0.75 = 60,000 and gross profit is 15,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--05-ratio-margin-to-markup.webp" width="900" height="900" alt="A graph of markup against gross profit margin drawn from markup = margin / (100 - margin). The curve is above the equal line everywhere, with marked points 20% to 25%, 25% to 33.3%, 37.5% to 60% and 50% to 100%." loading="lazy">
+  <figcaption>For the same trading, markup is always the bigger percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
 
 ## Interpreting each measure
 
@@ -141,6 +184,12 @@ A single ratio means little. Compare it with the same business last year, a budg
 
 Higher is not always better. A very high payable days figure may mean the business is struggling to pay. A very low current ratio may mean it cannot. The reading depends on the measure and the situation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Cash is not profit
 
 Profit is revenue minus expenses for the period, recognised when earned or incurred. Cash is money moving in and out of the bank. They differ because of credit sales, credit purchases, buying non-current assets, depreciation, drawings and loan repayments.
@@ -154,6 +203,17 @@ Using the Sandrow figures (current assets 66,000, inventory 30,000, current liab
 | Pay 10,000 to trade payables from the bank | none | 56,000 : 20,000 = 2.8 : 1 | 26,000 : 20,000 = 1.3 : 1 |
 
 Paying a short-term debt improves both ratios even though cash falls. Buying equipment lowers them. Neither changes profit when it happens. A sale on credit does the opposite: profit rises at once, but cash does not until the customer pays. Depreciation reduces profit without any cash leaving. Drawings reduce cash without reducing profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--06-ratio-payment-liquidity.webp" width="900" height="830" alt="Paired bars show the current ratio and liquid capital ratio. At the start they are 2.2 and 1.2, after buying equipment for 12,000 they are 1.8 and 0.8, and after paying 10,000 to payables they are 2.8 and 1.3. A dashed line marks 1 : 1." loading="lazy">
+  <figcaption>Paying a short-term debt improves both ratios while buying equipment lowers them, and neither changes profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-cash-vs-profit.webp" width="900" height="840" alt="Three events and their effect on profit and cash when they happen. A credit sale raises profit but cash is unchanged until paid. Depreciation lowers profit with no cash leaving. Drawings lower cash but not profit." loading="lazy">
+  <figcaption>Profit and cash can move in different directions.</figcaption>
+</figure>
+
 
 ## Appraising performance on profitability and liquidity
 
@@ -176,6 +236,12 @@ An appraisal uses the numbers, says what they show, gives a reason and reaches a
 - Judgement: profit improved, but it relies on cutting expenses. If that is not repeatable and the margin keeps falling, the gain may not last.
 
 For liquidity, do the same with the current and liquid capital ratios and the days measures. Say whether the business can pay its debts as they fall due, and whether slow receivables or heavy inventory are the cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--05-ratio-fairmead-appraisal.webp" width="900" height="892" alt="Stacked bars show cost of sales, expenses and profit as a percentage of revenue. Year 1: 60, 22, 18 percent (margin 40.0). Year 2: 65, 16, 19 percent (margin 35.0). Revenue rose 10.0 percent, cost of sales 19.2 percent, expenses fell 20.0 percent." loading="lazy">
+  <figcaption>The margin fell but profit share rose because expenses were cut.</figcaption>
+</figure>
+
 
 ## Limitations of financial statements and ratio analysis
 

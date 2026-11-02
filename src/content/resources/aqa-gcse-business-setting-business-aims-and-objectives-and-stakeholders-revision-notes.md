@@ -38,6 +38,12 @@ Wider topic pages: [topic study guide](/resources/aqa-gcse-business-business-in-
 | Shareholder value | The worth of a business to its shareholders, seen in share price and dividends |
 | Dividend | A share of profit paid to shareholders |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--06-shareholder-value.webp" width="900" height="930" alt="Half of 240,000 pounds profit is paid as a 120,000 pound dividend, 30p on each of 400,000 shares; a 25% holder gets 30,000 pounds. A share price rise from 2.40 to 2.76 pounds is 15%." loading="lazy">
+  <figcaption>Dividends and a rising share price both add to shareholder value.</figcaption>
+</figure>
+
+
 ## 3.1.3 The objectives to know
 
 1. **Survival**: stay in business, cover costs. Main concern for start-ups.
@@ -62,6 +68,12 @@ Mini example. Heathermoor Pottery sells £360,000 in a £4.5m market. Market sha
 
 Mini example. A company pays £90,000 in dividends on 300,000 shares: 90,000 / 300,000 = £0.30, so **30p per share**. A holder of 60,000 shares receives 60,000 x 0.30 = **£18,000**. A share price rising from £4.25 to £5.10 is a rise of 0.85 / 4.25 x 100 = **20%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-aim-or-objective.webp" width="900" height="990" alt="A staircase rises to a flag labelled aim. The aim is the long-term goal of being the best-known bakery in town; an objective is a specific target on the way, such as 500 regular customers in a year." loading="lazy">
+  <figcaption>An aim is the direction; an objective is a specific target on the way.</figcaption>
+</figure>
+
+
 ## Purpose and role of objectives
 
 - Give direction and a shared target.
@@ -70,6 +82,12 @@ Mini example. A company pays £90,000 in dividends on 300,000 shares: 90,000 / 3
 - Allow success to be judged by comparing results with the target.
 - Show lenders and investors what the business is trying to do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--04-purpose-of-objectives.webp" width="900" height="880" alt="A central hub of business objectives points to four jobs: direction, decision making, motivation and judging success, each with a one-line meaning." loading="lazy">
+  <figcaption>Objectives give direction, guide decisions, motivate staff and set the yardstick for success.</figcaption>
+</figure>
+
+
 ## Why objectives differ
 
 | Reason | Effect |
@@ -77,6 +95,12 @@ Mini example. A company pays £90,000 in dividends on 300,000 shares: 90,000 / 3
 | Size | Small: survival, steady income. Large: dominance, international expansion |
 | Level of competition | High: customer satisfaction, market share. Low: profit maximisation easier |
 | Type of business | Not-for-profit: social objectives come first and success is not measured by profit |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--02-why-objectives-differ.webp" width="900" height="1010" alt="Three rows compare two cases each. Small and large businesses, crowded and uncontested markets, and for-profit and not-for-profit organisations are shown with the objectives each is likely to prioritise." loading="lazy">
+  <figcaption>Size, competition and type of business all change which objective comes first.</figcaption>
+</figure>
+
 
 ## Why objectives change
 
@@ -90,6 +114,17 @@ Triggers for change: new competitor, falling demand, new technology, changing cu
 
 **Success is not only profit.** Other measures: market share, customer satisfaction, number of customers, products launched, environmental targets, money raised for good causes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+
 ## 3.1.4 Stakeholders
 
 ### Main groups and their objectives
@@ -101,6 +136,12 @@ Triggers for change: new competitor, falling demand, new technology, changing cu
 | Customers | Quality, fair price, good service | Product quality, prices |
 | Local community | Minimising environmental impact, local jobs | Noise, traffic, pollution, employment |
 | Suppliers | Regular orders, prompt payment, fair prices | Order size, payment terms |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--01-seven-objectives.webp" width="900" height="732" alt="Eight picture cards show the main objectives: survival, profit maximisation, domestic growth, international growth, market share, customer satisfaction, social and ethical, and shareholder value. Each has a short example of what it means." loading="lazy">
+  <figcaption>The main objectives at a glance, with growth split into home and abroad.</figcaption>
+</figure>
+
 
 ### Influence of stakeholders on the business
 
@@ -119,6 +160,22 @@ Influence is stronger when the stakeholder has alternatives or the business depe
 3. Say why the same decision cannot satisfy both.
 4. Apply the numbers or details from the case study.
 5. Judge which group has more influence and what the business should do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--05-pay-rise-conflict.webp" width="900" height="1000" alt="Employees and the owner pull in opposite directions. A 5% rise from 11.20 to 11.76 an hour costs 873.60 pounds per worker a year and 3,494.40 pounds for four workers, money not available for the oven." loading="lazy">
+  <figcaption>A pay rise helps employees but reduces money available to the owner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-stakeholder-wants-impact.webp" width="900" height="980" alt="Five cards, one per stakeholder group, each list what the group wants, how it can gain from the business and how it can suffer. Groups are owners, employees, customers, local community and suppliers." loading="lazy">
+  <figcaption>What each stakeholder wants and how business activity affects them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

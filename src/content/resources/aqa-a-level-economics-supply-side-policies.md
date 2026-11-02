@@ -71,6 +71,22 @@ The elasticity of 0.4 is an assumption. For some workers a higher net wage lets 
 - SRAS shifts right with it.
 - At unchanged AD, equilibrium moves to a lower price level and higher real output, but potential output has risen too, so actual output only reaches the new capacity if AD also grows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--01-ssp-compounding-trend-growth.webp" width="900" height="880" alt="Two lines show potential output over 12 years from 1.00. At 1.8% trend growth it reaches 1.2387; at 2.2% it reaches 1.2984, which is 4.8% higher. The vertical axis starts at 1.00. The gap only builds if the higher growth lasts." loading="lazy">
+  <figcaption>A small rise in trend growth compounds into a 4.8% higher potential output after 12 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--02-ssp-tax-cut-hours-worked.webp" width="900" height="960" alt="A cut in the marginal income tax rate from 30% to 24% lifts take-home pay from an extra 500 cu from 350 to 380 (8.57%). With an assumed elasticity of 0.4, hours rise 3.43%, which is 68.6 million hours on 2,000 million, worth about 2,057 million cu at 30 cu an hour." loading="lazy">
+  <figcaption>A tax cut raises the reward for extra work, and the assumed hours response sets the output gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 3. Effects on unemployment, prices and the current account
 
 **Unemployment and the natural rate.** The natural rate of unemployment is the rate when the labour market is in equilibrium: it includes frictional and structural unemployment but no cyclical unemployment. Supply-side policies target the structural part. Training matches skills to vacancies. Better job information and lower benefit dependence shorten search. Lower barriers to hiring raise the demand for labour.
@@ -84,6 +100,22 @@ The elasticity of 0.4 is an assumption. For some workers a higher net wage lets 
 **Current account.** Lower costs make exports cheaper in foreign markets and domestic goods cheaper against imports, improving price competitiveness. Better quality and new products raise non-price competitiveness too.
 
 **Worked example 6.** Country K exports goods and services worth 400 and imports worth 430, a deficit of 30 on that part of the current account. After supply-side improvements exports rise 5% to 420 and imports fall 3% to 417.1, a surplus of 2.9. The current account also includes income and transfers, so say "improve" rather than "eliminate".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--11-ss-unit-labour-cost.webp" width="900" height="980" alt="Productivity gains cut unit labour cost by 9.1 percent. Even after a 5 percent pay rise it stays 4.5 percent below the start. Unit labour cost falls from 1.20 to 1.091, and is still 1.145 after a 5% pay rise." loading="lazy">
+  <figcaption>Unit labour cost falls from 1.20 to 1.091, and is still 1.145 after a 5% pay rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--12-ss-natural-rate.webp" width="900" height="930" alt="The natural rate falls from 6.0 to 5.2 percent, which is 2.40 million to 2.08 million people, 0.32 million fewer. Retraining cuts the natural rate from 6.0% to 5.2% of a 40 million labour force." loading="lazy">
+  <figcaption>Retraining cuts the natural rate from 6.0% to 5.2% of a 40 million labour force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--03-ssp-current-account-effect.webp" width="900" height="870" alt="Paired bars show exports of 400 and imports of 430 (deficit 30) becoming exports of 420 and imports of 417.1 (surplus 2.9) after supply-side improvements. The full current account also has income and transfers, so say improve rather than eliminate." loading="lazy">
+  <figcaption>Cheaper, better exports and fewer imports turn a 30 deficit into a 2.9 surplus on goods and services.</figcaption>
+</figure>
+
 
 ## 4. Free-market and interventionist policies
 
@@ -111,15 +143,38 @@ The elasticity of 0.4 is an assumption. For some workers a higher net wage lets 
 
 **Worked example 8 (R&D subsidy).** A research project costs a firm 10 million cu and brings it private benefits of 8 million cu, so it is not worthwhile (net −2). The wider economy gains a further 5 million cu in spillovers, so the social benefit is 13 million cu and the social net gain is 3 million cu. A 30% subsidy cuts the firm's cost to 7 million cu, giving it a net gain of 1 million cu, so it proceeds. The government pays 3 million cu for a social net gain of 3 million cu. The result depends on the spillover estimate being right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--13-ss-rd-subsidy.webp" width="900" height="950" alt="A project costs the firm 10 for private benefit 8, a net loss of 2. With spillovers of 5 society gains 3. A 30 percent subsidy cuts cost to 7 so the firm gains 1. Spillovers make a project worthwhile for society; a 30% subsidy makes it worthwhile for the firm." loading="lazy">
+  <figcaption>Spillovers make a project worthwhile for society; a 30% subsidy makes it worthwhile for the firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--04-ssp-training-payback.webp" width="900" height="900" alt="A graph over 8 years: the 600 million cu training scheme is repaid in 5 years by gains of 120 million a year; the undiscounted gain reaches 960 million after 8 years and about 776 million at a 5% discount rate." loading="lazy">
+  <figcaption>A training scheme is repaid after 5 years, so the benefit is real but late.</figcaption>
+</figure>
+
+
 ## 5. Short-termism
 
 **Short-termism** is a bias towards short-run results at the expense of long-run returns. Managers or shareholders may demand quick payback, which discourages investment in research, training and equipment. Training also carries a poaching risk: a firm may not train staff if rivals can hire them. This is a market failure, and it is why the specification links intervention to it.
 
 **Worked example 9.** A project costs 100 million cu now and returns 30 million a year for 5 years. Payback is 100/30 = 3.33 years. A firm that insists on payback within 3 years rejects it. At a 12% discount rate the present value of the returns is 30 × 3.605 = 108.1 million, so net present value is about +8.1 million cu. The project is worthwhile; the short payback rule is what blocks it. Government tax allowances for investment or R&D subsidies can offset this bias.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--14-ss-short-termism.webp" width="900" height="1020" alt="Cumulative cash crosses zero at 3.33 years, after the firm's 3-year limit. At 12 percent the returns are worth 108.1 million against a cost of 100. Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million." loading="lazy">
+  <figcaption>Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million.</figcaption>
+</figure>
+
+
 ## 6. Microeconomic as well as macroeconomic effects
 
 Policies work through individual markets. In Country K's taxi market, demand is Qd = 120 − 4P and supply is Qs = 20 + 4P, with price in cu and quantity in thousand rides. Equilibrium: P = 12.5 and Q = 70. Deregulation that lets new operators enter shifts supply to Qs = 40 + 4P. The new equilibrium is P = 10 and Q = 80. Price falls 20% and quantity rises 14.3%. Consumer spending falls from 875 to 800 (thousand cu), because demand is price inelastic over this range (a 14.3% rise in quantity for a 20% fall in price). Effects on specific markets include prices, output, employment and the distribution of income, and some groups, such as existing licence holders, lose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--15-ss-taxi-deregulation.webp" width="900" height="990" alt="New operators move supply from Qs = 20 + 4P to 40 + 4P. Price falls 20 percent and rides rise 14.3 percent, so spending falls from 875 to 800. Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand." loading="lazy">
+  <figcaption>Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand.</figcaption>
+</figure>
+
 
 ## Evaluating supply-side policies
 

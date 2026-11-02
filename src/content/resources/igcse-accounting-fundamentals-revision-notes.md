@@ -57,6 +57,17 @@ Capital is increased by profit and additional investment; reduced by losses and 
 
 **Worked examples — tracing a transaction through the equation.** A $5,000 bank loan received in cash: assets increase by $5,000 (the cash) and liabilities increase by $5,000 (the loan owed) — capital is untouched, and the equation stays balanced. $500 taken in drawings: assets decrease by $500 (cash leaving the business) and capital decreases by the same $500. Practising this two-sided trace for different transaction types — a cash purchase, a credit sale, drawings, a loan received — is what turns the equation from a memorised formula into a genuine checking tool.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--04-karimi-equation-stacks.webp" width="900" height="980" alt="Two stacks of equal height, 26,300 each. Assets are Equipment 14,500, Inventory 3,200, Trade receivables 1,850, Bank 6,400 and Cash 350. The other stack is Trade payables 2,700, Bank loan 7,500 and owner’s equity 16,100 (26,300 minus 10,200)." loading="lazy">
+  <figcaption>Karimi Wheels at 31 December drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## Double entry
 
 **Every transaction has a debit and an equal credit.**
@@ -70,6 +81,12 @@ Capital is increased by profit and additional investment; reduced by losses and 
 The memory hook: **DEAD CLIC** — **D**ebit **E**xpenses, **A**ssets, **D**rawings; **C**redit **L**iabilities, **I**ncome, **C**apital.
 
 Method that avoids errors: identify the two accounts affected, decide whether each is increasing or decreasing, then apply the rule. **Debit the account that receives value; credit the account that gives it.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-fundamentals-revision-notes--02-dead-clic.webp" width="900" height="750" alt="DEAD CLIC: debit increases expenses, assets and drawings; credit increases liabilities, income and capital. When the owner takes $500 from the bank, drawings receives value and is debited, while the bank gives value and is credited." loading="lazy">
+  <figcaption>Debit the account that receives value; credit the account that gives it.</figcaption>
+</figure>
+
 
 ## Books of prime entry
 
@@ -87,11 +104,23 @@ Transactions are recorded here first, then posted to the ledger.
 
 **Credit transactions only** go in the sales and purchases journals. Cash sales go straight to the cash book — putting them in the sales journal is a common error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-fundamentals-revision-notes--01-prime-books.webp" width="900" height="964" alt="Eight transactions each point to one of seven books of prime entry. Credit sales, sales returns, credit purchases and purchases returns go to their own journals. Cash sales and bank payments both go to the cash book, small cash payments to the petty cash book, and everything else such as an asset bought on credit to the general journal." loading="lazy">
+  <figcaption>Every transaction is recorded first in one book of prime entry; a cash sale never goes in the sales journal.</figcaption>
+</figure>
+
+
 ## Ledger divisions
 
 - **Sales ledger** — personal accounts of credit customers (trade receivables).
 - **Purchases ledger** — personal accounts of credit suppliers (trade payables).
 - **General (nominal) ledger** — all other accounts: assets, expenses, income, capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
+  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
+</figure>
+
 
 ## The trial balance
 
@@ -112,12 +141,44 @@ The distinction between **commission** and **principle** is the one most often l
 
 Errors that **do** unbalance the trial balance — a single entry, two debits, or different amounts on the two sides — are held in a **suspense account** until corrected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-fundamentals-revision-notes--03-commission-principle.webp" width="900" height="872" alt="Commission: a sale to Ashby posted to another customer, Alder, is the wrong account of the right kind. Principle: an oven debited to Purchases, an expense, instead of Equipment, an asset, is the wrong kind of account. Both leave the trial balance balanced." loading="lazy">
+  <figcaption>Commission is the wrong account of the right kind; principle is the wrong kind of account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-trial-balance-columns.webp" width="900" height="850" alt="Two equal stacked columns in dollars. Debit column 108,370: assets 41,020, purchases and expenses 61,750, drawings 5,600. Credit column 108,370: capital 20,000, liabilities 13,210, sales and purchases returns 75,160." loading="lazy">
+  <figcaption>A trial balance agrees when debit and credit columns have equal totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--02-ce-six-hidden-journals.webp" width="900" height="820" alt="Six errors a trial balance misses, each with its correcting journal and profit effect: commission 640 (none), complete reversal 700 (none), compensating 90 (none), omission 220 (+220), original entry 90 (-90), principle 2,400 (+2,400)." loading="lazy">
+  <figcaption>None of the six uses the suspense account; only income and expense accounts change profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-torridge-suspense-clears.webp" width="900" height="712" alt="A running-total bar chart: +700, +360, then −840 leaves a 220 gap. The suspense account shows debits 700 and 360 and credits 220 and 840, both totalling 1,060, so it clears to nil." loading="lazy">
+  <figcaption>The three errors explain the 220 and the suspense account clears.</figcaption>
+</figure>
+
+
 ## Capital and revenue
 
 - **Capital expenditure** — buying or improving a non-current asset; shown in the statement of financial position.
 - **Revenue expenditure** — running costs, including repairs; shown in the statement of profit or loss.
 
 Treating capital expenditure as revenue **understates profit and understates non-current assets**. Being able to state the effect on *both* statements is what earns full marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--04-bookkeeping-then-accounting.webp" width="900" height="938" alt="A flow from a source document (a $45 chain bill) to book-keeping, which records what happened, to accounting, which summarises, presents and interprets what it means, for example that parts cost rose faster than repair income." loading="lazy">
+  <figcaption>Book-keeping records; accounting summarises and interprets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-four-kinds.webp" width="900" height="850" alt="A two by two grid of capital or revenue against spending or income, with the Thorncombe Bakery examples and where each is recorded: statement of financial position, income statement, or disposal account or capital." loading="lazy">
+  <figcaption>Capital and revenue, spending and income: four kinds, each with its own home in the accounts.</figcaption>
+</figure>
+
 
 ## Accounting concepts
 
@@ -130,6 +191,12 @@ Treating capital expenditure as revenue **understates profit and understates non
 **Consistency** — apply the **same accounting treatment from one period to the next**, so results remain comparable over time.
 
 **Book-keeping versus accounting:** book-keeping is the routine, day-to-day recording of transactions; accounting is the broader, analytical activity of using those records to interpret performance, monitor progress and inform decisions. Accounting is not simply the mechanical act of writing entries down — this exact distinction is specifically tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
+  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
+</figure>
+
 
 ## Exam traps
 

@@ -53,6 +53,12 @@ Production is a total. Productivity is a ratio. Production can rise while produc
 - After: 840 / 7 = 120 calls per worker.
 - Production rose by 240 calls (40%). Productivity did not change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+
 ## Factors affecting productivity
 
 - Skills and training.
@@ -67,6 +73,17 @@ Production is a total. Productivity is a ratio. Production can rise while produc
 2. Say what changes (workers know more, or have better tools).
 3. Link to output per worker rising.
 4. Link to lower cost per unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--05-productivity-factors.webp" width="900" height="940" alt="Five factor cards point to output per worker: skills and training, capital and technology, motivation, management and organisation, and health and education, each with the way it raises output. A note warns that hiring more workers raises production, not productivity, using the bakery whose output per worker falls from 200 to 180 loaves." loading="lazy">
+  <figcaption>Five factors raise output per worker; hiring more workers raises only production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## Benefits of higher productivity
 
@@ -84,6 +101,17 @@ Production is a total. Productivity is a ratio. Production can rise while produc
 - Saving: £6.00 a unit.
 
 **Limits.** Investment and training cost money, automation can remove jobs, and gains may not be passed on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--09-productivity-oven.webp" width="900" height="830" alt="Loaves per worker rise from 200 to 250 (+25 percent). Labour cost per loaf falls from 2.00 to 1.60 (-20 percent) at a 400 pound weekly wage." loading="lazy">
+  <figcaption>Higher productivity lowers labour cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--06-productivity-who-gains.webp" width="900" height="930" alt="Using the bakery oven example, productivity rises 25 percent and labour cost per loaf falls 20 percent, from 2.00 to 1.60 pounds. Producers, workers, consumers and the economy can all gain. Four warnings remind the student that the gain is not automatic: costs of machines and training, possible job losses, a firm keeping the profit, and lower quality if staff are pushed harder." loading="lazy">
+  <figcaption>Producers, workers, consumers and the economy can gain, but not automatically.</figcaption>
+</figure>
+
 
 ## Economies of scale
 
@@ -103,6 +131,17 @@ Average cost falls as output rises in the long run. Total cost still rises.
 - Economies of scale end at 2,000 units, the lowest average cost.
 - From 2,000 to 3,000 units, average cost rises by (6.00 − 5.50) / 5.50 = 9.1%. These are diseconomies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--08-ac-six-scales.webp" width="900" height="890" alt="Average cost per unit at six scales: 12.00, 10.00, 8.50, 8.00, 9.00, 10.00. It falls 33.3 percent to the minimum at 8,000 units, then rises 25 percent." loading="lazy">
+  <figcaption>Average cost falls with economies of scale and rises with diseconomies, lowest at 8,000 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--10-five-economies.webp" width="900" height="995" alt="Bars compare small and large firm for purchasing (9.00 vs 7.50), technical (10.00 vs 2.00 fixed cost per unit), financial (18,000 vs 12,000 interest), managerial (3,600 vs 600 per head) and risk-bearing (100 vs 25 percent of sales lost)." loading="lazy">
+  <figcaption>Each type of economy lowers cost per unit as output rises.</figcaption>
+</figure>
+
+
 ## Five types: a memory table
 
 | Type | Trigger word | One-line link to lower unit cost |
@@ -116,6 +155,17 @@ Average cost falls as output rises in the long run. Total cost still rises.
 ## Diseconomies of scale
 
 Causes: communication, coordination and motivation problems. Effect: average cost rises. Remember the chain: too big, so slow decisions, so errors and delays, so higher average cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--07-diseconomies-causes.webp" width="900" height="830" alt="Three causes of diseconomies of scale, communication, coordination and motivation, all lead to more mistakes, delays and lost effort, and so to a higher average cost. In the furniture maker example, average cost rises from 8 to 10 pounds a unit, up 25 percent, when output grows from 8,000 to 16,000 units." loading="lazy">
+  <figcaption>Communication, coordination and motivation problems push average cost up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
 
 ## Worked reminders for the types
 
@@ -160,6 +210,12 @@ Use these as patterns. Each moves from cause to effect to a judgement.
 | Larger market share | Loss of control or personal touch |
 | Bargaining power | More managers needed |
 | Risk spread | Demand may not match extra output |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-productivity-and-economies-of-scale--11-growth-profit.webp" width="900" height="975" alt="At a price of 11, profit per unit is 2.50, 3.00 and 1.00 with average costs of 8.50, 8.00 and 10.00, giving profits of 10,000, 24,000 and 16,000 pounds." loading="lazy">
+  <figcaption>Growth pays only while average cost is falling.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

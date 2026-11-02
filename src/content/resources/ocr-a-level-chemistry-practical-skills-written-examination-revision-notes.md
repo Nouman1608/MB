@@ -87,6 +87,12 @@ Worked reminder: Kc = [C]² ÷ ([A][B]³). Units = (mol dm⁻³)² ÷ (mol dm⁻
 - Same number of decimal places down a column, matching resolution (burette: 2 d.p., ending 0 or 5).
 - Observations in full: colour before and after, "effervescence", "white precipitate".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--01-results-table-format.webp" width="900" height="974" alt="Two burette results tables compared. The poor one repeats units in every cell and mixes decimal places. The good one has the titration number first, quantity and unit in the headings, no units in the body and two decimal places ending in 0 or 5." loading="lazy">
+  <figcaption>A results table has quantity and unit in each heading only, one number of decimal places per column and burette readings ending in 0 or 5.</figcaption>
+</figure>
+
+
 ## 1.1.3 Analysis
 
 **Significant figures (M1.1).** Give the answer to the least number of significant figures in the data used. Round once, at the end. Keep trailing zeros when converting between ordinary and standard form.
@@ -113,6 +119,12 @@ Worked reminder: 1.37 g of NaCl (M = 58.44) made up to 250.0 cm³. c = 1.37 ÷ 5
 Worked reminder: a calibration line of absorbance against concentration passes through (0.0040 mol dm⁻³, 0.25) and (0.0240 mol dm⁻³, 1.45). Gradient = 1.20 ÷ 0.0200 = **60 dm³ mol⁻¹**. Intercept = 0.25 − 60 × 0.0040 = **0.01**, close to zero, as expected when the blank reads zero.
 
 **Qualitative conclusions (1.1.3(a)).** Follow the specification's order for anions: carbonate, then sulfate, then halide. Conclude only what the tests show; a negative test rules an ion out, it does not identify another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--02-graph-axes-rules.webp" width="900" height="982" alt="A scatter graph of gas volume in cm3 against time in s with labelled axes and a scale filling most of the grid. One anomaly is ringed and left out of the best-fit line. A dashed triangle between two far-apart points on the line gives the gradient." loading="lazy">
+  <figcaption>Label axes with quantity and unit, use most of the grid, ignore anomalies and take the gradient from far-apart points on the line.</figcaption>
+</figure>
+
 
 ## 1.1.4 Evaluation
 
@@ -186,6 +198,12 @@ Worked reminders:
 9. Heat loss to the surroundings; the measured temperature rise is too small, so ΔH is less negative than it should be.
 10. (57.1 − 52.3) ÷ 57.1 × 100 = **8.4%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--06-heat-loss-correction.webp" width="900" height="940" alt="Temperature-time graph: 20.4 C before mixing at 2 min, rise to 26.8 C, then a straight cooling line extended back to 27.5 C at mixing. Delta T is 7.1 K, not 6.4 K, which would make Q about 10 percent too small." loading="lazy">
+  <figcaption>Extend the cooling line back to mixing time and use 7.1 K, not 6.4 K.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Listing "amount" or "conditions" as controlled variables without naming the quantity.
@@ -198,6 +216,22 @@ Worked reminders:
 - Reading a "y-intercept" off an axis that does not start at zero.
 - Saying "human error" or "use better equipment" instead of naming a limitation and a matching improvement.
 - Comparing percentage error with percentage uncertainty but not saying what the comparison shows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--04-arrhenius-gradient-worked.webp" width="900" height="940" alt="A gradient triangle on the ln k against 1/T line from (3.000, -4.20) to (3.300, -6.45) gives -7500 K, so Ea = 62.4 kJ/mol." loading="lazy">
+  <figcaption>Gradient = -Ea/R gives Ea = 62.4 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--05-arrhenius-intercept-worked.webp" width="900" height="940" alt="The data sit only between 2.9 and 3.4 x 10^-3 on the x-axis. The line extended to x = 0 gives ln A = 18.3 by calculation, so A = 8.86 x 10^7 per second." loading="lazy">
+  <figcaption>When the axis does not start at zero, calculate c = y - mx.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--06-error-vs-uncertainty.webp" width="900" height="860" alt="Uncertainties of 0.83 %, 1.0 % and 2.0 % total 3.9 %, but the percentage error is 11 %. Apparatus uncertainty cannot explain it, so look for heat loss." loading="lazy">
+  <figcaption>If error is larger than total uncertainty, look for a procedural limitation.</figcaption>
+</figure>
+
 
 ## Next steps
 

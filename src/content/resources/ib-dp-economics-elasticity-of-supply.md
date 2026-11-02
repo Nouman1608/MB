@@ -69,6 +69,12 @@ In the same fictional town, a stall's price falls from 10 vels to 9 vels. Quanti
 
 Both changes are negative, so the ratio is positive. Keep the signs in your working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--05-pes-method.webp" width="900" height="790" alt="Old and new bars for price (40 to 46, +15%) and quantity supplied (500 to 560, +12%). PES = 12 / 15 = 0.8, below one, so inelastic." loading="lazy">
+  <figcaption>PES compares the percentage rise in output with the percentage rise in price.</figcaption>
+</figure>
+
+
 ## Degrees of PES
 
 The theoretical range runs from zero to infinity.
@@ -112,6 +118,17 @@ Price                       Price
 
 The last point surprises many people. Steepness is not the same as elasticity. A straight line through the origin can be steep or shallow and still has PES of exactly 1, because quantity and price rise in the same proportion along it. A different straight line that does not pass through the origin has a PES that changes from point to point, although it stays on one side of 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--01-pes-constant-shapes.webp" width="900" height="1140" alt="Four supply diagrams. A vertical line is perfectly inelastic with PES 0. A horizontal line is perfectly elastic with PES infinity. Two straight lines through the origin, one steep and one shallow, both have PES exactly 1 because price and quantity double together." loading="lazy">
+  <figcaption>A straight line through the origin has PES 1 however steep it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--02-pes-intercept-rule.webp" width="900" height="1170" alt="Two straight supply lines. One meets the price axis above zero and has PES 2.0 at price 4 and about 1.3 at price 8, so it is elastic at every point. The other meets the quantity axis to the right of the origin and has PES about 0.67 at price 4 and 0.80 at price 8, so it is inelastic at every point." loading="lazy">
+  <figcaption>Where a straight supply line meets an axis decides whether PES is above or below 1.</figcaption>
+</figure>
+
+
 ## Calculations from data
 
 The guide expects you to find PES, and also to find a change in price or quantity supplied when PES is given.
@@ -142,6 +159,12 @@ A fictional farm raises its price from 12 to 15 vels. It increases output from 6
 - PES = 15 / 25 = **0.6**
 
 Method for every calculation: write the formula, work out each percentage change separately, then divide. Do not skip to the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--06-pes-predict.webp" width="900" height="690" alt="Flow 1: PES 1.5, price +8% gives output +12%, 2 000 tiles become 2 240. Flow 2: PES 0.4, wanted output +6% needs price +15%, 80 vels becomes 92 vels." loading="lazy">
+  <figcaption>Rearrange PES to find the output change from a price change, or the price change an output target needs.</figcaption>
+</figure>
+
 
 ## Determinants of PES
 
@@ -177,6 +200,22 @@ Storage lets a firm hold stocks when prices are low and sell them when prices ri
 
 Rate of cost increase links directly to why firms supply more at higher prices. If producing extra units pushes up costs sharply, a higher price is needed to make each extra unit worth supplying, so the response is small and PES is low.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--07-pes-time.webp" width="900" height="810" alt="After a 10% price rise, output rises 1% in a week (PES 0.1), 6% in a year (PES 0.6) and 15% in five years (PES 1.5), crossing the 10% line." loading="lazy">
+  <figcaption>The same product moves from inelastic to elastic as the time allowed grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-elasticity-of-supply--08-pes-determinants.webp" width="900" height="960" alt="Five sliders from lower to higher PES: time, mobility of factors, unused capacity, ability to store, and rate of cost increase, with the low-PES and high-PES condition at each end." loading="lazy">
+  <figcaption>Each determinant has a low-PES end and a high-PES end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+
 ## Primary commodities and manufactured products (HL only)
 
 Primary commodities are goods such as crops, minerals and other raw materials. At HL you must be able to explain why their PES is generally lower than the PES of manufactured products. Link each reason to a determinant:
@@ -190,6 +229,12 @@ Primary commodities are goods such as crops, minerals and other raw materials. A
 Weather, disease and geology also limit how fast output can respond. Manufacturers can usually rearrange labour and machines, which gives them a higher PES.
 
 A fictional example: the country of Kesmar relies on a tree crop that takes six years to bear fruit. A sudden price rise cannot raise supply for years. A factory elsewhere that assembles bicycles can add a shift within days.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Common errors
 

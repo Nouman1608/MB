@@ -70,6 +70,32 @@ Formulas (standard forms):
 | GDP up | Higher incomes, more sales, expansion |
 | GDP down | Lower sales, cuts in output, jobs and investment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--01-cycle-stages.webp" width="900" height="1060" alt="A wave-shaped GDP line over time split into four coloured stages: growth, boom, recession, slump, with a one-line business experience for each. A box applies the GDP growth rate formula to the lesson figures, 2,400 to 2,520, giving 5.0 percent." loading="lazy">
+  <figcaption>The four stages of the business cycle and how GDP growth is calculated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--03-inflation-margin.webp" width="900" height="1010" alt="Two bars of length 40, the fixed price. Costs of 32 leave profit 8 (margin 20 percent); costs of 33.92 after a 6 percent rise leave profit 6.08 (margin 15.2 percent). Three responses are shown." loading="lazy">
+  <figcaption>Rising costs squeeze the profit margin when a business holds its price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--06-brenmoor-growth.webp" width="900" height="940" alt="Paired bars for year 1 and year 2: GDP 2,400 to 2,520 billion (+5.0%), unemployment 8.0% to 6.0%, Brenmoor sales revenue 3.10m to 3.55m (+14.5%). Conclusion: growth stage." loading="lazy">
+  <figcaption>GDP +5.0%, unemployment 8.0% to 6.0% and revenue +14.5% point to the growth stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
+
 ## Government objectives and tools (6.1.2)
 
 Objectives: increasing GDP (the syllabus example); other common ones are lower unemployment and low, stable inflation. Tools: taxes, government spending and interest rates (often set through the central bank).
@@ -81,6 +107,22 @@ Objectives: increasing GDP (the syllabus example); other common ones are lower u
 | Sales tax | Prices fall, demand may rise | Prices rise, demand may fall |
 | Government spending | Fewer contracts, less demand | More contracts, more jobs and incomes |
 | Interest rates | Cheaper loans, more borrowing and spending | Dearer loans, less borrowing and spending |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--04-objectives-links.webp" width="900" height="810" alt="Three objectives in a triangle: increase GDP, lower unemployment and low stable inflation. GDP creates jobs (supports) and can push up prices (conflict). Stable prices make planning easier for firms." loading="lazy">
+  <figcaption>Higher GDP tends to create jobs, but fast growth can push up prices, which makes planning harder for firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--05-spending-routes.webp" width="900" height="810" alt="Government spending branches into three routes: as a customer through contracts, through the economy by creating jobs and incomes, and through services and support such as transport, skilled staff and grants." loading="lazy">
+  <figcaption>Spending affects firms as a customer, through the economy, and through services and support.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--09-external-factors-retailer.webp" width="900" height="980" alt="Two cause-and-effect chains. A rise in interest rates leaves households with less to spend, so clothing demand falls, and raises the retailer’s interest costs, squeezing profit and delaying stores: two costs. A fall in the exchange rate makes imported stock dearer, a cost, but makes exports cheaper abroad, a benefit." loading="lazy">
+  <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
+</figure>
+
 
 ## Method: explaining an effect
 
@@ -140,6 +182,12 @@ The effect depends on the business, so check the stem for these clues.
 
 Use at least one such clue in each answer. It turns a general point into application.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--07-halbrook-rate-rise.webp" width="900" height="790" alt="Two bars split a 60,000 profit before interest into profit after interest and interest paid. At 5 percent: 50,000 and 10,000. At 8 percent: 44,000 and 16,000. Interest rises 60 percent and profit after interest falls 12 percent." loading="lazy">
+  <figcaption>On a 200,000 loan, 5% to 8% lifts interest from 10,000 to 16,000 and cuts profit after interest from 50,000 to 44,000.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 Varnley Bakery has a 100,000 loan at 6%. Interest is 100,000 × 0.06 = 6,000 a year. At 9% it is 9,000. The bill is up 3,000, or 50%. The rate rose by 3 percentage points, not 50%.
@@ -147,6 +195,12 @@ Varnley Bakery has a 100,000 loan at 6%. Interest is 100,000 × 0.06 = 6,000 a y
 A firm earns 80,000 profit before tax. At a 20% rate, tax is 16,000 and profit after tax is 64,000. If the rate falls to 15%, profit after tax is 80,000 × 0.85 = 68,000, an extra 4,000.
 
 A magazine costs 50 before sales tax. A 12% sales tax makes the shelf price 50 × 1.12 = 56.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--02-tax-effects.webp" width="900" height="1090" alt="Stacked bars show that a profit of 250,000 leaves 200,000 after tax at 20 percent and 187,500 at 25 percent. A helmet at 80 before sales tax shows a shelf price of 88 at 10 percent and 92 at 15 percent." loading="lazy">
+  <figcaption>A profit tax cuts what the firm keeps; a sales tax raises the price the customer sees.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

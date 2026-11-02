@@ -74,6 +74,12 @@ making them, and 7.3 the tools used to keep and store them. 7.2 and
 **Answer pattern:** name the concept → what it means → what it requires
 in *this* business's records → the effect on profit or assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--05-gc-ten-concepts.webp" width="900" height="1060" alt="Ten cards with a small picture and one-line definition: business entity, money measurement, duality, historic cost, going concern, accruals, consistency, prudence, materiality and realisation, using the lesson examples (land 40,000 not 65,000; a 14 dollar stapler)." loading="lazy">
+  <figcaption>The ten named concepts at a glance.</figcaption>
+</figure>
+
+
 ## 7.2 Ethical considerations
 
 **Need for a framework:** others rely on accounting information they
@@ -94,6 +100,12 @@ employees and governments / tax authorities (6.4,
 [Analysis and Interpretation](/resources/igcse-accounting-analysis-and-interpretation/)) decide using the
 figures. Unethical figures lead to bad loans, unpaid suppliers, lost
 jobs, lost tax revenue and lost trust in financial information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
 
 ## 7.3 Technology and sustainability
 
@@ -120,6 +132,12 @@ cost of rebuilding records; reputational damage; waste.
 **Note (7.3):** "Candidates do not need to have knowledge of or access to
 specific accounting software packages or programs."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-tech-storage-compare.webp" width="900" height="925" alt="Four cards compare manual, devices, cloud and other digital services on access, loss risk and footprint, using the lesson's own table entries." loading="lazy">
+  <figcaption>The four storage types compared on access, loss risk and footprint.</figcaption>
+</figure>
+
+
 ## Worked example: concept, correction, figure
 
 Draft profit for the year $48,000. Adjust:
@@ -141,6 +159,12 @@ Corrected profit for the year                            47,800
 ```
 
 48,000 + 600 + 400 + 2,700 − 750 − 500 − 2,500 − 150 = 47,800.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-concepts-revision-notes--01-concepts-corrected-profit.webp" width="900" height="1011" alt="Bars to the right of a centre line add to profit and bars to the left subtract. Business entity adds 600 and 400, matching adds 2,700 and subtracts 750, prudence subtracts 500 and 150, realisation subtracts 2,500 and materiality changes nothing. Draft profit 48,000 becomes 47,800." loading="lazy">
+  <figcaption>Each concept moves the draft profit up or down, ending at $47,800.</figcaption>
+</figure>
+
 
 ## Exam traps
 

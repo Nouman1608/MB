@@ -41,6 +41,17 @@ Why government is needed, in one line each:
 
 Match the level to the scale of the problem. If one council can solve it, it is local. If it needs a national budget or law, it is national. If it crosses a border, it is international.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--03-levels-of-government.webp" width="900" height="950" alt="Local government suits litter on town streets because the council knows the problem. National government suits national unemployment because it controls tax and spending. A river polluted by three countries needs international action because no one country can fix it alone." loading="lazy">
+  <figcaption>The right level of government matches the size of the problem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## 4.2.1 The five aims at a glance
 
 | Aim | One-line meaning | Why chosen | Possible criterion |
@@ -102,6 +113,27 @@ Governments pick and rank aims by:
 
 A criterion is a measurable target or range. A band (such as 1% to 3%) tells everyone what counts as success.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--01-aims-met-or-not.webp" width="900" height="960" alt="Three scales test worked examples 2 to 4 against their criteria. Unemployment 6.0% (312,000 of 5,200,000) misses the 5% or less target; inflation 3.0% just meets 1% to 3%; the current account of -0.3% of GDP is inside the 2% band." loading="lazy">
+  <figcaption>Unemployment misses its target while inflation and the current account meet theirs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--02-current-account-build.webp" width="900" height="790" alt="Waterfall of goods -14, services +12 (running total -2), net primary income -6 and net secondary income +2, giving a current account of -6, which is -0.3% of GDP of 2,000." loading="lazy">
+  <figcaption>Four flows add up to a current account deficit of 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims--03-progressive-tax-gap.webp" width="900" height="890" alt="P earns 30,000 and pays 3,600 (12%); R earns 80,000 and pays 21,600 (27%). R earns 2.67 times P before tax and 2.21 times after tax, so the gap narrows." loading="lazy">
+  <figcaption>A progressive tax narrows the gap from 2.67 times to 2.21 times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+
 ## 4.2.2 Conflicts between aims
 
 Method in steps for any conflict answer:
@@ -137,6 +169,17 @@ Imports are 16 higher, so the balance worsens by 16
 
 Weaker if growth is export-led, or if the imports are machinery that raises future output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ### Full employment versus balance of payments stability
 
 ```
@@ -161,6 +204,12 @@ Weaker if the new jobs are in export industries or in firms that replace imports
 Aims can also support each other. Growth can create jobs and raise the tax revenue that pays for redistribution. A good answer notes this before or after explaining the clash.
 
 Two checks before you write a conflict answer. First, say which aim the government is pursuing and which one suffers; the direction matters. Second, decide how large the clash is in the case given. The same policy that causes a sharp conflict in a busy economy may cause almost none when many workers are idle, so tie your judgement to the country described.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

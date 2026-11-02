@@ -49,6 +49,17 @@ Quality matters because:
 - A reliable product protects the brand and supports repeat purchase and, where customers value reliability, a higher price, which helps marketing.
 - Staff who spend less time fixing errors are easier to motivate, which helps human resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--11-qa-payoff.webp" width="900" height="810" alt="Two bars: before quality assurance 800 faulty mugs at $4 cost $3,200; after, 300 faulty mugs cost $1,200 plus $1,800 for QA, $3,000. The net monthly gain is $200." loading="lazy">
+  <figcaption>Quality assurance saves $2,000 of scrap but costs $1,800, a net gain of $200 a month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+
 
 ## Quality control
 
@@ -89,6 +100,12 @@ Quenmoor Ceramics makes 20 000 mugs a month. At present 4% are found faulty at f
 
 The gain is small on these figures alone. A full answer adds what the figures leave out: fewer returns and complaints, and a stronger reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--11-tqm-everyone.webp" width="900" height="940" alt="Four departments (operations, finance, marketing, HR) around a central quality star show that everyone owns quality. Below, a chain of three stages and a customer, each stage with a shield, shows each stage treating the next as its customer and passing on nothing faulty." loading="lazy">
+  <figcaption>In TQM every employee in every department is responsible for quality, getting it right first time.</figcaption>
+</figure>
+
+
 ## 9.2.2 Benchmarking
 
 Benchmarking means comparing a business's performance, processes or products with those of the best performers, then using the gaps to set targets and make changes. The comparison can be against another business, against a leader in a different industry with a similar process, or against the best unit inside the same business. These groupings are a standard way of describing benchmarking; the syllabus asks for its importance in quality management.
@@ -100,6 +117,12 @@ Why it matters:
 Limits: competitor data is hard to obtain, and methods that suit one business may not suit another.
 
 Example: Quenmoor Ceramics takes 6.5 days to deliver a special order. A leading bakeware firm with a similar process takes 4.0 days. The gap is 2.5 days (38% of Quenmoor's time). That gap becomes the target to investigate, not a command to copy the rival.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--14-benchmark-gap.webp" width="900" height="730" alt="Quenmoor takes 6.5 days to deliver a special order against 4.0 for a leading firm; the gap is 2.5 days, 38 percent of Quenmoor time, and is a target to investigate." loading="lazy">
+  <figcaption>Benchmarking turns a performance gap into a target.</figcaption>
+</figure>
+
 
 ## 9.3.1 Operational decisions
 
@@ -115,6 +138,12 @@ IT speeds up information handling: computer-aided design, stock records, automat
 
 Benefits: faster, consistent work and better data. Risks: purchase and training costs, jobs changed or lost, reliance on systems that can fail, and poor decisions if data is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--13-operations-decisions.webp" width="900" height="900" alt="Human resources, marketing and finance each point at an operations circle: staff limit output, demand forecasts set volume and specification, funds decide equipment, stock and training. A band notes that IT speeds information, AI analyses and decides, with risks of cost, jobs and failure." loading="lazy">
+  <figcaption>Operations decisions are limited by HR, marketing and finance resources and changed by IT and AI.</figcaption>
+</figure>
+
+
 ## 9.3.2 Flexibility and innovation
 
 Flexibility is the ability to change what and how much is produced. The syllabus names three kinds:
@@ -125,6 +154,12 @@ Flexibility is the ability to change what and how much is produced. The syllabus
 Ways to gain flexibility include multi-skilled staff, flexible machines, temporary contracts and outsourcing. The cost is often higher training and equipment costs, and some spare capacity.
 
 Process innovation means changing current processes (a new layout, new software, different work methods) or adopting new ways of producing products or delivering services (such as 3D printing, or taking orders through an app). It can cut costs, raise quality or speed up delivery, but it brings set-up cost, disruption and the risk that it does not work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--14-three-flexibilities.webp" width="900" height="990" alt="Three rows: volume (output bars rising and falling), delivery time (a stopwatch and arrow) and specification (a square changing to a circle). A band lists ways to gain flexibility and its cost." loading="lazy">
+  <figcaption>Flexibility can mean changing volume, delivery time or specification.</figcaption>
+</figure>
+
 
 ## 9.3.3 Enterprise resource planning (ERP)
 
@@ -143,6 +178,12 @@ How it can improve efficiency:
 
 Limits: high cost, disruption and training, resistance to change, and dependence on accurate data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--12-erp-database.webp" width="900" height="810" alt="Six modules (purchasing, inventory, production, sales, finance, HR) connect by two-way arrows to one shared database, giving real-time automatic data transfer." loading="lazy">
+  <figcaption>An ERP system links departments through one shared database.</figcaption>
+</figure>
+
+
 ## 9.3.4 Lean production
 
 Lean production aims to produce with minimum waste (of materials, time, space, effort and inventory) while meeting customer needs and quality standards. Its purposes are lower costs, higher quality, faster response and higher efficiency.
@@ -157,6 +198,17 @@ Lean production aims to produce with minimum waste (of materials, time, space, e
 | Waste management | Finding and removing waste such as defects, waiting, excess stock | Waste can be hard to measure; takes time and effort |
 
 Links: lean cuts inventory (JIT), builds in quality (right first time), gives employees more responsibility and skill, leaves little spare capacity (high utilisation, but little room for sudden demand), and raises efficiency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--12-lean-six-strategies.webp" width="900" height="862" alt="Six lean strategies, each with an icon and one limitation: kaizen, quality circles, simultaneous engineering, cell production, JIT manufacturing and waste management." loading="lazy">
+  <figcaption>Each lean strategy cuts waste but has a limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## 9.3.5 Operations planning
 
@@ -187,6 +239,12 @@ C: total float 10 − 3 − 5 = 2; free float 8 − 3 − 5 = 0. E: total float 
 Interpretation: C can be late by up to 2 days without delaying the project, but any delay pushes back the start of E. E can overrun by 2 days with no knock-on effect. Managers can move staff from non-critical to critical activities.
 
 Benefits of CPA: it shows the shortest time, the critical activities and where there is slack. Limitations: durations are estimates, it ignores cost and resource limits unless added, large networks are complex, and it needs updating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-quality-management-and-operations-strategy--13-cpa-elmsdale.webp" width="900" height="890" alt="A network of six nodes with a dummy activity. Earliest starts are 0, 3, 7, 8, 13, 15 and latest finishes 0, 3, 7, 10, 13, 15. The critical path A, B, D, F takes 15 days. C has total float 2 and free float 0; E has total float 2 and free float 2." loading="lazy">
+  <figcaption>The critical path is the longest route; floats show how much other activities can slip.</figcaption>
+</figure>
+
 
 ## Common errors
 

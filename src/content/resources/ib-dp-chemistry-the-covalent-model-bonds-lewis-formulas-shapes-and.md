@@ -68,6 +68,12 @@ A **Lewis formula** shows all the valence electrons in a species, bonding and no
 
 **Fewer than an octet.** In BCl₃ (24 electrons, 12 pairs), three bonds and nine chlorine lone pairs use every pair, so boron has only six electrons. Beryllium in gaseous BeH₂ has four. Such atoms readily accept a lone pair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--01-lewis-methanal.webp" width="900" height="1000" alt="Three panels build the Lewis formula of H2CO from 12 valence electrons (6 pairs). Single bonds use 3 pairs, lone pairs on O use the rest, leaving C with only 6 electrons. Moving an O lone pair into the C-O bond gives C=O and an octet on both atoms." loading="lazy">
+  <figcaption>Methanal in three steps: join atoms, fill O, then turn a lone pair into a second bond.</figcaption>
+</figure>
+
+
 ## Structure 2.2.2: Bond order, length and strength
 
 Single, double and triple bonds have one, two and three shared pairs. More shared pairs put more electron density between the nuclei, pulling them closer and holding them more firmly.
@@ -82,6 +88,12 @@ Single, double and triple bonds have one, two and three shared pairs. More share
 
 More bonds between the same two atoms: **shorter** and **stronger**. The triple bond is not three times as strong as the single (891 ÷ 305 = 2.92).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--02-bond-order-length-strength.webp" width="900" height="1000" alt="C and N nuclei are drawn to scale for C-N (147 pm, 305 kJ/mol), C=N (128 pm, 615) and C≡N (116 pm, 891). More shared pairs bring the nuclei closer and make the bond stronger. 891 ÷ 305 = 2.92, not 3." loading="lazy">
+  <figcaption>More shared pairs: shorter and stronger bonds.</figcaption>
+</figure>
+
+
 ## Structure 2.2.3: Coordination bonds
 
 A **coordination bond** is a covalent bond whose two electrons were both supplied by one of the two atoms. After it forms, you cannot tell it apart from the other bonds of its kind. Look for a donor with a lone pair and an acceptor with a vacancy.
@@ -91,6 +103,12 @@ A **coordination bond** is a covalent bond whose two electrons were both supplie
 - **C≡O:** in one of the three shared pairs, both electrons come from O.
 
 **HL only: transition element complexes.** Each ligand (such as H₂O, NH₃, Cl⁻, CN⁻) donates a lone pair to the metal ion. In [Co(NH₃)₆]³⁺ there are six coordination bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--03-coordination-bonds.webp" width="900" height="1170" alt="NH3 donates its lone pair to the electron-deficient B in BH3, forming H3N-BH3 with both bonding electrons from N. In CO one of the three shared pairs comes from O. At HL, [Co(NH3)6]3+ has six ligands each donating a lone pair." loading="lazy">
+  <figcaption>A coordination bond has both electrons supplied by one atom; HL extends this to complexes.</figcaption>
+</figure>
+
 
 ## Structure 2.2.4: VSEPR shapes
 
@@ -114,11 +132,23 @@ Lone pairs repel more strongly than bonding pairs, squeezing bond angles. A mult
 - **NOCl:** three domains (single, double, lone pair): bent, below 120°.
 - **Methanal:** three domains on C, trigonal planar. The C=O domain repels more, so H–C–H is a little under 120° and each H–C=O a little over.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--04-vsepr-shapes.webp" width="900" height="1130" alt="HCN is linear, BCl3 trigonal planar, NOCl bent below 120 degrees, CH4 tetrahedral at 109.5, NCl3 trigonal pyramidal at about 107 and H2O bent at 104.5 degrees. Lone pairs are shown as teal lobes; each shape lists its domains and lone pairs." loading="lazy">
+  <figcaption>Electron domains and lone pairs decide molecular shape and bond angle.</figcaption>
+</figure>
+
+
 ## Structure 2.2.5: Bond polarity
 
 Unequal sharing makes a bond **polar**: the more electronegative atom becomes δ−, the other δ+. Show a dipole with partial charges (δ+C–Clδ−) or a vector arrow pointing to the δ− end. The guide states that electronegativity values are given in the data booklet; here they are supplied.
 
 **Worked example 6.** Values: H 2.2, B 2.0, C 2.6, O 3.4, F 4.0, Cl 3.2. Differences: C–H 0.4, C–Cl 0.6, O–H 1.2, B–F 2.0. So polarity increases C–H < C–Cl < O–H < B–F, with δ− on C, Cl, O and F respectively.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--05-bond-polarity.webp" width="900" height="1030" alt="C-H, C-Cl, O-H and B-F are shown with the electron cloud shifted toward the more electronegative atom. Differences 0.4, 0.6, 1.2 and 2.0 show polarity increasing in that order, with delta minus on C, Cl, O and F respectively." loading="lazy">
+  <figcaption>The bigger the electronegativity difference, the more polar the bond.</figcaption>
+</figure>
+
 
 ## Structure 2.2.6: Molecular polarity
 
@@ -130,6 +160,12 @@ A species has a **net dipole moment** only if its bond dipoles do not cancel. Fi
 - NCl₃: pyramidal, dipoles cannot cancel: weakly polar.
 - CH₂F₂: tetrahedral but two different bond types: polar.
 - NH₂⁻ (bent) has a net dipole; NH₄⁺ (tetrahedral) has none.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--06-net-dipole.webp" width="900" height="1000" alt="BCl3 and trans-1,2-dichloroethene have bond dipoles that cancel, so they are non-polar. Pyramidal NCl3 (weakly) and cis-1,2-dichloroethene have dipoles that add, giving a net dipole." loading="lazy">
+  <figcaption>Shape decides whether bond dipoles cancel.</figcaption>
+</figure>
+
 
 ## Structure 2.2.7: Covalent network structures
 
@@ -145,6 +181,12 @@ In a covalent network, covalent bonds run through the whole solid. **Allotropes*
 | SiO₂ | each Si bonded to 4 O, each O to 2 Si | hard, very high melting point, insoluble, non-conducting |
 
 Si–Si bonds are generally weaker than C–C bonds: Si atoms are larger, so the bonding pair is further from each nucleus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--07-carbon-allotropes.webp" width="900" height="1130" alt="Diamond: each C bonded to four, very hard, non-conducting. Graphite: hexagonal layers, three bonds and one delocalised electron per C, London forces between layers, conducts along layers and is soft. C60: separate molecules, low melting point, poor conductor." loading="lazy">
+  <figcaption>Bonding and structure explain the different properties of carbon allotropes.</figcaption>
+</figure>
+
 
 ## Structure 2.2.8: Intermolecular forces
 
@@ -167,6 +209,12 @@ At comparable molar mass: London < dipole–dipole < hydrogen bonding.
 - **Conductivity:** most covalent substances have no mobile charged particles, so they do not conduct; graphite and graphene are exceptions. HCl forms ions in water, so its solution conducts.
 - **Solubility:** like dissolves like. Methanol hydrogen bonds with water and dissolves; iodine dissolves in hexane. Longer non-polar chains lower water solubility. Network solids are insoluble.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--08-imf-boiling-point.webp" width="900" height="985" alt="Butane (58.14 g/mol, London forces only) boils at -0.5 C. Propanone (58.09, adds dipole-dipole) boils at 56 C. Propan-1-ol (60.11, adds hydrogen bonding) boils at 97 C. Gold bars show boiling point rising with force strength." loading="lazy">
+  <figcaption>At similar molar mass, London &lt; dipole-dipole &lt; hydrogen bonding.</figcaption>
+</figure>
+
+
 ## Structure 2.2.10: Chromatography
 
 Components separate by their relative attraction, through intermolecular forces, to a **stationary phase** (water held in paper, or a thin silica or alumina layer in TLC) and a **mobile phase** (the solvent). Stronger attraction to the stationary phase means a shorter distance travelled.
@@ -174,6 +222,12 @@ Components separate by their relative attraction, through intermolecular forces,
 RF = distance moved by component ÷ distance moved by solvent front (both from the base line). RF has no unit and lies between 0 and 1.
 
 **Worked example 10.** On a silica TLC plate the solvent front moves 7.6 cm; spots are at 1.9 cm and 5.7 cm. RF = 1.9 ÷ 7.6 = **0.25** and 5.7 ÷ 7.6 = **0.75**. Silica is polar, so the low-RF component is probably the more polar one. Identify spots by comparing with known substances on the same plate and solvent, because RF depends on the solvent, stationary phase and temperature. Locating agents, and the operating details of gas chromatography and HPLC, are not assessed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--09-tlc-rf-values.webp" width="900" height="913" alt="A silica TLC plate in a solvent tank has a solvent front 7.6 cm from the base line. Spot A moved 1.9 cm (RF 0.25) and spot B 5.7 cm (RF 0.75). RF has no unit and lies between 0 and 1; the low-RF spot is probably more polar." loading="lazy">
+  <figcaption>RF is distance moved by the spot divided by distance moved by the solvent front.</figcaption>
+</figure>
+
 
 ## Common errors
 

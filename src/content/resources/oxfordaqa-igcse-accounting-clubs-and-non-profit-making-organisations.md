@@ -47,6 +47,12 @@ A club exists to provide a service to its members, not to make a profit for an o
 
 The income and expenditure account is the club's version of the income statement. It is prepared on the accruals basis, so it matches income and expenditure to the year they belong to, whether or not cash moved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--07-club-words.webp" width="900" height="830" alt="Five pairs: profit to surplus, loss to deficit, owner capital to accumulated fund, income statement to income and expenditure account, drawings to none. Accumulated fund is assets less liabilities." loading="lazy">
+  <figcaption>Clubs swap profit, loss, capital and income statement for surplus, deficit, accumulated fund and income and expenditure account.</figcaption>
+</figure>
+
+
 ## The receipts and payments account
 
 A receipts and payments account is a summary of the cash book. Small clubs often keep only this. Its rules are simple.
@@ -58,6 +64,17 @@ A receipts and payments account is a summary of the cash book. Small clubs often
 5. It has no depreciation, no accruals and no prepayments, because these are not cash movements.
 
 Its weakness is that it does not show whether the club did well. A big equipment purchase could make payments look huge, while unpaid bills do not appear at all. That is why the income and expenditure account is needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--08-cash-rise-to-surplus.webp" width="900" height="1060" alt="Running total from 7,250: +3,500 equipment bought, -500 sale proceeds, +100 profit on disposal, -2,700 depreciation, +90 subscriptions, -100 rent owing, +150 insurance prepaid, -70 cafe stock and payables, ending at 7,720." loading="lazy">
+  <figcaption>The cash rise of 7,250 becomes a surplus of 7,720 once capital items, depreciation and timing are adjusted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--07-rp-account.webp" width="900" height="981" alt="Cedar Fold receipts and payments account, both sides 31,250, with capital items highlighted and three weaknesses listed." loading="lazy">
+  <figcaption>A receipts and payments account shows cash only, including capital items, with no accruals or depreciation.</figcaption>
+</figure>
+
 
 ## Worked example: Cedar Fold Archery Club
 
@@ -106,6 +123,12 @@ Assets: equipment net book value 7,200 (12,000 less 4,800), bank 3,200, subscrip
 Liabilities: subscriptions in advance 200, rent owing 400, café payable 380. Total 980.
 Accumulated fund at 1 January 2025 = 11,340 less 980 = **10,360**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--09-accumulated-fund-opening.webp" width="900" height="1000" alt="Opening assets 11,340 less liabilities 980 gives a fund of 10,360. Adding the surplus 7,720 gives 18,080, which equals closing net assets (19,430 less 1,350)." loading="lazy">
+  <figcaption>The opening fund is assets less liabilities; adding the surplus gives the closing fund.</figcaption>
+</figure>
+
+
 ### Step 2: subscriptions account
 
 Subscriptions income is the amount that belongs to this year. Build the account and find the missing figure.
@@ -119,12 +142,24 @@ Subscriptions income is the amount that belongs to this year. Build the account 
 
 Subscriptions income is **14,690**. The opening arrears (300) were paid this year but belong to last year, so they are not this year's income. The opening advance (200) was received last year but belongs to this year, so it is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
+
 ### Step 3: other expenses and the disposal
 
 - Rent: 6,000 paid less 400 owing at the start plus 500 owing at the end = **6,100**.
 - Insurance: 900 paid less 150 prepaid = **750**.
 - Depreciation: equipment at cost at the year end is 12,000 less 2,000 sold plus 3,500 bought = 13,500. At 20% the charge is **2,700**. Accumulated depreciation at the end is 4,800 less 1,600 plus 2,700 = 5,900. Net book value is 13,500 less 5,900 = 7,600.
 - Disposal: the equipment sold had a net book value of 2,000 less 1,600 = 400. It was sold for 500, so there is a **profit on disposal of 100**. This goes in the income and expenditure account as income, not in the trading account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--09-club-workings.webp" width="900" height="970" alt="Rent 6,100, insurance 750, depreciation 2,700 (20 percent of 13,500) and disposal profit 100." loading="lazy">
+  <figcaption>Each working shows how a cash figure becomes the figure for the year.</figcaption>
+</figure>
+
 
 ### Step 4: trading account for the café
 
@@ -141,6 +176,12 @@ Purchases must be adjusted for the café payable. Purchases = 6,150 paid less 38
 | Gross profit | | 3,580 |
 
 Café wages (1,200) are an expense of the income and expenditure account, because the trading account in this example stops at gross profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--08-cafe-trading.webp" width="900" height="1034" alt="Purchases 6,150 - 380 + 520 = 6,290; cost of sales 640 + 6,290 - 710 = 6,220; gross profit 9,800 - 6,220 = 3,580." loading="lazy">
+  <figcaption>The café trading account adjusts purchases for the payable and stops at gross profit.</figcaption>
+</figure>
+
 
 ### Step 5: income and expenditure account
 
@@ -164,6 +205,12 @@ Café wages (1,200) are an expense of the income and expenditure account, becaus
 | Surplus for the year | | 7,720 |
 
 Notice what is missing. The 3,500 spent on new equipment and the 500 sale proceeds are in the receipts and payments account but not here. Equipment is a capital item. Only its depreciation and any profit or loss on disposal reach the income and expenditure account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--10-club-income-expenditure.webp" width="900" height="1016" alt="Income 21,520 less expenditure 13,800 gives a surplus of 7,720, with bars for each line." loading="lazy">
+  <figcaption>The surplus is income less expenditure on the accruals basis.</figcaption>
+</figure>
+
 
 ### Step 6: statement of financial position
 
@@ -190,6 +237,12 @@ Notice what is missing. The 3,500 spent on new equipment and the 500 sale procee
 | | | | 18,080 |
 
 The two sides agree: net assets of 18,080 equal the accumulated fund of 18,080. If they do not, check the bank balance from the receipts and payments account and the opening fund first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--11-club-sofp.webp" width="900" height="1040" alt="Assets 19,430 less liabilities 1,350 give net assets 18,080, equal to the accumulated fund 10,360 plus surplus 7,720." loading="lazy">
+  <figcaption>Net assets equal the accumulated fund.</figcaption>
+</figure>
+
 
 ## Commenting on the statements
 

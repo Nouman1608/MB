@@ -142,6 +142,17 @@ x² = y, so V = π ∫₀⁴ y dy = π[y²/2]₀⁴ = 8π
 | "Rotated through 360° about the y-axis" | π ∫ x² dy with y-limits |
 | "Show that …" | Every line of working written out; the given answer earns nothing on its own |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Indefinite vs definite.** An indefinite integral is a function and needs + c. A definite integral is a number and has no c.
@@ -151,6 +162,12 @@ x² = y, so V = π ∫₀⁴ y dy = π[y²/2]₀⁴ = 8π
 - **Linear bracket vs non-linear bracket.** (3x − 1)⁴ can be integrated directly with the (ax + b)ⁿ rule. (x² − 1)⁴ cannot; expand it first.
 - **n = −1.** ∫ x⁻¹ dx is not xᵒ/0. It gives ln x, which is Paper 2 and Paper 3 work ([Pure Mathematics 2 revision notes](/resources/a-level-mathematics-pure-mathematics-2-revision-notes/)).
 - **Exact vs 3 s.f.** "Exact" means keep π, surds and fractions. Otherwise give 3 significant figures, and don't round until the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--02-area-below-axis.webp" width="900" height="760" alt="The curve y = x² − 3x lies below the x-axis from 0 to 3 (integral −9/2) and above it from 3 to 4 (integral 11/6). The area is found by adding the sizes, 19/3, whereas the single integral from 0 to 4 is −8/3." loading="lazy">
+  <figcaption>Regions below the axis give negative integrals, so find the area in separate pieces.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

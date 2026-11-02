@@ -52,6 +52,17 @@ For full explanations and longer worked examples, use the [Graphs study guide](/
 - **Method: line through one point with a given gradient:** steps 2 and 3 only.
 - **Perpendicular (Higher tier only):** flip the gradient and change its sign. 4 → −1/4; −3/5 → 5/3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+
 ## A10: reading and interpreting y = mx + c
 
 - Rearrange to "y = …" first. 3x + 2y = 12 → 2y = −3x + 12 → y = −1.5x + 6.
@@ -65,6 +76,12 @@ For full explanations and longer worked examples, use the [Graphs study guide](/
 - Turning point x-value: midway between the roots; substitute to get y.
 - **Higher tier only:** complete the square. x² + 10x + 18 = (x + 5)² − 25 + 18 = (x + 5)² − 7, turning point (−5, −7).
 - a > 0 gives a minimum (U shape); a < 0 gives a maximum (∩ shape).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--13-gr-completing-square-turning-point.webp" width="900" height="1050" alt="The parabola y = x² − 8x + 13 is the graph of (x − 4)² moved down 3, with minimum (4, −3), y-intercept (0, 13) and roots 4 ± √3. (x − 4)² − 3 shows the turning point (4, −3) even when the roots are not whole numbers." loading="lazy">
+  <figcaption>(x − 4)² − 3 shows the turning point (4, −3) even when the roots are not whole numbers.</figcaption>
+</figure>
+
 
 ## A12: recognise the shape
 
@@ -88,6 +105,22 @@ For full explanations and longer worked examples, use the [Graphs study guide](/
 | y = −f(x) | (a, −b) |
 | y = f(−x) | (−a, b) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--11-gr-graph-transformations.webp" width="900" height="1140" alt="Four graphs show y = f(x) dashed through (2, 4) and its image: f(x − 3) moves right 3, f(x) + 2 moves up 2, −f(x) reflects in the x-axis and f(−x) reflects in the y-axis. The change inside the bracket moves the graph the opposite way to the sign; outside it works as written." loading="lazy">
+  <figcaption>The change inside the bracket moves the graph the opposite way to the sign; outside it works as written.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--15-gr-area-gradient-curve.webp" width="900" height="1070" alt="A speed-time curve through (0,0), (2,7), (4,12), (6,15), (8,16) with four trapezia of areas 7, 19, 27, 31 totalling 84 m, and the tangent at t = 4 with gradient 2 m/s². Area under the curve is distance (underestimated by trapezia on a concave curve); the tangent gradient is the acceleration." loading="lazy">
+  <figcaption>Area under the curve is distance (underestimated by trapezia on a concave curve); the tangent gradient is the acceleration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--10-area-under-graph-units.webp" width="900" height="1117" alt="Speed-time grid, one square = 1 s by 2 m/s. Four strips under the curve cover 42 squares, so area = 42 x 2 = 84 m, not 42 m; an underestimate." loading="lazy">
+  <figcaption>Convert grid squares to units using both axis scales: 42 squares x 2 m = 84 m.</figcaption>
+</figure>
+
+
 ## A14 and A15: real contexts, gradients and areas
 
 - **Graphical solution (A14):** draw the extra line y = (the other side) and read the x-values at the intersections.
@@ -102,6 +135,12 @@ For full explanations and longer worked examples, use the [Graphs study guide](/
 
 - Radius from x² + y² = r²: square-root the number. x² + y² = 49 has radius 7.
 - **Tangent at (a, b):** radius gradient b/a; tangent gradient −a/b; then find c through (a, b).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--12-gr-circle-tangent.webp" width="900" height="990" alt="The circle x² + y² = 20, the radius to (2, −4) with gradient −2 and the perpendicular tangent y = ½x − 5. The tangent is perpendicular to the radius, so its gradient is the negative reciprocal." loading="lazy">
+  <figcaption>The tangent is perpendicular to the radius, so its gradient is the negative reciprocal.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -173,6 +212,12 @@ Radius gradient 3/1 = 3, so tangent gradient -1/3
 11. 8 km in 20 minutes = 8 × 3 = **24 km/h**.
 12. Acceleration = 20 ÷ 10 = **2 m/s²**; distance = ½ × 10 × 20 = **100 m**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-graphs--08-line-through-two-points.webp" width="900" height="830" alt="Graph of the line through (-1, 7) and (3, -1) with a dashed gradient triangle (+4 across, -8 down). Gradient -2, intercept 5, equation y = -2x + 5, checked at (3, -1)." loading="lazy">
+  <figcaption>The line through (-1, 7) and (3, -1): gradient, intercept, equation and check.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Reading m from an equation such as 3x + 2y = 12 without rearranging first.
@@ -189,3 +234,14 @@ Radius gradient 3/1 = 3, so tangent gradient -1/3
 ## Official syllabus
 
 AQA GCSE Mathematics (8300) specification, for teaching from September 2015, exams from May/June 2017, version 1.0, published by AQA -- section 3.2.2 Graphs (A8 to A16).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+

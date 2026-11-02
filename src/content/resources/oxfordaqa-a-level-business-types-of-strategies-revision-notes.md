@@ -96,6 +96,17 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-types-of-st
 - **Economies vs diseconomies:** both are about **unit cost**, not total cost.
 - **Capacity vs output:** capacity is the maximum; output is what was actually made.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
+
 ## Innovation
 
 | Term | Meaning |

@@ -38,6 +38,22 @@ Vgrav = -G m / r         (gravitational potential, radial field)
 
 **Orbital motion**: gravity supplies the centripetal force, so GMm/r² = mv²/r, giving orbital speed v = √(GM/r) for a satellite in circular orbit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+
 ## Luminosity, flux and distance
 
 ```
@@ -47,6 +63,17 @@ F = L / (4 pi d^2)
 **Luminosity** is total power emitted; **radiant flux** is power received per unit area. Confusing the two is the commonest error in the topic.
 
 **Standard candles** have known luminosity, so measuring flux gives distance. Type Ia supernovae qualify because they detonate at a fixed critical mass and so reach a consistent peak luminosity. For relatively close stars, **trigonometric parallax** — the apparent shift in a star's position against distant background stars as Earth orbits the Sun — provides an independent distance measurement, useful for calibrating standard candles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
 
 ## Stellar temperature and size
 
@@ -67,6 +94,17 @@ lambda_max = (2.898 x 10^-3) / T = (2.898 x 10^-3) / 5800 = 5.00 x 10^-7 m
 
 500 nm, in the visible spectrum — consistent with a Sun-like star.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-astrophysics-revision-notes--01-wien-then-stefan.webp" width="900" height="1020" alt="A two-step method. Step 1, Wien: a star whose spectrum peaks at 500 nanometres has temperature about 5800 kelvin, from lambda max times T equals 2.898 times ten to the minus three metre kelvin. Step 2, Stefan: with the luminosity 3.8 times ten to the 26 watts and that temperature, L equals 4 pi r squared sigma T to the fourth gives a radius of about 6.9 times ten to the 8 metres. Starting with Stefan fails because both r and T are unknown. A small bar chart shows that doubling T at fixed radius multiplies luminosity by 16." loading="lazy">
+  <figcaption>Wien first, then Stefan: T from the peak, then r from L and T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
+
 ## The Hertzsprung–Russell diagram
 
 Luminosity (vertical) against temperature (horizontal), with **temperature increasing to the left** — the reversed axis is a standard trap.
@@ -74,6 +112,12 @@ Luminosity (vertical) against temperature (horizontal), with **temperature incre
 Regions: **main sequence** (diagonal band), **red giants** (top right — cool but luminous, so they must be very large), **white dwarfs** (bottom left — hot but dim, so very small).
 
 **The HR diagram's power is that position implies size.** A cool star that is nonetheless highly luminous must have an enormous surface area, which is what identifies it as a giant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
 
 ## Stellar evolution
 
@@ -84,6 +128,12 @@ Regions: **main sequence** (diagonal band), **red giants** (top right — cool b
 The fate is determined by mass. The **Chandrasekhar limit** (~1.4 solar masses) is the maximum mass of a white dwarf; above it, electron degeneracy pressure cannot resist gravity and collapse continues.
 
 **Main-sequence lifetime is shorter for more massive stars**, despite their greater fuel supply, because luminosity rises far faster than mass — they burn through it disproportionately quickly, so a massive star's greater reserves are exhausted sooner rather than later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-astrophysics-revision-notes--02-mass-and-lifetime.webp" width="900" height="1180" alt="Bars compare a star of 10 solar masses with the Sun on a logarithmic scale. Its fuel is 10 times larger but its luminosity, taken illustratively as proportional to mass to the power 3.5, is about 3200 times larger, so its lifetime is about 316 times shorter. Lower bars give lifetimes taking the Sun as 10 billion years: 0.5 solar masses about 57 billion years, 1 solar mass 10 billion, 2 solar masses 1.8 billion, 10 solar masses about 32 million years." loading="lazy">
+  <figcaption>More fuel but a much higher burn rate means a shorter main-sequence life.</figcaption>
+</figure>
+
 
 ## Redshift and cosmology
 
@@ -106,6 +156,22 @@ Almost all galaxies are redshifted, and redshift increases with distance, so the
 3. **Hydrogen and helium abundances** → match the ratio predicted by Big Bang nucleosynthesis.
 
 **Dark matter** is inferred from galactic rotation curves — outer stars orbit faster than visible mass can account for, implying unseen mass exerting additional gravitational pull. **Dark energy** is inferred from supernova observations showing the expansion is **accelerating** rather than slowing under gravity's pull, as would otherwise be expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-astrophysics-revision-notes--03-rotation-curve.webp" width="900" height="1130" alt="A graph of orbital speed against distance from the galactic centre. The dashed line, expected from visible matter alone, peaks at about 150 kilometres per second and then falls with distance. The solid line, the observed speeds, stays roughly flat at about 200 kilometres per second out to 30 kiloparsecs. Below, a galaxy disc is surrounded by a dashed halo of unseen mass, inferred to provide the extra gravitational pull. Curves are illustrative, computed from a simple disc plus halo model." loading="lazy">
+  <figcaption>Flat rotation curves imply unseen mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-astrophysics-revision-notes--04-cmb-spectrum.webp" width="900" height="910" alt="A black-body spectrum for a temperature of 2.725 kelvin plotted against wavelength from 0 to 5 millimetres. It peaks at 1.06 millimetres, in the microwave region, which Wien's law confirms: 2.898 times ten to the minus 3 divided by 2.725 gives 1.06 millimetres. This is the cooled remnant of the hot early universe, evidence for the Big Bang." loading="lazy">
+  <figcaption>The CMB is a 2.7 K black-body spectrum peaking at 1.06 mm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-astrophysics-revision-notes--05-expansion-no-centre.webp" width="900" height="970" alt="Two rows of five galaxies, A to E, drawn before (dashed) and after space has stretched by half again. Seen from galaxy A, the others move away with arrows growing in proportion to their distance. Seen from galaxy C, the same pattern appears in both directions, with equal arrows for galaxies at equal distances. Every galaxy sees the others recede in proportion to distance, so the redshift evidence does not put us at the centre of the universe." loading="lazy">
+  <figcaption>Every galaxy sees the same pattern of recession.</figcaption>
+</figure>
+
 
 ## Exam traps
 

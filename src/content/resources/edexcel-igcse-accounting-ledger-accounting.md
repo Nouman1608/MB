@@ -49,6 +49,12 @@ A transaction is first written in a book of original entry, such as a day book o
 
 A cash sale has no customer account, because nobody owes the business anything. It is recorded only in the nominal ledger. The total of all the individual balances in the receivables ledger is what a trade receivables control account checks (Topic 3, section 2). The same applies to payables.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
+  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
+</figure>
+
+
 ## Double entry principles (2.3b)
 
 Every transaction has two effects. You **debit** one account (left-hand side) and **credit** another (right-hand side) with the same amount. The side depends on the type of account and on whether it is increasing or decreasing.
@@ -68,6 +74,17 @@ Use two questions for every transaction.
 2. Is each one increasing or decreasing, so which side does it go?
 
 Bank and cash are assets. Money coming in is a debit and money going out is a credit. A customer owes you, so the customer account is an asset: a credit sale debits the customer and a payment from the customer credits it. A supplier is owed money, so the supplier account is a liability: a credit purchase credits the supplier and a payment to the supplier debits it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--01-ledger-which-side.webp" width="900" height="816" alt="Two columns show which account types increase on the debit side (assets, expenses, drawings) and which on the credit side (liabilities, capital, income), with examples. A note says a customer is an asset debited when it owes the business and a supplier is a liability credited when the business owes it." loading="lazy">
+  <figcaption>Debit increases assets, expenses and drawings; credit increases liabilities, capital and income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--04-ledger-customer-supplier.webp" width="900" height="1060" alt="Hina Caterers (customer, receivables ledger) is debited 4,800 and credited 400 and 2,400, leaving 2,000 Dr brought down. Bashir Metals (supplier, payables ledger) is credited 6,500 and debited 500 and 3,000, leaving 3,000 Cr brought down." loading="lazy">
+  <figcaption>A customer account grows on the debit side and a supplier account on the credit side.</figcaption>
+</figure>
+
 
 ## Layout of a ledger account
 
@@ -145,6 +162,12 @@ The remaining nominal accounts each need no balancing, because they have entries
 
 Check your work: every amount in the analysis was entered once as a debit and once as a credit, so the debit entries and the credit entries both total 72,500.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--02-ledger-kiran-entries.webp" width="900" height="1028" alt="Thirteen May transactions are shown as the account debited, an arrow, the account credited and the amount. The debits and the credits each total 72,500." loading="lazy">
+  <figcaption>Each of Kiran's thirteen transactions is entered once as a debit and once as a credit, so both totals are 72,500.</figcaption>
+</figure>
+
+
 ## Balancing an account
 
 1. Add up each side separately.
@@ -153,6 +176,17 @@ Check your work: every amount in the analysis was entered once as a debit and on
 4. Bring the balance down on the opposite side, dated the next day, as Balance b/d.
 
 A debit balance on Bank or Cash means money held. A debit balance on a customer account means the customer owes the business. A credit balance on a supplier account means the business owes the supplier. A credit balance on Bank means the account is overdrawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-ledger-accounting--03-ledger-balance-bank.webp" width="900" height="902" alt="Kiran's Bank account: debits of 40,000 and 2,400, credits of 9,000, 1,200, 1,000 and 3,000. The credit side takes Balance c/d 28,200 so both sides total 42,400, and 28,200 is brought down on the debit side as Balance b/d. Four numbered steps match the layout." loading="lazy">
+  <figcaption>Balancing Bank: add each side, level the totals, enter Balance c/d, bring it down as Balance b/d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--03-read-balances.webp" width="900" height="882" alt="Two bar charts in dollars. Kirtle Clay (supplier): bought 3,100, returned 300, paid 2,000, 800 still owed (credit balance). Garnet Row Hotel (customer): sold 2,250, returned 250, paid 1,500, 500 still owed to us (debit balance)." loading="lazy">
+  <figcaption>A credit balance on a supplier means we owe; a debit balance on a customer means they owe us.</figcaption>
+</figure>
+
 
 ## Worked example 2: the two-question method
 

@@ -62,6 +62,12 @@ Worked reminder (invented weavers). Demand L = 720 − 20W, supply L = 40W.
 
 Evaluation checklist: elastic or inelastic demand for labour; elasticity of demand for the product; share of workers unionised; possibility of capital replacing labour; productivity deals shifting MRP; insiders against outsiders; effect on the firm's costs and prices; countervailing power against a monopsony.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--06-union-wage-elasticity.webp" width="900" height="1210" alt="Two labour-market diagrams compare a union wage of 20 with flatter and steeper labour demand. The same union wage of 20 costs 100 jobs with flatter demand but 40 with steeper demand." loading="lazy">
+  <figcaption>The steeper the labour demand curve, the fewer jobs a union wage gain costs.</figcaption>
+</figure>
+
+
 ## National minimum wage: method in steps
 
 1. Find equilibrium. 2. Compare the NMW with it. 3. If the NMW is at or below equilibrium, nothing changes. 4. If above, employment is read from demand and excess supply from supply.
@@ -72,6 +78,17 @@ Worked reminder (invented). Demand L = 500 − 20W, supply L = 30W − 100.
 - Jobs lost = 40, which is −15.4%. Wage +16.7%. Elasticity = −0.92.
 
 Evaluation: size of the NMW relative to equilibrium; elasticity of labour demand; whether low-paid workers gain on average; effects on productivity, spending and the cost to firms; impact on unemployment, youth workers and small firms; enforcement and compliance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--01-cafe-minimum-wage.webp" width="900" height="1010" alt="Labour market graph for cafe staff with demand L = 800 - 30W and supply L = 50W - 400, equilibrium wage 15 and 350 workers. A minimum wage of 12 is below equilibrium and changes nothing. A minimum wage of 18 cuts jobs to 260 and raises labour supplied to 500, an excess supply of 240 made up of 90 displaced workers and 150 new entrants." loading="lazy">
+  <figcaption>A minimum wage below equilibrium does nothing; one above it creates excess supply and lost jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Monopsony
 
@@ -96,6 +113,17 @@ Must-know: a NMW above the monopsony wage and up to the competitive wage raises 
 
 Evaluation: is the employer truly a monopsony; how mobile are workers; where is the NMW set; the same NMW in a competitive market costs jobs; unions may achieve a similar result through bargaining.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--07-monopsony-wage.webp" width="900" height="925" alt="Supply, marginal cost of labour and MRP show the monopsony employment and wage below the competitive outcome. Monopsony hires 400 at wage 6; competition hires 600 at wage 8." loading="lazy">
+  <figcaption>A monopsony hires where MC of labour equals MRP and pays the wage on the supply curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--08-monopsony-minimum-wage.webp" width="900" height="935" alt="Graph of employment against the minimum wage rising to 600 at 8 and falling below 400 above 10. Employment is 400, 600, 500, 400 and 200 as the minimum rises." loading="lazy">
+  <figcaption>In a monopsony a minimum wage can raise employment, until it is set too high.</figcaption>
+</figure>
+
+
 ## Wage differentials
 
 Why gaps exist:
@@ -106,6 +134,17 @@ Why gaps exist:
 - **Imperfections:** unions, discrimination, immobility and poor information.
 
 Worked reminder: a fall in the supply of an occupation raises its wage from 24 to 36, a 50% rise. Its gap over every other occupation widens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--09-wage-differentials.webp" width="900" height="1120" alt="Two labour markets show equilibrium wages of 48 and 24 and the effect of reduced technician supply. Technicians earn 48 and helpers 24; longer training lifts technicians to 60." loading="lazy">
+  <figcaption>Demand (MRP) and supply explain why one occupation pays twice another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
 
 ## Transfer earnings and economic rent
 
@@ -126,6 +165,22 @@ Factors:
 | Highly specific skill | Low transfer earnings, more rent |
 | Higher demand | Higher wage, more rent |
 | Greater mobility | Less rent |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--10-transfer-earnings-rent.webp" width="900" height="1145" alt="Areas under and above supply show transfer earnings and rent, with three mini diagrams for different supply elasticities. Transfer earnings are 4,000 and rent 2,000; supply elasticity changes the rent share." loading="lazy">
+  <figcaption>Economic rent is the part of earnings above transfer earnings; less elastic supply means more rent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--02-coach-economic-rent.webp" width="900" height="980" alt="Two bars: the next best job pays 55; the coach is paid 90, which is 55 transfer earnings plus 35 economic rent, 38.9 percent of earnings." loading="lazy">
+  <figcaption>The coach's pay of 90 splits into 55 transfer earnings and 35 economic rent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer--03-rent-demand-rise.webp" width="900" height="960" alt="Supply W = 10 + 0.1L with demand rising from D1 to D2. Equilibrium moves from 200 workers at wage 30 to 250 workers at wage 35. Economic rent rises from 2,000 to 3,125 and transfer earnings from 4,000 to 5,625." loading="lazy">
+  <figcaption>A rise in demand lifts the wage and employment, raising economic rent from 2,000 to 3,125.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to rehearse
 

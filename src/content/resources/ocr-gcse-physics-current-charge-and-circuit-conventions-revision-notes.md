@@ -47,6 +47,12 @@ Missing either one means no current. An open switch, a break in a wire or an ins
 
 **Must-know distinction:** electrons move opposite to the arrows on a circuit diagram. The arrows show conventional current.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--11-conditions-for-flow.webp" width="900" height="1060" alt="A lit lamp in a closed loop with a cell has current. The same loop with an open switch has none. A closed loop with no cell has none." loading="lazy">
+  <figcaption>Charge needs a source of p.d. and a closed circuit.</figcaption>
+</figure>
+
+
 ## P3.1f: same current round a single loop
 
 - One path, no branches: every point carries an equal current.
@@ -58,6 +64,17 @@ Method in steps for a question about ammeter readings in a loop:
 1. Check there are no branches.
 2. State that the current is equal everywhere in the loop.
 3. Give the same value for each ammeter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--03-meters-and-current-direction.webp" width="900" height="900" alt="A single loop with a cell, an ammeter in series and a lamp. A voltmeter is on a branch across the lamp. Copper arrows show conventional current clockwise from + to -; teal electron symbols move the opposite way." loading="lazy">
+  <figcaption>Ammeters go in series, voltmeters across a component; electrons move opposite to conventional current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--12-three-ammeters-one-loop.webp" width="900" height="1030" alt="A loop with a cell, lamp, motor and closed switch. Three ammeters, between cell and lamp, lamp and motor, and motor and cell, all read 0.24 A." loading="lazy">
+  <figcaption>One path, no branches: equal current everywhere.</figcaption>
+</figure>
+
 
 ## P3.1g: Q = I t
 
@@ -127,6 +144,12 @@ Q = 0.280 × 50 = 14 C
 
 Reminder of why: an ammeter has to have the current pass through it. A voltmeter compares the two sides of a component.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## P3.2b: symbols and conventions
 
 | Component | Symbol in words |
@@ -145,6 +168,17 @@ Reminder of why: an ammeter has to have the current pass through it. A voltmeter
 
 Draw with a ruler, use right angles at corners and leave no gaps in the loop (unless a switch is meant to be open).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--14-positive-terminal-symbols.webp" width="900" height="940" alt="A cell has a long thin positive line and short thick negative line; a battery is cells end to end; a d.c. supply has + and - terminals. Conventional current leaves +." loading="lazy">
+  <figcaption>Conventional current leaves the positive terminal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+
 ## Fast links between the ideas
 
 - Current needs a closed loop, so a break anywhere in a single loop stops the current everywhere in it.
@@ -155,6 +189,12 @@ Draw with a ruler, use right angles at corners and leave no gaps in the loop (un
 ### Worked reminder: parallel branches
 
 A supply current of 1.00 A splits into branch currents of 0.60 A and 0.40 A. In 20 s the branches carry 0.60 × 20 = 12 C and 0.40 × 20 = 8 C. The supply provides 1.00 × 20 = 20 C, and 12 + 8 = 20 C. The numbers agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--13-parallel-charge-example.webp" width="900" height="900" alt="Supply current 0.80 A splits into 0.50 A through lamp X and 0.30 A through lamp Y. In 40 s the charge is 32 C = 20 C + 12 C." loading="lazy">
+  <figcaption>Branch currents and charges add up to the supply values.</figcaption>
+</figure>
+
 
 ### Worked reminder: two-step question
 
@@ -215,6 +255,12 @@ t = Q / I = 450 / 0.50 = 900 s
 - Drawing a circuit with a gap that was not meant to be there, so no current could flow.
 
 An examiner reading an explanation is looking for the physics idea written in a full sentence. A bare "it is a series circuit" gains little; "there is only one path, so the current is the same at each point" is the idea the question is after.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--10-q-equals-it-examples.webp" width="900" height="1020" alt="Three examples: 0.35 A for 2.0 min = 42 C; 540 C in 15 min = 0.60 A; 250 mA with 90 C takes 360 s = 6.0 min. Convert minutes to seconds and mA to A first." loading="lazy">
+  <figcaption>Convert time to seconds and mA to A before using Q = I t.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

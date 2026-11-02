@@ -59,6 +59,12 @@ enzyme, using a continuous sampling technique with iodine reagent to
 test for starch every 30 seconds, with temperature controlled by a
 water bath or electric heater.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The cells-tissues-organs-organ systems hierarchy in 4.2.1 is simple to
@@ -81,6 +87,17 @@ iodine turns from orange-brown to blue-black in the presence of
 starch, which is why it's used to test whether starch has been fully
 digested over time in required practical 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+
+
 ## Worked example: explaining enzyme specificity
 
 A question asks candidates to explain why amylase does not break down
@@ -100,6 +117,17 @@ Explanation:  a protein molecule has a different shape from starch, so
 This concept-application-explanation structure works for any "explain
 why enzyme X does/doesn't act on substrate Y" question in this
 content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--02-specificity.webp" width="900" height="780" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
+  <figcaption>Only a substrate with a complementary shape fits the active site.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
 
 ## Key terms to define precisely
 

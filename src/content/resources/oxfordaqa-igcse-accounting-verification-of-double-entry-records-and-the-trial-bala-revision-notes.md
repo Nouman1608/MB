@@ -67,6 +67,42 @@ Balances: kiln 8,200; inventory at 1 January 2,300; trade receivables 1,950; pur
 | Debit | 8,200 + 2,300 + 1,950 + 9,600 + 3,000 + 4,500 | 29,550 |
 | Credit | 21,400 + 1,850 + 6,300 | 29,550 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--07-mp16-tb-sides.webp" width="900" height="990" alt="Two equal bars of 118,500 dollars. Debits: assets and opening inventory, purchases and returns inwards, expenses and drawings. Credits: sales, capital, liabilities and returns outwards." loading="lazy">
+  <figcaption>The nature of each account decides its side, and the two totals match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--08-mp16-tb-correct.webp" width="900" height="956" alt="The Orsolo Tutoring gap of 3,160 closes as the telephone, payables and insurance slips are fixed, ending at 52,000 in both columns." loading="lazy">
+  <figcaption>Fixing each slip in turn closes the gap to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--09-mp16-tb-revealed.webp" width="900" height="1126" alt="Four balance scales show which column is higher for addition, partial omission, transposition and unequal posting. A panel contrasts omission (totals agree) with partial omission (credit higher by 1,500)." loading="lazy">
+  <figcaption>Revealed errors leave one column higher; omission does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--08-un16-tb-account-natures.webp" width="900" height="1116" alt="The 17 Brelow Candle Works balances sorted by nature: assets, inventory and trading, expenses and drawings on the debit side; income, returns outwards, liabilities and capital on the credit side. Each column totals 118,500 dollars." loading="lazy">
+  <figcaption>Every account goes to the side set by its nature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--02-difference-clues.webp" width="900" height="781" alt="Swapping the middle digits of 3,470 to 3,740 makes a difference of 270, which is 9 times 30. Four clues pair the nature of a trial balance difference with the likely error: a round figure with addition, an amount equal to one entry with partial omission, divisible by 9 with transposition, and the gap between two amounts with unequal posting." loading="lazy">
+  <figcaption>The size of a trial balance difference points to the type of error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--06-prime-entry-trial-balance.webp" width="900" height="1250" alt="Six books of prime entry feed ledger accounts, which feed a trial balance. The example trial balance has debits of 12,000 (cash, equipment, stock) equal to credits of 12,000 (capital, creditors). Equal totals do not prove the absence of errors." loading="lazy">
+  <figcaption>Transactions flow from books of prime entry to ledgers to a trial balance that checks debits equal credits.</figcaption>
+</figure>
+
+
 ## Method: when the totals do not agree
 
 1. Add both columns again.
@@ -150,6 +186,12 @@ Ask these questions in order.
 | Easier than checking every account one by one | Agreement does not mean the accounts are free from error |
 
 When asked to explain the use and the limit, state both and give one example of an undetected error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

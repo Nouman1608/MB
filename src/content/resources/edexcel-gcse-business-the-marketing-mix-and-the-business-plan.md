@@ -60,6 +60,12 @@ Promotion is how the business informs and persuades customers. It makes people a
 
 Place is how and where the product reaches the customer: a shop, a market stall, a website, delivery to the door, or a combination. It matters because customers must be able to obtain the product easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 2. How the elements work together (1.4.3)
 
 The four elements are not chosen separately. A change to one usually forces a change to another. A premium product needs a matching price, a place where premium buyers shop and promotion in the same style. Balancing the mix means making the four choices fit each other and the target market.
@@ -92,6 +98,17 @@ Wrenchwell Bike Repairs is a new business whose owner repairs bicycles at custom
 - Price: £35 per repair. This is a convenience premium, justified by the same-visit fix and the saving of the customer's time.
 
 The four choices fit one another because the price is set at a level that suits a convenience service. Cutting the price below the shop's would not suit a convenience service. The mix is balanced against the competitive environment: the rival is slow, so Wrenchwell competes on convenience, not on price alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--10-place-physical-digital.webp" width="900" height="830" alt="Two columns. Physical channels (shop, stall, delivery) let customers touch the goods but cost rent. Digital channels (website, app, online marketplace) reach customers far away and are open at all hours but customers cannot touch the goods." loading="lazy">
+  <figcaption>Place can be a physical or a digital channel, and each has a trade-off.</figcaption>
+</figure>
+
 
 ## 3. The role of a business plan (1.4.4)
 
@@ -133,6 +150,22 @@ Cash flow is not the same as profit. The owner starts with £2,000 of savings in
 
 Each opening balance equals the previous closing balance. The business never runs out of cash, but the balance falls to £570 in month 1. A plan that shows this warns the owner that a smaller starting balance, or a weaker first month, could be a problem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-the-marketing-mix-and-the-business-plan--01-wrenchwell-profit.webp" width="900" height="870" alt="Horizontal waterfall bars. Revenue is 4,200 pounds (35 x 120). Variable costs of 1,320 and fixed costs of 1,850 are taken off, leaving a profit of 1,030 pounds per month." loading="lazy">
+  <figcaption>Wrenchwell earns £1,030 profit in a normal month of 120 repairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-the-marketing-mix-and-the-business-plan--02-wrenchwell-cash-balance.webp" width="900" height="840" alt="A line chart of the closing bank balance: 2,000 pounds at the start, 570 after month 1 (net -1,430), 1,120 after month 2 (+550) and 2,150 after month 3 (+1,030)." loading="lazy">
+  <figcaption>The balance dips to £570 in month 1 because of the tools, then recovers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
+
 ## 4. Why plan: minimising risk and obtaining finance (1.4.4)
 
 ### Minimising risk
@@ -153,6 +186,12 @@ People who might lend or invest, such as a bank, want evidence that the owner ha
 ### Worked example 4: using a plan to support a request
 
 Suppose Wrenchwell's owner needs £8,500 in total for the van deposit, tools and early running costs, and has £5,000 of her own savings. The gap is £3,500, which she may seek from a lender. The plan supports the request by showing demand, a profit of £1,030 in a normal month and a cash-flow forecast that stays positive. A cautious lender would still check that the first months are realistic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-the-marketing-mix-and-the-business-plan--03-wrenchwell-funding-gap.webp" width="900" height="880" alt="A bar of 8,500 pounds needed is split into 5,000 pounds of savings and a 3,500 pound gap to seek from a lender. Three boxes show what the plan tells the lender: demand exists, profit of 1,030 pounds in a normal month, and cash that stays positive." loading="lazy">
+  <figcaption>£8,500 needed less £5,000 of savings leaves a £3,500 gap; the plan supports asking a lender.</figcaption>
+</figure>
+
 
 ## Common errors
 

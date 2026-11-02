@@ -73,6 +73,12 @@ The specification says the double angle formulae, including all three forms of c
 2. Factorise. Never divide by a function that may be zero.
 3. List all solutions in the interval for each factor, and check the interval.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--07-sin-sum-proof.webp" width="900" height="880" alt="Triangle XYZ is split by a perpendicular ZW into angles A and B. Its area is ½pq sin(A+B) and also ½ph sin A + ½qh sin B; with h = q cos B = p cos A this gives sin(A+B) = sin A cos B + cos A sin B." loading="lazy">
+  <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Exact value.** sin 15° = sin(45° − 30°) = (√2/2)(√3/2) − (√2/2)(1/2) = (√6 − √2)/4.
@@ -128,6 +134,12 @@ Always write the interval for the whole angle, such as x + α, before you list a
 | An identity and an equation | An identity (≡) holds for every x. An equation holds only for some values |
 | Principal value and all solutions | The inverse function gives one angle. The shifted interval gives the full set |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--05-arcsin-sin-trap.webp" width="900" height="910" alt="The zigzag graph of arcsin(sin x) against the line y = x. They agree only for x between −π/2 and π/2. At x = 5π/6 the value is π/6." loading="lazy">
+  <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Expand cos(A + B).
@@ -166,6 +178,22 @@ Always write the interval for the whole angle, such as x + α, before you list a
 - Solving R-form equations without listing the second solution from the symmetry of sine or cosine.
 - Missing the extra solutions when the interval is longer than one full turn, for instance 0 ≤ x ≤ 3π.
 - Integrating cos 2x as sin 2x without the factor 1/2, or leaving out the constant of integration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
+  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
+  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

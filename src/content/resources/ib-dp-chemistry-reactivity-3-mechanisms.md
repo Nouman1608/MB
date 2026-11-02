@@ -68,6 +68,27 @@ chemistry, including the formation of transition-element complexes
 (identifying coordination bonds is standard level content, in
 Structure 2.2.3; transition-element complexes are HL)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--01-proton-transfer.webp" width="900" height="910" alt="HCl, the acid, passes an H plus to a water molecule, the base, shown by a curved arrow. The acid becomes chloride, its conjugate base; water becomes H3O plus, its conjugate acid." loading="lazy">
+  <figcaption>An acid donates H+ to a base, producing a conjugate base and a conjugate acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--03-weak-acid-titration.webp" width="900" height="760" alt="Computed pH curve for 25.0 cm3 of 0.100 M ethanoic acid titrated with 0.100 M NaOH. A shaded buffer region lies before the steep rise; pH equals pKa at half-equivalence and is above 7 at equivalence." loading="lazy">
+  <figcaption>At HL, the weak acid curve shows a buffer region, pH = pKa at half-equivalence and an equivalence pH above 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--08-lewis-acid-base.webp" width="900" height="930" alt="Ammonia, the Lewis base, donates its nitrogen lone pair to boron in BF3, the Lewis acid, using a curly arrow. A coordinate bond forms and nitrogen and boron each have four bonds in H3N-BF3." loading="lazy">
+  <figcaption>A Lewis base donates an electron pair and a Lewis acid accepts it, forming a coordinate bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--09-complex-ion.webp" width="900" height="910" alt="A Cu2 plus ion at the centre with six water ligands. Arrows from each water point to the ion, showing donated lone pairs. Water is the Lewis base, copper the Lewis acid, and the coordination number is 6." loading="lazy">
+  <figcaption>In a complex ion, ligands (Lewis bases) donate pairs to the metal ion (Lewis acid).</figcaption>
+</figure>
+
+
 ## How to approach it
 
 For 3.1, keep two entirely separate scales distinct: concentrated
@@ -89,6 +110,17 @@ specifically, correctly identifying the functional group involved
 since the mechanism follows directly from what functional group is
 present.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--02-strong-weak-conc.webp" width="900" height="1000" alt="Four beakers of acid HA. Strong acid: every HA is split into H plus and A minus, whether dilute (6 units) or concentrated (12). Weak acid: most HA stays whole, with only 1 of 6 or 2 of 12 split." loading="lazy">
+  <figcaption>Concentration is how much acid is dissolved; strength is the fraction that dissociates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--07-arrow-types.webp" width="900" height="1110" alt="Top: two half-headed arrows each move one electron when Cl-Cl splits into two chlorine radicals. Bottom: a hydroxide lone pair attacks the delta-plus carbon of CH3Br with a full curly arrow, and a second full arrow moves the C-Br bond pair onto bromine, giving HOCH3 and Br minus." loading="lazy">
+  <figcaption>A half-headed arrow moves one electron; a full curly arrow moves an electron pair from a bond or lone pair.</figcaption>
+</figure>
+
+
 ## Worked example: a redox half-equation pair
 
 Zinc reacts with copper(II) sulfate solution.
@@ -108,6 +140,12 @@ Separating the two half-equations before combining them is the
 standard method for balancing any redox equation, and is what allows
 the electron count to be checked and cancelled explicitly rather than
 balanced by inspection alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--04-half-equations.webp" width="900" height="870" alt="Zinc becomes Zn2 plus and releases two electrons (oxidation). The electrons pass to Cu2 plus, which becomes copper (reduction). Adding the half-equations cancels the electrons: Zn + Cu2+ gives Zn2+ + Cu." loading="lazy">
+  <figcaption>Separate half-equations make the electron transfer explicit before they are added.</figcaption>
+</figure>
+
 
 ## Distinguishing the three types of electrochemical cell
 
@@ -129,6 +167,17 @@ spontaneous reaction under standard conditions, which is the
 calculation that determines whether a described cell is behaving as a
 voltaic cell or would require external current to run as an
 electrolytic one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--05-three-cells.webp" width="900" height="970" alt="Three diagrams. A voltaic cell has two half-cells with a salt bridge and lamp; a spontaneous reaction gives electricity. An electrolytic cell uses a power supply to force a reaction. A fuel cell is fed hydrogen and oxygen continuously for a steady current." loading="lazy">
+  <figcaption>Voltaic cells release energy, electrolytic cells need it supplied, and fuel cells run on a continuous fuel supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--06-cell-potential.webp" width="900" height="800" alt="A scale of standard electrode potentials: Cu2+/Cu +0.34 V, the standard hydrogen electrode 0.00 V, Zn2+/Zn minus 0.76 V. The gap is E cell +1.10 V, positive, so the reaction is spontaneous." loading="lazy">
+  <figcaption>At HL a positive E cell, here +1.10 V, predicts a spontaneous reaction.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

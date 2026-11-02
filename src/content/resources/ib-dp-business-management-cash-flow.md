@@ -69,6 +69,17 @@ Net cash flow = 30,000 - 45,000 = **-15,000**.
 
 So a profit of 10,500 sits beside a cash outflow of 15,000. A profit-to-cash bridge (a teaching extension, going a little beyond the guide's wording) shows why: start with profit 10,500, add back depreciation 1,500 (no cash left), take off 18,000 because receivables rose (48,000 earned but only 30,000 received), and take off the 9,000 machine. That gives -15,000. The business is profitable and still short of cash, which is what the guide's inquiry statement on profitable businesses facing insolvency points to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--06-profit-to-cash.webp" width="900" height="790" alt="Waterfall from profit 10,500: add back depreciation 1,500, subtract 18,000 because receivables rose (48,000 earned, 30,000 received), subtract 9,000 for the machine. Net cash flow is -15,000." loading="lazy">
+  <figcaption>A profitable month can still be a cash outflow because of credit sales, non-cash costs and asset purchases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+
 ## Working capital
 
 **Working capital** is the pool of funds that keeps day-to-day trading going. The standard form is:
@@ -88,6 +99,12 @@ Current assets: stock 26,000; trade receivables 54,000; cash 3,000. Current liab
 
 Working capital is a cash-style cushion on paper, but 54,000 of it is money owed by customers, not money in the bank.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--07-working-capital.webp" width="900" height="1030" alt="Current assets 83,000 (cash 3,000, receivables 54,000, stock 26,000) against current liabilities 51,000 (tax 8,000, overdraft 12,000, payables 31,000). Working capital is 32,000; current ratio 1.63; acid test 1.12." loading="lazy">
+  <figcaption>Working capital is current assets minus current liabilities; the acid test removes stock.</figcaption>
+</figure>
+
+
 ## Liquidity position
 
 **Liquidity** is how readily a business can find the cash to settle debts when they come due within the year. A business's **liquidity position** is how well placed it is to do that. Three measures help you judge it. Two come from 3.5, where the guide gives the formulae:
@@ -104,6 +121,12 @@ Continuing example 2:
 - Acid test ratio = (83,000 - 26,000) / 51,000 = 57,000 / 51,000 = **1.12**.
 
 The third measure is the cash balance itself and the forecast. Ferris Hollow has only 3,000 cash against 12,000 overdraft and 31,000 owed to suppliers. The ratios look healthy because receivables are large. If customers pay late, liquidity is weaker than the ratios suggest. A fair judgement says the ratios are acceptable, but the position depends on collecting 54,000 on time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
 
 ## Cash flow forecasts
 
@@ -142,6 +165,22 @@ Reading it: the business is overdrawn at the end of April and May, by 11,800 and
 
 Uses of a forecast: it shows when borrowing is needed, supports a loan application, and lets managers test a change before they make it. Its limits: it rests on assumptions about sales and payment dates, and weather, strikes or a late-paying customer can make it wrong. A forecast is a plan, not a record.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--08-buy-or-lease.webp" width="900" height="1010" alt="Closing balances for March to June. Buying gives 1,300, -11,800, -3,700, 11,400 (overdrawn in April and May). Leasing at 1,100 a month gives 1,300, 3,100, 10,100, 24,100, never overdrawn." loading="lazy">
+  <figcaption>Leasing avoids the large April payment and the overdraft, though it may cost more over many years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--04-forecast-layout.webp" width="900" height="900" alt="Table of opening balance, inflows, outflows, net cash flow and closing balance for March to June. Closing balances 1,300, -11,800, -3,700, 11,400; each closing balance is the next opening balance. April outflows include 16,000 for kayaks." loading="lazy">
+  <figcaption>A forecast chains month to month, and one large purchase can make a profitable business overdrawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Investment, profit and cash flow
 
 **Investment** here means spending on assets (equipment, premises, stock) to earn returns later. The three measures move at different times.
@@ -151,6 +190,12 @@ Uses of a forecast: it shows when borrowing is needed, supports a loan applicati
 - Later, if the investment works, it raises sales revenue, profit and cash inflows.
 
 A business can therefore show rising profit and still be short of cash in the year it invests. In example 3, buying the kayaks cost 16,000 of cash in April. If they last four years and the yearly depreciation is 4,000, the profit effect in the year is 4,000, not 16,000. Investment in stock also ties up working capital before anything is sold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--05-invest-cash-profit.webp" width="900" height="850" alt="One bar shows 16,000 of cash leaving in April; four bars of 4,000 show the yearly depreciation charge that reduces profit. In the year of buying, cash falls by 16,000 but profit by only 4,000." loading="lazy">
+  <figcaption>Cash falls when paid, profit only by the yearly depreciation charge.</figcaption>
+</figure>
+
 
 ## Strategies for dealing with cash flow problems
 
@@ -172,6 +217,12 @@ Choose the strategy that fits the cause. This is the AO3 skill. The guide names 
 For Mistral Bay, leasing the kayaks at 1,100 a month from April would change the closing balances to 1,300, 3,100, 10,100 and 24,100, so the business is never overdrawn. Over many years the leasing could cost more than buying, and that trade-off is the evaluation point.
 
 If the cause is losses rather than timing, short-term fixes only delay the problem. Say so.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--06-cash-fixes.webp" width="900" height="750" alt="A cash tank with four groups: bring cash in sooner (chase receivables, early-payment discount, debt factoring), release tied-up cash (sell and lease back, reduce stock), top up from outside (overdraft, short-term loan), slow cash out (delay supplier payments, lease, cut costs, delay investment)." loading="lazy">
+  <figcaption>Choose the strategy that fits the cause; if the cause is losses, quick fixes only delay the problem.</figcaption>
+</figure>
+
 
 ## Common errors
 

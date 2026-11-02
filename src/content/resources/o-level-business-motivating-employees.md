@@ -52,6 +52,12 @@ People work for several reasons:
 
 Different employees put these in different orders, and the order changes over a lifetime. A school leaver with rent to pay may focus on pay. An experienced manager on a good salary may care more about influence and challenge. This is why one method of motivation never works for everyone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--01-why-people-work.webp" width="900" height="950" alt="Five reasons to work (pay, security, social contact, status, satisfaction) with two columns showing a school leaver most focused on pay and an experienced manager on status and satisfaction. Illustrative: people order the reasons differently, so one method never works for everyone." loading="lazy">
+  <figcaption>People rank the reasons for working differently.</figcaption>
+</figure>
+
+
 ## Benefits of a well-motivated workforce
 
 The syllabus names three. Each has a standard measure.
@@ -75,6 +81,17 @@ Why does each improvement help the business? Higher productivity lowers the labo
 
 Do not assume motivation is the only cause. Output can also rise because of new machinery or a rise in demand. In a case study, say that motivation is a likely reason and point to evidence in the data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--01-lorrimer-before-after.webp" width="900" height="1020" alt="Paired bars for Lorrimer Print Works before and after changes: productivity 300 to 330 items per employee (+10%), absenteeism 5% to 3% of 1,100 available days, labour turnover 20% to 10%." loading="lazy">
+  <figcaption>The lesson’s Lorrimer numbers drawn as before and after bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--02-three-measures.webp" width="900" height="960" alt="Three fraction formulas: productivity = output / employees; absenteeism = days lost / days available x 100; labour turnover = leavers / average employed x 100, each with the Lorrimer after-figure (330, 3%, 10%)." loading="lazy">
+  <figcaption>The three formulas behind the benefits of motivation.</figcaption>
+</figure>
+
+
 ## Human needs and Maslow's hierarchy
 
 Maslow argued that people have needs arranged in five levels. A need that is already met stops motivating. The next level up then takes over.
@@ -90,6 +107,12 @@ Maslow argued that people have needs arranged in five levels. A need that is alr
 **How to use it.** Decide which level the employees are at, then choose a method that meets the next unmet need. Giving a pay rise to staff who already earn enough and now want recognition may achieve little.
 
 **Limits of the theory.** People do not always climb the levels in order. Someone may take a poorly paid job for the work itself. Needs also differ between people and cultures. A good answer uses Maslow as a guide, not as a rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
 
 ## Taylor
 
@@ -115,6 +138,17 @@ The practical message: a business must first get the hygiene factors acceptable,
 
 **Comparing the theories.** Taylor puts money first. Herzberg treats pay as mainly a hygiene factor. Maslow and Herzberg overlap: the lower Maslow levels resemble hygiene factors, and the higher levels resemble motivators. Taylor sits close to the lowest levels only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--03-maslow-herzberg-taylor.webp" width="900" height="810" alt="Maslow levels stacked, with Herzberg motivators beside the top two and hygiene factors beside the lower three (approximate), and Taylor beside the lowest levels only." loading="lazy">
+  <figcaption>Where Taylor, Herzberg and Maslow overlap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ## Financial methods of motivation
 
 | Method | What it is | Suits | Limits |
@@ -135,6 +169,22 @@ A shop assistant earns 11.50 per hour for a 40-hour week. A salesperson earns a 
 4. Profit pool: 10% × 180,000 = 18,000. Each share: 18,000 ÷ 36 = **500**.
 
 Check the units and the period in every pay question (per hour, per week, per month, per year).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--02-rotation-vs-enrichment.webp" width="900" height="940" alt="In job rotation an employee moves between Task A, B and C on a single level line, so the task changes but responsibility does not. In job enrichment three rising steps (task, plus decisions, plus challenge) show responsibility going up." loading="lazy">
+  <figcaption>Rotation changes the task; enrichment raises the level of responsibility.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--04-sandrick-pay.webp" width="900" height="1050" alt="Wage 11.50 x 40 = 460 a week; salary 1,400 + 3% x 42,000 (1,260) = 2,660; salary 1,400 + bonus 600 = 2,000; profit share 10% of 180,000 = 18,000 shared by 36 = 500 each." loading="lazy">
+  <figcaption>Sandrick Cycles pay calculations drawn as blocks and bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
 
 ## Non-financial methods of motivation
 
@@ -171,6 +221,12 @@ Pellingcote Care Home has 30 care assistants on a fixed hourly wage, close to th
 **Risk:** training costs money when profits are low, and only a few senior posts exist. Staff who do not get promoted may feel worse. The home should share the criteria openly and could offer small recognition awards for others.
 
 **Judgement:** the non-financial package is the better choice here because it matches the stated problem. A small pay rise may still be needed later if turnover stays high, since pay is a hygiene factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--05-pellingcote-recommend.webp" width="900" height="980" alt="Five steps (diagnose, choose, link, weigh, conclude) filled in for Pellingcote, with a need check showing pay met and belonging, esteem and growth unmet." loading="lazy">
+  <figcaption>The recommend-and-justify steps applied to Pellingcote.</figcaption>
+</figure>
+
 
 ## Common errors
 

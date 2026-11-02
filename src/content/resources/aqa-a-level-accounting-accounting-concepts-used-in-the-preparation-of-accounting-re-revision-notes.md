@@ -50,6 +50,12 @@ Course links: [AQA A-Level Accounting hub](/boards/aqa/a-level/accounting/) ·
 *when* (accruals, realisation), two tell you *whose* and *how* (business entity, duality), and three apply to
 the accounts as a whole (going concern, consistency, materiality).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## 3.5 Concepts applied to the named situations
 
 | Situation | Main concepts | What you do |
@@ -62,6 +68,12 @@ the accounts as a whole (going concern, consistency, materiality).
 | Recording transactions in ledger accounts | Duality, business entity, money measurement | Equal debit and credit; owner's items via capital or drawings |
 | Goods on sale or return | Realisation, prudence | Unaccepted goods out of revenue, into inventory at cost |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 ### Inventory at the lower of cost and NRV
@@ -73,6 +85,17 @@ the accounts as a whole (going concern, consistency, materiality).
 4. Add the item values
 5. Write-down = total cost - total value used
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
+  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
+</figure>
+
 
 ### Goods on sale or return at the year end
 
@@ -87,6 +110,12 @@ the accounts as a whole (going concern, consistency, materiality).
 Mark-up on cost: cost = selling price ÷ (1 + mark-up). Margin on selling price: cost = selling price ×
 (1 − margin).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--08-sale-or-return.webp" width="900" height="1010" alt="Goods with selling price 6,000 pounds and cost 4,000 are sent to a customer who has not accepted them by the year end. Revenue and trade receivables each fall by 6,000 and closing inventory rises by 4,000 at cost, so profit falls by 2,000, from 38,500 to 36,500." loading="lazy">
+  <figcaption>Until the customer accepts, goods on sale or return are inventory at cost, not revenue.</figcaption>
+</figure>
+
+
 ### Capital or revenue expenditure?
 
 | Capital (debit the asset account) | Revenue (income statement) |
@@ -97,6 +126,12 @@ Mark-up on cost: cost = selling price ÷ (1 + mark-up). Margin on selling price:
 | Modifications that make it fit for use | Annual service contracts |
 
 Immaterial items with a long life may still be expensed (materiality).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
 
 ### Correcting a draft profit
 
@@ -113,6 +148,12 @@ deductions clearly, starting from the draft profit, so that a slip in one figure
 own-figure credit for the corrected total. Remember the knock-on effects in the statement of financial position:
 private spending raises drawings, accrued expenses appear in other payables, and inventory write-downs and sale or
 return goods change the closing inventory figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

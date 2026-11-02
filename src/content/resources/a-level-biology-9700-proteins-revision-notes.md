@@ -57,6 +57,12 @@ Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) · C
 - **Bonds in a multi-chain protein**: chains of 50 and 30 amino acids give (50 − 1) + (30 − 1) = **78** peptide bonds, not 79.
 - **Direction**: in Ala–Ser, alanine keeps its free amine group and serine keeps its free carboxyl group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
+
 ## The four levels of structure (2.3.2)
 
 | Level | What it is | Held by |
@@ -69,6 +75,12 @@ Course hub: [Cambridge A Level Biology](/boards/cambridge/a-level/biology/) · C
 - **α-helix**: N–H of one amino acid bonds to C=O of the amino acid four places earlier; R groups point outwards.
 - **β-pleated sheet**: neighbouring lengths of chain lie side by side, hydrogen bonded backbone to backbone.
 - Primary structure decides everything else, because the R groups it places along the chain decide how the chain folds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
 
 ## Interactions that hold proteins in shape (2.3.3)
 
@@ -183,6 +195,12 @@ Why globular proteins dissolve: hydrophobic R groups point inwards, hydrophilic 
 - Saying haemoglobin has one haem group, or that the protein part (globin) binds oxygen.
 - Describing collagen as one helix, or forgetting the cross-links and staggered ends when explaining strength.
 - Stating a structural feature without the function it serves: the mark is usually for the link.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

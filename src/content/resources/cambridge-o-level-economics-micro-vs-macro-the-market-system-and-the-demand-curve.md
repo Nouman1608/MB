@@ -64,6 +64,12 @@ Governments appear on both sides. A government that sets the price of one medici
 3. A household chooses to spend less on takeaway meals. Micro: one household.
 4. A government changes income tax to affect spending across the whole country. Macro: whole-economy aim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve--03-micro-or-macro.webp" width="900" height="895" alt="Two panels. Microeconomics studies one household, firm or market, shown by a house, a shop and a loaf. Macroeconomics studies the whole economy, shown by a circle holding a house, shop and factory. Four examples are sorted: a bakery raising its loaf price and a household buying fewer takeaways are micro; Country A total output rising and income tax changed to steer total spending are macro. A government appears on both sides: setting the price of one medicine is micro, changing tax to affect total spending is macro. The test is the scale of the question, not who asks it." loading="lazy">
+  <figcaption>Micro studies one household, firm or market and macro the whole economy; the four lesson examples are sorted, and a government can act on either side, so the test is the scale of the question.</figcaption>
+</figure>
+
+
 ## 2.2 The role of markets in allocating resources
 
 ### 2.2.1 How a market system works
@@ -91,6 +97,17 @@ The equilibrium price is 2.00 cu and the equilibrium quantity is 12 loaves.
 **At 1.50 cu** the chain runs the other way. Buyers want 16 loaves but only 6 are offered. Some buyers cannot get a loaf and will pay more. The price rises, which draws in more supply and discourages some buyers, until it reaches 2.00 cu.
 
 On a diagram, put price up the side and quantity along the bottom. Equilibrium is where the downward-sloping demand curve crosses the upward-sloping supply curve. A price above that point gives a surplus, and a price below it gives a shortage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve--04-town-a-equilibrium-graph.webp" width="900" height="860" alt="Graph with price in currency units on the vertical axis and loaves a week on the horizontal axis, plotted from the table. Demand D passes through 20, 16, 12, 8 and 4 loaves at prices 1.00, 1.50, 2.00, 2.50 and 3.00. Supply S passes through 2, 6, 12, 18 and 24 loaves. The curves cross at the equilibrium of 2.00 cu and 12 loaves. At 2.50 cu supply 18 exceeds demand 8, a surplus of 10, so the price falls. At 1.50 cu demand 16 exceeds supply 6, a shortage of 10, so the price rises." loading="lazy">
+  <figcaption>Plotting the table shows demand and supply crossing at 2.00 cu and 12 loaves, with a surplus of 10 at 2.50 cu and a shortage of 10 at 1.50 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ### 2.2.2 The three key questions
 
@@ -127,6 +144,17 @@ Method A is cheaper. Now wages rise to 50 cu:
 Method B is now cheaper. The two methods cost the same when 6w + 20 = 2w + 160, so 4w = 140 and w = 35 cu. Above a wage of 35 cu, the bakery switches to machines. The change in a resource price has changed the answer to the question "how".
 
 **Evaluation.** The price mechanism answers the questions without anyone planning them, and it responds as prices change. But the answer to "for whom" depends on income. A person with a real need but little income can be left out. Later units look at what governments do about this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve--12-wage-and-method-of-production.webp" width="900" height="890" alt="Line graph of cost per loaf against daily wage for two production methods. Method A uses 6 workers and a machine hire fee of 20 a day; method B uses 2 workers and a hire fee of 160. At a wage of 30, A costs 0.40 and B 0.44; at 50, A costs 0.64 and B 0.52. The lines cross at a wage of 35 cu where both cost 0.46 per loaf. Below 35 method A is cheaper, above 35 method B is cheaper, so a change in a resource price changes how goods are produced." loading="lazy">
+  <figcaption>Method A (6 workers) is cheaper below a wage of 35 cu and method B (2 workers and a machine) above it, where both cost 0.46 per loaf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## 2.3 Demand
 
@@ -199,6 +227,27 @@ An **increase in demand** shifts the curve right: more is bought at every price.
 **Worked example.** Incomes in Town A rise and demand for loaves increases by 25% at every price. Market quantities at each price become 25, 20, 15, 10 and 5. At 2.00 cu, buyers now want 15 loaves instead of 12, an increase of 3 loaves. The new curve lies to the right of the old one. If instead a health scare cut demand by 25% at every price, quantities would be 15, 12, 9, 6 and 3. That is a decrease, a shift left.
 
 **Reasoning chain.** Price of tea rises, so some tea drinkers switch to coffee. The demand curve for coffee shifts right. It is a shift, because the cause is not the price of coffee.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve--11-market-demand-aggregation.webp" width="900" height="840" alt="Graph of price in currency units against loaves a week for three households X, Y and Z and the market curve. At a price of 2.00, X demands 6, Y demands 4 and Z demands 2, shown as three segments laid end to end along the price line, giving market demand of 12. Market demand is the individual curves added horizontally, adding quantities, not prices. At 3.00 household Z buys none." loading="lazy">
+  <figcaption>At 2.00 cu household X wants 6 loaves, Y 4 and Z 2, so market demand is 12: curves are added sideways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve--05-demand-shift-25-percent.webp" width="900" height="890" alt="Graph of market demand for loaves in Town A, price in currency units against loaves a week. D1 is the original demand: 20, 16, 12, 8 and 4 loaves at prices 1.00 to 3.00. If incomes rise, demand increases by 25 percent at every price to 25, 20, 15, 10 and 5, shown as D2 to the right; at 2.00 cu quantity rises from 12 to 15. If a health scare cuts demand by 25 percent, quantities become 15, 12, 9, 6 and 3, shown as D3 to the left; at 2.00 cu quantity falls from 12 to 9." loading="lazy">
+  <figcaption>A 25% increase in demand gives 25, 20, 15, 10 and 5 loaves, shifting the curve right (12 to 15 at 2.00 cu), while a 25% fall gives 15, 12, 9, 6 and 3, shifting it left (12 to 9).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
 
 ## Common errors
 

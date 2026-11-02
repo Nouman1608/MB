@@ -74,6 +74,12 @@ Carriage inwards is the cost of bringing goods to the business, so it is part of
 
 Only revenue and expenses go in here. Buying a non-current asset is capital expenditure, so it goes into the statement of financial position, not the income statement. Drawings are not an expense either (see section 6).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--01-ss-cost-of-sales.webp" width="900" height="954" alt="Cost of sales is built from opening inventories 8,400, plus purchases 61,300 and carriage inwards 1,200, less purchases returns 2,300 and closing inventories 9,100, giving 59,500. Net revenue of 116,500 then splits into cost of sales 59,500 and gross profit 57,000. Carriage inwards belongs in cost of sales; carriage outwards is an expense." loading="lazy">
+  <figcaption>Cost of sales is built step by step, then taken from net revenue to leave gross profit.</figcaption>
+</figure>
+
+
 ## 3. Worked example 1: income statement
 
 Daniyal Rauf runs Brindle Bay Kayaks. His trial balance at 30 April 2026 is below. The closing inventories were counted at 9,100. The depreciation charge for the year on equipment is 3,600; how that charge is calculated belongs to Topic 5, so here it is simply given.
@@ -144,6 +150,12 @@ Less expenses
 Profit for the year                         27,880
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--02-ss-gross-to-profit.webp" width="900" height="1140" alt="Starting at gross profit of 57,000, discount received of 520 is added and seven expenses are deducted in turn. Carriage outwards is highlighted because it is an expense, not part of cost of sales. Expenses total 29,640 and profit for the year is 27,880." loading="lazy">
+  <figcaption>Gross profit plus other income, less every expense, leaves profit for the year of $27,880.</figcaption>
+</figure>
+
+
 ## 4. Building the statement of financial position
 
 A vertical layout is used here. Assets and liabilities are grouped by how soon they turn into cash or fall due.
@@ -155,6 +167,12 @@ A vertical layout is used here. Assets and liabilities are grouped by how soon t
 - **Equity** is the owner's stake: opening capital, plus profit for the year (or less a loss), less drawings.
 
 Current assets less current liabilities is working capital. Adding it to non-current assets and then deducting non-current liabilities gives **net assets**, which must equal equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-sole-traders--04-st-one-year-test.webp" width="900" height="900" alt="A grid splits assets and liabilities at one year. Current assets and current liabilities fall within a year; non-current assets (including intangible goodwill) and non-current liabilities run beyond a year. A bar shows capital as opening capital plus profit less drawings, plus any capital introduced." loading="lazy">
+  <figcaption>Whether an item is current or non-current depends on whether it lasts or falls due within one year.</figcaption>
+</figure>
+
 
 ## 5. Worked example 1: statement of financial position
 
@@ -194,6 +212,22 @@ Capital at 30 April 2026                               85,000
 
 The check works: net assets of 85,000 equal closing equity of 85,000. In the other direction, total assets (88,400 + 22,700 = 111,100) equal equity plus liabilities (85,000 + 20,000 + 6,100 = 111,100).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--03-ss-profit-into-equity.webp" width="900" height="1056" alt="Net assets are built from non-current assets 88,400 plus working capital 16,600 less the loan 20,000 to give 85,000. Equity is opening capital 66,120 plus profit for the year 27,880 less drawings 9,000, also 85,000. The two totals match, so the statement balances." loading="lazy">
+  <figcaption>Profit from the income statement is added to capital, and the result equals net assets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--04-ss-loss-and-drawings.webp" width="900" height="920" alt="Alder Row Bakery has income of 25,200 and expenses of 28,580, so there is a loss of 3,380. The loss and drawings of 7,200 are both deducted from opening capital of 13,000, leaving 2,420, which equals net assets." loading="lazy">
+  <figcaption>A loss is deducted from capital, and drawings reduce it further.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--05-ss-negative-working-capital.webp" width="900" height="1016" alt="Current assets of 4,630 are smaller than current liabilities of 7,610, so working capital is negative 2,980. Non-current assets of 11,400 less that shortfall gives 8,420, and deducting the 6,000 loan leaves net assets of 2,420." loading="lazy">
+  <figcaption>Current liabilities exceed current assets, so working capital is negative.</figcaption>
+</figure>
+
+
 ## 6. Classification traps
 
 - **Drawings** are the owner taking money or goods for personal use. They are not a business expense, so they never appear in the income statement. They reduce equity.
@@ -202,6 +236,12 @@ The check works: net assets of 85,000 equal closing equity of 85,000. In the oth
 - **Capital expenditure**, such as buying a vehicle or the legal cost of buying premises, increases a non-current asset. It is not an expense of the year.
 - **A bank overdraft** is a current liability, not a negative current asset, in this layout.
 - **Capital** is the amount the owner has invested at the start. Equity at the end is capital plus profit less drawings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--01-ss-where-does-it-go.webp" width="900" height="1036" alt="Six items sorted by where they belong. Carriage inwards of $1,200 goes into cost of sales. Carriage outwards of $1,150 and loan interest of $360 are expenses in the income statement. A loan repayment reduces the loan liability, buying a vehicle adds a non-current asset, and drawings of $9,000 reduce equity; none of these three is an expense." loading="lazy">
+  <figcaption>Only some items are expenses: repayments, asset purchases and drawings are not.</figcaption>
+</figure>
+
 
 ## 7. Worked example 2: a business that makes a loss
 

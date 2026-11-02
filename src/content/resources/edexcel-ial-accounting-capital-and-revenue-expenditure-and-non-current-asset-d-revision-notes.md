@@ -43,6 +43,17 @@ These notes condense outcomes 1.1.11 to 1.1.20 of the Pearson Edexcel Internatio
 
 Split a mixed invoice into its capital and revenue parts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--05-edx-capital-revenue-ironbridge.webp" width="900" height="840" alt="Ironbridge Print Works payments sorted into two columns. Capital, total 60,100: digital press 48,000, delivery 1,200, base and wiring 2,800, speed upgrade kit 3,600, legal fees on the workshop 2,100, own-staff racking 2,400. Revenue, total 4,185: annual service 900, replacement rollers 1,500, exterior repaint 1,750, staple cabinet 35. Accruals spread capital cost over the years by depreciation; materiality means the 35 dollar cabinet is expensed; prudence leans towards expense when unclear; consistency applies the same policy each year." loading="lazy">
+  <figcaption>Ironbridge payments sorted into capital and revenue with the concepts behind the treatment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--01-capital-vs-revenue.webp" width="900" height="970" alt="Two columns contrast capital expenditure (buying a van, extending a building, benefiting many years) with revenue expenditure (fuel, repainting, benefiting this year only). Two panels show that treating capital as revenue understates profit and assets, and treating revenue as capital overstates both." loading="lazy">
+  <figcaption>Capital spending benefits several years; putting it in the wrong group distorts profit and asset value.</figcaption>
+</figure>
+
+
 ## Causes and reasons (1.1.13 and 1.1.14)
 
 | Causes | Reasons for charging |
@@ -54,6 +65,12 @@ Split a mixed invoice into its capital and revenue parts.
 | Inadequacy | |
 
 Depreciation is **not** cash, **not** a replacement fund, and carrying value is **not** market value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
 
 ## Methods (1.1.15)
 
@@ -72,6 +89,17 @@ A washing line costs 36,000 and is expected to last 6 years, after which it is w
 - Part year: a van costing 18,000 bought on 1 October, at 15% of cost, with a 31 December year end, gives 18,000 × 15% × 3/12 = 675.
 - Revaluation: fixtures valued at 8,500 at the start, 900 bought, valued at 7,300 at the end, give 8,500 + 900 − 7,300 = 2,100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--13-edx-dep-revaluation.webp" width="900" height="800" alt="Small tools were valued at 6,400 dollars on 1 January and 1,100 dollars of tools were bought, giving 7,500 to account for. They are valued at 5,200 on 31 December. The difference, 2,300, is the depreciation charge: opening 6,400 plus additions 1,100 minus closing valuation 5,200." loading="lazy">
+  <figcaption>Under the revaluation method, depreciation is opening valuation plus additions minus closing valuation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+
 ## Effect on profit (1.1.17 and 1.1.18)
 
 - Reducing balance gives a higher charge early on (here 7,200 against 5,500, so profit is 1,700 lower in year 1) and a lower charge later.
@@ -88,6 +116,17 @@ A washing line costs 36,000 and is expected to last 6 years, after which it is w
 
 Example: Sandbourne used straight line for two years, so carrying value is 36,000 − 11,000 = 25,000. It then switches to reducing balance at 20%. The charge is 5,000, which is 500 less than 5,500, so profit is 500 higher in that year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--11-edx-dep-method-profit.webp" width="900" height="1010" alt="A printing press cost 52,000 dollars with a 4,000 residual value and a five year life. Straight line charges 9,600 every year. Reducing balance at 40 percent charges 20,800, 12,480, 7,488, 4,493 and 2,696 for 2026 to 2030. A second chart shows profit under reducing balance compared with straight line: 11,200 lower in 2026, 2,880 lower in 2027, then 2,112, 5,107 and 6,904 higher in 2028, 2029 and 2030. Total depreciation is 48,000 against 47,957." loading="lazy">
+  <figcaption>Reducing balance lowers profit early and raises it later; the totals are almost the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--12-edx-dep-change-method.webp" width="900" height="780" alt="The carrying value on 1 January 2029 is 11,232 dollars. Under the old reducing balance method the 2029 charge would be 4,493, then 2,696 in 2030, leaving 4,043. Under straight line over the two remaining years with a 4,000 residual value, the charge is 3,616 in each year. Profit for 2029 is 877 higher. Earlier years are not restated." loading="lazy">
+  <figcaption>Switching to straight line in 2029 gives 3,616 a year instead of 4,493, so 2029 profit is 877 higher.</figcaption>
+</figure>
+
+
 ## Ledger accounts (1.1.16)
 
 | Account | Debit | Credit |
@@ -97,6 +136,12 @@ Example: Sandbourne used straight line for two years, so carrying value is 36,00
 | Depreciation expense | Yearly charge | Transfer to the statement of profit or loss |
 
 At the year end: debit depreciation expense and credit the provision, then transfer the expense to the statement of profit or loss. For revaluation assets, debit additions and credit depreciation and the closing valuation on the asset account itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--14-edx-dep-ledger-accounts.webp" width="900" height="800" alt="Two T-accounts for plant and equipment in 2026. The cost account has a debit balance brought down of 30,000 and a debit for the press bought by bank of 52,000, balancing at 82,000. The provision for depreciation account has a credit balance brought down of 12,000 and a credit of 12,600 depreciation expense (3,000 on the old machine plus 9,600 on the press), balancing at 24,600. The expense goes to profit or loss. On the statement of financial position, cost 82,000 less provision 24,600 gives a carrying value of 57,400." loading="lazy">
+  <figcaption>The cost and provision accounts give the carrying value shown on the statement of financial position.</figcaption>
+</figure>
+
 
 ## Disposals (1.1.19)
 
@@ -131,6 +176,22 @@ Carrying value is 6,400, the allowance is 5,000, so the loss is 1,400. The new v
 | | Carrying value: closing (and opening for comparison) |
 
 Disposals are deducted at cost in the cost section and at accumulated depreciation to the date of sale in the depreciation section. Closing carrying value = closing cost − closing accumulated depreciation, and it must agree with the statement of financial position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--15-edx-dep-van-disposal.webp" width="900" height="810" alt="A van cost 21,000 dollars on 1 March 2023 and is depreciated at 20 percent of cost a year, by months. Depreciation is 3,500 for ten months of 2023, 4,200 for 2024, 4,200 for 2025 and 2,800 for the eight months of 2026 to 31 August, a provision of 14,700 at disposal. The carrying value is 21,000 minus 14,700, which is 6,300. Selling for 9,000 gives a profit on disposal of 2,700. Proceeds below 6,300 would be a loss." loading="lazy">
+  <figcaption>Part-year depreciation gives a provision of 14,700 at sale, so selling at 9,000 gives a 2,700 profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d--06-edx-nca-schedule.webp" width="900" height="844" alt="A schedule for plant and vehicles in dollars. Cost: 1 January 30,000 and 21,000, additions 52,000 and 24,000, disposals 0 and 21,000, so 31 December 82,000 and 24,000, total 106,000. Accumulated depreciation: 1 January 12,000 and 11,900, charge 12,600 and 4,400, disposals 0 and 14,700, so 31 December 24,600 and 1,600, total 26,200. Carrying value at 31 December 2026 is 57,400 for plant, 22,400 for vehicles and 79,800 in total." loading="lazy">
+  <figcaption>Cost less accumulated depreciation gives the carrying value of each class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
+  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

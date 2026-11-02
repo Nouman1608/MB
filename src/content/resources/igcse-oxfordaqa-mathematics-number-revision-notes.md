@@ -51,6 +51,17 @@ n years compound growth at r%  ->  x (1 + r/100)^n
 reverse percentage -> DIVIDE by the multiplier, don't multiply
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-number--01-reverse-percentage.webp" width="900" height="800" alt="Three bars drawn to scale. A top bar shows a sale price of 64 dollars as 80 percent, made of four 20 percent parts of 16 dollars. An arrow labelled divide by 0.8 leads to the original price, 80 dollars or 100 percent, which has one more part of 16 dollars. A third bar shows the wrong method, 64 times 1.2 equals 76.80 dollars, which stops 3.20 dollars short of 80." loading="lazy">
+  <figcaption>To undo a 20% discount divide by 0.8; multiplying by 1.2 undoes the wrong percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
+
 ## Prime factorisation → HCF/LCM
 
 Write each number as a product of primes. **HCF** = lowest power of each *shared* prime. **LCM** =
@@ -58,11 +69,33 @@ highest power of *every* prime seen. Check: HCF × LCM = product of the two orig
 relationship only holds for exactly two numbers, so don't rely on it as a shortcut when a question
 gives three or more values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## Direct vs. inverse proportion
 
 - Direct: y = kx (both increase/decrease together).
 - Inverse: y = k/x (one increases as the other decreases).
 - Always find k from a given pair first, then apply it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
 
 ## Index laws
 
@@ -72,6 +105,12 @@ to the power 0 = 1. Negative index → reciprocal. Fractional index → root. A 
 versa) — practise applying both operations, in either order, since either sequence gives the same
 result but candidates often freeze when the fraction isn't in the "obvious" 1/n form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+
 ## Bounds (N11) — Extension tier only
 
 Core candidates round to a given accuracy but are not required to calculate or use bounds.
@@ -80,6 +119,17 @@ A value to a given accuracy lies within an interval (e.g. 4.6 kg to 1 d.p. → 4
 Greatest **sum**: both upper bounds. Greatest **difference**: upper − lower. Greatest **quotient**:
 upper ÷ **lower**. The same logic in reverse gives the smallest sum (both lower bounds), smallest
 difference (lower − upper, i.e. the smallest possible gap), and smallest quotient (lower ÷ upper).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-number--02-bounds-area.webp" width="900" height="830" alt="A rectangle with sides 12.4 cm and 7.8 cm, each to 1 decimal place. A smaller solid teal rectangle is the lower bound, 12.35 by 7.75, area 95.7125 square centimetres. A larger dashed gold rectangle is the upper bound, 12.45 by 7.85, area 97.7325 square centimetres. The gaps are drawn far wider than they really are." loading="lazy">
+  <figcaption>Rounded sides give an area that lies between 95.7125 and 97.7325 cm².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-number--03-bounds-greatest-rules.webp" width="900" height="960" alt="Four panels for a = 12.4 and b = 7.8, each with two short number lines marking a lower bound L and an upper bound U. Greatest sum uses U and U, 20.3. Greatest difference uses U for a and L for b, 4.7. Greatest product uses U and U, 97.7325. Greatest quotient uses U for a and L for b, 12.45 divided by 7.75, about 1.606." loading="lazy">
+  <figcaption>For the greatest answer: add and multiply with upper bounds, subtract and divide with upper then lower.</figcaption>
+</figure>
+
 
 ## Compound interest and repeated percentage change (N15)
 
@@ -94,12 +144,24 @@ noticeably different answers and a candidate who confuses them will not necessar
 error without checking the method itself. For decay (e.g. depreciation), the multiplier is
 `(1 − r/100)` raised to the same power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+
 ## Standard form
 
 A number in standard form is written as `A × 10ⁿ`, where `1 ≤ A < 10` and n is an integer. Adding
 or subtracting numbers in standard form requires matching the powers of 10 first (converting one
 number so both share the same exponent) before combining the A values; multiplying or dividing
 combines the A values directly and adds or subtracts the powers of 10 separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
 
 ## Surds (N7) — Extension tier only
 

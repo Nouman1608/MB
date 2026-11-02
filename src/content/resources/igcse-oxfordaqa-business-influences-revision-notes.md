@@ -56,6 +56,32 @@ competitors.
 faces shapes its pricing power and risk; developing-country businesses
 often compete on cost advantage against developed-country rivals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
+
 ## Ethics vs legislation — the distinction examiners test
 
 These two are the most commonly confused pair in this topic:
@@ -70,6 +96,12 @@ A strong answer never treats "acting ethically" as free — it names the
 specific profit trade-off (higher cost, lower short-term margin) the
 syllabus expects you to identify.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ## Exchange rates — direction matters
 
 Get the direction right every time:
@@ -82,6 +114,12 @@ exporters), imports more expensive at home (hurts importers).
 State which side of the transaction (importer or exporter) is being
 asked about before deciding whether a currency movement helps or harms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+
 ## Interest rates — direct and indirect effects together
 
 A rate rise has **two separate channels**: it directly raises a
@@ -89,6 +127,12 @@ business's own loan/overdraft repayments (higher fixed costs), and it
 indirectly reduces customer spending power (higher mortgage/credit
 costs for consumers, lower disposable income, lower demand). A complete
 answer names both channels, not just one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
 
 ## Weighing two influences against each other
 
@@ -127,6 +171,12 @@ rather than treating "interest rates" as the only borrowing-cost
 mechanism a business might face. This is a small but genuinely
 examinable point that a general business-studies answer, written
 without reference to this specific syllabus, would likely miss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-revision-notes--02-sharia-finance.webp" width="900" height="1060" alt="Conventional borrowing: a lender lends and the business repays the loan plus interest. Sharia-compliant finance avoids interest (riba) through profit-sharing or asset-backed arrangements, where the financier buys the asset and the business pays for it." loading="lazy">
+  <figcaption>Sharia-compliant finance avoids interest by sharing profit or backing finance with an asset.</figcaption>
+</figure>
+
 
 ## Self-test
 

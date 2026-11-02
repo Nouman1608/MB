@@ -87,6 +87,12 @@ force due to other charges. It is represented using field lines, which point
 in the direction of the force on a positive test charge, and are drawn
 closer together where the field is stronger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
+  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+</figure>
+
+
 ## Uniform electric fields
 
 Between two oppositely charged parallel plates, separated by distance d and
@@ -102,6 +108,17 @@ producing motion analogous to projectile motion under gravity: constant
 velocity in the direction along the plates, constant acceleration
 perpendicular to them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
+  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
+  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
+</figure>
+
+
 ## Coulomb's law
 
 The electric force between two point charges Q and q, separated by distance
@@ -114,6 +131,17 @@ F = Qq / (4πε₀r²)
 where ε₀ is the permittivity of free space. Like gravitation, this is an
 **inverse square law**. Like charges repel; unlike charges attract — unlike
 gravity, which is always attractive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--02-coulombs-law.webp" width="900" height="1100" alt="Like charges repel and unlike charges attract, with equal and opposite forces. +4.8 nC and −3.2 nC at 6.0 cm exert 3.8×10⁻⁵ N on each other. Doubling one charge and tripling the separation multiplies the force by 2/9, from 0.80 mN to 0.18 mN." loading="lazy">
+  <figcaption>The force between point charges follows an inverse square law and acts along the line joining them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--03-inverse-square-force.webp" width="900" height="880" alt="A graph of F against r for +8.0 nC and +0.60 nC falls as 1/r²: F at 0.10 m, F/4 at 0.20 m, F/9 at 0.30 m. OCR only: the area under the curve from 0.40 m to 0.10 m is the work done, 3.2×10⁻⁷ J." loading="lazy">
+  <figcaption>Doubling the separation divides the force by four.</figcaption>
+</figure>
+
 
 ## Electric field of a point charge
 
@@ -153,6 +181,12 @@ outside it, exactly as if all its charge were concentrated at a point at
 its centre — so E = Q/(4πε₀r²) and V = Q/(4πε₀r) can both be applied to a
 charged conducting sphere using r measured from its centre, provided the
 point considered is outside the sphere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--04-charged-sphere-field.webp" width="900" height="1040" alt="A −45 nC sphere of radius 2.0 cm acts, outside it, like a point charge at its centre, so r is measured from the centre. At r = 6.0 cm E = 1.1×10⁵ N C⁻¹ inwards. OCR only: C = 4πε₀R for an isolated sphere." loading="lazy">
+  <figcaption>Outside a charged sphere, measure distance from its centre and use the point-charge formula.</figcaption>
+</figure>
+
 
 ## Electric potential
 
@@ -201,6 +235,12 @@ toward negative charge (low potential). On a graph of V against r, the
 field strength at a point is (minus) the gradient of the tangent at that
 point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
+  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
+</figure>
+
+
 ## Comparing gravitational and electric fields
 
 The mathematics of point-mass gravitational fields and point-charge electric
@@ -211,6 +251,12 @@ difference is that gravity is always attractive, giving a field strength
 formula with an implicit "always toward the mass" direction and a potential
 that is always negative, while electric forces can be attractive or
 repulsive depending on the sign of the charges involved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
+  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -69,6 +69,12 @@ The four needs named in the specification:
 
 **Method for a context question:** name the need, say who has it (use the customer in the stem), then link it to a sales or survival outcome.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--01-need-ranking.webp" width="900" height="800" alt="Bars show 70 workers (35%) put price first, 56 (28%) quality, 50 (25%) convenience and 24 (12%) choice. Price and quality together are 63%." loading="lazy">
+  <figcaption>Price and quality are first choice for 63% of 200 workers.</figcaption>
+</figure>
+
+
 ## 1.2.2 Market research
 
 ### Purposes (four)
@@ -101,6 +107,12 @@ The four needs named in the specification:
 | Example | 42% would buy | "The packaging feels cheap" |
 | Weakness | Can miss the reason | Harder to measure and compare |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+
 ### Social media
 
 - **Helps**: cheap and quick; polls, comments and reviews; reaches people who would not answer a street survey.
@@ -113,6 +125,12 @@ The four needs named in the specification:
 - Questions are not leading.
 - Data is up to date.
 - The source is trustworthy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--02-biased-sample.webp" width="900" height="830" alt="Three bars show 65% yes overall, 85% outside a garden centre and 55% in a shopping street. In 6,000 households that is 3,900 or 3,300 buyers, so a biased sample may lead to over-ordering." loading="lazy">
+  <figcaption>The headline 65% is inflated by where people were asked.</figcaption>
+</figure>
+
 
 ## 1.2.3 Market segmentation and market mapping
 
@@ -146,6 +164,17 @@ Quality low  +-------------------------------------
                 low price            high price
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--03-segment-demand-share.webp" width="900" height="950" alt="Paired bars compare each age segment's share of the population with its share of the 977 interested people. Ages 6 to 11 are 16.2% of people but 41.8% of interest." loading="lazy">
+  <figcaption>The smallest-looking segment can be the best target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--04-coffee-market-map.webp" width="900" height="860" alt="A price and quality scatter of five roasters rises from Brightcup to Zephyr Wharf. A dashed box marks the gap at about 7 to 9 pounds with quality above 4." loading="lazy">
+  <figcaption>A market map shows rivals and the gap, which still needs testing.</figcaption>
+</figure>
+
+
 ## 1.2.4 The competitive environment
 
 ### Five factors for judging competitors
@@ -165,6 +194,12 @@ Quality low  +-------------------------------------
 - **Range**: widen to fill a gap, or specialise.
 - **Location**: pick a site near or away from rivals.
 - **Promotion**: highlight what makes the business different.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs--05-price-between-rivals.webp" width="900" height="780" alt="A price line shows Suds Corner at 1.60, Tansy at 2.40 and PressPerfect at 3.40 pounds per kg. Tansy is 29% below PressPerfect and 50% above Suds Corner; 500 kg a week gives 1,200 pounds." loading="lazy">
+  <figcaption>Tansy prices between a cheap, slow rival and a dear, high-quality one.</figcaption>
+</figure>
+
 
 ## Calculations you may need
 

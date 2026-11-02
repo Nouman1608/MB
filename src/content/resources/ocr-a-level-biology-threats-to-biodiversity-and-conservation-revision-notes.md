@@ -91,6 +91,17 @@ A keystone species is defined by its effect, not by its numbers or size. A speci
 
 A seed sample of 150 seeds gives 126 germinating seedlings. Viability = 126/150 x 100 = 84%. To obtain 100 seedlings: 100/0.84 = 119.05, so sow 120 seeds (round up).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## 4.2.1(i) Agreements
 
 | Agreement | Level | Key points |
@@ -173,6 +184,12 @@ Two data patterns turn up often, so practise describing them.
 - Mixing up CITES (trade) with the CBD (conservation and sustainable use).
 - Claiming that correlation shows cause.
 - Not rounding seed numbers up when calculating how many to sow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

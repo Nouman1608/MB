@@ -63,6 +63,37 @@ organisms need specialised exchange and transport systems at all.
   affecting the rate of water uptake, including calculating rate and
   percentage change in mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-scaling-up--03-cell-cycle.webp" width="900" height="960" alt="A loop of four stages: the cell grows, its DNA is copied, the cell grows more, and mitosis moves the chromosome copies apart to make two identical cells." loading="lazy">
+  <figcaption>The cell cycle: cell growth, DNA replication, further growth, then mitosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-scaling-up--04-stem-cells.webp" width="900" height="940" alt="Three panels: embryonic stem cells can become any animal cell type, adult stem cells such as bone marrow make some types only, and plant meristem cells become plant cell types." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells and what they can become.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+
 ## Why size creates a biological problem
 
 The specification's own framing is worth taking seriously as an exam
@@ -79,6 +110,12 @@ the same underlying maths problem, so an exam answer that opens with
 the surface-area-to-volume argument before describing the specific
 adaptation is answering the question the specification is actually
 asking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-scaling-up--01-sa-v-ratio.webp" width="900" height="1010" alt="Three cubes of side 1, 2 and 3 cm with surface areas 6, 24 and 54 cm squared and volumes 1, 8 and 27 cm cubed. Bars show the surface area to volume ratio falling from 6:1 to 3:1 to 2:1." loading="lazy">
+  <figcaption>The ratio of surface area to volume falls as an object gets bigger.</figcaption>
+</figure>
+
 
 ## Diffusion, osmosis and active transport -- keeping them distinct
 
@@ -98,6 +135,27 @@ clearly, and exam questions routinely test this directly:
   hair cells when soil mineral concentration is lower than that inside
   the cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+
 ## A common misconception addressed directly by the specification
 
 OCR's own specification flags that learners commonly believe blood
@@ -111,6 +169,12 @@ slow flow through capillaries is precisely what allows time for
 diffusion of oxygen, nutrients and waste between blood and tissue --
 so the "problem" of slow capillary flow is in fact the adaptation that
 makes exchange possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-scaling-up--02-capillary-total-area.webp" width="900" height="990" alt="A wide aorta with fast flow feeds many narrow capillaries in parallel with slow flow. Two squares drawn to area show all capillaries together have about 1000 times the aorta cross-section, so the same volume per second moves more slowly." loading="lazy">
+  <figcaption>Capillaries are narrow, but together their total area is about 1000 times the aorta, so blood flows slowly.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

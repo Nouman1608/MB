@@ -57,6 +57,17 @@ Also useful: the [IGCSE Biology hub](/boards/cambridge/igcse/biology/), the [061
 | Large-scale monoculture | Efficient use of machinery; high yield; lower cost per unit | Low biodiversity; pests and diseases spread easily; heavy use of pesticides and fertiliser; habitats such as hedgerows removed |
 | Intensive livestock | Less energy lost in movement and heat, so faster growth; high output at lower cost; less land per animal | Disease spreads quickly; waste can pollute water; welfare concerns; needs large amounts of crop feed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--01-food-production-methods.webp" width="900" height="935" alt="Five pictured rows: a tractor (agricultural machinery: larger area farmed more efficiently), a fertiliser bag marked nitrate feeding a plant (better yield), a crossed-out insect (insecticides kill insect pests), a crossed-out weed beside a crop (herbicides kill weeds so less competition for light, water and mineral ions), and a small ear of grain becoming a large one (selective breeding gives higher-yielding crops and livestock)." loading="lazy">
+  <figcaption>Each of the five methods and what it does for yield.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--02-monoculture-trade-off.webp" width="900" height="1065" alt="A mixed natural area is compared with a monoculture. The advantage is efficient machinery use and lower cost per unit. Disadvantages: pests and disease spread easily so more pesticide is used; the same ions are removed each year so more fertiliser is needed; hedgerows and habitats are removed so biodiversity falls." loading="lazy">
+  <figcaption>A monoculture is cheap to farm but needs more pesticide and fertiliser and reduces biodiversity.</figcaption>
+</figure>
+
+
 ## 20.2 Habitat destruction (Core)
 
 - **Biodiversity:** the number of different species that live in an area.
@@ -72,6 +83,12 @@ Also useful: the [IGCSE Biology hub](/boards/cambridge/igcse/biology/), the [061
 | Loss of soil | No roots to hold soil; rain washes it away |
 | Flooding | Less water taken up and transpired; more run-off |
 | More CO₂ in the atmosphere | Less photosynthesis; burning and decay of wood release CO₂ |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
+</figure>
+
 
 ## 20.3 Pollution
 
@@ -98,6 +115,22 @@ Also useful: the [IGCSE Biology hub](/boards/cambridge/igcse/biology/), the [061
 2. Divide by the **original** value.
 3. Multiply by 100 and state "increase" or "decrease".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--06-co2-methane-sources.webp" width="900" height="850" alt="Carbon dioxide comes from burning fossil fuels and burning forests. Methane comes from cattle and other livestock, rice fields and waste decomposing in landfill sites." loading="lazy">
+  <figcaption>Fossil fuels and forest burning give CO2; livestock, rice fields and landfill give methane.</figcaption>
+</figure>
+
+
 ## 20.4 Conservation
 
 ### Core
@@ -120,6 +153,12 @@ Also useful: the [IGCSE Biology hub](/boards/cambridge/igcse/biology/), the [061
 **IVF:** eggs fertilised outside the body; embryos placed in a female.
 
 **Small population risk:** reduced genetic variation → fewer individuals able to survive environmental change or new disease → higher risk of extinction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--07-fish-net-mesh-size.webp" width="900" height="895" alt="Extended. Two side views of a net. With a small mesh both young and adult fish are caught. With a large mesh the gaps are bigger than young fish but smaller than adults, so young fish escape and survive to breed." loading="lazy">
+  <figcaption>A larger mesh lets young fish escape so they survive to breed.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

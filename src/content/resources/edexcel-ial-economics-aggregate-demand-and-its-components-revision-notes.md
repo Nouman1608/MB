@@ -61,6 +61,17 @@ These notes condense section 2.3.2, Aggregate demand (AD), of the Pearson Edexce
 
 Quick check. Country with C = 700, I = 120, G = 180, X = 160, M = 190: AD = 700 + 120 + 180 + (160 − 190) = **970**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--13-ad-slope-reasons.webp" width="900" height="890" alt="A lower price level raises the quantity of real output demanded through three effects: the wealth effect (savings worth more), the interest rate effect (lower rates, more borrowing) and the international trade effect (exports up, imports down). It is not substitution between goods." loading="lazy">
+  <figcaption>AD slopes down because of the wealth, interest rate and international trade effects.</figcaption>
+</figure>
+
+
 ## Consumption: method in steps
 
 Chain for any influence: change in influence, then change in disposable income or willingness to spend, then change in C, then shift in AD, then effect on output, jobs and prices.
@@ -79,6 +90,12 @@ Chain for any influence: change in influence, then change in disposable income o
 - Causes of a rise: higher interest rates, low confidence, tighter credit, falling asset prices, ageing population, benefit cuts.
 - Effects: lower C and AD in the short run; more funds for lending in the longer run.
 - Evaluate with: size of rise, spare capacity, whether banks lend the savings, whether firms want to borrow, how long it lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--02-savings-ratio.webp" width="900" height="810" alt="Stacked bars of income split into spent and saved: 7.0% saved in year 1 and 10.0% in year 2. Income rises 5.0% but consumption only 1.61%." loading="lazy">
+  <figcaption>A higher savings ratio means consumption grows more slowly than income.</figcaption>
+</figure>
+
 
 ## Investment: must-know distinctions
 
@@ -100,6 +117,17 @@ Example: gross 80, depreciation 50, net = **30**. If gross were 40, net = −10 
 | Lower corporation tax | Raises post-tax return | Only helps profitable firms; slow |
 
 Method for a hurdle-rate question: post-tax return = pre-tax profit × (1 − t) ÷ cost, then compare with the borrowing rate. Example: profit 60,000 on cost 500,000 is 12.0% pre-tax; at 30% tax, 8.4%; at 20% tax, 9.6%. A firm borrowing at 9% invests only under the lower rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--03-gross-net-investment.webp" width="900" height="810" alt="Gross investment 150 is split into depreciation 90 and net investment 60. The capital stock grows from 1,800 to 1,860, up 3.33%." loading="lazy">
+  <figcaption>Net investment is gross investment minus depreciation, and only net investment raises capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
 
 ## Government expenditure: four influences
 
@@ -128,6 +156,22 @@ Remember: benefits are transfers, not part of G, but they support C.
 | Better quality, design, reliability, branding | Demand rises at any price |
 
 **Reminder calculation.** Exports 600, imports 700. Foreign income +3% with income elasticity of demand for exports 2.0: exports +6% = 636. Home income +2% with income elasticity for imports 1.5: imports +3% = 721. Balance moves from −100 to −85.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--01-ad-country-a.webp" width="900" height="796" alt="Waterfall of Country A: C 620, I 150, G 210 and net trade −20 give AD 960. Exports rising by 20 lifts AD to 980, a rise of 2.08%." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M) gives 960, and 980 after exports rise by 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--04-exchange-rate-net-trade.webp" width="900" height="1084" alt="Currency falls 2.00 to 1.60. Export price falls 20%, volume rises 30%, revenue 5.0 to 6.5. Import price rises 25%, volume falls 15%, spending 4.0 to 4.25." loading="lazy">
+  <figcaption>With these elasticities a lower exchange rate lifts the trade balance from +1.00 to +2.25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Evaluation prompts to reuse
 

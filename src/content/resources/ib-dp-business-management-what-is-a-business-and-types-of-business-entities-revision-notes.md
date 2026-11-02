@@ -64,6 +64,17 @@ The guide gives no formal definitions for these points. The definitions below ar
 
 **Small reminder.** A printing firm, Lumenfold Print Studio (invented), has 72 staff. Of these, 18 work in an in-house design and software-research team. That team is 18 ÷ 72 × 100 = 25% of the staff, and its work is quaternary. The machine operators are secondary, and the front-desk customer team is tertiary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--07-four-sectors-ardenholt.webp" width="900" height="890" alt="Four rows: primary (farms growing oats, not the mill), secondary (milling), tertiary (the cafe) and quaternary (product research). Milling provides 420,000 of 600,000 revenue (70%) and the cafe 180,000 (30%)." loading="lazy">
+  <figcaption>One business can operate in several sectors, so classify the activity, not the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--10-sectors-as-economies-develop.webp" width="900" height="904" alt="Four bars show illustrative job shares by sector at four stages: primary falls, secondary peaks mid-way, tertiary then quaternary rise. Numbers are illustrative." loading="lazy">
+  <figcaption>As economies develop, jobs move between the four sectors.</figcaption>
+</figure>
+
+
 ### Sector change
 
 This is general knowledge, not a point the guide makes. As economies develop, the share of employment and output often moves from primary to secondary to tertiary, with growth in quaternary. A business should watch this: labor supply, wages and customer demand all shift.
@@ -73,6 +84,12 @@ This is general knowledge, not a point the guide makes. As economies develop, th
 - Typical traits: risk-taking, creativity, determination, spotting gaps in a market.
 - Rewards: profit, independence, satisfaction. Risks: loss of savings, long hours.
 - An entrepreneur starts and risks a venture; a manager runs it for the owners. In a tiny firm one person is both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
 
 ### Starting up: challenges and opportunities
 
@@ -90,6 +107,22 @@ This is general knowledge, not a point the guide makes. As economies develop, th
 2. Link each to a detail from the stem (a number, a location, a season).
 3. Explain the effect on the business, not just the fact.
 4. If asked to evaluate or justify, say which factor matters most and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--08-startup-cost-gap.webp" width="900" height="790" alt="Five start-up costs total 17,000 pounds. Savings of 11,000 cover most but leave a 6,000 pound gap that must be raised elsewhere." loading="lazy">
+  <figcaption>Start-up costs of £17,000 against £11,000 of savings leave a £6,000 finance gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
 
 ## 1.2 Types of business entities
 
@@ -120,6 +153,22 @@ Legal rules vary by country. State that your features are general.
 
 **Small reminder on ownership.** A privately held company has 500 shares and the founder owns 300 (60%). If it issues 500 new shares to outside investors, the founder owns 300 ÷ 1,000 × 100 = 30%. Control falls even though the founder owns the same number of shares. That is dilution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--09-entity-features-grid.webp" width="900" height="998" alt="A grid compares sole trader, partnership, privately held and publicly held companies on control, selling ownership, continuity and disclosure using icons and short labels." loading="lazy">
+  <figcaption>Control, selling ownership, continuity and disclosure by entity type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ### Social enterprises
 
 | Type | Group in the guide | Key features |
@@ -130,6 +179,12 @@ Legal rules vary by country. State that your features are general.
 | NGO | Non-profit | Independent of government; funded by donations and grants; surplus kept for the mission |
 
 **Small reminder.** In a cooperative with 50 members that votes with one vote each, a simple majority needs 26 votes. This is why no single member can dominate, unlike a shareholder with many shares in a company.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-what-is-a-business-and-types-of-business-entities--09-social-enterprise-types.webp" width="900" height="770" alt="Private sector and public sector sit at the top. Social enterprises split into for-profit (private sector companies, public sector companies, cooperatives) and non-profit (NGOs). A cooperative is for-profit in the IB guide." loading="lazy">
+  <figcaption>The IB guide lists three for-profit social enterprise types and one non-profit type, the NGO.</figcaption>
+</figure>
+
 
 ### Must-know distinctions
 

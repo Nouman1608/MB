@@ -48,6 +48,12 @@ An exchange rate states how much of one currency buys a unit of another. This pa
 
 A fixed system may allow a narrow band around the announced rate. In a managed system the target may be unannounced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--07-fixed-managed-floating-paths.webp" width="900" height="1092" alt="Three time paths on one scale: flat fixed rate; managed rate held in a band with authorities stepping in; freely moving floating rate." loading="lazy">
+  <figcaption>Fixed, managed and floating differ in who moves the rate.</figcaption>
+</figure>
+
+
 ## 2. Intervention (2b)
 
 ### Foreign currency transactions
@@ -69,9 +75,31 @@ The peg is above the equilibrium, so the ark is overvalued. The central bank mus
 
 A higher interest rate raises the return on holding the currency, attracting funds and shifting demand right. In the example, demand would have to become Qd = 188 − 50R to clear the market at 2.40 (check: 188 − 120 = 68). The cost is slower growth: higher rates reduce consumption and investment. Using interest rates for the exchange rate also means they cannot be set for domestic aims such as inflation or unemployment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--11-interest-gain-vs-rate-risk.webp" width="900" height="890" alt="Bels returned from the ark deposit (52,500 x rate) against 102,000 from staying home. Break-even 1.943; at 1.95 she is 375 ahead, at 1.90 2,250 behind." loading="lazy">
+  <figcaption>Expected exchange-rate falls can cancel an interest advantage.</figcaption>
+</figure>
+
+
 ### Quantitative easing
 
 QE is the central bank creating money to buy financial assets, usually government bonds. Its main aim is to cut longer-term interest rates and raise lending and spending. It also tends to lower the exchange rate: lower yields reduce the return on the currency, funds flow out, and expectations of higher inflation weaken confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--05-peg-above-equilibrium.webp" width="900" height="910" alt="The lesson market for arks: Qd = 160 - 50R, Qs = 20 + 20R. Equilibrium is 2.00 and 60; at the 2.40 peg demand is 40 and supply 68, an excess supply of 28 billion arks, costing 67.2 billion bels of reserves to absorb." loading="lazy">
+  <figcaption>A peg above equilibrium creates excess supply that the central bank must buy with reserves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--06-interest-rate-defends-peg.webp" width="900" height="1016" alt="Demand D1 (Qd = 160 - 50R), supply S (Qs = 20 + 20R), peg 2.40. Excess supply at the peg is 28. A higher interest rate shifts demand to Qd = 188 - 50R, by 28, and clears the peg at 68." loading="lazy">
+  <figcaption>Higher interest rates shift demand right and clear the peg.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--11-qe-bond-yield-money.webp" width="900" height="914" alt="Central bank buys 36bn of bonds. A bond paying 9 a year yields 4.5% at price 200 and 4.0% at 225. Money supply rises from 480bn to 516bn, +7.5%." loading="lazy">
+  <figcaption>QE raises bond prices, lowers yields and increases the money supply.</figcaption>
+</figure>
+
 
 ## 3. Factors influencing a floating rate (2c)
 
@@ -97,9 +125,21 @@ Absolute PPP says the exchange rate should equal the ratio of price levels, so t
 
 PPP is a long-run guide. Trade costs, capital flows and speculation let rates differ from it for years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--07-ppp-exchange-rates.webp" width="900" height="1050" alt="The same basket costs 100 X in Country X and 200 Y in Country Y. At the market rate (4 Y = 1 X) Country Y income looks like 5,000 X, but at the PPP rate (2 Y = 1 X) it is 10,000 X, matching the 2 to 1 gap in baskets bought (200 versus 100)." loading="lazy">
+  <figcaption>PPP rates adjust for cost-of-living differences so incomes can be compared by what they buy.</figcaption>
+</figure>
+
+
 ### Interest rates and speculation
 
 **Worked example 3.** A resident of Country B has 100,000 bels. Deposits earn 5% in A and 2% in B. At 2.00 bels per ark she buys 50,000 arks, which become 52,500 arks after a year. If the rate falls to 1.95, she gets 52,500 × 1.95 = 102,375 bels, against 102,000 by staying home. The higher interest rate wins by 375 bels. If the rate falls to 1.90, she gets 99,750 bels and loses 2,250 relative to staying. The break-even end rate is 102,000 ÷ 52,500 = 1.943. Investors weigh expected exchange rate movements as well as interest differentials, so expectations can reverse a flow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## 4. Revaluation, appreciation, devaluation, depreciation (2d, 2e)
 
@@ -111,6 +151,12 @@ PPP is a long-run guide. Trade costs, capital flows and speculation let rates di
 | Devaluation | Deliberate official fall in the fixed or target rate | Fixed or managed |
 
 **Percentages are not symmetrical.** If the ark rises from 2.00 to 2.50 bels, the ark has appreciated by 25%. The bel in arks moves from 0.50 to 0.40, a depreciation of 20%. A good priced at 400 arks costs 800 bels before and 1,000 bels after, a rise of 25% for Country B's buyers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--08-appreciation-vs-depreciation-asymmetry.webp" width="900" height="1060" alt="Grid of the four terms and bars showing the ark rising 2.00 to 2.50 bels (+25%) while the bel falls 0.50 to 0.40 arks (-20%); a 400-ark good rises 800 to 1,000 bels." loading="lazy">
+  <figcaption>The same move is +25% for one currency and -20% for the other.</figcaption>
+</figure>
+
 
 ## 5. Effects of an exchange rate change (2f)
 
@@ -155,6 +201,17 @@ Imports are 20% of the consumer basket. A 25% rise in import prices raises the p
 ### FDI
 
 A factory priced at 600 million arks costs a Country B firm 1,200 million bels at 2.00, but only 960 million at 1.60: 20% cheaper. A depreciation therefore lowers the foreign-currency cost of entry. Against that, profits of 50 million arks are worth 100 million bels before and 80 million after, so the return in the investor's currency falls. Stability, market size, skills and infrastructure often matter more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--06-j-curve.webp" width="900" height="900" alt="The lesson illustrative path of the trade balance after a depreciation: 0, -38, -25, +10, +50, +94 million arks at 0, 3, 6, 9, 12 and 18 months. Short-run elasticities sum to 0.7 (balance -38.1); long-run to 1.8 (balance +94.4)." loading="lazy">
+  <figcaption>The trade deficit deepens first and then improves once elasticities rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-exchange-rates-and-their-effects--09-depreciation-three-effects.webp" width="900" height="1040" alt="Worked examples after the ark falls to 1.60: multiplier 2 gives +80m GDP, 4% of 2,000m, about 2,000 jobs; imports at 20% of the basket with +25% prices give +5.0% (3.0% at 60% pass-through); a 600m ark factory costs 1,200m then 960m bels." loading="lazy">
+  <figcaption>A depreciation affects growth, prices and foreign investment.</figcaption>
+</figure>
+
 
 ## 6. Competitive depreciations (2g)
 

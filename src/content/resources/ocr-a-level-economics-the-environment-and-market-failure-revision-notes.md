@@ -48,6 +48,17 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 - The functions conflict, so using one has an opportunity cost in the others.
 - Market failure link: the environment is largely unpriced, so users ignore the cost they impose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--11-env-assimilative-capacity.webp" width="900" height="970" alt="Bars show waste rising 5% a year from 80 tonnes against a capacity of 100; year 5 reaches 102.1 and passes the limit." loading="lazy">
+  <figcaption>The environment’s capacity to absorb waste is limited, and growing waste can pass it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--01-env-three-functions.webp" width="900" height="920" alt="Three panels. Provider of resources, shown as a tree and a barrel: timber, water, fuels and soil. Provider of amenities, shown as sun, hills and tree: clean air, parks and coastline. Absorber of waste, shown as a chimney with an arrow carrying waste into a river: air, water and land take in emissions up to a limit. A note says the functions compete, for example more waste in the river means less drinking water and fewer fish, and the environment is largely unpriced so firms ignore these costs." loading="lazy">
+  <figcaption>The environment supplies resources, amenities and waste absorption, and the uses compete.</figcaption>
+</figure>
+
+
 ## Diagrams in words
 
 | Case | Curve that shifts | Result at the market output |
@@ -61,6 +72,27 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 - Welfare loss: the triangle bounded by MSC, MSB and the market output, covering the excess (or shortfall) of output.
 - Label both axes (price or cost, and quantity), every curve, the market point, the social point and the triangle.
 - Depletion: future generations bear an external cost, so use is too fast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--12-env-consumption-externality.webp" width="900" height="950" alt="MPB, MSB and MPC are plotted from the lesson’s functions. The market buys 20 where MPB meets MPC, the optimum is 16 where MSB meets MPC, and the triangle between is a welfare loss of 24." loading="lazy">
+  <figcaption>Because consumers ignore the external cost, MSB lies below MPB and the good is overconsumed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--02-env-production-externality-tax.webp" width="900" height="970" alt="Graph of price and cost against quantity for a dye works. MPB is P = 120 minus 2Q. MPC is P = 20 + 2Q. MSC is P = 40 + 2Q, above MPC because each unit puts 20 pounds of pollution cost on a river. The market is where MPB meets MPC at quantity 25 and price 70. The social optimum is where MPB meets MSC at quantity 20 and price 80. The triangle between MSC and MPB from 20 to 25 is the welfare loss of 50 pounds. A 20 pound tax moves supply to MSC: buyers pay 80, firms keep 60 and revenue is 20 times 20, 400 pounds, shown as a rectangle." loading="lazy">
+  <figcaption>The market overproduces by 5 units; a £20 tax moves it to 20 units and raises £400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--03-env-positive-production-externality.webp" width="900" height="940" alt="Graph of price and cost against quantity with illustrative numbers. MPB is P = 120 minus 2Q. MPC is P = 20 + 2Q. Because restoring wetlands gives free flood protection worth 20 pounds a unit, MSC is MPC minus 20, which is P = 2Q, and lies below MPC. The market is at quantity 25 and price 70. The social optimum is where MPB meets MSC at quantity 30 and price 60. Output is too low, and the triangle between MPB and MSC from 25 to 30 is a welfare loss of 50 pounds. The numbers are illustrative and not from the lesson." loading="lazy">
+  <figcaption>A positive production externality puts MSC below MPC, so the market provides too little.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Method in steps: externality calculation
 
@@ -80,6 +112,12 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 - Turning point of D = a + bY − cY²: Y = b ÷ 2c.
 - Evaluation: stronger for local pollutants than global ones; pollution may be exported; damage may be irreversible before the turn; it describes a pattern, not a law; policy can bring the turn earlier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--13-env-kuznets.webp" width="900" height="1000" alt="An inverted-U curve through the lesson’s table points peaks at income 15 with degradation 27.5, then falls." loading="lazy">
+  <figcaption>The environmental Kuznets curve shows degradation rising and then falling with income per head; it is a pattern, not a law.</figcaption>
+</figure>
+
+
 ## Does growth cause degradation and limit sustainable development?
 
 | For | Against |
@@ -92,6 +130,17 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 - Emissions growth factor = (1 + GDP growth) × (1 − fall in emissions per unit of GDP).
 - Break-even fall in intensity = 1 − 1 ÷ (1 + GDP growth).
 - Judgement depends on the type of growth, the resource, technology, policy and time horizon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--15-env-decoupling.webp" width="900" height="880" alt="Bars show the change in emissions when GDP grows 3%: -1.12% if intensity falls 4%, +0.94% if it falls 2%, and 0% if it falls 2.91%." loading="lazy">
+  <figcaption>Growth only harms the environment if emissions per unit of GDP fall too slowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--04-env-depletion-reserves.webp" width="900" height="960" alt="Line graph of cumulative extraction in million units against years. Reserves are 600 million units, shown as a dashed horizontal line. At a constant 20 million a year the straight line reaches 600 after 30 years. If extraction grows 4 percent a year, the curve is steeper: cumulative use is 595.6 after 20 years and 639.4 after 21 years, so the reserve runs out during the 21st year." loading="lazy">
+  <figcaption>Growing extraction cuts the life of a 600-unit reserve from 30 years to about 21.</figcaption>
+</figure>
+
 
 ## Policies at a glance
 
@@ -114,6 +163,17 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 **Method for a policy evaluation answer.** State how the policy changes incentives, then show the effect on output or pollution with a diagram or figures. Give one strength and one limit, each with a reason. Compare with an alternative if the question asks which is best. End with a judgement tied to the pollutant, the size of the external cost and the level of government that can act.
 
 **Levels.** Local: city zones and planning rules. National: taxes and standards. Regional: shared schemes across neighbouring countries. Global: treaties facing free riding and weak enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--14-env-tradable-permits.webp" width="900" height="880" alt="Two marginal abatement cost lines meet at 80 tonnes cut by X and a permit price of 16. The shaded triangle is the 450 saved compared with equal cuts of 50 each, cutting the total from 1,250 to 800." loading="lazy">
+  <figcaption>Trading permits equalises marginal abatement costs and lowers the total cost of a given cut.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--05-env-policy-bite.webp" width="900" height="960" alt="Two checks. First, a tax on a good with price elasticity of demand of minus 0.4: a 10 percent price rise cuts quantity by 4 percent, and a 12 percent cut needs a 30 percent price rise, so a tax on an inelastic good raises revenue but changes behaviour little. Second, a firm with a compliance cost of 800 pounds and a 10 percent chance of a 5,000 pound fine expects to pay 500, so breaking the rule can pay. A fine of 8,000 pounds gives an expected 800, equal to the compliance cost, so the fine would need to exceed 8,000 to deter it." loading="lazy">
+  <figcaption>A tax on an inelastic good changes behaviour little, and a fine must exceed cost divided by the chance of being caught.</figcaption>
+</figure>
+
 
 ## Evaluation checklist
 
@@ -165,3 +225,9 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Market failure and government intervention, topic Environment. Practice questions: see the [practice set](/resources/ocr-a-level-economics-the-environment-and-market-failure-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+

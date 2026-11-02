@@ -92,6 +92,12 @@ Test yourself afterwards with the [further calculus practice questions](/resourc
 
 New series come from substitution (x → 2x, x → x²), products (eˣ sin x), and term-by-term differentiation or integration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--08-maclaurin-sin.webp" width="900" height="776" alt="sin x is plotted with the Maclaurin polynomials x, x − x³/3! and x − x³/3! + x⁵/5!. Each extra term keeps the polynomial close to sin x for longer. At x = 1 the values are 0.8415, 0.8333 and 0.8417." loading="lazy">
+  <figcaption>Adding Maclaurin terms improves the fit to sin x near 0.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **First principles (polynomial)**
@@ -163,6 +169,12 @@ New series come from substitution (x → 2x, x → x²), products (eˣ sin x), a
 1. Find y′(0) from the equation.
 2. Differentiate the equation implicitly for y″, y‴.
 3. Substitute x = 0 each time; build the series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--06-euler-method.webp" width="900" height="766" alt="Three straight Euler steps from (0, 1) reach (0.1, 1.1), (0.2, 1.22) and (0.3, 1.362). The exact solution y = 2eˣ − x − 1 lies above the Euler path and has y(0.3) ≈ 1.400, so Euler underestimates here by about 0.038." loading="lazy">
+  <figcaption>Euler’s method follows the slope at each step, so it drifts off the exact curve.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

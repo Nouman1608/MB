@@ -48,6 +48,27 @@ YED = %ΔQd / %Δincome   XED = %ΔQd(A) / %ΔP(B)
 
 **The more inelastic side of the market bears more of an indirect tax.** This single result explains why tobacco duty raises so much revenue and changes so little behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--11-kiosk-movement-vs-shift.webp" width="900" height="940" alt="Price against bars per week for the kiosk (axes start at 200 bars and 0.50 pounds). D1 is Qd = 600 - 200P. A price rise from 1.00 to 1.50 moves up D1 from 400 to 300 bars, a contraction. After a news story demand becomes Qd = 700 - 200P (D2), so at 1.50 the kiosk sells 400 instead of 300: a shift right." loading="lazy">
+  <figcaption>Own price change moves along the curve; any other cause shifts the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+
 ## Costs, revenue and profit
 
 ```
@@ -62,6 +83,17 @@ profit maximised where MC = MR
 **Marginal cost cuts average cost at its minimum.** That is not a coincidence: while MC is below AC it pulls the average down; once MC rises above AC it pulls the average up. Explaining *why* rather than just stating it is a distinguishing answer.
 
 **Normal profit** is the minimum return needed to keep the entrepreneur in the industry, and is counted as a **cost**. **Supernormal profit** is anything above it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--01-stool-cost-curves.webp" width="900" height="930" alt="Cost per stool against output (2 to 8) for the lesson stool workshop with fixed cost 60. AFC falls throughout, AVC is lowest at 4 stools (23.00) and AC lowest at 6 stools (35.33). MC is 34 at output 6, below AC 35.33, so AC falls; MC is 44 at output 7, above AC 36.57, so AC rises." loading="lazy">
+  <figcaption>MC cuts AVC and AC at their lowest points, shown with the lesson stool table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--11-productive-efficiency.webp" width="900" height="920" alt="ATC and MC for the lesson illustrative firm. ATC falls to a minimum of 34 at Q 30 where MC crosses it, and is 36.50 at Q 20." loading="lazy">
+  <figcaption>A firm is productively efficient where MC = ATC at minimum ATC.</figcaption>
+</figure>
+
 
 ## Market structures
 
@@ -82,11 +114,43 @@ profit maximised where MC = MR
 
 **Price discrimination** requires market power, the ability to separate markets, and different PEDs in each. It raises producer surplus and can allow output that would otherwise be unprofitable, but transfers surplus from consumers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--04-market-structure-spectrum.webp" width="900" height="1020" alt="A spectrum from perfect competition to pure monopoly with three double-headed arrows for number of firms, product and entry. Markets W, X, Y and Z from the lesson are placed in perfect competition, monopolistic competition, oligopoly and pure monopoly." loading="lazy">
+  <figcaption>Place a market using number of firms, product differentiation and ease of entry together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--03-pc-long-run-entry.webp" width="900" height="850" alt="Entry pushes price from 56 down to 35, the lowest point of AC at 5 units, where P = MC = AC and TR = TC = 175. With demand of 1,500 at 35 there are 300 firms, 100 of them new." loading="lazy">
+  <figcaption>Entry removes supernormal profit until price equals the lowest average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--01-mono-formal-diagram.webp" width="900" height="940" alt="Monopoly diagram for P = 60 - 2Q, MC 12 pounds, fixed cost 96 pounds: MR = MC at 12 units, price 36 pounds on AR, AC 20 pounds, supernormal profit rectangle 192 pounds." loading="lazy">
+  <figcaption>Read output where MR meets MC, price on AR, and profit between price and AC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--12-monopoly-deadweight-loss.webp" width="900" height="920" alt="Demand P = 64 - Q, MC = 4 + Q, MR = 64 - 2Q. Monopoly output 20 at price 44 gives CS 200, PS 600 and deadweight loss 100, against competitive output 30 at price 34." loading="lazy">
+  <figcaption>The deadweight loss is the triangle between D and MC for the units not produced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--15-static-vs-dynamic.webp" width="900" height="940" alt="Total surplus for monopoly (800), competition (900), monopoly after R&amp;D (1,008) and competition with the same improved technology (1,200), split into CS and PS." loading="lazy">
+  <figcaption>A static loss can be outweighed by dynamic gains, but consumers can still end up worse off.</figcaption>
+</figure>
+
+
 ## The labour market
 
 Demand for labour is **derived** from demand for the product. Wage determination by supply and demand; elasticity depends on skill, training time and substitutability.
 
 **Monopsony** — a single buyer of labour — restricts employment and pays below the competitive wage. This is why a **minimum wage can raise both wages and employment in a monopsonistic labour market**, which is the counter-intuitive result worth having ready, since the simple competitive model predicts only unemployment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-microeconomics-revision-notes--01-min-wage-monopsony.webp" width="900" height="950" alt="Illustrative graph for a care home that is the only local employer. Supply of labour S, marginal revenue product MRP and marginal cost of labour MCL are plotted. Without a floor the firm hires 6 workers where MCL meets MRP and pays 10 pounds from S. A minimum wage of 12 pounds raises employment to 8 and narrows the gap between MRP and the wage from 6 pounds to 2 pounds." loading="lazy">
+  <figcaption>A minimum wage between the monopsony wage and the point where employment falls back can raise both pay and jobs.</figcaption>
+</figure>
+
 
 ## Market failure
 

@@ -32,6 +32,12 @@ These notes condense section 4.5 (4.5.1 to 4.5.3) of the Cambridge O Level Econo
 | Faster, but may push up prices | Slower, aims for lasting growth without price pressure |
 | Taxes, spending, interest rates, money supply, exchange rates | Training, reforms, tax and rule changes, ownership |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## The six measures (4.5.2)
 
 | Measure | What the government does | Main effect | One evaluation point |
@@ -45,6 +51,27 @@ These notes condense section 4.5 (4.5.1 to 4.5.3) of the Cambridge O Level Econo
 
 Remember: direct taxes are on income and profit; indirect taxes are on spending. Privatisation changes ownership; deregulation changes rules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-side-policy--04-training-productivity.webp" width="900" height="1010" alt="A chain shows training paid for, workers more skilled, output per worker up, cost per chair down. Bars show output per worker rising from 30 to 36 chairs, up 20 percent, and labour cost per chair falling from 24 to 20, down 16.7 percent." loading="lazy">
+  <figcaption>Training raises productivity and lowers unit labour cost, but costs money first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-side-policy--05-lower-direct-taxes.webp" width="900" height="870" alt="Stacked bars split 30 for an extra hour into 18 kept and 12 tax at 40 percent, and 21 kept and 9 tax at 30 percent. A second pair splits profit of 80,000 into 56,000 kept and 24,000 tax at 30 percent, and 64,000 kept and 16,000 tax at 20 percent." loading="lazy">
+  <figcaption>A lower direct tax rate raises what is kept, but government revenue falls unless activity rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-side-policy--01-ss-three-measures.webp" width="900" height="1040" alt="Three before and after panels. Bus operators rise 20 to 35 and the average fare falls from 10 to 8.50 (-15%). The gain from working rises from 40 to 55 (+37.5%) after a tax cut. A water firm cuts unit cost from 30 to 25 (-16.7%)." loading="lazy">
+  <figcaption>Three supply-side measures each move one number: fares, the gain from working and unit cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+
 ## Effects on macroeconomic aims (4.5.3)
 
 | Aim | Chain |
@@ -54,6 +81,12 @@ Remember: direct taxes are on income and profit; indirect taxes are on spending.
 | Stable prices | Lower unit costs let firms hold or cut prices |
 | Balance of payments stability | Lower costs and better quality help exports and reduce imports |
 | Redistribution of income | Training and jobs lift low earners; but tax cuts for high earners can work the other way |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-supply-side-policy--02-ss-country-m-aims.webp" width="900" height="1090" alt="Four rows compare Country M before and after: potential output 500 to 520, unemployment 8% to 6%, trade balance -10 to +4, and a price index 100 to 97." loading="lazy">
+  <figcaption>Supply-side policy can move growth, jobs, the trade balance and prices in Country M.</figcaption>
+</figure>
+
 
 ## Method boxes
 

@@ -40,6 +40,22 @@ These notes condense sections 10.1.1 and 10.2.1 to 10.2.5 of the Cambridge Inter
 
 Key point: objectives conflict, and ranking them is a value judgement. A good answer names the conflict and says which objective a government might put first and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--05-un147-real-wage.webp" width="900" height="960" alt="Nominal wages rise 5.0 percent and prices 4.02 percent, so real wages rise 0.94 percent." loading="lazy">
+  <figcaption>Worked example: wages beat prices by a real 0.94 percent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--01-macro-objectives-indicators.webp" width="900" height="970" alt="Four cards show the four main objectives and the indicator measuring each: real GDP (per capita) for growth, CPI/RPI for price stability, unemployment measures, and the current account balance. Pills list other objectives: balanced budget, fair income and wealth, and (OxfordAQA only) protecting the environment." loading="lazy">
+  <figcaption>Each objective is matched to the indicator that measures it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+
 ## Formulas and definitions
 
 | Item | Rule |
@@ -84,6 +100,22 @@ Key point: objectives conflict, and ranking them is a value judgement. A good an
 - Export-led growth or better competitiveness can improve the balance.
 - Investment may need imported capital goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--11-eco27-value-of-money.webp" width="900" height="970" alt="A basket costing 200 in A and 100 in X is at parity at a rate of 0.50. After A prices rise 5 percent and X prices 2 percent, the A basket costs 105 in X money, 2.94 percent dearer. The parity rate is 0.4857, a depreciation of 2.86 percent." loading="lazy">
+  <figcaption>Higher home inflation tends to push the exchange rate down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--12-eco27-import-passthrough.webp" width="900" height="830" alt="Imports are 25 percent of a price index of 100. An 8 percent currency fall raises import prices 8.7 percent, so the import block grows from 25 to 27.2 and the index rises 2.2 points if fully passed on." loading="lazy">
+  <figcaption>A weaker currency raises the price index through import prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--06-un147-elasticity-exports.webp" width="900" height="830" alt="Illustrative: a 5 percent export price rise with elasticity -0.5 cuts volume 2.5 percent but lifts earnings 2.4 percent; with elasticity -2 volume falls 10 percent and earnings 5.5 percent." loading="lazy">
+  <figcaption>Whether inflation hurts the current account depends on elasticities.</figcaption>
+</figure>
+
+
 ## 10.2.5 Phillips curves
 
 | | Traditional | Expectations-augmented |
@@ -101,6 +133,27 @@ Key point: objectives conflict, and ranking them is a value judgement. A good an
 - Hold unemployment below the natural rate: expected inflation keeps rising, so inflation accelerates.
 
 Worked reminder with inflation = expected inflation − 0.4 × (unemployment − 6): if expected inflation is 3% and unemployment is 4%, inflation = 3 − 0.4 × (4 − 6) = 3.8%. At 7% unemployment it is 3 − 0.4 × 1 = 2.6%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--14-eco27-phillips-table.webp" width="900" height="890" alt="Unemployment of 3, 5 and 7 percent goes with inflation of 5, 3 and 2 percent. Cutting unemployment from 5 to 3 percent adds 2 points of inflation; raising it from 5 to 7 percent lowers inflation by only 1 point." loading="lazy">
+  <figcaption>The traditional Phillips curve flattens as unemployment rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--15-eco27-eapc-acceleration.webp" width="900" height="985" alt="Short-run Phillips curves for expected inflation of 2 to 6 percent are parallel lines and the long-run curve is vertical at 5 percent. Holding unemployment at 3 percent gives inflation of 3, 4, 5, 6 and 7 percent in years 1 to 5 as expectations catch up." loading="lazy">
+  <figcaption>Holding unemployment below the natural rate needs ever-accelerating inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--08-un147-stagflation.webp" width="900" height="910" alt="A supply shock shifts the SRPC up; the economy moves from A (5 percent unemployment, 2 percent inflation) to B (6 percent, 4.5 percent): both rise." loading="lazy">
+  <figcaption>Stagflation is a shift of the curve, not a move along it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--09-un147-lrpc-shift.webp" width="900" height="910" alt="Supply-side policy lowers the natural rate (illustrative 5 to 4 percent) so the LRPC shifts left; unemployment falls with inflation unchanged at 2 percent." loading="lazy">
+  <figcaption>Supply-side policy can shift the LRPC left.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -158,6 +211,17 @@ Each year inflation rises by 0.8 points, the gap between the natural rate and ac
 8. Changes in expected inflation, supply shocks, changes in the natural rate or union power (any two).
 9. 150 − 170 + 10 − 4 = **−14**, a deficit.
 10. A deficit pushes the currency down; import prices rise in home currency and add to costs and the price index.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--13-eco27-growth-imports.webp" width="900" height="1000" alt="Country P has exports of 340 and imports of 360. With income up 5 percent and import income elasticity 1.4, imports rise 7 percent to 385.2 while exports rise 3 percent to 350.2. The deficit widens from 20 to 35." loading="lazy">
+  <figcaption>Fast growth can widen a current account deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--07-un147-real-nominal-b.webp" width="900" height="940" alt="Nominal GDP 640 to 678.4 splits into 17.4 of real growth (2.7 percent) and 21.0 of higher prices (3.2 percent); at year-0 prices output is 657.4." loading="lazy">
+  <figcaption>Country B: nominal growth of 6.0 percent is only 2.7 percent real.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

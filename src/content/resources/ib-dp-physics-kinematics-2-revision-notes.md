@@ -50,6 +50,12 @@ Average speed and average velocity are only equal when the motion stays in one d
 
 **Example.** A trolley moves 60 m east and then 20 m west in 16 s. Distance = 80 m, displacement = 40 m east. Average speed = 80 ÷ 16 = 5.0 m s⁻¹. Average velocity = 40 ÷ 16 = 2.5 m s⁻¹ east.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--01-distance-vs-displacement.webp" width="900" height="850" alt="A ball is thrown up 5.0 m and caught where it started. The distance is 10 m and the average speed 4.95 m/s (scalars); taking up as positive, the displacement is +5.0 minus 5.0 = 0, so the displacement and average velocity are zero (vectors)." loading="lazy">
+  <figcaption>Distance and speed are scalars; displacement and velocity are vectors and can be zero for a return journey.</figcaption>
+</figure>
+
+
 ## Average and instantaneous values
 
 | Value | How to find it |
@@ -61,6 +67,12 @@ Average speed and average velocity are only equal when the motion stays in one d
 | Instantaneous speed | The size of the instantaneous velocity |
 
 **Reminder.** For s = 0.8t² (s in m, t in s) the instantaneous velocity at t = 5.0 s is 8.0 m s⁻¹. The average over 5 s to 7 s is (39.2 − 20.0) ÷ 2 = 9.6 m s⁻¹. The shorter the interval, the closer the average gets to the instantaneous value. A chord centred on the instant (4 s to 6 s) gives exactly 8.0 m s⁻¹ here, because the acceleration is constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics-2-revision-notes--01-chord-vs-tangent.webp" width="900" height="880" alt="Displacement-time curve s equals 0.8 t squared. The tangent at t equals 5 s has gradient 8.0 metres per second, the instantaneous velocity. The chord from 5 s to 7 s joins s equals 20.0 and 39.2 m and has gradient 9.6 metres per second, the average velocity over that interval. A chord from 4 s to 6 s, centred on 5 s, has gradient exactly 8.0 because the acceleration is constant." loading="lazy">
+  <figcaption>Chord and tangent for s = 0.8t^2 with the page numbers 8.0, 9.6 and 8.0.</figcaption>
+</figure>
+
 
 ## Graph rules
 
@@ -76,6 +88,17 @@ Average speed and average velocity are only equal when the motion stays in one d
 - For a v-t graph made of straight pieces, split the area into triangles, rectangles and trapeziums. For a curve, count squares or use trapeziums and say the result is an estimate.
 
 **Reminder.** A v-t graph rises from 0 to 4 m s⁻¹ in 5 s, then to 6 m s⁻¹ over the next 5 s, then stays at 6 m s⁻¹ for 5 s. Displacement = 10 + 25 + 30 = 65 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics-2-revision-notes--05-vt-area-65m.webp" width="900" height="850" alt="Velocity-time graph rising from 0 to 4 m/s in 5 s, then to 6 m/s over the next 5 s, then constant at 6 m/s for 5 s. Areas: triangle 10 m, trapezium 25 m, rectangle 30 m, total displacement 65 m. Gradients are 0.8, 0.4 and 0 metres per second squared." loading="lazy">
+  <figcaption>Area under a three-piece v-t graph gives 10 + 25 + 30 = 65 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--04-motion-graphs-together.webp" width="900" height="960" alt="One journey drawn as aligned s-t and v-t graphs: speeding up (curve, a = +2), steady 6 m/s (straight line, gradient 18 m / 3 s), slowing (a = -3). The areas 9, 18 and 6 m total 33 m, the end of the s-t graph." loading="lazy">
+  <figcaption>Gradient of s-t is velocity; area under v-t is displacement.</figcaption>
+</figure>
+
 
 ## Equations of motion
 
@@ -111,11 +134,23 @@ Here s is displacement, u initial velocity, v final velocity, a acceleration and
 - A train with u = 8.0 m s⁻¹ and a = 0.50 m s⁻² for 12 s has v = 14.0 m s⁻¹ and s = 132 m.
 - A car at 30 m s⁻¹ braking at 6.0 m s⁻² stops in 5.0 s over 75 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--03-four-suvat-equations.webp" width="900" height="930" alt="A car speeds up from 8 to 20 m/s in 6 s, covering 84 m at 2 m/s squared. Four cards check each SUVAT equation with these numbers and show which variable each leaves out." loading="lazy">
+  <figcaption>Each SUVAT equation leaves out one of s, u, v, a, t, so choose the one that omits the unknown.</figcaption>
+</figure>
+
+
 ## Uniform versus non-uniform acceleration
 
 - **Uniform:** the acceleration does not change in size or direction. The v-t graph is straight. Use the four equations.
 - **Non-uniform:** the acceleration changes, so the v-t graph is curved. Use gradients and areas of the graph instead, or split the motion into stages that are close to uniform.
 - Falling with fluid resistance is the standard non-uniform case in this topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--05-when-suvat-applies.webp" width="900" height="1060" alt="A straight v-t line has gradient 2 m/s squared everywhere, so SUVAT applies. A curved v-t graph has tangents of different steepness (a = 3.9 then 0.68), so acceleration changes and SUVAT fails." loading="lazy">
+  <figcaption>SUVAT needs a straight-line velocity-time graph (constant acceleration).</figcaption>
+</figure>
+
 
 ## Projectiles with no fluid resistance
 
@@ -138,16 +173,44 @@ The path is a parabola. You do not need the equation of the trajectory.
 
 **Reminder.** u = 24 m s⁻¹ at 40°: uₓ = 18.4 m s⁻¹, uᵧ = 15.4 m s⁻¹, T = 3.15 s, range = 57.8 m, H = 12.1 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--07-angled-launch.webp" width="900" height="680" alt="A ball launched at 25 m/s at 50 degrees has vx = 16.1 and vy = 19.1 m/s, flight time 3.90 s, range 62.7 m and maximum height 18.7 m. At the top vy is zero, the speed is vx and the acceleration is still 9.81 m/s squared downwards." loading="lazy">
+  <figcaption>Resolve the launch velocity, treat the components separately, and remember acceleration is g all the way.</figcaption>
+</figure>
+
+
 ### Launch horizontally
 
 - Vertical initial velocity is zero. Time of fall depends only on the height and g.
 - Horizontal distance = uₓ × time of fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--06-horizontal-launch.webp" width="900" height="922" alt="A ball thrown horizontally at 12 m/s lands 2.4 s later; dots every 0.4 s show constant horizontal velocity and a growing downward velocity. Vertical motion alone gives h = 28.3 m; horizontal distance is 28.8 m." loading="lazy">
+  <figcaption>Horizontal and vertical motion are independent: use the vertical motion for the height and s = vt horizontally for the distance.</figcaption>
+</figure>
+
 
 ### Launch at an angle below the horizontal
 
 - Take uᵧ as a downward component. With down as positive, uᵧ = u sin θ and a = +g.
 - The path starts steep and gets steeper. There is no highest point after launch.
 - The landing speed is larger than the launch speed when the landing level is lower than the launch point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics-2-revision-notes--02-terminal-speed-balance.webp" width="900" height="1120" alt="Velocity-time graph of a falling body rising from zero and flattening at a terminal speed of 50 metres per second (illustrative numbers). Three force diagrams: A just released, drag zero, acceleration 9.81; B speeding up, drag smaller than weight, acceleration smaller; C terminal speed, drag equal to weight, acceleration about zero, speed constant." loading="lazy">
+  <figcaption>Drag and weight arrows and the v-t graph as a falling body reaches terminal speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics-2-revision-notes--03-drag-changes-path.webp" width="900" height="980" alt="A projectile launched at 24 m/s and 40 degrees. Without drag the path is a symmetrical parabola with range 57.8 m and height 12.1 m. With drag (illustrative model) the path is lower and shorter, range 40.2 m and height 9.9 m, steeper on the way down, the rise takes less time than the fall, and landing speed is less than launch speed." loading="lazy">
+  <figcaption>Same launch with and without drag: lower, shorter, steeper on the way down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics-2-revision-notes--04-launch-below-horizontal.webp" width="900" height="830" alt="Ball launched at 20 m/s, 30 degrees below horizontal from a 40 m cliff. Taking down as positive, the vertical start speed is 10.0 m/s and a equals g. It lands after 2.01 s, 34.9 m from the base, at 34.4 m/s, faster than the launch speed. The path starts steep and gets steeper; there is no highest point after launch." loading="lazy">
+  <figcaption>Downward launch from a 40 m cliff with down as positive.</figcaption>
+</figure>
+
 
 ## Fluid resistance on projectiles (qualitative)
 
@@ -172,6 +235,12 @@ Fluid resistance means the drag from a gas or a liquid. It opposes the velocity 
 - Zero velocity versus zero acceleration: a ball at the top of its flight has zero vertical velocity but acceleration g.
 - Uniform versus non-uniform: straight versus curved v-t line.
 - At terminal speed the acceleration is zero and the velocity is constant, but not because no force acts. There are two forces (weight and drag), and they cancel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--02-signs-in-vertical-motion.webp" width="900" height="1010" alt="The v-t graph of the thrown ball is one straight line from +9.9 to -9.9 m/s, gradient -9.81 m/s squared throughout, even at the top. Area above the axis is +5.0 m and below is -5.0 m, so total displacement is zero." loading="lazy">
+  <figcaption>With up positive the ball has a negative acceleration all the time, and signed areas give displacement.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -30,6 +30,22 @@ Wants are unlimited; resources are scarce. Therefore choices must be made, and e
 
 Factors of production: land (rent), labour (wages), capital (interest), enterprise (profit). **Capital means machinery and equipment, not money.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## Demand
 
 Demand slopes **downward**: as price falls, quantity demanded rises, because consumers' real income goes further and the good becomes cheaper relative to substitutes.
@@ -43,6 +59,17 @@ Conditions of demand (causes of a shift): income, price of substitutes, price of
 
 For a **normal good** demand rises with income; for an **inferior good** it falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## Supply
 
 Supply slopes **upward**: higher prices make production more profitable, so firms supply more.
@@ -51,11 +78,33 @@ Conditions of supply: production costs, technology, indirect taxes, subsidies, t
 
 A **subsidy shifts supply right**; an **indirect tax shifts supply left**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Equilibrium
 
 Where demand meets supply. At a price **above** equilibrium there is **excess supply** (surplus), so price falls; **below** it there is **excess demand** (shortage), so price rises.
 
 When answering "explain the effect of X on price and quantity", always work in four steps: identify **which curve** moves, state **which direction**, describe the **new equilibrium**, and give the effect on **both** price and quantity. Answering only about price loses half the marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-demand-supply-and-equilibrium-price--04-tomato-both-curves-shift.webp" width="900" height="1030" alt="Demand rises by 125 while supply falls. If supply falls by 100 equilibrium is 15.8 cu and 535 crates (quantity up); if it falls by 300 equilibrium is 17.4 cu and 455 crates (quantity down). Price rises either way." loading="lazy">
+  <figcaption>Both curves shifting: price rises, quantity depends on the sizes of the shifts.</figcaption>
+</figure>
+
 
 ## Elasticity
 
@@ -76,6 +125,22 @@ XED = %change in quantity demanded of A / %change in price of B
 This is why taxes on cigarettes and fuel raise so much revenue: demand is inelastic, so consumption barely falls and the tax burden is passed almost entirely to consumers. It is also why such taxes are poor at changing behaviour — the same fact seen from the other side.
 
 **Determinants of PES:** availability of stock, spare capacity, ease of switching production, and time. Supply is more elastic in the long run because firms can expand capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--10-ped-factors.webp" width="900" height="868" alt="Six factors shown as inelastic to elastic scales." loading="lazy">
+  <figcaption>Substitutes, luxury, share of income, time, habit and market width all move PED.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--05-tax-ped-link.webp" width="900" height="720" alt="A tax raises price by 10%. With elasticity -0.4 quantity falls by 4%, a small fall, so the state collects plenty while people keep buying." loading="lazy">
+  <figcaption>A 10% price rise with elasticity -0.4 cuts quantity by only 4%.</figcaption>
+</figure>
+
 
 ## Competition and monopoly
 

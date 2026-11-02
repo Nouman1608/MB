@@ -57,6 +57,12 @@ As incomes rise, many people eat more meat and dairy. Animals are fed crops, and
 2. Cattle eat the crop: 600 000 × 0.10 = **60 000 kJ** is stored in beef.
 3. The crop route gives 600 000 / 60 000 = **10 times** as much energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--01-mp18-crop-vs-cattle.webp" width="900" height="880" alt="Bar chart to scale. People eating the crop get up to 600 000 kJ. If cattle eat the crop and people eat beef, only 60 000 kJ is stored in beef and 540 000 kJ is lost as heat, waste and uneaten parts. The crop route gives 10 times as much energy." loading="lazy">
+  <figcaption>A meat-based diet needs far more farmland: with 10 % transfer, eating the crop gives 10 times the energy.</figcaption>
+</figure>
+
+
 ### New pests and pathogens
 
 Pests (such as insects) eat or damage crops and livestock. Pathogens (fungi, bacteria, viruses) cause disease. Global trade and travel move them to places where plants and animals have no resistance. A new fungal disease can destroy a large share of a crop in a season. Pests and pathogens can also evolve resistance to the chemicals used against them.
@@ -100,12 +106,39 @@ Fertilisers supply mineral ions that crops take up from soil. Harvesting removes
 4. Bacteria decompose the dead material and use up oxygen in aerobic respiration.
 5. Fish and other animals suffocate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--02-mp18-nitrogen-yield.webp" width="900" height="960" alt="Line graph of wheat yield against nitrogen applied (3.1 to 7.7 tonnes per hectare for 0 to 200 kg). Gains shrink: 2.1, 1.6, 0.7, 0.2 tonnes. From 100 to 150 kg extra income of 140 pounds beats extra cost of 60 pounds; from 150 to 200 kg 40 pounds is below 60 pounds." loading="lazy">
+  <figcaption>Each extra 50 kg of nitrogen gives a smaller gain, and past 150 kg the extra cost exceeds the extra income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--10-phosphate-potassium.webp" width="900" height="810" alt="Three plants: healthy, phosphate-deficient with purple-tinged leaves and poor roots, and potassium-deficient with yellow leaves and dead patches." loading="lazy">
+  <figcaption>Phosphate and potassium deficiency show up in the leaves and roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
+
 ### Pesticides
 
 Pesticides kill organisms that reduce yield. Insecticides kill insects, herbicides kill weeds (which compete for light, water and ions), and fungicides kill fungi.
 
 - **Benefits:** less crop lost to pests, weeds and disease; higher and more reliable yields.
 - **Risks:** they can kill harmless species, including pollinators. Some persist and build up along food chains. Pests can evolve resistance, because individuals that survive pass on resistance alleles. They cost money, and residues may reach water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
 
 ### Hydroponics
 
@@ -120,6 +153,12 @@ In hydroponics plants grow with their roots in a solution of mineral ions instea
 2. Percentage greater = (168 - 131) / 131 × 100 = **28%**.
 3. Only five plants were measured, so repeat with more plants before judging the difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--03-mp18-hydroponics.webp" width="900" height="1090" alt="A plant held by a support over a tank with its roots in an aerated solution of mineral ions, air supplied by a pump. A bar chart shows the mean mass of five hydroponic lettuces, 168 g, against 131 g for soil lettuces, 28 % greater, with a reminder that only five plants were measured." loading="lazy">
+  <figcaption>Hydroponic plants grow with roots in aerated mineral ion solution; the example lettuces were 28 % heavier.</figcaption>
+</figure>
+
+
 ### Biological control
 
 Biological control uses a living organism to reduce a pest: a predator, a parasite or a pathogen of the pest. Ladybirds eat aphids. A parasitic wasp (*Encarsia formosa*) is used against whitefly in glasshouses. The bacterium *Bacillus thuringiensis* infects caterpillars.
@@ -128,6 +167,17 @@ Biological control uses a living organism to reduce a pest: a predator, a parasi
 - **Disadvantages:** slow to work, rarely removes the pest completely, and depends on conditions suiting the control organism. An introduced species may harm other species. Cane toads, released in Australia to control beetles, became a pest themselves.
 
 Pest numbers usually rise first, then the predator numbers rise, and then pest numbers fall. This delay appears in graphs, so read both lines together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--09-biocontrol-lag.webp" width="900" height="770" alt="A line graph from an illustrative model: pest numbers peak first, predator numbers peak a little later, then pests fall. Three boxes show predator, parasite and pathogen control with the lesson’s examples." loading="lazy">
+  <figcaption>Pest numbers rise first, then predator numbers rise and the pest numbers fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--01-food-production-methods.webp" width="900" height="935" alt="Five pictured rows: a tractor (agricultural machinery: larger area farmed more efficiently), a fertiliser bag marked nitrate feeding a plant (better yield), a crossed-out insect (insecticides kill insect pests), a crossed-out weed beside a crop (herbicides kill weeds so less competition for light, water and mineral ions), and a small ear of grain becoming a large one (selective breeding gives higher-yielding crops and livestock)." loading="lazy">
+  <figcaption>Each of the five methods and what it does for yield.</figcaption>
+</figure>
+
 
 ## B6.2c Impact of selective breeding
 
@@ -157,6 +207,22 @@ Food plants are bred for yield, size, taste, ripening time, disease resistance a
 - It is slow, taking many generations.
 
 Keeping wild relatives and seed banks preserves alleles that breeders can use later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--11-variation-disease.webp" width="900" height="810" alt="Two rows of ten plants before and after a new disease. In the varied population three carry a resistance allele and survive; in the population bred from a few individuals none do and the crop is lost. The numbers are illustrative." loading="lazy">
+  <figcaption>Reduced genetic variation can mean no individual carries resistance when a new disease appears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--12-inbreeding-punnett.webp" width="900" height="920" alt="A common ancestor carrying one copy of a harmful recessive allele passes it to two related parents, both Aa. A Punnett square shows AA, Aa, Aa and aa, so one child in four has two copies and the disorder." loading="lazy">
+  <figcaption>Related parents are more likely to share a harmful recessive allele, so more offspring inherit two copies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -61,6 +61,12 @@ Other pages: [0625 course hub](/boards/cambridge/igcse/physics/), [printable 062
 
 Particle charges: proton **+1**, neutron **0**, electron **−1**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
+
 ## The nuclear model
 
 - Small, positive nucleus (protons and neutrons); electrons orbit it.
@@ -84,6 +90,17 @@ Particle charges: proton **+1**, neutron **0**, electron **−1**.
 - β always means β⁻ (an electron) in this syllabus.
 - **Why α ionises most (Extended only):** largest charge and large kinetic energy, so it interacts strongly with atoms it passes and loses energy fast. γ has no charge, so it ionises least and penetrates most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--06-field-deflection.webp" width="900" height="920" alt="Between a positive plate above and a negative plate below, beta curves strongly up towards the positive plate, alpha bends slightly down towards the negative plate, and gamma goes straight on." loading="lazy">
+  <figcaption>Charged radiation is deflected by an electric field; gamma is not.</figcaption>
+</figure>
+
+
 ## Decay equations (Extended only)
 
 **Method in steps**
@@ -104,6 +121,12 @@ Particle charges: proton **+1**, neutron **0**, electron **−1**.
 - In β decay: **neutron → proton + electron**; the electron leaves as the β particle. That is why Z rises by 1 and the number of excess neutrons falls.
 - Isotopes are unstable because of **too many neutrons** and/or a nucleus that is **too heavy**. Decay makes the nucleus **more stable**.
 - α or β decay: the nucleus becomes a **different element**. γ alone: same element, less energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
 
 ## Fission and fusion (Extended only)
 
@@ -134,6 +157,12 @@ Balance both rows in every nuclide equation. No numerical mass or energy values 
 - Read values off the curve to half a small square; draw construction lines to show where you read.
 - Core calculations will not include background; Extended ones may.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+
 ## Detection
 
 - Ionising radiation is measured with a **detector connected to a counter**.
@@ -150,6 +179,12 @@ Balance both rows in every nuclide equation. No numerical mass or energy values 
 - **Cancer treatment:** γ beams aimed at the tumour.
 
 **Rule of thumb:** justify each choice with **penetration** and **half-life**, not one of them alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
 
 ## Safety
 

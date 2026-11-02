@@ -50,6 +50,17 @@ Resources are scarce and wants are unlimited, so every economy has to decide how
 
 Every answer has an opportunity cost, because using a resource in one way means giving up its next best use. An economy that allocates resources well gets more of what people value from the same inputs. An economy that allocates them badly wastes inputs or produces what people do not want.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## 2. Incentives
 
 An **incentive** is a reward or a penalty that changes the pay-off of a choice, so that an economic agent behaves differently.
@@ -90,6 +101,17 @@ Judge an incentive on these points:
 
 A balanced answer says when the incentive is likely to work and judges how far it changes allocation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--07-fare-cut-incentive.webp" width="900" height="960" alt="A bus fare falls from £4.00 to £3.20, a 20% cut. With PED of minus 0.6, trips rise 12% from 50,000 to 56,000 a week, so the incentive works. Revenue falls from £200,000 to £179,200, down £20,800, because demand is inelastic." loading="lazy">
+  <figcaption>The fare-cut example: 6,000 extra trips but £20,800 less revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## 3. How economies allocate resources
 
 ### Market economy
@@ -98,6 +120,17 @@ Households and firms decide, and **prices** coordinate them. Prices do three job
 
 *Chain of reasoning:* stronger demand lifts the price, which lifts profit. Firms expand and bid for inputs, so resources move into the good until the shortage ends.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+
 ### Planned economy
 
 A central authority decides what is produced, how and for whom, through output targets and directed resources. Resources are mostly state owned. Prices are set by the planners.
@@ -105,6 +138,12 @@ A central authority decides what is produced, how and for whom, through output t
 ### Mixed economy
 
 Both are used. The private sector allocates most goods through prices. The government provides some goods directly, taxes, subsidises and regulates. Every real economy is mixed. They differ in the **proportion** of the two.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
 
 ### Worked example: a fixed price against a market price
 
@@ -133,6 +172,22 @@ If planners had fixed the price at £16, then Qd = 700 and Qs = 1,000, which lea
 **Judging the extent.** Which system is best depends on the goal. If the goal is variety and growth, markets do well. If it is equality or fast mobilisation, planning can do well. It also depends on the quality of institutions and on how large the state is.
 
 **Measuring the mix.** Country M (illustrative) spends £180bn of government money in a GDP of £600bn, which is 30%. Country N spends £264bn in a GDP of £550bn, which is 48%. Both are mixed, and N is nearer the planned end. The share alone does not show how much of the rest is regulated or directed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--06-fixed-price-shortage-surplus.webp" width="900" height="880" alt="Demand Qd = 1,500 minus 50P and supply Qs = 200 plus 50P meet at £13 and 850 tonnes. A planned price of £10 gives demand of 1,000 and supply of 700, a shortage of 300 tonnes shown as the horizontal gap between the curves. A planned price of £16 gives demand of 700 and supply of 1,000, a surplus of 300 tonnes." loading="lazy">
+  <figcaption>The lesson’s demand and supply functions with fixed prices of £10 (shortage 300) and £16 (surplus 300).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--10-mixed-economy-state-share.webp" width="900" height="780" alt="Country M spends £180bn of a £600bn GDP (30%) and Country N spends £264bn of £550bn (48%), drawn as shaded shares of two bars under a market-to-planned arrow. Both are mixed economies and N is nearer the planned end. The share alone does not show how much of the rest is regulated or directed." loading="lazy">
+  <figcaption>Measuring the mix: government spending of 30% of GDP in M and 48% in N.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--08-three-systems-allocation.webp" width="900" height="1260" alt="Market: households and firms linked by prices and profit. Planned: central planners set targets and prices. Mixed: prices plus government tax, subsidy and rules. Each carries one main strength and weakness." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who coordinates choices.</figcaption>
+</figure>
+
 
 ## 4. The objectives of economic agents
 
@@ -195,6 +250,17 @@ The objective changes the output, the price and the profit.
 - **Consumers** may not be rational. They may follow habit, or lack information.
 - **Government objectives** can conflict. Faster growth may raise inflation or harm the environment. Fairer incomes may dull incentives to work. The weight given to each is a value judgement.
 - A conclusion should say which objective is the most realistic for the agent in the context given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--08-three-objectives-output.webp" width="900" height="900" alt="Profit by output for P = 100 minus 10Q and TC = 100 plus 20Q is minus 30, 20, 50, 60, 50, 20 and minus 30 for outputs 1 to 7. Profit maximisation gives output 4, price £60, profit £60. Revenue maximisation gives output 5, TR £250, profit £50. Sales volume maximisation with no loss gives output 6, price £40, profit £20." loading="lazy">
+  <figcaption>The same firm picks outputs 4, 5 or 6 depending on its objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-resource-allocation-economic-systems-and-the--09-utility-maximising-budget.webp" width="900" height="840" alt="With £12, X at £3 and Y at £1, buying in order of utils per pound gives X1 (12), X2 (10), Y1 (9), X3 (8), Y2 (8), Y3 (7), using exactly £12. Total utility is 90 plus 24 = 114 utils. The alternative of 2 X and 6 Y also costs £12 but gives only 105 utils. The next unit of either good would give only 6 per pound." loading="lazy">
+  <figcaption>Spending the £12 in order of marginal utility per pound gives the maximum 114 utils.</figcaption>
+</figure>
+
 
 ## Common errors
 

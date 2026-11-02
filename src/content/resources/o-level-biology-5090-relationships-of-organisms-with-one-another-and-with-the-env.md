@@ -58,6 +58,12 @@ Energy **flows** in one direction: light → chemical energy in producers → ch
 | Carnivore | Animal that gets energy by eating other animals |
 | Decomposer | Organism that gets energy from dead or waste organic material |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--07-feeding-roles.webp" width="900" height="930" alt="A food chain of grass, grasshopper, frog and snake with arrows showing energy flow. Grass is the producer, the grasshopper the primary consumer and herbivore, the frog and snake are consumers and carnivores. Dashed arrows lead from all of them to a fungus, the decomposer." loading="lazy">
+  <figcaption>Producer, consumers (herbivore, carnivore) and decomposer in one food chain.</figcaption>
+</figure>
+
+
 ### Food chains and food webs (19.1.4, 19.1.6)
 
 A **food chain** shows the transfer of energy from one organism to the next. Each arrow points **in the direction energy flows**, from the organism eaten to the organism that eats it:
@@ -69,6 +75,17 @@ grass → grasshopper → frog → snake
 Each feeding level is a **trophic level**: grass is the producer, the grasshopper the primary consumer (herbivore), the frog and snake secondary and tertiary consumers (carnivores).
 
 A **food web** is a network of interconnected food chains. Most animals eat more than one kind of food, so a web is more realistic than a single chain. To interpret a web, follow every arrow into and out of the organism named. If frogs died out, grasshoppers might increase (fewer eaten) and snakes might decrease, or eat more of another prey species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--03-web-change.webp" width="900" height="1150" alt="Web: grass eaten by rabbits and voles; rabbits and voles eaten by foxes; voles also eaten by owls. Disease kills most rabbits (1), foxes eat more voles so voles fall (2), owls may fall (3), grass may rise (4)." loading="lazy">
+  <figcaption>Follow every arrow: fewer rabbits means more voles eaten, fewer owls and more grass.</figcaption>
+</figure>
+
 
 ### Why energy transfer is inefficient (19.1.7–19.1.8)
 
@@ -90,6 +107,12 @@ rabbits → foxes: (180 ÷ 2,000) × 100 = 9%
 energy not passed to rabbits = 20,000 − 2,000 = 18,000 kJ per m² per year
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--10-energy-transfer-worked.webp" width="900" height="960" alt="A pyramid of energy with bar widths to scale. Grass holds 20 000 kJ per square metre per year, rabbits 2 000 kJ and foxes 180 kJ. The transfer from grass to rabbits is 10 percent, leaving 18 000 kJ not passed on. The transfer from rabbits to foxes is 9 percent, leaving 1 820 kJ not passed on." loading="lazy">
+  <figcaption>Energy passed up a grassland food chain.</figcaption>
+</figure>
+
+
 ### Eating crops versus livestock (19.1.9)
 
 People eating crops are primary consumers. People eating livestock fed on crops are secondary consumers, so there is one extra transfer and more energy is lost.
@@ -102,6 +125,12 @@ cattle eat crop, humans eat cattle: 100,000 × 0.10 × 0.10 = 1,000 kJ
 ```
 
 Eating the crop gives humans ten times more energy, so the same land feeds more people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--11-crops-vs-livestock.webp" width="900" height="960" alt="A crop contains 100 000 kJ. If humans eat the crop, 10 percent passes on, so humans get 10 000 kJ. If cattle eat the crop and humans eat the cattle there is one more transfer, so 10 percent of 10 000 kJ leaves humans with 1 000 kJ. Eating the crop gives ten times more energy, so the same land feeds more people." loading="lazy">
+  <figcaption>Eating crops or livestock.</figcaption>
+</figure>
+
 
 ### Pyramids of numbers, biomass and energy (19.1.10)
 
@@ -121,6 +150,17 @@ biomass: 2,000 kg → 5,000 × 0.004 = 20 kg → 30 × 0.02 = 0.6 kg   (a true p
 ```
 
 The pyramid of numbers ignores size; the pyramid of biomass allows for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--09-oak-pyramids.webp" width="900" height="1060" alt="One oak tree of 2 000 kg supports 5 000 caterpillars of 0.004 kg each, which feed 30 birds of 0.02 kg each. The pyramid of numbers is 1, 5 000 and 30, so the middle bar is the widest and it is not pyramid-shaped. The biomass is 2 000 kg for the oak, 5 000 times 0.004 equals 20 kg for the caterpillars and 30 times 0.02 equals 0.6 kg for the birds, so each bar is narrower than the one below and the pyramid of biomass is pyramid-shaped. Bar widths are a sketch and not to scale." loading="lazy">
+  <figcaption>Oak tree: pyramid of numbers and of biomass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--01-energy-flow.webp" width="900" height="1190" alt="Light energy from the Sun is absorbed by a plant, and photosynthesis transfers it to chemical energy. Chemical energy passes to a herbivore and then a carnivore. At every stage, including decomposers, energy is transferred to the environment as heat. Dead material and waste pass to decomposers, and energy is never recycled." loading="lazy">
+  <figcaption>Energy enters as light, passes along the chain and leaves as heat; it is not recycled.</figcaption>
+</figure>
+
 
 ## 19.2 Nutrient cycles
 
@@ -153,6 +193,12 @@ You do not need the names of individual bacteria.
 
 Fungi and bacteria are **decomposers**. They secrete enzymes onto dead organic matter, absorb the digested products and respire them. This returns carbon dioxide to the air and ammonium ions to the soil, recycling elements for producers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--08-decomposition-recycling.webp" width="900" height="800" alt="A dead leaf on soil with a fungus and bacteria. Step 1: they secrete enzymes onto the dead matter. Step 2: they absorb the digested products. Step 3: they respire them, releasing carbon dioxide to the air and ammonium ions to the soil, which producers can use." loading="lazy">
+  <figcaption>Decomposers digest dead matter outside the body, absorb it and respire it, recycling CO2 and ammonium ions.</figcaption>
+</figure>
+
+
 ## 19.3 Ecosystems and biodiversity
 
 - **Population**: a group of organisms of one species, living in the same area, at the same time.
@@ -163,6 +209,12 @@ Fungi and bacteria are **decomposers**. They secrete enzymes onto dead organic m
 The rate of population growth depends on **food supply**, **competition**, **predation** and **disease**. More food speeds growth; more competitors, predators or disease slow it, or make the population fall.
 
 The **growth of the human population** is increasing the demand for global resources: food, water, land, fuel, timber and minerals. This pressure drives many of the impacts in 19.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--12-ecosystem-terms.webp" width="900" height="1000" alt="An ecosystem box contains a community and its environment (light, soil, water, air). The community holds three populations: four rabbits, three voles and two foxes, each population being one species in one area. Biodiversity is the number of different species, here three." loading="lazy">
+  <figcaption>Population, community, ecosystem, biodiversity.</figcaption>
+</figure>
+
 
 ## 19.4 Effects of humans on ecosystems
 
@@ -178,6 +230,12 @@ Forests are cleared for farmland, timber and building. Consequences:
 ### Over-harvesting and non-native species (19.4.2)
 
 **Over-harvesting** removes plants or animals faster than they can reproduce, so populations fall and may become extinct. Predators that relied on them lose food. **Introducing a non-native species** can harm an ecosystem when it has no natural predators or diseases there: it spreads quickly and out-competes or eats native species, reducing biodiversity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--09-harvest-nonnative.webp" width="900" height="990" alt="Top: a tall bar for organisms taken per year beside a short bar for organisms born, then a falling population and predators that lose their food. Bottom: three native species, then a non-native species and one native left, so native species fall from 3 to 1 and biodiversity falls." loading="lazy">
+  <figcaption>Taking organisms faster than they reproduce, or introducing a species with no predators, cuts populations and biodiversity.</figcaption>
+</figure>
+
 
 ### Eutrophication (19.4.3a)
 
@@ -198,6 +256,12 @@ Untreated sewage and nitrogen-containing fertilisers washed into water cause thi
 
 **Non-biodegradable plastics** are not broken down by decomposers, so they persist. In water and on land, animals become entangled in plastic, or swallow it and starve or choke.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--10-pesticides-plastics-harm.webp" width="900" height="1090" alt="Three rows. Insecticide kills pollinators and harms birds that eat poisoned insects. Herbicide kills non-target plants so animals lose food and habitat. Non-biodegradable plastic cannot be broken down by decomposers, and animals are entangled in it or swallow it." loading="lazy">
+  <figcaption>Insecticides, herbicides and plastics each harm living things beyond the target.</figcaption>
+</figure>
+
+
 ## 19.5 Conservation
 
 Reasons to conserve species (19.5.1): to **maintain biodiversity**, **reduce extinction** and **protect vulnerable environments**. Each species sits in food webs, so losing one affects others.
@@ -212,6 +276,12 @@ Reasons to conserve species (19.5.1): to **maintain biodiversity**, **reduce ext
 | | Monitoring of stock sizes |
 
 A **sustainable resource** (19.5.4) is one which is produced as rapidly as it is removed from the environment, so that it does not run out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--11-forest-conservation.webp" width="900" height="1030" alt="Four panels: protected areas where felling is banned, quotas limiting how much timber is felled, replanting felled trees, and education about the value of forests." loading="lazy">
+  <figcaption>Four ways to conserve forests: protected areas, quotas, replanting and education.</figcaption>
+</figure>
+
 
 ## Common errors
 

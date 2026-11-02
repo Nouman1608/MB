@@ -57,6 +57,12 @@ Worked reminder: *Oryza sativa* (Asian rice) and *Oryza glaberrima* (African ric
 Good features: number of legs, wings present or absent, leaf divided or not, veins parallel or branching, shell present or absent.
 Poor features: colour, size, "lives in ponds", "fast-moving".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-classification--01-key-six-organisms.webp" width="900" height="960" alt="A branching key for the lesson's six organisms. Couplet 1: exoskeleton and jointed legs? Yes goes to couplet 2, no to couplet 5. Couplet 2: more than four pairs of legs? Yes to couplet 3, no to couplet 4. Couplet 3: two pairs of antennae? Yes is a crab, no a centipede. Couplet 4: three pairs of legs? Yes is a housefly, no a spider. Couplet 5: feathers? Yes a sparrow, no a frog. The route 1a, 2a, 3a to the crab is highlighted." loading="lazy">
+  <figcaption>Six organisms need five couplets; follow one route down the key.</figcaption>
+</figure>
+
+
 ### Method in steps: using a key
 
 ```
@@ -80,6 +86,12 @@ Four vertebrates: a pigeon, a shark, a toad and a lizard. Four organisms need 4 
 ```
 
 Check it: each couplet asks about one feature, and each animal appears once. Notice that the key uses features straight from the vertebrate table below. That is a quick way to build a key in the exam: pick features the syllabus already lists for each group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--03-species-and-binomial.webp" width="900" height="1010" alt="Two animals of one species breed and produce fertile offspring. A binomial name has the genus first (capital letter) then the species (small letter), in italics, e.g. Panthera leo, Panthera tigris, Homo sapiens." loading="lazy">
+  <figcaption>A binomial name is genus plus species.</figcaption>
+</figure>
+
 
 ## 2.2 Features of organisms
 
@@ -129,6 +141,12 @@ Memory hook: count the **legs first**, then the **antennae**. Three pairs means 
 
 Worked reminder: a small animal has jointed legs, a body in two sections, five pairs of legs and two pairs of antennae. Jointed legs and an exoskeleton make it an arthropod. More than four pairs of legs and two pairs of antennae make it a crustacean. Watch whether a question gives legs or **pairs** of legs: ten legs is five pairs, not ten pairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--06-arthropod-groups.webp" width="900" height="1103" alt="Top-view drawings of an insect (3 body parts, 6 legs, 1 pair of antennae), arachnid (2 body parts, 8 legs, no antennae), crustacean (more than 4 pairs of legs, 2 pairs of antennae) and myriapod (long segmented body, 1-2 leg pairs per segment, 1 pair of antennae). All arthropods have jointed legs, a segmented body and an exoskeleton." loading="lazy">
+  <figcaption>Count legs, body parts and antennae to place an arthropod.</figcaption>
+</figure>
+
+
 ### Plants
 
 | | Ferns | Flowering plants |
@@ -143,11 +161,33 @@ Worked reminder: a small animal has jointed legs, a body in two sections, five p
 | Leaf veins | Parallel | Branching network |
 | Flower parts | Threes | Fours or fives |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-classification--02-fern-monocot-dicot.webp" width="900" height="1068" alt="Three rows. Ferns: a frond with spore patches underneath, no seeds and no flowers. Monocotyledons (maize, rice, onion): one seed leaf, parallel leaf veins, flower parts in threes. Dicotyledons (bean, sunflower, mango): two seed leaves, branching network of leaf veins, flower parts in fours or fives." loading="lazy">
+  <figcaption>Seed leaves, leaf veins and flower parts separate monocotyledons from dicotyledons.</figcaption>
+</figure>
+
+
 ### Viruses
 
 - Features (syllabus limit): **protein coat** and **genetic material**.
 - Not cells; not in any of the five kingdoms.
 - Can only **replicate inside living cells**, using the host cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-classification--01-virus-replication.webp" width="900" height="1100" alt="A virus (protein coat with genetic material) enters a host cell, the cell makes copies using its own materials, and new viruses leave. Outside a living cell no copies are made." loading="lazy">
+  <figcaption>A virus can only replicate inside a living cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--05-vertebrate-groups.webp" width="900" height="1145" alt="Five rows each with a simple animal drawing and three features: mammals (fur or hair, external ears, milk), birds (feathers and beak, wings, hard-shelled eggs), reptiles (dry scaly skin, rubbery-shelled eggs on land), amphibians (moist skin, shell-less eggs in water), fish (scales, fins, gills)." loading="lazy">
+  <figcaption>Each vertebrate group has its own set of features.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--07-five-kingdoms.webp" width="900" height="1206" alt="Extended. Animal: many cells, no cell wall, feeds by ingestion. Plant: cellulose cell wall, photosynthesis. Fungus: chitin wall, hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Viruses are in no kingdom: a protein coat and genetic material only." loading="lazy">
+  <figcaption>Five kingdoms by defining feature; viruses sit outside them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

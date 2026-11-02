@@ -60,6 +60,12 @@ A quota of 600 000 kg gives the same price and quantities. The gap of 1 per kg (
 
 A subsidy of 0.50 per kg to home growers makes them act as if the price were 4.50. Assuming supply rises steadily, supply at 4.50 is 200 000 + half of 100 000 = 250 000 kg. Cost: 250 000 × 0.50 = 125 000. Consumers still pay 4 and buy 1 000 000 kg, so imports are 750 000 kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--04-tariff-effect.webp" width="900" height="810" alt="At the world price of 200, demand is 100 000, home supply 30 000 and imports 70 000. The 20% tariff of 40 lifts the price to 240, so demand falls to 88 000, home supply rises to 42 000 and imports fall to 46 000, giving revenue of 46 000 x 40 = 1.84m." loading="lazy">
+  <figcaption>A tariff cuts imports, raises home output and earns revenue for the government.</figcaption>
+</figure>
+
+
 ### Summary table
 
 | Method | How it works | Price to consumers | Who gains | Who loses |
@@ -69,6 +75,12 @@ A subsidy of 0.50 per kg to home growers makes them act as if the price were 4.5
 | Subsidy | Cuts home costs | Stays low | Home firms | Taxpayers |
 | Embargo | Bans trade | Import unavailable | Home firms | Consumers, the banned exporter |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--06-tariff-or-subsidy.webp" width="900" height="890" alt="Free trade gives imports of 70 000 at a price of 200. The 20% tariff cuts imports to 46 000, raises the price to 240 and earns 1.84m. A subsidy of 25 per bicycle leaves the price at 200, imports fall to 62 500 and it costs the government 937 500." loading="lazy">
+  <figcaption>A tariff cuts imports most and earns money; a subsidy keeps prices low but costs taxpayers.</figcaption>
+</figure>
+
+
 ### Method steps for a protection calculation
 
 1. Find the new price (price × (1 + tariff rate)), or the subsidy-adjusted supply price.
@@ -76,6 +88,12 @@ A subsidy of 0.50 per kg to home growers makes them act as if the price were 4.5
 3. Imports = quantity demanded − home supply.
 4. Revenue or cost = quantity × amount per unit (tariff revenue uses imports; subsidy cost uses home output).
 5. Percentage change = change / original × 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--07-imports-by-method.webp" width="900" height="906" alt="Bars of annual bicycle imports: free trade 70 000, tariff 46 000, quota 46 000, subsidy 62 500 and embargo 0 because trade is banned." loading="lazy">
+  <figcaption>An embargo cuts imports to zero, more than a tariff, quota or subsidy.</figcaption>
+</figure>
+
 
 ## 6.2.5 Reasons for protection
 
@@ -90,6 +108,12 @@ A subsidy of 0.50 per kg to home growers makes them act as if the price were 4.5
 
 Small output leads to high unit cost. High unit cost means the firm cannot match the foreign price. It exits before growing. Protection raises the foreign price, the firm survives, output grows, unit cost falls, and the firm can compete without help. So the case is strongest when protection is temporary and has a stated end date.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--08-infant-industry.webp" width="900" height="810" alt="At 10 000 units the new battery industry has a unit cost of 250, above the world price of 200 but below the tariff-raised import price of 260. At 60 000 units the unit cost is 170, below 200, so the tariff can be removed. The cost line is straight between these two lesson points and is schematic." loading="lazy">
+  <figcaption>Protection works as a bridge until unit costs fall below the world price.</figcaption>
+</figure>
+
+
 ### Chain of reasoning: declining industry
 
 Imports are cheaper, so home sales fall. Firms cut jobs. Workers lose income, and a town that relies on the industry suffers. A quota slows the fall. The cost is higher prices for everyone who buys the good.
@@ -101,6 +125,22 @@ Quota raises the price of cloth by 1.20 per metre on 3 000 000 metres bought. Ex
 ### Dumping check
 
 Cost 70, home price 85, export price 60. Loss per unit abroad: 70 − 60 = 10. Export price below home price: (85 − 60) / 85 × 100 = 29.4% lower. Both tests point to dumping. A tariff of 25 would lift the export price from 60 to 85.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--07-dumping.webp" width="900" height="840" alt="Country D's firm has a cost of 180 and a home price of 210 but exports at 150, a loss of 30 per unit and 28.6% below its home price. Local firms in Country A sell at 200, so an anti-dumping tariff of 50 brings the export price up to 200." loading="lazy">
+  <figcaption>Dumping means selling abroad below cost or below the home price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--04-declining-industry-cost-per-job.webp" width="900" height="900" alt="Cloth price rises from 8 to 9.50 a metre, so buyers of 6,000,000 metres pay 9.0 million more. It protects 1,500 jobs, so the cost is 6,000 per job per year." loading="lazy">
+  <figcaption>Protecting 1,500 jobs costs 6,000 per job a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--05-strategic-grain-ban.webp" width="900" height="860" alt="Country E eats 2.5 million tonnes of grain, 2.0 million (80%) imported. If the supplier bans exports and home output is unchanged, 2.0 million tonnes are missing." loading="lazy">
+  <figcaption>Relying on imports for food leaves a 2.0 million tonne gap if supply is cut off.</figcaption>
+</figure>
+
 
 ## 6.2.6 Consequences of protection
 
@@ -135,6 +175,12 @@ An exporter in Country H sends 5 000 000 of goods to Country A. A tariff cuts sa
 - Duration, size of protection, elasticity of demand and retaliation all change the answer.
 - Finish with a judgement and a reason, not a list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--06-retaliation-both-lose.webp" width="900" height="840" alt="B's bicycle exports fall from 14.0 to 9.2 million (-4.8, -34.3%) after A's tariff. If B retaliates and cuts A's 6.0 million of exports by 20%, A loses 1.2 million." loading="lazy">
+  <figcaption>A tariff and retaliation leave both countries with fewer exports.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Tariff and quota raise price. A subsidy does not.
@@ -142,6 +188,12 @@ An exporter in Country H sends 5 000 000 of goods to Country A. A tariff cuts sa
 - Embargo is a total ban. A quota allows some trade.
 - Dumping is below cost or below the exporter's home price. A low price alone is not dumping.
 - The cost of protection falls on consumers and taxpayers at home, and on exporters abroad.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--05-tariff-or-quota.webp" width="900" height="900" alt="Both a tariff and a quota of 46 000 raise the home price from 200 to 240. With a tariff the gap of 40 on 46 000 bicycles, 1.84m, goes to the government. With a quota it goes to the licence holders unless the government sells the licences." loading="lazy">
+  <figcaption>Under a tariff the government collects the gap; under a quota the licence holders do unless licences are sold.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

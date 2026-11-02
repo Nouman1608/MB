@@ -43,6 +43,12 @@ Reports performance over a period. You read it; you are not asked to construct o
 
 **Decision making:** compare expenses year on year; review prices if gross profit is weak; show lenders that repayments are affordable; judge whether to expand. **Limit:** historical, and silent on cash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--01-income-year-on-year.webp" width="900" height="1010" alt="Paired bars compare Year 1 and Year 2 for sales, cost of sales, gross profit, other expenses and operating profit. Sales rose 80,000 but operating profit rose only 2,800 because cost of sales rose 55,200 and expenses 22,000." loading="lazy">
+  <figcaption>Costs grew faster than sales, so profit barely moved.</figcaption>
+</figure>
+
+
 ## 2. Statement of financial position (3.4.2)
 
 A snapshot of the assets held and liabilities owed on a single date.
@@ -58,6 +64,12 @@ A snapshot of the assets held and liabilities owed on a single date.
 **Capital employed** (standard form, not given as a formula in the specification) = non-current assets + current assets − current liabilities = equity + non-current liabilities.
 
 **To interpret:** how much is tied up in inventory; are current assets bigger than current liabilities; how much long-term borrowing; what the owners have put in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--02-capital-employed-both-sides.webp" width="900" height="960" alt="Two stacks reach the same dashed line at 260,000. Non-current assets 210,000 plus net current assets 50,000 equal owners equity 180,000 plus the bank loan 80,000." loading="lazy">
+  <figcaption>Capital employed is the same total whether built from assets or from funding.</figcaption>
+</figure>
+
 
 ## 3. Formulae (Appendix 4; supplied in the examination)
 
@@ -79,6 +91,12 @@ Supporting lines: gross profit = revenue − cost of sales; operating profit = g
 3. Calculate and show working. Give the unit: % or x : 1.
 4. Compare: with the previous year, or with another business.
 5. Explain the cause, then the consequence, then a suggestion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--03-margins-fall.webp" width="900" height="1000" alt="Bars show gross margin 40.0% then 38.5% and operating margin 12.5% then 11.0%." loading="lazy">
+  <figcaption>Both margins fell 1.5 percentage points.</figcaption>
+</figure>
+
 
 ## 5. Worked reminder: Penhallow Print
 
@@ -114,6 +132,12 @@ Supporting lines: gross profit = revenue − cost of sales; operating profit = g
 - **Current vs non-current.** The dividing line is one year.
 - **Liquidity vs profitability.** Liquidity is about paying short-term debts; profitability is about earning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--04-markup-vs-margin.webp" width="900" height="980" alt="The same 27 profit on a 45 cost and 72 price is 60% of cost (markup) but 37.5% of price (gross margin). A cost of 80 at 60% markup sells at 128." loading="lazy">
+  <figcaption>Markup uses cost as the base, so it is always larger than the margin.</figcaption>
+</figure>
+
+
 ## 6a. Worked reminder: pricing with markup
 
 Penhallow Print buys a pack of paper for 16 and wants a 75% markup. Profit per item = 16 × 0.75 = 12, so the selling price is 16 + 12 = 28. The gross margin on that pack is 12 ÷ 28 × 100 = 42.86%. If a rival sells the same pack at 26, the profit falls to 10, giving a markup of 10 ÷ 16 × 100 = 62.5%. Pricing against a rival means choosing between a lower markup and fewer sales; explain both sides when asked to justify or evaluate.
@@ -121,6 +145,17 @@ Penhallow Print buys a pack of paper for 16 and wants a 75% markup. Profit per i
 ## 7. Liquidity and comparisons (3.5.2)
 
 Liquidity means having enough cash, or assets that quickly become cash, to meet bills coming due. Suppliers and employees expect prompt payment, and an illiquid firm can fail even when it makes a profit. Make comparisons with previous years (trend) and with similar businesses (position). Say what is being compared and why the comparison is fair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--05-roce-two-years.webp" width="900" height="940" alt="Operating profit as a share of capital employed: 50,000 of 220,000 (22.73%) in Year 1 and 52,800 of 260,000 (20.31%) in Year 2." loading="lazy">
+  <figcaption>More money was invested and each dollar earned less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--06-liquidity-two-years.webp" width="900" height="920" alt="Stacked current assets against current liabilities for both years. Current ratio is 2.00 : 1 each year, but the acid test falls from 1.18 : 1 to 0.92 : 1 as inventory rises and cash falls." loading="lazy">
+  <figcaption>Removing inventory shows the weaker position the current ratio hides.</figcaption>
+</figure>
+
 
 ## 8. Using financial documents (3.5.3)
 

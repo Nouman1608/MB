@@ -67,6 +67,17 @@ The long-run average cost curve shows the link. The lowest output at which avera
 
 Average cost = total cost ÷ output. It falls from 54 to 32 as output rises to 8,000, so economies of scale operate. At 10,000 it rises to 41, so diseconomies of scale operate. Minimum efficient scale lies at about 8,000 of the sizes shown. A bakery producing 1,000 loaves has a cost disadvantage of 22 cu a loaf, so it survives only by charging for quality or location.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--08-bakery-lrac.webp" width="900" height="880" alt="Average cost against output: 54 at 1,000 loaves, 42 at 2,000, 37 at 4,000, 32 at 8,000 and 41 at 10,000. Economies of scale to 8,000, diseconomies beyond; a 1,000-loaf bakery is 22 cu a loaf above the minimum." loading="lazy">
+  <figcaption>Average cost falls to the minimum efficient scale at 8,000 loaves and then rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 7.7.2 Internal growth: organic growth and diversification
 
 Internal growth is expansion from within the firm, with no purchase of another business. There are two routes.
@@ -82,6 +93,12 @@ Organic growth is slower, but the firm keeps control, avoids paying a takeover p
 **Worked example (diversification).** A firm sells only sun protection. Quarterly profits (thousand cu) are 60, 10, 5, 55. A second product, umbrellas, makes 5, 45, 50, 10. Combined profit is 65, 55, 55, 65. Each product alone swings by 55 and 45 across the year. The combined swing is only 10 (from 55 to 65). Diversification reduces risk because the two products peak in different seasons. It works only if the products are not hit by the same shocks.
 
 Costs of diversification: management may lack skill in the new field, and focus on the core product can be lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--05-diversification-risk.webp" width="900" height="1070" alt="Two bar charts of quarterly profit show the swing falling from 55 to 10 after adding umbrellas. Swing 55 for one product falls to 10 with a second product." loading="lazy">
+  <figcaption>Selling products that peak in different seasons makes profit steadier.</figcaption>
+</figure>
+
 
 ## 7.7.3 External growth: integration
 
@@ -113,6 +130,32 @@ External growth means joining with another firm. A merger is an agreement betwee
 **Worked example (cost saving).** Two firms each produce 500,000 units. Each has fixed costs of 300,000 cu and variable costs of 4 cu a unit. Average cost each = (300,000 + 2,000,000) ÷ 500,000 = **4.60 cu**. After merging, fixed costs fall by 100,000 cu (duplicated head office) to 500,000. Output is 1,000,000. Average cost = (500,000 + 4,000,000) ÷ 1,000,000 = **4.50 cu**, a fall of about 2.2%.
 
 **Worked example (backward integration).** An ice-cream maker buys 150,000 litres of milk at 0.80 cu a litre = 120,000 cu. Its own dairy farm would produce it at 0.68 cu a litre = 102,000 cu, saving 18,000 cu. The farm adds 24,000 cu of fixed cost, so the net result is 18,000 − 24,000 = **−6,000 cu**, a loss. Saving per litre is 0.12, so the break-even volume is 24,000 ÷ 0.12 = **200,000 litres**. Integration pays only if the firm buys more than that.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--01-integration-types.webp" width="900" height="1050" alt="Four supply-chain diagrams show who buys whom in horizontal, backward vertical, forward vertical and conglomerate integration. Horizontal, backward, forward and conglomerate integration shown on one supply chain." loading="lazy">
+  <figcaption>Four ways a firm can buy another business, shown on a mill-bakery-cafe chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--09-merger-cost-saving.webp" width="900" height="910" alt="Two stacked bars of average cost: each firm alone is 4.60 (4.00 variable plus 0.60 fixed); the merged firm is 4.50 (4.00 plus 0.50), a fall of about 2.2%." loading="lazy">
+  <figcaption>Merging spreads fixed costs over more output and lowers average cost from 4.60 to 4.50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--10-backward-integration-breakeven.webp" width="900" height="880" alt="Net saving from owning a dairy against litres of milk bought. The line is 0.12 a litre minus 24,000 fixed cost: minus 6,000 at 150,000 litres, zero at 200,000 litres." loading="lazy">
+  <figcaption>Backward integration pays only above 200,000 litres, where the 0.12 saving covers the 24,000 fixed cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--11-concentration-merger.webp" width="900" height="850" alt="Two market-share bars. Before: 26, 24, 17, 13 and 20 percent rest; top three total 67. After A and B merge into 50: top three are 50, 17 and 13, total 80." loading="lazy">
+  <figcaption>The merger lifts the three-firm concentration ratio from 67% to 80%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
 
 ## 7.7.4 Cartels
 
@@ -151,6 +194,22 @@ Two firms agreeing quotas of 18 each (total 36) can be shown as a pay-off matrix
 
 Cheating is the best response whatever the rival does (720 beats 648, and 576 beats 540). Both cheat and each earns 576 instead of 648. This is the Prisoner's Dilemma applied to a cartel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--02-cartel-output-welfare.webp" width="900" height="1140" alt="Demand, MR and MC diagram showing cartel profit, deadweight loss and remaining consumer surplus. Cartel output 36 at price 52 versus competition 72 at 16; profit 1,296 and deadweight loss 648." loading="lazy">
+  <figcaption>A cartel restricts output like a monopolist, earning 1,296 and creating a deadweight loss of 648.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--03-cartel-payoff-cheating.webp" width="900" height="970" alt="Pay-off matrix with best replies circled showing the prisoner dilemma in a two-firm cartel. Cheating is the best reply, so both cheat and earn 576 not 648." loading="lazy">
+  <figcaption>Cheating is each firm's best reply, so both earn 576 instead of 648.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--12-cartel-cheating-four-firms.webp" width="900" height="840" alt="Profit per firm in a four-firm cartel. Keeping to quota 9 gives 324 each (1,296 total). If firm 1 produces 18, it earns 486 while each of the others earns 243, so total profit falls to 1,215." loading="lazy">
+  <figcaption>One firm cheating gains 162 but costs each loyal firm 81 and lowers total profit.</figcaption>
+</figure>
+
+
 ## 7.7.5 Principal-agent problem
 
 In a company, shareholders (the principals) own the firm. Managers (the agents) run it. The problem arises because their objectives differ and the principals cannot observe everything the agents do (asymmetric information).
@@ -172,6 +231,12 @@ Shareholders lose 84.5 thousand cu of profit. Revenue rises by 84.5 (1,512.5 −
 - Threat of takeover if the share price falls because of poor management.
 
 Evaluation: profit-linked pay can encourage short-term thinking or risky behaviour, and monitoring costs money. Large numbers of small shareholders find it hard to act together. Owner-managed firms avoid the problem altogether.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-growth-and-survival-of-firms--04-principal-agent-output.webp" width="900" height="970" alt="Diagram of AR, MR and MC with profit and revenue maximising outputs, and the 84.5 loss to owners. Shareholders want output 21; a manager paid on sales prefers 27.5." loading="lazy">
+  <figcaption>Owners and a sales-paid manager want different outputs from the same demand curve.</figcaption>
+</figure>
+
 
 ## Common errors
 

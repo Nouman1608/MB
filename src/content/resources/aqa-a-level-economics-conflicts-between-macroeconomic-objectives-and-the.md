@@ -59,6 +59,12 @@ As the gap moves from negative to positive, unemployment falls and inflation ris
 
 **Caution.** Potential output cannot be observed. It is estimated, so the size, and even the sign, of a gap is uncertain. Policy based on a wrong estimate can overheat or under-use the economy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--11-output-gap-table.webp" width="900" height="890" alt="Line chart of unemployment and inflation against the output gap for Country P: gap minus 5, minus 2, 0 and plus 4 percent; unemployment 8.0, 7.0, 6.0, 4.5; inflation 1.0, 1.8, 2.5, 4.2. Spare capacity gives high unemployment and low inflation; a positive gap gives low unemployment and faster inflation." loading="lazy">
+  <figcaption>As the output gap moves from negative to positive, unemployment falls and inflation rises.</figcaption>
+</figure>
+
+
 ## 2. Why objectives can conflict
 
 The main objectives are economic growth, price stability, low unemployment and a stable current account balance. Governments may also pursue a balanced budget and an equitable distribution of income, and the weight placed on each changes over time. Conflicts arise, at least in the short run, because one policy move helps one objective and hurts another.
@@ -68,6 +74,27 @@ The main objectives are economic growth, price stability, low unemployment and a
 **Worked example 2.** In Country R, GDP is 1,000 and the current account deficit is 10. GDP grows by 40 (4.0%). The marginal propensity to import is 0.3, so imports rise by 0.3 × 40 = 12. Exports rise by 5 because partner demand grows. The net change is 5 − 12 = −7, so the deficit becomes 17. As a share of the new GDP of 1,040 it rises from 1.0% to 1.63%.
 
 **Supply shocks.** A cost-push shock shifts short-run AS to the left. Take Country Q: the price level index rises from 120 to 126, a rise of 6/120 × 100 = 5.0%. Real output falls from 600 to 582, a change of −3.0%, and unemployment rises. Inflation and unemployment worsen together (stagflation), and no change in AD can fix both: raising AD restores output but lifts prices further; cutting AD lowers prices but deepens the output loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--01-growth-widens-deficit.webp" width="900" height="850" alt="Waterfall for Country R: a deficit of 10 (1.0% of GDP 1,000) gains 12 from extra imports and loses 5 from extra exports, ending at 17 (1.63% of GDP 1,040)." loading="lazy">
+  <figcaption>Demand-led growth can conflict with the current account: here the deficit rises from 1.0% to 1.63% of GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## 3. The short-run Phillips curve
 
@@ -94,6 +121,17 @@ Cutting unemployment from 4.5% to 3.5% costs 6.5 − 4.0 = 2.5 points of inflati
 
 **Shifts.** The SRPC moves outward (up and right) when short-run AS shifts left through cost-push shocks, or when expected inflation rises, because workers then bargain for bigger wage rises. It moves inward when productivity growth is faster or expectations fall. Stagflation is a shift of the curve, not a movement along it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--12-srpc-trade-off.webp" width="900" height="790" alt="Short-run Phillips curve through (3.5, 6.5), (4.5, 4.0), (6.0, 2.5) and (8.5, 1.5). Each one-point fall in unemployment costs 2.5, then 1.0, then 0.4 points of inflation, so the trade-off worsens as unemployment falls." loading="lazy">
+  <figcaption>The short-run Phillips curve is steeper at low unemployment, so each job gained costs more inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--04-srpc-shifts.webp" width="900" height="890" alt="Three downward-sloping SRPC lines. Cost-push shocks or higher expected inflation shift the curve up and right; faster productivity growth or lower expectations shift it down and left." loading="lazy">
+  <figcaption>A shift of the SRPC is not a movement along it: shocks, expectations and productivity move the whole curve.</figcaption>
+</figure>
+
+
 ## 4. The long-run, L-shaped Phillips curve
 
 The specification calls this the **L-shaped Phillips curve** and says it is also known as the **vertical long-run Phillips curve**. Draw a vertical line at the long-run (natural) rate of unemployment. Whatever the inflation rate, unemployment returns to that rate once expectations have caught up.
@@ -113,6 +151,22 @@ Each year inflation rises by 0.75 points. Keeping unemployment below the long-ru
 
 **Worked example 5: cutting inflation.** Using the same curve, inflation is 8%, expected inflation is 8%, and the government tightens policy to hold unemployment at 10%. Year 1: 8 − 0.5 × (10 − 6) = 6. Year 2: 6 − 2 = 4. Year 3: 4 − 2 = 2. That costs 4 points of excess unemployment for three years, 12 point-years, or 12/6 = 2 point-years per point of inflation removed. If a credible announcement cut expectations to 4% at the start, year 1 would give 4 − 2 = 2%. The cost would be 4 point-years, about 0.67 per point. Credibility lowers the price of disinflation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--13-lrpc-acceleration.webp" width="900" height="820" alt="Four short-run Phillips curves with expected inflation 2, 2.75, 3.5 and 4.25 percent and a vertical long-run line at 6 percent unemployment. Holding unemployment at 4.5 percent gives inflation of 2.75, 3.5, 4.25 and 5.0 in years 1 to 4, rising 0.75 points a year." loading="lazy">
+  <figcaption>Holding unemployment below the long-run rate needs ever-faster inflation, so there is no permanent trade-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--14-disinflation-credibility.webp" width="900" height="880" alt="Inflation falls from 8 percent with unemployment held at 10 percent. If expectations adjust slowly inflation goes 8, 6, 4, 2 over three years at a cost of 12 point-years of extra unemployment. If a credible announcement sets expectations at 4 percent, inflation is 2 percent in year 1 at a cost of 4 point-years." loading="lazy">
+  <figcaption>Credibility lowers the unemployment cost of cutting inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--02-stagflation-q.webp" width="900" height="870" alt="AD/AS diagram: SRAS shifts left from SRAS1 to SRAS2 along a fixed AD curve. A (600, 120) moves to B (582, 126): prices up 5.0%, output down 3.0%." loading="lazy">
+  <figcaption>A cost-push shock shifts SRAS left: prices rise 5.0% while output falls 3.0%, and no change in AD fixes both.</figcaption>
+</figure>
+
+
 ## 5. Policy implications and reconciling conflicts
 
 **Short run.** Demand management moves the economy along an SRPC.
@@ -126,6 +180,17 @@ Each year inflation rises by 0.75 points. Keeping unemployment below the long-ru
 **Long run.** The main lever is the supply side. Policies that raise productivity or cut structural unemployment (training, incentives, competition, labour-market reforms) shift long-run AS to the right and move the vertical Phillips curve to the left. Both move the economy to a better position: more output and lower unemployment without extra inflation.
 
 **Worked example 7.** Suppose potential output rises from 800 to 824 (+3.0%). Suppose also that the long-run unemployment rate falls from 6% to 5%. With expected inflation at 2%, the new curve is inflation = 2 − 0.5 × (u − 5). At 5% unemployment inflation was 2.5% on the old curve and is now 2.0%. At 2% inflation unemployment is now 5%, not 6%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--15-supply-side-lrpc.webp" width="900" height="780" alt="Old and new Phillips curves. Supply-side policy lowers the long-run unemployment rate from 6 to 5 percent with expected inflation 2 percent. At 5 percent unemployment inflation is 2.0 rather than 2.5 percent, and at 2 percent inflation unemployment is 5 rather than 6 percent." loading="lazy">
+  <figcaption>Supply-side policy moves both Phillips curves left: lower unemployment with no extra inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--03-potential-misjudged.webp" width="900" height="870" alt="Actual output 760 rises by 25 x 1.6 = 40 to 800. If potential is believed to be 800 the gap was -5.0%; if it is really 780 the gap was -2.56% and output ends 2.56% above potential." loading="lazy">
+  <figcaption>Potential output is only an estimate: the same injection that closes a believed gap can overshoot the true one.</figcaption>
+</figure>
+
 
 ## 6. The monetarist/supply-side view
 

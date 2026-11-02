@@ -80,6 +80,12 @@ Earth are:
 - **Non-renewable**: fossil fuels (coal, oil, gas), nuclear fuel
 - **Renewable**: bio-fuel, wind, hydro-electricity, geothermal, the tides, the Sun (solar), and water waves
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+
 ## Uses of energy resources
 
 Energy resources are used for **generating electricity**, for **heating**
@@ -88,6 +94,22 @@ Energy resources are used for **generating electricity**, for **heating**
 for example, wind and solar depend on weather conditions and are less
 consistently available than fossil fuels or nuclear power, which can
 generate reliably on demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
 
 ## Environmental, economic and social issues
 
@@ -115,6 +137,12 @@ Coal is a **non-renewable** resource (a fossil fuel). One environmental
 issue: burning coal releases carbon dioxide into the atmosphere,
 contributing to climate change (other valid answers include air
 pollution or acid rain from sulfur dioxide emissions).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-national-and-global-energy-resources--07-reliability-vs-impact.webp" width="900" height="1140" alt="A qualitative chart: nuclear is highly reliable but produces radioactive waste; wind has few environmental drawbacks but is weather dependent; fossil fuels are reliable but release carbon dioxide." loading="lazy">
+  <figcaption>Reliability and environmental impact are two separate judgements.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

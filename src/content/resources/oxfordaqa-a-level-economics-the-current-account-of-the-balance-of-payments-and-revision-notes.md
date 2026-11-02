@@ -94,6 +94,12 @@ Balance = 30 - 10 - 8 - 8 = **+4**, a surplus of 4 / 800 × 100 = **0.5% of GDP*
 
 **Growth and the budget.** GDP 2,000, tax 30% of GDP (600), spending 640, so the deficit is 40 (2.0% of GDP). In a downturn GDP falls 4% to 1,920, tax falls to 576 and spending on benefits rises by 12 to 652. The deficit is 76, or 76 / 1,920 = 4.0% of GDP. This is the automatic response of the budget to the cycle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--05-depreciation-prices.webp" width="900" height="1060" alt="Country A depreciates from 0.50 F to 0.40 F per A-unit. A machine falls from 6,000 F to 4,800 F; an import rises from 100 to 125 A-units. With export PED 1.5 revenue rises 4 percent; with import PED 0.6 the import bill rises 6.25 percent." loading="lazy">
+  <figcaption>Prices change first; the balance improves only if demand responds strongly enough.</figcaption>
+</figure>
+
+
 ## Factors affecting the current account
 
 | Factor | Effect on the balance |
@@ -104,6 +110,32 @@ Balance = 30 - 10 - 8 - 8 = **+4**, a surplus of 4 / 800 × 100 = **0.5% of GDP*
 | Appreciation | Opposite of depreciation |
 | Faster growth at home | More imports, so worsens |
 | Faster growth abroad | More exports, so improves |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--01-ca-four-parts.webp" width="900" height="810" alt="Paired bars show credits (right) and debits (left) for goods, services, primary income and secondary income in Country A, with balances -35, +35, -14 and -18. Trade balance is 0 and the current account is -32, or -2.0% of GDP." loading="lazy">
+  <figcaption>The four parts of the current account with credits, debits and the balance on each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--02-unit-labour-cost.webp" width="900" height="840" alt="Wage per worker rises 4% and output per worker 10%, so unit labour cost falls from 20 to 18.91, a fall of 5.5%." loading="lazy">
+  <figcaption>Productivity growing faster than wages lowers unit labour cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--03-relative-prices-inflation.webp" width="900" height="800" alt="Price indexes of Country A and its partner start at 100 and reach 108 and 102. The ratio 108/102 = 1.0588 means Country A goods are 5.9% dearer." loading="lazy">
+  <figcaption>Faster home inflation raises relative prices and tends to worsen the balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## Conflicts between objectives
 
@@ -120,6 +152,12 @@ Balance = 30 - 10 - 8 - 8 = **+4**, a surplus of 4 / 800 × 100 = **0.5% of GDP*
 
 Short run: demand-side policy moves along SRAS, so one objective is traded for another. Long run: supply-side policy shifts LRAS right. It can raise output and cut unemployment without adding to inflation, and it improves competitiveness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Evaluating a conflict
 
 1. State the conflict in one sentence, naming both objectives.
@@ -127,9 +165,21 @@ Short run: demand-side policy moves along SRAS, so one objective is traded for a
 3. Judge it using at least two of these tests: how much spare capacity exists (the size of the gap), whether the time frame is short or long run, whether the shock comes from demand or from costs, and how responsive imports and exports are.
 4. Say how policy might reconcile it, such as separate instruments for separate aims in the short run, or supply-side policy to shift LRAS right in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## Drawing the AD/AS model in words
 
 Axes: price level (vertical) and real GDP (horizontal). LRAS is a vertical line at the normal capacity level of output. SRAS slopes upward. AD slopes downward. Equilibrium is where AD meets SRAS. If that point lies to the right of LRAS, there is a positive output gap. If it lies to the left, there is a negative output gap. A rise in AD shifts the curve right. A cost-push shock shifts SRAS left. Label every curve and both axes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--04-output-gaps.webp" width="900" height="860" alt="AD/AS diagram with vertical LRAS at potential output 1,000. AD1 meets SRAS at 960, a 4 percent negative gap. AD2 meets SRAS at 1,020, a 2 percent positive gap." loading="lazy">
+  <figcaption>A negative gap leaves spare capacity; a positive gap stretches resources and pushes prices up.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -164,6 +214,12 @@ Axes: price level (vertical) and real GDP (horizontal). LRAS is a vertical line 
 8. One-way transfers with nothing received in return, such as remittances or aid.
 9. If gains go mainly to higher incomes, their share rises even though average income grows.
 10. Higher rates cut borrowing and spending, so AD falls. Falling output lowers demand for labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and--04-growth-side-effects.webp" width="900" height="1000" alt="Four panels with before and after bars: emissions rise 1.9%, the richest 20% share rises to 40.99% while the poorest 40% falls to 19.54%, labour needed falls 0.5%, and the deficit falls from 3.0% to 1.5% of GDP." loading="lazy">
+  <figcaption>Four side effects of growth, each with its worked numbers.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -52,6 +52,17 @@ Remember:
 - A cost (rent, wages, interest) is not itself a factor. Link it to the factor it pays for.
 - Businesses use different mixes. Compare them in answers, such as "more labour than machinery".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--01-four-factors.webp" width="900" height="980" alt="Four cards for Ottersby Bakery: land is the rented unit and ingredients; labour is six bakers; capital is two ovens and a van; enterprise is Hana, who takes the risk and organises the rest. A note says capital is equipment and buildings, not money." loading="lazy">
+  <figcaption>The four factors, shown with Ottersby Bakery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--12-bus-factor-mix.webp" width="900" height="840" alt="Two panels with illustrative sizes. A farm uses a lot of land, drawn as a large field, and few workers, drawn as one person. A software studio uses mostly labour, drawn as a row of six people, and little capital, drawn as one small computer." loading="lazy">
+  <figcaption>A farm and a software studio use very different mixes of land, labour and capital.</figcaption>
+</figure>
+
+
 ## Adding value
 
 **Definition:** added value is the difference between the selling price of a product and the cost of the bought-in materials or inputs used to make it.
@@ -93,6 +104,17 @@ If Fordhurst raises its price to 13.50 with the same inputs, added value becomes
 
 Always add the risk: higher prices may cut sales, and cheaper inputs may cut quality. A balanced answer mentions it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--10-bus-added-value-candles.webp" width="900" height="790" alt="Three stacked bars. Original: selling price 7.50, bought-in inputs 2.40, added value 5.10 (68 percent of the price), 9,180 a month at 1,800 candles. Bulk wax: price 7.50, inputs 2.10, added value 5.40, 9,720 a month. Bulk wax plus gift box: price 8.90, inputs 2.70 (2.10 plus a 0.60 box), added value 6.20, 11,160 a month. Added value rises from 5.10 to 6.20 per candle, a rise of 1.10." loading="lazy">
+  <figcaption>Added value per candle rises from 5.10 to 6.20 after cheaper wax and a priced gift box.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+
 ## Opportunity cost
 
 **Definition:** the benefit of the next best alternative that is given up when a choice is made.
@@ -114,6 +136,17 @@ Key points:
 
 Fordhurst can spend 9,000 on a new saw (extra profit 2,800 a year), a delivery bike (2,300) or a website upgrade (1,900). If it buys the saw, the opportunity cost is the delivery bike, at 2,300 a year of extra profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--11-bus-opportunity-cost-bakery.webp" width="900" height="800" alt="Three bars of expected extra profit a year for a 15,000 budget: new oven 4,200, second van 3,600, shop extension 3,100. The bakery chooses the oven, the highest. The opportunity cost is the next best alternative given up, the second van at 3,600 a year. The extension at 3,100 is not counted. The decision still looks sensible: 4,200 gained against 3,600 forgone." loading="lazy">
+  <figcaption>The opportunity cost of buying the oven is the second van, 3,600, not the extension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+
 ## Economic sectors
 
 ### By type of activity
@@ -127,6 +160,12 @@ Fordhurst can spend 9,000 on a new saw (extra profit 2,800 a year), a delivery b
 Chain of production example: wheat grown on a farm (primary), flour milled and bread baked (secondary), bread sold in a shop (tertiary). Value is added at each stage.
 
 A business may work in more than one sector. Classify by its main activity, and mention the others if the data shows them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
 
 ### By ownership and control
 
@@ -148,6 +187,17 @@ The aims are general tendencies. Private firms can have social aims, and public 
 | Secondary | Tertiary | Making goods versus providing services |
 
 Combining the two: a state-run railway is tertiary and public. A privately owned quarry is primary and private.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--02-sector-and-ownership.webp" width="900" height="730" alt="A grid of primary, secondary and tertiary rows against private and public columns. An iron-ore mine is primary and private, a bakery with its own shop is secondary and tertiary and private, a phone retailer is tertiary and private, a state hospital is tertiary and public." loading="lazy">
+  <figcaption>Sector (type of work) and ownership are two separate classifications.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
 
 ## Applying it to a business
 

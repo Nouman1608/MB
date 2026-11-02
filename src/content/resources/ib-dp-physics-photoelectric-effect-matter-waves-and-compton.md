@@ -103,6 +103,22 @@ Gradient = (2.16 - 0.09) / (5.0 × 10¹⁴) = 4.14 × 10⁻¹⁵ V Hz⁻¹. Sinc
 
 The line meets the frequency axis where Vs = 0. Going back from the first point: f₀ = 6.00 × 10¹⁴ - 0.09 / 4.14 × 10⁻¹⁵ = **5.78 × 10¹⁴ Hz**. Then Φ = hf₀ = 6.62 × 10⁻³⁴ × 5.78 × 10¹⁴ = 3.83 × 10⁻¹⁹ J = **2.39 eV**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--01-photon-vs-work-function.webp" width="900" height="1100" alt="Two panels for a metal with work function 2.90 eV. A 450 nm photon carries 2.76 eV, less than the work function, so the electron stays. A 310 nm photon carries 4.01 eV: 2.90 eV frees the electron and the remaining 1.11 eV is its maximum kinetic energy." loading="lazy">
+  <figcaption>One photon gives all its energy to one electron, so Emax = hf - Φ, and no electron escapes if hf &lt; Φ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--02-frequency-vs-intensity.webp" width="900" height="1230" alt="Three graphs for a metal with work function 2.10 eV. Emax is zero below the threshold frequency 5.07 x 10^14 Hz and then rises linearly. With 350 nm light the photocurrent is proportional to beam power (1.13 and 2.25 x 10^-7 A at 0.40 and 0.80 mW), while Emax stays at 1.45 eV." loading="lazy">
+  <figcaption>Frequency sets the energy of each electron; intensity sets how many are released per second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--03-stopping-potential-graph.webp" width="900" height="880" alt="A straight line of stopping potential against frequency meets the frequency axis at 5.78 x 10^14 Hz and the Vs axis at -2.39 V. A gradient triangle between (6.00, 0.09) and (11.0, 2.16) gives 4.14 x 10^-15 V Hz^-1 = h/e, so h = 6.62 x 10^-34 J s and Φ = 2.39 eV." loading="lazy">
+  <figcaption>Gradient = h/e, frequency intercept = f₀, Vs intercept = -Φ/e.</figcaption>
+</figure>
+
+
 ## 2. Matter waves and de Broglie
 
 Diffraction is a wave property, so if particles diffract, they must have a wave aspect. Beams of electrons (and of neutrons and atoms) do produce diffraction patterns when they pass through gaps or crystals of the right size. This is the guide's evidence for the wave nature of matter. Combined with photons, it gives **wave-particle duality**: matter and radiation both show wave-like and particle-like behaviour, depending on the experiment.
@@ -130,9 +146,21 @@ You must be able to describe an experiment in which a beam of particles is diffr
 
 For a single gap of width b, the first minimum on either side of the central maximum lies at an angle θ where **sin θ = λ/b**, with λ = h/p. Faster electrons have larger p, smaller λ and so a narrower pattern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--05-electron-single-gap.webp" width="900" height="1010" alt="A beam of 85.0 V electrons passes through a 1.00 nm gap onto a screen. The computed intensity pattern has a central maximum and first minima at sin θ = λ/b = 0.133, so θ = 7.64°. A dashed pattern for four times the voltage (half the wavelength) is narrower." loading="lazy">
+  <figcaption>The first minimum is at sin θ = λ/b; faster electrons have a smaller λ and a narrower pattern.</figcaption>
+</figure>
+
+
 ### Worked example 5: where is the minimum?
 
 The electrons of example 4 (λ = 1.33 × 10⁻¹⁰ m) pass through a gap of width 1.00 nm. sin θ = 1.33 × 10⁻¹⁰ / 1.00 × 10⁻⁹ = 0.133, so θ = **7.64°**. If the accelerating voltage were raised, λ would fall and the minimum would move closer to the centre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--04-de-broglie-scale.webp" width="900" height="1020" alt="A log scale of wavelength. An electron accelerated through 85.0 V has λ = 1.33 x 10^-10 m, comparable to a 1.00 nm gap, so diffraction shows. A 0.058 kg ball at 40 m/s has λ = 2.86 x 10^-34 m, about 5 x 10^23 times smaller, so its wave behaviour never shows." loading="lazy">
+  <figcaption>Wave behaviour shows only when λ = h/p is comparable to the gap; for everyday objects it never is.</figcaption>
+</figure>
+
 
 ## 3. Compton scattering
 
@@ -159,6 +187,17 @@ To find an angle from a measured shift of 1.00 × 10⁻¹² m: cos θ = 1 - 1.00
 ### Why Compton is stronger evidence
 
 The photoelectric effect can be explained with a quantum of energy alone. Compton scattering shows the photon also behaves like a particle in a collision, with a definite shift linked to the deflection angle. That is why the guide's linking question calls it more convincing evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--06-compton-geometry.webp" width="900" height="940" alt="A photon of wavelength 0.0500 nm hits an electron at rest and is deflected through 90 degrees with the longer wavelength 0.0524 nm. The electron recoils down and to the right, gaining about 1.15 keV. The shift is 2.43 x 10^-12 m, a 4.86% increase." loading="lazy">
+  <figcaption>The scattered photon has a longer wavelength because it gave energy to the recoiling electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--07-compton-shift-angle.webp" width="900" height="910" alt="The Compton shift in units of 10^-12 m follows 2.43(1 - cos θ): zero at 0 degrees, 2.43 at 90 degrees and the greatest value 4.86 at 180 degrees. A measured shift of 1.00 x 10^-12 m corresponds to about 54 degrees. The shift does not depend on the incident wavelength." loading="lazy">
+  <figcaption>Δλ rises from zero at θ = 0 to twice h/m_e c at 180 degrees, whatever the incident wavelength.</figcaption>
+</figure>
+
 
 ## Common errors
 

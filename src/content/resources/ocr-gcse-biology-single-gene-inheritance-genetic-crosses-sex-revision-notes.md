@@ -38,6 +38,12 @@ No statement here is in bold type, so it all applies to both tiers.
 | Punnett square | Grid showing all gamete combinations from a cross |
 | Sex chromosomes | X and Y; XX is female, XY is male |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--09-genotype-phenotype-words.webp" width="900" height="910" alt="Three fruit flies with their chromosome pair. VV and vv are homozygous, Vv is heterozygous. V is dominant, so VV and Vv have normal wings; only vv has vestigial wings." loading="lazy">
+  <figcaption>A dominant allele shows with one copy; a recessive allele needs two.</figcaption>
+</figure>
+
+
 ## Genotype to phenotype
 
 | Genotype | Description | Shows |
@@ -51,6 +57,12 @@ No statement here is in bold type, so it all applies to both tiers.
 - A recessive feature can skip a generation because heterozygous parents hide it.
 - Dominant does not mean common or stronger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+
 ## Method: Punnett square in five steps
 
 1. Define the letters: which stands for the dominant allele, which for the recessive, and what feature each gives.
@@ -60,6 +72,27 @@ No statement here is in bold type, so it all applies to both tiers.
 5. Read off genotypes and phenotypes, then give the ratio or probability asked for.
 
 Probability: each box is 1/4, so 1 box = 25%, 2 boxes = 50%, 3 boxes = 75%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--10-pure-breeding-to-f2.webp" width="900" height="1110" alt="Pure-breeding VV and vv parents give F1 all Vv with normal wings; crossing F1 gives F2 VV, Vv, Vv and vv, three normal to one vestigial." loading="lazy">
+  <figcaption>The recessive feature disappears in the F1 and returns in about a quarter of the F2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--11-test-cross.webp" width="900" height="940" alt="A polled cow could be PP or Pp. Crossed with horned pp, PP gives all polled calves and Pp gives half polled, half horned. One horned calf proves Pp; five polled calves if Pp has probability 1/32." loading="lazy">
+  <figcaption>A cross with a recessive animal reveals an unknown dominant genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--02-huntington-cross.webp" width="900" height="1030" alt="Punnett square of an affected Hh father and unaffected hh mother: two Hh and two hh boxes, so each child has a 1 in 2 chance. Four children are independent, so all four unaffected is 1/16." loading="lazy">
+  <figcaption>Hh x hh gives 50% affected for each child; four unaffected children in a row is 1/16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--04-genotype-count.webp" width="900" height="850" alt="Grids of squares show 3 genotypes for one gene, 9 for two and 27 for three, following 3^n." loading="lazy">
+  <figcaption>Genotypes multiply as 3 to the power n, so one Punnett square cannot cope.</figcaption>
+</figure>
+
 
 ## The four crosses to know
 
@@ -137,12 +170,29 @@ A pure-breeding tall plant (TT) is crossed with a pure-breeding dwarf plant (tt)
 - Ratio 1 female : 1 male. Probability of a boy = 1/2 for every pregnancy.
 - Two children, both girls: 1/4. Three children, all boys: 1/8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--03-three-girls-tree.webp" width="900" height="950" alt="Tree of three births, each girl or boy with probability 1/2. Eight equally likely outcomes; only GGG is all girls, 1/8 = 12.5%. The next baby is still 1/2." loading="lazy">
+  <figcaption>A tree of three births shows one of eight equally likely outcomes is all girls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+
 ## Multi-gene features (B5.1l)
 
 - Single gene: features fall into clear categories and Punnett squares work.
 - Most features (for example height and skin colour) are controlled by multiple genes, so the population shows a range of values.
 - Many genes plus the environment mean one Punnett square cannot predict them.
 - Genes and the environment both influence the phenotype.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--05-many-genes-range.webp" width="900" height="1100" alt="Top: 75% normal and 25% vestigial wings from a Vv x Vv cross. Bottom: an illustrative model of 10 genes with small effects gives a bell-shaped range from short to tall." loading="lazy">
+  <figcaption>One gene gives clear categories; many genes give a smooth range.</figcaption>
+</figure>
+
 
 ## Development of understanding (B5.1m)
 
@@ -161,6 +211,12 @@ Working scientifically links:
 - Theories develop as new technology gives new evidence.
 - Peer review and communication let others check results.
 - Genetic knowledge raises ethical issues, such as privacy of genetic information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--01-mendel-timeline.webp" width="900" height="1020" alt="A timeline: mid-1800s Mendel breeds pea plants and counts ratios; 1860s published but little read; around 1900 accepted; early 1900s units proposed to be on chromosomes; 1953 DNA double helix; around 2003 human genome sequenced." loading="lazy">
+  <figcaption>Six steps from Mendel's pea plants to the sequenced human genome.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -200,6 +256,12 @@ Working scientifically links:
 11. Chromosomes and genes were not yet known, so his units had no physical explanation (or: his work was not widely read).
 12. Fertilisation is random, so small samples vary; larger samples come closer to the prediction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not defining letters, then using them inconsistently.
@@ -211,6 +273,12 @@ Working scientifically links:
 - Claiming a sex outcome becomes more likely after a run of the other sex.
 - Treating Mendel's dates and findings as vague: say what he did and what he found.
 - Using one gene to explain a feature such as height or skin colour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

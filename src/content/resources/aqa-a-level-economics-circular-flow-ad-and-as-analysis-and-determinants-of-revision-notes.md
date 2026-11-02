@@ -47,6 +47,12 @@ Worked example (Country F, illustrative). Year 1: nominal income 2,400, index 10
 
 Real national income is the usual indicator of economic performance because it shows whether more is being produced. Limits: it ignores how income is shared, unpaid work, the black economy, quality changes, working hours and environmental damage. Per head figures matter when the population is changing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--04-real-vs-nominal-income.webp" width="900" height="920" alt="Bars show nominal income rising 2,400 to 2,725 (13.5 percent) and real income 2,400 to 2,500 (4.2 percent) after dividing by the index 109/100. Per head income rises 2.1 percent." loading="lazy">
+  <figcaption>Most of the nominal rise in Country F is higher prices.</figcaption>
+</figure>
+
+
 ## 2. The circular flow of income
 
 Households provide labour and other factors to firms and are paid for them. They spend that income on what firms produce. So income = output = expenditure, and the flow goes round.
@@ -75,6 +81,17 @@ Effect of changes (same country):
 - If full employment income is 780, equilibrium of 725 is 55 below it, which is 7.1% of 780. The investment rise closes most of that gap. Any rise taking J above 312 (which is 0.40 x 780) would push demand past capacity.
 
 Chain: injection up, firms' sales up, output and incomes up, households spend part again and withdraw part, until W has risen to equal the new J. A fall in an injection or rise in a withdrawal runs the other way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--01-injections-withdrawals-country-f.webp" width="900" height="910" alt="Graph of flat injections at 290 and withdrawals W = 0.40Y crossing at income 725. At 600 withdrawals 240 are below injections so income rises; at 850 withdrawals 340 are above so income falls. Full employment is 780; investment +20 moves equilibrium to 775." loading="lazy">
+  <figcaption>Equilibrium income is where withdrawals equal injections: 725 for Country F.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## 3. AD and AS analysis
 
@@ -113,6 +130,22 @@ AD: Y = 1,500 - 5P. Short-run AS: Y = 4P + 510. Equilibrium: 1,500 - 5P = 4P + 5
 Reading shocks: after a demand shock, price and output both rise or both fall; after a supply shock, one rises while the other falls.
 
 **Global events** affect a domestic economy through exports and imports (AD), imported raw materials and energy (short-run AS), exchange rates, confidence, and flows of finance and technology. A slump abroad shifts AD left; a world commodity price rise shifts short-run AS left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--02-ad-as-equilibrium-gap.webp" width="900" height="930" alt="AD/AS graph for Country F. AD and short-run AS meet at price level 110 and output 950, while long-run AS is vertical at 1,000, leaving a 5 percent gap of idle capacity." loading="lazy">
+  <figcaption>Country F settles at output 950, 50 below capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--03-demand-vs-supply-shock.webp" width="900" height="1040" alt="Two AD/AS graphs. A fall in AD of 45 lowers output to 930 and price to 105. A fall in SRAS of 27 lowers output to 935 but raises price to 113." loading="lazy">
+  <figcaption>After a demand shock price and output move together; after a supply shock they move in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## 4. The determinants of aggregate demand
 
@@ -153,6 +186,17 @@ In year 4 output still rises, yet net investment has halved. A slowdown in growt
 | Motive | Future consumption, security | Expected profit |
 
 They are decided by different people, so planned saving and planned investment may differ. Saving that is not matched by injections lowers national income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--05-accelerator-country-f.webp" width="900" height="1000" alt="Output 80, 88, 96, 100, 100, 96 with growth rates and net investment 12, 12, 6, 0, -6. In year 4 output still rises but net investment halves." loading="lazy">
+  <figcaption>Net investment follows the change in output, not its level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
 
 ## 5. Quick self-test
 

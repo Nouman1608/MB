@@ -71,6 +71,12 @@ TR = 56 × 6 = £336. TC = £220. Supernormal profit = 336 − 220 = **£116**.
 
 Diagram in words: price (£) on the vertical axis and output on the horizontal. The horizontal line at £56 is D = AR = MR. The rising MC curve cuts it at 6 units. At 6 units, AC is £36.67, so the shaded rectangle between £56 and £36.67 over 6 units shows supernormal profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--08-mc-short-run-profit.webp" width="900" height="890" alt="Cafe with AR = 44 - 0.5q, MR = 44 - q and MC = 8 + 0.2q: MC = MR at 30 units, price 29 and AC 23, so the profit rectangle is 30 by 6 = 180 pounds." loading="lazy">
+  <figcaption>The short-run monopolistically competitive cafe earns 180 supernormal profit.</figcaption>
+</figure>
+
+
 ### Worked example: long run
 
 Suppose 200 identical firms each produce 5 units at £35, so market output is 1,000. Demand rises. With 200 firms, each now produces 6 at £56, so market output is 1,200 and each firm earns £116.
@@ -82,11 +88,43 @@ Suppose 200 identical firms each produce 5 units at £35, so market output is 1,
 
 In the long run, a firm in equilibrium has P = MC = AC, at the minimum of its AC curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--05-mc-long-run-excess-capacity.webp" width="900" height="850" alt="Cafe example: long-run AR is tangent to AC at 40 units and price 21 (normal profit). Lowest AC is 20 at 60 units, so excess capacity is 20, and P (21) exceeds MC (16)." loading="lazy">
+  <figcaption>In the long run a monopolistically competitive firm earns normal profit but produces below minimum-cost output.</figcaption>
+</figure>
+
+
 ### Losses, exit and shut-down
 
 If demand falls and price drops to £20: MC is 15 at 4 units and 27 at 5, so q = 4. TR = 80, TC = 148, **loss £68**. Variable cost is 148 − 100 = 48, so revenue covers variable cost with 32 towards fixed cost. Closing would lose all £100 of fixed cost, so the firm stays open in the short run. Exit is a long-run response: supply shifts left until price rises to £35.
 
 At £8, which is below the lowest AVC (£11 at 3 units), revenue cannot cover variable costs. The firm **shuts down** in the short run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--01-pc-short-run-profit.webp" width="900" height="850" alt="Firm diagram for the worked example TC = 100 + q^3 - 6q^2 + 20q at price 56: MC cuts D = AR = MR at 6 units, AC is 36.67, and the shaded rectangle is supernormal profit of 116." loading="lazy">
+  <figcaption>At a market price of £56 the firm produces 6 units and earns £116 supernormal profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--02-pc-loss-and-shutdown.webp" width="900" height="880" alt="Same firm with AVC added. At price 20 the firm produces 4 units and makes a loss of 68, but revenue 80 covers variable cost 48 so it stays open. At price 8, below the lowest AVC of 11, it shuts down." loading="lazy">
+  <figcaption>The short-run shut-down test compares price with the lowest AVC, not with AC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--03-pc-long-run-entry.webp" width="900" height="850" alt="Entry pushes price from 56 down to 35, the lowest point of AC at 5 units, where P = MC = AC and TR = TC = 175. With demand of 1,500 at 35 there are 300 firms, 100 of them new." loading="lazy">
+  <figcaption>Entry removes supernormal profit until price equals the lowest average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--07-pc-price-taker-market-firm.webp" width="900" height="920" alt="Left, industry supply from 200 identical firms gives 1,000 units at 35 pounds and 1,200 at 56 pounds as demand rises. Right, one firm faces a flat demand line at the market price, equal to AR and MR, with MC cutting it at 5 units (price 35) and 6 units (price 56). The firm is a price taker so its demand curve never slopes down." loading="lazy">
+  <figcaption>The market sets the price and the firm takes it, so its demand curve is horizontal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
 
 ## The efficient allocation proposition
 
@@ -110,6 +148,12 @@ Challenge the proposition on these grounds:
 
 A strong evaluation says how much each point matters. A large external cost makes point 1 weighty, and large economies of scale make point 3 weighty. Where spillovers are small and scale economies are exhausted early, the proposition holds well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--04-pc-externality-efficiency.webp" width="900" height="870" alt="Dye market: demand P = 110 - 0.06Q, MPC = 20 + 0.03Q, MSC = 29 + 0.03Q. The competitive market produces 1,000 at £50; the efficient output is 900 at £56. The shaded triangle (area 450) is the welfare loss from 100 overproduced units. Axes start at 600 and 30." loading="lazy">
+  <figcaption>A competitive market overproduces when there is an external cost.</figcaption>
+</figure>
+
+
 ## The yardstick role
 
 The model provides a **yardstick** for judging how efficiently real markets perform, in **product and labour markets**, and how far resources are misallocated.
@@ -118,6 +162,12 @@ The model provides a **yardstick** for judging how efficiently real markets perf
 - Labour market: in the competitive ideal there are many employers and many identical workers, so each firm is a **wage taker** and the market sets the wage. A town where one firm hires nearly everyone can be compared to this ideal to examine whether pay and employment are held below the competitive level.
 
 The yardstick does not say perfect competition is achievable, or that real markets should be forced into it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--06-pc-yardstick.webp" width="900" height="1120" alt="Product market: price 70 against marginal cost 50 gives a 20 pound gap, 40 percent of marginal cost, so too little is produced. Labour market: many employers make the market set the wage, but a town with one dominant employer may hold pay and jobs below the competitive level. The model is a benchmark, not a goal." loading="lazy">
+  <figcaption>Perfect competition is a yardstick for judging real product and labour markets.</figcaption>
+</figure>
+
 
 ## Monopolistic competition
 
@@ -158,6 +208,17 @@ Result: normal profit, but P > MC (allocative inefficiency) and output below the
 
 - **For:** consumers get variety and choice; the inefficiency may be small when demand is very elastic; entry keeps long-run profit normal.
 - **Against:** excess capacity; resources spent on differentiation that adds little; brands can confuse buyers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-perfect-competition-and-monopolistic-competition--09-mc-advertising-profit.webp" width="900" height="930" alt="Advertising raises fixed cost from 360 to 420 and shifts demand to AR = 50 - 0.5q. MC = MR at 35 units, price 32.50, AC 23.50, so profit is 35 by 9 = 315 pounds, up from 180. Rivals copy in the long run and the gain erodes." loading="lazy">
+  <figcaption>Advertising lifts the cafe's short-run profit from 180 to 315.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--06-monopolistic-competition.webp" width="900" height="950" alt="Long-run diagram: the firm produces where MC = MR (output 40). The AR curve is tangent to the AC curve at price 7 and lies below AC elsewhere, so only normal profit is earned." loading="lazy">
+  <figcaption>With many firms and easy entry, monopolistic competitors earn only normal profit in the long run.</figcaption>
+</figure>
+
 
 ## Non-price competition
 

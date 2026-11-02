@@ -69,6 +69,17 @@ Seven points have x = −3, −2, −1, 0, 1, 2, 3 and y = 9, 4, 1, 0, 1, 4, 9, 
 
 So a coefficient near zero supports the statement "no linear correlation". It never supports "no relationship". Look at the scatter diagram before you trust any test based on r.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--01-c-what-r-shows.webp" width="900" height="1100" alt="Six scatter diagrams of 12 points with computed r: 1, about 0.96, about 0.49, about -0.10, about -0.96 and -1. Closer to a line means r nearer 1 or -1 and the sign gives the direction." loading="lazy">
+  <figcaption>How close the points lie to a straight line, and which way it slopes, decide r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--06-c-same-r-different-slope.webp" width="900" height="900" alt="The same points with y values multiplied by 6 give the same r (about 0.96) although the gradient changes from 0.5 to about 2.9." loading="lazy">
+  <figcaption>r measures how tightly the points hug a line, not how steep the line is.</figcaption>
+</figure>
+
+
 ## 2.05g: the hypothesis test for correlation
 
 You have a sample of n pairs, and you want to know whether the correlation seen in the sample is evidence of correlation in the whole population. The sample coefficient is r. The population coefficient is written ρ (rho).
@@ -148,6 +159,12 @@ The p-value answers this: if H₀ were true, how likely is a sample coefficient 
 - Check the tails. A p-value quoted for a one-tail test is compared with the full significance level. A p-value quoted for a two-tail test is also compared with the full level. A one-tail p-value for a two-tail test must be doubled first.
 - With only a table, you can place the p-value in a band. If r lies between the 5% and 2.5% critical values, the one-tail p-value lies between 0.025 and 0.05.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--03-c-interpolate-extrapolate.webp" width="900" height="910" alt="The same regression line with the data range 1 to 8 years shaded. A prediction at 6.5 years (82.4 pounds) is inside the range; at 12 years (122 pounds) it is outside and unreliable." loading="lazy">
+  <figcaption>Predict inside the range of the data, not outside it.</figcaption>
+</figure>
+
+
 ### Worked example 5: a p-value and a table together
 
 For 14 pairs, r = 0.52 and the one-tail p-value is 0.0283.
@@ -179,6 +196,17 @@ A given r is more convincing when n is larger. Take r = 0.5 as a one-tail 5% tes
 
 The reverse also holds. With n = 100 and r = 0.21, the 5% value is 0.1654 so H₀ is rejected, but the scatter is still wide. Evidence of correlation in the population is not the same as strong correlation. Say "significant" about the test and "strong" or "weak" about |r|.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
+  <figcaption>A single outlier can change r a lot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--09-c-sample-size.webp" width="900" height="850" alt="Graph of the 5% one-tail critical value of r against n, falling with n. The line r = 0.5 is below the critical value at n = 6 (0.7293) and above it at n = 30 (0.3061), crossing at n = 12." loading="lazy">
+  <figcaption>A larger sample means a smaller r is enough to reject H0.</figcaption>
+</figure>
+
+
 ### Conclusions and context
 
 State the result in two parts, cautiously and in context:
@@ -189,6 +217,12 @@ State the result in two parts, cautiously and in context:
 Avoid "this proves" and avoid "H₀ is true". A non-significant result means you lack evidence, not that you have shown ρ = 0. Correlation is also not causation: a significant r says two variables vary together, not that one produces the other, since a third variable may drive both.
 
 The specification allows you to assume the data come from a bivariate normal distribution. If a question states this, you can quote it as the condition for the test. If the scatter diagram shows a clear curve, say a linear test is not suitable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--08-c-test-regions.webp" width="900" height="1010" alt="For n = 10, r = 0.62 lies in the rejection region of the one-tail 5% test (r &gt; 0.5494) but not the two-tail 5% test (|r| &gt; 0.6319) or the one-tail 1% test (r &gt; 0.7155)." loading="lazy">
+  <figcaption>The same sample r can lead to different decisions depending on the alternative hypothesis and significance level.</figcaption>
+</figure>
+
 
 ## Common errors
 

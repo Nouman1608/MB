@@ -128,6 +128,12 @@ to its specific effect on a given business's costs, revenue or
 decisions, since Edexcel rewards this causal chain far more than a
 list of PESTLE-style categories.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Confusing profit and cash -- a profitable business can still fail from

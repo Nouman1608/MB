@@ -35,6 +35,12 @@ Note: the specification names only the documents and books listed under 2.1 and 
 
 Documents give evidence for every entry, let the two parties check amounts, help settle disputes, give each transaction a reference number and support the audit trail from the first record to the final accounts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--01-doc-trail.webp" width="900" height="912" alt="Kestlow (buyer) and Pellowe (seller) exchange five documents in order. Kestlow sends purchase order 4417 on 3 May. Pellowe sends invoice 7821 for $702.00, credit note 0316 for $40.50 and a statement showing $661.50 due. Kestlow replies with a remittance advice and a cheque for $661.50." loading="lazy">
+  <figcaption>Who sends which document, and in what order, in one credit purchase.</figcaption>
+</figure>
+
+
 ## 2.1 b) and c) The documents at a glance
 
 | Document | Who issues it | Key contents | Trigger |
@@ -84,6 +90,17 @@ A book of original entry is where a transaction is first recorded, in date order
 - totals can be posted to the ledger, not every line
 - staff can share the work, and errors are easier to find
 - a permanent first record exists if a ledger entry goes missing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--03-which-book.webp" width="900" height="965" alt="Eight Kestlow transactions are each matched to one book of original entry. Credit sales, credit purchases and credit notes go to day and returns books, cash sales to the cash book, small payments to the petty cash book, and the desk bought on credit and the debt write-off to the journal." loading="lazy">
+  <figcaption>Each transaction is first recorded in exactly one book of original entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--01-prime-entry-flow.webp" width="900" height="950" alt="Three credit sales invoices are entered in the sales day book, total 2,700 dollars. Each is debited separately to the customer in the sales ledger and the total is credited once to Sales, so debits equal credits. Credit notes of 150 and 90 total 240 and are debited to Sales returns." loading="lazy">
+  <figcaption>Post each invoice to the customer, but post the day book total to Sales once.</figcaption>
+</figure>
+
 
 ## 2.2 b) The books and their source documents
 
@@ -149,6 +166,17 @@ Balance c/d                   30.00 619.00
                        3.00  100.00 766.00
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--04-cashbook-columns.webp" width="900" height="830" alt="Kestlow's cash book at 31 May. Cash receipts of $577.50 less payments of $215.00 leave $362.50, and bank receipts of $3,110.19 less payments of $1,489.70 leave $1,620.49. The discount columns, 15.31 allowed and 4.30 received, are totalled but never added into either balance." loading="lazy">
+  <figcaption>Balance the cash and bank columns separately; the discount columns are only totalled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--05-contra-both-sides.webp" width="900" height="826" alt="Two contra entries. On 11 May $200 withdrawn from the bank is a debit in the cash column and a credit in the bank column. On 27 May $120 paid into the bank is a debit in the bank column and a credit in the cash column." loading="lazy">
+  <figcaption>A contra entry appears on both sides of the cash book, in different columns.</figcaption>
+</figure>
+
+
 ## The petty cash book
 
 - Imprest system (a common method, not a term in the specification): a fixed float is paid out first. Spending is reimbursed in full at the end of the period.
@@ -158,6 +186,17 @@ Balance c/d                   30.00 619.00
 - Reimbursement = total spent. It is a payment in the cash book (usually bank) and a receipt in the petty cash book.
 
 Mini example: float 80.00. Payments are 22.40, 18.60 and 9.00. Total spent **50.00**. Balance before reimbursement 30.00. Reimbursement **50.00** restores the float to 80.00.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--02-statement-balance.webp" width="900" height="710" alt="A bar chart follows the Pellowe statement balance through May. It starts at $310.00, rises by invoice 7821 ($780 less 10% = $702.00), falls by credit note 0316 ($45.00 less 10% = $40.50) and by the $310.00 payment, and ends at $661.50 due." loading="lazy">
+  <figcaption>The statement balance rises with invoices and falls with credit notes and payments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--02-petty-cash-imprest.webp" width="900" height="900" alt="A float of 150 dollars pays postage 32, refreshments 18, travel 27 and cleaning 14, a total of 91, leaving 59. The bank reimburses 91 to restore the float to 150, with each expense debited and the bank credited." loading="lazy">
+  <figcaption>The imprest system tops the float back up by exactly what was spent.</figcaption>
+</figure>
+
 
 ## The journal
 
@@ -171,6 +210,12 @@ Used for non-routine transactions. Layout: date, account to debit, account to cr
 | Opening entries for a new business | Assets | Liabilities and capital |
 
 Mini example, opening journal: bank 5,000.00, motor van 7,500.00 and inventory 1,500.00 are debited (total 14,000.00). Loan 3,000.00 and capital 11,000.00 are credited (total 14,000.00). Totals agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--03-u2-005-journal-entries.webp" width="900" height="940" alt="Three journal entries in date, details, debit and credit columns: debit account first, credit account indented, then a narrative. In each, debit and credit amounts are equal: 480, 64 and 45." loading="lazy">
+  <figcaption>A journal entry shows the debit, the credit and a narrative, and always balances.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

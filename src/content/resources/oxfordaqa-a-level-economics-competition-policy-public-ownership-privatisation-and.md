@@ -45,6 +45,12 @@ Competition policy is government action that stops firms using market power agai
 
 The limitations matter just as much. Policy has costs: running an authority, legal fees for firms and delays. Authorities lack full information, so they may block a beneficial merger or miss a harmful one. Size can bring economies of scale, so punishing size can raise costs. Firms may also respond by moving activity abroad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
+
 ## Abuse of dominant position
 
 A dominant firm is not illegal by itself. Policy targets abuse. Typical abuses:
@@ -55,6 +61,12 @@ A dominant firm is not illegal by itself. Policy targets abuse. Typical abuses:
 - Refusing to supply a rival that needs an essential input.
 
 Remedies include fines, orders to stop the conduct and, in extreme cases, breaking the firm up. The hard part is proof. Low prices help consumers today, so an authority must show that prices are below cost and that the intent and effect is to eliminate competition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--03-abuse-of-dominant-position.webp" width="900" height="960" alt="Four panels illustrate predatory pricing (price below cost until the rival exits, then raised), exclusive dealing (shops forced to stock only the dominant firm), tying (A only with B) and refusal to supply an essential input to a rival." loading="lazy">
+  <figcaption>The four typical abuses of a dominant position named in the lesson.</figcaption>
+</figure>
+
 
 ## Regulating mergers and takeovers
 
@@ -73,6 +85,17 @@ The merged firm claims its unit cost will fall by 8%, from an index of 100 to 92
 
 Possible decisions: allow, allow with conditions (for example selling some plants to a new entrant), or block. Evaluation points: the quality of the cost evidence, how contestable the market is, whether the merger is needed to compete with foreign rivals, and the cost of mistakes in each direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--12-flour-merger.webp" width="900" height="960" alt="Two bars of market shares. Before: five firms with 30, 25, 20, 15 and 10 percent, a four-firm ratio of 90%. After the 20% and 15% firms merge: four firms with 30, 25, 35 and 10 percent, a four-firm ratio of 100% and the largest firm up from 30% to 35%. A claimed cost saving of 8 gives price 96 if half is passed on." loading="lazy">
+  <figcaption>Merging two mid-sized firms raises the four-firm concentration ratio from 90% to 100% and creates a larger leader.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## Restrictive practices and consumer protection
 
 Restrictive practices are agreements that limit competition: price fixing, market sharing, bid rigging and agreements to limit output. A cartel is a group of firms that cooperate in this way. Policy usually bans them and punishes them with fines related to turnover, damages claims and, in some countries, prison for individuals. Leniency schemes reward the first member to report the cartel, which makes members distrust each other.
@@ -88,6 +111,12 @@ Three bakery chains in Country A (illustrative) fix prices; their combined turno
 - To deter, expected fine must reach the gain: fine = 80 / 0.3 = 266.7m, which is 133% of turnover.
 
 Conclusion: fines alone deter weakly when detection is unlikely. This supports leniency schemes (raising the probability of detection), damages claims and personal penalties. The model ignores reputation damage and legal costs, which also deter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--11-cartel-deterrence.webp" width="900" height="970" alt="Bars in millions: gain from price fixing 80 (20 a year for 4 years), maximum fine 20, expected fine 6 (0.3 x 20), and the fine needed to deter 266.7 (80 divided by 0.3, 133% of turnover). The expected fine is far below the gain so the cartel pays." loading="lazy">
+  <figcaption>With a detection chance of 0.3 the expected fine is far below the gain, so fines alone deter weakly.</figcaption>
+</figure>
+
 
 ## Promoting competition and reducing entry barriers
 
@@ -129,6 +158,22 @@ Demand is P = 20 − 0.1Q. Fixed cost is 400 and marginal cost is constant at 4 
 
 Average cost pricing is the practical compromise: lower price and higher output than the unregulated monopoly, with no subsidy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--09-natural-monopoly-pricing.webp" width="900" height="985" alt="Demand P = 20 - 0.1Q, constant marginal cost 4 and fixed cost 400. A: the unregulated monopoly sets MR = MC at Q 80, P 12, profit 240. B: average cost pricing gives Q about 129, P about 7.10 and break-even. C: marginal cost pricing gives Q 160, P 4 and a loss of 400 that needs a subsidy." loading="lazy">
+  <figcaption>Average cost pricing gives a lower price and higher output than an unregulated monopoly without a subsidy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--10-price-cap-rpi-x.webp" width="900" height="850" alt="A line chart with X = 2.5 and annual inflation of 3.0, 4.5, 2.0, 3.5 and 1.0 percent. Allowed price changes are +0.5, +2.0, -0.5, +1.0 and -1.5 percent so the utility index goes 100 to 101.47, while general prices reach 114.77. The real price index is about 88.4, an 11.6% fall." loading="lazy">
+  <figcaption>A cap of inflation minus X lets prices rise by less than average prices, so the real price falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--01-rate-of-return-control.webp" width="900" height="870" alt="Two columns: capital of 500m with an 8% allowed return gives allowed profit of 40m; capital of 600m gives 48m. The firm gains 8m by adding 100m of capital, so it is encouraged to over-invest and gets little reward for cutting costs." loading="lazy">
+  <figcaption>Allowed profit is 8% of capital, so more capital means more allowed profit.</figcaption>
+</figure>
+
+
 ## Public ownership
 
 Public ownership means the state owns the firm or industry (nationalisation).
@@ -145,6 +190,12 @@ Privatisation means moving state-owned assets into private hands by sale. For: s
 
 A state-owned port (illustrative) earns 60m profit a year and is sold for 900m. The price is 900 / 60 = 15 times annual profit. The government uses the receipts to cut debt that costs 4% a year, saving 0.04 × 900 = 36m. It gives up 60m, so the net loss is 60 − 36 = 24m a year. The sale is justified only if efficiency gains, quality, investment or new competition outweigh this (or if a higher price could have been obtained, which makes the loss smaller).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--13-privatisation-sale-price.webp" width="900" height="870" alt="A state port earns 60m a year and is sold for 900m, 15 times annual profit. Using the proceeds to cut debt at 4% saves 36m a year. The government gives up 60m, so it loses 24m a year net. The sale is justified only if other gains outweigh this." loading="lazy">
+  <figcaption>Selling for 15 times profit saves 36m of interest but gives up 60m of profit.</figcaption>
+</figure>
+
+
 ## Regulation, deregulation and regulatory capture
 
 Regulation is rules enforced by an authority on prices, quality, entry or conduct. For: protects consumers where competition is weak, handles externalities and information gaps, and offers a route for private ownership of natural monopolies. Against: compliance costs, slow decisions, and the regulator's information gap. Deregulation removes rules to encourage entry and cut costs. For: lower prices, more choice, less red tape. Against: lower safety or quality, firms exploit consumers, and weak oversight can allow short-term risk-taking.
@@ -152,6 +203,17 @@ Regulation is rules enforced by an authority on prices, quality, entry or conduc
 Illustration: after a bus market in Country C (illustrative) is deregulated, average fare falls from 12.00 to 10.20, a fall of 15%, and passenger trips rise from 40,000 to 46,000, a rise of 15%. Price elasticity of demand = +15% / -15% = -1.0, so revenue barely changes (480,000 falls to 469,200), and any gain to consumers has to be weighed against reduced service on quiet routes.
 
 **Regulatory capture** is when a regulator ends up serving the industry it oversees, not the public. Causes: the industry has the information and the money to lobby; regulators and firms swap staff; and the regulator relies on the firm's data. Consequences: lenient price caps, weak enforcement and entry barriers that protect incumbents. Remedies: rotate staff, publish evidence, independent appeals, and bring in outside expertise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--02-bus-deregulation-elasticity.webp" width="900" height="860" alt="A demand line through (40,000 trips, fare 12.00) and (46,000 trips, fare 10.20). The fare falls 15% and trips rise 15%, so PED is -1.0. Revenue is 480,000 before and 469,200 after." loading="lazy">
+  <figcaption>A 15% fall in fare met by a 15% rise in trips gives PED of -1.0 and almost unchanged revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--04-regulatory-capture-loop.webp" width="900" height="860" alt="The industry pushes lobbying, staff swaps and its own data towards the regulator. The regulator returns lenient price caps, weak enforcement and entry barriers. The industry gains and the public loses out. Remedies: rotate staff, publish evidence, independent appeals, outside experts." loading="lazy">
+  <figcaption>Capture: the industry gains and the public loses; four remedies.</figcaption>
+</figure>
+
 
 ## Common errors
 

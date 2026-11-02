@@ -54,6 +54,17 @@ These notes condense section 11.1 (outcomes 11.1.1 to 11.1.3) of the Cambridge I
 
 Country L: goods −18, services +9, primary income −4, secondary income +2. Current account = −18 + 9 − 4 + 2 = **−11**. Capital account = +1. If errors are zero, the financial account must be **+10**, because −11 + 1 + 10 = 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--01-bop-accounts-sum-zero.webp" width="900" height="960" alt="The four balance of payments entries for Country K add up to zero. A current account deficit of 23 is matched by inflows on the capital and financial accounts and a small errors item." loading="lazy">
+  <figcaption>Every transaction has two sides, so the accounts sum to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--02-bop-deficit-funding.webp" width="900" height="950" alt="A deficit of 23 is matched by a financial account inflow of 22 made of direct investment 9, portfolio investment 7, other investment 3 and reserves 3. Direct investment is stable; portfolio flows can reverse and reserves are finite." loading="lazy">
+  <figcaption>The source of finance matters as much as the size of the deficit.</figcaption>
+</figure>
+
+
 ## 11.1.2: policies and their routes
 
 | Policy | Route to the balance of payments | Main benefit | Main limit |
@@ -94,6 +105,12 @@ Unit labour cost index = (1 + wage growth) ÷ (1 + productivity growth).
 
 *Reminder:* a 5% fall in the currency with export PED 1.0 and import PED 0.8. Exports 100 become 100 × 1.05 = 105. Imports 120 become 120 × 1.05 × 0.96 = 121.0. The deficit narrows from 20 to about 16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--04-depreciation-and-elasticity.webp" width="900" height="930" alt="Three bars show the goods balance before and after a 10% currency fall. With responsive trade the balance improves from minus 40 to minus 34.2; with unresponsive trade it worsens to minus 47.4." loading="lazy">
+  <figcaption>A depreciation helps the current account only if trade is responsive enough.</figcaption>
+</figure>
+
+
 ### Monetary policy chain
 
 Higher interest rate, then hot money inflow, then higher demand for the currency, then a higher exchange rate, then dearer exports and cheaper imports. Set this against the fall in import spending from lower income. The financial account improves while the current account may not.
@@ -101,6 +118,32 @@ Higher interest rate, then hot money inflow, then higher demand for the currency
 ### Supply-side chain
 
 Better education, infrastructure and research, then higher productivity and quality, then lower unit costs and stronger non-price competitiveness, then more exports, fewer imports and more direct investment. Always add that the effect is slow and uncertain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--08-tight-fiscal-multiplier-imports.webp" width="900" height="960" alt="A spending cut of 10 with a multiplier of 1.82 lowers income by 18.2. Imports fall by 0.25 x 18.2 = 4.5, about a fifth of the 23 deficit, so roughly 4 units of output are lost per 1 of imports saved." loading="lazy">
+  <figcaption>Tight fiscal policy cuts imports a little but costs a lot of output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--09-interest-rate-hot-money-currency.webp" width="900" height="900" alt="A higher interest rate brings hot money in, improving the financial account, but lifts the currency 4%. Exports fall from 210 to 199.9 and imports from 241 to 239.7, so the goods balance worsens from -31 to -39.8." loading="lazy">
+  <figcaption>A higher interest rate can improve the financial account while worsening the goods balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--10-unit-labour-cost-productivity.webp" width="900" height="1070" alt="Wages up 4% and output per worker up 6.5% make unit labour cost 0.977, a fall of 2.3%. With export PED 1.4, export value rises only from 210 to about 211.7, a gain of under 2." loading="lazy">
+  <figcaption>When productivity grows faster than wages unit labour cost falls, but the export gain can be small.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--11-tariff-import-payments.webp" width="900" height="880" alt="Before a 15% tariff 120 units at 25 ku mean 3,000 ku paid abroad. The price rises to 28.75 ku and quantity falls 24% to 91.2, so payments abroad are 2,280 (down 720) and tariff revenue of 342 stays at home." loading="lazy">
+  <figcaption>A tariff cuts payments to foreign suppliers by 720 and raises 342 of revenue at home.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## 11.1.3: switching versus reducing
 
@@ -113,6 +156,12 @@ Better education, infrastructure and research, then higher productivity and qual
 | Suits | Deficit from excess demand | Deficit from weak competitiveness |
 
 Supply-side policy is neither neatly switching nor reducing. It raises capacity and competitiveness over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--03-expenditure-switching-vs-reducing.webp" width="900" height="960" alt="Three columns split spending into home goods and imports. Reducing policies shrink the whole column; switching policies keep the total and move spending to home goods. Numbers are illustrative." loading="lazy">
+  <figcaption>Expenditure-reducing cuts total spending; expenditure-switching redirects it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

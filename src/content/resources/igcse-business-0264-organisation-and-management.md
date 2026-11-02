@@ -63,9 +63,26 @@ A **tall** structure has many levels, narrow spans and a long chain of command. 
 | Promotion | Many steps, so more chances to move up | Few steps, so fewer chances |
 | Costs | Many managers, so higher salary costs | Fewer managers, so lower costs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--14-tall-vs-flat.webp" width="900" height="925" alt="Two charts with the same 16 workers. Tall: 5 levels, span 2, chain of 4 links, 15 managers. Flat: 3 levels, span 4, chain of 2 links, 5 managers." loading="lazy">
+  <figcaption>The same 16 workers in a tall and a flat structure (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ### Interpreting an organisational chart
 
 Read a chart from the top. Count the levels, then count the boxes directly below each manager. A chart shows who reports to whom, not how well people work together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--11-burdock-chart.webp" width="900" height="990" alt="Burdock Joinery chart: a managing director with four managers (span 4); operations has two supervisors (span 2) each with 6 workers (span 6); marketing 3, finance 2 and HR 1 staff. 4 levels, a chain of 3 links from worker to managing director, 25 employees." loading="lazy">
+  <figcaption>Burdock Joinery: levels, spans, chain of command and total employees read from the chart.</figcaption>
+</figure>
+
 
 ### Worked example: reading a chart
 
@@ -102,6 +119,12 @@ Flexible working lets the pattern of work suit the employee as well as the busin
 | Part-time | Cover busy periods without paying for quiet ones. Often easier to recruit | Less commitment may be shown. More people to train and manage. Handovers can go wrong |
 | Full-time | More commitment and knowledge of the business. Fewer people to manage. Reliable cover | Paid for all hours, including quiet times. Less flexible if demand changes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--12-sandrell-cover.webp" width="900" height="880" alt="The shop needs 84 hours a week. Two full-time employees give 80 hours, 4 short. One full-time plus four part-timers on 11 hours gives 84 hours. The wage bill is 1,008 either way." loading="lazy">
+  <figcaption>Sandrell Cycles: matching staff hours to the 84 hours needed.</figcaption>
+</figure>
+
+
 ### Worked example: cover for a shop
 
 Sandrell Cycles opens six days a week for 10 hours each day. It needs one person on duty at all times, and two people for 4 busy hours each day.
@@ -111,6 +134,12 @@ Sandrell Cycles opens six days a week for 10 hours each day. It needs one person
 - One full-time employee plus four part-timers on 11 hours each gives 40 + 44 = **84 hours**.
 
 At 12 an hour the wage bill is 84 x 12 = **1,008** either way, but the part-time option matches staff to the busy periods. The drawback is five people to manage instead of two.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--10-functional-areas.webp" width="900" height="940" alt="Four panels: operations makes the product or service, marketing finds, promotes and sells, finance handles money, budgets and wages, human resources recruits, trains and looks after staff." loading="lazy">
+  <figcaption>The four functional areas named in the syllabus.</figcaption>
+</figure>
+
 
 ## 2.2.2 The functions of management
 
@@ -138,6 +167,12 @@ The syllabus lists five functions. Learn each one and be able to spot it in a ca
 - The manager may lose some control and still be blamed.
 - Delegating takes time to explain, and some employees see it as extra work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--04-delegation-value.webp" width="900" height="800" alt="The owner ordering stock for 6 hours a week over 48 weeks costs 8,064 dollars; a supervisor costs 4,896. The difference is 3,168 dollars saved, and 6 hours a week are freed for planning." loading="lazy">
+  <figcaption>Delegating stock ordering saves 3,168 dollars a year and frees 6 hours a week.</figcaption>
+</figure>
+
+
 ### Worked example: the value of delegation
 
 The owner of Sandrell Cycles spends 6 hours a week ordering stock. Her time is worth 28 an hour. A shop supervisor, whose time is worth 17 an hour, could do it. Over 48 weeks:
@@ -146,6 +181,12 @@ The owner of Sandrell Cycles spends 6 hours a week ordering stock. Her time is w
 - Difference: **3,168**.
 
 The owner also gains 6 hours a week to plan promotions. The risk is poor ordering, so she should check the first few orders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--03-management-loop.webp" width="900" height="870" alt="The five functions are shown in order: planning, organising, coordinating, commanding and controlling. An arrow from controlling back to planning shows managers act on gaps between results and plan." loading="lazy">
+  <figcaption>The five functions of management form a loop because controlling feeds back into planning.</figcaption>
+</figure>
+
 
 ## 2.2.3 Leadership styles
 
@@ -168,11 +209,23 @@ Look at four things in the case.
 
 Then state the cost and why the benefit is larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--13-zephwood-style.webp" width="900" height="920" alt="New seasonal staff and 900 cakes in 14 days point to an autocratic style for the fortnight, returning to democratic afterwards. The cost is that new staff may feel unvalued, so the manager explains the reasons." loading="lazy">
+  <figcaption>Zephwood Bakery: autocratic for the fortnight, with the cost admitted.</figcaption>
+</figure>
+
+
 ### Worked example: choosing a style
 
 Zephwood Bakery must produce 900 wedding cakes in the fortnight before a festival, using seasonal staff who started this week. The manager's usual style is democratic.
 
 Recommendation: use an autocratic style for this fortnight. Time is short and the staff are new, so they need clear instructions, and a vote on each decision would waste time. The cost is that new staff may feel unvalued, so the manager should explain the reasons and return to a democratic style after the festival. The answer has a choice, evidence from the case and the cost admitted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
 
 ## 2.2.4 Why reducing the size of the workforce may be necessary
 
@@ -196,6 +249,12 @@ Netherby Textiles plans to replace 8 machine operators, who each earn 21,500 a y
 - Time to recover: 342,000 / 154,000 = about **2.2 years**.
 
 The plan pays back after about two and a quarter years. But if demand fell, the loom would sit idle and skilled operators would be gone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--05-automation-payback.webp" width="900" height="900" alt="Cumulative savings of 154,000 dollars a year rise until they equal the 342,000 dollars of one-off costs after about 2.2 years. The chart shows the recovery time as the point where the lines cross." loading="lazy">
+  <figcaption>A loom costing 342,000 in one-off costs pays back from savings of 154,000 a year in about 2.2 years.</figcaption>
+</figure>
+
 
 ### Choosing who to make redundant
 

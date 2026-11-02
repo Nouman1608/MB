@@ -62,6 +62,12 @@ You must recognise these parts on a diagram. Food passes along a continuous tube
 
 Liver, gall bladder and pancreas are not on the food path. They send secretions into the duodenum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
+
 ### Worked example 1: why the large intestine matters
 
 A person has 9.0 litres of fluid enter the gut in a day (food, drink and secretions). The faeces contain 0.2 litres of water.
@@ -70,6 +76,17 @@ Water absorbed = 9.0 − 0.2 = **8.8 litres**.
 Percentage absorbed = 8.8 ÷ 9.0 × 100 = **98%** (2 significant figures).
 
 This shows why damage to the large intestine causes watery faeces: the water is not reabsorbed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--09-water-absorbed.webp" width="900" height="940" alt="A tall bar to scale shows 9.0 litres of fluid entering the gut in a day. 8.8 litres (98%) is absorbed into the blood and only 0.2 litres leaves in the faeces. Damage to the large intestine means water is not reabsorbed and faeces are watery." loading="lazy">
+  <figcaption>Almost all the water that enters the gut is absorbed back into the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+
 
 ## 3.2.4 b: Enzymes
 
@@ -83,6 +100,17 @@ Each enzyme has an **active site**. The substrate fits into it, the reaction hap
 
 **High temperatures denature the enzyme.** The bonds that hold the protein in shape break, so the shape of the active site changes. A denatured enzyme cannot catalyse the reaction, and cooling it again does not restore it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+
 ### Temperature
 
 - At low temperature, particles move slowly, so enzyme and substrate meet and react less often. The rate is low.
@@ -90,6 +118,17 @@ Each enzyme has an **active site**. The substrate fits into it, the reaction hap
 - Above the best temperature, denaturation begins and the rate drops quickly towards zero.
 
 A cold enzyme is only slow. A too-hot enzyme is permanently damaged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--02-practical-setup-variables.webp" width="900" height="1086" alt="Test tubes of amylase and starch stand in a water bath; iodine drops on a spotting tile turn from blue-black to orange-brown at the end point (120 s, illustrative). Cards give the independent, dependent and control variables." loading="lazy">
+  <figcaption>Change temperature or pH, measure the time for starch to disappear, keep everything else the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
 
 ### pH
 
@@ -124,6 +163,27 @@ A starch solution contains 1.20 g of starch. After 5 minutes with amylase, 0.45 
 Starch broken down = 1.20 − 0.45 = 0.75 g.
 Mean rate = 0.75 ÷ 5 = **0.15 g per minute**.
 Percentage digested = 0.75 ÷ 1.20 × 100 = **62.5%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--07-amylase-temperature-rates.webp" width="900" height="830" alt="Bar chart of amylase rate (1000 divided by time) at 20, 30, 40 and 50 degrees Celsius: 3.57, 6.25, 12.5 and 8.00. The rate doubles from 30 to 40 and falls 36% from 40 to 50, so the optimum is near 40 degrees, but nothing was tested between 40 and 50." loading="lazy">
+  <figcaption>Shorter time means faster rate; the highest bar shows the optimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--01-enzymes-made-vs-act.webp" width="900" height="832" alt="A grid of five places against amylase, protease and lipase marks where each is made and where it acts. The pancreas makes all three but they act in the duodenum." loading="lazy">
+  <figcaption>Where an enzyme is made is not always where it acts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--03-starch-digested-amount.webp" width="900" height="880" alt="Bars to scale show 1.20 g of starch at the start and 0.45 g left after 5 minutes, so 0.75 g broken down: 0.15 g per minute and 62.5 percent digested." loading="lazy">
+  <figcaption>1.20 g minus 0.45 g is 0.75 g, which is 0.15 g per minute or 62.5 percent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--04-washing-protease-activity.webp" width="900" height="820" alt="Bar chart of relative activity at 20, 40, 60 and 80 degrees C: 15, 60, 100 and 35. Activity rises fourfold from 20 to 40 and falls 65 percent from 60 to 80. A 40 degree wash uses 60 percent of the best." loading="lazy">
+  <figcaption>The enzyme works best at 60 degrees C and falls sharply above it.</figcaption>
+</figure>
+
 
 ## Required practical: temperature, pH and the rate of digestion
 
@@ -162,6 +222,12 @@ The rate is highest at pH 2, so the enzyme works best in acid conditions, like a
 Ways to improve: test more pH values between 1 and 3 to find the best value more precisely; repeat and take means; use a water bath to keep the temperature constant; wait for the tubes to reach temperature before mixing. A drop of iodine every 30 seconds limits the timing to 30 seconds, so a clearer end point or shorter intervals would help.
 
 Safety: wear eye protection and take care with hot water, acid and iodine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--08-protease-ph-rates.webp" width="900" height="830" alt="Bar chart of protease rate (1000 divided by time) at pH 1, 2, 3, 5 and 7: 6.67, 22.2, 9.09, 2.50 and 0 (no change in 600 s). The enzyme works best at pH 2, like a stomach protease." loading="lazy">
+  <figcaption>The protease is fastest at pH 2 and inactive at pH 7.</figcaption>
+</figure>
+
 
 ## 3.2.4 c: The digestive enzymes
 

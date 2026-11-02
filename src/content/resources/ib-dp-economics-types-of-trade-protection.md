@@ -58,6 +58,12 @@ Surplus ideas carry over from [competitive market equilibrium](/resources/ib-dp-
 
 At Pw = 20, Qd = 180 − 60 = 120 and Qs = 80 − 30 = 50. Imports are 120 − 50 = **70**. Import expenditure is 20 × 70 = **1 400**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
+  <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
+</figure>
+
+
 ## Tariffs
 
 A tariff is a tax on imported goods. A **specific** tariff is a fixed amount per unit. An **ad valorem** tariff is set as a share of the import's value: 25% of a world price of 20 is 5 per unit. Either way, the domestic price of the imported good becomes Pw plus the tariff.
@@ -94,6 +100,12 @@ Label the areas on your diagram:
 
 The consumer surplus loss is a + b + c + d.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--06-tariff-diagram.webp" width="900" height="1010" alt="Demand and supply for shirts with world price 20 and tariff price 25. Areas a (producer gain 300), b (50), c (37.5) and d (government revenue 175) are shaded; output 50 to 70, consumption 120 to 105, imports 70 to 35." loading="lazy">
+  <figcaption>The effects of a tariff of 5 on the Brandovia shirt market.</figcaption>
+</figure>
+
+
 ### Worked example (HL only): Brandovia tariff of 5
 
 A tariff of 5 per shirt is imposed. Then Pt = 25.
@@ -109,6 +121,17 @@ A tariff of 5 per shirt is imposed. Then Pt = 25.
 
 Spending changes too. Consumers spend 25 × 105 = 2 625 instead of 2 400. Domestic producers' revenue rises from 1 000 to 25 × 70 = 1 750. Of the 875 spent on imports, 175 is tax and **700** goes to foreign sellers, down from 1 400.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--09-tp-tariff.webp" width="900" height="1100" alt="Shirt market with D, S, Pw = 20 and Pt = 25. Output rises 50 to 70, consumption falls 120 to 105, imports fall 70 to 35. Producers gain 300 (a), triangles b and c lose 50 and 37.5, government revenue is 175 (d). Net welfare change is -87.5." loading="lazy">
+  <figcaption>Tariff effects on price, output, imports, revenue and welfare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--07-tariff-welfare-hl.webp" width="900" height="890" alt="Consumers lose 562.5, which equals producers’ gain 300 plus government revenue 175 plus 87.5 lost to everyone. Net welfare change is minus 87.5." loading="lazy">
+  <figcaption>The consumer loss splits into three parts, and two triangles are lost.</figcaption>
+</figure>
+
+
 ## Quotas
 
 An import quota sets a ceiling on the units of a good allowed in during a set period. The government may allocate the right to import by licence. Because supply from abroad is capped, the domestic price rises until domestic buyers want exactly the quota quantity beyond what domestic firms supply.
@@ -118,6 +141,12 @@ An import quota sets a ceiling on the units of a good allowed in during a set pe
 Keep D, S and Pw. Draw the quota as a horizontal gap of fixed width between S and D. Slide that gap up until it fits between the two curves. The price at which it fits is the new domestic price, Pq. Mark the quota quantity as the width of that gap.
 
 Effects on price, production and consumption match a tariff of the same size. The difference is the rectangle d. A tariff pays it to the government. Under a quota it is **quota rent**: the gap between Pq and Pw on every imported unit, collected by whoever holds the import licences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--08-quota-diagram.webp" width="900" height="1040" alt="The shirt market with a quota of 35 shown as a gap between supply and demand at price 25, rent 175, and two cards: rent stays home (net minus 87.5) or leaves abroad (net minus 262.5)." loading="lazy">
+  <figcaption>A quota matches a tariff of 5 except for who holds the rent.</figcaption>
+</figure>
+
 
 ### Worked example (HL only): Brandovia quota of 35
 
@@ -131,6 +160,12 @@ Limit imports to 35. Find the price where Qd − Qs = 35.
 The quota gives the same outcome as a tariff of 5. The only difference is who holds the 175. Domestic importers who hold the licences keep it in the country, as private income. If foreign sellers hold the licences, it leaves the country. Net welfare change for the country is then −87.5 minus 175 = **−262.5**.
 
 A second difference: with a tariff the price gap is set and the import quantity adjusts. With a quota the import quantity is set and the price adjusts. If demand rises, imports increase under a tariff but not under a quota.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--10-tp-quota.webp" width="900" height="1130" alt="Same shirt market. A quota of 35 raises the domestic price to 25. The quota rent of 175 goes to licence holders: net welfare -87.5 if they are domestic, -262.5 if foreign." loading="lazy">
+  <figcaption>A quota matches a tariff except that the rent goes to licence holders.</figcaption>
+</figure>
+
 
 ## Subsidies and export subsidies
 
@@ -153,6 +188,17 @@ Effects: consumer price unchanged, domestic production up, imports down, consump
 
 Output reaches the same 70 as under the tariff, but consumers are not hurt. Taxpayers pay instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--11-tp-producer-subsidy.webp" width="900" height="1090" alt="With a subsidy of 5, producers receive 25 and output rises to 70 while consumers still pay 20 and buy 120, so imports fall from 70 to 50. Producers gain 300, the government pays 350, and the net welfare change is -50." loading="lazy">
+  <figcaption>A producer subsidy raises output without raising the consumer price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--09-import-subsidy.webp" width="900" height="1020" alt="Supply shifts down by 5 so output rises from 50 to 70 while consumers still pay 20. Government pays 350, producer gain is 300 and 50 is lost. Imports fall from 70 to 50." loading="lazy">
+  <figcaption>A producer subsidy leaves consumers untouched and taxpayers pay.</figcaption>
+</figure>
+
+
 ### Export subsidy
 
 An export subsidy is a payment on each unit sold abroad. Take the fictional grain market of Tessaly. Demand is Qd = 100 − 2P and supply is Qs = 3P − 20, in thousand tonnes. The world price is 30.
@@ -170,6 +216,17 @@ An export subsidy is a payment on each unit sold abroad. Take the fictional grai
 5. Check with the triangles: ½ × 5 × (85 − 70) = 37.5 and ½ × 5 × (40 − 30) = 25, which sum to 62.5.
 
 Home consumers pay more, producers gain, and taxpayers fund the subsidy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--12-tp-export-subsidy.webp" width="900" height="1060" alt="Domestic price rises from 30 to 35, consumption falls 40 to 30, output rises 70 to 85 and exports rise 30 to 55. Consumers lose 175, producers gain 387.5, taxpayers pay 275; net -62.5." loading="lazy">
+  <figcaption>Export subsidies are paid by taxpayers and hurt home buyers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--10-export-subsidy.webp" width="900" height="1040" alt="Tessaly grain market: world price 30, home price rises to 35 with a subsidy of 5, exports rise from 30 to 55. A bar tally shows producers +387.5, consumers minus 175, taxpayers minus 275, net minus 62.5." loading="lazy">
+  <figcaption>An export subsidy raises the home price and costs taxpayers.</figcaption>
+</figure>
+
 
 ## Administrative barriers
 
@@ -191,6 +248,12 @@ Importers must pay 4 per shirt for local testing, so the consumer price becomes 
 3. Every unit sold still costs consumers 24, and domestic producers gain from the higher price, as with a tariff of 4. The difference is that the 168 pays for compliance and goes to no one as income.
 
 Evaluation matters because a standard can have two purposes. It may protect buyers from unsafe or misleading products. It may also shelter domestic firms. A good answer weighs how well the rule achieves a genuine goal against how much it restricts trade, and whether a less restrictive rule would do the job. Reasons for trade control belong to sub-topic 4.3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--13-tp-admin-barrier.webp" width="900" height="1130" alt="A compliance cost of 4 per shirt raises the consumer price to 24. Imports fall from 70 to 42. Producers gain 232, b and c lose 32 and 24, and the 168 compliance cost is spent on testing and paperwork, not collected as revenue." loading="lazy">
+  <figcaption>Administrative barriers act like a tariff but nobody collects the money.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -64,6 +64,12 @@ Many species produce far more offspring than can survive. A fish may release tho
 
 **Abiotic factors** are non-living selection pressures: temperature, rainfall, salinity, pH, fire and light. Extremes such as a severe frost or a drought are **density-independent**: they affect survival whatever the population size. Competition for food is usually **density-dependent**, because it gets worse as numbers rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--01-overproduction-fish-eggs.webp" width="900" height="935" alt="A grid of 2000 dots stands for the eggs of one fish. Two gold ringed dots survive to breed and 1998 die, giving 0.1% reaching adulthood. Survival is not random because it depends partly on traits." loading="lazy">
+  <figcaption>Of 2000 eggs only 2 survive to breed, so 0.1% reach adulthood.</figcaption>
+</figure>
+
+
 ## D4.1.5 Fitness
 
 Individuals of one species differ in how well they are adapted. Competition between members of the same species (**intraspecific competition**) is a major source of selection because they need the same resources.
@@ -75,6 +81,12 @@ Individuals of one species differ in how well they are adapted. Competition betw
 A trait changes a population only if it is **heritable**, meaning determined by alleles passed through gametes. Traits gained during life, such as the muscle of a weightlifter, a scar, or a tan, come from the environment. They are not written into the base sequence of the genes, so they are not inherited. This is the key flaw in Lamarck's idea.
 
 **Reasoning check.** A cold snap kills more slow lizards than fast ones. Allele frequencies shift in the next generation only if speed has a genetic basis. If speed came only from diet, the survivors' offspring would show no change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--02-heritable-vs-acquired.webp" width="900" height="980" alt="Top row: a weightlifter with big muscles has a child with normal muscles, because muscle gained in life is not in the DNA and the gamete DNA is unchanged. Bottom row: a fast lizard with allele F passes F in its gamete to a fast offspring. Only heritable traits can change allele frequencies." loading="lazy">
+  <figcaption>Acquired traits are not inherited; alleles carried in gametes are.</figcaption>
+</figure>
+
 
 ## D4.1.7 Sexual selection
 
@@ -97,6 +109,12 @@ Endler controlled the selection pressure by keeping populations in pools with di
 
 No predators: (8.1 − 6.0) ÷ 6.0 × 100 = **+35%**. Strong predation: (4.2 − 6.0) ÷ 6.0 × 100 = **−30%**. With predators removed, female choice pushes colour up. With strong predators, natural selection against conspicuous males dominates. Only predator level changed, so predation is the likely cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--03-endler-guppies.webp" width="900" height="840" alt="Bars of invented data show mean spots per male guppy: 6.0 at the start, 8.1 with no predators (+35%) and 4.2 with strong predation (−30%). Females choosing bright males pushes colour up while predators eating bright males pushes it down." loading="lazy">
+  <figcaption>Sexual selection and natural selection act in opposite directions on male guppy colour.</figcaption>
+</figure>
+
+
 ## D4.1.9 and D4.1.10 Gene pools and isolated populations (HL only)
 
 A **gene pool** is all the genes, with all their different alleles, in a population. The **allele frequency** is the proportion of copies of a gene that are one particular allele.
@@ -106,6 +124,12 @@ A **gene pool** is all the genes, with all their different alleles, in a populat
 Geographically isolated populations often differ in allele frequency. There is little or no gene flow between them, each meets different conditions, and mutations arise independently.
 
 **Using databases (skills).** Public databases such as the ALFRED allele frequency database or the 1000 Genomes browser let you search a gene and compare populations. Record the population, sample size and allele. Use at least one human example: the allele for lactase persistence is common in some populations with a history of dairy farming and rare in many others. Treat small samples with caution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--04-allele-frequency-counting.webp" width="900" height="763" alt="Fifty plants are drawn as pills holding two alleles each: 30 BB, 15 Bb and 5 bb. Pooling gives 75 B and 25 b out of 100 alleles, frequencies 0.75 and 0.25, which add to 1." loading="lazy">
+  <figcaption>Allele frequency is found by counting alleles, not plants.</figcaption>
+</figure>
+
 
 ## D4.1.11 Selection changes allele frequency (HL only)
 
@@ -120,6 +144,12 @@ Geographically isolated populations often differ in allele frequency. There is l
 | Disruptive | Both extremes | Splits towards two peaks | Bill size in seedcracker finches |
 
 All three change allele frequencies. Even stabilizing selection removes alleles that produce extremes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--05-three-types-of-selection.webp" width="900" height="944" alt="Three graphs show a bell-shaped trait distribution before (dashed) and after (solid) selection. Directional selection shifts the curve towards one extreme, stabilizing narrows it around the mean and disruptive splits it into two peaks." loading="lazy">
+  <figcaption>Directional, stabilizing and disruptive selection change the trait distribution in different ways.</figcaption>
+</figure>
+
 
 ## D4.1.13 Hardy-Weinberg calculations (HL only)
 
@@ -137,6 +167,12 @@ Homozygous dominant p² = 0.36, heterozygous 2pq = 2 × 0.6 × 0.4 = **0.48**, h
 
 **Worked example 3 (from genotype counts).** In 400 snails there are 150 AA, 180 Aa, 70 aa. Alleles = 800. A = (2 × 150 + 180) ÷ 800 = 0.60, so q = 0.40. Expected under Hardy-Weinberg: AA 144, Aa 192, aa 64.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--06-hardy-weinberg-areas.webp" width="900" height="975" alt="A unit square is divided by p = 0.6 and q = 0.4. The areas are AA 0.36, two Aa areas of 0.24 (2pq = 0.48) and aa 0.16. In 500 beetles that is 180 AA, 240 Aa and 80 aa." loading="lazy">
+  <figcaption>The Hardy-Weinberg genotype frequencies are areas of a square split by p and q.</figcaption>
+</figure>
+
+
 ## D4.1.14 Hardy-Weinberg conditions (HL only)
 
 Allele and genotype frequencies stay constant from one generation to the next only if:
@@ -152,11 +188,23 @@ Real populations rarely meet all five, so the equation is a baseline. If genotyp
 **Worked example 4: one generation of selection.** Use the beetles: AA 0.36, Aa 0.48, aa 0.16. Suppose only half of the aa beetles survive to breed. Relative numbers are 0.36, 0.48 and 0.08, total 0.92.
 New q = (0.48 ÷ 2 + 0.08) ÷ 0.92 = 0.32 ÷ 0.92 = **0.348** (3 s.f.), down from 0.4. Selection against the recessive homozygote has lowered the frequency of its allele.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--07-selection-against-recessive.webp" width="900" height="905" alt="Genotype frequencies of beetles are AA 0.36, Aa 0.48 and aa 0.16. If only half of aa survive to breed, aa falls to 0.08 and the total to 0.92. The frequency of a falls from 0.4 to 0.32 ÷ 0.92 = 0.348." loading="lazy">
+  <figcaption>Selection against the recessive homozygote lowers the frequency of its allele.</figcaption>
+</figure>
+
+
 ## D4.1.15 Artificial selection (HL only)
 
 In **artificial selection** humans choose which individuals breed, picking those with desirable traits in crops and domesticated animals. Repeating this over generations shifts the population, as in higher-yielding maize and dairy cattle that give more milk. The cost can be reduced variation.
 
 Unintended results are different. When antibiotics kill most of a bacterial population, resistant bacteria survive and multiply. Nobody chose them for breeding, so this is **natural selection**, with the antibiotic acting as the selection pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--08-artificial-vs-natural.webp" width="900" height="940" alt="Top: a farmer picks the largest maize cobs to breed (artificial selection). Bottom: an antibiotic kills susceptible bacteria and resistant ones survive and multiply with nobody choosing them, which is natural selection." loading="lazy">
+  <figcaption>Artificial selection means humans choose who breeds; antibiotic resistance is natural selection.</figcaption>
+</figure>
+
 
 ## Common errors
 

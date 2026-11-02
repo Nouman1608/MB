@@ -46,6 +46,12 @@ Firms try to keep their own costs low. If a firm can dump waste or make noise wi
 
 To score well, write a chain: the activity, then the damage, then the consequence for people or other firms. "Pollution is bad" is not a chain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+
 ## Part 2: Government intervention to protect the environment
 
 ### Taxation
@@ -62,6 +68,27 @@ Worked example. Take the market for paving slabs in Country X (illustrative). Be
 6. If each slab causes 6 dollars of external cost, the total external cost falls from 6 × 240 = 1,440 to 6 × 180 = 1,080, a fall of 360.
 
 Evaluation: the tax works best if demand is price elastic, because quantity then falls by a larger percentage than price rises. If demand is inelastic, buyers keep buying and the tax mainly raises revenue. Revenue can also be spent on the environment. Taxes may raise prices for poorer households and can push firms to move abroad.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--07-progressive-tax-country-b.webp" width="900" height="950" alt="Bars show average tax rates of 0%, 12%, 24.8% and 32.4% at gross pays of 6,000, 20,000, 50,000 and 100,000, with tax and net pay under each." loading="lazy">
+  <figcaption>The average tax rate rises with income, which is what makes the tax progressive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ### Subsidy
 
@@ -98,6 +125,27 @@ The total emissions are identical, but the target is met at lower cost. Drawback
 
 Parks are provided by the state and paid for by taxation. Trees take in some air pollution, grass and ponds absorb rainwater, and open space gives people a place to relax away from traffic. The opportunity cost is the land and money that could have built homes or schools. A park does not stop a factory polluting, so it works alongside other measures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--08-pollution-permits.webp" width="900" height="920" alt="Firms J and K each emit 600 tonnes with 500 permits. Without trading the cost of cutting is 7,500. With trading J cuts 200 tonnes and sells 100 permits to K, and the total cost falls to 3,000 with the same emissions." loading="lazy">
+  <figcaption>Trading permits meets the same cap at a saving of 4,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--04-paving-slab-tax.webp" width="900" height="1000" alt="Supply and demand for paving slabs with a 4 dollar tax. Price rises from 12 to 14 dollars and quantity falls from 240 to 180. Sellers keep 10 dollars and tax revenue is 720 dollars." loading="lazy">
+  <figcaption>A $4 tax moves the paving slab market from $12 and 240 slabs to $14 and 180 slabs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--05-solar-panel-subsidy.webp" width="900" height="990" alt="Zoomed supply and demand for solar panels with a 9 dollar subsidy. Price falls from 100 to 95 dollars and quantity rises from 400 to 420. Sellers receive 104 dollars and the subsidy costs 3,780 dollars." loading="lazy">
+  <figcaption>A $9 subsidy lowers the price buyers pay to $95 and raises output 5% at a cost of $3,780.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--06-expected-fine.webp" width="900" height="940" alt="Ten circles show a 40% chance of being caught. Bars compare a 30,000 dollar saving with expected fines of 20,000 and 30,000 dollars." loading="lazy">
+  <figcaption>A fine deters only if chance times fine reaches the saving from polluting.</figcaption>
+</figure>
+
+
 ## Part 3: Income inequality and poverty
 
 Income inequality means that income is unevenly shared between individuals or households in an economy.
@@ -122,6 +170,12 @@ Absolute poverty fell, but relative poverty did not. Growth that lifts everyone 
 - Ethical reasons: many people believe that everyone deserves a minimum standard of life and that large gaps are unfair.
 
 Counter-point: very high taxes on high earners may reduce effort and enterprise, so there is a trade-off.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--09-absolute-relative-poverty.webp" width="900" height="1100" alt="Bars show the five poorest of ten households before and after every income rises 20 percent, against a fixed absolute line of 150 and a relative line of 60 percent of the median. Absolute poverty falls from two households to one; relative poverty stays at three." loading="lazy">
+  <figcaption>Equal growth cuts absolute poverty but not relative poverty.</figcaption>
+</figure>
+
 
 ## Part 4: Government action to reduce inequality and poverty
 
@@ -159,6 +213,12 @@ Evaluation: benefits help at once, but they cost money, may reduce the incentive
 ### Investment in education and healthcare
 
 Spending on schools, training and healthcare raises skills and health, so people can earn more and work for longer. It tackles the cause, not just the symptom. Suppose a government spends 2 million dollars on a rural school programme for 500 children: that is 4,000 dollars per child. The benefit comes years later, and the money has an opportunity cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--10-redistribution-tax-benefits.webp" width="900" height="900" alt="Five equal income groups before and after tax and benefits. The richest earn 12 times the poorest before and 4.5 times after; the poorest gain 85 percent and the richest lose 30 percent." loading="lazy">
+  <figcaption>Tax and benefits narrow the gap between richest and poorest.</figcaption>
+</figure>
+
 
 ## Common errors
 

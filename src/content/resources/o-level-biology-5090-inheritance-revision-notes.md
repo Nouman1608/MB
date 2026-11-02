@@ -41,6 +41,17 @@ When you are ready, test yourself with the [practice questions](/resources/o-lev
 3. Discontinuous feature (e.g. pea seed shape): count the number in each category; draw a bar chart.
 4. Use a large sample so the pattern is clear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--05-leaf-length-histogram.webp" width="900" height="880" alt="A histogram of 24 leaf lengths in four classes: 35-44 mm 2 leaves, 45-54 mm 7, 55-64 mm 10, 65-74 mm 5. The bars touch and peak in the middle class." loading="lazy">
+  <figcaption>Continuous data are shown as a histogram with touching bars, peaking in the middle class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+
 ## 17.2 DNA
 
 **Structure (17.2.1)**
@@ -59,6 +70,27 @@ When you are ready, test yourself with the [practice questions](/resources/o-lev
 - Different amino acid sequences → **different protein shapes** → different functions.
 
 **Worked reminder.** 18% of the bases in a DNA molecule are G. So C = 18%. That leaves 100 − 36 = 64% for A + T, so A = T = **32%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--09-gene-vs-chromosome-mutation.webp" width="900" height="1260" alt="A one-base change in an illustrative DNA sequence changes an amino acid and so the protein shape, as in sickle cell anaemia. A chromosome mutation changes number: Down syndrome has 47 chromosomes instead of 46." loading="lazy">
+  <figcaption>Gene mutation changes bases; chromosome mutation changes number or structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <figcaption>Pairing means A equals T and C equals G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## 17.3 Inheritance
 
@@ -127,6 +159,22 @@ Iᴬ and Iᴮ are codominant; Iᵒ is recessive to both. Two parents of group A 
 - Sickle cell anaemia: changed base sequence in the gene for haemoglobin → changed amino acid sequence → haemoglobin of a different shape → red blood cells can become sickle-shaped.
 - **Sources of genetic variation**: mutation, meiosis, random mating, random fertilisation.
 - **Ionising radiation and some chemicals increase the rate of mutation.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--04-pure-breeding-peas.webp" width="900" height="960" alt="Two crosses in peas. RR x RR gives gametes R only and all RR round offspring. rr x rr gives gametes r only and all rr wrinkled offspring. Identical homozygous parents are pure-breeding." loading="lazy">
+  <figcaption>Identical homozygous parents breed true: RR x RR gives only RR, rr x rr gives only rr.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
 
 ## 17.4 Selection
 

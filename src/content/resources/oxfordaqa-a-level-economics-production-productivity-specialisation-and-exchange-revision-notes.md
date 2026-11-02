@@ -60,6 +60,12 @@ Condensed notes based on the OxfordAQA *International AS and A-level Economics (
 
 **Quick reminder.** A timber stock is 300 (thousand cubic metres, illustrative). Harvest is 36 a year; regrowth is 30 a year. Net change = 30 − 36 = −6 a year. Years to empty = 300 ÷ 6 = 50. Cutting the harvest to 30 would hold the stock steady.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--11-groundwater-store.webp" width="900" height="790" alt="A water store of 500 million cubic metres gains 25 a year and loses 40, a net fall of 15. It falls to 350 after 10 years (-30%) and is empty after 33.3 years; with extraction of 50 it is empty after 20 years." loading="lazy">
+  <figcaption>Production that uses a resource faster than it renews runs the stock down.</figcaption>
+</figure>
+
+
 ## Method: calculating and interpreting productivity
 
 1. Find total hours if hours are given per worker: workers × hours.
@@ -72,6 +78,17 @@ Condensed notes based on the OxfordAQA *International AS and A-level Economics (
 
 **Production and productivity can diverge.** More output with proportionally more workers means no rise in productivity. More output with the same workers means a rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--03-call-centre-productivity.webp" width="900" height="950" alt="Calls resolved rise from 14,000 to 15,360 to 17,600 while calls per hour go 20, 24, 22. From B to C output rises 14.6% but output per hour falls 8.3%, because more agents were hired." loading="lazy">
+  <figcaption>Output can rise while productivity falls: year C hired more agents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+
 ## Method: index numbers and real values
 
 - Productivity of 25, 26 and 27.5 over three years gives an index (year 1 = 100) of 100, 104 and 110.
@@ -83,6 +100,22 @@ Condensed notes based on the OxfordAQA *International AS and A-level Economics (
 **Worked reminder (Country S, illustrative).** Output rises from 3,000 to 3,150 (+5%) while hours worked rise from 100 to 102 (+2%). Output per hour moves from 3,000 ÷ 100 = 30 to 3,150 ÷ 102 = 30.88, a rise of 2.9%. Roughly two-fifths of the output growth came from more hours and three-fifths from higher productivity. Higher living standards in the long run depend mainly on productivity, because hours cannot keep growing for ever.
 
 Causes of rising labour productivity to quote: more capital per worker, better technology, training and education, better health, better organisation (including division of labour). Always link the cause to the context in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--12-country-p-productivity-index.webp" width="900" height="790" alt="Output per hour is 40.00, 41.18 and 42.40 in years 1 to 3, an index of 100.0, 102.9 and 106.0. Average output growth of about 5% a year is about 2% from more hours and about 3% from higher output per hour." loading="lazy">
+  <figcaption>Output growth comes partly from more hours and partly from higher productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--13-real-v-nominal-output.webp" width="900" height="790" alt="Year 1 output is 2,400. Year 2 at current prices is 2,620.8; dividing by the price index 104 and multiplying by 100 gives real output of 2,520. Nominal growth is 9.2% but real growth only 5%." loading="lazy">
+  <figcaption>Deflating by a price index removes price rises from output growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--14-mean-v-median-firms.webp" width="900" height="760" alt="Five firms produce 18, 20, 21, 23 and 58 units per worker-hour. The mean is 28, above four of the five firms because of one highly automated firm; the median is 21." loading="lazy">
+  <figcaption>One extreme value pulls the mean up, so the median describes the typical firm better.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to practise
 
@@ -114,6 +147,17 @@ Causes of rising labour productivity to quote: more capital per worker, better t
 
 **Evaluation checklist:** size of the market; type of work; whether management uses rotation or training; short-run versus long-run effects on workers; who gains (consumers, firm, workers).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--04-kite-workshop.webp" width="900" height="1010" alt="Without division of labour a kite takes 6.5 worker-hours including 1.5 lost switching; with it, 4.0. The team makes 50 kites instead of 30.8 in a 40-hour week, but if one framer is absent output falls to 25." loading="lazy">
+  <figcaption>Division of labour cuts worker-hours per kite but makes output depend on every stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ## Exchange and money
 
 - Specialisation leaves people relying on exchange for most of their consumption.
@@ -121,6 +165,17 @@ Causes of rising labour productivity to quote: more capital per worker, better t
 - Money as a medium of exchange removes the need for a matching partner and gives one price per good.
 - Result: less time searching, more time producing, so specialisation is easier.
 - Limit: money works only while people trust it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--05-barter-ratios-vs-prices.webp" width="900" height="860" alt="Under barter n goods need n(n-1)/2 exchange ratios; with money they need n prices. For 8 goods that is 28 against 8 and for 50 goods 1,225 against 50." loading="lazy">
+  <figcaption>The number of exchange rates explodes under barter but grows one-for-one with money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -172,3 +227,9 @@ Causes of rising labour productivity to quote: more capital per worker, better t
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Economics (9640)* specification, version 1.2, sections 3.1.3.1 and 3.1.3.2, with section 3.5 (quantitative skills). First teaching September 2020.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+

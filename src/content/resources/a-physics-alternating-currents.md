@@ -131,6 +131,12 @@ Pₐᵥₑᵣₐgₑ = ½ P₀
 This is consistent with, and can be verified using, the r.m.s. current and
 voltage values directly in P = IᵣₘₛVᵣₘₛ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
+</figure>
+
+
 ## Transformers and power transmission (prerequisite knowledge)
 
 The current (2025-2027) Cambridge 9702 syllabus does not list transformers
@@ -182,6 +188,12 @@ which route current through the load in the same direction on both halves
 of the input cycle, so current flows during both halves, producing pulses
 with no gaps, giving a smoother, more continuous output for the same
 input.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
+  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
+</figure>
+
 
 ## Smoothing
 

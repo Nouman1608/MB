@@ -36,6 +36,22 @@ guide](/resources/igcse-economics-the-allocation-of-resources/).
 Rule of thumb: if the question changes the good's own price, it is a
 movement; if it changes anything else, it is a shift.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+
 ## Price determination and disequilibrium
 
 - **Equilibrium**: quantity demanded = quantity supplied; price and
@@ -44,6 +60,12 @@ movement; if it changes anything else, it is a shift.
   demanded > quantity supplied; price tends to rise.
 - **Surplus (excess supply)**: price is above equilibrium; quantity
   supplied > quantity demanded; price tends to fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Price elasticity — formulas and meaning
 
@@ -67,6 +89,22 @@ a longer time).
 **PES determinants**: spare capacity, ease of storing stock, time
 period, ease of switching production between goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-allocation-of-resources-revision-notes--01-rn63-pes.webp" width="900" height="910" alt="Two supply curves cross at price 5, quantity 50. A 10% price rise gives +5% quantity on the steep curve (PES 0.5, inelastic) and +20% on the flat curve (PES 2, elastic)." loading="lazy">
+  <figcaption>The same 10% price rise produces a bigger quantity response on a flatter (more elastic) supply curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-allocation-of-resources-revision-notes--02-rn63-revenue-rule.webp" width="900" height="1040" alt="Two demand diagrams with a price fall from 5 to 4.5. Elastic: revenue box grows from 250 to 270. Inelastic: revenue box shrinks from 250 to 236.25." loading="lazy">
+  <figcaption>Revenue is price times quantity: a price fall raises it only when demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## Market failure — key terms at a glance
 
 | Term | Meaning | Worked example |
@@ -86,6 +124,22 @@ external costs; under-consumption of merit goods and goods with
 external benefits. No demand/supply diagram is required for market
 failure itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+
 ## Market economic system vs mixed economic system
 
 | | Market economic system | Mixed economic system |
@@ -100,6 +154,12 @@ subsidy for merit goods corrects under-consumption; an indirect tax on
 demerit goods corrects over-consumption) rather than listing policy
 tools without linking them to a cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+
 ## Aggregation: from individual to market
 
 - **Market demand** is the horizontal sum of all individual demand
@@ -110,6 +170,12 @@ tools without linking them to a cause.
 - This is why a change affecting many individuals or firms at once
   (a general fall in income; a new tax on all producers) shifts the
   whole market curve, not just one individual's curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-allocation-of-resources-revision-notes--03-rn63-aggregation.webp" width="900" height="900" alt="Three individual demand curves and the market curve. At price 4 individuals demand 2, 4 and 6, so market demand is 12." loading="lazy">
+  <figcaption>Market demand adds individual quantities at each price.</figcaption>
+</figure>
+
 
 ## Common exam traps in this topic
 

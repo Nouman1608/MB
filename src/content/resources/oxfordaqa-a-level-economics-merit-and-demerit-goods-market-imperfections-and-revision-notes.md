@@ -67,6 +67,27 @@ These notes boil down OxfordAQA International AS and A-level Economics (9640), s
 
 **Evaluation points:** who decides, paternalism, changing tastes, an unobservable true demand curve, and the size of spillovers or information gaps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--05-merit-good-two-demands.webp" width="900" height="890" alt="Demand D (Qd=120-2P), full-benefit demand D* (Qd=160-2P) and supply S (Qs=20+2P). Market equilibrium is price 25, quantity 70; the full-benefit equilibrium is price 35, quantity 90. The triangle between D* and S from 70 to 90 is 200." loading="lazy">
+  <figcaption>Market output is 70 but 90 is best; the net benefit lost is 200.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--11-demerit-gambling-two-demands.webp" width="900" height="920" alt="Market equilibrium at Q 60, informed equilibrium at Q 45, overconsumption 15 and loss triangle 112.5. D: 130-2P, D*: 100-2P, S: 2P-10 solved and asserted." loading="lazy">
+  <figcaption>The market overproduces a demerit good by 15 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--12-merit-demerit-test.webp" width="900" height="880" alt="A yes/no test of whether buyers misjudge their own benefit separates merit/demerit goods from spillovers only. Content follows the lesson examples: literacy classes, gambling machines, car journeys, hedge." loading="lazy">
+  <figcaption>Only goods that buyers under- or over-value are merit or demerit goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
+
 ## Market imperfections (3.1.5.5)
 
 | Imperfection | Chain of reasoning |
@@ -94,6 +115,22 @@ These notes boil down OxfordAQA International AS and A-level Economics (9640), s
 
 **Evaluate monopoly:** economies of scale, funds for innovation, and the threat of entry can reduce the harm; the damage depends on how much power exists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--06-asymmetric-information-vans.webp" width="900" height="870" alt="One in four vans is sound (worth 12,000; faulty 6,000). Buyers can only offer 7,500 for a random van, below the 10,000 owners of sound vans need, so sound vans are withdrawn." loading="lazy">
+  <figcaption>Buyers cannot tell good from bad, so the offer is too low for sound vans to sell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--07-monopoly-deadweight-numbers.webp" width="900" height="850" alt="Demand P=84-Q, MR=84-2Q, MC=24. Competition: Q=60, P=24. Monopoly: Q=30, P=54. Consumer surplus 450, profit 900, deadweight loss 450; total surplus falls from 1,800 to 1,350." loading="lazy">
+  <figcaption>A monopolist restricts output to 30 and the 450 deadweight loss is the surplus that is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--08-price-instability-revenue.webp" width="900" height="880" alt="With PED -0.4, a 10% poor harvest raises price 25% so revenue index is 1.125 (+12.5%); a 10% bumper harvest cuts price 25% so the index is 0.825 (-17.5%)." loading="lazy">
+  <figcaption>Inelastic demand turns small supply changes into big price and income swings.</figcaption>
+</figure>
+
+
 ## Inequitable distribution of income and wealth (3.1.5.6)
 
 **Must-know distinctions**
@@ -111,6 +148,17 @@ These notes boil down OxfordAQA International AS and A-level Economics (9640), s
 **Quintile reminder.** Country D income shares by quintile: 6%, 10%, 15%, 24%, 45%. The shares add to 100%. Top ÷ bottom = 45 ÷ 6 = 7.5. Top 40% = 24 + 45 = 69%. Bottom 40% = 6 + 10 = 16%.
 
 **Evaluation points:** equity versus efficiency (incentives), waste of talent under extreme inequality, and the fact that the right balance is a value judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--14-income-shares-quintiles.webp" width="900" height="920" alt="Bars of quintile income shares 5, 9, 14, 22 and 50 percent against an equal share of 20 percent. Shares sum to 100 and 50/5 = 10 asserted." loading="lazy">
+  <figcaption>Income shares are far from equal; whether that is fair is a value judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## Building an analytical chain
 

@@ -35,6 +35,17 @@ Quick recall for the first part of "Trade policies and negotiations" in Componen
 | Administrative barriers | Standards, licences, delays | No revenue; hard to measure |
 | Local content rules | Required share of domestic inputs | Raises costs for assemblers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--09-trade-subsidy-protection.webp" width="900" height="1020" alt="Same kettle market. Paying domestic producers 2 per unit means they receive 12 and supply 31 thousand, while consumers still pay the world price 10 and buy 60. Imports fall from 35 to 29. The government pays 2 x 31 = 62: 56 is extra producer surplus and 6 is wasted resources." loading="lazy">
+  <figcaption>A subsidy protects producers with a smaller net loss than a tariff but costs taxpayers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Tariff diagram: method in steps
 
 1. Sketch demand D, supply S and a flat world price line (a small country), with price on the vertical axis and quantity on the horizontal.
@@ -48,6 +59,22 @@ Quick recall for the first part of "Trade policies and negotiations" in Componen
 5. Consumer surplus falls by a + b + c + d. The net welfare loss is b + d.
 
 **Worked reminder (illustrative).** World price 10, Qd = 80 − 2P, Qs = 3P − 20. Free trade: Qd = 60, Qs = 10, imports 50. A tariff of 2 gives a price of 12, Qd = 56, Qs = 16, imports 40, revenue 80. Consumers lose 116; producers gain 26; revenue is 80; so the net loss is 116 − 26 − 80 = 10, made of 6 (production) and 4 (consumption).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--07-trade-tariff-areas.webp" width="900" height="1060" alt="Small open market for kettles: domestic demand Qd = 100 - 4P, domestic supply Qs = 3P - 5, world price 10. Free trade: demand 60, supply 25, imports 35. A tariff of 2 raises the price to 12: demand 52, supply 31, imports 21. Area a (56) is the producer surplus gain, b (6) is wasted resources, c (42) is tariff revenue, d (8) is lost consumption." loading="lazy">
+  <figcaption>A tariff moves surplus from consumers to producers and government and loses b + d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--01-tariff-rate-imports-revenue.webp" width="900" height="990" alt="Imports fall in a straight line from 35 to 0 as the tariff rises from 0 to 5, where the domestic price equals the no-trade price. Revenue is 0, 42, 28 and 0 at tariffs 0, 2, 4 and 5." loading="lazy">
+  <figcaption>Imports fall steadily as the tariff rises and revenue peaks then falls to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--02-tariff-small-vs-large-country.webp" width="900" height="1014" alt="Two waterfall charts. Small country: consumers -112, producers +56, government +42, net -14. Large country (world price falls to 9.5): consumers -85.5, producers +40.875, government +49, net +4.375." loading="lazy">
+  <figcaption>A small country loses 14 from a tariff while a large country can gain 4.375 at the exporter’s expense.</figcaption>
+</figure>
+
 
 ## Tariff versus quota versus subsidy
 
@@ -81,6 +108,12 @@ Quota rent = (domestic price − world price) × quota. With a quota of 40 and a
 5. If demand later rises, the gap stays fixed, so the price climbs further.
 
 **Reminder.** With the same market and demand raised to Qd = 90 − 2P, a quota of 30 solves 90 − 2P = 3P − 20 + 30, so P = 16, Qd = 58, Qs = 28, imports 30 and rent (16 − 10) × 30 = 180.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--08-trade-quota-vs-tariff.webp" width="900" height="1010" alt="After demand rises to Qd = 114 - 4P, a tariff of 2 keeps the domestic price at 12 and lets imports rise from 21 to 35. A quota of 21 thousand fixes imports, so the price adjusts to 14 (where Qd 58 equals domestic supply 37 plus the quota 21). The rectangle between prices 10 and 14 across the 21 units of imports is quota rent of 84, which goes to whoever holds the licences." loading="lazy">
+  <figcaption>A tariff fixes the price; a quota fixes imports and creates quota rent.</figcaption>
+</figure>
+
 
 ## Tariff schedule: the revenue pattern
 
@@ -146,6 +179,12 @@ If a large importer's tariff pushes the world price down from 10 to 9, the expor
 | Lower tax, deregulation | Encourages investment | Revenue loss, side effects |
 | Competition policy, flexible labour | Cost pressure | Inequality, insecurity |
 | Subsidies | Quick | Opportunity cost, retaliation |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--03-unit-labour-cost-productivity.webp" width="900" height="1010" alt="A 20 hourly wage spread over 5 units costs 4.00 each; over 6.25 units it costs 3.20, a 20% fall. Wages +4% with productivity +1% raise unit labour cost 2.97%; +3% and +3% leave it unchanged." loading="lazy">
+  <figcaption>Unit labour cost is wage cost divided by productivity.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

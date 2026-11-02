@@ -71,12 +71,39 @@ For a firm with TC = a + bQ², AC = a/Q + bQ and MC = 2bQ. Minimum AC is where t
 
 **Small reminder.** For TC = 100 + Q², AC = 100/Q + Q. MC = 2Q. They meet where Q² = 100, so Q = 10 and AC = 20 = MC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--04-ef-firm-efficiency.webp" width="900" height="920" alt="Cost and demand diagram for a monopoly with total cost 900 plus Q squared and demand P = 150 minus 2Q. Average cost is lowest at output 30 where it equals marginal cost, 60 (productive efficiency, point A). The monopoly sets marginal revenue equal to marginal cost at output 25 and price 100 (point B), where average cost is 61, so it narrowly misses productive efficiency, and price 100 is well above marginal cost of 50, so it misses allocative efficiency. Allocative efficiency, price equals marginal cost, is at output 37.5 and price 75 (point C). The welfare loss triangle between demand and marginal cost from 25 to 37.5 has area 312.5 thousand CU." loading="lazy">
+  <figcaption>The monopoly misses productive efficiency narrowly and allocative efficiency widely, with a welfare loss of 312.5 thousand CU.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
+
 ## Pareto optimality and dynamic efficiency (7.3.3, 7.3.4)
 
 - Test a move: does anyone lose? If anyone loses, it is not a Pareto improvement.
 - Many Pareto optimal points exist, some very unequal. Pareto optimality says nothing about fairness.
 - Dynamic efficiency is judged over time. Lower costs and better products from research count, even if prices are above MC now.
 - Trade-off: market power can cause static loss but may fund investment. Whether it does depends on how profit is used and on threat of entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--05-ef-pareto.webp" width="900" height="950" alt="Scatter graph of utility of person A against utility of person B for four allocations: W at 6,6; X at 8,6; Y at 8,3; Z at 5,9. A shaded region to the upper right of W contains all Pareto improvements on W. Moving from W to X makes A better off and leaves B unchanged, so it is a Pareto improvement and W was not Pareto optimal. Moving from X to Y makes B worse off and from X to Z makes A worse off, so neither is an improvement. X and Z are both Pareto optimal." loading="lazy">
+  <figcaption>A move is a Pareto improvement only if someone gains and nobody loses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--08-ef-dynamic-efficiency.webp" width="900" height="900" alt="Line chart of unit cost over six years. A firm that invests in new methods has unit costs 60, 56, 52, 50, 48 and 46 CU. A rival that does not invest has a flat 55 CU. The investing firm costs more in years 1 and 2 and less from year 3, with the gap widening. Over six years, selling 1,000 units a year, the investor spends 312,000 CU against 330,000 CU for the rival, a saving of 18,000 CU. This is dynamic efficiency: improving efficiency over time." loading="lazy">
+  <figcaption>Investing costs more at first but saves 18,000 CU over six years.</figcaption>
+</figure>
+
 
 ## Market failure and its reasons (7.3.5, 7.3.6)
 
@@ -117,6 +144,12 @@ A fictional city centre. Q is in thousand car trips, values in CU.
 
 At the social optimum the marginal external cost is 12 CU per trip, which is the size of the gap a corrective tax would aim to close.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--07-ef-positive-externality.webp" width="900" height="920" alt="Diagram for a vaccination programme. Marginal private benefit is 100 minus 5Q and marginal external benefit is 28 minus Q, so marginal social benefit is 128 minus 6Q, which lies above MPB. Marginal cost is 20 plus 3Q. The market settles at 10 thousand doses and price 50. The social optimum, where MSB equals MSC, is 12 thousand doses with value 56. At 10 doses MSB is 68 against cost 50, so the welfare loss triangle has area 18 thousand CU. The marginal external benefit at 12 is 16, the size of the subsidy needed." loading="lazy">
+  <figcaption>With an external benefit the market provides 10 thousand doses against a social optimum of 12.</figcaption>
+</figure>
+
+
 ## Deadweight welfare loss (7.4.5)
 
 - It arises because the market produces a quantity where MSB and MSC differ.
@@ -124,12 +157,29 @@ At the social optimum the marginal external cost is 12 CU per trip, which is the
 - Positive externality: the loss sits to the left of the social optimum.
 - On a diagram, shade only the triangle between MSB and MSC. Label the market quantity and the social quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ## Asymmetric information and moral hazard (7.4.6)
 
 - Asymmetric information: sellers often know more than buyers (used goods, financial products, medical care). Poor decisions follow, and better-quality goods may leave the market.
 - Moral hazard: after insurance or a guarantee, the protected party takes more risk.
 - Insurer's example: loss 5,000 CU, chance of a claim 4% before cover and 6% after. Expected claim rises from 200 to 300 CU. A premium of 200 loses 100 CU per policy.
 - Responses: excesses, monitoring, sharing information, regulation. Each has a cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--01-lemons-car-market.webp" width="900" height="1010" alt="A number line shows the buyers' offer of 4,500 sitting 500 below the 5,000 that owners of good cars need, so good cars are withdrawn. Of ten cars, only the five poor ones remain and the price falls to 3,000. Each lost good-car sale would have gained 1,000." loading="lazy">
+  <figcaption>Buyers offer the average, 4,500, so owners of good cars (needing 5,000) leave and only poor cars remain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--02-moral-hazard-insurer.webp" width="900" height="900" alt="Two grids of 100 dots show the chance of a claim rising from 4 in 100 before cover to 6 in 100 with cover. Premiums were set at 200 per household, so 200,000 in total, but claims reach 300,000. The insurer loses 100,000 CU." loading="lazy">
+  <figcaption>Once insured, households take less care: claims rise from 4% to 6%, and a premium of 200 no longer covers them.</figcaption>
+</figure>
+
 
 ## Costs and benefits in decisions (7.4.7)
 
@@ -141,6 +191,22 @@ At the social optimum the marginal external cost is 12 CU per trip, which is the
 5. Test sensitivity: which values are least certain?
 
 Net present value is not required. A decision with positive net social benefit but large uncertain values deserves caution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--06-ef-negative-externality.webp" width="900" height="920" alt="Diagram for a chemical works. Marginal private benefit is 90 minus 3Q, marginal private cost is 18 plus 3Q and marginal external cost is 2Q, so marginal social cost is 18 plus 5Q, which lies above MPC. The market settles where MPB equals MPC at 12 thousand tonnes and a price of 54. The social optimum is where MPB equals MSC at 9 thousand tonnes and 63. At 12 the gap between MSC and MPB is 24. The deadweight welfare loss triangle has area 36 thousand CU. The market overproduces by 3 thousand tonnes." loading="lazy">
+  <figcaption>With an external cost the market produces 12 thousand tonnes against a social optimum of 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--03-bypass-cba-flip.webp" width="900" height="975" alt="Stacked columns compare social benefit with social cost for a bypass in CU millions. In the base case benefits of 65 (toll 20, time 35, accidents 10) exceed costs of 62 (construction 50, noise 12), a net of +3. If the time saving is 20% lower at 28, benefits are 58 and the net is -4; the break-even time saving is 32." loading="lazy">
+  <figcaption>Counting external benefits turns a private loss into a social gain of +3, but a 20% lower time saving flips the answer to -4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

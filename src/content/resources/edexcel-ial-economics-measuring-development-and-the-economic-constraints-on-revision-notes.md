@@ -83,6 +83,17 @@ The arithmetic mean is 0.5895, higher than the geometric mean.
 
 Evaluating: the HDI adds health and education to income, yet is still an average. Judge it for the purpose given. It suits a broad ranking but not an assessment of who gains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--06-hdi-three-indices.webp" width="900" height="920" alt="Alder's health, education and income indices are 0.831, 0.647 and 0.723. Their geometric mean is the HDI of 0.730, slightly below the arithmetic mean of 0.734." loading="lazy">
+  <figcaption>The HDI is the geometric mean of three indices on a 0 to 1 scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--01-hdi-beta-vs-corra.webp" width="900" height="970" alt="Grouped bars for Beta and Corra. Beta: health 0.923, education 0.267, income 0.966, HDI 0.620. Corra: 0.708, 0.811, 0.514, HDI 0.666. Beta's weak schooling drags its HDI below Corra's although it is far richer." loading="lazy">
+  <figcaption>Beta is richer but ranks lower, because one weak component pulls the geometric mean down.</figcaption>
+</figure>
+
+
 ## Other measures
 
 | Indicator | Higher level of development suggests | Typical caution |
@@ -96,6 +107,12 @@ Evaluating: the HDI adds health and education to income, yet is still an average
 
 Reminder: a share falling from 70% to 50% of a labour force that grows from 2.0 million to 2.8 million leaves 1.4 million workers in farming, the same number as before (2.0 x 0.70 = 1.4 and 2.8 x 0.50 = 1.4). The share fell by 20 percentage points while the number stayed constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--03-development-indicators-p-vs-q.webp" width="900" height="990" alt="Paired bars compare P and Q. Q has 49 points less farm labour, 38 points more clean water, 8.7 times the energy, 10.4 times the internet users and 17 times the doctors per thousand." loading="lazy">
+  <figcaption>Q leads P on every indicator, by points for shares and by multiples for amounts.</figcaption>
+</figure>
+
+
 ## Commodity price volatility
 
 Causes: price inelastic demand and supply in the short run, weather, pests, and swings in world demand. Effects: unstable farm incomes, government revenue, export earnings and exchange rates, and a risky climate for investment.
@@ -103,6 +120,12 @@ Causes: price inelastic demand and supply in the short run, weather, pests, and 
 Reminder: price index 100 falls to 75 while volume rises 10%. Revenue index = 0.75 x 1.10 = 0.825, a fall of 17.5%. Higher volume does not offset a bigger price fall.
 
 Reminder on elasticity: with demand elasticity -0.4, a supply fall of 8% raises price by about 8 / 0.4 = 20%. Revenue = 1.2 x 0.92 = 1.104, up 10.4%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--09-commodity-price-volatility.webp" width="900" height="1140" alt="A crop price index of 100, 128, 91, 74, 112 and 96 with year-on-year changes of +28.0%, −28.9%, −18.7%, +51.4% and −14.3%. A 10% fall in supply raises revenue to 108 and a 10% rise cuts it to 88." loading="lazy">
+  <figcaption>Inelastic demand and supply turn small supply changes into large price and income swings.</figcaption>
+</figure>
+
 
 ## Prebisch-Singer
 
@@ -113,6 +136,22 @@ Reminder: export price index 108 and import price index 135 gives 108 / 135 x 10
 Reminder: income rises 2% and income elasticity of demand is 0.5 for primary goods and 1.5 for manufactures. Demand rises 1% and 3%.
 
 Evaluation: evidence is mixed and depends on the product and period. Some commodities enjoy long booms. Diversification into manufacturing or services is the usual response, but it takes time and capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--08-terms-of-trade-deterioration.webp" width="900" height="1090" alt="Ravia's export price index rises from 100 to 112 while the import price index rises to 160, so the terms of trade fall to 70. A machine costing 10 tonnes of crop now costs 14.3 tonnes." loading="lazy">
+  <figcaption>Falling terms of trade mean more exports are needed to buy the same imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--02-hdi-log-income-diminishing.webp" width="900" height="960" alt="The income index curve flattens as income rises. Two marked steps, 2,000 to 3,000 cu and 40,000 to 41,000 cu, are shown as bars: +0.061 against +0.004." loading="lazy">
+  <figcaption>Because income is logged, a rise of about 1,000 cu counts for far less at 40,000 than at 2,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--05-engel-demand-growth.webp" width="900" height="880" alt="Two rising lines from 1: manufactures reach 2.55 times in 20 years at 4.8% a year, primary goods only 1.27 times at 1.2% a year." loading="lazy">
+  <figcaption>With the same income growth, demand for manufactures compounds much faster than for primary goods.</figcaption>
+</figure>
+
 
 ## Harrod-Domar and the savings gap
 
@@ -128,13 +167,31 @@ Ways to close the gap: higher domestic saving, foreign direct investment, aid or
 
 Limits: k fixed, saving not always invested, ignores technology and skills, and treats every unit of capital as equally productive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--07-harrod-domar-savings-gap.webp" width="900" height="980" alt="For 6% growth with k = 3.5 on GDP of 50, investment must be 10.5 against saving of 4.0, a gap of 6.5. With k = 2.8 the investment needed is 8.4 and the gap 4.4." loading="lazy">
+  <figcaption>A lower capital-output ratio narrows the savings gap for a growth target.</figcaption>
+</figure>
+
+
 ## Foreign currency gap
 
 Reminder: required imports 5.2 bn cu and foreign currency earnings 4.4 bn cu leaves a gap of 0.8 bn cu. Domestic saving cannot buy imports, so a country may have saving but lack foreign currency. If the two gaps differ, the larger gap sets the binding constraint, and a foreign inflow that closes it closes the smaller one too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--04-foreign-currency-gap-build-up.webp" width="900" height="770" alt="Imports of 10.5 split into 4.2, 3.0 and 3.3 sit above earnings of 8.2 (7.0 exports and 1.2 remittances). The 2.3 shortfall is shaded as the gap." loading="lazy">
+  <figcaption>The gap is imports of 10.5 less earnings of 8.2, which is 2.3 bn cu.</figcaption>
+</figure>
+
+
 ## Capital flight
 
 Causes: political instability, high inflation, expected devaluation, weak property rights, high taxes. Effects: lower investment, falling tax base, currency depreciation, a wider savings gap and foreign currency gap. Responses: stable policy and confidence, and sometimes capital controls, which treat the symptom and may deter genuine investors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--10-capital-flight-two-gaps.webp" width="900" height="960" alt="Selvia's savings gap widens from 6.5 to 8.3 and its foreign currency gap from 2.3 to 4.1 when residents send 1.8 abroad. Growth under s/k falls from 2.3% to 1.3%." loading="lazy">
+  <figcaption>Capital flight reduces investment funds and raises demand for foreign currency, widening both gaps.</figcaption>
+</figure>
+
 
 ## How the constraints link
 

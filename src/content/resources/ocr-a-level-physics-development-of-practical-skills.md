@@ -57,6 +57,12 @@ procedures and apparatus)
 separately-reported, teacher-assessed competencies confirming a
 student can work safely and competently in a practical context
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--01-skills-two-routes.webp" width="900" height="920" alt="Module 1 splits into the written-exam skills 1.1 (four parts) and the Practical Endorsement 1.2." loading="lazy">
+  <figcaption>Module 1 has a written-exam route with four parts and a separately reported teacher-assessed Endorsement.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because this module has no dedicated exam paper, the most effective
@@ -88,6 +94,12 @@ A good plan identifies the **independent variable** (what you change), the **dep
 
 Risk assessment should be specific to the experiment: identifying the hazard, the risk it creates, and the control measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--02-plan-variables-instrument.webp" width="900" height="900" alt="Independent, dependent and control variables, then instrument choice by resolution: an illustrative 0.50 mm wire read with a ruler (+/-0.5 mm, 100%) or a micrometer (+/-0.005 mm, 1%), and at least six values." loading="lazy">
+  <figcaption>Choose variables and an instrument whose resolution suits the quantity.</figcaption>
+</figure>
+
+
 ## Recording and processing
 
 Raw data goes in a table with quantity and unit in the column heading, not beside each entry, and every reading in a column quoted to the same number of decimal places as the instrument's resolution.
@@ -95,6 +107,22 @@ Raw data goes in a table with quantity and unit in the column heading, not besid
 When plotting, choose scales that use at least half the grid in both directions and are easy to read. The line of best fit should have roughly equal numbers of points either side and should not be forced through the origin unless the physics requires it.
 
 Gradient must be found using a large triangle spanning most of the plotted line, taking coordinates from the line rather than from data points.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--03-results-table-format.webp" width="900" height="970" alt="A poor table with units in every cell and mixed decimal places beside a good table with l / m and T / s headings and consistent decimal places. Pendulum values are illustrative." loading="lazy">
+  <figcaption>Units go in the heading and every reading has the same number of decimal places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--04-best-fit-gradient-triangle.webp" width="900" height="985" alt="Illustrative data with a positive intercept: the best-fit line has three points each side and the line forced through the origin fits badly. A large gradient triangle has corners read from the line." loading="lazy">
+  <figcaption>A best-fit line balances points either side and is not forced through the origin; gradients use a large triangle read from the line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
 
 ## Linearising relationships
 
@@ -111,6 +139,17 @@ Plot T^2 against l  ->   gradient = 4 pi^2 / g
 
 Being asked "what should be plotted, and what does the gradient represent" is the single most common form of practical question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--05-linearise-pendulum.webp" width="900" height="1020" alt="T = 2 pi sqrt(l/g) is squared to T^2 = (4 pi^2/g) l, matching y = mx + c. Computed graphs show T against l curving and T^2 against l straight with gradient 4 pi^2/g (g = 9.81 used to draw)." loading="lazy">
+  <figcaption>Squaring the pendulum equation gives a straight-line graph whose gradient is 4 pi^2/g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial--03-pendulum-t2-against-l.webp" width="900" height="1000" alt="Graph of T squared against L for five points from (0.250, 1.006) to (1.000, 4.024) on a straight line through the origin. The gradient is 3.018/0.750 = 4.024 s^2 per metre, so g = 4 pi^2/4.024 = 9.81 m s^-2." loading="lazy">
+  <figcaption>A straight line through the origin shows T² ∝ L, and the gradient gives g.</figcaption>
+</figure>
+
+
 ## Uncertainty and evaluation
 
 Percentage uncertainties add for products and quotients, and multiply by the power for raised quantities. Error bars allow maximum and minimum gradients to be drawn, and the uncertainty in the gradient is half their difference.
@@ -118,6 +157,27 @@ Percentage uncertainties add for products and quotients, and multiply by the pow
 A strong evaluation identifies which measurement contributes the **largest percentage uncertainty** and proposes an improvement targeting that specific measurement. Suggesting "repeat and take a mean" as a fix for a systematic error, or "be more careful", earns nothing.
 
 Anomalous results should be identified, excluded from the mean, and — where possible — explained.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--07-target-dominant-uncertainty.webp" width="900" height="930" alt="Comparison of total percentage uncertainty: original 2.87%, better ruler 2.55%, timing 20 oscillations 0.74% (assuming the same +/-0.02 s timing uncertainty; illustrative)." loading="lazy">
+  <figcaption>Improving the dominant measurement cuts the uncertainty far more than improving the other one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--06-anomalous-result-handling.webp" width="900" height="780" alt="A number line of five repeat timings with one far-out value circled. The mean with all five is 18.78 s and without the anomaly is 18.25 s. Steps: spot it, leave it out of the mean, explain it if you can. Values are illustrative." loading="lazy">
+  <figcaption>Spot the anomaly, leave it out of the mean, and explain it if you can.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -133,6 +193,12 @@ Total = 0.63% + 2.24% = 2.87%
 ```
 
 Timing dominates. Timing 20 oscillations and dividing by 20 would cut it far more effectively than a better ruler.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--06-worked-uncertainty-pendulum.webp" width="900" height="960" alt="Percentage uncertainties 0.63% (l) and 1.12% (T), doubled to 2.24% for T^2, total 2.87%, so timing dominates." loading="lazy">
+  <figcaption>Timing limits the accuracy of g because T is squared.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

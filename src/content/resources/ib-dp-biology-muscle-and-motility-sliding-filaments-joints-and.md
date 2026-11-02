@@ -88,6 +88,17 @@ A relaxed sarcomere is 2.4 µm long and its A band is 1.6 µm. During contractio
 
 A 30 mm fibre has 30 000 ÷ 2.4 = 12 500 sarcomeres in series. If each shortens by 0.6 µm, the fibre shortens by 7.5 mm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--01-sarcomere-sliding.webp" width="900" height="1170" alt="A relaxed sarcomere (2.4 micrometres) is drawn above a contracted one (1.8 micrometres) with thick myosin and thin actin filaments, Z lines and A, I and H bands marked. The A band stays 1.6 micrometres, the I band falls from 0.8 to 0.2 micrometres (75%) and the H zone disappears, so filaments slide rather than shorten." loading="lazy">
+  <figcaption>Filaments keep their length and slide past each other, so the overlap increases and the Z lines move closer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--02-cross-bridge-cycle.webp" width="900" height="1206" alt="Five panels follow one myosin head: calcium binds troponin and tropomyosin moves aside; the head with ADP and Pi binds actin; the power stroke tilts the head and pulls actin towards the centre; ATP binds and the head lets go; ATP hydrolysis resets the head so it binds further along." loading="lazy">
+  <figcaption>Each cycle needs Ca2+ to expose binding sites and ATP to release and reset the head.</figcaption>
+</figure>
+
+
 ## B3.3.3 Titin and antagonistic muscles
 
 **Titin** is an immense, elastic protein. One end is anchored at the Z line and the other is linked to the thick filament near the middle of the sarcomere. It does two jobs:
@@ -96,6 +107,17 @@ A 30 mm fibre has 30 000 ÷ 2.4 = 12 500 sarcomeres in series. If each shortens 
 - It **prevents overstretching**, because it resists being extended beyond a limit and keeps the thick filaments centred.
 
 Muscle tissue exerts a **pulling** force only while contracting. It cannot push. Muscles therefore work in **antagonistic pairs**: when one contracts, it stretches the other. The stretched muscle is then ready to contract and reverse the movement. Example: at the elbow, the biceps flexes the joint and the triceps extends it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--03-titin.webp" width="900" height="1140" alt="Three sarcomeres show a springy titin molecule from each Z line to the thick filament. At rest titin is coiled; when stretched it extends, stores energy and recoils the sarcomere; near the limit it is taut, resists further stretch and keeps the thick filament centred." loading="lazy">
+  <figcaption>Titin stores elastic energy so a stretched sarcomere recoils, and it limits overstretching.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--05-elbow-lever.webp" width="900" height="1260" alt="Top: biceps contracting bends the elbow while the triceps is stretched; triceps contracting straightens it while the biceps is stretched. Bottom: a forearm lever with the elbow as pivot, biceps 4 cm away and a 20 N load 30 cm away, so the muscle force is 150 N and the hand moves 7.5 times as far." loading="lazy">
+  <figcaption>Muscles only pull, so they work in pairs; the forearm lever trades force for range and speed.</figcaption>
+</figure>
+
 
 ## B3.3.4 Motor units
 
@@ -118,6 +140,12 @@ A muscle has 40 motor units averaging 150 fibres each. Assume each active fibre 
 - Recruiting 12 units activates 12 × 150 = 1800 fibres.
 - Force: 1800 × 0.05 = **90 N**.
 - Recruiting all 40 units gives 6000 × 0.05 = **300 N**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--04-motor-unit.webp" width="900" height="1150" alt="A motor neuron with a branching axon ends on three muscle fibres (one motor unit) while two grey fibres belong to other units. A zoom of one junction shows an action potential arriving, acetylcholine released by exocytosis, binding receptors on the sarcolemma, depolarisation spreading in, and calcium released from the sarcoplasmic reticulum." loading="lazy">
+  <figcaption>One motor neuron plus its fibres is a motor unit; its junctions release acetylcholine to trigger contraction.</figcaption>
+</figure>
+
 
 ## B3.3.5 Skeletons: anchorage and levers
 
@@ -152,6 +180,12 @@ A synovial joint lets bones move against each other with low friction. Use the h
 
 You need not name hip muscles or ligaments, but you should name the femur and the pelvis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--06-hip-joint.webp" width="900" height="1100" alt="A cross-section of the hip: the femur head sits in the pelvis socket, both covered in cartilage with synovial fluid between, enclosed by a joint capsule, with a ligament joining bone to bone and a muscle pulling the femur through a tendon." loading="lazy">
+  <figcaption>A synovial joint lets bones move with low friction; the hip is a ball-and-socket joint.</figcaption>
+</figure>
+
+
 ## B3.3.7 Range of motion
 
 **Range of motion** is the angle through which a joint can move in a given direction. A ball-and-socket joint can move in several dimensions: flexion and extension, abduction and adduction, and rotation.
@@ -164,6 +198,12 @@ A student measures hip flexion five times (degrees): 118, 122, 120, 115, 125. Th
 
 To compare fairly, measure the same movement in the same posture, repeat readings, and keep one person measuring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--07-range-of-motion.webp" width="900" height="1245" alt="Stick drawings show hip flexion and extension, abduction and adduction, and rotation. A goniometer with its pivot over the joint and an arm on each bone reads 120 degrees. A dot plot of five hip flexion readings (115 to 125 degrees) has mean 120 degrees." loading="lazy">
+  <figcaption>Place the goniometer pivot on the joint, align arms with the bones, and repeat readings for a fair comparison.</figcaption>
+</figure>
+
+
 ## B3.3.8 Intercostal muscles
 
 Intercostal muscles lie between the ribs. They are an antagonistic pair acting on the ribcage.
@@ -172,6 +212,12 @@ Intercostal muscles lie between the ribs. They are an antagonistic pair acting o
 - **Internal intercostals** have fibres running in the opposite direction. Contraction pulls the ribs down and in, which is useful in forced exhalation.
 
 The different fibre orientations mean each layer pulls the ribcage in the opposite direction. When one layer contracts, it stretches the other, and the stretch stores potential energy in the sarcomere protein titin. The stored energy helps the stretched layer to recoil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--08-intercostals.webp" width="900" height="1110" alt="Two side views of three ribs between spine and sternum. External intercostals contract to lift the ribs up and out for inhalation; internal intercostals, with fibres in the opposite direction, pull the ribs down and in in forced exhalation. The stretched layer stores energy in titin." loading="lazy">
+  <figcaption>The two layers are antagonists: one raises the ribs, the other lowers them.</figcaption>
+</figure>
+
 
 ## B3.3.9 Reasons for locomotion
 
@@ -198,6 +244,12 @@ Whales, dolphins and seals show adaptations for life in water:
 ### Worked example 6: swimming
 
 A dolphin swims at 5.0 m per second with a tail beat frequency of 2.0 Hz (supplied). Distance per beat = 5.0 ÷ 2.0 = **2.5 m**. If its body is 2.5 m long, that is one body length per beat. If a breath exchanges 9 L of a 12 L lung volume, the exchange is 9 ÷ 12 × 100 = **75%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--09-marine-mammal.webp" width="900" height="1170" alt="A dolphin side view labels the streamlined body, blowhole, flipper for steering and a flat fluke. Tails seen from behind show a horizontal fluke beating up and down against a fish tail beating side to side. A dolphin at 5.0 m/s and 2.0 Hz moves 2.5 m per beat, one body length, and a breath replaces 9 of 12 L (75%)." loading="lazy">
+  <figcaption>Streamlining, flippers, an up-down fluke and a blowhole let marine mammals swim and breathe periodically.</figcaption>
+</figure>
+
 
 ## Common errors
 

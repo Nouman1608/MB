@@ -84,6 +84,17 @@ Step 3: judge. Site C is cheapest by 108,000 a year over B, a gap of about 3.7% 
 
 Notice the pattern. Quantitative data lets you rank the sites. Qualitative factors then test whether the ranking is safe. A strong answer uses both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--05-site-total-cost.webp" width="900" height="900" alt="Stacked bars show fixed, production and delivery costs for three sites making 120,000 pans. A costs 3.324m, B 2.892m and C 2.784m, so C is cheapest by 3.7 percent over B." loading="lazy">
+  <figcaption>Site C is cheapest on cost, but only narrowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## Ways of reorganizing production
 
 Two questions separate the four terms. Who does the work, the business itself or an outside firm? Where is it done, in the home country or abroad?
@@ -110,6 +121,12 @@ Worked example. Nyrith Audio makes speakers. Its own assembly line has fixed cos
 
 Below about 208,700 units a year, outsourcing is cheaper. Above it, in-house production is cheaper. If Nyrith expects demand to grow past that figure, outsourcing is a short-run saving and a long-run cost. The decision should also weigh quality control and how well the contractor can cope with surges in orders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--06-outsource-break-even.webp" width="900" height="790" alt="Lines show in-house cost (480,000 fixed plus 7.10 a unit) and outsourcing cost (9.40 a unit). They cross at 208,696 units: outsourcing is cheaper below it and in-house above it." loading="lazy">
+  <figcaption>The cheaper option flips at 208,696 units a year.</figcaption>
+</figure>
+
+
 ### Offshoring
 
 Offshoring means moving production, or part of it, to another country. The business may open its own plant there or use a local contractor. The term describes where the work happens. The term outsourcing describes who does it. A business can offshore without outsourcing, and outsource without offshoring.
@@ -124,6 +141,12 @@ Worked example. Zerrin Footwear makes 80,000 pairs a year at home at a cost of 3
 
 Now test the result. If shipping rose to 7.20, landed cost would be 21.00 + 7.20 + 1.68 = 29.88. The saving falls to 4.12 per pair, or 329,600 a year, and recovery of the moving cost takes about 1.1 years. The offshoring case is still positive, but it is sensitive to shipping, duty and exchange rates. Say so in your answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--06-offshoring-landed-cost.webp" width="900" height="890" alt="Stacked bars show home cost 34.00 against overseas landed cost 27.18 (21.00 production, 4.50 shipping, 1.68 duty), saving 545,600 a year with payback near 8 months. With shipping at 7.20 the landed cost is 29.88, saving 329,600 and payback about 1.1 years." loading="lazy">
+  <figcaption>Landed cost includes shipping and duty, and the saving is sensitive to both.</figcaption>
+</figure>
+
+
 ### Insourcing
 
 Insourcing means bringing in-house an activity that was done by an outside firm. A business might do this to regain control of quality, protect designs, build its own skills or save money once volumes are high.
@@ -132,11 +155,28 @@ Worked example. Pennaby Foods pays a packing firm 2.60 per unit for 300,000 unit
 
 Other points: the business needs space, machinery and trained staff, so it must recruit and train. Staff at the former contractor may lose their jobs, which affects that firm as a stakeholder.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--07-insourcing-break-even.webp" width="900" height="890" alt="Outsourcing costs 2.60 a unit; in-house packing costs 270,000 plus 1.35 a unit. The lines cross at 216,000 units. At 300,000 units insourcing costs 675,000 against 780,000, saving 105,000." loading="lazy">
+  <figcaption>Insourcing is cheaper only above 216,000 units a year.</figcaption>
+</figure>
+
+
 ### Reshoring
 
 Reshoring means moving production that was offshored back to the home country. Reasons include rising overseas wages, long lead times, quality problems, shipping costs or disruption, a wish to use a "made at home" selling point, or pressure from customers and governments.
 
 Worked example. Rudhall Bikes makes 25,000 frames a year overseas at a landed cost of 118 per frame. Home production would cost 131. Reshoring adds 13 x 25,000 = 325,000 a year to production cost, plus a one-off 450,000 for the new line. On cost alone, reshoring looks poor. Rudhall's case must rest on other benefits: faster delivery, less stock held, fewer defects, a stronger brand and less exposure to shipping disruption. If those are worth more than 325,000 a year, reshoring is justified.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--04-reorganise-production.webp" width="900" height="850" alt="A grid with columns for outside firm or own business and rows for home or abroad. Outsourcing (national), insourcing, offshore outsourcing and offshoring fill the four cells. Reshoring moves work from abroad back home." loading="lazy">
+  <figcaption>Who does the work and where it is done separates the four terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--08-reshoring-cost.webp" width="900" height="1010" alt="Overseas landed cost is 118 a frame and home cost 131. On 25,000 frames that adds 325,000 a year plus 450,000 once. The case rests on benefits worth more than 325,000 a year." loading="lazy">
+  <figcaption>Reshoring looks poor on cost alone, so the case rests on other benefits.</figcaption>
+</figure>
+
 
 ## Evaluating a location change
 
@@ -147,6 +187,12 @@ For AO3 questions, build the judgement in four steps.
 4. Reach a conclusion that names what the decision depends on, such as volume, time horizon or the business's aims.
 
 Remember the Unit 5 conceptual understandings in the guide: operational changes can affect other business activities, and they may affect a business's ethical stance. Offshoring to cut labor costs can raise questions about working conditions. Reshoring can protect home jobs but raise prices. Sustainability also matters: long shipping routes add emissions, though a more efficient overseas plant may offset some of this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--09-location-change-steps.webp" width="900" height="870" alt="Four steps: state the change and purpose, give benefits and costs with figures, consider stakeholders, then conclude by naming what the decision depends on (volume, time horizon, aims)." loading="lazy">
+  <figcaption>Build an AO3 judgement in four steps.</figcaption>
+</figure>
+
 
 ## Common errors
 

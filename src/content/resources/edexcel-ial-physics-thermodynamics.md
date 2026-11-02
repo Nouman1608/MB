@@ -73,6 +73,12 @@ thermistor in a potential divider circuit for use as a thermostat, and
 **CORE PRACTICAL 13** determines the specific latent heat of a phase
 change experimentally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
+  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
+</figure>
+
+
 ## Internal energy and absolute zero
 
 **Internal energy** is the sum of the random distribution of potential
@@ -83,6 +89,17 @@ whole. **Absolute zero** is the temperature at which molecules have the
 minimum possible kinetic energy; the average kinetic energy of molecules
 in a substance is directly proportional to its absolute temperature (in
 kelvin).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--05-absolute-zero.webp" width="900" height="1080" alt="Pressure of a fixed volume of air against Celsius temperature: 100 kPa at 20 °C and 128 kPa at 100 °C, a gradient of 0.35 kPa per °C. Extending the line back to zero pressure gives -266 °C, close to the accepted -273 °C; the long extrapolation magnifies small errors." loading="lazy">
+  <figcaption>Extrapolating a pressure-temperature line back to p = 0 estimates absolute zero.</figcaption>
+</figure>
+
 
 ## The ideal gas equation
 
@@ -120,6 +137,12 @@ The equation can equally be written in terms of moles rather than molecules:
 pV = nRT           n in moles, R = 8.31 J mol⁻¹ K⁻¹
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
+  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
+</figure>
+
+
 ## The kinetic theory model
 
 Kinetic theory derives the macroscopic gas laws from the microscopic motion
@@ -145,6 +168,12 @@ volume becomes significant relative to the container and intermolecular
 attractions are no longer negligible — exactly the two assumptions that
 break down. Real gases behave most nearly ideally at **low pressure and
 high temperature**, where molecules are far apart.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
+  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

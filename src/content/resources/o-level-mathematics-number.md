@@ -46,6 +46,22 @@ LCM = 2² × 3³ × 5 × 11 = 5940
 
 Convert between words and numbers: 30 040 000 is thirty million and forty thousand, and 10 007 is ten thousand and seven.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--07-num-hcf-lcm-396-540.webp" width="900" height="890" alt="A Venn diagram of the prime factors of 396 and 540. The shared factors 2, 2, 3, 3 give HCF 36; every factor once gives LCM 5940." loading="lazy">
+  <figcaption>Shared prime factors make the HCF; all prime factors, each counted once at its highest power, make the LCM.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--01-types-of-number.webp" width="900" height="930" alt="Nested ovals show natural numbers inside integers inside rational numbers, with irrational numbers (pi, root 2, root 3) outside, a separate group that cannot be written as a fraction." loading="lazy">
+  <figcaption>Every natural number is an integer, and every integer is rational; irrational numbers are a separate group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## 1.2 Sets
 
 A set is a collection of elements written in braces. Notation: n(A) is the number of elements; ∈ and ∉ mean "is" and "is not an element of"; A′ is the complement; ∅ is the empty set; ξ is the universal set; ⊆ and ⊈ mean "is" and "is not a subset of"; ∪ is union and ∩ is intersection.
@@ -62,9 +78,26 @@ n(C ∪ D) = n(C) + n(D) − n(C ∩ D)
 
 Now take ξ = {1, 2, ..., 20}, A = multiples of 3 and B = even numbers. A ∩ B = {6, 12, 18}, n(B) = 10, n(A ∪ B) = 13 and n((A ∪ B)′) = 7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+
 ## 1.3 Powers and roots
 
 Know the squares and square roots from 1 to 15, and the cubes and cube roots of 1, 2, 3, 4, 5 and 10. So √169 = 13 and ∛125 = 5. Other powers and roots can be found with a calculator, for example 2⁷ = 128 and the fourth root of 81 is 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
 
 ## 1.4 Fractions, decimals and percentages, 1.5 Ordering, 1.6 Four operations
 
@@ -93,6 +126,17 @@ For the four operations follow brackets, indices, then division and multiplicati
 17/10 × 8/3 = 136/30 = 68/15 = 4 8/15
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--08-num-mixed-fractions-worked.webp" width="900" height="1010" alt="Four steps: change mixed numbers to improper fractions, subtract as tenths (34 - 17 = 17), multiply 17/10 x 8/3 = 136/30 = 68/15, and write the answer as 4 8/15." loading="lazy">
+  <figcaption>Work in improper fractions, then convert the answer back to a mixed number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## 1.7 Indices
 
 Zero power gives 1. A negative power means reciprocal. A fractional power means root: a^(1/n) is the nth root and a^(m/n) is the nth root raised to the power m. Add the powers when multiplying, subtract them when dividing, and multiply them for a power of a power. For example 2⁻³ × 2⁴ = 2 and (2³)² = 64.
@@ -104,6 +148,12 @@ Zero power gives 1. A negative power means reciprocal. A fractional power means 
 64^(2/3) = (∛64)² = 4² = 16
 125^(−1/3) = 1/∛125 = 1/5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--09-num-fractional-negative-indices.webp" width="900" height="890" alt="Three flows: (3/2)^-3 flips to (2/3)^3 = 8/27; 64^(2/3) takes the cube root first, 4^2 = 16; 125^(-1/3) flips and takes the cube root to give 1/5." loading="lazy">
+  <figcaption>A negative power flips the fraction; a fractional power takes the root first.</figcaption>
+</figure>
+
 
 
 ## 1.8 Standard form
@@ -135,6 +185,12 @@ For a sum or product, use the upper values together for the upper bound. For a d
 **Worked example.** A rectangle measures 12 cm by 7 cm, each to the nearest cm. Bounds are 11.5 to 12.5 and 6.5 to 7.5. Upper perimeter = 2(12.5 + 7.5) = 40 cm. Upper area = 12.5 × 7.5 = 93.75 cm². Lower area = 11.5 × 6.5 = 74.75 cm².
 
 **Worked example.** A distance of 120 km is given to the nearest 10 km and the time is 1.5 h to the nearest 0.1 h. Lower bound of speed = 115 ÷ 1.55 = 74.19..., so 74.2 km/h to 3 significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--10-num-bounds-of-speed-o-level.webp" width="900" height="870" alt="Bounds 115 to 125 km and 1.45 to 1.55 h. The lowest speed is 115 / 1.55, about 74.2 km/h; the highest, by the same rule, is 125 / 1.45, about 86.2 km/h." loading="lazy">
+  <figcaption>For a speed, the lower bound uses the smallest distance and the largest time.</figcaption>
+</figure>
+
 
 ## 1.11 Ratio and proportion
 
@@ -179,6 +235,17 @@ For currency, multiply or divide by the quoted rate. If 1 euro = 1.25 dollars, t
 A surd is an irrational root such as √5. Simplify using the largest square factor: √180 = √(36 × 5) = 6√5. Rationalising removes the surd from the denominator: multiply top and bottom by the conjugate (the same terms with the sign between them changed).
 
 **Worked example.** Simplify √98 + √50 − √8 = 7√2 + 5√2 − 2√2 = 10√2. Expand (5 + √2)(3 − √2) = 15 − 5√2 + 3√2 − 2 = 13 − 2√2. Rationalise 4/(3 − √5): multiply by (3 + √5)/(3 + √5) to get 4(3 + √5)/(9 − 5) = 3 + √5. Also 1/(√6 − 2) = (√6 + 2)/(6 − 4) = (√6 + 2)/2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--04-simplify-surds.webp" width="900" height="992" alt="A 6 by 6 grid of 36 squares of area 5 has area 180, so root 180 = 6 root 5. Root 98 + root 50 - root 8 is 7 + 5 - 2 = 10 blocks of root 2, so 10 root 2." loading="lazy">
+  <figcaption>Take out the largest square factor, then add like surds as you would like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--11-num-rationalise-denominator.webp" width="900" height="1030" alt="Four steps: find the conjugate 3 + root 5, multiply top and bottom by it, the new denominator is 9 - 5 = 4, and the fraction cancels to 3 + root 5. A second example 1/(root 6 - 2) becomes (root 6 + 2)/2." loading="lazy">
+  <figcaption>Multiply by the conjugate so the denominator becomes a whole number.</figcaption>
+</figure>
+
 
 ## Common errors
 

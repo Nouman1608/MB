@@ -58,6 +58,12 @@ Many rods connect to one bipolar neurone, so their effects add up. This gives se
 - The cation channels close, so sodium ions no longer enter the cell.
 - Sodium ions are still removed by active transport, so the inside becomes more negative than in the dark. The rod is hyperpolarised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--03-resting-potential.webp" width="900" height="1010" alt="A membrane separates the outside above from the inside of the axon below. A sodium-potassium pump moves 3 Na+ out for every 2 K+ in, using ATP. Open K+ channels let K+ diffuse out quickly while Na+ channels are mostly closed, and negatively charged proteins stay inside. The inside is therefore negative, about -70 mV." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative proteins make the inside of the axon about -70 mV.</figcaption>
+</figure>
+
+
 ## 8.9 Habituation
 
 Habituation is a reduction in the response to a stimulus that is repeated many times and is not followed by anything harmful or rewarding. A new stimulus still produces the full response, so it is not muscle fatigue.

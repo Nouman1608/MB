@@ -63,6 +63,12 @@ of a twenty-topic syllabus, resist the temptation to rush it -- a
 secure grasp of why accounting matters makes the more technical topics
 that follow easier to contextualise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 OxfordAQA International AS & A-Level Accounting (9615) qualification
@@ -77,6 +83,12 @@ page —
 
 The same underlying transactions therefore support two different presentations without contradiction, because the audiences need different things.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--01-two-branches.webp" width="900" height="960" alt="Two cards compare financial accounting (looks back, read by outside users such as owners, lenders and tax authorities, fixed format set by law; income statement and statement of financial position) with management accounting (looks forward, read by managers, any format at any time; budgets, costing, investment appraisal)." loading="lazy">
+  <figcaption>Financial accounting reports the past to outsiders; management accounting informs managers about the future.</figcaption>
+</figure>
+
+
 ## Users and conflicting needs
 
 | User | Primary concern |
@@ -90,6 +102,12 @@ The same underlying transactions therefore support two different presentations w
 
 Conflicts follow directly. Shareholders may press for dividends while lenders prefer profits retained; employees want higher wages while both want costs contained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+
 ## The framework of concepts
 
 - **Business entity** — owner and business are separate, so drawings reduce capital rather than appearing as an expense.
@@ -101,6 +119,12 @@ Conflicts follow directly. Shareholders may press for dividends while lenders pr
 - **Realisation** — revenue is recognised when the goods or service pass to the customer.
 
 Prudence and accruals sometimes point in opposite directions, and explaining which prevails is a standard higher-mark question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
 
 ## Ethics and the limits of accounts
 
@@ -124,6 +148,12 @@ Balance sheet:    machine at cost                $50 000
 Charging the full $50,000 as an expense would breach the accruals concept, because the machine benefits five years, not one.
 
 **Reducing balance is the alternative method**, charging a fixed percentage of the asset's remaining (not original) value each year. On the same machine at 20%: Year 1 = $50,000 × 20% = $10,000; Year 2 = ($50,000 − $10,000) × 20% = $8,000, and so on, with the charge falling each year. Straight-line suits an asset that loses value evenly, such as fixtures or buildings; reducing balance suits an asset that loses more value early on, such as a motor vehicle, since it better matches the pattern of an asset's actual fall in value to the expense recognised for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
+  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -68,6 +68,17 @@ Wavelength: λ = 0.36 m (crest to crest)
 
 Period: T = 1 ÷ 5.0 = 0.20 s
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--06-distance-vs-time-graphs.webp" width="900" height="1010" alt="Two sine graphs of a rope wave. Displacement against distance shows the wavelength, 0.36 m. Displacement against time shows the period, 0.20 s. Amplitude is the same on both." loading="lazy">
+  <figcaption>Check the horizontal axis: distance gives wavelength, time gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+
 ## P5.1c and P5.1d: the wave speed equation
 
 In one second, f waves pass a point and each is λ long. The wave therefore moves a distance of f × λ in each second. That distance per second is the wave speed (velocity):
@@ -119,6 +130,17 @@ The specification suggests using a slinky spring to model waves. Stretch it alon
 
 In both cases the coils themselves end up where they started. Tie a ribbon to one coil: it shifts sideways or forward and back, and then returns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--12-slinky-pulses.webp" width="900" height="940" alt="A slinky with a ribbon on one coil. A transverse pulse moves the coils sideways and the ribbon returns afterwards. A longitudinal pulse bunches coils into a compression and spreads them into a rarefaction; the ribbon again ends where it started." loading="lazy">
+  <figcaption>On a slinky the pulse travels along while each coil only moves a short way and returns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## P5.1j: ripples, sound and measuring their speeds
 
 ### Ripples model transverse waves
@@ -145,6 +167,12 @@ f = 9 ÷ 3.0 = 3.0 Hz
 
 v = f λ = 3.0 × 0.035 = **0.105 m/s**, or 0.11 m/s to 2 significant figures
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--09-ripple-tank-speed.webp" width="900" height="860" alt="Plane ripples from a dipper cross a ripple tank. Six wavelengths span 0.21 m so one is 0.035 m; nine ripples pass a mark in 3.0 s so f = 3.0 Hz; v = 0.105 m/s, about 0.11 m/s." loading="lazy">
+  <figcaption>Measure several wavelengths and count ripples over time, then use v = f x lambda.</figcaption>
+</figure>
+
+
 ### Measuring the speed of sound in air
 
 Sound is fast, so the times are short. Three approaches work.
@@ -165,6 +193,22 @@ t = 4.4 ms = 0.0044 s
 
 v = 1.50 ÷ 0.0044 = 340.9 m/s, so **340 m/s** to 2 significant figures
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
+  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--10-two-microphone-speed.webp" width="900" height="850" alt="Microphone 1 starts a timer and microphone 2, 1.50 m further, stops it. The timer reads 4.4 ms so v = 1.50 / 0.0044, about 340 m/s." loading="lazy">
+  <figcaption>Electronic timing between two microphones removes human reaction time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--11-oscilloscope-speed.webp" width="900" height="890" alt="A microphone linked to an oscilloscope is moved away from a loudspeaker driven at 1700 Hz. After 0.10 m the trace is upside down; after 0.20 m it is in step again, one whole wavelength, so v = 1700 x 0.20 = 340 m/s." loading="lazy">
+  <figcaption>Move the microphone until the trace repeats: that distance is one wavelength.</figcaption>
+</figure>
+
+
 ## P5.1k: the wave travels, the medium does not
 
 The specification asks for evidence that it is the wave that travels and not the water or the air.
@@ -174,6 +218,12 @@ The specification asks for evidence that it is the wave that travels and not the
 **Sound in air.** If the air itself travelled from a loudspeaker to you, you would feel a steady wind, and smoke or light dust would be blown towards you. Instead you hear the sound while the air at your ear is no windier, and smoke near a speaker just shakes back and forth about its position. The air particles vibrate to and fro and pass the vibration on. The slinky shows the same thing: a compression runs the length of the spring, but each coil only moves a short distance and returns.
 
 What does travel is the **disturbance**, which carries energy. This is why a wave is described as a way of transferring energy without transferring matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--07-wave-not-water.webp" width="900" height="920" alt="Two side views of ripples a quarter period apart. The crest moves right by a quarter wavelength but a floating cork stays at the same horizontal position and only moves up and down." loading="lazy">
+  <figcaption>The wave moves along but the water only vibrates.</figcaption>
+</figure>
+
 
 ## Common errors
 

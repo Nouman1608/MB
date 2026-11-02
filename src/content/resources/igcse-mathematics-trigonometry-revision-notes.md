@@ -67,6 +67,12 @@ tan(angle) = opposite / adjacent
 
 Relative to the **marked angle**, not a fixed position on the page -- the opposite and adjacent sides swap depending on which angle in the triangle is being used, so identify the marked angle first, then label the three sides relative to it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+
 ## Exact trigonometric values *(Extended)*
 
 | angle | 0 | 30 | 45 | 60 | 90 |
@@ -103,6 +109,22 @@ PR = 7.60 cm (3 s.f.)
 
 The cosine rule can also be rearranged to find an **angle** when all three sides are known: cos A = (b^2 + c^2 - a^2) / (2bc). A negative value inside cos-inverse is not an error -- it correctly signals an obtuse angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
+  <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
+
 ## Pythagoras and trigonometry in 3D *(Extended)*
 
 3D problems are solved by finding the correct 2D right-angled triangle inside the solid first -- typically a diagonal across a face or the base -- then applying Pythagoras or SOHCAHTOA within that flat triangle.
@@ -115,6 +137,12 @@ angle to base: tan(angle) = height / base diagonal = 10 / 10 = 1 -> angle = 45.0
 ```
 
 Keeping an intermediate length in exact (surd) form, rather than rounding it early, avoids losing accuracy before the final step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
+</figure>
+
 
 ## Exam traps
 
@@ -135,3 +163,14 @@ Keeping an intermediate length in exact (surd) form, rather than rounding it ear
 6. *(Extended)* Write down the rearranged cosine rule formula used to find an angle, given all three sides of a triangle.
 
 **Answers:** 1. The longest side, always opposite the right angle. 2. tan 45 = 1. 3. A known angle and the side directly opposite it (a matching angle-side pair). 4. Area = (1/2) ab sin C, where C is the angle between sides a and b. 5. The base diagonal (the 2D diagonal across the cuboid's base), found using Pythagoras' theorem on the two base edges. 6. cos A = (b^2 + c^2 - a^2) / (2bc).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+

@@ -53,6 +53,17 @@ Every lymphocyte carries receptors of one shape. When a lymphocyte meets an anti
 
 The first exposure is slow because very few lymphocytes fit the antigen, so they must be found and then cloned. Memory cells exist in much greater numbers than the original matching cells, and they respond to a lower dose. The second response therefore starts sooner, rises faster, peaks higher and lasts longer, often before symptoms appear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
+
 ### Worked example: reading antibody data
 
 Antibody concentration (arbitrary units, AU) after an antigen is given on day 0 and again on day 50:
@@ -70,6 +81,12 @@ Rate, second response = (104 - 3) / (56 - 51) = 101 / 5 = 20.2 AU per day
 
 Explain the difference: B memory cells formed after the first exposure are already selected, so no time is spent finding a matching B cell. They divide and form plasma cells at once, giving a faster rise, in this case 20.2 compared with 0.8 AU per day, and a higher peak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ## 6.11 Types of immunity
 
 Immunity is **active** if you make your own antibodies and memory cells, and **passive** if you are given antibodies made by someone else. It is **natural** if it happens in everyday life and **artificial** if it is given as a medical treatment.
@@ -82,6 +99,12 @@ Immunity is **active** if you make your own antibodies and memory cells, and **p
 - **Active immunity** is slow to start, because the primary response must happen, but long-lasting, because memory cells form.
 - **Passive immunity** works at once but is short-lived. The recipient's B cells were never stimulated, so there are no memory cells, and the antibodies are broken down within weeks.
 - A **vaccine** contains the antigen (for example a weakened pathogen, an inactivated pathogen, a treated toxin or a purified surface protein) but cannot cause the disease. It triggers a primary response, so memory cells are ready. A **booster** dose gives a secondary response and raises the level of memory cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## 6.12 The evolutionary race
 
@@ -121,6 +144,12 @@ X stops growth, so it is bacteriostatic. Y reduces the number of living cells, s
 ### Antibiotic resistance
 
 Mutation produces a resistant bacterium by chance. The antibiotic kills the sensitive bacteria, so the resistant ones reproduce with less competition. Resistance alleles pass to offspring and, by plasmids, to other bacteria. Methicillin-resistant Staphylococcus aureus (MRSA) is an example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## 6.14 Core Practical 14: the effect of different antibiotics on bacteria
 

@@ -51,6 +51,17 @@ Four combinations exist, so every cost carries one label from each question.
 | Fixed | Lease of a machine used for one product | Factory rent shared by all products |
 | Variable | Materials for one product | Cleaning supplies used across the whole site, rising with output |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--05-costs-two-labels.webp" width="900" height="860" alt="A grid with fixed and variable columns and direct and indirect rows, filled with Harbour Pine Joinery costs: machine lease 500 (fixed direct), rent 2,400, insurance 300, salary 3,200 and website 60 (fixed indirect, 5,960), tables 10,000 and chairs 4,800 (variable direct, 14,800) and glue 320 (variable indirect). Two bars show the 21,580 total split by behaviour and by traceability." loading="lazy">
+  <figcaption>Each cost is both fixed or variable and direct or indirect, but the total is the same either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+
 ## Formulas (standard form)
 
 The guide does not print formulas for 3.3, so these are the standard forms used in teaching.
@@ -107,6 +118,17 @@ Hollin Dene Bakery is an invented business with three streams in a month.
 
 Two streams give about 81 percent of the total here, so a fall in bread or coffee sales would matter far more than a fall in cake orders. If cake orders rose from 60 to 75 at the same price, that stream would earn 2,100 and total revenue would be 9,220. A new stream only helps profit if it earns more than the extra costs it brings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--07-revenue-streams.webp" width="900" height="850" alt="Five streams for Duskwater Kayak Hire in dollars: hire 12,600 (23.6%), tours 15,960 (29.9%), cafe 13,760 (25.7%), merchandise 5,735 (10.7%), memberships 5,400 (10.1%). Together 53,455." loading="lazy">
+  <figcaption>Total revenue is the sum of each stream calculated as price times quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--08-price-up-revenue.webp" width="900" height="700" alt="Revenue is drawn as a rectangle of price by hours. At 14 dollars and 900 hours revenue is 12,600. At 16 dollars and 780 hours it falls to 12,480. At 15 dollars and 880 hours it rises to 13,200." loading="lazy">
+  <figcaption>The same direction of price change can raise or lower revenue, depending on the fall in quantity.</figcaption>
+</figure>
+
+
 ## Quick classification drill
 
 Label each cost for a delivery bakery: dough ingredients for one product (variable, direct); van insurance (fixed, indirect); a baker paid per tray (variable, direct); a head-office accountant's salary (fixed, indirect); a lease on an oven used for only one product (fixed, direct). In an exam, give both labels and add a few words of reason taken from the stem, for example "paid per tray, so it rises with output".
@@ -153,6 +175,22 @@ Label each cost for a delivery bakery: dough ingredients for one product (variab
 8. Before: 1,500 × 6 = 9,000. After: 1,300 × 7 = 9,100. It rises by 100 dollars.
 9. For example, the lease on a machine used only for one product.
 10. 9,000 − 5,070 = 3,930 dollars.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--06-costs-fixed-per-unit.webp" width="900" height="850" alt="A 500 dollar monthly machine lease is spread over 40 tables (12.50 each) and over 50 tables (10.00 each). The total is unchanged; the share per table falls." loading="lazy">
+  <figcaption>Fixed cost per unit falls as output rises because the same total is shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--05-direct-indirect-test.webp" width="900" height="1132" alt="A yes/no question (could you point at the product and say how much of this cost it caused?) sorts Harbour Pine costs into direct (15,300) and indirect (6,280), each with a fixed or variable chip. Machine lease is fixed yet direct; glue and sandpaper are variable yet indirect." loading="lazy">
+  <figcaption>Directness is a traceability test, separate from whether a cost is fixed or variable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

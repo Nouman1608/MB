@@ -66,6 +66,12 @@ The saving ignores the lower skill and morale of temporary staff, so say so in a
 
 **Employer/employee relationships.** In an **individual approach** each employee agrees terms directly with the employer, which allows tailored deals and quick decisions. In **collective bargaining** representatives, often a trade union, negotiate pay and conditions for a whole group. The group has more power and the employer holds one set of talks, but disputes can disrupt production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--04-flexible-workforce-cost.webp" width="900" height="890" alt="A step chart shows 3 bakers needed for 40 weeks and 5 for 12 busy weeks. Cost bars: option A £122,304, option B £85,478.40 (£73,382.40 permanent plus £12,096 temporary), saving £36,825.60." loading="lazy">
+  <figcaption>Using temporary staff in the busy weeks saves £36,825.60 a year, before allowing for lower skill and morale.</figcaption>
+</figure>
+
+
 ## Recruitment, selection and training
 
 **Recruitment** attracts applicants; **selection** chooses between them using CVs, interviews and tests. **Internal recruitment** fills a post from existing staff: cheaper and quicker, but a narrow choice that leaves a gap elsewhere. **External recruitment** advertises outside: fresh ideas and a wider pool, but dearer, and the newcomer takes longer to settle.
@@ -82,6 +88,22 @@ The saving ignores the lower skill and morale of temporary staff, so say so in a
 | On-the-job | Learning by doing, beside an experienced colleague | Cheap, relevant | Passes on bad habits |
 | Off-the-job | Away from work, such as a course | Expert input, qualifications | Costly; employee absent |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--05-recruitment-cost.webp" width="900" height="980" alt="Bars itemise external recruitment costs (advert, agency fee, interviews, induction) totalling £5,212 and internal costs (advert, interviews, training and cover) totalling £2,640. Internal is £2,572 cheaper." loading="lazy">
+  <figcaption>Internal recruitment costs £2,572 less than external recruitment in this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## Organisational design
 
 - **Hierarchy:** the levels of authority from top to bottom.
@@ -95,6 +117,17 @@ A **tall** structure has many levels and narrow spans. A **flat** structure has 
 **Worked example: span and cost.** A plant has 144 operatives. With a span of 12 it needs 144 ÷ 12 = 12 supervisors; at £34,000 each that is £408,000. With a span of 6 it needs 24 supervisors, costing £816,000. Narrow spans give closer supervision but double the supervision bill: £408,000 more.
 
 **Impact on efficiency and motivation.** Flatter structures cut management cost and speed communication, and wider spans push people to take responsibility, which can motivate; they can overload managers and remove promotion steps. Tall structures give career ladders and close control but are slow, costly and can feel restrictive. Matrix structures use skills across the business, but two bosses can clash over priorities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-matrix-structure.webp" width="900" height="760" alt="A grid of three departments and two projects with six workers. One highlighted worker reports to both a department head and a project manager." loading="lazy">
+  <figcaption>In a matrix structure a worker can have two line managers, one for the department and one for the project.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--07-span-of-control-cost.webp" width="900" height="1020" alt="Two grids of 144 operatives: with a span of 12 there are 12 supervisors costing £408,000, with a span of 6 there are 24 supervisors costing £816,000." loading="lazy">
+  <figcaption>Halving the span of control doubles the supervision bill, here by £408,000.</figcaption>
+</figure>
+
 
 ## Motivation in theory and practice
 
@@ -132,6 +165,12 @@ A **tall** structure has many levels and narrow spans. A **flat** structure has 
 
 Enrichment adds responsibility; enlargement and rotation add breadth. Herzberg would place enrichment closest to his motivators.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-taylor-v-mayo.webp" width="900" height="930" alt="Two panels. Taylor: simple tasks, close supervision and pay by output, so pay drives work. Mayo: belonging, team working and manager interest drive work." loading="lazy">
+  <figcaption>Taylor relies on pay; Mayo relies on belonging and attention.</figcaption>
+</figure>
+
+
 ## Leadership
 
 **Management and leadership.** Managers plan, organise, coordinate and control resources to reach targets. Leaders set a direction and inspire commitment. One person often does both, but the skills differ.
@@ -149,6 +188,17 @@ No style is best everywhere; it depends on the task, people and time available.
 
 **Moving from entrepreneur to leader.** Founders often do everything themselves. As the business grows they must delegate, trust managers and build systems, which is hard for someone used to control or without management training. Staff may expect more consistency. A founder may need to hire managers or learn to let go.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--07-four-leadership-styles.webp" width="900" height="1040" alt="Four rows from autocratic to laissez-faire, with leader control falling. Paternalistic: leader decides but explains and cares about welfare, suits staff who value security." loading="lazy">
+  <figcaption>Four styles, including paternalistic, ordered by how much say staff have.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--08-founder-to-leader.webp" width="900" height="950" alt="Left: a founder personally handles sales, cash, staff and quality. Right: a leader delegates to two managers who each look after two areas. A box defines an intrapreneur, and barriers are listed." loading="lazy">
+  <figcaption>As a firm grows the founder must delegate and become a leader.</figcaption>
+</figure>
+
+
 ## Role of an entrepreneur
 
 An **entrepreneur** takes the risk of organising resources to meet a need.
@@ -159,6 +209,12 @@ An **entrepreneur** takes the risk of organising resources to meet a need.
 - **Barriers:** difficulty raising finance, lack of experience or contacts, regulation and red tape, strong competitors, and fear of failure.
 - **Anticipating risk and uncertainty:** **risk** can be estimated, because outcomes and probabilities are known or can be guessed from past data. **Uncertainty** cannot be measured because the outcomes or odds are unknown. Research, a cash buffer and flexible plans reduce both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--08-risk-uncertainty.webp" width="900" height="900" alt="Ten teal and copper circles (7 in 10) show a risk with an estimable chance; ten grey question-mark circles show uncertainty with unknown odds. Research, a cash buffer and flexible plans reduce both." loading="lazy">
+  <figcaption>Risk can be estimated; uncertainty cannot be measured.</figcaption>
+</figure>
+
+
 ## Entrepreneurial motives and characteristics
 
 **Characteristics and skills:** willingness to take risks, creativity and innovation, determination, self-confidence, hard work, organisation and communication skills, and the ability to spot opportunities.
@@ -166,6 +222,12 @@ An **entrepreneur** takes the risk of organising resources to meet a need.
 **Financial motives.** **Profit maximisation** aims for the highest possible profit. **Profit satisficing** aims for a satisfactory level that meets the owner's needs without pursuing more.
 
 **Non-financial motives:** an **ethical stance** (the owner wants to trade in line with their values), **social entrepreneurship** (the main purpose is to solve a social or environmental problem, with profit reinvested), **independence** (being one's own boss) and **home working** (flexibility around family or health).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--09-maximise-v-satisfice.webp" width="900" height="900" alt="An illustrative profit curve peaks at the profit-maximising output. A satisficer stops at a profit that is enough for the owner. Four non-financial motives are listed below." loading="lazy">
+  <figcaption>Profit maximisers aim for the peak, satisficers for enough.</figcaption>
+</figure>
+
 
 ## Business objectives
 
@@ -183,6 +245,12 @@ Objectives change with the firm's age, size, owners and market, and can conflict
 ## Business choices
 
 **Opportunity cost** is what is forgone by not taking the next best alternative. Caldwyn Bakery has £50,000. A new oven would add £9,000 a year of profit; advertising would add £7,500. Choosing the oven has an opportunity cost of £7,500 a year, so the net gain is £1,500 a year. A **trade-off** arises when gaining more of one aim means giving up some of another, such as higher quality against lower price, or growth against short-term profit. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--10-caldwyn-opportunity-cost.webp" width="900" height="900" alt="The oven adds 9,000 a year and advertising adds 7,500. Choosing the oven gives up 7,500, the opportunity cost, leaving a net gain of 1,500." loading="lazy">
+  <figcaption>Opportunity cost is the next best option forgone, here 7,500.</figcaption>
+</figure>
+
 
 ## Common errors
 

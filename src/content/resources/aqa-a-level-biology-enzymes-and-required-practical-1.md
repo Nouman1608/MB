@@ -50,6 +50,12 @@ It does this by holding substrate molecules in a position that favours the chang
 
 Enzymes are **catalysts**, so they are not used up. The same molecule can act on many substrate molecules in turn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+
 ## The active site and the enzyme-substrate complex
 
 An enzyme is a globular protein. A small region on its surface, the **active site**, is where the substrate binds. The shape and charge pattern of the active site come from the enzyme's **tertiary structure**, which is held by hydrogen bonds, ionic bonds, disulfide bridges and hydrophobic interactions between R groups. The substrate fits the active site because it is **complementary** to it. The substrate and enzyme form an **enzyme-substrate complex**. The reaction takes place, an **enzyme-product complex** forms briefly, and the product leaves.
@@ -62,9 +68,21 @@ In 1894 Emil Fischer proposed the **lock-and-key** model. The active site is a r
 
 A model explains evidence, and scientists change it when it cannot account for new observations. Lock and key pictures a rigid active site, which cannot account for strain on the substrate. Use induced fit in answers unless a question asks you to compare the two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
+
 ### Enzymes inside and outside cells
 
 Enzymes catalyse a wide range of reactions. **Intracellular** enzymes act inside the cell that made them. Catalase breaks down hydrogen peroxide, a harmful by-product of metabolism, and DNA polymerase copies DNA. **Extracellular** enzymes are secreted and act outside the cell. Amylase from the salivary glands and the pancreas, and trypsin from the pancreas, digest food in the gut. Together they link cell chemistry to whole-organism function: respiration enzymes supply energy to cells, and digestive enzymes release small molecules that the body can absorb.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
+</figure>
+
 
 ## Factors that affect the rate
 
@@ -107,6 +125,17 @@ An enzyme was tested with and without inhibitor X. Rates are in arbitrary units.
 
 Percentage reduction at concentration 2: (4.0 - 1.8) ÷ 4.0 × 100 = **55%** (to 2 significant figures). At concentration 32: (9.1 - 7.8) ÷ 9.1 × 100 = **14%**. The effect shrinks as substrate increases and the two curves are heading for the same maximum, so X is a **competitive** inhibitor. A non-competitive inhibitor would give the same percentage reduction at every concentration and a lower plateau.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--01-inhibitor-data.webp" width="900" height="1130" alt="Graph of rate against substrate concentration with and without inhibitor X using the lesson table. The gap is 55% at concentration 2 and 14% at 32, so the curves head for the same maximum. Bars give the percentage reduction at every concentration." loading="lazy">
+  <figcaption>The gap shrinks as substrate rises, so X is competitive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--01-enzyme-concentration-graphs.webp" width="900" height="1100" alt="Two graphs: rate against substrate concentration using the lesson no-inhibitor data, rising then flattening; and an illustrative rate against enzyme concentration, proportional then levelling off." loading="lazy">
+  <figcaption>Rate rises with substrate until enzyme concentration is limiting, and with enzyme until substrate runs short.</figcaption>
+</figure>
+
+
 ## pH calculations (MS 0.5)
 
 **pH = -log₁₀ [H⁺]**, where [H⁺] is the hydrogen ion concentration in mol dm⁻³. Each fall of one pH unit is a tenfold rise in [H⁺].
@@ -118,6 +147,12 @@ Worked example 3: a buffer has pH 8.2.
 [H⁺] = 10⁻⁸·² = **6.3 × 10⁻⁹ mol dm⁻³**.
 
 Worked example 4: a medium changes from pH 7 to pH 5. [H⁺] rises from 1 × 10⁻⁷ to 1 × 10⁻⁵ mol dm⁻³, which is **100 times** greater.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--05-ph-calculations.webp" width="900" height="810" alt="pH scale marking pH 2.60 for 2.5e-3, pH 8.2 for 6.3e-9 and a fall from pH 7 to pH 5 making [H+] 100 times greater." loading="lazy">
+  <figcaption>pH is minus log10 of [H+]; one pH unit is a tenfold change.</figcaption>
+</figure>
+
 
 ## Required Practical 1
 
@@ -148,19 +183,53 @@ The curve flattens because substrate is used up, so the gradient falls with time
 
 The mean rate over the first 60 s is 15.2 ÷ 60 = 0.25 cm³ s⁻¹. It is lower because the rate falls during the 60 s. The initial rate is the better value to compare between runs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--02-initial-rate-tangent.webp" width="900" height="990" alt="Oxygen volume against time with a tangent at t = 0 through (30, 12.0) giving 0.40 cm3 per s, and a dashed chord to 60 s giving the lower mean rate 0.25 cm3 per s." loading="lazy">
+  <figcaption>The tangent at time 0 gives the initial rate, higher than the 60 s mean.</figcaption>
+</figure>
+
+
 ### Worked example 6: timing and uncertainty
 
 Time to clear the milk suspension: 240 s at 20 °C, 130 s at 30 °C, 70 s at 40 °C and 55 s at 50 °C. Rates are 1 ÷ time: 0.0042, 0.0077, 0.0143 and 0.0182 s⁻¹. The rate at 40 °C is 240 ÷ 70 = **3.4 times** the rate at 20 °C. The enzyme did not clear the suspension at 60 °C within 10 minutes, which suggests denaturation.
 
 (PS 3.3) A reading from a syringe has an uncertainty of ±0.5 cm³. A volume of 12.0 cm³ measured as a difference between two readings has an uncertainty of ±1.0 cm³, which is 1.0 ÷ 12.0 × 100 = **8.3%**. Larger volumes give smaller percentage uncertainties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--04-rp1-method-b-timing.webp" width="900" height="900" alt="Five tubes with clearing times 240, 130, 70 and 55 s at 20 to 50 C and no clearing in 10 min at 60 C, with a graph of rate = 1/time and the 3.4 times ratio." loading="lazy">
+  <figcaption>Rate is 1 divided by time; 40 C is 3.4 times the rate at 20 C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--06-syringe-uncertainty.webp" width="900" height="870" alt="Two readings each plus or minus 0.5 give plus or minus 1.0 on a 12.0 cm3 difference, 8.3%; an illustrative 24.0 cm3 gives 4.2%." loading="lazy">
+  <figcaption>Larger volumes give smaller percentage uncertainties.</figcaption>
+</figure>
+
+
 ### Graphs (MS 3.2)
 
 Plot the rate (dependent variable) on the y-axis and the variable you changed on the x-axis. For a continuous variable such as temperature or pH, use a line graph or scatter graph with a smooth curve. Use a bar chart if the x-axis shows separate categories.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--02-line-or-bar-graph.webp" width="900" height="1130" alt="A line graph for the lesson timing data (rates 1/time at 20 to 50 C) and a bar chart for categories." loading="lazy">
+  <figcaption>Continuous x: line graph with smooth curve; separate categories: bar chart.</figcaption>
+</figure>
+
+
 ### Making enzyme dilutions
 
 To make 10 cm³ of enzyme at 1.0% from a 4.0% stock: stock volume = (1.0 ÷ 4.0) × 10 = **2.5 cm³**, plus 7.5 cm³ of water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--03-rp1-method-a-oxygen.webp" width="900" height="720" alt="Flask of hydrogen peroxide and yeast in a water bath, bung and delivery tube to a gas syringe; three steps: warm both solutions, mix and time, read volume every 10 s." loading="lazy">
+  <figcaption>Method A collects oxygen from catalase in a gas syringe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--07-enzyme-dilution.webp" width="900" height="840" alt="2.5 cm3 of 4.0% stock plus 7.5 cm3 water makes 10 cm3 at 1.0%." loading="lazy">
+  <figcaption>Stock volume = (1.0 / 4.0) x 10 = 2.5 cm3.</figcaption>
+</figure>
+
 
 ## Common errors
 

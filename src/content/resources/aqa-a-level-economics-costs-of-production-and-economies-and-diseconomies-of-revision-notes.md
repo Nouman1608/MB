@@ -51,6 +51,12 @@ MC  = ΔTC / ΔQ   (also ΔVC / ΔQ)
 Unit labour cost = wage per worker / output per worker
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Method: completing a cost table
 
 1. Find FC. It is the total cost at zero output, or TC minus VC.
@@ -85,6 +91,17 @@ The fifth unit costs 45, below the previous average of 50, so average cost drops
 
 MC meets AVC and AC at their minimum points. **Shifts:** higher fixed costs lift AC and TC only. Lower factor prices or higher productivity lower MC, AVC and AC. A change in output is a movement along the curves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--01-stool-cost-curves.webp" width="900" height="930" alt="Cost per stool against output (2 to 8) for the lesson stool workshop with fixed cost 60. AFC falls throughout, AVC is lowest at 4 stools (23.00) and AC lowest at 6 stools (35.33). MC is 34 at output 6, below AC 35.33, so AC falls; MC is 44 at output 7, above AC 36.57, so AC rises." loading="lazy">
+  <figcaption>MC cuts AVC and AC at their lowest points, shown with the lesson stool table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--06-fixed-cost-shift.webp" width="900" height="860" alt="Stool workshop cost curves for output 2 to 8. Raising fixed cost from 60 to 100 moves AC from AC1 up to AC2; at output 6 AC rises from 35.33 to 42.00, while MC (34) and AVC (25.33) do not move." loading="lazy">
+  <figcaption>A change in fixed costs shifts AC but leaves MC and AVC where they were.</figcaption>
+</figure>
+
+
 ## Factor prices, productivity and input choice
 
 - A rise in the price of a factor raises costs. If firms can substitute, they use less of it and more of the cheaper factor.
@@ -104,6 +121,17 @@ Output is 300 units. Method A uses 6 workers and 2 machines; method B uses 2 wor
 A fall in the wage from 100 to 60 makes the labour-intensive method cheaper.
 
 Productivity example: a wage of 120 a day with 40 units per worker gives unit labour cost 3.00. If output per worker reaches 50, it falls to 2.40, a fall of 20%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--02-tile-factor-prices.webp" width="900" height="910" alt="Daily cost of making 500 tiles against the daily wage for method X (8 workers, 1 machine) and method Y (3 workers, 3 machines at 150 each). At wage 50 X costs 550 and Y 600, so X is cheaper (1.10 against 1.20 per tile). The lines cross at wage 60 where both cost 630. At wage 80 X costs 790 and Y 690, so Y is cheaper (1.58 against 1.38)." loading="lazy">
+  <figcaption>A wage rise switches the cost-minimising method from labour-intensive to capital-intensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--07-unit-labour-cost-96.webp" width="900" height="860" alt="Unit labour cost = wage divided by output per worker: 96/48 = 2.00; 96/60 = 1.60; 108/60 = 1.80, which is still below the starting 2.00." loading="lazy">
+  <figcaption>A pay rise can still lower unit labour cost if output per worker rises by more.</figcaption>
+</figure>
+
 
 ## Economies and diseconomies of scale
 
@@ -126,6 +154,22 @@ Productivity example: a wage of 120 a day with 40 units per worker gives unit la
 | External economy | Whole curve shifts down |
 | External diseconomy | Whole curve shifts up |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--03-returns-vs-economies.webp" width="900" height="870" alt="Bars of average cost after doubling every input of a firm that starts at 300 units and 2.67 per unit. Output 690 (2.3 times, increasing returns) gives AC 2.32, down 13.0%, an economy of scale. Output 600 (constant returns) leaves AC at 2.67. Output 560 (1.87 times, decreasing returns) gives AC 2.86, up 7.1%, a diseconomy of scale." loading="lazy">
+  <figcaption>Returns to scale describe output; economies of scale describe cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Returns to scale and costs
 
 Double all inputs, with input prices unchanged:
@@ -147,6 +191,22 @@ Careful: lower input prices from bulk buying are an economy of scale without any
 - If MES is a small share of the market: many firms, low barriers. If MES is a large share: few firms, high barriers, possibly natural monopoly.
 
 Example: MES is 30,000 units and market demand is 120,000. 120 / 30 = 4 firms can operate at MES. If MES were 90,000, it would be 75% of the market and only one firm fits efficiently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--04-lrac-mes-entrant.webp" width="900" height="790" alt="LRAC against output in thousands from the lesson table: 9.0, 7.2, 6.0, 5.2, then 4.8 flat from 50 to 80. LRAC first reaches 4.8 at 50,000 units, the minimum efficient scale, so the curve is L-shaped. An entrant producing only 20,000 has LRAC 7.2, 50% above 4.8." loading="lazy">
+  <figcaption>LRAC reaches its minimum at the MES and a small entrant pays 50% more per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--05-mes-market-size.webp" width="900" height="990" alt="Three bars of market demand split into 50,000-unit blocks, one per firm at MES. 400,000 holds 8 blocks (MES 12.5% of the market, competition feasible). 100,000 holds 2 (MES 50%). 60,000 holds one block plus 10,000 left over (MES 83%), pointing to a natural monopoly." loading="lazy">
+  <figcaption>The bigger MES is relative to the market, the fewer firms fit and the higher the barriers to entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of--05-srac-envelope.webp" width="900" height="860" alt="Five dashed U-shaped short-run cost curves for five plant sizes with minima at (10, 9.0), (20, 7.2), (30, 6.0), (40, 5.2) and (50, 4.8). The thick LRAC follows their lower boundary." loading="lazy">
+  <figcaption>In the long run the firm picks the cheapest plant for each output, so LRAC is the lower boundary of the short-run curves.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to rehearse
 
@@ -201,6 +261,12 @@ Example: MES is 30,000 units and market demand is 120,000. 120 / 30 = 4 firms ca
 - Forgetting that fixed costs vanish in the long run.
 - Stating that MES means the biggest output; it is the lowest output reaching minimum LRAC.
 - Describing the L-shaped LRAC without saying what it implies for small firms and entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

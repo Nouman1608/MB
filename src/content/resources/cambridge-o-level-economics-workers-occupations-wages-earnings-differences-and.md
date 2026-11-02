@@ -51,6 +51,12 @@ A worker who values free time may still choose Job B. Another worker may accept 
 
 Evaluation: the weight given to each factor depends on age, family situation and how easily a person can find other work. A person with few qualifications may have to take the wage on offer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--06-eco52-pay-per-hour.webp" width="900" height="860" alt="Three bar comparisons: Job A pays 2,640 and Job B 2,420 a month; time committed is 220 and 187 hours including commuting; pay per hour committed is 12.00 and 12.94." loading="lazy">
+  <figcaption>Higher headline pay can mean lower pay per hour once travel time is counted.</figcaption>
+</figure>
+
+
 ## Part 2: Wage determination (3.3.2)
 
 ### Demand and supply
@@ -74,6 +80,12 @@ Equilibrium: wage 10, with 600 tailors employed. At a wage of 8, demand (720) ex
 
 *Worked example.* Suppose demand for tailors rises by 120 at every wage. New demand: 960, 840, 720, 600, 480. The demand curve now has equation Qd = 1,320 − 60W and supply has Qs = −300 + 90W. Setting them equal: 1,620 = 150W, so W = 10.8 and Q = 672. The wage rises 8% and employment 12%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+
 ### Bargaining power
 
 Wages in practice are often bargained. A group has **stronger relative bargaining power** when its skills are scarce, when many workers belong to a trade union, when the employer cannot easily replace them or when unemployment is low. A group is weaker when many people can do the job, when workers are unorganised or when a large employer has few rivals to hire from.
@@ -93,6 +105,22 @@ Evaluation: the effect depends on how far the minimum lies above equilibrium and
 
 Other policies: equal pay laws, subsidised training (which raises supply of skilled labour), taxes on earnings and the government's own pay decisions for public employees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--07-eco52-tailors-min-wage.webp" width="900" height="1010" alt="Labour market diagram for tailors: equilibrium wage 10 with 600 tailors. A minimum wage of 12 gives demand 480 and supply 780, so 300 lack jobs and 120 jobs are lost (20%)." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for those employed but reduces employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Part 3: Why earnings differ (3.3.3)
 
 Four forces explain every pair below: demand and supply, bargaining strength, discrimination and government policy.
@@ -109,6 +137,12 @@ Skilled work needs long training, so supply is small and costly to increase, whi
 
 Skilled workers earn 66.7% more, which compensates for the cost, delay and effort of training. Without the gap, too few people would train.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--09-eco52-training-payback.webp" width="900" height="910" alt="A bar shows training costs 33,000 (27,000 earnings given up plus 6,000 fees). A line of net gain rises 6,000 a year from -33,000 and reaches zero at 5.5 years." loading="lazy">
+  <figcaption>Higher skilled pay compensates for the cost and delay of training.</figcaption>
+</figure>
+
+
 ### Primary, secondary and tertiary workers
 
 The **primary sector** extracts natural resources (farming, fishing, mining). The **secondary sector** manufactures and builds. The **tertiary sector** provides services.
@@ -122,6 +156,12 @@ The **primary sector** extracts natural resources (farming, fishing, mining). Th
 Tertiary workers earn (12.6 − 6.0) ÷ 6.0 = 110% more than primary workers, but primary workers earn (12.6 − 6.0) ÷ 12.6 = 52.4% less than tertiary workers. The base of the percentage decides the answer.
 
 Likely reasons: primary work often needs fewer qualifications, so supply is large; output prices of raw materials may be low; and workers may be unorganised or seasonal. Tertiary pay is lifted by high skills and high value added. Differences are not universal: dangerous or specialist work in any sector can pay well, and the pattern differs across countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
 
 ### Male and female workers
 
@@ -143,11 +183,28 @@ Crowding diagram (wage on the vertical axis, quantity of labour on the horizonta
 
 *Worked example.* Men average 14.0 an hour and women 11.9. The gap is (14.0 − 11.9) ÷ 14.0 × 100 = 15.0% of male pay, so women earn 85% of men's. A gap does not prove discrimination: part may reflect hours and occupation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--08-eco52-crowding.webp" width="900" height="1030" alt="Supply shifts right from S0 to S1 along a downward demand curve; the wage falls from W0 to W1 and employment rises from Q0 to Q1. Bars show men at 14.0 and women at 11.9 an hour, a 15.0% gap." loading="lazy">
+  <figcaption>Crowding into fewer occupations raises supply and lowers pay there.</figcaption>
+</figure>
+
+
 ### Private and public sector workers
 
 Public sector pay is set by the government through pay scales, so it is less responsive to local supply and demand. Private firms pay what profit and competition allow. The public sector often offers non-wage advantages such as job security and pensions, and often has higher union membership.
 
 *Worked example.* Public: 2,100 plus a pension contribution of 12% = 2,352. Private: 2,300 plus 4% = 2,392. The private package is better by 40, or 1.7%, even though the public pension is larger. Compare packages, not basic pay alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--04-un172-public-private.webp" width="900" height="800" alt="Two bars show monthly packages. Public sector: basic 2,100 plus a 12 percent pension of 252 makes 2,352. Private sector: basic 2,300 plus a 4 percent pension of 92 makes 2,392. The private package is better by 40, about 1.7 percent." loading="lazy">
+  <figcaption>Compare whole packages, not basic pay alone: the private package wins by 40 despite the smaller pension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--05-un172-sector-earnings.webp" width="900" height="820" alt="Bars show average annual earnings in thousands: primary 6.0, secondary 9.0 and tertiary 12.6. The 6.6 gap between tertiary and primary is 110 percent of the primary figure 6.0 but 52.4 percent of the tertiary figure 12.6, so the base decides the percentage." loading="lazy">
+  <figcaption>The same 6.6 gap is 110% more or 52.4% less depending on the base.</figcaption>
+</figure>
+
 
 ## Part 4: Division of labour and specialisation (3.3.4)
 
@@ -166,6 +223,17 @@ Public sector pay is set by the government through pay scales, so it is less res
 | Economy | Greater output, lower prices, more exports | Structural unemployment if a specialism declines, dependence on narrow industries, workers may find it hard to move occupations |
 
 Evaluation: the gains are largest in repetitive tasks and large markets. They are smaller when the market is small or when quality and variety matter more than speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--06-un172-shirt-division.webp" width="900" height="880" alt="Three rows of six workers. Each working alone makes 10 shirts: 60 in total at 4.00 labour cost each. Split into cutting, stitching and finishing they make 20 each: 120 shirts at 2.00 each. If one stitcher is absent, output falls to 60, a 50 percent fall caused by losing 16.7 percent of staff." loading="lazy">
+  <figcaption>Division of labour doubles output per worker but makes the line depend on every stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## Common errors
 

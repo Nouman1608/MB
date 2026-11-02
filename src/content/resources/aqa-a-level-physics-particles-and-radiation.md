@@ -69,6 +69,22 @@ mass   = 27 × 1.67 × 10⁻²⁷ = 4.509 × 10⁻²⁶ kg
 specific charge = 4.80 × 10⁻¹⁹ / 4.509 × 10⁻²⁶ = 1.06 × 10⁷ C kg⁻¹
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--01-aphy-quantum-alpha-scattering.webp" width="900" height="1160" alt="Twelve alpha-particle tracks computed from inverse-square repulsion by one small positive nucleus. Distant tracks barely bend, closer ones turn through large angles and the closest is turned back. This shows the atom is mostly empty space with a small, massive, positively charged nucleus." loading="lazy">
+  <figcaption>Alpha tracks bend or rebound because of a tiny, massive, positive nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--03-aphy-quantum-strong-force.webp" width="900" height="1090" alt="Schematic graph of force against nucleon separation. Below about 0.5 fm the force is repulsive; from 0.5 to about 3 fm it is attractive; beyond about 3 fm it is negligible. Three pictures of two nucleons show pushing apart, pulling together and no effect." loading="lazy">
+  <figcaption>The strong force is repulsive below 0.5 fm, attractive up to about 3 fm and negligible beyond (AQA and OCR).</figcaption>
+</figure>
+
+
 ## 3.2.1.2 Stable and unstable nuclei
 
 The **strong nuclear force** holds nucleons together against the electrostatic repulsion between protons. It is attractive up to about **3 fm**, and is repulsive closer than about **0.5 fm**, which stops the nucleus collapsing. Beyond about 3 fm it has no significant effect.
@@ -99,6 +115,12 @@ f = E/h = 8.18 × 10⁻¹⁴ / 6.63 × 10⁻³⁴ = 1.23 × 10²⁰ Hz
 λ = c/f = 2.43 × 10⁻¹² m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
+
 ## 3.2.1.4 Particle interactions
 
 There are four fundamental interactions: gravity, electromagnetic, weak nuclear and strong nuclear (the strong interaction). Forces between particles are carried by **exchange particles**.
@@ -116,6 +138,17 @@ Diagrams show incoming particles at the bottom, outgoing at the top, and the exc
 | Electron-proton collision | e⁻ + p → n + νₑ | W⁻ from e⁻ to p |
 
 Knowledge of the gluon, Z⁰ and graviton is not tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--04-aphy-quantum-quarks.webp" width="900" height="1130" alt="Four cards give the quark make-up of the proton (uud), neutron (udd), positive pion (u d-bar) and positive kaon (u s-bar), with the charges adding to +1, 0, +1 and +1. Baryons have three quarks, mesons a quark and an antiquark; leptons such as the electron and neutrino are not made of quarks." loading="lazy">
+  <figcaption>The charges of the quarks add up to the charge of each hadron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
 
 ## 3.2.1.5 Classification of particles
 
@@ -179,6 +212,12 @@ Vs = 0.67 V
 f₀ = ϕ/h = (4.30 × 1.60 × 10⁻¹⁹) / 6.63 × 10⁻³⁴ = 1.04 × 10¹⁵ Hz
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--07-aphy-quantum-photoelectric.webp" width="900" height="1090" alt="Graph of maximum kinetic energy against frequency for two metals with work functions 2.3 eV and 3.2 eV: straight lines of equal gradient h, with threshold frequencies 5.55 and 7.72 times 10^14 Hz and vertical intercepts minus the work function. Two small graphs show that at fixed frequency, intensity changes photocurrent but not maximum kinetic energy." loading="lazy">
+  <figcaption>Frequency sets photoelectron energy and intensity sets how many are emitted.</figcaption>
+</figure>
+
+
 ## 3.2.2.2 Collisions of electrons with atoms
 
 One **electronvolt** is the energy transferred when an electron moves through a potential difference of 1 V: 1 eV = 1.60 × 10⁻¹⁹ J. Divide joules by 1.60 × 10⁻¹⁹ to get eV.
@@ -198,6 +237,12 @@ One **electronvolt** is the energy transferred when an electron moves through a 
 λ = hc/ΔE = 1.989 × 10⁻²⁵ / 3.024 × 10⁻¹⁹ = 6.58 × 10⁻⁷ m (658 nm, red)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+
+
 ## 3.2.2.4 Wave-particle duality
 
 The photoelectric effect shows electromagnetic waves have a particle nature. **Electron diffraction** shows particles have wave properties. The **de Broglie wavelength** is λ = h/mv, where mv is the momentum. Diffraction is greatest when λ is similar to the gap or atomic spacing. Increasing momentum (for example a higher accelerating voltage) shortens λ, so there is less diffraction and the rings get smaller. Our model of matter has changed as such evidence appeared.
@@ -209,6 +254,12 @@ Ek = 150 eV = 2.40 × 10⁻¹⁷ J
 v = √(2Ek/m) = √(2 × 2.40 × 10⁻¹⁷ / 9.11 × 10⁻³¹) = 7.26 × 10⁶ m s⁻¹
 λ = h/mv = 6.63 × 10⁻³⁴ / (9.11 × 10⁻³¹ × 7.26 × 10⁶) = 1.00 × 10⁻¹⁰ m
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--09-aphy-quantum-de-broglie.webp" width="900" height="1190" alt="Electrons accelerated through a potential difference pass through graphite and form rings on a screen. Doubling V from 2.5 kV to 5 kV shortens lambda from 24.6 pm to 17.4 pm and shrinks the rings by 0.71. A log scale shows a 0.057 kg ball at 40 m/s with lambda about 3e-34 m, far smaller than an electron at 3.5 kV (2e-11 m)." loading="lazy">
+  <figcaption>Faster electrons have a shorter wavelength, and only atom-sized wavelengths diffract noticeably.</figcaption>
+</figure>
+
 
 ## Common errors
 

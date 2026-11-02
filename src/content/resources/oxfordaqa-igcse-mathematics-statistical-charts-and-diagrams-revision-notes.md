@@ -43,6 +43,17 @@ Put it into practice with the [practice set](/resources/oxfordaqa-igcse-mathemat
 | Cumulative frequency | median, quartiles, counts | plot at upper boundaries | Extension only |
 | Box plot | five-number summary | box from lower to upper quartile | Extension only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--01-club-dual-composite.webp" width="900" height="1175" alt="Club members: Year 9 has 12 boys and 8 girls, Year 10 has 10 and 14, Year 11 has 6 and 9. The dual chart shows two bars per year; the composite chart stacks girls on boys, giving totals 20, 24 and 15." loading="lazy">
+  <figcaption>The same club data drawn as a dual bar chart and as a composite bar chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
+  <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula |
@@ -80,6 +91,17 @@ Put it into practice with the [practice set](/resources/oxfordaqa-igcse-mathemat
 2. Draw one scale and mark all five.
 3. Box the two quartiles and cut the box at the median.
 4. Extend whiskers out to the smallest and largest values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -127,6 +149,12 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 - For a pie chart, remember that equal angles mean equal frequencies. A pie chart gives shares, so you cannot tell the totals of two pie charts apart unless the question says so.
 - When a value is read between two plotted points, call it an estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--07-line-graph-reading.webp" width="900" height="900" alt="Temperatures 12, 15, 19, 25, 27, 22 and 16 degrees Celsius from 06:00 to 18:00 are joined by straight lines. The largest rise is 6 degrees (10:00 to 12:00), the largest fall is 6 degrees (16:00 to 18:00), and the 13:00 value of 26 is only an estimate." loading="lazy">
+  <figcaption>Reading rises, falls and an estimated value from a line graph.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Bar chart or histogram.** A bar chart has gaps and handles categories or discrete values. A histogram has no gaps and a continuous scale.
@@ -134,6 +162,12 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 - **Dual or composite bar chart.** Dual bars sit beside each other. Composite bars stack to show a total.
 - **Frequency or frequency density (Extension only).** Frequency is the count. Frequency density is the bar height, and area stands for frequency.
 - **Histogram or cumulative frequency (Extension only).** A histogram shows how many are in each class. A cumulative frequency diagram shows how many are up to each boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--06-histogram-and-polygon.webp" width="900" height="910" alt="Five touching bars of width 10 minutes with heights 5, 12, 18, 10 and 5 show the journey times of 50 employees. The frequency polygon joins points at the class midpoints 5, 15, 25, 35 and 45." loading="lazy">
+  <figcaption>A frequency polygon is plotted at class midpoints; histogram bars touch.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -165,6 +199,12 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 11. Halfway between 14 and 20, so 17.
 12. 6.1 kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp" width="900" height="801" alt="A whole circle is 8 books and a quarter circle is 2. Monday to Wednesday and Friday read 28, 18, 32 and 14. Thursday is 130 minus 92 = 38 books, which is 4 and three quarters circles." loading="lazy">
+  <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving out the key on a pictogram, a dual bar chart or a stem-and-leaf diagram.
@@ -176,6 +216,17 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 - Writing the answer without showing the reading lines or the working. Drawn lines help if the reading is off.
 - Comparing box plots by describing the shape only. Quote a median and a spread, with the figures.
 - Putting axis scales on a graph that do not use most of the grid, or have uneven steps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--03-box-plots-two-queues.webp" width="900" height="895" alt="Queue 1 has a box from 22 to 40 with median 30 and whiskers to 3 and 58. Queue 2 has quartiles 15 and 30 and median 22, so a lower median and smaller IQR." loading="lazy">
+  <figcaption>Compare two box plots with a median and a spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
+  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

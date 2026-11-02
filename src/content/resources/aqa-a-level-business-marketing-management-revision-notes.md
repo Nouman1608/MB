@@ -99,6 +99,37 @@ Elasticity helps pricing, forecasting and choosing which market to serve in a bo
 
 **Reminder.** A loaf of bread: PED −0.6 and a 5% price cut. Quantity rises 0.6 × 5 = 3%. Revenue is 0.95 × 1.03 = 0.9785 of the old figure, a fall of about 2.2%. With inelastic demand a cut loses revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--01-ostrelby-growth-share.webp" width="900" height="960" alt="Two bars show the tea market at 480m and 528m pounds with Ostrelby Teas in gold: 38.4m then 46.2m. Market growth is 10 percent, sales growth 20.3 percent and share rises from 8.0 to 8.75 percent. Sales grew faster than the market, so share rose." loading="lazy">
+  <figcaption>The lesson's own worked example: sales beat the market, so share rose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--03-salterbeck-ped-revenue.webp" width="900" height="1080" alt="Revenue as price times quantity. With PED -2.5 an 8 percent price cut lifts revenue from 8,000 to 8,832 pounds; with PED -0.4 a 10 percent rise lifts it from 8,000 to 8,448 pounds." loading="lazy">
+  <figcaption>Elastic demand rewards a price cut; inelastic demand rewards a price rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--06-gilsland-correlation.webp" width="900" height="920" alt="Scatter of six weeks of advertising against sales with a line of best fit, r about 0.92. The line extended to 30 thousand pounds predicts about 100 thousand pounds of sales, far beyond the data." loading="lazy">
+  <figcaption>Strong correlation does not prove cause, and extrapolation far beyond the data is unreliable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--01-sample-confidence-interval.webp" width="900" height="810" alt="A number line with a dashed line at the 30 percent sample result. A sample of 400 gives 25.5 to 34.5 percent (plus or minus 4.5 points); a sample of 100 gives 21 to 39 percent (plus or minus 9 points). A wider interval warns the data cannot support a confident decision." loading="lazy">
+  <figcaption>A bigger sample narrows the confidence interval around the same 30% result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--02-yed-income-demand.webp" width="900" height="930" alt="Two bars show demand after a 3 percent rise in incomes: a normal good with YED +1.8 rises 5.4 percent, an inferior good with YED -0.6 falls 1.8 percent." loading="lazy">
+  <figcaption>YED multiplied by the income change gives the change in demand, up for normal goods and down for inferior goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-marketing-management--05-mkt-correlation.webp" width="900" height="1280" alt="Four scatter graphs show positive and negative correlation, strong and weak, each with a line of best fit. A panel shows weather driving both ice cream and sun cream sales, so correlation is not cause." loading="lazy">
+  <figcaption>Strong correlation means dots close to a line; correlation shows association, not cause.</figcaption>
+</figure>
+
+
 ## 3.3.3 Segmentation, targeting, positioning
 
 1. **Segment:** split the market (demographic, geographic, income, behavioural).
@@ -106,6 +137,17 @@ Elasticity helps pricing, forecasting and choosing which market to serve in a bo
 3. **Position:** decide how buyers should see the product against rivals.
 
 Influences on target and position: segment size, growth, profit potential, competitors, resources, brand image, objectives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--04-ostrelby-position-gap.webp" width="900" height="920" alt="A two by two map of price against perceived quality: Ostrelby premium (high, high), a rare position (high price, low quality), supermarket own-label (low, low) and the gap (low price, high quality)." loading="lazy">
+  <figcaption>The gap on the map suggests a mid-priced, high-quality position, subject to demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--03-segment-target-position.webp" width="900" height="930" alt="Three steps in order: segment (demographic, geographic, income, behavioural), target (mass or niche), position against rivals in buyers minds." loading="lazy">
+  <figcaption>The process runs in order: segment, target, position.</figcaption>
+</figure>
+
 
 ## 3.3.4 The marketing mix
 
@@ -135,6 +177,17 @@ Influences on target and position: segment size, growth, profit potential, compe
 **Integration.** The mix should fit the product life cycle position, Boston Matrix position, type of product, objectives, target market, competition and positioning.
 
 **Digital marketing and e-commerce.** Value: reach, targeting, measurability, lower costs. Drawbacks: competition, delivery and returns, security, skills needed. Relationship marketing builds long-term loyalty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--02-ostrelby-boston-matrix.webp" width="900" height="840" alt="Growth against relative share, split at 1.0 and 5 percent growth. Classic bags are a cash cow, Matcha a star, Chai a question mark and Cold cans a dog." loading="lazy">
+  <figcaption>The four Ostrelby products placed on the Boston Matrix using relative share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-marketing-management--05-craigholt-skim-penetration.webp" width="900" height="820" alt="Two bars to one scale: skimming at 60 pounds gives a 42 pound margin (70 percent); penetration at 34 pounds gives 16 pounds (47.1 percent), on a cost of 18 pounds." loading="lazy">
+  <figcaption>Skimming earns a larger margin per unit; penetration trades margin for share.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

@@ -91,6 +91,12 @@ A common framework for making objectives measurable is **SMART** (specific, meas
 
 **Profit and cash flow are not the same thing and should not be used interchangeably in an answer.** Profit is revenue minus total costs over a period, an accounting measure of overall performance. Cash flow is the actual movement of money in and out of the business day to day. A business can be profitable on paper but still run out of cash -- for example if customers are slow to pay or if it ties up too much money in stock -- which is why cash flow, not profit, is what keeps a business trading from one week to the next.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## Forms of ownership
 
 | Form | Liability | Key features |
@@ -108,6 +114,12 @@ The first four of these forms sit within the **private sector**: businesses owne
 
 For companies, the specification also names **ordinary share capital** (the finance a company raises by selling shares), **market capitalisation** (the total value of a company's shares -- share price multiplied by the number of shares in issue), and **dividends** (the share of profit distributed to shareholders rather than retained). The **role of shareholders and why they invest** comes down chiefly to dividend income and capital growth in the share price, though some also invest for voting control. **Influences on share price** include trading performance, dividend policy, market sentiment and the wider economy; **the significance of share price changes** is that a rising price makes it easier and cheaper to raise further capital and deters takeover, while a falling price does the opposite and can threaten a board's job security. Ownership also shapes mission and objectives: a plc answerable to dispersed external shareholders tends to face more pressure toward short-term profit and dividend performance than a sole trader or a social enterprise, which can set a social or environmental mission ahead of financial return.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## Stakeholders versus shareholders
 
 Shareholders own the business; stakeholders are anyone affected by it — employees, customers, suppliers, the local community, government. The **shareholder approach** prioritises returns to owners; the **stakeholder approach** balances competing interests on the argument that long-run profitability depends on it. Most evaluation questions in this topic reduce to weighing those two positions against a specific context.
@@ -115,6 +127,17 @@ Shareholders own the business; stakeholders are anyone affected by it — employ
 ## The external environment
 
 Businesses operate within conditions they do not control. The specification names six factors that affect costs and demand -- competition, market conditions, incomes, interest rates, demographic factors, and environmental issues and fair trade -- and these, not any acronym, are what a question will actually credit. Many students find it convenient to sort factors using **PESTLE** (political, economic, social, technological, legal, environmental), but PESTLE is a teaching device, not part of this specification, so use it only as an optional organiser and always anchor an answer to the named factor it relates to. Economic factors -- interest rates, exchange rates, inflation, the business cycle -- appear most often, because their effects are calculable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
 
 ## Worked example
 

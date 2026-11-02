@@ -37,6 +37,17 @@ These notes condense section 3.3 Business acquisition and merger (A Level conten
 | Business purchase account | Ledger account in the buyer's books that collects the price and is cleared when it is settled |
 | Realisation account | Ledger account in the seller's books that records the sale of the assets and liabilities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--01-acq-goodwill.webp" width="900" height="920" alt="Garsdale pays 65,000 for a business whose net identifiable assets are 57,000 (assets 71,500 at agreed values less 14,500 payables). The 8,000 above net assets is goodwill." loading="lazy">
+  <figcaption>Goodwill is the price paid above the net assets acquired at agreed values: 65,000 - 57,000 = 8,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--04-acq-whole-or-assets.webp" width="900" height="928" alt="Buying a whole business takes all assets and liabilities for one price and can create goodwill (65,000 against net assets 57,000 gives 8,000). Buying individual assets takes only chosen items at agreed values with no goodwill." loading="lazy">
+  <figcaption>The two kinds of purchase compared: one price and goodwill, or item-by-item values and none.</figcaption>
+</figure>
+
+
 ## The three routes and what changes
 
 | Route | New entity | Owners receive | Typical entry |
@@ -71,6 +82,12 @@ These notes condense section 3.3 Business acquisition and merger (A Level conten
 3. Bring in the sole trader's net assets and agreed goodwill and credit the new partner's capital.
 4. Use the new ratio for profits from then on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-purchase-account.webp" width="900" height="1030" alt="Journal 1 credits the business purchase account 65,000; Journal 2 debits it 65,000 and credits share capital 24,000, share premium 18,000, debentures 12,000 and bank 11,000, so it clears to nil." loading="lazy">
+  <figcaption>Journals 1 and 2 leave the business purchase account at nil.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Goodwill.** Bellfield Ltd buys a business. Assets at agreed values are 52,000 and liabilities taken over are 9,500, so net assets are 42,500. It pays 18,000 ordinary shares of 1 issued at 2.50 (45,000) and 5,500 cash: 50,500. Goodwill is 50,500 - 42,500 = 8,000. Share capital rises by 18,000 and share premium by 18,000 x 1.50 = 27,000.
@@ -83,12 +100,34 @@ These notes condense section 3.3 Business acquisition and merger (A Level conten
 
 **Seller's profit.** If the buyer pays 65,000 for a business with book net assets of 60,500, the realisation profit is 4,500. It goes to the seller's capital account, or to the partners in their profit-sharing ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--03-acq-merger.webp" width="900" height="970" alt="Gresley (net assets 24,100 plus goodwill 5,000) and Hobday (16,100 plus 3,000) open with capital of 29,100 and 19,100, giving 48,200 in the new partnership. This equals assets of 56,400 less liabilities of 8,200." loading="lazy">
+  <figcaption>Each partner opens with net assets at agreed values plus agreed goodwill.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--04-acq-revaluation.webp" width="900" height="1080" alt="Premises rise 12,000 while equipment, inventory and receivables fall 1,500, 800 and 400, a net revaluation profit of 9,300. It is shared 3:2 as 5,580 and 3,720. Existing goodwill of 12,000 is shared the same way as 7,200 and 4,800." loading="lazy">
+  <figcaption>Revaluation profit and existing goodwill belong to the old partners in the old ratio.</figcaption>
+</figure>
+
+
 ## Statements after the combination
 
 - Statement of financial position: add the acquired assets at agreed values, add goodwill, remove the cash paid, add the liabilities taken over, add new share capital, share premium and debentures. Retained earnings do not change on acquisition.
 - Statement of profit or loss: include the acquired business's results only from the date of acquisition, plus debenture interest on any new debentures, plus depreciation on acquired assets.
 - Goodwill appears among non-current assets (intangible), not among current assets.
 - Debentures are liabilities, not equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--05-acq-sofp.webp" width="900" height="1190" alt="Assets rise 68,500 from 324,000 to 392,500: equipment and goodwill +46,000 (goodwill 8,000), inventory +21,000, receivables +12,500, bank -11,000. Funding rises by the same 68,500: share capital +24,000, premium +18,000, debentures +12,000, payables +14,500, retained earnings unchanged." loading="lazy">
+  <figcaption>After the acquisition both sides of the statement of financial position rise by 68,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--03-acq-combined-pl.webp" width="900" height="990" alt="Four bars show revenue, gross profit, profit from operations and profit for the year for Garsdale plus the acquired business, ending at 97,780 after finance costs of 5,220." loading="lazy">
+  <figcaption>Combined profit for the year is 82,500 + 15,280 = 97,780.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages
 
@@ -138,6 +177,17 @@ For evaluation, always use the figures given, state whether the benefit outweigh
 10. The credit side.
 11. Interest must be paid every year, and the debentures must be repaid or refinanced; gearing rises.
 12. 9,000 and 3,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-consideration.webp" width="900" height="850" alt="The 65,000 price is 24,000 share capital, 18,000 share premium, 12,000 debentures and 11,000 cash. Shares are recorded at nominal 1.00 plus 0.75 premium. Debentures are a liability." loading="lazy">
+  <figcaption>Shares issued at 1.75 split into 1.00 share capital and 0.75 share premium; debentures are debt, not equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--01-acq-realisation.webp" width="900" height="1076" alt="Vickery Crates realisation account: debits 40,000, 22,000, 13,000 and profit 4,500, credits 14,500 and 65,000, both totals 79,500. The seller receives 65,000 as shares, debentures and cash." loading="lazy">
+  <figcaption>The seller's realisation account balances at 79,500 with a profit to capital of 4,500.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

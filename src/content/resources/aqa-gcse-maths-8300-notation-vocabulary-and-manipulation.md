@@ -65,6 +65,12 @@ The specification adds that answers are expected in **simplest form even when th
 (d) y + y + y + y = 4y
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--05-algebra-notation-meaning.webp" width="900" height="1010" alt="Tiles show 3y as y + y + y, ab as a x b, a squared as a x a, a squared b as a x a x b and a/b as a divided by b. A bar with its left half shaded shows half of x, written as ½x not 0.5x." loading="lazy">
+  <figcaption>Short algebraic forms unpacked into the sums they stand for.</figcaption>
+</figure>
+
+
 ## A2: Substitution
 
 To substitute, replace each letter with its value **in brackets**, then follow the order of operations. Brackets matter most with negative numbers and powers.
@@ -88,6 +94,12 @@ s = (3)(4) + ½(−2)(4)²
 
 The common slip is working out −3² as −9. In brackets, (−3)² = 9.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
+
 ## A3: Vocabulary
 
 | Word | Meaning | Example |
@@ -100,6 +112,12 @@ The common slip is working out −3² as −9. In brackets, (−3)² = 9.
 | Identity | Two sides equal for every value; written with ≡ | 4(p − 2) ≡ 4p − 8 |
 | Factor | Something that divides exactly into an expression | 3 and (x + 2) are factors of 3(x + 2) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--06-equation-or-identity.webp" width="900" height="1100" alt="Two graphs. The lines y = 4p - 7 and y = 9 cross at one point, p = 4, so the equation is true only there. The lines y = 4(p - 2) and y = 4p - 8 lie on top of each other, so the identity is true for every p." loading="lazy">
+  <figcaption>An equation is true at particular values; an identity is true for every value.</figcaption>
+</figure>
+
+
 ## A4: Simplifying and manipulating expressions
 
 ### Collecting like terms
@@ -111,6 +129,12 @@ Like terms have exactly the same letters and powers. mn and m are not like terms
 = (7m − 4m) + (−2n + 5n) + (3mn − mn)
 = 3m + 3n + 2mn
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
 
 ### Multiplying a single term over a bracket
 
@@ -132,6 +156,12 @@ HCF of 12 and 18 = 6; both terms contain a and b
 ```
 
 Check by expanding back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
 
 ### The laws of indices
 
@@ -159,6 +189,22 @@ Multiply each term in the first bracket by each term in the second, then collect
 
 (2x − 3)² is not 4x² + 9. Always write a squared bracket out twice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--07-squared-bracket-middle-term.webp" width="900" height="950" alt="A square of side 2x (drawn with x = 4, side 8) has two strips of width 3 removed, each of area 6x = 24, and the corner 3 by 3 = 9 added back, leaving a 5 by 5 square of area 25. So (2x - 3)^2 = 4x^2 - 12x + 9, not 4x^2 + 9 = 73." loading="lazy">
+  <figcaption>The middle term appears because the two strips overlap in a corner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--01-expand-area-grid.webp" width="900" height="820" alt="An area grid for (3x + y)(x minus 4y) with columns 3x and y and rows x and minus 4y. The cells are 3x squared, xy, minus 12xy and minus 4y squared. Adding them and combining the xy terms gives 3x squared minus 11xy minus 4y squared." loading="lazy">
+  <figcaption>Every term in the first bracket multiplies every term in the second.</figcaption>
+</figure>
+
+
 ### Expressions involving surds
 
 The same rules work with surds. The fact you need is √5 × √5 = 5.
@@ -182,6 +228,22 @@ The **difference of two squares** is a special case with no x term:
 a² − b² = (a + b)(a − b)
 y² − 49 = (y + 7)(y − 7)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--08-split-middle-term.webp" width="900" height="880" alt="Multiplying 3 by -8 gives -24; the numbers 12 and -2 multiply to -24 and add to 10, so 10x splits into 12x - 2x. The four terms fill a grid with columns 3x and -2 and rows x and +4, giving (3x - 2)(x + 4)." loading="lazy">
+  <figcaption>Splitting the middle term with a x c, shown as an area grid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
 
 ### Higher tier only: products of more than two binomials
 
@@ -296,6 +358,12 @@ Let the odd numbers be 2n − 1 and 2n + 3
 ```
 
 The final sentence, linking the algebra to the claim, is part of the proof.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--09-three-consecutive-numbers.webp" width="900" height="860" alt="Rows of blocks show n, n+1 and n+2 for n = 5. Moving one block from the longest row to the shortest gives three equal rows of n+1, so the total is 3(n + 1)." loading="lazy">
+  <figcaption>Why n + (n+1) + (n+2) = 3(n+1) is always a multiple of 3.</figcaption>
+</figure>
+
 
 ## A7: Functions
 

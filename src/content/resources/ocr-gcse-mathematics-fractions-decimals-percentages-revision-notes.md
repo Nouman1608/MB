@@ -33,6 +33,12 @@ Decrease by x%:  multiplier = 1 - (x / 100)
 
 Using a **single multiplier**, rather than calculating the percentage and adding/subtracting separately, is faster, less error-prone, and the **only practical method for compound growth/decay**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--02-multiplier-bars.webp" width="900" height="905" alt="Two bars. A bar of five fifths plus two more fifths is 7/5 of the original, the multiplier for an increase by 2/5. A bar for 86.40 pounds plus 10.80 pounds is 1.125 times the original, so 86.40 x 1.125 = 97.20 pounds." loading="lazy">
+  <figcaption>A multiplier is the whole bar after the change: 1 plus the fraction or decimal added.</figcaption>
+</figure>
+
+
 ## Worked example: reverse percentage
 
 A jacket costs £68 after a 15% discount. Find the original price.
@@ -44,6 +50,12 @@ Original price = £68 / 0.85 = £80
 
 Calculating 15% of £68 and adding it back (£78.20) is **wrong** — £68 is 85% of the original, not 100% minus something.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--04-reverse-percentage-jacket.webp" width="900" height="900" alt="A bar for the sale price 68 pounds is 85 percent. Dividing by 0.85 gives the original, 80 pounds, as 100 percent. The slip of adding 15 percent of 68 gives 78.20 pounds, which is wrong." loading="lazy">
+  <figcaption>Divide by the multiplier to get back to the original price.</figcaption>
+</figure>
+
+
 ## Worked example: compound growth
 
 £1,800 grows by 5% per year, compounded annually, for 2 years.
@@ -53,9 +65,26 @@ multiplier = 1.05
 value after 2 years = £1,800 x 1.05^2 = £1,984.50
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-decimals-and-percentages--06-compound-growth.webp" width="900" height="910" alt="Bars show 1,800 pounds growing to 1,890 and then 1,984.50 pounds, each step multiplied by 1.05. The combined multiplier is 1.05 squared = 1.1025. Simple interest would give 1,980 pounds." loading="lazy">
+  <figcaption>Each year the 5% is taken of the new, larger amount, so the single multiplier is raised to a power.</figcaption>
+</figure>
+
+
 ## Fraction skills — two distinct types
 
 **Fraction of an amount** (division then multiplication): 3/5 of £45 → £45 ÷ 5 × 3 = **£27**. **Adding/subtracting fractions** (common denominator first): 2/3 + 1/4 → 8/12 + 3/12 = **11/12**. Confident students sometimes default to one method for both — practise recognising which skill a question actually needs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-decimals-and-percentages--07-fraction-of-amount.webp" width="900" height="640" alt="A bar for 45 pounds is cut into 5 parts of 9 pounds, with 3 shaded making 27 pounds. Working: 45 / 5 = 9, then 9 x 3 = 27." loading="lazy">
+  <figcaption>Divide by the bottom, then multiply by the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--02-add-unlike-fractions.webp" width="900" height="730" alt="Two bars cut into 24ths show 3/8 as 9 parts and 5/12 as 10 parts. Joined, they fill 19 of 24 parts, so 3/8 + 5/12 = 19/24, which cannot be simplified." loading="lazy">
+  <figcaption>Cutting both fractions into the lowest common denominator lets you add the parts.</figcaption>
+</figure>
+
 
 ## Converting between fractions, decimals and percentages
 
@@ -70,6 +99,17 @@ Percentage -> fraction: write over 100, then simplify
 
 Practise moving between all three forms fluently in both directions, not just fraction-to-decimal-to-percentage in one direction, since ordering questions (2.4) require converting a mixed set to a **common form** before comparison, and the common form needed depends on what is easiest to compare in the specific question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## Worked example: expressing one quantity as a percentage of another
 
 A student scores 42 out of 56 on a test. Express this as a percentage.
@@ -82,9 +122,21 @@ Step 3: convert to a percentage -- 0.75 x 100 = 75%
 
 This three-step method (fraction, then decimal, then percentage) is more reliable under exam conditions than attempting to estimate a percentage directly, particularly on the non-calculator paper where the division needs to be done by hand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--04-percent-of-another.webp" width="900" height="830" alt="Two bar models. In the first, the bar for Mia of 2.4 km is 100 percent and the longer bar for Ben of 3.0 km reaches 125 percent. In the second, Ben's bar of 3.0 km is 100 percent and the shorter bar for Mia is 80 percent. The quantity after the word of is the whole, 100 percent." loading="lazy">
+  <figcaption>Bar models for 125% and 80%.</figcaption>
+</figure>
+
+
 ## Recurring decimals to fractions (Higher tier)
 
 A recurring decimal such as 0.333... converts to a fraction using algebra: let x = 0.333..., then 10x = 3.333..., so 10x − x = 3, giving 9x = 3 and x = 3/9 = 1/3. This Higher-tier skill is often under-revised because it feels like Number-topic content, even though it is examined here as part of fluency with the fraction-decimal relationship -- worth including explicitly in a revision plan rather than treating as a separate, optional extra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
 
 ## Key terms
 

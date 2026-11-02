@@ -111,6 +111,17 @@ Receipts of 54,090 exceed payments of 44,590 by 9,500. That is **not** the surpl
 capital donation and capital spending, ignores depreciation and ignores the changes in amounts owing.
 Members need an income and expenditure account to see whether the club covered its running costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--01-cash-vs-surplus.webp" width="900" height="826" alt="A waterfall turns the 9,500 rise in cash into the 5,500 surplus: take off the 5,000 capital donation, add back 7,500 floodlights spending, take off 1,160 of life fees not yet income and 5,520 depreciation, add 180 for owing and prepaid timing." loading="lazy">
+  <figcaption>A cash rise differs from the surplus because of capital items, life fees, depreciation and timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--06-factory-cost-buildup.webp" width="900" height="984" alt="A waterfall builds up direct materials 185,100, direct wages 142,000 and royalties 6,800 to prime cost 333,900, adds overheads 110,800, adjusts work in progress by minus 2,200 to a factory cost of 442,500, then adds 15% profit on manufacture 66,375 for a transfer of 508,875." loading="lazy">
+  <figcaption>Factory cost builds up from prime cost and overheads, adjusted for work in progress, then profit on manufacture is added.</figcaption>
+</figure>
+
+
 ## Step 2: the opening accumulated fund
 
 A club has no owner's capital. Its **accumulated fund** takes that place, measured as everything the
@@ -147,6 +158,12 @@ subscriptions account with the amount written off and treat it as an expense (or
 Some clubs, on prudence grounds, count no arrears as income until the cash arrives. Follow the policy the
 question states.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
+
 ## Step 4: the bar trading account
 
 A bar, café or shop run for members is a trading activity inside a non-profit organisation. Prepare a
@@ -170,6 +187,17 @@ Bar profit transferred to income and expenditure               6,520
 Only costs caused by the bar belong here. Wages of staff who run the bar are a bar cost; the club's
 general insurance is not, unless the question gives an apportionment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
+
 ## Step 5: life memberships and donations
 
 A **life membership** fee buys membership for many years, so taking it all as income in one year would
@@ -186,6 +214,12 @@ The fund balance appears on the statement of financial position, shown separatel
 **Donations** depend on purpose. A small donation with no conditions is income of the year. A large gift
 for a capital project, such as Vellacombe's 5,000 for floodlights, would distort the surplus if treated
 as income, so it is added directly to the accumulated fund (or held in a named fund if the club keeps one).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--04-gifts-and-fees.webp" width="900" height="970" alt="Life fees of 2,400 go into the life membership fund; one tenth of 12,400, which is 1,240, is released to income, leaving a fund of 7,160. The 5,000 floodlights donation goes to the accumulated fund and the 300 general donation is income." loading="lazy">
+  <figcaption>Life fees, capital donations and general donations each go to a different place.</figcaption>
+</figure>
+
 
 ## Step 6: the income and expenditure account
 
@@ -244,6 +278,12 @@ Subscriptions in advance                            690
                                                             2,080
 Total funds and liabilities                               112,090
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--05-accumulated-fund.webp" width="900" height="1010" alt="Bars compare assets with fund plus amounts owed at 1 January (100,080) and 31 December (112,090). The accumulated fund grows from 92,350 to 102,850 through the 5,000 donation and the 5,500 surplus; the life fund of 7,160 is shown separately." loading="lazy">
+  <figcaption>The accumulated fund grows by capital donations and the surplus.</figcaption>
+</figure>
+
 
 ## Commenting on a club's statements
 

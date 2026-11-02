@@ -78,6 +78,12 @@ Quick recall for section 3.2 (Methods and effects of government intervention in 
 - Opportunity cost of subsidy spending and tax funding.
 - Time: demand and supply usually become more elastic over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Direct provision (3.2.3)
 
 Government produces the good itself, often free at the point of use. Reasons: public goods, merit goods, equity of access.
@@ -89,6 +95,12 @@ Government produces the good itself, often free at the point of use. Reasons: pu
 | Reaches those who cannot pay | Opportunity cost of tax funds |
 | Can supply goods markets will not | Weak incentive to cut costs |
 | Can aim at equity | Queues, over-use when free, or a poor match to what people want |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--03-direct-provision-margin.webp" width="900" height="860" alt="Bar chart of marginal social benefit of five blocks of 1,000 check-ups (50, 40, 30, 20, 10 thousand) against a cost line of 20 thousand per block. Provide blocks 1 to 3, block 4 breaks even and block 5 loses 10 thousand." loading="lazy">
+  <figcaption>Provide each block while its marginal benefit is at least its cost.</figcaption>
+</figure>
+
 
 ## Maximum and minimum prices (3.2.4)
 
@@ -115,6 +127,22 @@ Sketch of the two controls, with the equilibrium price marked E:
 
 A price control set on the wrong side of equilibrium has no effect. State this to show you have read the diagram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--02-maximum-rent-shortage.webp" width="900" height="830" alt="Demand and supply of rooms meet at rent 10, 200 rooms. A maximum rent of 6 gives demand 360 and supply 120, a shortage of 240. Tenants would pay 12 for the 120th room, twice the cap." loading="lazy">
+  <figcaption>A maximum price below equilibrium creates a shortage and invites black markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--07-coconut-minimum-price.webp" width="900" height="880" alt="Demand Qd = 400 - 20P and supply Qs = -100 + 30P meet at 10 and 200. A minimum price of 14 gives demand 120 and supply 320, a surplus of 200. If the government buys the surplus, farmers sell 320 for 4,480: 1,680 from consumers and 2,800 from the government." loading="lazy">
+  <figcaption>Worked example 7: a minimum price of 14 creates a surplus of 200 that taxpayers must buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+
 ## Buffer stocks (3.2.5)
 
 Work for storable goods with variable harvests. The agency sets a floor and ceiling.
@@ -128,6 +156,12 @@ Work for storable goods with variable harvests. The agency sets a floor and ceil
 
 Weaknesses: stock runs out after consecutive poor years; storage is costly; a band set away from the long run price drifts into a permanent surplus or shortage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
+</figure>
+
+
 ## Information (3.2.6)
 
 Targets imperfect information and so under-consumption of merit goods or over-consumption of demerit goods.
@@ -139,6 +173,12 @@ Targets imperfect information and so under-consumption of merit goods or over-co
 - Cost per extra user = 48,000 ÷ 3,200 = 15 cu.
 
 Strengths: cheap, keeps choice, no price rise. Limits: slow, uncertain, may be ignored, and weak against habits and addiction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--09-sugar-information-vs-price.webp" width="900" height="730" alt="Consumption of 400,000 falls to 340,000, down 60,000 or 15%, after a 90,000 cu campaign, which is 1.50 cu per unit. With PED -0.5 a 30% price rise would be needed for the same fall." loading="lazy">
+  <figcaption>Worked example 9: the campaign cuts 15% at 1.50 cu a unit, where a price rise would need 30%.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -173,6 +213,27 @@ Strengths: cheap, keeps choice, no price rise. Limits: slow, uncertain, may be i
 8. 6,000 ÷ 400 = 15 cu.
 9. Opportunity cost, or inefficiency without competition, or over-use when free.
 10. If demand is inelastic, quantity falls little and the tax mainly raises revenue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--01-candle-tax-incidence.webp" width="900" height="910" alt="Supply and demand for candles. A tax of 3 shifts supply up; price rises from 10 to 12, quantity falls from 100 to 80, producers keep 9. Consumer burden 160, producer burden 80, revenue 240, welfare loss triangle 30." loading="lazy">
+  <figcaption>A specific tax is shared: consumers pay 2 more, producers keep 1 less, and 30 of surplus is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--08-less-elastic-demand-tax.webp" width="900" height="770" alt="With Qd = 200 - 10P (PED -1) a 3 cu tax splits 160 consumers and 80 producers, revenue 240, quantity down 20. With Qd = 150 - 5P (PED -0.5) it splits 211.2 and 52.8, revenue 264, price paid 12.4, quantity down only 12." loading="lazy">
+  <figcaption>Worked example 2: less elastic demand puts more of the tax on consumers and cuts quantity less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

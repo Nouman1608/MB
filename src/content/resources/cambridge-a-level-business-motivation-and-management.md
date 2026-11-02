@@ -69,6 +69,42 @@ The bonus is changed to an individual one. Instrumentality rises to 0.9:
 
 The reward is unchanged, but the driver now sees a clear link between performance and pay, so motivational force more than doubles (5.67 / 2.52 = 2.25 times). The problem lay in the link, not the size of the reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-vroom-worked.webp" width="900" height="860" alt="Two rows multiply expectancy, instrumentality and valence. A team bonus gives 0.9 x 0.4 x 7 = 2.52; an individual bonus with instrumentality 0.9 gives 0.9 x 0.9 x 7 = 5.67, 2.25 times higher, with the reward unchanged. The scores are illustrative." loading="lazy">
+  <figcaption>Vroom: raising the link between performance and reward more than doubles motivational force (illustrative scores).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--02-time-vs-piece-unit-cost.webp" width="900" height="880" alt="A graph of labour cost per mug against weekly output. Piece rate is flat at 1.10 pounds. Time rate, 501.60 pounds a week divided by output, falls from 1.11 pounds at 450 mugs to 0.96 pounds at 520 mugs." loading="lazy">
+  <figcaption>Piece rate keeps labour cost per unit fixed; time rate lets it fall as output rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-mcclelland-needs.webp" width="900" height="870" alt="Three rows: achievement (challenges and feedback) suits stretching targets; affiliation (belonging) suits team projects; power (influencing others) suits a chance to lead." loading="lazy">
+  <figcaption>McClelland needs of achievement, affiliation and power each call for a different motivator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-taylor-and-mayo.webp" width="900" height="970" alt="Two panels. Taylor: a stopwatch, a job split into three timed tasks and then coins, so workers are paid for output and money is the main motivator. Mayo: a group of four workers and a manager who listens, showing that output rose with attention and belonging even though conditions changed little." loading="lazy">
+  <figcaption>Taylor stressed timed tasks and pay for output; Mayo stressed attention and belonging.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--02-profit-sharing-v-prp.webp" width="900" height="880" alt="Hollin Fell shares 15% of 84,000 pounds profit, a pool of 12,600 pounds, among 14 staff for 900 pounds each. One employee on 31,500 pounds also earns 6% PRP, 1,890 pounds, making 33,390 pounds. Profit sharing rewards the team; PRP rewards one person." loading="lazy">
+  <figcaption>Profit sharing rewards the whole team, PRP rewards one person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ## 2.2.4 Theories in practice: financial motivators
 
 | Method | How it works | Fits best | Main drawback |
@@ -125,6 +161,12 @@ Link each method to a theory, because exam answers gain from that link.
 
 **Choosing a method.** Match the method to the people and the job. A repetitive, low-paid, short-term role may respond to piece rate or a bonus. A skilled professional with a comfortable salary may value autonomy and enrichment. Whatever you choose, check the cost and whether the effect will last.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--03-participation-ladder.webp" width="900" height="850" alt="Five forms of participation drawn as bars that grow from being asked for views to having a vote: suggestion scheme, two-way team briefing, works council or quality circle, worker director, and staff share ownership or co-operative." loading="lazy">
+  <figcaption>Participation ranges from being asked for views to having a vote, so judge how real the influence is.</figcaption>
+</figure>
+
+
 ## 2.3.1 Management and managers
 
 The traditional functions of a manager are four:
@@ -162,6 +204,27 @@ Be careful about cause. The rise may owe something to new equipment or seasonal 
 | Paternalistic | Manager decides, but with concern for staff welfare and explains why | Staff who value security and loyalty | Staff may feel talked down to |
 
 **McGregor.** A Theory X manager assumes people dislike work, avoid responsibility and need close control and threats or rewards, which leads to autocratic management. A Theory Y manager assumes people can enjoy work, seek responsibility and are self-directed, which leads to democratic or laissez-faire management. The theories describe a manager's beliefs, not the workers themselves. Treating people as Theory X can itself make them behave that way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--03-mintzberg-roles.webp" width="900" height="860" alt="Three columns list Mintzberg ten roles: interpersonal (figurehead, leader, liaison), informational (monitor, disseminator, spokesperson) and decisional (entrepreneur, disturbance handler, resource allocator, negotiator)." loading="lazy">
+  <figcaption>Mintzberg observed ten roles in three groups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--04-mcgregor-xy.webp" width="900" height="870" alt="Theory X managers assume people dislike work and avoid responsibility, leading to close control and autocratic management. Theory Y managers assume people enjoy work and seek responsibility, leading to democratic or laissez-faire management. These are the manager beliefs, not facts about workers." loading="lazy">
+  <figcaption>A manager beliefs about workers (X or Y) shape the management style.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--04-manager-functions-fayol.webp" width="900" height="910" alt="A cycle of planning, organising, directing and controlling, with controlling feeding back into planning. Below it, Fayol's five elements: planning, organising, controlling, commanding and coordinating, with the first three sharing names with the four functions." loading="lazy">
+  <figcaption>The four traditional functions form a cycle; Fayol lists five elements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-sablecombe-productivity.webp" width="900" height="790" alt="Two bars show crates per worker on an 18-person packing line: 70 before and 84 after the new supervisor, a rise of 14 or 20 percent. A question mark warns that new equipment or season may explain part of the rise." loading="lazy">
+  <figcaption>Output per worker rose 20%, but check the case before crediting the manager.</figcaption>
+</figure>
+
 
 ## Common errors
 

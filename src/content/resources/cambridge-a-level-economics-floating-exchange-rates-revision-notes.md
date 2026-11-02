@@ -77,6 +77,17 @@ Opposite direction: 4.00 to 3.00 tarns per senn is −25% for the senn. Senns pe
 
 Leftward shifts reverse these. A change in the rate itself causes a movement along the curves, not a shift.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--07-kora-shifts.webp" width="900" height="1180" alt="Top: demand rises by 30, the equilibrium moves to 2.20 and 115 and the kora appreciates 10 percent. Bottom: supply rises by 30, the equilibrium moves to 1.80 and 115 and the kora depreciates 10 percent." loading="lazy">
+  <figcaption>A demand shift raises the rate; a supply shift lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## AD/AS effects (6.4.5)
 
 Depreciation chain: exports cheaper abroad, imports dearer at home, net exports rise, AD shifts right, so real output, price level and employment tend to rise. Higher income also raises imports, which offsets part of the gain.
@@ -86,6 +97,22 @@ Appreciation chain: exports dearer abroad, imports cheaper at home, net exports 
 Cost side: imported raw materials cost more after a depreciation. A firm using materials priced at 80 tarns per unit pays 80 ÷ 4.00 = 20 senns at 4.00 and 80 ÷ 3.00 = 26.67 senns at 3.00. That is a rise of 33.3%. Higher costs can shift SRAS left.
 
 Worked reminder. Country C has C 480 + I 150 + G 200 + X 260 − M 300 = AD of 790. After an appreciation, X = 230 and M = 330. AD = 480 + 150 + 200 + 230 − 330 = 730. AD falls by 60. With a multiplier of 2, national income falls by 120.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--08-depreciation-prices.webp" width="900" height="950" alt="The kora falls from 2.00 to 1.60 dalos, down 20 percent, while the dalo rises 25 percent. A 400-kora export falls from 800 to 640 dalos, and a 600-dalo import rises from 300 to 375 koras." loading="lazy">
+  <figcaption>Depreciation makes exports cheaper abroad and imports dearer at home.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--09-depreciation-ad.webp" width="900" height="970" alt="Exports rise from 300 to 340 and imports fall from 350 to 320, so net exports go from -50 to +20 and AD from 1,000 to 1,070. With a multiplier of 2.5, income rises by 175." loading="lazy">
+  <figcaption>Higher net exports raise AD by 70 and income by 175 in the simplified model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--02-fx-appreciation-adas.webp" width="900" height="920" alt="AD and SRAS curves on price level against real output. Appreciation shifts AD left (E1 to E2: output and price level fall); cheaper imported inputs shift SRAS right (E2 to E3: output recovers, price level falls further). Curves are illustrative." loading="lazy">
+  <figcaption>An appreciation moves AD left, while cheaper imported inputs move SRAS right and soften the loss of output.</figcaption>
+</figure>
+
 
 ## Method in steps: an AD/AS explanation
 
@@ -158,6 +185,18 @@ A good evaluation names the factor that matters most for the case in the questio
 - Assuming a depreciation always raises output.
 - Evaluation that lists points without a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--06-kora-market.webp" width="900" height="880" alt="Dalos per kora against millions of koras. Demand D = 250 - 75r and supply S = 75r - 50 cross at 2.00 and 100. At 2.40 there is excess supply of 60 so the rate falls; at 1.60 there is excess demand of 60 so the rate rises." loading="lazy">
+  <figcaption>The rate settles where demand for and supply of koras are equal.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.4 Exchange rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+

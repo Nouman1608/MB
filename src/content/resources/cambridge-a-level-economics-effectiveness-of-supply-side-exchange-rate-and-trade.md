@@ -77,6 +77,27 @@ Country R trains 1.2 million workers, each producing 55,000 cu a year, so their 
 
 Evaluation: the effect depends on time, the size of the response (the 0.3 above), the cost to the government and whether demand is high enough to use the new capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--09-training-payback.webp" width="900" height="870" alt="Line chart of net gain in million cu. Best case gains 1,980 a year at once, paying back the 1,500 cost in 0.76 years. Realistic case gains nothing for two years then 990 a year, paying back in 3.5 years." loading="lazy">
+  <figcaption>Training pays back in 0.76 years at best but about 3.5 years in the realistic case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--10-unit-labour-cost.webp" width="900" height="840" alt="Wages per worker rise 3% while output per worker rises 6%. Unit labour cost is 1.03 / 1.06 = 0.9717 of its old level, a fall of 2.8%." loading="lazy">
+  <figcaption>When output per worker rises faster than pay, unit labour cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--11-tax-cut-incentive.webp" width="900" height="940" alt="Cutting the tax rate from 40% to 30% raises what a worker keeps from a 20 cu hour from 12 to 14, a 16.7% rise. With elasticity 0.3, hours rise 5.0%, or 50 million hours on 1,000 million, worth 1,500 million cu, 3.75% of a 40,000 million cu economy." loading="lazy">
+  <figcaption>A tax cut raises the net wage, which raises hours and output if jobs exist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 10.3.1 Exchange rate policy
 
 Governments influence the exchange rate by choosing a system (fixed, managed or floating), by buying or selling currency from reserves, and by changing interest rates. A lower rate is expansionary in the external sector.
@@ -101,6 +122,17 @@ Other effects: if imports make up 25% of the price index, import prices up 11.1%
 
 Country T wants to hold 2.00 morn. At that rate the supply of vessas exceeds demand by 50 million a month, so the central bank buys 50 million vessas, paying 100 million morn from reserves. Reserves of 480 million morn last 4.8 months. After that it must raise interest rates to attract buyers or let the rate fall. A fixed target is therefore only as strong as the reserves and the willingness to change interest rates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--01-sd-depreciation-trade-balance.webp" width="900" height="1110" alt="Two bar-chart panels for Country T after its currency falls 10 percent, from 2.00 to 1.80. Before depreciation exports are 400 and imports 440, a deficit of 40. In the elastic case (export elasticity 1.1, import elasticity 0.8) exports rise to 444 and imports to 445.4, so the deficit narrows to 1.4. In the inelastic case (0.3 and 0.4) exports rise to 412 and imports to 467.2, so the deficit widens to 55.2. Import prices in vessas rise 11.1 percent. Elasticities decide whether depreciation helps." loading="lazy">
+  <figcaption>A 10% depreciation narrows the deficit only if demand for exports and imports is elastic enough.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--07-defending-rate-reserves.webp" width="900" height="850" alt="Reserves of 480 million morn fall by 100 million a month (buying 50 million vessas at 2.00) to 380, 280, 180 and 80, and run out at 4.8 months." loading="lazy">
+  <figcaption>Holding a fixed rate uses reserves up in 4.8 months in the lesson example.</figcaption>
+</figure>
+
+
 ## 10.3.1 International trade policy
 
 Trade policy is protectionism (tariffs, quotas, subsidies, other barriers) or liberalisation (removing barriers, joining trade agreements).
@@ -124,6 +156,12 @@ The tariff helps the balance only if retaliation stays below about 14.4% (54 ÷ 
 | Inflation | Raises prices | Lowers prices and costs |
 | Growth | Less competition and less efficiency | Competition, scale and specialisation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--02-sd-tariff-retaliation.webp" width="900" height="950" alt="Country V puts a 15 percent tariff on imports of 300 with import demand elasticity 1.2. Import volume falls 18 percent to 246, a balance of payments gain of 54. If the partner retaliates with a 10 percent tariff on V exports of 250 with elasticity 1.5, exports fall by 37.5 and the net gain is 16.5. If the partner retaliates with 20 percent, exports fall by 75 and the net result is a loss of 21. The tariff helps the balance only if retaliation stays below about 14.4 percent." loading="lazy">
+  <figcaption>A tariff helps the balance only while the partner's retaliation stays below about 14.4%.</figcaption>
+</figure>
+
+
 ## 10.3.2 Problems and conflicts
 
 Policy problems come from the policy and from the economy.
@@ -136,6 +174,12 @@ Policy problems come from the policy and from the economy.
 - **Limits on effectiveness.** Small open economies depend on foreign demand. Other countries' policies and shocks can overwhelm domestic policy.
 
 A good answer ranks the conflicts: which objective has priority, and what does it cost?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--08-depreciation-conflicts.webp" width="900" height="810" alt="A 10% depreciation raises net exports by 38.6. With a multiplier of 1.6 output rises 61.8 (3.1% of 2,000), so growth gains. Import prices rise 11.1% with a 25% weight, adding about 2.8 points to the price level. The deficit narrows from 40 to 1.4." loading="lazy">
+  <figcaption>Depreciation helps growth and the trade balance but worsens inflation.</figcaption>
+</figure>
+
 
 ## 10.3.3 Government failure in macroeconomic policy
 
@@ -153,6 +197,12 @@ Country W has an output gap (percentage of potential output) that closes by itse
 The policy arrives when the economy is already at capacity and pushes it into overheating. If each point of positive gap adds 0.5 points to inflation (an invented rule), the stimulus adds 1.0 point to inflation by period 6.
 
 Consequences of macroeconomic government failure: inflation, unemployment, debt, loss of policy credibility, wasted resources and cycles of stop-go policy. Trade protection shows another cause: producer lobbying gains a tariff while the many consumers who pay for it have no voice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--03-sd-stimulus-timing.webp" width="900" height="850" alt="Line chart of the output gap as a percentage of potential output over periods 1 to 6. Without stimulus the gap goes from minus 3 to zero in period 5 and plus 1 in period 6. With a stimulus decided in period 1 that only takes effect in period 5, the gap jumps to plus 2 and plus 3, pushing the economy into overheating. With the lesson's invented rule of 0.5 points of inflation per point of positive gap, the stimulus adds 1.0 point of inflation by period 6." loading="lazy">
+  <figcaption>A stimulus that arrives after the gap has closed pushes the economy into overheating.</figcaption>
+</figure>
+
 
 ## Evaluating policy effectiveness
 

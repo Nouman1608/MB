@@ -40,6 +40,12 @@ Internal stakeholders work in, manage or own the business. They can see the book
 
 Keep this distinction in mind, because it explains why the groups want different information. An owner can ask for a management report next week. A lender deciding whether to extend a loan relies on the statements it is given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--01-acc14-stakeholders.webp" width="900" height="1090" alt="Eight stakeholder groups in two lists. Internal (employees, management, owners/shareholders) can ask for any figure; external (customers, suppliers, government, lenders, local community) see published statements. Each row gives one interest." loading="lazy">
+  <figcaption>Three internal and five external stakeholders, each with one distinct interest.</figcaption>
+</figure>
+
+
 ## The three internal stakeholders
 
 ### Employees
@@ -72,6 +78,12 @@ The specification groups these together. A sole trader or partner owns the busin
 - the risk that they lose the capital they put in
 
 Owners compare profit with the capital they have invested, and they decide whether to take profit out or leave it in to grow the business. Profit left in the business is retained profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--02-acc14-same-figures-different-readers.webp" width="900" height="822" alt="Westerly Joinery wages of 150,000 matter to employees (12 staff, 12,500 each) and management (15.6% of revenue). Loan interest of 5,400 is 9% of the 60,000 loan and is the lender return. The 20,000 dividend gives an 8,000-share holder 1,600." loading="lazy">
+  <figcaption>The same figures serve different stakeholders; each reads a different line first.</figcaption>
+</figure>
+
 
 ## The five external stakeholders
 
@@ -145,6 +157,17 @@ Stakeholders do not always want the same outcome, and a good answer says so.
 | Raise selling prices | Owners, through higher profit | Customers |
 | Delay paying suppliers | The business, which keeps cash for longer | Suppliers, who may refuse further credit |
 | Expand the factory | Owners and employees, through growth and jobs | Local community, through noise and traffic |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--01-un14-interests-collide.webp" width="900" height="1246" alt="Five decisions, each with a gaining group and a group that may lose: bigger dividend (shareholders gain, lenders and employees may lose), higher wages (employees gain, owners lose), higher prices (owners gain, customers lose), delayed supplier payment (business gains, suppliers lose), factory expansion (owners and employees gain, community loses)." loading="lazy">
+  <figcaption>Every decision helps one stakeholder and may hurt another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## Linking stakeholders to financial statements
 

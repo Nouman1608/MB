@@ -73,6 +73,17 @@ chromosomes in each new cell = 18
 
 The second answer does not halve. Halving happens in meiosis, which makes gametes and belongs to Topic 6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## 4.1.2.2 Mitosis and the cell cycle
 
 ### The three stages
@@ -156,6 +167,27 @@ cells = 2⁶ = 64
 
 The number doubles each cycle. A common slip is to calculate 2 × 6 = 12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--03-cell-cycle-dna.webp" width="900" height="980" alt="Three drawn stages: grow and copy DNA, mitosis moves one set of chromosomes to each end, the cell splits into two identical cells. Graph of DNA per cell: 8 units, rising to 16 in stage 1, flat at 16 through mitosis, then 8 in each new cell." loading="lazy">
+  <figcaption>DNA doubles from 8 to 16 units, then each new cell has 8 again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--08-mitotic-fraction.webp" width="900" height="1110" alt="400 cells with 36 in mitosis highlighted; 36/400 = 0.09, 0.09 x 20 h = 1.8 h = 108 min." loading="lazy">
+  <figcaption>Fraction of cells in mitosis equals fraction of the cycle spent in mitosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--09-doubling-cells.webp" width="900" height="940" alt="Branching tree from 1 cell to 64 cells over six 12 hour cycles." loading="lazy">
+  <figcaption>Six doublings give 2^6 = 64 cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--10-where-mitosis-occurs.webp" width="900" height="1060" alt="Five contexts with ticks where mitosis occurs and two crosses (sperm formation, bacterial splitting)." loading="lazy">
+  <figcaption>Mitosis makes identical cells in a eukaryote.</figcaption>
+</figure>
+
+
 ## 4.1.2.3 Stem cells
 
 ### Definition
@@ -188,6 +220,12 @@ Treatment with stem cells **may be able to help** conditions such as **diabetes 
 wording "may be able to": write about these as possible treatments, not established cures. For example, stem
 cells might be made to differentiate into insulin-producing cells for a person with diabetes, or into nerve
 cells for a person with paralysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--11-stem-cell-uses-risks.webp" width="900" height="900" alt="A stem cell differentiating into nerve cells (paralysis) and insulin-making cells (diabetes), with the risk of viral infection and the ethical objection." loading="lazy">
+  <figcaption>Possible uses are weighed against risks and objections.</figcaption>
+</figure>
+
 
 ### Therapeutic cloning
 
@@ -229,6 +267,22 @@ specification gives two uses:
 The clones are genetically identical because they are produced by mitosis. That is the advantage for a crop
 (every plant has the useful feature) and a weakness too (they are all equally exposed to any new disease that
 the feature does not protect against).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--04-stem-cell-sources.webp" width="900" height="910" alt="Three panels: embryonic stem cells make most human cell types (six shown), adult bone marrow stem cells make blood cells and a narrower range (two shown), plant meristem stem cells make any plant cell type throughout life." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--05-therapeutic-cloning-rejection.webp" width="900" height="1020" alt="Two lanes. An embryo made with the patient's genes gives stem cells with the same genes, which the body does not reject. An unrelated donor embryo gives stem cells with different genes, which are rejected." loading="lazy">
+  <figcaption>Stem cells with the patient's own genes are not rejected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--12-meristem-cloning.webp" width="900" height="800" alt="A parent plant with a meristem at the shoot tip, mitosis giving identical clones, and the two uses." loading="lazy">
+  <figcaption>Meristem cells are used to clone plants quickly.</figcaption>
+</figure>
+
 
 ## Common errors
 

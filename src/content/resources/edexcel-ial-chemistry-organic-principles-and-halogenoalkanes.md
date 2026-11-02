@@ -74,11 +74,23 @@ A **reaction mechanism** is the sequence of steps by which reactants become prod
 
 Heterolytic fission gives the species of ionic mechanisms. An **electrophile** accepts an electron pair to form a covalent bond (H⁺, or the δ+ H of HBr). A **nucleophile** is its electron-rich partner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ### Nucleophiles (10.4)
 
 **Definition:** a nucleophile is a species that donates a lone pair of electrons to form a new covalent bond with an electron-deficient atom.
 
 Examples here: OH⁻, CN⁻, NH₃ and H₂O. Ammonia and water show that a nucleophile need not be charged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
 
 ### Bond polarity and mechanism type (10.5)
 
@@ -103,6 +115,12 @@ Use the longest chain, the prefixes fluoro, chloro, bromo and iodo, the lowest l
 - (CH₃)₂CClCH₂CH₂CH₃: **2-chloro-2-methylpentane**.
 
 A displayed formula shows every atom and bond. In a skeletal formula, lines stand for the carbon chain and only the halogen is labelled.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
 
 ### Primary, secondary and tertiary (10.7)
 
@@ -149,6 +167,12 @@ KOH gives two products. Water as solvent favours substitution; ethanol favours e
 3. Products: ethylamine, CH₃CH₂NH₂, and NH₄⁺.
 
 Hence two moles of ammonia. Excess ammonia reduces further substitution of the amine. The specification says SN1 and SN2 are tested in Unit 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
 
 ### Comparing rates of hydrolysis (10.10, 10.12, 10.13)
 

@@ -64,6 +64,12 @@ CaCO₃(s) ⇌ CaO(s) + CO₂(g)
 
 Carbon dioxide escapes as it forms, so the reverse reaction, which needs CO₂, barely happens. The two rates never become equal and the carbonate keeps decomposing. In a sealed vessel the CO₂ would stay and equilibrium could be reached.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
+
 ## 3.2.3(b): le Chatelier's principle
 
 The specification does not ask you to recite a definition, but you need the idea: **if a system at equilibrium is disturbed, the position of equilibrium shifts to oppose the change**. "Position of equilibrium" just means the relative amounts of reactants and products. A shift to the right gives more products. A shift to the left gives more reactants.
@@ -97,6 +103,12 @@ Predict the effect on the equilibrium yield of hydrogen of each change.
 
 **(iii) Adding more steam.** The position shifts to the right to use up some of the added steam. The yield of hydrogen increases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
+
 ### Worked example 3: when pressure does nothing
 
 ```
@@ -104,6 +116,17 @@ N₂(g) + O₂(g) ⇌ 2NO(g)     ΔH = +180 kJ mol⁻¹
 ```
 
 There are 2 gas moles on each side, so changing the pressure does not shift the position. Raising the temperature shifts it right, the endothermic direction, which is why nitrogen monoxide forms in very hot places such as engine cylinders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
+  <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--04-catalyst.webp" width="900" height="1000" alt="Product against time with and without a catalyst: the catalysed curve rises faster but both level at the same equilibrium amount. An energy profile shows the same start and end levels but a lower peak with the catalyst." loading="lazy">
+  <figcaption>A catalyst makes equilibrium arrive sooner but leaves the position and K unchanged.</figcaption>
+</figure>
+
 
 ## 3.2.3(c): Catalysts and equilibrium
 
@@ -176,6 +199,12 @@ Ammonia is condensed out and the leftover nitrogen and hydrogen go back through 
 
 Contrast steam reforming (Worked example 2). Its forward reaction is endothermic, so a high temperature favours both yield and rate. There the limit on temperature comes from cost and plant materials, not from the equilibrium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
+</figure>
+
+
 ## 3.2.3(f): The equilibrium constant, Kc
 
 For a homogeneous reaction:
@@ -205,6 +234,12 @@ Kc = [NO]² / ([N₂][O₂])
 
 Match the significant figures of the data, here 3 (M1.1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+
+
 ### Worked example 6: Kc with a cubed term
 
 For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), equilibrium concentrations at one temperature are [CH₄] = 0.120, [H₂O] = 0.150, [CO] = 0.0500 and [H₂] = 0.160 mol dm⁻³.
@@ -228,6 +263,17 @@ At a different temperature, Kc for the same reaction is 0.0216. An equilibrium m
 ```
 
 Rearrange first, then substitute, and take the cube root at the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
+  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--08-kp-partial-pressure.webp" width="900" height="930" alt="Two aligned bars show mole fractions of N2, H2 and NH3 (0.250, 0.625, 0.125) multiplied by 20.0 MPa to give partial pressures 5.00, 12.5 and 2.50 MPa. Kp = 2.50^2 / (5.00 x 12.5^3) = 6.40 x 10^-4 MPa^-2." loading="lazy">
+  <figcaption>Partial pressure is mole fraction times total pressure, and Kp uses partial pressures of gases only.</figcaption>
+</figure>
+
 
 ## 3.2.3(g): What the size of Kc tells you
 

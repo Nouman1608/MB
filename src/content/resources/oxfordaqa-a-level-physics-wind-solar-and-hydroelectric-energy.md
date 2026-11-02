@@ -61,6 +61,17 @@ Here ρ is the density of air. The specification writes this quantity as E, but 
 
 (c) The speed rises by a factor 1.5, so power rises by 1.5³ = 3.375: P = 0.652 × 3.375 = 2.2 MW.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--01-wind-power-derivation.webp" width="900" height="1210" alt="A cylinder of air of radius r (the blade length) and length vt passes the rotor disc in time t. Volume is pi r squared v t, mass is rho pi r squared v t, kinetic energy is half rho pi r squared v cubed t, so P = half pi r squared rho v cubed. With r = 26.0 m, rho = 1.2 and v = 8.0 m per s, P = 0.652 MW and a turbine delivering 0.42 MW is 64% efficient." loading="lazy">
+  <figcaption>The air reaching the rotor in time t forms a cylinder of length vt, which gives P = ½πr²ρv³.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--02-wind-speed-cubed.webp" width="900" height="1140" alt="Graph of maximum power against wind speed for r = 26.0 m: 0.652 MW at 8 m per s and 2.2 MW at 12 m per s, since 1.5 cubed is 3.375. Bars show doubling v gives 8 times the power and doubling r gives 4 times." loading="lazy">
+  <figcaption>Power depends on v³, so a modest rise in wind speed gives a large rise in power.</figcaption>
+</figure>
+
+
 ### Why all of it cannot be used
 
 - If the turbine took all the kinetic energy, the air would stop behind the rotor and block the flow. Air must leave with kinetic energy, so only a fraction can be extracted.
@@ -70,6 +81,12 @@ Here ρ is the density of air. The specification writes this quantity as E, but 
 ### Wind shadows and farm layout
 
 Air leaving a turbine is slower and more turbulent. A turbine placed directly downwind sits in this wind shadow, receives a lower v, and because power depends on v³ even a small drop in speed costs a lot of power. Turbines are therefore spaced well apart, with extra distance along the prevailing wind direction, so each meets fresh, fast air. The cost is more land or sea area per turbine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--03-wind-shadow-layout.webp" width="900" height="900" alt="Top view of two turbines. Close together, the second sits in the slower, turbulent wind shadow of the first; an illustrative 10% speed drop leaves 0.9 cubed = 73% of the power. Spaced further apart along the wind, the shadow fades and the second turbine meets nearly full-speed air, but needs more land or sea." loading="lazy">
+  <figcaption>Because P ∝ v³, even a small speed loss in a wind shadow costs a lot of power, so turbines are spaced apart.</figcaption>
+</figure>
+
 
 ### Environmental factors
 
@@ -93,6 +110,12 @@ This is an inverse square law: I ∝ 1/r². Doubling the distance cuts the inten
 
 (c) Input = 1.0 × 10³ × 25 = 2.5 × 10⁴ W; output = 0.18 × 2.5 × 10⁴ = 4.5 × 10³ W.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--04-solar-inverse-square.webp" width="900" height="1045" alt="The same beam from the Sun covers 1, 4 and 9 unit squares at distances r, 2r and 3r, so intensity is I, I/4 and I/9. With the Sun at 3.8 x 10^26 W, intensity is 1.34 x 10^3 W per square metre at the top of Earth's atmosphere and 8.99 x 10^3 at Mercury, 6.69 times larger." loading="lazy">
+  <figcaption>Intensity falls as 1/r² because the same power spreads over a sphere of area 4πr².</figcaption>
+</figure>
+
+
 ### Solar cell V-I characteristic
 
 A solar cell in light is a source of emf. Its output current stays almost constant as the terminal voltage rises, then falls steeply to zero at the open-circuit voltage. The power delivered is P = IV, which is zero at both ends of the curve and has a maximum near the "knee". Maximum power is found by calculating IV at each point and picking the largest. The load resistance that gives it is R = V/I at that point.
@@ -108,12 +131,24 @@ A solar cell in light is a source of emf. Its output current stays almost consta
 (b) Load resistance at maximum power = 0.50 / 0.055 = 9.1 Ω.
 (c) Light power on the cell = 1.0 × 10³ × 2.2 × 10⁻⁴ = 0.22 W, so efficiency = 0.0275 / 0.22 = 12.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--05-solar-cell-vi.webp" width="900" height="1250" alt="Two graphs against voltage 0 to 0.6 V from the lesson table. Current stays near 62 mA then falls steeply to zero at 0.60 V. Power IV is zero at both ends with a maximum of 27.5 mW at 0.50 V and 55 mA, where load resistance is 9.1 ohms; efficiency is 27.5 over 220 = 12.5%." loading="lazy">
+  <figcaption>Maximum power is at the knee of the V–I curve, where IV is largest.</figcaption>
+</figure>
+
+
 ### Arrays
 
 - **Series:** cell voltages add; the same current flows through all, so the weakest (or shaded) cell limits the current.
 - **Parallel:** currents add; the voltage stays that of one cell.
 
 **Worked example 4.** Each cell gives 0.50 V and 55 mA at maximum power. A module has 4 identical strings in parallel, each string having 12 cells in series. Voltage = 12 × 0.50 = 6.00 V. Current = 4 × 55 mA = 220 mA. Power = 6.00 × 0.22 = 1.32 W. Check: 48 cells × 0.50 V × 0.055 A = 1.32 W.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--06-solar-array.webp" width="900" height="1030" alt="Forty-eight cells drawn as 4 parallel strings of 12 in series. Series cell voltages add (12 x 0.50 = 6.00 V) and a shaded cell limits the string current; parallel currents add (4 x 55 = 220 mA). Power is 6.00 x 0.22 = 1.32 W." loading="lazy">
+  <figcaption>Series adds voltages; parallel adds currents.</figcaption>
+</figure>
+
 
 ### Required practical 10: inverse square law with an LDR
 
@@ -135,6 +170,12 @@ If G ∝ 1/(d + x₀)², then 1/√G = (d + x₀)/√k, a straight line against 
 
 A best-fit line has gradient 2.04 mS^−½ m⁻¹ and intercept 0.0243 on the vertical axis. The line crosses the d axis at −0.0243/2.04 = −0.0119 m, so x₀ ≈ 1.2 cm: the filament sits about 1.2 cm behind the point where the distance was read. The data support an inverse square relationship once this offset is included. For uncertainty method, see [measurements and their errors](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--09-rp10-ldr-inverse-square.webp" width="900" height="1190" alt="A lamp and an LDR on a metre rule in a dark room, with conductance G = 1/R measured at distances d read from the rule; the filament is a distance x0 behind the reading point. A graph of 1 over root G against d for the lesson data is a straight line of gradient 2.04 and intercept 0.0243 that crosses the d axis at -0.012 m, so x0 is about 1.2 cm." loading="lazy">
+  <figcaption>Plotting 1/√G against d gives a straight line whose negative x-intercept is −x₀.</figcaption>
+</figure>
+
+
 ## 3.13.4 Hydroelectric power and pumped storage
 
 ### Station components and energy chain
@@ -148,6 +189,12 @@ Water falling through a height h (the head) loses mgh of potential energy per ma
 Ignoring losses, mgh = ½mv² gives v = √(2gh).
 
 **Worked example 6.** Water of density 1000 kg m⁻³ falls through 120 m at 45 m³ s⁻¹. Available power = 1000 × 45 × 9.81 × 120 = 5.30 × 10⁷ W = 53.0 MW. At 88% overall efficiency the electrical output is 46.6 MW.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--07-hydro-station.webp" width="900" height="1220" alt="Schematic section: a high reservoir feeds a penstock down a head of 120 m to a turbine and generator, with water leaving to a lower level. Energy chain: gravitational potential, kinetic of water, kinetic of turbine, electrical. P = 1000 x 45 x 9.81 x 120 = 53.0 MW, or 46.6 MW at 88% efficiency; with no losses v = root 2gh = 48.5 m per s." loading="lazy">
+  <figcaption>Water falling through the head h turns a turbine and generator: P = ρQgh.</figcaption>
+</figure>
+
 
 ### Water flowing through a turbine
 
@@ -166,6 +213,12 @@ Base-power stations run continuously at steady output to meet the constant deman
 At times of low demand, surplus electricity drives pumps that lift water from a lower reservoir to an upper one, storing gravitational potential energy. At times of high demand the water is released back through the turbines to generate. Pumped storage is not a source: it uses more energy to pump than it later returns.
 
 **Worked example 7.** An upper reservoir holds 2.0 × 10⁶ m³, with a mean head of 300 m. Energy stored = ρVgh = 1000 × 2.0 × 10⁶ × 9.81 × 300 = 5.89 × 10¹² J, which is 1635 MWh. At 90% generating efficiency the output is 1470 MWh, enough to run at 400 MW for 3.68 h. If pumping is 88% efficient too, the round trip returns 0.88 × 0.90 = 79% of the energy used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy--08-pumped-storage.webp" width="900" height="1240" alt="At low demand surplus electricity drives a pump lifting water to the upper reservoir; at high demand water is released through a turbine. With pumping 88% and generating 90% efficient the round trip returns 0.88 x 0.90 = 79% of the energy used, so pumped storage is a store, not a source." loading="lazy">
+  <figcaption>Pumped storage stores energy at low demand and returns less than it uses.</figcaption>
+</figure>
+
 
 ## Common errors
 

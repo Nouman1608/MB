@@ -64,6 +64,17 @@ Other causes to add when asked for more: little education, discrimination, livin
 
 **Worked reminder: household line.** Household of three, absolute line 60 per person, so the household line is 3 x 60 = **180**. Unemployed with a benefit of 90 a month: 90 / 3 = 30 per person, far below 60. One earner on 210: 210 / 3 = 70 per person, above 60 but only by a little. Always divide household income by the number of people before comparing with the line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--01-poverty-two-lines.webp" width="900" height="1130" alt="Two bar charts of ten household incomes per person. With the lesson's survey the absolute line is 90 and the relative line (75% of the median 135) is 101.25, so 3 and 4 households are below them. After every income rises 20%, the absolute line stays 90 (2 households below) but the relative line becomes 121.5 and still 4 households are below it." loading="lazy">
+  <figcaption>Equal growth cuts absolute poverty but leaves relative poverty unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--02-poverty-causes.webp" width="900" height="940" alt="Horizontal bars of income per person against a poverty line of 90. A working adult in a household of four has 105; unemployment gives 50, illness 58.5, a low wage 64.5 and old age (a couple on 150) 75, all below the line." loading="lazy">
+  <figcaption>Each cause lowers income per person below the 90 line.</figcaption>
+</figure>
+
+
 ## 5.2.3 Policies
 
 | Policy | Mechanism | Strength | Limitation |
@@ -90,6 +101,47 @@ The share taken climbs as income climbs, so the tax is progressive. The 1,500 ea
 **Worked reminder: benefit withdrawal.** A worker earns 80 more and loses 52 of benefit. Keeps 80 - 52 = 28. Withdrawal rate = 52 / 80 = **65%**. Evaluation: very high rates make extra work hardly worthwhile.
 
 **Elasticity link for the minimum wage.** Response of employment = % change in employment / % change in wage. A wage rise of 25% with employment down 5% gives 5 / 25 = 0.2 (inelastic): the job loss is small, and the workers who stay are better off. If the figure is above 1, the pay bill of the group falls and the policy backfires for them as a group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--03-poverty-progressive-tax.webp" width="900" height="950" alt="A bar chart of average tax rate for monthly incomes 180, 400, 900 and 2,400 (0%, 7.5%, 18.3%, 28.75%) using the lesson's bands, and a comparison showing richest-to-poorest income falling from 13.3 times before tax to 9.5 times after tax." loading="lazy">
+  <figcaption>Average tax rate rises with income, narrowing the gap between richest and poorest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--10-gdp-per-head-growth-45-15.webp" width="900" height="830" alt="Real GDP rises 4.5 percent from an index of 100 to 104.5 while population rises 1.5 percent from 100 to 101.5. Real GDP per head grows by 1.045 divided by 1.015 minus 1, which is 2.96 percent, because the output is shared among more people." loading="lazy">
+  <figcaption>Output rising 4.5 percent shared among 1.5 percent more people raises output per head by 2.96 percent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--11-richest-tenth-and-relative-gain.webp" width="900" height="950" alt="Ten household incomes per person per month in Country Q add to 1,750; the richest household has 500, which is 28.6 percent of the total. If the poorest household rises 2 percent from 40 to 40.8 while the median rises 20 percent from 135 to 162, its income falls from 29.6 percent to 25.2 percent of the median." loading="lazy">
+  <figcaption>The richest tenth takes 500 of the 1,750 total, and a 2 percent gain for the poorest household leaves it further behind the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--12-education-payback-2-5-years.webp" width="900" height="860" alt="A training course costs 1,800 and raises earnings by 60 a month, 720 a year. Cumulative extra earnings reach 720, 1,440 and 2,160 after years 1, 2 and 3, crossing the 1,800 cost after 2.5 years." loading="lazy">
+  <figcaption>A course costing 1,800 that adds 60 a month earns back its cost in 2.5 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--13-benefit-withdrawal-rate.webp" width="900" height="540" alt="A worker earns 100 more but loses 60 of benefit. Only 40 is kept. The withdrawal rate is 60 divided by 100, or 60 percent, which can reduce the incentive to work." loading="lazy">
+  <figcaption>If earning 100 more costs 60 of benefit, the worker keeps only 40, so working is poorly rewarded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-poverty--14-minimum-wage-400-300.webp" width="900" height="850" alt="Unskilled labour market in Country Q with equilibrium wage 2.0 and 400 workers. A minimum wage of 3.0 is a 50 percent rise; demand falls to 300 while supply rises to 500, so 200 more workers want jobs than are available. Employment falls 25 percent, so the response is 25 divided by 50, which is 0.5, and the wage bill rises from 800 to 900." loading="lazy">
+  <figcaption>A minimum wage of 3.0 cuts jobs from 400 to 300 and leaves 200 more workers wanting jobs than are available.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

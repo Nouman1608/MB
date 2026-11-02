@@ -49,6 +49,17 @@ Standard forms (the specification gives no formulas here):
 
 Aim = general direction. Objective = specific, measurable target (a standard distinction; the specification does not define the words). Objectives can conflict, so a judgement needs a reason: the answer depends on the stage of the business and what the owner values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--01-market-share-target.webp" width="900" height="810" alt="Three bars for Alder Bakes. 360,000 dollars of a 4,800,000 dollar market is 7.5 percent. A 9 percent target needs 432,000 dollars if the market stays put and 453,600 if it grows 5 percent to 5,040,000." loading="lazy">
+  <figcaption>A growing market raises the revenue needed to hit the same share target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## 2. Why objectives change (1.1.2)
 
 Five triggers, each needing a consequence:
@@ -75,6 +86,27 @@ Key distinctions:
 - **Ownership** = who holds the business. **Control** = who makes the decisions. They are the same person in a sole trader and different people in a larger company.
 - **Shareholder** = owns shares. **Stakeholder** = any group affected by or interested in the business.
 - **Dividend** = the part of profit paid to shareholders. **Retained profit** = the part kept for the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--02-profit-shares.webp" width="900" height="750" alt="Calder Ltd keeps 36,000 of 90,000 dollars and pays 54,000 as dividends, shared 32,400, 13,500 and 8,100 by 60, 25 and 15 percent holdings. A partnership profit of 72,000 shares as 36,000, 21,600 and 14,400." loading="lazy">
+  <figcaption>Companies split profit between retention and dividends; partners simply share it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--03-liability-shortfall.webp" width="900" height="830" alt="Debts of 150,000 dollars against assets of 100,000 leave a 50,000 dollar shortfall. A sole trader must pay it personally; limited company shareholders lose only their investment." loading="lazy">
+  <figcaption>Limited liability caps shareholders' loss; unlimited liability does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
 
 ## 4. Public corporations: for and against
 
@@ -124,6 +156,12 @@ The one-line meanings here and the for-and-against points in section 4 are stand
 | Public limited company and public corporation | Owned by shareholders, and owned by the state |
 | Franchisor and franchisee | The brand owner, and the operator who pays to use the brand |
 | Social enterprise and a business run only for its owners | Trades to earn revenue with a social purpose, and trades mainly for the owners' gain |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--04-franchise-profit.webp" width="900" height="770" alt="Revenue of 210,000 dollars less costs of 150,000 and an 8 percent fee of 16,800 leaves profit of 43,200 dollars." loading="lazy">
+  <figcaption>The franchisor fee reduces the franchisee's profit.</figcaption>
+</figure>
+
 
 ## 9. Evaluating a choice of ownership
 

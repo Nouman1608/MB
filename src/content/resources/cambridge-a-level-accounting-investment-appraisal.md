@@ -59,6 +59,17 @@ Differences between profit and cash flow include:
 
 The three inflows total 141,000, which is 51,000 more than the 90,000 outlay. The forecast profits total only 36,000, because depreciation and the apportioned costs are deducted in arriving at them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--01-profit-to-cash-inflow.webp" width="900" height="940" alt="Oswick Printworks: three stacked bars add profit, 30,000 depreciation and 5,000 apportioned costs to reach cash inflows of 42,000, 48,000 and 51,000. Inflows total 141,000 against an outlay of 90,000, while profits total only 36,000." loading="lazy">
+  <figcaption>Depreciation and apportioned costs are deducted in profit but are not cash flows, so add them back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--01-relevant-cash-flows.webp" width="900" height="1050" alt="Wexcombe Cider example. Counted: canning line, installation, sale of old fillers (year 0 outlay 216,000) and resale in year 5. Left out and crossed: depreciation, engineer fee, head-office share and loan interest, with a reason for each." loading="lazy">
+  <figcaption>Include only future cash caused by the project; leave out depreciation, sunk costs, unchanged overheads and (OxfordAQA) loan interest.</figcaption>
+</figure>
+
+
 ## Payback
 
 **Payback** is the time taken for cumulative net cash inflows to repay the initial outlay. For even inflows, divide the outlay by the annual inflow. For uneven inflows, accumulate year by year and assume each year's cash arrives evenly through the year.
@@ -72,6 +83,12 @@ For Oswick, cumulative inflow is 42,000 after year 1 and 90,000 after year 2, so
 | Simple to calculate and explain | Ignores cash flows after the payback date |
 | Favours quick return of cash, which helps liquidity | Ignores the time value of money |
 | Reduces exposure to forecasts far into the future | The target period is a judgement, not a calculated figure |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--02-payback-running-total.webp" width="900" height="1010" alt="Bars show the running total of cash for the Kestrel press from -120 to +80 thousand pounds. The total crosses zero between years 2 and 3. 34,000 divided by 52,000 times 12 gives 7.8 months, so payback is 2 years 8 months." loading="lazy">
+  <figcaption>Payback is when the running total of cash turns positive.</figcaption>
+</figure>
+
 
 ## Accounting rate of return (ARR)
 
@@ -91,6 +108,17 @@ Total inflows 200,000, less cost 120,000, gives total profit of 80,000. Average 
 | Uses profit over the whole life | Based on profit, not cash flow |
 | Gives a percentage that is easy to compare with a target | Ignores when profits arise |
 | Links to profit measures managers already use | A percentage hides the scale of the project |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--02-tarnhaven-arr.webp" width="900" height="980" alt="Total inflows of 200,000 less the 120,000 cost give 80,000 profit, or 16,000 a year over 5 years. The investment falls to nil over 5 years so the average is 60,000. ARR is 16,000 divided by 60,000, which is 26.7 percent." loading="lazy">
+  <figcaption>ARR divides average yearly profit by average investment, which is half the cost with no residual value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--01-arr-tarnhaven.webp" width="900" height="850" alt="Tarnhaven net cash inflows of 40, 45, 50, 35 and 30 thousand total 200,000. Less the 120,000 cost, total profit is 80,000, so average profit is 16,000 and average investment 60,000. ARR is 26.7%." loading="lazy">
+  <figcaption>ARR works from total inflows less cost, then divides average profit by average investment.</figcaption>
+</figure>
+
 
 ## Time value of money and net present value (NPV)
 
@@ -120,6 +148,17 @@ Here r is the business's cost of capital (the required rate of return) as a deci
 | Uses all the cash flows | More complex to calculate and explain |
 | Gives a dollar value added | Depends on forecasts that may prove wrong |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--03-tarnhaven-npv.webp" width="900" height="985" alt="Each year of Tarnhaven cash flow is shown beside its present value at 10 percent: 40,000 becomes 36,364, 45,000 becomes 37,188, 50,000 becomes 37,565, 35,000 becomes 23,905 and 30,000 becomes 18,627. These total 153,649, and after the 120,000 outlay the NPV is 33,649." loading="lazy">
+  <figcaption>Later cash is worth less today, and a positive NPV means the project beats the required return.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--02-npv-tarnhaven.webp" width="900" height="880" alt="A waterfall of Tarnhaven present values at 10%: outlay -120,000, then 36,364, 37,188, 37,565, 23,905 and 18,627, reaching an NPV of 33,649." loading="lazy">
+  <figcaption>Each year is cash flow times its discount factor; year 0 stays at 1.0000.</figcaption>
+</figure>
+
+
 ## Internal rate of return (IRR)
 
 The **IRR** is the discount rate at which NPV is zero. Calculate NPV at two rates, one giving a positive NPV and one a negative NPV, then interpolate:
@@ -139,6 +178,17 @@ Interpolation assumes NPV falls in a straight line between the two rates, so the
 | Recognises the time value of money | Interpolation only estimates the rate |
 | A percentage compared directly with the cost of capital | Does not show the dollar value added |
 | Does not need the cost of capital to be fixed first | Can rank projects differently from NPV |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--04-tarnhaven-irr.webp" width="900" height="990" alt="NPV falls as the discount rate rises: 33,649 at 10 percent, 2,452 at 20 percent and minus 9,433 at 25 percent. Joining the 20 and 25 percent points with a straight line crosses zero at about 21.0 percent, the IRR, above the 10 percent cost of capital." loading="lazy">
+  <figcaption>The IRR is the rate at which NPV is zero; interpolation estimates it from two rates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--03-irr-tarnhaven.webp" width="900" height="960" alt="NPV against discount rate for Tarnhaven: 33,649 at 10%, 2,452 at 20% and -9,433 at 25%. The straight line between 20% and 25% crosses zero near 21.0%, the IRR estimate, above the 10% cost of capital." loading="lazy">
+  <figcaption>IRR is the rate where NPV is zero, estimated by a straight line between two rates.</figcaption>
+</figure>
+
 
 ## Making a recommendation
 
@@ -161,6 +211,17 @@ Techniques can disagree, so a recommendation needs a reasoned choice, not one ca
 
 X returns cash faster, which suits a business short of liquidity. Y adds about 4,958 more value in present terms and has the higher ARR, but its cash comes later and is less certain. If cash is not tight, **Y** is the better choice because NPV measures the value added, and both IRRs are well above 10%. A different cash position or a high-risk forecast could justify X.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--02-four-techniques.webp" width="900" height="970" alt="Machine X and Machine Y are compared on payback (1.75 and 2.4 years), ARR (25.0% and 37.5%), NPV at 10% (13,537 and 18,495) and IRR (20.9% and 19.7%). Payback and IRR favour X; ARR and NPV favour Y, which adds about 4,958 more value but later." loading="lazy">
+  <figcaption>Techniques can disagree, so a recommendation needs a reasoned choice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--04-technique-grid.webp" width="900" height="884" alt="A grid of payback, ARR, NPV and IRR against four criteria: counts every year, uses cash, allows for time value, shows dollar value added. Only NPV has all four; payback answers in years, ARR and IRR in percent." loading="lazy">
+  <figcaption>The four techniques differ in what they count and what they tell you.</figcaption>
+</figure>
+
+
 ## Non-financial factors
 
 The numbers do not capture everything. Factors to weigh include:
@@ -173,6 +234,12 @@ The numbers do not capture everything. Factors to weigh include:
 - Reliability of the forecasts, and the risk of changing technology.
 
 A project with a positive NPV may be rejected because of its social or environmental effect. A project with a weak return may be accepted for strategic reasons. A balanced answer says which factors matter most here and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--05-non-financial-factors.webp" width="900" height="760" alt="Six cards list employees, customers, environment, suppliers and community, strategic fit and forecast risk. A positive NPV project may be rejected for environmental harm and a weak-return project accepted for strategic fit." loading="lazy">
+  <figcaption>Numbers can say yes while non-financial factors say no, so weigh both.</figcaption>
+</figure>
+
 
 ## Common errors
 

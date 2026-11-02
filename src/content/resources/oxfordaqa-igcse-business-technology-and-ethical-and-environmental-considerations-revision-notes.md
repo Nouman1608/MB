@@ -69,6 +69,27 @@ Method for a "wider markets" answer, in steps:
 
 Stakeholders to link to: owners, employees, customers, suppliers, lenders, the local community. Name the stakeholder and say why the method suits them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--02-video-meetings-saving.webp" width="900" height="846" alt="Four trips at 85 pounds make 340 pounds of travel a month. Video software costs 29 pounds, leaving 311 pounds saved a month, or 3,732 pounds a year." loading="lazy">
+  <figcaption>Video meetings save 311 pounds a month, but face-to-face contact is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--03-email-or-video.webp" width="900" height="860" alt="Email is cheap, fast and leaves a record but can go unread and tone is misjudged; it suits telling 200 customers a closure date. Video calls save travel and let people see faces and share files but need good internet and are less personal; they suit tense talks with an overseas supplier." loading="lazy">
+  <figcaption>Choose the method to fit the stakeholder and the message.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
+
 ## 3.2.2 Ethical considerations
 
 ### Key ideas
@@ -102,6 +123,22 @@ Stakeholders to link to: owners, employees, customers, suppliers, lenders, the l
 3. Show a possible benefit, and when it arrives.
 4. Compare, then judge using something from the case, such as customers' attitudes or the size of the cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--12-fair-price-profit.webp" width="900" height="880" alt="Profit falls from 1,500 to 1,200 pounds a month when flour rises from 0.40 to 0.46 a loaf, a fall of 20%. With 1.14 contribution per loaf, 264 extra loaves, about 5.3% more, restores the 300." loading="lazy">
+  <figcaption>A 20% profit fall can be recovered with about 5% more sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ## 3.2.2 Environmental considerations
 
 Society and consumers expect more environmental responsibility in decision-making. A business weighs the costs against the benefits of behaving this way.
@@ -120,6 +157,17 @@ Society and consumers expect more environmental responsibility in decision-makin
 | Slower or more costly delivery | Customers who prefer green products |
 | Time to plan changes | Lower waste costs, fewer complaints |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--13-recycled-paper.webp" width="900" height="860" alt="Recycled paper adds 5,760 pounds a year; sorting offcuts saves 1,900, so the net extra cost is 3,860, which is 6.2% of annual profit of 62,000." loading="lazy">
+  <figcaption>The net cost of recycled paper is a small share of profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+
 ## 3.2.2 Sustainability
 
 - Usual definition (the specification gives none): serving today's demand without leaving later generations short of what they will need.
@@ -127,6 +175,12 @@ Society and consumers expect more environmental responsibility in decision-makin
 - Using scarce resources: limited materials get dearer and may run out.
 - Trade-off with profit: spending now cuts profit now; savings and reputation come later.
 - Always ask over what time scale the benefit arrives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--14-solar-payback.webp" width="900" height="910" alt="Cumulative cash starts at minus 30 thousand pounds and rises 7.5 thousand a year, crossing zero at 4 years and reaching plus 45 thousand at year 10." loading="lazy">
+  <figcaption>Panels pay back in 4.0 years and gain 45,000 over their 10-year life.</figcaption>
+</figure>
+
 
 ## Calculations you may need
 
@@ -160,6 +214,12 @@ A workshop has 10 staff paid £9 an hour. Each is allowed an extra 20 minutes a 
 ### A model chain for e-commerce
 
 "The business sells online (point), so customers in other regions can order without visiting the shop (reason). This raises potential sales revenue (effect). However, delivery and returns add costs, so profit may rise by less than revenue (limit)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations--11-website-shift.webp" width="900" height="980" alt="Monthly sales rise from 18,000 to 26,100 pounds, up 45%, but 1,500 moved from the shop to the website. Extra gross profit of 4,860 less 3,300 of costs leaves 1,560 more profit a month." loading="lazy">
+  <figcaption>Revenue rose 45% but profit rose by far less.</figcaption>
+</figure>
+
 
 ### A model chain for an environmental decision
 

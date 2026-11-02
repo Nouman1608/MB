@@ -64,6 +64,17 @@ The plan has two audiences. Inside the business it forces the owner to test the 
 
 Her funding section shows where the 52,000 will come from: personal savings 15,000, a loan from her uncle 10,000 and a bank loan 27,000, which is also 52,000. A lender can see that the plan covers every cost and that the owner is putting in her own money. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--06-startup-costs-funding.webp" width="900" height="960" alt="Two equal stacked columns. Costs: 28,000 kayaks, 9,000 hut, 11,000 inventory, 4,000 marketing = 52,000. Funding: 15,000 savings, 10,000 uncle loan, 27,000 bank loan = 52,000." loading="lazy">
+  <figcaption>A business plan's funding section must cover every start-up cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
+
 ## 2 Internal finance
 
 Internal finance comes from within the business or its owner.
@@ -73,6 +84,12 @@ Internal finance comes from within the business or its owner.
 - **Sale of assets (2c).** Selling equipment, vehicles or property raises cash without borrowing. If the asset is still needed, the business may have to rent it back, and it may sell below its book value.
 
 Internal finance suits small, low-risk needs and owners who want full control. It is rarely enough for rapid expansion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
 
 ## 3 External finance
 
@@ -112,6 +129,32 @@ External finance comes from outside the business.
 
 Match the finance to four things: how long the money is needed, how much is needed, how much control the owner will give up, and the risk of the business. Short-term gaps suit an overdraft or trade credit. Long-term assets suit loans, leasing or share capital. High-risk, high-growth businesses are more likely to attract business angels or venture capital than banks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--07-loan-reducing-interest.webp" width="900" height="950" alt="Three bars, each 9,000 capital plus interest of 1,890, 1,260 and 630 on balances of 27,000, 18,000 and 9,000. Total interest is 3,780 and total repaid 30,780." loading="lazy">
+  <figcaption>Interest falls each year because it is charged on the balance still owed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--08-lease-vs-buy.webp" width="900" height="1020" alt="A single bar of 14,500 to buy is compared with 36 monthly blocks of 450 totalling 16,200. The extra 1,700 is marked." loading="lazy">
+  <figcaption>Leasing spreads the cost but costs 1,700 more in total than buying.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--06-overdraft-cost.webp" width="900" height="920" alt="Twelve month blocks with three highlighted, then 4,000 x 14% = 560 a year and 560 x 3/12 = 140. Two bars compare 560 for twelve months with 140 for three." loading="lazy">
+  <figcaption>An overdraft used for three months costs 140.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--10-finance-matching.webp" width="900" height="950" alt="Four questions (how long, how much, how much control, how risky) lead to matches: short cash gap to overdraft or trade credit; long-term asset to loan, leasing or share capital; high risk and growth to business angels or venture capital; full control to owner savings or retained profit." loading="lazy">
+  <figcaption>Matching a source of finance to the need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+
 ## 4 Forms of business
 
 ### Sole trader, partnership and private limited company (4a)
@@ -131,6 +174,22 @@ Match the finance to four things: how long the money is needed, how much is need
 
 A public limited company (plc) can offer its shares to the public. Stock market flotation is the process of selling shares to the public for the first time and getting them listed. Advantages: large sums of capital, easier future share issues and higher profile. Disadvantages: costs of flotation, more disclosure, the pressure of shareholders expecting profits and dividends, and a risk of takeover as original owners lose control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--09-franchise-first-year-cost.webp" width="900" height="790" alt="5% of 180,000 revenue is 9,000. Added to the 15,000 entry fee, the first-year cost is 24,000." loading="lazy">
+  <figcaption>A franchisee pays an entry fee and a share of revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--07-social-lifestyle-online.webp" width="900" height="990" alt="Three icon rows: social enterprise (coin to heart, profit reinvested in aims), lifestyle business (sun, chosen way of life, stays small), online business (browser and globe, wide market, intense competition)." loading="lazy">
+  <figcaption>What social, lifestyle and online businesses are for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--08-flotation-pros-cons.webp" width="900" height="870" alt="A balance with an Advantages card (large capital, easier later share issues, higher profile) and a Disadvantages card (flotation costs, disclosure, profit and dividend pressure, takeover risk)." loading="lazy">
+  <figcaption>Gains and costs of floating on the stock market.</figcaption>
+</figure>
+
+
 ## 5 Liability
 
 ### Limited and unlimited liability (5a)
@@ -147,6 +206,12 @@ Advantages of limited liability: it protects personal assets and makes investors
 ### Finance appropriate to each (5b)
 
 Unlimited-liability businesses rely on personal savings, retained profit, loans and family and friends, and may find outside shareholders unavailable. Limited-liability companies can also issue shares, attract business angels and venture capital, and a plc can float on the stock market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--09-ardent-kiln-liability.webp" width="900" height="980" alt="Assets 48,000 against debts 75,000 leave a 27,000 shortfall. A sole trader with 40,000 personal assets pays 27,000 and keeps 13,000. A Ltd shareholder who paid 20,000 loses at most 20,000 and unpaid creditors bear the rest." loading="lazy">
+  <figcaption>Unlimited versus limited liability with the Ardent Kiln numbers.</figcaption>
+</figure>
+
 
 ## Common errors
 

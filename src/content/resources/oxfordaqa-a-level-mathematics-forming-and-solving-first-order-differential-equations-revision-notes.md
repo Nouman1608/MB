@@ -39,6 +39,12 @@ Rules:
 - Match the sign to the words: "increases" gives positive, "decreases" gives negative.
 - "Rate of change of volume" is dV/dt. If the question gives r, use dV/dt = (dV/dr)(dr/dt).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--08-parametric-area-backwards.webp" width="900" height="740" alt="The curve x = 5 cos t, y = 2 sin t for 0 ≤ t ≤ π is the top half of an ellipse. It starts at (5, 0), passes (0, 2) and ends at (−5, 0), so x decreases as t increases and dx/dt = −5 sin t is negative. Integrating y dx/dt from t = π down to 0 gives the positive area 5π, about 15.7." loading="lazy">
+  <figcaption>When x runs backwards, take the limits in the order that makes x increase, otherwise the area comes out negative.</figcaption>
+</figure>
+
+
 ## Method for separable equations
 
 ```
@@ -50,6 +56,12 @@ Rules:
 ```
 
 Check that variables really separate. dy/dx = x + y does not, because the right side cannot be written as a product of a function of x and a function of y. dy/dx = x e^y does, and so does dy/dx = (x + 1)/y.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--01-family-of-solutions.webp" width="900" height="920" alt="A slope field for dy/dx = 3x²y with the solution curves y = Ae^(x³) for A = 0.5, 1, 2 and 3. Each curve follows the short gradient marks. The thick curve through (0, 2) is the particular solution with A = 2; the others share the same equation but have different values of the constant." loading="lazy">
+  <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
+</figure>
+
 
 ## Key results
 
@@ -156,6 +168,12 @@ Setting the rate equal to zero finds the limiting value without solving the equa
 - dm/dt = −km with k > 0 and dm/dt = km with k < 0 describe the same decay. Do not mix them.
 - Rate of change of V and rate of change of r are different quantities. Link them with the chain rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Write an equation for "the rate of increase of N is proportional to the square of N".
@@ -193,6 +211,12 @@ Setting the rate equal to zero finds the limiting value without solving the equa
 - Applying the initial condition to the wrong quantity (for example using T = 85 in place of T − 20 = 65).
 - Not answering the question asked: the time, the amount, or the limiting value, with units.
 - Treating dV/dt and dr/dt as the same thing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

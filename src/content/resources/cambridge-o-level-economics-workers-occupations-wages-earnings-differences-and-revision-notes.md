@@ -47,6 +47,12 @@ These notes condense section 3.3 (Workers) of the Cambridge O Level Economics 22
 
 *Reminder.* A worker earns 9 an hour for 40 hours and 6 hours of overtime at time-and-a-half. Overtime = 6 × 9 × 1.5 = 81. Weekly pay = 40 × 9 + 81 = 441.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--06-eco52-pay-per-hour.webp" width="900" height="860" alt="Three bar comparisons: Job A pays 2,640 and Job B 2,420 a month; time committed is 220 and 187 hours including commuting; pay per hour committed is 12.00 and 12.94." loading="lazy">
+  <figcaption>Higher headline pay can mean lower pay per hour once travel time is counted.</figcaption>
+</figure>
+
+
 ## 3.3.2 Wage determination
 
 **Labour market diagram.** Vertical axis: wage rate. Horizontal axis: quantity of labour. Demand slopes down, supply slopes up, and the equilibrium wage and employment are where they cross. Label D, S, the equilibrium wage and quantity.
@@ -68,6 +74,32 @@ These notes condense section 3.3 (Workers) of the Cambridge O Level Economics 22
 **Evaluation points on a minimum wage.** For: helps low-paid workers, may raise motivation and cut staff turnover. Against: unemployment if set too high, higher prices, firms may replace workers with machines, harder to enforce in informal work. The size of the effect depends on how far above equilibrium it is and how responsive firms are.
 
 Other government policies: equal pay laws, training subsidies, taxes on earnings, public sector pay decisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--07-eco52-tailors-min-wage.webp" width="900" height="1010" alt="Labour market diagram for tailors: equilibrium wage 10 with 600 tailors. A minimum wage of 12 gives demand 480 and supply 780, so 300 lack jobs and 120 jobs are lost (20%)." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for those employed but reduces employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--08-eco52-crowding.webp" width="900" height="1030" alt="Supply shifts right from S0 to S1 along a downward demand curve; the wage falls from W0 to W1 and employment rises from Q0 to Q1. Bars show men at 14.0 and women at 11.9 an hour, a 15.0% gap." loading="lazy">
+  <figcaption>Crowding into fewer occupations raises supply and lowers pay there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
 
 ## 3.3.3 Differences in earnings
 
@@ -91,6 +123,22 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 
 *Sector shares reminder.* In Country B (illustrative), employment shares move from primary 30%, secondary 25%, tertiary 45% to primary 20%, secondary 25%, tertiary 55%. The shares must sum to 100% each time. Because tertiary pay is higher in this example, average earnings rise even if no sector's pay changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--09-eco52-training-payback.webp" width="900" height="910" alt="A bar shows training costs 33,000 (27,000 earnings given up plus 6,000 fees). A line of net gain rises 6,000 a year from -33,000 and reaches zero at 5.5 years." loading="lazy">
+  <figcaption>Higher skilled pay compensates for the cost and delay of training.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--04-un172-public-private.webp" width="900" height="800" alt="Two bars show monthly packages. Public sector: basic 2,100 plus a 12 percent pension of 252 makes 2,352. Private sector: basic 2,300 plus a 4 percent pension of 92 makes 2,392. The private package is better by 40, about 1.7 percent." loading="lazy">
+  <figcaption>Compare whole packages, not basic pay alone: the private package wins by 40 despite the smaller pension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--05-un172-sector-earnings.webp" width="900" height="820" alt="Bars show average annual earnings in thousands: primary 6.0, secondary 9.0 and tertiary 12.6. The 6.6 gap between tertiary and primary is 110 percent of the primary figure 6.0 but 52.4 percent of the tertiary figure 12.6, so the base decides the percentage." loading="lazy">
+  <figcaption>The same 6.6 gap is 110% more or 52.4% less depending on the base.</figcaption>
+</figure>
+
+
 ## 3.3.4 Division of labour and specialisation
 
 *Reminder.* A bakery has 4 workers. Alone, each makes 25 loaves a day: output 100. With one worker mixing, one shaping, one baking and one packing, output is 160. Gain = (160 − 100) ÷ 100 = 60%. Output per worker rises from 25 to 40.
@@ -102,6 +150,17 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 | Economy | More output, lower prices, exports | Structural unemployment, dependence on a few industries, occupational immobility |
 
 **Chain of reasoning.** Specialisation raises output per worker, so unit labour cost falls, so the firm can cut prices or raise profit. If the work is repetitive, motivation may fall and absence may rise, which can offset part of the gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--06-un172-shirt-division.webp" width="900" height="880" alt="Three rows of six workers. Each working alone makes 10 shirts: 60 in total at 4.00 labour cost each. Split into cutting, stitching and finishing they make 20 each: 120 shirts at 2.00 each. If one stitcher is absent, output falls to 60, a 50 percent fall caused by losing 16.7 percent of staff." loading="lazy">
+  <figcaption>Division of labour doubles output per worker but makes the line depend on every stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -143,3 +202,9 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, section 3.3 (Workers), Cambridge Assessment International Education, part of Cambridge University Press & Assessment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+

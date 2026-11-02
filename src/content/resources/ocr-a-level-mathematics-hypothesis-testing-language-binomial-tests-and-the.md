@@ -111,6 +111,12 @@ Critical region: X ≤ 4 or X ≥ 14. Actual significance level: 0.0189 + 0.0214
 
 Now suppose 4 customers order a hot drink. Using the p-value, 2 × P(X ≤ 4) = 2 × 0.0189 = 0.0377 (3 s.f.), less than 0.10. Reject H₀. The critical region gives the same decision, because 4 is in it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--03-type-i-and-ii-errors.webp" width="900" height="1060" alt="Two bar charts with critical region X at most 4 or at least 14 for n = 20. If H0 (p = 0.45) is true the chance of rejecting it, a Type I error, is 0.0403. If the true p is 0.7 the chance of keeping H0, a Type II error, is 0.392 (0.762 if the true p is 0.3)." loading="lazy">
+  <figcaption>Type I is rejecting a true H0; Type II is keeping a false H0.</figcaption>
+</figure>
+
+
 ## 2.05c: inference and errors
 
 A sample is used to infer something about a whole population, so the conclusion carries risk. Two things can go wrong.
@@ -186,6 +192,12 @@ p-value = P(Z > 2.033) = 0.021
 
 The critical region in terms of the mean is X̄ ≥ 34 + 1.645 × 0.4427 = 34.73 (2 d.p.). At the 1% level the boundary is 35.03, so 34.9 would not be in the region, and there would be no evidence to reject H₀.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--01-p-value-tail-area.webp" width="900" height="960" alt="Bar chart of B(25, 0.2) with the bars for X of 9 or more shaded gold, giving the p-value 0.0468. A number line below shows 0.0468 inside the reject zone below the 5% level, so H0 is rejected." loading="lazy">
+  <figcaption>The p-value is the probability of a result at least as extreme as the one observed, compared with the significance level.</figcaption>
+</figure>
+
+
 ### Example 7: two-tail
 
 A machine is set to fill bottles with mean 330 ml. The fill has standard deviation 3.5 ml. A sample of 25 bottles gives mean 328.9 ml. Test at the 5% level whether the mean has changed.
@@ -201,6 +213,12 @@ p-value = 2 × P(Z < −1.571) = 0.116
 
 The critical region is X̄ < 328.63 or X̄ > 331.37, to 2 d.p.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--02-two-tail-critical-region.webp" width="900" height="1020" alt="Bar chart of B(40, 0.25) with X at most 5 and X at least 16 in gold as the critical region and 6 to 15 as the acceptance region. Boundary checks 0.0433 and 0.0962, 0.0262 and 0.0544 prove the boundaries, and the actual significance level is 0.0695." loading="lazy">
+  <figcaption>A 2-tail critical region puts at most 5% in each tail, and the actual level is the sum of the two tail probabilities.</figcaption>
+</figure>
+
+
 ### Example 8: Type II error for a mean
 
 Use Example 6. The 5% critical value for the mean is 34.728. Suppose the true mean is 35.2, with the same standard deviation. Then X̄ ~ N(35.2, 0.4427²), and
@@ -208,6 +226,22 @@ Use Example 6. The 5% critical value for the mean is 34.728. Suppose the true me
 ```
 P(Type II) = P(X̄ < 34.728) = P(Z < −1.066) = 0.143
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--04-sample-mean-spread.webp" width="900" height="960" alt="Two normal curves centred on 48: one value X with standard deviation 6 has P(X &gt; 50) = 0.3694, while the mean of 9 values has standard deviation 2 and P(X-bar &gt; 50) = 0.1587. Larger samples cluster more tightly around the population mean." loading="lazy">
+  <figcaption>The sample mean has the same centre as X but a smaller spread, sigma over root n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--05-normal-mean-critical-region.webp" width="900" height="960" alt="Normal curve N(72, 1.5 squared) with the upper 1% tail beyond 75.49 shaded as the critical region. The observed sample mean 75.2 lies outside it, and the p-value 0.0164 is greater than 0.01, so H0 is not rejected." loading="lazy">
+  <figcaption>A sample mean outside the critical region, equivalently a p-value above the level, means H0 is not rejected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--06-z-versus-t.webp" width="900" height="1130" alt="N(0, 1) and t with 8 degrees of freedom are both symmetric, but t has a lower peak and fatter tails. In the zoomed right tail the one-tail 5% critical value is 1.860 for t compared with 1.645 for z, and cards show it falls towards 1.645 as the degrees of freedom increase." loading="lazy">
+  <figcaption>When sigma is unknown and n is small, t gives larger critical values than z.</figcaption>
+</figure>
+
 
 ## Common errors
 

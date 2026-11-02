@@ -65,6 +65,27 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
 
 **Customer loyalty:** built through quality, after-sales service, loyalty schemes, personalisation, a trusted brand and ease of purchase. Benefits: repeat sales, lower cost of winning sales, support for premium prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--09-market-share-target.webp" width="900" height="925" alt="Three bars show 18,000 of 150,000 (12%), 18,000 of 160,000 if sales stay flat (11.25%) and 24,000 of 160,000 for a 15% target, which needs 6,000 more sales (+33.3%)." loading="lazy">
+  <figcaption>Market share rises only if sales grow faster than the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--10-boston-matrix-data.webp" width="900" height="790" alt="Growth against relative share, split at 10% and 1.0. Trail boot is a cash cow, waterproof jacket a star, child's sandal a question mark and wool socks a dog." loading="lazy">
+  <figcaption>Plotting each product by growth and relative share gives its Boston Matrix category.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+
 ## 2 Product/service design
 
 **Design mix:** function, aesthetics, cost/economic manufacture.
@@ -79,6 +100,12 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
 |---|---|---|
 | Concern over resource depletion | Waste minimisation, re-use, recycling | Redesign cost; less material later; appeals to green buyers |
 | Ethical sourcing | Fair-trade or audited suppliers | Higher input cost; stronger brand |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--12-design-mix-triangle.webp" width="900" height="1030" alt="A triangle of function, aesthetics and cost. The best balance depends on the target market. Two social trends: resource depletion (less material, re-use, recycling) and ethical sourcing (fair pay, safe conditions, may raise cost)." loading="lazy">
+  <figcaption>The design mix balances function, aesthetics and cost.</figcaption>
+</figure>
+
 
 ## 3 Promotion and branding
 
@@ -98,6 +125,17 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
 | Social media | Platform promotion and two-way contact | Public complaints |
 | Emotional branding | Appeals to feelings, not features | Can seem insincere if the product does not match |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--11-brand-ped-revenue.webp" width="900" height="830" alt="Two demand lines through £40 and 2,000 kettles. A £2 rise cuts branded sales by 2% (PED -0.4, revenue up to £82,320) but unbranded sales by 8% (PED -1.6, revenue down to £77,280)." loading="lazy">
+  <figcaption>A strong brand makes demand inelastic, so a price rise protects revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--13-three-branding-types.webp" width="900" height="1090" alt="Corporate: one name across tea, jam and soup. Individual: each product has its own name. Own-label: products from several makers sold under the retailer name." loading="lazy">
+  <figcaption>Corporate, individual and own-label branding compared.</figcaption>
+</figure>
+
+
 ## 4 Pricing
 
 | Strategy | Core idea | Best when |
@@ -113,6 +151,22 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
 
 **Social trends:** online sales (flexible, direct pricing) and price comparison sites (price transparency, so demand becomes more elastic for similar goods).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--13-cost-plus-markup.webp" width="900" height="800" alt="Two identical bars of the £7.68 price: £4.80 cost and £2.88 mark-up. The mark-up is 60% of cost but 37.5% of price." loading="lazy">
+  <figcaption>Mark-up is a percentage of cost, not of the selling price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--14-predatory-pricing.webp" width="900" height="830" alt="The price is 6.00, is cut to 4.20 below the unit cost of 4.80 (a loss of 0.60 a unit) until the rival is forced out, then raised again." loading="lazy">
+  <figcaption>Predatory pricing sets price below cost to push out a rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--15-psychological-price-points.webp" width="900" height="720" alt="Two price tags, 9.99 and 10.00 pounds, are one penny (0.1%) apart but 9.99 reads as nine-something. Used on shelf prices of consumer goods." loading="lazy">
+  <figcaption>A price just below a round number can feel cheaper.</figcaption>
+</figure>
+
+
 ## 5 Distribution
 
 | Channel | Route |
@@ -122,6 +176,12 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
 | Two stage | Producer → consumer |
 
 Shorter channel: more income per unit and more control for the producer, but it takes on storage, delivery and service. Longer channel: wider reach with less effort, but each middleman takes a margin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--12-channel-price-buildup.webp" width="900" height="940" alt="Three bars to one scale: four stage £210 to the consumer (producer £120), three stage £196 (producer £140), two stage online £175 (producer keeps £157 after £18 delivery)." loading="lazy">
+  <figcaption>The shorter the channel, the more the producer keeps per unit.</figcaption>
+</figure>
+
 
 ## Formulas (standard forms)
 

@@ -48,6 +48,12 @@ The syllabus sets no calculation in these sections. The arithmetic below makes t
 
 **Effective demand** is demand backed by the ability to pay: the willingness to buy a good at a given price, together with the purchasing power to do so. A wish is not enough. A student who would like a laptop but has no savings, income or credit adds nothing to market demand. Economists count only effective demand because only buyers who can pay create sales and send signals to producers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--04-ds-effective-demand.webp" width="900" height="860" alt="A two by two grid: only a buyer both willing and able to pay creates effective demand; a wish without savings, income or credit adds nothing." loading="lazy">
+  <figcaption>Effective demand needs both willingness and ability to pay.</figcaption>
+</figure>
+
+
 ## 2.1.2 Individual and market demand and supply
 
 **Individual demand** is the quantity one buyer will purchase at each price. **Market demand** is the sum of all individual demands at each price. You add quantities at each price, so the curves are added horizontally. Market supply is built the same way from the supply of each firm.
@@ -66,6 +72,12 @@ Three buyers (A, B, C) and three suppliers (X, Y, Z) trade in a market for cabba
 
 At a price of 4: demand is 7 + 5 + 8 = 20 and supply is 6 + 5 + 9 = 20. The market curves are straight lines with equations Qd = 40 - 5P and Qs = -8 + 7P. Each is the sum of the individual equations, valid while every quantity is positive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--10-ds-market-curves.webp" width="900" height="986" alt="Market demand and supply are the sums of individual quantities at each price. At price 4, buyers A, B, C demand 7+5+8 = 20 and sellers X, Y, Z supply 6+5+9 = 20, giving equilibrium at 4 and 20." loading="lazy">
+  <figcaption>Adding quantities at each price builds the market curves, which cross at price 4 and quantity 20.</figcaption>
+</figure>
+
+
 ## 2.1.3 and 2.1.5 Determinants of demand and shifts in D
 
 If the good's own price alone changes, you slide along the demand curve. Every other determinant shifts the whole curve. Common determinants:
@@ -78,6 +90,12 @@ If the good's own price alone changes, you slide along the demand curve. Every o
 - **Cost and availability of credit**, which matters for goods bought on loan.
 - **Government policy**, such as a tax that reduces disposable income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## 2.1.4 and 2.1.6 Determinants of supply and shifts in S
 
 If the good's own price alone changes, you slide along the supply curve. Other determinants shift it:
@@ -89,9 +107,21 @@ If the good's own price alone changes, you slide along the supply curve. Other d
 - **Number of firms**, and **weather** for farm goods.
 - **Expectations** of future price and profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## 2.1.7 Shift or movement?
 
 Use one test. Did the good's own price cause the change? If yes, it is a movement along the existing curve (an extension or contraction of quantity). If something else changed, the curve shifts. Use precise language: write "shifts right" for a change in demand and "extension" for a change in quantity demanded. A price change is the result of a shift, never its cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--11-ds-shift-vs-movement.webp" width="900" height="980" alt="When only the good's own price falls from 4 to 3, quantity demanded extends from 20 to 25 along D. When income rises, the whole curve shifts right and quantity demanded at price 4 rises from 20 to 32." loading="lazy">
+  <figcaption>A change in own price moves along the curve; any other determinant shifts it.</figcaption>
+</figure>
+
 
 ## 2.4.1 Equilibrium and disequilibrium
 
@@ -108,6 +138,17 @@ Chain of reasoning at a price of 3: buyers want 25 but sellers offer 13, so some
 
 On a diagram, the upright axis shows price and the base shows quantity. The downward-sloping D curve and upward-sloping S curve cross at the equilibrium point E (4, 20). Draw a horizontal line at a price of 6: it meets D at 10 and S at 34, and the gap of 24 between those points is the excess supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--05-ds-disequilibrium-gaps.webp" width="900" height="940" alt="Demand Qd = 40 - 5P and supply Qs = -8 + 7P cross at price 4, quantity 20. At price 3 there is a shortage of 12 (25 vs 13); at 5 a surplus of 12 (15 vs 27); at 6 a surplus of 24 (10 vs 34)." loading="lazy">
+  <figcaption>The further the price is from equilibrium, the bigger the shortage or surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+
 ## 2.4.2 Shifts and the new equilibrium
 
 Always follow three steps: identify which curve shifts, say which way, then read off the new price and quantity.
@@ -123,6 +164,22 @@ Start from Qd = 40 - 5P and Qs = -8 + 7P, equilibrium at price 4 and quantity 20
 
 Compare cases 1 and 2. A price rise alone does not tell you which curve moved. Check quantity: if price and quantity move in the same direction, demand probably shifted; if opposite, supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--12-ds-four-cases.webp" width="900" height="1260" alt="From equilibrium (4, 20), demand +12 gives (5, 27); supply -12 gives (5, 15); both together give (6, 22); demand and supply both +12 give (4, 32). Same-direction price and quantity suggests demand shifted." loading="lazy">
+  <figcaption>Four shifts of one market, each with its new equilibrium price and quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
+  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
+</figure>
+
+
 ## 2.4.3 Relationships between markets
 
 - **Joint demand (complements).** Goods used together, such as printers and ink. A rise in the price of printers reduces quantity demanded of printers, so demand for ink shifts left.
@@ -131,6 +188,12 @@ Compare cases 1 and 2. A price rise alone does not tell you which curve moved. C
 - **Joint supply.** One production process gives two outputs, such as beef and hides. Higher demand for beef raises cattle slaughtered, so supply of hides shifts right and the price of leather falls.
 
 For evaluation, ask how strong the link is. Substitutes may be poor ones. Derived demand weakens if inputs make up a small share of final cost, or if firms hold stocks. Time matters: farmers need seasons to adjust joint supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
 
 ## 2.4.4 Functions of price
 
@@ -145,6 +208,12 @@ Price allocates resources in three linked ways.
 A hall has 500 seats. Demand is Qd = 1500 - 10P, so the price that sells all seats is 1500 - 10P = 500, giving P = 100 cu. A famous performer is announced and demand rises to Qd = 1800 - 10P. At 100 cu, demand is now 800 against 500 seats, so 300 people miss out. Price rises to 130 cu, where demand is 1800 - 1300 = 500. Rationing: price removes the 300 extra demanders. Signalling: the higher price shows the performer is popular. Incentivising: promoters schedule more shows.
 
 Evaluate the mechanism. Rationing by price favours ability to pay over need, and price signals depend on good information. Firms may not respond quickly, so shortages can last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--13-ds-tickets.webp" width="900" height="1034" alt="With 500 seats fixed, demand 1500 - 10P sells out at 100. When demand rises to 1800 - 10P, 300 people miss out at 100 and price rises to 130 to clear the market: rationing, signalling and incentivising." loading="lazy">
+  <figcaption>Price rises from 100 to 130 to ration a fixed 500 seats after demand increases.</figcaption>
+</figure>
+
 
 ## Common errors
 

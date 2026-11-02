@@ -55,6 +55,17 @@ A memory aid: Dear King Philip Came Over For Good Soup.
 3. The lowest rank where they still match is the lowest shared taxon.
 4. The lower that rank, the more closely related they are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
+
 ## 4.2.2(b) Binomial system
 
 - Genus first, with a capital letter. Species second, lower case.
@@ -106,6 +117,12 @@ Woese compared rRNA sequences of prokaryotes. They split into two very different
 | Main basis | Observable features | Molecular evidence (rRNA and other sequences) |
 
 The domain system adds a rank above kingdom and splits Prokaryotae. It does not discard the eukaryotic kingdoms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
+  <figcaption>Three domains of cells, with viruses outside them (Cambridge only).</figcaption>
+</figure>
+
 
 ## 4.2.2(d) Classification and phylogeny
 
@@ -163,6 +180,12 @@ Quick check: 16 differences in 160 bases gives 16 ÷ 160 × 100 = 10.0 % differe
 10. 3 ÷ 200 × 100 = 1.5 % and 24 ÷ 200 × 100 = 12.0 %. The first pair (1.5 %) is more closely related, with a difference of **10.5 percentage points** between the two pairs.
 11. Protoctista, Fungi, Plantae and Animalia are all eukaryotes, so all four sit inside the one domain Eukarya.
 12. Similar appearance can come from living in similar ways, not from a recent common ancestor. Sequence data show the true relationship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

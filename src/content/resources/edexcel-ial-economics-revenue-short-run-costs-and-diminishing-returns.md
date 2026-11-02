@@ -59,6 +59,22 @@ Read the pattern. While MR is positive, TR rises. At Q = 14, MR = 0 and TR is at
 
 In words for a diagram: put price and revenue in cu on the vertical axis and quantity on the horizontal axis. AR slopes down from 84. MR starts at 84 and cuts the horizontal axis at Q = 14, halfway to where AR meets it at Q = 28. TR is an arch that peaks at Q = 14.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--01-ar-mr-tr-workshop.webp" width="900" height="1000" alt="Demand P = 84 - 3Q is also AR. MR starts at 84, falls twice as fast and reaches zero at Q = 14. Below, TR is an arch peaking at 588 at Q = 14." loading="lazy">
+  <figcaption>MR is zero where TR peaks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--11-ped-price-cut-60-to-48.webp" width="900" height="930" alt="Workshop demand P = 84 - 3Q with the price cut from 60 to 48. Rectangles show revenue 480 rising to 576 (+192 gained, -96 lost). PED is -2.5 and MR = 60 x (1 + 1/-2.5) = 36." loading="lazy">
+  <figcaption>Elastic demand: a 20% price cut raises quantity 50% and revenue by 96; MR matches P(1 + 1/PED).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## 1b PED and revenue
 
 **PED** = % change in quantity demanded / % change in price. It is normally negative, because demand slopes down, but you may quote its size. Demand is elastic when PED is greater than 1 in size, inelastic when it is less than 1 in size, and unitary when it is exactly 1 in size.
@@ -102,6 +118,12 @@ Worked example. The workshop pays each worker 400 cu a week. Fixed costs (rent, 
 
 MP peaks at the third worker. Diminishing returns begin with the fourth. TP keeps rising, so this is falling MP, not falling TP. AP peaks at the fourth worker (14.5). MP is above AP up to that worker and below it from the fifth, because a marginal value above the average pulls the average up and one below pulls it down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--02-mp-ap-diminishing-returns.webp" width="900" height="860" alt="MP is 8, 14, 20, 16, 12, 8, 4 and peaks at the third worker; diminishing returns begin with the fourth. AP peaks at 14.5 at the fourth worker and MP cuts it there. Total output still rises." loading="lazy">
+  <figcaption>MP falls from the fourth worker but output still rises.</figcaption>
+</figure>
+
+
 ## 2c Cost formulae
 
 | Measure | Formula |
@@ -128,6 +150,17 @@ Costs for the workshop: TVC = 400 x workers, TC = 600 + TVC.
 
 Method for one row, workers = 4. Q = 58. TVC = 4 x 400 = 1,600. TC = 600 + 1,600 = 2,200. AFC = 600 / 58 = 10.34. AVC = 1,600 / 58 = 27.59. ATC = 2,200 / 58 = 37.93, which equals 10.34 + 27.59. MC = 400 / 16 = 25.00, or (2,200 - 1,800) / (58 - 42) = 25.00. Each MC here is the cost per extra unit over the step from the previous row.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--12-cost-measures-worked-row.webp" width="900" height="836" alt="Bars show TC 2,200 as TFC 600 plus TVC 1,600; dividing by 58 gives ATC 37.93 as AFC 10.34 plus AVC 27.59. Sixteen squares of 25 show MC as 400 over 16 extra units." loading="lazy">
+  <figcaption>One worked row links TC, ATC and MC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--13-afc-never-reaches-zero.webp" width="900" height="880" alt="Graph of ATC and AVC through the lesson table points with AFC = 600/Q as a curve that falls towards the axis but never reaches it. The gap between ATC and AVC is AFC: 27.27, 10.34, 7.32." loading="lazy">
+  <figcaption>ATC is AVC plus AFC; AFC falls as output rises but never reaches zero.</figcaption>
+</figure>
+
+
 ## 2d Relationships between curves
 
 **MP and MC.** If the wage is constant, MC = wage / MP. When MP rises, MC falls; when MP falls, MC rises. Compare the tables: MP peaks at 20 with the third worker, and MC bottoms at 20 cu. So the U shape of MC is diminishing marginal productivity seen from the cost side. In words: MC falls from 50 to 20, then rises to 100 at the seventh worker.
@@ -137,6 +170,22 @@ Method for one row, workers = 4. Q = 58. TVC = 4 x 400 = 1,600. TC = 600 + 1,600
 **TP and TC.** The TC curve is the TP curve turned around. While TP rises at an increasing rate (MP rising), TC rises at a decreasing rate. After diminishing returns begin, TP flattens and TC steepens. TC starts on the vertical axis at TFC (600), not at the origin.
 
 **Short run and long run.** In the short run some factors are fixed, so diminishing returns apply and the curves above are U-shaped. In the **long run** all factors are variable, so there are no fixed costs and every cost is variable. A firm that expands its plant moves to a new short-run cost curve. The long-run average cost curve links the lowest cost of each output level. Why it slopes as it does is the topic of economies and diseconomies of scale, which is a separate unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--03-short-run-cost-curves-table.webp" width="900" height="1000" alt="MC, AVC and ATC plotted from the lesson cost table. MC bottoms at 20, AVC at 27.59, ATC later at 37.14 because AFC keeps falling. MC is below an average while it falls and above while it rises." loading="lazy">
+  <figcaption>MC cuts AVC and ATC at their lowest points; ATC bottoms last.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns--04-tp-to-tc-mirror.webp" width="900" height="1090" alt="Top: total product by workers, steepening then flattening. Bottom: total cost against output starting at 600, flattening then steepening, in matching colours." loading="lazy">
+  <figcaption>TC is TP turned around, starting at TFC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Evaluation points
 

@@ -50,6 +50,12 @@ Links: [practice questions](/resources/oxfordaqa-igcse-chemistry-carbon-compound
 
 You are not asked to name particular fractions or fuels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 a and b: alkanes at a glance
 
 | Name | Formula | Structure |
@@ -68,6 +74,12 @@ H — C — C — H
     H   H
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--05-first-three-alkanes.webp" width="900" height="920" alt="Displayed formulae of methane, ethane and propane with each line a covalent bond; hydrogen count equals 2n + 2 (4, 6, 8)." loading="lazy">
+  <figcaption>The first three alkanes follow CnH2n+2, with four bonds on every carbon and one on every hydrogen.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 c: size and properties
 
 Bigger molecule → higher boiling point → more viscous → less flammable.
@@ -75,6 +87,12 @@ Bigger molecule → higher boiling point → more viscous → less flammable.
 Smaller molecule → lower boiling point → runnier → ignites more easily.
 
 These trends explain why short-chain hydrocarbons are the more useful fuels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--06-size-trends.webp" width="900" height="930" alt="Three carbon chains of increasing length with bars showing boiling point and viscosity rising and flammability falling as molecules get larger." loading="lazy">
+  <figcaption>As molecules get larger, boiling point and viscosity rise and flammability falls.</figcaption>
+</figure>
+
 
 ## 3.10.1.2 d and e: combustion
 
@@ -120,6 +138,22 @@ A sample of coal contains carbon, hydrogen and a little sulfur. It burns in a fu
 
 Every product traces back either to an element in the fuel or to the conditions of burning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--01-fuel-products.webp" width="900" height="980" alt="Five rows link an atom in the fuel or air to its combustion product and effect: carbon with plenty of oxygen gives CO2 (climate change); carbon with too little oxygen gives CO (toxic) and soot (global dimming); hydrogen gives water; sulfur gives SO2 (acid rain); nitrogen from the air in a hot engine gives oxides of nitrogen (acid rain)." loading="lazy">
+  <figcaption>Predict the product from the element in the fuel, then ask whether oxygen was plentiful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--07-dodecane-balance.webp" width="900" height="900" alt="Four steps balance C12H26 burning: 12 CO2, 13 H2O, 37 oxygen atoms needed so 18 and a half O2, then double to 2C12H26 + 37O2 -&gt; 24CO2 + 26H2O, with an atom tally of 24 C, 52 H and 74 O on each side." loading="lazy">
+  <figcaption>Balance carbon, then hydrogen, then oxygen, and check by counting atoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 f: making ethanol
 
 | | Ethene + steam | Fermentation |
@@ -138,12 +172,24 @@ Every product traces back either to an element in the fuel or to the conditions 
 
 Fermentation of 90 g of glucose (Mr 180): 0.50 mol glucose → 1.0 mol ethanol → 1.0 × 46 = **46 g** ethanol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--09-ethanol-masses.webp" width="900" height="940" alt="Fermentation: 1260 g glucose is 7.0 mol and gives 644 g ethanol and 616 g CO2. Hydration: 56 t ethene plus 36 t steam gives 92 t ethanol." loading="lazy">
+  <figcaption>The masses of products add up to the mass of reactants in both routes to ethanol.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 g: biofuels
 
 - **Renewable**: plant crops regrow; crude oil does not.
 - **Land use**: fuel crops can take land from food crops or lead to forest being cleared.
 - **Carbon footprint**: growing plants absorb CO₂, offsetting some of what is released when the fuel burns. Farming, fertiliser, processing and transport add emissions, so the footprint is reduced, not removed.
 - Ethanol for biofuel is made by fermenting plant material at 20 °C to 35 °C, giving a dilute solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--02-biofuel-carbon-loop.webp" width="900" height="940" alt="Plants take in CO2, biofuel is made from them, burning it releases CO2 back to the air. A dashed box shows farming, fertiliser, transport and distillation also use energy, so the footprint is not zero: CO2 is partly offset, not cancelled." loading="lazy">
+  <figcaption>A biofuel offsets some of its CO2 through plant growth, but the supply chain means it is not carbon neutral.</figcaption>
+</figure>
+
 
 ## 3.10.1.3: cracking
 
@@ -173,6 +219,22 @@ H — C — C = C
 
 Each carbon still makes four bonds; the double line counts as two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--08-cracking-missing-product.webp" width="900" height="870" alt="19 circles for the carbon atoms of nonadecane split into C10H22, C3H6 and the missing C6H12 (carbon 19-10-3 = 6, hydrogen 40-22-6 = 12), plus the second example C23H48 -&gt; C15H32 + C8H16." loading="lazy">
+  <figcaption>Subtract the carbon and hydrogen atoms of the known products to find the missing one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
+
 ## Required practical: double bond test
 
 - Add bromine water to the hydrocarbon and shake.
@@ -182,6 +244,12 @@ Each carbon still makes four bonds; the double line counts as two.
 - For a gaseous sample, bubble the gas through the bromine water instead of adding the liquid.
 - Run a known alkane alongside, so you can compare colours directly.
 - Report what you see, then what it means: "the bromine water turned from orange to colourless, so the hydrocarbon contains a C=C double bond".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

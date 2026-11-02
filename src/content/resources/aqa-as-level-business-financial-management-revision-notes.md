@@ -58,6 +58,12 @@ Every formula here is the standard form, in the writer's own presentation, not c
 | Profit (break-even setting) | Total contribution − fixed costs |
 | Closing cash balance | Opening balance + cash in − cash out |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--07-roi-debt-share.webp" width="900" height="1030" alt="A 100-square grid shows £13,500 profit on £90,000 spent as 15 filled squares (ROI 15%). A bar splits £700,000 of long-term funding into loans £210,000 (30%) and equity £490,000 (70%)." loading="lazy">
+  <figcaption>ROI is profit gained as a percentage of the amount invested, and debt share is debt over total long-term funding.</figcaption>
+</figure>
+
+
 ## Objectives: what to remember
 
 - Value of objectives: they give targets, allow comparison with results and guide other functions.
@@ -67,6 +73,12 @@ Every formula here is the standard form, in the writer's own presentation, not c
 - High debt raises the commitment to repay and pay interest; low debt may mean growth is slower because retained profits and share capital are limited.
 
 **Worked reminder.** Zelmore Ltd earns extra profit of £8,400 a year from a £60,000 machine. ROI = 8,400 ÷ 60,000 × 100 = **14%**. Its long-term funding is £80,000 of loans and £240,000 of equity, so debt is 80,000 ÷ 320,000 × 100 = **25%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--06-objective-types.webp" width="900" height="881" alt="Six tiles with small pictures: revenue, cost, profit, cash flow, capital expenditure and capital structure, each with the lesson example." loading="lazy">
+  <figcaption>Each objective type gives managers a measurable target.</figcaption>
+</figure>
+
 
 ## Budgets and variances
 
@@ -80,6 +92,17 @@ Method in steps:
 Example: Zelmore budgeted £18,000 for materials and spent £16,200. The variance is £1,800 (10% of budget) and **favourable**, though a good answer asks whether cheaper materials lowered quality.
 
 Value of budgeting: sets targets, controls spending, gives responsibility, coordinates departments, flags problems early. Limits: forecasts may be wrong, rigid budgets discourage flexibility, and variances only show what changed, not why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
 
 ## Cash flow forecast: method
 
@@ -117,11 +140,33 @@ Common finance fixes: overdraft for a short gap, chasing receivables, longer ter
 
 Value of break-even: simple, supports pricing and risk judgements. Limits: assumes everything made is sold, a constant price, and straight-line costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--08-break-even-vc-rise.webp" width="900" height="944" alt="Break-even chart for Dunsgate posters: revenue crosses cost at 3,000 posters; with variable cost £12 the steeper cost line crosses at 3,461.5, rounded up to 3,462 (loss £7 at 3,461, profit £6 at 3,462)." loading="lazy">
+  <figcaption>A variable cost rise lowers contribution and raises break-even, which is rounded up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ## Profitability ratios
 
 - Compare gross, operating and profit for the year margins with earlier years and with competitors.
 - A fall in gross margin points to higher cost of sales or lower prices; a fall in operating margin with a steady gross margin points to rising operating expenses; a gap between operating margin and profit-for-the-year margin points to finance costs and tax.
 - Example: Zelmore has revenue £90,000, cost of sales £54,000 and operating expenses £25,200. Gross profit £36,000 (**40%**); operating profit £10,800 (**12%**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## Payables, receivables and timing
 
@@ -140,12 +185,34 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 | Share capital | External | Long-term funds with no repayment | Dilutes ownership |
 | Venture capital | External | Risky, fast-growing firms | Investor takes a share and a say |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--08-factoring-example.webp" width="900" height="1020" alt="A bar of £60,000 unpaid invoices shows an 80% advance of £48,000 arriving at once and £12,000 later, less a £1,200 fee. A second bar shows the total received, £58,800. Rates are marked as invented." loading="lazy">
+  <figcaption>Factoring brings cash early at the cost of a fee.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--09-sources-by-time.webp" width="900" height="784" alt="Grid of six sources by internal or external and short, medium to long or long term, matching the lesson table." loading="lazy">
+  <figcaption>Match the source to the time need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--10-finance-links.webp" width="900" height="746" alt="Technology, market and ethics feed into financial decisions, which use data and support marketing, operations and people management." loading="lazy">
+  <figcaption>Finance is shaped by outside pressures and supports other functions.</figcaption>
+</figure>
+
+
 ## Improving cash flow and profit
 
 - Cash flow: collect faster, pay later, hold less stock, delay purchases, borrow short term.
 - Profit and profitability: higher price or volume, lower costs, better product mix, higher productivity.
 - Difficulties: price rises may cut demand, discounts reduce income, supplier relations may suffer, and cost cuts can lower quality.
 - A recommendation needs a figure, a reason and a risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--07-methods-and-risks.webp" width="900" height="866" alt="Five methods for improving cash flow or profit, each with an arrow to its difficulty as the lesson states it." loading="lazy">
+  <figcaption>Name the method, show its effect, weigh the risk.</figcaption>
+</figure>
+
 
 ## Context to bring to answers
 

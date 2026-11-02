@@ -70,6 +70,17 @@ Effect of a broken assumption: if marks wear off, R falls and the estimate is to
 
 Sampling error: a different set of random quadrats gives a slightly different estimate. More quadrats narrow the gap but never remove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--01-quadrat-sampling.webp" width="900" height="1230" alt="Ten random 0.25 m2 quadrats are placed on a 12 m by 5 m strip using coordinates from two tapes. Counts of 12, 9, 15, 11, 8, 14, 10, 13, 7 and 16 give a mean of 11.5, a density of 46 per m2 and 2760 barnacles on 60 m2. The standard deviation is 3.03, so the counts are fairly even." loading="lazy">
+  <figcaption>Random quadrat counts are averaged, divided by quadrat area and multiplied by the study area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--02-lincoln-index.webp" width="900" height="912" alt="A grid of 240 beetles has 48 marked in gold. A second catch of 40 (ringed) contains 8 marked beetles. The marked fraction in the catch, 8 in 40, matches 48 in 240 in the population, so P = M x N / R = 240. If marks wear off, R is too low and the estimate too high." loading="lazy">
+  <figcaption>The marked fraction of the second catch equals the marked fraction of the population, giving P = M x N / R.</figcaption>
+</figure>
+
+
 ## Regulation of population size (C4.1.5 to C4.1.6)
 
 - Limiting resources: food, water, light, space, nesting sites, mineral nutrients.
@@ -90,6 +101,17 @@ Sampling error: a different set of random quadrats gives a slightly different es
 - Worked reminder: counts of 3, 9, 27, 81 per day are tripling each day. Their log₁₀ values (0.48, 0.95, 1.43, 1.91) rise by 0.48 each day, so the log graph is straight.
 - Practical organisms: yeast or duckweed.
 - Case study: reindeer on St Matthew Island, Alaska, grew from about 29 (1944) to roughly 6000 (1963), then crashed after overgrazing of lichen: overshoot shows the model is a simplification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--03-sigmoid-growth.webp" width="900" height="790" alt="A computed S-shaped curve rises from a small start, bends over and levels off at a dashed line marking carrying capacity K. Part 1 is exponential growth, part 2 a transition as growth slows, part 3 a plateau where births roughly equal deaths. Arrows show negative feedback: above K deaths rise, below K the population grows." loading="lazy">
+  <figcaption>The sigmoid curve has exponential, transition and plateau phases, held near carrying capacity by negative feedback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--04-yeast-log.webp" width="900" height="970" alt="Yeast counts double every 2 hours from 0.5 to 32 million cells per mL. On an ordinary axis the points curve upwards; on a log axis they lie on a straight line. The log10 values rise by 0.30 each time: -0.30, 0.00, 0.30, 0.60, 0.90, 1.20, 1.51." loading="lazy">
+  <figcaption>A straight line on a logarithmic axis shows a constant percentage increase, which means exponential growth.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -126,6 +148,12 @@ Mutualism, both sides:
 
 Invasive example: the grey squirrel digests acorns more efficiently than the red squirrel and also carries squirrelpox. A local example is equally valid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--07-relationships.webp" width="900" height="1150" alt="Six small pictures, each with plus or minus signs showing who benefits or is harmed. Herbivory, predation, parasitism and pathogenicity are plus for one species and minus for the other, interspecific competition is minus for both, and mutualism is plus for both." loading="lazy">
+  <figcaption>Each interspecific relationship is defined by whether each partner gains or loses.</figcaption>
+</figure>
+
+
 ## Testing for competition (C4.1.14 to C4.1.15)
 
 Competition is indicated but not proven when one species does better without the other. Three approaches: laboratory experiment, field observation by random sampling, and field manipulation by removing one species. Experiments manipulate a variable; observations record what exists.
@@ -142,12 +170,29 @@ Chi-squared for association, steps:
 
 Worked reminder: 100 sites, A at 40, B at 30. Expected both present = 40 × 30 ÷ 100 = **12**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--09-chi-squared.webp" width="900" height="880" alt="A 2 by 2 table of presence and absence at 80 sites shows observed counts 6, 26, 22 and 26 and expected counts 11.2, 20.8, 16.8 and 31.2. The cell contributions 2.41, 1.30, 1.61 and 0.87 sum to chi-squared 6.19, above the critical value 3.84 for 1 degree of freedom, so independence is rejected. This shows association but does not prove competition." loading="lazy">
+  <figcaption>Chi-squared 6.19 exceeds 3.84 so the species are not independently distributed, but this does not prove competition.</figcaption>
+</figure>
+
+
 ## Predator and prey, control, chemicals (C4.1.16 to C4.1.18)
 
 - Predator-prey: delayed negative feedback. Case study: snowshoe hare and Canada lynx cycles of roughly ten years, lynx peaks lagging hare peaks. Food supply for hares matters too.
 - Top-down: predators limit herbivores. Bottom-up: nutrients limit producers and everything above. Both occur; one usually dominates.
 - Allelopathy: plant releases chemicals deterring neighbours, such as juglone from black walnut.
 - Antibiotic secretion: microbes kill rivals, such as penicillin from *Penicillium*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--05-predator-prey.webp" width="900" height="840" alt="Computed illustrative curves show prey and predator populations rising and falling every 10 years, with the predator peak about a year after the prey peak. Numbered stages follow the cycle: more prey, more predators, fewer prey, fewer predators and prey recovery." loading="lazy">
+  <figcaption>Delayed negative feedback makes predator numbers follow prey numbers in a cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--06-top-down-bottom-up.webp" width="900" height="960" alt="Three trophic levels (producers, herbivores, predators) sit above a nutrient supply. An upward arrow shows bottom-up control, where nutrients limit producers and everything above. A downward arrow shows top-down control, where predators limit herbivores." loading="lazy">
+  <figcaption>Control can come from resources below (bottom-up) or from consumers above (top-down).</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -47,6 +47,12 @@ Links: [practice questions](/resources/edexcel-ial-accounting-project-appraisal-
 | 2.6.2 | Average (accounting) rate of return (ARR) | No | Profit | ARR > target return |
 | 2.6.2 | Payback period | No | Cash flows | Payback ≤ maximum set by the business |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--07-irr-interpolation.webp" width="900" height="990" alt="NPV falls as the discount rate rises. A straight line joins +34,060 at 10% and -4,555 at 16% and crosses zero at about 15.3%, above the 10% WACC, so the project is accepted." loading="lazy">
+  <figcaption>IRR is the rate at which NPV is zero, estimated by interpolation and compared with WACC.</figcaption>
+</figure>
+
+
 ## Key definitions
 
 - **Net cash flow**: for a single year, the project's extra cash coming in less its extra cash going out.
@@ -62,6 +68,17 @@ Links: [practice questions](/resources/edexcel-ial-accounting-project-appraisal-
 - **Internal rate of return**: the discount rate that makes NPV zero.
 - **ARR**: average annual profit as a percentage of the investment.
 - **Payback period**: time taken for net cash inflows to recover the initial outlay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
+  <figcaption>Discounting turns later cash into smaller present values; NPV is their total less the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--06-wacc.webp" width="900" height="870" alt="A bar split of 1,000,000 finance (45% shares at 12%, 15% preference at 8%, 40% debentures at 8.5%) leads to a second bar of contributions 5.4%, 1.2% and 3.4%, totalling 10.0%." loading="lazy">
+  <figcaption>WACC weights each source's cost by its share of finance and is used as the discount rate.</figcaption>
+</figure>
+
 
 ## Formulae
 
@@ -129,6 +146,12 @@ for 5 years and no residual value. Its cost of capital is 12%.
 
 A tiny NPV like this means the decision rests on how reliable the forecasts are. That is where
 non-financial and risk points come in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
+  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -198,6 +221,12 @@ Finish with a clear decision and one reason that outweighs the others.
 - Not stating whether ARR is on initial or average investment.
 - Giving payback as "3.4 years" when months are asked for, or converting 0.4 years to 4 months.
 - A recommendation that repeats figures but never makes a decision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--02-payback-running-total.webp" width="900" height="1010" alt="Bars show the running total of cash for the Kestrel press from -120 to +80 thousand pounds. The total crosses zero between years 2 and 3. 34,000 divided by 52,000 times 12 gives 7.8 months, so payback is 2 years 8 months." loading="lazy">
+  <figcaption>Payback is when the running total of cash turns positive.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

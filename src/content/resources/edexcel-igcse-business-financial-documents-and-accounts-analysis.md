@@ -63,6 +63,12 @@ Here is Calderbrook Joinery, a small business making fitted kitchens, for two ye
 
 Sales rose by 80,000, yet operating profit rose by only 2,800. Reading the layout line by line shows why: cost of sales grew faster than sales, and expenses rose by 22,000. That is the kind of observation a statement supports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--01-income-year-on-year.webp" width="900" height="1010" alt="Paired bars compare Year 1 and Year 2 for sales, cost of sales, gross profit, other expenses and operating profit. Sales rose 80,000 but operating profit rose only 2,800 because cost of sales rose 55,200 and expenses 22,000." loading="lazy">
+  <figcaption>Costs grew faster than sales, so profit barely moved.</figcaption>
+</figure>
+
+
 ## 2. The nature and importance of profit; decision making (3.4.1)
 
 **Profit** is what is left when costs are taken from revenue. Gross profit comes before the running costs; operating profit comes after them. A business needs both to be positive to survive in the long run.
@@ -104,6 +110,12 @@ Calderbrook Joinery at the end of Year 2:
 
 Capital employed = 210,000 + 100,000 − 50,000 = 260,000, and 180,000 + 80,000 gives the same total. To interpret the statement, ask what the business owns, how much is tied up in inventory, how soon it must pay, and how much of its funding is borrowed long term.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--02-capital-employed-both-sides.webp" width="900" height="960" alt="Two stacks reach the same dashed line at 260,000. Non-current assets 210,000 plus net current assets 50,000 equal owners equity 180,000 plus the bank loan 80,000." loading="lazy">
+  <figcaption>Capital employed is the same total whether built from assets or from funding.</figcaption>
+</figure>
+
+
 ## 4. Profit ratios: margins and markup (3.5.1)
 
 The formulae are from Appendix 4 of the specification.
@@ -129,6 +141,17 @@ Both margins fell. The gross margin fell 1.5 percentage points, so the business 
 
 The two figures describe the same profit against different bases, so markup is always the larger. Markup helps set prices: a 60% markup on a cost of 80 gives a selling price of 80 × 1.6 = 128.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--03-margins-fall.webp" width="900" height="1000" alt="Bars show gross margin 40.0% then 38.5% and operating margin 12.5% then 11.0%." loading="lazy">
+  <figcaption>Both margins fell 1.5 percentage points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--04-markup-vs-margin.webp" width="900" height="980" alt="The same 27 profit on a 45 cost and 72 price is 60% of cost (markup) but 37.5% of price (gross margin). A cost of 80 at 60% markup sells at 128." loading="lazy">
+  <figcaption>Markup uses cost as the base, so it is always larger than the margin.</figcaption>
+</figure>
+
+
 ## 5. Return on capital employed and liquidity ratios (3.5.1)
 
 - ROCE = (operating profit ÷ capital employed) × 100
@@ -145,6 +168,17 @@ The two figures describe the same profit against different bases, so markup is a
 | Acid test ratio | 52,000 ÷ 44,000 = 1.18 : 1 | 46,000 ÷ 50,000 = 0.92 : 1 |
 
 The current ratio did not change, which could look reassuring. The acid test ratio fell below 1 : 1 because inventory rose from 36,000 to 54,000 and cash fell from 24,000 to 15,000. The business has less cash and more stock that must still be sold. This is why the specification names both ratios: the second removes the least liquid current asset.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--05-roce-two-years.webp" width="900" height="940" alt="Operating profit as a share of capital employed: 50,000 of 220,000 (22.73%) in Year 1 and 52,800 of 260,000 (20.31%) in Year 2." loading="lazy">
+  <figcaption>More money was invested and each dollar earned less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--06-liquidity-two-years.webp" width="900" height="920" alt="Stacked current assets against current liabilities for both years. Current ratio is 2.00 : 1 each year, but the acid test falls from 1.18 : 1 to 0.92 : 1 as inventory rises and cash falls." loading="lazy">
+  <figcaption>Removing inventory shows the weaker position the current ratio hides.</figcaption>
+</figure>
+
 
 ## 6. Liquidity and comparisons (3.5.2)
 

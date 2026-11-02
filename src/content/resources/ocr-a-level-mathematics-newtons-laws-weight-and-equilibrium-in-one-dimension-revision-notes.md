@@ -38,6 +38,12 @@ These notes condense OCR A Level Mathematics A (H240) specification section 3.03
 | Light, inextensible string | Same tension along it; same speed and acceleration at both ends | 3.03j |
 | Equilibrium | Zero resultant, so zero acceleration | 3.03k |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
+
 ## Method for any straight-line problem
 
 1. Draw a force diagram for one body only. Mark every force on it.
@@ -120,6 +126,12 @@ Link the second law to the constant-acceleration formulas: v = u + at, then v² 
 - Vectors: a resultant such as (5i + 20j) + (7i − 4j) is found by adding components, then divide by the mass for the acceleration. The magnitude is √(x² + y²).
 - Accuracy: carry unrounded values through the working and give 3 significant figures at the last step, unless the question says otherwise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 Use g = 9.8 m s⁻².
@@ -164,6 +176,12 @@ Use g = 9.8 m s⁻².
 - Using sin where cos is needed when resolving (A Level only).
 - Omitting a short statement of the model when asked, such as light string or smooth surface.
 - Leaving a negative tension or reaction without noticing that the situation cannot occur.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
 
 ## Official syllabus
 

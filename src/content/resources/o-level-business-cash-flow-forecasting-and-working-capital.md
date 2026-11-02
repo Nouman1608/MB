@@ -49,6 +49,12 @@ A business that cannot pay these on time may lose staff, lose its supplier's goo
 
 Cash is not the same as profit. Profit is revenue minus costs over a period. A business can make a profit on paper while customers have not yet paid, so there is no cash to pay the bills. Section 5.3.1 treats this difference in full. For this section, remember one idea: **profit does not pay the wages, cash does.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
+
 ## 2. What a cash-flow forecast is
 
 A **cash-flow forecast** is a prediction of the money expected to come into and go out of a business over a future period, usually month by month, showing the expected cash balance at the end of each month.
@@ -78,6 +84,17 @@ The closing balance of one month is the opening balance of the next. That link i
 
 Only cash movements belong in the forecast. Depreciation of equipment, for example, is not a cash payment, so it would not appear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--11-forecast-fill-order.webp" width="900" height="940" alt="A May and June forecast table with the lesson's eight steps numbered: months across the top, opening balance, inflows, outflows, add up, net cash flow, closing balance, and copying the closing balance to the next opening. May closes at 2,800 and June at 3,100. A May credit sale paid in June is June cash in; depreciation is not cash." loading="lazy">
+  <figcaption>The order in which a cash-flow forecast table is completed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## 3. Worked example: completing a forecast
 
 Orchard Row Preserves makes jam and chutney and sells to shops and at markets. Its owner has drawn up a forecast for May to July. The July payments include 4,000 for a new jar-filling machine.
@@ -104,6 +121,12 @@ Orchard Row Preserves makes jam and chutney and sells to shops and at markets. I
 **July:** opening balance 3,100. Inflows 6,400 + 2,600 = 9,000. Outflows 3,900 + 2,800 + 900 + 800 + 4,000 = 12,400. Net cash flow = -3,400. Closing balance = 3,100 - 3,400 = **-300**.
 
 A negative closing balance means the business would be short of cash by that amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--04-orchard-row-forecast.webp" width="900" height="1080" alt="Closing cash balances for Orchard Row are 2,800, 3,100 and minus 300 dollars for May to July, with opening balances and net cash flows beneath. A dashed bar shows July closing at 3,700 dollars if the 4,000 dollar machine is moved to August." loading="lazy">
+  <figcaption>Each closing balance becomes the next opening balance; July is 300 short because of the machine.</figcaption>
+</figure>
+
 
 ## 4. Interpreting and amending a forecast
 
@@ -134,6 +157,12 @@ A forecast helps a business to:
 
 It also has limits. Forecasts rest on estimates, such as expected sales. A new competitor, bad weather or a late-paying customer can make the real figures differ. A forecast is a planning guide, not a promise, and it must be updated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--10-forecast-vs-actual.webp" width="900" height="1045" alt="The Orchard Row forecast closes at 2,800, 3,100 and minus 300 dollars, warning of the July shortage in advance. A dashed illustrative actual line, with a customer paying 500 dollars late, closes at 2,800, 2,600 and minus 800, showing that forecasts are estimates to compare with actual cash and update." loading="lazy">
+  <figcaption>A forecast gives early warning but is only an estimate.</figcaption>
+</figure>
+
+
 ## 6. Overcoming a short-term cash-flow problem
 
 A short-term cash-flow problem is a temporary shortage, such as Orchard Row's July gap. The syllabus names three methods as examples.
@@ -147,6 +176,12 @@ A short-term cash-flow problem is a temporary shortage, such as Orchard Row's Ju
 Other ways exist, such as delaying a planned purchase (as in section 4), selling an unused asset, or the owner putting in more money. Whatever you choose, link it to the business in the question and consider how long the problem lasts. A one-off gap suits an overdraft. A permanent gap between inflows and outflows needs a deeper fix, such as higher prices or lower costs, because borrowing only postpones the problem.
 
 For the full range of finance options see section 5.1; this guide stays with short-term fixes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--09-three-cash-fixes.webp" width="900" height="1075" alt="Orchard Row is minus 300 dollars in July. An overdraft keeps bills paid but costs interest and can be withdrawn; delaying supplier payments keeps cash in longer but suppliers may refuse credit; asking debtors to pay sooner brings cash sooner but customers may be annoyed. A permanent gap needs higher prices or lower costs." loading="lazy">
+  <figcaption>Three short-term fixes for a cash gap, each with a benefit and a drawback.</figcaption>
+</figure>
+
 
 ## 7. Working capital
 
@@ -175,6 +210,12 @@ Now see how events change it. If Kingfisher pays 900 cash for new tools (a non-c
 - Too much is also a concern: money tied up in unsold stock or idle cash earns nothing, and could have been used to grow the business.
 
 The current ratio, which compares current assets with current liabilities, is covered under section 5.5, and the [topic practice set](/resources/o-level-business-financial-information-and-decisions-practice/) includes it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--05-working-capital-kingfisher.webp" width="900" height="970" alt="Current assets of 7,900 dollars (inventories, receivables, cash) stand against current liabilities of 4,500 dollars (payables, overdraft); the gap is working capital of 3,400 dollars. Paying 900 dollars cash for tools lowers it to 2,500 dollars, but a customer paying a debt leaves it unchanged." loading="lazy">
+  <figcaption>Working capital = current assets minus current liabilities = $3,400 for Kingfisher.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -32,6 +32,12 @@ Horizontal and vertical motion are independent. They share only the time. Gravit
 | Horizontal (no air resistance) | 0 | constant velocity |
 | Vertical | 9.81 m s⁻² downwards | uniform acceleration |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--05-horizontal-launch.webp" width="900" height="1210" alt="A ball thrown horizontally at 14 m/s from a 45 m cliff and a ball dropped at the same moment are shown every 0.5 s: always at the same height, landing together after 3.03 s. The thrown ball covers 7.0 m sideways each interval. It lands 42 m away at 33 m/s, 65 degrees below horizontal." loading="lazy">
+  <figcaption>The horizontal and vertical motions are independent and share only the time.</figcaption>
+</figure>
+
+
 ## Formulas and what each one is for
 
 | Use | Equation |
@@ -96,6 +102,17 @@ Launch from a height with an upward component: a ball leaves the top of a 20 m c
 
 The gradient of a velocity–time graph is the acceleration. The area under it is the displacement. At terminal speed the gradient is zero. Between release and terminal speed the area under the curve is less than the area under a straight line of gradient g, because the acceleration is smaller than g.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--01-v-t-graph-gradient-area.webp" width="900" height="1160" alt="A velocity-time graph rises from 0 to 8 m/s in 4 s, stays at 8 m/s for 4 s, then falls to -4 m/s over 3 s. The areas are +16, +32, +8 m above the axis and -2 m below it, so displacement is 54 m and distance is 58 m. An acceleration-time graph beneath shows the gradients +2, 0 and -4 m/s squared." loading="lazy">
+  <figcaption>Gradient of a v-t graph is acceleration; area is signed displacement, and distance adds the magnitudes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--02-suvat-from-graph.webp" width="900" height="1000" alt="A v-t graph for 6.0 to 22 m/s over 120 m has gradient 1.87 m/s squared and total area 120 m, split into a rectangle ut (51 m) and a triangle half a t squared (69 m). Four cards list the equations and which variable each leaves out." loading="lazy">
+  <figcaption>The area under a v-t graph for constant acceleration gives s = ut + half a t squared; each suvat equation omits one variable.</figcaption>
+</figure>
+
+
 ## Forces: friction, lift and drag
 
 | Force | Direction | Key point |
@@ -119,12 +136,24 @@ Graph of velocity against time: starts with gradient g, the gradient decreases, 
 
 Opening a parachute increases drag at once. Drag exceeds weight, so the skydiver decelerates until drag equals weight again at a lower terminal speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--08-terminal-speed.webp" width="900" height="1020" alt="A speed-time graph for an 80 kg skydiver starts with gradient g and flattens at about 55 m/s. Force diagrams show A: drag 0, a = 9.81; B: drag 500 N, a = 3.56 m/s squared; C: drag = weight = 785 N, a = 0." loading="lazy">
+  <figcaption>At terminal speed drag equals weight, the resultant force is zero and the speed is constant.</figcaption>
+</figure>
+
+
 ## Air resistance and a projectile
 
 - Horizontal velocity decreases.
 - Maximum height and range are smaller.
 - The path is asymmetrical, with a steeper descent than ascent.
 - Landing speed at the launch level is less than launch speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--09-air-resistance-path.webp" width="900" height="930" alt="Two paths for 30 m/s at 45 degrees: with no drag a symmetrical parabola (range 92 m, peak 23 m); with drag a shorter, lower, asymmetric path (range 56 m, peak 17 m) landing slower (20 m/s) and steeper (57 degrees)." loading="lazy">
+  <figcaption>With air resistance the range and height are smaller and the descent is steeper than the ascent.</figcaption>
+</figure>
+
 
 ## Maximum speed of a vehicle
 
@@ -166,6 +195,12 @@ Take g = 9.81 m s⁻². Answer without looking, then check.
 9. Any two: horizontal velocity falls; range is smaller; maximum height is smaller; descent is steeper; landing speed is lower.
 10. The driving force **equals** the total resistive force, so the resultant force is zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--06-angled-projectile.webp" width="900" height="880" alt="A ball launched at 28 m/s, 35 degrees, has vx = 22.9 and vy = 16.1 m/s, flight time 3.27 s, range 75 m and maximum height 13.1 m. At the top the velocity is the horizontal component only and the acceleration is still g downwards." loading="lazy">
+  <figcaption>At the top vertical velocity is zero but the speed equals vx and the acceleration is still g.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not resolving the launch velocity before using an equation.
@@ -177,6 +212,12 @@ Take g = 9.81 m s⁻². Answer without looking, then check.
 - Describing a graph without saying what the gradient represents.
 - Writing "air resistance slows it down" without saying which component or which effect on the path.
 - Forgetting units, or giving too many significant figures when the data has two or three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--04-stopping-distance.webp" width="900" height="950" alt="Two bars to scale: at 20 m/s thinking 13 m plus braking 28.6 m gives 42 m; at 30 m/s thinking 19.5 m plus braking 64.3 m gives 84 m. A 50 percent rise in speed multiplies braking distance by 2.25 and roughly doubles stopping distance." loading="lazy">
+  <figcaption>Thinking distance is proportional to speed; braking distance to speed squared (OCR only).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

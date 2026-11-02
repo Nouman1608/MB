@@ -90,6 +90,17 @@ Trade payables 11,640 + other payables 585    12,225
 Capital and liabilities                       65,875
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+
 ## Departmental statements (1.3.7)
 
 Use one column per department plus a total. Direct costs go to their own department; shared costs are apportioned on a fair basis (floor area for rent, revenue for advertising).
@@ -103,6 +114,17 @@ A shop has two departments, Furniture and Soft furnishings. Revenue 120,000 and 
 | Rent | 11,000 | 5,500 | 16,500 |
 | Advertising | 3,600 | 2,400 | 6,000 |
 | Profit | 12,400 | 17,100 | 29,500 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
 
 ## Incomplete records (1.3.8)
 
@@ -119,6 +141,17 @@ Bryn Castell's opening position: van 9,000, inventory 4,200, receivables 3,100, 
 Receipts from customers 61,400; closing receivables 3,700. Credit sales = 61,400 + 3,700 − 3,100 = **62,000**. Payments to suppliers 38,900; closing payables 2,950. Purchases = 38,900 + 2,950 − 2,650 = **39,200**.
 
 Bryn uses a 60% mark-up, so cost of sales = 62,000 ÷ 1.6 = 38,750. Expected closing inventory = 4,200 + 39,200 − 38,750 = 4,650. The inventory count shows 4,410, so **240** of inventory has been lost. Charge it as an expense; 4,410 goes in the statement of financial position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--09-markup-margin.webp" width="900" height="830" alt="Two bars show cost of 100. With profit of 25, mark-up is 25 percent and margin 20 percent. With profit of 60, mark-up is 60 percent and margin 37.5 percent. With a 60 percent mark-up, cost of sales is sales divided by 1.60." loading="lazy">
+  <figcaption>Mark-up is profit as a percentage of cost; margin is profit as a percentage of revenue.</figcaption>
+</figure>
+
 
 ## Partnerships (1.3.9–1.3.13)
 

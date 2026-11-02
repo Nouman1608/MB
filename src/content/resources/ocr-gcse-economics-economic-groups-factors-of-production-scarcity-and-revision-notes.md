@@ -60,6 +60,12 @@ These are condensed notes for sections 1.1 and 1.2 of the OCR GCSE (9-1) Economi
 
 Use "this leads to" chains. Example: higher business tax, so lower profit, so less investment and fewer jobs, so lower household spending, so lower sales and lower tax receipts. Then evaluate: it depends on how long it lasts and what the tax funds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--05-economic-groups-interdependence.webp" width="900" height="900" alt="Consumers supply labour and spend with producers; producers pay wages, rent and profit. Both pay taxes to the government, which provides services and benefits to both. Breaking one link affects the others." loading="lazy">
+  <figcaption>Consumers, producers and the government depend on each other through flows of money and services.</figcaption>
+</figure>
+
+
 ## 1.1 Factors of production and how to combine them
 
 Capital is equipment, not money. A van is capital; the cash used to buy it is not.
@@ -75,6 +81,22 @@ Capital is equipment, not money. A van is capital; the cash used to buy it is no
 
 Choice of method depends on relative factor prices, the product, scale, available skills and demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--06-labour-vs-capital-cost-per-box.webp" width="900" height="925" alt="Cost per box for hand presses and a printing machine at wages of 80 and 120 pounds a day: 17.00 vs 6.20 and 25.00 vs 7.80. The labour-intensive method is dearer and a wage rise widens the gap." loading="lazy">
+  <figcaption>A wage rise hurts the labour-intensive method most.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--11-capital-vs-money.webp" width="900" height="820" alt="Two panels. Capital, a factor of production, means productive equipment such as an oven, a mixer and a delivery van, which make other goods and earn interest. Money, or finance, means cash and savings and is not a factor of production. An arrow shows that money is used to buy capital." loading="lazy">
+  <figcaption>Capital is equipment that makes goods; money is finance that can buy capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+
 ## 1.2 Scarcity, wants and the economic problem
 
 Scarcity is permanent and applies to all economies. It is not the same as a temporary shortage of one product. The economic problem is the need to choose. It produces four linked questions.
@@ -87,6 +109,12 @@ Scarcity is permanent and applies to all economies. It is not the same as a temp
 | For whom | Who receives the output? How is income shared? |
 
 Every answer to one question affects the others. Choosing capital-intensive methods (how) can mean fewer jobs and so a different pattern of incomes (for whom).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--10-economic-problem-three-questions.webp" width="900" height="980" alt="Three cards. What to produce: for example more hospitals or more roads. How to produce: many workers or machines. For whom: who gets the goods and how income is shared. Below, a bar showing who decides: markets, a mix, or the government. Resources are scarce and wants are unlimited, so every society must choose." loading="lazy">
+  <figcaption>Scarcity forces every society to decide what, how and for whom to produce, and who decides.</figcaption>
+</figure>
+
 
 ## Opportunity cost
 
@@ -104,6 +132,22 @@ Every answer to one question affects the others. Choosing capital-intensive meth
 **Reminder 3.** In a table of production options, the cost of moving between options is the fall in the other good. If the cost per extra unit rises, resources are not equally suited to both goods.
 
 Applies to consumers, producers and governments. It is not the total of all alternatives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--07-island-ppc-opportunity-cost.webp" width="900" height="975" alt="Graph of Island A's options P to U in rice and fish. Each extra 10 rice costs 4, 8, 12, 16 then 20 fish, so the opportunity cost rises. Option S is 30 rice and 36 fish." loading="lazy">
+  <figcaption>Moving from fish to rice costs more fish each time, so opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--12-opportunity-cost-runner-up.webp" width="900" height="840" alt="Two ranked lists. A student with 40 pounds ranks a concert ticket first, trainers at 35 pounds second and a game at 25 pounds third. She buys the ticket, so her opportunity cost is the trainers only. A council with 60 million pounds ranks a bypass first, a health clinic second and a sports centre third. It builds the bypass, so the opportunity cost is the clinic. Examples 1 and 3 from the lesson." loading="lazy">
+  <figcaption>Opportunity cost is only the next best option given up: trainers for the student, the clinic for the council.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## Evaluating economic choices
 
@@ -134,6 +178,12 @@ Point: a firm replaces five workers with a machine. Effect: cost per unit falls,
 ### Linking 1.1 and 1.2
 
 Every group faces scarcity. Consumers have limited income and time. Producers have limited factors. The government has limited tax revenue. Each group therefore chooses, and each choice has an opportunity cost that falls on someone else in the chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-economic-groups-factors-of-production-scarcity-and--13-lowmoor-sustainability.webp" width="900" height="1000" alt="Three options for 40 hectares of council land. Solar farm: net 14.5 million pounds over 25 years, 6 jobs and cheaper energy, clean energy but panels to recycle. Housing: a one-off 4.5 million pounds, 150 homes but more traffic, green space lost. Nature park: net cost 2.45 million pounds over 25 years, recreation and health benefits, biodiversity and flood protection. Plus and minus signs mark benefits and costs. Invented figures from the lesson." loading="lazy">
+  <figcaption>The three Lowmoor options score differently on money, people and the environment, so a judgement is needed.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -185,3 +235,9 @@ Every group faces scarcity. Consumers have limited income and time. Producers ha
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification version 2.0 (June 2026), first assessment 2019, published by OCR (Oxford Cambridge and RSA). Sections 1.1 and 1.2 of Introduction to Economics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+

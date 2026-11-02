@@ -41,6 +41,12 @@ Cash is the money a business can spend straight away: notes and coins and the ba
 
 A business can be making a profit and still run out of cash. Suppose it sells goods on credit this month. The sale counts in its trading results, but the money may arrive weeks later. If bills fall due first, it cannot pay them. A business that cannot pay its debts as they fall due may be forced to close. This is why managers watch cash as well as profit. Profit is covered separately, in section 5.3 of the syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## What a cash flow forecast is
 
 A cash flow forecast is an estimate of the money expected to come into and go out of a business over a future period, usually month by month. It shows the expected cash balance at the end of each month.
@@ -71,6 +77,12 @@ Two relationships hold the whole forecast together:
 - Closing balance = opening balance + net cash flow
 
 The closing balance of one month is the opening balance of the next month. Remember that only cash actually moving counts. A credit sale appears in the month the customer pays, not the month the goods are sold. Negative figures are shown with a minus sign or in brackets. A negative closing balance means the business expects to be short of cash, which in practice means it would be overdrawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
 
 ## Completing a forecast
 
@@ -109,6 +121,12 @@ Step 4: closing balances are 3,500, -7,300, -5,700 and -3,700. Each is the openi
 
 Interpretation: the business is short of cash from April to June, and the cause is the press. Without it, the closing balances would be 3,500, 4,700, 6,300 and 8,300. Day-to-day trading generates cash every month. The problem comes from one large payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--01-cf-moorgate.webp" width="900" height="1130" alt="Bar charts in dollars for March to June. Net cash flow is +500, -10,800, +1,600 and +2,000; the April dip is the 12,000 press. Closing balances are 3,500, -7,300, -5,700 and -3,700. Without the press they would be 3,500, 4,700, 6,300 and 8,300." loading="lazy">
+  <figcaption>One large payment, not day-to-day trading, causes Moorgate's shortage.</figcaption>
+</figure>
+
+
 ### Worked example 2: finding missing values
 
 Sunvale Bakery has a forecast with gaps (letters mark them).
@@ -131,6 +149,12 @@ Sunvale Bakery has a forecast with gaps (letters mark them).
 
 Working backwards from a given closing balance or net figure is a common way to be tested. Use the two relationships above and check each answer against the neighbouring cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--07-cf-sunvale-missing.webp" width="900" height="860" alt="The Sunvale table with gaps A to H filled: A -800, B 1,200, C 1,200, D 7,900, E 1,200, F 1,200, G 1,300, H 2,500. Net = inflow - outflow and closing = opening + net; each closing balance becomes the next opening." loading="lazy">
+  <figcaption>Two relationships and the carry-forward rule fill every gap in the forecast.</figcaption>
+</figure>
+
+
 ## Amending a forecast
 
 Forecasts change when information changes. To amend one, move or alter only the affected figures, then recalculate every balance from that month onwards. Balances before the change stay the same.
@@ -150,6 +174,12 @@ Eldridge Cycle Hire opens June with 6,000. Its original forecast:
 A tour company that owes 4,000 for July hires says it will pay in August instead. July inflow becomes 10,000 and August inflow becomes 20,000. The new July net is -500 and the closing balance is 3,500. August opens at 3,500, has a net of +8,000 and closes at 11,500. September is unchanged.
 
 Notice what happened. The July balance was lower, but August onwards returned to the original figure because the money still arrived within the forecast period. A late payment changes timing. It does not change the total unless the customer never pays.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--03-cf-eldridge-late.webp" width="900" height="848" alt="Paired bars of closing balances June to September. Original: 4,000, 7,500, 11,500, 9,000. Amended for a 4,000 payment arriving in August not July: 4,000, 3,500, 11,500, 9,000." loading="lazy">
+  <figcaption>A late payment changes timing, not the total.</figcaption>
+</figure>
+
 
 ## Interpreting a forecast
 
@@ -179,6 +209,17 @@ The syllabus lists four ways to overcome a short-term cash flow problem. They de
 Return to Moorgate. If it delays the 12,000 press from April to June, its closing balances become 3,500, 4,700, 6,300 and -3,700. April and May are now safe. The shortage is moved to June, not removed. Delay therefore needs support, such as an overdraft limit that covers 3,700, or faster customer payments in May and June.
 
 When asked to recommend or justify a remedy, match it to the cause and the size of the gap. A one-off large payment suggests delaying it or borrowing. Slow-paying customers suggest chasing them. A recommendation needs a reason and, for evaluation, a comparison with another option and a judgement about the circumstances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--02-cf-delay-press.webp" width="900" height="780" alt="Paired bars of closing balances. Press in April: 3,500, -7,300, -5,700, -3,700. Press in June: 3,500, 4,700, 6,300, -3,700. The shortage moves to June." loading="lazy">
+  <figcaption>Delaying a payment moves the shortage; it does not remove it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--08-cf-four-remedies.webp" width="900" height="950" alt="Four cards: overdraft (bills paid at once; interest, can be withdrawn), delaying supplier payments (cash stays longer; lost trust or discount), customers paying sooner (cash earlier; customers annoyed), delaying a non-current asset (payment moves; output held back)." loading="lazy">
+  <figcaption>Four methods cover a short cash gap, each with a cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

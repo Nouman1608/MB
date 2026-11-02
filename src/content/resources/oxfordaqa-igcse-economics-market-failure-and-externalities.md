@@ -64,6 +64,17 @@ The specification asks for methods of intervention that counter misallocation wi
 
 Judging a method means asking whether it fixes the specific gap, who pays, and what else the money could have done.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--06-intervention-methods.webp" width="900" height="920" alt="Five methods are shown with what each changes and one limit: tax, subsidy, regulation or ban, direct provision, and information." loading="lazy">
+  <figcaption>Each method of intervention changes something and has a limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+
 ## 3.1.6.2 Externalities
 
 An **externality** is a cost or a benefit that lands on someone outside the deal between buyer and seller.
@@ -111,6 +122,12 @@ Notice that the best outcome is **not** zero pollution. Block 3 still carries an
 
 Describe the same case as a diagram. The vertical axis is cost and benefit and the horizontal axis is quantity. The demand curve slopes down. The private cost (supply) curve slopes up. A second, higher curve shows social cost. Market equilibrium is where demand meets the private cost curve. The social optimum is where demand meets the higher social cost curve, at a smaller quantity and a higher price. The gap between the two cost curves at any quantity equals the external cost. The triangle between them, from the social optimum to the market output, is the welfare loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ### Worked example 2: a positive consumption externality
 
 Island B (illustrative) has a vaccination programme. Each unit is 1,000 doses. The cost per unit is 40 to supply. Each unit gives an external benefit of 25 by lowering the spread of infection.
@@ -136,6 +153,12 @@ In the diagram, the social benefit curve lies **above** the demand curve. The so
 
 How well a tax works depends on how consumers respond. Suppose a tax on a harmful good raises its price by 10%, and price elasticity of demand is -0.4. Quantity falls by 0.4 × 10 = 4%. Demand is inelastic, so the fall is small. With inelastic demand the state collects plenty of money, but people keep buying almost as much.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--05-tax-ped-link.webp" width="900" height="720" alt="A tax raises price by 10%. With elasticity -0.4 quantity falls by 4%, a small fall, so the state collects plenty while people keep buying." loading="lazy">
+  <figcaption>A 10% price rise with elasticity -0.4 cuts quantity by only 4%.</figcaption>
+</figure>
+
+
 ### Evaluating intervention
 
 - **Measurement.** The size of an external cost or benefit is hard to value. A tax set too high or too low still leaves misallocation.
@@ -145,6 +168,27 @@ How well a tax works depends on how consumers respond. Suppose a tax on a harmfu
 - **Opportunity cost.** Funds spent on one policy cannot be spent on another.
 
 A strong evaluation chooses a method, gives a reason that fits the situation, and weighs one limit against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--11-mf-town-x.webp" width="900" height="1000" alt="Benefit falls from 80 to 30 over blocks 1 to 6, private cost rises from 20 to 70 and social cost is private cost plus 15. The market stops at block 4 where benefit equals private cost. Society would stop at block 3. Block 4 costs society 65 but is worth 50, a loss of 15." loading="lazy">
+  <figcaption>A negative externality makes the market over-produce by one block.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--12-mf-island-b.webp" width="900" height="1000" alt="Private benefit falls from 90 to 10 over units 1 to 5, and social benefit is private benefit plus 25. At a cost of 40 the market provides 3 units but society would take 4. Unit 4 is worth 55 and costs 40, a gain of 15. A subsidy of 25 gives output 4 at a bill of 100." loading="lazy">
+  <figcaption>A positive externality makes the market provide one unit too few.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--07-tax-level-evaluation.webp" width="900" height="1110" alt="Rows of six output blocks from Worked example 1 show no tax over-produces by one block (loss 15), a tax of 15 gives the best output of 3 blocks, and a tax of 25 stops block 3 (lost gain 5)." loading="lazy">
+  <figcaption>A tax set too high or too low still leaves misallocation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Common errors
 

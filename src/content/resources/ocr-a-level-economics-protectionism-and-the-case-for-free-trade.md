@@ -91,6 +91,22 @@ Revenue peaks at a middle rate, then falls to zero. A tariff cannot both protect
 
 **A large country.** If Country A buys so much that the world price falls to 9.5 after the tariff, the domestic price is 11.5 (9.5 + 2). Then Qd = 54, Qs = 29.5, imports = 24.5, revenue = 49. Foreign sellers carry 0.5 × 24.5 = 12.25 of that revenue. Net welfare is: consumer loss 85.5, producer gain 40.875, revenue 49, giving +4.375. A large importer can gain, which is the optimal tariff argument. The gain comes at the exporter's expense and vanishes if foreign governments retaliate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--07-trade-tariff-areas.webp" width="900" height="1060" alt="Small open market for kettles: domestic demand Qd = 100 - 4P, domestic supply Qs = 3P - 5, world price 10. Free trade: demand 60, supply 25, imports 35. A tariff of 2 raises the price to 12: demand 52, supply 31, imports 21. Area a (56) is the producer surplus gain, b (6) is wasted resources, c (42) is tariff revenue, d (8) is lost consumption." loading="lazy">
+  <figcaption>A tariff moves surplus from consumers to producers and government and loses b + d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--01-tariff-rate-imports-revenue.webp" width="900" height="990" alt="Imports fall in a straight line from 35 to 0 as the tariff rises from 0 to 5, where the domestic price equals the no-trade price. Revenue is 0, 42, 28 and 0 at tariffs 0, 2, 4 and 5." loading="lazy">
+  <figcaption>Imports fall steadily as the tariff rises and revenue peaks then falls to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--02-tariff-small-vs-large-country.webp" width="900" height="1014" alt="Two waterfall charts. Small country: consumers -112, producers +56, government +42, net -14. Large country (world price falls to 9.5): consumers -85.5, producers +40.875, government +49, net +4.375." loading="lazy">
+  <figcaption>A small country loses 14 from a tariff while a large country can gain 4.375 at the exporter’s expense.</figcaption>
+</figure>
+
+
 ## The quota diagram
 
 A quota of 21 thousand creates the same result as the tariff of 2: the price rises to 12 and the same triangles appear. The difference is who gets rectangle c. Under a quota that rectangle is **quota rent**. It goes to whoever holds the import licences: foreign exporters, domestic importers, or the government if it auctions them.
@@ -103,11 +119,28 @@ Now suppose demand rises to Qd = 114 − 4P.
 
 A tariff leaves the price fixed and lets quantity adjust. A quota fixes the quantity and lets the price adjust. That is why a quota gives domestic firms more protection when demand grows, and why consumers can lose more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--08-trade-quota-vs-tariff.webp" width="900" height="1010" alt="After demand rises to Qd = 114 - 4P, a tariff of 2 keeps the domestic price at 12 and lets imports rise from 21 to 35. A quota of 21 thousand fixes imports, so the price adjusts to 14 (where Qd 58 equals domestic supply 37 plus the quota 21). The rectangle between prices 10 and 14 across the 21 units of imports is quota rent of 84, which goes to whoever holds the licences." loading="lazy">
+  <figcaption>A tariff fixes the price; a quota fixes imports and creates quota rent.</figcaption>
+</figure>
+
+
 ## Other methods
 
 **Subsidy.** Pay domestic producers 2 per unit. They now receive 12, so Qs = 31, while consumers still pay 10 and buy 60. Imports fall from 35 to 29. The cost to the government is 2 × 31 = 62, split into 56 of extra producer surplus and 6 of wasted resources (triangle b). There is no consumption distortion, so the net loss (6) is smaller than the tariff's (14), but taxpayers fund the whole cost and it raises no revenue.
 
 **Administrative barriers** act like a tariff but raise no revenue, and are harder to measure and challenge. An **embargo** is the extreme case: the home price rises to the no-trade level. **Export subsidies** help exporters but can trigger counter-measures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--09-trade-subsidy-protection.webp" width="900" height="1020" alt="Same kettle market. Paying domestic producers 2 per unit means they receive 12 and supply 31 thousand, while consumers still pay the world price 10 and buy 60. Imports fall from 35 to 29. The government pays 2 x 31 = 62: 56 is extra producer surplus and 6 is wasted resources." loading="lazy">
+  <figcaption>A subsidy protects producers with a smaller net loss than a tariff but costs taxpayers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Effectiveness
 
@@ -180,6 +213,12 @@ International competitiveness is how well a country's firms win sales against fo
 | Managing the exchange rate | Lowers export prices | Inflation risk; other units cover this |
 
 Supply-side policies work in the long run but take years to show results. Others act quickly but are easy for rivals to copy. A balanced answer weighs speed against durability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-protectionism-and-the-case-for-free-trade--03-unit-labour-cost-productivity.webp" width="900" height="1010" alt="A 20 hourly wage spread over 5 units costs 4.00 each; over 6.25 units it costs 3.20, a 20% fall. Wages +4% with productivity +1% raise unit labour cost 2.97%; +3% and +3% leave it unchanged." loading="lazy">
+  <figcaption>Unit labour cost is wage cost divided by productivity.</figcaption>
+</figure>
+
 
 ## Common errors
 

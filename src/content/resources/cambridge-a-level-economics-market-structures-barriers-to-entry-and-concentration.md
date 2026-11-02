@@ -72,6 +72,17 @@ Two firms: each makes 100,000
 
 The second firm adds a second set of pipes, so total cost rises by 600,000 cu, which is exactly one extra fixed cost. Duplicating the network is wasteful, so natural monopoly is a case where one seller is more efficient on cost. The risk is that the single seller uses its power over price, which is why such markets are often a concern for governments. Government responses to this risk belong to the intervention topics, not to this unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--11-four-market-structures.webp" width="900" height="1000" alt="Four rows from perfect competition (very many identical sellers, free entry, price taker) through monopolistic competition and oligopoly to monopoly (one seller, blocked entry, price maker). Dot counts are illustrative." loading="lazy">
+  <figcaption>The four market structures differ in sellers, product, entry, information and price control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--12-natural-monopoly-one-or-two.webp" width="900" height="890" alt="One firm serves 200,000 units at average cost 5 (total 1,000,000). Two firms each serve 100,000 at average cost 8 (total 1,600,000) because the second duplicates the pipes. The extra 600,000 is one more fixed cost." loading="lazy">
+  <figcaption>Worked example: duplicating the network adds exactly one fixed cost.</figcaption>
+</figure>
+
+
 ## 7.6.3: barriers to entry and exit
 
 A barrier to entry is anything that makes it harder or costlier for a new firm to enter a market than it was for existing firms. Barriers explain why a market stays concentrated.
@@ -118,6 +129,27 @@ Two thirds of the outlay is sunk, so the firm risks 600,000 cu if the entry fail
 
 **Evaluation points.** Barriers are matters of degree. A patent expires, a brand can be copied, and technology can reduce start-up costs. Barriers can also benefit consumers, for example when patent protection pays for research. Judge how high a barrier is and how long it lasts before concluding that a firm holds lasting power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--13-mes-room-for-firms.webp" width="900" height="920" alt="Market of 480,000 tonnes: MES 40,000 leaves room for 12 firms, 160,000 for 3, 480,000 for 1, and 600,000 gives 0.8 of a firm." loading="lazy">
+  <figcaption>A large minimum efficient scale leaves room for few firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--14-sunk-costs-entry.webp" width="900" height="820" alt="Of a 900,000 outlay, equipment 500,000 (resale 150,000), advertising 250,000 and a refundable deposit 150,000: 300,000 is recoverable and 600,000 sunk, two thirds." loading="lazy">
+  <figcaption>Worked example: two thirds of the entry outlay is sunk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--05-limit-pricing-entrant-loss.webp" width="900" height="830" alt="The incumbent has unit cost 4.00 and price 5.00 (profit 1.00 a unit). A new entrant at 10,000 units has unit cost 6.40, so matching 5.00 it loses 1.40 a unit, 14,000 in total." loading="lazy">
+  <figcaption>Worked example: matching the incumbent price, the entrant loses 14,000 while the incumbent still profits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 7.6.5: the concentration ratio
 
 A concentration ratio (CR) is the combined market share of the largest n firms in a market. It is written CRn, so CR4 is the four-firm concentration ratio.
@@ -160,6 +192,22 @@ Both markets have a CR4 of 88%, but P has one dominant firm and Q has four equal
 - It ignores imports and competition from outside the country.
 - It says nothing about barriers, so a high CR does not prove that rivals cannot enter.
 - It is a snapshot, so the trend matters as well as the level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--15-same-cr4-different-markets.webp" width="900" height="760" alt="Markets P (55, 15, 10, 8) and Q (22, 22, 22, 22) both have CR4 of 88 percent. If two of Q leaders merge, CR3 rises from 66 to 88 percent." loading="lazy">
+  <figcaption>The same CR4 can hide very different markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration--06-cr4-working-backwards.webp" width="900" height="590" alt="Total sales are 250 million and CR4 is 72%, so the top four sell 180 million (average 45 million) and the rest 70 million. If the largest sells 90 million its share is 36%." loading="lazy">
+  <figcaption>Working backwards: CR4 of 72% of 250 million is 180 million, and a largest firm of 90 million has a 36% share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
 
 ## Common errors
 

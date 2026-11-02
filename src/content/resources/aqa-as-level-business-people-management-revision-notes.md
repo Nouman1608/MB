@@ -43,6 +43,12 @@ Quick recall for AQA AS Business (7137), for first teaching from September 2026,
 5. Choose actions: recruit, train, retain, redeploy or make redundant.
 6. Check what the labour market can supply and review.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--10-ppl-hr-planning.webp" width="900" height="960" alt="Four steps: current workforce, forecast future needs, find gaps in skills or numbers, check labour market supply. The plan then decides to recruit, train, retain, redeploy or make redundancies." loading="lazy">
+  <figcaption>HR planning works from the present workforce to the gaps and the supply available.</figcaption>
+</figure>
+
+
 ## Employment types at a glance
 
 | Type | Main plus | Main minus |
@@ -85,6 +91,22 @@ Quick recall for AQA AS Business (7137), for first teaching from September 2026,
 
 Comment: fewer staff are doing more, and turnover has fallen, so the position has improved on every measure. The risk is overload on 24 people, so engagement and wellbeing data should be checked. Also say why the HR data matters: engagement, representation, diversity and wellbeing are measured so that problems are found early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--08-ppl-hr-data.webp" width="900" height="1080" alt="Four bar pairs for Year 1 and Year 2: productivity 8,000 to 8,500 (index 106.25), sales per employee 60,000 to 65,000 pounds (index 108.3), employee turnover 15% to 18.2%, employee costs 30% of revenue in both years." loading="lazy">
+  <figcaption>The bakery is more efficient, but rising turnover needs investigating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--02-hr-measures.webp" width="900" height="1040" alt="Six measures radiate from an average of 190 staff: productivity 400 items each, sales per employee 50,000 pounds, profit per employee 6,000 pounds, employee costs 28 percent of revenue, labour cost 35 pounds per item and labour turnover 20 percent." loading="lazy">
+  <figcaption>One average headcount feeds every HR data measure in the worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+
 ## Structures
 
 | Feature | Tall | Flat |
@@ -116,6 +138,17 @@ Comment: fewer staff are doing more, and turnover has fallen, so the position ha
 
 Impact: individuals (motivation, stress), teams (cooperation), the business (performance, retention). Influences on choice: personality, staff skills, urgency, culture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--09-ppl-leadership-styles.webp" width="900" height="1060" alt="Three panels: one-way arrow for autocratic, two-way arrows for democratic, and a leader pointing staff to a shared vision for transformational. Each has a one-line strength or limit from the lesson." loading="lazy">
+  <figcaption>Transformational leaders set an inspiring vision, unlike deciding alone or consulting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
+
 ## Developing people and teams
 
 - **Appraisal**: feedback, training needs, link to pay or promotion. Risk: feels like criticism.
@@ -124,6 +157,12 @@ Impact: individuals (motivation, stress), teams (cooperation), the business (per
 
 **Hackman's model, five conditions**: real team; compelling direction; enabling structure; supportive context; expert coaching. Judged on output quality, ability to keep working together, and member growth. Exam use: spot the missing condition in the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--09-ppl-hackman.webp" width="900" height="1020" alt="Five numbered conditions (real team, compelling direction, enabling structure, supportive context, expert coaching) lead to an effective team, judged by output quality, ability to keep working together and member growth." loading="lazy">
+  <figcaption>A team is more likely to succeed when all five conditions are in place.</figcaption>
+</figure>
+
+
 ## Motivation theories
 
 | Theory | Core idea | Business use | Limit |
@@ -131,6 +170,17 @@ Impact: individuals (motivation, stress), teams (cooperation), the business (per
 | Taylor | Pay is the main motivator; simple timed tasks | Piece rate, tight methods | Ignores other needs; monotony |
 | Maslow | Hierarchy: physiological, safety, social, esteem, self-actualisation | Meet the next unmet need | Not everyone follows the order |
 | Herzberg | Hygiene factors prevent dissatisfaction; motivators raise motivation | Enrich jobs, delegate | Hard to separate in practice |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
 
 ## Rewards
 
@@ -142,6 +192,12 @@ Impact: individuals (motivation, stress), teams (cooperation), the business (per
 - **Wellbeing methods**: physical and mental health support, inclusive environment, employee voice, flexible working. Benefits: lower absence, retention, engagement. Challenges: cost, hard to measure.
 - **Individual representation**: flexible, personal; low bargaining power. **Collective** (trade unions, employee forums): strong voice, protection; may bring conflict and delay.
 - **Poor relations, causes**: pay disputes, poor communication, unfair treatment, sudden change. **Consequences**: strikes, absence, turnover, lower productivity, reputation. **Improving**: communicate, consult, fair pay, resolve grievances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-people-management--11-ppl-representation.webp" width="900" height="1000" alt="One employee facing a manager has little bargaining power. Employees represented collectively, by a trade union or an employee forum, have a stronger voice but may create conflict." loading="lazy">
+  <figcaption>Individual representation is personal; collective representation is stronger but can slow change.</figcaption>
+</figure>
+
 
 ## Influences and links to other functions
 
@@ -213,3 +269,9 @@ For calculation questions, show the formula, the working and the unit, then say 
 ## Official syllabus
 
 AQA AS and A-level Business specification (7137, 7138), for first teaching from September 2026, section 3.2.1 People management.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+

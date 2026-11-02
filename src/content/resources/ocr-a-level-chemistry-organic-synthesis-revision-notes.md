@@ -43,6 +43,12 @@ Quickfit glassware joins by standard ground-glass joints. Clamp the flask and co
 - Carboxylic acid: **reflux** with **excess** oxidising agent.
 - Colour change for both: orange to green.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
+
 ## 4.2.3(a)(ii): Purifying an organic liquid
 
 ### Method in steps
@@ -55,6 +61,22 @@ Quickfit glassware joins by standard ground-glass joints. Clamp the flask and co
 6. Dry with an anhydrous salt, e.g. anhydrous MgSO₄ or CaCl₂, until the liquid is clear and some solid moves freely.
 7. Decant or filter off the drying agent.
 8. Redistil; collect the fraction within a narrow range around the boiling point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
 
 ### Must-know distinctions
 
@@ -112,6 +134,12 @@ In a structural formula, the carboxyl group is written COOH. A tertiary alcohol 
 - Alcohol → haloalkane: NaBr, H₂SO₄
 - Primary alcohol → aldehyde: Cr₂O₇²⁻ / H⁺, distil; aldehyde → carboxylic acid: Cr₂O₇²⁻ / H⁺, reflux
 - Secondary alcohol → ketone: Cr₂O₇²⁻ / H⁺, reflux
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
 
 ### Method in steps
 
@@ -186,6 +214,12 @@ Exam papers may give a reaction that is not in Module 4. Read it as a new row in
 - Spotting only two of three functional groups in a multi-group molecule.
 - Giving a route that oxidises a tertiary alcohol, or ignores Markownikoff's rule with HBr.
 - Giving a reagent with no conditions, such as "NaOH" without "aqueous" and "heat".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

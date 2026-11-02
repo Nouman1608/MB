@@ -83,6 +83,12 @@ Z |---- I ----|=========== A band ===========|---- I ----| Z
 | Z lines | Closer | Further apart |
 | Filament lengths | Same | Same |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">
+  <figcaption>The cross-bridge cycle: calcium, binding, power stroke, ATP detachment and reset.</figcaption>
+</figure>
+
+
 ## Reading images: formulas
 
 | Quantity | Rule |
@@ -143,6 +149,12 @@ Convert mm to µm: multiply by 1000.
 **"Explain why muscles work in pairs."** A contracting muscle can only pull. Its partner must contract to pull the bone back the other way, while the first relaxes. The incompressible skeleton acts as a lever and transmits the pull.
 
 **"Suggest why phosphocreatine is useful at the start of a sprint."** It makes ATP in one fast step, needs no oxygen, and the supply of ATP from respiration has not yet risen to match the demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
 
 ## Quick comparison of what is seen at each stage
 

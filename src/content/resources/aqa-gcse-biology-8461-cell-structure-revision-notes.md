@@ -54,6 +54,17 @@ mm  <--÷1000--  μm  <--÷1000--  nm
 
 **Worked reminder:** 30 μm = 30 × 10⁻⁶ m = **3 × 10⁻⁵ m**. Check: the number in front must be at least 1 and less than 10.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--01-cell-scale-orders.webp" width="900" height="900" alt="A log number line from 1 nm (10^-9 m) to 1 cm (10^-2 m). A 1 micrometre bacterium sits at 10^-6 m and a 0.1 mm plant cell at 10^-4 m, 100 times longer, two orders of magnitude. Working shown: 0.1 mm x 1000 = 100 micrometres = 1 x 10^-4 m; -4 minus -6 = 2." loading="lazy">
+  <figcaption>Plant cell 0.1 mm and bacterium 1 micrometre are two orders of magnitude apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+
 ## 4.1.1.2 Animal and plant cells
 
 **Animal cells (most):** nucleus, cytoplasm, cell membrane, mitochondria, ribosomes.
@@ -84,6 +95,22 @@ Use estimation to judge the **relative** size or area of sub-cellular structures
 > 3. Divide or multiply to get the estimate.
 > 4. Write "about" or "approximately" and give a sensible number of figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+
 ## Required practical 1 -- method in steps
 
 > 1. Thin layer of cells (e.g. onion epidermis) on a slide.
@@ -95,6 +122,12 @@ Use estimation to judge the **relative** size or area of sub-cellular structures
 > 7. Add a **magnification scale** (scale bar).
 
 Total magnification = eyepiece × objective. ×10 eyepiece and ×10 objective gives ×100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--02-inhibition-zone-area.webp" width="900" height="1140" alt="Petri dish with three discs: A has an 18 mm clear zone (radius 9 mm, area about 254 mm2), B a 10 mm zone (about 79 mm2, illustrative), and a control disc C with no zone. A bigger area means a more effective antiseptic." loading="lazy">
+  <figcaption>A larger clear zone means a more effective antiseptic; use the radius in pi r squared.</figcaption>
+</figure>
+
 
 ## 4.1.1.3 Cell specialisation
 
@@ -109,6 +142,17 @@ Total magnification = eyepiece × objective. ×10 eyepiece and ×10 objective gi
 
 If the exam describes a cell you have not met, use the same "feature → what it allows" pattern with the information given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--01-cell-muscle-xylem-phloem.webp" width="900" height="910" alt="A muscle cell with protein fibres and mitochondria, a hollow xylem tube with lignin walls and flowing water, and phloem cells joined end to end with pores in the end walls letting sugars pass." loading="lazy">
+  <figcaption>Muscle, xylem and phloem cells each have features that suit their job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
+
 ## 4.1.1.4 Cell differentiation
 
 - As an organism develops, cells **differentiate** into different types.
@@ -116,6 +160,12 @@ If the exam describes a cell you have not met, use the same "feature → what it
 - Most **animal** cells differentiate early. Many **plant** cells keep the ability **throughout life**.
 - In mature animals, cell division is mainly for **repair and replacement**.
 - Importance: it produces the different cell types that form tissues and organs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--02-cell-differentiation.webp" width="900" height="960" alt="An unspecialised cell gains structures such as a tail, branched ends or a root hair as it differentiates. Two timelines show animal cells differentiate mainly early while plant cells differentiate throughout life." loading="lazy">
+  <figcaption>Differentiation gives specialised cells; plants keep the ability for longer than animals.</figcaption>
+</figure>
+
 
 ## 4.1.1.5 Microscopy
 
@@ -141,6 +191,17 @@ magnification = size of image / size of real object
 
 **Scale bar:** magnification = measured length of bar / length written on bar (same units).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--03-cell-resolution-limit.webp" width="900" height="1180" alt="Two dots 100 nm apart give one merged blob in a light microscope (limit about 200 nm) but two peaks in an electron microscope. Enlarging a blob adds no detail." loading="lazy">
+  <figcaption>Resolution, not magnification, decides whether close points can be told apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--04-cell-scale-bar-worked.webp" width="900" height="840" alt="A 10 mm scale bar labelled 10 micrometres gives a magnification of x1000, so a cell 45 mm long is 45 micrometres; the bar fits 4.5 times along the cell." loading="lazy">
+  <figcaption>A scale bar gives the magnification, from which real size follows.</figcaption>
+</figure>
+
+
 ## 4.1.1.6 Culturing microorganisms
 
 - Bacteria divide by **binary fission**, as often as once every **20 minutes** with enough nutrients and a suitable temperature.
@@ -165,6 +226,12 @@ magnification = size of image / size of real object
 > 1. Halve the diameter to get r.
 > 2. Area = πr².
 > 3. Give the unit (mm² or cm²).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-structure--05-cell-binary-fission-growth.webp" width="900" height="1010" alt="150 bacteria double every 30 minutes for 3 hours: 6 divisions, 150 x 64 = 9600, or 9.6 x 10^3 in standard form (Higher tier only)." loading="lazy">
+  <figcaption>Numbers double at each division, so growth gets steeper.</figcaption>
+</figure>
+
 
 ## Required practical 2 -- method in steps
 

@@ -65,6 +65,22 @@ Using 5% growth and a relative share of 1 as the dividing lines, Wyndle has one 
 
 **Limitations.** Defining "the market" changes the result; high share does not guarantee high profit; the matrix is a snapshot; and a dog may be worth keeping if customers buy it alongside other lines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--07-boston-matrix.webp" width="900" height="940" alt="Scatter chart of market growth against relative market share with dividing lines at 5 percent and 1. Salted Twists is a cash cow, Lentil Puffs a star, Seaweed Crisps a question mark and Crunch Rods a dog. An arrow shows cash cow money funding the question mark." loading="lazy">
+  <figcaption>The Boston Matrix classifies each product by market growth and relative share.</figcaption>
+</figure>
+
+
 ## 2. Assessing performance from the accounts
 
 ### Reading and amending the statements
@@ -129,6 +145,12 @@ Year 2 ROCE in full: `864 ÷ (2,000 + 4,140) × 100 = 864 ÷ 6,140 × 100 = 14.0
 
 After the inventory write-off, ROCE falls further to 744 ÷ 6,020 × 100 = **12.36%** and the current ratio to **1.68**, but the acid test ratio stays at **1.0** because inventory is excluded from it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+
 ### The value of ratio analysis
 
 Ratios turn raw figures into comparable measures, show trends and help owners, lenders and investors judge performance and risk. But a ratio describes rather than explains, and one-off events can distort it.
@@ -163,6 +185,12 @@ Selsworth's Year 2 revenue of 7,200 came from three profit centres:
 - **Historic:** the accounts show what has happened, not what will happen.
 - **No non-financial factors:** they miss staff morale, brand reputation and environmental impact, all of which affect future performance.
 - A statement of financial position shows one date and may not be typical of the year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
 
 ## 3. Analysing business culture
 

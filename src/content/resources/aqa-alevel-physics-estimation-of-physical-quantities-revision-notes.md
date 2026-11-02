@@ -57,6 +57,22 @@ Points to hold on to:
 - A temperature written in °C is not in the base unit, which is the kelvin.
 - The newton, joule, watt, coulomb and volt are all derived units. None of them is a base unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--03-squared-units.webp" width="900" height="890" alt="A 1 cm square divided into 100 one-millimetre squares shows 1 cm^2 = 100 mm^2. Then 1 mm^2 = 10^-6 m^2, 3.5 mm^2 = 3.5 x 10^-6 m^2, 1 cm^3 = 10^-6 m^3 and 7.8 g cm^-3 = 7800 kg m^-3." loading="lazy">
+  <figcaption>The prefix is raised to the same power as the unit.</figcaption>
+</figure>
+
+
 ## Derived units
 
 A derived unit is a combination of base units, usually given its own name. The name is shorthand for the base-unit combination.
@@ -176,6 +192,12 @@ These are rounded anchors for estimates, not measured results.
 | radius of the Earth | 6.4 × 10⁶ m | 10⁷ m |
 | density of water | 10³ kg m⁻³ | 10³ kg m⁻³ |
 | seconds in a year | 3.15 × 10⁷ s | 10⁷ s |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Method for a derived estimate
 

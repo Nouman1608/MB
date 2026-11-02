@@ -55,6 +55,12 @@ The fixed overhead rate comes from the budget: budgeted fixed overhead of 30,000
 
 Actual results for the period: 4,300 lamps made and sold at an average price of 39.00; 8,900 kg of material bought and used for 55,180; 2,050 labour hours worked and paid at a total of 34,850; fixed overhead of 31,400.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--04-sc-cost-card-selworth.webp" width="900" height="766" alt="A step chart for one Selworth Lamps desk lamp in dollars. Direct material 2 kg at 6.00 is 12.00. Direct labour 0.5 hours at 16.00 is 8.00. Fixed overhead 0.5 hours at 15.00 per labour hour is 7.50, where the rate is budgeted fixed overhead 30,000 divided by budgeted hours 2,000. Standard cost is 27.50. Standard selling price is 40.00, so standard profit is 12.50." loading="lazy">
+  <figcaption>The standard cost card builds 27.50 of cost and leaves 12.50 profit on a 40.00 price.</figcaption>
+</figure>
+
+
 ## 2. Advantages, disadvantages and improving performance
 
 **Advantages**
@@ -72,6 +78,17 @@ Actual results for the period: 4,300 lamps made and sold at an average price of 
 
 **Improving performance.** Standard costing helps when managers investigate the significant variances, find the cause, act on it and revise the standard if the cause is permanent. It also improves budget preparation, because actual prices, times and volumes show whether the next budget should use different figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--02-setting-up-system.webp" width="900" height="918" alt="Six steps: choose the type of standard (ideal, attainable or basic), set quantities and prices, set overhead rates and write the cost card, collect actual data from invoices, clock cards and the ledger, calculate variances, then investigate and act. A loop returns to step 1 because standards are reviewed." loading="lazy">
+  <figcaption>Standards are set, actual data is collected, variances are reported and acted on, then standards are reviewed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--08-exception-reporting.webp" width="900" height="806" alt="Six adverse variances at Skelwith Mats shown as percentages of standard cost against a 5 percent limit. Material usage 7.0, labour efficiency 6.5 and fixed overhead 8.0 percent are investigated; the other three are under the limit." loading="lazy">
+  <figcaption>Only variances over the limit are investigated.</figcaption>
+</figure>
+
+
 ## 3. Direct material variances
 
 | Variance | Formula |
@@ -87,6 +104,12 @@ Material usage  = (8,600 - 8,900) x 6.00           = 1,800 A
 ```
 
 Check: standard cost of 8,600 kg is 51,600, and the actual cost is 55,180, a difference of 3,580 adverse. That is the sum of the two variances (1,780 + 1,800).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--02-cam-sc-price-quantity-strips.webp" width="900" height="970" alt="Two boxes with price on the vertical axis and quantity on the horizontal axis, both axes cut. Material: the standard box is 8,600 kg at 6.00 dollars, 51,600 dollars. The price strip is 0.20 dollars times 8,900 kg actual, 1,780 adverse. The usage strip is 300 kg extra times 6.00, 1,800 adverse. Labour: the standard box is 2,150 hours at 16 dollars. The rate strip is 1 dollar times 2,050 actual hours, 2,050 adverse. The efficiency strip is 100 hours saved times 16 dollars, 1,600 favourable." loading="lazy">
+  <figcaption>Each price or quantity variance is a strip of a price times quantity box.</figcaption>
+</figure>
+
 
 ## 4. Direct labour variances
 
@@ -124,6 +147,12 @@ Efficiency  = (2,150 - 2,050) x 15.00               = 1,500 F
 
 Capacity plus efficiency equals volume (750 + 1,500 = 2,250). The expenditure and volume variances together equal the over-absorption of 850: absorbed 32,250 less actual 31,400, which is 2,250 - 1,400. Capacity shows whether the planned hours were used. Efficiency shows whether the hours worked produced more or less than planned, so it has the same cause as labour efficiency and the same size in hours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--03-cam-sc-fixed-overhead.webp" width="900" height="950" alt="Three bars on a cut axis show budgeted fixed overhead 30,000 dollars, actual 31,400 and absorbed 32,250 (2,150 standard hours at 15 dollars). Expenditure is the gap from budget to actual, 1,400 adverse. Volume is the gap from budget to absorbed, 2,250 favourable, split into capacity 750 favourable (2,050 hours worked against 2,000 budgeted) and efficiency 1,500 favourable (2,150 standard hours against 2,050 worked). Over-absorption is 850." loading="lazy">
+  <figcaption>Expenditure compares budget with actual; volume compares budget with absorbed and splits into capacity and efficiency.</figcaption>
+</figure>
+
+
 ## 6. Sales variances
 
 | Variance | Formula |
@@ -137,6 +166,12 @@ The sales volume variance here uses the standard profit per unit after fixed ove
 Sales price  = (39.00 - 40.00) x 4,300              = 4,300 A
 Sales volume = (4,300 - 4,000) x 12.50              = 3,750 F
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--04-cam-sc-sales-variances.webp" width="900" height="740" alt="Selworth cut its price from 40 to 39 dollars and sold 4,300 lamps instead of the budgeted 4,000. The sales price variance is 1 dollar times 4,300 units, 4,300 adverse. The sales volume variance is 300 extra units times the standard profit of 12.50, 3,750 favourable. Net, the price cut cost 550 adverse." loading="lazy">
+  <figcaption>The volume gain of 3,750 F did not cover the price loss of 4,300 A, a net 550 A.</figcaption>
+</figure>
+
 
 ## 7. Summarising the variances
 
@@ -158,6 +193,12 @@ Starting from budgeted profit and adding favourable variances and subtracting ad
 
 Actual revenue is 4,300 x 39 = 167,700 and actual costs are 55,180 + 34,850 + 31,400 = 121,430, so actual profit is 46,270. The statement agrees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--01-cam-sc-profit-bridge.webp" width="900" height="920" alt="A horizontal waterfall for Selworth Lamps. Budgeted profit of 50,000 dollars rises by sales volume 3,750 favourable, falls by sales price 4,300 adverse, material price 1,780 adverse, material usage 1,800 adverse and labour rate 2,050 adverse, rises by labour efficiency 1,600 favourable, falls by fixed overhead expenditure 1,400 adverse and rises by fixed overhead volume 2,250 favourable. Net variances are 3,730 adverse, so actual profit is 46,270 dollars. The axis starts at 41,000." loading="lazy">
+  <figcaption>Eight variances move budgeted profit of 50,000 to actual profit of 46,270.</figcaption>
+</figure>
+
+
 ## 8. Causes of variances and how they relate
 
 Variances are rarely independent. A cause behind one variance often shows up in another.
@@ -177,6 +218,12 @@ Variances are rarely independent. A cause behind one variance often shows up in 
 | Sales price F, volume A | Higher prices that lost some customers |
 
 Selworth's results fit a story. It paid higher wages, perhaps for faster staff, who produced more per hour than planned (efficiency F). It also worked more hours than budgeted (capacity F). The adverse material variances might point to the cost of that haste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--05-cam-sc-linked-causes.webp" width="900" height="968" alt="Four pairs of variances, each with a likely single cause. Material price favourable with usage adverse: cheaper, lower-grade material wastes more. Labour rate adverse with efficiency favourable: skilled, better-paid staff work faster. Sales price adverse with volume favourable: a price cut lifted demand. Capacity favourable with efficiency adverse: more hours were worked but used less productively." loading="lazy">
+  <figcaption>Variances should be read in pairs because one cause often shows in two of them.</figcaption>
+</figure>
+
 
 ## 9. Decisions, recommendations and non-financial factors
 

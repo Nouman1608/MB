@@ -79,6 +79,12 @@ check: 90.0 + 30.0 + 60.0 = 180 kPa
 
 Tip: n(A)/n(total) × P can be done in one step on the calculator. This keeps full accuracy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+
+
 ## Method in steps: finding an unknown
 
 1. Write the Kp expression.
@@ -102,6 +108,22 @@ Tip: n(A)/n(total) × P can be done in one step on the calculator. This keeps fu
 
 **Working backwards.** If Kp falls as temperature rises, the forward reaction is exothermic. If Kp rises as temperature rises, it is endothermic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
+  <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Position vs value.** Pressure and catalysts can never change Kp. Pressure can change the position; temperature changes both.
@@ -109,6 +131,12 @@ Tip: n(A)/n(total) × P can be done in one step on the calculator. This keeps fu
 - **Kp vs Kc.** Kp uses partial pressures p(X); Kc uses concentrations [X] in mol dm⁻³. Never put square brackets into a Kp expression.
 - **Rate vs equilibrium.** A catalyst changes how fast equilibrium is reached, not where it lies.
 - **Initial vs equilibrium moles.** Only equilibrium moles go into the mole fractions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--08-kp-partial-pressure.webp" width="900" height="930" alt="Two aligned bars show mole fractions of N2, H2 and NH3 (0.250, 0.625, 0.125) multiplied by 20.0 MPa to give partial pressures 5.00, 12.5 and 2.50 MPa. Kp = 2.50^2 / (5.00 x 12.5^3) = 6.40 x 10^-4 MPa^-2." loading="lazy">
+  <figcaption>Partial pressure is mole fraction times total pressure, and Kp uses partial pressures of gases only.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

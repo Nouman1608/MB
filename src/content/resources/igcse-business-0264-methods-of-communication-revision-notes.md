@@ -30,6 +30,17 @@ Every candidate sits Paper 1 (Short Answer and Data Response) and Paper 2 (Case 
 - It gives clear instructions, supports better decisions, keeps customers informed, involves employees and deals with problems before they grow.
 - Poor communication leads to mistakes, delays, lost customers and unhappy staff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--01-methods-best-weak.webp" width="900" height="890" alt="Seven rows, one per method. Each shows one strength and one weakness taken from the lesson: meetings instant questions but high wage cost, email one message to many people but may not be read, text read within minutes but little detail, social media cheap large audience but public mistakes, phone instant two-way talk but no written record, letter permanent record but slow and costly, poster reaches all who pass but may go unnoticed." loading="lazy">
+  <figcaption>One strength and one weakness for each of the seven methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
+
 ## Internal and external communication
 
 | Type | Receiver | Examples |
@@ -38,6 +49,17 @@ Every candidate sits Paper 1 (Short Answer and Data Response) and Paper 2 (Case 
 | External | People outside the business | Customers, suppliers, lenders, government, local community |
 
 Test: ask who receives the message. The method does not decide the type. An email can be either.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--05-internal-external-receiver.webp" width="900" height="1130" alt="An email to a colleague inside the business is internal; the same method sent to a supplier outside is external. Five lesson examples are sorted by receiver." loading="lazy">
+  <figcaption>Sort communication by who receives it, not by the method used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
 
 ## Methods: quick comparison
 
@@ -69,6 +91,12 @@ Situation: a clinic must tell 40 patients by tomorrow that their appointments ar
 - Reason against a letter: too slow for tomorrow.
 - Reason against a poster: patients are not in the building.
 - Judgement: if a patient has no mobile phone, a phone call is better.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--02-ordsall-recommend.webp" width="900" height="890" alt="An owner emails all 24 staff at once, then holds a short virtual meeting for both sites. Noticeboard, letter and text are crossed out with a reason each. A text message alert is added if many staff do not use email." loading="lazy">
+  <figcaption>Ordsall Print Works: email plus a short virtual meeting, with the rejected options and why.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -111,6 +139,22 @@ A communication barrier is anything that stops a message being sent, received or
 ### Reducing or removing barriers: a quick rule
 
 Match each fix to the barrier. Then say what it costs or what it risks. For example, back-up systems reduce technical failure but cost money, and fewer levels of management speed messages but may lessen managers' control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--06-barrier-reason-problem-fix.webp" width="900" height="1150" alt="A four-step chain: jargon in the order email, because the office uses short forms the plant does not know, led to 150 boxes being repacked, fixed by plain words, a standard layout and confirmation before packing." loading="lazy">
+  <figcaption>A barrier has a reason, causes a problem and needs a matching fix.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--03-twelve-barriers.webp" width="900" height="1133" alt="The twelve barriers in the lesson are grouped by where they act: the message, on the way, the receiver and the reply. An arrow leads to six problems: mistakes and rework, delays, lost customers, low motivation and conflict, poor decisions, higher labour turnover." loading="lazy">
+  <figcaption>Twelve barriers grouped by where they act, and the six problems they cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--04-fix-costs.webp" width="900" height="880" alt="Nine barrier and fix pairs sorted into three columns by the limit of each fix: costs time, costs money, costs control or effort." loading="lazy">
+  <figcaption>The nine fixes in the lesson, grouped by their limit.</figcaption>
+</figure>
+
 
 ## Command words for this topic
 

@@ -45,6 +45,17 @@ The income statement, statement of changes in equity and statement of financial 
 - **Bonus issue** -- free shares to existing shareholders, funded by turning reserves into share capital. No cash.
 - **Published accounts** -- annual accounts filed with the Registrar of Companies and available to the public.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--05-revaluation.webp" width="900" height="970" alt="Buildings with a carrying amount of 272,000 pounds are revalued to 408,000. The 136,000 pound unrealised gain goes to a revaluation reserve in equity, not the income statement. Yearly depreciation rises from 8,000 to 12,000 pounds." loading="lazy">
+  <figcaption>An unrealised revaluation gain goes to a reserve, not profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+
 ## Formulas and rules
 
 | What | How |
@@ -104,6 +115,17 @@ Cr Revaluation reserve (valuation - carrying amount)
 ```
 
 Show the surplus in a revaluation reserve column of the statement of changes in equity, not in the income statement. A fall in value is set first against any revaluation reserve for that asset; the rest is an expense.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--08-where-cash-went.webp" width="900" height="1020" alt="Starting from an overdraft of 23,400 pounds, operating activities add 136,700, investing activities subtract 57,500 and financing activities add 72,000, a net increase of 151,200 and closing cash of 127,800. A bonus issue and a revaluation involve no cash." loading="lazy">
+  <figcaption>Operating, investing and financing flows explain the change in cash.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -205,6 +227,22 @@ Dr Retained earnings 75,000; Cr Share capital 75,000
 10. The gain is **unrealised**: the asset has not been sold.
 11. 20,000 + 10,000 - 9,000 = **£21,000**.
 12. 1,200 + 4,800 - 600 = **£5,400**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
+  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

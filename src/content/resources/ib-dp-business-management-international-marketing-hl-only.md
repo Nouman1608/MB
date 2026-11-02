@@ -61,6 +61,22 @@ The guide does not list entry methods under 4.6, so treat this list as backgroun
 
 The more control and commitment a route gives, the more money is at risk, and the more the business can shape its marketing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--09-entry-routes-control.webp" width="900" height="918" alt="Five routes shown as bars that lengthen with control and commitment: exporting, online selling, franchising or licensing, joint venture or alliance, own subsidiary or acquisition, each with its typical exposure." loading="lazy">
+  <figcaption>More control and commitment means more money at risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ## Opportunities of entering and operating internationally
 
 An **opportunity** here is a possible benefit that a foreign market offers beyond what the home market gives. The main ones:
@@ -75,6 +91,12 @@ An **opportunity** here is a possible benefit that a foreign market offers beyon
 8. **Exchange rate gains.** A weaker home currency can make exports cheaper to buyers abroad, or a stronger one can cut the cost of imported materials.
 
 Opportunities are not automatic. Each depends on conditions in the case: how big the target group really is, how well the product fits, and how strong local rivals are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--08-going-abroad-pros-cons.webp" width="900" height="882" alt="Opportunities: larger market, spreading risk, economies of scale, longer product life. Threats: culture and language, tariffs, local competition, logistics, instability." loading="lazy">
+  <figcaption>Each opportunity and threat must be weighed for the business in the case.</figcaption>
+</figure>
+
 
 ## Threats of entering and operating internationally
 
@@ -91,6 +113,12 @@ A **threat** is a possible harm or cost that foreign trading adds. The main ones
 9. **Ethical and reputation risk.** Using overseas suppliers or workers can bring criticism if conditions fall short of what customers expect. This links to CSR in section 1.3.
 10. **Weak control.** Using partners or distributors can mean less control over how the brand is presented.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--05-tariff-exchange-price.webp" width="900" height="894" alt="A box priced at 6.00 dollars plus a 15 percent tariff of 0.90 and shipping of 0.70 costs 7.60 dollars landed. At 1 dollar = 0.90 euro that is 6.84 euros; at 1 dollar = 1.00 euro it is 7.60 euros, 11.1 percent more and above a 6.50 euro rival." loading="lazy">
+  <figcaption>A tariff and a stronger home currency both raise the price the foreign buyer pays.</figcaption>
+</figure>
+
+
 ## Marketing across borders: standardize or adapt?
 
 A central choice when operating abroad is whether to use the **same marketing mix everywhere** (standardization) or **change parts of it for each market** (adaptation). Both terms are standard textbook ones.
@@ -103,6 +131,22 @@ Many firms adapt only some of the seven Ps. Price may vary with tariffs and inco
 Opportunity and threat meet here. A larger market gives scale only if costs stay under control, and every adaptation adds cost.
 
 The guide lists Hofstede's cultural dimensions (HL only) among the tools to integrate in Unit 4, and in Units 2 and 5. The guide does not list the dimensions themselves, so use the tool in general terms: it compares national cultures on a set of scales, which can help predict whether a product, advert or management style will transfer. Treat such comparisons as a guide, not a rule, because customers within one country differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--06-adaptation-payback.webp" width="900" height="874" alt="Cumulative contribution at 2.50 dollars a unit crosses the 45,000 dollar adaptation cost at 18,000 units. Year 1 (12,000 units) gives 30,000 dollars; year 2 (27,000 units) gives 67,500, so the cost is recovered during year 2." loading="lazy">
+  <figcaption>Adapting pays back at 18,000 units, if the forecast holds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--07-valmorrow-currency-revenue.webp" width="900" height="982" alt="40,000 boxes at 7.20 euros give 288,000 euros. At 1 dollar = 0.90 euros that is 320,000 dollars; at 1 euro it is 288,000 dollars, a fall of 32,000 or 10 percent." loading="lazy">
+  <figcaption>A stronger home currency cuts home-currency revenue with no change in sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--07-standardise-or-adapt.webp" width="900" height="960" alt="Standardisation sends one identical product and approach to every market, giving lower cost but less local fit. Adaptation tailors the product to each market, giving more relevance but higher cost. Markets differ in culture, language, legal requirements and consumer behaviour." loading="lazy">
+  <figcaption>Standardisation lowers cost; adaptation improves local relevance; the best choice depends on the product and markets.</figcaption>
+</figure>
+
 
 ## Worked example 1: tariff and exchange rate effects on a price
 
@@ -127,6 +171,12 @@ Now the dollar strengthens to USD 1 = EUR 1.00.
 
 Judgment: both the tariff and the currency are outside the firm's control. They are threats because each raises the euro price. If local rivals charge around EUR 6.50, Valmorrow may have to cut its margin or find a different channel. Whether it stays depends on how strongly buyers value the product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ## Worked example 2: currency and revenue
 
 Valmorrow sells 40,000 boxes in the euro market at EUR 7.20 each in a year.
@@ -137,6 +187,12 @@ Valmorrow sells 40,000 boxes in the euro market at EUR 7.20 each in a year.
 - The fall is USD 32,000, which is 10% of USD 320,000.
 
 The same sales volume and price produce 10% less home-currency revenue. Currency movement can wipe out a profit margin on an otherwise sound plan, so an international plan should be tested at more than one exchange rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
 
 ## Worked example 3: is adaptation worth the cost?
 
@@ -154,6 +210,12 @@ When a question says evaluate, discuss, justify or recommend, build the answer i
 2. **Weigh each factor** as an opportunity or threat, using figures where the case gives them.
 3. **Compare short run and long run.** Start-up costs fall early, benefits may come later.
 4. **Reach a judgment** that depends on something in the case, such as "this is sensible only if the firm can fund two years of losses".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--10-evaluate-international-steps.webp" width="900" height="996" alt="Four steps: pick factors from the case, weigh each as opportunity or threat, compare short run and long run, then reach a judgment that says what it depends on." loading="lazy">
+  <figcaption>Build an evaluate answer in four moves ending in a conditional judgment.</figcaption>
+</figure>
+
 
 ## Common errors
 

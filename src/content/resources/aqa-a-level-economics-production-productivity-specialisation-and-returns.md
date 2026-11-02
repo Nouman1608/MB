@@ -61,6 +61,17 @@ Year 3: output rises 81.8% from year 2, but 36,000 ÷ 24 = 1,500 per worker, a f
 
 **Evaluation link.** Higher productivity comes from more or better capital, better skills, better organisation and better technology. Productivity is not output. Check whether a rise in output came from more inputs or from more output per input.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--01-kiln-productivity.webp" width="900" height="1030" alt="Three sets of bars for Kiln Street Tiles in years 1 to 3. Weekly output is 14,400, 19,800 and 36,000, up 37.5% then 81.8%. Output per worker is 1,200, 1,650 and 1,500, up 37.5% then down 9.1%. Output per hour is 30, 45.83 and 41.67, up 52.8% then down 9.1%. Year 3 output rose only because the number of workers doubled from 12 to 24." loading="lazy">
+  <figcaption>In year 3 output rose 81.8% but output per worker fell 9.1%, because the firm hired more workers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+
 ## 2. Specialisation and division of labour
 
 **Specialisation** means a person, firm, region or country concentrating on the tasks or goods it does best. **Division of labour** is specialisation within production: a job is split into tasks and each worker does one task.
@@ -102,6 +113,22 @@ A specialist makes one thing but wants many. Specialisation therefore only works
 
 **Money as a medium of exchange** is generally accepted in payment for goods and services. It removes the double coincidence of wants, so a baker sells loaves for money and buys shoes with it. One price per good makes comparison simple. This saves search time and lets people specialise further. That is the link to the specification: specialisation needs an efficient means of exchange.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--13-barter-exchange-rates.webp" width="900" height="1180" alt="Five goods need 10 barter exchange rates (a line for every pair) but only 5 money prices. For 12 goods the figures are 66 against 12 and for 40 goods 780 against 40." loading="lazy">
+  <figcaption>Barter needs n(n-1)/2 exchange rates; money needs only n prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--02-orchard-division-of-labour.webp" width="900" height="1020" alt="Top: four workers each do all four stages (prepare, cook, jar, label). One jar takes 40 minutes including switching, so each worker makes 480 divided by 40 which is 12 jars and the four make 48. Bottom: each worker takes one stage and a jar passes each stage in 7.5 minutes. Each stage makes 480 divided by 7.5 which is 64 jars, so the line makes 64, which is 16 per worker, a rise of 33.3%." loading="lazy">
+  <figcaption>When each worker takes one stage, a jar passes each stage in 7.5 minutes and output per worker rises from 12 to 16 jars (+33.3%).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ## 3. Short run, long run and returns to a factor
 
 **Short run:** the period during which some factor of production cannot be changed. **Long run:** a period in which all factors can be varied. These are not set numbers of months. A market stall's long run might be a week; an oil refinery's might be years.
@@ -142,6 +169,27 @@ Sketch of MP against workers, described in words: the horizontal axis is workers
 
 **Link to costs.** The wage is constant, so extra cost per tray is wage ÷ MP. A rising MP pulls MC down, and a falling MP pushes it up. AVC is wage ÷ AP, so it moves opposite to AP. In the table the lowest MC (worker 3) and the lowest AVC (worker 3) follow the highest MP and highest AP. This is how the specification's cost implication arises. The costs page covers the full cost curves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--10-returns-to-a-variable-factor.webp" width="900" height="1090" alt="Fernbank Nursery data for 1 to 8 workers: TP 10, 26, 48, 62, 72, 78, 78, 75. MP is 10, 16, 22, 14, 10, 6, 0, -3, peaking at worker 3. AP peaks at 16 at worker 3 and falls once MP drops below it." loading="lazy">
+  <figcaption>Diminishing marginal returns begin at worker 4 although total product keeps rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--11-diminishing-returns-and-costs.webp" width="900" height="850" alt="With a wage of £96, MC = 96/MP (9.60, 6.00, 4.36, 6.86, 9.60, 16.00 for workers 1 to 6) and AVC = 96 x workers / TP. Both are lowest at worker 3, where MP and AP are highest." loading="lazy">
+  <figcaption>Marginal and average variable cost mirror marginal and average product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--03-short-run-vs-long-run-returns.webp" width="900" height="1030" alt="Two panels. Short run: capital is fixed and labour can change; marginal product by worker for Fernbank Nursery is 10, 16, 22, 14, 10, 6, 0 and minus 3, rising then falling, which is diminishing returns. Long run: capital and labour both change; Tern Moulding output per unit of input scale is 1,000, 1,150, 1,200, 1,200 and 1,100 at scales 1 to 5, rising, flat, then falling, which is increasing, constant then decreasing returns to scale. A firm can have both." loading="lazy">
+  <figcaption>In the short run one factor is fixed and we ask what happens to marginal product; in the long run every input scales together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ## 4. Returns to scale
 
 **Returns to scale** compare the proportional change in output with an equal proportional change in **all** inputs. This is a long-run idea.
@@ -175,6 +223,12 @@ Check scale 5: (5,500 − 4,800) ÷ 4,800 × 100 = 14.6%. Cost per unit at scale
 | Question | What happens to MP? | What happens to total output? |
 
 Both explain the link between inputs and output. A firm can have diminishing returns in the short run and increasing returns to scale in the long run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-production-productivity-specialisation-and-returns--12-returns-to-scale.webp" width="900" height="830" alt="Tern Moulding steps from scale 1 to 5: inputs +100%, +50%, +33.3%, +25%; output +130%, +56.5%, +33.3%, +14.6%. Returns are increasing, increasing, constant, decreasing; cost per unit £1.74, £1.67, £1.67, £1.82." loading="lazy">
+  <figcaption>Output rising faster, equally or slower than inputs gives increasing, constant or decreasing returns to scale.</figcaption>
+</figure>
+
 
 ## Common errors
 

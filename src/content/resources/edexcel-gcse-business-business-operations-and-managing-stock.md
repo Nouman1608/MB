@@ -79,6 +79,17 @@ The price is high because one customer carries the whole cost, and that customer
 
 Each batch is 240 rolls and the ingredients for one batch cost £48. Ingredients per roll = 48 ÷ 240 = £0.20. Three batches a day give 720 rolls. Between batches the staff clean and reset the equipment, which is time when nothing is produced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--01-sandforth-job-price.webp" width="900" height="810" alt="A single bar splits the 3,750 pound price into labour 1,680, materials 900, overheads 420 and a 25 per cent mark-up of 750. The first three add to a total cost of 3,000 pounds." loading="lazy">
+  <figcaption>Sandforth Joinery builds one staircase price from labour, materials, overheads and mark-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+
 ## 3. How the process affects productivity, costs and prices
 
 The specification asks about the impact on keeping productivity up, keeping costs down and allowing competitive prices.
@@ -104,6 +115,12 @@ Percentage change = (400 − 300) ÷ 300 × 100 = 33.3% (to 1 decimal place).
 Daily costs rise from £2,250 to £3,000. Unit cost before = 2,250 ÷ 1,500 = £1.50. After = 3,000 ÷ 2,400 = £1.25. That is a fall of 25p, or 16.7%.
 
 Total costs rose, but they are spread over many more jars, so the owner could cut the price and still earn more per jar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--02-pennine-productivity.webp" width="900" height="850" alt="Before/after bars: productivity rises from 300 to 400 jars per worker (+33.3%) while unit cost falls from 1.50 to 1.25 pounds (-16.7%), although daily costs rise from 2,250 to 3,000 pounds." loading="lazy">
+  <figcaption>Productivity rises and unit cost falls because costs are spread over more jars.</figcaption>
+</figure>
+
 
 ## 4. The impact of technology on production
 
@@ -144,6 +161,12 @@ Maximum stock 600 kg. Reorder level 250 kg. Use 50 kg a day. Lead time 3 days.
 
 Reading a graph is the same task. Find the top and bottom of the gate, read the order point, and compare the steepness of the line: a steeper fall means faster use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--03-flour-bar-gate.webp" width="900" height="1000" alt="Stock falls 50 kg a day from a maximum of 600 kg. An order is placed at the 250 kg reorder level on day 7; during the 3-day lead time 150 kg is used so 100 kg (the buffer) remains at delivery on day 10, when 500 kg is added. The cycle repeats every 10 days." loading="lazy">
+  <figcaption>The flour example drawn as a bar gate graph with maximum, reorder level, buffer and lead time marked.</figcaption>
+</figure>
+
+
 ## 6. Just in time (JIT) stock control
 
 JIT means materials and parts arrive only when they are needed for production, so the business holds very little stock. It is a different approach from a bar gate system, where a buffer is held on purpose.
@@ -159,6 +182,17 @@ Average component stock is £90,000. Storage, insurance and damage add up to 9% 
 Before = 90,000 × 0.09 = £8,100. After = 25,000 × 0.09 = £2,250. Saving = £5,850 a year.
 
 But the factory builds 30 bikes a day and each earns £110 profit. One lost day = 30 × 110 = £3,300. Two lost days would cost £6,600, which is more than the whole saving of £5,850.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--04-brightwater-jit-risk.webp" width="900" height="980" alt="Bars show holding costs falling from 8,100 to 2,250 pounds (saving 5,850) after JIT, against 3,300 pounds lost for each stopped production day; two lost days (6,600) exceed the whole saving." loading="lazy">
+  <figcaption>The JIT saving is smaller than the cost of two days without parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## 7. The role of procurement and relationships with suppliers
 
@@ -181,6 +215,12 @@ A = 2,000 × 4.20 + 150 = £8,550. B = 2,000 × 4.55 = £9,100. B costs £550 mo
 Late orders: A = 12 × 0.20 = 2.4, costing £4,320. B = 12 × 0.03 = 0.36, costing £648. B saves £3,672.
 
 Net, A is still £2,928 cheaper a year on these figures. Trust, quality and reputation could change the choice, and a good answer says so rather than stopping at the calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-operations-and-managing-stock--05-orchard-suppliers.webp" width="900" height="990" alt="Supplier B costs 6,600 pounds more a year to buy from but saves 3,672 pounds in late-order losses, so Supplier A is still 2,928 pounds a year cheaper on these figures." loading="lazy">
+  <figcaption>Comparing suppliers on total cost, including the cost of late deliveries.</figcaption>
+</figure>
+
 
 ## 8. Logistics and supply decisions
 

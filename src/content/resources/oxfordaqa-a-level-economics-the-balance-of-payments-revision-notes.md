@@ -38,6 +38,17 @@ All countries and figures here are made up. Go to the [OxfordAQA A-level Economi
 - A current account deficit is financed by net inflows on the capital and financial accounts (borrowing, or sales of assets to foreigners).
 - Detailed knowledge of the capital and financial accounts is not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--01-bop-accounts.webp" width="900" height="888" alt="Horizontal bars for Country K in billions of K-units. Goods -48, services +30, primary income +6 and secondary income -14 give a current account of -26. The capital account +2, financial account +21 and errors and omissions +3 bring the total to zero." loading="lazy">
+  <figcaption>A current account deficit is paid for by net inflows on the capital and financial accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## Key calculations
 
 | Calculation | Rule |
@@ -71,6 +82,17 @@ Small reminder: exports 90, imports 100, currency falls 8%. Export PED 1.5, impo
 
 Judge by size relative to GDP, duration, cause and ease of financing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--08-bop-deficit-sustainability.webp" width="900" height="810" alt="Line graph of net foreign liabilities as a percentage of GDP over 60 years for a steady 4 percent of GDP deficit. With 5 percent nominal growth liabilities level off towards 80 percent of GDP; if growth falls to 2 percent they head towards 200 percent. Lines come from the recurrence debt = (previous debt + 4) / (1 + growth)." loading="lazy">
+  <figcaption>A steady deficit settles at deficit divided by growth, so growth matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## FDI and portfolio investment
 
 | | FDI | Portfolio investment |
@@ -82,6 +104,22 @@ Judge by size relative to GDP, duration, cause and ease of financing.
 - **Costs to the recipient:** profit outflows, loss of control, local firms squeezed, volatility from portfolio flows, exchange rate swings.
 - **For the sending country:** returns come back as primary income, and firms reach new markets, but investment and jobs may be lost at home.
 - Profit outflow = investment × rate of return. For example, 80 million × 7% = 5.6 million a year on primary income debits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--06-bop-fdi-vs-portfolio.webp" width="900" height="1000" alt="A factory icon for FDI and a share certificate icon for portfolio investment. FDI aims at control and a long-term presence and is hard to reverse and relatively stable. Portfolio investment seeks a financial return without control, is easy to sell and can reverse quickly. The small bar charts of yearly inflows are schematic, not data." loading="lazy">
+  <figcaption>FDI is a lasting stake in productive assets; portfolio investment is a tradable financial asset that can leave quickly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--07-bop-portfolio-reversal.webp" width="900" height="830" alt="Number line of portfolio flows in billions. Before: +10. After a reversal: -6. The 16 billion swing opens a financing gap while the 26 billion current account deficit is unchanged. The gap can be met by spending reserves, raising interest rates or a falling currency." loading="lazy">
+  <figcaption>A swing in portfolio flows from +10 to -6 leaves a 16bn gap to finance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--09-bop-fdi-plant-year.webp" width="900" height="850" alt="Waterfall. In the year of investment the financial account gains 120 million once. Each later year the plant exports 30, imports 12 of inputs and sends 10 of profit abroad, so the current account effect is +8 million." loading="lazy">
+  <figcaption>A foreign plant adds 8m a year to the current account after imported inputs and profits sent abroad.</figcaption>
+</figure>
+
 
 ## Policies
 
@@ -102,6 +140,17 @@ Judge by size relative to GDP, duration, cause and ease of financing.
 3. Check the economy's position: spare capacity or overheating?
 4. Check elasticities and time lags.
 5. Reach a judgement about which policy fits this cause, and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--02-depreciation-elasticity.webp" width="900" height="711" alt="Bars of the trade balance. Starting at -18, a 10 percent currency fall gives -3.01 if trade is elastic but -26.40 if it is inelastic, because the import bill rises faster than export volume." loading="lazy">
+  <figcaption>With inelastic demand a falling currency can worsen the trade balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-balance-of-payments--10-bop-expenditure-reducing.webp" width="900" height="760" alt="Three bars. To cut imports by 8 billion with MPM 0.3, income must fall by 26.67 billion. With a multiplier of 1.8, AD must be cut by 14.81 billion. Income falls about 3.3 times as much as the imports saved." loading="lazy">
+  <figcaption>Cutting imports through lower spending costs far more income than the imports saved.</figcaption>
+</figure>
+
 
 ## Side effects of correcting a deficit
 

@@ -28,9 +28,26 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Microeconomics** — decisions of individual households and firms (2.1). **Macroeconomics** — the economy as a whole (national income, inflation, unemployment).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--01-micro-or-macro.webp" width="900" height="880" alt="Two panels. Microeconomics shows buyers and a firm in one market with the price of one good. Macroeconomics shows all markets together as the whole economy: total output, prices overall and jobs overall. They are the same economy at different scales." loading="lazy">
+  <figcaption>Micro looks at one market; macro looks at all markets together.</figcaption>
+</figure>
+
+
 ## The market system
 
 The **price mechanism** allocates resources by answering *what*, *how* and *for whom* to produce, without central planning — prices act as the signal that moves resources toward what buyers are willing to pay for (2.2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--05-market-to-mixed-system.webp" width="900" height="940" alt="Four boxes joined by downward arrows: market system (price mechanism allocates resources), market failure (resources misallocated), government intervention (aims to address the failure), mixed economic system (markets plus government)." loading="lazy">
+  <figcaption>Sections 2.9 to 2.11 read as one argument: markets, their failures, and government intervention in a mixed system.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## Demand
 
@@ -45,6 +62,22 @@ The **price mechanism** allocates resources by answering *what*, *how* and *for 
 
 **Conditions of demand** (2.3.4): income, tastes/fashion, price of substitutes, price of complements, population, advertising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--03-ped-and-revenue.webp" width="900" height="850" alt="Two charts of revenue as price times quantity. Elastic demand: a price cut from 10 to 9 raises quantity from 100 to 120 (PED 2), revenue lost 100, gained 180, so revenue rises 1000 to 1080. Inelastic demand: quantity rises only to 105 (PED 0.5), gained 45 against lost 100, so revenue falls 1000 to 945." loading="lazy">
+  <figcaption>Same price cut, opposite effect on revenue, depending on elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## Supply
 
 **Supply** — the quantity producers are willing and able to sell at a given price (2.4.1).
@@ -55,6 +88,22 @@ Same extension/contraction (price change, movement along) vs shift (non-price ch
 
 **Conditions of supply** (2.4.4): cost of production, technology, number of firms, government taxes/subsidies, weather (for agricultural goods).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--04-price-elasticity-of-supply.webp" width="900" height="890" alt="Two upward-sloping supply curves through price 10, quantity 100. A 10 percent price rise to 11 raises quantity 20 percent to 120 on the flatter curve (PES 2, elastic) and 5 percent to 105 on the steeper curve (PES 0.5, inelastic)." loading="lazy">
+  <figcaption>PES is the percentage change in quantity supplied divided by the percentage change in price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Price determination
 
 **Equilibrium** (2.5.1) — where the demand and supply curves intersect; quantity demanded = quantity supplied, and there is no tendency for price to change.
@@ -63,6 +112,22 @@ Same extension/contraction (price change, movement along) vs shift (non-price ch
 
 - **Price above equilibrium** → excess supply (surplus) → sellers undercut each other → price falls back to equilibrium.
 - **Price below equilibrium** → excess demand (shortage) → buyers bid the price up → price rises back to equilibrium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--02-movement-or-shift.webp" width="900" height="860" alt="Demand curve D1 and a shifted curve D2 on Price and Quantity axes. Moving from A (price 5, quantity 40) to B (price 3, quantity 60) is a movement along D1 caused by a price fall, an extension. Moving from A to C (price 5, quantity 70) is a shift to D2 caused by a condition of demand changing." loading="lazy">
+  <figcaption>Only a price change moves you along a curve; a change in a condition shifts the whole curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--01-price-change-signal.webp" width="900" height="940" alt="Demand and supply graph with illustrative numbers. Demand rises from D0 to D1; at the old price of 20 buyers want 80 but firms offer 60, a shortage of 20. The price rises to 25, buyers cut back to 70 and firms extend supply to 70, so resources move toward this good." loading="lazy">
+  <figcaption>A rising price is the signal that moves resources toward what consumers want more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Price changes
 

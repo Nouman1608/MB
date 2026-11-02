@@ -74,6 +74,12 @@ Choose the equation that leaves out the quantity you neither know nor need.
 
 The guide's linking idea is that the equations of motion and the conservation laws for rotation are analogous to those for linear motion. The analogy is a memory aid; always check that you are using a rotational quantity with a rotational one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--07-angular-impulse.webp" width="900" height="1070" alt="A torque of 0.80 N m for 5.0 s gives an area of 4.0 N m s, so L rises from 0 to 4.0 kg m squared per second. With I = 0.040 kg m squared, omega = 100 rad per second and kinetic energy = L squared / 2I = 200 J. Higher level only." loading="lazy">
+  <figcaption>The area under a torque-time graph is the change in angular momentum.</figcaption>
+</figure>
+
+
 ## Methods in steps
 
 **Rotational equilibrium problem**
@@ -103,6 +109,12 @@ The guide's linking idea is that the equations of motion and the conservation la
 2. Write total Ek = ½mv² + ½Iω².
 3. Substitute the given I and eliminate ω.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--02-beam-equilibrium.webp" width="900" height="850" alt="A 5.0 m, 30 kg uniform beam balanced on a pivot 1.0 m from the left end with a 45 kg block hanging at that end. Arrow lengths are proportional to the forces: 441 N block weight, 294 N beam weight at the midpoint, 736 N pivot force. Counter-clockwise torque 441 N m equals clockwise torque 441 N m. Higher level only." loading="lazy">
+  <figcaption>Taking torques about the pivot removes the unknown pivot force and gives the hanging mass.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Torque.** A force of 4.0 N perpendicular to a handle, 0.35 m from the axis: τ = 4.0 × 0.35 = 1.4 N m. The same force along the handle gives sin 0° = 0, so no torque.
@@ -115,6 +127,17 @@ The guide's linking idea is that the equations of motion and the conservation la
 
 **Sense.** For a seesaw balanced about its midpoint, a 30 kg child at 1.5 m on the left gives a counter-clockwise torque. A second child on the right balances it only if their mass times distance is also 45 kg m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--06-angular-momentum.webp" width="900" height="1110" alt="A person on a freely turning stool, top view, pulls weights in. I falls from 5.2 to 3.4 kg m squared, angular speed rises from 1.50 to 2.29 rad per second, L stays 7.8 kg m squared per second and kinetic energy rises from 5.85 to 8.95 J. Higher level only." loading="lazy">
+  <figcaption>L = I omega is conserved with no external torque; the energy gain comes from the work done pulling in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--08-rolling.webp" width="900" height="1040" alt="A cylinder rolls from rest down a 0.60 m drop and reaches 2.80 m per second, while a frictionless sliding block reaches 3.43 m per second. The block turns all of mgh into forward motion; the cylinder uses two thirds for forward motion and one third for spin. Higher level only." loading="lazy">
+  <figcaption>Part of the energy goes into rotation, so the rolling body is slower; mass cancels.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Torque and energy**: both have the unit N m, but torque is a turning effect with a sense and energy is a scalar. Write torque in N m and energy in J.
@@ -123,6 +146,12 @@ The guide's linking idea is that the equations of motion and the conservation la
 - **Conservation of L and of Ek**: collisions where bodies join lose kinetic energy but keep L if no external torque acts.
 - **Equilibrium and rest**: zero resultant torque means constant ω, which can be non-zero. Rotational equilibrium does not require the body to be stationary.
 - **Resultant and individual torques**: τ = Iα uses the resultant torque, including friction at the axle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--04-moment-of-inertia.webp" width="900" height="980" alt="Two 0.60 kg masses on a light 0.80 m rod, seen from above. About the middle I = 2 x 0.60 x 0.40 squared = 0.192 kg m squared; about one mass I = 0.60 x 0.80 squared = 0.384 kg m squared, twice as much. Higher level only." loading="lazy">
+  <figcaption>The same body has a different moment of inertia about a different axis; r is the distance to the axis.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -153,6 +182,12 @@ The guide's linking idea is that the equations of motion and the conservation la
 10. ω = v/r = 3.0/0.15 = **20 rad s⁻¹**.
 11. **The resultant torque about any axis is zero.**
 12. **More of the hoop's mass is at the full radius, far from the axis, so Σmr² is larger.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--01-torque.webp" width="900" height="790" alt="A rod pivoted at one end with an 18 N force at 0.75 m acting at 40 degrees to the rod. The force splits into F cos theta (13.8 N, along the rod, no turning) and F sin theta (11.6 N, at right angles, turns the rod). The sense is counter-clockwise and the torque is 8.68 N m. Higher level only." loading="lazy">
+  <figcaption>Only the component of force at right angles to the line from the axis turns the body.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

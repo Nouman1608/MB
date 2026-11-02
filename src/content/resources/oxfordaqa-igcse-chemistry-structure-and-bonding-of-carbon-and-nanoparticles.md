@@ -46,6 +46,12 @@ A carbon atom has six electrons, arranged 2,4. It has four electrons in its oute
 
 The same element can join its atoms in different arrangements. Diamond, graphite and the fullerenes are all pure carbon. Their properties differ because the atoms are bonded in different patterns, not because the atoms themselves are different.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+
 ## 3.2.3 b: Diamond
 
 In diamond, **each carbon atom forms four covalent bonds with four other carbon atoms**. The pattern repeats in all three directions, giving a **giant covalent structure** with no separate molecules.
@@ -57,6 +63,12 @@ Why diamond is very hard:
 3. To scratch or dent diamond you must break many strong covalent bonds, which needs a great deal of energy.
 
 Two linked points follow from the same structure. Diamond has a very high melting point, because melting means breaking many strong covalent bonds (see 3.2.2 f). Diamond does **not** conduct electricity, because all four outer electrons of every carbon atom are used in bonds, so no electrons are free to move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
 
 ## 3.2.3 c: Graphite and its layers
 
@@ -70,6 +82,12 @@ Keep two kinds of force separate in your answers:
 - **Between layers:** weak forces. This is why graphite is soft and slippery.
 
 A frequent slip is to blame weak covalent bonds for the softness. That cannot be right, since graphite melts only at a very high temperature. The bonds inside each layer are strong; it is the attraction between layers that is weak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
 
 ## 3.2.3 d: Delocalised electrons in graphite
 
@@ -110,6 +128,12 @@ A technician uses graphite blocks as sliding contacts that carry current in an e
 
 Notice that each property is linked to a separate feature of the structure. Two properties need two explanations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--02-carbon-outer-electrons.webp" width="900" height="960" alt="A carbon atom has 6 electrons arranged 2,4, so 4 outer electrons. In diamond all 4 are used in 4 bonds, leaving no free electrons, so diamond does not conduct. In graphite 3 are used in bonds and the fourth is delocalised and can move along the layer, so graphite conducts like a metal." loading="lazy">
+  <figcaption>Diamond uses all four outer electrons in bonds; graphite leaves one per atom free to carry current.</figcaption>
+</figure>
+
+
 ## 3.2.3 e: Fullerenes
 
 Carbon can also form **fullerenes**. Fullerenes contain **different numbers of carbon atoms**, and their structures are **based on hexagonal rings of carbon atoms**. That is the only structural detail the specification requires.
@@ -122,6 +146,12 @@ Uses you must know:
 - **nanotubes for reinforcing materials**, for example in tennis rackets
 
 In an exam you may be given extra information about a fullerene and asked to link it to a use. For example, if you are told that a fullerene forms hollow cages, you could suggest it can carry a drug molecule inside. If you are told nanotubes are very strong for their mass, you could explain why they reinforce a racket frame without making it heavy. Use only the information you are given; you do not need to memorise extra structural details.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--06-fullerenes.webp" width="900" height="850" alt="Simplified drawings of a hexagon-ring nanotube and a hollow cage holding a drug. Nanotubes reinforce materials such as tennis rackets; cages can carry drugs; fullerenes are also used as lubricants and catalysts." loading="lazy">
+  <figcaption>Fullerenes are carbon structures based on hexagonal rings, with several uses.</figcaption>
+</figure>
+
 
 ## 3.2.4: Nanoscience and nanoparticles
 
@@ -150,6 +180,12 @@ B: 0.35 µm × 1000 nm per µm        = 350 nm  → larger than 100 nm, not a na
 Nanoparticles show **properties different from those of the same material in bulk**. One key reason is that they have a **high surface area to volume ratio**. A much larger fraction of their atoms sit at the surface, where they can react or interact with other substances.
 
 For a cube of side L, surface area = 6L² and volume = L³, so surface area to volume ratio = 6 ÷ L. Halving the side doubles the ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--08-sa-to-v.webp" width="900" height="940" alt="Cubes of side 4, 2 and 1 have surface area to volume ratios 1.5, 3 and 6, so halving the side doubles the ratio. A 5 nm cube has ratio 1.2 per nm and a 5 um (5000 nm) cube 0.0012 per nm, 1000 times smaller." loading="lazy">
+  <figcaption>The smaller the cube, the larger its surface area to volume ratio.</figcaption>
+</figure>
+
 
 ### Worked example 4: surface area to volume ratio
 
@@ -187,6 +223,12 @@ You do not need to learn specific nanoparticles or their properties. Instead, ex
 You are told: "Nanoparticles of metal oxide M speed up a reaction that cleans exhaust gases. The same mass of M as a coarse powder has much less effect."
 
 Explain this. The nanoparticles have a much higher surface area to volume ratio than the coarse powder. So, for the same mass, much more of oxide M is exposed at the surface, where the gas molecules can make contact with it. This is why nanoparticles are useful as new catalysts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles--07-nanoscale.webp" width="900" height="800" alt="A log scale from 1 nm to 1 mm with 1-100 nm shaded. Particle A (4.0e-8 m = 40 nm) lies inside; particle B (0.35 um = 350 nm) lies outside." loading="lazy">
+  <figcaption>Nanoparticles are 1-100 nm: convert units before deciding.</figcaption>
+</figure>
+
 
 ## Common errors
 

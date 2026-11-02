@@ -74,6 +74,22 @@ Papers 3 and 4 assess knowledge, analysis and evaluation (AO1, AO2, AO3), so eac
 
 **Evaluation.** The balance depends on how much is produced and sourced locally, the sector, the host government's bargaining power and tax rules, whether workers gain transferable skills, and the alternative, which may be no investment. In the short run jobs and capital are visible gains. In the long run technology transfer and local linkages decide whether the benefit lasts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--01-transfer-pricing.webp" width="900" height="870" alt="Shows how an internal charge moves profit to the 10% tax country: group tax 3.0 to 2.2, Country A loses 1.2. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>A 4.0 internal charge cuts tax in Country A by 1.2 and the group total by 0.8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--11-mnc-what-it-does.webp" width="900" height="780" alt="A head office in the home country passes technology to subsidiaries in host countries A and B, which send profits back. The subsidiaries trade components with each other at transfer prices. Plants built or bought abroad are FDI." loading="lazy">
+  <figcaption>An MNC organises production, technology and profits across countries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--12-mnc-host-gains-costs.webp" width="900" height="906" alt="Possible benefits: jobs and training; capital and new technology; tax revenue and exports; competition lowers prices; linkages to local suppliers. Possible costs: local firms squeezed out; profits sent abroad; tax avoidance by transfer pricing; pollution and weak labour standards; footloose." loading="lazy">
+  <figcaption>The same MNC can bring both gains and costs to a host country.</figcaption>
+</figure>
+
+
 ## 11.5.4 Foreign direct investment
 
 **Definition.** FDI is investment by a firm or person in one country in productive assets, or a controlling ownership stake, in a business in another country. Examples are building a factory or buying a majority of a company's shares. Portfolio investment, by contrast, is buying shares or bonds without control and can be sold quickly.
@@ -95,6 +111,17 @@ FDI inflows appear in the financial account of the host's balance of payments. T
 The plant adds to GDP, but national income rises by less, because 56% belongs to foreign owners.
 
 **Evaluation.** Gains are larger when profit is reinvested, inputs are bought locally, the plant exports and the host taxes it fairly. The same plant can reduce a deficit through exports or worsen it through profit outflows and imported inputs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--02-fdi-value-added.webp" width="900" height="860" alt="Splits 40.0 of value added into wages, tax and repatriated profit (44% stays, 56% leaves) and shows 380 net new jobs. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Of the plant’s 40.0 million value added, 44% stays in the host country and 56% is sent abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--15-mnc-fdi-vs-portfolio.webp" width="900" height="820" alt="FDI means productive assets or a controlling stake in a foreign business, for example building a factory or buying a majority of shares. Portfolio investment is buying shares or bonds without control and can be sold quickly." loading="lazy">
+  <figcaption>FDI needs control or lasting productive assets; portfolio investment does not.</figcaption>
+</figure>
+
 
 ## 11.5.5 External debt
 
@@ -137,6 +164,17 @@ The b-unit lost 20% of its value (0.25 FCU per b-unit falls to 0.20), yet the de
 
 **Evaluation.** Debt matters according to its size relative to GNI and exports, its interest rate and currency, how the money was used, and the growth rate. Debt relief or rescheduling helps but may carry conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--03-debt-service-ratio.webp" width="900" height="790" alt="Bars of debt service divided by exports: 15%, 19.5%, 21.7%; notes debt to GNI (40%) is a different ratio. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Debt service as a share of exports rises from 15% to 21.7% with no new borrowing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--04-depreciation-and-debt.webp" width="900" height="850" alt="Exchange rate 4.00 to 5.00 b-units per FCU: debt 9,600 to 12,000 (+25%); debt service share of revenue 20% to 25%. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>A 20% fall in the b-unit raises the home-currency debt by 25%.</figcaption>
+</figure>
+
+
 ## 11.5.6 The IMF
 
 The IMF is an international organisation of member countries, created at the Bretton Woods conference of 1944. Its role is to support the stability of the international monetary system.
@@ -154,6 +192,17 @@ The IMF is an international organisation of member countries, created at the Bre
 
 **Evaluation.** The loan prevents a disorderly adjustment and restores confidence. But conditions can cut output, jobs and public services in the short run, and critics say one policy set does not suit every country. The long-run gain depends on whether reforms raise competitiveness and growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--05-imf-financing-gap.webp" width="900" height="790" alt="Deficit 300 = private inflows 180 + reserves 40 + gap 80; the deficit-cut condition lowers GDP by 180 (3.0%). Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>An IMF loan could fill an 80 million financing gap, but the loan condition cuts GDP by about 3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--14-mnc-imf-vs-world-bank.webp" width="900" height="860" alt="The IMF deals with the short run: surveillance and advice, temporary loans for payments gaps, conditions and training. The World Bank funds the long run: project loans, soft loans, support for the poorest countries and reform advice. Both were set up at Bretton Woods and both can attach conditions." loading="lazy">
+  <figcaption>The IMF focuses on short-run stability and the World Bank on long-run development.</figcaption>
+</figure>
+
+
 ## 11.5.7 The World Bank
 
 The World Bank, also set up at Bretton Woods, focuses on long-term development and poverty reduction rather than short-term payments problems.
@@ -169,6 +218,12 @@ The World Bank, also set up at Bretton Woods, focuses on long-term development a
 - Annual saving: 14 − 4 = **10 million**. Over 20 years of interest alone, the saving is 10 × 20 = **200 million**.
 
 **IMF versus World Bank.** The IMF deals with short-run balance of payments and macroeconomic stability. The World Bank funds long-run development. Both can attach conditions, and both are criticised for policies that may ignore local needs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--13-mnc-world-bank-loan-cost.webp" width="900" height="630" alt="A 200 million FCU loan costs 4 million a year at 2% and 14 million at 7%. The saving is 10 million a year, 200 million over 20 years of interest." loading="lazy">
+  <figcaption>Soft World Bank loans cut the cost of development finance.</figcaption>
+</figure>
+
 
 ## Common errors
 

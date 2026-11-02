@@ -78,6 +78,32 @@ TR is greatest at 12 tiles (432, price 36), where MR = 0. For one unit steps, MR
 
 **Evaluation.** A firm may not aim to maximise revenue. It may target profit or market share. Revenue curves assume the firm knows its demand curve, which is hard to know in practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--01-revenue-ar-mr-tr.webp" width="900" height="1070" alt="Two graphs for the Marsh Lane bakery, P = 110 - 5Q. AR (the demand curve) falls from 110 to 22 loaves; MR starts at 110 and is twice as steep, reaching zero at 11 loaves. Total revenue is a hill peaking at 605 at 11 loaves, directly below where MR = 0." loading="lazy">
+  <figcaption>AR, MR and TR for demand P = 110 - 5Q, with TR at its maximum where MR = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--02-revenue-why-mr-below-ar.webp" width="900" height="850" alt="Rectangles show revenue when output rises from 8 to 9 loaves and the price falls from 70 to 65. The 9th loaf adds 65, but the first 8 loaves each lose 5, a loss of 40, so MR = 25." loading="lazy">
+  <figcaption>A price cut on every unit means the extra loaf adds less than its price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--05-price-taker-revenue.webp" width="900" height="1040" alt="At a fixed price of 9 a kg, AR = MR = demand is a horizontal line. TR is a straight line from the origin, reaching 2,700 at 300 kg." loading="lazy">
+  <figcaption>For a price taker every extra kilogram adds the same 9 to revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
+
 ## Profit (3.3.2.5)
 
 **Method: abnormal profit.**
@@ -97,6 +123,32 @@ TR is greatest at 12 tiles (432, price 36), where MR = 0. For one unit steps, MR
 - Discipline: losses force improvement or exit.
 
 **Chain:** abnormal profit → entry → higher supply → lower price → profit falls towards normal. If barriers to entry exist, abnormal profit lasts and its signalling value falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--03-revenue-profit-vs-revenue-peak.webp" width="900" height="970" alt="TR and TC = 120 + 30Q plotted against loaves a day. The gap between them is profit: 200 at 8 loaves (the maximum) but only 155 at 11 loaves, where TR peaks at 605." loading="lazy">
+  <figcaption>Maximum profit comes at 8 loaves, before maximum revenue at 11.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--04-revenue-normal-abnormal-profit.webp" width="900" height="980" alt="Firm Y with revenue 148,000: costs 109,000, normal profit 37,000 (28,000 owner time plus 9,000 return on savings) and abnormal profit 2,000. With revenue 140,000 accounting profit is 31,000, 6,000 short of normal profit." loading="lazy">
+  <figcaption>Normal profit is an opportunity cost; abnormal profit is what is left above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--06-normal-profit-risk.webp" width="900" height="740" alt="Two 100-square grids represent 400,000 of capital: 6 squares shaded for a low-risk shop (24,000) and 15 for a risky venture (60,000)." loading="lazy">
+  <figcaption>Riskier industries need a higher normal profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
 
 ## Technological change (3.3.2.6)
 
@@ -118,6 +170,12 @@ TR is greatest at 12 tiles (432, price 36), where MR = 0. For one unit steps, MR
 - Judgement: depends on the length and breadth of protection and how costly the research is.
 
 **Government role:** funds research (public universities and agencies), tax relief and subsidies, education and training, infrastructure, patent law, competition policy and public procurement. Knowledge spreads to other firms, so private firms tend to under-invest; but governments can back the wrong projects. Invention and innovation occur in both the public and private sectors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--05-revenue-automation-average-cost.webp" width="900" height="930" alt="Average cost curves for manual (30,000 + 8 a unit) and automated (90,000 + 3 a unit) production cross at 12,000 units, where both cost 10.50. Below that output automation costs more per unit; above it, less." loading="lazy">
+  <figcaption>Automation lowers average cost only at large enough output.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

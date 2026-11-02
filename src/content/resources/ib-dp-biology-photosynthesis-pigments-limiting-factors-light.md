@@ -51,6 +51,12 @@ Hydrogen from water is added to carbon dioxide, so carbon dioxide is reduced to 
 
 Plants, algae and cyanobacteria all release oxygen as a by-product. If water labelled with ¹⁸O is supplied and the oxygen gas collected contains ¹⁸O, the oxygen came from water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--01-oxygen-from-water.webp" width="900" height="910" alt="Molecule counts for 6CO2 + 12H2O giving glucose, 6O2 and 6H2O. The 12 oxygen atoms in the oxygen gas are coloured as coming from water, while the oxygen atoms in glucose and the new water come from carbon dioxide. A tracer test with 18O-labelled water gives 18O in the oxygen gas." loading="lazy">
+  <figcaption>Oxygen gas has water as its source; the balanced equation shows all 12 water molecules are split.</figcaption>
+</figure>
+
+
 ## Pigment chromatography (C1.3.4)
 
 A leaf extract contains several pigments. Chromatography separates them because each differs in solubility in the solvent and in attraction to the stationary phase (paper or a thin layer of adsorbent). Pigments that dissolve well and cling weakly travel far.
@@ -76,6 +82,12 @@ Rf is the pigment's travel divided by the solvent front's travel. It has no unit
 
 Rf values depend on the solvent and stationary phase, so compare with reference values from the same system as well as colour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--02-chromatography-rf.webp" width="900" height="920" alt="A chromatography strip with the start line and solvent front 8.5 cm apart. Four spots lie at 8.1, 5.9, 4.6 and 3.2 cm, giving Rf values 0.95, 0.69, 0.54 and 0.38 for carotene, xanthophyll, chlorophyll a and chlorophyll b." loading="lazy">
+  <figcaption>Rf is pigment distance divided by solvent distance, both measured from the start line.</figcaption>
+</figure>
+
+
 ## Absorption of light (C1.3.5)
 
 Each wavelength of light carries a different amount of energy. A pigment absorbs a photon only if its energy matches the gap between two energy levels of one of its electrons, so only some wavelengths are absorbed. The rest are reflected or transmitted. Chlorophyll absorbs little green light, so leaves look green.
@@ -83,6 +95,12 @@ Each wavelength of light carries a different amount of energy. A pigment absorbs
 The excited electron holds the light's energy. Passing excited electrons on to other molecules is how light energy becomes chemical energy.
 
 An **absorption spectrum** shows how much light a pigment absorbs at each wavelength. Label the horizontal axis with wavelength in nanometres and with colours: violet and blue about 400 to 500 nm, green 500 to 570, yellow and orange 570 to 620, red 620 to 700. Chlorophylls absorb strongly in blue-violet and red. Carotenoids absorb mainly blue-violet and blue light.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--03-absorption-action-spectra.webp" width="900" height="930" alt="Chlorophyll absorption peaks in violet-blue and red with little in green, and carotenoids absorb mainly blue. The action spectrum from oxygen data has relative rates 100, 33, 25, 58, 83 and 8 at 450 to 700 nm, peaking near 450 and 650 nm with a trough near 550 nm." loading="lazy">
+  <figcaption>The action spectrum follows the absorption spectra because only absorbed light drives photosynthesis.</figcaption>
+</figure>
+
 
 ## Action spectra (C1.3.6)
 
@@ -125,6 +143,12 @@ A common set-up uses an aquatic plant such as *Elodea*, counting bubbles or meas
 
 **Hypotheses and nature of science.** A hypothesis is a provisional explanation that needs repeated testing. It can come from a theory, then be tested, or come from earlier observations. Example: "If carbon dioxide is limiting, more hydrogencarbonate will raise the rate."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--04-limiting-factor-lamp.webp" width="900" height="960" alt="Lamp distances 10 to 50 cm give relative intensities 100, 25, 11, 6.3 and 4. Bubbles per minute against intensity rise steeply from intensity 4 to 25, where light is limiting, then barely change from 25 to 100, where another factor limits." loading="lazy">
+  <figcaption>Where the curve is steep the factor on the x-axis is limiting; where it flattens, something else is.</figcaption>
+</figure>
+
+
 ## Carbon dioxide enrichment (C1.3.8)
 
 Atmospheric carbon dioxide is rising, so ecologists test how plants will respond. Two designs are used:
@@ -138,11 +162,23 @@ Controlled variables are kept the same in all plots: species, soil type, plot si
 
 Percentage change = (1,455 − 1,240) ÷ 1,240 × 100 = **17.3%**. The photosynthetic rate rose from 14.2 to 18.0 µmol m⁻² s⁻¹, which is (18.0 − 14.2) ÷ 14.2 × 100 = **26.8%**. A larger rise in rate than in biomass suggests other limits, so predictions need care.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--05-co2-enrichment.webp" width="900" height="1170" alt="An enclosed greenhouse is easy to control but not natural; FACE releases CO2 through pipes into open-air plots beside a control plot, which is natural but less controlled. Bars compare illustrative control and enriched results: dry mass 1,240 to 1,455 g per square metre (+17.3%) and photosynthetic rate 14.2 to 18.0 (+26.8%)." loading="lazy">
+  <figcaption>Two designs for CO2 enrichment, with the lesson’s illustrative results.</figcaption>
+</figure>
+
+
 ## Photosystems (C1.3.9 and C1.3.10, HL only)
 
 A photosystem is an array of chlorophyll and accessory pigment molecules, always held in a membrane: in the thylakoids of chloroplasts and in cyanobacteria. A special chlorophyll at the centre is the **reaction centre**, the place an excited electron is emitted. Photosystem II and photosystem I are the two types.
 
 **Advantage of the array.** Different pigments absorb different wavelengths, so together they capture more of the spectrum. Many pigment molecules catch photons and pass the energy to one reaction centre, which is supplied faster. A single pigment molecule could not perform any part of photosynthesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--06-photosystem-array.webp" width="900" height="910" alt="A photosystem oval in the thylakoid membrane holds about 29 chlorophyll and accessory pigment molecules around a central reaction centre. Photons of different wavelengths are absorbed by different pigments and the energy is passed inwards to the reaction centre, which emits an excited electron." loading="lazy">
+  <figcaption>Many pigments capture more of the spectrum and supply one reaction centre.</figcaption>
+</figure>
+
 
 ## Light-dependent reactions (C1.3.11 to C1.3.14, HL only)
 
@@ -153,6 +189,12 @@ These take place in and across the thylakoid membrane.
 3. **Reduction of NADP by photosystem I.** Light re-excites electrons in photosystem I. Two electrons and one hydrogen ion from the stroma reduce NADP: NADP⁺ + 2e⁻ + H⁺ → NADPH. Use one naming pair throughout: either NADP with reduced NADP, or NADP⁺ with NADPH.
 
 In **non-cyclic photophosphorylation**, electrons come from photosystem II and end in NADPH, so ATP, NADPH and oxygen are all made. In **cyclic photophosphorylation**, electrons from photosystem I return to the chain, so only ATP is made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--07-light-dependent-reactions.webp" width="900" height="950" alt="Thylakoid membrane with PSII, an electron transport chain, PSI and ATP synthase. Photolysis in PSII releases protons and oxygen; electrons pump protons into the thylakoid space; protons flow back through ATP synthase making ATP; PSI electrons reduce NADP+ to NADPH." loading="lazy">
+  <figcaption>Photolysis, chemiosmosis and NADP reduction in one picture.</figcaption>
+</figure>
+
 
 ## The Calvin cycle (C1.3.15 to C1.3.18, HL only)
 
@@ -166,9 +208,21 @@ The light-independent reactions occur in the stroma.
 
 **Other compounds.** All carbon in a photosynthesising organism was fixed in the Calvin cycle. Carbohydrates, lipids and amino acids are made by pathways from a cycle intermediate such as TP. Amino acids also need mineral nutrients such as nitrate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--08-calvin-cycle-glucose.webp" width="900" height="920" alt="The Calvin cycle for six turns: 6 CO2 join 6 RuBP (30C) to give 12 GP (36C), reduced to 12 TP using 12 ATP and 12 NADPH. Two TP leave to make glucose and 10 TP regenerate 6 RuBP using 6 ATP, so 18 ATP and 12 NADPH are used per glucose." loading="lazy">
+  <figcaption>Carbon counts and ATP/NADPH use for one glucose.</figcaption>
+</figure>
+
+
 ## Interdependence (C1.3.19, HL only)
 
 In darkness neither ATP nor reduced NADP is produced, so GP cannot be converted and RuBP is not regenerated. Without carbon dioxide, the Calvin cycle stops, reduced NADP is not used up, and NADP is not regenerated. With no NADP to accept electrons, the chain fills with electrons and photosystem II cannot pass its electrons on, so it stops. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--09-light-calvin-interdependence.webp" width="900" height="900" alt="Two panels show ATP and NADPH passing from the light-dependent reactions to the Calvin cycle and ADP and NADP+ returning. In darkness the supply arrow is blocked so the Calvin cycle stalls. With no CO2 the return arrow is blocked, the chain fills with electrons and photosystem II stops." loading="lazy">
+  <figcaption>Stopping either set of reactions stalls the other.</figcaption>
+</figure>
+
 
 ## Common errors
 

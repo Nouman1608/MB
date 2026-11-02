@@ -69,6 +69,12 @@ not the hydroxide.
 positive ions. A sodium atom loses one electron. A magnesium atom must lose two, and the second is removed
 from a positive ion, so much more energy is needed in total. Magnesium therefore reacts more slowly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
+
 ## Reactions of the elements with oxygen
 
 All six elements Na to S burn when heated in oxygen. Each forms its highest oxide, except sulfur, which
@@ -143,6 +149,17 @@ stronger and P₄O₁₀ melts at a higher temperature than SO₃. SO₂ melts l
    covalent bonds break.
 3. Much less energy is needed, so P₄O₁₀ melts at a much lower temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
+  <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
+
 ## Reactions of the oxides with water
 
 | Oxide | Reaction with water | pH of solution (approx.) | Nature of oxide |
@@ -167,6 +184,12 @@ stronger and P₄O₁₀ melts at a higher temperature than SO₃. SO₂ melts l
   than that of H₂SO₄.
 
 So across Period 3 the oxides change from basic (ionic) to amphoteric (Al₂O₃) to acidic (covalent).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--09-oxides-ph.webp" width="900" height="770" alt="A pH scale shows each oxide as a bar. Na2O (13 to 14) and MgO (9 to 10) are basic, Al2O3 is amphoteric and SiO2 acidic but both insoluble at pH 7, and P4O10 (0 to 1), SO2 (2 to 3) and SO3 (0 to 1) are acidic. Oxides change from basic to acidic across the period as bonding changes from ionic to molecular." loading="lazy">
+  <figcaption>A level only (AQA 3.2.4): across Period 3 the oxides go from basic (ionic) through amphoteric (Al2O3) to acidic (molecular).</figcaption>
+</figure>
+
 
 ## Structures of the acids and anions
 

@@ -59,6 +59,17 @@ Country A has an absolute advantage in both goods (60 > 20 and 120 > 100). That 
 
 **Assumptions to criticise:** constant opportunity costs, no transport costs or tariffs, full employment, mobile resources within each country, and two countries and two goods. Real opportunity costs often rise as a country specialises, which limits how far specialisation is worthwhile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--03-trade-ppc-specialise.webp" width="900" height="1080" alt="Two production possibility curves with the lesson numbers. Each country specialises and trades at 1 pump for 3 baskets. A consumes 51 pumps and 27 baskets and B consumes 9 pumps and 73 baskets, both outside their own curves and 3 more of each good than before." loading="lazy">
+  <figcaption>Trade lets each country consume outside its own PPC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--04-world-output-specialise.webp" width="900" height="890" alt="Stacked bars show world output of 54 pumps and 94 baskets without trade, and 60 pumps and 100 baskets when A makes only pumps and B only baskets. A pump costs 2 baskets in A and 5 in B." loading="lazy">
+  <figcaption>Specialising by comparative advantage gives 6 more of each good.</figcaption>
+</figure>
+
+
 ## 2. Causes of comparative advantage and why it changes
 
 Causes include:
@@ -69,6 +80,12 @@ Causes include:
 - **Economies of scale and learning**: firms that start early may keep a cost lead.
 
 It changes over time through investment in education and capital, new technology, discovery or exhaustion of resources, rising wages in a country that has grown rich, and changes in the exchange rate. A country that once made basic goods cheaply can lose that advantage as wages rise, and can gain a new one in higher-value goods. This is why a comparative advantage is not fixed, and why a policy that protects an industry today may block the shift to a better one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--12-un227-tr-advantage-switch.webp" width="900" height="950" alt="Bars show the opportunity cost of one pump in baskets. Before, A gives up 2 and B gives up 5, so A has the advantage in pumps. If B raises pump output from 20 to 60 (an invented change) its cost falls to 1.67 and the advantage switches to B, while the advantage in baskets moves to A." loading="lazy">
+  <figcaption>Comparative advantage is not fixed: investment and productivity can move it between countries.</figcaption>
+</figure>
+
 
 ## 3. Other benefits and costs of trade
 
@@ -109,6 +126,12 @@ A figure above 100 is an **improvement**, below 100 a **deterioration**. By year
 
 **Effects.** An improvement lets a country buy more imports for each export, which raises real income, and it may hurt exporters if the higher prices cut sales. A deterioration reduces the living standard that a given level of exports can support. What happens to the current account depends on how responsive the volumes of exports and imports are to price (their price elasticities): a fall in export prices raises export earnings only if demand for exports is elastic. Do not assume that an improvement is always good or a deterioration always bad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--06-terms-of-trade-series.webp" width="900" height="920" alt="Export prices 100, 106, 101, 96 and import prices 100, 101, 110, 120 give terms of trade of 100, 104.95, 91.82 and 80.0. In year 4 the country needs 1.25 times as many exports for the same imports." loading="lazy">
+  <figcaption>Falling terms of trade mean exporting more to buy the same imports.</figcaption>
+</figure>
+
+
 ## 5. Protectionism
 
 **Protectionism** is the use of policies to shield domestic producers from foreign competition. The specification names three.
@@ -141,6 +164,22 @@ A **quota of 44 units** gives the same price rise, because price must reach 7 fo
 
 **Consequences.** Higher prices and less choice for consumers; less pressure on protected firms to be efficient; higher costs for firms that use imported inputs; a fall in exports if other countries retaliate; possible disputes with trade partners. Evaluate by asking whether the protection is temporary, whether the country is large enough to affect world prices, and how well the targeted industry can in fact become competitive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--05-tariff-numbers.webp" width="900" height="930" alt="Demand Qd = 120 - 4P and supply Qs = 20 + 4P. A tariff raises the price from 5 to 7. Producers gain 88, the government gets 88 and the welfare loss is 8 + 8 = 16, so consumers lose 192. Imports fall from 60 to 44." loading="lazy">
+  <figcaption>The tariff diagram with its areas computed from the lesson functions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--10-un227-tr-export-subsidy.webp" width="900" height="1030" alt="A price against quantity diagram of tea with Qd = 90 - 4P and Qs = 20 + 5P. A world price of 10 gives exports of 20; a subsidy of 2 lifts the home price to 12 and exports to 38. Shaded areas show consumers losing 92, 58 paid by taxpayers to producers, and net loss triangles of 8 and 10." loading="lazy">
+  <figcaption>An export subsidy of 2 raises exports to 38 but leaves a net loss of 18.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--11-un227-tr-quota-rent.webp" width="900" height="1066" alt="A cloth market diagram with Qd = 120 - 4P, Qs = 20 + 4P and world price 5. A quota of 44 adds 44 to supply and raises the price to 7. The rectangle between quantities 48 and 92 and prices 5 and 7 is the licence rent of 88, not tax revenue." loading="lazy">
+  <figcaption>A quota of 44 gives the same price rise as the tariff, but the 88 box goes to licence holders.</figcaption>
+</figure>
+
+
 ## 6. The changing pattern of world trade
 
 In broad terms: the share of trade in manufactured goods and services has grown, emerging economies account for a rising share of world exports, trade within industries and within supply chains has grown, and falling transport and communication costs and lower tariffs have supported all of these. Country comparative advantages have shifted as capital, skills and technology have spread. Link each trend to a cause from section 2.
@@ -157,6 +196,12 @@ In broad terms: the share of trade in manufactured goods and services has grown,
 Each stage is deeper. Gains include a bigger home market, economies of scale and more competition. Costs include trade being steered towards members even where a non-member is cheaper, loss of independent policy-making, and in a monetary union the loss of the country's own exchange rate and interest rate.
 
 The **World Trade Organisation (WTO)** is the body that sets rules for trade between its members. Its roles include providing a forum for negotiating lower trade barriers, administering agreements, monitoring members' trade policies and settling disputes between members. Its principle of non-discrimination means members should treat other members equally. Evaluate its power: it relies on members accepting its rulings, negotiations are slow, and developing countries may have less influence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--07-trading-bloc-stages.webp" width="900" height="990" alt="A free trade area removes internal barriers only. A customs union adds a common external tariff, a common market adds free movement of labour and capital, and a monetary union adds a single currency." loading="lazy">
+  <figcaption>Each bloc stage adds one more feature.</figcaption>
+</figure>
+
 
 ## Common errors
 

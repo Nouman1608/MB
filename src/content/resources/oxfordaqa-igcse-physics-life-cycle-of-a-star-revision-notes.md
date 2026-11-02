@@ -46,6 +46,12 @@ Larger star:  red supergiant -> supernova -> neutron star OR black hole
 - The supernova belongs only to the larger-star route.
 - The white dwarf and black dwarf belong only to the smaller-star route.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--01-life-route.webp" width="900" height="1100" alt="A flow chart from a dust and gas cloud to a main sequence star, then two routes. A smaller star like the Sun becomes a red giant, a white dwarf and finally a black dwarf (none yet exist). A larger star becomes a red supergiant, a supernova, then a neutron star or black hole." loading="lazy">
+  <figcaption>The route depends on mass: the supernova belongs only to the larger-star branch and the Sun ends as a black dwarf.</figcaption>
+</figure>
+
+
 ## Main sequence: balanced forces
 
 | Effect | Direction | Cause |
@@ -62,6 +68,12 @@ Balanced means the star neither shrinks nor swells. If the two were not balanced
 3. State that the outward push from the hot gas acts against it.
 4. Conclude that the forces are balanced, so the size stays steady.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--01-star-balance.webp" width="900" height="1290" alt="Three stars with inward gravity arrows and outward push arrows. A small star has longer outward arrows and swells; a steady main sequence star has equal arrows; a large star has longer inward arrows and shrinks. The star settles where the forces are balanced." loading="lazy">
+  <figcaption>A star is steady because gravity in equals the push out from hot gas.</figcaption>
+</figure>
+
+
 ## Mass and the core
 
 - Larger mass gives a stronger gravitational squeeze, so a hotter and denser core.
@@ -71,6 +83,17 @@ Balanced means the star neither shrinks nor swells. If the two were not balanced
 ### Worked reminder: fuel versus lifetime
 
 A star with 10 times the Sun's mass has 10 times the fuel. If it lasts 25 million years while the Sun lasts 10 000 million years, the lifetime ratio is 10 000 ÷ 25 = 400. Rate of use = fuel ratio × lifetime ratio = 10 × 400 = 4000 times faster than the Sun.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--02-star-lifetime.webp" width="900" height="870" alt="Log-scale bars show stars P, Q and R lasting 10 billion, 100 million and 8 million years. Q uses its fuel 500 times faster than P and R 25 000 times faster. More mass means a hotter core, faster fusion and a shorter life." loading="lazy">
+  <figcaption>A more massive star has more fuel but uses it far faster, so it lives for less time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
 
 ## Why stars last millions of years
 
@@ -87,6 +110,12 @@ Reminder from the study guide: the Sun fuses about 5.9 × 10¹¹ kg of hydrogen 
 3. Red giants and red supergiants fuse helium to carbon, then make nuclei such as nitrogen and oxygen.
 4. Any element heavier than iron comes from a supernova.
 5. The explosion of a massive star distributes the elements through the universe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--03-star-elements.webp" width="900" height="1110" alt="A five-step chain: the early universe had only hydrogen; main sequence stars fuse hydrogen to helium; red giants make carbon then nitrogen and oxygen; the hottest cores make the heaviest nuclei up to iron; elements heavier than iron come only from a supernova, which spreads all the elements into space." loading="lazy">
+  <figcaption>Stars made the elements, and supernovae spread them.</figcaption>
+</figure>
+
 
 ## Formation: points to hit
 

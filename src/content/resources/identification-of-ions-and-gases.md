@@ -57,6 +57,17 @@ precipitate **colour** — you need acidified dilute nitric acid first, so any
 carbonate present doesn't also precipitate and confuse the result. Barium nitrate
 identifies sulfate the same way, again after acidifying with nitric acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--05-halide-sulfate.webp" width="900" height="840" alt="Sample is acidified with dilute nitric acid, then silver nitrate gives a white, cream or yellow precipitate for chloride, bromide, iodide. Barium nitrate gives a white precipitate for sulfate." loading="lazy">
+  <figcaption>Acidify first, then silver nitrate (halides) or barium nitrate (sulfate).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--06-anion-others.webp" width="900" height="1144" alt="Carbonate with acid gives carbon dioxide that turns limewater milky. Nitrate with NaOH and aluminium foil, warmed, gives ammonia that turns damp red litmus blue. Sulfite turns acidified manganate(VII) from purple to colourless." loading="lazy">
+  <figcaption>Carbonate, nitrate and sulfite tests as simple apparatus pictures.</figcaption>
+</figure>
+
+
 ## Testing for cations with sodium hydroxide and ammonia
 
 Add the aqueous alkali a few drops at a time, then in excess, and record both stages.
@@ -88,6 +99,22 @@ distinguishing feature (green vs red-brown), and the iron(II) precipitate also
 turns brown near the surface on standing as it oxidises in air — an additional
 feature that can help confirm it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--02-cations-ammonia.webp" width="900" height="1088" alt="Test tubes show the eight cations with a few drops of aqueous ammonia then excess. Only copper(II) (deep blue solution) and zinc (colourless) dissolve in excess; calcium and ammonium give no precipitate." loading="lazy">
+  <figcaption>Aqueous ammonia: copper and zinc dissolve in excess, calcium gives no precipitate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--03-al-zn-ca.webp" width="900" height="934" alt="Aluminium, zinc and calcium all give a white precipitate with NaOH. Excess NaOH separates calcium (insoluble) from the other two. Ammonia gives calcium no precipitate, and in excess it dissolves zinc but not aluminium." loading="lazy">
+  <figcaption>Three ions, four tubes each: the deciding tests are highlighted.</figcaption>
+</figure>
+
+
 ## Testing for gases
 
 | Gas | Test | Positive result |
@@ -108,6 +135,12 @@ are reducing agents: they reduce the purple manganate(VII) ions.
 If a question describes a solid reacting (for example, a carbonate with acid) and asks for a gas
 test, you are testing the gas that the reaction gives off, not testing the solid directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
+
+
 ## Flame tests
 
 A flame test identifies certain metal cations from the colour they give a Bunsen
@@ -127,6 +160,12 @@ Flame tests are a separate technique from the sodium hydroxide/ammonia tests abo
 useful because sodium and potassium compounds don't form informative precipitates
 with either reagent, so a flame test is often the only practical way to identify
 them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--04-flame-tests.webp" width="900" height="940" alt="Six Bunsen flames with a wire loop: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green." loading="lazy">
+  <figcaption>Flame colours for six metal ions.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

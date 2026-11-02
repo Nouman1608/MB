@@ -67,6 +67,22 @@ A gas is compressed so that 180 J of work is done on it, and it loses 70 J as he
 W = −180 J (work done on the gas). Q = −70 J (heat out).
 ΔU = Q − W = −70 − (−180) = **+110 J**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--01-first-law-energy.webp" width="900" height="1110" alt="A gas in a cylinder absorbs 640 J of heat. 250 J leaves as work done by the gas on the piston and the other 390 J raises the internal energy, so Q = DeltaU + W. Heat in, expansion and a rise in internal energy are all positive." loading="lazy">
+  <figcaption>Heat supplied goes partly into internal energy and partly into work done by the gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--02-compression-sign.webp" width="900" height="1040" alt="A piston is pushed in, so 180 J of work is done on the gas (W = -180 J) while 70 J leaves as heat (Q = -70 J). The gas keeps 110 J, so DeltaU = -70 - (-180) = +110 J and it warms." loading="lazy">
+  <figcaption>Compression makes W negative, and the gas can still gain internal energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--09-system-types.webp" width="900" height="850" alt="A closed system, a gas in a piston, lets heat Q and work W cross its boundary but not mass. An isolated system lets nothing cross, so Q = 0, W = 0 and DeltaU = 0." loading="lazy">
+  <figcaption>Closed systems exchange energy but not mass; isolated systems exchange neither.</figcaption>
+</figure>
+
+
 ## Work done by a gas
 
 When a gas pushes a piston of area A through a small distance, the force is PA and the work is PAΔx, which is PΔV. For a change at constant pressure:
@@ -83,6 +99,12 @@ If pressure changes during the process, W = PΔV can only be applied to thin sli
 - Compression (moving left): the work is negative.
 - An isovolumetric line is vertical, so the area under it is zero.
 - For a straight line, split the area into a rectangle and a triangle, or use the average pressure multiplied by ΔV.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--03-work-pv-area.webp" width="900" height="1000" alt="A straight line falls from 4.0 x 10^5 Pa at 1.0 x 10^-3 m^3 to 2.0 x 10^5 Pa at 3.0 x 10^-3 m^3. The area under it is a 400 J rectangle plus a 200 J triangle, so the work done by the gas is 600 J." loading="lazy">
+  <figcaption>Work done by the gas is the area under the line on a P-V graph.</figcaption>
+</figure>
+
 
 ### Worked example 3
 
@@ -107,6 +129,17 @@ Two consequences matter. First, ΔU depends only on the temperature change, not 
 A sample contains 1.2 × 10²³ monatomic atoms. Its temperature rises by 50 K. Find ΔU (kB = 1.38 × 10⁻²³ J K⁻¹).
 
 ΔU = 3/2 × 1.2 × 10²³ × 1.38 × 10⁻²³ × 50 = **124 J** (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--04-internal-energy-temperature.webp" width="900" height="930" alt="Two boxes of monatomic atoms: in the second the atoms move faster because it is 50 K hotter. 1.2 x 10^23 atoms with DeltaT = 50 K give DeltaU = 3/2 N kB DeltaT = 124 J, equal to 3/2 nR DeltaT, and depending only on DeltaT." loading="lazy">
+  <figcaption>For a monatomic ideal gas, DeltaU depends only on the temperature change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--05-pv-graph-only.webp" width="900" height="1040" alt="On the same straight-line expansion, P1V1 = 400 J and P2V2 = 600 J, so DeltaU = 3/2 x 200 = 300 J. The work is the 600 J area, so Q = 300 + 600 = 900 J. Dashed curves of constant PV show B is hotter than A." loading="lazy">
+  <figcaption>Use DeltaU = 3/2 (P2V2 - P1V1) when no temperatures are given.</figcaption>
+</figure>
+
 
 ## The four gas processes
 
@@ -143,6 +176,17 @@ On the straight line in worked example 3, find ΔU and Q.
 P₁V₁ = 4.0 × 10⁵ × 1.0 × 10⁻³ = 400 J. P₂V₂ = 2.0 × 10⁵ × 3.0 × 10⁻³ = 600 J.
 ΔU = 3/2 × (600 − 400) = **300 J**. With W = 600 J: Q = 300 + 600 = **900 J**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--06-four-processes.webp" width="900" height="990" alt="From one state A, an isovolumetric line is vertical, an isobaric line is horizontal, an isothermal curve is PV = constant and an adiabatic curve (Q = 0) is steeper than the isothermal. Each holds one thing fixed." loading="lazy">
+  <figcaption>Each process holds one quantity fixed; the adiabatic curve falls faster than the isothermal one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--07-process-energy-bars.webp" width="900" height="1010" alt="Bar charts of Q, DeltaU and W. Isovolumetric: W = 0 so Q = DeltaU = 748 J. Isobaric: Q 5 630 J = DeltaU 3 380 J + W 2 250 J. Isothermal: DeltaU = 0 so Q = W. Adiabatic: Q = 0, DeltaU = +456 J and W = -456 J." loading="lazy">
+  <figcaption>In every process Q = DeltaU + W; the process decides which term is zero.</figcaption>
+</figure>
+
+
 ## Adiabatic changes in a monatomic ideal gas
 
 For an adiabatic change in a monatomic ideal gas the guide gives:
@@ -160,6 +204,12 @@ A monatomic gas at 1.0 × 10⁵ Pa and 2.0 × 10⁻³ m³ is compressed adiabati
 - Volume ratio V₁/V₂ = 4. P₂ = P₁ × 4^(5/3) = 1.0 × 10⁵ × 10.08 = **1.01 × 10⁶ Pa**.
 - ΔU = 3/2 (P₂V₂ − P₁V₁) = 3/2 × (504 − 200) = 456 J.
 - Q = 0, so W = −ΔU = **−456 J**. The negative sign means work is done on the gas, which is why its internal energy rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--08-adiabatic-compression.webp" width="900" height="1120" alt="A gas at 1.0 x 10^5 Pa and 2.0 x 10^-3 m^3 is compressed to 0.50 x 10^-3 m^3. Along PV^(5/3) = constant the pressure reaches 1.01 x 10^6 Pa, higher than the isothermal curve. The 456 J area is the work done on the gas, so DeltaU = +456 J and W = -456 J." loading="lazy">
+  <figcaption>Compressing adiabatically raises the pressure more than isothermally and warms the gas.</figcaption>
+</figure>
+
 
 ## Common errors
 

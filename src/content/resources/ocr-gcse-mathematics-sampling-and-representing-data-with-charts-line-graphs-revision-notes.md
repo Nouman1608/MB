@@ -41,6 +41,22 @@ Sampling (12.01a), the charts and tables in 12.02a, and time series line graphs 
 | Cumulative frequency | Running total of frequencies (Higher tier only) |
 | Frequency density | Frequency ÷ class width (Higher tier only) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--10-sample-scale-up.webp" width="900" height="1090" alt="21 of a sample of 60 swim, so 0.35; scaling by 840 / 60 = 14 gives about 294 of 840 members." loading="lazy">
+  <figcaption>Scaling a sample proportion up to the population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--02-bias-causes.webp" width="900" height="970" alt="Four panels show a convenient sample at the gate, a sampling frame that leaves some people out, volunteers only, and a leading question. In each the sample no longer represents the whole population." loading="lazy">
+  <figcaption>Each cause of bias, drawn on a small population; a bigger sample does not cure bias.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp" width="900" height="801" alt="A whole circle is 8 books and a quarter circle is 2. Monday to Wednesday and Friday read 28, 18, 32 and 14. Thursday is 130 minus 92 = 38 books, which is 4 and three quarters circles." loading="lazy">
+  <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
+</figure>
+
+
 ## Sampling in steps
 
 Estimating a population property:
@@ -58,6 +74,12 @@ Taking a simple random sample:
 
 Sources of bias to quote: sampling only at one place or time; a sampling frame that misses people; volunteers only; leading questions. A very small sample is unreliable, but size is a separate issue from bias.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--01-random-sample-steps.webp" width="900" height="810" alt="A grid of 100 dots stands for a numbered sampling frame. Random numbers are drawn, a repeated number is ignored, and the ten people picked are scattered over the whole grid." loading="lazy">
+  <figcaption>Number the list, draw random numbers, ignore repeats: every member has an equal chance.</figcaption>
+</figure>
+
+
 ## Choosing and drawing charts
 
 | Chart | Data type | Reminder |
@@ -72,6 +94,17 @@ Sources of bias to quote: sampling only at one place or time; a sampling frame t
 
 Pie chart shortcut: find degrees per item first (360 ÷ total), then multiply. Check that the angles add to 360°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
+  <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
+</figure>
+
+
 ## Designing tables
 
 - One heading per variable, with a tally column and a frequency column.
@@ -79,11 +112,23 @@ Pie chart shortcut: find degrees per item first (360 ÷ total), then multiply. C
 - Add an "Other" option when answers cannot all be predicted.
 - In a two-way table, find missing cells by subtracting from the row and column totals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--03-non-overlapping-classes.webp" width="900" height="920" alt="Classes written as 0 to 2 and 2 to 4 both contain 2. Writing 0 up to 2, 2 up to 4 and 4 up to 6 with inequalities gives every value exactly one class." loading="lazy">
+  <figcaption>Overlapping classes against classes written with inequalities (example data).</figcaption>
+</figure>
+
+
 ## Time series
 
 - Plot time horizontally, join points with straight lines.
 - Describe the **trend** first (rising, falling, steady), then the **seasonal variation** (for example a peak in the same quarter each year).
 - To predict, compare the same period in earlier years and extend the trend, and say the prediction assumes the pattern continues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--11-time-series-seasonal.webp" width="900" height="1050" alt="Quarterly sales over two years peak in Q2 and fall to a low in Q4 each year, and each quarter rises on last year by 3, 6, 3 and 3." loading="lazy">
+  <figcaption>Seasonal variation and trend in Worked example 3.</figcaption>
+</figure>
+
 
 ## Cumulative frequency (Higher tier only)
 
@@ -98,6 +143,12 @@ Method in steps:
 
 Worked reminder: 45 values, classes of width 10 from 0 to 40, frequencies 5, 12, 20, 8. Cumulative: 5, 17, 37, 45. The median is the 22.5th value, so it lies in the 20 to 30 class.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--05-cumulative-frequency-n60.webp" width="900" height="1000" alt="Points (0,0),(10,4),(20,15),(30,34),(40,49),(50,57),(60,60) are joined by straight segments. Reading across at 15, 30 and 45 gives LQ 20, median about 28 and UQ about 37.3 minutes, so the IQR is about 17.3." loading="lazy">
+  <figcaption>Median and quartiles read from the cumulative frequency graph of Worked example 4.</figcaption>
+</figure>
+
+
 ## Histograms (Higher tier only)
 
 ```
@@ -111,6 +162,12 @@ frequency = density × width
 - If the vertical axis has no scale, use one bar with known frequency to find the frequency for one unit of area.
 
 Worked reminder: class 20<x≤50 with frequency 45 has width 30 and frequency density 45 ÷ 30 = 1.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--12-histogram-part-bar.webp" width="900" height="990" alt="Museum ages histogram: 25 to 30 is 5 x 3 = 15 and 30 to 40 is 36, so about 51 people are aged 25 to 40." loading="lazy">
+  <figcaption>Estimating a frequency from part of a histogram bar.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -131,12 +188,24 @@ Worked reminder: class 20<x≤50 with frequency 45 has width 30 and frequency de
 
 **Describing a time series.** Use a short model answer: "Sales are highest in the third quarter of every year and lowest in the fourth, which is seasonal variation. Each year is higher than the one before, so the trend is upward."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--04-vertical-line-chart.webp" width="900" height="880" alt="A vertical line chart of pets owned by 36 pupils (example data): one line per value 0 to 5 with heights 4, 9, 12, 7, 3 and 1." loading="lazy">
+  <figcaption>A line at each value, height shows frequency (example data).</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Bar chart vs histogram:** a bar chart has gaps and shows categories or single values; a histogram has no gaps and shows continuous grouped data, with area for frequency.
 - **Trend vs seasonal variation:** trend is the long-run direction; seasonal variation repeats within each period.
 - **Population vs sample:** conclusions about the population come from the sample, so a biased sample gives unreliable conclusions.
 - **Multiple vs composite bars:** multiple bars sit side by side; composite bars stack.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

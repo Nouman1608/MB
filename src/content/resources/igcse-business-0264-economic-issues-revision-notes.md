@@ -54,6 +54,17 @@ Order to remember: growth, boom, recession, slump, then back to growth.
 - **Economic growth:** rising incomes, more demand (especially for non-essentials), room to expand.
 - **Slow or negative growth:** weaker sales and more price cutting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--11-ei-inflation-cafe.webp" width="900" height="850" alt="A basket rising from 250 to 265 dollars is 6 percent inflation. The cafe supplies bill of 90,000 dollars rises 6 percent, 5,400 dollars, to 95,400." loading="lazy">
+  <figcaption>Inflation of 6 percent raises a 90,000 bill by 5,400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--03-employment-effects.webp" width="900" height="900" alt="Two columns. Employment rises: demand for goods rises, recruiting is harder, pay pressure rises. Employment falls: demand falls, recruiting is easier, pay pressure falls." loading="lazy">
+  <figcaption>Rising employment lifts demand but makes recruiting harder and raises pay pressure; falling employment does the opposite.</figcaption>
+</figure>
+
+
 ## Taxes
 
 | Change | Effect on the business |
@@ -73,6 +84,17 @@ Reminder: profit before tax 150,000 at 20% gives tax of 30,000 and profit after 
 
 **Method: income after tax.** Net income = gross income × (1 − rate). Gross 3,000 at 20% leaves 2,400; at 25% it leaves 2,250.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--09-ei-profit-tax.webp" width="900" height="780" alt="Bars split 150,000 dollars profit into tax and profit after tax: 30,000 and 120,000 at 20 percent; 37,500 and 112,500 at 25 percent, a fall of 7,500 (6.25 percent). A 120,000 machine would be 7,500 short." loading="lazy">
+  <figcaption>A higher tax on profit leaves less to reinvest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--10-ei-income-tax.webp" width="900" height="780" alt="Bars split 3,000 dollars monthly income: tax 600 and disposable income 2,400 at 20 percent; tax 750 and 2,250 at 25 percent, a fall of 150 (6.25 percent)." loading="lazy">
+  <figcaption>A higher income tax cuts disposable income and spending.</figcaption>
+</figure>
+
+
 ## Government spending
 
 | Change | Effect |
@@ -81,6 +103,12 @@ Reminder: profit before tax 150,000 at 20% gives tax of 30,000 and profit after 
 | Spending falls | Lost contracts; fewer jobs; lower incomes; lower demand |
 
 Chain to write: spending changes, then incomes and orders change, then the firm's sales and plans change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--01-spending-chain.webp" width="900" height="920" alt="Two four-step chains. Spending up: government spends more, firms win orders and incomes rise, people spend more in shops, sales rise. Spending down: the same steps in reverse, ending with lower sales." loading="lazy">
+  <figcaption>A rise or fall in government spending passes through incomes and orders to business sales.</figcaption>
+</figure>
+
 
 ## Interest rates
 
@@ -91,6 +119,22 @@ Chain to write: spending changes, then incomes and orders change, then the firm'
 | Customers borrow and spend less; saving more attractive | Customers borrow and spend more |
 
 **Method: interest cost.** Interest = loan × rate. A loan of 200,000 at 5% costs 10,000; at 7% it costs 14,000. That is 4,000 more, or 40% more, from a rise of 2 percentage points.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--02-ravenhill-rate-rise.webp" width="900" height="790" alt="Two bars split a 35,000 dollar profit before interest into profit after interest and interest paid. At 5 percent: 25,000 and 10,000. At 7 percent: 21,000 and 14,000. Interest rises 40 percent and profit after interest falls 16 percent." loading="lazy">
+  <figcaption>On a 200,000 dollar loan, 5% to 7% lifts interest from 10,000 to 14,000 and cuts profit after interest from 25,000 to 21,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
 
 ## Responses
 
@@ -121,6 +165,12 @@ A response needs a reason that fits the case: can the business pass on costs, or
 | Boom | Raise prices carefully; train and keep staff; plan for supply delays | Rising wages and material costs; overstretch |
 | Recession | Cut waste, run promotions, add lower-priced lines, protect cash | Cutting so deeply that quality or service suffers |
 | Slump | Focus on cash flow and loyal customers; delay big spending | Closure if costs cannot be covered |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-economic-issues--08-ei-business-cycle.webp" width="900" height="940" alt="A wave of output against time with growth on the rises, boom at the peak, recession on the fall and slump at the trough, each with its effect on a business." loading="lazy">
+  <figcaption>Output moves through growth, boom, recession and slump, then repeats.</figcaption>
+</figure>
+
 
 ## Which businesses feel changes most
 

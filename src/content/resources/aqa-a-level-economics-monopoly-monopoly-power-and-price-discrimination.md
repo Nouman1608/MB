@@ -67,6 +67,17 @@ Demand is P = 60 − 2Q, so MR = 60 − 4Q. Marginal cost is a constant £12 and
 
 Read the diagram in words: output (12) sits where the MR curve crosses the flat MC curve; price (£36) sits directly above on the AR curve; the supernormal profit rectangle lies between £36 and £20 over 12 units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--01-mono-formal-diagram.webp" width="900" height="940" alt="Monopoly diagram for P = 60 - 2Q, MC 12 pounds, fixed cost 96 pounds: MR = MC at 12 units, price 36 pounds on AR, AC 20 pounds, supernormal profit rectangle 192 pounds." loading="lazy">
+  <figcaption>Read output where MR meets MC, price on AR, and profit between price and AC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
+
 ## Factors influencing monopoly power
 
 Monopoly power is the ability to set price above marginal cost without losing so many customers that profit falls. It is a matter of degree. The specification lists four of these influences.
@@ -77,6 +88,12 @@ Monopoly power is the ability to set price above marginal cost without losing so
 - **Product differentiation.** The more unique the product appears, the fewer close substitutes and the steeper the firm's demand curve.
 
 All four work through the same mechanism: they make demand for the firm's product less elastic and entry harder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--05-monopoly-power-factors.webp" width="900" height="930" alt="Four cards: barriers to entry, fewer competitors, advertising and differentiation. All make demand less elastic and entry harder, so price stays above marginal cost for longer." loading="lazy">
+  <figcaption>All four influences work by making demand less elastic and entry harder.</figcaption>
+</figure>
+
 
 ## Price making in monopolistic competition and oligopoly
 
@@ -94,6 +111,12 @@ Both firms have MC = £10. Firm A sells a distinctive product: P = 50 − 2Q, so
 | PED at that point | (1/2)(30/10) = 1.5 | (1)(20/10) = 2.0 |
 
 Both are price makers, but Firm B's more elastic demand gives it a smaller mark-up. Close substitutes (many rivals in monopolistic competition) or the reactions of a few large rivals (oligopoly) limit how far a firm can raise price. Neither is a price taker, and neither has the unchallenged power of a pure monopolist.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--03-mono-markup-elasticity.webp" width="900" height="930" alt="Two panels with MC 10 pounds. Firm A (P = 50 - 2Q) sells 10 units at 30, mark-up 20, PED 1.5. Firm B (P = 30 - Q) sells 10 units at 20, mark-up 10, PED 2.0." loading="lazy">
+  <figcaption>Less elastic demand lets a price maker charge a bigger mark-up over marginal cost.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages of monopoly
 
@@ -120,6 +143,22 @@ The break-even cost saving: the monopoly price is (60 + MC)/2, which equals £40
 
 **Evaluation:** the verdict depends on the size of the cost saving, whether the profit is reinvested, how contestable the market is, and whether regulation limits price. Do not claim that monopoly is always bad or always good.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--02-mono-cost-saving.webp" width="900" height="980" alt="Demand P = 60 - 2Q. Competition (MC 40): 10 units at 40. Monopoly with the same cost: 5 units at 50. Monopoly after economies of scale cut MC to 16: 11 units at 38, cheaper than competition." loading="lazy">
+  <figcaption>A monopoly can charge less than a competitive industry if economies of scale cut its costs enough.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--06-natural-monopoly.webp" width="900" height="860" alt="Illustrative: fixed cost 360 and MC 10 give AC = 360/Q + 10. One firm making 60 units has AC 16 (total 960); two firms making 30 each have AC 22 (total 1,320), wasting the 360 duplicated fixed cost." loading="lazy">
+  <figcaption>When average cost falls across the whole market, one firm is cheapest and duplication wastes resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
+
 ## Price discrimination
 
 **Price discrimination** is charging different prices to different customers for the same good or service, where the difference is not explained by differences in cost. Real-world examples include peak and off-peak rail fares, student discounts, and airline fares that change with booking date.
@@ -129,6 +168,12 @@ The break-even cost saving: the monopoly price is (60 + MC)/2, which equals £40
 2. **Separable markets**: it must be able to identify and divide customers into groups (by age, time, location or income).
 3. **Different price elasticities of demand** in the groups, so there is a profit to be made from charging them differently.
 4. **No resale**: customers who pay the low price must not be able to sell to those who would pay the high price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--07-pd-four-conditions.webp" width="900" height="910" alt="Four panels: price maker, separable groups (peak and off-peak), different elasticity (1.3 and 1.5 in the climbing-centre example) and no resale. Real examples: rail fares, student discounts, airline fares." loading="lazy">
+  <figcaption>Each condition is needed for price discrimination to work.</figcaption>
+</figure>
+
 
 ### Worked example 4: an indoor climbing centre, two markets (illustrative)
 
@@ -164,6 +209,17 @@ If the firm knew each customer's maximum willingness to pay, it could charge eac
 - **Against efficiency:** the cost of identifying groups and stopping resale; output may fall if the low-price market is not served.
 
 **Evaluation:** a gain for one group is a loss for another, so judge by who loses, whether output rises, and how profit is used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--04-pd-two-markets.webp" width="900" height="980" alt="Two panels, MC 6 pounds. Peak demand P = 46 - Q gives 20 tickets at 26 (PED 1.3, profit 400). Off-peak P = 30 - Q gives 12 at 18 (PED 1.5, profit 144). Total 544 against 512 with one price of 22." loading="lazy">
+  <figcaption>Charging more where demand is less elastic raises profit above the single-price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--05-pd-perfect.webp" width="900" height="1000" alt="Single-price monopoly (12 units at 36) splits surplus into consumer surplus 144, profit 288 and lost surplus 144. With perfect discrimination output rises to 24 and the whole 576 becomes profit, consumer surplus zero." loading="lazy">
+  <figcaption>Perfect discrimination removes the lost surplus but transfers all consumer surplus to the firm.</figcaption>
+</figure>
+
 
 ## Common errors
 

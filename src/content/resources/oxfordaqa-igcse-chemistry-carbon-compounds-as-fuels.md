@@ -62,6 +62,12 @@ The aim is to split the oil into **fractions**. Each fraction holds molecules wi
 
 The specification says you do not need the names of particular fractions or fuels. Concentrate on the process and the link between molecule size and boiling point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 a and b: alkanes
 
 Most hydrocarbons in crude oil are **alkanes**. Alkanes are **saturated**, meaning they contain only single carbon–carbon covalent bonds. They form a **homologous series** with the general formula **CₙH₂ₙ₊₂**.
@@ -92,6 +98,12 @@ Which of these is an alkane: C₁₁H₂₄, C₈H₁₆, C₄H₁₀O?
 - C₈H₁₆: 2n + 2 = 18, not 16. It fits CₙH₂ₙ instead, so it is not an alkane.
 - C₄H₁₀O contains oxygen, so it is not a hydrocarbon at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--05-first-three-alkanes.webp" width="900" height="920" alt="Displayed formulae of methane, ethane and propane with each line a covalent bond; hydrogen count equals 2n + 2 (4, 6, 8)." loading="lazy">
+  <figcaption>The first three alkanes follow CnH2n+2, with four bonds on every carbon and one on every hydrogen.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 c: properties depend on molecule size
 
 As the number of carbon atoms in a hydrocarbon molecule increases:
@@ -104,6 +116,12 @@ As the number of carbon atoms in a hydrocarbon molecule increases:
 
 Larger molecules have stronger forces between them, so more energy is needed to separate them. Small molecules flow easily, ignite easily and burn with a cleaner flame, so they make good fuels. Large, viscous, hard-to-ignite molecules are less useful as fuels, which is one reason for cracking (below).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--06-size-trends.webp" width="900" height="930" alt="Three carbon chains of increasing length with bars showing boiling point and viscosity rising and flammability falling as molecules get larger." loading="lazy">
+  <figcaption>As molecules get larger, boiling point and viscosity rise and flammability falls.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 d and e: burning fuels
 
 When a hydrocarbon burns, its carbon and hydrogen are **oxidised** (they combine with oxygen), and energy is released.
@@ -111,6 +129,17 @@ When a hydrocarbon burns, its carbon and hydrogen are **oxidised** (they combine
 ### Complete combustion
 
 With plenty of oxygen, the carbon becomes carbon dioxide and the hydrogen becomes water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--07-dodecane-balance.webp" width="900" height="900" alt="Four steps balance C12H26 burning: 12 CO2, 13 H2O, 37 oxygen atoms needed so 18 and a half O2, then double to 2C12H26 + 37O2 -&gt; 24CO2 + 26H2O, with an atom tally of 24 C, 52 H and 74 O on each side." loading="lazy">
+  <figcaption>Balance carbon, then hydrogen, then oxygen, and check by counting atoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
 
 ### Worked example 2: balancing complete combustion of dodecane
 
@@ -146,6 +175,12 @@ Many fuels, including coal, contain some **sulfur**. When the fuel burns, the su
 | Particulates (soot, unburnt fuel) | incomplete combustion | global dimming |
 
 To predict products, list the elements in the fuel, then ask whether oxygen was plentiful.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--01-fuel-products.webp" width="900" height="980" alt="Five rows link an atom in the fuel or air to its combustion product and effect: carbon with plenty of oxygen gives CO2 (climate change); carbon with too little oxygen gives CO (toxic) and soot (global dimming); hydrogen gives water; sulfur gives SO2 (acid rain); nitrogen from the air in a hot engine gives oxides of nitrogen (acid rain)." loading="lazy">
+  <figcaption>Predict the product from the element in the fuel, then ask whether oxygen was plentiful.</figcaption>
+</figure>
+
 
 ## 3.10.1.3: cracking and alkenes
 
@@ -183,6 +218,12 @@ Equation: C₁₉H₄₀ → C₁₀H₂₂ + C₃H₆ + C₆H₁₂
 
 A single product can be found the same way: C₂₃H₄₈ → C₁₅H₃₂ + **C₈H₁₆**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--08-cracking-missing-product.webp" width="900" height="870" alt="19 circles for the carbon atoms of nonadecane split into C10H22, C3H6 and the missing C6H12 (carbon 19-10-3 = 6, hydrogen 40-22-6 = 12), plus the second example C23H48 -&gt; C15H32 + C8H16." loading="lazy">
+  <figcaption>Subtract the carbon and hydrogen atoms of the known products to find the missing one.</figcaption>
+</figure>
+
+
 ### Required practical: testing for a double bond
 
 Alkenes react with **bromine water**, turning it from **orange to colourless**. Alkanes do not react with it, so the orange colour stays.
@@ -193,6 +234,22 @@ Alkenes react with **bromine water**, turning it from **orange to colourless**. 
 4. Record the colour. Colourless means a C=C double bond is present; orange means no double bond.
 
 Run a known alkane alongside as a comparison. For the risk assessment: bromine water is harmful and irritates skin and eyes, so wear eye protection and gloves and use small volumes; hydrocarbons are flammable, so keep them away from flames; work in a well-ventilated room. The specification's skills table lists risk assessment, collecting data, analysing data and making conclusions for this practical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
 
 ## 3.10.1.2 f: two ways to make ethanol
 
@@ -230,6 +287,12 @@ Check: 644 + 616 = 1260 g, so mass is conserved.
 
 Hydration works the same way. One mole of ethene (Mr 28) gives one mole of ethanol (Mr 46), so 56 tonnes of ethene gives 56 × 46 ÷ 28 = **92 tonnes** of ethanol. No second product forms, so every atom ends up in the ethanol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--09-ethanol-masses.webp" width="900" height="940" alt="Fermentation: 1260 g glucose is 7.0 mol and gives 644 g ethanol and 616 g CO2. Hydration: 56 t ethene plus 36 t steam gives 92 t ethanol." loading="lazy">
+  <figcaption>The masses of products add up to the mass of reactants in both routes to ethanol.</figcaption>
+</figure>
+
+
 ## 3.10.1.2 g: biofuels
 
 **Biofuels**, including **biodiesel** and **ethanol**, are made from plant material. They are possible alternatives to hydrocarbon fuels. Ethanol for use as a biofuel comes from a dilute solution made by fermenting plant materials at 20 °C to 35 °C.
@@ -241,6 +304,12 @@ Hydration works the same way. One mole of ethene (Mr 28) gives one mole of ethan
 | Carbon footprint | plants absorb CO₂ as they grow, offsetting some of the CO₂ released on burning | farming, fertiliser, transport and distillation all use energy, so the footprint is not zero |
 
 A balanced judgement uses both columns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels--02-biofuel-carbon-loop.webp" width="900" height="940" alt="Plants take in CO2, biofuel is made from them, burning it releases CO2 back to the air. A dashed box shows farming, fertiliser, transport and distillation also use energy, so the footprint is not zero: CO2 is partly offset, not cancelled." loading="lazy">
+  <figcaption>A biofuel offsets some of its CO2 through plant growth, but the supply chain means it is not carbon neutral.</figcaption>
+</figure>
+
 
 ## Common errors
 

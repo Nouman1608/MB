@@ -52,6 +52,12 @@ Partners usually agree how profit is divided. Without an agreement, apply the Pa
 2. Brannagh's claim fails: the Act gives no interest on capital.
 3. Profit is shared equally: 51,150 ÷ 2 = **25,575** each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--01-agreement-vs-default.webp" width="900" height="830" alt="Four bars compare how a 48,000 pound profit is shared between Ryder and Sloane. With no agreement each receives 24,000 pounds. With an agreed 15,000 pound salary for Sloane and 8 percent interest on capital, Ryder receives 18,100 pounds and Sloane 29,900 pounds." loading="lazy">
+  <figcaption>Without an agreement profit is shared equally; an agreement lets reward match capital and effort.</figcaption>
+</figure>
+
+
 ## Calculating interest on capital and on drawings
 
 Both depend on time.
@@ -112,6 +118,17 @@ Interest on drawings is **added**: it is a charge on the partners, so it increas
 
 If the profit had been too small to cover the salary and interest, they would still be credited in full; the shortfall becomes a **residual loss**, shared in the same 5 : 3 : 2 ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+
 ## Capital and current accounts
 
 With **fixed capital accounts**, the capital account holds only capital introduced or withdrawn by agreement. Interest, salaries, profit shares and drawings all go to each partner's **current account**. With **fluctuating capital accounts** there is no current account, and these items go straight to capital, so the capital balance changes every year.
@@ -140,6 +157,17 @@ Current accounts        5,590   (4,244)     2,824     4,170
 ```
 
 Quarrie's 16,000 loan is a liability, shown outside equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
+  <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
 
 ## Changes in partnership
 
@@ -195,6 +223,12 @@ Balance c/d       36,500    36,500        -
 
 Keverne is owed 24,750 in total. The 12,000 loan is a liability; interest on it will be an expense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
+  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
+</figure>
+
+
 ## Commenting on partnership statements
 
 "Comment" needs judgements backed by figures:
@@ -215,6 +249,12 @@ Keverne is owed 24,750 in total. The 12,000 loan is a liability; interest on it 
 ## Next steps
 
 Condense the methods with the [revision notes](/resources/oxfordaqa-a-level-accounting-partnership-accounts-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-accounting-partnership-accounts-practice/). Another International A-level financial accounting topic is [accounting for organisations with incomplete records](/resources/oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete/); for planning your revision see [OxfordAQA A-level Accounting exam preparation page](/resources/oxfordaqa-a-level-accounting-exam-preparation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
+  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

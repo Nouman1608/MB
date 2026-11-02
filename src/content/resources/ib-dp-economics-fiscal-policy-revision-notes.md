@@ -71,6 +71,22 @@ Goals can conflict. A boost to demand that cuts unemployment may push up inflati
 4. Shift to AD2 for expansion. Output rises with little price rise.
 5. For contraction, start with AD past potential output on the steep part and shift left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--10-fiscal-inflationary-gap.webp" width="900" height="960" alt="Keynesian AD/AS: actual 860 above potential 820; AD shifts left to close the gap of 40." loading="lazy">
+  <figcaption>Contractionary policy shifts AD left to close the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--01-circular-flow.webp" width="900" height="980" alt="Households and firms pass spending and income round a loop; saving, taxes and imports leak out and investment, government spending and exports flow in." loading="lazy">
+  <figcaption>Leakages equal injections, so national income is steady; injections above leakages raise it.</figcaption>
+</figure>
+
+
 ### Monetarist/new classical
 
 1. Draw vertical LRAS at potential output and rising SRAS.
@@ -81,9 +97,26 @@ Goals can conflict. A boost to demand that cuts unemployment may push up inflati
 
 Difference to state: the Keynesian view allows an equilibrium below full employment to persist and so supports policy action. The monetarist/new classical view expects automatic return to potential output and so sees fiscal policy changing mainly prices in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--05-fiscal-monetarist-expansion.webp" width="900" height="1060" alt="Price level on the vertical axis and real GDP on the horizontal axis. A vertical LRAS stands at potential output Yf, which is 100. AD1 cuts SRAS1 at E1 on the LRAS, price level 70. Expansionary fiscal policy shifts AD right to AD2, so output rises along SRAS1 to E2 at output 130 and price level 85, above potential. Wages and costs then adjust, SRAS shifts left to SRAS2, and the economy returns to potential output at E3 with a higher price level of 100. The long-run result is inflation without extra output." loading="lazy">
+  <figcaption>Expansion lifts output above potential in the short run, then SRAS shifts left and output returns to Yf at a higher price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+
 ## Budget arithmetic reminder
 
 Orsland's revenue is 320 and expenditure is 345, so the balance is 320 − 345 = −25. If 20 of the revenue came from selling a state asset, the underlying position is 300 − 345 = −45. One-off receipts flatter the balance, so strip them out when judging whether a deficit is sustainable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--01-fiscal-budget.webp" width="900" height="1000" alt="Two stacked columns in billion veld. Revenue is 470: income tax 210, corporate profits tax 90, sales tax 150, state-owned enterprise sales 12 and a one-off asset sale 8. Government spending is 490: current 310, capital 75 and transfer payments 105. Spending is 20 higher than revenue, so the budget balance is minus 20, a deficit of 20 billion veld. Without the one-off asset sale of 8 the shortfall would be 28." loading="lazy">
+  <figcaption>The budget balance is revenue minus spending, here 470 − 490 = −20.</figcaption>
+</figure>
+
 
 ## Multiplier (HL only)
 
@@ -112,6 +145,32 @@ Government spending +30  ->  GDP +60
 Exports +18              ->  GDP +36
 Gap of 50 needs an injection of 50 / 2 = 25
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--02-fiscal-multiplier-leakages.webp" width="900" height="1050" alt="HL only. A bar for one extra unit of income splits into leakages of saving 0.08, tax 0.17 and imports 0.15, total 0.40, and 0.60 that is spent again. Government spending of 24 billion veld then passes round: 24, 14.4, 8.64, 5.18, 3.11, and later rounds adding 4.67, which total 60. The multiplier is 1 divided by 0.4, which is 2.5, so GDP rises by 2.5 times 24, which is 60 billion veld." loading="lazy">
+  <figcaption>Each extra unit of income leaks 0.40 to saving, tax and imports, so the multiplier is 2.5 and a 24 injection raises GDP by 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--03-fiscal-crowding-out.webp" width="900" height="990" alt="HL only. Government borrows and spends 20 billion veld. Interest rates rise and private investment falls by 8, so the net injection is 12. With a multiplier of 2.5 the GDP rise is 12 times 2.5, which is 30, instead of the 50 that 20 times 2.5 would give if crowding out were ignored. The lost GDP gain is 20." loading="lazy">
+  <figcaption>Borrowing 20 but losing 8 of private investment leaves a net injection of 12, so GDP rises 30 instead of 50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--04-fiscal-automatic-stabilisers.webp" width="900" height="930" alt="HL only. A household income falls from 180 to 140, a fall of 40. Under a progressive tax of 10 percent on the first 100 and 30 percent above, tax falls from 34 to 22 so disposable income falls by only 28; the tax bill absorbs 12, which is 30 percent of the shock. Under a flat 20 percent tax, tax falls from 36 to 28 and disposable income falls by 32; the tax absorbs 8, which is 20 percent." loading="lazy">
+  <figcaption>When income falls by 40 a progressive tax absorbs 12 of the fall, 30%, against 8 (20%) under a flat tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--11-fiscal-crowding-out-adas.webp" width="900" height="1000" alt="AD shifts right then back part-way (20 then 12), so output ends between Y1 and Y2." loading="lazy">
+  <figcaption>Crowding out on AD/AS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
 
 ## Effectiveness
 
@@ -180,6 +239,12 @@ The guide describes Paper 1 as an extended response paper (25 marks, 1 hour and 
 10. Any two of political pressure, time lags, sustainable debt.
 11. None: output returns to potential and only the price level is higher.
 12. Tax payments fall by more than proportionately when incomes fall, so disposable income falls less, and the reverse in a boom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

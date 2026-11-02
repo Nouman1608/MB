@@ -60,6 +60,12 @@ n = N/NA, so N = nNA.
 
 **Worked example 2.** A sample contains 2.408 × 10²⁴ molecules. n = 2.408 × 10²⁴ / 6.02 × 10²³ = **4.00 mol**. In reverse, 0.250 mol has 0.250 × 6.02 × 10²³ = 1.51 × 10²³ molecules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--01-pressure.webp" width="900" height="1170" alt="A 18 kg crate on a 0.30 m by 0.20 m face has weight 176.6 N over 0.060 square metres, giving 2943 Pa. Below, a 100 N force at 35 degrees to a wall has only its right-angle component, 81.9 N, counting towards pressure." loading="lazy">
+  <figcaption>Pressure is the perpendicular force per unit area; only the component at right angles counts.</figcaption>
+</figure>
+
+
 ## The ideal gas model
 
 An ideal gas is a modelled system. It is described by kinetic theory and it approximates the behaviour of real gases. In the model:
@@ -71,6 +77,12 @@ An ideal gas is a modelled system. It is described by kinetic theory and it appr
 - between collisions, molecules move in straight lines at constant velocity
 
 Real gases break these assumptions. Molecules have size and attract one another. The last section of this guide says when the approximation is still good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--02-ideal-gas-model.webp" width="900" height="1070" alt="A box of identical point-like molecules moving in straight lines at constant velocity, with one molecule bouncing elastically off a wall at equal angles. A key lists the assumptions: points, straight-line motion, elastic wall bounces, no forces except in collisions." loading="lazy">
+  <figcaption>Ideal gas molecules are points moving in straight lines, interacting only in brief elastic collisions.</figcaption>
+</figure>
+
 
 ## The empirical gas laws and PV/T = constant
 
@@ -96,6 +108,17 @@ So for a fixed mass of gas, **PV/T = constant**. The constant equals nR, or NkB,
 1. P₁V₁/T₁ = P₂V₂/T₂, so P₂ = P₁V₁T₂ / (T₁V₂).
 2. P₂ = (1.0 × 10⁵ × 2.4 × 10⁻³ × 360) / (290 × 1.5 × 10⁻³).
 3. Numerator = 86 400. Denominator = 0.435. P₂ = **1.99 × 10⁵ Pa**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--03-empirical-laws.webp" width="900" height="1180" alt="Three computed straight-line graphs for 0.050 mol of gas: P against 1/V at constant T, V against T at constant P, and P against T at constant V, each through the origin with T in kelvin. Small cylinder drawings show what is held fixed." loading="lazy">
+  <figcaption>Each law gives a straight line through the origin when T is in kelvin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--04-combined-law.webp" width="900" height="1020" alt="A P-V graph takes worked example 3 in two steps: A at constant pressure to the intermediate temperature 181 K, then B at constant volume up to 360 K. Faint constant-temperature curves are drawn and the result P2 = 1.99e5 Pa is shown." loading="lazy">
+  <figcaption>Two steps, constant pressure then constant volume, give P1V1/T1 = P2V2/T2.</figcaption>
+</figure>
+
 
 
 ## The equations of state
@@ -140,6 +163,12 @@ Here v² stands for the mean of the squared speeds, so v is the root mean square
 1. v² = 3P/ρ = 3 × 1.00 × 10⁵ / 0.164 = 1.829 × 10⁶ m² s⁻².
 2. v = **1.35 × 10³ m s⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--05-collision-pressure.webp" width="900" height="1050" alt="A molecule in a cube of side L rebounds from a wall with its x-velocity reversed, changing x-momentum by 2mvx. The chain hits per second vx/2L, force mvx squared over L, and v squared = 3 vx squared leads to P = (1/3) rho v squared; helium gives 1.35e3 m/s." loading="lazy">
+  <figcaption>The wall force from many collisions gives P = (1/3) rho v squared, with v the root mean square speed.</figcaption>
+</figure>
+
+
 ## Temperature and internal energy of a monatomic gas
 
 Combine P = (1/3)ρv² with PV = NkBT. Since ρ = Nm/V, PV = (1/3)Nm v². Setting this equal to NkBT gives (1/3)mv² = kBT, so the mean translational kinetic energy of a molecule is
@@ -158,6 +187,12 @@ U depends only on temperature and the amount of gas. Doubling the kelvin tempera
 2. Change in U for the 0.80 mol = (3/2) × 0.80 × 8.31 × 150 = 1496 J, so **1.5 × 10³ J**.
 3. Mean kinetic energy per atom at 320 K = 1.5 × 1.38 × 10⁻²³ × 320 = **6.62 × 10⁻²¹ J**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--06-temperature-internal-energy.webp" width="900" height="1210" alt="Two computed straight-line graphs: mean KE per molecule (3/2)kBT, 6.62e-21 J at 320 K, and U = (3/2)nRT for 2.0 mol (9972 J at 400 K) and 0.80 mol (rise of 1496 J from 300 to 450 K). Doubling kelvin temperature doubles U." loading="lazy">
+  <figcaption>For a monatomic ideal gas, mean kinetic energy and U are proportional to the kelvin temperature.</figcaption>
+</figure>
+
+
 ## When a real gas behaves like an ideal gas
 
 A real gas is a good approximation to an ideal gas at:
@@ -167,6 +202,12 @@ A real gas is a good approximation to an ideal gas at:
 - high temperature, well above the temperature at which the gas would condense, so the molecules move fast and attractions have little effect on their motion
 
 Close to condensing, forces between molecules and molecular size both matter, and PV = nRT fails.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--07-real-vs-ideal.webp" width="900" height="1130" alt="Four equal-volume boxes of molecules: low pressure and low density (far apart) and high temperature (fast) are good approximations; crowded boxes with attraction dashes and slow molecules near condensing are poor. High pressure is not more ideal." loading="lazy">
+  <figcaption>Real gases are nearly ideal at low pressure, low density and high temperature.</figcaption>
+</figure>
+
 
 ## Pressure-volume diagrams
 
@@ -185,6 +226,12 @@ On an isothermal curve PV is the same everywhere. A curve further from the axes 
 1. T = PV/(nR). At A, PV = 360 J, so T = 360 / (0.12 × 8.31) = **361 K**.
 2. At B, PV = 720 J, so T = **722 K**. The volume doubled at constant pressure, so T doubled.
 3. At C, PV = 360 J again, so T = **361 K**, equal to A. This confirms C to A is isothermal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--08-pv-cycle.webp" width="900" height="1060" alt="A P-V cycle for 0.12 mol: A to B at constant pressure, B to C at constant volume, C to A along a constant-PV curve. T = PV/nR gives 361 K at A, 722 K at B and 361 K at C, confirming C to A is isothermal." loading="lazy">
+  <figcaption>On a P-V diagram T = PV/nR, so equal-PV points share a temperature.</figcaption>
+</figure>
+
 
 ## Common errors
 

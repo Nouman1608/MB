@@ -45,6 +45,12 @@ These notes condense the second half of Fiscal policy in the OCR A Level Economi
 - Debt can rise in money terms while the ratio to GDP is flat or falling, if GDP grows fast enough.
 - The national debt is held by domestic and overseas lenders, and may be quoted gross or net of financial assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--04-deficit-flow-debt-stock.webp" width="900" height="1060" alt="Revenue 400 and spending 460 including 30 interest give a deficit of 60, 4 percent of GDP 1,500 and a primary deficit of 30. Debt rises from 1,200 to 1,260 while GDP grows from 1,500 to 1,575, so debt stays 80 percent of GDP." loading="lazy">
+  <figcaption>A deficit adds to the debt stock, but debt can stay flat as a share of GDP.</figcaption>
+</figure>
+
+
 ## Financing a deficit
 
 | Method | Effect | Risk |
@@ -55,6 +61,12 @@ These notes condense the second half of Fiscal policy in the OCR A Level Economi
 | Draw on cash balances or reserves | Quick | Cannot last |
 
 Overseas buyers: interest leaves the country. Short-term bills: refinancing risk if rates rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--09-financing-a-deficit.webp" width="900" height="870" alt="A deficit of 60 is financed by 35 of long-term bonds bought at home, 15 of bonds bought by overseas investors and 10 of short-term bills. Overseas holders mean interest leaves the country; bills must be refinanced soon. Central bank borrowing and asset sales are other routes." loading="lazy">
+  <figcaption>Most deficits are financed by selling bonds and bills.</figcaption>
+</figure>
+
 
 ## Correcting a deficit or surplus
 
@@ -72,6 +84,12 @@ Evaluation chain: tighten policy, GDP falls through the multiplier, tax revenue 
 
 Judge by: timing in the cycle, composition (capital cuts hurt growth, benefit cuts hit the poor, tax rises hit incentives), size of the multiplier, and the size of the deficit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--05-spending-cut-leakages.webp" width="900" height="820" alt="A spending cut of 20 with a multiplier of 2 lowers GDP by 40. Tax revenue falls 10 and benefits rise 2, so only 8 reaches the deficit, which falls from 60 to 52: 40 percent of the cut." loading="lazy">
+  <figcaption>Because GDP falls, tax receipts fall and benefits rise, so a cut reduces the deficit by less than its size.</figcaption>
+</figure>
+
+
 ## Consequences of government debt
 
 | Costs | Benefits or offsets |
@@ -87,6 +105,12 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 
 **Debt rule of thumb.** New ratio = old ratio x (1 + r) / (1 + g) + primary deficit as a share of GDP. With r = 2.5%, g = 5%, ratio 0.80 and primary deficit 1.90% of GDP: 0.7810 + 0.0190 = 0.8000. With r = 4.5%: 0.8152. When r is above g, a primary surplus is needed to hold the ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--10-debt-ratio-dynamics.webp" width="900" height="960" alt="Next year's debt ratio is the old ratio times (1+r)/(1+g) plus the primary deficit share. With r = 2.5% and g = 5% the ratio stays 80.0%; with r = 4.5% it rises to 81.5%." loading="lazy">
+  <figcaption>Higher interest costs lift the debt-to-GDP ratio.</figcaption>
+</figure>
+
+
 ## Automatic stabilisers
 
 - Boom: tax receipts rise faster than income, benefits fall, budget moves to surplus, demand cools.
@@ -94,6 +118,12 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 - Stronger with progressive tax and generous benefits. No time lag in decisions. They soften the cycle but do not remove it.
 
 **Worked reminder.** Leakages without tax 0.25, multiplier 4. With tax 0.5, multiplier 2. A shock of -10 gives -40 without tax and -20 with it. If GDP falls 20, tax falls 5, benefits rise 1, so the deficit widens by 6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--11-automatic-stabilisers-halve.webp" width="900" height="850" alt="An investment fall of 10 cuts GDP by 40 with multiplier 4 but only 20 once a 25% marginal tax rate takes the multiplier to 2. With GDP down 20, tax falls 5 and benefits rise 1, so the deficit widens 6 without any policy decision." loading="lazy">
+  <figcaption>Tax and benefit rules halve the GDP fall and widen the deficit automatically.</figcaption>
+</figure>
+
 
 ## Discretionary fiscal policy
 
@@ -103,6 +133,22 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 - Limits: time lags (recognition, decision, implementation, impact), uncertain multiplier, political motives, debt.
 
 **Worked reminder.** Spending +12, multiplier 2: GDP +24, tax +6, net cost 6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--12-discretionary-spending-net-cost.webp" width="900" height="920" alt="Extra spending of 12 with multiplier 2 raises GDP by 24. Tax revenue rises 6 (25% of 24), so the net cost is 6, half of the spending." loading="lazy">
+  <figcaption>Half of a spending stimulus pays for itself through extra tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
 
 ## Crowding out and crowding in
 
@@ -114,6 +160,12 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 | Weak with spare capacity, high saving, or low central bank rates | Needs a recovering economy and credible policy |
 
 **Worked reminder.** Spending +12 raises the interest rate by 0.5 points; investment falls by 8 per point, so 4. Net injection 8, GDP +16 instead of +24. One third crowded out. If crowding in adds 3, the net injection is 11, so GDP +22.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--06-crowding-out-in.webp" width="900" height="960" alt="Spending of 12 with multiplier 2 raises GDP by 24 with no crowding out. Crowding out of 4 gives net 8 and GDP +16, a third of the spending crowded out. Crowding in of 3 gives net 11 and GDP +22." loading="lazy">
+  <figcaption>Crowding out shrinks and crowding in enlarges the effect of fiscal stimulus.</figcaption>
+</figure>
+
 
 ## Effectiveness of fiscal policy
 
@@ -129,6 +181,12 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 - Weaknesses: rigid in a recession, escape clauses, accounting tricks, capital spending easily cut, rules can conflict with each other.
 
 **Worked reminder.** Current spending 430, capital 30, revenue 400, GDP 1,500, debt 1,200. Current deficit 30. Total deficit 60 (4.0% of GDP). Borrowing 60 is above capital spending of 30, so the golden rule fails. A 3% limit allows 45, so 15 of correction. Debt of 80% breaks a 60% ceiling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--13-fiscal-rules-country-a.webp" width="900" height="850" alt="Country A borrows 60 against capital spending of 30, breaking the golden rule by 30. A 3% of GDP limit allows 45, so 15 of correction is needed. Debt of 80% of GDP exceeds a 60% ceiling by 20 points." loading="lazy">
+  <figcaption>Country A breaks all three example fiscal rules.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -79,6 +79,12 @@ None of these four items belongs in the appraisal.
 | 4 | 150,000 | 85,000 | | 65,000 |
 | 5 | 140,000 | 86,000 | 18,000 | 72,000 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--01-relevant-cash-flows.webp" width="900" height="1050" alt="Wexcombe Cider example. Counted: canning line, installation, sale of old fillers (year 0 outlay 216,000) and resale in year 5. Left out and crossed: depreciation, engineer fee, head-office share and loan interest, with a reason for each." loading="lazy">
+  <figcaption>Include only future cash caused by the project; leave out depreciation, sunk costs, unchanged overheads and (OxfordAQA) loan interest.</figcaption>
+</figure>
+
+
 ## 2. Payback period
 
 The **payback period** is the length of time a project's net cash inflows take to equal its initial outlay. A business often sets a maximum it will accept, and a shorter payback is treated as safer.
@@ -99,6 +105,12 @@ The **payback period** is the length of time a project's net cash inflows take t
 After three years, 39,000 is still to recover. Year 4 brings 65,000.
 
 39,000 ÷ 65,000 = 0.6 of a year; 0.6 × 12 = 7.2 months. Payback is **3 years 7 months** to the nearest month. Year 5 is not needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--02-payback-running-total.webp" width="900" height="1010" alt="Bars show the running total of cash for the Kestrel press from -120 to +80 thousand pounds. The total crosses zero between years 2 and 3. 34,000 divided by 52,000 times 12 gives 7.8 months, so payback is 2 years 8 months." loading="lazy">
+  <figcaption>Payback is when the running total of cash turns positive.</figcaption>
+</figure>
+
 
 ## 3. Net present value
 
@@ -126,6 +138,22 @@ Money due in future is worth less than the same sum today: cash in hand can earn
 | | | **NPV** | **(5,031)** |
 
 The present values of the inflows total 210,969, which is 5,031 short of the outlay. Undiscounted, the canning line returns 314,000 for 216,000 and pays back inside its life, yet it earns less than 14% a year. On financial grounds Wexcombe should not buy it at this cost of capital. This is the gap that NPV exposes and payback cannot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
+  <figcaption>Discounting turns later cash into smaller present values; NPV is their total less the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--04-npv-can-say-no.webp" width="900" height="940" alt="Two bars compare Wexcombe inflows added up (314,000) with the same inflows in today's money (210,969) against the 216,000 outlay. The discounted total is 5,031 short, so NPV is negative and the project is rejected." loading="lazy">
+  <figcaption>A project can recover its cost undiscounted yet still have a negative NPV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--06-wacc.webp" width="900" height="870" alt="A bar split of 1,000,000 finance (45% shares at 12%, 15% preference at 8%, 40% debentures at 8.5%) leads to a second bar of contributions 5.4%, 1.2% and 3.4%, totalling 10.0%." loading="lazy">
+  <figcaption>WACC weights each source's cost by its share of finance and is used as the discount rate.</figcaption>
+</figure>
+
 
 ## 4. Benefits and limitations of each method
 
@@ -178,6 +206,12 @@ Pellingford Lodge, a country hotel, can fund only one project. Its cost of capit
 **NPV.** P: 35,530 + 31,428 + 26,112 + 18,312 + 12,834 = 124,216; NPV = **28,216**. Q: 18,700 + 29,682 + 39,168 + 48,832 + 47,058 = 183,440; NPV = **33,440**.
 
 **Evaluation.** Both projects beat the 7% cost of capital. Q adds 5,224 more value, so NPV alone points to Q. However, Q needs 54,000 more funding and takes 13 months longer to pay back. Its value depends on years 4 and 5. If those inflows were 20% lower, Q's NPV would drop to 14,262, while the same cut would leave P at 21,987. A hotel with modest cash reserves, or doubts about demand for meeting space, would lean towards P. Non-financial points: refurbished rooms lift guest reviews at once; a conference suite brings business customers but needs extra staff. A sound recommendation here is P, unless Pellingford has firm advance bookings that make Q's later inflows reliable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--05-payback-vs-npv.webp" width="900" height="1080" alt="Running totals for Alder and Birch cross zero at 2 years 6 months and 3 years 10 months. NPV bars at 8% show Alder 11,610 and Birch 17,545. Payback favours Alder, NPV favours Birch, and Birch relies on later years." loading="lazy">
+  <figcaption>Payback and NPV can recommend different projects, so evaluate with both.</figcaption>
+</figure>
+
 
 ## Common errors
 

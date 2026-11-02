@@ -41,6 +41,12 @@ Links: [0610 course hub](/boards/cambridge/igcse/biology/) · [printable checkli
 
 **Must-know distinction:** only proteins contain nitrogen. If a question asks which nutrient contains nitrogen, the answer is protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--01-elements.webp" width="900" height="1000" alt="Three rows of atom symbols. Carbohydrates and fats and oils contain carbon, hydrogen and oxygen only, with nitrogen crossed out. Proteins contain carbon, hydrogen, oxygen and always nitrogen, and some also contain sulfur." loading="lazy">
+  <figcaption>Only proteins contain nitrogen.</figcaption>
+</figure>
+
+
 ## 4.1.2 Large molecules from small ones -- Core
 
 | Large molecule | Built from | Where you meet it |
@@ -54,6 +60,12 @@ Links: [0610 course hub](/boards/cambridge/igcse/biology/) · [printable checkli
 **Memory hook:** "three from glucose, one from amino acids, one from two things". Starch, glycogen and cellulose all come from glucose. Protein comes from amino acids. Fats and oils need fatty acids plus glycerol.
 
 **Link to digestion:** each of these is reversed by an enzyme. Amylase: starch to simple reducing sugars. Proteases: protein to amino acids. Lipase: fats and oils to fatty acids and glycerol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
 
 ## 4.1.3 Food tests -- Core
 
@@ -134,6 +146,22 @@ If a question asks you to compare two foods, use this checklist:
 4. **Control:** distilled water tested the same way.
 5. **Repeats:** test each food more than once and check the results agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--05-dcpip-test.webp" width="900" height="1030" alt="Food solution is added drop by drop to 1 cm3 of blue DCPIP, shaking each time, until it turns colourless, showing vitamin C. In the worked example fresh juice needed 1.6 cm3 and boiled juice 4.0 cm3, so fresh juice is 2.5 times as concentrated." loading="lazy">
+  <figcaption>The less juice needed to decolourise DCPIP, the more vitamin C.</figcaption>
+</figure>
+
+
 ## Command words for this topic
 
 - **List / State:** a short answer, no explanation. "C, H, O and N" is enough.
@@ -165,6 +193,17 @@ Swap each letter using A↔T and C↔G. Keep the order.
 T T A G C C G A
 A A T C G G C T
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <figcaption>Pairing means A equals T and C equals G.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

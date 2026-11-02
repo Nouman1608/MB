@@ -98,6 +98,12 @@ Monopsony wage is (10 − 8)/10 = 20% below the competitive wage. Employment is 
 
 Three things that keep a union's gains in check: employers can replace workers with capital, import or relocate; high wages can cut employment; and a strike costs members income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--08-union-labour-demand-elasticity.webp" width="900" height="1040" alt="Two MRP diagrams with a union wage of 17 against a competitive 14. With the lesson MRP 28-2L jobs fall 7 to 5 and the pay bill 98 to 85. With a steeper illustrative curve 42-4L jobs fall 7 to 6 and the bill rises to 102." loading="lazy">
+  <figcaption>The less elastic labour demand is, the fewer jobs a union pay rise costs.</figcaption>
+</figure>
+
+
 ## Union in a perfectly competitive market
 
 Wage rises above equilibrium; employment falls along the demand curve; surplus labour appears.
@@ -113,6 +119,22 @@ Using Town B's competitive market (wage 10, 1,200 workers), a union wins a wage 
 | Elasticity | %ΔW = +20%; %ΔL = −33.3% | −33.3 ÷ 20 = −1.67 |
 
 Because the wage elasticity of demand for labour is greater than 1 in size, the total pay of members falls. If it were inelastic, the pay bill would rise. Either way, jobs are lost and outsiders suffer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--07-union-competitive.webp" width="900" height="970" alt="With S = 7 + L and MRP = 28 - 2L a union wage of 17 pounds cuts employment from 7 to 5 while 10 workers want jobs, a surplus of 5. The wage bill falls from 98 to 85 pounds." loading="lazy">
+  <figcaption>A union wage above equilibrium in a competitive market reduces employment and creates a labour surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--10-insiders-outsiders.webp" width="900" height="790" alt="At wage 14, 7 want work and 7 are hired. At union wage 17, 10 want work and 5 are hired: 5 insiders get a 21.4% rise, 5 outsiders have no job (2 lost jobs, 3 attracted)." loading="lazy">
+  <figcaption>A union wage above equilibrium helps insiders at the cost of outsiders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Union in a monopsony
 
@@ -135,6 +157,27 @@ Town B, where the monopsony wage is 8 and employment is 800:
 - Above 12: employment falls below what monopsony alone would give.
 
 Key statement: a union in a monopsony can raise both wages and employment, but only for wage rises up to a limit. The result depends on where the wage is set.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--06-monopsony-diagram.webp" width="900" height="960" alt="Diagram of S (wage 7 + L), MCL (6 + 2L) and MRP (28 - 2L). The monopsonist hires 5 workers where MCL meets MRP, pays 12 pounds from S, with a 6 pound gap to MRP; competition gives 7 workers at 14." loading="lazy">
+  <figcaption>A monopsonist hires where MCL = MRP but pays only what the supply curve requires.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--08-union-monopsony.webp" width="900" height="960" alt="Bars show employment at union wages 12 to 19 pounds: 5, 6, 7, 6, 6, 5, 5, 4. Employment peaks at 7 at the competitive wage 14 and falls back to 5 at 17 and 4 at 19." loading="lazy">
+  <figcaption>In a monopsony a union can raise pay and jobs together, up to a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--09-bilateral-bargaining-range.webp" width="900" height="770" alt="Number line of union wages 12 to 19 for Hillside Care. Employment is 5 at 12, peaks at 7 at the competitive wage 14, returns to 5 at 17 and is 4 at 19. Wages from 12 to 17 raise pay and jobs above the monopsony level; the settled wage depends on bargaining strength." loading="lazy">
+  <figcaption>In a bilateral monopoly the wage settles by bargaining strength, and the competitive wage is the informed target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

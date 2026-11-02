@@ -59,6 +59,17 @@ Cells in reproductive organs divide by meiosis. Copies of the genetic informatio
 
 Some organisms use both. **Malarial parasites** reproduce asexually in the human host but sexually in the mosquito. **Many fungi** reproduce asexually by spores and sexually to give variation. **Many plants** make seeds sexually but also reproduce asexually by runners (strawberry) or bulb division (daffodil).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## DNA and the genome (4.6.1.4–4.6.1.5)
 
 **DNA** is a polymer of two strands forming a **double helix**, contained in **chromosomes**. A **gene** is a small section of DNA on a chromosome that codes for a particular sequence of amino acids, to make a specific protein. The **genome** is the entire genetic material of an organism.
@@ -75,6 +86,12 @@ DNA is made of repeating **nucleotides**. Each has a common sugar and a phosphat
 - Non-coding DNA can switch genes on and off, so variants there may change how genes are expressed.
 
 **Worked example (Higher tier only).** One strand reads `ATGCCA`. Pair each base: A–T, T–A, G–C, C–G, C–G, A–T. The complementary strand is **`TACGGT`**. A coding section of 450 bases gives 450 ÷ 3 = **150 amino acids**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--11-base-triplets.webp" width="900" height="1010" alt="A strand ATGCCA is paired to give TACGGT (A with T, C with G). Every three bases code for one amino acid, so ATG and CCA give two amino acids, and 450 bases give 150 amino acids." loading="lazy">
+  <figcaption>Complementary pairing and the triplet code from the worked example.</figcaption>
+</figure>
+
 
 ## Genetic inheritance (4.6.1.6)
 
@@ -105,6 +122,17 @@ Genotypes: 1 BB : 2 Bb : 1 bb. Phenotypes: **3 black : 1 brown**. The probabilit
 
 **Higher tier only:** you must construct the cross yourself and use probability, e.g. the chance that two separate pups are both brown is 1/4 × 1/4 = **1/16**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--01-punnett-mice.webp" width="900" height="870" alt="Two black Bb mice are crossed. The Punnett square gives BB, Bb, Bb and bb, so three black to one brown, and the probability of a brown pup is 1/4." loading="lazy">
+  <figcaption>Bb × Bb gives 1 BB : 2 Bb : 1 bb, so 3 black : 1 brown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--02-two-pups-1-in-16.webp" width="900" height="830" alt="A 4 by 4 grid of pairs of pups from two Bb × Bb crosses has one brown-and-brown cell in sixteen, so the probability is 1/4 × 1/4 = 1/16." loading="lazy">
+  <figcaption>Two brown pups: 1/4 × 1/4 = 1/16.</figcaption>
+</figure>
+
+
 ## Inherited disorders and sex (4.6.1.7–4.6.1.8)
 
 - **Polydactyly** (extra fingers or toes) -- caused by a **dominant** allele.
@@ -117,6 +145,12 @@ Family trees: two unaffected parents with an affected child shows the allele is 
 **Embryo screening** can identify disorders, but raises issues: cost, the risk of the procedure, and ethical concerns about destroying embryos or choosing characteristics. Use any information given in the question.
 
 **Sex determination.** Human body cells have **23 pairs** of chromosomes: 22 pairs control characteristics only; one pair determines sex. Females are **XX**, males **XY**. A cross of XX × XY gives 1 XX : 1 XY, so each child has a **50%** chance of being male.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--03-cf-carriers.webp" width="900" height="845" alt="Two carrier parents Ff have children FF, Ff, Ff and ff. One in four has cystic fibrosis and one half are carriers." loading="lazy">
+  <figcaption>Two carriers: 1/4 chance of cystic fibrosis, 1/2 carrier.</figcaption>
+</figure>
+
 
 ## Variation and evolution (4.6.2.1–4.6.2.2)
 
@@ -139,6 +173,17 @@ Family trees: two unaffected parents with an affected child shows the allele is 
 - **Embryo transplants:** cells are split from an animal embryo before they specialise, and the identical embryos are transplanted into host mothers.
 - **Adult cell cloning:** the nucleus is removed from an unfertilised egg; the nucleus from an adult body cell (such as a skin cell) is inserted; an electric shock makes it divide into an embryo with the same genetic information as the skin cell; the ball of cells is inserted into the womb of an adult female.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--12-adult-cell-cloning.webp" width="900" height="1010" alt="Four steps: the nucleus is removed from an unfertilised egg; the nucleus of an adult body cell is inserted; an electric shock makes it divide into an embryo; the embryo is put into the womb of an adult female. The clone has the same genes as the skin cell donor." loading="lazy">
+  <figcaption>Adult cell cloning produces an animal genetically identical to the donor of the body cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--04-cloning-methods.webp" width="900" height="1000" alt="Tissue culture grows plant cells in a dish into identical plants. A cutting grows roots into a new plant with the same genes. Embryo transplants split an early embryo into cells and place the identical embryos in host mothers." loading="lazy">
+  <figcaption>Cloning without an adult cell: tissue culture, cuttings, embryo transplants.</figcaption>
+</figure>
+
+
 ## Developing the theory (4.6.3)
 
 **Darwin** proposed evolution by natural selection after a round-the-world expedition, experimentation and discussion, using geology and fossils: individuals vary; those best suited to the environment are more likely to survive and breed; their characteristics pass to the next generation. He published *On the Origin of Species* in **1859**. Acceptance was slow because the theory challenged the idea that God made all living things, there was too little evidence at the time, and the mechanism of inheritance was not known until 50 years later. **Lamarck** proposed that changes during an organism's lifetime are inherited; in the vast majority of cases this cannot happen.
@@ -153,9 +198,31 @@ Family trees: two unaffected parents with an affected child shows the allele is 
 
 **Resistant bacteria:** bacteria reproduce fast, and mutations produce new strains. A resistant strain survives antibiotic treatment and reproduces, so it spreads (MRSA is an example). To slow this: no inappropriate prescribing (e.g. for viral infections), finish the course, and restrict agricultural use. New antibiotics are costly and slow to develop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--13-speciation-steps.webp" width="900" height="1030" alt="Four stages with example pale and dark beetles: one population, split by a river, each group still varied; different ground selects different variants; the groups cannot interbreed to produce fertile offspring so they are two new species." loading="lazy">
+  <figcaption>Isolation plus different selection can give two species that cannot interbreed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--14-fossil-routes.webp" width="900" height="1170" alt="Fossils form from parts that have not decayed because a condition for decay is absent, from parts replaced by minerals, or as traces such as footprints, burrows and rootlet traces. The record is incomplete because early life was soft-bodied and geological activity destroyed many traces." loading="lazy">
+  <figcaption>Three routes to a fossil, and why the fossil record is incomplete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--05-ideas-timeline.webp" width="900" height="1025" alt="Timeline in order: Mendel mid 1800s, Wallace and Darwin joint writings 1858, Origin of Species 1859, chromosomes late 1800s, genes linked to chromosomes early 1900s, DNA structure mid 1900s. Lamarck proposed lifetime changes are inherited, almost never true." loading="lazy">
+  <figcaption>Order of the ideas behind inheritance and evolution (not to scale).</figcaption>
+</figure>
+
+
 ## Classification (4.6.4)
 
 **Linnaeus** grouped organisms by structure: kingdom, phylum, class, order, family, genus, species. The **binomial** name is genus + species. Better microscopes and biochemistry led to **Woese's three-domain system**: **archaea**, **bacteria** and **eukaryota**. **Evolutionary trees** show how organisms are believed to be related, using classification data for living organisms and fossil data for extinct ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--15-classification-levels.webp" width="900" height="1080" alt="Seven levels from kingdom to species. The binomial name is genus plus species, with Homo sapiens as an example. Woese’s three-domain system groups life into archaea, bacteria and eukaryota." loading="lazy">
+  <figcaption>Linnaeus’s seven levels, binomial names, and Woese’s three domains.</figcaption>
+</figure>
+
 
 ## Common errors
 

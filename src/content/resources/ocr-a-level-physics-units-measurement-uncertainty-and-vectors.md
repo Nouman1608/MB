@@ -57,6 +57,12 @@ power = energy / time = 2300 / 9 ≈ 260 W
 
 A result of 20 W or 20 kW would tell you to recheck.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
+
 ## 2.1.2 SI units
 
 ### Base quantities
@@ -131,6 +137,22 @@ Homogeneity cannot detect a missing factor such as ½ or 2π. It only shows the 
 
 Write a heading as quantity / unit, for example speed / m s⁻¹ or time / s. The unit then divides the quantity, so the entries below it are pure numbers. Do not put units on every cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--03-squared-units.webp" width="900" height="890" alt="A 1 cm square divided into 100 one-millimetre squares shows 1 cm^2 = 100 mm^2. Then 1 mm^2 = 10^-6 m^2, 3.5 mm^2 = 3.5 x 10^-6 m^2, 1 cm^3 = 10^-6 m^3 and 7.8 g cm^-3 = 7800 kg m^-3." loading="lazy">
+  <figcaption>The prefix is raised to the same power as the unit.</figcaption>
+</figure>
+
+
 ## 2.2.1 Errors, precision and accuracy
 
 ### Systematic and random errors
@@ -140,6 +162,12 @@ A **systematic error** shifts every reading by the same amount or the same propo
 A **random error** scatters readings unpredictably, for example reaction time with a stopwatch. Repeating and averaging reduces its effect.
 
 **Worked example.** The micrometer above reads 1.46 mm on a wire, so the diameter is 1.46 − 0.02 = **1.44 mm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ### Precision and accuracy
 
@@ -160,6 +188,12 @@ percentage uncertainty = 0.045 / 1.54 × 100 = 2.9 %
 Write the result as 1.54 ± 0.05 s.
 
 Percentage uncertainty is (absolute / value) × 100 and has no unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ## Combining uncertainties
 
@@ -187,6 +221,12 @@ absolute = 2.58 % of 7.78 = 0.20 g cm⁻³
 
 So ρ = 7.78 ± 0.20 g cm⁻³. The diameter dominates because it is squared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+
 ## Graphs, error bars and percentage difference
 
 Plot the data with error bars. A ± 2 mm uncertainty gives a bar 4 mm long. Draw the **line of best fit** with points balanced about it. A **worst line** is the steepest or shallowest straight line that still passes through all the bars.
@@ -213,6 +253,12 @@ percentage difference = |measured − reference| / reference × 100
 ```
 
 The specification names the term without giving a formula, so state the one you use. For the cylinder density 7.78 g cm⁻³ against a reference of 7.87 g cm⁻³, the difference is 0.09 / 7.87 × 100 = 1.1 %. This is smaller than the 2.6 % uncertainty, so the result agrees with the reference within its uncertainty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
 
 ## 2.3.1 Scalars and vectors
 
@@ -280,6 +326,12 @@ component perpendicular to the slope = 117.7 cos 35° = 96.4 N
 ```
 
 Sine goes with the component opposite the angle, cosine with the component adjacent to it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--09-vector-addition.webp" width="900" height="910" alt="12 N and 7 N forces with 50 degrees between them drawn tip to tail. Resultant 17.3 N at 18.0 degrees to the 12 N force from the cosine rule (interior angle 130) and checked by components 16.50 N and 5.36 N." loading="lazy">
+  <figcaption>The resultant joins the start of the first vector to the tip of the last.</figcaption>
+</figure>
+
 
 ## Common errors
 

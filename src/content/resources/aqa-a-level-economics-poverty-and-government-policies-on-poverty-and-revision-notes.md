@@ -39,6 +39,12 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 | Unemployment trap | Weak gain from taking a job at all |
 | Positive v normative | A testable claim v a value judgement about what ought to be |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## Measuring poverty: method in steps
 
 1. Put incomes in order and find the median (mean of the middle two if the number is even).
@@ -51,6 +57,17 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 
 **Key distinction:** equal-percentage growth can change the absolute line's headcount but leaves the relative headcount unchanged, unless low incomes grow faster or slower than the median.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--06-poverty-lines-growth.webp" width="900" height="1050" alt="Ten households before and after every income rises 20%. The relative line (60% of median) moves from 1,020 to 1,224 and relative poverty stays 40%; the absolute line stays 700 so absolute poverty falls from 20% to 10%." loading="lazy">
+  <figcaption>Equal growth cuts absolute poverty but leaves relative poverty unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--13-pov-depth-of-poverty.webp" width="900" height="820" alt="The four households below the relative line of 1,020 earn 450, 650, 800 and 1,000, with shortfalls of 570, 370, 220 and 20: a total of 1,180, average 295, about 28.9 percent of the line." loading="lazy">
+  <figcaption>Equal headcounts can hide very different depths of poverty.</figcaption>
+</figure>
+
+
 ## Causes and effects: recall grid
 
 | Group | Points |
@@ -61,6 +78,12 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 | Effects on people | Poor health, lower attainment, exclusion, reduced life chances |
 | Effects on the economy | Lower human capital and productivity, lost output, higher welfare cost, weak social mobility, wasted talent |
 | Cycle of deprivation | Poor children, weaker education, low pay, poor adults, poor children again |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--11-pov-cycle-of-deprivation.webp" width="900" height="990" alt="Children in a poor household get weaker education and skills, earn less or have less work, and raise their own children in poverty. Causes such as unemployment, low pay, ill-health and low skills feed in; effects spread to individuals, society and the economy." loading="lazy">
+  <figcaption>Poverty can repeat across generations, with causes feeding in and effects spreading out.</figcaption>
+</figure>
+
 
 ## Policies: what each does and its trade-offs
 
@@ -113,6 +136,12 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 | Market-based | Growth and incentives reduce poverty most | Lower tax, targeted help, supply-side |
 | Interventionist | Markets generate and entrench poverty | Higher tax, universal provision |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--14-pov-perspectives.webp" width="900" height="1028" alt="Utilitarian: an extra pound matters more to a poor household, so redistribution raises total welfare. Rawlsian: not knowing your place in society, you would protect the worst off. Libertarian: you are entitled to what you earn, so compulsory transfers violate property rights." loading="lazy">
+  <figcaption>Views on redistribution rest on value judgements.</figcaption>
+</figure>
+
+
 ## Evaluation tools
 
 - Compare absolute and relative aims: a policy may help one and not the other.
@@ -146,6 +175,27 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 8. If one employer holds wage-setting power, a minimum between the current wage and the competitive wage can raise both pay and the number hired.
 9. Median = 1,760; benefit = 840; 840 / 1,760 = 47.7%. Relative poverty has deepened.
 10. Normative, because it is a value judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--07-progressive-tax-rates.webp" width="900" height="890" alt="Average tax rates at incomes 800, 2,500, 6,000 and 12,000 are 0%, 12.0%, 23.3% and 31.7%, below the marginal rates of 0%, 20%, 40% and 40%. The top-to-bottom income ratio falls from 15 to 10.25." loading="lazy">
+  <figcaption>The average rate of a progressive tax rises with income because the marginal rate is above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--08-poverty-trap.webp" width="900" height="860" alt="Net income against earnings with 10% tax and a £500 benefit withdrawn at 50p per pound: 500, 660, 820, 900, 1,080 at earnings 0, 400, 800, 1,000, 1,200. The household keeps 40p per extra pound up to 1,000 (marginal rate 60%) and 90p above." loading="lazy">
+  <figcaption>Benefit withdrawal makes extra earnings worth little to a low earner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--09-monopsony-minimum-wage.webp" width="900" height="860" alt="Monopsony labour market with S: W = 5 + 0.01L, MCL = 5 + 0.02L, MRP = 20 - 0.02L. The employer hires 375 at 8.75 against MRP 12.5; a minimum wage of 10 raises employment and pay to 500 and 10." loading="lazy">
+  <figcaption>A minimum wage can raise both pay and employment when one employer dominates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--10-pov-targeting.webp" width="900" height="1040" alt="A means-tested payment costs 39.6 million (36.0 million to 12,000 claimants plus 3.6 million administration), 1.10 pounds per pound reaching the poor, but 3,000 poor households miss out. A universal 600 payment costs 60 million with only 9.0 million reaching the poor, 6.67 pounds per pound." loading="lazy">
+  <figcaption>Means-testing is cheaper per pound delivered but misses some poor households.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

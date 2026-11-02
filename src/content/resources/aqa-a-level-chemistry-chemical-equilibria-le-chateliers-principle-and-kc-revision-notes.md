@@ -34,6 +34,12 @@ Course links: [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) | [pri
 - **Le Chatelier's principle:** if a factor affecting a system at equilibrium is changed, the position of equilibrium shifts to oppose the change.
 - **Catalyst:** speeds up forward and reverse reactions equally; equilibrium is reached faster; the position does not change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
+
 ## Le Chatelier at a glance (3.1.6.1)
 
 | Change | Shift in position | Why |
@@ -55,6 +61,17 @@ Course links: [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) | [pri
 4. Give the reason, using "to oppose the change" in specific terms (for example "to the side with fewer moles of gas, reducing the pressure").
 5. State the effect on the yield or on what you would observe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
+  <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--04-catalyst.webp" width="900" height="1000" alt="Product against time with and without a catalyst: the catalysed curve rises faster but both level at the same equilibrium amount. An energy profile shows the same start and end levels but a lower peak with the catalyst." loading="lazy">
+  <figcaption>A catalyst makes equilibrium arrive sooner but leaves the position and K unchanged.</figcaption>
+</figure>
+
+
 ## Compromise conditions (3.1.6.1)
 
 For an exothermic forward reaction with fewer moles of gas on the product side (for example N₂ + 3H₂ ⇌ 2NH₃ in the Haber process, which uses an iron catalyst):
@@ -66,6 +83,12 @@ For an exothermic forward reaction with fewer moles of gas on the product side (
 | Catalyst | no effect on yield | -- | used so equilibrium is reached quickly at a lower temperature |
 
 A full compromise answer always mentions **yield and rate** for temperature, and **yield and cost or safety** for pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
+</figure>
+
 
 ## Kc: the formulas (3.1.6.2)
 
@@ -89,6 +112,12 @@ A full compromise answer always mentions **yield and rate** for temperature, and
 | −1 | mol⁻¹ dm³ |
 | −2 | mol⁻² dm⁶ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
+  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
+</figure>
+
+
 ### Method in steps: Kc from initial amounts
 
 1. Write the balanced equation and the Kc expression.
@@ -97,6 +126,12 @@ A full compromise answer always mentions **yield and rate** for temperature, and
 4. Divide each equilibrium amount by the volume (skip this only if the volume cancels).
 5. Substitute, calculate, and work out the units.
 6. Round to the least accurate data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+
 
 ### Small worked reminder
 
@@ -127,6 +162,12 @@ Example: for X(g) ⇌ 2Y(g), Kc = 0.0500 mol dm⁻³ and [X] = 0.200 mol dm⁻³
 | positive (endothermic) | shifts right | increases | increases |
 
 Working backwards: Kc falls as temperature rises → forward reaction exothermic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
 
 ## Practical links
 

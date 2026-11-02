@@ -84,6 +84,12 @@ The cycle repeats while calcium ions stay high. Each head acts like a tiny oar, 
 
 **Linking this to the sarcomere.** As the thin filaments slide inwards, the I band and the H zone get shorter, and the sarcomere gets shorter. The A band is unchanged, because it marks the length of the thick filaments, and those stay constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">
+  <figcaption>The cross-bridge cycle: calcium, binding, power stroke, ATP detachment and reset.</figcaption>
+</figure>
+
+
 ## Reading myofibril images
 
 Questions give you a diagram or electron micrograph, often with a magnification or scale bar. You may need to identify bands, put images in order of contraction, or calculate lengths.
@@ -103,6 +109,12 @@ A micrograph at ×20 000 shows a relaxed sarcomere 53 mm long and a contracted o
 5. H zone: relaxed 2.65 − 2.0 = **0.65 µm**; contracted 2.00 − 2.0 = **0 µm**, so no gap of thick filaments only is left.
 
 The A band measures 1.65 µm in both states, which fits the sliding model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
 
 ### Worked example 2: magnification from a scale bar
 

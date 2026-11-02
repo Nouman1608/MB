@@ -79,6 +79,17 @@ Capital employed = 120,000 + 200,000 = 320,000
 ROCE = 56,000 / 320,000 x 100 = 17.5%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--01-vorsley-profitability.webp" width="900" height="930" alt="Two stacked bars of where each dollar of revenue goes. Year 1: cost of sales 60c, other expenses 25c, profit 15c. Year 2: 62c, 26c, 12c although revenue rose 12.5%. Gross profit margin 40.0 to 38.0%, profit margin 15.0 to 12.0%, ROCE 19.5 to 16.7%." loading="lazy">
+  <figcaption>More revenue does not mean more profit per dollar: costs grew faster than revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ### Liquidity: Faldane Toys
 
 Stock 40,000, debtors 18,000, cash 7,000; current liabilities 50,000.
@@ -88,6 +99,17 @@ Current assets = 40,000 + 18,000 + 7,000 = 65,000
 Current ratio = 65,000 / 50,000 = 1.3
 Acid test = (65,000 - 40,000) / 50,000 = 0.5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--02-mabwick-liquidity.webp" width="900" height="1030" alt="Two stacked bars in $ thousand. Current assets 132 (cash 12, debtors 36, stock 84) against current liabilities 100 (creditors 70, overdraft 30). Current ratio 1.32; removing stock leaves quick assets 48, so the acid test is 0.48." loading="lazy">
+  <figcaption>The acid test removes stock, the slowest current asset to turn into cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
 
 ### Efficiency (HL): Sawtry Timber
 
@@ -118,6 +140,27 @@ Gearing = 90,000 / (90,000 + 210,000) x 100 = 30.0%
 
 For every strategy, add the cost or risk. A strategy without a trade-off earns less than one that weighs it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--03-liquidity-strategies.webp" width="900" height="1010" alt="Paired bars for current ratio and acid test. Today 1.32 and 0.48. Clearance sale at cost: 1.32 and 0.78. Overdraft turned into a five-year loan: 1.89 and 0.69." loading="lazy">
+  <figcaption>Selling stock lifts only the acid test; converting the overdraft lifts both ratios but adds non-current debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--01-roce-capital-employed.webp" width="900" height="960" alt="Two bar panels for Vorsley Ceramics in $ thousand. Year 1: capital employed 400 (150 non-current liabilities plus 250 equity) and profit before interest and tax 78 give ROCE 19.5%. Year 2: capital employed 420 and profit 70.2 give 16.7%." loading="lazy">
+  <figcaption>ROCE divides profit before interest and tax by capital employed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--02-profit-strategy-levers.webp" width="900" height="780" alt="A tick table. Raising prices and cheaper inputs lift gross profit margin, profit margin and ROCE; cutting overheads lifts profit margin and ROCE only; cutting capital employed lifts ROCE only. Each lever shows its trade-off." loading="lazy">
+  <figcaption>Match the strategy to the ratio it actually moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--03-efficiency-direction.webp" width="900" height="860" alt="Four gauges using Brisling values: stock days 47.1, debtor days 40.0, creditor days 50.0, gearing 40.0%. Arrows show the usually better direction; a shaded zone at the far end names the trade-off (stockouts, customers leave, suppliers strained, cash used or control diluted)." loading="lazy">
+  <figcaption>Better usually means fewer stock and debtor days, more creditor days and lower gearing, but not without limit.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Profit margin versus gross profit margin.** The first is after overheads (profit before interest and tax). The second is after cost of sales only.
@@ -126,6 +169,12 @@ For every strategy, add the cost or risk. A strategy without a trade-off earns l
 - **Profitability versus liquidity.** One asks "is the business earning profit?" The other asks "can it pay what it owes soon?"
 - **Debtors versus creditors.** Debtors owe the business money. Creditors are owed money by the business. Debtor days use sales revenue; creditor days use cost of sales.
 - **Insolvency versus bankruptcy (HL only).** Insolvency is being unable to pay debts as they fall due. Bankruptcy is a legal process or status that can follow. The guide gives only the heading, so these are general definitions; rules differ between countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--04-insolvent-vs-bankrupt.webp" width="900" height="850" alt="Insolvency is a financial position of being unable to pay debts as they fall due; bankruptcy is a legal status or process that may follow. A line graph with illustrative numbers shows cash falling below the bills due line even though profit can still be positive." loading="lazy">
+  <figcaption>Insolvency is a position; bankruptcy is a legal process that may follow.</figcaption>
+</figure>
+
 
 ## Why profitable businesses can become insolvent
 
@@ -142,6 +191,22 @@ The result is a shortage of cash even with a healthy statement of profit or loss
 - One ratio is not enough. A strong gross profit margin with weak liquidity points to a cash problem, not a pricing problem.
 - Accounts rely on choices and estimates, so treat a ratio as evidence, not proof.
 - Name the stakeholder: owners look at ROCE and margins, suppliers at liquidity and creditor days, lenders at gearing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--04-brisling-days.webp" width="900" height="1050" alt="Three bars on a day scale: stock held 47.1 days, customers take 40.0 days to pay, Brisling takes 50.0 days to pay suppliers, so supplier credit helps fund customer credit. Stock turnover is 7.75 times." loading="lazy">
+  <figcaption>Stock, debtor and creditor days compared on one scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--05-capital-employed-gearing.webp" width="900" height="870" alt="One bar for capital employed 450 thousand dollars: non-current liabilities 180 and equity 270. Gearing is 180 divided by 450 times 100, 40.0%. Higher gearing means more fixed interest and repayments and more risk when profit is falling." loading="lazy">
+  <figcaption>Gearing is the share of long-term funds that is borrowed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

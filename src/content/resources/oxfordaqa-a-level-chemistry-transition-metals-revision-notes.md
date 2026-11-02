@@ -54,6 +54,12 @@ After that, try the [practice questions](/resources/oxfordaqa-a-level-chemistry-
 
 Ions lose 4s electrons before 3d. Cu²⁺ is [Ar] 3d⁹; V³⁺ is [Ar] 3d².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
+
 ## 3.2.5.2 Ligand substitution
 
 | Swap | Co-ordination number | Why |
@@ -74,6 +80,17 @@ Ions lose 4s electrons before 3d. Cu²⁺ is [Ar] 3d⁹; V³⁺ is [Ar] 3d².
 4. ΔG = ΔH − TΔS is therefore **negative**; the chelating ligand replaces the monodentate ones.
 5. If asked to calculate, change ΔS from J to kJ first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--06-chelate-effect.webp" width="900" height="990" alt="Left: a nickel water complex plus three en molecules, 4 particles. Right: the nickel en complex plus six free water molecules, 7 particles. A stacked bar shows illustrative dG = -8.0 + (-32.8) = -40.8 kJ/mol at 298 K, which is negative." loading="lazy">
+  <figcaption>More particles means positive entropy change, so dG is negative and the chelate forms.</figcaption>
+</figure>
+
+
 ## 3.2.5.3 Shapes and isomers
 
 | Shape | Bond angle | Forms with | Stereoisomerism |
@@ -86,6 +103,22 @@ Ions lose 4s electrons before 3d. Cu²⁺ is [Ar] 3d⁹; V³⁺ is [Ar] 3d².
 Cis–trans isomerism in complexes is a special case of E–Z isomerism.
 
 **Worked reminder.** [Ni(H₂NCH₂CH₂NH₂)₂(H₂O)₂]²⁺: two bidentate ligands give four bonds and two waters give two more, so the co-ordination number is 6 and the ion is octahedral. Both diamines are neutral, so nickel is +2. The two water ligands can sit at 90° or at 180°, so cis and trans isomers are possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--02-complex-shapes.webp" width="900" height="1160" alt="Four ball-and-stick drawings: octahedral [Cu(H2O)6]2+ (90 degrees), tetrahedral [CuCl4]2- (109.5), square planar cisplatin (90) and linear [Ag(NH3)2]+ (180). Small ligands give octahedral, larger Cl- gives tetrahedral." loading="lazy">
+  <figcaption>Complex ions are octahedral, tetrahedral, square planar or linear depending on the ligands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--03-cis-trans-isomers.webp" width="900" height="1040" alt="Octahedral [Co(NH3)4Cl2]+ and square planar [Pt(NH3)2Cl2] each shown twice: with the two Cl ligands 90 degrees apart (cis) and 180 degrees apart (trans). The cis square planar form is cisplatin." loading="lazy">
+  <figcaption>Cis isomers have the two Cl ligands at 90 degrees and trans at 180 degrees; cisplatin is cis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
 
 ## 3.2.5.4 Colour
 
@@ -139,6 +172,12 @@ Zinc in acid reduces vanadate(V) through all four. Green also appears briefly as
 
 No indicator is needed: stop at the first pink that stays. Acidify with dilute H₂SO₄, never HCl.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
+
 ## 3.2.5.6 Catalysts
 
 | Catalyst | Type | Reaction | How it works |
@@ -159,6 +198,12 @@ V₂O₅ + SO₂ → V₂O₄ + SO₃        V₂O₄ + ½O₂ → V₂O₅
 2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻        2I⁻ + 2Fe³⁺ → I₂ + 2Fe²⁺
 MnO₄⁻ + 8H⁺ + 4Mn²⁺ → 5Mn³⁺ + 4H₂O        C₂O₄²⁻ + 2Mn³⁺ → 2CO₂ + 2Mn²⁺
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--09-catalyst-cycles.webp" width="900" height="1270" alt="Two cycles. Top, heterogeneous: V2O5 (V +5) reacts with SO2 giving SO3 and becomes V2O4 (V +4), then reacts with half an O2 to return to V2O5. Bottom, homogeneous: Fe2+ is oxidised by S2O8 2- to Fe3+, which is reduced back by I- forming iodine." loading="lazy">
+  <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -75,6 +75,12 @@ Useful data (given in questions, not to memorise):
 
 **Small reminder.** "Compare chromium and potassium (melting point)." Chromium's melting point is far higher: 1907 − 64 = 1843 °C higher. That is one property, compared and backed by data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--07-tm-reactivity-compare.webp" width="900" height="835" alt="A grid compares sodium with iron and copper. Oxygen: sodium tarnishes in seconds; copper needs heating and makes black CuO. Water: sodium fizzes and releases hydrogen; copper does not react. Chlorine: sodium burns with a bright yellow flame; hot iron glows. Reactivity meters are full for Group 1 and low for transition metals." loading="lazy">
+  <figcaption>Transition metals are much less reactive than Group 1 metals.</figcaption>
+</figure>
+
+
 ## 4.1.3.2 Typical properties
 
 Many transition elements:
@@ -102,6 +108,12 @@ Many transition elements:
 3. Use enough of each ion to make total + equal total −.
 4. Put brackets round a group ion if you need more than one: Fe₂(SO₄)₃.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
+
 ### Coloured compounds
 
 | Compound | Colour |
@@ -119,6 +131,12 @@ Many transition elements:
 
 Link to chemical analysis (4.8.3.2): with sodium hydroxide solution, copper(II) gives a **blue** precipitate, iron(II) **green**, iron(III) **brown**. The colour tells you the charge on the iron ion. More in the [Chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+
 ### Catalysts
 
 | Catalyst | Reaction |
@@ -129,6 +147,32 @@ Link to chemical analysis (4.8.3.2): with sodium hydroxide solution, copper(II) 
 Iron in the Haber process is the catalyst the specification names. How a catalyst works (lower activation energy) is Topic 6: see the [rate and extent of chemical change revision notes](/resources/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-revision-notes/).
 
 **How to recognise a catalyst in data:** the reaction is faster with it, the same mass is left at the end, and it is not in the equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--06-tm-data-bars.webp" width="900" height="1136" alt="Two bar charts compare Li, Na, K with Cr, Mn, Fe, Co, Ni, Cu. Melting points: Group 1 all below 200 degrees Celsius, transition metals all above 1000. Densities: Group 1 below 1 g/cm3 (water), transition metals 7 to 9. Fe melts 1440 degrees higher than Na and is about 8 times as dense." loading="lazy">
+  <figcaption>Transition metals have much higher melting points and densities than Group 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--08-tm-ion-charges-formulae.webp" width="900" height="920" alt="Sodium forms only 1+, whereas Fe, Cu, Cr and Co each have two ion charges shown by the Roman numeral. Iron(II) chloride is one Fe2+ with two Cl-, so FeCl2. Iron(III) oxide is two Fe3+ (6+) with three O2- (6-), so Fe2O3." loading="lazy">
+  <figcaption>The Roman numeral gives the ion charge, and the charges must cancel in the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--09-tm-coloured-compounds.webp" width="900" height="920" alt="Test tubes show nine transition-metal compounds from the lesson (copper(II) sulfate blue, copper(II) carbonate green, iron(II) pale green, iron(III) orange-brown, chromium(III) oxide green, potassium dichromate orange, potassium manganate(VII) purple, cobalt(II) chloride pink, nickel(II) sulfate blue-green) next to colourless sodium chloride." loading="lazy">
+  <figcaption>Transition-metal compounds are usually coloured; Group 1 compounds are not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-properties-of-transition-metals--10-tm-catalyst-data.webp" width="900" height="700" alt="A bar chart of oxygen made in 50 s: none 6 cm3, oxide A 48, oxide B 30, oxide C 6, with 0.5 g of solid left each time. A and B speed the reaction up and are not used up, so they are catalysts; C is not. Mean rate with A is 48 / 50 = 0.96 cm3/s." loading="lazy">
+  <figcaption>A catalyst speeds up a reaction and is not used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

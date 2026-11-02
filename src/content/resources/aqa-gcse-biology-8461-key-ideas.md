@@ -52,6 +52,27 @@ The specification also lists **fundamental biological concepts** you must be abl
 - **DNA** is a polymer of two strands forming a double helix. A gene is a section of DNA coding for a sequence of amino acids to make a specific protein. A sequence of three bases codes for one amino acid.
 - (Higher tier only) A completed protein chain folds into a unique shape, which lets it work as an enzyme, a hormone or a structure such as collagen. A mutation can change the shape so an enzyme no longer fits its substrate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+
 ## 2. Cells, tissues, organs and systems
 
 Cells are the basic building blocks of all living organisms. A **tissue** is a group of cells with a similar structure and function; **organs** are aggregations of tissues performing specific functions; **organ systems** work together to form organisms.
@@ -70,15 +91,38 @@ Cube 4 mm: surface area = 6 × 4 × 4 = 96 mm²; volume = 4³ = 64 mm³
 
 The larger cube has a quarter of the ratio. Each unit of volume has less surface to supply it, so exchange by diffusion alone is too slow. This is why lungs, gills, the small intestine, roots and leaves have a large surface area, thin membranes and (in animals) a good blood supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+
 ## 3. Populations, communities and ecosystems
 
 A **population** is one species; a **community** is many species; an **ecosystem** is the community interacting with the abiotic environment. Humans interact with ecosystems through pollution, land use, deforestation and global warming, and through positive actions such as breeding programmes and restoring hedgerows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--08-population-community-ecosystem.webp" width="900" height="1040" alt="A population is one species (identical circles); a community is many species (circles, triangles, squares); an ecosystem is the community plus the abiotic environment: light, water and soil." loading="lazy">
+  <figcaption>Population = one species; community = many species; ecosystem = community plus abiotic environment.</figcaption>
+</figure>
+
 
 ## 4. Interdependence and adaptation
 
 Each species depends on others for food, shelter, pollination and seed dispersal. Removing one can affect the whole community. Adaptations -- structural, behavioural or functional -- let organisms survive where they normally live, including extremophiles in deep-sea vents.
 
 These two ideas often meet in one answer. High biodiversity makes a community more stable because species depend less on any single other species. When a question describes one species being lost, trace who ate it, who it ate and who relied on it for shelter or pollination, then say what happens to each population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--06-food-web-stability.webp" width="900" height="1020" alt="With few species, losing rabbits leaves the fox with no food. In a web with many species the fox still eats mice and the bird still has food, so the community is more stable." loading="lazy">
+  <figcaption>More species means less dependence on any one species.</figcaption>
+</figure>
+
 
 ## 5. Photosynthesis
 
@@ -90,6 +134,12 @@ carbon dioxide + water  →(light)→  glucose + oxygen
 ```
 
 You must recognise these symbols. Photosynthesis is **endothermic**: energy is transferred from the environment to the chloroplasts by light. Because photosynthetic organisms are the producers of biomass, every food chain starts with them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
 
 ## 6. Respiration and metabolism
 
@@ -103,6 +153,17 @@ Anaerobic (plants, yeast): glucose → ethanol + carbon dioxide
 
 Anaerobic respiration transfers much less energy because the oxidation of glucose is incomplete. Organisms use the energy to build larger molecules, move and keep warm. **Metabolism** is the sum of all the reactions in a cell or the body, for example glucose to starch, glycogen and cellulose; glucose and nitrate ions to amino acids and then proteins; and the breakdown of excess protein to urea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## 7. Cycling of chemicals
 
 Photosynthesis removes carbon dioxide; respiration by plants, animals and microorganisms returns it. Decomposers return carbon dioxide to the air and mineral ions to the soil. The water cycle provides fresh water on land. Materials are recycled to provide building blocks for future organisms.
@@ -114,6 +175,12 @@ The **genome** is the entire genetic material of an organism. Variation may be d
 (Higher tier only) A variant in **coding** DNA can change the activity of a protein. A variant in **non-coding** DNA can change how genes are switched on and off, and so how they are expressed.
 
 In a question, look for clues about which cause applies. Identical twins share a genome, so differences between them are environmental. Plants grown from cuttings of one parent are genetically identical, so differences in their height point to light, water or mineral ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--09-genome-or-environment.webp" width="900" height="1100" alt="Identical twins share a genome, so differences between them are environmental. Cuttings from one parent plant have identical genes, so differences in height point to light, water or mineral ions." loading="lazy">
+  <figcaption>Same genome means differences are environmental.</figcaption>
+</figure>
+
 
 ## 9. Evolution by natural selection
 

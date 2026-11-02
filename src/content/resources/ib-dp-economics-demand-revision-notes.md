@@ -49,6 +49,17 @@ The law says price and quantity demanded move in opposite directions. On a diagr
 
 Quick numbers. A budget of 60 om on a fare that falls from 4 to 3 om: trips possible rise from 15 to 20, an increase in purchasing power of 33.3%. Slice values 9, 7, 5, 3, 1 om: at a price of 4 om, three slices are worth buying (9, 7, 5). At 2 om, four are (9, 7, 5, 3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--03-ib-dem-diminishing-mu.webp" width="900" height="900" alt="Bars of falling value for each extra pizza slice (9, 7, 5, 3, 1 om) with price lines at 8, 6, 4, 2 om. The number of bars reaching each line gives quantity demanded 1, 2, 3, 4." loading="lazy">
+  <figcaption>Because each extra slice is worth less, only a lower price makes more slices worth buying.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--06-un193-income-effect.webp" width="900" height="600" alt="With 60 om a week Mira affords 15 trips at a fare of 4 om and 20 trips at 3 om, 5 more, a 33.3% rise in purchasing power." loading="lazy">
+  <figcaption>A fare cut raises the trips a fixed income can buy by 33.3%.</figcaption>
+</figure>
+
+
 ## Method: finding market demand
 
 1. List the price points.
@@ -57,6 +68,17 @@ Quick numbers. A budget of 60 om on a fare that falls from 4 to 3 om: trips poss
 4. Plot or state market quantity against price.
 
 Reminder: in an illustrative market with Aiko, Bram and Cato, the quantities at a price of 4 om are 4, 4 and 2, which give 10. At 6 om, Cato drops out, and Aiko and Bram give 2 + 3 = 5. When a consumer drops out as price rises, the market curve changes slope at that price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--01-ib-dem-market-demand.webp" width="900" height="930" alt="Demand lines for three consumers and the market line formed by adding their quantities at each price. At 4 om the market quantity is 4 + 4 + 2 = 10 flasks. The market line kinks at 6 om where Cato drops out." loading="lazy">
+  <figcaption>Market demand adds quantities at each price; a consumer leaving the market bends the line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
 
 ## Non-price determinants: direction of shift
 
@@ -72,6 +94,17 @@ Reminder: in an illustrative market with Aiko, Bram and Cato, the quantities at 
 | Number of consumers | Rises | Shift right |
 
 Each row says what to write: the cause, the direction, and a reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--07-un193-related-goods-shifts.webp" width="900" height="800" alt="If a substitute becomes dearer, demand for this good shifts right from D1 to D2. If a complement becomes dearer, it shifts left to D3. At price 6 quantity moves from 40 to 55 or to 25." loading="lazy">
+  <figcaption>Dearer substitutes shift demand right; dearer complements shift it left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
 
 ## Movements versus shifts
 
@@ -93,6 +126,12 @@ Point a to a lower point on D1 is a movement. Moving from D1 to D2 at the same p
 - Any other determinant changes: draw a new curve (D2) and label the new quantity at the original price.
 
 Worked reminder (illustrative flask market, Qd = 70 − 5P). At P = 6, Qd = 40. If P falls to 5, Qd = 45: an extension of 5. If tastes shift so that Qd = 85 − 5P, then at P = 6, Qd = 55: demand has increased by 15 at the same price. If 10% more consumers join, quantity at P = 6 is 40 × 1.10 = 44. If a normal good gains a 20% rise in demand at each price from higher incomes, quantity at P = 6 is 40 × 1.20 = 48.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand--02-ib-dem-shift-vs-movement.webp" width="900" height="960" alt="Two parallel demand lines D1 (Qd = 70 - 5P) and D2 (Qd = 85 - 5P). A price fall from 6 to 5 slides along D1 from 40 to 45. A tastes change shifts the curve so that at price 6 the quantity is 55 instead of 40." loading="lazy">
+  <figcaption>A price change slides along the curve; any other cause moves the whole curve.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

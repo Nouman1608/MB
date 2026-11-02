@@ -87,6 +87,12 @@ The derivative is the **gradient function**. It gives the gradient of the tangen
 
 State units for a rate in context: dV/dr in cm³ per cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--01-limit-chord-to-tangent.webp" width="900" height="946" alt="Graph of y = x cubed for x between 1.4 and 3.3 with the point P (2, 8). Three copper chords from P to points a distance h = 1, 0.5 and 0.25 to the right get closer and closer to the gold tangent at P. A table gives the chord gradients ((2 + h) cubed minus 8) over h: 12.61 for h = 0.1, 12.0601 for h = 0.01 and 12.006001 for h = 0.001. They approach 12, so the gradient of the curve at x = 2 is 12." loading="lazy">
+  <figcaption>How chord gradients for y = x³ from P(2, 8) approach 12 as h shrinks.</figcaption>
+</figure>
+
+
 ## 5.2 Increasing and decreasing functions
 
 - f is **increasing** on an interval where f′(x) > 0.
@@ -106,6 +112,12 @@ test x = 4:  f'(4)  = 15 > 0
 ```
 
 f is decreasing for −1 < x < 3, and increasing for x < −1 and for x > 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--02-increasing-decreasing.webp" width="900" height="900" alt="Graph of the cubic f(x) = x cubed minus 3x squared minus 9x plus 2 with a sign line beneath it on the same x scale. The gradient f dash = 3(x minus 3)(x + 1) is zero at x = minus 1 and x = 3. Test values f dash of minus 2 = 15, f dash of 0 = minus 9, f dash of 4 = 15 show f increasing for x less than minus 1, decreasing between minus 1 and 3, increasing for x greater than 3. The turning points are (minus 1, 7) and (3, minus 25)." loading="lazy">
+  <figcaption>f is decreasing exactly where f′ &lt; 0, here for −1 &lt; x &lt; 3.</figcaption>
+</figure>
+
 
 ## 5.3 Differentiating powers of x
 
@@ -146,6 +158,12 @@ normal:  y − 1 = −(1/8)(x − 2)  →  x + 8y − 10 = 0
 ```
 
 The guide expects both analytic methods and technology here. On Paper 2 a GDC can give the gradient at a point, but you still write the equation of the line yourself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--03-tangent-and-normal.webp" width="900" height="1090" alt="Graph of y = x cubed minus 4x plus 1 with the point P (2, 1). The gold tangent at P has gradient 3x squared minus 4 = 8 and equation y = 8x minus 15. The teal normal has gradient minus 1 over 8 and equation x + 8y minus 10 = 0. The main graph uses different x and y scales, so a second small panel with equal scales shows the two lines meeting at a right angle, because 8 times minus 1 over 8 equals minus 1." loading="lazy">
+  <figcaption>Tangent (gradient 8) and normal (gradient −1/8) at (2, 1) are perpendicular.</figcaption>
+</figure>
+
 
 ## 5.6 Standard derivatives and the rules
 
@@ -218,6 +236,17 @@ dy/dx = (x(1/x) − ln x(1)) / x² = (1 − ln x)/x²
 
 The order in the numerator matters: swapping it changes the sign.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--04-chain-rule-inner-factor.webp" width="900" height="1030" alt="Two graphs drawn at the same size. Top: y = sin u near u = pi, where the gradient is cos pi = minus 1. Bottom: y = sin(4x + 1) near x = (pi minus 1)/4, about 0.54, which is the same wave repeating 4 times faster, so the gold tangent is 4 times steeper with gradient minus 4. This is the chain rule: dy/dx = cos(4x + 1) times 4, and at this point cos pi times 4 = minus 4." loading="lazy">
+  <figcaption>The inner function 4x + 1 makes y = sin(4x + 1) four times steeper than sin u.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--05-quotient-rule-ln-x-over-x.webp" width="900" height="860" alt="Graph of y = ln x divided by x for x from 0.4 to 6.4. At x = 1 the curve crosses the x-axis with gold tangent of gradient 1. The curve peaks at x = e, y = 1 over e, about 0.37, where the copper tangent is horizontal. With u = ln x and v = x, the quotient rule gives dy/dx = (1 minus ln x) over x squared, which is 1 at x = 1 and 0 at x = e." loading="lazy">
+  <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², zero at the maximum x = e.</figcaption>
+</figure>
+
+
 ## 5.7 The second derivative and graph behaviour
 
 The second derivative is the derivative of the derivative. Write it as d²y/dx² or f″(x); you need both notations.
@@ -245,6 +274,12 @@ f''(x) = −e^(−x) − (1 − x)e^(−x) = (x − 2)e^(−x)
 ```
 
 Since e⁻ˣ > 0 for all x, the signs depend only on the brackets. f is increasing for x < 1 and decreasing for x > 1, so there is a maximum at (1, e⁻¹). f is concave-down for x < 2 and concave-up for x > 2, so there is a point of inflexion at (2, 2e⁻²).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--06-f-f-prime-f-double-prime.webp" width="900" height="1120" alt="Three aligned graphs for f(x) = x e to the minus x, drawn from its derivatives f dash = (1 minus x) e to the minus x and f double dash = (x minus 2) e to the minus x. Dashed vertical guides at x = 1 and x = 2. At x = 1, f dash crosses zero and f has a maximum at (1, e to the minus 1). At x = 2, f double dash crosses zero and changes sign, f dash is at its minimum, and f has a point of inflexion at (2, 2e to the minus 2). The curves are copper where f is concave-down and teal where it is concave-up." loading="lazy">
+  <figcaption>How f, f′ and f″ of xe⁻ˣ line up: maximum at x = 1, inflexion at x = 2.</figcaption>
+</figure>
+
 
 ## 5.8 Maxima, minima, inflexion and optimisation
 
@@ -290,6 +325,17 @@ h = 250/25 = 10,  S = 50π + 100π = 150π cm²
 ```
 
 The minimum surface area is 150π cm², when r = 5 cm and h = 10 cm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--07-two-kinds-of-inflexion.webp" width="900" height="950" alt="Graph of f(x) = x to the fourth minus 4x cubed, coloured teal where f double dash is positive (concave-up, for x less than 0 and x greater than 2) and copper where it is negative (concave-down, between 0 and 2). At (0, 0) the gradient is zero and f double dash changes sign, a stationary point of inflexion with a horizontal tangent. At (2, minus 16) f double dash changes sign but the gradient is minus 16, a point of inflexion with non-zero gradient. At (3, minus 27) the gradient is zero and f double dash is 36, a local minimum." loading="lazy">
+  <figcaption>f(x) = x⁴ − 4x³ has a minimum and two points of inflexion, one with zero gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--08-optimisation-cylinder.webp" width="900" height="1020" alt="Graph of the surface area S = 2 pi r squared + 500 pi over r of a closed cylinder of fixed volume 250 pi cubic centimetres, against radius r. The curve falls to a single minimum at r = 5 cm where S = 150 pi, about 471 square centimetres, then rises. A cylinder drawn to scale beside it has r = 5 and h = 10. Steps: h = 250 over r squared, dS/dr = 4 pi r minus 500 pi over r squared = 0 gives r cubed = 125, and d2S/dr2 = 12 pi is positive so it is a minimum." loading="lazy">
+  <figcaption>Surface area of a closed cylinder of volume 250π cm³ is least at r = 5 cm.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

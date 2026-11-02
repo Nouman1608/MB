@@ -52,6 +52,22 @@ Each benefit below works only if the forecast is reasonably close to what happen
 - **Targets and control.** Forecast figures give managers and sales teams a target. Later, the gap between forecast and actual sales shows where to investigate.
 - **Reduced uncertainty and risk.** Planning from evidence is better than planning from guesswork, which makes decisions on capacity, pricing and expansion easier to defend to stakeholders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-sales-forecasting-hl-only--11-forecast-feeds-plans.webp" width="900" height="920" alt="A central circle, the forecast of 495 boards, linked to production and stock, cash flow and lenders, staff, marketing and targets and control." loading="lazy">
+  <figcaption>A forecast is the starting point for many other plans.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">
+  <figcaption>Forecast error compares actual with forecast as a percentage of the forecast.</figcaption>
+</figure>
+
+
 ## Limitations of sales forecasting
 
 - **It relies on past data.** A trend forecast assumes the past pattern continues. If the market changes direction, the forecast fails.
@@ -104,6 +120,27 @@ Dravik Audio sold a portable speaker over six years.
 
 The line of best fit is y = 225.33 − 2.00x and r = −0.09. The points zigzag around a mean of about 218 with no clear trend. The line predicts about 211 for year 7, but the correlation is so close to zero that the line explains almost none of the variation. Using this as a firm forecast would be unwise. A better response is to collect more information (for example, what happened in the high and low years) before committing to production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-sales-forecasting-hl-only--10-orsini-extrapolation.webp" width="900" height="1030" alt="Scatter of Orsini sales years 1 to 6 (310, 345, 372, 410, 428, 465) with the line y = 282.13 + 30.34x. The dashed extension gives about 495 boards in year 7 and about 737 in year 15; a widening band shows doubt grows with distance (illustrative width)." loading="lazy">
+  <figcaption>Extrapolating one year is reasonable; extrapolating nine years beyond the data is risky.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-sales-forecasting-hl-only--11-correlation-strong-weak.webp" width="900" height="1120" alt="Two scatter diagrams. Orsini boards: points hug y = 282.13 + 30.34x, r = 0.997, year 7 forecast about 495. Dravik speakers: points scatter around a flat line y = 225.33 - 2.00x, r = -0.09, forecast about 211 is unreliable." loading="lazy">
+  <figcaption>A strong correlation supports a forecast; a weak one means the line explains almost nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-sales-forecasting-hl-only--10-least-squares-boxes.webp" width="900" height="1050" alt="A scatter of six years of Orsini sales with boxes from each point to the mean (3.5 years, 388.33 boards). The box areas are 195.8, 65.0, 8.2, 10.8, 59.5 and 191.7, summing to Sxy = 531.0. With Sxx = 17.5, b = 30.34 and a = 282.13." loading="lazy">
+  <figcaption>Sxy adds up the deviation boxes; dividing by Sxx gives the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--03-sales-forecasting-regression.webp" width="900" height="880" alt="A scatter diagram of eight illustrative quarters of sales with a computed least-squares line of best fit (r = 0.97). The dashed extension forecasts quarters 9 and 10 at about 62.7 and 65.4 thousand units, with vertical bars showing the doubt around each forecast." loading="lazy">
+  <figcaption>A line of best fit can be extended to forecast, but the forecast is a prediction with uncertainty.</figcaption>
+</figure>
+
+
 ## Using the benefits and limitations in an evaluation
 
 AO3 marks reward a judgement supported by the case, not a general list. A useful structure is:
@@ -126,6 +163,12 @@ Factors that often decide the weighing:
 Question: Evaluate the usefulness of the regression forecast to Orsini Surfboards.
 
 Answer outline. The forecast of about 495 boards for year 7 helps the firm plan resin, foam blanks and workshop hours, and it can support a conversation with a lender because it rests on six years of data. The correlation of 0.997 suggests the trend has been steady. However, six points is a small data set, and the line assumes the past rate of growth carries on. A new competitor, a poor summer or a rise in input costs could cut sales below the line. The forecast is also a single figure, so it hides how far real sales could differ from it. Overall, the forecast is useful for next year's plan because the horizon is short and the fit is strong. Orsini should treat it as a central estimate, keep some spare stock and capacity, and check it against actual sales each quarter rather than treat the figure as certain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-sales-forecasting-hl-only--12-forecast-weigh-up.webp" width="900" height="900" alt="A balance tipped towards benefits (plan resin, foam and hours; lender talks; r = 0.997) against limits (six data points, assumes growth continues, one number hides error), with a four step strip and the judgement that the forecast is useful for next year." loading="lazy">
+  <figcaption>Evaluate by weighing benefits against limits, then judge.</figcaption>
+</figure>
+
 
 ## Common errors
 

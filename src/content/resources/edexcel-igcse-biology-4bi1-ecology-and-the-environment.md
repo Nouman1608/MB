@@ -82,6 +82,12 @@ Area B: total = 10, mean = 1.0 per quadrat
 
 Area A has three times the estimated population of Area B.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--01-quadrat-estimate.webp" width="900" height="1080" alt="Two areas each 30 m by 20 m are sampled with ten random 0.5 m by 0.5 m quadrats. Area A gives a mean of 3.0 per quadrat, 12 per square metre and 7200 dandelions. Area B gives a mean of 1.0, 4 per square metre and 2400 dandelions, so A has three times the estimated population." loading="lazy">
+  <figcaption>The lesson's worked example drawn as quadrat counts, then mean, per m² and whole-area estimate.</figcaption>
+</figure>
+
+
 ### Biodiversity (4.3B, 4.4B) -- Paper 2 only
 
 **Biodiversity** is the variety of living organisms in an area. At IGCSE you should think of it in terms of how many different species are present and how evenly their numbers are spread.
@@ -89,6 +95,12 @@ Area A has three times the estimated population of Area B.
 To **investigate distribution**, you lay a tape across a change in conditions (for example, from shade under a tree into open grass) and place a quadrat at regular intervals along it. At each point, record which species are present, or estimate percentage cover. Here regular placement is deliberate, not random.
 
 To **measure biodiversity**, place quadrats at random in each area and record every species present and the number (or cover) of each. The area with more species, spread more evenly, has the higher biodiversity. For example, a site with five species, each present in similar numbers, is more biodiverse than a site dominated by one species with two rare ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--04-biodiversity.webp" width="900" height="940" alt="Site A has five species with four organisms of each. Site B has three species: sixteen of one common species and two each of two rare ones. Site A has the higher biodiversity: more species, spread more evenly." loading="lazy">
+  <figcaption>Biodiversity depends on how many species are present and how evenly their numbers are spread.</figcaption>
+</figure>
+
 
 ### Abiotic and biotic factors (4.5)
 
@@ -110,11 +122,23 @@ For a question on this point, link the factor to a process. Low light reduces ph
 
 In a **food chain**, arrows show the direction of energy transfer, pointing from the food to the organism that eats it. A **food web** links many food chains. In a food web one animal can sit at two trophic levels, depending on what it eats.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
+
 ### Pyramids (4.7)
 
 - **Pyramid of numbers**: number of organisms at each level. It can be an odd shape. One oak tree supports thousands of caterpillars, so the bottom bar is narrow.
 - **Pyramid of biomass**: dry mass of organisms at each level. It is almost always a true pyramid, because mass is lost at each step.
 - **Pyramid of energy transfer**: energy passed to each level (for example, in kJ per m² per year). It is always a true pyramid, because energy is lost at every level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--04-pyramids.webp" width="900" height="1030" alt="For one oak supporting 2 500 caterpillars eaten by 30 blue tits, the pyramid of numbers has a narrow base, very wide middle and narrow top, so it is not pyramid-shaped. The pyramid of biomass narrows at each level and is pyramid-shaped." loading="lazy">
+  <figcaption>Biomass gives a true pyramid because it allows for the size of organisms.</figcaption>
+</figure>
+
 
 ### Energy and substances along a food chain (4.8, 4.9)
 
@@ -139,6 +163,22 @@ Producers → primary: (2160 ÷ 24 000) × 100 = 9.0%
 Primary → secondary: (216 ÷ 2160) × 100 = 10.0%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--07-energy-worked-example.webp" width="900" height="830" alt="Bars to scale: producers 24 000 kJ, primary consumers 2 160 kJ, secondary consumers 216 kJ per m² per year. Efficiencies are 9.0% and 10.0%; 21 840 kJ and 1 944 kJ are lost." loading="lazy">
+  <figcaption>Worked example 2 with bar widths drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--01-energy-flow.webp" width="900" height="1190" alt="Light energy from the Sun is absorbed by a plant, and photosynthesis transfers it to chemical energy. Chemical energy passes to a herbivore and then a carnivore. At every stage, including decomposers, energy is transferred to the environment as heat. Dead material and waste pass to decomposers, and energy is never recycled." loading="lazy">
+  <figcaption>Energy enters as light, passes along the chain and leaves as heat; it is not recycled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--05-energy-efficiency.webp" width="900" height="1060" alt="Extended. A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
+  <figcaption>Only about 7 to 9 % passes to the next level here, so energy pyramids narrow quickly.</figcaption>
+</figure>
+
+
 ## (c) Cycles within ecosystems
 
 ### The carbon cycle (4.10)
@@ -159,6 +199,12 @@ Plants absorb nitrogen as **nitrate ions** to make proteins. You need the roles 
 - **Nitrifying bacteria** convert ammonium into **nitrites** and then **nitrates**. They need oxygen, so aerated soil helps.
 - **Denitrifying bacteria** convert nitrates back into **nitrogen gas**. They work in waterlogged soils with little oxygen, which reduces soil fertility.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--08-nitrogen-nodules-soil-air.webp" width="900" height="1010" alt="Legume root nodules hold nitrogen-fixing bacteria. In aerated soil nitrifying bacteria make nitrates, keeping soil fertile. In waterlogged soil with little oxygen denitrifying bacteria turn nitrates into nitrogen gas, reducing fertility." loading="lazy">
+  <figcaption>Root nodules and the effect of soil oxygen on nitrification and denitrification.</figcaption>
+</figure>
+
+
 
 ## (d) Human influences on the environment
 
@@ -166,6 +212,12 @@ Plants absorb nitrogen as **nitrate ions** to make proteins. You need the roles 
 
 - **Sulfur dioxide** comes from burning fossil fuels that contain sulfur. It dissolves in rain to form **acid rain**. Acid rain damages leaves and kills trees, lowers the pH of lakes so fish and other organisms die, and releases toxic aluminium ions from soil. Sulfur dioxide also irritates lungs.
 - **Carbon monoxide** comes from incomplete combustion, for example car exhaust. It binds to **haemoglobin** in red blood cells more strongly than oxygen, so less oxygen is carried to tissues. This can cause tiredness, and in high doses death.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--02-air-pollutants.webp" width="900" height="1000" alt="Sulfur dioxide from burning sulfur-containing fuels dissolves in rain to make acid rain, which damages trees and lowers lake pH so fish die. Carbon monoxide from incomplete combustion binds to haemoglobin more strongly than oxygen, so the blood carries less oxygen." loading="lazy">
+  <figcaption>Sulfur dioxide causes acid rain; carbon monoxide reduces the oxygen carried by haemoglobin.</figcaption>
+</figure>
+
 
 ### Greenhouse gases and global warming (4.13–4.15)
 
@@ -179,6 +231,12 @@ The greenhouse gases are **water vapour, carbon dioxide, nitrous oxide, methane 
 | CFCs | Old aerosols and refrigerators |
 
 The Sun's radiation passes through the atmosphere and warms the Earth's surface. The surface emits longer-wavelength (infrared) radiation. Greenhouse gases absorb some of this and re-radiate it, keeping the Earth warm. More greenhouse gases cause an **enhanced greenhouse effect**, which may lead to **global warming**. Consequences include melting ice caps and rising sea levels, flooding, changes in rainfall and more extreme weather, changes in species distribution, loss of habitats, and reduced crop yields in some regions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--06-greenhouse-gas-sources.webp" width="900" height="930" alt="Carbon dioxide: fossil fuels, deforestation. Methane: cattle, rice paddies, landfill. Nitrous oxide: fertilisers broken down by soil bacteria, animal waste. CFCs: old aerosols and refrigerators. Water vapour is also a greenhouse gas." loading="lazy">
+  <figcaption>The lesson table of greenhouse gases and their human sources as pictures.</figcaption>
+</figure>
+
 
 ### Water pollution (4.16, 4.17)
 
@@ -194,6 +252,12 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 6. The bacteria respire aerobically and use up dissolved oxygen.
 7. Fish and other aerobic organisms die from lack of oxygen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--05-sewage-oxygen-chain.webp" width="900" height="1000" alt="Sewage adds organic matter; bacteria decompose it and multiply; their aerobic respiration uses up dissolved oxygen; fish and other aerobic animals die." loading="lazy">
+  <figcaption>Untreated sewage lowers dissolved oxygen and kills fish.</figcaption>
+</figure>
+
+
 ### Deforestation (4.18B) -- Paper 2 only
 
 - **Leaching**: without tree cover, rain washes mineral ions out of the soil, so it becomes infertile.
@@ -201,6 +265,12 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 - **Evapotranspiration**: fewer trees means less water vapour released, so less cloud and less rainfall locally; the area can become drier.
 - **Carbon cycle**: fewer trees remove carbon dioxide by photosynthesis. Burning or decomposing the wood releases more.
 - **Balance of atmospheric gases**: carbon dioxide rises and less oxygen is released, adding to the enhanced greenhouse effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--03-deforestation-soil-water.webp" width="900" height="1020" alt="In a forest, trees release water vapour, giving cloud and rain, and roots hold mineral ions in the soil. When the trees are cleared there is less water vapour and rain, and rain washes mineral ions out of the soil (leaching), leaving it infertile." loading="lazy">
+  <figcaption>Clearing trees reduces rainfall and lets rain leach ions from the soil.</figcaption>
+</figure>
+
 
 ## Common errors
 

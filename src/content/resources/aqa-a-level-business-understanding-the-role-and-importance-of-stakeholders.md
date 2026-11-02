@@ -46,6 +46,12 @@ The specification says the need to consider stakeholder needs applies "when maki
 
 There is a counter-argument you must be ready to use. Considering every need costs time and money, can delay decisions, and cannot satisfy groups whose needs conflict. A good answer weighs the benefit of support against the cost of delay and compromise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--01-why-needs-matter.webp" width="900" height="930" alt="A balance scale. One pan lists four benefits of considering stakeholder needs: support, fit with mission and ethics, reputation and better information. The other lists the costs: time, money, delay and the impossibility of satisfying everyone." loading="lazy">
+  <figcaption>Weigh the support gained against the delay and cost.</figcaption>
+</figure>
+
+
 ## 2. Stakeholder mapping: power and interest
 
 The specification names two dimensions. **Power** is the ability to influence the business or the decision. **Interest** is how much the stakeholder is affected by, or cares about, the outcome. The standard way to show them is a two-by-two grid with power on one axis and interest on the other. The four-box treatment below is the standard form; the specification does not prescribe box names.
@@ -72,6 +78,17 @@ Three points make the map useful rather than decorative.
 1. **Scores are judgements.** Justify them from the case. The joiners' power of 3 reflects that Pellshaw cannot easily replace skilled staff, but they have no formal vote.
 2. **Positions change.** If several joiners threaten to resign, their power moves up and they join the manage-closely box. If a local newspaper runs a story, neighbours with low power may gain influence through publicity.
 3. **The map suggests a method, not an answer.** It tells you how much effort to spend on each group. It does not tell you whether to go ahead with the move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--04-pellshaw-map.webp" width="900" height="1090" alt="A 1 to 5 power and interest grid places five Pellshaw Joinery stakeholders into the four boxes. Score-3 stakeholders are marked as judgement calls, and an arrow shows the joiners gaining power if they threaten to resign." loading="lazy">
+  <figcaption>Scores are judgements and positions can change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
 
 ## 3. Stakeholder needs, overlap and conflict
 
@@ -112,6 +129,22 @@ Neither choice is free. Option B also leaves the 4% rise paid for by the busines
 
 Managers do not have to pick a winner every time. They can compromise (a smaller rise, a smaller dividend cut), delay, find a different option, or give one group priority and explain why. Their choice is influenced by the business's mission and objectives, the power of the groups involved, the size of the decision and its long-run effect. A strong evaluation points out that the least powerful group should not automatically lose if the cost of ignoring them is high.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--05-pay-or-dividend.webp" width="900" height="1010" alt="Stacked bars split profit into dividend and retained profit before the rise and under two options after a £50,000 pay rise. Option A cuts the dividend by 27.8%; option B cuts retained profit by 55.6%." loading="lazy">
+  <figcaption>Quantifying a conflict shows what each option costs each group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--02-needs-table.webp" width="900" height="908" alt="Eight stakeholders in internal and external groups, each with its typical needs, matching the lesson table." loading="lazy">
+  <figcaption>Different groups want different things from the same decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--03-launch-overlap.webp" width="900" height="940" alt="A successful product launch in the centre with arrows to shareholders (profit), employees (jobs), suppliers (orders) and government (tax)." loading="lazy">
+  <figcaption>One decision can serve several stakeholder groups.</figcaption>
+</figure>
+
+
 ## 4. Influences on the relationship with stakeholders
 
 The specification lists this content point without naming specific influences, so the points below are the ones you can reasonably develop in an answer.
@@ -124,6 +157,12 @@ The specification lists this content point without naming specific influences, s
 - **Competition and the external environment.** In a tight labour market, employees gain power. In a recession, customers may be harder to satisfy and suppliers keener for orders.
 - **Media and technology.** Social media can quickly raise the effective power of customers, pressure groups and employees.
 - **The decision itself.** A small change affects a group's interest less than a closure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--04-relationship-influences.webp" width="900" height="1016" alt="Four panels: dependence (a supplier selling 60% to one buyer), size and market position, leadership style (one-way v two-way) and media raising the power of low-power groups." loading="lazy">
+  <figcaption>Dependence, size, leadership style and media change who holds power.</figcaption>
+</figure>
+
 
 ## 5. Managing the relationship: communication and consultation
 
@@ -144,6 +183,12 @@ Pellshaw's board decides on these steps for its relocation.
 4. Neighbouring shop owners: a letter and a drop-in morning (communication with a chance to respond).
 
 When you evaluate this plan, consider the costs. Consulting staff delays the announcement and may reveal opposition, but may also stop a damaging resignation by key joiners. The right judgement depends on how essential staff skills are and how fast the decision must be made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders--06-consult-or-inform.webp" width="900" height="1010" alt="A one-way arrow shows communication and a two-way pair of arrows shows consultation. Four rows then show which method Pellshaw uses for shareholders, joiners and staff, the bank and neighbouring shops." loading="lazy">
+  <figcaption>Match the method to the stakeholder.</figcaption>
+</figure>
+
 
 ## Common errors
 

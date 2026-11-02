@@ -51,6 +51,12 @@ Costs follow the same split:
 
 "Fixed" means fixed with respect to output. The rent may rise next year, but it did not rise because the firm made one more unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--04-sr-short-vs-long-run.webp" width="900" height="985" alt="A grid shows premises and the binding machine fixed in the short run and free in the long run, with workers and materials variable in both. Two bars show a market stall changes its fixed input in weeks and a new factory in years." loading="lazy">
+  <figcaption>The short run is defined by a fixed input, not by a length of time.</figcaption>
+</figure>
+
+
 ## The law of diminishing returns
 
 Total product (TP) is total output. Marginal product (MP) is the addition to total output from employing one more unit of the variable input. Average product (AP) is TP divided by the number of units of the variable factor.
@@ -74,6 +80,12 @@ MP = change in TP. For the second worker, 15 − 6 = 9. MP rises to 12 at the th
 AP rises while MP is above it and falls once MP is below it. The fourth worker's MP of 10 is above the previous AP of 9.00, so AP rises to 9.25. The fifth worker's MP of 6 is below 9.25, so AP falls to 8.60. AP therefore peaks at 4 workers.
 
 Do not confuse this with diseconomies of scale. Diminishing returns happen when one factor is added to fixed others. Diseconomies of scale are a long-run idea about changing all factors together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--01-sr-product-diminishing.webp" width="900" height="890" alt="Bars show marginal product of 1 to 6 workers (6, 9, 12, 10, 6, 3), rising to worker 3 then falling from worker 4 where diminishing returns begin. A line shows average product, which peaks at 9.25 with four workers. Total output still rises throughout." loading="lazy">
+  <figcaption>MP falls from the fourth worker, and AP peaks where MP crosses it.</figcaption>
+</figure>
+
 
 ## Defining and calculating costs
 
@@ -109,6 +121,17 @@ The full table (all values to the nearest penny):
 
 Output moves in steps of more than one notebook, so each MC is the average extra cost per notebook across the step. If the data give single-unit steps, MC is just the rise in TC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--03-sr-total-cost-gap.webp" width="900" height="840" alt="TFC is flat at 120 pounds, TVC rises from the origin and TC is TVC shifted up. The vertical gap between TC and TVC is 120 pounds at every output, for example 434 minus 314 at 37 notebooks." loading="lazy">
+  <figcaption>The vertical gap between TC and TVC is always TFC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Cost curves and output
 
 In a unit-cost diagram, plot cost per unit up the side and output along the bottom. Total-cost curves share the same output scale.
@@ -138,6 +161,32 @@ In the table, MC is lowest at 3 workers (£7.00), AVC at 4 workers (£8.49) and 
 - So MC cuts AC at the lowest point of AC. The same rule makes MC cut AVC at the lowest point of AVC.
 
 **Why AC has its minimum to the right of AVC.** After AVC starts to rise, AFC is still falling. For a while the fall in AFC outweighs the rise in AVC, so AC keeps falling. The gap AC − AVC equals AFC, so it narrows as output grows but never closes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--02-sr-mc-mirrors-mp.webp" width="900" height="915" alt="Two bar charts share the worker axis. Marginal product is highest (12) at worker 3 where marginal cost is lowest (7.00), and MC climbs to 22.00 as MP falls to 3. The link is MC = wage divided by MP plus materials per notebook." loading="lazy">
+  <figcaption>When MP is high MC is low; diminishing returns make MC rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--04-sr-mc-pulls-ac.webp" width="900" height="885" alt="Average cost bars at outputs 27, 37 and 43 are 13.11, 11.73 and 11.77 pounds. Marginal cost of 8.00 is below AC so AC falls; marginal cost of 12.00 is above AC so AC rises. MC therefore cuts AC at its lowest point." loading="lazy">
+  <figcaption>MC below AC pulls AC down and MC above AC pulls it up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--05-sr-ac-avc-afc.webp" width="900" height="910" alt="Stacked bars give average variable cost plus average fixed cost for each output, with the top of the bar equal to AC. AFC shrinks as output grows but never reaches zero, so AC is lowest a little to the right of AVC." loading="lazy">
+  <figcaption>AC is AVC plus AFC, and the AFC gap narrows but never closes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--05-sr-unit-cost-curves.webp" width="900" height="950" alt="AFC, AVC, AC and MC for the bookbinding workshop are plotted against output. AFC is the exact hyperbola 120 divided by output; the other curves join the lesson table points. MC is lowest at 7.00, AVC at 8.49 and AC at 11.73 to 11.77." loading="lazy">
+  <figcaption>MC, AVC, AC and AFC drawn together show the order of the turning points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Evaluating the significance of diminishing returns
 

@@ -75,6 +75,17 @@ Shortfall = 21,000 - 4,200 = 16,800
 
 A private firm cannot earn enough revenue, so it does not supply the beacon. Resources that could create 15,000 of net benefit are not used. Other examples: national defence, flood defences, street lighting on public roads.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--01-harbour-beacon-free-rider.webp" width="900" height="1000" alt="A grid of 60 boats representing the 60 owners at Harbour H. Twelve boats are filled teal: those owners pay 350 each. Forty-eight boats are dashed grey: free riders who use the beacon without paying. A bar shows the beacon costs 21,000 but only 12 times 350 equals 4,200 is raised, which is 20 percent of the cost, leaving a shortfall of 16,800. The total benefit of 60 times 600 equals 36,000 exceeds the cost, but a private firm cannot earn enough, so the beacon is not supplied." loading="lazy">
+  <figcaption>Of 60 boat owners only 12 pay, raising 4,200 (20%) of the 21,000 beacon, so a beacon worth 36,000 to owners is not supplied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+
 ### Public, private and merit goods compared
 
 | Feature | Public good | Merit good | Ordinary private good |
@@ -85,6 +96,12 @@ A private firm cannot earn enough revenue, so it does not supply the beacon. Res
 | Example | Navigation beacons, national defence | Education, healthcare | A bakery loaf |
 
 A merit good can be sold privately, so the market does supply it, just not enough. A public good is often not supplied at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
 
 ### Merit goods
 
@@ -99,6 +116,12 @@ Social net = 38 - 18 = +20
 
 The person decides on the perceived 12, so the vaccination is under-consumed. Two things cause it: poor information and undervaluing the future, and external benefits that the buyer ignores.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--02-vaccination-merit-good.webp" width="900" height="870" alt="Three columns compared with a price line at 18. The buyer perceives a benefit of only 12, below the price, so net is minus 6 and the person does not buy. The true private benefit is 24, net plus 6. Adding the external benefit of 14 to other people and the health service gives a social benefit of 38, net plus 20. Because the buyer decides on the perceived 12, the merit good is under-consumed." loading="lazy">
+  <figcaption>The buyer perceives a benefit of 12 against a price of 18 and does not buy, although the true private benefit is 24 and the social benefit 38.</figcaption>
+</figure>
+
+
 ### Demerit goods
 
 A fizzy drink sells for 2.00 and the buyer values it at 3.00. But heavy use brings later harm to the drinker worth 1.50 and costs the health service 0.50.
@@ -110,6 +133,12 @@ Net = 3.00 - 4.00 = -1.00
 ```
 
 The buyer sees a surplus of 1.00 (3.00 - 2.00) and buys, ignoring the harm. Consumption is too high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--06-fizzy-drink-demerit.webp" width="900" height="830" alt="A fizzy drink costs 2.00 and the buyer values it at 3.00, a gain of 1.00. Social cost is 2.00 + 1.50 + 0.50 = 4.00, so the net for society is minus 1.00 and consumption is too high." loading="lazy">
+  <figcaption>The buyer sees +1.00 but society loses 1.00.</figcaption>
+</figure>
+
 
 ### External costs
 
@@ -126,6 +155,12 @@ Charcoal kilns in Country A sell bags at 8 each, equal to the private cost. Smok
 
 The market stops at 5 batches (5,000 bags), where value just exceeds private cost. Society gains only from the first 3 batches. Batches 4 and 5 lose (-1 - 2) x 1,000 = 3,000 in total. Total external cost at the market output is 3 x 5,000 = 15,000, which is 3/11 = 27.3% of the social cost per bag. Kiln owners, not the smoke victims, decide the output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--03-kiln-external-cost.webp" width="900" height="920" alt="Bar chart of the value to buyers per bag of six batches of 1,000 bags: 16, 14, 12, 10, 9 and 6 dollars. Two dashed lines mark the private cost of 8 and the social cost of 11 (private cost plus 3 of smoke damage). Buyers purchase batches 1 to 5, where value exceeds 8. Only batches 1 to 3 are worth their social cost of 11, with net gains of plus 5, 3 and 1. Batches 4 and 5 have net values of minus 1 and minus 2, a total loss of 3,000. Batch 6 is not bought." loading="lazy">
+  <figcaption>Buyers keep buying while value exceeds the private cost of 8 (5 batches), but society gains only while value exceeds the social cost of 11 (3 batches).</figcaption>
+</figure>
+
+
 ### External benefits
 
 A landowner's hillside plot of trees costs 60 a year to plant and tend and gives 50 of timber. Farms downstream gain 30 from reduced flooding.
@@ -137,6 +172,12 @@ Social net = 80 - 60 = +20 per plot
 ```
 
 At 20 plots the lost social gain is 20 x 20 = 400. The landowner receives no payment from the farms, so too few plots are planted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--07-tree-plot-external-benefit.webp" width="900" height="780" alt="A plot costs 60 and gives the landowner timber worth 50 (net minus 10), so none is planted. Adding 30 of flood relief to farms makes the social benefit 80, a net of plus 20 per plot, so 20 plots would add 400." loading="lazy">
+  <figcaption>External benefits mean too few plots are planted.</figcaption>
+</figure>
+
 
 ### Abuse of monopoly power
 
@@ -150,6 +191,12 @@ A sole supplier can restrict output and raise price. In Town T, tank-water deliv
 | Profit (dollars) | 5,000 | 8,800 |
 
 The price rises (26 - 20)/20 = 30% and quantity falls 20%. Profit rises by 3,800. The 200 lost deliveries were each worth at least 20 to buyers and cost 15 to supply, so at least 200 x 5 = 1,000 of gain disappears. That is the market failure: higher prices, less output, resources moved elsewhere though buyers want them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--04-monopoly-town-t.webp" width="900" height="930" alt="Paired bars compare several suppliers with one sole supplier. Price rises from 20 to 26 dollars, up 30 percent. Deliveries fall from 1,000 to 800 a month, down 20 percent. Profit rises from 5,000 to 8,800, up 3,800, with each delivery costing 15. The 200 lost deliveries were each worth at least 20 to buyers and cost 15 to supply, so at least 1,000 of gain disappears: that is the market failure." loading="lazy">
+  <figcaption>A sole supplier raises price 30% and cuts deliveries 20%, lifting profit by 3,800 while at least 1,000 of gain is lost.</figcaption>
+</figure>
+
 
 ### Factor immobility
 
@@ -165,6 +212,17 @@ Rate after = 650 / 5,000 = 13%
 
 The town has 90 vacancies in construction, which need new skills, and 260 vacancies in a city far away. Even if 90 workers retrain, unemployed = 650 - 90 = 560, a rate of 11.2%. Labour sits idle while jobs go unfilled: a misallocation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--05-factor-immobility-town-m.webp" width="900" height="1010" alt="Three bars show unemployment in Town M with a labour force of 5,000: 250 unemployed (5 percent) before a mill closes, 650 (13 percent) after 400 workers lose their jobs, and 560 (11.2 percent) after 90 retrain for construction. Two cards show why the rest stay idle: 90 construction jobs need new skills (occupational immobility) and 260 jobs in a far city are too far or too costly to reach (geographical immobility)." loading="lazy">
+  <figcaption>Unemployment rises from 5% to 13% after the mill closes and only falls to 11.2% after 90 retrain, because the other jobs are far away or need skills.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## 2.10.3 Consequences: misallocation
 
 Markets respond to private costs and benefits. So:
@@ -178,11 +236,23 @@ Markets respond to private costs and benefits. So:
 
 Misallocation means resources go to the wrong uses: too many into harmful goods, too few into beneficial ones. Link each answer in a chain: private view differs from social view, so quantity is wrong, so resources are misallocated, so society's welfare is lower than it could be. Evaluation points include how large the gap is and how accurately it can be measured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--08-output-too-high-or-too-low.webp" width="900" height="830" alt="Two panels compare market output with the best output. Demerit goods and goods with external costs are over-produced; merit goods and goods with external benefits are under-produced. Resources go to the wrong uses." loading="lazy">
+  <figcaption>Markets over-produce goods with external costs and under-produce those with external benefits.</figcaption>
+</figure>
+
+
 ## How to write the chain in an answer
 
 A clear chain of reasoning makes an answer stronger, so build it in four links. For a demerit good: buyers ignore the harm, so they buy more than is best for society, so resources flow into the good, so other uses lose out. For a merit good: buyers undervalue the benefit, so they buy too little, so resources are under-used on something that would raise welfare. Always name the good and one specific harm or benefit. A sentence such as "kiln smoke raises hospital costs for nearby families" is more convincing than "it is bad for the environment".
 
 Where a question gives numbers, use them. State the private figure, add the external figure, and compare the total with the price. When a question says "evaluate", add a judgement: how large is the gap, who gains and who loses, and how hard is the harm or benefit to measure?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--09-four-link-answer-chain.webp" width="900" height="830" alt="Two four-step chains. Demerit good: buyers ignore the harm, buy more than is best, resources flow into the good, other uses lose out. Merit good: buyers undervalue the benefit, buy too little, resources are left under-used, welfare is lower than possible." loading="lazy">
+  <figcaption>Build each answer as four linked steps.</figcaption>
+</figure>
+
 
 ## Common errors
 

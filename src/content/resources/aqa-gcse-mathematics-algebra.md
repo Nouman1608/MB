@@ -92,6 +92,52 @@ geometry content rather than testing it in isolation.
   is a surd; and deducing expressions for the nth term of linear sequences, extending at
   Higher tier to quadratic sequences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--01-quadratic-two-methods.webp" width="900" height="880" alt="A parabola crosses the x-axis at -2.5 and 1. Factorising 2x^2+3x-5 as (2x+5)(x-1) and using the quadratic formula with a=2, b=3, c=-5 both give x = 1 or x = -2.5." loading="lazy">
+  <figcaption>Factorising a non-monic quadratic and the formula give the same roots, which are where the graph crosses the axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--02-linear-quadratic-simultaneous.webp" width="900" height="1006" alt="The parabola y = x^2 - 3 and the line y = x + 3 cross at A (-2, 1) and B (3, 6). Substituting gives x^2 - x - 6 = 0, which factorises to (x-3)(x+2) = 0." loading="lazy">
+  <figcaption>Substitute the line into the curve, solve the quadratic, then find y: the solutions are the crossing points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--03-iteration-cobweb.webp" width="900" height="890" alt="A cobweb graph of y = 1 + 1/x and y = x starting at x0 = 1 spirals in to the crossing point. The values 1, 2, 1.5, 1.6667 ... 1.6176 settle at 1.62 to 2 decimal places." loading="lazy">
+  <figcaption>Repeatedly feeding each answer back into x = 1 + 1/x homes in on a root of x^2 - x - 1 = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--04-quadratic-inequality-graph.webp" width="900" height="880" alt="The graph of y = x^2 - x - 6 crosses the axis at -2 and 3 and is below it between them, so x^2 - x - 6 &lt; 0 gives -2 &lt; x &lt; 3. Outside, x &lt; -2 or x &gt; 3 where the expression is positive." loading="lazy">
+  <figcaption>Read quadratic inequalities from the graph, then show the answer on a number line with open circles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--05-special-sequences.webp" width="900" height="1210" alt="Dot triangles 1, 3, 6, 10; dot squares 1, 4, 9, 16; cubes of side 1 to 4 giving 1, 8, 27, 64; a geometric sequence 2, 4, 8, 16 (x2 each time) and a Fibonacci-type sequence 1, 1, 2, 3, 5, 8 (add the last two)." loading="lazy">
+  <figcaption>Each special sequence is shown as a picture with its rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
+
 ## How the four sub-sections connect
 
 Algebra is the topic area most likely to appear woven into other parts
@@ -136,6 +182,12 @@ equation/identity distinction (A3, A6), interpreting expressions as
 functions with inputs and outputs (A7), and recognising Fibonacci-type,
 quadratic and simple geometric sequences (A24).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--03-circle-tangent-higher.webp" width="900" height="1030" alt="Circle x squared plus y squared = 25 with the point P (3, 4). The radius to P has gradient 4/3; the tangent at P is perpendicular with gradient minus 3/4 (product minus 1), giving 3x + 4y = 25." loading="lazy">
+  <figcaption>Higher tier: the tangent at (3, 4) is perpendicular to the radius, giving 3x + 4y = 25.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 - **Losing marks on notation conventions.** Writing "a × b" instead of
@@ -157,6 +209,17 @@ tested directly at both tiers.
   question** rather than derive: for a linear sequence, the
   coefficient of n is always the common difference, which can be
   checked quickly against the first few terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--01-identity-vs-equation.webp" width="900" height="1070" alt="Two graphs. y = 2x + 3x and y = 5x lie exactly on one line, so the statement is true for every x: an identity. y = 2x + 3 and y = 11 cross at one point, x = 4, so 2x + 3 = 11 is an equation true only for that value." loading="lazy">
+  <figcaption>An identity matches for every x; an equation for only one value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--02-gradient-rearranged-line.webp" width="900" height="1070" alt="Dividing 2y = 4x + 6 by 2 gives y = 2x + 3. The graph shows the line with a triangle one across and two up, gradient 2, crossing the y-axis at 3. A dashed steeper line y = 4x + 3 shows the slip of reading the gradient as 4." loading="lazy">
+  <figcaption>Rearrange to y = mx + c before reading the gradient: 2y = 4x + 6 has gradient 2.</figcaption>
+</figure>
+
 
 ## How to approach it
 

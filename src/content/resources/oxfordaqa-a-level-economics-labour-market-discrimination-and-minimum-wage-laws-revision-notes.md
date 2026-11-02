@@ -66,6 +66,17 @@ Reminder (study guide example 1): MRP 40; group A supply w = 24 + 0.1L gives L =
 
 Reminder: men 14, 16, 18, 20, 32 and women 12, 14, 16, 18, 20. Mean gap = (20 − 16)/20 = 20%. Median gap = (18 − 16)/18 = 11.1%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--08-discrimination-two-groups.webp" width="900" height="1110" alt="Two diagrams with MRP 40. Group A with supply elasticity 4.0 gets a wage of 32 and 80 jobs; group B with elasticity 1.5 gets 24 and 40 jobs. B is paid 25 percent less. Surplus is 640 on each group." loading="lazy">
+  <figcaption>Less elastic supply means a lower wage for equal productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--09-crowding-model.webp" width="900" height="1170" alt="Demand w = 30 - 0.1L in both occupations. Excluding group Q from occupation 1 gives wages of 20 and 10, a 50 percent gap, and output falls from 6,750 to 6,500 (down 250, 3.7 percent)." loading="lazy">
+  <figcaption>Crowding lowers pay for the excluded group and wastes output.</figcaption>
+</figure>
+
+
 ### Effects on wages, levels and types of employment
 
 | Effect | Chain of reasoning |
@@ -76,6 +87,12 @@ Reminder: men 14, 16, 18, 20, 32 and women 12, 14, 16, 18, 20. Mean gap = (20 �
 
 Crowding reminder (study guide example 2): two occupations with demand w = 30 − 0.1L and 300 workers. Equal access gives 150 each, wage 15 and output value 6,750. With 100 in occupation 1 and 200 crowded into occupation 2, wages are 20 and 10 (gap 50%) and output value is 6,500, a loss of 250 (3.7%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--02-un228-pay-gap-mean-median.webp" width="900" height="1000" alt="Two number lines show five men earning 14, 16, 18, 20 and 32 and five women earning 12 to 20. Means are 20 and 16, medians 18 and 16. Mean gap 20%, median gap 11.1%." loading="lazy">
+  <figcaption>The 32 pulls the men's mean up, so the mean gap (20%) exceeds the median gap (11.1%).</figcaption>
+</figure>
+
+
 ### Assessing wage discrimination
 
 | Group | Gains | Losses |
@@ -85,6 +102,12 @@ Crowding reminder (study guide example 2): two occupations with demand w = 30 �
 | Economy | Possibly lower prices | Misallocated labour, wasted skills, inequality, less tax revenue, social division |
 
 Judgement: the benefits are private and narrow, the costs are wide. Say how far the answer depends on the unexplained gap, employer power and enforcement of equal-pay law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
 
 ## 3.3.4.6 Minimum wage laws
 
@@ -99,6 +122,12 @@ Judgement: the benefits are private and narrow, the costs are wide. Say how far 
 
 Reminder (study guide example 3): D = 900 − 30w, S = 40w + 200. Equilibrium 10 and 600. Floor of 12: demand 540, supply 680, unemployment 140. Elasticity −0.5, so the wage bill rises 8% (6,000 to 6,480).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--10-min-wage-competitive-12.webp" width="900" height="880" alt="Demand L = 900 - 30w, supply L = 40w + 200. A minimum of 12 cuts jobs from 600 to 540 and raises supply to 680, leaving 140 unemployed. The wage bill rises from 6,000 to 6,480." loading="lazy">
+  <figcaption>A floor above equilibrium creates unemployment of 140.</figcaption>
+</figure>
+
+
 ### Method: monopsony
 
 1. Treat demand as MRP and find MC from the supply curve.
@@ -107,6 +136,12 @@ Reminder (study guide example 3): D = 900 − 30w, S = 40w + 200. Equilibrium 10
 4. The gain is largest at the competitive wage. Above it, demand sets employment.
 
 Reminder (example 4): the same curves give employment 420 at wage 5.5. A floor of 8 gives 520, a floor of 10 gives 600, and a floor of 12 gives 540.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--11-min-wage-employment-by-floor.webp" width="900" height="940" alt="Employment against minimum wage. Competitive: 600 up to a floor of 10, then 540 at 12 and 420 at 16. Monopsony: 420 up to 5.5, rising to 600 at 10, then the same as competitive." loading="lazy">
+  <figcaption>In monopsony a modest floor raises jobs; above the competitive wage jobs fall.</figcaption>
+</figure>
+
 
 ### Other effects of a floor
 
@@ -131,6 +166,22 @@ Reminder (example 4): the same curves give employment 420 at wage 5.5. A floor o
 * Ratio to median = minimum ÷ median pay. A higher ratio affects more workers and puts more jobs at risk.
 
 Evaluation checklist: level against the median, elasticity of labour demand, employer power, economic cycle, time period and enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--01-un228-one-wage-law.webp" width="900" height="940" alt="Clustered columns show hourly wage and jobs for groups A and B with and without a one-wage law. A goes 32 and 80 to 30.4 and 64; B goes 24 and 40 to 30.4 and 56. The firm surplus falls from 1,280 to 1,152." loading="lazy">
+  <figcaption>A law forcing one wage lifts group B by 6.4 an hour and 16 jobs and cuts the firm surplus by 10%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws--03-un228-real-min-wage.webp" width="900" height="840" alt="The minimum wage rises 2.5% from 12 to 12.30 while prices rise 4.5%, giving a real wage of 11.77, down 1.9%. A bar shows 12 is 60% of median pay of 20." loading="lazy">
+  <figcaption>Real minimum 11.77 (down 1.9%) and a minimum of 60% of the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

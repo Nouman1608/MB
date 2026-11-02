@@ -51,6 +51,12 @@ These notes condense sections 1.1 and 1.2 of the Cambridge International AS & A 
 - The root of all economic problems. It exists for rich and poor, and for time as well as money.
 - Scarcity is permanent. A shortage is a market event at one price. Do not mix them up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+
 ### Choices (1.1.2)
 
 | Decision-maker | Typical choice | Constraint |
@@ -105,6 +111,27 @@ If A used 3 workers at wage w and B used 6 workers at wage w, the cost gap would
 
 How different economic systems answer these questions is section 1.4. See the [basic ideas revision notes](/resources/a-level-economics-basic-ideas-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--01-bakery-trade-off.webp" width="900" height="1020" alt="Straight-line graph of loaves against cakes for a one-oven bakery from 120 loaves to 90 cakes. Choosing 60 cakes leaves 40 loaves, so 80 loaves are given up. One cake costs 1.33 loaves and one loaf 0.75 cake." loading="lazy">
+  <figcaption>Constant trade-off: 60 cakes cost 80 loaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--02-how-to-produce-breakeven-wage.webp" width="900" height="1050" alt="Daily cost of 600 loaves against the daily wage. Labour-intensive L = 12w + 50 and capital-intensive C = 4w + 400 cross at a wage of 43.75: below it L is cheaper, above it C is cheaper." loading="lazy">
+  <figcaption>Above a wage of 43.75 a day the capital-intensive method is cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--08-for-whom-income-shares.webp" width="900" height="910" alt="Country C has 1,000 people and total income of 1,000,000. Two stacked bars compare shares of people (bottom 20 percent, middle 60, top 20) with shares of income (5, 45 and 50 percent). Per person, the top group gets 2,500 and the bottom group 250, a ratio of 10. A basket of essentials costs 300, so the top group can buy 8.33 baskets and the bottom group only 0.83." loading="lazy">
+  <figcaption>Most income goes to the top fifth, so the market answer to &quot;for whom&quot; leaves the bottom fifth unable to afford one basket of essentials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## 1.2 Economic methodology
 
 ### Economics as a social science (1.2.1)
@@ -113,6 +140,12 @@ How different economic systems answer these questions is section 1.4. See the [b
 - Social, because it studies human behaviour in society.
 - Limits: few controlled experiments, behaviour changes with expectations, and values enter policy advice.
 - Judgement: it uses scientific methods but cannot match the precision of the natural sciences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--09-social-science-method-loop.webp" width="900" height="1020" alt="Five boxes in order. 1 Observe a pattern in behaviour. 2 Build a model. 3 Draw a testable hypothesis. 4 Test it against evidence. 5 Keep, refine or reject the model. A dashed arrow runs from step 5 back to step 2, so a refined model is tested again. A note says results are tendencies, not laws." loading="lazy">
+  <figcaption>Economics follows the scientific method: a model is tested against evidence, then kept, refined or rejected.</figcaption>
+</figure>
+
 
 ### Positive and normative (1.2.2)
 
@@ -129,6 +162,12 @@ Tips:
 - Watch for should, ought, fair, too much, better.
 - Split mixed sentences into a positive part and a normative part.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
+
 ### Ceteris paribus (1.2.3)
 
 - Change one variable, hold the rest constant, and observe the separate effect.
@@ -143,6 +182,12 @@ Sales change = (330 - 300) / 300 = +10%
 
 If a rival also raised its price in the same week, the 10% rise may not come from the price cut alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--03-ceteris-paribus-ice-cream.webp" width="900" height="960" alt="Bars of weekly ice cream sales: 400 before, 480 if only the hot weather acted, 520 actual. The price cut alone added 40, +8.33 per cent, so the ratio is 0.5 rather than the naive 1.8." loading="lazy">
+  <figcaption>Holding the weather constant, the price effect is much weaker than it first appeared.</figcaption>
+</figure>
+
+
 ### Time period (1.2.4)
 
 | Period | What can change | Typical response of a firm |
@@ -152,6 +197,12 @@ If a rival also raised its price in the same week, the 10% rise may not come fro
 | Very long run | Technology and factor quality | Adopt new methods, retrain the workforce |
 
 Periods differ by industry. They are defined by what can change, not by months or years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-scarcity-choice-opportunity-cost-and-the-methods-of--04-time-periods.webp" width="900" height="810" alt="Three steps: short run with a fixed oven (padlock), long run with a second oven added, very long run with improved technology. Periods are defined by what can change, not by length." loading="lazy">
+  <figcaption>The periods are defined by what can change, not by calendar time.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to reuse
 

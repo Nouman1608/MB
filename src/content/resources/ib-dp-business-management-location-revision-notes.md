@@ -67,6 +67,22 @@ The guide does not list the reasons; these groups are a standard set.
 4. Add one non-financial point such as lead time or brand.
 5. Conclude with a judgement and the condition it depends on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--05-site-total-cost.webp" width="900" height="900" alt="Stacked bars show fixed, production and delivery costs for three sites making 120,000 pans. A costs 3.324m, B 2.892m and C 2.784m, so C is cheapest by 3.7 percent over B." loading="lazy">
+  <figcaption>Site C is cheapest on cost, but only narrowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--09-location-change-steps.webp" width="900" height="870" alt="Four steps: state the change and purpose, give benefits and costs with figures, consider stakeholders, then conclude by naming what the decision depends on (volume, time horizon, aims)." loading="lazy">
+  <figcaption>Build an AO3 judgement in four steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## Comparing the four ways of reorganizing production
 
 | Method | Possible advantages | Possible disadvantages |
@@ -77,6 +93,12 @@ The guide does not list the reasons; these groups are a standard set.
 | Reshoring | Faster response; fewer defects; brand image; less supply-chain risk | Higher unit cost; one-off move cost; possible price rise |
 
 Each can be national or international. Subcontracting to a firm in the same country is still outsourcing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--04-reorganise-production.webp" width="900" height="850" alt="A grid with columns for outside firm or own business and rows for home or abroad. Outsourcing (national), insourcing, offshore outsourcing and offshoring fill the four cells. Reshoring moves work from abroad back home." loading="lazy">
+  <figcaption>Who does the work and where it is done separates the four terms.</figcaption>
+</figure>
+
 
 ## Calculations to be ready for
 
@@ -100,17 +122,40 @@ A lamp maker produces 40,000 lamps a year at home for 48.00 each. An overseas pl
 - Annual saving = 40,000 x 11.20 = 448,000.
 - If a one-off move cost 120,000, it is recovered in 120,000 / 448,000 = 0.27 years, about 3 months.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--06-offshoring-landed-cost.webp" width="900" height="890" alt="Stacked bars show home cost 34.00 against overseas landed cost 27.18 (21.00 production, 4.50 shipping, 1.68 duty), saving 545,600 a year with payback near 8 months. With shipping at 7.20 the landed cost is 29.88, saving 329,600 and payback about 1.1 years." loading="lazy">
+  <figcaption>Landed cost includes shipping and duty, and the saving is sensitive to both.</figcaption>
+</figure>
+
+
 ### Outsourcing reminder
 
 In-house assembly has fixed costs of 90,000 and variable costs of 3.00 per unit. A contractor charges 4.50 per unit.
 - The costs are equal where 90,000 + 3.00q = 4.50q, so q = 60,000.
 - Below 60,000 units, the contractor is cheaper. Above, in-house is cheaper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--06-outsource-break-even.webp" width="900" height="790" alt="Lines show in-house cost (480,000 fixed plus 7.10 a unit) and outsourcing cost (9.40 a unit). They cross at 208,696 units: outsourcing is cheaper below it and in-house above it." loading="lazy">
+  <figcaption>The cheaper option flips at 208,696 units a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--07-insourcing-break-even.webp" width="900" height="890" alt="Outsourcing costs 2.60 a unit; in-house packing costs 270,000 plus 1.35 a unit. The lines cross at 216,000 units. At 300,000 units insourcing costs 675,000 against 780,000, saving 105,000." loading="lazy">
+  <figcaption>Insourcing is cheaper only above 216,000 units a year.</figcaption>
+</figure>
+
+
 ### Reshoring reminder
 
 A maker of 10,000 chairs a year pays 22.00 each to produce overseas and 3.50 each to ship them, a landed cost of 25.50. Home production costs 27.00.
 - Extra cost of reshoring = (27.00 - 25.50) x 10,000 = 15,000 a year.
 - The case for reshoring must then rest on other gains, such as shorter lead times, fewer returns or a stronger brand. State what those gains would need to be worth: more than 15,000 a year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-location--08-reshoring-cost.webp" width="900" height="1010" alt="Overseas landed cost is 118 a frame and home cost 131. On 25,000 frames that adds 325,000 a year plus 450,000 once. The case rests on benefits worth more than 325,000 a year." loading="lazy">
+  <figcaption>Reshoring looks poor on cost alone, so the case rests on other benefits.</figcaption>
+</figure>
+
 
 ## Matching the factor to the business
 

@@ -35,6 +35,12 @@ Nuclei with an odd mass number — **¹H and ¹³C** — behave as tiny magnets.
 
 **TMS (tetramethylsilane)** is the reference standard, defined as **δ = 0**. It is used because it is inert, volatile (easily removed), non-toxic, and gives a **single sharp peak** well away from most others — all twelve of its protons are equivalent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--02-nmr-tms-reference.webp" width="900" height="940" alt="Tetramethylsilane has four CH3 groups on silicon, so its twelve hydrogens are equivalent and give one sharp peak at delta 0, away from typical sample signals. Reasons for using it: inert, volatile, non-toxic, single sharp peak." loading="lazy">
+  <figcaption>TMS: twelve equivalent hydrogens give one sharp reference peak at 0.</figcaption>
+</figure>
+
+
 ## Carbon-13 NMR
 
 **Number of peaks = number of chemically different carbon environments.**
@@ -43,11 +49,23 @@ This is the simplest question type on the topic: count the distinct carbon envir
 
 There is **no splitting** in ¹³C NMR at this level, and peak heights are not quantitative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+
 ## Worked example: carbon-13 peak count
 
 Predict the number of peaks for propan-1-ol, CH₃CH₂CH₂OH, and propan-2-ol, (CH₃)₂CHOH.
 
 Propan-1-ol has three carbons, each in a genuinely different environment (terminal CH₃, central CH₂, CH₂–OH) — **3 peaks**. Propan-2-ol also has three carbons, but its two CH₃ groups are equivalent by the molecule's own symmetry, both attached identically to the central CHOH carbon — so only **2** distinct environments. Same molecular formula, different peak count: exactly why carbon-13 NMR distinguishes structural isomers other techniques might miss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--03-nmr-propanol-c13.webp" width="900" height="1010" alt="Skeletal formulae with carbons coloured by environment. Propan-1-ol has three different carbons and gives 3 peaks; propan-2-ol has a mirror plane so its two CH3 carbons are equivalent and it gives 2 peaks." loading="lazy">
+  <figcaption>Propan-1-ol gives 3 carbon-13 peaks, propan-2-ol only 2 because of symmetry.</figcaption>
+</figure>
+
 
 ## Proton NMR — three pieces of information
 
@@ -100,11 +118,38 @@ Ethanol is the classic worked example: CH₃ (triplet, 3H), CH₂ (quartet, 2H),
 
 **Deducing structure from a spectrum** combines all three pieces together: the number of peaks gives the number of distinct proton environments, chemical shift identifies what kind of environment each is, relative area gives how many protons are in each, and the splitting pattern reveals how many protons sit on each neighbouring carbon — usually enough to piece together the full structure, especially alongside the molecular formula from mass spectrometry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--01-nmr-shift-table.webp" width="900" height="1162" alt="Bars for all thirteen proton environments in the 9701 data table on a delta axis, solid for C-H and dashed for O-H and N-H whose shifts vary with solvent and concentration. TMS sits at 0." loading="lazy">
+  <figcaption>The thirteen 1H shift ranges from the 9701 data table, with the variable O-H and N-H shifts set apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--04-nmr-ethanol-h1.webp" width="900" height="960" alt="Ethanol CH3, CH2 and OH groups matched to a schematic proton spectrum: a 3 H triplet, a 2 H quartet and a 1 H singlet, with an integration trace stepping 2 : 1 : 3. The OH is neither split nor splitting." loading="lazy">
+  <figcaption>Ethanol: three signals whose splitting and areas follow the n+1 rule and integration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+
 ## OH and NH protons
 
 These appear as **broad singlets** at variable shift, and they do **not** split or get split, because they exchange rapidly with the solvent.
 
 **The D₂O shake** confirms them: adding D₂O replaces the OH/NH hydrogen with deuterium, which is not detected, so **the peak disappears**. That is the standard identification test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-nmr-revision-notes--05-nmr-d2o-shake.webp" width="900" height="1190" alt="Two schematic ethanol spectra, before and after shaking with D2O. The exchange R-OH + D2O to R-OD + HOD removes only the OH peak; the C-H quartet and triplet are unchanged." loading="lazy">
+  <figcaption>Shaking with D2O makes the OH peak vanish; C-H signals stay.</figcaption>
+</figure>
+
 
 ## Common mistakes to avoid
 

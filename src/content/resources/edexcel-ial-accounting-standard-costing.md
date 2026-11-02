@@ -48,6 +48,12 @@ Standard cost of an element = standard quantity per unit x standard price
 
 The difference between a standard cost and an actual cost is a **variance**. A variance is **favourable (F)** when actual cost is below standard, so profit is higher than planned. It is **adverse (A)** when actual cost is above standard, so profit is lower. Label every variance F or A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--01-standard-cost-card.webp" width="900" height="936" alt="A stacked bar shows the standard cost of one Thurlby washbasin, 63 dollars: clay 18, labour 24, variable overhead 6 and fixed overhead 15, each quantity times price. Below, 3,800 basins times 63 gives a standard cost of 239,400 dollars to compare with actual cost." loading="lazy">
+  <figcaption>A standard cost is quantity times price for each element, added up per unit.</figcaption>
+</figure>
+
+
 ## The purpose of standard costing (2.5.1)
 
 - **Planning.** Unit standards make budgets quick to build for any output level.
@@ -67,6 +73,12 @@ The difference between a standard cost and an actual cost is a **variance**. A v
 6. **Collect actual data from the accounting records.** Actual material prices come from purchase invoices; actual quantities from stores requisitions and inventory records; actual hours from clock cards, time sheets and job cards; actual wage cost from the payroll; actual overheads from the ledger expense accounts. Actual output comes from production reports.
 7. **Calculate and report variances** promptly, usually monthly, to the manager responsible.
 8. **Investigate significant variances and take action.** Review the standards regularly so they stay realistic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--02-setting-up-system.webp" width="900" height="918" alt="Six steps: choose the type of standard (ideal, attainable or basic), set quantities and prices, set overhead rates and write the cost card, collect actual data from invoices, clock cards and the ledger, calculate variances, then investigate and act. A loop returns to step 1 because standards are reviewed." loading="lazy">
+  <figcaption>Standards are set, actual data is collected, variances are reported and acted on, then standards are reviewed.</figcaption>
+</figure>
+
 
 ## Calculating variances (2.5.3)
 
@@ -162,6 +174,22 @@ Total fixed overhead:     (3,800 x 15.00) - 58,200
 
 Check: standard cost 239,400 - actual cost 238,944 = 456 F, the same as the net of the six variances. Always do this check: if the two disagree, a variance is wrong or mislabelled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--03-material-variances.webp" width="900" height="940" alt="A waterfall with a broken axis from standard material cost 68,400 dollars, plus usage variance 2,700 adverse to reach 71,100 (actual kg at standard price), minus price variance 3,792 favourable to reach actual cost 67,308. Total 1,092 favourable." loading="lazy">
+  <figcaption>Usage and price variances bridge standard material cost to actual material cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--04-labour-variances.webp" width="900" height="940" alt="A waterfall with a broken axis from standard labour cost 91,200 dollars, minus efficiency variance 2,880 favourable to reach 88,320 (actual hours at standard rate), plus rate variance 1,656 adverse to reach actual cost 89,976. Total 1,224 favourable." loading="lazy">
+  <figcaption>Efficiency and rate variances bridge standard labour cost to actual labour cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--05-six-variances-net.webp" width="900" height="1034" alt="Bars centred on zero show the six variances: material price 3,792 F, usage 2,700 A, labour rate 1,656 A, efficiency 2,880 F, variable overhead 660 A, fixed overhead 1,200 A. Net 456 F equals standard cost 239,400 minus actual cost 238,944." loading="lazy">
+  <figcaption>Favourable and adverse variances net to the difference between standard and actual cost.</figcaption>
+</figure>
+
+
 ### Understanding the fixed overhead variance
 
 In standard costing, fixed overhead is absorbed at the standard rate on the **standard hours for actual output** (here 5,700 x 10 = 57,000), not on actual hours as in the introduction to costing topic. The total fixed overhead variance is therefore the under- or over-absorption. At Thurlby it has two causes, which help when you explain it:
@@ -170,6 +198,12 @@ In standard costing, fixed overhead is absorbed at the standard rate on the **st
 - volume: output of 3,800 was 200 basins short of the 4,000 budgeted, so 200 x 15 = 3,000 of budgeted fixed overhead was not absorbed (adverse)
 
 1,800 F - 3,000 A = 1,200 A. The specification only asks for the total variance, but this split is a strong basis for explaining it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--06-fixed-overhead-split.webp" width="900" height="766" alt="Spending was 1,800 favourable (58,200 against a 60,000 budget) and volume was 3,000 adverse (200 basins short at 15 each). Together they give the total fixed overhead variance of 1,200 adverse. The specification only asks for the total." loading="lazy">
+  <figcaption>Spending and volume together explain the total fixed overhead variance.</figcaption>
+</figure>
+
 
 ## Possible reasons for variances (2.5.4)
 
@@ -194,6 +228,12 @@ One decision often causes variances in more than one place, so a manager should 
 
 At Thurlby, the 3,792 F price variance and the 2,700 A usage variance suggest a cheaper, lower-grade clay that caused more waste. The 1,656 A rate variance and 2,880 F efficiency variance suggest more skilled workers on a higher rate. The variable overhead cost 4.25 per actual hour against a standard of 4.00, so its 660 A variance is a spending problem despite the time saved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--07-linked-variances.webp" width="900" height="800" alt="Cheaper clay gave a favourable price variance of 3,792 dollars but an adverse usage variance of 2,700. Skilled, higher-paid workers gave an adverse rate variance of 1,656 and a favourable efficiency variance of 2,880." loading="lazy">
+  <figcaption>One decision can cause a favourable variance in one place and an adverse one in another.</figcaption>
+</figure>
+
+
 ## Management by exception (2.5.6)
 
 **Management by exception** means managers concentrate only on variances that are significant, and leave the rest. Most small variances are random, so this saves time. A business sets a rule, for example a percentage of standard cost or a fixed amount, above which a variance is investigated. Significant favourable variances are investigated too: they may reveal a standard that is too loose, or a saving that should become the new standard.
@@ -214,6 +254,12 @@ Skelwith Mats Ltd investigates any variance that is more than 5% of the related 
 Three variances are investigated. Usage and efficiency are both adverse, so a shared cause (a faulty machine or poor material) is worth checking first.
 
 Benefits: managers' time goes where it matters, and small random variances do not trigger pointless enquiries. Limitations: a small variance that grows each month can be missed; the threshold is a judgement; and offsetting variances can make a total look acceptable when its parts are not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--08-exception-reporting.webp" width="900" height="806" alt="Six adverse variances at Skelwith Mats shown as percentages of standard cost against a 5 percent limit. Material usage 7.0, labour efficiency 6.5 and fixed overhead 8.0 percent are investigated; the other three are under the limit." loading="lazy">
+  <figcaption>Only variances over the limit are investigated.</figcaption>
+</figure>
+
 
 ## Common errors
 

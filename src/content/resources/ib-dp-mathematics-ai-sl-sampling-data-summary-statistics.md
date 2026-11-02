@@ -72,6 +72,17 @@ Data can also be unreliable because of:
 | Quota | Set a number to collect from each group, then fill it with anyone available | Not random within each group |
 | Stratified | Split into groups (strata) and take a random sample from each, in proportion to group size | Needs to know the size of every group |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--01-stratified-sample.webp" width="900" height="810" alt="A gym has 450 members: 180 aged under 30, 150 aged 30 to 49 and 120 aged 50 or over. A stratified sample of 60 takes 60 over 450, which is 2 over 15, of each group at random: 180 times 2/15 is 24, 150 times 2/15 is 20 and 120 times 2/15 is 16, and 24 plus 20 plus 16 is 60. The bars of the sample have the same proportions as the bars of the population. A quota sample would use the same numbers but would not choose members at random within each group." loading="lazy">
+  <figcaption>A stratified sample takes the same fraction of every group, chosen at random within each group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--02-systematic-sample.webp" width="900" height="790" alt="A list of 600 names is laid out in rows of 15. To take a systematic sample of 40, the interval is 600 divided by 40, which is 15. A random start between 1 and 15 is chosen, here 7, and then every 15th name is taken: 7, 22, 37, 52 and so on up to 592, which is 40 names. The chosen names line up in one column because the interval equals the row length. The method is biased if the list has a pattern that repeats every 15 names." loading="lazy">
+  <figcaption>A systematic sample takes a random start and then every k-th name, with k equal to population size divided by sample size.</figcaption>
+</figure>
+
+
 ### Worked example 1: stratified and systematic sampling
 
 A gym has 450 members: 180 aged under 30, 150 aged 30–49 and 120 aged 50 or over. The manager wants a stratified sample of 60.
@@ -97,6 +108,12 @@ upper boundary = Q₃ + 1.5 × IQR
 
 An outlier is not automatically wrong. It may be a valid, unusual value that you keep, or an error that you correct or remove. Give a reason tied to the context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--05-outlier-box-plot.webp" width="900" height="860" alt="Fifteen commute times: 12, 14, 15, 15, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28 and 47 minutes, shown as a dot plot above a box and whisker diagram on one number line. The median is 20, Q1 is 15, Q3 is 24 and the IQR is 9, so 1.5 times the IQR is 13.5. The fences are 15 minus 13.5, which is 1.5, and 24 plus 13.5, which is 37.5. Only 47 lies beyond a fence, so it is an outlier and is marked with a cross. The box runs from 15 to 24 with a line at 20 and whiskers to 12 and 28, the last values inside the fences." loading="lazy">
+  <figcaption>A value more than 1.5 x IQR beyond a quartile is an outlier; the whisker stops at the last value inside the fence.</figcaption>
+</figure>
+
+
 ## Section 4.2: Presenting data
 
 ### Frequency tables and histograms
@@ -114,6 +131,12 @@ For n data items, read across from:
 - p% of n for the p-th percentile
 
 Then IQR = Q₃ − Q₁.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--03-cumulative-frequency-quartiles.webp" width="900" height="890" alt="A cumulative frequency graph of 60 shop times. Points are plotted at the upper class boundaries: (0, 0), (10, 6), (20, 20), (30, 42), (40, 54) and (50, 60), joined by straight lines. Reading across from n over 4 which is 15 gives the lower quartile 16.4 minutes; from n over 2 which is 30 gives the median 24.5 minutes; from 3n over 4 which is 45 gives the upper quartile 32.5 minutes. The interquartile range is about 16.1 minutes." loading="lazy">
+  <figcaption>Plot running totals at upper boundaries, then read across from n/4, n/2 and 3n/4 to find the quartiles.</figcaption>
+</figure>
+
 
 ### Worked example 2: grouped data and cumulative frequency
 
@@ -186,6 +209,12 @@ Shop example: mid-interval values 5, 15, 25, 35, 45
 x̄ ≈ 1480 / 60 = 24.7 minutes (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--04-grouped-mean-histogram.webp" width="900" height="914" alt="A frequency histogram of 60 shop times in five equal classes of width 10 minutes with frequencies 6, 14, 22, 12 and 6. Each class is represented by its mid-interval value 5, 15, 25, 35 and 45, giving fx values 30, 210, 550, 420 and 270, which total 1480. The estimated mean is 1480 divided by 60, about 24.7 minutes, marked as the balance point. The class 20 to 30 minutes has the highest frequency 22 and is the modal class. The mean is only an estimate because exact values within each class are unknown." loading="lazy">
+  <figcaption>Grouped data give only an estimate of the mean, using the mid-interval value of each class.</figcaption>
+</figure>
+
+
 ### Measures of dispersion
 
 - **Range** = maximum − minimum
@@ -194,6 +223,12 @@ x̄ ≈ 1480 / 60 = 24.7 minutes (3 s.f.)
 - **Variance** = σ², the square of the standard deviation
 
 The guide says standard deviation and variance are found **using only technology**. For the commute data, the GDC gives x̄ = 21.4 and σ = 8.14 minutes (3 s.f.). Without the 47 they become 19.6 and 4.56, so one outlier nearly doubles σ. The median only moves from 20 to 19.5. This is why the median and IQR are often better summaries when there are outliers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--06-outlier-effect-on-summaries.webp" width="900" height="940" alt="Two dot plots of the commute times on the same number line. With the outlier 47 the mean is 21.4, the standard deviation sigma is 8.14 and the median is 20. Without 47 the mean is 19.6, sigma is 4.56 and the median is 19.5. A bar shows the mean plus and minus one sigma and is much wider with the outlier. One outlier moves the mean and almost doubles sigma but moves the median only from 19.5 to 20, which is why the median and IQR are often better summaries when there are outliers." loading="lazy">
+  <figcaption>One outlier changes the mean and standard deviation a lot but the median only a little.</figcaption>
+</figure>
+
 
 ### Using your GDC
 
@@ -214,6 +249,12 @@ The guide expects you to find quartiles with technology, and to know that **diff
 | Multiply by k (k > 0) | × k | × k | × k² |
 
 Adding a constant shifts every value, so the spread does not change. Multiplying stretches the spread by the same factor. The median and quartiles change in the same way as the mean, and the IQR changes like the standard deviation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--07-constant-changes.webp" width="900" height="980" alt="Three dot plots of ten test marks on one number line from 0 to 100. The original marks have mean 26 and standard deviation 5. Adding 3 to every mark shifts the whole plot right: the mean becomes 29 but the standard deviation stays 5. Multiplying by 2.5 to get percentages shifts and stretches it: the mean becomes 72.5 and the standard deviation becomes 12.5, so the variance becomes 156.25, which is 2.5 squared times 25. Adding a constant does not change the spread; multiplying by k multiplies the standard deviation by k and the variance by k squared." loading="lazy">
+  <figcaption>Adding a constant shifts the data and leaves the spread unchanged; multiplying by k stretches the spread by k.</figcaption>
+</figure>
+
 
 ### Worked example 4: rescaled test marks
 

@@ -58,6 +58,17 @@ To narrow it down, try values: f(1.2) = −0.392 and f(1.3) = 0.577, so the root
 - **A touching root.** f(x) = (2x − 5)² has a root at x = 2.5, yet f(2) = 1 and f(3) = 1 have the same sign. No sign change does not prove no root.
 - **An even number of roots.** If two roots lie in the interval, the signs at the ends can match. A sign change guarantees at least one root, and could hide three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+
 ## Iteration: rearranging to x = g(x)
 
 Rearrange f(x) = 0 into the form x = g(x). Choose a starting value x₁ and generate xₙ₊₁ = g(xₙ). If the values settle down, the limit α satisfies α = g(α), so α is a root of the original equation.
@@ -133,6 +144,12 @@ x₅ = 39.2385
 
 The values climb away from α in a diverging staircase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
+
 ## The mid-ordinate rule
 
 To estimate ∫ₐᵇ y dx, split [a, b] into n strips of equal width h = (b − a)/n. Take the y-value at the midpoint of each strip as the height of a rectangle.
@@ -150,6 +167,12 @@ h = (2 − 0)/4 = 0.5. Midpoints: 0.25, 0.75, 1.25, 1.75.
 | y = x/(1 + x²) | 0.23529 | 0.48000 | 0.48780 | 0.43077 |
 
 Sum = 1.63386. Estimate = 0.5 × 1.63386 = **0.817** (3 d.p.). The exact value is ½ ln 5 = 0.805, so the estimate is slightly high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
+  <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
+</figure>
+
 
 ## Simpson's rule
 
@@ -176,6 +199,17 @@ h = 0.5, ordinates at x = 0, 0.5, 1, 1.5, 2:
 The estimate is **0.808**, closer to 0.805 than the mid-ordinate result.
 
 **Check the strip count.** A table with 4 ordinates has only 3 strips, so Simpson's rule cannot be applied directly. You need an odd number of ordinates (5, 7, 9 ...). Check the count before you start.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1180" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
+  <figcaption>For a concave curve the chords lie below it so the trapezium rule under-estimates; for a convex curve it over-estimates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--09-simpsons-rule.webp" width="900" height="980" alt="A parabola through the ordinates 1, 1/2, 1/3 of 1/x gives Simpson 1.1111 for 2 strips, compared with mid-ordinate 1.0667 and exact 1.0986." loading="lazy">
+  <figcaption>Simpson's rule integrates the parabola through three ordinates, weights 1, 4, 1, and needs an even number of strips.</figcaption>
+</figure>
+
 
 ## Improving an estimate by increasing the number of steps
 

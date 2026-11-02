@@ -52,6 +52,12 @@ These link to the factors of production: labour earns wages, capital earns inter
 
 **Gross pay** is pay before deductions. **Net pay** (take-home pay) is what remains after income tax and other deductions such as pension contributions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--07-gross-to-net-pay.webp" width="900" height="950" alt="Gross pay of 2,400 pounds loses 280 income tax, 190 national insurance and 120 pension, leaving net pay of 1,810 pounds." loading="lazy">
+  <figcaption>Net pay is gross pay minus income tax, national insurance and pension contributions.</figcaption>
+</figure>
+
+
 ### Income and wealth
 
 | | Income | Wealth |
@@ -115,6 +121,12 @@ Wealth is usually shared less equally than income. In an invented example, the r
 | Discrimination | Unequal pay or access to jobs for similar ability |
 | Government policy | Taxes, benefits and the minimum wage narrow or widen gaps |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--06-inequality-causes-consequences.webp" width="900" height="810" alt="Left: five causes of differences in income and wealth: education and skills, assets owned, inheritance, discrimination and government policy. Centre: the gap, with income per household of 7,500 pounds for the poorest fifth and 55,000 pounds for the richest fifth before tax and benefits, 7.3 times as much. Right: four consequences: poverty and lower living standards, less consumer spending, more spent on benefits, and some reward for effort." loading="lazy">
+  <figcaption>Several causes widen the gap in income, and the gap has consequences for poverty, spending, government and incentives.</figcaption>
+</figure>
+
+
 ### Consequences for an economy
 
 - **Poverty and living standards**: low earners may struggle to afford housing, food and education, which can reduce health and later earnings.
@@ -123,6 +135,22 @@ Wealth is usually shared less equally than income. In an invented example, the r
 - **Incentives**: some inequality rewards effort and skill and encourages enterprise, so too little inequality could weaken incentives.
 
 **Evaluation.** Judge how large the gap is, whether it is falling over time, whether low earners can move up (mobility), and which policies are used. Redistribution narrows gaps but may weaken incentives. A good conclusion decides which consequences matter most in the context given and explains why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--01-income-shares-by-fifth.webp" width="900" height="970" alt="Paired bars show each fifth of households' share of income before and after tax and benefits. The richest fifth gets 44% before and 40% after; the poorest gets 6% then 8%. A dashed line marks the equal 20% share. Richest-to-poorest per household falls from 7.3 to 5.0 times." loading="lazy">
+  <figcaption>Taxes and benefits narrow the gap between the richest and poorest fifth but do not remove it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--05-income-and-net-wealth-sums.webp" width="900" height="1000" alt="Top: a bar of annual gross income made of salary 31,200 pounds (2,600 times 12), rent 4,800 pounds (400 times 12) and interest 150 pounds (2.5 percent of 6,000), total 36,150 pounds. Bottom: assets of 198,000 pounds (house 180,000, savings 12,000, car 6,000) against liabilities of 111,500 pounds (mortgage 110,000 and credit card 1,500) leave net wealth of 86,500 pounds. Invented figures from the lesson." loading="lazy">
+  <figcaption>Income adds salary, rent and interest; net wealth is assets minus liabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## 3.4 Price stability and inflation
 
@@ -166,6 +194,17 @@ Inflation in Year 1 = 6.1%. If the CPI is 109.3 in Year 2, inflation = (109.3 �
 
 **Limitations.** The basket may not match your own spending, households differ by age, income and region, and quality changes are hard to measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--07-cpi-weighted-basket.webp" width="900" height="920" alt="Five categories with weights and Year 1 price indexes: food 0.30 times 106 is 31.8; housing and energy 0.25 times 112 is 28.0; transport 0.15 times 104 is 15.6; clothing 0.10 times 101 is 10.1; recreation 0.20 times 103 is 20.6. They stack to a CPI of 106.1 against the base year of 100, so inflation in Year 1 is 6.1 percent. With a CPI of 109.3 in Year 2, inflation is 3.0 percent, so prices still rise but more slowly. Illustrative figures from the lesson." loading="lazy">
+  <figcaption>Each category weight multiplied by its index adds up to the CPI of 106.1, giving 6.1% inflation in Year 1 and 3.0% in Year 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+
 ### Calculating the effect of inflation on prices
 
 New price = old price × (1 + inflation rate).
@@ -194,6 +233,12 @@ When analysing a table, quote figures, describe the trend, calculate where usefu
 - **Imported inflation**: a fall in the value of the currency makes imported goods and materials dearer.
 - **Expectations**: if people expect rising prices they ask for higher pay, which raises costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--09-imported-inflation-expectations.webp" width="900" height="860" alt="Top: imported inflation as a chain: the currency falls, imports cost more, firms costs rise, prices rise. Bottom: expectations as a loop: people expect rising prices, they ask for higher pay, firms costs rise, firms raise prices, which feeds the next round of expectations." loading="lazy">
+  <figcaption>A falling currency and expectations of rising prices can each push prices up.</figcaption>
+</figure>
+
+
 ### Consequences of inflation
 
 | Group | Possible effects |
@@ -206,6 +251,27 @@ When analysing a table, quote figures, describe the trend, calculate where usefu
 **Worked example 7.** A saver puts £10,000 in an account paying 2% for one year while prices rise 4%. The balance is £10,200, but 10,200 ÷ 1.04 = £9,808 in start-of-year purchasing power. The saver is worse off by about 1.9%.
 
 **Evaluation.** The effect depends on the size of the rise, whether it was expected, how long it lasts, and whether incomes keep pace. The same rise can help one group, such as a borrower, and hurt another, such as a saver.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--02-real-pay-vs-nominal-pay.webp" width="900" height="960" alt="Pay rises 5% and prices 8% from a start index of 100. Real pay is 2,100 / 108 x 100 = 1,944 pounds, 2.8% below the original 2,000." loading="lazy">
+  <figcaption>Pay that rises less than prices buys less, so real pay falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--03-inflation-compounds.webp" width="900" height="925" alt="A 250 pound item steps up to 255.00, 265.20 and 281.11 pounds with inflation of 2%, 4% and 6%. Adding the rates gives 280.00, which is slightly too low." loading="lazy">
+  <figcaption>Each year's rise applies to the already higher price, so inflation compounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--04-falling-inflation-rising-prices.webp" width="900" height="1060" alt="Bars show the inflation rate for years 1 to 10, peaking at 9.2% in year 8. A line shows the price level (year 5 = 100) which rises every year to 130.4 by year 10, even in years 9 and 10 when inflation falls." loading="lazy">
+  <figcaption>When inflation falls, prices still rise, only more slowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--08-saver-real-return.webp" width="900" height="1020" alt="A vertical scale from 9,600 to 10,300 pounds. A saver starts with 10,000 pounds. After a year at 2 percent interest the account holds 10,200 pounds, but with prices up 4 percent that is worth only 9,808 pounds in start-of-year prices, which is about 1.9 percent worse off. Example 7 from the lesson." loading="lazy">
+  <figcaption>With interest at 2% and prices up 4%, a saver's £10,200 is worth only £9,808 in start-of-year prices.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -36,6 +36,12 @@ Trial balances, control accounts and bank reconciliation statements are covered 
 
 The error names used by the specification are in two groups. Errors not revealed by a trial balance are commission, complete reversal, compensating, omission, original entry and principle (six in all). Errors revealed by a trial balance: addition, partial omission, transposition and unequal posting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+
 ## The general journal
 
 The general journal is the book of original entry for transactions that do not belong in any other book, and it is where corrections are recorded. Every journal entry has the same layout: the date, the account to debit, the account to credit, the amounts, and a short narrative.
@@ -47,6 +53,12 @@ The general journal is the book of original entry for transactions that do not b
 | | Narrative: being correction of ... | | |
 
 Work in three steps. First, write what was actually posted. Second, write what should have been posted. Third, the journal is whatever turns the first into the second. Most mistakes come from skipping the first step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--01-ce-journal-three-steps.webp" width="900" height="830" alt="A commission error: a $640 payment to Lowe Supplies was debited to Tarnbeck Traders. Step 1 shows the wrong posting, step 2 the right one, and step 3 the journal dated 14 Mar: debit Lowe Supplies 640, credit Tarnbeck Traders 640, with a narrative. Tarnbeck ends at nil." loading="lazy">
+  <figcaption>Write what was posted, what should have been, then the journal that turns one into the other.</figcaption>
+</figure>
+
 
 ## Errors the trial balance does not reveal
 
@@ -64,6 +76,17 @@ In each of these, total debits still equal total credits, so no suspense account
 A complete reversal needs double the original figure because the first entry must be cancelled and then the right entry made. Check this by drawing the bank account: it should end up with a debit of 350, but currently has a credit of 350, so the swing is 700.
 
 For the compensating error, the profit effect needs care. Electricity is an expense, so undercasting it overstated profit by 90. Discount received is income, so undercasting it understated profit by 90. The mistakes cancel, but each individual account was wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--01-complete-reversal-doubles.webp" width="900" height="810" alt="Customer Vaughn paid 350 but the entry was posted the wrong way round. The bank account shows a credit of 350 instead of a debit of 350. On a number line the balance must move from minus 350 to plus 350, a swing of 700, so the journal is debit bank 700 and credit Vaughn 700." loading="lazy">
+  <figcaption>A reversed entry must be cancelled and then entered correctly, so the journal uses double the figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--02-ce-six-hidden-journals.webp" width="900" height="820" alt="Six errors a trial balance misses, each with its correcting journal and profit effect: commission 640 (none), complete reversal 700 (none), compensating 90 (none), omission 220 (+220), original entry 90 (-90), principle 2,400 (+2,400)." loading="lazy">
+  <figcaption>None of the six uses the suspense account; only income and expense accounts change profit.</figcaption>
+</figure>
+
 
 ## Errors the trial balance does reveal, and the suspense account
 
@@ -130,6 +153,27 @@ The account closes to nil, which confirms that the four errors explain the whole
 
 The net adjustment is an increase of 6,920. The two largest effects come from errors the trial balance never showed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--02-mereside-suspense.webp" width="900" height="777" alt="The suspense account opens with a credit balance of 1,320. Debits of 1,200, 90 and 180 and a credit of 150 correct four errors and both sides total 1,470. Errors 5 and 6 never pass through suspense." loading="lazy">
+  <figcaption>Four errors explain the whole 1,320 difference, so the suspense account closes to nil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--03-mereside-corrected-profit.webp" width="900" height="940" alt="A running total from first profit 41,600 through +90, +180, -150, +6,000 and +800 to corrected profit 48,520. The bank error does not change profit. The axis starts at 41,000." loading="lazy">
+  <figcaption>Only corrections touching income or expense accounts move profit; the net rise here is 6,920.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--03-ce-mereside-suspense.webp" width="900" height="930" alt="The Mereside Hardware suspense account opens with a 1,320 credit. Errors 1 to 3 debit it 1,200, 90 and 180; error 4 credits it 150. Both sides total 1,470 so it closes to nil. Errors 5 and 6 never reached it." loading="lazy">
+  <figcaption>Four errors explain the whole $1,320 difference; the other two were invisible to the trial balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--04-ce-mereside-corrected-profit.webp" width="900" height="960" alt="Profit first calculated 41,600. Error 1 changes nothing; errors 2 to 6 add 90, add 180, deduct 150, add 6,000 and add 800, giving 41,690, 41,870, 41,720, 47,720 and corrected profit 48,520 (net +6,920). Bars are to scale." loading="lazy">
+  <figcaption>Only corrections touching income or expense accounts change profit; the two biggest came from errors the trial balance hid.</figcaption>
+</figure>
+
+
 ## The effect of errors on profit
 
 The test is simple. Profit is income less expenses, so a correction changes profit only if one of the two accounts in the journal is an income or an expense account.
@@ -145,6 +189,12 @@ The test is simple. Profit is income less expenses, so a correction changes prof
 A mistake in sales or purchases moves gross profit and net profit by an equal sum. An error in an expense account changes only profit for the year. A statement of corrected profit starts with the original figure, adds the corrections that raise profit, deducts those that lower it, and ends with the corrected figure. Show each item on its own line with a plus or minus.
 
 If the question gives a loss, treat a loss as a negative profit: a correction that raises profit by 500 turns a loss of 300 into a profit of 200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--04-does-it-change-profit.webp" width="900" height="975" alt="Crediting income or expense accounts raises profit and debiting them lowers it. Journals between asset, liability or capital accounts do not change profit. A compensating error on electricity and discount received overstates and understates profit by 90 each, so the effects cancel." loading="lazy">
+  <figcaption>Profit changes only when an income or expense account is in the journal.</figcaption>
+</figure>
+
 
 ## Common errors in answers
 

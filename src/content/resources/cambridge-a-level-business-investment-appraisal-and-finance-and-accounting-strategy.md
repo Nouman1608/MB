@@ -62,6 +62,27 @@ ARR: total inflows = £400,000. Total depreciation = 240,000 − 30,000 = £210,
 
 Interpretation: a business usually compares ARR with a target (criterion) rate or with the return on other uses of the money, and with a maximum payback period it will accept. Payback of 2 years 9 months in a five-year project says nothing about the inflows that arrive after the cost is recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--05-ia-arr.webp" width="900" height="1090" alt="Annual profits 18, 48, 78, 38 and 8 thousand pounds average 38 thousand; average investment is (240 + 30) / 2 = 135 thousand; ARR = 28.1 percent." loading="lazy">
+  <figcaption>ARR divides average annual profit by average investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--03-ia-valdrick-payback.webp" width="900" height="935" alt="Cumulative inflow for Project A is 60, 150, 270, 350 and 400 thousand pounds; the cost of 240 thousand is repaid 0.75 of the way through Year 3, so payback is 2 years 9 months. Cash after payback is ignored." loading="lazy">
+  <figcaption>Payback for Valdrick Project A is 2 years 9 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--06-payback-period.webp" width="900" height="940" alt="Cumulative cash flow columns for years 0 to 5 cross zero halfway through year 4: 36,000 short at the end of year 3 and 72,000 arriving in year 4 gives 3 years 6 months." loading="lazy">
+  <figcaption>Payback is when cumulative cash flow reaches zero: here 3 years 6 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+
 ## 10.3.3 Net present value (NPV)
 
 Money received later is worth less than money now, because it could be earning interest, inflation erodes it and it is less certain. **Discounted cash flow** converts future cash flows to present values. **Net present value** is the sum of the present values of all net cash inflows minus the initial cost.
@@ -80,6 +101,17 @@ Valdrick Project A at a 10% discount rate (factors 0.909, 0.826, 0.751, 0.683, 0
 | 5 | £30,000 residual | 0.621 | £18,630 |
 
 Total present value = £323,320. **NPV = 323,320 − 240,000 = £83,320.** The project is worthwhile on this measure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--04-ia-valdrick-npv.webp" width="900" height="964" alt="Each cash flow is shrunk by its discount factor: 54,540; 74,340; 90,120; 54,640; 31,050 and 18,630 for the resale. They total 323,320; less the 240,000 cost (not discounted) leaves an NPV of 83,320 pounds." loading="lazy">
+  <figcaption>Project A at 10% has a net present value of £83,320.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
+  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
+</figure>
+
 
 ## 10.3.4 Investment appraisal decisions
 
@@ -105,6 +137,17 @@ Valdrick also considers Project B, with the same cost and residual value and inf
 
 All three depend on forecast cash flows, which become less reliable the further ahead they look. A sound recommendation uses more than one method, then adds qualitative judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--06-ia-a-vs-b.webp" width="900" height="1170" alt="Paired bars for projects A and B: payback 2 yrs 9 mths vs 2 yrs 6 mths (B better), ARR 28.1 vs 16.3 percent (A), NPV 83,320 vs 39,190 pounds (A)." loading="lazy">
+  <figcaption>The three methods can pick different winners.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--05-ia-method-compare.webp" width="900" height="1010" alt="Mini charts compare payback (stops at repayment), ARR (average) and NPV (discounted flows). Payback uses neither all years nor timing, ARR uses all years but not timing, NPV uses both. Qualitative factors to add: strategy fit, employees, brand, environment, reliable forecasts, competitors, flexibility, funding." loading="lazy">
+  <figcaption>Each appraisal method uses and ignores different information, so add qualitative judgement.</figcaption>
+</figure>
+
+
 ## 10.4.1 Accounting data in strategy; the annual report
 
 A strategy needs a starting point and a way to check results. The **statement of financial position** records the assets a business holds and the liabilities it has (its ability to fund growth, repay loans and survive a downturn). The **statement of profit or loss** shows revenue, costs and profit (which products or years earn well). Together they help managers set targets, choose between growth and consolidation, pick funding, and judge progress.
@@ -120,6 +163,12 @@ An **annual report**, published by a company, typically includes the financial s
 | Managers | Performance against targets and competitors |
 | Government | Profit for tax purposes, employment |
 | Competitors | The strengths and weaknesses of a rival |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--06-ia-stakeholders.webp" width="900" height="1100" alt="An annual report with financial statements, directors report and auditor report is at the centre of seven stakeholders, each with what they look for: shareholders profit and dividends, lenders gearing, employees job security, suppliers liquidity and payables days, managers targets, government tax and employment, competitors a rival strengths." loading="lazy">
+  <figcaption>Different stakeholders read the same annual report for different things.</figcaption>
+</figure>
+
 
 ## 10.4.2 Ratio analysis in strategic decisions
 
@@ -153,6 +202,22 @@ ROCE is the same because it uses profit from operations, before interest. Gearin
 **Growth and other strategies.** Growth can push up inventory and receivables, so efficiency ratios and liquidity may worsen, and the cost of expansion can cut margins before it lifts revenue. Cost cutting raises margins; price cuts lower margin but may lift inventory turnover; heavy capital spending lifts capital employed and lowers ROCE until returns arrive. Always link the ratio change to the strategy.
 
 **Limitations of published accounts and ratios.** They are historical, so they may not predict the future. Different accounting policies and year ends reduce comparability. Ratios ignore non-financial factors such as quality and morale. A single ratio can mislead, window dressing can flatter the statements, and inflation, seasonality and differences in business model distort comparisons. Use several ratios, trends, and context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--07-ia-ratios-trend.webp" width="900" height="940" alt="Grouped bars of gross margin, operating margin and ROCE for Oswin Bay last year and this year and for Embergate; revenue rose 14.3 percent but margins and ROCE fell." loading="lazy">
+  <figcaption>Revenue growth cost Oswin Bay margin and return.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--08-ia-debt-equity.webp" width="900" height="1000" alt="Two stacked bars of 12.0 million capital employed: share issue gives gearing 25.0 percent, 6 percent loan gives 41.7 percent; ROCE 15.8 percent in both; dividend cover 2.6 vs 2.4." loading="lazy">
+  <figcaption>Debt and shares change gearing and cover but not ROCE.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--07-ia-dividend.webp" width="900" height="940" alt="Profit of 1.08 million pounds split as 0.54 dividend and 0.54 kept gives cover 2.0; halving the dividend to 0.27 keeps 0.81, doubles cover to 4.0 and halves yield. More cash is kept but income investors may be disappointed." loading="lazy">
+  <figcaption>Halving the dividend doubles dividend cover and keeps more cash.</figcaption>
+</figure>
+
 
 ## Common errors
 

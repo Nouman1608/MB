@@ -62,17 +62,45 @@ H – C – C – C – C – H
     H   H   H   H
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
+
 ### Key terms (4.3)
 
 - **Homologous series**: a family with the same general formula and functional group, similar chemical properties, and a trend in physical properties. Each member differs from the next by CH₂.
 - **Functional group**: the atom or group of atoms that gives the series its reactions, such as C=C or –OH.
 - **Isomerism**: compounds with the same molecular formula but different structural formulae.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+
 ### Naming (4.4)
 
 You name compounds with up to six carbon atoms. The stem gives the longest carbon chain: meth- (1), eth- (2), prop- (3), but- (4), pent- (5), hex- (6). The ending gives the series: -ane, -ene, -anol, -anoic acid. A number shows the position of a double bond or –OH group, counted from the end nearer to it: but-1-ene, propan-1-ol. A branch is named as a side group with its position: 2-methylpropane.
 
 **Worked example: isomers of C₄H₁₀ (4.5).** Put all four carbons in a line: butane, CH₃CH₂CH₂CH₃. Put three in a line with one branch on the middle carbon: 2-methylpropane, CH₃CH(CH₃)CH₃. Moving the branch to an end carbon just makes a four-carbon chain again, so there are only two isomers. C₅H₁₂ has three: pentane, 2-methylbutane and 2,2-dimethylpropane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--11-pentane-isomers.webp" width="900" height="1026" alt="Three structural isomers of C5H12 drawn as displayed formulae: pentane, a straight chain of five carbons; 2-methylbutane, a four-carbon chain with a methyl branch on carbon 2; and 2,2-dimethylpropane, a three-carbon chain with two methyl branches on the middle carbon. All three have the same molecular formula, C5H12, and every carbon has four bonds." loading="lazy">
+  <figcaption>C5H12 has three structural isomers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--06-naming-stem-ending.webp" width="900" height="1090" alt="Stem gives carbon number (meth 1, eth 2, prop 3, but 4); ending gives the functional group (-ane, -ene, -ol, -oic acid), shown with ethane, ethene, ethanol and ethanoic acid." loading="lazy">
+  <figcaption>Name = stem for carbons + ending for the functional group.</figcaption>
+</figure>
+
 
 ### Types of reaction (4.6)
 
@@ -99,6 +127,12 @@ Mechanisms are not required.
 
 Going down the list the molecules get larger, so the **colour gets darker**, the **boiling point gets higher** and the **viscosity increases** (thicker, flows less easily).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--01-fractions-six.webp" width="900" height="910" alt="A fractionating column hot at the bottom and cool at the top is divided into six bands: refinery gases, gasoline, kerosene, diesel, fuel oil and bitumen, each labelled with its use. The bands darken going down. Larger molecules, higher boiling point and thicker liquid are at the bottom." loading="lazy">
+  <figcaption>The six fractions of the Edexcel lesson from top to bottom of the column.</figcaption>
+</figure>
+
+
 ### Fuels and combustion (4.11, 4.12)
 
 A **fuel** releases heat energy when burned. **Complete combustion** in plenty of oxygen gives carbon dioxide and water. **Incomplete combustion** in limited oxygen gives carbon monoxide and/or carbon (soot), plus water.
@@ -116,6 +150,12 @@ Incomplete:  2C₃H₈ + 7O₂ → 6CO + 8H₂O
 - **Sulfur dioxide**: some fuels contain sulfur impurities, which burn: S + O₂ → SO₂.
 - **Acid rain**: sulfur dioxide and oxides of nitrogen dissolve in rainwater and react to form acids, so the rain becomes acidic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--12-acid-rain-route.webp" width="900" height="1010" alt="Three steps. In a hot car engine nitrogen and oxygen from the air react: N2 + O2 gives 2NO, and then 2NO + O2 gives 2NO2. Separately, sulfur impurities in some fuels burn: S + O2 gives SO2. Nitrogen dioxide and sulfur dioxide dissolve in rainwater and form acids, so the rain becomes acidic. Every equation is balanced." loading="lazy">
+  <figcaption>How oxides of nitrogen and sulfur dioxide lead to acid rain.</figcaption>
+</figure>
+
+
 ### Cracking (4.17, 4.18)
 
 **Catalytic cracking** breaks long-chain alkanes into shorter-chain alkanes and alkenes. Conditions: a **silica or alumina** catalyst and a temperature of **600–700 °C**.
@@ -127,6 +167,12 @@ C₁₂H₂₆ → C₈H₁₈ + 2C₂H₄
 Check the equation by counting: 12 carbons and 26 hydrogens on each side.
 
 **Why crack?** Fractional distillation produces more of the long-chain fractions (such as fuel oil) than is needed, and less of the short-chain fractions (such as gasoline) than is needed. Cracking converts the surplus long chains into the shorter chains that are in demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--03-cracking-c12h26.webp" width="900" height="940" alt="A twelve-carbon chain C12H26 is shown breaking, with a silica or alumina catalyst at 600 to 700 degrees Celsius, into an eight-carbon alkane C8H18 and two ethene molecules C2H4. Carbons 12 = 8+2+2 and hydrogens 26 = 18+4+4." loading="lazy">
+  <figcaption>Cracking C12H26 into C8H18 and two C2H4, with the atom count checked.</figcaption>
+</figure>
+
 
 ## (c) Alkanes
 
@@ -168,12 +214,24 @@ Functional group **–OH** (4.29C). Names and structural formulae (4.30C): metha
 | Oxygen in the air with microbes (microbial oxidation) | Ethanoic acid: C₂H₅OH + O₂ → CH₃COOH + H₂O |
 | Heating with potassium dichromate(VI) in dilute sulfuric acid | Ethanoic acid (the dichromate turns from orange to green) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--02-ethanol-dichromate.webp" width="900" height="900" alt="Displayed formulae show ethanol being oxidised to ethanoic acid on heating. Two test tubes show acidified potassium dichromate(VI) changing from orange to green when heated with ethanol. Paper 2 only." loading="lazy">
+  <figcaption>Heating ethanol with acidified dichromate(VI) gives ethanoic acid and an orange to green colour change.</figcaption>
+</figure>
+
+
 ### Making ethanol (4.32C, 4.33C)
 
 - **Hydration of ethene**: C₂H₄ + H₂O → C₂H₅OH. Steam, **phosphoric acid** catalyst, about **300 °C**, about **60–70 atm**.
 - **Fermentation**: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Enzymes in **yeast**, about **30 °C**, **absence of air**.
 
 Reasons for the fermentation conditions: without air, the ethanol is not oxidised to ethanoic acid. At about 30 °C the enzymes work at a good rate; at low temperature the reaction is slow, and at high temperature the enzymes are denatured.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--13-fermentation-conditions.webp" width="900" height="1210" alt="Paper 2 only. Fermentation of glucose by yeast enzymes in a sealed flask with no air gives ethanol and carbon dioxide: C6H12O6 gives 2C2H5OH plus 2CO2. Without air the ethanol is not oxidised. A sketch graph of enzyme rate against temperature rises from cold, is good around 30 degrees Celsius, then falls steeply when the enzymes are denatured at high temperature." loading="lazy">
+  <figcaption>Why fermentation is done at about 30 C and without air.</figcaption>
+</figure>
+
 
 ## (f) Carboxylic acids -- Paper 2 only
 
@@ -242,6 +300,17 @@ n HOOC–COOH + n HO–CH₂CH₂–OH → –[OC–COO–CH₂CH₂–O]ₙ– 
 ```
 
 Each ester link forms by losing one H₂O. Some polyesters, called **biopolyesters**, are biodegradable (4.50C).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--14-polyester-ethanedioic.webp" width="900" height="920" alt="Paper 2 only. Ethanedioic acid, HOOC-COOH, and ethanediol, HO-CH2CH2-OH, join to make a polyester. At each ester link one water molecule is lost. The repeat unit is -[OC-COO-CH2CH2-O]n-, drawn with its ester link highlighted. The atom count checks: C2H2O4 plus C2H6O2 minus 2H2O leaves C4H4O4, the repeat unit." loading="lazy">
+  <figcaption>Ester links form with loss of water; this is the repeat unit of the lesson polyester.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--15-pvc-ptfe-repeat-units.webp" width="900" height="830" alt="Two addition polymers. Chloroethene, CH2=CHCl, becomes the repeat unit -[CH2-CHCl]n- of poly(chloroethene): the C=C opens into a single bond and the chlorine stays on its carbon. Tetrafluoroethene, CF2=CF2, becomes -[CF2-CF2]n-, with all four fluorines unchanged. The atoms in the repeat unit are the same as in the monomer." loading="lazy">
+  <figcaption>The repeat unit has the same atoms as the monomer with the C=C opened.</figcaption>
+</figure>
+
 
 ## Common errors
 

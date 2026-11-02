@@ -39,6 +39,12 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [pri
 | Background radiation | Radiation around us all of the time, from the environment, from space and from devices such as hospital X-ray machines |
 | Ionising radiation | Radiation that can remove electrons from atoms and so make ions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
+
 ## The atom at a glance (3.7.1 a to e)
 
 - Atom radius about 10⁻¹⁰ m. The nucleus is far smaller (about 10⁻¹⁵ m) and holds almost all of the mass.
@@ -51,6 +57,17 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [pri
 
 **Ions.** Lose electrons, positive ion. Gain electrons, negative ion. Charge = protons – electrons. The nucleus does not change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--02-ions-electrons.webp" width="900" height="980" alt="Rows of proton and electron dots for Na atom (11/11, charge 0), Na+ (11/10, +1) and Cl- (17/18, -1)." loading="lazy">
+  <figcaption>Charge equals protons minus electrons; the nucleus is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--05-atom-nucleus-pea-scale.webp" width="900" height="920" alt="If the nucleus is a pea of radius 1 cm, the atom radius is 1 cm x 10^5 = 1 km, so the atom is mostly empty space." loading="lazy">
+  <figcaption>Atom radius is 10^5 times nucleus radius: a pea inside a 1 km atom.</figcaption>
+</figure>
+
+
 ## Alpha scattering in three lines (3.7.1 b)
 
 | Observation | Meaning |
@@ -60,6 +77,17 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [pri
 | Very few bounce back | A tiny nucleus holds the charge and the mass |
 
 Mark-winning habit: write observation, then conclusion, as a pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--09-alpha-scattering-paths.webp" width="900" height="950" alt="Computed paths of alpha particles repelled by a tiny positive nucleus: far ones go almost straight on, a nearer one is deflected through a small angle and one aimed almost at the nucleus bounces back." loading="lazy">
+  <figcaption>Computed alpha paths: most pass straight on, a few deflect, very few bounce back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
 
 ## Notation and particle counting (3.7.1 f)
 
@@ -80,6 +108,12 @@ Isotopes: the same bottom number and a different top number. Their chemistry is 
 - Random: there is no telling when a given nucleus will go.
 - Not affected by chemical or physical processes. Heat, pressure and chemical bonding make no difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--08-random-decay-two-runs.webp" width="900" height="1090" alt="Two grids of the same 42 nuclei show different nuclei decaying and different counts in the same time. Heating, compressing and chemical change do not affect decay." loading="lazy">
+  <figcaption>Decay is random and unaffected by physical or chemical processes.</figcaption>
+</figure>
+
+
 ## The radiations (3.7.2 e, g)
 
 | | Alpha | Beta | Gamma |
@@ -92,6 +126,17 @@ Isotopes: the same bottom number and a different top number. Their chemistry is 
 | Range in air | a few cm | tens of cm to a few m | very long |
 
 **Link to remember:** strongly ionising means energy is used up quickly, so the range is short. Weakly ionising means it travels far.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--07-absorber-count-rates.webp" width="900" height="880" alt="Corrected count rates: none 1450, paper 1444 (fall of 6, no alpha), 3 mm aluminium 475 (fall of 969, beta present), thick lead 22 (gamma cut to near background)." loading="lazy">
+  <figcaption>Absorber data show which radiations a source emits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
 
 ## Nuclear equations (3.7.2 f)
 
@@ -112,6 +157,12 @@ Total mass number and total atomic number must match on both sides.
 
 **Worked reminder.** ²³⁰₉₀Th emits an alpha particle: A = 230 – 4 = 226, Z = 90 – 2 = 88, so the new nucleus is ²²⁶₈₈X. Now ⁶⁰₂₇Co emits a beta particle: A = 60, Z = 27 + 1 = 28, so ⁶⁰₂₈X. You do not have to name the new element.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
+
 ## Background and count rates (3.7.2 d)
 
 Background count rate = counts / time with no source. Corrected count rate = count rate with source – background count rate.
@@ -119,6 +170,12 @@ Background count rate = counts / time with no source. Corrected count rate = cou
 **Worked reminder.** 2130 counts in 3 minutes with the source: 2130 / 3 = 710 per minute. Background is 30 per minute. Corrected rate = 710 – 30 = **680 per minute**.
 
 Sources of background: radioactive substances in the environment (for example radon from rocks), radiation from space, and devices such as hospital X-ray machines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--06-background-count-correction.webp" width="900" height="940" alt="No source: 84 counts in 10 min is 8.4 per minute. With a source: 1200 in 2 min is 600 per minute. Corrected 600 - 8.4 = 591.6, about 592 per minute." loading="lazy">
+  <figcaption>Subtract the background count rate from the count rate with the source.</figcaption>
+</figure>
+
 
 ## Identifying a source with absorbers
 

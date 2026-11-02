@@ -53,6 +53,12 @@ Both figures must cover the same period and use the same unit, for example kayak
 
 Utilisation is easiest to judge when compared: with last year, with a target, or with a rival in the same industry. A figure on its own says little. It also describes capacity, not demand: a business can be at 72.5% because customers are not buying, because stock is short, or because a machine is down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--08-capacity-utilisation-gauge.webp" width="900" height="760" alt="Ardmoor Kayaks at 72.5 percent (1,740 of 2,400) with an 85 percent target of 2,040 kayaks, and Oakshott Furniture at 112.5 percent (5,400 against 4,800), beyond the 100 percent line." loading="lazy">
+  <figcaption>Utilisation can sit below, or beyond, 100 percent of maximum output.</figcaption>
+</figure>
+
+
 ## 2. Operating under maximum capacity
 
 Running well below capacity means the business pays for resources it does not fully use. Likely impacts:
@@ -73,6 +79,17 @@ Running well below capacity means the business pays for resources it does not fu
 | Unit cost | 356.90 | 321.43 |
 
 Total costs rise by 54,000, but each kayak costs 35.47 less to make. That fall comes entirely from fixed costs being shared out. It only helps if the extra kayaks can be sold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--11-ardmoor-unit-cost.webp" width="900" height="900" alt="Stacked bars: 150 variable plus 206.90 fixed (356.90) at 1,740 kayaks; 150 plus 171.43 (321.43) at 2,100. Fall 35.47. Ardmoor unit cost at 72.5 and 87.5 percent utilisation." loading="lazy">
+  <figcaption>Ardmoor unit cost falls from 356.90 to 321.43 as fixed cost per kayak is shared over more output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
 
 ## 3. Operating over maximum capacity
 
@@ -114,6 +131,12 @@ The syllabus does not name specific methods, so the groups below are the usual o
 
 **Worked example 4.** Wyndmoor Printing can complete 8,000 print runs a year and completes 5,000 (62.5%). It could close one of its presses, cutting maximum capacity to 6,000 runs. Utilisation becomes 5,000 ÷ 6,000 × 100 = **83.3%** without selling a single extra run. The cost is redundancy payments and a lower ceiling if demand later recovers. A promotion that lifted output to 6,000 runs would also reach 75%, but only if customers respond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--09-wyndmoor-two-levers.webp" width="900" height="930" alt="Wyndmoor Printing: 62.5 percent now; closing a press gives 83.3 percent; winning orders to 6,000 runs gives 75 percent." loading="lazy">
+  <figcaption>Utilisation rises by cutting capacity or raising output.</figcaption>
+</figure>
+
+
 ## 5. Outsourcing
 
 **Outsourcing** means using another business to carry out an activity or process that the firm could do itself, such as payroll, packaging, deliveries, IT support or manufacturing a component. It is a decision about what to do in-house and what to buy in. The syllabus does not define the term, so this is the standard meaning.
@@ -145,6 +168,17 @@ The syllabus does not name specific methods, so the groups below are the usual o
 
 Cost alone says outsource below 150,000 packs and pack in-house above it. A good answer then adds non-cost factors: Is demand steady? Does the contractor protect freshness and food safety? Is there spare in-house equipment already paid for?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--10-daleway-make-or-buy.webp" width="900" height="930" alt="Cost lines for packing: in-house 48,000 plus 0.30 per pack, outsourced 0.62 per pack; they meet at 150,000 packs where both cost 93,000." loading="lazy">
+  <figcaption>Outsource below 150,000 packs, pack in-house above, on cost alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--12-outsourcing-gains-risks.webp" width="900" height="1000" alt="Four gains and five risks of outsourcing. Possible positive and negative impacts of outsourcing." loading="lazy">
+  <figcaption>Possible gains and risks when an activity is outsourced.</figcaption>
+</figure>
+
+
 ## 6. Writing impact and evaluation answers
 
 The syllabus lists these command words and meanings: **analyse** is to examine in detail to show meaning, identify elements and the relationship between them; **evaluate** is to judge or calculate the quality, importance, amount or value of something; **justify** is to support a case with evidence or argument. For this section:
@@ -155,6 +189,12 @@ The syllabus lists these command words and meanings: **analyse** is to examine i
 - **Evaluation**: weigh it. Useful factors include how long the position lasts, how large the gap is, the nature of the product, the firm's finances, how reliable the contractor is and whether the activity is core.
 
 End an evaluation with a judgement that answers the question, not a summary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--13-impact-answer-chain.webp" width="900" height="1040" alt="Point (higher unit costs), application (Ardmoor 72.5%, 356.90), analysis chain, evaluation factors and a judgement. How to build an impact and evaluation answer." loading="lazy">
+  <figcaption>Build an impact answer as point, application, analysis chain and evaluation.</figcaption>
+</figure>
+
 
 ## Common errors
 

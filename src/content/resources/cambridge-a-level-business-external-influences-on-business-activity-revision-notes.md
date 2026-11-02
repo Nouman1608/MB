@@ -58,6 +58,12 @@ Law as control, seven areas to recall:
 
 Method for any law question: name the area, say what the law requires, state the cost or change for this firm, then say whether the firm can adapt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--09-ex-law-controls.webp" width="900" height="772" alt="Seven rows, each pairing an area of law with its likely effect on a business: employment practices lead to more HR time and training; work conditions and health and safety to equipment and training costs; wage levels to higher labour costs; marketing behaviour to care over advertising claims; competition law to limits on growth by takeover; location decisions to higher site costs; and rules on particular goods and services to lost sales or a licence being needed." loading="lazy">
+  <figcaption>Each of the seven areas where law controls business has a likely effect on the firm.</figcaption>
+</figure>
+
+
 ## 6.1.2 Economic
 
 Government can help business and encourage enterprise (grants, subsidies, lower tax, training, advice), constrain it (taxes, regulation, licences) and deal with market failure (taxes, subsidies, regulation, direct provision, competition rules).
@@ -102,6 +108,12 @@ Method in steps for a policy question:
 - Demography at three levels: local, national, global. Think age structure, birth and death rates, migration.
 - Effects: demand for age-linked goods, labour supply, pension and training costs, choice of location.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--11-ex-ageing-town.webp" width="900" height="760" alt="A town grows from 50,000 to 54,000 people (+8 percent) while the over-65 share rises from 16 to 24 percent, so over-65s grow from 8,000 to 12,960 (+62 percent)." loading="lazy">
+  <figcaption>An ageing population grows some markets and shrinks others.</figcaption>
+</figure>
+
+
 ## 6.1.4 Technological
 
 Technology changes products, methods and sales channels. Gains: lower unit costs, new markets, better quality. Costs: investment, retraining, job losses, obsolete stock. Judgement: timing, cost, and what customers and rivals are doing.
@@ -127,6 +139,12 @@ Technology changes products, methods and sales channels. Gains: lower unit costs
 - Influence on behaviour: law, customer opinion, input costs, risk of disruption.
 - Environmental audit: used by the business to find waste and support claims; used by stakeholders to check those claims.
 - Sustainability: affects product design, supply chains and reporting. Gains: lower long-term cost, brand strength. Costs: investment now.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--13-ex-waste-per-unit.webp" width="900" height="720" alt="Waste per unit falls from 0.60 kg (54,000 kg over 90,000 units) to 0.36 kg (39,600 kg over 110,000 units), a fall of 40 percent." loading="lazy">
+  <figcaption>An environmental audit can show waste per unit falling even as output rises.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -155,6 +173,12 @@ Then state a judgement and the condition that would change it.
 - Social audit versus environmental audit: social conduct versus environmental impact.
 - Stronger currency versus weaker currency: effect on exporters and importers is opposite.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--14-ex-policy-types.webp" width="900" height="800" alt="Monetary (interest rates, money supply), fiscal (tax and spending), supply-side (training, deregulation) and exchange rate policy, each with its typical business effect." loading="lazy">
+  <figcaption>The four policy types and how each reaches businesses.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Define nationalisation.
@@ -181,6 +205,32 @@ Then state a judgement and the condition that would change it.
 9. Monetary, fiscal, supply-side, exchange rate policies.
 10. £2.4 million. Possible reasons: profit leaves the country, local firms lose out, jobs may be few.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--10-ex-tax-elasticity.webp" width="900" height="830" alt="Sales tax rises from 15 to 20 percent, so the shelf price goes from 57.50 to 60 pounds (+4.35 percent). With elasticity of -1.4, units sold fall 6.09 percent to about 9,391. Revenue before tax falls from 500,000 to 469,565 pounds." loading="lazy">
+  <figcaption>Elastic demand means a tax rise hits the seller hard.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--12-ex-multinational-profit.webp" width="900" height="780" alt="A multinational makes 12 million pounds profit and pays 25 percent local tax: 3 million stays with the host country and 9 million may leave." loading="lazy">
+  <figcaption>Whether a multinational is a good deal depends on the jobs created and the alternative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--10-ex-tariff-landed-cost.webp" width="900" height="810" alt="Two bars to the same scale. At the supplier the goods cost 80 pounds. After crossing the border a 12 percent tariff, 12 percent of 80 which is 9.60, is added, so the landed cost is 89.60 pounds before any other import charges." loading="lazy">
+  <figcaption>A 12% tariff on 80 pounds of goods raises the landed cost to 89.60 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--11-ex-interest-rate-rise.webp" width="900" height="780" alt="Two bars of annual interest on a 240,000 pound variable-rate loan. At a rate of 5 percent the interest is 12,000 pounds. At 7 percent it is 16,800, a rise of 4,800 pounds, which is 40 percent more. The extra cost cuts profit unless prices rise." loading="lazy">
+  <figcaption>A rise in the interest rate from 5% to 7% raises the annual interest on a 240,000 pound loan by 40%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing the policy or factor without linking it to the business in the case.
@@ -191,6 +241,12 @@ Then state a judgement and the condition that would change it.
 - Writing about CSR as always positive without cost or credibility issues.
 - Not separating the immediate effect from the longer-term one.
 - Ending an evaluation without a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--08-ex-ownership-switch.webp" width="900" height="860" alt="Two switches of ownership. Privatisation moves a business from government to private owners: advantages are tighter cost control and cash for the government; disadvantages are that loss-making services may be cut and a private monopoly may lift prices. Nationalisation moves it from private owners to government: advantages are protecting jobs and key services and rescuing a failing key firm; disadvantages are that taxpayers meet losses and there is less pressure to cut costs. The case decides which points matter." loading="lazy">
+  <figcaption>Privatisation and nationalisation each bring gains and risks that depend on the case.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

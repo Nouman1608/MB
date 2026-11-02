@@ -32,6 +32,12 @@ Other links: [practice questions](/resources/ocr-gcse-chemistry-introducing-chem
 - Ionic compounds: simplest ratio of ions, no charges shown in the final formula.
 - Read symbols from the supplied Periodic Table. Know the first 20 elements and Groups 1, 7 and 0 without looking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--01-formula-from-model.webp" width="900" height="890" alt="Two ball-and-stick models. One nitrogen bonded to three hydrogens gives NH3. Two carbons each with three hydrogens give C2H6, which is not simplified to CH3." loading="lazy">
+  <figcaption>Count every atom in a molecule to write its molecular formula.</figcaption>
+</figure>
+
+
 ## C3.1d: formulae from ions
 
 | Charge | Ions to know |
@@ -50,6 +56,12 @@ Other links: [practice questions](/resources/ocr-gcse-chemistry-introducing-chem
 4. Use brackets round a group ion if you need two or more.
 
 Reminder: iron(III) oxide is Fe³⁺ and O²⁻; LCM 6; 2 Fe and 3 O, so Fe₂O₃. Magnesium nitrate is Mg²⁺ and 2 NO₃⁻, so Mg(NO₃)₂.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
+</figure>
+
 
 ## C3.1b: balanced equations and half equations
 
@@ -71,6 +83,17 @@ Reminder: Al + O₂ → Al₂O₃ becomes 4Al + 3O₂ → 2Al₂O₃ (Al 4 = 4, 
 | Chloride ion to chlorine | 2Cl⁻ → Cl₂ + 2e⁻ |
 | Iron(III) ion to iron(II) ion | Fe³⁺ + e⁻ → Fe²⁺ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-introducing-chemical-reactions--06-half-equations-charge.webp" width="900" height="895" alt="Three half equations with chips for each species and tallies of atoms and charge: Cu2+ + 2e- gives Cu (charge 0 both sides); 2Br- gives Br2 + 2e- (charge -2 both sides); 2H+ + 2e- gives H2 (charge 0 both sides)." loading="lazy">
+  <figcaption>A half equation balances only when atoms and total charge match on both sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+
 ## C3.1f: state symbols
 
 (s) solid, (l) liquid, (g) gas, (aq) dissolved in water. Pure water is (l). A precipitate is (s). A solution is (aq).
@@ -86,6 +109,12 @@ Reminder: Al + O₂ → Al₂O₃ becomes 4Al + 3O₂ → 2Al₂O₃ (Al 4 = 4, 
 5. Check atoms and total charge.
 
 Reminder: barium chloride solution + sodium sulfate solution gives Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s). Spectators: Na⁺ and Cl⁻.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-introducing-chemical-reactions--09-ionic-spectators.webp" width="900" height="870" alt="Silver nitrate and potassium iodide give yellow AgI. K+ and NO3- stay dissolved unchanged (spectators), so the ionic equation is Ag+(aq) + I-(aq) -&gt; AgI(s). Two beakers." loading="lazy">
+  <figcaption>Spectator ions are left out of the ionic equation.</figcaption>
+</figure>
+
 
 ## C3.1g and C3.1h: the mole -- Higher Tier only
 
@@ -105,6 +134,22 @@ Reminder: 0.500 mol of Ca(NO₃)₂ (Mr = 164) has a mass of 82.0 g.
 
 **Must-know distinction:** amount (in moles) is not the same as mass (in grams). Two substances with the same mass usually contain different numbers of moles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-introducing-chemical-reactions--07-avogadro-one-particle.webp" width="900" height="1040" alt="One mole of gold (197 g) divided by 6.02e23 gives 3.27e-22 g per atom; one mole of water (18 g) gives 2.99e-23 g per molecule; 0.300 mol of ammonia (5.10 g) times 6.02e23 gives 1.81e23 molecules." loading="lazy">
+  <figcaption>Divide a molar mass by the Avogadro constant for one particle; multiply moles by it to count particles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
+
 ## C3.1i and C3.1j: conservation of mass
 
 - Total mass of products = total mass of reactants. Atoms are rearranged, not made or destroyed.
@@ -112,6 +157,12 @@ Reminder: 0.500 mol of Ca(NO₃)₂ (Mr = 164) has a mass of 82.0 g.
 - **Open system, reading falls:** a gas product escapes (for example, carbon dioxide from an acid and a carbonate).
 - **Open system, reading rises:** a gas from the air joins on (for example, a metal reacting with oxygen to make an oxide).
 - Particle-model explanation: the same atoms exist before and after; the reading changes only because particles enter or leave the container.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-introducing-chemical-reactions--10-mass-open-closed.webp" width="900" height="1140" alt="A sealed flask keeps its reading (148.36 g). An open flask falls to 148.24 g as hydrogen escapes. Iron wool heated in open air gains mass as oxygen joins. Three scenes with a balance." loading="lazy">
+  <figcaption>Mass only seems to change when gas crosses the container boundary.</figcaption>
+</figure>
+
 
 ## C3.1k and C3.1l: stoichiometry, limiting reactants, reacting masses -- Higher Tier only
 
@@ -137,6 +188,22 @@ Reminder: to make 6.8 g of ammonia by N₂ + 3H₂ → 2NH₃, you need 6.8 ÷ 1
 **What a limiting reactant does:** once it is used up the reaction stops, so the amount of product is fixed by it. Adding more of the reactant in excess makes no extra product; adding more of the limiting one does, until the other runs out.
 
 **Must-know distinction:** the limiting reactant is not always the one with the smaller mass. Compare moles against the ratio in the equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-introducing-chemical-reactions--11-stoich-deduce.webp" width="900" height="930" alt="1.08 g Al, 4.26 g Cl2 and 5.34 g AlCl3 are 0.0400, 0.0600 and 0.0400 mol; ratio 1 : 1.5 : 1 becomes 2 : 3 : 2, giving 2Al + 3Cl2 -&gt; 2AlCl3. Masses of 1.08 g aluminium, 4.26 g chlorine and 5.34 g aluminium chloride are divided by 27, 71 and 133.5 to give 0.0400, 0.0600 and 0.0400 mol, shown as 4, 6 and 4 blocks of 0.01 mol." loading="lazy">
+  <figcaption>Convert masses to moles, divide by the smallest and clear the fraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-introducing-chemical-reactions--12-limiting-reactant.webp" width="900" height="844" alt="0.20 mol Na and 0.080 mol Cl2 react in 2:1 ratio. Chlorine runs out, giving 0.16 mol (9.4 g) NaCl and leaving 0.04 mol (0.92 g) Na. Sodium 0.20 mol and chlorine 0.080 mol react as 2Na + Cl2 gives 2NaCl, shown in blocks of 0.02 mol: ten sodium blocks and four chlorine blocks." loading="lazy">
+  <figcaption>Compare moles against the equation ratio to find the limiting reactant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
 
 ## Maths skills for C3.1 (CM3.1i to CM3.1iv)
 

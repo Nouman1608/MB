@@ -49,6 +49,12 @@ The marketing mix is the set of decisions a business makes about price, product,
 3. Link it to the business: sales, revenue, profit or reputation.
 4. Where a context is given, use it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 2. How the elements work together (1.4.3)
 
 The four elements must fit each other and the target market. Changing one usually means reviewing the others.
@@ -73,6 +79,17 @@ The four elements must fit each other and the target market. Changing one usuall
 - Competitive environment is about rivals. Consumer needs is about customers. Technology is about how the business reaches and sells to them.
 - E-commerce mainly changes place, but it also affects price (comparison) and product (range).
 - Digital communication changes promotion first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--10-place-physical-digital.webp" width="900" height="830" alt="Two columns. Physical channels (shop, stall, delivery) let customers touch the goods but cost rent. Digital channels (website, app, online marketplace) reach customers far away and are open at all hours but customers cannot touch the goods." loading="lazy">
+  <figcaption>Place can be a physical or a digital channel, and each has a trade-off.</figcaption>
+</figure>
+
 
 ## 3. Business plans (1.4.4)
 
@@ -128,6 +145,22 @@ A business opens month 1 with £1,200. Cash in is £3,900 and cash out is £4,35
 ### Using the context in a mix question
 
 When a case study describes a business, pick out three things before writing: who the target market is, who the rivals are, and what has changed (customer needs, technology or competition). Then name the element, say what the business should do with it and give the reason it suits those customers. A recommendation with no reason tied to the stem gains little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-the-marketing-mix-and-the-business-plan--01-wrenchwell-profit.webp" width="900" height="870" alt="Horizontal waterfall bars. Revenue is 4,200 pounds (35 x 120). Variable costs of 1,320 and fixed costs of 1,850 are taken off, leaving a profit of 1,030 pounds per month." loading="lazy">
+  <figcaption>Wrenchwell earns £1,030 profit in a normal month of 120 repairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-the-marketing-mix-and-the-business-plan--02-wrenchwell-cash-balance.webp" width="900" height="840" alt="A line chart of the closing bank balance: 2,000 pounds at the start, 570 after month 1 (net -1,430), 1,120 after month 2 (+550) and 2,150 after month 3 (+1,030)." loading="lazy">
+  <figcaption>The balance dips to £570 in month 1 because of the tools, then recovers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
 
 ## 4. Purpose of planning (1.4.4)
 

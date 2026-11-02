@@ -42,6 +42,17 @@ These notes condense section 6.1 (outcomes 6.1.1 to 6.1.4) of the Cambridge Inte
 3. Compare the same good across countries. The lower opportunity cost marks the comparative advantage.
 4. Check that each country has the advantage in a different good.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--01-comparative-advantage-ppcs.webp" width="900" height="1000" alt="Two straight-line PPCs for Alpha (48 tea or 30 cloth) and Beta (48 tea or 36 cloth) share a tea axis. Alpha gives up 0.625 cloth per tea and Beta 0.75, so Alpha has the comparative advantage in tea. Beta gives up fewer tea per cloth, so it has the advantage in cloth." loading="lazy">
+  <figcaption>Flatter PPC means a lower opportunity cost of tea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--07-absolute-advantage-hours.webp" width="900" height="810" alt="Alpha needs 5 hours per tea and 8 per cloth; Beta needs 9 and 12. Alpha needs fewer hours for both so has an absolute advantage in both." loading="lazy">
+  <figcaption>Absolute advantage compares the resources needed per unit.</figcaption>
+</figure>
+
+
 ### Worked reminder 1
 
 Country C produces 12 tonnes of rice or 8 metres of fabric per worker-day. Country D produces 6 tonnes of rice or 3 metres of fabric.
@@ -75,6 +86,17 @@ The exchange price of 1 metre of fabric must lie between 1.5 and 2 tonnes of ric
 
 Example: Country C could make 80 metres of fabric from 10 workers. At 1.75 tonnes of rice per metre, all fabric could be swapped for 80 × 1.75 = 140 tonnes of rice. Its PPC would allow at most 120 tonnes if everyone made rice. The TPC runs from 80 metres to 140 tonnes, outside the PPC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--02-gains-from-specialising.webp" width="900" height="950" alt="World output rises from 48 tea and 33 cloth to 48 tea and 36 cloth after complete specialisation. At 3 tea for 2 cloth Alpha ends with 16 cloth (+1) and Beta with 20 cloth (+2), with no loss of tea." loading="lazy">
+  <figcaption>Specialising and trading gives 3 more cloth with no tea lost, shared 1 and 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--03-tpc-vs-ppc.webp" width="900" height="960" alt="Alpha PPC runs from 48 tea to 30 cloth. The TPC runs from 48 tea to 32 cloth (48 x 2/3) and lies outside the PPC except at the tea-only point. At 24 tea the PPC allows 15 cloth but trade allows 16." loading="lazy">
+  <figcaption>Trading at 3 tea for 2 cloth lets Alpha consume beyond its PPC.</figcaption>
+</figure>
+
+
 ## 6.1.3 The terms of trade
 
 | Item | Detail |
@@ -102,6 +124,17 @@ Another check: a country sells 200 units at 15 cu and imports cost 12 cu. Export
 
 Productivity gains can lower export prices, which lowers the index but raises competitiveness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--05-terms-of-trade-revenue.webp" width="900" height="980" alt="A 20% rise in export prices with elastic demand (PED -1.8) cuts volume to index 64 and revenue to 76.8, a 23.2% fall. With inelastic demand (PED -0.5) volume is 90 and revenue 108, an 8% rise." loading="lazy">
+  <figcaption>An improved terms of trade can raise or lower export revenue depending on elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--08-terms-of-trade-causes.webp" width="900" height="910" alt="Seven causes with their effect on the terms of trade: rising export demand, appreciation and (at first) higher home inflation improve it; dearer oil, depreciation, more commodity suppliers worsen it; higher export productivity may worsen it." loading="lazy">
+  <figcaption>Each cause moves export or import prices and so the index.</figcaption>
+</figure>
+
+
 ### Impact chain
 
 1. State the direction of change in the index.
@@ -109,6 +142,12 @@ Productivity gains can lower export prices, which lowers the index but raises co
 3. Link to export revenue through the price elasticity of demand: elastic means revenue falls when prices rise; inelastic means revenue rises.
 4. Link to the current account, living standards, inflation (imported costs) and competitiveness.
 5. Judge: the cause matters. A worsening caused by higher productivity may be good news; one caused by weak world demand is not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--04-terms-of-trade-index.webp" width="900" height="970" alt="Export prices stay at 114 while import prices rise from 95 to 120. The terms of trade index (exports divided by imports times 100) falls from 120.0 to 95.0, a fall of 20.8%, so the terms of trade worsen." loading="lazy">
+  <figcaption>The terms of trade index is export prices over import prices, so dearer imports lower it.</figcaption>
+</figure>
+
 
 ## 6.1.4 Limitations of the theories
 
@@ -130,6 +169,17 @@ Productivity gains can lower export prices, which lowers the index but raises co
 - How diversified are the exports?
 - Is the advantage likely to last?
 - Who gains and who loses?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--09-increasing-opportunity-costs.webp" width="900" height="840" alt="Each extra 20 cloth costs 10, then 15, then 25 tea, which is 0.50, 0.75 and 1.25 tea per cloth. Comparative advantage shrinks as cloth output rises." loading="lazy">
+  <figcaption>Opportunity cost rises as a country specialises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--10-transport-costs-erase-gain.webp" width="900" height="830" alt="The gain from specialising was 3 cloth. Shipping worth 3 cloth leaves a net gain of 0, and shipping worth more (4 is illustrative) leaves a net loss." loading="lazy">
+  <figcaption>Transport costs can wipe out the gain from trade.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -89,6 +89,12 @@ generated and detected using **piezo-electric transducers**: crystals that
 change shape when a voltage is applied (producing ultrasound) and generate
 a voltage when mechanically deformed (detecting reflected ultrasound).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--01-aphy-medical-ultrasound-echo.webp" width="900" height="970" alt="A probe sends a pulse down through fat, muscle and bone; echoes from the fat-muscle and muscle-bone boundaries return after 26 and 78 microseconds. Because the pulse goes there and back, the bone surface is at d = ct/2 = 6.0 cm. The muscle-bone echo is far stronger (41 percent) than the fat-muscle one (1.4 percent)." loading="lazy">
+  <figcaption>Pulse-echo ultrasound: echo time gives depth through d = ct/2, and echo strength depends on the impedance change at each boundary.</figcaption>
+</figure>
+
+
 ## Ultrasound imaging
 
 Every tissue in the body has a **specific acoustic impedance**:
@@ -143,6 +149,17 @@ the distance travelled. Greater attenuation, alongside reflection at
 boundaries, limits how deep into the body a useful ultrasound image can be
 obtained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--02-aphy-medical-ultrasound-gel.webp" width="900" height="840" alt="Without gel an air gap (Z about 408) lies against skin (Z 1.60 million) and 99.9 percent of the ultrasound is reflected. Gel with an impedance close to skin (1.52 million) reflects only 0.07 percent, so nearly all the beam enters the body. This is impedance matching, not lubrication." loading="lazy">
+  <figcaption>Gel matches the impedance of the skin so that almost none of the ultrasound is reflected at the surface.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--03-aphy-medical-doppler.webp" width="900" height="1100" alt="A probe sends ultrasound at 60 degrees to blood flowing along a vessel and the echo is shifted in frequency by delta f = 2 f v cos(theta)/c. For 5.0 MHz, 0.45 m/s and c = 1570 m/s the shift is 1.4 kHz at 60 degrees; it is largest along the flow and zero at 90 degrees." loading="lazy">
+  <figcaption>The Doppler shift depends on cos of the angle between beam and flow, so the beam must not be directed across the vessel.</figcaption>
+</figure>
+
+
 ## Production of X-rays
 
 **X-rays** are produced by accelerating electrons through a large potential
@@ -161,6 +178,12 @@ produced:
 A photon can carry at most all of an electron's kinetic energy, so no
 photon of shorter wavelength (higher energy) than this can be produced —
 λ_min depends only on the accelerating p.d., not on the target material.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--04-aphy-medical-xray-production.webp" width="900" height="1210" alt="A heated filament releases electrons that a high voltage accelerates onto a tungsten target in a copper anode inside a lead-lined, evacuated tube. The spectrum has a sharp cut-off at the shortest wavelength hc/eV: 1.55 and 3.11 times 10 to the minus 11 m for 80 kV and 40 kV. Narrow characteristic lines depend on the target and appear only if eV is large enough." loading="lazy">
+  <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
+</figure>
+
 
 ## X-ray imaging and attenuation
 
@@ -193,6 +216,12 @@ I/I₀ = e^(−μx) = e^(−0.20 × 5.0) = e^(−1.0) ≈ 0.37
       ≈ 1.55 × 10⁻¹¹ m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--05-aphy-medical-attenuation-contrast.webp" width="900" height="1060" alt="X-ray intensity falls exponentially, I = I0 e^(-mu x), with a half-value thickness ln2/mu (3.3 cm for mu = 0.21 per cm). A beam crossing a 1.8 cm bone block ends at 7.8 percent of its original intensity against 15.1 percent through tissue alone, about half. That difference is the image contrast." loading="lazy">
+  <figcaption>Bone has a larger attenuation coefficient than soft tissue, so the beam behind it is weaker: this is image contrast.</figcaption>
+</figure>
+
+
 ## Computed tomography (CT)
 
 A **CT scanner** rotates an X-ray tube (and detectors) around the patient,
@@ -206,6 +235,12 @@ outcome: compared with a single plain X-ray image, CT gives far better
 soft-tissue contrast and full 3-D information, but at the cost of a
 substantially **higher radiation dose**, longer scan time and higher
 expense.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--06-aphy-medical-ct-scanner.webp" width="900" height="1110" alt="A CT scanner rotates an X-ray tube so that a thin fan beam crosses one slice of the body from many angles, recorded by a ring of detectors. A computer combines the readings into a grey-scale image whose pixel brightness shows how strongly each small volume absorbs. Moving the couch gives a series of slices that build a 3-D image." loading="lazy">
+  <figcaption>CT combines many angled X-ray views of each slice, then stacks slices into a 3-D image.</figcaption>
+</figure>
+
 
 ## PET scanning
 
@@ -236,6 +271,12 @@ E = mc² = 9.11 × 10⁻³¹ × (3.00 × 10⁸)² ≈ 8.19 × 10⁻¹⁴ J ≈ 0
 so each annihilation produces two photons of 0.511 MeV, not one photon of
 1.022 MeV — the energy is shared between the pair, one mass's worth of
 energy per photon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

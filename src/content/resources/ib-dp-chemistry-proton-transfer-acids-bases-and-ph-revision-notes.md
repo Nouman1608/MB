@@ -46,6 +46,12 @@ H⁺(aq) and H₃O⁺(aq) both stand for a proton in water. H₃O⁺ is the oxon
 
 Reminder: in CH₃COOH(aq) + HPO₄²⁻(aq) ⇌ CH₃COO⁻(aq) + H₂PO₄⁻(aq), ethanoic acid is the acid and HPO₄²⁻ the base. Pairs: CH₃COOH / CH₃COO⁻ and H₂PO₄⁻ / HPO₄²⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--01-proton-transfer.webp" width="900" height="1030" alt="Nitric acid, shown as an NO3 group with one hydrogen, passes a proton along a curved arrow to a lone pair on water. This gives NO3- (the conjugate base) and H3O+ (the conjugate acid). Each pair differs by exactly one H+." loading="lazy">
+  <figcaption>The acid loses H+, the base gains it, and each species forms a conjugate pair with its product.</figcaption>
+</figure>
+
+
 ### Amphiprotic species in action
 
 HSO₄⁻ as an acid: HSO₄⁻(aq) + OH⁻(aq) → SO₄²⁻(aq) + H₂O(l)
@@ -92,6 +98,37 @@ Reminders:
 | pH meter or probe | A precise digital value after calibration with buffers; can record continuously |
 
 A sketch of pH against [H⁺] is a falling curve, steep at first and then levelling off, because pH is logarithmic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--02-amphiprotic.webp" width="900" height="1040" alt="HCO3- is shown gaining H+ to become H2CO3 (acting as a base) and losing H+ to become CO3 2- (acting as an acid). Water also reacts with itself to give H3O+ and OH-." loading="lazy">
+  <figcaption>An amphiprotic species such as HCO3- or water can donate or accept a proton.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--03-ph-tenfold.webp" width="900" height="970" alt="Two beakers of hydroiodic acid, 0.040 and 0.0040 mol per dm cubed, hold ten and one H+ particles (each particle is 0.0040 mol per dm cubed). The pH rises from 1.40 to 2.40: tenfold less H+ means pH one higher." loading="lazy">
+  <figcaption>A tenfold dilution of a strong acid raises the pH by exactly one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--04-ph-vs-h-curve.webp" width="900" height="880" alt="pH against hydrogen ion concentration from 0 to 0.05 mol per dm cubed falls steeply at low concentration and flattens at high concentration. Points show 0.0045 mol per dm cubed at pH 2.35 and 0.040 at pH 1.40." loading="lazy">
+  <figcaption>pH against [H+] is a curve: steep at low [H+] and flat at high [H+].</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--05-kw-seesaw.webp" width="900" height="970" alt="Three see-saws show acidic, neutral and basic solutions at 298 K. The side with more ions sits lower, but the product of [H+] and [OH-] is always 1.0 x 10^-14. The basic panel is 0.020 mol per dm cubed KOH with pH 12.30." loading="lazy">
+  <figcaption>At 298 K [H+][OH-] = 1.0 x 10-14, so more H+ means less OH-.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--06-strength-vs-concentration.webp" width="900" height="980" alt="A two by two grid: strong acids split completely and weak acids only slightly, in concentrated and dilute solutions. Concentrated weak ethanoic acid has many molecules with only one split; dilute strong nitric acid has few molecules, all split." loading="lazy">
+  <figcaption>Strength is the fraction ionized; concentration is how much is dissolved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--07-equilibrium-direction.webp" width="900" height="1080" alt="In HCN + F- in equilibrium with CN- + HF, HF is the stronger acid and CN- the stronger base. A long arrow to the left and a short arrow to the right show the equilibrium lies left, towards the weaker acid and weaker base. Schematic bars compare the strengths." loading="lazy">
+  <figcaption>Acid-base equilibria lie towards the weaker acid and weaker base.</figcaption>
+</figure>
+
 
 ## Strong and weak (Reactivity 3.1.6)
 
@@ -149,6 +186,12 @@ Strong acid in the flask, strong base from the burette (monoprotic only):
 Base in the flask gives the mirror image. The equivalence point is also called the stoichiometric point because the reactants are in their equation ratio. Its volume lets you find an unknown concentration: n = c × V for the titrant, then use the 1 : 1 ratio.
 
 Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.00 cm³ of HCl, then [HCl] = (0.0800 × 18.75) / 15.00 = 0.100 mol dm⁻³, and the curve's starting pH is 1.00.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--08-strong-strong-ph-curve.webp" width="900" height="900" alt="A computed curve for 20.00 cm cubed of 0.0800 mol per dm cubed HNO3 titrated with 0.100 mol per dm cubed KOH. It starts at pH 1.10, rises slowly, jumps from 3.56 to 10.44 over 0.20 cm cubed, passes equivalence at 16.00 cm cubed and pH 7, then flattens towards pH 13.0." loading="lazy">
+  <figcaption>The curve starts at the acid pH, has a near-vertical section at 16.00 cm3, and flattens towards the pH of the KOH.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -60,6 +60,17 @@ Three points matter in answers.
 
 Businesses mix the factors in different proportions. A farm may use a lot of land and few workers. A software studio may use mostly labour and little capital. These contrasts help when a question asks how two businesses differ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--01-four-factors.webp" width="900" height="980" alt="Four cards for Ottersby Bakery: land is the rented unit and ingredients; labour is six bakers; capital is two ovens and a van; enterprise is Hana, who takes the risk and organises the rest. A note says capital is equipment and buildings, not money." loading="lazy">
+  <figcaption>The four factors, shown with Ottersby Bakery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--12-bus-factor-mix.webp" width="900" height="840" alt="Two panels with illustrative sizes. A farm uses a lot of land, drawn as a large field, and few workers, drawn as one person. A software studio uses mostly labour, drawn as a row of six people, and little capital, drawn as one small computer." loading="lazy">
+  <figcaption>A farm and a software studio use very different mixes of land, labour and capital.</figcaption>
+</figure>
+
+
 ### Worked example: identifying the factors
 
 Ottersby Bakery rents a unit on an industrial estate, employs six bakers, owns two industrial ovens and a refrigerated van, and was started by Hana Ottersby, who put in her savings and runs the business.
@@ -79,6 +90,17 @@ added value per unit = selling price per unit - cost of bought-in inputs per uni
 For a number of units, multiply by the quantity. Added value is not profit. Wages, rent, advertising and other costs still have to be paid out of it.
 
 Added value also explains why businesses exist. A customer will pay more for a finished product than the inputs would cost separately, because the business has turned them into something more useful or desirable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--10-bus-added-value-candles.webp" width="900" height="790" alt="Three stacked bars. Original: selling price 7.50, bought-in inputs 2.40, added value 5.10 (68 percent of the price), 9,180 a month at 1,800 candles. Bulk wax: price 7.50, inputs 2.10, added value 5.40, 9,720 a month. Bulk wax plus gift box: price 8.90, inputs 2.70 (2.10 plus a 0.60 box), added value 6.20, 11,160 a month. Added value rises from 5.10 to 6.20 per candle, a rise of 1.10." loading="lazy">
+  <figcaption>Added value per candle rises from 5.10 to 6.20 after cheaper wax and a priced gift box.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
 
 ### Worked example: calculating added value
 
@@ -119,6 +141,12 @@ Added value = 8.90 - 2.70 = 6.20 per candle; 6.20 x 1,800 = 11,160
 
 Together the two changes raise added value per candle from 5.10 to 6.20, a rise of 1.10. This assumes it still sells 1,800 candles. If the higher price makes sales fall, the monthly total could be lower, so a full answer notes this assumption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+
 ## Opportunity cost
 
 Resources are limited, so choosing one use for them means giving up another. Opportunity cost is the benefit of the next best alternative that is given up when a choice is made. Two points matter:
@@ -142,6 +170,17 @@ Opportunity cost is not only about big purchases. An owner who spends Saturday o
 
 Opportunity cost is useful for evaluation. If the benefit chosen is bigger than the benefit forgone, the decision is supported. If the forgone alternative carried less risk, a justified answer may still prefer it. Link the point to the business in the question and the objectives in the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--11-bus-opportunity-cost-bakery.webp" width="900" height="800" alt="Three bars of expected extra profit a year for a 15,000 budget: new oven 4,200, second van 3,600, shop extension 3,100. The bakery chooses the oven, the highest. The opportunity cost is the next best alternative given up, the second van at 3,600 a year. The extension at 3,100 is not counted. The decision still looks sensible: 4,200 gained against 3,600 forgone." loading="lazy">
+  <figcaption>The opportunity cost of buying the oven is the second van, 3,600, not the extension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+
 ## 1.2.1 Types of economic sector
 
 Economic activity can be grouped by the kind of work done, and by who owns and controls the organisation. These are two separate ways of classifying, so a business has one answer for each.
@@ -158,6 +197,12 @@ The sectors link in a chain of production. Windermoor Rice is a fictional exampl
 
 Some businesses work in more than one sector. A farm that grows tomatoes and also runs a plant making sauce and a roadside shop is primary, secondary and tertiary. When classifying, look at the main activity described, and say if there is more than one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+
 ### Private and public sectors
 
 | Sector | Who owns and controls it | Typical aim |
@@ -168,6 +213,12 @@ Some businesses work in more than one sector. A farm that grows tomatoes and als
 Examples: a family restaurant and a mobile phone retailer are private sector. A state school, a government-run water supplier and a state hospital are public sector. The "typical aim" column states general tendencies, not rules. A private business can have social aims, and a public organisation may still need to control its costs.
 
 The two classifications combine. A state hospital is tertiary and public. A privately owned iron-ore mine is primary and private. A privately owned bakery that bakes and sells in its own shop is secondary and tertiary, and private.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--02-sector-and-ownership.webp" width="900" height="730" alt="A grid of primary, secondary and tertiary rows against private and public columns. An iron-ore mine is primary and private, a bakery with its own shop is secondary and tertiary and private, a phone retailer is tertiary and private, a state hospital is tertiary and public." loading="lazy">
+  <figcaption>Sector (type of work) and ownership are two separate classifications.</figcaption>
+</figure>
+
 
 ## Case-study skills for this topic
 

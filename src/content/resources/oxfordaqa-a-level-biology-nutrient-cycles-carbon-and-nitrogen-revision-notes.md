@@ -90,6 +90,12 @@ Air above a field read 455 ppm before dawn and 361 ppm at midday. The fall is 45
 
 Worked reminder: a pest takes 12 days per generation in warm weather and 18 days in cool weather. In a 144-day season, that is 144 ÷ 12 = 12 generations and 144 ÷ 18 = 8 generations. The warm season gives 4 more, which is 50% more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
+
 ## 3.3.5.3 The nitrogen cycle
 
 | Process | Change | Conditions | Bacteria |
@@ -120,11 +126,23 @@ A field gains 30 (fixation) and 100 (fertiliser) kg ha⁻¹ year⁻¹ of nitroge
 5. Their aerobic respiration lowers dissolved oxygen.
 6. Fish and other aerobic organisms die.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
+</figure>
+
+
 ### Worked reminder: percentage nitrogen
 
 Ammonium nitrate NH₄NO₃, Mr = 80, N = 28. Percentage nitrogen = 28 ÷ 80 × 100 = 35%.
 
 Remember that the same carbon atom can pass through several of these steps in turn: fixed in photosynthesis, eaten, respired by a consumer, and fixed again by a producer. The nitrogen atoms in the nitrogen cycle follow a similar loop through proteins, ammonium, nitrate and back into plant protein.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--05-nitrogen-cycle.webp" width="900" height="1200" alt="Nitrogen gas is fixed to ammonium by bacteria. Dead matter and urea are ammonified to ammonium by saprobionts, nitrifying bacteria oxidise ammonium to nitrite and nitrate, and plants take up nitrate. Denitrifying bacteria in waterlogged anaerobic soil return nitrogen to the air." loading="lazy">
+  <figcaption>Five bacterial processes move nitrogen between air, soil and living things.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -184,6 +202,12 @@ Remember that the same carbon atom can pass through several of these steps in tu
 - Writing that carbon dioxide "causes" a pest problem, with no mention of temperature or life cycle.
 - Treating two data points as proof of cause.
 - Describing a graph without quoting values and units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

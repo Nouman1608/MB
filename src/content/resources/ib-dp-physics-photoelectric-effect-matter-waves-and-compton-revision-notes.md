@@ -75,6 +75,22 @@ Energy conversions: 1 eV = 1.60 × 10⁻¹⁹ J. Convert before substituting int
 
 **Worked reminder.** Light of wavelength 360 nm needs a stopping potential of 0.80 V. Photon energy = hc/λ = 5.52 × 10⁻¹⁹ J = 3.45 eV. Φ = 3.45 - 0.80 = **2.65 eV**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--01-photon-vs-work-function.webp" width="900" height="1100" alt="Two panels for a metal with work function 2.90 eV. A 450 nm photon carries 2.76 eV, less than the work function, so the electron stays. A 310 nm photon carries 4.01 eV: 2.90 eV frees the electron and the remaining 1.11 eV is its maximum kinetic energy." loading="lazy">
+  <figcaption>One photon gives all its energy to one electron, so Emax = hf - Φ, and no electron escapes if hf &lt; Φ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--02-frequency-vs-intensity.webp" width="900" height="1230" alt="Three graphs for a metal with work function 2.10 eV. Emax is zero below the threshold frequency 5.07 x 10^14 Hz and then rises linearly. With 350 nm light the photocurrent is proportional to beam power (1.13 and 2.25 x 10^-7 A at 0.40 and 0.80 mW), while Emax stays at 1.45 eV." loading="lazy">
+  <figcaption>Frequency sets the energy of each electron; intensity sets how many are released per second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--03-stopping-potential-graph.webp" width="900" height="880" alt="A straight line of stopping potential against frequency meets the frequency axis at 5.78 x 10^14 Hz and the Vs axis at -2.39 V. A gradient triangle between (6.00, 0.09) and (11.0, 2.16) gives 4.14 x 10^-15 V Hz^-1 = h/e, so h = 6.62 x 10^-34 J s and Φ = 2.39 eV." loading="lazy">
+  <figcaption>Gradient = h/e, frequency intercept = f₀, Vs intercept = -Φ/e.</figcaption>
+</figure>
+
+
 ## Matter waves
 
 * Electrons, neutrons and atoms diffract. Diffraction is a wave property, so this shows the wave nature of matter.
@@ -92,6 +108,12 @@ Energy conversions: 1 eV = 1.60 × 10⁻¹⁹ J. Convert before substituting int
 
 **Worked reminder.** Doubling the accelerating voltage multiplies p by √2, so λ is divided by √2. Quadrupling it halves λ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--04-de-broglie-scale.webp" width="900" height="1020" alt="A log scale of wavelength. An electron accelerated through 85.0 V has λ = 1.33 x 10^-10 m, comparable to a 1.00 nm gap, so diffraction shows. A 0.058 kg ball at 40 m/s has λ = 2.86 x 10^-34 m, about 5 x 10^23 times smaller, so its wave behaviour never shows." loading="lazy">
+  <figcaption>Wave behaviour shows only when λ = h/p is comparable to the gap; for everyday objects it never is.</figcaption>
+</figure>
+
+
 ## Compton scattering
 
 * A photon scatters from an electron and emerges with a **longer wavelength**, because it transfers energy to the electron.
@@ -106,6 +128,22 @@ Energy conversions: 1 eV = 1.60 × 10⁻¹⁹ J. Convert before substituting int
 3. For the energy given to the electron, subtract hc/λf from hc/λi (free electron at rest).
 
 **Worked reminder.** A photon of wavelength 0.0300 nm is scattered through 60°. cos 60° = 0.5, so Δλ = 1.21 × 10⁻¹² m and λf = **3.12 × 10⁻¹¹ m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--05-electron-single-gap.webp" width="900" height="1010" alt="A beam of 85.0 V electrons passes through a 1.00 nm gap onto a screen. The computed intensity pattern has a central maximum and first minima at sin θ = λ/b = 0.133, so θ = 7.64°. A dashed pattern for four times the voltage (half the wavelength) is narrower." loading="lazy">
+  <figcaption>The first minimum is at sin θ = λ/b; faster electrons have a smaller λ and a narrower pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--06-compton-geometry.webp" width="900" height="940" alt="A photon of wavelength 0.0500 nm hits an electron at rest and is deflected through 90 degrees with the longer wavelength 0.0524 nm. The electron recoils down and to the right, gaining about 1.15 keV. The shift is 2.43 x 10^-12 m, a 4.86% increase." loading="lazy">
+  <figcaption>The scattered photon has a longer wavelength because it gave energy to the recoiling electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--07-compton-shift-angle.webp" width="900" height="910" alt="The Compton shift in units of 10^-12 m follows 2.43(1 - cos θ): zero at 0 degrees, 2.43 at 90 degrees and the greatest value 4.86 at 180 degrees. A measured shift of 1.00 x 10^-12 m corresponds to about 54 degrees. The shift does not depend on the incident wavelength." loading="lazy">
+  <figcaption>Δλ rises from zero at θ = 0 to twice h/m_e c at 180 degrees, whatever the incident wavelength.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

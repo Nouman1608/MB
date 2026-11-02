@@ -36,6 +36,12 @@ Mathematics contributes **form, logic and relationships**. The rest come from ot
 
 Memory hook for the three: **F**orm is about what something is, **L**ogic is about why a conclusion holds, **R**elationships are about how quantities connect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--05-sixteen-key-concepts.webp" width="900" height="980" alt="Three highlighted cards at the top: form (shape told apart by properties), logic (reasoning you can defend) and relationships (links between quantities). Below are the other 13 key concepts as plain chips: aesthetics, change, communication, communities, connections, creativity, culture, development, global interactions, identity, perspective, systems, and time, place and space. They can still appear in mathematics units." loading="lazy">
+  <figcaption>Mathematics contributes three of the 16 key concepts.</figcaption>
+</figure>
+
+
 ## The three mathematics key concepts
 
 | Key concept | General MYP meaning | Meaning in MYP mathematics |
@@ -55,6 +61,12 @@ Do not confuse MYP logic with symbolic logic. The guide keeps them separate.
 
 **Reminder.** A triangle has sides 5, 12 and 13. Check 5² + 12² = 25 + 144 = 169 = 13². The converse of Pythagoras' theorem applies, so the triangle is right-angled. The form is decided by a property, not a drawing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--06-form-rhombus-from-properties.webp" width="900" height="1180" alt="Points A(0,0), B(4,1), C(5,5) and D(1,4) are plotted and joined. AB and DC are both (4,1) and BC and AD are both (1,4), so opposite sides are equal and parallel. AB squared and AD squared both equal 17, so adjacent sides are equal and ABCD is a rhombus. The diagonals AC and BD cross at (2.5, 2.5) at a right angle. The dot product of AB and AD is 8, not 0, so angle A is about 61.9 degrees and ABCD is not a square." loading="lazy">
+  <figcaption>ABCD is a rhombus, not a square, because angle A is not 90 degrees.</figcaption>
+</figure>
+
+
 ### Logic: method in steps
 
 1. State the claim clearly.
@@ -63,6 +75,12 @@ Do not confuse MYP logic with symbolic logic. The guide keeps them separate.
 4. Simplify to the required form and state the conclusion.
 
 **Reminder.** Claim: the sum of two consecutive even numbers is never a multiple of 4. Write them as 2n and 2n + 2. Sum = 4n + 2. Since 4n is a multiple of 4, the sum leaves remainder 2. The claim is true for every whole n. Tests: 2 + 4 = 6, 4 + 6 = 10, 6 + 8 = 14.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--07-logic-consecutive-squares.webp" width="900" height="700" alt="A 5 by 5 grid of cells stands for (n + 1) squared with n = 4. A 4 by 4 block of 16 cells is n squared. The remaining 9 cells form an L shape: two strips of n = 4 cells, which make 2n = 8, plus one corner cell. So (n + 1) squared minus n squared = 2n + 1, which is always odd because 2n is even. Tests such as 4 squared minus 3 squared = 7, 6 squared minus 5 squared = 11 and 10 squared minus 9 squared = 19 only support the claim; the picture and algebra cover every n." loading="lazy">
+  <figcaption>The difference of consecutive squares is 2n + 1, always odd.</figcaption>
+</figure>
+
 
 ### Relationships: method in steps
 
@@ -73,6 +91,12 @@ Do not confuse MYP logic with symbolic logic. The guide keeps them separate.
 5. Use it to predict, then say where it is valid.
 
 **Reminder.** The rule y = 2x + 3 gives y = 17 when x = 7. If y = 45, then 2x = 42 and x = 21.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--08-taxi-fare-four-forms.webp" width="900" height="900" alt="The same relationship in four forms. Words: fare equals a fixed charge plus a charge per kilometre, 3.50 dollars fixed and 1.20 dollars per km. Rule: F = 3.5 + 1.2d. Table: 0 km costs 3.50, 10 km costs 15.50, 20 km costs 27.50. Graph: a straight line starting at 3.5 on the fare axis and rising 1.2 per km, with the point for 14 km at 20.30 dollars. A 14 km trip costs 3.5 + 1.2 x 14 = 20.30 dollars." loading="lazy">
+  <figcaption>One relationship written four ways.</figcaption>
+</figure>
+
 
 ## Glossary terms to use precisely
 
@@ -151,6 +175,22 @@ Check the sentence contains a big idea, not just a topic name such as "similar t
 Notice how the questions move from one correct answer, to an idea that applies widely, to a judgement that needs evidence.
 
 **Reminders of factual answers:** gradients of perpendicular lines multiply to −1; area scales by k² and volume by k³ for scale factor k; independent events satisfy P(A and B) = P(A) × P(B).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--09-coin-die-independence.webp" width="900" height="720" alt="A grid with two rows, head and tail, and six columns, the die faces 1 to 6: 12 equally likely outcomes. The head row is 6 of 12 cells, probability 1/2. The column for six is 2 of 12 cells, probability 1/6. They overlap in one cell, 1/12, and 1/2 times 1/6 equals 1/12, so the events are independent." loading="lazy">
+  <figcaption>Head and six overlap in 1 of 12 cells: 1/2 x 1/6 = 1/12.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
 
 ## Links to other subjects' key concepts
 

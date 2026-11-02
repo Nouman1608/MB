@@ -42,6 +42,12 @@ The purpose of human resources is to identify and meet the human resource needs 
 
 Take Saltmarsh Joinery, an invented firm making fitted kitchens. Orders rise in spring. Human resources must spot that the workshop will need two more fitters by April (identifying the need) and then advertise, select and train them (meeting the need). Hiring late delays jobs; hiring too many raises wage costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--11-hr-role-saltmarsh.webp" width="900" height="900" alt="Step 1, identify the need: orders rise in spring so two more fitters are needed by April. Step 2, meet the need: advertise, select, train. Hiring too late delays jobs; hiring too many raises wage costs." loading="lazy">
+  <figcaption>Human resources identifies the need for staff, then meets it, at the right time and in the right number.</figcaption>
+</figure>
+
+
 ## 3.2 Organisational structures and ways of working
 
 ### Tall and flat structures
@@ -68,6 +74,12 @@ Suppose a business has 64 staff at the bottom of its chart. With a span of contr
 | Management cost | More managers to pay | Fewer managers to pay |
 | Delegation | Less needed | Needed, because managers cannot do everything |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ### Why businesses have different structures
 
 Structure should fit the business: a design studio with 6 staff needs no long chain of command, while a large food factory may want narrow spans. Size, the type of work, the skills of staff and how much control owners want all matter. Effective communication is the test of a good structure: if decisions and instructions reach people quickly and accurately, the structure is working. Different job roles and responsibilities must be clear, so each person knows what they are accountable for and who they report to.
@@ -88,6 +100,17 @@ The meanings, benefits and drawbacks here are general explanations, not OCR word
 
 Example: Larkhill Print, an invented printer, uses three part-timers for 16 hours each. That gives 48 hours of extra cover for the Friday rush.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--01-span-64-staff.webp" width="900" height="940" alt="Two trees with 64 staff at the bottom. Span 4 gives layers of 1, 4, 16 and 64 (21 managers); span 8 gives 1, 8 and 64 (9 managers). The flat structure has fewer layers and fewer managers." loading="lazy">
+  <figcaption>A span of 4 needs four layers and 21 managers; a span of 8 needs three layers and 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--12-ways-of-working.webp" width="900" height="940" alt="Seven cards give one benefit and one drawback each for full-time, part-time, flexible, temporary, home, mobile and self-employed working, plus the Larkhill example of three part-timers at 16 hours giving 48 hours of Friday cover." loading="lazy">
+  <figcaption>Each way of working has a benefit and a drawback for the business.</figcaption>
+</figure>
+
+
 ## 3.3 Communication in business
 
 Methods you need: letter, email, text, phone, meeting/presentation, social media and website.
@@ -106,9 +129,21 @@ Methods you need: letter, email, text, phone, meeting/presentation, social media
 
 Good communication tells staff what to do, supports sound decisions, helps customers get answers and reduces mistakes. Poor communication causes delays, errors and lost sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
+
 ### The influence of digital communication
 
 Digital methods have changed business activity. Email, messaging and video meetings let staff work from home or whilst mobile. Websites and social media let a small business reach a wide market cheaply. Customers can complain or praise in public at once, so a business must reply quickly. On the other side, staff may face information overload, security risks if data is mishandled, and the cost of equipment and training.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
 
 ## 3.4 Recruitment and selection
 
@@ -142,6 +177,17 @@ A **job description** sets out the title, duties and responsibilities of the job
 
 Example cost of replacing one leaver at Saltmarsh Joinery: advert £640, plus 12 hours of interview time at £25 an hour (£300), plus 30 hours of supervised induction at £18 an hour (£540). Total: £1,480. If five fitters leave in a year, the cost is £7,400. This is why retention matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--02-cost-of-a-leaver.webp" width="900" height="980" alt="A bar of three costs adds to 1,480 pounds: advert 640, interviews 300 (12 hours at 25) and induction 540 (30 hours at 18). Five leavers cost 7,400 pounds." loading="lazy">
+  <figcaption>Replacing one leaver costs 1,480 pounds; five leavers cost 7,400, which is why retention matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ## 3.5 Motivation and retention
 
 Motivation is the desire to do a good job.
@@ -162,6 +208,17 @@ Praise, award schemes (for example employee of the month) and the working enviro
 ### Why motivation and retention matter
 
 Motivated employees perform better: more output, fewer mistakes, better service. Employee **retention** means keeping staff. Retained staff are already familiar with the business and customers, and the business saves the time and expense of recruitment, as the £1,480 example shows. Motivation therefore supports retention, and both support the business's performance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--13-bonus-profit-sharing.webp" width="900" height="890" alt="Sales of 52,500 pounds are 12,500 above a 40,000 target, so a 2% bonus is 250 pounds. 5% of 84,000 pounds profit is 4,200 pounds, shared by 14 staff, 300 pounds each." loading="lazy">
+  <figcaption>A bonus pays on sales above a target; profit sharing divides a slice of profit among staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
 
 ## 3.6 Training and development
 
@@ -185,6 +242,12 @@ Benefits to employees: new skills, qualifications, better promotion chances, mor
 
 Worked example (Larkhill Print): six staff attend a two-day off-the-job course at £180 each, so £1,080 in fees. Lost output is £95 per person per day: 6 × 2 × £95 = £1,140. Total cost £2,220. The course cuts rework from 14 to 5 hours a week at £16 an hour for 48 weeks, a saving of £6,912 a year. The saving is higher than the cost, although you should say the estimate depends on the cut in rework lasting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--14-training-cost-benefit.webp" width="900" height="980" alt="Cost: fees 1,080 pounds plus lost output 1,140 pounds, 2,220 pounds. Rework falls from 14 to 5 hours a week, 9 hours saved at 16 pounds for 48 weeks, 6,912 pounds a year, more than the cost if the cut lasts." loading="lazy">
+  <figcaption>Larkhill saves 6,912 pounds a year in rework against a one-off cost of 2,220 pounds.</figcaption>
+</figure>
+
+
 ## 3.7 Employment law
 
 The specification asks for the impact of current legislation on recruitment and employment, with points on discrimination, employees' right to a contract, holidays and hours of work. It names no Acts or details, so the descriptions below are general, not legal or syllabus wording.
@@ -195,6 +258,12 @@ The specification asks for the impact of current legislation on recruitment and 
 - **Hours of work.** There are rules on working hours and rest, so a business cannot simply demand any hours.
 
 Impact: businesses must train managers, keep records and adjust rotas, which raises costs. Benefits include fairer treatment and a better reputation; breaking the law risks penalties.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--15-employment-law-areas.webp" width="900" height="960" alt="Four areas: discrimination (no unfair treatment), the right to a contract, paid holidays and limits on hours of work. Impact on a business: costs of training managers, keeping records and adjusting rotas; benefits of fairer treatment and reputation; breaking the law risks penalties." loading="lazy">
+  <figcaption>Employment law covers four areas and brings both costs and benefits to a business.</figcaption>
+</figure>
+
 
 ## Common errors
 

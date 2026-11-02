@@ -40,6 +40,17 @@ Also useful: the [Topic 3 overview](/resources/cambridge-igcse-economics-microec
 
 Examples of fixed costs: rent, insurance, a loan repayment. Examples of variable costs: raw materials, packaging, power used by machines, pay that depends on units made. Some costs are mixed, so read the scenario to see whether a cost moves with output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ## Method in steps: a cost table (3.7.2)
 
 1. Write FC as a constant for every output.
@@ -98,6 +109,17 @@ In a full diagram, the lowest ATC is usually further right than the lowest AVC, 
 - Identify: pick the objective or cost from the scenario and quote the evidence.
 - Evaluate: weigh both sides, then reach a judgement that uses the firm's facts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--05-hilltop-total-costs.webp" width="900" height="900" alt="FC is flat at 600, VC starts at the origin and rises to 1,740 at 60 candles, and TC starts at 600 and is exactly 600 above VC at every output." loading="lazy">
+  <figcaption>TC = FC + VC, so TC stays 600 above VC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--06-hilltop-average-costs.webp" width="900" height="900" alt="AFC falls from 60 to 10; AVC is U-shaped with lowest 25 at 40 candles; ATC is U-shaped with lowest 38 at 50 candles. The gap between ATC and AVC equals AFC (20 at 30 candles)." loading="lazy">
+  <figcaption>ATC = AFC + AVC, and ATC is lowest further right than AVC.</figcaption>
+</figure>
+
+
 ## Revenue and sales (3.7.4)
 
 - Constant price: if sales rise from 400 to 600 at 7.50, TR rises from 3,000 to 4,500.
@@ -108,6 +130,17 @@ In a full diagram, the lowest ATC is usually further right than the lowest AVC, 
 ### Worked reminder: price cut
 
 A greengrocer (invented) sells 500 kg of apples at 3.00 a kilo. TR = 1,500 and AR = 3.00. After a cut to 2.60 it sells 600 kg. TR = 2.60 × 600 = 1,560, a rise of 60. The cut raised revenue, but you cannot say whether profit rose until the cost of the extra 100 kg is known.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--07-hilltop-profit.webp" width="900" height="900" alt="TR rises in a straight line at $45 a candle; TC starts at 600. The gap is a loss of 30 at 30 candles then profits of 200, 350 and 360 at 40, 50 and 60 candles." loading="lazy">
+  <figcaption>Profit is the gap between total revenue and total cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--08-tote-bag-revenue.webp" width="900" height="990" alt="Bars of TR at $12, $10, $8, $6: 1,200, 1,300, 1,200, 960. Changes are +100, -100 and -240 even though sales rose at every cut." loading="lazy">
+  <figcaption>More sales do not guarantee more revenue after a price cut.</figcaption>
+</figure>
+
 
 ## Objectives of firms (3.7.5)
 
@@ -124,6 +157,12 @@ A greengrocer (invented) sells 500 kg of apples at 3.00 a kilo. TR = 1,500 and A
 - Say what the firm gives up. Growth may reduce short-run profit; social goals may reduce profit; high profit may need high prices.
 - Say how objectives overlap. Survival needs TR to cover TC, so even a social enterprise cannot ignore revenue.
 - Give a judgement: which is most likely for this firm, and why?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms--09-firm-objectives.webp" width="900" height="1130" alt="Four tiles: survival, profit maximisation, growth, social welfare, each with who pursues it. Below, cutting price from 45 to 41 at 60 candles lowers profit from 360 to 120, but TR 2,460 still covers TC 2,340." loading="lazy">
+  <figcaption>The same calculation can look good or poor depending on the objective.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

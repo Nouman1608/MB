@@ -59,6 +59,12 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 **Worked reminder.** 2NO(g) + O₂(g) ⇌ 2NO₂(g), forward exothermic. Cooling increases the exothermic (forward) yield, so **more NO₂**. Heating gives **less NO₂**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--05-temperature-shifts-equilibrium.webp" width="900" height="850" alt="For CO + 2H2 in equilibrium with CH3OH (forward exothermic): raising the temperature favours the endothermic backward reaction so less methanol; lowering it favours the exothermic forward reaction so more methanol." loading="lazy">
+  <figcaption>Raising the temperature favours the endothermic direction; lowering favours the exothermic one.</figcaption>
+</figure>
+
+
 ## 3.8.2 d: pressure rules
 
 Gases only. Count **molecules**, not atoms, from the balanced equation.
@@ -72,6 +78,12 @@ Gases only. Count **molecules**, not atoms, from the balanced equation.
 **Worked reminder.** PCl₅(g) ⇌ PCl₃(g) + Cl₂(g): 1 molecule left, 2 right. Increasing pressure favours the backward reaction, so **more PCl₅** remains.
 
 **Worked reminder.** N₂(g) + O₂(g) ⇌ 2NO(g): 2 molecules each side, so pressure does **not** change the yield.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--04-pressure-count-molecules.webp" width="900" height="1010" alt="Three gas equilibria drawn as molecules: 3 to 1 (higher pressure favours forward, more methanol), 2 to 4 (favours backward, less hydrogen), 2 to 2 (no change in yield). A thick arrow marks the favoured direction." loading="lazy">
+  <figcaption>Higher pressure favours the side with fewer gas molecules; equal numbers means no change.</figcaption>
+</figure>
+
 
 ## 3.8.2 e: optimum industrial conditions
 
@@ -109,6 +121,17 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
 
 **Why cooling separates ammonia:** ammonia condenses at a much higher temperature than nitrogen or hydrogen, so it becomes liquid while they stay as gases. It can then be run off and stored, while the gases go back to the reactor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--02-haber-process-flow.webp" width="900" height="1190" alt="Flow diagram: nitrogen from air and hydrogen from natural gas enter a reactor with iron catalyst at about 450 C and 200 atm. The gas leaves, is cooled, ammonia liquefies and is removed, and unreacted nitrogen and hydrogen are recycled to the reactor." loading="lazy">
+  <figcaption>Raw materials, conditions, ammonia removal and recycling in the Haber process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--03-haber-compromise-grid.webp" width="900" height="1070" alt="Raising temperature lowers yield but raises rate, so 450 degrees C is a compromise. Raising pressure raises yield and rate but costs more and is less safe, so 200 atm is a compromise. Iron raises rate without changing yield." loading="lazy">
+  <figcaption>Yield, rate and cost pull in different directions, so Haber conditions are a compromise.</figcaption>
+</figure>
+
+
 ## 3.8.3 b: fertilizers and food
 
 - Ammonia is a **raw material for fertilizers**; it is used to make ammonium salts.
@@ -116,6 +139,12 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
 - Harvesting removes nutrients, so soil loses fertility.
 - The **global population is rising** and farmland is limited.
 - So fertilizers are needed to **maximise food yields** from each area of land.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--02-why-fertilizers.webp" width="900" height="1025" alt="Population grows, farmland is limited, so each field must give more food. Plants need nitrogen for protein, harvests remove it, and ammonia fertilizers put it back." loading="lazy">
+  <figcaption>From a growing population to ammonia: why fertilizers are needed.</figcaption>
+</figure>
+
 
 ## 3.8.3 d: the contact process
 
@@ -133,6 +162,12 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
 2. Temperature: forward exothermic, so lower temperature means higher yield but too slow; 450 °C is a compromise.
 3. Pressure: 3 → 2 molecules, so high pressure would raise yield slightly. The yield is already high at atmospheric pressure, so the extra cost of high pressure is not justified.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--03-contact-process-stages.webp" width="900" height="960" alt="Three stages: burn sulfur to SO2; convert SO2 to SO3 over vanadium(V) oxide at about 450 C and atmospheric pressure (exothermic, reversible); add water to SO3 to make sulfuric acid." loading="lazy">
+  <figcaption>The three stages of the contact process with Stage 2 conditions.</figcaption>
+</figure>
+
+
 ## Haber and contact at a glance
 
 | | Haber process | Contact process (Stage 2) |
@@ -144,6 +179,12 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
 | Temperature | About 450 °C | Around 450 °C |
 | Pressure | About 200 atmospheres | Atmospheric |
 | Why that pressure | High pressure needed for a worthwhile yield | Yield already high, so high pressure not worth the cost |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--04-reacting-mass-bars.webp" width="900" height="810" alt="140 tonnes of nitrogen and 30 tonnes of hydrogen give 170 tonnes of ammonia. 8.0 tonnes of sulfur give at most 24.5 tonnes of sulfuric acid." loading="lazy">
+  <figcaption>Both calculations scale a fixed mass ratio by a single factor.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -194,6 +235,17 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
 - Giving only one side of a compromise (for example "high pressure is expensive") without the yield or rate benefit.
 - Mixing up the two processes' catalysts and pressures.
 - Answering the fertilizer question with "plants grow better" without nitrogen, food yields or population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--01-closed-system-equilibrium.webp" width="900" height="1150" alt="A sealed container holds 8 reactant and 4 product particles with forward and backward arrows of equal strength. Amounts stay constant but are not equal. An open container lets product escape so the reverse reaction cannot balance the forward one." loading="lazy">
+  <figcaption>A closed system keeps both reactions in balance; an open one lets product escape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -79,6 +79,17 @@ occurs (mitochondria) and how the transferred energy is used, including
 building larger molecules, muscle contraction, maintaining body
 temperature in mammals and birds, and building proteins in plants
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-bioenergetics--01-mito-respiration.webp" width="900" height="1020" alt="A cell is shown with a nucleus and three mitochondria, one zoomed in. Glucose and oxygen enter, carbon dioxide and water leave, and the energy transferred is used for larger molecules, muscle contraction, warmth in mammals and birds, and proteins in plants." loading="lazy">
+  <figcaption>Aerobic respiration happens in mitochondria and the energy transferred has four uses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-bioenergetics--02-heart-valve-faulty.webp" width="900" height="700" alt="Three vessels show a healthy valve whose flaps meet and block backflow, a faulty valve with a gap that leaks blood back, and a replacement valve that closes fully again." loading="lazy">
+  <figcaption>A faulty valve lets blood leak backwards; a replacement valve stops it (B content).</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Photosynthesis and respiration are often confused because their
@@ -105,6 +116,12 @@ shared with the co-teachable Combined Science qualification. The
 specification is linear and untiered, so this content is compulsory for
 every candidate and must be revised along with the rest of the topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+
 ## Worked example: limiting factors in photosynthesis
 
 A greenhouse grower notices that on a bright but cold winter morning,
@@ -126,6 +143,27 @@ This is the pattern most limiting-factor exam questions follow: identify
 which of light, temperature or carbon dioxide is in short supply *in
 that specific scenario*, rather than listing all three as if they always
 limit growth simultaneously.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--02-uses-of-glucose.webp" width="900" height="1010" alt="Glucose has five uses: stored as starch, built into cellulose for cell walls, used in respiration to release energy, changed to sucrose moved in the phloem, and used to make nectar to attract insects." loading="lazy">
+  <figcaption>Glucose is stored, built into walls, respired, transported or used for nectar.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

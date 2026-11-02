@@ -171,6 +171,12 @@ a two-sided account would give after balancing. Label every balance Dr
 or Cr, because a credit balance on a customer's account (for example,
 after an overpayment) means the business owes the customer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+
 ## Cash, digital records and manual entry
 
 Topic 2 also asks for judgement, not only recording. Receipts and

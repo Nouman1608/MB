@@ -52,6 +52,12 @@ The central bank is the public body sitting at the heart of a country's financia
 
 **Primary and secondary objectives.** In the specification's example, the Bank of England, the first objective is price stability through an inflation target. A secondary objective is to support the government's wider aims, such as growth and employment, provided the target is not put at risk. Financial stability is a further objective in many countries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 2. Independent versus government-controlled
 
 | Feature | Independent | Government-controlled |
@@ -61,6 +67,12 @@ The central bank is the public body sitting at the heart of a country's financia
 | Time horizon | Long-term | Tied to the electoral cycle |
 
 In many countries the government still sets the target and the bank decides how to hit it. That is **operational** independence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--05-independent-vs-controlled.webp" width="900" height="880" alt="Two columns compare an independent central bank with a government-controlled one. Who sets the policy rate: appointed experts in a committee, against ministers or the bank on their instruction. Objective: a fixed target, usually inflation, against one that changes with government priorities, drawn as a flat line and a stepped line. Time horizon: long term, against tied to the electoral cycle, drawn as one long arrow and short arrows separated by election markers. In many countries the government still sets the target and the bank decides how to hit it, which is operational independence." loading="lazy">
+  <figcaption>Independent banks have appointed experts, a fixed target and a long horizon; controlled banks have ministers, changing priorities and an electoral horizon.</figcaption>
+</figure>
+
 
 ## 3. Policy measures for primary and secondary objectives
 
@@ -89,6 +101,12 @@ saving per month = 900 ÷ 12 = CU 75
 - *Limits at low rates.* Further cuts do little, so asset purchases carry more weight.
 - *Expectations.* If firms and households ignore the signal, the effect is weaker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--06-two-routes-cheaper-borrowing.webp" width="900" height="1070" alt="Panel A: a policy rate cut of 0.75 percentage points is passed on 80 percent to variable-rate loans, so loan rates fall 0.75 times 0.80, which is 0.60 percentage points. A household with a CU 150,000 interest-only loan saves 150,000 times 0.006, which is CU 900 a year, or CU 75 a month. Panel B: a bond pays a fixed coupon of CU 3. At a price of CU 100 the yield is 3.00 percent. When the central bank buys bonds on a large scale the price rises to CU 104 and the yield falls to 3 divided by 104, which is 2.88 percent, about 0.12 percentage points lower." loading="lazy">
+  <figcaption>A 0.75 pp rate cut passes through 80% to give 0.60 pp (CU 75 a month saved), and bond purchases lift the price to CU 104, lowering the yield to 2.88%.</figcaption>
+</figure>
+
+
 ## 4. Targeting macroeconomic indicators
 
 An inflation target means the bank judges its success by one published number. Other indicators, such as unemployment, could be targeted, with similar trade-offs.
@@ -108,6 +126,12 @@ An inflation target means the bank judges its success by one published number. O
 - A narrow target can overlook asset-price bubbles and financial fragility.
 - A rigid target loses credibility if missed often.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--07-inflation-target-anchor.webp" width="900" height="770" alt="The price index rises from 120.0 to 124.8, which is 4.0 percent inflation. Against a target of 2.0 percent the gap is 2.0 percentage points. Wage bargainers add expected inflation to productivity growth of 1.5 percent. If they expect 2.0 percent they ask for about 3.5 percent. If they expect 4.0 percent they ask for about 5.5 percent, which pushes costs up. A credible target anchors expectations." loading="lazy">
+  <figcaption>Inflation of 4.0% misses a 2.0% target by 2.0 pp, and expectations of 2.0% or 4.0% lead to wage claims of 3.5% or 5.5%.</figcaption>
+</figure>
+
+
 ## 5. Lender of last resort
 
 A bank can be **solvent** (assets exceed liabilities) but **illiquid** (cannot pay depositors on demand). Banks lend long and borrow short, so lost confidence can start a run.
@@ -123,6 +147,17 @@ As lender of last resort, the central bank lends against collateral. With a 10% 
 - *Moral hazard.* Suppose a risky bet pays +CU 30m or −CU 20m with equal chance. Expected profit is 0.5 × 30 + 0.5 × (−20) = CU 5m. If the loss is limited to CU 5m by a rescue, expected profit is 0.5 × 30 + 0.5 × (−5) = CU 12.5m. Risk looks more attractive.
 - Taxpayers may bear losses if collateral falls in value.
 - In a crisis it is hard to tell a solvent bank from an insolvent one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--01-lender-of-last-resort.webp" width="900" height="850" alt="A bank with CU 800m deposits and CU 120m liquid assets faces withdrawals of 20 percent, CU 160m, leaving a CU 40m shortfall. The central bank lends CU 40m against collateral at a penalty rate of 5.5 percent against a 4.0 percent policy rate. The bank is solvent but illiquid." loading="lazy">
+  <figcaption>A solvent bank with too little liquid cash can be rescued by a central bank loan at a penalty rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--08-haircut-collateral.webp" width="900" height="800" alt="A bank pledges CU 100 million of collateral. With a 10 percent haircut the central bank lends against only 90 percent of it, so it raises CU 90 million, and CU 10 million is held back. The bank needs CU 40 million to cover its shortfall, which fits inside the CU 90 million." loading="lazy">
+  <figcaption>With a 10% haircut CU 100m of collateral raises CU 90m, enough to cover a CU 40m shortfall.</figcaption>
+</figure>
+
 
 ## 6. Independent versus controlled: effectiveness
 
@@ -148,6 +183,12 @@ As lender of last resort, the central bank lends against collateral. With a 10% 
 **Worked example.** Bank A has risk-weighted assets of CU 400m and capital of CU 32m, a capital ratio of 32 ÷ 400 = 8.0%. Total assets are CU 1,000m, so leverage is 1,000 ÷ 32 = 31.25 times. A loss of just 3.2% of assets (CU 32m) wipes out the capital. A CU 12m loss cuts capital to CU 20m and the ratio to 5.0%.
 
 Under-regulation allows high leverage, risky lending, weak liquidity and opaque products. The costs are bank failures, credit crunches, bailouts and lost output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--02-capital-ratio-leverage.webp" width="900" height="800" alt="Bank A has capital of CU 32m against risk-weighted assets of CU 400m (8.0 percent) and total assets of CU 1,000m (leverage 31.25 times). A CU 12m loss cuts the ratio to 5.0 percent and a CU 32m loss, 3.2 percent of assets, removes all capital." loading="lazy">
+  <figcaption>Very high leverage means a loss of only 3.2% of assets wipes out a bank's capital.</figcaption>
+</figure>
+
 
 ## 9. How institutions can be regulated
 
@@ -179,6 +220,12 @@ Defaults 15%: loss = 500 × 0.15 × 0.40 = CU 30m   (6.0% of pool; junior tranch
 
 If models assumed defaults near 3%, holders of safer tranches felt safe. When defaults rise across many pools at once, losses spread through the system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--03-securitisation-tranches.webp" width="900" height="820" alt="A CU 500m mortgage pool has a CU 25m junior tranche that takes the first losses. With 40 percent lost per default, 3 percent defaults lose CU 6m and 9 percent lose CU 18m, both absorbed. At 15 percent the loss is CU 30m and CU 5m spills into the next tranche." loading="lazy">
+  <figcaption>When defaults rise, losses exhaust the junior tranche and spill to safer tranches.</figcaption>
+</figure>
+
+
 ## 11. Benefits and importance of regulation
 
 **Benefits.** Fewer failures, more confidence, protected savers, fewer bailouts and a safer payment system.
@@ -201,6 +248,12 @@ The IMF's three main roles are surveillance of members' economies, lending to me
 - Neither supervises individual banks. National regulators do that.
 - *Conditionality* is criticised. Suppose Country P cuts spending so its deficit falls from 6% to 3% of a GDP of CU 100bn. That is a CU 3bn cut. With a multiplier of 1.2, GDP falls by 3 × 1.2 = CU 3.6bn, or 3.6%. Austerity can deepen a downturn.
 - Voting power favours larger contributors, which raises questions of legitimacy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--09-imf-conditionality-multiplier.webp" width="900" height="760" alt="Country P must cut its deficit from 6 percent to 3 percent of a GDP of CU 100 billion, a CU 3 billion spending cut. With a multiplier of 1.2, GDP falls by 3 times 1.2, which is CU 3.6 billion, or 3.6 percent. Conditionality like this can deepen a downturn." loading="lazy">
+  <figcaption>A CU 3bn spending cut with a multiplier of 1.2 reduces GDP by CU 3.6bn, or 3.6%.</figcaption>
+</figure>
+
 
 ## Common errors
 

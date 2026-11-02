@@ -51,6 +51,12 @@ Related pages: [revision notes](/resources/edexcel-ial-economics-rational-choice
 
 **Evaluation**: these behaviours mean a demand curve is a prediction, not a law. Predictions still tend to hold on average because most buyers do respond to price. The rationality assumption is a useful starting point that needs qualifying when decisions are rushed, complex or emotional.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--06-six-reasons-not-maximising-utility.webp" width="900" height="1140" alt="Six small pictures, one for each reason: herding, habit, inertia, poor computation, need to feel valued and framing, with the lesson numbers where it gives them." loading="lazy">
+  <figcaption>Six ways real consumers depart from utility maximisation.</figcaption>
+</figure>
+
+
 ## 2. The demand curve
 
 **Demand** (2a) is the amount of a good that buyers are both willing and able to purchase at each possible price over a stated period, other things equal. Willingness without ability (income) is not demand.
@@ -80,6 +86,27 @@ A rational consumer buys another slice only while the money value of its margina
 - **Tastes**: a fashion or health trend shifts demand towards or away from a good.
 - **Population size and age distribution**: an ageing population shifts demand right for healthcare and left for school supplies.
 - **Advertising**: persuades and informs buyers, shifting demand right if effective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--09-marginal-utility-to-demand.webp" width="900" height="1126" alt="Two graphs sharing a horizontal axis of slices of pizza. Top: columns show the money value of each extra slice, with 1 util worth 0.50: 10, 8, 6, 4 and 2, because marginal utility falls as 20, 16, 12, 8 and 4 utils. A dashed line at price 6 shows the consumer buys only the slices worth at least 6, the first three, shaded teal. Bottom: joining the points where the price equals the value of each slice gives a downward-sloping demand curve: price 10 buys 1 slice, price 8 buys 2, price 6 buys 3, price 4 buys 4, price 2 buys 5. Edexcel IAL 1.3.2. Invented figures." loading="lazy">
+  <figcaption>Falling marginal utility is why the demand curve slopes down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--10-indirect-tax-revenue-and-ped.webp" width="900" height="880" alt="Two panels compare a 0.50 tax on a good priced at 5.00, a 10 percent price rise, starting from sales of 100,000. With inelastic demand, PED of -0.4, sales fall 4 percent to 96,000 and the government raises 0.50 times 96,000, which is 48,000. With elastic demand, PED of -2, sales fall 20 percent to 80,000 and revenue is 40,000, with consumption falling much further. Bars show the sales remaining, the dashed outline the lost sales, and the tax revenue. Edexcel IAL 1.3.2. Invented figures." loading="lazy">
+  <figcaption>The same tax raises more revenue and cuts sales less when demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
 
 ## 3. Price, income and cross elasticities
 
@@ -167,6 +194,27 @@ Price
 
 **Limits**: elasticity estimates rely on past data, hold only for a price range and ignore other changes in the market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--07-ped-curve-shapes.webp" width="900" height="1190" alt="Five price-quantity graphs through one point: vertical (PED 0), steep (-0.5), hyperbola (-1), flat (-3) and horizontal (minus infinity), plus a scale of PED sizes." loading="lazy">
+  <figcaption>The shape of the demand curve shows how elastic demand is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--08-ped-determinants.webp" width="900" height="1010" alt="Five rows compare a more elastic case with a more inelastic case for substitutes, branding, share of spending, addictiveness and durability, each with a flatter or steeper demand icon." loading="lazy">
+  <figcaption>Five determinants push demand towards more or less elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--09-florist-ped-revenue.webp" width="900" height="930" alt="Revenue rectangles on a demand graph for the florist: the 816 shared area, +81.6 gained from the higher price and 144 lost on 12 fewer bouquets. PED is -1.5 and revenue falls from 960 to 897.60." loading="lazy">
+  <figcaption>A 10% price rise with a 15% quantity fall gives PED of -1.5 and lower revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--10-yed-xed-forecasting.webp" width="900" height="1060" alt="Two forecasts: 3% income growth with YED 2.0 lifts demand 6%, 50,000 to 53,000. A rival 5% price rise with XED 2.0 lifts demand 10%, 50,000 to 55,000 on an assumed base." loading="lazy">
+  <figcaption>Percentage change in income or rival price times the elasticity gives the demand forecast.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Calling a change in the good's price a "shift". It is a movement.
@@ -178,3 +226,19 @@ Price
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.2 Consumer behaviour and demand, items 1 to 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+

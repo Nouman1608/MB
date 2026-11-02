@@ -122,6 +122,12 @@ t = 2:  r = 6i + 7j
 
 Parallel to i means 4t − 3 = 0, so **t = 3/4 s**. At that time v = (3 × 9/16 − 3/2 + 1)i = (19/16)i m s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
+  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+
 ## Motion under gravity with vectors (3.02h, A Level only)
 
 Take i horizontal, j vertically upward. The only acceleration is gravity, so
@@ -146,6 +152,17 @@ v = (5i + 12j) + (−9.8j)(2) = 5i − 7.6j
 speed = √(5² + 7.6²) = √82.76 ≈ 9.10 m s⁻¹
 angle below the horizontal: tan⁻¹(7.6/5) ≈ 56.7°
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
+  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
 
 ## Projectiles (3.02i, A Level only)
 
@@ -199,6 +216,12 @@ y = x tan α − g x² / (2u² cos²α)
 
 This can also be written with sec²α = 1 + tan²α, which turns it into a quadratic in tan α. The curve is a parabola. Use it to test whether a path passes through a point, and to find u or α from a given equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
+</figure>
+
+
 ### Worked example 8
 
 A projectile moves on the path y = 1.2x − 0.04x² (metres), launched from the origin. Find the launch angle, launch speed, range and greatest height.
@@ -213,6 +236,17 @@ Greatest height at x = 15: y = 18 − 9 = 9 m
 ### Limitations of the model
 
 The model ignores air resistance, so real paths are shorter and steeper on the way down. It treats the object as a particle, so size, spin and shape play no part. It takes g as constant over the height reached, and it ignores wind. When you are asked to comment, name one of these and say how the real result would differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -59,6 +59,22 @@ All figures are invented and illustrative.
 | Civil war | Capital destroyed, people displaced | Long recovery |
 | Terrorism | Security costs, lost tourism and FDI | Often local and regional |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--13-overseas-debt-burden.webp" width="900" height="960" alt="Debt 9.6bn dollars is 40% of GNI; debt service 0.9bn is 15% of exports; a currency fall from 10 to 12.5 per dollar lifts local-currency debt from 96bn to 120bn (+25%)." loading="lazy">
+  <figcaption>Debt service ratio and exchange-rate falls show when borrowing becomes a constraint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--05-household-debt-interest.webp" width="900" height="910" alt="Bars compare income 20,000 with debt 26,000 (130%) and interest of 1,300 at 5% against 2,080 at 8%. 26,000/20,000=130%; 1,300; 2,080; extra 780 = 3.9% of income." loading="lazy">
+  <figcaption>Higher interest on household debt takes an extra 3.9% of income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--08-constraints-feed-each-other.webp" width="900" height="1120" alt="A loop from low income to low saving, little investment and poor infrastructure, low productivity and back, with three cross-links. Loop and links as stated in the lesson paragraph." loading="lazy">
+  <figcaption>Constraints reinforce one another in a loop and link to each other.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Dependency ratios.** Add the two dependant groups, divide by the working-age group, multiply by 100.
@@ -83,6 +99,17 @@ Household: repayments 1,000 from income 4,000 gives a household debt-service rat
 **Recovery arithmetic.** Output index 100 falls 20% then 10%: 100 x 0.8 x 0.9 = 72. To return to 100 needs a rise of (100 / 72) minus 1 = 38.9%, not 30%. Losses are bigger than they look.
 
 **Return on training.** Cost 1,500, earnings gain 250 a year: return 250 / 1,500 = 16.7% a year, payback 6 years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--09-dependency-ratio.webp" width="900" height="1020" alt="Country A has 14, 24 and 2 million in the three age bands (ratio 66.7%, mostly youth); Country B has 6, 21 and 9 million (ratio 71.4%, mostly old age)." loading="lazy">
+  <figcaption>Similar dependency ratios can hide very different burdens: youth costs v ageing costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--10-population-growth-per-person.webp" width="900" height="910" alt="Natural increase 2.3% less 0.3% net emigration gives 2.0% population growth; of 3.5% GDP growth about 2.0 is absorbed by extra people, leaving about 1.47% per person; doubling time 35 years." loading="lazy">
+  <figcaption>Population growth absorbs much of GDP growth, leaving less per person.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

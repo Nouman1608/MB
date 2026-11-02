@@ -55,6 +55,12 @@ The syllabus limits you to exactly these four. Pair each with its reason.
 | Good blood supply | Maintains a steep concentration gradient (blood side) |
 | Good ventilation with air | Maintains a steep concentration gradient (air side) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+
 ## 11.1.2 The breathing system
 
 Route of air: `nose/mouth → larynx → trachea → bronchi → bronchioles → alveoli`
@@ -64,6 +70,17 @@ Also know: **lungs**, **ribs**, **intercostal muscles** (between the ribs), **di
 **Extended only**
 - 11.1.6: **external** intercostal muscles = outer layer; **internal** intercostal muscles = inner layer.
 - 11.1.7: **cartilage** in the trachea **keeps it open** so it does not collapse when pressure falls during breathing in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--08-airway-protection.webp" width="900" height="900" alt="Extended. Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus." loading="lazy">
+  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
+</figure>
+
 
 ## 11.1.8 Ventilation (Extended only)
 
@@ -83,6 +100,17 @@ Method in steps: always write the full chain.
 
 Memory hook: **in** = **external** contract, diaphragm **down**, volume **up**, pressure **down**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--07-co2-breathing-chain.webp" width="900" height="1010" alt="Extended. Four steps: muscles respire more, more carbon dioxide enters the blood, the brain detects the rise, and faster deeper breathing removes the extra carbon dioxide. The trigger is carbon dioxide, not lack of oxygen." loading="lazy">
+  <figcaption>The brain detects rising blood carbon dioxide and speeds up breathing.</figcaption>
+</figure>
+
+
 ## 11.1.3 and 11.1.4 Inspired v expired air (Core)
 
 | Gas | Inspired | Expired |
@@ -99,6 +127,17 @@ Memory hook: **in** = **external** contract, diaphragm **down**, volume **up**, 
 4. Expired-air tube turns milky first → expired air has **more carbon dioxide**.
 
 Limewater tests for carbon dioxide only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--04-inspired-expired-air.webp" width="900" height="930" alt="Bars compare breathed-in (In) and breathed-out (Out) air. Oxygen falls from about 21% to about 16%, 5 points lower or 23.8% of the oxygen breathed in. Carbon dioxide rises from about 0.04% to about 4%, 100 times more. Water vapour is higher in breathed-out air and usually lower in breathed-in air." loading="lazy">
+  <figcaption>Breathed-out air has less oxygen, 100 times more carbon dioxide and more water vapour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--05-limewater-test.webp" width="900" height="900" alt="Two boiling tubes, A and B, hold equal limewater and are joined to one mouthpiece. Breathing in draws room air through tube A; breathing out pushes breath through tube B. Tube B turns milky much sooner, showing that breathed-out air contains more carbon dioxide." loading="lazy">
+  <figcaption>Limewater in tube B turns milky sooner because breathed-out air has more carbon dioxide.</figcaption>
+</figure>
+
 
 ## 11.1.9 Why the composition changes (Extended only)
 
@@ -124,6 +163,12 @@ Worked reminder: rate rises from 18 to 27 breaths per minute. Percentage increas
 
 **Extended only, the syllabus chain:**
 more muscle contraction → more aerobic respiration → **more carbon dioxide in the blood** → **detected by the brain** → **increased rate and greater depth** of breathing → more carbon dioxide removed and more oxygen supplied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--06-exercise-breathing.webp" width="900" height="960" alt="Lesson example: at rest 16 breaths per minute, after two minutes of skipping 44 (2.75 times). Depth rises from 0.5 to 2.0 dm3 per breath (4 times). Air moved per minute rises from 8 to 88 dm3, 11 times, because rate times depth gives volume per minute." loading="lazy">
+  <figcaption>Exercise raises both the rate and depth of breathing, so air moved per minute rises 11 times.</figcaption>
+</figure>
+
 
 ## 11.1.11 Protecting the airways (Extended only)
 

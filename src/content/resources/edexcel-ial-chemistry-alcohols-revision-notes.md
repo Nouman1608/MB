@@ -39,6 +39,12 @@ Links: [course hub](/boards/edexcel/a-level/chemistry/), [printable checklist](/
 | Secondary | 2 | 1 |
 | Tertiary | 3 | 0 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--04-alcohol-classes.webp" width="900" height="1180" alt="Butan-1-ol, butan-2-ol and 2-methylpropan-2-ol are drawn as displayed formulae with the C-OH carbon and its H highlighted (2, 1 and 0 H). Primary gives butanoic acid and secondary gives butanone, orange to green; tertiary gives no reaction and stays orange. Matches worked example 4." loading="lazy">
+  <figcaption>Oxidation needs an H on the C-OH carbon, so tertiary alcohols resist it.</figcaption>
+</figure>
+
+
 ## Reaction summary (10.17, 10.18)
 
 | Reaction | Reagent and conditions | Product | Note |
@@ -52,6 +58,12 @@ Links: [course hub](/boards/edexcel/a-level/chemistry/), [printable checklist](/
 | Oxidation, 1°, reflux | Excess K₂Cr₂O₇ / dilute H₂SO₄, reflux | Carboxylic acid | Orange → green |
 | Oxidation, 2° | K₂Cr₂O₇ / dilute H₂SO₄, heat | Ketone | Orange → green |
 | Oxidation, 3° | K₂Cr₂O₇ / dilute H₂SO₄, heat | No reaction | Stays orange |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--07-halogenation.webp" width="900" height="890" alt="Three routes from an alcohol R-OH: PCl5 (solid, room temperature, steamy HCl fumes) to R-Cl, KBr with 50% sulfuric acid warmed (OCR: a bromide with sulfuric acid) to R-Br, and red phosphorus with iodine to R-I. Edexcel and OCR content; not in the AQA or OxfordAQA lessons." loading="lazy">
+  <figcaption>Edexcel and OCR: the OH group can be replaced by Cl, Br or I using different reagents.</figcaption>
+</figure>
+
 
 ## Equations to know
 
@@ -77,6 +89,22 @@ Count the [O]: one for aldehyde or ketone, two for carboxylic acid. Water appear
 4. For each alkene, check whether both C=C carbons have two different groups. If so, give E and Z.
 5. Count and name every product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--01-hydration-mechanism.webp" width="900" height="1290" alt="Three-step curly-arrow mechanism for making ethanol from ethene and an acid catalyst: C=C attacks H+, a water lone pair attacks the carbocation, the O-H bond breaks releasing H+. Below, propene gives the secondary carbocation and propan-2-ol as the major product. AQA mechanism; other boards state the reaction without needing the mechanism." loading="lazy">
+  <figcaption>Electrophilic addition of water to an alkene: the first arrow starts at the C=C bond, not at H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
+  <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--09-elimination-products.webp" width="900" height="940" alt="Skeletal formulae. Butan-2-ol loses H from C1 to give but-1-ene, or from C3 to give but-2-ene, which exists as E and Z isomers: three alkenes in total." loading="lazy">
+  <figcaption>Losing H from either neighbouring carbon gives different alkenes, including E and Z isomers.</figcaption>
+</figure>
+
+
 ## Method in steps: choosing the oxidation set-up
 
 1. Classify the alcohol.
@@ -92,6 +120,12 @@ Count the [O]: one for aldehyde or ketone, two for carboxylic acid. Water appear
 - **50% not 100% sulfuric acid.** Fully concentrated acid oxidises HBr to bromine, wasting the HBr.
 - **Phosphoric not sulfuric acid for elimination.** Concentrated sulfuric acid is a strong oxidising agent and causes more side reactions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--06-carbonyl-tests.webp" width="900" height="1085" alt="Tubes in a water bath: with Tollens' reagent the aldehyde gives a silver mirror and the ketone no change; with Fehling's (or Benedict's) solution the aldehyde gives a red precipitate and the ketone stays blue. Board tags: Tollens' in AQA and OxfordAQA, Benedict's in Edexcel." loading="lazy">
+  <figcaption>Aldehydes are oxidised by mild oxidants and ketones are not, giving different observations.</figcaption>
+</figure>
+
+
 ## Techniques (10.19) in one line each
 
 | Technique | Key point |
@@ -103,6 +137,12 @@ Count the [O]: one for aldehyde or ketone, two for carboxylic acid. Water appear
 | Boiling temperature | Pure: sharp and matches data. Impure: boils over a range |
 
 Typical order: react → distil off crude product → wash in separating funnel → dry → redistil → measure boiling temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
 
 ## Core Practical 7 in brief (10.20)
 

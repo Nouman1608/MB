@@ -76,6 +76,17 @@ If the field is not perpendicular to the coil, only the component of B along the
 - At θ = 90° the coil plane is parallel to the field and NΦ = 0.
 - If a question gives the angle between the plane of the coil and the field, call it α. Then θ = 90° − α, so cos θ becomes sin α. Draw the normal on a sketch before you substitute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--05-lenz-law-magnet-coil.webp" width="900" height="1110" alt="Three rows show a bar magnet with its north pole facing a coil and a centre-zero meter. Moving in: the near end of the coil becomes a north pole and repels the magnet. Held still: no deflection. Moving out: the near end becomes a south pole and attracts the magnet, and the meter deflection reverses." loading="lazy">
+  <figcaption>The induced pole always opposes the magnet movement, so the meter deflects one way going in and the other way coming out.</figcaption>
+</figure>
+
+
 ### Worked example 2: rotated coil
 
 A rectangular coil has area 6.0 × 10⁻³ m² and 40 turns in a field of 0.12 T. The maximum flux linkage is
@@ -156,6 +167,12 @@ Check: I²R = 0.080² × 0.90 = 5.8 × 10⁻³ W
 
 The mechanical power supplied equals the electrical power dissipated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+
 ## Eddy currents (3.10.4)
 
 A solid piece of metal is a conductor with no fixed circuit. If the flux through it changes, whether the metal moves through a field or the field changes around it, emfs are induced in it and currents circulate in closed loops through the bulk of the metal. These are **eddy currents**.
@@ -165,6 +182,12 @@ By Lenz's law, the eddy currents oppose the change that causes them. Consequence
 - A magnet dropped through a vertical aluminium tube falls much more slowly than through a cardboard tube of the same size. The moving magnet changes the flux through each part of the tube wall. The eddy currents set up opposing fields, so a force acts on the magnet, and the magnet's kinetic energy is converted to thermal energy in the tube.
 - A metal plate swinging between magnet poles is damped and comes to rest quickly.
 - Eddy currents heat the metal. This is wasteful in a transformer core, so a core is often made from thin insulated sheets, which break up the loops and make the currents smaller.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
 
 ## The rotating coil (3.10.4)
 
@@ -194,6 +217,12 @@ A coil has 200 turns of area 4.0 × 10⁻³ m² and rotates at 40 Hz in a field 
 ```
 
 Take sin of ωt in radians. In degrees, ωt = 50.4°, which gives the same answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
+  <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
 
 ## Common errors
 

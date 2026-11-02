@@ -97,6 +97,17 @@ to demand, at zero cost (fresh air is the standard example) — though the
 syllabus expects an awareness that very few goods are genuinely "free" in
 this economic sense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+
 ## The factors of production
 
 Producing any good or service requires combining four **factors of
@@ -128,6 +139,22 @@ while education and training change its quality (productivity per
 worker); new resource discoveries change the quantity of land available
 for use; investment changes both the quantity and quality of capital.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/the-basic-economic-problem--01-factor-mobility.webp" width="900" height="1020" alt="Three panels: a worker moving between Job 1 and Job 2 is held back by skills and training (occupational mobility); a factor moving between two places is held back by cost and family ties (geographical mobility); land cannot move at all. Labour and capital vary in how mobile they are." loading="lazy">
+  <figcaption>Mobility is how easily a factor moves between uses; land is geographically immobile.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/the-basic-economic-problem--02-factor-quantity-quality.webp" width="900" height="990" alt="Four causes lead to a factor and to what changes. Population growth changes the quantity of labour; education and training change the quality of labour; new resource discoveries change the quantity of land; investment changes both quantity and quality of capital." loading="lazy">
+  <figcaption>Quantity and quality of each factor change over time for different reasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## Opportunity cost
 
 **Opportunity cost** is the value of the next-best alternative given up
@@ -148,6 +175,17 @@ between building a new hospital or a new school. If it builds the
 hospital, the opportunity cost of that decision is the school it could
 have built instead with the same resources — not simply "the money
 spent," but specifically the next-best alternative use of that money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/the-basic-economic-problem--03-opportunity-cost-decision-makers.webp" width="900" height="1000" alt="Four rows pair what a decision-maker chooses with the next-best alternative given up: good, job, product, and hospital versus school. Opportunity cost is the single next-best alternative." loading="lazy">
+  <figcaption>Every decision-maker gives up the next-best alternative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## Production possibility curve diagrams
 
@@ -196,6 +234,27 @@ production, or by improved technology; an **inward shift** (the curve
 moving toward the origin) represents a fall in productive capacity, for
 example caused by a natural disaster or a fall in the size of the
 workforce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/the-basic-economic-problem--04-ppc-inward-shift.webp" width="900" height="980" alt="An illustrative PPC with Food and Machines axes: the old dashed curve moves inwards to a new solid curve, so less of both goods can be produced, for example after a natural disaster or a fall in the workforce." loading="lazy">
+  <figcaption>An inward shift of the PPC is a fall in productive capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

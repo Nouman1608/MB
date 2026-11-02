@@ -40,6 +40,12 @@ These revision notes condense sections 9.5 (Scatter diagrams) and 9.6 (Cumulativ
 
 Strong means the points sit close to a line. Weak means they are widely spread. Correlation shows a link in the data, not that one variable causes the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--01-correlation-types.webp" width="900" height="1110" alt="Three scatter diagrams in a column. Positive correlation: points rise from left to right (height and arm length). Negative correlation: points fall from left to right (age of a bicycle and price). Zero correlation: points are scattered with no pattern (shoe size and test mark)." loading="lazy">
+  <figcaption>Positive points rise, negative points fall, zero correlation shows no pattern.</figcaption>
+</figure>
+
+
 ### Line of best fit: method in steps
 
 1. Work out the mean of each variable and plot the mean point.
@@ -49,6 +55,12 @@ Strong means the points sit close to a line. Weak means they are widely spread. 
 5. To estimate, go from the known value to the line, then across to the other axis.
 
 The line does not have to go through any plotted point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--02-line-of-best-fit.webp" width="900" height="930" alt="Scatter diagram of age and value for nine cars with the mean point (5, 12.4) and a ruled line from (1, 18.1) to (9, 6.7) through it. Five points lie above the line (teal) and four below (orange), spread along its length." loading="lazy">
+  <figcaption>The line of best fit passes through the mean point and leaves about as many points on each side.</figcaption>
+</figure>
+
 
 ### Using the line
 
@@ -60,6 +72,12 @@ The line does not have to go through any plotted point.
 | Reliability | Inside the data range is more reliable. Far outside it is unreliable. |
 
 Worked reminder. A line passes through (10, 25) and (30, 65). The gradient is (65 − 25) ÷ (30 − 10) = 2. Using (10, 25): c = 25 − 2 × 10 = 5, so y = 2x + 5. At x = 20, y = 45.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
+</figure>
+
 
 ### Worked reminder: describing and using a scatter diagram
 
@@ -95,6 +113,17 @@ Add up frequencies as a running total. Each total belongs to the **upper class b
 
 To find how many values are at or below x: go up from x to the curve, then across. For "more than x", subtract that reading from n. For a percentage, divide by n and multiply by 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--05-median-quartiles-iqr.webp" width="900" height="950" alt="From heights 50, 100 and 150 on the curve, dashed lines go across then down to the lower quartile about 4.0, median about 5.6 and upper quartile about 7.6 minutes. A bracket marks the IQR, 7.6 - 4.0 = 3.6 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--06-more-than-percentile.webp" width="900" height="950" alt="The curve gives about 174 calls of 9 minutes or less, so 200 - 174 = 26 calls lasted more than 9 minutes (bracket at the right). For the 90th percentile, 0.9 x 200 = 180 gives about 9.4 minutes." loading="lazy">
+  <figcaption>For &quot;more than&quot;, subtract the reading from n; percentiles use (p/100) x n.</figcaption>
+</figure>
+
+
 ### Worked reminder
 
 For 100 journey times in minutes, the cumulative frequencies are 8, 30, 70, 88 and 100 at 10, 20, 30, 40 and 50 minutes, with 0 at 0 minutes.
@@ -127,6 +156,12 @@ A cumulative frequency table gives 9, 31 and 70 for three consecutive upper boun
 ### Comparing two distributions
 
 Write one comparison of averages (medians) and one of spread (IQRs). Put each in context: "The median is lower, so journeys are typically shorter. The IQR is smaller, so the times are more consistent."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--04-plot-the-curve.webp" width="900" height="990" alt="Cumulative frequency curve for 200 calls. Crosses sit at the upper class boundaries (2, 14), (4, 50), (6, 112), (8, 160), (10, 188), (12, 200) plus the start point (0, 0), with dashed drops to the horizontal axis. A smooth curve joins them and never goes down." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0), and join with a smooth curve.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

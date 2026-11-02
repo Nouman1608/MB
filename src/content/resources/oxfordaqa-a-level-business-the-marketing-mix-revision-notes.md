@@ -34,6 +34,27 @@ These notes condense section 3.1.2.4, The marketing mix, from the OxfordAQA Inte
 
 **Integrated mix:** the four elements support one positioning and one target market. Benefits: consistent message, less wasted spend, harder for rivals to copy. **Influences:** target market, budget, life cycle stage, competitors, costs, technology, objectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--03-promotional-mix-six.webp" width="900" height="1040" alt="Six rows, one per promotional element, each with one advantage and one disadvantage." loading="lazy">
+  <figcaption>Every element of the promotional mix has a gain and a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## Product
 
 **NPD value:** competitive advantage, spreads risk, new segments, replaces declining products. **Risk:** costly and may fail. **Influences:** tastes, competitors, technology, budget, skills.
@@ -56,6 +77,12 @@ Memory hook: "I Should Choose Better Products Locally."
 **Extension strategies (four):** advertising, rebranding, lowering the price, adapting the product. For each, give one benefit and one cost: advertising (reach / cost), rebranding (fresh image / confuses loyal buyers), lower price (volume / lower margin, price war), adaptation (new appeal / development cost, cannibalisation).
 
 **Branding:** recognition, premium price, trust, easier launches, **brand loyalty** stabilises sales. **Own label brand:** sold under the retailer's name; retailer gets margin and control, but takes the reputational risk, and the supplier faces price pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--06-npd-six-stages.webp" width="900" height="899" alt="Six numbered rows: 14 ideas, screening drops 9 and keeps 5, concept testing rates 2 highly, business analysis compares break-even 400,000 with demand 520,000, then product testing and launch." loading="lazy">
+  <figcaption>New products pass through six stages in order.</figcaption>
+</figure>
+
 
 ## Pricing
 
@@ -92,6 +119,22 @@ Memory hook: "I Should Choose Better Products Locally."
 
 Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts it. Cuts do the opposite.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--07-ped-elastic-inelastic-revenue.webp" width="900" height="1100" alt="Two price-quantity rectangles. Helmet: price +10%, sales -15%, PED -1.5, revenue falls from 80,000 to 74,800. Tea: price +10%, sales -6%, PED -0.6, revenue rises from 50,000 to 51,700." loading="lazy">
+  <figcaption>Elastic demand: a price rise cuts revenue. Inelastic: it raises revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--08-cross-price-elasticity.webp" width="900" height="1090" alt="Substitutes: rival scooter price +6% and our scooter sales +9% give XED +1.5. Complements: our scooter price +5% and battery sales -7.5% give XED -1.5." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--09-cost-plus-markup-margin.webp" width="900" height="930" alt="A bar shows cost 1.20 plus profit 0.42 giving a price of 1.62. Mark-up divides profit by cost (35%); margin divides by price (25.9%)." loading="lazy">
+  <figcaption>A mark-up is on cost; a margin is on price.</figcaption>
+</figure>
+
+
 ## Promotion
 
 **Purpose:** inform, persuade, remind; build awareness and image; raise sales.
@@ -119,6 +162,12 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
 
 **Influences:** product nature, target market habits, number of customers, channel cost, control wanted, competitors, technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--04-channels-agent-multi.webp" width="900" height="970" alt="Four routes from maker to customer: via wholesaler and retailer, via retailer, via an agent on commission, or direct online. Multi-channel uses several at once." loading="lazy">
+  <figcaption>An agent sells on commission without stock; multi-channel combines routes.</figcaption>
+</figure>
+
+
 ## If your course is 9625 (different content)
 
 - **7Ps:** product, price, promotion, place plus **people, process, physical environment** (influences on these). Consider goods and services (industrial and consumer), B2B and B2C, national and international markets, e-commerce.
@@ -126,6 +175,12 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
 - **Pricing:** influences; **skimming, penetration, price discrimination** (selling one product at different prices to separate groups; writer's wording). Interpret PED, analyse revenue effects, assess the value of PED to business.
 - **Promotion:** advertising, sales promotions, sales force, public relations, **exhibitions**. **Place:** channels including online, multi-channel.
 - The six NPD stages and cross-price elasticity are not printed in this 9625 section; ask your teacher.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--05-discrimination-dynamic.webp" width="900" height="1040" alt="Two prices for two separate groups, and a line graph of a price that rises at busy hours of the day." loading="lazy">
+  <figcaption>Discrimination uses fixed groups; dynamic pricing changes with demand.</figcaption>
+</figure>
+
 
 ## Importance of marketing
 
@@ -188,6 +243,12 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
 9. Advertising, rebranding, lowering the price, adapting the product.
 10. Agent: less control over how the product is presented. Social media: negative comments spread quickly.
 11. Mixed messages confuse customers and waste spend; the elements should reinforce one positioning for one target market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--02-brand-own-label.webp" width="900" height="700" alt="Two packs: one with the maker’s name (brand) and one with the retailer’s name (own label), with the value and risk of each." loading="lazy">
+  <figcaption>A brand carries the maker’s name; an own label carries the retailer’s.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

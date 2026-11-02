@@ -94,6 +94,17 @@ The change turns a four-level structure into a three-level one. Messages travel 
 
 Neither is always better. Tall suits work needing close checking. Short suits skilled staff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--03-kestrelbank-delayering.webp" width="900" height="910" alt="Charts of Kestrelbank before (MD, 3 managers, 6 supervisors, 30 operators; 4 levels; manager span 2; 40 employees) and after removing supervisors (3 levels; manager span 10; 34 employees). Saving: 6 x 26,000 = 156,000 dollars a year." loading="lazy">
+  <figcaption>Removing six supervisor posts cuts a level and widens each manager’s span from 2 to 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+
 ## 2.2.2 The role of management
 
 ### Functions of management
@@ -132,6 +143,22 @@ Every delegating manager has to balance two things.
 
 The right balance depends on the circumstances. A manager might give wide freedom to an experienced employee on a routine task but keep close control when a new employee handles an expensive or risky job. In an exam answer, link the balance to the details in the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--04-functions-of-management.webp" width="900" height="810" alt="Five boxes in order: planning, organising, coordinating, commanding, controlling, each with the lesson’s workplace example. An arrow from controlling back to planning shows that differences from the plan lead to adjustment." loading="lazy">
+  <figcaption>The five functions link in a loop: controlling checks results against the plan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--06-delegation-passes-authority.webp" width="900" height="880" alt="A manager passes task and authority down to an employee while remaining accountable; four benefits and three risks are shown as chips." loading="lazy">
+  <figcaption>Delegation passes authority, not accountability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--07-trust-vs-control.webp" width="900" height="830" alt="A trust-to-control scale with an experienced employee on a routine task near trust and a new employee on a risky job near control; benefits and costs of each end." loading="lazy">
+  <figcaption>The balance of trust and control depends on the case.</figcaption>
+</figure>
+
+
 ## 2.2.3 Leadership styles
 
 Leadership style is the way a manager guides, makes decisions and deals with staff. The syllabus names three main styles.
@@ -158,6 +185,17 @@ Recommended style: **laissez-faire**. A specialist working on their own may prod
 Notice what makes each answer strong: it names the style, links it to a detail in the situation, and gives a limitation. Use the same pattern whenever you "recommend and justify".
 
 To choose a style, ask whether the decision is urgent (autocratic), whether staff know more than the leader (democratic or laissez-faire), and whether staff are inexperienced and need guidance (not laissez-faire).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--08-corriedale-styles.webp" width="900" height="1060" alt="Three situations matched to autocratic, democratic and laissez-faire styles, each with its limitation, plus a three-question guide to choosing." loading="lazy">
+  <figcaption>Matching a leadership style to each Corriedale situation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
 
 ## 2.2.4 Trade unions
 
@@ -188,6 +226,12 @@ Of Kestrelbank's 40 employees, 32 are union members: 32 ÷ 40 = **80%**. The uni
 Extra cost: 3% × 1,200,000 = **36,000 dollars** a year.
 Average wage per employee: 1,200,000 ÷ 40 = **30,000 dollars**, so the rise averages 900 dollars per employee.
 The business pays more, but may gain from lower turnover and fewer disputes. Whether that outweighs the cost depends on its profits and on how hard it is to recruit replacements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--09-kestrelbank-union.webp" width="900" height="1030" alt="40 person icons (32 union members, 80%), a wage-bill bar with a 3% slice of 36,000 dollars, and the 30,000 dollar average wage giving 900 dollars each." loading="lazy">
+  <figcaption>The Kestrelbank pay claim: 80% membership and a 36,000 dollar cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

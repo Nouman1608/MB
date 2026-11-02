@@ -48,6 +48,12 @@ Motivation is the desire to put effort into a job. People work for several reaso
 
 A business that understands the reasons behind its own workers' choices can pick better ways to motivate them. A part-time student at a cafe may want flexible hours and cash. A senior engineer may want responsibility and a route to promotion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--05-why-people-work.webp" width="900" height="1050" alt="A hub labelled why work with six spokes: money, security, social contact, status and recognition, job satisfaction, and using and developing skills. Money is only one of six." loading="lazy">
+  <figcaption>Six reasons people work; the mix differs from person to person.</figcaption>
+</figure>
+
+
 ## Benefits of a well-motivated workforce
 
 A motivated worker is more willing to work hard and to stay. The syllabus lists four benefits.
@@ -72,6 +78,12 @@ Labour productivity = 12,600 ÷ 18 = **700 parcels per sorter per day**.
 
 On its own, 15% says little. Compare it with last year's figure or with similar businesses before you call it high or low.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--02-turnover-and-productivity.webp" width="900" height="890" alt="Sixty people are shown, nine highlighted as leavers, giving labour turnover of 15%. Eighteen sorters handle 12,600 parcels, so productivity is 700 parcels per sorter per day." loading="lazy">
+  <figcaption>Labour turnover and labour productivity worked through for Venn Logistics.</figcaption>
+</figure>
+
+
 ## Motivational theories
 
 ### Maslow: the hierarchy of needs
@@ -85,6 +97,12 @@ Maslow said people have needs that rise in five levels. A lower need must be mos
 5. **Self-actualisation:** reaching your full potential. At work, challenging tasks and creative freedom.
 
 The lesson for managers is to find which level a worker is on and offer something at that level. Extra pay does little for someone whose main worry is feeling like an outsider.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
 
 ### Taylor: scientific management
 
@@ -101,6 +119,12 @@ Herzberg separated factors at work into two groups.
 
 For Herzberg, a pay rise stops complaints but does not make people work harder for long. To motivate, a business must redesign the job so that it carries more responsibility and recognition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ### Comparing the three
 
 | Theory | Main driver of motivation | Best linked method |
@@ -110,6 +134,12 @@ For Herzberg, a pay rise stops complaints but does not make people work harder f
 | Herzberg | Motivators, once hygiene factors are fair | Job enrichment, recognition, promotion |
 
 **Worked application.** Linden Quay Cafe pays its baristas a fair hourly wage and offers a safe, clean kitchen. Staff still leave after a few months. Under Herzberg, pay and conditions are hygiene factors already in place, so the cafe should add motivators: let baristas design the seasonal menu and name a monthly top performer. Under Maslow, the baristas' physiological and safety needs seem met, so the cafe should target social and esteem needs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--08-linden-quay.webp" width="900" height="890" alt="Linden Quay Cafe already has fair pay and a safe kitchen. Herzberg says add motivators such as menu design and a monthly top performer. Maslow says the lower two levels are met so target social and esteem needs." loading="lazy">
+  <figcaption>The same cafe analysed with Herzberg and with Maslow: both point to recognition and responsibility.</figcaption>
+</figure>
+
 
 ## Financial methods of motivation
 
@@ -148,6 +178,27 @@ Because everyone gains when profit rises, staff are encouraged to cut waste and 
 - **Profit sharing** builds loyalty, but the link between one person's effort and the payout is weak.
 - **Fringe benefits** are valued by workers, but they cost the business and not every worker wants the same benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--01-commission-pay-split.webp" width="900" height="790" alt="A hotel adviser on a base salary plus 4% commission earns 3,900, of which 64.1% (2,500) is commission. Her pay rises with bookings but is less secure in a quiet month." loading="lazy">
+  <figcaption>Commission is 4% of 62,500 bookings, giving 64.1% of total pay of 3,900.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--06-pay-calculations.webp" width="900" height="870" alt="Three cards show worked pay examples: time-based pay 40 hours at 8.25 is 330, piece-rate 412 units at 0.85 is 350.20, salary 31,200 divided by 12 is 2,600 a month, each with one strength and one weakness." loading="lazy">
+  <figcaption>Time-based pay, piece-rate and salary worked through, with a strength and weakness of each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--07-profit-sharing.webp" width="900" height="980" alt="A profit bar of 240,000 with a 10 percent slice, a pool of 24,000, shared among 30 employees at 800 each." loading="lazy">
+  <figcaption>Venn Logistics shares 10% of a 240,000 profit equally among 30 employees: 800 each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
+
 ## Non-financial methods of motivation
 
 - **Job enrichment** gives workers more challenging tasks, more responsibility and more control over how they work. It links closely to Herzberg's motivators. It may need extra training and can raise pay expectations.
@@ -170,6 +221,12 @@ When a question asks you to recommend a method for a given situation, follow the
 **Worked case.** Bexley Hollow Workshop makes chairs. Each worker repeats one task all day. Absenteeism is high and several skilled workers have recently left. Pay is above the local average.
 
 A good recommendation is job rotation combined with some job enrichment. Pay is already above average, so a further pay rise (Herzberg's hygiene factor) is unlikely to fix repetition, and Taylor's piece-rate may push workers to rush. Rotation gives variety in the short term, and enrichment, such as letting teams plan their own work, adds responsibility. The limit is training cost and a temporary dip in speed. Overall, this is likely to cut absenteeism and turnover because it tackles boredom, the likely cause, and the justification rests on that link.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-motivating-employees--09-bexley-hollow.webp" width="900" height="1010" alt="Facts from the case lead to three options: pay rise and piece-rate are rejected with a reason, job rotation with enrichment is chosen. The limit is training cost and a slower start; the result is less absence and turnover." loading="lazy">
+  <figcaption>Bexley Hollow: facts, options weighed, the choice, its limit and its likely result.</figcaption>
+</figure>
+
 
 ## Common errors
 

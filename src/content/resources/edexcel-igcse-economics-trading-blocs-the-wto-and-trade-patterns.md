@@ -86,6 +86,32 @@ Trade has been **created** because a high-cost home producer is replaced by a lo
 
 Larger sales across the bloc spread fixed costs over more units. Lower costs allow lower prices or higher profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--06-trade-creation.webp" width="900" height="910" alt="Desks cost 80 at home; B costs 62 plus 30% tariff = 80.6 before the bloc, so A buys at home. After the bloc B costs 62 and A switches, saving 18 per desk and 90,000 on 5,000 desks." loading="lazy">
+  <figcaption>Trade creation: a cheaper partner replaces a home producer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--07-trade-diversion.webp" width="900" height="960" alt="Before the bloc outsider V (46 plus 20% tariff = 55.2) beats partner T (50 plus tariff = 60). After the bloc T costs 50 and S switches. Buyers save 52,000, the government loses 92,000 of tariff revenue, net -40,000." loading="lazy">
+  <figcaption>Trade diversion: a dearer partner replaces a cheaper outsider.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--02-bloc-scale-economies.webp" width="900" height="900" alt="A falling average cost curve passes through 60 at 20,000 units and 42 at 50,000 units, approaching variable cost 30. Stacked bars show fixed cost per unit falling from 30 to 12 while variable cost stays 30." loading="lazy">
+  <figcaption>Spreading fixed costs over more units cuts average cost by 30%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--03-outsider-v-response.webp" width="900" height="900" alt="Bars show T’s price 50, V’s current price 46 plus a 9.20 tariff giving 55.2, and the pre-tariff price 41.67 V needs for 50 after tariff. This is a cut of 9.4 percent and cuts V’s revenue on 10,000 tyres from 460,000 to about 416,667." loading="lazy">
+  <figcaption>What an outsider must do to match a partner’s price inside a bloc.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
+
 ### Impact on non-member countries
 
 A non-member faces the external tariff while partners trade freely. Its exports become dearer in the bloc than partners' goods. It may lose sales and jobs, and may be tempted to retaliate.
@@ -116,6 +142,12 @@ Gains are smaller when:
 
 A strong conclusion weighs these and states which matters most for the country given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--05-bloc-types.webp" width="900" height="1040" alt="Three panels with members A, B and C linked without barriers; arrows from a non-member meet tariff barriers. Free-trade area: different tariffs. Customs union: equal common tariff. Common market: common tariff plus free movement of labour and capital (stated in the caption only)." loading="lazy">
+  <figcaption>How the three types of trading bloc treat members and non-members.</figcaption>
+</figure>
+
+
 ## The World Trade Organization
 
 The **WTO** is an international organisation, set up in 1995 and based in Geneva, that sets rules for trade between its members and helps them settle disputes. Its aim is freer trade with fewer barriers.
@@ -137,6 +169,12 @@ The **WTO** is an international organisation, set up in 1995 and based in Geneva
 - Loss of exports = 800 − 680 = 120 million.
 - Percentage fall = 120 ÷ 800 = **15%**.
 - N complains to the WTO. If the ruling goes N's way and M refuses to remove the barrier, N may be authorised to restrict M's goods up to a value of about 120 million. The aim is to give M a reason to comply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--01-wto-steel-dispute.webp" width="900" height="1050" alt="Two bars show N’s steel sales to M falling from 800 to 680 million, a loss of 120 million or 15 percent. Four numbered steps follow: N complains, a panel rules, M refuses to lift the barrier, and N may restrict M’s goods up to about 120 million." loading="lazy">
+  <figcaption>The WTO dispute process using the steel example.</figcaption>
+</figure>
+
 
 ### Evaluating the WTO
 
@@ -170,6 +208,22 @@ A country relying on one product sees earnings swing with its price. This makes 
 **Worked example 7: why growth differs.** Take income elasticity of demand for coffee as 0.3 and for machinery as 1.5. If world incomes rise 10%, demand for coffee rises 0.3 × 10 = 3% and for machinery 1.5 × 10 = 15%. Exporters of machinery see demand grow much faster than exporters of primary products. This helps explain why developed economies, which export manufactures, often gain more from rising world incomes.
 
 Trade also links to the balance of payments. If Country D imports 560 million and exports 500 million, the trade balance is 500 − 560 = −60 million, a deficit of 12% of export earnings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--08-coffee-dependence.webp" width="900" height="830" alt="Two bars of export earnings: before 500 million (coffee 310, other 190); after a 20% coffee price fall with PED -0.5, coffee earns 272.8 million and total exports fall to 462.8 million, 7.4% lower." loading="lazy">
+  <figcaption>A country relying on one primary export loses income when its price falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## Common errors
 

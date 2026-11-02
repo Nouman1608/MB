@@ -124,6 +124,27 @@ Combine the right side: 2(x + 3) + 1(x + 1) = 3x + 7. So c = 3 and d = 7. This r
 
 Each piece is easier to handle, and the pieces can be integrated (H6). Part 2 shows a modelling use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--01-undoing-fraction-addition.webp" width="900" height="965" alt="Graph of 5/(x-3) (teal), 3/(x+2) (gold) and their sum (8x+1)/((x-3)(x+2)) (navy), with asymptotes at x = -2 and x = 3. At x = 4 the pieces are 5 and 0.5 and the sum is 5.5." loading="lazy">
+  <figcaption>Partial fractions split one fraction into simpler ones whose sum is the original. (AQA 7357 B10.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--02-why-substitute-works.webp" width="900" height="965" alt="Three lines: 8x+1 (navy), 5(x+2) (teal) and 3(x-3) (gold); the navy line is their sum. At x = 3 the gold line is zero so 25 = 5 x 5 and A = 5; at x = -2 the teal line is zero so -15 = 3 x (-5) and B = 3." loading="lazy">
+  <figcaption>Substituting the value that makes one bracket zero removes one unknown from the identity. (AQA 7357 B10.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--03-asymptote-owns-a-term.webp" width="900" height="980" alt="Graph of (7x+6)/(x(x-2)(x+3)) with asymptotes at x = -3, 0 and 2. Near each asymptote the curve follows one partial fraction: -1/(x+3), -1/x and 2/(x-2), giving A = -1, B = 2, C = -1." loading="lazy">
+  <figcaption>Each constant found by cover-up controls the curve near its own asymptote. (AQA 7357 B10.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--04-repeated-factor-both-powers.webp" width="900" height="980" alt="Graph of (4x-5)/((x+1)(x-2)^2) as the full decomposition, compared with a dashed curve that leaves out 1/(x-2). At x = 0 the correct value is -5/4 but the incomplete version gives -3/4." loading="lazy">
+  <figcaption>A repeated factor needs both A/(x-2) and C/(x-2)^2; omitting the first power gives a different function. (AQA 7357 B10.)</figcaption>
+</figure>
+
+
 ## Part 2: B11 Functions in modelling
 
 B11 asks you to use functions as models of real situations, and to judge how far each model can be trusted. OT3 in the specification describes the full cycle: translate a situation into a model with simplifying assumptions, use the model with suitable inputs, interpret the outputs in context, and refine the model by considering its outputs and assumptions.
@@ -221,6 +242,27 @@ t = (5 + √61)/2 = 6.41 hours   (reject the negative root)
 ```
 
 Limitation: the model starts at its largest value, but a drug taken by mouth would first rise as it is absorbed. Refinement: use a function that starts at 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--05-drug-model-split.webp" width="900" height="1022" alt="Graph of C = (18t+24)/((t+1)(t+3)) = 3/(t+1) + 15/(t+3). C starts at 8 mg/l, falls towards 0 and reaches 2 mg/l at about 6.41 hours. The model starts at its peak, which is a limitation." loading="lazy">
+  <figcaption>Splitting the model shows its two decaying parts and makes C = 2 easy to solve and interpret. (AQA 7357 B11.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--06-tide-model-window.webp" width="900" height="850" alt="Graph of h = 5.2 + 1.8 sin(30t) degrees with maximum 7.0 m, minimum 3.4 m and period 12 h. The depth is below 4 m between t = 7.39 and 10.61, 3.21 hours, about 07:24 to 10:36." loading="lazy">
+  <figcaption>A periodic model gives the times a threshold is crossed; the shaded part shows when the depth is too low. (AQA 7357 B11.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--07-growth-to-a-limit.webp" width="900" height="850" alt="Graph of B = 100 - 85e^(-0.5t): 15% at t = 0, 81.0% at t = 3 and 90% at t = 4.28 hours, approaching but never reaching 100%." loading="lazy">
+  <figcaption>A - Be^(-kt) models growth to a limit: it has a horizontal asymptote and never exactly reaches it. (AQA 7357 B11.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling--08-extrapolation-fails.webp" width="900" height="1040" alt="Graph of M = 120 + 17.5t against four observed values for t = 0 to 6, within 5 members of the model. Extended to t = 36 it predicts 750 members and passes the 400-person capacity at t = 16, so extrapolation is not believable." loading="lazy">
+  <figcaption>A model that fits the data well can still fail far outside the data range. (AQA 7357 B11.)</figcaption>
+</figure>
+
 
 ## Common errors
 

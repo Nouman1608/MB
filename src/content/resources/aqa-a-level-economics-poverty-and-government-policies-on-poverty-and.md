@@ -46,6 +46,17 @@ Ten households in Country A (illustrative) have monthly incomes of 450, 650, 800
 
 **Why both matter.** Absolute measures show whether needs are met. Relative measures capture exclusion from what is normal in a society, but can show "poverty" rising while real incomes rise. The absolute basket is arbitrary and quickly outdated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--06-poverty-lines-growth.webp" width="900" height="1050" alt="Ten households before and after every income rises 20%. The relative line (60% of median) moves from 1,020 to 1,224 and relative poverty stays 40%; the absolute line stays 700 so absolute poverty falls from 20% to 10%." loading="lazy">
+  <figcaption>Equal growth cuts absolute poverty but leaves relative poverty unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--13-pov-depth-of-poverty.webp" width="900" height="820" alt="The four households below the relative line of 1,020 earn 450, 650, 800 and 1,000, with shortfalls of 570, 370, 220 and 20: a total of 1,180, average 295, about 28.9 percent of the line." loading="lazy">
+  <figcaption>Equal headcounts can hide very different depths of poverty.</figcaption>
+</figure>
+
+
 ## Causes of poverty
 
 | Cause | Chain of reasoning |
@@ -62,6 +73,12 @@ Ten households in Country A (illustrative) have monthly incomes of 450, 650, 800
 | Market failure | Under-consumption of merit goods such as education; imperfect information |
 
 A cycle of deprivation arises when poor children receive weaker education, earn less and raise their own children in poverty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--11-pov-cycle-of-deprivation.webp" width="900" height="990" alt="Children in a poor household get weaker education and skills, earn less or have less work, and raise their own children in poverty. Causes such as unemployment, low pay, ill-health and low skills feed in; effects spread to individuals, society and the economy." loading="lazy">
+  <figcaption>Poverty can repeat across generations, with causes feeding in and effects spreading out.</figcaption>
+</figure>
+
 
 ## Effects of poverty
 
@@ -141,6 +158,37 @@ Moving from 0 to 400 of earnings raises net income by only 160: the household ke
 - Regional policy, infrastructure and enterprise support create jobs where structural unemployment is concentrated.
 - Anti-discrimination law and macroeconomic policy for full employment also help.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--07-progressive-tax-rates.webp" width="900" height="890" alt="Average tax rates at incomes 800, 2,500, 6,000 and 12,000 are 0%, 12.0%, 23.3% and 31.7%, below the marginal rates of 0%, 20%, 40% and 40%. The top-to-bottom income ratio falls from 15 to 10.25." loading="lazy">
+  <figcaption>The average rate of a progressive tax rises with income because the marginal rate is above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--08-poverty-trap.webp" width="900" height="860" alt="Net income against earnings with 10% tax and a £500 benefit withdrawn at 50p per pound: 500, 660, 820, 900, 1,080 at earnings 0, 400, 800, 1,000, 1,200. The household keeps 40p per extra pound up to 1,000 (marginal rate 60%) and 90p above." loading="lazy">
+  <figcaption>Benefit withdrawal makes extra earnings worth little to a low earner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--09-monopsony-minimum-wage.webp" width="900" height="860" alt="Monopsony labour market with S: W = 5 + 0.01L, MCL = 5 + 0.02L, MRP = 20 - 0.02L. The employer hires 375 at 8.75 against MRP 12.5; a minimum wage of 10 raises employment and pay to 500 and 10." loading="lazy">
+  <figcaption>A minimum wage can raise both pay and employment when one employer dominates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--10-pov-targeting.webp" width="900" height="1040" alt="A means-tested payment costs 39.6 million (36.0 million to 12,000 claimants plus 3.6 million administration), 1.10 pounds per pound reaching the poor, but 3,000 poor households miss out. A universal 600 payment costs 60 million with only 9.0 million reaching the poor, 6.67 pounds per pound." loading="lazy">
+  <figcaption>Means-testing is cheaper per pound delivered but misses some poor households.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
+
 ## Economic consequences of redistribution
 
 - **Incentives:** high marginal tax rates may reduce effort, hours or enterprise, and generous benefits may reduce job search. The size of the effect depends on how responsive people are.
@@ -148,6 +196,12 @@ Moving from 0 to 400 of earnings raises net income by only 160: the household ke
 - **Tax avoidance and mobility:** wealth and high earners may move capital or themselves abroad, shrinking the tax base.
 - **Aggregate demand:** poorer households have a higher marginal propensity to consume. Suppose 100m is taxed from households consuming 60% of extra income and paid to households consuming 90%. Initial consumption changes by -60 + 90 = +30m. With a multiplier of 2, income rises by 60m. This helps only if there is spare capacity.
 - **Efficiency and growth:** health and education spending can raise potential output; high marginal rates can lower it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--12-pov-redistribution-ad.webp" width="900" height="890" alt="Taxing 100 million from households that spend 60 percent lowers spending by 60; paying it to households that spend 90 percent raises spending by 90. Net +30 million, and with a multiplier of 2 income rises by 60 million, helping only if there is spare capacity." loading="lazy">
+  <figcaption>Redistribution to higher-spending households can raise aggregate demand.</figcaption>
+</figure>
+
 
 ## Evaluating approaches: moral and political perspectives
 
@@ -160,6 +214,12 @@ The specification expects you to recognise that views about redistribution rest 
 - **Left and right:** interventionist views accept higher taxes and universal provision; market-based views prefer lower taxes, work incentives, targeted help and growth.
 
 **Evaluation checklist:** identify who gains and loses; separate positive claims (a measurable effect) from normative ones (what is fair); consider size, time lags, work-effort responses and cost; then give a judgement tied to the objective, such as reducing absolute or relative poverty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and--14-pov-perspectives.webp" width="900" height="1028" alt="Utilitarian: an extra pound matters more to a poor household, so redistribution raises total welfare. Rawlsian: not knowing your place in society, you would protect the worst off. Libertarian: you are entitled to what you earn, so compulsory transfers violate property rights." loading="lazy">
+  <figcaption>Views on redistribution rest on value judgements.</figcaption>
+</figure>
+
 
 ## Common errors
 

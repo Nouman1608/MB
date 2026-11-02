@@ -57,6 +57,12 @@ These notes condense **section 3.10 Managing strategic change** (A-level only) o
 
 Reminder: drivers 12 and restrainers 9 give a net of +3. The change is more likely to work, but a single strong restrainer (such as a key group refusing to cooperate) can still stop it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--01-force-field-lowerby.webp" width="900" height="862" alt="Force field for Lowerby Candles with arrows proportional to score. Drivers 4, 3 and 5 total 12; restrainers 3, 3, 2 and 1 total 9. Net score is +3, so drivers narrowly win and managers could cut the restrainers, for example by retraining shop staff." loading="lazy">
+  <figcaption>Scoring the forces and comparing the totals shows whether change is likely to succeed.</figcaption>
+</figure>
+
+
 ### The flexible organisation (specification list)
 
 | Feature | Benefit | Cost or risk |
@@ -81,6 +87,12 @@ Reminder: drivers 12 and restrainers 9 give a net of +3. The change is more like
 
 Matching guide: misunderstanding goes with education and communication; self-interest with negotiation or participation; low tolerance with facilitation and support; different assessments with participation. Coercion is fast but damages trust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--04-resistance-methods.webp" width="900" height="992" alt="Four reasons for resistance (misunderstanding, different assessments, low tolerance of change, parochial self-interest) each point to a method with its drawback. Manipulation and coercion are shown as last resorts." loading="lazy">
+  <figcaption>Match the method to the cause of resistance and weigh its drawback.</figcaption>
+</figure>
+
+
 ## 3.10.2 Organisational culture
 
 **Culture** is the shared values and ways of behaving in a business. It affects motivation, decisions, service and how change is received.
@@ -99,6 +111,12 @@ Matching guide: misunderstanding goes with education and communication; self-int
 **Changing culture**
 - Reasons: new strategy, merger, poor performance, new technology, mismatch with the market.
 - Problems: slow and deep; resistance from long-serving staff; mixed messages; falling morale; staff leave.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-structure-types.webp" width="900" height="920" alt="Four small organisation charts: by function (marketing, finance, HR), by product, by region, and a matrix where each employee reports to a function manager and a project manager." loading="lazy">
+  <figcaption>Staff can be grouped by function, product or region, or in a matrix with two reporting lines.</figcaption>
+</figure>
+
 
 ## 3.10.3 Strategic implementation
 
@@ -127,6 +145,17 @@ Matching guide: misunderstanding goes with education and communication; self-int
 
 Uses: focus control on critical tasks, move resources from tasks with float, estimate the earliest finish. Limit: durations are estimates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--02-network-lowerby.webp" width="900" height="846" alt="Activity network for the Lowerby Candles launch with earliest start, latest finish and float for each activity. A, C, E and G have zero float and form the critical path of 13 weeks; B has 3 weeks float, D and F 4." loading="lazy">
+  <figcaption>The critical path is the longest route through the network, and activities on it have no float.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--03-network-amended.webp" width="900" height="910" alt="Bar chart over 13 weeks after D is lengthened to 6 weeks. D runs weeks 2 to 8, F weeks 8 to 11, so both are now critical alongside A, C, E and G. The project stays at 13 weeks with two critical paths." loading="lazy">
+  <figcaption>Lengthening D to 6 weeks leaves the project at 13 weeks but creates a second critical path.</figcaption>
+</figure>
+
+
 ## 3.10.4 Problems with strategy
 
 - **Difficulties**: uncertain information, unpredictable environment, conflicting stakeholder aims, limited resources, bias, long time lags.
@@ -137,6 +166,12 @@ Uses: focus control on critical tasks, move resources from tasks with float, est
 - **Evaluating strategic performance**: compare results with objectives, past results and rivals; use financial and non-financial measures; find the cause of any gap.
 - **Strategic planning**: direction, alignment, resource guide. Costs time; can be rigid; depends on forecasts.
 - **Contingency planning**: ready responses to possible shocks. Faster reaction, less panic; costs time and cannot cover everything.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--05-strategic-drift.webp" width="900" height="876" alt="Illustrative graph. The environment keeps changing at a rising rate. The strategy matches it until past success, then keeps its old pace, so the shaded gap widens. That gap is strategic drift. Causes listed: complacency, strong existing culture, slow market monitoring." loading="lazy">
+  <figcaption>Strategic drift is a gap that widens between strategy and a changing environment.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

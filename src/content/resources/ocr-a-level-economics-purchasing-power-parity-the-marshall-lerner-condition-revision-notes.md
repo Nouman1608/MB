@@ -50,6 +50,12 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 | Marshall-Lerner | PEDx + PEDm > 1 |
 | Multiplier | 1 / marginal propensity to withdraw (save + tax + import) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--07-unit-labour-cost-exchange-rate.webp" width="900" height="930" alt="Wages of 2,400 arcs for 40 units give 60 arcs per unit, 30 bels at 0.50 and 27 bels at 0.45, which is 10% lower." loading="lazy">
+  <figcaption>A depreciation cuts unit labour cost by 10% in foreign-currency terms.</figcaption>
+</figure>
+
+
 ## PPP in steps
 
 1. Find the PPP rate: basket cost at home divided by basket cost abroad.
@@ -67,6 +73,17 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 - Capital flows and speculation dominate the short run.
 - Judgement: weak short-run predictor, better long-run guide and a useful benchmark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--01-ppp-absolute.webp" width="900" height="920" alt="Two matching baskets cost 240 arcs in Country A and 180 bels in Country B, giving a PPP rate of 1.33 arcs per bel. On a number line the market rate of 1.50 sits to the right of the PPP rate, so the bel is overvalued by 12.5% and there is pressure for it to fall. A buyer who swaps 180 bels at 1.50 gets 270 arcs, which buys the 240-arc basket with 30 arcs to spare." loading="lazy">
+  <figcaption>Absolute PPP: a market rate of 1.50 against a PPP rate of 1.33 leaves the bel 12.5% overvalued.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--02-ppp-relative.webp" width="900" height="920" alt="Price levels rise from 100 to 106 in Country A and from 100 to 102 in Country B. Applying relative PPP to a starting rate of 1.50 arcs per bel gives 1.50 × 1.06 ÷ 1.02 = 1.559, so the bel appreciates by about 3.9% and the arc depreciates. The 4-point inflation gap is a close rule of thumb." loading="lazy">
+  <figcaption>Relative PPP: the 6% and 2% inflation gap moves the rate from 1.50 to 1.559.</figcaption>
+</figure>
+
+
 ## Why countries manage their exchange rate
 
 - Keep the currency low to hold export prices down abroad and protect home producers from import competition.
@@ -74,6 +91,17 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 - Help correct a persistent current account deficit.
 
 **Costs:** inflation from the extra money created when buying foreign currency, reserves that are finite and have an opportunity cost, interest rate conflict, retaliation by trading partners, and dearer imports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--03-depreciation-prices.webp" width="900" height="930" alt="The arc falls from 0.50 to 0.45 bels. A machine priced at 100 arcs costs a foreign buyer 50 bels before and 45 bels after, 10% cheaper. An import priced at 30 bels costs 60 arcs before and 66.7 arcs after, 11.1% dearer, because the division runs the other way. Bars show each price." loading="lazy">
+  <figcaption>A 10% fall in the arc cuts the foreign price of exports by 10% but raises the home price of imports by 11.1%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--04-managing-rate-methods-costs.webp" width="900" height="1170" alt="Selling own currency and buying foreign currency adds to reserves, risking inflation and finite reserves. Cutting interest rates deters hot money but can clash with inflation aims. Both hold the currency low so exports are cheaper and imports dearer, risking retaliation and lower living standards." loading="lazy">
+  <figcaption>Methods of holding a currency down and the cost attached to each step.</figcaption>
+</figure>
+
 
 ## Marshall-Lerner in steps
 
@@ -92,6 +120,12 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 
 **J-curve points.** Short-run elasticities are low because of existing contracts, slow buyer responses and supply lags. The balance falls to a trough, passes its starting level, then rises. A J-curve needs the condition to hold in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--04-marshall-lerner-cases.webp" width="900" height="930" alt="Trade starts balanced at 20,000 arcs each way and the arc depreciates 10%. In Case 1, PEDx 0.6 plus PEDm 0.3 is 0.9 (below 1): export revenue rises 1,200 but the import bill rises 1,340, so the balance worsens by 140 arcs. In Case 2, the sum is 1.5 (above 1): export revenue rises 1,800 and the import bill only 680, so the balance improves by 1,120 arcs." loading="lazy">
+  <figcaption>The worked example: a sum of elasticities below 1 worsens the balance and above 1 improves it.</figcaption>
+</figure>
+
+
 ## Competitiveness and macro objectives: chain of reasoning
 
 | Link | Effect |
@@ -104,6 +138,22 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 | Balance of payments | Improves after the J-curve, if the condition holds |
 
 **Evaluate with:** the size of the elasticities, time lags, spare capacity, pass-through, imported inputs, competitor responses and the weight of imports in spending. Supply-side improvements in productivity and quality give lasting non-price competitiveness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--05-currency-effectiveness-chain.webp" width="900" height="1126" alt="Five steps from a falling currency to higher output and jobs, with gates for pass-through, quality and rivals, the Marshall-Lerner sum and J-curve, and spare capacity. A side branch shows imported inflation creating a growth against inflation conflict." loading="lazy">
+  <figcaption>The chain from a weaker currency to output, with the checks that can break it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--06-depreciation-multiplier-inflation.webp" width="900" height="1010" alt="Withdrawals of 0.2, 0.2 and 0.1 total 0.5 so the multiplier is 2: +6bn net exports gives +12bn, 3.0% of 400bn. Imports are 25% of the basket and rise 11.1%, adding about 2.8% to prices." loading="lazy">
+  <figcaption>Net exports of +6bn become +12bn of income (3.0% of 400bn) while dearer imports add about 2.8% to prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--03-multiplier.webp" width="900" height="950" alt="Bars show successive rounds of spending after a 10 million pound injection with MPC 0.75, each 0.75 of the last. The multiplier 1 divided by 0.25 is 4, so national income rises by 40 million." loading="lazy">
+  <figcaption>With MPC 0.75 the multiplier is 4, so a 10m injection raises national income by 40m.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -158,3 +208,9 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 2, Macroeconomics: area of study The global context, topic Exchange rates (purchasing power parity, managing the exchange rate, the Marshall-Lerner condition and J-curve, competitiveness, and effectiveness of changing the value of a currency).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

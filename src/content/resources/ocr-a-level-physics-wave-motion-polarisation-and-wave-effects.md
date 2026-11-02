@@ -44,6 +44,27 @@ A progressive wave carries energy from one place to another. The particles of th
 - A **transverse** wave has oscillations perpendicular to the way the energy moves. Examples: waves on a rope, ripples on water, electromagnetic waves.
 - In a **longitudinal** wave the oscillations lie along the way the energy moves. This produces compressions (particles close together) and rarefactions (particles spread apart). Example: sound in air.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
+  <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
+</figure>
+
+
 ## Quantities and equations (4.4.1(b)(i), (c), (d))
 
 - **Displacement** is the distance of a point on the wave from its equilibrium position, in a stated direction.
@@ -134,6 +155,17 @@ Microwaves of frequency 10.0 GHz travel at 3.00 × 10⁸ m s⁻¹.
 ```
 
 Through a gap 3.0 cm wide the waves spread widely, because the gap is comparable to λ. Through a gap 30 cm wide the spreading is slight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Polarisation (4.4.1(f)(i), (iii))
 

@@ -48,6 +48,22 @@ D has the x-value of A (−2) and the y-value of C (5), so **D = (−2, 5)**.
 
 Sketch the points: it catches most slips.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--01-along-then-up.webp" width="900" height="960" alt="Points A (2, 5) and B (5, 2) are plotted on a 0 to 6 grid. Each is reached by moving across x first, then up y. They are different points, so the order of the numbers matters." loading="lazy">
+  <figcaption>Always move along the x-axis first, then up or down the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--03-complete-rectangle.webp" width="900" height="1060" alt="Rectangle PQRS has P (-3, 2), Q (1, 2) and R (1, -4). S is found directly below P and level with R, giving S (-3, -4). The sides measure 4 and 6 units." loading="lazy">
+  <figcaption>S shares its x with P and its y with R.</figcaption>
+</figure>
+
+
 ## 3.2 Drawing linear graphs
 
 An equation in which x and y appear only to the power 1 gives a straight line. Two points define it, but plot three so that a slip shows up as an off-line point.
@@ -73,6 +89,17 @@ Join (0, 3) and (4, 0) and extend the line. For a check point, try x = −4: 3(�
 
 If the line passes through the origin both intercepts are the same point, so use a table instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
+</figure>
+
+
 ## 3.3 Gradient of linear graphs
 
 The gradient measures steepness: how far the line goes up for each unit it goes across.
@@ -88,6 +115,17 @@ Special cases: a horizontal line has gradient 0. A vertical line has no gradient
 Gradient = (−2 − 7) ÷ (5 − (−1)) = −9 ÷ 6 = **−3/2**.
 
 Use the same point first on top and bottom. The answer is the same whichever point you call first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
 
 ## 3.4 Length and midpoint
 
@@ -116,6 +154,17 @@ The midpoint is halfway, so B is as far from M as A is, in the opposite directio
 B = (3 − 4, −1 − 3) = **(−1, −4)**.
 
 Check: the midpoint of (7, 2) and (−1, −4) is (3, −1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-coordinate-geometry--03-endpoint-from-midpoint.webp" width="900" height="920" alt="A(7, 2), M(3, -1) and B(-1, -4) lie on a line. From A to M x changes by -4 and y by -3; repeating the same change from M reaches B." loading="lazy">
+  <figcaption>M is halfway, so apply the same change from M that took you from A to M.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--03-length-midpoint.webp" width="900" height="960" alt="A line from A (-2, 1) to B (6, 7) forms a right triangle 8 across and 6 up, so its length is 10. The midpoint is the average of the coordinates, (2, 4)." loading="lazy">
+  <figcaption>Length uses Pythagoras; the midpoint averages the coordinates.</figcaption>
+</figure>
+
 
 ## 3.5 Equations of linear graphs
 
@@ -146,6 +195,17 @@ So y = (2/5)x − 3. The gradient is **2/5** and the y-intercept is **−3**, wh
 To give the answer as 3x − 2y = 8, multiply by 2 to get 2y = 3x − 8 and rearrange. Either form is a correct equation, but follow any form the question asks for.
 
 **Equation from a graph.** Read the y-intercept c where the line meets the y-axis. Find the gradient with a triangle. If a line crosses the y-axis at 4 and passes through (3, −2), the gradient is (−2 − 4) ÷ 3 = −2, so y = −2x + 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-coordinate-geometry--03-gradient-from-ax-by-c.webp" width="900" height="940" alt="Graph of 3x + 4y = 12 through (0, 3), (4, 0) and (-4, 6), with a triangle across 4 and down 3. Below, rearranging to y = -3/4 x + 3 gives gradient -3/4 and y-intercept 3, not 3, 4 or 3/4." loading="lazy">
+  <figcaption>Rearrange ax + by = c to y = mx + c before reading the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
 
 ## 3.6 Parallel lines
 
@@ -202,6 +262,12 @@ Check: the midpoint (1, −2) gives 3 + 4 = 7. Correct.
 
 Gradient of AB = (3 − 1) ÷ (5 − 1) = 1/2. Gradient of BC = (7 − 3) ÷ (3 − 5) = 4 ÷ (−2) = −2.
 The product is (1/2) × (−2) = −1, so AB and BC are perpendicular and angle ABC is 90°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-coordinate-geometry--02-right-angle-gradients.webp" width="900" height="950" alt="Triangle ABC with A(1, 1), B(5, 3), C(3, 7) on a grid. AB goes across 4 and up 2, gradient 1/2. BC goes across -2 and up 4, gradient -2. The product is -1, so angle ABC is 90 degrees." loading="lazy">
+  <figcaption>Gradients 1/2 and -2 multiply to -1, so AB and BC are perpendicular.</figcaption>
+</figure>
+
 
 ## Common errors
 

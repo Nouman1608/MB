@@ -72,6 +72,22 @@ These notes condense sections 3.4, 3.6 and 3.8 of the Cambridge O Level Economic
 
 **Reminder example.** 20 workers on 350 a week: bill 20 × 350 = 7,000. An 8% rise gives 7,000 × 1.08 = 7,560, so 560 more a week. If output is 1,400 units, labour cost per unit rises from 5.00 to 5.40.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--04-eco52-unions.webp" width="900" height="930" alt="A lone worker has little power while a group can bargain for all. Three boxes show the union roles: bargain over pay, hours and conditions; protect jobs; lobby government. Five chips list what makes a union stronger." loading="lazy">
+  <figcaption>A union gains power by acting together, and some conditions make it stronger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--01-un172-unions-pros-cons.webp" width="900" height="910" alt="Three panels for workers, firms and government, each split into advantages (plus signs) and disadvantages (minus signs). Workers gain pay, security and a voice but pay fees and risk lost pay and jobs; firms gain one negotiating body but face higher costs and strikes; government gains orderly bargaining but loses output and tax and may see higher prices and benefit spending." loading="lazy">
+  <figcaption>The same union can help and hurt workers, firms and the government in different ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--02-un172-pay-claim.webp" width="900" height="900" alt="Three pairs of bars compare now with after a 6 percent pay rise. The weekly wage bill goes from 20,000 to 21,200, labour cost per unit from 10.00 to 10.60, and to keep the cost at 10.00 output would need to rise from 2,000 to 2,120 units, which is 42.4 per worker instead of 40." loading="lazy">
+  <figcaption>A 6% pay rise adds 1,200 a week and raises unit cost to 10.60 unless output also rises 6%.</figcaption>
+</figure>
+
+
 ## 3.6 Firms and production
 
 ### Factor demand (3.6.1)
@@ -85,6 +101,12 @@ These notes condense sections 3.4, 3.6 and 3.8 of the Cambridge O Level Economic
 
 **Chain:** consumers want more product, so the firm raises output, so it hires more factors. Higher productivity can offset this by letting the firm meet extra demand with the same inputs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--03-un172-chairs-derived.webp" width="900" height="890" alt="Three rows of worker figures. Ten workers make 400 chairs a week. When demand for chairs rises 30 percent to 520, thirteen workers are needed at 40 chairs each, so three more are hired. If training lifts output to 52 chairs per worker, ten workers are enough." loading="lazy">
+  <figcaption>Demand for workers rises and falls with demand for the product, and higher productivity can remove the need to hire.</figcaption>
+</figure>
+
+
 ### Labour- or capital-intensive (3.6.2)
 
 | | Labour-intensive | Capital-intensive |
@@ -96,6 +118,12 @@ These notes condense sections 3.4, 3.6 and 3.8 of the Cambridge O Level Economic
 
 **Reminder calculation.** Output 900 units a week with 6 workers gives 900 ÷ 6 = 150 units per worker. A firm can compare methods by cost per unit: total cost of all factors used ÷ output. The method with the lower figure is cheaper at those factor prices, but check how sensitive the answer is to a change in wages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--05-eco52-labour-capital.webp" width="900" height="890" alt="Line graph of weekly cost against weekly wage for 500 units. Labour-intensive cost is 12w+400, capital-intensive is 3w+2,200. They cross at wage 200 (cost 2,800); labour is cheaper below, capital above." loading="lazy">
+  <figcaption>Lower wages favour labour-intensive methods; higher wages favour capital-intensive ones.</figcaption>
+</figure>
+
+
 ### Production and productivity (3.6.3)
 
 | | Production | Productivity |
@@ -105,6 +133,22 @@ These notes condense sections 3.4, 3.6 and 3.8 of the Cambridge O Level Economic
 | Key point | Can rise while productivity falls | Rising productivity tends to lower unit cost |
 
 **Reminder calculation.** A team of 15 workers makes 1,800 units: 1,800 ÷ 15 = 120 per worker. After training, 12 workers make the same 1,800: 1,800 ÷ 12 = 150, an increase of 30 ÷ 120 = 25%. Same production, higher productivity, three workers freed for other tasks (or fewer needed).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## 3.8 Market structure
 
@@ -130,6 +174,12 @@ Possible drawbacks: small firms may miss economies of scale; thin profits leave 
 **Market share:** firm's sales ÷ total market sales. A firm selling 45,000 of 60,000 units has 75%.
 
 Syllabus note: no diagrams or perfect and imperfect competition theory are required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to practise
 

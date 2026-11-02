@@ -78,6 +78,17 @@ The brief lists three HL-only lenses (5, 7 and 5 recommended hours) and asks HL 
 - Trade or reputational pressure.
 - Financial help for poorer countries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--02-levels-of-law.webp" width="900" height="850" alt="Three bands show levels of law. International law is agreed between states: the Ramsar Convention 1971, CITES 1973, the Montreal Protocol 1987 and the Paris Agreement 2015. National law is passed by a legislature: requiring an environmental impact assessment before large projects, air-quality standards and species protection. Local law is by-laws and planning rules, such as city low-emission zones." loading="lazy">
+  <figcaption>Laws are made at international, national and local level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--01-ess-hard-soft-paris.webp" width="900" height="680" alt="A bar splits into soft law on the left and hard law on the right. Soft law is guidance, declarations and voluntary targets that work through reputation and peer pressure. Hard law is legally binding and enforced by penalties, for example a national pesticide ban. Below, the Paris Agreement of 2015 sits across both halves: countries must submit and update their climate pledges (nationally determined contributions), which is hard law, but there is no penalty for missing the targets in those pledges, which is soft law." loading="lazy">
+  <figcaption>Soft law works through reputation; hard law through penalties; the Paris Agreement mixes both.</figcaption>
+</figure>
+
+
 ## HL.b Environmental and ecological economics — key terms
 
 | Term | Meaning |
@@ -97,6 +108,12 @@ The brief lists three HL-only lenses (5, 7 and 5 recommended hours) and asks HL 
 - **Environmental economics:** the environment sits inside the economy. Fix market failure by putting a price on harm. Uses cost-benefit analysis. Weak sustainability.
 - **Ecological economics:** the economy sits inside the biosphere. Fix the scale of material throughput first. Strong sustainability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--02-ess-environmental-vs-ecological.webp" width="900" height="828" alt="Two pictures side by side. In environmental economics the environment is drawn as one part inside the economy; the main problem is market failure because prices leave out environmental costs; sustainability is weak, meaning natural capital can be replaced by human-made capital; typical solutions price the harm with taxes, permits and cost-benefit analysis. In ecological economics the economy is drawn as a subsystem inside the biosphere; the main problem is that the economy is too big for Earth's limits; sustainability is strong, meaning critical natural capital cannot be replaced; typical solutions set physical limits first, such as steady-state or doughnut models and the circular economy." loading="lazy">
+  <figcaption>Environmental economics puts the environment inside the economy; ecological economics puts the economy inside the biosphere.</figcaption>
+</figure>
+
+
 ### Total economic value (TEV)
 
 | Component | Type | Example (wetland) |
@@ -108,6 +125,27 @@ The brief lists three HL-only lenses (5, 7 and 5 recommended hours) and asks HL 
 | Bequest | Non-use | Leaving the wetland to your grandchildren |
 
 **Valuation methods:** market prices; contingent valuation (willingness to pay, stated in a survey); travel cost; hedonic pricing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--03-tev-mangrove.webp" width="900" height="840" alt="A stacked column shows a mangrove valued at 575,000 US dollars a year. From the bottom: direct use 120,000 (20.9 percent), indirect use 340,000 (59.1 percent), option value 30,000, existence value 60,000 and bequest value 25,000. Use value is 490,000 and non-use value is 85,000. A market price sees only the direct use, 20.9 percent of the total. The data are fictional." loading="lazy">
+  <figcaption>Most of the mangrove’s value (59.1%) is indirect use, which market prices miss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--04-carbon-tax-abatement.webp" width="900" height="900" alt="Graph of cost in US dollars per tonne against tonnes of carbon dioxide cut. The factory can cut its first 5,000 tonnes at 25 per tonne and further cuts cost 60 per tonne. A tax of 40 per tonne makes the first 5,000 tonnes worth cutting (25 is less than 40) and the rest worth paying tax on (60 is more than 40). Cutting costs 125,000, tax on the remaining 7,000 tonnes is 280,000, total 405,000 against 480,000 with no cuts, a saving of 75,000." loading="lazy">
+  <figcaption>The factory cuts the first 5,000 t because 25 is less than the 40 tax, saving USD 75,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--05-cap-and-trade-two-firms.webp" width="900" height="790" alt="Two firms must cut 1,000 tonnes between them. Firm A abates at 20 US dollars per tonne and firm B at 50. An equal split costs 10,000 for A plus 25,000 for B, 35,000 in total. If B buys permits from A and A makes all the cuts, the cost is 20,000, which saves 15,000. The permit price settles between 20 and 50 dollars per tonne." loading="lazy">
+  <figcaption>Letting the cheaper abater do the cutting achieves the same cut for 15,000 less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--03-ess-tax-vs-cap.webp" width="900" height="905" alt="Two graphs of marginal abatement cost (MAC), drawn with illustrative numbers: the cost per tonne of cutting emissions rises with the amount cut, as MAC = 8 x cut now, and MAC = 5 x cut if cutting becomes cheaper. Top graph, a carbon tax of 40 per tonne: the price is fixed, and the amount cut varies, from 5 thousand tonnes now to 8 thousand when cuts are cheaper. Bottom graph, a cap fixing the cut at 5 thousand tonnes: the quantity is fixed, and the permit price varies, from 40 now to 25 when cuts are cheaper." loading="lazy">
+  <figcaption>A tax fixes the price and lets the quantity cut vary; a cap fixes the quantity and lets the price vary.</figcaption>
+</figure>
+
 
 ### Tools and formulas
 
@@ -131,6 +169,12 @@ The brief lists three HL-only lenses (5, 7 and 5 recommended hours) and asks HL 
 
 A higher discount rate r shrinks future values more. Damage worth USD 1,000,000 in 50 years has a present value of about 608,000 USD at 1% but only about 87,000 USD at 5%. So high rates favour short-term gains over long-term protection. The rate is a value judgement, not only a technical number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--06-discounting-present-value.webp" width="900" height="790" alt="Graph of present value in US dollars against years from now for 1,000,000 dollars of damage avoided in year 50. At a 1 percent discount rate the present value is 608,039, at 3 percent 228,107 and at 5 percent 87,204. A higher discount rate makes long-term harm look smaller. Present value equals future value divided by one plus r to the power t." loading="lazy">
+  <figcaption>The higher the discount rate, the smaller the present value of damage 50 years away.</figcaption>
+</figure>
+
+
 ## HL.c Environmental ethics — key terms
 
 | Term | Meaning |
@@ -151,6 +195,12 @@ A higher discount rate r shrinks future values more. Damage worth USD 1,000,000 
 
 Match these to the Topic 1 value systems: technocentric and anthropocentric views give nature instrumental value; ecocentric views give it intrinsic value. See [Topic 1: Foundations revision notes](/resources/ib-dp-ess-topic-1-foundations-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--07-moral-standing-rings.webp" width="900" height="1020" alt="Four nested circles show who counts morally. The innermost is anthropocentric, humans only. Next is sentientist, all beings that can feel pain (Peter Singer, 1975). Then biocentric, every living organism (Paul Taylor, 1986). The outermost is ecocentric, whole ecosystems, species and processes (Aldo Leopold, 1949; Arne Naess, 1973)." loading="lazy">
+  <figcaption>Moral standing widens from humans only to whole ecosystems.</figcaption>
+</figure>
+
+
 ### Justice
 
 - **Distributive:** who gets costs and benefits.
@@ -161,6 +211,12 @@ Match these to the Topic 1 value systems: technocentric and anthropocentric view
 ## Linking the lenses (memorise one chain)
 
 Ozone depletion: **law** — Montreal Protocol, binding phase-out. **Economics** — substitutes were affordable, so compliance was cheap; the damage to health and crops made the benefits large. **Ethics** — precaution and intergenerational equity justified acting before every uncertainty was resolved. Each lens explains part of why this agreement worked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--01-three-lenses.webp" width="900" height="780" alt="An issue from Topics 1 to 8 branches into three lenses. The law lens asks which rules apply, who must obey them and who enforces them. The economics lens asks how the issue is valued, who pays the costs and who gets the benefits. The ethics lens asks who or what counts and which principles justify an action. Recommended HL hours are 5 for law, 7 for economics and 5 for ethics." loading="lazy">
+  <figcaption>Each lens is a set of questions you bring to an issue you already know.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

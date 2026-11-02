@@ -55,6 +55,12 @@ An STI is an infection passed from person to person during sexual contact. Some 
 
 **Gonorrhoea (bacterial).** Spread by unprotected sex. It causes a thick yellow or green discharge and pain on urinating. It is treated with antibiotics, but some strains have become resistant, so prevention with condoms matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--12-stis-hiv-chlamydia-gonorrhoea.webp" width="900" height="1060" alt="HIV (virus) attacks T helper cells; chlamydia and gonorrhoea are bacterial and treated with antibiotics. A flow shows HIV infection, falling T helper cells, then AIDS." loading="lazy">
+  <figcaption>HIV is the virus; AIDS is the late stage.</figcaption>
+</figure>
+
+
 ### Worked example 1: STI screening
 
 A clinic screens 1,850 people for chlamydia and 111 test positive. Calculate the percentage who tested positive.
@@ -62,6 +68,12 @@ A clinic screens 1,850 people for chlamydia and 111 test positive. Calculate the
 111 ÷ 1,850 = 0.06, so 0.06 × 100 = **6.0%**.
 
 Worked example 2 shows why a sample result is only an estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--15-percentage-and-sampling-worked-examples.webp" width="900" height="1190" alt="Screening: 111 of 1850 is 6.0%. Sampling: 9 of 40 plants is 22.5%, about 1460 of 6500 plants. Fungicide: mildew falls from 34% to 8%, a 76.5% reduction." loading="lazy">
+  <figcaption>Turning counts into percentages and estimates.</figcaption>
+</figure>
+
 
 ### The three named plant diseases
 
@@ -77,6 +89,12 @@ Plants have no antibodies or white blood cells, but pathogens damage them just a
 
 For crown gall, the bacterium transfers some of its own DNA into plant cells, which makes them divide and form the gall. You do not need more detail than this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--13-plant-diseases-tmv-mildew-crown-gall.webp" width="900" height="860" alt="Tobacco mosaic virus gives patchy leaves, barley powdery mildew (a fungus) gives white powder, and crown gall (a bacterium) gives tumour-like galls; each has its own spread route." loading="lazy">
+  <figcaption>Match each disease to its pathogen type, signs and spread.</figcaption>
+</figure>
+
+
 ### Worked example 2: estimating from a sample
 
 A farmer wants to know how many plants in a field of 6,500 barley plants have powdery mildew. She checks 40 plants at random places and finds 9 with white powder.
@@ -87,6 +105,12 @@ A farmer wants to know how many plants in a field of 6,500 barley plants have po
 
 This is an estimate. A bigger sample, or several samples averaged, would be more reliable, and the 40 plants must be chosen randomly, not just from the field edge where wind carries spores first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--11-named-human-infections-flu-salmonella-athletes-foot.webp" width="900" height="980" alt="Influenza (virus, droplets), Salmonella (bacterium, raw or undercooked meat and eggs) and athlete's foot (fungus, contact and damp floors), with effects and prevention or treatment." loading="lazy">
+  <figcaption>One viral, one bacterial and one fungal infection compared.</figcaption>
+</figure>
+
+
 ## B6.3g: physical plant defences
 
 Physical defences stop pathogens getting in. They work all the time, whether or not the plant is infected.
@@ -95,6 +119,12 @@ Physical defences stop pathogens getting in. They work all the time, whether or 
 - **Cell wall.** A tough layer of cellulose around every plant cell. A pathogen that gets past the cuticle must still break through the cell wall to reach the cell contents, and the wall is hard to digest or penetrate.
 
 Pathogens can still get in through wounds, which is why crown gall is linked to damaged tissue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--03-plant-defences.webp" width="900" height="1060" alt="Section through a leaf surface. Pathogens land on a waxy waterproof cuticle, the first barrier. Each cell has a cellulose cell wall, the second barrier. Antimicrobial chemicals inside cells kill or stop growth of bacteria and fungi that get through." loading="lazy">
+  <figcaption>Physical barriers (cuticle, cell wall) stop entry; antimicrobial chemicals act inside.</figcaption>
+</figure>
+
 
 ## B6.3h: chemical plant defences
 
@@ -135,6 +165,12 @@ Samples A and C match the positive control, so they contain TMV DNA. Sample B ha
 ### Worked example 5: patterns in data
 
 Ten-plant groups were given different numbers of wounds, and the mean number of galls counted: 0 wounds, 0 galls; 2 wounds, 3 galls; 4 wounds, 6 galls; 6 wounds, 10 galls; 8 wounds, 13 galls. The scatter diagram shows a strong positive correlation: more wounds go with more galls. It fits the biology because the bacteria enter through wounds. A correlation alone does not prove the cause, but it supports a hypothesis you can test further.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--14-dna-gel-reading-tmv.webp" width="900" height="910" alt="A gel with positive and negative controls and four samples. Samples A and C have a 410 base pair band like the positive control, B has none, and D has a band at 250 only, so it is not TMV DNA." loading="lazy">
+  <figcaption>Reading bands against the controls.</figcaption>
+</figure>
+
 
 ## Common errors
 

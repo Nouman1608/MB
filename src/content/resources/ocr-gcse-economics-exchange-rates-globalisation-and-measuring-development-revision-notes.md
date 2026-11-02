@@ -32,6 +32,12 @@ These notes condense sections 4.3 and 4.4 of the OCR GCSE (9-1) Economics specif
 | Demand for a currency | from overseas buyers of exports, tourists and investors |
 | Supply of a currency | from residents buying imports, travelling and investing abroad |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--02-fx-bakery-rates.webp" width="900" height="1130" alt="Two sets of bars for a bakery at exchange rates of 1.00, 1.25 and 1.60 dollars per pound. An 8 pound cake costs 8, 10 and 12.80 dollars abroad, so the appreciation to 1.60 makes it 28% dearer. The flour bill for 20 tonnes at 500 dollars a tonne is 10,000, 8,000 and 6,250 pounds. A higher pound makes exports dearer abroad and imports cheaper at home." loading="lazy">
+  <figcaption>When the pound rises the bakery cake costs more overseas but its imported flour costs less.</figcaption>
+</figure>
+
+
 ## Conversion: method in steps
 
 1. Write the rate as "£1 = X units of the foreign currency".
@@ -49,6 +55,12 @@ Worked reminders at £1 = €1.30 (illustrative):
 - If the rate falls to £1 = €1.20, the same bill costs 300 ÷ 1.20 = £250.00.
 
 Percentage change in a rate: (new − old) ÷ old × 100. From 1.30 to 1.20 is −7.7%. From 1.30 to 1.56 is +20.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--03-currency-conversion-fee.webp" width="900" height="770" alt="At 1 pound = 1.25 dollars, multiply to convert pounds to dollars and divide to convert back. For a 600 pound exchange at 1.35 euros with a 12 pound fee, the fee is taken first: 588 x 1.35 = 793.80 euros, against 810 euros with no fee." loading="lazy">
+  <figcaption>Multiply to go from pounds to dollars, divide to come back, and take fees off first.</figcaption>
+</figure>
+
 
 ## Drawing and analysing the diagram
 
@@ -68,6 +80,12 @@ Percentage change in a rate: (new − old) ÷ old × 100. From 1.30 to 1.20 is �
 
 Distinction to remember: a change in the exchange rate itself is a movement along the curves. A change in anything else shifts a curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--04-pound-market-demand-rise.webp" width="900" height="760" alt="Exchange rate diagram with dollars per pound on the vertical axis and millions of pounds traded a day on the horizontal axis. Supply S and demand D1 cross at 1.20 and 70 million. Demand rises by 30 million at every rate to D2, which crosses S at 1.30 and 85 million, an 8.3% appreciation." loading="lazy">
+  <figcaption>Higher demand for pounds moves the equilibrium from 1.20 to 1.30 dollars per pound.</figcaption>
+</figure>
+
+
 ## Reading exchange rate data
 
 - State the start and end values and the direction.
@@ -75,6 +93,12 @@ Distinction to remember: a change in the exchange rate itself is a movement alon
 - Pick out the biggest rise or fall and the turning points.
 - Suggest a cause from the curves, and say data alone does not prove it.
 - Note what averages hide, and that past patterns need not continue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--01-fx-pound-market.webp" width="900" height="1010" alt="Exchange-rate diagram with dollars per pound on the vertical axis and millions of pounds traded per day on the horizontal axis. Demand for pounds D1 slopes down and supply S slopes up, crossing at 1.20 dollars and 70 million pounds. When overseas demand rises by 30 million at every rate, demand shifts right to D2 and the new equilibrium is 1.30 dollars and 85 million pounds, so the pound appreciates by 8.3%." loading="lazy">
+  <figcaption>A floating exchange rate is a price: more demand for pounds raises it from 1.20 to 1.30 dollars, an 8.3% appreciation.</figcaption>
+</figure>
+
 
 ## Effects of a change in the rate
 
@@ -103,6 +127,12 @@ At £1 = €1.30 a £50 export is priced at €65.00. At €1.20 it is €60.00.
 | Rising incomes | more demand for varied and foreign goods |
 | Freer capital movement | investment moves to where returns are highest |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--04-offshoring-shirt.webp" width="900" height="950" alt="Two stacked bars of cost per shirt. Made at home it costs 14.00 pounds: labour 6.00, materials 5.00 and overheads 3.00. Made offshore it costs 10.50 pounds: labour 1.80, materials 5.00, overheads 2.20 and transport plus import tax 1.50. The saving is 3.50 pounds a shirt, 25%, or 700,000 pounds on 200,000 shirts." loading="lazy">
+  <figcaption>Moving production abroad cuts the shirt cost from £14.00 to £10.50, mainly through lower labour cost.</figcaption>
+</figure>
+
+
 ## Measuring development
 
 | Measure | What it shows | Limit |
@@ -116,6 +146,22 @@ At £1 = €1.30 a £50 export is priced at €65.00. At €1.20 it is €60.00.
 GDP per capita = GDP ÷ population. A country with 48 billion dollars of GDP and 12 million people has 4,000 dollars per head. If GDP grows 3% and population 1.2%, GDP per capita grows 1.03 ÷ 1.012 − 1 = 1.8%.
 
 Composite measures, such as the Human Development Index, combine income, health and education, so give a fuller picture than income alone. Two countries with equal GDP per capita can differ a lot in health and education.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--03-dev-indicators.webp" width="900" height="1070" alt="Paired bars for Country X and Country Y on five indicators from the lesson: GDP per capita 9,000 against 3,000 dollars, life expectancy 74 against 63 years, doctors per 1,000 people 2.4 against 0.5, internet users per 100 people 70 against 22, and years of schooling 10.2 against 5.1. Each indicator is drawn to its own scale, with Country X as the full bar." loading="lazy">
+  <figcaption>Country X leads on every indicator, but the gaps in health, technology and schooling differ from the income gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--05-mean-vs-median-income.webp" width="900" height="850" alt="A number line of monthly household income in dollars with five households at 1,000, 1,200, 1,500, 1,800 and 9,500. The median, the middle household, is 1,500. The mean is 3,000 because the 9,500 household pulls it upwards." loading="lazy">
+  <figcaption>One very high income pulls the mean up to 3,000 dollars while the typical household earns 1,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
 
 ## Costs and benefits of globalisation
 

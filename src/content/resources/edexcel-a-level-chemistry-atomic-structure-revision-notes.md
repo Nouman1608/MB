@@ -38,9 +38,26 @@ Condensed for the final weeks. For the full explanation, use the
 
 **For an ion**, adjust the electron count by the charge: a **positive ion has fewer electrons than protons**; a **negative ion has more electrons than protons**. Practise this subtraction/addition until automatic — it is tested constantly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+
 ## Isotopes (2.5)
 
 **Isotopes** = atoms of the same element (identical proton number) with **different numbers of neutrons**, and therefore different mass numbers. Because chemistry is governed by electron arrangement, isotopes of the same element have (near-)identical chemical properties but different physical properties (e.g. mass).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
 
 ## Mass spectrometry (2.6–2.7)
 
@@ -67,6 +84,22 @@ Ar = (mass1 x abundance1 + mass2 x abundance2 + ...) / 100
 
 Ar = 35.5 — matches chlorine's known value, and shows why relative atomic masses are rarely whole numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-chemistry-atomic-structure-revision-notes--02-mz-2plus-ions.webp" width="900" height="800" alt="Two magnesium-24 ions: Mg+ appears at m/z 24/1 = 24 and Mg2+ at 24/2 = 12, so one isotope gives two peaks. Bar heights are illustrative." loading="lazy">
+  <figcaption>An ion with 2+ charge appears at half its mass in m/z.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
+  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
+  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
+</figure>
+
+
 ## Predicting mass spectra for diatomic molecules (2.7)
 
 Chlorine is diatomic (Cl₂), so its molecular ion peaks reflect **combinations** of its two isotopes — not simply one peak per isotope. Two isotopes combine into **three** possible molecular ion masses:
@@ -78,6 +111,12 @@ Chlorine is diatomic (Cl₂), so its molecular ion peaks reflect **combinations*
 | ³⁷Cl–³⁷Cl | 74 |
 
 **Relative peak heights** follow the probability of each combination occurring, calculated from the isotopic abundances (not simply equal heights) — this is a common source of lost marks when students assume three equal peaks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Worked example: identifying a molecule from its molecular ion peak
 
@@ -96,6 +135,12 @@ Step 2: use other evidence (fragmentation pattern, the sample's
 ```
 
 This illustrates why the molecular ion peak alone identifies relative molecular mass, but rarely identifies a compound uniquely without further evidence — a distinction worth stating explicitly in an exam answer rather than assuming one m/z value maps to one structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-chemistry-atomic-structure-revision-notes--01-mr44-candidates.webp" width="900" height="930" alt="A mass spectrum has one molecular ion peak at m/z 44, linked by dashed lines to three compounds. CO2 (12+16+16), propane C3H8 ((12x3)+8) and ethanal C2H4O (24+4+16) all have Mr 44, so the peak alone cannot identify the compound." loading="lazy">
+  <figcaption>Three different compounds can share one molecular ion peak at m/z 44.</figcaption>
+</figure>
+
 
 ## Why isotopic abundance data matters beyond one calculation
 

@@ -71,6 +71,27 @@ Every figure here is invented. Country B and its money units are fictional.
 
 The specification does not name the multiplier. Treat this as the knock-on effect of spending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--10-multiplier-rounds.webp" width="900" height="940" alt="Government spending rises by 4 bn aru and 0.75 of each round is spent again: rounds of 4.00, 3.00, 2.25, 1.69 and so on, adding up to 4 divided by 0.25 = 16 bn aru." loading="lazy">
+  <figcaption>Each round is 0.75 of the last and the rounds sum to 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--11-spend-vs-tax-cut.webp" width="900" height="940" alt="6 bn aru of spending gives a total rise of 24; a 6 bn aru tax cut has 1.5 saved at once and gives 18. If spare capacity is only 15, about 9 of the 24 pushes up prices instead of output." loading="lazy">
+  <figcaption>A tax cut gives a smaller boost; stimulus beyond spare capacity raises prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--06-multiplier-rounds-075.webp" width="900" height="850" alt="Government spending of 4 bn aru adds 4.00 in round 1, 3.00 in round 2, 2.25 in round 3 and 1.69 in round 4, with 5.06 more from later rounds. The total is 4 divided by 0.25, which is 16 bn aru, 4 percent of a 400 bn aru economy." loading="lazy">
+  <figcaption>Rounds of income shrink geometrically to a total of 16 bn aru.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--07-budget-deficit-country-a.webp" width="900" height="880" alt="Two stacked columns in bn aru: revenue 100 and spending 105 with the lesson line items. The spending column is 5 taller, a budget deficit of 5, which is 1.25 percent of GDP of 400." loading="lazy">
+  <figcaption>Country A budget: spending 105 exceeds revenue 100, a deficit of 5 bn aru.</figcaption>
+</figure>
+
+
 ## Fiscal policy and objectives
 
 | Objective | Action | Reasoning |
@@ -83,6 +104,12 @@ The specification does not name the multiplier. Treat this as the knock-on effec
 
 Conflicts to mention: growth and jobs may raise inflation and imports; cutting inflation may raise unemployment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+
 ## Deficit versus surplus
 
 | | Deficit | Surplus |
@@ -94,6 +121,17 @@ Conflicts to mention: growth and jobs may raise inflation and imports; cutting i
 | Danger | Less money for services; inflation near full capacity | Less demand; may come from harmful cuts |
 
 A balanced budget avoids debt growth but leaves little room to support a recession.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--09-budget-debt.webp" width="900" height="900" alt="Country A collects 100 bn aru and spends 105: a deficit of 5, which is 1.25 percent of GDP 400. Borrowing the deficit raises debt from 175 to 180 (45 percent of GDP). In a later year revenue 108 and spending 102 leave a surplus of 6, repaying debt from 180 to 174." loading="lazy">
+  <figcaption>A deficit is one year; debt is the running total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--08-deficit-debt-interest.webp" width="900" height="850" alt="Debt of 175 bn aru rises to 180 after a deficit of 5 (43.75 to 45 percent of GDP). Interest at 4 percent is 7 now and 7.2 next year; 7 equals 31.8 percent of the 22 bn aru education budget." loading="lazy">
+  <figcaption>A deficit raises debt, and interest on debt competes with spending such as education.</figcaption>
+</figure>
+
 
 ## Monetary policy at a glance
 
@@ -137,6 +175,12 @@ A lower interest rate tends to lower the exchange rate. Suppose 1 unit of Countr
 - An import priced at 39 zed: home price = 39 ÷ 1.50 = 26 units, then 39 ÷ 1.30 = 30 units. It is **15.4% dearer**, so import demand tends to fall.
 
 Both effects point the same way, towards a smaller current account deficit. How large the change is depends on how strongly buyers respond to price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--13-exchange-rate-effect.webp" width="900" height="890" alt="When the aru rises from 2.00 to 2.20 bex, an export costing 80 aru goes from 160 to 176 bex (10 percent dearer) and a 55 bex import goes from 27.5 to 25 aru (9.1 percent cheaper). Exports tend to fall and imports to rise." loading="lazy">
+  <figcaption>A currency rise makes exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ### Building a full-chain answer
 
@@ -184,6 +228,22 @@ Use this order for any "explain how policy X achieves objective Y" question.
 8. Borrowing costs more and saving pays more, so households and firms spend and invest less, demand falls and price pressure eases.
 9. Interest falls from 2,400 (6%) to 1,800 (4.5%), a fall of **600**.
 10. A lower rate makes the country less attractive to foreign savers, so demand for its currency falls and the exchange rate falls. Exports become cheaper abroad and imports dearer, so net exports tend to rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--12-rate-transmission.webp" width="900" height="990" alt="A higher interest rate makes borrowing cost more and saving pay more. Firms invest less and households spend less, so total spending falls and demand-pull inflation eases. In the example consumption -3, investment -2 and net exports -1 make -6; with a factor of 1.5 the fall is 9 and GDP goes from 400 to 391, down 2.25 percent." loading="lazy">
+  <figcaption>A rate rise cuts spending and eases demand-pull inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--09-rate-rise-three-decisions.webp" width="900" height="890" alt="A 1.5 point rise in the base rate raises the interest on a 150,000 aru mortgage from 4,500 to 6,750, raises a saver's interest on 10,000 aru from 150 to 300, and raises a firm's loan interest on 80,000 aru from 4,800 to 6,000." loading="lazy">
+  <figcaption>A 1.5 point rate rise: borrowers pay more, savers earn more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

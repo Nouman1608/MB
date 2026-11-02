@@ -54,6 +54,12 @@ Learn these on sight. Each one tells you something before you calculate anything
 
 The sign of the highest power decides the direction. A positive x² coefficient gives a U-shape. A negative one gives a ∩-shape. A positive x³ coefficient gives a rising S-shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--01-g-standard-shapes.webp" width="900" height="1100" alt="Six small graphs: y = x squared (U-shape), y = minus x squared (cap shape), y = x cubed (rising S), y = minus x cubed (falling S), y = 1/x (two branches) and, for Extension, y = k to the power x through (0, 1). Each is plotted from its function." loading="lazy">
+  <figcaption>Six graph shapes to recognise on sight; the exponential is Extension only.</figcaption>
+</figure>
+
+
 ## Quadratic graphs
 
 A quadratic function has the form y = ax² + bx + c with a ≠ 0. Its graph is a parabola. Four features matter.
@@ -88,11 +94,33 @@ Questions often give a graph, or a table of values, rather than an equation.
 - To solve f(x) = k, add a line parallel to the x-axis at height k. Its crossing points with the curve give the solutions.
 - The turning point is the highest or lowest point. Its x-value is halfway between a pair of points with equal y-values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
+
 ### Worked example 2: using symmetry
 
 A parabola passes through (2, 9) and (8, 9), and its roots are at x = −3 and x = 13. Find the axis of symmetry and state the x-coordinate of the turning point.
 
 Points with equal y-values are the same distance from the axis, so the axis is x = (2 + 8)/2 = 5. The roots give the same answer: (−3 + 13)/2 = 5. The turning point has x-coordinate **5**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--03-u-symmetry-axis.webp" width="900" height="840" alt="A parabola through (2, 9) and (8, 9) with roots at −3 and 13. Both pairs are centred on the line x = 5: (2 + 8) ÷ 2 = 5 and (−3 + 13) ÷ 2 = 5, so the turning point has x = 5." loading="lazy">
+  <figcaption>Points at equal height, and the two roots, are all centred on x = 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
 
 ## Completing the square (Extension only)
 
@@ -121,6 +149,12 @@ Complete the square for y = 3 + 4x − x², writing it as q − (x − p)², and
 
 The turning point is **(2, 7)**, a maximum, so y ≤ 7 for every x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--02-g-complete-square-turning-point.webp" width="900" height="1110" alt="Two graphs. y = x squared minus 8x plus 9 = (x minus 4) squared minus 7 has its minimum at (4, minus 7) and roots 1.35 and 6.65. y = 3 + 4x minus x squared = 7 minus (x minus 2) squared has its maximum at (2, 7)." loading="lazy">
+  <figcaption>Writing y = (x − p)² + q or y = q − (x − p)² puts the turning point at (p, q).</figcaption>
+</figure>
+
+
 ## Simple cubic graphs
 
 A cubic has x³ as its highest power. The A12 content is simple cubics, such as y = x³, y = −x³ and cubics already in factorised form. A cubic can cross the x-axis up to three times.
@@ -140,6 +174,12 @@ Ends:        the x³ coefficient is +1, so the curve rises on the far right
 
 Starting low on the left, the curve crosses the axis at −4 and peaks above it between −4 and 0. It crosses at 0, dips below the axis until 2, then crosses again and keeps rising. Label the three roots on the axis. Expanded, the equation is y = x³ + 2x² − 8x, whose constant term is 0, matching the intercept.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
+
 ## The reciprocal graph y = 1/x
 
 For y = 1/x, x cannot be 0. The graph has two branches, one in the top-right quadrant (x > 0, y > 0) and one in the bottom-left (x < 0, y < 0). As x gets larger the curve gets closer to the x-axis but never meets it. As x gets closer to 0 the curve climbs or falls steeply but never meets the y-axis. The graph is symmetrical about the line y = x.
@@ -154,6 +194,12 @@ y:   −1   −2   −3   −6    6    3    2    1
 ```
 
 Plot the points and join each branch with a smooth curve. Do not join the two branches, and do not let either curve touch an axis. If k is negative, the branches move to the other pair of quadrants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--03-reciprocal-meets-line.webp" width="900" height="980" alt="The graph of y = 12/x has two separate branches with no point at x = 0. The line y = x + 1 crosses them at (−4, −3) and (3, 4), so 12/x = x + 1 has solutions x = −4 and x = 3." loading="lazy">
+  <figcaption>A reciprocal curve has two branches; the line meets them where the equation is true.</figcaption>
+</figure>
+
 
 ## Exponential graphs y = kˣ (Extension only)
 
@@ -181,6 +227,22 @@ k³ = 125, so k = 5
 x = −1:  y = 5⁻¹ = 1/5 = 0.2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--03-g-exponential-pair.webp" width="900" height="960" alt="The curves y = 2 to the x and y = one half to the x for x from minus 3 to 3 on one grid. Both pass through (0, 1) and stay above the x-axis; one rises and the other falls, mirror images in the y-axis." loading="lazy">
+  <figcaption>y = 2ˣ and y = (½)ˣ both pass through (0, 1) and are mirror images in the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--04-u-exponential-find-k.webp" width="900" height="800" alt="Graph of y = 5ˣ through (0, 1) and (3, 125). Because k³ = 125, k = 5; at x = −1, y = 1/5 = 0.2, just above the x-axis." loading="lazy">
+  <figcaption>k³ = 125 gives k = 5, so at x = −1 the curve is at 0.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+
 ## Trigonometric graphs (Extension only)
 
 The arguments are in degrees, and the angles can be any size, including negative angles and angles above 360°.
@@ -202,6 +264,12 @@ The inverse cosine gives x = 113.6° (1 decimal place). The cosine curve is symm
 ### Worked example 9: tan x = 2
 
 Solve tan x = 2 for 0° ≤ x ≤ 360°. The first solution is x = 63.4°. The tan curve repeats every 180°, so the next is 63.4° + 180° = **243.4°**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--05-u-trig-solutions.webp" width="900" height="1100" alt="Cosine graph with the line y = −0.4 meeting it at 113.6° and 246.4°, and tangent graph with the line y = 2 meeting it at 63.4° and 243.4°." loading="lazy">
+  <figcaption>Cosine is symmetric about 180°, tangent repeats every 180°: that gives the second solution each time.</figcaption>
+</figure>
+
 
 ## Common errors
 

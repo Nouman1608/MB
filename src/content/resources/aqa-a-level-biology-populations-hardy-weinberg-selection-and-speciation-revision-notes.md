@@ -70,6 +70,12 @@ Condensed recall for AQA A-level Biology (7402) sections 3.7.2 and 3.7.3 (A-leve
 - Reporting q when asked for carriers.
 - Applying the equation to a population where a condition clearly fails, without comment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+
 ## Sources of variation
 
 | Cause | Detail |
@@ -81,6 +87,12 @@ Condensed recall for AQA A-level Biology (7402) sections 3.7.2 and 3.7.3 (A-leve
 
 For 23 pairs, independent segregation gives 2²³ = 8 388 608 gametes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+
 ## Natural selection: the explanation in steps
 
 1. The population contains variation, arising from mutation, meiosis and random fertilisation.
@@ -91,6 +103,12 @@ For 23 pairs, independent segregation gives 2²³ = 8 388 608 gametes.
 
 **Worked reminder 4.** A population of 800 has q = 0.20 for a recessive allele (p = 0.80). Genotypes: AA 512, Aa 256, aa 32. If all aa die before breeding: survivors = 768; a alleles = 256 of 1536; q becomes 0.167. The allele falls, but slowly, because it is hidden in Aa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+
 ## Selection types
 
 | Feature | Stabilising | Directional | Disruptive |
@@ -100,6 +118,17 @@ For 23 pairs, independent segregation gives 2²³ = 8 388 608 gametes.
 | Mean | Unchanged | Moves | May stay, but the curve has two peaks |
 | Range | Narrows | Shifts | Widens |
 | Environment | Stable | Changing | Varied |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
 
 ## Genetic drift versus selection
 
@@ -112,6 +141,12 @@ For 23 pairs, independent segregation gives 2²³ = 8 388 608 gametes.
 
 **Why small only.** A population of 10 diploids has 20 copies of a gene. Losing 2 copies by chance changes the frequency by 2 ÷ 20 = 0.10. In a population of 10 000 (20 000 copies) the same loss is 0.0001.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
+
 ## Speciation
 
 | Feature | Allopatric | Sympatric |
@@ -122,6 +157,12 @@ For 23 pairs, independent segregation gives 2²³ = 8 388 608 gametes.
 | Result | Gene pools diverge until fertile interbreeding fails | Same |
 
 **Answer frame:** separation, independent mutation, different selection and drift, change in allele frequencies, inability to interbreed and produce fertile offspring. Long-term repetition of this gives the diversity of species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
 
 ## Linking the ideas
 

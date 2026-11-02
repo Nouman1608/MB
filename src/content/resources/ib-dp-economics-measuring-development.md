@@ -49,6 +49,12 @@ Development has several dimensions:
 
 No single statistic captures all of these, so economists use two kinds of measure: **single indicators**, which measure one aspect, and **composite indicators**, which combine several into one index.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## Single indicators
 
 ### GDP or GNI per person at PPP
@@ -63,6 +69,17 @@ Worked example (invented). In Tarvia a basket costs 2,400 taran. The same basket
 
 The PPP figure is double because prices in Tarvia are half the reference level once converted at the market rate. PPP is the better guide to what income buys, though it still says nothing about who receives it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--06-ppp-income.webp" width="900" height="840" alt="Invented example. A basket costs 2,400 taran in Tarvia and 800 units in a reference economy, so the PPP rate is 3 taran per unit, while the market rate is 6. A GNI per person of 36,000 taran is 6,000 units at the market rate but 12,000 units at PPP, double, because prices in Tarvia are low. PPP is still an average and does not show distribution." loading="lazy">
+  <figcaption>PPP income is double the market-rate figure in the Tarvia example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--07-ppp-exchange-rates.webp" width="900" height="1050" alt="The same basket costs 100 X in Country X and 200 Y in Country Y. At the market rate (4 Y = 1 X) Country Y income looks like 5,000 X, but at the PPP rate (2 Y = 1 X) it is 10,000 X, matching the 2 to 1 gap in baskets bought (200 versus 100)." loading="lazy">
+  <figcaption>PPP rates adjust for cost-of-living differences so incomes can be compared by what they buy.</figcaption>
+</figure>
+
+
 ### Health and education indicators
 
 | Type | Examples | What it shows | Limit |
@@ -73,6 +90,12 @@ The PPP figure is double because prices in Tarvia are half the reference level o
 ### Economic and social inequality indicators
 
 Examples are the **Gini coefficient**, the share of income held by the richest 10% or the poorest 40%, and gaps between women and men in pay, schooling or jobs. A Gini coefficient close to 0 means more equal incomes, and close to 1 means highly unequal. These show distribution, which GDP per person ignores. They do not tell you the level of income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+
 
 ### Energy and environmental indicators
 
@@ -104,6 +127,17 @@ Worked example (invented). Sorenth has life expectancy 72, expected schooling 12
 
 **Why geometric?** It stops a strong dimension fully covering a weak one. Country A has indices 0.9, 0.9 and 0.3. Country B has 0.7, 0.7 and 0.7. Both have an arithmetic mean of 0.700. The geometric mean is 0.624 for A and 0.700 for B, so A is penalised for its weak dimension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--04-hdi-built.webp" width="900" height="910" alt="Three vertical bars on a 0 to 1 scale for invented country Sorenth: health index 0.783 from life expectancy 72, education index 0.567 as the average of expected schooling 12 of 20 (0.600) and mean schooling 8 of 15 (0.533), and income index 0.683 from GNI per person 12,000 at PPP using logarithms. The Human Development Index is the geometric mean of the three, 0.672. Minimum and maximum limits are illustrative." loading="lazy">
+  <figcaption>The HDI is the geometric mean of health, education and income indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--05-hdi-geometric-mean.webp" width="900" height="880" alt="Two invented countries. Country A has indices 0.9, 0.9 and 0.3; Country B has 0.7, 0.7 and 0.7. Both have an arithmetic mean of 0.700, but the geometric mean is 0.624 for A and 0.700 for B, so A is penalised for its weak dimension." loading="lazy">
+  <figcaption>A geometric mean penalises a country with one weak dimension.</figcaption>
+</figure>
+
+
 ### Inequality adjusted HDI (IHDI)
 
 The IHDI starts from the HDI and adjusts each dimension for how unequally it is spread across people. If there is no inequality, IHDI equals HDI. Otherwise IHDI is lower, and the gap is the loss due to inequality.
@@ -115,6 +149,12 @@ Simplified worked example (invented). Sorenth has losses of 10% in health, 20% i
 - Loss = (0.672 - 0.535) / 0.672 = 20.4%.
 
 The published method uses a specific inequality formula for each dimension; the idea you need is that unequal distribution lowers the score.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--07-ihdi-inequality.webp" width="900" height="860" alt="Invented Sorenth. Paired bars compare each HDI dimension index with its inequality-adjusted value: health 0.783 falls 10 percent to 0.705, education 0.567 falls 20 percent to 0.453 and income 0.683 falls 30 percent to 0.478. The geometric mean of the adjusted indices gives IHDI 0.535 against HDI 0.672, a loss of 20.4 percent. The published method uses a specific inequality formula for each dimension." loading="lazy">
+  <figcaption>Adjusting each dimension for inequality lowers the HDI from 0.672 to 0.535.</figcaption>
+</figure>
+
 
 ### Gender Inequality Index (GII)
 
@@ -129,6 +169,12 @@ It runs from 0 to 1, and a **higher** value means **more** inequality between wo
 ### Happy Planet Index
 
 The Happy Planet Index asks how efficiently a country turns environmental resources into good lives. It combines life expectancy, reported well-being and inequality of outcomes, and relates them to ecological footprint. A country can score well with a modest income if people live long, report satisfaction and use few resources. It is the only listed index with sustainability built in, but reported well-being is subjective, and a poor country with a small footprint may score well despite hardship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--02-gii-happy-planet.webp" width="900" height="1020" alt="SL and HL. The HDI scale runs from 0 to 1 and higher is better. The Gender Inequality Index also runs from 0 to 1 but higher means more inequality between women and men, so higher is worse. The GII has three dimensions: reproductive health (maternal mortality, adolescent births), empowerment (parliament seats, secondary education) and labour market (women in the labour force). The Happy Planet Index combines life expectancy, reported well-being and inequality of outcomes and relates them to ecological footprint; it is the only listed index with sustainability built in." loading="lazy">
+  <figcaption>The GII runs 0 to 1 with higher meaning worse, and the Happy Planet Index relates well-being to ecological footprint.</figcaption>
+</figure>
+
 
 ## Strengths and limitations
 
@@ -145,6 +191,17 @@ Evaluate means weighing both sides. Use this table to build paragraphs and alway
 
 Other limits apply to all indices: data quality varies, countries differ in what they value, and a ranking can hide that scores are close.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--03-indicator-coverage-grid.webp" width="900" height="990" alt="SL and HL. A grid of nine indicators against six dimensions: income, health, schooling, equity, gender gaps and planet. GNI per person at PPP covers income only. A health indicator covers health only, an education indicator schooling only, the Gini coefficient equity only, energy and carbon dioxide indicators the environment only. The HDI covers income, health and schooling. The IHDI adds distribution (equity). The GII covers health, schooling and gender gaps. The Happy Planet Index covers health (life expectancy), well-being and inequality, and the environment. Single indicators show one side; composites combine several but weights are choices." loading="lazy">
+  <figcaption>Single indicators cover one dimension; composites combine several but omit others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+
 ## Growth and development: the possible relationship
 
 Growth often helps development. Higher incomes raise tax revenue and household spending on health and schooling, and better-educated, healthier workers raise productivity, so development can also drive growth. The link is not automatic.
@@ -159,6 +216,12 @@ Worked comparison (invented). Tarvia and Quelland both have GNI per person of 22
 Same income, different outcomes. One possible reason (not shown by the data) is that Quelland spends more of its income on health and schools. Growth does not raise development where gains go to a few households, where governments spend little on public services, where growth causes pollution that harms health, or where weak institutions waste revenue. Development without growth is also hard to sustain, because spending needs funding.
 
 A fair conclusion is that the relationship is positive but conditional. It depends on the sources of growth, how its gains are shared and how revenue is used, so check these in any case study you use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--01-tarvia-quelland-hdi.webp" width="900" height="940" alt="SL and HL. Invented countries Tarvia and Quelland both have GNI per person of 22,000 units at PPP, so both have an income index of 0.785. Tarvia has health index 0.750, education index 0.625 and HDI 0.716. Quelland has health index 0.850, education index 0.742 and HDI 0.791. Same income, different health and schooling, so different development. Illustrative limits from the lesson." loading="lazy">
+  <figcaption>Tarvia and Quelland have the same income index (0.785) but HDI 0.716 and 0.791 because health and schooling differ.</figcaption>
+</figure>
+
 
 ## Common errors
 

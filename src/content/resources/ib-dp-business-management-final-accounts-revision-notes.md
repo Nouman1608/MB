@@ -94,6 +94,17 @@ Method in steps:
 4. Take off interest, then tax, then dividends, in that order.
 5. Keep the unit on every line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--01-fenrow-profit-and-loss.webp" width="900" height="874" alt="Waterfall in thousands of dollars: sales revenue 840, minus cost of sales 360 gives gross profit 480, minus expenses 360 gives operating profit 120, minus interest 12 gives profit before tax 108, minus tax 27 gives profit after tax 81, minus dividends 30 leaves retained profit 51." loading="lazy">
+  <figcaption>Each line of the profit and loss account takes something off the one above, ending in retained profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## Balance sheet layout
 
 | Section | Typical items | Check |
@@ -120,6 +131,17 @@ Method in steps:
 4. Calculate net assets.
 5. Build equity from share capital plus retained profit, and check that it equals net assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--02-fenrow-balance-sheet.webp" width="900" height="1022" alt="Two columns in thousands of dollars. Assets 650: equipment and premises 420, trademark 60, inventory 72, receivables 58, cash 40. Liabilities 241 and equity 409: current liabilities 91, bank loan 150, share capital 250, retained profit 159 (108 plus 51 from the profit and loss account)." loading="lazy">
+  <figcaption>Net assets of 409 equal equity of 409, and the 51 retained profit is the link from the profit and loss account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
+
 ## Intangible assets
 
 | Type | One-line description |
@@ -131,6 +153,12 @@ Method in steps:
 | Goodwill | Reputation and customer base, shown when a business is bought for more than its identifiable net assets |
 
 The guide does not name the types, so treat these as the standard examples. All sit in non-current assets. They are hard to value and can lose worth quickly, so the balance sheet may not show a business's full value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--01-intangibles-goodwill.webp" width="900" height="806" alt="Four tiles name patent, trademark or brand, copyright and licence or franchise. A bar shows a buyer paying 540 for a business with identifiable net assets of 360. The other 180 is goodwill." loading="lazy">
+  <figcaption>Goodwill is the price paid minus identifiable net assets: 540 - 360 = 180.</figcaption>
+</figure>
+
 
 ## Depreciation (HL only)
 
@@ -159,6 +187,22 @@ The van costs 38,000 dollars, has a residual value of 8,000 dollars and a useful
 | Limitation | Ignores how hard the asset works | Needs a lifetime estimate; charges vary |
 
 For an AO3 question, name the asset, say which method fits and why, then give one limitation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-final-accounts--02-kiln-depreciation.webp" width="900" height="926" alt="Bar chart for a kiln costing 96,000 dollars. Straight line charges 12,000 in each year. Units of production charges 18,000 in year 1 and 11,000 in year 2. Net book values are 84,000 and 78,000 after year 1, then 72,000 and 67,000." loading="lazy">
+  <figcaption>Same kiln, two methods: the charge differs when output swings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--04-depreciation.webp" width="900" height="1124" alt="Asset costing $12,000, residual $2,000, 5 years. Straight line charges $2,000 each year; units of production charges $1,000, $2,000, $3,000, $2,400 and $1,600 for 5k, 10k, 15k, 12k and 8k units. Both total $10,000." loading="lazy">
+  <figcaption>Straight line spreads depreciation evenly; units of production follows how much the asset is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

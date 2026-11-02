@@ -39,6 +39,12 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
 | Free-market policy | Strengthens incentives and competition by removing obstacles |
 | Interventionist policy | Government acts directly to correct market failure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--01-ssp-compounding-trend-growth.webp" width="900" height="880" alt="Two lines show potential output over 12 years from 1.00. At 1.8% trend growth it reaches 1.2387; at 2.2% it reaches 1.2984, which is 4.8% higher. The vertical axis starts at 1.00. The gap only builds if the higher growth lasts." loading="lazy">
+  <figcaption>A small rise in trend growth compounds into a 4.8% higher potential output after 12 years.</figcaption>
+</figure>
+
+
 ## The core distinction
 
 - Improvements often originate in the private sector, independently of government: productivity gains, innovation, investment.
@@ -66,6 +72,12 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
 5. **Micro:** a policy changes price, output, employment and incomes in particular markets, creating winners and losers.
 6. **Short-termism:** firms undervalue long-run returns, so under-invest in R&D and training, so government subsidy or allowances can raise investment towards the social optimum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Percentage change in a net reward after a tax change:** (new net − old net)/old net × 100. Net = gross × (1 − marginal rate).
@@ -91,6 +103,12 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
 **Short-termism.** Spend 90 now, receive 25 a year. Payback is 90/25 = 3.6 years. A 3-year rule rejects the project even if the present value is positive at the firm's discount rate.
 
 **Micro effect.** In a local courier market demand is Qd = 150 − 5P and supply is Qs = 30 + 5P, so P = 12 and Q = 90. Deregulation lets new firms in, and supply becomes Qs = 50 + 5P, so P = 10 and Q = 100. Price falls 16.7% and quantity rises 11.1%. Spending changes from 1,080 to 1,000, so the policy lowers consumer outlay here. Existing licence holders lose, and consumers gain, which is why micro effects belong in the answer as well as macro ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--12-ss-natural-rate.webp" width="900" height="930" alt="The natural rate falls from 6.0 to 5.2 percent, which is 2.40 million to 2.08 million people, 0.32 million fewer. Retraining cuts the natural rate from 6.0% to 5.2% of a 40 million labour force." loading="lazy">
+  <figcaption>Retraining cuts the natural rate from 6.0% to 5.2% of a 40 million labour force.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -136,6 +154,32 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
 8. Lower costs and better quality raise export competitiveness and cut import demand. The current account also includes income and transfers.
 9. 90/25 = 3.6 years.
 10. The response of hours may be small or negative because of the income effect, and weak demand may leave the extra capacity unused.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--11-ss-unit-labour-cost.webp" width="900" height="980" alt="Productivity gains cut unit labour cost by 9.1 percent. Even after a 5 percent pay rise it stays 4.5 percent below the start. Unit labour cost falls from 1.20 to 1.091, and is still 1.145 after a 5% pay rise." loading="lazy">
+  <figcaption>Unit labour cost falls from 1.20 to 1.091, and is still 1.145 after a 5% pay rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--13-ss-rd-subsidy.webp" width="900" height="950" alt="A project costs the firm 10 for private benefit 8, a net loss of 2. With spillovers of 5 society gains 3. A 30 percent subsidy cuts cost to 7 so the firm gains 1. Spillovers make a project worthwhile for society; a 30% subsidy makes it worthwhile for the firm." loading="lazy">
+  <figcaption>Spillovers make a project worthwhile for society; a 30% subsidy makes it worthwhile for the firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--14-ss-short-termism.webp" width="900" height="1020" alt="Cumulative cash crosses zero at 3.33 years, after the firm's 3-year limit. At 12 percent the returns are worth 108.1 million against a cost of 100. Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million." loading="lazy">
+  <figcaption>Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--15-ss-taxi-deregulation.webp" width="900" height="990" alt="New operators move supply from Qs = 20 + 4P to 40 + 4P. Price falls 20 percent and rides rise 14.3 percent, so spending falls from 875 to 800. Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand." loading="lazy">
+  <figcaption>Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--02-ssp-tax-cut-hours-worked.webp" width="900" height="960" alt="A cut in the marginal income tax rate from 30% to 24% lifts take-home pay from an extra 500 cu from 350 to 380 (8.57%). With an assumed elasticity of 0.4, hours rise 3.43%, which is 68.6 million hours on 2,000 million, worth about 2,057 million cu at 30 cu an hour." loading="lazy">
+  <figcaption>A tax cut raises the reward for extra work, and the assumed hours response sets the output gain.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

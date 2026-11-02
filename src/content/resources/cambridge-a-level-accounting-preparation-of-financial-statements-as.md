@@ -52,6 +52,32 @@ For the allowance, write off irrecoverable debts first, apply the percentage to 
 
 **Correction of errors.** An error found after the trial balance is corrected by journal. Decide whether it changes profit, assets or liabilities: repairs debited to a van, for example, change both profit and the asset. Errors that unbalance the trial balance go through a suspense account first: see the [1.4 guide](/resources/accounting-reconciliation-and-verification/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
+
 ## Sole traders (1.5.2): worked example
 
 Orla Calderbank trades as Calderbank Paints. Trial balance at 31 March 2027:
@@ -131,6 +157,17 @@ A service business has the same adjustments but no inventory or cost of sales: f
 
 **Incomplete records.** Rebuild the missing figures. Naveen Rudd runs a market stall. Opening assets 15,000 less liabilities 2,600 give opening capital 12,400; closing assets 17,900 less liabilities 2,200 give 15,700. With drawings of 9,600 and no new capital, profit = 15,700 − 12,400 + 9,600 = **12,900**. Credit sales come from a total trade receivables account: receipts 61,000 + closing 2,700 − opening 2,100 = **61,600**. Purchases work the same way from trade payables: payments 38,000 + 2,200 − 2,600 = **37,600**. Partnerships use the same methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--13-calderbank-sofp.webp" width="900" height="900" alt="Net assets of 54,030 (non-current assets 27,600 plus net current assets 26,430) equal capital of 54,030 (56,000 less drawings 14,000 gives 42,000, plus profit 12,030)." loading="lazy">
+  <figcaption>Net assets equal capital after drawings and profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+
 ## Partnerships (1.5.3)
 
 **Agreement and the Act.** A partnership agreement usually sets out: capital each partner contributes, profit-sharing ratio, partners' salaries, interest on capital, interest on drawings, interest on loans, and what happens when a partner joins or leaves. Advantages: fewer disputes, written rules, rewards matching capital and effort. Disadvantages: changing it needs everyone to agree, drafting costs time, and terms can become unfair. Without an agreement, the Partnership Act 1890 applies, and it divides profits and losses equally; there are no partners' salaries; no interest on capital; no interest on drawings; and a partner's loan to the firm earns 5% a year.
@@ -206,6 +243,22 @@ A **bonus issue** gives free shares by capitalising reserves, with no cash recei
 
 The statement of financial position shows the same closing equity. Adding debentures of 60,000 (non-current liability) and current liabilities of 48,200 gives 522,600, equal to non-current assets of 365,600 plus current assets of 157,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--05-interest-vs-dividends.webp" width="900" height="950" alt="A waterfall for Hartsmere Cycles Ltd takes profit before interest of 102,200, deducts 4,800 debenture interest as an expense to reach profit for the year of 97,400, then shows dividends of 41,000 and a 10,000 transfer to general reserve leaving 46,400 in retained earnings." loading="lazy">
+  <figcaption>Debenture interest is an expense before profit; dividends and reserve transfers share out profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--09-hartsmere-balance.webp" width="900" height="1100" alt="Two equal columns of 522,600: assets of 365,600 and 157,000 against share capital 250,000, share premium 45,000 (capital reserve), general reserve 25,000 and retained earnings 94,400 (revenue reserves), debentures 60,000 and current liabilities 48,200." loading="lazy">
+  <figcaption>Reserves split into capital and revenue reserves inside a balancing statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--10-rights-issue-ledger.webp" width="900" height="958" alt="A 1 for 4 rights issue at 1.50 on 200,000 shares gives 50,000 new shares and 75,000 cash: debit bank 75,000, credit share capital 50,000 and share premium 25,000." loading="lazy">
+  <figcaption>A rights issue at a premium splits cash into share capital and share premium.</figcaption>
+</figure>
+
+
 ## Evaluating share issues and finance
 
 | Option | For the company | For the shareholders |
@@ -218,6 +271,17 @@ The statement of financial position shows the same closing equity. Adding debent
 Disadvantages to remember: a bonus issue raises no cash and turns reserves into capital; a rights issue needs shareholders to pay; debentures need interest and repayment even in a poor year.
 
 **Sources of finance for purposes.** Match the finance to the need and its time span. Buying a building: a share or rights issue, debentures or retained earnings. A seasonal inventory build-up: an overdraft or trade credit. Check cost, repayment, control and risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--11-issues-grid.webp" width="900" height="756" alt="A grid of bonus issue, rights issue, new shares and debentures: raises cash (not bonus), dilutes control (new shares only), interest and repayment due (debentures only)." loading="lazy">
+  <figcaption>A bonus issue raises no cash; only debentures carry interest and repayment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--12-finance-match.webp" width="900" height="900" alt="A long-term need (buy a building) is matched to a share or rights issue, debentures or retained earnings; a short-term need (seasonal inventory) to an overdraft or trade credit. Then check cost, repayment, control and risk." loading="lazy">
+  <figcaption>Match the finance to the need and its time span.</figcaption>
+</figure>
+
 
 ## Common errors
 

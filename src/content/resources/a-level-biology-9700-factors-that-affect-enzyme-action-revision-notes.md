@@ -42,6 +42,22 @@ These notes condense subtopic 3.2, **Factors that affect enzyme action**, from t
 
 Use **initial** rate because substrate concentration is the same in every tube at t = 0. Later, the rate falls as substrate is used up, not because the enzyme is used up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
+  <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--08-inhibitor-graphs.webp" width="900" height="1090" alt="Rate against substrate concentration for no inhibitor (Vmax 40, Km 2.5), a competitive inhibitor (same Vmax, Km about 10) and a non-competitive inhibitor (Vmax 20, same Km). Bars show competitive inhibition cutting the rate to 29% of normal at low substrate but only to 82% at high substrate, while non-competitive inhibition gives 50% at both." loading="lazy">
+  <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
+</figure>
+
+
 ## The five factors at a glance
 
 | Factor | Graph of rate against the factor | Key explanation |
@@ -83,6 +99,12 @@ Use **initial** rate because substrate concentration is the same in every tube a
 
 Small reminder: Vmax = 64 units, so ½Vmax = 32 units. If the curve passes 32 units at 1.8 mmol dm⁻³, then Km = 1.8 mmol dm⁻³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
+  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
+</figure>
+
+
 ## Reversible inhibitors
 
 | | Competitive | Non-competitive |
@@ -99,6 +121,12 @@ Small reminder: Vmax = 64 units, so ½Vmax = 32 units. If the curve passes 32 un
 
 **Data test.** Calculate the inhibited rate as a percentage of the uninhibited rate at a low and a high substrate concentration. Percentage much higher at high substrate → competitive. About the same → non-competitive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
+
 ## Immobilised enzymes
 
 **Making beads:** enzyme + **sodium alginate** solution, dripped from a syringe into **calcium chloride** solution → calcium alginate beads with enzyme trapped inside; rinse with distilled water.
@@ -112,6 +140,22 @@ Small reminder: Vmax = 64 units, so ½Vmax = 32 units. If the curve passes 32 un
 - Beads can be **reused** many times with little loss of activity.
 
 **Advantages to state:** product not contaminated with enzyme; enzyme recovered and reused (cheaper); greater stability over a wider range of temperature and pH; allows a continuous process in a column.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--09-immobilised-enzymes.webp" width="900" height="1290" alt="Making beads: enzyme and sodium alginate drip from a syringe into calcium chloride and set as beads. Using them: beads packed in a column with substrate in and product out, so the enzyme is reused and the product is pure; smaller beads have a larger surface area to volume ratio (3.0 against 1.5 per mm). Four OCR immobilisation methods: adsorption, covalent bonding, entrapment and membrane separation." loading="lazy">
+  <figcaption>Immobilised enzymes stay in place, can be reused and do not contaminate the product.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -150,6 +194,12 @@ Small reminder: Vmax = 64 units, so ½Vmax = 32 units. If the curve passes 32 un
 10. To keep **pH constant**, so any change in rate is caused only by temperature.
 11. Substrate must **diffuse** into the bead (or some active sites are less accessible).
 12. **Sodium alginate** and **calcium chloride**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

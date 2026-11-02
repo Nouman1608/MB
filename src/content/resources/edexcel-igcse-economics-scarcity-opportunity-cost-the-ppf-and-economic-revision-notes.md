@@ -61,6 +61,22 @@ These notes condense sections 1.1.1 and 1.1.2 of the Pearson Edexcel Internation
 
 **Worked reminder (government).** A budget of 150 million can fund five clinics at 30 million each (5 × 30 = 150) or 25 km of rail at 6 million per km (25 × 6 = 150). Choose rail and five clinics are forgone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--04-opp-cost-sam-bakery.webp" width="900" height="950" alt="Sam ranks a day pass, a racket and four paperbacks; the day pass is chosen and the racket is the opportunity cost. The bakery compares an oven (900 a year, 15%), a van (700, 11.7%) and advertising (500); the oven is chosen and the van is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the single next best option given up, not everything else.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## 1.1.1 c-d: The PPF
 
 Country C makes laptops and wheat (thousands).
@@ -94,6 +110,22 @@ For (10, 40): the curve gives 48 wheat at 10 laptops, so 48 − 40 = 8 wheat of 
 - Moving along the curve is a change of mix. Moving from inside to the curve is using idle resources, not growth.
 - One-sided change: better wheat technology raises the wheat intercept only, and the laptop intercept stays at 20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--01-ppf-opportunity-cost-numbers.webp" width="900" height="1070" alt="Plots points A to E (machines vs food) on a bowed-out PPF and lists food given up per extra machine: 0.6, 1.2, 2.2 and 6. The bars grow, showing rising opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost rises along the PPF: 0.6, 1.2, 2.2 then 6 food per machine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--02-ppf-inside-on-outside.webp" width="900" height="962" alt="Point F (20 machines, 70 food) lies inside the curve, 12 food short of the frontier (14.6% below potential). Point G (30, 80) lies outside; the curve at 30 machines is only 60 food." loading="lazy">
+  <figcaption>F is possible but wasteful; G is unobtainable with present resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--03-ppf-growth-decline-pivot.webp" width="900" height="1180" alt="All maxima +20% moves the curve out to 120 food and 48 machines and makes G obtainable; a 25% loss of capacity moves it in to 75 and 30. A lower panel shows food technology only: food intercept 100 to 125, machines stay 40." loading="lazy">
+  <figcaption>Growth shifts the whole PPF out, decline shifts it in, and uneven growth pivots it.</figcaption>
+</figure>
+
+
 ## 1.1.1 e: Causes of growth and decline
 
 | Positive (outward) | Negative (inward) |
@@ -104,6 +136,12 @@ For (10, 40): the curve gives 48 wheat at 10 laptops, so 48 − 40 = 8 wheat of 
 | Better technology | Lost access to technology or trade |
 
 **Chain of reasoning.** Cause, then what changes in resources (quantity or quality), then output of both goods rises or falls, then the PPF shifts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--05-ppf-growth-decline-causes.webp" width="900" height="1038" alt="The Country A PPF with the +20% outward shift (intercepts 48 and 120) and the -25% inward shift (30 and 75), with four causes of each." loading="lazy">
+  <figcaption>Growth shifts the PPF outwards and decline shifts it inwards, each with its typical causes.</figcaption>
+</figure>
+
 
 ## 1.1.2: Assumptions
 
@@ -133,6 +171,12 @@ For (10, 40): the curve gives 48 wheat at 10 laptops, so 48 − 40 = 8 wheat of 
 
 Profit is highest at 6 shirts (60). Revenue is highest at 8 (200) but profit is only 10. A revenue or sales-maximising manager picks 8 and gives up 50 of profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--04-profit-vs-revenue-maximising.webp" width="900" height="1130" alt="Profit and revenue curves for the workshop. Profit peaks at 10 units (100); revenue peaks at 15 (450) where profit is 50; 17 units is the most output without a loss (profit 2)." loading="lazy">
+  <figcaption>A revenue-maximiser at 15 units gives up 50 profit; a sales-maximiser at 17 gives up 98.</figcaption>
+</figure>
+
+
 ## Evaluation prompts
 
 The specification lists Evaluate as a command word that asks for a supported conclusion. For this unit, practise short lines like these.
@@ -151,6 +195,12 @@ The specification lists Evaluate as a command word that asks for a supported con
 - Inside the PPF versus outside: inside is wasteful but possible, outside is unobtainable.
 - Movement versus shift: choice moves you along, growth shifts the curve.
 - Revenue versus profit: revenue is price times quantity, profit is revenue minus cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -192,3 +242,14 @@ The specification lists Evaluate as a command word that asks for a supported con
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited, sections 1.1.1 and 1.1.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+

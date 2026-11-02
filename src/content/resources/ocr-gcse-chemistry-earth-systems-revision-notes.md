@@ -54,6 +54,17 @@ Useful links: the [J248 course hub](/boards/ocr/gcse/chemistry/), a [statement c
 
 **Evidence is indirect.** No direct samples exist. Scientists use volcanic gases today, old rocks and models, so conclusions are "thought" or "suggested", not known.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--06-es-orders-of-magnitude.webp" width="900" height="730" alt="A logarithmic scale from 0.01 percent to 100 percent. Today carbon dioxide is 430 ppm, which is 0.043 percent. One illustrative model of the early atmosphere gives 70 percent. Three hops of times ten take 0.043 percent to 43 percent, and 70 percent is a little further. The early proportion is about 1600 times larger, closest to 10 cubed: three orders of magnitude." loading="lazy">
+  <figcaption>Early CO2 in the model is about three orders of magnitude larger than today.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
+  <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
+</figure>
+
+
 ## C6.3b Oxygen
 
 - **Cyanobacteria** (and later algae and plants) photosynthesise: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.
@@ -61,6 +72,17 @@ Useful links: the [J248 course hub](/boards/ocr/gcse/chemistry/), a [statement c
 - Oxygen built up in the air once the iron was used up; the first big rise was about 2.4 billion years ago.
 - An **ozone layer** formed, absorbing ultraviolet radiation.
 - The build-up took **billions of years** (orders of magnitude, M2h).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--07-oxygen-timeline.webp" width="900" height="1130" alt="Six steps: volcanic gases, cooling and oceans, photosynthesis making oxygen, oxygen reacting with iron to form banded iron rocks, oxygen collecting about 2.4 billion years ago, and today air of 78% nitrogen, 21% oxygen." loading="lazy">
+  <figcaption>Oxygen built up only after dissolved iron was used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--08-photosynthesis.webp" width="900" height="1140" alt="Carbon dioxide and water enter a leaf; light is absorbed by chlorophyll; glucose and oxygen come out. The balanced equation 6CO2 + 6H2O gives C6H12O6 + 6O2 is Extended." loading="lazy">
+  <figcaption>In sunlight, chlorophyll helps plants turn carbon dioxide and water into glucose and oxygen.</figcaption>
+</figure>
+
 
 ## C6.3c Greenhouse effect: method in steps
 
@@ -71,6 +93,17 @@ Useful links: the [J248 course hub](/boards/ocr/gcse/chemistry/), a [statement c
 5. Some returns to the surface, so less energy escapes to space and the surface stays warmer.
 
 The natural effect keeps the Earth habitable. Human activity **enhances** it. Nitrogen and oxygen hardly absorb infrared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--09-es-ozone-vs-greenhouse.webp" width="900" height="960" alt="Top: an ozone layer with a gap. Ultraviolet from the Sun is stopped by the layer but passes through the hole, so more ultraviolet reaches the ground. Bottom: the greenhouse effect. The warm surface gives out infrared, greenhouse gases such as carbon dioxide and methane absorb it and re-emit some back down, so less escapes and the surface is warmer. The ozone hole does not cause global warming." loading="lazy">
+  <figcaption>The ozone hole and the greenhouse effect are different problems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+
 
 ## C6.3d Evidence and uncertainty
 
@@ -94,6 +127,12 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 
 **Converting units:** 1% = 10 000 ppm. So ppm ÷ 10 000 = %, and % × 10 000 = ppm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--08-co2-rate-of-rise.webp" width="900" height="900" alt="Bars of 326, 354, 390 and 414 ppm. Average rises are 1.4, 1.8 and 2.4 ppm per year, so the rate of rise is increasing; total rise 88 ppm, about 27%." loading="lazy">
+  <figcaption>Carbon dioxide rises in every interval and the rate is increasing.</figcaption>
+</figure>
+
+
 ## C6.3e Effects and mitigation
 
 | Effect of more CO₂ and CH₄ | Mitigation |
@@ -108,6 +147,12 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 
 **Methane sources:** cattle, rice paddies, landfill, gas extraction. Methane traps more heat per molecule than carbon dioxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--05-es-mitigation-points.webp" width="900" height="930" alt="A chain: fossil fuels burned releases carbon dioxide, which with methane builds up in the air and causes warming. Renewable or nuclear electricity, energy efficiency, and carbon taxes and emission limits all act on the burning of fossil fuels. Carbon capture and storage acts on the carbon dioxide released, storing it underground. Planting trees removes carbon dioxide from the air by photosynthesis, and cutting methane fixes leaks and captures landfill gas." loading="lazy">
+  <figcaption>Each mitigation measure acts at a different step between burning fuel and warming.</figcaption>
+</figure>
+
+
 ## C6.3f Pollutants
 
 | Pollutant | Formed by | Problem |
@@ -121,6 +166,17 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 
 **Mass reminder.** Sulfur dioxide has Mr 64 and sulfur has Ar 32, so each gram of sulfur burned gives 2 g of sulfur dioxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--07-es-so2-mass.webp" width="900" height="780" alt="A boiler burns 1200 kg of heating oil containing 0.80 percent sulfur by mass, which is 9.6 kg of sulfur. Relative masses: sulfur 32 plus oxygen 32 makes sulfur dioxide 64. Scaling by 0.3, 9.6 kg of sulfur combines with 9.6 kg of oxygen to give 19.2 kg of sulfur dioxide." loading="lazy">
+  <figcaption>Sulfur dioxide has twice the mass of the sulfur that burns to make it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
+
 ## C6.3g Potable water
 
 | Source | Treatment | Ease |
@@ -131,6 +187,17 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 | Salt water | Desalination: distillation or reverse osmosis | Hardest; needs most energy |
 
 **Distillation** separates water by boiling and condensing. **Reverse osmosis** pushes water through a membrane under high pressure. Distillation and filtration are separation techniques from C2.1 (see [the C2.1 separation methods page](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--09-desalination-energy.webp" width="900" height="850" alt="Reverse osmosis forces water through a membrane that holds back salt ions. For 20 000 m3 a day it needs 60 000 kWh against 600 000 kWh for distillation, ten times more." loading="lazy">
+  <figcaption>Reverse osmosis uses about a tenth of the energy of distillation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--08-es-water-routes.webp" width="900" height="740" alt="Ground water or fresh surface water: sedimentation, filtration, then sterilisation. This is the easiest route. Waste water needs extra stages first: screening, settling and bacteria breaking down organic matter, then the same steps as above. Salt water is hardest because desalination needs a lot of energy: distillation or reverse osmosis." loading="lazy">
+  <figcaption>The treatment route depends on the water source, from easiest to hardest.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

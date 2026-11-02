@@ -77,6 +77,17 @@ Track progress on the [printable checklist](/checklists/cambridge/a-level/econom
 
 **Worked reminder 6 (index to growth).** An index that moves from 125 to 131.25 shows growth of 6.25 / 125 × 100 = **5.0%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--08-deflate-first.webp" width="900" height="930" alt="Nominal growth of 16.48% is split into a 12% price rise, 4% real growth and a 0.48% mixed term. Deflating 1,164.8 by price index 112 gives real GDP 1,040.0, so real growth is 4.0%, not 4.48%." loading="lazy">
+  <figcaption>Deflate nominal GDP first; subtracting inflation only approximates real growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Key difference |
@@ -107,6 +118,52 @@ Long-run, from AS (LRAS shifts right, PPC shifts outward):
 
 Chain to use: cause, then change in capacity or demand, then change in output, then living standards. Always say whether the cause raises total output or output per worker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--06-per-capita-growth.webp" width="900" height="930" alt="Real GDP grows 3.0%, population 2.0%, so real GDP per person grows only 0.98%, from 200.00 to 201.96 thousand. The quick estimate of 1.0 point is slightly too high." loading="lazy">
+  <figcaption>Total growth hides what happens per person once population growth is allowed for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--07-compound-growth.webp" width="900" height="870" alt="Growth of 2%, 3% and 4% takes output from 500 to 510.0, 525.3 and 546.3. Total growth is 9.26%, above the 9% from adding rates, and the average annual growth is about 2.997%." loading="lazy">
+  <figcaption>Annual growth rates compound; they do not simply add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--09-percent-vs-absolute.webp" width="900" height="820" alt="Country E (GDP 150) grows 6% and adds 9; Country F (GDP 1,200) grows 2% and adds 24. E grows faster in percentage terms but F adds more output." loading="lazy">
+  <figcaption>A higher growth rate does not always mean a larger absolute increase in output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--01-index-real-gdp.webp" width="900" height="850" alt="Index bars with Year 1 = 100: +5% gives 105.0, -2% gives 102.9 (output fell), +4% gives 107.0. Over the three years output rose 7.0%." loading="lazy">
+  <figcaption>Growth of +5%, -2% and +4% turns an index of 100 into 107.0, a 7.0% rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--02-quantity-vs-quality.webp" width="900" height="860" alt="Three rectangles with area = workers x output per worker. More workers (100 to 120) lifts total output 20% with output per worker unchanged. Better quality (10 to 12 each) lifts total and output per worker by 20%." loading="lazy">
+  <figcaption>More workers raise total output; better quality also raises output per worker.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## Consequences of growth (4.4.5)
 
 | Benefits | Costs |
@@ -118,6 +175,12 @@ Chain to use: cause, then change in capacity or demand, then change in output, t
 | More choice and output | Unequal gains and wider inequality |
 
 Evaluation prompts: the source of growth, per capita or total, who gains, the time horizon, how large the starting income is, and whether GDP captures what you are arguing about.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences--03-growth-consequences.webp" width="900" height="998" alt="Seven areas (living standards, employment, government, prices, trade, environment, distribution), each with one possible benefit and one possible cost of growth." loading="lazy">
+  <figcaption>Each area of growth has a possible benefit and a possible cost.</figcaption>
+</figure>
+
 
 ## Worked reminder 7: comparing two economies
 

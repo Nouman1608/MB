@@ -72,6 +72,22 @@ The laws need the **same base**. With numbers in front, multiply the numbers and
 > 2. Denominator n: take the nth root.
 > 3. Numerator m: raise to the power m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+
 ## Substitution (2.2A)
 
 > **Method**
@@ -86,6 +102,12 @@ Worked reminder: find (a − 2b)/c when a = 3.5, b = −1.25 and c = 4.
 ```
 
 Subtracting a negative adds. Work out the whole numerator before dividing, because the fraction line acts as a bracket.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
 
 ## Brackets and factors (2.2B to 2.2F)
 
@@ -115,6 +137,12 @@ Subtracting a negative adds. Work out the whole numerator before dividing, becau
 > 3. Collect like terms, highest power first.
 > 4. Check with x = 1 or x = 2 in both forms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--03-three-brackets.webp" width="900" height="940" alt="Two area-model grids multiply (2x - 1)(x + 3) then the result by (x - 4). Like terms are shaded alike and added to give 2x cubed - 3x squared - 23x + 12. A check at x = 2 gives -30 both ways." loading="lazy">
+  <figcaption>Expand three brackets as two grids, then collect like terms.</figcaption>
+</figure>
+
+
 ### Factorising ax² + bx + c
 
 > **Method**
@@ -125,6 +153,22 @@ Subtracting a negative adds. Work out the whole numerator before dividing, becau
 > 5. Expand to check.
 
 Difference of two squares: p² − q² = (p − q)(p + q). It has no middle term.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--01-sym-split-middle-term.webp" width="900" height="800" alt="An area grid has columns 5x and +2 and rows 2x and −3. Its cells are 10x², +4x, −15x and −6. The two middle cells add to −11x and multiply to −60, which is 10 × (−6), giving (2x − 3)(5x + 2)." loading="lazy">
+  <figcaption>Splitting −11x into −15x + 4x turns the quadratic into an area grid whose edges are the factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--02-sym-square-not-sum.webp" width="900" height="750" alt="A square of side x + 4 splits into x², two strips of 4x and a 16 square. The two strips make the 8x that x² + 16 leaves out. At x = 2, (2 + 4)² is 36 but 2² + 16 is 20." loading="lazy">
+  <figcaption>(x + 4)² has a middle term 8x, so it is not x² + 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
 
 ### Algebraic fractions
 
@@ -137,6 +181,12 @@ Difference of two squares: p² − q² = (p − q)(p + q). It has no middle term
 
 Numeric denominators work the same way: use the lowest common multiple (for 4 and 6, use 12).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--05-divide-algebraic-fractions.webp" width="900" height="860" alt="An illustrative worked example: divide (x squared - 9)/(x + 2) by (x + 3)/(x squared - 4). Flip the second fraction, factorise, cancel the matching brackets (x + 3) and (x + 2), and the answer is (x - 3)(x - 2)." loading="lazy">
+  <figcaption>Dividing by a fraction: flip, factorise, cancel.</figcaption>
+</figure>
+
+
 ### Completing the square
 
 x² + bx + c = (x + b/2)² − (b/2)² + c
@@ -144,6 +194,12 @@ x² + bx + c = (x + b/2)² − (b/2)² + c
 a(x² + …): take a out of the x² and x terms only, complete the square inside, then multiply the subtracted number by a.
 
 Small reminder: x² + 6x − 2 = (x + 3)² − 9 − 2 = (x + 3)² − 11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--04-complete-square-a5.webp" width="900" height="960" alt="Working for 5x squared + 20x + 7 = 5(x+2) squared - 13, beside the graph of the curve. The lowest point is (-2, -13) on the line of symmetry x = -2, and the curve crosses the y axis at 7." loading="lazy">
+  <figcaption>The a = 5 completed square read from the graph vertex.</figcaption>
+</figure>
+
 
 ### Proof
 
@@ -156,6 +212,17 @@ Small reminder: x² + 6x − 2 = (x + 3)² − 9 − 2 = (x + 3)² − 11.
 | Multiple of k | k × (integer) |
 
 End with a sentence: "… = 4(n + 1), which is a multiple of 4 because n + 1 is an integer."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--03-sym-odd-squares-proof.webp" width="900" height="876" alt="A 5 by 5 square with a 3 by 3 square removed leaves 16 squares in four strips of 2n = 4 squares each (n = 2). So (2n + 1)² − (2n − 1)² = 4 × 2n = 8n, a multiple of 8." loading="lazy">
+  <figcaption>The ring left between two consecutive odd squares is four strips of 2n squares, so the difference is 8n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
 
 ## Worked reminders (Higher tier only)
 

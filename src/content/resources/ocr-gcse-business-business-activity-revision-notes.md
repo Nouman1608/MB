@@ -51,6 +51,17 @@ Method in steps for a 1.1 case question:
 
 Mini example: Arlo Pennick (invented) leaves a job to sell repaired bicycles at weekend markets. His risk is lost pay and the stock he buys; his reward is profit and being his own boss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--01-enterprise-chain.webp" width="900" height="1120" alt="A chain shows an opportunity, an idea and a customer need met for the invented Yarrowmoor Kayak Hire. Four tiles name the entrepreneur traits. A strip contrasts the £14,000 savings at risk with the £9,000 forecast profit." loading="lazy">
+  <figcaption>Enterprise turns an opportunity into an idea that meets a customer need, and entrepreneurs need four traits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+
 ## 1.2 Business planning
 
 - Purposes of planning: **reduce risk**, **help the business succeed**.
@@ -58,6 +69,12 @@ Mini example: Arlo Pennick (invented) leaves a job to sell repaired bicycles at 
 - Limits: forecasts may be wrong; it takes time; it must be updated.
 
 Must-know distinction: a plan **supports** success, it does not guarantee it. "Useful because it helps get a loan" is a start; add why a lender wants to see it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
 
 ## 1.3 Business ownership
 
@@ -77,6 +94,22 @@ Note: the specification names the types and the concept of limited liability; th
 
 Common slip: limited liability does not remove the debt. It limits what the owner personally loses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--02-liability-example.webp" width="900" height="1030" alt="A studio owes £60,000 against £45,000 of assets, a £15,000 shortfall. Partners with unlimited liability could pay £7,500 each; in a private limited company each loses at most £10,000 and creditors bear the £15,000." loading="lazy">
+  <figcaption>Limited liability caps the owner loss; unlimited liability does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## 1.4 Aims and objectives
 
 - The five to know: **profit**, **survival**, **growth**, **providing a service**, **market share**.
@@ -90,6 +123,17 @@ Common slip: limited liability does not remove the debt. It limits what the owne
 | Plc with shareholders | Profit, growth |
 | Charity or community group | Providing a service |
 | Challenger in a crowded market | Market share |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--01-market-share-stormgate.webp" width="900" height="882" alt="A grid of 112 squares stands for an 11.2 million pound market, one square being 0.1 million pounds. Stormgate sells 1.4 million pounds, shown as one full shaded row of 14 squares. The formula 1.4 divided by 11.2 times 100 gives 12.5 percent." loading="lazy">
+  <figcaption>Stormgate Sportswear holds 12.5% of an 11.2 million pound market: 14 of 112 squares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
 
 ## 1.5 Stakeholders
 
@@ -112,6 +156,17 @@ Method in steps for a stakeholder question:
 3. Show how the decision helps or harms it.
 4. Say which stakeholder matters most here and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--04-night-shift.webp" width="900" height="980" alt="A night shift at Farrowdale Preserves gives owners more output, employees extra hours and suppliers bigger orders, but neighbours get lorry noise. A strip notes stakeholders can push back." loading="lazy">
+  <figcaption>One business decision helps some stakeholders and harms others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## 1.6 Business growth
 
 | Type | What it is | Example |
@@ -132,6 +187,17 @@ Percentage growth = (new - old) ÷ old × 100. Output rising from 400 to 500 uni
 The specification lists merger and takeover; the plain-English meanings in the table are general knowledge, not specification wording.
 
 **Compare:** organic is slower, cheaper and easier to control; external is faster but costs more, and the businesses may not fit together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--03-growth-directions.webp" width="900" height="1130" alt="Mardelby Furniture has arrows to a rival (horizontal), a supplier (backward vertical), a customer (forward vertical) and a new market (diversification). Two panels contrast a merger with a takeover." loading="lazy">
+  <figcaption>External growth can go sideways, backwards, forwards or into a new market, by merger or takeover.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--02-organic-growth-percentage.webp" width="900" height="720" alt="Two bars compare monthly output. Before is 8,000 jars. After is the same 8,000 plus an extra 2,200, making 10,200. The increase divided by the original times 100 gives 27.5 percent organic growth, from the business own resources." loading="lazy">
+  <figcaption>Farrowdale grows output from 8,000 to 10,200 jars a month, which is 27.5% organic growth.</figcaption>
+</figure>
+
 
 ## Command words and case-study skills
 

@@ -52,6 +52,52 @@ and how mass is conserved during these changes
 calculated, and how pressure in liquids and the atmosphere varies with
 depth, height, and density, including floating, sinking and upthrust
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-atom-models.webp" width="900" height="940" alt="Four pictures in order: Dalton’s solid ball, Thomson’s plum pudding with electrons set in positive charge, Rutherford’s tiny dense nucleus with electrons far away, and Bohr’s electrons in fixed shells. An atom is about 10 to the minus 10 metres across." loading="lazy">
+  <figcaption>The atomic model changed from a solid ball to a nuclear atom with electrons in shells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--07-upthrust.webp" width="900" height="1270" alt="A 0.10 m cube 0.20 m under water: 2000 Pa on its top face gives 20 N down and 3000 Pa on its bottom face gives 30 N up, so there is a net 10 N upthrust equal to the weight of water displaced. A block of density 800 kg/m3 floats with weight equal to upthrust; a block of 2700 kg/m3 sinks because its weight 27 N exceeds the 10 N maximum upthrust." loading="lazy">
+  <figcaption>Upthrust comes from the pressure difference between the bottom and top of a submerged object.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--03-pressure-with-depth.webp" width="900" height="960" alt="A tank of water with arrows on the wall that lengthen with depth: 9800 Pa at 1 m, 19600 Pa at 2 m, 29400 Pa at 3 m, matching the worked example 1000 x 9.8 x 3." loading="lazy">
+  <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker (Extended) oil of 0.92 g/cm3 floats on water of 1.0 g/cm3." loading="lazy">
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The particle model (P1.1) is the conceptual foundation for the whole
@@ -90,11 +136,23 @@ For a regular solid, measure dimensions and calculate volume. For an irregular s
 
 Solids and liquids have similar densities because their particles are close together; gases are roughly a thousand times less dense because the particles are far apart.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--05-mat-density-methods.webp" width="900" height="1120" alt="Three ways to find density as mass divided by volume with example numbers: a 6.0 by 3.0 by 4.0 cm block of mass 216 g gives 3.0 g/cm3; a 54 g stone displacing 20 cm3 gives 2.7 g/cm3; a liquid of 176 g minus 112 g in 80 cm3 gives 0.80 g/cm3." loading="lazy">
+  <figcaption>Regular solid by measurement, irregular solid by displacement, liquid by subtracting the empty cylinder.</figcaption>
+</figure>
+
+
 ## The particle model and changes of state
 
 Changes of state are **physical**: the particles themselves are unchanged, only their arrangement and energy differ, so the change is reversible and mass is conserved.
 
 Heating a substance either raises its temperature (increasing the kinetic energy of the particles) or changes its state (increasing potential energy as bonds between particles are overcome) — never both at once. This is why a heating curve has flat sections at the melting and boiling points despite energy still being supplied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--04-mat-mass-conserved.webp" width="900" height="650" alt="Three sealed flasks on balances, each holding the same 12 particles as ice, water and steam. Each balance reads 0.50 kg. Heat in melts the ice and boils the water, but the particles are only rearranged so mass is conserved." loading="lazy">
+  <figcaption>In a sealed flask the mass reads the same as ice, water and steam.</figcaption>
+</figure>
+
 
 ## Development of the atomic model
 
@@ -139,6 +197,12 @@ The **pressure difference** between two depths can be found by applying this equ
 The **atmosphere** can be modelled as a layer of air surrounding the Earth whose density decreases with altitude. Atmospheric pressure at a point equals the weight of the column of air above it, so atmospheric pressure **decreases with height** as there is progressively less air, and less dense air, above.
 
 **Upthrust** is the net upward force on an object in a fluid, caused by the pressure at the bottom of the object being greater than the pressure at the top (since the bottom is deeper). An object **floats** when the upthrust acting on it equals its weight; it **sinks** if its weight exceeds the maximum upthrust the fluid can provide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-mat-liquid-pressure.webp" width="900" height="746" alt="A water tank with sideways arrows at depths 0.5, 1.0 and 2.0 m, with lengths proportional to the pressures 5000, 10 000 and 20 000 Pa. The difference between 0.5 m and 2.0 m is 15 000 Pa." loading="lazy">
+  <figcaption>p = h rho g: pressure grows in proportion to depth.</figcaption>
+</figure>
+
 
 ## Worked example
 

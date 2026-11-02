@@ -46,6 +46,17 @@ The notes follow the IB Diploma Programme Chemistry guide (first assessment 2025
 - ΔT has the same value in K and °C: a 6.0 °C rise is a 6.0 K rise.
 - Convert absolute temperatures only: T/K = t/°C + 273.15.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--01-heat-vs-temperature.webp" width="900" height="880" alt="Two beakers each receive 2.09 kJ. 50.0 g of water (one row of particles) warms by 10.0 K; 250 g (five rows) warms by 2.00 K, shown as long and short bars." loading="lazy">
+  <figcaption>Five times the mass of water gives one fifth of the temperature rise for the same heat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--06-heat-loss-correction.webp" width="900" height="940" alt="Temperature-time graph: 20.4 C before mixing at 2 min, rise to 26.8 C, then a straight cooling line extended back to 27.5 C at mixing. Delta T is 7.1 K, not 6.4 K, which would make Q about 10 percent too small." loading="lazy">
+  <figcaption>Extend the cooling line back to mixing time and use 7.1 K, not 6.4 K.</figcaption>
+</figure>
+
+
 ## Reactivity 1.1.2 Reading the thermometer
 
 | | Exothermic | Endothermic |
@@ -56,6 +67,12 @@ The notes follow the IB Diploma Programme Chemistry guide (first assessment 2025
 | Examples | Combustion, neutralisation, respiration, metal + acid | Thermal decomposition, photosynthesis, dissolving some ammonium salts |
 
 **Key idea:** the thermometer reads the surroundings. Reading goes up → system lost energy → ΔH negative. Reading goes down → ΔH positive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--02-exo-endo-direction.webp" width="900" height="830" alt="Two beakers with a dashed system circle in water (surroundings). Exothermic: arrows out, thermometer 19.5 to 27.1 C, delta H negative. Endothermic: arrows in, thermometer 19.5 to 12.8 C, delta H positive." loading="lazy">
+  <figcaption>Exothermic reactions warm the surroundings (DeltaH &lt; 0); endothermic ones cool them (DeltaH &gt; 0).</figcaption>
+</figure>
+
 
 ## Reactivity 1.1.3 Stability and energy profiles
 
@@ -73,6 +90,12 @@ The notes follow the IB Diploma Programme Chemistry guide (first assessment 2025
 5. Ea arrow from the reactant level to the top of the peak.
 
 To read a profile: ΔH = E(products) − E(reactants) and Ea = E(peak) − E(reactants).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--03-energy-profiles.webp" width="900" height="1170" alt="Two profiles of potential energy against reaction coordinate. Endothermic (40, peak 125, 95): DeltaH +55, Ea 85. Exothermic (illustrative, 100, peak 140, 30): DeltaH -70, Ea 40. Ea runs from reactants to the peak; DeltaH from reactants to products." loading="lazy">
+  <figcaption>Products higher means endothermic and less stable; products lower means exothermic and more stable.</figcaption>
+</figure>
+
 
 ## Reactivity 1.1.4 Calorimetry toolkit
 
@@ -107,6 +130,12 @@ Q  = 40.0 × 4.18 × 4.3 = 719 J = 0.719 kJ
 ΔH = −0.719 / 0.0150   = −47.9 kJ mol⁻¹
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--04-cup-calorimetry.webp" width="900" height="1040" alt="A lidded polystyrene cup with thermometer holds 45.0 g of acid solution and 0.150 g Mg; temperature rises 14.8 K. Steps: n(Mg) 6.170e-3 mol limiting, Q = 2.784 kJ using the solution mass, DeltaH = -451 kJ per mol." loading="lazy">
+  <figcaption>Use the mass of the solution and the limiting reactant: DeltaH = -Q/n = -451 kJ per mol.</figcaption>
+</figure>
+
+
 ## Why experimental ΔH is usually too small
 
 Measured temperature changes tend to fall short of theory, so the calculated ΔH is less negative than the data value. Causes:
@@ -118,6 +147,12 @@ Measured temperature changes tend to fall short of theory, so the calculated ΔH
 - products not in standard states, such as steam instead of liquid water.
 
 For a reaction in solution, plot a temperature–time graph with readings before and after mixing. Extend the steady post-peak cooling trend back to the mixing time to estimate the true maximum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--05-fuel-calorimetry.webp" width="900" height="970" alt="A methanol spirit burner under a can of 150.0 g water with thermometer and stirrer. Arrows show heat lost to air; the can warms and soot forms. The measured -566 kJ per mol is compared with the data -726 kJ per mol, 22 percent less exothermic." loading="lazy">
+  <figcaption>Heat losses and incomplete burning make the measured value 22 % less exothermic than the data value.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

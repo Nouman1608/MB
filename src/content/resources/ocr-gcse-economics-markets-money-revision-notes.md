@@ -31,11 +31,33 @@ Condensed for the final weeks. For the full explanation, use the
 | **Movement along** | Change in **price** | Slides along the same curve |
 | **Shift of curve** | Change in anything else (income, tastes, costs, number of suppliers) | Whole curve moves |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Markets and sectors (2.1)
 
 **Primary** sector extracts raw materials; **secondary** manufactures; **tertiary** provides services. A **product market** trades goods/services; a **factor market** trades land, labour, capital or enterprise.
 
 **Specialisation and exchange**: benefits — higher output and productivity, wider choice through trade; costs — repetitive work, narrow skills if demand falls, a region dependent on one industry is exposed when it declines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
 
 ## Demand, supply and equilibrium (2.2–2.4)
 
@@ -46,6 +68,37 @@ PED = %change in Qd / %change in P        PES = %change in Qs / %change in P
 ```
 
 |PED| > 1 → **elastic**, price rise cuts revenue. |PED| < 1 → **inelastic**, price rise raises revenue. **Price elasticity** measures the *responsiveness* of quantity to a price change, not simply whether demand/supply is "high" or "low."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-price-elasticity-of-supply-and-price--01-pes-line-shapes.webp" width="900" height="1150" alt="Three upward supply lines all pass through price 6 and quantity 6. The line that meets the price axis has elasticity 2, the line through the origin has elasticity 1 and the line that meets the quantity axis has elasticity 0.67. Below, a vertical line shows PES 0 and a horizontal line shows infinite PES." loading="lazy">
+  <figcaption>Where a straight supply line would meet the axes tells you whether PES is above, equal to or below 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--11-market-demand-sum.webp" width="900" height="970" alt="Horizontal stacked bars show weekly pizza demand in Town T at each price from 12 pounds down to 4 pounds. Each bar adds Ana, Bilal and Cara. Totals are 3 at 12 pounds, 6 at 10, 9 at 8, 13 at 6 and 18 at 4. As price falls, every buyer wants more, so the market total rises." loading="lazy">
+  <figcaption>Market demand at each price is the sum of what every buyer wants to buy at that price.</figcaption>
+</figure>
+
 
 ## Competition and production (2.5–2.6)
 
@@ -59,6 +112,17 @@ average cost = total cost / output     average revenue = total revenue / output
 **Economies of scale** reduce **average** cost as output rises (bulk buying, large-scale machinery, cheaper finance, shared advertising cost); total cost still rises, only cost *per unit* falls.
 
 Worked example: 200 units, total cost £8,000, total revenue £11,000 → average cost £40, average revenue £55, profit £3,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-money-revision-notes--02-total-average-profit-200-units.webp" width="900" height="920" alt="Left panel: total revenue 11,000 pounds, total cost 8,000 pounds, profit 3,000 pounds. Right panel: average revenue 55 pounds, average cost 40 pounds, profit per unit 15 pounds. 15 times 200 gives the same 3,000 pounds." loading="lazy">
+  <figcaption>Dividing totals by 200 units gives AR 55 and AC 40; profit is the same either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--04-three-market-structures.webp" width="900" height="1040" alt="Three columns compare market structures. Competitive: many small firms, low barriers to entry, firms take the market price, wide choice. Oligopoly: a few large firms, high barriers, price influenced by rivals moves, limited choice. Monopoly: one firm, very high barriers, most control of price, little or no choice. Barriers shown as brick walls of rising height: high start-up costs, patents, control of a key resource and strong brands." loading="lazy">
+  <figcaption>More firms means lower barriers, less price control for each firm and more choice for buyers.</figcaption>
+</figure>
+
 
 ## The labour market (2.7)
 

@@ -44,6 +44,17 @@ A **mission** (or mission statement) is the business's overall purpose: why it e
 
 The relationship runs in one direction: the mission gives the aim, the objectives turn it into targets, and decisions are then judged by whether they move the business towards the objectives. Suppose a bakery's mission is to be the village's favourite place to buy bread. A matching objective might be to increase weekly customers by 15% within a year. The mission says what; the objective says how far and by when.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--13-ownership-effects.webp" width="900" height="880" alt="Five owner types with what each leads with and what shapes its decisions; plc judged on profit and share price, charity on difference made." loading="lazy">
+  <figcaption>Ownership shapes mission, decisions and how performance is judged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+
 ### Common business objectives
 
 The specification names these:
@@ -55,6 +66,12 @@ The specification names these:
 - **Social and ethical objectives:** for example employing local people, cutting waste, or sourcing materials fairly.
 
 Objectives can conflict. Growth often uses up cash. Ethical sourcing can raise costs and cut short-run profit. Which objective matters most usually depends on the firm's age, its finances, the market and who owns it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ### Why businesses set objectives
 
@@ -100,6 +117,17 @@ Profit matters because it:
 
 Profit is not cash flow. Ruairi's March profit is only useful for paying bills if customers have actually paid. A profitable firm can still run out of cash if it is paid late or buys too much stock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--01-profit-gearing.webp" width="900" height="1030" alt="Two stacked columns (March, April) show fixed costs stay the same while sales fall 33.3% and profit falls 62.5%. Revenue, variable costs, fixed costs and profit are labelled in pounds. It illustrates the gearing effect the lesson mentions." loading="lazy">
+  <figcaption>Fixed costs do not fall with sales, so profit falls proportionally more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--14-why-business-exists.webp" width="900" height="1040" alt="Inputs (labour, materials, premises, finance) become goods or services sold for more than they cost; one Oldmoor candle at 14 pounds with 6.50 materials leaves 7.50." loading="lazy">
+  <figcaption>A business turns inputs into something customers pay for.</figcaption>
+</figure>
+
+
 ## 3.1.2 Different business forms
 
 ### The forms the specification names
@@ -117,6 +145,17 @@ Profit is not cash flow. Ruairi's March profit is only useful for paying bills i
 - A **charity** works for a charitable purpose. Surpluses are put back into that purpose rather than shared out. Funding comes from donations, grants and trading.
 - A **mutual** is owned by its members, who are its customers or savers (building societies and co-operatives are examples). Any surplus is used for member benefit, such as better rates or lower prices, not for outside shareholders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ### Reasons for choosing a form, and for changing it
 
 | Factor | Why it matters |
@@ -131,6 +170,12 @@ Profit is not cash flow. Ruairi's March profit is only useful for paying bills i
 | Size and growth plans | Rapid expansion often needs outside capital |
 
 Businesses change form when circumstances change. A sole trader may become a private limited company when risk grows. A private limited company may become a plc to raise large sums and give shareholders a way to sell. A plc may be bought out and made private, to escape stock market pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--11-choosing-business-form.webp" width="900" height="930" alt="Sole trader, private Ltd and plc compared on liability, finance, control, admin cost, privacy and continuity, with form changes." loading="lazy">
+  <figcaption>Match the form to the owner’s liability, finance and control needs.</figcaption>
+</figure>
+
 
 ### Shares, shareholders and market capitalisation
 
@@ -158,6 +203,17 @@ An investor with 2,000 shares:
 
 The fall does not reduce Caldwick's bank balance. Shares already issued trade between investors. The company receives money only when it issues new shares.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--03-share-price-fall.webp" width="900" height="1120" alt="Bars show market capitalisation falling from £16m to £13.6m (-15%) when the price falls from £3.20 to £2.72. A second chart shows an investor with 2,000 shares gaining £180 dividends but losing £960 of value, net -£780. A note says the company bank balance is unchanged." loading="lazy">
+  <figcaption>A share price fall cuts market capitalisation and investors’ wealth, but not the company’s cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
+
 ### Influences on share price and why changes matter
 
 Share price is set by buying and selling. It rises when more people want to buy than sell. Influences include:
@@ -171,6 +227,12 @@ Share price is set by buying and selling. It rises when more people want to buy 
 
 A **rising price** raises market capitalisation, makes new share issues cheaper, rewards shareholders and managers with share options, and makes a takeover more expensive. A **falling price** does the opposite: it can make the firm a takeover target, make raising finance harder, and put pressure on directors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--12-share-price-moves.webp" width="900" height="880" alt="Six influences feed the share price; a rise raises market cap and cheapens new shares; a fall can invite takeover and harden finance." loading="lazy">
+  <figcaption>Price moves come from buying and selling, and they change what the firm can do.</figcaption>
+</figure>
+
+
 ### Effects of ownership on mission, objectives, decisions and performance
 
 | Owner type | Likely effect |
@@ -182,6 +244,12 @@ A **rising price** raises market capitalisation, makes new share issues cheaper,
 | Charity or mutual | Surplus goes to the purpose or members, so social or member objectives lead |
 
 Performance is judged differently too. A plc is judged on profit and share price; a charity on the difference it makes with its funds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--02-surplus-goes.webp" width="900" height="970" alt="Five rows link each organisational form to where its surplus goes: owner, shareholders, charitable purpose, members, or government-funded service. Colours separate owner-benefit from purpose-first forms." loading="lazy">
+  <figcaption>Where the surplus goes differs between private, non-profit and public sector forms.</figcaption>
+</figure>
+
 
 ## Common errors
 

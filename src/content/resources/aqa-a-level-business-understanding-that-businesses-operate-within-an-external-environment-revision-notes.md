@@ -65,6 +65,12 @@ The specification lists a single content point: **how the external environment c
 4. Apply it to the business in the case: product, customers, debt, location, staff.
 5. Judge the size, timing and the business's possible response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--06-external-four-step-chain.webp" width="900" height="960" alt="Four steps: name the factor and change; costs or demand; price, volume, revenue, profit; size and response." loading="lazy">
+  <figcaption>Always say whether costs or demand change, and how far.</figcaption>
+</figure>
+
+
 ## Short calculations to know
 
 **Percentage change** = change ÷ original × 100.
@@ -120,11 +126,23 @@ Budget:  sales moved the opposite way to income (an inferior-good response)
 - Seasonal market: idle capacity and cash pressure in quiet months, and a need to hire temporary staff or hold stock in peak months.
 - Input market: shortages and poor harvests push input prices up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--05-input-price-pass-through.webp" width="900" height="1010" alt="Unit cost rises from 30.00 to 32.16 pounds when the leaf (40 percent of cost) rises 18 percent: a 7.2 percent rise overall. Margin at 48 pounds falls from 18.00 to 15.84." loading="lazy">
+  <figcaption>An 18% rise in one input is only a 7.2% rise in unit cost.</figcaption>
+</figure>
+
+
 ### Incomes
 
 - Rising incomes help luxuries and premium brands. Falling incomes hit them and can help budget lines.
 - Rising incomes across the economy usually raise the pay needed to recruit staff.
 - Always say which product you mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--08-income-normal-inferior.webp" width="900" height="1060" alt="Income falls 3%; premium bike sales fall 9% (three times as far); budget bike sales rise 4%, moving the opposite way." loading="lazy">
+  <figcaption>A normal good moves with income; an inferior good moves against it.</figcaption>
+</figure>
+
 
 ### Interest rates
 
@@ -133,11 +151,33 @@ Budget:  sales moved the opposite way to income (an inferior-good response)
 - Fixed-rate debt delays the cost effect.
 - A business with little debt and cash-paying customers is less exposed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--06-points-vs-percent.webp" width="900" height="1090" alt="The rate rises from 5.5 to 7.0 percent, 1.5 percentage points. Yearly interest on 240,000 pounds rises from 13,200 to 16,800, up 3,600 or 27.3 percent." loading="lazy">
+  <figcaption>A percentage point change is not a percentage change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
 ### Demographic factors
 
 - Ageing population: more demand for care, health and mobility products; harder to recruit younger workers.
 - Young or growing population: more demand for education and housing; larger workforce.
 - Always link the trend to the specific product or job role.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--10-aldwick-net-effect.webp" width="900" height="990" alt="Waterfall: profit 3,600 pounds, plus 630 revenue from demand, minus 297 from ingredients, giving 3,933, a net gain of 333." loading="lazy">
+  <figcaption>Add the effects together before calling a factor good or bad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
 
 ### Environmental issues and fair trade
 
@@ -145,6 +185,12 @@ Budget:  sales moved the opposite way to income (an inferior-good response)
 - Costs possibly down over time: less energy and waste.
 - Demand: green and fair trade customers may pay more; a poor record can lose customers and reputation.
 - Keep legal points general. Say compliance costs money, without quoting detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--09-demographic-green-grid.webp" width="900" height="890" alt="Two by two grid of ageing population and green/fair trade effects on costs and demand, with rises and falls marked." loading="lazy">
+  <figcaption>Each factor can push costs or demand either way.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -180,6 +226,12 @@ Budget:  sales moved the opposite way to income (an inferior-good response)
 8. Fewer younger workers are available, so recruitment and wage costs may rise.
 9. Certified inputs cost more per unit, but ethical customers may buy more or accept a higher price, so extra revenue can outweigh the extra cost.
 10. The interest rate on the loan does not change until the fixed period ends, so the finance cost stays the same until then.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment--07-orrinson-price-or-hold.webp" width="900" height="940" alt="Weekly profit 2,200 pounds before, 1,200 with a price cut (down 45.5%), 1,240 holding price (down 43.6%); revenue 8,740 v 8,000 pounds." loading="lazy">
+  <figcaption>Profit is almost equal either way, but revenue differs.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

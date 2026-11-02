@@ -41,6 +41,12 @@ When you are ready, try the [practice questions](/resources/oxfordaqa-a-level-ch
 
 No practical activity is listed under 3.3.8.1. The same tests feature in Required practical 5 (section 3.3.6.1); see the [organic analysis notes](/resources/oxfordaqa-a-level-chemistry-organic-analysis-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+
 ## Key words
 
 | Term | What to write |
@@ -101,6 +107,17 @@ CH₃CO(CH₂)₇CH₃ + HCN → CH₃C(OH)(CN)(CH₂)₇CH₃         2-hydroxy
 
 Same skeleton both times: attack carbon, push electrons to oxygen, protonate oxygen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+
 ## Racemate checklist
 
 To explain a mixture of enantiomers, make all four points:
@@ -111,6 +128,12 @@ To explain a mixture of enantiomers, make all four points:
 4. If the product carbon has four different groups, equal amounts of the two enantiomers form, and their equal and opposite rotations cancel.
 
 **Quick screen:** list the two groups on the C=O carbon. Different → racemate. Identical (methanal; symmetrical ketones such as undecan-6-one) → no chiral centre, so no enantiomers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -126,6 +149,12 @@ To explain a mixture of enantiomers, make all four points:
 - With acid: forms HCN, a highly toxic, volatile gas.
 - Controls: fume cupboard, gloves, eye protection, slow addition of dilute acid.
 - KCN rather than HCN: KCN supplies many CN⁻ ions; HCN is a weak acid and a dangerous gas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--07-kcn-hazard.webp" width="900" height="890" alt="A beaker of KCN solution has dilute acid added by a dropper, producing HCN gas marked with a hazard diamond. The precautions shown are gloves and eye protection, a fume cupboard and adding acid slowly." loading="lazy">
+  <figcaption>Acid turns CN- into toxic, volatile HCN gas, so use protection, a fume cupboard and add acid slowly.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -170,6 +199,12 @@ Ar values: Ag 107.9, Cu 63.5, O 16.0, C 12.0, H 1.0.
 10. Mr = 128.0; n = 1.60 ÷ 128.0 = 0.0125 mol; n(Ag) = 0.0250 mol; mass = 0.0250 × 107.9 = **2.70 g**.
 11. Mr(Cu₂O) = 143.0; mass = 0.0400 × 143.0 = **5.72 g**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Beginning the cyanide arrow at N; the attacking lone pair belongs to C.
@@ -182,6 +217,12 @@ Ar values: Ag 107.9, Cu 63.5, O 16.0, C 12.0, H 1.0.
 - Explaining a racemate as "the product is chiral" with no mention of a planar group and equal attack from either side.
 - Giving "no reaction" instead of an observation for the ketone in a test.
 - Listing KCN hazards without HCN formation on adding acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

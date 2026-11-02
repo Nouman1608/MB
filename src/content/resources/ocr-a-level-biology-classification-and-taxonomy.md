@@ -64,6 +64,12 @@ For each of the other three animals, find the lowest taxon it shares with the do
 
 The lower the rank at which two organisms first share a taxon, the more features they have in common, and (as section 4.2.2(d) explains) the more recently they share a common ancestor. The cat is therefore most like the lion and least like the frog.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
+
 ## 4.2.2(b) The binomial system
 
 Many organisms have several common names, and one common name can mean different organisms. In Britain a buzzard is a bird of prey, *Buteo buteo*. In North America the same word is often used for vultures. Common names also differ between languages.
@@ -105,6 +111,17 @@ An organism from a pond is unicellular, has a nucleus, 80S ribosomes and chlorop
 1. The nucleus and 80S ribosomes show it is eukaryotic, so not Prokaryotae.
 2. Chloroplasts and a cellulose wall might suggest Plantae, but Plantae are multicellular with tissues.
 3. A unicellular eukaryote that photosynthesises belongs in **Protoctista** (a green alga).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
+  <figcaption>Three domains of cells, with viruses outside them (Cambridge only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
 
 ## 4.2.2(c)(ii) New evidence and the three domains
 
@@ -157,6 +174,12 @@ For P and S: 45 ÷ 250 × 100 = 18.0 % different, so 82.0 % similar.
 
 Interpretation: P and Q differ least, so they share the most recent common ancestor. R is next closest to both. S differs most from all three, so it branched off earliest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+
 ## 4.2.2(d) Classification and phylogeny
 
 **Phylogeny** is the evolutionary history of a group of organisms: how species are related through descent from common ancestors. Because all organisms share common ancestry, classification should reflect phylogeny. Organisms in the same genus share a more recent common ancestor than organisms in the same family but different genera. The nested hierarchy is the result of branching descent.
@@ -191,6 +214,12 @@ Evidence for relationships includes fossils and similarities in anatomy, but mol
 - Saying Archaea are a type of bacteria. In the three-domain system they are a separate domain.
 - Claiming the five-kingdom system was based on DNA. It was based on observable features; molecular evidence led to the domains.
 - Stating that more similar sequences mean more similar appearance. Similar sequences show a more recent common ancestor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Next steps
 

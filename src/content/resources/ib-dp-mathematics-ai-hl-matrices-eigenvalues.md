@@ -104,6 +104,12 @@ Q is 2 × 3 and p is 3 × 1, so Qp is defined and is 2 × 1.
 
 Always check that the labels line up: the columns of Q (products) must match the rows of p (products).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--01-row-times-column.webp" width="900" height="850" alt="Take row 1 of A and column 2 of B: 2 x 5 + (-1) x (-2) = 12 is the row 1, column 2 element of AB. AB has rows (2, 12), (3, 7) but BA has rows (17, 19), (-6, -8), so AB is not equal to BA. An m x n matrix times an n x p matrix gives m x p." loading="lazy">
+  <figcaption>Each element of AB is a row of A times a column of B, and AB is not BA.</figcaption>
+</figure>
+
+
 ## 1.14 Determinants and inverses
 
 For a 2 × 2 matrix
@@ -135,6 +141,12 @@ Check: C × C⁻¹ gives I. Always do this quick check on a 2 × 2 inverse.
 
 A GDC example for n = 3: the matrix with rows (2, 1, 0), (1, 3, −1), (0, 2, 4) has determinant **24**, so it is invertible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--02-determinant-area-scale.webp" width="900" height="902" alt="The matrix C sends the unit square to a parallelogram of area 10, so det C = 10 is the area scale factor. A singular matrix with determinant 0 squashes the square onto a line (area 0), so it has no inverse. C inverse is (1/10) times the matrix with rows (1, 2) and (-3, 4)." loading="lazy">
+  <figcaption>The determinant is the area scale factor, and a zero determinant squashes the plane flat so there is no inverse.</figcaption>
+</figure>
+
+
 ## 1.14 Systems of equations: Ax = b
 
 A system of linear equations can be written as **Ax = b**, where A is the coefficient matrix, x is the column of unknowns and b is the column of constants. If A is invertible, multiply both sides on the **left** by A⁻¹:
@@ -165,6 +177,12 @@ With the GDC, det A = 10 ≠ 0, so A⁻¹ exists. Then x = A⁻¹b gives **a = 1
 
 Give each letter a number (A = 1, B = 2, …, Z = 26). Split the message into pairs and write each pair as a column vector. Multiply each column by an encoding matrix E. To decode, multiply each coded column by E⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--04-coding-a-message.webp" width="900" height="1076" alt="MATH becomes 13, 1, 20, 8 and the pairs (13, 1), (20, 8). Multiplying by E with rows (3, 1), (5, 2) gives (40, 67) and (68, 116). Multiplying by E inverse, rows (2, -1), (-5, 3), returns the original pairs, which decode to MATH." loading="lazy">
+  <figcaption>Multiply pairs of letter numbers by E to code a message and by E inverse to decode it.</figcaption>
+</figure>
+
+
 ### Worked example 5
 
 Encode "MATH" with E, where E has rows (3, 1) and (5, 2).
@@ -177,6 +195,12 @@ E | 13 | = | 3(13)+1(1) | = | 40 |      E | 20 | = | 68  |
 ```
 
 The coded message is 40, 67, 68, 116. To decode, det E = 6 − 5 = 1, so E⁻¹ has rows (2, −1) and (−5, 3). Then E⁻¹(40, 67) = (80 − 67, −200 + 201) = (13, 1), which is "MA". An encoding matrix with determinant ±1 keeps the decoded values as whole numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--03-solving-ax-equals-b.webp" width="900" height="870" alt="Three bookings are drawn as rows of ticket blocks: 2 adult, 3 child, 1 senior = 54 dollars; 1, 2, 2 = 44 dollars; 3, 1, 1 = 52 dollars. det A = 10 so A inverse exists and x = A inverse b gives adult 12, child 7, senior 9 dollars." loading="lazy">
+  <figcaption>Writing the bookings as Ax = b and multiplying by A inverse gives the three prices.</figcaption>
+</figure>
+
 
 ## 1.15 Eigenvalues and eigenvectors
 
@@ -209,6 +233,17 @@ For λ = 5: M − 5I has rows (−1, 1) and (2, −2). The first row gives −x 
 For λ = 2: M − 2I has rows (2, 1) and (2, 1). So 2x + y = 0, giving y = −2x. An eigenvector is **(1, −2)**.
 
 Check: M(1, −2) = (4 − 2, 2 − 6) = (2, −4) = 2(1, −2). Correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--05-eigenvector-keeps-its-line.webp" width="900" height="1122" alt="The matrix M with rows (4, 1), (2, 3) sends v1 = (1, 1) to 5v1 and v2 = (1, -2) to 2v2, both staying on their dashed lines, so they are eigenvectors. The vector w = (1, 0) goes to (4, 2), which points in a new direction, so it is not an eigenvector." loading="lazy">
+  <figcaption>An eigenvector is only stretched by M: it stays on the same line through the origin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--06-characteristic-polynomial.webp" width="900" height="1004" alt="The graph of det(M - lambda I) = (4 - lambda)(3 - lambda) - 2 = lambda squared - 7 lambda + 10 is a parabola crossing the lambda axis at 2 and 5. These roots are the eigenvalues of M." loading="lazy">
+  <figcaption>The eigenvalues are the roots of the characteristic polynomial det(M - lambda I).</figcaption>
+</figure>
+
 
 ## 1.15 Diagonalization and powers
 
@@ -259,6 +294,17 @@ Write x₀ = 3000(2, 1) − 3000(1, −1). Since Tⁿ multiplies each eigenvecto
 xₙ = 3000(2, 1) − 3000(0.7)ⁿ(1, −1)
 
 So Aville has 6000 − 3000(0.7)ⁿ people and Bton has 3000 + 3000(0.7)ⁿ. After 5 years, Aville has 6000 − 3000(0.16807) ≈ **5496** and Bton ≈ **3504**. As n grows, (0.7)ⁿ → 0, so the populations approach **6000 and 3000**. The same method models predator/prey numbers when the matrix has distinct real eigenvalues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--07-powers-via-eigenvectors.webp" width="900" height="1166" alt="The vector x0 = (0, 3) equals v1 - v2. Applying M stretches the v1 part by 5 and the v2 part by 2, giving M x0 = 5v1 - 2v2 = (3, 9). In general M to the n times x0 = 5 to the n v1 - 2 to the n v2, which is why M to the n = P D to the n P inverse." loading="lazy">
+  <figcaption>Splitting a vector into eigenvector parts lets each part be scaled by its own eigenvalue to the power n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-matrices-eigenvalues--08-two-towns-steady-state.webp" width="900" height="990" alt="Aville rises from 3000 towards 6000 as 6000 - 3000(0.7)^n and Bton falls from 6000 towards 3000. After 5 years there are about 5496 and 3504 people. The long-run split 6000 : 3000 = 2 : 1 is the eigenvector (2, 1) for eigenvalue 1." loading="lazy">
+  <figcaption>The populations approach a steady state because 0.7 to the n fades away.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -90,6 +90,12 @@ Conditions that matter:
 - Units of the variable factor are of equal quality.
 - Diminishing returns means *marginal* product falls. It does not mean total product falls. Total product falls only when MP is negative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--05-product-curves-bakery.webp" width="900" height="1180" alt="Total product rises from 0 to 170 loaves as workers 1 to 7 are added, flattening. Marginal product peaks at 40 with the third worker then falls to 5; average product peaks at 31 with four workers, and MP cuts AP at AP's maximum. Diminishing returns are shaded from the third worker." loading="lazy">
+  <figcaption>TP keeps rising while MP falls; MP cuts AP at AP's peak.</figcaption>
+</figure>
+
+
 ## 7.5.2 The short-run cost function
 
 ### Fixed and variable costs
@@ -113,6 +119,12 @@ Do not describe a wage bill as fixed just because a worker has a contract. If th
 
 Q means quantity of output. The syllabus uses AC and ATC for average total cost, so treat them as the same measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+
 ### Worked example 2: the bakery's costs
 
 Suppose the oven costs 60 cu per day (fixed) and each worker is paid 40 cu per day. Using the output from worked example 1:
@@ -132,6 +144,27 @@ Working for five workers: TVC = 5 x 40 = 200. TC = 60 + 200 = 260. AFC = 60 / 15
 The table shows a link between the two halves of this unit. When labour is the only variable factor and the wage is constant, MC = wage / MP and AVC = wage / AP. At the fourth worker, MC = 40 / 34 = 1.18. A high MP means a low MC, and a falling MP means a rising MC.
 
 Each MC figure is the average cost per loaf over a block of output. On a diagram it is plotted at the middle of that block.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--06-bakery-cost-curves.webp" width="900" height="1100" alt="Cost per loaf against loaves per day from the lesson table. AVC is lowest (1.29) at 124 loaves and ATC lowest (1.73) at 150 loaves. MC falls to 1.00 then rises, passing the lowest points of AVC and ATC from below; MC is plotted at the middle of each block and runs off the top at 8.00." loading="lazy">
+  <figcaption>AVC bottoms at 124 loaves, ATC at 150, and MC cuts both from below.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--07-mc-mirrors-mp.webp" width="900" height="1050" alt="Bars of marginal product for workers 1 to 7 (20, 30, 40, 34, 26, 15, 5) above bars of marginal cost (2.00, 1.33, 1.00, 1.18, 1.54, 2.67, 8.00) found as 40 divided by MP. MC falls while MP rises and rises once diminishing returns begin." loading="lazy">
+  <figcaption>MC = wage / MP, so MC falls while MP rises and rises when MP falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--01-fixed-vs-variable-costs.webp" width="900" height="890" alt="Stacked bars of daily bakery cost for 0 to 7 workers. The oven (60 cu) is fixed and the same in every bar, even at zero workers; wages at 40 cu per worker form the variable part. Total cost is 60, 100, 140, 180, 220, 260, 300, 340. A warning says a wage contract does not make wages fixed if the firm can change worker numbers with output." loading="lazy">
+  <figcaption>Fixed cost is the same at every output; wages vary with the workers hired.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--02-what-shifts-cost-curves.webp" width="900" height="1160" alt="Two graphs of cost per loaf against output for the bakery. Rent rising from 60 to 80 cu shifts ATC up by 20 divided by output but leaves AVC and MC unchanged. A wage rising from 40 to 50 cu shifts MC, AVC and ATC up, since MC = wage / MP and AVC = wage / AP. Dashed lines are before, solid after." loading="lazy">
+  <figcaption>A rent rise moves only ATC; a wage rise moves MC, AVC and ATC.</figcaption>
+</figure>
+
 
 ## Explaining the shapes of the curves
 
@@ -168,6 +201,12 @@ The same rule applies to ATC, with its minimum at 150 loaves. The bakery's MC fo
 - A rise in fixed costs, such as rent, raises TFC, AFC, TC and ATC. It does not change TVC, AVC or MC, because MC depends only on the extra cost of extra output.
 - A rise in a variable cost, such as the wage, raises TVC, AVC, ATC and MC.
 - Better technology that raises MP lowers MC and AVC.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Evaluation points for longer answers
 

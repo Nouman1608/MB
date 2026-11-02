@@ -36,6 +36,12 @@ These notes condense topic 5.1.4, Hormonal communication, from OCR A Level Biolo
 | Gluconeogenesis | Glucose made from non-carbohydrates (amino acids, glycerol) |
 | Second messenger | Molecule inside the cell, such as cAMP, made after a hormone binds its surface receptor |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
+
 ## 5.1.4(a) Endocrine communication
 
 Three stages: **secretion** into the blood, **transport** by the blood to all tissues, **detection** by target cells with specific receptors.
@@ -97,6 +103,12 @@ Negative feedback: change, detection, hormone, response that reverses the change
 4. cAMP starts an enzyme cascade that breaks down glycogen.
 5. Glucose leaves the liver cell and enters the blood.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
+</figure>
+
+
 ### Insulin secretion: the beta cell sequence
 
 1. Glucose enters the beta cell by facilitated diffusion.
@@ -109,6 +121,17 @@ Negative feedback: change, detection, hormone, response that reverses the change
 Predictions: a drug that closes the potassium channels causes secretion at low glucose; a calcium channel blocker prevents secretion at high glucose; a drug that holds potassium channels open prevents depolarisation, so no insulin is released.
 
 **Worked reminder.** Fasting glucose is 11.0 mmol dm⁻³, then falls to 6.6 after treatment. Percentage fall = (11.0 − 6.6) ÷ 11.0 × 100 = **40%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
 
 ## 5.1.4(e) Type 1 and Type 2
 
@@ -139,6 +162,17 @@ Advantages over animal insulin: human sequence, so a lower chance of immune reac
 ### Stem cells
 
 Idea: turn stem cells into beta cells and transplant them. Issues: rejection and the need for immunosuppression, possible renewed autoimmune attack in Type 1, ethical objections to embryonic cells, tumour risk, and limited evidence so far.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

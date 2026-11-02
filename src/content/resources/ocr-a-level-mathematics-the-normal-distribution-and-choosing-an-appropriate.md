@@ -58,6 +58,12 @@ The variance is the number written second. X ~ N(30, 16) has σ = 4, and X ~ N(3
 
 Changing μ slides the curve along the axis. Changing σ stretches or squeezes it: a larger σ gives a lower, wider curve. The area stays 1 in every case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--01-amth-normal-shape.webp" width="900" height="1250" alt="Three graphs: two bell curves with means 40 and 60 show that changing the mean slides the curve; two curves centred on 50 with standard deviations 4 and 8 show that a larger spread gives a lower, wider curve of the same area; a curve with mean 50 and sd 9 has points of inflection at 41 and 59. A note says N(30, 16) and N(30, 4²) are the same curve." loading="lazy">
+  <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
+</figure>
+
+
 ## 2.04g: Histograms, mean, standard deviation and shape
 
 A histogram of a large amount of continuous data that is roughly symmetrical and bell-shaped suggests a normal model. The sample mean and standard deviation then estimate μ and σ, and the smooth curve stands in for the tops of the bars. Area still represents proportion.
@@ -92,6 +98,12 @@ About two-thirds of 400 = about 267 heights
 
 These are rounded facts, so say "about". Use the calculator functions when an exact probability is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--02-amth-normal-spread-rule.webp" width="900" height="850" alt="Plank lengths with mean 2.40 m and sd 0.03 m: nested bands show about 2/3 (0.683) within one sd, about 95% (0.954) within two, and almost all (0.997) within three. About 0.0228 lies above μ + 2σ." loading="lazy">
+  <figcaption>About 2/3, 95% and almost all values lie within 1, 2 and 3 standard deviations of the mean.</figcaption>
+</figure>
+
+
 ## 2.04f: Calculating probabilities
 
 The specification asks you to find probabilities "using appropriate calculator functions". Enter the lower bound, the upper bound, μ and σ (not σ²). For one-sided probabilities use a very large or very small bound as the other end, or use the upper-tail option if your calculator has one.
@@ -105,6 +117,12 @@ Z = (X − μ)/σ
 ```
 
 The z-value tells you how many standard deviations a value is from the mean. A negative z means below the mean. You need standardising mainly when μ or σ is unknown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--03-amth-normal-standardising.webp" width="900" height="945" alt="Mango mass M ~ N(310, 20²): 280 g is z = −1.5 and 325 g is z = 0.75. P(280 &lt; M &lt; 325) = Φ(0.75) − (1 − Φ(1.5)) = 0.7734 − 0.0668 = 0.7066, shown as three small standard normal curves." loading="lazy">
+  <figcaption>Standardise with z = (x − μ)/σ, then use Φ and symmetry to find the area between two values.</figcaption>
+</figure>
+
 
 ### Worked example 3: probabilities and expected frequencies
 
@@ -126,6 +144,12 @@ An expected frequency is probability times total. It need not be a whole number,
 
 To find x when P(X < x) is known, use the **inverse normal** function. Give it the area to the **left** of x. If the question gives an upper tail, subtract from 1 first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--04-amth-normal-inverse.webp" width="900" height="1100" alt="Using the mango model, the top 10% start at k with area 0.90 to the left, z = 1.2816, so k = 335.6 g. The lowest 20% use the mirror value 0.8416, so z = −0.8416 and k = 293.2 g." loading="lazy">
+  <figcaption>Work from the area to the left to find z, then use x = μ + zσ; below 0.5 means z is negative.</figcaption>
+</figure>
+
+
 ### Worked example 4: finding a boundary
 
 The battery life X hours of a tablet is modelled by X ~ N(9.6, 1.1²). Find (a) the time exceeded by 95% of tablets, and (b) the time that only the best 15% of tablets exceed.
@@ -143,6 +167,12 @@ Sketch the curve and shade the area first. It stops you putting 0.15 in where 0.
 
 When μ or σ is unknown, turn each given probability into a z-value, then write an equation using x = μ + zσ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--05-amth-normal-two-unknowns.webp" width="900" height="870" alt="With P(X &lt; 30) = 0.20 and P(X &gt; 46) = 0.10, 30 lies 0.8416σ below the mean and 46 lies 1.2816σ above it, so 16 = 2.1232σ, giving σ = 7.54 and μ = 36.3." loading="lazy">
+  <figcaption>Two probability statements give two linear equations in μ and σ.</figcaption>
+</figure>
+
+
 ### Worked example 5: one unknown
 
 X ~ N(120, σ²) and P(X > 132) = 0.08. Find σ.
@@ -152,6 +182,12 @@ P(X < 132) = 0.92, so z = 1.405
 (132 − 120)/σ = 1.405
 σ = 12/1.405 = 8.54 (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--06-amth-normal-sums.webp" width="900" height="1120" alt="For X ~ N(30, 4²), X1 + X2 + X3 is N(90, 48) and 3X is N(90, 144). Both have mean 90 but the sum of independent values is narrower: P(&gt; 102) is 0.0418 for the sum and 0.1587 for 3X." loading="lazy">
+  <figcaption>Variances add for independent values, so a sum is less spread out than a multiple of one value.</figcaption>
+</figure>
+
 
 ### Worked example 6: two unknowns
 
@@ -202,6 +238,17 @@ The specification says a binomial distribution with large n can be approximated 
 For X ~ B(240, 0.35): μ = 240 × 0.35 = 84 and σ² = 240 × 0.35 × 0.65 = 54.6, so the model is N(84, 54.6) with σ = 7.39.
 
 Calculations that explicitly require the approximation are excluded, so this is for understanding. The binomial counts whole numbers while the normal is continuous, so a **continuity correction** treats "X ≤ 90" as "X < 90.5". For the model above the exact binomial P(X ≤ 90) is 0.811. The normal without correction gives 0.792, and with the correction 0.810. The correction is close, which shows why it is taught.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--07-amth-normal-continuity.webp" width="900" height="780" alt="Bars for B(80, 0.35) with N(28, 18.2) over them. P(X ≤ 25) uses bars up to the edge at 25.5, so it becomes P(Y &lt; 25.5) = 0.279 against an exact 0.282; P(X ≥ 30) becomes P(Y &gt; 29.5) = 0.363; P(X = 28) becomes P(27.5 &lt; Y &lt; 28.5) = 0.0933." loading="lazy">
+  <figcaption>A whole number r becomes a band from r − 0.5 to r + 0.5 when approximating with a normal curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--09-amth-normal-model-limits.webp" width="900" height="1070" alt="N(6, 4²) for assembly time gives 0.0668 probability of a negative time, which is impossible. A second graph compares skewed data with a normal curve of the same mean and spread, which fits poorly and puts about 4% below zero." loading="lazy">
+  <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
+</figure>
+
 
 ## Common errors
 

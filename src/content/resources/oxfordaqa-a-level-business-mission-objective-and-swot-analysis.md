@@ -102,6 +102,22 @@ Objectives can conflict. Higher dividends leave less retained profit to fund gro
 - **External environment**: competition, the economy, law, technology
 - **Past performance**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
+
 ## 3. SWOT analysis
 
 **SWOT** lists **strengths** and **weaknesses** (internal) and **opportunities** and **threats** (external). Sections 3.3.3 and 3.3.4 analyse the external side; here the focus is using data to judge strengths and weaknesses.
@@ -158,6 +174,12 @@ A wide margin of safety is a strength.
 
 *HR data.* Nine of an average 45 employees left: labour turnover = 9/45 × 100 = **20%**. Of 12 people recruited a year ago, 9 are still employed: retention = **75%**. Employee costs of £1.08 million are 16.67% of turnover, or £0.40 per bottle. An engagement survey scores 64%, and 30 of 45 staff are represented by a trade union (a representation rate of **66.7%**). High turnover alongside middling engagement is a weakness to probe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+
 ## 4. Stakeholder needs when making decisions
 
 ### Stakeholder mapping
@@ -186,6 +208,12 @@ Managing the relationships: consult residents early, offer noise barriers and li
 **Actions stakeholders can take:** customers switch or boycott; employees strike or leave; suppliers change credit terms; lenders refuse finance; shareholders sell or vote against directors; government regulates or fines; communities object to planning applications or campaign. Each can raise costs, delay plans or harm reputation.
 
 **Value of considering stakeholder needs:** fewer disputes, better reputation and loyalty, decisions that last. But consultation takes time and no decision satisfies everyone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
 
 ## Common errors
 

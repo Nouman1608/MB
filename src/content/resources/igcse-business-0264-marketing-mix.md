@@ -44,6 +44,12 @@ A brand is the name, logo and reputation that make a product recognisable. Brand
 
 Packaging has several roles. It protects goods in transit and on the shelf, and it keeps food fresh. It carries information such as ingredients and instructions. It attracts attention and shows the brand image, for example plain recycled card for a natural product. Better packaging adds cost, so it must earn that cost back through sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--14-brand-image-and-packaging.webp" width="900" height="780" alt="A pack with brand logo and ingredients label shows packaging protects, informs and attracts. A strong brand brings higher price, loyalty and easier launches; better packs cost more." loading="lazy">
+  <figcaption>Packaging protects, informs and shows the brand; a strong brand image pays back.</figcaption>
+</figure>
+
+
 ### Developing new products
 
 Advantages: new sales when existing products mature, a lead over competitors, and a chance to reach new customers. Disadvantages: research and development cost, the risk that customers do not buy it, and the time before it makes a profit. It can also take sales from the business's own existing products.
@@ -80,6 +86,22 @@ An extension strategy tries to stop sales falling when a product is mature or in
 
 **Recommending and justifying.** Pick one strategy, link it to a fact in the case, and say why a rival option is weaker. Fenwick Gate Speakers, for example, could adapt the product by adding a voice assistant: the question says customers in years 6 to 8 are moving to smart devices, so the change answers the cause of the decline. A cheaper option such as extra advertising would not fix a product customers see as out of date.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--03-plc-from-sales-data.webp" width="900" height="950" alt="A line graph of eight years of speaker sales peaks at 42,000 in year 5. Years are shaded as introduction, growth, maturity and decline, with each year-on-year percentage change underneath." loading="lazy">
+  <figcaption>Read the stages from the shape of the data: maturity is flat at the peak, decline is falling sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--11-extension-strategies-fenwick.webp" width="900" height="1010" alt="Fenwick Gate sales rise to 42,000 in year 5 and fall to 18,000 by year 8; a dashed illustrative line shows sales held up by an extension. Four strategy cards give an advantage and disadvantage each." loading="lazy">
+  <figcaption>Extension strategies try to hold up sales when a product matures or declines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## 3.3.2 Price
 
 | Method | How it works | Advantage | Disadvantage |
@@ -97,6 +119,17 @@ Mark-up = 3.20 × 0.45 = 1.44. Price = 3.20 + 1.44 = **4.64**. Profit per bar is
 
 To recommend a method, match it to the situation. Penetration suits a product that is easy to copy and needs volume. Skimming suits a new technology with few rivals. Competitive pricing suits a market of near-identical products. Dynamic pricing suits services with changing demand, such as tickets or travel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--10-cost-plus-hollin-bay.webp" width="900" height="780" alt="A bar of 3.20 unit cost plus 1.44 mark-up (45%) makes a 4.64 price; 12,000 bars at 1.44 profit give 17,280 dollars." loading="lazy">
+  <figcaption>Hollin Bay Soaps: 3.20 + 45% = 4.64, and 12,000 bars give 17,280 profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+
 ## 3.3.3 Place
 
 A distribution channel is the route goods take from producer to customer.
@@ -111,6 +144,17 @@ A distribution channel is the route goods take from producer to customer.
 **Worked example.** Greyfriar Cycles sells a bike to a retailer for 180. The retailer adds 40%, so the shop price is 180 × 1.40 = 252 and the retailer keeps 72. If Greyfriar sold the same bike direct at 252 and paid 31 per bike for packing and delivery, it would keep 252 - 31 = 221, which is 41 more than 180. But direct selling would need a website, a warehouse and staff, so the extra 41 is only worth having if volume is high enough to cover those fixed costs.
 
 To recommend a channel, use the product and customer: perishable or custom goods point to direct; mass-market goods point to retailers; a small producer with many small shops to supply may need a wholesaler; entering a distant country may need an agent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--04-channel-margin-direct.webp" width="900" height="920" alt="Two bars each total a shop price of 252. Through a retailer Greyfriar gets 180 and the shop keeps 72. Direct, Greyfriar keeps 221 after 31 delivery, 41 more per bike, but needs a website, warehouse and staff." loading="lazy">
+  <figcaption>Selling direct keeps more per bike but only pays if volume covers the extra fixed costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## 3.3.4 Promotion
 
@@ -136,6 +180,12 @@ Methods of advertising include social media, direct or targeted emails, leaflets
 
 Choose by link to the target market. A school stationery shop wanting parents nearby should consider leaflets or targeted emails; a brand for teenagers across a country should consider social media.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--12-sales-promotion-vs-advertising.webp" width="900" height="800" alt="Sales promotion (vouchers, loyalty points, competitions, discounts) beside advertising (social media, direct emails, leaflets, billboards), with 15% off 64 giving 54.40." loading="lazy">
+  <figcaption>Sales promotion is short-term offers; advertising is messages in media.</figcaption>
+</figure>
+
+
 ## 3.3.5 Ecommerce
 
 Ecommerce is buying and selling using the internet. The syllabus examples are mobile phone or internet banking, online shopping and online ticketing.
@@ -151,11 +201,23 @@ The four elements of the marketing mix are product, price, place and promotion. 
 
 **Worked example.** Alder & Finch Stationery plans a range of recycled notebooks for university students, who are price-aware and online. A justified mix: a competitive price just under main rivals; plain recycled packaging that supports the image; sales through its own website plus campus shops (place); and social media with student discount vouchers. Each choice is tied to the target group, and together they match.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 3.3.7 Entering new markets in other countries
 
 Advantages: more sales, spreading risk (a fall at home is offset by sales abroad), a longer product life and possible lower costs from bigger production. Disadvantages: cultural differences (language, tastes, symbols), lack of knowledge of the market, legal requirements, transport and exchange costs, and competition from local firms.
 
 **Worked example.** Brisk Haven Tea sells 500,000 boxes at home. A new country adds 90,000 boxes. Sales rise by 90,000 / 500,000 × 100 = 18%, and the new country provides 90,000 / 590,000 = 15.3% of total sales. If home demand fell, those sales would soften the blow, which is the risk-spreading benefit. But the firm must check labelling and import rules, and may need local taste research first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--13-brisk-haven-new-country.webp" width="900" height="850" alt="Home sales of 500,000 boxes plus 90,000 abroad total 590,000: sales up 18% and the new country 15.3% of the total." loading="lazy">
+  <figcaption>Entering a new country adds 18% to sales and spreads risk.</figcaption>
+</figure>
+
 
 ## Common errors
 

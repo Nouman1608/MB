@@ -63,6 +63,12 @@ These notes condense topic 4, Operational strategy, from the OCR A Level Busines
 
 Division of labour: faster and cheaper per unit, but boring and less motivating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+
 ## Project management in steps
 
 1. List activities, durations and what must come before each.
@@ -76,12 +82,39 @@ Division of labour: faster and cheaper per unit, but boring and less motivating.
 
 Reminder: a critical activity delayed by one day delays the whole project by one day. Qualitative factors (team skills, communication, leadership, supplier reliability, weather, legal change) can break a plan the numbers say is sound.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--01-cpa-network-floats.webp" width="900" height="954" alt="Six activity boxes: A 3 days, B 4, C 2, D 5, E 6, F 3. Each shows earliest start, latest finish and float. A, B, D and F have zero float and form the critical path of 15 days; C and E each have 1 day of float." loading="lazy">
+  <figcaption>Activities with zero float form the critical path, which sets the project time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--02-gantt-overlap.webp" width="900" height="765" alt="A Gantt chart over 8 weeks: design weeks 1-3, build weeks 4-7, test weeks 6-8. Build and test overlap in weeks 6-7, so the project takes 8 weeks rather than 10." loading="lazy">
+  <figcaption>Overlapping bars shorten the total project time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--03-pert-expected-time.webp" width="900" height="830" alt="Six blocks on a number line: one at 3 days, four at 5 days and one at 13 days. They balance at 6 days, matching (3 + 4 x 5 + 13) / 6 = 6." loading="lazy">
+  <figcaption>PERT weights the most likely time four times, giving an expected 6 days for E.</figcaption>
+</figure>
+
+
 ## Stock control reminders
 
 - Buffer stock is the safety minimum; lead time is the delay between order and delivery.
 - Fixed reorder level: set quantity, variable timing. Fixed time reordering: set timing, variable quantity.
 - JIT: minimal stock, needs reliable suppliers. Kanban: cards signal replacement. Electronic: continuous recording and automatic orders.
 - Match to production method: flow needs steady supply; job needs stock tailored to each order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--04-stock-chart-reorder.webp" width="900" height="910" alt="Stock starts at 800 and falls 50 a day. At 400 an order of 600 is placed on day 8; after the 4-day lead time stock has fallen to the buffer of 200 and the delivery lifts it to 800. Reorder level is 200 + 50 x 4 = 400; maximum is 400 + 600 - 200 = 800." loading="lazy">
+  <figcaption>The chart shows buffer, reorder level, lead time and maximum stock in one cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--05-eoq-curve.webp" width="900" height="870" alt="Ordering cost falls and holding cost rises with order size. The total is lowest at 300 units, where each costs 600 pounds and the total is 1,200 pounds. The formula gives root(2 x 3,600 x 50 / 4) = 300." loading="lazy">
+  <figcaption>EOQ is the order size that makes ordering plus holding cost lowest.</figcaption>
+</figure>
+
 
 ## Productivity, capacity and efficiency
 
@@ -91,6 +124,17 @@ Reminder: a critical activity delayed by one day delays the whole project by one
 - Internal economies: technical, purchasing, financial, marketing, managerial. External: labour pool, supplier clusters, infrastructure. Diseconomies: communication, coordination, alienation, congestion.
 - Technology: gains in output and consistency; costs in capital, jobs and system risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-nature-of-operations--09-labour-productivity.webp" width="900" height="1010" alt="Before, 20 staff made 2,400 cabinets (120 each); after new jigs 18 staff made 2,700 (150 each), up 25%. Productivity is an average and does not show quality." loading="lazy">
+  <figcaption>Labour productivity rose from 120 to 150 cabinets per employee, +25%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--01-scale-economies-types.webp" width="900" height="1020" alt="Five economies of scale (purchasing, marketing, financial, managerial, technical) that lower average cost, and three diseconomies (poor communication, lack of commitment, weak coordination) that raise it." loading="lazy">
+  <figcaption>The five economies and three diseconomies of scale, each with a short picture.</figcaption>
+</figure>
+
+
 ## Quality, services and standards
 
 - Quality control detects defects; quality assurance prevents them.
@@ -98,6 +142,12 @@ Reminder: a critical activity delayed by one day delays the whole project by one
 - External standards: BS, EN and ISO. Specific standards are not required.
 - Service quality is monitored through surveys, mystery shoppers, complaints, repeat custom, waiting times and reviews.
 - Poor customer service: lost sales, bad reputation, demoralised staff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--06-wastage-rate.webp" width="900" height="1010" alt="A grid of 100 squares stands for 3,000 units, 30 units a square. Five red squares are the 150 scrapped units, so wastage rate is 150 / 3,000 x 100 = 5%." loading="lazy">
+  <figcaption>Wastage rate is units wasted as a percentage of units input.</figcaption>
+</figure>
+
 
 ## Location, logistics and sourcing
 

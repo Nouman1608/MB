@@ -60,6 +60,27 @@ The alveolus itself has no cartilage, cilia, goblet cells or smooth muscle: its 
 
 **Practical outcomes (briefest).** Fish gill or insect trachea dissection and drawing; stained microscope slides of exchange surfaces: draw only what you see, with clean lines and no shading.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--03-alveolar-gradients.webp" width="900" height="850" alt="Graph of partial pressure along an alveolar capillary. Alveolar oxygen is 13.3 kPa. Blood oxygen rises from 5.3 to 13.1 kPa, so the gap shrinks from 8.0 to 0.2 kPa. Blood carbon dioxide starts at 6.1 kPa against 5.3 kPa in the air, a gap of 0.8 kPa." loading="lazy">
+  <figcaption>The oxygen gradient is steep when blood arrives and almost gone by the end of the capillary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
+  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--05-fish-countercurrent.webp" width="900" height="1150" alt="Two panels compare parallel flow with counter-current flow in a five-segment model of a gill lamella. With parallel flow, water and blood both settle at 50 percent oxygen saturation. With counter-current flow, blood leaves at 83 percent because the water is always at higher saturation than the adjacent blood." loading="lazy">
+  <figcaption>Opposite flows keep a gradient along the whole lamella, so more oxygen is taken up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--06-insect-tracheae.webp" width="900" height="1050" alt="Cross-section of an insect. Air enters through spiracles, passes along tracheae and ends in fine tracheoles beside muscle cells, delivering oxygen directly. The abdomen squeezing helps move air in larger or active insects." loading="lazy">
+  <figcaption>Insects deliver air straight to the tissues through tracheae and tracheoles.</figcaption>
+</figure>
+
+
 ## 3.1.2 Transport in animals
 
 **Need.** Greater size, higher metabolic rate and low SA:V mean diffusion is too slow.
@@ -102,6 +123,12 @@ Cardiac output = heart rate × stroke volume.
 **Gas transport.** Haemoglobin binds oxygen reversibly. Carbon dioxide forms carbonic acid by carbonic anhydrase, then hydrogencarbonate and H⁺. Haemoglobin binds H⁺ (haemoglobinic acid). Hydrogencarbonate leaves and chloride enters (chloride shift).
 
 **Dissociation curves.** Fetal haemoglobin has a higher affinity and its curve lies to the left of adult. More carbon dioxide shifts the curve right, the Bohr effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--08-cotransport-glucose.webp" width="900" height="1040" alt="An ileum epithelial cell with gut lumen above and blood below. A pump in the blood-side membrane moves sodium ions out using ATP, keeping sodium low inside the cell. Sodium ions re-enter through a co-transporter carrying glucose, which builds up and leaves into blood by facilitated diffusion." loading="lazy">
+  <figcaption>Sodium ions pumped out of the cell drive glucose in through a co-transporter.</figcaption>
+</figure>
+
 
 ## 3.1.3 Transport in plants
 

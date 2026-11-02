@@ -94,6 +94,12 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
 - Hot NaOH(aq) gives **HO–CH₂–CH₂–COO⁻ Na⁺**, sodium 3-hydroxypropanoate.
 - Hot HCl(aq) gives **HO–CH₂–CH₂–COOH**, the monomer itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
+
 ## 6.2.3(c): Predicting from monomers and chains
 
 ### 6.2.3(c)(iii): Spot the type
@@ -159,6 +165,12 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
 - Classifying a polymer by side groups instead of by the backbone.
 - Showing an amide link without the H on the nitrogen.
 - Using one mole of NaOH per repeat unit when there are two links in it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -44,6 +44,12 @@ A **trend** is the general direction of a data series over several years once sh
 
 Say which you are describing. A common slip is to say "unemployment is falling" when the data shows it is still higher than before a recession. The rate is falling but the level has not recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## 2. Reading a real GDP series
 
 Real GDP removes the effect of price changes, so it is the right series for trends in output. Worked example 1 uses Country P, a developed economy, with real GDP indexed to 100 in year 1.
@@ -72,6 +78,17 @@ Real GDP removes the effect of price changes, so it is the right series for tren
 
 **Evaluation.** Positive growth does not mean the economy is back to where it was. Growth of 1.8% in year 7 is a recovery from a low base. The pre-recession trend (about 2.6% a year across years 1 to 4) would have put real GDP near 133 by year 12. Actual output is 113.4, so it is far below the path it was on. A fall in output can leave a lasting gap if capacity is lost, for example when firms close and workers lose skills.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--01-p-peak-trough-recovery.webp" width="900" height="1050" alt="Country P real GDP index rises to a peak of 108.1 in year 4 and falls to a trough of 100.4 in year 6, a fall of 7.1 percent. Growth returns in year 7 but output stays below the old peak, shown by a shaded area, until year 10 when it reaches 108.8." loading="lazy">
+  <figcaption>Growth has returned only when output rises; recovery means regaining the old peak.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--02-p-lost-output-gap.webp" width="900" height="1050" alt="The pre-recession trend of about 2.6 percent a year would have taken Country P real GDP to about 133 by year 12. Actual output is 113.4, so a shaded gap shows a lasting loss of output." loading="lazy">
+  <figcaption>A recession can leave output permanently below its old growth path.</figcaption>
+</figure>
+
+
 ## 3. Average growth over a period
 
 To describe a long period in one figure, use average annual growth. The correct method for a growth rate is the compound one, because each year's growth builds on the last.
@@ -94,6 +111,12 @@ Indicators move together in patterns that the AD/AS model explains. Worked examp
 - Years 4 to 6: output fell by about 7.1% (year 4 to year 6), unemployment rose by 3.4 percentage points from 5.2% to 8.6%, and inflation fell from 3.1% to 0.4%. A fall in aggregate demand (an inward shift of AD) explains all three at once.
 - Year 7: inflation jumps to 2.8% while unemployment is still 8.1%. This could be a cost shock, such as higher import prices after a fall in the exchange rate, so unemployment and inflation are both high together. Say "could be" unless the data names the cause.
 - Years 8 to 12: unemployment falls steadily back to 5.0% and inflation settles near 2%. Unemployment takes longer to recover than output because firms rehire cautiously and some job losses are structural.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--03-p-three-indicators.webp" width="900" height="1110" alt="Three stacked graphs for Country P. In years 4 to 6 output falls 7.1 percent, unemployment rises 3.4 percentage points to 8.6 percent and inflation falls to 0.4 percent, consistent with an inward shift of AD. Year 7 inflation of 2.8 percent could be a cost shock; unemployment is back to 5.0 percent by year 12." loading="lazy">
+  <figcaption>Output, unemployment and inflation move together after a fall in aggregate demand.</figcaption>
+</figure>
+
 
 
 ## 5. The UK over about the last 20 years
@@ -136,6 +159,12 @@ Population grew by 0.5% a year in P, 0.6% a year in Q and 2.4% a year in R.
 
 **Evaluation.** Headline growth hides a lot. Fast growth from a low base is easier than slow growth from a high base. Per-head figures show living standards better than totals. Income per head says nothing about distribution. Comparisons also depend on exchange rates, because converting at market exchange rates can overstate or understate real purchasing power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--04-p-q-r-output-vs-per-head.webp" width="900" height="1060" alt="For invented economies P, Q and R, real output rises 13.4, 141.3 and 37.6 percent, but income per head rises 7.3, 125.9 and 6.0 percent. R population growth of 2.4 percent a year absorbs most of its output gain." loading="lazy">
+  <figcaption>Income per head shows living standards better than total output.</figcaption>
+</figure>
+
+
 ## 7. Writing an evaluation of UK performance
 
 For "evaluate the current performance of the UK economy compared with..." questions, use this frame.
@@ -153,6 +182,12 @@ For "evaluate the current performance of the UK economy compared with..." questi
 - Treating a fall in the inflation rate as falling prices. Prices fell only if inflation is negative.
 - Comparing an emerging economy's growth rate with the UK's without mentioning the different starting levels.
 - Quoting remembered UK figures without a source or year when the question gives data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--08-disinflation-vs-deflation.webp" width="900" height="860" alt="A price index starting at 100 rises to 114.6 when inflation falls from 7% to 5% to 2% (disinflation) but falls to 95.57 when prices drop 1.5% a year (deflation)." loading="lazy">
+  <figcaption>Disinflation is a falling inflation rate; deflation is a falling price level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

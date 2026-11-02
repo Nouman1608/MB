@@ -41,6 +41,12 @@ Condensed recall notes for OxfordAQA International AS and A-level Economics (964
 - A policy is a government action. A policy-assisted improvement has government help. An improvement that firms made on their own is not a policy.
 - Evaluation test: would it have happened without the policy?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--02-ssp-policy-cause.webp" width="900" height="730" alt="Two bars. Output per worker rises 3.0 percent: 2.0 points from firms own investment and 1.0 from a government scheme, so the policy caused one third. A 90 million subsidy is linked to 1,500 jobs but 600 would exist anyway, leaving 900 net jobs: 100,000 cu per net job against 60,000 gross." loading="lazy">
+  <figcaption>Judge a policy by what it caused, not by everything that happened after it.</figcaption>
+</figure>
+
+
 ## Mechanism chains to memorise
 
 1. **Tax change for incentives:** lower marginal rate → higher reward for extra work → more hours or more people join the labour force → higher labour supply → LRAS right.
@@ -59,6 +65,17 @@ Condensed recall notes for OxfordAQA International AS and A-level Economics (964
 | Inflation | Lower costs and a lower price level | Need productivity above wage growth |
 | Current account | Better competitiveness, more exports, fewer imports | Depends on rivals and on exchange rates |
 | Growth | Higher potential output and trend rate | Needs time and enough demand |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--03-ssp-unemployment-flows.webp" width="900" height="860" alt="Two boxes, In work and Unemployed, with arrows for job loss s = 0.6 percent a month and job finding f. Unemployment rate = s/(s+f): 4.8 percent (about 309,500 of 6.5 million) when f is 12 percent, 3.8 percent (250,000) when f is 15 percent." loading="lazy">
+  <figcaption>Better job matching raises f and lowers the unemployment rate in this illustrative flow model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--04-ssp-unit-labour-cost.webp" width="900" height="830" alt="Two bars showing the change in unit labour cost from a start of 18.00 / 12.0 = 1.500. Pay up 4.5 percent with output per hour up 2.5 percent gives 1.529, up 1.95 percent. With output per hour up 5.5 percent the cost is 1.486, down 0.95 percent." loading="lazy">
+  <figcaption>If productivity rises faster than pay, unit labour cost falls.</figcaption>
+</figure>
+
 
 ## Quick calculations
 
@@ -88,6 +105,12 @@ Condensed recall notes for OxfordAQA International AS and A-level Economics (964
 
 **Price elasticity (quantitative skill 8).** A fare falls 10% and passengers rise 15%. Elasticity = 15 / −10 = −1.5, elastic, so revenue rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--11-ssp-growth-accounting.webp" width="900" height="1040" alt="Rectangles of workers employed by output per worker give potential output: 889.2 bn cu before, 937.3 bn after (+5.4%, from 2.3% employment and 3.0% productivity). Bars show 15 years at 2.3% (x1.406) versus 2.8% (x1.513), 7.6% higher." loading="lazy">
+  <figcaption>Potential output rises through both more workers and more output per worker.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Explain a policy (4 steps):**
@@ -112,6 +135,12 @@ Condensed recall notes for OxfordAQA International AS and A-level Economics (964
 - **Allowance versus rate.** A higher allowance mainly helps those entering work. A lower rate rewards extra effort.
 - **Structural versus demand-deficient unemployment.** Supply-side policies target the first.
 - **Gross cost versus net cost.** Deduct what would have happened anyway.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -138,6 +167,17 @@ Condensed recall notes for OxfordAQA International AS and A-level Economics (964
 8. 1.05 / 1.02 − 1 = **+2.9%**.
 9. Unemployment may be caused by weak demand, or the policy may not match skills to vacancies, or it may take years to work.
 10. Gross cost 60,000 cu a job. Net jobs = 400, so **75,000 cu per net job**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--10-ssp-adas-worked.webp" width="900" height="1020" alt="AD, SRAS and LRAS from the lesson numbers (axes start above zero). Policy shifts SRAS right: price 100 to 95, output 1,450 to 1,475. If LRAS also rises 3% to 1,545, the output gap widens from -3.3% to -4.5%." loading="lazy">
+  <figcaption>Supply-side policy lowers prices and raises output, but capacity needs demand to use it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-supply-side-policies--12-ssp-tax-incentive.webp" width="900" height="920" alt="A worker on 26,000 cu: tax 3,600 now, 3,200 with a 10,000 allowance (gain 400; marginal rate unchanged so still keep 800 of an extra 1,000), 3,060 with a 17% rate (gain 540, keep 830)." loading="lazy">
+  <figcaption>An allowance helps the lowest paid; a rate cut raises the reward for extra earnings.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

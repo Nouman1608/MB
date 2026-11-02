@@ -88,6 +88,12 @@ Every choice carries an **opportunity cost** — the next best alternative given
 
 **Specialisation, the division of labour and exchange:** specialisation means concentrating on producing a narrow range of goods or a single task, which raises output through practice and the use of specialised equipment; the **division of labour** breaks a production process into separate tasks performed by different workers. Both create **interdependence**, since a specialised producer no longer makes everything they need, which requires **exchange** -- trading output for the goods and services others specialise in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## The demand side
 
 Demand slopes downward for two reasons worth naming: the **income effect** (a lower price leaves more real purchasing power) and the **substitution effect** (the good becomes cheaper relative to alternatives).
@@ -118,6 +124,27 @@ XED = % change in quantity demanded of good A / % change in price of good B
 
 **PES** is often overlooked. Supply is inelastic in the short run where production takes time — agriculture, mining — and more elastic in the long run once capacity can be adjusted. This is why an agricultural supply shock produces a sharp price spike: neither demand nor supply can respond quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--02-tax-incidence.webp" width="900" height="920" alt="A tax of 2 per unit shifts supply up by 2 in both diagrams. With steep (inelastic) demand buyers pay about 71% of the tax; with flat (elastic) demand they pay about 33% and sellers absorb the rest. The price rise is less than the full tax." loading="lazy">
+  <figcaption>The more inelastic demand is, the more of an indirect tax passes to the consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
+
 ## Worked example
 
 A government places a $2 indirect tax on each unit of a good. Explain the effect on price and quantity.
@@ -142,6 +169,12 @@ Total cost = fixed cost + variable cost; **fixed costs** (rent, insurance) do no
 Markets range from **highly competitive** (many small firms, little control over price) to **concentrated** (a small number of large firms, or a single dominant firm, with more power to set price and restrict output). Firms in concentrated markets can generally charge higher prices and produce less than firms facing strong competition, though they may also have the scale to invest more in new products.
 
 The **labour market** works like any other market: the price is the **wage**, and the quantity is the number of workers employed. **Demand for labour** comes from firms and depends on how productive workers are and how much revenue their output generates; **supply of labour** depends on the wage on offer, the qualifications and training required, and how many people are willing and able to do the job. Wages differ between occupations because of differences in skill, training, working conditions and the degree of competition for that type of labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--07-gross-to-net-pay.webp" width="900" height="950" alt="Gross pay of 2,400 pounds loses 280 income tax, 190 national insurance and 120 pension, leaving net pay of 1,810 pounds." loading="lazy">
+  <figcaption>Net pay is gross pay minus income tax, national insurance and pension contributions.</figcaption>
+</figure>
+
 
 ## Market failure
 

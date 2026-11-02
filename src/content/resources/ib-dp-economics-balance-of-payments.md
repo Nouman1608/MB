@@ -55,6 +55,27 @@ The **balance of payments** records every payment flowing between a country's re
 | Income | Earnings on investment and pay across borders | Profit sent home by a Halvenian firm's overseas factory | Profit sent abroad by a foreign-owned Halvenian factory |
 | Current transfers | Gifts and aid that need no payment back | Remittances sent home by Halvenians working abroad | Government aid given to another country |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--06-currency-market-deficit.webp" width="900" height="880" alt="Demand and supply of hals meet at Re. Held at R1 above Re, quantity supplied exceeds quantity demanded, so a floating rate falls to Re, making exports cheaper abroad and imports dearer." loading="lazy">
+  <figcaption>Holding the rate above equilibrium creates excess supply of hals; a floating rate falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--02-bop-correction-methods.webp" width="900" height="1000" alt="Bars of exports 400 and imports 440 (deficit 40). Expenditure switching and expenditure reducing each cut imports by an illustrative 20, supply-side policies raise exports by 20; each leaves a deficit of 20. Side effects: retaliation, lost output and jobs, slow and expensive." loading="lazy">
+  <figcaption>Three correction methods act on different sides of the deficit and have different side effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--03-bop-surplus-loop.webp" width="900" height="1040" alt="A four-step loop: strong foreign demand for the currency, appreciation, dearer exports and cheaper imports, a shrinking surplus. Below, gains (export jobs, export growth, foreign assets) are set against costs (weak home spending, rising currency, jobs lost to appreciation)." loading="lazy">
+  <figcaption>A surplus can erode itself through currency appreciation, so weigh its gains and costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ### The capital account
 
 **Capital transfers** are one-way transfers linked to assets, such as a creditor writing off a debt. **Transactions in non-produced, non-financial assets** are purchases and sales of things that were not made and are not financial, such as land bought abroad by an embassy or the transfer of a brand name.
@@ -67,6 +88,17 @@ This guide records a net inflow of financial capital as a credit, so a financial
 - **Portfolio investment:** buying shares or bonds without seeking control.
 - **Reserve assets:** the central bank's stock of foreign currency and gold. A fall in reserves is a credit, because the central bank is supplying foreign currency to the market.
 - **Official borrowing:** borrowing by the government or central bank from abroad. A net inflow of borrowing is a credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--05-bop-sums-to-zero.webp" width="900" height="930" alt="Bars for Halvenia in billions of hals: current account minus 44, capital account plus 1, financial account plus 43 built from FDI 18, portfolio 14, borrowing 5 and reserves 6. They sum to zero. The deficit is 4.0% of GDP." loading="lazy">
+  <figcaption>Every debit has a matching credit, so the accounts together sum to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ### Worked example 1: calculating from data
 
@@ -84,6 +116,17 @@ Halvenia's figures, in billions of hals:
 | **Capital account** | | | **+1** |
 
 Current account = -45 + 35 - 22 - 12 = **-44**, a deficit of 44. Capital account = +3 - 2 = **+1**, a small surplus. GDP is 1,100, so the current account deficit is 44 / 1,100 = **4.0%** of GDP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--01-bop-account-items.webp" width="900" height="1122" alt="Bars for Halvenia in billions of hals. Capital account items: capital transfers +3 and non-produced non-financial assets -2, total +1. Financial account items: FDI +18, portfolio +14, reserve assets +6, official borrowing +5, total +43. With the current account at -44 the three sum to zero." loading="lazy">
+  <figcaption>The capital and financial account items, with the lesson's Halvenia values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## Interdependence between the accounts
 
@@ -201,6 +244,17 @@ Start - - - -\- - - - - - /- - - - - -
 ```
 
 Mark the starting balance, the trough and the point where the curve crosses back above the start.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--07-marshall-lerner.webp" width="900" height="910" alt="Bars of the balance before and after a 10% depreciation. With elasticities summing to 1.6 the deficit narrows from 40 to 14.12; with a sum of 0.7 it widens to 53.48." loading="lazy">
+  <figcaption>A depreciation helps only if the export and import elasticities add to more than 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--08-j-curve.webp" width="900" height="870" alt="Graph of the current account balance after a depreciation. It drops below the starting balance of minus 40 to a trough, then recovers and crosses back above the start as elasticities rise." loading="lazy">
+  <figcaption>The balance first worsens, then improves, tracing a J shape.</figcaption>
+</figure>
+
 
 ## Implications of a persistent current account surplus (HL only)
 

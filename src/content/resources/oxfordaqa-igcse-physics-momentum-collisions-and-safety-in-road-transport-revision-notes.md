@@ -44,6 +44,37 @@ Related pages: the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/
 - Choose one direction as positive; opposite direction is negative.
 - Doubling the mass or doubling the velocity doubles the momentum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--01-bounce-collision.webp" width="900" height="1130" alt="Trolley A (0.60 kg, right at 1.8 m/s) and trolley B (0.80 kg, left at 0.40 m/s) have momenta +1.08 and -0.32, total +0.76 kg m/s. After the bounce A moves left at 0.20 m/s (-0.12) and B moves right at 1.1 m/s (+0.88). The total is unchanged and B has reversed direction." loading="lazy">
+  <figcaption>Two trolleys bounce apart and the momentum bars before and after both total +0.76 kg m/s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--01-longer-time-smaller-force.webp" width="900" height="900" alt="Three pairs of bars: catch 280 N vs 60 N, dummy 35 000 N vs 8750 N, child 5000 N vs 500 N. Each pair has the same momentum change; only the stopping time differs, and bar lengths are to scale within each pair." loading="lazy">
+  <figcaption>The same momentum change over a longer time means a smaller force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--01-momentum-vector.webp" width="900" height="720" alt="A 1200 kg car at 15 m/s to the right has momentum 18000 kg m/s to the right, drawn as a long arrow. The same car going left has velocity and momentum with a minus sign." loading="lazy">
+  <figcaption>Momentum p = mv is a vector: it points the way the object moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--03-explosion.webp" width="900" height="820" alt="A 5 kg object at rest splits into 2 kg at 6 m/s and 3 kg at minus 4 m/s. The +12 and -12 momentum bars cancel to a total of zero." loading="lazy">
+  <figcaption>After an explosion the pieces move in opposite directions so total momentum is still zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--05-impulse-force-time.webp" width="900" height="940" alt="Two force-time graphs with the same momentum change of 900 kg m/s for a 60 kg person stopping from 15 m/s. A 0.05 s stop needs 18000 N; a 0.2 s airbag stop needs 4500 N. Both areas are 900 N s." loading="lazy">
+  <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
+</figure>
+
+
 ## 3.1.4 b: conservation of momentum
 
 Definition: in a closed system, adding up the momentum of every object gives the same total before and after they interact.
@@ -68,6 +99,12 @@ Key facts for explosions:
 - Total momentum before is zero (starting at rest), so total after is zero.
 - The momenta are equal in size and opposite in direction.
 - The lighter object gets the higher speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--04-head-on-signs.webp" width="900" height="790" alt="A 2 kg trolley at +3 m/s meets a 1 kg trolley at -3 m/s. Momenta +6 and -3 give +3 in total. Stuck together, 3v = +3 so v = +1 m/s to the right." loading="lazy">
+  <figcaption>Pick a positive direction and treat motion the other way as negative.</figcaption>
+</figure>
+
 
 ## 3.1.4 c: F = Δp / t
 
@@ -94,11 +131,23 @@ If the same passenger stopped in 0.020 s against a hard surface, F = 600 / 0.020
 
 Model sentence for any of these: "The feature increases the time taken to change the momentum to zero, so the rate of change of momentum is smaller, so the force on the person is smaller."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--02-safety-features-where-they-sit.webp" width="900" height="900" alt="A car in side view shows the air bag, seat belt, front and rear crumple zones and the side impact bar. Three small pictures show a crash mat, a soft playground surface and a cycle helmet with crushing foam." loading="lazy">
+  <figcaption>Each safety feature gives a longer stopping time, so the force is smaller.</figcaption>
+</figure>
+
+
 ## 3.1.5 a: steady speed
 
 - Steady speed in a straight line means the resultant force is zero.
 - Driving force = resistive forces, opposite in direction.
 - If driving force becomes greater than the resistive forces, the vehicle accelerates. If it becomes smaller, the vehicle decelerates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--03-steady-speed-balanced-forces.webp" width="900" height="640" alt="A car at steady speed has a 1800 N driving force forward and 1800 N of resistive forces backward, drawn with equal arrow lengths. The resultant force is zero." loading="lazy">
+  <figcaption>At a steady speed the driving force equals the resistive forces.</figcaption>
+</figure>
+
 
 ## 3.1.5 b: speed, braking force and deceleration
 
@@ -124,6 +173,12 @@ Reaction time is made longer by:
 
 A longer reaction time changes thinking distance only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--05-stopping-distance.webp" width="900" height="910" alt="Bars to scale: at 20 m/s thinking 14 m plus braking 33 m gives 47 m; at 30 m/s thinking 21 m plus braking 75 m gives 96 m. Tiredness, alcohol and drugs lengthen thinking; tyres, road and load lengthen braking; speed lengthens both." loading="lazy">
+  <figcaption>Stopping distance = thinking distance + braking distance.</figcaption>
+</figure>
+
+
 ## 3.1.5 d: brakes and energy
 
 - Friction between the brake and the wheel does work.
@@ -140,6 +195,12 @@ Deceleration = 4000 / 900 = 4.4 m/s² (2 significant figures).
 
 **Speed doubling.** Kinetic energy is proportional to speed squared. At twice the speed, the same car at 24 m/s has four times the kinetic energy (259 200 J), so for the same braking force the braking distance is four times as long (64.8 m). Thinking distance only doubles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--04-brakes-turn-kinetic-into-heat.webp" width="900" height="970" alt="A brake disc with a pressing pad and rising heat. A force-distance graph shows the 4500 N braking force over 34.2 m; the rectangle area, 153 900 J, equals the kinetic energy removed." loading="lazy">
+  <figcaption>Brakes do work equal to the kinetic energy, which becomes thermal energy.</figcaption>
+</figure>
+
+
 ## 3.1.5 e: adverse conditions and vehicle condition
 
 | Condition | Effect on braking |
@@ -150,6 +211,12 @@ Deceleration = 4000 / 900 = 4.4 m/s² (2 significant figures).
 | Worn brakes | Less friction force from brake pads; longer braking distance |
 
 Poor condition of the car is limited to its brakes or tyres in this specification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--02-stopping-conditions.webp" width="900" height="1090" alt="Four scaled bars for a 950 kg car at 18 m/s: dry and alert 10.8 + 34.2 = 45.0 m; tired 19.8 + 34.2 = 54.0 m; wet road with 2700 N 10.8 + 57.0 = 67.8 m; at 36 m/s 21.6 + 136.8 = 158.4 m. Braking force times braking distance equals the 153 900 J of kinetic energy." loading="lazy">
+  <figcaption>Reaction time changes thinking distance, braking force changes braking distance, and doubling speed quadruples braking distance.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

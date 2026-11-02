@@ -42,6 +42,12 @@ Short-form recall for 3.1.5.1, 3.1.5.2 and 3.1.5.3 of OxfordAQA's International 
 
 The specification lists: public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections, and inequality of income and wealth. Be ready with one example of each. Only the first three causes are in these notes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+
 ## Public goods in a few lines
 
 - Non-rival: my use leaves your share intact.
@@ -60,6 +66,17 @@ Private good  ->  Quasi-public  ->  Pure public good
  excludable)       partly excl.)     non-excludable)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--04-un228-quasi-public-grid.webp" width="900" height="850" alt="A grid of non-rival/rival against non-excludable/excludable. A quiet road moves down to rival at rush hour and right to private with tolls; open TV moves right to excludable when encrypted." loading="lazy">
+  <figcaption>Traffic and technology move a good across the rival/excludable grid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+
 ## Tragedy of the commons
 
 1. A resource is open to all (non-excludable) but each use reduces what remains (rival).
@@ -67,6 +84,12 @@ Private good  ->  Quasi-public  ->  Pure public good
 3. Everyone expands use, and the resource is overused or exhausted.
 
 Criticisms: users can agree rules; shared ownership is not the same as open access; people are not always selfish; solutions may be costly to enforce; severity depends on how fast the resource renews.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--03-shared-pasture.webp" width="900" height="930" alt="Output per sheep, 20 minus N, falls to the cost of 8 at 12 sheep, where herders stop adding and net gain is zero. The extra output from one more sheep, 20 minus 2N, equals 8 at 6 sheep, where net gain is highest at 36. Bars show net gain of 36, 20 and 0 at 6, 10 and 12 sheep." loading="lazy">
+  <figcaption>Each herder adds sheep until output per sheep falls to the cost of 8 (12 sheep); the best number for the community is 6.</figcaption>
+</figure>
+
 
 ## Externalities: method in steps
 
@@ -85,6 +108,27 @@ The specification says you are not required to use MSC and MSB diagrams.
 | Positive production | Social supply below | Too low |
 | Negative consumption | Social demand below | Too high |
 | Positive consumption | Social demand above | Too low |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--01-brick-kiln-externality.webp" width="900" height="928" alt="Price against quantity. Private supply meets demand at 60 units and 10. Social supply lies 5 higher and meets demand at 48 units and 12. The market overproduces by 12 units and the triangle between the supply curves is a welfare loss of 30." loading="lazy">
+  <figcaption>The kiln ignores the external cost of 5, so the market makes 60 bricks when 48 is best for society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--02-cycle-course-externality.webp" width="900" height="928" alt="Price against quantity. Private demand and supply meet at 40 courses and 15. Social demand lies 6 higher and meets supply at 48 and 19. The market underprovides by 8 courses and the triangle between the demand curves is a welfare gain of 24." loading="lazy">
+  <figcaption>Others gain 6 from each course, so social demand sits above private demand and the market provides 40 courses instead of 48.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--06-un228-other-externalities.webp" width="900" height="1290" alt="Top: negative consumption externality; social demand lies 5 below private demand, market 60 versus optimum 48, loss 30. Bottom: positive production externality; social supply lies 5 below private supply, market 60 versus 72, gain 30." loading="lazy">
+  <figcaption>The same method gives the other two externality cases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Worked reminder 1: negative consumption externality
 
@@ -115,6 +159,22 @@ A town of 15 households each values a footbridge lamp at 3. It costs 36 (illustr
 - Net benefit = 45 − 36 = 9, so providing it improves welfare.
 - An equal share is 36 ÷ 15 = 2.4 each, leaving 0.6 net per household.
 - Nobody will fund all 36 for a benefit of 3, and each hopes the others will pay. The good is not provided, a misallocation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--05-un228-street-light-8x6.webp" width="900" height="860" alt="Eight households each value a street light at 6, total 48, against a cost of 30, a gain of 18. One household would lose 24 by paying alone; equal shares of 3.75 each leave 2.25 net, yet each hopes others pay." loading="lazy">
+  <figcaption>A worthwhile 48 versus 30 street light goes unprovided because each household hopes others pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
 
 ## Describing a diagram in words
 

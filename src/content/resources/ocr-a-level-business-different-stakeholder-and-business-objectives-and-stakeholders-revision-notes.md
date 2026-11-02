@@ -41,6 +41,22 @@ The five terms below are the ones OCR asks you to distinguish. The definitions a
 
 **Hierarchy of objectives** means the cascade from aim to operational target, each level supporting the one above. Its value is that effort in different departments points the same way. The risk is that top-level targets are passed down without explanation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders--04-obj-hollowbeck-ladder.webp" width="900" height="862" alt="Five stacked levels with upward arrows show Hollowbeck's aim, corporate objective (3.2m to 4.0m pounds, up 25%), strategic objective, tactical objective and operational objective (36 kg of 2,400 kg rejects)." loading="lazy">
+  <figcaption>Hollowbeck's five levels of objectives, each supporting the one above.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## SMART objectives
 
 | Letter | Standard meaning | Test |
@@ -126,6 +142,12 @@ Recession or demand shift; new competitor or technology; growth or ownership cha
 - **Impact:** delay and cost; possibly a better-tested decision; damaged trust if one group is always overruled.
 - **Ways to deal with it:** prioritise by power and interest, compromise, consult early, compensate or phase, or change the decision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+
 ### Influence and impact
 
 | Aspect influenced | Example |
@@ -136,6 +158,22 @@ Recession or demand shift; new competitor or technology; growth or ownership cha
 | Performance | Staff effort and turnover |
 
 **Impact of a decision:** list each group, state gain or loss, then judge who benefits most and what the business could do to soften the loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders--06-sh-move-who-pays.webp" width="900" height="1060" alt="A graph of cumulative savings of 84,000 pounds a year against the 150,000 pound cost of moving, crossing at 1.79 years (about 21 months). Below, 60 staff icons show 22 (37%) who cannot move." loading="lazy">
+  <figcaption>The saving goes to a few after the payback period while the cost falls on staff who lose their jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders--05-sh-stakeholder-clash.webp" width="900" height="774" alt="Three pairs of stakeholders want opposing things from one pool of money: pay against profit, price against margin and delivery speed against local traffic. Unmanaged conflict can bring strikes, lost customers or refusal of planning consent." loading="lazy">
+  <figcaption>Stakeholder wants collide because the resources are shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

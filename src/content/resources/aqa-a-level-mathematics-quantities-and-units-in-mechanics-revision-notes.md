@@ -107,6 +107,12 @@ moment = F × d, where d is the **perpendicular** distance (in metres) from the 
 
 Reminder: 25 N at right angles, 12 cm from a hinge: d = 0.12 m, moment = 3 N m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+
 ## Three short worked reminders
 
 **A. Force given in kN.** A resultant force of 2.4 kN acts on a car of mass 800 kg.
@@ -203,6 +209,12 @@ Reminder: if a resistance is R = cv, then c = R/v has units N ÷ m s⁻¹ = kg m
 - Rounding a converted speed early (for example 50 km h⁻¹ to 13.9 m s⁻¹) and carrying the rounded value on.
 - Using the slant distance instead of the perpendicular distance in a moment.
 - Missing units on the final answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
+</figure>
+
 
 ## Next steps
 

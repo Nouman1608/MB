@@ -49,12 +49,24 @@ The syllabus says you will not be assessed on constructing a cash flow forecast.
 
 Small reminder: opening balance 800, inflow 3,000, outflow 3,500. Net cash flow is -500, so closing balance is 300.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--07-cf-sunvale-missing.webp" width="900" height="860" alt="The Sunvale table with gaps A to H filled: A -800, B 1,200, C 1,200, D 7,900, E 1,200, F 1,200, G 1,300, H 2,500. Net = inflow - outflow and closing = opening + net; each closing balance becomes the next opening." loading="lazy">
+  <figcaption>Two relationships and the carry-forward rule fill every gap in the forecast.</figcaption>
+</figure>
+
+
 ## Why cash matters
 
 - Wages, suppliers, rent, bills and loan repayments must be paid in cash when due.
 - A business can be profitable and still run short of cash, for example when customers on credit pay late.
 - Running out of cash can force a business to stop trading.
 - Cash is the focus of the forecast. Profit is a different measure, covered in section 5.3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ## Why a business prepares a forecast
 
@@ -92,6 +104,12 @@ If a figure is missing in the middle, work backwards with the formula table abov
 - Comment on reliability: it is made of estimates.
 - Always use figures in the answer and state a consequence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--01-cf-moorgate.webp" width="900" height="1130" alt="Bar charts in dollars for March to June. Net cash flow is +500, -10,800, +1,600 and +2,000; the April dip is the 12,000 press. Closing balances are 3,500, -7,300, -5,700 and -3,700. Without the press they would be 3,500, 4,700, 6,300 and 8,300." loading="lazy">
+  <figcaption>One large payment, not day-to-day trading, causes Moorgate's shortage.</figcaption>
+</figure>
+
+
 ## Short-term cash flow problems: the four methods
 
 | Method | Benefit | Drawback |
@@ -103,6 +121,17 @@ If a figure is missing in the middle, work backwards with the formula table abov
 
 These deal with short-term problems. They move or cover a shortage; most do not increase total income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--08-cf-four-remedies.webp" width="900" height="950" alt="Four cards: overdraft (bills paid at once; interest, can be withdrawn), delaying supplier payments (cash stays longer; lost trust or discount), customers paying sooner (cash earlier; customers annoyed), delaying a non-current asset (payment moves; output held back)." loading="lazy">
+  <figcaption>Four methods cover a short cash gap, each with a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Cash and profit: cash is money moving in and out; profit is a separate measure of performance.
@@ -110,6 +139,12 @@ These deal with short-term problems. They move or cover a shortage; most do not 
 - Late payment and bad debt: late payment changes timing, a debt never paid reduces the total received.
 - Delaying a payment and saving money: delaying only moves the date of payment.
 - Cash inflow and sales: a credit sale becomes inflow when the customer pays.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--03-cf-eldridge-late.webp" width="900" height="848" alt="Paired bars of closing balances June to September. Original: 4,000, 7,500, 11,500, 9,000. Amended for a 4,000 payment arriving in August not July: 4,000, 3,500, 11,500, 9,000." loading="lazy">
+  <figcaption>A late payment changes timing, not the total.</figcaption>
+</figure>
+
 
 ## Evaluate and justify answers
 
@@ -124,6 +159,12 @@ When asked to recommend or justify a remedy:
 ## Worked reminder: effect of a remedy
 
 Use Trevane's figures from the self-test below. Suppose 900 of the April payments to a supplier is delayed until May. April outflow falls to 3,000, so April net cash flow is +200 and the closing balance is 1,100 (up from 200). May outflow rises to 5,200, so May net cash flow is -100 and the closing balance is 1,000, the same as before. The remedy lifted the April balance and left the final balance unchanged. This is the pattern for any delay: cash is held longer, not created.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--02-cf-delay-press.webp" width="900" height="780" alt="Paired bars of closing balances. Press in April: 3,500, -7,300, -5,700, -3,700. Press in June: 3,500, 4,700, 6,300, -3,700. The shortage moves to June." loading="lazy">
+  <figcaption>Delaying a payment moves the shortage; it does not remove it.</figcaption>
+</figure>
+
 
 ## Command words in this topic
 

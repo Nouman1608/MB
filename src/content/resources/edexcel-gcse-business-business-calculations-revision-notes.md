@@ -36,6 +36,17 @@ Course links: [Edexcel GCSE Business hub](/boards/edexcel/gcse/business/), the [
 | Net profit margin | Calculation and interpretation |
 | Average rate of return | Calculation and interpretation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--01-wickham-sales-to-net-profit.webp" width="900" height="910" alt="A waterfall shows Wickham Row Cycles sales revenue of £184,000, less cost of sales £110,400 to leave gross profit £73,600, less expenses and interest £56,100 to leave net profit £17,500." loading="lazy">
+  <figcaption>Gross profit is what is left after cost of sales; net profit is what is left after expenses and interest too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--01-margin-levers-wickham-row.webp" width="900" height="836" alt="Grouped bars for Wickham Row Cycles, sales 184,000 pounds. Now: gross margin 40.0% and net margin 9.5%. Raising price (sales up 5,000 pounds): 41.6% and 11.9%. Cutting cost of sales by 5,000 pounds: 42.7% and 12.2%. Cutting other expenses by 5,000 pounds: gross stays 40.0%, net 12.2%." loading="lazy">
+  <figcaption>Each change adds 5,000 pounds of net profit, but only the first two lift gross margin.</figcaption>
+</figure>
+
+
 ## Formulae (Appendix 3 forms)
 
 | Item | Formula |
@@ -121,6 +132,12 @@ Compare a margin with last year, with a competitor or with the owner's target. A
 - Cut cost of sales, for example by changing supplier (risk: lower quality or reliability).
 - Reduce other operating expenses or interest (this affects only the net margin).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--03-wickham-margins-year-compare.webp" width="900" height="970" alt="Bars compare Wickham Row Cycles in two years. Gross margin falls from 40.0% to 37.0% and net margin from 9.5% to 8.7%, although sales rise 11.4% and net profit 2.0%. Cost of sales rose 17.0%." loading="lazy">
+  <figcaption>Net profit rose in pounds but both margins fell; 40.0% to 37.0% is a fall of 3 percentage points.</figcaption>
+</figure>
+
+
 ## Interpreting average rate of return
 
 - Higher is better when you compare two options of any size, because it measures profit per £1 spent.
@@ -133,6 +150,17 @@ Limitations to quote in evaluate answers (standard points, not specification wor
 2. An average does not show when the profits arrive, or how uneven they are.
 3. A high rate on a small or short investment can give less total profit than a lower rate on a larger one.
 4. It ignores non-financial factors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--04-juniper-average-annual-profit.webp" width="900" height="880" alt="Five bars show forecast kiln profits of £3,000, £5,400, £6,600, £7,200 and £7,800. A dashed line marks the £6,000 average, which is 25% of the £24,000 cost." loading="lazy">
+  <figcaption>Average annual profit is total profit divided by years; the rate is that average divided by cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--05-juniper-arr-a-vs-b.webp" width="900" height="940" alt="Two bars each stand for a kiln cost. A earns £6,000 a year on £24,000 (25%); B earns £4,950 a year on £18,000 (27.5%). B has the higher rate; A has the larger yearly and total profit." loading="lazy">
+  <figcaption>B has the higher rate of return, A the larger profit: choose one and justify it.</figcaption>
+</figure>
+
 
 ## Using the command words
 
@@ -201,6 +229,12 @@ These are the writer's suggestions, not specification wording.
 - Stating that a rate or margin is "good" with no comparison.
 - Answering an analyse or evaluate question with calculations only, and not saying what they mean for the business.
 - Leaving out workings on a Calculate question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--02-wickham-pence-per-pound.webp" width="900" height="890" alt="One bar stands for £1 of sales: 60p cost of sales, 28.8p other operating expenses, 1.7p interest and 9.5p net profit. Gross profit is the last 40p and net profit the last 9.5p, a gap of 30.5 percentage points." loading="lazy">
+  <figcaption>Each margin is a share of £1 of sales revenue: 40.0% gross, 9.5% net.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

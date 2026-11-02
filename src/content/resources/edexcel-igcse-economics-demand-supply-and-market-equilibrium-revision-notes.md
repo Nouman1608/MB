@@ -44,6 +44,12 @@ These condensed notes follow section 1.1.3, Demand, supply and market equilibriu
 - Shift right = increase. Shift left = decrease.
 - Say "quantity demanded" or "quantity supplied" for price-led changes, and "demand" or "supply" for shifts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--04-un185-egg-schedule-slide.webp" width="900" height="960" alt="Demand and supply curves from the lesson egg schedule cross at price 12 and 280 trays. A price rise from 10 to 12 slides up D (demanded 400 to 280, -30%) and up S (supplied 200 to 280, +40%). No curve shifts." loading="lazy">
+  <figcaption>Plotted lesson schedule showing price 10 to 12 as movements along D and S.</figcaption>
+</figure>
+
+
 ## Demand shift factors (1.1.3 c)
 
 | Factor | Demand rises (shift right) when | Demand falls (shift left) when |
@@ -57,6 +63,17 @@ These condensed notes follow section 1.1.3, Demand, supply and market equilibriu
 
 An inferior good behaves the other way round for income: as incomes rise, demand for it falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## Supply shift factors (1.1.3 f)
 
 | Factor | Supply rises (shift right) when | Supply falls (shift left) when |
@@ -66,6 +83,27 @@ An inferior good behaves the other way round for income: as incomes rise, demand
 | Indirect taxes | A tax is removed or cut | A tax is introduced or raised (curve moves up) |
 | Subsidies | A subsidy is introduced or raised (curve moves down) | A subsidy is removed |
 | Natural factors | Good weather, a good harvest | Drought, flood, storm, disease |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--03-egg-supply-shift.webp" width="900" height="900" alt="Supply shifts left by 100 trays at every price after feed costs rise. Equilibrium moves from 12 and 280 to 13 and 220." loading="lazy">
+  <figcaption>Higher costs shift supply left: price +8.3%, quantity -21.4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--04-egg-tax-subsidy.webp" width="900" height="900" alt="A tax of 2 per tray moves supply up and gives 12.8 and 232. A subsidy of 2 moves supply down and gives 11.2 and 328." loading="lazy">
+  <figcaption>A tax shifts supply up; a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
 
 ## Method: finding equilibrium from a table
 
@@ -88,6 +126,17 @@ An inferior good behaves the other way round for income: as incomes rise, demand
 - At price 1: excess demand = 90 − 10 = 80.
 - At price 5: excess supply = 90 − 10 = 80.
 - Moving price from 2 to 3 changes quantity demanded from 70 to 50, a fall of (50 − 70) ÷ 70 × 100 = −28.6%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--01-egg-excess-demand-supply.webp" width="900" height="900" alt="At price 8, quantity demanded is 520 and supplied 120: excess demand of 400. At price 16, supply is 440 and demand 40: excess supply of 400. The curves cross at E: price 12, 280 trays." loading="lazy">
+  <figcaption>Excess demand and excess supply in the egg market, both gaps closing at equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Method: showing a shift on a diagram (1.1.3 h)
 
@@ -116,6 +165,12 @@ For two shifts at once, only one result is guaranteed. The other turns on which 
 4. Pick a price above E and repeat. Now the demand curve is the left-hand point and the supply curve the right-hand point. The gap is **excess supply**.
 5. Label the gap and, if you have figures, write its size.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-un185-draw-diagram-marks.webp" width="900" height="930" alt="A demand and supply graph with three numbered features: labelled Price and Quantity axes; curves labelled D, S and shifted D1; and both equilibria (E at 12, 280 and E1 at 13.2, 328) marked with values on the axes." loading="lazy">
+  <figcaption>A model diagram annotated with the three things a Draw answer should include.</figcaption>
+</figure>
+
+
 ## A chain of analysis in four links
 
 Strong answers move from event to outcome in steps. Template: event, curve, direction, result.
@@ -126,6 +181,12 @@ Strong answers move from event to outcome in steps. Template: event, curve, dire
 - Result: excess demand at the old price, so price rises, and the equilibrium price and quantity both rise.
 
 Add a short comment on size or time where you can. A small shift gives a small change, and a seasonal factor such as a harvest may last only a few months.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--02-egg-demand-shift.webp" width="900" height="900" alt="Demand shifts right by 120 trays at every price after incomes rise. Equilibrium moves from 12 and 280 to 13.2 and 328." loading="lazy">
+  <figcaption>A rise in income shifts demand right: price +10%, quantity +17.1%.</figcaption>
+</figure>
+
 
 ## How market forces remove an imbalance (1.1.3 j)
 
@@ -174,6 +235,12 @@ The price signals what is scarce or plentiful and gives producers and consumers 
 8. Supply shifts right, so the equilibrium price falls.
 9. Supply increases (curve shifts right or down), so the equilibrium price falls and quantity rises.
 10. There is excess supply of 80, so sellers cut price, and quantity demanded rises as price falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-egg-two-shifts.webp" width="900" height="900" alt="Demand rises by 120 and supply falls by 100. Price certainly rises to 14.2; quantity could rise or fall and here is 268." loading="lazy">
+  <figcaption>With two shifts, one of price or quantity is uncertain.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

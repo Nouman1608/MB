@@ -58,6 +58,12 @@ Now suppose inflation in Country B is 6% in year 1, 4% in year 2 and 2% in year 
 
 The index rises every year, so this is disinflation. If an index fell from 100 to 98, the change is −2.0%, and that is deflation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--01-price-index-three-terms.webp" width="900" height="920" alt="A line chart of a price index starting at 100. Country B inflation of 6%, 4% and 2% gives an index of 100, 106, 110.24 and 112.44, so prices keep rising more slowly: disinflation. A second line falls from 100 to 98 (minus 2%): deflation." loading="lazy">
+  <figcaption>Falling inflation is disinflation; only a falling index is deflation.</figcaption>
+</figure>
+
+
 ## Demand-pull and cost-push
 
 **Demand-pull inflation** comes from a rise in aggregate demand (AD) when the economy has little spare capacity. Causes include a consumer boom, a fall in interest rates, higher government spending or strong export demand. The chain is: AD shifts right, firms find demand exceeds what they can supply at current prices, they raise prices and bid for scarce labour and inputs, and the price level rises. Real output also rises, but by less and less as capacity is used up.
@@ -73,6 +79,22 @@ The index rises every year, so this is disinflation. If an index fell from 100 t
 Diagram in words: draw the price level on the vertical axis and real GDP on the horizontal. For demand-pull, the AD curve moves right, from AD1 to AD2, and slides up the SRAS curve, so equilibrium moves up and to the right. For cost-push, SRAS moves from SRAS1 to SRAS2 and equilibrium moves up and to the left. In practice the two combine: a wage-price spiral starts with a demand boom, then workers push up wages, which raises costs.
 
 Evaluation points: it is hard to separate the two in real data; the effect of an AD rise depends on spare capacity; and cost-push inflation only continues if the money supply and spending accommodate it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## The equation of exchange and the Quantity Theory
 
@@ -99,6 +121,12 @@ Worked example 2 (growth rates). In a year the money supply grows by 8%, V is un
 
 Evaluation: velocity can change, particularly in a recession when people hoard money or when new payment methods appear. Real output may respond to money in the short run, so Q is not fixed. Defining and measuring "money" is difficult. Causation may run from prices to money, because banks create credit in response to demand. Monetarists answer that these breakdowns are temporary and that control of money growth is the lasting cure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--02-equation-of-exchange.webp" width="900" height="990" alt="Two rows of equal-area rectangles. M = 400 and V = 5 give MV = 2,000 which equals P = 2.0 times Q = 1,000. Raising M 10% to 440 with V and Q fixed gives MV = 2,200 so P = 2.2, a 10% rise." loading="lazy">
+  <figcaption>With V and Q unchanged a 10% rise in M raises the price level 10%.</figcaption>
+</figure>
+
+
 ## Expectations
 
 Expectations of inflation can make inflation self-fulfilling. If workers expect prices to rise 4%, they ask for at least 4% more pay. Firms expecting higher wage bills and higher rivals' prices raise their own prices. Consumers who expect dearer goods may buy earlier, adding to AD. Lenders add expected inflation to the interest rate they charge.
@@ -109,6 +137,17 @@ Worked example. A saver is offered a nominal rate of 5% when expected inflation 
 - Exactly: 1.05 / 1.03 − 1 = **1.94%**.
 
 Where expectations are formed from recent experience (adaptive), a period of high inflation raises expected inflation for the next period, which makes disinflation costly. A central bank with a credible inflation target can hold expectations down, so wage and price setters plan on its target. Evaluation: the effect depends on how credible policy is, and on workers' bargaining power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--04-real-interest-rate.webp" width="900" height="850" alt="A nominal rate of 5% with expected inflation of 3% leaves a real rate of about 2%. Exactly, 1.05 / 1.03 = 1.0194, a real return of 1.94%." loading="lazy">
+  <figcaption>A 5% nominal rate with 3% expected inflation gives a real rate of 1.94%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--05-expectations-loop.webp" width="900" height="870" alt="A four step loop: workers expect 4% inflation, claim at least 4% more pay, firms pass it on in prices, and actual inflation keeps expectations high. A credible target breaks the loop." loading="lazy">
+  <figcaption>Adaptive expectations let high inflation sustain itself; a credible target holds it down.</figcaption>
+</figure>
+
 
 ## Consequences of inflation
 
@@ -130,6 +169,12 @@ Where expectations are formed from recent experience (adaptive), a period of hig
 
 Evaluation: the damage depends on the rate (low, stable and anticipated inflation is much less harmful than high, volatile and unanticipated), the cause (demand-pull may come with rising output and jobs) and whether incomes and savings rates adjust. Mild inflation can also grease the labour market because real wages can fall without nominal pay cuts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--06-saver-purchasing-power.webp" width="900" height="870" alt="Bars show what 10,000 held for five years buys in today's pounds at 4% inflation, falling to 8,219, a loss of 17.8%." loading="lazy">
+  <figcaption>Savers lose purchasing power: 10,000 buys what 8,219 does today after five years of 4% inflation.</figcaption>
+</figure>
+
+
 ## Consequences of deflation
 
 **For individuals**
@@ -148,6 +193,17 @@ Evaluation: the damage depends on the rate (low, stable and anticipated inflatio
 
 Evaluation: **benign deflation** arises from supply-side improvements, such as productivity growth shifting long-run aggregate supply (LRAS) right, so prices fall while output grows. **Malign deflation** arises from a collapse in AD. The first is not harmful, and the second is. Another test is the size and duration of the price fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--07-deflation-debt-burden.webp" width="900" height="780" alt="A fixed debt of 90,000 is 2.25 times an income of 40,000. After three years of 2% falls income is 37,648 and the ratio is 2.39." loading="lazy">
+  <figcaption>With a fixed money debt, falling incomes raise the debt-to-income ratio from 2.25 to 2.39.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## World commodity prices
 
 Commodities such as oil, metals and food are traded in world markets and often priced in a major foreign currency. A rise in their price feeds into domestic inflation in two ways: directly through the prices of fuel and food, and indirectly through higher costs for firms (cost-push).
@@ -162,6 +218,17 @@ Worked example 2 (exchange rate). A commodity costs 80 dollars and the exchange 
 - If A-units also depreciate to 2.20 per dollar: 96 × 2.20 = 211.2, a **32%** rise.
 
 A weaker currency magnifies the commodity price rise. Evaluation: the effect depends on the weight of commodities in spending, whether the country produces its own, how long prices stay high, how much firms absorb in margins, and whether the central bank looks through a one-off rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--03-commodity-price-exchange-rate.webp" width="900" height="810" alt="Three bars show the domestic price of a commodity: 160 at 80 dollars and 2.00 per dollar, 192 (+20%) at 96 dollars and 2.00, and 211.2 (+32%) at 96 dollars and 2.20. A weaker currency magnifies the rise." loading="lazy">
+  <figcaption>A 20% dollar price rise becomes a 32% domestic rise when the currency also weakens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--08-weight-times-price-rise.webp" width="900" height="800" alt="Rectangles with width equal to weight and height equal to the price rise: fuel 6% x 25% = 1.5 points, imports 30% x 10% = 3.0 points (illustrative weight)." loading="lazy">
+  <figcaption>Direct contribution to inflation is weight times price rise: 1.5 points for fuel, 3.0 for imports.</figcaption>
+</figure>
+
 
 ## Other economies and UK inflation
 

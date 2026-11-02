@@ -43,6 +43,12 @@ These notes condense the Oligopoly sub-section of the AQA A-level Economics spec
 | Price war | Repeated price cuts as rivals retaliate |
 | Non-price competition | Rivalry through branding, quality, service, advertising, innovation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--01-olig-structure-conduct.webp" width="900" height="870" alt="A two by two grid of market structure (few big firms with barriers, or many small firms) against conduct (firms compete or collude). A concentrated market can be fiercely competitive and a market of many small firms can behave collusively, so those two cells, outlined, show structure and conduct diverging. Say which definition you use and use the other as a contrast." loading="lazy">
+  <figcaption>Structure and conduct are different ways to define oligopoly and can diverge.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Structure versus conduct.** Structure is how the market looks (few firms, high barriers). Conduct is how firms behave (interdependent, collusive). A market can fit one and not the other.
@@ -50,6 +56,12 @@ These notes condense the Oligopoly sub-section of the AQA A-level Economics spec
 - **Overt versus tacit collusion.** Overt means an explicit agreement. Tacit means an understanding, often through price leadership.
 - **Dominant-firm versus barometric leadership.** Dominant: the largest firm sets price and others follow. Barometric: a respected firm reads the market first.
 - **Illustration versus theory.** The kinked demand curve illustrates interdependence. It is not the only model of oligopoly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--02-olig-price-leadership.webp" width="900" height="920" alt="Two panels. In dominant-firm leadership the largest firm, often with the lowest costs, moves price first and smaller firms follow. In barometric leadership a firm respected for reading the market moves first and others follow because its price reflects costs and demand. Neither needs a written agreement." loading="lazy">
+  <figcaption>In price leadership one firm moves price and the others follow without a written agreement.</figcaption>
+</figure>
+
 
 ## Concentration ratio: method
 
@@ -61,6 +73,22 @@ These notes condense the Oligopoly sub-section of the AQA A-level Economics spec
 **Reminder (invented).** Five firms hold 40%, 25%, 15%, 12% and 8%. CR2 = 40 + 25 = 65%. CR3 = 65 + 15 = 80%. If the top two merge, one firm holds 65%, so CR1 = 65%.
 
 **Limits:** hides the split within the group; depends on market definition (local, national, global); ignores imports; says nothing about conduct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--13-cr-merger.webp" width="900" height="890" alt="Eight soup firms with shares 34, 22, 15, 10, 8, 5, 4 and 2 percent give CR3 = 71%. If Y and Z merge into a 25% firm, CR3 becomes 34 + 25 + 22 = 81%." loading="lazy">
+  <figcaption>A merger between two firms raises the concentration ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--05-olig-cr-limits.webp" width="900" height="910" alt="Two bars each total 100 percent. In the lesson soups market the top three firms hold 34, 22 and 15 percent; in a second market invented for contrast they hold 24, 24 and 23. Both CR3 are 71 percent although one has a clear leader and the other three near-equal rivals, so the ratio hides the split. A high ratio does not prove collusion." loading="lazy">
+  <figcaption>The same CR3 can describe very different markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
 
 ## Kinked demand: method in steps
 
@@ -79,6 +107,12 @@ These notes condense the Oligopoly sub-section of the AQA A-level Economics spec
 - Raise to £14: Q = (17 − 14) / 0.1 = 30, revenue £420, below £600. Cut to £9: Q = (27 − 9) / 0.3 = 60, revenue £540, below £600.
 - If marginal cost reaches £9, it cuts the upper MR: 17 − 0.2Q = 9 gives Q = 40 and price 17 − 4 = £13.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--09-kinked-demand.webp" width="900" height="1010" alt="Kinked demand: elastic above the kink (P = 14 - 0.1Q), inelastic below (P = 30 - 0.5Q), kink at 10 pounds and 40 units. MR jumps from 6 to -10 at 40 units, so MC of 2 or 5 leaves price unchanged. Raising price lowers revenue to 330, cutting to 378." loading="lazy">
+  <figcaption>Interdependence makes price stable because MR has a gap at the kink.</figcaption>
+</figure>
+
+
 ## Cartel and collusion: method
 
 1. Treat the firms as one monopolist: set MR = MC.
@@ -92,12 +126,34 @@ These notes condense the Oligopoly sub-section of the AQA A-level Economics spec
 
 **Conditions that favour collusion:** few firms, high concentration, similar costs, homogeneous product, stable demand, high barriers, easy monitoring of prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--10-cartel-joint-profit.webp" width="900" height="960" alt="Duopoly with demand P = 100 - Q and MC 20 pounds. Colluding firms set MR = MC: 40 thousand units at 60, joint profit 1,600 thousand, 800 thousand each." loading="lazy">
+  <figcaption>Colluding firms can behave like one monopolist and maximise joint profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--11-cartel-cheating.webp" width="900" height="940" alt="Profit per firm: both keep 60 pounds, each 800 thousand. A cuts to 55 and earns 1,400 against B 175. If B matches 55 each earns 787.5, less than 800." loading="lazy">
+  <figcaption>Cheating on a cartel pays until the rival matches, leaving both worse off.</figcaption>
+</figure>
+
+
 ## Price wars and non-price competition
 
 - **Price war:** each cut raises sales but narrows the margin. Profit falls as price approaches marginal cost. Good for consumers now, risky if rivals exit and prices rise later.
 - **Why non-price competition:** price cuts are copied fast; brand loyalty makes demand less elastic; quality and service are harder to match; supernormal profit pays for it.
 - **Advertising ratio (invented):** £12 million advertising on £240 million revenue is 12 / 240 = 5% of revenue.
 - **Cost view:** advertising is a fixed cost that raises average total cost unless it raises sales enough.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--12-price-war.webp" width="900" height="950" alt="Bar chart of profit per firm as price falls: 60 gives 800, 55 gives 787.5, 40 gives 600, 30 gives 350, 20 gives zero (thousand pounds), with market output rising from 40 to 80 thousand." loading="lazy">
+  <figcaption>Each price cut raises sales but cuts the margin by more, until profit is zero at price = MC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--03-olig-advertising-unit-cost.webp" width="900" height="840" alt="Fixed costs of 40 million pounds over 50 million units are 0.80 pounds per unit. Adding 10 million pounds of advertising makes it 1.00 pound, an extra 20 pence. The advertising pays only if it raises demand or lets the firm charge more." loading="lazy">
+  <figcaption>Advertising spreads more fixed cost over each unit, adding 20p here.</figcaption>
+</figure>
+
 
 ## Interdependence and uncertainty: chain of reasoning
 
@@ -127,6 +183,12 @@ Use this chain whenever a question asks about the significance of interdependenc
 **Disadvantages:** higher prices, restricted output, collusion risk, complacency, costly advertising, barriers that limit entry.
 
 **Evaluation points:** depends on how much profit is reinvested, how strong rivalry is, how long barriers last and how active regulators are. Always end with a supported judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--04-olig-evaluation-chain.webp" width="900" height="960" alt="Barriers to entry lead to supernormal profit, which funds research and a new product. That benefit is set against the cost of higher prices. Which is bigger depends on how much is reinvested, how strong rivalry is, the regulator's attitude and the time period, and a good answer reaches a judgement." loading="lazy">
+  <figcaption>Evaluate by weighing better products against higher prices and then judging.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

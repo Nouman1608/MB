@@ -98,6 +98,12 @@ y = 1.732x − 0.0871x²
 horizontal distance = 10 × 2.673 ≈ 26.7 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
+  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+
 ## Phrases decoded
 
 | The question says | You do |
@@ -126,6 +132,12 @@ r = 6t i + (2 + 10t − 4.9t²)j     v = 6i + (10 − 9.8t)j
 
 At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/19.6 ≈ 7.10 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Displacement and distance:** ∫v dt gives displacement. Distance needs the sign changes of v.
@@ -134,6 +146,12 @@ At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/1
 - **Maximum speed and maximum velocity:** a = 0 finds a stationary value of v, but check the ends of the interval for the greatest speed.
 - **Cartesian path and time equations:** the path equation has no t. Use it for "passes through a point" and shape questions, not for timing.
 - **Model and reality:** the model ignores air resistance, treats the object as a particle, keeps g constant and ignores wind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -163,6 +181,12 @@ At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/1
 10. a = 6t − 12 = 0 at t = 2, and v = 12 − 24 + 5 = −7 m s⁻¹.
 11. v_y = 9.8 × 2.673 ≈ 26.2, so speed = √(10² + 26.2²) ≈ 28.0 m s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - No constant of integration, or a constant found from the wrong condition.
@@ -174,6 +198,17 @@ At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/1
 - Rounding g or intermediate values early, so a final 3 significant figure answer drifts.
 - Using the range formula for a launch from a height.
 - Giving a limitation of the model that is really a limitation of the question, such as "the ball might hit a bird".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

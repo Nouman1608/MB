@@ -59,6 +59,12 @@ Lewin's force field analysis lists the **driving forces** that push for a change
 
 Net score is 12 − 9 = +3, so drivers narrowly win. The business should not just push harder. It could reduce the strongest restrainers, for example by promising shop staff retraining for online roles. The scores are subjective, so the analysis supports a decision rather than making it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--01-force-field-lowerby.webp" width="900" height="862" alt="Force field for Lowerby Candles with arrows proportional to score. Drivers 4, 3 and 5 total 12; restrainers 3, 3, 2 and 1 total 9. Net score is +3, so drivers narrowly win and managers could cut the restrainers, for example by retraining shop staff." loading="lazy">
+  <figcaption>Scoring the forces and comparing the totals shows whether change is likely to succeed.</figcaption>
+</figure>
+
+
 ### The value of change and of a flexible organisation
 
 Change can keep a business competitive, open new markets, cut costs and answer threats. It also costs money, unsettles staff and may fail, so its value depends on benefit against cost and risk.
@@ -96,6 +102,12 @@ They also give **six ways of overcoming resistance**, each with a cost and a bes
 | Explicit and implicit coercion | Speed is vital and managers hold power | Resentment; damages trust |
 
 In an answer, name the reason for resistance shown in the case, then match a method to it and weigh the drawback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--04-resistance-methods.webp" width="900" height="992" alt="Four reasons for resistance (misunderstanding, different assessments, low tolerance of change, parochial self-interest) each point to a method with its drawback. Manipulation and coercion are shown as last resorts." loading="lazy">
+  <figcaption>Match the method to the cause of resistance and weigh its drawback.</figcaption>
+</figure>
+
 
 ## 3.10.2 Managing organisational culture
 
@@ -141,6 +153,12 @@ Effective implementation needs clear objectives, enough resources, agreed respon
 | Regional | Geographic area | Local knowledge, quick decisions | Duplication; inconsistency |
 | Matrix | Staff report to a function and a project manager | Shares skills across teams | Two bosses; conflicting priorities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-structure-types.webp" width="900" height="920" alt="Four small organisation charts: by function (marketing, finance, HR), by product, by region, and a matrix where each employee reports to a function manager and a project manager." loading="lazy">
+  <figcaption>Staff can be grouped by function, product or region, or in a matrix with two reporting lines.</figcaption>
+</figure>
+
+
 ### Network analysis
 
 Network analysis plans a project. It shows activities, their durations and the order in which they must happen. Each activity has an **earliest start time** and a **latest finish time**. You work forwards to find earliest times and backwards to find latest times. The **critical path** is the longest route through the network; activities on it have no spare time and any delay delays the whole project. **Total float** is the time an activity can be delayed without delaying the project: latest finish − duration − earliest start.
@@ -163,6 +181,17 @@ Forward pass: A ends week 2, B week 3, C week 6, D week 4, E starts week 6 (it w
 
 Value: it shows which tasks need close control, where resources can move from non-critical tasks, and the shortest completion time. Limit: durations are only estimates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--02-network-lowerby.webp" width="900" height="846" alt="Activity network for the Lowerby Candles launch with earliest start, latest finish and float for each activity. A, C, E and G have zero float and form the critical path of 13 weeks; B has 3 weeks float, D and F 4." loading="lazy">
+  <figcaption>The critical path is the longest route through the network, and activities on it have no float.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--03-network-amended.webp" width="900" height="910" alt="Bar chart over 13 weeks after D is lengthened to 6 weeks. D runs weeks 2 to 8, F weeks 8 to 11, so both are now critical alongside A, C, E and G. The project stays at 13 weeks with two critical paths." loading="lazy">
+  <figcaption>Lengthening D to 6 weeks leaves the project at 13 weeks but creates a second critical path.</figcaption>
+</figure>
+
+
 ## 3.10.4 Problems with strategy and why strategies fail
 
 **Difficulties** include uncertain information, an unpredictable environment, conflicting stakeholder goals, limited resources and managers' bias. Implementation can fail through poor communication, weak leadership, resistance, a poor-fitting culture or structure, or unrealistic targets.
@@ -176,6 +205,12 @@ Value: it shows which tasks need close control, where resources can move from no
 **Evaluating strategic performance.** Compare results with objectives, past performance and rivals, using financial measures (profit, market share) and non-financial ones (customer satisfaction, staff turnover). Find why gaps arose before acting.
 
 **Strategic planning** gives direction, aligns departments, guides resources and allows later comparison; but it costs time, can become rigid and relies on forecasts. **Contingency planning** prepares responses to events that might happen, such as a supplier failure or a cyber attack. It speeds reaction and reduces panic, but costs time and money and cannot cover every event.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managing-strategic-change--05-strategic-drift.webp" width="900" height="876" alt="Illustrative graph. The environment keeps changing at a rising rate. The strategy matches it until past success, then keeps its old pace, so the shaded gap widens. That gap is strategic drift. Causes listed: complacency, strong existing culture, slow market monitoring." loading="lazy">
+  <figcaption>Strategic drift is a gap that widens between strategy and a changing environment.</figcaption>
+</figure>
+
 
 ## Common errors
 

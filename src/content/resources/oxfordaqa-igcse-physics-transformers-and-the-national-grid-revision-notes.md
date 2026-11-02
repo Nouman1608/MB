@@ -27,6 +27,12 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [pri
 
 Power station, then step-up transformer, then transmission cables, then step-down transformer(s), then consumers. Transformers are at both ends of the cables (3.6.2 a). Be ready to label an unlabelled diagram of this chain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--02-national-grid-route.webp" width="900" height="1160" alt="Five boxes in order: power station generator, step-up transformer, transmission cables, step-down transformer, homes. Voltage is raised before the cables and lowered after them; the cables carry alternating current." loading="lazy">
+  <figcaption>Transformers sit at both ends of the transmission cables.</figcaption>
+</figure>
+
+
 ## Why high voltage (3.6.2 b)
 
 Say it as a chain, every link:
@@ -36,6 +42,12 @@ Say it as a chain, every link:
 3. Less energy is wasted as heat, so the system is more efficient.
 
 Extra detail you can use: the power lost in a cable is I² × R, so halving the current cuts the loss to one quarter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
 
 ## Transformer structure and operation (3.6.2 c)
 
@@ -54,12 +66,24 @@ Extra detail you can use: the power lost in a cable is I² × R, so halving the 
 
 Laminations and eddy currents are not required. A transformer needs ac (or a changing current) because only a changing field induces a potential difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
+
 ## Step-up and step-down (3.6.2 d)
 
 | Type | Vs compared with Vp | Turns | Where used |
 | --- | --- | --- | --- |
 | Step-up | Vs greater than Vp | ns greater than np | Before the distribution lines |
 | Step-down | Vs less than Vp | ns less than np | At the end, for a safer voltage for local consumers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--06-step-down-vs-step-up.webp" width="900" height="1000" alt="Step-down: 9000 V on 7200 turns to 225 V on 180 turns (ratio 40). Step-up: 24 V, 2.5 A, 72 turns to 300 V, 0.20 A, 900 turns (ratio 12.5), 60 W in and out." loading="lazy">
+  <figcaption>More secondary turns step the voltage up and the current down.</figcaption>
+</figure>
+
 
 ## Formulas (3.6.2 e and f)
 
@@ -100,6 +124,12 @@ The primary-to-secondary ratio is 20 : 1, so this is a step-down transformer.
 - High frequency, often between 50 kHz and 200 kHz.
 - Much lighter and smaller than traditional transformers that work from a 50 Hz mains supply, so useful in applications such as mobile phone chargers.
 - Use very little power when switched on but with no load applied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--07-switch-mode-features.webp" width="900" height="1110" alt="Switch mode transformers run at 50 to 200 kHz; one 100 kHz cycle is 10 microseconds, 2000 times shorter than a 50 Hz cycle. They are lighter and smaller and use little power with no load. A 5.0 V, 2.0 A charger draws 43 mA from 230 V." loading="lazy">
+  <figcaption>High frequency, small size and low no-load power suit phone chargers.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

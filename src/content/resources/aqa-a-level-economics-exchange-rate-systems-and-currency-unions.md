@@ -84,6 +84,12 @@ Price of A-unit (B-units)
 
 In words: the demand curve shifts right, the equilibrium moves up the supply curve, the price rises and the quantity traded rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--05-floating-rate-appreciation.webp" width="900" height="1050" alt="Demand and supply of the A-unit: equilibrium 1.00 and 100m; demand shifts right by 30 at every price, new equilibrium 1.075 and 115m, an appreciation of 7.5%." loading="lazy">
+  <figcaption>Higher interest rates raise demand for the A-unit and it appreciates 7.5%.</figcaption>
+</figure>
+
+
 ### What shifts the curves
 
 | Cause | Curve | Effect on the A-unit |
@@ -95,6 +101,17 @@ In words: the demand curve shifts right, the equilibrium moves up the supply cur
 | Speculators expect a fall | Demand left, supply right | Depreciates, which can confirm the expectation |
 
 Speculation can be self-fulfilling and can make floating rates swing far from levels that trade alone would justify.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--14-what-shifts-the-curves.webp" width="900" height="940" alt="Five causes with demand and supply shifts of the A-unit: export demand, higher interest rates, higher inflation, FDI, speculators expecting a fall, and the resulting appreciation or depreciation." loading="lazy">
+  <figcaption>Demand right or supply left raises the A-unit; the reverse lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## Government intervention
 
@@ -112,6 +129,12 @@ Country A fixes the rate at 1.10 B-units per A-unit, above the market-clearing 1
 
 If the government devalues to 1.00, the fall is (1.00 / 1.10 − 1) × 100 = −9.1%, excess supply disappears, and no more reserves are used. The central rate is then at the market level. Notice that the peg only needed defending because it was set too high.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--06-defending-a-peg.webp" width="900" height="1090" alt="Peg at 1.10: demand 80, supply 120, excess supply 40 million. Central bank spends 44m B-units a week; reserves of 220m last 5 weeks. Devaluing to 1.00 is -9.1%." loading="lazy">
+  <figcaption>A peg set above the market rate drains reserves.</figcaption>
+</figure>
+
+
 ## Fixed versus floating
 
 | | Fixed (pegged) | Floating |
@@ -128,12 +151,24 @@ If the government devalues to 1.00, the fall is (1.00 / 1.10 − 1) × 100 = −
 
 Suppose the A-unit falls from 1.00 to 0.80 B-units, a fall of 20%. An A export priced at 50 A-units costs 50 × 1.00 = 50 B-units before and 50 × 0.80 = 40 B-units after, a 20% fall in the foreign price. A B-good priced at 30 B-units costs 30 / 1.00 = 30 A-units before and 30 / 0.80 = 37.5 A-units after, a 25% rise. The change in quantities depends on price elasticity of demand for exports and imports. If demand is inelastic, spending on imports may rise and the trade balance may worsen at first. That is why elasticity matters in evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--11-depreciation-prices.webp" width="900" height="830" alt="A-unit falls 1.00 to 0.80. Export 50 A-units: 50 to 40 B-units (-20%). Import 30 B-units: 30 to 37.5 A-units (+25%)." loading="lazy">
+  <figcaption>A depreciation cuts export prices abroad and raises import prices at home.</figcaption>
+</figure>
+
+
 ### Evaluating the choice
 
 - A fixed rate gives stability, but only if it is credible and set near the equilibrium. If reserves are small, markets may bet against it.
 - Floating rates give freedom for monetary policy, but a large depreciation can raise import prices and inflation, especially where the economy relies on imported fuel, food or components.
 - The better system depends on the economy's openness. A small economy that trades mainly with one partner gains more from pegging to that partner's currency.
 - Time matters. In the short run, speculation drives floating rates. In the long run, relative inflation and productivity matter more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--10-fixed-vs-floating.webp" width="900" height="1171" alt="Seven rows comparing fixed and floating systems with ticks for advantages and crosses for drawbacks; each system has three advantages and four drawbacks." loading="lazy">
+  <figcaption>Neither system wins outright; it depends on the economy.</figcaption>
+</figure>
+
 
 ## Currency unions
 
@@ -164,6 +199,22 @@ The union rate is 3%. Member X has 5% inflation and Member Y has 1%. Real intere
 ### Worked example: no exchange rate to adjust
 
 Suppose X's costs rise 10% relative to its partners. Outside a union, a depreciation of 1 / 1.10 − 1 = −9.1% would offset it. Inside the union it cannot depreciate, so costs and wages must fall (an internal devaluation), which is slow, may need high unemployment and can deepen a recession.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--07-currency-union-one-rate.webp" width="900" height="760" alt="Same 3% rate gives real rate -1.9% for X (inflation 5%) and +2.0% for Y (inflation 1%)." loading="lazy">
+  <figcaption>One union rate is too loose for one member and too tight for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--12-currency-union-transaction-costs.webp" width="900" height="870" alt="Exporter with 6m B-unit sales loses 2% = 120,000 to bank margins, 8% of 1.5m profit." loading="lazy">
+  <figcaption>Transaction costs can take 8% of an exporter profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-exchange-rate-systems-and-currency-unions--13-internal-devaluation.webp" width="900" height="970" alt="Member X costs 110 against partners 100. Own currency: depreciate 9.1% in one move. In a union: cut costs and wages 9.1%, slow and may need high unemployment." loading="lazy">
+  <figcaption>Inside a union an internal devaluation replaces depreciation.</figcaption>
+</figure>
+
 
 ## Evaluation points that earn credit
 

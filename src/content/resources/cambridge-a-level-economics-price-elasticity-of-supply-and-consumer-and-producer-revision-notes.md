@@ -58,6 +58,17 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - A straight supply curve through the origin has PES of 1 everywhere. One that meets the price axis has PES above 1 everywhere. One that meets the quantity axis has PES below 1 everywhere.
 - Slope is not the same as elasticity, because elasticity uses percentages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--06-pes-straight-line-supply.webp" width="900" height="995" alt="Three straight supply curves cut by prices 10 and 12. The curve through the origin has PES 1, the curve starting on the price axis has PES 2, and the curve starting on the quantity axis has PES 0.67." loading="lazy">
+  <figcaption>A straight supply curve through the origin has PES 1; starting on the price axis gives more than 1, on the quantity axis less than 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--01-pes-percentage-workings.webp" width="900" height="1140" alt="Three pairs of bars compare old and new price and quantity. Mugs: price 8.00 to 9.20 (+15%), output 200 to 224 (+12%), PES 0.8. Other good: price 20 to 17 (-15%), output 500 to 410 (-18%), PES 1.2, both falls so positive. Worker: pay 12 to 15 (+25%), hours 40 to 38 (-5%), PES -0.2, bars move opposite ways." loading="lazy">
+  <figcaption>Bar length shows each change; same-direction bars give a positive PES, opposite-direction bars a negative one.</figcaption>
+</figure>
+
+
 ## 2.3.4 Factors affecting PES
 
 | Factor | Higher PES when | Lower PES when |
@@ -78,6 +89,17 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - **Low PES:** firms react slowly, shortages last, and price rises are large and last longer.
 - Firms can raise PES by holding stocks, keeping spare capacity and using flexible contracts. Governments can raise it by helping resources to move.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--01-supply-time-frames.webp" width="900" height="1040" alt="Graph of price against quantity supplied after a 20 per cent price rise from 10 to 12 currency units, starting at 100 units. The momentary supply curve is vertical, output stays at 100 and PES is 0.0. The short-run curve reaches 106 units (+6 per cent), PES 0.3, inelastic. The long-run curve reaches 136 units (+36 per cent), PES 1.8, elastic." loading="lazy">
+  <figcaption>The same 20% price rise brings 0%, 6% and 36% more output as time passes: PES 0.0, 0.3, 1.8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+
 ## 2.5.1 to 2.5.2 Consumer and producer surplus
 
 | | Consumer surplus | Producer surplus |
@@ -90,6 +112,12 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - Limits: surplus ignores income differences, and curves are only estimates.
 
 **Method for a triangle.** Surplus = 1/2 x base x height. The base is the quantity traded. The height is the vertical gap between the price axis intercept of the curve and the market price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
+</figure>
+
 
 ## 2.5.3 Causes of changes in surplus
 
@@ -104,6 +132,22 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 
 Other causes: a subsidy, a price floor, or a change in the number of buyers or sellers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--07-tax-surplus-market-n.webp" width="900" height="960" alt="Demand and supply for Market N with a 12 cu tax shifting supply up. Equilibrium quantity falls from 600 to 520, consumers pay 48 and producers keep 36. Consumer surplus 13,520, producer surplus 6,760, tax revenue 6,240, and a triangle of 480 total surplus is lost." loading="lazy">
+  <figcaption>A 12 cu tax splits the old surplus into consumer surplus, producer surplus and tax, and destroys 480.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--02-surplus-demand-rise-market-n.webp" width="900" height="880" alt="Market N graph. Original demand (dashed) meets the price axis at 100; new demand meets it at 130; supply meets it at 10. The new equilibrium is price 50, quantity 800. Consumer surplus is the triangle with base 800 and height 80, 32,000 cu (up 14,000). Producer surplus is base 800, height 40, 16,000 cu (up 7,000). Consumer surplus rose although the price rose." loading="lazy">
+  <figcaption>A demand rise to price 50 and quantity 800 lifts consumer surplus to 32,000 and producer surplus to 16,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--03-surplus-supply-rise-market-n.webp" width="900" height="880" alt="Market N graph. Demand meets the price axis at 100. Original supply (dashed) starts at 10; new supply starts at 4. The new equilibrium is price 36, quantity 640. Consumer surplus is base 640, height 64, 20,480 cu (up 2,480). Producer surplus is base 640, height 32, 10,240 cu (up 1,240). Price fell but both groups gained because more is traded." loading="lazy">
+  <figcaption>Cheaper production moves the market to price 36 and quantity 640, raising consumer surplus to 20,480 and producer surplus to 10,240.</figcaption>
+</figure>
+
+
 ## 2.5.4 The role of PED and PES
 
 - A shift in one curve changes price by more when the other curve is **inelastic**, and quantity by more when it is **elastic**.
@@ -112,6 +156,17 @@ Other causes: a subsidy, a price floor, or a change in the number of buyers or s
 - A supply rise with inelastic demand gives a big price fall, so consumers gain a lot and revenue falls.
 - A supply fall with inelastic demand gives a big price rise, so consumer surplus falls a lot.
 - Elasticities change over time, so the extent of change differs between short and long run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer--08-supply-elasticity-demand-rise.webp" width="900" height="1310" alt="The same rightward demand shift from 600 units at price 40. With elastic supply price rises to 45 and quantity to 850; producer surplus gains 3,625 and consumer surplus 18,125. With inelastic supply price rises to 60 and quantity to 700; producer surplus gains 13,000 and consumer surplus 6,500." loading="lazy">
+  <figcaption>The less elastic supply is, the more a demand rise raises price and the more surplus producers gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--06-surplus-and-elasticity.webp" width="900" height="1290" alt="The same supply increase (supply shifts down by 1) is applied to two markets that start at price 5 and quantity 50. With inelastic demand (PED 0.5) price falls to 4.29 and consumer surplus rises by about 37. With elastic demand (PED 3.3) price falls to 4.73 and consumer surplus rises by about 15. The more inelastic demand, the larger the change in consumer surplus." loading="lazy">
+  <figcaption>The more inelastic demand is, the more a given supply shift changes consumer surplus.</figcaption>
+</figure>
+
 
 ## Worked reminder: PES from an equation
 

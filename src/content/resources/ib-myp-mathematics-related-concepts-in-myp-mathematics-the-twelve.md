@@ -81,6 +81,12 @@ Both factors were rounded up, so the estimate is too high. The direction of an e
 
 Context decides the rounding. A floor measures 4.8 m by 3.9 m and is tiled with square tiles of side 0.5 m. Floor area = 4.8 × 3.9 = 18.72 m². Each tile covers 0.25 m². Tiles needed = 18.72 ÷ 0.25 = 74.88. You cannot buy 0.88 of a tile, so round up to **75**. Buying 74 would leave a gap, so the situation sets the rounding rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
+
 ### Change
 
 **A seedling grows from 12 cm to 27 cm in 5 days.**
@@ -103,6 +109,12 @@ Equivalence also covers fractions, decimals and percentages: 18/24 = 3/4 = 0.75 
 The terms rise by 3 each time, so the rule involves 3n. At n = 1, 3n gives 3, and we need 5, so add 2. Rule: tiles = 3n + 2.
 Check against the data: n = 2 gives 8, n = 3 gives 11, n = 4 gives 14. Prediction: figure 10 has 3 × 10 + 2 = 32 tiles.
 A generalization from few cases can be wrong. The terms 2, 4, 8 suggest doubling (next term 16), yet n² − n + 2 also gives 2, 4, 8 and then 14. Test a rule on a new case and explain why it works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
 
 ### Models
 
@@ -162,6 +174,32 @@ x(x + 2) = 35, so x² + 2x − 35 = 0, which factorises as (x + 7)(x − 5) = 0.
 Solutions: x = 5 or x = −7.
 A width of −7 m is not valid in this situation, so **x = 5**: the rectangle is 7 m by 5 m, and 7 × 5 = 35 confirms it.
 Validity also applies to conclusions from data. Suppose ice-cream sales and sunburn cases rise together across a summer. The correlation is real, but concluding that ice cream causes sunburn is not valid. Hot sunny weather is a likely common cause. The guide names causation versus correlation under reasoning with data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--07-taxi-model-c-4-plus-1p5d.webp" width="900" height="1000" alt="Line C = 4 + 1.5d with the fixed charge 4, the point (12 km, 22) and the point (17 km, 29.5) below a budget line at 30." loading="lazy">
+  <figcaption>The model gives cost from distance and states what it leaves out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--08-triangular-pattern-n-n-plus-1-over-2.webp" width="900" height="1010" alt="Five dot triangles with 1, 3, 6, 10 and 15 dots, first differences 2, 3, 4, 5, second differences all 1, and the rule n(n+1)/2 giving 210 for the 20th term." loading="lazy">
+  <figcaption>A constant second difference signals a quadratic rule, here n(n+1)/2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--09-representation-y-2x-minus-1.webp" width="900" height="960" alt="Four panels: words, equation, a table (x = 0 to 3 gives y = -1, 1, 3, 5) and a straight-line graph with gradient 2 crossing the y-axis at -1." loading="lazy">
+  <figcaption>The same relationship can be shown in words, an equation, a table or a graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--10-tank-quantity-litres.webp" width="900" height="1000" alt="A 2.5 m by 1.2 m by 0.8 m tank with V = 2.4 m3 and the conversion x 1000 to 2400 litres." loading="lazy">
+  <figcaption>A quantity needs its unit, and converting units is part of the mathematics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--11-validity-negative-width.webp" width="900" height="960" alt="Graph of x squared + 2x - 35 with roots at -7 and 5; the negative-x region is shaded as invalid, and the valid answer is a 7 m by 5 m grid of 35 squares." loading="lazy">
+  <figcaption>A solution of the equation must also make sense in the situation.</figcaption>
+</figure>
+
 
 ## Using the concepts to plan a unit
 

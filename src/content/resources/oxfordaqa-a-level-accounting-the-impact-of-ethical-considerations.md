@@ -37,6 +37,17 @@ Use this guide with the [revision notes](/resources/oxfordaqa-a-level-accounting
 
 Behind all six rows sits the duty, named in the specification's aims, to be truthful and accurately represent the facts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--04-wrongdoing-steps.webp" width="900" height="880" alt="Seven numbered steps: establish the facts, evaluate the threats, apply safeguards, resolve conflicts of interest, escalate internally, take professional or legal advice, and refuse or resign as a last resort. They are grouped as your own checks, inside the organisation, and outside if needed." loading="lazy">
+  <figcaption>Work from your own checks, to internal escalation, to outside help.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+
 ## 1. The five fundamental principles
 
 The International Code of Ethics for Professional Accountants, developed by the International Ethics Standards Board for Accountants (IESBA), is built on the same five principles that the specification lists. Many national bodies align with it.
@@ -54,6 +65,17 @@ The International Code of Ethics for Professional Accountants, developed by the 
 The IESBA Code asks accountants to **identify, evaluate and address** threats to the principles. It groups threats into five categories: **self-interest, self-review, advocacy, familiarity and intimidation**. To judge whether a threat is at an acceptable level, the Code uses the view of a **reasonable and informed third party**: someone who knows the facts and could weigh them impartially.
 
 If a threat is too high, the accountant removes its cause, applies a **safeguard** (an action reducing it to an acceptable level, such as an independent review), or declines or ends the work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--02-threats-safeguards.webp" width="900" height="940" alt="Five threats are named with an example each: self-interest, self-review, advocacy, familiarity and intimidation. Three steps follow: identify, evaluate, address. A safeguard such as a second-person review reduces the threat; if it is too big, decline the work or step away." loading="lazy">
+  <figcaption>Identify and evaluate each threat, then apply a safeguard or step away.</figcaption>
+</figure>
+
 
 ## 2. Six areas the principles affect
 
@@ -84,9 +106,21 @@ Shareholders appoint external auditors to report independently on whether the fi
 | Adverse | Misstatements are both material and pervasive |
 | Disclaimer of opinion | The auditor cannot obtain enough appropriate evidence, and the possible effects could be material and pervasive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--03-audit-opinions.webp" width="900" height="1030" alt="A question chain: enough evidence? If not, disclaimer. Material misstatement? If not, unmodified. Pervasive? If not, qualified (except for); if so, adverse. An OxfordAQA example shows 85,000 left out of 940,000 profit before tax, 9.0 percent, material but not pervasive, so qualified." loading="lazy">
+  <figcaption>Three questions decide which of the four audit opinions is given.</figcaption>
+</figure>
+
+
 ### Corporate governance
 
 Corporate governance describes how a company is directed and controlled: board structure, committees, internal controls and reporting to shareholders. Good governance makes it harder for one person to override controls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
 
 ### Corporate social responsibility (CSR)
 
@@ -112,6 +146,12 @@ Working within these guidelines matters because users can only rely on, and comp
 | Directors | Legal action, disqualification, loss of office |
 | The individual accountant | Disciplinary action by a professional body, loss of membership, dismissal, prosecution where an offence is involved |
 | Stakeholders | Decisions made on false information; lost money or jobs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--05-rule-layers.webp" width="900" height="866" alt="Three layers of rules and the consequence of breaking each. Law (AQA: government and Companies Act; OxfordAQA: company, tax and fraud law) brings fines and court action. Standards (AQA: FRC; OxfordAQA: IASB, IAASB) bring a modified audit opinion. Professional codes (AQA: CCAB bodies and CIMA; OxfordAQA: bodies using the IESBA code) bring warning, fine or exclusion." loading="lazy">
+  <figcaption>Law, standards and professional codes each have their own consequences when broken.</figcaption>
+</figure>
+
 
 ## 4. Professional bodies and codes of conduct
 
@@ -159,6 +199,17 @@ NPV                 (15,212)         16,478
 **Step 3: ethical analysis.** The current forecast fails both tests; the manager's figure passes both. Using a forecast known to be out of date breaches **integrity** and **professional competence and due care**. The manager has a **self-interest** threat, and the instruction creates an **intimidation** threat for the accountant.
 
 **Step 4: action.** Present the appraisal on the current forecast. Any non-financial benefits can be stated separately, not hidden in the cash flows. If pressure continues, raise it with the finance director.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
+  <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--11-ict-payback.webp" width="900" height="976" alt="A cash position chart for a computer system costing 12,300 and saving a net 9,200 a year: minus 12,300, minus 3,100, 6,100 and 15,300 at the ends of years 0 to 3. It crosses zero after 1.34 years, a payback of about 1 year 4 months." loading="lazy">
+  <figcaption>The system pays for itself in about 1 year 4 months, if the savings are real.</figcaption>
+</figure>
+
 
 ## 6. If you suspect an unethical or illegal act
 

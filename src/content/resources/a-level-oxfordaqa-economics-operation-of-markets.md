@@ -67,6 +67,12 @@ example and critically assessing whether a specific government
 intervention actually corrects it, since this evaluative skill
 distinguishes stronger answers from purely descriptive ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+
 ## Before studying this
 
 No prior economics is assumed, but the topic moves quickly into
@@ -168,6 +174,17 @@ reallocates resources towards what consumers value most. This process
 is what "efficient resource allocation" means in practice, and it is
 the benchmark section 3.1.4 uses to judge how far a given market
 structure falls short of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
 
 ## 3.1.3 Production, costs, revenue and profit
 
@@ -280,6 +297,17 @@ revenue and poor at changing behaviour, and the two are the same fact
 seen from opposite ends. Combining the tax with education, which shifts
 demand left and makes it more elastic over time, addresses the
 information failure the tax alone cannot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--06-surplus-and-elasticity.webp" width="900" height="1290" alt="The same supply increase (supply shifts down by 1) is applied to two markets that start at price 5 and quantity 50. With inelastic demand (PED 0.5) price falls to 4.29 and consumer surplus rises by about 37. With elastic demand (PED 3.3) price falls to 4.73 and consumer surplus rises by about 15. The more inelastic demand, the larger the change in consumer surplus." loading="lazy">
+  <figcaption>The more inelastic demand is, the more a given supply shift changes consumer surplus.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

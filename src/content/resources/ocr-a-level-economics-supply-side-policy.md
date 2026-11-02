@@ -48,6 +48,12 @@ The twelve measures are: education and training; reforming tax and benefits; red
 
 Describe the diagram in words: "the long-run aggregate supply curve shifts right from LRAS1 to LRAS2, so equilibrium moves from price level P1 and output Y1 to P2 and Y2, with P2 below P1."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 1. Education and training
 
 Investment in **human capital** raises **labour productivity**, so the quality of labour improves. It also helps the **occupational mobility** of workers, which cuts structural unemployment.
@@ -61,6 +67,12 @@ Present value = 450 × the annuity factor. The annuity factor for 5 years at 4% 
 Present value = 450 × 4.4518 = 2,003 cu. Net present value = 2,003 − 1,800 = 203 cu. The training pays for itself.
 
 Evaluation: firms may under-train because trained workers can be poached, so the state may fund it. Benefits take years, results depend on the quality of provision, and the training must match skills employers need.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--01-ssp-training-npv.webp" width="900" height="1100" alt="A cost column of 1,800 sits beside a column of five yearly slices, each smaller than the last because of discounting, totalling 2,003. The slices pass the 1,800 line by 203, the net present value." loading="lazy">
+  <figcaption>Discounted extra output of 2,003 beats the 1,800 training cost, so the net present value is +203.</figcaption>
+</figure>
+
 
 ## 2. Reforming tax and benefits, and reducing marginal tax rates
 
@@ -80,6 +92,17 @@ Benefits withdrawn as earnings rise act like a tax. Suppose a worker pays 20% ta
 
 Evaluation: the income effect may lead people to work less when their pay rises. Cuts cost the government revenue unless behaviour changes enough, and gains go mainly to higher earners, so inequality may widen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--12-ss-benefit-taper.webp" width="900" height="910" alt="Of an extra 100 earned, tax takes 20. With a 50% taper 40 of benefit is lost and 40 is kept (effective marginal rate 60%); with a 35% taper 28 is lost and 52 kept (48%)." loading="lazy">
+  <figcaption>A lower benefit taper reduces the effective marginal rate and makes work pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--13-ss-marginal-vs-average-tax.webp" width="900" height="885" alt="A step chart of tax rates (0%, 20%, 40%) for a worker earning 55,000. Cutting the top rate to 35% lowers tax from 12,000 to 11,250, the marginal rate from 40% to 35% and the average rate from 21.8% to 20.5%." loading="lazy">
+  <figcaption>A cut in the top marginal rate lowers the average rate by less.</figcaption>
+</figure>
+
+
 ## 3. National Minimum Wage and a living wage
 
 A **National Minimum Wage (NMW)** is a legal wage floor. A **living wage** is a rate linked to the estimated cost of living, which the government can promote and employers can choose to pay. Both are meant to raise the incentive to work and to reduce in-work poverty, and higher pay may raise productivity through motivation and lower staff turnover.
@@ -95,6 +118,12 @@ Country K raises the NMW from 9.00 to 9.45 cu an hour (+5%). 50,000 workers work
 
 If demand is inelastic, low-paid workers gain overall. If it is elastic, the wage bill falls and jobs are lost. Evaluation: the floor may cause unemployment, may push up costs and prices, and is hard to set. A voluntary living wage avoids legal compulsion but only reaches willing employers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--11-ss-minimum-wage-elasticity.webp" width="900" height="880" alt="A 5% minimum wage rise changes jobs by -1.5% (inelastic demand, -0.3) or -6.0% (elastic, -1.2), so the wage bill rises 3.4% or falls 1.3%." loading="lazy">
+  <figcaption>Whether low-paid workers gain overall depends on the elasticity of demand for labour.</figcaption>
+</figure>
+
+
 ## 4. Labour market flexibility, including the housing market
 
 A flexible labour market lets wages, hours and workers adjust quickly. Measures include easing hiring and firing rules, encouraging part-time and flexible contracts, and improving **geographical mobility**. The **housing market** matters because high rents and a shortage of homes stop workers moving to jobs.
@@ -104,6 +133,12 @@ A flexible labour market lets wages, hours and workers adjust quickly. Measures 
 A job in Region S pays 3,600 cu a year more than in Region N, but rent is 5,400 cu a year higher. Net gain = 3,600 − 5,400 = −1,800 cu, so the worker stays and the vacancy remains. If more homes are built and the rent gap falls to 2,400, the net gain is +1,200 cu and moving is worthwhile. Policies include easing planning rules, building affordable homes and ending rules that tie tenants to one area.
 
 Evaluation: flexible contracts may increase insecurity and reduce training. Building homes takes years, and some people stay for family and community reasons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--02-ssp-housing-move.webp" width="900" height="1060" alt="Two waterfalls: a pay gap of +3,600 less a rent gap of 5,400 gives a net of -1,800 (the worker stays), while a rent gap of 2,400 gives +1,200 (the worker moves)." loading="lazy">
+  <figcaption>High rents can cancel the pay gain from moving; closing the rent gap makes the move worthwhile.</figcaption>
+</figure>
+
 
 ## 5. Immigration
 
@@ -116,6 +151,12 @@ Extra output = 320,000 × 38,000 = 12.16bn.
 New GDP = 1,612.16bn (+0.76%). New population = 40.4m. GDP per head falls from 40,000 to 39,905 (−0.24%).
 
 Total output rises, but income per head can fall if migrants produce less than the average. Evaluation: consider tax contributions, pressure on housing and services, the "brain drain" effect on the origin country, and effects on wages of low-skilled workers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--15-ss-migration-gdp-per-head.webp" width="900" height="820" alt="GDP rises 0.76% to 1,612.16bn and population rises 1.00% to 40.4m, so GDP per head falls 0.24% from 40,000 to 39,905." loading="lazy">
+  <figcaption>Total output rises but income per head can fall.</figcaption>
+</figure>
+
 
 ## 6. Privatisation and deregulation
 
@@ -145,6 +186,27 @@ A road saves 20 minutes for 12,000 journeys a day. Time is valued at 15 cu an ho
 
 **Subsidies** lower costs. Demand is P = 90 − Q, supply P = 30 + 2Q, so equilibrium is Q = 20, P = 70. A subsidy of 12 per unit moves supply to P = 18 + 2Q: Q = 24, P = 66. Producers receive 78 (up 8), consumers pay 66 (down 4). Cost to the government = 12 × 24 = 288.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--14-ss-subsidy-incidence.webp" width="900" height="830" alt="A subsidy of 12 moves supply down and raises output from 20 to 24. Consumers pay 66 (down 4) and producers receive 78 (up 8). The government pays 288, which is 96 to consumers and 192 to producers." loading="lazy">
+  <figcaption>A per-unit subsidy cuts the price paid and raises the price received, at a cost of 288.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--03-ssp-road-cba.webp" width="900" height="1080" alt="A formula box gives a benefit of 15m a year, multiplied by 18.392 to a present value of 275.9m. A cost column of 180 is compared with the benefit column, leaving NPV +95.9 and a benefit-cost ratio of 1.53." loading="lazy">
+  <figcaption>Discounted time savings of 275.9m exceed the 180m cost: NPV +95.9m, ratio 1.53.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--04-ssp-rd-credit.webp" width="900" height="1000" alt="Bars show cost 8 against private return 6.5 (firm loses 1.5), then a 25% credit splitting cost into firm 6 and state 2 (firm gains 0.5), then social benefit of 11 (6.5 private plus 4.5 spillover) against a credit cost of 2." loading="lazy">
+  <figcaption>A credit can tip a project the firm would drop into one that goes ahead, justified because spillovers exceed its cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## 9. Evaluating effectiveness against macro objectives
 
 Link each measure to objectives: growth, low inflation, low unemployment, external balance and fairness.
@@ -160,6 +222,12 @@ Link each measure to objectives: growth, low inflation, low unemployment, extern
 | Demand | Without demand, extra capacity may stay unused |
 
 A strong answer links causes to consequences, judges which measures suit the case, and reaches a justified conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--05-ssp-trend-growth.webp" width="900" height="940" alt="Two lines of a potential output index starting at 100: at 2.0% a year it reaches 121.9 after ten years and at 2.5% it reaches 128.0, about 5% higher." loading="lazy">
+  <figcaption>A half-point rise in trend growth leaves output about 5% higher after ten years.</figcaption>
+</figure>
+
 
 ## Common errors
 

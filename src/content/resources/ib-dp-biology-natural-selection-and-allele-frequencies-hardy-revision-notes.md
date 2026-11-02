@@ -66,6 +66,12 @@ Test each link before you write an answer. If any step is missing, the explanati
 - Individuals do not choose to adapt. Variation exists first and the environment filters it.
 - Fitness is judged by the number of offspring that survive to breed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--01-overproduction-fish-eggs.webp" width="900" height="935" alt="A grid of 2000 dots stands for the eggs of one fish. Two gold ringed dots survive to breed and 1998 die, giving 0.1% reaching adulthood. Survival is not random because it depends partly on traits." loading="lazy">
+  <figcaption>Of 2000 eggs only 2 survive to breed, so 0.1% reach adulthood.</figcaption>
+</figure>
+
+
 ## Heritable or not? (D4.1.6)
 
 | Trait | Heritable? | Reason |
@@ -75,6 +81,12 @@ Test each link before you write an answer. If any step is missing, the explanati
 | Lost tail from an accident | No | Injury does not alter the gametes |
 | Eye colour | Yes | Alleles |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--02-heritable-vs-acquired.webp" width="900" height="980" alt="Top row: a weightlifter with big muscles has a child with normal muscles, because muscle gained in life is not in the DNA and the gamete DNA is unchanged. Bottom row: a fast lizard with allele F passes F in its gamete to a fast offspring. Only heritable traits can change allele frequencies." loading="lazy">
+  <figcaption>Acquired traits are not inherited; alleles carried in gametes are.</figcaption>
+</figure>
+
+
 ## Sexual selection and Endler's guppies (D4.1.7 and D4.1.8)
 
 - Traits that signal health, such as bright colour or elaborate displays, improve mating success.
@@ -82,6 +94,12 @@ Test each link before you write an answer. If any step is missing, the explanati
 - Birds of paradise: females choose, males with the most striking plumage and displays mate more.
 - Guppy pattern: **fewer predators means brighter males**; **more predators means duller males**.
 - Reading a table: find the starting value, compute percentage change = (final − start) ÷ start × 100, then link the direction to the pressure that was varied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--03-endler-guppies.webp" width="900" height="840" alt="Bars of invented data show mean spots per male guppy: 6.0 at the start, 8.1 with no predators (+35%) and 4.2 with strong predation (−30%). Females choosing bright males pushes colour up while predators eating bright males pushes it down." loading="lazy">
+  <figcaption>Sexual selection and natural selection act in opposite directions on male guppy colour.</figcaption>
+</figure>
+
 
 ## HL only: gene pools and allele frequency (D4.1.9 to D4.1.11)
 
@@ -98,6 +116,12 @@ Isolated populations differ because there is no gene flow, conditions differ and
 
 Neo-Darwinism: natural selection plus genetics. Evolution is a change in allele frequency in the gene pool.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--04-allele-frequency-counting.webp" width="900" height="763" alt="Fifty plants are drawn as pills holding two alleles each: 30 BB, 15 Bb and 5 bb. Pooling gives 75 B and 25 b out of 100 alleles, frequencies 0.75 and 0.25, which add to 1." loading="lazy">
+  <figcaption>Allele frequency is found by counting alleles, not plants.</figcaption>
+</figure>
+
+
 ## HL only: types of selection (D4.1.12)
 
 | Type | Favours | Result |
@@ -107,6 +131,12 @@ Neo-Darwinism: natural selection plus genetics. Evolution is a change in allele 
 | Disruptive | Both extremes | Two peaks |
 
 All three alter allele frequencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--05-three-types-of-selection.webp" width="900" height="944" alt="Three graphs show a bell-shaped trait distribution before (dashed) and after (solid) selection. Directional selection shifts the curve towards one extreme, stabilizing narrows it around the mean and disruptive splits it into two peaks." loading="lazy">
+  <figcaption>Directional, stabilizing and disruptive selection change the trait distribution in different ways.</figcaption>
+</figure>
+
 
 ## HL only: Hardy-Weinberg (D4.1.13 and D4.1.14)
 
@@ -137,11 +167,28 @@ If you are given the number of heterozygotes or homozygous dominants only, use t
 
 **Conditions for genetic equilibrium**: large population; random mating; no mutation; no migration; no selection. If observed genotypes differ from expected, at least one is unmet. Example: too few heterozygotes suggests non-random mating or selection against heterozygotes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--06-hardy-weinberg-areas.webp" width="900" height="975" alt="A unit square is divided by p = 0.6 and q = 0.4. The areas are AA 0.36, two Aa areas of 0.24 (2pq = 0.48) and aa 0.16. In 500 beetles that is 180 AA, 240 Aa and 80 aa." loading="lazy">
+  <figcaption>The Hardy-Weinberg genotype frequencies are areas of a square split by p and q.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--07-selection-against-recessive.webp" width="900" height="905" alt="Genotype frequencies of beetles are AA 0.36, Aa 0.48 and aa 0.16. If only half of aa survive to breed, aa falls to 0.08 and the total to 0.92. The frequency of a falls from 0.4 to 0.32 ÷ 0.92 = 0.348." loading="lazy">
+  <figcaption>Selection against the recessive homozygote lowers the frequency of its allele.</figcaption>
+</figure>
+
+
 ## HL only: artificial selection (D4.1.15)
 
 - Humans pick parents with desired traits in crops and domesticated animals, and repeat each generation.
 - Examples: higher-yielding crops, dogs bred for behaviour, cattle for milk.
 - Antibiotic resistance in bacteria is **natural** selection: the antibiotic is a selection pressure, but nobody chooses which bacteria breed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-natural-selection-and-allele-frequencies-hardy--08-artificial-vs-natural.webp" width="900" height="940" alt="Top: a farmer picks the largest maize cobs to breed (artificial selection). Bottom: an antibiotic kills susceptible bacteria and resistant ones survive and multiply with nobody choosing them, which is natural selection." loading="lazy">
+  <figcaption>Artificial selection means humans choose who breeds; antibiotic resistance is natural selection.</figcaption>
+</figure>
+
 
 ## Frame for an explain question
 

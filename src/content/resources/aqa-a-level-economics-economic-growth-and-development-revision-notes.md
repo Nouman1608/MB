@@ -45,9 +45,41 @@ All countries and figures are invented for illustration.
 - Development can be pushed ahead by health and school spending.
 - Per capita growth is roughly real GDP growth minus population growth. With 3% real growth and 1% population growth, 1.03 / 1.01 - 1 = 1.98%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--07-growth-without-development.webp" width="900" height="880" alt="Bars for an invented country. Average income per head rises from 1,000 to 1,399 (+39.9%) after 10 years of 6% real GDP growth and 2.5% population growth. The poorest 40%, whose share of income falls from 14% to 11%, see their average income rise from 350 to 385 (+9.9%)." loading="lazy">
+  <figcaption>Average growth of 39.9% can leave the poorest 40% with only 9.9% more, which is growth with weak development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--01-investment-capital-output.webp" width="900" height="870" alt="Two cases with capital-output ratio 3. Investment of 15% of GDP gives growth of 5% a year; raising it to 24% gives 8%. The growth bar is one third of the investment bar." loading="lazy">
+  <figcaption>Growth is roughly the investment share divided by the capital-output ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--02-schooling-payback.webp" width="900" height="855" alt="Line graph of cumulative net gain starting at minus 4,680 and rising 576 a year, crossing zero at 8.1 years. Return 12.3% a year." loading="lazy">
+  <figcaption>Two extra years of schooling cost 4,680 and pay back after 8.1 years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--03-barriers-three-numbers.webp" width="900" height="1080" alt="Three panels: corruption cuts a 12% return to 9%, below a safe 10%; a rural road lifts the farm-gate price from 42 to 51 (+21.4%, output +17.1%); a land title lets 4,000 be borrowed, earning 800 a year." loading="lazy">
+  <figcaption>Corruption, poor roads and missing property rights each change the numbers that decide investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ## Characteristics of less-developed economies
 
 Low income per head; much employment in low-productivity farming; large informal sector; weak health and schooling; low saving and investment; poor infrastructure; reliance on a few primary exports; weak institutions; high inequality. Always add "tend to": the group is varied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--08-farm-to-factory-shift.webp" width="900" height="940" alt="Two stacked bars: workers are 55% farming and 45% other; output is 28% farming and 72% other. Output per farm worker is 0.51 and per other worker 1.60, 3.1 times higher. Moving 10 workers out of farming adds 10.9 units, if jobs, skills and capital exist." loading="lazy">
+  <figcaption>Moving workers from low-productivity farming to other jobs raises output without extra workers, if conditions allow.</figcaption>
+</figure>
+
 
 ## Indicators
 
@@ -63,6 +95,22 @@ Low income per head; much employment in low-productivity farming; large informal
 **HDI method.** Turn each dimension into a score from 0 to 1 by placing it between a floor and a ceiling value. Income is entered as a log. Combine with a geometric mean: (health x education x income) ^ (1/3).
 
 **Why geometric?** Indices of 0.8, 0.5 and 0.5 give a geometric mean of 0.585 but an arithmetic mean of 0.600. The geometric mean penalises imbalance and stops one strong dimension offsetting a weak one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--09-hdi-two-countries.webp" width="900" height="970" alt="Grouped bars for the health, education and income indices. Country C: 0.738, 0.567, 0.575, HDI 0.622, income 4,500. Country D: 0.831, 0.661, 0.514, HDI 0.656, income 3,000. D has the higher HDI because of health and schooling although C has the higher income." loading="lazy">
+  <figcaption>A country with lower income can have a higher HDI if health and education are better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
 
 ## Factors and barriers, with the chain of reasoning
 
@@ -131,6 +179,17 @@ Judgement: success depends on the country's institutions and its starting point,
 Debt burden check: a loan of 600 at 5% costs 30 a year in interest; with export earnings of 1,500, the debt service ratio is 30 / 1,500 = 2%.
 
 Aid gains: fills the investment gap, funds public goods, can help in crises. Aid problems: leakage, dependency, conditions, debt, volatility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--10-aid-investment-gap.webp" width="900" height="920" alt="Bars in millions. Investment needed is 3,600 (18% of 20,000 GDP); domestic saving is 2,800, leaving a gap of 800. Full aid of 800 closes it. If 25% leaks, only 600 arrives, 200 short, investment is 17% of GDP and growth is 17/3 = 5.7%." loading="lazy">
+  <figcaption>Leakage of aid leaves an investment shortfall and growth below target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-development--04-export-dependence.webp" width="900" height="880" alt="Stacked columns of export revenue: 70 commodity plus 30 other falls to 52.5 plus 30 after a 25% price fall, total 82.5, a 17.5% fall, or 5.25% of GDP if exports are 30% of GDP." loading="lazy">
+  <figcaption>A 25% price fall on a commodity that is 70% of exports cuts export revenue 17.5%.</figcaption>
+</figure>
+
 
 ## Trade
 

@@ -47,6 +47,12 @@ An **exchange rate** tells you how much of one currency you must pay to obtain a
 
 Fees matter. A traveller changes £600 into euros at £1 = €1.35 and pays a £12 fee first: (600 − 12) × 1.35 = €793.80. Without the fee she would get €810.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--03-currency-conversion-fee.webp" width="900" height="770" alt="At 1 pound = 1.25 dollars, multiply to convert pounds to dollars and divide to convert back. For a 600 pound exchange at 1.35 euros with a 12 pound fee, the fee is taken first: 588 x 1.35 = 793.80 euros, against 810 euros with no fee." loading="lazy">
+  <figcaption>Multiply to go from pounds to dollars, divide to come back, and take fees off first.</figcaption>
+</figure>
+
+
 ### How the rate is set
 
 On a floating exchange rate the price of a currency comes from demand and supply, like any other price.
@@ -75,6 +81,17 @@ Equilibrium is 1.20 dollars per pound and 70 million pounds. Now overseas demand
 
 Higher inflation than competitors makes exports less attractive, which lowers demand for the currency over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--01-fx-pound-market.webp" width="900" height="1010" alt="Exchange-rate diagram with dollars per pound on the vertical axis and millions of pounds traded per day on the horizontal axis. Demand for pounds D1 slopes down and supply S slopes up, crossing at 1.20 dollars and 70 million pounds. When overseas demand rises by 30 million at every rate, demand shifts right to D2 and the new equilibrium is 1.30 dollars and 85 million pounds, so the pound appreciates by 8.3%." loading="lazy">
+  <figcaption>A floating exchange rate is a price: more demand for pounds raises it from 1.20 to 1.30 dollars, an 8.3% appreciation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--04-pound-market-demand-rise.webp" width="900" height="760" alt="Exchange rate diagram with dollars per pound on the vertical axis and millions of pounds traded a day on the horizontal axis. Supply S and demand D1 cross at 1.20 and 70 million. Demand rises by 30 million at every rate to D2, which crosses S at 1.30 and 85 million, an 8.3% appreciation." loading="lazy">
+  <figcaption>Higher demand for pounds moves the equilibrium from 1.20 to 1.30 dollars per pound.</figcaption>
+</figure>
+
+
 ### Analysing exchange rate data
 
 Illustrative annual averages of dollars per pound:
@@ -102,6 +119,12 @@ After the appreciation the cake costs 28% more in dollars. How much sales fall d
 **Chain of reasoning for an appreciation:** the pound buys more foreign currency, so exports are dearer abroad, so quantity sold falls (by more if demand is elastic), so exporters' revenue and jobs are at risk. Imports are cheaper, so importers, firms using imported inputs and consumers gain, and holidays abroad are cheaper. A depreciation reverses each step.
 
 **Evaluation:** judge the effect by (1) elasticity of demand for exports, (2) how much of a firm's costs are imported, (3) the size and speed of the change, (4) how long it lasts, and (5) whether rivals' currencies moved too. Exporters facing elastic demand and using few imported inputs gain most from depreciation, because the lower foreign price brings a larger rise in sales. Consumers who buy many imports lose from it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--02-fx-bakery-rates.webp" width="900" height="1130" alt="Two sets of bars for a bakery at exchange rates of 1.00, 1.25 and 1.60 dollars per pound. An 8 pound cake costs 8, 10 and 12.80 dollars abroad, so the appreciation to 1.60 makes it 28% dearer. The flour bill for 20 tonnes at 500 dollars a tonne is 10,000, 8,000 and 6,250 pounds. A higher pound makes exports dearer abroad and imports cheaper at home." loading="lazy">
+  <figcaption>When the pound rises the bakery cake costs more overseas but its imported flour costs less.</figcaption>
+</figure>
+
 
 ## 4.4 Globalisation and development
 
@@ -132,6 +155,22 @@ Life expectancy shows health. Doctors per 1,000 people shows access to health ca
 
 **Limits:** GDP per capita is a mean. Five households earn 1,000, 1,200, 1,500, 1,800 and 9,500 dollars a month: the mean is 3,000 dollars but the median is 1,500. It also leaves out unpaid work, informal activity, pollution and how fairly income is shared, and countries with equal GDP per capita can differ greatly in health and schooling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--03-dev-indicators.webp" width="900" height="1070" alt="Paired bars for Country X and Country Y on five indicators from the lesson: GDP per capita 9,000 against 3,000 dollars, life expectancy 74 against 63 years, doctors per 1,000 people 2.4 against 0.5, internet users per 100 people 70 against 22, and years of schooling 10.2 against 5.1. Each indicator is drawn to its own scale, with Country X as the full bar." loading="lazy">
+  <figcaption>Country X leads on every indicator, but the gaps in health, technology and schooling differ from the income gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--05-mean-vs-median-income.webp" width="900" height="850" alt="A number line of monthly household income in dollars with five households at 1,000, 1,200, 1,500, 1,800 and 9,500. The median, the middle household, is 1,500. The mean is 3,000 because the 9,500 household pulls it upwards." loading="lazy">
+  <figcaption>One very high income pulls the mean up to 3,000 dollars while the typical household earns 1,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ### Costs and benefits of globalisation
 
 | | Benefits | Costs |
@@ -152,6 +191,12 @@ Life expectancy shows health. Doctors per 1,000 people shows access to health ca
 - **Environmental:** longer transport adds emissions, and rapid factory growth can bring pollution and resource use. Cleaner technology can help.
 
 **Evaluation:** conclude on who gains most and who loses, and say what it depends on: the pace of change, whether governments retrain workers and enforce standards, the type of goods traded, and the time period. A good judgement is that gains are often spread widely while costs fall on specific groups and places, so policy matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--04-offshoring-shirt.webp" width="900" height="950" alt="Two stacked bars of cost per shirt. Made at home it costs 14.00 pounds: labour 6.00, materials 5.00 and overheads 3.00. Made offshore it costs 10.50 pounds: labour 1.80, materials 5.00, overheads 2.20 and transport plus import tax 1.50. The saving is 3.50 pounds a shirt, 25%, or 700,000 pounds on 200,000 shirts." loading="lazy">
+  <figcaption>Moving production abroad cuts the shirt cost from £14.00 to £10.50, mainly through lower labour cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

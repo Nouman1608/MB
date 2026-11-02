@@ -52,6 +52,22 @@ The mix is Product, Price, Promotion, Place (distribution channels). The skill i
 
 **Differentiation supports** a higher price and loyalty, but only if customers notice and value the difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--01-boston-kestrel-hollow.webp" width="900" height="934" alt="A chart of market growth against relative market share (log scale). Trailrunner e-bike (19% growth, 24 over 12 = 2.00) is a star, Commuter Classic (3%, 31 over 15 = 2.07) a cash cow, Folding Pocket (16%, 6 over 18 = 0.33) a question mark and Kids Starter (2%, 5 over 20 = 0.25) a dog, with growth above 10% taken as high." loading="lazy">
+  <figcaption>Kestrel Hollow Cycles products placed on the Boston Matrix using relative share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--02-plc-growth-rates.webp" width="900" height="828" alt="Annual sales of 40, 95, 160, 205, 208, 190 and 150 thousand units with growth of +137.5%, +68.4%, +28.1%, +1.5%, -8.7% and -21.1%. Growth slowing to 1.5% marks maturity and the falls mark decline; a travel tin at the first fall is an extension strategy." loading="lazy">
+  <figcaption>Growth rates show which life cycle stage the product has reached.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--04-tangible-intangible-usp.webp" width="900" height="850" alt="An iceberg: the tin and single-estate leaves are tangible above the waterline; reputation for fair pricing to growers, brand image and status are intangible below it. A star marks the USP, a freshness date on every tin." loading="lazy">
+  <figcaption>Customers buy a bundle of tangible and intangible attributes; a USP must be noticed and valued.</figcaption>
+</figure>
+
+
 ## 3.3.3 Product life cycle and extension strategies
 
 Stages: (development) then introduction, growth, maturity, decline.
@@ -69,6 +85,12 @@ Stages: (development) then introduction, growth, maturity, decline.
 1. Work out the percentage change in sales each period.
 2. Look for growth slowing (maturity) or turning negative (decline).
 3. Link the stage to a sensible response, then check what the case says about costs and competitors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
 
 ## 3.3.3 Boston Matrix
 
@@ -92,6 +114,12 @@ Standard form of relative market share: own share divided by the share of the la
 
 **Worked reminder.** A product has 8% of a market where the largest rival has 16%: relative share is 8 / 16 = 0.5. In a market growing 14% a year, it is a question mark. In a market growing 2%, it is a dog.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
+
 ## 3.3.4 Pricing methods
 
 | Method | Remember it as | Best when | Watch out |
@@ -114,6 +142,22 @@ Brindle Wharf Audio pays £62 for a speaker. A 30% mark-up gives £80.60; a 50% 
 
 **Choosing a method: three questions.** What is the objective (profit, share, survival, image)? How do customers react to price? What are rivals likely to do?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--01-skimming-v-penetration.webp" width="900" height="914" alt="Rectangles show profit per unit times units sold for skimming at 120 pounds (65 x 1,000 = 65,000) and penetration at 80 pounds (25 x 2,800 = 70,000). Penetration earns 5,000 more but needs capacity for 2,800 units." loading="lazy">
+  <figcaption>Profit is the area: skimming earns 65,000 pounds, penetration 70,000 on higher volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--03-chutney-three-methods.webp" width="900" height="690" alt="Bars show a cost of 3.20 pounds plus a 45% mark-up of 1.44 (31.0% of the price) giving 4.64, a rival at 4.50 and the chosen 4.49, which combines cost-plus, competitive and psychological pricing." loading="lazy">
+  <figcaption>One jar price, 4.49 pounds, combines cost-plus, competitive and psychological pricing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+
 ## 3.3.5 Promotion methods
 
 | Method | Objective | Use | Limit |
@@ -129,6 +173,12 @@ Brindle Wharf Audio pays £62 for a speaker. A 30% mark-up gives £80.60; a 50% 
 
 **Buy 2 get 1 free.** The customer pays for two items and gets three, so each costs two-thirds of the normal price (one-third off).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--03-cost-per-customer.webp" width="900" height="830" alt="Dot pictograms (1 dot = 5 customers) show a leaflet drop winning 90 customers for 1,800 pounds (20 each) and social media winning 125 for 1,500 pounds (12 each). Cheaper per customer says nothing about quality or loyalty." loading="lazy">
+  <figcaption>Social media cost 12 pounds a customer against 20 for leaflets.</figcaption>
+</figure>
+
+
 ## 3.3.6 Place
 
 Channels: direct; via retailer; via wholesaler then retailer.
@@ -142,6 +192,22 @@ Channels: direct; via retailer; via wholesaler then retailer.
 **Digital v physical:** physical suits products customers want to see, try or take away now; digital widens reach and works for digital goods, but means delivery, returns and site costs. Many businesses use both.
 
 **Retailer margin reminder.** A retailer buys at £40 and sells at £65: margin £25, or 38.5% of the selling price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--02-channel-margin.webp" width="900" height="872" alt="Two bars split an 8.40 pound tin. Online the producer keeps 6.50 after 1.90 of delivery and payment costs; via a retailer it receives 5.60 and the retailer keeps 2.80 (33.3%). On 1,000 tins that is 6,500 against 5,600, 900 less." loading="lazy">
+  <figcaption>Selling direct keeps more per tin, but a retailer may deliver far more customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

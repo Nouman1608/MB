@@ -65,6 +65,12 @@ Going down the group:
 3. So the bonding pair is further from the nucleus and is attracted less strongly, even though the
    nuclear charge increases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+
 ## Boiling points
 
 | Element | Formula | State at room temperature | Electrons per molecule | Boiling point / °C |
@@ -86,6 +92,12 @@ Boiling point **increases** down the group.
 - More energy is needed to overcome them, so iodine boils at a higher temperature.
 
 The I–I covalent bond is **not** broken when iodine boils. Only the forces between molecules are overcome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
 
 ## Oxidising ability and displacement
 
@@ -115,6 +127,12 @@ Oxidation:        2I⁻ → I₂ + 2e⁻
 
 Bromine is the oxidising agent, iodide ions are the reducing agent and potassium ions are spectators.
 Iodine cannot oxidise bromide ions, so I₂ added to KBr(aq) shows no reaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--07-halogen-displacement.webp" width="900" height="1110" alt="A three by three grid of tubes shows each halogen with KCl, KBr and KI; displacement occurs only when the added halogen is more reactive. A lower panel shows chlorine pale green, bromine orange and iodine violet in cyclohexane (OCR and Edexcel)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halide; in cyclohexane the halogens are pale green, orange and violet (OCR, Edexcel).</figcaption>
+</figure>
+
 
 ## Reducing ability of halide ions
 
@@ -153,6 +171,17 @@ Step 6  add:                     H₂SO₄ + 8H⁺ + 8I⁻ → H₂S + 4I₂ + 4
 ```
 
 Check: sulfur goes from +6 to −2, a gain of 8 electrons, matching 8 iodide ions each losing one electron.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--08-halides-sulfuric-acid.webp" width="900" height="1075" alt="Tubes of NaCl, NaBr and NaI with concentrated sulfuric acid, beside a scale of sulfur oxidation number. Chloride leaves sulfur at +6, bromide reduces it to +4 (SO2), iodide reduces it to +4, 0 and minus 2 (SO2, S, H2S)." loading="lazy">
+  <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
+</figure>
+
 
 ## Identifying halide ions with silver nitrate
 
@@ -199,6 +228,12 @@ x = 80.2
 
 Ar(X) ≈ 80, so X is **bromine**, and the precipitate would be cream.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
+</figure>
+
+
 ## Chlorine and water
 
 Chlorine reacts with water in a reversible reaction to form chloride and chlorate(I) ions:
@@ -226,6 +261,17 @@ its toxic effects, because it prevents water-borne diseases.
 More generally, society weighs advantages and disadvantages before adding any chemical to a water supply.
 Sodium fluoride is one example: it is added in some areas to reduce tooth decay, but people disagree over
 adding a substance to everyone's water without individual consent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
 
 ## Chlorine and cold, dilute sodium hydroxide
 
@@ -258,6 +304,12 @@ mass    = 0.200 × 74.5 = 14.9 g
 | CO₃²⁻ | add dilute acid; bubble gas through limewater | effervescence; limewater turns cloudy |
 | SO₄²⁻ | add acidified BaCl₂(aq) | white precipitate |
 | Halide ions | add dilute HNO₃ then AgNO₃(aq); then NH₃(aq) | white, cream or yellow precipitate, as above |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
 
 ## Common errors
 

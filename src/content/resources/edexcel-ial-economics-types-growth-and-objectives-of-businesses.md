@@ -47,6 +47,12 @@ A **co-operative** is owned and controlled by its members, who may be workers, c
 
 A **joint venture** is a project or new firm created by two or more businesses that share costs, risks, expertise and profit. It suits entry to an unfamiliar market. The risks are conflicts over control, clashing cultures and sharing the rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--09-business-types-surplus.webp" width="900" height="932" alt="Six rows show private sector, state-owned, for-profit, not-for-profit, co-operative and joint venture, each with who owns it and where the surplus or aim points." loading="lazy">
+  <figcaption>Types of business differ in who owns them and where any surplus goes.</figcaption>
+</figure>
+
+
 ## 2. Size and growth
 
 **SMEs** (small and medium-sized enterprises) are measured in different countries by employees, turnover or assets, so always state the measure you use. **Large corporations** have more employees and higher turnover, and often have market power and access to capital markets.
@@ -103,6 +109,32 @@ The outcome depends on whether savings are passed on, how strong competition rem
 
 A demerger separates a firm into independent businesses, by selling or floating parts. **Reasons:** diseconomies of scale, loss of focus on core activities, raising cash, releasing value from undervalued assets, or a regulator's demand. **Impact:** businesses gain focus and the parts may be valued more highly, but lose scale economies. Workers face uncertainty and redundancies, or may gain from closer management. Consumers may gain from better service, or lose if prices rise and ranges shrink.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--02-ial-merger-types.webp" width="900" height="900" alt="A bakery in a supply chain: buying the flour mill is backward vertical (saves 280,000 a year), the shop chain forward vertical (keeps the 10 retail margin), a rival bakery horizontal (30% + 20% = 50% share) and a travel agent conglomerate (profit steady)." loading="lazy">
+  <figcaption>The four merger types show who buys whom along the supply chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--10-growth-sums.webp" width="900" height="760" alt="Left: revenue rises from 4.0m to 4.6m, a 15% rise. Right: shares at 2.40 and a bid of 3.12 give a 30% premium; for 5m shares, 12.0m becomes 15.6m, an extra 3.6m." loading="lazy">
+  <figcaption>Organic growth is a percentage rise; a takeover premium is the extra paid over market value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--11-growth-constraints.webp" width="900" height="906" alt="Bars grow until they meet a dashed limit. Four constraints: size of market, access to finance, owner objectives and regulation." loading="lazy">
+  <figcaption>Four things can stop a firm growing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--12-growth-impact.webp" width="900" height="750" alt="Gains and losses from growth for businesses, workers and consumers, with the outcome depending on savings passed on, competition and the regulator." loading="lazy">
+  <figcaption>Growth brings gains and losses to businesses, workers and consumers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--13-demerger-split.webp" width="900" height="920" alt="Five reasons feed into one firm splitting into Business A and Business B. Gains: focus and higher valuation of parts. Loss: economies of scale." loading="lazy">
+  <figcaption>A demerger trades scale economies for focus.</figcaption>
+</figure>
+
+
 ## 3. Business objectives
 
 Economists often assume profit maximisation, but real firms vary.
@@ -137,6 +169,22 @@ Revenue is greatest where price elasticity of demand is exactly 1, because MR = 
 In large firms, ownership and control are separated. Shareholders (principals) own the firm. Managers (agents) run it and know more than owners do (asymmetric information). Managers may pursue pay, status or growth rather than profit.
 
 *Worked example.* A manager is paid 2% of revenue. At the profit-maximising output the bonus is 2% × £504k = **£10,080**. At the revenue-maximising output it is 2% × £600k = **£12,000**. The manager prefers revenue, although owners lose £244k − £100k = **£144k** of profit. Fixes: link pay to profit or share price, give share options, use independent directors and audits, and rely on takeover threat. Each has limits: monitoring is costly, and profit-linked bonuses can encourage short-termism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--01-ial-three-objectives.webp" width="900" height="1010" alt="Bakery with AR = 120 - 6Q, MR = 120 - 12Q, MC = 12 + 6Q, AC = 80/Q + 12 + 3Q. MC cuts MR at Q = 6 (price 84) for profit maximisation, MR = 0 at Q = 10 (price 60) for revenue maximisation, and AR meets AC at Q = 11.2 (price 52.8) for sales volume maximisation." loading="lazy">
+  <figcaption>Profit, revenue and sales maximisation give three different outputs on one diagram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--03-ial-profit-satisficing.webp" width="900" height="950" alt="Profit curve 108Q - 9Q^2 - 80 peaks at 244 at Q = 6, is 100 at Q = 10 and zero at Q = 11.2. A gold band for Q = 3.8 to 8.2 marks profit of at least 200." loading="lazy">
+  <figcaption>A satisficing manager can pick any output where profit meets the owners minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--04-ial-principal-agent.webp" width="900" height="1000" alt="Owners earn 244 thousand pounds at Q = 6 but 100 thousand at Q = 10. A manager paid 2% of revenue earns 10,080 at Q = 6 and 12,000 at Q = 10, so prefers Q = 10 while owners lose 144 thousand." loading="lazy">
+  <figcaption>A revenue-linked bonus pulls the manager away from the owners profit.</figcaption>
+</figure>
+
 
 ## Common errors
 

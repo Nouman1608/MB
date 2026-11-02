@@ -51,6 +51,17 @@ These notes condense all four outcomes of section 6.4 of the Cambridge O Level E
 
 Country V, one illustrative year: goods in 310, out 275; services in 60, out 85; primary income in 18, out 40; secondary income in 30, out 12. Balances: +35, -25, -22, +18. Total: 35 - 25 - 22 + 18 = **+6**, a small surplus. Goods and services alone: 35 - 25 = +10. With GDP of 480, the surplus is 6 ÷ 480 × 100 = **1.25%** of GDP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--01-ca-four-components.webp" width="900" height="800" alt="Country K: goods -90, services +42, primary income -22, secondary income +14 give a deficit of 56 million zel, 2.0% of GDP. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Waterfall of the four component balances for Country K, then the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## 6.4.2 Causes
 
 | Deficit | Surplus |
@@ -88,6 +99,27 @@ If PED for exports is 0.5, quantity falls 0.5 × 25 = 12.5%. Revenue in marn: 1.
 
 Rule: with **elastic** demand, cutting the price lifts revenue. With **inelastic** demand, cutting it lowers revenue, while raising it lifts revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--02-ca-currency-fall-goods.webp" width="900" height="810" alt="With export PED 1.5 and import PED 0.4, a 20% fall in the zel lifts exports to 546 and imports to 573.75, so the goods deficit narrows from 90 to 27.75. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Before and after bars for goods exports and imports when the zel falls 20%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--06-deflation-spending-cut.webp" width="900" height="630" alt="A 60 million cut splits into 12 million on imports (20 percent) and 48 million on home output; output and jobs also fall." loading="lazy">
+  <figcaption>Only a fifth of the cut lands on imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--09-imported-flour-cost-push.webp" width="900" height="865" alt="Costs of 100 include flour 35. A 25 percent flour rise adds 8.75, so costs reach 108.75." loading="lazy">
+  <figcaption>A falling currency can cause cost-push inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## 6.4.4 Policies
 
 | Policy | Mechanism | Strength | Weakness |
@@ -104,6 +136,12 @@ Worked reminder (tariff): imports of 500 units at 40 zel with a 15% tariff cost 
 Conflicts to mention (syllabus 4.2.2): economic growth against balance of payments stability, and full employment against balance of payments stability. Policies that cut a deficit by cutting demand work against both aims.
 
 **Evaluation checklist:** cause of the deficit, size, PED, time lags, retaliation, side effects, then a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -141,6 +179,12 @@ Conflicts to mention (syllabus 4.2.2): economic growth against balance of paymen
 10. Quantity +16%. Revenue: 0.90 × 1.16 = 1.044, so **+4.4%**.
 11. It lowers output and employment, and may cut growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--07-reserves-run-out.webp" width="900" height="910" alt="Reserves fall 130, 90, 50, 10 and reach zero at 3.25 years." loading="lazy">
+  <figcaption>Reserves of 130 last 3.25 years at 40 a year.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Reporting a component balance with the wrong sign.
@@ -151,6 +195,12 @@ Conflicts to mention (syllabus 4.2.2): economic growth against balance of paymen
 - Treating the tariff as money paid to the foreign seller.
 - Listing policies with no judgement of how effective they might be.
 - Calling every deficit harmful without discussing cause and size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--05-tariff-where-money-goes.webp" width="900" height="890" alt="Before: 80,000 to foreign sellers. After: 85,000 paid, of which 68,000 to foreign sellers and 17,000 to the government. Foreign sellers receive 12,000 less." loading="lazy">
+  <figcaption>The tariff goes to the government, not the foreign seller.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

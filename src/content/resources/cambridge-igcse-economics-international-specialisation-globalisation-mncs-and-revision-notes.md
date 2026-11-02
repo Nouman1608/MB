@@ -38,6 +38,12 @@ These notes condense sections 6.1.1, 6.1.2 and 6.2.1 to 6.2.3 of the Cambridge I
 | Host country | A country where the MNC operates but is not based |
 | Free trade | Trade between countries with no government barriers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--08-specialise-and-trade.webp" width="900" height="1090" alt="Paired bars compare before and after specialisation. World grain rises from 35 to 40 and textiles from 25 to 30. After trade at 1.5 tonnes per textile, A has 22 grain and 12 textiles instead of 20 and 10, and B has 18 and 18 instead of 15 and 15." loading="lazy">
+  <figcaption>Specialising and trading leaves each country with more of both goods.</figcaption>
+</figure>
+
+
 ## 6.1.1 Basis of specialisation
 
 Two broad reasons, either or both:
@@ -50,6 +56,12 @@ Two broad reasons, either or both:
 1. Opportunity cost of good X = output of Y given up ÷ output of X gained.
 2. The country with the lower opportunity cost of X should make X.
 3. Gains need a trading ratio between the two countries' opportunity costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--07-trading-ratio-band.webp" width="900" height="700" alt="A number line shows the grain given up per textile: B gives up 1 tonne and A gives up 2 tonnes. The range between 1 and 2 is shaded because both countries gain there; the lesson example trades at 1.5." loading="lazy">
+  <figcaption>Both countries gain only if the trading ratio lies between the two opportunity costs.</figcaption>
+</figure>
+
 
 ### Worked reminder
 
@@ -76,11 +88,33 @@ Fixed cost 300,000, variable cost 11 per unit. At 20,000 units, total cost = 300
 
 Country K exports 500 million units a year, of which one crop is 300 million. The crop price falls 30% and volumes stay the same. Crop earnings = 300 × 0.70 = 210 million. Total exports = 500 − 90 = 410 million. Total export earnings fall by 90 ÷ 500 × 100 = **18%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--09-unit-cost-bigger-market.webp" width="900" height="930" alt="Two stacked bars of average cost. At 40,000 units, fixed cost per unit is 10 plus variable cost 7, giving 17. At 160,000 units the fixed share is 2.50, giving 9.50, a 44.1% fall." loading="lazy">
+  <figcaption>Spreading fixed costs over more units lowers average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--05-one-export-risk.webp" width="900" height="920" alt="A bar for GDP of 160 million. The crop earns 40 million (25 percent of GDP). A 20 percent price fall to 64 cuts earnings to 32 million, a loss of 8 million, which is 5 percent of GDP." loading="lazy">
+  <figcaption>One export makes a price fall hit the whole economy.</figcaption>
+</figure>
+
+
 ## 6.2.1 Globalisation
 
 - Definition: growing integration and interdependence of economies.
 - Flows that link countries: goods and services, capital, labour, technology, information.
 - Trade as % of GDP = (exports + imports) ÷ GDP × 100. Example: (25 + 31) ÷ 140 × 100 = 40%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--06-trade-share-gdp.webp" width="900" height="870" alt="Bars show exports plus imports against GDP as 100 percent. Year 1: (36 + 44) divided by 200 is 40 percent. Year 2: (90 + 105) divided by 300 is 65 percent." loading="lazy">
+  <figcaption>A rising trade share shows greater dependence on trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--07-globalisation-five-links.webp" width="900" height="910" alt="A central circle labelled linked economies is joined by two-way arrows to five boxes: goods and services, capital, labour, technology and information." loading="lazy">
+  <figcaption>Globalisation covers more than trade.</figcaption>
+</figure>
+
 
 ## 6.2.2 MNCs
 
@@ -93,6 +127,12 @@ Country K exports 500 million units a year, of which one crop is 300 million. Th
 
 An MNC earns 50 million after tax in the host country and sends 70% home. Sent home = 0.70 × 50 = 35 million. Kept in the host = 15 million.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--10-mnc-money-flow.webp" width="900" height="860" alt="Revenue of 150 million splits into 86 that stays in the host country (wages 18, local suppliers 30, other local costs 22, tax 10, profit kept 6) and 64 that leaves (imported parts 40, profit sent home 24)." loading="lazy">
+  <figcaption>Most of an MNC factory's revenue can stay in the host country, but part always leaves.</figcaption>
+</figure>
+
+
 ## 6.2.3 Benefits of free trade
 
 - **Consumers:** lower prices, choice, quality.
@@ -101,6 +141,12 @@ An MNC earns 50 million after tax in the host country and sends 70% home. Sent h
 - **Variety of countries:** small economies reach bigger markets; resource-poor countries import what they lack; developing countries sell primary exports; advanced economies sell high-value goods.
 
 Price effect example: price falls from 40 to 32, so change = (32 − 40) ÷ 40 × 100 = **−20%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and--08-free-trade-bicycle.webp" width="900" height="1030" alt="A graph of price against bicycles bought. The price falls from 120 to 90 (down 25 percent) and sales rise from 50,000 to 65,000 (up 30 percent). Spending changes from 6,000,000 to 5,850,000." loading="lazy">
+  <figcaption>Consumers buy 30% more bicycles for slightly less money.</figcaption>
+</figure>
+
 
 ## Evaluation chains to learn
 

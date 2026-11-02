@@ -67,6 +67,12 @@ Its purposes:
 - It supplies the figure for trade receivables or trade payables that goes into the statement of financial position.
 - It is useful for finding a **missing figure**, such as credit sales, when the other totals are known.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
+
 ## Where each entry comes from
 
 Control accounts are built from totals of the books of prime entry, not from the individual customer or supplier accounts.
@@ -86,6 +92,17 @@ Control accounts are built from totals of the books of prime entry, not from the
 
 Cash discount is different from trade discount. Trade discount is deducted on the invoice, so it never appears in a control account; only the net invoice value is in the sales or purchases journal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--12-trade-cash-discount-control.webp" width="900" height="1040" alt="Illustrative numbers: list price 2,000 less 10 percent trade discount 200 gives an invoice of 1,800, so the trade discount is never recorded. Paying 1,764 with a cash discount of 36 credits the control account 1,764 plus 36 = 1,800." loading="lazy">
+  <figcaption>Only the cash discount reaches the control account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
+
 ## The two layouts
 
 **The rule.** A customer normally owes you, so the sales ledger control account normally has a debit balance. A supplier is normally owed by you, so the purchases ledger control account normally has a credit balance. Increases go on the side of the normal balance. Decreases go on the other.
@@ -98,6 +115,12 @@ Cash discount is different from trade discount. Trade discount is deducted on th
 **Refunds.** If a customer has a credit balance and you pay them back, you debit the sales ledger control account, which removes the credit balance. If a supplier has a debit balance and refunds you, you credit the purchases ledger control account.
 
 **Dishonoured cheques.** A customer's cheque that the bank will not pay means the customer still owes you, so you debit the sales ledger control account. If your own cheque to a supplier is dishonoured, you still owe the supplier, so you credit the purchases ledger control account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--06-control-mirror.webp" width="900" height="970" alt="Two columns show that the sales ledger control account normally has a debit balance and the purchases ledger control account a credit balance, with each item on the mirror-image side." loading="lazy">
+  <figcaption>Increases go on the normal-balance side; the purchases account is the mirror of the sales account.</figcaption>
+</figure>
+
 
 ## Worked example 1: sales ledger control account
 
@@ -127,6 +150,12 @@ Brackenfell Paints sells on credit. For March the books of prime entry give thes
 
 Method: add the debit side (61,130). Add the known credit items (40,770). The difference, 20,360, is the closing debit balance, which is the trade receivables figure. The balances brought down next period are debit 20,360 and credit 90.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--07-sales-control-brackenfell.webp" width="900" height="934" alt="A balanced sales ledger control account for Brackenfell Paints with both debit and credit opening and closing balances. Debit total 61,130 minus known credits 40,770 gives the closing debit balance 20,360, the trade receivables figure." loading="lazy">
+  <figcaption>The closing receivables figure is the balancing item once all other entries are in.</figcaption>
+</figure>
+
+
 ## Worked example 2: purchases ledger control account
 
 Hollinger Timber buys on credit. For June the totals are:
@@ -153,6 +182,12 @@ Hollinger Timber buys on credit. For June the totals are:
 
 Method: add the credit side (81,170), add the known debit items (51,960), and the balancing figure, 29,210, is the closing credit balance. That is the trade payables figure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--10-hollinger-purchases-control.webp" width="900" height="848" alt="Purchases ledger control account totalling 81,170 each side, with closing credit balances 29,210 as the balancing figure: 81,170 less known debits 51,960." loading="lazy">
+  <figcaption>Trade payables of 29,210 are found by balancing.</figcaption>
+</figure>
+
+
 ## Worked example 3: finding a missing figure
 
 Marwick Tools has opening trade receivables of 9,600. During the month it received 31,800 from customers, allowed discounts of 560, accepted returns of 940 and wrote off 300 as irrecoverable. Closing trade receivables are 11,250. Find credit sales.
@@ -165,6 +200,12 @@ Credit sales go on the debit side, so they are the balancing figure.
 
 You can use the same method for any one missing item. Put in every known figure, total the side with more information, and find the difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--08-missing-credit-sales.webp" width="900" height="830" alt="Marwick Tools control account: credits total 44,850 (receipts 31,800, discount 560, returns 940, irrecoverable 300, closing balance 11,250). Credit sales are 44,850 minus the opening 9,600, which is 35,250." loading="lazy">
+  <figcaption>Credit sales are the balancing figure when all other items are known.</figcaption>
+</figure>
+
+
 ## Digital recording
 
 Many businesses record transactions in accounting software. The syllabus asks about the effect on preparing and using control accounts.
@@ -172,6 +213,12 @@ Many businesses record transactions in accounting software. The syllabus asks ab
 - **Preparation.** The software adds up the journals and ledger postings itself, so the control account can be produced automatically at any date. Totals are faster and arithmetic mistakes are rarer. You may see a control account as a system report rather than something you build by hand.
 - **Use.** Up-to-date totals of trade receivables and trade payables are available whenever managers need them, for example before chasing overdue accounts or deciding on a supplier payment.
 - **Limits.** The software cannot tell whether the data entered is right. A wrong amount, a wrong customer or a missed document still produces a control account that looks complete. Access controls, passwords and backups matter because anyone who can change the data can change the totals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--11-digital-control-accounts.webp" width="900" height="1090" alt="Journals and the cash book feed software that totals them into a control account report at any date, used to chase overdue accounts and decide supplier payments. A wrong amount typed in still gives a complete-looking report, so passwords, access controls and backups matter." loading="lazy">
+  <figcaption>Software builds totals fast but cannot check the data.</figcaption>
+</figure>
+
 
 ## Common errors
 

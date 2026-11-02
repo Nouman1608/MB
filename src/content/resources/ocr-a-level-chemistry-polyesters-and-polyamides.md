@@ -60,6 +60,12 @@ In **addition polymerisation** (4.1.3(j)), monomers with a C=C bond join as the 
 
 Acyl chlorides are far more reactive than carboxylic acids, and they esterify phenols, which carboxylic acids do not readily do (6.1.3(f)). So a diol with both –OH groups on a benzene ring needs a diacyl chloride partner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+
 ## 6.2.3(a)(i): Forming polyesters
 
 ### Worked example 1: diacid plus diol
@@ -94,6 +100,12 @@ Benzene-1,4-diol, HO–C₆H₄–OH, has both –OH groups on the ring, so it b
 - Repeat unit: **–[O–(CH₂)₄–CO]–**, made from one monomer.
 - Equation: n HO–(CH₂)₄–COOH → –[O–(CH₂)₄–CO]ₙ– + (n − 1) H₂O
 - Check: monomer C₅H₁₀O₃ (Mr 118.0) minus H₂O (18.0) gives repeat unit C₅H₈O₂ (Mr 100.0).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
 
 ## 6.2.3(a)(ii): Forming polyamides
 

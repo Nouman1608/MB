@@ -69,6 +69,12 @@ Using revenue = price × quantity and total cost = total fixed costs + total var
 
 Design B has better function (it keeps drinks cold) and aesthetics, but its higher cost and price reduce expected sales, so profit is £530 lower. Design B could still be the better choice if the finish builds a brand. A strong answer uses the numbers, then weighs non-financial points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--01-design-mix-kestrow.webp" width="900" height="880" alt="Two sets of bars compare Kestrow Bottles design A and B. A has revenue 10,800, total cost 7,680 and profit 3,120 pounds. B has revenue 10,400, total cost 7,810 and profit 2,590 pounds, so B earns 530 pounds less." loading="lazy">
+  <figcaption>Higher cost and price cut sales, so the better-looking design B earns £530 less profit.</figcaption>
+</figure>
+
+
 ## 2. Differentiating a product or service (2.2.1)
 
 Differentiation means making a product or service different from rivals' in a way customers notice and value, such as a feature, design, quality, service, convenience or brand image.
@@ -118,6 +124,17 @@ Percentage change = change ÷ original × 100. This is the standard form, and pe
 
 Year 1 is introduction, years 2 to 4 growth (large rises), years 5 and 6 maturity (sales flat), and years 7 and 8 decline (sharp falls). The boundaries are a judgement, so quote the figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--02-plc-from-sales-veradyne.webp" width="900" height="880" alt="A line chart of Veradyne Audio sales over eight years with bands for introduction, growth, maturity and decline. Percentage changes on the previous year run +275, +180, +62, +3, -1, -26 and -41 percent (rounded)." loading="lazy">
+  <figcaption>Sales data and percentage changes show which life cycle phase a product is in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## 4. Extension strategies (2.2.1)
 
 An extension strategy is an action that keeps a product's sales up and lengthens its life, usually as sales begin to fall. Common methods:
@@ -140,6 +157,12 @@ Contribution per unit = selling price − variable cost = 40 − 24 = £16. Cont
 - Net gain: 33,600 − 15,000 = **£18,600**.
 
 The extension looks worthwhile on these figures. A balanced answer adds that the 5,100 is a forecast, so the real gain could be lower.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--03-extension-worth-it.webp" width="900" height="860" alt="Bars show extra contribution of 33,600 pounds (2,100 units at 16 pounds) against an extension cost of 15,000 pounds, leaving a net gain of 18,600 pounds. The 5,100 units is a forecast." loading="lazy">
+  <figcaption>The extension earns £33,600 extra contribution for a £15,000 cost: net gain £18,600.</figcaption>
+</figure>
+
 
 ## 5. Pricing strategies (2.2.2)
 
@@ -169,6 +192,27 @@ Cost-plus ignores what customers will pay and what rivals charge. If a rival sel
 ### Worked example 5: penetration against skimming
 
 Thornick Labs launches a desk lamp that costs £90 a unit to make. If it skims at £220, it expects 500 sales a month, a total contribution of 500 × (220 − 90) = £65,000. If it later lowers the price to £140, it expects 1,400 sales: 1,400 × (140 − 90) = £70,000. Skimming works here because early buyers pay a high price and the later cut opens up a larger market. Penetration would start low to win share sooner, but the profit on each unit would be lower from the start.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--04-cost-plus-scone.webp" width="900" height="780" alt="A unit cost of 1.80 pounds plus a 60 percent mark-up of 1.08 pounds gives 2.88 pounds. A price line shows a rival at 2.40 pounds and a psychological price of 2.99 pounds with 1.19 pounds profit a scone." loading="lazy">
+  <figcaption>Cost-plus gives £2.88, which is £0.48 above a rival at £2.40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--05-skimming-lamp.webp" width="900" height="904" alt="Rectangles show contribution per unit times sales. Skimming at 220 pounds gives 500 times 130, 65,000 pounds. Cutting later to 140 pounds gives 1,400 times 50, 70,000 pounds." loading="lazy">
+  <figcaption>Skimming then cutting the price lifts total contribution from £65,000 to £70,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-product-and-price-decisions--06-segment-pricing-cafe.webp" width="900" height="810" alt="Revenue bars: two segment prices give 520 plus 630, 1,150 pounds. One price of 6.50 with only 40 students gives 780 pounds. One price of 4.50 with all 220 customers gives 990 pounds." loading="lazy">
+  <figcaption>Pricing for each segment (£1,150) beats either single price (£780 or £990).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
 
 ## 6. Influences on pricing strategies (2.2.2)
 

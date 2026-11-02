@@ -59,6 +59,12 @@ Domain 1 ≤ x ≤ 8                                   →  least 4, greatest f(
 
 Restricting the domain can change the range.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+
 ## Composite functions
 
 ```
@@ -70,6 +76,22 @@ Reminder: f(x) = 3x − 5 and g(x) = x² + 2 give fg(x) = 3x² + 1 and gf(x) = 9
 * The output of g must lie in the domain of f.
 * To find the domain of fg, ask which x make g(x) a legal input for f.
 * Reminder: f(x) = √(x − 1) and g(x) = x² − 10 give fg(x) = √(x² − 11), which needs x ≤ −√11 or x ≥ √11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
+  <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--03-fg-not-gf.webp" width="900" height="890" alt="With f(x) = 3x - 5 and g(x) = x squared + 2, fg(x) = 3x squared + 1 and gf(x) = (3x - 5) squared + 2 are different curves. They meet only at x = (15 - root 69)/6, about 1.12, and x = (15 + root 69)/6, about 3.88." loading="lazy">
+  <figcaption>Composing in a different order gives a different function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--04-composite-domain.webp" width="900" height="780" alt="f(x) = root(x - 1) needs its input to be at least 1. g(x) = x squared - 10 gives an output of at least 1 only when x is at most minus root 11 or at least root 11, so fg has that domain. The graph of g is solid only where g(x) is at least 1." loading="lazy">
+  <figcaption>A composite is only defined where the inner function gives an output the outer function accepts.</figcaption>
+</figure>
+
 
 ## Inverse functions
 
@@ -100,6 +122,12 @@ Worked reminder: f(x) = x² − 10x + 29, x ≥ 6 gives f⁻¹(x) = 5 + √(x �
 
 For a decreasing branch, such as x ≤ 5 in the same quadratic, you would take the negative root: f⁻¹(x) = 5 − √(x − 4), with x ≥ 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--05-inverse-reflection.webp" width="900" height="980" alt="The curve f(x) = 3 - root(x + 1) for x at least -1 and its inverse f^-1(x) = (3 - x) squared - 1 for x at most 3 are mirror images in the line y = x. Point (8, 0) on f becomes (0, 8) on the inverse and the end point (-1, 3) becomes (3, -1). The domain of the inverse is the range of f and vice versa." loading="lazy">
+  <figcaption>The graph of f^-1 is the graph of f reflected in y = x, with domain and range swapped.</figcaption>
+</figure>
+
+
 ## Modulus function and graphs
 
 * y = |f(x)|: keep the part above the x-axis and reflect the part below it upwards.
@@ -120,6 +148,17 @@ Worked reminder: |x − 4| = 2x + 1.
 x − 4 = 2x + 1  →  x = −5; the right side is −9, so reject
 4 − x = 2x + 1  →  x = 1; both sides equal 3, so accept
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--06-modulus-check-roots.webp" width="900" height="870" alt="The V-shaped graph y = |x - 6| and the line y = 3x - 2 meet only at (2, 4). Algebra also gives x = -2, but there the line is at -8 and the V at +8, so it is rejected. A modulus cannot equal a negative number." loading="lazy">
+  <figcaption>Always check modulus roots: a root from the wrong branch does not fit the graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--08-modulus-transformations.webp" width="900" height="940" alt="The dashed curve is f(x) = x squared - 2x - 3. Top: y = |f(x)| reflects the part below the x-axis upwards, giving a maximum (1, 4) between the roots -1 and 3. Bottom: y = f(|x|) copies the right-hand part onto the left by reflection in the y-axis, giving a symmetric W shape with roots plus and minus 3." loading="lazy">
+  <figcaption>|f(x)| flips negative parts up; f(|x|) mirrors the right-hand half into the left.</figcaption>
+</figure>
+
 
 ## Modulus inequalities
 
@@ -142,6 +181,12 @@ Answer: x < −1 or x > 7
 The specification's own type, |x + 2| < 3|x|, works the same way: the equation |x + 2| = 3|x| gives x = 1 and x = −1/2. At x = 0 the inequality reads 2 < 0, which is false, so the solution is the outside regions: x < −1/2 or x > 1.
 
 For |f(x)| < k, you can also write −k < f(x) < k and solve both parts. Reminder: |x² + 4x − 5| < 7 gives −6 < x < −2 − √2 or −2 + √2 < x < 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--07-modulus-inequality.webp" width="900" height="820" alt="Graphs of y = |x + 2| and y = 3|x| meet at x = -1/2 and x = 1. The graph of |x + 2| is below 3|x| for x less than -1/2 and for x greater than 1, so those are the solutions, shown on a number line with open circles." loading="lazy">
+  <figcaption>Solve the equation first, then read from the graph where one modulus graph lies below the other.</figcaption>
+</figure>
+
 
 ## Worked examples to rehearse
 

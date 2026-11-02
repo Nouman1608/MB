@@ -38,6 +38,12 @@ These notes cover the Cambridge O Level Economics 2281 syllabus for examination 
 | Proportional tax | Takes the same share from everyone |
 | Average tax rate | Tax paid ÷ income × 100 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--05-budget-states.webp" width="900" height="720" alt="Three balance scales with revenue on the left pan and spending on the right. Level means balanced, a lower spending pan means a deficit and a lower revenue pan means a surplus. Country Delta plans spending 400 and revenue 380, the deficit pattern." loading="lazy">
+  <figcaption>A budget is balanced, in deficit or in surplus depending on how revenue compares with spending.</figcaption>
+</figure>
+
+
 ## 4.3.2 Government spending in one table
 
 | Area | Why the government spends | Possible effect |
@@ -57,6 +63,17 @@ Key idea: all spending has an opportunity cost. It is paid for by taxation or bo
 
 Reminder: in a budget of 250, an area of 55 is 55 ÷ 250 × 100 = 22%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+
 ## 4.3.3 Why tax?
 
 - Funding: the main source of revenue for public spending.
@@ -66,6 +83,12 @@ Reminder: in a budget of 250, an area of 55 is 55 ÷ 250 × 100 = 22%.
 - Behaviour: reward or discourage chosen actions.
 
 Other sources of revenue: charges, profits of state-owned firms and borrowing. Borrowing creates debt, so it is not the same as tax.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--06-delta-spending-revenue.webp" width="900" height="964" alt="Two bar charts for Country Delta. Spending totals 400, led by social protection at 96 (24.0%) and ending with defence at 36 (9.0%). Revenue totals 380: direct taxes 180, indirect taxes 180 and other revenue 20, so tax is 94.7% of revenue." loading="lazy">
+  <figcaption>Delta spends most on social protection, health and education, and raises most of its revenue from tax.</figcaption>
+</figure>
+
 
 ## 4.3.4 Classifying taxes
 
@@ -85,6 +108,27 @@ Two classifications, not one. A tax is direct or indirect, and separately it is 
 Reminder: bands are 0% to 8,000, 10% from 8,000 to 25,000 and 20% above. On 40,000: (25,000 − 8,000) × 10% = 1,700 and (40,000 − 25,000) × 20% = 3,000. Tax = 4,700. Average rate = 4,700 ÷ 40,000 × 100 = 11.75%. On 16,000: 8,000 × 10% = 800, so the average rate is 5%. The rate rises, so it is progressive.
 
 Reminder: a flat fee of 90 paid by an earner on 1,800 is 5%, and by an earner on 9,000 is 1%. It is regressive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--07-progressive-tax-bands.webp" width="900" height="1000" alt="An income of 60,000 is split into slices taxed at 0, 15 and 30 percent, giving tax of 3,600 plus 7,200. Average rates for 9,000, 24,000 and 60,000 are 0, 7.5 and 18 percent, so the average rate rises with income." loading="lazy">
+  <figcaption>Each rate applies only to its slice of income, and the average rate still climbs, so the tax is progressive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--08-average-tax-rate.webp" width="900" height="820" alt="A graph of average tax rate against income. The progressive tax rises from 0% to 7.5% to 18%, the flat 12% tax is horizontal, and the 300 licence falls from 5% at income 6,000 to 1% at 30,000." loading="lazy">
+  <figcaption>Progressive taxes have a rising average rate, proportional a constant one and regressive a falling one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--09-indirect-tax-regressive.webp" width="900" height="710" alt="Two income bars. The lower-income household spends 90% of income on taxed goods so an 8% tax takes 7.2% of income. The higher-income household spends 50% so the same tax takes 4.0% of income." loading="lazy">
+  <figcaption>An 8% sales tax takes a larger share of a poorer household income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## 4.3.5 Qualities of a good tax
 
@@ -120,6 +164,22 @@ Reminder: Qd = 600 − 20P and Qs = −100 + 30P. Equilibrium: 700 = 50P, so P =
 **Rule: who bears more.** Whichever side reacts less to a price change carries more of the burden. Inelastic demand means consumers carry more.
 
 **Tax and revenue.** The same per-unit tax raises more revenue where demand is inelastic, because quantity falls less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--08-notebook-tax-incidence.webp" width="900" height="900" alt="A tax of 3 shifts supply up. Price rises from 8 to 10 and quantity falls from 600 to 500. Buyers bear 2 x 500 = 1,000 and sellers 1 x 500 = 500 of the 1,500 revenue." loading="lazy">
+  <figcaption>A 3 tax on notebooks raises the price by 2 and cuts sellers' receipts by 1, so buyers bear two thirds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-government-budget-spending-and-taxation--07-tax-revenue-ped.webp" width="900" height="700" alt="After a tax of 2 raises the price by 20%, inelastic demand (PED -0.4) cuts quantity 8% to 920 so revenue is 1,840. Elastic demand (PED -1.5) cuts quantity 30% to 700 so revenue is only 1,400." loading="lazy">
+  <figcaption>The same tax raises more revenue when demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--02-tax-incidence.webp" width="900" height="920" alt="A tax of 2 per unit shifts supply up by 2 in both diagrams. With steep (inelastic) demand buyers pay about 71% of the tax; with flat (elastic) demand they pay about 33% and sellers absorb the rest. The price rise is less than the full tax." loading="lazy">
+  <figcaption>The more inelastic demand is, the more of an indirect tax passes to the consumer.</figcaption>
+</figure>
+
 
 ## Evaluating a tax: a short chain
 

@@ -75,6 +75,12 @@ The syllabus tells candidates to use the marks for each question as a guide to t
 | Expected loss, possible gain | Prudence | Recognise loss now, gain when earned |
 | Goods supplied, customer owes payment | Realisation | Revenue earned now |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
+
 ## Concepts behind procedures
 
 - Accruals, prepayments and depreciation come from matching / accruals.
@@ -108,6 +114,17 @@ Reminder: 18 units cost 25 each and could net 21 each. Cost 450; net realisable 
 
 Reminder: trade receivables 8,000 less 300 written off = 7,700. Allowance at 4% = 308. Existing allowance 250, so charge 58.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--05-concepts-income-in-advance.webp" width="900" height="860" alt="Twelve month boxes show 5,400 received on 1 October. Three months (1,350) are this year revenue; nine months (4,050) are income received in advance, a liability." loading="lazy">
+  <figcaption>Only the months already provided count as this year’s revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--01-concepts-consistency.webp" width="900" height="940" alt="Three bars show profit of 15,200 in year 1 (straight line, charge 4,800), 16,160 in year 2 (reducing balance, charge 3,840) and 15,200 in year 3 (straight line). Trading is unchanged, so the 960 rise and fall comes only from switching depreciation method." loading="lazy">
+  <figcaption>Switching depreciation method moves profit by 960 with no change in trading.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -137,6 +154,17 @@ Reminder: trade receivables 8,000 less 300 written off = 7,700. Allowance at 4% 
 
 **Applying it to a dilemma:** state the pressure, name the concept being broken, name two principles with a reason each, quantify the overstatement or understatement, say who is harmed, then give a proper course of action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--06-ethics-unrecorded-invoice.webp" width="900" height="870" alt="Draft profit 31,600 falls to 29,250 once a 2,350 invoice is recorded. The margin shown to the bank would be 16.6% instead of 15.4%. Agreeing to date the invoice in January would breach integrity, objectivity and professional behaviour." loading="lazy">
+  <figcaption>Hiding a December cost would overstate the profit margin by 1.2 percentage points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+
 ## 7.3 Technology and sustainability
 
 - **Digital applications:** may be used for all or part of the records. Faster posting and totals and fewer arithmetic slips, but cost, training and the same input error carried forward. No named software is needed.
@@ -152,6 +180,17 @@ Reminder: trade receivables 8,000 less 300 written off = 7,700. Allowance at 4% 
 | Other digital services | Records created automatically | Data scattered; depends on each service |
 
 Most businesses combine methods. Working copies on a data storage device, a second copy in a cloud service and paper originals of key documents survive more events than a single method. Name a type, give an advantage, give a disadvantage, then link to the business described.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--07-tech-storage-risks.webp" width="900" height="1055" alt="Four storage risks are paired with protections. Paper use falls from 15,000 sheets (three printed copies) to 5,000 (email two, print one), saving 10,000 sheets, about 67%, or 20 reams." loading="lazy">
+  <figcaption>Match each storage risk to its protection and see how digital copies save paper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-tech-storage-compare.webp" width="900" height="925" alt="Four cards compare manual, devices, cloud and other digital services on access, loss risk and footprint, using the lesson's own table entries." loading="lazy">
+  <figcaption>The four storage types compared on access, loss risk and footprint.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

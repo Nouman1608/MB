@@ -60,6 +60,27 @@ Roles in brief:
 | Main use to owners | Control and accountability | Judge performance, decide where to invest or review |
 | Main risk | Cutting cost lowers the service others receive | Managers pursue their own profit and ignore the whole business |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--01-centres.webp" width="900" height="740" alt="A cost centre (IT support) has costs flowing out and no revenue, judged on costs against budget. A profit centre (online store) has revenue in and costs out, judged on profit against target." loading="lazy">
+  <figcaption>A cost centre records costs only; a profit centre records costs and revenue so profit can be measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--02-budget-build.webp" width="900" height="980" alt="Grouped bars for three months: revenue 36,000, 40,500, 45,000; total costs 36,200, 39,700, 43,200. Planned profit is (200), 800 and 1,800, totalling 2,400." loading="lazy">
+  <figcaption>The budget turns forecast sales and costs into a planned profit for each month and the quarter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--03-variance-bridge.webp" width="900" height="1022" alt="Waterfall from budget profit 2,400 to actual loss (2,520): revenue +2,580 F, cost of sales -5,100 A, delivery -800 A, salaries -900 A, advertising -700 A, hosting 0. Total variance is 4,920 adverse." loading="lazy">
+  <figcaption>A favourable revenue variance can be swamped by adverse cost variances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--01-cost-centre-trend.webp" width="900" height="760" alt="Horizontal bars show monthly variance against the 6,200 budget: month 1 is 150 favourable, month 2 is 280 adverse, month 3 is 700 adverse. The quarter is 19,430 against 18,600, 830 adverse or 4.5% of budget." loading="lazy">
+  <figcaption>Reading only the quarter total would miss that spending climbed every month.</figcaption>
+</figure>
+
+
 ## Method: constructing a budget
 
 1. Choose the period and split it into months.

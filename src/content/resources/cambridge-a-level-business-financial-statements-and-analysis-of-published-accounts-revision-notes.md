@@ -41,6 +41,12 @@ The syllabus does not expect you to draw up a set of accounts. It expects you to
 | Higher wages in the office | Expenses | Profit from operations onwards |
 | Higher dividend | Dividends | Retained earnings only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--01-pl-waterfall.webp" width="900" height="1012" alt="Horizontal waterfall bars in $000: revenue 4,800, less cost of sales 3,120 gives gross profit 1,680 (35% margin), less expenses 1,200 gives operating profit 480 (10%), less tax 96 gives profit for the year 384, less dividends 150 leaves retained earnings 234." loading="lazy">
+  <figcaption>Each deduction shrinks revenue step by step until 234 is retained.</figcaption>
+</figure>
+
+
 ## 10.1.2 Statement of financial position
 
 - **Meaning:** assets, liabilities and equity on one date. **Purpose:** show financial strength.
@@ -63,17 +69,35 @@ The syllabus does not expect you to draw up a set of accounts. It expects you to
 | Credit purchases | Trade payables |
 | Tax charge | Current liability until paid |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--02-sofp-balance.webp" width="900" height="1000" alt="Two stacks each total 2,500 ($000): non-current assets 2,000 plus net current assets 500, and shares 1,000, reserves 800 and a 700 bank loan. Equity of 1,800 equals net assets of 2,500 minus the 700 loan." loading="lazy">
+  <figcaption>Net assets always equal equity, which is why the statement balances.</figcaption>
+</figure>
+
+
 ## 10.1.3 Inventory valuation
 
 - **Difficulties:** damaged or obsolete stock; changing prices; stock that is hard to count or value; uncertain selling price; judgement is needed.
 - **Net realisable value (NRV)** = estimated selling price − costs of selling or finishing. The standard form is to value inventory at the lower of cost and NRV.
 - **Effect of a write-down:** inventory and current assets fall; cost of sales rises; profit falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--03-nrv-inventory.webp" width="900" height="1080" alt="A panel costing 26 sells for 24 but needs 3 of repair, so NRV is 21. For 300 panels cost is 7,800 and NRV 6,300; inventory is valued at 6,300 and the 1,500 write-down raises cost of sales." loading="lazy">
+  <figcaption>Inventory is valued at the lower of cost and net realisable value.</figcaption>
+</figure>
+
+
 ## 10.1.4 Depreciation
 
 - **Role:** spreads the cost of a non-current asset over its useful life and matches cost to the revenue it helps earn. It is non-cash.
 - **Straight-line:** (cost − residual value) ÷ useful life. This is the only method in the syllabus.
 - **Impact:** expense in the statement of profit or loss, so profit falls; net book value on the statement of financial position falls by the same amount each year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--04-straight-line-dep.webp" width="900" height="980" alt="Net book value of a 48,000 van falls by 8,400 a year to 6,000 residual value after 5 years. The 8,400 is an expense in the statement of profit or loss and no cash leaves that year." loading="lazy">
+  <figcaption>Straight-line depreciation takes the same expense each year and lowers net book value.</figcaption>
+</figure>
+
 
 ## 10.2 Ratios (formulas as given in the syllabus appendix)
 
@@ -106,6 +130,27 @@ Earnings per share is not in the appendix. The standard form is profit for the y
 | Gearing | Reliance on long-term borrowing; high gearing raises interest and risk | Repay loans; issue shares; retain profit |
 | Investment ratios | Return to shareholders; affects the share price and ability to raise capital | Raise profit; raise dividend; reinvest for growth; build investor confidence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--05-ratio-compare.webp" width="900" height="1060" alt="Paired bars: current ratio 2.0 v 1.1, gross margin 35% v 38%, operating margin 10% v 7%, ROCE 19.2% v 14%, gearing 28% v 52%." loading="lazy">
+  <figcaption>Corrabeck is more liquid and less risky; Wentwater loses its better gross margin in expenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--01-liquidity-ratios.webp" width="900" height="930" alt="Stacked columns ($000): current assets 1,000 (cash 80, receivables 400, inventory 520) over current liabilities 500 give a current ratio of 2.0 to 1. Removing inventory leaves 480, so the acid test is 0.96 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the hardest current asset to turn into cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--02-efficiency-days.webp" width="900" height="990" alt="Cost of sales 3,120 is 6.24 times average inventory 500. Receivables days are 38.0 and payables days 50.0, drawn as bars on a 0 to 60 day scale." loading="lazy">
+  <figcaption>Turnover and days ratios show how fast stock, receivables and payables move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--04-investment-ratios.webp" width="900" height="1010" alt="Profit of 384 covers the 150 dividend 2.56 times; EPS is 0.384; the 4.80 price is 12.5 times EPS; the 0.15 dividend is 3.1% of the price." loading="lazy">
+  <figcaption>Dividend cover, EPS, P/E and yield all come from the same profit, dividend and price.</figcaption>
+</figure>
+
+
 ## Method in steps: interpreting a ratio
 
 1. State the figure with its unit.
@@ -113,6 +158,12 @@ Earnings per share is not in the appendix. The standard form is profit for the y
 3. Say what it means for this business (use the context in the case).
 4. Give a reason that might explain it.
 5. Judge whether it matters, and what other information you would want.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--03-capital-employed.webp" width="900" height="850" alt="Capital employed of 2,500 ($000) is shares 1,000, reserves 800 and a bank loan 700. ROCE is 480 over 2,500, 19.2%; gearing is 700 over 2,500, 28%." loading="lazy">
+  <figcaption>ROCE and gearing share the same denominator, capital employed.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

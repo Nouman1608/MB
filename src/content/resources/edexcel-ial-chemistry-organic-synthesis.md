@@ -91,6 +91,12 @@ CH₃CH₂COOMgBr + H₂O → CH₃CH₂COOH + Mg(OH)Br     (in dilute acid)
 
 Make 2-methylbutan-2-ol, CH₃CH₂C(OH)(CH₃)₂. The OH carbon carries three alkyl groups, so it is a tertiary alcohol: a Grignard reagent plus a ketone. Split one bond from that carbon. Ethylmagnesium bromide + propanone works: CH₃CH₂MgBr adds to the C=O carbon of (CH₃)₂CO, and hydrolysis gives the alcohol. Methylmagnesium iodide + butanone also works. Check each pair by counting carbons: 2 + 3 = 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
+
 ## 20.3 Problem solving
 
 ### i Predicting properties of unfamiliar compounds
@@ -126,6 +132,22 @@ Work back: the ketone comes from oxidising the secondary alcohol 3-methylbutan-2
 To confirm the ketone, check three results: 2,4-DNPH gives an orange solid; Fehling's solution stays blue; iodine in alkali gives pale yellow iodoform, because of the CH₃CO– group.
 
 When a question gives you an unfamiliar reaction, use it exactly as described. Each extra step lowers the overall yield, so prefer the shorter route when two work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
 
 ### iii and iv Procedures and hazards
 
@@ -165,6 +187,12 @@ percentage yield = 3.06 ÷ 4.50 × 100 = 68.0%
 
 Losses come from product left dissolved in the recrystallisation solvent, transfers and incomplete reaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
+
 ## 20.5 Techniques for preparation and purification
 
 - **i Refluxing:** heat with a vertical condenser so vapour condenses and runs back. Volatile reactants are not lost and the mixture can be heated for a long time. Add anti-bumping granules.
@@ -176,6 +204,12 @@ Losses come from product left dissolved in the recrystallisation solvent, transf
 - **vii Steam distillation:** pass steam through the mixture, or boil it with water. A volatile, water-immiscible compound distils with the water below 100 °C, so a compound that would decompose at its own boiling temperature is collected safely.
 - **viii Melting temperature:** pack a little dry solid into a capillary tube sealed at one end and raise the temperature gently as you approach the expected value. A pure solid melts sharply at the data value; impurities lower it and spread it over a range.
 - **ix Boiling temperature:** distil the liquid and read the steady thermometer temperature. Compare it with the data value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
 
 ## Common errors
 

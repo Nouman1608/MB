@@ -33,6 +33,22 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 - A mixed economy keeps markets for most decisions and uses intervention where the market fails.
 - Market strengths: prices signal scarcity, incentives reward effort, consumers choose. Weaknesses: market failure and unequal incomes. Judge each case by asking where the market does better than government, and where worse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Tools at a glance
 
 | Tool | What it does | Main weakness |
@@ -46,6 +62,17 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 | Regulation | Rules, standards, bans | Enforcement cost; less flexible |
 | Property rights | Give an owner a reason to protect | Hard to define and enforce |
 | Pollution permits | Cap plus tradable permits | Cap setting, allocation, monitoring |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--02-specific-vs-ad-valorem.webp" width="900" height="1080" alt="Two supply diagrams. A specific tax of 2 gives a parallel shift; a 25 percent tax gives a gap of 1 at quantity 80 and 2.5 at quantity 320, so the curve is steeper." loading="lazy">
+  <figcaption>A specific tax shifts supply in parallel; an ad valorem tax makes the new curve steeper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--03-maximum-rent.webp" width="900" height="920" alt="Rent controlled at 9 against equilibrium 12. Demand is 420 flats and supply 240, a shortage of 180. Tenants would pay 18 for the 240th flat and the lost surplus is 540." loading="lazy">
+  <figcaption>Worked example 3: a rent ceiling of 9 creates a shortage of 180 flats and a 540 welfare loss.</figcaption>
+</figure>
+
 
 ## Methods in steps
 
@@ -81,12 +108,29 @@ Inelastic demand raises more revenue and cuts output less. It suits a revenue ai
 
 **Government objectives in action.** A tax on a demerit good meets an efficiency aim, but if buyers have low incomes it conflicts with a fairness aim. A maximum rent meets fairness for existing tenants, but conflicts with efficiency if supply falls. A subsidy meets an output aim, but conflicts with a balanced budget. Show the conflict, then decide which objective carries more weight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--01-juice-tax-incidence.webp" width="900" height="1010" alt="Demand and supply for juice with a tax of 3 per unit. Price rises 8 to 10 and quantity falls 240 to 200. Buyers bear 400 and sellers 200 of the 600 revenue; the lost surplus is 60." loading="lazy">
+  <figcaption>Worked example 1: buyers bear 400 and sellers 200 of a 600 tax, with a 60 welfare loss.</figcaption>
+</figure>
+
+
 ## Chains of reasoning
 
 - **Tax.** Tax raises costs, so supply shifts up, so the price paid rises and output falls. If the failure is an external cost, output moves towards the social optimum. The effect is larger when demand is elastic.
 - **Subsidy.** Subsidy cuts costs, so supply shifts down, so price falls and output rises, towards the social optimum if there is an external benefit. It costs taxpayers and is only worthwhile if the benefit outweighs the cost.
 - **Maximum price.** The ceiling holds price below equilibrium, so quantity demanded rises and quantity supplied falls. The shortage leads to rationing, queues or black markets, and supply may shrink further over time.
 - **Minimum price.** The floor holds price above equilibrium, so quantity demanded falls and quantity supplied rises. The surplus must be bought, stored or left unsold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--01-min-price-sugary-drink.webp" width="900" height="1160" alt="Demand and supply for a sugary drink cross at price 16 and quantity 260. A minimum price of 20 leaves 220 demanded and 340 supplied, a surplus of 120. Spending rises from 4,160 to 4,400 because demand is inelastic." loading="lazy">
+  <figcaption>Worked example 4: a minimum price of 20 creates a surplus of 120 and raises spending from 4,160 to 4,400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--02-subsidy-evening-classes.webp" width="900" height="1130" alt="Supply shifts down by 3. Equilibrium moves from 300 to 350 classes; learners pay 6 and providers receive 9. The subsidy costs 3 x 350 = 1,050, and with an external benefit of 3 the gain over 300 to 350 is 75." loading="lazy">
+  <figcaption>Worked example 2: a subsidy of 3 costs 1,050 and gains 75 of social benefit.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -135,6 +179,12 @@ For or against intervention in a particular market, weigh these:
 9. No one owns the stock, so each boat ignores the cost it puts on others, and boats keep joining until profit is zero.
 10. Landlords earn a capped return, so they spend less on upkeep and may leave the market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--04-pollution-permits.webp" width="900" height="1140" alt="Three factories with a cap of 210. Without trading total cutting cost is 1,410; with trading X cuts 60 and Y cuts 30 for 900, and Z buys 30 permits at 14. The saving is 510." loading="lazy">
+  <figcaption>Worked example 7: tradable permits meet the same cap for 510 less.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Moving the demand curve when a tax or subsidy changes costs.
@@ -149,3 +199,9 @@ For or against intervention in a particular market, weigh these:
 ## Official syllabus
 
 AQA AS and A-level Economics, specification version 1.3 (29 June 2022), AQA. Sub-section covered: Government intervention in markets (3.1.5.8 on the AQA website; 4.1.8.9 in the combined PDF).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+

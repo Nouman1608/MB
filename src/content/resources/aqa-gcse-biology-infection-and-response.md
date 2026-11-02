@@ -85,6 +85,37 @@ intervenes -- vaccination, antibiotics, and the drug-development process.
   (cellulose cell walls, waxy cuticle, bark); chemical defences (antibacterial chemicals, poisons
   deterring herbivores); mechanical adaptations (thorns, hairs, leaf curling, mimicry)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-mab-production.webp" width="900" height="1060" alt="Higher tier only. A mouse lymphocyte is fused with a tumour cell to form a hybridoma cell. The hybridoma divides into many identical cells, which produce one specific antibody." loading="lazy">
+  <figcaption>Hybridoma cells make a single specific (monoclonal) antibody.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--06-drug-origins.webp" width="900" height="860" alt="Foxglove gives digitalis, willow gives aspirin, and Penicillium mould (discovered by Fleming) gives penicillin. Most modern drugs are synthesised by chemists." loading="lazy">
+  <figcaption>Some traditional drugs came from plants and microorganisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-cause-or-symptom.webp" width="900" height="780" alt="An antibiotic kills bacteria, cannot kill viruses, and a painkiller treats the symptom (pain) only while the pathogen is still present." loading="lazy">
+  <figcaption>Antibiotics act on bacteria; painkillers act on symptoms only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-plant-disease-signs.webp" width="900" height="1000" alt="Three panels: TMV (virus) gives a mosaic of light and dark patches and less photosynthesis; rose black spot (fungus) gives purple or black spots and less photosynthesis; aphids are insect pests, not pathogens." loading="lazy">
+  <figcaption>The three plant problems named in the specification: TMV, black spot and aphids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-ion-deficiency.webp" width="900" height="760" alt="Three plants: a tall healthy green plant, a half-height stunted plant short of nitrate, and a tall plant with yellow leaves (chlorosis) short of magnesium." loading="lazy">
+  <figcaption>Nitrate deficiency stunts growth; magnesium deficiency causes chlorosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--10-malaria-cycle.webp" width="900" height="895" alt="A mosquito bites an infected person, picks up the malaria protist, and bites a second person, passing it on. Control by stopping mosquito breeding in standing water and by using nets." loading="lazy">
+  <figcaption>Malaria passes between people by mosquito; stop breeding and use nets.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Learn the seven named disease examples (measles, HIV, TMV, salmonella, gonorrhoea, rose black spot,
@@ -93,6 +124,17 @@ key symptoms, since exam questions frequently ask you to identify or compare acr
 clinical trials sequence -- preclinical, then low-dose clinical, then optimum-dose clinical, with
 double-blind placebo trials -- is a common structured-question topic, so learn it as an ordered sequence
 rather than a list of unordered facts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-plant-defences.webp" width="900" height="1140" alt="Physical barriers: waxy cuticle, cellulose cell walls, bark. Chemical defences: antibacterial chemicals and poisons. Mechanical adaptations: thorns, hairs, leaf curling and mimicry (not drawn)." loading="lazy">
+  <figcaption>Plants defend themselves physically, chemically and mechanically.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
+  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -105,6 +147,12 @@ Viral: measles, HIV, TMV. Bacterial: salmonella, gonorrhoea. Fungal: rose black 
 Organising revision this way -- by pathogen type rather than alphabetically or randomly -- makes it
 easier to answer "compare a viral and a bacterial disease" style questions, which are common at Higher
 Tier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--05-named-diseases.webp" width="900" height="963" alt="Seven diseases in four pathogen groups. Viruses: measles, HIV, TMV (plant). Bacteria: salmonella, gonorrhoea. Fungi: rose black spot (plant). Protists: malaria. One spread route or symptom is shown for each." loading="lazy">
+  <figcaption>Seven named diseases grouped by the type of pathogen that causes them.</figcaption>
+</figure>
+
 
 ## Worked example: interpreting a clinical trial description
 
@@ -130,6 +178,12 @@ the patient (placebo effect) or the researcher (unconscious
 influence).
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--06-drug-trial-stages.webp" width="900" height="1060" alt="Stage 1 preclinical testing on cells, tissues and live animals. Stage 2 a low-dose clinical trial on healthy volunteers. Stage 3 an optimum-dose trial on patients in which one group gets the drug and one a placebo and neither patients nor researchers know which until results are analysed (double-blind)." loading="lazy">
+  <figcaption>Preclinical, low-dose and optimum-dose stages, ending in a double-blind trial.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Confusing which pathogen type causes which named disease. Describing vaccination as directly killing a
@@ -139,6 +193,12 @@ treatment). Stating antibiotics can treat viral infections. Confusing monoclonal
 extra named plant diseases: the specification restricts knowledge of specific plant diseases to TMV (a
 virus), black spot (a fungus) and aphids (insect pests, not pathogens) -- but detection, identification,
 ion deficiencies and plant defence responses are still required content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-mab-cancer-targeting.webp" width="900" height="960" alt="Higher tier only. An antibody carrying a drug or radioactive substance fits antigens on a cancer cell and delivers it there, but does not bind a healthy cell. Other uses: pregnancy tests, measuring hormone levels, research with a fluorescent dye." loading="lazy">
+  <figcaption>A monoclonal antibody delivers treatment only to cancer cells.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 

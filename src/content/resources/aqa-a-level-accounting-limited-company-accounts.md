@@ -70,6 +70,17 @@ Cr Share premium    (number of shares x premium per share)
 
 Check: 100,000 + 140,000 = 240,000. Share premium is part of equity. It is not income, so it never appears in the income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+
 ## The income statement: three levels of profit
 
 The trading section is the same as a sole trader's. Below gross profit, the specification requires three profit lines:
@@ -92,6 +103,17 @@ Profit for the year after tax
 - **Tax** is the company's tax on its profit for the year. Any unpaid amount is a current liability.
 - **Dividends are not an expense.** They are a distribution of profit to shareholders, so they go in the statement of changes in equity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--08-where-cash-went.webp" width="900" height="1020" alt="Starting from an overdraft of 23,400 pounds, operating activities add 136,700, investing activities subtract 57,500 and financing activities add 72,000, a net increase of 151,200 and closing cash of 127,800. A bonus issue and a revaluation involve no cash." loading="lazy">
+  <figcaption>Operating, investing and financing flows explain the change in cash.</figcaption>
+</figure>
+
+
 ## The statement of changes in equity
 
 This statement explains the movement in each part of equity between the start and the end of the year. Use one column per component and a total column.
@@ -109,6 +131,12 @@ Balance at end                x          x          x        x
 
 The profit line uses **profit for the year after tax**. If the company makes a loss, it is shown in brackets and reduces retained earnings. Each closing balance becomes a line in the equity section of the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+
 ## The statement of financial position
 
 A common layout lists assets first, then equity and liabilities, with these sub-headings:
@@ -120,6 +148,12 @@ A common layout lists assets first, then equity and liabilities, with these sub-
 - **Current liabilities**: trade payables, other payables (accruals, accrued debenture interest), tax payable, bank overdraft.
 
 Total assets must equal total equity plus total liabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
+  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
+</figure>
+
 
 ## Full worked example: from trial balance to three statements
 

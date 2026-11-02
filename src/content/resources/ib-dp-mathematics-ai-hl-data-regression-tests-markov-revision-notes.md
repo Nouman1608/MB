@@ -116,6 +116,12 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 2. Add the equation "entries sum to 1".
 3. Solve. Give exact fractions if the question asks for them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--02-imath-ai-hl-chi-squared-df.webp" width="900" height="1030" alt="Bar chart of Poisson(2) expected frequencies shows 5 and 6-or-more fall below 5 and are merged into a single category. A second chart compares observed and expected for the six categories. Degrees of freedom are 6 − 1 − 1 = 4, chi-squared 5.37, p 0.251, so H0 is not rejected." loading="lazy">
+  <figcaption>Merge categories until every expected frequency exceeds 5, then subtract the estimated parameters from the number of categories minus 1.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - **Merging**: Po(2) with n = 120 gives expected 4.33 for x = 5 and 1.99 for x ≥ 6. Merge them into "≥ 5" (6.32).
@@ -136,6 +142,12 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 - **Continuous vs discrete tests**: for the normal test P(Type I) equals the significance level. For binomial and Poisson tests it is at most the significance level.
 - **Type I vs Type II**: wrongly reject vs wrongly accept H₀.
 - **Row vs column convention**: IB uses columns summing to 1 and sₙ = Tⁿs₀ with s₀ a column.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--01-imath-ai-hl-reliability-validity.webp" width="900" height="1065" alt="Four dartboards with seven crosses each. Top row clusters tightly (reliable); bottom row is scattered (not reliable). Left column is centred on the bullseye (valid); right column is centred off target (not valid). A box lists the checks: test-retest and parallel forms for reliability, content and criterion-related for validity." loading="lazy">
+  <figcaption>Reliable means consistent, valid means accurate; the two are independent.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -165,6 +177,17 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 10. s₁ = T s₀ = **(0.4, 0.6)ᵀ**.
 11. 0.1a = 0.4b with a + b = 1, so s = **(4/5, 1/5)ᵀ**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--06-imath-ai-hl-normal-test-errors.webp" width="900" height="950" alt="Two normal curves for the sample mean, N(500, 0.8²) and N(498, 0.8²). The left tail of the first below 498.68 is the Type I error (0.05); the part of the second above 498.68 is the Type II error (0.196). The observed 498.3 lies in the critical region." loading="lazy">
+  <figcaption>The same critical value splits both curves: its tail under H0 is Type I, its tail under the true mean is Type II.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--07-imath-ai-hl-poisson-critical-region.webp" width="900" height="830" alt="Bar chart of Po(28) with bars 12 to 19 shaded as the critical region, probability 0.0478. Including 20 would give 0.0727, over 0.05. The observed 19 lies in the region." loading="lazy">
+  <figcaption>For discrete variables take the largest critical region whose probability stays under the significance level.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Merging χ² categories because of a small observed frequency instead of a small expected one.
@@ -177,6 +200,12 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 - Finding P(Type II) with the H₀ parameter instead of the stated true value.
 - Writing T with rows summing to 1, or finding s₀T instead of Ts₀.
 - Giving a decimal steady state when the question asks for an exact answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--05-imath-ai-hl-binomial-errors.webp" width="900" height="960" alt="Two bar charts. For B(20, 0.3) the bars 0 to 2 form the critical region with Type I probability 0.0355. For B(20, 0.15) the bars 3 or more are the Type II error with probability 0.595." loading="lazy">
+  <figcaption>The critical region is the largest one with probability under the significance level; a Type II error depends on the true parameter.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

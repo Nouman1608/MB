@@ -91,6 +91,12 @@ Find the carbon carrying the –OH group and count the carbon atoms attached to 
 
 A ring alcohol such as cyclobutanol is secondary, because its C–OH carbon is bonded to two ring carbons. A useful check: primary has two H atoms on the C–OH carbon, secondary has one and tertiary has none. That H count matters again for oxidation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--04-alcohol-classes.webp" width="900" height="1180" alt="Butan-1-ol, butan-2-ol and 2-methylpropan-2-ol are drawn as displayed formulae with the C-OH carbon and its H highlighted (2, 1 and 0 H). Primary gives butanoic acid and secondary gives butanone, orange to green; tertiary gives no reaction and stays orange. Matches worked example 4." loading="lazy">
+  <figcaption>Oxidation needs an H on the C-OH carbon, so tertiary alcohols resist it.</figcaption>
+</figure>
+
+
 ## 4.2.1(b): Combustion
 
 Alcohols burn in plenty of oxygen to give carbon dioxide and water. For any alcohol in the series CₙH₂ₙ₊₁OH:
@@ -161,6 +167,12 @@ The specification links this outcome to PAG7 and to 6.3.1(c)(vi), where acidifie
 3. Theoretical mass = 0.0650 × 100.0 = 6.50 g
 4. Percentage yield = 4.42 ÷ 6.50 × 100 = **68.0%**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--06-carbonyl-tests.webp" width="900" height="1085" alt="Tubes in a water bath: with Tollens' reagent the aldehyde gives a silver mirror and the ketone no change; with Fehling's (or Benedict's) solution the aldehyde gives a red precipitate and the ketone stays blue. Board tags: Tollens' in AQA and OxfordAQA, Benedict's in Edexcel." loading="lazy">
+  <figcaption>Aldehydes are oxidised by mild oxidants and ketones are not, giving different observations.</figcaption>
+</figure>
+
+
 ## 4.2.1(d): Elimination of water to form alkenes
 
 Heating an alcohol with an acid catalyst, such as concentrated H₃PO₄ or concentrated H₂SO₄, removes a molecule of water. The OH comes off one carbon and an H comes off a neighbouring carbon, leaving a C=C double bond. This is an elimination (dehydration) reaction. The mechanism is not required.
@@ -178,6 +190,22 @@ Neither alkene shows E/Z isomerism, because in each a carbon of the C=C carries 
 
 **Isomer B**, hexan-3-ol. Removing H from C2 gives hex-2-ene; removing H from C4 gives hex-3-ene. Both can exist as E and Z isomers (see 4.1.3 for E/Z), so up to four alkenes can form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--01-hydration-mechanism.webp" width="900" height="1290" alt="Three-step curly-arrow mechanism for making ethanol from ethene and an acid catalyst: C=C attacks H+, a water lone pair attacks the carbocation, the O-H bond breaks releasing H+. Below, propene gives the secondary carbocation and propan-2-ol as the major product. AQA mechanism; other boards state the reaction without needing the mechanism." loading="lazy">
+  <figcaption>Electrophilic addition of water to an alkene: the first arrow starts at the C=C bond, not at H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
+  <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--09-elimination-products.webp" width="900" height="940" alt="Skeletal formulae. Butan-2-ol loses H from C1 to give but-1-ene, or from C3 to give but-2-ene, which exists as E and Z isomers: three alkenes in total." loading="lazy">
+  <figcaption>Losing H from either neighbouring carbon gives different alkenes, including E and Z isomers.</figcaption>
+</figure>
+
+
 ## 4.2.1(e): Substitution to form haloalkanes
 
 An alcohol reacts with halide ions in the presence of acid to give a haloalkane. The –OH group is replaced by a halogen atom. The mechanism is not required.
@@ -191,6 +219,12 @@ The HBr then substitutes the alcohol. For isomer A:
 (CH₃)₂CHCH₂CH₂CH₂OH + HBr → (CH₃)₂CHCH₂CH₂CH₂Br + H₂O  (1-bromo-4-methylpentane)
 
 The haloalkane keeps the carbon skeleton and the position of the functional group, so isomer C gives 2-bromo-2,3-dimethylbutane. The reactions of haloalkanes follow in 4.2.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--07-halogenation.webp" width="900" height="890" alt="Three routes from an alcohol R-OH: PCl5 (solid, room temperature, steamy HCl fumes) to R-Cl, KBr with 50% sulfuric acid warmed (OCR: a bromide with sulfuric acid) to R-Br, and red phosphorus with iodine to R-I. Edexcel and OCR content; not in the AQA or OxfordAQA lessons." loading="lazy">
+  <figcaption>Edexcel and OCR: the OH group can be replaced by Cl, Br or I using different reagents.</figcaption>
+</figure>
+
 
 ## Common errors
 

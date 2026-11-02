@@ -60,6 +60,12 @@ Say "small, charged nucleus" and link each observation to its conclusion. The re
 
 Simple nuclear model: nucleus of protons (+e) and neutrons (0), electrons (−e) outside. A neutral atom has the same number of electrons as protons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--01-aphy-quantum-alpha-scattering.webp" width="900" height="1160" alt="Twelve alpha-particle tracks computed from inverse-square repulsion by one small positive nucleus. Distant tracks barely bend, closer ones turn through large angles and the closest is turned back. This shows the atom is mostly empty space with a small, massive, positively charged nucleus." loading="lazy">
+  <figcaption>Alpha tracks bend or rebound because of a tiny, massive, positive nucleus.</figcaption>
+</figure>
+
+
 ## Notation and isotopes (6.4.1(d))
 
 ᴬ_Z X: A is at the top, Z at the bottom.
@@ -83,6 +89,12 @@ Method in steps:
 
 Why it matters: it must beat the electrostatic repulsion between protons, but the repulsive core stops collapse. 1 fm = 10⁻¹⁵ m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--03-aphy-quantum-strong-force.webp" width="900" height="1090" alt="Schematic graph of force against nucleon separation. Below about 0.5 fm the force is repulsive; from 0.5 to about 3 fm it is attractive; beyond about 3 fm it is negligible. Three pictures of two nucleons show pushing apart, pulling together and no effect." loading="lazy">
+  <figcaption>The strong force is repulsive below 0.5 fm, attractive up to about 3 fm and negligible beyond (AQA and OCR).</figcaption>
+</figure>
+
+
 ## Radius and density (6.4.1(c), (f), (g))
 
 Method in steps for a radius question:
@@ -103,6 +115,12 @@ Method in steps for a radius question:
 **Worked reminder (atom against nucleus).** An atom of radius 1.0 × 10⁻¹⁰ m and a nucleus of radius 5.0 × 10⁻¹⁵ m: radius ratio 2.0 × 10⁴, volume ratio (2.0 × 10⁴)³ = 8.0 × 10¹². Cube the radius ratio for volumes.
 
 **Worked reminder (nucleus after decay).** In beta-minus decay a nucleus with Z = 30 becomes Z = 31 with the same A, because one neutron has become a proton. In beta-plus decay Z falls by 1 and A is unchanged, because one proton has become a neutron.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
 
 ## Antiparticles, hadrons and leptons (6.4.2(a)-(d))
 
@@ -132,6 +150,12 @@ Memory aid: hadrons are the ones made of quarks, and so feel the strong force; l
 - Antiproton ūūd̄ = −1. Antineutron ūd̄d̄ = 0.
 - Total charge of any hadron is a whole number times e. If your sum is not, check for a missed bar.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--04-aphy-quantum-quarks.webp" width="900" height="1130" alt="Four cards give the quark make-up of the proton (uud), neutron (udd), positive pion (u d-bar) and positive kaon (u s-bar), with the charges adding to +1, 0, +1 and +1. Baryons have three quarks, mesons a quark and an antiquark; leptons such as the electron and neutrino are not made of quarks." loading="lazy">
+  <figcaption>The charges of the quarks add up to the charge of each hadron.</figcaption>
+</figure>
+
+
 ## Beta decay (6.4.2(h)-(k))
 
 | | β⁻ | β⁺ |
@@ -149,6 +173,12 @@ Method in steps for balancing a quark equation:
 4. Check they match, then choose neutrino or antineutrino. Beta-minus gives an antineutrino; beta-plus gives a neutrino.
 
 **Worked reminder (6.4.2(l)).** A strange quark in a hadron can decay as s → u + e⁻ + ν̄. Charge: −1/3 on the left and +2/3 − 1 = −1/3 on the right. Balanced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -72,6 +72,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 
 **Worked reminder.** Cloned plants in high and low light: x̄ = 35.5 cm and 30.0 cm, s = 2.878 and 2.000, n = 8 each → t = 4.44, 14 df, critical value 2.14 → significant; the cause must be environmental.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+
 ## 17.2 Natural and artificial selection
 
 ### Natural selection in five steps
@@ -90,6 +96,17 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 | Directional | One extreme | Mean shifts | Changing |
 | Disruptive | The middle | Two peaks; can lead to speciation | Two different niches favoured |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ### Must-know distinctions: selection, drift, founder, bottleneck
 
 | Process | Cause of allele-frequency change | Key word |
@@ -105,6 +122,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 2. Antibiotic kills susceptible bacteria; resistant ones survive.
 3. Survivors reproduce by binary fission; allele also spread on plasmids.
 4. Resistance allele frequency increases: directional selection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
+</figure>
+
 
 ### Hardy–Weinberg (equations provided)
 
@@ -126,6 +149,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 
 **Worked reminder (codominance).** 500 individuals: 180 AA, 240 AB, 80 BB. p = (2 × 180 + 240) ÷ 1000 = 0.6, so q = 0.4. Expected numbers: p² × 500 = 180, 2pq × 500 = 240, q² × 500 = 80. Observed and expected match, so the population is consistent with Hardy–Weinberg equilibrium for this gene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+
 ### Must-know distinction: natural vs artificial selection
 
 | | Natural selection | Artificial selection |
@@ -144,6 +173,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 | Maize | Inbreed to make homozygous inbred lines; cross two lines to make F1 hybrids | F1 heterozygous at many loci → hybrid vigour; all the same genotype → uniform crop |
 | Dairy cattle | Choose bulls by their daughters' milk yield (progeny testing); artificial insemination of high-yield cows | Bulls carry yield alleles but cannot show them |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+
 ## 17.3 Evolution
 
 **Evolution:** formation of new species from pre-existing species over time, through changes to gene pools from generation to generation. A gene pool is all the alleles of all the genes in a population; selection, drift, founder effects and mutation all change it.
@@ -157,6 +192,17 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 | Isolation | Geographical barrier | Ecological or behavioural, in the same area |
 | Example of barrier | Mountain range, sea, river | Different food, habitat or breeding time; different courtship |
 | Common steps | No gene flow → different mutations, selection pressures and drift → gene pools diverge → can no longer interbreed to give fertile offspring | Same |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -199,6 +245,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 - Confusing genetic drift (random) with natural selection (non-random).
 - Explaining hybrid vigour as homozygosity, or forgetting why farmers buy F1 seed every year.
 - Describing allopatric speciation without the step "no gene flow between the populations".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

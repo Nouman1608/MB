@@ -27,6 +27,12 @@ Course pages: [MYP mathematics hub](/boards/ib/ib-myp/mathematics/), [printable 
 
 MYP mathematics builds understanding of concepts and sets that understanding in a global context so that the inquiry has a point. A statement of inquiry (SOI) is the sentence that joins them. Teachers have to pick a global context for their teaching, and may create extra ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--04-octagon-square-tiling.webp" width="900" height="790" alt="A floor pattern of regular octagons and small squares. At one highlighted corner two octagons and one square meet. Each octagon has interior angle (8 - 2) x 180 / 8 = 135 degrees and the square has 90 degrees. 135 + 135 + 90 = 360, so the tiles fit around the point with no gaps." loading="lazy">
+  <figcaption>Two octagons and one square meet with no gap: 135 + 135 + 90 = 360.</figcaption>
+</figure>
+
+
 ## The six global contexts
 
 | Context | Think of | Maths that often fits |
@@ -41,6 +47,12 @@ MYP mathematics builds understanding of concepts and sets that understanding in 
 The second and third columns are Marlbridge memory aids. The guide only names the contexts.
 
 Must-know: scientific and technical innovation is the most natural fit for mathematics, but teachers are encouraged to offer all six.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--01-six-global-contexts.webp" width="900" height="800" alt="Six tiles, each with a simple icon. Identities and relationships: two linked people. Orientation in space and time: a compass. Personal and cultural expression: a four-petal pattern. Scientific and technical innovation: a light bulb. Globalization and sustainability: a globe. Fairness and development: a balance scale. A teacher must choose one context for a unit; a context answers why the mathematics matters." loading="lazy">
+  <figcaption>The six contexts, each with an icon.</figcaption>
+</figure>
+
 
 ## Key concepts and related concepts
 
@@ -81,6 +93,12 @@ Weak and strong versions:
 | Students will calculate ratios | Weak | A task, not an idea |
 | A fair basis for comparison can change the decision a community makes | Strong | General, shows relationships and fairness |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--02-statement-of-inquiry-builder.webp" width="900" height="800" alt="Three cards feed into one sentence. Key concept: relationships. Related concepts: models and representation. Global context: identities and relationships. Arrows from the three cards point to the statement of inquiry: Modelling a relationship lets a group choose between options. Two struck-out examples are shown below: a topic title (Ratio and proportion) and a question (How do we choose a hall?), neither of which is a statement of inquiry." loading="lazy">
+  <figcaption>A statement of inquiry joins a key concept, related concepts and a context.</figcaption>
+</figure>
+
+
 ## Table 3 pairings, summarised
 
 | Unit idea | Key concept | Related | Context |
@@ -105,6 +123,12 @@ Check the arithmetic inside every context.
 4. Innovation (MYP 4-5 standard, exponential): 50 units growing 4% a year gives 50 × 1.04³ = 56.2 after 3 years (3 s.f.), a simplified model of steady growth.
 5. Sense-check: always add one line on whether the answer fits the situation, because criterion D asks for it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
+
 ## From statement to inquiry questions
 
 The guide's Table 4 sorts questions into three kinds. One SOI should generate all three.
@@ -126,6 +150,12 @@ Unit: scale drawings and similar shapes (MYP 4-5).
 5. SOI: Knowing how shapes keep their form as they grow lets artists plan large works from small designs.
 6. Check the numbers: a 20 cm sketch enlarged by a factor of 4 becomes 80 cm long, and its area grows by 4² = 16 times.
 7. Sense-check: a wall must be big enough for the new size, and paint needed grows with area, not length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
 
 ## Link to criterion D
 

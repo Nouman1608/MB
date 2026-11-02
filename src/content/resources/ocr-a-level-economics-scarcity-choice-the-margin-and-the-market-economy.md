@@ -53,6 +53,22 @@ Opportunity cost, the production possibility frontier, specialisation, resource 
 - The problem never disappears. Growth raises output, but wants tend to rise with it. Richer countries still face hard choices, for example between spending on health, defence or tax cuts.
 - Judgement: the problem is permanent, but its severity depends on resources, technology and how well choices are made. Poor choices (wasted resources) make scarcity worse than it needs to be.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--02-sc-needs-wants-line.webp" width="900" height="890" alt="Two columns show food, water and shelter as needs in both societies. Internet access is a want in Society A and sits below the line, close to a need, in Society B. An arrow shows wants have no fixed limit." loading="lazy">
+  <figcaption>The dividing line between needs and wants moves with time and place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+
 ## 2. Positive and normative statements
 
 A **positive statement** describes or predicts, and evidence can check it, so it is either true or false. A **normative statement** expresses an opinion on what ought to happen, so evidence alone cannot settle it. Words such as "should", "fair" and "better" are warning signs, but test the whole statement.
@@ -65,6 +81,12 @@ A **positive statement** describes or predicts, and evidence can check it, so it
 | The government should raise the minimum wage | Normative | Depends on values |
 
 A positive statement that proves wrong is still positive. Policy debate mixes both: positive analysis finds consequences, normative judgement chooses between them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## 3. Sustainability, scarcity and choice
 
@@ -79,6 +101,12 @@ A positive statement that proves wrong is still positive. Policy debate mixes bo
 The stock shrinks every year, and the growth shrinks with it, so felling 1,000 is not sustainable. Felling 750 would hold the stock at 12,500. The choice today is between more timber now and a larger stock for the future.
 
 Impact on scarcity and choice: depletion makes the resource scarcer, raises the price of timber and pushes firms toward substitutes. Governments may set quotas, limiting current consumption. Sustainable practice (renewable energy, recycling, replanting) can ease long-run scarcity but often costs more now. Evaluate by asking who bears the cost today and who gains later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--13-woodland-sustainability.webp" width="900" height="840" alt="A woodland of 12,500 cubic metres grows 6% a year. Felling 1,000 a year shrinks the stock to 12,250, 11,985 and 11,704 over three years, and growth falls from 750 to 735 to 719. Felling 750 would hold the stock at 12,500, shown as a dashed line. The vertical axis starts at 11,500." loading="lazy">
+  <figcaption>Felling 1,000 a year is unsustainable; felling 750 holds the stock level.</figcaption>
+</figure>
+
 
 ## 4. Economic agents, factors of production and their rewards
 
@@ -101,6 +129,22 @@ Capital here means physical capital, not money.
 
 Materials are not a factor reward: they are the payment to other firms for their output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--14-value-added-shares.webp" width="900" height="910" alt="Revenue of £640,000 less £140,000 of materials leaves value added of £500,000. It is shared as wages £275,000 (55%) to labour, rent £45,000 (9%) to land, interest £35,000 (7%) to capital and profit £145,000 (29%) to enterprise. Materials pay other firms and are not a factor reward." loading="lazy">
+  <figcaption>How the tile firm’s value added is shared between the four factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--01-sc-agents-roles.webp" width="900" height="900" alt="Households supply labour and other factors to firms and are paid for them. Government taxes both and provides services and rules. A label under each agent gives the aim assumed in simple rational models: utility for households, profit for firms, welfare for government." loading="lazy">
+  <figcaption>Households, firms and government each play a role and are assumed to pursue a different aim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## 5. The market economy
 
 In a market economy, private owners and consumers make most decisions, and prices coordinate them.
@@ -122,6 +166,17 @@ In a market economy, private owners and consumers make most decisions, and price
 **Role of government within the market economy.** Typical roles are to provide a legal framework and property rights, supply goods the market under-provides, correct externalities with taxes, subsidies or regulation, promote competition, redistribute income and stabilise the economy.
 
 **Evaluation.** Intervention can improve outcomes, but governments have limited information, face political pressure, and policies can have unintended consequences or high costs (government failure). The judgement depends on the size of the failure, the quality of the policy, the time available and the value judgements about fairness. A strong answer weighs a named market failure against a named risk and reaches a supported conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--03-sc-intervention-balance.webp" width="900" height="880" alt="A balance compares market failures (third-party costs, unpriced goods, market power, inequality) with government failure risks (limited information, political pressure, unintended effects, high cost). Four factors decide the weighing: size of failure, quality of policy, time and views on fairness." loading="lazy">
+  <figcaption>Name a market failure and a government failure risk, then judge which weighs more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## 6. The concept of the margin
 
@@ -150,6 +205,17 @@ Marginal revenue is £21 for every batch. Marginal cost is below £21 up to batc
 **How useful is the margin?** For: it explains why decisions are small adjustments (one more hour, one more worker), why fixed or "sunk" costs should not affect the next choice, and it underpins supply and demand analysis. Against: agents often lack the data to know their marginal values; some decisions are all-or-nothing; satisfaction and environmental damage are hard to measure; and firms may use rules of thumb. Judgement: it is a powerful guide to what *should* be done in decisions that can be varied by small amounts, and weaker as a description of real behaviour.
 
 **Rationality.** In basic models, a **rational** agent has consistent preferences and aims to maximise utility (households), profit (firms) or welfare (government), using the available information. **Evaluation:** the assumption keeps models simple and predicts well in many markets, such as how firms respond to a tax. But people have limited information and time, follow habits, copy others, care about fairness, and can make decisions that serve them poorly. Rationality is a useful starting point, and more reliable for firms with clear goals than for households making one-off decisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--11-candle-margin.webp" width="900" height="880" alt="Marginal cost per batch is £14, £12, £10, £13, £17 and £22 for batches 1 to 6, against a marginal revenue line of £21. Batch 6 costs more than it earns, so profit falls from £15 after 5 batches to £14 after 6. The candle maker chooses 5 batches. Fixed cost is not part of marginal cost." loading="lazy">
+  <figcaption>Marginal cost against £21 marginal revenue: stop at batch 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--12-coffee-diminishing-mu.webp" width="900" height="880" alt="Marginal utility of cups 1 to 7 is 30, 22, 16, 10, 6, 0 and minus 4, which is diminishing marginal utility. Valuing one util at £0.10 (an assumption), marginal benefit is £3.00, £2.20, £1.60, £1.00, £0.60, £0 and minus £0.40. At a price of £1.20 the consumer buys 3 cups." loading="lazy">
+  <figcaption>Diminishing marginal utility: a £1.20 price means buying 3 cups.</figcaption>
+</figure>
+
 
 ## Common errors
 

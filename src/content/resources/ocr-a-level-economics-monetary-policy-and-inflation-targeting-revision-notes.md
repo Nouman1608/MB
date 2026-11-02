@@ -76,6 +76,37 @@ Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (s
 | Lower exchange rate | Cheaper exports, dearer imports | Net exports rise | Imported inflation |
 | Higher exchange rate | Dearer exports, cheaper imports | Net exports fall | Loss of competitiveness |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--06-mon-mortgage-rate-rise.webp" width="900" height="890" alt="Two bars show annual mortgage interest of 4,500 at 3.0% and 6,300 at 4.2%, an extra 1,800 or 150 a month. A grid of 100 squares for income of 30,000 shows 15 squares of original interest and 6 squares of extra cost, 6% of income." loading="lazy">
+  <figcaption>A rise from 3.0% to 4.2% on a 150,000 mu mortgage costs 1,800 a year, 6% of a 30,000 income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--07-mon-quantitative-easing.webp" width="900" height="810" alt="The central bank sends new electronic money to financial institutions and receives bonds. A bond paying 3 mu yields 3.00% at a price of 100 and 2.88% at 104, so borrowing becomes cheaper." loading="lazy">
+  <figcaption>The central bank swaps new money for bonds, lifting bond prices and lowering yields.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--10-exchange-rate-appreciation-prices.webp" width="900" height="920" alt="The mu rises from 2.00 to 2.20 fu. An export priced 50 mu costs 100 fu then 110 fu (+10%); an import priced 88 fu costs 44 mu then 40 mu (-9.1%). Net exports fall and AD shifts left." loading="lazy">
+  <figcaption>An appreciation makes exports dearer abroad and imports cheaper at home.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--11-money-supply-omo-reserves.webp" width="900" height="920" alt="Two flows: open market operations (buy bonds, banks hold more reserves, more lending, AD rises) and lower reserve requirements (banks can lend more, AD rises). The opposite moves reduce lending." loading="lazy">
+  <figcaption>Central banks can change the money supply through bond trades or the reserves banks must hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## Method in steps: a transmission chain
 
 1. State the change in the instrument.
@@ -85,6 +116,12 @@ Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (s
 5. Add a second-round effect, for example on the exchange rate or house prices.
 6. Evaluate size and timing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--08-mon-rate-cut-multiplier.webp" width="900" height="790" alt="A bar of 2.4 billion mu made of consumption 1.2, investment 0.8 and net exports 0.4 is multiplied by 2.5 to give a 6.0 billion rise in output, which is 3.0% of real GDP of 200 billion." loading="lazy">
+  <figcaption>An initial 2.4 bn rise in AD becomes 6.0 bn of output, 3.0% of GDP, with a multiplier of 2.5.</figcaption>
+</figure>
+
+
 ## Liquidity trap checklist
 
 - Interest rates are close to zero.
@@ -92,6 +129,12 @@ Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (s
 - Banks and borrowers do not respond to a further cut.
 - Deflation expectations keep real rates high.
 - Alternatives are QE, forward guidance and fiscal policy. Fiscal policy is covered in other units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--09-mon-liquidity-trap.webp" width="900" height="860" alt="A line graph of the real rate against the nominal policy rate with expected deflation of 1% a year. Points at 0.25% and 0% give real rates of 1.26% and 1.01%. A real rate of zero would need a nominal rate of minus 1%, in a shaded zone where banks cannot pass on cuts." loading="lazy">
+  <figcaption>With prices falling 1% a year, cutting the policy rate from 0.25% to 0% moves the real rate only from 1.26% to 1.01%.</figcaption>
+</figure>
+
 
 ## Targeting: symmetric versus asymmetric
 
@@ -105,6 +148,12 @@ Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (s
 The UK target is a CPI target of 2%, and the Bank of England has described it as symmetric.
 
 Credible targets anchor expectations. Workers claim less, firms plan investment with confidence, lenders accept lower long-term rates, and the bank needs smaller rate moves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--10-mon-symmetric-asymmetric.webp" width="900" height="970" alt="Bars show inflation of 1.2, 1.9, 2.7, 3.4 and 0.6 percent against a 2 percent target. Symmetric misses are minus 0.8, minus 0.1, plus 0.7, plus 1.4 and minus 1.4, mean 0.88 points. A ceiling counts only years 3 and 4 as breaches." loading="lazy">
+  <figcaption>The same five years of inflation: a symmetric target counts every miss, a 2% ceiling flags only years 3 and 4.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 
@@ -129,6 +178,12 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 4. Announce and explain the decision.
 5. Use market operations to bring market rates into line, or QE if rates are at the floor.
 6. Review outcomes and account for misses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--13-central-bank-six-steps.webp" width="900" height="990" alt="Six steps in a loop: collect data, forecast, compare with the target and vote, announce, use market operations (QE at the floor), review and explain misses. The bank is independent but accountable." loading="lazy">
+  <figcaption>A central bank repeats a data, forecast, decide, communicate, act and review cycle.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -155,6 +210,12 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 8. Symmetric: misses above and below the target count equally. Asymmetric: misses in one direction count as worse.
 9. Expected inflation is a component of wage claims, so when people trust the target they expect lower inflation and ask for smaller rises.
 10. The shock comes from supply (such as imported inputs), so cutting AD lowers output and jobs but does not reduce those costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--12-target-cpi-wage-claims.webp" width="900" height="1040" alt="CPI 125.0 to 128.5 is +2.8%, against a 2% target level of 127.5, so 0.8 points above target. Wage claims equal productivity 1.5% plus expected inflation: 3.5% if 2% is expected, 5.5% if 4%." loading="lazy">
+  <figcaption>A credible target anchors expectations and so wage claims.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

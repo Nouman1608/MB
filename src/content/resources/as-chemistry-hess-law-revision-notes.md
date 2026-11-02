@@ -38,6 +38,17 @@ ENDOTHERMIC  delta-H POSITIVE   heat absorbed from surroundings  products higher
 
 Bond **breaking** is endothermic. Bond **making** is exothermic. Every enthalpy explanation reduces to the balance between the two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
+
 ## Definitions
 
 | Term | Definition |
@@ -50,6 +61,12 @@ Bond **breaking** is endothermic. Bond **making** is exothermic. Every enthalpy 
 Standard conditions: **298 K and 101 kPa** (the values the 9701 syllabus assumes), all substances in standard states.
 
 Two marks live in the small print: **"one mole"** appears in all four, and **ΔH_f of any element in its standard state is zero** by definition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-hess-law-revision-notes--06-hs-four-definitions.webp" width="900" height="1090" alt="Four cards give an example equation for formation, combustion, neutralisation and bond enthalpy, each with its one-mole rule. dHf(CH4) = -76, dHc(CH4) = -890, Cl-Cl +243; dHf of an element in its standard state is zero." loading="lazy">
+  <figcaption>Every definition is per one mole.</figcaption>
+</figure>
+
 
 ## Hess's law
 
@@ -90,6 +107,12 @@ compound go at the **top** of the cycle, combustion products at the
 **bottom**, since every substance can reach the same combustion products
 by a measurable route.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-hess-law-revision-notes--04-hs-two-cycles.webp" width="900" height="1110" alt="Two cycles. With formation data, arrows point up from the elements and dH = sum products - sum reactants, giving -890 for CH4 combustion. With combustion data, arrows point down to CO2 + 2H2O and dHf(CH4) = -966 - (-890) = -76." loading="lazy">
+  <figcaption>The two cycle patterns use opposite subtractions.</figcaption>
+</figure>
+
+
 ## Bond enthalpy calculations
 
 ```
@@ -111,6 +134,12 @@ Bond enthalpy values are always quoted **positive** (the energy needed to
 break that bond); the sign of the final answer comes from the
 subtraction, not from the individual values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-hess-law-revision-notes--05-hs-bond-enthalpy-hcl.webp" width="900" height="1000" alt="Energy ladder to scale: breaking H-H (+436) and Cl-Cl (+243) raises 679 kJ/mol to gaseous atoms; making 2 H-Cl (2 x 432 = 864) lowers it to 2HCl, 185 below the reactants. dH = 679 - 864 = -185 kJ/mol." loading="lazy">
+  <figcaption>Break bonds (energy in), make bonds (energy out).</figcaption>
+</figure>
+
+
 ## Calorimetry
 
 ```
@@ -126,6 +155,17 @@ Four points that decide the marks:
 - The **minus sign** converts "heat gained by the water" into "enthalpy change of the reaction". Omitting it reverses the sign of the answer.
 
 **Why experimental values are less exothermic than data-book values:** heat loss to the surroundings, incomplete combustion, evaporation of the fuel, heat absorbed by the apparatus, and non-standard conditions. A good answer names two or three and says how each would be reduced — insulation, a lid, a shorter distance between flame and beaker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--04-cup-calorimetry.webp" width="900" height="1040" alt="A lidded polystyrene cup with thermometer holds 45.0 g of acid solution and 0.150 g Mg; temperature rises 14.8 K. Steps: n(Mg) 6.170e-3 mol limiting, Q = 2.784 kJ using the solution mass, DeltaH = -451 kJ per mol." loading="lazy">
+  <figcaption>Use the mass of the solution and the limiting reactant: DeltaH = -Q/n = -451 kJ per mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--05-fuel-calorimetry.webp" width="900" height="970" alt="A methanol spirit burner under a can of 150.0 g water with thermometer and stirrer. Arrows show heat lost to air; the can warms and soot forms. The measured -566 kJ per mol is compared with the data -726 kJ per mol, 22 percent less exothermic." loading="lazy">
+  <figcaption>Heat losses and incomplete burning make the measured value 22 % less exothermic than the data value.</figcaption>
+</figure>
+
 
 ## Exam traps
 

@@ -75,6 +75,12 @@ Use the same measure for both numbers, either revenue or units, over the same pe
 
 So Dalveen sold more and still lost share. Competitors grew faster. This is the key point about market share: it shows performance relative to rivals, which revenue cannot do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--01-dalveen-market-share.webp" width="900" height="1010" alt="Two bars to scale show the juice market with Dalveen inside it. Year 1: $1.8 million of $12 million, a 15 percent share. Year 2: $2.1 million of $16.8 million, 12.5 percent. Sales grew 16.7 percent but the market grew 40 percent, so share fell 2.5 points." loading="lazy">
+  <figcaption>Dalveen sold more but lost market share because the market grew faster.</figcaption>
+</figure>
+
+
 ## 3. Customer satisfaction
 
 Customer satisfaction describes how far customers feel the product, price and service meet their expectations. Satisfied customers tend to buy again and may recommend the business to others, which supports revenue and market share. Dissatisfied customers complain, return goods or leave.
@@ -85,6 +91,12 @@ Indicators a business might use include survey results, complaints, returns and 
 
 - Satisfaction rate = 312 ÷ 400 × 100 = 78%.
 - A rate on its own needs a comparison: with last year's figure, with a target, or with a rival. Without one you cannot say whether 78% is good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--04-satisfaction-rates.webp" width="900" height="1070" alt="A grid of 400 squares with 312 filled shows a 78 percent customer satisfaction rate. A grid of 60 people with 9 highlighted shows a 15 percent staff leaving rate, compared with 8 percent last year." loading="lazy">
+  <figcaption>A satisfaction rate needs a comparison; a staff leaving rate rising from 8% to 15% is a warning sign.</figcaption>
+</figure>
+
 
 ## 4. Profit
 
@@ -114,6 +126,12 @@ A margin is a better test of success than a profit figure alone because it relat
 - Year 2 operating profit = 110,400 − 82,800 = 27,600, so the operating profit margin is 27,600 ÷ 276,000 × 100 = 10%.
 
 Revenue grew by 15%, the gross margin held at 40%, but operating profit fell from 36,000 to 27,600. The cause lies in other operating expenses, which rose from 60,000 to 82,800. A good answer names that cause and suggests checking what the extra expenses bought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--02-vessingby-margins.webp" width="900" height="990" alt="Two stacked bars split revenue into cost of sales, other operating expenses and operating profit. Year 1: 240,000 revenue, 144,000, 60,000 and 36,000. Year 2: 276,000 revenue, 165,600, 82,800 and 27,600. Gross margin stays 40 percent but operating margin falls from 15 to 10 percent." loading="lazy">
+  <figcaption>Rising other operating expenses cut operating profit even though revenue grew 15%.</figcaption>
+</figure>
+
 
 ## 5. Growth
 
@@ -165,6 +183,12 @@ A business fails when it cannot continue, usually because it cannot pay what it 
 | April | 20,000 | 17,000 | 3,000 | −6,500 |
 
 The balance goes below zero in February. April's improvement is welcome but does not erase the shortfall. A business in this position needs finance, perhaps an overdraft or a loan, and lenders may refuse if the trend looks poor. Lack of finance is the reason a business cannot cover the gap, so the two phrases in the specification are linked. A business can be profitable on paper and still fail if customers pay late and suppliers must be paid now.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--03-norbeck-cash-balance.webp" width="900" height="1080" alt="A bar chart of closing balances for Norbeck Bikes: January 1,000, February minus 5,000, March minus 9,500, April minus 6,500, with a table of cash in, cash out and net cash flow beneath." loading="lazy">
+  <figcaption>The balance goes below zero in February and April does not erase the shortfall.</figcaption>
+</figure>
+
 
 ## 10. Reasons for failure: not competitive
 

@@ -52,6 +52,12 @@ Full explanations are in the [study guide](/resources/aqa-a-level-economics-dyna
 
 Costs of competition: duplicated research, advertising that only shifts customers between brands, firm failures and job losses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--09-brightwell-payback.webp" width="900" height="790" alt="Cumulative savings of 50,000 a month rise to 600,000 in a year against a 300,000 cost, so the line crosses the cost line at 6 months." loading="lazy">
+  <figcaption>Payback is cost divided by annual saving: 300,000 / 600,000 = 0.5 year.</figcaption>
+</figure>
+
+
 ### Non-price competition
 
 Ways firms compete without changing price:
@@ -77,6 +83,17 @@ Margin = 18 - 11 = 7
 Break-even = 28,000 / 7 = 4,000 extra units
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--10-advertising-break-even.webp" width="900" height="860" alt="Net gain = 15 x chairs - 45,000. The line crosses zero at 3,000 chairs and gives +12,000 at 3,800." loading="lazy">
+  <figcaption>The campaign pays only if it adds more than 3,000 chairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--11-charger-cost-per-year.webp" width="900" height="870" alt="Brand X costs more to buy (120 vs 90) but lasts 4 years against 2, so costs 30 a year against 45." loading="lazy">
+  <figcaption>Quality can beat a lower sticker price when cost per year of use is compared.</figcaption>
+</figure>
+
+
 ### Creative destruction
 
 The chain, in order:
@@ -100,6 +117,12 @@ Evaluation:
 - For: raises productivity, disciplines monopoly, no need for the state to pick winners.
 - Against: structural unemployment, slow if barriers are high, incumbents may buy or copy entrants.
 - Judgement: depends on how high barriers are and how long the transition takes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--04-creative-destruction-entry.webp" width="900" height="890" alt="Bar chart. In year 1 Alpha is the only seller at price 60 and earns 200,000. In year 2 Beta enters, both sell at 48, Alpha earns 56,000 (down 72%) and Beta 80,000. Consumers pay 20% less per unit and 20% more units are sold." loading="lazy">
+  <figcaption>Large profits draw in an innovating entrant, which cuts the price and erodes the incumbent profit.</figcaption>
+</figure>
+
 
 ## 4.1.5.9 Contestable and non-contestable markets
 
@@ -163,6 +186,17 @@ Evaluation of contestability:
 - It explains why concentrated markets can perform well.
 - Few real markets have zero sunk costs, and incumbents can raise them (heavy advertising, exclusive contracts, loyalty schemes).
 - So think about how contestable a market is, and about what raises or lowers sunk costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--05-hit-and-run-sunk-costs.webp" width="900" height="910" alt="Two cases of an entrant earning 36,000 over six months against a 240,000 entry cost. If 90% is recoverable the sunk cost is 24,000 and net is +12,000, so hit-and-run pays. If only 40% is recoverable the sunk cost is 144,000 and net is -108,000, needing 24 months to recover, so it does not pay." loading="lazy">
+  <figcaption>Hit-and-run entry only pays when sunk costs are low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--06-entry-deterring-price.webp" width="900" height="890" alt="Price scale with the entrant cost of 11 dashed. At price 14 the incumbent makes 36,000 but an entrant with cost 11 can undercut and profit. At price 10 the incumbent makes 10,000 and an entrant would make a loss. High sunk costs would let the incumbent hold 14." loading="lazy">
+  <figcaption>A contestable market can force an incumbent to price below the monopoly level to deter entry.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

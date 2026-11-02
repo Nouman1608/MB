@@ -59,6 +59,42 @@ Conditions: many employers and workers, identical workers, full information, fre
 
 **Limits.** The specification says all real-world labour markets are imperfectly competitive to some extent, so the model is a benchmark, not a description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--07-monopsony.webp" width="900" height="930" alt="ACL = 4 + L, MCL = 4 + 2L, MRP = 40 - 2L. Monopsonist hires 900 where MCL = MRP (22), pays 13 from ACL; competitive outcome is 1,200 at 16." loading="lazy">
+  <figcaption>Employer sets employment by MCL = MRP and pays the supply wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--08-union-competitive.webp" width="900" height="930" alt="Demand 1200 - 40W, supply 200 + 60W. At the union wage 13 employers want 680 and 980 want jobs: 300 excess supply. Wage +30%, employment -15%." loading="lazy">
+  <figcaption>A wage above equilibrium creates unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--02-relative-wage-signal.webp" width="900" height="970" alt="Demand and supply for parcel sorters with truncated axes. A demand rise moves equilibrium from 10, 800 to 12, 920; workers moving in shifts supply, giving 10.8, 968. The relative wage falls from 1.20 to 1.08." loading="lazy">
+  <figcaption>Pay rises pull workers in, so the relative wage falls back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--04-labour-market-power.webp" width="900" height="960" alt="Two by two grid: many or one employer against many separate workers or one union. Perfect competition, union in a competitive market, monopsony and bilateral monopoly, with the outcome of each." loading="lazy">
+  <figcaption>Count the employers and the sellers of labour to see where the power lies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Why labour markets are imperfect
 
 | Source | Effect | What strengthens it |
@@ -93,6 +129,12 @@ Monopsony employment is 33% lower and the wage 29% lower than competitive levels
 
 **Evaluation.** Output is lost and workers are paid less than their contribution. The result depends on the number of alternative employers, how mobile workers are and whether the firm can pay different wages to different workers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--01-union-monopsony.webp" width="900" height="1090" alt="Wage against workers in hundreds for the lone cannery: ACL, MCL and MRP lines. With no union 900 workers are hired at 13; a union wage of 16 gives the most jobs, 1,200; a wage of 22 takes employment back to 900. Between 13 and 22 jobs never fall below 900." loading="lazy">
+  <figcaption>A union can raise pay and jobs together against a monopsony, up to the MRP at 900 workers.</figcaption>
+</figure>
+
+
 ## Trade unions
 
 **Entering a competitive market (market above, W = 12, Q = 460, from Qd = 700 − 20W and Qs = 100 + 30W).** If the union wins 15: employment falls to 700 − 300 = 400 and 100 + 450 = 550 want work. Excess supply is 150, so jobs fall (460 to 400, down 13%) while the wage rises 25%. Elasticity of demand is −13/25, about −0.5, so the wage bill rises.
@@ -122,6 +164,12 @@ Employment is the lower of supply and demand at the fixed wage. Wages from 10 up
 - **Wage elasticity of labour demand** = percentage fall or rise in jobs ÷ percentage rise or fall in pay. If wage rises 10% and employment falls 4%, the value is −0.4, which is inelastic. The wage bill is 1.10 × 0.96 = 1.056, up 5.6%.
 - **Index number** = value ÷ base value × 100. A wage of 40 rising to 46 is an index of 115.
 - **Real wage** change = (1 + nominal change) ÷ (1 + inflation) − 1. Nominal pay up 3% when prices rise 5% gives 1.03 ÷ 1.05 − 1 = −1.9%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--03-real-wage.webp" width="900" height="860" alt="Bars from 100: pay 106, prices 104 and real pay 101.9. Real pay rises 1.9% because 1.06 divided by 1.04 minus 1 is 0.019." loading="lazy">
+  <figcaption>A 6% pay rise with 4% price rises is only a 1.9% real rise.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

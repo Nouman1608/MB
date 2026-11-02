@@ -28,6 +28,12 @@ These notes condense section 5, Finance (5.1 to 5.5), of the OCR GCSE (9-1) Busi
 - **Influence on business activity:** what finance reports affects what the other functions can do. Tight cash can limit marketing and recruitment; strong profit can allow expansion.
 - Link every answer to a decision: finance information is useful because someone uses it to choose something.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--03-finance-steers-decisions.webp" width="900" height="760" alt="Finance sits at the top. If it reports that cash is tight, marketing may shrink a campaign and operations may delay new equipment. If it reports healthy profit, the business may recruit staff and expand. Finance supports planning and decision making." loading="lazy">
+  <figcaption>What finance reports shapes what the rest of the business decides to do.</figcaption>
+</figure>
+
+
 ## 5.2 Sources of finance
 
 **Why finance is needed (the five reasons to learn):** establishing a new business; funding expansion; to run the business; recruitment; marketing.
@@ -50,6 +56,17 @@ These notes condense section 5, Finance (5.1 to 5.5), of the OCR GCSE (9-1) Busi
 2. Identify the business: new (no profit history) or established (records, assets, profit)?
 3. Pick the source that fits both.
 4. Add a drawback, such as interest, lost control or a failed target.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--09-shed-finance-match.webp" width="900" height="975" alt="An £18,000 shed is funded by £7,500 retained profit and a £10,500 loan. Short gaps suit an overdraft or trade credit; long-term needs suit a loan, retained profit or owners capital." loading="lazy">
+  <figcaption>Match the source of finance to the need and its time span.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
 
 ## 5.3 Revenue, costs, profit and loss
 
@@ -92,6 +109,32 @@ ARR = 2,500 / 20,000 x 100 = 12.5%
 
 Interpretation: compare with other projects or with a target. Higher is better, but ARR does not allow for risk or for forecasts being wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--07-margin-falls-profit-rises.webp" width="900" height="990" alt="Two bars split each £1 of sales: cost of sales, other expenses and net profit, for Year 1 and Year 2. Net profit rose in pounds but gross margin fell from 40% to 38% and net margin from 14% to 13%." loading="lazy">
+  <figcaption>Profit can rise in pounds while the margin falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--08-arr-two-projects.webp" width="900" height="1040" alt="Project A earns more pounds a year (£7,500 against £5,200) but Project B earns more per £100 invested (£16.25 against £15.00)." loading="lazy">
+  <figcaption>ARR compares profit with cost: B 16.25% beats A 15%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+
 ## 5.4 Break-even
 
 - **Concept:** total costs = total revenue. No profit, no loss.
@@ -108,6 +151,22 @@ Sales above 500 earn £3.50 profit each; sales below 500 make a loss.
 ```
 
 **Usefulness:** informs marketing and planning decisions (pricing, sales targets, whether a plan is realistic). **Limits:** assumes everything made is sold and that prices and costs stay constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--05-halbeck-break-even.webp" width="900" height="990" alt="Revenue and total cost lines cross at 300 sessions and £8,400. At 250 sessions the loss is £850 and at 380 the profit is £1,360." loading="lazy">
+  <figcaption>Break-even is fixed costs divided by contribution: 5,100 / 17 = 300 sessions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--06-break-even-price-rise.webp" width="900" height="1010" alt="A zoomed chart shows break-even moving left from 300 to 269 sessions when the price rises from £28 to £30." loading="lazy">
+  <figcaption>A higher price raises contribution and lowers break-even; round up to whole sessions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## 5.5 Cash and cash flow
 
@@ -134,6 +193,12 @@ Sales above 500 earn £3.50 profit each; sales below 500 make a loss.
 **Quick reminder.** Opening £900, cash in £4,200, cash out £3,500: net cash flow = £700; closing balance = £1,600.
 
 **Remedies for a shortage:** overdraft, longer trade credit from suppliers, chasing customers who owe money, delaying spending, selling an asset. Choose the one that fits the size and length of the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--04-drovers-cash-carried-forward.webp" width="900" height="810" alt="Bars show opening and closing cash for January to March. January opens at 2,400 pounds and closes at 1,600 after net cash flow of minus 800. February opens at 1,600 and closes 200 pounds overdrawn after minus 1,800. March opens at minus 200 and closes at 1,000 after plus 1,200. Dashed arrows carry each closing balance forward as the next opening balance." loading="lazy">
+  <figcaption>Each month closing balance is the next month opening balance; Drovers is 200 pounds overdrawn at the end of February.</figcaption>
+</figure>
+
 
 ## Command words and answer shape
 

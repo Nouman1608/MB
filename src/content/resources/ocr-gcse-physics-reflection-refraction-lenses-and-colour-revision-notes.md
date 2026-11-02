@@ -60,6 +60,27 @@ Method for a wavelength problem:
 
 Worked reminder: infrared with frequency 3.0 × 10¹⁴ Hz has wavelength 1.0 × 10⁻⁶ m in air (3.00 × 10⁸ ÷ 3.0 × 10¹⁴). In water, with speed 2.25 × 10⁸ m/s, it is 7.5 × 10⁻⁷ m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--06-wavelength-in-glass.webp" width="900" height="830" alt="A wave passes from air to glass. Speed falls from 3.00 x 10^8 to 2.0 x 10^8 m/s and wavelength from 625 nm to 417 nm, while frequency stays at 4.8 x 10^14 Hz." loading="lazy">
+  <figcaption>When light slows in glass the wavelength shortens in proportion; frequency does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--08-blue-light-water.webp" width="900" height="830" alt="Two wave strips to the same scale: blue light has wavelength 462 nm in air and 346 nm in water at the same frequency 6.5e14 Hz. Speed in water is 2.25e8 m/s." loading="lazy">
+  <figcaption>Same frequency, shorter wavelength, lower speed in water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--09-microwave-wavelength.webp" width="900" height="720" alt="A wave of frequency 2.45e9 Hz drawn against a cm ruler: one wavelength is 0.122 m, which is 12.2 cm." loading="lazy">
+  <figcaption>One wavelength of a microwave oven wave is 12.2 cm, shown against a ruler.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+
 ## P5.3d: ray diagram rules (Higher Tier only)
 
 | Situation | Rule |
@@ -100,6 +121,32 @@ Convex lens images:
 
 Similarities between lenses: both refract at two surfaces, both have principal foci, and a centre ray goes straight on. Qualitative work only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--05-law-of-reflection.webp" width="900" height="830" alt="A ray hits a plane mirror at 35 degrees to the normal and reflects at 35 degrees on the other side. The 55 degree angle to the mirror surface is marked as the common wrong measurement." loading="lazy">
+  <figcaption>Angle of incidence equals angle of reflection, both measured from the normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--04-lens-f-to-2f.webp" width="900" height="840" alt="Ray diagram for a converging lens with f = 4 cm. A 2 cm object 6 cm from the lens gives a real, inverted image 4 cm tall 12 cm beyond the lens, magnified by 2.0." loading="lazy">
+  <figcaption>An object between F and 2F gives a real, inverted, magnified image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--08-lens-magnifier.webp" width="900" height="900" alt="Ray diagram for a convex lens with the object inside the principal focus. The two refracted rays spread out and never meet; dotted lines traced backwards meet 7.5 cm from the lens on the same side as the object, giving a virtual, upright image 5 cm tall, which is 2.5 times larger than the 2 cm object." loading="lazy">
+  <figcaption>Inside the principal focus a convex lens gives a larger, upright, virtual image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--09-lens-concave.webp" width="900" height="800" alt="Ray diagram for a concave lens. A ray parallel to the axis bends away from the axis, appearing to come from the principal focus on the object side; the ray through the centre is undeviated. The refracted rays never cross, but dotted lines traced back meet 4 cm from the lens on the object side, giving a virtual, upright image 1 cm tall (one third of the object)." loading="lazy">
+  <figcaption>A concave lens only ever makes a virtual, upright, smaller image.</figcaption>
+</figure>
+
+
 ## P5.3e: colour (Higher Tier only)
 
 - Primary colours of light: red, green, blue.
@@ -117,6 +164,12 @@ Method for a colour question:
 3. For an object, list what it reflects.
 4. Only colours present in the light and also reflected or transmitted reach the eye.
 5. If none are left, the answer is black (no light).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--07-filters-and-colour.webp" width="900" height="1010" alt="Primary colours as red, green and blue bars. A red filter leaves red; magenta leaves red and blue; red then green leaves nothing; green light on a red book is absorbed so it looks black." loading="lazy">
+  <figcaption>Filters and objects only remove colours from the light; they never add any.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -187,6 +240,12 @@ For a method or evaluation question, say what you change, what you measure, and 
 9. Red and green, which combine to look yellow. It absorbs blue.
 10. Black or very dark. The shirt reflects blue but absorbs red, and there is no blue in the light.
 11. Paper scatters light in many directions. A mirror gives specular reflection, so parallel rays stay parallel and only reach certain positions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

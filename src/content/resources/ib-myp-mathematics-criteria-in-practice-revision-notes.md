@@ -43,6 +43,17 @@ relationship between its sides) that a student must first translate into a quadr
 solving it -- the mathematical knowledge is identical, but recognising which knowledge applies to an
 unfamiliar framing is what the top band actually credits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-in-practice-revision-notes--01-myp-familiar-unfamiliar.webp" width="900" height="850" alt="A familiar task, solve x squared plus 2x minus 48 equals 0, beside an unfamiliar garden problem: area 48 square metres, length 2 metres more than the width. Translating gives w(w+2)=48, the same quadratic, which factorises to (w+8)(w-6)=0, so width 6 m and length 8 m; -8 is rejected." loading="lazy">
+  <figcaption>The mathematics is identical; the top band credits recognising it in an unfamiliar framing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--01-ab-band-stairs.webp" width="900" height="805" alt="A staircase of four bands for Criterion A: simple, more complex, challenging, then challenging in familiar and unfamiliar situations. Below, strand iii of Criterion B is not shown at levels 1 to 4, is verify at 5 to 6, and is verify and justify (Year 5: or prove) at 7 to 8." loading="lazy">
+  <figcaption>Criterion A rises by problem difficulty and, at 7-8, unfamiliar situations; Criterion B strand iii only appears from band 5-6.</figcaption>
+</figure>
+
+
 ## Criterion B: Investigating patterns
 
 Top-band evidence works through a genuine mathematical investigation as a risk-taker, inquirer and
@@ -55,6 +66,12 @@ top-band investigation does not just state the formula for the nth triangular nu
 process of counting dots for the first few figures, noticing the pattern in the differences between
 consecutive terms, forming a conjecture about the general rule, and then testing that conjecture
 against a further figure before presenting it as a justified general statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--08-triangular-pattern-n-n-plus-1-over-2.webp" width="900" height="1010" alt="Five dot triangles with 1, 3, 6, 10 and 15 dots, first differences 2, 3, 4, 5, second differences all 1, and the rule n(n+1)/2 giving 210 for the 20th term." loading="lazy">
+  <figcaption>A constant second difference signals a quadratic rule, here n(n+1)/2.</figcaption>
+</figure>
+
 
 ## Criterion C: Communicating
 
@@ -70,6 +87,12 @@ values clearly. Only the second demonstrates top-band communication, since the c
 clarity and completeness of the mathematical communication itself, not merely whether the final answer
 is correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--09-cd-solution-layout.webp" width="900" height="850" alt="Five numbered blocks: aim, information, method, result, conclusion, filled in for the tiling problem (203 tiles, 17 boxes, 204 tiles)." loading="lazy">
+  <figcaption>A written solution follows aim, information, method, result, conclusion.</figcaption>
+</figure>
+
+
 ## Criterion D: Applying mathematics in real-life contexts
 
 Top-band evidence transfers theoretical knowledge into a genuinely real-world situation, draws valid
@@ -83,6 +106,17 @@ behave differently at very high or very low output levels? Explicitly discussing
 limitations, not just producing a numerical prediction, is what separates top-band Criterion D
 evidence from merely competent calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--03-candle-model-validity.webp" width="900" height="1100" alt="The candle model h = 24 − 1.5t is a straight line valid until it reaches 0 at t = 16; beyond that it gives impossible negative heights. Measured heights differ from the model by 0.1, 0.2 and 0.4 cm, a growing gap, so the real rate is about 1.46 cm per hour." loading="lazy">
+  <figcaption>Evidence (growing gaps) and limit (domain 0 ≤ t ≤ 16) are what a justified conclusion states.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--10-cd-band-ladder.webp" width="900" height="790" alt="Four bands from 1-2 to 7-8 with short plain-word summaries for Criterion C (limited to consistently correct) and Criterion D (limited success to appropriate model and correct solution)." loading="lazy">
+  <figcaption>How Criteria C and D read in each band, in plain words.</figcaption>
+</figure>
+
+
 ## Why treating the four criteria as fully independent is a mistake
 
 Although each criterion is scored separately on its own 1-8 scale (the four descriptor bands; the MYP
@@ -94,6 +128,12 @@ example, naturally produces both Criterion B evidence (the investigative process
 evidence (how clearly that process is communicated). Revising each criterion in complete isolation
 from the others risks producing work that satisfies one criterion's descriptors while accidentally
 neglecting another that the same task was also designed to assess.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-in-practice-revision-notes--02-myp-scored-apart-evidenced-together.webp" width="900" height="770" alt="Four tiles for Criteria A to D, each scored 0 to 8, total 0 to 32. One investigation task points to Criterion B (the investigative process) and Criterion C (how clearly it is communicated)." loading="lazy">
+  <figcaption>Each criterion is scored separately, but one well-designed task can supply evidence for several.</figcaption>
+</figure>
+
 
 ## Self-test
 

@@ -55,12 +55,34 @@ Related pages: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checkl
 
 Arrow rule: **length = magnitude, head = direction**. With a scale of 1 cm to 4 N, a 14 N force is 3.5 cm long.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--11-fo-walker-distance-displacement.webp" width="900" height="830" alt="A walker goes 60 m east then 20 m west in 40 s. Distance is 80 m (scalar), average speed 2.0 m/s. Displacement is 40 m east (vector), average velocity 1.0 m/s east." loading="lazy">
+  <figcaption>The same walk gives a distance of 80 m but a displacement of 40 m east.</figcaption>
+</figure>
+
+
 ## Force pairs
 
 - When two objects interact, each exerts a force on the other.
 - The two forces are vectors: equal in size, opposite in direction.
 - They act on **different objects**, so they never cancel each other.
 - Example: a boot pushes the ground backwards; the ground pushes the boot forwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--10-force-vector-scale.webp" width="900" height="740" alt="A box with a 15 N force arrow to the right drawn on a scale of 1 cm to 5 N. The arrow is three 5 N steps long, 3.0 cm on the ruler. The head shows direction." loading="lazy">
+  <figcaption>Length = force / scale, and the arrow head shows the direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--04-mass-vs-weight.webp" width="900" height="950" alt="The same 10 kg mass hangs from a force meter on the Earth (98 N, g = 9.8 N/kg) and on the Moon (16 N, g = 1.6 N/kg). The weight arrows are drawn in proportion to the weights. The mass does not change." loading="lazy">
+  <figcaption>Weight is a force that depends on the gravitational field strength; mass does not change.</figcaption>
+</figure>
+
 
 ## Equations
 
@@ -114,6 +136,12 @@ The value of g is given in the question. Use that value.
 - Field forces act without contact because each object sits in a field: a falling apple is in the Earth's gravitational field, a paper clip near a magnet is in its magnetic field, and a charged comb near scraps of paper is in an electric field.
 - A force changes the shape of an object only when other forces also act. A spring needs a pull at each end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--10-fo-contact-noncontact.webp" width="900" height="930" alt="Contact forces: tension, the normal contact force, friction and air resistance. Non-contact forces: gravity, the electrostatic force and the magnetic force. Friction and air resistance oppose motion and heat the surroundings." loading="lazy">
+  <figcaption>Contact forces need touching objects; field forces act across a gap.</figcaption>
+</figure>
+
+
 ## Model answers to learn
 
 - **Stretching.** "The extension is directly proportional to the force, so the graph is a straight line through the origin, until the limit of proportionality."
@@ -127,6 +155,17 @@ The value of g is given in the question. Use that value.
 - Beyond the limit the line curves: extension grows faster than force.
 - A stiffer spring has a larger k, so a steeper force-extension line.
 - A spring stretched elastically stores elastic potential energy, and releases it when it returns to its original length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--11-elastic-or-inelastic.webp" width="900" height="880" alt="A spring is measured before, under load and after: it returns to its original length (elastic). A paper clip pulled open stays longer than its original length (inelastic)." loading="lazy">
+  <figcaption>Elastic objects return to their original shape; inelastic ones stay distorted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--14-fo-spring-elastic-energy.webp" width="900" height="940" alt="A spring at natural length stores no energy. Pulling it does work and it stores elastic potential energy. Released, it returns to its original length and the dart gains kinetic energy." loading="lazy">
+  <figcaption>Work done stretching a spring is stored as elastic potential energy.</figcaption>
+</figure>
+
 
 ## Required practical: force and extension
 
@@ -142,6 +181,17 @@ The value of g is given in the question. Use that value.
 
 Unloading the spring and re-measuring checks whether the distortion was elastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--08-spring-practical-results.webp" width="900" height="900" alt="Force against extension from the practical results: points up to 5 N lie on a straight line through the origin with gradient about 50 N/m; the 6 N and 7 N points fall below the extended line." loading="lazy">
+  <figcaption>The line is straight until the limit of proportionality, after which extension grows faster than force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--13-fo-spring-rig.webp" width="900" height="940" alt="A spring hangs from a clamp on a stand with a metre rule beside it. A pointer at the bottom of the spring reads against the rule, masses hang below, and the eye is kept level with the pointer." loading="lazy">
+  <figcaption>The apparatus for the force and extension practical.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Mass and weight:** mass is a scalar in kg and does not change with place. Weight is a vector in N and depends on g.
@@ -149,6 +199,12 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 - **Speed and velocity:** speed is a scalar. Velocity includes direction.
 - **Length and extension:** extension is the increase in length.
 - **Elastic and inelastic:** elastic recovers fully; inelastic does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -189,6 +245,17 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 - Writing "the forces cancel" for a force pair, without noting they act on different objects.
 - In the practical, forgetting to read at eye level, or saying "repeat" without saying what is then averaged.
 - Calling a graph proportional when it does not pass through the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--09-cyclist-average-speed.webp" width="900" height="960" alt="Distance-time graph for the cyclist: 5.0 m/s for 10 s, rest for 15 s, then 4.5 m/s for 20 s. A dashed line from the origin to (45 s, 140 m) has gradient 3.1 m/s, the average speed." loading="lazy">
+  <figcaption>Average speed is total distance over total time, and the rest counts as time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--12-fo-weight-and-g.webp" width="900" height="940" alt="A 3.5 kg sample where g is 3.7 N/kg weighs 12.95 N, about 13 N. A tool weighing 20 N where g is 1.6 N/kg has mass 12.5 kg, which it keeps anywhere." loading="lazy">
+  <figcaption>Mass stays the same wherever you are; weight changes with g.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

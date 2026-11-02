@@ -41,6 +41,12 @@ These notes condense the manufacturing organisations content of section 3.4 of t
 
 The specification says the provision for unrealised profit will not be examined, so finished goods move from the factory at cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--07-un15-ashvane-comments.webp" width="900" height="870" alt="Overheads of 46,700 are 38.9% of prime cost 119,900; gross profit 94,100 on net sales 258,000 is 36.5%; prime cost is materials 71,300 (59.5%) and wages 48,600 (40.5%). One year cannot show a trend." loading="lazy">
+  <figcaption>Ashvane figures to calculate before commenting: a figure, a comparison and a reason.</figcaption>
+</figure>
+
+
 ## Layout to learn
 
 | Line in the manufacturing account | Add or deduct |
@@ -70,6 +76,17 @@ The specification says the provision for unrealised profit will not be examined,
 | Office salaries, selling expenses | No | Yes |
 | Opening and closing finished goods | No | Yes |
 | Closing raw materials | Yes (deduct) | No |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--05-un15-ashvane-depreciation.webp" width="900" height="900" alt="Machinery cost 90,000: earlier depreciation 36,000, this year 10,800 (20% of 54,000 carrying amount), carrying amount 43,200. Office equipment cost 20,000: earlier 6,000, this year 2,000 (10% of cost), carrying amount 12,000. Machinery charge goes in the manufacturing account, office charge in the income statement; carrying amounts total 55,200." loading="lazy">
+  <figcaption>Reducing balance uses the carrying amount, straight line uses cost, and each charge goes to a different statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
 
 ## Adjustments in steps
 
@@ -112,6 +129,12 @@ Now add these facts. The owner took finished goods that cost 600 for own use. Se
 
 The 600 of goods also increases drawings by 600 in the equity section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--01-mp15-factory-cost.webp" width="900" height="880" alt="Raw materials used and direct wages add to prime cost of 119,900 dollars; overheads of 46,700 bring the factory cost of finished goods to 166,600 dollars, which replaces purchases in the income statement." loading="lazy">
+  <figcaption>Prime cost plus overheads gives the factory cost that replaces purchases.</figcaption>
+</figure>
+
+
 ## Income statement layout for a manufacturer
 
 | Block | Contents |
@@ -124,6 +147,12 @@ The 600 of goods also increases drawings by 600 in the equity section.
 
 Income due (such as rent receivable) is added to profit as other income. Income received in advance is deducted from the income of the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--02-mp15-cost-of-sales.webp" width="900" height="945" alt="Opening finished goods 9,200 and factory cost 166,600 are added, then closing finished goods 10,400 and goods taken for own use 1,500 are deducted, giving cost of sales 163,900 dollars and gross profit 94,100 dollars." loading="lazy">
+  <figcaption>The manufacturer cost of sales uses factory cost, not purchases.</figcaption>
+</figure>
+
+
 ## Statement of financial position headings
 
 | Heading | What a manufacturer shows |
@@ -132,6 +161,12 @@ Income due (such as rent receivable) is added to profit as other income. Income 
 | Current assets | Raw materials inventory, finished goods inventory, trade receivables less provision, other receivables, bank |
 | Current liabilities | Trade payables, other payables, any overdraft |
 | Equity | Opening capital, plus profit for the year, less drawings (including goods taken for own use) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-manufacturing-accounts--06-un15-ashvane-position.webp" width="900" height="960" alt="Statement of financial position for Ashvane Joinery with raw materials 7,100 and finished goods 10,400 highlighted as two inventory lines among current assets of 54,100; net assets 94,400 equal equity of capital 80,000 plus profit 45,900 less drawings 31,500." loading="lazy">
+  <figcaption>A manufacturer shows raw materials and finished goods as separate inventory lines.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

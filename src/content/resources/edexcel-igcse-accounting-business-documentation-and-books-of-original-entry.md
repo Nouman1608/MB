@@ -120,6 +120,17 @@ Authorised: Office Manager   Received: J. Quayle
 
 Common errors: treating a credit note as if it increased the amount owed, forgetting that a statement shows the whole account while an invoice shows one transaction, and sending a remittance advice that does not name the invoices paid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--01-doc-trail.webp" width="900" height="912" alt="Kestlow (buyer) and Pellowe (seller) exchange five documents in order. Kestlow sends purchase order 4417 on 3 May. Pellowe sends invoice 7821 for $702.00, credit note 0316 for $40.50 and a statement showing $661.50 due. Kestlow replies with a remittance advice and a cheque for $661.50." loading="lazy">
+  <figcaption>Who sends which document, and in what order, in one credit purchase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--02-statement-balance.webp" width="900" height="710" alt="A bar chart follows the Pellowe statement balance through May. It starts at $310.00, rises by invoice 7821 ($780 less 10% = $702.00), falls by credit note 0316 ($45.00 less 10% = $40.50) and by the $310.00 payment, and ends at $661.50 due." loading="lazy">
+  <figcaption>The statement balance rises with invoices and falls with credit notes and payments.</figcaption>
+</figure>
+
+
 ## Why we need books of original entry
 
 Transactions happen in a stream. Entering each one straight into the ledger would bury the ledger in detail and make mistakes easy. Instead each transaction is first recorded in a **book of original entry**, in date order, from the source document. These books:
@@ -167,6 +178,17 @@ Kestlow's invoices and credit notes for May 2027, all shown at net amounts after
 
 Only credit transactions appear here. Cash purchases and sales go in the cash book. Each total is posted to one ledger account (purchases, sales, purchases returns, sales returns), while each line is posted to the supplier's or customer's own account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--03-which-book.webp" width="900" height="965" alt="Eight Kestlow transactions are each matched to one book of original entry. Credit sales, credit purchases and credit notes go to day and returns books, cash sales to the cash book, small payments to the petty cash book, and the desk bought on credit and the debt write-off to the journal." loading="lazy">
+  <figcaption>Each transaction is first recorded in exactly one book of original entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--01-prime-entry-flow.webp" width="900" height="950" alt="Three credit sales invoices are entered in the sales day book, total 2,700 dollars. Each is debited separately to the customer in the sales ledger and the total is credited once to Sales, so debits equal credits. Credit notes of 150 and 90 total 240 and are debited to Sales returns." loading="lazy">
+  <figcaption>Post each invoice to the customer, but post the day book total to Sales once.</figcaption>
+</figure>
+
+
 ## The three-column cash book
 
 The cash book has a debit side for receipts and a credit side for payments, with columns for **discount**, **cash** and **bank** on each side. The discount column is not part of the balance. It records **discount allowed** to customers (debit side) and **discount received** from suppliers (credit side). A cheque paid in goes in the bank column. A **contra entry**, marked C, appears on both sides of the book, for example cash paid into the bank.
@@ -205,6 +227,17 @@ Check the working. Harrow Bay owed 400.00 and paid 390.00 after 10.00 discount. 
 
 The Pellowe payment of 310.00 appears in the bank column, because it was a cheque; the statement above shows it received on 20 May.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--04-cashbook-columns.webp" width="900" height="830" alt="Kestlow's cash book at 31 May. Cash receipts of $577.50 less payments of $215.00 leave $362.50, and bank receipts of $3,110.19 less payments of $1,489.70 leave $1,620.49. The discount columns, 15.31 allowed and 4.30 received, are totalled but never added into either balance." loading="lazy">
+  <figcaption>Balance the cash and bank columns separately; the discount columns are only totalled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--05-contra-both-sides.webp" width="900" height="826" alt="Two contra entries. On 11 May $200 withdrawn from the bank is a debit in the cash column and a credit in the bank column. On 27 May $120 paid into the bank is a debit in the bank column and a credit in the cash column." loading="lazy">
+  <figcaption>A contra entry appears on both sides of the cash book, in different columns.</figcaption>
+</figure>
+
+
 ## The petty cash book
 
 Small payments are handled by a petty cashier. A common way to run this, called the **imprest system**, is to give the cashier a fixed float at the start and, at the end of each period, to reimburse exactly what was spent, restoring the float. The book has a receipts column, a date, details, a voucher number, a total payments column and **analysis columns** for types of expense.
@@ -230,6 +263,12 @@ Receipts Date   Details           Vch  Total  Postage Travel Cleaning Sundries
 
 The analysis columns add to the total: 21.20 + 15.25 + 26.35 + 6.20 = 69.00. Before the reimbursement the balance was 31.00 (100.00 - 69.00). The reimbursement of 69.00 is the same sum that appears on the credit side of the cash book on 29 May, and it restores the float to 100.00. Each analysis total is later posted to its own expense account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--02-petty-cash-imprest.webp" width="900" height="900" alt="A float of 150 dollars pays postage 32, refreshments 18, travel 27 and cleaning 14, a total of 91, leaving 59. The bank reimburses 91 to restore the float to 150, with each expense debited and the bank credited." loading="lazy">
+  <figcaption>The imprest system tops the float back up by exactly what was spent.</figcaption>
+</figure>
+
+
 ## The journal
 
 The journal is the book where you first record any transaction that fits none of the other books. It is used for non-routine items: buying non-current assets on credit, opening entries for a new business, writing off irrecoverable debts, and correcting errors. Each entry shows the date, the accounts to debit and credit, the amounts and a **narrative** explaining why.
@@ -252,6 +291,12 @@ The journal is the book where you first record any transaction that fits none of
 ```
 
 Every entry balances: debits equal credits. The first entry is not in the purchases day book because the item is a non-current asset, not goods for resale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--03-u2-005-journal-entries.webp" width="900" height="940" alt="Three journal entries in date, details, debit and credit columns: debit account first, credit account indented, then a narrative. In each, debit and credit amounts are equal: 480, 64 and 45." loading="lazy">
+  <figcaption>A journal entry shows the debit, the credit and a narrative, and always balances.</figcaption>
+</figure>
+
 
 ## Common errors
 

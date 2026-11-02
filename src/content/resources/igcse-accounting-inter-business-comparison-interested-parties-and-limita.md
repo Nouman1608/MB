@@ -169,6 +169,12 @@ differently from Meridew, any gap between them would partly be a policy gap.
 The size of the allowance for irrecoverable debts and the way inventory is
 valued work in the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-inter-business-comparison-interested-parties-and-limita--06-van-policy-roce.webp" width="900" height="900" alt="A 60,000 van depreciated straight line charges 12,000 and gives ROCE 12.19%; 25% reducing balance charges 15,000 and gives ROCE 11.91%. Profit before interest is 117,000 against 114,000 and capital employed 960,000 against 957,000." loading="lazy">
+  <figcaption>The choice of depreciation policy alone changes ROCE.</figcaption>
+</figure>
+
+
 ### Problems of inter-business comparison
 
 - Information may be missing. Another business may publish only summarised
@@ -181,6 +187,17 @@ year end in July show very different inventory and receivables.
 owned or rented, or location.
 - One year may be unusual for one of them.
 - Non-financial aspects are ignored (see 6.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-inter-business-comparison-interested-parties-and-limita--05-dalbeck-meridew-days.webp" width="900" height="1010" alt="Paired bars in days. Inventory turnover 32.59 against 87.35; receivables 10.14 against 60.83; payables 30.42 against 54.75. The differences come from type of goods, cash or credit selling and size." loading="lazy">
+  <figcaption>Different goods and selling methods explain large ratio gaps without proving better management.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-inter-business-comparison-interested-parties-and-limita--03-dalbeck-meridew-margin-roce.webp" width="900" height="1050" alt="Meridew has the higher profit margin (11.00% against 8.33%) but Dalbeck has the higher ROCE (16.00% against 12.19%). Meridew capital employed is 960,000 including a 300,000 loan, against 250,000 for Dalbeck. ROCE uses profit before interest: 117,000 for Meridew." loading="lazy">
+  <figcaption>A loan raises capital employed and lowers ROCE even when the margin is higher.</figcaption>
+</figure>
+
 
 ## 6.4 Interested parties
 
@@ -233,6 +250,22 @@ Parties can want opposite things. Owners may want a high withdrawal while
 lenders prefer cash to stay in the business. A good answer names the party,
 the decision, and the figure used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-inter-business-comparison-interested-parties-and-limita--08-parties-decisions.webp" width="900" height="886" alt="A bank looks at an acid test of 1.07 to 1 to decide whether to lend. A supplier sees payables taking 45 days against 30 allowed. Chess club members see subscriptions of 3,600 against costs of 4,100, a deficit of 8.33 each." loading="lazy">
+  <figcaption>Each party picks a different figure to support a different decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-inter-business-comparison-interested-parties-and-limita--04-seven-readers.webp" width="900" height="1090" alt="Owner, manager, employee, customer, investor, lender and government each ask a different question of the same statements. Investors want growth and dividends; lenders want liquidity and repayment." loading="lazy">
+  <figcaption>Each reader asks a different question of the same figures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+
 ## 6.5 Limitations of accounting statements
 
 The statements are a useful but incomplete picture. The syllabus names
@@ -271,6 +304,12 @@ service, but its skill is not an asset in the statement.
 years, and a road closure can ruin it. Neither appears.
 - Economic climate. A recession lowers customers' spending, and rising
 interest rates raise borrowing costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-inter-business-comparison-interested-parties-and-limita--07-historic-cost-roce.webp" width="900" height="840" alt="Lowick Mill earns 54,000 profit before interest. With land at cost (80,000) capital employed is 400,000 and ROCE 13.50%. With land at 240,000 reserves rise by 160,000, capital employed is 560,000 and ROCE 9.64%." loading="lazy">
+  <figcaption>Valuing land at cost or at current value gives two different ROCE figures.</figcaption>
+</figure>
+
 
 ## Common errors
 

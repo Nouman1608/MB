@@ -135,6 +135,22 @@ In 2028 trade receivables after write-offs are 41,200, so the provision required
 
 If the business had no provision at all before, the whole new provision is the charge. If the required provision equals the opening balance, no entry is made.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables--01-write-off-two-debts.webp" width="900" height="800" alt="Two customer boxes, R. Faulkner who owed 640 and D. Santoro who owed 385, each credited so the balance is nil. Both amounts are debited to the irrecoverable debts account, shown as a bar totalling 1,025, which is transferred to the income statement as an expense." loading="lazy">
+  <figcaption>Each write-off credits the customer and debits irrecoverable debts, and the total of 1,025 is the year expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables--02-provision-increase-only.webp" width="900" height="890" alt="Four numbered steps in dollars: receivables 48,600 less write-offs 1,025 is 47,575; 4 percent gives a provision of 1,903; 1,500 is already held; the increase of 403 is recorded. A bar splits 1,903 into 1,500 and 403, and the year charge is 1,025 plus 403, which is 1,428." loading="lazy">
+  <figcaption>Write off first, take 4 percent of what remains, then charge only the increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables--03-provision-two-year-ends.webp" width="900" height="920" alt="Bars for the provision: 1,500 at the start, 1,903 at 31 December 2027 (an increase of 403) and 1,648 at 31 December 2028 (a decrease of 255). Below, trade receivables less provision are 45,672 in 2027 and 39,552 in 2028." loading="lazy">
+  <figcaption>The provision rises by 403 (an expense) then falls by 255 (reduces expenses), and is deducted from trade receivables.</figcaption>
+</figure>
+
+
 ## Other receivables and other payables (2.7)
 
 ### Why they must be accounted for
@@ -153,6 +169,12 @@ Mistlebrook has an electricity bill for November and December of 420 that arrive
 | Balance in the account | Credit | Debit |
 
 The distinction is simple. Other payables are sums the business owes for things other than goods bought for resale. Other receivables are amounts owed to the business, or paid ahead by it, that are not from trade customers. The specification words these only in general terms, so treat both expenses and incomes as in scope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in--09-adj-four-ledger-sides.webp" width="900" height="970" alt="Four small T-accounts show where b/d and c/d sit. Other payables and income received in advance (liabilities) open on the credit side; other receivables and income due (assets) open on the debit side. The balance is carried down on the opposite side and brought down on the same side as the opening balance." loading="lazy">
+  <figcaption>Assets open on the debit side and liabilities on the credit side.</figcaption>
+</figure>
+
 
 ### Calculating the amount for the income statement
 
@@ -186,6 +208,12 @@ Bank (paid in year)       3,150   1 Jan  Balance b/d (owed)    360
 
 The accrued amounts are carried down on the debit side because the account needs a credit balance to show a liability. Check the totals: 3,150 + 420 = 3,570 and 360 + 3,210 = 3,570. The 420 appears under other payables in current liabilities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables--04-accrued-electricity-expense.webp" width="900" height="830" alt="Bars in dollars: cash paid 3,150, less 360 owed at the start, plus 420 owed at the end, give an electricity expense of 3,210. The 420 owed is an other payable, a current liability with a credit balance." loading="lazy">
+  <figcaption>Expense equals cash paid, less the opening accrual, plus the closing accrual.</figcaption>
+</figure>
+
+
 ### Worked example 2: a prepaid expense with time apportionment
 
 The old insurance policy was paid on 1 October 2026 for 3,600 for twelve months, so at 1 January 2027 nine months were prepaid: 3,600 x 9/12 = 2,700. A new policy costing 3,840 was paid on 1 October 2027 for twelve months. At 31 December 2027 three months have been used, so nine months are prepaid: 3,840 / 12 x 9 = 2,880.
@@ -206,6 +234,12 @@ Check: old policy Jan-Sep 2,700 + new policy Oct-Dec (3 x 320 = 960) = 3,660
 ```
 
 The 2,880 is an other receivable (a current asset).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables--05-insurance-timeline-prepaid.webp" width="900" height="865" alt="A timeline from 1 October 2026 to 30 September 2028. The old policy of 3,600 gives 900 in 2026 and 2,700 in 2027. The new policy of 3,840 gives 960 in 2027 and 2,880 prepaid at the year end. The 2027 charge is 2,700 plus 960, which is 3,660." loading="lazy">
+  <figcaption>Only the months that fall in the year are expensed; the unused months are prepaid, an other receivable.</figcaption>
+</figure>
+
 
 ### Worked example 3: accrued income
 

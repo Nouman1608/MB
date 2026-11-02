@@ -74,6 +74,42 @@ Method in steps for a diagram answer:
 
 Speculators: their buying or selling is based on what they expect to happen. This can make the expected change happen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--01-fx-rate-equilibrium.webp" width="900" height="960" alt="Supply and demand for the AC: rate in BC per AC against millions of AC. D and S cross at 2.50 and 70 million. At 3.00 there is a surplus of 30 and at 2.00 a shortage of 30." loading="lazy">
+  <figcaption>The equilibrium rate is where demand for and supply of the currency are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--08-currency-conversion.webp" width="900" height="840" alt="At 1 AC = 2.50 BC, AC to BC multiplies and BC to AC divides. A 30 AC toy is 75 BC, a 12 BC jacket is 4.80 AC and 400 BC is 160 AC." loading="lazy">
+  <figcaption>Multiply to go from AC to BC and divide to go back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--09-ac-interest-rate-shift.webp" width="900" height="910" alt="Demand shifts right by 30 from D1 to D2 against supply S. The rate rises from 2.50 to 3.00 BC per AC and 85 million AC are traded." loading="lazy">
+  <figcaption>A higher interest rate raises demand for the AC and the rate rises to 3.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--10-ac-import-boom-shift.webp" width="900" height="910" alt="Supply shifts right by 30 from S1 to S2 against demand D. The rate falls from 2.50 to 2.00 BC per AC and 85 million AC are traded." loading="lazy">
+  <figcaption>An import boom raises supply of the AC and the rate falls to 2.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--11-fx-winners-losers.webp" width="900" height="810" alt="A table of exporters, import buyers and firms using imported inputs showing who gains or loses from appreciation and from depreciation. A note says the effect on the current account depends on elasticity and time." loading="lazy">
+  <figcaption>Exchange rate changes create winners and losers, and the current account effect depends on elasticity and time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--12-speculators-loop.webp" width="900" height="880" alt="A four step loop: speculators expect the AC to rise, buy it, demand shifts right, the rate rises and the expectation comes true. If they expect a fall they sell and the rate falls." loading="lazy">
+  <figcaption>Speculators' expectations can partly come true through their own buying or selling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## Effects of a rate change (2.2.3 c, d)
 
 Starting position: 1 AC = 2.50 BC, a toy costs 30 AC and a jacket costs 12 BC.
@@ -102,6 +138,17 @@ Rate falls to 2.00. Export elasticity 1.5, import elasticity 0.6.
 
 With export elasticity 0.5 and import elasticity 0.3 the balance becomes −57,000 AC. The deficit widens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--03-fx-elasticity-current-account.webp" width="900" height="960" alt="Three bars of current account balance in AC: -42,000 before, -9,000 after depreciation if demand is elastic, -57,000 if demand is inelastic." loading="lazy">
+  <figcaption>Whether depreciation improves the current account depends on elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ### Worked reminder: finding a new equilibrium
 
 Market for AC (millions per day). Demand is D = 145 − 30r and supply is S = 30r − 5, where r is BC per AC.
@@ -119,6 +166,12 @@ Market for AC (millions per day). Demand is D = 145 − 30r and supply is S = 30
 ### Worked reminder: a government changes a fixed rate
 
 Under a fixed rate the authorities hold 1 AC at 2.50 BC. If they revalue to 3.00, the effects on prices and trade are the same as an appreciation: exports cost more abroad and imports cost less at home. If they devalue to 2.00, the effects match a depreciation. The difference is the cause: a deliberate decision, not market forces.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--02-fx-price-effects.webp" width="900" height="940" alt="Paired bars: when the AC appreciates from 2.50 to 3.00 a toy rises from 75 to 90 BC (+20%) and a jacket falls from 4.80 to 4.00 AC (-16.7%). When it depreciates to 2.00 the toy falls to 60 BC and the jacket rises to 6.00 AC (+25%)." loading="lazy">
+  <figcaption>Appreciation makes exports dearer and imports cheaper; depreciation does the reverse.</figcaption>
+</figure>
+
 
 ## Chains of reasoning
 

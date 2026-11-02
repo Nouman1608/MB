@@ -77,6 +77,17 @@ Closing        = 9,792,000
 
 Net migration here is negative, so it slows growth. Growth is still fast because the birth rate is far above the death rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--06-population-change.webp" width="900" height="860" alt="Births 509,600 minus deaths 327,600 give natural change of plus 182,000. Immigrants 128,000 minus emigrants 61,600 give net migration plus 66,400. Total change is plus 248,400, a growth rate of 0.68 percent." loading="lazy">
+  <figcaption>Total change is natural change plus net migration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--06-country-l-net-emigration.webp" width="900" height="900" alt="Country L: births 316,800 and deaths 105,600 give natural change of +211,200. Immigrants 9,600 and emigrants 28,800 give net migration of -19,200. Total change is +192,000, a growth rate of 2.0 percent, taking the population from 9,600,000 to 9,792,000." loading="lazy">
+  <figcaption>In Country L net emigration slows growth, but births far above deaths still give 2.0 percent growth.</figcaption>
+</figure>
+
+
 ## 2. Why growth differs between countries (5.3.2)
 
 The syllabus asks how and why birth rates, death rates and net migration vary. Give a cause, then say which way the rate moves.
@@ -107,6 +118,17 @@ The syllabus asks how and why birth rates, death rates and net migration vary. G
 
 A country with a high birth rate, a falling death rate and net emigration has a very different growth path from a country with a low birth rate and net immigration. Use the figures in the question to say which rate is doing the work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--07-push-and-pull-migration.webp" width="900" height="740" alt="Two country boxes joined by an arrow. Push factors from the origin country are unemployment, low wages, conflict and poor services. Pull factors of the destination are jobs, higher wages, better schools and hospitals, and safety. A gate in the middle shows that entry limits, visa policy and travel cost change the flow." loading="lazy">
+  <figcaption>Push factors drive people out of one country, pull factors draw them into another, and entry rules can limit the flow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--08-birth-death-rate-causes.webp" width="900" height="940" alt="Birth rate falls with more education for girls, easier contraception and fewer infant deaths, and stays high where there is no state pension. Death rate falls with clean water, healthcare, food and income, and rises with conflict, famine and disease outbreaks, or with an older age structure even when healthcare is excellent." loading="lazy">
+  <figcaption>Each cause either pushes a rate up or pulls it down; an old population can show a high death rate even with good healthcare.</figcaption>
+</figure>
+
+
 ## 3. Optimum population (5.3.3)
 
 The **optimum population** is the size at which output per head reaches its maximum, for the land, resources, capital and technology the country has. Below that size the country is **under-populated**: more workers would lift output per head. Above it the country is **over-populated**: each additional worker adds less than the existing average, which drags the average down.
@@ -124,6 +146,12 @@ The **optimum population** is the size at which output per head reaches its maxi
 Output per head = total output ÷ population (72 ÷ 6 = 12, 204 ÷ 12 = 17, 360 ÷ 18 = 20, 456 ÷ 24 = 19, 480 ÷ 30 = 16). It peaks at 20 when the population is 18 million, so 18 million is the optimum. At 30 million the country is over-populated: the last 6 million people add only 24 billion, which is 4 each and well below the average. At 6 million it is under-populated, as the next 6 million add 132 billion, which is 22 each.
 
 The peak can move. Better technology, more machinery, a more skilled workforce or new trade routes raise output per worker and move the optimum up. Loss of farmland, exhausted mineral stocks or climate damage move it down. So a country can become less over-populated without any change in numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--07-optimum-population.webp" width="900" height="880" alt="Output per head is 12, 17, 20, 19 and 16 at populations of 6, 12, 18, 24 and 30 million, peaking at 18 million, the optimum. Left of the peak the country is under-populated; right of it, over-populated." loading="lazy">
+  <figcaption>Output per head peaks at the optimum population.</figcaption>
+</figure>
+
 
 ## 4. Effects of rising and falling population size (5.3.3)
 
@@ -148,6 +176,12 @@ Real GDP per head growth = 1.036 / 1.024 - 1 = 0.0117 = about 1.2%
 ```
 
 A quick estimate is 3.6 − 2.4 = 1.2 percentage points. If GDP grew 2.0% while population grew 2.5%, then 1.020 / 1.025 − 1 = −0.49%, so output per head would fall even though total output rose. Population growth that outpaces output growth lowers average living standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--09-gdp-per-head-growth.webp" width="900" height="830" alt="GDP growth of 3.6 percent against population growth of 2.4 percent gives about 1.2 percent growth per head. GDP growth of 2.0 percent against population growth of 2.5 percent gives minus 0.49 percent." loading="lazy">
+  <figcaption>Output per head falls when population grows faster than output.</figcaption>
+</figure>
+
 
 ## 5. Age and gender structure; reading a pyramid (5.3.3)
 
@@ -192,6 +226,17 @@ Country M (ageing)
 - **Gender imbalance:** a shortage of women can lower future births; a shortage of men in the home area can leave families short of workers or income, though remittances from abroad may rise; some occupations may struggle to recruit.
 
 Evaluation points: the effect depends on how fast the change is, on whether productivity is rising, on government policy and on the starting position relative to the optimum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--08-population-pyramids.webp" width="900" height="1200" alt="Three pyramids in percent of population: Country N is youthful (35 percent under 15, 59 dependants per 100 workers), Country M is ageing (16 percent aged 65+, 41 per 100) and Country P has 58 percent males bunched at 15 to 44 (32 per 100)." loading="lazy">
+  <figcaption>Check the width of the base, the middle and the top, then compare the two sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--09-age-structure-dependants.webp" width="900" height="810" alt="Shares of population aged 0-14, 15-64 and 65+: Country N 35, 63 and 2 percent, Country M 13, 71 and 16 percent, Country P 12, 76 and 12 percent. Dependants per 100 workers are 59 for N, 41 for M and 32 for P. Country M has 4.4 workers for each person aged 65 or over, Country N has 31.5." loading="lazy">
+  <figcaption>Country N has many children, Country M many pensioners; both carry more dependants per 100 workers than Country P.</figcaption>
+</figure>
+
 
 ## Common errors
 

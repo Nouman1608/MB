@@ -50,6 +50,12 @@ Links: the [Business hub](/boards/edexcel/gcse/business/), the [printable checkl
 
 Typical causes of profit without cash: customers given time to pay, large stock bought up front, big equipment purchases, loan repayments. Typical causes of cash without profit: a loan received, a customer deposit, the owner adding money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--01-pellam-profit-vs-cash.webp" width="900" height="1010" alt="Pellam Joinery fits wardrobes for 9,000 pounds and pays 5,400 for timber in March. Profit on the job is 3,600 pounds. Cash from the job is minus 5,400 in March and April and plus 3,600 in May when the customer pays." loading="lazy">
+  <figcaption>A profitable job can leave the firm out of pocket for two months.</figcaption>
+</figure>
+
+
 ## 2. Cash-flow forecast: terms and formulae
 
 The specification gives these in Appendix 3. Formulae are not provided in the examinations.
@@ -95,6 +101,17 @@ Check: 1,200 + (-500) + (-700) + 900 = 900. The balance touches £0 at the end o
 - A forecast uses estimates, so it can be wrong. Sales may fall short and customers may pay late.
 - Possible actions: arrange an overdraft, ask customers to pay sooner, seek longer supplier credit, delay a purchase, or cut costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--02-dunmore-closing-to-opening.webp" width="900" height="739" alt="Opening balance, net cash flow and closing balance for January to April. Arrows copy each closing balance to the next opening balance. March: 5,900 plus minus 2,450 gives 3,450." loading="lazy">
+  <figcaption>Each closing balance is copied to the next month as the opening balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--03-dunmore-loan-gap.webp" width="900" height="920" alt="Closing balances with the 4,000 pound loan are 2,150, 5,900, 3,450 and 4,600; without it they are 2,150, 1,900, minus 550 and 600. March would be 550 short, caused by the 3,000 pound stand." loading="lazy">
+  <figcaption>Without the loan Dunmore would be 550 short in March.</figcaption>
+</figure>
+
+
 ## 3. Sources of finance (1.3.4)
 
 The specification sorts the sources as follows.
@@ -132,6 +149,32 @@ Worked reminder: borrow £7,500, repay £9,000 in total. Interest = 1,500. Perce
 
 - A start-up has no trading history and no retained profit. It leans on savings, loans, share capital, venture capital or crowd funding. Trade credit may be hard to get.
 - An established small business can add retained profit, and its record helps with lenders and suppliers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--04-sources-short-or-long.webp" width="900" height="1046" alt="Overdraft and trade credit are short-term. Savings, venture capital, share capital, loans, retained profit and crowd funding are long-term. Trade credit and retained profit are dashed as harder for a new start-up." loading="lazy">
+  <figcaption>Two short-term and six long-term sources; some are harder for a start-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--05-loan-interest-percent.webp" width="900" height="670" alt="15,000 pounds borrowed is 100 percent; 2,400 pounds interest makes a 17,400 pound repayment. 2,400 divided by 15,000 times 100 is 16 percent." loading="lazy">
+  <figcaption>Interest is (repaid minus borrowed) divided by borrowed times 100: 16%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business--06-hollin-loan-or-crowd.webp" width="900" height="920" alt="On one scale, the loan repays 23,200 pounds (3,200 interest, 483.33 a month for 48 months) and crowd funding has 14,500 of a 20,000 target, 5,500 short." loading="lazy">
+  <figcaption>The loan is certain but costs 3,200 extra; crowd funding is 5,500 short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--09-shed-finance-match.webp" width="900" height="975" alt="An £18,000 shed is funded by £7,500 retained profit and a £10,500 loan. Short gaps suit an overdraft or trade credit; long-term needs suit a loan, retained profit or owners capital." loading="lazy">
+  <figcaption>Match the source of finance to the need and its time span.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--08-fin-overdraft-loan.webp" width="900" height="730" alt="A timeline over 12 months shows the 8,000 pound need lasting 3 months. An overdraft used for 3 months costs 240; a 12-month loan costs 720 although the money is needed for a quarter." loading="lazy">
+  <figcaption>For a 3-month need an overdraft costs 240 pounds against 720 pounds for a 12-month loan.</figcaption>
+</figure>
+
 
 ## 4. Matching finance to need
 

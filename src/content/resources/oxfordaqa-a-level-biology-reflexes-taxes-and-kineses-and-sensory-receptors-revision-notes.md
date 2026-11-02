@@ -44,6 +44,12 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 
 **Reminder:** a 0.90 m pathway at 45 m s⁻¹ takes 0.90 ÷ 45 = 0.020 s = 20 ms. Two synapses at 0.5 ms add 1.0 ms. Total **21 ms**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+
 ## Taxes and kineses
 
 | | Taxis | Kinesis |
@@ -89,6 +95,12 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 | Set up by stretch-mediated channels | Set up by voltage-gated channels once threshold is reached |
 
 **Worked reminder:** resting potential −70 mV, threshold −55 mV, so 15 mV of depolarisation is needed. A stimulus that takes the potential to −57 mV gives 13 mV, which is 2 mV short, so no action potential.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
 
 ## 3.4.2.2 Rods and cones
 

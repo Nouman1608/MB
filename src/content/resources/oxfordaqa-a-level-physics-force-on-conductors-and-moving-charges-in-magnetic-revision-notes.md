@@ -75,6 +75,12 @@ Fleming's left-hand rule: thumb gives the force, first finger the field (north t
 
 **Reminder.** F = 0.0420 N on a wire with I = 6.0 A and L = 0.35 m gives B = 0.0420 / (6.0 × 0.35) = **0.020 T**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+
 ## Method in steps: current balance
 
 1. Zero the balance with the current off.
@@ -92,6 +98,12 @@ Fleming's left-hand rule: thumb gives the force, first finger the field (north t
 5. Direction of circulation: use the left-hand rule for the force at one point and sketch the centre on that side.
 
 **Reminder.** An electron is accelerated from rest through 120 V. Then v = √(2 × 1.60 × 10⁻¹⁹ × 120 / 9.11 × 10⁻³¹) = 6.5 × 10⁶ m s⁻¹. In a field of 4.0 × 10⁻³ T, r = 9.11 × 10⁻³¹ × 6.5 × 10⁶ / (4.0 × 10⁻³ × 1.60 × 10⁻¹⁹) = **9.2 × 10⁻³ m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
 
 ## Cyclotron in six lines
 

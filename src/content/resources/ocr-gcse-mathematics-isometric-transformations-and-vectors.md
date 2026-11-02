@@ -67,6 +67,22 @@ Distances above the line y = −1:  2, 2 and 5
 
 The rule agrees: 2b − y = −2 − 4 = −6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--01-parallel-mirrors-translation.webp" width="900" height="700" alt="A triangle is reflected in x = 1 and then in x = 5. Each point ends 8 units right of where it began, twice the 4 units between the mirrors, so the combination is a translation by the column vector (8, 0)." loading="lazy">
+  <figcaption>Two reflections in parallel lines give a translation of twice the distance between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--02-order-of-reflections.webp" width="900" height="970" alt="The point (2, 1) is reflected in the x-axis then y = x, ending at (-1, 2), a 90 degree anticlockwise turn about the origin. In the other order it ends at (1, -2), a clockwise turn." loading="lazy">
+  <figcaption>Reflecting in the same two lines in a different order gives a different image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
+</figure>
+
+
 ### Identifying a mirror line
 
 Pick a point and its image. The mirror line is the perpendicular bisector of the line joining them.
@@ -74,6 +90,17 @@ Pick a point and its image. The mirror line is the perpendicular bisector of the
 Triangle T has vertices (1, 4), (4, 4) and (4, 6). Its image has vertices (1, 0), (4, 0) and (4, −2). The point (1, 4) goes to (1, 0). These share an x-coordinate, so the mirror line is horizontal. The middle of the y-values is (4 + 0) ÷ 2 = 2. The mirror line is **y = 2**.
 
 For a diagonal mirror, (1, 4) mapping to (4, 1) means y = x. Mapping to (−4, −1) would mean y = −x.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--06-reflection-diagonal-mirrors.webp" width="900" height="1035" alt="Triangle T at (3,1), (5,1), (5,2) reflected in y = x to (1,3), (1,5), (2,5), and in y = -x to (-1,-3), (-1,-5), (-2,-5). Dashed joins cross each mirror at right angles at their midpoints." loading="lazy">
+  <figcaption>In y = x the coordinates swap; in y = -x they swap and change sign.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--01-reflection.webp" width="900" height="1030" alt="Triangle T is reflected in the vertical line x = 1 and triangle D in the sloping line y = -x on a coordinate grid. Dotted lines join every vertex to its image and cross the mirror line at right angles, with equal distances on each side. The images T dash and D dash are gold." loading="lazy">
+  <figcaption>Every point and its image are the same distance from the mirror line, on opposite sides.</figcaption>
+</figure>
+
 
 ## Rotation (9.01b)
 
@@ -101,6 +128,12 @@ Add the centre back:  (3, −4)  (3, −7)  (5, −7)
 
 The image has vertices (3, −4), (3, −7) and (5, −7).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--03-rotation-then-translation.webp" width="900" height="1030" alt="A triangle is turned 90 degrees clockwise about the origin and then slid by (4, 0). The final position is the same as one 90 degree clockwise turn about the invariant point (2, -2)." loading="lazy">
+  <figcaption>A rotation followed by a translation is a rotation through the same angle about a new centre.</figcaption>
+</figure>
+
+
 ### Worked example: finding the centre, angle and sense
 
 Triangle K has vertices (1, 2), (3, 2) and (3, 5). Its image has vertices (1, −2), (1, 0) and (−2, 0).
@@ -111,6 +144,17 @@ Triangle K has vertices (1, 2), (3, 2) and (3, 5). Its image has vertices (1, �
 4. The centre is (3, 0). From the centre, (1, 2) is at (−2, 2) and its image is at (−2, −2). That is a quarter turn from upper left to lower left, which is anticlockwise.
 
 The rotation is **90° anticlockwise about (3, 0)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--04-find-rotation-centre.webp" width="900" height="1030" alt="Perpendicular bisectors of two point-to-image joins cross at (3, 0), the centre of rotation. From there a vertex and its image are a quarter turn apart, anticlockwise." loading="lazy">
+  <figcaption>The centre of a rotation is where the perpendicular bisectors of point-to-image joins meet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--02-rotation.webp" width="900" height="1060" alt="Triangle A is rotated 90 degrees clockwise about the centre (2, 1) to give A dash at (4,0), (4,-3), (6,-3). Dashed radii from the centre to a vertex and its image are equal in length and meet at a right angle, with a curved arrow showing the clockwise turn." loading="lazy">
+  <figcaption>A rotation needs a centre, an angle and a direction: here 90 degrees clockwise about (2, 1).</figcaption>
+</figure>
+
 
 ## Translation (9.01c)
 
@@ -154,6 +198,12 @@ Track a vertex through both steps, then compare object and final image. These re
 
 If no single reflection, rotation or translation works (for example a reflection then a translation along the mirror line), describe the two steps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--10-two-rotations-translation.webp" width="900" height="830" alt="Triangle at (1,0), (3,0), (3,1) rotated 180 degrees about A (0,0) and then 180 degrees about B (3,2) lands at (7,4), (9,4), (9,5): a translation by (6,4) = 2 x AB, because the angles add to 360 degrees." loading="lazy">
+  <figcaption>Two rotations whose angles add to 360 degrees about different centres make a translation.</figcaption>
+</figure>
+
+
 ### Worked example: parallel mirror lines
 
 Reflect a shape in x = 1, then in x = 5. A vertex at (−2, 1) goes to (2(1) − (−2), 1) = (4, 1), then to (2(5) − 4, 1) = (6, 1). The shift is 8 to the right, and 8 = 2 × (5 − 1).
@@ -174,6 +224,12 @@ The mirror lines meet at the origin at 45°, so each result is a 90° rotation a
 ### Worked example: rotation then translation
 
 Rotate a shape 90° clockwise about the origin, then translate by (4 over 0). The point (1, 0) goes to (0, −1) and then to (4, −1). The result is a 90° clockwise rotation about a new centre. To find it, look for the invariant point. Try (2, −2): the rotation sends it to (−2, −2), and the translation moves it to (2, −2). It has not moved, so the single transformation is a **rotation of 90° clockwise about (2, −2)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--09-invariance-what-changes.webp" width="900" height="1077" alt="Three rows with the letter F: a reflection reverses orientation and every point on the mirror line is invariant; a rotation keeps orientation and only the centre is invariant; a translation keeps orientation and has no invariant points. Lengths, angles and area never change." loading="lazy">
+  <figcaption>Reflection reverses orientation; rotation and translation keep it.</figcaption>
+</figure>
+
 
 ## Column vectors (9.03b)
 
@@ -209,6 +265,12 @@ R = Q + PS = (6 − 1, −1 + 4) = (5, 3)
 
 Check: **SR** = (5 over −3) = **PQ**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--07-parallelogram-vectors.webp" width="900" height="1045" alt="Parallelogram PQRS on a grid with P (1,2), Q (6,-1), PQ = (5,-3) and PS = (-1,4). S = (0,6) and R = (5,3); SR = PQ and QR = PS." loading="lazy">
+  <figcaption>Add the vector PS to P and to Q to find S and R.</figcaption>
+</figure>
+
+
 ## Vectors in geometric arguments and proofs (9.03a, Higher tier only)
 
 Describe every side as a route through known vectors, simplify, and then read off the geometry.
@@ -239,6 +301,12 @@ PR = OR − OP = 6a + 9b = 3(2a + 3b) = 3PQ
 ```
 
 **PR** = 3**PQ**, and P is on both, so P, Q and R are collinear. Also PQ : QR = 1 : 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--08-vector-multiples-proofs.webp" width="900" height="1270" alt="Top: trapezium ABCD drawn with p one square across and q one square up; DC = 2AB so they are parallel, BC and AD are not multiples. Bottom: P (1,-1), Q (3,2), R (7,8) with PQ = (2,3), PR = (6,9) = 3PQ so P, Q, R are collinear and PQ : QR = 1 : 2." loading="lazy">
+  <figcaption>If one vector is a multiple of another the lines are parallel; with a shared point they are collinear.</figcaption>
+</figure>
+
 
 ## Common errors
 

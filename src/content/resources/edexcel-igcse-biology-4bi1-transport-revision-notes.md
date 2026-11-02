@@ -34,6 +34,12 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 
 **Quick reminder.** For a cube of side L, SA:V = 6L² / L³ = 6/L. Doubling the side halves the ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--01-surface-area-volume.webp" width="900" height="910" alt="Cubes: a 20 micrometre cell and a 2 millimetre organism. The cell has SA:V 0.3 to 1 and its centre is 10 micrometres from the surface. The organism has SA:V 0.003 to 1 and its centre is 1000 micrometres away. The ratio is 100 times smaller, so diffusion alone is too slow and a transport system is needed." loading="lazy">
+  <figcaption>A larger body has a much smaller surface area to volume ratio, so cells need a transport system.</figcaption>
+</figure>
+
+
 ## 2.53–2.54 Xylem and phloem
 
 | | Xylem | Phloem |
@@ -42,6 +48,22 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 | From → to | Roots → stem, leaves, rest of plant | Leaves → growing regions, fruits, seeds, storage organs |
 | Direction | Upwards only | Up and down |
 | Cells | Dead, hollow, no end walls, lignified | Living |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## 2.55B–2.58B Water uptake and transpiration (Paper 2 only)
 
@@ -65,6 +87,27 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 
 The potometer measures **water uptake**, which is close to, but not exactly, the transpiration rate: a little water is used in the plant's cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--02-potometer.webp" width="900" height="1010" alt="A potometer: a cut leafy shoot sealed into a water-filled tube joined to a capillary tube of radius 0.5 mm. An air bubble moves 42 mm in 6 minutes. Volume is pi x 0.5 squared x 42 = 33.0 mm3, so the rate is 5.5 mm3 per minute." loading="lazy">
+  <figcaption>A potometer turns bubble movement into a rate of water uptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+
 ## 2.59–2.61 Blood and plasma
 
 | Component | Job |
@@ -81,6 +124,17 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 - Biconcave shape → large surface area to volume ratio → fast oxygen diffusion.
 - No nucleus → more space for haemoglobin.
 - Haemoglobin + oxygen → oxyhaemoglobin in the lungs; oxygen released in respiring tissues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--05-haemoglobin-oxygen.webp" width="900" height="960" alt="A side view of a biconcave red blood cell with no nucleus and haemoglobin inside is labelled with the reason for each feature. Below, haemoglobin binds oxygen in the lungs to form oxyhaemoglobin and releases it in respiring tissues." loading="lazy">
+  <figcaption>How the red cell shape and haemoglobin carry oxygen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
 
 ## 2.62–2.64B Defence
 
@@ -105,6 +159,12 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 
 **Coronary heart disease:** fatty deposits narrow coronary arteries → less oxygen to heart muscle → heart attack. Risk factors: smoking, diet high in saturated fat and salt, lack of exercise, obesity, high blood pressure, stress, genetics, age, being male.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--03-heart-rate-two-triggers.webp" width="900" height="960" alt="Bars show 68 bpm at rest (17 beats in 15 s times 4) and 124 bpm after exercise (31 times 4), a rise of 56 bpm or 82.4 percent. Below, exercise and adrenaline are shown as two triggers that make the heart beat faster and harder." loading="lazy">
+  <figcaption>Heart rate from pulse counts using the lesson numbers, and the two triggers that raise it.</figcaption>
+</figure>
+
+
 ## 2.68–2.69 Vessels and circulation
 
 | | Artery | Vein | Capillary |
@@ -123,6 +183,12 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 | Liver | Hepatic artery (+ hepatic portal vein from gut) | Hepatic vein |
 | Kidneys | Renal artery | Renal vein |
 | Whole body to/from heart | Aorta (out of heart) | Vena cava (into heart) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--04-organ-vessel-names.webp" width="900" height="1030" alt="Four rows show the vessels to and from the heart, lungs, liver and kidneys, with arrows for flow direction and colour for oxygen-rich, oxygen-poor and gut blood." loading="lazy">
+  <figcaption>Name the vessel that carries blood to and from each organ.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

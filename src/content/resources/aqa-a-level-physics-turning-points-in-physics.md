@@ -48,6 +48,12 @@ Core background: [Particles and radiation](/resources/aqa-a-level-physics-partic
 
 A **discharge tube** holds gas at low pressure with a high pd between cathode and anode. Positive ions are accelerated into the cathode and release electrons, which accelerate towards the anode. They ionise some gas atoms and excite others; excited atoms de-excite and emit light, so the gas glows. The beams from the cathode, called **cathode rays**, are electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--04-aphy-medical-xray-production.webp" width="900" height="1210" alt="A heated filament releases electrons that a high voltage accelerates onto a tungsten target in a copper anode inside a lead-lined, evacuated tube. The spectrum has a sharp cut-off at the shortest wavelength hc/eV: 1.55 and 3.11 times 10 to the minus 11 m for 80 kV and 40 kV. Narrow characteristic lines depend on the target and appear only if eV is large enough." loading="lazy">
+  <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
+</figure>
+
+
 ### Thermionic emission
 
 A heated metal filament gives some conduction electrons enough kinetic energy to escape the surface: **thermionic emission**. In an evacuated tube an anode at pd V accelerates them into a beam. The work done on each electron is eV, so
@@ -100,6 +106,12 @@ Q = mgd/V = 4.40 × 10⁻¹⁵ × 9.81 × 6.0 × 10⁻³ / 540 = 4.80 × 10⁻¹
 ```
 
 **Significance.** Every charge was a whole-number multiple of about 1.6 × 10⁻¹⁹ C: charge is **quantised**, with e the smallest unit. With e/m, this gave the electron's mass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
 
 ## 3.12.2 Wave-particle duality
 
@@ -191,6 +203,17 @@ surviving: 0.5^(6.70/15.0) = 0.73 (not 0.5^(6.70/1.5) = 0.045)
 ```
 
 Far more muons arrive than predicted without dilation: evidence for time dilation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--01-aphy-medical-ultrasound-echo.webp" width="900" height="970" alt="A probe sends a pulse down through fat, muscle and bone; echoes from the fat-muscle and muscle-bone boundaries return after 26 and 78 microseconds. Because the pulse goes there and back, the bone surface is at d = ct/2 = 6.0 cm. The muscle-bone echo is far stronger (41 percent) than the fat-muscle one (1.4 percent)." loading="lazy">
+  <figcaption>Pulse-echo ultrasound: echo time gives depth through d = ct/2, and echo strength depends on the impedance change at each boundary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+
 
 ### Length contraction
 

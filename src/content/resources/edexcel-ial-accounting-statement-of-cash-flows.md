@@ -68,6 +68,12 @@ IAS 7 permits two methods for the operating section, and it encourages the direc
 
 Both reach the same figure for cash generated from operations. The indirect method is set out in full below because it uses only the statement of profit or loss and two statements of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--01-profit-to-cash.webp" width="900" height="876" alt="A horizontal waterfall starts with profit from operations of 131,600 dollars. Depreciation 84,000 and the loss on disposal 7,000 are added back because no cash left; the 15,200 rise in inventory is deducted; the 7,500 fall in receivables and 6,600 rise in payables are added. The total is cash generated from operations of 221,500 dollars." loading="lazy">
+  <figcaption>Profit becomes cash once non-cash items and working capital changes are adjusted.</figcaption>
+</figure>
+
+
 ## Worked example: Fenwold Ceramics plc
 
 **Statements of financial position at 31 May (extracts)**
@@ -115,6 +121,12 @@ Purchases = 908,000 - (800,000 - 70,000) = 178,000
 
 **Dividends check.** 121,700 + 97,800 − 45,000 = 174,500, which agrees with closing retained earnings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--04-cash-paid-workings.webp" width="900" height="860" alt="Three bars each split a total in two. Tax owed 21,000 plus 27,800 is 48,800: 22,300 paid and 26,500 still owed. Interest owed 1,800 plus 6,000 is 7,800: 6,300 paid and 1,500 owed. Closing equipment cost is 908,000: 730,000 kept from the start and 178,000 bought." loading="lazy">
+  <figcaption>The cash paid is what remains after the closing balance is taken from what was owed or held.</figcaption>
+</figure>
+
+
 ### Step 2: the statement
 
 ```
@@ -159,6 +171,17 @@ Cash and cash equivalents at 31 May 2026              4,300
 
 The final line must agree with the cash and cash equivalents figure in the closing statement of financial position. If it does not, an adjustment or a working is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--02-three-headings.webp" width="900" height="820" alt="A waterfall of cash for the year. The company started with an overdraft of 14,600 dollars (negative cash). Operating activities added 192,900, investing used 163,000 and financing used 11,000, a net increase of 18,900, leaving closing cash and cash equivalents of 4,300 dollars." loading="lazy">
+  <figcaption>Operating, investing and financing flows move opening cash (an overdraft) to closing cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--03-adjustment-signs.webp" width="900" height="1050" alt="Bars compare 2025 and 2026 balances. Inventory rose 15,200 so cash is tied up and 15,200 is deducted. Receivables fell 7,500 so cash is released and 7,500 is added. Payables rose 6,600 so cash was held back and 6,600 is added. Depreciation 84,000 and the 7,000 loss on disposal involved no cash and are added back." loading="lazy">
+  <figcaption>An increase in an asset deducts cash; an increase in a liability adds it; non-cash charges are added back.</figcaption>
+</figure>
+
+
 ## The direct method for the same company
 
 Suppose Fenwold's revenue was 1,240,000 (all on credit), cost of sales was 744,000, and its other operating expenses (excluding depreciation and the loss on disposal) were 273,400, all paid in the year.
@@ -172,6 +195,12 @@ Cash generated from operations = 1,247,500 - 752,600 - 273,400 = 221,500
 ```
 
 The figure matches the indirect method exactly. Interest paid and tax paid then follow as before.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--05-direct-vs-indirect.webp" width="900" height="776" alt="Two columns reach the same total. The indirect method starts with profit from operations 131,600 and adds 89,900 of adjustments. The direct method takes 1,247,500 from customers and deducts 752,600 paid to suppliers and 273,400 paid for expenses. Both give cash generated from operations of 221,500 dollars." loading="lazy">
+  <figcaption>The direct and indirect methods always give the same cash generated from operations.</figcaption>
+</figure>
+
 
 ## Liquidity and why it matters (2.3.2)
 
@@ -208,6 +237,12 @@ What the statement adds to the ratios:
 - The overdraft of 14,600 has been cleared. The current ratio improved, but the liquid ratio stayed just below 1 : 1 because the extra current assets went into inventory.
 
 A judgement follows from this: Fenwold's liquidity is adequate and improving, but the closing cash balance of 4,300 is thin. Watching inventory levels would protect the liquid ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--06-liquidity.webp" width="900" height="840" alt="Bars compare 2025 and 2026 against a dashed 1 to 1 line. The current ratio improved from 1.80 to 2.00. The liquid ratio stayed just below 1 to 1 (0.89 then 0.88). The overdraft of 14,600 was cleared, but closing cash is only 4,300 dollars, so liquidity is adequate but thin." loading="lazy">
+  <figcaption>Fenwold’s ratios and cash flows together show liquidity that is improving but thin.</figcaption>
+</figure>
+
 
 ### Ways a company can improve liquidity
 

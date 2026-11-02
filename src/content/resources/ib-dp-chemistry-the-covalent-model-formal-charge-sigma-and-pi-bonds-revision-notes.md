@@ -45,6 +45,12 @@ Then try the full [practice questions](/resources/ib-dp-chemistry-the-covalent-m
 - Delocalized bonds are **equal in length**, between single and double.
 - Bonds per position = (total shared pairs over those positions) ÷ (number of positions). Two positions sharing three pairs gives 1.5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--01-resonance.webp" width="900" height="1300" alt="Ozone is drawn as two resonance structures joined by a double-headed arrow (O=O-O and O-O=O) with formal charges. Below is the hybrid with two identical bonds, each end oxygen -1/2, and a bond-length scale placing ozone between O-O and O=O. Methanoate has two structures; three shared pairs over two C-O bonds give 1.5 each." loading="lazy">
+  <figcaption>Resonance structures differ only in where electrons sit; the real species is one hybrid with equal bonds between single and double length.</figcaption>
+</figure>
+
+
 ## 2.2.12 Benzene: evidence checklist
 
 A good "discuss" answer gives both kinds of evidence and links each to the delocalized model.
@@ -62,6 +68,22 @@ A good "discuss" answer gives both kinds of evidence and links each to the deloc
 1. Expected ΔH = 3 × ΔH(hydrogenation of cyclohexene).
 2. Resonance energy = measured ΔH(benzene) − expected ΔH. Give it as a positive stabilization.
 3. State that both routes form cyclohexane, so benzene starts lower in energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--02-benzene-pi-ring.webp" width="900" height="1260" alt="Top view of benzene with six C and six H joined by sigma bonds and a circle for delocalized pi electrons. A side view shows a p orbital standing up and down on each carbon, overlapping side by side to form a pi cloud above and below the ring plane." loading="lazy">
+  <figcaption>Each carbon uses three electrons in sigma bonds; the fourth is in a p orbital that overlaps all round the ring above and below the plane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--03-benzene-evidence.webp" width="900" height="1050" alt="Kekule alternating bonds would give two C-C lengths, shown as long and short bars, but X-ray diffraction finds six equal bonds. Fixed double bonds would also give two isomers of 1,2-dichlorobenzene (Cl across a C=C or a C-C), but only one exists." loading="lazy">
+  <figcaption>Equal bond lengths and a single 1,2-disubstituted isomer both support a delocalized ring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--04-benzene-hydrogenation.webp" width="900" height="1000" alt="An energy diagram: a hypothetical ring with three C=C releases 3 x 116 = 348 kJ per mol on hydrogenation to cyclohexane, but benzene releases only 204. Benzene therefore sits 144 kJ per mol lower in energy." loading="lazy">
+  <figcaption>Benzene releases 144 kJ per mol less heat than three isolated C=C bonds would, so it is 144 kJ per mol more stable.</figcaption>
+</figure>
+
 
 ## 2.2.13 Five and six electron domains
 
@@ -83,6 +105,12 @@ A good "discuss" answer gives both kinds of evidence and links each to the deloc
 | 6 | 2 | square planar | XeF₄ |
 
 Rules: lone pairs go **equatorial** in a trigonal bipyramid; two lone pairs go **opposite** each other in an octahedron. Lone pairs shrink neighbouring bond angles slightly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--05-expanded-octets.webp" width="900" height="990" alt="SeF4 has four bonds and one lone pair (5 domains, trigonal bipyramidal) so the lone pair sits equatorial and the shape is seesaw. ICl4- has four bonds and two lone pairs (6 domains, octahedral); the lone pairs sit opposite each other so the ion is square planar." loading="lazy">
+  <figcaption>Count domains to get the electron domain geometry, then name the shape from the atoms only.</figcaption>
+</figure>
+
 
 ## 2.2.14 Formal charge
 
@@ -110,6 +138,17 @@ Shortcut: FC = V − (number of lone-pair electrons) − (number of bonds).
 | Bonding electrons | shared equally | all given to the more electronegative atom |
 | S in preferred SO₄²⁻ | 0 | +6 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--06-formal-charge-cyanate.webp" width="900" height="970" alt="Three Lewis formulas for OCN- show formal charges: O=C=N (0, 0, -1), O triple C single N (+1, 0, -2, rejected) and O single C triple N (-1, 0, 0, preferred because the negative charge is on the more electronegative O)." loading="lazy">
+  <figcaption>Prefer the formula with charges nearest zero and any negative charge on the most electronegative atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--07-formal-charge-sulfate.webp" width="900" height="960" alt="Two Lewis formulas for sulfate: four single bonds give S +2, each O -1; two S=O bonds give S 0, S=O oxygens 0 and S-O oxygens -1. The second is preferred. S has formal charge 0 but oxidation state +6." loading="lazy">
+  <figcaption>Formal charge shares bonds equally while oxidation state gives them to the more electronegative atom.</figcaption>
+</figure>
+
+
 ## 2.2.15 σ and π bonds
 
 | Bond | σ | π |
@@ -121,6 +160,12 @@ Shortcut: FC = V − (number of lone-pair electrons) − (number of bonds).
 - σ: s–s, s–p, p–p end-on, or hybrid orbitals. Density on the axis.
 - π: p–p side-on only. Density above and below (or either side of) the axis.
 - Count σ = number of bonds of any kind; count π = extra bonds in double and triple bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--08-sigma-pi-bonds.webp" width="900" height="1200" alt="A sigma bond is head-on overlap with density on the axis; a pi bond is sideways overlap of parallel p orbitals with density above and below. In propenenitrile CH2=CH-C triple bond N there are 6 sigma and 3 pi bonds." loading="lazy">
+  <figcaption>Single = 1 sigma; double = 1 sigma + 1 pi; triple = 1 sigma + 2 pi.</figcaption>
+</figure>
+
 
 ## 2.2.16 Hybridization
 
@@ -135,6 +180,12 @@ Shortcut: FC = V − (number of lone-pair electrons) − (number of bonds).
 - Work backwards too: "sp" means two domains and a linear arrangement around that atom.
 - Only sp, sp² and sp³ are in the guide. Do not assign hybridization to five- or six-domain atoms.
 - Organic and inorganic examples are both expected: CH₃ carbon sp³, C=O carbon sp², nitrile C and N sp; O in H₂O sp³, B in BF₃ sp², Be in BeCl₂ sp.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds--09-hybridization.webp" width="900" height="980" alt="Three columns: sp3 (4 domains, tetrahedral, 109.5 degrees, no p left), sp2 (3 domains, trigonal planar, 120 degrees, one p left) and sp (2 domains, linear, 180 degrees, two p left). Hybrid orbitals form sigma bonds or hold lone pairs; left-over p orbitals form pi bonds." loading="lazy">
+  <figcaption>Count electron domains: 4 is sp3, 3 is sp2, 2 is sp.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

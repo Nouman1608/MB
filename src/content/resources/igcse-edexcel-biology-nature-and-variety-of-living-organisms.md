@@ -75,6 +75,22 @@ The distinction that catches candidates out is **excretion** versus **egestion**
 
 **Growth** is defined precisely as a **permanent increase in dry mass**, not simply an increase in mass or size. An organism that takes up water increases in mass but not in dry mass, so water uptake alone does not count as growth — the "dry" qualifier is what the mark scheme is checking for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-biology-nature-and-variety-of-living-organisms--03-growth-dry-mass.webp" width="900" height="820" alt="Two before-and-after stacked bars. Taking up water raises total mass from 10 g to 14 g with dry mass fixed at 4 g (not growth). Making new tissue raises dry mass from 4 g to 6 g (growth)." loading="lazy">
+  <figcaption>Only a rise in dry mass counts as growth; water uptake alone does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--01-mrs-gren.webp" width="900" height="1064" alt="Seven rows with simple icons: Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition, each with a short definition taken from the lesson. The first letters spell MRS GREN." loading="lazy">
+  <figcaption>The seven characteristics shared by all living organisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--02-two-lookalikes.webp" width="900" height="1120" alt="Top: breathing moves air in and out of the lungs (physical) while respiration releases energy in cells (chemical). Bottom: excretion removes waste made by the body’s own chemistry from cells; egestion removes undigested food from the gut as faeces." loading="lazy">
+  <figcaption>Breathing and egestion are not the same as respiration and excretion.</figcaption>
+</figure>
+
+
 ## The five kingdoms
 
 | Kingdom | Cell type | Cell wall | Nutrition | Examples |
@@ -91,15 +107,58 @@ Prokaryotes have no nucleus, mitochondria or chloroplasts. Their DNA is a circul
 
 **Storage compounds** also distinguish the kingdoms and are examined more often than expected: **plants** store carbohydrate as **starch and sucrose**, while **animals and fungi** both store carbohydrate as **glycogen**. This is easy to mix up, since fungi are sometimes wrongly assumed to store starch alongside plants simply because both are non-animal kingdoms — the correct pairing is by nutrition type, not by "plant-like" appearance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-biology-nature-and-variety-of-living-organisms--02-fungus-saprotrophic.webp" width="900" height="940" alt="Schematic. Thread-like hyphae of a fungus grow through dead food. The hyphae secrete enzymes onto the food, shown as copper dots. The food is digested outside the fungus into small soluble molecules, then the hyphae absorb the products. This is saprotrophic nutrition." loading="lazy">
+  <figcaption>A fungus secretes enzymes, digests food outside its body, then absorbs the products.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-biology-nature-and-variety-of-living-organisms--04-mushroom-vs-plant.webp" width="900" height="900" alt="Comparison of mushroom and plant: cell wall chitin versus cellulose; saprotrophic versus autotrophic feeding; hyphae in a mycelium versus tissues and organs; glycogen versus starch and sucrose storage." loading="lazy">
+  <figcaption>A mushroom differs from a plant in cell wall, feeding, body structure and storage carbohydrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--07-five-kingdoms.webp" width="900" height="1206" alt="Extended. Animal: many cells, no cell wall, feeds by ingestion. Plant: cellulose cell wall, photosynthesis. Fungus: chitin wall, hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Viruses are in no kingdom: a protein coat and genetic material only." loading="lazy">
+  <figcaption>Five kingdoms by defining feature; viruses sit outside them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+
 ## Viruses
 
 Viruses sit outside the kingdoms because they are not cells. They have no cytoplasm, no organelles and no metabolism of their own. Each is a protein coat around either DNA or RNA, and can reproduce only inside a host cell, which makes every virus a parasite. Examples include the tobacco mosaic virus, influenza and HIV.
 
 Whether viruses are alive is a legitimate question — they fail most of MRS GREN outside a host.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-biology-nature-and-variety-of-living-organisms--05-pathogen-groups.webp" width="900" height="900" alt="Four panels: a bacterium causes cholera, a fungus causes athlete’s foot, a protoctist (Plasmodium) causes malaria and is not a bacterium, a virus causes influenza." loading="lazy">
+  <figcaption>Pathogens come from four groups, each with a named example disease.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-biology-nature-and-variety-of-living-organisms--06-virus-host-cell.webp" width="900" height="985" alt="A virus is a protein coat around DNA or RNA with no cytoplasm or organelles. One virus enters a host cell, four copies are made inside, and new viruses leave. Examples are tobacco mosaic virus, influenza and HIV; all viruses are parasites." loading="lazy">
+  <figcaption>A virus is a protein coat around DNA or RNA and can reproduce only inside a host cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+
 ## Levels of organisation (Topic 2 sub-topic (a)) and pathogens
 
 The levels-of-organisation hierarchy below is strictly sub-topic (a) of Topic 2, Structures and Functions in Living Organisms, not Topic 1 content -- it is included here for continuity with the classification material above. Organisms are organised as organelles, cells, **tissues**, **organs**, **organ systems**. A **tissue** is a group of cells with similar structure and function, e.g. glandular tissue in the stomach lining, which secretes digestive enzymes. An **organ** is a group of *different* tissues working together to perform a specific function, e.g. the stomach, made up of glandular, muscular and epithelial tissue. An **organ system** is a group of organs with related functions, e.g. the digestive system, made up of the stomach, small and large intestines, and associated glands. A pathogen is a microorganism that causes disease, and can be from any of several groups: bacteria (cholera), fungi (athlete's foot), protoctists (malaria, via *Plasmodium*) or viruses (influenza).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
 
 ## Worked example
 

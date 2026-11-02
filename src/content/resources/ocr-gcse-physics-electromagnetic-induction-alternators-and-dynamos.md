@@ -57,6 +57,12 @@ Connect a coil to the galvanometer and push a bar magnet into it.
 
 The key idea is that the reading depends on how fast the field is changing, not on how strong the field is at that moment. A magnet held still inside the coil is a strong field, but it is not changing, so there is no induced p.d.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--01-galvanometer-readings.webp" width="900" height="1224" alt="Six galvanometer dials: held still gives zero; N pole pushed in deflects right; pulled out deflects left; pushed in faster gives a bigger right deflection; other pole leading reverses to left; more turns gives a bigger right deflection." loading="lazy">
+  <figcaption>The needle shows direction and size of the induced p.d. for each action.</figcaption>
+</figure>
+
+
 ### The induced current opposes the change
 
 Now the part that is easy to forget. When an induced current flows, it generates its own magnetic field. The direction of that field is always such that it **opposes the change** that caused it. This is the content of Lenz's law, although the specification asks you to recall the effect rather than to name the law.
@@ -69,6 +75,12 @@ Take a coil connected into a complete circuit, and push the north pole of a magn
 4. You have to do work to keep pushing, and that work is the energy that ends up in the circuit. If the induced field helped the change instead, energy would appear from nothing.
 
 Now pull the magnet back out. The field through the coil is decreasing, so the current reverses. The end of the coil nearest the magnet becomes a south pole, which attracts the departing north pole. Again the effect resists what you are doing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--01-induction-opposes-change.webp" width="900" height="1020" alt="Two panels show a bar magnet pushed into and pulled out of a coil joined to a galvanometer. Pushing the N pole in makes the near coil end an N pole, which repels the magnet, and the needle swings one way. Pulling out makes it an S pole, which attracts the departing magnet, and the needle swings the other way." loading="lazy">
+  <figcaption>The induced current always makes a pole that resists the movement of the magnet.</figcaption>
+</figure>
+
 
 
 
@@ -119,6 +131,12 @@ Two changes follow when you spin the coil faster.
 
 A stronger magnet or more turns on the coil also increases the peak p.d. but does not change the frequency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--04-alternator-speed-trace.webp" width="900" height="1080" alt="Two graphs on the same axes show an alternator at 1500 and 3000 rev/min. The slower trace has a 0.040 s period (25 Hz) and 6.0 V peak; the faster has a 0.020 s period (50 Hz) and 12 V peak, so it has twice as many cycles, each twice as tall." loading="lazy">
+  <figcaption>Doubling the speed doubles both the frequency and the peak p.d.</figcaption>
+</figure>
+
+
 ### Worked example 3: reading a trace
 
 An oscilloscope shows the output of an alternator. The time-base is set to 4.0 ms per division and the trace covers 10 divisions horizontally, showing exactly 5 complete cycles. The vertical scale is 2.0 V per division and the peak is 2.5 divisions above the centre line.
@@ -138,6 +156,12 @@ A small alternator turns at 1500 revolutions per minute and produces a peak p.d.
 4. The peak p.d. also doubles in the simple model, to **12 V**.
 
 The trace would show twice as many cycles in the same time, each twice as tall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--02-alternator-coil-positions.webp" width="900" height="940" alt="Four end-on views of a coil between N and S poles sit above a graph of induced p.d. over one turn. The p.d. is maximum when the coil plane is along the field lines, zero when across them, and maximum in the opposite direction after half a turn. It therefore reverses twice per turn." loading="lazy">
+  <figcaption>The p.d. of an alternator follows the coil position and reverses twice per turn.</figcaption>
+</figure>
+
 
 ## The dynamo (P4.2f, Higher Tier only)
 
@@ -165,6 +189,12 @@ A dynamo turns at 12 revolutions per second. How many pulses of p.d. does it pro
 
 1. Two pulses per rotation, so 2 × 12 = **24 pulses per second**.
 2. Time between pulses = 1 ÷ 24 = **0.042 s** (to 2 significant figures).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--03-slip-rings-vs-commutator.webp" width="900" height="1210" alt="In an alternator the coil ends are joined to slip rings, so brush 1 changes from plus to minus after half a turn. In a dynamo the split-ring commutator swaps halves between brushes every half turn, so brush 1 stays plus. The output graphs show one a.c. cycle per turn and two same-direction d.c. pulses per turn." loading="lazy">
+  <figcaption>Slip rings keep a.c.; a split-ring commutator makes d.c. pulses.</figcaption>
+</figure>
+
 
 ## Common errors
 

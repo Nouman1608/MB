@@ -101,6 +101,12 @@ A **strong acid** dissociates completely. For a monoprotic strong acid such as h
 
 (c) 0.0480 mol dm⁻³ HBr: [H⁺] = 0.0480 mol dm⁻³, so pH = **1.32**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--02-ph-scale.webp" width="900" height="990" alt="A colour bar from pH 0 to 14 with pins for 0.0250 M HNO3 (1.60), blood (7.35-7.45) and 0.0400 M NaOH (12.60). Below, [H+] falls from 1 to 1e-14 while [OH-] rises, and their product is Kw so pH + pOH = 14.00." loading="lazy">
+  <figcaption>Each pH unit is a tenfold change in [H+], and [H+][OH-] = Kw = 1.00e-14 at 298 K.</figcaption>
+</figure>
+
+
 ## 3.1.10.3 The ionic product of water, Kw
 
 Pure water ionises to a tiny extent:
@@ -128,6 +134,22 @@ Find the pH of 0.0150 mol dm⁻³ LiOH at 25 °C.
 [H⁺] = Kw / [OH⁻] = 1.00 × 10⁻¹⁴ / 0.0150 = 6.67 × 10⁻¹³ mol dm⁻³
 pH = −log₁₀(6.67 × 10⁻¹³) = 12.18
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
+  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--09-half-equivalence.webp" width="900" height="880" alt="A computed pH curve for ethanoic acid with NaOH shows the buffer region and equivalence at 25 cm3. At 12.5 cm3 dashed lines show pH 4.76 = pKa, because [HA] = [A-] there." loading="lazy">
+  <figcaption>At half the equivalence volume [HA] = [A-], so pH = pKa and Ka = 10^-pH (practical in all boards).</figcaption>
+</figure>
+
 
 ## 3.1.10.4 Ka and pKa for weak acids
 
@@ -167,6 +189,17 @@ pKa = 5.50
 ```
 
 (b) An acid with pKa 7.53 has Ka = 10^(−7.53) = **2.95 × 10⁻⁸ mol dm⁻³**, so it is weaker than HX.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--05-approximation-fails.webp" width="900" height="1000" alt="A graph of pH against concentration for chloroethanoic acid shows a dashed shortcut line and a solid true line separating as the acid is diluted. At 0.0100 M the shortcut gives 2.43 but the true pH is 2.51." loading="lazy">
+  <figcaption>At 0.0100 M chloroethanoic acid the shortcut implies about 37% dissociation, so [HA] is not unchanged and the true pH is 2.51 (OCR only).</figcaption>
+</figure>
+
 
 ## 3.1.10.5 pH curves, titrations and indicators
 
@@ -230,6 +263,12 @@ An indicator works when its **whole colour-change range falls inside the vertica
 - Methyl orange or methyl red for a strong acid against a weak base.
 - Nothing suits a weak acid against a weak base: with no sharp change, follow it with a pH meter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
+
 ### Required practical 7
 
 You follow the pH as a **strong base is added to a weak acid**, and again as a **strong acid is added to a weak base**.
@@ -241,6 +280,12 @@ You follow the pH as a **strong base is added to a weak acid**, and again as a *
 5. Plot pH against volume. Repeat with a weak base (such as aqueous ammonia) and a strong acid.
 
 From each graph read the equivalence volume (middle of the vertical section) and, for the weak acid, pKa at half that volume.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--06-titration-curves.webp" width="900" height="1090" alt="Four computed curves of pH against base added for 25 cm3 of 0.100 M acid with 0.100 M base. Strong+strong starts at pH 1 and is equivalent at pH 7. Weak acid+strong base starts near 2.9, buffers, and is equivalent near 8.7. Strong acid+weak base is equivalent near 5.3. Weak+weak has no steep section." loading="lazy">
+  <figcaption>Strong or weak acids and bases give curves with different start pH, steep section and equivalence pH.</figcaption>
+</figure>
+
 
 ## 3.1.10.6 Buffer action
 
@@ -294,6 +339,12 @@ HZ left = 2.40 × 10⁻³ mol;   Z⁻ formed = 3.00 × 10⁻³ mol
 - Calibrating pH meters, as in required practical 7.
 - Blood, where a carbonic acid–hydrogencarbonate system holds pH in a narrow range.
 - Foods and drinks, where sodium citrate is added as an acidity regulator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--08-buffer-action.webp" width="900" height="940" alt="A beaker holds eight HA and six A- particles (0.200 mol HA, 0.150 mol A-, pH 4.63). Adding a little H+ turns A- into HA and moves pH to 4.58; adding a little OH- turns HA into A- and moves pH to 4.68. Water would fall from 7 to 2.00." loading="lazy">
+  <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
+</figure>
+
 
 ## Common errors
 

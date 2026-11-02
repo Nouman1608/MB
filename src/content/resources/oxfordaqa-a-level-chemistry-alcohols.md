@@ -63,6 +63,12 @@ Find the carbon atom that carries the –OH group. Count how many other carbon a
 
 The number of hydrogen atoms on the C–OH carbon is what controls oxidation, so it is worth writing it in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--04-alcohol-classes.webp" width="900" height="1180" alt="Butan-1-ol, butan-2-ol and 2-methylpropan-2-ol are drawn as displayed formulae with the C-OH carbon and its H highlighted (2, 1 and 0 H). Primary gives butanoic acid and secondary gives butanone, orange to green; tertiary gives no reaction and stays orange. Matches worked example 4." loading="lazy">
+  <figcaption>Oxidation needs an H on the C-OH carbon, so tertiary alcohols resist it.</figcaption>
+</figure>
+
+
 ## 3.3.5.1 Oxidation with acidified potassium dichromate(VI)
 
 The specification names **acidified potassium dichromate(VI)** as a suitable oxidising agent: K₂Cr₂O₇
@@ -107,6 +113,12 @@ orange**.
 
 Check every [O] equation by counting atoms on both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--03-carbon-neutral.webp" width="900" height="1065" alt="Per glucose, photosynthesis absorbs 6 CO2, fermentation releases 2 and burning the ethanol releases 4, so 6 in equals 6 out on paper. Dashed blocks show the extra fossil-fuel CO2 from farming, fertiliser, distillation and transport that makes the claim invalid." loading="lazy">
+  <figcaption>On paper the carbon dioxide balances, but fossil fuel use means bioethanol is not truly carbon-neutral.</figcaption>
+</figure>
+
+
 ## 3.3.5.1 How the method decides aldehyde or acid
 
 A primary alcohol gives two possible products, so you control the outcome with the apparatus and the amounts.
@@ -131,6 +143,12 @@ Describe the method for each.
 
 Pair each method with its reason: **distil immediately** for the aldehyde, **reflux with excess oxidising
 agent** for the acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
 
 ## 3.3.5.1 Telling aldehydes from ketones
 
@@ -159,6 +177,12 @@ Two colourless liquids are pentanal and cyclopentanone. Explain how Fehling's so
 
 Always give an observation for **both** compounds. "No reaction" is not an observation; "stays blue" is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--06-carbonyl-tests.webp" width="900" height="1085" alt="Tubes in a water bath: with Tollens' reagent the aldehyde gives a silver mirror and the ketone no change; with Fehling's (or Benedict's) solution the aldehyde gives a red precipitate and the ketone stays blue. Board tags: Tollens' in AQA and OxfordAQA, Benedict's in Edexcel." loading="lazy">
+  <figcaption>Aldehydes are oxidised by mild oxidants and ketones are not, giving different observations.</figcaption>
+</figure>
+
+
 ## 3.3.5.2 Elimination
 
 Alkenes can be formed from alcohols by **acid-catalysed elimination**. Heat the alcohol with concentrated
@@ -174,6 +198,12 @@ phosphoric acid (concentrated sulfuric acid also works) as the catalyst, and a m
    bond of C=C. Because H⁺ comes back out, the acid is not used up; it is a catalyst.
 
 Draw each curly arrow from a lone pair or a bond, never from a positive charge or from H⁺ itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--01-hydration-mechanism.webp" width="900" height="1290" alt="Three-step curly-arrow mechanism for making ethanol from ethene and an acid catalyst: C=C attacks H+, a water lone pair attacks the carbocation, the O-H bond breaks releasing H+. Below, propene gives the secondary carbocation and propan-2-ol as the major product. AQA mechanism; other boards state the reaction without needing the mechanism." loading="lazy">
+  <figcaption>Electrophilic addition of water to an alkene: the first arrow starts at the C=C bond, not at H+.</figcaption>
+</figure>
+
 
 ### Worked example 4: how many alkenes?
 
@@ -194,6 +224,17 @@ Answer: **two alkenes**, 2-methylpent-1-ene and 2-methylpent-2-ene.
 The specification notes that alkenes made this way can be used to produce addition polymers **without using
 monomers derived from crude oil**. If the alcohol comes from a non-petroleum source (for example, from plant
 material), the alkene and the polymer made from it do not depend on crude oil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
+  <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--09-elimination-products.webp" width="900" height="940" alt="Skeletal formulae. Butan-2-ol loses H from C1 to give but-1-ene, or from C3 to give but-2-ene, which exists as E and Z isomers: three alkenes in total." loading="lazy">
+  <figcaption>Losing H from either neighbouring carbon gives different alkenes, including E and Z isomers.</figcaption>
+</figure>
+
 
 ## Required practical 4: distil a product from a reaction
 

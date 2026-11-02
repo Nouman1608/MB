@@ -78,6 +78,12 @@ Contribution is not profit. Contribution pays towards fixed costs; profit is wha
 4. Overhead per unit = rate × units of the basis used per unit.
 5. Full cost per unit = variable cost + overhead per unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--02-cb-full-vs-contribution.webp" width="900" height="770" alt="Full costing with an overhead rate of 3.20 pounds per labour hour gives mugs 11,200 and plates 5,100 profit. Contribution costing gives 14,400 + 7,500 = 21,900 contribution, less 5,600 fixed costs, the same 16,300 profit." loading="lazy">
+  <figcaption>Full and contribution costing reach the same profit by different routes.</figcaption>
+</figure>
+
+
 ## Uses of cost information
 
 - **Decisions:** compare average and marginal cost; if marginal cost is below price, an extra unit adds to profit.
@@ -86,6 +92,37 @@ Contribution is not profit. Contribution pays towards fixed costs; profit is wha
 - **Special orders:** accept if the price is above variable cost, spare capacity exists and fixed costs do not rise, then check non-financial factors.
 
 Worked reminder. Talgarth Tea Rooms gets a one-off order for 200 afternoon teas at £6.50. Variable cost is £4.00 a tea. Contribution = £2.50 × 200 = £500. Accept financially, but ask whether regular customers will expect the same price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--01-cb-cost-types.webp" width="900" height="770" alt="Stonebeck mug: variable cost 1.80 + 2.20 + 0.40 = 4.40 pounds, all direct. Monthly fixed costs 3,000 + 600 + 2,000 = 5,600 pounds. Clay is variable and direct; factory rent is fixed and indirect." loading="lazy">
+  <figcaption>Fixed and variable costs, and direct and indirect costs, using Stonebeck Ceramics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--03-cb-special-order.webp" width="900" height="780" alt="Price ladder: normal price 8.00, full cost 5.20, offer 4.90, variable cost 4.40 pounds per mug. The offer is 0.30 below full cost but 0.50 above variable cost, so 600 mugs add 300 pounds with spare capacity." loading="lazy">
+  <figcaption>A special order can be worth accepting if it beats variable cost and fixed costs do not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--01-cu-pricing-ladder.webp" width="900" height="780" alt="A bar build-up per mug. Full cost is 5.20 pounds: variable cost 4.40 plus an overhead share of 0.80. A 50 percent mark-up adds 2.60, giving a cost-plus price of 7.80. The actual price is 8.00, which is 2.80 above full cost, a mark-up of 53.8 percent. Cost-plus pricing takes no account of customers or rivals." loading="lazy">
+  <figcaption>Cost-plus pricing adds a mark-up to full cost, and the actual price implies a slightly higher mark-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--02-cu-average-marginal.webp" width="900" height="800" alt="A line graph of cost per mug against mugs per month from 1,000 to 6,000. Marginal cost is a flat line at 4.40 pounds. Average cost, fixed costs of 5,600 plus 4.40 per mug divided by output, starts at 10.00 at 1,000 mugs and falls towards 4.40. At 4,000 mugs total cost is 23,200 so average cost is 5.80, which is 1.40 above marginal cost: the fixed cost per mug. The 4,001st mug costs 4.40 extra if fixed costs do not change." loading="lazy">
+  <figcaption>Average cost falls as fixed costs are spread, while marginal cost stays at the variable cost per mug.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
 
 ## Break-even in steps
 
@@ -110,6 +147,22 @@ Horizontal axis: output. Vertical axis: money. Lines: fixed costs (flat), total 
 | Helps with loan applications and planning | Fixed costs may step up |
 | Tests what-if changes | Based on forecasts; one product only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--03-cu-break-even-chart.webp" width="900" height="750" alt="A chart of money against bars sold per month from 0 to 4,000. Fixed cost is flat at 7,000 pounds. Total cost starts at 7,000 and rises 2.50 per bar. Revenue starts at zero and rises 6.00 per bar. They cross at 2,000 bars and 12,000 pounds, the break-even point. Left of it the gap is loss; right of it the gap is profit. Actual sales of 2,800 bars leave a margin of safety of 800 bars, 28.6 percent of actual output, and a profit of 2,800 pounds." loading="lazy">
+  <figcaption>The break-even chart shows loss, break-even, profit and the margin of safety for Wyndcliffe Soaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--04-cu-break-even-shifts.webp" width="900" height="856" alt="A graph of profit against bars sold per month. The profit line starts at minus 7,000 pounds and rises 3.50 per bar, crossing zero at 2,000 bars. A dashed line marks a target profit of 4,200 pounds, reached at 3,200 bars. If variable cost rises from 2.50 to 2.90 a bar, contribution falls to 3.10 and the profit line is flatter: it crosses zero at 2,258.06 bars, rounded up to 2,259." loading="lazy">
+  <figcaption>A target profit raises the output needed, and a higher variable cost pushes the break-even output up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+
 ## Budgets
 
 - **Purposes:** measure performance, allocate resources, control and monitor.
@@ -131,6 +184,17 @@ Horizontal axis: output. Vertical axis: money. Lines: fixed costs (flat), total 
 5. Suggest causes and what the manager should do.
 
 Worked reminder: Talgarth budgets for 2,000 covers and £8,000 of food. Food is £4 a cover. Actual covers are 2,400, so the flexed food budget is £9,600. Actual food spend of £9,900 is a £300 adverse variance, not a favourable one against £8,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--04-cb-flexed-budget.webp" width="900" height="840" alt="Budget, flexed budget and actual bars for materials and labour. Materials variance is 2,400 adverse unflexed but 4,900 adverse flexed. Labour is 900 favourable unflexed but 600 adverse flexed." loading="lazy">
+  <figcaption>Flexing the budget to actual output shows whether costs were really controlled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--05-cb-budget-types.webp" width="900" height="770" alt="Incremental: 18,000 plus 4 percent is 18,720. Flexible: materials budget 30,000 at 6,000 units becomes 27,500 at 5,500. Zero-based: start from 0 pounds and justify every item." loading="lazy">
+  <figcaption>Incremental, flexible and zero budgets start from different places.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

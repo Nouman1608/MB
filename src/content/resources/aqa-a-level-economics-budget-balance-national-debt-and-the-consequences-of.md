@@ -56,6 +56,17 @@ Country A has no primary deficit: the whole deficit is interest on past borrowin
 
 Now Country B: GDP 1,000, debt 900 (90%), interest 2%, revenue 380, non-interest spending 392. Interest is 18, spending is 410 and the deficit is 30, also 3.0% of GDP. If nominal GDP grows 4% to 1,040, the closing ratio is 930 / 1,040 = 89.4%. Country B has a higher debt ratio and the same deficit ratio, yet its ratio is falling, because growth (4%) beats the interest rate (2%). Compare the interest rate with nominal growth, not just the deficit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--01-deficit-adds-to-debt.webp" width="900" height="940" alt="Revenue 420 against spending of 420 plus interest 36 gives a deficit of 36. A tank of debt rises from 720 to 756 as the deficit flows in; the primary balance is zero." loading="lazy">
+  <figcaption>The deficit is a flow that adds to the debt, which is a stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--02-debt-ratio-rate-vs-growth.webp" width="900" height="860" alt="Country A debt ratio rises from 60.0% to 61.2% (interest 5% above growth 3%). Country B falls from 90.0% to 89.4% (interest 2% below growth 4%). Same 3.0% deficit." loading="lazy">
+  <figcaption>Compare the interest rate with nominal growth, not just the deficit.</figcaption>
+</figure>
+
+
 ## 2. Cyclical and structural balances
 
 A **cyclical deficit** (or surplus) arises from the economic cycle. When output is below potential, tax receipts fall and spending on benefits rises without any new decision. In a boom the reverse happens, so a cyclical surplus can appear. A **structural deficit** (or surplus) is what remains when output is at potential: spending and revenue are out of line even in normal conditions. Removing it takes a change in policy or sustained expansion of productive capacity.
@@ -70,6 +81,12 @@ Structural primary = 0 + 24 = a surplus of 24
 ```
 
 If output returned to potential with no policy change, the deficit would fall from 36 to 12, not to zero. The structural primary position is a surplus, so the structural deficit (12) is smaller than the interest bill (36). A government that treated the headline 36 as a spending problem would cut too hard. Caveat: potential output cannot be observed, so the split is an estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--03-cyclical-structural-deficit.webp" width="900" height="790" alt="Output gap of 75 times 0.32 gives a cyclical deficit of 24, leaving a structural deficit of 12 out of the 36 total." loading="lazy">
+  <figcaption>At potential output the deficit would fall to 12, not zero.</figcaption>
+</figure>
+
 
 ## 3. Consequences of a budget deficit
 
@@ -87,9 +104,46 @@ Use chains of reasoning, then weigh them.
 
 **Debt interest and confidence.** A rising debt raises interest payments, which divert money from other spending. If lenders doubt repayment, they demand higher yields, and borrowing costs rise for everyone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--04-deficit-spending-multiplier.webp" width="900" height="960" alt="Withdrawals of 0.50 give a multiplier of 2; extra spending of 12 raises income by 24, tax of 6 comes back and the deficit rises by 6." loading="lazy">
+  <figcaption>Deficit-financed spending partly pays for itself when output is below potential.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--05-budget-crowding-out.webp" width="900" height="964" alt="Loanable funds diagram. Government borrowing of 40 shifts demand from D1 to D2, so the interest rate rises from 8 to 9.2 per cent and total borrowing rises from 100 to 120, but private investment falls from 100 to 80." loading="lazy">
+  <figcaption>Government borrowing competes with firms for savings and crowds out private investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 4. Consequences of a budget surplus
 
 A surplus withdraws demand from the circular flow, so AD is lower than it would otherwise be. When the economy is overheating, this reduces inflationary pressure. In a weak economy it deepens a slowdown and raises unemployment. A surplus lets the government repay debt, so interest payments fall and lower interest rates may result, which can encourage investment. It also creates room to cut taxes, raise spending or respond to a future shock without panic borrowing. The costs: possible under-provision of public services and infrastructure, and a drag on growth if the surplus comes from squeezing demand. A cyclical surplus in a boom is normal. A structural surplus is a deliberate choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--07-budget-surplus-boom-slump.webp" width="900" height="1200" alt="Two AD/AS diagrams with the same curved AS. The same leftward AD shift cuts the price level by 7.5 and output by 2.5 near full capacity, but cuts output by 9.5 and the price level by only 0.5 with spare capacity." loading="lazy">
+  <figcaption>A surplus eases inflation in a boom but deepens a slowdown in a slump.</figcaption>
+</figure>
+
 
 ## 5. The size of the national debt
 
@@ -106,6 +160,12 @@ A large debt is not automatically a problem. Weigh these:
 | Economic state | Slump, with spare capacity | Boom, with crowding out |
 
 For Country A, interest takes 36 / 420 = 8.6% of revenue. If that share doubled, it would absorb money that could pay for schools or hospitals and would force tax rises or cuts elsewhere. That is the **opportunity cost** of debt. There is also an **intergenerational** point: debt that paid for a road still used in 30 years is shared fairly, but debt that paid for current spending passes the bill to people who got nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--06-budget-interest-share.webp" width="900" height="780" alt="A three-step chain (lenders doubt repayment, higher yields, bigger interest bill) and two bars of Country A revenue 420: interest of 36 is 8.6 per cent, and if the share doubled to 72 it is 17.1 per cent, leaving 348 instead of 384." loading="lazy">
+  <figcaption>A larger interest bill leaves less revenue for schools and hospitals.</figcaption>
+</figure>
+
 
 ## 6. The role of the Office for Budget Responsibility
 
@@ -130,6 +190,12 @@ Raise tax by 12:     households spend 75% of lost income domestically,
 Both policies slow growth, and the deficit falls by less than the headline cut. In this example the tax rise improves the balance more because households cut some saving and imports. This depends on the assumption in the example.
 
 Points to weigh: cuts to capital spending harm future supply; cuts to benefits hit lower earners and the stabilisers; tax rises can reduce incentives; timing matters, since tightening in a recession deepens it; a credible plan may lower interest rates and raise confidence; and growth-led rebalancing is slow but painless. Structural deficits need lasting measures. Cyclical deficits may need only patience. A well-judged answer links the measure to the type of deficit, the state of the cycle and the size of the multiplier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--05-rebalancing-the-budget.webp" width="900" height="830" alt="A spending cut of 12 reduces the deficit by 6; a tax rise of 12 reduces it by 7.5, because falling income reduces tax revenue." loading="lazy">
+  <figcaption>Both measures improve the balance by less than the headline 12.</figcaption>
+</figure>
+
 
 ## Common errors
 

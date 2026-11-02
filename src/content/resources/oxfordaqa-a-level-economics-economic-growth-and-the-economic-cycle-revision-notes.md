@@ -37,6 +37,12 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 | Demand-side shock | A sudden, unexpected shift in AD |
 | Supply-side shock | A sudden, unexpected shift in SRAS (or LRAS if lasting) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--01-output-gap.webp" width="900" height="850" alt="Real GDP of 861 and 806.4 are plotted against potential output of 840, showing a positive gap of +2.5% and a negative gap of -4.0%. The dashed line is potential output." loading="lazy">
+  <figcaption>A positive gap means output above normal capacity; a negative gap means idle resources.</figcaption>
+</figure>
+
+
 ## Short run versus long run in one table
 
 | | Short-run growth | Long-run growth |
@@ -45,6 +51,37 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 | AD/AS | AD shifts right along SRAS | LRAS shifts right |
 | Main drivers | Consumption, investment, government spending, net exports; falling costs | Capital stock, technology, working population, productivity, enterprise, incentives, factor mobility |
 | Lasts | Until spare capacity is used up | Permanent rise in capacity |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--06-ppd-short-vs-long-growth.webp" width="900" height="955" alt="Production possibility diagram with capital goods and consumer goods on the axes. Point A is inside boundary PPB 1, with unemployed resources. Moving to B on the boundary is short-run growth. Moving to C on a boundary 25 percent further out is long-run growth because capacity has risen. The Keynesian view is that an economy can stay inside the boundary for years." loading="lazy">
+  <figcaption>Short-run growth moves towards the boundary; long-run growth shifts the whole boundary outwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--07-trend-rate-compound.webp" width="900" height="870" alt="Real output starts at 1,800. Growing at the compound rate of 3.09 percent a year it reaches 2,160 after six years. Growing at the simple-average rate of 3.33 percent a year compounded, it would reach about 2,191, so the simple average overstates the trend rate." loading="lazy">
+  <figcaption>The compound rate 1.20^(1/6) - 1 = 3.09% reaches 2,160; compounding the simple average 3.33% overshoots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
 
 ## Determinants at a glance
 
@@ -55,6 +92,17 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 **Supply-side (long-run capacity):** capital stock, technology, size and skills of the workforce, attitudes, enterprise, factor mobility, incentives.
 
 **Chain to learn:** lower interest rates, so cheaper borrowing, so investment and consumption rise, so AD shifts right. With spare capacity: more output, little price change. Near capacity: mostly higher prices. If the investment is lasting, capacity also rises, which lifts the trend rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--04-growth-contributions.webp" width="900" height="820" alt="A waterfall in percentage points: consumption +1.5, investment +1.0, government +0.5 and net exports -0.5 add to 2.5% growth on a base of 1,200." loading="lazy">
+  <figcaption>Each demand component contributes a share of the 2.5% growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
 
 ## Formulas
 
@@ -107,6 +155,12 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 
 **Lags.** Inflation and unemployment follow real GDP, so they can mislead if used alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--02-cycle-indicators-lag.webp" width="900" height="1085" alt="Four small charts show growth, inflation, unemployment and investment for five years, shaded by phase. Growth peaks first, inflation a year later and unemployment last, in year 4. Investment moves the most." loading="lazy">
+  <figcaption>Inflation and unemployment lag real GDP, so several indicators must be read together.</figcaption>
+</figure>
+
+
 ## Shocks table
 
 | Shock | AD/AS movement | Output | Price level |
@@ -119,6 +173,12 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 **Global routes in:** export demand, imported input prices, exchange rate, confidence.
 
 **Judgement words for evaluation:** size and duration of the shock, openness, spare capacity, wage and price flexibility, policy response, and whether the effect is temporary or reduces capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--05-export-shock-multiplier.webp" width="900" height="800" alt="Exports of 300 are 30% of GDP of 1,000. A 5% fall in exports is a loss of 15 (1.5% of GDP) which a multiplier of 2 turns into a 30 fall (3.0% of GDP): 15 first-round and 15 knock-on." loading="lazy">
+  <figcaption>A shock abroad is multiplied into a larger fall in domestic GDP.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -161,6 +221,12 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 8. Costs rise, so SRAS shifts left: output **falls** and the price level **rises**.
 9. 1.08^(1/2) - 1 = 0.0392, so **3.9%** a year. (Simple halving of 8% gives 4.0%, which is not exact.)
 10. Firms close and scrap capital, and long-term unemployed workers lose skills, so capacity may shrink and LRAS may shift left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--03-gap-widens-while-growing.webp" width="900" height="920" alt="Potential output grows 3% a year and actual real GDP 2% a year from the same start. Both rise, but the shaded gap grows from 0 to about -4.8% by year 5." loading="lazy">
+  <figcaption>Real GDP can rise while the negative output gap widens.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

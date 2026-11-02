@@ -48,6 +48,22 @@ These notes condense section 8.2 (Equity and redistribution of income and wealth
 - Unequal outcomes can be judged equitable if they reflect effort, skill or risk.
 - Different people hold different views of fairness, so always say whose view you use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--09-bakery-bonus-equal-vs-fair.webp" width="900" height="880" alt="Bars for four staff who worked 40, 40, 30 and 10 hours. An equal split gives each 1,500. A split by hours gives 2,000, 2,000, 1,500 and 500. The equal split gives the same reward for 10 hours as for 40 hours." loading="lazy">
+  <figcaption>Equal split: 1,500 each. Split by hours: 2,000, 2,000, 1,500, 500. Equality and equity can differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--10-fixed-charge-vs-income-tax.webp" width="900" height="810" alt="Paired bars for incomes of 10,000, 20,000 and 60,000. A fixed charge of 3,000 takes 30%, 15% and 5% of income; a 15% income tax takes 15% from each, 1,500, 3,000 and 9,000. The fixed charge treats everyone equally but burdens the poorest most." loading="lazy">
+  <figcaption>The same 3,000 charge takes 30% of the poorest income and 5% of the richest; a proportional tax takes 15% from all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## 8.2.2 Equity versus efficiency
 
 **Trade-off arguments (equity costs efficiency).**
@@ -64,6 +80,12 @@ These notes condense section 8.2 (Equity and redistribution of income and wealth
 - Disincentives may be small, depending on how people respond.
 
 **Small worked reminder.** A tax of 25% on pay between 8,000 and 20,000 and 40% above 20,000. A worker on 20,000 takes 500 of extra pay. Tax is 0.4 × 500 = 200, so the worker keeps 300, or 60%. Compare with 75% kept below 20,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--08-marginal-tax-keep-half.webp" width="900" height="790" alt="A graph of pay after tax against gross pay with three tax bands (0%, 30%, 50%). At 30,000 gross the worker has 24,000 after tax. An extra 4,000 of work raises gross pay to 34,000 but after-tax pay to only 26,000, since tax rises by 2,000. The worker keeps half of the extra pay." loading="lazy">
+  <figcaption>At a 50% marginal rate the worker keeps 2,000 of 4,000 extra pay: the efficiency cost of high marginal rates.</figcaption>
+</figure>
+
 
 ## 8.2.3 Absolute versus relative poverty
 
@@ -93,6 +115,12 @@ These notes condense section 8.2 (Equity and redistribution of income and wealth
 - Relative poverty shows exclusion and inequality, but a rich country can have high relative poverty with high living standards.
 - Both ignore wealth, household size and unpaid work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--01-poverty-lines.webp" width="900" height="920" alt="Bar chart of ten invented household incomes with an absolute line at 700 and a relative line at 60% of the median (930). Two households are below the absolute line (20%) and three below the relative line (30%). Growth of 10% for everyone cuts absolute poverty to 10% but leaves relative poverty at 30%." loading="lazy">
+  <figcaption>Absolute and relative poverty lines give different poverty rates for the same incomes.</figcaption>
+</figure>
+
+
 ## 8.2.4 The poverty trap
 
 **Effective marginal tax rate = income tax rate + benefit withdrawal rate** (when benefit is withdrawn on gross earnings).
@@ -114,6 +142,12 @@ These notes condense section 8.2 (Equity and redistribution of income and wealth
 - Letting people keep some earnings before benefit falls.
 - Childcare support and training.
 - Moving to a negative income tax or a basic income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--02-poverty-trap.webp" width="900" height="850" alt="Net income against gross earnings for a lone parent. Up to 15,000 earnings net income rises only 20 per 100 earned because tax and benefit withdrawal take 80%. After the benefit ends net income rises more steeply." loading="lazy">
+  <figcaption>Withdrawn benefits and tax leave only 20 of each extra 100 earned.</figcaption>
+</figure>
+
 
 ## 8.2.5 Policies
 
@@ -146,6 +180,17 @@ Payment = G − t × Y. Break-even income = G ÷ t. Net income = Y + G − tY.
 ### Evaluation checklist
 
 Poverty reduction, incentives, cost and funding, administration and take-up, political support, time, and the size of the payment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--03-negative-income-tax.webp" width="900" height="870" alt="Payment from the government against earnings with guarantee 6,000 and tax rate 40%. The line crosses zero at the break-even income of 15,000; above it households pay tax. The payments for the five example households sum to zero." loading="lazy">
+  <figcaption>A negative income tax pays 6,000 minus 40% of earnings, so it falls smoothly to zero at 15,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies--04-benefit-costs.webp" width="900" height="900" alt="Three bars compare a universal benefit costing 120 million with a means-tested benefit costing 68 million including 8 million administration, and 53 million when only 75% claim. With 120 million a targeted scheme could pay 6,000 to each poor family." loading="lazy">
+  <figcaption>Means-tested benefits cost less but have administration costs and missed claims.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

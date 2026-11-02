@@ -34,6 +34,17 @@ Then test yourself with the [practice questions](/resources/edexcel-igcse-biolog
 - Respiration ≠ breathing. Breathing moves air; respiration is a chemical process in cells.
 - Energy is released, never "made". Some is lost as heat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## 2.35 ATP provides energy for cells
 
 - ATP = **adenosine triphosphate**.
@@ -46,6 +57,17 @@ Then test yourself with the [practice questions](/resources/edexcel-igcse-biolog
   - nerve impulses
   - keeping body temperature constant in mammals and birds (heat from respiration).
 - High-energy cells (muscle, sperm) have **many mitochondria**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--10-atp-energy-carrier.webp" width="900" height="850" alt="Respiration, in mitochondria for aerobic respiration, breaks down glucose and uses the energy released to make ATP, adenosine triphosphate. Glucose is not used directly by cells. ATP supplies energy for muscle contraction, active transport, building proteins from amino acids, cell division and growth, and nerve impulses. Energy is transferred rather than made, and some is lost as heat. Cells with many mitochondria, such as muscle and sperm cells, make more ATP." loading="lazy">
+  <figcaption>Respiration uses the energy in glucose to make ATP; cells use ATP, not glucose, directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--01-uses-of-energy.webp" width="900" height="1100" alt="Glucose is respired and energy is released. Seven small pictures show its uses: muscle contraction, protein synthesis, cell division, active transport, growth, passage of nerve impulses and maintaining a constant body temperature (37 degrees Celsius)." loading="lazy">
+  <figcaption>Respiration releases the energy cells use for these seven jobs.</figcaption>
+</figure>
+
 
 ## 2.37–2.38 The three equations
 
@@ -68,6 +90,12 @@ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O
 2. Count C, H and O on the right (multiply by the big number in front).
 3. C: 6 = 6   H: 12 = 12   O: 18 = 18
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--02-maggot-tubes.webp" width="900" height="1220" alt="Three sealed tubes show hydrogen-carbonate indicator red with glass beads, orange-yellow with maggots and yellow with warmer maggots. A colour scale shows more carbon dioxide towards yellow, and three boxes list what is changed, measured and kept the same." loading="lazy">
+  <figcaption>Beads are the control; maggots turn the indicator towards yellow, faster when warmer.</figcaption>
+</figure>
+
 
 ## 2.36 Aerobic vs anaerobic
 
@@ -108,6 +136,12 @@ A list such as "uses oxygen, makes water, happens in mitochondria" describes aer
 - Yeast making carbon dioxide for bread and ethanol for brewing is applied in Topic 5; see the [use of biological resources revision notes](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-revision-notes/).
 - How respiration and photosynthesis together set the net gas exchange of a leaf by day and night is point 2.44B in sub-topic 2(g), Paper 2 only.
 - Root hair cells need ATP from respiration for active transport of mineral ions, which links to 2.15.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--01-aerobic-anaerobic-compare.webp" width="900" height="1030" alt="Three columns compare aerobic, anaerobic (animals) and anaerobic (plants, yeast) respiration by site in the cell, oxygen need, products and relative ATP yield." loading="lazy">
+  <figcaption>Where each kind of respiration happens, what it needs and makes, and how much ATP it gives.</figcaption>
+</figure>
+
 
 ## 2.39 Practical: carbon dioxide and heat from respiring organisms
 
@@ -176,6 +210,22 @@ Rate = (final temperature − starting temperature) ÷ time
 - Dependent: temperature rise, or time for indicator to change colour.
 - Control: mass and type of seeds, volume of indicator, starting temperature, flask size.
 - Repeat and take a mean for reliability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--11-respiring-seeds-co2.webp" width="900" height="1020" alt="Four sealed tubes kept in the dark, each with red hydrogencarbonate indicator in the bottom and seeds held above it on a gauze platform. With living germinating seeds the indicator changes from red to yellow because the seeds release carbon dioxide. With boiled seeds as the control it stays red, showing the change is caused by respiration of living cells. Key: red is normal air, yellow is more carbon dioxide, purple is less. Limewater would turn from clear to milky." loading="lazy">
+  <figcaption>Living seeds turn red hydrogencarbonate indicator yellow; the boiled-seed control stays red.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--12-respiring-peas-heat.webp" width="900" height="1090" alt="Two vacuum flasks with cotton wool plugs and thermometers. One holds germinating peas, the other boiled peas that are dead and act as a control. A graph over four days shows the germinating peas rising from 21.0 to 27.0 degrees Celsius, a mean rate of 1.5 degrees per day, while the boiled peas stay at 21.0. The lines are straight lines drawn between the start and end values given in the lesson." loading="lazy">
+  <figcaption>Germinating peas warm a vacuum flask by 1.5 °C per day; boiled peas stay at 21.0 °C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

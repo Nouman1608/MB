@@ -69,6 +69,17 @@ A barrier is anything that makes it harder for a new firm to enter, or an existi
 
 The incumbent sacrifices some current profit to protect future profit. Limit pricing only works if the entrant believes the low price will continue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--07-limit-pricing.webp" width="900" height="960" alt="Alpha charging 18 lets an entrant with cost 14 earn 80 and enter; charging 12 leaves the entrant a loss of 40 so it stays out. Alpha gives up 6 per unit now." loading="lazy">
+  <figcaption>Limit pricing sets price above the incumbent's cost but below the entrant's cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 5c Interdependence, game theory and collusion
 
 ### A two-firm, two-outcome game
@@ -98,11 +109,28 @@ Market demand is P = 150 − Q. Two firms each have constant marginal cost of 30
 
 Now Firm 1 secretly raises output to 40 while Firm 2 stays at 30. Q = 70, so P = 80. Firm 1 earns (80 − 30) × 40 = 2,000 and Firm 2 earns (80 − 30) × 30 = 1,500. Cheating pays Firm 1 (2,000 > 1,800), but if both cheat the price falls towards 30 and the cartel collapses. This is why cartels are unstable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--06-cartel-incentive-to-cheat.webp" width="900" height="1020" alt="Profit per firm under competition (0), a cartel (1,800 each at price 90) and when Firm 1 secretly raises output to 40 (Firm 1 2,000, Firm 2 1,500, price 80). Cheating pays one firm but if both cheat the cartel collapses." loading="lazy">
+  <figcaption>Cheating pays one cartel member, which is why cartels are unstable.</figcaption>
+</figure>
+
+
 ### Price leadership and price wars
 
 **Price leadership.** One firm sets the price and others follow. A *dominant* leader is usually the largest firm. A *barometric* leader is trusted because it reads market conditions well. Followers avoid a price war without any formal agreement, so it is a form of tacit collusion.
 
 **Price war.** Firms repeatedly cut price to take market share. Price falls towards cost, profits fall, and weaker firms may exit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--05-prisoners-dilemma-pricing.webp" width="900" height="1000" alt="Payoff matrix for Alpha and Beta choosing high or low price. Low is the dominant strategy for each, so both end at (25, 25) rather than (40, 40), a joint 50 instead of 80." loading="lazy">
+  <figcaption>Each firm's best reply is low, so self-interest leaves both worse off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--01-oli-price-leadership-and-war.webp" width="900" height="1140" alt="Two stylised price-against-time graphs with invented prices. In price leadership one firm raises price and the others raise theirs one step later, with no written agreement, which is tacit collusion. A dominant leader is usually the largest firm and a barometric leader is trusted for reading market conditions. In a price war two firms keep cutting price, each matching the other, and price falls towards cost, so profits fall and weaker firms may exit." loading="lazy">
+  <figcaption>Dominant and barometric leaders set a price that followers match, while a price war drives price towards cost.</figcaption>
+</figure>
+
 
 ## 5d Costs and benefits of collusion
 
@@ -117,6 +145,12 @@ In the cartel example, consumer surplus falls from 0.5 × 120 × 120 = 7,200 at 
 
 **Evaluation chain.** Collusion raises price, so quantity falls, so consumer surplus falls and resources are misallocated. Whether it is serious depends on how much price rises, how easy detection is, whether any extra profit funds research, and how elastic demand is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--03-oli-cartel-welfare-loss.webp" width="900" height="890" alt="Market demand is P = 150 minus Q with constant marginal cost 30 for the two firms. A competitive market produces 120 at price 30 and consumer surplus is 7,200. The cartel sets marginal revenue 150 minus 2Q equal to 30, so it produces 60 at price 90. Consumer surplus falls to 1,800. Cartel profit is 60 times 60, which is 3,600, and the deadweight loss is a triangle of 1,800. The 5,400 of lost consumer surplus is 3,600 transferred to profit plus the 1,800 deadweight loss." loading="lazy">
+  <figcaption>A cartel cuts output to 60 and raises price to 90, shrinking consumer surplus from 7,200 to 1,800 and creating a deadweight loss of 1,800.</figcaption>
+</figure>
+
+
 ## 5e Price competition
 
 - **Price war.** Competing cuts can raise sales, but if market demand is inelastic, total revenue falls. A war helps consumers in the short run and may drive out smaller firms.
@@ -124,6 +158,17 @@ In the cartel example, consumer surplus falls from 0.5 × 120 × 120 = 7,200 at 
 - **Limit pricing.** See 5b: price is held low to deter entry.
 
 **Worked example: predatory pricing.** A dominant firm has average cost 10 and sells 200 units. It cuts price to 7, losing (7 − 10) × 200 = 600 a period. The war lasts 3 periods, a total loss of 1,800. After the rival exits, price rises to 14, giving (14 − 10) × 200 = 800 a period. The loss is recovered in 1,800 ÷ 800 = 2.25 periods, so by the third period after exit. The strategy pays only if the rival really leaves and new entrants do not appear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--02-oli-predatory-pricing-recovery.webp" width="900" height="944" alt="A dominant firm has average cost 10 and sells 200 units a period. In a three-period price war it sells at 7 and loses 600 a period, a total of 1,800. After the rival exits it sells at 14 and earns 800 a period. The running total goes minus 600, minus 1,200, minus 1,800, then minus 1,000, minus 200, plus 600. The 1,800 loss is recovered after 1,800 divided by 800, which is 2.25 periods, so by the third period after the rival exits. This only pays if the rival really leaves and no new entrants appear." loading="lazy">
+  <figcaption>A 1,800 loss over a three-period price war is recovered in 2.25 periods once the rival has exited.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--04-oli-advertising-break-even.webp" width="900" height="870" alt="A graph of extra profit before the campaign cost against extra units sold. Each extra unit adds 3 to profit, so extra profit is a straight line from zero to 3.6 million at 1.2 million units. The campaign costs 2.4 million, a horizontal line. The lines cross at 2,400,000 divided by 3, which is 800,000 extra units. Below that the campaign does not pay for itself on its own; above it does. A firm may still advertise for defensive reasons, to stop rivals taking its customers." loading="lazy">
+  <figcaption>At 3 extra profit per unit a 2.4 million campaign needs 800,000 extra units to break even.</figcaption>
+</figure>
+
 
 ## 5f Non-price competition
 

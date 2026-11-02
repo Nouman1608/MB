@@ -34,6 +34,12 @@ When you are ready, try the [Bonding practice questions](/resources/ocr-gcse-che
 - **Group number** (1 to 7): the number of outer-shell electrons. Group 0: full outer shell.
 - **Period number**: the number of occupied electron shells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+
 ## Key facts and numbers
 
 | Idea | What to remember |
@@ -58,6 +64,17 @@ When you are ready, try the [Bonding practice questions](/resources/ocr-gcse-che
 
 Example equations: 4Li + O₂ → 2Li₂O (a basic oxide) and C + O₂ → CO₂ (an acidic oxide).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--05-oxides.webp" width="900" height="1030" alt="Acidic oxides (SO2, CO2) come from non-metals and dissolve to give acidic solutions. Basic oxides (CuO, CaO) come from metals and react with acids to give salt and water. Extended: amphoteric oxides Al2O3 and ZnO react with both acids and alkalis." loading="lazy">
+  <figcaption>Non-metal oxides are acidic, metal oxides basic, and two are amphoteric.</figcaption>
+</figure>
+
+
 ## Method: electron arrangement to position (C2.2c)
 
 1. Atomic number = number of electrons in the neutral atom.
@@ -65,6 +82,12 @@ Example equations: 4Li + O₂ → 2Li₂O (a basic oxide) and C + O₂ → CO₂
 3. Count shells for the period. Count outer electrons for the group.
 
 Example: magnesium, Z = 12 → 2,8,2 → period 3, group 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
 
 ## Bonding types side by side (C2.2d, C2.2e)
 
@@ -77,6 +100,12 @@ Example: magnesium, Z = 12 → 2,8,2 → period 3, group 2.
 
 All chemical bonds are electrostatic. Ionic bonds come from transfer of electrons, and covalent bonds from sharing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--07-polymer-chain-bonds.webp" width="900" height="990" alt="Two poly(propene) chains drawn as displayed formulae. Strong covalent bonds run along and out of each chain, while dashed lines show weak forces between the two chains." loading="lazy">
+  <figcaption>In a polymer, covalent bonds hold each chain together and only weak forces act between chains.</figcaption>
+</figure>
+
+
 ## Method: dot and cross for a binary ionic compound (C2.2f)
 
 1. Write both electron arrangements.
@@ -86,6 +115,12 @@ All chemical bonds are electrostatic. Ionic bonds come from transfer of electron
 5. Check that the charges add to zero.
 
 Reminder: in calcium nitride, each Ca gives up 2 electrons and each N takes 3. The lowest common number is 6, so 3 Ca²⁺ and 2 N³⁻ give **Ca₃N₂**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--01-cafe2-dot-cross.webp" width="900" height="980" alt="Outer shells only. Calcium gives one electron to each of two fluorine atoms, giving Ca2+ in brackets and two F- ions with eight outer electrons each. The charges balance, so the formula is CaF2." loading="lazy">
+  <figcaption>Calcium loses two electrons, one to each fluorine atom, giving CaF2.</figcaption>
+</figure>
+
 
 ## Method: dot and cross for a simple molecule (C2.2f)
 
@@ -97,6 +132,12 @@ Reminder: in calcium nitride, each Ca gives up 2 electrons and each N takes 3. T
 
 Reminder: dichlorine oxide, Cl₂O, has 7 + 6 + 7 = 20 outer electrons. Oxygen sits in the middle with one shared pair to each chlorine. Oxygen keeps 2 lone pairs and each chlorine 3, so 2 shared + 8 lone = 10 pairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--02-sicl4-hcn-dot-cross.webp" width="900" height="1000" alt="Silicon tetrachloride has four shared pairs and twelve lone pairs, every atom with eight outer electrons. Hydrogen cyanide has one C-H shared pair, a C-N triple bond and one lone pair on nitrogen." loading="lazy">
+  <figcaption>Shared pairs sit in the overlaps; lone pairs stay on one atom.</figcaption>
+</figure>
+
+
 ## Method: formula from a model or diagram (CM2.2ii, CM2.2iii)
 
 1. Count how many bonds each type of atom makes in the picture.
@@ -104,6 +145,12 @@ Reminder: dichlorine oxide, Cl₂O, has 7 + 6 + 7 = 20 outer electrons. Oxygen s
 3. Simplify the ratio of atoms.
 
 For a ball and stick model of a simple molecule, just count each colour of ball. Example: a model with 3 black (C) and 8 white (H) balls is C₃H₈ (propane). It has 2 C–C and 8 C–H bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--06-sio2-bond-count.webp" width="900" height="990" alt="Three silicon atoms and six oxygen atoms are drawn so every silicon has four bonds and every oxygen has two. Counting gives 12 Si-O bonds, 6 oxygen atoms, a 1 to 2 ratio and the formula SiO2." loading="lazy">
+  <figcaption>Counting bonds from both ends gives the ratio Si to O of 1 to 2.</figcaption>
+</figure>
+
 
 ## Limitations of models (C2.2g)
 
@@ -113,6 +160,12 @@ For a ball and stick model of a simple molecule, just count each colour of ball.
 | Ball and stick | 3D shape; bond angles | True sizes; that bonds are not rods; for ionic lattices, that ions attract all neighbours |
 | 2D displayed formula | Which atoms are joined | Shape and bond angles |
 | 3D drawing (wedges) | An idea of depth | Still a flat projection; sizes not to scale |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--04-model-limitations-methane.webp" width="900" height="1090" alt="Methane shown four ways. Dot and cross shows shared pairs by origin but electrons are identical and the drawing is flat. Ball and stick shows 3D shape but bonds are not sticks. A 2D displayed formula shows which atoms are joined but not the shape. A wedge and dash drawing suggests shape but is still flat." loading="lazy">
+  <figcaption>Each model of a molecule shows something useful and hides or distorts something else.</figcaption>
+</figure>
+
 
 ## Reactions and the table (C2.2h, C2.2i)
 
@@ -161,6 +214,17 @@ For a ball and stick model of a simple molecule, just count each colour of ball.
 11. Covalent bonds.
 12. In potassium the single outer electron occupies the fourth shell, not the third, so it is further from the nucleus with more inner shells screening it. The weaker pull lets it leave more readily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--03-argon-before-potassium.webp" width="900" height="1120" alt="Ordered by mass, potassium would sit in the Group 0 position and argon in Group I, both wrong. Ordered by atomic number 17, 18, 19, chlorine, argon and potassium each fit their group." loading="lazy">
+  <figcaption>Atomic number, not mass, puts argon before potassium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--05-nanoparticle-atom-count.webp" width="900" height="840" alt="A row of 50 atoms spans a bracket labelled 14.5 nm. A zoomed view shows one atom is 0.29 nm. The calculation 14.5 divided by 0.29 gives 50 atoms." loading="lazy">
+  <figcaption>A 14.5 nm silver nanoparticle is about 50 atoms across when each atom is 0.29 nm.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Saying a positive ion has gained protons, or that the nucleus changes.
@@ -172,6 +236,12 @@ For a ball and stick model of a simple molecule, just count each colour of ball.
 - Giving period number as the number of outer electrons.
 - Explaining group 1 reactivity by "more electrons" without linking distance from the nucleus to weaker attraction.
 - Saying Mendeleev ordered elements by atomic number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -58,6 +58,17 @@ FIFO, AVCO and LIFO inventory valuation are stated as not examined.
 | Closing inventory | Deducted in cost of sales | Current assets |
 | Own goods | Reduces purchases | Increases drawings, reduces capital |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--03-un16-margins.webp" width="900" height="858" alt="Of 138,000 dollars revenue, cost of sales is 60.2 percent and gross profit 39.8 percent. After expenses net of rent received (24.4 percent), net profit is 15.4 percent. A low or falling gross share may mean prices are too low or purchase costs are rising." loading="lazy">
+  <figcaption>Gross margin 39.8 percent and net margin 15.4 percent for Cobham Canvas Supplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 1. Underline each adjustment and note the accounts affected.
@@ -77,6 +88,12 @@ An asset cost 12,000 with residual value 2,000 and four years of life: straight 
 Trade receivables are 9,000 and 250 is irrecoverable. The remaining 8,750 at 2% gives a provision of 175. If the old provision was 120, charge 55. If it was 220, the provision falls by 45 and this is a reduction in expenses.
 
 A machine cost 9,000 and has provision for depreciation of 6,300, so net book value is 2,700. Sold for 2,100, it makes a loss on disposal of 600.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
+  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -98,6 +115,32 @@ A machine cost 9,000 and has provision for depreciation of 6,300, so net book va
 | Weakness | Risk and limited capital | Disputes, shared risk | Rules, cost, loss of control |
 
 Distinguish share capital from loan capital for companies: shareholders own a company and share in its profit, while lenders are owed repayment and interest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--01-mp16-cobham-cost-of-sales.webp" width="900" height="1180" alt="Opening inventory and purchases are added, own-use goods of 700 are taken out, carriage inwards is added, then closing inventory of 10,900 is deducted to leave cost of sales of 83,100 dollars. Goods that cost 900 but can sell for only 600 are valued at 600, so 11,200 becomes 10,900." loading="lazy">
+  <figcaption>Own-use goods and the lower-of-cost-and-NRV rule both change cost of sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--02-mp16-cobham-profit.webp" width="900" height="1106" alt="Revenue less cost of sales gives gross profit of 54,900 dollars. Rent received, wages, rent paid, insurance, electricity, irrecoverable debt and provision, and depreciation take it to net profit of 21,230 dollars; adjustments are shown inside each label." loading="lazy">
+  <figcaption>Each adjustment shows up in one line on the way from revenue to net profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--03-mp16-cobham-balance.webp" width="900" height="1158" alt="Net assets are non-current assets 21,200 plus current assets 28,250 less current liabilities 10,720 and the loan 10,000, which is 28,730 dollars. Closing capital is 22,200 plus profit 21,230 less drawings 14,700, also 28,730 dollars." loading="lazy">
+  <figcaption>The two halves of the statement agree at 28,730 dollars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Layout to learn
 
@@ -135,6 +178,12 @@ Revenue is 40,000. Opening inventory is 3,000, purchases are 26,000 (including 5
 
 Gross profit is 38.25% of revenue and net profit is about 12.9%. On the statement of financial position, 200 appears in current liabilities and 150 in current assets. The 500 of own goods does not appear as an expense: it is in drawings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--04-un16-service-income-statement.webp" width="900" height="1232" alt="Revenue of 46,500 dollars plus a 700 profit on disposal gives total income of 47,200. Expenses of 31,808 leave net profit of 15,392. There is no inventory so there is no cost of sales." loading="lazy">
+  <figcaption>A service business goes straight from revenue to expenses.</figcaption>
+</figure>
+
+
 ## Comment starters
 
 - "Net profit rose, but drawings were higher still, so capital fell."
@@ -171,6 +220,17 @@ Gross profit is 38.25% of revenue and net profit is about 12.9%. On the statemen
 10. Net book value 2,700, proceeds 2,100, loss of 600.
 11. Other receivables, in current assets.
 12. Limited liability for shareholders (or easier to raise capital from shares).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--01-un16-own-use-ledger.webp" width="900" height="1046" alt="The journal debits drawings and credits purchases with 700 dollars at cost. Purchases falls from 84,200 to 83,500 and drawings rises from 14,000 to 14,700. Cost of sales falls so gross profit rises, and capital falls by the same cost through drawings." loading="lazy">
+  <figcaption>The same 700 dollars leaves purchases and enters drawings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

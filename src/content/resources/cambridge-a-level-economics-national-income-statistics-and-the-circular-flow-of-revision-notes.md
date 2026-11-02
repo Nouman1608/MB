@@ -45,6 +45,12 @@ Related pages: the [Cambridge A Level Economics hub](/boards/cambridge/a-level/e
 | Equilibrium | National income is stable because injections equal leakages |
 | Disequilibrium | Injections and leakages differ, so national income is changing |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--05-cake-market-to-basic-price.webp" width="900" height="850" alt="118 market price, minus 18 product tax, plus 4 subsidy gives a basic price of 104." loading="lazy">
+  <figcaption>A cake priced 118 has a basic price of 104.</figcaption>
+</figure>
+
+
 ## 4.1 National income statistics
 
 ### Formulas
@@ -55,6 +61,12 @@ Related pages: the [Cambridge A Level Economics hub](/boards/cambridge/a-level/e
 | Gross to net | Net value = gross value - depreciation |
 | Market to basic | Basic price value = market price value - product taxes + product subsidies |
 | Basic to market | Market price value = basic price value + product taxes - product subsidies |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--06-gdp-to-nni-basic.webp" width="900" height="920" alt="Step chart from GDP 640 through GNI 623 and NNI 559 to NNI at basic prices 503, with the two separate adjustments. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>GDP to GNI adds net income from abroad, gross to net removes depreciation, market to basic removes taxes less subsidies.</figcaption>
+</figure>
+
 
 ### Method in steps
 
@@ -85,6 +97,22 @@ NNI at market prices = 397 - 41 = 356
 | Final and intermediate goods | Only final goods count. Intermediate goods would be double counted |
 | Flow and stock | National income is a flow over a period. Wealth is a stock at a date |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--03-output-income-expenditure.webp" width="900" height="830" alt="Output, income and expenditure are three equal views of one flow over a year, and national income is a flow, not a stock." loading="lazy">
+  <figcaption>Output, income and expenditure are three views of one yearly flow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--04-double-counting-final-goods.webp" width="900" height="780" alt="Flour sold to the baker (30, intermediate) and the loaf (50, final): adding both gives 80 and double counts, GDP counts 50. Prices are illustrative; the lesson names only the flour and loaf." loading="lazy">
+  <figcaption>Only the final loaf is counted, so flour is not counted twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--01-gdp-and-gni.webp" width="900" height="880" alt="GNI equals GDP plus net income from abroad. With illustrative numbers, GDP of 100 and net income of +20 gives GNI of 120; with net income of -15, GNI is 85. GNI can therefore be above or below GDP." loading="lazy">
+  <figcaption>GNI is GDP plus net income from abroad, which can be positive or negative.</figcaption>
+</figure>
+
+
 ## 4.2 The circular flow of income
 
 ### Sectors and flows
@@ -103,6 +131,12 @@ NNI at market prices = 397 - 41 = 356
 | Taxes (T) | Government spending (G) |
 | Imports (M) | Exports (X) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--07-open-circular-flow.webp" width="900" height="925" alt="Open-economy flow with the three leakages (S, T, M) and three injections (I, G, X) at the lesson’s Example 5 values. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Saving, taxes and imports leave the flow; investment, government spending and exports enter it, 305 each.</figcaption>
+</figure>
+
+
 ### Equilibrium conditions
 
 ```
@@ -110,6 +144,12 @@ Two sectors:    S = I
 Three sectors:  S + T = I + G
 Open economy:   S + T + M = I + G + X
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--08-injections-vs-leakages.webp" width="900" height="940" alt="Three bar pairs for equilibrium, investment +25 and exports falling to 20. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Injections above leakages make income rise; leakages above injections make it fall.</figcaption>
+</figure>
+
 
 ### Method in steps: direction of change
 
@@ -133,6 +173,27 @@ GDP = 535 - (-44) = 579
 ```
 
 Check: 579 - 44 = 535, and 535 - 55 = 480. Always check a backwards answer by running it forwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--01-circular-flow-two-sector.webp" width="900" height="800" alt="Households and firms only. Dashed teal arrows are real flows (factors, goods and services); solid gold arrows are money flows (income, consumer spending). Money paid out as income returns as spending." loading="lazy">
+  <figcaption>The two-sector loop: factors and goods one way, income and spending the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--02-circular-flow-three-sector.webp" width="900" height="880" alt="Government added. Households and firms pay taxes; government pays transfer payments and subsidies and spends on goods and services (G). Taxes leave the flow, G enters it." loading="lazy">
+  <figcaption>Adding the government: taxes out, transfers, subsidies and spending in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--01-circular-flow.webp" width="900" height="980" alt="Households and firms pass spending and income round a loop; saving, taxes and imports leak out and investment, government spending and exports flow in." loading="lazy">
+  <figcaption>Leakages equal injections, so national income is steady; injections above leakages raise it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to know
 
@@ -196,3 +257,9 @@ Household income  ->  [spend on domestic output]  ->  firms
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 4.1 and 4.2 (Cambridge University Press & Assessment).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+

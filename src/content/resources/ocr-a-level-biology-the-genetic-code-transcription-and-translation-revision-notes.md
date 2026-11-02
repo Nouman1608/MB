@@ -58,6 +58,12 @@ Other facts to hold:
 
 mRNA matches the coding (non-template) strand, with U instead of T. A tRNA anticodon is complementary to its mRNA codon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
+
 ## Method in steps: from template to polypeptide
 
 1. Write the template strand in groups of three.
@@ -77,6 +83,12 @@ Worked reminder: template TAC GGA CTT TTT ACC gives mRNA AUG CCU GAA AAA UGG. Wi
 5. The DNA re-forms its double helix behind the enzyme.
 6. mRNA is released and leaves the nucleus through a nuclear pore.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+
 ## Translation in order
 
 1. Small ribosomal subunit attaches to mRNA and finds the start codon AUG.
@@ -87,6 +99,12 @@ Worked reminder: template TAC GGA CTT TTT ACC gives mRNA AUG CCU GAA AAA UGG. Wi
 6. At a stop codon the polypeptide is released.
 
 Many ribosomes can translate one mRNA at once, so many polypeptides are made from a single transcript.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -127,6 +145,12 @@ mRNA: AUG GGU UUU GAA UGG UAA. In frame this gives Met-Gly-Phe-Glu-Trp, then sto
 2. The order of codons fixes the order of amino acids (primary structure).
 3. The primary structure fixes the R group interactions, so it fixes the folding and the three-dimensional shape.
 4. The shape fixes the function, for example the shape of an enzyme active site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
+
 
 ## Quick calculations
 
@@ -179,6 +203,12 @@ Check that the base count is divisible by 3 before you divide.
 - Describing the polypeptide as made in the nucleus.
 - Leaving out complementary base pairing as the way tRNA matches mRNA.
 - Describing tRNA as carrying "amino acids" in general: each type carries one specific amino acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

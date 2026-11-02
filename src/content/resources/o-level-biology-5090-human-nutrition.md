@@ -58,6 +58,12 @@ Food tests are in [biological molecules](/resources/biological-molecules/); how 
 
 Fibre is mostly cellulose. You cannot digest it, so it stays in the gut as bulk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--01-balanced-diet.webp" width="900" height="1188" alt="Nine rows, each with a food picture: carbohydrates (rice) give energy; fats and oils are an energy store and insulate; proteins (egg) for growth and repair; vitamin C (orange) prevents scurvy; vitamin D (oily fish) prevents rickets; calcium (milk) for strong bones and teeth; iron (green leaves) makes haemoglobin; fibre (carrot) keeps food moving; water is the solvent and transport medium." loading="lazy">
+  <figcaption>Each part of the diet has a job; vitamin C and D deficiency cause scurvy and rickets.</figcaption>
+</figure>
+
+
 ### Deficiency diseases (8.1.2)
 
 | Lack of | Disease | Symptoms |
@@ -71,6 +77,12 @@ Calcium hardens bone and vitamin D is needed to absorb it, so a shortage of eith
 
 Less iron means less haemoglobin, so blood carries less oxygen to respiring cells: the person feels tired and breathless.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-nutrition--05-deficiency-diseases.webp" width="900" height="1060" alt="Lack of vitamin C causes scurvy (bleeding gums, bruises, slow healing). Lack of vitamin D or calcium causes rickets (soft, bowed bones). Lack of iron causes anaemia: pale cells with less haemoglobin, so tiredness and breathlessness." loading="lazy">
+  <figcaption>Each missing nutrient has a matching disease.</figcaption>
+</figure>
+
+
 ### A balanced diet (8.1.3)
 
 A **balanced diet** contains all the nutrients in the correct proportions, with enough energy for the person's needs. It is not "equal amounts of everything". The right amounts change with age, sex, activity level and pregnancy. A manual worker, for example, needs more energy than an office worker.
@@ -82,6 +94,12 @@ A diet can supply plenty of energy and still lack iron or vitamin C.
 ### The regions (8.2.1)
 
 Food passes through the **mouth**, **oesophagus**, **stomach**, **small intestine** (first the **duodenum**, then the **ileum**) and **large intestine** (**colon**, **rectum** and **anus**). Food does not pass through the **salivary glands**, **liver**, **gall bladder** or **pancreas**. These are associated organs that pour secretions into the gut through ducts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
 
 ### Why digest food at all? (8.2.2–8.2.5)
 
@@ -103,6 +121,12 @@ A piece of food is modelled as a 2 cm cube. It is chewed into 1 cm cubes, then i
 
 The volume of food is still 8 cm³ at every stage. Each time the side length halves, the surface area doubles. More surface means more enzyme molecules can reach their substrate at once, so chemical digestion is faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
+</figure>
+
+
 ### Teeth (8.2.6–8.2.8)
 
 | Type | Position | Function in physical digestion |
@@ -119,6 +143,12 @@ Structure of a tooth, from outside in:
 - The **pulp** in the centre contains **nerves** and blood vessels.
 - **Cement** covers the root and helps anchor the tooth.
 - The tooth is **embedded in the gum**, which surrounds its base, with the root held in the jaw.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--04-teeth.webp" width="900" height="1180" alt="Top: half a lower jaw with eight teeth: two incisors (cut), one canine (tears), two premolars (crush) and three molars (grind). Bottom: cross-section of a tooth showing enamel on the crown, dentine beneath, a central pulp holding nerves and blood vessels, and cement covering the root that fixes it in the jaw." loading="lazy">
+  <figcaption>Four types of teeth with their jobs, and the layers inside one tooth.</figcaption>
+</figure>
+
 
 ### What each region does (8.2.9)
 
@@ -147,11 +177,23 @@ Structure of a tooth, from outside in:
 
 Starch digestion takes two enzymes: amylase stops at maltose, and maltase finishes the job. Only glucose is small enough to be absorbed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+
+
 ### Acid and pH (8.2.11–8.2.12)
 
 **Hydrochloric acid** in the stomach **kills ingested bacteria**. That is its function in the syllabus, so lead with it.
 
 The stomach is acidic and the duodenum is not, because the pancreas adds an alkaline secretion. The two proteases are adapted to these places: **pepsin** in the stomach works best at an acidic pH, and **trypsin** in the duodenum works best at a slightly alkaline pH. The [enzymes guide](/resources/enzymes/) explains why the wrong pH slows an enzyme down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+</figure>
+
 
 ### Bile (8.2.13)
 
@@ -166,9 +208,21 @@ A student mixes milk, lipase and an indicator in two tubes. Tube A also has bile
 3. Smaller droplets give a larger surface area for lipase to act on.
 4. So fatty acids are produced faster in tube A and the pH falls sooner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-nutrition--03-bile-lipase-experiment.webp" width="900" height="950" alt="Two tubes hold milk, lipase and indicator. Tube A has bile and its fat is in 16 small droplets with twice the surface area of the 2 large droplets in tube B, which has water. A chain of four steps explains why tube A changes colour first." loading="lazy">
+  <figcaption>Bile emulsifies fat, so lipase has more surface to act on and tube A changes colour first.</figcaption>
+</figure>
+
+
 ### Peristalsis (8.2.14)
 
 The gut wall has two muscle layers: **circular** muscle running round the gut, and **longitudinal** muscle running along it. **Peristalsis** is waves of contraction of these muscles that move food through the digestive system. When circular muscle contracts behind a lump of food, the gut narrows there and squeezes the food forward; contraction of longitudinal muscle shortens and widens the section ahead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-nutrition--04-peristalsis.webp" width="900" height="990" alt="Three frames of a gut section. Circular muscle contracts behind a lump of food, narrowing the gut and pushing the food on; longitudinal muscle ahead contracts, shortening and widening that section. The wave moves along carrying the food." loading="lazy">
+  <figcaption>Waves of muscle contraction squeeze food along the gut.</figcaption>
+</figure>
+
 
 ## 8.3 Absorption and assimilation
 
@@ -191,6 +245,12 @@ The inner wall of the ileum is covered in millions of finger-like **villi**. Eac
 
 Villi increase the internal surface area of the ileum, and microvilli increase it again on every cell. A larger surface area means more nutrients are absorbed per second. The blood flow in the capillaries keeps carrying nutrients away, which maintains a concentration gradient for diffusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+
+
 ### Water (8.3.6)
 
 Water is absorbed from the lumen of both the **small intestine** and the **colon**, but **most water absorption happens in the small intestine**.
@@ -198,6 +258,12 @@ Water is absorbed from the lumen of both the **small intestine** and the **colon
 ### The hepatic portal vein (8.3.7)
 
 Most molecules and ions absorbed from the ileum travel to the **liver** in the **hepatic portal vein**. The liver can process them, for example storing excess glucose as glycogen, before they reach the rest of the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-nutrition--06-absorption-route.webp" width="900" height="1110" alt="Villus capillaries absorb glucose, amino acids, water and ions and the lacteal absorbs fatty acids and glycerol. The hepatic portal vein takes most nutrients to the liver, where glucose is stored as glycogen. Body cells take up amino acids to build proteins." loading="lazy">
+  <figcaption>Absorption moves nutrients into the blood; assimilation is cells using them.</figcaption>
+</figure>
+
 
 ## Common errors
 

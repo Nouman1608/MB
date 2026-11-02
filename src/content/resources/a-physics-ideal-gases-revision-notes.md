@@ -45,6 +45,12 @@ Related by `N = n N_A` and `k = R / N_A`, where `N_A = 6.02 × 10²³ mol⁻¹` 
 
 **Worked example.** 2.0 mol of an ideal gas at 300 K occupies 0.020 m³. Its pressure: p = nRT/V = (2.0 × 8.31 × 300) ÷ 0.020 = **2.49 × 10⁵ Pa**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
+  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
+</figure>
+
+
 ## The gas laws as special cases
 
 | Law | Held constant | Relationship |
@@ -79,6 +85,12 @@ c_rms = sqrt(<c^2>) = sqrt(3kT/m) = sqrt(3RT/M)
 
 **Worked example.** Nitrogen gas (molar mass M = 0.028 kg mol⁻¹) at 300 K: c_rms = √(3RT/M) = √((3 × 8.31 × 300) ÷ 0.028) = √(267,100) = **517 m s⁻¹**. This is the r.m.s. speed of an *average* molecule — individual molecules have a whole distribution of speeds around this value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
+  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
+</figure>
+
+
 ## Assumptions of the kinetic model
 
 1. Large number of molecules in random motion.
@@ -98,6 +110,17 @@ U = (3/2) n R T     for a monatomic ideal gas
 ```
 
 Hence internal energy depends only on temperature — which is what makes isothermal processes have ΔU = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--08-first-law.webp" width="900" height="1270" alt="Top: a gas absorbs 500 J of thermal energy and expands, doing 200 J of work on its surroundings, so W = -200 J and the internal energy rises by 300 J. Bottom: a piston does 340 J of work on a gas while 120 J leaves by heating, so internal energy rises by 220 J. Waterfall bars show q, W and ΔU. Cambridge only: isothermal ΔU = 0, adiabatic q = 0, isobaric constant pressure, isovolumetric W = 0." loading="lazy">
+  <figcaption>ΔU = q + W, with W the work done on the gas, negative when the gas expands.</figcaption>
+</figure>
+
 
 ## Exam traps
 

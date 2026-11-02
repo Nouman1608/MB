@@ -57,6 +57,22 @@ Course pages: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the 
 
 Small reminder: 6 x 154 = 600 + 300 + 24 = 924, so 924 ÷ 6 = 154.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--05-subtract-negative-line.webp" width="900" height="820" alt="A number line from -10 to 15. Starting at -8, subtracting -15 hops right 15 to 7, then +6 hops to 13. So -8 - (-15) + 6 = 13, not -23." loading="lazy">
+  <figcaption>Subtracting a negative is the same as adding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--11-num-long-multiplication.webp" width="900" height="700" alt="A rectangle 347 high is split into two parts by splitting the width 26 into 20 and 6, with the widths drawn in proportion. The large part, 347 times 20, is 6 940. The small part, 347 times 6, is 2 082. Adding the parts gives 9 022, which is 347 times 26." loading="lazy">
+  <figcaption>Splitting 26 into 20 and 6 gives two parts that add to 9 022.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--12-num-chunk-division.webp" width="900" height="880" alt="Three bars show 1 548 ÷ 12 done by taking chunks. First bar: 12 times 100 is 1 200 taken out of 1 548, leaving 348. Second bar: 12 times 20 is 240 taken out of 348, leaving 108. Third bar: 12 times 9 is 108, leaving 0. The chunks 100, 20 and 9 add to 129, so 1 548 ÷ 12 = 129, checked by 129 times 12." loading="lazy">
+  <figcaption>Chunks of 12 taken from 1 548: 100, 20 and 9 make 129.</figcaption>
+</figure>
+
+
 ## 1.02a Terms to know
 
 | Term | Quick definition |
@@ -93,6 +109,17 @@ Useful squares to 15² (225) and cubes to 5³ (125), plus 10³ = 1 000, speed up
 
 **Uniqueness:** every whole number above 1 has one prime factorisation, apart from the order of the factors. Different factor trees always give the same end result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--03-factor-tree-504.webp" width="900" height="990" alt="Two factor trees for 504, one starting 2 x 252 and one starting 12 x 42. Both finish with prime leaves 2, 2, 2, 3, 3, 7, so 504 = 2^3 x 3^2 x 7 either way." loading="lazy">
+  <figcaption>Any factor tree for 504 ends at the same primes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--04-prime-test-263.webp" width="900" height="980" alt="A number line shows 16^2 = 256 and 17^2 = 289 around 263, then 263 divided by 2, 3, 5, 7, 11 and 13 leaves remainders 1, 2, 3, 4, 10 and 3. None is zero so 263 is prime." loading="lazy">
+  <figcaption>Test primes only up to the square root; no remainder is zero.</figcaption>
+</figure>
+
+
 ## 1.02c HCF and LCM
 
 | | HCF | LCM |
@@ -110,6 +137,17 @@ LCM = 2³ x 3² x 5 = 360
 Check: 12 x 360 = 4 320 = 72 x 60
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--13-num-hcf-lcm-primes.webp" width="900" height="860" alt="A grid with one column for each prime: 2, 3, 5 and 11. Each square holds one copy of the prime. The row for 396 has two 2s, two 3s, no 5 and one 11. The row for 330 has one each of 2, 3, 5 and 11. The HCF row takes the lowest number of each prime, giving 2 times 3 times 11 equals 66. The LCM row takes the highest number of each prime, giving 2 squared times 3 squared times 5 times 11 equals 1 980. Check: 66 times 1 980 equals 396 times 330 equals 130 680." loading="lazy">
+  <figcaption>Lowest powers give the HCF 66, highest powers give the LCM 1 980.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## 1.03a Priority of operations
 
 1. Brackets first, including fraction bars and the line of a root sign.
@@ -123,6 +161,12 @@ Check: 12 x 360 = 4 320 = 72 x 60
 ```
 
 If you need a value to be worked out first, put it in brackets, or write the fraction with a bar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
 
 ## 1.04a Inverse operations
 
@@ -148,6 +192,22 @@ If you need a value to be worked out first, put it in brackets, or write the fra
 ```
 
 **Missing digits:** work column by column from the units, tracking carries, or use the inverse operation (for a + b = c, a missing b is c - a).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--14-num-friendly-numbers.webp" width="900" height="890" alt="Top: on a number line, the bar from 297 to 604 and the bar from 300 to 607 are the same length, 307, so 604 minus 297 equals 607 minus 300. Bottom: three rectangles with the same area. 35 by 16, 70 by 8 and 140 by 4 are each 560, because doubling one side and halving the other keeps the area the same." loading="lazy">
+  <figcaption>Equal gaps and equal areas show why the friendlier calculation has the same answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--15-num-missing-digits.webp" width="900" height="890" alt="A column addition with hundreds, tens and units. The sum is 4a8 plus 27b equals 705. Step 1, units: 8 plus b must end in 5, so b is 7 and 1 is carried. Step 2, tens: a plus 7 plus the carried 1 must end in 0, so a is 2 and 1 is carried. Step 3, hundreds: 4 plus 2 plus 1 is 7, which matches. So 428 plus 277 equals 705, checked by 705 minus 277 equals 428." loading="lazy">
+  <figcaption>Work from the units, carrying as you go, to find a = 2 and b = 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
 
 ## Divisibility tests
 

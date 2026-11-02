@@ -52,6 +52,12 @@ Systematic errors shift every reading the same way and can be corrected if known
 | Power law y = kxⁿ | log y = n log x + log k: gradient n, intercept log k |
 | Exponential y = Ae^(-bx) | ln y = ln A - bx: gradient -b, intercept ln A |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--10-subtraction-rule-temperature-rise.webp" width="900" height="680" alt="Two temperature readings, 22.0 and 41.5 degrees C, each +/-0.5. The rise is 19.5 C and the absolute uncertainties add to +/-1.0 C, which is 5.1% of the rise." loading="lazy">
+  <figcaption>When you subtract, add the absolute uncertainties.</figcaption>
+</figure>
+
+
 ## Method in steps: uncertainty in a result
 
 1. Write each measured value with its absolute uncertainty.
@@ -75,6 +81,27 @@ Result: **KE = 1.39 J ± 0.05 J (3.8%)**.
 
 **Subtraction reminder.** Lengths 15.0 cm ± 0.2 cm and 8.5 cm ± 0.1 cm added give 23.5 cm ± 0.3 cm. Absolute uncertainties add for both sums and differences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--09-micrometer-half-resolution.webp" width="900" height="660" alt="A zoomed micrometer scale with a reading of 0.46 mm and a band of +/-0.005 mm, half the 0.01 mm resolution. 0.005 / 0.46 x 100 = 1.1%." loading="lazy">
+  <figcaption>Half the resolution gives the uncertainty; divide by the reading for a percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--11-sig-figs-trolley-speed.webp" width="900" height="680" alt="A trolley travels 0.910 m in 1.84 s, both 3 s.f. The calculator shows 0.4945652, but the answer is quoted to 3 s.f.: 0.495 m/s." loading="lazy">
+  <figcaption>Quote a result to the s.f. of the data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+
 ## Method in steps: a straight-line graph from a log plot
 
 1. Decide the form: a power law needs log y against log x; an exponential needs ln y (or log y) against x.
@@ -87,6 +114,22 @@ Result: **KE = 1.39 J ± 0.05 J (3.8%)**.
 
 Straight and passing through the expected point means the model is supported. Curved means the assumed relationship is wrong. Using log₁₀ in place of ln for an exponential multiplies the gradient by 0.434.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--01-loglog-inverse-square.webp" width="900" height="1040" alt="Graph of log I against log d for six readings on a straight line. A large triangle has change in x 0.70 and change in y -1.39, so the gradient is -2.0 and the power is -2. The intercept 0.72 gives k = 5.2, so I = 5.2 d^-2, an inverse square law." loading="lazy">
+  <figcaption>Plot log y against log x: the gradient is the power and the intercept is log k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--02-ln-v-against-t.webp" width="900" height="1030" alt="Graph of ln V against t for six readings lying on a straight line from (0 s, 2.20) to (100 s, 0.18). The gradient is -0.0202 per second, so RC = 49.5 s and, with R = 150 kilohm, C = 330 microfarad." loading="lazy">
+  <figcaption>Plot ln y against x for an exponential: the gradient is -1/RC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 * Precision (spread) is separate from accuracy (closeness to true value). Tight readings can still be wrong because of a systematic error.
@@ -96,6 +139,12 @@ Straight and passing through the expected point means the model is supported. Cu
 * A line of best fit that misses the origin when it should not indicates a systematic error. Large scatter points to random error.
 * Accuracy against a known value: use the range from the percentage uncertainty when you have it. Use the percentage difference only when the uncertainty is not known, and treat under 5% as accurate.
 * Error bars are not expected on graphs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ## Improvements and modifications: stock ideas
 
@@ -109,6 +158,12 @@ Straight and passing through the expected point means the model is supported. Cu
 | Heating of a wire or component | Use low current, switch off between readings |
 | Drift in a variable | Control it with a thermostat bath, or wait for it to settle |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--02-pe-pendulum-many-oscillations.webp" width="900" height="810" alt="Twenty oscillations take 36.8 s, so T is 1.84 s. The 0.2 s start/stop uncertainty shrinks to 0.01 s in T, 0.54 %, whereas timing one oscillation gives 11 %. A fiducial marker at equilibrium gives a clear start and stop point." loading="lazy">
+  <figcaption>Timing 20 oscillations makes the percentage uncertainty twenty times smaller.</figcaption>
+</figure>
+
+
 ## Reporting results
 
 * State the value, the uncertainty and the unit together, for example 1.39 J ± 0.05 J, with the uncertainty to 1 or 2 significant figures.
@@ -116,6 +171,12 @@ Straight and passing through the expected point means the model is supported. Cu
 * To compare with a known value, work out the range the result allows. If the known value falls inside it, say the result is accurate within the uncertainty.
 * Give each processed column of a table a consistent number of significant figures, usually 3. Mixing 3 and 4 is acceptable only when the data cross a power of ten.
 * Say what the percentage uncertainty is dominated by and name the one measurement to improve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--12-accuracy-from-uncertainty-range.webp" width="900" height="700" alt="A number line with the result 338 m/s and its +/-2% range 331 to 345. The accepted value 343 lies inside, so the result is accurate within the uncertainty. Without a stated uncertainty, a 1.5% difference (below 5%) also counts as accurate." loading="lazy">
+  <figcaption>Compare the accepted value with the range your result allows.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

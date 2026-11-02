@@ -41,6 +41,17 @@ These notes condense AQA A-level Biology (7402) sections 3.4.5, *Species and tax
 - Courtship is species specific, so a partner who responds correctly is probably the same species.
 - Role of courtship: it allows **species recognition**, so gametes are not wasted on a mating that would give no offspring or sterile ones, and it is a **necessary precursor** to successful mating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## The hierarchy
 
 The eight ranks run domain, kingdom, phylum, class, order, family, genus, species. Smaller groups sit inside larger groups.
@@ -66,6 +77,12 @@ Humans and the brown hare share taxa down to class and diverge at order. Therefo
 2. Species second, in lower case.
 3. Italics, or underline each word if handwritten.
 4. Example: *Lepus europaeus*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
 
 ## Immunology and genome sequencing
 
@@ -104,6 +121,17 @@ Complementary base pairing from the template strand, with U in place of T. Templ
 - Equal numbers of differences do not prove equal time since divergence, but fewer differences suggest a more recent common ancestor.
 - Compare the same gene, aligned in the same order, in every organism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
+
 ## Random sampling and variation
 
 1. Divide the area into a coordinate grid.
@@ -113,6 +141,12 @@ Complementary base pairing from the template strand, with U in place of T. Templ
 Reason: it removes bias from the person sampling, so the sample represents the population.
 
 **Standard deviation.** Small value = values clustered near the mean. Large value = widely spread. If two means have standard deviations that give overlapping ranges, the difference may be due to chance. Example: mean 25, standard deviation 2, so one standard deviation either side is 23 to 27. You only need to interpret it, not calculate it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ## More worked reminders
 

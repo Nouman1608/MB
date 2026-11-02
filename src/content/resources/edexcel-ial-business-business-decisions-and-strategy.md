@@ -51,6 +51,27 @@ Market penetration sells current products to current customers (lowest risk). Pr
 
 **External influences.** PESTLE sorts changes into political, economic, social, technological, legal and environmental. The competitive environment shifts as entrants, technology and customers change. **Porter's five forces** are: competitive rivalry; the threat of new entrants; the threat of substitute products; buyers' bargaining power; and suppliers' bargaining power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--01-ansoff-risk.webp" width="900" height="930" alt="Two by two grid of current and new products against current and new markets: market penetration lowest risk, product and market development higher, diversification highest." loading="lazy">
+  <figcaption>Moving away from current products and markets raises risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--10-boston-matrix-data.webp" width="900" height="790" alt="Growth against relative share, split at 10% and 1.0. Trail boot is a cash cow, waterproof jacket a star, child's sandal a question mark and wool socks a dog." loading="lazy">
+  <figcaption>Plotting each product by growth and relative share gives its Boston Matrix category.</figcaption>
+</figure>
+
+
 ## 2 Business growth
 
 **Objectives of growth:** internal economies of scale (such as bulk buying) and external economies (such as a skilled local labour pool); market power over customers and suppliers; market share and brand recognition; and profitability. **Organic growth** comes from the firm's own resources. **Inorganic growth** comes from outside, by merger or takeover.
@@ -85,6 +106,17 @@ The trend rises by 1 a quarter; forecast = trend plus seasonal gap.
 
 **Limitations:** the past may not repeat, outliers distort, shocks are ignored, weak correlation forecasts poorly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-zelbury-trend-seasonal.webp" width="900" height="950" alt="Zelbury quarterly sales with the centred trend 30.5, 31.5, 32.5, 33.5 and seasonal gaps of -2.5, +8.5, -8.5 and +2.5." loading="lazy">
+  <figcaption>Seasonal gap is actual sales minus the centred trend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--01-bardsey-moving-average.webp" width="900" height="860" alt="Line chart of six weeks of sales: 120, 132, 126, 141, 150, 144. A smoother line shows three-week moving averages 126, 133, 139 and 145, each plotted against the middle week. The smoothed line rises about 6 a week, showing the trend." loading="lazy">
+  <figcaption>Averaging three weeks at a time removes the ups and downs and shows a rising trend of about 6 a week.</figcaption>
+</figure>
+
+
 ### Investment appraisal
 
 Pondmere Pottery considers a kiln costing 80,000 with net cash flows of 20,000, 30,000, 35,000 and 25,000 in years 1 to 4 (total 110,000).
@@ -95,9 +127,21 @@ Pondmere Pottery considers a kiln costing 80,000 with net cash flows of 20,000, 
 
 Limitations: payback ignores cash after payback; ARR ignores timing; NPV does recognise that money received later is worth less, yet the answer hinges on the rate chosen. All rely on forecasts and ignore qualitative factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--03-kiln-payback-npv.webp" width="900" height="1260" alt="Cumulative cash crosses zero at 2.86 years; discounted flows total 86,320 against a cost of 80,000, an NPV of +6,320." loading="lazy">
+  <figcaption>Payback asks when the cost is recovered; NPV asks whether discounted cash beats the cost.</figcaption>
+</figure>
+
+
 ### Decision trees
 
 Squares are decisions, circles chance events. Multiply each outcome by its probability, add for expected value (EV), then subtract the option's cost. Illingby Hampers (in thousands): a large launch costs 120, with a 0.6 chance of 400 and 0.4 chance of 50. EV = 240 + 20 = 260, net **140**. A small launch costs 40, with 0.5 chance of 200 and 0.5 of 60. EV = 130, net **90**. The large launch has the higher net EV. Limitations: probabilities are subjective, only money is counted and risk attitude is ignored.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--04-illingby-decision-tree.webp" width="900" height="1180" alt="Large launch EV 260, net 140; small launch EV 130, net 90; the large launch has the higher net EV." loading="lazy">
+  <figcaption>Net EV is the expected value of the outcomes minus the cost of the option.</figcaption>
+</figure>
+
 
 ### Critical path analysis
 
@@ -107,9 +151,21 @@ Nodes: A is 1 to 2; B 2 to 3; C 2 to 4; D 3 to 5; E 4 to 5; F 5 to 6. Node value
 
 EST: go forwards, taking the larger value where paths join (node 5: 12 beats 11). LFT: go backwards, taking the smaller. Total float = LFT at end node - EST at start node - duration. C: 6 - 3 - 2 = 1. E: 12 - 5 - 6 = 1. Activities with zero float (A, B, D, F) form the **critical path**, 15 days. Limitations: durations are estimates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--05-crowdace-critical-path.webp" width="900" height="1040" alt="Six-node network with earliest start and latest finish times; C and E have 1 day float; critical path A, B, D, F is 15 days." loading="lazy">
+  <figcaption>Activities with zero float form the critical path.</figcaption>
+</figure>
+
+
 ### Contribution
 
 Contribution per unit = selling price - variable cost per unit. It is what each unit adds towards fixed costs and profit. Duskwell Spices sells a jar at 18, variable cost 11: contribution 7. A one-off order of 2,000 jars at 13 gives 2 x 2,000 = **4,000** extra, worth accepting if there is spare capacity and regular customers are not undercut. Contribution also helps choose between products, but fixed costs must still be covered.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-duskwell-special-order.webp" width="900" height="800" alt="Two stacked bars. A regular jar sells at 18 with variable cost 11, so contribution is 7. A special order at 13 gives contribution 2 per jar. 2,000 jars at 2 each add 4,000." loading="lazy">
+  <figcaption>A special order at a lower price still adds 2 per jar towards fixed costs and profit: 4,000 on 2,000 jars.</figcaption>
+</figure>
+
 
 ## 4 Influences on business decisions
 
@@ -151,6 +207,12 @@ Capital employed = non-current liabilities + total equity = 460,000; operating p
 Sandlow Foods: 48,000 units from 120 staff is 400 each. 18 leavers from 150 staff is turnover of 12% and retention of 88%. 300 days lost from 120 x 250 possible days is 1.0% absence. Limitations: averages hide departmental differences.
 
 **Strategies:** financial rewards (bonuses), employee share ownership, consultation (listening before deciding) and empowerment (giving staff authority).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--06-ostbury-ratios.webp" width="900" height="1280" alt="Capital employed 460 gives gearing 39.1% and ROCE 19.6%; the acid test is 70 over 100, 0.7." loading="lazy">
+  <figcaption>Gearing and ROCE share capital employed; the acid test leaves out inventory.</figcaption>
+</figure>
+
 
 ## 6 Managing change
 

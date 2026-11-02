@@ -65,6 +65,12 @@ The grouping is a memory aid, not an official one.
 3. **Connect**: say whether the goals support or conflict, and whether the effect is short run or lasting.
 4. **Use the facts** in the case, such as jobs, hectares or tonnes. A generic answer earns less.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--06-sd-apply-goals.webp" width="900" height="1000" alt="A timber business employing 4,000 workers supports goal 8 and probably goal 1, but works against goal 15 and possibly goal 13. The goals conflict in the short run because the jobs depend on a shrinking forest." loading="lazy">
+  <figcaption>Applying the SDGs means matching, linking and connecting supports and conflicts.</figcaption>
+</figure>
+
+
 ### Reminder table: goal and economic idea
 
 | Goal | Economic idea to attach |
@@ -77,6 +83,12 @@ The grouping is a memory aid, not an official one.
 | 13, 14, 15 | Environmental costs that the market does not price |
 | 17 | International cooperation on shared problems |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--01-sdg-groups.webp" width="900" height="1156" alt="The definition of sustainable development sits above four groups of numbered goal tiles: ending deprivation (1-6), economic base (7-10), living within limits (11-15) and institutions and cooperation (16-17)." loading="lazy">
+  <figcaption>The 17 goals in the lesson’s four study groups.</figcaption>
+</figure>
+
+
 ## Resource calculations
 
 ### Method box: renewable resource
@@ -86,11 +98,28 @@ The grouping is a memory aid, not an official one.
 3. Next year's stock = stock + regeneration − catch.
 4. If the catch stays above regeneration, the stock falls and so does regeneration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--02-fish-stock-overuse.webp" width="900" height="840" alt="Paired bars show regrowth of 12,000, 11,640 and 11,258 tonnes against a constant catch of 18,000 in years 1 to 3, with the stock falling to 194,000, 187,640 and 180,898 tonnes." loading="lazy">
+  <figcaption>The same catch takes a larger share of a shrinking stock.</figcaption>
+</figure>
+
+
 ### Method box: non-renewable resource
 
 1. Lifetime = reserves ÷ yearly extraction.
 2. Recycling at share r cuts mining need to (1 − r) × demand, so lifetime = reserves ÷ [(1 − r) × demand].
 3. If extraction grows, the lifetime is shorter than the constant-rate figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--05-sd-ore-depletion.webp" width="900" height="1120" alt="Cumulative extraction against a 480 million tonne deposit: steady 12 Mt a year lasts 40 years, extraction growing 5% a year runs out in the 23rd year, and 25% recycling (9 Mt mined) lasts about 53.3 years." loading="lazy">
+  <figcaption>Growth in extraction shortens the life of a deposit; recycling extends it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--03-ore-runs-out.webp" width="900" height="890" alt="Ore left against years for three paths: steady extraction lasts 40 years, 5 percent annual growth in extraction empties it in about 22.5 years, and 25 percent recycling stretches it to about 53.3 years." loading="lazy">
+  <figcaption>Recycling buys time but the ore still runs out.</figcaption>
+</figure>
+
 
 ### Worked reminder: a renewable aquifer
 
@@ -110,6 +139,12 @@ A fictional country builds a coal-fired power plant that gives 2,000 people stea
 - **Works against:** goal 13 (climate action).
 - **Connect:** the goals conflict. A full answer adds that the energy gain may last for the life of the plant, while the climate cost falls on future generations as well, which is the sustainability test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--04-sd-fish-overuse.webp" width="900" height="1020" alt="Fish stock stays at 200,000 tonnes with a catch of 12,000 but falls to 194,000, 187,640 and about 180,898 tonnes in years 1 to 3 with a catch of 18,000. Regrowth falls while the catch stays fixed, so the gap grows from 6,000 to about 7,146 tonnes by year 4." loading="lazy">
+  <figcaption>Taking more than regrowth shrinks the stock and the regrowth with it.</figcaption>
+</figure>
+
+
 ## Why markets over-use resources
 
 Resources that nobody owns, or whose damage is not paid for by the user, tend to be over-used because the private cost is lower than the full social cost. This is the main reason intervention is argued for. The detail is in [externalities and common pool resources](/resources/ib-dp-economics-externalities-and-common-pool-resources/).
@@ -124,6 +159,22 @@ Resources that nobody owns, or whose damage is not paid for by the user, tend to
 | Environmental damage to poverty | Lower yields and catches, flood and drought exposure, health costs from pollution |
 
 Together they can form a vicious circle. Policies that tackle both at once, such as subsidised clean cooking energy, can break it. The limit is cost and whether poor households can afford to keep using the cleaner option.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--07-sd-poverty-circle.webp" width="900" height="1030" alt="A four-step cycle: poverty and a short time horizon push households to over-use local resources; the resource shrinks; incomes fall; poverty deepens. The cycle can run in reverse." loading="lazy">
+  <figcaption>Poverty and environmental damage can reinforce each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--08-sd-brimble-woodland.webp" width="900" height="1110" alt="300 households burn 720 tonnes against regrowth of 600, taking 120 tonnes a year from a 4,800 tonne stock (40 years). Gas stoves for 60 households cost 9,000 sols; the other 240 burn 576 tonnes, 24 tonnes below regrowth, so use is sustainable." loading="lazy">
+  <figcaption>A fuel switch cuts poverty and environmental pressure together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--04-poverty-circle-hl.webp" width="900" height="930" alt="A four-box loop: poverty leads to over-use of local resources, then a degraded resource, then lower incomes, then deeper poverty. A note says the circle can run the other way." loading="lazy">
+  <figcaption>Poverty and environmental pressure feed each other.</figcaption>
+</figure>
+
 
 ## Constraints on sustainability
 

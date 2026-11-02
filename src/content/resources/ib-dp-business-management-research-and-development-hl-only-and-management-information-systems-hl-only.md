@@ -77,6 +77,12 @@ Customers do not always know what they lack. Some **unmet needs** are known: peo
 
 The benefit is a product with a clear reason to buy, often with less direct competition. The risk is that a need the business believed in turns out to be small, so development money is lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--07-latent-needs-iceberg.webp" width="900" height="780" alt="An iceberg: known needs above the water, found by surveys, complaints and focus groups; latent needs below, found by watching behaviour, technology push and R&amp;D creativity." loading="lazy">
+  <figcaption>Latent needs are hidden until a product reveals them.</figcaption>
+</figure>
+
+
 ### Intellectual property protection
 
 Intellectual property (IP) protects creations of the mind. The guide names three forms. Rules differ between countries, so this guide describes them in general terms only.
@@ -89,6 +95,12 @@ Intellectual property (IP) protects creations of the mind. The guide names three
 
 Protection stops others copying the work without permission, so the owner can recover its R&D costs. It also lets the owner license the work to others for a fee, which is a source of income. The limits are cost, time and the need to enforce rights, which can be difficult internationally. Protection also does not last for ever.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--05-ip-three-forms.webp" width="900" height="720" alt="Three cards using the invented Pennibar Foods: copyright protects creative works (recipe book text), a patent protects new inventions (baking without frying), a trademark protects brand identity (name and fox logo). Protection stops copying and can be licensed for a fee." loading="lazy">
+  <figcaption>Copyright, patent and trademark protect different things.</figcaption>
+</figure>
+
+
 ### Innovation: incremental and disruptive
 
 **Incremental innovation** improves an existing product or process in small steps, for example a faster processor, a lighter pack or a new flavour. It is cheaper and less risky, and customers understand it. It may not protect a business if a rival changes the market.
@@ -96,6 +108,27 @@ Protection stops others copying the work without permission, so the owner can re
 **Disruptive innovation** creates a product or business model that changes how a market works and often attracts customers who were ignored or priced out. It can bring large rewards. It is costly, uncertain and may damage the business's own existing products.
 
 Most firms do both. A sensible judgement links the choice to the firm's finances, its competitors and how fast its market changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--06-rd-percent-sales.webp" width="900" height="960" alt="Bars for Pennibar Foods in $ million: last year sales 40.0, R&amp;D 3.2 (8.0%); this year sales 48.0, R&amp;D 3.6 (7.5%). R&amp;D spending rose 12.5% and sales 20.0%, so the ratio fell." loading="lazy">
+  <figcaption>The R&amp;D ratio fell because revenue grew faster than R&amp;D spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--07-rd-payback.webp" width="900" height="980" alt="Cumulative net cash for the new product in $ million: -1.2, -0.7, -0.2, +0.3, +0.8 at years 0 to 4. It crosses zero at 2.4 years (1.2 divided by 0.5). The forecast cash flow may be wrong." loading="lazy">
+  <figcaption>Payback of 2.4 years depends on the forecast of 0.5 million a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--06-incremental-disruptive.webp" width="900" height="840" alt="An illustrative graph: a staircase of small steps for incremental innovation, and a steeper new curve for disruptive innovation that starts lower and overtakes it. Incremental is cheaper and less risky; disruptive is costly and uncertain with large possible rewards." loading="lazy">
+  <figcaption>Incremental innovation improves in steps; disruptive innovation starts a new curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
 
 ## 5.9 Management information systems
 
@@ -144,6 +177,12 @@ Data can set schedules, measure output, track location and flag absence. Benefit
 
 **Worked example.** At Ostrelle Logistics (invented) the target is 120 scans an hour. A picker scans 840 items in 7.5 working hours: 840 ÷ 7.5 = 112 an hour, which is 93.3% of target. The figure says nothing about why. A heavy trolley or a faulty scanner would show the same number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--08-digital-taylorism-scans.webp" width="900" height="800" alt="A bar shows 112 scans an hour against a target of 120, which is 93.3% (840 scans in 7.5 hours). A heavy trolley or a faulty scanner would give the same number, so the data shows what happened, not why." loading="lazy">
+  <figcaption>The data says how fast, not why.</figcaption>
+</figure>
+
+
 ### Data mining
 
 **Data mining** searches large datasets for patterns, links and unusual cases. In retail, a common use is to find items bought together. Two standard measures are support and confidence. They are standard data-mining measures rather than guide content.
@@ -160,6 +199,22 @@ For **decision-making**, these technologies bring speed, detail and forecasting.
 - Suppliers, society and the environment: smoother supply chains, against energy use and unequal access.
 
 Ethical questions include informed consent, how long data is kept, who is responsible when an automated system makes a harmful decision, and whether using people's data is fair when they never expected it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--08-loyalty-waterfall.webp" width="900" height="990" alt="Waterfall in dollars a month: extra gross profit 184,800 less rewards 100,800 less running costs 35,000 leaves a net benefit of 49,000. Members may already have been the best customers, so the programme may not have caused all the extra spending." loading="lazy">
+  <figcaption>A loyalty programme nets 49,000 a month, but causation is uncertain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--09-basket-support-confidence.webp" width="900" height="1080" alt="Bars scaled to 2,500 baskets: 500 with oat milk, 350 of them also with granola; 625 with granola overall. Support 14%, confidence 70%, lift 2.8 times (70 divided by 25). A pattern is not proof of cause." loading="lazy">
+  <figcaption>Support, confidence and lift measure how strongly two items are bought together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only--09-mis-chain.webp" width="900" height="938" alt="A five-step chain: internet of things sensors, data centres and cloud, databases and big data, analytics, neural networks and AI, then managers decide. A side bar shows cybersecurity guarding every stage." loading="lazy">
+  <figcaption>MIS technologies feed one another from data capture to decision.</figcaption>
+</figure>
+
 
 ## Common errors
 

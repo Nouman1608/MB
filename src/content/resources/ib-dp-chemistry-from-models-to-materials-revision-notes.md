@@ -91,6 +91,17 @@ According to the guide, the data booklet provides a triangular bonding diagram a
 
 **Must-know distinction.** Δχ alone does not decide the region. Two compounds with the same small Δχ can be metallic (low average) or covalent (high average). Always use both coordinates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--01-bonding-models.webp" width="900" height="910" alt="Three rows show a grid of positive and negative ions (ionic), atoms joined by shared electron pairs (covalent) and cations in a sea of electrons (metallic), each with its typical property. A note says real bonds lie between these ends." loading="lazy">
+  <figcaption>The three bonding models are idealised end points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--02-bonding-triangle.webp" width="900" height="880" alt="A graph of electronegativity difference against average electronegativity shows a triangle with Cs (metallic), F2 (covalent) and CsF (ionic) at the corners. KCl, AlCl3, SiC and NiAl are plotted from the lesson values." loading="lazy">
+  <figcaption>Each binary compound is one point: higher means more ionic, low left metallic, low right covalent.</figcaption>
+</figure>
+
+
 ## Structure 2.4.3: alloys
 
 - An alloy is a **mixture**: its composition can vary, and it has no fixed formula.
@@ -106,6 +117,12 @@ According to the guide, the data booklet provides a triangular bonding diagram a
 
 Specific alloys do not have to be learned. The explanation does.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--03-alloy-layers.webp" width="900" height="810" alt="Two panels show rows of metal atoms. In pure copper the layers slide when pushed; in brass larger zinc atoms distort the layers and block the slide. Free electrons are shown in both, so both conduct." loading="lazy">
+  <figcaption>Different-sized atoms stop layers sliding, but mobile electrons remain.</figcaption>
+</figure>
+
+
 ## Structure 2.4.4: polymers and plastics
 
 **Natural polymers:** proteins, starch, cellulose, DNA, natural rubber.
@@ -120,6 +137,12 @@ Specific alloys do not have to be learned. The explanation does.
 | Slow to break down | Strong, unreactive C–C and C–H bonds |
 
 Longer, less branched chains pack more closely: stronger and denser. Cross-linked chains do not soften on heating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--04-plastic-chains.webp" width="900" height="890" alt="Three panels of wavy chains: long unbranched chains pack close (strong, dense, soften when warmed); branched chains pack loosely (weaker); cross-linked chains joined by covalent links do not soften." loading="lazy">
+  <figcaption>Chain length, branching and cross-links decide strength and softening.</figcaption>
+</figure>
+
 
 ## Structure 2.4.5: addition polymers
 
@@ -137,6 +160,17 @@ Longer, less branched chains pack more closely: stronger and denser. Cross-linke
 **Worked reminder.** 3-Chloropropene is CH₂=CH–CH₂Cl. Its repeating unit is –[–CH₂–CH(CH₂Cl)–]–ₙ. The CH₂Cl group is a side chain; only the two C=C carbons form the backbone.
 
 **Atom economy.** No atoms are lost to a by-product, so addition polymerization has 100% atom economy. The molar mass of the repeating unit equals the molar mass of the monomer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--05-addition-polymer.webp" width="900" height="930" alt="Three propenoic acid molecules join: each C=C opens and forms new C-C bonds. The chain shows one repeating unit in brackets with continuation bonds and n, COOH as a side group. Atom economy 100%; unit M = 72.07, 2000 units about 1.44 x 10^5." loading="lazy">
+  <figcaption>Break the C=C, keep the side group, add brackets, continuation bonds and n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--06-polymer-to-monomer.webp" width="900" height="630" alt="The repeating unit with CH3 and Cl on one backbone carbon is shown in brackets with n. An arrow turns the backbone C-C into C=C to give the monomer 2-chloropropene." loading="lazy">
+  <figcaption>Drop the brackets and n, make the backbone C=C, and keep the side groups.</figcaption>
+</figure>
+
 
 ## Structure 2.4.6: condensation polymers (HL only)
 
@@ -161,6 +195,17 @@ Longer, less branched chains pack more closely: stronger and denser. Cross-linke
 - Nucleic acids: nucleotides joined by condensation.
 
 A chain of N monomer units has N − 1 links, so N − 1 water molecules are released when it forms, and N − 1 are needed to hydrolyse it completely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--07-polyester-hl.webp" width="900" height="1010" alt="Butane-1,4-diol and butanedioic acid are drawn bond by bond with the leaving H and OH highlighted in gold. Two H2O are lost per unit to give the ester-linked repeating unit. Atom economy = 172.20 / (90.14 + 118.10) x 100 = 82.7%." loading="lazy">
+  <figcaption>HL only: each ester link forms with loss of water, so atom economy is below 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--08-polyamide-hydrolysis-hl.webp" width="900" height="1030" alt="Two 4-aminobutanoic acid molecules join head to tail with loss of one H2O to give an amide link, -CONH-; hydrolysis reverses it. A chain of 6 units releases 5 H2O and a protein of 120 amino acids releases 119 H2O." loading="lazy">
+  <figcaption>HL only: condensation releases one water per link; hydrolysis adds it back.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

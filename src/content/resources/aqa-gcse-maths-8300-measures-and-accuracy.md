@@ -53,6 +53,12 @@ Time:      60 s = 1 min   60 min = 1 hour   24 hours = 1 day
 Money:     100p = £1
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+
 ### Area and volume conversions
 
 An area unit is a length unit squared, so the length factor is squared. A volume unit is a length unit cubed, so the factor is cubed.
@@ -73,6 +79,22 @@ An area unit is a length unit squared, so the length factor is squared. A volume
 
 A useful link: 1 m³ = 1000 litres.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--01-unit-conversion.webp" width="900" height="1060" alt="A square metre is drawn as a 10 by 10 grid of 10 cm squares, so 1 m2 is 100 times 100 = 10 000 cm2. A 1 m cube has 10 by 10 grids on its faces, and one small cube is 1 litre (1000 cm3). So 1 m3 = 1 000 000 cm3 = 1000 litres." loading="lazy">
+  <figcaption>Square or cube the conversion factor when converting areas and volumes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
+
 ### Time as a decimal
 
 Time is not decimal. 3.4 hours is not 3 hours 40 minutes.
@@ -87,6 +109,17 @@ speed = 189 ÷ 2.25 = 84 km/h
 ```
 
 Speed, density, pressure, rates of pay and unit prices are the standard compound measures, taught in full in the [Ratio, proportion and rates of change revision notes](/resources/aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--06-entering-time.webp" width="900" height="1000" alt="A clock shows 50 minutes as 50/60 of an hour, so 1 h 50 min is 1.8333 h. Dividing 148 by 1 + 50/60 gives 80.7 km/h. Typing 1.50 gives 98.7 and rounding to 1.83 first gives 80.9, both wrong." loading="lazy">
+  <figcaption>Convert minutes by dividing by 60 and keep the full value.</figcaption>
+</figure>
+
 
 ### Money and imperial units
 
@@ -120,6 +153,17 @@ Both numbers were rounded **up**, and both are multiplied, so the estimate is bi
 
 Rounding a divisor down makes the answer bigger. If one rounding pushes up and another pushes down, you cannot tell without working it out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--04-overestimate-both-rounded-up.webp" width="900" height="680" alt="A dashed rectangle 20 tins by 4 pounds (80) contains a solid rectangle 19 tins by 3.85 pounds (73.15), drawn to scale. Rounding both numbers up makes the product bigger, so the estimate is an overestimate." loading="lazy">
+  <figcaption>Rounding both multiplied numbers up gives an estimate bigger than the true value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+
 ## N15: Rounding to an appropriate degree of accuracy
 
 ### Decimal places and significant figures
@@ -137,6 +181,12 @@ Rounding a divisor down makes the answer bigger. If one rounding pushes up and a
 
 7.996     -> 7.99|6 rounds up, carrying -> 8.00 (the zeros show 2 d.p.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
 
 ### Rounding in context
 
@@ -177,6 +227,12 @@ Use ≤ on the left (6.25 rounds up to 6.3) and < on the right (6.35 rounds to 6
 y = 6.3 truncated to 1 decimal place:   6.3 ≤ y < 6.4
 age 15 (whole years, truncated):        15 ≤ age < 16
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--01-rounded-or-truncated.webp" width="900" height="890" alt="A pair of number lines from 6.20 to 6.45. Rounding 6.3 to 1 d.p. gives 6.25 &lt;= x &lt; 6.35 (closed dot at 6.25, open dot at 6.35). Truncating to 6.3 gives 6.3 &lt;= y &lt; 6.4." loading="lazy">
+  <figcaption>Rounding allows half a unit either side; truncation only goes up by one whole unit.</figcaption>
+</figure>
+
 
 ## N16: Limits of accuracy
 
@@ -231,6 +287,17 @@ To 3 s.f. they differ (15.4 and 15.3).
 Average speed = **15 m/s** (2 s.f.), because the upper and lower bounds agree to 2 significant figures. This "round both bounds until they agree" method is how you answer "to an appropriate degree of accuracy" questions on bounds.
 
 You use the upper bound in calculations even though the interval ends with <: use 1505, not 1504.99...
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--02-bounds-subtraction-plank.webp" width="900" height="850" alt="Two bars drawn to the same scale show a 2.4 m plank (2.35 to 2.45 m) with an 85 cm piece (0.845 to 0.855 m) cut off. Longest plank minus shortest piece leaves 1.605 m, the greatest; shortest plank minus longest piece leaves 1.495 m, the least." loading="lazy">
+  <figcaption>For a subtraction the greatest answer is UB - LB and the least is LB - UB.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--03-bounds-speed-agree.webp" width="900" height="830" alt="A number line from 15.25 to 15.45 m/s marks the speed bounds 15.31 (1495 / 97.65) and 15.43 (1505 / 97.55). To 3 s.f. they give 15.3 and 15.4 so disagree; to 2 s.f. both give 15, so the speed is 15 m/s." loading="lazy">
+  <figcaption>Round both bounds until they agree to find the appropriate degree of accuracy.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -40,6 +40,12 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-chemistry-oxidatio
 
 The specification's overview says redox reactions involve a transfer of electrons from the reducing agent to the oxidising agent, and that the change in oxidation state of an element is used to identify which element has been oxidised or reduced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--02-hydrogen-electrode.webp" width="900" height="1130" alt="A platinum electrode in 1.00 mol per dm3 H+ with hydrogen gas bubbled over it is the standard hydrogen electrode, defined as 0.00 V. Joined to a zinc half-cell by a salt bridge it reads 0.76 V with zinc negative, so E° for Zn2+/Zn is -0.76 V. Standard conditions are 298 K, 100 kPa (101 kPa in the Cambridge syllabus) and 1.00 mol per dm3." loading="lazy">
+  <figcaption>The hydrogen electrode is defined as 0.00 V, so every other half-cell potential is read against it under standard conditions.</figcaption>
+</figure>
+
+
 ## Electron transfer: the four definitions
 
 Learn these in the specification's words:
@@ -162,6 +168,17 @@ PbO₂ + 4HCl → PbCl₂ + Cl₂ + 2H₂O
 
 Lead goes from +4 to +2, so PbO₂ is reduced and is the oxidising agent. Chlorine starts at −1 in all four HCl. Two of those chlorine atoms end at −1 in PbCl₂ and do not change. The other two end at 0 in Cl₂, so they are oxidised. Only half the HCl acts as the reducing agent. The rest supplies chloride ions and hydrogen. Electron check: Pb gains 2; two Cl atoms lose 1 each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
+
 ## Writing half-equations
 
 A half-equation shows either the oxidation or the reduction on its own, with electrons included. Electrons on the left mean reduction. Electrons on the right mean oxidation.
@@ -207,6 +224,12 @@ NO₂⁻ + H₂O → NO₃⁻ + 2H⁺ + 2e⁻
 ```
 
 5. Check: N goes from +3 to +5, a rise of 2, and 2 electrons are lost. This is an **oxidation**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
 
 ## Combining half-equations
 

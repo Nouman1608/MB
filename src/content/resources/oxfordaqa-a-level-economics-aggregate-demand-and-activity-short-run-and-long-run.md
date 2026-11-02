@@ -57,6 +57,12 @@ The multiplier, k, compares how far national income finally moves with the size 
 
 The three forms agree because MPC (spent at home) + MPW = 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--13-multiplier-leakages-rounds.webp" width="900" height="960" alt="Each extra pound of income: 0.60 spent at home, 0.08 saved, 0.12 taxed, 0.20 on imports. MPW is 0.40, so k is 2.5. A 36m injection produces rounds of 36, 21.6, 12.96, 7.78 and 4.67m with later rounds about 7.0m, in total about 90m." loading="lazy">
+  <figcaption>Leakages shrink each round, and the rounds add up to injection times k.</figcaption>
+</figure>
+
+
 ### Worked example 1: the multiplier and its rounds
 
 Country A (illustrative) has MPS = 0.08, MPT = 0.12 and MPM = 0.20. The government spends an extra 36m on a road scheme.
@@ -85,6 +91,12 @@ Country A has normal capacity output of 1,000m and actual output of 940m, so the
 
 If the true multiplier is only 2.5 (higher leakages than assumed), a 15m injection raises income by 37.5m, leaving 22.5m of the gap. The method is simple. The difficulty is knowing k, which is why such estimates are uncertain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--11-multiplier-gap-assumed-vs-true.webp" width="900" height="820" alt="Output gap 60m. A planner assuming k = 4 injects 15m expecting 60m. With the true k = 2.5, 15m raises income by 37.5m and leaves 22.5m of the gap." loading="lazy">
+  <figcaption>A wrong estimate of the multiplier leaves part of the output gap open.</figcaption>
+</figure>
+
+
 ### Worked example 3: a local multiplier
 
 The idea applies locally. A small town gains a workshop that pays 2m a year in wages to residents. They spend 55% of extra income inside the town.
@@ -94,6 +106,12 @@ The idea applies locally. A small town gains a workshop that pays 2m a year in w
 
 A small town has a lower local multiplier than a nation with the same tastes would have, because more spending on imports from outside leaks out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--12-multiplier-local-town.webp" width="900" height="790" alt="A workshop pays 2m a year. Rounds of local spending are 2.00, 1.10, 0.61, 0.33, 0.18 and later 0.22, each round leaking 45% out of town. Local k is 2.22 so extra income is about 4.44m." loading="lazy">
+  <figcaption>A small town spends little locally, so its multiplier is small.</figcaption>
+</figure>
+
+
 ### Evaluating the size of the multiplier
 
 - **Leakages.** Higher MPS, MPT or MPM mean a smaller k.
@@ -101,6 +119,17 @@ A small town has a lower local multiplier than a nation with the same tastes wou
 - **Time.** Each round takes time, so the full effect may take months or years.
 - **Expectations.** If households expect higher taxes later, they may save more, which raises MPS.
 - **Size and direction.** The same value of k magnifies falls in injections as well as rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--05-multiplier-rounds.webp" width="900" height="980" alt="Horizontal bars show each round of spending after an extra 36m: 36.00, 21.60, 12.96, 7.78 and 4.67m, each 60% of the last. 40% of each round leaks (saving 0.08, tax 0.12, imports 0.20). Cumulative income reaches 83.00m after five rounds and approaches 90m, which is 36 times k = 2.5." loading="lazy">
+  <figcaption>Each round re-spends 60% and leaks 40%, so 36m becomes 90m with k = 1 divided by 0.40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
 
 ## Determinants of short-run aggregate supply (3.2.2.5)
 
@@ -133,6 +162,22 @@ Productivity matters through cost per unit. Suppose workers earn 20 an hour and 
 - Change = +3.9%. SRAS shifts left.
 
 If productivity had also risen 6%, the cost per unit would stay at 0.50, so a pay rise alone does not necessarily shift SRAS left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--06-sras-movement-vs-shift.webp" width="900" height="1295" alt="Two AD-SRAS graphs with truncated axes. A rise in AD moves the economy up a fixed SRAS curve: price level 100 to 105 and output 980 to 1,000. A rise in raw material prices shifts SRAS left, so price level rises 100 to 106 and output falls 1,000 to 970, which is cost-push inflation." loading="lazy">
+  <figcaption>A change in the price level is a movement along SRAS; a change in costs shifts the whole curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--07-unit-labour-cost.webp" width="900" height="975" alt="Two worked examples of labour cost per unit. Pay of 20 an hour and output of 40 give 0.50 a unit. Pay +6% and output +2% give 0.5196, up 3.9%, so SRAS shifts left. Pay +6% and output +6% leave cost per unit at 0.50, so no shift." loading="lazy">
+  <figcaption>A pay rise shifts SRAS left only if it raises cost per unit, that is if pay grows faster than productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## Determinants of long-run aggregate supply (3.2.2.6)
 
@@ -170,6 +215,22 @@ Many economists think the economy returns to normal capacity automatically becau
 4. Since the wait may be long, the Keynesian conclusion is that AD should be raised deliberately.
 
 Evaluation: the idea is persuasive when unemployment persists, but stimulus could be wasted or inflationary if the output gap is smaller than estimated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--08-capacity-gap.webp" width="900" height="960" alt="Bars compare normal capacity and actual output. This year capacity is 1,000bn and actual output 940bn, a gap of -6.0%. Next year capacity grows 3.02% to 1,030.2bn and actual output 2.1% to 960bn, so the gap widens to -6.8%." loading="lazy">
+  <figcaption>Actual output grew, but capacity grew faster, so the output gap widened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--14-keynesian-stuck-below-capacity.webp" width="900" height="870" alt="AD and AS graph with vertical LRAS at 1,000m. AD falls from AD1 to AD2 and equilibrium sits at 940m, 60 below capacity. Four steps: AD falls, wages and prices fall slowly, weak demand keeps investment low, so raise AD deliberately." loading="lazy">
+  <figcaption>The Keynesian view says an economy can stay below normal capacity for years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Common errors
 

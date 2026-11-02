@@ -42,6 +42,17 @@ questions often ask you to identify which list an error belongs to:
 **The one-line test:** if debits and credits are still numerically
 equal despite the error, the trial balance cannot catch it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-accounting-verification-revision-notes--01-six-hidden-errors.webp" width="900" height="1246" alt="Six rows, one per error type the trial balance cannot reveal: omission, commission, principle, original entry, complete reversal and compensating. Each shows the correct entry, what was actually posted, and a debit-credit gap of $0. Example amounts are illustrative." loading="lazy">
+  <figcaption>Each of these six errors leaves debits equal to credits, so the trial balance cannot catch it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-verification-of-double-entry-records-and-the-trial-bala--09-mp16-tb-revealed.webp" width="900" height="1126" alt="Four balance scales show which column is higher for addition, partial omission, transposition and unequal posting. A panel contrasts omission (totals agree) with partial omission (credit higher by 1,500)." loading="lazy">
+  <figcaption>Revealed errors leave one column higher; omission does not.</figcaption>
+</figure>
+
+
 ## Control accounts as a checking tool, not a replacement
 
 A control account is a **memorandum total**, not a substitute for the
@@ -77,6 +88,12 @@ balance of the two — which is why the cheque is subtracted from the
 bank statement balance. Get the direction wrong and every reconciliation
 total that follows is wrong too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--01-brec-where-it-goes.webp" width="900" height="1050" alt="Bank charges, interest paid, direct debit and standing order are credits; bank interest received and credit transfer are debits. Outstanding bankings are added, unpresented cheques deducted and bank errors corrected on the reconciliation only." loading="lazy">
+  <figcaption>Items the bank knows first go in the cash book; items the business knows first only change the reconciliation.</figcaption>
+</figure>
+
+
 ## Correcting errors: suspense account vs journal only
 
 Use this rule to decide which tool an error needs:
@@ -87,6 +104,12 @@ found.
 - If the trial balance **already balances** (a compensating, omission,
 commission, principle, original entry or complete reversal error), no
 suspense account is needed — correct directly via the general journal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-accounting-verification-revision-notes--01-suspense-or-journal.webp" width="900" height="1000" alt="A decision diagram asking whether the trial balance totals agree. Yes leads to journal-only correction, covering commission, complete reversal, compensating, omission, original entry and principle errors. No leads to opening a suspense account then journalling, covering addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A suspense account is needed only when the trial balance totals disagree.</figcaption>
+</figure>
+
 
 ## Effect on profit
 
@@ -99,6 +122,12 @@ expense account changes it, unless it is offset by an equal error in
 another revenue or expense account (for example, sales and purchases
 both understated by the same amount, a compensating error that leaves
 gross profit unchanged).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--04-does-it-change-profit.webp" width="900" height="975" alt="Crediting income or expense accounts raises profit and debiting them lowers it. Journals between asset, liability or capital accounts do not change profit. A compensating error on electricity and discount received overstates and understates profit by 90 each, so the effects cancel." loading="lazy">
+  <figcaption>Profit changes only when an income or expense account is in the journal.</figcaption>
+</figure>
+
 
 ## Sequencing a full error-correction question
 

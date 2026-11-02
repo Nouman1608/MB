@@ -70,6 +70,12 @@ This is a macroeconomic measure because it covers all the output of the country.
 
 Topics often link the two. A fall in the wages of one group of workers (micro) can change total spending across the economy (macro). Say which level each point belongs to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--01-micro-v-macro-measures.webp" width="900" height="960" alt="Two panels. Micro: the price of mangoes at one stall. Macro: real output rising from 800 to 832 is growth of 4.0%, and 1,200 unemployed out of a labour force of 15,000 is 8.0%. The decision makers differ: households, workers and firms against government and central bank." loading="lazy">
+  <figcaption>Micro covers single markets; macro covers whole-economy measures such as growth and unemployment.</figcaption>
+</figure>
+
+
 ## 2.2.1 The market system
 
 A **market** is any set-up in which buyers and sellers meet to trade, whether in a shop, a street or online. It does not need a physical place.
@@ -82,6 +88,17 @@ Resources are scarce, so every unit of land, labour and capital used for one pro
 ### Market equilibrium
 
 **Market equilibrium** exists at the price where the quantity demanded equals the quantity supplied. At that price there is no pressure for the price to change. This price is the equilibrium price and the quantity traded is the equilibrium quantity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--05-mango-market-equilibrium.webp" width="900" height="960" alt="Demand and supply lines for mangoes cross at price 4 and 60 kg. At price 2 there is a shortage of 70 and 20 kg trades; at price 6 a surplus of 70 and 30 kg trades. Revenue is 40, 240 and 180." loading="lazy">
+  <figcaption>Only the smaller of quantity demanded and supplied is traded out of equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ### Worked example: finding equilibrium (illustrative)
 
@@ -145,6 +162,12 @@ At w = 25: A = 8 x 25 + 30 = 230 and B = 3 x 25 + 200 = 275. Method A is cheaper
 
 The two methods cost the same where 8w + 30 = 3w + 200, so 5w = 170 and w = 34. Above a wage of 34 the machine is cheaper, below it hand harvesting is cheaper. The "how" answer depends on the relative prices of labour and capital.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--06-how-to-produce-cost.webp" width="900" height="960" alt="Cost lines for method A (8w + 30) and method B (3w + 200) cross at wage 34 and cost 302. Hand harvesting is cheaper below 34, the machine above." loading="lazy">
+  <figcaption>The answer to &quot;how to produce&quot; depends on the relative prices of labour and capital.</figcaption>
+</figure>
+
+
 ## 2.2.3 How the price mechanism answers the three questions
 
 The **price mechanism** is the way that changes in prices, resulting from the interaction of demand and supply, coordinate the decisions of buyers and sellers and allocate resources. It does three jobs.
@@ -187,6 +210,22 @@ Limitations:
 - Adjustment is not instant, so shortages and surpluses can persist.
 
 A balanced answer says which limitation matters most in the context given and why. Later sections on market failure and the mixed economic system develop this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-micro-and-macro-markets-and-the-price-mechanism--02-for-whom-income-share.webp" width="900" height="790" alt="Bars to one scale show Household H (income 600) and Household L (income 150). Buying 5 kg of mangoes costs 20, which is 3.3% of H's income and 13.3% of L's." loading="lazy">
+  <figcaption>The price rations output by ability to pay: the same 20 is four times the share of income for L.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
 
 ## Common errors
 

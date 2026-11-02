@@ -74,6 +74,12 @@ longer chain has more electrons and more surface contact, so these forces are st
 is needed to separate the molecules. Boiling does not break C–C or C–H bonds, so fractional distillation
 is a physical process. That is the key contrast with cracking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
+
 ## Cracking (3.3.2.2)
 
 **Cracking** breaks **C–C bonds** in long-chain alkanes to make shorter molecules. If the products are all
@@ -116,6 +122,12 @@ You must be able to **explain** these, not just list them.
 - Cracking makes **alkenes**, which are more reactive than alkanes and are valuable starting materials for
   making polymers and other chemicals.
 - Catalytic cracking makes **motor fuels** and **aromatic hydrocarbons**, which are valuable products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Combustion of alkanes (3.3.2.3)
 
@@ -215,6 +227,17 @@ The flue-gas mass calculation for CaO and CaCO₃ is worked through on the
 [Group 2 study guide](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals/), so it is not
 repeated here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Chlorination of methane (3.3.2.4)
 
 Methane reacts with chlorine in **ultraviolet (UV) light**. A hydrogen atom is replaced by a chlorine atom,
@@ -256,6 +279,17 @@ Cl• + Cl• → Cl2
 •CH3 + Cl• → CH3Cl
 •CH3 + •CH3 → C2H6
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+</figure>
+
 
 ### Worked example 4: further substitution
 

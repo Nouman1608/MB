@@ -55,6 +55,12 @@ in the y-axis.
 **Transformations to recall:** y = c + Aeᵏˣ has asymptote y = c and y-intercept c + A. For
 y = c + ln(x − h), the asymptote is x = h.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--02-base-family.webp" width="900" height="1000" alt="Curves 2^x, e^x, 3^x and (1/2)^x all pass through (0, 1), lie above the x-axis and have it as an asymptote. Bases above 1 give growth, with e^x between 2^x and 3^x; (1/2)^x decays and mirrors 2^x in the y-axis." loading="lazy">
+  <figcaption>Every aˣ passes through (0, 1); a &gt; 1 grows and a &lt; 1 decays.</figcaption>
+</figure>
+
+
 ## Formulae to recall
 
 Appendix B of the specification lists the laws of logarithms, and x = aⁿ ⇔ n = log_a x for a > 0
@@ -138,6 +144,12 @@ because any positive base b can be written as e^(ln b). A growth factor b > 1 gi
 a factor 0 < b < 1 gives k < 0. This is useful when a question gives a "percentage increase per
 year" and you prefer to work with e.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **log_a (xy) vs log_a (x + y):** the first splits into a sum; the second does not split at all.
@@ -192,6 +204,12 @@ Always tie a limitation to the context in the question, not a generic phrase.
 10. t = ln 2 / 0.05 = **13.9** (3 s.f.).
 11. log₃ (54/2) = log₃ 27 = **3**.
 12. Let u = eˣ: u² − 7u + 12 = 0, so u = 3 or 4. x = **ln 3 or ln 4** (ln 4 = 2 ln 2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

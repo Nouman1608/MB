@@ -129,6 +129,22 @@ atom economy = 102.0 ÷ 160.5 × 100 = 63.6%
 
 The rest of the reactant mass ends up in the by-product, sodium chloride.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--03-ammonia-mechanism.webp" width="900" height="910" alt="Step 1: the N lone pair attacks C and the C-Br pair moves to Br, giving CH3CH2NH3+ and Br-. Step 2: a second NH3 takes H+, giving ethylamine and NH4+." loading="lazy">
+  <figcaption>Ammonia acts twice, first as a nucleophile and then as a base, giving ethylamine and NH4+ (AQA, Edexcel, OxfordAQA; OCR teaches it later).</figcaption>
+</figure>
+
+
 ## Substitution by cyanide ions: making a nitrile
 
 Heating a halogenoalkane under reflux with potassium cyanide dissolved in a mixture of ethanol and
@@ -150,6 +166,12 @@ Equation: CH₃CH₂CH(CH₃)CH₂Br + CN⁻ → CH₃CH₂CH(CH₃)CH₂CN + Br
 
 Watch the numbering. In the reactant the branch was on carbon 2; in the product it is on carbon 3,
 because the new carbon becomes carbon 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
 
 ## Substitution by ammonia: making a primary amine
 

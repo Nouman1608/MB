@@ -112,6 +112,62 @@ At market rates the basket costs 60 cu in Country C, against 90 cu in Country A.
 - Market exchange rates move, which changes converted incomes without any change in output.
 - Price indices and data quality differ between countries, and a PPP basket may not match local consumption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--01-growth-without-development.webp" width="900" height="950" alt="Bars show Country A real GDP up 8.05%, population up 10% and real GDP per person down 1.77%, from 20,000 cu to 19,646 cu. Positive growth does not guarantee higher average living standards." loading="lazy">
+  <figcaption>Real output rose 8.05% but population rose 10%, so output per person fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--02-hdi-geometric-mean.webp" width="900" height="890" alt="Health 0.783, education 0.655 and income 0.604 combine as a geometric mean to an HDI of 0.677, slightly below the arithmetic mean 0.681. The geometric mean penalises an uneven profile." loading="lazy">
+  <figcaption>The HDI is the geometric mean of three dimension indices, so it sits just below their simple average.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--03-mpi-weights.webp" width="900" height="1050" alt="Ten indicators in three equally weighted dimensions: health and education indicators are 1/6 each, living-standards indicators 1/18 each. A person deprived in nutrition, cooking fuel, sanitation and electricity scores 1/3 and counts as poor; MPI = H x A = 0.135." loading="lazy">
+  <figcaption>A person scoring at least 1/3 of the weighted indicators is poor, and MPI = H x A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--04-kuznets-curve.webp" width="900" height="920" alt="Line chart of Gini against four income bands using the lesson values 0.30, 0.38, 0.45 and 0.36. Inequality rises then falls, an inverted U, as a pattern not a law." loading="lazy">
+  <figcaption>Inequality first rises and then falls as income per head grows, but this is not inevitable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--06-dev-gdp-gni-nni.webp" width="900" height="944" alt="GDP 300, net property income -12 gives GNI 288; capital consumption 30 gives NNI 258. Per head, GDP is 50,000 cu and NNI 43,000 cu with 6 million people." loading="lazy">
+  <figcaption>GNI adds net property income from abroad and NNI then subtracts capital consumption.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--07-dev-mew.webp" width="900" height="1028" alt="GDP 200 plus household production 25 and leisure 18, minus regrettable necessities 14 and environmental damage 11, gives MEW 218; per head 43,600 cu against GDP per head 40,000 cu." loading="lazy">
+  <figcaption>MEW adjusts GDP by adding non-market gains and subtracting regrettable and harmful costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--08-dev-ppp-basket.webp" width="900" height="950" alt="The same basket costs 90 cu in Country A and 600 units in Country C, so the PPP rate is 6.67 units per cu. Country C income of 24,000 units is 2,400 cu at the market rate of 10 but 3,600 cu at PPP, 50% higher." loading="lazy">
+  <figcaption>PPP converts income by relative price levels, not the market exchange rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--06-purchasing-power-parity.webp" width="900" height="872" alt="Country A earns $4,000 a month and a basket costs $100, so it buys 40 baskets. Country B earns $1,000 and a basket costs $40, so it buys 25. At exchange rates B looks 25% of A, but adjusted for PPP it is 62.5% of A." loading="lazy">
+  <figcaption>PPP adjusts incomes for what they buy locally, giving a truer comparison of living standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## 11.3.3 Non-monetary and composite indicators
 
 Non-monetary indicators measure outcomes directly, for example life expectancy, infant mortality, adult literacy, school enrolment, doctors per thousand people, access to clean water and sanitation, electricity and internet access, and nutrition. They show what income delivers. Each covers one aspect, and they can conflict. A composite indicator combines several into one number.
@@ -198,6 +254,12 @@ X's growth rate is much higher, yet the absolute gap widens for decades because 
 ### Between countries
 
 Compare using the same year, PPP-adjusted income, and several indicators together. A country with lower income per head may have higher life expectancy because of public health spending, so rankings can differ across indicators. Growth can be volatile, depends on the start and end years chosen, and does not show who benefits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-economic-development-and-measuring-living-standards--05-growth-gap-catch-up.webp" width="900" height="890" alt="Country X (3,000 cu, 7% growth) and Country Y (30,000 cu, 2% growth) over 60 years. After 10 years the absolute gap has widened from 27,000 to 30,668 cu and X catches up only after about 48.1 years." loading="lazy">
+  <figcaption>A high growth rate from a low base does not quickly close a gap in levels.</figcaption>
+</figure>
+
 
 ## Common errors
 

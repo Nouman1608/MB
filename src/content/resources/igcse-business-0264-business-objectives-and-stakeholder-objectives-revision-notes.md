@@ -47,6 +47,17 @@ Method in steps:
 
 Quick reminder: sales of 60,000 dollars in a market of 400,000 dollars gives 60,000 / 400,000 × 100 = 15%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--05-kestrel-market-share.webp" width="900" height="940" alt="Two bars show the town bread market with Kestrel part shaded: 180,000 of 1,200,000 is 15% in year 1; 234,000 of 1,300,000 is 18% in year 2. Sales grew 30% against 8.3% for the market." loading="lazy">
+  <figcaption>Share rises when sales grow faster than the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ### Why objectives are important
 
 - They give direction, so everyone works towards the same aim.
@@ -55,12 +66,29 @@ Quick reminder: sales of 60,000 dollars in a market of 400,000 dollars gives 60,
 - They help to motivate and co-ordinate staff and departments.
 - They tell stakeholders, such as lenders, what the business is trying to do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+
 ### How objectives change
 
 - A new business: survival comes first.
 - A secure business: growth, profit and market share become more likely targets.
 - A hard economy or new rival: a business may return to survival.
 - A rise in the size of the business can move the objective from "enough profit" to "more growth".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--06-pennywell-conflict.webp" width="900" height="930" alt="Waterfall from $180,000 profit: a 5% pay rise takes $55,000, a 3% price cut takes $72,000, leaving $53,000, a fall of 70.6%." loading="lazy">
+  <figcaption>Meeting both employees and customers would cut profit by more than two thirds.</figcaption>
+</figure>
+
 
 ## 1.5.2 Stakeholder groups
 
@@ -83,6 +111,22 @@ Quick reminder: sales of 60,000 dollars in a market of 400,000 dollars gives 60,
 - **Owner and manager.** In a sole trader or partnership they are often the same people. In a company they are often different, which is a source of conflict.
 - **Dividend and retained profit.** A dividend is profit paid to shareholders. Retained profit stays in the business for reinvestment.
 - **Sales and market share.** Sales grow when the business sells more. Market share grows only if it sells faster than the market grows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--05-obj-stakeholder-wants.webp" width="900" height="1080" alt="Nine rows: four internal groups (sole traders and partners, shareholders, managers, employees) and five external groups (customers, suppliers, lenders and banks, government, local community), each with its typical wants in a few words." loading="lazy">
+  <figcaption>Each stakeholder group wants something different from the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
 
 ## Conflicts between stakeholders
 

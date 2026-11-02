@@ -45,6 +45,12 @@ A convex lens is thicker at the middle than at the edges. It is also called a co
 
 Any two are enough. Where they cross (or appear to cross) is the top of the image. If the foot of the object is on the axis, so is the foot of the image.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+
 ## Describing an image (3.3.6 e)
 
 Describe every image using three pairs of words.
@@ -75,6 +81,22 @@ As the object moves towards the lens, the real image moves away from it and grow
 
 A magnifying glass is a convex lens used with the object **closer to the lens than the principal focus**. The image is virtual, upright and larger, and it is on the same side as the object. You cannot project its image onto a wall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--08-lens-magnifier.webp" width="900" height="900" alt="Ray diagram for a convex lens with the object inside the principal focus. The two refracted rays spread out and never meet; dotted lines traced backwards meet 7.5 cm from the lens on the same side as the object, giving a virtual, upright image 5 cm tall, which is 2.5 times larger than the 2 cm object." loading="lazy">
+  <figcaption>Inside the principal focus a convex lens gives a larger, upright, virtual image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--10-lens-2f-and-f.webp" width="900" height="980" alt="Two grid ray diagrams for a convex lens with f = 3 cm. With the object at 2f (6 cm) the rays cross 6 cm beyond the lens and the image is real, inverted and the same size. With the object at f (3 cm) the rays leave the lens parallel, so no image forms." loading="lazy">
+  <figcaption>At 2f the image is real, inverted and the same size; at f the rays emerge parallel and there is no image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
+
 ## Concave lenses (3.3.6 c)
 
 A concave lens is thinner at the middle than at the edges. It is also called a diverging lens.
@@ -84,6 +106,12 @@ A concave lens is thinner at the middle than at the edges. It is also called a d
 - For any object distance, the image is **virtual, upright and smaller**, on the same side of the lens as the object, between the object and the lens.
 
 Draw ray 1 (parallel to the axis) spreading away from the axis, with a dotted line back to the principal focus on the object side. Ray 2 passes straight through the centre. The refracted rays never cross, so extend them backwards as dotted lines. Their intersection is the image.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--09-lens-concave.webp" width="900" height="800" alt="Ray diagram for a concave lens. A ray parallel to the axis bends away from the axis, appearing to come from the principal focus on the object side; the ray through the centre is undeviated. The refracted rays never cross, but dotted lines traced back meet 4 cm from the lens on the object side, giving a virtual, upright image 1 cm tall (one third of the object)." loading="lazy">
+  <figcaption>A concave lens only ever makes a virtual, upright, smaller image.</figcaption>
+</figure>
+
 
 ## Ray diagrams on graph paper (3.3.6 f)
 
@@ -100,6 +128,17 @@ A convex lens has a focal length of 4 cm. An object 3 cm tall stands 12 cm from 
 | They cross where 3 − 0.75x = −0.25x | 3 = 0.5x, so x = 6, y = −1.5 |
 
 The image is 6 cm from the lens on the far side and 1.5 cm below the axis. It is **real, inverted and smaller** (1.5 cm against 3 cm).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--08-lens-grid-real-image.webp" width="900" height="724" alt="A grid ray diagram for a convex lens of focal length 4 cm with a 3 cm tall object 12 cm to the left. A ray parallel to the axis passes through the far focus, and a ray through the centre goes straight on. They cross 6 cm to the right and 1.5 cm below the axis, giving a real, inverted, smaller image (magnification 0.5)." loading="lazy">
+  <figcaption>Two rays on graph paper cross 6 cm beyond the lens: the image is real, inverted and half the height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--09-lens-grid-magnified-real.webp" width="900" height="702" alt="A grid ray diagram for a convex lens of focal length 4 cm with a 1.5 cm tall object 6 cm to the left, between f and 2f. The two rays cross 12 cm to the right and 3 cm below the axis, giving a real, inverted, larger image of height 3.0 cm (magnification 2.0)." loading="lazy">
+  <figcaption>With the object between f and 2f, the real image is further away, inverted and twice as tall.</figcaption>
+</figure>
+
 
 ### Worked example 2: a magnified real image
 
@@ -133,6 +172,12 @@ Rearranged, image height = magnification × object height, and object height = i
 
 A slide shows a cell 0.040 mm across. A lens system produces an image 6.0 mm across. magnification = 6.0 ÷ 0.040 = **150**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--11-magnification-bars.webp" width="900" height="790" alt="Four pairs of bars compare object and image heights from the lens worked examples: 3 to 1.5 cm gives magnification 0.5, 1.5 to 3.0 cm gives 2.0, 2 to 5 cm gives 2.5, and 3 to 1 cm gives 0.33. Values above 1 are larger images and below 1 are smaller. A strip adds the cell example: 6.0 mm divided by 0.040 mm is 150." loading="lazy">
+  <figcaption>Magnification is image height divided by object height: above 1 the image is larger, below 1 smaller.</figcaption>
+</figure>
+
+
 ## The eye (3.3.6 h)
 
 The eye detects only visible light, a limited range of the electromagnetic waves. Light is refracted by the **cornea** (mostly) and then by the **lens**.
@@ -160,6 +205,17 @@ Changing the power of the lens so that objects at different distances are in foc
 
 A near object sends in strongly diverging rays, which need more bending. A distant object sends in almost parallel rays, which need less.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--10-eye-accommodation.webp" width="900" height="1280" alt="Two schematic eye cross-sections labelled with cornea, iris, lens, ciliary muscle and retina. For a distant object the rays are nearly parallel, the ciliary muscle is relaxed, the suspensory ligaments are pulled tight and the lens is thin. For a near object the rays diverge, the ciliary muscle contracts, the ligaments slacken and the lens is thicker and more curved. In both the image falls on the retina." loading="lazy">
+  <figcaption>The ciliary muscle changes the shape of the lens so the image stays focused on the retina.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--12-eye-vs-camera.webp" width="900" height="1044" alt="Two schematic diagrams of parallel rays focused by a convex lens. In the eye the rays meet on the retina and focus is adjusted by changing the lens shape. In the camera the rays meet on a film or CCD sensor and focus is adjusted by moving the lens. The retina is the equivalent of the film or CCD sensor." loading="lazy">
+  <figcaption>The eye focuses by changing the shape of its lens; a camera focuses by moving its lens relative to the film or sensor.</figcaption>
+</figure>
+
+
 ## Range of vision (3.3.6 i)
 
 The **near point** is the closest distance at which the eye can form a sharp image. For a typical eye it is about 25 cm. The **far point** is the furthest distance, which for a typical eye is infinity. The distance between the near point and far point is the **range of vision**: from about 25 cm to infinity.
@@ -179,6 +235,12 @@ The eyeball is too long, or the eye lens cannot focus a sharp image. Light from 
 | Blurred objects | near | distant |
 | Image forms | behind the retina | in front of the retina |
 | Corrective lens | convex | concave |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--11-sight-defects.webp" width="900" height="1000" alt="Four schematic eyes in two rows. Long sight: rays from a near object focus behind the retina, and a convex lens in front of the eye brings them to a focus on the retina. Short sight: parallel rays from a distant object focus in front of the retina, and a concave lens in front of the eye moves the focus back onto the retina." loading="lazy">
+  <figcaption>A convex lens corrects long sight and a concave lens corrects short sight.</figcaption>
+</figure>
+
 
 ## Lasers (3.3.6 k)
 

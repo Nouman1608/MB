@@ -65,6 +65,12 @@ In a dicotyledonous root, the layers from the outside inwards are:
 
 The endodermis walls contain a band of **suberin**, a waterproof substance (the Casparian strip). The specification names the endodermis but not this band, which is the usual explanation of its role. It blocks the apoplastic pathway at the endodermis. Water must then pass through the cell surface membrane into the symplast. The membrane controls which ions enter the xylem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--03-root-water-pathways.webp" width="900" height="820" alt="A side view of a root from soil to xylem. A root hair cell takes up soil water by osmosis; water potential falls -0.35, -0.50, -0.65, -0.80 MPa across the next cells so water moves inwards. The apoplast route runs through cell walls but is blocked at the endodermis by the Casparian strip of suberin; the symplast route runs through cytoplasm and plasmodesmata and must be used to enter the xylem." loading="lazy">
+  <figcaption>The apoplast pathway is blocked at the endodermis, so water enters the symplast where the plant can control what passes.</figcaption>
+</figure>
+
+
 ### Root pressure
 
 Cells next to the xylem use active transport to move mineral ions into it. The xylem sap then has a lower water potential. Water follows from the cortex by osmosis and builds up a positive pressure that pushes water up the xylem. This is **root pressure**.
@@ -75,6 +81,22 @@ Cells next to the xylem use active transport to move mineral ions into it. The x
 - Respiratory poisons, cold or lack of oxygen reduce the flow from a stump. Active transport is therefore involved.
 
 Root pressure is a small force. It helps most when transpiration is low. It cannot be the main explanation in tall plants that are transpiring rapidly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--01-plan-diagrams.webp" width="900" height="1090" alt="Three plan diagrams of herbaceous dicot sections. Stem: a ring of vascular bundles near the outside, xylem towards the centre and phloem towards the outside in each. Root: a central xylem star with phloem groups between the arms, inside the endodermis. Leaf: midrib bundle with xylem on the upper side and phloem on the lower side, plus small veins." loading="lazy">
+  <figcaption>Plan diagrams show tissue distribution only: xylem inside phloem in stems, a central xylem star in roots, xylem above phloem in leaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--02-xylem-phloem-cells.webp" width="900" height="960" alt="A xylem vessel is a hollow tube of dead cells with thick lignified walls, lost end walls, an empty lumen and pits for sideways water movement. A phloem sieve tube element is living but has no nucleus and a thin cytoplasm lining, with a sieve plate to the next element; a companion cell with a nucleus, dense cytoplasm and many mitochondria is joined to it by plasmodesmata." loading="lazy">
+  <figcaption>Xylem vessels are dead, hollow and lignified; sieve tubes are living but emptied, supported by a companion cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--04-root-pressure.webp" width="900" height="990" alt="Cells next to the xylem use ion pumps (active transport, using ATP) to move mineral ions into the xylem. The sap then has a lower water potential, so water follows from the cortex by osmosis, building a positive pressure that pushes sap up. Evidence: sap oozing from a cut stump and guttation drops at leaf edges at night." loading="lazy">
+  <figcaption>Root pressure: ions pumped into the xylem draw water in by osmosis and push sap upwards (OxfordAQA).</figcaption>
+</figure>
+
 
 ## Transpiration
 
@@ -98,6 +120,17 @@ The flow of water from the soil, up the xylem and out of the leaf is the **trans
 | Air movement | Increases | Moving air removes humid air from around the stomata and keeps the gradient steep. |
 
 Several factors act together. A plant short of water also closes its stomata, which cuts transpiration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--05-water-pulled-up.webp" width="900" height="1280" alt="Top: in a leaf, water evaporates from the wet wall of a mesophyll cell into the air space, vapour diffuses out through a stoma, and water moves in from the xylem to replace it, putting the xylem under tension. Bottom: inside a xylem vessel, hydrogen bonds between water molecules (cohesion) keep the column unbroken, hydrogen bonds to cellulose in the wall (adhesion) help it move, and lignin stops the vessel collapsing." loading="lazy">
+  <figcaption>Evaporation from the leaf creates tension; cohesion, adhesion and lignin let the water column be pulled up without breaking.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--06-xerophyte-leaf.webp" width="900" height="830" alt="An annotated transverse section of a rolled marram grass leaf. A thick waxy cuticle covers the outside, the leaf is rolled around a space of humid air, stomata lie in sunken pits on the inner surface, and hairs there trap still humid air. Each reduces the water vapour potential gradient between leaf and air." loading="lazy">
+  <figcaption>Marram grass reduces water loss by rolling, sunken stomata, hairs and a thick cuticle, all of which cut the vapour gradient.</figcaption>
+</figure>
+
 
 ## Required practical 6: the simple potometer
 
@@ -125,6 +158,12 @@ If the shoot has a leaf area of 38 cm², still-air uptake per cm² is 2.26 ÷ 38
 
 **Evaluating the method.** Different shoots have different leaf areas. Bubbles may stick. Light also heats the leaf, so a lamp changes temperature as well. The method measures uptake, not loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--07-potometer.webp" width="900" height="1170" alt="A potometer: a cut leafy shoot sealed into a water-filled tube joined to a horizontal capillary that dips into a beaker, with a reservoir to reset an air bubble. With capillary radius 0.40 mm the bubble moves 36 mm in 8 minutes in still air (4.5 mm per minute) and 62 mm with a fan (7.75 mm per minute). Uptake is 2.26 and 3.90 cubic millimetres per minute, a 72.2 per cent increase." loading="lazy">
+  <figcaption>A fan speeds up the bubble from 4.5 to 7.75 mm per minute, a 72.2% rise in water uptake.</figcaption>
+</figure>
+
+
 ## 3.2.8.2 Translocation and the mass flow hypothesis
 
 **Translocation** is the transport of organic substances, mainly sucrose, in the phloem. They move from a **source** (a region that releases them, such as a photosynthesising leaf) to a **sink** (a region that uses or stores them, such as a growing root or fruit).
@@ -137,6 +176,12 @@ The **mass flow hypothesis** explains this:
 5. The pressure difference drives mass flow of the sap from source to sink.
 
 Phloem sap and xylem water move for different reasons. The xylem relies on tension from transpiration (and some root pressure). The phloem relies on pressure from loading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--09-mass-flow.webp" width="900" height="890" alt="At the source, sucrose in the sieve tube lowers water potential so water enters from the xylem by osmosis and hydrostatic pressure rises. At the sink, sucrose is removed, water leaves and pressure is lower. Sap flows by mass flow down the pressure gradient from source to sink; an illustrative graph shows pressure falling along the tube." loading="lazy">
+  <figcaption>Mass flow: water enters at the source, raising pressure; it leaves at the sink; sap moves down the hydrostatic pressure gradient.</figcaption>
+</figure>
+
 
 ## Analysing the evidence
 

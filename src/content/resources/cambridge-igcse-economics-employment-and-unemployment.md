@@ -44,6 +44,12 @@ Related pages: [revision notes](/resources/cambridge-igcse-economics-employment-
 
 Three groups are outside the labour force, so they are never counted as unemployed: full-time students, people who have retired, and people who choose not to look for work, such as a full-time carer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--11-eco36-labour-force.webp" width="900" height="930" alt="The labour force contains the employed and the unemployed (able, willing and looking). Full-time students, retired people and people who choose not to look are outside the labour force and never counted as unemployed." loading="lazy">
+  <figcaption>Only people in the labour force can be counted as unemployed.</figcaption>
+</figure>
+
+
 ## 4.7.2 Changing patterns and level of employment
 
 Employment moves between sectors as an economy develops. The table is for a made-up country, Country C.
@@ -68,6 +74,22 @@ Each column adds to 100. Tertiary workers (retail, banking, teaching, transport,
 **Why the public-sector share falls.** As a country moves towards a market economy, the government sells state-owned firms (privatisation) and cuts its role in producing goods. Private firms then employ a bigger share. In Country C, the public sector employs 1,500,000 of 5,000,000 formal workers (30%) before reform and 600,000 (12%) after.
 
 The **level** of employment also changes. It rises when output grows and firms need more workers, and falls in a recession.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--10-eco36-sector-shift.webp" width="900" height="900" alt="Three stacked bars for Country C. Primary share falls 55, 35, 15 percent; secondary goes 15, 25, 25; tertiary rises 30, 40, 60. In year 3 tertiary jobs are 4,800,000 of 8,000,000." loading="lazy">
+  <figcaption>Employment shifts towards the tertiary sector as the economy develops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--05-mpun156-country-c-sectors.webp" width="900" height="850" alt="Three stacked columns of employment shares. Year 1: primary 55, secondary 15, tertiary 30. Year 2: 35, 25, 40. Year 3: 15, 25, 60, which is 4,800,000 of 8,000,000 jobs." loading="lazy">
+  <figcaption>Employment shifts from the primary to the tertiary sector as a country develops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--06-mpun156-three-shares.webp" width="900" height="818" alt="Three pairs of bars for Country C: formal jobs 40 percent (3.2 million) to 70 percent (5.6 million); women 28 percent (2.8 million) to 41 percent (4.1 million); public sector 30 percent (1.5 million) to 12 percent (0.6 million) of formal jobs." loading="lazy">
+  <figcaption>Three worked examples of changing employment patterns in Country C.</figcaption>
+</figure>
+
 
 ## 4.7.3 Measurement of unemployment
 
@@ -95,6 +117,17 @@ Employment rose by 80,000 yet unemployment rose, because the labour force grew b
 
 **Worked example.** In Country B, the claimant count is 310,000. A survey finds 1,000 unemployed among 20,000 sampled people in the labour force: 1,000 / 20,000 = 5%. The labour force is 8,200,000, so the survey estimate is 0.05 x 8,200,000 = 410,000. The 100,000 gap suggests people who want work but receive no benefit, such as those who have exhausted their entitlement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--12-eco36-unemployment-rate.webp" width="900" height="910" alt="Two bars. Year 1: 9,120,000 employed and 480,000 unemployed, rate 5.0%. Year 2: 9,200,000 and 690,000, rate 7.0%. Employment rose 80,000 but the labour force rose 290,000." loading="lazy">
+  <figcaption>The rate can rise even when employment rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--07-mpun156-claimant-vs-survey.webp" width="900" height="760" alt="A sample of 20,000 with 1,000 unemployed gives 5 percent; times 8,200,000 is an estimate of 410,000. The claimant count is 310,000, so 100,000 want work but receive no benefit." loading="lazy">
+  <figcaption>The two measures of unemployment give different totals.</figcaption>
+</figure>
+
+
 ## 4.7.4 Causes and types of unemployment
 
 | Type | Cause | Example |
@@ -116,6 +149,17 @@ If the recovery removed all cyclical unemployment:
 
 A 3.3% rate with no cyclical unemployment shows what remains when demand is strong: frictional and structural unemployment, which need different policies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--13-eco36-unemployment-mix.webp" width="900" height="930" alt="A bar of 600,000 unemployed split frictional 120,000 (20%), structural 210,000 (35%), cyclical 270,000 (45%), a 6.0% rate. Removing cyclical leaves 330,000, a rate of 3.3%." loading="lazy">
+  <figcaption>Removing cyclical unemployment leaves frictional and structural.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## 4.7.5 Consequences of unemployment
 
 | For | Costs | Possible benefit |
@@ -132,6 +176,12 @@ Output lost = 150,000 x 20,000 = 3,000,000,000
 ```
 
 The government loses 900 million of budget balance, and the economy loses 3 billion of goods and services. The second figure is the opportunity cost of unused labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--08-mpun156-cost-of-unemployment.webp" width="900" height="700" alt="Two bars to the same scale: budget cost 900 million (360 million tax lost plus 540 million benefits) and output lost 3,000 million, the opportunity cost of unused labour." loading="lazy">
+  <figcaption>Unemployment costs the government budget and the whole economy.</figcaption>
+</figure>
+
 
 ## 4.7.6 Policies to reduce unemployment
 
@@ -162,6 +212,17 @@ New rate: (600,000 - 15,000) / 10,000,000 x 100 = 5.85%
 - **Scale and timing.** A small scheme in a big recession does little.
 
 A good evaluation concludes which policy suits the dominant type of unemployment and says what would change your view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--14-eco36-policy-match.webp" width="900" height="1010" alt="Three rows pairing each type with a policy: cyclical with tax cuts, spending and lower interest rates; structural with training, retraining and moving help; frictional with job centres and online vacancy lists." loading="lazy">
+  <figcaption>Match the policy to the type of unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-employment-and-unemployment--09-mpun156-policy-cost-per-job.webp" width="900" height="815" alt="Two step flows. Spending: 400 million, multiplier 1.5 gives 600 million income, divided by 40,000 gives 15,000 jobs, 26,667 per job. Training: 20,000 at 6,000 is 120 million, 55 percent find work, 11,000 jobs, 10,909 per job. Not like-for-like." loading="lazy">
+  <figcaption>Cost per job differs between a demand policy and a training policy.</figcaption>
+</figure>
+
 
 ## Common errors
 

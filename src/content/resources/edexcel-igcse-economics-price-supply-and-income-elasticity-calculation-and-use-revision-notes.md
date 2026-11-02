@@ -56,6 +56,17 @@ Percentage change = (new − old) ÷ old × 100.
 
 Steeper and flatter only compare curves drawn on the same axes. On one straight demand curve, PED varies from point to point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--05-ped-five-kinds.webp" width="900" height="1170" alt="Five demand curve shapes with PED values: vertical (0), steep (0.5), curved (1), shallow (2), horizontal (infinity)." loading="lazy">
+  <figcaption>Steeper means more inelastic; compare curves, not points on one line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--06-pes-five-kinds.webp" width="900" height="1170" alt="Five supply curve shapes: vertical (0), cutting quantity axis (&lt;1), through origin (1), cutting price axis (&gt;1), horizontal (infinity)." loading="lazy">
+  <figcaption>A supply line through the origin has PES 1 everywhere.</figcaption>
+</figure>
+
+
 ## Factors (f, m)
 
 | PED factor | Makes demand more elastic | Makes demand less elastic |
@@ -74,6 +85,17 @@ Steeper and flatter only compare curves drawn on the same axes. On one straight 
 
 **Primary versus manufactured (n).** Manufactured goods: usually more elastic supply (stocks, extra shifts, spare capacity). Primary products: usually less elastic in the short run (growing seasons, weather, mine development times).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--01-ped-factors.webp" width="900" height="1038" alt="Four pairs of demand curves through the same point. Steep curves (no close substitute, a necessity, a tiny share of income, just after a rise) are inelastic; flatter curves (many substitutes, a luxury, a large share of income, months later) are elastic." loading="lazy">
+  <figcaption>Steeper demand curves are more inelastic and flatter ones more elastic, for each of the four factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+
 ## Total revenue test (g)
 
 Total revenue = price × quantity.
@@ -84,6 +106,17 @@ Total revenue = price × quantity.
 | Price rises | Demand inelastic | Demand elastic |
 
 *Worked reminder.* A kiosk cuts a price from 25.00 to 22.50 (−10%). Sales rise from 600 to 720 (+20%). PED = 20 ÷ −10 = **−2.0**, so demand is elastic. Revenue rises from 15,000 to 16,200, which matches the test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--03-ped-backwards.webp" width="900" height="910" alt="A fare rise of 12% with PED of -0.4 changes quantity by -0.4 x 12 = -4.8%. Daily journeys fall from 5,000 to 4,760, a fall of 240." loading="lazy">
+  <figcaption>Multiply PED by the percentage price change to predict the percentage change in quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## YED types (r)
 
@@ -97,6 +130,17 @@ Total revenue = price × quantity.
 
 *PES reminder.* Price rises 15% and quantity supplied rises 9%. PES = 9 ÷ 15 = **0.6**, inelastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--07-yed-luxury-normal-inferior.webp" width="900" height="990" alt="With income up 5%, bus travel falls 3% (YED -0.6, inferior), staple foods rise 2% (+0.4, normal), restaurant meals rise 8% (+1.6, luxury)." loading="lazy">
+  <figcaption>The sign and size of YED give the type of good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+
 ## Chains of reasoning to learn
 
 Write factors as a chain, not a label.
@@ -107,6 +151,12 @@ Write factors as a chain, not a label.
 - **Spare capacity:** unused machines and staff, so output can rise quickly when price rises, so supply is elastic.
 - **Stocks:** unsold goods in a warehouse, so they can be released as price rises, so supply is elastic.
 - **Time (supply):** firms cannot add land or build factories at once, so supply is inelastic in the short run and more elastic later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--02-pes-furniture-vs-maize.webp" width="900" height="852" alt="Percentage rise in price plotted against percentage rise in quantity supplied. Furniture (price +5%, output +15%, PES 3.0) gives a flat line; maize in the same season (price +20%, output +6%, PES 0.3) gives a steep line. Manufactured goods can use stock and spare capacity; crops depend on the season and weather." loading="lazy">
+  <figcaption>Furniture supply is elastic (PES 3.0) and same-season maize supply is inelastic (PES 0.3).</figcaption>
+</figure>
+
 
 ## Diagram reminders (d, k)
 
@@ -142,6 +192,17 @@ Label both axes (price and quantity), label each curve, mark the original and ne
 - Luxury goods: sales rise fastest when incomes rise and fall fastest in a downturn.
 - Inferior goods: sales may rise when incomes fall.
 - Governments use YED to forecast spending, tax receipts and which industries will grow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--08-tax-revenue-and-ped.webp" width="900" height="1160" alt="Same 0.40 tax and +20% price. PED -0.3: 47,000 sold, revenue 18,800, firms keep 94,000. PED -1.5: 35,000 sold, revenue 14,000, firms keep 70,000." loading="lazy">
+  <figcaption>Inelastic demand raises more tax and costs firms less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--09-subsidy-cost-and-ped.webp" width="900" height="1160" alt="Same 0.40 subsidy and -8% price. PED -1.25: 11,000 kg, cost 4,400. PED -0.5: 10,400 kg, cost 4,160." loading="lazy">
+  <figcaption>A subsidy raises consumption more when demand is elastic.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -205,3 +266,9 @@ When a question asks you to assess or evaluate, weigh the elasticity against som
 ## Official syllabus
 
 Source: Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 1.1.4 Elasticity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+

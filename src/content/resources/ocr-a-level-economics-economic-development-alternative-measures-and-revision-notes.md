@@ -35,6 +35,12 @@ These notes condense the development statements of "Economic growth and developm
 | Easterlin Paradox | Richer people are happier at one point in time, yet average happiness does not rise much as a country grows |
 | Conditionality | Conditions attached to a loan, such as spending or tax changes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--11-sustainable-development-natural-capital.webp" width="900" height="1030" alt="Three overlapping circles (economic, social, environmental) with sustainable development where they meet, and three tanks with falling levels showing natural capital as a stock that can be run down. Output financed by using up the stock cannot continue indefinitely. Schematic, no data." loading="lazy">
+  <figcaption>Sustainable development has three strands, and natural capital is a stock that growth can run down.</figcaption>
+</figure>
+
+
 ## Key formulas
 
 | Measure | Formula |
@@ -45,6 +51,12 @@ These notes condense the development statements of "Economic growth and developm
 | ODA share | ODA / donor GNI x 100 |
 | GDP per head growth | Divide 1 plus GDP growth by 1 plus population growth, then subtract 1 |
 | GPI | Consumption, adjusted for inequality, plus unpaid work, minus pollution, depletion and crime costs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--06-gpi-vs-gdp.webp" width="900" height="960" alt="Waterfall bars for two years build GPI from consumption, inequality, unpaid work and damage: 475 then 456. GDP rose 10 percent while GPI fell 4.0 percent." loading="lazy">
+  <figcaption>GPI can fall even when GDP rises.</figcaption>
+</figure>
+
 
 ## Sectors and structure
 
@@ -103,6 +115,12 @@ These notes condense the development statements of "Economic growth and developm
   - WTO: rules, negotiations and disputes on trade.
 - **Aid versus trade:** aid is a transfer, which can create dependence; trade builds income through production and exports, but exposes a country to price swings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--05-hdi-same-income.webp" width="900" height="1060" alt="Bars show health, education and income indices and HDI for two countries with the same income per head: HDI 0.684 and 0.757. A final pair of bars shows a 40 percent rise in income lifting HDI only 2.4 percent." loading="lazy">
+  <figcaption>The same income can give different HDI, and income growth adds little because income is logged.</figcaption>
+</figure>
+
+
 ## The three organisations at a glance
 
 | Body | Main job | Tool | Development strength | Main criticism |
@@ -149,6 +167,12 @@ When writing about these, name the mechanism (for example "conditionality reduce
 10. It provides a rule-based system and disputes process, and negotiations that can open export markets, with some special treatment for developing members.
 11. Gains may go to a small group; revenue may not be spent on health and schooling; growth may damage the environment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--07-easterlin-paradox.webp" width="900" height="1100" alt="Two line charts: GDP per head index rises 100 to 260 while average life satisfaction stays about 6.8 to 6.9." loading="lazy">
+  <figcaption>Average happiness barely rises as GDP per head grows.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using "growth" and "development" as if they were the same.
@@ -163,3 +187,9 @@ When writing about these, name the mechanism (for example "conditionality reduce
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), first assessment 2021, published by OCR. Component 2: Macroeconomics, Area of Study "Economic policy objectives and indicators of macroeconomic performance", topic "Economic growth and development".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+

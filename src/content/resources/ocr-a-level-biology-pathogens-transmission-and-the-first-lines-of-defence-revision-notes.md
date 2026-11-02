@@ -51,6 +51,12 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 
 **Method for a transmission question.** (1) Name the route. (2) Say what carries the pathogen. (3) Link to the condition given in the question. (4) Say why that raises the chance of infection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+
 ## 4.1.1(c) Plant defences
 
 | Type | Examples | How it helps |
@@ -119,6 +125,12 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 | Neutrophil and macrophage | Neutrophil is short-lived and acts first; the macrophage lives longer and presents antigens |
 | Chemical defence and callose | Chemicals attack the pathogen; callose limits its spread |
 | Magnification and scale bar | Magnification is a ratio with no unit; the scale bar shows a real length |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

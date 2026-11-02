@@ -49,6 +49,12 @@ Two details carry marks: **"one mole"** in every definition, and **"gaseous"** i
 
 Lattice energy defined this way is always **exothermic** (negative) — bonds are being formed. First electron affinity is exothermic; **second and subsequent electron affinities are endothermic**, because an electron is being forced onto an already negative ion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-energetics-entropy-revision-notes--03-second-electron-affinity.webp" width="900" height="940" alt="An energy-level diagram to scale for oxygen. O(g) is at zero, O minus is 141 kJ per mole lower (first electron affinity, exothermic) and O2 minus is 657 kJ per mole above zero because the second electron affinity is +798 kJ per mole (endothermic). The electron is repelled by the ion that is already 1 minus." loading="lazy">
+  <figcaption>The second electron is forced onto an ion that is already negative, so energy must be supplied.</figcaption>
+</figure>
+
+
 ## What controls lattice energy magnitude
 
 ```
@@ -59,6 +65,12 @@ lattice energy  proportional to  (charge+ x charge-) / (r+ + r-)
 - **Smaller ionic radius → more exothermic.**
 
 So MgO (2+/2−, small ions) has a far more exothermic lattice energy than NaCl (1+/1−). Charge matters more than size — compare MgO with NaCl and the charge product quadruples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
 
 ## Born–Haber cycles
 
@@ -76,6 +88,12 @@ delta-H_f  =  sum(atomisation)  +  sum(IE)  +  sum(EA)  +  delta-H_latt
 **Watch the multipliers.** Cl₂ → 2Cl needs 2 × atomisation; Mg²⁺ needs both first *and* second ionisation energy.
 
 *(Background, beyond the 9701 syllabus — included for interest/extension only, not examinable.)* Comparing the experimental lattice energy with the theoretical value from a purely ionic model reveals **covalent character** — a large discrepancy means significant polarisation of the anion by the cation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Enthalpies of solution and hydration
 
@@ -98,6 +116,12 @@ delta-H_sol = -(-787) + (-406) + (-364) = 787 - 770 = +17 kJ/mol
 A small **positive** value is typical for simple 1:1 salts like NaCl — the two large terms nearly cancel, so the small residual can fall on either side of zero.
 
 **Charge and radius:** hydration enthalpy becomes **more exothermic** as ionic charge **increases** and ionic radius **decreases** — the same size/charge logic as lattice energy, which is why the two often move together and partly cancel in the solution cycle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Entropy
 
@@ -122,6 +146,17 @@ Predict the sign by counting **moles of gas**:
 
 If the number of gas moles is unchanged, ΔS is small and its sign needs closer thought.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ## Gibbs free energy
 
 ```
@@ -144,6 +179,17 @@ T = delta-H / delta-S
 Those four rows answer most Gibbs questions on sight.
 
 **As always: feasible ≠ fast.** A reaction with a very negative ΔG may have an activation energy so high that no observable change occurs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--08-gibbs-sign-cases.webp" width="900" height="1130" alt="Four small graphs of ΔG against temperature, with shaded regions above and below zero. ΔH negative with ΔS positive is always feasible; ΔH positive with ΔS negative is never feasible; both positive is feasible above a temperature; both negative is feasible below a temperature." loading="lazy">
+  <figcaption>The signs of ΔH and ΔS decide whether a reaction is feasible at all temperatures, never, or only above or below a particular temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+
 
 ## Exam traps
 

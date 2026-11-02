@@ -46,6 +46,47 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Business (96
 - Training types: induction (new starters), on-the-job (while working), off-the-job (away from work) —
   be ready to advise on and justify a specific method for a specific role.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-hrm-revision-notes--01-recruitment-stages.webp" width="900" height="1010" alt="A numbered flow of six stages: job analysis, job description and person specification, advertising, shortlisting, interviewing, selection. The last four sit in a funnel narrowing from many applicants to one hire (illustrative people shown)." loading="lazy">
+  <figcaption>The six stages run from analysing the job to selecting one candidate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-hrm-revision-notes--02-internal-external-pool.webp" width="900" height="960" alt="Two panels. Internal: small pool of existing staff; faster, cheaper, already knows the firm, but limits the skills pool. External: a pool about four times larger; fresh ideas and wider skills pool, but slower, costlier and needs settling in." loading="lazy">
+  <figcaption>Internal recruitment is quicker and cheaper; external brings fresh ideas and wider skills.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--08-workforce-plan.webp" width="900" height="960" alt="Two bars of drivers. Today 60, of whom 12 will leave. Needed 69 after 15% growth: 48 who stay, 12 replacements and 9 extra, so 21 must be recruited." loading="lazy">
+  <figcaption>Recruitment must cover both growth and the staff who leave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--09-turnover-cost.webp" width="900" height="960" alt="Marrowdale turnover is 19 divided by an average of 64, 29.7 percent, against 12 percent at a rival. Nineteen leavers at 2,250 each in recruiting and training cost 42,750 dollars." loading="lazy">
+  <figcaption>High turnover is expensive as well as disruptive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--09-redundancy-dismissal.webp" width="900" height="930" alt="Redundancy (the job goes) is voluntary (6 accept a payment) or involuntary (owner picks 2). Dismissal (the person) is fair (valid reason, fair procedure) or unfair (no valid reason or procedure not followed)." loading="lazy">
+  <figcaption>Redundancy is about the post; dismissal is about the person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--10-morale-welfare.webp" width="900" height="990" alt="Fair pay, conditions, listening and training raise morale and welfare, bringing lower turnover and absence and better service. Work-life balance, diversity and equality are shown as three small pictures." loading="lazy">
+  <figcaption>Good HRM raises morale and welfare, which pays back in turnover, absence and service.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--10-pay-talks.webp" width="900" height="950" alt="Bars show the union asking 6% ($72,000), management offering 3% ($36,000) and a settlement at 4.5% ($54,000) of a $1,200,000 payroll." loading="lazy">
+  <figcaption>Collective bargaining settles pay in one negotiation for all union members.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2.2 Motivation
 
 - **Content theories**: **Taylor** (money is the main motivator); **Mayo** (social needs and attention,
@@ -63,6 +104,12 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Business (96
 - Common error: naming a method without the theory that explains it, or a theory without a method that
   applies it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+
 ## 2.3 Management
 
 - Management **functions**: planning, organising, directing, controlling (Fayol and Mintzberg on the
@@ -75,6 +122,17 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Business (96
 - Matching style to situation: autocratic may suit a crisis needing fast decisions; democratic or
   paternalistic may suit a workforce of skilled professionals expecting consultation.
 - Management skills worth naming with justification: delegation, communication, decision-making.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-hrm-revision-notes--03-four-management-styles.webp" width="900" height="980" alt="Four rows from most leader control to most staff control: autocratic (one-way orders), paternalistic (decides in staff best interests, like a parent), democratic (two-way, shared decision), laissez-faire (staff decide for themselves)." loading="lazy">
+  <figcaption>The styles differ in who makes the decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-hrm-revision-notes--04-style-situation.webp" width="900" height="990" alt="An urgent factory safety incident suits an autocratic style because speed and clear direction matter and consulting could add risk. Senior specialists redesigning a feature suit democratic or largely laissez-faire style because they know more than the manager. Judge by time pressure, expertise and stakes." loading="lazy">
+  <figcaption>Match style to time pressure, expertise and stakes.</figcaption>
+</figure>
+
 
 ## How the three sub-topics connect
 
@@ -123,6 +181,12 @@ recognition of technical contribution, or opportunities for professional growth 
 sustain motivation than an equivalent-sized bonus would. Being able to generate this kind of matched,
 scenario-specific reasoning on demand, rather than reciting motivation theory names alone, is what
 separates strong responses on this sub-topic from weaker ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-hrm-revision-notes--05-motivator-workforce.webp" width="900" height="960" alt="Two bars on one scale show monthly pay with the same 100 dollar bonus: 1,200 dollars (bonus adds 8.3%, so financial incentives suit supermarket staff) and 8,000 dollars (bonus adds 1.3%, so autonomy, recognition and growth suit engineers). Pay figures are illustrative." loading="lazy">
+  <figcaption>The same bonus matters far more to lower-paid staff.</figcaption>
+</figure>
+
 
 ## Self-test
 

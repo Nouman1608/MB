@@ -83,6 +83,22 @@ Reminder: in a market with total sales of 1,500, the top three sell 420, 310 and
 - Imports, foreign rivals and the threat of entry are ignored.
 - Sales, output and employment give different figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--04-cr4-same-ratio-different-markets.webp" width="900" height="880" alt="Market P has four firms at 15% each; Market Q has one firm at 57% and three at 1%. Both have CR4 = 60%, so the ratio alone hides the difference." loading="lazy">
+  <figcaption>The same four-firm ratio can describe very different markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--04-merger-raises-cr3.webp" width="900" height="850" alt="Bars of the 1,500 coin m market before and after W and X merge. CR3 is 920 / 1,500 = 61.3% before and 1,050 / 1,500 = 70.0% after." loading="lazy">
+  <figcaption>A merger raises CR3 although no firm leaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## Perfect competition (3a to 3d)
 
 The model is a benchmark for judging other structures. Few real markets meet every assumption.
@@ -102,6 +118,17 @@ The model is a benchmark for judging other structures. Few real markets meet eve
 3. Find output where MC = MR, on the rising part of MC.
 4. Compare price with ATC at that output to see supernormal profit, normal profit or loss.
 5. Compare price with AVC to decide whether to stay open.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--01-pc-long-run-entry-17-firms.webp" width="900" height="970" alt="Firm graph with MC and ATC (output 250 at price 25.5, 200 at 16) beside an industry graph with demand Q = 12,600 - 200P and supply for 30 and 47 firms built from the firm MC. The market clears at 7,500 then 9,400 units, so 17 firms enter and entry stops at the lowest ATC of 16." loading="lazy">
+  <figcaption>Entry of 17 firms pulls the price from 25.5 to 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
 
 ### Worked reminder
 
@@ -134,6 +161,37 @@ On the firm diagram, ATC and MC are U-shaped and MC cuts ATC at its lowest point
 | Long run | Yes (P = lowest ATC) | Yes (P = MC) |
 
 Evaluation: externalities break the link between P = MC and social efficiency. Dynamic efficiency is questionable because there is no long-run supernormal profit and innovations are copied quickly. Small scale may leave unit costs above those of larger firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--03-pc-firm-four-prices.webp" width="900" height="880" alt="The lesson cost curves (TFC 1,600; MC = 8 - 0.08Q + 0.0006Q squared). At price 25.5 output is 250 with profit 2,150; at 16 output 200 with zero supernormal profit; at 9.5 output 150 with a loss of 1,150 but production continues; below 6, the minimum AVC, the firm shuts down." loading="lazy">
+  <figcaption>Where P = MC the firm earns supernormal profit, normal profit or a loss, and it shuts down only below minimum AVC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--02-dynamic-efficiency-cost-fall.webp" width="900" height="820" alt="Unit cost of Firm F falls 6% a year: 10.00, 9.40, 8.84, 8.31, 7.81 over five years, about 21.9% lower, while a rival with no research stays at 10.00." loading="lazy">
+  <figcaption>Research-led cost falls show dynamic efficiency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--03-x-inefficiency-wasted-cost.webp" width="900" height="770" alt="Cost rectangle for 800 loaves: lowest possible 5.00 per loaf (4,000) plus a slab of 1.25 per loaf (1,000) wasted, giving actual cost 6.25 per loaf (5,000), 25% above the lowest." loading="lazy">
+  <figcaption>X-inefficiency is the slab of cost above the lowest possible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition--05-pc-efficiency-short-vs-long-run.webp" width="900" height="922" alt="ATC curve with points at 150, 200 and 250 units (ATC 17.17, 16.00, 16.90) and a grid showing productive efficiency only at 200 (long run) and allocative efficiency at all three since P = MC." loading="lazy">
+  <figcaption>Productive efficiency needs output at the lowest ATC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

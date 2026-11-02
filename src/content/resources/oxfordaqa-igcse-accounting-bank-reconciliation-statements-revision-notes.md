@@ -57,6 +57,17 @@ These notes condense the [bank reconciliation statements study guide](/resources
 | Receipt overstated | Credit the difference |
 | Payment overstated | Debit the difference |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--01-brec-where-it-goes.webp" width="900" height="1050" alt="Bank charges, interest paid, direct debit and standing order are credits; bank interest received and credit transfer are debits. Outstanding bankings are added, unpresented cheques deducted and bank errors corrected on the reconciliation only." loading="lazy">
+  <figcaption>Items the bank knows first go in the cash book; items the business knows first only change the reconciliation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--02-brec-cashbook-velmore.webp" width="900" height="730" alt="Velmore Cycles cash book bank column: debits 4,380, 12, 640 and 450; credits 35, 150, 220 and balance c/d 5,077; both sides total 5,482." loading="lazy">
+  <figcaption>The updated cash book balance of 5,077 is the figure the reconciliation must reach.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 1. List every difference and classify it: cash book entry, timing item, or bank error.
@@ -77,6 +88,22 @@ Add or less: bank errors                    xxx
 Less: unpresented cheques                  (xxx)
 Balance per updated cash book               xxx
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--02-brec-velmore.webp" width="900" height="950" alt="A running-total bar chart: bank statement 4,640 plus outstanding banking 1,150 and bank error 90, less unpresented cheques 410, 265 and 128, gives 5,077, equal to the updated cash book (4,380 plus 12, 640 and 450 less 35, 150 and 220)." loading="lazy">
+  <figcaption>Velmore Cycles reaches 5,077 from the bank statement and from the updated cash book.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--03-brec-overdraft.webp" width="900" height="820" alt="Bars hang left of zero for Sandrift Bakery. Overdraft 1,218 less outstanding banking 780 gives 438; unpresented cheques of 555 give 993, equal to the updated cash book overdraft. The cash book starts from a credit of 1,260." loading="lazy">
+  <figcaption>With an overdraft, treat balances as negative: outstanding bankings shrink it, unpresented cheques grow it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--03-brec-cashbook-sandrift.webp" width="900" height="754" alt="Sandrift Bakery cash book: balance b/d 1,260 credit, bank charges 48, standing order 175, interest 30 on the credit side and a 520 transfer on the debit side, giving an overdraft c/d of 993." loading="lazy">
+  <figcaption>An overdrawn cash book starts on the credit side, and the updated overdraft is 993.</figcaption>
+</figure>
+
 
 ## Small worked reminder
 
@@ -138,6 +165,12 @@ Check the table after you have classified your items. An item should never appea
 ## Limits of the statement
 
 A reconciliation checks the bank account only. It will not show an error that appears in both the cash book and the bank statement, and it does not prove that the rest of the ledger is correct. Prepare it regularly, so that old unpresented cheques and unrecorded items are noticed early.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-bank-reconciliation-statements--01-brec-opposite-sides.webp" width="900" height="920" alt="Velmore Cycles: cash book debit 4,380 against bank statement credit 4,640. Sandrift Bakery overdraft: cash book credit 1,260 against bank statement debit 1,218. The sides are always opposite." loading="lazy">
+  <figcaption>The cash book and the bank statement record the same account from opposite sides.</figcaption>
+</figure>
+
 
 ## Use and purpose, in short
 

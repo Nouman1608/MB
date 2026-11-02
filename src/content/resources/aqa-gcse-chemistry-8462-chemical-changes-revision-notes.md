@@ -76,6 +76,37 @@ potassium  sodium  lithium  calcium  magnesium  [carbon]  zinc  iron  [hydrogen]
 4. Write what is left: **Fe + Cu²⁺ → Fe²⁺ + Cu**.
 5. Iron loses electrons, so it is **oxidised**. Copper ions gain electrons, so they are **reduced**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--01-cc-order-pqr.webp" width="900" height="1110" alt="Three test tubes show P fizzing quickly, Q with no bubbles and R fizzing slowly in dilute acid, giving P above R above Q. A beaker shows R coated with Q in Q sulfate solution, so R displaces Q. The order is P &gt; R &gt; Q." loading="lazy">
+  <figcaption>Worked example 1: acid fizzing and a displacement check both give P &gt; R &gt; Q.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--02-cc-cuo-carbon.webp" width="900" height="820" alt="Atoms for 2CuO + C become 2Cu + CO2, with dashed arrows showing oxygen moving from copper to carbon. Copper oxide loses oxygen and is reduced; carbon gains oxygen and is oxidised." loading="lazy">
+  <figcaption>Worked example 2: oxygen moves from copper oxide to carbon, so CuO is reduced and C is oxidised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--03-cc-reaction-table.webp" width="900" height="1010" alt="Eight metals from potassium to copper, with filled bubbles showing how vigorously each reacts with water and with dilute acid. Potassium, sodium, lithium are too dangerous with acid; calcium reacts very vigorously; copper does not react with either." loading="lazy">
+  <figcaption>The lesson reactivity table as a picture: potassium to copper with water and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
+
 ## 4.4.2 Reactions of acids
 
 ### Salt-making reactions
@@ -111,6 +142,12 @@ Balance the charges to zero. Use brackets when more than one polyatomic ion is n
 
 Why excess solid? So all the acid reacts and the salt is not contaminated with acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--01-cc-titration-calc.webp" width="900" height="940" alt="A burette of 0.150 mol/dm3 sulfuric acid sits above a flask of 25.0 cm3 sodium hydroxide. Four numbered steps follow: moles of acid 0.00300, ratio 1 to 2 giving 0.00600 mol NaOH, divide by 0.0250 dm3 to get 0.240 mol/dm3, multiply by 40 to get 9.60 g/dm3." loading="lazy">
+  <figcaption>Worked example 5 as four steps: moles of acid, ratio, concentration, then g/dm3 (Higher tier only).</figcaption>
+</figure>
+
+
 ### pH and neutralisation
 
 - Acids → H⁺ ions. Alkalis → OH⁻ ions.
@@ -138,11 +175,28 @@ moles HCl = 0.100 × 0.02200 = 0.00220 mol  =  moles KOH
 in g/dm³: 0.0880 × 56 = 4.93 g/dm³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--03-cc-spectator-ions.webp" width="900" height="910" alt="Mg reacts with Fe2+ and sulfate ions. The sulfate ion is unchanged, so it is a spectator and is left out, giving Mg + Fe2+ to Mg2+ + Fe. Half equations show Mg losing 2 electrons (oxidised) and Fe2+ gaining 2 (reduced)." loading="lazy">
+  <figcaption>Spectator ions are removed to get the ionic equation, then split into half equations (Higher tier only).</figcaption>
+</figure>
+
+
 ### Strong and weak acids (Higher tier only)
 
 - Strong: hydrochloric, nitric, sulfuric. Weak: ethanoic, citric, carbonic.
 - Same concentration → stronger acid has lower pH.
 - Each fall of 1 pH unit → [H⁺] × 10. Two units → × 100. Three units → × 1000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--02-cc-ph-tenfold.webp" width="900" height="970" alt="Squares stand for units of hydrogen ion concentration: 1 at pH 5, 10 at pH 4, 100 at pH 3 and 1000 (ten blocks of 100) at pH 2. Each fall of one pH unit multiplies H+ by 10." loading="lazy">
+  <figcaption>From pH 5 to pH 2, [H+] rises 10 x 10 x 10 = 1000 times (Higher tier only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--04-cc-zn-acid-redox.webp" width="900" height="860" alt="One zinc atom gives two electrons to two hydrogen ions, forming a zinc ion and a hydrogen molecule. Zinc loses electrons and is oxidised; hydrogen ions gain electrons and are reduced." loading="lazy">
+  <figcaption>Higher tier: Zn + 2H+ as electron transfer, with oxidation and reduction labelled.</figcaption>
+</figure>
+
 
 ## 4.4.3 Electrolysis
 
@@ -180,6 +234,12 @@ metal on the cathode). Change only the solution each time.
 | Anode (+) | Loss of electrons = oxidation | 2Cl⁻ → Cl₂ + 2e⁻; 4OH⁻ → O₂ + 2H₂O + 4e⁻ |
 
 Check that atoms and charges balance on each side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--05-cc-half-equations.webp" width="900" height="1110" alt="An electrolysis cell with hydrogen ions moving to the negative cathode to form hydrogen, and hydroxide ions moving to the positive anode to form oxygen and water. The half equations 2H+ + 2e- gives H2 and 4OH- gives O2 + 2H2O + 4e- are shown with reduction and oxidation labelled." loading="lazy">
+  <figcaption>Higher tier: where the half equations 2H+ + 2e- and 4OH- happen in an aqueous electrolysis cell.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

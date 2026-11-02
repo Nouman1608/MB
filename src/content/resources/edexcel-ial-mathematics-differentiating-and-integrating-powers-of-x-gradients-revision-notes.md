@@ -146,6 +146,12 @@ A fraction with a single term in the denominator is split into separate powers. 
 | Find f(x) | Integrate f′(x) and use the point to find c |
 | Find the general solution or the family of curves | Integrate and keep + c |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp" width="900" height="967" alt="The curve x = t squared + 2t, y = t cubed minus 3t, drawn with equal scales. At t = 2 the point is (8, 2). Its horizontal rate dx/dt = 6 and vertical rate dy/dt = 9 form a right triangle whose slope is the gradient dy/dx = 9 over 6 = 3 over 2. The gold tangent has that gradient and the teal normal has gradient minus two thirds. Grey dots mark t = minus 1, 0 and 1." loading="lazy">
+  <figcaption>At t = 2 the gradient is dy/dt ÷ dx/dt = 9/6, with the normal gradient −2/3.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **dy/dx versus d²y/dx².** The first is the gradient. The second is how fast the gradient changes. They are not powers of one another.
@@ -153,6 +159,12 @@ A fraction with a single term in the denominator is split into separate powers. 
 - **Differentiating versus integrating a power.** Differentiating multiplies by n and lowers the power. Integrating raises the power and divides by the new one.
 - **Indefinite integral versus a specific curve.** The family of curves has + c. A point on the curve fixes one value of c.
 - **Finding the gradient versus finding the point.** Gradient needs dy/dx. The y-coordinate comes from the original equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--01-chord-to-tangent.webp" width="900" height="880" alt="Graph of y = 2x squared. Point P is at x = 3, y = 18. Three chords from P to points a distance h to the right (h = 1, 0.5, 0.25) get closer to the gold tangent line as h shrinks. The chord gradient is 12 + 2h: 14, 13, 12.2 and 12.02 for h = 1, 0.5, 0.1 and 0.01. As h tends to 0 the gradient tends to 12, the gradient of the curve at x = 3, which agrees with dy/dx = 4x." loading="lazy">
+  <figcaption>How chord gradients 12 + 2h approach the tangent gradient 12 at x = 3 on y = 2x².</figcaption>
+</figure>
+
 
 ## Checking your work
 
@@ -205,6 +217,12 @@ A fraction with a single term in the denominator is split into separate powers. 
 - Writing a first-principles proof with the limit applied too early, or without the limit notation at all.
 - Giving a rate of change with no units. State the units, and say whether the quantity is increasing or decreasing.
 - Stopping at "the gradient is 23" when the question asks for an equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--04-tangent-and-normal.webp" width="900" height="942" alt="Graph of y = square root of (2x + 5) with equal scales on both axes. At P(2, 3) the gradient is one third, so the gold tangent is 3y = x + 7. The teal normal is perpendicular, with gradient minus 3, y = 9 minus 3x, and crosses the x-axis at (3, 0). A right-angle mark at P shows the lines are perpendicular because one third times minus 3 equals minus 1." loading="lazy">
+  <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

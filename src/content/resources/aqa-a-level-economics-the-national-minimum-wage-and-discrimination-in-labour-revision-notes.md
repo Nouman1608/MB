@@ -36,6 +36,17 @@ For full explanations, read the [study guide](/resources/aqa-a-level-economics-t
 | Statistical discrimination | Judging an individual by the average of their group |
 | Pay gap | (Average pay of group 1 − average pay of group 2) ÷ average pay of group 1 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--14-discriminating-monopsonist.webp" width="900" height="1260" alt="Two diagrams, one for Group X and one for Group Y, both with marginal revenue product of 30 crowns an hour. Group X supply is w = 12 plus 0.1L with marginal cost of labour 12 plus 0.2L: the firm hires 90 at a wage of 21 and supply elasticity is 2.33; the competitive outcome would be 180 at 30; the employer gains 9 times 90 equals 810. Group Y supply is w = 6 plus 0.3L with marginal cost 6 plus 0.6L: the firm hires 40 at a wage of 18, elasticity 1.5; competitive outcome 80 at 30; the employer gains 12 times 40 equals 480. Group Y has less elastic supply and is paid 14.3 percent less than X despite identical productivity. Both groups are underpaid and under-employed; the employer extra profit is 1,290 an hour." loading="lazy">
+  <figcaption>Two equally productive groups are paid cr 21 and cr 18 because their labour supply differs in elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## NMW: the two models
 
 **Competitive market (floor above equilibrium)**
@@ -56,6 +67,17 @@ Worked reminder (invented): demand L = 1,480 − 60w, supply L = 125w, so the eq
 
 Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 workers at cr 8. Competitive benchmark: 1,500 at cr 10. Floor of cr 10 gives 1,500; cr 12 brings employment back to 1,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--11-wage-floor-competitive.webp" width="900" height="1000" alt="Wage against labour in thousand hours a week. Demand for labour is L = 1,480 minus 60w and supply is L = 125w; they cross at a wage of 8 crowns and 1,000 thousand hours. A minimum wage of 9 crowns sits above equilibrium. At 9, firms demand 940 and workers supply 1,125, so there is excess supply of 185. That is 60 jobs lost plus 125 new people seeking work, so measured unemployment rises by more than the jobs lost. The wage rises 12.5 percent and employment falls 6 percent, so demand for labour is inelastic over this range and the wage bill rises from 8,000 to 8,460, up 5.75 percent." loading="lazy">
+  <figcaption>A floor of cr 9 above the cr 8 equilibrium cuts jobs by 60 and draws in 125 new job seekers, an excess supply of 185.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--13-monopsony-floor-employment.webp" width="900" height="870" alt="Employment and the number of people wanting work, in thousand hours a week, against the level of the minimum wage under monopsony. With no floor, employment is 1,000. At a floor of 9 employment is 1,250, at 10 (the competitive wage) it peaks at 1,500, then at 11 it is 1,250, at 12 it is 1,000 and at 13 it is 750. People wanting work rise as the floor rises: 1,250, 1,500, 1,750, 2,000 and 2,250. Unemployment is zero at floors of 9 and 10 and then 500, 1,000 and 1,500 at 11, 12 and 13. Between 8 and 12 employment is at least as high as before. A minimum wage does not automatically destroy jobs; it depends on monopsony power and on how high the floor is." loading="lazy">
+  <figcaption>Employment rises as the floor rises to cr 10, then falls, while unemployment appears above cr 10.</figcaption>
+</figure>
+
+
 ## NMW: effects at a glance
 
 | Effect | Chain |
@@ -71,6 +93,12 @@ Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 
 
 **Advantages:** higher incomes for the lowest paid; better work incentives; possible job gains under monopsony; productivity gains; lower reliance on benefits.
 **Disadvantages:** possible unemployment, especially young and low-skilled; higher costs and prices; poor targeting; reduced hours or training; evasion; competitiveness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--09-nmw-three-households.webp" width="900" height="940" alt="Weekly income against a poverty line of 300: a single parent working 30 hours rises from 260 to 284 (still below the line); a worker who loses the job falls from 260 to 130; a teenager on 20 hours in a well-off household gains 16 but was never poor." loading="lazy">
+  <figcaption>A minimum wage helps some poor households and misses others.</figcaption>
+</figure>
+
 
 ## NMW: evaluation checklist
 
@@ -92,6 +120,12 @@ Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 
 
 Worked reminder (invented): MRP = 30 for both groups. X supply w = 12 + 0.1L; Y supply w = 6 + 0.3L. Marginal cost is 12 + 0.2L and 6 + 0.6L. Employment is 90 and 40, wages 21 and 18, supply elasticities 2.33 and 1.5. The pay gap is 3 ÷ 21 = 14.3%. The competitive outcome would be 180 and 80 at cr 30.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--12-monopsony-wage-and-jobs.webp" width="900" height="810" alt="Wage against labour in thousand hours a week for a monopsony employer. Labour supply is w = 4 plus 0.004L, so marginal cost of labour is 4 plus 0.008L, and marginal revenue product is 16 minus 0.004L. The unregulated monopsony hires where MRP equals marginal cost of labour: 1,000 workers, paying the wage read from the supply curve, 8 crowns, while MRP is 12, a gap of 4 per worker. The competitive benchmark, where MRP equals supply, is 1,500 workers at 10 crowns." loading="lazy">
+  <figcaption>A monopsony hires 1,000 workers at cr 8 where MRP is cr 12, against 1,500 at cr 10 in a competitive market.</figcaption>
+</figure>
+
+
 ## Impact of discrimination
 
 | On | Effect |
@@ -104,6 +138,12 @@ Groups: gender (pay gaps, caring roles), ethnicity (lower pay and callback rates
 
 **Explained versus unexplained:** mean pay men 20, women 17, gap 15%. Women in the same grade and hours earn 19, so the like-for-like gap is 5% and two-thirds is explained. Unexplained does not equal proven discrimination.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--15-pay-gap-explained.webp" width="900" height="890" alt="Mean hourly pay is 20 crowns for men and 17 for women, a gap of 3 which is 15 percent of male pay. For the same grade and hours women earn 19, a gap of 1, which is 5 percent. So two-thirds of the 3 gap, 2 crowns, is explained by job type and hours, and 1 crown, one third, is unexplained. The unexplained part may reflect discrimination, though other unmeasured factors may play a part." loading="lazy">
+  <figcaption>A 15% pay gap is two-thirds explained by job type and hours, leaving 5% unexplained.</figcaption>
+</figure>
+
+
 ## Wage discrimination: who gains and loses
 
 | | Advantages | Disadvantages |
@@ -113,6 +153,12 @@ Groups: gender (pay gaps, caring roles), ethnicity (lower pay and callback rates
 | Economy | Perfect discrimination can match competitive employment | Misallocated talent, lower output, inequality |
 
 Evaluation: short-run employer gains versus long-run losses; strength of law; how competitive the market is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--08-nmw-laundrette-cost-pass-on.webp" width="900" height="880" alt="A laundrette's extra weekly cost is 400 (10% on 4,000 minimum-wage pay) plus 75 (5% on 1,500 for staff just above), cr 475, which is 4.75% of costs. Recovering it from revenue of cr 10,800 needs a 4.4% price rise at the same volume." loading="lazy">
+  <figcaption>A 10% minimum-wage rise costs the laundrette cr 475 a week, a 4.4% price rise to recover.</figcaption>
+</figure>
+
 
 ## Calculation methods
 

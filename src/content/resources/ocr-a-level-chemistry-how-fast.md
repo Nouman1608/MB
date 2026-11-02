@@ -73,6 +73,12 @@ Initial rates at constant temperature:
 2. Experiments 1 and 3: [OH⁻] rises by 0.0500 ÷ 0.0200 = 2.5 with [ClO₂] fixed. The rate rises by 2.25 × 10⁻³ ÷ 9.00 × 10⁻⁴ = 2.5. First order in OH⁻.
 3. Rate equation: **rate = k[ClO₂]²[OH⁻]**. Overall order = 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--05-rate-vs-concentration.webp" width="900" height="1000" alt="A graph of rate against [A] shows order 0 as a horizontal line, order 1 as a straight line through the origin and order 2 as an upward curve through the origin. Doubling [A] multiplies the rate by 1, 2 and 4 respectively." loading="lazy">
+  <figcaption>The shape of the rate against concentration graph gives the order: horizontal, straight line or curve.</figcaption>
+</figure>
+
+
 ## Calculating k and its units (c)
 
 Rearrange the rate equation and substitute one experiment's values.
@@ -102,6 +108,17 @@ The rate at any time is the gradient of the tangent there (see 3.2.2(b)), quoted
 
 Rate = (2.40 − 0.60) × 10⁻³ ÷ 300 = **6.0 × 10⁻⁶ mol dm⁻³ s⁻¹**. Since rate = k[NH₃]⁰ = k, k = 6.0 × 10⁻⁶ mol dm⁻³ s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--03-concentration-pressure.webp" width="900" height="950" alt="Two equal boxes hold gas particles: 6 in the left (low concentration) and 18 in the right (three times as many). The crowded box has more collisions per second. The energy of the particles is unchanged, so the fraction able to react is the same, but the rate rises." loading="lazy">
+  <figcaption>Raising concentration or gas pressure increases collision frequency, not the fraction of collisions that succeed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--06-tangent-rate.webp" width="900" height="1030" alt="A concentration-time curve for a reactant falls and flattens. A tangent at t = 0 is steep and its gradient is the initial rate. A tangent later on is shallower, so the rate is lower. Rate is the size of the gradient, quoted as positive." loading="lazy">
+  <figcaption>The rate at any time is the size of the tangent gradient, and the gradient at t = 0 is the initial rate.</figcaption>
+</figure>
+
+
 ## Half-life and k for first-order reactions (e) and (f)
 
 A first-order reaction has a **constant half-life**: it takes the same time to fall from any concentration to half that value. Read two successive half-lives to show this.
@@ -119,6 +136,12 @@ The specification gives k = ln 2/t½ (ln 2 = 0.693). You do not need to derive i
 3. k = ln 2 ÷ 840 = **8.25 × 10⁻⁴ s⁻¹**.
 
 Check with a tangent at 840 s through (240 s, 0.0359) and (1440 s, 0.0121): rate = 0.0238 ÷ 1200 = 1.98 × 10⁻⁵ mol dm⁻³ s⁻¹, and k = 1.98 × 10⁻⁵ ÷ 0.0240 = 8.25 × 10⁻⁴ s⁻¹. The methods agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
 
 ## Rate–concentration graphs (g)
 
@@ -174,9 +197,26 @@ The rate-determining step involves one H₂ and one ICl:
 
 The steps add to the overall equation; HI is the intermediate. The second ICl reacts after the slow step, so it is not in the rate equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--09-rate-determining-step.webp" width="900" height="1170" alt="A two-hill enthalpy profile for 2P + Q going to P2Q. The first hill (P + Q forming PQ) is higher, so it is the slow, rate-determining step; the second (PQ + P forming P2Q) is lower and fast. Because the slow step has one P and one Q, Rate = k[P][Q]." loading="lazy">
+  <figcaption>The slowest step sets the rate, and the orders show how many particles of each reactant take part in it.</figcaption>
+</figure>
+
+
 ## Temperature and the rate constant (j)
 
 Heating shifts the Boltzmann distribution to higher energies (3.2.2(f) and (g)), so more of the molecules now have at least the activation energy, and more collisions per second succeed. The concentrations are unchanged by heating, so the faster rate means k has increased. k is constant only at one temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--02-boltzmann-temperature.webp" width="900" height="960" alt="Two skewed curves of number of molecules against energy start at the origin. The hotter curve has a lower peak further right, a longer tail, and crosses the cooler curve once to the left of Ea. The shaded area beyond Ea is much bigger for the hotter curve, while both curves enclose the same total area." loading="lazy">
+  <figcaption>A hotter gas has a lower, wider curve with the same area and many more molecules at or above Ea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--08-arrhenius-plot.webp" width="900" height="1010" alt="Four points at 300 to 360 K lie on a downward straight line of ln k against 1/T. The gradient triangle gives minus Ea over R. Using R = 8.31 the gradient gives Ea = 62.0 kJ per mol, from ln k = -Ea/R times 1/T plus ln A." loading="lazy">
+  <figcaption>The gradient of ln k against 1/T is -Ea/R, here giving Ea = 62.0 kJ per mol.</figcaption>
+</figure>
+
 
 ## The Arrhenius equation (k)
 

@@ -45,6 +45,12 @@ There are three possible outcomes for two lines:
 | They are parallel | none |
 | They are the same line | infinitely many |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+
 ## Method 1: elimination
 
 Make the coefficients of one letter the same size, then add or subtract the equations so that letter disappears.
@@ -111,6 +117,12 @@ Check: 2(2) + 5(2) = 14 ✓
 
 Elimination is usually quicker when both equations look like ax + by = c. Substitution is quicker when one letter is already isolated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--01-substitute-in-brackets.webp" width="900" height="1170" alt="Worked example 3: y = 3x - 4 is substituted in brackets into 2x + 5y = 14 to give 2x + 5(3x - 4) = 14, then 17x = 34, x = 2 and y = 2. A graph shows both lines crossing at (2, 2)." loading="lazy">
+  <figcaption>Put the expression for y in brackets, solve for x, then find y.</figcaption>
+</figure>
+
+
 ## Special cases: no solution and infinitely many
 
 If eliminating a letter makes both letters vanish, look at what is left.
@@ -121,6 +133,12 @@ If eliminating a letter makes both letters vanish, look at what is left.
 Example: 2x + 3y = 5 and 4x + 6y = 7. Doubling the first gives 4x + 6y = 10, which cannot equal 7 as well. The lines have the same gradient but different positions, so there is no solution.
 
 Example: 3x − 2y = 7 and 6x − 4y = 14. The second is exactly twice the first, so they are the same line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--04-two-lines-outcomes.webp" width="900" height="1120" alt="Three graphs: 4x + 3y = 17 and 2x - 5y = -11 cross at (2, 3); 2x + 3y = 5 and 4x + 6y = 7 are parallel; 3x - 2y = 7 and 6x - 4y = 14 are the same line." loading="lazy">
+  <figcaption>Two lines meet once, never, or everywhere.</figcaption>
+</figure>
+
 
 ## Method 3: solving by graph
 
@@ -219,6 +237,12 @@ y = 3 − 2x:  y = −0.0828  or  y = 12.1
 
 The exact values are x = (−3 ± √37)/2. Keep exact values in your working and round only at the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--02-surd-intersections.webp" width="900" height="1031" alt="The line y = 3 - 2x meets y = x squared + x - 4 at two points. x squared + 3x - 7 = 0 gives x = (-3 plus or minus root 37)/2, which is 1.54 or -4.54 to 3 s.f., so the points are (1.54, -0.0828) and (-4.54, 12.1)." loading="lazy">
+  <figcaption>Keep the surd in the working and round only in the last line.</figcaption>
+</figure>
+
+
 ### How many solutions?
 
 After substituting, look at the discriminant b² − 4ac of the quadratic you obtain.
@@ -233,6 +257,12 @@ Example: y = 2x − 5 and y = x² − 4x + 4 give x² − 6x + 9 = 0, which is (
 
 Example: y = x² + 1 and y = 2x − 3 give x² − 2x + 4 = 0. Here b² − 4ac = 4 − 16 = −12, which is negative, so there is no real solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--05-line-meets-parabola.webp" width="900" height="1150" alt="Three parabola and line graphs from the lesson examples, with discriminants 9, 0 and -12 giving two, one and no intersection points." loading="lazy">
+  <figcaption>The discriminant tells you how many times a line meets a curve.</figcaption>
+</figure>
+
+
 ### Graphical version
 
 You can also solve a linear-quadratic pair by plotting the curve and the line and reading the crossing points. For y = x² − 4x + 1 and y = x − 2:
@@ -243,6 +273,12 @@ You can also solve a linear-quadratic pair by plotting the curve and the line an
 | y = x − 2 | −3 | −2 | −1 | 0 | 1 | 2 | 3 |
 
 Draw a smooth curve through the first row of points and a straight line through the second. The crossings are at about x = 0.7 and x = 4.3. Algebra gives x² − 5x + 3 = 0, so x = (5 ± √13)/2, which is 0.697 and 4.30 to 3 significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
 
 ## Common errors
 

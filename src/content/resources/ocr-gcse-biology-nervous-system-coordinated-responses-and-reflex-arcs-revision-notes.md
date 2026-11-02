@@ -64,6 +64,17 @@ stimulus -> receptor -> sensory neurone -> CNS -> motor neurone -> effector -> r
 
 One direction only, because the receptors are on the receiving side. Each synapse adds a small delay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--01-motor-sensory-neurones.webp" width="900" height="1015" alt="Two neurone drawings. The motor neurone has a cell body with nucleus and dendrites at the CNS end, a long myelinated axon and branched endings at a muscle. The sensory neurone runs from a receptor along a long myelinated fibre to the CNS, with its cell body off to one side on a short branch." loading="lazy">
+  <figcaption>A motor neurone carries impulses from the CNS to an effector; a sensory neurone carries them from a receptor to the CNS, with its cell body to one side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
+
 ## B3.1b: Coordinated response
 
 The nervous system can produce a coordinated response because it:
@@ -100,6 +111,17 @@ Receptors differ because each type is sensitive to one kind of stimulus. That is
 
 *Which component is damaged if a person feels a touch on the arm but cannot move it away?* The sensory neurone and receptor work, because the touch is felt. The fault is in the motor neurone or the muscle (effector). If instead the person cannot feel the touch and no reflex happens, the fault is in the receptor or sensory neurone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--01-un39-nervous-four-properties.webp" width="900" height="880" alt="Four panels, one per property. 1 The nervous system reaches every part of the body (stick figure with nerve lines to head, hands and feet). 2 It has many links: three stimulus neurones joined to three response neurones, one input reaching all three outputs. 3 It has different sensory receptors: eye for light, sound waves, pressure pad. 4 The CNS receives signals in and sends instructions out." loading="lazy">
+  <figcaption>The four properties that let the nervous system produce a coordinated response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--02-un39-catch-ball-pathway.webp" width="900" height="1000" alt="Flow diagram: a moving ball is the stimulus; light receptors in the eyes and position receptors in muscles and joints detect it; sensory neurones carry impulses to the brain (CNS), which combines the information; motor neurones carry impulses to shoulder, arm and hand muscles (effectors), which contract in order so the hand closes as the ball arrives." loading="lazy">
+  <figcaption>The catching-a-ball pathway from stimulus to response, in the order the impulses travel.</figcaption>
+</figure>
+
+
 ## B3.1c: Reflex arcs
 
 ### Voluntary and reflex responses compared
@@ -133,6 +155,12 @@ Estimation is a listed skill. Use rounded values, and say that the answer is app
 
 A reflex of the leg is processed in the spinal cord, near the receptors and effectors, so the impulse does not travel up to the brain and back. A voluntary action must reach the conscious part of the brain, so the pathway is longer and has more synapses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+
 ## Reaction time
 
 * Reaction time (s) = time between stimulus and response.
@@ -161,6 +189,17 @@ Reaction time falls with each trial, from 0.21 s to 0.17 s. A sensible explanati
 * Drop the ruler without warning at random times.
 * Repeat and take a mean; identify anomalies.
 * Do not claim a cause from one person or a small sample.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--02-ruler-drop.webp" width="900" height="940" alt="A 30 cm ruler with thumb and finger at zero and again at 14.0 cm, the mean of five drops (13, 16, 14, 15, 12 cm). t = square root of (2 x 0.140 / 9.8) = about 0.17 s, an estimate that assumes free fall." loading="lazy">
+  <figcaption>Mean distance 14.0 cm gives a reaction time of about 0.17 s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--03-un39-caffeine-reaction-times.webp" width="900" height="810" alt="Dot plot of five reaction times before (0.21, 0.19, 0.23, 0.20, 0.22 s, mean 0.21 s) and after (0.18, 0.17, 0.19, 0.16, 0.20 s, mean 0.18 s) a caffeinated drink. The mean fell by 0.03 s, a 14% decrease. One person tested once cannot prove caffeine is the cause." loading="lazy">
+  <figcaption>Mean reaction time fell from 0.21 s to 0.18 s after caffeine, a 14% decrease.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -88,6 +88,27 @@ Quick check: money in goes on the debit side and money out goes on the credit si
 
 **Reminder example.** A business's cash book shows a balance of 1,840. The statement shows charges of 22, interest received of 6, a direct debit of 75, a standing order of 130 and a credit transfer of 410. Updated balance: 1,840 − 22 + 6 − 75 − 130 + 410 = **2,029**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--02-bank-update-cashbook.webp" width="900" height="842" alt="A waterfall takes the cash book balance 3,794 through +640, +9, +36, -95, -164 and -32 to an updated 4,188." loading="lazy">
+  <figcaption>Update the cash book before reconciling; the corrected balance is 4,188.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--03-bank-reconcile-bridge.webp" width="900" height="860" alt="A waterfall goes from the updated cash book 4,188, adds the unpresented cheque 520, deducts the uncredited deposit 1,740 and the bank error 85, and reaches the statement balance 2,883." loading="lazy">
+  <figcaption>Start from the updated cash book and add or deduct to reach the statement balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--05-bank-statement-purpose.webp" width="900" height="780" alt="A cash book written by the business and a bank statement written by the bank are compared line by line. Five purposes: confirm payments reached the bank, find unrecorded bank entries, spot mistakes, show how much can safely be spent, detect unauthorised payments." loading="lazy">
+  <figcaption>The bank statement is an independent check on the cash book.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--08-bank-cashbook-sides.webp" width="900" height="900" alt="Debit side (money in): credit transfer, interest received, error too little received or too much paid. Credit side (money out): charges, interest paid, direct debit, standing order, error too much received or too little paid. Unpresented cheques and uncredited deposits are never entered." loading="lazy">
+  <figcaption>Which side each updating item goes on, and what must never be entered.</figcaption>
+</figure>
+
+
 ## Reconciling: which sign?
 
 | Item | Cash book to statement | Statement to cash book |
@@ -115,6 +136,12 @@ If this had started from the cash book instead, the signs would reverse and the 
 
 **Overdrawn.** If the cash book or statement shows an overdraft, give it a minus sign and use the same rules. Overdraft interest and charges go on the cash book credit side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--07-bank-overdrawn.webp" width="900" height="940" alt="Bars left of zero show an overdrawn cash book of -1,200, +400 for an unpresented cheque and -650 for an uncredited deposit, reaching the overdrawn statement balance of -1,450. Numbers are illustrative." loading="lazy">
+  <figcaption>An overdraft reconciles with the same add and deduct rules, using negative numbers.</figcaption>
+</figure>
+
+
 ## Digital business transactions
 
 - Payments by card, online payment and bank transfer clear quickly, so fewer unpresented cheques and uncredited deposits remain.
@@ -122,6 +149,12 @@ If this had started from the cash book instead, the signs would reverse and the 
 - Reconciliation software can match the bank feed to the records, which cuts routine work.
 - Direct debits, standing orders, charges and interest still reach the statement first.
 - A person must still review unmatched items, duplicates and wrongly keyed amounts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--06-bank-digital-transactions.webp" width="900" height="920" alt="A cheque stays unpresented for days and is reconciled monthly; a card or online payment clears in hours and can be reconciled daily or weekly. Direct debits, standing orders, charges and interest still reach the bank first, and a person must still check duplicated or wrongly keyed payments and wrong auto-matches." loading="lazy">
+  <figcaption>Digital payments clear faster, but the cash book still needs updating and review.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -141,6 +174,12 @@ If this had started from the cash book instead, the signs would reverse and the 
 - Not showing the balance reached at each stage, so one slip hides the rest of the working.
 - Giving only one effect of digital payments when the question asks for two.
 - Writing "the bank made a mistake" with no statement of what happens to the cash book or to the statement balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--01-bank-tick-off.webp" width="900" height="850" alt="Larkhaven Garden Supplies lines are sorted by where they appear. Cheque 0422 and the 1,740 deposit are only in the cash book (timing, reconciliation only). The credit transfer, standing order, direct debit, interest and charges are only on the statement (enter in cash book). Cheque 0421 (351 v 315) is a cash book error and cheque 0431 (85) is a bank error." loading="lazy">
+  <figcaption>Tick off first: each unmatched line needs a different action.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

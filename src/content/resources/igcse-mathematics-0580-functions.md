@@ -57,6 +57,12 @@ You can put an expression in the brackets as well as a number. Whatever is in th
 
 "Solve f(x) = 10" is different: here you know the **output** and must find the input. Write the rule equal to 10 and solve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+
 ### Worked example 1: using function notation
 
 f(x) = 7 − 2x.
@@ -85,6 +91,12 @@ In (c), the bracket is essential. Writing 7 − 2a + 2 is the most common slip i
 
 A mapping diagram has two ovals: inputs (domain) on the left, outputs (range) on the right, with an arrow from each input to its output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--02-mapping-domain-range.webp" width="900" height="990" alt="A mapping diagram for h(x) = x squared minus 4 with domain minus 2, minus 1, 0, 1, 3. The arrows give outputs 0, minus 3, minus 4, minus 3, 5. The range is minus 4, minus 3, 0, 5, each listed once; two inputs may share an output." loading="lazy">
+  <figcaption>The range lists each different output once; two inputs can share an output.</figcaption>
+</figure>
+
+
 ### Worked example 2: range from a given domain
 
 h(x) = x² − 4 with domain {−2, −1, 0, 1, 3}. Find the range.
@@ -108,6 +120,12 @@ When no domain is given, take the domain to be all real numbers, unless a value 
 
 Range is about outputs, so write it using f(x) (or y), not x. "Range x ≥ 1" for g above loses the mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
+  <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
+
 ## E2.13.2 Inverse functions
 
 ### What the inverse does
@@ -115,6 +133,12 @@ Range is about outputs, so write it using f(x) (or y), not x. "Range x ≥ 1" fo
 The inverse function f⁻¹ undoes f. If f sends 5 to 1, then f⁻¹ sends 1 back to 5. On a mapping diagram, the inverse simply reverses every arrow, so the domain and range swap.
 
 The ⁻¹ is notation, not a power: f⁻¹(x) does **not** mean 1/f(x).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--05-inverse-graph.webp" width="900" height="1034" alt="Graphs of f(x) = (2x minus 7) over 3 and its inverse (3x plus 7) over 2, with the dashed line y = x. Point (5, 1) on f matches (1, 5) on the inverse, the mirror image in y = x. The link between them crosses y = x at (3, 3)." loading="lazy">
+  <figcaption>The graph of f⁻¹ is the reflection of the graph of f in the line y = x.</figcaption>
+</figure>
+
 
 ### Method: finding f⁻¹(x)
 
@@ -124,6 +148,12 @@ The ⁻¹ is notation, not a power: f⁻¹(x) does **not** mean 1/f(x).
 4. Write the result as f⁻¹(x) = ...
 
 This is the same rearranging you use for changing the subject of a formula, so work carefully with brackets and fractions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
 
 ### Worked example 3: a fractional linear function
 
@@ -265,6 +295,12 @@ f⁻¹(x) = (x - 3)/2
 ```
 
 **Check:** f(−3) = −3, and f⁻¹(−3) = (−6)/2 = −3. Both sides equal −3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--06-composite-order.webp" width="900" height="840" alt="With f(x) = 3x minus 1 and g(x) = x squared plus 4, starting from 2: fg(2) applies g first to give 8 then f to give 23; gf(2) applies f first to give 5 then g to give 29. So fg(x) = 3x squared plus 11 and gf(x) = 9x squared minus 6x plus 5 differ." loading="lazy">
+  <figcaption>In gf(x) the function nearest x acts first, so fg(x) and gf(x) usually differ.</figcaption>
+</figure>
+
 
 ## Doing this on Paper 2 and Paper 4
 

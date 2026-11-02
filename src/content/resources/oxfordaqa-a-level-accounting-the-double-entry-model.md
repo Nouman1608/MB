@@ -92,6 +92,12 @@ Ravelstone buys mowers on credit with a list price of 3,200, less 15% trade disc
 - Invoice value: 3,200 × 85% = 2,720. Purchases journal: debit Purchases 2,720, credit the supplier 2,720.
 - Paid within 14 days: discount received 2,720 × 2.5% = 68, cheque 2,652. Debit the supplier 2,720; credit Bank 2,652 and Discounts received 68.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
+
 ## Capital and revenue items
 
 | Category | Meaning | Examples |
@@ -103,6 +109,12 @@ Ravelstone buys mowers on credit with a list price of 3,200, less 15% trade disc
 
 Capital expenditure goes to the statement of financial position and is depreciated. Revenue expenditure is charged against profit in the income statement for the year. Getting this wrong misstates both profit and assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
+
 ## Irrecoverable debts, recovery and contra entries
 
 **Write-off.** Customer D. Mensah owes 640 and cannot pay. Debit Irrecoverable debts 640; credit D. Mensah 640. The expense goes to the income statement.
@@ -111,6 +123,12 @@ Capital expenditure goes to the statement of financial position and is depreciat
 
 **Contra.** Ravelstone owes Orrin Timber 1,350 and Orrin owes Ravelstone 900. Set off the smaller amount: debit Orrin Timber (payables ledger) 900; credit Orrin Timber (receivables ledger) 900. Ravelstone now owes Orrin 450.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
+
 ## Depreciation
 
 **Straight line:** (cost − residual value) ÷ useful life. A delivery van costing 27,500 with residual value 3,500 and a six-year life: (27,500 − 3,500) ÷ 6 = 4,000 a year.
@@ -118,6 +136,17 @@ Capital expenditure goes to the statement of financial position and is depreciat
 **Reducing balance:** rate × carrying amount at the start of the year. Equipment costing 16,000 at 25%: year 1 = 4,000; year 2 = 25% × 12,000 = 3,000; carrying amount after two years 9,000.
 
 Double entry: debit Depreciation (income statement expense); credit Accumulated depreciation. In the statement of financial position, show cost less accumulated depreciation equals carrying amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
+  <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
 
 ## Disposal of non-current assets
 
@@ -149,6 +178,17 @@ Carrying amount 9,000 − proceeds 8,600 = loss on disposal 400, charged as an e
 - Rent received from a subtenant 3,900, of which 300 is for next year: income 3,600, current liability 300.
 
 In the electricity ledger account, the 280 appears as Balance c/d on the debit side, the 2,590 transfer to the income statement on the credit side, and the 280 comes down as a credit balance b/d.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
 
 ## Opening and closing inventory
 
@@ -209,6 +249,12 @@ Equity
 ```
 
 Net assets equal equity, so the statement balances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Common errors
 

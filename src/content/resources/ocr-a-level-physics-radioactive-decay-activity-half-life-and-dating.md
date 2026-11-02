@@ -41,6 +41,17 @@ Any constant or reference value in a worked example is given as data, as it shou
 
 Decay is **spontaneous**: it needs no trigger, and temperature, pressure or chemical bonding do not change it. Decay is **random**: you cannot predict when a particular nucleus will decay or which one will go next. Every undecayed nucleus has the same fixed chance of decaying in each second. A count rate from a source therefore scatters about an average, and a large sample follows a smooth pattern even though each nucleus is unpredictable. That link between a probability per unit time and a smooth curve is the basis of everything below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--01-aphy-nuclear-radiations.webp" width="900" height="840" alt="Alpha is stopped by paper, beta by a few mm of aluminium and gamma is only reduced by thick lead. Alpha makes the most ion pairs along its short track and gamma the fewest. Alpha is least hazardous outside the body and most hazardous inside it." loading="lazy">
+  <figcaption>Alpha, beta and gamma differ in how far they penetrate and how strongly they ionise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--03-aphy-nuclear-random-decay.webp" width="900" height="1170" alt="100 dice are thrown repeatedly and every six is removed. Which die goes is unpredictable, but the number left follows the smooth curve 100 x (5/6)^n, halving after about 3.8 throws." loading="lazy">
+  <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
+</figure>
+
+
 ## 6.4.3(b)(i) Alpha, beta and gamma
 
 | | α | β⁻ | β⁺ | γ |
@@ -82,6 +93,17 @@ Worked equations:
 - β⁻: ⁹⁰₃₈Sr → ⁹⁰₃₉Y + ⁰₋₁e + ν̄ (Z: 38 = 39 − 1)
 - β⁺: ²²₁₁Na → ²²₁₀Ne + ⁰₊₁e + ν (Z: 11 = 10 + 1)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
+  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
+
 ## 6.4.3(d) Activity and the decay constant
 
 **Activity** A is the number of decays per second, measured in becquerel (Bq). The **decay constant** λ is the chance per unit time that a given nucleus decays. The decay rate is proportional to the number of undecayed nuclei N:
@@ -108,6 +130,12 @@ N = (5.0 × 10⁻⁶ / 137) × 6.02 × 10²³ = 2.20 × 10¹⁶
 t½ = 0.693 / 7.28 × 10⁻¹⁰ = 9.5 × 10⁸ s ≈ **30 years** (dividing by 3.16 × 10⁷ s per year)
 
 Waiting for such a sample to halve is impractical, so you find N from the mass and A from a count. **Short half-lives** are measured directly. For the protactinium experiment, a sealed generator bottle holds a solution containing the parent uranium compound. You shake it and let two liquid layers separate; the short-lived protactinium isotope, with a half-life of about a minute, collects in the upper layer. Place a GM tube over that layer, record the count every 10 s for several minutes, and record the background separately. Subtract the background from each count rate, plot corrected count rate against time and read off the time for the rate to halve from several starting points; they should agree. Use gloves, keep the bottle sealed and follow your school's rules for the generator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--04-aphy-nuclear-half-life.webp" width="900" height="1010" alt="Corrected count rate against time for a source starting at 800 counts per minute. The rate halves every 14 minutes whether it starts from 800 or 488, so the half-life is constant and lambda = ln 2 / 14 = 0.0495 per minute." loading="lazy">
+  <figcaption>The half-life is the same wherever on the decay curve you start.</figcaption>
+</figure>
+
 
 ## 6.4.3(f)(i) Exponential decay
 
@@ -171,3 +199,14 @@ t = ln(0.230/0.150) / 1.21 × 10⁻⁴ = 0.4274 / 1.21 × 10⁻⁴ = **3500 year
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: section 6.4.3, Radioactivity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
+  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+

@@ -61,6 +61,12 @@ Common reducing agents: carbon, carbon monoxide, hydrogen, reactive metals, pota
 
 In a **displacement reaction** *(0620 Extended, 5070 required)*, a more reactive metal displaces a less reactive one from solution, and this is always a redox reaction: the more reactive metal is oxidised (loses electrons to form ions), while the less reactive metal's ions are reduced (gain electrons to form the metal). This is the same electron-transfer logic used throughout this topic, just applied to a pair of metals rather than a metal and a non-metal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
+  <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
+</figure>
+
+
 ## Oxidation number rules
 
 *(0620 Extended, 5070 required)* Deducing oxidation numbers is 0620 Supplement (6.4 S9); 0620 Core needs only the Roman numeral in a name (6.4 C1).
@@ -88,6 +94,22 @@ Mn = 0 - 1 + 8 = +7
 
 This matches the "(VII)" in potassium manganate(VII) — the Roman numeral and the calculated oxidation number always agree, which is a quick way to check your working once you have finished a calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--03-roman-numerals.webp" width="900" height="840" alt="Three rows pair compound names with the oxidation number of one element: iron(II) oxide has Fe +2, iron(III) oxide has Fe +3, potassium manganate(VII) has Mn +7." loading="lazy">
+  <figcaption>The Roman numeral in a name is the oxidation number of that element.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--04-kmno4-oxidation-number.webp" width="900" height="1010" alt="A balance around zero for KMnO4: potassium +1 and manganese +7 total +8 above the line; four oxygens at -2 total -8 below. The two cancel, so manganese must be +7." loading="lazy">
+  <figcaption>In neutral KMnO4, (+1) + Mn + 4(-2) = 0 gives Mn = +7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--05-number-change.webp" width="900" height="870" alt="On a ladder of oxidation numbers, zinc climbs from 0 to +2 (oxidised) and copper falls from +2 to 0 (reduced)." loading="lazy">
+  <figcaption>A rise in oxidation number is oxidation; a fall is reduction.</figcaption>
+</figure>
+
+
 ## Half equations
 
 *(0620 Extended, 5070 required)* Constructing ionic half-equations is 0620 Supplement content (4.1 S11).
@@ -113,6 +135,12 @@ Electrons must cancel exactly when the halves are combined — if they don't, mu
 | Reducing agent | Acidified potassium manganate(VII) | Purple → colourless | MnO₄⁻ reduced to Mn²⁺ |
 
 *Background — beyond the syllabus, not examinable:* acidified potassium dichromate(VI) turning **orange → green** also indicates a reducing agent, but this test is not part of the 0620/5070 subject content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--07-colour-tests.webp" width="900" height="1210" alt="Acidified potassium manganate(VII) is purple and turns colourless when a reducing agent is added. Aqueous potassium iodide is colourless and turns brown as iodide is oxidised to iodine." loading="lazy">
+  <figcaption>Purple manganate(VII) decolourises and colourless iodide turns brown in redox tests.</figcaption>
+</figure>
+
 
 ## Worked identification
 

@@ -93,6 +93,27 @@ for first assessment 2018 —
 
 **Prokaryotes** — bacteria — have no nucleus and no membrane-bound organelles. Their DNA is a single circular loop, and many bacteria also carry one or more plasmids; their ribosomes are smaller than those of eukaryotes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+
 ## Microscopy
 
 Light microscopes magnify to roughly x2000 and resolve to about 200 nm. Electron microscopes reach far higher magnification and resolution, revealing internal structure. **Resolution** — the ability to distinguish two close points as separate — matters as much as magnification, since magnifying beyond the resolving power produces a bigger but no clearer image.
@@ -102,6 +123,12 @@ magnification = image size / actual size
 1 mm = 1000 micrometres = 1 000 000 nanometres
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-cell-level-systems--07-magnification-vs-resolution.webp" width="900" height="1210" alt="Two points 300 nm apart are seen as two blobs in a light microscope with resolution about 200 nm. Points 100 nm apart blur into one blob, and enlarging the image makes the blob bigger but not clearer." loading="lazy">
+  <figcaption>Magnifying beyond the resolving power gives a bigger but not clearer image.</figcaption>
+</figure>
+
+
 ## DNA and protein synthesis
 
 DNA is a double helix of two strands held by complementary base pairing: **A with T, C with G**. A **gene** is a section of DNA coding for one protein, and the sequence of bases determines the sequence of amino acids.
@@ -109,6 +136,17 @@ DNA is a double helix of two strands held by complementary base pairing: **A wit
 Protein synthesis has two stages: **transcription**, where the DNA of one gene is copied into mRNA in the nucleus, and **translation**, where ribosomes read the mRNA in triplets and assemble the corresponding amino acids into a polypeptide.
 
 Because the folded shape of a protein depends on its amino acid sequence, a change in the DNA base sequence can change the shape and destroy the function — which is how mutations cause disease.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
 
 ## Enzymes and respiration
 
@@ -123,6 +161,12 @@ Anaerobic in yeast:  glucose -> ethanol + carbon dioxide  (fermentation)
 ```
 
 Cellular respiration is a universal process, happening continuously in every living cell to supply **ATP**, and it is an **exothermic** reaction — energy is transferred to the surroundings. It is not the same as breathing (ventilation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-cell-level-systems--01-energy-direction.webp" width="900" height="880" alt="Two energy level diagrams. Respiration: glucose and oxygen at a higher level than carbon dioxide and water, so heat is transferred out and ATP is made (exothermic). Photosynthesis: the levels are reversed, so light energy is taken in (endothermic)." loading="lazy">
+  <figcaption>Respiration transfers energy out (exothermic); photosynthesis takes energy in (endothermic).</figcaption>
+</figure>
+
 
 ## Building and breaking down biological molecules
 
@@ -151,6 +195,22 @@ Photosynthesis is an **endothermic reaction** — energy is transferred from the
 Three factors can each limit the rate of photosynthesis: **light intensity**, **carbon dioxide concentration** and **temperature**. A **limiting factor** is whichever of these is in shortest supply at a given moment — it alone determines the rate, however much of the other two factors is available. On a rate graph, increasing one factor raises the rate until it plateaus, at which point a different factor has become limiting. Light intensity follows an inverse square law with distance from a light source, so doubling the distance from a lamp quarters the intensity reaching the plant.
 
 **Investigating photosynthesis.** The rate can be measured from the oxygen an aquatic plant such as pondweed gives off — counting bubbles, or collecting the gas and measuring its volume — with the lamp at different distances while the temperature is kept constant. To show that light is needed, a plant is first **destarched** by keeping it in the dark, then part of a leaf is covered with foil and the plant is placed in light. The leaf is boiled in water, soaked in hot ethanol (heated in a water bath, not over a flame) to remove the chlorophyll, rinsed and tested with iodine solution: the uncovered parts turn blue-black because they made starch, while the covered part stays orange-brown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-cell-level-systems--02-photosynthesis-two-stages.webp" width="900" height="970" alt="Inside a chloroplast, stage 1 uses light energy to split water, and stage 2 uses that energy to combine carbon dioxide with hydrogen to build glucose. Water and carbon dioxide go in; oxygen and glucose come out." loading="lazy">
+  <figcaption>Stage 1 splits water using light; stage 2 combines carbon dioxide with the hydrogen to make glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-cell-level-systems--03-light-inverse-square.webp" width="900" height="930" alt="A lamp lights a screen at distance d and at 2d. At 2d the same light covers 4 tiles instead of 1, so each tile gets a quarter. Bars show relative light intensity 1 at d and one quarter at 2d." loading="lazy">
+  <figcaption>Light intensity is proportional to 1/distance squared, so doubling the distance quarters it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-cell-level-systems--04-ethanol-water-bath.webp" width="900" height="900" alt="A boiling tube of ethanol and a leaf stands in a beaker of hot water with no naked flame. The test order is boil in water, hot ethanol, rinse, add iodine." loading="lazy">
+  <figcaption>Ethanol is heated in a hot water bath, never over a flame, to remove the chlorophyll.</figcaption>
+</figure>
+
 
 ## Worked example
 

@@ -45,6 +45,27 @@ Percentage change = (new rate - old rate) / old rate × 100.
 
 Reminder: 1 ar = 2.00 bel falls to 1 ar = 1.50 bel. The ar changes by (1.50 - 2.00) / 2.00 = -25%. The bel was worth 0.50 ar and is now worth 1 / 1.50 = 0.667 ar, a rise of 33.3%. A fall of 25% in one currency is a rise of 33.3% in the other, because the bases differ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--14-elasticity-trade-balance.webp" width="900" height="990" alt="With elastic demand, a 20% fall in the ar raises exports to 130 and imports to 112.5, improving the balance by 17.5. With inelastic demand exports reach 109 and imports 116.25, so the balance worsens by 7.25." loading="lazy">
+  <figcaption>Depreciation improves the trade balance only if demand is elastic enough.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--02-speculator-profit-and-herding.webp" width="900" height="1090" alt="A speculator spends 1,000,000 bel on 500,000 ar at 2.00. Selling at 2.20 gives 1,100,000 bel, a 100,000 (10%) profit; selling at 1.90 gives 950,000, a 50,000 loss. A loop shows speculation can be self-fulfilling when traders copy each other." loading="lazy">
+  <figcaption>Speculation can win 10% or lose 5%, and herding makes expectations self-fulfilling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--03-depreciation-holiday-and-bakery.webp" width="900" height="900" alt="The ar falls from 2.00 to 1.60 bel. A hotel at 1,200 bel costs 600 ar before and 750 ar after, 25% more. A bakery with costs of 100, of which 30 is imported flour, sees flour rise 25% so costs become 107.5, up 7.5%." loading="lazy">
+  <figcaption>A falling currency raises the home-currency price of foreign holidays and imported inputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--04-net-exports-multiplier-28.webp" width="900" height="980" alt="Net exports rise by 17.5. With a multiplier of 1.6 and spare capacity, GDP rises by 28 (17.5 direct plus 10.5 from further rounds), which is 2.8% of a GDP of 1,000. Near full capacity the extra demand mainly raises prices." loading="lazy">
+  <figcaption>A 17.5 rise in net exports becomes a 28 rise in GDP through the multiplier, if there is spare capacity.</figcaption>
+</figure>
+
+
 ## Determination under a free float
 
 | Demand for the home currency comes from | Supply of the home currency comes from |
@@ -99,6 +120,12 @@ Cost of defending a rate = excess supply of the currency × the target rate. If 
 
 Limits: finite reserves, large speculative flows, conflict with domestic goals when interest rates are used, and little help against a lasting imbalance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--13-defend-the-rate.webp" width="900" height="930" alt="After demand falls by 25m, the rate of 2.00 has excess supply of 25m ar. The central bank must buy it, using 50m bel of reserves, enough for 8 months; the free rate would be about 1.83." loading="lazy">
+  <figcaption>Holding a rate against market pressure uses up reserves.</figcaption>
+</figure>
+
+
 ## Exchange rate systems
 
 | | Free float | Fixed | Managed float |
@@ -110,6 +137,22 @@ Limits: finite reserves, large speculative flows, conflict with domestic goals w
 | Adjusts to shocks | Automatically | Only by devaluation or revaluation | Partly |
 
 Evaluation: the best system depends on trade patterns, size of reserves, credibility of the authorities and how exposed the economy is to shocks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--11-two-views-percentages.webp" width="900" height="990" alt="The rate moves from 1 ar = 2.00 bel to 1.60 bel. The ar depreciates 20%, but 1 bel buys 0.50 ar then 0.625 ar, so the bel appreciates 25%." loading="lazy">
+  <figcaption>The percentage differs because each currency uses a different base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--12-float-equilibrium-shift.webp" width="900" height="900" alt="Demand D1 and supply S for the ar meet at 2.0 bel per ar and 80m ar. Foreign investors add 30m to demand at every rate, so D2 meets S at 2.2 and 95m: a 10% appreciation." loading="lazy">
+  <figcaption>Higher demand for a currency raises its equilibrium exchange rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--01-rate-systems-who-moves-the-rate.webp" width="900" height="1060" alt="Three small time-series charts contrast a free float (market moves the rate), a fixed rate (government devalues then revalues) and a managed float (kept in a band). Appreciation and depreciation are market moves; devaluation and revaluation are deliberate government changes. The rates are illustrative." loading="lazy">
+  <figcaption>Under a float the market moves the rate; under a fixed system the government resets it; a managed float is steered within a band.</figcaption>
+</figure>
+
 
 ## Effects of a change in the rate
 
@@ -147,6 +190,12 @@ Build each judgement as a chain, then qualify it.
 - Monitors members' economies and advises on policy.
 - Provides technical assistance.
 - Criticism: conditions such as spending cuts may slow growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-exchange-rates--05-imf-roles.webp" width="900" height="1060" alt="The IMF is an organisation of member countries. Its roles are promoting monetary cooperation and exchange rate stability, lending to members with balance of payments difficulties, monitoring and advising, and technical assistance. Loans usually carry policy conditions, which can force spending cuts that slow growth." loading="lazy">
+  <figcaption>Four roles of the IMF, and why lending conditions are criticised.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -195,3 +244,9 @@ Build each judgement as a chain, then qualify it.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: section 3.4.2.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

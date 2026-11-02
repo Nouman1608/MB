@@ -44,6 +44,32 @@ Country A uses the AC (A-coin). Country B uses the BC (B-coin). Suppose 1 AC = 2
 
 Rule of thumb: to go from the currency that is "1" in the quote (AC) to the other (BC), multiply. To go back, divide. Check that your answer is sensible: BC amounts should be bigger than AC amounts here, because each AC is worth more than one BC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--01-fx-rate-equilibrium.webp" width="900" height="960" alt="Supply and demand for the AC: rate in BC per AC against millions of AC. D and S cross at 2.50 and 70 million. At 3.00 there is a surplus of 30 and at 2.00 a shortage of 30." loading="lazy">
+  <figcaption>The equilibrium rate is where demand for and supply of the currency are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--08-currency-conversion.webp" width="900" height="840" alt="At 1 AC = 2.50 BC, AC to BC multiplies and BC to AC divides. A 30 AC toy is 75 BC, a 12 BC jacket is 4.80 AC and 400 BC is 160 AC." loading="lazy">
+  <figcaption>Multiply to go from AC to BC and divide to go back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--09-ac-interest-rate-shift.webp" width="900" height="910" alt="Demand shifts right by 30 from D1 to D2 against supply S. The rate rises from 2.50 to 3.00 BC per AC and 85 million AC are traded." loading="lazy">
+  <figcaption>A higher interest rate raises demand for the AC and the rate rises to 3.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--10-ac-import-boom-shift.webp" width="900" height="910" alt="Supply shifts right by 30 from S1 to S2 against demand D. The rate falls from 2.50 to 2.00 BC per AC and 85 million AC are traded." loading="lazy">
+  <figcaption>An import boom raises supply of the AC and the rate falls to 2.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+
 ## b) What decides the exchange rate
 
 In a **floating** exchange rate system the rate is set by the market: the demand for and supply of the currency. The rate is the price of the currency, so the usual market logic applies.
@@ -91,6 +117,12 @@ Why does demand slope down? At a lower rate, Country A's goods are cheaper in BC
 
 **Worked example 3 (imports).** Now suppose a boom in spending on imports shifts supply right by 30: S' = 30r + 25. Set D = S': 145 − 30r = 30r + 25, so 120 = 60r and r = 2.00. Quantity is 145 − 60 = 85. The rate has fallen from 2.50 to 2.00.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--12-speculators-loop.webp" width="900" height="880" alt="A four step loop: speculators expect the AC to rise, buy it, demand shifts right, the rate rises and the expectation comes true. If they expect a fall they sell and the rate falls." loading="lazy">
+  <figcaption>Speculators' expectations can partly come true through their own buying or selling.</figcaption>
+</figure>
+
+
 ## c) Appreciation and revaluation
 
 **Appreciation** happens when market forces in a floating system push a currency's value up against another currency. **Revaluation** is a rise in the value of a currency that the government or central bank chooses, when it sets the rate (a fixed system). The effect on trade is the same. Only the cause differs.
@@ -106,6 +138,17 @@ Notice the 20% and 16.7% are not equal. A percentage change in the rate and the 
 **Effect on demand.** Dearer exports mean foreign buyers cut back, so the quantity of exports demanded falls. Cheaper imports mean residents buy more, so the quantity of imports rises. The size of these changes depends on price elasticity of demand (see the [elasticity guide](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use/)).
 
 **Effect on the current account.** Look at the balance on goods and services, which is exports minus imports within the [current account](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments/). Appreciation usually reduces export earnings and raises spending on imports if demand for imports is elastic (more units bought at a lower price), so the current account tends to move towards deficit, or the surplus shrinks. If demand for exports is very inelastic, export earnings could even rise because the price rise outweighs the small fall in quantity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--02-fx-price-effects.webp" width="900" height="940" alt="Paired bars: when the AC appreciates from 2.50 to 3.00 a toy rises from 75 to 90 BC (+20%) and a jacket falls from 4.80 to 4.00 AC (-16.7%). When it depreciates to 2.00 the toy falls to 60 BC and the jacket rises to 6.00 AC (+25%)." loading="lazy">
+  <figcaption>Appreciation makes exports dearer and imports cheaper; depreciation does the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
 
 ## d) Depreciation and devaluation
 
@@ -139,6 +182,12 @@ After depreciation to 2.00, suppose price elasticity of demand for exports is 1.
 
 Depreciation improves the current account only if the extra export earnings (and fall in import quantities) outweigh the higher price paid for each import. With inelastic demand it may not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--03-fx-elasticity-current-account.webp" width="900" height="960" alt="Three bars of current account balance in AC: -42,000 before, -9,000 after depreciation if demand is elastic, -57,000 if demand is inelastic." loading="lazy">
+  <figcaption>Whether depreciation improves the current account depends on elasticity.</figcaption>
+</figure>
+
+
 ## Evaluating exchange rate changes
 
 Good evaluation compares the winners with the losers and says which conditions the result rests on.
@@ -150,6 +199,12 @@ Good evaluation compares the winners with the losers and says which conditions t
 - **Elasticity:** the larger the elasticities, the more likely a depreciation helps the current account.
 
 A short chain for an extended answer: depreciation, export prices fall abroad, demand for exports rises, export earnings rise (if elastic), import prices rise, import quantity falls, current account balance improves. Finish with a judgement that names what it depends on, such as elasticity and time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-exchange-rates-determination-appreciation-and--11-fx-winners-losers.webp" width="900" height="810" alt="A table of exporters, import buyers and firms using imported inputs showing who gains or loses from appreciation and from depreciation. A note says the effect on the current account depends on elasticity and time." loading="lazy">
+  <figcaption>Exchange rate changes create winners and losers, and the current account effect depends on elasticity and time.</figcaption>
+</figure>
+
 
 ## Common errors
 

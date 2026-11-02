@@ -36,6 +36,12 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Factors influencing different rates:** borrower **risk** (riskier borrower → higher rate), **loan/savings term length**, and the wider rate level set by the **central bank**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ## Government income and expenditure (3.2.1.2)
 
 Two **separate** classification axes — a frequently conflated pair:
@@ -46,6 +52,12 @@ Two **separate** classification axes — a frequently conflated pair:
 | **Burden by income** | **Progressive** vs. **regressive** | Progressive = larger % of income from higher earners. Regressive = larger % of income from lower earners |
 
 **They combine independently** — e.g. income tax is typically both **direct and progressive**; VAT on a good is typically **indirect and (relative to income) regressive**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Worked example: interest calculation and behaviour
 
@@ -77,6 +89,12 @@ Burden by income:   a fixed amount per packet takes a LARGER
 ```
 
 This example shows why indirect taxes are frequently (though not automatically) regressive -- a fixed charge is a larger share of a smaller income -- which is exactly the kind of reasoning link between the two classification axes that a strong exam answer makes explicit, rather than treating direct/indirect and progressive/regressive as two facts to memorise independently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-interest-rates-revision-notes--01-cigarette-tax-two-axes.webp" width="900" height="1010" alt="A fixed tax of 10 pounds a week is collected by the retailer in the price and passed to government, so it is indirect. A low earner on 200 pounds pays 5 percent of income and a high earner on 1,000 pounds pays 1 percent, so it is regressive." loading="lazy">
+  <figcaption>One fixed tax, classified on two separate axes.</figcaption>
+</figure>
+
 
 ## Government spending and revenue in outline
 

@@ -63,6 +63,12 @@ structures); motivation in theory and practice; leadership
 - 1.3.5 Entrepreneurs and leaders — the role of enterprising
 individuals and leadership in business start-up and growth
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Meeting customer needs (1.3.1) and the market (1.3.2) are the most

@@ -77,6 +77,12 @@ A **business plan** is a document that sets out what a new or growing business i
 
 The market research section would back up her sales forecast, and the marketing section would explain why commuters will choose her shop. A lender reading the plan can see how the loan is covered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--05-plan-eight-parts.webp" width="900" height="1030" alt="A page with eight numbered sections: overview, objectives, resources, market research, marketing, finance, people, operations, each with what it contains." loading="lazy">
+  <figcaption>The eight key elements of a business plan and what each contains.</figcaption>
+</figure>
+
+
 ### Why governments support business start-ups
 
 New businesses matter to a country's economy. Governments may want to:
@@ -86,6 +92,12 @@ New businesses matter to a country's economy. Governments may want to:
 - **increase competition**, which can lead to better quality and lower prices for consumers;
 - **encourage innovation and new products**;
 - **support economic growth** and local development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--06-govt-how-why.webp" width="900" height="860" alt="Left: grants, advice, low-cost loans, training schemes. Right: jobs, tax revenue, competition, innovation, growth and local development. A why answer gives the benefit to the country." loading="lazy">
+  <figcaption>How the government helps new firms (left) and why it wants to (right).</figcaption>
+</figure>
+
 
 ### How governments support start-ups
 
@@ -97,6 +109,17 @@ New businesses matter to a country's economy. Governments may want to:
 | Training schemes | Skills for the owner and workers |
 
 When asked "how", name the method and say what it does. When asked "why", give the benefit to the country, not to the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--01-start-up-funding.webp" width="900" height="720" alt="Harkwell Bakery needs 24,000 pounds. Savings of 9,000 (37.5%), a grant of 6,000 (25%, never repaid) and a loan of 9,000 (37.5%) add up to the 24,000 needed, so the plan is fully funded." loading="lazy">
+  <figcaption>Harkwell Bakery's £24,000 start-up costs are covered by savings, a grant and a loan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
+  <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
+</figure>
+
 
 ## 1.3.2 The methods and problems of measuring business size
 
@@ -129,6 +152,22 @@ A standard form of capital employed is total assets less current liabilities, so
 
 Conclusion: Cullerton is much bigger by number employed but only slightly bigger by sales revenue. Pennywick uses far less labour for each pound of sales. The best answer says which method suits the purpose, and that using more than one gives a fairer picture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--02-two-sizes-two-answers.webp" width="900" height="1070" alt="Cullerton Textiles (420 employees, £8.4m sales) is 12 times larger than Pennywick Toys (35 employees, £7.0m) by employees but only 1.2 times larger by sales. Sales per employee are £20,000 and £200,000." loading="lazy">
+  <figcaption>Employees and sales revenue give different answers about which firm is bigger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
+  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
+</figure>
+
+
 ## 1.3.3 Why some businesses grow and others remain small
 
 ### Why owners may want to grow
@@ -149,6 +188,12 @@ Conclusion: Cullerton is much bigger by number employed but only slightly bigger
 - Percentage growth = 0.6 ÷ 2.5 × 100 = 24%.
 
 *Advantages:* the owner keeps control and growth is steady. *Disadvantages:* it is slow, it needs finance from profits or loans, and new products can fail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--07-ravenhall-24.webp" width="900" height="890" alt="Bars of 2.5 and 3.1 million pounds; increase 0.6 million; 0.6 / 2.5 x 100 = 24 percent." loading="lazy">
+  <figcaption>Percentage growth is the increase divided by the original, times 100.</figcaption>
+</figure>
+
 
 ### External growth
 
@@ -173,6 +218,17 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
 | Vertical integration can secure supplies or outlets | Conflicts and job losses can lower morale |
 | Horizontal integration removes a competitor | Customers may dislike the change |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--08-horizontal-vertical.webp" width="900" height="880" alt="Horizontal: Mossgrove 6 percent plus a rival 9 percent = 15 percent. Vertical: flour mill, baker, retailer chain with a baker taking over a mill." loading="lazy">
+  <figcaption>Horizontal integration joins firms at the same stage; vertical joins different stages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+
 ### Problems linked to growth
 
 - **Cash flow strain**, because growth costs money before it brings money in.
@@ -190,6 +246,12 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
 - **Personal service** is the selling point and cannot be copied at scale.
 - The owner is **content with the income** and lifestyle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--05-grow-or-stay-small.webp" width="900" height="940" alt="Owners may grow a business for more profit, a bigger market share and a better chance of surviving competition. Others stay small to keep personal control, because the market is small or niche, or because the extra risk and complexity are not worth it." loading="lazy">
+  <figcaption>Owners choose to grow for profit, share and survival, or stay small for control, a niche market or less risk.</figcaption>
+</figure>
+
+
 ## 1.3.4 Why some businesses succeed and others fail
 
 | Factor | Helps success when | Leads to failure when |
@@ -202,6 +264,12 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
 | Level of competition | Few close rivals | Strong rivals cut prices or copy the product |
 
 **Worked example 5.** Stainmore Joinery makes bespoke kitchens. Its owner won large orders but did not plan cash. Materials were paid for weeks before customers paid, so the firm could not pay a supplier and stopped trading. The factors are *management skills* (poor cash planning) and *availability of finance*. The product was suitable and demand was good, so failure was not caused by those.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--09-stainmore-factors.webp" width="900" height="1007" alt="Timeline of supplier paid weeks before the customer. Six factors: management skills and availability of finance are the causes; product and demand were fine; economy and competition are not in the case." loading="lazy">
+  <figcaption>Applying the six success and failure factors to Stainmore Joinery.</figcaption>
+</figure>
+
 
 ## Common errors
 

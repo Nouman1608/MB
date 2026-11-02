@@ -47,6 +47,12 @@ Build every answer from four strands:
 
 Compare sources: embryonic (pluripotent, wide range, embryo destroyed), adult (no embryo destroyed, narrower range), cord blood (harmless to collect, limited range).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
+
 ## Differential gene expression (3.18)
 
 Method in steps, for any "explain how a cell became specialised" question:
@@ -62,6 +68,12 @@ Say "expressed", never "has different genes". The idea applies to animals and pl
 
 **Worked reminder.** Relative mRNA: gene P is 0 in cell X and 85 in cell Y; gene Q is 60 in both. Q is expressed in both cell types; P is switched on only in Y. The cells have the same genes but different expression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
+
 ## Alternative splicing (3.19)
 
 * Pre-mRNA has exons and introns. Introns are removed and exons joined to form mature mRNA.
@@ -76,6 +88,12 @@ Say "expressed", never "has different genes". The idea applies to animals and pl
 
 Divide by 3, then subtract 1 for the stop codon, which codes for no amino acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
+
 ## Genotype, environment and epigenetics (3.20)
 
 | Idea | Key points |
@@ -89,6 +107,12 @@ Divide by 3, then subtract 1 for the stop codon, which codes for no amino acid.
 Epigenetic change alters activity, not the base sequence. It is how a specialised cell lineage keeps its identity through many mitoses.
 
 **Worked reminder.** A promoter has 30 CpG sites and 12 are methylated: 12 ÷ 30 × 100 = **40% methylated**. If methylation rose, expect less mRNA from that gene.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
 
 ## Multiple alleles and polygenic inheritance (3.21)
 

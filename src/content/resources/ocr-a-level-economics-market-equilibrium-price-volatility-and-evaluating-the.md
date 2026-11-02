@@ -75,6 +75,17 @@ L = 1,000 − 60(8) = 520   (check: −200 + 720 = 520)
 
 Equilibrium is a wage of £8 an hour and 520 workers. Labour demand is a **derived demand**: firms hire because customers want what the workers make. If demand for the final product falls, labour demand shifts left. At Ld = 880 − 60w, 1,080 = 150w, so w = £7.20 and L = 448. The wage falls by 10% and employment by 13.85%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--01-eq-three-markets.webp" width="900" height="1170" alt="Three demand and supply diagrams: honey at £14 and 360 jars, loanable funds at 4% and £700 million, and labour at £8 an hour and 520 workers. Each has demand sloping down and supply sloping up, crossing at the equilibrium. The method is the same in each market." loading="lazy">
+  <figcaption>Product, financial and factor markets all settle where quantity demanded equals quantity supplied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--06-financial-markets-loanable-bond.webp" width="900" height="910" alt="Loanable funds: Ld = 900 - 50r and Ls = 300 + 100r meet at 4% and 700m; saving of 60m more gives Ls = 360 + 100r, 3.6% and 720m. A bond paying 50 pounds yields 5.0% at 1,000 and 6.25% at 800." loading="lazy">
+  <figcaption>In financial markets the price is an interest rate or yield, and a lower bond price means a higher yield.</figcaption>
+</figure>
+
+
 ## 2. From one equilibrium to another
 
 Use this routine every time.
@@ -100,6 +111,17 @@ Demand down, supply down: Q down, P uncertain
 
 A movement along a curve comes only from a change in that good's own price; every other cause shifts the curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--02-eq-honey-shifts.webp" width="900" height="1040" alt="Honey market with original equilibrium A at £14 and 360 jars. Demand rising by 80 moves it to B at £15.60 and 408 jars; supply falling by 60 moves it to C at £15.20 and 336 jars; both together give D at £16.80 and 384 jars. Price rises in every case but quantity depends on the relative shifts." loading="lazy">
+  <figcaption>Honey demand up gives B, supply down gives C, both give D: price is certain to rise, quantity is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
+  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
+</figure>
+
+
 ## 3. Impact on related markets
 
 Markets are linked, so a shock in one market passes to others. Evaluate the size of each link.
@@ -116,6 +138,17 @@ Markets are linked, so a shock in one market passes to others. Evaluate the size
 **Worked example (substitutes).** Suppose the jam market is Qd = 400 − 20Pj + 5Ph and Qs = −50 + 30Pj, where Pj and Ph are the prices of jam and honey. At Ph = £14, 470 − 20Pj = −50 + 30Pj, so Pj = £10.40 and Q = 262. When honey rises to £15.20, 476 − 20Pj = −50 + 30Pj, so Pj = £10.52 and Q = 265.6. The jam price rises 1.15% and quantity 1.37%. The link is real but small, because jam is only a loose substitute.
 
 The strength of a knock-on effect depends on how close the goods are, how long the change lasts, how much spare capacity there is, and whether the second market has its own larger shocks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--07-jam-honey-substitutes.webp" width="900" height="890" alt="Honey rises from 14 to 15.20 pounds, shifting jam demand right by 6 jars. On zoomed axes jam moves from 10.40 and 262 to 10.52 and 265.6: price +1.15%, quantity +1.37%." loading="lazy">
+  <figcaption>A rise in the price of a substitute shifts demand right, but for a loose substitute the effect is small.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
 
 ## 4. Disequilibrium: causes and consequences
 
@@ -136,6 +169,17 @@ Consequences depend on the direction.
 
 In a free market, a surplus pulls the price down and a shortage pushes it up. The adjustment takes time, and how long is part of the evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--08-honey-surplus-shortage-numbers.webp" width="900" height="850" alt="Honey demand and supply meet at 14 pounds and 360. At 18 pounds Qd is 280 and Qs 480, a surplus of 200. At 10 pounds Qd is 440 and Qs 240, a shortage of 200." loading="lazy">
+  <figcaption>A surplus pulls the price down and a shortage pushes it up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+
 ## 5. Why price and output can be volatile
 
 Volatility means large and frequent changes in price or output. It is most likely when both demand and supply are inelastic, when supply cannot respond quickly, and when shocks are common.
@@ -154,6 +198,17 @@ A 16.67% change in output produces a 40% change in price. If demand were more el
 
 **Other causes.** Weather and disease, speculation that amplifies price moves, swings in global demand, and the cost of storing perishable goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--03-eq-steep-curves-volatility.webp" width="900" height="1010" alt="Two diagrams with vertical supply at harvests of 100, 120 and 140 units. Inelastic demand gives prices 14, 10 and 6 pounds; more elastic demand gives 11, 10 and 9. Farmers revenue with inelastic demand is 1,400, 1,200 and 840." loading="lazy">
+  <figcaption>The same 16.67% harvest swing moves price 40% when demand is inelastic and 10% when it is more elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--04-eq-cobweb.webp" width="900" height="920" alt="A cobweb path between demand and lagged supply starting at £24 and spiralling in through 18, 21, 19.50, 20.25 and 19.875 to the equilibrium of £20 and 90 units. The cycles settle because supply responds less than demand does." loading="lazy">
+  <figcaption>When supply responds to last year’s price, prices spiral in towards £20.</figcaption>
+</figure>
+
+
 ## 6. Usefulness of the model: commodities, housing and transport
 
 | Market | Why the model fits | Why it fits less well |
@@ -165,6 +220,17 @@ A 16.67% change in output produces a 40% change in price. If demand were more el
 **Housing (worked example).** The stock of homes is fixed at 800 in the short run, with demand Qd = 2,000 − 10P (P in £ thousand). Equilibrium is P = 120. If easier credit lifts demand to Qd = 2,100 − 10P, price rises to £130 thousand (+8.33%) and quantity stays at 800 until builders respond. The model predicts the short-run effect well but says little about how long building takes.
 
 **Transport (worked example).** A train has 600 seats. Peak demand is Qd = 1,000 − 40P and off-peak demand is Qd = 700 − 40P. At a flat £6 fare, peak demand is 760, so 160 passengers cannot be seated. Off-peak demand is 460, leaving 140 empty seats. Market-clearing fares would be £10 at peak and £2.50 off-peak. The model explains higher peak fares but not the congestion costs travellers impose on each other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--05-eq-train-peak-offpeak.webp" width="900" height="940" alt="Two diagrams with 600 fixed seats. Peak demand at £6 is 760, a shortage of 160, with a clearing fare of £10. Off-peak demand at £6 is 460, leaving 140 empty seats, with a clearing fare of £2.50." loading="lazy">
+  <figcaption>At a flat £6 fare the peak train has 160 passengers who cannot sit and the off-peak train 140 empty seats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--09-housing-fixed-stock.webp" width="900" height="830" alt="Supply is a vertical line at 800 homes. Demand 2,000 - 10P gives 120 thousand pounds; demand 2,100 - 10P gives 130 thousand (+8.33%) with quantity still 800 until builders respond." loading="lazy">
+  <figcaption>With a fixed stock, a rise in demand shows up entirely as a higher price in the short run.</figcaption>
+</figure>
+
 
 ## 7. Assumptions, techniques and judgement
 

@@ -77,6 +77,12 @@ A savings account starts at 500 and grows by 4% each year. The algorithm adds 4%
 
 After year 5 the test is true, so the output is **5 years**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--06-myp-savings-loop-trace.webp" width="900" height="925" alt="Balances 500, 520.00, 540.80, 562.43, 584.93 and 608.33 plotted against a dashed line at 600. The test is no for years 1 to 4 and yes after year 5, so the output is 5 years." loading="lazy">
+  <figcaption>The loop stops in year 5 when the balance first passes 600.</figcaption>
+</figure>
+
+
 ### Analysing an algorithm
 
 When you analyse a procedure, ask four questions.
@@ -89,6 +95,22 @@ When you analyse a procedure, ask four questions.
 Take the "halve-and-average" method for a square root. To find √20 start with a guess x = 4 and repeatedly replace x by (x + 20/x) ÷ 2. The values are 4.5, then 4.4722, then 4.47214. The true value is 4.47214 to 5 decimal places, so the sequence settles after three passes. It needs a stopping rule: stop when two successive values agree to the accuracy you need.
 
 To compare efficiency, suppose a sorted list has 1000 names. A **linear search** checks one name at a time and needs up to 1000 checks. A **halving search** checks the middle name, discards half the list, and repeats; it needs at most 10 checks, because 2¹⁰ = 1024 is the first power of 2 above 1001. The halving search only works if the list is sorted, which is a condition on the input.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--01-euclid-flowchart-trace.webp" width="900" height="990" alt="Flowchart of Euclid’s algorithm with start and stop ovals, input and output parallelograms, a remainder process box and an r = 0 decision with a looping no branch. The trace table for a = 391 and b = 221 has four passes ending with r = 0. The output b = 17 is the highest common factor." loading="lazy">
+  <figcaption>The same procedure as a flowchart and as a trace table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--07-myp-halve-average-sqrt.webp" width="900" height="930" alt="Starting from 4, the values 4.5, 4.4722, 4.47214 and 4.47214 are correct to 1, 3, 5 and 5 decimal places; two equal passes trigger the stopping rule." loading="lazy">
+  <figcaption>Each pass fixes more decimal places until two passes agree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--08-myp-search-efficiency.webp" width="900" height="1140" alt="A long bar for up to 1000 linear checks beside a tiny bar for at most 10 halving checks, with the list size 1000, 500, 250, 125, 62, 31, 15, 7, 3, 1 before each halving check." loading="lazy">
+  <figcaption>Halving a sorted list needs at most 10 checks for 1000 names.</figcaption>
+</figure>
+
 
 ## 2. Inequalities and linear programming (extended)
 
@@ -105,6 +127,22 @@ To compare efficiency, suppose a sorted list has 1000 names. A **linear search**
 To show an inequality on a graph, draw its boundary line first. Draw a **solid line** when the boundary is included (≤, ≥) and a **dashed line** when it is not (<, >). Then test a point not on the line (the origin is easy when the line misses it) and shade the side that makes the statement true. Say whether you shade the wanted or the unwanted side.
 
 Example: show 2x + y < 8, x ≥ 1 and y > 0. The boundary 2x + y = 8 is dashed. At the origin 0 < 8 is true, so the side containing the origin is wanted. The wanted region is a triangle with corners (1, 0), (4, 0) and (1, 6). The edges 2x + y = 8 and y = 0 are not included because those inequalities are strict; the edge x = 1 is included.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--09-myp-strict-inequality-region.webp" width="900" height="1140" alt="The triangle with corners (1, 0), (4, 0), (1, 6): x = 1 is solid, the other two edges dashed, and all three corners are open circles because each lies on a strict edge. (2, 2) is inside." loading="lazy">
+  <figcaption>Solid edges are included, dashed ones are not, so all three corners are excluded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
 
 ### Linear programming
 
@@ -145,6 +183,12 @@ The best plan is **10 candles and 15 soaps, giving a profit of 170**. Both slant
 
 If the variables must be whole numbers, check that the best corner has integer coordinates. If it does not, test the whole-number points inside the region near it. Rounding is not guaranteed to give the best answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--02-lp-candle-stall.webp" width="900" height="1090" alt="Graph of candles x against soaps y with the feasible region bounded by the axes, 3x + 2y = 60 and x + y = 25. Corners O(0,0), A(20,0), B(10,15) and C(0,25) give profits 0, 160, 170 and 150. A dashed profit line 8x + 6y = 170 touches the region only at B." loading="lazy">
+  <figcaption>The feasible region, its four corners and the best corner B(10, 15) with P = 170.</figcaption>
+</figure>
+
+
 ## 3. Networks and weighted networks (extended)
 
 A **network** is a set of **vertices** (also called **nodes**) joined by **edges** (also called **arcs**). Some authors keep "arc" for an edge with a direction; always check which meaning a question uses. A **path** is a sequence of edges that takes you from one vertex to another without passing through any vertex twice. The **degree** of a vertex counts the edges that end there. In a **connected** network every vertex can be reached from every other.
@@ -184,6 +228,17 @@ For the network above:
 Vertex F ends with label 13. Tracing back gives F from E, E from D, D from B, B from C, C from A. The shortest path is **A-C-B-D-E-F, length 13**. It uses the weight-1 edge BC, which a nearest-neighbour approach would miss.
 
 In a directed network the labelling is identical, except that you only follow arcs in the direction of their arrows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--03-shortest-path-labelling.webp" width="900" height="940" alt="Six-vertex weighted network with the final label on each vertex (A 0, B 3, C 2, D 8, E 10, F 13). The shortest path A-C-B-D-E-F, length 13, is highlighted. A-B-D-F and A-C-E-F are both 15." loading="lazy">
+  <figcaption>Final labels and the shortest path A-C-B-D-E-F = 13.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--10-myp-degree-sum-check.webp" width="900" height="910" alt="Network with six vertices and nine edges. Degrees 2, 3, 4, 4, 3, 2 add to 18, which is 9 edges times 2 ends." loading="lazy">
+  <figcaption>The degrees add up to twice the number of edges.</figcaption>
+</figure>
+
 
 ## 4. Applications and limitations of models
 

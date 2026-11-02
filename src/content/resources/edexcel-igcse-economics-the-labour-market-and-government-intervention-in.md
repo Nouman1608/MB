@@ -50,6 +50,12 @@ Three factors shift demand for labour:
 
 Quantity versus demand: a new wage only slides you along the demand curve. The three factors above shift the whole curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--04-town-t-labour-shifts.webp" width="900" height="1260" alt="Two diagrams for Town T. Demand up by 100 moves equilibrium to wage 11 and 550 workers. Supply down by 100 moves it to wage 11 and 450 workers." loading="lazy">
+  <figcaption>Demand and supply shifts change the wage and employment as the lesson table states.</figcaption>
+</figure>
+
+
 ## The supply of labour (1.2.5 b)
 
 Supply of labour is the number of people willing and able to work at each wage.
@@ -82,6 +88,12 @@ Chain for a firm: training builds skills, output per worker rises, cost per unit
 **Quantity against quality.** Firm A has 40 workers making 20 units an hour each (800 units). Firm B has 30 workers making 28 each (840 units). Quality can beat quantity.
 
 Costs of training: fees, lost output while staff train, and the risk that trained staff leave for rivals. For the economy, a better educated workforce raises productivity and incomes. See [factors of production and productivity](/resources/edexcel-igcse-economics-factors-of-production-sectors-productivity-and/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--06-lm-training-cost.webp" width="900" height="920" alt="Two panels. Before training a worker makes 20 units an hour, so labour cost per unit is 12 divided by 20, which is 0.60. After training the worker makes 26 units, so the cost is 12 divided by 26, which is 0.46 to two decimal places. The fall is about 23 percent. The wage is 12 an hour in both." loading="lazy">
+  <figcaption>The same wage of 12 an hour buys 26 units instead of 20, so labour cost per unit falls from 0.60 to 0.46 (about 23%).</figcaption>
+</figure>
+
 
 ## Labour market diagrams (1.2.5 e)
 
@@ -148,6 +160,27 @@ An externality is a spillover cost or benefit felt by third parties. A factory's
 - Advantages: certain cap, flexible, rewards cleaner firms.
 - Disadvantages: need to set the cap and monitor firms, big firms may buy up permits, may not reduce pollution much if the cap is high.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--05-pollution-tax-incidence.webp" width="900" height="1000" alt="Market diagram with demand 100-2Q and supply 20+2Q, equilibrium output 20 at 60. A tax of 16 moves supply up to the social cost curve, output 16, buyers pay 68 and producers keep 52. Revenue is 256." loading="lazy">
+  <figcaption>A tax equal to the spillover cost cuts output to the social optimum and is shared 8 and 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--07-lm-subsidy-solar.webp" width="900" height="950" alt="Market diagram. Demand is price equals 90 minus Q and supply is 30 plus Q, crossing at 30 units and price 60. A subsidy of 10 per unit shifts supply down to 20 plus Q. Output rises to 35, buyers pay 55 and producers receive 65. The government pays 10 times 35, which is 350." loading="lazy">
+  <figcaption>A 10 subsidy lifts output from 30 to 35; buyers pay 55, producers receive 65 and the government pays 350.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--08-lm-fine-deterrence.webp" width="900" height="880" alt="A dashed line at 24,000 marks what a firm saves by dumping waste. With a 60,000 fine and a 30 percent chance of being caught the expected cost is 18,000, below the saving, so the firm still dumps. With a 100,000 fine the expected cost is 30,000, above the saving, so the firm is deterred." loading="lazy">
+  <figcaption>A 30% chance of being caught makes a 60,000 fine cost 18,000 in expectation, below the 24,000 saved, so only the 100,000 fine deters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--09-lm-permit-trading.webp" width="900" height="800" alt="Firm X must cut 20 tonnes and could do so at 40 a tonne, costing 800. Firm Y can cut at 15 a tonne. Permits trade at 25. X buys 20 permits for 500, saving 300. Y cuts an extra 20 tonnes at a cost of 300 and earns 500, a net gain of 200. Total pollution is unchanged but the real cost of cutting falls from 800 to 300." loading="lazy">
+  <figcaption>Firm Y cuts pollution cheaply and sells permits at 25 a tonne to Firm X, so the same 20-tonne cut costs less overall.</figcaption>
+</figure>
+
+
 ## Regulating competition (1.2.6 c)
 
 Governments use competition rules to:
@@ -159,6 +192,12 @@ Governments use competition rules to:
 **Worked example.** Four firms have market shares of 35%, 25%, 20% and 20%. The first two propose to merge: 35 + 25 = 60% of the market. The regulator is likely to be concerned, because the larger firm could raise price. If price rises from 8 to 10, that is a 25% rise and, on 50,000 units, consumers pay an extra 2 × 50,000 = 100,000.
 
 Evaluation: rules cost money to enforce, and a merger may bring economies of scale and lower costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--10-lm-merger-share.webp" width="900" height="950" alt="Top: market shares of four firms are 35, 25, 20 and 20 percent. If the first two merge they hold 35 plus 25, which is 60 percent. Bottom: if the merged firm raises price from 8 to 10, a 25 percent rise, buyers of 50,000 units pay an extra 2 times 50,000, which is 100,000." loading="lazy">
+  <figcaption>Two firms with 35% and 25% merge to hold 60%; if price then rises from 8 to 10, 50,000 buyers pay 100,000 more.</figcaption>
+</figure>
+
 
 ## Minimum wage (1.2.6 d)
 
@@ -178,6 +217,12 @@ Introducing: draw a horizontal line above equilibrium, find demand and supply at
 | Reduces reliance on benefits | May not help poor households with no earner |
 
 **Small business example.** A bakery has 6 staff working 35 hours for 50 weeks, which is 10,500 hours. A rise from 9.00 to 10.50 is 16.7%, adding 1.50 × 10,500 = 15,750 to the wage bill (from 94,500 to 110,250).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-labour-market-and-government-intervention-in--03-town-t-minimum-wage.webp" width="900" height="1000" alt="Labour market diagram for Town T with equilibrium wage 10 and 500 workers. A minimum wage of 12 gives 400 demanded and 600 supplied, a surplus of 200. Employment falls 20% and the wage bill from 5,000 to 4,800. A floor of 9 has no effect." loading="lazy">
+  <figcaption>A minimum wage above equilibrium cuts employment; below equilibrium it does nothing.</figcaption>
+</figure>
+
 
 ## Common errors
 

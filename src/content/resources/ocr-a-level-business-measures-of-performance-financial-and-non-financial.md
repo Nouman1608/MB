@@ -40,6 +40,17 @@ Use the [OCR A Level Business hub](/boards/ocr/a-level/business/), the [printabl
 
 A **financial measure** is expressed in money terms or derived from money figures, such as profit, a ratio built from the accounts, or a cash balance. A **non-financial measure** describes performance in other units: percentages of customers satisfied, units of waste, hours of machine time. The measures the specification names are final accounts, ratio analysis, gearing, cash flow, budgets and variance analysis on the financial side, and market share, resource utilisation, environmental impact, quality and customer satisfaction on the other. "Etc." in the text means you may add others, such as staff turnover or delivery times.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--02-hallbrook-nonfinancial.webp" width="900" height="930" alt="Paired bars: market share 6.0 to 5.3 percent, capacity used 82 to 91, landfill up 9 percent, rework 2.5 to 4.8, satisfaction 92 to 84. Revenue +14.3 percent against market +28.6 percent." loading="lazy">
+  <figcaption>Five non-financial measures show Hallbrook under strain even in a growth year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+
 ## Final accounts and measures of profit
 
 The final accounts are the **income statement** and the **statement of financial position**. The income statement gives three profit measures:
@@ -49,6 +60,12 @@ The final accounts are the **income statement** and the **statement of financial
 * **Net profit** = operating profit minus finance costs (tax is ignored in the examples here).
 
 The statement of financial position lists non-current assets, current assets (inventory, receivables, cash), current liabilities (payables), non-current liabilities, and the shareholders' equity that funds them. It is a snapshot at one date, so it shows what the business owns and owes, not how it traded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## Ratio analysis
 
@@ -89,6 +106,17 @@ Current assets are £240,000 then £290,000, so the current ratio falls from 2.4
 
 **Interpretation.** Revenue rose by 14.3%, yet profit fell sharply, so growth was bought with lower margins and more working capital. Cash fell from £40,000 to £10,000 while customers took longer to pay and borrowing rose. An acid test below 1 means liquid assets no longer cover short-term debts. The weakness is liquidity and profitability together. A fair judgement also notes that two years is a short trend, and that Hallbrook's own targets and its rivals' ratios would show how serious this is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-ratios.webp" width="900" height="1050" alt="Paired bars compare Hallbrook Year 1 with Year 2: gross margin 40.0 to 35.0 percent, net margin 8.6 to 3.1, ROCE 15.0 to 8.3, gearing 26.8 to 34.5, acid test 1.30 to 0.88 and interest cover 7.0 to 2.7 times." loading="lazy">
+  <figcaption>Revenue rose 14.3 percent, but margins, returns, liquidity and cover all weakened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-efficiency.webp" width="900" height="990" alt="Bars for stock turnover (4.58 to 4.16 times) and debtor days (39.1 to 49.4 days) with the formulas and the lesson numbers." loading="lazy">
+  <figcaption>Stock turns slow and customers take longer to pay.</figcaption>
+</figure>
+
+
 ## Gearing
 
 Gearing shows how much of the capital employed comes from long-term borrowing. Higher gearing means more interest to pay whatever the trading result, and more exposure if interest rates rise. It can also raise returns to shareholders when profit is high. Interest cover tests the burden directly: Hallbrook's 2.7 times means a further fall in operating profit of about 62% would leave nothing for interest.
@@ -112,6 +140,17 @@ Customers pay half in the month of sale and half the month after. Ingredients co
 
 Penmarsh earns £12,700 profit over the quarter yet runs out of cash in March: the oven is paid for immediately, and half of March's sales are still owed. Profit does not show this. Strategies to overcome such a problem include an overdraft or loan, asking customers to pay sooner, delaying the purchase or leasing the oven. Each has a cost, so evaluate them against the size and length of the shortfall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--02-penmarsh-profit-cash.webp" width="900" height="1100" alt="Bars show profit and net cash flow for January to March, with closing cash 3,500, 5,400 and minus 2,100 pounds. March profit is 7,300 pounds but cash is overdrawn because the oven is paid at once and half of March sales are still owed." loading="lazy">
+  <figcaption>A business can be profitable and still run out of cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Budgets and variance analysis
 
 A **budget** is a financial plan for income and costs over a period. A **variance** is the difference between budget and actual. A variance is **favourable** if it raises profit (higher revenue, lower cost) and **adverse** if it lowers profit.
@@ -127,6 +166,17 @@ A **budget** is a financial plan for income and costs over a period. A **varianc
 | Profit | 30,000 | 15,000 | 15,000 adverse |
 
 Revenue is 8.0% under budget. Profit is half the plan. Cheaper labour partly offsets this, but may reflect fewer jobs rather than efficiency. Variance analysis tells managers where to look, not why. Possible causes are a price rise from suppliers, lost orders or poor forecasting, and the budget itself may have been unrealistic. Used well, it supports control and accountability; used rigidly, it can discourage sensible spending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--04-kitchen-variance-waterfall.webp" width="900" height="900" alt="Waterfall from budget profit 30,000 to actual 15,000: sales 12,000 adverse, materials 6,000 adverse, labour 3,000 favourable, overheads nil." loading="lazy">
+  <figcaption>Variances explain why profit is half the budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
 
 ## Why published accounts are not a complete picture
 
@@ -153,6 +203,12 @@ Businesses measure performance to see whether objectives are being met, to compa
 Different stakeholders prioritise different measures. Shareholders look at profit margins, ROCE and share-related returns. A bank looks at liquidity, gearing and interest cover. Employees look at job security, pay and turnover. Customers care about quality and satisfaction. Suppliers watch the payables position and payment record. The local community cares about environmental impact and jobs. Evaluating performance from one stakeholder's view means choosing the measures that matter to them and judging against their interests.
 
 To evaluate overall, combine both kinds of measure, compare over time or against a benchmark, and reach a reasoned judgement. Hallbrook's lenders would worry about the falling acid test and interest cover. Its customers would worry about rework. Its owners would worry about ROCE. A strong answer says which concern is most urgent and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--03-stakeholder-measures.webp" width="900" height="821" alt="Shareholders watch ROCE, the bank watches acid test and interest cover, customers watch quality, employees watch pay and security (no figures in case)." loading="lazy">
+  <figcaption>Each stakeholder looks at different measures.</figcaption>
+</figure>
+
 
 ## Common errors
 

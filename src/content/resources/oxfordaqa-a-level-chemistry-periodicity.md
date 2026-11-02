@@ -100,6 +100,12 @@ An element sits in Period 4, Group 5 (15). State its block and write its electro
 Any element in the lanthanide or actinide rows is f block, even though the 9620 configuration work stops at
 Z = 36. You classify it from its position alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--01-blocks.webp" width="900" height="790" alt="The periodic table is shown as coloured cells: s block (groups 1 and 2 plus H and He), p block (groups 13 to 18), d block (centre) and f block (two rows below). Period 3, Na to Ar, is outlined, with Na and Mg in the s block and Al to Ar in the p block. Helium is flagged as s block because its configuration is 1s2." loading="lazy">
+  <figcaption>Block is set by the sub-shell of the last electron added, so helium is s block and Period 3 runs from s (Na, Mg) to p (Al to Ar).</figcaption>
+</figure>
+
+
 ## Period 3 data
 
 Every element from sodium to argon has its outer electrons in the **third shell**. Each step to the right
@@ -116,6 +122,12 @@ data tables (phosphorus as white P₄; sulfur as S₈).
 | S | 16 | p | 1000 | 388 | molecular, S₈ |
 | Cl | 17 | p | 1251 | 172 | molecular, Cl₂ |
 | Ar | 18 | p | 1521 | 84 | separate atoms |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--09-oxides-ph.webp" width="900" height="770" alt="A pH scale shows each oxide as a bar. Na2O (13 to 14) and MgO (9 to 10) are basic, Al2O3 is amphoteric and SiO2 acidic but both insoluble at pH 7, and P4O10 (0 to 1), SO2 (2 to 3) and SO3 (0 to 1) are acidic. Oxides change from basic to acidic across the period as bonding changes from ionic to molecular." loading="lazy">
+  <figcaption>A level only (AQA 3.2.4): across Period 3 the oxides go from basic (ionic) through amphoteric (Al2O3) to acidic (molecular).</figcaption>
+</figure>
+
 
 ## 3.2.1.2 Atomic radius
 
@@ -137,6 +149,12 @@ Explain why a silicon atom has a smaller radius than a magnesium atom.
 - Both atoms keep their outer electrons in the third shell, behind the same ten inner electrons, so the
   shielding is about the same.
 - The silicon nucleus therefore attracts its outer electrons more strongly and holds them closer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--02-radius.webp" width="900" height="960" alt="Circles for Na to Cl get smaller and carry nuclear charges +11 to +17. Gold bars show nuclear charge rising from 11 to 17 while teal bars show the 10 inner shielding electrons staying constant. More charge with the same shielding pulls the outer electrons closer." loading="lazy">
+  <figcaption>Across Period 3 nuclear charge rises but shielding stays the same, so atomic radius falls from Na to Cl.</figcaption>
+</figure>
+
 
 ## 3.2.1.2 First ionisation energy
 
@@ -178,6 +196,22 @@ The drop from phosphorus (1012) to sulfur (1000) is small. In phosphorus each 3p
 In sulfur one 3p orbital holds a pair, and the two electrons in it repel each other, so one of them is a
 little easier to remove.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--03-ionisation-energy.webp" width="900" height="800" alt="A graph of first ionisation energy for Na to Ar rises overall from 496 kJ per mole for Na to 1521 for Ar. The two dips, Al below Mg and S below P, are marked in gold." loading="lazy">
+  <figcaption>First ionisation energy generally rises from Na to Ar, with dips at Al and S.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--05-successive-ie.webp" width="900" height="840" alt="A log-scale bar chart shows the eight successive ionisation energies of oxygen. The first six rise gently, then there is a jump of about 5.35 times to the seventh. The six electrons before the jump are in the outer shell, so oxygen is in Group 16." loading="lazy">
+  <figcaption>OCR only: a large jump in successive ionisation energies marks the move to an inner shell, so the electrons before the jump give the group.</figcaption>
+</figure>
+
+
 ## 3.2.1.2 Melting point
 
 Across Period 3 the structure changes from metallic to macromolecular to molecular to single atoms. Melting
@@ -198,11 +232,23 @@ Na to Al:
 Each of these changes makes the metallic bonding stronger, so it takes more energy to melt the metal. The data show a large rise from Na to Mg (552 K) and a much smaller one from Mg to Al
 (10 K), but the direction is the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
+
 ### Silicon
 
 Silicon is **macromolecular (giant covalent)**: every atom is joined to four neighbours by covalent bonds, in
 a three-dimensional network like diamond. Melting means breaking a great many strong covalent bonds, so
 silicon has the highest melting point in the period, 754 K above aluminium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
 
 ### Phosphorus, sulfur and chlorine
 
@@ -239,6 +285,12 @@ Explain why aluminium has a much higher melting point than chlorine.
 - Chlorine is molecular (Cl₂). To melt it you separate whole Cl₂ molecules by overcoming weak van der
   Waals forces; the Cl–Cl bond itself is untouched.
 - Far more energy is needed for aluminium, so its melting point is far higher (933 K against 172 K).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
+  <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
+</figure>
+
 
 ## Reading Period 3 graphs
 

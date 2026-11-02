@@ -69,6 +69,12 @@ Physical separation only: no covalent bonds break.
 The specification lists no required practical in 3.3.2. Fractional distillation of a crude oil substitute
 is suggested as a skills opportunity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
+
 ## Cracking (3.3.2.2)
 
 | | Thermal | Catalytic |
@@ -95,6 +101,12 @@ is suggested as a skills opportunity.
 - Cracking converts low-value surplus into high-value products.
 - It makes alkenes, valuable starting materials for polymers and other chemicals.
 - Catalytic cracking makes motor fuels and aromatic hydrocarbons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Combustion (3.3.2.3)
 
@@ -149,6 +161,12 @@ C7H16 + 22NO → 7CO2 + 8H2O + 11N2
 - So they react and remove SO₂ from flue gases:
   CaO + SO₂ → CaSO₃ and CaCO₃ + SO₂ → CaSO₃ + CO₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Chlorination of methane (3.3.2.4)
 
 Condition: **UV light**. Type: **free-radical substitution**.
@@ -168,6 +186,12 @@ No curly arrows are required for radical mechanisms. The dot goes on the atom wi
 **Further substitution** gives CH₂Cl₂, CHCl₃ and CCl₄. Excess methane favours CH₃Cl; excess chlorine
 favours more substitution. Overall for full substitution: CH₄ + 4Cl₂ → CCl₄ + 4HCl. The products are
 [halogenoalkanes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/), the next topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

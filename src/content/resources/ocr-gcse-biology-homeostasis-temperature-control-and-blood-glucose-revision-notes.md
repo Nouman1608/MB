@@ -41,6 +41,12 @@ Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and [printable c
 3. An effector responds.
 4. The response reverses the change, and the level returns towards normal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--01-core-temperature-rise.webp" width="900" height="910" alt="Line graph of core temperature at 0, 10, 20 and 30 minutes: 37.0, 37.6, 38.1, 38.5 degrees C. Each 10-minute rise is 0.6, 0.5 then 0.4, so the rise slows. Total 1.5 degrees C in 30 minutes, 0.05 degrees C per minute." loading="lazy">
+  <figcaption>The rise in core temperature slows as negative feedback starts to work.</figcaption>
+</figure>
+
+
 ## B3.3b: The skin and temperature
 
 Skin receptors detect external temperature. The brain also monitors blood temperature. Impulses go to effectors.
@@ -68,6 +74,22 @@ Use this chain: **change detected, signal sent, effector, change in heat transfe
 
 If a table shows skin blood flow of 30 units at 15 °C and 90 units at 35 °C, the increase is 60 units. As a percentage, 60 ÷ 30 × 100 = **200%**. Explain it by vasodilation at the higher air temperature. If core temperature stays at 37 °C throughout, say that the response is keeping the internal environment constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--03-skin-temperature.webp" width="900" height="1260" alt="Two skin cross-sections. Too hot: wide arteriole, three large heat arrows, sweat evaporating, skin blood flow 240 units at 40 C. Too cold: narrow arteriole, a small heat arrow, no sweat, shivering muscle, flow 15 units at 10 C. The vessels stay in place; only their width changes." loading="lazy">
+  <figcaption>Same vessels, different width: that is vasodilation and vasoconstriction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--02-control-system-chain.webp" width="900" height="800" alt="Stimulus, receptors, coordination centre (thermoregulatory centre), effectors (sweat glands, skin vessels, muscles), response, with a feedback arrow back to the stimulus." loading="lazy">
+  <figcaption>Every control system has receptors, a coordination centre and effectors.</figcaption>
+</figure>
+
+
 ## B3.3c: Insulin and blood glucose
 
 Method in steps (glucose too high, for example after a meal):
@@ -89,6 +111,12 @@ Method in steps (glucose too high, for example after a meal):
 * Insulin falls back to its starting level once glucose is back near normal.
 * Quote values and times from the axes, for example "glucose peaks at 7.4 mmol/dm³ at 30 minutes".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--02-insulin-steps.webp" width="900" height="900" alt="Five steps: a meal raises blood glucose; the pancreas detects it; it releases insulin into the blood; liver and muscle cells take up glucose and store glycogen; glucose falls and insulin release falls." loading="lazy">
+  <figcaption>Insulin lowers blood glucose by making liver and muscle cells take it up.</figcaption>
+</figure>
+
+
 ## B3.3d: Glucagon (Higher Tier only)
 
 Glucagon is a second pancreatic hormone with the opposite effect to insulin.
@@ -106,6 +134,12 @@ Glucagon is a second pancreatic hormone with the opposite effect to insulin.
 * Typical situations that raise glucagon: skipping a meal, a long fast, or prolonged exercise using up glucose.
 * A strong answer states the trigger, the target organ, the change in the liver and the effect on blood glucose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
+
 ## B3.3e: Diabetes
 
 | | Type 1 | Type 2 |
@@ -120,6 +154,17 @@ Glucagon is a second pancreatic hormone with the opposite effect to insulin.
 * A glucose tolerance test shows how fast glucose is removed. After a glucose drink, a healthy person's level peaks and returns to normal within about 2 to 3 hours. In type 1 it starts high and stays very high. In type 2 it also starts raised and falls only slowly.
 * Treatment comparison: type 1 needs insulin because the body makes too little. Type 2 is often managed first with lifestyle change, because cells can still respond to insulin if sensitivity improves.
 * In both types, monitoring blood glucose helps people judge how well their treatment, diet and activity are working.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--04-glucose-tolerance-test.webp" width="900" height="930" alt="Line graph of glucose over 3 hours for P, Q, R using the lesson data. P rises to 7.6 and returns to 4.7 (healthy); Q starts at 9.5, peaks at 17.5 and stays high (type 1); R peaks at 14.8 and falls slowly to 12.0 (type 2)." loading="lazy">
+  <figcaption>Only the healthy person returns to the normal band.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--03-bmi-type2-survey.webp" width="900" height="900" alt="Bar chart: 1.5 percent (18 of 1200), 4.4 percent (66 of 1500) and 11 percent (88 of 800) have type 2 diabetes at BMI under 25, 25 to 29.9 and 30 or over. A positive correlation that does not prove cause." loading="lazy">
+  <figcaption>The percentage with type 2 diabetes rises with BMI in this survey of 3500 adults.</figcaption>
+</figure>
+
 
 ## Maths and data reminders
 

@@ -43,6 +43,22 @@ These notes condense Pearson Edexcel International Advanced Level Mathematics (Y
 
 The specification lists kinetic energy = ½mv² and potential energy = mgh as formulae you are expected to know.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--01-work-component.webp" width="900" height="740" alt="All boards. Force 40 N at 35° moves a trolley 12 m: components 32.8 N and 22.9 N, work 40×12×cos 35° = 393 J (OxfordAQA example 1)." loading="lazy">
+  <figcaption>Only the component of the force along the motion does work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--02-sign-of-work.webp" width="900" height="860" alt="All boards (OxfordAQA lesson table). Force at 0°, 90° and 180° to the motion gives work +Fd, 0 and −Fd." loading="lazy">
+  <figcaption>Work is positive along the motion, zero at right angles and negative against it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--06-impulse-vector.webp" width="900" height="1055" alt="Edexcel IAL only. Ball 0.4 kg changes velocity from (5i−2j) to (−i+4j): impulse mv−mu = (−2.4, 2.4) N s, magnitude 3.39 N s, force (−48, 48) N over 0.05 s." loading="lazy">
+  <figcaption>Impulse is the vector difference between final and initial momentum.</figcaption>
+</figure>
+
+
 ## 3.1 Method boxes
 
 **Work-energy problem**
@@ -65,9 +81,21 @@ The specification lists kinetic energy = ½mv² and potential energy = mgh as fo
 
 A lorry of mass 2000 kg has engine power 30 kW and resistance 1500 N on level ground. Maximum speed: F = R, so v = 30 000 / 1500 = 20 m s⁻¹. At 10 m s⁻¹ the driving force is 3000 N, so 2000a = 3000 − 1500 and a = 0.75 m s⁻².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--05-power-force-speed.webp" width="900" height="1010" alt="All boards. Car 900 kg, 24 kW, resistance 600 N, sin α = 1/20: F = P/v meets the needed 1041 N at 23.1 m/s; at 15 m/s F = 1600 N and a = 0.621 m/s²." loading="lazy">
+  <figcaption>A faster car has less driving force, and steady speed is where P/v equals the force needed.</figcaption>
+</figure>
+
+
 ### Worked reminder: braking against a resistance
 
 A car of mass 1200 kg is moving at 20 m s⁻¹ on level ground when the engine is switched off. A constant resistance of 400 N acts. Work-energy: ½ × 1200 × 400 = 400d, so d = 600 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--03-work-energy-slope.webp" width="900" height="870" alt="All boards. 12 kg crate, 90 N pull, 25 N resistance, 15 m up 20°: 1350 J of work becomes 603.3 J PE, 371.7 J KE and 375 J lost to resistance, v = 7.87 m/s." loading="lazy">
+  <figcaption>The work done by the driving force is shared between PE, KE and work against resistance.</figcaption>
+</figure>
+
 
 ### Worked reminder: up a smooth slope
 
@@ -100,6 +128,12 @@ Two equations, always:
 
 **Wall or plane.** Speed after = e × speed before, direction reversed. A ball dropped from height h rebounds to height e²h.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--07-direct-impact.webp" width="900" height="930" alt="Edexcel IAL only. 2 kg at 5 m/s hits 3 kg at 1 m/s with e = 0.6: speeds 1.16 and 3.56 m/s, KE 26.5 J to 20.356 J." loading="lazy">
+  <figcaption>Use conservation of momentum and the restitution law together; kinetic energy is lost when e &lt; 1.</figcaption>
+</figure>
+
+
 ## 4.3 Successive impacts
 
 1. Solve the first impact with both equations.
@@ -119,6 +153,12 @@ So a = 0.25, b = 1.5
 ```
 
 Both now move towards the wall, with Q ahead and faster, so for now they separate. Q then reaches the wall again and returns at 0.5 m s⁻¹, while P is still moving towards the wall at 0.25 m s⁻¹, so a third impact between P and Q follows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--08-wall-successive-impacts.webp" width="900" height="1095" alt="Edexcel IAL only. A (1 kg) hits B (3 kg) with e = 0.5, B hits the wall with e = 0.6 and rebounds at 0.9 m/s, they collide again giving 0.95 and 0.75 m/s." loading="lazy">
+  <figcaption>Follow each impact in turn and check whether the particles meet again.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

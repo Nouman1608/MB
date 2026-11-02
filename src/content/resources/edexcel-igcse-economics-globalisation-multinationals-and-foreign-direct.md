@@ -71,6 +71,17 @@ A firm manages an overseas plant with 10 visits a year at 1,100 each. It switche
 
 Cheaper contact makes it easier to run operations abroad, which is one reason MNCs become more common.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--06-landed-cost.webp" width="900" height="880" alt="Landed cost of a shirt before and after cuts to shipping and the tariff. Before: 12.00 + 1.50 + 2.40 = 15.90. After shipping falls 40% and the tariff is 5%: 12.00 + 0.90 + 0.60 = 13.50, a fall of 2.40 or 15.1%." loading="lazy">
+  <figcaption>Lower shipping costs and tariffs cut the landed cost of a shirt by 15.1%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--01-comm-cost.webp" width="900" height="930" alt="Stacked bars compare 10 visits at 1,100 (11,000) with 2 visits plus 400 of video software (2,600). Saving 8,400, or 76.4%." loading="lazy">
+  <figcaption>Video links cut the cost of running an overseas plant from 11,000 to 2,600.</figcaption>
+</figure>
+
+
 ## 2.2.1 c) Impacts of globalisation and global companies
 
 The specification lists six effects. For each one, say who gains, who loses, and what the result depends on.
@@ -114,6 +125,17 @@ A town in Country D has a labour force of 20,000 and 5% unemployment, so 1,000 a
 - New unemployment rate = 1,500 ÷ 20,000 × 100 = **7.5%**.
 
 Evaluation: the town loses jobs and skills in the short run, because textile workers may not be able to fill the new jobs. Over time, consumers pay less and resources can move to uses where the country is stronger. Whether the move happens quickly depends on retraining and on how many new jobs appear nearby.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--02-baskets-prices.webp" width="900" height="870" alt="Rows of baskets show 4.6 baskets affordable at a price of 500 and 5.0 at 460. A fixed income of 2,300 buys 8.7% more after imports cut the price by 8%." loading="lazy">
+  <figcaption>An 8% price fall lets a fixed income buy 8.7% more baskets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--03-mill-unemployment.webp" width="900" height="940" alt="Job-change bars (-1,200, +700, net -500) and a 20-box strip (1,000 workers per box) show unemployment rising from 5% to 7.5%. Unemployed workers rise from 1,000 to 1,500 out of a labour force of 20,000." loading="lazy">
+  <figcaption>A mill closure with only 700 new jobs lifts unemployment from 5% to 7.5%.</figcaption>
+</figure>
+
 
 ## 2.2.1 d) Multinational corporations and FDI
 
@@ -182,6 +204,27 @@ An MNC's subsidiary in Host H earns 40 million profit. Host H taxes profit at 28
 2. Count the costs: profits sent out, avoided tax, damage to the environment, the effect on local firms.
 3. Say what decides the balance: the share of inputs sourced locally, the length of time the firm remains, the strength of local regulation, and whether workers move into skilled posts.
 4. Reach a supported conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--07-scale-average-cost.webp" width="900" height="870" alt="Average cost falls as an MNC sells more phones across regions. With fixed costs of 90 million and variable cost of 40, average cost is 100 at 1.5 million phones and 55 at 6 million, a fall of 45%." loading="lazy">
+  <figcaption>Selling to many regions spreads fixed costs and cuts average cost by 45%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--08-site-choice.webp" width="900" height="850" alt="Unit costs at three sites, showing the cheapest total is not the cheapest materials and labour. Site P totals 28, Site Q 25 and Site R 27. Site R has the cheapest materials and labour but costly delivery, so Site Q has the lowest total." loading="lazy">
+  <figcaption>Site Q has the lowest total cost even though Site R is cheapest to make.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--09-tax-avoidance.webp" width="900" height="890" alt="How a legal group fee cuts tax paid in the host country. Host H taxes profit of 40m at 28%, collecting 11.2m. After a 25m fee to a group firm taxed at 5%, Host H collects 4.2m and the other country 1.25m, so the group saves 5.75m and Host H loses 7.0m." loading="lazy">
+  <figcaption>A legal group fee cuts the group tax bill from 11.2m to 5.45m and costs Host H 7.0m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct--04-mnc-fdi.webp" width="900" height="890" alt="A home-country head office builds a plant and buys a majority stake abroad (FDI), while buying a few shares with no control is not FDI. An MNC is a firm with branches in two or more countries; FDI is the investment, and the MNC is the firm that makes it." loading="lazy">
+  <figcaption>FDI is investment that gives control abroad; an MNC is the firm that makes it.</figcaption>
+</figure>
+
 
 ## Common errors
 

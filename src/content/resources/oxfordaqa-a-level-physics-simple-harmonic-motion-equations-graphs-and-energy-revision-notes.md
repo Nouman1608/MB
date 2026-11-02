@@ -30,6 +30,12 @@ These notes condense section 3.6.2 (simple harmonic motion) of the OxfordAQA Int
 - Angular frequency ω = 2πf = 2π/T, in rad s⁻¹.
 - Restoring force: the resultant force that acts towards equilibrium. In SHM it is F = −mω²x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
+
 ## Formula table
 
 | Result | Formula | Notes |
@@ -91,6 +97,12 @@ These notes condense section 3.6.2 (simple harmonic motion) of the OxfordAQA Int
 - On an a–x graph SHM gives a line through the origin whose gradient is −ω². On a v–x graph it gives an ellipse.
 - Speed is greatest when the x–t graph is steepest. Acceleration is greatest when the v–t graph is steepest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
+
 ## Energy graphs
 
 Against displacement:
@@ -105,6 +117,17 @@ Against time:
 - Ek and Ep are sin² and cos² curves, with period T/2.
 - Total energy is a horizontal line.
 - When Ek is at its maximum, Ep is zero, and the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--08-damping-resonance.webp" width="900" height="1110" alt="Top: displacement against time for light, critical and heavy damping, with a dashed envelope on the light-damping curve. Bottom: amplitude of a forced oscillation against driving frequency over natural frequency; light damping gives a tall sharp peak near f0 and heavy damping a lower, broader peak at slightly lower frequency." loading="lazy">
+  <figcaption>Damping removes energy; resonance is largest when the driving frequency matches the natural frequency, and damping flattens it.</figcaption>
+</figure>
+
 
 ## Worked reminder
 
@@ -140,6 +163,12 @@ A second reminder, for the pendulum. A 2.5 m pendulum swings through a small ang
 - Mass–spring against pendulum. The spring period depends on m; the pendulum period does not.
 - Total energy against energy at a point. Total energy is constant; Ek and Ep change with x.
 - Equilibrium against extremes. Speed is maximum and acceleration zero at equilibrium. At the extremes it is the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

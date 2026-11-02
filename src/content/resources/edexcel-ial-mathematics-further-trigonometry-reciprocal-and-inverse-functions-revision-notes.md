@@ -35,6 +35,12 @@ Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/).
 - Where the original function is ±1, the reciprocal touches it with the same value.
 - sec and cosec equations: invert first, then solve cos or sin. If the value is between −1 and 1, there is no solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--08-reciprocal-graphs.webp" width="900" height="1102" alt="y = sec x, cosec x and cot x drawn over their parent functions. sec has asymptotes at 90° and 270°, cosec and cot at 0°, 180° and 360°. sec and cosec only take values y ≥ 1 or y ≤ −1 with period 360°; cot takes all real values with period 180°." loading="lazy">
+  <figcaption>A reciprocal graph has an asymptote wherever the parent function is zero.</figcaption>
+</figure>
+
+
 ## 2.1 Inverse functions
 
 | Function | Output (radians) | Input |
@@ -46,6 +52,12 @@ Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/).
 - Degrees: replace π/2 by 90° and π by 180°.
 - Graph of an inverse = reflection of the restricted graph in y = x.
 - f(f⁻¹(x)) = x on the inverse's domain. f⁻¹(f(x)) = x only on the restricted domain of f.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ## 2.2 and 2.3 Identity table
 
@@ -130,6 +142,12 @@ range: π/6 ≤ θ + π/6 < 13π/6
 θ + π/6 = π/3 or 5π/3, so θ = π/6 or 3π/2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--07-small-angle-approximations.webp" width="900" height="1100" alt="For θ from 0 to 1 radian, sin θ and tan θ hug the line y = θ near zero and cos θ hugs 1 − θ²/2. At θ = 0.2, sin = 0.1987, tan = 0.2027, cos = 0.9801 and 1 − θ²/2 = 0.9800." loading="lazy">
+  <figcaption>For small θ in radians, sin θ and tan θ are close to θ and cos θ is close to 1 − θ²/2.</figcaption>
+</figure>
+
+
 ## Graph sketches to know
 
 - y = sec x: branches with minimum points (0, 1) and maximum points (π, −1); asymptotes at x = ±π/2, ±3π/2.
@@ -147,6 +165,12 @@ range: π/6 ≤ θ + π/6 < 13π/6
 - **Range of arcsin versus arccos:** arcsin is centred on 0 (−π/2 to π/2), arccos runs from 0 to π.
 - **Period of cot versus cosec:** cot repeats every 180°, cosec every 360°.
 - **Identity versus equation:** an identity (≡) holds for all θ. An equation has solutions in an interval.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
+  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -178,6 +202,12 @@ range: π/6 ≤ θ + π/6 < 13π/6
 11. LHS = 2 sin² x/(2 sin x cos x) = sin x/cos x = tan x = RHS, using 1 − cos 2x = 2 sin² x and sin 2x = 2 sin x cos x.
 12. sec θ = 1/cos θ, so cos θ = 2.5. Cosine never exceeds 1, so **there are no solutions**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
+  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dividing both sides of an equation by sin θ or cos θ and losing the solutions where it is zero.
@@ -189,6 +219,12 @@ range: π/6 ≤ θ + π/6 < 13π/6
 - Giving α in degrees in a question set in radians, or the reverse.
 - Leaving a "prove" answer without a final line showing LHS = RHS, or changing both sides together.
 - Rounding too early in R-form solutions, which shifts the third significant figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--05-ambiguous-case.webp" width="900" height="890" alt="Angle A = 34°, a = 9, b = 13. A circle of radius 9 centred on C meets the line through A at two points, giving two triangles: B = 126.1° with c = 5.47, and B = 53.9° with c = 16.1. Two triangles exist when b sin A &lt; a &lt; b, here 7.27 &lt; 9 &lt; 13." loading="lazy">
+  <figcaption>Two sides and a non-included angle can fit two different triangles.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

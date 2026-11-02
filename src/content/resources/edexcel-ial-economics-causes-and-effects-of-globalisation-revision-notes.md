@@ -57,6 +57,12 @@ Transfer pricing reminder: tax rates 28% in the high-tax country and 12% in the 
 - 1b. TNCs and FDI have become more important: more TNC sales, more FDI relative to GDP.
 - 1c. More migration, with matching remittances and brain drain or gain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--01-trade-share-of-gdp.webp" width="900" height="910" alt="Two years of Country A. Year 1: GDP 400, exports 60, imports 70, so trade is 130 and the openness ratio is 32.5%. Year 2: GDP 600, exports 114, imports 126, so trade is 240 and the ratio is 40.0%. Trade rose 84.6% while GDP rose 50%, so the ratio rose." loading="lazy">
+  <figcaption>Trade grew faster than GDP, so the openness ratio (exports plus imports over GDP) rose from 32.5% to 40.0%.</figcaption>
+</figure>
+
+
 ## Spec point 2: causes
 
 Five causes in the specification. Each should be written as a short chain.
@@ -82,6 +88,17 @@ Five causes in the specification. Each should be written as a short chain.
 - Tax breaks and investment incentives.
 - Scale across a bigger market and less exchange-rate risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--05-fdi-cost-comparison.webp" width="900" height="880" alt="Two stacked columns of unit cost. At home: labour 9, materials 6, other 5, total 20. In Country F: labour 4, materials 6, other 5, transport and import costs 3, total 18. The saving of 2 per unit is 10 million on 5 million units, before set-up costs." loading="lazy">
+  <figcaption>Lower labour cost in Country F saves 2 per unit, so FDI pays if the savings exceed set-up costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+
 ### Impact on recipients
 
 | Gains | Losses |
@@ -104,6 +121,22 @@ Five causes in the specification. Each should be written as a short chain.
 | More choice | More varieties and better inputs |
 | Higher living standards | Higher real income per head |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--03-cheaper-imports-consumer-surplus.webp" width="900" height="906" alt="Demand P = 100 - 2Q. When imports lower the price from 60 to 40, quantity rises from 20 to 30. Consumer surplus rises from 400 (triangle) to 900, a gain of 500 shown as the gold area. Domestic producers lose some surplus, so the net gain is smaller than 500." loading="lazy">
+  <figcaption>Cheaper imports raise consumer surplus from 400 to 900, before allowing for the loss to domestic producers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--08-output-per-head.webp" width="900" height="770" alt="Output +4.5%, population +1.5%, output per head +2.96% (1.045 / 1.015 - 1). Tax base per person is larger." loading="lazy">
+  <figcaption>Output per head grows by the ratio of the two growth factors, a little under the simple 3.0 difference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ### Costs (3b)
 
 | Cost | Mechanism in one line |
@@ -114,6 +147,27 @@ Five causes in the specification. Each should be written as a short chain.
 | Transfer pricing | Profit shown in low-tax country; host loses revenue |
 | Inequality | Skilled workers and capital owners gain more than unskilled workers |
 | TNC influence | Threat to leave pushes governments to cut taxes or standards |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--04-transfer-pricing.webp" width="900" height="890" alt="A group has a subsidiary in L (tax 10%) and one in H (tax 30%). The L subsidiary sells 100,000 components to H at 30 each instead of the fair price of 20, moving 1,000,000 of profit to L. H loses 300,000 of tax, L gains 100,000, and the group saves 200,000." loading="lazy">
+  <figcaption>Pricing internal sales above the fair price moves profit to the low-tax country, cutting tax revenue in the high-tax one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--06-displaced-workers.webp" width="900" height="840" alt="12,000 manufacturing jobs lost, 9,000 export jobs created, net minus 3,000. The new jobs may be elsewhere or need new skills." loading="lazy">
+  <figcaption>Gains in new jobs may not offset the losses, and retraining matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--07-quintile-shares-rise.webp" width="900" height="900" alt="Top 20% share rises from 42% to 48%; bottom 20% falls from 6% to 5%. The ratio of the shares rises from 7.0 to 9.6." loading="lazy">
+  <figcaption>Globalisation can widen inequality when top shares rise and bottom shares fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -127,6 +181,12 @@ Write each as a sequence, with a final link to the specification point.
 ## Worked reminder: landed price
 
 Ex-factory price 60, freight 15, tariff 20% on the sum. Landed price = 75 x 1.20 = 90. If the tariff falls to 10% and freight to 9, landed price = 69 x 1.10 = 75.90. The fall is 14.10, or 15.7%. Tariffs and freight both matter, so name both when explaining why trade grew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--02-landed-price-tariff-freight.webp" width="900" height="860" alt="Two stacked columns show the landed price of one imported good. Before: price 50, freight 10 and a 20% tariff of 12 give 72. After a tariff cut to 5% and freight of 6: price 50, freight 6 and tariff 2.80 give 58.80. The landed price falls by 13.20, or 18.3%." loading="lazy">
+  <figcaption>A tariff cut and cheaper freight together cut the landed price of the good from 72 to 58.80.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -168,6 +228,12 @@ Ex-factory price 60, freight 15, tariff 20% on the sum. Landed price = 75 x 1.20
 8. Before: quantity 30, surplus 0.5 x 30 x 30 = 450. After: quantity 50, surplus 0.5 x 50 x 50 = 1,250. Gain **800**.
 9. The TNC charges its subsidiary a price that moves profit to a low-tax country, so the high-tax host collects less.
 10. Skilled workers and capital owners gain more than unskilled workers, who face competition and job loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--05-migration-remittances.webp" width="900" height="830" alt="Country D: 150,000 arrivals less 70,000 departures is 80,000, or 4.0 per 1,000 of 20 million. Country E: remittances of 6 on a GDP of 120 is 5.0%." loading="lazy">
+  <figcaption>Net migration is arrivals minus departures per 1,000 people; remittances are measured as a share of GDP.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

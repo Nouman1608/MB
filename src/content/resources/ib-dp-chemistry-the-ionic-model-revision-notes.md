@@ -67,6 +67,12 @@ Need the full explanations and longer worked examples? Go to the [Structure 2.1 
 1. Name the cation. For a transition metal, find its charge from the anion total and add a Roman numeral.
 2. Name the anion: element stem + -ide for a single atom; the ion's own name if polyatomic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--03-transition-charges.webp" width="900" height="850" alt="Iron loses two 4s electrons to give Fe2+, iron(II), then a 3d electron to give Fe3+, iron(III). Copper loses its 4s electron to give Cu+, copper(I), then a 3d electron to give Cu2+, copper(II)." loading="lazy">
+  <figcaption>Transition elements lose 4s electrons first, then 3d, so the Roman numeral in the name gives the charge.</figcaption>
+</figure>
+
+
 ### Polyatomic ions (learn all seven)
 
 | Ion | Formula | Ion | Formula |
@@ -75,6 +81,17 @@ Need the full explanations and longer worked examples? Go to the [Structure 2.1 
 | hydroxide | OH⁻ | sulfate | SO₄²⁻ |
 | nitrate | NO₃⁻ | phosphate | PO₄³⁻ |
 | hydrogencarbonate | HCO₃⁻ | | |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--01-forming-ions.webp" width="900" height="920" alt="A sodium atom (2, 8, 1 electrons) passes one electron to a chlorine atom (2, 8, 7). The result is Na+ with 11 protons and 10 electrons and Cl- with 17 protons and 18 electrons, which attract each other. Charge equals protons minus electrons." loading="lazy">
+  <figcaption>Protons never change; losing an electron gives a cation and gaining one gives an anion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--02-group-charges.webp" width="900" height="850" alt="Groups 1, 2 and 13 lose 1, 2 and 3 electrons to form 1+, 2+ and 3+ ions; groups 15, 16 and 17 gain 3, 2 and 1 to form 3-, 2- and 1- ions. Group 14 forms no simple ion and group 18 is already full." loading="lazy">
+  <figcaption>Main-group atoms gain or lose electrons to reach a full outer level like the nearest noble gas.</figcaption>
+</figure>
+
 
 ### Small worked reminders
 
@@ -86,6 +103,17 @@ ammonium hydrogencarbonate: NH₄⁺, HCO₃⁻  -> 1 : 1                NH₄HC
 Mn(NO₃)₂: two NO₃⁻ give 2−, so Mn²⁺     -> manganese(II) nitrate
 Li₂Se: binary, anion Se²⁻               -> lithium selenide
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--04-balancing-formulas.webp" width="900" height="940" alt="Ions are drawn as tiles with charge dots. Three Ba2+ balance two P3- to give Ba3P2; two Cr3+ balance three SO4 2- to give Cr2(SO4)3; three NH4+ balance one PO4 3- to give (NH4)3PO4, with brackets round polyatomic ions." loading="lazy">
+  <figcaption>The total positive charge must equal the total negative charge; use brackets for more than one polyatomic ion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--05-kbr-lattice.webp" width="900" height="800" alt="A slice of the potassium bromide lattice shows alternating small K+ and larger Br- ions, with one K+ joined to four Br- neighbours in its layer. In 3D it has six Br- neighbours: four in the layer, one above and one below. KBr is a 1:1 ratio, not a molecule." loading="lazy">
+  <figcaption>Each K+ has six Br- neighbours, and the formula KBr gives only the simplest ratio of ions.</figcaption>
+</figure>
+
 
 ## 2.1.3 Lattices and properties
 
@@ -109,6 +137,27 @@ Li₂Se: binary, anion Se²⁻               -> lithium selenide
 | Larger ions | Decreases | Ion centres further apart |
 
 Method for a ranking question: sort by charge product first, then by the sum of ionic radii within each group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--06-conductivity.webp" width="900" height="1100" alt="Three beakers with a cell and lamp. In the solid the ions are locked in the lattice and the lamp is off. When molten, and in water, the ions move freely, cations towards the negative electrode and anions towards the positive, and the lamp is lit. The charge carriers are ions, not electrons." loading="lazy">
+  <figcaption>Ions that are free to move carry the current in molten and aqueous ionic compounds; locked ions in the solid do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--07-dissolving.webp" width="900" height="800" alt="A water molecule has a slightly negative oxygen end and slightly positive hydrogen ends. Four water molecules surround Na+ with oxygen ends towards it, and four surround Cl- with hydrogen ends towards it. Hexane is non-polar, and calcium carbonate stays mostly solid because its lattice attractions are too strong." loading="lazy">
+  <figcaption>Water molecules attract and surround ions, pulling them out of the lattice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--08-lattice-enthalpy.webp" width="900" height="1030" alt="A solid KBr lattice is pulled apart into gaseous K+ and Br- ions, taking energy in, so the lattice enthalpy is positive. Bars compare attraction: ions with double charges attract about four times as strongly, and small ions close together attract more strongly than large ions far apart." loading="lazy">
+  <figcaption>Stronger attraction between ions gives a larger lattice enthalpy; charge and radius are the two factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--09-ranking.webp" width="900" height="960" alt="Ion pairs MgS, BaS, NaCl and KI are drawn from the lesson radii with centre distances 256, 319, 283 and 358 pm. MgS and BaS have charge product 4 and rank first and second; NaCl and KI have product 1 and rank third and fourth, nearer distances ranking higher within each pair." loading="lazy">
+  <figcaption>Order: MgS &gt; BaS &gt; NaCl &gt; KI; charge outweighs distance.</figcaption>
+</figure>
+
 
 ## Model explanations to adapt
 

@@ -57,6 +57,22 @@ These notes condense **section 3.1.2, Resource allocation**, in the AQA GCSE Eco
 
 Method to decide: ask what is being bought. A finished item for use points to a product market. The services of land, workers, machines or an owner point to a factor market. A nurse selling labour to a hospital is in a factor market. The same nurse buying shoes is in a product market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--09-boots-factor-loop.webp" width="900" height="930" alt="A loop diagram with a machinist’s household and a boot factory. In the factor market labour flows from the household to the factory and a wage flows back. In the product market money for boots flows from the household to the factory and boots flow back. The same household sells labour, then spends the wage on boots." loading="lazy">
+  <figcaption>The machinist sells labour for a wage, then spends the wage on boots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## 3.1.2.2 Sectors: the essentials
 
 | Sector | Test | Examples |
@@ -90,6 +106,17 @@ Tertiary:  73% of 80  = 58.4bn     Total = 80.0bn  (shares add to 100%)
 
 Mixed purchase (a meal out): decide what the buyer mainly pays for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--08-goods-vs-services.webp" width="900" height="940" alt="A three-row comparison of goods and services. A good is a physical item that can be stored until sold and is owned by the buyer. A service is an activity that cannot be stored and leaves the buyer with the benefit but nothing owned. A note says a restaurant meal mixes both, so decide what the buyer is mainly paying for." loading="lazy">
+  <figcaption>A good is stored and owned; a service happens and leaves only the benefit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## 3.1.2.3 Specialisation and division of labour
 
 ### Why people and producers specialise
@@ -108,6 +135,12 @@ After:  3 x 6 x 16 = 288 buns   Labour cost per bun = 216 / 288 = 0.75
 Output change = (288 - 180) / 180 = +60%
 Labour cost per bun change = (0.75 - 1.20) / 1.20 = -37.5%
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--02-jam-division-of-labour.webp" width="900" height="1110" alt="Four workers each make 18 whole jars (72 in total, labour cost per jar 5.00). Split into four stations each makes 27 jars (108 in total, 3.33 per jar). Output rises 50 percent and cost per jar falls 33.3 percent." loading="lazy">
+  <figcaption>Splitting the job into stations raises output and lowers labour cost per jar.</figcaption>
+</figure>
+
 
 ### Worked reminder: quicker training
 
@@ -128,6 +161,12 @@ This is a benefit to the firm. The matching cost is that each trained worker can
 4. Compare years by amounts if the total has changed.
 5. Say what the change means: a shrinking primary share means fewer people are needed to extract or grow materials, or that other sectors have grown faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--03-sector-share-vs-jobs.webp" width="900" height="905" alt="For fictional Country C, with total jobs rising from 5.0m to 6.5m, each sector shows its jobs in both years and the share change in percentage points beside the percentage change in jobs: primary -8 points and -56.7 percent, secondary -9 points but only -9.0 percent, tertiary +17 points and +68.1 percent." loading="lazy">
+  <figcaption>A percentage point change describes a share; a percentage change describes a quantity.</figcaption>
+</figure>
+
+
 ### Costs and benefits
 
 | | Benefits | Costs |
@@ -136,6 +175,12 @@ This is a benefit to the firm. The matching cost is that each trained worker can
 | Firm | Higher output per worker; lower unit cost; steadier quality; fast training; machines can do simple tasks | Boredom raises absence and leaving; one absence can stop the line; inflexible; errors pass on |
 | Wider (specialisation and exchange) | Greater total output and choice | Dependence on others; area or country exposed if demand for its product falls |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ### Evaluation method in steps
 
 1. State the benefit or cost.
@@ -143,6 +188,17 @@ This is a benefit to the firm. The matching cost is that each trained worker can
 3. Say **who** gains or loses: the worker or the firm.
 4. Add a condition: it holds *if* demand is strong, *if* staff stay motivated, *if* tasks are not easily automated.
 5. Judge which side is stronger in the case you were given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--01-sp-jo-sam.webp" width="900" height="1010" alt="Two bar panels. Splitting time, Jo and Sam together make 28 kg of vegetables and 12 loaves; specialising gives 40 kg and 16 loaves. After Jo gives Sam 14 kg for 6 loaves, Jo has 26 kg and 6 loaves and Sam 14 kg and 10 loaves, each 6 kg and 2 loaves better off than before." loading="lazy">
+  <figcaption>Specialisation raises total output and exchange shares the gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and--10-jam-gain-depends.webp" width="900" height="860" alt="The jam business raises output from 72 to 108 jars and cuts the cost per jar from 5.00 to 3.33 after splitting the work into four stations. Two if-checks judge whether the gain lasts: whether the extra jars sell (otherwise surplus stock) and whether workers stay motivated (otherwise absences halt a station)." loading="lazy">
+  <figcaption>The jam gain lasts if the extra jars sell and workers stay motivated.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -194,3 +250,9 @@ This is a benefit to the firm. The matching cost is that each trained worker can
 ## Official syllabus
 
 AQA, *GCSE Economics* (code 8136): sections 3.1.2.1 to 3.1.2.3 of the specification, first teaching September 2017.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+

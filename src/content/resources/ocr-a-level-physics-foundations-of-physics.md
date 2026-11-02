@@ -58,6 +58,12 @@ introduces the conventions -- units, uncertainty, scalars and vectors
   vectors; and resolving a vector into two perpendicular components
   using Fx = F cos θ and Fy = F sin θ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+
 ## Why this module is genuinely foundational
 
 Module 2's aim, stated directly in the specification, is to
@@ -106,6 +112,12 @@ multiplied or divided -- is one of the specification's core
 uncertainty-handling skills and is tested in nearly every practical
 endorsement and written-paper context involving calculated results.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 - **Confusing precision and accuracy.** A precise set of results is
@@ -129,6 +141,17 @@ endorsement and written-paper context involving calculated results.
   formula as correct -- an equation whose units do not balance on both
   sides cannot be dimensionally correct, a useful sanity check the
   specification explicitly expects students to be able to perform.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ## How to approach it
 

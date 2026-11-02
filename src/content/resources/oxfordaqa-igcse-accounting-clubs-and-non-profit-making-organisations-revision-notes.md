@@ -32,6 +32,17 @@ Amounts on this page are in dollars. All clubs are invented.
 | Income and expenditure account | Accruals | Income and expenditure belonging to the year, depreciation, profit or loss on disposal | Capital expenditure, sale proceeds, owner drawings |
 | Statement of financial position | Accruals | Non-current assets, current assets, current liabilities, accumulated fund | Income and expenditure items |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--08-cash-rise-to-surplus.webp" width="900" height="1060" alt="Running total from 7,250: +3,500 equipment bought, -500 sale proceeds, +100 profit on disposal, -2,700 depreciation, +90 subscriptions, -100 rent owing, +150 insurance prepaid, -70 cafe stock and payables, ending at 7,720." loading="lazy">
+  <figcaption>The cash rise of 7,250 becomes a surplus of 7,720 once capital items, depreciation and timing are adjusted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--07-rp-account.webp" width="900" height="981" alt="Cedar Fold receipts and payments account, both sides 31,250, with capital items highlighted and three weaknesses listed." loading="lazy">
+  <figcaption>A receipts and payments account shows cash only, including capital items, with no accruals or depreciation.</figcaption>
+</figure>
+
+
 ## Key terms
 
 - **Non-profit making organisation:** exists to serve its members or a cause. It does not aim to make a profit for owners.
@@ -62,6 +73,12 @@ Amounts on this page are in dollars. All clubs are invented.
 
 Remember the expense row as a story: cash paid, take off what you paid for last year (owing at the start), add what belongs to this year but is unpaid (owing at the end), add what was paid last year for this year (prepaid at the start), and take off what is paid for next year (prepaid at the end).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--09-accumulated-fund-opening.webp" width="900" height="1000" alt="Opening assets 11,340 less liabilities 980 gives a fund of 10,360. Adding the surplus 7,720 gives 18,080, which equals closing net assets (19,430 less 1,350)." loading="lazy">
+  <figcaption>The opening fund is assets less liabilities; adding the surplus gives the closing fund.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **To prepare club accounts from a receipts and payments account and extra information**
@@ -79,6 +96,17 @@ Remember the expense row as a story: cash paid, take off what you paid for last 
 1. State the surplus or deficit with its figure.
 2. Compare with income, the activity margin or the previous year if given.
 3. Name a consequence: raise subscriptions, change prices, save for equipment, or review a cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--07-club-words.webp" width="900" height="830" alt="Five pairs: profit to surplus, loss to deficit, owner capital to accumulated fund, income statement to income and expenditure account, drawings to none. Accumulated fund is assets less liabilities." loading="lazy">
+  <figcaption>Clubs swap profit, loss, capital and income statement for surplus, deficit, accumulated fund and income and expenditure account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--11-club-sofp.webp" width="900" height="1040" alt="Assets 19,430 less liabilities 1,350 give net assets 18,080, equal to the accumulated fund 10,360 plus surplus 7,720." loading="lazy">
+  <figcaption>Net assets equal the accumulated fund.</figcaption>
+</figure>
+
 
 ## Worked reminder: Linden Bay Rowing Club
 
@@ -118,6 +146,12 @@ Year ended 30 June 2026. Use these figures to check you can find each adjustment
 | Trading account vs income and expenditure account | The trading account finds gross profit on one activity. The income and expenditure account finds the overall result |
 | Straight line vs reducing balance | Same charge each year on cost, versus a falling charge on a falling net book value |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--10-club-income-expenditure.webp" width="900" height="1016" alt="Income 21,520 less expenditure 13,800 gives a surplus of 7,720, with bars for each line." loading="lazy">
+  <figcaption>The surplus is income less expenditure on the accruals basis.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 Answer these before looking at the answers. Use dollars.
@@ -145,6 +179,17 @@ Answer these before looking at the answers. Use dollars.
 8. 900 less 100 plus 140 = **940**.
 9. Surplus 12,400 less 10,950 = **1,450**. Closing fund 6,700 plus 1,450 = **8,150**.
 10. For example: costs exceeded income, so subscriptions or event fees may need to rise; the club could cut a cost or run a fundraising event; the fund is falling, so reserves may not last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations--08-cafe-trading.webp" width="900" height="1034" alt="Purchases 6,150 - 380 + 520 = 6,290; cost of sales 640 + 6,290 - 710 = 6,220; gross profit 9,800 - 6,220 = 3,580." loading="lazy">
+  <figcaption>The café trading account adjusts purchases for the payable and stops at gross profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

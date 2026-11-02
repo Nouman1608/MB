@@ -48,6 +48,12 @@ Thermal energy always flows from the hotter place to the colder one. It does so 
 
 Many real situations use all three at once. A hot drink loses energy through the cup wall by conduction, through the air above it by convection and from every surface by radiation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--01-three-mechanisms.webp" width="900" height="1020" alt="Three panels compare conduction through a rod, convection in heated water and radiation across a vacuum. Conduction needs matter with no bulk movement, convection needs a moving fluid and radiation needs no medium. Energy flows from hot to cold in each." loading="lazy">
+  <figcaption>Conduction needs matter, convection needs a moving fluid, and radiation needs no medium.</figcaption>
+</figure>
+
+
 ## Conduction as a difference in kinetic energy
 
 Particles in a hot region have more kinetic energy on average than particles in a cold region. In a solid they vibrate about fixed positions. A vibrating particle in the hot region pushes on its neighbours and gives some of its energy to them. Those neighbours pass it on in turn. The result is a net flow of energy towards the cold region, with no net movement of the material.
@@ -55,6 +61,12 @@ Particles in a hot region have more kinetic energy on average than particles in 
 In a metal the free electrons add to this. Fast electrons in the hot region drift into the cold region and collide with ions and other electrons, passing on energy. This is why metals are better conductors than most non-metals. Gases conduct poorly because the particles are far apart and collide rarely.
 
 Conduction stops when there is no temperature difference. The direction of the transfer is always set by the temperature difference, never by which body holds more total energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--02-conduction-particles.webp" width="900" height="990" alt="In a solid, particles at the hot end vibrate with large amplitude and those at the cold end with small amplitude, and energy passes along with no net movement of material. In a metal, free electrons drifting towards the cold end carry extra energy as well." loading="lazy">
+  <figcaption>Vibrating particles pass energy to neighbours; in metals free electrons add to the transfer.</figcaption>
+</figure>
+
 
 ## Rate of conduction
 
@@ -91,6 +103,12 @@ Energy in 300 s = 12.9 × 300 = 3.9 × 10³ J (3.86 × 10³ J before rounding).
 
 The insulated sides matter. They mean all the energy that enters at the hot end leaves at the cold end, so the temperature falls at a steady rate along the rod and the gradient is the same everywhere. Where that holds, the temperature 0.10 m from the hot end is 100 − 200 × 0.10 = 80 °C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--03-conduction-rate.webp" width="900" height="1000" alt="An insulated aluminium rod has ends at 100 and 20 degrees Celsius and a straight-line temperature graph with gradient 200 K per metre, giving 12.9 W. At 0.10 m the temperature is 80 degrees. A rod twice as long has half the gradient and half the rate, 6.4 W." loading="lazy">
+  <figcaption>Rate = kA times the temperature gradient, so doubling the length halves the rate.</figcaption>
+</figure>
+
+
 ## Convection
 
 When part of a fluid is heated, its particles move faster and spread further apart. The same mass takes up more volume, so that part of the fluid has a lower density. Denser, cooler fluid around it pushes it upwards, and the cooler fluid sinks to take its place. This sets up a circulating flow, called a convection current, which carries thermal energy through the fluid.
@@ -98,6 +116,12 @@ When part of a fluid is heated, its particles move faster and spread further apa
 The guide asks for a qualitative description, so there is no equation. A good answer has four links: heating, lower density, rise of the warm fluid, sinking of the cool fluid.
 
 Two uses show the idea. A radiator warms a room because the air above it rises and cooler air flows in at the bottom. A freezer cabinet with its cooling coils at the top also works well, because the chilled air becomes denser and sinks through the food. Convection cannot occur in a solid, and it cannot occur if the heating is placed at the top of a fluid, since the warm fluid is already as high as it can go.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--04-convection-current.webp" width="900" height="1000" alt="Air heated by a radiator becomes less dense, rises, spreads across the ceiling, cools and sinks on the far side, completing a convection current. Two boxes of nine particles show the same mass occupying more volume when warm, so it is less dense." loading="lazy">
+  <figcaption>Heating lowers density, warm fluid rises and cool fluid sinks, creating a convection current.</figcaption>
+</figure>
+
 
 ## Thermal radiation and black bodies
 
@@ -126,6 +150,12 @@ L = σAT⁴ = 5.67 × 10⁻⁸ × 5.03 × 10⁻³ × 1500⁴ = 1.44 × 10³ W
 
 L ∝ r²T⁴, so the factor is 2² × (1/2)⁴ = 4 × 1/16 = 1/4. The luminosity falls to **one quarter**. Scaling questions need no constants at all, and they are quick marks if you write the proportionality first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--05-luminosity-scaling.webp" width="900" height="1000" alt="Four spheres show L proportional to r squared times T to the fourth. Doubling the radius gives L times 4, doubling T gives L times 16, and doubling the radius while halving T gives L times one quarter." loading="lazy">
+  <figcaption>Luminosity scales as r squared and T to the fourth, so temperature has the stronger effect.</figcaption>
+</figure>
+
+
 ## Apparent brightness
 
 Luminosity belongs to the source. **Apparent brightness** b is the power received per unit area at an observer, in W m⁻². Energy from a source spreads evenly over a sphere of surface area 4πd² at distance d, so
@@ -143,6 +173,12 @@ b = 1.915 × 10²⁷ / (4π × (3.0 × 10¹⁷)²) = 1.69 × 10⁻⁹ W m⁻²
 **Worked example 6.** A star of luminosity 1.2 × 10²⁸ W has b = 2.4 × 10⁻⁹ W m⁻². Find its distance.
 
 Rearrange: d = √(L / 4πb) = √(1.2 × 10²⁸ / (4π × 2.4 × 10⁻⁹)) = 6.3 × 10¹⁷ m
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--06-inverse-square.webp" width="900" height="960" alt="Light from a source spreads over 1, 4 and 9 equal squares at distances d, 2d and 3d. The same power is shared out, so apparent brightness is b, b over 4 and b over 9. Doubling the distance cuts b to a quarter." loading="lazy">
+  <figcaption>Apparent brightness follows an inverse square law with distance.</figcaption>
+</figure>
+
 
 ## Black-body spectrum and Wien's law
 
@@ -170,6 +206,17 @@ r = √(A / 4π) = 1.05 × 10¹⁰ m
 L/L⊙ = 2.0 × 10²⁸ / 3.83 × 10²⁶ = 52
 
 Wien's law supplies T from the spectrum, Stefan-Boltzmann turns T and L into an area, and the sphere formula turns the area into a radius. This chain, and the same chain run with b and d, is the usual pattern for extended questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--07-blackbody-spectrum.webp" width="900" height="990" alt="Three black-body curves for 3000, 4000 and 5000 K each rise to one peak and fall more slowly. Hotter curves are higher everywhere and peak at shorter wavelengths: 967, 725 and 580 nm. The visible band is shaded." loading="lazy">
+  <figcaption>Raising T lifts the whole curve and moves the peak to shorter wavelength, as lambda-max times T = 2.9e-3 m K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--08-star-chain.webp" width="900" height="960" alt="A four-step chain: Wien gives T = 4.0e3 K from a 725 nm peak, Stefan-Boltzmann gives area 1.38e21 square metres, the sphere formula gives radius 1.05e10 m, and dividing by the Sun luminosity gives 52." loading="lazy">
+  <figcaption>Wien gives T, Stefan-Boltzmann gives area, the sphere formula gives radius.</figcaption>
+</figure>
+
 
 ## Common errors
 

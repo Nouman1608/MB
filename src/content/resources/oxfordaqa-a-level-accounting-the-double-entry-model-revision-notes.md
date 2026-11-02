@@ -103,6 +103,17 @@ Calculate the provision on receivables **after** writing off irrecoverable debts
 | Loss / profit on disposal | Expense / income | Asset and its depreciation removed |
 | Closing inventory | Reduces cost of sales | Current asset |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
+
 ## 7. Method: statements from a trial balance
 
 1. Mark each trial balance line as income statement or statement of financial position.
@@ -114,6 +125,12 @@ Calculate the provision on receivables **after** writing off irrecoverable debts
 7. Statement of financial position under the five subheadings: **non-current assets, current assets, current liabilities, non-current liabilities, equity**.
 8. Equity = opening capital + profit − drawings. It must equal net assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
+
 ## 8. Capital or revenue?
 
 | | Expenditure | Income |
@@ -123,6 +140,12 @@ Calculate the provision on receivables **after** writing off irrecoverable debts
 
 Test: does the spending give a benefit over more than one period by adding to an asset? If yes, it is capital expenditure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
+
 ## 9. Must-know distinctions
 
 - **Trade vs cash discount.** Trade discount reduces list price and is never recorded. Cash discount rewards prompt payment and is recorded through the cash book discount columns.
@@ -130,6 +153,12 @@ Test: does the spending give a benefit over more than one period by adding to an
 - **Other payable vs income received in advance.** Both are current liabilities. One is an expense not yet paid; the other is income received before it is earned.
 - **Straight line vs reducing balance.** Straight line gives an equal charge each year. Reducing balance gives larger charges in early years, which suits assets such as vehicles that lose more value early on.
 - **Contra in the cash book vs contra between ledgers.** Moving cash into the bank is a cash book contra. A set-off between a customer's and supplier's accounts for the same business goes through the general journal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
 
 ## 10. Service business layout
 
@@ -174,6 +203,17 @@ The 900 is a current liability. The statement of financial position uses the sam
 10. **Revenue expenditure**: it maintains the asset rather than improving it.
 11. Debit customer, credit Irrecoverable debts recovered; then debit Bank, credit customer.
 12. **Current liabilities.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
+  <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

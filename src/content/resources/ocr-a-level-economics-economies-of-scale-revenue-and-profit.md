@@ -59,6 +59,17 @@ At each output the LRAC is the lowest figure in the row. Between 200 and 600 uni
 
 A firm already on a plant moves only along that SRAC in the short run, so it can sit above the LRAC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--08-lrac-envelope-mes.webp" width="900" height="960" alt="Four dashed lines show cost per unit for plants A to D, plotted from the lesson table. The thick LRAC line follows the lowest plant at each output: 12, 10, 9, 8.50, 7.50, 8. It falls 37.5% from 200 to 600 units, then rises 6.7%. The minimum efficient scale is 600 units at 7.50." loading="lazy">
+  <figcaption>LRAC is the lowest cost per unit at each output; MES is the first output where it reaches its minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+
 ## 2. Internal economies and diseconomies of scale
 
 Internal economies of scale are falling LRAC as the firm itself grows (a movement along LRAC). Sources:
@@ -76,6 +87,17 @@ Internal diseconomies are rising LRAC as the firm grows too large. Causes: contr
 
 **Worked example 3.** Moving from plant C to D, output rises from 600 to 800 (+33.3%) but total cost rises from 600 × 7.50 = £4,500 to 800 × 8.00 = £6,400 (+42.2%). Costs rise faster than output: diseconomies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--01-diseconomies-costs-vs-output.webp" width="900" height="850" alt="Two bars compare output growth of 33.3 percent with total cost growth of 42.2 percent when the firm moves from 600 to 800 units. Cost per unit rises from 7.50 to 8.00. Costs rising faster than output is a diseconomy of scale." loading="lazy">
+  <figcaption>Output +33.3% but total cost +42.2%: diseconomies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## 3. External economies and diseconomies
 
 External economies arise when the whole industry expands, not one firm: a pool of skilled labour, specialist suppliers nearby, shared transport links. They shift every firm's LRAC down.
@@ -83,6 +105,12 @@ External economies arise when the whole industry expands, not one firm: a pool o
 External diseconomies also come from industry growth: congestion, rising rents and wages bid up by competing employers. They shift every LRAC up.
 
 **Worked example 4.** Congestion raises delivery costs by 10% and deliveries are 25% of the furniture maker's costs. Average cost rises by 0.25 × 10% = 2.5%. A cost of £7.50 becomes 7.50 × 1.025 = £7.69. The whole LRAC curve shifts up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
 
 
 ## 4. Evaluating causes and significance
@@ -116,6 +144,12 @@ Its importance lies in comparison with market size.
 
 Evaluation: if LRAC is flat over a wide range, firms of different sizes can survive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--02-mes-vs-market-size.webp" width="900" height="960" alt="With MES at 600 units, a market of 7,200 units holds 12 firms at MES and a market of 1,000 units holds only 1.67. Many firms survive in the first case; one firm has the cost advantage in the second." loading="lazy">
+  <figcaption>Market size divided by MES shows how many firms can reach the lowest cost.</figcaption>
+</figure>
+
+
 ## 6. Total, average and marginal revenue
 
 - Total revenue (TR) is the money received from all sales: price multiplied by units sold.
@@ -135,6 +169,12 @@ For the third unit, MR = 243 − 168 = 75. The formula at 2.5 units gives 90 −
 
 On the diagram (price and revenue up the side, output along the base), AR runs from 90 at zero output down to 0 at output 30. MR runs from 90 down to 0 at output 15, which is where TR is at its maximum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--09-ar-mr-tr.webp" width="900" height="1100" alt="For demand P = 90 - 3Q, AR falls from 90 to zero at output 30. MR = 90 - 6Q starts at the same point and reaches zero at output 15. Demand is elastic left of 15 and inelastic right of it. TR = 90Q - 3Q^2 peaks at 675 at output 15." loading="lazy">
+  <figcaption>MR hits zero at the output where TR is largest and PED = -1.</figcaption>
+</figure>
+
+
 ## 7. Price, revenue, PED and output
 
 On a straight-line demand curve, PED falls in absolute size as output rises. Use point elasticity: PED = (change in Q/change in P) × (P/Q). Here Q = (90 − P)/3, so the slope term is −1/3.
@@ -151,6 +191,12 @@ Check by price change. Cutting price from 63 to 54 raises output from 9 to 12 an
 
 In words: where demand is elastic, MR is positive and lowering price raises TR. At unit elasticity, MR is zero and TR is at its maximum. Where demand is inelastic, MR is negative, so a firm whose extra output adds to cost will not operate there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## 8. Profit, loss, and accounting versus economic profit
 
 Profit equals TR − TC, and a negative figure is a loss. Per unit, profit equals AR − AC.
@@ -162,6 +208,12 @@ Accounting profit is TR minus explicit costs, the payments the firm makes. Econo
 The owner could earn £34,000 elsewhere and has £120,000 of savings in the business that could earn 6% (£7,200). Implicit costs = 34,000 + 7,200 = £41,200. Economic profit = 50,000 − 41,200 = £8,800.
 
 If revenue falls to £195,000, accounting profit is £35,000 but economic profit is −£6,200: the accounts show a profit while the owner would be better off elsewhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--10-accounting-vs-economic-profit.webp" width="900" height="990" alt="Hearth Bakery earns 210,000 with explicit costs of 160,000, so accounting profit is 50,000. Implicit costs of 41,200 (34,000 alternative pay plus 7,200 return on savings) leave economic profit of 8,800. If revenue falls to 195,000, accounting profit is 35,000 but economic profit is -6,200." loading="lazy">
+  <figcaption>Accounting profit ignores implicit costs, so a firm can profit in the accounts and lose in economics.</figcaption>
+</figure>
+
 
 ## 9. Supernormal profit, normal profit and loss
 
@@ -183,6 +235,12 @@ Normal profit is the least return that stops the owner moving resources to anoth
 
 On an AR and AC diagram, supernormal profit is the rectangle of height AR − AC and width equal to output: for firm X, (12 − 10) × 400 = 800. Firm Z has a loss rectangle (11 − 8) × 300 = 900.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--12-supernormal-normal-loss.webp" width="900" height="1110" alt="Three rectangles as wide as output and as tall as the gap between AR and AC. Firm X: AR 12, AC 10, 400 units, profit 800. Firm Y: AR = AC = 9, 500 units, normal profit. Firm Z: AR 8, AC 11, 300 units, loss of 900." loading="lazy">
+  <figcaption>Profit is the rectangle (AR - AC) x output; normal profit is zero economic profit.</figcaption>
+</figure>
+
+
 ## 10. Profit maximisation at MC = MR
 
 A profit-maximising firm compares the extra revenue from one more unit (MR) with its extra cost (MC). If MR > MC the unit adds to profit; if MC > MR it reduces profit. Profit is highest at the output where MC = MR and the MC curve cuts MR from underneath.
@@ -198,6 +256,17 @@ A profit-maximising firm compares the extra revenue from one more unit (MR) with
 Set MR = MC: 90 − 6Q = 18 + 2Q, so 8Q = 72 and Q = 9. Price = 90 − 27 = 63. Profit = 567 − 315 = £252. Check: AC = 315/9 = 35, so (63 − 35) × 9 = 252. The tenth unit adds MR 33 but MC 37, so profit falls.
 
 **Loss minimisation.** Demand falls to P = 42 − 3Q, so MR = 42 − 6Q. Setting 42 − 6Q = 18 + 2Q gives Q = 3, price 33. TR = 99, TC = 72 + 54 + 9 = 135, so the loss is £36. MC = MR still gives the smallest loss. It is below the £72 fixed cost lost by closing, because price 33 exceeds AVC of 21.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--11-profit-max-mc-mr.webp" width="900" height="940" alt="AR, MR, MC and AC curves for the lesson's example. MR meets MC at output 9. Price on AR is 63 and AC is 35, so the shaded profit rectangle is (63 - 35) x 9 = 252. Profit at 8 or 10 units is 248." loading="lazy">
+  <figcaption>Profit is largest at the output where MC = MR; the rectangle shows 252.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economies-of-scale-revenue-and-profit--03-loss-minimisation-mc-mr.webp" width="900" height="930" alt="AR is 42 minus 3Q, MR is 42 minus 6Q and MC is 18 plus 2Q. MC equals MR at output 3 where price is 33 and average cost 45. The loss rectangle is 12 high and 3 wide, so the loss is 36, less than the 72 fixed cost." loading="lazy">
+  <figcaption>MC = MR still gives the smallest loss: 36 against 72 if the firm closed.</figcaption>
+</figure>
+
 
 ## Common errors
 

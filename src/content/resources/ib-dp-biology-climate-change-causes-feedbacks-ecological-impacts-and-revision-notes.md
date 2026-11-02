@@ -49,6 +49,12 @@ These revision notes condense IB Diploma Programme Biology section D4.3 (Climate
 2. Say what is not shown (cause and direction).
 3. Name what extra evidence would help (laboratory absorption data, known emissions, a mechanism).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--01-greenhouse.webp" width="900" height="1090" alt="Sunlight warms the surface, which gives off infrared. Some infrared escapes to space; some is absorbed by CO2 and CH4 and re-emitted downwards. Sources of each gas are shown, with the 1990 to 2020 percentage changes (+16.9% CO2, +9.6% CH4)." loading="lazy">
+  <figcaption>Greenhouse gases trap infrared, and humans add CO2 and CH4 from the sources shown.</figcaption>
+</figure>
+
+
 ## D4.3.2 Positive feedback loops
 
 | Trigger | Loop (ends by increasing warming again) |
@@ -58,6 +64,12 @@ These revision notes condense IB Diploma Programme Biology section D4.3 (Climate
 | Peat and permafrost carbon warm up | Faster decomposition releases carbon dioxide |
 | Permafrost melts | Anaerobic decay releases methane |
 | Drought and fire | Carbon released and trees lost, so less carbon dioxide taken up |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--02-albedo-feedback.webp" width="900" height="1250" alt="Snow reflects 170 of 200 W m-2 and absorbs 30; open sea reflects 20 and absorbs 180, six times as much. The loop more warming, ice melts, dark surface exposed, more heat absorbed returns to more warming. Other feedbacks from the lesson are listed as chips." loading="lazy">
+  <figcaption>Melting ice exposes darker surfaces that absorb six times more heat, closing a positive feedback loop.</figcaption>
+</figure>
+
 
 ## D4.3.3 to D4.3.5 Ecosystem impacts
 
@@ -71,6 +83,17 @@ These revision notes condense IB Diploma Programme Biology section D4.3 (Climate
 
 **Linking tip:** the polar, ocean and forest changes all affect energy flow and population size, so connect each to a food chain or to carbon storage when a question asks about impact on an ecosystem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--03-boreal-tipping.webp" width="900" height="990" alt="Net carbon balance falls from +45 to +20 to -15 g C m-2 year-1 across three decades, so the forest flips from sink to source. Mean area burned rises from 1.2 to 2.7 million ha per year (+125%)." loading="lazy">
+  <figcaption>Drought and fire push boreal forest past a tipping point from carbon sink to source.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--04-upwelling.webp" width="900" height="1030" alt="Cold nutrient-rich deep water rises into the sunlit layer and feeds phytoplankton. A warm, less dense surface layer blocks this, so production falls from 310 to 245 g C m-2 year-1 (-21.0%)." loading="lazy">
+  <figcaption>A warm stable surface layer stops nutrient upwelling and cuts primary production.</figcaption>
+</figure>
+
+
 ## D4.3.6 Range shifts
 
 - Direction: poleward and upslope.
@@ -78,6 +101,12 @@ These revision notes condense IB Diploma Programme Biology section D4.3 (Climate
 - Limits: summits, slow dispersal, fragmentation, loss of linked species.
 
 Why the shift is predictable: species have a tolerable temperature range. As the local climate warms, the cooler edge of that range lies higher up the mountain or farther from the equator, and populations survive and reproduce better there. The warm edge of the old range becomes unsuitable, so the range contracts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--05-range-shift.webp" width="900" height="920" alt="A bird community moved from 1,850 m to 2,010 m in 50 years (160 m, 3.2 m per year). With a lapse rate of 6.5 C per 1,000 m this tracks 1.04 C. Poleward movement and the summit limit are shown." loading="lazy">
+  <figcaption>Species track their preferred temperature upslope or poleward, until they run out of mountain.</figcaption>
+</figure>
+
 
 ## D4.3.7 Coral reefs
 
@@ -89,6 +118,12 @@ Why the shift is predictable: species have a tolerable temperature range. As the
 
 Why collapse rather than gradual decline: corals build the physical structure and supply food through their algae. Remove them and shelter, nursery habitat and the base of the reef food web go together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--06-coral-reef.webp" width="900" height="890" alt="Panel A: CO2 lowers pH from 8.20 to 8.10 (H+ x1.26) and calcification drops from 1.8 to 1.3 (-27.8%). Panel B: warm water makes coral expel its zooxanthellae, so it is bleached." loading="lazy">
+  <figcaption>Acidification (CO2) slows skeleton building, while heat causes bleaching.</figcaption>
+</figure>
+
+
 ## D4.3.8 Sequestration approaches
 
 | Approach | Strength | Limitation |
@@ -99,12 +134,29 @@ Why collapse rather than gradual decline: corals build the physical structure an
 
 The debate on non-native plantations versus native rewilding is a nature of science point: both views use evidence, and the answer depends on the aim and the site.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--07-sequestration.webp" width="900" height="890" alt="Over 30 years on 50 ha: plantation 4,800 t C, native regeneration 3,600 t C, restored peat 750 t C. Peat rewetting also protects carbon already stored." loading="lazy">
+  <figcaption>Plantations store fastest, but peat restoration also protects existing stores.</figcaption>
+</figure>
+
+
 ## HL only: D4.3.9 to D4.3.12
 
 - **Phenology cues:** photoperiod and temperature patterns; events include flowering, budburst, bud set, migration and nesting.
 - **Synchrony loss:** one population uses temperature, another photoperiod. Examples: Arctic mouse-ear chickweed (*Cerastium arcticum*) and reindeer (*Rangifer tarandus*) arrival; great tit (*Parus major*) breeding and peak caterpillar biomass.
 - **Spruce bark beetle** (*Ips typographus*): warmth speeds development, so more generations a year and larger outbreaks.
 - **Tawny owl** (*Strix aluco*): less snow changes the relative fitness of colour variants; selection changes allele frequencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--08-synchrony.webp" width="900" height="970" alt="Caterpillar food peaks on day 150 then 138; chick demand on day 152 then 144. The gap grows from 2 to 6 days. Curve shapes are illustrative." loading="lazy">
+  <figcaption>Food moves 12 days earlier but great tit chicks only 8, so synchrony weakens by 4 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and--09-owl-selection.webp" width="900" height="890" alt="Winter survival grey 0.74 and brown 0.58 in snowy winters gives relative fitness 1.00 and 0.78. In mild winters 0.70 and 0.72 give 0.97 and 1.00. Brown becomes fitter and its allele more common." loading="lazy">
+  <figcaption>As snow declines, selection favours the brown tawny owl variant.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

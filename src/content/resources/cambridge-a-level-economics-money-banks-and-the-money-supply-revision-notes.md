@@ -40,6 +40,47 @@ All countries, banks and figures are invented for illustration and are not real 
 
 **Link to inflation**: when prices rise, money loses value as a store of value. If prices rise 4%, 1,040 sol next year buys what 1,000 sol buys now (1,000 × 1.04 = 1,040).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--07-credit-multiplier.webp" width="900" height="1110" alt="Four rounds with a 10% reserve ratio from a 1,000 kora deposit: 1,000, 900, 810, 729, each split into reserve and lending. Maximum total deposits 10,000, so 9,000 created. At 15% the total is 6,667, at 20% 5,000." loading="lazy">
+  <figcaption>Each loan becomes a new deposit; the reserve ratio limits the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--08-mv-pt.webp" width="900" height="1040" alt="Equal-area rectangles for MV and PT. Start M 600, V 5, P 2.00, T 1,500. M up 20% to 720 gives P 2.40. M 600 with T 1,800 gives P 1.67, down 16.7%." loading="lazy">
+  <figcaption>MV = PT is an identity; with V and T constant, prices move in proportion to the money supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--06-bank-barter-vs-money.webp" width="900" height="1130" alt="A baker with bread wants tools but the toolmaker wants cloth, so the baker must swap bread for cloth and then cloth for tools. With money the baker sells bread to anyone for coins and buys tools from the toolmaker." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--07-bank-store-of-value.webp" width="900" height="790" alt="Two columns: 10,000 kora held today, and in a year the same money buys what 9,524 buys today after 5% inflation. The difference of 476 kora is lost purchasing power." loading="lazy">
+  <figcaption>Inflation weakens money as a store of value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--08-bank-narrow-vs-broad.webp" width="900" height="750" alt="A bar of 680 million kora: notes and coins 40, demand deposits 260, savings deposits 380. Narrow money is 40 + 260 = 300 and broad money is 300 + 380 = 680." loading="lazy">
+  <figcaption>Narrow money covers the most liquid forms; broad money adds savings deposits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--09-bank-deficit-financing.webp" width="900" height="780" alt="A deficit of 600 million kora financed by the non-bank public leaves the money supply unchanged at the start; by commercial banks raises deposits by 600; by the central bank adds reserves of 600 so deposits can rise by up to 6,000." loading="lazy">
+  <figcaption>The effect of deficit financing on the money supply depends on who buys the bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--10-bank-payments-surplus-money.webp" width="900" height="910" alt="A surplus brings in 50 million dalos. At 2.00 kora per dalo the central bank pays 100 million kora, raising bank reserves by 100 and allowing deposits up to 1,000. Selling 100 million kora of bonds sterilises the inflow." loading="lazy">
+  <figcaption>A payments surplus under a fixed rate can expand the money supply unless the central bank sterilises it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## 9.4.2 Money supply
 
 Definition: the total amount of money in the economy at a point in time.
@@ -101,6 +142,17 @@ Rearranged: P = MV ÷ T and V = PT ÷ M.
 
 Banks balance all three. A bank that chases profit with risky loans risks a run on its deposits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-money-banks-and-the-money-supply--09-bank-balance-sheet-x.webp" width="900" height="990" alt="Bank X: assets 1,000 (cash 88, securities 212, loans 700) equal liabilities and equity 1,000 (demand deposits 520, savings 360, equity 120). Reserve ratio 10%, capital ratio 12%, liquid assets 300. Capital limit 1,200 at 10% and 800 at 15%." loading="lazy">
+  <figcaption>A balance sheet balances, and the ratios show liquidity and capital strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 9.4.5 Changes in the money supply
 
 ### Credit creation and the bank credit multiplier
@@ -135,6 +187,12 @@ The central bank creates reserves and buys assets, mostly government bonds, to r
 **Worked reminder.** A bond pays 4 sol a year and costs 80, so yield = 4 ÷ 80 = 5%. At a price of 100, yield = 4 ÷ 100 = 4%.
 
 **Evaluation**: limited if banks hoard reserves or demand for loans is weak. It may raise asset prices more than spending. Possible inflation risk later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--14-qe-bond-yield.webp" width="900" height="790" alt="A bond paying 5 zu a year yields 5% at price 100. When quantitative easing raises the price to 125 the yield falls to 4%." loading="lazy">
+  <figcaption>Buying bonds raises bond prices and lowers yields, cutting long-term borrowing costs.</figcaption>
+</figure>
+
 
 ### Balance of payments
 

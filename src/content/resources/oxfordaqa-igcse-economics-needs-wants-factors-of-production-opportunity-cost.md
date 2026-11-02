@@ -67,6 +67,17 @@ Capital-intensive: (2 x 50) + 400 = 500 a day; 500 / 400 = 1.25 per unit
 
 The firm answers "how to produce" by choosing the capital-intensive method. Evaluation: this assumes the machine can be used every day and that the firm can afford it. If workers are very cheap or the machine often breaks down, the answer may change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--12-fp-how-to-produce.webp" width="900" height="940" alt="Two methods compared: 12 workers cost 2.00 a unit; 2 workers plus a machine cost 1.25 a unit." loading="lazy">
+  <figcaption>Choosing how to produce can mean comparing cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--06-fp-groups-markets.webp" width="900" height="910" alt="A loop links consumers and producers through the product market and the factor market, with government taxing both and providing services. Three key decisions are listed below." loading="lazy">
+  <figcaption>Consumers, producers and government are linked by two markets and by taxes and services.</figcaption>
+</figure>
+
+
 ## 3.1.1.2 The factors of production
 
 An **economic resource** is an input used to produce goods and services. It is scarce, because supply is limited, and it has alternative uses. That is why using it carries an opportunity cost.
@@ -91,6 +102,17 @@ Profit      = 5,400 - 4,000 = 1,400
 
 Rent, wages and interest go to the owners of land, labour and capital. The 1,400 profit rewards the owner's enterprise. If revenue fell to 3,800, the owner would make a loss of 200, so enterprise can lose as well as gain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--11-fp-rewards.webp" width="900" height="960" alt="Bars split the bakery's 5,400 revenue into ingredients, rent, wages, interest and a profit of 1,400, and show a loss of 200 if revenue falls to 3,800." loading="lazy">
+  <figcaption>Rent, wages and interest reward land, labour and capital; profit rewards enterprise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
 ## 3.1.1.3 Making choices
 
 The **basic economic problem** is scarcity. Wants are unlimited, but resources are limited. So individuals, firms and governments must choose, and choosing one thing means giving up another.
@@ -107,6 +129,12 @@ Opportunity cost of revising = next best alternative = paid work
 ```
 
 The cost is 36 units, not 36 plus the sport.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ### Worked example: choices for a farmer
 
@@ -134,6 +162,22 @@ School and roads net benefit: 840 - 600 = 240 million
 
 On these figures the hospital wins, and the opportunity cost of choosing it is the school and roads. Evaluation: forecasts are uncertain, some benefits (health, safety) are hard to value, and the gains may fall on different groups of people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--13-fp-farmer-ppc.webp" width="900" height="890" alt="A straight line from 40 t of wheat to 60 t of maize, with points from the table; 1 t of maize costs 0.67 t of wheat." loading="lazy">
+  <figcaption>Each point is a choice; moving along the line shows the opportunity cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--07-fp-best-alternative.webp" width="900" height="890" alt="Amina's opportunity cost of revising is paid work (36 units), not paid work plus sport. A 300 mn net-benefit hospital beats a 240 mn net-benefit school and roads scheme." loading="lazy">
+  <figcaption>The opportunity cost is only the single best alternative given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+
 ## 3.1.2.1 Markets and the allocation of resources
 
 A **market** is any arrangement in which buyers and sellers interact to establish a price. It can be a street stall or an online platform. Because resources are scarce, markets allocate them through prices. If the price of tomatoes rises from 2 to 3 (up 50%), producers see higher profit and move land and labour into tomatoes. Buyers who value them less leave the market. Price both signals scarcity and rations limited supply.
@@ -142,6 +186,12 @@ A **market** is any arrangement in which buyers and sellers interact to establis
 - **Factor markets**: firms buy land, labour, capital and enterprise services, for example hiring a baker. Households sell their labour here and receive wages.
 
 In the product market the consumer is the buyer. In the factor market the firm is the buyer and the household is the seller.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## 3.1.2.2 Economic sectors, goods and services
 
@@ -167,6 +217,12 @@ Primary jobs: (1.5 - 6.0) / 6.0 x 100 = -75%
 ```
 
 Say "percentage points" for a change in a share and "per cent" for a change in a number. Possible reasons for a shift towards services: rising incomes raise demand for services, machinery needs fewer farm workers, and resources are used up or imported. Patterns differ between countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--08-fp-sector-shift.webp" width="900" height="810" alt="Tertiary share rises from 25% to 66% (+41 percentage points) while primary jobs fall 75% from 6.0m to 1.5m." loading="lazy">
+  <figcaption>Points describe a change in a share; per cent describes a change in a number.</figcaption>
+</figure>
+
 
 ## 3.1.2.3 Specialisation, division of labour and exchange
 
@@ -206,6 +262,17 @@ New total = 400; fall = (500 - 400) / 500 = 20%
 ```
 
 A 25% price fall cuts total export earnings by 20%. A country with a wide range of exports would lose far less. Evaluation: specialisation can still be sensible if the country is far better at the crop than at alternatives, and it can use the earnings to build other industries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--14-fp-division-stools.webp" width="900" height="810" alt="Output rises from 15 to 24 stools a day and cost per stool falls from Z26.67 to Z16.67 when each worker does one task." loading="lazy">
+  <figcaption>Division of labour raises output and lowers unit cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--15-fp-export-reliance.webp" width="900" height="870" alt="Export earnings fall from 500 to 400 million when the crop price falls 25 per cent, because the crop is 80 per cent of exports." loading="lazy">
+  <figcaption>A narrow export range exposes a country to price falls.</figcaption>
+</figure>
+
 
 ## Common errors
 

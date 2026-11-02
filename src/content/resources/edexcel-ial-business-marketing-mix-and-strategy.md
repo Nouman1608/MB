@@ -95,9 +95,36 @@ Pebblecombe can use trail boot cash to fund the jacket and the sandal. The matri
 - **Business to business (B2B)** sells to other organisations. Buyers are few, orders are large, decisions involve several people, and personal selling, trade shows, technical detail and relationships matter.
 - **Business to consumer (B2C)** sells to individuals. Buyers are many, purchases are smaller and emotion, brand and convenience matter more, so mass media, social media and retail presence are common.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--11-b2b-v-b2c.webp" width="900" height="810" alt="Left: one seller supplies three large firms, with large orders, several decision makers and personal selling. Right: one seller supplies many individual consumers with smaller purchases where brand and emotion matter." loading="lazy">
+  <figcaption>B2B has few large buyers; B2C has many small ones.</figcaption>
+</figure>
+
+
 ### Consumer behaviour and customer loyalty
 
 Consumer behaviour is how customers decide what to buy and whether to buy again. Businesses develop loyalty through consistent quality, good after-sales service, loyalty schemes, personalised offers using customer data, a trusted brand and easy purchase. Keeping a customer is usually cheaper than finding a new one, and loyalty supports premium pricing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--09-market-share-target.webp" width="900" height="925" alt="Three bars show 18,000 of 150,000 (12%), 18,000 of 160,000 if sales stay flat (11.25%) and 24,000 of 160,000 for a 15% target, which needs 6,000 more sales (+33.3%)." loading="lazy">
+  <figcaption>Market share rises only if sales grow faster than the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--10-boston-matrix-data.webp" width="900" height="790" alt="Growth against relative share, split at 10% and 1.0. Trail boot is a cash cow, waterproof jacket a star, child's sandal a question mark and wool socks a dog." loading="lazy">
+  <figcaption>Plotting each product by growth and relative share gives its Boston Matrix category.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## 2 Product and service design
 
@@ -107,6 +134,12 @@ The **design mix** has three elements: **function** (does the product do its job
 
 - **Resource depletion.** Concern over using up finite resources leads to designing for waste minimisation (less material and packaging), re-use (refillable or repairable products) and recycling (materials that can be recovered). Cost may rise at first through redesign and fall later through less material.
 - **Ethical sourcing.** Buying materials from suppliers with fair pay and safe conditions. It can raise input costs but can strengthen the brand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--12-design-mix-triangle.webp" width="900" height="1030" alt="A triangle of function, aesthetics and cost. The best balance depends on the target market. Two social trends: resource depletion (less material, re-use, recycling) and ethical sourcing (fair pay, safe conditions, may raise cost)." loading="lazy">
+  <figcaption>The design mix balances function, aesthetics and cost.</figcaption>
+</figure>
+
 
 ## 3 Promotion and branding
 
@@ -131,6 +164,12 @@ Again the specification does not list them, so these are the standard forms.
 - **Individual branding:** each product has its own name, which protects the others from a failure but costs more to build.
 - **Own-label branding:** a retailer sells products under its own name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--13-three-branding-types.webp" width="900" height="1090" alt="Corporate: one name across tea, jam and soup. Individual: each product has its own name. Own-label: products from several makers sold under the retailer name." loading="lazy">
+  <figcaption>Corporate, individual and own-label branding compared.</figcaption>
+</figure>
+
+
 ### Benefits of strong branding
 
 1. **Added value.** Customers pay for the image beyond the physical product. Standard form: added value = the price charged less what was paid for materials and services bought in.
@@ -151,6 +190,12 @@ Again the specification does not list them, so these are the standard forms.
 - **Viral marketing:** content customers share with each other, spreading the message at little cost, though the business cannot control how it is received.
 - **Social media:** promotion through platforms, with targeted adverts and quick feedback, and the risk of public complaints.
 - **Emotional branding:** appealing to feelings such as belonging or family rather than to product features.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--11-brand-ped-revenue.webp" width="900" height="830" alt="Two demand lines through £40 and 2,000 kettles. A £2 rise cuts branded sales by 2% (PED -0.4, revenue up to £82,320) but unbranded sales by 8% (PED -1.6, revenue down to £77,280)." loading="lazy">
+  <figcaption>A strong brand makes demand inelastic, so a price rise protects revenue.</figcaption>
+</figure>
+
 
 ## 4 Pricing strategies
 
@@ -174,6 +219,22 @@ Choose by looking at: the number of USPs/amount of differentiation, price elasti
 - **Online sales** let firms change prices instantly and sell direct, with lower overheads in some cases.
 - **Price comparison sites** make prices transparent. Demand becomes more elastic for similar goods, so differentiation and brand matter more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--13-cost-plus-markup.webp" width="900" height="800" alt="Two identical bars of the £7.68 price: £4.80 cost and £2.88 mark-up. The mark-up is 60% of cost but 37.5% of price." loading="lazy">
+  <figcaption>Mark-up is a percentage of cost, not of the selling price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--14-predatory-pricing.webp" width="900" height="830" alt="The price is 6.00, is cut to 4.20 below the unit cost of 4.80 (a loss of 0.60 a unit) until the rival is forced out, then raised again." loading="lazy">
+  <figcaption>Predatory pricing sets price below cost to push out a rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--15-psychological-price-points.webp" width="900" height="720" alt="Two price tags, 9.99 and 10.00 pounds, are one penny (0.1%) apart but 9.99 reads as nine-something. Used on shelf prices of consumer goods." loading="lazy">
+  <figcaption>A price just below a round number can feel cheaper.</figcaption>
+</figure>
+
+
 ## 5 Distribution
 
 A distribution channel is the chain of businesses a product passes through between the maker and the final buyer.
@@ -185,6 +246,12 @@ A distribution channel is the chain of businesses a product passes through betwe
 **Worked example.** Calderfoot Bikes sells a frame at £120 to a wholesaler. The wholesaler adds 25% (£150) and the retailer adds 40%, so the consumer pays £210. Selling direct to a retailer at £140, the retailer adds 40% for £196. Selling online at £175 with £18 of delivery and handling leaves £157 for Calderfoot. Shorter channels give the producer more per unit but add storage, delivery and service tasks.
 
 **Changes in distribution methods.** Online selling and direct delivery have cut out middlemen, and firms often use several channels at once, which adds cost and risks upsetting retailers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--12-channel-price-buildup.webp" width="900" height="940" alt="Three bars to one scale: four stage £210 to the consumer (producer £120), three stage £196 (producer £140), two stage online £175 (producer keeps £157 after £18 delivery)." loading="lazy">
+  <figcaption>The shorter the channel, the more the producer keeps per unit.</figcaption>
+</figure>
+
 
 ## Common errors
 

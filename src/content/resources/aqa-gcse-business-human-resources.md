@@ -37,6 +37,12 @@ Human resources (HR) is the function that finds, rewards, develops and keeps the
 
 The functions depend on each other. Operations needs workers to produce, marketing needs staff to promote and sell, and finance needs to pay wages and approve budgets. Business objectives are split into functional plans, each with links back to the main objective. Suppose a firm aims to grow sales revenue by 20% in a year. The marketing plan sets out promotion; the operations plan raises capacity; the HR plan recruits and trains extra staff; the finance plan budgets for the extra wage bill. If HR fails to recruit in time, the other three plans fail too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--01-hr-objective-four-plans.webp" width="900" height="820" alt="A top box with the objective to grow sales revenue by 20 percent links to four plans: marketing sets out promotion, operations raises capacity, HR recruits and trains extra staff, finance budgets for the extra wage bill. If HR fails to recruit in time the other three plans fail too." loading="lazy">
+  <figcaption>If HR recruits late, the marketing, operations and finance plans for a 20% growth objective fail too.</figcaption>
+</figure>
+
+
 ## 3.4.1 Organisational structures
 
 A structure is the business's internal layout of jobs: it shows who holds which responsibilities and who answers to whom. Businesses need one so that job roles and responsibilities are clear, work is not duplicated or missed, and everyone knows who to ask for decisions. Typical roles run from directors, who set strategy, through managers and supervisors to operatives who do the day-to-day work.
@@ -47,6 +53,12 @@ A structure is the business's internal layout of jobs: it shows who holds which 
 - **Span of control:** how many staff answer directly to a single manager.
 - **Delegation:** handing a task, and the authority to decide how to do it, to a person lower down the structure. The manager stays accountable for the result.
 - **Delayering:** removing one or more levels of hierarchy from the structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--11-burdock-chart.webp" width="900" height="990" alt="Burdock Joinery chart: a managing director with four managers (span 4); operations has two supervisors (span 2) each with 6 workers (span 6); marketing 3, finance 2 and HR 1 staff. 4 levels, a chain of 3 links from worker to managing director, 25 employees." loading="lazy">
+  <figcaption>Burdock Joinery: levels, spans, chain of command and total employees read from the chart.</figcaption>
+</figure>
+
 
 ### Worked example: span of control and delayering
 
@@ -67,13 +79,31 @@ The owner removes the manager level (delayering). The 6 supervisors now report s
 
 Communication can move in different directions. In a tall structure it is mostly vertical, up and down a long chain. In a flat structure there are fewer links, so managers hear from staff more directly, although a manager with a wide span has less time for each person.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--14-tall-vs-flat.webp" width="900" height="925" alt="Two charts with the same 16 workers. Tall: 5 levels, span 2, chain of 4 links, 15 managers. Flat: 3 levels, span 4, chain of 2 links, 5 managers." loading="lazy">
+  <figcaption>The same 16 workers in a tall and a flat structure (illustrative numbers).</figcaption>
+</figure>
+
+
 ### Centralisation and decentralisation
 
 A **centralised** business keeps decision-making with senior managers. This gives consistency and strong control, but it can be slow and staff may feel unmotivated. A **decentralised** business pushes decisions down to lower-level managers, often those nearest customers. Decisions are quicker and more informed locally, and staff gain responsibility, but there is a risk of inconsistent decisions across the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
+
 ### Appropriateness
 
 No structure suits every business. A small café employing six people can run well with a flat structure in which the owner decides most things. A national chain with hundreds of branches needs more levels and some decentralisation so that branch managers can respond locally. Judge appropriateness by the firm's size, what kind of work is done, how skilled the staff are, and how quickly choices must be made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--02-pellingdon-delayering.webp" width="900" height="975" alt="Before: owner, 2 managers, 6 supervisors, 48 bookbinders (4 levels, owner span 2, supervisor span 8). After removing the manager level: 3 levels and the owner span rises to 6." loading="lazy">
+  <figcaption>Removing the manager level cuts the structure from 4 levels to 3 and widens the owner span from 2 to 6.</figcaption>
+</figure>
+
 
 ## 3.4.2 Recruitment and selection of employees
 
@@ -85,6 +115,12 @@ A business needs to recruit when it expands, when someone leaves or retires, whe
 |---|---|---|
 | **Internal** (filling the post from existing staff) | Cheaper and quicker; the business already knows the person; they know the firm, so little induction is needed; it motivates staff by showing promotion is possible | Smaller choice; no new ideas; the person's old job must then be filled; unsuccessful applicants may feel resentful |
 | **External** (recruiting from outside) | Larger pool of applicants; new skills and fresh ideas; can fill a skills gap | More expensive and slower to advertise and interview; the person is less known; more induction needed; existing staff may feel overlooked |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--01-recruit-routes.webp" width="900" height="860" alt="Two panels compare internal recruitment (existing staff, one promoted into the vacancy) with external recruitment (a large crowd of outside applicants). Internal is quicker and cheaper, the record is known and it shows promotion is possible, but there are few applicants, no new ideas and the old job must be filled. External gives a larger pool and fresh ideas but costs more, ability is less certain and staff may feel overlooked." loading="lazy">
+  <figcaption>Internal and external recruitment each have benefits and limitations.</figcaption>
+</figure>
+
 
 ### Stages in recruitment and selection
 
@@ -111,6 +147,17 @@ A contract of employment sets out the terms under which someone works.
 - **Job share:** one full-time job divided between two people. The employer keeps cover and gains two sets of skills; the drawback is more handover and communication.
 - **Zero hours:** no guaranteed hours; the worker is called in when needed. The employer gains flexibility and lower costs when work is quiet, but workers face uncertain income and may be less committed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--03-harnsworth-recruitment-stages.webp" width="900" height="1028" alt="Seven stages: job analysis, job description, person specification, advertise, shortlist, select by interview plus driving test, offer and contract, with Harnsworth content at each stage." loading="lazy">
+  <figcaption>Harnsworth works through all seven stages, adding a driving test because an interview cannot show driving ability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--04-four-contract-types.webp" width="900" height="961" alt="Four rows with an illustrative Monday to Friday strip: full time, part time, job share and zero hours, each with the gains and, for job share and zero hours, the drawbacks given in the lesson." loading="lazy">
+  <figcaption>Zero hours has no guaranteed hours; part time normally has set hours.</figcaption>
+</figure>
+
+
 ## 3.4.3 Motivating employees
 
 Motivation is the willingness of staff to put effort into their work. A motivated workforce brings staff retention, so lower recruitment and training costs, and high productivity. Unmotivated staff are more likely to be absent, make errors and leave. The specification says named motivational theories (it gives Maslow as its example) will not be examined, so concentrate on practical methods.
@@ -133,6 +180,17 @@ Worked example: Corvington Pet Supplies pays a sales adviser a salary of £1,200
 
 Money does not suit everyone. A well-paid worker with no say and no chance to progress may still leave, so a mix of methods usually works best.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--05-corvington-commission.webp" width="900" height="905" alt="A 1,200 pound salary plus 4 percent of 30,000 pounds of sales (1,200) gives 2,400 pounds. An illustrative quiet month with 10,000 pounds of sales gives 1,600 pounds." loading="lazy">
+  <figcaption>Commission rewards effort but makes pay unstable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-human-resources--06-corvington-profit-sharing.webp" width="900" height="986" alt="10 percent of 60,000 pounds profit is 6,000 pounds; shared equally between 25 staff that is 240 pounds each." loading="lazy">
+  <figcaption>Profit sharing pays each of 25 staff 240 pounds from a 6,000 pound pool, and falls if profit falls.</figcaption>
+</figure>
+
+
 ## 3.4.4 Training
 
 Training gives employees the skills and knowledge to do their job. Its benefits are higher productivity, coping when technology changes, a more motivated workforce, keeping staff, better-quality goods, and good customer service. The drawbacks are cost and lost working time, and trained staff may leave for better-paid jobs.
@@ -146,6 +204,12 @@ Training gives employees the skills and knowledge to do their job. Its benefits 
 ### Choosing a method
 
 Worked example: Tavistowe Packaging buys a new automated labelling machine. Its operators need training in two weeks. On the job training is quick but only the one supplier's technician knows the machine well, so an off the job course run by the supplier is more appropriate for the first group. Those trained can then train others on the job. A judgement like this should state the method, give a reason tied to the case, and weigh cost against quality of learning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ## Common errors
 

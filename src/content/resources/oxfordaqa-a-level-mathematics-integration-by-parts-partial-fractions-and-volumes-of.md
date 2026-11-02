@@ -92,6 +92,12 @@ Value = −¼ − ¼ = −½
 
 The answer is negative because x cos 2x is positive only on 0 to π/4, and the negative part on π/4 to π/2 is larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--05-improper-integral.webp" width="900" height="800" alt="The area under y = 8/x³ from x = 2 to x = R is 1 − 4/R². It equals 0.75, 0.96 and 0.9996 for R = 4, 10 and 100, and tends to 1 as R grows. Cambridge 9709 only." loading="lazy">
+  <figcaption>An infinitely long region can still have a finite area.</figcaption>
+</figure>
+
+
 ### Worked example 3: logarithm
 
 Find ∫ (ln x)/x² dx, then evaluate it from 1 to e.
@@ -133,6 +139,27 @@ So ∫ x² e^(3x) dx = ⅓ x² e^(3x) − (2/9) x e^(3x) + (2/27) e^(3x) + c
 ```
 
 Take care with the minus sign in front of the second integral. Put the bracket round the whole second pass before you subtract.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--01-constant-of-integration.webp" width="900" height="748" alt="Three curves y = 3√(4x + 1) + c are vertical shifts of each other with identical gold tangents at x = 2. Only c = 1 passes through (2, 10), so a point on the curve fixes the constant. This is the lesson's worked example 5." loading="lazy">
+  <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--04-limit-of-a-sum.webp" width="900" height="886" alt="Six rectangles of width 0.5 under y = 2x + 1 give lower and upper totals 10.5 and 13.5. With 30 and 300 strips the bounds tighten to 11.7 to 12.3 and 11.97 to 12.03. The limit is the integral, 12. AQA and OCR content." loading="lazy">
+  <figcaption>As strips get thinner, the rectangle sums close in on the integral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
+</figure>
+
 
 ## Integration using partial fractions
 
@@ -205,6 +232,12 @@ Value = 2 + (2/3) ln 3 − (5/3) ln(3/2) = 2 − ln 3 + (5/3) ln 2 ≈ 2.06
 
 Always check that the limits do not make a bracket zero. Here x − 1 and x + 2 are positive on the interval, so the modulus signs behave.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
+
 ## Volumes of revolution
 
 Rotate the region between a curve and an axis through 360° about that axis. The resulting solid is a volume of revolution. Slice it into thin discs. Each disc has radius equal to the curve's distance from the axis and thickness equal to the small step along the axis. Summing the discs gives:
@@ -237,6 +270,12 @@ V = π ∫ from 0 to 5 of (3x + 1) dx = π [3x²/2 + x] from 0 to 5
   = π (75/2 + 5) = 85π/2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--02-area-below-axis.webp" width="900" height="760" alt="The curve y = x² − 3x lies below the x-axis from 0 to 3 (integral −9/2) and above it from 3 to 4 (integral 11/6). The area is found by adding the sizes, 19/3, whereas the single integral from 0 to 4 is −8/3." loading="lazy">
+  <figcaption>Regions below the axis give negative integrals, so find the area in separate pieces.</figcaption>
+</figure>
+
+
 ### Worked example 8: about the y-axis
 
 Find the exact volume formed when the region bounded by the curve y = 2 ln x, the y-axis and the lines y = 0 and y = 3 is rotated about the y-axis.
@@ -266,6 +305,12 @@ V = π ∫ from 0 to 1 of x² e^(3x) dx
 V = π [ln|x + 1| − ln|x + 2|] from 0 to 2
   = π [ln(3/4) − ln(1/2)] = π ln(3/2)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--06-volume-of-revolution.webp" width="900" height="736" alt="The region under y = 3/(x + 1) from x = 0 to 2 is shown with its mirror image. A thin disc of radius y and width δx has volume πy²δx, and summing gives V = π∫y² dx = 6π. Cambridge, OxfordAQA and Edexcel IAL content." loading="lazy">
+  <figcaption>Rotating a region makes thin discs of radius y whose volumes add to π∫y² dx.</figcaption>
+</figure>
+
 
 ## Common errors
 

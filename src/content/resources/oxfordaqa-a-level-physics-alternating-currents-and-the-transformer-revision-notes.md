@@ -36,6 +36,12 @@ These notes condense sections 3.10.5 (Alternating currents) and 3.10.6 (The oper
 - **Step-down transformer:** secondary voltage less than primary (Ns < Np).
 - **Efficiency:** useful output power divided by input power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Quantity | Equation | Notes |
@@ -134,6 +140,12 @@ The aim is to find how the efficiency depends on the load or on the transformer 
 - Control variables: keep the supply voltage and frequency fixed while the load changes.
 - Expect efficiency to fall at large load currents, because the I²R heating in the coils grows with current squared.
 - Improve reliability by repeating readings, letting the coils cool between runs and checking the meters on their ac range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

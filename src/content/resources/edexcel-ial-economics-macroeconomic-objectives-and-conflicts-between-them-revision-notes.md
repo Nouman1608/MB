@@ -55,6 +55,42 @@ Budget       Revenue 252, spending 266: deficit 14 = 1.7% of GDP
 Equality     Top 20% hold 42% of income, bottom 20% hold 7%: ratio 6.0
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--06-low-and-stable-inflation.webp" width="900" height="920" alt="Two economies both average 2.5% inflation over four years. The stable one stays between 2.1% and 2.9%; the unstable one swings from 1.0 to 6.5, then -2.0 (falling prices) and 4.5." loading="lazy">
+  <figcaption>Low inflation is not enough: the path must also be stable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--01-ca-balance-build.webp" width="900" height="910" alt="Waterfall for Country R: goods -52, services +41, primary income -15, secondary income -8 give a current account balance of -34, which is -1.6% of GDP of 2,170." loading="lazy">
+  <figcaption>The four parts of the current account add up to a deficit of 1.6% of GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--02-deficit-adds-to-debt.webp" width="900" height="850" alt="Revenue 780 against spending 833 gives a deficit of 53, 2.4% of GDP. Debt of 1,090 (50.2% of GDP) plus 53 becomes 1,143 (52.7%)." loading="lazy">
+  <figcaption>A budget deficit adds directly to the debt ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--03-unemployment-rate-calc.webp" width="900" height="720" alt="Labour force 24.0m = 22.7m employed + 1.3m unemployed, rate 5.4%. Next year 23.2m + 1.05m = 24.25m, rate 4.3%." loading="lazy">
+  <figcaption>The unemployment rate is unemployed divided by the whole labour force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--04-income-shares-ratio.webp" width="900" height="770" alt="Income shares by fifth are 6, 10, 14, 22 and 48 percent. Top divided by bottom is 48 / 6 = 8.0." loading="lazy">
+  <figcaption>The top to bottom share ratio compares the richest and poorest fifths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--01-macro-objectives-indicators.webp" width="900" height="970" alt="Four cards show the four main objectives and the indicator measuring each: real GDP (per capita) for growth, CPI/RPI for price stability, unemployment measures, and the current account balance. Pills list other objectives: balanced budget, fair income and wealth, and (OxfordAQA only) protecting the environment." loading="lazy">
+  <figcaption>Each objective is matched to the indicator that measures it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
+
 ## 2. The conflicts (item 2, a to d)
 
 Use the chain: cause → mechanism → effect on the second objective → evaluation.
@@ -86,6 +122,12 @@ A cost-push shock adding 2 points at every rate: at 4%, inflation = 3.5 + 2.0 = 
 
 Evaluate: the curve is short run; spare capacity flattens it; the cause of the shock matters; a convex shape means the last jobs are the most expensive in inflation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--07-short-run-phillips-curve.webp" width="900" height="980" alt="A convex curve through the lesson's points (4, 6.0), (5, 4.0), (6, 3.0) and (8, 2.0) with unemployment on the horizontal axis. A cost-push shock adds 1.5 points at every rate, so 5% unemployment comes with 5.5% inflation (stagflation)." loading="lazy">
+  <figcaption>In the short run lower unemployment costs higher inflation, and a cost-push shock shifts the whole curve out.</figcaption>
+</figure>
+
+
 ### 2b. Growth and the environment
 
 ```
@@ -95,6 +137,12 @@ Needed fall in intensity for no rise: 1 - 1/1.04 = 3.8%
 ```
 
 Evaluate: GDP omits external costs; technology and carbon pricing narrow the conflict; richer countries may afford cleaner growth; some resource losses cannot be reversed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--08-growth-and-decoupling.webp" width="900" height="970" alt="Output rises 3% to 103. With emissions per unit of output down 1.5%, emissions rise 1.5% to 101.5 (relative decoupling). Emissions stay at 100 only if intensity falls 2.9% (absolute decoupling)." loading="lazy">
+  <figcaption>Emissions can grow more slowly than output and still rise.</figcaption>
+</figure>
+
 
 ### 2c. Inflation and the current account
 
@@ -109,6 +157,12 @@ Goods balance (exports unchanged at 210) = 210 - 241.7 = -31.7, from -18
 
 Evaluate: elasticities; exchange rate adjustment; whether the deficit is financed; whether inflation is domestic or imported.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--09-inflation-and-current-account.webp" width="900" height="906" alt="Home prices rise 6.5% against 3.0% abroad, a 3.4% relative rise. Exports fall from 640 to 605.2 and imports rise from 692 to 720.2, so the goods balance worsens from -52.0 to -115.0." loading="lazy">
+  <figcaption>Higher relative prices cut exports and raise imports, worsening the current account.</figcaption>
+</figure>
+
+
 ### 2d. Growth and income equality
 
 ```
@@ -119,6 +173,12 @@ Gains: bottom 140 cu, top 1,680 cu
 ```
 
 Evaluate: absolute against relative gains; who benefits from growth; tax design and incentives; very high inequality may reduce opportunity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--10-growth-and-inequality.webp" width="900" height="970" alt="Five income groups grow by 1%, 2%, 3%, 3.5% and 5%. Mean income rises 3.85% but the poorest fifth gains 30 and the richest fifth 1,200, so the richest-to-poorest ratio rises from 8.0 to 8.3." loading="lazy">
+  <figcaption>Growth can raise every group's income while the gap between top and bottom widens.</figcaption>
+</figure>
+
 
 ## 3. Method in steps: a conflict question
 
@@ -141,6 +201,12 @@ Evaluate: absolute against relative gains; who benefits from growth; tax design 
 ### When objectives help each other
 
 Growth tends to lower unemployment and raise tax revenue, so the budget improves. Lower unemployment also cuts benefit spending. A strong answer says whether the objectives move together or apart in the case given, and does not assume a conflict.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--05-objectives-together.webp" width="900" height="880" alt="Growth of 3.3%, unemployment falling from 5.4% to 4.3% and inflation of 2.7% inside the 1 to 3% band show objectives moving together. Inflation above 3% would bring the conflict back." loading="lazy">
+  <figcaption>Objectives often move together; a conflict appears only when one is pushed outside its range.</figcaption>
+</figure>
+
 
 ## 4. Must-know distinctions
 

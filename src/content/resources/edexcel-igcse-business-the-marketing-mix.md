@@ -37,6 +37,12 @@ Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [pri
 
 The marketing mix brings together a business's choices on product, price, place and promotion. Those choices must be consistent with each other and suit the customers being targeted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 1. Product (4.3.1)
 
 ### Goods and services
@@ -92,6 +98,17 @@ Classification: Fizz is a star (leader in a fast-growing market). Still is a dog
 
 Use in decisions: use the steady income from Zest to support Fizz and perhaps Pulse; consider whether Still is worth keeping. This is the review the specification calls managing and reviewing the portfolio. The matrix uses only two factors and does not say why a product is weak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--01-holmcroft-boston-matrix.webp" width="900" height="936" alt="A two by two grid of market growth against relative market share. Fizz (relative share 2) is a star, Pulse (0.25) a question mark, Zest (2) a cash cow and Still (0.25) a dog. Relative share is own share divided by the largest rival’s share." loading="lazy">
+  <figcaption>Holmcroft’s four drinks placed on a Boston matrix using relative market share and market growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+
 ## 2. Price (4.3.2)
 
 Pricing strategies, and when each might be applied:
@@ -114,6 +131,17 @@ The unit cost is only right if output is really 6,000. If fewer are made, the fi
 
 **Worked example: promotional pricing.** A shop usually sells a jacket at 45 and sells 200 a month at a unit cost of 25. Revenue is 45 × 200 = 9,000 and profit is (45 − 25) × 200 = 4,000. In a promotion at 20% off, the price is 45 × 0.80 = 36 and sales rise to 300. Revenue is 36 × 300 = 10,800 but profit is (36 − 25) × 300 = 3,300. Revenue rose by 1,800 while profit fell by 700. The promotion could still be sensible if the aim is to clear old stock or attract new customers, but it did not raise profit in that month.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--02-valtrey-cost-plus.webp" width="900" height="740" alt="A bar made of variable cost 4.20, fixed cost 3.00 and a 40 percent mark-up of 2.88 gives a selling price of 10.08 per candle and profit of 17,280 on 6,000 candles." loading="lazy">
+  <figcaption>Building the cost-plus price of a Valtrey candle from cost and mark-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--03-jacket-promotion.webp" width="900" height="910" alt="Bars show revenue 9,000 and profit 4,000 at the normal price, and revenue 10,800 and profit 3,300 at 20 percent off. Revenue rises by 1,800 but profit falls by 700." loading="lazy">
+  <figcaption>A 20% promotion raises revenue but lowers profit in that month.</figcaption>
+</figure>
+
+
 ## 3. Place: distribution channels (4.3.3)
 
 Place is about how the product gets to the customer. The specification names two methods.
@@ -122,6 +150,12 @@ Place is about how the product gets to the customer. The specification names two
 - **E-tailers (e-commerce).** Businesses that sell over the internet, either their own website or a large online marketplace. Costs of premises are low and the market is wide, even international. Customers cannot touch the product, delivery and returns cost money, and the business needs a reliable website and payment system.
 
 **Worked example.** Sandcroft Garden Tools sells a trowel at a retail price of 24. A shop keeps 35% of the retail price: 24 × 0.35 = 8.40, so Sandcroft receives 15.60. Selling through its own website, Sandcroft pays 3.50 for delivery and a payment fee of 5% of 24, which is 1.20. It receives 24 − 3.50 − 1.20 = 19.30. That is 3.70 more per trowel online, but only if enough customers find the website.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-the-marketing-mix--04-sandcroft-channels.webp" width="900" height="840" alt="Two bars split the 24 retail price. Via a shop Sandcroft receives 15.60 and the shop keeps 8.40 (35 percent). Online Sandcroft pays 3.50 delivery and a 1.20 fee and receives 19.30, which is 3.70 more." loading="lazy">
+  <figcaption>Selling online leaves Sandcroft 3.70 more per trowel, if customers find the site.</figcaption>
+</figure>
+
 
 ## 4. Promotion (4.3.4)
 

@@ -73,6 +73,12 @@ Points to remember:
 - Some games have no dominant strategy and have more than one Nash equilibrium.
 - Limit: real firms have imperfect information, and the payoffs are estimates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--05-oligopoly-payoff-matrix.webp" width="900" height="880" alt="A two-by-two pay-off matrix for firms A and B choosing a high or low price. High/High gives 15 and 15; A high and B low gives 4 and 21; A low and B high gives 21 and 4; Low/Low gives 9 and 9. Low is the best reply for each firm whatever the other does, so Low/Low is the Nash equilibrium with 18 in total, although High/High would give 30 in total." loading="lazy">
+  <figcaption>Low is each firm’s best reply whatever the rival does, so Low/Low (9 each) is the Nash equilibrium although High/High would give 15 each.</figcaption>
+</figure>
+
+
 ## Interdependence: kinked demand curve
 
 - Price rise: rivals stay put, so demand above the kink is elastic.
@@ -100,6 +106,12 @@ Evaluation of the model:
 - Rivals' reactions are assumed, not always seen in practice.
 - Prices do change; price wars occur; a big cost rise (MC outside the gap) moves price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--06-kinked-demand-curve.webp" width="900" height="960" alt="Graph of a firm whose demand has a kink at 1,000 units and price 8. Above the kink demand P = 12 − 0.004Q is elastic (PED 2.0); below it P = 18 − 0.01Q is inelastic (PED 0.8). Marginal revenue is 4 at the end of the upper segment and −2 at the start of the lower one, a vertical gap. Marginal cost 1 + 0.001Q is 2 at 1,000 units, and a cost rise to 2.5 + 0.001Q gives 3.5; both pass through the gap, so price stays at 8." loading="lazy">
+  <figcaption>Demand is elastic above the kink and inelastic below it, so MR has a gap and MC can move within it without changing price.</figcaption>
+</figure>
+
+
 ## Types of collusion
 
 | Type | Example | Features |
@@ -113,12 +125,24 @@ Reminder numbers: demand P = 96 − Q, MC = £24. Monopoly outcome Q = 36, P = �
 
 Conditions that help collusion: few firms, similar products, stable demand, barriers to entry, easy monitoring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--11-cartel-cheating-numbers.webp" width="900" height="870" alt="Bar charts of profit per firm for a four-firm cartel facing demand P = 96 minus Q with marginal cost of 24 pounds. If all keep to the quota, total output is 36 at a price of 60 pounds and each of the four firms earns 324. If one firm secretly produces 13 instead of 9, output is 40 and the price falls to 56 pounds; the cheat earns 416, a gain of 92, while each of the other three earns 288, a loss of 36. Every member is tempted to cheat." loading="lazy">
+  <figcaption>Keeping to quota earns each firm 324; the cheat earns 416 while each loyal firm falls to 288, so cartels are fragile.</figcaption>
+</figure>
+
+
 ## Non-price competition and differentiation
 
 - Forms: advertising, branding, quality, design, after-sales service, loyalty schemes, delivery, innovation.
 - Why: price cuts are copied quickly, while brand loyalty is not.
 - Effects: demand becomes less elastic; entry is harder; choice may rise; costs may rise.
 - Break-even test for a campaign: extra units needed = campaign cost ÷ contribution per unit. Reminder: £280,000 ÷ £4 = 70,000 extra units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--10-advertising-break-even.webp" width="900" height="830" alt="Graph of profit after an advertising campaign against extra units sold. Profit before the campaign is 200 thousand pounds. The campaign costs 280 thousand and each extra unit earns a 4 pound contribution, so profit starts at minus 80 thousand, reaches 40 thousand after 30,000 extra units and gets back to 200 thousand at 70,000 extra units, the break-even. If a rival matches the spend, neither gains share." loading="lazy">
+  <figcaption>A £280,000 campaign needs 70,000 extra units at a £4 contribution to restore profit of £200,000; 30,000 extra units leave only £40,000.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages of oligopoly
 
@@ -153,6 +177,17 @@ Uses and limits:
 - Ignores foreign rivals and the split among leaders.
 - Says nothing about how contestable the market is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--07-concentration-ratio-merger.webp" width="900" height="860" alt="Two stacked bars of a 400 million market. Before: firms A 88, B 74, C 61, D 47, E 30, F 22 and many small sellers 78, so CR3 is 223 over 400, 55.75 percent. After C and D merge into one firm of 108, the top three are 108, 88 and 74, so CR3 is 270 over 400, 67.5 percent, up 11.75 percentage points." loading="lazy">
+  <figcaption>CR3 rises from 55.75% to 67.5% when the third and fourth firms merge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## Comparing the four structures
 
 | | Perfect competition | Monopolistic competition | Oligopoly | Monopoly |
@@ -169,6 +204,17 @@ Reminder numbers: demand P = 96 − Q, MC = £24. Competitive: Q = 72, P = £24.
 Firm-level reminder (invented): TC = 100 + 10q + 0.1q², long-run demand AR = 20 − 0.15q. At q = 20, AC = 17 = AR, so profit is normal. MR = MC = 14, so P − MC = 3. Lowest AC is £16.32 at q = 31.6, so excess capacity is about 11.6 units. The comparison with perfect competition: the competitive firm produces at the lowest AC and charges P = MC.
 
 Diagram prompts to practise: long-run perfect competition (price at minimum AC); long-run monopolistic competition (demand tangent to AC, left of minimum AC); monopoly (MR = MC, price read up to AR); oligopoly (kinked demand).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--12-perfect-vs-monopoly-market.webp" width="900" height="925" alt="Graph with market demand P = 96 minus Q, marginal revenue 96 minus 2Q and constant marginal cost 24 pounds. Perfect competition produces 72 units at 24 pounds, with consumer surplus of 2,592 (half of 72 times 72). A monopoly or successful cartel produces 36 units at 60 pounds: consumer surplus falls to 648, supernormal profit is 1,296 and the deadweight loss is 648. The three areas add up to the competitive consumer surplus." loading="lazy">
+  <figcaption>With P = 96 − Q and MC = 24, competition gives 72 units at £24 and consumer surplus 2,592, while monopoly gives 36 units at £60, profit 1,296 and deadweight loss 648.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios--13-monopolistic-competition-excess-capacity.webp" width="900" height="1000" alt="Firm diagram. Average revenue AR = 20 minus 0.15q is tangent to average cost AC = 100 divided by q plus 10 plus 0.1q at 20 units, where both are 17 pounds, so profit is normal. MR and MC both equal 14 at 20 units. AC is lowest at 31.6 units, where it is 16.32 pounds, so the firm has excess capacity of about 11.6 units and price 17 is 3 pounds above marginal cost." loading="lazy">
+  <figcaption>AR touches AC at 20 units (£17, normal profit), short of the lowest AC at 31.6 units, leaving about 11.6 units of excess capacity.</figcaption>
+</figure>
+
 
 ## Evaluating the theory of the firm
 

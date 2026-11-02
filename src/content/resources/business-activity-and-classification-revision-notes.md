@@ -32,9 +32,36 @@ Condensed for the final weeks. For the full explanation, use the
 
 A **need** is something essential for survival (food, shelter); a **want** is something desired but not essential (a particular brand, a luxury item). **Scarcity** is the basic economic condition that resources are limited relative to unlimited wants — and scarcity is precisely why every choice involves an **opportunity cost**: the next-best alternative given up when a choice is made. A business spending its budget on new machinery gives up whatever else that money could have funded, such as staff training or marketing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--01-purpose-of-business.webp" width="900" height="980" alt="Four resources (land, labour, capital, enterprise) feed a business, which produces goods and services. These satisfy needs and wants, and the business generally aims for a profit." loading="lazy">
+  <figcaption>Businesses use resources to produce goods and services that satisfy needs and wants, generally for profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+
 ## Specialisation
 
 **Specialisation** means an individual, business or region focuses on producing a narrow range of goods or services rather than trying to do everything. This tends to increase output and efficiency, since workers or firms become more skilled at their specific task, but it also creates **interdependence** — a specialised producer relies on others for everything it doesn't produce itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--02-specialisation.webp" width="900" height="930" alt="One producer doing grow, make and sell is contrasted with three specialists exchanging with each other. Specialisation tends to raise output and efficiency but creates interdependence. The tasks are an illustrative example." loading="lazy">
+  <figcaption>Specialising raises skill and output but makes each producer rely on the others.</figcaption>
+</figure>
+
 
 ## Why business exists
 
@@ -48,6 +75,12 @@ Increase it by: branding, quality, convenience, design, after-sales service, spe
 
 Added value is **not profit** — it ignores overheads such as rent and wages, since profit accounts for all the other costs of running the business beyond just the bought-in inputs themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--03-added-value-ways.webp" width="900" height="850" alt="An illustrative price of 42 splits into inputs 20 and four additions (quality 6, brand 8, service 4, convenience 4) totalling added value 22. Added value is price minus input cost and is not profit." loading="lazy">
+  <figcaption>Quality, brand, service and convenience each raise what customers will pay above input cost.</figcaption>
+</figure>
+
+
 ## Classification by sector
 
 | Sector | Activity | Examples |
@@ -57,6 +90,27 @@ Added value is **not profit** — it ignores overheads such as rent and wages, s
 | Tertiary | Providing services | Retail, banking, transport, education |
 
 As economies develop, the balance shifts primary → secondary → tertiary (**deindustrialisation** when secondary declines). Developing economies tend to have a larger share of primary sector activity, while developed economies shift toward a much larger tertiary sector, with secondary sector activity often declining in relative — though not always absolute — terms as service industries grow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--04-private-public-sector.webp" width="900" height="1020" alt="Private sector: owned and controlled by individuals or groups, generally to make a profit. Public sector: owned and controlled by the government or state, often providing services such as healthcare, education and infrastructure where profit is not the main aim." loading="lazy">
+  <figcaption>The sectors are defined by ownership and control, not only by profit motive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--08-bakery-three-sectors.webp" width="900" height="816" alt="One bakery grows wheat (primary), mills flour (secondary) and sells bread (tertiary). Classify the activity, not the whole business." loading="lazy">
+  <figcaption>A single bakery can span all three economic sectors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--05-sector-shift.webp" width="900" height="990" alt="Illustrative shares of output: developing economy 40/25/35 and developed economy 3/17/80 (primary/secondary/tertiary). Secondary shrinks and tertiary grows: deindustrialisation." loading="lazy">
+  <figcaption>As an economy develops, secondary shrinks and tertiary grows (illustrative shares).</figcaption>
+</figure>
+
 
 ## Classification by sector of ownership
 
@@ -77,6 +131,12 @@ In a mixed economy, this distinction is about ownership specifically, not purpos
 ## Where this fits in the syllabus
 
 These two subtopics establish the vocabulary the rest of 7115 assumes — why businesses exist at all, and how to categorise the one being studied in any given exam question. The following subtopic, Enterprise, business growth and size, builds directly on the classification and objectives content covered here, so treating this as throwaway background material tends to cause problems once later topics assume it is already secure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/business-activity-and-classification--05-lesson-coverage-map.webp" width="900" height="870" alt="Topic 1 splits into 1.1 Business activity (five items) and 1.2 Classification of businesses (sectors, why importance changes, private and public), followed by 1.3. 7115 is not tiered and is for the 2026 series only." loading="lazy">
+  <figcaption>This lesson covers subtopics 1.1 and 1.2 of Topic 1.</figcaption>
+</figure>
+
 
 ## Stakeholders and their interests
 

@@ -53,6 +53,22 @@ When you can recall everything here, move on to the [further functions practice 
 - **Self-inverse:** f(f(x)) = x, so f⁻¹ = f; graph symmetric in y = x.
 - **Oblique asymptote:** a sloping straight line y = mx + k that the curve approaches as x → ±∞.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--03-sum-product-of-roots.webp" width="900" height="960" alt="Graph of x^3 - 6x^2 + 11x - 6 with roots 1, 2 and 3 at spacing d = 1 about the centre root m = 2; the curve has half-turn symmetry about (2, 0). Bars 1, 2 and 3 add to 6 = -b/a, and a 1 by 2 by 3 block has 6 cells, matching the product -d/a = 6." loading="lazy">
+  <figcaption>Roots in arithmetic sequence centre on m = sum/3, and sum and product read straight from the coefficients.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--05-odd-even-symmetry.webp" width="900" height="1040" alt="Top: f(x) = x^3 sin x is even; points at x = -2 and 2 have equal height (about 7.3), a mirror in the y-axis. Bottom: g(x) = x/(x^2 + 1) is odd; (2, 0.4) and (-2, -0.4) lie on a line through the origin, a half-turn symmetry." loading="lazy">
+  <figcaption>Even graphs mirror in the y-axis; odd graphs have half-turn symmetry about the origin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--06-inverse-restricted-domain.webp" width="900" height="970" alt="Equal-scale graph of f(x) = x^2 - 4x + 1 for x &gt;= 2 (from (2, -3)) and its inverse 2 + sqrt(x + 3) for x &gt;= -3 (from (-3, 2)), reflections in the dashed line y = x, for example (4, 1) and (1, 4). The left part of the parabola is dropped so f is one-to-one." loading="lazy">
+  <figcaption>Restrict the domain so f is one-to-one; the inverse is the reflection in y = x with its domain equal to the range of f.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Statement |
@@ -103,6 +119,32 @@ When you can recall everything here, move on to the [further functions practice 
 | y = 1/f(x) | Zeros ↔ vertical asymptotes; max (p, q) ↔ min (p, 1/q) for q ≠ 0; y = ±1 fixed; same sign; horizontal asymptote y = 0 where \|f\| → ∞ |
 | y = f(ax + b) | Translate b left, then horizontal stretch scale factor 1/a (HL only form) |
 | y = [f(x)]² | y ≥ 0; zeros become touching points; stationary points of f keep their x-coordinates |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--01-repeated-factors.webp" width="900" height="650" alt="Three small graphs, each with the factor (x - 1) to the power 1, 2 or 3 times (x + 2). Power 1 crosses the x-axis at x = 1 with non-zero slope, power 2 touches the axis and turns back, and power 3 crosses while flattening, a point of inflection. Odd powers cross and even powers touch." loading="lazy">
+  <figcaption>The power of a factor decides whether the graph crosses, touches or flattens at its root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--02-remainder-theorem-graph.webp" width="900" height="890" alt="Graph of p(x) = 2x^3 + 3x^2 - 11x - 6 = (x - 2)(2x + 1)(x + 3) with zeros at -3, -1/2 and 2. A dashed line at x = -1, the zero of the divisor (x + 1), meets the curve at (-1, 6), so the remainder on dividing by (x + 1) is 6." loading="lazy">
+  <figcaption>The remainder on dividing by (x + 1) is the height of the graph at x = -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--04-rational-asymptotes.webp" width="900" height="1100" alt="Top: y = (2x - 1)/(x^2 - x - 6) has vertical asymptotes x = -2 and x = 3, horizontal asymptote y = 0 and intercepts (1/2, 0) and (0, 1/6). Bottom: y = (x^2 + x - 2)/(x - 2) = x + 3 + 4/(x - 2) has vertical asymptote x = 2, oblique asymptote y = x + 3 and intercepts (-2, 0), (1, 0) and (0, 1)." loading="lazy">
+  <figcaption>The two HL rational types, with their vertical, horizontal and oblique asymptotes and intercepts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--07-self-inverse.webp" width="900" height="970" alt="Equal-scale graph of y = (3x + 5)/(x - 3), symmetric in y = x with asymptotes x = 3 and y = 3. Points (4, 17) and (17, 4) are on the curve and mirror each other in y = x, so f(f(x)) = x and f is its own inverse." loading="lazy">
+  <figcaption>A self-inverse function has a graph that is symmetric in the line y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--09-cubic-inequality.webp" width="900" height="880" alt="Graphs of y = x^3 and y = 2x^2 + 5x - 6 meet at x = -2, 1 and 3. Teal shading marks where the cubic is above the quadratic (-2 &lt;= x &lt;= 1 and x &gt;= 3), gold where it is below. So x^3 &gt;= 2x^2 + 5x - 6 for -2 &lt;= x &lt;= 1 or x &gt;= 3." loading="lazy">
+  <figcaption>The solution of g(x) &gt;= f(x) is where the graph of g lies on or above the graph of f.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

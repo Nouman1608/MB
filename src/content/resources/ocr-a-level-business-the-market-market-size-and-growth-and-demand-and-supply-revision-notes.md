@@ -65,6 +65,27 @@ Method in steps:
 - Gives context for the firm's own share and growth.
 - A big, static market suggests saturation: gains must come from rivals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--14-oakfell-market-share.webp" width="900" height="1030" alt="The market grows from £4.8m to £5.28m (+10%). Oakfell grows from £0.60m to £0.77m (+28.3%), so its share rises from 12.5% to 14.6%." loading="lazy">
+  <figcaption>Share rises when a firm grows faster than its market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--08-value-vs-volume.webp" width="900" height="810" alt="A dashed square of 100 by 100 is overlaid by a rectangle 5 percent wider and 2 percent shorter. Its area is 102.9, so value rises 2.9 percent while volume falls 2 percent." loading="lazy">
+  <figcaption>Value is price times units, so value can rise while volume falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
+
 ## Raising market share: evaluation prompts
 
 | Route | For | Against |
@@ -89,6 +110,12 @@ Judge by: how alike products are, how price-sensitive buyers are, the firm's cas
 | Decision making power | Greatest | Considerable but constrained | Limited |
 
 Must-know distinction: **dominant is not the same as large**. Power comes from few substitutes and high barriers, not from size alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--10-market-structures.webp" width="900" height="1010" alt="Three columns compare sellers, barriers to entry and power over price for monopoly, oligopoly and monopolistic competition. Power meters are comparative only." loading="lazy">
+  <figcaption>Fewer sellers and higher barriers mean more power over price.</figcaption>
+</figure>
+
 
 ## Demand and supply essentials
 
@@ -118,6 +145,17 @@ Diagram method in steps:
 3. Move one curve and label it new.
 4. Mark the new equilibrium and read price and quantity.
 5. Write one sentence on what changed, why, and what the business might do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--11-helmet-equilibrium.webp" width="900" height="980" alt="Demand QD = 900 - 30P and supply QS = 20P - 100 cross at £20 and 300 helmets. At £24 there is excess supply of 200; at £14 a shortage of 300." loading="lazy">
+  <figcaption>Equilibrium is where quantity demanded equals quantity supplied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--09-movement-vs-shift.webp" width="900" height="910" alt="On the helmet demand curve Q = 900 minus 30P, a rise in the own price slides along the curve from 300 to 120 helmets; a change in another determinant shifts the whole curve left to Q = 780 minus 30P." loading="lazy">
+  <figcaption>A price change moves along the curve; any other determinant shifts it.</figcaption>
+</figure>
+
 
 ## Excess and shortage
 
@@ -154,6 +192,17 @@ A good paragraph links a cause to a consequence for the named business, then add
 - A subsidy cuts costs, so supply shifts right, so the price falls and output rises, which helps a firm seeking share.
 - A fall in the price of a substitute, demand for the firm's product shifts left, so price and quantity fall; the firm may respond with promotion.
 - Fashion moves away from a product, so demand shifts left and stock builds up, which may force discounting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--12-helmet-supply-shift.webp" width="900" height="1000" alt="A new machine moves supply to QS = 20P + 50. Equilibrium moves from £20 and 300 to £17 and 390; revenue rises from £6,000 to £6,630." loading="lazy">
+  <figcaption>Lower costs shift supply right: price falls, quantity rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--13-helmet-demand-shift.webp" width="900" height="1000" alt="Demand falls to QD = 780 - 30P. Equilibrium moves from £20 and 300 to £17.60 and 252, so price and quantity both fall." loading="lazy">
+  <figcaption>Weaker demand shifts the curve left: price and quantity fall.</figcaption>
+</figure>
+
 
 ## Evaluation checklist
 

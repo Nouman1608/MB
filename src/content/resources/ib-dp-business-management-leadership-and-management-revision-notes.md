@@ -56,6 +56,12 @@ AO2 means apply and analyse. AO3 means weigh up and reach a judgement. There are
 3. Use a detail from the stem to show which one the person is doing.
 4. Say how the two work together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
+
+
 ## The five leadership styles
 
 | Style | Decision made by | Staff involvement | Best suited to | Main drawback |
@@ -74,9 +80,26 @@ AO2 means apply and analyse. AO3 means weigh up and reach a judgement. There are
 - "Left the team to decide how to meet the goal" points to laissez-faire.
 - "Acted differently in an emergency than in planning" points to situational.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--11-pindlebrook-two-styles.webp" width="900" height="1000" alt="At 5 am the manager decides alone and tells three shift leads (autocratic, urgent and safety at stake). Two months later staff vote on three proposals (democratic). Switching style is a situational approach." loading="lazy">
+  <figcaption>One manager, two styles, each fitted to the situation.</figcaption>
+</figure>
+
+
 ### Style or a mix?
 
 Real leaders rarely fit one box. If a stem shows mixed behavior, say which style dominates and why. Do not force a label.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--12-style-input-suits.webp" width="900" height="800" alt="Bars show staff input rising from autocratic (very low) through paternalistic (low) and democratic (high) to laissez-faire (very high), with speed and the situations each style suits." loading="lazy">
+  <figcaption>Staff input and best-fit situations for the four named styles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
 
 ## Situational leadership
 
@@ -84,6 +107,12 @@ Real leaders rarely fit one box. If a stem shows mixed behavior, say which style
 - The guide lists it as a style but names no particular model, so describe it generally.
 - Factors that shape the choice: urgency, team skill and experience, risk if the task goes wrong, the leader's strengths, organizational culture.
 - Evaluation point: flexibility is its main strength. Its risk is that staff may feel unsure what to expect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--09-situational-factors.webp" width="900" height="800" alt="Five factors feed a leader who picks a style: autocratic, paternalistic, democratic or laissez-faire. No single style is best." loading="lazy">
+  <figcaption>Situational leaders choose the style to fit the situation.</figcaption>
+</figure>
+
 
 ## Scientific and intuitive thinking/management (HL only)
 
@@ -95,6 +124,12 @@ Real leaders rarely fit one box. If a stem shows mixed behavior, say which style
 | Best when | Data exist, stakes are high | Time is short, situation is new |
 
 **Must-know:** the strongest answers say managers often combine both, and that the better choice depends on the data available and the time allowed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--10-sci-vs-intuitive.webp" width="900" height="910" alt="Scientific management runs data to analysis to decision and is often slower; intuitive runs experience to judgement to decision and is often quick. Each has conditions where it is best; managers often combine both. HL only." loading="lazy">
+  <figcaption>Two routes to a decision, and when each fits.</figcaption>
+</figure>
+
 
 ## Linking style to staff effects
 
@@ -188,6 +223,12 @@ A strong conclusion reads like this: "On balance a [style] approach is best here
 - Presenting only one side in an "evaluate" or "justify" response.
 - Skipping a conclusion, or repeating the introduction as one.
 - Writing about scientific and intuitive thinking at SL when it is not required, or leaving it out at HL.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--08-calder-fenn-manager-leader.webp" width="900" height="840" alt="Marit’s calendar and drawing assignments are organizing, her Friday budget check is controlling, and her school-buildings announcement is leadership because it sets direction and influences staff." loading="lazy">
+  <figcaption>Marit manages and leads in the same job.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

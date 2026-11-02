@@ -65,6 +65,27 @@ These notes condense section 3.4 (Marketing strategy) of the Cambridge O Level B
 
 "Justify" means support a case with evidence or argument, so a recommendation with no reason does not do the job.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--07-marketing-budget-split.webp" width="900" height="910" alt="Social media and online adverts take 40% (19,200 dollars), local radio 15% (7,200), test-ride days 20% (9,600) and shop displays 25% (12,000). Over 320 bikes that is 150 dollars per bike." loading="lazy">
+  <figcaption>The budget is split in proportion to the elements that matter most to the target buyer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--09-which-element-matters.webp" width="900" height="830" alt="A grid of six circumstances against product, price, place and promotion with a tick for the key element: basic item, price; new product, promotion; impulse buy, place; technical or status purchase, product; online shopping, price and place; decline stage, price and promotion." loading="lazy">
+  <figcaption>No element is always most important; it depends on the circumstances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--10-five-step-strategy.webp" width="900" height="850" alt="Five steps shown with the Willowmere Cycles example: aim and target customers (commuters aged 25 to 45), key element (product and test rides), fit the others within budget ($1,450, budget $48,000), reason from the case (rivals $1,300 to $1,600), weigh a risk and conclude (rivals may cut prices)." loading="lazy">
+  <figcaption>Each step of the method applied to the Willowmere Cycles case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+
 ## 3.4.2 Legal controls: summary
 
 | Area | What it means | Impact on strategy |
@@ -82,6 +103,17 @@ Points to remember:
 
 Small worked reminder: Larch Hollow Candles recalls 1 500 faulty candles. It refunds 18 dollars and pays 2 dollars to collect each one. Cost = 1 500 × (18 + 2) = 30 000 dollars, before any lost future sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--09-recall-vs-testing.webp" width="900" height="760" alt="Recalling 3,000 jars costs 72,000 in refunds plus 12,000 to collect them, 84,000 in all. Testing the batch first would have cost 6,500, so the recall costs about 12.9 times as much." loading="lazy">
+  <figcaption>Faulty goods cost far more to recall than to test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--11-legal-controls-change-plan.webp" width="900" height="840" alt="Misleading promotion: the advert claim removes wrinkles in 7 days is replaced by visibly smoother-looking skin, backed by evidence. Faulty goods: a contaminated batch of 3,000 jars is recalled at 84,000 dollars, so quality testing (6,500 dollars) and a batch code are added." loading="lazy">
+  <figcaption>Each legal control leads to a specific change in the marketing plan.</figcaption>
+</figure>
+
+
 ## 3.4.3 Foreign markets: summary
 
 ### Growth potential
@@ -93,12 +125,24 @@ Small worked reminder: Larch Hollow Candles recalls 1 500 faulty candles. It ref
 - Extends the life of a product that is mature at home.
 - Possible economies of scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--12-mature-home-new-abroad.webp" width="900" height="865" alt="Illustrative life-cycle curves. The home market rises, peaks and declines. The foreign market has the same shape starting six years later. Today home sales are falling while foreign sales grow, and the two together last longer." loading="lazy">
+  <figcaption>A product that is mature at home may still be new abroad, and selling abroad spreads risk.</figcaption>
+</figure>
+
+
 ### Problems
 
 - Cultural differences (language, tastes, religion, customs, colours, names and symbols).
 - Lack of knowledge of customers, competitors, rules and distribution.
 - Cost and time of distance.
 - Established local brands.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
 
 ### Methods to overcome them
 
@@ -108,6 +152,12 @@ Small worked reminder: Larch Hollow Candles recalls 1 500 faulty candles. It ref
 | Licensing | Low cost and risk; local knowledge; quick | Lower income per unit; weaker control of quality and image; licensee may become a rival |
 
 Small worked reminder: a licensee sells 800 000 dollars of goods and pays a 5% royalty. Royalty = 0.05 × 800 000 = 40 000 dollars. A joint venture with profit of 150 000 dollars and a 40% share gives 0.40 × 150 000 = 60 000 dollars, but the owner must also invest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--08-joint-venture-vs-licence.webp" width="900" height="810" alt="A joint venture (60% of 180,000 profit) earns 108,000 a year on a 420,000 investment, a 25.7% return. A licence earns a 6% royalty on 1.5 million of sales, 90,000, with no investment but less control." loading="lazy">
+  <figcaption>The joint venture earns 18,000 more; the licence carries less risk and needs no investment.</figcaption>
+</figure>
+
 
 ## Answering strategy questions in Paper 1 and Paper 2
 

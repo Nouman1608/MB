@@ -63,6 +63,12 @@ Detailed knowledge of the components is not required. Remember the main causes a
 
 Any change in these at the same price level **shifts** AD. Higher spending shifts it right and lower spending shifts it left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+
 ## Why AD slopes downward (4.3.4)
 
 A lower price level raises the real output demanded because of three effects:
@@ -72,6 +78,12 @@ A lower price level raises the real output demanded because of three effects:
 - **International trade effect:** domestic goods become cheaper than foreign goods, so X rises and M falls.
 
 Do not use the single-good substitution argument. The whole price level has fallen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--13-ad-slope-reasons.webp" width="900" height="890" alt="A lower price level raises the quantity of real output demanded through three effects: the wealth effect (savings worth more), the interest rate effect (lower rates, more borrowing) and the international trade effect (exports up, imports down). It is not substitution between goods." loading="lazy">
+  <figcaption>AD slopes down because of the wealth, interest rate and international trade effects.</figcaption>
+</figure>
+
 
 ## Determinants of AS (4.3.7)
 
@@ -104,6 +116,17 @@ level |                  |
 
 In the highly elastic section a rise in AD mostly raises output. In the upward section it raises both. In the vertical section it raises only the price level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Shifts in SRAS and LRAS (4.3.9)
 
 | Curve | Right | Left |
@@ -122,6 +145,12 @@ A cost change is mainly an SRAS shift. A change in capacity is an LRAS shift.
 | Any other determinant of AS changes | Shift of SRAS or LRAS |
 
 A price change caused by one shift is a movement along the other curve, not a second shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--06-movement-or-shift.webp" width="900" height="1060" alt="Five mini AD/AS graphs: interest rates fall shifts AD right; a price level rise caused by AD is a movement up along SRAS; training shifts LRAS (and SRAS) right; energy costs shift SRAS left; falling foreign incomes shift AD left." loading="lazy">
+  <figcaption>Only a change in the price level moves along a curve; any other determinant shifts it.</figcaption>
+</figure>
+
 
 ## Method in steps: analysing a change (4.3.11, 4.3.12)
 
@@ -148,12 +177,34 @@ On the vertical section of a three-section LRAS, a rightward shift of AD raises 
 
 **Reminder.** Country M: AD output = 1,000 - 2P and SRAS output = 400 + 4P give P = 100 and output = 800. If energy costs rise and SRAS output becomes 340 + 4P, then 6P = 660, so P = 110 and output = 780. Prices rise 10% and output falls 2.5%. Real output and employment fall while prices rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--11-ad-rise-effects.webp" width="900" height="910" alt="AD shifts right from 1,400 - 4P to 1,480 - 4P. Equilibrium moves from price level 100 and output 1,000 to price level 110 and output 1,040, so prices rise 10%, output rises 4% and employment rises." loading="lazy">
+  <figcaption>A rise in AD raises both output and the price level when SRAS slopes up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--12-sras-shift-effects.webp" width="900" height="930" alt="SRAS shifts left to 520 + 4P after an energy cost rise: price level 110 and output 960. SRAS shifts right to 680 + 4P after a fall in raw material costs: price level 90 and output 1,040." loading="lazy">
+  <figcaption>A fall in SRAS raises prices and cuts output; a rise in SRAS does the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--07-three-section-as-ad1-ad4.webp" width="900" height="1010" alt="AS is flat at price 50 to output 800, rises to price 140 at output 1,100, then is vertical. AD1 to AD4 meet it at (700, 50), (950, 95), (1,100, 150) and (1,100, 200). Output and prices both rise at first, then only prices once capacity is reached." loading="lazy">
+  <figcaption>On a three-section AS, extra demand raises output while there is spare capacity and only prices at full capacity.</figcaption>
+</figure>
+
+
 ## Equilibrium and disequilibrium (4.3.11)
 
 - Equilibrium is where AD = AS: planned spending equals planned output.
 - Above the equilibrium price level, AS exceeds AD, stocks build and prices and output fall.
 - Below it, AD exceeds AS, stocks fall and prices rise.
 - Employment follows output. Equilibrium need not be at full employment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--10-adas-equilibrium-schedules.webp" width="900" height="930" alt="AD (1,400 - 4P) and SRAS (600 + 4P) cross at price level 100 and output 1,000. At 110 SRAS exceeds AD by 80 so prices fall; at 90 AD exceeds SRAS by 80 so prices rise." loading="lazy">
+  <figcaption>Equilibrium is where AD meets SRAS; above it there is a surplus, below it a shortage.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -196,6 +247,12 @@ On the vertical section of a three-section LRAS, a rightward shift of AD raises 
 8. 1,000 - 2P = 400 + 4P, so 6P = 600, P = 100, output = **800**.
 9. Real output rises, the price level falls, and employment rises.
 10. The vertical section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--05-ad-country-a-adding-up.webp" width="900" height="890" alt="Country A: C 620 + I 180 + G 240 = 1,040. Net exports X 210 - M 250 = -40 are subtracted, so AD = 1,000 and C is 62%. Investment +20 gives AD 1,020, up 2%." loading="lazy">
+  <figcaption>AD = C + I + G + (X - M) = 1,000, and a rise in I of 20 lifts it 2%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

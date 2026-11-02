@@ -65,6 +65,12 @@ A **cost centre** is a part of a business, such as a department, a site or a pro
 
 A weakness of profit centres is that managers may chase their own profit at the expense of the whole business. A weakness of cost centres is that cutting cost to meet a budget can lower service quality for everyone who relies on the centre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--01-centres.webp" width="900" height="740" alt="A cost centre (IT support) has costs flowing out and no revenue, judged on costs against budget. A profit centre (online store) has revenue in and costs out, judged on profit against target." loading="lazy">
+  <figcaption>A cost centre records costs only; a profit centre records costs and revenue so profit can be measured.</figcaption>
+</figure>
+
+
 ## Constructing a budget
 
 A **budget** is a financial plan, in money terms, for a future period. A budget is built from forecasts of revenue and costs. The guide asks you to construct one, so you need a method and a layout.
@@ -98,6 +104,12 @@ Ruddock Outdoor Supplies has an online store that it treats as a profit centre. 
 Check: month 1 sales revenue is 800 × 45 = 36,000, and cost of sales is 800 × 27 = 21,600, so gross profit is 14,400. Expenses are 2,400 + 1,200 + 9,000 + 2,000 = 14,600, which leaves a loss of 200. The planned quarter profit is 2,400.
 
 A budget for a cost centre has no revenue row. It is a list of costs by month with a total, which becomes the spending limit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--02-budget-build.webp" width="900" height="980" alt="Grouped bars for three months: revenue 36,000, 40,500, 45,000; total costs 36,200, 39,700, 43,200. Planned profit is (200), 800 and 1,800, totalling 2,400." loading="lazy">
+  <figcaption>The budget turns forecast sales and costs into a planned profit for each month and the quarter.</figcaption>
+</figure>
+
 
 ## Variances
 
@@ -137,6 +149,12 @@ The favorable revenue variance hides a large problem. Sales volume beat the budg
 
 A deeper reading is possible. If the store had sold 2,820 units at the planned 27 dollars of cost each, cost of sales would have been 76,140. The actual cost of 78,000 is still 1,860 above that figure. This adjustment is our own analytical step, not a named technique in the guide. It shows that part of the adverse cost variance came from higher volume and part from higher cost per unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--03-variance-bridge.webp" width="900" height="1022" alt="Waterfall from budget profit 2,400 to actual loss (2,520): revenue +2,580 F, cost of sales -5,100 A, delivery -800 A, salaries -900 A, advertising -700 A, hosting 0. Total variance is 4,920 adverse." loading="lazy">
+  <figcaption>A favourable revenue variance can be swamped by adverse cost variances.</figcaption>
+</figure>
+
+
 ### Possible causes
 
 Do not stop at calculating the variance. Give a reason that fits the case, such as:
@@ -150,6 +168,12 @@ Link the cause to the data. In the example, a lower price plus extra advertising
 ### Worked example: a cost centre
 
 The customer service team at Ruddock is a cost centre with a budget of 6,200 dollars each month. Actual spending was 6,050, 6,480 and 6,900. The monthly variances are −150 (favorable), +280 (adverse) and +700 (adverse). Over the quarter the budget is 18,600 and the actual is 19,430, so the variance is +830 adverse, or 4.5% of budget. The trend matters as well as the total. Spending climbed each month, so a manager reading only the quarter total would miss the worsening position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-budgets-hl-only--01-cost-centre-trend.webp" width="900" height="760" alt="Horizontal bars show monthly variance against the 6,200 budget: month 1 is 150 favourable, month 2 is 280 adverse, month 3 is 700 adverse. The quarter is 19,430 against 18,600, 830 adverse or 4.5% of budget." loading="lazy">
+  <figcaption>Reading only the quarter total would miss that spending climbed every month.</figcaption>
+</figure>
+
 
 ## Budgets and decision-making
 

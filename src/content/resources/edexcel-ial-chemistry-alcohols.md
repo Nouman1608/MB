@@ -81,6 +81,12 @@ Focus on one atom: the carbon carrying –OH. The class depends on how many carb
 
 Quick check: the C–OH carbon carries two hydrogens (primary), one (secondary) or none (tertiary).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--04-alcohol-classes.webp" width="900" height="1180" alt="Butan-1-ol, butan-2-ol and 2-methylpropan-2-ol are drawn as displayed formulae with the C-OH carbon and its H highlighted (2, 1 and 0 H). Primary gives butanoic acid and secondary gives butanone, orange to green; tertiary gives no reaction and stays orange. Matches worked example 4." loading="lazy">
+  <figcaption>Oxidation needs an H on the C-OH carbon, so tertiary alcohols resist it.</figcaption>
+</figure>
+
+
 ## 10.17 Reactions of alcohols
 
 ### Combustion
@@ -123,6 +129,12 @@ atom economy = 78.5 ÷ (78.5 + 153.5 + 36.5) × 100
              = 78.5 ÷ 268.5 × 100 = 29.2%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--07-halogenation.webp" width="900" height="890" alt="Three routes from an alcohol R-OH: PCl5 (solid, room temperature, steamy HCl fumes) to R-Cl, KBr with 50% sulfuric acid warmed (OCR: a bromide with sulfuric acid) to R-Br, and red phosphorus with iodine to R-I. Edexcel and OCR content; not in the AQA or OxfordAQA lessons." loading="lazy">
+  <figcaption>Edexcel and OCR: the OH group can be replaced by Cl, Br or I using different reagents.</figcaption>
+</figure>
+
+
 ### Elimination with concentrated phosphoric acid
 
 Heating an alcohol with concentrated phosphoric acid removes a molecule of water: the –OH and a hydrogen from a neighbouring carbon leave, and a C=C bond forms. Phosphoric acid is used because it gives fewer side reactions than concentrated sulfuric acid, which is also a strong oxidising agent.
@@ -135,6 +147,17 @@ The –OH is on C2. Its neighbours are C1 and C3, and both carry hydrogen.
 - Losing H from C3 gives CH₃CH=CHCH₂CH₃, pent-2-ene. Each carbon of this C=C has two different groups, so it exists as **(E)-pent-2-ene** and **(Z)-pent-2-ene**.
 
 That is three alkenes in total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
+  <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--09-elimination-products.webp" width="900" height="940" alt="Skeletal formulae. Butan-2-ol loses H from C1 to give but-1-ene, or from C3 to give but-2-ene, which exists as E and Z isomers: three alkenes in total." loading="lazy">
+  <figcaption>Losing H from either neighbouring carbon gives different alkenes, including E and Z isomers.</figcaption>
+</figure>
+
 
 ## 10.18 Oxidation with potassium dichromate(VI)
 
@@ -195,6 +218,12 @@ theoretical mass = 0.0800 × 74.0 = 5.92 g
 ```
 
 Yields fall below 100% through incomplete oxidation and losses in transfer and distillation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
 
 ## Common errors
 

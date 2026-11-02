@@ -38,6 +38,17 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/chemistry/), the [p
 > 3. Compare with the alternatives in the table, giving a reason for rejecting each.
 > 4. If asked for a mass, use mass of element = percentage/100 × mass of alloy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
+
 ## Reactivity series (3.3.1.1 a)
 
 Most reactive at the top:
@@ -63,6 +74,12 @@ General word equations:
 Examples: 2K + 2H₂O → 2KOH + H₂; Mg + H₂SO₄ → MgSO₄ + H₂; Zn + 2HCl → ZnCl₂ + H₂.
 
 Memory hook for the order: **K**eep **Na**ughty **Li**ons **Ca**lm, **M**ind **Z**ebras **F**eeling **C**ross (K, Na, Li, Ca, Mg, Zn, Fe, Cu).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--06-reactivity-series-eight-metals.webp" width="900" height="1070" alt="Ladder of potassium, sodium, lithium, calcium, magnesium, zinc, iron, copper with carbon between magnesium and zinc, and what is seen with cold water and dilute acid for each." loading="lazy">
+  <figcaption>The eight metals in order with the observations used to rank them, and carbon marked.</figcaption>
+</figure>
+
 
 ## Displacement and redox (3.3.1.1 b and h)
 
@@ -107,6 +124,12 @@ Raw materials: iron ore, coke, limestone, hot air. Overall with carbon: 2Fe₂O�
 > 3. Below carbon: heat the oxide with carbon; say which substance loses oxygen (reduced) and which gains it (oxidised).
 > 4. Above carbon: electrolysis of the molten compound; mention the large energy cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
+
 ## Copper from low-grade ores (3.3.1.1 f and g)
 
 - **Phytomining:** plants absorb copper compounds → plants burned → ash contains copper compounds.
@@ -122,6 +145,17 @@ Raw materials: iron ore, coke, limestone, hot air. Overall with carbon: 2Fe₂O�
 | Anode (+), chloride solution | 2Cl⁻ → Cl₂ + 2e⁻ | Pale green gas |
 
 With a copper anode instead: Cu → Cu²⁺ + 2e⁻ (the anode dissolves).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--07-phytomining-bioleaching.webp" width="900" height="990" alt="Phytomining: plants grow on copper-rich soil, are harvested and burned and the ash holds copper compounds. Bioleaching: bacteria produce a leachate, a solution with copper compounds. Copper is then obtained by electrolysis or scrap-iron displacement." loading="lazy">
+  <figcaption>Two newer ways to get copper from low-grade ores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--03-copper-chloride-electrolysis.webp" width="900" height="1040" alt="Copper chloride solution with graphite electrodes: Cu2+ goes to the cathode and forms pink-brown copper (reduction); Cl- goes to the anode and forms chlorine bubbles, 2Cl- to Cl2 + 2e- (oxidation)." loading="lazy">
+  <figcaption>Copper ions gain electrons at the cathode and chloride ions lose them at the anode.</figcaption>
+</figure>
+
 
 ## Recycling (3.3.1.1 i)
 
@@ -152,6 +186,12 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
 > 2. Work out Mᵣ of the carbonate and of the oxide.
 > 3. Mass of oxide = mass of carbonate × Mᵣ(oxide) ÷ Mᵣ(carbonate).
 > 4. Mass of carbon dioxide lost = starting mass − mass of oxide. Heat to constant mass in practice, so you know the reaction is complete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--08-carbonate-thermal-decomposition.webp" width="900" height="1110" alt="A carbonate is heated and CO2 escapes. CuCO3 goes green to black; ZnCO3 white, yellow hot, white cold. Li2CO3 decomposes but Na2CO3 and K2CO3 do not at Bunsen temperatures. 2.10 g MgCO3 leaves 1.00 g MgO and 1.10 g CO2." loading="lazy">
+  <figcaption>Thermal decomposition: what you see, which carbonates decompose, and the mass balance.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -189,6 +229,12 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
 10. Mᵣ CuCO₃ = 124, Mᵣ CuO = 80. Mass = 6.20 × 80/124 = **4.00 g**.
 11. Mᵣ ZnCO₃ = 125, Mᵣ CO₂ = 44. Mass = 5.00 × 44/125 = **1.76 g**.
 12. Magnesium chloride, water and carbon dioxide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--04-mass-mole-ratio-chains-metals.webp" width="900" height="740" alt="Two four-step chains: 1120 kg iron to 20.0 kmol to 15.0 kmol carbon to 180 kg carbon; and 3.20 g copper to 0.0500 mol to 0.0500 mol iron to 2.80 g iron." loading="lazy">
+  <figcaption>Mass to moles to ratio to mass, for the carbon and scrap-iron examples.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -64,6 +64,17 @@ State whether each is contamination or irradiation, and give a reason.
 1. In (a), radioactive atoms have got onto the gloves. This is **contamination**, because the source material itself is on the gloves.
 2. In (b), the source is sealed, so no atoms leave the case. Only radiation reaches the person. This is **irradiation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-irradiation-contamination.webp" width="900" height="910" alt="Top: a sealed source in a lead case sends radiation towards a person, who does not become radioactive. Bottom: radioactive atoms on the skin and inside a person emit radiation from where they are, so the exposure goes wherever the person goes." loading="lazy">
+  <figcaption>Irradiation is exposure to a source outside you; contamination is having the radioactive atoms on or in you.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+
 ## Hazards and half-life (P6.2b, Higher Tier only)
 
 Half-life is how long a sample takes to lose half of its undecayed nuclei, which also halves its activity. Two samples with different half-lives are hazardous in different ways.
@@ -88,6 +99,22 @@ A spill has an activity of 3200 Bq. The activity is considered safe at 100 Bq or
 4. Time = 5 × 3 days = **15 days**.
 
 If the half-life were 3 years, the same working would give 15 years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--05-spill-half-lives.webp" width="900" height="920" alt="Bars show a spill activity halving every 3 days from 3200 Bq to 100 Bq, reached after 5 half-lives, which is 15 days. Higher Tier only." loading="lazy">
+  <figcaption>Five halvings take 3200 Bq down to the safe 100 Bq in 15 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--08-nuc-smoke-alarm.webp" width="900" height="1075" alt="Two plates with an americium-241 alpha source between them. In clean air alpha ionises the air and a small current flows. Smoke absorbs the alpha particles, so fewer ions form, the current falls and the alarm sounds." loading="lazy">
+  <figcaption>Smoke soaks up alpha particles, so the current drops and the alarm goes off.</figcaption>
+</figure>
+
 
 ## Medical uses of radiation (P6.2c, Higher Tier only)
 
@@ -121,6 +148,17 @@ A patient is injected with a tracer of activity 480 MBq. The half-life is 6.0 ho
 
 The ratio of original to final activity is 16 : 1. In practice the body also removes some tracer, so the real activity would be lower.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-tracer-gamma-camera.webp" width="900" height="950" alt="A patient lies below a gamma camera. Technetium-99m has collected in an organ and its gamma rays pass out of the body to the camera. Bars show activity halving every 6 hours from 480 to 30 MBq over 24 hours. Higher Tier only." loading="lazy">
+  <figcaption>A gamma-emitting tracer with a half-life of hours lets a camera see the organ, then fades quickly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-radiotherapy-beams.webp" width="900" height="920" alt="Three gamma beams from different directions cross at a tumour inside the body. Healthy tissue on each path gets only one beam, so the tumour receives the highest total dose. Higher Tier only." loading="lazy">
+  <figcaption>Beams from several angles give the tumour a high dose and spare healthy tissue.</figcaption>
+</figure>
+
+
 ## Nuclear fission (P6.2d, Higher Tier only)
 
 **Nuclear fission** happens when a heavy, unstable nucleus breaks into two smaller nuclei. Most nuclei do not split easily. For fission to occur, the unstable nucleus must usually first absorb a neutron. A common example is uranium-235, which absorbs a neutron and becomes an unstable nucleus that then splits.
@@ -153,6 +191,17 @@ Each fission releases three neutrons. On average, two of them cause another fiss
 
 Doubling every generation becomes enormous quickly, which is why a chain reaction must be controlled by keeping the average at 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-chain-reaction.webp" width="900" height="960" alt="A tree of fission generations doubles each time: 1, 2, 4, 8, and generation 10 has 1024 fissions with a total of 2047. Fewer than one new fission per fission dies away, exactly one is steady and more than one runs away." loading="lazy">
+  <figcaption>Each fission causing two more doubles the rate every generation, so the average must be kept at 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--03-fission-event-u235.webp" width="900" height="880" alt="A neutron is absorbed by uranium-235, giving an unstable nucleus that splits into two fission products with kinetic energy, plus two or three neutrons and gamma radiation. Higher Tier only." loading="lazy">
+  <figcaption>Uranium-235 absorbs a neutron, becomes unstable and splits.</figcaption>
+</figure>
+
+
 ## Nuclear fusion (P6.2e, Higher Tier only)
 
 In **nuclear fusion**, two light nuclei combine into one heavier nucleus. This is how stars release energy.
@@ -170,6 +219,12 @@ An isotope of hydrogen with mass number 2 fuses with an isotope of hydrogen with
 3. Both totals match, so the equation balances.
 
 ²H + ³H → ⁴He + ¹n
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--04-fusion-h2-h3.webp" width="900" height="890" alt="Hydrogen-2 and hydrogen-3 are pushed together at very high temperature, forming helium-4, a neutron and energy. Nucleon number 5 and proton number 2 balance on both sides. Higher Tier only." loading="lazy">
+  <figcaption>Fusion joins light nuclei; a little mass becomes energy and the equation balances.</figcaption>
+</figure>
+
 
 ## Common errors
 

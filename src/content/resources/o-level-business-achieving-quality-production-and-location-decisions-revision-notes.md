@@ -50,6 +50,12 @@ The tariff row is standard business vocabulary rather than a term the syllabus d
 
 Remember to link the point to the business in the question: a hospital, a bakery and a bus company all gain from quality, but in different ways.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--11-what-quality-means.webp" width="900" height="776" alt="Quality is how well something meets customer needs. A cheap notebook that holds together is high quality; an expensive hotel room with a broken lock is poor quality. Four benefits: customers come back, better reputation, fewer costly faults, fewer legal claims." loading="lazy">
+  <figcaption>Quality means meeting customer needs, not luxury.</figcaption>
+</figure>
+
+
 ### Quality control versus quality assurance
 
 | | Quality control | Quality assurance |
@@ -60,6 +66,12 @@ Remember to link the point to the business in the question: a hospital, a bakery
 | Typical methods | Inspecting every item or a sample, testing, comparing with a standard, rejecting faulty items | Written standards, supplier checks, training, workers checking their own work, planned machine maintenance, using feedback |
 | Strength | Simple; stops faults reaching customers | Less waste; fewer faults made |
 | Weakness | Waste already made; inspectors cost money; samples can miss faults | Training and systems cost money; slow to show results; needs commitment |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ### Method: estimate faulty output from a sample
 
@@ -77,6 +89,12 @@ Worked reminder: Ostwick Tiles samples 400 tiles and finds 14 cracked. The rate 
 - A sample gives an estimate, not a certainty.
 - Fewer faults reduce costs, but the prevention itself has a cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--06-sample-inspection.webp" width="900" height="1030" alt="A grid of 300 sampled jars with 12 faulty (4%). Scaling to 6,000 jars gives 240 faulty jars and waste of 156 a day. After a fix to 1% (60 jars) the saving is 117 a day. These are estimates from a sample." loading="lazy">
+  <figcaption>Sampling 300 jars lets a business estimate the faults in a whole day’s output.</figcaption>
+</figure>
+
+
 ## 4.4 Location: the essentials
 
 ### Manufacturing factors
@@ -91,6 +109,12 @@ Worked reminder: Ostwick Tiles samples 400 tiles and finds 14 cracked. The rate 
 | Utilities and room to expand | Reliable power and water; space to grow |
 | Government help | Grants or tax breaks in some areas |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ### Service business factors
 
 | Factor | Example of how it matters |
@@ -101,6 +125,17 @@ Worked reminder: Ostwick Tiles samples 400 tiles and finds 14 cracked. The rate 
 | Rent | Busy central sites cost more |
 | Staff | Skilled employees need to be able to reach the site |
 | Online delivery | Customer location matters little, so costs and staff matter more |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--08-location-rent-revenue.webp" width="900" height="900" alt="Two bars: high street 23,100 revenue less 3,500 rent leaves 19,600; out of town 16,500 less 1,800 leaves 14,700. The high street is 4,900 a month better on this comparison alone." loading="lazy">
+  <figcaption>Revenue after rent favours the high street, but other factors still matter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--13-service-location-map.webp" width="900" height="886" alt="Street map: customers walking past give footfall, a rival can take sales or draw shoppers, staff live nearby, parking and public transport help access, rent and rates are high in busy centres. Online services depend little on customer location." loading="lazy">
+  <figcaption>The location factors a service business weighs.</figcaption>
+</figure>
+
 
 ### Country choice factors
 
@@ -126,10 +161,22 @@ Worked reminder: Ostwick Tiles samples 400 tiles and finds 14 cracked. The rate 
 
 Describe controls generally. If you cannot name a law with certainty, do not guess; describe what it does instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--14-legal-controls-on-sites.webp" width="900" height="861" alt="Five controls with their effect: land-use limits can block a site, permission causes delay, environmental rules can block or add cost, safety, employment and building standards add cost, incentives attract." loading="lazy">
+  <figcaption>Legal controls can block, delay, cost or attract.</figcaption>
+</figure>
+
+
 ### Relocation
 
 - Reasons: premises too small, rising rent or costs, lease ending, customers or suppliers moving, better access to labour or markets.
 - Costs and risks: moving costs, disrupted production, staff leaving, customers unable to find the new site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--15-relocation-costs-risks.webp" width="900" height="820" alt="Five reasons to move (too small, costs rise, customers or suppliers move, lease ends, better labour or market access) and four costs and risks: moving expenses, disrupted production, staff who will not move, customers who cannot find the new site." loading="lazy">
+  <figcaption>Why a business relocates and what the move can cost.</figcaption>
+</figure>
+
 
 ### Method: recommend and justify a location
 

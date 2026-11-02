@@ -31,6 +31,12 @@ These notes condense **sub-topic 2.12, the market's inability to achieve equity*
 
 No calculation is listed for this sub-topic. Questions at AO2 depth can use command terms from AO2 or AO1, such as *explain*, *analyse*, *outline*, *distinguish*, *state* and *list*. Evaluation terms are not used for a topic at this depth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--11-equity-veldmark-incomes.webp" width="900" height="930" alt="HL only. Ten equal households in an invented free market economy, with total income 1,000 veld. Stacked bars split each household income into wages, interest, rent and profit. H1 receives 25, all wages. H10 receives 260, of which 110 is wages and 150 is interest, rent and profit. The poorest four households receive 150, which is 15 percent of income; the richest two receive 440, which is 44 percent. Property income is 345, which is 34.5 percent of all income, and the three richest households receive 280 of it." loading="lazy">
+  <figcaption>Stacked bars show wage and property income for ten households.</figcaption>
+</figure>
+
+
 ## Definitions to recall word for word
 
 | Term | Meaning |
@@ -42,6 +48,12 @@ No calculation is listed for this sub-topic. Questions at AO2 depth can use comm
 | Equity | Fairness, which is a judgement |
 | Free market economy | Prices and quantities set by buyers and sellers, with no government |
 | Property income | Rent, interest and profit, which go to owners of non-labour factors |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## The circular flow in four lines
 
@@ -59,6 +71,17 @@ Checklist for your diagram:
 - Arrows for factor services, factor incomes, spending and goods and services, each labelled.
 - The four factor incomes written on the factor income arrow.
 - A short note beside the factor market saying that inequality arises here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--10-equity-factor-market-loop.webp" width="900" height="970" alt="HL only. Households on the left and firms on the right, joined by two markets. In the product market, households spend and firms supply goods and services. In the factor market, households sell factor services (labour, land, capital, enterprise) and firms pay back factor incomes (wages, rent, interest, profit). The factor market is highlighted because inequality starts there: household H1 owns only labour and receives only wages, while household H10 owns all four factors and receives wages, rent, interest and profit. There is no government in the loop." loading="lazy">
+  <figcaption>Households sell factor services in the factor market, so inequality starts there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
 
 ## Causes of unequal outcomes, in order of use
 
@@ -115,6 +138,12 @@ Two Tarnovian households each earn a 6% return on wealth. Household R holds weal
 | Year 2 income | 60 + 15.45 = 75.45 | 24 + 1.35 = 25.35 |
 
 The income gap moves from 75 - 25.2 = 49.8 to 75.45 - 25.35 = 50.10. It is a small change in two years, but it moves in one direction and keeps going. This is the link between wealth and income that the guide's statement covers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--13-equity-wealth-snowball.webp" width="900" height="1030" alt="HL only. Capital earns 5 percent a year. Household H10 starts with wealth 800, other income 220 and saves 20 percent of income. Year 1: income 260, saving 52, wealth next year 852. Household H4 starts with wealth 100, other income 50 and saves 10 percent. Year 1: income 55, saving 5.5, wealth next year 105.5. Income bars show the gap widening from 205 in year 1 (260 against 55) to 214.45 in year 5 (270.56 against 56.11), with no policy or wrongdoing needed." loading="lazy">
+  <figcaption>H10 and H4 each save, but the household with more starting wealth gains more each year.</figcaption>
+</figure>
+
 
 ## Method for reading a data table on this topic
 

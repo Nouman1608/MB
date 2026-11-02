@@ -67,6 +67,17 @@ carbon dioxide: 250 × 0.04/100 = 0.1 cm³
 
 **Answer.** About 195 cm³ nitrogen, 52.5 cm³ oxygen, 2.25 cm³ argon and 0.1 cm³ carbon dioxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--01-air-four-gases.webp" width="900" height="920" alt="A bar shows dry air is 78% nitrogen, 21% oxygen and about 1% other gases. The last 1% is magnified 100 times: argon 0.9%, carbon dioxide 0.04%, other gases 0.06%. Argon is more abundant than carbon dioxide." loading="lazy">
+  <figcaption>The four main gases of dry air, with the last 1% magnified so argon and carbon dioxide can be compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
+  <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
+</figure>
+
+
 ## 2.10 and 2.14 Measuring the percentage of oxygen in air
 
 Every method traps a known volume of air and lets a substance react with its oxygen, forming a solid (or a product that dissolves). After returning to room temperature, the decrease in gas volume is the volume of oxygen.
@@ -132,6 +143,22 @@ cool reading: 60.0 − 47.8 = 12.2 cm³ →  12.2 ÷ 60.0 × 100 = 20.3%
 - **Low:** not all the oxygen reacted (too little iron or copper, not enough time, too few passes over the copper); reading the volume while the gas is still warm; air leaking in at a joint.
 - **High:** reading the final volume when the apparatus is colder than at the start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--02-oxygen-in-air-iron-wool.webp" width="900" height="912" alt="Two inverted measuring cylinders in a trough, with damp iron wool at the closed end. Air starts at 94.0 cm3; after eight days it is 74.6 cm3 as water rises. Oxygen used is 19.4 cm3, which is 20.6% of the starting volume." loading="lazy">
+  <figcaption>Rusting iron removes the oxygen, so the gas volume falls by about one fifth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--07-oxygen-phosphorus.webp" width="900" height="840" alt="Phosphorus burns in trapped air over water forming P4O10, which dissolves, so water rises. Starting air is 60.0 cm3 and 47.8 cm3 after cooling, giving 20.3 percent; reading while warm gives a misleading 15.8 percent." loading="lazy">
+  <figcaption>Cool the gas before reading, or the oxygen percentage comes out too low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--08-oxygen-hot-copper.webp" width="900" height="780" alt="A tube of strongly heated copper joins two gas syringes. Air is pushed back and forth until the volume stops falling as copper turns black: 2Cu + O2 gives 2CuO. Oxygen used is start minus final volume." loading="lazy">
+  <figcaption>Hot copper removes the oxygen as black copper(II) oxide.</figcaption>
+</figure>
+
+
 ## 2.11 Combustion of elements in oxygen
 
 Combustion is a reaction with oxygen that releases heat and light. Elements burn far more brightly in pure oxygen than in air, because air is only about one-fifth oxygen. Each element forms its oxide.
@@ -155,6 +182,12 @@ Water forms as steam in the flame and condenses on a cold surface, so H₂O(l) i
 ```
 
 Two marks need two separate observations. "It burns" alone is not an observation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--06-burning-elements.webp" width="900" height="930" alt="Magnesium burns with a very bright white flame to leave white magnesium oxide; hydrogen burns with a pale blue flame to make water; sulfur melts and burns with a blue flame to make sulfur dioxide. Each equation is balanced." loading="lazy">
+  <figcaption>Each element burns in oxygen to form its oxide.</figcaption>
+</figure>
+
 
 ## 2.12 Carbon dioxide from metal carbonates
 
@@ -196,6 +229,12 @@ moles CuCO₃ = 9.88 ÷ 123.5 = 0.0800 mol
 
 **(c) Paper 2 only (uses point 1.35C).** Volume of CO₂ at rtp = 0.0800 × 24 = **1.92 dm³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--03-heating-metal-carbonate.webp" width="900" height="845" alt="A boiling tube of green copper(II) carbonate is heated; a delivery tube leads the gas into limewater, which turns milky. CuCO3 becomes black CuO plus CO2. Lift the delivery tube out before removing the flame." loading="lazy">
+  <figcaption>Copper(II) carbonate decomposes to black copper(II) oxide and carbon dioxide, which clouds limewater.</figcaption>
+</figure>
+
+
 ## 2.13 Carbon dioxide as a greenhouse gas
 
 You need to know two things: carbon dioxide is a greenhouse gas, and increasing amounts of it in the atmosphere **may contribute to climate change**. A clear explanation runs in steps:
@@ -207,6 +246,12 @@ You need to know two things: carbon dioxide is a greenhouse gas, and increasing 
 5. Burning fossil fuels and cutting down forests increase the amount of carbon dioxide, so more heat is trapped. This may contribute to climate change, for example rising average temperatures, melting ice, rising sea levels and changes in weather patterns.
 
 Use the specification's wording: "may contribute to climate change".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+
 
 ## Common errors
 

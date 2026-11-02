@@ -75,6 +75,22 @@ Links: [practice questions](/resources/edexcel-igcse-maths-4ma1-applying-number-
 
 The factor is squared for area and cubed for volume.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
+
 ## 1.10 C: Time
 
 ### Facts
@@ -105,6 +121,17 @@ minutes -> decimal hours:   divide by 60
 **Must-know distinction:** 1.5 h is 1 h 30 min, not 1 h 50 min. 1 h 50 min is 1.83 h (to 2 d.p.).
 
 Use decimal hours for any multiplication (pay rates, flow rates, costs per hour). Use hours and minutes for clock answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--03-across-midnight.webp" width="900" height="670" alt="A timeline from 22 00 to 07 00 shows the shift 22 38 to 06 15 split into hops of 22 min, 7 h and 15 min, totalling 7 h 37 min." loading="lazy">
+  <figcaption>Count on to the next whole hour, then whole hours, then the remaining minutes.</figcaption>
+</figure>
+
 
 ## 1.10 C: Money
 
@@ -149,6 +176,22 @@ X -> Y via pounds:  divide by k_X, then multiply by k_Y
 
 **Comparing prices in two countries:** convert one price into the other currency, then subtract. Say clearly where it is cheaper and by how much.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--11-electricity-bill.webp" width="900" height="960" alt="Standing charge 92 x 0.48 = 44.16 pounds; units 1240 x 0.265 = 328.60; subtotal 372.76; VAT at 5% by multiplying by 1.05 gives 391.398, so pay 391.40 pounds." loading="lazy">
+  <figcaption>A bill adds standing charge and units, then VAT is added with a x1.05 multiplier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--12-best-buy-unit-cost.webp" width="900" height="925" alt="750 g for 2.85 pounds is 7.5 blocks of 100 g, 0.38 pounds per 100 g. 1200 g for 4.40 pounds is 12 blocks, about 0.3667 pounds per 100 g. The 1.2 kg bag is better value." loading="lazy">
+  <figcaption>Compare the price of the same quantity (100 g) to find the better buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--13-pounds-euros-direct.webp" width="900" height="850" alt="At 1 pound = 1.16 euros, 350 pounds x 1.16 = 406 euros, and 95 euros / 1.16 = 81.90 pounds. A double scale shows the same money is a bigger number in euros." loading="lazy">
+  <figcaption>One rate converts directly: multiply for pounds to euros, divide to go back.</figcaption>
+</figure>
+
+
 ## 1.10 A: Everyday problems
 
 - Read the final sentence first: what is the answer and its unit?
@@ -157,6 +200,12 @@ X -> Y via pounds:  divide by k_X, then multiply by k_Y
 - **Round down** when you can only fit or afford whole items (boxes in a lift, tickets with a budget).
 - For "which option is cheaper" questions, work out both totals and state the difference.
 - For "when do two tariffs cost the same", divide the difference in fixed charges by the difference in rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--04-tiling-floor.webp" width="900" height="772" alt="A 3.6 m by 2.4 m floor, shown as 360 cm by 240 cm, is covered by 12 by 8 square tiles of side 30 cm. That gives 96 tiles, checked by dividing the areas." loading="lazy">
+  <figcaption>Convert to one unit first, then count 12 x 8 = 96 tiles.</figcaption>
+</figure>
+
 
 ## 1.11: Calculator essentials
 
@@ -183,6 +232,22 @@ The specification lists minimum calculator functions on page 42: for both tiers,
 | 31.104 | bags needed | 32 bags |
 | 7.98 | coaches of 50 for 399 people | 8 coaches |
 | 4.6E+05 or 4.6 × 10⁵ | standard form | 4.6 × 10⁵ (not 4.6⁵) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--09-calculator-brackets.webp" width="900" height="990" alt="(2.7 + 5.85) / (1.9 x 0.4) = 8.55 / 0.76 = 11.25 when keyed with brackets. Without brackets 2.7 + 5.85 / 1.9 x 0.4 gives about 3.93 because only 5.85 is divided by 1.9." loading="lazy">
+  <figcaption>Brackets must be keyed so the whole numerator and denominator are grouped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--10-negative-squared.webp" width="900" height="910" alt="(-4)^2 puts -4 in brackets, so (-4) x (-4) = 16. -4^2 squares only the 4 to get 16 then applies the minus, giving -16. Bracket a negative before squaring." loading="lazy">
+  <figcaption>Brackets decide whether the minus sign is squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--06-entering-time.webp" width="900" height="1000" alt="A clock shows 50 minutes as 50/60 of an hour, so 1 h 50 min is 1.8333 h. Dividing 148 by 1 + 50/60 gives 80.7 km/h. Typing 1.50 gives 98.7 and rounding to 1.83 first gives 80.9, both wrong." loading="lazy">
+  <figcaption>Convert minutes by dividing by 60 and keep the full value.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

@@ -54,6 +54,17 @@ Oligopolies differ by how many firms there are, how differentiated products are 
 
 Reminder: shares of 30%, 20%, 12% and 8% give a three-firm ratio of 62% and a four-firm ratio of 70%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
+
 ## Kinked demand curve
 
 - If price rises and rivals hold theirs, customers switch, so demand above the kink is elastic.
@@ -70,6 +81,12 @@ Reminder: shares of 30%, 20%, 12% and 8% give a three-firm ratio of 62% and a fo
 Reminder: for PED use (1 / slope) × (P / Q). A segment P = 24 − 0.04Q at P = 16, Q = 200 gives PED (1 / 0.04) × (16 / 200) = 2.0.
 
 **Limits of the model (evaluation).** It is silent on why the kink price was chosen. It covers only some features of some oligopolies. A cost rise common to all firms is likely to be matched by rivals. Prices do change in practice, often through leadership.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--01-kinked-demand.webp" width="900" height="920" alt="Demand is elastic (PED 3.0) above the kink at 200 units and £30 and inelastic (PED 0.5) below it. Marginal revenue is £20 at the end of the upper segment and -£30 at the start of the lower, leaving a vertical gap. Marginal cost lines at £8 and £15 both cut the gap, so price and output do not change." loading="lazy">
+  <figcaption>Marginal cost can move anywhere inside the marginal revenue gap without changing price or output.</figcaption>
+</figure>
+
 
 ## Collusion
 
@@ -92,6 +109,17 @@ Collusion lets firms behave like a single monopolist and maximise joint profit. 
 
 **Must-know distinctions.** Overt versus tacit collusion. Limit pricing (price above cost, entry unprofitable) versus predatory pricing (price below cost, to remove a rival). Price leadership (rivals follow a leader) versus price war (rivals undercut each other).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--02-cartel-joint-profit.webp" width="900" height="900" alt="Demand is P = 96 - 2Q with marginal revenue 96 - 4Q and marginal cost £24. Competition would give 36 thousand units at £24 and zero profit. A cartel sets MR = MC at 18 thousand units and charges £60, earning joint profit of £648 thousand, shown as the shaded rectangle." loading="lazy">
+  <figcaption>A cartel restricts output to 18 thousand and raises price to £60 to earn joint profit of £648 thousand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--03-cartel-payoff-table.webp" width="900" height="940" alt="A two by two payoff table in £ million. Both keeping price gives 24, 24; both undercutting gives 14, 14. Whatever the rival does, undercutting pays more (33 against 24, and 14 against 9), so the uncoordinated outcome is worse for both than 24, 24." loading="lazy">
+  <figcaption>Undercutting is each firm's best reply, so the cartel outcome of 24, 24 is hard to sustain.</figcaption>
+</figure>
+
+
 ## Pricing behaviour and non-price competition
 
 - **Price war:** consumers gain in the short run; profits fall; weaker firms may leave; rivals may later raise price.
@@ -99,9 +127,26 @@ Collusion lets firms behave like a single monopolist and maximise joint profit. 
 - **Non-price competition** makes demand less elastic, builds loyalty and avoids price wars. Types include branding and advertising, quality, service and design.
 - **Advertising break-even:** extra units needed = campaign cost divided by margin per unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--05-limit-vs-predatory-pricing.webp" width="900" height="1150" alt="Limit pricing: at 13 the incumbent earns 2.4m but entry still pays; at 10 it earns 1.44m and entry is blocked, costing 0.96m a year. Predatory pricing: profit +0.9m normally, -0.72m in the war year and +1.68m after the rival leaves; payback about 2.1 years." loading="lazy">
+  <figcaption>Both tactics give up profit now to protect profit later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--06-advert-campaign-break-even.webp" width="900" height="970" alt="Net gain against percentage rise in sales. The line crosses zero at 9.2% (0.6m extra units); 8% gives -0.36m and 10% gives +0.225m." loading="lazy">
+  <figcaption>The campaign pays only if sales rise by more than 9.2%.</figcaption>
+</figure>
+
+
 ## R&D and barriers
 
 R&D lets firms compete without price cuts but is uncertain. R&D intensity = R&D spending / revenue × 100. Expected value = probability of success × payoff. Innocent barriers: economies of scale, capital cost. Strategic barriers: limit and predatory pricing, heavy advertising, excess capacity, exclusive contracts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--08-mes-and-entry-barriers.webp" width="900" height="910" alt="A market of 1,200 thousand units holds three blocks of 360 (30% each) plus 120 left over, so three efficient firms. Innocent barriers are scale economies, capital cost and reputation; strategic barriers are limit pricing, predatory pricing, advertising, excess capacity and exclusive contracts." loading="lazy">
+  <figcaption>Minimum efficient scale limits the number of firms; barriers may be innocent or strategic.</figcaption>
+</figure>
+
 
 ## Objectives, advantages and disadvantages
 
@@ -114,6 +159,12 @@ R&D lets firms compete without price cuts but is uncertain. R&D intensity = R&D 
 **Advantages:** economies of scale, funds for R&D, variety, price stability. **Disadvantages:** higher prices under collusion, allocative inefficiency, wasteful advertising, barriers that protect profit, less cost pressure.
 
 **Evaluation checklist:** barriers to entry, collusion or competition, short run or long run, level of R&D, regulation, and the type of market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--09-oligopoly-evaluation-chain.webp" width="900" height="1016" alt="Few firms mean interdependence; a price war hurts all; so firms avoid price cuts and compete on branding and R&amp;D. That brings variety and innovation but possibly higher prices and wasteful advertising. The net effect depends on entry, collusion and real innovation." loading="lazy">
+  <figcaption>Each link in the chain leads to both a gain and a loss to weigh.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

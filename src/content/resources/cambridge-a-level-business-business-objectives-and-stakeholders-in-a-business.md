@@ -65,6 +65,27 @@ These form a chain from the broad to the specific.
 
 A common error is to treat a mission statement as a target. It has no number and no deadline.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--13-obj-tbl.webp" width="900" height="930" alt="Three overlapping circles: economic (break even), social (free uniforms for low-income families) and environmental (less textile waste) for Brightstitch Cooperative. A business using the triple bottom line reports on all three." loading="lazy">
+  <figcaption>The triple bottom line judges economic, social and environmental performance, not profit alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--12-obj-sector-objectives.webp" width="900" height="1140" alt="Private sector: survival, profit, growth, market share, sales revenue, returns for owners. Public sector: service for all, set budget, service standards. Social enterprise: social or environmental purpose, revenue to survive, surplus back into the cause." loading="lazy">
+  <figcaption>Typical objectives differ by sector, especially on profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## 1.4.2 Objectives and business decisions
 
 ### Stages of decision-making
@@ -80,6 +101,12 @@ Objectives are not fixed. A business may change them because of:
 - new competitors or new technology;
 - a change of owner, manager or law;
 - pressure from stakeholders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
 
 ### Translating objectives into targets and budgets
 
@@ -97,6 +124,12 @@ The managers now have figures they can be held to, and the review stage can comp
 
 Employees can only work towards objectives they know about. Clear communication gives direction and can raise motivation, particularly if staff help shape the targets. Poor communication causes confusion, and unrealistic targets can cause stress, resentment or resignations. If an objective means job losses or a new way of working, staff are likely to resist unless the reasons are explained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--13-obj-communicate.webp" width="900" height="881" alt="From the 15% sales objective: clear explanation with staff involved gives direction and motivation; poor communication, unrealistic targets or unexplained change give confusion, stress, resentment, resignations and resistance." loading="lazy">
+  <figcaption>How communicating an objective affects the workforce.</figcaption>
+</figure>
+
+
 ### SMART objectives
 
 A SMART objective is **specific, measurable, achievable, realistic** and **time-limited**. "Become the best" fails every test. "Increase sales revenue from the school market by 8% by the end of the next financial year" passes. Be ready to say which element of a given objective is missing, and note that "achievable" and "realistic" overlap, so use the context to separate them: achievable concerns resources, realistic concerns whether the target is sensible in the market.
@@ -104,6 +137,22 @@ A SMART objective is **specific, measurable, achievable, realistic** and **time-
 ### Ethics
 
 **Ethics** are the moral principles that guide behaviour. They can shape objectives, for example by rejecting profit from unsafe products, and they can shape activities, such as fair pay for suppliers. An ethical stance may raise costs or limit sales in the short term. It can also build reputation and customer loyalty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--11-obj-decision-stages.webp" width="900" height="948" alt="Six stages run from set objectives to review, with the review looping back to the start. Objectives start the process at stage 1, test the options at stage 4 and are the benchmark in the review at stage 6." loading="lazy">
+  <figcaption>Objectives start the decision, test the options and are the benchmark for the review.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--12-obj-targets.webp" width="900" height="990" alt="A 15% revenue objective turns 480,000 into a 552,000 target (+72,000), split 20/20/25/35% into 110,400, 110,400, 138,000 and 193,200. A marketing budget of 4% of the target is 22,080." loading="lazy">
+  <figcaption>A 15% objective becomes a 552,000 target, quarterly targets and a 22,080 marketing budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--14-obj-smart.webp" width="900" height="810" alt="Five tests: specific, measurable, achievable, realistic, time-limited. Become the best fails all five; the school-market objective with 8% and a year-end deadline passes. Achievable concerns resources; realistic concerns the market." loading="lazy">
+  <figcaption>Check each SMART letter: the vague aim fails every test and the dated, measured one passes.</figcaption>
+</figure>
+
 
 ## 1.5.1 Business stakeholders
 
@@ -128,6 +177,12 @@ Owners can be classed as internal because they work in or control the business. 
 | Local community | Hosts the business | A reasonable environment | Support lawful activity |
 
 Keep legal rights general. Name the right, not a statute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--11-obj-stakeholder-rights.webp" width="900" height="1011" alt="Six stakeholders with their role, rights and responsibilities in three columns, as in the lesson table." loading="lazy">
+  <figcaption>Each stakeholder has a role, rights and responsibilities.</figcaption>
+</figure>
+
 
 ## 1.5.2 Relative importance, influence and accountability
 
@@ -159,6 +214,17 @@ Conflict arises because aims differ. Higher pay for staff reduces profit; lower 
 - Local shops may lose customers if passenger numbers fall.
 
 A strong answer weighs these groups against each other and says which matters most in this case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--15-obj-ravensley.webp" width="900" height="990" alt="Ravensley moves from low fares for all to fares covering 80% of running costs. Low-income passengers lose, employees face a mixed effect, taxpayers gain and local shops may lose customers." loading="lazy">
+  <figcaption>One objective change affects stakeholder groups differently, so weigh them against each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--14-obj-accountable.webp" width="900" height="840" alt="The business explains and justifies its actions through annual reports, meetings and consultation to those affected, such as investors who want clear reporting and customers who want honest claims." loading="lazy">
+  <figcaption>Accountability means explaining and justifying actions to those affected.</figcaption>
+</figure>
+
 
 ## A third type: a social enterprise in practice
 

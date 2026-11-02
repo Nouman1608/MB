@@ -46,6 +46,12 @@ Percentage change = (new − old) ÷ old × 100.
 
 **Reminders for YED and XED.** Income 2,000 to 2,500 cu (+25%) and demand 50 to 57.5 units (+15%): YED = +0.6, a necessity. The price of B falls 5 to 4 cu (−20%) and demand for A rises 400 to 460 (+15%): XED = −0.75, complements. Note the denominators: income for YED, the other good's price for XED.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## 2.2.3: sign and size
 
 | Coefficient | Value | Meaning |
@@ -62,6 +68,12 @@ Percentage change = (new − old) ÷ old × 100.
 - Larger size of XED means a closer relationship between the goods.
 - Elasticity uses relative (percentage) changes, so a 1 cu rise is large for a 2 cu good and small for a 20 cu good.
 - Elasticity has no units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
 
 ## 2.2.4: descriptions of PED (using size)
 
@@ -95,6 +107,22 @@ Here slope in terms of P against Q is −1, so point PED = −P ÷ Q. At P = 45,
 
 For a large change, the base matters. State the base you use, or use a small change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--09-ped-line-80-4q.webp" width="900" height="1060" alt="Straight demand line P = 80 − 4Q with points at output 5, 10 and 15. PED is −3 (elastic) at the top, −1 at the midpoint and −0.33 (inelastic) lower down. The revenue curve beneath peaks at 400 at the midpoint and is 300 at the other two points." loading="lazy">
+  <figcaption>Along P = 80 − 4Q the slope stays −4 but PED falls from elastic to inelastic and revenue peaks at the midpoint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--10-ped-five-demand-shapes.webp" width="900" height="1320" alt="Five demand curve sketches: vertical (PED 0), steep (between 0 and 1), rectangular hyperbola (1), shallow (greater than 1) and horizontal (infinity)." loading="lazy">
+  <figcaption>The five named cases of PED and the demand-curve shape that goes with each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand--04-ped-base-choice.webp" width="900" height="1000" alt="Demand line P = 80 - 4Q with point A (quantity 5, price 60) and point B (quantity 10, price 40). Moving A to B: price -33.3%, quantity +100%, PED -3.0, matching the point value at 60. Moving B to A: price +50%, quantity -50%, PED -1.0, matching the point value at 40." loading="lazy">
+  <figcaption>Going from 60 to 40 gives PED −3.0; going back from 40 to 60 gives −1.0, so state your base.</figcaption>
+</figure>
+
+
 ## 2.2.6: factors affecting each elasticity
 
 | Elasticity | Higher (more elastic) when | Lower (more inelastic) when |
@@ -122,6 +150,12 @@ Total expenditure = price × quantity.
 **Two-step chain for a pricing answer.** First state PED and what it implies for revenue (for example, inelastic demand means a price rise increases revenue). Then qualify it: costs, rivals' reactions, the time period and the objective of the firm.
 
 **Taxes.** A government wanting revenue from an indirect tax prefers a good with inelastic demand, because quantity falls by less. A government wanting to reduce consumption finds the same tax less effective on such a good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## 2.2.8: implications for decision-making
 

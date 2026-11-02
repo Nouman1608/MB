@@ -44,6 +44,12 @@ All figures are invented for illustration.
 | Real wage unemployment | Real wage held above the market-clearing level |
 | Natural rate | Unemployment when the economy is at potential output; no cyclical element |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Measure | Formula |
@@ -66,6 +72,17 @@ Method in steps: unemployment rate
 - The LFS is a sample, so it has sampling error. It uses a consistent definition, which suits international comparison.
 - Neither captures hidden unemployment well: discouraged workers, and workers who want more hours.
 - Reminder: a fall in the rate with unchanged employment means the labour force shrank.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--04-measuring-unemployment.webp" width="900" height="980" alt="Bar of 42.0 million: 28.5 employed, 1.5 unemployed, 12.0 inactive. Unemployment rate 5.0%, activity rate 71.4%; claimant count 1.05 is 0.45 below the survey figure." loading="lazy">
+  <figcaption>Rates use the labour force; the two UK measures differ by 0.45 million.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--05-hidden-unemployment-participation.webp" width="900" height="950" alt="Rate falls from 5.0% to 4.0% with employment unchanged because 0.30 million left the labour force; discouraged workers are hidden unemployment." loading="lazy">
+  <figcaption>A fall in the rate can come from falling participation, not new jobs.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -102,6 +119,27 @@ Worked reminder (a local labour market, wage in pounds, labour in thousands): Ld
 
 Determinants of real wage unemployment: union bargaining, minimum wage level, slow downward adjustment of wages, benefit levels, and productivity relative to the real wage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--01-real-wage-unemployment.webp" width="900" height="1100" alt="Labour market graph: demand and supply cross at wage 10 and 400 thousand. At wage 12, 360 are demanded and 440 supplied, so 80 thousand are unemployed, 40 who lose jobs and 40 extra entrants." loading="lazy">
+  <figcaption>At a wage of 12 the labour market has 80 thousand unemployed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--07-real-wage-check.webp" width="900" height="980" alt="Money wages +7%, prices +2% give real wage +4.9%; with productivity +1%, labour is 3.9% dearer relative to output." loading="lazy">
+  <figcaption>Real wage growth above productivity growth puts jobs at risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--09-voluntary-involuntary.webp" width="900" height="1010" alt="Labour market with Ld = 600 - 20W and Ls = 200 + 20W. At wage 12 the gap 360 to 440 is involuntary; those on the supply curve above 12 are voluntary; at equilibrium 10 none are involuntary." loading="lazy">
+  <figcaption>Only those willing at the going wage are involuntarily unemployed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
+
 ## Natural rate, output gap and LRAS
 
 - Natural rate determinants: benefit design, labour market flexibility, skills mismatch, mobility, union power, minimum wages, and how quickly industries change.
@@ -129,6 +167,17 @@ This assumes output per worker is constant. In practice firms may keep staff, or
 
 AD/AS in words: a fall in AD shifts the AD curve left along the short-run AS curve to a lower price level and lower real GDP, below the vertical LRAS. That distance is the negative output gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--03-output-gap-cyclical.webp" width="900" height="980" alt="Bars of the 30.0 million labour force (axis from 25m): at potential 28.8 employed and 1.2 natural unemployed; at actual output 27.36 employed, 1.44 cyclical and 1.2 natural." loading="lazy">
+  <figcaption>A negative output gap of 5% adds 1.44 million cyclical unemployed to the 1.2 million natural level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+
 ## Consequences
 
 | | Effects |
@@ -136,6 +185,12 @@ AD/AS in words: a fall in AD shifts the AD curve left along the short-run AS cur
 | Individuals | Lower income, poverty, skill loss, poorer health, family strain, exclusion |
 | Economy | Lost output, higher benefit spending, lower tax revenue, weaker consumption, inequality, wasted human capital |
 | Evaluation | Duration, scale, regional concentration, benefit level, whether voluntary, state of the cycle |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--08-unemployment-consequences.webp" width="900" height="950" alt="Lost output 90bn on top of actual 1,710bn; fiscal cost 24.48bn (11.52 benefits plus 12.96 lost tax); jobless lead to less income, spending, output." loading="lazy">
+  <figcaption>1.44 million cyclically unemployed cost 90bn output and 24.48bn fiscal.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 
@@ -178,6 +233,17 @@ Method in steps: classify a case
 8. Left, because potential output falls when more of the labour force is structurally or frictionally out of work.
 9. Some jobless people are ineligible, and some do not claim.
 10. 0.8m x 16,000 = 12.8 billion pounds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--02-structural-mismatch.webp" width="900" height="900" alt="Two bars: 90,000 jobs lost, 45,000 matched and 45,000 still unemployed; 60,000 vacancies, 45,000 filled and 15,000 unfilled." loading="lazy">
+  <figcaption>Unemployment and vacancies coexist when skills or location do not match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-employment-and-unemployment--06-seasonal-adjustment.webp" width="900" height="840" alt="A January rise of 120,000 includes 100,000 that is normal; the seasonally adjusted rise is 20,000." loading="lazy">
+  <figcaption>Seasonal adjustment removes the normal January rise.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

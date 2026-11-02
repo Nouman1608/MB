@@ -71,6 +71,17 @@ Mangrove swamps are flooded by tides, salty, and the waterlogged mud has little 
 
 Notice the pattern in good answers: name the abiotic problem, state the feature, then explain how the feature solves the problem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--01-marram.webp" width="900" height="1080" alt="Top: a marram leaf cross-section rolled inwards, with a thick waxy cuticle on the outside and sunken stomata with hairs in grooves on the inside, around a humid air pocket so little vapour escapes. Bottom: the plant in sand with very long roots, rhizomes and growth up through buried sand." loading="lazy">
+  <figcaption>A rolled leaf traps humid air by the stomata, and roots, rhizomes and upward growth cope with dry, shifting sand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--02-mangrove.webp" width="900" height="910" alt="Two mangrove trees in salty tidal water over oxygen-poor mud. Rhizophora has prop roots that anchor it and seedlings that grow on the tree; Avicennia has upward-growing pneumatophores with pores for gas exchange. A leaf inset shows salt glands excreting salt." loading="lazy">
+  <figcaption>Prop roots anchor, pneumatophores supply air, salt glands remove salt and seedlings germinate on the tree.</figcaption>
+</figure>
+
+
 ## B4.1.3 Abiotic variables and distribution
 
 Species are found only where abiotic conditions suit them. Examples of abiotic variables:
@@ -107,6 +118,12 @@ A fish was reared for a month at eight temperatures (data supplied).
 
 You should collect your own data from a natural or semi-natural habitat (influenced by humans but dominated by wild species), then correlate distribution with an abiotic variable. A **belt or line transect** is laid across an environmental gradient, such as from open dune towards woodland. At regular intervals you count or estimate species abundance (quadrats) and measure the abiotic variable. Sensors can measure temperature, light intensity and soil pH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--04-transect.webp" width="900" height="1110" alt="Six quadrats along a 50 m transect show species A in 18, 15, 9, 5, 2 and 0 of 20 squares while soil pH falls from 8.2 to 6.1. A scatter graph of quadrats against pH shows a strong positive correlation. Correlation is not proof that pH is the cause." loading="lazy">
+  <figcaption>Species A declines as soil pH falls, a correlation that does not on its own prove pH is the cause.</figcaption>
+</figure>
+
+
 ### Worked example: interpreting a transect
 
 | Distance / m | 0 | 10 | 20 | 30 | 40 | 50 |
@@ -118,6 +135,12 @@ You should collect your own data from a natural or semi-natural habitat (influen
 - Frequency falls from 18 to 5 between 0 and 30 m, a change of (5 − 18) ÷ 18 × 100 = −72.2 %.
 - Correlation does not prove causation. Light, moisture and competition may also change along the transect, so you should say pH is a possible limiting factor and suggest repeating the transect or testing A's growth at different pH values in controlled conditions.
 - To improve reliability, use more quadrats per interval, repeat along parallel transects and standardise quadrat size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--03-tolerance.webp" width="900" height="810" alt="Growth of a fish in mm per day against temperature from 4 to 32 degrees Celsius, plotted from the lesson data. Growth peaks at 3.9 at 16 degrees (optimum) and is zero at 4 and 32 degrees, a range of 28 degrees. Growth at 24 degrees is 53.8 percent lower than at the optimum." loading="lazy">
+  <figcaption>Growth is highest at the optimum, falls in the zones of stress and reaches zero at the limits of tolerance.</figcaption>
+</figure>
+
 
 ## B4.1.5 Conditions for coral reef formation
 
@@ -131,6 +154,12 @@ Reef-building corals are animals whose polyps contain photosynthetic algae (zoox
 
 Worked reasoning: if light intensity halves every 5 m (data supplied), 20 m is four halvings, so (1/2)⁴ = 1/16 = 6.25 % of surface light remains. This explains why reef growth declines rapidly with depth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--05-coral.webp" width="900" height="960" alt="Seawater column from the surface to 20 m getting darker with depth, with coral on a sloping seabed in shallow water. Bars show light remaining: 100, 50, 25, 12.5 and 6.25 percent at 0, 5, 10, 15 and 20 m. Tiles give warm water 23 to 29 degrees Celsius, clear water, stable salinity and pH about 8.1." loading="lazy">
+  <figcaption>Light halves every 5 m, so reef-building corals and their algae are restricted to shallow, clear, warm water of stable salinity and pH about 8.1.</figcaption>
+</figure>
+
+
 ## B4.1.6 Abiotic factors and biome distribution
 
 For a given pattern of temperature and rainfall, one type of natural ecosystem is likely to develop. A **biome distribution graph** (a Whittaker-type diagram) plots mean annual temperature on the horizontal axis and annual rainfall on the vertical axis, with regions marked for each biome.
@@ -141,6 +170,12 @@ How to read it:
 - Moving left (colder) gives taiga, then tundra.
 - Low rainfall at any temperature gives desert (hot) or tundra (cold); intermediate rainfall gives grassland.
 - Where regions overlap, other factors such as seasonality, soil and fire decide which biome occurs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--06-biomes.webp" width="900" height="980" alt="A schematic biome graph with mean annual temperature across and rainfall up. Warm and very wet is tropical forest; colder at high rainfall gives temperate forest then taiga; cold and dry gives tundra; hot and very dry gives hot desert; intermediate rainfall gives grassland." loading="lazy">
+  <figcaption>Mean annual temperature and rainfall together determine which biome develops.</figcaption>
+</figure>
+
 
 ## B4.1.7 Biomes and convergent evolution
 
@@ -156,6 +191,12 @@ A **biome** is a group of ecosystems in different places that have similar commu
 | Hot desert | very low rainfall, hot days, often cold nights |
 
 Similar communities arise because similar selection pressures act on unrelated species and favour similar solutions, which is **convergent evolution**. Examples: American cacti and certain African *Euphorbia* species both have succulent, spiny, water-storing stems; kangaroo rats in North America and jerboas in Africa and Asia are both small, nocturnal, hopping desert rodents. Their common features did not come from a recent shared ancestor with those features.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--07-convergent.webp" width="900" height="1020" alt="Two pairs of unrelated desert organisms with similar features: American cacti and African Euphorbia have succulent, spiny, water-storing stems; kangaroo rats and jerboas are small, nocturnal, hopping rodents. The similarity arises from the same selection pressure, not from a recent shared ancestor." loading="lazy">
+  <figcaption>Unrelated species in similar conditions evolve similar solutions.</figcaption>
+</figure>
+
 
 ## B4.1.8 Adaptations in hot deserts and tropical rainforest
 
@@ -177,6 +218,12 @@ Similar communities arise because similar selection pressures act on unrelated s
 | Bromeliads and orchids | Grow as epiphytes on branches | Reach more light without growing a tall trunk |
 | Lianas | Climb on trees | Reach light cheaply |
 | Three-toed sloth (*Bradypus*) | Slow metabolism, algae in fur | Low energy need, camouflage in canopy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--08-desert-forest.webp" width="900" height="1110" alt="Top: a saguaro cactus in a hot desert with a pleated stem that swells with stored water, spines, shallow wide roots and stomata that open at night. Bottom: a kapok tree in rainforest with buttress roots in thin soil, drip-tip leaves that shed water and an epiphyte reaching light." loading="lazy">
+  <figcaption>Each feature solves a problem: water storage and shade in deserts; support, shedding water and reaching light in rainforest.</figcaption>
+</figure>
+
 
 ## Common errors
 

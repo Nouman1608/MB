@@ -46,6 +46,12 @@ Pure elements and compounds **melt and boil at specific temperatures**. A mixtur
 **Worked example 1.** A pure compound melts at 134 °C. Sample P melts sharply at 134 °C. Sample Q starts to melt at 126 °C and is fully melted at 131 °C. Which is pure?
 P matches the known value and melts at one temperature, so **P is pure**. Q melts below 134 °C and over a 5 °C range, so **Q is impure**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
+  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
+</figure>
+
+
 ## Formulations (4.8.1.2)
 
 A **formulation** is a mixture that has been designed as a useful product. Each chemical in it has a particular purpose, and the components are mixed in **carefully measured quantities** so the product has the required properties.
@@ -99,6 +105,22 @@ Investigate how paper chromatography separates coloured substances and calculate
 4. Remove the paper before the solvent reaches the top; mark the solvent front at once.
 5. Measure distances and calculate Rf values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--04-reading-chromatogram.webp" width="900" height="770" alt="Lanes A, B and C are known substances with one spot each. Lane X has two spots level with A and C, so it is impure and contains A and C. Lane Y has one spot level with B, so it is pure and matches B." loading="lazy">
+  <figcaption>Matching heights identify substances; one spot means pure, two or more means impure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
+</figure>
+
+
 ## Tests for gases (4.8.2)
 
 | Gas | Test | Positive result |
@@ -109,6 +131,12 @@ Investigate how paper chromatography separates coloured substances and calculate
 | Chlorine | damp litmus paper put into the gas | litmus is **bleached and turns white** |
 
 Note the difference: **burning** splint for hydrogen, **glowing** splint for oxygen. The litmus for chlorine must be **damp**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
+
 
 ## Identifying ions (4.8.3)
 
@@ -125,6 +153,12 @@ Flame tests identify some metal ions (cations). A clean wire loop is dipped in t
 | Copper, Cu²⁺ | green |
 
 If a sample contains a **mixture** of ions, some flame colours can be **masked** -- the strong yellow of sodium can hide lilac potassium, for example. That limits flame tests to single compounds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--05-flame-test-colours.webp" width="900" height="1000" alt="Lithium crimson, sodium yellow, potassium lilac, calcium orange-red, copper green. Sodium and potassium together look yellow, because yellow hides lilac." loading="lazy">
+  <figcaption>Flame colours identify single compounds only.</figcaption>
+</figure>
+
 
 ### Metal hydroxides (4.8.3.2)
 
@@ -151,6 +185,17 @@ ionic:  Fe³⁺ + 3OH⁻ → Fe(OH)3
 
 You are not expected to write equations for the aluminium precipitate dissolving (sodium aluminate).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--06-hydroxide-precipitates.webp" width="900" height="1046" alt="Six cations with NaOH: Al white, dissolves in excess; Ca and Mg white, stay; Cu(II) blue, Fe(II) green, Fe(III) brown, all stay. A flame test separates Ca from Mg." loading="lazy">
+  <figcaption>Precipitate colour and behaviour in excess identify the cation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--03-iron-iii-hydroxide.webp" width="900" height="820" alt="Fe3+ combines with three OH- to give brown Fe(OH)3, with charges balancing to zero. The full equation FeCl3 + 3NaOH gives Fe(OH)3 + 3NaCl has 1 Fe, 3 Cl, 3 Na, 3 O and 3 H on each side." loading="lazy">
+  <figcaption>Why Fe(III) needs three hydroxide ions, and the balanced equation.</figcaption>
+</figure>
+
+
 ### Carbonates, halides and sulfates (4.8.3.3–4.8.3.5)
 
 | Ion | Test | Positive result |
@@ -162,6 +207,12 @@ You are not expected to write equations for the aluminium precipitate dissolving
 | Sulfate, SO4²⁻ | add dilute hydrochloric acid, then barium chloride solution | **white** precipitate (barium sulfate) |
 
 The acid is added first to remove carbonate ions, which would also form a precipitate and give a false result. Use nitric acid for halides -- hydrochloric acid would add chloride ions. Hydrochloric acid is fine for the sulfate test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--07-carbonate-halide-sulfate-tests.webp" width="900" height="1080" alt="Carbonate: acid, gas to limewater, milky. Halides: nitric acid then silver nitrate, white, cream, yellow. Sulfate: hydrochloric acid then barium chloride, white. Acid first stops false precipitates." loading="lazy">
+  <figcaption>Acidify first, then add the reagent and read the precipitate colour.</figcaption>
+</figure>
+
 
 ### Required practical 7
 
@@ -185,6 +236,17 @@ Instrumental methods detect and identify elements and compounds. Compared with t
 
 A water sample gives an intensity of 30. Find its sodium concentration.
 Intensity rises by 12 for every 5 mg/dm³, which is 2.4 units per mg/dm³. Concentration = 30 ÷ 2.4 = **12.5 mg/dm³**. On a graph, read across from 30 to the line and down to the axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--08-flame-emission-spectra.webp" width="900" height="970" alt="A sample in a flame gives a line spectrum. Reference patterns for sodium and potassium are compared with a sample showing both sets of lines, so both ions are present even in a mixture." loading="lazy">
+  <figcaption>Matching line patterns identifies ions, even in a mixture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--09-flame-emission-calibration.webp" width="900" height="1010" alt="Standards 0 to 20 mg/dm3 give intensities 0 to 48, a line of 2.4 units per mg/dm3. A sample of intensity 30 is read across and down to 12.5 mg/dm3." loading="lazy">
+  <figcaption>Read a sample concentration from a calibration line.</figcaption>
+</figure>
+
 
 ## Common errors
 

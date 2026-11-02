@@ -41,6 +41,12 @@ DNA (gene) → mRNA → polypeptide
 
 Making mRNA from the gene is **transcription**. Using the mRNA to build a polypeptide is **translation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
+
+
 ## The nature of the genetic code
 
 The genetic code is the set of rules that links base sequences to amino acids. Four features are required.
@@ -103,6 +109,22 @@ Coding strand (5' to 3'): ATG AAA CCT GAT TAG. This matches the mRNA with T in p
 
 Using the codons AUG = methionine, AAA = lysine, CCU = proline, GAU = aspartic acid and UAG = stop, the polypeptide is **Met-Lys-Pro-Asp**, four amino acids.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+
 ## The three types of RNA
 
 | RNA | Structure | Role |
@@ -112,6 +134,22 @@ Using the codons AUG = methionine, AAA = lysine, CCU = proline, GAU = aspartic a
 | rRNA | Long RNA molecules with a defined folded shape, combined with proteins. | Makes up most of the ribosome, which has a large and a small subunit. Holds mRNA and tRNA in position and helps form peptide bonds. |
 
 Each tRNA type carries only one kind of amino acid. This match is what makes the code work: the anticodon fixes which amino acid is added at each codon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--09-atp-adp.webp" width="900" height="915" alt="ATP is made of adenine, the sugar ribose and three phosphate groups; adenine plus ribose is adenosine. Hydrolysis with water splits ATP into ADP, which has two phosphates, and an inorganic phosphate Pi, releasing energy. Condensation of ADP and Pi resynthesises ATP in respiration or photosynthesis. Example: releasing 30.5 kilojoules per mole coupled to a reaction needing 14.0 gives a net 16.5." loading="lazy">
+  <figcaption>ATP is hydrolysed to ADP and Pi to release energy, and resynthesised by condensation.</figcaption>
+</figure>
+
 
 ## Translation
 
@@ -145,6 +183,12 @@ Each anticodon is the complement of its codon. The polypeptide is Met-Lys-Pro-As
 A ribosome adds 8 amino acids per second (data supplied). How long does it take to make a polypeptide of 240 amino acids?
 
 Time = 240 ÷ 8 = **30 seconds**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
+
 
 ## Common errors
 

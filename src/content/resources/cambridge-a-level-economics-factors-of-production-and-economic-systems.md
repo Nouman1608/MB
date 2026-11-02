@@ -59,6 +59,12 @@ Three points are tested often. First, capital in economics is not money. A pile 
 - Floor space is land in the broad sense. A bank loan is money, so it is not itself a factor. It buys capital.
 - The decision to expand, taking the risk and organising the extra inputs, is enterprise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+
 ## 1.3.2 Human capital and physical capital
 
 **Physical capital** is the man-made equipment and buildings used in production. **Human capital** is the skill, knowledge and health a worker builds through education, training and experience. Both raise what a worker can produce, and both cost something now to get a gain later.
@@ -78,6 +84,12 @@ Three points are tested often. First, capital in economics is not money. A pile 
 - Annual return = 600 ÷ 3,000 = 20%.
 
 If the firm paid and she left after 3 years, the firm would have gained only 3 × 600 = 1,800 cu against a cost of 3,000, a loss of 1,200 cu. This is why firms are cautious about paying for general training. Earnings she forgoes while studying would cut the true return further.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--04-human-capital-payback.webp" width="900" height="830" alt="Cumulative net gain from a 3,000 cu course that adds 600 cu a year: starts at -3,000, crosses zero at year 5, reaches +3,000 at year 10. If the firm paid and she left after year 3 the firm is 1,200 cu worse off (1,800 gain vs 3,000 cost)." loading="lazy">
+  <figcaption>Payback is 5 years, but only if the trained worker stays.</figcaption>
+</figure>
+
 
 ## 1.3.3 Rewards to the factors
 
@@ -104,6 +116,12 @@ Suppose revenue falls 10% to 450,000. Materials are 24% of revenue, so they fall
 
 A 10% fall in sales cut profit by 38%, because the other rewards were already committed. The entrepreneur absorbs the shock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--10-profit-residual.webp" width="900" height="930" alt="Stacked columns of a workshop: wages, rent, interest, materials and profit at revenue 500,000 and 450,000. Wages, rent and interest are fixed, so a 10% sales fall cuts profit from 100,000 to 62,000 (-38%)." loading="lazy">
+  <figcaption>Profit absorbs the shock because the other rewards are committed.</figcaption>
+</figure>
+
+
 ## 1.3.4 Division of labour and specialisation
 
 **Division of labour** splits production into separate tasks, each done by a different worker. **Specialisation** means a worker, firm, region or country concentrates on a narrow range of activities. Division of labour is the way work is organised inside a firm. Specialisation is the wider idea, and it is the reason people trade.
@@ -124,6 +142,17 @@ A 10% fall in sales cut profit by 38%, because the other rewards were already co
 
 Take the absence of the finisher. If the other three workers each still make 5 candles alone, output falls by one quarter, from 20 to 15. On the specialised line, if a cover worker can only finish 3 candles a day, the whole line is held to 3 candles, a fall of 91.7% from 36. Specialisation raises output but makes the system more fragile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--05-candle-division-of-labour.webp" width="900" height="830" alt="Four workers each make 5 candles alone (20). With melting, pouring, finishing and packing the workshop makes 36 (9 per worker, +80%). Labour cost per candle falls from 12.00 to 6.67 cu, down 44.4%." loading="lazy">
+  <figcaption>Dividing the tasks lifts output from 20 to 36 and cuts labour cost per candle by 44.4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ## 1.3.5 The entrepreneur
 
 The entrepreneur does two jobs. **Risk-taking**: putting in their own money and time without knowing whether revenue will cover costs. **Organisation**: deciding what to produce, how, and bringing together land, labour and capital. Their reward is profit, and they can also make a loss.
@@ -137,6 +166,12 @@ The entrepreneur does two jobs. **Risk-taking**: putting in their own money and 
 - Margin of safety at 2,600 cups = (2,600 − 2,000) ÷ 2,600 = 23.1%.
 
 The landlord, staff and lender are paid whatever the sales. The owner takes the swing from −900 to +1,080. In a large modern firm, managers and shareholders may share these two roles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--11-cafe-breakeven.webp" width="900" height="880" alt="Break-even chart of a cafe: revenue 3 per cup, total cost 3,600 plus 1.20 per cup. Break-even at 2,000 cups; loss of 900 at 1,500 cups; profit 1,080 and margin of safety 23.1% at 2,600 cups." loading="lazy">
+  <figcaption>The entrepreneur takes the swing from loss to profit above break-even.</figcaption>
+</figure>
+
 
 ## 1.4 Economic systems
 
@@ -173,6 +208,32 @@ Equilibrium is at a price of 4 cu and a quantity of 600. Now suppose demand rise
 | Mixed | Combines price signals with state provision and regulation | Government may mis-judge, intervention has costs, the balance is a political choice |
 
 **Evaluation chain.** A mixed economy is often defended because markets handle most goods well and the state corrects what they miss. The argument runs: markets reward efficiency, but some goods, such as public goods, are under-provided, so the state steps in. Whether that is better depends on how much the state does, how well it uses information, and the costs of its decisions. The judgement is about degree, not a choice of one pure system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--12-lamp-market.webp" width="900" height="910" alt="Demand and supply for lamps. A rise in demand of 120 at every price moves equilibrium from price 4, quantity 600 to price 4.60, quantity 660." loading="lazy">
+  <figcaption>Higher price and profit pull resources into lamps without central order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--13-lamp-planned.webp" width="900" height="910" alt="Planners fix the lamp price at 3 and output at 500. Demand at 3 is 700, so the shortage is 200 lamps (28.6% of demand)." loading="lazy">
+  <figcaption>A fixed price below the market price leaves a shortage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--06-economic-systems-compared.webp" width="900" height="850" alt="Three cards from market to planned. Market: private owners, consumers and firms decide, prices and profit signal, goods go to those with income. Mixed: both, market plus state, prices plus government, incomes after tax and benefits. Planned: the state, planners, plans and quotas, state allocation." loading="lazy">
+  <figcaption>Who owns, who decides, the signal and who gets the output in each system.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--07-economic-systems-strengths-weaknesses.webp" width="900" height="860" alt="Ticks and crosses per system. Market: responds to wants, rewards efficiency; ignores those on no income, under-provides public goods. Mixed: combines prices and state provision; government may misjudge, intervention has costs. Planned: meets national priorities, equal access; information problems, shortages and surpluses." loading="lazy">
+  <figcaption>Strengths and weaknesses of market, mixed and planned systems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
 
 ## Common errors
 

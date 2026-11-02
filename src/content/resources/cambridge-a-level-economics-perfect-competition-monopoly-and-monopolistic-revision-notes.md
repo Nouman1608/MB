@@ -49,6 +49,12 @@ Quick recall for Cambridge International AS & A Level Economics, syllabus for ex
 
 **Elasticity link.** MR > 0 where demand is elastic. MR = 0 at unit elasticity. MR < 0 where demand is inelastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--01-monopoly-mr-and-tr.webp" width="900" height="1135" alt="Demand P = 64 − 2Q and MR = 64 − 4Q start at the same price, MR twice as steep and reaching zero at output 16. Total revenue rises while MR is positive and demand is elastic, peaks at 512 at output 16 where PED = 1, then falls where demand is inelastic." loading="lazy">
+  <figcaption>MR is twice as steep as demand; TR peaks at 512 where MR = 0 and PED = 1.</figcaption>
+</figure>
+
+
 ## Method in steps: find output and profit
 
 1. Write MR (for a price taker, MR = market price).
@@ -62,12 +68,29 @@ Worked reminder (monopoly, demand P = 64 − 2Q, TC = 144 + 4Q + Q²): MR = 64 �
 
 Worked reminder (competitive firm, TFC = 50, TVC = Q³ − 8Q² + 25Q, so MC = 3Q² − 16Q + 25): at 37 cu, MC = 37 gives Q = 6. TR = 222, TC = 128, supernormal profit = 94 cu. At 20 cu, Q = 5, TR = 100 = TC, so profit is normal. At 9 cu, Q = 4, TR = 36 = TVC, so the loss equals TFC of 50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--03-competition-entry-long-run.webp" width="900" height="975" alt="Market demand Qd = 610 − 10P. With 40 firms the market clears at price 37 and quantity 240 (6 each, profit 94 each). Entry of 42 firms shifts supply right until price is 20 and quantity 410 with 82 firms making 5 each and normal profit only." loading="lazy">
+  <figcaption>Entry of 42 firms takes price from 37 to the minimum ATC of 20, where profit is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--05-monopolistic-competition-entry.webp" width="900" height="1025" alt="Demand shifts left from P = 58 − 2Q to P = 52 − 2Q as rivals enter. The new demand curve touches ATC only at output 8, price 36, so profit is normal. Minimum ATC is at output 13.86, so the firm has excess capacity of about 5.86 units." loading="lazy">
+  <figcaption>Entry shifts demand left until AR just touches ATC at output 8; output is below minimum-ATC output 13.86.</figcaption>
+</figure>
+
+
 ## Shutdown rules
 
 - Short run: produce if AR is at least AVC. Revenue then covers variable costs and contributes towards fixed costs.
 - A loss smaller than total fixed cost means keep producing. A loss larger than total fixed cost means close.
 - Long run: stay only if AR covers long-run average cost.
 - Firm with TFC = 50 and minimum AVC = 9: at 9 cu it loses 50 whether it produces or closes, so 9 cu is its shutdown price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--02-competitive-firm-price-zones.webp" width="900" height="1070" alt="Cost curves of the competitive firm. MC cuts AVC at its minimum (output 4, price 9: shutdown) and ATC at its minimum (output 5, price 20: break-even). At price 37 the firm makes 6 units and supernormal profit of 94. Only the part of MC above minimum AVC is the supply curve." loading="lazy">
+  <figcaption>Shutdown at P = 9, break-even at P = 20, and 94 supernormal profit at P = 37, with MC above minimum AVC as the supply curve.</figcaption>
+</figure>
+
 
 ## Deriving the competitive firm's supply curve
 
@@ -81,6 +104,12 @@ Worked reminder (competitive firm, TFC = 50, TVC = Q³ − 8Q² + 25Q, so MC = 3
 | Price (cu) | 9 | 20 | 37 | 60 |
 |---|---|---|---|---|
 | Quantity per firm | 4 | 5 | 6 | 7 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--11-firm-to-industry-supply.webp" width="900" height="960" alt="Firm supply is MC above minimum AVC (4, 5, 6, 7 units); 40 identical firms add to 160, 200, 240, 280, so 240 at price 37." loading="lazy">
+  <figcaption>Industry supply is the horizontal sum of 40 firm supply curves.</figcaption>
+</figure>
+
 
 ## Short run versus long run by structure
 
@@ -105,6 +134,22 @@ Worked reminder (competitive firm, TFC = 50, TVC = Q³ − 8Q² + 25Q, so MC = 3
 **Deadweight loss** in monopoly is the welfare area under demand and above MC between the monopoly output and the allocatively efficient output.
 
 **X-inefficiency.** Competitive pressure forces cost control, so it is least likely in perfect competition in the long run. It is most likely where profit is protected, as in monopoly. It lifts the average cost curve without changing the shape of the marginal cost curve if the waste is a fixed amount, so output and price may stay the same while profit falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--04-monopoly-profit-and-welfare-loss.webp" width="900" height="1070" alt="Demand P = 64 − 2Q, MR, MC = 4 + 2Q and ATC. MR = MC at output 10 gives price 44 on the demand curve and profit 156. Price equals MC at output 15; the triangle between outputs 10 and 15 (area 50) is the welfare loss." loading="lazy">
+  <figcaption>The monopolist produces 10 at price 44 and earns 156; the efficient output 15 would remove a loss of 50.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--10-x-inefficiency-monopoly.webp" width="900" height="850" alt="Monopoly at Q 10, P 44: 40 of waste raises TC 284 to 324, ATC 28.40 to 32.40 and cuts profit 156 to 116." loading="lazy">
+  <figcaption>40 of waste cuts monopoly profit from 156 to 116 at the same output and price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic--12-efficiency-grid.webp" width="900" height="810" alt="Allocative (P = MC) and productive (lowest ATC) tests for the three structures, short and long run. ATC columns for monopoly and monopolistic competition are computed from the lesson cost functions." loading="lazy">
+  <figcaption>Only perfect competition in the long run passes both efficiency tests.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

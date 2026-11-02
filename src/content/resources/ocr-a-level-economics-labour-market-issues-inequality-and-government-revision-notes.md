@@ -43,6 +43,17 @@ Use the [course hub](/boards/ocr/a-level/economics/) and [checklist](/checklists
 
 **Reminder.** Population 20.0m: under 16, 3.0m; 16 to 64, 12.0m; 65 and over, 5.0m. Dependency = 8/12 = **66.7%**. If the labour force is 9.0m, participation = 9/12 = **75%**. Benefits £5,400 against net pay £9,000 give a replacement ratio of **60%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--01-labour-force-participation-dependency.webp" width="900" height="1020" alt="Country A population bars (9.0, 31.0, 10.0m) with the labour force of 26.0m split into 24.8 in work and 1.2 unemployed, giving participation 83.9%, dependency 61.3% and unemployment 4.6%. A second bar for 20 years on (8.0, 29.0, 14.0m) shows dependency 75.9% and workers per pensioner falling from 3.1 to 2.07." loading="lazy">
+  <figcaption>The shape of the population sets participation, dependency and the number of workers per pensioner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--02-replacement-ratio.webp" width="900" height="770" alt="Bars of net pay against benefits of 9,000: pay 18,000 gives 50%, pay 12,000 gives 75%, pay 10,500 gives 85.7%. The higher the ratio, the less work pays relative to benefits." loading="lazy">
+  <figcaption>The replacement ratio is benefits divided by net pay, so lower pay raises it.</figcaption>
+</figure>
+
+
 ## Wage controls
 
 | | Minimum wage | Maximum wage | Living wage |
@@ -66,6 +77,17 @@ Use the [course hub](/boards/ocr/a-level/economics/) and [checklist](/checklists
 - Monopsony may make a floor raise employment.
 - Effects on poverty depend on whether low-paid workers live in low-income households.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--03-bakery-minimum-maximum-wage.webp" width="900" height="920" alt="Demand L = 100 - 5w and supply L = -20 + 10w meet at 8 pounds and 60. A 10 pound floor leaves 50 jobs and 30 unemployed (jobs -16.7%, wage +25%, arc elasticity -0.82, wage bill 480 to 500). A 6 pound ceiling gives demand 70, supply 40, a shortage of 30." loading="lazy">
+  <figcaption>A floor above equilibrium creates unemployment and a ceiling below it a shortage, with the size set by the curves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Flexibility and mobility
 
 - **Wage flexibility:** pay responds to market conditions.
@@ -77,6 +99,12 @@ Use the [course hub](/boards/ocr/a-level/economics/) and [checklist](/checklists
 **Chain.** Fewer barriers, so unemployed workers fill vacancies elsewhere, so structural unemployment falls, so output and tax receipts rise. Barriers: skills gaps, house prices, ties to family and school, information gaps, transport costs.
 
 **Evaluate.** Flexibility cuts costs and unemployment but can mean insecurity, less training and lower spending power. Mobility raises output but can leave declining areas with fewer working-age people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--04-regional-unemployment-mobility.webp" width="900" height="990" alt="Dot pictures of Region X (0.18m unemployed, 9%) and Region Y (0.09m unemployed, 3%, 0.07m vacancies). Moving 0.07m workers fills the vacancies and cuts X to 0.11m unemployed, if skills match, housing is affordable and families can move." loading="lazy">
+  <figcaption>Unemployment and vacancies can coexist in different regions, and mobility can match them only if barriers are overcome.</figcaption>
+</figure>
+
 
 ## Bargaining and unions
 
@@ -90,12 +118,29 @@ Use the [course hub](/boards/ocr/a-level/economics/) and [checklist](/checklists
 
 Union effects can include a pay premium, lower pay gaps, better conditions and training, and strikes. Possible costs are fewer jobs for outsiders and higher prices. Strength depends on membership, labour demand elasticity and legal limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--05-productivity-bargaining-unit-cost.webp" width="900" height="830" alt="Bars for pay per hour +4%, output per hour +6% and labour cost per unit -1.9% (1.04 / 1.06 = 0.981)." loading="lazy">
+  <figcaption>When output per hour rises faster than pay, unit labour cost falls even though pay rises.</figcaption>
+</figure>
+
+
 ## Migration, discrimination, demographics, incentives
 
 - **Migration:** shifts labour supply right, so wages tend to fall and employment rises. Check the skill sub-market, fiscal effects, remittances and source-country effects.
 - **Discrimination:** pay or hiring differences not linked to productivity. Gap example: mean £20.00 against £17.00 is £3.00, or **15%** of £20.00. Separate the explained part from the unexplained part.
 - **Demographic change:** an ageing population raises the dependency ratio, cuts labour supply and increases pension and care costs. Responses: higher participation, later retirement, migration.
 - **Incentives:** high replacement ratios and steep benefit withdrawal weaken the case for working. Marginal effective tax rate example: extra £100 gross, tax 25% leaves £75, benefits cut by 60% of that (£45), leaving £30. The rate is **70%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--07-migration-labour-supply.webp" width="900" height="930" alt="Wage against workers in thousands. Demand 180-10w and native supply 10w meet at wage 9, 90 thousand workers. Migrants add 20 at every wage, giving wage 8 and 100 thousand workers, of whom 80 are native." loading="lazy">
+  <figcaption>Migration shifts supply right, lowering the wage from 9 to 8 and raising employment from 90 to 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-labour-market-issues-inequality-and-government--08-poverty-trap-mtr.webp" width="900" height="880" alt="Of an extra 200 pounds gross, 40 goes in income tax, 16 in national insurance and 79.20 in lost benefits, so 64.80 is kept. The marginal effective tax rate is 67.6 percent." loading="lazy">
+  <figcaption>Tax and benefit withdrawal leave only 64.80 of an extra 200 pounds.</figcaption>
+</figure>
+
 
 ## Informal labour markets
 
@@ -125,6 +170,12 @@ Unrecorded work: cash-in-hand jobs, unpaid household work, illegal work. Benefit
 | Tax and benefits | Redistribution, incentives | Equity against work disincentives |
 
 Examples to know: the National Minimum Wage Act, the Equality Act and EU working-time rules. Check which rules apply now.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

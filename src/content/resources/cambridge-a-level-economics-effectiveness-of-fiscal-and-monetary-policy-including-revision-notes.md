@@ -91,6 +91,17 @@ The peak is at 75%. A cut from 90% to 80% raises revenue by 4, because the rate 
 - Behaviour takes time to change, so revenue may fall first.
 - A cut beyond the peak is not the same as a cut that raises growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--12-laffer-two-cuts.webp" width="900" height="960" alt="Revenue is t x (400 - 4t) / 100, peaking at 100 when the rate is 50%. Cutting from 70 to 60% raises revenue from 84 to 96; cutting from 40 to 30% lowers it from 96 to 84." loading="lazy">
+  <figcaption>Whether a tax cut raises revenue depends on which side of the peak the rate is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+
+
 ## Fiscal policy: effectiveness by objective
 
 | Objective | Works through | Main limit |
@@ -105,6 +116,22 @@ The peak is at 75%. A cut from 90% to 80% raises revenue by 4, because the rate 
 Fiscal strengths: it can be targeted at groups or regions, automatic stabilisers work without delay, and spending on infrastructure can lift capacity.
 
 Fiscal weaknesses: long lags, deficit and debt costs, crowding out, and political pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--10-multiplier-leakages.webp" width="900" height="970" alt="With s 0.10, t 0.20 and m 0.20, half of each extra unit of income leaks and the multiplier is 2. A spending rise of 20 raises output by 40 and tax revenue by 8, so the deficit rises by 12, closing two thirds of the output gap of 60." loading="lazy">
+  <figcaption>The multiplier is 1 divided by (s + t + m), so taxes and imports reduce it as well as saving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--11-crowding-out.webp" width="900" height="790" alt="Without crowding out, spending of 20 raises output by 40, leaving a gap of 20. If private investment falls by 6, output rises only 28, the gap left is 32 and the deficit rises by 14.4." loading="lazy">
+  <figcaption>Crowding out reduces the net injection and so the effect on output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--04-debt-to-gdp.webp" width="900" height="910" alt="Bars show debt inside nominal GDP. 800/1,000 = 80%. After a deficit of 50, 850/1,040 = 81.7% if GDP grows 4% and 850/1,060 = 80.2% if it grows 6%." loading="lazy">
+  <figcaption>A deficit adds debt, but faster GDP growth slows the rise in the debt ratio.</figcaption>
+</figure>
+
 
 ## Monetary policy: effectiveness by objective
 
@@ -135,6 +162,22 @@ A government spends 16 more, but borrowing pushes up rates and private investmen
 5. How uncertain is the size of the effect?
 6. What does the final judgement depend on?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--13-rate-rise-output-gap.webp" width="900" height="870" alt="A 150,000 loan costs 6,000 a year at 4% and 9,000 at 6%, a 50% rise. The rise cuts consumption and investment by 12; with k = 2 output falls from 1,030 to 1,006, nearly closing an inflationary gap of 30 above potential 1,000." loading="lazy">
+  <figcaption>A rate rise raises borrowing costs and reduces output, cooling an inflationary gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--14-qe-bond-yield.webp" width="900" height="790" alt="A bond paying 5 zu a year yields 5% at price 100. When quantitative easing raises the price to 125 the yield falls to 4%." loading="lazy">
+  <figcaption>Buying bonds raises bond prices and lowers yields, cutting long-term borrowing costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--05-rate-channels.webp" width="900" height="840" alt="A higher policy rate acts through three channels: higher borrowing costs cut spending and investment, a higher saving return raises saving, and a higher exchange rate (if money flows in) makes exports dearer and imports cheaper. All three lower AD." loading="lazy">
+  <figcaption>A rate rise lowers AD through borrowing, saving and the exchange rate.</figcaption>
+</figure>
+
+
 ## Problems and conflicts
 
 | Conflict | Reason |
@@ -146,6 +189,22 @@ A government spends 16 more, but borrowing pushes up rates and private investmen
 | Deficit reduction against recovery | Cuts lower AD in a slump |
 | Tight money with loose fiscal policy | High rates, crowding out, a stronger currency |
 | Time lags | Policy arrives after conditions change |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including--06-policy-mix.webp" width="900" height="770" alt="Tight monetary policy and loose fiscal policy both push interest rates up, which may crowd out private investment and may lift the exchange rate." loading="lazy">
+  <figcaption>Tight money with loose fiscal policy pushes rates up, with crowding out and a stronger currency as risks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Government failure
 

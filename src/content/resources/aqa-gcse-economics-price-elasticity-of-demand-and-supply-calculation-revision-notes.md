@@ -63,6 +63,17 @@ PED = -20 / +10 = -2.0
 
 The size is 2.0, which is above 1, so demand is **price elastic**. Revenue falls from £20,000 to £17,600 (55 × 320).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation--06-elasticity-bars.webp" width="900" height="1158" alt="Pairs of bars give the percentage change in price and quantity for the loaf (PED -0.6), coach fare (-1.2), tomatoes (PES 0.4) and posters (2.5). The longer quantity bar marks elastic responses." loading="lazy">
+  <figcaption>Compare the percentage change in quantity with the percentage change in price to classify elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## Worked reminder: PES
 
 A workshop (illustrative) sees price rise from £4 to £5. Output rises from 800 to 1,000.
@@ -74,6 +85,12 @@ PES = +25 / +25 = +1.0
 ```
 
 PES is exactly 1, so supply is **unit elastic**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation--04-supply-demand-surge.webp" width="900" height="950" alt="Two supply and demand diagrams show the same rightward demand shift. When supply is inelastic, most of the effect is a higher price (about 14 percent) and output rises only about 6 percent. When supply is elastic the effect reverses: price rises about 6 percent and output about 14 percent. A box shows the lesson example of housing with PES 0.2, where 4 percent more homes needs a 20 percent price rise." loading="lazy">
+  <figcaption>With inelastic supply extra demand mainly lifts price; with elastic supply it mainly lifts output.</figcaption>
+</figure>
+
 
 ## Rearranging the formula
 
@@ -96,6 +113,12 @@ Example: PES is 0.5 and quantity supplied is to rise 6%. Price must rise 6 ÷ 0.
 | Time | Long run, when buyers can adjust | Short run |
 | How the good is defined | A single brand | A broad category |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation--01-ped-factors-spectrum.webp" width="900" height="940" alt="A set of five bars from inelastic on the left to elastic on the right. Few substitutes, necessities, tiny shares of income, habit-forming goods and the short term all make demand inelastic. Many close substitutes, luxuries, big shares of income, goods that are easy to drop and the longer term make demand elastic." loading="lazy">
+  <figcaption>Each factor slides demand towards inelastic or elastic.</figcaption>
+</figure>
+
+
 ## Factors affecting PES
 
 | Factor | More elastic supply | More inelastic supply |
@@ -105,6 +128,17 @@ Example: PES is 0.5 and quantity supplied is to rise 6%. Price must rise 6 ÷ 0.
 | Time | Long run | Short run |
 | Production period | Quick to make | Slow to make, such as crops or buildings |
 | Switching resources | Easy to move to another product | Specialist machines and skills |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation--02-pes-factors-spectrum.webp" width="900" height="940" alt="A set of five bars from inelastic supply on the left to elastic supply on the right. No spare capacity, no stocks, a short time, a long production period and resources that are hard to switch make supply inelastic. Idle machines, stored stock, years to respond, goods made in hours and easily switched resources make supply elastic." loading="lazy">
+  <figcaption>Each factor slides supply towards inelastic or elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## Implications at a glance
 
@@ -136,6 +170,17 @@ PED = +20 / -20 = -1.0
 The size is exactly 1, so demand is unit elastic. Revenue is £1,000 before (4.00 × 250) and £960 after (3.20 × 300). Revenue is almost unchanged, but it dips slightly because the percentage changes are measured from different starting points.
 
 Forecast: a firm sells 800 units and PED is -0.5. A 10% price rise gives -0.5 × 10% = -5%, so sales fall to 800 × 0.95 = 760.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation--07-predict-quantity.webp" width="900" height="1020" alt="Compost with PED -2.0 and a 5 percent price cut gives a 10 percent rise, 2,000 to 2,200 bags. Pottery with PES 1.5 and an 8 percent price rise gives 12 percent, 250 to 280 mugs." loading="lazy">
+  <figcaption>Multiply elasticity by the percentage price change to predict the new quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation--03-price-fall-signs.webp" width="900" height="1000" alt="Two bar panels show percentage changes either side of a zero line. A cinema cutting its ticket price by 20 percent sees attendance up 30 percent, so PED is minus 1.5, elastic, and revenue rises from 3,000 to 3,120 pounds. A firm facing a 10 percent price fall cuts output by 5 percent, so PES is plus 0.5 and supply is inelastic." loading="lazy">
+  <figcaption>The cinema price cut (PED) and the price fall for supply (PES) worked as bars either side of zero.</figcaption>
+</figure>
+
 
 ## Revenue reminders
 
@@ -207,3 +252,9 @@ Revenue = price × quantity. For a quick check, multiply the price index by the 
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA. Sections 3.1.3.5 Price elasticity of demand and 3.1.3.6 Price elasticity of supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+

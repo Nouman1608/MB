@@ -70,6 +70,12 @@ Method: find the species whose atom ends up bonded to carbon using its own elect
 
 In each case the halogenoalkane is the electrophile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--01-nucleophiles.webp" width="900" height="880" alt="Four nucleophiles are drawn with their lone pairs: hydroxide and cyanide ions (negative) and water and ammonia (neutral). A gold ring marks the lone pair each one donates to make a new covalent bond." loading="lazy">
+  <figcaption>A nucleophile needs a spare lone pair and may be negative or neutral.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.2: Nucleophilic substitution
 
 In a **nucleophilic substitution**, the nucleophile uses its electron pair to make a new bond to carbon, and a different bond to that carbon breaks at the same time. Whatever departs, carrying the electrons of the broken bond, is the **leaving group**.
@@ -99,6 +105,17 @@ Method: swap the halogen for the nucleophile's bonding atom, then balance charge
 
 In (c) the neutral nucleophile must also lose an H⁺, which leaves with the chloride as HCl. With excess ammonia this becomes NH₄Cl, so the equation uses 2NH₃.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--03-sn-mechanism.webp" width="900" height="880" alt="Hydroxide attacks the delta-plus carbon of 1-bromo-4-methylpentane. Arrow 1 runs from an oxygen lone pair to carbon; arrow 2 runs from the C-Br bond to bromine, which leaves as bromide. The product is 4-methylpentan-1-ol." loading="lazy">
+  <figcaption>Two curly arrows show a lone pair forming the new C-O bond while the C-Br pair moves onto bromine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--04-substitution-products.webp" width="900" height="1050" alt="Skeletal formulae show 1-chloro-2-methylpropane reacting with OH-, CN- and NH3. The products are 2-methylpropan-1-ol, 3-methylbutanenitrile (one extra carbon) and 2-methylpropan-1-amine, with Cl- or HCl as the other product. The new bond is gold." loading="lazy">
+  <figcaption>The halogen is replaced by the nucleophile's bonding atom; with neutral NH3 the by-product is HCl.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.3: Heterolytic fission
 
 **Heterolytic fission** is the breaking of a covalent bond in which both bonding electrons stay with one of the two fragments. The fragment that keeps the pair becomes a negative ion. The other becomes a positive ion. It is usually the more electronegative atom that keeps the pair.
@@ -124,6 +141,12 @@ The bond breaking in nucleophilic substitution is heterolytic: the leaving group
 
 H–Br → H⁺ + Br⁻. The arrow runs from the centre of the H–Br bond to Br. Bromine is more electronegative, so it keeps the pair and becomes Br⁻; hydrogen is left with no electrons, as H⁺.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--05-heterolytic-fission.webp" width="900" height="860" alt="(CH3)3C-I breaks heterolytically: a double-barbed arrow from the bond to iodine gives a carbocation (6 outer electrons) and I- (8). Below, Cl-Cl breaks homolytically with two fish-hook arrows to give two radicals." loading="lazy">
+  <figcaption>In heterolytic fission both bonding electrons go to one atom; in homolytic fission one goes to each.</figcaption>
+</figure>
+
+
 ## Reactivity 3.4.4: Electrophiles
 
 An **electrophile** receives both electrons of the new bond from its partner, the nucleophile. It has, or develops, a region of low electron density. The guide asks you to recognise both positive and neutral electrophiles.
@@ -139,6 +162,12 @@ An **electrophile** receives both electrons of the new bond from its partner, th
 In CH₂=CH₂ + HBr → CH₃CH₂Br, identify the nucleophile and the electrophile.
 
 Br is more electronegative than H, so HBr is polar: Hδ+–Brδ−. The δ+ hydrogen accepts an electron pair, so **HBr is the electrophile** (neutral). The pair it accepts comes from the C=C double bond, so **ethene acts as the nucleophile**. It donates both electrons of the new C–H bond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--02-electrophiles.webp" width="900" height="880" alt="Four electrophiles are drawn with a dashed gold ring on the site that accepts an electron pair: H+ and a carbocation with six outer electrons (positive), and HBr and a halogenoalkane with delta-plus H or C (neutral)." loading="lazy">
+  <figcaption>Electrophiles are positive or delta-plus species that accept an electron pair.</figcaption>
+</figure>
+
 
 ## Reactivity 3.4.5: Alkenes and electrophilic addition
 
@@ -184,6 +213,22 @@ A student adds excess bromine to 3.50 g of cyclopentene, C₅H₈, and obtains 9
 4. M(C₅H₈Br₂) = 68.13 + 2(79.90) = 227.93 g mol⁻¹
 5. Theoretical mass = 0.0514 × 227.93 = 11.7 g
 6. Percentage yield = (9.40 / 11.7) × 100 = **80.3%**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--06-alkene-pi-cloud.webp" width="900" height="910" alt="Ethene lies in one plane with its sigma bonds, with pi electron clouds above and below. This electron-rich region draws in a delta-plus electrophile such as the hydrogen of HBr. The mechanism is HL content (3.4.9)." loading="lazy">
+  <figcaption>The pi cloud above and below the C=C makes alkenes attract electrophiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--07-alkene-additions.webp" width="900" height="1010" alt="Skeletal formulae show hex-3-ene adding Br2 (3,4-dibromohexane), HI (3-iodohexane) and steam with an acid catalyst (hexan-3-ol). The C=C opens and the reagent adds across it, so one product forms from this symmetrical alkene." loading="lazy">
+  <figcaption>Halogens, hydrogen halides and water add across the C=C of a symmetrical alkene to give one product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--08-bromine-water-test.webp" width="900" height="980" alt="Two rows of test tubes in the dark. Orange-brown bromine water turns colourless with an alkene, because the C=C attacks bromine by addition. With an alkane it stays orange-brown, because alkanes need UV light for radical substitution." loading="lazy">
+  <figcaption>In the dark, bromine water is decolourised by alkenes but not by alkanes.</figcaption>
+</figure>
+
 
 ## Common errors
 

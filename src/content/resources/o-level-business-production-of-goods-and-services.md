@@ -59,6 +59,12 @@ Production can rise while productivity falls. If a firm doubles its workforce to
 
 Production rose by more than productivity because one extra worker was also hired. Always state units: mugs per worker per week.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--05-production-vs-productivity.webp" width="900" height="1020" alt="Paired bars: production 2,400 to 3,150 mugs a week (+31.25%), workers 20 to 21 (+5%), productivity 120 to 150 mugs per worker (+25%)." loading="lazy">
+  <figcaption>Production rose more than productivity because one extra worker was hired.</figcaption>
+</figure>
+
+
 ### Benefits of increasing efficiency
 
 Being efficient means getting more output from the same inputs, or the same output from fewer inputs. Benefits include:
@@ -92,6 +98,17 @@ Holding too much has costs: storage space, insurance, risk of damage or going ou
 
 **Worked example.** Cobblestone Bikes keeps 600 frames in store and uses 150 frames each working day. Cover is 600 / 150 = 4 days. If a delivery is delayed by six days, production halts for two days. Management estimates the cost of holding stock at 2% of its value each month. Stock worth 90,000 dollars costs 1,800 dollars a month to hold. Cutting stock to 30,000 dollars costs 600 dollars, a saving of 1,200 dollars a month.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--08-stock-cover.webp" width="900" height="710" alt="Six day columns: days 1 to 4 each use 150 frames from 600 in store; days 5 and 6 have no stock, so production halts for 2 days when a delivery is 6 days late." loading="lazy">
+  <figcaption>600 frames at 150 a day last 4 days; a 6-day delay halts production for 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--11-stock-holding-cost.webp" width="900" height="790" alt="Stock of 90,000 dollars costs 1,800 a month at 2%; cut to 30,000 it costs 600, saving 1,200 a month." loading="lazy">
+  <figcaption>Cutting stock from 90,000 to 30,000 dollars saves 1,200 a month.</figcaption>
+</figure>
+
+
 ### Lean production
 
 Lean production means producing with as little waste as possible. Waste includes unused inventories, idle time, defects, unnecessary movement and overproduction. The aim is to give customers what they want while using the minimum resources. The syllabus names two ways of achieving it.
@@ -113,6 +130,17 @@ Lean production means producing with as little waste as possible. Waste includes
 - less cash tied up in stock
 
 A balanced answer also notes that JIT leaves a business exposed: one late delivery can halt output, and the firm may lose bulk-buying discounts. This point goes beyond the syllabus list of benefits, but it helps you write a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--10-kaizen-small-steps.webp" width="900" height="980" alt="Three worker suggestions feed a staircase of six small steps over time: no single change is large but costs fall and quality rises." loading="lazy">
+  <figcaption>Kaizen is many small improvements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## The main methods of production
 
@@ -156,6 +184,32 @@ When asked to recommend a method, follow four steps.
 
 Job production would be too slow and costly for 4,000 cars. Flow production needs large investment and the firm sells only three designs in modest volumes. Batch production suits: it produces each design in lots, keeps unit cost lower than job production and gives variety. The drawback is the hour lost at each design change, but with only three batches a month this is small. Recommendation: batch production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--06-batch-production.webp" width="900" height="860" alt="A flow of a 500-jar strawberry batch, a 2-hour vat clean, a 500-jar plum batch and another clean. Three batches a day mean 3 x 2 = 6 hours of cleaning." loading="lazy">
+  <figcaption>Batch production loses time cleaning and resetting between batches.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--12-oakenshaw-batch-choice.webp" width="900" height="820" alt="Oakenshaw facts tested against job, flow and batch production; batch is recommended, with a 3 hours a month drawback." loading="lazy">
+  <figcaption>Recommending batch production for Oakenshaw Toys.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--13-sunnyfield-unit-cost.webp" width="900" height="780" alt="9,000 bottles an hour x 20 hours = 180,000 a day; 54,000 dollars / 180,000 = 0.30 dollars per bottle." loading="lazy">
+  <figcaption>Flow production spreads cost over huge output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--14-job-batch-flow-tradeoffs.webp" width="900" height="990" alt="Job, batch and flow with two benefits and two limitations each; unit cost falls and flexibility falls from job to flow (qualitative)." loading="lazy">
+  <figcaption>Benefits and limitations of the three methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+
 ## Technology and production methods
 
 Technology has changed how goods are designed and made, and it continues to do so.
@@ -167,6 +221,12 @@ Technology has changed how goods are designed and made, and it continues to do s
 **Worked example.** Haverley Cabinets uses 5,000 boards a month. Before CAD and CAM, 8% were wasted. Afterwards, 3% are. Wasted boards fall from 400 to 150, a saving of 250 boards. At 12 dollars a board this saves 3,000 dollars a month.
 
 Benefits are faster production, fewer errors, less waste, lower unit costs and more consistent quality. Limitations are the purchase and maintenance cost, the need for staff with new skills, the risk of computer faults, and possible redundancies. Technology also changes which method is feasible: automated equipment can make flow production viable at smaller volumes and make batch changes quicker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-production-of-goods-and-services--07-cad-cam-waste.webp" width="900" height="820" alt="Two grids of 100 squares, each square 50 boards of 5,000. Wasted squares fall from 8 (400 boards, 8%) to 3 (150 boards, 3%), saving 250 boards or 3,000 dollars a month at 12 dollars a board." loading="lazy">
+  <figcaption>CAD and CAM cut board waste from 8% to 3%.</figcaption>
+</figure>
+
 
 ## Common errors
 

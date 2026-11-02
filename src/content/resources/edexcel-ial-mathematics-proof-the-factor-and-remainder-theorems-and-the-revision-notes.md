@@ -63,6 +63,27 @@ Case 2: n odd, so n + 1 is even, and n(n + 1) is odd × even = even.
 Both cases give an even number. ∎
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--01-proof-anatomy.webp" width="900" height="680" alt="A 7 by 7 grid with a 5 by 5 square in one corner shows 7² − 5² = 24 left over. Beside it are the three parts of a proof: assume 2n+1 and 2n+3, show (2n+3)² − (2n+1)² = 8(n+1), conclude a multiple of 8 for every n. For n = 2 this is 49 − 25 = 24 = 8 × 3." loading="lazy">
+  <figcaption>A proof starts from stated assumptions, makes valid steps and ends with a conclusion that holds for every n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--03-remainder-lanes.webp" width="900" height="1075" alt="The integers 0 to 39 are arranged in four columns by remainder on division by 4. Squares sit only in the 4k and 4k+1 columns. Cubes (OCR only) sit in 4k, 4k+1 and 4k+3 but never 4k+2." loading="lazy">
+  <figcaption>Every integer lies in one of four remainder lanes, so four cases cover them all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
+  <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--09-multiple-of-three-gap.webp" width="900" height="690" alt="On a number line from 93 to 108 the multiples of 3 are filled. 6m + 9n = 3(2m + 3n) is always one of them, but 100 = 3 × 33 + 1 sits between 99 and 102, so no integers m, n exist." loading="lazy">
+  <figcaption>Every value of 6m + 9n is a multiple of 3, and 100 is not.</figcaption>
+</figure>
+
+
 ## Factor and remainder: method in steps
 
 1. Write down f(x).
@@ -98,6 +119,12 @@ f(−1) = −1 + 2 + 5 − 6 = 0, so nothing is left over. The quotient is **x²
 f(2) = 8 + 4k − 2 − 10 = 4k − 4 = 0, so **k = 1**.
 
 If a question gives two conditions, such as a factor and a remainder, you get two equations in two unknowns. Solve them simultaneously, then check by substituting back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--08-infinite-primes.webp" width="900" height="880" alt="Six primes 2 to 13 each leave remainder 1 into N = 30031. N = 59 × 509, two primes not on the list. N need not be prime, only have a prime factor missing from the list." loading="lazy">
+  <figcaption>Multiplying the listed primes and adding 1 always yields a prime factor not on the list.</figcaption>
+</figure>
+
 
 ## Circle: method in steps
 
@@ -145,6 +172,17 @@ The tangent is **2x + y = 10**. Always check the point is on the circle before y
 
 If the line meets the circle at two points, substituting gives a quadratic with two roots. One repeated root means the line is a tangent. No real roots means the line misses the circle. Find the coordinates by substituting each x back into the line, not into the circle, so you do not create extra points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--04-squaring-implication.webp" width="900" height="955" alt="The line y = x meets the upper curve y = √(x+2) at (2, 2), a true solution. Squaring brings in the lower branch y = −√(x+2), which the line meets at (−1, −1), an extra root. Check every answer in the original equation, because squaring gives ⇒ only." loading="lazy">
+  <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - **Factor and remainder.** A zero remainder means a factor. A non-zero remainder means no factor.
@@ -190,6 +228,12 @@ If the line meets the circle at two points, substituting gives a quadratic with 
 - Picking a counter example that does not satisfy the stated condition, or not showing the arithmetic.
 - Using the radius gradient for the tangent, or forgetting to rearrange the tangent into the form asked for.
 - Not completing the square on both variables when the circle equation is in expanded form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--02-two-odd-letters.webp" width="900" height="820" alt="A 4 by 4 table shows p + q for odd p and q from 1, 3, 5, 7: all sixteen sums are even. The diagonal cells, where p = q, hold only 2, 6, 10 and 14, which is all that one letter 2n+1 used twice could cover. Using 2m+1 and 2n+1 gives 2(m+n+1) for every pair." loading="lazy">
+  <figcaption>Two different odd numbers need two different letters; using one letter only covers the diagonal.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

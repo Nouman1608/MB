@@ -94,6 +94,12 @@ A neutral organic liquid gives a molecular ion at m/z = 114.1043. Four formulae 
 2. C₇H₁₄O has one C=O or one C=C or one ring. The IR band near 1715 cm⁻¹ points to C=O, so it is an aldehyde or ketone.
 3. Possible structures include heptanal, heptan-2-one, heptan-3-one and heptan-4-one. Isomers share an accurate mass, so NMR is needed to decide (worked example 4).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
+
 ## 15.18 What carbon-13 NMR tells you
 
 About 1% of carbon atoms are ¹³C. In a strong magnetic field, ¹³C nuclei absorb radio-frequency radiation at a frequency that depends on the surrounding atoms, so carbons in different positions give signals at different δ values.
@@ -143,6 +149,12 @@ At high resolution, a peak splits because of protons on the **adjacent** carbon.
 - An O–H proton normally appears as a singlet and does not split its neighbours.
 - A carbon with no H, such as a C=O carbon, passes on no splitting. A CH₃ next to C=O is a singlet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+
 ### Worked example 4: predicting the spectrum of heptan-4-one
 
 Heptan-4-one is CH₃CH₂CH₂COCH₂CH₂CH₃. It is symmetrical about the C=O.
@@ -156,6 +168,12 @@ Heptan-4-one is CH₃CH₂CH₂COCH₂CH₂CH₃. It is symmetrical about the C=
 Peak area ratio 6 : 4 : 4, which simplifies to **3 : 2 : 2**. The ¹³C spectrum would show **four peaks**: C=O (190–220 ppm) and three alkyl carbons.
 
 This separates the isomers from worked example 2: heptan-2-one, for instance, would show a 3H singlet near 2.1 ppm from CH₃CO.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
 
 ### Worked example 5: deducing a structure
 
@@ -171,6 +189,12 @@ Compound P is a ketone, C₅H₁₀O. Its high resolution ¹H spectrum shows:
 4. Join the pieces: CH₃COCH(CH₃)₂, **3-methylbutan-2-one**.
 5. Check: 6 + 3 + 1 = 10 H and five carbons, matching C₅H₁₀O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+
 ## 15.21 What chromatography does
 
 Chromatography separates the components of a mixture using a **mobile phase**, which moves, and a **stationary phase**, which does not. Each component is distributed between the two phases to a different extent: the more strongly it is held by the stationary phase, the more slowly it moves.
@@ -179,6 +203,12 @@ Chromatography separates the components of a mixture using a **mobile phase**, w
 |---|---|---|
 | Paper | Water held in the paper fibres | Solvent soaking up the paper |
 | Thin-layer (TLC) | Thin layer of solid such as silica or alumina on a plate | Solvent moving up the plate |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
 
 ## 15.22 Rf values
 
@@ -197,6 +227,12 @@ A TLC plate is run until the solvent front is 7.4 cm above the baseline. Three s
 3. Spot 3: 6.5 ÷ 7.4 = **0.88**
 
 Spot 1 travels least: polar silica holds it most strongly, so it is likely the most polar component.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
 
 ### Why Rf values differ
 

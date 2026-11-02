@@ -50,6 +50,12 @@ An information gap is any shortfall in what a decision maker knows: about qualit
 
 A simple sketch in words: draw a demand curve based on perceived benefits. Where people underestimate true benefits, it sits to the left of the true marginal social benefit curve. The market equilibrium quantity is then smaller than the socially optimal quantity, and the gap between them is a welfare loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
+
 ### Healthcare
 
 Patients rarely judge diagnosis or treatment themselves. Providers can recommend more treatment than is needed, which is overconsumption. Patients also underestimate long-run risks, so they under-consume preventive care.
@@ -91,6 +97,32 @@ Insurers cannot see each customer's true risk. If they charge one average premiu
 
 Insured drivers fall from 1,000 to 200. Cover for low-risk drivers is worth 300 and costs 200, so each lost policy wastes 100 of potential gain: 800 × 100 = 80,000. Too little insurance is traded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--06-insurance-market-unravels.webp" width="900" height="890" alt="Twenty person icons each stand for 50 drivers: 16 low-risk, 4 high-risk. The average premium of 360 exceeds the 300 low-risk drivers value cover at, so they leave and the premium rises to 1,000. Lost gain is 800 x 100 = 80,000." loading="lazy">
+  <figcaption>Asymmetric information drives low-risk customers out and shrinks the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--07-moral-hazard-insurance-claims.webp" width="900" height="870" alt="Bars of expected claim cost per policy: 200 priced in, 300 with full cover (a loss of 100 per policy), 180 with a 1,000 excess. Across 10,000 policies the loss is 1,000,000 a year." loading="lazy">
+  <figcaption>Full cover changes behaviour and raises claims; an excess restores incentives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--10-pension-start-late.webp" width="900" height="970" alt="Saving 1,800 a year at 3% for 35 years gives 108,832 from 63,000 paid in. Starting ten years later gives 65,627 from 45,000 paid in. Contributions fall by 18,000 but the pot falls by 43,205." loading="lazy">
+  <figcaption>People underestimate compounding, an information gap that leads to under-saving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--01-symmetric-asymmetric-information.webp" width="900" height="1010" alt="Two panels. A buyer and seller each hold all six facts (symmetric). A patient holds two of six facts while a doctor holds all six (asymmetric), so hidden facts can lead to a wrong choice." loading="lazy">
+  <figcaption>Information is asymmetric when one side knows more than the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--02-perceived-vs-true-benefit.webp" width="900" height="1040" alt="Skipping a 50 health check has a true expected cost of 200 but a perceived cost of 20, so it is skipped. A degree has a perceived net gain of minus 30,000 but a true net gain of plus 150,000, so the student does not enrol." loading="lazy">
+  <figcaption>Misjudged risks and benefits lead people to buy too little.</figcaption>
+</figure>
+
+
 ## 5 Moral hazard
 
 ### How moral hazard occurs
@@ -131,6 +163,17 @@ The bank chooses the risky option, though it is worse for society. The state cov
 - Workers: bonuses linked to short-term profit reward risk. Job losses follow a bank failure or credit squeeze.
 - Governments: carry bailout and guarantee costs, raise debt or taxes, and must then regulate (covered on the government intervention pages).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--08-moral-hazard-bank-gamble.webp" width="900" height="940" alt="Expected profit on a 1,000 loan: safe 50, risky 56 for the bank because the state covers losses beyond its 40 of equity, but 48 for society. The bank picks the risky loan; in the bad outcome the bank bears 40 of the 60 loss and the state 20." loading="lazy">
+  <figcaption>When the state covers large losses the bank takes risks that are worse for society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--05-four-groups-impact.webp" width="900" height="1000" alt="A grid of consumers, producers, workers and governments against moral hazard (insurance, banking) and bubbles (housing, shares), with the main effect on each." loading="lazy">
+  <figcaption>Both moral hazard and bubbles affect consumers, producers, workers and governments.</figcaption>
+</figure>
+
+
 ## 6 Speculation and market bubbles
 
 ### How bubbles arise
@@ -162,6 +205,22 @@ A share priced at 120 with earnings per share (EPS) of 10 has a price-earnings r
 - Governments: capital gains tax receipts rise then fall, and growth and confidence weaken.
 
 **Evaluation.** A bubble is hard to spot in real time, since prices may reflect fundamentals that have genuinely improved. Some speculation helps by revealing information and adding liquidity. The cost of a burst depends on how much borrowing funded it: debt-fuelled bubbles do more harm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--09-bubble-feedback-loops.webp" width="900" height="920" alt="Two clockwise loops. Boom: good news or cheap credit, price rises and early buyers gain, the herd copies and expectations rise, more credit funds more buying. Burst: a few sell and price dips, loss-making buyers must sell, expectations reverse, credit dries up and price falls." loading="lazy">
+  <figcaption>Positive feedback inflates a bubble, and the same feedback works downward when confidence breaks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--03-housing-bubble-numbers.webp" width="900" height="1360" alt="A price index goes 100 to 180 to 126 and needs a 44.4 percent fall to return to 100 from 180. Rental yield falls from 5.00 to 2.78 percent as price rises from 200,000 to 360,000. A 250,000 house bought with a 225,000 loan falls to 175,000, giving equity of minus 50,000." loading="lazy">
+  <figcaption>Prices run ahead of rents, and a fall can leave buyers with negative equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--04-share-price-earnings-bubble.webp" width="900" height="900" alt="Share price 120 with earnings of 10 gives P/E 12; at 400 the P/E is 40 (33.3 if earnings reach 12). A buyer at 400 who sells at 150 loses 250, which is minus 62.5 percent." loading="lazy">
+  <figcaption>A boom lifts the P/E ratio far above normal; a crash hits late buyers hardest.</figcaption>
+</figure>
+
 
 ## Common errors
 

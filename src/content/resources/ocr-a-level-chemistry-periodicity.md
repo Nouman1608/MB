@@ -71,6 +71,12 @@ Classify elements with Z = 56, 40 and 51.
 
 The period is the highest shell number in use; for s- and p-block elements, the group follows from the outer s and p electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--01-blocks.webp" width="900" height="790" alt="The periodic table is shown as coloured cells: s block (groups 1 and 2 plus H and He), p block (groups 13 to 18), d block (centre) and f block (two rows below). Period 3, Na to Ar, is outlined, with Na and Mg in the s block and Al to Ar in the p block. Helium is flagged as s block because its configuration is 1s2." loading="lazy">
+  <figcaption>Block is set by the sub-shell of the last electron added, so helium is s block and Period 3 runs from s (Na, Mg) to p (Al to Ar).</figcaption>
+</figure>
+
+
 ## 3.1.1(c): Ionisation energy
 
 The **first ionisation energy** is the energy required when 1 mol of gaseous atoms of an element each lose one electron, giving 1 mol of gaseous 1+ ions. For carbon:
@@ -90,6 +96,12 @@ Three factors set the attraction between the nucleus and the outer electron:
 Across a period, nuclear charge rises, electrons are added to the same shell so shielding stays about the same, and atomic radius falls. The outer electron is held more strongly, so first ionisation energy rises overall. In Period 2 it rises from 520 kJ mol⁻¹ for lithium to 2081 kJ mol⁻¹ for neon.
 
 Two small falls break the rise: from Group 2 to Group 13 (Be to B, Mg to Al) and from Group 15 to Group 16 (N to O, P to S). The same explanations work in both periods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--02-radius.webp" width="900" height="960" alt="Circles for Na to Cl get smaller and carry nuclear charges +11 to +17. Gold bars show nuclear charge rising from 11 to 17 while teal bars show the 10 inner shielding electrons staying constant. More charge with the same shielding pulls the outer electrons closer." loading="lazy">
+  <figcaption>Across Period 3 nuclear charge rises but shielding stays the same, so atomic radius falls from Na to Cl.</figcaption>
+</figure>
+
 
 ### Worked example 2: two dips in Period 2
 
@@ -116,6 +128,22 @@ Use these values for oxygen (kJ mol⁻¹): 1314, 3388, 5301, 7469, 10990, 13327,
 
 Steady rises followed by sudden jumps were evidence for electrons in separate shells, which supported the Bohr model of the atom (HSW1, 2).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--03-ionisation-energy.webp" width="900" height="800" alt="A graph of first ionisation energy for Na to Ar rises overall from 496 kJ per mole for Na to 1521 for Ar. The two dips, Al below Mg and S below P, are marked in gold." loading="lazy">
+  <figcaption>First ionisation energy generally rises from Na to Ar, with dips at Al and S.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--05-successive-ie.webp" width="900" height="840" alt="A log-scale bar chart shows the eight successive ionisation energies of oxygen. The first six rise gently, then there is a jump of about 5.35 times to the seventh. The six electrons before the jump are in the outer shell, so oxygen is in Group 16." loading="lazy">
+  <figcaption>OCR only: a large jump in successive ionisation energies marks the move to an inner shell, so the electrons before the jump give the group.</figcaption>
+</figure>
+
+
 ## 3.1.1(d): Metallic bonding
 
 **Metallic bonding** is the strong electrostatic attraction between cations (positive ions) and delocalised electrons. Each atom releases its outer electrons into a "sea" shared by the whole structure, and the cations sit in a regular, repeating **giant metallic lattice**. All metals have this structure; packing patterns are not needed.
@@ -127,6 +155,12 @@ Lithium melts at 181 °C and beryllium at 1287 °C. Explain the difference of 11
 - Both are giant metallic. Lithium forms Li⁺ and gives one delocalised electron per atom; beryllium forms Be²⁺ and gives two.
 - Be²⁺ is smaller and more highly charged, and there are more delocalised electrons.
 - So the electrostatic attraction between cations and delocalised electrons is stronger in beryllium, and more energy is needed to break it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
 
 ## 3.1.1(e): Giant covalent lattices
 
@@ -173,6 +207,17 @@ Melting points rise across the metals, peak at Group 14, then drop sharply to th
 ### Worked example 5: boron against nitrogen
 
 Boron melts at 2076 °C and nitrogen at −210 °C, a gap of 2286 °C. Boron is giant covalent, so melting breaks many strong covalent bonds. Nitrogen is simple molecular, N₂; melting overcomes only weak London forces between molecules, and the strong N≡N triple bond stays intact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
+  <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
 
 ## Common errors
 

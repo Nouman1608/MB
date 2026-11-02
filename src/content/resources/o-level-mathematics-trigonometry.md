@@ -58,6 +58,17 @@ d² = 6.5² + 4.2² = 42.25 + 17.64 = 59.89
 d = 7.74 cm (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+
 
 ## 6.2 Right-angled triangles
 
@@ -105,6 +116,12 @@ The shortest distance is the perpendicular from P to the pier. In the right-angl
 distance = 13.5 × sin 42° = 9.03 m (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--01-point-to-line-distance.webp" width="900" height="920" alt="A boat at P is 13.5 m from the end A of a pier; PA makes 42 degrees with the pier. The perpendicular PF is the shortest route and a slanting dashed route is longer. d = 13.5 sin 42 = 9.03 m." loading="lazy">
+  <figcaption>The shortest distance is the perpendicular: PA is the hypotenuse and d is opposite the 42 degree angle.</figcaption>
+</figure>
+
+
 ### Angles of elevation and depression
 
 The angle of elevation is measured upward from the horizontal to the line of sight. The angle of depression is measured downward from the horizontal. The two horizontal lines are parallel, so looking down from A to B gives the same angle as looking up from B to A (alternate angles).
@@ -127,6 +144,12 @@ tan θ = 26 / 90
 
 Draw the horizontal through the observer first. The angle sits between that line and the line of sight, not between the line of sight and the vertical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--05-trig-elevation-depression-numbers.webp" width="900" height="1051" alt="Example 6: eyes 1.6 m up, tower 38 m, 55 m away: tan theta = 36.4/55, angle of elevation 33.5 degrees. Example 7: cliff 26 m high, boat 90 m away: tan theta = 26/90, angle of depression 16.1 degrees below the horizontal." loading="lazy">
+  <figcaption>Draw the horizontal through the observer first, then measure the angle from it.</figcaption>
+</figure>
+
+
 ### Bearings in right-angled problems
 
 A bearing is measured clockwise from north and written with three figures, for example 075°. The syllabus says knowledge of bearings may be required.
@@ -143,6 +166,22 @@ bearing of A from C = 111.9° + 180° = 291.9°
 ```
 
 Sketch north lines at each point to confirm the direction of each turn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--02-bearings-right-angle.webp" width="900" height="890" alt="A ship sails 8 km on 075 degrees from A to B then 6 km on 165 degrees to C. The bearings differ by 90 degrees so angle ABC is a right angle; AC = 10 km, angle CAB = 36.9 degrees, bearing of C from A = 111.9 degrees." loading="lazy">
+  <figcaption>North lines and a right angle turn a bearing problem into Pythagoras and tangent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--04-trig-find-side-and-angle.webp" width="900" height="960" alt="Example 3: angle 37 degrees, adjacent 14.5 cm, tan gives opposite = 10.9 cm. Example 4: hypotenuse 11.4 cm, opposite 7.2 cm, sine gives theta = 39.2 degrees." loading="lazy">
+  <figcaption>Choose the ratio that contains the two sides involved, then rearrange or use the inverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--06-trig-cosine-rule-angle.webp" width="900" height="810" alt="A triangle with sides 7, 9 and 12 cm drawn to scale. cos A = -14/126, so A = 96.4 degrees; A is inside the dashed semicircle on the 12 cm side, so it is obtuse." loading="lazy">
+  <figcaption>A negative cosine from the cosine rule means an obtuse angle, opposite the longest side.</figcaption>
+</figure>
+
 
 ## 6.3 Non-right-angled triangles
 
@@ -179,6 +218,17 @@ A = 96.4° (1 d.p.)
 
 The negative cosine shows the angle is obtuse. The largest angle is always opposite the longest side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--04-obtuse-sin-cos.webp" width="900" height="890" alt="A semicircle shows angles 62 and 118 degrees at the same height, so sin 62 = sin 118 = 0.88. Their horizontal distances from the centre are equal and opposite, so cos 62 = 0.47 and cos 118 = -0.47." loading="lazy">
+  <figcaption>For an obtuse angle the sine stays positive and the cosine changes sign.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--07-trig-obtuse-cosine-rule-area.webp" width="900" height="840" alt="A triangle with sides 7.4 and 9.2 cm enclosing 118 degrees, to scale. The height falls outside the base and makes 62 degrees, so sin 118 = sin 62. c^2 = 203.3, c = 14.3 cm, area 30.1 cm^2." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds to c squared and the sine still gives a positive area.</figcaption>
+</figure>
+
+
 ### The ambiguous case
 
 When you know two sides and an angle that is not enclosed by them (SSA), the sine rule can give two possible triangles. Finding an angle with sin⁻¹ returns the acute value, but the obtuse angle 180° minus that value has the same sine.
@@ -199,6 +249,12 @@ Case 2: B = 117.9°, C = 22.1°, c = 8 × sin 22.1° / sin 40° = 4.68 cm
 
 Both triangles exist, so there are two answers. Here the given angle is opposite the shorter of the two given sides, which is the situation that allows two triangles. If the angle is opposite the longer given side, the obtuse option is too big and only one triangle exists. If the side opposite the angle is shorter than the perpendicular height (b sin A), no triangle exists, since sin B would be greater than 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--08-trig-ambiguous-case-numbers.webp" width="900" height="900" alt="With A = 40 degrees, a = 8 cm, b = 11 cm a dashed arc about C crosses the line from A twice. sin B = 0.8838 so B = 62.1 or 117.9 degrees, giving c = 12.2 cm or c = 4.68 cm." loading="lazy">
+  <figcaption>The same SSA data can make two different triangles.</figcaption>
+</figure>
+
+
 ### Mixed bearing problem
 
 **Worked example 12.** A ship sails 150 km from P to Q on a bearing of 040°, then 210 km from Q to R on a bearing of 100°. Find PR and the bearing of R from P.
@@ -214,6 +270,12 @@ bearing of R from P = 040° + 35.5° = 075.5°
 ```
 
 Use the sine rule to find an angle only when the angle is acute, as here. Because 120° is the largest angle, the other two must be acute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--03-bearings-cosine-rule.webp" width="900" height="890" alt="A ship sails 150 km on 040 degrees from P to Q then 210 km on 100 degrees to R. Angle PQR = 220 - 100 = 120 degrees, PR = 313 km, angle QPR = 35.5 degrees, so the bearing of R from P is 075.5 degrees." loading="lazy">
+  <figcaption>Find the angle inside the triangle from the bearings, then use the cosine and sine rules.</figcaption>
+</figure>
+
 
 ## 6.4 Pythagoras' theorem and trigonometry in 3D
 
@@ -241,6 +303,12 @@ The centre of the base is half a diagonal from a corner, 5√2 = 7.07 cm.
 edge = √(12² + 7.07²) = 13.9 cm (3 s.f.)
 angle with base = tan⁻¹(12 / 7.07) = 59.5° (1 d.p.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--05-pyramid-3d.webp" width="900" height="1160" alt="A square-based pyramid, base 10 cm, height 12 cm above the centre O. AO = 5 root 2 = 7.07 cm, VA = 13.9 cm, and the angle between VA and the base has tan x = 12/7.07 so x = 59.5 degrees. The triangle VOA is shown flat to scale." loading="lazy">
+  <figcaption>Half the base diagonal and the height make the right-angled triangle that gives the edge and its angle with the base.</figcaption>
+</figure>
+
 
 
 ## Common errors

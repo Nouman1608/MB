@@ -77,6 +77,17 @@ At a daily wage of 40, the third baker adds 54 and costs 40, but the fourth adds
 
 **Chain of reasoning for a rise in product demand:** more sales, higher price or output, higher MR, higher MRP at each wage, firms hire more at the same wage, and the demand curve shifts right. Labour demand moves because product demand moves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--08-derived-demand-chain.webp" width="900" height="860" alt="A four-step chain: customers spend more, the firm sells more, it raises output, it hires more workers. If demand collapses the chain runs the other way." loading="lazy">
+  <figcaption>Demand for labour is derived from customers' demand for the product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--09-imperfect-market-mrp.webp" width="900" height="1025" alt="A graph shows the demand (AR) line with the MR line below it: price 6.00, MR 4.50, gap 1.50 (illustrative line). Bars show MRP for a worker with MPP of 12: 12 x 6.00 = 72 for a price taker but 12 x 4.50 = 54 in an imperfect market." loading="lazy">
+  <figcaption>In an imperfect market MR is below price, so MRP is lower (54 not 72).</figcaption>
+</figure>
+
+
 ## Causes of shifts in labour demand
 
 | Shifts right | Shifts left |
@@ -84,6 +95,17 @@ At a daily wage of 40, the third baker adds 54 and costs 40, but the fourth adds
 | Higher demand for the product or higher price | Lower demand for the product or lower price |
 | Higher productivity (training, complementary technology) | Cheaper substitutes such as machines replace workers |
 | Cheaper complements | Higher non-wage costs for employers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--03-tomato-labour-demand-shift.webp" width="900" height="990" alt="MRP at price 2.00 is 80, 72, 60, 48, 36, 24 and at 2.50 is 100, 90, 75, 60, 45, 30. At a wage of 50 the farm hires 3 workers, then 4 after the price rise." loading="lazy">
+  <figcaption>A higher product price raises MRP at every employment level, so demand for labour shifts right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
 
 ## Elasticity of demand for labour
 
@@ -103,6 +125,12 @@ At a daily wage of 40, the third baker adds 54 and costs 40, but the fourth adds
 
 **Evaluation points.** The size of PEDL matters for the effect on the wage bill. It also matters for how many jobs are lost if costs rise. The result depends on time and on whether technology replaces labour or helps it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--10-pedl-wage-bill.webp" width="900" height="935" alt="Wage rises from 12.00 to 13.80 (+15%). Employment 400 to 376 gives PEDL -0.4 and a wage bill up from 4,800 to 5,188.80 (+8.1%). Employment 400 to 320 gives PEDL -1.33 and the wage bill falls to 4,416 (-8.0%)." loading="lazy">
+  <figcaption>Inelastic labour demand raises the wage bill after a pay rise; elastic labour demand lowers it.</figcaption>
+</figure>
+
+
 ## Supply of labour to an occupation
 
 - The supply curve slopes up because a higher wage attracts workers from other occupations and from outside the labour force.
@@ -113,6 +141,17 @@ At a daily wage of 40, the third baker adds 54 and costs 40, but the fourth adds
 
 **More elastic supply:** low skill and training barriers, high mobility, unemployed workers available, longer time.
 **Less elastic supply:** long training, specific qualifications, licensing, low mobility, short run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--04-labour-supply-shift.webp" width="900" height="970" alt="Supply S1 gives 180, 240 and 300 willing workers at wages 14, 16 and 18. After shorter hours S2 gives 240, 300 and 360, 60 more at each wage." loading="lazy">
+  <figcaption>A non-wage improvement shifts the supply curve right by the same number at every wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--11-labour-supply-elasticity.webp" width="900" height="870" alt="A 10% wage rise raises warehouse workers from 1,000 to 1,150 (+15%, elasticity 1.5) but specialist technicians from 200 to 206 (+3%, elasticity 0.3)." loading="lazy">
+  <figcaption>The same pay rise attracts far more workers into easy-entry work than into specialist occupations.</figcaption>
+</figure>
+
 
 ## Causes of shifts in labour supply
 

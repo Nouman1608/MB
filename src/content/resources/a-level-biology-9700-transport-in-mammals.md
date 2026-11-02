@@ -92,6 +92,12 @@ ratio = 1.5 : 2.5 = 0.6 : 1   (or 3 : 5)
 
 The ratio can also come straight from the image: 18 ÷ 30 = 0.6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--01-vessels.webp" width="900" height="1150" alt="Three cross-sections side by side: a thick-walled artery with a narrow lumen (wall to lumen 3:5 as in the lesson example), a thin-walled vein with a wide lumen and a long section showing a valve, and a capillary whose one-cell wall holds red cells in single file. Each layer is labelled." loading="lazy">
+  <figcaption>Artery, vein and capillary structure matched to function.</figcaption>
+</figure>
+
+
 ### Blood cells
 
 You must recognise and draw four types:
@@ -119,6 +125,12 @@ Formation in a capillary network:
 3. At the **venous end**, blood pressure is lower. The plasma proteins that stayed behind give the blood a lower water potential than the tissue fluid, so much of the water moves back into the capillary by osmosis.
 4. The excess fluid that does not return drains into lymph vessels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--02-tissue-fluid.webp" width="900" height="1020" alt="A capillary from arterial to venous end beside a body cell and lymph capillary. Bars show blood pressure (4.0 then 1.6 kPa) against the 3.3 kPa pull of plasma proteins, giving a net 0.7 kPa out then 1.7 kPa in. Excess fluid drains to lymph." loading="lazy">
+  <figcaption>Pressure balance explains why fluid leaves at the arterial end and returns at the venous end.</figcaption>
+</figure>
+
+
 ## 8.2 Transport of oxygen and carbon dioxide
 
 ### Oxygen and haemoglobin
@@ -140,6 +152,12 @@ In a red blood cell in a respiring tissue:
 
 **The role of plasma.** Most carbon dioxide is carried in the plasma as hydrogencarbonate ions. A small amount dissolves directly in the plasma. In the lungs these reactions reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
+  <figcaption>How a red cell carries CO2 and why chloride moves in.</figcaption>
+</figure>
+
+
 ### The oxygen dissociation curve
 
 The curve plots **percentage saturation of haemoglobin** against the **partial pressure of oxygen (pO₂)**. For adult haemoglobin it is **S-shaped (sigmoid)**.
@@ -149,6 +167,12 @@ The curve plots **percentage saturation of haemoglobin** against the **partial p
 - At high pO₂ the curve levels off as the haemoglobin nears full saturation.
 
 **Why the shape matters.** In the lungs, pO₂ is high, so haemoglobin becomes almost fully saturated. In respiring tissues, pO₂ lies on the steep part of the curve, so a small fall in pO₂ releases a lot of oxygen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--04-oxygen-dissociation.webp" width="900" height="1010" alt="Graph of haemoglobin saturation against pO2: the S-shaped adult curve, the same curve shifted right by high CO2 (Bohr shift) and a fetal curve to the left. The lesson numbers show 97% in the lungs and 45% or 30% at 3 kPa, releasing 10.4 or 13.4 cm3 per 100 cm3." loading="lazy">
+  <figcaption>Higher CO2 shifts the curve right so more oxygen is unloaded.</figcaption>
+</figure>
+
 
 ### The Bohr shift
 
@@ -204,6 +228,12 @@ Method: the AV valve is open only when atrial pressure exceeds ventricular press
 heart rate = 60 s ÷ 0.75 s per beat = 80 beats per minute
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--06-cardiac-cycle.webp" width="900" height="1180" alt="Pressure graph for left atrium, ventricle and aorta at five times in a 0.75 s cycle with the open or closed state of the atrioventricular and semilunar valves worked out from the pressures. The cycle gives 80 beats per minute." loading="lazy">
+  <figcaption>Valves open and close only because of pressure differences.</figcaption>
+</figure>
+
+
 ### Control of the cycle
 
 Cardiac muscle is **myogenic**: it starts its own contractions.
@@ -214,6 +244,27 @@ Cardiac muscle is **myogenic**: it starts its own contractions.
 4. **Purkyne tissue** carries the wave down the septum to the base of the ventricles, then up their walls. The ventricles contract from the bottom upwards, squeezing blood into the arteries.
 
 Knowledge of nervous and hormonal control is not expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--08-heart-rate-control.webp" width="900" height="1170" alt="Feedback loop: chemoreceptors and pressure receptors signal the cardiac control centre in the medulla, which uses the sympathetic nerve to speed up or the vagus to slow down the SAN. Adrenaline (OCR) also acts on the SAN. Bars show rest, exercise and recovery rates with blood pH." loading="lazy">
+  <figcaption>Heart rate is adjusted by negative feedback using opposite nerves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--09-atheroma.webp" width="900" height="1180" alt="Two artery cross-sections to the same scale: a 4.0 mm lumen (12.57 mm2) and a lumen narrowed by atheroma to 2.8 mm (6.16 mm2), a 30% fall in diameter but 51% in area. A chain shows clot formation, a blocked coronary artery and heart muscle death." loading="lazy">
+  <figcaption>A 30% narrowing in diameter halves the cross-sectional area.</figcaption>
+</figure>
+
 
 ## Common errors
 

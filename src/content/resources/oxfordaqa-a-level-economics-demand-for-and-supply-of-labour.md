@@ -37,6 +37,12 @@ The specification leaves out how one person decides how much to work, and it lea
 
 An employer hires someone to get output sold to customers, not for the sake of employing anyone. So the demand for labour is a **derived demand**: it is passed back from customers' spending on the product to the workers who make it. If demand for a firm's goods rises, it needs more output and so more workers. If demand collapses, so does its demand for labour. The same is true of any factor of production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--08-derived-demand-chain.webp" width="900" height="860" alt="A four-step chain: customers spend more, the firm sells more, it raises output, it hires more workers. If demand collapses the chain runs the other way." loading="lazy">
+  <figcaption>Demand for labour is derived from customers' demand for the product.</figcaption>
+</figure>
+
+
 ## 2. Marginal productivity theory
 
 **Marginal physical product (MPP)** is the addition to total output when one more worker joins the team, with land and equipment unchanged. Because of diminishing marginal returns, MPP eventually falls as more workers share the same land or equipment.
@@ -77,6 +83,17 @@ Show the wage rate on the upright axis and the quantity of labour on the flat ax
 - Firms may not aim to maximise profit. Hiring also involves training and firing costs, so the response to a pay change may be slow.
 - It works best in the short run, with other factors fixed. In the long run firms can change capital.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--09-imperfect-market-mrp.webp" width="900" height="1025" alt="A graph shows the demand (AR) line with the MR line below it: price 6.00, MR 4.50, gap 1.50 (illustrative line). Bars show MRP for a worker with MPP of 12: 12 x 6.00 = 72 for a price taker but 12 x 4.50 = 54 in an imperfect market." loading="lazy">
+  <figcaption>In an imperfect market MR is below price, so MRP is lower (54 not 72).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## 3. Shifts in the demand for labour
 
 A different wage rate takes you to another point **on** the same curve. Anything else that changes MRP at each wage **shifts** it.
@@ -92,6 +109,12 @@ A different wage rate takes you to another point **on** the same curve. Anything
 **Worked example.** The price of tomatoes rises from 2.00 to 2.50. MRP is now 100, 90, 75, 60, 45 and 30 (MPP × 2.50). At a wage of 50 the farm hires **4** workers, because the fourth now has MRP of 60, while a fifth would add only 45. Employment at that wage rises from 3 to 4: the curve has shifted right. This is derived demand at work.
 
 A rise in productivity gives the same result. If better tools add 6 kg to each worker's MPP, the MRP column becomes 92, 84, 72, 60, 48 and 36, and at a wage of 50 the farm again hires 4. Labour-saving technology can shift the curve left if it replaces workers, so state whether the technology complements or replaces labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--03-tomato-labour-demand-shift.webp" width="900" height="990" alt="MRP at price 2.00 is 80, 72, 60, 48, 36, 24 and at 2.50 is 100, 90, 75, 60, 45, 30. At a wage of 50 the farm hires 3 workers, then 4 after the price rise." loading="lazy">
+  <figcaption>A higher product price raises MRP at every employment level, so demand for labour shifts right.</figcaption>
+</figure>
+
 
 ## 4. Elasticity of demand for labour
 
@@ -114,6 +137,12 @@ If employment had instead fallen to 320, that is −20%, so PEDL = −20 ÷ 15 =
 - **Time.** In the short run firms are tied to equipment and contracts. Over a longer period they can redesign production, so demand for labour becomes more elastic.
 
 **The chain of reasoning for a wage rise:** higher wage, higher unit costs, higher price or lower profit, lower quantity sold (a bigger fall if the product is elastic), lower output, fewer workers (the output effect). Firms may also switch to capital (the substitution effect).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--10-pedl-wage-bill.webp" width="900" height="935" alt="Wage rises from 12.00 to 13.80 (+15%). Employment 400 to 376 gives PEDL -0.4 and a wage bill up from 4,800 to 5,188.80 (+8.1%). Employment 400 to 320 gives PEDL -1.33 and the wage bill falls to 4,416 (-8.0%)." loading="lazy">
+  <figcaption>Inelastic labour demand raises the wage bill after a pay rise; elastic labour demand lowers it.</figcaption>
+</figure>
+
 
 ## 5. The supply of labour (3.3.4.2)
 
@@ -140,6 +169,17 @@ Why? Specialist jobs need long training, qualifications and skills tied to one o
 | After shorter hours: workers willing | 240 | 300 | 360 |
 
 Each wage now attracts 60 more workers, a shift right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--04-labour-supply-shift.webp" width="900" height="970" alt="Supply S1 gives 180, 240 and 300 willing workers at wages 14, 16 and 18. After shorter hours S2 gives 240, 300 and 360, 60 more at each wage." loading="lazy">
+  <figcaption>A non-wage improvement shifts the supply curve right by the same number at every wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-for-and-supply-of-labour--11-labour-supply-elasticity.webp" width="900" height="870" alt="A 10% wage rise raises warehouse workers from 1,000 to 1,150 (+15%, elasticity 1.5) but specialist technicians from 200 to 206 (+3%, elasticity 0.3)." loading="lazy">
+  <figcaption>The same pay rise attracts far more workers into easy-entry work than into specialist occupations.</figcaption>
+</figure>
+
 
 ## Common errors
 

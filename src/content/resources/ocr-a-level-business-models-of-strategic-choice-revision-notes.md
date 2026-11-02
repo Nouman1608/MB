@@ -43,6 +43,12 @@ Other links: [course hub](/boards/ocr/a-level/business/), [printable checklist](
 - **Lasts when:** customers notice it and rivals cannot copy it quickly (a brand, patent, location, skills).
 - **Does not last when:** it is a price cut that rivals can match.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--10-competitive-advantage-routes.webp" width="900" height="880" alt="Illustrative unit price, cost and margin: rival 100/80/20, lower cost 100/70/30, valued difference 120/85/35." loading="lazy">
+  <figcaption>Lower cost or valued difference both raise margin, if rivals cannot copy.</figcaption>
+</figure>
+
+
 ## Five Forces at a glance
 
 | Force | Stronger when | Typical response |
@@ -74,6 +80,27 @@ For a **proposed position**, compare the forces in the new market with those in 
 | Shows where to build barriers | Does not say what to do |
 
 Verdict pattern: most useful as a first filter and when combined with SWOT or forecasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--09-five-forces-drivers.webp" width="900" height="915" alt="Five rows each showing what weakens and strengthens rivalry, entrants, substitutes, buyers and suppliers." loading="lazy">
+  <figcaption>Drivers that make each force weaker or stronger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--11-models-usefulness.webp" width="900" height="910" alt="For and against each model; use as a diagnosis not a recipe." loading="lazy">
+  <figcaption>Strengths and limits of the two models.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
 
 ## Generic strategies at a glance
 
@@ -107,6 +134,12 @@ Verdict pattern: most useful as a first filter and when combined with SWOT or fo
 | Helps align functions | Does not say how to build capability |
 | Good for comparing rivals | Does not show whether the market is profitable |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--04-generic-strategies-grid.webp" width="900" height="970" alt="A two by two grid of source of advantage (lower cost, differentiation) against scope (whole market, narrow segment), naming cost leadership, cost focus, differentiation and differentiation focus, with Seabright in cost leadership and Ironwell in differentiation focus." loading="lazy">
+  <figcaption>The generic strategies combine a source of advantage with a market scope.</figcaption>
+</figure>
+
+
 ## Worked reminder: price versus margin
 
 A cost leader and a differentiator can earn very different margins and still make similar total profit.
@@ -119,6 +152,12 @@ total gross profit    = gross profit per unit x units sold
 
 Example: a firm sells 5,000 units at £40 with unit cost £34, giving £6 per unit, a 15% margin and £30,000 in total. A rival sells 1,000 units at £90 with unit cost £60, giving £30 per unit, a 33.3% margin and £30,000 in total. The same total comes from very different strategies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--05-seabright-ironwell.webp" width="900" height="890" alt="Seabright earns 64 pounds per bike (20.0 percent) on 12,000 bikes: 768,000 pounds. Ironwell earns 200 pounds (27.0 percent) on 3,500 bikes: 700,000 pounds." loading="lazy">
+  <figcaption>A lower margin can still give the higher total profit through volume.</figcaption>
+</figure>
+
+
 ## Linking the models and writing the answer
 
 - Five Forces asks how hard it is to earn profit in the industry. Generic strategies ask how this business will win customers. Use one to test the other.
@@ -126,6 +165,12 @@ Example: a firm sells 5,000 units at £40 with unit cost £34, giving £6 per un
 - For "evaluate" questions, use this order: point from the case, effect on the business or its stakeholders, counter-point, judgement that depends on a condition.
 - For "explain" questions, define the model, then say what it is used for.
 - Link back to the wider [strategy notes](/resources/a-business-strategy-revision-notes/) when a question mixes Ansoff, SWOT or decision trees with these models.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--12-models-linked-piperwick.webp" width="900" height="920" alt="Piperwick top three customers are 62.5 percent of sales, so buyer power is strong, so differentiate through reliability and service contracts." loading="lazy">
+  <figcaption>Each model tests the other.</figcaption>
+</figure>
+
 
 ## Evaluation prompts to keep to hand
 

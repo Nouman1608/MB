@@ -69,6 +69,12 @@ Market research is collecting and analysing information about customers, competi
 | Fit to question | Exact | May not fit |
 | Rivals can see it | No | Often yes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+
 ## 4.1.3 Data
 
 | Term | Meaning | Example |
@@ -89,6 +95,17 @@ Sample 400 people, 50 would buy the new product.
 ```
 
 If the 400 were all students at one school, the sample would not represent all customers, so 12.5% could mislead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--02-survey-35-percent.webp" width="900" height="1080" alt="A grid of 240 circles with 84 filled shows 35 percent would buy sourdough weekly (quantitative). A speech bubble with the comment about slicing is qualitative. Together they suggest a market exists and slicing might widen it." loading="lazy">
+  <figcaption>84 of 240 is 35% (how many); the comment about slicing says why (qualitative).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
 
 ## 4.2.1 Importance of marketing
 
@@ -130,6 +147,22 @@ Share can stay the same when sales rise, if the whole market rises at the same r
 | Strength | Less competition; premium price possible | Large volume; economies of scale |
 | Weakness | Small base; exposed if niche shrinks | Strong competition; thin margins |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--01-market-share-unchanged.webp" width="900" height="860" alt="Two bars to the same scale show the town bread market. Last year 45,000 of 360,000 dollars is 12.5 percent. This year 49,500 of 396,000 dollars is still 12.5 percent. Both the market and Harlow Bakes grew 10 percent, so share is unchanged." loading="lazy">
+  <figcaption>Sales rose 10% but so did the market, so share stayed at 12.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--04-market-vs-product-orientation.webp" width="900" height="960" alt="Two process chains. Market orientation: research, design, make, sell. Product orientation: make, sell, find buyers. Research is central in the first and limited in the second." loading="lazy">
+  <figcaption>Market orientation starts with customers; product orientation starts with what the business makes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
+
 ## 4.2.2 Responding to market change
 
 | Change | Possible response | Watch out for |
@@ -137,6 +170,12 @@ Share can stay the same when sales rise, if the whole market rises at the same r
 | Changing customer needs | Research again; adapt or drop products | Cost of change |
 | Changing spending patterns | Value range; price changes; new sales channel | Lower profit per sale |
 | Increased competition | Improve quality or service; change prices; promote more; find a niche | Price wars reduce profit |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-market-research-and-the-market--03-spending-fall-10-5.webp" width="900" height="940" alt="Two bars show weekly household spending on bakery products falling from 38 to 34 dollars, a fall of 10.5 percent. A suitable response is a smaller lower-priced range, but costs must be checked because profit per sale falls." loading="lazy">
+  <figcaption>Spending fell from $38 to $34, a 10.5% drop, so Harlow Bakes needs a response.</figcaption>
+</figure>
+
 
 ## 4.2.3 Market segmentation
 
@@ -151,6 +190,12 @@ Dividing a market into groups with shared features so product, price and promoti
 | Age | Children, teenagers, adults, older adults |
 
 Benefit: less wasted spending, better-fitting product. Cost: research expense and the risk of ignoring other segments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## Percentage change reminder
 

@@ -47,6 +47,32 @@ These notes condense section 8.2 (Marketing strategy) of the Cambridge Internati
 
 Reminder: Cindermere Sports has sales of £2.4m in a £30m market (8%). It wants 10% share after one year with market growth of 4%. New market = 30 × 1.04 = £31.2m. Target sales = 10% × 31.2 = £3.12m. Increase = £0.72m, which is 30% on current sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--06-olmera-plan-numbers.webp" width="900" height="990" alt="Market share bars: 8 percent now (4.8 million in a 60 million market) and an 11 percent target in two years (7.28 million in a 66.15 million market), needing 51.6 percent more sales. The 300,000 pound budget splits research 8, product 22, promotion 45, place 25 percent." loading="lazy">
+  <figcaption>Olmera: turning a share target into a sales target and a budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--06-planning-gains-costs.webp" width="900" height="818" alt="Five stages in order: research, objectives, resources, marketing mix, results against targets. Benefits sit on the left and limitations on the right beside the stage where they arise." loading="lazy">
+  <figcaption>Where each benefit and limit of marketing planning shows up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--07-it-ai-data-to-decisions.webp" width="900" height="1040" alt="IT collects data (online sales, website visits, social media, loyalty cards), AI analyses it, and marketing uses it for patterns, demand forecasts, automatic prices, recommendations, chatbots and content. Gains: speed, lower unit costs, targeting. Limits: cost, poor data, privacy, less personal touch." loading="lazy">
+  <figcaption>From data to decisions, with the gains and limits of AI.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--02-marketing-planning-chain.webp" width="900" height="730" alt="A chain: the corporate objective must be supported by the marketing objectives (market share, brand awareness), which are reached through the marketing mix strategy (the seven Ps). Market research informs the objectives and sales forecasts (HL only) inform the plan. An illustrative bar shows market share of 12% against a 15% target." loading="lazy">
+  <figcaption>Marketing objectives must support the corporate objective and are met through the marketing mix, informed by research and forecasts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+
 ## 8.2.2 Approaches to marketing strategy
 
 ### Consistency: three tests
@@ -87,6 +113,12 @@ Reminder: Cindermere Sports has sales of £2.4m in a £30m market (8%). It wants
 **Against:** set-up cost and skills, poor data gives poor results, privacy concerns, loss of personal contact.
 **Judgement prompt:** the larger and more online the business, the bigger the gain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
+
 ## 8.2.3 International marketing
 
 ### Key ideas
@@ -109,6 +141,12 @@ Reminder: Cindermere Sports has sales of £2.4m in a £30m market (8%). It wants
 
 Multiply each score by its weight and add. Example: weights 40, 35, 25 for size, growth and cultural fit. Market A scores 3, 4, 5, so A = 120 + 140 + 125 = 385. Market B scores 5, 3, 2, so B = 200 + 105 + 50 = 355. A wins, but B has the larger market, so a business that values size above all might choose B. State what would change the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--07-market-selection-scores.webp" width="900" height="930" alt="Stacked bars of weight times score for markets X, Y and Z: totals 350, 350 and 375 out of 500. Z leads, X and Y tie, and the ranking depends on weights and opinion-based scores." loading="lazy">
+  <figcaption>Weighted scoring: Z leads, but the judgement depends on the weights.</figcaption>
+</figure>
+
+
 ### Pan-global versus local differences
 
 | | Pan-global | Local differences |
@@ -119,6 +157,12 @@ Multiply each score by its weight and add. Example: weights 40, 35, 25 for size,
 | Suits | Products with universal appeal | Culture-linked products |
 
 A common middle path: one global brand, with some adaptation of the product or message.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--07-standardise-or-adapt.webp" width="900" height="960" alt="Standardisation sends one identical product and approach to every market, giving lower cost but less local fit. Adaptation tailors the product to each market, giving more relevance but higher cost. Markets differ in culture, language, legal requirements and consumer behaviour." loading="lazy">
+  <figcaption>Standardisation lowers cost; adaptation improves local relevance; the best choice depends on the product and markets.</figcaption>
+</figure>
+
 
 ### Entry method factors
 
@@ -132,6 +176,12 @@ Cost and finance; control wanted; risk; speed; local knowledge; barriers and leg
 | Own subsidiary | High | High | High |
 
 These are general patterns, not rules. Check the case study for exceptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-strategy--08-entry-method-comparison.webp" width="900" height="1010" alt="Bars compare set-up cost and three-year income for licensing (30, 210), joint venture (200, 360) and own subsidiary (400, 630), in thousands of pounds, with net 180, 160, 230 and payback 0.43, 1.67, 1.90 years." loading="lazy">
+  <figcaption>Pavonia: licensing repays fastest; a subsidiary returns most but ties up most money.</figcaption>
+</figure>
+
 
 ### Method: comparing two options by cost per customer
 

@@ -48,6 +48,22 @@ Prefixes: µ = 10⁻⁶, n = 10⁻⁹, p = 10⁻¹². Convert to farads before s
 V = Q/C = 0.68 × 10⁻³ / 220 × 10⁻⁶ = 3.1 V
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--01-charge-flow-in-circuit.webp" width="900" height="1140" alt="Two circuits show a capacitor charging from a cell and discharging through a resistor. Teal arrows show electron flow round the circuit and gold arrows the conventional current, opposite in direction. No electrons cross the gap: charge is moved from one plate to the other by the circuit. The p.d. rises to the cell p.d. while charging and falls to zero while discharging." loading="lazy">
+  <figcaption>Electrons move round the circuit, never across the gap, and the current reverses on discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--04-dielectric-polar-molecules.webp" width="900" height="1090" alt="Polar molecules between capacitor plates point randomly with no field. When the plates are charged they line up, leaving layers of negative ends facing the positive plate and positive ends facing the negative plate. These layers reduce the net field, so the p.d. is smaller for the same charge and C = Q/V rises. For the lesson example, 916 pF with the dielectric against 398 pF in air." loading="lazy">
+  <figcaption>Aligned polar molecules reduce the field, so the same charge gives a smaller p.d. and a larger capacitance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--05-isolated-sphere-capacitance.webp" width="900" height="980" alt="Two isolated spheres with radii 0.10 m and 0.20 m are shown at the same potential, 1000 V. C = 4 pi epsilon0 r depends only on the radius, so the larger sphere has capacitance 22.2 pF against 11.1 pF and holds twice the charge, 22.2 nC against 11.1 nC." loading="lazy">
+  <figcaption>The capacitance of an isolated sphere is proportional to its radius.</figcaption>
+</figure>
+
+
 ## 6.1.1(b) Electron flow
 
 **Charging from a supply**
@@ -60,6 +76,12 @@ V = Q/C = 0.68 × 10⁻³ / 220 × 10⁻⁶ = 3.1 V
 - Electrons flow from the negative plate round the external circuit to the positive plate.
 - This is the reverse direction to the charging current.
 - Current and p.d. fall to zero as the plates become neutral.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--06-rc-charge-discharge-curves.webp" width="900" height="1130" alt="Against time in units of RC, charging makes Q and the capacitor p.d. rise towards their final values (63 percent at one RC) while the current and resistor p.d. fall from their maximum. V_R + V_C always equals V0. Discharging makes Q, V and I all fall with the same exponential shape (37 percent at one RC)." loading="lazy">
+  <figcaption>Charge and p.d. rise or fall, but the current always decays exponentially.</figcaption>
+</figure>
+
 
 ## 6.1.1(c) and (d) Combinations
 
@@ -122,6 +144,12 @@ For a d.c. circuit in the steady state:
 - From zero: triangle, ½QV.
 - Between Q₁ and Q₂: trapezium, ½(V₁ + V₂)(Q₂ − Q₁).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--09-ln-graph-find-rc.webp" width="900" height="1230" alt="Potential difference readings for a discharging capacitor lie on a curve. Plotting ln V against t gives a straight line of gradient minus 0.0500 per second, so RC = 20.0 s. With R = 100 kilohm, C = 200 microfarad. For charging, plot ln(V0 - V) instead." loading="lazy">
+  <figcaption>A ln V against t graph is a straight line whose gradient is minus 1/RC.</figcaption>
+</figure>
+
+
 ## 6.1.2(b) Energy stored
 
 Three forms: W = ½QV, W = ½Q²/C, W = ½V²C.
@@ -134,6 +162,12 @@ W = 0.45 J at 30 V:      C = 2W/V² = 2 × 0.45 / 30² = 1.0 × 10⁻³ F
 - At fixed C, doubling V gives four times the energy.
 - At fixed Q, W = ½Q²/C, so halving C doubles the energy.
 - A battery of e.m.f. V that charges a capacitor to V supplies QV. Half is stored and half is transferred as thermal energy in the circuit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--02-energy-stored-vq-graph.webp" width="900" height="1010" alt="A straight V-Q graph from the origin has gradient 1/C. A thin strip is the work V delta Q and the triangle under the line is the energy stored, 1/2 QV = 1/2 CV^2 = Q^2/2C. For 470 microfarad at 12 V the energy is 33.8 mJ. OCR only: charging from a 12 V battery takes QV = 67.7 mJ, half stored and half lost as heat." loading="lazy">
+  <figcaption>The energy stored is the area under the V-Q graph, half of QV.</figcaption>
+</figure>
+
 
 ## 6.1.2(c) Uses as energy stores
 
@@ -175,6 +209,12 @@ W = 0.45 J at 30 V:      C = 2W/V² = 2 × 0.45 / 30² = 1.0 × 10⁻³ F
 8. **Zero.** No current flows in the series branch when the capacitor is fully charged, so V = IR gives 0 V.
 9. Half of 0.12 J: **0.060 J**.
 10. It can release its stored energy in a very short time, giving a high power pulse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--03-series-parallel-capacitors.webp" width="900" height="1100" alt="The same two capacitors, 10 and 15 microfarad, are connected across 15 V. In series each holds 90 microcoulombs and the p.d.s (9.0 V and 6.0 V) add, giving 6.0 microfarad. In parallel each has 15 V and the charges (150 and 225 microcoulombs) add, giving 25 microfarad." loading="lazy">
+  <figcaption>Series: same charge, p.d.s add, smaller C. Parallel: same p.d., charges add, larger C.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

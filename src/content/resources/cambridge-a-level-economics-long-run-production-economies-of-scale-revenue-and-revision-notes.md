@@ -64,6 +64,12 @@ Must-know distinction:
 | All factors change together | At least one factor fixed |
 | Explains LRAC shape | Explains rising short-run marginal cost |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--01-eco27-returns-bundles.webp" width="900" height="1100" alt="Bars compare the percentage rise in inputs and output for each added bundle, labelled increasing, constant and decreasing returns, with cost per unit below. Output is 100, 230, 345 and 414 units and each bundle costs 1,500 cu. Cost per unit is 15.00, 13.04, 13.04 and 14.49." loading="lazy">
+  <figcaption>Returns to scale: output rising faster than inputs lowers cost per unit.</figcaption>
+</figure>
+
+
 ## LRAC and minimum efficient scale (7.5.4)
 
 - The LRAC is drawn as a U-shape (or sometimes an L-shape). It is the envelope of short-run average cost curves, one for each scale of plant.
@@ -72,6 +78,17 @@ Must-know distinction:
 - The size of MES relative to the market limits how many firms can reach it. Number of firms at MES = market demand/MES, rounded down.
 
 Worked reminder: a mill has LRAC of 5.0, 4.2, 3.9, 3.9 and 4.3 cu at 100, 200, 300, 400 and 500 units. The minimum is 3.9 cu, first reached at 300, so MES is 300 units. The fall between 100 and 300 is (3.9 − 5.0)/5.0 × 100 = −22.0%. If the market buys 1,000 units at this price, at most 1,000/300 = 3.33, so 3 firms, can reach MES.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--02-eco27-lrac-mes-bottling.webp" width="900" height="990" alt="LRAC for a bottling firm falls from 9.00 to 6.00 at 40 thousand units (the minimum efficient scale), stays flat to 60 thousand, then rises to 6.60 at 70 thousand. A bar shows market demand of 200 thousand units holding five firms of minimum efficient size." loading="lazy">
+  <figcaption>Minimum efficient scale is 40 thousand units, so a 200 thousand unit market has room for five firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--12-lrac-envelope.webp" width="900" height="840" alt="Five illustrative short-run average cost curves, one per plant size, are U-shaped. The long-run curve, through the bottling-firm values from the lesson, touches each at one point and stays on or below all of them, like an envelope." loading="lazy">
+  <figcaption>The long-run average cost curve is the lower edge of the short-run curves for each plant size.</figcaption>
+</figure>
+
 
 ## Economies and diseconomies of scale (7.5.5 to 7.5.7)
 
@@ -95,6 +112,27 @@ Evaluation points:
 - Benefits are limited once MES is passed.
 - Diseconomies can be delayed by delegation and better systems.
 - External economies depend on the industry staying concentrated in one area.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--03-eco27-movement-vs-shift.webp" width="900" height="1260" alt="An internal economy is a movement along one LRAC curve (9.00 to 6.00). An external economy shifts the whole curve down 8 percent (6.00 to 5.52 at 40 thousand units, 9.00 to 8.28 at 10 thousand) with MES unchanged. A note shows an external diseconomy shifting it up to 6.18." loading="lazy">
+  <figcaption>Internal economies are a movement along LRAC; external economies shift the whole curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--09-marketing-purchasing-economies.webp" width="900" height="925" alt="Panel A: a 48,000 cu campaign costs 4.00 cu per unit at 12,000 units and 1.20 cu at 40,000 units, saving 2.80 cu. Panel B: a supplier charges 2.50 cu per kg, or 2.20 above 5,000 kg; 6,000 kg saves 0.30 per kg, 12 percent or 1,800 cu in all." loading="lazy">
+  <figcaption>Spreading a fixed cost and buying in bulk both lower cost per unit as output grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--11-diseconomies-move-or-shift.webp" width="900" height="860" alt="LRAC for the bottling firm falls to a flat 6.00 and rises to 6.60 at 70 thousand units. Internal diseconomies move the firm along its curve (+10%, 6.00 to 6.60). External diseconomies such as congestion lift every cost by 3 percent and shift the whole curve up, for example 6.00 to 6.18." loading="lazy">
+  <figcaption>Internal diseconomies are a movement along LRAC; external ones shift the curve up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
 
 ## Revenue (7.5.8)
 
@@ -123,6 +161,22 @@ MR for the fourth unit is 72 − 63 = 9. The formula MR = 30 − 6Q gives 30 −
 
 Price taker reminder: at a constant price of 5.50 cu, selling 200 units gives TR of 1,100 cu and 260 units gives 1,430 cu. MR = (1,430 − 1,100)/60 = 5.50 cu = AR.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--04-eco27-ar-mr-tr.webp" width="900" height="1230" alt="For demand P = 22 - 2Q, AR falls from 22 and MR = 22 - 4Q falls twice as fast, reaching zero at 5.5 units. Total revenue peaks at 60.5 where MR is zero. Demand is elastic left of 5.5 and inelastic right of it." loading="lazy">
+  <figcaption>MR is below AR; TR peaks where MR = 0 and elasticity is one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--10-price-taker-mr-ar.webp" width="900" height="790" alt="Price against units sold: a horizontal line at 8 is demand, AR and MR. TR for 1 to 5 units is 8, 16, 24, 32 and 40 and the shaded rectangle for 5 units has area 40." loading="lazy">
+  <figcaption>A price taker has a horizontal demand curve, so MR = AR = price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Profit (7.5.9 and 7.5.10)
 
 | Case | TR against TC | AR against ATC |
@@ -143,6 +197,12 @@ Worked reminders:
 - AR 7.40, ATC 6.85, output 1,200: (7.40 − 6.85) × 1,200 = 660 cu supernormal.
 - TR 31,000, TC 33,500: 31,000 − 33,500 = −2,500 cu, so subnormal profit.
 - If accounting profit is 14,000 cu and the owner's next-best earnings are 11,000 cu, supernormal profit is 3,000 cu. If next-best earnings were 16,000 cu, profit would be subnormal by 2,000 cu even though the accounts show a gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--05-eco27-normal-profit-bars.webp" width="900" height="1060" alt="Bars compare revenue with total cost including normal profit for three cases: supernormal profit of 3,000, subnormal profit of 3,000 and subnormal profit of 3,500. The dashed box shows the gap between revenue and total cost." loading="lazy">
+  <figcaption>Profit is supernormal or subnormal only after normal profit is counted as a cost.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

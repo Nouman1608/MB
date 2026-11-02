@@ -60,6 +60,17 @@ These are condensed notes for section 2.11 of the Cambridge O Level Economics sy
 - Minimum price 25: Qd = 150, Qs = 240, surplus = 90.
 - If the government buys the surplus, cost = 25 × 90 = 2,250.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--06-maximum-rent-shortage.webp" width="900" height="910" alt="Demand and supply for rented homes meet at rent 10 and 400 homes. A maximum rent of 6 gives 280 homes supplied and 480 demanded, a shortage of 200. Demand for 280 homes would support a rent of 16, shown as a possible black-market rent." loading="lazy">
+  <figcaption>A maximum price below equilibrium leaves 200 homes short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--03-mix-minimum-price-tea.webp" width="900" height="910" alt="Demand and supply cross at 18 and 320. A floor of 22 gives demand 280 and supply 380, a surplus of 100. Buying it costs 2,200, shown as the shaded rectangle." loading="lazy">
+  <figcaption>A minimum price of 22 creates a surplus of 100 that costs 2,200 to buy.</figcaption>
+</figure>
+
+
 ## Taxes and subsidies in steps
 
 | | Indirect tax | Subsidy |
@@ -87,6 +98,12 @@ Key rules:
 - Subsidy 3: Qs = −50 + 20(P + 3) = 10 + 20P. Then 390 = 30P, so P = 13, Q = 270.
 - Consumers pay 2 less. Producers receive 13 + 3 = 16, which is 1 more. Cost = 3 × 270 = 810.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--05-mix-subsidy-solar-heaters.webp" width="900" height="930" alt="A subsidy of 6 moves supply down. Price falls from 20 to 16 and quantity rises from 250 to 290. Sellers receive 22. Cost to government is 6 x 290 = 1,740." loading="lazy">
+  <figcaption>A subsidy of 6 cuts the price buyers pay to 16 and costs the government 1,740.</figcaption>
+</figure>
+
+
 ## Other measures
 
 | Measure | Reason | Main advantage | Main drawback |
@@ -97,6 +114,12 @@ Key rules:
 | Direct provision | Public and merit goods are under-provided | Reaches everyone | Opportunity cost, possible waste |
 
 **Opportunity cost reminder.** A budget of 200 buys hospitals at 50 or colleges at 20. Three hospitals cost 150, leaving 50, which buys 2 colleges (50 / 20 is 2.5, so 2 whole). One extra hospital costs 50 / 20 = 2.5 colleges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--06-mix-bridges-barriers-opportunity-cost.webp" width="900" height="870" alt="A budget line shows 5 bridges or 7 barriers for 300. Three of each fits exactly. One more bridge gives up 1.5 barriers." loading="lazy">
+  <figcaption>Each extra bridge costs 1.5 flood barriers in this budget.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -146,6 +169,17 @@ Use a short chain: aim, mechanism, result, drawback, judgement.
 9. Any two from: weak incentives to be efficient, losses paid by taxpayers, political interference, less choice.
 10. Demand is price inelastic, or there are no close substitutes, or the good is habit-forming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--07-indirect-tax-incidence.webp" width="900" height="960" alt="A tax of 6 shifts supply up by 6. Equilibrium moves from price 16 and 200 packs to price 20 and 160 packs. A rectangle 6 high and 160 wide is split into consumers 4 by 160 equals 640 and producers 2 by 160 equals 320, total 960." loading="lazy">
+  <figcaption>The tax is shared: consumers pay 4 more and producers keep 2 less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--04-mix-exchange-rate-limits.webp" width="900" height="900" alt="Equilibrium is at a rate of 4 and 500 million dinars. A ceiling of 3 gives excess demand of 150 million; a floor of 5 gives excess supply of 150 million and reserve spending of 750 million." loading="lazy">
+  <figcaption>Holding the dinar away from equilibrium leaves a 150 million gap the central bank must fill.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Setting a ceiling above equilibrium or a floor below it, which changes nothing.
@@ -157,6 +191,38 @@ Use a short chain: aim, mechanism, result, drawback, judgement.
 - Giving only advantages of privatisation or only drawbacks of nationalisation.
 - Ending an evaluation without a judgement tied to the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--08-minimum-wage-unemployment.webp" width="900" height="910" alt="Labour demand and supply meet at wage 15 and 450 hundred workers. A minimum wage of 18 gives demand for 360 and supply of 510, so 150 hundred workers are unemployed. Total pay falls from 6,750 to 6,480." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for those in work but creates unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge University Press and Assessment (Cambridge International Education), section 2.11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+

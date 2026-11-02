@@ -54,6 +54,17 @@ The cost-minimising method depends on relative resource prices. Rising wages pus
 
 **Who benefits matters as much as how much.** Economic welfare depends on distribution as well as total output. Country Green has five people who each receive 120, so total output is 600 and the mean is 120. Country Orange also produces 600, but its five people receive 400, 50, 50, 50 and 50. The mean is still 120, but the median is 50 and the richest person takes 400/600 = 66.7% of output. Equal averages hide very different living standards. Whether Orange's distribution is acceptable is a value judgement (see 3.1.1.5).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--03-cheapest-method.webp" width="900" height="920" alt="Cost lines for Method A (8w + 60) and Method B (3w + 180) cross at wage 24, cost 252. A is cheaper below 24, B above." loading="lazy">
+  <figcaption>Higher wages make capital-intensive methods cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--05-green-v-orange.webp" width="900" height="860" alt="Both countries produce 600 for five people, mean 120. Green gives 120 each (median 120); Orange gives 400, 50, 50, 50, 50 (median 50), so one person takes 66.7%." loading="lazy">
+  <figcaption>Equal averages can hide very unequal distribution.</figcaption>
+</figure>
+
+
 ## 3.1.1.2 Economic resources
 
 Resources fall into four factors of production.
@@ -70,6 +81,17 @@ Capital means physical capital, not money. A loan is finance; the van it buys is
 **Renewable resources** can regenerate within a human timescale (fish, timber, solar energy) provided they are not used faster than they regrow. **Non-renewable resources** (coal, oil, metal ores) have no meaningful regrowth. A woodland that grows 300 tonnes of timber a year and loses 450 tonnes to felling falls by 150 tonnes a year. A renewable resource used unsustainably behaves like a non-renewable one.
 
 **The environment is a scarce resource.** Production draws on it as an input and returns waste to it, so production and consumption can damage it. Economic activity depends on the natural environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--06-renewable-felling.webp" width="900" height="800" alt="A woodland regrows 300 tonnes a year (six trees) but 450 tonnes (nine trees) are felled, so the stock falls 150 tonnes a year." loading="lazy">
+  <figcaption>A renewable resource used faster than it regrows behaves like a non-renewable one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
 
 ## 3.1.1.3 Scarcity, choice and the allocation of resources
 
@@ -99,6 +121,32 @@ Societies use three broad systems.
 
 **Evaluation.** No real economy is purely market or purely planned. The useful question is the degree and form of intervention. A market allocates well only if prices reflect full costs and benefits, which they often do not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--07-carpenter-opportunity-cost.webp" width="900" height="780" alt="In 40 hours a carpenter makes 10 chairs or 4 tables. One table costs 2.5 chairs (75 of sales); chairs earn 7.50 an hour and tables 9.00." loading="lazy">
+  <figcaption>Opportunity cost from a time budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--08-next-best-alternative.webp" width="900" height="770" alt="Oven 6,000, extra staff 4,500, deposit 2,000. The oven is chosen and its opportunity cost is 4,500, not 6,500." loading="lazy">
+  <figcaption>Opportunity cost is the next best option only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
+
 ## 3.1.1.4 Production possibility diagrams
 
 A production possibility diagram (PPD, or production possibility frontier) plots the largest combinations of two goods that an economy can make when every resource is in full, efficient use and technology is fixed. The axes are the quantities of the two goods.
@@ -127,6 +175,17 @@ A production possibility diagram (PPD, or production possibility frontier) plots
 
 **Worked example.** Suppose society values an extra unit of K at 2.5 units of C. Moving from K = 20 to 30 costs 1.6 C per K, so it is worth doing (2.5 is greater than 1.6). Moving from 30 to 40 costs 3.2 C per K, so it is not worth doing (2.5 is less than 3.2). The allocatively efficient point is (K = 30, C = 72). Points a to e are all productively efficient, but only d is allocatively efficient here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--01-ppd-numbers.webp" width="900" height="880" alt="Production possibility curve for Country A through points a to e: (0,100), (10,96), (20,88), (30,72), (40,40). A point inside at K=20, C=60 is 28 below the boundary; a point outside at K=30, C=90 is unattainable." loading="lazy">
+  <figcaption>Points on, inside and outside the frontier using the lesson table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--02-allocative-efficiency.webp" width="900" height="940" alt="Bars show opportunity cost per extra K of 0.4, 0.8, 1.6 and 3.2 against society valuing 1 K at 2.5 C. Moves up to d are worth making; d to e is not, so d (K=30, C=72) is allocatively efficient." loading="lazy">
+  <figcaption>Moving to the point where marginal opportunity cost meets the value society places on K.</figcaption>
+</figure>
+
+
 ## 3.1.1.5 Economic methodology
 
 Economics is a **social science**: it explains human behaviour using theory and evidence. It resembles natural science in building models, forming hypotheses and testing them against data. It differs because:
@@ -152,6 +211,12 @@ Economics is a **social science**: it explains human behaviour using theory and 
 Words such as should, fair or best usually signal normative statements. Split mixed statements into their positive and normative parts.
 
 **Value judgements and policy.** Two people can agree on every fact and still disagree on policy. Choosing a tax or a spending plan involves positive consequences (who gains, who loses, by how much) and moral and political judgements (how to weigh efficiency against equality, or the present against the future). Economists add most by separating the two: show the evidence, then state the value judgement a conclusion depends on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--09-ceteris-paribus-bread.webp" width="900" height="730" alt="A 10% price rise cuts demand by about 6%, a simultaneous income rise adds about 7%, and the observed change is about +1%." loading="lazy">
+  <figcaption>Ceteris paribus isolates one effect when many things change.</figcaption>
+</figure>
+
 
 ## Common errors
 

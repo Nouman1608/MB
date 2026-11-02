@@ -69,6 +69,17 @@ The guide says a copy of its formulae will be provided for the examination, and 
 3. Add the present values.
 4. Subtract the original cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--04-opaline-payback-arr.webp" width="900" height="1148" alt="A running-cash line for Opaline Print Works crosses zero at 3.2 years (payback). Beneath, a net gain of 70k over 5 years is 14k a year, which is 11.7% of the 120k cost (ARR)." loading="lazy">
+  <figcaption>Payback asks how soon the cost is recovered; ARR asks what average yearly return it earns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--06-ia-what-each-counts.webp" width="900" height="800" alt="A tick and cross grid shows that ARR and NPV count every year’s return but payback does not, only NPV allows for the time value of money (HL), and only payback shows how soon cash comes back." loading="lazy">
+  <figcaption>What each method takes into account.</figcaption>
+</figure>
+
+
 ## Worked reminder
 
 Polbrook Cycles is considering a workshop extension costing 90,000 (dollars). Forecast net returns: year 1, 25,000; year 2, 35,000; year 3, 45,000; year 4, 30,000.
@@ -110,6 +121,17 @@ Quantitative results are one input. Strong answers also weigh:
 
 Structure for a recommendation: state the result, interpret it for this business, give the limitation that matters most, give a counter-point, then reach a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
+  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. A business buys equipment for 84,000 and expects net returns of 12,000 each year. Calculate the payback period.
@@ -137,6 +159,22 @@ Structure for a recommendation: state the result, interpret it for this business
 9. Payback favors X (shorter). ARR favors Y (higher).
 10. Any two, for example: effect on employees, environmental impact, fit with the business's objectives, effect on reputation, ethical concerns.
 11. The project earns more than the required return at 8% but fails to at 10%, so the decision is sensitive to the rate. The business should check which rate best reflects its cost of finance and how reliable its forecasts are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--05-npv-discount-rate.webp" width="900" height="910" alt="Two stacked columns of present values for the Opaline press: at 8% they total 149,668, above the 120,000 cost, giving NPV +29,668; at 20% they total 109,549, below the cost, giving NPV minus 10,451." loading="lazy">
+  <figcaption>The same project can pass or fail depending on the discount rate chosen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--06-zephyrwood-compare.webp" width="900" height="1170" alt="Running cash for two 200,000 lines: A reaches zero at 2.0 years, B at 2.9 years, but B ends higher. Line A has the shorter payback; Line B has the higher ARR (20.0% v 7.5%) and, for HL, the higher NPV at 10% (70,214 v 18,916)." loading="lazy">
+  <figcaption>Different methods can favour different projects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--07-ia-same-arr-timing.webp" width="900" height="940" alt="Line A returns 120, 80, 40 and 20 thousand on a 200 thousand cost: ARR 7.5%, payback 2.0 years. The same returns reversed give ARR 7.5% but payback 3.5 years, showing ARR ignores timing." loading="lazy">
+  <figcaption>Same ARR, very different payback.</figcaption>
+</figure>
+
 
 ## Command words in this topic
 

@@ -46,6 +46,22 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 - They hold different moral and political judgements (fairness, freedom, the role of the state), so they weigh the same consequences differently.
 - Value judgements influence which objectives a government chooses and which groups it protects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--10-ppd-two-shifts.webp" width="900" height="950" alt="Original boundary and two outward shifts: all resources better (radius 110, point c moves to 66, 88) and technology improving only consumer goods (C intercept 100 to 120, K intercept unchanged)." loading="lazy">
+  <figcaption>Potential growth shifts the boundary out, evenly or in only one good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--09-tax-facts-values.webp" width="900" height="850" alt="A tax of 0.5 per bottle cuts consumption from 500,000 to 440,000 (-12%), revenue 220,000. One person says the fall justifies the tax; another says it hits low-income households hardest. The disagreement is about values." loading="lazy">
+  <figcaption>Two people can accept all the facts and still disagree about values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
+
 ## 3.1.1.2 Purpose of economic activity
 
 - Purpose: produce goods and services to satisfy **needs** (what is required to survive) and **wants** (what is desired beyond that).
@@ -60,6 +76,12 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 
 **Worked reminder: how.** A print shop makes 1,000 leaflets a day. Method X uses 5 workers and 1 printer; method Y uses 2 workers and 2 printers. With a wage of 90 and printer cost of 200 a day, X costs 450 + 200 = 650 (0.65 per leaflet) and Y costs 180 + 400 = 580 (0.58). If the wage rises to 140, X costs 900 and Y costs 680. A higher wage makes the capital-intensive method relatively more attractive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--06-how-to-produce.webp" width="900" height="950" alt="Bakery needing 600 loaves: 6 workers and 1 oven versus 2 workers and 3 ovens. At wage 100 the cost per loaf is 1.25 and 1.08; at wage 200 it is 2.25 and 1.42." loading="lazy">
+  <figcaption>The choice of production method responds to the relative price of inputs.</figcaption>
+</figure>
+
+
 ## 3.1.1.3 Economic resources
 
 | Factor of production | Definition | Reward |
@@ -73,6 +95,32 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 - Non-renewable resources cannot be replaced once used; renewable resources can run down if used faster than they regenerate.
 - Over-use happens when the environment is treated as free. Use now has an opportunity cost for future generations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--07-opportunity-cost-farm.webp" width="900" height="990" alt="Wheat, barley and sheep earn 900, 700 and 650 per hectare. The opportunity cost of wheat is the barley given up (700), not 700 + 650. For 20 hectares wheat earns 18,000 against 14,000 forgone, a gain of 4,000." loading="lazy">
+  <figcaption>Opportunity cost is the single next best alternative, not the sum of alternatives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--11-environment-stock.webp" width="900" height="865" alt="Stock over 12 years from 100: renewable used at its regrowth rate stays at 100; renewable over-used falls to 28; non-renewable used at 10 a year is exhausted in 10 years. Numbers are illustrative." loading="lazy">
+  <figcaption>Renewable resources can be used up if use exceeds regrowth; non-renewable ones cannot be replaced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+
 ## 3.1.1.4 Scarcity, choice and opportunity cost
 
 - **Scarcity** = limited resources against unlimited wants. It is the fundamental economic problem, and every economy faces it.
@@ -85,6 +133,17 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 3. The opportunity cost is the second best only, not the sum of everything rejected.
 
 **Worked reminder.** A hectare gives 900 from wheat, 700 from barley and 650 from sheep. Wheat is chosen. Opportunity cost = 700 per hectare.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--08-ppd-country-a.webp" width="900" height="1274" alt="PPD for Country A with capital goods on the horizontal axis, points a to f on K squared plus C squared equals 10,000, and bars for the opportunity cost of one K on each move: 0.14, 0.5, 1, 2 and 7 C." loading="lazy">
+  <figcaption>Opportunity cost rises along the boundary, so it bows outward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--10-present-future-ppb.webp" width="900" height="995" alt="Boundary K squared plus C squared = 10,000 with points c (60, 80) and d (80, 60). With the lesson assumption that K of 60 raises the boundary 4% and K of 80 by 8%, next-period maximum C is 104 or 108." loading="lazy">
+  <figcaption>More capital now means less consumption now but a higher boundary later.</figcaption>
+</figure>
+
 
 ## 3.1.1.5 Production possibility diagrams
 
@@ -121,6 +180,12 @@ Example: a move along the boundary from (20, 90) to (50, 60) gains 30 of K and l
 |---|---|---|
 | Productive efficiency | Resources fully used at lowest cost; cannot make more of one good without making less of another | Every boundary point |
 | Allocative efficiency | Output matches what society values most; marginal benefit equals marginal cost | Only one boundary point; the diagram cannot show which |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production--09-ppd-efficiency.webp" width="900" height="1000" alt="Point u inside the boundary shows unemployed resources. Moving to c gains 12 K and 20 C; moving to d gains 32 K with no loss of C. Every boundary point is productively efficient; allocative efficiency depends on preferences." loading="lazy">
+  <figcaption>Points inside are inefficient, every boundary point is productively efficient, and the diagram cannot show the allocatively efficient one.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

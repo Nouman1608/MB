@@ -55,6 +55,17 @@ Its purposes include:
 - telling customers, investors, suppliers and the community what the business stands for;
 - supporting the culture and the employer brand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ### Worked example: writing and justifying a statement
 
 Hartwell Oat Mills is a family-owned business milling oats from farms within 60 miles. It sells to bakeries and cafés, is proud of local sourcing, and wants to grow slowly without losing quality.
@@ -71,6 +82,12 @@ Justification (this is what earns the marks on a "recommend and justify" questio
 4. It is flexible enough to allow new products such as oat flour, so it will not date quickly.
 
 A fuller answer would add one limitation: "finest" is not measurable, so objectives must turn it into targets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--05-hartwell-mission.webp" width="900" height="974" alt="A weak and a stronger statement with a checklist: names product, customer, values, rules decisions out. Neither is measurable." loading="lazy">
+  <figcaption>Why the stronger Hartwell statement earns marks.</figcaption>
+</figure>
+
 
 ### Advantages of having a mission statement
 
@@ -104,6 +121,17 @@ On stakeholders:
 
 A good evaluation weighs the size of the change, the quality of communication, the time period (short-run disruption against long-run benefit) and the stakeholders with most power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--06-mission-balance.webp" width="900" height="920" alt="Five advantages and five disadvantages side by side; judge against the case." loading="lazy">
+  <figcaption>Weigh both sides of having a mission statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--07-mission-change-stakeholders.webp" width="900" height="990" alt="A new mission affects employees, customers, shareholders, suppliers and the community; weigh size, communication, time and power." loading="lazy">
+  <figcaption>How a change of mission reaches each stakeholder.</figcaption>
+</figure>
+
+
 ## 1.4 Corporate social responsibility (CSR)
 
 ### What CSR means
@@ -125,6 +153,12 @@ It can also conflict with other objectives:
 
 The conflict is not inevitable. Good CSR can raise sales, help recruitment and retention, reduce risk of fines and bad publicity, and cut costs (for example lower energy use). The usual evaluation point is that the conflict is stronger in the short run and weaker in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+
 ### Worked example: the cost of a CSR decision
 
 Dunmore Ceramics sells 50,000 mug sets a year at £24. Variable cost is £15 per set and fixed costs are £310,000.
@@ -139,6 +173,12 @@ To restore £140,000 at £24, sales must reach (310,000 + 140,000) ÷ 7.80 = 57,
 
 Evaluation points that go beyond the figures: would customers pay 5% more for an ethical product? Is the kiln saving energy? Could the claim be used in marketing? How much does the profit target matter to the owners?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--03-dunmore-csr-cost.webp" width="900" height="1010" alt="Profit falls from 140,000 to 80,000 pounds when variable cost rises 1.20 pounds per set. To restore it, sell 57,693 sets (15.4 percent more) or raise the price to 25.20 pounds (5.0 percent more)." loading="lazy">
+  <figcaption>CSR costs can be recovered by volume or price, if customers respond.</figcaption>
+</figure>
+
+
 ### Impact and importance of a CSR policy, and of CSR itself
 
 A CSR policy matters because it turns good intentions into specific, checkable commitments. Impact on the business: a better reputation, possible price premium, easier recruitment, lower risk of boycotts and regulatory action, but also extra cost and the risk of being accused of "greenwashing" if claims are not true. Impact on stakeholders:
@@ -150,6 +190,12 @@ A CSR policy matters because it turns good intentions into specific, checkable c
 - Community and environment: lower pollution, jobs and donations.
 
 The same weighing applies to the importance of CSR in general. Importance varies by business. It is likely to be greater for a food brand selling on trust than for a firm supplying anonymous components, and greater where the business is visible and competes on image.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--08-csr-stakeholder-impact.webp" width="900" height="985" alt="Gains and costs of a CSR policy for employees, customers, shareholders, suppliers and the community." loading="lazy">
+  <figcaption>Who gains and who pays from CSR.</figcaption>
+</figure>
+
 
 ### Advantages and disadvantages of a CSR profile
 

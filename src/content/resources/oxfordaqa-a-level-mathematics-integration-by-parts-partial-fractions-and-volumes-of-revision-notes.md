@@ -73,6 +73,12 @@ u = x, v = (1/3) e^(3x)
 
 **Check by differentiation.** Differentiate your answer. If you get back the original integrand, the result is right. This is quick and catches sign errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
+</figure>
+
+
 ## Partial fractions: method
 
 1. Compare degrees. If the top is not lower than the bottom, divide first.
@@ -107,6 +113,12 @@ x = 2: 7 = 7A, A = 1.   x = −5: 7 = −7B, B = −1.
 x²/((x − 1)(x + 1)) = 1 + 1/((x − 1)(x + 1)) = 1 + (½)/(x − 1) − (½)/(x + 1)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
+
 ## Volumes of revolution: method
 
 1. Identify the axis of rotation. Only the x-axis and the y-axis are used.
@@ -139,6 +151,12 @@ using the result in question 11 of the self-test.
 
 **Worked reminder (y-axis, curve given as y = f(x)).** For y = ½x² from y = 2 to y = 8, write x² = 2y. Then V = π ∫ from 2 to 8 of 2y dy = π [y²] from 2 to 8 = 60π.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--06-volume-of-revolution.webp" width="900" height="736" alt="The region under y = 3/(x + 1) from x = 0 to 2 is shown with its mirror image. A thin disc of radius y and width δx has volume πy²δx, and summing gives V = π∫y² dx = 6π. Cambridge, OxfordAQA and Edexcel IAL content." loading="lazy">
+  <figcaption>Rotating a region makes thin discs of radius y whose volumes add to π∫y² dx.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **dx with x-limits, dy with y-limits.** Mixing them is the commonest volume error.
@@ -148,6 +166,12 @@ using the result in question 11 of the self-test.
 - **Logarithm as u.** When x^n multiplies ln x, the logarithm must be u, because you cannot yet integrate ln x directly. Differentiating it gives 1/x, which cancels against a power of x and leaves a simple power to integrate.
 - **Region versus solid.** The region is flat. The solid is what you get after a full turn of 360°. The formula sums thin discs, so the radius of each disc is the distance from the curve to the axis.
 - **ln|…| versus ln(…).** The modulus is needed in indefinite integrals, because the bracket may be negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--03-area-between-curves.webp" width="900" height="764" alt="The parabola y = 6x − x² and line y = 2x meet at (0, 0) and (4, 8). The region between is cut into vertical strips of height top minus bottom, 4x − x². The integral of that from 0 to 4 is 32/3." loading="lazy">
+  <figcaption>The area between two curves is the integral of the top curve minus the bottom curve.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

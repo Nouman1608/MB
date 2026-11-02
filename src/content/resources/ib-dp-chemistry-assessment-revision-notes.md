@@ -30,6 +30,12 @@ exam-day plan see the [exam preparation guide](/resources/ib-dp-chemistry-exam-p
 
 External (80%) + internal (20%), same split at SL and HL — papers differ in length/demand, not weighting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-assessment-revision-notes--06-chem-weightings.webp" width="900" height="860" alt="One bar: Paper 1 36 percent, Paper 2 44 percent, IA 20 percent; Papers 1 and 2 form the 80 percent external part. Paper 2 is 44 of the 80 external points, 55 percent." loading="lazy">
+  <figcaption>Chemistry assessment is 80% external and 20% internal at both levels.</figcaption>
+</figure>
+
+
 ## The data booklet
 
 A clean copy of the **chemistry data booklet** (constants, formulae, and data such as relative atomic masses) is provided to every candidate for **every paper**, at both SL and HL. This is deliberate: the guide states it maintains the emphasis on **interpretation over memorisation**, so revision time is better spent practising how to select and use the right piece of supplied data than memorising it. Anything printed in the data booklet -- for example the Avogadro constant and relative atomic masses to two decimal places -- does not need to be committed to memory; know instead which page it is on and how to use it correctly.
@@ -51,9 +57,21 @@ keep these separate in your revision/coursework planning.
 
 Both papers draw their questions from the same command-term glossary used across all DP sciences -- **state**, **define**, **identify** and **describe** at the lower end (recall and straightforward description), through **explain**, **compare**, **deduce** and **suggest** in the middle, up to **evaluate**, **discuss** and **justify** at the top, where a reasoned judgement or synthesis across multiple pieces of evidence is required. The guide does not assign command terms to particular papers: the same glossary applies to both. Paper 2 carries the larger share of the external mark (44 of the 80 percentage points, or 55%), so practising **evaluate** and **discuss** style answers (weighing evidence, acknowledging limitations, reaching a justified conclusion) is worth the time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-assessment-revision-notes--07-chem-command-terms.webp" width="900" height="890" alt="A rising ladder: state, define, identify, describe; then explain, compare, deduce, suggest; then evaluate, discuss, justify. The glossary is the same for both papers, and Paper 2 carries 55 percent of the external mark." loading="lazy">
+  <figcaption>Command terms climb from recall to judgement across both papers.</figcaption>
+</figure>
+
+
 ## The internal assessment in more depth
 
 The IA report is assessed against a set of criteria covering the whole investigative process, not just the final result: formulating a focused, testable research question; designing a method capable of generating enough reliable data to answer it; recording and processing that data appropriately (including uncertainty and error where relevant); and evaluating the investigation's strengths and weaknesses, including specific, actionable suggestions for improvement rather than generic ones. A common weakness examiners note is an evaluation section that lists limitations without connecting them concretely to how they affected the specific results obtained -- a strong evaluation ties each limitation back to its actual impact on the data, and proposes a specific, feasible improvement rather than a vague one like "use more accurate equipment."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-assessment-revision-notes--08-chem-ia-evaluation.webp" width="900" height="750" alt="A weak evaluation lists limitations with no link to results and a vague fix. A strong one takes a limitation, shows its effect on your data and proposes a specific, feasible fix." loading="lazy">
+  <figcaption>Link each limitation to its effect on your data, then fix it specifically.</figcaption>
+</figure>
+
 
 ## How Chemistry's assessment compares to its sibling sciences
 

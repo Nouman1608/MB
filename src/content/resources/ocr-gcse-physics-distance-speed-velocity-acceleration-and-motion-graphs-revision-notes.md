@@ -41,6 +41,12 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 - Repeat and take a mean. Start and stop timing on the same signal.
 - Ramp investigation (PAG P3): vary the angle, measure the speed, control the trolley, release point and distance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--11-measure-distance-time-equipment.webp" width="900" height="1040" alt="A trolley on a ramp with two light gates and a metre rule for short fast motion; a tape or trundle wheel with a stopwatch over a long distance; and bars showing that a 0.2 s reaction error is 20% of a 1.0 s timing but 1% of a 20 s timing." loading="lazy">
+  <figcaption>Pick equipment that suits the distance and time; reaction time matters most for short times.</figcaption>
+</figure>
+
+
 ## Units and rates (P2.1c)
 
 | Convert | Do this |
@@ -61,6 +67,12 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 
 **Rates by proportion.** 540 m in 3 min 20 s: time 200 s, rate 540 ÷ 200 = 2.7 m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--12-convert-kmh-to-ms.webp" width="900" height="1060" alt="126 km/h becomes 35 m/s by dividing by 3.6. 5.4 km in 18 min is 5400 m in 1080 s, 5.0 m/s. Divide km/h by 3.6 for m/s and multiply m/s by 3.6 for km/h; 30 mph is about 13.4 m/s." loading="lazy">
+  <figcaption>Divide km/h by 3.6 to get m/s.</figcaption>
+</figure>
+
+
 ## Scalar and vector (P2.1d)
 
 | Scalar | Vector |
@@ -72,6 +84,12 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 - Displacement is the straight-line change in position from start to finish.
 - Reversing direction makes velocity change sign.
 - Constant speed round a circle means changing velocity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--15-circular-constant-speed.webp" width="900" height="990" alt="Four equal-length velocity arrows touch a circle along the tangent: north at the east point, west at the top, south at the west point, east at the bottom. Speed is the same everywhere but the direction keeps changing." loading="lazy">
+  <figcaption>Same speed, changing direction means changing velocity.</figcaption>
+</figure>
+
 
 ## Graph rules (P2.1e, P2.1f)
 
@@ -88,11 +106,33 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 
 **Worked reminder.** Velocity rises from 0 to 12 m/s in 4 s, then stays at 12 m/s for 6 s. Distance = ½ × 4 × 12 + 6 × 12 = 24 + 72 = 96 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--11-vt-negative-velocity.webp" width="900" height="990" alt="Velocity-time graph with east positive: +3 m/s for 20 s gives 60 m east, then −2.5 m/s for 10 s gives 25 m west, then rest to 50 s. Distance is 85 m, displacement 35 m east, average speed 1.7 m/s, average velocity 0.70 m/s east." loading="lazy">
+  <figcaption>Area below the axis is motion the opposite way: it reduces displacement but adds to distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+
 ## Average speed for non-uniform motion (P2.1g)
 
 - Use total distance ÷ total time for the whole journey.
 - Include stops in the time.
 - Never average the separate speeds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--12-average-speed-not-mean.webp" width="900" height="970" alt="Speed-time graph of a runner: 400 m in 80 s at 5.0 m/s then 600 m in 150 s at 4.0 m/s. The correct average, 1000 m over 230 s, is 4.3 m/s. The mean of the two speeds, 4.5 m/s, is wrong because more time was spent at the slower speed." loading="lazy">
+  <figcaption>Average speed is total distance over total time, not the mean of the speeds.</figcaption>
+</figure>
+
 
 ## Uniform acceleration (P2.1h)
 
@@ -107,6 +147,27 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 - Start at rest, a = 3.2 m/s², s = 40 m: v² = 2 × 3.2 × 40 = 256, so v = 16 m/s.
 - Brakes to rest with a = −5.0 m/s² over 22.5 m: u² = 2 × 5.0 × 22.5 = 225, so u = 15 m/s.
 - Velocity 6 m/s to 14 m/s in 5 s: a = 8 ÷ 5 = 1.6 m/s², and distance = ½ × (6 + 14) × 5 = 50 m (area of a trapezium).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--10-car-vt-worked.webp" width="900" height="970" alt="Velocity-time graph of a car: 0 to 20 m/s in 8 s (a = 2.5 m/s², area 80 m), 20 m/s for 12 s (a = 0, area 240 m), then to rest in 10 s (a = −2.0 m/s², area 100 m). Total 420 m. A dashed 14 m/s line over 30 s encloses the same area." loading="lazy">
+  <figcaption>Gradients give acceleration and areas give distance; the average speed rectangle has the same area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--13-braking-v-squared.webp" width="900" height="980" alt="Velocity-time graph of a car braking from 18 m/s to rest in 3 s. The gradient is −6.0 m/s² and the triangle area is 27 m, the braking distance. v² − u² = 2as checks: 0 − 324 = 2 × (−6.0) × 27 = −324." loading="lazy">
+  <figcaption>The area under the braking line is the stopping distance, which is how v² − u² = 2as links speeds, acceleration and distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--13-vt-acceleration-worked.webp" width="900" height="930" alt="A velocity-time line from 8 m/s at 0 s to 26 m/s at 6 s with a dashed triangle showing the change of 18 m/s over 6 s. Acceleration is 18 divided by 6 = 3.0 m/s squared, the gradient." loading="lazy">
+  <figcaption>Acceleration is the change in velocity divided by time, which is the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--14-train-v-squared-worked.webp" width="900" height="960" alt="A train at 4 m/s accelerates at 0.5 m/s squared over 150 m. A bar shows v squared as 16 plus 150 = 166, and v = square root of 166 = 12.9 m/s." loading="lazy">
+  <figcaption>Square first, add, and take the square root last.</figcaption>
+</figure>
+
 
 ## Describing a journey from a graph
 
@@ -176,6 +237,12 @@ Rearranging: t = s ÷ v, v = s ÷ t, v = u + at, and a = (v² − u²) ÷ 2s. Pr
 8. Total distance 500 m, total time 100 s, so **5.0 m/s**.
 9. (14 − 6) ÷ 5 = **1.6 m/s²**.
 10. **Moving back towards the start** at constant speed, which is negative velocity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

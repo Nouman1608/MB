@@ -46,6 +46,12 @@ This page condenses sections 3.3 (Workers) and 3.4 (Trade unions) of the Cambrid
 - Non-wage factors: security, hours, conditions, promotion, training, holidays, pension, interest in the work, location and travel cost, own qualifications.
 - Method: add up the whole package. Job A at 2,600 against job B at 2,400 plus 300 allowance: B is worth 2,700.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--08-job-a-vs-job-b-package.webp" width="900" height="1040" alt="Job A pays 2,600 with a long journey. Job B pays 2,400 plus a 300 allowance, a package of 2,700, with a shorter journey." loading="lazy">
+  <figcaption>Compare the whole package: Job B is worth 2,700 against 2,600.</figcaption>
+</figure>
+
+
 ## 3.3.2 Wage determination
 
 Labour-market diagram: wage on the vertical axis, number of workers on the horizontal axis, demand sloping down, supply sloping up.
@@ -69,6 +75,27 @@ Minimum wage method:
 
 Relative bargaining power rises with union membership, scarce skills, employer profits and the ability to disrupt output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--01-bakers-wage-shifts.webp" width="900" height="1190" alt="Two labour market diagrams for bakers. Demand rises by 150 at every wage: wage 12 to 13 (+8.3%) and bakers hired 900 to 1,000 (+11.1%). Supply falls by 150 at every wage: wage 12 to 13 and bakers hired 900 to 850." loading="lazy">
+  <figcaption>A shift of demand or supply moves the wage and employment from the 12 and 900 equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--02-bakers-minimum-wage.webp" width="900" height="930" alt="A minimum wage of 10 is below the market wage of 12 and has no effect. A minimum wage of 14 leaves firms demanding 800 bakers while 1,100 want work: 300 unemployed. The wage bill rises from 10,800 to 11,200 (+3.7%) but 100 jobs are lost." loading="lazy">
+  <figcaption>A wage floor above equilibrium raises pay for those employed but creates a surplus of workers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ## 3.3.3 Differences in earnings
 
 | Comparison | Main reasons for the gap |
@@ -80,6 +107,12 @@ Relative bargaining power rises with union membership, scarce skills, employer p
 
 Percentage gap method: gap = (higher - lower) / higher x 100. Men 40, women 34: (40 - 34)/40 = 15%. Say clearly which pay you take as the base. Public pay 2,800 against private 3,150: public is 11.1% lower; private is 12.5% higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--09-pay-gap-which-base.webp" width="900" height="840" alt="Women earn 34 against men's 40, so 85% of men's pay with a 15% gap. Public pay 2,800 is 11.1% below private 3,150, while private is 12.5% above public." loading="lazy">
+  <figcaption>The same gap gives different percentages depending on the base.</figcaption>
+</figure>
+
+
 ## 3.3.4 Division of labour
 
 Worked reminder: six workers alone make 5 lamps a day each (30 in total). Divided into tasks they make 72. Output per worker 12, up 140%. Wage 90 a day: labour cost per lamp 18 falls to 7.5, down 58.3%.
@@ -90,6 +123,17 @@ Worked reminder: six workers alone make 5 lamps a day each (30 in total). Divide
 | Firms | More output, lower unit costs, easier training | Production halts if a group is missing, lower morale |
 | Economy | Higher output, lower prices, trade gains | Structural unemployment, dependence on few products |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--03-lamp-workshop.webp" width="900" height="1290" alt="Two grids of lamp icons, one row per worker. Alone, each of six workers makes 5 lamps, total 30. With the work split into tasks each makes 12, total 72. Output per worker rises 140% and labour cost per lamp falls from 18 to 7.5." loading="lazy">
+  <figcaption>Splitting the work raised output per worker from 5 to 12 lamps and cut labour cost per lamp by 58.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ## 3.4 Trade unions
 
 ### Role
@@ -98,6 +142,12 @@ Worked reminder: six workers alone make 5 lamps a day each (30 in total). Divide
 - Protecting employment: resisting redundancy, supporting members, pushing for safety.
 - Influencing government: lobbying on minimum wage, employment law and tax.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--04-union-pay-deal.webp" width="900" height="1030" alt="A number line of weekly pay: now 400, firm offers 412 (+3%), settled 420 (+5%), union asks 432 (+8%). The weekly bill rises 32,000 to 33,600 and the yearly bill by 83,200. With 4% inflation the real rise is about 0.96%." loading="lazy">
+  <figcaption>A bargaining deal between the offer and the claim raises the wage bill, but inflation can erode most of the gain.</figcaption>
+</figure>
+
+
 ### Advantages and disadvantages
 
 | Viewpoint | Advantage | Disadvantage |
@@ -105,6 +155,17 @@ Worked reminder: six workers alone make 5 lamps a day each (30 in total). Divide
 | Workers | Higher pay, conditions, security, a voice | Fees, lost wages in strikes, jobs lost if wages too high |
 | Firms | One negotiating partner, better communication | Higher costs, disruption, slower change |
 | Government | Fewer disputes, view of workers' needs | Pressure for costly policy, essential-service strikes, price pressure |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--10-strike-cost-grid.webp" width="900" height="780" alt="200 workers lose 80 a day, 16,000 a day, so 96,000 over 6 days." loading="lazy">
+  <figcaption>A six-day strike costs 200 workers 96,000 in wages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-workers-wages-and-trade-unions--11-union-strength-scales.webp" width="900" height="1050" alt="360 of 600 workers are members (60%). Four scales run from weaker to stronger: skills, the firm's finances, unemployment and the law." loading="lazy">
+  <figcaption>Membership, skills, profits, unemployment and law decide union strength.</figcaption>
+</figure>
+
 
 ### Strength of a union
 

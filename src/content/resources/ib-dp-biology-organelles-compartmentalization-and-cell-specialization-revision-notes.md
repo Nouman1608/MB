@@ -65,6 +65,17 @@ Examples: **lysosomes** hold hydrolytic enzymes that would damage the cytoplasm.
 | Chloroplast | Stroma | Calvin cycle enzymes and substrates concentrated |
 | Nuclear envelope | Double membrane with pores | Controls transport of mRNA and proteins, and can break into vesicles in mitosis and meiosis |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--03-mitochondrion-hl.webp" width="900" height="830" alt="A mitochondrion cross-section shows the double membrane with a narrow intermembrane space, an inner membrane folded into cristae carrying electron transport chains and ATP synthase, and the matrix holding Krebs cycle enzymes. The small intermembrane volume lets a proton gradient build quickly." loading="lazy">
+  <figcaption>Narrow intermembrane space, folded cristae and a matrix compartment each suit aerobic respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--04-chloroplast-hl.webp" width="900" height="1040" alt="A chloroplast has a double membrane, stacks of thylakoids (grana) in the stroma, and the stroma holds Calvin cycle enzymes. Thylakoid membranes have a large area for photosystems. A magnified thylakoid shows protons pumped into its small interior, building a gradient quickly, then flowing out through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Thylakoid area, thylakoid volume and the stroma compartment each suit photosynthesis.</figcaption>
+</figure>
+
+
 ### HL only: the protein route
 
 1. Ribosomes make a protein, free or on the rough ER.
@@ -74,6 +85,22 @@ Examples: **lysosomes** hold hydrolytic enzymes that would damage the cytoplasm.
 5. A vesicle carries the protein to the plasma membrane, where exocytosis releases it.
 
 Free ribosomes make proteins kept in the cell. Ribosomes on rough ER make proteins for secretion, for lysosomes or for the membrane. Clathrin assembles into a cage that helps shape a coated vesicle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--01-cell-fractionation.webp" width="900" height="1040" alt="Four test tubes show a homogenate of broken cells, then pellets forming at increasing centrifuge speeds. Nuclei pellet first at low speed, then mitochondria and chloroplasts, then small fragments at the highest speed. Denser parts pellet at lower speeds." loading="lazy">
+  <figcaption>Spin the homogenate faster and faster: the densest organelles pellet first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--05-protein-secretion-route-hl.webp" width="900" height="1170" alt="mRNA leaves the nucleus through a pore in the double-membrane envelope. Ribosomes on the rough ER, continuous with the outer nuclear membrane, make the protein, which folds in the lumen. A transport vesicle takes it to the receiving face of the Golgi apparatus; a clathrin-coated vesicle buds from the opposite face and releases it by exocytosis." loading="lazy">
+  <figcaption>A secreted protein travels nucleus, rough ER, Golgi, vesicle, then out by exocytosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--06-pulse-chase-hl.webp" width="900" height="940" alt="Line graph of radioactivity (% of total) at 5, 25 and 60 minutes. The rough ER falls 80, 30, 5; the Golgi is 10, 45, 15; vesicles near the surface 5, 20, 40; outside the cell 5, 5, 40. The peak moves rER to Golgi to vesicles and outside, fitting secretion." loading="lazy">
+  <figcaption>The radioactive peak moves along the secretion route over time.</figcaption>
+</figure>
+
 
 ## B2.3 Cell specialization: recall points
 
@@ -117,6 +144,17 @@ Exchange across the surface depends on area. The need depends on volume. As a ce
 
 **Reminder.** A cube of side 3 µm has area 54 µm², volume 27 µm³ and ratio 2 µm⁻¹. A cube of side 6 µm has area 216 µm², volume 216 µm³ and ratio 1 µm⁻¹. Doubling the side halves the ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--08-surface-area-volume-cubes.webp" width="900" height="1100" alt="Three cubes drawn to scale with their computed surface area, volume and ratio: 150, 125 and 1.2 per micrometre for 5 micrometres; 2400, 8000 and 0.3 for 20; 38 400, 512 000 and 0.075 for 80. Bars show the ratio, which is 16 times smaller at 80 micrometres than at 5." loading="lazy">
+  <figcaption>As a cube grows, surface area:volume ratio falls (ratio = 6/s).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--09-raising-sa-v-hl.webp" width="900" height="1135" alt="Top: a biconcave erythrocyte (area 135, volume 90, ratio 1.5 per micrometre) beside a sphere of the same volume (radius 2.78 micrometres, area 97, ratio 1.08), so about 39% more surface. Bottom: 400 microvilli on a 100 square micrometre patch add 125.7 square micrometres, giving 225.7, about 2.3 times the original." loading="lazy">
+  <figcaption>Flattening and microvilli raise surface area without raising volume.</figcaption>
+</figure>
+
+
 ### HL only: specialized cells
 
 **Method for explaining a specialized cell.** Name the feature, state what it changes, then link that to the cell's job. For example: microvilli (feature) increase surface area (change), so more solute is reabsorbed from the filtrate per unit of cell volume (job).
@@ -144,6 +182,12 @@ The alveolar epithelium shows that one tissue can contain more than one cell typ
 - Free versus rough ER ribosomes: where the protein ends up.
 - Surface area versus SA:V ratio: area gets bigger as cells grow, but the ratio gets smaller.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--07-stem-cell-potency.webp" width="900" height="1130" alt="Three rows compare how many cell types a stem cell can become. Totipotent cells can become any cell type plus extra-embryonic tissue; pluripotent cells most body cell types but not a whole organism; multipotent adult cells, such as in bone marrow, only a limited range of related types. Stem cells self-renew and differentiate." loading="lazy">
+  <figcaption>Potency narrows from totipotent to pluripotent to multipotent.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. Name two structures that are not organelles.
@@ -169,6 +213,12 @@ The alveolar epithelium shows that one tissue can contain more than one cell typ
 8. Bone marrow or hair follicle.
 9. Pluripotent cells can give most cell types of the body. Multipotent cells give only a limited range of related types.
 10. They release surfactant into the alveolar lumen, which reduces surface tension.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--02-lysosome-digestion.webp" width="900" height="940" alt="A cell engulfs a bacterium into a phagocytic vacuole. A lysosome with acidic hydrolytic enzymes fuses with the vacuole and digests the bacterium inside a membrane, so the cytoplasm (higher pH) is protected. Products pass into the cytoplasm." loading="lazy">
+  <figcaption>A lysosome fuses with a phagocytic vacuole so digestion stays inside a membrane.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

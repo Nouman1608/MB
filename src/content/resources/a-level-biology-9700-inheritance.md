@@ -113,9 +113,21 @@ Crossing over adds far more variation.
 | Genotype / phenotype | The alleles present / the observable features |
 | Homozygous / heterozygous | Two identical alleles / two different alleles |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+
 ### Setting out a genetic diagram
 
 Give parental phenotypes and genotypes, gametes, a Punnett square, offspring genotypes linked to phenotypes, and the ratio. Define your symbols; use superscripts for codominant, multiple and sex-linked alleles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
 
 ### Codominance and multiple alleles
 
@@ -131,6 +143,12 @@ gametes:        Iᴬ, Iᴼ         Iᴮ, Iᴼ
 ratio: 1 AB : 1 A : 1 B : 1 O
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+
 ### Sex linkage
 
 Genes on the non-homologous part of the X chromosome are sex-linked. Males (XY) have one copy, so a single recessive allele shows. Haemophilia A is an example.
@@ -144,15 +162,33 @@ offspring:  XᴴXᴴ unaffected female, XᴴXʰ carrier female,
 
 Half the sons are expected to have haemophilia; no daughters are affected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
+
 ### Dihybrid crosses
 
 Genes on different chromosomes assort independently. AaBb × AaBb gives four gamete types from each parent (AB, Ab, aB, ab) and a **9 : 3 : 3 : 1** phenotype ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
 
 ### Autosomal linkage
 
 Alleles of genes on the same autosome tend to be inherited together. A test cross of AaBb (AB on one chromosome, ab on the other) × aabb gives 1 : 1 : 1 : 1 if unlinked; with linkage the **parental combinations are much more common**.
 
 **Worked example.** A test cross gives 412 AaBb, 398 aabb, 93 Aabb and 97 aaBb offspring (total 1000). The two large classes are the parental combinations. The recombinants (Aabb and aaBb) make up 190 out of 1000, or 19%, well below the 50% expected without linkage. They are produced when crossing over occurs between the two loci in prophase I.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
 
 ### Epistasis
 
@@ -163,6 +199,12 @@ Alleles of genes on the same autosome tend to be inherited together. A test cros
 - aa: no yellow pigment, so white whatever the B genotype (gene A is epistatic to gene B). A_bb: yellow. A_B_: red.
 
 AaBb × AaBb: of the 16 boxes in the Punnett square, 9 are A_B_ (red), 3 are A_bb (yellow) and 4 are aa (white). Ratio **9 red : 3 yellow : 4 white**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
 
 ### The chi-squared test
 
@@ -185,6 +227,12 @@ degrees of freedom = 4 − 1 = 3; critical value at p = 0.05 = 7.82
 ```
 
 Not significant (p > 0.05): the results fit 9 : 3 : 3 : 1, so the genes are probably unlinked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ### Genes, proteins and phenotype
 
@@ -243,6 +291,12 @@ A separate regulatory gene, **lacI**, with its own promoter, codes for the **rep
 ## Next steps
 
 Condense this with the [inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/), then try the [inheritance practice questions](/resources/a-level-biology-inheritance-practice/). Carry the ideas of alleles, variation and chi-squared into [Selection and evolution](/resources/a-level-biology-9700-selection-and-evolution/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -81,6 +81,22 @@ Bubble: index 100 -> 140 -> 91. Fall from peak = (91-140)/140 = -35.0%
 
 PPC points to remember: a point on the curve is full use of resources; inside is unemployment or waste; outside is unattainable until capacity grows. Moving along the curve is opportunity cost, not growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--05-trend-rate-compound.webp" width="900" height="900" alt="Real GDP rises from 640 to 780 over 8 years along a compound path; trend rate (780/640)^(1/8) - 1 = 2.5% a year." loading="lazy">
+  <figcaption>The trend rate is the compound annual growth rate, here 2.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## Diagrams in words
 
 - **PPC for long-run growth:** capital goods on the vertical axis, consumer goods on the horizontal. Draw the original curve, then a second curve further from the origin. Label both axes and both curves.
@@ -89,6 +105,12 @@ PPC points to remember: a point on the curve is full use of resources; inside is
 - **AD/AS, long-run growth:** LRAS (and usually SRAS) shifts right. Potential output rises and the price level is lower than it would have been.
 - **Shock:** state which curve moves, the direction, and what happens to the price level and real GDP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--02-output-gap-ad-as.webp" width="900" height="926" alt="AD/AS diagram with vertical LRAS at potential output. A higher AD curve meets SRAS to the right of LRAS (positive gap); a lower AD curve meets it to the left (negative gap). The side boxes give the lesson description of each." loading="lazy">
+  <figcaption>A positive gap sits right of LRAS and a negative gap sits left of it.</figcaption>
+</figure>
+
+
 ## Determinants
 
 **Demand side (short run):** consumption (confidence, wealth, interest rates, taxes, credit), investment (expected profit, interest rates, finance), government spending, and net exports (world growth, exchange rate).
@@ -96,6 +118,17 @@ PPC points to remember: a point on the curve is full use of resources; inside is
 **Supply side (long run):** labour quantity and quality, capital stock, technology, productivity, enterprise, natural resources, infrastructure, competition, and a banking system that channels savings to business investment funds.
 
 **Link:** investment raises AD now and capacity later. Education and training raise labour quality but pay off slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--03-contributions-to-growth.webp" width="900" height="800" alt="Waterfall for Country B (real GDP 500): C +8 adds 1.6 percentage points, I +6 adds 1.2, G +2 adds 0.4, net exports -1 subtract 0.2, giving 15 divided by 500 equals 3.0 percent." loading="lazy">
+  <figcaption>Each component change divided by real GDP gives its contribution to growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
 
 ## Costs and benefits of growth
 
@@ -113,6 +146,17 @@ PPC points to remember: a point on the curve is full use of resources; inside is
 - Is it sustainable: does it use renewable inputs, and are emissions falling per unit of output and in total?
 - Time: costs may fall on later generations; benefits may arrive sooner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--05-sustainable-growth.webp" width="900" height="870" alt="Real GDP rises from 100 to 130 while emissions rise from 100 to 117. Emissions per unit of output fall 10 percent (117 / 130 = 0.90) but total emissions are still 17 percent higher." loading="lazy">
+  <figcaption>Cleaner per unit of output is not the same as sustainable growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--06-per-head-growth.webp" width="900" height="810" alt="Bars: real GDP 3.0%, population 1.2%, real GDP per head about 1.8% (1.03/1.012 - 1)." loading="lazy">
+  <figcaption>Growth per head is lower than total growth when population is rising.</figcaption>
+</figure>
+
+
 ## The cycle and its indicators
 
 | Phase | Real GDP | Output gap | Inflation | Unemployment | Investment |
@@ -123,6 +167,12 @@ PPC points to remember: a point on the curve is full use of resources; inside is
 | Recovery | Growth returns | Still negative until output passes potential | Low | Still high, falls later | Rising |
 
 Use at least two indicators and say which lag. Unemployment often lags the turning point. A common convention defines recession as two consecutive quarters of falling real GDP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--01-cycle-output-gap.webp" width="900" height="1040" alt="Country C (invented) actual versus potential output over six years with the output gap and phase for each year. Gaps are +1.5, +3.0, +2.7, -2.5 and -2.6 percent. Years 2 to 4 sit above potential and years 5 and 6 below it." loading="lazy">
+  <figcaption>Output above potential is a positive gap; below potential is a negative gap, and the phase names follow the lesson.</figcaption>
+</figure>
+
 
 ## Causes of phase changes
 
@@ -146,6 +196,22 @@ Evaluate by size, duration, and how open or flexible the economy is.
 | Herding | Copying others amplifies swings |
 
 Boom-bust chain: easy credit, rising asset prices, higher collateral values, more lending, more spending, then a trigger, falling prices, negative equity, cuts in lending and spending, recession.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--04-bubble-and-debt.webp" width="900" height="1060" alt="House prices rise 80 percent from 100 to 180, then fall 38.9 percent to 110. A buyer at the peak with a 90 percent loan owes 162 on a house worth 110, negative equity of 52, and households cut spending so AD shifts left." loading="lazy">
+  <figcaption>When an asset bubble bursts, negative equity pushes households to cut spending and AD falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--07-interest-burden.webp" width="900" height="850" alt="Bars of interest as a percentage of income: 1.8% (debt 90%, rate 2%), 2.6% (debt 130%, rate 2%), 6.5% (debt 130%, rate 5%), 2.5 times the 2.6%." loading="lazy">
+  <figcaption>Raising the rate from 2% to 5% on larger debt more than doubles the interest burden.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-economic-growth-and-the-economic-cycle--08-speculation-loops.webp" width="900" height="930" alt="Boom loop: prices rise, optimism and copying, more buying, prices rise again. After the bubble bursts, the bust loop: prices fall, fear and copying, panic selling, prices fall again." loading="lazy">
+  <figcaption>Destabilising speculation and herding make prices feed on themselves in both directions.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

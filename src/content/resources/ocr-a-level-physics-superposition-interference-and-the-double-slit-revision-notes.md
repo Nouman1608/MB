@@ -33,6 +33,17 @@ These notes condense section 4.4.3 (Superposition) of the OCR Advanced GCE in Ph
 | Constructive interference | Waves meet in phase; resultant amplitude is larger |
 | Destructive interference | Waves meet in antiphase; resultant amplitude is smaller (zero for equal amplitudes) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
+
 ## Equations
 
 | Equation | Meaning | Notes |
@@ -93,6 +104,12 @@ Good practice: one common source for coherence, measure across several spacings 
 
 **Validity of λ = ax/D.** It comes from sin θ ≈ tan θ ≈ θ. It works for light because a is tiny compared with D. For microwaves with a = 12.0 cm and D = 1.50 m the formula is about 3% out, so state a ≪ D when you use it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--07-aphy-waves-double-slit.webp" width="900" height="1120" alt="A laser lights two slits a distance s apart, giving equally spaced fringes of spacing w = lambda D / s on a screen distance D away (not to scale). For 633 nm, 0.50 mm and 1.80 m, w = 2.28 mm. With white light the central fringe is white and violet fringes lie nearer the centre than red ones." loading="lazy">
+  <figcaption>Fringe spacing w = lambda D / s; white light gives a white centre and coloured fringes.</figcaption>
+</figure>
+
+
 ## Model explanations to learn
 
 **Why is there a bright fringe at P?** The slits are coherent because they are lit by the same wavefront. Light from the two slits reaches P with a path difference of a whole number of wavelengths. The waves arrive in phase, so they superpose constructively and the resultant amplitude is a maximum.
@@ -103,6 +120,12 @@ Good practice: one common source for coherence, measure across several spacings 
 
 **Worked reminder with microwaves.** Microwaves of wavelength 2.0 cm pass through gaps 8.0 cm apart, and the detector is 2.00 m away. x = λD/a = (0.020 × 2.00) / 0.080 = 0.50 m. Here sin θ = 0.25, so a/D is small enough for the formula to be a fair approximation, but the exact result differs by a few percent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+
 ## Diffraction grating (A level only)
 
 - d = 1/N. For 200 lines per mm, N = 2.00 × 10⁵ m⁻¹ and d = 5.0 × 10⁻⁶ m.
@@ -112,6 +135,12 @@ Good practice: one common source for coherence, measure across several spacings 
 - To measure θ in practice, use tan θ = y/L from a screen at distance L, then find sin θ.
 - Maxima are sharp, so the angle is measured more precisely than a double-slit fringe position.
 - White light gives spectra, violet nearest the centre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

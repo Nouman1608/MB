@@ -61,6 +61,17 @@ Halvesham Outdoor sells walking equipment. Its market was worth £48.0m in 2024 
 
 Sales revenue rose, yet the firm lost share, because the market grew faster than the firm. That is a market force at work: rivals took the extra demand. A good answer asks why, and what Halvesham should do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--04-share-falls.webp" width="900" height="970" alt="Two bars compare Halvesham Outdoor with its market. 2024: £6.60m of £48.0m is 13.75 per cent. 2025: £7.04m of £52.8m is 13.33 per cent. The market grew 10.0 per cent and the firm 6.67 per cent, so share fell; it needed £7.26m to hold share." loading="lazy">
+  <figcaption>Sales can rise while market share falls if the market grows faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--12-market-forces.webp" width="900" height="1040" alt="Two illustrative supply and demand panels. A demand rise from D1 to D2 lifts price from 50 to 60 pounds and output from 40 to 50. A supply rise from S1 to S2 lowers price from 50 to 45 and raises output from 40 to 45." loading="lazy">
+  <figcaption>Rising demand pulls in suppliers; rising supply squeezes price.</figcaption>
+</figure>
+
+
 ## Physical and non-physical markets
 
 A **physical market** is one where buyers and sellers meet in a place: a high-street shop, a market stall, a showroom, a restaurant. A **non-physical market** has no shared place. Buyers and sellers deal by website, app, phone or other digital means. **Online** means trading through the internet, such as a website or an online marketplace. **Digital** is wider: it also covers digital products, such as downloads, streaming and software, and trading by app.
@@ -94,6 +105,22 @@ Keswold Cycles is considering a shop or a website for its flagship bike, priced 
 
 At modest volumes the website wins on cost. But the sum ignores demand: a website needs customers to find it, and a shop might sell more bikes to people who want a test ride. The figures are a starting point for judgement, not the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--05-shop-or-website.webp" width="900" height="1010" alt="Monthly profit lines for Keswold Cycles. The shop (fixed costs £7,800, contribution £90) breaks even at 87 bikes; the website (fixed costs £3,100, contribution £72) at 44. At 120 bikes the shop earns £3,000 and the website £5,540. The lines cross at about 261 bikes." loading="lazy">
+  <figcaption>The website wins at modest volumes; the shop earns more only above about 261 bikes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+
 ## Competition
 
 **Competition** is rivalry between businesses selling similar products to the same customers. It can be on price, quality, service, range, brand or convenience.
@@ -107,6 +134,17 @@ At modest volumes the website wins on cost. But the sum ignores demand: a websit
 **Barriers to entry** make it hard for new firms to join a market: high start-up costs, economies of scale enjoyed by existing firms, strong brands and customer loyalty, control of supply or distribution, patents and licences, and the threat of a price war from existing firms. **Barriers to exit** make it costly to leave: redundancy costs, long leases or contracts, specialised assets that are hard to sell, and the damage to reputation. When exit is costly, firms may stay in a loss-making market and keep competition intense.
 
 **Impact of competition.** On the *business*: lower prices, higher costs, pressure to innovate. On *stakeholders*: customers gain choice and lower prices; employees may face lower pay or job loss in losing firms; suppliers may be squeezed; shareholders see profit shift. On the *market*: more innovation and efficiency, but also possible failures and fewer firms over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--09-entry-exit-barriers.webp" width="900" height="1000" alt="Barriers to entry (start-up costs, economies of scale, strong brands, control of supply, patents and licences, price-war threat) stand between a new firm and the market. Barriers to exit (redundancy costs, leases and contracts, specialised assets, reputation damage) make leaving costly, keeping loss-makers in and competition intense." loading="lazy">
+  <figcaption>Bricks of entry and exit barriers around a market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
 
 ## Market dominance
 
@@ -135,6 +173,22 @@ The merger gives immediate scale, but the firm faces integration costs and possi
 **How dominance is restricted and regulated in the UK.** In general terms, the government and independent regulators set the competition rules. The specification does not name bodies or Acts, so you need not. As general knowledge outside the specification, the main UK competition authority is the Competition and Markets Authority (CMA). Regulators can investigate mergers and block them or allow them with conditions; investigate and penalise anti-competitive behaviour such as price-fixing or abusing a strong position; and sector regulators oversee industries such as energy, water and communications. Keep your description general.
 
 **Impact and importance of regulation.** For a *dominant firm*: limits on growth by merger, compliance costs and fines. For *smaller rivals*: protection and fairer access. For *customers*: protection from unfair prices, but possibly higher prices if useful mergers are blocked. Regulation can also slow decisions and add cost, so judge its importance by the harm it prevents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--10-merger-share.webp" width="900" height="920" alt="Before merging: Danemoor 28, Linthorpe 19, next rival 15, others 38 per cent. After: 47 per cent, 3.1 times the rival. Organic growth to 47 per cent needs revenue to rise from 84 to 141 million pounds, plus 57 million or 67.9 per cent." loading="lazy">
+  <figcaption>A merger gives share immediately; the organic route needs a 67.9 per cent revenue rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--11-uk-regulators.webp" width="900" height="730" alt="A competition regulator can investigate mergers and block them or allow them with conditions, penalise anti-competitive behaviour such as price-fixing and abuse of a strong position, and sector regulators oversee energy, water and communications." loading="lazy">
+  <figcaption>Three general powers of competition regulators.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
 
 ## Common errors
 

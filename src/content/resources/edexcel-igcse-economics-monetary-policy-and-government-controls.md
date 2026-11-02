@@ -52,6 +52,17 @@ The central bank sets the **policy rate** (often called the base rate). Banks an
 
 Many central banks are independent of the government. An advantage is that decisions are less likely to be driven by the wish to win an election, for example by cutting rates before voting day. A disadvantage is that appointed officials make decisions that affect everyone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## How a change in interest rates works through the economy
 
 This chain is called the **transmission mechanism**: the route from the policy rate to spending, jobs and prices.
@@ -79,6 +90,12 @@ A saver is affected the other way. With 20,000 saved, a rise from 2% to 4% lifts
 
 Households differ. A fixed-rate borrower feels the rise later, and a family with no debt may feel better off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+
 ### Effect on businesses
 
 Higher rates raise the cost of borrowing, so fewer investment projects look worthwhile. A firm compares the profit a project earns with the interest it must pay.
@@ -93,6 +110,12 @@ Higher rates raise the cost of borrowing, so fewer investment projects look wort
 
 At 8% the oven loses money, so the bakery would probably not buy it. Across many firms, fewer machines and buildings are bought, so **investment** falls. Firms with existing variable-rate debt also have higher costs, which cuts profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--10-oven-and-interest-rate.webp" width="900" height="976" alt="At 3%, 5% and 8% on an 80,000 loan, interest is 2,400, 4,000 and 6,400 against a 5,600 gain: profit +3,200, +1,600 and -800." loading="lazy">
+  <figcaption>At 8% the oven loses money, so the bakery would not buy.</figcaption>
+</figure>
+
+
 ### Effect on exchange rates
 
 A higher interest rate can attract foreign savers. They must buy Country A's currency to deposit money there, so its value tends to rise. A lower rate tends to have the opposite effect.
@@ -105,6 +128,17 @@ Import priced 72 B-units: 72 / 2.00 = 36 A-units before; 72 / 1.80 = 40 A-units 
 ```
 
 Exports become cheaper abroad and imports dearer at home. This links monetary policy to the current account.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--11-rate-cut-exchange-rate.webp" width="900" height="950" alt="A rate cut lowers demand for the currency: 2.00 to 1.80. An export priced 50 falls from 100 to 90 B-units (-10%); an import of 72 B-units rises from 36 to 40 A-units (+11.1%)." loading="lazy">
+  <figcaption>A rate cut makes exports cheaper abroad and imports dearer at home.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--08-rate-rise-chain.webp" width="900" height="925" alt="Flow diagram from a rate rise through households, firms and the currency to a fall in AD from 1,000 to 945, then to inflation, growth, unemployment and the current account. Inflation and growth slow, unemployment rises later and the current account tends to worsen. A rate cut works in reverse." loading="lazy">
+  <figcaption>A rate rise cuts C, I and net exports, which lowers AD and the macroeconomic objectives move accordingly.</figcaption>
+</figure>
+
 
 ## Impact on the macroeconomic objectives
 
@@ -145,6 +179,17 @@ How each objective is affected by a rate **rise** (a rate cut works in reverse):
 
 The real interest rate is roughly the nominal rate minus inflation. With a nominal rate of 6% and inflation of 4%, the real rate is about 2%. If inflation jumps to 7%, it is about −1%, so saving loses buying power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--09-ad-before-after.webp" width="900" height="850" alt="Bars show consumption -30, investment -15, exports -5 and higher imports -5 with government spending unchanged, so AD falls 55. AD falls from 1,000 to 945, which is 5.5%." loading="lazy">
+  <figcaption>A rate rise cuts AD by 55, or 5.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--10-real-interest-rate.webp" width="900" height="690" alt="Bars compare a 6% nominal rate with 4% inflation (real about +2%) and 7% inflation (real about -1%). At 7% inflation saving loses buying power." loading="lazy">
+  <figcaption>The real rate is roughly the nominal rate minus inflation.</figcaption>
+</figure>
+
+
 ## Awareness of asset purchasing
 
 Cutting the policy rate has limits. If rates are already very low, there may be little room to cut further. A central bank can then use **asset purchasing** (often called quantitative easing). It creates new money electronically and uses it to buy assets, mainly government bonds, from banks, pension funds and other investors.
@@ -159,6 +204,12 @@ How it is meant to work:
 
 Advantages: it can support demand when the policy rate cannot fall. Disadvantages: if too much money is created it may cause inflation, it raises the price of assets such as shares and property (which benefits people who already own them), and the central bank may find it hard to reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--12-asset-purchasing-bond-yield.webp" width="900" height="880" alt="A bond pays 4 on face value 100. Central bank buying lifts the price from 100 to 104, so yield falls from 4.00% to 3.85%." loading="lazy">
+  <figcaption>Higher bond prices mean lower yields.</figcaption>
+</figure>
+
+
 ## Government controls
 
 The specification asks for advantages and disadvantages of four controls. They are used for many problems, for example to reduce pollution.
@@ -171,6 +222,12 @@ The specification asks for advantages and disadvantages of four controls. They a
 - Disadvantages: firms bear compliance costs; enforcement needs inspectors and money; one rule for all firms may not suit each firm.
 
 **Worked example (invented).** A new safety rule costs every firm 12,000 a year. A small firm with sales of 240,000 spends 5.0% of its sales on it (12,000 / 240,000). A large firm with sales of 6,000,000 spends 0.2%. Small firms bear a heavier burden, and some may close.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--11-compliance-burden.webp" width="900" height="810" alt="Bars show 12,000 as 5.0% of a small firm’s 240,000 sales but 0.2% of a large firm’s 6,000,000. Small firms bear a heavier burden and some may close." loading="lazy">
+  <figcaption>The same 12,000 rule takes 5.0% of a small firm’s sales but 0.2% of a large firm’s.</figcaption>
+</figure>
+
 
 ### Legislation
 
@@ -187,6 +244,12 @@ A **fine** is a money penalty for breaking a law or rule.
 - Disadvantages: only works if the law-breaker is caught; a small fine can be treated as a business cost; firms may pass costs to customers.
 
 **Worked example (invented).** A firm avoids 60,000 of treatment costs a year by dumping waste, and inspectors catch it one year in four (25%). If the fine is 100,000, the expected fine is 0.25 x 100,000 = 25,000, less than the saving, so the firm may keep dumping. To deter, the fine must exceed 60,000 / 0.25 = 240,000. A fine of 300,000 has an expected cost of 75,000, which is more than the saving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--13-fine-and-chance-of-capture.webp" width="900" height="1044" alt="Saving from dumping is 60,000 and chance of capture 25%. Fines of 100,000, 240,000 and 300,000 give expected fines 25,000, 60,000 and 75,000." loading="lazy">
+  <figcaption>A fine only deters if the expected fine exceeds the saving.</figcaption>
+</figure>
+
 
 ### Pollution permits
 
@@ -206,6 +269,12 @@ The same limit is reached at a lower total cost. Any price between 30 and 80 mak
 
 - Advantages: the total pollution is known; cuts happen where cheapest; firms have a reason to find cleaner methods.
 - Disadvantages: the cap may be set too high; large firms may buy up permits; monitoring is needed; pollution may still be concentrated in one area; poorer firms may be priced out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--14-pollution-permit-trading.webp" width="900" height="1040" alt="Without trading K cuts 100 (3,000) and L cuts 100 (8,000), total 11,000. With trading K cuts 200 for 6,000 and sells 100 permits to L at 55. Total emissions stay 800." loading="lazy">
+  <figcaption>The same cap is met at 6,000 instead of 11,000.</figcaption>
+</figure>
+
 
 ## Common errors
 

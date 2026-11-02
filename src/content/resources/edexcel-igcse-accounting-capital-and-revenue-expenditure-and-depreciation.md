@@ -64,6 +64,17 @@ Capital expenditure is 4,800 + 150 + 350 + 1,200 + 9,000 = **15,500**. Revenue e
 
 **Mixed invoices.** A single bill can contain both types. Ostrava Crafts receives one invoice for 6,300: a drill press at 5,400 and an annual service of the press at 900. The 5,400 is debited to the machinery account and the 900 to a machinery servicing expense account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--01-ostrava-classify.webp" width="900" height="893" alt="Seven payments are sorted into capital (saw 4,800, delivery 150, installation 350, legal fees 1,200, extension 9,000: total 15,500) and revenue (saw blade 90, repainting 600: total 690)." loading="lazy">
+  <figcaption>Five capital payments total 15,500 and two revenue payments total 690.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--02-cost-and-invoice.webp" width="900" height="892" alt="The band saw cost is price 4,800 plus delivery 150 plus installation 350, giving 5,300. A 6,300 invoice is split: 5,400 for a drill press debited to machinery and 900 for servicing debited to an expense account." loading="lazy">
+  <figcaption>The saw is recorded at 5,300, and a mixed invoice of 6,300 is split 5,400 capital and 900 expense.</figcaption>
+</figure>
+
+
 ## 2. Why correct treatment matters
 
 Treating an item in the wrong category changes profit and the value of assets. The effect is on the current year and on later years, because depreciation follows the asset.
@@ -85,6 +96,12 @@ Error 2: expenses were overstated by 12,000, but depreciation of 1,200 should ha
 Corrected profit = 46,200 − 3,150 + 10,800 = **53,850**.
 
 In the statement of financial position, machinery was overstated by 3,500 − 350 = 3,150 for the repair, and understated by 12,000 − 1,200 = 10,800 for the press (carrying values).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--03-elmstead-profit.webp" width="900" height="856" alt="Reported profit 46,200 falls by 3,150 for a repair wrongly capitalised (3,500 less 350 depreciation) and rises by 10,800 for a press wrongly expensed (12,000 less 1,200 depreciation), giving 53,850." loading="lazy">
+  <figcaption>Two misclassifications turn a reported profit of 46,200 into a corrected 53,850.</figcaption>
+</figure>
+
 
 ## 3. Causes of depreciation
 
@@ -125,6 +142,12 @@ Reducing balance at 25%:
 | 4 | 27,000 | 6,750 | 20,250 |
 
 After four years, reducing balance has charged 16,000 + 12,000 + 9,000 + 6,750 = 43,750, against 32,000 under straight line. Reducing balance gives heavy early charges, which suits assets that lose most of their usefulness early. Straight line gives an even charge, which suits assets used evenly. When a question tells you the method, rate and any policy on part years, follow it exactly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--04-brightwater-methods.webp" width="900" height="996" alt="Straight line charges 8,000 every year. Reducing balance at 25% charges 16,000, 12,000, 9,000 and 6,750. Four-year totals are 32,000 and 43,750; carrying values are 32,000 and 20,250." loading="lazy">
+  <figcaption>Reducing balance charges more early; after four years it has charged 43,750 against 32,000.</figcaption>
+</figure>
+
 
 ## 5. Recording depreciation in the books
 
@@ -170,6 +193,17 @@ Statement of financial position, vehicles line, at the close of Year 2:
 |---|---:|---:|---:|
 | Vehicles | 42,000 | 13,200 | 28,800 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--05-larkhill-ledger.webp" width="900" height="986" alt="Year 1 charge 4,800 and year 2 charge 8,400 are debited to depreciation expense and credited to the provision, then the expense is cleared to the income statement. The provision is 13,200, so vans at cost 42,000 have carrying value 28,800." loading="lazy">
+  <figcaption>Depreciation goes to a provision; the asset stays at cost 42,000 and carrying value is 28,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--05-provision-builds.webp" width="900" height="940" alt="Three bars of 18,000 show the loom at purchase, Year 1 and Year 2, with provision 0, 3,000 and 6,000 and NBV 18,000, 15,000 and 12,000." loading="lazy">
+  <figcaption>The asset stays at cost while the provision builds up and NBV falls.</figcaption>
+</figure>
+
+
 ## 6. Selling a non-current asset
 
 When an asset is sold, a **disposal account** is used to take out its cost and the depreciation built up on it. Whatever is needed to balance that account is the profit or loss on disposal.
@@ -200,6 +234,17 @@ Profit or loss = proceeds − carrying value. If proceeds are more than carrying
 | Display unit at cost | 8,000 | Provision for depreciation | 4,625 |
 | Income statement (profit) | 725 | Bank | 4,100 |
 | **Total** | **8,725** | **Total** | **8,725** |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--06-maddox-disposals.webp" width="900" height="866" alt="A kiln costing 30,000 with 12,000 depreciation (carrying value 18,000) sold for 15,000 gives a loss of 3,000. A display unit costing 8,000 with 4,625 depreciation (carrying value 3,375) sold for 4,100 gives a profit of 725." loading="lazy">
+  <figcaption>Profit or loss on disposal is proceeds less carrying value: a loss of 3,000 and a profit of 725.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-disposal-loss-profit.webp" width="900" height="1066" alt="Press cost 15,000, provision 9,000, sold 4,100: loss 1,900. Press cost 12,000, provision 7,500, sold 5,200: profit 700. Bars compare NBV with proceeds." loading="lazy">
+  <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
+</figure>
+
 
 ## Common errors
 

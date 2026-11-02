@@ -95,6 +95,12 @@ A workshop sells wooden stools at £30. Variable cost is £18 a stool. Fixed cos
 | Total costs | At the fixed cost figure | Rises by the variable cost per unit |
 | Revenue | At zero | Rises by the price per unit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--04-tahir-read-chart.webp" width="900" height="940" alt="Tahir’s chart: total costs start at 3,000 pounds and rise 1,500 per 100 repairs, so variable cost is 15 pounds. Revenue is 4,500 at 100 repairs, so price is 45 pounds. The lines cross at 100 repairs; 3,000 / 30 = 100." loading="lazy">
+  <figcaption>Fixed cost, variable cost, price and break-even can all be read from the chart.</figcaption>
+</figure>
+
+
 ## Impact of changes
 
 | Change | Line that moves | Break-even output |
@@ -110,6 +116,12 @@ A change in sales volume does not move the lines. It moves the business along th
 
 A lower break-even output is not automatically better. A price rise may lower break-even output but cut the number of customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--03-break-even-changes.webp" width="900" height="890" alt="Starting from 600 bars, a price of 14 pounds gives 467 bars, a variable cost of 6 pounds gives 700 bars and fixed costs of 4,800 pounds give 686 bars." loading="lazy">
+  <figcaption>Lower break-even output means the business reaches profit sooner.</figcaption>
+</figure>
+
+
 ## Limitations of break-even charts
 
 | Limitation | Why it matters |
@@ -121,6 +133,22 @@ A lower break-even output is not automatically better. A price rise may lower br
 | Based on forecasts | Costs and prices change |
 | Does not show demand | A break-even figure says nothing about whether customers will buy it |
 | One product | A business selling many products needs more assumptions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--01-unit-contribution.webp" width="900" height="985" alt="Sana sells soap at 12 pounds; 5 pounds is variable cost and 7 pounds is contribution. Running profit rises from -4,200 pounds at 0 bars by 7 pounds a bar, reaching break-even at 600 bars and 1,400 pounds profit at 800." loading="lazy">
+  <figcaption>Each bar covers its own 5 pound cost, then adds 7 pounds towards the 4,200 pound fixed costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--02-sana-break-even-chart.webp" width="900" height="870" alt="Break-even chart for Sana: flat fixed cost line at 4,200, total costs rising to 8,200 and revenue rising to 9,600 at 800 bars. Lines cross at 600 bars and 7,200 pounds; loss to the left, profit to the right." loading="lazy">
+  <figcaption>Break-even is where the revenue and total cost lines cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--04-break-even-limits.webp" width="900" height="1010" alt="Rowanbank break-even chart with numbered badges on the revenue, total cost and fixed cost lines showing the assumptions behind them, plus the other limitations." loading="lazy">
+  <figcaption>Straight lines on a break-even chart hide assumptions about price, variable cost and fixed costs.</figcaption>
+</figure>
+
 
 ## Command words to expect
 

@@ -59,6 +59,12 @@ Paper 1 (2 hours, 110 marks) assesses content without a C reference. Paper 2 (1 
 
 Forces of attraction between particles are strongest in a solid and weakest in a gas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
+
 ### Changes of state (1.2)
 
 | Change | Name | How it is achieved |
@@ -74,6 +80,22 @@ When a solid melts, the particles gain energy and vibrate more until they overco
 **Evaporation** happens only at the surface, below the boiling point. **Boiling** happens throughout the liquid, at the boiling point.
 
 **Why the temperature stops rising.** Heat a pure solid steadily and its temperature stays constant while it melts, and again while it boils. The energy is being used to overcome forces between particles, not to make them move faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--09-sublimation-co2.webp" width="900" height="820" alt="Solid carbon dioxide has particles close together in a fixed pattern. On heating it changes directly into gas, with particles far apart and moving fast, skipping the liquid state. This change is called sublimation." loading="lazy">
+  <figcaption>Solid carbon dioxide sublimes: it turns to gas on heating without becoming a liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
+</figure>
+
 
 ### Evidence for particles: dilution and diffusion (1.3)
 
@@ -95,6 +117,27 @@ after 3 steps: 1/10 × 1/10 × 1/10 = 1/1000
 
 Diffusion is faster at a higher temperature, because the particles have more energy and move faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--06-dilution-one-in-ten.webp" width="900" height="840" alt="Four tubes of purple potassium manganate(VII) get paler left to right. Each step takes 1 cm3 and makes it up to 10 cm3, multiplying concentration by 1/10. After three steps it is 1/1000 of the original yet still visibly coloured, so there are very many tiny particles." loading="lazy">
+  <figcaption>Three 1 in 10 dilutions give 1/10 × 1/10 × 1/10 = 1/1000, yet the colour is still visible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--07-bromine-gas-jars.webp" width="900" height="980" alt="Left: bromine vapour in the lower jar and air in the upper jar; after the cover is removed the particles mix randomly until both jars are evenly brown, which takes a while. Right: the upper jar is a vacuum, so with no air particles to collide with the bromine fills both jars almost at once." loading="lazy">
+  <figcaption>Bromine diffuses to fill both jars; with a vacuum above, there is nothing to slow it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp" width="900" height="990" alt="Gas or liquid particles that start crowded on one side spread randomly through the whole box, moving net from high to low concentration. In a solid the particles stay in fixed positions, so nothing spreads." loading="lazy">
+  <figcaption>Diffusion is net movement from high to low concentration, caused by random particle motion; it does not happen in solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
+
+
 ### Solutions (1.4)
 
 - **Solvent:** the liquid in which a substance dissolves (water is the most common).
@@ -105,6 +148,17 @@ Diffusion is faster at a higher temperature, because the particles have more ene
 ### Solubility (1.5C) -- Paper 2 only
 
 **Solubility** is the mass of solute that dissolves in 100 g of solvent to form a saturated solution at a stated temperature. Its unit is **g per 100 g of solvent**. Always give the temperature, because solubility changes with temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--03-solubility-curve.webp" width="900" height="1070" alt="A smooth solubility curve through 12, 20, 34, 55 and 82 g per 100 g water at 0, 20, 40, 60 and 80 degrees C. Points on the curve are saturated and points below are unsaturated. 50 g of water holds 27.5 g at 60 C and 10 g at 20 C, so 17.5 g of crystals form, shown as 7 crystals where one symbol is 2.5 g." loading="lazy">
+  <figcaption>Cooling a saturated solution of X from 60 °C to 20 °C: (55 − 20) × 50 ÷ 100 = 17.5 g of crystals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--08-solubility-method.webp" width="900" height="940" alt="Three weighings: empty basin 32.50 g, basin with saturated solution 58.90 g, basin with dry solid 39.10 g. A bar splits 58.90 g into basin 32.50, solid 6.60 and water 19.80 g. Solubility = 6.60 / 19.80 x 100 = 33.3 g per 100 g of water." loading="lazy">
+  <figcaption>Solid = 39.10 − 32.50 = 6.60 g and water = 58.90 − 39.10 = 19.80 g give 33.3 g per 100 g.</figcaption>
+</figure>
+
 
 ### Measuring solubility (1.7C) -- Paper 2 only
 
@@ -163,6 +217,12 @@ On a particle diagram: identical units of one kind of atom (single atoms or mole
 
 **Answers:** (a) element; (b) compound: N and H atoms bonded in a fixed ratio; (c) mixture: two substances not bonded to each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+
+
 ### Purity, melting and boiling (1.9)
 
 A **pure substance** (one element or one compound) has a **fixed melting point and boiling point**; pure water melts at 0 °C and boils at 100 °C at normal atmospheric pressure. A **mixture** may melt or boil **over a range of temperatures**. A sharp melting point matching the data-book value suggests a pure sample; melting over a range shows it is impure.
@@ -204,6 +264,12 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 ```
 
 **Answer:** the colouring contains the yellow and blue dyes, and not the red.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--10-rf-food-colouring.webp" width="900" height="740" alt="A chromatogram has a pencil baseline and the solvent front 8.0 cm above it. The food colouring has spots at 3.2 and 5.6 cm, giving Rf 0.40 (matches yellow) and 0.70 (matches blue). Red has Rf 0.55 so would be at 4.4 cm; no spot is there, so red is absent." loading="lazy">
+  <figcaption>Rf = 3.2 ÷ 8.0 = 0.40 (yellow) and 5.6 ÷ 8.0 = 0.70 (blue); red is not present.</figcaption>
+</figure>
+
 
 ## Common errors
 

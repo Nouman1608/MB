@@ -58,6 +58,12 @@ Handy conversions: 1 eV = 1.60 × 10⁻¹⁹ J. With the values above, hc = 1.99
 
 **Reminder.** A 2.0 mW beam of 500 nm light: E = 3.98 × 10⁻¹⁹ J per photon, so N = 2.0 × 10⁻³ / 3.98 × 10⁻¹⁹ = 5.0 × 10¹⁵ s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+
+
 ## Method: LED estimate of h (4.5.1(e), PAG6)
 
 1. Build the circuit with the LED the right way round, a protective resistor and a voltmeter across the LED.
@@ -78,6 +84,12 @@ No semiconductor theory is required. The main uncertainty is judging when the LE
 
 **Reminder.** Light of 300 nm on a metal of work function 3.5 eV: photon energy = 4.14 eV, so KEmax = 0.64 eV (1.0 × 10⁻¹⁹ J). The threshold frequency is 3.5 × 1.60 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = 8.4 × 10¹⁴ Hz.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--07-aphy-quantum-photoelectric.webp" width="900" height="1090" alt="Graph of maximum kinetic energy against frequency for two metals with work functions 2.3 eV and 3.2 eV: straight lines of equal gradient h, with threshold frequencies 5.55 and 7.72 times 10^14 Hz and vertical intercepts minus the work function. Two small graphs show that at fixed frequency, intensity changes photocurrent but not maximum kinetic energy." loading="lazy">
+  <figcaption>Frequency sets photoelectron energy and intensity sets how many are emitted.</figcaption>
+</figure>
+
+
 ## Gold-leaf electroscope with zinc (4.5.2(a))
 
 | Step | Observation | Meaning |
@@ -95,6 +107,17 @@ No semiconductor theory is required. The main uncertainty is judging when the LE
 - A metal with a bigger φ gives a parallel line, shifted to the right.
 - If the axis is in eV, multiply the gradient by 1.60 × 10⁻¹⁹ to get h in J s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--03-aphy-quantum-strong-force.webp" width="900" height="1090" alt="Schematic graph of force against nucleon separation. Below about 0.5 fm the force is repulsive; from 0.5 to about 3 fm it is attractive; beyond about 3 fm it is negligible. Three pictures of two nucleons show pushing apart, pulling together and no effect." loading="lazy">
+  <figcaption>The strong force is repulsive below 0.5 fm, attractive up to about 3 fm and negligible beyond (AQA and OCR).</figcaption>
+</figure>
+
+
 ## Intensity (4.5.2(e)-(f))
 
 - KEmax is independent of intensity: photon energy, and so electron energy, depends only on frequency.
@@ -108,6 +131,12 @@ No semiconductor theory is required. The main uncertainty is judging when the LE
 - Polycrystalline graphite: electrons pass through a thin slice onto a fluorescent screen, and rings appear. The atoms and their spacing act as the diffracting object.
 - Faster electrons (higher accelerating voltage) have a smaller λ, so the rings have a smaller radius.
 - Everyday objects have wavelengths far too small to see: a 0.057 kg ball moving at 40 m s⁻¹ has λ of order 10⁻³⁴ m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--09-aphy-quantum-de-broglie.webp" width="900" height="1190" alt="Electrons accelerated through a potential difference pass through graphite and form rings on a screen. Doubling V from 2.5 kV to 5 kV shortens lambda from 24.6 pm to 17.4 pm and shrinks the rings by 0.71. A log scale shows a 0.057 kg ball at 40 m/s with lambda about 3e-34 m, far smaller than an electron at 3.5 kV (2e-11 m)." loading="lazy">
+  <figcaption>Faster electrons have a shorter wavelength, and only atom-sized wavelengths diffract noticeably.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

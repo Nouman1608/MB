@@ -86,6 +86,17 @@ P(4 ≤ X ≤ 8) = F(8) − F(3)
 
 The lower limit 4 gives F(3), not F(4). This is the most common slip with cumulative probabilities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--02-poisson-shapes.webp" width="900" height="1090" alt="Three bar charts of P(X = r) on one scale for Po(0.8), Po(3) and Po(9). Po(0.8) is strongly skewed, Po(3) peaks at 2 and 3, and Po(9) is wide and nearly symmetric. A dashed line marks the mean λ." loading="lazy">
+  <figcaption>As λ grows the distribution moves right, spreads out and becomes more symmetric.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--07-binomial-critical-region.webp" width="900" height="1010" alt="Bar chart of B(28, 0.35). The critical region X ≤ 5 or X ≥ 15 is shaded gold with tails 0.0393 and 0.0337, total 0.0730. The observed 16 is in the critical region so H0 is rejected; doubling P(X ≥ 16) = 0.0136 gives 0.0272 which is below 0.10." loading="lazy">
+  <figcaption>At the 10% level each tail gets at most 5%, and the actual significance level 0.0730 is the probability of a Type I error.</figcaption>
+</figure>
+
+
 ## The Poisson distribution Po(λ)
 
 A variable X ~ Po(λ) counts events in a fixed stretch of time, length or area, provided the events occur
@@ -125,6 +136,22 @@ If the number of events per unit has mean λ and the counts in separate units ar
 
 The answers are 0.413 and 0.647 (3 s.f.). Always state the new distribution before you calculate. The sum of independent Poisson variables is also Poisson: if A ~ Po(a) and B ~ Po(b) are independent, A + B ~ Po(a + b).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--01-poisson-vs-binomial-setup.webp" width="900" height="1040" alt="A timeline shows seven events in an interval, so X counts events with no upper limit. Below it, ten trial boxes show six successes, so a binomial X can never exceed n. Poisson events must be single, independent and at a constant average rate." loading="lazy">
+  <figcaption>Poisson counts events in an interval with no upper limit; binomial counts successes in a fixed number of trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--03-poisson-scaling-interval.webp" width="900" height="1080" alt="Six 10-minute blocks each with mean 1.5 show 20 minutes has λ = 3 and one hour has λ = 9. Po(3) with r ≤ 3 shaded gives 0.647 and Po(9) with r ≥ 10 shaded gives 0.413." loading="lazy">
+  <figcaption>Rescale the mean to the interval you observe before calculating any probability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
+
 ## Mean and variance (topic 1.2)
 
 | Distribution | Mean | Variance |
@@ -145,6 +172,12 @@ Then n = 15 / 0.3 = 50
 So n = 50 and p = 0.3.
 
 A binomial variance is always smaller than its mean, because 1 − p < 1. A Poisson variance equals its mean. This gives a quick test of a Poisson model: if a data set of counts has mean 2.3 and variance 2.2, a Poisson model looks plausible. If the mean is 2.6 and the variance is 5.9, the counts are too spread out, which suggests events cluster or the rate varies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
+</figure>
+
 
 ## Modelling and commenting critically (topic 1.1)
 
@@ -172,6 +205,12 @@ Exact: 0.98¹⁵⁰ + 150 × 0.02 × 0.98¹⁴⁹ + 11175 × 0.02² × 0.98¹⁴
 ```
 
 The approximation 0.423 is close to the exact 0.421. When p is not small the approximation fails. For X ~ B(20, 0.4), P(X ≤ 5) = 0.1256, but Po(8) gives 0.1912.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--04-poisson-approximates-binomial.webp" width="900" height="1190" alt="Binomial bars with Poisson values as dots. B(150, 0.02) and Po(3) match closely (0.4209 against 0.4232 for P(X ≤ 2)). B(20, 0.4) and Po(8) do not (0.1256 against 0.1912), because p is not small." loading="lazy">
+  <figcaption>The approximation works when n is large and p is small, and fails when p is not small.</figcaption>
+</figure>
+
 
 ## Common errors
 

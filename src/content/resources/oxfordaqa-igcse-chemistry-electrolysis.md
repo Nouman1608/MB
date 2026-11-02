@@ -57,6 +57,12 @@ Two conducting rods, the **electrodes**, dip into the electrolyte and connect to
 
 Opposite charges attract. Electrodes are usually carbon (graphite), which carries the current without taking part in the reaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--02-free-ions.webp" width="900" height="910" alt="Four panels compare solid ionic, molten ionic, ionic in water and covalent substances. Only the molten and dissolved ionic ones have free ions, so only they conduct and can be electrolysed." loading="lazy">
+  <figcaption>Electrolysis needs free-moving ions: molten or dissolved ionic compounds, never solids or covalent substances.</figcaption>
+</figure>
+
+
 ## 3.3.2 d to f: what happens at the electrodes
 
 **Losing electrons is oxidation; gaining electrons is reduction.** Remember OIL RIG (Oxidation Is Loss, Reduction Is Gain).
@@ -96,6 +102,17 @@ Complete these: (i) Ni²⁺ + ... → Ni (ii) ...O²⁻ → O₂ + ... (iii) Al�
 2. One O₂ molecule contains two oxygen atoms, so two oxide ions are needed. Their total charge is 4–, so four electrons are released: **2O²⁻ → O₂ + 4e⁻**.
 3. A 3+ ion needs three electrons: **Al³⁺ + 3e⁻ → Al**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--11-half-equation-steps.webp" width="900" height="870" alt="Three steps for half equations and three worked cases, Ni2+ + 2e- to Ni, 2O2- to O2 + 4e-, Al3+ + 3e- to Al, each with the charge totals either side shown equal. " loading="lazy">
+  <figcaption>Write ion and product, balance atoms, then add electrons so the charges match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
+</figure>
+
+
 ## 3.3.2 g: mixtures of ions in solution
 
 Water itself supplies a few hydrogen ions (H⁺) and hydroxide ions (OH⁻) in any aqueous solution, so different ions compete at each electrode.
@@ -119,6 +136,12 @@ Predict the product at each electrode when each solution is electrolysed with ca
 **(b) Dilute copper(II) chloride solution.** Copper is less reactive than hydrogen, so **copper** forms at the cathode. The chloride ions are at low concentration, so **oxygen** is the main product at the anode.
 
 **(c) Sodium nitrate solution.** Sodium is more reactive than hydrogen, so **hydrogen** forms at the cathode. Nitrate is not a halide, so **oxygen** forms at the anode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
+</figure>
+
 
 ## Required practical: electrolysis of copper sulfate solution
 
@@ -154,6 +177,17 @@ A student weighed the cathode every 4 minutes at a steady current.
 
 Mass gained: 0.12 g, 0.24 g, 0.31 g and 0.48 g after 4, 8, 12 and 16 minutes. Every value except 12 minutes fits 0.03 g per minute (0.12 ÷ 4 = 0.03). At 12 minutes the expected gain is 12 × 0.03 = 0.36 g, so 0.31 g is **anomalous**. The 16-minute reading is back on trend, so this was a one-off weighing or recording slip, not lost copper. The steady gain shows a solid (copper) is being deposited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--01-cathode-mass-anomaly.webp" width="900" height="910" alt="Graph of cathode mass gained against time with a 0.03 g per minute trend line. Points at 0, 4, 8 and 16 minutes lie on the line; the 12 minute point is 0.31 g instead of 0.36 g and is the anomaly. A steady gain shows copper is deposited." loading="lazy">
+  <figcaption>The 12-minute reading (0.31 g) is anomalous; every other point follows 0.03 g per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
+
 ## 3.3.2 h: electroplating
 
 **Electroplating** uses electrolysis to coat an object with a thin layer of metal. Reasons include:
@@ -180,6 +214,12 @@ A copper medal is to be silver plated. State the electrodes, the electrolyte and
 
 For copper plating, swap in a copper anode and copper sulfate solution: Cu → Cu²⁺ + 2e⁻ at the anode and Cu²⁺ + 2e⁻ → Cu on the object.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--06-electroplating.webp" width="900" height="930" alt="A spoon hangs from the negative terminal as the cathode and a silver bar is the anode in silver ion solution. Silver ions move to the spoon and a thin silver layer builds up while the anode dissolves." loading="lazy">
+  <figcaption>The object to plate is the cathode, the plating metal is the anode, and the electrolyte contains the plating metal ions.</figcaption>
+</figure>
+
+
 ## 3.3.2 i: manufacturing aluminium
 
 Carbon is below aluminium in reactivity, so heating the oxide with carbon does not work. Instead the oxide is electrolysed while molten.
@@ -203,6 +243,17 @@ The overall reaction is 2Al₂O₃ → 4Al + 3O₂. Calculate the maximum mass o
 
 The [quantitative chemistry guide](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/) covers reacting masses in full.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--13-aluminium-mass.webp" width="900" height="740" alt="Four-step calculation from 255 kg Al2O3 to 135 kg Al with a bar splitting 255 kg into 135 kg Al and 120 kg O. " loading="lazy">
+  <figcaption>255 kg of aluminium oxide gives a maximum of 135 kg of aluminium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
+
 ## 3.3.2 j: electrolysis of sodium chloride solution
 
 Sodium chloride solution (brine) contains Na⁺, Cl⁻, H⁺ and OH⁻ ions.
@@ -212,6 +263,17 @@ Sodium chloride solution (brine) contains Na⁺, Cl⁻, H⁺ and OH⁻ ions.
 - **Left in solution:** Na⁺ ions and OH⁻ ions are not discharged, so the solution becomes **sodium hydroxide solution**.
 
 These are important reagents for the chemical industry. Sodium hydroxide is used to make **soap**. Chlorine is used to make **bleach** and **plastics**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--12-brine-products-uses.webp" width="900" height="770" alt="Brine cell with H2 at the cathode and Cl2 at the anode; Na+ and OH- left in solution make NaOH solution used for soap; chlorine used for bleach and plastics. " loading="lazy">
+  <figcaption>Na+ and OH- stay behind, so brine electrolysis leaves sodium hydroxide solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
+</figure>
+
 
 ## Common errors
 

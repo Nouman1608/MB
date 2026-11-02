@@ -41,6 +41,12 @@ Origin at the launch point, x horizontal, y up, launch speed V at angle α above
 * Time is the only link between the two directions.
 * Launched below the horizontal: the vertical component V sin α is negative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+
 ## Derived results on level ground
 
 Derive these in an answer. Do not just write them down.
@@ -79,6 +85,12 @@ y = x tan α − g x² sec² α / (2V²)
 ```
 
 The specification does not require you to remember it, but you should be able to derive it. Use sec² α = 1 + tan² α to make a quadratic in tan α when the angle is unknown. Two real roots mean two possible angles. A negative discriminant means the point cannot be reached at that speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -149,6 +161,12 @@ Take g = 9.8 m/s². Answers follow.
 11. **45°**, as sin 2α is largest there. sin 2α = sin(180° − 2α), so α and 90° − α share a range.
 12. Only the **vertical velocity** component is zero at the top; the horizontal component, 20 cos 40° = 15.3 m/s, is unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 * Quoting a range or height formula without showing where it comes from, when the question says "find" or "show".
@@ -160,6 +178,17 @@ Take g = 9.8 m/s². Answers follow.
 * Writing "no friction" as an assumption when the relevant point is air resistance.
 * Giving one angle when the quadratic in tan α has two valid roots.
 * Leaving out the final statement in a "does it clear" question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
+  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

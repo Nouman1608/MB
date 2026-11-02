@@ -102,6 +102,22 @@ In (c), equate the whole index x − 1 with 3, then solve the linear equation. N
 
 This unit can be examined on the non-calculator papers (1 and 2), so know these by heart: powers of 2 up to 2¹⁰ = 1024, powers of 3 up to 3⁵ = 243, 5³ = 125, 5⁴ = 625, and the squares and cubes in the Number topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--03-solving-index-equations.webp" width="900" height="920" alt="Graph of y=2^x: y=32 meets the curve at x=5 and y=1/16 at x=-4. Three solved examples write both sides as one base and equate the indices." loading="lazy">
+  <figcaption>Write both sides as powers of one base, then equate indices.</figcaption>
+</figure>
+
+
 ## Fractional indices (Extended only)
 
 A fractional index combines a root and a power. The denominator is the root and the numerator is the power:
@@ -162,6 +178,12 @@ Solve (a) 8ˣ = 1/2, (b) 9ˣ⁺² = 27ˣ, (c) (1/25)ˣ = 125.
 
 In (b), (3²)^(x+2) is 3^(2x+4), not 3^(2x+2). Check by substituting: with x = 4, 9⁶ and 27⁴ both equal 531 441.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+
 ## Algebraic fractions (Extended only)
 
 Algebraic fractions follow exactly the same rules as number fractions. The one new skill is factorising first, using the methods in E2.2: common factors, difference of two squares, and quadratics of the form ax² + bx + c.
@@ -189,6 +211,12 @@ Factorise the numerator and the denominator fully, then cancel **common factors*
 In (b), spot the reversed bracket: 6 − 2x = −2(x − 3).
 
 To check a simplification, substitute a convenient value. With x = 5 in (a): (50 + 25 − 3)/(100 − 1) = 72/99 = 8/11, and (5 + 3)/(10 + 1) = 8/11. Both agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
 
 ### Adding and subtracting (E2.3.1)
 
@@ -222,6 +250,12 @@ The −2 multiplies −3 to give +6. Writing −6 here is the most common slip.
 ```
 
 In (a), x² − x + 8 does not factorise, so nothing cancels and the answer is complete. In (b), factorising first gives the **lowest** common denominator; multiplying the denominators together gives a cubic and extra cancelling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ### Multiplying and dividing (E2.3.1)
 

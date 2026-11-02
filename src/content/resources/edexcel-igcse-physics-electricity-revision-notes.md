@@ -44,12 +44,44 @@ P = I V              E = I V t
 
 Use `P = IV` to choose the correct fuse rating for an appliance — the fuse must exceed normal operating current but blow before wiring overheats.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--01-ac-vs-dc.webp" width="900" height="950" alt="Two graphs of voltage against time. Top: d.c. is a flat line at a constant positive voltage, so current flows one way. Bottom: a.c. is a sine wave that goes above and below zero, so current keeps reversing. Shapes are illustrative." loading="lazy">
+  <figcaption>a.c. mains reverses direction; a cell or battery gives one-direction d.c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--02-fuse-selection.webp" width="900" height="975" alt="A circuit with mains, a fuse and a 920 W heater at 230 V. I = P/V = 4.0 A. On a 0-14 A number line, 3, 5 and 13 A fuses are marked; the next rating above 4.0 A, the 5 A fuse, is chosen." loading="lazy">
+  <figcaption>Use I = P/V, then choose the fuse rating just above the current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--08-double-insulation-breaker.webp" width="900" height="1050" alt="A double-insulated appliance has two insulating layers and no earth wire, with its square-in-a-square symbol. A circuit breaker has a closed switch normally and springs open when a large current makes its coil pull the lever." loading="lazy">
+  <figcaption>Double insulation needs no earth wire; a circuit breaker opens when current is too large.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--12-resistor-heating.webp" width="900" height="950" alt="Electrons drifting through a wire collide with its ions, the ions vibrate more and the wire heats, so electrical energy becomes thermal energy as in kettles and heaters." loading="lazy">
+  <figcaption>A current heats a resistor because electrons collide with its ions.</figcaption>
+</figure>
+
+
 ## Series and parallel circuits
 
 **Series:** current is the same everywhere; voltage is shared between components.
 **Parallel:** voltage is the same across every branch; current divides between branches.
 
 Domestic lighting is wired in parallel so one bulb failing does not switch off the others, and so each appliance gets the full mains voltage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--10-series-circuit-calc.webp" width="900" height="1090" alt="A 12 V supply drives 1.0 A through 4 ohm and 8 ohm resistors in series. The voltages are 4 V and 8 V, adding to 12 V. Example numbers." loading="lazy">
+  <figcaption>Series: the same current everywhere and the supply voltage shared between components.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
 
 ## Current, voltage, resistance
 
@@ -68,9 +100,41 @@ A volt is a joule per coulomb (1 V = 1 J/C). A lamp lighting or an LED glowing i
 - **LDR:** resistance **falls** as light **increases**.
 - **Thermistor:** resistance **falls** as temperature **increases**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--03-ldr-thermistor.webp" width="900" height="1000" alt="Two graphs of resistance against light level (LDR) and against temperature (thermistor). Both curves fall as the quantity increases. Shapes are illustrative." loading="lazy">
+  <figcaption>Both an LDR and a thermistor lose resistance as light or temperature rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--09-iv-q-e-chain.webp" width="900" height="1040" alt="A 6.0 V battery drives 0.50 A through a resistor. V = IR gives 12 ohm, Q = It gives 30 C in an example 60 s, and E = QV and E = IVt both give 180 J." loading="lazy">
+  <figcaption>One circuit worked through V = IR, Q = It, E = QV and E = IVt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+
 ## Electric charge (Physics only)
 
 Conductors (metals) allow charge to flow; insulators (plastics) do not. Rubbing two insulators together transfers electrons: the surface that **loses** electrons becomes **positive**; the one that **gains** electrons becomes **negative**. Like charges repel; unlike charges attract. Applications: photocopiers, inkjet printers. Hazards: sparks during aircraft/tanker fuelling — hence static-dissipation design in fuelling equipment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--04-charging-by-friction.webp" width="900" height="980" alt="A cloth and a rod each with 6 positive and 6 negative charges, neutral. After rubbing 3 electrons move to the rod: cloth net +3, rod net -3, total still zero." loading="lazy">
+  <figcaption>Rubbing moves electrons; the one that loses them is positive, the one that gains them is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--11-charge-forces.webp" width="900" height="950" alt="Two positive charges and two negative charges are pushed apart; a positive and a negative charge are pulled together. Forces are equal and opposite." loading="lazy">
+  <figcaption>Like charges repel; unlike charges attract.</figcaption>
+</figure>
+
 
 
 ## Energy transferred worked example

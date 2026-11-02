@@ -47,6 +47,17 @@ Related pages: [Enterprise (1.1)](/resources/cambridge-a-level-business-enterpri
 
 **Distinction:** reasons explain why the shift happened; consequences describe what follows. Do not mix them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--05-karvale-sector-shift.webp" width="900" height="840" alt="Two stacked columns for Karvale showing sector shares at the start and twenty years later; tertiary rises from 38 to 58 percent while primary falls from 30 to 8." loading="lazy">
+  <figcaption>Karvale: workers move from primary and secondary into tertiary and quaternary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+
 ## 1.2.2 Ownership
 
 | Form | Liability | One strength | One weakness |
@@ -82,6 +93,22 @@ Related pages: [Enterprise (1.1)](/resources/cambridge-a-level-business-enterpri
 | Private to public limited company | Large capital, tradable shares | Control, takeover risk, scrutiny |
 | Public to private | Control, less short-term pressure | Access to share capital |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--06-changing-form-ladder.webp" width="900" height="1130" alt="Gains and losses at each step of the ownership ladder, and the plc buy-back reverse. Gains and losses when a business changes legal form." loading="lazy">
+  <figcaption>What is gained and lost moving from sole trader to Ltd to plc, and in reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## 1.3.1 Measuring size
 
 | Measure | Standard form | Weakness |
@@ -101,6 +128,12 @@ The syllabus does not list the measures in 1.3.1. These are the standard ones. I
 - *Family, weaknesses:* limited management talent, disputes, succession.
 - *Economy:* jobs, new ideas, suppliers to large firms, local service.
 - *Industrial structure:* small firms are common where demand is local, personal or specialised, and large-scale production brings little advantage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--10-small-firms-role.webp" width="900" height="980" alt="Four roles of small firms around a hub, bars showing growth into large employers, and the industrial-structure note. The role of small firms in the economy." loading="lazy">
+  <figcaption>Small firms provide jobs, ideas, supply and local service, and many grow.</figcaption>
+</figure>
+
 
 ## 1.3.3 Growth
 
@@ -131,6 +164,37 @@ The syllabus does not list the measures in 1.3.1. These are the standard ones. I
 3. Give one reason it could achieve the objective.
 4. Give one reason it might not.
 5. Judge, and state what the outcome depends on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--06-dellwood-takeover.webp" width="900" height="1010" alt="Dellwood 18 percent plus Mossback 6 percent gives 24 percent of a 50 million market; savings of 0.65 million a year repay the 3.9 million price in 6 years." loading="lazy">
+  <figcaption>Takeover maths: combined market share and years of savings to repay the price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--07-how-tightly-joined.webp" width="900" height="1000" alt="Three rows from looser to tighter: strategic alliance (separate firms cooperate), joint venture (firms create a shared business C), merger or takeover (firms become one)." loading="lazy">
+  <figcaption>Alliance, joint venture and merger differ in how tightly the firms are joined.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--07-friendly-vs-hostile.webp" width="900" height="1010" alt="Top: both boards agree and combine. Bottom: target board opposes so the bidder appeals directly to shareholders. Friendly merger versus hostile takeover." loading="lazy">
+  <figcaption>A friendly merger is agreed by both boards; a hostile takeover goes to shareholders over the target board.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--08-growth-stakeholder-effects.webp" width="900" height="830" alt="Employees, managers and community may lose; target shareholders may gain; customers and suppliers may gain or lose. Stakeholder effects of a merger or takeover." loading="lazy">
+  <figcaption>How a merger or takeover may affect six stakeholder groups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--09-deal-success-or-failure.webp" width="900" height="890" alt="Success: cost savings, market share, skills, fit. Failure: overpaying, culture clash, staff loss, poor communication, diseconomies of scale. Why a merger or takeover may succeed or fail." loading="lazy">
+  <figcaption>Factors that make a deal succeed or fail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

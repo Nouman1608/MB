@@ -89,6 +89,12 @@ An electron micrograph is at a magnification of ×20 000. A relaxed sarcomere me
 
 The A band stays the same because the filaments do not shorten; the I band and H zone shorten because the filaments slide past each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
+
 ## 7.11 The sliding filament theory
 
 When a motor neurone stimulates the fibre, an action potential spreads over the sarcolemma and down the T tubules. This opens channels in the sarcoplasmic reticulum and calcium ions (Ca2+) diffuse into the sarcoplasm.
@@ -103,6 +109,12 @@ When a motor neurone stimulates the fibre, an action potential spreads over the 
 This repeats many times each second. The thin filaments slide inwards, the Z lines move closer and the sarcomere shortens. When stimulation stops, calcium ions are pumped back into the sarcoplasmic reticulum and tropomyosin covers the binding sites again.
 
 ATP therefore has two roles: it detaches myosin from actin, and its hydrolysis provides the energy to re-set the head. Returning calcium ions to the store by active transport also uses ATP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">
+  <figcaption>The cross-bridge cycle: calcium, binding, power stroke, ATP detachment and reset.</figcaption>
+</figure>
+
 
 ## 7.12 The heart's electrical activity
 
@@ -131,6 +143,12 @@ An electrocardiogram (ECG) records the electrical activity of the heart from the
 | Ectopic beat | An early extra beat, then a pause |
 
 Worked example: the R-to-R time on a trace is 0.80 s. Heart rate = 60 ÷ 0.80 = 75 beats per minute (normal).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--04-action-potential.webp" width="900" height="1010" alt="A graph of membrane potential against time rests at -70 mV, depolarises past the -55 mV threshold to +40 mV, repolarises as K+ leaves, dips below -70 mV (hyperpolarisation) and returns to rest. Bars show Na+ channels open on the rising phase and K+ channels open on the falling phase. A 2.5 ms refractory period limits the frequency to 400 impulses per second." loading="lazy">
+  <figcaption>Membrane potential during one action potential, with channel activity and the refractory period.</figcaption>
+</figure>
+
 
 ## 7.13 Cardiac output, ventilation and their control
 

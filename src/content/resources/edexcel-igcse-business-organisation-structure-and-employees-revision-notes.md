@@ -78,6 +78,17 @@ Worked reminder. A firm has 1 owner, 4 team leaders and 8 staff under each team 
 
 Must-know distinction: tall or flat describes the number of levels. Centralised or decentralised describes where decisions are made. A business can be flat and centralised, or tall and decentralised. State which question you are answering.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--03-dalbrook-spending-limits.webp" width="900" height="960" alt="A scale from $0 to $5,000. Centralised: the shop manager can spend up to $200 and head office approves anything above. Decentralised: the shop manager can spend up to $5,000. An illustrative $1,200 purchase goes to head office when centralised and is decided locally when decentralised." loading="lazy">
+  <figcaption>The same $1,200 purchase is decided by head office in the centralised version and by the shop manager in the decentralised one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
+
 ## Compliance, accountability and delegation
 
 - Compliance: the employee follows the rules; the manager checks that the team does too.
@@ -85,6 +96,17 @@ Must-know distinction: tall or flat describes the number of levels. Centralised 
 - Delegation passes authority and the job to do. It does not pass accountability.
 - A good delegator gives clear instructions, suitable training and a way to check progress.
 - Delegation helps because managers free time and staff gain skills. It harms if the task is done badly or the person is overloaded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--02-chain-and-span.webp" width="900" height="940" alt="Two stacks of posts. Hierarchical chain: operative, supervisor, manager, director, 3 links, spans 5, 4 and 3. Flat chain: operative, team leader, owner, 2 links, spans 10 and 6." loading="lazy">
+  <figcaption>An operative is three links from the director in the hierarchical option and two links from the owner in the flat option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--07-delegation-accountability.webp" width="900" height="960" alt="Boss, manager and subordinate. The manager passes a task and authority down; the subordinate answers to the manager; the manager still answers to the boss. Responsibility is the duty to do the task, authority the power to decide, and accountability cannot be handed over." loading="lazy">
+  <figcaption>Authority can be delegated; accountability stays with the delegator.</figcaption>
+</figure>
+
 
 ## Functional areas at a glance
 
@@ -106,9 +128,26 @@ Must-know distinction: tall or flat describes the number of levels. Centralised 
 - Industrial relations: the relationship between management and employees or their representatives.
 - Staff welfare: support for employees' wellbeing at work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--10-functional-areas.webp" width="900" height="940" alt="Four panels: operations makes the product or service, marketing finds, promotes and sells, finance handles money, budgets and wages, human resources recruits, trains and looks after staff." loading="lazy">
+  <figcaption>The four functional areas named in the syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-dismissal-vs-redundancy.webp" width="900" height="730" alt="Two panels. Dismissal concerns the person: an employee ignores safety rules after warnings and leaves; the post is often refilled. Redundancy concerns the job: a machine does the work of five, the post is crossed out and usually removed, through no fault of the worker." loading="lazy">
+  <figcaption>Dismissal is about the employee; redundancy is about the job.</figcaption>
+</figure>
+
+
 ### Finance: working method
 
 Gross wage = basic pay + overtime pay. Overtime at time and a half = hours × normal rate × 1.5. Worked reminder: 36 hours at 12.50 = 450.00; 4 hours of overtime at time and a half = 4 × 12.50 × 1.5 = 75.00; gross wage = 525.00. Cash-flow forecasts must include this as cash out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--04-keldwick-gross-pay.webp" width="900" height="890" alt="40 basic hours at $15.00 give $600.00; 6 overtime hours at $22.50 give $135.00; gross pay is $735.00, which finance adds to the cash-out forecast." loading="lazy">
+  <figcaption>Gross pay is $600.00 basic plus $135.00 overtime, $735.00 in total.</figcaption>
+</figure>
+
 
 ### Links between areas
 
@@ -118,6 +157,12 @@ Gross wage = basic pay + overtime pay. Overtime at time and a half = hours × no
 | Production adds quality control | Costs rise (finance); fewer returns (marketing) |
 | Finance cuts the budget | Less training (HR); less advertising (marketing) |
 | HR plans a recruitment drive | Wages bill rises (finance) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--05-areas-depend.webp" width="900" height="910" alt="Marketing research shows demand, production designs and makes the product, finance sets the budget and pays suppliers, and HR recruits and trains staff. Marketing, production and finance often disagree: wide range, fewer lines, lower costs." loading="lazy">
+  <figcaption>The four functional areas each contribute to one new product, and often disagree.</figcaption>
+</figure>
+
 
 ## Command words in this topic
 
@@ -146,6 +191,12 @@ Question style: analyse one effect of a long chain of command on a business with
 
 Each step answers "so what?" for the named business. Use the same pattern for centralised decision-making, narrow spans or any functional area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--11-burdock-chart.webp" width="900" height="990" alt="Burdock Joinery chart: a managing director with four managers (span 4); operations has two supervisors (span 2) each with 6 workers (span 6); marketing 3, finance 2 and HR 1 staff. 4 levels, a chain of 3 links from worker to managing director, 25 employees." loading="lazy">
+  <figcaption>Burdock Joinery: levels, spans, chain of command and total employees read from the chart.</figcaption>
+</figure>
+
+
 ## Worked reminder: judging two options
 
 When you must justify or evaluate, write in this order.
@@ -155,6 +206,12 @@ When you must justify or evaluate, write in this order.
 3. Give one weakness of each option.
 4. Choose, and say why that choice suits the business's aim better.
 5. Add one condition, such as training for new team leaders, that makes the choice work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--01-quillfen-two-charts.webp" width="900" height="1066" alt="Two charts for the same 60 operatives. Hierarchical: 12 supervisors, 3 managers and 1 director give 4 levels and 76 employees. Flat: 6 team leaders and 1 owner give 3 levels and 67 employees, 9 fewer posts." loading="lazy">
+  <figcaption>The same 60 operatives need 76 employees in the hierarchical option and 67 in the flat option.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

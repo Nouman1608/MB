@@ -75,6 +75,12 @@ Embleton Joinery makes made-to-order wooden doors from large timber planks. It i
 
 Unit B costs £4,100 − £2,450 = £1,650 more each month. The owner's customers order by phone and website, so a town-centre shop window adds little. Timber is bulky, so the saving on delivery is real. Local joiners are available near both units. On these figures Unit A is the stronger choice, unless the business relied on passing customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--01-embleton-two-units.webp" width="900" height="870" alt="Two bars: Unit A costs 2,200 pounds rent plus 250 delivery, 2,450 pounds; Unit B 3,400 plus 700, 4,100 pounds. Unit B costs 1,650 pounds more a month, so Unit A is stronger because timber is bulky and customers order by phone and web." loading="lazy">
+  <figcaption>Unit B costs £1,650 a month more, with little benefit for a made-to-order business.</figcaption>
+</figure>
+
+
 ### Worked example: when a dearer site pays for itself
 
 Hartwhistle Café is choosing between two sites. Site 1 has 1,200 passers-by a day and a rent of £2,800 a month. Site 2 has 500 passers-by a day and a rent of £900 a month. The owner estimates that 6% of passers-by buy, spending £7 on average, and trades 26 days a month. This is a simplified comparison that ignores all other costs.
@@ -85,11 +91,28 @@ Site 2: 500 × 0.06 = 30 customers a day. 30 × £7 = £210 a day. £210 × 26 =
 
 Site 1 has the higher rent but leaves £10,304 − £4,560 = £5,744 more. Proximity to customers outweighs the higher cost here. The estimate of 6% is a forecast, and the conclusion depends on it. If the café at Site 1 faced three direct competitors within 200 metres, the 6% might fall, which is where the competition factor enters your evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--01-location-cafe-sites.webp" width="900" height="820" alt="Two stacked bars of monthly takings. Site 1: 1,200 passers-by a day, takings 13,104 pounds, rent 2,800 pounds, leaving 10,304 pounds. Site 2: 500 passers-by, takings 5,460 pounds, rent 900 pounds, leaving 4,560 pounds. Site 1 leaves 5,744 pounds more." loading="lazy">
+  <figcaption>The higher-rent site leaves £5,744 a month more because more passers-by buy (a 6% forecast).</figcaption>
+</figure>
+
+
 ### Applying location factors in an exam answer
 
 Weak answers list factors. Strong answers follow a chain: factor, effect on this business, consequence for costs or sales. For example: "The bakery needs fresh flour weekly (raw materials), so a site near the mill cuts transport costs, which lowers its variable costs per loaf."
 
 When asked to evaluate or justify a location, weigh at least two factors against each other, then decide which matters most for this business and why. State what would change your mind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
 
 ## Part 2: Business planning (3.1.6)
 
@@ -101,6 +124,12 @@ A business plan is a written document setting out what the business intends to d
 2. **Raising finance.** Banks and investors want evidence that the owner has thought it through and can repay or give a return. A plan is the main evidence a start-up can offer, because it has no trading history.
 3. **Setting objectives.** The plan states where the business wants to be, for example a number of customers or a level of sales in the first year. Objectives give the owner something to measure progress against.
 4. **Detailing how functions will be organised.** The plan explains who will do operations, marketing, finance and human resources, and how they will fit together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
 
 ### Sections of a plan
 
@@ -151,6 +180,12 @@ These are the terms the specification names. The formulas below are the standard
 
 Total variable cost = variable cost per unit × quantity. Fixed costs stay the same however many units are made, so only variable costs rise with output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+
 ### Worked example: profit and loss
 
 Vinterbrook Candles sells hand-poured candles at £14 each. Variable cost per candle (wax, jar, wick, label) is £5.50. Monthly fixed costs are £2,100, made up of £1,200 workshop rent, £150 insurance, £90 website fees and £660 other overheads.
@@ -170,6 +205,12 @@ If it sells only 200 candles:
 If it sells 500 candles, revenue is £7,000, total costs are £2,750 + £2,100 = £4,850, and profit is £2,150.
 
 Notice that the fixed costs did not change in any of these. Revenue rose by £1,400 for each extra 100 candles and total costs rose by only £550, so profit rose by £850 each time. This is why a forecast of sales is the most important number in a plan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-candles-profit-loss.webp" width="900" height="790" alt="Revenue and total cost lines against candles sold. At 200 candles there is a loss of 400 pounds, at 400 a profit of 1,300 pounds and at 500 a profit of 2,150 pounds. Fixed costs of 2,100 pounds stay the same throughout." loading="lazy">
+  <figcaption>Fixed costs stay constant, so each extra 100 candles adds £850 profit.</figcaption>
+</figure>
+
 
 ## Common errors
 

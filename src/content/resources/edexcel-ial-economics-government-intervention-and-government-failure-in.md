@@ -68,6 +68,22 @@ To describe the diagram, put price up the side and quantity along the bottom. Th
 
 **Evaluation points:** the tax is only right if the government knows the external cost; demand for addictive or necessary goods is inelastic, so quantity may fall little; low-income households may pay a larger share of income; revenue can fund other policies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--01-specific-vs-ad-valorem-tax.webp" width="900" height="900" alt="A graph of tax per unit against pre-tax price. A specific tax of 1 cu is a flat line at 1.00; a 25% ad valorem tax rises from the origin to 1.00 at price 4, 1.50 at 6 and 2.00 at 8. They collect the same at price 4 and ad valorem takes more above it." loading="lazy">
+  <figcaption>A specific tax is flat per unit; an ad valorem tax grows with the price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ## 1b: Subsidies
 
 A subsidy is a grant paid to producers for each unit, which cuts their costs, so supply shifts right (or down by the grant). It suits goods with external benefits.
@@ -81,6 +97,17 @@ A subsidy is a grant paid to producers for each unit, which cuts their costs, so
 5. Welfare gain: base (35 - 30) = 5, height 1 at Q = 30 (benefit 6, cost 5), so 0.5 x 5 x 1 = 2.5 (thousand cu).
 
 The 35 spent is mostly a transfer from taxpayers; the net gain is the 2.5, less any cost of raising the funds. Evaluation: the subsidy must be funded, firms may pocket part of it, and withdrawing it later is politically hard.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--09-bus-subsidy-welfare-gain.webp" width="900" height="880" alt="Demand D, supply S, marginal social benefit MSB (demand plus 1) and subsidised supply S1. The market is at 30 thousand journeys, the optimum and subsidised equilibrium at 35. The gold triangle between 30 and 35, height 1, has area 0.5 x 5 x 1 = 2.5." loading="lazy">
+  <figcaption>The welfare gain of the subsidy is the small triangle between market and optimum quantity, 2.5 thousand cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## 1b: Maximum and minimum prices
 
@@ -106,6 +133,27 @@ Likely consequences: rationing by queue or connections, lower quality, less new 
 
 Evaluation: the floor helps farmers who are efficient and those who are not; it keeps resources in a sector that may be oversized.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--02-rent-cap-shortage.webp" width="900" height="1000" alt="Flats market with demand Qd = 1,000 - 2R and supply Qs = 3R - 500. A cap at 250 gives 250 flats supplied against 500 demanded, a shortage of 250; tenants would pay 375 at 250 flats, a gap of 125. The welfare loss is 9,375 cu a month." loading="lazy">
+  <figcaption>A cap below equilibrium rent leaves 250 flats short and a 9,375 cu monthly welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--03-minimum-price-surplus.webp" width="900" height="970" alt="Wheat market with Qd = 600 - 10P and Qs = 20P - 300. A minimum price of 36 gives demand 240 and supply 420, a surplus of 180 tonnes. Buying the surplus costs 180 x 36 = 6,480; farmers receive 15,120 against 9,000 before." loading="lazy">
+  <figcaption>A price floor of 36 creates a surplus of 180 tonnes that costs 6,480 to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
+</figure>
+
+
 ## 1b: Tradeable pollution permits
 
 The government sets a cap on total emissions and issues permits. Firms can buy and sell them. Firms with low abatement costs cut more and sell spare permits; those with high costs buy.
@@ -117,6 +165,12 @@ The government sets a cap on total emissions and issues permits. Firms can buy a
 3. At a permit price of 35, J sells 25 permits for 875 and its net cost is 125. K pays 875 against 1,250 of abatement. Each gains 375. Any price between 20 and 50 benefits both.
 
 The cap fixes the quantity of pollution; the permit price is found by the market. Evaluation: set the cap too high and the scheme achieves little; monitoring is needed; large firms may hold permits to block rivals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--04-tradeable-permits-saving.webp" width="900" height="1040" alt="Two stacked bars of abatement cost under a 150-tonne cap. Without trading J spends 500 and K 1,250, total 1,750. With trading J cuts 50 tonnes for 1,000 and K cuts none, total 1,000, a saving of 750." loading="lazy">
+  <figcaption>Permits let the firm with cheaper abatement do the cutting, saving 750 for the same cap.</figcaption>
+</figure>
+
 
 ## 1b: Property rights, state provision, regulation and information
 
@@ -160,6 +214,17 @@ Even a correct tax can fail on cost. If the tax of 1.5 removes a welfare loss of
 - **Unintended consequences:** rent caps cut new building; guaranteed prices create surpluses; a tax on one good moves spending to an untaxed substitute.
 - **Excessive administrative costs:** collecting, inspecting, enforcing and paying out use resources that could produce something else.
 - **Moral hazard:** protection changes behaviour. If government covers all flood losses, farmers take less care or build on risky land, so claims rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--05-government-failure-tax-too-high.webp" width="900" height="1040" alt="Fizzy drink market where the social optimum is 25 thousand litres. With no tax the welfare loss is 11.25. A tax set at 3.5 instead of 1.5 cuts output to 5, giving a loss of 20, so the net welfare loss from intervening is 8.75." loading="lazy">
+  <figcaption>A mis-set tax can leave society worse off than doing nothing, which is government failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--10-tax-admin-cost-net-loss.webp" width="900" height="820" alt="A waterfall: a correct tax removes a welfare loss of 11.25 but costs 12 to collect and police, so the net effect is minus 0.75 (thousand cu)." loading="lazy">
+  <figcaption>Even a well-set tax is government failure if administration costs more than the welfare it recovers.</figcaption>
+</figure>
+
 
 ## Common errors
 

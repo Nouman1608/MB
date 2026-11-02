@@ -64,6 +64,17 @@ The rule behind the table: a receivables control account behaves like a customer
 5. Total the larger side and find the balancing figure on the other side. That is the closing balance of normal balances.
 6. Compare it with the total of the list of balances taken from the ledger and explain any difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--04-mp16-control-sources.webp" width="900" height="1006" alt="Each control account line is a total from a book of prime entry: sales journal, returns journals, purchases journal, cash book, general journal or bank statement. The account is a memorandum record outside the double entry and excludes cash sales and cash purchases." loading="lazy">
+  <figcaption>Every line is a total taken from a book of prime entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--07-un16-opposite-balances.webp" width="900" height="1054" alt="Credit balances in the receivables ledger (340 closing on the debit side, 260 opening on the credit side) and debit balances in the payables ledger (150 opening on the debit side, 210 closing on the credit side) sit opposite to the normal side of each control account." loading="lazy">
+  <figcaption>Overpayments and returns create balances on the opposite side.</figcaption>
+</figure>
+
+
 ## Small worked reminder: Ravensby Toys
 
 Receivables: opening debit balances 7,200; credit sales 15,800; money received 14,100; sales returns 650; cash discount allowed 190. There were no other items.
@@ -102,12 +113,34 @@ If the closing balance and the list of balances differ:
 
 Agreement does not prove the ledger is correct: for example, a receipt posted to the wrong customer leaves the totals unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--05-un16-missing-credit-sales.webp" width="900" height="1060" alt="The Crestfield receivables control account with credit sales hidden. The credit side adds to 81,130, the other debit items add to 19,780, so credit sales are the balancing figure of 61,350 dollars." loading="lazy">
+  <figcaption>With every other item known, credit sales is the balancing figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-un16-check-limits.webp" width="900" height="914" alt="A 250 dollar gap between the control account (21,110) and the list (20,860) shows an error exists. A receipt of 300 posted to the wrong customer leaves the total unchanged, so the two still agree." loading="lazy">
+  <figcaption>Agreement helps but does not prove every account is right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
+
 ## Why a business keeps control accounts
 
 - They give the total owed by customers, or owed to suppliers, without adding every personal account.
 - They provide a check on the ledger: the closing balance should agree with the list of individual balances.
 - They narrow the search when the two disagree, because the difference is known.
 - They can give a missing figure, such as credit sales, when records are incomplete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
 
 ## Layout to learn
 
@@ -135,6 +168,12 @@ Balance c/d (credit balances)
 ## Contra entry journal
 
 For a contra of 940, the general journal shows: debit the trader's account in the payables ledger 940, credit the same trader's account in the receivables ledger 940. The narrative should say that it is a set-off between ledgers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-mp16-contra.webp" width="900" height="770" alt="Norbury owes 700 and is owed 1,150, so 700 is set off. It is credited in the receivables control account and debited in the payables control account, and 450 is still owed." loading="lazy">
+  <figcaption>A contra reduces both control accounts by the same amount, so enter it in both.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -172,6 +211,12 @@ For a contra of 940, the general journal shows: debit the trader's account in th
 - Adding the discount to the wrong side.
 - Writing a balancing figure without totalling both sides.
 - Stating that agreement between the control account and the list proves the ledger is correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--05-mp16-payables-control.webp" width="900" height="848" alt="A T-account for Selwick Hardware: items that reduce what is owed on the debit side, items that increase it on the credit side, balancing figure 14,645 dollars, totals 51,195 dollars." loading="lazy">
+  <figcaption>The payables control account is laid out on the opposite sides to the receivables account.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

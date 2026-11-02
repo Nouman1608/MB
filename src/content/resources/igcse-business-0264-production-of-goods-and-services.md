@@ -54,6 +54,12 @@ Output rose by 11.4%, but productivity rose by only 8.3%, because the workforce 
 
 Productivity can be measured per hour instead of per employee. The method is the same: divide output by the labour input you are given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--06-output-vs-productivity.webp" width="900" height="890" alt="March: 35 workers made 4,200 frames (120 each). April: 36 workers made 4,680 (130 each). Output rose 11.4% but productivity only 8.3%." loading="lazy">
+  <figcaption>Productivity rises less than output when the workforce also grows.</figcaption>
+</figure>
+
+
 ## Why efficiency is important
 
 **Efficiency** means using resources, such as labour, materials and energy, so that little is wasted and each unit of output costs less. In answers, link it to the business's results:
@@ -64,6 +70,12 @@ Productivity can be measured per hour instead of per employee. The method is the
 - **Faster delivery.** Smoother processes mean customers get products sooner, which supports customer satisfaction.
 
 A strong explanation has a chain: efficiency rises, so unit costs fall, so the business can lower its price or raise its profit. Do not stop at "it saves money".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--01-efficiency-unit-cost.webp" width="900" height="850" alt="Three bars show the cost and profit in one unit. Before efficiency the price is 100: cost 70 and profit 30. After efficiency cost falls to 55. Keeping the price gives profit 45; cutting the price to 85 keeps profit at 30 and makes the business cheaper than rivals. Numbers are illustrative." loading="lazy">
+  <figcaption>Efficiency lowers cost per unit, so the business can keep the price and earn more or cut the price and compete (illustrative numbers).</figcaption>
+</figure>
+
 
 ## How to increase efficiency
 
@@ -81,6 +93,12 @@ The syllabus names two routes by example: automation and technology, and improvi
 
 The course pays for itself in about eight to nine weeks, if the gains last. A good evaluation points out that last condition: the benefit depends on workers staying and keeping the new habits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--02-training-payback.webp" width="900" height="850" alt="A line graph shows extra benefit building by 720 pounds a week after a 6,000 pound training course for 20 packers. The line reaches the 6,000 pound course cost at 8.3 weeks, the payback time, if the gains last." loading="lazy">
+  <figcaption>Tarnbury earns £720 extra a week, so the £6,000 course is repaid in about 8.3 weeks.</figcaption>
+</figure>
+
+
 ## Lean production
 
 **Lean production** means producing goods or services with as little waste as possible, while keeping quality high. Waste includes unused inventory, idle workers, waiting time, faulty products and unnecessary movement. The syllabus names two ways to achieve it.
@@ -96,6 +114,12 @@ With JIT, a business keeps very little inventory. Materials arrive from supplier
 | Less risk of stock going out of date or being damaged | Orders may be smaller and dearer, with fewer bulk discounts |
 | Cash can be used elsewhere | Hard to meet a sudden rise in demand from stock |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+
 ### Kaizen
 
 **Kaizen** means continuous improvement. Every worker, not just managers, is expected to suggest small changes all the time, often through teams that meet to solve problems. Many small improvements add up to lower costs and higher quality.
@@ -108,6 +132,12 @@ With JIT, a business keeps very little inventory. Materials arrive from supplier
 | Quality improves | Needs commitment from all levels to keep going |
 
 **Advantages of lean production overall:** lower costs, less waste, higher quality and more flexible production. **Disadvantages overall:** heavy reliance on suppliers, risk of lost sales if stock runs out, and the effort of changing how people work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--03-kaizen-waste.webp" width="900" height="880" alt="Five bars, one for each waste type that lean production targets: unused inventory, idle workers, waiting time, faulty products and unnecessary movement. Each bar shows part of the waste removed through small, continuous improvements by all workers. Lengths are illustrative." loading="lazy">
+  <figcaption>Lean production targets five kinds of waste; Kaizen removes them through many small improvements.</figcaption>
+</figure>
+
 
 ## Why businesses hold inventory
 
@@ -128,6 +158,12 @@ Inventory (also called stock) means raw materials, work in progress and finished
 - **Production method.** A business using JIT holds very little inventory. One using batch production may hold more.
 
 **Worked example 3.** Tarnbury Bakehouse bakes cream cakes with a two-day shelf life, and its supplier of cream delivers within hours. Applying the factors: the product is perishable, delivery is quick and reliable, and demand is easy to forecast from daily sales. The bakehouse should hold small amounts of inventory and order often. If its supplier became unreliable, it might hold slightly more cream but must still avoid waste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--04-inventory-factors.webp" width="900" height="900" alt="Three scales run from little stock to lots of stock. Perishable cream cakes, delivery within hours and easy-to-forecast demand all put Tarnbury at the little-stock end, so it holds small amounts and orders often. An unreliable supplier would move the delivery marker slightly towards more stock." loading="lazy">
+  <figcaption>Perishable cakes, quick delivery and predictable demand all point to small stock and frequent orders.</figcaption>
+</figure>
+
 
 ## The main methods of production
 
@@ -162,6 +198,17 @@ Products are made continuously on a production line, and each stage is done in s
 
 **Services.** Methods apply to services as well: a tailor works to individual order (job), a cleaning firm treats offices in a scheduled round (batch-like), and an automated car wash processes cars in sequence (flow-like).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--07-job-batch-flow.webp" width="900" height="1000" alt="Job production makes one item to order at the highest cost per unit. Batch production makes groups with changeovers between them at medium cost. Flow production makes identical items continuously at the lowest cost per unit." loading="lazy">
+  <figcaption>Job, batch and flow production compared by quantity and cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+
 ## Recommend and justify a production method
 
 When a question gives you a business and asks for a recommendation, use this approach:
@@ -177,6 +224,12 @@ When a question gives you a business and asks for a recommendation, use this app
 Recommendation: stay with job production. Each table differs, so a fixed production line could not produce them. With only six a month the cost of setting up a line could not be spread over enough output. Customers pay a premium for a bespoke piece, and flow production would remove that selling point. Batch production would suit only if Penmorrow introduced a standard range with steady demand. On the data given, job production is the better fit.
 
 Notice that the answer uses three facts from the case (six a month, customer measurements, £4,000 price). An answer without them is generic and scores poorly on application.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-production-of-goods-and-services--05-penmorrow-method.webp" width="900" height="840" alt="Three case facts are linked to three reasons against flow production: six tables a month cannot spread set-up cost, each table is made to measure so a fixed line cannot produce it, and flow would remove the bespoke selling point of tables sold for about 4,000 pounds. The recommendation is to stay with job production." loading="lazy">
+  <figcaption>Use case facts (quantity, product, price) to justify the recommended method and reject the others.</figcaption>
+</figure>
+
 
 ## Common errors
 

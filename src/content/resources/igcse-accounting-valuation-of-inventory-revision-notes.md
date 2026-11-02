@@ -74,6 +74,12 @@ Amounts are in dollars ($).
 | Mark-up | Profit as a percentage of cost |
 | Margin | Profit as a percentage of selling price |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-nrv-per-unit.webp" width="900" height="1045" alt="Three Beresford Cycles items, per unit in dollars. Each bar is the selling price split into NRV and costs still to pay, with a marker for cost. Helmets: NRV 31 is above cost 22, so use cost. Child bike K: 150 less 35 gives NRV 115, below cost 140, so use NRV. Frames: 340 less 45 gives 295, below cost 310, so use NRV." loading="lazy">
+  <figcaption>NRV is selling price less costs still to pay, and the lower of cost and NRV is used.</figcaption>
+</figure>
+
+
 ## Method: valuing inventory
 
 1. List each item (or group of identical items) with its units.
@@ -86,6 +92,12 @@ Amounts are in dollars ($).
 **Why:** prudence says expected losses are recognised now. Realisation and
 historic cost say expected profits are not recognised until the goods are
 sold, so inventory is never shown above cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--02-inv-item-by-item.webp" width="900" height="1044" alt="Paired bars compare whole-line cost and NRV for four items; the lower is used, giving 660, 1,380, 450 and 2,360. Total cost is 5,270, total NRV 5,220, and item by item 4,850, which is 370 below total NRV." loading="lazy">
+  <figcaption>Comparing totals hides losses; compare each item.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -102,6 +114,12 @@ Lower          32 (NRV, not 34)
 Value          60 × 32              = 1,920
 Write-down     60 × (34 − 32)       =   120
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
 
 ## Method: adjusting a count taken on another date
 
@@ -134,6 +152,17 @@ Inventory at 31 December  9,860 + 1,740 − 2,240 = 9,360
 **Other corrections to a draft count.** Goods already sold and invoiced:
 deduct. Goods owned but not counted: add. Counted twice: deduct one count.
 Damaged or obsolete goods: reduce to NRV if that is lower than cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--02-inv-count-after-year-end.webp" width="900" height="850" alt="A waterfall starts from the 5 January count of 23,640. It subtracts purchases received (3,150), adds goods returned to the supplier (420) and the cost of goods sold (3,724, which is 5,320 at 70 percent), and subtracts customer returns at cost (245) to reach 24,389 at 31 December." loading="lazy">
+  <figcaption>Work back from the count date to the year end, converting sales to cost first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--03-inv-correct-draft-count.webp" width="900" height="750" alt="A waterfall starts at the draft closing inventory of 41,820. It deducts 2,150 for goods already invoiced but still in the warehouse, deducts 650 for damaged goods written down from cost 1,800 to net realisable value 1,150, and adds 960 for goods that arrived but were not counted, giving 39,980." loading="lazy">
+  <figcaption>Correct a draft inventory figure one problem at a time.</figcaption>
+</figure>
+
 
 ## Method: effect of an incorrect valuation
 
@@ -171,6 +200,12 @@ inventory (an increase in closing inventory increases profit).
   the following year's opening inventory.
 - **Profit versus equity:** both are wrong at the end of the first year, but
   at the end of the second year only the profits are wrong, not equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-error-two-years.webp" width="900" height="990" alt="Closing inventory of 15,000 was recorded instead of 18,000 in Year 1 and becomes Year 2 opening inventory. Year 1 profit is recorded as 17,000 against a correct 20,000 (understated by 3,000); Year 2 is recorded as 25,000 against a correct 22,000 (overstated by 3,000). Two-year profit is 42,000 and Year 2 equity is 77,000 either way." loading="lazy">
+  <figcaption>A closing inventory error moves profit between two years and then cancels.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

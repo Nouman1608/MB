@@ -63,6 +63,27 @@ a = 260 / 1300 = 0.20 m/s²
 - Result: acceleration is proportional to resultant force, and F ÷ a gives the mass of the system.
 - Scatter in the F ÷ a column shows measurement uncertainty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--01-force-accel-data.webp" width="900" height="920" alt="Graph of acceleration against force for the five trolley readings in the lesson: points on a straight line through the origin. F divided by a is about 0.40 kg each time, the mass of the system." loading="lazy">
+  <figcaption>Acceleration is proportional to force, and F ÷ a gives the system mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--02-football-kick.webp" width="900" height="970" alt="A 0.45 kg football at rest is kicked and leaves at 22 m/s after 0.015 s of contact. Change in momentum is 9.9 kg m/s, so force = 9.9 / 0.015 = 660 N." loading="lazy">
+  <figcaption>Force equals change in momentum divided by contact time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--05-impulse-force-time.webp" width="900" height="940" alt="Two force-time graphs with the same momentum change of 900 kg m/s for a 60 kg person stopping from 15 m/s. A 0.05 s stop needs 18000 N; a 0.2 s airbag stop needs 4500 N. Both areas are 900 N s." loading="lazy">
+  <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
+</figure>
+
+
 ## Inertia and inertial mass
 
 - **Inertia**: a measure of how difficult it is to change the velocity of an object.
@@ -75,6 +96,12 @@ a = 260 / 1300 = 0.20 m/s²
 | Cart B | 24 N | 0.60 m/s² | 40 kg |
 
 Cart B has more inertia. It is harder to speed up, slow down or turn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--01-inertial-mass-ab.webp" width="900" height="790" alt="The same 20 N force acts on trolley A and trolley B. A accelerates at 4.0 m/s2 so its inertial mass is 20 / 4.0 = 5.0 kg; B accelerates at 0.80 m/s2 so its mass is 25 kg. B has five times the inertial mass, so more inertia and is harder to accelerate." loading="lazy">
+  <figcaption>The same force gives the larger-mass trolley the smaller acceleration.</figcaption>
+</figure>
+
 
 ## Momentum and collisions
 
@@ -96,6 +123,27 @@ Cart B has more inertia. It is harder to speed up, slow down or turn.
 | Bounce apart | Before: sum of p. After: sum of p. Solve for the unknown velocity | Include signs |
 
 The water rocket: the water goes down with the same momentum as the rocket gains going up. Light gates, weights and trolleys can measure momentum before and after collisions (PAG P3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--02-bounce-apart.webp" width="900" height="1010" alt="A 2.0 kg trolley at 1.5 m/s hits a stationary 1.0 kg trolley, which leaves at 2.0 m/s. Momentum bars show 3.0 kg m/s before and 1.0 + 2.0 after, so the first trolley moves on at 0.50 m/s." loading="lazy">
+  <figcaption>Total momentum is conserved when objects bounce apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--01-momentum-vector.webp" width="900" height="720" alt="A 1200 kg car at 15 m/s to the right has momentum 18000 kg m/s to the right, drawn as a long arrow. The same car going left has velocity and momentum with a minus sign." loading="lazy">
+  <figcaption>Momentum p = mv is a vector: it points the way the object moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--03-explosion.webp" width="900" height="820" alt="A 5 kg object at rest splits into 2 kg at 6 m/s and 3 kg at minus 4 m/s. The +12 and -12 momentum bars cancel to a total of zero." loading="lazy">
+  <figcaption>After an explosion the pieces move in opposite directions so total momentum is still zero.</figcaption>
+</figure>
+
 
 ## More worked reminders
 
@@ -139,6 +187,22 @@ F = ma and a = (v - u) / t combine to give F = (m v - m u) / t. So force = chang
 | Speed and velocity | Speed has size only. Velocity has size and direction. |
 | Force and momentum | Force changes momentum. Momentum is mass × velocity. |
 | Momentum before and after | The total is equal. One object's momentum can change. |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--03-string-breaks.webp" width="900" height="880" alt="A bung whirled on a string is pulled inwards by the string. When the string breaks at the right of the circle there is no resultant force, so the bung moves off in a straight line at constant velocity." loading="lazy">
+  <figcaption>With no force the bung travels in a straight line along the tangent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--03-roundabout-velocity.webp" width="900" height="870" alt="A car circles a roundabout at 8 m/s. At the start it heads north, then east after a quarter turn, south after a half turn and west after three quarters. The speed never changes but the velocity does, so the car accelerates." loading="lazy">
+  <figcaption>Constant speed, changing direction: the velocity changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

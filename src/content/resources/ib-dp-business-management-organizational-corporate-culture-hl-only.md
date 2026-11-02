@@ -55,6 +55,12 @@ Why it matters to a business:
 
 A **strong culture** is one that most employees share and act on. It brings consistency, but it can also make a firm slow to adapt. A **subculture** is a distinct set of values within one part of the business, for example the sales team versus the engineers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--06-culture-iceberg.webp" width="900" height="1000" alt="An iceberg: above the waterline are dress and job titles, office layout, rituals and stories; below are the shared values, such as whether mistakes are punished, whether rank matters and whether staff are consulted." loading="lazy">
+  <figcaption>Culture has a visible layer and a larger hidden layer of values.</figcaption>
+</figure>
+
+
 ## Handy's Gods of management
 
 Charles Handy described four types of culture and gave each the name of a Greek god. The guide gives this as an example, so you may meet other classifications, but this is the one to know well.
@@ -87,6 +93,12 @@ Culture is not good or bad in itself. Judge the fit.
 - A very small business with a strong founder can run on Zeus, but it becomes risky as the business grows.
 - Highly skilled individual professionals may expect Dionysus-style freedom.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--07-handy-gods.webp" width="900" height="1010" alt="Zeus, power culture, is a web with one leader at the centre. Apollo, role culture, is a temple of pillars for rules and defined roles. Athena, task culture, is a net of project teams. Dionysus, person culture, is a loose group of skilled individuals." loading="lazy">
+  <figcaption>Handy’s four cultures drawn as four simple structures.</figcaption>
+</figure>
+
+
 ## Hofstede's cultural dimensions (HL only tool)
 
 The guide does not list the dimensions, so this is the standard form. Hofstede compared national cultures on a number of dimensions, including power distance (how far people accept unequal power), individualism versus collectivism, uncertainty avoidance (comfort with ambiguity), masculinity versus femininity, and long-term orientation. Later work added indulgence versus restraint. It is about national culture, not company culture, but it is useful when a firm expands into another country or merges across borders.
@@ -105,6 +117,12 @@ Kestrel Row Foods (invented, home country) plans to buy a small producer abroad.
 The mean gap is (35 + 50 + 45 + 5) / 4 = 135 / 4 = **33.75**. The largest gap is individualism (50). Kestrel Row's staff are used to hierarchy, group loyalty and detailed rules. The acquired firm's staff expect to make personal decisions with less supervision. Likely friction: the acquired staff may resist rigid approval chains, while Kestrel Row managers may see the new team as undisciplined. The small gap in long-term orientation suggests planning horizons are not a problem.
 
 Limits of the tool: scores describe averages for countries, not individuals; firms and teams vary; and scores can age. Use them as a starting hypothesis, then check with evidence from the case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--08-hofstede-gap.webp" width="900" height="1035" alt="Dot chart of four dimensions with invented scores for Kestrel Row and the acquired firm: gaps of 35, 50, 45 and 5. Individualism is the largest gap. The mean gap is 33.75." loading="lazy">
+  <figcaption>The gap on each dimension shows where friction is most likely.</figcaption>
+</figure>
+
 
 ## Cultural clashes when organizations change
 
@@ -130,6 +148,17 @@ Staff turnover rate is the standard form: leavers in the period divided by avera
 
 If a new chief executive replaces an autocratic leader with a democratic one, staff used to clear orders may feel unsure what is expected. Moving the other way, from a participative style to tight control, can feel like a loss of trust and fall hard on motivation. See [leadership and management](/resources/ib-dp-business-management-leadership-and-management/) for the styles. The same effect arises when a new manager is promoted from outside and does things differently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--09-merger-clash.webp" width="900" height="960" alt="Bar charts with invented figures: 90% of Lumen staff agree spending needs sign-off against 30% of Northgate staff; staff turnover rose from 4.0% to 11.25% after the merger. A rise is evidence of a clash but not proof." loading="lazy">
+  <figcaption>A clash shows up in survey differences and in rising staff turnover.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
+
 ## Managing a clash
 
 Options a business can use:
@@ -144,6 +173,12 @@ Options a business can use:
 **Force field analysis** (HL only, a suggested Unit 2 tool) fits here. List driving forces (cost savings, a charismatic leader, clear benefits for staff) and restraining forces (loyalty to the old way, fear of job loss, different pay systems). Weighing the two sides shows whether the change will go ahead and which restraining forces to reduce first.
 
 To evaluate, weigh the points. A strong, consistent culture can be an asset, but changing it quickly can cost key staff. A slow integration protects morale but delays savings. Judgement depends on how large the gap is, how skilled the staff are (and so how easy they are to replace), and how urgent the change is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--10-force-field-merger.webp" width="900" height="900" alt="Driving forces (cost savings, a charismatic leader, clear benefits for staff) push towards the merger; restraining forces (loyalty to the old way, fear of job loss, different pay systems) push against it. The lesson gives no scores, so arrows are equal." loading="lazy">
+  <figcaption>Weigh driving against restraining forces, then reduce the restraining forces first.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -48,6 +48,17 @@ Links: [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting/), [p
 
 Reminder: Oldacre Cycles' trade payables account has credits of 18,900 and debits of 14,250. The balance is 4,650, shown on the debit side as carried down and brought down on the credit side. It goes in the **credit** column.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--11-tb-build.webp" width="900" height="1010" alt="The Calder Vane Tiles trial balance with debit and credit columns each totalling 222,580 dollars. Debits are assets 128,000 and expenses and drawings 94,580; credits are income 104,990, liabilities 33,720 and capital 83,870, the balancing figure. An overdraft is a credit." loading="lazy">
+  <figcaption>Assets and expenses are debits; income, liabilities and capital are credits, and the two columns balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--11-ial-correcting-journals.webp" width="900" height="1038" alt="Four correcting journals in dollars: (a) Dr Repairs 2,250 Cr Premises; (b) Dr Wickham Ltd 1,380 Cr Dobbin Ltd; (d) Dr Purchases 270 Cr Trade payables; (e) Dr Purchases 1,960 Cr Trade payables. Suspense is not used." loading="lazy">
+  <figcaption>Correcting journals (a), (b), (d) and (e) each debit and credit equal amounts.</figcaption>
+</figure>
+
+
 ## 1.2.2 Limitations
 
 An agreeing trial balance does **not** prove the books are right. It misses:
@@ -60,6 +71,12 @@ An agreeing trial balance does **not** prove the books are right. It misses:
 - errors that cancel (compensating)
 
 It also does not give profit or the financial position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## 1.2.5 Which errors affect the trial balance
 
@@ -77,6 +94,17 @@ Memory aid: if both sides of the entry went somewhere for the same amount, the t
 **Difference clues.** Divisible by 9 suggests transposition (387 is 9 × 43, so a single transposition could explain it, though it does not prove it). Equal to half the difference suggests a balance in the wrong column. Equal to a posting suggests a one-sided entry.
 
 **Wrong column reminder.** A discount received of 310 is correct in the ledger but is listed in the debit column of the trial balance. Debits then exceed credits by 620, twice 310. No correcting journal is needed because the ledger is right: move the figure to the credit column.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--02-difference-clues.webp" width="900" height="781" alt="Swapping the middle digits of 3,470 to 3,740 makes a difference of 270, which is 9 times 30. Four clues pair the nature of a trial balance difference with the likely error: a round figure with addition, an amount equal to one entry with partial omission, divisible by 9 with transposition, and the gap between two amounts with unequal posting." loading="lazy">
+  <figcaption>The size of a trial balance difference points to the type of error.</figcaption>
+</figure>
+
 
 ## 1.2.6 Method: correcting journal
 
@@ -112,6 +140,17 @@ Only errors that make the totals disagree pass through suspense. The suspense ac
 | Purchases returns | 240 | | |
 | | **1,500** | | **1,500** |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--12-ial-suspense-615.webp" width="900" height="812" alt="Three one-sided errors explain debits exceeding credits by 615 (620 + 180 - 185). The suspense account debits 620 and 180, credits 615 and 185, totals 800 each side, and closes with no balance." loading="lazy">
+  <figcaption>The three errors clear a 615 suspense credit, leaving the account with no balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
+
 ## 1.2.8 Statement of revised profit
 
 | Correction | Effect on profit |
@@ -123,6 +162,17 @@ Only errors that make the totals disagree pass through suspense. The suspense ac
 | Errors between statement of financial position accounts only | None |
 
 Layout: profit as first calculated, then each adjustment with a plus or minus, then revised profit. Reminder: Oldacre Cycles' profit was 26,480. Rent of 1,500 was understated (−1,500) and purchases returns of 240 were omitted (+240). Revised profit is 26,480 − 1,500 + 240 = **25,220**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--13-ial-revised-profit-steps.webp" width="900" height="962" alt="Profit of 41,350 changes by -2,250, +3,200, -270, -1,960, -185 and +180 to a revised 40,065 dollars. The horizontal axis starts at 38,000." loading="lazy">
+  <figcaption>Each correction moves profit up or down from 41,350 to 40,065.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--04-corrected-profit.webp" width="900" height="838" alt="A horizontal waterfall in pounds starts at draft profit 42,300, adds 400, 270 and 140 for overstated or undercast items, deducts 180 for the missed discount allowed and 860 for van repairs wrongly capitalised, and ends at 42,070. A commission error between two customers leaves profit unchanged." loading="lazy">
+  <figcaption>Corrected profit is draft profit adjusted line by line for each error that touches income or expense.</figcaption>
+</figure>
+
 
 ## 1.2.9 Control accounts: what to correct where
 
@@ -139,6 +189,17 @@ Layout: profit as first calculated, then each adjustment with a plus or minus, t
 Correct each side separately, then check both agree.
 
 **Reminder.** Oldacre Cycles' receivables control account shows 22,500 and its list totals 22,980. The sales day book was under-added by 400 (debit 400) and a contra of 150 was entered in the individual accounts only (credit 150), so the control account becomes 22,500 + 400 − 150 = 22,750. In the list, a credit balance of 115 was shown as a debit, so subtract 230: 22,980 − 230 = 22,750. Both agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--13-control-and-list-fixes.webp" width="900" height="920" alt="Control account 41,430 is corrected by minus 1,000, plus 270, minus 780 and minus 450 to 39,470. The list of balances 39,680 is corrected by plus 90 and minus 300 to 39,470. An invoice posted to the wrong customer needs only a journal." loading="lazy">
+  <figcaption>The control account and the list of balances are corrected separately and end at the same figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
 
 ## Exam routine for an error question
 
@@ -173,6 +234,12 @@ Correct each side separately, then check both agree.
 8. The control account, by crediting 300; the list is unchanged.
 9. The list is overstated by 160, twice 80.
 10. Because the corrections add up to the original difference, which shows all errors are found.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--12-reversal-doubled.webp" width="900" height="900" alt="A cash sale of 1,600 dollars was posted Dr Revenue and Cr Bank. The correcting journal Dr Bank 3,200, Cr Revenue 3,200 cancels the wrong 1,600 entry and posts the right 1,600, leaving net Dr Bank 1,600 and Cr Revenue 1,600." loading="lazy">
+  <figcaption>A complete reversal is corrected with double the original amount.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

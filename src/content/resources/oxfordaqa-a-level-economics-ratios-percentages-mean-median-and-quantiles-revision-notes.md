@@ -60,6 +60,17 @@ Quick-recall notes for quantitative skills QS1 to QS3 in section 3.5 of the Oxfo
 | Quantile position (convention in the study guide) | (n + 1) × fraction; interpolate between neighbours |
 | 90:10 ratio | 90th percentile / 10th percentile |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--07-percentage-changes.webp" width="900" height="1230" alt="100 up 20% then down 20% ends at 96, a 4% fall, because multipliers 1.20 and 0.80 multiply. A rate falling from 8% to 6% is minus 2 percentage points but minus 25% as a change." loading="lazy">
+  <figcaption>Successive percentage changes multiply, and percentage points differ from percentage change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--02-reverse-percentages.webp" width="900" height="810" alt="After a 12% rise the price is 140, which is 112% of the original. Dividing by 1.12 gives 125; taking 12% off 140 wrongly gives 123.2." loading="lazy">
+  <figcaption>Divide by the multiplier, do not take the percentage off the new price.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Sharing in a ratio.** Add parts. Divide. Multiply. Check the shares sum to the total.
@@ -69,6 +80,12 @@ Quick-recall notes for quantitative skills QS1 to QS3 in section 3.5 of the Oxfo
 **Median.** Order the data first. Odd count: the middle one. Even count: average the two middle values.
 
 **Quartiles.** Order the data. Find the position (n + 1) × 0.25, 0.5 and 0.75. When the position falls between two places, add that fraction of the gap between the neighbouring values to the lower one. State the rule you used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--06-sharing-in-a-ratio.webp" width="900" height="930" alt="A 360 budget in the ratio 5:3:1 is nine parts of 40, giving 200, 120 and 40. Exports of 48 and imports of 60 simplify to 4:5, so exports are 0.8 of imports." loading="lazy">
+  <figcaption>Add the parts, find one part, then multiply; ratios and fractions are two views of the same split.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -92,6 +109,22 @@ Pay 10 (3 workers), 20 (2), 50 (1) -> (30 + 40 + 50) / 6 = 20
 - **Share versus level.** A quintile share says how income is divided, not how large it is.
 - **Quartile versus quintile.** Quartiles cut into four groups, quintiles into five.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--08-mean-or-median.webp" width="900" height="930" alt="Nine household incomes in order; the median is 18 but the single income of 95 pulls the mean up to 26. Without it the mean is 17.4 and the median 17." loading="lazy">
+  <figcaption>One extreme value moves the mean far more than the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--09-quartiles-iqr.webp" width="900" height="820" alt="Eleven ordered incomes with positions 1 to 11. Q1 is at position 3 (11), the median at position 6 (18) and Q3 at position 9 (30), so the IQR is 19. The mean of 28.55 is well above the median." loading="lazy">
+  <figcaption>Quartiles sit at position (n + 1) x fraction, and the IQR ignores extreme values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--10-quintile-shares.webp" width="900" height="790" alt="Income shares of five equal groups of people: 5%, 9%, 14%, 22% and 50%, totalling 100%. The top fifth gets ten times the bottom fifth." loading="lazy">
+  <figcaption>Quintile shares and ratios describe spread but not the level of income.</figcaption>
+</figure>
+
+
 ## Worked chain for a data question
 
 A table shows monthly pay in Country D's capital region and in its rural region (invented). The capital has a mean of 900 and a median of 700. The rural region has a mean of 520 and a median of 500.
@@ -102,6 +135,12 @@ Rural:   mean - median = 520 - 500 = 20;  mean / median = 1.04
 ```
 
 Step 1: the capital's mean is 29% above its median, so a few high earners are raising it. Step 2: the rural mean is only 4% above its median, so pay there is spread more evenly. Step 3: the mean pay gap between regions is (900 − 520) / 520 = 73%, while the median gap is (700 − 500) / 500 = 40%. Step 4: the mean exaggerates the gap for the typical worker. Step 5: neither figure shows the very lowest paid, which needs a low percentile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--03-frequency-table-mean-median.webp" width="900" height="880" alt="Twenty workers in pay order with the 10th and 11th (both 50) highlighted, and a pay line with counts 8, 6, 4 and 2 at 40, 50, 60 and 150. The median marker is at 50 and the mean at 58." loading="lazy">
+  <figcaption>The two high earners pull the mean (58) above the median (50).</figcaption>
+</figure>
+
 
 ## Using the measures in economics
 
@@ -156,6 +195,12 @@ Step 1: the capital's mean is 29% above its median, so a few high earners are ra
 - Giving an answer with no working, so no method is on show.
 - Calculating well but not saying what the figure means for the economic question.
 - Using the mean to describe "typical" income when the data are skewed, with no comment on the skew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--04-interpolated-quantiles.webp" width="900" height="900" alt="Eight ordered values numbered 1 to 8 with arrows at positions 2.25, 4.5 and 6.75 giving Q1 = 25.5, median = 33.5 and Q3 = 49, so IQR = 23.5." loading="lazy">
+  <figcaption>With n + 1 = 9, quantile positions fall between values and are interpolated.</figcaption>
+</figure>
+
 
 ## Next steps
 

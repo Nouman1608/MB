@@ -85,6 +85,12 @@ A **stakeholder** is any person or group with an interest in the business. Each 
 
 Stakeholder interests often **conflict**. The owner gains from lower wage costs; the employees lose. Spotting the conflict, and saying which group the decision favours, is what turns a description into analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--07-cafe-closure.webp" width="900" height="1060" alt="A waterfall for the café: gross profit 54,000 less wages 46,000 leaves 8,000; less apportioned overheads of 12,600 gives a 4,600 loss on paper. Closing it leaves the 63,000 overheads in place, so total profit falls from 53,000 to 45,000." loading="lazy">
+  <figcaption>A department that makes a loss after apportioned overheads can still add to total profit.</figcaption>
+</figure>
+
+
 ## Worked example 1: closing a department
 
 Farida Lowe owns Ashdene Home Store, which has three departments. Its departmental statement of profit or loss for the year is below (all figures in $). General overheads of 63,000 have been apportioned by floor area: Garden 40%, Kitchenware 40%, Café 20%.
@@ -132,6 +138,12 @@ Ethical issues arise in two places.
 
 If asked to do something unethical, an accountant should explain the correct treatment, refuse to record misleading figures, keep a written note, and raise the issue with someone independent if pressure continues.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
+  <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
+</figure>
+
+
 ## Worked example 2: pressure to raise profit
 
 Callum Reyes owns Northgate Tiles. Draft profit for the year is 41,600 on revenue of 520,000 (all figures in $). He is applying for a bank loan and asks his bookkeeper to make three changes.
@@ -173,6 +185,12 @@ Callum Reyes owns Northgate Tiles. Draft profit for the year is 41,600 on revenu
 - Depreciation methods and the accounting concepts: [principles and double entry guide](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/)
 - Time and question choice on the Unit 1 paper: [exam preparation guide](/resources/edexcel-ial-accounting-exam-preparation/)
 - Find your weak spots: [all free 10-minute diagnostics](/diagnostics/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--04-wrongdoing-steps.webp" width="900" height="880" alt="Seven numbered steps: establish the facts, evaluate the threats, apply safeguards, resolve conflicts of interest, escalate internally, take professional or legal advice, and refuse or resign as a last resort. They are grouped as your own checks, inside the organisation, and outside if needed." loading="lazy">
+  <figcaption>Work from your own checks, to internal escalation, to outside help.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -55,6 +55,12 @@ Years until empty at this rate: 500 ÷ 15 = 33.3 years.
 
 If extraction rose to 50 million, the net fall becomes 25 million a year and the store empties in 500 ÷ 25 = 20 years. Higher output now is bought with a lower stock of a vital input later. **Evaluation:** the true cost depends on whether substitutes exist (other water sources, drip irrigation) and how quickly the stock can recover.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--11-groundwater-store.webp" width="900" height="790" alt="A water store of 500 million cubic metres gains 25 a year and loses 40, a net fall of 15. It falls to 350 after 10 years (-30%) and is empty after 33.3 years; with extraction of 50 it is empty after 20 years." loading="lazy">
+  <figcaption>Production that uses a resource faster than it renews runs the stock down.</figcaption>
+</figure>
+
+
 ## Productivity
 
 **Productivity** compares the output produced with the resources used to produce it. **Labour productivity** applies this to workers: output for each worker, or better, for each hour worked.
@@ -102,6 +108,37 @@ Index for year 3 = 42.40 ÷ 40.00 × 100 = 106.0. Productivity rose about 6.0% o
 - Better **organisation** and management, including specialisation (next section).
 - Better access to raw materials and a safe environment to work in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--03-call-centre-productivity.webp" width="900" height="950" alt="Calls resolved rise from 14,000 to 15,360 to 17,600 while calls per hour go 20, 24, 22. From B to C output rises 14.6% but output per hour falls 8.3%, because more agents were hired." loading="lazy">
+  <figcaption>Output can rise while productivity falls: year C hired more agents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--12-country-p-productivity-index.webp" width="900" height="790" alt="Output per hour is 40.00, 41.18 and 42.40 in years 1 to 3, an index of 100.0, 102.9 and 106.0. Average output growth of about 5% a year is about 2% from more hours and about 3% from higher output per hour." loading="lazy">
+  <figcaption>Output growth comes partly from more hours and partly from higher productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--13-real-v-nominal-output.webp" width="900" height="790" alt="Year 1 output is 2,400. Year 2 at current prices is 2,620.8; dividing by the price index 104 and multiplying by 100 gives real output of 2,520. Nominal growth is 9.2% but real growth only 5%." loading="lazy">
+  <figcaption>Deflating by a price index removes price rises from output growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--14-mean-v-median-firms.webp" width="900" height="760" alt="Five firms produce 18, 20, 21, 23 and 58 units per worker-hour. The mean is 28, above four of the five firms because of one highly automated firm; the median is 21." loading="lazy">
+  <figcaption>One extreme value pulls the mean up, so the median describes the typical firm better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+
 ## Specialisation and division of labour
 
 **Specialisation** is when a worker, business or area focuses on a narrow set of tasks or products. **Division of labour** is specialisation inside production: a job is split into stages and each worker does one stage.
@@ -128,6 +165,17 @@ Index for year 3 = 42.40 ÷ 40.00 × 100 = 106.0. Productivity rose about 6.0% o
 
 **Evaluation.** The balance depends on how large the market is (a bigger market justifies more splitting of tasks), how skilled the work is, and whether management reduces the costs, for example through job rotation, cross-training or spare capacity at key stages. Over time, a workforce with narrow skills may struggle to adapt if demand or technology changes, so the gains can be less secure than they first look.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--04-kite-workshop.webp" width="900" height="1010" alt="Without division of labour a kite takes 6.5 worker-hours including 1.5 lost switching; with it, 4.0. The team makes 50 kites instead of 30.8 in a 40-hour week, but if one framer is absent output falls to 25." loading="lazy">
+  <figcaption>Division of labour cuts worker-hours per kite but makes output depend on every stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ## Exchange and the role of money
 
 Specialisation means people no longer make what they consume. A potter, a weaver and a farmer each produce a surplus of one good, so they must **exchange** to get the others. This needs an efficient means of exchange.
@@ -144,6 +192,17 @@ Specialisation means people no longer make what they consume. A potter, a weaver
 | 50 | 1,225 | 50 |
 
 The gap widens quickly as the number of goods grows. Money therefore lowers the time and information needed to trade, which is why specialisation and exchange develop together. **Evaluation:** money only works if people trust it; if it loses its value quickly, people may return to barter or use another money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange--05-barter-ratios-vs-prices.webp" width="900" height="860" alt="Under barter n goods need n(n-1)/2 exchange ratios; with money they need n prices. For 8 goods that is 28 against 8 and for 50 goods 1,225 against 50." loading="lazy">
+  <figcaption>The number of exchange rates explodes under barter but grows one-for-one with money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## Common errors
 

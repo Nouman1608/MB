@@ -65,6 +65,12 @@ Percentage increase with oestrogen: (138 − 12) / 12 × 100 = 1050%. The level 
 
 Interpretation: oestrogen increases transcription of the gene (138 against 12). The cells without the receptor barely change (11 to 13), so the receptor is needed. The blocking drug keeps the level near the starting value, which supports the idea that oestrogen must bind the receptor. The data show the effect on mRNA, not directly on transcription rate, because mRNA level also depends on how fast mRNA breaks down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
+
 ## Epigenetics
 
 **Epigenetics** involves heritable changes in gene function without changes to the base sequence of DNA. The changes are caused by environmental changes and they inhibit transcription. The specification names two routes.
@@ -92,6 +98,12 @@ Gene G was studied in normal and tumour tissue.
 
 Methylation is 74 / 8 = 9.25 times higher in the tumour. The mRNA falls by (100 − 6) / 100 × 100 = 94%. The two changes go together, so the data are consistent with methylation silencing gene G. They show a correlation, not proof of cause. A stronger test would remove the methyl groups and see whether mRNA recovers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+
 ## RNA interference
 
 In eukaryotes and some prokaryotes, translation of mRNA can be inhibited by **RNA interference (RNAi)**. The steps for small interfering RNA (siRNA) are:
@@ -112,6 +124,12 @@ mRNA bases 4 to 15: G C U C C G U U A G C A
 siRNA guide strand: C G A G G C A A U C G U
 
 The siRNA is CGAGGCAAUCGU. If a protein level was 240 units in control cells and 54 units after siRNA treatment, the fall is (240 − 54) / 240 × 100 = 77.5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ## Benign and malignant tumours
 
@@ -148,6 +166,12 @@ You may be given information and asked to interpret it. Typical ideas:
 - **Prevention:** genetic testing can show that a person carries a faulty tumour suppressor allele; they can then be screened sooner or take preventive steps.
 - **Treatment:** a drug can block the oestrogen receptor, so oestrogen cannot stimulate division in receptor-positive cells; siRNA can be designed to lower the translation of an oncogene mRNA.
 - **Cure:** treatments that reverse methylation or restore a working tumour suppressor gene aim to restore control of division.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
 
 ## Evaluating evidence on genetic risk
 

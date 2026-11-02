@@ -75,6 +75,12 @@ return (ARR) at both levels, and net present value (NPV) at HL only
 - **3.9 Budgets** (HL only) — financial plans and variance analysis,
 comparing actual results against budgeted figures
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because this unit is calculation-heavy, the highest-value revision
@@ -96,6 +102,12 @@ of returns, and NPV (HL only) depends on a chosen discount rate that itself
 involves judgement — since a strong exam answer evaluates an
 investment decision using more than one method rather than relying on
 a single calculated figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--04-depreciation.webp" width="900" height="1124" alt="Asset costing $12,000, residual $2,000, 5 years. Straight line charges $2,000 each year; units of production charges $1,000, $2,000, $3,000, $2,400 and $1,600 for 5k, 10k, 15k, 12k and 8k units. Both total $10,000." loading="lazy">
+  <figcaption>Straight line spreads depreciation evenly; units of production follows how much the asset is used.</figcaption>
+</figure>
+
 
 ## Worked example: profitability versus liquidity
 
@@ -126,6 +138,12 @@ response (such as negotiating longer payment terms with suppliers, or
 arranging a short-term overdraft facility) rather than assuming the
 strong profitability figures resolve the liquidity concern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Treating a cost as fixed or variable based on its category label
@@ -141,6 +159,12 @@ collected. For HL students, calculating the gearing ratio correctly
 but failing to discuss the risk-return trade-off it represents, which
 is where the evaluative marks in this sub-topic are earned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+
 ## Quick revision checklist
 
 - Be able to match a described business situation to the most
@@ -154,6 +178,12 @@ is where the evaluative marks in this sub-topic are earned.
   method's specific weakness.
 - Always write out the formula before substituting numbers, to protect
   method marks under Paper 2's timed, calculation-heavy conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

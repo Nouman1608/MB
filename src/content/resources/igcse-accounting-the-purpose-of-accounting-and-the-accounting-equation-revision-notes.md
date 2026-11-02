@@ -59,6 +59,12 @@ Paper 1 is 40 multiple-choice questions and calculators may be used. Paper 2 has
 
 One-line test: if the task is writing an entry down, it is book-keeping; if it is summarising, interpreting or advising, it is accounting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--04-bookkeeping-then-accounting.webp" width="900" height="938" alt="A flow from a source document (a $45 chain bill) to book-keeping, which records what happened, to accounting, which summarises, presents and interprets what it means, for example that parts cost rose faster than repair income." loading="lazy">
+  <figcaption>Book-keeping records; accounting summarises and interprets.</figcaption>
+</figure>
+
+
 ## 1.1 Measuring profit and loss
 
 **Profit = income earned in the period − expenses of earning it.** A negative result is a **loss**. The figure belongs to a stated period and appears in the statement of profit or loss.
@@ -73,6 +79,12 @@ Purposes to be able to name and apply:
 
 **Percentage change** = change ÷ original × 100. Profit falling from 9,000 to 6,750 is a fall of 2,250, which is 2,250 ÷ 9,000 = 25.0% down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--05-profit-is-what-is-left.webp" width="900" height="724" alt="Waterfall in dollars: sales revenue 86,400 less materials 31,200, rent 12,000, wages 18,600 and other expenses 6,300 (total 68,100) leaves profit 18,300. The owner took 12,000 as drawings, leaving 6,300 in the business. Last year profit was 14,640, so profit rose 3,660 or 25.0%." loading="lazy">
+  <figcaption>Profit is revenue less expenses; drawings come out of profit, not before it.</figcaption>
+</figure>
+
+
 ## 1.1 Information for monitoring and decisions
 
 | Role | Meaning | Example |
@@ -81,6 +93,12 @@ Purposes to be able to name and apply:
 | Decision-making | Choosing between options using the facts | Do not buy a second vehicle while the bank loan is still large and profit is falling |
 
 Accounting information supports the decision. It does not make the decision, and it cannot show things that are not measured in money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--05-dhillon-monthly-profit.webp" width="900" height="940" alt="A line chart of revenue and expenses (revenue up 29.2%, expenses up 10.7%) with the gap shaded, and bars of monthly profit 300, 550, 800, 1,050, 1,320 and 1,660, total 5,680." loading="lazy">
+  <figcaption>Profit rises each month because revenue grows faster than expenses.</figcaption>
+</figure>
+
 
 ## 1.2 The three elements
 
@@ -104,6 +122,27 @@ Accounting information supports the decision. It does not make the decision, and
 | Assets | Liabilities + Owner's equity |
 
 Method for a missing figure: write the equation, put in the two known figures, solve for the third, then check by substituting back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--06-profit-from-equity.webp" width="900" height="656" alt="Bridge chart in dollars: owner equity starts at 34,500, rises by 4,000 capital paid in and by profit, and falls by 9,600 drawings to reach 46,500. Profit = 46,500 - 34,500 - 4,000 + 9,600 = 17,600." loading="lazy">
+  <figcaption>Profit is the change in equity after removing capital paid in and adding back drawings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--03-waddell-equation-steps.webp" width="900" height="1130" alt="Eight pairs of bars, one per transaction, show assets always equal to liabilities plus owner’s equity. The final position is assets 38,400, liabilities 8,900 and owner’s equity 29,500." loading="lazy">
+  <figcaption>Assets stay equal to liabilities plus equity after every Waddell transaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-purpose-of-accounting-and-the-accounting-equation--04-karimi-equation-stacks.webp" width="900" height="980" alt="Two stacks of equal height, 26,300 each. Assets are Equipment 14,500, Inventory 3,200, Trade receivables 1,850, Bank 6,400 and Cash 350. The other stack is Trade payables 2,700, Bank loan 7,500 and owner’s equity 16,100 (26,300 minus 10,200)." loading="lazy">
+  <figcaption>Karimi Wheels at 31 December drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
 
 ## 1.2 Effect of common transactions
 

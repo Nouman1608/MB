@@ -66,6 +66,12 @@ total = 1.2566 × 10⁻⁷ × 4.5 × 10⁸ = 56.5 m²   (3 s.f.)
 
 The point of the estimate: tens of square metres of exchange surface fit inside the chest because the surface is divided into hundreds of millions of tiny sacs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
+  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
+</figure>
+
+
 ## 9.1.2 Where each tissue is found
 
 | Tissue | Trachea | Bronchus | Bronchiole | Alveolus |
@@ -81,6 +87,12 @@ The point of the estimate: tens of square metres of exchange surface fit inside 
 Mucous glands lie in the wall of the trachea and bronchi, beneath the epithelium. Elastic fibres are listed in outcome 9.1.6 for their function, so learn where they sit too.
 
 Two patterns help you remember the table. Moving down the airways, **cartilage decreases and disappears** before the bronchioles. The **proportion of smooth muscle increases** from trachea to bronchioles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--01-airway-tissues.webp" width="900" height="1210" alt="Four cross-sections from trachea to alveolus. The trachea has a C-shaped cartilage ring, a smooth muscle ring and a ciliated lining with goblet cells. The bronchus has cartilage in separate plates. The bronchiole has no cartilage and thick smooth muscle. The alveolus has only a thin squamous layer with capillaries." loading="lazy">
+  <figcaption>Moving down the airways, cartilage disappears and smooth muscle becomes proportionally larger (not to scale).</figcaption>
+</figure>
+
 
 ## 9.1.3 and 9.1.4 Recognising tissues and structures
 
@@ -125,6 +137,12 @@ Air carries dust, pollen, bacteria and viruses. Three structures deal with them.
 - **Mucous glands** in the wall of the trachea and bronchi secrete more mucus onto the surface.
 - **Ciliated epithelial cells** beat their cilia in a coordinated way, moving the mucus and trapped particles **up** the airways towards the throat, where it is swallowed. This keeps particles out of the alveoli, where they could damage the exchange surface or cause infection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--02-mucus-escalator.webp" width="900" height="1060" alt="Side view of the airway lining. Dust and microbes fall into a layer of mucus resting on the tips of cilia. Goblet cells and mucous glands make the mucus. Ciliated cells beat their cilia and move the mucus and trapped particles up towards the throat." loading="lazy">
+  <figcaption>Mucus traps particles and cilia move the mucus towards the throat.</figcaption>
+</figure>
+
+
 ## 9.1.6 Functions of four tissues
 
 | Tissue | Function |
@@ -160,6 +178,27 @@ CO₂ at start: 6.1 − 5.3   = 0.8 kPa   (blood → air)
 ```
 
 The oxygen gradient almost disappears by the end of the capillary: blood has nearly reached equilibrium with the alveolar air. Constant blood flow brings new deoxygenated blood, restoring the steep gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--03-alveolar-gradients.webp" width="900" height="850" alt="Graph of partial pressure along an alveolar capillary. Alveolar oxygen is 13.3 kPa. Blood oxygen rises from 5.3 to 13.1 kPa, so the gap shrinks from 8.0 to 0.2 kPa. Blood carbon dioxide starts at 6.1 kPa against 5.3 kPa in the air, a gap of 0.8 kPa." loading="lazy">
+  <figcaption>The oxygen gradient is steep when blood arrives and almost gone by the end of the capillary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--05-fish-countercurrent.webp" width="900" height="1150" alt="Two panels compare parallel flow with counter-current flow in a five-segment model of a gill lamella. With parallel flow, water and blood both settle at 50 percent oxygen saturation. With counter-current flow, blood leaves at 83 percent because the water is always at higher saturation than the adjacent blood." loading="lazy">
+  <figcaption>Opposite flows keep a gradient along the whole lamella, so more oxygen is taken up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--06-insect-tracheae.webp" width="900" height="1050" alt="Cross-section of an insect. Air enters through spiracles, passes along tracheae and ends in fine tracheoles beside muscle cells, delivering oxygen directly. The abdomen squeezing helps move air in larger or active insects." loading="lazy">
+  <figcaption>Insects deliver air straight to the tissues through tracheae and tracheoles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--07-ileum-villus.webp" width="900" height="1010" alt="A finger-shaped villus lined by one layer of epithelial cells with microvilli. Inside are blood capillaries and a central lacteal. A model villus with radius 0.10 mm and height 1.0 mm has a curved area 20 times its footprint." loading="lazy">
+  <figcaption>Villi and microvilli give a huge surface; capillaries and the lacteal carry absorbed products away.</figcaption>
+</figure>
+
 
 ## Common errors
 

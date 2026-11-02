@@ -54,6 +54,17 @@ Good communication helps a business because:
 
 Ineffective communication causes the opposite: orders are filled wrongly, deadlines are missed, rumours spread, customers complain and staff feel ignored. In an answer, link the poor communication to a result (extra cost, lost sales, lower morale), not just to the fault.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--05-internal-external-receiver.webp" width="900" height="1130" alt="An email to a colleague inside the business is internal; the same method sent to a supplier outside is external. Five lesson examples are sorted by receiver." loading="lazy">
+  <figcaption>Sort communication by who receives it, not by the method used.</figcaption>
+</figure>
+
+
 ## 2. Communication methods, benefits and limitations (2.1.1)
 
 The specification asks for the methods used, including IT, with their benefits and limitations. It gives no fixed list, so these are standard examples grouped by form.
@@ -80,6 +91,12 @@ Choice of method depends on the message: urgency, detail, whether a record is ne
 
 The saving does not settle the question. Face-to-face meetings give better feedback and build trust. A reasoned answer weighs the cost saving against that loss, and might suggest keeping one in-person meeting a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--01-video-v-travel.webp" width="900" height="730" alt="Two bars to scale: travel to head office costs 4,320 dollars a year (6 managers x 4 trips x 180) and video conferencing 1,140 dollars (95 x 12). The saving is 3,180 dollars, but face-to-face gives better feedback and trust." loading="lazy">
+  <figcaption>Video conferencing saves 3,180 a year, but the loss of face-to-face contact must be weighed.</figcaption>
+</figure>
+
+
 ## 3. Barriers to communication and how to remove them (2.1.2)
 
 A barrier is whatever prevents a message reaching the receiver or being understood as intended. The specification asks how barriers arise, what problems they cause and how they can be removed; it lists no particular barriers, so those below are standard examples.
@@ -94,6 +111,12 @@ A barrier is whatever prevents a message reaching the receiver or being understo
 
 **Feedback** is the main remedy: ask the receiver to say back what they will do. Two-way communication (conversation, meetings) usually removes problems faster than one-way communication (a notice).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--06-barrier-reason-problem-fix.webp" width="900" height="1150" alt="A four-step chain: jargon in the order email, because the office uses short forms the plant does not know, led to 150 boxes being repacked, fixed by plain words, a standard layout and confirmation before packing." loading="lazy">
+  <figcaption>A barrier has a reason, causes a problem and needs a matching fix.</figcaption>
+</figure>
+
+
 ## 4. Types of employment (2.2.1)
 
 | Type | What it means | Benefit to the business | Limitation |
@@ -107,6 +130,12 @@ A barrier is whatever prevents a message reaching the receiver or being understo
 
 A seasonal example: a garden centre hires three extra workers for 10 weeks at 30 hours a week and 9.20 an hour. Cost: 3 × 30 × 10 × 9.20 = 8,280, paid only while the peak lasts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--02-job-share-pay.webp" width="900" height="760" alt="A 40-hour job is split between Ali (22 hours) and Bea (18 hours). Pay at 11.00 an hour is 242 and 198, total 440, the same as one full-timer." loading="lazy">
+  <figcaption>A job share covers the full hours at the same total pay as one full-time worker.</figcaption>
+</figure>
+
+
 ## 5. Recruitment documents (2.2.2)
 
 | Document | Written by | Contains | Used to |
@@ -117,6 +146,12 @@ A seasonal example: a garden centre hires three extra workers for 10 weeks at 30
 | Curriculum vitae (CV)/résumé | Applicant | The applicant's own summary of education, experience, skills and referees | Show suitability in the applicant's own words |
 
 The specification names these four documents; the contents shown are standard teaching. The job description says what the job is. The person specification says who the business wants. A common mistake is to swap them. An application form gives the business consistent information; a CV is flexible and lets the applicant choose what to stress, so forms are easier to compare.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--06-recruitment-documents.webp" width="900" height="1000" alt="Four cards: the job description (employer; the job), the person specification (employer; the person wanted), the application form (employer designs; same questions for all) and the CV (applicant writes; own choice of content)." loading="lazy">
+  <figcaption>The job description says what the job is; the person specification says who is wanted.</figcaption>
+</figure>
+
 
 ## 6. Internal and external recruitment, advertising, shortlisting, interviewing (2.2.3)
 
@@ -131,6 +166,27 @@ Good practice is for a job advertisement to state the job title, main duties, pa
 **Shortlisting** is reducing all applications to the few who best match the person specification. Compare each application form or CV with the essential criteria and set aside those that fail. If Orlin Cafés receives 60 applications and shortlists 15%, it interviews 60 × 0.15 = 9 people. At 45 minutes each, the interviews take 405 minutes, or 6.75 hours.
 
 **Interviewing** lets the business meet shortlisted candidates, test the claims on their forms and judge personality and communication. Good practice: ask every candidate the same core questions and score answers against the person specification. Limitations: interviews are time-consuming and a confident talker may impress more than the best worker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--03-agency-cost.webp" width="900" height="690" alt="A bar splits the 3,520 cost of filling a 24,000 post into the 640 advertisement and the 2,880 agency fee (12 percent of salary)." loading="lazy">
+  <figcaption>An agency hire costs 640 + 2,880 = 3,520.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--04-shortlist-funnel.webp" width="900" height="774" alt="Sixty dots show applications; 9 gold dots are the 15 percent shortlisted. Nine interviews of 45 minutes take 405 minutes, 6.75 hours." loading="lazy">
+  <figcaption>Shortlisting 15 percent of 60 applications leaves 9 interviews of 6.75 hours in all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-human-resource-management-hrm--11-three-routes.webp" width="900" height="804" alt="Internal: cheaper, quicker; small pool, leaves a gap. External: bigger pool but dearer and slower, via an agency (saves time, fee) or online (cheap, many unsuitable applicants)." loading="lazy">
+  <figcaption>Three ways to find candidates and the main advantage and drawback of each.</figcaption>
+</figure>
+
 
 ## 7. Legal controls over employment and their effects (2.2.4)
 
@@ -155,6 +211,12 @@ Effects on a business (standard teaching):
 - Extra cost per week: 36. Over 52 weeks: 1,872.
 
 The bakery must pay the higher rate. It could absorb the cost or raise prices slightly, but it cannot keep the old rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-communication-recruitment-and-selection--05-hartwell-minimum-wage.webp" width="900" height="820" alt="Two bars compare weekly pay for three part-timers: 456 at 7.60 an hour and 492 at the invented minimum of 8.20. The extra is 36 a week, 1,872 over 52 weeks." loading="lazy">
+  <figcaption>Paying the minimum wage costs Hartwell Bakery 36 more a week.</figcaption>
+</figure>
+
 
 ## Common errors
 

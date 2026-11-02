@@ -65,6 +65,12 @@ Number of firms that can operate at MES = market quantity / MES.
 - MES close to the whole market: one firm has the lowest cost, the market tends towards monopoly.
 - Low MES relative to the market: many small firms can survive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--10-mes-market-size.webp" width="900" height="830" alt="Three bars of a 2,000-parcel market split into blocks of MES 400, 1,500 and 40. 2000/400=5; 2000/1500=1.33; 2000/40=50." loading="lazy">
+  <figcaption>MES against market size tells how many firms fit.</figcaption>
+</figure>
+
+
 ## Internal economies
 
 | Type | One-line reason | Spreading example |
@@ -75,6 +81,22 @@ Number of firms that can operate at MES = market quantity / MES.
 | Marketing | Campaigns cost the same whatever the output | Fixed advertising spread over more units |
 | Purchasing | Bulk-buy discounts | Lower price per unit on large orders |
 | Risk bearing | Several products or markets spread risk | A fall in one market is cushioned by others |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--01-lrac-internal-vs-external.webp" width="900" height="820" alt="Courier LRAC from the lesson table: MES at 400 parcels (7.20); a 5% external economy shifts the whole curve down (7.20 to 6.84) while an internal economy is a slide along it." loading="lazy">
+  <figcaption>An internal economy moves a firm along its LRAC; external economies shift the whole curve down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--11-internal-economies-numbers.webp" width="900" height="1020" alt="Paired bars give the lesson illustrations for financial, technical, managerial, marketing, purchasing and risk bearing economies. 12,000/25,000=0.48; 7,500/25,000=0.30; 3.00 to 0.50; 1.50 to 0.40; 1.50 to 0.30; 1.40 to 1.26; revenue -20% v -10%." loading="lazy">
+  <figcaption>Most economies spread a lumpy cost over more units; risk bearing spreads demand risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
 
 ## External economies
 
@@ -94,6 +116,27 @@ Result: the whole LRAC of every firm shifts down. Example: a 5% fall turns 7.20 
 
 Links between n people = n(n - 1)/2. For 8 people that is 28; for 16 it is 120.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--09-scale-percentage-test.webp" width="900" height="830" alt="Output and total cost percentage changes for 100 to 200 and 500 to 600 parcels show economies then diseconomies. Totals recomputed: 1,920/1,200 = +60%; 4,680/3,600 = +30%; AC 12.00, 9.60, 7.20, 7.80." loading="lazy">
+  <figcaption>Compare the % change in output with the % change in total cost to spot economies or diseconomies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--12-communication-links.webp" width="900" height="930" alt="Complete networks for 5 and 10 people and bars for 5, 10 and 20 people show links n(n-1)/2. Edges counted in code: 10 and 45; 190 for 20; 190/45 = 4.2." loading="lazy">
+  <figcaption>Links grow much faster than staff numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--13-x-inefficiency-gap.webp" width="900" height="870" alt="LRAC from the courier table with the actual 8.10 above the best 7.20 at 400 parcels. AC = TC/Q for every table point; 0.90, 12.5% and 360 recomputed." loading="lazy">
+  <figcaption>X-inefficiency puts the firm above its LRAC, 0.90 per parcel at 400 parcels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Profit and loss
 
 | Condition | Label |
@@ -105,6 +148,12 @@ Links between n people = n(n - 1)/2. For 8 people that is 28; for 16 it is 120.
 Profit or loss = (AR - AC) x quantity. Accounting profit is not economic profit: subtract the owner's opportunity costs. Example: TR 90,000 and TC (including normal profit) 84,000 gives supernormal profit of 6,000.
 
 **Reminder.** A shop shows accounting profit of 9,000. The owner could have earned 7,500 in a job and 800 in interest on the money tied up in the shop. Economic profit = 9,000 - 7,500 - 800 = 700, which is supernormal. If the forgone earnings were 9,400 in total, economic profit would be 9,000 - 9,400 = -400, a loss despite a positive accounting figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and--02-profit-loss-shutdown-car-wash.webp" width="900" height="840" alt="Car wash worked example: fixed cost 1,800, AVC 3.20, AC 5.00 at 1,000 cars. Prices above 5.00 give supernormal profit, between 3.20 and 5.00 a loss but production continues, below 3.20 shutdown. Profits at 6.20, 5.40, 5.00, 4.00 and 3.00 are +1,200, +400, 0, -1,000 and -2,000." loading="lazy">
+  <figcaption>Profit or loss at each price shows when to produce and when to shut down.</figcaption>
+</figure>
+
 
 ## Shutdown rules
 

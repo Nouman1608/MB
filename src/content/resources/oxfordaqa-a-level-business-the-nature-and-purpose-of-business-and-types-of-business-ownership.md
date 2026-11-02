@@ -50,6 +50,22 @@ Businesses turn **inputs** into **outputs**. The inputs are land, labour, capita
 
 **Owners** put in capital and take the risk. **Managers** run the business day to day, so in a large firm the two groups are different people. Managers organise the **business functions** (for example marketing, operations, human resources and finance), set targets and monitor results using **key performance indicators (KPIs)**, which are measures such as sales growth or customer complaints. **Customers** buy from the business. **Consumers** use the product and may be someone else, such as a child. **Ethical influences** are beliefs about right and wrong that shape a decision even when a cheaper option exists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+
 ## Entrepreneurs (both)
 
 An **entrepreneur** sets up and takes the risk of a new business.
@@ -66,6 +82,22 @@ An **entrepreneur** sets up and takes the risk of a new business.
 
 **Environment and government (9625).** The business environment of a country influences how many entrepreneurs succeed: access to finance, taxes, regulation, infrastructure, skills, stability and demand. Governments may support start-ups because new firms create jobs, competition and tax revenue. Support includes grants, cheap loans, tax breaks, advice and training. **Factors influencing the number and type of start-ups** include the state of the economy, how easy it is to borrow, attitudes to risk, and the skills available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership--12-entrepreneur-role-grows.webp" width="900" height="780" alt="At the start the entrepreneur does selling, buying and banking. As the firm grows managers run marketing, operations, HR and finance while the entrepreneur leads on strategy." loading="lazy">
+  <figcaption>The entrepreneur moves from doing to leading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--08-new-business-risk.webp" width="900" height="1000" alt="Example with invented numbers. A new business with $20m capital and an established one with $100m both lose $30m early. The new firm is $10m short and fails; the established one keeps $70m. New firms have less capital, market knowledge, customers and experience." loading="lazy">
+  <figcaption>The same early loss can finish a new business but not an established one.</figcaption>
+</figure>
+
+
 ## Business objectives and SMART (both)
 
 Typical objectives are **survival**, **profit**, **growth** and **cash flow** (both specifications), **social** objectives (both), and personal and ethical objectives (9625).
@@ -74,6 +106,12 @@ Effective objectives are **SMART**. The 9725 text spells this out as Specific, M
 
 **The value of setting objectives:** direction, measurable success, motivation and a basis for choosing. Objectives can conflict: growth can drain cash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership--10-smart-objectives.webp" width="900" height="950" alt="Five tiles S, M, A, R, T matched to parts of the example objective, with a vague objective crossed out and the SMART one ticked." loading="lazy">
+  <figcaption>An objective is SMART if it can be checked.</figcaption>
+</figure>
+
+
 ## Business plans (both)
 
 A **business plan** sets out what a business intends to do and how. The 9725 key elements are ownership, objectives, target market and market analysis, competitor analysis, unique selling point (USP) and financial analysis.
@@ -81,6 +119,17 @@ A **business plan** sets out what a business intends to do and how. The 9725 key
 **Benefits:** it forces careful thinking, shows weaknesses early, helps win loans or investment. **Limitations:** it takes time, rests on forecasts that can be wrong, can become out of date, and a good plan does not guarantee success. 
 
 **Competitiveness** (both; 9725 adds meaning and significance) is how well a firm can win customers against rivals. A USP, lower costs or better service improve it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
+  <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
 
 ## Why business matters (9625)
 
@@ -102,6 +151,12 @@ Refit: high £110,000, low £60,000
 ```
 
 The new workshop has the higher net gain. But in the low-demand case it returns £90,000 on £120,000, a loss of £30,000, while the refit still gains £20,000. If the yard cannot survive a loss, the refit is safer. **Limitations of trees:** guessed probabilities, no non-financial factors or ethics, and an average that may never happen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership--11-decision-tree-net-gain.webp" width="900" height="1065" alt="A decision tree with new workshop (cost 120,000; EV 209,000; net gain 89,000) and refit (cost 40,000; EV 95,000; net gain 55,000). In low demand new makes -30,000 and refit +20,000." loading="lazy">
+  <figcaption>Net gain is expected value minus cost, but the best average is not always the safest.</figcaption>
+</figure>
+
 
 ## Types of business (3.1.1.2)
 
@@ -130,6 +185,12 @@ The new workshop has the higher net gain. But in the low-demand case it returns 
 
 **Family business** (both): advantages are loyalty, shared values, long-term thinking and quick decisions. Disadvantages are conflict, limited finance and skills, and difficult succession. **Small business:** flexible, personal service and close customer contact, but limited finance, little buying power and weaker brand. In 9625 you also compare small and medium-sized enterprises (SMEs) with large businesses, which gain economies of scale, finance and market power but can be slower and less personal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership--07-co-operative-profit.webp" width="900" height="880" alt="A sole trader keeps all profit; a 12-member co-operative shares it among members (illustrative £5,000 each)." loading="lazy">
+  <figcaption>In a co-operative the members share the profit.</figcaption>
+</figure>
+
+
 ## Shareholders (both)
 
 Shareholders invest to receive **dividends** (a share of profit paid out), to gain if the **share price** rises, and sometimes for a say in decisions or because they back the business's aims. **Share capital (equity)** is the money raised by selling shares. Ordinary shares usually carry votes and a dividend that varies with profit (standard definition).
@@ -153,6 +214,12 @@ Market capitalisation = 3.00 x 8,000,000 = £24,000,000
 ```
 
 If the price rises to £3.60 and the dividend stays at 15p, the yield falls to 0.15 / 3.60 x 100 = 4.2% (1 d.p.) and market capitalisation rises to £28,800,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership--06-share-price-yield-cap.webp" width="900" height="930" alt="Six influences on share price, then Oakreach at £3.00 and £3.60: yield 5.0% falls to 4.2% while market capitalisation rises from £24.0m to £28.8m." loading="lazy">
+  <figcaption>A higher share price lowers the yield and raises market capitalisation.</figcaption>
+</figure>
+
 
 ## Stakeholders (both)
 

@@ -80,6 +80,12 @@ R = (12 − 5.1) / 0.025 = 276 Ω   → use 270 Ω
 check: I = 25.6 mA, so the zener gets 5.6 mA
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
+
 ### Photodiode
 
 Used **reverse biased** (photoconductive mode): the tiny dark current increases with light intensity. The **characteristic curves** (I against V for several intensities) are almost flat in reverse bias, with current roughly proportional to intensity. The **spectral response curve** (response against wavelength) peaks, then falls to zero above a cut-off wavelength where photons have too little energy. Uses: a **detector in optical systems** (such as a fibre receiver), and with a **scintillator**, where a particle makes a flash of light that the photodiode turns into a current pulse.

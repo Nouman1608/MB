@@ -36,6 +36,12 @@ These notes condense Topic 4, section 2 (financial statements of a partnership) 
 
 An answer that compares the two should state the difference in liability and then say why it matters: an LLP member's personal assets are not at risk in the way an ordinary partner's are, so the LLP form suits owners who want to limit what they could lose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--01-g208-partnership-vs-llp.webp" width="900" height="976" alt="In an ordinary partnership the partners have unlimited liability, so the firm's debts can reach their personal assets. In an LLP the members have limited liability and their personal assets are generally protected. The LLP is a legal person; the exact limit is not in the specification." loading="lazy">
+  <figcaption>Partners have unlimited liability; LLP members have limited liability.</figcaption>
+</figure>
+
+
 ## Section 24 defaults (point c)
 
 These apply when there is no agreement, or the agreement is silent on a point. An agreement beats them. The table gives general knowledge of the Act and the usual textbook position, not specification wording.
@@ -47,6 +53,17 @@ These apply when there is no agreement, or the agreement is silent on a point. A
 | Interest on a partner's loan | 5% a year |
 | Interest on capital | None |
 | Interest on drawings | None charged unless agreed |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--02-g208-section-24-defaults.webp" width="900" height="916" alt="With no agreement: no salaries, profit or loss shared equally, 5% a year on a partner's loan, no interest on capital and none on drawings unless agreed. An agreement always overrides these rules." loading="lazy">
+  <figcaption>Section 24 defaults apply only when the agreement is silent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--03-g208-section-24-example.webp" width="900" height="946" alt="Profit before loan interest of $43,000 less $1,000 loan interest (20,000 x 5%) gives $42,000, shared $21,000 each. A $9,000 loss is shared $4,500 each, and Liam still receives his $1,000 interest because it was an expense." loading="lazy">
+  <figcaption>Loan interest is an expense; profit or loss is then shared equally.</figcaption>
+</figure>
+
 
 ## The appropriation account (points d and e)
 
@@ -71,6 +88,12 @@ Method in steps:
 5. Find the residual and split it in the ratio.
 6. Check: total interest on capital, salaries and shares of residual, less interest on drawings, must equal profit for the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-pa-agreement-terms.webp" width="900" height="880" alt="Seven agreement terms are linked to where they appear. Capital goes to the capital account and loan interest is a business expense. Interest on capital and salaries are deducted, interest on drawings is added and the ratio divides the balance in the appropriation account. Drawings are debited to current accounts." loading="lazy">
+  <figcaption>Every term in the agreement decides a figure in the capital, profit or loss, appropriation or current accounts.</figcaption>
+</figure>
+
+
 ## Capital and current accounts (point f)
 
 | Account | Typical entries |
@@ -83,6 +106,22 @@ A credit balance on a current account means the firm owes the partner. A debit b
 ## Statement of financial position (point g)
 
 The equity section lists each partner's capital, then each partner's current account. A credit current account balance is added. A debit balance is deducted. Total equity must equal net assets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--04-g208-appropriation-waterfall.webp" width="900" height="1001" alt="Profit for the year $34,500 plus $630 interest on drawings, less $6,000 interest on capital and Sofia's $12,000 salary, leaves $17,130 residual profit, shared 3:2 as $10,278 and $6,852. Loan interest of $800 is already deducted in the income statement." loading="lazy">
+  <figcaption>Add drawings interest, deduct interest on capital and salary, then share the rest in the ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--05-g208-current-accounts.webp" width="900" height="1112" alt="Ravi's current account: 2,150 + 3,600 + 10,278 - 14,400 - 360 = 1,268 credit. Sofia's: 1,300 + 2,400 + 12,000 + 6,852 - 10,800 - 270 = 11,482 credit. Both become next year's opening balances." loading="lazy">
+  <figcaption>Credits build each current account; drawings and interest on drawings reduce it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-partnership--06-g208-net-assets-equity.webp" width="900" height="991" alt="Net assets of $112,750 equal equity: capital $60,000 and $40,000 plus current accounts $1,268 (Ravi) and $11,482 (Sofia). A debit current balance would be deducted." loading="lazy">
+  <figcaption>Net assets equal total equity: the check that the workings are right.</figcaption>
+</figure>
+
 
 ## Worked reminder A: three partners
 
@@ -167,6 +206,12 @@ Learn these as pairs. Questions can test whether you can tell the two halves apa
 10. It is deducted in the equity section.
 11. For example more capital and shared skills.
 12. It is a cost of using money borrowed from a partner, so it is charged before the profit for the year is found.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-loss-after-appropriations.webp" width="900" height="830" alt="Profit of 11,600 dollars plus 600 interest on drawings, less 6,000 interest on capital and 17,500 of salaries, leaves a loss of 11,300 dollars. It is shared 2:2:1 as 4,520, 4,520 and 2,260 dollars and debited to the current accounts." loading="lazy">
+  <figcaption>When interest and salaries exceed profit the shortfall is a loss shared in the agreed ratio.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

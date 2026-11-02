@@ -61,9 +61,21 @@ Dividends are a distribution of profit to owners. They are deducted from retaine
 
 Retained earnings are the profits kept in the business over time. They are added to share capital to give equity. The specification does not list this term separately, so use whatever label your teacher uses for the profit kept in the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--03-acc14-share-vs-loan-capital.webp" width="900" height="880" alt="Share capital of 250,000 comes from owners, is rewarded by a 20,000 dividend (not an expense, deducted from retained earnings) and appears in equity. The 10% loan of 60,000 comes from lenders, costs 6,000 interest (an expense) and appears in non-current liabilities." loading="lazy">
+  <figcaption>Dividends and interest are treated differently in the statements.</figcaption>
+</figure>
+
+
 ## The income statement
 
 The income statement is built in the same order as a sole trader's: revenue, cost of sales, gross profit, expenses, operating profit. Two company features come after operating profit. Loan interest is deducted to reach profit for the year, and a short working below shows how that profit and any dividend change retained earnings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--04-acc14-profit-to-retained-earnings.webp" width="900" height="1060" alt="Avenmoor operating profit of 126,600 less loan interest of 6,000 gives profit for the year of 120,600. Retained earnings go from 8,800 to 109,400 after adding that profit and deducting 20,000 dividends, which never appear in the income statement." loading="lazy">
+  <figcaption>Dividends reduce retained earnings only; loan interest reduces profit.</figcaption>
+</figure>
+
 
 ## The statement of financial position and its five sub-headings
 
@@ -78,6 +90,12 @@ Group each balance under one of the five sub-headings.
 | Current liabilities | Debts due within one year | Trade payables, accruals, bank overdraft |
 
 The two sides balance: non-current assets plus current assets, less current liabilities and non-current liabilities, equals equity. You can also total assets on one side and equity plus liabilities on the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--05-acc14-five-subheadings.webp" width="900" height="974" alt="Avenmoor statement of financial position drawn to scale: assets of 456,400 (current 108,400, non-current 348,000) equal equity 359,400 plus non-current liabilities 60,000 plus current liabilities 37,000." loading="lazy">
+  <figcaption>The five sub-headings and the two sides that balance at 456,400.</figcaption>
+</figure>
+
 
 ## Worked example: Avenmoor Cycles Ltd
 
@@ -121,6 +139,17 @@ Adjustments at 31 December 2026:
 - Insurance: 14,400 less 1,200 prepaid = 13,200 expense.
 - Wages: 96,000 plus 3,000 owing = 99,000 expense.
 - Loan interest: 3,000 paid plus 3,000 owing = 6,000, which is 10% of 60,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--02-un14-step1-adjustments.webp" width="900" height="988" alt="Avenmoor depreciation, insurance, wages and loan interest adjustments as sums. Accumulated depreciation 24,000 + 8,000 = 32,000 (NBV 48,000); insurance 14,400 - 1,200 = 13,200; wages 96,000 + 3,000 = 99,000; interest 3,000 + 3,000 = 6,000." loading="lazy">
+  <figcaption>Each adjustment turns the amount paid into the expense for the year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ### Step 2: the income statement
 
@@ -197,6 +226,17 @@ Comments need figures and a judgement, not only a description. For Avenmoor:
 - Dividends of 20,000 are a small share of profit for the year, so most profit is kept in the business.
 
 The specification asks you to comment on the statements but does not list ratio formulas for this row, so use only the measures your course teaches. Always compare with a previous year, a target or another business if the question gives one, and say what the figure means for owners, lenders or managers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--01-u2-015-lc-revenue-split.webp" width="900" height="914" alt="Avenmoor revenue 690,000 dollars splits into cost of sales 408,500 (59.2%), expenses 154,900 (22.4%), loan interest 6,000 (0.9%) and profit 120,600 (17.5%); gross margin 40.8%. Of the profit, 20,000 is paid as dividends and 100,600 kept." loading="lazy">
+  <figcaption>Most of each dollar of revenue goes on costs, and most profit is kept.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--02-u2-015-lc-reading-statements.webp" width="900" height="1014" alt="Current assets 108,400 cover current liabilities 37,000 about 2.9 times. The loan of 60,000 is 14.3% of loan plus equity. Operating profit 126,600 covers interest of 6,000 about 21 times." loading="lazy">
+  <figcaption>Three simple comparisons show liquidity, funding and interest cover.</figcaption>
+</figure>
+
 
 ## What is not examined
 

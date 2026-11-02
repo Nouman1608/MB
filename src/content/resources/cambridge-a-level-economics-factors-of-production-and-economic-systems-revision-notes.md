@@ -58,6 +58,17 @@ Remember the order: rent, wages, interest, profit (land, labour, capital, enterp
 - Shares: wages 64%, rent 6%, interest 10%, profit 20%. Check: 64 + 6 + 10 + 20 = 100.
 - Wages are 64 ÷ 20 = 3.2 times profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--10-profit-residual.webp" width="900" height="930" alt="Stacked columns of a workshop: wages, rent, interest, materials and profit at revenue 500,000 and 450,000. Wages, rent and interest are fixed, so a 10% sales fall cuts profit from 100,000 to 62,000 (-38%)." loading="lazy">
+  <figcaption>Profit absorbs the shock because the other rewards are committed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+
 ## Human versus physical capital
 
 - Both are investment: a cost now for a higher output later.
@@ -66,6 +77,12 @@ Remember the order: rent, wages, interest, profit (land, labour, capital, enterp
 - Payback period = cost ÷ yearly gain. Annual return = yearly gain ÷ cost × 100.
 
 **Worked reminder.** A course costs 2,000 cu and raises pay by 250 cu a year. Payback = 2,000 ÷ 250 = 8 years. Annual return = 250 ÷ 2,000 × 100 = 12.5%. After 3 years the gain is 750, so the course has not yet paid for itself (net −1,250).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--04-human-capital-payback.webp" width="900" height="830" alt="Cumulative net gain from a 3,000 cu course that adds 600 cu a year: starts at -3,000, crosses zero at year 5, reaches +3,000 at year 10. If the firm paid and she left after year 3 the firm is 1,200 cu worse off (1,800 gain vs 3,000 cost)." loading="lazy">
+  <figcaption>Payback is 5 years, but only if the trained worker stays.</figcaption>
+</figure>
+
 
 ## Division of labour and specialisation
 
@@ -90,6 +107,17 @@ Method in steps for a calculation question:
 
 Two benefits and two costs, each with a short chain of reasoning, is a typical way to build a balanced answer. State which side wins and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--05-candle-division-of-labour.webp" width="900" height="830" alt="Four workers each make 5 candles alone (20). With melting, pouring, finishing and packing the workshop makes 36 (9 per worker, +80%). Labour cost per candle falls from 12.00 to 6.67 cu, down 44.4%." loading="lazy">
+  <figcaption>Dividing the tasks lifts output from 20 to 36 and cuts labour cost per candle by 44.4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+
 ## The entrepreneur (1.3.5)
 
 Two roles: risk-taking and organising the other factors. The reward is profit, but the entrepreneur is paid after everyone else, so a fall in sales hits profit hardest.
@@ -97,6 +125,12 @@ Two roles: risk-taking and organising the other factors. The reward is profit, b
 - Break-even output = fixed costs ÷ (price − variable cost per unit).
 
 **Worked reminder.** A market stall (invented) has fixed costs of 900 cu. Price is 4 cu and variable cost is 1.50 cu. Contribution = 4 − 1.50 = 2.50 cu. Break-even = 900 ÷ 2.50 = 360 units. At 500 units profit = 500 × 2.50 − 900 = 350 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--11-cafe-breakeven.webp" width="900" height="880" alt="Break-even chart of a cafe: revenue 3 per cup, total cost 3,600 plus 1.20 per cup. Break-even at 2,000 cups; loss of 900 at 1,500 cups; profit 1,080 and margin of safety 23.1% at 2,600 cups." loading="lazy">
+  <figcaption>The entrepreneur takes the swing from loss to profit above break-even.</figcaption>
+</figure>
+
 
 ## Economic systems
 
@@ -124,6 +158,32 @@ Real economies sit at different points on this line. None is pure.
 **Worked reminder: a shortage under a fixed price.** Planners fix a price of 5 cu. Demand is 450 units but the plan produces 350. Shortage = 450 − 350 = 100 units, which is 100 ÷ 450 × 100 = 22.2% of demand. Without a price rise the shortage appears as queues, rationing or an illegal market.
 
 **Worked reminder: how a market reallocates resources.** Demand for a product rises. In an invented market the price goes from 6 cu to 7.50 cu (a 25% rise) and quantity from 400 to 440 (a 10% rise). Chain of reasoning: higher demand, shortage at the old price, price rises, profit per unit rises, firms offer more and bid for labour and materials, resources move in from less profitable uses. Nobody ordered this. The price signal did the work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--12-lamp-market.webp" width="900" height="910" alt="Demand and supply for lamps. A rise in demand of 120 at every price moves equilibrium from price 4, quantity 600 to price 4.60, quantity 660." loading="lazy">
+  <figcaption>Higher price and profit pull resources into lamps without central order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--13-lamp-planned.webp" width="900" height="910" alt="Planners fix the lamp price at 3 and output at 500. Demand at 3 is 700, so the shortage is 200 lamps (28.6% of demand)." loading="lazy">
+  <figcaption>A fixed price below the market price leaves a shortage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--06-economic-systems-compared.webp" width="900" height="850" alt="Three cards from market to planned. Market: private owners, consumers and firms decide, prices and profit signal, goods go to those with income. Mixed: both, market plus state, prices plus government, incomes after tax and benefits. Planned: the state, planners, plans and quotas, state allocation." loading="lazy">
+  <figcaption>Who owns, who decides, the signal and who gets the output in each system.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--07-economic-systems-strengths-weaknesses.webp" width="900" height="860" alt="Ticks and crosses per system. Market: responds to wants, rewards efficiency; ignores those on no income, under-provides public goods. Mixed: combines prices and state provision; government may misjudge, intervention has costs. Planned: meets national priorities, equal access; information problems, shortages and surpluses." loading="lazy">
+  <figcaption>Strengths and weaknesses of market, mixed and planned systems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

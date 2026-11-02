@@ -77,6 +77,27 @@ A percentage over 100 is allowed: 135% of a quantity is more than the whole quan
 750/2500 x 100 = 30%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--07-reverse-percentage-blocks.webp" width="900" height="830" alt="Three blocks of £21 make the £63 sale price (75%); a fourth block is the 25% taken off. Dividing by 0.75 gives the original £84. Adding 25% of £63 gives £78.75, which is wrong." loading="lazy">
+  <figcaption>£63 is 75% of the original, so divide by 0.75 to get £84.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--01-pct-base-compare.webp" width="900" height="1090" alt="Two strips show 63 of 75 is 84 percent and 750 g of 2.5 kg is 30 percent; two bars show a fare falling from 250 to 215, a 14 percent decrease. Always divide by the whole or the original." loading="lazy">
+  <figcaption>Divide the part by the whole, or the change by the original, then multiply by 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
+
 ## Percentages as multipliers (1.6D–E)
 
 Finding a percentage of an amount is a multiplication. The specification's own wording is "the multiplicative nature of percentages as operators".
@@ -164,6 +185,12 @@ Simple interest at the same rate would give 3 x (4% of 5000) = £600. Compound g
 
 Read the question for what it asks: the **value**, or the **interest** (or the **loss**), which is the change. Keep full calculator values until the last step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--06-compound-interest-years.webp" width="900" height="870" alt="Bars show the interest earned each year on £5000 at 4%: £200, £208 and £216.32. The extra over £200 is interest on earlier interest. The total is £5624.32, an interest of £624.32, compared with £600 simple." loading="lazy">
+  <figcaption>Each year interest is paid on the new total, so it grows: £200, £208, £216.32.</figcaption>
+</figure>
+
+
 ## Repeated percentage change (1.6, Higher tier only)
 
 When several percentage changes follow each other, multiply the multipliers. Each change acts on the result of the one before, so you never add the percentages.
@@ -176,6 +203,12 @@ When several percentage changes follow each other, multiply the multipliers. Eac
 ```
 
 Adding the percentages (25 − 12 = 13%) is wrong, because the 12% fall is taken from a larger amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--08-repeated-percentage-change.webp" width="900" height="850" alt="100 rises by 25% to 125, then falls by 12% of 125 (15) to 110. Adding the percentages gives 113, which is wrong. The multipliers 1.25 and 0.88 multiply to 1.1, an overall rise of 10%." loading="lazy">
+  <figcaption>Multiply the multipliers: 1.25 × 0.88 = 1.1, an overall increase of 10%.</figcaption>
+</figure>
+
 
 ## Solving compound interest problems (1.6, Higher tier only)
 
@@ -233,6 +266,12 @@ a : b = 8 : 12     b : c = 12 : 15
 a : b : c = 8 : 12 : 15
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--04-ratio-rewrite.webp" width="900" height="1000" alt="Block bars show 45 cm : 2 m becoming 9 : 40, 8 : 28 becoming 1 : 3.5, and a : b = 2 : 3 with b : c = 4 : 5 becoming 8 : 12 : 15 once b is matched at 12." loading="lazy">
+  <figcaption>Use the same units, divide by the first part for 1 : n, and match the shared term to combine ratios.</figcaption>
+</figure>
+
+
 ## Dividing in a ratio (1.7B)
 
 Find the value of **one part**, then multiply. What the question gives you decides how you find one part.
@@ -259,6 +298,22 @@ numbers: 84 and 36
 5 parts = 85, so one part = 17
 smaller share = 2 x 17 = 34
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--09-ratio-given-difference.webp" width="900" height="790" alt="Two rows of blocks show 7 parts and 3 parts. The 4 extra parts equal 48, so one part is 12. The numbers are 84 and 36." loading="lazy">
+  <figcaption>The difference in the ratio (4 parts) is 48, so one part is 12.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--05-ratio-one-share.webp" width="900" height="840" alt="Five blocks of 17 make the larger share 85 and two blocks make the smaller share 34." loading="lazy">
+  <figcaption>When one share is given, find one part first and then multiply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
 
 ## Proportion (1.7C–D)
 
@@ -292,6 +347,17 @@ k = 14 / 4 = 3.5,  so s = 3.5t
 t = 10:   s = 3.5 x 10 = 35
 s = 24.5: t = 24.5 / 3.5 = 7
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--02-unitary-best-buy.webp" width="900" height="1100" alt="Six pens cost 8.70, so one pen is 1.45 and eleven pens 15.95. A 400 g pack is 4 blocks of 100 g at 0.65 each and a 750 g pack is 7.5 blocks at 0.62 each, so the larger pack is better value." loading="lazy">
+  <figcaption>Find the cost of one unit, then scale up or compare per 100 g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--03-direct-prop-table.webp" width="900" height="1010" alt="A straight line through the origin for s = 3.5t with the points (4, 14), (7, 24.5) and (10, 35), and a table in which s divided by t is 3.5 each time. Linear proportion only; powers belong to section 2.5." loading="lazy">
+  <figcaption>In direct proportion s divided by t is constant and the graph is a straight line through the origin.</figcaption>
+</figure>
+
 
 ## Maps and scale diagrams (1.7E)
 

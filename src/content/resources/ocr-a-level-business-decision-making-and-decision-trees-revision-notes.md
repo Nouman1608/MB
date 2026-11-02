@@ -48,6 +48,12 @@ Quick recall for OCR A Level Business (H431) sections 1.13 Decision making and 1
 
 Time and level often line up, but they are separate ideas. A decision can be short-term and still strategic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--05-dm-three-levels.webp" width="900" height="1030" alt="Three stacked bars: strategic decisions by senior managers for the whole business (enter a new region), tactical by middle managers for one function (seasonal promotion) and operational by supervisors and teams daily (tomorrow's baking rota). An arrow shows the higher level is wider, costlier and harder to reverse." loading="lazy">
+  <figcaption>Strategic decisions set the frame, tactical ones fit inside it and operational ones carry it out.</figcaption>
+</figure>
+
+
 ### Factors to weigh before deciding
 
 1. Level of risk: size of possible loss against possible gain, set against reserves.
@@ -84,6 +90,12 @@ Time and level often line up, but they are separate ideas. A decision can be sho
 ### Method: extent of success
 
 Compare results with objectives, with previous years, with competitors and from each stakeholder's view. Reach a judgement of degree: successful in some respects, not in others, and say which matter most. A business that meets its growth target but misses its profit target is partly successful, and the weight you give each depends on the objective and on the stakeholder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--03-dm-pelmoor-average-worst.webp" width="900" height="930" alt="Each option is shown as a bar from its worst to its best net result with the chance of each outcome and the average. The bottling line averages 63,000 pounds but can lose 60,000; outsourcing averages 41,500 and always gains at least 10,000; doing nothing is zero." loading="lazy">
+  <figcaption>Higher average net gain does not remove a deeper worst case.</figcaption>
+</figure>
+
 
 ## 1.14 Decision trees at a glance
 
@@ -140,6 +152,22 @@ Interpretation: the shop pays off on average only if the owners believe success 
 | Response | Test the probabilities, check the worst case is survivable, add qualitative factors |
 | Importance | Greatest for costly, hard-to-reverse choices; shows who bears the downside |
 | Usefulness | Strengths: clear, shows assumptions, compares options, handles sequences. Limits: estimates, subjective, ignores qualitative factors and timing of cash flows, false precision |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--04-dt-two-stage-tree.webp" width="900" height="1170" alt="A decision tree: launch (cost 60,000) or not. High demand (0.4) leads to a second decision, stay for 140,000 or expand for 30,000 with 0.7 chance of 300,000 and 0.3 of 120,000; low demand (0.6) gives 50,000. Working right to left gives 216,000 for expanding, 116,400 at the launch node and a net gain of 56,400." loading="lazy">
+  <figcaption>Work right to left: solve the later decision first, then the first chance node.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

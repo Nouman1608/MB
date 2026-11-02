@@ -38,6 +38,12 @@ Related pages: the [Cambridge O Level Business hub](/boards/cambridge/o-level/bu
 | 2.4.1 | Explain why effective communication matters; weigh communication methods, including IT-based ones; recommend and justify a method |
 | 2.4.2 | Explain how communication barriers arise, the problems of ineffective communication, and how barriers can be reduced or removed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ## 2.3.1 Recruitment and selection
 
 **Recruitment** is attracting suitable people to apply for a vacancy. **Selection** is choosing between those who applied. Keep the two words apart in your answers.
@@ -79,6 +85,22 @@ Judgement: part-time is cheaper, but the bakery must weigh extra management effo
 
 **Recommend and justify who to employ.** You will be given two or three candidates and a business situation. Match each candidate against what this business needs now. State your choice, give two reasons tied to the facts, then say why the runner-up was less suitable or what risk your choice carries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--03-part-time-cost.webp" width="900" height="840" alt="Two bars: one full-time employee for 40 hours costs Rs 20,000 a week; two part-timers for 15 hours each cost Rs 15,000, saving Rs 5,000 (25%). Induction for two costs Rs 2,400 once, 0.48 of a week of the saving." loading="lazy">
+  <figcaption>Two part-timers cost Rs 5,000 a week less than one full-timer in the bakery example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--01-recruit-routes.webp" width="900" height="860" alt="Two panels compare internal recruitment (existing staff, one promoted into the vacancy) with external recruitment (a large crowd of outside applicants). Internal is quicker and cheaper, the record is known and it shows promotion is possible, but there are few applicants, no new ideas and the old job must be filled. External gives a larger pool and fresh ideas but costs more, ability is less certain and staff may feel overlooked." loading="lazy">
+  <figcaption>Internal and external recruitment each have benefits and limitations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## 2.3.2 Training
 
 **Training** is teaching employees the skills and knowledge to do a job well.
@@ -99,6 +121,17 @@ Judgement: part-time is cheaper, but the bakery must weigh extra management effo
 
 Cost is not the only test: if mistakes on the machines are dangerous, the dearer course may still be better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--05-training-cost-compare.webp" width="900" height="840" alt="Stacked bars: off-the-job training costs Rs 24,400 per trainee (18,000 fee plus 6,400 lost output); on-the-job costs Rs 7,500 (6,000 supervisor time plus 1,500 scrap). For 8 trainees: Rs 195,200 v Rs 60,000, a difference of Rs 135,200." loading="lazy">
+  <figcaption>Off-the-job training is dearer here, though cost is not the only test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2.3.3 Reducing the size of the workforce
 
 **Dismissal** is when an employer ends a contract because of something connected with the employee, such as repeated serious misconduct or persistent failure to reach the required standard. **Redundancy** is when the job itself is no longer needed, so the employee loses the post through no fault of their own.
@@ -114,6 +147,17 @@ Cost is not the only test: if mistakes on the machines are dangerous, the dearer
 **Worked example.** Ironvale Fabrication has 50 employees paid an average Rs 45,000 a month, a wage bill of 50 × 45,000 = Rs 2,250,000. Demand for one product line has dropped. Removing 8 posts saves 8 × 45,000 = Rs 360,000 a month, which is 360,000 ÷ 2,250,000 = 16% of the wage bill. Any compensation owed under contracts or local law reduces the saving in the first months.
 
 **Which employees to make redundant.** Base the choice on business needs, not personal dislike: which jobs are no longer needed, whose skills are still required, and who could move or retrain. Always state the downside of your recommendation, such as lost experience or lower morale among those who stay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-dismissal-vs-redundancy.webp" width="900" height="730" alt="Two panels. Dismissal concerns the person: an employee ignores safety rules after warnings and leaves; the post is often refilled. Redundancy concerns the job: a machine does the work of five, the post is crossed out and usually removed, through no fault of the worker." loading="lazy">
+  <figcaption>Dismissal is about the employee; redundancy is about the job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--05-ironvale-redundancy.webp" width="900" height="960" alt="Fifty employee figures with 8 crossed out. The wage bill is 50 x Rs 45,000 = Rs 2,250,000 a month; removing 8 posts saves Rs 360,000 a month, 16 percent of the bill. Compensation owed reduces the saving at first, and posts should be chosen by business need." loading="lazy">
+  <figcaption>Removing 8 of 50 posts saves 16% of the monthly wage bill.</figcaption>
+</figure>
+
 
 ## 2.3.4 Legal controls over employment
 
@@ -135,6 +179,17 @@ The syllabus lists five areas. Describe each in general terms.
 
 Delmore might raise prices, trim hours or accept lower profit. Employees gain, but the firm may employ fewer people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--02-legal-five.webp" width="900" height="784" alt="Five rows with an icon each: contracts, unfair dismissal, discrimination, health and safety and minimum wage. Each row states in a few words what the employer must do and what the employee gains." loading="lazy">
+  <figcaption>The five legal controls, with what each asks of employers and gives employees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--03-delmore-min-wage.webp" width="900" height="890" alt="Bars show monthly pay of Rs 38,000 against a new minimum of Rs 40,000, a rise of Rs 2,000 or 5.3 percent. For 12 cleaners this is Rs 24,000 a month and Rs 288,000 a year. Delmore might raise prices, trim hours or accept lower profit." loading="lazy">
+  <figcaption>A Rs 2,000 rise for each of 12 cleaners costs Delmore Rs 288,000 a year.</figcaption>
+</figure>
+
+
 ## 2.4.1 Effective communication and methods
 
 **Communication** is passing information from a sender to a receiver and getting a response. It is **effective** when the message is received, understood and acted on. Good communication helps decisions, coordination, motivation, safety and customer relations. **Internal** communication is within the business (managers to staff, staff to staff). **External** communication is with customers, suppliers, banks and the public.
@@ -154,6 +209,12 @@ Delmore might raise prices, trim hours or accept lower profit. Employees gain, b
 
 **Recommend and justify a method.** Decide on four factors: how urgent, how complex, how many receivers, and whether a record or feedback is needed. For the dairy, a short briefing for the change itself, backed by a posted notice and a follow-up email, covers speed, understanding and record.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-rosedale-briefing.webp" width="900" height="950" alt="90 staff figures; a 15-minute briefing is 22.5 staff-hours, Rs 10,125 of working time at Rs 450 an hour. The briefing allows instant questions but leaves no record unless minuted; a notice plus email is cheap and leaves a record but cannot confirm understanding. Together they cover speed, understanding and a record." loading="lazy">
+  <figcaption>Combining a briefing with a notice and email covers speed, understanding and a record.</figcaption>
+</figure>
+
+
 ## 2.4.2 Communication barriers
 
 A **barrier** is anything that stops a message being received or understood.
@@ -167,6 +228,12 @@ A **barrier** is anything that stops a message being received or understood.
 | Noise, distance or technical failure | Message not received | Better equipment; written back-up |
 
 **Problems of ineffective communication** include mistakes and rework, delays, lower morale, weaker customer service, lost orders, and conflict between departments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
 
 ## Common errors
 

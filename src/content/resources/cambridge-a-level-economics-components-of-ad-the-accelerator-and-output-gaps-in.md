@@ -61,6 +61,17 @@ A **shift** of the whole function comes from a change in anything else. If confi
 
 **Determinants of autonomous consumption** (shifters): household wealth (such as house or share prices), interest rates, the availability of credit, consumer confidence and expectations of future income, and the age structure of the population. Taxes on income change the disposable income that induced spending depends on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--10-consumption-function.webp" width="900" height="1170" alt="Consumption C = 60 + 0.75Y crosses the 45 degree line at Y = 240; below it households dissave, above it they save. A dashed line shows a downward shift when confidence falls." loading="lazy">
+  <figcaption>Income changes move along the function; confidence shifts the whole function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+
 ## The savings function
 
 Saving is income not spent. With no tax, S = Y - C, so S = Y - (a + bY) = -a + (1 - b)Y.
@@ -69,6 +80,12 @@ Saving is income not spent. With no tax, S = Y - C, so S = Y - (a + bY) = -a + (
 - **Induced saving** is the part that rises with income (0.25Y in Country A).
 
 Check with the table: at Y = 300, S = -60 + 0.25 × 300 = 15, which matches Y - C = 300 - 285. Saving and consumption are two sides of the same decision, so anything that shifts the consumption function up shifts the savings function down by the same amount. Higher interest rates reward saving and make borrowing dearer, which tends to lower autonomous consumption and raise saving at each income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--03-savings-function.webp" width="900" height="810" alt="Graph of the savings function S = -60 + 0.25Y for Country A. It starts at -60 when income is zero (autonomous saving, dissaving), crosses zero at Y = 240 and reaches 40 at Y = 400. At Y = 300, saving of 15 is made of autonomous -60 plus induced saving of 75 (0.25 times 300)." loading="lazy">
+  <figcaption>Saving is the mirror of consumption: S = −60 + 0.25Y, negative until income reaches 240.</figcaption>
+</figure>
+
 
 ## Investment and the accelerator
 
@@ -107,6 +124,17 @@ Four lessons from the table:
 
 **Limits of the accelerator:** it assumes firms run at full capacity, so spare capacity weakens it. It assumes firms treat a rise in demand as lasting; if they expect it to be temporary they will not invest. It assumes capital goods can be supplied at once, that credit is available, and that v is constant. Real investment also depends on interest rates and confidence. The accelerator is best seen as one cause of fluctuations in investment, not a full theory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--11-accelerator-v3-gross-investment.webp" width="900" height="1080" alt="Bars show change in output and gross investment for five years with an accelerator of 3 and depreciation 10. In year 3 output still rises but investment falls; in year 5 gross investment cannot go below zero." loading="lazy">
+  <figcaption>Investment depends on the change in output, not its level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
+
 ## Government spending
 
 Government spending (G) in AD is spending on goods and services: public-sector wages, health and education provision, and capital projects such as roads. **Transfer payments** (pensions, benefits) are not part of G, because nothing is produced in exchange. They affect AD only when recipients spend them, so they appear in C.
@@ -114,6 +142,12 @@ Government spending (G) in AD is spending on goods and services: public-sector w
 **Worked example.** A government spends 40 cu on public-sector pay, 20 cu on a new rail line and 30 cu on benefits. G in AD = 40 + 20 = 60 cu. The 30 cu of benefits is excluded.
 
 Most G is treated as autonomous, because decisions come from policy, not from current income. It can change with the political priorities of the government, the stage of the economic cycle (spending on benefits rises in a downturn and tax revenue falls), the size of the budget deficit and national debt, and fiscal policy aims. A rise in G of 15 cu (from 60 to 75) shifts the AD schedule up by 15 at every level of income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--04-government-spending-excludes-transfers.webp" width="900" height="720" alt="One bar of 90 cu of government outlay: public-sector pay 40, a new rail line 20 and benefits 30. Pay plus rail, 60 cu, counts as G in aggregate demand. The 30 cu of benefits is a transfer payment and is excluded from G; it reaches AD only when recipients spend it, through consumption." loading="lazy">
+  <figcaption>Only spending on goods and services counts as G: 40 + 20 = 60 cu. Benefits are transfers.</figcaption>
+</figure>
+
 
 ## Net exports
 
@@ -125,6 +159,12 @@ Net exports are exports minus imports (X - M). Exports are demand from abroad fo
 - At Y = 600, M = 20 + 90 = 110, so X - M = -20.
 
 Higher income pulls in more imports, so net exports fall as Y rises. If foreign incomes grow and exports rise by 12 to 102, net exports at Y = 400 become 22. A lower exchange rate usually makes exports cheaper abroad and imports dearer at home, and so tends to raise X - M, but the size depends on how responsive buyers are to price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--05-net-exports-x-minus-m.webp" width="900" height="980" alt="Graph for Country A. Exports are a flat line at 90. Imports rise with income as M = 20 + 0.15Y. The lines cross at Y of about 467. At Y = 400, M = 80 so net exports are +10. At Y = 600, M = 110 so net exports are -20. Higher income pulls in more imports, so net exports fall as Y rises." loading="lazy">
+  <figcaption>Exports are fixed at 90 but imports rise with income, so X − M falls as Y rises.</figcaption>
+</figure>
+
 
 ## Equilibrium and full employment
 
@@ -141,6 +181,12 @@ Equilibrium national income is where planned AD equals income (Y = AD). The **fu
 
 Where AD exceeds Y, firms see stocks fall and raise output. Where AD is below Y, stocks build up and output falls. **Equilibrium is Y = 600.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--06-ad-minus-y-stock-adjustment.webp" width="900" height="840" alt="Horizontal bars of AD minus Y for Country A, where AD = 240 + 0.6Y. At Y = 400, AD exceeds Y by 80; at 500, by 40; at 600, AD equals Y so the economy is in equilibrium; at 700, AD is 40 below Y. Where AD is above Y, stocks fall and firms raise output; where AD is below Y, stocks build up and output falls." loading="lazy">
+  <figcaption>Where AD − Y is positive, stocks fall and output rises; negative, stocks build and output falls.</figcaption>
+</figure>
+
+
 ## Deflationary and inflationary gaps
 
 Suppose full employment income is 700 in Country A.
@@ -151,12 +197,29 @@ Suppose full employment income is 700 in Country A.
 
 A question may use either measure of the gap, so say which one you use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--12-deflationary-gap.webp" width="900" height="1082" alt="AD = 240 + 0.6Y meets the 45 degree line at Y = 600. At full employment 700 AD is 660, so the vertical deflationary gap is 40 and income is 100 short." loading="lazy">
+  <figcaption>The deflationary gap is the shortfall of AD at full employment income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--13-inflationary-gap.webp" width="900" height="1038" alt="After AD rises to 330 + 0.6Y, AD at Y = 700 is 750, an inflationary gap of 50. The model equilibrium of 825 is beyond capacity." loading="lazy">
+  <figcaption>Spending beyond capacity creates an inflationary gap.</figcaption>
+</figure>
+
+
 ## Evaluating gaps
 
 - **Measuring full employment is hard.** It is an estimate. If full employment income in Country A were 650, AD at 650 would be 240 + 0.6 × 650 = 630, so the deflationary gap would be only 20, not 40.
 - **Self-correction is disputed.** Some economists expect a deflationary gap to close as wages and prices fall. Others expect a long period of unemployment, which favours demand management.
 - **Policy lags.** By the time action takes effect, the gap may have changed.
 - **Both gaps can exist for one economy** at different times, so the cycle matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in--07-gap-depends-on-full-employment.webp" width="900" height="940" alt="Zoomed graph of AD = 240 + 0.6Y against the 45-degree line AD = Y, which meet at Y = 600. If full employment income is 700, AD is 660 and the deflationary gap is 40. If full employment is estimated at 650, AD is 630 and the gap is only 20. The size of the gap depends on the estimate of full employment." loading="lazy">
+  <figcaption>The gap depends on an estimate: full employment at 650 gives a gap of 20, at 700 a gap of 40.</figcaption>
+</figure>
+
 
 ## Common errors
 

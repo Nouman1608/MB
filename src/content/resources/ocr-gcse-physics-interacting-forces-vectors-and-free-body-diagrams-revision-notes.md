@@ -44,6 +44,12 @@ These notes condense statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) G
 - Every interaction involves two objects and gives a force on each.
 - Wording to use: "the force of A on B" and "the force of B on A".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--01-interaction-types.webp" width="900" height="1210" alt="Four panels show gravity (stone and Earth), electrostatics (+ and -), magnetism (magnet and nail) and contact (book on table). Each shows one force arrow on each of the two objects, pointing the way the objects pull or push each other." loading="lazy">
+  <figcaption>Every interaction involves two objects and a force on each.</figcaption>
+</figure>
+
+
 ## Free body diagrams (P2.2c, P2.2f, P2.2g, P2.2h)
 
 Method in steps:
@@ -64,12 +70,29 @@ Typical forces to include:
 | Hanging mass on a string | Weight (down), tension (up) |
 | Block sliding on a table | Weight, normal contact force, friction (against motion), push or pull |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--01-fbd-book-and-car.webp" width="900" height="1040" alt="Two free body diagrams. A book at rest has an upward normal contact force and a downward weight of equal length. A car at constant speed has the same vertical pair plus forward thrust and shorter drag and friction arrows backward whose lengths add up to the thrust. Only forces on the one object are drawn." loading="lazy">
+  <figcaption>Balanced forces on one object give arrows that match in length.</figcaption>
+</figure>
+
+
 ## Newton's first law (P2.2d)
 
 - Resultant zero: stays at rest, or keeps the same speed and direction.
 - Resultant not zero: velocity changes (speed, direction, or both).
 - Constant velocity needs no resultant force.
 - A stationary object has forces on it, and they balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--02-car-first-law.webp" width="900" height="1060" alt="The same car is drawn twice to one scale. With 3150 N driving and 2550 N resistive forces the resultant is 600 N forward and the speed rises; when resistive forces reach 3150 N the resultant is zero and the velocity is steady." loading="lazy">
+  <figcaption>Zero resultant means constant velocity; a resultant changes the motion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
+  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
+</figure>
+
 
 ## Resultants and vector diagrams (P2.2e, P2.2g)
 
@@ -84,6 +107,17 @@ Resolution is the reverse: draw the force as the diagonal of a rectangle and rea
 
 Equilibrium test: vectors placed head to tail form a closed shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--02-resultant-perpendicular.webp" width="900" height="665" alt="A scale drawing places a 15 N arrow east and an 8.0 N arrow north head to tail. The resultant joining start to finish is 17 N at 28 degrees north of east. Adding the sizes to get 23 N is marked wrong." loading="lazy">
+  <figcaption>Perpendicular forces combine by Pythagoras, not by adding sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--04-equilibrium-triangle.webp" width="900" height="1060" alt="A ring is pulled with 6.0 N east and 8.0 N north, so a third force of 10 N at 53 degrees south of west keeps it in equilibrium. Drawn head to tail, the three arrows close into a right-angled triangle, showing zero resultant." loading="lazy">
+  <figcaption>Forces in equilibrium form a closed vector triangle.</figcaption>
+</figure>
+
+
 ## Terminal velocity (P2.2f)
 
 1. Start: weight greater than drag, so a resultant downward and speed rises.
@@ -92,12 +126,29 @@ Equilibrium test: vectors placed head to tail form a closed shape.
 4. Parachute opens: drag greater than weight, upward resultant, slows.
 5. Drag equals weight again: smaller terminal velocity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--04-terminal-velocity.webp" width="900" height="880" alt="A speed-time graph rises then levels at 50 m/s. Free-body diagrams at A, B and C show weight 800 N with drag 0, about 290 N and about 800 N, so the resultant falls from 800 N to about zero." loading="lazy">
+  <figcaption>As speed rises drag grows until it equals the weight; resultant force is zero and speed stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--04-terminal-velocity.webp" width="900" height="1130" alt="A velocity-time graph for a faller computed from a drag-squared model, with points A to E and matching free-body diagrams. Drag grows from zero until it equals the weight at terminal velocity (40 m s-1), then the parachute opens, drag exceeds weight and the speed falls to a smaller terminal velocity (8 m s-1) where drag again equals weight." loading="lazy">
+  <figcaption>Acceleration falls to zero as drag grows to equal weight; opening a parachute gives a new, smaller terminal velocity.</figcaption>
+</figure>
+
+
 ## Newton's third law (P2.2p)
 
 - Pair forces: same size, opposite direction, same type, on different objects.
 - Pair forces never cancel, since each acts on a different object.
 - A book's weight and the table's push on it are not a pair.
 - Pair of the Earth's pull on a book: the book's pull on the Earth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -136,6 +187,12 @@ Before you leave a diagram, check that you have: only one object; every arrow st
 ## Resolution reminder
 
 A 130 N force is drawn at an angle whose triangle has sides in the ratio 5 : 12 : 13. Scale 1 cm to 10 N: the arrow is 13.0 cm. Its sides measure 12.0 cm and 5.0 cm. The components are **120 N** and **50 N**. Check: 120² + 50² = 16 900 = 130².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--03-resolve-components.webp" width="900" height="725" alt="A 100 N rope force on a trolley is drawn as the diagonal of a rectangle in a 3-4-5 triangle. Its components are 80 N horizontally and 60 N vertically. The vertical part partly lifts the trolley so the ground pushes up with less force than the weight." loading="lazy">
+  <figcaption>A single force can be replaced by two perpendicular components.</figcaption>
+</figure>
+
 
 ## Command words in this topic
 

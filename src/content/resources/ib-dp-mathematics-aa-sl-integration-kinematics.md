@@ -104,6 +104,17 @@ Area = ∫₀² √(x³ + 1) dx
 
 Writing only "3.24" risks losing the method mark. Always show the integral with its limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--01-boundary-condition.webp" width="900" height="770" alt="Three vertical shifts of y = 2x³ − 2x² + x + c are drawn, for c = 3, −5 and −13. Only c = −5 passes through (2, 5), since 2x³ − 2x² + x equals 10 at x = 2. This is the lesson's boundary-condition example." loading="lazy">
+  <figcaption>A known point on the curve picks out the one value of c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--03-gdc-area.webp" width="900" height="768" alt="The curve y = √(x³ + 1) is above the x-axis from 0 to 2. The shaded area equals the definite integral from 0 to 2, 3.2413… on a GDC, or 3.24 to 3 s.f., and the integral with limits must be written." loading="lazy">
+  <figcaption>Write the definite integral with its limits, then let the GDC evaluate it.</figcaption>
+</figure>
+
+
 ## 5.10 Standard integrals and the reverse chain rule
 
 | f(x) | ∫ f(x) dx |
@@ -156,6 +167,12 @@ Let u = x² + 4, so du/dx = 2x, and x dx = (1/2) du.
 
 Always write the answer in terms of x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--02-linear-composite.webp" width="900" height="710" alt="The copper curve sin(3x − 1) has gradient 3 at its root x = 1/3, while one third of it has gradient 1 there. Differentiating (1/3)sin(3x − 1) gives cos(3x − 1), so integrating cos(3x − 1) needs the factor 1/3." loading="lazy">
+  <figcaption>Integrating a function of ax + b divides by a, because differentiating multiplies by a.</figcaption>
+</figure>
+
+
 ## 5.11 Definite integrals by hand and areas
 
 The analytical rule is
@@ -191,6 +208,12 @@ Area = 4/3 + |−4/3| = 8/3
 
 Note that ∫₀³ f(x) dx = 0. That is the signed value, not the area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--04-area-split-at-roots.webp" width="900" height="790" alt="The parabola y = x² − 4x + 3 has roots at x = 1 and 3. The part from 0 to 1 is above the axis with integral 4/3, and from 1 to 3 it is below with integral −4/3. The area is 4/3 + 4/3 = 8/3, while the single integral from 0 to 3 is 0." loading="lazy">
+  <figcaption>Split at each root and add the sizes to get area; a single integral gives the signed value.</figcaption>
+</figure>
+
+
 ### Area between two curves
 
 If f(x) ≥ g(x) on [a, b], the area between them is
@@ -219,6 +242,12 @@ Area = ∫ from −2.1587… to 1.6490… of (5 − x² − e^(x/2)) dx
 ```
 
 Store the intersection values in the GDC. Typing 3 s.f. limits into the integral can shift the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--05-area-between-curves.webp" width="900" height="778" alt="The parabolas y = 5 − x² and y = x² − 3 meet at (−2, 1) and (2, 1), with the first on top between them. Strips have height 8 − 2x², for example 7.5 at x = 0.5, and the integral from −2 to 2 is 64/3." loading="lazy">
+  <figcaption>Area between curves is the integral of top minus bottom between the intersection points.</figcaption>
+</figure>
+
 
 ## 5.9 Kinematics
 
@@ -252,6 +281,12 @@ Displacement is the change in position and can be negative. Distance counts ever
 ### Using your GDC for kinematics
 
 On Paper 2, find total distance by integrating |v(t)| directly. You do not need to find where v = 0 first, though writing ∫|v(t)|dt with limits is still required for the method mark. Use the graph of v to check for sign changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--06-displacement-distance.webp" width="900" height="770" alt="The velocity graph v = t² − 6t + 8 is above the axis from 0 to 2 (area 20/3), below from 2 to 4 (signed area −4/3) and above from 4 to 5 (area 4/3). Displacement is the signed sum, 20/3 m. Distance adds the sizes, 28/3 m. The particle turns at t = 2 and t = 4." loading="lazy">
+  <figcaption>Displacement is the signed area under v; distance is the area under |v|.</figcaption>
+</figure>
+
 
 ## Common errors
 

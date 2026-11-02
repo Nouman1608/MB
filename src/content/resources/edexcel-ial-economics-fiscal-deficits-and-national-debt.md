@@ -54,6 +54,12 @@ Primary balance   = 612 - 640 = -28   (a primary deficit)
 
 Deficits are compared across time and countries as a percentage of GDP, because 67 means little without the size of the economy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--06-deficit-and-debt.webp" width="900" height="900" alt="Revenue is 612. Spending is 640 on programmes plus 39 interest, 679 in total. The gap is a deficit of 67, made of a primary deficit of 28 and interest of 39, which is 2.79% of GDP of 2,400. The deficit is a flow that adds to the debt stock, raising it from 1,300 to 1,367." loading="lazy">
+  <figcaption>Deficit splits into primary balance and interest; the deficit is a flow that adds to the debt stock.</figcaption>
+</figure>
+
+
 ## 2. Automatic stabilisers and discretionary policy (3a)
 
 **Automatic stabilisers** are rules already in the tax and benefit system that move the balance whenever output moves, without any new decision. Tax receipts rise in a boom, especially under progressive income tax, and unemployment benefits fall. In a slump the reverse happens. They cushion swings in aggregate demand.
@@ -68,6 +74,12 @@ Deficits are compared across time and countries as a percentage of GDP, because 
 | Example | Benefit payments rise as firms lay off workers | A one-year cut in a sales tax rate |
 
 **Chain of reasoning.** Output falls by 100. Income tax at an average 30% of that income means tax receipts fall by 30. Benefits rise by 5. The balance worsens by 35 and household disposable income falls by 65, not 100. Spending falls by less than output, so the downturn is cushioned. The cost is a bigger deficit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--05-automatic-stabilisers-cushion.webp" width="900" height="940" alt="A fall in output of 100 loses only 65 of spending power because tax paid falls 30 and benefits rise 5; the government balance worsens by 35. Two cards contrast automatic stabilisers (no decision, immediate) with discretionary policy (a choice, with lags)." loading="lazy">
+  <figcaption>Automatic stabilisers cushion a slump without any decision, at the cost of a bigger deficit.</figcaption>
+</figure>
+
 
 ## 3. The fiscal deficit and the national debt (3a)
 
@@ -92,6 +104,12 @@ Structural deficit  = 67 - 35 = 32  (1.28% of potential output)
 
 If output recovers to potential with no policy change, the deficit falls from 67 to 32, not to zero. A government that sees only the headline 67 may think the recovery will fix it. The cyclically adjusted figure shows that 32 needs policy action. The split rests on estimating potential output, which is uncertain, so treat it as an estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--07-cyclical-vs-structural.webp" width="900" height="1030" alt="Country K has actual output of 2,400 against potential of 2,500, a gap of 100. The automatic response is 0.35 per unit of gap, so 35 of the 67 deficit is cyclical and 32 is structural. If output returns to potential with no policy change the deficit falls to 32, not zero." loading="lazy">
+  <figcaption>Which part of a deficit disappears in a recovery and which part needs policy action.</figcaption>
+</figure>
+
+
 ## 5. Factors influencing deficits and debts (3b)
 
 | Factor | Effect on deficit or debt |
@@ -108,6 +126,12 @@ If output recovers to potential with no policy change, the deficit falls from 67
 | Starting debt | A large stock means large interest payments for any given rate |
 
 **Debt dynamics.** The debt ratio stays stable when the primary surplus (as a share of GDP) equals d(r - g)/(1 + g), where d is the debt ratio, r the average interest rate and g nominal GDP growth. Country L has d = 0.90, r = 5% and g = 2%: it needs a primary surplus of 0.90 x 0.03 / 1.02 = 2.65% of GDP. Country M has d = 0.80, r = 2% and g = 4%: it can run a primary deficit of 0.80 x 0.02 / 1.04 = 1.54% of GDP with the ratio unchanged. The gap between interest rates and growth matters as much as the deficit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--06-debt-dynamics-r-minus-g.webp" width="900" height="970" alt="Two panels compare interest rate r and growth g. Country L (d 0.90, r 5%, g 2%) needs a primary surplus of 2.65% of GDP. Country M (d 0.80, r 2%, g 4%) can run a primary deficit of 1.54% of GDP with the debt ratio unchanged." loading="lazy">
+  <figcaption>When the interest rate exceeds growth a surplus is needed; when growth exceeds it a deficit is allowed.</figcaption>
+</figure>
+
 
 ## 6. Significance of deficits and debts (3c)
 
@@ -142,6 +166,22 @@ Assess any claim that debt is "too high" using these tests:
 - the purpose: investment or current spending
 - whether the deficit is cyclical or structural
 - the state of the economy: borrowing in a slump differs from borrowing in a boom
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--08-debt-servicing-refinance.webp" width="900" height="1000" alt="Country K owes 1,300. Before, all debt costs 3%, so interest is 39, 6.4% of revenue of 612. After 520 of the debt is refinanced at 6%, interest is 23.4 on the old 780 plus 31.2 on the refinanced 520, which is 54.6 or 8.9% of revenue. The extra cost is 15.6 a year." loading="lazy">
+  <figcaption>How refinancing at a higher rate raises the cost of servicing debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--07-road-debt-intergenerational.webp" width="900" height="880" alt="Borrowing 300 at 3% costs 9 a year. A road giving 14 a year of benefit leaves a net 5 a year for future users; funding current spending leaves a net loss of 9 a year with no asset." loading="lazy">
+  <figcaption>Borrowing for an asset can be fair to future taxpayers; borrowing for current spending shifts costs onto them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--08-crowding-out-loanable-funds.webp" width="900" height="1020" alt="Loanable funds graph with illustrative numbers: demand D1 meets supply S at 40bn and 6%. Government borrowing of 20bn shifts demand to D2, giving 50bn and 7%. At 7% private borrowers take only 30bn, so 10bn is crowded out. Boxes show the chain: government borrows, rates rise, investment falls." loading="lazy">
+  <figcaption>Government borrowing raises the interest rate and crowds out private investment.</figcaption>
+</figure>
+
 
 ## Common errors
 

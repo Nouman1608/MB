@@ -38,6 +38,12 @@ Topic 2 (Influences on Business) is built around one idea: **external influences
 
 **Always name the functional area** a technology change affects, and how — describing the technology alone, without this link, is a weaker answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## Ethical and environmental considerations (3.2.2)
 
 The specification's repeated word is **"trade-off"** — the exam signal to build revision around. Structure every answer as:
@@ -58,6 +64,12 @@ The specification's repeated word is **"trade-off"** — the exam signal to buil
 
 **Keep "environmental" and "sustainability" as related but separate named headings** — environmental impact (pollution, waste) is not the same as sustainability (global warming, scarce resources), even though both trade off against profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+
 ## Worked example: ethics-profit trade-off
 
 A business chooses to pay all suppliers a fair, above-market price.
@@ -75,6 +87,12 @@ Judgement:      depends on how much target customers value ethical
 ```
 
 This **cost-benefit-judgement** structure applies equally to environmental and sustainability trade-off questions — practise it as a reusable template.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## Worked example: an environmental trade-off
 
@@ -97,9 +115,21 @@ Judgement:             worthwhile if the business's customer base is
 
 Notice this uses the identical four-step structure as the ethics example -- practising the same template across ethical, environmental and sustainability scenarios is what makes this content fast to revise, since the reasoning skill being tested is the same each time, only the specific facts change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-technology-ethical-revision-notes--01-packaging-tradeoff.webp" width="900" height="1050" alt="Two bars show packaging cost: plastic at an index of 100 and biodegradable 15 percent higher at 115. Below, cost (lower margin per unit) is set against benefit (less landfill and plastic, greener reputation), ending in a judgement." loading="lazy">
+  <figcaption>A 15% dearer pack: name the cost, name the benefit, then judge.</figcaption>
+</figure>
+
+
 ## Digital communication in practice
 
 Beyond simply "businesses use email and social media," this sub-topic expects you to explain **how** digital communication actually changes stakeholder relationships: faster response times to customer queries, wider reach at lower cost than traditional advertising, but also new risks (a single negative social media post spreading quickly, or a business needing to monitor and respond to public commentary it doesn't control). A strong exam answer names a specific channel (social media, email marketing, a company app) and explains its particular effect on a named stakeholder group, rather than describing "digital communication" as one undifferentiated concept.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
 
 ## Key terms
 

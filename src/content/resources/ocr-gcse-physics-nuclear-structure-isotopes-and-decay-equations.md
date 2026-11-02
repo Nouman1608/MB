@@ -63,6 +63,12 @@ In an uncharged atom the electron count matches the proton count, so there are a
 - Relative charge +16 means 16 protons. The periodic table gives sulfur for Z = 16.
 - Neutrons = 33 - 16 = 17.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--05-particle-charge-mass.webp" width="900" height="830" alt="Proton: in the nucleus, charge +1, mass 1. Neutron: in the nucleus, charge 0, mass 1. Electron: outside the nucleus, charge -1, mass about 1/1800 (negligible). A bar shows each relative mass." loading="lazy">
+  <figcaption>Relative charge and mass of the three atomic particles.</figcaption>
+</figure>
+
+
 ## P6.1b Isotopes
 
 **Isotopes** are versions of one element whose nuclei hold different numbers of neutrons. Each has the same count of protons, so the atomic number and the nuclear charge match. Their mass numbers differ, so their nuclear masses differ.
@@ -81,6 +87,12 @@ The name of an isotope is the element and its mass number, such as oxygen-17.
 
 - Isotopes need the same number of protons. Carbon-12 and carbon-14 both have 6, and oxygen-16 and oxygen-17 both have 8.
 - Carbon-14 and nitrogen-14 have the same mass number of 14, but 6 and 7 protons. They are different elements, so they are not isotopes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
 
 ## P6.1c Nuclear notation
 
@@ -111,6 +123,12 @@ Particles use the same pattern, with the bottom number as the charge and the top
 | Beta particle | ⁰₋₁e (also written β) | 0 | -1 |
 | Gamma ray | γ | 0 | 0 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--06-reading-notation.webp" width="900" height="790" alt="Aluminium-27 (Z = 13) has 13 protons and 14 neutrons; sulfur-33 (Z = 16) has 16 protons and 17 neutrons; calcium-42 (Z = 20) has 20 protons and 22 neutrons. Neutrons = A - Z." loading="lazy">
+  <figcaption>The top number is the nucleon total; subtract the bottom number to find neutrons.</figcaption>
+</figure>
+
+
 ## P6.1d Unstable nuclei and what they emit
 
 Some nuclei are **unstable**. An unstable nucleus can change by emitting radiation, and this is **radioactive decay**. Four emissions are in the specification.
@@ -134,6 +152,12 @@ Use the rule that mass number tracks the protons plus neutrons that remain, and 
 | Gamma | no change | no change | Same nucleus, less energy |
 
 Why beta raises Z by 1: a neutron becomes a proton, so the nucleus gains one positive charge while the total of protons plus neutrons stays the same. Why gamma changes neither: it carries away energy only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--04-emission-moves.webp" width="900" height="1044" alt="On a chart of neutrons against protons, alpha moves a nucleus two left and two down, beta one left and one up, neutron emission one left, and gamma does not move it." loading="lazy">
+  <figcaption>Each emission moves the nucleus by a fixed step on an N-Z chart.</figcaption>
+</figure>
+
 
 ## P6.1f and P6.1g Balanced decay equations
 
@@ -169,6 +193,22 @@ A decay equation has the parent nucleus on the left and the products on the righ
 
 - Beta step: ²¹²₈₃Bi → ?₈₄Po + ⁰₋₁e. The top number is 212, and the bottom is 83 + 1 = 84, which is polonium. The nucleus is ²¹²₈₄Po.
 - Alpha step: ²¹²₈₄Po → ²⁰⁸₈₂Pb + ⁴₂He. Check: 208 + 4 = 212 and 82 + 2 = 84.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--05-bismuth-chain.webp" width="900" height="1040" alt="Bismuth-212 emits a beta particle to become polonium-212, one square up and left. Polonium-212 emits an alpha particle to become lead-208, two squares down and left. Both steps balance in mass number and charge." loading="lazy">
+  <figcaption>Bi-212 to Po-212 to Pb-208 plotted step by step, with balance checks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--04-gamma-neutron-equations.webp" width="900" height="850" alt="Excited magnesium-24 emits a gamma ray (0, 0) and stays magnesium-24, so 24 = 24 + 0 and 12 = 12 + 0. Helium-5 emits a neutron (1, 0) to become helium-4, so 5 = 4 + 1 and 2 = 2 + 0." loading="lazy">
+  <figcaption>Gamma and neutron emission equations, with both numbers balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
 
 ## Common errors
 

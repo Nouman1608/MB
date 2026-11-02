@@ -67,6 +67,12 @@ Contingency planning is linked to risk. A business cannot remove every risk, so 
 5. **Plan communication** with employees, customers, suppliers and others.
 6. **Test and review** the plan, so that it still works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--01-cp-expected-loss-area.webp" width="900" height="980" alt="The expected annual loss without a plan is a 4% by 240,000 pound box, 9,600 pounds; with the plan it shrinks to 2,400 pounds. An arrow down (reduce) and an arrow left (prevent) show the two ways a response shrinks the box, and transfer and accept are named below. Standard approach, not an OCR model." loading="lazy">
+  <figcaption>Expected loss is the area of a box: chance of failure times the loss if it happens.</figcaption>
+</figure>
+
+
 ### Worked example 1: is a plan worth its cost?
 
 Gladwyn Cold Chain delivers chilled food to supermarkets. Its depot refrigeration could fail. Management estimates a 4% chance of a serious failure in any year. Without a plan, a failure would cost £240,000 (spoiled stock, penalties and lost contracts). With a plan (a standby unit hire agreement and an emergency delivery rota) the loss would fall to £60,000. The plan costs £9,000 a year to maintain.
@@ -81,6 +87,17 @@ A standard way to compare is **expected loss = probability x loss**.
 On these figures alone the plan costs more than it saves. The plan breaks even if the probability is 5% or higher, because £9,000 divided by the £180,000 reduction in loss is 0.05.
 
 A good evaluation then asks what the numbers leave out. A supermarket might drop a supplier after one failed delivery, and that loss of trust is hard to put a figure on. The 4% is only an estimate, so the result is uncertain. The judgement could still be to adopt a cheaper version of the plan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--01-cp-plan-worth-cost.webp" width="900" height="1000" alt="A line graph of chance of failure per year against pounds per year. A flat line shows the plan cost of 9,000 pounds and a rising line shows the loss the plan saves. At the estimated 4% the saving is 7,200 pounds, 1,800 below the cost; the lines cross at 5%, the break-even probability." loading="lazy">
+  <figcaption>The plan pays for itself only if the chance of failure is 5% or more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--02-cp-before-during-after.webp" width="900" height="1030" alt="A timeline in three columns. Before the event, contingency planning spots and rates risks, assigns roles and tests the plan. During, crisis management puts people first, names one decision-maker and spokesperson and tells stakeholders. After, it restores operations, rebuilds confidence, reviews and updates the plan." loading="lazy">
+  <figcaption>Contingency planning happens before an event; crisis management happens during and after it.</figcaption>
+</figure>
+
 
 ## Advantages and disadvantages of contingency planning
 
@@ -172,6 +189,17 @@ Orrinbeck Seafoods found bacteria in a batch of 18,000 packs of fish. Of these, 
 The recall cost 11,500 x £3.80 = £43,700 for refunds, plus £6,500 for communications, a total of **£50,200**. Weekly sales revenue is normally £120,000. It fell by 30% for three weeks, so lost sales revenue was 0.30 x £120,000 x 3 = **£108,000**. The total cost was **£158,200**.
 
 Judgement: the speed, the public announcement and the focus on customer safety are strong points. The helpline delay shows missing preparation, which links back to contingency planning. The cost is large, but harm to customers and a possible legal and reputational problem from a slower recall could have cost more. The response was effective overall, and a pre-planned helpline would have made it better.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--03-cp-recall-cost.webp" width="900" height="1060" alt="A bar shows 11,500 of 18,000 packs shipped. A second bar splits the 158,200 pound total into refunds of 43,700, communications of 6,500 and lost sales of 108,000 pounds, with the workings under each." loading="lazy">
+  <figcaption>Lost sales were the biggest part of the recall cost, larger than refunds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--02-cp-orrinbeck-scorecard.webp" width="900" height="896" alt="A timeline runs from bacteria found, to a recall announced within six hours, to the helpline staffed after two days. A scorecard rates speed, communication and priorities as good, preparation as a failure and cost as uncertain, giving an effective overall verdict." loading="lazy">
+  <figcaption>Orrinbeck's response scored against the lesson's evaluation criteria.</figcaption>
+</figure>
+
 
 ## Common errors
 

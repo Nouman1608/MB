@@ -114,6 +114,17 @@ s²ₙ₋₁ = (20/19) × 1.14 = 1.2
 
 So the unbiased estimates are μ ≈ 1.6 and σ² ≈ 1.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--01-imath-rv-var-combine.webp" width="900" height="1060" alt="A box with six different apples is compared with a box and one apple counted six times. Two bell curves centred on 1300 g show variance 609 (SD 24.7 g) for the correct model and 2529 (SD 50.3 g) for the wrong one." loading="lazy">
+  <figcaption>Separate independent items add variances; one item multiplied by n multiplies variance by n².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--02-imath-rv-unbiased.webp" width="900" height="970" alt="Bar chart of books read by 20 people with mean 1.6. The sum of squared deviations 22.8 divided by 20 gives 1.14 and divided by 19 gives 1.2, the unbiased estimate of σ²." loading="lazy">
+  <figcaption>Divide by n − 1 to get the unbiased estimate of the population variance.</figcaption>
+</figure>
+
+
 ## 4.15 Sample means and the central limit theorem
 
 ### Combinations of normal variables
@@ -159,6 +170,17 @@ P(X̄ > 3.5) = 0.103 (3 s.f.)
 
 State the reason (n > 30, central limit theorem) in your answer. It carries marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--03-imath-rv-sample-mean.webp" width="900" height="1010" alt="A wide dashed curve for X ~ N(500, 12²) and a narrow curve for the mean of 9 values, N(500, 4²), with P(x̄ &lt; 495) = 0.106 shaded." loading="lazy">
+  <figcaption>The sample mean has standard deviation σ/√n, so it clusters closer to μ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--04-imath-rv-clt.webp" width="900" height="1250" alt="Three panels show the exact distribution of the mean of n values from a skewed population against a normal curve. The fit is poor at n = 1, better at n = 5 and close at n = 40." loading="lazy">
+  <figcaption>For large n the mean is approximately normal even when the population is not.</figcaption>
+</figure>
+
+
 ## 4.16 Confidence intervals for the mean
 
 A confidence interval gives a range of plausible values for the population mean μ, built from one sample. The guide requires:
@@ -195,6 +217,17 @@ The guide says you must interpret the result in context. A 90% confidence interv
 Do not say "there is a 90% probability that μ lies in [14.2, 15.0]". μ is fixed; it is the interval that varies from sample to sample.
 
 A claimed value that lies outside the interval is not supported by the sample. A higher confidence level gives a wider interval; a larger sample gives a narrower one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--05-imath-rv-ci-meaning.webp" width="900" height="1140" alt="Twenty simulated 95% intervals around a fixed true mean of 50. One misses the true mean and the rest contain it." loading="lazy">
+  <figcaption>About 95% of intervals built this way contain μ; μ is fixed and the intervals vary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--06-imath-rv-t-vs-z.webp" width="900" height="940" alt="A t curve with 7 degrees of freedom has heavier tails than the normal, so its 90% critical value 1.895 exceeds 1.645. For the eight leaves the t interval 14.2 to 15.0 is wider than a z interval." loading="lazy">
+  <figcaption>With σ unknown use t; the larger multiplier widens the interval.</figcaption>
+</figure>
+
 
 ## 4.17 The Poisson distribution
 
@@ -235,6 +268,17 @@ A second desk receives calls at 1.1 per 10 minutes, independently. The total in 
 | Normal N(μ, σ²) | A continuous measurement (mass, time, length) with a symmetric, bell-shaped spread |
 
 Always give a reason from the context, not just the name of the model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--07-imath-rv-poisson-scaling.webp" width="900" height="1070" alt="Po(2.4) for 10 minutes with P(X = 3) = 0.209 shaded, then Po(4.8) for 20 minutes with P(Y ≥ 5) = 0.524 shaded." loading="lazy">
+  <figcaption>Scale the Poisson mean to the interval in the question before calculating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--08-imath-rv-poisson-sum.webp" width="900" height="1040" alt="Po(2.4) and Po(1.1) combine into Po(3.5), shown with P(T ≤ 2) = 0.321 shaded." loading="lazy">
+  <figcaption>The sum of independent Poisson variables is Poisson with the means added.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

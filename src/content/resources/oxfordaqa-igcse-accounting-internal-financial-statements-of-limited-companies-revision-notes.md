@@ -52,6 +52,17 @@ Related pages: the [course hub](/boards/oxfordaqa/igcse/accounting/), the [print
 7. Profit for the year.
 8. Working underneath: retained earnings at the start, plus profit for the year, less dividends paid, equals retained earnings at the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--04-acc14-profit-to-retained-earnings.webp" width="900" height="1060" alt="Avenmoor operating profit of 126,600 less loan interest of 6,000 gives profit for the year of 120,600. Retained earnings go from 8,800 to 109,400 after adding that profit and deducting 20,000 dividends, which never appear in the income statement." loading="lazy">
+  <figcaption>Dividends reduce retained earnings only; loan interest reduces profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+
 ## Layout checklist: statement of financial position
 
 | Section | Contents | Notes |
@@ -63,6 +74,12 @@ Related pages: the [course hub](/boards/oxfordaqa/igcse/accounting/), the [print
 | Current liabilities | Trade payables, accruals, overdraft, loan part due within a year | |
 
 The balancing check is: non-current assets plus current assets, less all liabilities, equals equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--05-acc14-five-subheadings.webp" width="900" height="974" alt="Avenmoor statement of financial position drawn to scale: assets of 456,400 (current 108,400, non-current 348,000) equal equity 359,400 plus non-current liabilities 60,000 plus current liabilities 37,000." loading="lazy">
+  <figcaption>The five sub-headings and the two sides that balance at 456,400.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -107,6 +124,17 @@ The specification says to prepare and comment. A good comment has three parts: a
 - Limit: say what the figures do not show, for example that one year is not a trend.
 
 The specification does not list ratio formulas for this row, so use the measures your course teaches and explain them in words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--03-acc14-share-vs-loan-capital.webp" width="900" height="880" alt="Share capital of 250,000 comes from owners, is rewarded by a 20,000 dividend (not an expense, deducted from retained earnings) and appears in equity. The 10% loan of 60,000 comes from lenders, costs 6,000 interest (an expense) and appears in non-current liabilities." loading="lazy">
+  <figcaption>Dividends and interest are treated differently in the statements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--02-u2-015-lc-reading-statements.webp" width="900" height="1014" alt="Current assets 108,400 cover current liabilities 37,000 about 2.9 times. The loan of 60,000 is 14.3% of loan plus equity. Operating profit 126,600 covers interest of 6,000 about 21 times." loading="lazy">
+  <figcaption>Three simple comparisons show liquidity, funding and interest cover.</figcaption>
+</figure>
+
 
 ## Worked reminder: interest and dividend
 
@@ -153,6 +181,12 @@ Shareholders have limited liability, so they cannot lose more than they paid for
 10. Any two of: statement of changes in equity, preference shares, general reserves, rights issues, bonus issues, revaluation of non-current assets.
 11. Shareholders provide share capital. Lenders provide loan capital.
 12. These statements are for internal use. They are not prepared in a format for publication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies--02-un14-step1-adjustments.webp" width="900" height="988" alt="Avenmoor depreciation, insurance, wages and loan interest adjustments as sums. Accumulated depreciation 24,000 + 8,000 = 32,000 (NBV 48,000); insurance 14,400 - 1,200 = 13,200; wages 96,000 + 3,000 = 99,000; interest 3,000 + 3,000 = 6,000." loading="lazy">
+  <figcaption>Each adjustment turns the amount paid into the expense for the year.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

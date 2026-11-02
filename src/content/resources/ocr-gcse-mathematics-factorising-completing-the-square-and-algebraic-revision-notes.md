@@ -46,6 +46,22 @@ Common factors, x² + bx + c and the difference of two squares are on both tiers
 5. Expand to check
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
+
 ### Sign guide for x² + bx + c
 
 | c | b | Numbers |
@@ -67,6 +83,17 @@ ac = −24. Product −24, sum +10: 12 and −2
 
 The brackets from the two pairs must be identical. If they are not, check the pair of numbers or the signs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic--05-split-middle-term.webp" width="900" height="860" alt="An area grid for 3x squared plus 11x plus 6. The number pair 9 and 2 multiply to 18 and add to 11, so 11x splits into 9x and 2x. Placed in a rectangle with sides 3x plus 2 and x plus 3, the four pieces are 3x squared, 9x, 2x and 6, giving the factors (3x plus 2)(x plus 3)." loading="lazy">
+  <figcaption>Splitting 11x into 9x + 2x lets the four pieces form a rectangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic--03-factor-common-quadratic.webp" width="900" height="920" alt="After taking out the common factor 2, the quadratic 2x² + 5x − 3 is split using 6 and −1 (product −6, sum 5). A two by two area grid with columns x and +3 and rows 2x and −1 gives the cells 2x², 6x, −x and −3, so the answer is 2(2x − 1)(x + 3)." loading="lazy">
+  <figcaption>Take out the common factor first, then split the middle term, and keep the 2 in the final answer.</figcaption>
+</figure>
+
+
 ### Completing the square (Higher tier only)
 
 ```
@@ -84,6 +111,27 @@ x² − 8x + 3 = (x − 4)² − 16 + 3 = (x − 4)² − 13
 ```
 
 Try 5x² + 20x + 1 yourself. The answer is in the self-test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic--01-cs-tiles-a3.webp" width="900" height="728" alt="Three identical tile pictures each show an x by x square plus two 2 by x strips, which is x² + 4x, with a dashed 2 by 2 corner of area 4 completing the square (x + 2)². Three corners add 12, so 12 is subtracted: 3x² + 12x + 5 = 3(x + 2)² − 12 + 5 = 3(x + 2)² − 7." loading="lazy">
+  <figcaption>Completing the square inside the bracket adds a corner of 4 to each of the three copies, so 3 × 4 = 12 must be taken away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic--02-cs-graph-a2.webp" width="900" height="774" alt="The parabola y = 2x² − 6x + 1 is plotted with its minimum marked at (3/2, −7/2) and the y-intercept (0, 1). The completed-square form 2(x − 3/2)² − 7/2 gives the minimum point directly, and expanding 2(x − 3/2)² = 2x² − 6x + 9/2 then 9/2 − 7/2 = 1 checks it." loading="lazy">
+  <figcaption>In 2(x − 3/2)² − 7/2 the numbers 3/2 and −7/2 are the coordinates of the minimum point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--04-complete-square-tiles.webp" width="900" height="730" alt="Tiles for x squared plus 6x plus 5 nearly make a square of side x plus 3, but the 3 by 3 corner needs 9 unit squares and only 5 are there. So 4 are missing and x squared plus 6x plus 5 equals (x + 3) squared minus 4." loading="lazy">
+  <figcaption>Completing the square fills the corner of (x + 3)² and then takes away what was never there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
 
 ### Algebraic fractions (Higher tier only)
 
@@ -110,6 +158,17 @@ Worked reminder: 1/x + 1/(x + 4).
 
 You may leave the denominator factorised. Do not expand it unless asked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic--04-algfrac-divide.webp" width="900" height="830" alt="(x² + 5x)/(x² − 4) ÷ (x + 5)/(x + 2) is factorised, the second fraction is flipped and multiplied, and the matching factors (x + 5) and (x + 2) are struck through top against bottom. The result is x/(x − 2), checked at x = 7 where both forms give 7/5." loading="lazy">
+  <figcaption>Factorise everything, flip the divisor, then cancel matching factors between the top and bottom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Idea | Take care |
@@ -120,6 +179,12 @@ You may leave the denominator factorised. Do not expand it unless asked.
 | 4x² − 9 and 2x² − 18 | Perfect squares 2x and 3 in the first. The second needs a common factor 2 first |
 | (x + 3)² − 4 and x² + 6x + 5 | These are equal. Completing the square changes the form, not the value |
 | Simplify and write as a single fraction | Simplify means cancel. Single fraction means combine |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
 
 ## Quick worked checks
 

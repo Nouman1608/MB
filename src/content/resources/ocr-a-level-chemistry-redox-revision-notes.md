@@ -143,6 +143,17 @@ Two Al atoms lose 3 electrons each (6). Six H atoms go from +1 to 0, gaining 6. 
 
 The specification states that ionic equations are not required for (e), so give the full equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
+  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
+</figure>
+
+
 ## 2.1.5(f): Unfamiliar redox reactions
 
 1. Label every atom's oxidation number on both sides.
@@ -208,6 +219,12 @@ Concentrated sulfuric acid and nitric acid can act like this with metals: sulfur
 - Calling the acid's anion oxidised or reduced when its oxidation numbers do not change.
 - In an unfamiliar equation, saying "nitrogen is reduced" when only some of the nitrogen atoms change.
 - Not checking that electrons lost equal electrons gained before giving a ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

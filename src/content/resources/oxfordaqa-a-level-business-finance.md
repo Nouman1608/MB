@@ -68,6 +68,12 @@ The Unit 2 paper includes a calculation section (Section B, 10 marks), so the me
 
 **Worked example.** Quillcote Print Studio, a sole trader with three years of profits and a workshop it owns outright, needs £40,000 for a large-format printer that will last eight years. *Judgement:* a bank loan fits -- the amount is fixed, the printer earns revenue for years, and the trading record and the workshop as security support borrowing; retained profit could cover part of it. Sale and leaseback of the workshop would raise more but adds rent for good, which is costly for a £40,000 need. An overdraft would be long-term debt repayable on demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
+
 ## 3.2.3.2 Break-even analysis
 
 | Term | Calculation |
@@ -109,6 +115,17 @@ The fixed-cost line is flat at £8,400. Total costs start at £8,400 and rise by
 
 **Significance.** Break-even shows the minimum sales a plan needs and the margin of safety shows how far sales can fall before losses start. It assumes every unit is sold at one price and that costs are linear, so treat it as a planning guide. Pricing links to the [Marketing study guide](/resources/a-level-oxfordaqa-business-marketing/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ## 3.2.3.3 Profit and cash
 
 ### Profit and profit margins
@@ -143,6 +160,12 @@ The gap between a 40% gross margin and a 13% operating margin tells you overhead
 | Cut fixed costs | Lower break-even | Fewer staff or less marketing can cut sales |
 | Increase sales volume | Spreads fixed costs | Promotion costs money and may need capacity |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ### Budgeting
 
 A **budget** is a financial plan for a future period. **Variance = actual figure − budgeted figure.** A variance is **favourable** if it raises profit (revenue above budget, or costs below budget) and **adverse** if it lowers profit.
@@ -160,6 +183,12 @@ A **budget** is a financial plan for a future period. **Variance = actual figure
 The profit variance equals the net of the others: 3,600 − 1,800 + 600 = 2,400 favourable. Higher sales partly explain the ingredients overspend, so interpret a variance before blaming anyone.
 
 **Value.** Budgets set targets, allocate spending and help coordinate departments. Variance analysis shows where to act early. But budgets based on poor forecasts mislead, and rigid budgets can stop managers responding to opportunities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
 
 ### Cash flow forecasts
 
@@ -208,6 +237,17 @@ A firm with revenue £730,000, trade receivables £70,000, cost of sales £438,0
 | Longer payment time to suppliers | Cash stays in the business longer | Suppliers may refuse or raise prices |
 | Reducing outgoings | Lower outflows every month | Cuts can harm quality or capacity |
 | Better invoice management | Invoices sent promptly and chased | Needs staff time or software |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
 
 ## Common errors
 

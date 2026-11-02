@@ -41,6 +41,12 @@ five official sub-topics.
 - Pure substances (elements and compounds) vs mixtures, and how to represent them at the
   particulate level using simple particle diagrams.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--01-states-changes.webp" width="900" height="670" alt="Three boxes show particles in a solid (regular grid, vibrating), liquid (touching, irregular, sliding past) and gas (far apart, moving fast). Arrows between them name melting, freezing, boiling and condensing, and two long arcs name sublimation and deposition, with orange for energy taken in and teal for energy released." loading="lazy">
+  <figcaption>Particle arrangement and movement explain the three states and the six changes between them.</figcaption>
+</figure>
+
+
 ## 1.2 The nuclear atom
 
 - Atomic structure: protons, neutrons and electrons, their relative mass and charge, and their
@@ -51,6 +57,17 @@ five official sub-topics.
   places -- this does not need to be memorised.)
 - Ion formation by electron loss or gain, and how this changes the particle's overall charge
   without changing Z.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--02-nuclear-atom.webp" width="900" height="730" alt="An aluminium-27 3+ ion is drawn with 13 protons and 14 neutrons in the nucleus and 10 electrons in shells of 2 and 8. The notation gives A = 27 and Z = 13, so neutrons = A - Z = 14 and electrons = 13 - 3 = 10." loading="lazy">
+  <figcaption>Neutrons equal mass number minus atomic number, and the charge sets the electron count.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--03-isotopes.webp" width="900" height="740" alt="Three nuclei show magnesium-24, -25 and -26, each with 12 protons and 12, 13 and 14 neutrons. Same proton number means the same element and chemistry; different neutron number means a different mass." loading="lazy">
+  <figcaption>Isotopes of an element have the same protons but different numbers of neutrons.</figcaption>
+</figure>
+
 
 ## 1.3 Electron configurations
 
@@ -138,6 +155,27 @@ These are the HL-only extensions to 1.2 (one additional hour) and 1.3 (three add
   aluminium, kJ mol^-1:  IE1 578   IE2 1817   IE3 2745   IE4 11577
   largest jump between IE3 and IE4 -> 3 outer electrons -> group 13
   ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--04-mass-spectrum-ar.webp" width="900" height="780" alt="A bar chart shows magnesium peaks at m/z 24 (79%), 25 (10%) and 26 (11%). Each peak is one isotope and its height is abundance. Relative atomic mass is (24 x 79 + 25 x 10 + 26 x 11) / 100 = 24.32." loading="lazy">
+  <figcaption>The abundance-weighted mean of the peaks gives the relative atomic mass, 24.32 for magnesium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--05-ie-period2.webp" width="900" height="680" alt="Bars show first ionisation energy for Li to Ne. The general rise has two dips: B is lower than Be because its outer electron is in the higher-energy 2p sub-level, and O is lower than N because of electron-electron repulsion in a doubly occupied p orbital." loading="lazy">
+  <figcaption>First ionisation energy rises across a period except at B and O, where sub-levels and electron pairing lower it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--06-successive-ie-al.webp" width="900" height="960" alt="Bars show the first four ionisation energies of aluminium: 578, 1817, 2745 and 11577 kJ per mole. The largest jump, about 4.2 times, comes between the third and fourth because the fourth electron is removed from an inner shell. The 2, 8, 3 shell diagram shows three outer electrons, so group 13." loading="lazy">
+  <figcaption>The first big jump in successive ionisation energies marks the end of the outer shell and gives the group number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--07-convergence-limit.webp" width="900" height="780" alt="A hydrogen line spectrum has lines closing up to a convergence limit at 3.29 x 10^15 Hz, which matches the electron leaving the atom from n = 1. E = h x frequency = 2.18 x 10^-18 J per atom, and multiplying by 6.02 x 10^23 gives 1.31 x 10^6 J per mole, or 1310 kJ per mole." loading="lazy">
+  <figcaption>At the convergence limit the photon energy equals the ionisation energy, E = h nu, scaled up by the Avogadro constant.</figcaption>
+</figure>
+
 
 ## Worked example: mass to moles to particles
 

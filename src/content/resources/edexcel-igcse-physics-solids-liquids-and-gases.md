@@ -105,6 +105,37 @@ depth of 5.0 m in water (ρ = 1000 kg/m³, g = 9.8 N/kg):
 p = hρg = 5.0 × 1000 × 9.8 = 49,000 Pa
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--05-pressure-5m-water.webp" width="900" height="820" alt="Arrows grow with depth to 49 000 Pa at 5.0 m, with the working 5.0 × 1000 × 9.8." loading="lazy">
+  <figcaption>Pressure in water rises with depth: 49 000 Pa at 5.0 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--05-density-regular-solid.webp" width="900" height="1000" alt="A 10 cm by 5 cm by 4 cm block has volume 200 cm3. On a balance it has mass 540 g. Density = 540 / 200 = 2.7 g/cm3." loading="lazy">
+  <figcaption>For a regular solid, calculate the volume from its sides, find the mass on a balance, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--06-density-liquid.webp" width="900" height="930" alt="A measuring cylinder on a balance reads 80 g empty and 112 g with 40 cm3 of liquid. Liquid mass = 112 - 80 = 32 g, so density = 32 / 40 = 0.8 g/cm3." loading="lazy">
+  <figcaption>Subtract the empty container mass before dividing by the liquid volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--02-right-angles-experiment.webp" width="900" height="880" alt="Three beakers hold a thistle funnel at the same depth facing up, sideways and down, joined to a U-tube manometer. The arrows meet the membrane at right angles and the manometer shows the same height difference h each time." loading="lazy">
+  <figcaption>Pressure at a point acts at right angles to the surface, and is the same in every direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--03-pressure-with-depth.webp" width="900" height="960" alt="A tank of water with arrows on the wall that lengthen with depth: 9800 Pa at 1 m, 19600 Pa at 2 m, 29400 Pa at 3 m, matching the worked example 1000 x 9.8 x 3." loading="lazy">
+  <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
+</figure>
+
+
 ## Change of state (Physics only)
 
 Heating a system transfers energy into it, which can either raise its
@@ -132,6 +163,22 @@ change in thermal energy = mass × specific heat capacity × change in temperatu
 ΔQ = mcΔT = 2.0 × 4200 × 80 = 672,000 J
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--06-heat-2kg-water.webp" width="900" height="830" alt="2.0 kg of water heated from 20 °C to 100 °C needs 672 000 J." loading="lazy">
+  <figcaption>ΔQ = 2.0 × 4200 × 80 = 672 000 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+
 ## The Kelvin scale and absolute zero
 
 **Absolute zero**, -273°C, is the lowest possible temperature, at which
@@ -142,6 +189,17 @@ Celsius, so:
 ```
 T(K) = T(°C) + 273
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--10-pressure-kelvin.webp" width="900" height="1040" alt="A graph of pressure against temperature with kelvin values and Celsius values beneath. The line is straight and heads to zero pressure at 0 K, minus 273 degrees Celsius. Example pressures are 1.00 x 10^5 Pa at 273 K and 1.37 x 10^5 Pa at 373 K." loading="lazy">
+  <figcaption>Pressure is proportional to the kelvin temperature at constant volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--07-absolute-zero-ke.webp" width="900" height="840" alt="Boxes of particles at 0 K, 273 K and 373 K with bars showing mean kinetic energy proportional to Kelvin temperature." loading="lazy">
+  <figcaption>Absolute zero is the temperature of minimum kinetic energy.</figcaption>
+</figure>
+
 
 ## The kinetic theory of gases
 
@@ -172,6 +230,12 @@ p₁V₁ = p₂V₂
 (2.0 × 10⁵)(0.30) = p₂(0.10)
 p₂ = 6.0 × 10⁵ Pa
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--09-pressure-volume.webp" width="900" height="1040" alt="A graph of pressure against volume for a fixed mass of gas at constant temperature. The curve passes through 2.0 x 10^5 Pa at 0.30 cubic metres and 6.0 x 10^5 Pa at 0.10 cubic metres, because pressure times volume is constant." loading="lazy">
+  <figcaption>At constant temperature, a third of the volume gives three times the pressure.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

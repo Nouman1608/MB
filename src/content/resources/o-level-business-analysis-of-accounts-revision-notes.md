@@ -41,6 +41,12 @@ The syllabus gives no formulas for this section. The formulas below are the stan
 - Current assets: assets expected to become cash within a year, such as inventories, receivables and cash.
 - Current liabilities: debts due within a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--01-capital-employed.webp" width="900" height="1030" alt="Two bars: total assets of 440 minus current liabilities of 80 leaves capital employed of 360, which equals owners' capital plus non-current liabilities. The 300 and 60 split is illustrative." loading="lazy">
+  <figcaption>Capital employed = total assets minus current liabilities = owners' capital plus non-current liabilities.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Ratio | Standard form | Unit | Group |
@@ -50,6 +56,17 @@ The syllabus gives no formulas for this section. The formulas below are the stan
 | ROCE | profit ÷ capital employed × 100 | % | Profitability |
 | Current ratio | current assets ÷ current liabilities | ratio (1.5 : 1) | Liquidity |
 | Acid test ratio | (current assets − inventories) ÷ current liabilities | ratio (0.8 : 1) | Liquidity |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--09-hollin-profitability.webp" width="900" height="850" alt="Paired bars: gross profit margin 40% to 35%, profit margin 12% to 8%, ROCE 16% to 10%, although revenue rose 12.5%." loading="lazy">
+  <figcaption>Every profitability ratio fell in Year 2 even though revenue grew.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--02-five-ratio-fractions.webp" width="900" height="940" alt="For each of the five ratios a bar shows the bottom of the fraction and a second bar, to the same scale, shows the top, using Hollin Cycles Year 1: 40%, 12%, 16%, 1.5 : 1 and 0.63 : 1. Margins and ROCE carry a percent sign; liquidity ratios do not." loading="lazy">
+  <figcaption>Each ratio is one amount divided by another; the result is a percentage or a ratio.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -82,6 +99,12 @@ Reading it: the pottery keeps 40 cents of each dollar of revenue as gross profit
 
 Rearranging works too. A business with revenue of 80 000 and a gross profit margin of 25% made a gross profit of 20 000. A business aiming at an ROCE of 12% on capital employed of 150 000 needs a profit of 18 000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--10-hollin-liquidity.webp" width="900" height="940" alt="For each year, current assets (cash plus receivables, then inventories) are drawn beside current liabilities with a dashed line at the amount owed. Current ratio 1.5 then 1.2; acid test 0.63 then 0.36." loading="lazy">
+  <figcaption>Without inventories, Hollin Cycles can cover only 36 cents of each dollar owed in Year 2.</figcaption>
+</figure>
+
+
 ## Why profitability and liquidity matter
 
 Profitability matters because:
@@ -96,6 +119,12 @@ Liquidity matters because:
 - wages, suppliers and bills must be paid on time
 - a business short of cash may have to stop trading even if it is profitable
 - a profit on paper can be tied up in inventories or unpaid invoices from customers
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
 
 ## Command words for this topic
 
@@ -123,6 +152,12 @@ For explain and justify answers, use a chain: the figure, what it means, why it 
 
 Always compare with an earlier year, a competitor or a target. One figure alone is hard to judge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## Users of accounts
 
 | User | Looks mainly at | Possible decision |
@@ -134,6 +169,17 @@ Always compare with an earlier year, a competitor or a target. One figure alone 
 | Manager | All five ratios | Control costs, set prices, plan |
 | Employee | Profit trend | Pay claims, job security |
 | Government | Profit | Tax due |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--11-users-and-ratios.webp" width="900" height="755" alt="Lenders and suppliers look at the current ratio and acid test; investors at ROCE and profit margin; managers at all five ratios." loading="lazy">
+  <figcaption>Different users of accounts look at different ratios.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--04-other-users-of-accounts.webp" width="900" height="940" alt="Owners and shareholders ask whether their return is good and decide to keep, increase or sell and how to vote on dividends. Employees ask whether the business is secure and profitable and decide whether to seek higher pay or another job. Government asks whether the right tax is paid and makes a tax assessment." loading="lazy">
+  <figcaption>Owners, employees and government each ask a different question of the accounts.</figcaption>
+</figure>
+
 
 ## Case-study approach
 
@@ -190,6 +236,12 @@ Check of the calculations: 60 000 ÷ 240 000 = 0.25; 21 000 ÷ 300 000 = 0.07; 3
 - Naming a user but not the ratio or decision.
 - Treating profit and cash as the same thing.
 - Judging a ratio with nothing to compare it with.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--05-ratio-slips.webp" width="900" height="1010" alt="Four wrong-versus-right pairs with Hollin Year 1 figures: dividing gross profit by cost of sales (66.7%) instead of revenue (40%); using revenue as profit in ROCE (133.3%) instead of 16%; leaving inventories in the acid test (1.5 : 1) instead of 0.63 : 1; and putting % on the wrong ratios." loading="lazy">
+  <figcaption>Four common ratio mistakes beside the correct working.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

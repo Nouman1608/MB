@@ -54,6 +54,17 @@ A courier walks 3.0 km east in 10 minutes, then 4.0 km north in 15 minutes.
 
 Average velocity is smaller than average speed because the path was not straight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--08-terminal-speed.webp" width="900" height="1020" alt="A speed-time graph for an 80 kg skydiver starts with gradient g and flattens at about 55 m/s. Force diagrams show A: drag 0, a = 9.81; B: drag 500 N, a = 3.56 m/s squared; C: drag = weight = 785 N, a = 0." loading="lazy">
+  <figcaption>At terminal speed drag equals weight, the resultant force is zero and the speed is constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--09-air-resistance-path.webp" width="900" height="930" alt="Two paths for 30 m/s at 45 degrees: with no drag a symmetrical parabola (range 92 m, peak 23 m); with drag a shorter, lower, asymmetric path (range 56 m, peak 17 m) landing slower (20 m/s) and steeper (57 degrees)." loading="lazy">
+  <figcaption>With air resistance the range and height are smaller and the descent is steeper than the ascent.</figcaption>
+</figure>
+
+
 ## 3.1.1(b)-(d) Motion graphs
 
 Three rules cover almost every graph question.
@@ -83,6 +94,12 @@ Area = 2 × [(0 + 3.1)/2 + (3.1 + 5.2)/2 + (5.2 + 6.4)/2 + (6.4 + 7.0)/2 + (7.0 
 
 The graph is concave (the gradient falls), so each chord lies below the curve and the estimate is a slight underestimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--01-v-t-graph-gradient-area.webp" width="900" height="1160" alt="A velocity-time graph rises from 0 to 8 m/s in 4 s, stays at 8 m/s for 4 s, then falls to -4 m/s over 3 s. The areas are +16, +32, +8 m above the axis and -2 m below it, so displacement is 54 m and distance is 58 m. An acceleration-time graph beneath shows the gradients +2, 0 and -4 m/s squared." loading="lazy">
+  <figcaption>Gradient of a v-t graph is acceleration; area is signed displacement, and distance adds the magnitudes.</figcaption>
+</figure>
+
+
 ## 3.1.2(a)(i) The equations of motion
 
 For **constant acceleration in a straight line**, with initial velocity u, final velocity v, acceleration a, displacement s and time t, the specification lists:
@@ -111,6 +128,17 @@ A stone is thrown straight up at 17 m s⁻¹ from the ground. Take up as positiv
 - Time to the top: t = (v − u)/a = (0 − 17)/(−9.81) = 1.73 s. Time in the air = 2 × 1.73 = **3.47 s**.
 - Speed 6.0 m above the ground: v² = 17² − 2 × 9.81 × 6.0 = 171.3, so v = **13 m s⁻¹**. It passes this height going up (after 0.40 s) and again going down (after 3.07 s).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--02-suvat-from-graph.webp" width="900" height="1000" alt="A v-t graph for 6.0 to 22 m/s over 120 m has gradient 1.87 m/s squared and total area 120 m, split into a rectangle ut (51 m) and a triangle half a t squared (69 m). Four cards list the equations and which variable each leaves out." loading="lazy">
+  <figcaption>The area under a v-t graph for constant acceleration gives s = ut + half a t squared; each suvat equation omits one variable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--05-horizontal-launch.webp" width="900" height="1210" alt="A ball thrown horizontally at 14 m/s from a 45 m cliff and a ball dropped at the same moment are shown every 0.5 s: always at the same height, landing together after 3.03 s. The thrown ball covers 7.0 m sideways each interval. It lands 42 m away at 33 m/s, 65 degrees below horizontal." loading="lazy">
+  <figcaption>The horizontal and vertical motions are independent and share only the time.</figcaption>
+</figure>
+
+
 ## 3.1.2(a)(ii) Investigating motion and collisions
 
 The specification names trolleys, air-track gliders, ticker timers, light gates, data-loggers and video techniques. Know what each measures.
@@ -132,6 +160,12 @@ Repeat timings and average them to reduce uncertainty.
 An electromagnet holds a steel ball. Switching it off starts a timer and releases the ball. The ball hits a trapdoor (a pad that opens a contact) and stops the timer. Measure the drop height h with a metre rule or tape, from the underside of the ball to the pad.
 
 Since u = 0, h = ½gt², so plotting h on the vertical axis against t² on the horizontal axis gives a line passing through the origin, and its **gradient = g/2**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--03-measuring-g.webp" width="900" height="1170" alt="An electromagnet releases a steel ball and starts a timer; a trapdoor stops it. Plotting h against t squared gives a straight line through the origin with gradient g over 2 = 4.90 m/s squared, so g = 9.80 m/s squared (data from the OCR worked example)." loading="lazy">
+  <figcaption>h = half g t squared, so the gradient of h against t squared is g/2.</figcaption>
+</figure>
+
 
 ### Worked example 5
 
@@ -169,6 +203,12 @@ A car travels at 20 m s⁻¹. The driver's reaction time is 0.65 s and the decel
 
 At 30 m s⁻¹ the thinking distance is 19.5 m and the braking distance is 64.3 m, a total of 84 m. A 50% rise in speed has raised the stopping distance by about 100%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--04-stopping-distance.webp" width="900" height="950" alt="Two bars to scale: at 20 m/s thinking 13 m plus braking 28.6 m gives 42 m; at 30 m/s thinking 19.5 m plus braking 64.3 m gives 84 m. A 50 percent rise in speed multiplies braking distance by 2.25 and roughly doubles stopping distance." loading="lazy">
+  <figcaption>Thinking distance is proportional to speed; braking distance to speed squared (OCR only).</figcaption>
+</figure>
+
+
 ## 3.1.3 Projectile motion
 
 A projectile moves under gravity alone. The horizontal and vertical motions are **independent**: horizontal velocity stays constant, vertical acceleration is g downwards, and they share only the time.
@@ -195,6 +235,12 @@ A ball is struck from level ground at 28 m s⁻¹, 35° above the horizontal.
 - Maximum height = vᵧ²/(2g) = **13.1 m**, reached after 1.64 s, when the ball still has vₓ = 22.9 m s⁻¹.
 
 For a launch from height, put s = −(height) in s = vᵧt − ½gt² and solve the quadratic, taking the positive root.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--06-angled-projectile.webp" width="900" height="880" alt="A ball launched at 28 m/s, 35 degrees, has vx = 22.9 and vy = 16.1 m/s, flight time 3.27 s, range 75 m and maximum height 13.1 m. At the top the velocity is the horizontal component only and the acceleration is still g downwards." loading="lazy">
+  <figcaption>At the top vertical velocity is zero but the speed equals vx and the acceleration is still g.</figcaption>
+</figure>
+
 
 ## Common errors
 

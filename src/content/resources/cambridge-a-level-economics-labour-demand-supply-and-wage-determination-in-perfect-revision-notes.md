@@ -52,6 +52,42 @@ These notes condense sections 8.3.1 to 8.3.7 of the Cambridge International AS &
 
 **Factors in an occupation.** The demand curve for an occupation reflects the combined hiring decisions of every firm that employs that type of worker, so the same factors apply to both. A higher wage always moves you along the curve, never across it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--11-labour-mrp-hire-rule.webp" width="900" height="1060" alt="MRP bars 90 to 20 for workers 1 to 8 with a wage line at 50; workers 1 to 5 are hired." loading="lazy">
+  <figcaption>A firm hires up to the worker whose MRP equals the wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--12-labour-movement-vs-shift.webp" width="900" height="1050" alt="D1 from MRP at price 2.50 with wage-driven movements (70: 3, 50: 5, 30: 7) and D2 at price 3.25; at wage 50 employment rises from 5 to 6." loading="lazy">
+  <figcaption>A wage change moves along the demand curve, a price change shifts it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--14-labour-equilibrium.webp" width="900" height="1050" alt="QD = 120 - 4W and QS = -20 + 6W cross at wage 14 with 64 thousand workers; at 16 excess supply 20, at 10 excess demand 40." loading="lazy">
+  <figcaption>Wages adjust until the quantity of labour demanded equals the quantity supplied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--06-derived-demand-chain.webp" width="900" height="965" alt="Four steps top to bottom: households want more houses, builders expect to sell more, builders plan more output and builders hire more bricklayers. A collapse in demand for houses lowers the demand for bricklayers whatever they do." loading="lazy">
+  <figcaption>Demand for labour comes from demand for the product the labour helps make.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--07-labour-demand-shift-factors.webp" width="900" height="854" alt="Wage against quantity of labour with demand curves D0, D1 (right) and D2 (left). A wage change is a movement along D0. Rising product demand, productivity or substitute-factor prices shift demand right; dearer complements, employer taxes or technology (often) shift it left." loading="lazy">
+  <figcaption>Only non-wage factors shift the labour demand curve; a wage change slides along it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+
 ## 8.3.4 MRP theory
 
 **Formulas**
@@ -75,6 +111,17 @@ These notes condense sections 8.3.1 to 8.3.7 of the Cambridge International AS &
 
 **Small worked reminder.** A kiln operator's MPP is 15 loads and each load sells at a fixed 6. MRP = 15 × 6 = 90. At a wage of 80 the worker is worth hiring. At 95 they are not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--13-labour-falling-price-mrp.webp" width="900" height="1100" alt="Grouped bars: MPP x 100 if the price stayed at 100 versus actual MRP 1,000, 805, 625, 460, 310; at wage 600 the firm hires 3 workers." loading="lazy">
+  <figcaption>MRP falls faster when the price falls because MR falls as well as MPP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--08-demand-for-labour-mrp.webp" width="900" height="850" alt="Bar chart of marginal revenue product for six workers: 60, 60, 50, 40, 30, 20 pounds (extra output times a £5 selling price). With a wage of 35 the firm hires four workers, because the fifth adds only 30. The MRP curve is the firm's demand for labour." loading="lazy">
+  <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
+</figure>
+
+
 ## 8.3.5 and 8.3.6 Supply of labour
 
 | Type | Examples | Effect on the curve |
@@ -85,6 +132,12 @@ These notes condense sections 8.3.1 to 8.3.7 of the Cambridge International AS &
 | Non-wage: alternatives | Pay and conditions elsewhere | Better alternatives shift left |
 | Non-wage: the pool of workers | Population, age structure, migration, retirement age | Larger pool shifts right |
 | Non-wage: mobility and incentives | Ease of moving jobs or regions, state benefits | Easier movement shifts right. Generous benefits can shift left |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--08-labour-supply-shift-factors.webp" width="900" height="854" alt="Wage against quantity of labour with supply curves S0, S1 (right) and S2 (left). A wage change is a movement along S0. Better conditions, easier mobility or a bigger pool of workers shift supply right; longer training, a pay rise in a rival job or a smaller pool shift it left." loading="lazy">
+  <figcaption>Non-wage factors shift labour supply; a wage change slides along the curve.</figcaption>
+</figure>
+
 
 ## 8.3.7 Equilibrium
 
@@ -161,6 +214,12 @@ At a wage of 100, the second worker's MRP of 120 exceeds the wage but the third 
 8. 224 − 5W = −40 + 7W, so 264 = 12W, **W = 22** and **Q = 114**.
 9. For example: working conditions and the length of training required.
 10. No. Higher MRP shifts the demand curve right. The wage is unchanged, so this is a shift, not a movement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--15-labour-shifts-equilibrium.webp" width="900" height="1110" alt="D1 to D2 (+30), S1 to S2 (+20) and both give equilibria (17, 82), (12, 72) and (15, 90) from the start (14, 64)." loading="lazy">
+  <figcaption>Each shift changes employment as well as the wage.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

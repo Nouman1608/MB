@@ -61,6 +61,17 @@ The syllabus gives these four as examples. Many textbooks add "recovery" for the
 
 **GDP.** When GDP rises, incomes rise, so firms usually sell more and may expand. When GDP falls, sales usually fall, and firms may cut output, jobs and investment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--03-inflation-margin.webp" width="900" height="1010" alt="Two bars of length 40, the fixed price. Costs of 32 leave profit 8 (margin 20 percent); costs of 33.92 after a 6 percent rise leave profit 6.08 (margin 15.2 percent). Three responses are shown." loading="lazy">
+  <figcaption>Rising costs squeeze the profit margin when a business holds its price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
+
 ### Worked example 1: reading the cycle
 
 Brenmoor Tiles sells floor tiles in a country with the following figures.
@@ -72,15 +83,33 @@ Brenmoor Tiles sells floor tiles in a country with the following figures.
 
 GDP growth in year 2 = (2,520 - 2,400) / 2,400 × 100 = **5.0%**. Output is rising, unemployment is falling and Brenmoor's revenue is up by 14.5% (3.55m - 3.10m = 0.45m, which is 0.45 / 3.10 × 100 = 14.5%). The economy is in the growth stage. Brenmoor could reasonably order more stock and hire a fitter. A good answer also adds a caution: if growth turned into a boom, wage and material costs could climb.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--06-brenmoor-growth.webp" width="900" height="940" alt="Paired bars for year 1 and year 2: GDP 2,400 to 2,520 billion (+5.0%), unemployment 8.0% to 6.0%, Brenmoor sales revenue 3.10m to 3.55m (+14.5%). Conclusion: growth stage." loading="lazy">
+  <figcaption>GDP +5.0%, unemployment 8.0% to 6.0% and revenue +14.5% point to the growth stage.</figcaption>
+</figure>
+
+
 ### Worked example 2: inflation and a fixed price
 
 Quillfern Printers charges 40 for a standard print job. The cost of materials and labour is 32 per job, so profit per job is 8 and the profit margin is 8 / 40 × 100 = **20%**. A consumer price index rises from 112.0 to 116.2, so inflation is (116.2 - 112.0) / 112.0 × 100 = **3.75%**. Suppose Quillfern's own costs rise by 6%. Cost per job becomes 32 × 1.06 = 33.92. If the price stays at 40, profit per job falls to 6.08 and the margin to 6.08 / 40 × 100 = **15.2%**. Quillfern must choose between absorbing the cost, raising its price, or cutting other costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--01-cycle-stages.webp" width="900" height="1060" alt="A wave-shaped GDP line over time split into four coloured stages: growth, boom, recession, slump, with a one-line business experience for each. A box applies the GDP growth rate formula to the lesson figures, 2,400 to 2,520, giving 5.0 percent." loading="lazy">
+  <figcaption>The four stages of the business cycle and how GDP growth is calculated.</figcaption>
+</figure>
+
 
 ## Government objectives (6.1.2)
 
 A government wants the economy to perform well for its people. The syllabus example is **increasing GDP**. Other objectives commonly named in textbooks, which fit this section, are reducing unemployment and keeping inflation low and stable. They are linked. Higher GDP tends to create jobs, and stable prices make it easier for firms to plan. They can also conflict: fast growth can push up prices.
 
 The government has tools to pursue these objectives: taxes, its own spending, and (often through the central bank) interest rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--04-objectives-links.webp" width="900" height="810" alt="Three objectives in a triangle: increase GDP, lower unemployment and low stable inflation. GDP creates jobs (supports) and can push up prices (conflict). Stable prices make planning easier for firms." loading="lazy">
+  <figcaption>Higher GDP tends to create jobs, but fast growth can push up prices, which makes planning harder for firms.</figcaption>
+</figure>
+
 
 ## Taxes (6.1.2)
 
@@ -107,6 +136,12 @@ Drayholt Cycles makes a profit before tax of 250,000. Tax at 20% is 250,000 × 0
 
 A helmet costs 80 before sales tax. At 10% the shelf price is 80 × 1.10 = **88**. At 15% it is 80 × 1.15 = **92**, a rise of 4 or 4.5%. The seller may pass the rise on, in which case demand may fall, or absorb it, in which case its margin falls. Which is better depends on how sensitive customers are to price in that market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--02-tax-effects.webp" width="900" height="1090" alt="Stacked bars show that a profit of 250,000 leaves 200,000 after tax at 20 percent and 187,500 at 25 percent. A helmet at 80 before sales tax shows a shelf price of 88 at 10 percent and 92 at 15 percent." loading="lazy">
+  <figcaption>A profit tax cuts what the firm keeps; a sales tax raises the price the customer sees.</figcaption>
+</figure>
+
+
 ## Government spending (6.1.2)
 
 Governments spend on roads and rail, schools, hospitals, defence and support for households. Spending affects business in three ways.
@@ -116,6 +151,12 @@ Governments spend on roads and rail, schools, hospitals, defence and support for
 3. **Through services and support.** Better transport cuts delivery times and costs. A better-educated workforce is easier to recruit. Some spending takes the form of grants or subsidies to firms.
 
 When spending is cut, the reverse can happen: contracts disappear, public-sector workers have less to spend, and shops near them may suffer. A cut can also be followed by lower taxes, which helps firms in other ways.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--05-spending-routes.webp" width="900" height="810" alt="Government spending branches into three routes: as a customer through contracts, through the economy by creating jobs and incomes, and through services and support such as transport, skilled staff and grants." loading="lazy">
+  <figcaption>Spending affects firms as a customer, through the economy, and through services and support.</figcaption>
+</figure>
+
 
 ## Interest rates (6.1.2)
 
@@ -132,6 +173,22 @@ An **interest rate** is the cost of borrowing money and the reward for saving it
 
 Halbrook Quay Cafe has a loan of 200,000 at 5%. Profit before interest is 60,000. Annual interest is 200,000 × 0.05 = **10,000**, leaving 50,000. The rate rises to 8%: interest is 200,000 × 0.08 = **16,000**, leaving 44,000. Interest is 6,000 higher and profit after interest falls by 6,000 / 50,000 × 100 = **12%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--07-halbrook-rate-rise.webp" width="900" height="790" alt="Two bars split a 60,000 profit before interest into profit after interest and interest paid. At 5 percent: 50,000 and 10,000. At 8 percent: 44,000 and 16,000. Interest rises 60 percent and profit after interest falls 12 percent." loading="lazy">
+  <figcaption>On a 200,000 loan, 5% to 8% lifts interest from 10,000 to 16,000 and cuts profit after interest from 50,000 to 44,000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
 ## How businesses might respond (6.1.2)
 
 A good response matches the change and the firm.
@@ -145,6 +202,12 @@ A good response matches the change and the firm.
 | Higher interest rates | Repay debt, delay borrowing, choose fixed-rate terms, find cheaper finance |
 
 Each response has costs. A price cut raises demand only if customers notice and respond, and it lowers the margin on every sale. Delaying investment protects cash now but may leave the firm behind rivals later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--09-external-factors-retailer.webp" width="900" height="980" alt="Two cause-and-effect chains. A rise in interest rates leaves households with less to spend, so clothing demand falls, and raises the retailer’s interest costs, squeezing profit and delaying stores: two costs. A fall in the exchange rate makes imported stock dearer, a cost, but makes exports cheaper abroad, a benefit." loading="lazy">
+  <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
+</figure>
+
 
 ## Answering case-study questions on this topic
 

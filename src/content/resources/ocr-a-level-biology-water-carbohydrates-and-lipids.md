@@ -71,6 +71,22 @@ Assume that each gram of sweat that evaporates removes 2.4 kJ from the body, and
 
 Quote supplied data in your working, and link the answer to the property: the high latent heat of vaporisation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--03-water-heat.webp" width="900" height="1050" alt="Top: 500 kJ absorbed by 42 kg of liquid raises water by 2.85 degrees Celsius but a liquid with half the specific heat capacity by 5.67 degrees. Bottom: removing 90 kJ needs only 37.5 g of water to evaporate, compared with 21.5 kg of water warmed by 1 degree Celsius; to the same scale the evaporation bar is a sliver." loading="lazy">
+  <figcaption>Water warms slowly and removes a lot of heat when it evaporates.</figcaption>
+</figure>
+
+
 ## 2.1.2(b) Monomers, polymers, condensation and hydrolysis
 
 A **monomer** is a small molecule that can bond to others of the same kind. A **polymer** is a long chain of many monomers.
@@ -103,6 +119,12 @@ This one difference decides which polymers glucose forms. Glucose is soluble bec
 
 **Ribose** has the formula C5H10O5. It is a **pentose** (five carbons). Its ring contains four carbons and one oxygen, with the fifth carbon outside the ring. The difference between a hexose and a pentose is the number of carbon atoms. Ribose is the sugar in RNA nucleotides; nucleotides are covered in 2.1.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+
 ## 2.1.2(e) Glycosidic bonds and disaccharides
 
 A **glycosidic bond** is the covalent bond between two monosaccharides. It forms by condensation between –OH groups, releasing water, and breaks by hydrolysis.
@@ -122,6 +144,12 @@ An amylose chain contains 400 glucose residues. How many glycosidic bonds and wa
 1. Joining 400 residues in a line needs 400 − 1 = **399 bonds**.
 2. Each condensation releases one water, so **399 water molecules** are released.
 3. Mr = 400 × 180 − 399 × 18 = 72 000 − 7 182 = **64 818**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
 
 
 ## 2.1.2(f), (g) Starch, glycogen and cellulose
@@ -148,6 +176,17 @@ All three are polysaccharides of glucose. Their different bonding and shape give
 - **Glycogen** is the store in animals and fungi. Its many branches give a very large number of free ends for rapid hydrolysis, which suits the high energy demand of muscle. Some bacteria also store glycogen.
 - **Cellulose** is the main component of plant cell walls. Many hydrogen bonds between chains make microfibrils strong, so the wall resists the pressure of the cell contents and the cell does not burst.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
+
 ## 2.1.2(h), (i) Fatty acids and triglycerides
 
 A **fatty acid** is a hydrocarbon chain with a carboxyl group (–COOH) at one end.
@@ -166,6 +205,12 @@ Stearic acid has the formula C18H36O2. Calculate the Mr of the triglyceride made
 3. Triglyceride = 92 + 3 × 284 − 3 × 18 = 92 + 852 − 54 = **890** (formula C57H110O6).
 
 A **phospholipid** has glycerol joined to **two** fatty acids by ester bonds, and a **phosphate group** in place of the third fatty acid. The phosphate head is charged and hydrophilic. The two fatty acid tails are hydrophobic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
 
 ## 2.1.2(j) Function of triglycerides, phospholipids and cholesterol
 

@@ -55,11 +55,23 @@ Test a good with two questions: can non-payers be stopped, and does your use lea
 
 A good is not a public good because the government provides it. A place in a state-run classroom is still rival and excludable. The classification depends on the two features, not on who pays. A public good is also not a free good: a free good has no opportunity cost, while a public good costs real resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+
 ### Why the market under-provides: the free rider problem
 
 A **free rider** uses a good and pays nothing towards it. If a good is non-excludable, each consumer can reason that it will be there whether or not they contribute, so each prefers to let others pay. If enough people reason this way, revenue falls short of cost and the good is not provided, though people value it.
 
 Because the good is non-rivalrous, the efficient price of use is zero, since an extra user imposes no extra cost, and no private firm can survive charging zero. The market failure is a missing market: the good is not supplied, or too little is supplied, though society would gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
 
 ### Worked example: the river-gauge network
 
@@ -71,6 +83,12 @@ The town of Marsh Hollow in Veldoria has 120 households. A river-gauge network w
 4. Shortfall = 2,400 − 400 = 2,000 veldors, so the network is not built.
 
 Each of the 100 free riders gives up a net benefit of 30 − 20 = 10 veldors. Free riding is rational for each household alone and leaves the group worse off: the whole 1,200 veldors of net benefit is lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--01-pg-gauge-free-rider.webp" width="900" height="902" alt="Dots show 20 payers and 100 free riders; bars compare benefit 3,600, cost 2,400 and voluntary payments 400. The 2,000 shortfall means the network is not built and 1,200 of net benefit is lost." loading="lazy">
+  <figcaption>Voluntary payment fails to cover the cost even though the good is worth building.</figcaption>
+</figure>
+
 
 ### Government responses
 
@@ -94,6 +112,12 @@ Limitations: writing, monitoring and enforcing the contract costs money. A winni
 4. Net gain per household = 25 − 17.25 = 7.75 veldors.
 
 The saving is real only if quality matches what the council would have supplied. Evaluation would ask what the contract specifies and who inspects the lights.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--07-tender-street-lighting.webp" width="900" height="890" alt="SL and HL. Veldoria’s council estimates street lighting for 80 households at 1,500 veldors. Three firms bid 1,620, 1,380 and 1,560. The lowest bid is 1,380, a saving of 120 against the estimate. Tax per household is 1,380 divided by 80, which is 17.25. Each household values the lighting at 25, so the net gain per household is 7.75. The saving is real only if quality matches what the council would have supplied." loading="lazy">
+  <figcaption>The lowest bid of 1,380 saves 120 and costs each household 17.25 against a value of 25.</figcaption>
+</figure>
+
 
 ### Judging the responses
 
@@ -122,6 +146,12 @@ Adverse selection arises **before** the deal, when sellers (or buyers) hold hidd
 
 Good sellers return only if the share g of good pianos is high enough. A buyer's expected value is 400 + 500g, which must reach 800. So 400 + 500g ≥ 800, which gives g ≥ 0.8. With only half of the pianos good, the trade in good pianos collapses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--02-pg-piano-adverse-selection.webp" width="900" height="926" alt="Graph of the buyer's expected value 400 + 500g against the share g of good pianos. Good sellers need 800, so at g = 0.5 (value 650) they withdraw; the line reaches 800 only at g = 0.8." loading="lazy">
+  <figcaption>When buyers cannot tell quality, good pianos leave unless enough pianos are good.</figcaption>
+</figure>
+
+
 ### Moral hazard (HL only)
 
 Moral hazard arises **after** the deal, when behaviour shifts because someone else carries the risk. Fully insured people have less reason to take care.
@@ -135,6 +165,12 @@ Moral hazard arises **after** the deal, when behaviour shifts because someone el
 5. The saving from maintenance forgone = 2,000 − 1,100 = 900 veldors.
 
 The contract causes the change, and the insurer cannot easily watch maintenance. A cheap action that cuts expected loss by more than it costs is no longer taken.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--03-pg-moral-hazard-fire.webp" width="900" height="1008" alt="Bars show the uninsured owner maintaining (1,100 vs 2,000), the fully insured owner not maintaining (0 vs 300), and the insurer's expected payout rising from 800 to 2,000." loading="lazy">
+  <figcaption>Full insurance removes the owner's reason to take care, raising the insurer's payout.</figcaption>
+</figure>
+
 
 ### Responses (HL only)
 
@@ -160,6 +196,22 @@ The contract causes the change, and the insurer cannot easily watch maintenance.
 | Low risk | 2,100 | 700 + 0.05 × 8,000 = 1,100 |
 
 High-risk customers choose X; low-risk customers choose Y. The choice reveals the type. The insurer still profits: 2,100 − 0.20 × 10,000 = 100 on X, and 700 − 0.05 × 2,000 = 600 on Y.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--04-pg-warranty-signal.webp" width="900" height="762" alt="A good-piano seller gains 820 from offering the warranty against a seller value of 800; a poor-piano seller would get 330 by copying it against 400 without. So the warranty reveals quality." loading="lazy">
+  <figcaption>A signal works because low-quality sellers find it too costly to copy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--05-pg-insurance-screening.webp" width="900" height="762" alt="A high-risk customer pays 2,100 on X or 2,300 on Y and picks X; a low-risk customer pays 2,100 on X or 1,100 on Y and picks Y. The choice reveals risk type, with insurer profit 100 on X and 600 on Y." loading="lazy">
+  <figcaption>The uninformed insurer designs a menu so customers reveal their own risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--08-information-restarts-trade.webp" width="900" height="990" alt="HL. Used pianos in Tessara: buyers value a good piano at 900 and a poor one at 400; sellers need at least 800 and 300. When buyers cannot tell, they offer 650 for any piano, below the 800 good sellers need, so good pianos are withdrawn. With an inspection report, buyers pay 900 for good pianos and 400 for poor ones, both above the sellers’ minimums, so both kinds sell. This illustrates why government provision of information or disclosure rules narrow the gap; it extends the lesson’s numbers." loading="lazy">
+  <figcaption>With reliable information buyers pay 900 and 400, which exceed sellers’ minimums, so good pianos return to the market.</figcaption>
+</figure>
+
 
 ## Evaluation in the exam papers
 

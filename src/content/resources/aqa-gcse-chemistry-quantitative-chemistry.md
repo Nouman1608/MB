@@ -82,6 +82,32 @@ topic.
   and pressure (20 °C and 1 atmosphere); calculating gas volumes from a mass and Mr, and from a balanced
   equation
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--02-limiting-reactant.webp" width="900" height="890" alt="Particle picture for Mg + 2HCl: before, 4 Mg and 6 HCl; after, 3 MgCl2, 3 H2 and 1 Mg left over. HCl runs out first so it limits the products." loading="lazy">
+  <figcaption>The reactant that is used up first limits how much product forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--04-range-mean-uncertainty.webp" width="900" height="830" alt="Five illustrative readings from 24.2 to 24.6 cm3 on a number line with mean 24.4, range 0.4 and uncertainty plus or minus 0.2, giving 24.4 +/- 0.2 cm3." loading="lazy">
+  <figcaption>The mean and half the range show how uncertain a measurement is (illustrative data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 This topic is built almost entirely on one repeated calculation pattern: use a balanced equation to find
@@ -103,6 +129,17 @@ decrease, even though total mass (including the escaped gas) is still conserved.
 frequently test this apparent-mass-change scenario specifically, since it looks like it contradicts
 conservation of mass unless the escaping or entering gas is accounted for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--01-conservation-open-closed.webp" width="900" height="890" alt="Two flasks on balances: a stoppered flask keeps reading 10.0 g while an open flask reading 5.6 g has lost 4.4 g of CO2 gas. The equation 10.0 g = 5.6 g + 4.4 g shows mass is conserved." loading="lazy">
+  <figcaption>Heating calcium carbonate: the open flask reads less only because the gas escaped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+
 ## Percentage yield vs atom economy: two different questions
 
 Percentage yield asks "how much of the theoretical maximum product did I actually obtain?" -- it is
@@ -111,6 +148,12 @@ losses during separation and purification). Atom economy asks a different questi
 going into the reaction, how much ends up as the useful product, by the reaction's own chemistry?" -- a
 reaction can have 100% yield of its stated product yet still have poor atom economy if most of the
 reactant mass ends up as unwanted by-products rather than lost through practical inefficiency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--03-yield-vs-atom-economy.webp" width="900" height="910" alt="Top: a bar of Mr 100 split into 56 wanted CaO and 44 by-product CO2 gives atom economy 56%. Bottom: 4.2 g actual against 5.6 g theoretical gives yield 75%. Example numbers are illustrative." loading="lazy">
+  <figcaption>Atom economy comes from the equation; percentage yield measures practical losses.</figcaption>
+</figure>
+
 
 ## Worked example (Higher Tier): using moles to find a reacting mass
 
@@ -132,6 +175,17 @@ mass Mg = moles x Ar = 0.1 x 24 = 2.4 g
 Every mole calculation in this topic follows this same three-step shape: given quantity to moles, apply
 the equation's ratio, moles back to the quantity required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--05-balance-from-masses.webp" width="900" height="910" alt="Illustrative masses 4.8 g Mg, 3.2 g O2 and 8.0 g MgO become 0.20, 0.10 and 0.20 mol; dividing by 0.10 gives 2:1:2, so 2Mg + O2 gives 2MgO." loading="lazy">
+  <figcaption>Reacting masses to moles to ratio to a balanced equation (Higher tier).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
+
 ## Volumes of gases (Higher Tier, chemistry only)
 
 At room temperature and pressure (20 °C and 1 atmosphere), one mole of any gas occupies 24 dm3, so
@@ -140,6 +194,17 @@ which occupies 0.2 x 24 = 4.8 dm3. Because equal amounts in moles of gases occup
 the same conditions, the mole ratio in a balanced equation is also the volume ratio for the gases in it:
 in N2 + 3H2 -> 2NH3, 30 cm3 of hydrogen reacts with 10 cm3 of nitrogen to form 20 cm3 of ammonia, all
 measured at the same temperature and pressure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--04-gas-volumes.webp" width="900" height="910" alt="Three gas syringes drawn to scale for N2 + 3H2 giving 2NH3 show 10, 30 and 20 cm3, a 1:3:2 volume ratio equal to the mole ratio. 8.8 g of CO2 is 0.2 mol, so 4.8 dm3 at r.t.p." loading="lazy">
+  <figcaption>Gas volumes at the same temperature and pressure follow the mole ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--06-avogadro-moles-particles.webp" width="900" height="1020" alt="One mole of C, H2O and CO2 has different masses (12, 18, 44 g) but the same 6.02 x 10^23 particles. 8.8 g CO2 is 0.2 mol, which is 1.20 x 10^23 molecules." loading="lazy">
+  <figcaption>The Avogadro constant converts moles to number of particles (Higher tier).</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -42,6 +42,17 @@ Also required: cell-surface membrane, nucleus (chromosomes = protein-bound linea
 
 **Exam questions test "explain how structure suits function," not "name this organelle."**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
+
 ## Prokaryotic cells and viruses (3.2.1.2)
 
 | Feature | Eukaryotic | Prokaryotic |
@@ -54,6 +65,12 @@ Also required: cell-surface membrane, nucleus (chromosomes = protein-bound linea
 Many prokaryotes also have **plasmids** (extra circular DNA, e.g. carrying antibiotic resistance genes), a **capsule**, and **flagella** (structural detail not required).
 
 **Viruses are acellular and non-living** — genetic material + **capsid** (protein coat) + attachment protein. **Keep viruses conceptually separate from prokaryotes** — a virus is not made of a cell at all, not simply a very small/simple one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--05-prokaryote-virus.webp" width="900" height="1060" alt="A rod-shaped bacterium with a capsule, cell wall, cell surface membrane, no nucleus, a circular DNA loop free in the cytoplasm, a plasmid, small 70S ribosomes, a flagellum and pili. Below, a virus: a nucleic acid core inside a protein capsid, with attachment proteins and, in some viruses, an envelope. A virus has no cytoplasm or ribosomes and is not a cell." loading="lazy">
+  <figcaption>A bacterium has no nucleus or membrane-bound organelles; a virus is acellular.</figcaption>
+</figure>
+
 
 ## Worked example: structure-function link (mitochondria)
 
@@ -68,6 +85,12 @@ Link:       folded cristae increase surface area for the electron
 ```
 
 This **structure → function → link** pattern applies to every organelle in 3.2.1.1 and is the format mark schemes most consistently reward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
 
 ## Worked example: comparing a bacterium and a plant cell
 
@@ -93,6 +116,12 @@ Naming the **specific chemical difference** (cellulose vs. murein), not just "bo
 
 The specification explicitly expects you to apply eukaryotic cell structure knowledge to explain how **specialised cells organise into tissues, tissues into organs, and organs into systems** -- this is not a separate topic but a direct extension of 3.2.1.1. A specialised cell (for example, a red blood cell, or a root hair cell) has organelles present, absent, or modified in proportion to its specific job: a red blood cell has no nucleus in its mature form, maximising space for haemoglobin; a cell specialised for secretion (such as a pancreatic cell) has an unusually extensive rough ER and Golgi apparatus for producing and packaging enzymes. Being ready to apply the organelle-function pairings above to an unfamiliar specialised cell, rather than only reciting them for a generic "typical" cell, is exactly the kind of application AQA's assessment objectives reward at A-level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-structure-revision-notes--03-u2-015-cell-organelles-match-job.webp" width="900" height="1200" alt="A red blood cell has no nucleus, leaving room for haemoglobin. A pancreatic enzyme-secreting cell has extensive rough ER with ribosomes and many Golgi and vesicles, to make, package and secrete enzymes." loading="lazy">
+  <figcaption>Organelle content reflects what each specialised cell does.</figcaption>
+</figure>
+
+
 ## Worked example: explaining a specialised cell's adaptations
 
 A question describes a pancreatic cell that secretes large quantities of digestive enzymes, and asks how its organelle content reflects this function.
@@ -110,6 +139,12 @@ Conclusion:   the abundance of these two organelles directly reflects
 ```
 
 This is the same structure-function-link pattern used for mitochondria above, applied to a whole cell's organelle profile rather than a single organelle -- practise it both ways.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--04-secretory-pathway.webp" width="900" height="930" alt="Five numbered steps: mRNA leaves the nucleus through a pore; ribosomes on the rough ER make the protein; a vesicle carries it to the Golgi; the Golgi modifies and packages it; a vesicle fuses with the cell surface membrane and releases it by exocytosis. Mitochondria supply ATP. A lysosome also forms at the Golgi, and proteins from free ribosomes stay in the cell." loading="lazy">
+  <figcaption>The route from gene to secreted protein: nucleus, rough ER, vesicle, Golgi, vesicle, exocytosis.</figcaption>
+</figure>
+
 
 ## Key terms
 

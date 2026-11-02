@@ -95,6 +95,12 @@ rise relative to withdrawals, national income rises; if withdrawals rise relativ
 falls. The equilibrium level need not be **full employment income** (the level at which the economy's
 resources are fully employed) -- it can settle below it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
+
 ## AD/AS analysis (3.2.2.2)
 
 A change in the **price level** is a movement along the AD and AS curves; a change in any other
@@ -103,6 +109,12 @@ example, a collapse in business confidence, or a recession abroad cutting demand
 a **supply-side shock** (for example, a sharp rise in world oil prices) shifts SRAS. Underlying economic
 growth is shown as a rightward shift in LRAS. The same diagrams can illustrate changes in the price
 level, demand-deficient (cyclical) unemployment and economic growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
 
 ## The determinants of aggregate demand (3.2.2.3)
 
@@ -124,6 +136,17 @@ about the future (such as job security). **Saving and investment are different t
 withdrawal made mainly by households, investment is spending on capital goods made mainly by firms --
 an injection -- and the two are planned by different people for different reasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
+
 ## The multiplier and the MPC (3.2.2.4)
 
 An initial change in expenditure has a larger final effect on national income, because one person's
@@ -142,6 +165,12 @@ An extra £10bn of investment: £10bn + £8bn + £6.4bn + ...
 AQA requires the multiplier to be calculated from the MPC only; calculations from the marginal
 propensities to withdraw are not expected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Short-run aggregate supply (3.2.2.5)
 
 The main determinants of short-run aggregate supply (SRAS) are the price level and production costs.
@@ -149,6 +178,12 @@ A change in costs -- money wage rates, raw material prices, business taxation, o
 productivity lowers unit costs) -- shifts SRAS. Cost changes such as a rise in money wages or raw material
 prices can shift SRAS without any change in the economy's underlying capacity, whereas a lasting rise in
 productivity also shifts LRAS (3.2.2.6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## Long-run aggregate supply (3.2.2.6)
 
@@ -166,6 +201,17 @@ the price level; it slopes upwards as the economy nears full capacity and bottle
 it becomes vertical at full-capacity output, where a further rise in AD raises only the price level. On
 this view the economy can stay in equilibrium well below full employment unless AD rises -- unlike the
 vertical LRAS model, in which a change in AD affects only the price level in the long run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
 
 ## Worked example: reading an AD-AS shift
 

@@ -85,6 +85,12 @@ Receptor, then sensory neurone, then relay neurone, then motor neurone, then eff
 
 Small reminder: path length 0.60 m at 60 m s⁻¹ takes 0.60 / 60 = 0.010 s = 10 ms. With two synapses at 0.5 ms each, total = 10 + 1.0 = 11 ms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+
 ## Required practical 10 in brief
 
 | Item | Notes |
@@ -114,6 +120,12 @@ Worked reminder: 50 larvae, 32 in the dark half and 18 in the light half. E = 25
 Small reminder: resting −70 mV, threshold −55 mV. A potential of −58 mV is a change of +12 mV, so no action potential. A potential of −50 mV is +20 mV, so an action potential.
 
 The retina in brief: light passes through the layers of neurones to reach the photoreceptors. Rods and cones pass signals to bipolar neurones, then to the sensory neurones of the optic nerve. The differences between rods and cones come from their **pigments** and their **connections**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
 
 ## Rods and cones
 

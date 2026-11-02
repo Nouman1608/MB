@@ -79,6 +79,17 @@ Average rates grow with income, so the system is progressive. The marginal rate 
 
 **Regressive.** An annual licence fee of 120 cu takes 0.8% of a 15,000 cu income but only 0.2% of a 60,000 cu income. Taxes on spending can also be regressive in effect. Suppose tax equals 8% of spending. Household P has an income of 18,000 cu and spends 16,200 cu (90%): it pays 1,296 cu, which is 7.2% of income. Household R has an income of 90,000 cu and spends 45,000 cu (50%): it pays 3,600 cu, which is 4.0% of income. R pays more cu but a smaller share, because richer households save a larger proportion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--01-average-vs-marginal-tax-rate.webp" width="900" height="860" alt="Graph of tax rate against income for Country A with bands 0, 20 and 40 percent. The marginal rate is a step line; the average rate climbs from 10 percent at 20,000 to 32 percent at 100,000. The marginal rate stays above the average, so the average keeps rising and the tax is progressive." loading="lazy">
+  <figcaption>The marginal rate sits above the average rate, so the average rate rises with income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+
 ## 3. Direct and indirect taxation
 
 A **direct tax** is charged on what people or firms earn or own, and the legal liability and the burden usually sit with the same person or firm. Examples are income tax, National Insurance contributions, corporation tax and inheritance tax.
@@ -140,6 +151,22 @@ Revenue peaks at 50%. A 30% rate and a 70% rate raise the same revenue (126 bn c
 
 Indirect taxes follow the same logic. If a per-unit tax of t cu is added to a good with a constant cost of 4 cu and demand Q = 400 - 20P, then P = 4 + t, Q = 320 - 20t, and revenue = t(320 - 20t), which peaks at t = 8 with revenue 1,280 cu. Inelastic demand loses fewer sales, so the tax usually raises more revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--07-laffer-lesson-numbers.webp" width="900" height="975" alt="Tax revenue against tax rate for a base of 600 minus 6t. Revenue peaks at 150 bn cu at 50%; 30% and 70% both raise 126 bn cu, but the base is 420 and 180. Above 50% is the prohibitive section." loading="lazy">
+  <figcaption>Revenue rises to 50% then falls as the base shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--08-indirect-tax-revenue-peak.webp" width="900" height="960" alt="Revenue t(320 - 20t) from a per-unit tax on a good with cost 4 cu and demand Q = 400 - 20P rises to 1,280 cu at t = 8 (price 12, sales 160) and falls to zero at t = 16." loading="lazy">
+  <figcaption>A per-unit tax also has a revenue-maximising rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+
+
 ## 6. A flat rate tax system
 
 A **flat rate tax** applies a single rate to all taxable income, usually above an allowance.
@@ -164,6 +191,12 @@ With an allowance, a flat tax is still progressive in its average rate, because 
 
 Evaluation turns on the rate, the allowance, how the base responds, and the weight on equity versus incentives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--06-flat-tax-vs-bands.webp" width="900" height="880" alt="Average tax rates under the current bands and under a flat 25% above a 10,000 allowance at incomes of 20,000, 50,000 and 100,000 cu. The flat tax is higher at 20,000 (12.5% v 10.0%) and lower at 50,000 and 100,000 (22.5% v 32.0%, a 9,500 cu difference)." loading="lazy">
+  <figcaption>A flat tax takes more from low earners and less from high earners than the bands.</figcaption>
+</figure>
+
+
 ## 7. Budget position and fiscal stance
 
 The **budget position** is the balance between government receipts and spending.
@@ -186,6 +219,17 @@ With GDP of 2,000 bn cu, the overall deficit is 1.5% of GDP. Borrowing to fund c
 Illustration, for a different economy from Country A above: a deficit is 4% of GDP and the output gap is -5%. Suppose each 1% of output gap changes the balance by 0.4% of GDP. The cyclical deficit is 5 × 0.4 = 2% of GDP, so the structural deficit is 4 - 2 = 2%. If growth closes the gap, the deficit falls to about 2% of GDP with no policy change. If the output gap were +2%, a cyclical *surplus* of 0.8% of GDP would flatter the position. The 0.4 is illustrative only.
 
 A government that treats a cyclical deficit as structural may cut spending in a recession and deepen it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--02-overall-vs-current-budget.webp" width="900" height="960" alt="Receipts of 350 bn cu against spending of 330 current plus 50 capital, 380 in total. Overall position is minus 30, a deficit of 1.5 percent of GDP; current position is plus 20, a surplus." loading="lazy">
+  <figcaption>Capital spending turns a current surplus into an overall deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--03-cyclical-vs-structural-deficit.webp" width="900" height="710" alt="Three columns in percent of GDP. A deficit of 4 percent with output gap minus 5 percent splits into 2 cyclical (5 x 0.4) and 2 structural. Closing the gap leaves a 2 percent deficit. With a plus 2 percent gap a cyclical surplus of 0.8 flatters the position." loading="lazy">
+  <figcaption>Part of a deficit disappears with growth and part does not.</figcaption>
+</figure>
+
 
 ## Common errors
 

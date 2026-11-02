@@ -93,6 +93,52 @@ Method in steps for an LRAS factor question:
 
 Worked reminder. 18 million workers produce 450 billion, so output per worker is 25,000. If productivity rises 4% to 26,000 and employment stays the same, output = 18m × 26,000 = 468 billion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--05-fuel-depreciation-sras.webp" width="900" height="900" alt="Fuel costs 80 home units a tonne at 0.50 and 100 at 0.40, up 25%. With fuel 30% of costs, unit costs rise 7.5% and SRAS shifts left." loading="lazy">
+  <figcaption>A 25% rise in fuel cost, with fuel 30% of costs, raises unit costs about 7.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--06-keynesian-numbers.webp" width="900" height="1000" alt="Country B curve: flat at price 50 to output 600, rising to 130 at 1,000, then vertical. Three AD boosts show output and price effects in each section." loading="lazy">
+  <figcaption>The same AD boost has different output and price effects depending on the section of the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--07-injections-withdrawals-d.webp" width="900" height="850" alt="Stacked bars: withdrawals 120+150+130=400, injections 110+160+120=390, and 430 after G rises 40. AD is 990 against output 1,000." loading="lazy">
+  <figcaption>A net withdrawal of 10 leaves output unsold, and a 40 rise in G makes a net injection of 30.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--01-employer-tax-bakery.webp" width="900" height="830" alt="Two stacked bars: wages 20,000 plus employer tax 2,000 (10%) is 22,000; after the rise to 12% the tax is 2,400 and the total 22,400. The extra cost is 400 a week, 8 per worker, about 1.8%." loading="lazy">
+  <figcaption>A higher employer tax raises unit costs, which shifts SRAS to the left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 2.3.4 The circular flow
 
 - Basic flow: households give factor services and receive income; firms give goods and services and receive spending.
@@ -105,6 +151,17 @@ Worked reminder. 18 million workers produce 450 billion, so output per worker is
 Small worked reminder. S = 50, T = 70, M = 40 so W = 160. I = 60, G = 80, X = 30 so J = 170. Net injection = +10, so output tends to rise.
 
 Income versus wealth: a household earning 24,000 a year with 60,000 of assets that saves 2,400 has wealth of 62,400 (prices unchanged). Saving is the link between the flow and the stock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--02-income-wealth-stock-flow.webp" width="900" height="880" alt="Income of 30,000 a year flows in; 27,000 is spent and 3,000 (10%) is saved into a tank of wealth, which rises from 90,000 to 93,000." loading="lazy">
+  <figcaption>Income is a flow per period; wealth is a stock on one date, and saving adds to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## Equilibrium real output (2.3.4 item 3)
 
@@ -126,6 +183,12 @@ AD rises by 60 (960 − 2P): 4P = 460, P = 115, output = 730.
 ```
 
 If LRAS is classical at 700, the same AD gives a long-run price level of (900 − 700) ÷ 2 = 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--08-equilibrium-shifts.webp" width="900" height="990" alt="AD and SRAS meet at price 75, output 1,100. A cost shock gives price 85, output 1,060. An AD rise of 80 gives price 85, output 1,140." loading="lazy">
+  <figcaption>A cost shock and an AD rise both lift the price level to 85 but move output in opposite directions.</figcaption>
+</figure>
+
 
 ## Diagrams you should be able to draw
 

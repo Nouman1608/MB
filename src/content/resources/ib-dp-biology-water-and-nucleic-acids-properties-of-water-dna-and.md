@@ -49,12 +49,24 @@ A δ+ hydrogen on one molecule is drawn towards the δ- oxygen of the molecule n
 
 In a diagram, label δ- on each oxygen and δ+ on each hydrogen, and draw hydrogen bonds as dashed lines between molecules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--01-water-polarity-hydrogen-bonds.webp" width="900" height="940" alt="A water molecule is bent with an angle of 104.5 degrees. Oxygen pulls the shared electrons more strongly than hydrogen, so oxygen carries a small negative charge (delta minus) and each hydrogen a small positive charge (delta plus). Below, four water molecules in a row: a delta plus hydrogen of one molecule is attracted to the delta minus oxygen of the next, shown as a dashed hydrogen bond. Hydrogen bonds are between molecules; the solid O-H bonds are covalent bonds inside a molecule." loading="lazy">
+  <figcaption>Hydrogen bonds join separate water molecules; the O-H bonds inside a molecule are covalent.</figcaption>
+</figure>
+
+
 ## A1.1.3 Cohesion
 
 Cohesion is the attraction between water molecules, caused by hydrogen bonding.
 
 - **Xylem transport.** Water evaporates from leaf cells (transpiration) and pulls the water column upwards. Cohesion stops the column breaking. The water is under tension: it is pulled up, not pushed.
 - **Surface tension.** Surface molecules have water only below and beside them, so they are drawn inwards and the surface acts like a thin skin. Pond skaters use it as a habitat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--02-cohesion-adhesion-xylem.webp" width="900" height="980" alt="A vertical xylem vessel filled with water molecules. Evaporation from a leaf cell at the top pulls the water column upwards, so the water is under tension. Teal lines show cohesion: hydrogen bonds between neighbouring water molecules that stop the column breaking. Gold dashed lines show adhesion: attraction between water molecules and the polar groups of the vessel wall, which supports the column and drives capillary action." loading="lazy">
+  <figcaption>Cohesion and adhesion keep the water column unbroken while evaporation pulls it up.</figcaption>
+</figure>
+
 
 ## A1.1.4 Adhesion
 
@@ -77,6 +89,12 @@ Polar molecules and ions dissolve because water molecules cluster round them; th
 Plasma carries dissolved glucose and urea, phloem sap carries sucrose and xylem sap carries mineral ions.
 
 Some molecules are **hydrophobic**: nonpolar, insoluble in water. Their roles depend on this. Phospholipid tails avoid water and form the core of the bilayer, so membranes separate watery regions. Fats store energy without dissolving in cell fluid. Poorly soluble substances such as oxygen need carriers, for example haemoglobin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--03-water-solvent-hydrophilic-hydrophobic.webp" width="900" height="1040" alt="Top: sodium ions and chloride ions dissolve because water molecules cluster round them. Around the positive sodium ion the water molecules point their negative oxygen end at the ion; around the negative chloride ion they point their positive hydrogen end at it. Bottom: nonpolar substances are hydrophobic. A fat droplet stays together with water molecules kept outside it, and the tails of phospholipids avoid water and form the core of a bilayer." loading="lazy">
+  <figcaption>Polar and charged substances dissolve because water clusters round them; nonpolar ones do not.</figcaption>
+</figure>
+
 
 ## A1.1.6 Water compared with air
 
@@ -106,6 +124,12 @@ Per cubic metre the contrast is greater: 1 m³ of water has a mass of about 1 00
 
 Conduction: 0.6 / 0.026 is about 23, so water conducts heat roughly 23 times as fast as air. A swimming mammal loses body heat far faster, so insulation matters more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--04-water-vs-air.webp" width="900" height="1030" alt="Horizontal bars on a logarithmic scale show how many times larger each value is for water than for air: density about 833 times, viscosity about 56 times, thermal conductivity about 23 times, heat held per cubic metre per degree about 3500 times and specific heat capacity per gram about 4.2 times. Consequences are strong upthrust, more drag so streamlining, faster loss of body heat and slow temperature change. Warming 2000 g by 5 degrees Celsius needs 41 800 J for water and 10 000 J for air." loading="lazy">
+  <figcaption>Water is far denser, more viscous and better at holding and conducting heat than air.</figcaption>
+</figure>
+
+
 ## A1.1.7 and A1.1.8 (HL only): water beyond Earth
 
 **Origin and retention (A1.1.7).** One hypothesis is that water arrived on Earth from space, carried by asteroids. Earth kept it because gravity holds it and because temperatures are low enough for water vapour to condense. Abundant water over billions of years allowed life to evolve.
@@ -121,6 +145,12 @@ A **nucleotide** has a phosphate group, a pentose (five-carbon) sugar and a nitr
 The bases are adenine (A), cytosine (C), guanine (G), thymine (T, DNA only) and uracil (U, RNA only). Their order forms a code.
 
 Nucleotides join by **condensation** reactions. A covalent link joins the phosphate of each incoming nucleotide to the sugar of the last one, and water is released. Repeating this gives a sugar-phosphate **backbone** of continuous covalent bonds, which is strong. RNA is made as a polymer in this way, usually as a single strand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--05-nucleotides-condensation-backbone.webp" width="900" height="950" alt="Each nucleotide has a phosphate group (circle), a five-carbon sugar (pentagon) and a nitrogenous base (rectangle). In a condensation reaction the phosphate of an incoming nucleotide is joined by a covalent bond to the sugar of the last nucleotide in the chain and a water molecule is released. Three nucleotides therefore have two such links. Repeating this builds a strong sugar-phosphate backbone with the bases hanging off it. For HL, the chain has a 5 prime end with a free phosphate and a 3 prime end at the last sugar." loading="lazy">
+  <figcaption>Condensation reactions join nucleotides into a strong sugar-phosphate backbone, releasing water.</figcaption>
+</figure>
+
 
 ## A1.2.6 to A1.2.8 The double helix and base pairing
 
@@ -138,6 +168,12 @@ A DNA strand reads 5'-GATTCAGC-3'. Write its complementary strand, then the mRNA
 
 If the original strand is the template instead, the mRNA is 5'-GCUGAAUC-3'. Always check which strand is the template.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--06-base-pairing-antiparallel.webp" width="900" height="958" alt="Two DNA strands run in opposite directions. The top strand reads 5 prime GATTCAGC 3 prime. A pairs with T through hydrogen bonds and G pairs with C, so the lower strand reads 3 prime CTAAGTCG 5 prime, which is 5 prime GCTGAATC 3 prime when written in the usual direction. If the lower strand is the template, the mRNA is 5 prime GAUUCAGC 3 prime, where U pairs with A. For HL: every pair is a double-ring purine (A or G) with a single-ring pyrimidine (C, T or U), so every pair is the same length." loading="lazy">
+  <figcaption>A pairs with T and G with C on antiparallel strands, and U pairs with A in mRNA.</figcaption>
+</figure>
+
+
 ## A1.2.7 DNA compared with RNA
 
 | Feature | DNA | RNA |
@@ -147,6 +183,12 @@ If the original strand is the template instead, the mRNA is 5'-GCUGAAUC-3'. Alwa
 | Bases | A, T, G, C | A, U, G, C |
 
 Ribose has an OH group on carbon 2; deoxyribose has only H there. Examples: chromosomal DNA, mRNA, tRNA and rRNA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--07-dna-vs-rna.webp" width="900" height="960" alt="Left, DNA: the sugar is deoxyribose, which has only a hydrogen atom on carbon 2, and DNA has two strands with the bases A, T, G and C. Right, RNA: the sugar is ribose, which has an OH group on carbon 2, and RNA is usually a single strand with the bases A, U, G and C. Thymine is found only in DNA and uracil only in RNA." loading="lazy">
+  <figcaption>DNA and RNA differ in sugar, number of strands and one base.</figcaption>
+</figure>
+
 
 ## A1.2.9 and A1.2.10 Information and common ancestry
 
@@ -161,6 +203,12 @@ The genetic code is the same in almost all life: the same triplets specify the s
 **Purine and pyrimidine pairing (A1.2.12).** Purines (A, G) are double-ring bases, and pyrimidines (C, T, U) are single-ring bases. Every pair is one purine with one pyrimidine, so all pairs have equal length and the helix has the same shape whatever the sequence.
 
 **Nucleosome (A1.2.13).** DNA wraps round a core of eight histone proteins. A further histone attaches to the linker DNA. In molecular visualisation software, find the DNA wound round the histone core and note where the proteins contact the phosphate groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--09-nucleosome.webp" width="900" height="860" alt="A nucleosome is DNA wound about one and two thirds turns round a core of eight histone proteins. A further histone, the linker histone, attaches to the linker DNA that joins one nucleosome to the next. This is HL only." loading="lazy">
+  <figcaption>A nucleosome is DNA wound round eight histones, with a linker histone on the linker DNA.</figcaption>
+</figure>
+
 
 ## A1.2.14 and A1.2.15 (HL only) Evidence
 
@@ -178,6 +226,12 @@ Here are invented counts (counts per minute).
 Percentage of 32P in pellet = 8500 / 10 000 x 100 = 85%. Percentage of 35S in supernatant = 6200 / 8000 x 100 = 77.5%. The label from DNA mostly entered the bacteria while the protein label mostly stayed outside. This supports DNA being the genetic material. The results are not perfectly clean, so they support the conclusion without proving it.
 
 **Chargaff.** In samples from many species, A is about equal to T and G to about equal C, so purines and pyrimidines are about equal in amount, but the ratio (A+T)/(G+C) differs between species. This falsified the tetranucleotide hypothesis of a repeating sequence of the four bases. The NOS point: no number of observations can prove a general rule (the problem of induction), but one reliable counterexample can disprove it (falsification).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--08-hershey-chase.webp" width="900" height="1070" alt="A bacteriophage is a virus made of DNA and protein. Phosphorus is in DNA but not protein, so phosphorus-32 labels the DNA; sulfur is in protein but not DNA, so sulfur-35 labels the protein. Each labelled phage infected bacteria, the coats were shaken off and the mixture was spun to give a pellet of bacteria and a supernatant of coats. With invented counts, 85 percent of the phosphorus-32 was in the pellet (8500 of 10 000) and 77.5 percent of the sulfur-35 was in the supernatant (6200 of 8000). DNA entered the bacteria, which supports DNA as the genetic material. This is HL only." loading="lazy">
+  <figcaption>Mostly the DNA label entered the bacteria while the protein label stayed outside.</figcaption>
+</figure>
+
 
 ## Common errors
 

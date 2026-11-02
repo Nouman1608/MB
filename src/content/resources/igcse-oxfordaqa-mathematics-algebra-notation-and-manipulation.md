@@ -64,6 +64,17 @@ that are linear or quadratic algebraic expressions)
 equivalent, and using algebra to support and construct arguments
 (Extension: to include proofs)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--06-identity-vs-equation.webp" width="900" height="1180" alt="The graphs of (x + 2)(x + 3) and x squared + 5x + 6 coincide everywhere, an identity. The curve x squared + 5x + 6 meets y = 12 only at x = -6 and x = 1, so that equation is true only for those values." loading="lazy">
+  <figcaption>An identity is true for every x; an equation is true only for particular values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--01-change-subject-twice.webp" width="900" height="1286" alt="A five-step worked example making x the subject of y = (2x + 1)/(x - 3). Multiply out, expand, collect the x terms on one side, factorise to take x out, then divide to get x = (3y + 1)/(y - 2). Terms containing x are teal. A check with x = 5 confirms it." loading="lazy">
+  <figcaption>When the subject appears twice, collect its terms on one side and factorise.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Almost every point in this sub-topic (A2, A4, A5, A6, A7, A8) has a
@@ -100,6 +111,17 @@ Working the same expression in both directions, as shown here, is a
 reliable way to check factorising work: after factorising, multiply the
 brackets back out and confirm the original expression is recovered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Sign errors when expanding brackets with a negative term, such as
@@ -114,6 +136,12 @@ tests the distinction in A3. Cancelling terms in a fraction rather than
 factors -- for example, attempting to cancel an 'x' that appears added
 within an expression rather than multiplied as a genuine common factor,
 which is not mathematically valid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
 
 ## Quick revision checklist
 
@@ -145,6 +173,12 @@ This kind of question tests A5 (factorising) and A7 (manipulating
 algebraic fractions) together -- a reminder that the eight points in
 this sub-topic are rarely examined in isolation, and fluency across
 several of them at once is what a strong answer actually requires.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

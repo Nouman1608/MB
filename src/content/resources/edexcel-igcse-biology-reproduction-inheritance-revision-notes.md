@@ -39,6 +39,52 @@ functions; the menstrual cycle explained via oestrogen and progesterone (FSH and
 content); the placenta nourishes the developing embryo; amniotic fluid protects it; oestrogen and
 testosterone drive secondary sexual characteristics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
+  <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--09-seed-and-fruit.webp" width="900" height="980" alt="Left: an ovary containing four ovules. Right: after fertilisation the ovary has become the fruit, which protects the seeds and often helps disperse them, and each ovule has become a seed with a seed coat (testa) and an embryo plant inside. Common error: the ovary does not become the seed." loading="lazy">
+  <figcaption>After fertilisation the ovule becomes the seed and the ovary becomes the fruit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--08-runners-and-cuttings.webp" width="900" height="1010" alt="Top: a strawberry plant sends out a runner, a side stem along the soil; roots and shoots grow at a point along it to form a new plant. Bottom: four steps for a cutting. 1 cut a short shoot just below a node; 2 remove the lower leaves to reduce water loss by transpiration; 3 dip the cut end in rooting powder, which contains plant hormones that stimulate root growth; 4 plant in damp compost and cover with a clear plastic bag to keep the air humid. Both methods use mitosis, so the new plants are genetically identical to the parent." loading="lazy">
+  <figcaption>Both methods make new plants by mitosis, so every new plant is a clone of the parent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--05-reproductive-systems.webp" width="900" height="1240" alt="Front-view schematics of the male (testes in scrotum, sperm ducts, prostate gland, urethra, penis) and female (ovaries, oviducts, uterus, cervix, vagina) systems with the function of each part." loading="lazy">
+  <figcaption>Identify the parts of the human reproductive systems and their jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--07-puberty-secondary-characteristics.webp" width="900" height="1290" alt="Two body outlines are labelled with the changes at puberty. Testosterone from the testes causes facial and body hair, a deeper voice, muscle growth, testis and penis growth and sperm production. Oestrogen from the ovaries causes breast development, wider hips and the start of the menstrual cycle. Both sexes grow pubic and underarm hair." loading="lazy">
+  <figcaption>Testosterone and oestrogen bring about the secondary sexual characteristics at puberty.</figcaption>
+</figure>
+
+
 ## (b) Inheritance -- core vocabulary
 
 - **Genome**: an organism's entire DNA.
@@ -49,6 +95,17 @@ testosterone drive secondary sexual characteristics.
 Paper 2 adds DNA structure (double helix, two strands, paired bases -- adenine/thymine,
 cytosine/guanine) and RNA (single-stranded, uses uracil instead of thymine), plus protein synthesis
 (transcription and translation; mRNA, ribosomes, tRNA, codons, anticodons).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--06-genotype-phenotype-terms.webp" width="900" height="960" alt="Chromosome pairs for BB, Bb and bb with the matching guinea pig: homozygous black, heterozygous black, homozygous white." loading="lazy">
+  <figcaption>Genotype is the alleles; phenotype is the characteristic shown.</figcaption>
+</figure>
+
 
 ## Monohybrid inheritance
 
@@ -93,6 +150,12 @@ Phenotype ratio: 3 tall : 1 short
 
 Always show the full diagram -- gametes listed separately before combining them -- since the working,
 not just the 3:1 ratio, is what earns most of the marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-reproduction-inheritance-revision-notes--01-monohybrid-tt-cross.webp" width="900" height="1000" alt="Two heterozygous tall pea plants, Tt crossed with Tt. Each makes T and t gametes. A 2 by 2 grid gives TT, Tt, Tt and tt, with three tall and one short. Genotype ratio 1 TT : 2 Tt : 1 tt; phenotype ratio 3 tall : 1 short." loading="lazy">
+  <figcaption>Show parents, gametes, offspring and both ratios; the working earns the marks.</figcaption>
+</figure>
+
 
 ## The required practical: seed germination conditions
 

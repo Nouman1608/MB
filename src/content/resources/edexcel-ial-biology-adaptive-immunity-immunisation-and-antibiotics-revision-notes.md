@@ -53,6 +53,12 @@ These are condensed notes for statements 6.10 to 6.15 of the Pearson Edexcel Int
 
 **Small reminder.** If a primary peak is 6 AU and a secondary is 90 AU, the secondary is 90 / 6 = 15 times higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+
 ## 6.11 Four types of immunity
 
 | | Active (own antibodies, memory cells) | Passive (antibodies given) |
@@ -94,6 +100,12 @@ When you answer, state the example, the mechanism and the effect on the immune r
 - Antibiotics target bacterial features: cell wall, ribosomes. They do not act on viruses.
 - Resistance: random mutation, then selection by antibiotic, then spread of the allele to offspring and other bacteria by plasmids.
 - Turbidity includes dead cells, so only viable counts show killing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## 6.14 Core Practical 14 in steps
 
@@ -161,11 +173,23 @@ Notice that the diameters differ by a factor of 1.33 but the areas by 1.9. This 
 | Resistance and tolerance | Resistance is a property of bacteria that survive antibiotics. It is not a change in the patient |
 | Lytic and latent viruses | A lytic virus makes new virions and bursts the cell. A latent virus stays dormant in the host cell, showing few antigens |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ## Short model answers
 
 **Explain why the second response to a vaccine is faster.** B memory cells were made in the first response [1]. They are already selected for the antigen and are more numerous than the original matching cells [1]. They divide and form plasma cells quickly [1], so antibody appears sooner and reaches a higher level [1].
 
 **Explain how resistance spreads in a population of bacteria.** A mutation gives a resistant allele [1]. Sensitive bacteria are killed by the antibiotic, leaving resistant individuals to reproduce with less competition [1]. Offspring inherit the allele, and plasmids can carry it into other bacteria [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

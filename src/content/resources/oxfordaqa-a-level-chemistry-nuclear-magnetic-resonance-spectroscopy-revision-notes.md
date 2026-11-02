@@ -64,6 +64,12 @@ No practical activity is listed for this section.
 | Splitting | A ¹H signal divided into n + 1 peaks by n non-equivalent H on adjacent carbons |
 | Deuterated solvent | A solvent with ¹H replaced by ²H (D), e.g. CDCl₃ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+
 ## Shift ranges (approximate)
 
 Use the Chemistry data booklet in the exam. These rounded ranges are written for these notes.
@@ -80,6 +86,12 @@ Use the Chemistry data booklet in the exam. These rounded ranges are written for
 
 The trend: an electronegative atom or a C=O group close to the nucleus means a **larger δ**. Two
 electronegative atoms on the same carbon push the signal further still.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
 
 ## TMS in four points
 
@@ -100,6 +112,12 @@ Tetramethylsilane, Si(CH₃)₄:
 
 Deuterium still has a nucleus, but it absorbs at a completely different frequency from ¹H, so nothing
 from a CDCl₃ molecule appears in the ¹H spectrum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
 
 ## ¹³C spectra
 
@@ -124,6 +142,12 @@ heights 21 mm and 14 mm. Ratio 21 : 14 = 3 : 2. The formula has 10 H, so scale b
 The two CH₂ groups are next to each other, but they are **equivalent**, so they do not split each other
 and give a singlet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+
 ## The n+1 rule
 
 | H on adjacent carbons | Pattern | Fragment it suggests |
@@ -143,6 +167,17 @@ Fragments worth recognising on sight:
 
 O–H protons usually appear as singlets in the spectra you meet, and their δ varies from sample to sample.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+
 ## Combining techniques
 
 | Data | Tells you |
@@ -153,6 +188,12 @@ O–H protons usually appear as singlets in the spectra you meet, and their δ v
 | ¹H signals, integration, splitting | H environments, how many H in each, neighbours |
 
 Work in that order: formula, functional group, carbon skeleton, then H detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

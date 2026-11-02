@@ -43,6 +43,22 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 | Unit of account | All prices stated in one measure |
 | Standard of deferred payment | Debts and contracts fixed in money terms |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--08-narrow-vs-broad-money.webp" width="900" height="950" alt="Broad money 600 = notes and coins 36 + instant 164 + notice 230 + fixed-term 170; narrow money 36 is 6.0%." loading="lazy">
+  <figcaption>Narrow money is a small subset of broad money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## Narrow and broad money
 
 | | Narrow money | Broad money |
@@ -66,6 +82,17 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 - **Primary market:** new issues, raising funds for the issuer.
 - **Secondary market:** trading in existing assets between investors. It gives liquidity but raises no new funds for the issuer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--01-three-financial-markets.webp" width="900" height="885" alt="Three cards: the money market trades short-term loans and assets (under one year) and is priced by short-term interest rates; the capital market trades shares and bonds for long-term finance, priced by share and bond prices; the foreign exchange market trades currencies and is priced by exchange rates." loading="lazy">
+  <figcaption>The line between the money and capital markets is how long the money is lent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--02-primary-vs-secondary-market.webp" width="900" height="880" alt="In the primary market an issuer sells new shares or bonds and receives money. In the secondary market a seller resells old shares or bonds to a buyer; the issuer receives nothing new, but assets stay liquid." loading="lazy">
+  <figcaption>Only the primary market raises new funds for the issuer.</figcaption>
+</figure>
+
+
 ## Role of financial markets
 
 1. Channel savings to borrowers who invest.
@@ -78,6 +105,12 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 **Chain:** lower cost of finance → more projects worth doing → more investment → higher capital stock → higher aggregate demand now and long-run aggregate supply later.
 
 **Evaluation points:** mispricing, speculation, herd behaviour, bubbles, uneven access for small firms, and dependence on regulation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--03-financial-markets-chain.webp" width="900" height="950" alt="Five steps: lower cost of finance, more projects with return above cost, investment rises, capital stock and capacity grow, AD rises now and long-run AS later. A warning notes that markets can misprice assets." loading="lazy">
+  <figcaption>Well-functioning markets raise investment and growth, but can misprice assets.</figcaption>
+</figure>
+
 
 ## Debt versus equity
 
@@ -101,6 +134,12 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 Debt is cheap here and cover stays comfortable, so the loan wins in both cases. A higher interest rate or lower profit would weaken that case.
 
 **Evaluate the choice using:** stability of profit, existing level of borrowing, interest rates, wish to keep control, and how fast funds are needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--11-loan-vs-shares.webp" width="900" height="970" alt="Profit per share: good year loan 1.08, shares 0.9375; downturn loan -0.02, shares 0.25. Interest cover 3.57 falls to 0.95." loading="lazy">
+  <figcaption>Debt magnifies gains and losses; equity dilutes gains but cuts risk.</figcaption>
+</figure>
+
 
 ## Bonds: terms and formula
 
@@ -143,6 +182,17 @@ Draw price on the vertical axis and the quantity of bonds on the horizontal axis
 - Yield rises when price falls.
 - Longer maturity means a bigger price change for the same change in interest rates.
 - Selling early realises a loss; holding to maturity returns the nominal value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--09-bond-price-and-rates.webp" width="900" height="1010" alt="Price = 5 / rate: 125 at 4%, 100 at 5%, 80 at 6.25%, 62.5 at 8%; a rise from 5% to 8% cuts price 37.5%." loading="lazy">
+  <figcaption>Fixed coupon means price falls when market rates rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--10-maturity-and-price-fall.webp" width="900" height="960" alt="Coupon 6 bond after rates rise 6% to 8%: 1 year 98.15, 5 years 92.01, no maturity 75." loading="lazy">
+  <figcaption>The longer to maturity the larger the price fall.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

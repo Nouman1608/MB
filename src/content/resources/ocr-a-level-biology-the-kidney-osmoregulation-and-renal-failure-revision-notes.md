@@ -54,6 +54,17 @@ These notes condense learning outcomes 5.1.2(c) to 5.1.2(f) of the OCR A Level B
 
 Longer loops of Henle give a steeper gradient, so animals of dry places can make more concentrated urine. Urine is water, urea, creatinine and excess ions, with no glucose or protein normally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--02-nephron.webp" width="900" height="1090" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
+  <figcaption>The nephron runs from the glomerulus in the cortex, through the loop of Henle in the medulla, to the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--05-loop-of-henle.webp" width="900" height="1080" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
+  <figcaption>The ascending limb pumps out ions and the descending limb loses water, building a steep gradient that lets the collecting duct recover water.</figcaption>
+</figure>
+
+
 ## Method in steps: ultrafiltration
 
 1. Wide afferent and narrower efferent arteriole give high hydrostatic pressure in the glomerulus.
@@ -63,6 +74,12 @@ Longer loops of Henle give a steeper gradient, so animals of dry places can make
 
 Net outward pressure = capillary hydrostatic pressure − capsule pressure − effect of plasma proteins.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
+
 ## Method in steps: reabsorption in the PCT
 
 1. Sodium-potassium pump moves sodium ions out of the cell into the blood side.
@@ -71,6 +88,12 @@ Net outward pressure = capillary hydrostatic pressure − capsule pressure − e
 4. Water follows by osmosis.
 
 If the filtered load exceeds the carrier capacity, glucose is left in the filtrate and appears in the urine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
 
 ## Method in steps: ADH response to a low blood water potential
 
@@ -82,6 +105,12 @@ If the filtered load exceeds the carrier capacity, glucose is left in the filtra
 6. Small volume of concentrated urine; blood water potential rises, which switches the response off (negative feedback).
 
 For a high blood water potential, reverse the steps: less ADH, fewer aquaporins, large volume of dilute urine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
 
 ## Kidney failure
 
@@ -107,6 +136,12 @@ For a high blood water potential, reverse the steps: less ADH, fewer aquaporins,
 - Protein in urine (biuret reagent) can suggest kidney damage; glucose (reducing sugar test) can suggest diabetes.
 - Pregnancy test: the strip has mobile monoclonal antibodies to hCG on coloured beads, a test line of immobilised antibodies to hCG, and a control line. Two lines mean hCG is present.
 - Steroids and drugs: monoclonal antibodies specific to the substance can be used in immunoassays on urine samples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
 
 ## Tissue and drawing reminders
 
@@ -166,6 +201,12 @@ For a high blood water potential, reverse the steps: less ADH, fewer aquaporins,
 8. No urea, so urea diffuses out of the blood; glucose at the normal plasma level, so glucose is not lost from the blood.
 9. Rejection by the immune system; infection because of immunosuppressant drugs (also surgical risk).
 10. That the beads reached the line and the test worked, whether or not hCG is present.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

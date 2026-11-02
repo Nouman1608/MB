@@ -47,6 +47,17 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 - **Logarithmic function:** f(x) = logₐ x or ln x, defined for x > 0.
 - **Composite transformation:** two or more transformations applied in sequence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--01-reciprocal-self-inverse.webp" width="900" height="1010" alt="Graph of y = 1/x with one branch in the first quadrant and one in the third, and asymptotes x = 0 and y = 0. A dashed line y = x is a mirror line: the point (2, 1/2) on the curve reflects to (1/2, 2), also on the curve, so the function is its own inverse." loading="lazy">
+  <figcaption>y = 1/x is symmetric about y = x, which is the graphical sign that it is its own inverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--03-exponential-family.webp" width="900" height="1030" alt="Graphs of 2 to the x, e to the x and (1/2) to the x. All pass through (0, 1) and have horizontal asymptote y = 0. The first two grow and the third decays. A dashed curve e to the (x ln 2) lies exactly on top of 2 to the x." loading="lazy">
+  <figcaption>Every y = aˣ passes through (0, 1) and approaches y = 0; a &gt; 1 grows, 0 &lt; a &lt; 1 decays, and aˣ = e^(x ln a).</figcaption>
+</figure>
+
+
 ## Key results
 
 | Function | Domain | Range | Asymptote(s) | Intercepts |
@@ -79,6 +90,22 @@ Exponential and logarithmic functions with the same base are inverses. Their gra
 | y = f(qx) | horizontal stretch, factor 1/q | (x/q, y) |
 
 Not required at SL: transformations of the form f(ax + b).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--07-transformation-order.webp" width="900" height="960" alt="The parabola y = x squared with two transformed copies. Stretching by factor 2 then translating 5 down gives y = 2x squared minus 5 with vertex (0, -5). Translating 5 down then stretching by 2 gives y = 2x squared minus 10 with vertex (0, -10). The order changes the answer." loading="lazy">
+  <figcaption>Stretch before you translate: 2x² − 5 and 2x² − 10 are different graphs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--08-transform-exponential.webp" width="900" height="960" alt="Graph of y = e to the x, the dashed curve y = -2e to the x after a vertical stretch of factor 2 and a reflection in the x-axis, and the final curve y = 4 - 2e to the x after moving 4 units up. The asymptote moves from y = 0 to y = 4. The final curve crosses the y-axis at (0, 2) and the x-axis at (ln 2, 0)." loading="lazy">
+  <figcaption>Stretch, reflect, then translate: the asymptote y = 0 ends at y = 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--09-transform-logarithm.webp" width="900" height="950" alt="The graph of y = ln x with asymptote x = 0 and intercept (1, 0), and y = ln(x - 2) + 1, moved 2 right and 1 up. The asymptote becomes x = 2, so the domain is x greater than 2; (1, 0) moves to (3, 1) and the x-intercept is 2 + e to the minus 1, about 2.37." loading="lazy">
+  <figcaption>Inside changes move x: the asymptote x = 0 becomes x = 2 and the domain becomes x &gt; 2.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -131,6 +158,12 @@ t = 15.7 years (3 s.f.)
 ```
 
 **Checking a GDC answer.** Substitute your root back into both sides. If the two sides differ in the third significant figure, you have read the wrong intersection or rounded too early.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--02-rational-asymptotes-intercepts.webp" width="900" height="1020" alt="Graph of y = (2x + 5)/(x + 1) with dashed vertical asymptote x = -1 and dashed horizontal asymptote y = 2. The branch on the right passes through (0, 5); the branch on the left passes through (-2.5, 0). The function also equals 2 + 3/(x + 1)." loading="lazy">
+  <figcaption>Find the asymptotes and the two intercepts first, then place each branch in the region its intercept lies in.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

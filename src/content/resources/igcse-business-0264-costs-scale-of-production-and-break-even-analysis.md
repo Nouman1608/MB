@@ -58,6 +58,12 @@ Thorncliffe Ceramics makes hand-finished mugs. Each month it pays rent of £9,00
 
 Now raise output to 10,000 mugs. Total variable cost is £45,000, total cost is £63,000 and average cost is **£6.30**. Average cost falls because the same £18,000 of fixed costs is shared between more mugs. Variable cost per unit stays at £4.50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
+
 ### Using cost data to make simple decisions
 
 The syllabus gives four example decisions. In each, compare cost data with revenue, then check non-cost factors.
@@ -77,6 +83,27 @@ The bowl earns the most towards fixed costs per unit sold. Demand and production
 **Whether to continue or stop production.** Suppose Thorncliffe makes 1,500 vases a month. They contribute 1,500 × 3 = £4,500 towards fixed costs. If rent and salaries continue whether or not vases are made, stopping the vase would cut monthly profit by £4,500, so there is a cost-based case for continuing. That case weakens if the machine time could earn more on another product, or if vases harm the brand.
 
 **Which supplier to choose.** Supplier X charges £2.10 per unit of glaze. Supplier Y charges £1.95 per unit plus a £400 delivery fee. For 8,000 units X costs 16,800 and Y costs 15,600 + 400 = 16,000, so Y saves £800. Quality, reliability of delivery and payment terms could still favour X.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--04-bs-average-cost-share.webp" width="900" height="850" alt="Stacked bars of cost per mug: variable 4.50 plus fixed share 3.00 at 6,000 mugs (average 7.50) and 1.80 at 10,000 mugs (average 6.30). A line at the 7 pound price shows a 3,000 loss at 6,000 mugs and a 7,000 profit at 10,000." loading="lazy">
+  <figcaption>Average cost falls because the same fixed costs are shared between more mugs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--06-bs-contribution.webp" width="900" height="880" alt="Bars split price into variable cost and contribution: mug 7 = 4.50 + 2.50, bowl 12 = 8 + 4, vase 20 = 17 + 3. 1,500 vases contribute 4,500 pounds towards fixed costs." loading="lazy">
+  <figcaption>Contribution per unit shows which product earns most towards fixed costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--03-supplier-x-y.webp" width="900" height="810" alt="Bars compare 8,000 units: X costs 16,800 pounds, Y costs 15,600 plus 400 delivery = 16,000. Y saves 800 pounds, though quality, delivery and payment terms could favour X." loading="lazy">
+  <figcaption>Supplier Y is 800 pounds cheaper for 8,000 units, but cost is not the only factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
 
 ## 4.4.2 Economies and diseconomies of scale
 
@@ -113,6 +140,27 @@ Holmwick Foods makes jam. Its average cost per jar at different output levels is
 Total cost is average cost × output. Average cost falls until 300,000 jars, because Holmwick buys fruit and sugar in bulk (purchasing), uses one line for a bigger run (technical) and shares its advertising over more jars (marketing). Beyond 300,000 it rises. A typical explanation is that instructions between three factory sites arrive late (poor communication) and staff on the new site feel no loyalty to the firm (lack of commitment).
 
 When you answer, name the type, say how it lowers average cost and tie it to the business in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--05-bs-holmwick-curve.webp" width="900" height="930" alt="Line graph through the lesson points: 2.40, 1.80, 1.50, 1.40, 1.50 and 1.75 pounds per jar at 50,000 to 500,000 jars. Cost falls to 300,000 jars (economies of scale) then rises (diseconomies)." loading="lazy">
+  <figcaption>Average cost falls to 300,000 jars, then rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--01-five-economies.webp" width="900" height="880" alt="Five rows: purchasing (bulk discounts), marketing (advert spread over more units), financial (lower risk, cheaper loans), managerial (specialist managers), technical (bigger machines fully used). Each lowers average cost." loading="lazy">
+  <figcaption>The five economies of scale and how each lowers average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--02-four-diseconomies.webp" width="900" height="916" alt="Four panels: poor communication, lack of commitment or loyalty, weak coordination and lack of control, each with what goes wrong. All raise average cost." loading="lazy">
+  <figcaption>The four diseconomies of scale, each shown as a picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
 
 ## 4.4.3 Break-even analysis
 
@@ -177,6 +225,12 @@ The lines cross at X, at 200 bikes and £50,000. To interpret the chart:
 | Higher fixed costs | The fixed cost line and the total cost line both move up, so break-even moves right |
 | Higher variable cost per unit | The total cost line becomes steeper, so break-even moves right |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+
 ### Using break-even analysis to help decisions
 
 Recalculate break-even output with the new figures, then compare it with expected sales.
@@ -198,6 +252,17 @@ A higher price lowers break-even output, but it may also cut the number of bikes
 - It suits one product; sharing costs across many products is difficult.
 - It uses forecasts, which may be wrong.
 - It ignores the market: competitors, changing demand and the economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--07-bs-breakeven-moves.webp" width="900" height="970" alt="Break-even in bikes with sales of 260: original 200 (margin of safety 60), price 280 gives 167 (93), fixed costs 36,000 gives 240 (20), variable cost 80 gives 177 (83)." loading="lazy">
+  <figcaption>Price, fixed cost and variable cost each move break-even and the margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--04-break-even-limits.webp" width="900" height="1010" alt="Rowanbank break-even chart with numbered badges on the revenue, total cost and fixed cost lines showing the assumptions behind them, plus the other limitations." loading="lazy">
+  <figcaption>Straight lines on a break-even chart hide assumptions about price, variable cost and fixed costs.</figcaption>
+</figure>
+
 
 ## Common errors
 

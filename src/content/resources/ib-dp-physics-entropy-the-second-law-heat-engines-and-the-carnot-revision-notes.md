@@ -67,6 +67,12 @@ For 8 coins and 4 heads, S = 1.38 × 10⁻²³ × ln 70 = 1.38 × 10⁻²³ × 4
 
 Key links to remember: the mixed macrostate has the largest Ω, the highest entropy and the highest probability. A system moves towards the macrostate with the most microstates because it is overwhelmingly more probable, not because of a force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--02-ten-coins.webp" width="900" height="1010" alt="Bar chart of microstates for ten coins from 0 to 10 heads (1, 10, 45, 120, 210, 252, 210, 120, 45, 10, 1). 5 heads has Ω = 252, S = 7.63e-23 J per K and probability 0.246. For 100 coins the central macrostate has about 1.0e29 microstates." loading="lazy">
+  <figcaption>Larger systems make the highest-entropy macrostate overwhelmingly the one you see.</figcaption>
+</figure>
+
+
 ## Using ΔS = ΔQ/T
 
 Method in steps:
@@ -97,6 +103,12 @@ Must-know distinctions:
 
 Why real processes are irreversible: friction, heat flow across a temperature difference, free expansion and mixing all increase the number of accessible microstates. Reversal would need a decrease in total entropy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--05-freezer-local-decrease.webp" width="900" height="1080" alt="Heat of 1.002e5 J leaves water freezing at 273.15 K into a 295 K kitchen. Water entropy falls by 367 J per K; the kitchen must gain at least 367 J per K, needing 1.08e5 J, so at least 8.0e3 J of work is added." loading="lazy">
+  <figcaption>The water loses entropy locally, the kitchen gains at least as much, and work is the price.</figcaption>
+</figure>
+
+
 ## Heat engines and efficiency
 
 Method in steps for engine problems:
@@ -110,6 +122,17 @@ Reminder: an engine has output 36 kW and efficiency 0.30. Input power = 36/0.30 
 
 The Kelvin form means every engine rejects some energy, so η is always below 1 and Q_c is never zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--06-heat-engine-flow.webp" width="900" height="1020" alt="Arrows with widths proportional to energy: 850 J in from the hot reservoir, 230 J of useful work out and 620 J rejected to the cold reservoir. Efficiency 230/850 = 0.271 and power at 25 cycles per second is 5750 W." loading="lazy">
+  <figcaption>Over a cycle W = Q_h − Q_c, and efficiency is W divided by Q_h.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--07-pv-loop-work.webp" width="900" height="980" alt="Rectangular loop on a pressure-volume graph from 100 to 300 kPa and 1.0 to 3.0 x 10^-3 m^3, traversed clockwise. Its area, (300 000 - 100 000) Pa x 2.0e-3 m^3, is the net work, 400 J." loading="lazy">
+  <figcaption>The area enclosed by the loop equals the net work per cycle.</figcaption>
+</figure>
+
+
 ## The Carnot limit
 
 - It depends only on the two reservoir temperatures, in kelvin.
@@ -121,6 +144,17 @@ Reminder: for T_h = 900 K and T_c = 300 K, η_Carnot = 1 − 300/900 = 0.667. To
 
 Testing a claim in steps: convert to kelvin, find η_Carnot, compare the claimed efficiency. If the claim is higher, it breaks the second law. If it is lower, the claim is allowed in principle but is not guaranteed by the limit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--08-carnot-limit.webp" width="900" height="960" alt="Graph of Carnot efficiency 1 - T_c/T_h against T_h for T_c = 318.15 K. At T_h = 793.15 K the limit is 0.599; the claimed 0.62 lies above the curve in the forbidden region, so it is impossible." loading="lazy">
+  <figcaption>Efficiency above the Carnot curve for the given temperatures violates the second law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--09-real-engine-entropy.webp" width="900" height="930" alt="Two bars of 2.0 MJ input at 500 K with the cold reservoir at 300 K. Carnot gives 0.80 MJ work and rejects 1.20 MJ; the real engine gives 0.50 MJ and rejects 1.50 MJ. Entropy produced is 1000 J per K per cycle, and T_c times that, 0.30 MJ, is the lost work." loading="lazy">
+  <figcaption>Every irreversibility costs work in proportion to the entropy produced.</figcaption>
+</figure>
+
+
 ## Entropy produced by a real engine
 
 Method in steps:
@@ -131,6 +165,12 @@ Method in steps:
 4. Work lost compared with the Carnot ideal = T_c × (entropy produced).
 
 Reminder: Q_h = 1200 J from a reservoir at 600 K, Q_c = 800 J to one at 300 K. W = 400 J and η = 0.333, below the Carnot value of 0.50. Entropy change = 800/300 − 1200/600 = 2.67 − 2.00 = +0.667 J K⁻¹. Check: lost work = 300 × 0.667 = 200 J, and the Carnot engine would have produced 0.50 × 1200 = 600 J, which is 200 J more than 400 J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--04-heat-flow-entropy.webp" width="900" height="1080" alt="Hot reservoir at 450 K and cold at 300 K joined by a rod carrying 1500 J. Hot loses 3.33 J per K, cold gains 5.00 J per K, so the total is +1.67 J per K. Reversing the flow would lower total entropy." loading="lazy">
+  <figcaption>The cold side gains more entropy than the hot side loses, so total entropy rises.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -157,6 +197,12 @@ Reminder: Q_h = 1200 J from a reservoir at 600 K, Q_c = 800 J to one at 300 K. W
 8. 1 − T_c/720 = 0.35, so T_c = 0.65 × 720 = 468 K.
 9. The water loses entropy, but the freezer rejects more energy than it removes (the electrical work adds to it) into the warmer room, so the room gains at least as much entropy as the water loses.
 10. The macrostate with about half heads has by far the most microstates, so it is overwhelmingly the most probable. "All heads" is a single microstate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot--01-four-coin-microstates.webp" width="900" height="960" alt="All 16 arrangements of four coins, grouped by number of heads, with Ω = 1, 4, 6, 4, 1. The 2-heads group has the most (6), giving S = k_B ln 6 = 2.47e-23 J per K; all heads has Ω = 1 and S = 0." loading="lazy">
+  <figcaption>The macrostate with the most microstates has the highest entropy.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

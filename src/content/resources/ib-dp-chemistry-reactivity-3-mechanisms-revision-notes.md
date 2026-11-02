@@ -50,6 +50,17 @@ base is dissolved in a given volume of water) and a **strong** and a **weak** ac
 proportion of the dissolved molecules actually dissociate) -- these are two entirely separate
 scales, and a solution can be a concentrated weak acid or a dilute strong acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--01-proton-transfer.webp" width="900" height="910" alt="HCl, the acid, passes an H plus to a water molecule, the base, shown by a curved arrow. The acid becomes chloride, its conjugate base; water becomes H3O plus, its conjugate acid." loading="lazy">
+  <figcaption>An acid donates H+ to a base, producing a conjugate base and a conjugate acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--03-weak-acid-titration.webp" width="900" height="760" alt="Computed pH curve for 25.0 cm3 of 0.100 M ethanoic acid titrated with 0.100 M NaOH. A shaded buffer region lies before the steep rise; pH equals pKa at half-equivalence and is above 7 at equivalence." loading="lazy">
+  <figcaption>At HL, the weak acid curve shows a buffer region, pH = pKa at half-equivalence and an equivalence pH above 7.</figcaption>
+</figure>
+
+
 ## Reactivity 3.2 -- Electron transfer reactions
 
 Redox chemistry: oxidation is loss of electrons, reduction is gain of electrons (OIL RIG). Revise
@@ -79,6 +90,12 @@ ionic and metallic bonding models -- electron transfer only makes sense once you
 electrons as things atoms genuinely gain, lose or share, which is exactly what Structure 2
 establishes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--04-half-equations.webp" width="900" height="870" alt="Zinc becomes Zn2 plus and releases two electrons (oxidation). The electrons pass to Cu2 plus, which becomes copper (reduction). Adding the half-equations cancels the electrons: Zn + Cu2+ gives Zn2+ + Cu." loading="lazy">
+  <figcaption>Separate half-equations make the electron transfer explicit before they are added.</figcaption>
+</figure>
+
+
 ## Reactivity 3.3 -- Electron sharing reactions
 
 Radical chemistry -- this sub-topic covers homolytic fission, in which a covalent bond breaks so
@@ -104,6 +121,22 @@ extends to Lewis acid-base theory (a Lewis acid is an electron-pair acceptor, a 
 electron-pair donor), applied to inorganic and organic chemistry and including the formation of
 transition-element complexes, which are also electron-pair-sharing processes. Identifying
 coordination bonds is standard level content (Structure 2.2.3); transition-element complexes are HL.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--07-arrow-types.webp" width="900" height="1110" alt="Top: two half-headed arrows each move one electron when Cl-Cl splits into two chlorine radicals. Bottom: a hydroxide lone pair attacks the delta-plus carbon of CH3Br with a full curly arrow, and a second full arrow moves the C-Br bond pair onto bromine, giving HOCH3 and Br minus." loading="lazy">
+  <figcaption>A half-headed arrow moves one electron; a full curly arrow moves an electron pair from a bond or lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--08-lewis-acid-base.webp" width="900" height="930" alt="Ammonia, the Lewis base, donates its nitrogen lone pair to boron in BF3, the Lewis acid, using a curly arrow. A coordinate bond forms and nitrogen and boron each have four bonds in H3N-BF3." loading="lazy">
+  <figcaption>A Lewis base donates an electron pair and a Lewis acid accepts it, forming a coordinate bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--09-complex-ion.webp" width="900" height="910" alt="A Cu2 plus ion at the centre with six water ligands. Arrows from each water point to the ion, showing donated lone pairs. Water is the Lewis base, copper the Lewis acid, and the coordination number is 6." loading="lazy">
+  <figcaption>In a complex ion, ligands (Lewis bases) donate pairs to the metal ion (Lewis acid).</figcaption>
+</figure>
+
 
 ## Why this component draws on Structure so heavily
 

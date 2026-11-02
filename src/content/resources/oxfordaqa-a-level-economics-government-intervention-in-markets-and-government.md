@@ -49,6 +49,12 @@ Governments have several objectives, such as efficiency, a fairer distribution o
 
 For any policy, name the consumers, producers and third parties affected, and say who gains and loses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+
 ## 2. Indirect taxes
 
 An indirect tax adds to firms' costs. A specific tax is a fixed amount per unit. On a supply and demand diagram the supply curve moves up by a vertical distance equal to the tax.
@@ -69,6 +75,22 @@ Suppose each unit imposes an external cost of 3 on third parties. At Q = 60 the 
 
 **Evaluation points.** The tax works only if it matches the true external cost, which is hard to measure. If demand is inelastic, output barely falls, so the tax raises revenue but corrects little. It can also be regressive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--09-un226-gi-tax-6-8.webp" width="900" height="1080" alt="Price and quantity diagram with demand Qd = 120 minus 10P and supply Qs = 20P minus 60, quantity in thousands. Before tax, equilibrium is price 6 and quantity 60. A tax of 3 shifts supply up by 3, giving price 8 and quantity 40. Consumers pay 2 more per unit and producers keep 5, which is 1 less than 6. A shaded rectangle from 6 to 8 across 40 units shows the consumers share, worth 80, and one from 5 to 6 shows the producers share, worth 40. Tax revenue is 3 times 40, which is 120." loading="lazy">
+  <figcaption>A tax of 3 raises the price from 6 to 8 and cuts quantity from 60 to 40; consumers bear 2 of the 3, producers keep 5, and revenue is 120.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ## 3. Subsidies
 
 A subsidy lowers firms' costs and shifts supply downward by the amount of the subsidy.
@@ -84,6 +106,12 @@ Cost to government = 2.5 × 55 = 137.5
 ```
 
 Buyers gain more because demand is less elastic than supply here (consumers' share is 1.5/2.5 = 60%). If each unit gives a 2.5 external benefit, output of 55 is the socially best level and the subsidy corrects underproduction. Taxpayers fund the 137.5, and its opportunity cost is what the money could have done elsewhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--10-un226-gi-subsidy-137.webp" width="900" height="1030" alt="Price and quantity diagram for home insulation with demand Qd = 100 minus 10P and supply Qs = 15P minus 50. Before the subsidy, equilibrium is price 6 and quantity 40. A subsidy of 2.5 per unit shifts supply down by 2.5, giving price 4.5 and quantity 55. Consumers pay 1.5 less, a rectangle from 4.5 to 6 across 55 units. Producers receive 7, which is 1 more than 6, a rectangle from 6 to 7. The government pays 2.5 times 55, which is 137.5. Consumers gain 60 percent of the subsidy." loading="lazy">
+  <figcaption>A subsidy of 2.5 lowers the price from 6 to 4.5 and raises quantity from 40 to 55; producers receive 7 and the government pays 137.5.</figcaption>
+</figure>
+
 
 ## 4. Price controls
 
@@ -113,6 +141,12 @@ A buffer stock scheme tries to stabilise the price of a product with unpredictab
 
 In year 4 the stock runs out, so the price exceeds the ceiling. Storage costs money, goods may deteriorate, and the authority must judge the long-run price. If the band is set too high, stocks keep growing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--09-gi-buffer-stock-years.webp" width="900" height="950" alt="A price chart for years 1 to 4 with a band from 9 to 11. Without a scheme the price is 7, 10, 12 and 13. With the scheme it is 9, 10, 11 and 12. A lower chart shows the authority stock after each year: 20, 20, 10 and 0 thousand tonnes. In year 1 it buys 20 at price 9, in year 3 it sells 10, and in year 4 it has only 10 left so the price rises to 12, above the ceiling." loading="lazy">
+  <figcaption>The authority holds the price inside 9 to 11 in years 1 to 3, but in year 4 its stock is empty and the price breaks the ceiling at 12.</figcaption>
+</figure>
+
+
 ## 6. Pollution permits and property rights
 
 **Tradable permits.** The government sets a cap on total pollution and issues permits. Firms can trade them. Three firms each emit 30 tonnes; the cap is 60, so 30 tonnes must be cut. Abatement costs per tonne are 8 (firm X), 14 (firm Y) and 30 (firm Z). X and Y can each cut at most 20 tonnes. Each firm gets 20 permits.
@@ -125,6 +159,17 @@ Trading: X cuts 20 (160), Y cuts 10 (140), Z cuts none = 300
 Z buys 10 permits. The price settles at 14, the cost of the marginal firm, and total cost falls by 220 (42.3%). Permits give certainty about the quantity of pollution, but the price is uncertain.
 
 **Extension of property rights.** Many externalities arise because nobody owns a resource, such as an open fishing ground. Giving owners or users enforceable rights gives them a reason to protect the resource, and others have to pay to use it. It works poorly where rights cannot be defined or enforced, such as the air.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--06-gi-permits.webp" width="900" height="1080" alt="Three firms X, Y and Z each emit 30 tonnes and must cut 30 tonnes in total. Abatement costs per tonne are 8, 14 and 30. With equal cuts of 10 tonnes each the cost is 80, 140 and 300, total 520. With trading, X cuts 20 tonnes (cost 160) and sells 10 permits to Z, Y cuts 10 (140) and Z cuts none, total 300. Total cost falls by 220, which is 42.3%." loading="lazy">
+  <figcaption>With a cap of 60 tonnes, letting firms trade permits makes the cheapest cutter (X) do the most cutting, so the 30-tonne cut costs 300, not 520.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--11-un226-gi-property-rights.webp" width="900" height="930" alt="Two pictures of a fishing ground. Top: an open-access fishing ground that nobody owns, with five boats all heading in to take as much fish as they can and nobody paying to protect the stock. Bottom: the same ground fenced and owned, with one boat that pays to fish; the owner or user has a reason to protect the stock. A note says rights work poorly where they cannot be defined or enforced, such as the air. The drawing is a schematic with no numbers." loading="lazy">
+  <figcaption>Nobody owns an open fishing ground, so nobody has a reason to protect it; enforceable rights give owners that reason and make others pay to use it.</figcaption>
+</figure>
+
 
 ## 7. State provision and regulation
 
@@ -145,9 +190,21 @@ Before tax H earns 3 times L; after tax, 2.51 times. If L also receives a benefi
 
 The trade-off is incentives: high marginal rates may reduce work effort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--08-gi-progressive-tax.webp" width="900" height="960" alt="Two bars for households in Country C. Household L earns 40,000 and pays 4,200 tax (10.5%), keeping 35,800. Household H earns 120,000 and pays 30,200 tax (25.2%), keeping 89,800. The ratio of H to L is 3.00 before tax, 2.51 after tax, and 2.34 after L also receives a benefit of 2,500. Tax bands are 0% to 12,000, 15% from 12,000 to 50,000 and 35% above 50,000." loading="lazy">
+  <figcaption>Country C takes 10.5% of L's income and 25.2% of H's, so H earns 3.00 times L before tax and 2.51 times after; a benefit of 2,500 narrows it to 2.34.</figcaption>
+</figure>
+
+
 ## 9. Judging a policy
 
 To assess relative merits, compare options on the same criteria: effectiveness (how large is the response, given the elasticities?), cost to government, firms and taxpayers, fairness (who pays and who gains?), the information needed, side effects and speed. Then say which method suits this case, and why. A tax suits a pollutant where firms' abatement costs differ widely; a ban suits a hazard with severe, irreversible harm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--13-un226-gi-choose-method.webp" width="900" height="970" alt="Top: the six criteria for judging a policy are effectiveness, cost, fairness, information needed, side effects and speed. Middle: a three-row comparison. Regulation: the result is certain if obeyed and it needs monitoring, but it can cost firms more. Tax: cost to firms is lower, but the cut in pollution is not certain because with inelastic demand output barely falls. Tradable permits: the amount of pollution is certain because it is capped, cost is lower, but the permit price is uncertain. Bottom: a ban suits a hazard with severe, irreversible harm; a tax suits a pollutant where firms abatement costs differ widely." loading="lazy">
+  <figcaption>Compare methods on the same criteria; a ban suits severe, irreversible harm, while a tax or permits suit a pollutant whose abatement costs differ widely.</figcaption>
+</figure>
+
 
 ## 10. Government failure
 
@@ -160,6 +217,17 @@ Government failure is intervention that leaves resources worse allocated and eco
 - **Unintended consequences.** A price ceiling can produce black markets; a floor can create surpluses and waste; a ban can push trade underground.
 
 To evaluate, compare the size of the market failure with the size of the likely government failure. Intervention is justified when the first is larger and the second can be limited, for example by reviewing schemes and allocating permits transparently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--07-gi-government-failure.webp" width="900" height="980" alt="Insulation market with demand D, supply S and marginal social benefit MSB lying 1.0 above demand. Supply with a 2.5 subsidy moves down, crossing demand at price 4.5 and quantity 55. The socially best quantity is 46, where MSB meets S at 6.4. Between 46 and 55 each unit costs more to produce than its social value; the triangle has area half times 9 times 1.5, which is 6.75." loading="lazy">
+  <figcaption>If the true external benefit is 1.0 but the subsidy is 2.5, output reaches 55 instead of 46 and the over-provision costs 6.75 of welfare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--12-un226-gi-failure-sources.webp" width="900" height="1075" alt="Four rows. First, conflicting objectives: cutting a fuel tax protects living standards but undermines the emissions target. Second, administrative costs: a permit scheme with an environmental benefit of 90 costs 12 to run, so the net gain is 78. Third, corruption: a permit or contract goes to the best-connected firm instead of the best use. Fourth, unintended consequences: a price ceiling can produce a black market, a floor a surplus, and a ban can push trade underground." loading="lazy">
+  <figcaption>Conflicting objectives, administrative costs, corruption and unintended consequences can each leave resources worse allocated.</figcaption>
+</figure>
+
 
 ## Common errors
 

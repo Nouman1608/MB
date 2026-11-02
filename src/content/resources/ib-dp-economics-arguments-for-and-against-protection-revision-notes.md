@@ -39,6 +39,27 @@ For full explanations, start with the [study guide](/resources/ib-dp-economics-a
 | Protection of jobs | Keep domestic workers employed | High cost per job; jobs lost elsewhere |
 | ELDC diversification | Build a broader base than a few primary exports | Small markets; weak institutions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--01-infant-industry.webp" width="900" height="890" alt="Average cost per solar panel falls with output, from 80 at 10 000 panels to 50 at 40 000, against a flat world price of 60. The shaded block is the loss of 20 a panel at 10 000 panels. A tariff of 20 (33.3% of the world price) closes the gap, and can be removed once cost is below 60." loading="lazy">
+  <figcaption>Costs fall with scale, so a temporary tariff can carry a young firm until it beats the world price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--02-tariff-revenue.webp" width="900" height="870" alt="Tariff revenue plotted against tariff rate for the lesson function M = 1 000 - 20t. Revenue is 8 000 at 10%, 12 500 at the 25% peak and 8 000 at 40%. Beyond the peak a higher tariff shrinks imports so much that revenue falls." loading="lazy">
+  <figcaption>Revenue rises, peaks at a 25% tariff and then falls as the tax base shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--04-tariff-deficit-retaliation.webp" width="900" height="920" alt="Bars of exports and imports for Tarvia. A 15% cut in imports turns a deficit of 100 into a surplus of 20, but if partners cut exports by 5% the balance is a deficit of 15." loading="lazy">
+  <figcaption>A tariff can narrow a deficit, but retaliation can undo the gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--10-cost-per-job-saved.webp" width="900" height="1170" alt="A 20 percent tariff lifts shoe prices from 50 to 60, costing buyers 3,000,000 a year on 300,000 pairs. Spread over 150 jobs saved that is 20,000 per job, against a wage of 14,000." loading="lazy">
+  <figcaption>Cost per job saved can exceed the wage.</figcaption>
+</figure>
+
+
 ## Arguments against protection: one line each
 
 | Argument | Core idea |
@@ -50,6 +71,12 @@ For full explanations, start with the [study guide](/resources/ib-dp-economics-a
 | Less choice | Fewer varieties and qualities available |
 | Lack of incentive to become efficient | Sheltered firms face less pressure to cut costs |
 | Reduced export competitiveness | Higher input costs and closed foreign markets hurt exporters |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--03-retaliation-payoff.webp" width="900" height="840" alt="Two by two payoff table for Aland and Bland. Free trade for both gives (6, 6); protecting alone gives 8 but leaves the other with 3; both protecting gives (4, 4). Both countries end worse off than under free trade." loading="lazy">
+  <figcaption>If both countries protect, each gets 4, less than the 6 each from free trade.</figcaption>
+</figure>
+
 
 ## Key definitions
 
@@ -98,6 +125,12 @@ For full explanations, start with the [study guide](/resources/ib-dp-economics-a
 **Balance of payments.** Exports 700, imports 800: deficit 100. Imports fall 15% to 680, giving a surplus of 20. If exports then fall 5% to 665, the balance is a deficit of 15.
 
 **Revenue.** With import volume M = 1 000 − 20t, revenue at 10%, 20%, 25%, 30% and 40% is 8 000, 12 000, 12 500, 12 000 and 8 000. It peaks near 25%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--09-anti-dumping-test.webp" width="900" height="880" alt="Bars show a Brenmar exporter’s cost 52, home price 70, export price 45 and the price 55 after a duty of 10. The export price is 7 below cost and 25 below home price, so it is dumping; a Tarvian producer with cost 58 is still 3 above the dutied price." loading="lazy">
+  <figcaption>Applying the two dumping tests and the effect of a duty of 10.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

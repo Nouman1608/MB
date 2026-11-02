@@ -59,6 +59,17 @@ Worked reminder (unit cost). Sundrake Joinery has fixed costs of £18,000 a mont
 
 **Just in time (JIT)** is a lean technique: materials arrive just before they are needed and finished goods go out quickly, so little stock is held. It links to section 3.3.2 below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
+
 ## 3.3.2 The role of procurement
 
 **Procurement** is obtaining the goods and services a business needs from suppliers. **Logistics** is moving and storing those goods (transport, warehousing, delivery). Both affect efficiency and lower unit costs, but cutting cost must be balanced against the quality of service.
@@ -75,6 +86,17 @@ Worked reminder (unit cost). Sundrake Joinery has fixed costs of £18,000 a mont
 Worked reminder. Trewin Bakery buys £6,000 of flour a month. JIC: one monthly order with a 5% discount costs £5,700, plus £250 to store it = £5,950. JIT: four weekly orders of £1,500 each at full price, plus £40 per delivery = £6,000 + £160 = £6,160. JIC is £210 cheaper here, though the answer changes if storage costs rise or demand becomes hard to predict. You are not asked to draw or interpret stock control charts.
 
 To evaluate JIT for a given business, ask: is demand predictable, are suppliers reliable and close, does the product go off quickly? JIT suits a business with all three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ### Choosing a supplier
 
@@ -115,6 +137,17 @@ Consequences of quality issues: returns and refunds, lost sales, damaged reputat
 
 As a business grows by **outsourcing** (paying another business to carry out an activity) or **franchising** (a franchisee runs outlets under the brand), it has less direct control, so quality can become inconsistent. Standards, training and checks must be agreed with the other party.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--04-tqm-trade-off.webp" width="900" height="730" alt="A balance scale: costs (staff training, inspection) on the left, benefits (fewer defects, less waste, fewer recalls) on the right. For a growing firm that outsources or franchises, the scale tips to benefits because oversight is lower." loading="lazy">
+  <figcaption>TQM adds training and inspection costs but is easier to justify for a growing business that outsources or franchises.</figcaption>
+</figure>
+
+
 ## 3.3.4 Good customer services
 
 Understand the sales process: the customer finds out about the product, is helped to choose, buys, and is supported afterwards.
@@ -132,6 +165,12 @@ Dangers of poor service: dissatisfied customers, a poor reputation through word 
 Worked reminder. A café has 2,000 customers a month spending £9 each. Poor service loses 5%: 2,000 × 0.05 = 100 customers, so 100 × £9 = £900 lost a month, or £10,800 a year.
 
 ICT has changed service: websites give information and support at any hour; e-commerce lets customers order online; social media allows quick two-way contact and public replies to complaints, which also means poor service becomes visible quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

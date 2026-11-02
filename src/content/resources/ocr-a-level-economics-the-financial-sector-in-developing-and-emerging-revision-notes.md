@@ -50,6 +50,12 @@ These notes condense the topic The financial sector in developing and emerging e
 
 **Chain.** More safe saving, then more lending, then more investment, then a bigger capital stock, then higher potential output, then incomes and jobs. Development also needs fair access and gains in health and education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--06-fin-saving-to-output-chain.webp" width="900" height="940" alt="A vertical chain of five boxes joined by downward arrows: savings, the financial sector (banks, markets, insurers, payments), investment, capital stock, and potential output, followed by jobs and incomes. To the left a person is shown blocked from the financial sector by a barrier: financially excluded because of no branch, no identity papers or no collateral. A note says to also ask who gets the credit." loading="lazy">
+  <figcaption>Finance links saving to investment and potential output, but excluded people cannot use it.</figcaption>
+</figure>
+
+
 ## 2. Harrod-Domar
 
 | Formula | Rearranged |
@@ -67,6 +73,12 @@ These notes condense the topic The financial sector in developing and emerging e
 
 **Strengths and weaknesses.** It is simple and shows the role of saving. But it assumes all saving is invested, ignores skills, institutions and infrastructure, and treats k as fixed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--01-hd-savings-gap.webp" width="900" height="980" alt="Bars compare the investment needed for 6% growth (36) with domestic saving (24), leaving a savings gap of 12, or 6% of national income. Raising s to 18% or cutting k to 2.4 are the two routes to faster growth." loading="lazy">
+  <figcaption>Growth is s divided by k, so reaching 6% growth with 12% saving and k = 3 leaves a savings gap of 12 units.</figcaption>
+</figure>
+
+
 ## 3. Microfinance
 
 - **Features:** small loans, group guarantees instead of collateral, frequent repayments, often aimed at women.
@@ -76,6 +88,12 @@ These notes condense the topic The financial sector in developing and emerging e
 **Method for judging a loan.** Compare the return on the project with the cost of the loan. Reminder: a rate of 2% a month is 24% a year if simple, and 26.8% a year if compounded (1.02 to the power 12 is 1.268). Always state whether a rate is monthly or annual.
 
 **Judgement line.** Useful where there is real demand for small-scale capital and fair terms, but not a main route to economy-wide development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--02-microfinance-vs-moneylender.webp" width="900" height="880" alt="A 300 loan buys an oven earning 240 a year. At 24% a year the interest is 72 and the net gain 168; at 10% a month the interest is 360 and the net result is a loss of 120." loading="lazy">
+  <figcaption>A loan helps only when the return on the project exceeds the interest rate.</figcaption>
+</figure>
+
 
 ## 4. Capital flows and international financial markets
 
@@ -95,6 +113,22 @@ These notes condense the topic The financial sector in developing and emerging e
 
 **Judgement line.** Global markets strongly influence the size and timing of flows, but domestic institutions, policy credibility and reserves decide who benefits and who is hurt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--03-capital-flows-swing.webp" width="900" height="1040" alt="Stacked bars show FDI, portfolio and bank flows in two years. Year 1 is a net inflow of 45 (9.0% of income); year 2 is a net outflow of 41 (-8.2%), a swing of 86 caused by portfolio and bank flows." loading="lazy">
+  <figcaption>FDI barely moves, while portfolio and bank flows cause the whole reversal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--07-fin-push-pull-sudden-stop.webp" width="900" height="850" alt="Two panels. Inflows: an arrow from rich economies (push factors such as low interest rates and weak returns, and willingness to take risk) to an emerging economy (pull factors such as high expected returns, rapid growth, political stability and open markets). Sudden stop: when interest rates abroad rise or investors fear a crisis, the arrow reverses and flows leave fast. Portfolio and bank flows move first; foreign direct investment is long term and hard to withdraw." loading="lazy">
+  <figcaption>Push factors abroad and pull factors at home draw capital in, and a sudden stop reverses it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--08-fin-foreign-currency-debt.webp" width="900" height="880" alt="Two bars. Firms owe 40 units of foreign currency. When the exchange rate is 2 local units per unit of foreign currency the debt costs 80 local units. After the currency falls to 3 local units per foreign unit it costs 120 local units, a rise of 50 percent, although the debt in foreign currency has not changed." loading="lazy">
+  <figcaption>A currency fall from 2 to 3 raises the local cost of a 40-unit foreign debt from 80 to 120.</figcaption>
+</figure>
+
+
 ## 5. Public and private sector debt
 
 | Measure | Formula |
@@ -112,6 +146,17 @@ These notes condense the topic The financial sector in developing and emerging e
 - **Currency of borrowing:** foreign-currency debt is exposed to depreciation.
 - **Judgement line:** debt is a problem when its cost is above the growth it creates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--04-debt-ratio-rising.webp" width="900" height="920" alt="Debt of 60 against income of 100 becomes 63.6 against 103 after a year at 6% interest and 3% growth, so the debt ratio rises from 60.0% to 61.7%." loading="lazy">
+  <figcaption>The debt ratio rises when the interest rate exceeds the growth rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--09-fin-debt-burden-measures.webp" width="900" height="870" alt="Three bars for invented Country Gamma. Debt service ratio: repayments of 18 are 15 percent of export earnings of 120. Interest: 6 percent on public debt of 60 is 3.6, which is 18 percent of government revenue of 20. Primary surplus: holding debt at 60 percent of income when the interest rate exceeds growth needs a primary surplus of about 1.8 percent of current income, about 1.8 units out of 100. Each bar shows a share of its own base." loading="lazy">
+  <figcaption>Debt service is 15% of exports and interest takes 18% of revenue, and holding the ratio needs a surplus of about 1.8.</figcaption>
+</figure>
+
+
 ## 6. Remittances
 
 - **Definition:** transfers from migrants abroad to households at home.
@@ -121,6 +166,17 @@ These notes condense the topic The financial sector in developing and emerging e
 **Reminder.** An 8% fee on a transfer of 150 costs 12, so 138 arrives.
 
 **Judgement line.** Most important where remittances are a large share of national income and reach poor households.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--05-remittances-size-cost.webp" width="900" height="870" alt="Remittances of 36 are 9% of national income of 400 and 30% of exports of 120. On a transfer of 200 a 7% fee leaves 186 and a 3% fee leaves 194." loading="lazy">
+  <figcaption>Remittances can be large against income and exports, and fees reduce what arrives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging--10-fin-remittance-multiplier.webp" width="900" height="890" alt="Bars for successive rounds of spending. Remittances of 36 units enter as round 1. With a marginal propensity to withdraw of 0.6, 40 percent of each round is re-spent at home, so later rounds are 14.4, 5.76, 2.3 and 0.9, with a further small amount after that. The multiplier is 1 divided by 0.6, which is 1.67, so remittances of 36 raise output by about 60." loading="lazy">
+  <figcaption>With MPW 0.6 the multiplier is 1.67, so 36 of remittances could raise output by about 60.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 

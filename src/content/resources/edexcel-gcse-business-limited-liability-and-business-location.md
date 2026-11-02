@@ -62,6 +62,12 @@ Now suppose the same business had been a private limited company in which Imran 
 
 **Implications for the owner.** Unlimited liability means a business failure can become a personal financial crisis. It can make an owner cautious about borrowing and about expansion. Limited liability makes it easier to take a risk, and can make it easier to persuade other people to invest. Lenders may still ask a small company owner for a personal guarantee, which means the protection is not always complete in practice. This is a general possibility, not a rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--01-elmstead-shortfall.webp" width="900" height="880" alt="Elmstead Ceramics fails owing £48,000 and its assets raise £31,000, a £17,000 shortfall. As a sole trader Imran must find the £17,000 himself. As a private limited company where he paid £12,000 for shares, he loses at most £12,000 and the creditors lose the £17,000." loading="lazy">
+  <figcaption>Limited liability caps the owner’s loss and moves the shortfall onto creditors.</figcaption>
+</figure>
+
+
 ## 2. Types of business ownership for start-ups
 
 ### Sole trader
@@ -104,6 +110,12 @@ Keep legal detail general. The specification asks for advantages and disadvantag
 | Control | Complete | Shared | Shared with shareholders |
 | Set-up | Simplest | Simple | More formal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--02-calder-moss-split.webp" width="900" height="643" alt="Aisha puts in £40,000 and Rory £20,000, a 2 to 1 ratio. Profit of £54,000 is three parts of £18,000: Aisha takes two parts (£36,000) and Rory one (£18,000)." loading="lazy">
+  <figcaption>Partners who share profit in the ratio of capital split £54,000 as £36,000 and £18,000.</figcaption>
+</figure>
+
+
 ## 3. Franchising
 
 A franchise is an arrangement where a **franchisor** (the owner of a brand and business method) lets a **franchisee** run an outlet under that name. In general, a franchisee pays an initial fee and then a royalty, often a percentage of sales revenue (a common structure, not specification text).
@@ -122,6 +134,17 @@ In year one, after also paying the fee: 21,400 - 30,000 = -£8,600.
 
 The first year does not cover the fee. Whether the franchise is a good idea depends on how long the agreement runs and whether the brand keeps trade up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--03-fresh-press-year-one.webp" width="900" height="770" alt="A waterfall chart: £34,000 profit before royalty, less a 7% royalty on £180,000 sales (£12,600), leaves £21,400. The £30,000 initial fee takes year one to minus £8,600." loading="lazy">
+  <figcaption>A franchisee’s first year may not cover the initial fee.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ## 4. Proximity to market, labour, materials and competitors
 
 Location means where the business operates. Each factor pulls in a different direction, and the best site is a trade-off.
@@ -130,6 +153,17 @@ Location means where the business operates. Each factor pulls in a different dir
 - **Proximity to labour.** Being near enough people with the skills you need makes recruitment easier and may keep wages competitive. A shortage of skilled labour can push wages up.
 - **Proximity to materials.** Heavy, bulky or perishable inputs cost more to carry and may spoil. Being close lowers transport cost and waste.
 - **Proximity to competitors.** Being close can bring customers who are comparing choices, but it also means sharing them. Being far away can give a local monopoly but fewer passing customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
 
 ## 5. Nature of the business activity
 
@@ -150,6 +184,12 @@ Site A sales are 140,000 - 118,000 = £22,000 higher, which is 22,000 / 118,000 
 
 Site A costs a little more but brings far more sales revenue. A shop depending on walk-in trade would probably choose it, provided the sales forecast is reliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--04-oakfield-sites.webp" width="900" height="925" alt="Site A has location costs of £30,000 and sales of £140,000; Site B has costs of £25,400 and sales of £118,000. A costs £4,600 more but sells £22,000 (18.6%) more." loading="lazy">
+  <figcaption>A dearer town-centre site can pay for itself through higher sales.</figcaption>
+</figure>
+
+
 ## 6. The internet and location
 
 E-commerce means selling over the internet. It changes the location decision in several ways.
@@ -158,6 +198,12 @@ E-commerce means selling over the internet. It changes the location decision in 
 - It can choose cheaper premises, since customers do not visit. A warehouse in a low-rent area may be enough.
 - Fixed premises still matter. Goods must be stored and sent, some customers want to see and try items, and services such as repairs or hairdressing cannot be delivered online.
 - Many businesses combine both, using a website alongside a shop or a depot. Delivery costs and returns become new location factors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## Common errors
 

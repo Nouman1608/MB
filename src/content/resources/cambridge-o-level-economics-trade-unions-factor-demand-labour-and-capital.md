@@ -67,6 +67,12 @@ The syllabus asks for three viewpoints. Learn them as three separate lists.
 | Firms | One body to negotiate with; clear communication; staff who feel heard may stay longer and work harder | Higher costs; strikes disrupt output; less freedom to cut staff or change working practices |
 | Government | Stable, orderly bargaining; a way to consult workers on policy | Strikes reduce output and tax revenue; pay rises can push up prices; job losses raise spending on benefits |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--01-un172-unions-pros-cons.webp" width="900" height="910" alt="Three panels for workers, firms and government, each split into advantages (plus signs) and disadvantages (minus signs). Workers gain pay, security and a voice but pay fees and risk lost pay and jobs; firms gain one negotiating body but face higher costs and strikes; government gains orderly bargaining but loses output and tax and may see higher prices and benefit spending." loading="lazy">
+  <figcaption>The same union can help and hurt workers, firms and the government in different ways.</figcaption>
+</figure>
+
+
 ### Factors influencing union strength
 
 - **Membership:** the more of the workforce who join, the harder the union is to ignore.
@@ -88,6 +94,17 @@ Illustrative firm in Country A: 50 workers earn 400 a week and produce 2,000 uni
 
 **Evaluation chain.** The firm can raise prices (if demand allows), accept lower profit, seek higher productivity, or cut jobs. If it cut 3 workers, the bill would be 47 × 424 = 19,928, but three people lose their jobs. Which route it takes depends on how sensitive customers are to price, how large labour is in total costs, and how strong the union is. The union must weigh a higher wage against possible job losses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--04-eco52-unions.webp" width="900" height="930" alt="A lone worker has little power while a group can bargain for all. Three boxes show the union roles: bargain over pay, hours and conditions; protect jobs; lobby government. Five chips list what makes a union stronger." loading="lazy">
+  <figcaption>A union gains power by acting together, and some conditions make it stronger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--02-un172-pay-claim.webp" width="900" height="900" alt="Three pairs of bars compare now with after a 6 percent pay rise. The weekly wage bill goes from 20,000 to 21,200, labour cost per unit from 10.00 to 10.60, and to keep the cost at 10.00 output would need to rise from 2,000 to 2,120 units, which is 42.4 per worker instead of 40." loading="lazy">
+  <figcaption>A 6% pay rise adds 1,200 a week and raises unit cost to 10.60 unless output also rises 6%.</figcaption>
+</figure>
+
+
 ## 3.6 Firms and production
 
 ### What drives factor demand (3.6.1)
@@ -104,6 +121,12 @@ Firms demand land, labour, capital and enterprise to make goods, so factor deman
 1. New output: 400 × 1.3 = 520.
 2. Workers needed at 40 each: 520 ÷ 40 = 13.
 3. If training lifts output to 52 per worker: 520 ÷ 52 = 10. Higher productivity removes the need to hire.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--03-un172-chairs-derived.webp" width="900" height="890" alt="Three rows of worker figures. Ten workers make 400 chairs a week. When demand for chairs rises 30 percent to 520, thirteen workers are needed at 40 chairs each, so three more are hired. If training lifts output to 52 chairs per worker, ten workers are enough." loading="lazy">
+  <figcaption>Demand for workers rises and falls with demand for the product, and higher productivity can remove the need to hire.</figcaption>
+</figure>
+
 
 ### Labour-intensive and capital-intensive production (3.6.2)
 
@@ -123,6 +146,12 @@ Labour-intensive production uses a lot of labour relative to capital; labour is 
 
 Method C is cheaper. If the wage fell to 150, L costs 2,200 (4.40 a unit) and C costs 2,650 (5.30 a unit), so L wins. The switch point is where 12w + 400 = 3w + 2,200, so w = 200. Cheaper labour favours labour-intensive methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--05-eco52-labour-capital.webp" width="900" height="890" alt="Line graph of weekly cost against weekly wage for 500 units. Labour-intensive cost is 12w+400, capital-intensive is 3w+2,200. They cross at wage 200 (cost 2,800); labour is cheaper below, capital above." loading="lazy">
+  <figcaption>Lower wages favour labour-intensive methods; higher wages favour capital-intensive ones.</figcaption>
+</figure>
+
+
 ### Production and productivity (3.6.3)
 
 - **Production** is total output.
@@ -138,6 +167,22 @@ Production grew only because more labour was used.
 **Influences on production:** the quantity and quality of factors, technology, demand, working hours, natural events such as weather.
 
 **Influences on productivity:** training and education, better machinery per worker, motivation (pay, conditions), good management and organisation, workers' health, division of labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## 3.8 Market structure
 
@@ -165,6 +210,12 @@ A **monopoly** is a market in which one firm supplies all or most of the output.
 **Worked example 5.** An island market takes 120,000 units a month. One firm supplies 108,000 of them: 108,000 ÷ 120,000 = 90% share. If one firm supplied all 120,000 at an average cost of 5, it would spend 600,000. Four firms of 30,000 each at an average cost of 8 spend 4 × 30,000 × 8 = 960,000. Scale saves 360,000.
 
 But the gain only reaches consumers if it is passed on. If the sole supplier charges 9, profit is 120,000 × (9 − 5) = 480,000. At 6.50 it falls to 180,000. Four competing firms charging 8.50 would earn 120,000 × (8.50 − 8) = 60,000 in total. Lower cost does not guarantee a lower price, which is why governments sometimes regulate monopolies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Common errors
 

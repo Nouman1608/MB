@@ -123,6 +123,12 @@ two meet at the electrodes.
 - **Metals or hydrogen** form at the cathode.
 - **Non-metals (other than hydrogen)** form at the anode.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--02-free-ions.webp" width="900" height="910" alt="Four panels compare solid ionic, molten ionic, ionic in water and covalent substances. Only the molten and dissolved ionic ones have free ions, so only they conduct and can be electrolysed." loading="lazy">
+  <figcaption>Electrolysis needs free-moving ions: molten or dissolved ionic compounds, never solids or covalent substances.</figcaption>
+</figure>
+
+
 ## Electrolysis of molten compounds
 
 In a **molten** binary ionic compound, there's only one possible source for
@@ -138,6 +144,12 @@ molten PbBr2 contains Pb²⁺ ions and Br⁻ ions
 at the cathode (reduction): Pb²⁺ + 2e⁻ → Pb        (lead metal forms)
 at the anode (oxidation):   2Br⁻ → Br2 + 2e⁻        (bromine forms)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
+</figure>
+
 
 ## Electrolysis of aqueous solutions
 
@@ -198,6 +210,22 @@ Because hydrogen and oxygen leave while the sulfate ions remain, water is
 effectively being removed, so the acid slowly becomes more concentrated as
 electrolysis proceeds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
+
 ## Electroplating
 
 Electroplating coats an object in a thin layer of metal, usually to improve
@@ -206,6 +234,12 @@ cutlery. The object to be plated is made the cathode, the plating metal is
 made the anode, and the electrolyte is a solution of the plating metal's ions
 — metal ions from the anode dissolve into solution and are deposited onto the
 cathode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--06-electroplating.webp" width="900" height="930" alt="A spoon hangs from the negative terminal as the cathode and a silver bar is the anode in silver ion solution. Silver ions move to the spoon and a thin silver layer builds up while the anode dissolves." loading="lazy">
+  <figcaption>The object to plate is the cathode, the plating metal is the anode, and the electrolyte contains the plating metal ions.</figcaption>
+</figure>
+
 
 ## Hydrogen–oxygen fuel cells
 
@@ -219,6 +253,17 @@ product** — no carbon dioxide, unlike burning a fossil fuel.
 | Efficiency | Generally higher | Loses more energy as heat |
 | Fuel storage | Hydrogen is difficult and costly to store and transport | Petrol is easy to store and transport |
 | Infrastructure | Hydrogen refuelling is not widely available | Petrol stations are everywhere |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--08-fuel-cell-vs-petrol.webp" width="900" height="1180" alt="Four rows compare a fuel cell with a petrol engine. The fuel cell gives water only and is generally more efficient, but hydrogen is hard to store and few stations supply it. Petrol gives CO2, CO and NOx but is easy to store with stations everywhere." loading="lazy">
+  <figcaption>Fuel cells are cleaner and more efficient, but hydrogen is harder to store and refuel than petrol.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

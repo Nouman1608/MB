@@ -61,6 +61,32 @@ Every figure below is invented for illustration.
 - Prices up from index 100 to 125: money buys 100 ÷ 125 = 80 per cent as much, a 20 per cent fall in purchasing power (not 25).
 - A loan of 800 repaid after a year at 5 per cent: 800 × 1.05 = 840. Debt contracts use money as the standard of deferred payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--01-barter-rates-vs-prices.webp" width="900" height="910" alt="With 5 goods, barter needs 10 exchange rates, one for every pair of goods; pricing the same goods in money needs only 5 prices. With 50 goods barter needs 50 x 49 / 2 = 1,225 rates but money needs only 50 prices." loading="lazy">
+  <figcaption>With 50 goods barter needs 1,225 exchange rates, but pricing each good in money needs only 50 prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--02-money-loses-purchasing-power.webp" width="900" height="720" alt="Country A has a price index that rises from 100 to 125, a 25 percent rise in prices. One unit of money now buys 100 divided by 125, which is 0.8 or 80 percent of what it bought before, a loss of 20 percent of its purchasing power." loading="lazy">
+  <figcaption>When prices rise 25 percent a unit of money buys only 80 percent of what it did.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 3.1.2 Banking
 
 | | Central bank | Commercial bank |
@@ -110,6 +136,22 @@ Every figure below is invented for illustration.
 
 **Evaluation reminders.** A rate cut raises spending only if households borrow; weak confidence, heavy debts or tight lending weaken the effect. Higher income raises spending only if it is expected to last. Saving can be a reward for patience and also a cost to firms that need demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--05-saving-ratio.webp" width="900" height="850" alt="Household A with income 3,000 saves 450, a ratio of 15 percent. Household B with income 1,200 saves 24, a ratio of 2 percent. Bars share one scale." loading="lazy">
+  <figcaption>The saving ratio is a share of income, not an amount saved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--05-confidence-spending-saving.webp" width="900" height="800" alt="Planned spending on non-essentials is 1,500 a month. When fear of job losses cuts it by 8 percent it becomes 1,380, so 120 a month is moved into saving as a precaution, even though income has not changed." loading="lazy">
+  <figcaption>Fear of job losses cuts planned non-essential spending by 8 percent, so 120 a month moves to saving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -150,6 +192,12 @@ Every figure below is invented for illustration.
 10. Households fear future income loss, so they delay purchases and keep a precaution fund.
 11. Any two of: different numbers of dependants, existing debts, age, attitude to risk, expected future income.
 12. Low confidence, heavy existing debt, lenders refusing credit, or a worry about future income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--03-simple-vs-compound-interest.webp" width="900" height="890" alt="Total interest earned on 2,000 units at 4 percent: simple interest is 80, 160 and 240 after years 1, 2 and 3. Compound interest is 80, 163.20 and 249.73, so after 3 years it is 9.73 more because interest earns interest." loading="lazy">
+  <figcaption>Compound interest pulls ahead of simple interest because earlier interest earns interest.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

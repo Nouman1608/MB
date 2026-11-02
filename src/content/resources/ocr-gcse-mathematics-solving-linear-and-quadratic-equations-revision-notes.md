@@ -99,6 +99,32 @@ x = 8
 
 Write down the values of x that make a denominator zero. Check that your answer is not one of them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--04-gym-break-even.webp" width="900" height="920" alt="Cost against months for two gyms. Gym A starts at 18 pounds and adds 7 a month, Gym B adds 10.50 a month from zero. The lines cross at 36/7, about 5.14 months. At month 5 B is cheaper (52.50 against 53); at month 6 A is cheaper (60 against 63)." loading="lazy">
+  <figcaption>The equation gives 5.14 months; the answer must be a whole month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--11-choose-quadratic-method.webp" width="900" height="1010" alt="A decision chart: if whole numbers pair up, factorise; else if an exact answer is wanted and the x coefficient is even, complete the square; otherwise use the formula. Each branch has a worked example from the lesson. A given form must be followed." loading="lazy">
+  <figcaption>Pick factorising, completing the square or the formula by looking at the numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--13-negative-coefficient-both-sides.webp" width="900" height="825" alt="The falling line y = 7 - 2x and the rising line y = 3x + 22 cross at (-3, 13), so x = -3. The steps add 2x, subtract 22 and divide by 5. The check gives 13 on both sides." loading="lazy">
+  <figcaption>A negative answer is allowed unless the context rules it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--04-fractional-equation.webp" width="900" height="900" alt="Graphs of x/(x + 2) and 3/(x - 6) with dashed lines at x = -2 and x = 6 meet at two points, the roots of x^2 - 9x - 6 = 0. Neither root is an excluded value." loading="lazy">
+  <figcaption>Excluded values are where a denominator is zero; genuine solutions are where the curves meet.</figcaption>
+</figure>
+
+
 ## Quadratic equations: coefficient of x² is 1 (both tiers)
 
 **Method in steps**
@@ -133,11 +159,23 @@ x = 3   or   x = 5
 
 **Reminder.** A rectangle is x cm by (x + 4) cm with area 45 cm². Then x² + 4x − 45 = 0, so (x + 9)(x − 5) = 0. Reject −9. The sides are 5 cm and 9 cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--03-area-quadratic-rectangle.webp" width="900" height="1002" alt="A rectangle x cm by x + 5 cm with area 84 gives x squared plus 5x minus 84 equals 0, so (x + 12)(x - 7) = 0. The root minus 12 is rejected because a length cannot be negative, leaving x = 7 and a 7 cm by 12 cm rectangle." loading="lazy">
+  <figcaption>Reject a root that the context rules out, and say why.</figcaption>
+</figure>
+
+
 ## Higher tier only: quadratic methods
 
 ### Rearranging
 
 Move everything to one side, expand brackets, collect terms, and aim for ax² + bx + c = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--12-do-not-divide-by-x.webp" width="900" height="835" alt="The curve y = x squared and the line y = 5x meet at x = 0 and x = 5. Moving terms to one side gives x(x - 5) = 0, so x is 0 or 5. Dividing by x would lose x = 0." loading="lazy">
+  <figcaption>Factorise instead of dividing, or you lose a solution.</figcaption>
+</figure>
+
 
 ### Factorising when a is not 1
 
@@ -151,6 +189,17 @@ For ax² + bx + c, look for a pair multiplying to ac and adding to b. Use them t
 (2x + 1)(x − 3) = 0
 x = −1/2   or   x = 3
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--09-split-the-middle-term.webp" width="900" height="870" alt="An area grid with columns 3x and -5 and rows 2x and 3 has cells 6x squared, -10x, +9x and -15. The middle cells come from splitting -x into -10x + 9x. The brackets (2x + 3)(3x - 5) give x = -3/2 or 5/3." loading="lazy">
+  <figcaption>The box method shows why -10x and +9x are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
 
 ### The quadratic formula
 
@@ -169,6 +218,17 @@ x = (3 ± √29) / 10
 x = 0.839 or x = −0.239   (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-solving-linear-and-quadratic-equations--10-discriminant-meaning.webp" width="900" height="1075" alt="Three parabolas. 2x squared + 7x - 3 has discriminant 73 and two roots needing the formula. x squared + x - 20 has discriminant 81, a perfect square, so it factorises. x squared + 2x + 5 has discriminant -16 so it never meets the x-axis." loading="lazy">
+  <figcaption>Check b² − 4ac first: negative means no real roots, a perfect square means it factorises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--05-quadratic-surd-roots.webp" width="900" height="970" alt="The parabola y = x^2 - 4x - 3 has line of symmetry x = 2 and crosses the x axis a distance sqrt(7) either side, giving x = 2 +/- sqrt(7)." loading="lazy">
+  <figcaption>The surd roots sit sqrt(7) either side of the line of symmetry x = 2.</figcaption>
+</figure>
+
+
 ### Completing the square
 
 Half the x coefficient goes inside the bracket: x² + bx + c becomes (x + b/2)² + c − b²/4
@@ -182,6 +242,12 @@ x = −1 ± √8 = −1 ± 2√2
 ```
 
 When a is not 1, factor a out of the two terms containing x, leaving the constant outside the bracket. For 2x² − 8x + 3 the form is 2(x − 2)² − 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
 
 ### Algebraic fractions leading to quadratics
 

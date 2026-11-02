@@ -135,6 +135,22 @@ The bank summary gives the missing drawings: 2,350 + 73,500 receipts - 62,330 pa
 
 Profit = 11,995 - 10,850 + 10,610 - 2,500 = **9,255**. A negative answer is a loss. This is a quick answer, but it gives no gross profit or expense detail, so Section 4 builds the statements.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-incomplete-records--02-ir-hidden-drawings.webp" width="900" height="880" alt="A bar shows the 13,520 that the bank summary says should remain: 3,720 is still in the bank and 9,800 was taken as drawings. A second bar adds goods taken at cost 450 and private insurance 360 to reach total drawings of 10,610." loading="lazy">
+  <figcaption>Cash drawings are the gap in the bank summary; goods and private expenses are added to give total drawings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-incomplete-records--01-ir-statement-of-affairs.webp" width="900" height="850" alt="Two bars in dollars. At 1 January 2028 assets of 20,970 split into liabilities 10,120 and capital 10,850. At 31 December 2028 assets of 22,555 split into liabilities 10,560 and capital 11,995. Capital is the balancing figure and rose by 1,145." loading="lazy">
+  <figcaption>Capital is assets minus liabilities, so it is the balancing figure in a statement of affairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+
 ## 3. Rebuilding sales, purchases and expenses
 
 Treat each balance like a ledger account: opening balance plus additions, minus reductions, equals closing balance. Find the missing side.
@@ -154,6 +170,22 @@ Electricity = 1,980 - 220 + 260     = 2,020
 General     = 2,450 - 360 private   = 2,090
 Allowance   = 195 - 160 (increase)  =    35
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## 4. Statement of profit or loss and statement of financial position
 
@@ -216,6 +248,17 @@ Capital
 
 All 5.1 adjustments appear here: depreciation (straight line above; reducing balance means a percentage of the carrying amount, and revaluation means opening value plus additions minus a closing valuation), prepaid and accrued items, irrecoverable debts, the allowance, and drawings of goods and of private expenses. Accrued and prepaid *income* work the same way on a revenue item such as rent received.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-incomplete-records--02-ir-haverford-profit.webp" width="900" height="860" alt="A waterfall in dollars: revenue 72,040 less cost of sales 43,050 gives gross profit 28,990. Expenses of 19,735 leave profit of 9,255, the same as the change-in-capital answer." loading="lazy">
+  <figcaption>Revenue to profit for Haverford Cycles, matching the profit from changes in capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-incomplete-records--03-ir-haverford-position.webp" width="900" height="955" alt="Two equal-height columns in dollars. Assets 22,555 are equipment 7,200 and current assets 15,355. Capital and liabilities 22,555 are current liabilities 4,560, loan 6,000 and capital 11,995, built from opening capital, capital introduced, drawings and profit." loading="lazy">
+  <figcaption>The statement of financial position balances because capital includes the year profit less drawings.</figcaption>
+</figure>
+
+
 ## 5. Mark-up, margin and inventory turnover
 
 The syllabus formulas are the only ones accepted in answers:
@@ -243,6 +286,27 @@ If credit sales were 49,000, cash sales are 58,800 - 49,000 = 9,800. The margin 
 Another case: revenue 80,000, margin 25%. Cost of sales is 75% x 80,000 = 60,000. With opening inventory 8,000 and purchases 61,500, closing inventory = 8,000 + 61,500 - 60,000 = **9,500**.
 
 **Converting.** A margin of 20% means gross profit is 20 on revenue 100, so cost of sales is 80 and the mark-up is 20/80 = 25%. A mark-up of 25% converts back to a margin of 25/125 = 20%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-incomplete-records--01-ir-turnover-chain.webp" width="900" height="961" alt="Five stacked steps for Yardley Fabrics. Average inventory 6,000, then cost of sales 7 x 6,000 = 42,000, gross profit 40% of 42,000 = 16,800, revenue 58,800 and purchases 43,600. A bar splits revenue into cost of sales and gross profit, giving a margin of 28.6%." loading="lazy">
+  <figcaption>Each missing figure is found from the one before it, using turnover and mark-up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-incomplete-records--04-ir-closing-inventory-margin.webp" width="900" height="870" alt="Revenue 80,000 at a 25 percent margin gives cost of sales 60,000 and gross profit 20,000. Opening inventory 8,000 plus purchases 61,500 is 69,500 available; less cost of sales 60,000 leaves closing inventory 9,500." loading="lazy">
+  <figcaption>Closing inventory is what is left of the goods available after cost of sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--09-markup-margin.webp" width="900" height="830" alt="Two bars show cost of 100. With profit of 25, mark-up is 25 percent and margin 20 percent. With profit of 60, mark-up is 60 percent and margin 37.5 percent. With a 60 percent mark-up, cost of sales is sales divided by 1.60." loading="lazy">
+  <figcaption>Mark-up is profit as a percentage of cost; margin is profit as a percentage of revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
 
 ## Common errors
 

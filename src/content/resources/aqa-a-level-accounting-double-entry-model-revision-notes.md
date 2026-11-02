@@ -52,9 +52,26 @@ Anything that has no special journal (buying a non-current asset on credit, open
 | Debit card transaction | Credit bank, debit the item bought |
 | Direct transfer | Debit or credit bank, depending on direction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
+
 ## Ledgers
 
 The **receivables ledger** holds one account per credit customer. The **payables ledger** holds one account per credit supplier. The **general ledger** holds everything else: sales, purchases, expenses, assets, liabilities, capital and drawings. Debit the receiving account, credit the giving account. Balance each account by totalling the larger side and inserting the difference on the smaller side, then carry it down to the opposite side on the first day of the next period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
 
 ## Transactions to know
 
@@ -74,6 +91,12 @@ Profit on disposal   700    Bank                      5,500
                   12,700                             12,700
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
+
 ## Revenue and capital
 
 | | Revenue | Capital |
@@ -82,6 +105,12 @@ Profit on disposal   700    Bank                      5,500
 | Income | Day-to-day trading income: sales, fees, rent receivable, commission | Proceeds of selling a non-current asset, and money paid in by the owner |
 
 Mistaking one for the other changes profit and the statement of financial position at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
 
 ## Adjustments
 
@@ -104,6 +133,17 @@ Expense charge = amount paid + accrued at close - accrued at start. For a prepay
 
 Reminder: cost 9,000, 20% reducing balance. Year 1 charge 1,800, net book value 7,200. Year 2 charge 1,440. Straight line on the same cost with residual value 1,000 over 4 years gives 2,000 a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
+  <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
+
 ### Provision for doubtful debts
 
 Apply the percentage to receivables after irrecoverable debts are written off. Compare with the existing provision. Only the **change** in the provision is taken to the income statement, as an expense if it rises and as income if it falls.
@@ -124,6 +164,12 @@ Capital (equity)              (opening capital + profit - drawings)
 ```
 
 Net assets (non-current assets + net current assets - non-current liabilities) must equal capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

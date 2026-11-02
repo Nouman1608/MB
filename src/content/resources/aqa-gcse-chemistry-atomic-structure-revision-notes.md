@@ -36,6 +36,17 @@ Dalton (indivisible spheres) → Thomson (plum pudding) → **Rutherford** (nucl
 
 Listing the observations without the conclusions earns nothing. This is also the standard example of a **model changing when new evidence cannot be explained** by the existing one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-atomic-structure-revision-notes--01-atom-models-sequence.webp" width="900" height="870" alt="Five numbered panels in order. Dalton: a solid sphere that cannot be split. Thomson: electrons embedded in a positive sphere. Rutherford: a tiny positive nucleus with electrons around it and mostly empty space. Bohr: electrons in shells. Chadwick: neutrons found in the nucleus beside the protons." loading="lazy">
+  <figcaption>Each model of the atom replaced the one before it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--01-plum-pudding-vs-nuclear.webp" width="900" height="1090" alt="Alpha particles fired at one atom. With plum pudding positive charge spread out, every path bends only a few degrees. With a tiny nucleus most pass straight, some deflect and a few bounce back. Large deflections were seen, so the model was replaced." loading="lazy">
+  <figcaption>Scattering results fit a concentrated nucleus, not a spread-out positive charge.</figcaption>
+</figure>
+
+
 ## Atoms and isotopes
 
 | Particle | Relative mass | Charge |
@@ -56,6 +67,22 @@ That weighted average is why relative atomic masses are rarely whole numbers.
 
 **Worked example.** Chlorine has two isotopes, ³⁵Cl (75%) and ³⁷Cl (25%). Relative atomic mass = (35 × 75 + 37 × 25) ÷ 100 = (2625 + 925) ÷ 100 = **35.5**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-atomic-structure-revision-notes--03-chlorine-isotopes-ar.webp" width="900" height="1085" alt="Two chlorine nuclei both have 17 protons, with 18 and 20 neutrons. A 100-square grid shows 75 Cl-35 and 25 Cl-37. Ar = 3550/100 = 35.5." loading="lazy">
+  <figcaption>Ar is a weighted average of isotope masses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--07-ki-gallium-mean.webp" width="900" height="810" alt="A balance beam with gallium-69 (60%) and gallium-71 (40%) balancing at 69.8, the relative atomic mass, with the calculation 6980 / 100." loading="lazy">
+  <figcaption>The weighted mean of 60% gallium-69 and 40% gallium-71 is 69.8.</figcaption>
+</figure>
+
+
 ## Electron configuration
 
 Shells fill **2, 8, 8**.
@@ -65,11 +92,28 @@ Shells fill **2, 8, 8**.
 
 **Elements in the same group react similarly because they have the same number of outer electrons**, and outer electrons determine chemical behaviour. That sentence answers a large share of periodic-table questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+
 ## The periodic table
 
 Arranged by **increasing atomic number**. **Mendeleev left gaps** for undiscovered elements and predicted their properties — the discovery of gallium and germanium confirmed his arrangement, which is why his table succeeded where earlier ones failed.
 
 **Metals** lose electrons to form positive ions (left); **non-metals** gain or share (right).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--01-pt-mendeleev-gaps.webp" width="900" height="1120" alt="A gap under silicon is filled by germanium. A timeline shows gallium (1875), scandium (1879) and germanium (1886) being found after the 1869 table. Bars compare the predicted relative atomic mass (72) and density (5.5) with germanium measured 72.6 and 5.32, and both a dioxide." loading="lazy">
+  <figcaption>Mendeleev left gaps and his predictions for eka-silicon matched germanium closely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--01-pt-metal-nonmetal.webp" width="900" height="1050" alt="A block periodic table (periods 1 to 6, groups 1 to 7 and 0) coloured teal for metals on the left and lower, gold for non-metals on the right and upper, grey for borderline elements. Four paired icons compare a metal and a non-metal: conducts or not, shiny or dull, bends or snaps, oxide that is a base or often acidic." loading="lazy">
+  <figcaption>Metals sit left and lower and non-metals right and upper, with different typical properties.</figcaption>
+</figure>
+
 
 ## Group 1 — alkali metals
 
@@ -81,6 +125,17 @@ React with water: **metal + water → metal hydroxide + hydrogen**.
 2. There is **more shielding** from inner shells.
 3. So the **attraction is weaker** and the electron is lost more easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-atomic-structure-revision-notes--02-group1-reactivity-why.webp" width="900" height="930" alt="Lithium (2,1), sodium (2,8,1) and potassium (2,8,8,1) drawn as shells. The single outer electron is further from the nucleus each time, with one, two then three inner shells in the way, and the arrow showing the nucleus pulling on it gets thinner. A four-step chain ends with the electron being lost more easily, so reactivity increases down the group." loading="lazy">
+  <figcaption>Further out and more shielded, the outer electron is held less tightly and is lost more easily.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--04-pt-group1-reactions.webp" width="900" height="1090" alt="Three panels: with oxygen, metals tarnish and burn with red (Li), yellow-orange (Na) and lilac (K) flames; with chlorine they make white solid chlorides; with water they make a hydroxide and hydrogen and the solution is alkaline (purple with universal indicator). An arrow shows more vigorous reaction down the group." loading="lazy">
+  <figcaption>Group 1 metals make oxides, chlorides and hydroxides, more vigorously down the group.</figcaption>
+</figure>
+
+
 ## Group 7 — halogens
 
 Melting and boiling points **increase** down the group (larger molecules, stronger intermolecular forces), but **reactivity decreases** — the opposite direction to Group 1.
@@ -88,6 +143,17 @@ Melting and boiling points **increase** down the group (larger molecules, strong
 The reason is the same physics applied to the opposite process: a halogen must **gain** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted **less** strongly.
 
 **Displacement:** a more reactive halogen displaces a less reactive one from solution — chlorine displaces bromine, bromine displaces iodine. **Worked observation:** adding chlorine water to potassium iodide solution, the more reactive chlorine displaces iodine, and the colourless solution turns **brown** as iodine forms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--02-pt-halogen-reactivity-why.webp" width="900" height="740" alt="Chlorine, bromine and iodine drawn with 3, 4 and 5 electron shells and 7 outer electrons each. An incoming electron is pulled towards the nucleus by arrows that get thinner down the group, so it is gained less easily and reactivity falls." loading="lazy">
+  <figcaption>The further the outer shell from the nucleus, the less easily a halogen gains an electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
 
 ## Group 0 — noble gases
 

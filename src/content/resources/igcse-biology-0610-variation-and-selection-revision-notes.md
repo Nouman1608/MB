@@ -77,6 +77,27 @@ Links: [course hub](/boards/cambridge/igcse/biology/) · [checklist](/checklists
 - Gene mutation = **random** change in the **base sequence** of DNA.
 - Four sources of genetic variation in populations: **mutation, meiosis, random mating, random fertilisation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--04-hydrophyte-xerophyte.webp" width="900" height="1200" alt="A water lily (hydrophyte) has air spaces for floating and storing air, stomata on the upper surface, little support tissue because water supports it, and a large flat leaf for light. A cactus (xerophyte) has a swollen stem storing water, spines giving a small surface for water loss, a thick waxy cuticle reducing evaporation, and deep or wide roots to find water." loading="lazy">
+  <figcaption>Hydrophytes cope with water, light and gas exchange; xerophytes limit water loss and store water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+
 ## 18.2 Adaptive features
 
 - Core: define, then **interpret images or information** about a species. For every feature say **what it does** and **how that helps survival or reproduction** in that environment.
@@ -90,6 +111,12 @@ Links: [course hub](/boards/cambridge/igcse/biology/) · [checklist](/checklists
 | Xerophyte | Thick waxy cuticle; sunken stomata; hairs; rolled leaves; few stomata; spines instead of leaves; deep or wide roots; water-storage tissue | Less water loss, more water uptake, water storage |
 
 Why sunken stomata, hairs and rolled leaves work: they **trap moist air** next to the stomata, so the **water vapour concentration gradient is smaller** and **less water vapour diffuses out**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--03-adaptive-hare.webp" width="900" height="980" alt="A schematic snow hare labels four adaptive features: thick fur traps air to reduce heat loss, short ears have a smaller area so lose less heat, large furry feet spread weight so it does not sink in snow, and white fur gives camouflage. A note says scars and trained muscles are not adaptive features because they are gained in life, not inherited." loading="lazy">
+  <figcaption>Each adaptive feature is inherited and helps survival in the hare's cold, snowy habitat.</figcaption>
+</figure>
+
 
 ## 18.3 Selection
 
@@ -108,6 +135,17 @@ Why sunken stomata, hairs and rolled leaves work: they **trap moist air** next t
 > Humans select individuals with desirable features → cross them → select offspring showing the desirable features → breed from them → repeat over many generations.
 
 Examples of desirable features: crop plants with higher yield, disease resistance or drought tolerance; animals with higher milk yield, more meat or calmer temperament. In an "apply to a given context" question, name the exact feature from the context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

@@ -54,6 +54,22 @@ These notes condense sections 3.6 (Firms and production) and 3.8 (Market structu
 
 Reminder: Mix A is 6 workers and 2 machines. Mix B is 2 workers and 5 machines. A worker costs 50 and a machine 80. A costs 300 + 160 = 460. B costs 100 + 400 = 500. A is cheaper. If the wage rises to 90, A costs 540 + 160 = 700 and B costs 180 + 400 = 580. B is now cheaper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--05-eco36-factor-prices.webp" width="900" height="1120" alt="Three panels with stacked cost bars for method X (10 workers, 2 machines) and Y (4 workers, 5 machines). Y is cheaper at 690 against 780; with a wage of 100 Y is cheaper at 850 against 1,180; with machines at 200, X is cheaper at 1,000 against 1,240." loading="lazy">
+  <figcaption>A firm switches towards the cheaper factor mix when relative prices change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--01-mpun156-derived-demand.webp" width="900" height="690" alt="Two rows of baker figures: 600 loaves at 50 per baker needs 12 bakers; 750 loaves needs 15, three more. Demand rose 25 percent and so did the bakers needed." loading="lazy">
+  <figcaption>Demand for a factor is derived from demand for the product it makes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+
 ## 3.6.2 Labour-intensive and capital-intensive production
 
 | | Labour-intensive | Capital-intensive |
@@ -68,6 +84,17 @@ Reminder: Mix A is 6 workers and 2 machines. Mix B is 2 workers and 5 machines. 
 **Worked reminder:** Method L has a fixed cost of 2,000 and costs 3 per unit. Method C has a fixed cost of 8,000 and costs 1 per unit. Set them equal: 2,000 + 3q = 8,000 + 1q, so 2q = 6,000 and q = 3,000. At 3,000 units both cost 11,000. At 5,000 units L costs 17,000 and C costs 13,000, so C is cheaper above 3,000 units.
 
 **Output rule:** a capital-intensive method has high fixed cost and low cost per extra unit. It wins at high output and loses at low output. A labour-intensive method is the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--06-eco36-labour-vs-capital.webp" width="900" height="970" alt="Total cost against output for two methods. L starts low and rises steeply; C starts high and rises slowly. They meet at 3,000 units and a cost of 16,000. L is cheaper below that output and C above it." loading="lazy">
+  <figcaption>Labour-intensive is cheaper at low output and capital-intensive at high output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--07-eco36-cost-share.webp" width="900" height="930" alt="Two bars. Firm S spends 56,000 of 80,000 on wages (70%), so it is labour-intensive. Firm T spends 18,000 of 90,000 on wages (20%), so it is capital-intensive." loading="lazy">
+  <figcaption>A large wage share marks labour-intensive production.</figcaption>
+</figure>
+
 
 ## 3.6.3 Production and productivity
 
@@ -85,6 +112,27 @@ If the same factory makes 4,000 units with 25 workers, productivity is 4,000 ÷ 
 **Link to cost:** labour cost per unit = wage per hour ÷ output per hour. Higher output per hour lowers cost per unit unless pay rises by more. That can allow lower prices, higher profit or better pay.
 
 **Warning:** production can rise while productivity falls. Always compute output per worker before you state what happened.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--08-eco36-output-productivity.webp" width="900" height="1070" alt="Paired bars for a farm in two years. Output rises from 4,800 to 5,400 tonnes (+12.5%), workers from 40 to 50 (+25%), and output per worker falls from 120 to 108 tonnes (-10%)." loading="lazy">
+  <figcaption>Production can rise while productivity falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--02-mpun156-training-unit-cost.webp" width="900" height="750" alt="Two bars of one hour pay, 40, split into 8 then 10 unit blocks. Labour cost per unit falls from 5.00 to 4.00, a fall of 20 percent." loading="lazy">
+  <figcaption>Higher productivity cuts labour cost per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
 
 ## 3.8.1 Competitive markets (many firms)
 
@@ -111,6 +159,22 @@ Evaluation: low prices can push firms to cut corners; small firms may miss econo
 | Natural monopoly can be efficient (one network instead of several) | Barriers keep out rivals; may use power over suppliers and workers |
 
 **Evaluation checklist:** are cost savings passed on to buyers? Is the position protected by law or by high start-up cost? Is it regulated? Are there substitutes? Diagrams are not required for this topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--09-eco36-monopoly-takeover.webp" width="900" height="1020" alt="Two columns of cost and price per unit. Five small firms: cost 4.00, price 4.10, profit 0.10. One firm after takeover: cost 3.30, price 5.20, profit 1.90, total profit 171,000. Price rises 26.8%." loading="lazy">
+  <figcaption>Lower costs from scale need not reach buyers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--03-mpun156-market-share.webp" width="900" height="780" alt="A grid of 100 squares each worth 10 units: 78 for Firm Z (780 units) and 22 for other sellers (220 units). Market share is 78 percent, so Firm Z dominates though not the only seller." loading="lazy">
+  <figcaption>Firm Z has a 78% market share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-demand-for-factors-production-and-productivity-and--04-mpun156-natural-monopoly.webp" width="900" height="810" alt="Schematic of five houses. Three firms each lay their own pipes, while one firm lays a single set. The same houses are served by one network instead of three, so one firm can serve more cheaply: a natural monopoly." loading="lazy">
+  <figcaption>In a natural monopoly one firm serves a market more cheaply than several.</figcaption>
+</figure>
+
 
 ## Building an answer
 

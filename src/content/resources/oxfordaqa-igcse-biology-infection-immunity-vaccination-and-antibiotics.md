@@ -55,6 +55,17 @@ You do not need to know the structure of a virus. You do need the contrast: bact
 
 The lesson is speed. A small number of bacteria becomes a large number within hours, which is why the body needs a fast defence and why early treatment matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--06-bacteria-toxins-virus-damage.webp" width="900" height="850" alt="Bacteria release toxins that make you ill. Viruses enter cells, reproduce inside them and damage the cell." loading="lazy">
+  <figcaption>Bacteria poison; viruses damage cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
+
 ## 3.4.7 c: how white blood cells defend you
 
 White blood cells help to defend against pathogens in three ways.
@@ -67,6 +78,17 @@ White blood cells help to defend against pathogens in three ways.
 
 Do not mix up the last two. Antibodies act on the pathogen. Antitoxins act on the poison the pathogen releases. A good answer names the defence and says what it acts on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--05-white-cell-defences.webp" width="900" height="1060" alt="Phagocytosis: a white cell takes in a pathogen. Antibodies: Y-shaped proteins bind the matching pathogen only. Antitoxins: attach to toxins released by bacteria." loading="lazy">
+  <figcaption>Antibodies act on the pathogen; antitoxins act on the toxin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
+
 ## 3.4.7 d: specific antibodies, immunity and herd immunity
 
 Your immune system makes **specific** antibodies: an antibody that destroys one pathogen will not destroy a different one. Making the right antibody leads to **immunity** from that pathogen. In some cases, dead or inactivated pathogens are enough to stimulate antibody production, which is the idea behind vaccines.
@@ -78,6 +100,12 @@ If a large proportion of the population is immune to a pathogen, its spread is v
 1. Immune people = 0.95 × 8000 = 7600.
 2. Not immune = 8000 − 7600 = **400**.
 3. Only 5% of the people an infected person meets can catch the disease, so the spread is very much reduced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
+</figure>
+
 
 ## 3.4.7 e: vaccination
 
@@ -105,6 +133,22 @@ Keep side-effect points general. The specification does not require the side eff
 2. Percentage fall = 2250 ÷ 2400 × 100 = 93.75%, so **about 94%**.
 3. Judgement: the data support the programme. A single year does not prove the vaccine alone caused the fall, because other changes might have happened, so you would want several years of data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--10-vaccine-cases-fall.webp" width="900" height="740" alt="Cases per 100 000 people fell from 2400 before a vaccination programme to 150 after, a fall of 2250 or 94%. One year of data cannot prove the vaccine caused the fall." loading="lazy">
+  <figcaption>Cases fell from 2400 to 150 per 100 000, a 94% fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--12-mmr-for-and-against.webp" width="900" height="800" alt="The MMR vaccine protects against measles, mumps and rubella. Advantages: protects you, slows spread and protects others, prevents serious illness. Disadvantages: may not work, may cause soreness or fever, the pathogen may mutate." loading="lazy">
+  <figcaption>Evaluate a vaccine by giving advantages and disadvantages, then a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+
 ## 3.4.7 f and g: antibiotics
 
 **Antibiotics**, such as penicillin, are medicines that help to cure bacterial disease by killing infective bacteria inside the body. Their use has greatly reduced deaths from infectious bacterial diseases.
@@ -113,6 +157,17 @@ Two rules follow.
 
 - **Specific bacteria should be treated with specific antibiotics.** An antibiotic that works on one type of bacterium may not work on another.
 - **Antibiotics cannot kill viral pathogens.** So an antibiotic is no use for a cold or flu. It is difficult to develop drugs that kill viruses without also damaging the body's tissues, because viruses live inside your own cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--13-antibiotic-disc-method.webp" width="900" height="964" alt="Six steps: flame-sterilise the loop and use sterile agar; spread bacteria as a lawn; add antibiotic discs and a sterile-water control disc; tape the lid on loosely; incubate upside down at about 25 °C; measure each clear zone’s diameter." loading="lazy">
+  <figcaption>Aseptic technique keeps other microorganisms out; the clear zones show which chemical worked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--02-antibiotic-treatment.webp" width="900" height="1010" alt="Three steps. Bacteria reproduce and the infection grows; an antibiotic kills most of them, leaving a few; the immune system deals with the remainder and the person recovers." loading="lazy">
+  <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
+</figure>
+
 
 ## 3.4.7 h: mutation and new strains
 
@@ -132,6 +187,12 @@ Antibiotics and vaccinations may no longer be effective against a new resistant 
 3. Resistant bacteria = 2 × 32 768 = **65 536**.
 
 A strain that began as 1 in a million is now the whole infection, and the same antibiotic will not remove it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--11-resistant-strain-takes-over.webp" width="900" height="750" alt="On a log-scale chart, 2 resistant bacteria dividing every 20 minutes reach 65 536 after 5 hours (15 divisions, 2 × 32 768), after the antibiotic has killed the non-resistant bacteria." loading="lazy">
+  <figcaption>After the antibiotic removes the rest, 2 resistant bacteria grow to 65 536 in 5 hours.</figcaption>
+</figure>
+
 
 ## 3.4.7 i and j: MRSA, overuse and new antibiotics
 

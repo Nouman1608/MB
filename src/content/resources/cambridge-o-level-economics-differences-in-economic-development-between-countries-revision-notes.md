@@ -67,6 +67,12 @@ These notes condense section 5.4 (5.4.1) of the Cambridge O Level Economics (228
 
 Country P's output is 36,000 million with 6 million workers, so output per worker is 6,000. After investment, output is 40,500 million with the same workers: 6,750. That is a rise of 12.5%. With unchanged hours and prices, the extra output can fund higher wages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+
 ## Causes and impacts, area by area
 
 ### Income
@@ -75,16 +81,44 @@ Country P's output is 36,000 million with 6 million workers, so output per worke
 - Impacts of low income: low spending on health and education, low saving, low tax revenue.
 - Trap: poverty limits saving and investment, which keeps income low.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--06-dev-poverty-loop.webp" width="900" height="800" alt="Low income leads to little saving, little investment and low productivity, which keeps income low. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four-step loop from low income to little saving, little investment and low productivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ### Productivity
 
 - Causes: more capital per worker, technology, education, health, management.
 - Impacts: higher output and wages, lower costs per unit, more exports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--03-dev-evaluation-chain.webp" width="900" height="1070" alt="Low investment gives less capital per worker, so lower productivity and lower income per head; then qualify by size, speed and comparison. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Four-step chain from cause to link, impact and qualification.</figcaption>
+</figure>
+
 
 ### Population growth
 
 - Causes: birth rate, death rate, net migration.
 - Impacts of fast growth: more dependants, more spending needed on schools, less saving per household, jobs and capital must grow as fast. Impacts of slow growth or decline: fewer workers and taxpayers, but less pressure on resources.
 - Key idea: compare GDP growth with population growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--03-dev-population-growth.webp" width="900" height="1050" alt="K has faster GDP growth than L but slower growth in income per head because its population grows 2.5% a year. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Yearly growth of GDP, population and income per head for K and L, with income per head after ten years.</figcaption>
+</figure>
+
 
 ### Size of sectors
 
@@ -96,21 +130,55 @@ Country P's output is 36,000 million with 6 million workers, so output per worke
 
 Moving workers from low-output to high-output sectors raises national output, but only if capital and skills are available for the new jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--04-dev-sector-shares.webp" width="900" height="890" alt="Half of Country K workers are in the primary sector but produce under 30% of output, so output per worker there is lowest. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Stacked bars comparing each sector share of workers with its share of output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ### Saving and investment
 
 - Causes of low saving: low incomes, spending on necessities, weak banks, high inflation.
 - Causes of low investment: little saving, risk, poor roads and power, weak property rights.
 - Impacts: low capital stock, low productivity, reliance on foreign investment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--05-dev-gap-multiples.webp" width="900" height="890" alt="L has 13.75 times the income per head, 11.5 times the output per worker and 29.8 times the new capital per worker of K. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Bars showing how many times larger L is than K on income, output per worker and new capital per worker.</figcaption>
+</figure>
+
+
 ### Education
 
 - Causes of differences: government spending, family income, child labour, teacher supply.
 - Impacts: skills, faster adoption of technology, higher earnings, more enterprise. Risk: brain drain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--01-dev-education-per-pupil.webp" width="900" height="720" alt="K spends 480 per pupil and L 15,000, so L spends 31.25 times as much per pupil. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Spending per pupil on one scale: 480 in K against 15,000 in L.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--04-dev-brain-drain.webp" width="900" height="950" alt="The state pays for schooling, the worker emigrates and the home country loses the benefit of that spending. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Flow showing an educated worker leaving and the home state losing its schooling spend.</figcaption>
+</figure>
+
+
 ### Healthcare
 
 - Causes: government spending, clean water, sanitation, doctors per head, income.
 - Impacts: more working days, longer working life, better school attendance, lower child death rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-differences-in-economic-development-between-countries--02-dev-working-days-lost.webp" width="900" height="1060" alt="K loses 15 of 250 days (6%) and L 5 (2%); K loses 2,880 million of output. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Grids of 250 working days showing 15 lost in K and 5 in L.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 

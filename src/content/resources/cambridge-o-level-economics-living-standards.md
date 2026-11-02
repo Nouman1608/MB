@@ -72,6 +72,27 @@ Nominal GDP rose by 37.2%, but real output rose by only 5.56%. Population rose b
 - It does not directly measure health, education, life expectancy or freedom.
 - Prices differ between countries, so a given income can buy more in one country than another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--10-real-gdp-per-head-country-j.webp" width="900" height="860" alt="Horizontal bars of percentage changes for Country J from 2024 to 2026. Nominal GDP rose 37.2 percent, but real GDP (741 divided by 130 times 100, equal to 570 billion) rose only 5.56 percent. Population rose 6.67 percent, faster than real GDP. So real GDP per head fell 1.04 percent, from 45,000 to 44,531." loading="lazy">
+  <figcaption>Real GDP rose 5.56% but population rose 6.67%, so real GDP per head fell 1.04%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
+
 ## 5.1.1 The HDI as an indicator
 
 The HDI is a combined index published by the United Nations Development Programme (UNDP) to rank countries. It has three components:
@@ -117,6 +138,22 @@ Country R has the higher income score (0.85 against 0.70), so it would probably 
 | Has output per person grown since last year? | Real GDP per head |
 | Is a country using its income to improve health and schooling? | HDI |
 | How is income shared? | Neither (use income distribution data) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--11-hdi-two-countries-scores.webp" width="900" height="910" alt="Two sets of three bars for invented countries. Country R scores health 0.60, education 0.55, income 0.85, giving an HDI of 0.655. Country S scores health 0.85, education 0.80, income 0.70, giving an HDI of 0.781. R has the higher income score but S has the higher HDI because its health and education are much higher. The HDI combines the three scores with a geometric mean." loading="lazy">
+  <figcaption>R has the higher income score but S has the higher HDI because of health and education.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--04-hdi-counts-and-misses.webp" width="900" height="782" alt="The HDI combines three scores: health (life expectancy), education (years of schooling) and income (income per head). Seven things it does not count are shown crossed out: inequality, poverty, safety, freedom, pollution, housing and leisure." loading="lazy">
+  <figcaption>The HDI counts three things and leaves out many others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--05-which-indicator-which-question.webp" width="900" height="830" alt="Three questions each point to an indicator: output per person growth to real GDP per head, using income for health and schooling to the HDI, and how income is shared to neither (use income distribution data)." loading="lazy">
+  <figcaption>Match each question to real GDP per head, the HDI, or distribution data.</figcaption>
+</figure>
+
 
 ## 5.1.2 Comparing living standards
 
@@ -177,6 +214,22 @@ When asked to judge which country has the higher living standard:
 2. Say what it leaves out (distribution, hidden output, environment, freedom).
 3. Check whether the figures are real and per head.
 4. Reach a conclusion that depends on the evidence. It may be that Country B ranks higher on income but Country A ranks higher on health.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--12-same-average-different-sharing.webp" width="900" height="860" alt="Two stacked bars show the share of total income received by each fifth of the population, from poorest to richest. Country M: 5, 9, 13, 21 and 52 percent. Country N: 9, 13, 17, 23 and 38 percent. Both have average income 30,000, so the poorest fifth in M averages 7,500 and the richest 78,000, a ratio of 10.4; in N the poorest fifth averages 13,500 and the richest 57,000, a ratio of 4.2. Income is more equal in N." loading="lazy">
+  <figcaption>Two countries with the same average income can share it very differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--13-poverty-vicious-circle.webp" width="900" height="830" alt="A four-step loop with arrows going clockwise: low income leads to little saving, which leads to little money for machinery and tools, which leads to low output per worker, which leads back to low income." loading="lazy">
+  <figcaption>Low income leads to little saving and investment, so output per worker and income stay low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-living-standards--14-education-virtuous-circle.webp" width="900" height="870" alt="A five-step loop with arrows going clockwise: better education leads to more skilled workers, then higher output per worker, then higher incomes and tax revenue, then more spending on schools, which leads back to better education." loading="lazy">
+  <figcaption>Better education raises output, incomes and tax revenue, which pay for more schooling.</figcaption>
+</figure>
+
 
 ## Common errors
 

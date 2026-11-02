@@ -71,6 +71,27 @@ Ripple tank, one line each.
 3. Rearrange: v = fλ, f = v/λ, λ = v/f.
 4. Give the unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--03-ripple-tank-refraction.webp" width="900" height="940" alt="Top view of a ripple tank at 10 Hz. Wavefronts cross from deep water (wavelength 3.0 cm, speed 0.30 m/s) to a shallow plate (1.2 cm, 0.12 m/s). The wavefronts bunch up and the ray turns towards the normal from 40 degrees to 14.9 degrees." loading="lazy">
+  <figcaption>Over the plate the wave is slower and its wavelength shorter, at the same frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--07-wave-not-water.webp" width="900" height="920" alt="Two side views of ripples a quarter period apart. The crest moves right by a quarter wavelength but a floating cork stays at the same horizontal position and only moves up and down." loading="lazy">
+  <figcaption>The wave moves along but the water only vibrates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## 3.2 Light
 
 ### Reflection
@@ -80,6 +101,17 @@ Ripple tank, one line each.
 - Plane mirror image: matches the object in size, sits behind the mirror at the object's distance in front, and is virtual.
 - Experiment: ray box, mirror, paper. Mark the ray, join the points, measure from the normal, repeat.
 - Image position: pins in line with the image from two directions. The lines cross at the image.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--01-ripple-reflection-edge.webp" width="900" height="1080" alt="Top view of a ripple tank. Straight wavefronts reflect from a straight barrier and leave at the same 30 degrees on the other side. In a second panel the wavefronts curve round the edge of a barrier into the shadow region." loading="lazy">
+  <figcaption>In a ripple tank a straight barrier returns wavefronts at equal angles, and waves bend round an edge into the shadow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--01-diffraction-gap-size.webp" width="900" height="1120" alt="Top view of wavefronts meeting a barrier with a gap. With a gap of five wavelengths the wavefronts stay mostly straight and bend only at the edges. With a gap of one wavelength they spread as nearly circular arcs. Diffraction is appreciable only when wavelength and gap are comparable." loading="lazy">
+  <figcaption>A gap about one wavelength wide spreads waves strongly; a wide gap hardly does.</figcaption>
+</figure>
+
 
 ### Refraction
 
@@ -114,9 +146,26 @@ A diverging lens always gives a virtual, upright, smaller image.
 - Real image: formed by converging rays. Virtual image: formed by diverging rays.
 - Eye diagrams: a normal eye brings parallel rays to a focus on the retina. In short sight they focus in front of the retina, so a diverging lens spreads them first. In long sight the focus lies behind the retina, so a converging lens is used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--04-lens-f-to-2f.webp" width="900" height="840" alt="Ray diagram for a converging lens with f = 4 cm. A 2 cm object 6 cm from the lens gives a real, inverted image 4 cm tall 12 cm beyond the lens, magnified by 2.0." loading="lazy">
+  <figcaption>An object between F and 2F gives a real, inverted, magnified image.</figcaption>
+</figure>
+
+
 ### Dispersion
 
 A prism refracts violet most and red least. Frequency increases: red, orange, yellow, green, blue, indigo, violet. Wavelength increases the other way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--03-mirror-practicals.webp" width="900" height="1196" alt="A ray reflects from a mirror with i and r both 55 degrees measured from the normal, with two marked points on the reflected ray. A second panel shows pins lined up with the image of an object pin; the lines drawn back behind the mirror cross at the image, the same distance behind as the object is in front." loading="lazy">
+  <figcaption>Both mirror practicals: measure i and r from the normal, and find the image where lines from the pins cross behind the mirror.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--04-critical-angle-experiment.webp" width="900" height="1196" alt="Three views of a ray aimed at the centre of a semicircular block (n = 1.6) at 25 degrees, 38.7 degrees and 55 degrees. At 25 degrees the ray refracts out, at the critical angle it runs along the flat face, and at 55 degrees it is totally internally reflected." loading="lazy">
+  <figcaption>Increase the angle and the refracted ray bends away until it runs along the face at the critical angle, then only reflection remains.</figcaption>
+</figure>
+
 
 ## 3.3 Electromagnetic spectrum
 
@@ -134,6 +183,12 @@ Increasing frequency, decreasing wavelength: radio waves, microwaves, infrared, 
 
 Dangers. Excess exposure heats soft tissue and burns. Ionising radiation: ultraviolet (skin cancer, cataracts); X-rays and gamma rays (cell mutation, cancer).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--05-em-uses-dangers.webp" width="900" height="1116" alt="Seven bands from radio to gamma with their uses. Microwaves and infrared heat tissue and can burn; ultraviolet, X-rays and gamma rays are ionising and can cause cancer or cell mutation." loading="lazy">
+  <figcaption>Each band has its own uses; microwaves and infrared heat, while ultraviolet, X-rays and gamma rays are ionising.</figcaption>
+</figure>
+
+
 ## 3.4 Sound
 
 - Made by vibrating sources. Longitudinal, with compressions and rarefactions.
@@ -148,6 +203,12 @@ Dangers. Excess exposure heats soft tissue and burns. Ionising radiation: ultrav
 **Method: speed of sound in air.** Measure the distance to a wall with a long tape. Clap and time the echo with a stopwatch. v = 2d/t. Repeat and average.
 
 **Method: echo or sonar depth.** Distance travelled = v × t. Divide by 2 for the one-way distance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-waves--02-bell-jar-vacuum.webp" width="900" height="770" alt="Two bell jars each with a bell. With air in the jar sound spreads out and is heard. With the air pumped out the hammer still strikes but no sound is heard, because sound needs particles." loading="lazy">
+  <figcaption>Pump the air out of the jar and the bell is still seen ringing but can no longer be heard.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

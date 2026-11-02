@@ -67,6 +67,32 @@ Learn to compare, not just list. Three useful contrasts:
 > Energy = power × time = 9 MW × 24 h = **216 MWh**.
 > At full output it would have given 30 MW × 24 h = 720 MWh, so the farm needs other sources to fill the gap when the wind is weak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--03-wind-farm-example.webp" width="900" height="784" alt="12 turbines of 2.5 MW give 30 MW maximum. At 30% the average is 9 MW, so 216 MWh in 24 h against 720 MWh at full output, a gap of 504 MWh." loading="lazy">
+  <figcaption>A wind farm at 30% of maximum delivers 216 of a possible 720 MWh a day.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
+
 ## P8.2b: Patterns and trends in use
 
 You may be given a table or graph and asked what has changed and why. Work through it in a fixed order.
@@ -105,6 +131,12 @@ The table below is made-up data for one country, in terawatt-hours (TWh) of elec
 
 If you are asked about a long-term trend, say what changed and give a reason linked to the resource's properties, such as supply, cost or pollution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--07-energy-trends-stacked-bars.webp" width="900" height="910" alt="Three stacked bars show electricity generated in an example country in 2005, 2015 and 2025. Fossil fuels fall from 270 to 118 TWh while renewables rise from 24 to 165 TWh and nuclear drifts from 80 to 65 TWh. The renewable share rises from 6% to 24% to 47%." loading="lazy">
+  <figcaption>In the lesson example data renewables grow from 6% to 47% of the total while fossil fuels shrink.</figcaption>
+</figure>
+
+
 ## P8.2g: The UK domestic supply
 
 The domestic mains supply in the UK is **alternating current (a.c.)** at **50 Hz** and about **230 volts**.
@@ -129,6 +161,12 @@ The potential difference of a cell is steady, so the trace is flat. A mains p.d.
 > Period = 2 × 10 ms = 20 ms = 0.020 s.
 > Frequency = 1 ÷ 0.020 = **50 Hz**, which matches the UK domestic supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--08-mains-ac-vs-dc-trace.webp" width="900" height="940" alt="Two graphs of p.d. against time with 10 ms divisions. A cell gives a flat line on one side of zero. UK mains is a wave that crosses zero and reverses with period 20 ms, so the frequency is 1 divided by 0.020 s = 50 Hz." loading="lazy">
+  <figcaption>A cell gives a steady line; mains reverses with a 20 ms period (50 Hz).</figcaption>
+</figure>
+
+
 ## P8.2i: Live, neutral and earth
 
 A three-pin plug has three wires. Each has a different job.
@@ -142,6 +180,12 @@ A three-pin plug has three wires. Each has a different job.
 So the p.d. between live and neutral is about 230 V, the p.d. between live and earth is about 230 V, and the p.d. between neutral and earth is about 0 V.
 
 In normal use, current flows in through the live wire, through the appliance, and out through the neutral.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--10-live-neutral-earth-wires.webp" width="900" height="940" alt="The live wire is brown at about 230 V to earth, the neutral wire is blue at about 0 V and returns current, and the earth wire is green and yellow at 0 V and carries no current in normal use. The p.d. is about 230 V between live and neutral, about 230 V between live and earth and about 0 V between neutral and earth." loading="lazy">
+  <figcaption>The three wires and the p.d. between each pair.</figcaption>
+</figure>
+
 
 ## P8.2j: Why the live wire is dangerous
 
@@ -164,6 +208,22 @@ Any connection from live to earth gives a low-resistance path and a large curren
 > **Worked example 5.** A faulty toaster has a loose live wire touching its metal case. The case is joined to earth through the earth wire. Explain what happens.
 >
 > The live wire is at about 230 V and the case is connected to earth at 0 V, so there is a large p.d. across a very small resistance, which gives a large current. (For example, 230 V across 46 Ω would be 5 A, and a lower resistance gives much more.) The large current flows through the earth wire rather than through the user. This protects the user. The same large current is what overheats wires, so it is dangerous if nothing stops it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--09-switch-live-or-neutral.webp" width="900" height="1120" alt="With the switch in the live wire, the lamp side of an open switch is at about 0 V and is safe. With the switch in the neutral wire, an open switch still leaves the lamp connected to the live wire at about 230 V, so touching it gives a shock." loading="lazy">
+  <figcaption>A switch must open the live wire, or the appliance stays at about 230 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--11-live-to-earth-fault.webp" width="900" height="950" alt="A loose live wire at about 230 V touches the earthed metal case of a toaster. A large current flows through the case and the earth wire to earth rather than through the user. For example 230 V across 46 ohms gives 5 A, and more if the resistance is lower." loading="lazy">
+  <figcaption>A live-to-earth connection gives a large current in the earth wire, protecting the user.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--04-insulation-shock.webp" width="900" height="830" alt="Left: intact insulation keeps the hand from the live copper so no current flows. Right: frayed or wet insulation lets the hand touch copper at about 230 V and current passes through the body to earth." loading="lazy">
+  <figcaption>Damaged insulation lets a person complete a path from live to earth.</figcaption>
+</figure>
+
 
 ## Common errors
 

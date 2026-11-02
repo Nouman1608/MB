@@ -60,6 +60,17 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 
 Give the effect on both profit and assets in the same answer, and add the reason (a cost belongs to the years it benefits). An answer that names only one of the two usually reads as incomplete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--01-ostrava-classify.webp" width="900" height="893" alt="Seven payments are sorted into capital (saw 4,800, delivery 150, installation 350, legal fees 1,200, extension 9,000: total 15,500) and revenue (saw blade 90, repainting 600: total 690)." loading="lazy">
+  <figcaption>Five capital payments total 15,500 and two revenue payments total 690.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--02-cost-and-invoice.webp" width="900" height="892" alt="The band saw cost is price 4,800 plus delivery 150 plus installation 350, giving 5,300. A 6,300 invoice is split: 5,400 for a drill press debited to machinery and 900 for servicing debited to an expense account." loading="lazy">
+  <figcaption>The saw is recorded at 5,300, and a mixed invoice of 6,300 is split 5,400 capital and 900 expense.</figcaption>
+</figure>
+
+
 ## 2.5 a Causes of depreciation
 
 Depreciation spreads what a non-current asset cost across the years it is used. No cash is paid out when it is charged.
@@ -115,6 +126,17 @@ Carrying value = cost − accumulated depreciation.
 4. Transfer the expense to the income statement.
 5. Show cost less accumulated depreciation in the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--05-larkhill-ledger.webp" width="900" height="986" alt="Year 1 charge 4,800 and year 2 charge 8,400 are debited to depreciation expense and credited to the provision, then the expense is cleared to the income statement. The provision is 13,200, so vans at cost 42,000 have carrying value 28,800." loading="lazy">
+  <figcaption>Depreciation goes to a provision; the asset stays at cost 42,000 and carrying value is 28,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--05-provision-builds.webp" width="900" height="940" alt="Three bars of 18,000 show the loom at purchase, Year 1 and Year 2, with provision 0, 3,000 and 6,000 and NBV 18,000, 15,000 and 12,000." loading="lazy">
+  <figcaption>The asset stays at cost while the provision builds up and NBV falls.</figcaption>
+</figure>
+
+
 ## 2.5 d Disposal of non-current assets
 
 | Step | Debit | Credit |
@@ -133,6 +155,17 @@ Before you build the disposal account, make sure the depreciation charged up to 
 
 **Worked reminder.** Oakvale Laundry sells a machine that cost 12,000, with accumulated depreciation of 7,500. Carrying value = 12,000 − 7,500 = 4,500. It sells for 5,200, so profit = 5,200 − 4,500 = **700**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--06-maddox-disposals.webp" width="900" height="866" alt="A kiln costing 30,000 with 12,000 depreciation (carrying value 18,000) sold for 15,000 gives a loss of 3,000. A display unit costing 8,000 with 4,625 depreciation (carrying value 3,375) sold for 4,100 gives a profit of 725." loading="lazy">
+  <figcaption>Profit or loss on disposal is proceeds less carrying value: a loss of 3,000 and a profit of 725.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-disposal-loss-profit.webp" width="900" height="1066" alt="Press cost 15,000, provision 9,000, sold 4,100: loss 1,900. Press cost 12,000, provision 7,500, sold 5,200: profit 700. Bars compare NBV with proceeds." loading="lazy">
+  <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Capital vs revenue:** asset kept for more than a year vs day-to-day or maintenance cost.
@@ -140,6 +173,12 @@ Before you build the disposal account, make sure the depreciation charged up to 
 - **Cost vs carrying value:** original price plus costs vs cost less accumulated depreciation.
 - **Depreciation expense vs provision for depreciation:** the yearly cost in the income statement vs the running total in the statement of financial position.
 - **Depreciation vs cash:** depreciation is an allocation of past spending, not money paid out in the year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--04-brightwater-methods.webp" width="900" height="996" alt="Straight line charges 8,000 every year. Reducing balance at 25% charges 16,000, 12,000, 9,000 and 6,750. Four-year totals are 32,000 and 43,750; carrying values are 32,000 and 20,250." loading="lazy">
+  <figcaption>Reducing balance charges more early; after four years it has charged 43,750 against 32,000.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -168,6 +207,12 @@ Before you build the disposal account, make sure the depreciation charged up to 
 9. Carrying value = 10,000 − 6,400 = 3,600. Loss = 3,100 − 3,600 = **500 loss**.
 10. In the income statement, as an expense.
 11. Two from: wear and tear, obsolescence, time running out (a lease), inadequacy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--03-elmstead-profit.webp" width="900" height="856" alt="Reported profit 46,200 falls by 3,150 for a repair wrongly capitalised (3,500 less 350 depreciation) and rises by 10,800 for a press wrongly expensed (12,000 less 1,200 depreciation), giving 53,850." loading="lazy">
+  <figcaption>Two misclassifications turn a reported profit of 46,200 into a corrected 53,850.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

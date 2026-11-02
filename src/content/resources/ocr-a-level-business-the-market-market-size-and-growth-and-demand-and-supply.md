@@ -44,6 +44,12 @@ A **market** is any setting, physical or online, where buyers and sellers meet t
 
 **Competition** is rivalry between businesses selling similar products to win the same customers. Rivals compete on price, quality, design, service, convenience and promotion. Intensity depends on the number of rivals, the similarity of their offers and the ease with which newcomers can join.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--10-market-structures.webp" width="900" height="1010" alt="Three columns compare sellers, barriers to entry and power over price for monopoly, oligopoly and monopolistic competition. Power meters are comparative only." loading="lazy">
+  <figcaption>Fewer sellers and higher barriers mean more power over price.</figcaption>
+</figure>
+
+
 ## Market size and market growth
 
 **Market size** is the total sales of all businesses in a market over a period. It is measured two ways:
@@ -94,6 +100,27 @@ The specification asks you to evaluate how a business could raise its share. Opt
 | Organic growth (building sales from the firm's own resources) | Controlled risk | Slow |
 
 A judgement depends on the market. Where products are alike and customers compare prices, cuts work fast but trigger retaliation. Where buyers value quality or brand, differentiation is stronger. Also consider the firm's finances: a firm with thin cash cannot fund a long promotion campaign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--14-oakfell-market-share.webp" width="900" height="1030" alt="The market grows from £4.8m to £5.28m (+10%). Oakfell grows from £0.60m to £0.77m (+28.3%), so its share rises from 12.5% to 14.6%." loading="lazy">
+  <figcaption>Share rises when a firm grows faster than its market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--08-value-vs-volume.webp" width="900" height="810" alt="A dashed square of 100 by 100 is overlaid by a rectangle 5 percent wider and 2 percent shorter. Its area is 102.9, so value rises 2.9 percent while volume falls 2 percent." loading="lazy">
+  <figcaption>Value is price times units, so value can rise while volume falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
 
 ## Market structures
 
@@ -149,6 +176,12 @@ The specification asks for the determinants without listing them, so this is the
 
 A change in the product's **own price** causes a **movement along** a curve. A change in any other determinant causes a **shift of the whole curve**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--09-movement-vs-shift.webp" width="900" height="910" alt="On the helmet demand curve Q = 900 minus 30P, a rise in the own price slides along the curve from 300 to 120 helmets; a change in another determinant shifts the whole curve left to Q = 780 minus 30P." loading="lazy">
+  <figcaption>A price change moves along the curve; any other determinant shifts it.</figcaption>
+</figure>
+
+
 ### Worked example: constructing the diagram
 
 The weekly market for cycle helmets in a city has these functions, where P is price in pounds and quantities are helmets per week:
@@ -180,6 +213,17 @@ Set QD = QS: 900 − 30P = 20P − 100, so 1,000 = 50P, giving **P = £20** and 
 
 Name the curve that moves, its direction and the cause. Then read off the new equilibrium and compare it with the old.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--12-helmet-supply-shift.webp" width="900" height="1000" alt="A new machine moves supply to QS = 20P + 50. Equilibrium moves from £20 and 300 to £17 and 390; revenue rises from £6,000 to £6,630." loading="lazy">
+  <figcaption>Lower costs shift supply right: price falls, quantity rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--13-helmet-demand-shift.webp" width="900" height="1000" alt="Demand falls to QD = 780 - 30P. Equilibrium moves from £20 and 300 to £17.60 and 252, so price and quantity both fall." loading="lazy">
+  <figcaption>Weaker demand shifts the curve left: price and quantity fall.</figcaption>
+</figure>
+
+
 ### Price and output decisions
 
 Changes in the determinants affect what businesses decide. When demand rises, price rises, and firms may increase output, hire staff or order stock. When demand falls, they may cut price, reduce output or find new markets. When supply rises because costs fall, the firm may cut prices to gain share or keep prices and enjoy higher margin. When costs rise, it must absorb the increase or raise price, depending on market power.
@@ -187,6 +231,12 @@ Changes in the determinants affect what businesses decide. When demand rises, pr
 ### Evaluating the factors affecting demand and supply
 
 Do not just list. Judge which determinant matters most in the case. For a luxury product, income and tastes may dominate. For a farm product, weather may. Consider how large the change is, how long it lasts, whether the business can control or predict it, and whether competitors face the same change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--11-helmet-equilibrium.webp" width="900" height="980" alt="Demand QD = 900 - 30P and supply QS = 20P - 100 cross at £20 and 300 helmets. At £24 there is excess supply of 200; at £14 a shortage of 300." loading="lazy">
+  <figcaption>Equilibrium is where quantity demanded equals quantity supplied.</figcaption>
+</figure>
+
 
 ## Excesses and shortages
 

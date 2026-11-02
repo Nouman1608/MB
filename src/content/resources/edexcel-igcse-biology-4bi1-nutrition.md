@@ -59,6 +59,37 @@ Check the balance: 6 C, 12 H and 18 O on each side.
 
 Why it matters: almost every food chain starts with a photosynthesising producer, so the chemical energy in your food came from light captured by plants. Photosynthesis also releases the oxygen that aerobic organisms use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--02-bubble-count-means.webp" width="900" height="1000" alt="Two rows show a lamp shining on pondweed in water at 10 centimetres and at 25 centimetres. At 10 cm the three counts are 42, 45 and 39 bubbles per minute, mean 42. At 25 cm the counts are 24, 27 and 21, mean 24. The further lamp gives lower light intensity and a slower rate." loading="lazy">
+  <figcaption>Three counts at each distance give a mean; the further lamp gives fewer bubbles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--03-starch-test-steps.webp" width="900" height="990" alt="Four panels. 1: boil the leaf in water for about a minute to kill it and let iodine in. 2: put it in ethanol in a tube standing in hot water, with any flame turned off because ethanol is flammable; ethanol removes the chlorophyll. 3: rinse in warm water to soften it. 4: spread on a white tile and add iodine: blue-black means starch, orange-brown means no starch. The plant is destarched in the dark for about 48 hours first." loading="lazy">
+  <figcaption>Boil, remove chlorophyll in hot ethanol, rinse, then add iodine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--05-soda-lime-co2-test.webp" width="900" height="890" alt="A destarched test plant enclosed with soda lime stays orange-brown with iodine, showing no starch, while the control without soda lime turns blue-black. So carbon dioxide is needed for photosynthesis." loading="lazy">
+  <figcaption>Soda lime removes carbon dioxide, so the test plant makes no starch.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--06-destarching-48h.webp" width="900" height="990" alt="Three steps: keep the plant in the dark for about 48 hours, check a leaf is orange-brown with iodine, then run the experiment in the light so any starch found was made during it." loading="lazy">
+  <figcaption>Destarching means any starch found afterwards was made during the experiment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--04-starch-test-variegated-leaf.webp" width="900" height="1030" alt="A destarched variegated leaf with a foil strip is kept in light then tested with iodine. Green uncovered area a turns blue-black; white area b and foil-covered green area c stay orange-brown. a vs b tests chlorophyll; a vs c tests light." loading="lazy">
+  <figcaption>Only the green, lit area makes starch and turns blue-black.</figcaption>
+</figure>
+
+
 ## Factors affecting the rate (2.20)
 
 - **Light intensity.** Light supplies the energy. More light gives a faster rate, until something else runs short.
@@ -75,6 +106,12 @@ A graph shows rate against light intensity at 0.04% and at 0.4% carbon dioxide, 
 2. On the flat part of the 0.04% curve, more light does nothing but more carbon dioxide raises the rate, so **carbon dioxide is limiting**.
 3. On the flat part of the 0.4% curve, light and carbon dioxide are both high, so the likely limiting factor is **temperature**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--01-limiting-factors-two-co2.webp" width="900" height="980" alt="Graph of rate of photosynthesis against light intensity at 20 degrees Celsius for two carbon dioxide concentrations. Both curves rise together at low light, so light is limiting there. The 0.04 percent curve levels off first at a lower rate, where carbon dioxide is limiting. The 0.4 percent curve levels off higher, where light and carbon dioxide are both high and temperature is the likely limiting factor. The curves are illustrative, computed from a saturating function, not measured data." loading="lazy">
+  <figcaption>At low light both curves match; each then levels off when something else is in short supply.</figcaption>
+</figure>
+
+
 ## Leaf structure (2.21)
 
 | Feature | Adaptation for photosynthesis |
@@ -90,12 +127,24 @@ A graph shows rate against light intensity at 0.04% and at 0.4% carbon dioxide, 
 
 For 2.21, link each feature to light, carbon dioxide or water. Gas exchange in the leaf (2.40B–2.43B) is in sub-topic (g).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
+
 ## Mineral ions (2.22)
 
 Plants also need **mineral ions**, absorbed from the soil by the roots.
 
 - **Magnesium ions** are needed to make **chlorophyll**. Without enough, leaves turn yellow and photosynthesis slows.
 - **Nitrate ions** are needed to make **amino acids**, which are joined into proteins. Without enough, growth is poor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## The photosynthesis practicals (2.23)
 
@@ -148,6 +197,12 @@ A **balanced diet** contains carbohydrate, protein, lipid, vitamins, minerals, w
 - **Age.** Children and teenagers need a lot of energy for their size because they are growing. Older adults are usually less active and need less.
 - **Pregnancy.** A pregnant woman needs extra energy for the growing fetus and placenta and for carrying the extra mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--04-energy-requirements.webp" width="900" height="1105" alt="Three comparisons show that a builder needs more energy than an office worker, growing young people need more than older adults, and a pregnant woman needs extra energy for the fetus, placenta and extra mass. Bar lengths show order only." loading="lazy">
+  <figcaption>Activity, age and pregnancy change how much energy a person needs.</figcaption>
+</figure>
+
+
 ## The alimentary canal (2.27, 2.28)
 
 | Part | Function |
@@ -162,6 +217,12 @@ A **balanced diet** contains carbohydrate, protein, lipid, vitamins, minerals, w
 | Rectum | Stores faeces until they are egested through the anus |
 
 **Peristalsis** moves food along the gut. The gut wall has circular and longitudinal muscles. Behind the food, circular muscle contracts and narrows the gut; in front, it relaxes. Waves of contraction and relaxation push the food along. Fibre gives the muscles something to push against.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--04-peristalsis-wave.webp" width="900" height="1020" alt="Three snapshots of a section of gut with a ball of food in it moving left to right. In each, the circular muscle behind the food contracts and narrows the gut, while the gut in front of the food is relaxed and wider. As the squeeze moves right, so does the food. Fibre gives the muscles something to push against." loading="lazy">
+  <figcaption>Circular muscle contracts behind the food and relaxes in front, so the squeeze moves the food along.</figcaption>
+</figure>
+
 
 ## Digestive enzymes (2.29)
 
@@ -209,6 +270,12 @@ A 0.50 g piece of peanut heats 20 cm³ of water from 19.0 °C to 51.0 °C.
 3. Energy per gram = 2688 ÷ 0.50 = 5376 J/g = **5.38 kJ/g** (3 s.f.).
 
 The result is too low: heat escapes to the air and glass, and burning may be incomplete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-nutrition--05-food-energy-calculation.webp" width="900" height="980" alt="A 0.50 gram peanut is burnt under a boiling tube holding 20 cubic centimetres of water. The water warms from 19.0 to 51.0 degrees Celsius, a rise of 32.0. Energy released is 20 times 4.2 times 32.0 which is 2688 joules. Energy per gram is 2688 divided by 0.50 which is 5376 joules per gram, 5.38 kilojoules per gram. The result is too low because heat escapes. Paper 2 only." loading="lazy">
+  <figcaption>Burning food heats water; the temperature rise gives the energy released.</figcaption>
+</figure>
+
 
 ## Common errors
 

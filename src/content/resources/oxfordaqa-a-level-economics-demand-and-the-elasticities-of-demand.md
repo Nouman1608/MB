@@ -67,10 +67,32 @@ The specification names these influences on spending decisions:
 
 The specification also says that decisions are influenced by social and emotional factors. Examples are following a fashion because friends do, buying to signal status, habit, or comfort spending when feeling low. These change the amount people want at every price, so they shift the curve. Advertising works the same way when it changes preferences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand--01-bakery-movement-vs-shift.webp" width="900" height="940" alt="D1 and D2 for the bakery. A price rise from 4 to 5 pounds moves along D1 from 60 to 40 loaves. A rise in incomes shifts demand right so that 80 loaves sell at 4 pounds, up 33.3% from 60." loading="lazy">
+  <figcaption>Only own price moves you along the curve; any other influence shifts it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ### Common errors on demand
 
 - Saying a price change "shifts" the curve. The good's own price only moves you along it.
 - Mixing up a fall in demand (a shift) with a contraction in quantity demanded (a movement).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand--05-demand-schedule.webp" width="900" height="965" alt="Graph of price against loaves per day with five points from Q = 140 - 20P, plus the schedule below: prices 2 to 6 give 100, 80, 60, 40 and 20 loaves." loading="lazy">
+  <figcaption>Each column of the demand schedule is one point on the downward-sloping demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
 
 ## 3.1.2.2 Price elasticity of demand (PED)
 
@@ -121,6 +143,12 @@ On the bakery's demand curve, PED is not the same at every price. At a point on 
 
 Demand is inelastic at the low-price, high-quantity end and elastic at the high-price end. A straight line therefore has unit elasticity at only one point (here £3.50, 70 loaves).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+
 ## Price elasticity and total revenue
 
 Total revenue = price × quantity sold. It is the same amount as consumers' total expenditure on the good.
@@ -156,6 +184,22 @@ The rule is reliable for small changes. For a large change, work out price × qu
 
 Chain of reasoning: one bakery's sourdough has close rivals, so a price rise sends buyers elsewhere and PED is high. Bread as a category has few outside substitutes, so PED is low.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand--02-bakery-ped-and-revenue.webp" width="900" height="1010" alt="PED at the five bakery prices is 0.40, 0.75, 1.33, 2.50 and 6.00, with unit elasticity at 3.50 pounds and 70 loaves. Revenue bars of 200, 240, 240, 200 and 120 show revenue is highest in the middle of the line." loading="lazy">
+  <figcaption>Elasticity falls down a straight demand line, and revenue peaks near unit elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand--06-ped-factors-scale.webp" width="900" height="920" alt="Six rows each show a factor as a scale from less elastic to more elastic: few or many substitutes, necessity or luxury, share of income, time, market definition and habit." loading="lazy">
+  <figcaption>Each factor pushes price elasticity of demand towards the less elastic or more elastic end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+
 ## Income elasticity of demand (YED)
 
 YED measures how responsive demand is to a change in consumers' income.
@@ -184,6 +228,17 @@ Firms use this for forecasting. If incomes are expected to grow 4%, a product wi
 ### Factors that influence YED
 
 The main factor is the nature of the good. Goods people buy more of as they become better off, such as meals out or holidays, have high positive YED. Basic items and cheap alternatives to a better product have low or negative YED. The income level matters too, because a good can be normal for poorer households and inferior for richer ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand--07-yed-xed-number-lines.webp" width="900" height="840" alt="Two number lines. YED below 0 is an inferior good (bus journeys -1.25), 0 to 1 normal and income inelastic (staple rice +0.2), above 1 normal and income elastic (restaurant meals +1.5). XED negative is complements (printer ink -1.6), near zero unrelated, positive substitutes (baguettes +1.5)." loading="lazy">
+  <figcaption>The sign of YED and XED gives the type of good or relationship; the size gives the strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
 
 ## Cross elasticity of demand (XED)
 

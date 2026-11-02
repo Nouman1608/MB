@@ -45,6 +45,17 @@ Quick recall for sections 2.6 and 2.9 of the Cambridge O Level Economics syllabu
 | Demand | Higher incomes for a normal good, rising popularity, price rise of a substitute, price fall of a complement, population growth, expected future price rise | Lower incomes for a normal good, falling popularity, price fall of a substitute, price rise of a complement, expected future price fall |
 | Supply | Lower costs, better technology, subsidy, good weather, more firms | Higher costs, a new tax, bad weather, fewer firms |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## 2.6.2 Method in steps
 
 1. Name the market and decide which curve moves. A cause that changes buyers moves demand; a cause that changes sellers moves supply.
@@ -93,6 +104,37 @@ If both curves shift, one variable is certain and the other depends on the size 
 - Prices move resources from products with falling demand to those with rising demand.
 - More sales does not always mean more revenue: compare the percentage changes in price and quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market--05-candle-demand-rise.webp" width="900" height="930" alt="A demand and supply diagram for candles. D1 and S meet at price 6 and 80 candles. Demand rises by 40 at every price, giving a shortage of 40 at price 6, and the new equilibrium is price 7 and 100 candles. Total spending rises from 480 to 700." loading="lazy">
+  <figcaption>A rise in demand creates a shortage that pushes price up from 6 to 7 and sales up from 80 to 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market--06-tomato-supply-fall.webp" width="900" height="930" alt="A demand and supply diagram for tomatoes. D and S1 meet at price 12 and 160 tonnes. A poor harvest cuts supply by 60 tonnes at every price, a shortage of 60 at price 12, and the new equilibrium is price 13.5 and 130 tonnes. Price rises 12.5% and sales fall 18.75%, so spending falls from 1,920 to 1,755." loading="lazy">
+  <figcaption>A fall in supply raises price by 12.5% and cuts sales by 18.75%, so total spending falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market--07-bicycles-both-shift.webp" width="900" height="1250" alt="Two diagrams for Town D starting at price 15 and 150 bicycles. Case 1: demand up 60 and supply up 20 gives price 17 and 190 bicycles. Case 2: demand up 20 and supply up 80 gives price 12 and 200 bicycles. Sales rise in both cases; price depends on which shift is bigger." loading="lazy">
+  <figcaption>When both curves shift right, sales rise, and price rises or falls depending on the larger shift.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market--01-four-single-shift-cases.webp" width="900" height="1020" alt="Four small demand and supply diagrams. D right: price and sales rise. D left: both fall. S right: price falls, sales rise. S left: price rises, sales fall. Dashed curve is the original, hollow dot the first equilibrium." loading="lazy">
+  <figcaption>The four single-shift cases on one page, matching the lesson table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market--02-price-signals-resources.webp" width="900" height="790" alt="Top row: price rises, profit per unit rises, firms make more and new firms enter, resources move in. Bottom row: price falls, profit falls, firms cut output or leave, resources are released." loading="lazy">
+  <figcaption>Prices act as signals that reallocate resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+
 ## 2.9 Market economic system
 
 **Definition:** the choices of what, how and for whom are settled mainly by demand and supply through the price mechanism. Resources are mostly privately owned, firms seek profit, consumers choose, and the government plays a small part.
@@ -108,6 +150,12 @@ If both curves shift, one variable is certain and the other depends on the size 
 **Examples of different countries:** no country is purely a market economy. Even the most market-oriented economies have rules on property and contracts and some state services. An invented Country X charges for nearly all services, Country Y funds health and schools from taxes, and Country Z moved from state price controls to market prices.
 
 **Evaluation points:** the answer depends on the product (goods with many sellers suit markets), on how well competition works, on how much people can pay, and on the time period. Most economies use a mix.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## Worked reminder: two shifts at once
 
@@ -164,3 +212,9 @@ Make a point, explain how it works, then qualify it. For example: competition lo
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, sections 2.6 and 2.9, published by Cambridge International.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+

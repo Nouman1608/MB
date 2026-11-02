@@ -45,6 +45,12 @@ The market does three jobs:
 
 Labour is the factor of production workers provide. Its market differs from a market for a good because the "product" is a person's time and effort, so workers care about more than the wage: hours, location, safety and security.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## Demand for labour
 
 Firms demand labour to produce goods and services. Labour demand is therefore a derived demand: it depends on the demand for what the workers make. If customers stop buying a product, the firm needs fewer workers.
@@ -90,15 +96,38 @@ A sketch in words: label the vertical axis with the hourly wage (cu) and the hor
 
 At a wage below equilibrium, demand exceeds supply. At 10 cu there are 100 vacancies and only 60 willing workers: a shortage of 40, so firms compete and the wage is pushed up. At a wage above equilibrium, supply exceeds demand. At 14 cu, 100 want work but firms want 60: a surplus of 40, which is unemployment in this occupation. A wage held above equilibrium by a union deal or a legal minimum has this effect. The wage rises 16.7% (from 12 to 14) but employment falls 25% (from 80 to 60).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+
 ### Shifts in demand
 
 Suppose demand for deliveries rises, so firms want 30 more drivers at every wage. New demand is 230 - 10W. Setting 230 - 10W = 10W - 40 gives 20W = 270, so W = 13.5 cu and employment = 95. Wage rises 12.5% and employment rises 18.75%. The wage bill becomes 13.5 × 95 = 1,282.5 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
 
 ### Shifts in supply
 
 Suppose a training scheme adds 20 drivers at every wage. New supply is 10W - 20. Then 200 - 10W = 10W - 20 gives W = 11 cu and employment = 90. The wage falls 8.3% while employment rises 12.5%. A fall in supply does the reverse: if 20 drivers leave at every wage, the wage rises to 13 cu and employment falls to 70.
 
 Chain of reasoning for an answer: change in a condition → which curve shifts and which way → new equilibrium wage and employment → consequence for workers and firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination--05-driver-wage-shifts.webp" width="900" height="1360" alt="Two labour market diagrams with demand 200 - 10W and supply 10W - 40 giving wage 12 and 80 drivers. If demand rises by 30 drivers at every wage the wage becomes 13.5 and employment 95. If training adds 20 drivers at every wage the wage falls to 11 and employment rises to 90." loading="lazy">
+  <figcaption>A shift of demand or supply gives a new equilibrium wage and level of employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
 
 ## Wage differentials between occupations
 
@@ -116,6 +145,17 @@ Reasons for differentials between occupations:
 - Trade union strength, which can lift pay above the market level.
 - Barriers to entry such as licences.
 - Immobility: workers cannot easily move between jobs or areas, so wage gaps persist. Occupational immobility means lacking the skills for other jobs. Geographical immobility means being unable or unwilling to move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination--06-wage-differentials.webp" width="900" height="1010" alt="Two labour markets on the same scale. Electricians: demand 300 - 5W and supply 5W - 100 give a wage of 40 with 100 workers. Packers: demand 160 - 6W and supply 6W + 40 give a wage of 10 with 100 workers. Long training and licences restrict electrician supply and their output is valuable." loading="lazy">
+  <figcaption>Same employment, but electricians earn four times as much because of lower supply and higher-value output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination--05-immobility-gaps.webp" width="900" height="840" alt="Packers on 10 cu an hour cannot move into electrician jobs on 40 cu an hour without skills and licence (occupational immobility); workers in a town with few jobs cannot or will not move to a town with higher pay (geographical immobility)." loading="lazy">
+  <figcaption>Immobility lets wage gaps persist.</figcaption>
+</figure>
+
 
 ## Wage differentials within occupations
 

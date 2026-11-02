@@ -99,6 +99,17 @@ The zero rule follows from the divide law: a³ ÷ a³ = a⁰, and anything divid
 
 In (d) the 2 inside the bracket is squared too. Writing 2a⁶ is a common slip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--02-zero-negative-indices.webp" width="900" height="962" alt="A ladder of powers of 2 from 2^3=8 down to 2^-3=1/8, each step dividing by 2, so 2^0=1 and negative indices give one over the positive power." loading="lazy">
+  <figcaption>Each step down divides by 2, which makes x^0 = 1 and x^-n = 1/x^n.</figcaption>
+</figure>
+
+
 ### Fractional powers -- Higher tier only
 
 A fractional power means a root:
@@ -118,6 +129,12 @@ A fractional power means a root:
     answer 8x^6
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+
 ## 2.2 Algebraic manipulation (both tiers)
 
 ### Substitution
@@ -133,11 +150,23 @@ Replace each letter with its value **in brackets**, then follow the order of ope
 
 Without brackets, a calculator reads −4² as −16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
+
 ### Collecting like terms
 
 Like terms have exactly the same letters with the same powers. x²y and xy² are **not** like terms.
 
 5x²y − 3xy² + 2x²y + xy² = 7x²y − 2xy²
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
 
 ### One bracket, and taking out common factors
 
@@ -147,6 +176,12 @@ Expanding and factorising are opposite processes.
 - Factorise fully: 18a²b − 12ab² = 6ab(3a − 2b)
 
 "Fully" means the highest common factor of the numbers **and** the letters. 6a(3ab − 2b²) or 3ab(6a − 4b) are only partly factorised and lose the final mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
 
 ### Expanding two linear brackets
 
@@ -169,6 +204,12 @@ Find two numbers that **multiply** to c and **add** to b.
 
 Check by expanding: (x + 7)(x − 5) = x² − 5x + 7x − 35 = x² + 2x − 35.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--01-sym-split-middle-term.webp" width="900" height="800" alt="An area grid has columns 5x and +2 and rows 2x and −3. Its cells are 10x², +4x, −15x and −6. The two middle cells add to −11x and multiply to −60, which is 10 × (−6), giving (2x − 3)(5x + 2)." loading="lazy">
+  <figcaption>Splitting −11x into −15x + 4x turns the quadratic into an area grid whose edges are the factors.</figcaption>
+</figure>
+
+
 ## 2.2 Algebraic manipulation -- Higher tier only
 
 ### Expanding three or more linear brackets
@@ -185,6 +226,12 @@ Multiply two brackets, simplify, then multiply by the next one.
 ```
 
 Quick check: put x = 2. The original gives (3)(5)(−2) = −30. The answer gives 16 − 12 − 46 + 12 = −30.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--03-three-brackets.webp" width="900" height="940" alt="Two area-model grids multiply (2x - 1)(x + 3) then the result by (x - 4). Like terms are shaded alike and added to give 2x cubed - 3x squared - 23x + 12. A check at x = 2 gives -30 both ways." loading="lazy">
+  <figcaption>Expand three brackets as two grids, then collect like terms.</figcaption>
+</figure>
+
 
 ### Factorising any quadratic
 
@@ -233,6 +280,12 @@ To **add or subtract**, use a common denominator. Denominators can be numbers or
 
 In (a) the bracket around the second numerator matters: −3(x − 1) gives +3, not −3. To **divide** by a fraction, multiply by its reciprocal, then factorise and cancel as before.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--05-divide-algebraic-fractions.webp" width="900" height="860" alt="An illustrative worked example: divide (x squared - 9)/(x + 2) by (x + 3)/(x squared - 4). Flip the second fraction, factorise, cancel the matching brackets (x + 3) and (x + 2), and the answer is (x - 3)(x - 2)." loading="lazy">
+  <figcaption>Dividing by a fraction: flip, factorise, cancel.</figcaption>
+</figure>
+
+
 ### Completing the square
 
 For x² + bx + c, halve b: x² + bx + c = (x + b/2)² − (b/2)² + c. If the x² coefficient is not 1, take it out of the x terms first.
@@ -252,6 +305,12 @@ For x² + bx + c, halve b: x² + bx + c = (x + b/2)² − (b/2)² + c. If the x�
 
 So a = 5, b = 2, c = −13. Since (x + 2)² is never negative, the least value of 5x² + 20x + 7 is −13, when x = −2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--04-complete-square-a5.webp" width="900" height="960" alt="Working for 5x squared + 20x + 7 = 5(x+2) squared - 13, beside the graph of the curve. The lowest point is (-2, -13) on the line of symmetry x = -2, and the curve crosses the y axis at 7." loading="lazy">
+  <figcaption>The a = 5 completed square read from the graph vertex.</figcaption>
+</figure>
+
+
 ### Algebraic proof
 
 A proof must work for **every** value, so use letters, not examples. Useful forms, for any integer n: even number 2n; odd number 2n + 1; consecutive integers n, n + 1; consecutive odd numbers 2n − 1, 2n + 1. To show something is a multiple of k, get it into the form k × (an integer).
@@ -268,6 +327,12 @@ Let the odd numbers be 2n - 1 and 2n + 1, where n is an integer.
 
 Testing 3 and 5, then 7 and 9, is not a proof. Finish with a sentence that links your algebra to the claim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--03-sym-odd-squares-proof.webp" width="900" height="876" alt="A 5 by 5 square with a 3 by 3 square removed leaves 16 squares in four strips of 2n = 4 squares each (n = 2). So (2n + 1)² − (2n − 1)² = 4 × 2n = 8n, a multiple of 8." loading="lazy">
+  <figcaption>The ring left between two consecutive odd squares is four strips of 2n squares, so the difference is 8n.</figcaption>
+</figure>
+
+
 ## Calculators and checking
 
 A calculator is allowed on every 4MA1 paper, but calculators with built-in symbolic algebra are prohibited, so all manipulation is done by hand. Use your calculator to check: substitute a simple value such as x = 2 into the question and into your answer. If the two numbers differ, there is an error.
@@ -281,6 +346,12 @@ A calculator is allowed on every 4MA1 paper, but calculators with built-in symbo
 - Cancelling x in (x + 3)/(x + 5). Only whole factors cancel.
 - Completing the square on 3x² + … without taking 3 out first, or forgetting to multiply the "subtract" term by 3.
 - In a proof, using n and n + 2 for consecutive odd numbers without stating that n is odd.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--02-sym-square-not-sum.webp" width="900" height="750" alt="A square of side x + 4 splits into x², two strips of 4x and a 16 square. The two strips make the 8x that x² + 16 leaves out. At x = 2, (2 + 4)² is 36 but 2² + 16 is 20." loading="lazy">
+  <figcaption>(x + 4)² has a middle term 8x, so it is not x² + 16.</figcaption>
+</figure>
+
 
 ## Next steps
 

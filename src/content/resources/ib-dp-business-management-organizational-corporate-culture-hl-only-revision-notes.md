@@ -66,6 +66,17 @@ Memory aid by structure: Zeus is a web, Apollo is a set of pillars (a hierarchy)
 
 Do not say one type is best. Fit decides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--06-culture-iceberg.webp" width="900" height="1000" alt="An iceberg: above the waterline are dress and job titles, office layout, rituals and stories; below are the shared values, such as whether mistakes are punished, whether rank matters and whether staff are consulted." loading="lazy">
+  <figcaption>Culture has a visible layer and a larger hidden layer of values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--07-handy-gods.webp" width="900" height="1010" alt="Zeus, power culture, is a web with one leader at the centre. Apollo, role culture, is a temple of pillars for rules and defined roles. Athena, task culture, is a net of project teams. Dionysus, person culture, is a loose group of skilled individuals." loading="lazy">
+  <figcaption>Handy’s four cultures drawn as four simple structures.</figcaption>
+</figure>
+
+
 ## Hofstede's cultural dimensions (HL only tool)
 
 The guide lists the tool without naming the dimensions, so these are the standard ones.
@@ -84,6 +95,12 @@ Gap calculation: gap = the difference between two scores on the same dimension. 
 Worked reminder: scores 60 and 20 give a gap of 40; 30 and 55 give 25; 75 and 60 give 15. Mean gap = (40 + 25 + 15) / 3 = 80 / 3 = **26.7** (1 d.p.). The largest gap, 40, marks the most likely source of friction.
 
 Limits: national averages say little about one person; teams and firms differ from their country; scores date. Treat them as a starting point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--08-hofstede-gap.webp" width="900" height="1035" alt="Dot chart of four dimensions with invented scores for Kestrel Row and the acquired firm: gaps of 35, 50, 45 and 5. Individualism is the largest gap. The mean gap is 33.75." loading="lazy">
+  <figcaption>The gap on each dimension shows where friction is most likely.</figcaption>
+</figure>
+
 
 ## Cultural clashes
 
@@ -108,6 +125,12 @@ Worked reminder: 18 leavers from an average of 360 staff gives 18 / 360 x 100 = 
 
 Force field analysis (HL only, suggested for Unit 2): list driving and restraining forces, weigh them, and decide which restraining forces to reduce. It supports a recommendation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--10-force-field-merger.webp" width="900" height="900" alt="Driving forces (cost savings, a charismatic leader, clear benefits for staff) push towards the merger; restraining forces (loyalty to the old way, fear of job loss, different pay systems) push against it. The lesson gives no scores, so arrows are equal." loading="lazy">
+  <figcaption>Weigh driving against restraining forces, then reduce the restraining forces first.</figcaption>
+</figure>
+
+
 ### Method for a "clash" question
 
 1. Identify the trigger (growth, merger, leadership change).
@@ -115,6 +138,12 @@ Force field analysis (HL only, suggested for Unit 2): list driving and restraini
 3. Analyse two consequences with evidence from the case.
 4. Weigh severity: size of the gap, importance of the staff who may leave, urgency of the change.
 5. Judge or recommend in one clear sentence, with a reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-organizational-corporate-culture-hl-only--09-merger-clash.webp" width="900" height="960" alt="Bar charts with invented figures: 90% of Lumen staff agree spending needs sign-off against 30% of Northgate staff; staff turnover rose from 4.0% to 11.25% after the merger. A rise is evidence of a clash but not proof." loading="lazy">
+  <figcaption>A clash shows up in survey differences and in rising staff turnover.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,3 +208,9 @@ For "evaluate", "discuss", "justify" or "recommend" on a clash, check that you h
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 2, section 2.5 Organizational (corporate) culture (HL only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+

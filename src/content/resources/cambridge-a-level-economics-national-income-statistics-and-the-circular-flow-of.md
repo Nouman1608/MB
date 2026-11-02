@@ -50,6 +50,12 @@ The same total can be seen in three ways. Firms produce output. Producing it pay
 
 National income is a flow, measured over a period, not a stock held at one moment. Compare it with the stock of wealth, which is the value of assets owned on a given date.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--03-output-income-expenditure.webp" width="900" height="830" alt="Output, income and expenditure are three equal views of one flow over a year, and national income is a flow, not a stock." loading="lazy">
+  <figcaption>Output, income and expenditure are three views of one yearly flow.</figcaption>
+</figure>
+
+
 ## 4.1.2 GDP, GNI and NNI
 
 The syllabus names three measures. Each answers a slightly different question.
@@ -87,6 +93,22 @@ Country B (illustrative) has GDP of 800 billion cu, income earned abroad of 20 b
 
 A large gap between GDP and GNI means output produced inside the country is not the same as income received by its people. Much of the output may be owned from abroad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--04-double-counting-final-goods.webp" width="900" height="780" alt="Flour sold to the baker (30, intermediate) and the loaf (50, final): adding both gives 80 and double counts, GDP counts 50. Prices are illustrative; the lesson names only the flour and loaf." loading="lazy">
+  <figcaption>Only the final loaf is counted, so flour is not counted twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--01-gdp-and-gni.webp" width="900" height="880" alt="GNI equals GDP plus net income from abroad. With illustrative numbers, GDP of 100 and net income of +20 gives GNI of 120; with net income of -15, GNI is 85. GNI can therefore be above or below GDP." loading="lazy">
+  <figcaption>GNI is GDP plus net income from abroad, which can be positive or negative.</figcaption>
+</figure>
+
+
 ## 4.1.3 Market prices and basic prices
 
 Two prices can be used to value output.
@@ -117,6 +139,17 @@ NNI at basic prices = 559 - 56 = 503
 ```
 
 A unit example: a bakery sells a cake for 118 cu. The price includes a product tax of 18 cu, and the bakery also receives a 4 cu subsidy per cake. Basic price = 118 - 18 + 4 = 104 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--06-gdp-to-nni-basic.webp" width="900" height="920" alt="Step chart from GDP 640 through GNI 623 and NNI 559 to NNI at basic prices 503, with the two separate adjustments. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>GDP to GNI adds net income from abroad, gross to net removes depreciation, market to basic removes taxes less subsidies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--05-cake-market-to-basic-price.webp" width="900" height="850" alt="118 market price, minus 18 product tax, plus 4 subsidy gives a basic price of 104." loading="lazy">
+  <figcaption>A cake priced 118 has a basic price of 104.</figcaption>
+</figure>
+
 
 ## 4.1.4 Gross values and net values
 
@@ -166,6 +199,22 @@ The circular flow is a model of how money moves between sectors. Leakages leave 
 
 In a closed economy the flow involves households, firms and the government. In an open economy it also involves the international economy, through exports and imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--01-circular-flow-two-sector.webp" width="900" height="800" alt="Households and firms only. Dashed teal arrows are real flows (factors, goods and services); solid gold arrows are money flows (income, consumer spending). Money paid out as income returns as spending." loading="lazy">
+  <figcaption>The two-sector loop: factors and goods one way, income and spending the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--02-circular-flow-three-sector.webp" width="900" height="880" alt="Government added. Households and firms pay taxes; government pays transfer payments and subsidies and spends on goods and services (G). Taxes leave the flow, G enters it." loading="lazy">
+  <figcaption>Adding the government: taxes out, transfers, subsidies and spending in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--01-circular-flow.webp" width="900" height="980" alt="Households and firms pass spending and income round a loop; saving, taxes and imports leak out and investment, government spending and exports flow in." loading="lazy">
+  <figcaption>Leakages equal injections, so national income is steady; injections above leakages raise it.</figcaption>
+</figure>
+
+
 ## 4.2.2 Injections and leakages
 
 | Leakages (withdrawals) | Injections |
@@ -177,6 +226,12 @@ In a closed economy the flow involves households, firms and the government. In a
 Savings are a leakage because they are not passed back to firms as spending. Savings placed with banks can return as investment, but that return is the injection I, not the saving itself. Only government spending on goods and services is an injection here. Transfer payments are just money moving from the government to households.
 
 Imports are a leakage because the money goes to foreign firms. Exports are an injection because they create income for domestic firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--07-open-circular-flow.webp" width="900" height="925" alt="Open-economy flow with the three leakages (S, T, M) and three injections (I, G, X) at the lesson’s Example 5 values. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Saving, taxes and imports leave the flow; investment, government spending and exports enter it, 305 each.</figcaption>
+</figure>
+
 
 ## 4.2.3 Equilibrium and disequilibrium
 
@@ -202,6 +257,17 @@ Firms raise investment by 25. Injections become 330 against leakages of 305, a n
 Separately, suppose investment stays at 100 and exports fall from 55 to 20. Injections are 100 + 150 + 20 = 270 against leakages of 305, a net leakage of 35. National income falls.
 
 The size of the final change in income is not asked for here, because the multiplier is not required in this section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of--08-injections-vs-leakages.webp" width="900" height="940" alt="Three bar pairs for equilibrium, investment +25 and exports falling to 20. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Injections above leakages make income rise; leakages above injections make it fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## Common errors
 

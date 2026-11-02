@@ -51,6 +51,12 @@ These revision notes condense sections 1.1.5 (The mixed economy) and 1.1.6 (Exte
 
 Take care: this is the usual emphasis. A state-owned firm may be told to cover its costs, and a private firm may care about reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--02-public-sector-size.webp" width="900" height="910" alt="Three bars show government spending as a share of national output: A 30%, B 55%, C 12.5%. B has the largest public sector and C the smallest." loading="lazy">
+  <figcaption>Government spending as a share of output in three fictional countries.</figcaption>
+</figure>
+
+
 ## What, how and for whom in a mixed economy
 
 | Question | Market answer | Government answer |
@@ -61,6 +67,22 @@ Take care: this is the usual emphasis. A state-owned firm may be told to cover i
 
 Link in one line: market gives efficiency and choice; government adds fairness and fills gaps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--11-mx-sector-compare.webp" width="900" height="940" alt="Two columns. Private sector: owned by individuals and shareholders, decided by owners and managers, aims at profit and growth, funded by sales and loans. Public sector: owned by the government, decided by ministers and officials, aims at public welfare and fair access, funded by taxes and borrowing. The aims overlap in practice." loading="lazy">
+  <figcaption>The sectors differ in ownership, control, aims and funding, though the aims overlap in practice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--12-mx-what-how-whom.webp" width="900" height="940" alt="Three rows, each with the market side and the government side. What: firms make what buyers will pay for; the government provides public goods and uses taxes, subsidies and rules. How: firms pick the lowest-cost method; the government sets safety and pollution rules and runs services from public budgets. For whom: goods go to those who can pay; the government taxes higher incomes more, pays benefits and provides free services." loading="lazy">
+  <figcaption>Both sectors take part in each basic decision; the government steps in where the market would leave needs unmet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+
 ## Market failure and intervention
 
 - Market failure means an inefficient allocation of resources.
@@ -68,6 +90,12 @@ Link in one line: market gives efficiency and choice; government adds fairness a
 - Reasons to intervene: provide what the market will not, reduce harm, increase beneficial activity, help those who cannot pay.
 - Tools: tax, subsidy, regulation, direct provision, ownership.
 - Limit: intervention costs money and officials may get it wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--13-mx-intervention-tools.webp" width="900" height="940" alt="A flow from top to bottom. Market failure: resources used inefficiently, either nothing is provided (public goods) or the wrong amount (externalities). Government tools: taxes, subsidies, regulation, direct provision and ownership. But intervention is not free: policies cost money and officials may lack information, which can lead to government failure." loading="lazy">
+  <figcaption>Governments use taxes, subsidies, regulation, direct provision and ownership, but intervention costs money and can fail.</figcaption>
+</figure>
+
 
 ## Public goods in steps
 
@@ -81,6 +109,22 @@ Method for "Explain why a good is a public good":
 Examples: street lighting, flood defences, national defence. Not public goods: a toll bridge (excludable), an ordinary school place (limited and rival), a restaurant meal (rival and excludable).
 
 Small worked reminder: a village of 50 households wants a drain costing 400. Voluntary scheme: only 3 give 10 each = 30, which is 370 short. A local tax of 400 ÷ 50 = 8 each pays for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--01-street-light-funding.webp" width="900" height="1040" alt="A grid of 200 household dots, 40 filled (paying) and 160 free riders, above three bars: cost 900, voluntary payments 240 (660 short) and tax revenue 900. Only compulsory tax covers the cost." loading="lazy">
+  <figcaption>Why voluntary payment fails for a public good but tax succeeds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
 
 ## Roles and importance of the sectors (1.1.5 h, i)
 
@@ -106,6 +150,12 @@ Small worked reminders:
 
 Evaluation prompts: Is the firm a monopoly? Are there regulators? Which group is considered? Short run or long run?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--03-privatisation-bus-company.webp" width="900" height="900" alt="Before and after bars: fare 1.60 to 1.84 (+15%) and workers 2,400 to 1,800 (-25%, 600 jobs). Eight blocks of 15 million show the 120 million sale equals eight years of subsidy." loading="lazy">
+  <figcaption>Effects of privatising a state bus company on fares, jobs and the subsidy.</figcaption>
+</figure>
+
+
 ## Externalities (1.1.6)
 
 | | External cost | External benefit |
@@ -129,6 +179,22 @@ Small worked reminder: a quarry has private cost 40 per tonne and external cost 
 Chain for an external cost: firm ignores harm, so its cost looks low, so it supplies too much, so society suffers net loss. A tax of 12 per tonne would make the firm pay the external cost.
 
 Chain for an external benefit: buyer counts only own gain, so demand is low, so too little is bought, so society misses out. A subsidy or free provision can raise the amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--04-external-cost-chemical-plant.webp" width="900" height="920" alt="A stacked column shows private cost 48 plus external cost 20 giving social cost 68, with the price line at 55. The firm gains 7 per tonne but society loses 13; over 3,000 tonnes the firm profits 21,000 while society loses 39,000." loading="lazy">
+  <figcaption>Why a firm that ignores external costs overproduces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--14-mx-vaccination.webp" width="900" height="870" alt="One dose has a private benefit of 35 and an external benefit of 50, so social benefit is 85. For 8,000 doses the private benefit is 280,000, the external benefit 400,000 and the social benefit 680,000. The external part is 50 divided by 85, which is 58.8 percent. People weigh only the 35, so too few take up vaccines." loading="lazy">
+  <figcaption>Each dose gives 35 of private benefit and 50 of external benefit, so people weigh only 35 of the 85 it is worth to society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--15-mx-congestion.webp" width="900" height="850" alt="A driver’s trip takes 14 minutes, costing 14 times 0.30, which is 4.20. Their presence adds 6 minutes to other drivers in total, an external cost of 6 times 0.30, which is 1.80. Social cost is 4.20 plus 1.80, which is 6.00, equal to 20 minutes. The driver decides on 4.20, not 6.00, so too many trips are made." loading="lazy">
+  <figcaption>A 14-minute trip adds 6 minutes for others; at 0.30 a minute the driver sees 4.20 but society bears 6.00.</figcaption>
+</figure>
+
 
 ## Building a longer answer
 

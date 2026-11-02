@@ -84,6 +84,12 @@ A simple experimental test: mix the reactants in a test tube (or with water,
 for a dissolving process) and measure temperature with a thermometer — a
 rise means exothermic, a fall means endothermic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
+
 ## Enthalpy change, ΔH
 
 The **enthalpy change, ΔH**, is the name given to the thermal energy
@@ -93,6 +99,12 @@ transferred during a reaction, at constant pressure.
 exothermic reaction:  ΔH is negative (energy leaves the system)
 endothermic reaction: ΔH is positive (energy enters the system)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
+</figure>
+
 
 ## Reaction pathway diagrams
 
@@ -116,6 +128,17 @@ then drop to a lower-energy product level — net energy released.
 **Endothermic:** reactants start low, climb over the activation-energy hump,
 then settle at a *higher*-energy product level — net energy absorbed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
+
 ## Why: bond breaking and bond making
 
 Every reaction involves breaking bonds in the reactants and making new bonds
@@ -136,6 +159,12 @@ If more energy is released making bonds than was needed to break them, the
 overall reaction is exothermic (ΔH negative). If breaking the reactants'
 bonds costs more energy than making the products' bonds releases, the
 reaction is endothermic (ΔH positive).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
+
 
 ## Calculating enthalpy change from bond energies
 

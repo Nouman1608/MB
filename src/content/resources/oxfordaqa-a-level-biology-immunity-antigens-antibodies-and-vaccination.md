@@ -68,6 +68,12 @@ Both are lymphocytes. The two types of response work together.
 
 Humoral immunity is called that because it works through antibodies carried in body fluids ("humours"). B cells are *primarily* responsible for it. T cells are needed to start the B cell response, as section 3.2.5.2 explains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ### Phagocytosis and lysosomes
 
 Phagocytes such as neutrophils and macrophages engulf and digest pathogens.
@@ -93,6 +99,12 @@ An **antigen-presenting cell** displays foreign antigens on its surface after ta
 4. The selected B cell divides repeatedly by mitosis (**clonal expansion**), giving many identical cells.
 5. Most of the clones become **plasma cells**, which secrete large amounts of one antibody. Some become **memory cells** (section 3.2.5.3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+
 ### Antibodies
 
 An **antibody** is a protein (an immunoglobulin) made by plasma cells that binds specifically to one antigen.
@@ -106,12 +118,29 @@ Structure of a typical antibody:
 
 A different primary structure in the variable region gives a different binding-site shape, so each antibody is specific.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--05-antibody-structure.webp" width="900" height="1320" alt="An antibody is Y-shaped, with two heavy and two light chains joined by disulfide bridges, a flexible hinge, a variable region at each arm tip forming an antigen-binding site, and a constant stem. Two binding sites let one antibody link two pathogens, so they clump (agglutination)." loading="lazy">
+  <figcaption>Antibody structure explains its specificity and its ability to clump pathogens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
+
 ### The antigen-antibody complex
 
 When an antibody binds its antigen it forms an **antigen-antibody complex**. For bacterial cells, this leads to destruction in two linked ways.
 
 - **Agglutination.** An antibody has two binding sites and can therefore attach to two bacterial cells at the same time. Many antibodies link many cells into clumps. Clumped cells cannot spread easily and are easier to engulf.
 - **Phagocytosis.** Phagocytes bind to the antibodies coating the bacteria and engulf them, and the cells are digested by lysosomes as above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
 
 ## 3.2.5.3 Vaccination
 
@@ -125,6 +154,12 @@ On the next exposure, memory cells recognise the antigen quickly, divide rapidly
 |---|---|
 | Plasma cell | Secretes large quantities of antibody; short-lived |
 | Memory cell | Long-lived; gives the rapid, larger secondary response |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
 
 ### Vaccines and herd immunity
 
@@ -177,6 +212,17 @@ A simple model gives the minimum immune fraction as 1 - 1/R, where R is the mean
 ```
 
 If the vaccine protects only 90 % of those given it, coverage must be 83.3 / 0.9 = **92.6 %**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
 
 ### Example 3: reading an antibody graph
 

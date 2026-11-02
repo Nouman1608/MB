@@ -40,6 +40,12 @@ The finance function is the part of a business that handles its money. Its purpo
 
 Its influence on business activity shows in the decisions it shapes. If finance reports that cash is tight, marketing may have to shrink a campaign and operations may delay new equipment. If it reports healthy profit, the business may recruit or expand. Finance does not work alone: its figures affect every other function, and their needs shape what finance has to report.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--03-finance-steers-decisions.webp" width="900" height="760" alt="Finance sits at the top. If it reports that cash is tight, marketing may shrink a campaign and operations may delay new equipment. If it reports healthy profit, the business may recruit staff and expand. Finance supports planning and decision making." loading="lazy">
+  <figcaption>What finance reports shapes what the rest of the business decides to do.</figcaption>
+</figure>
+
+
 ## 5.2 Sources of finance
 
 ### Why businesses need finance
@@ -67,6 +73,17 @@ A new business has no profit history, so retained profit is not available and le
 Match the source to the need and the time span. Short gaps in cash suit an overdraft or trade credit. Long-term purchases suit a loan, retained profit or capital.
 
 **Example.** Halbeck Kayak Hire has traded for six years. It wants a new storage shed costing £18,000 and has £7,500 of retained profit. Retained profit covers part of the cost without interest. A loan could cover the remaining £10,500. An overdraft would be a poor fit because the need is long-term, not a short gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--09-shed-finance-match.webp" width="900" height="975" alt="An £18,000 shed is funded by £7,500 retained profit and a £10,500 loan. Short gaps suit an overdraft or trade credit; long-term needs suit a loan, retained profit or owners capital." loading="lazy">
+  <figcaption>Match the source of finance to the need and its time span.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
 
 ## 5.3 Revenue, costs, profit and loss
 
@@ -128,6 +145,32 @@ Where you are given yearly profits, average annual profit = total profit ÷ numb
 
 Project A earns more pounds, but Project B earns more for each pound spent. A good answer says so, then adds what ARR leaves out: it ignores risk, and the forecasts may be wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--07-margin-falls-profit-rises.webp" width="900" height="990" alt="Two bars split each £1 of sales: cost of sales, other expenses and net profit, for Year 1 and Year 2. Net profit rose in pounds but gross margin fell from 40% to 38% and net margin from 14% to 13%." loading="lazy">
+  <figcaption>Profit can rise in pounds while the margin falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--08-arr-two-projects.webp" width="900" height="1040" alt="Project A earns more pounds a year (£7,500 against £5,200) but Project B earns more per £100 invested (£16.25 against £15.00)." loading="lazy">
+  <figcaption>ARR compares profit with cost: B 16.25% beats A 15%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--01-revenue-to-profit.webp" width="900" height="1010" alt="A waterfall chart for one week at a market stall. Revenue is 200 items at £5, which is £1,000. Variable costs of £2 an item come to £400 and fixed costs are £400 a week, so total costs are £800. Profit is £1,000 minus £800, which is £200." loading="lazy">
+  <figcaption>Profit is revenue minus total costs, where total costs are fixed plus variable costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+
 ## 5.4 Break-even
 
 **Break-even** is the level of sales at which total costs equal total revenue, so the business makes neither profit nor loss. Below it there is a loss; above it, a profit.
@@ -148,6 +191,22 @@ If Halbeck sells 380 sessions, profit = (380 − 300) × £17 = £1,360. At 250 
 If a result is not a whole number, round up, because part of a session cannot be sold. Raising the price to £30 gives contribution £19 and 5,100 ÷ 19 = 268.4, so 269 sessions.
 
 **Usefulness.** Break-even informs marketing and planning decisions. It shows whether a price is realistic, whether expected sales are enough, and how a price change shifts the sales needed. General limits (not listed in the specification): it assumes all output is sold, and costs and prices stay constant, which real businesses rarely manage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--05-halbeck-break-even.webp" width="900" height="990" alt="Revenue and total cost lines cross at 300 sessions and £8,400. At 250 sessions the loss is £850 and at 380 the profit is £1,360." loading="lazy">
+  <figcaption>Break-even is fixed costs divided by contribution: 5,100 / 17 = 300 sessions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--06-break-even-price-rise.webp" width="900" height="1010" alt="A zoomed chart shows break-even moving left from 300 to 269 sessions when the price rises from £28 to £30." loading="lazy">
+  <figcaption>A higher price raises contribution and lowers break-even; round up to whole sessions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## 5.5 Cash and cash flow
 
@@ -182,6 +241,12 @@ Layout, month by month:
 | Closing balance | £1,600 | −£200 | £1,000 |
 
 February ends £200 overdrawn. Remedies include arranging an overdraft, asking suppliers for longer trade credit, chasing customers who owe money, or delaying a purchase. Because the forecast showed the problem in advance, the owner can act in time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--04-drovers-cash-carried-forward.webp" width="900" height="810" alt="Bars show opening and closing cash for January to March. January opens at 2,400 pounds and closes at 1,600 after net cash flow of minus 800. February opens at 1,600 and closes 200 pounds overdrawn after minus 1,800. March opens at minus 200 and closes at 1,000 after plus 1,200. Dashed arrows carry each closing balance forward as the next opening balance." loading="lazy">
+  <figcaption>Each month closing balance is the next month opening balance; Drovers is 200 pounds overdrawn at the end of February.</figcaption>
+</figure>
+
 
 ## Common errors
 

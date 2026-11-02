@@ -53,6 +53,22 @@ Potential growth = 3.0%
 
 Actual growth (4.5%) exceeds potential growth (3.0%). That is only possible while there is spare capacity, such as idle workers or underused factories. Once capacity is used up, actual growth cannot stay above potential growth without inflation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--07-actual-vs-potential-growth.webp" width="900" height="780" alt="Two bars show actual output and capacity. Year 1: output 800, capacity 880, spare 80. Year 2: output 836, capacity 906.4 (3% higher), spare 70.4. Actual growth is 4.5% and potential growth 3.0%. Actual growth can beat potential growth only while spare capacity lasts." loading="lazy">
+  <figcaption>Actual growth of 4.5% exceeds potential growth of 3.0% only by using up spare capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+
 ## Actual growth from AD (1b)
 
 AD = C + I + G + (X - M). A rise in any component raises actual growth, provided the economy has spare capacity.
@@ -81,6 +97,12 @@ Total = 4.50 percentage points, matching the 4.5% above
 
 **Chain of reasoning for consumption:** lower interest rates or higher confidence, so households borrow and spend more, so firms sell more and hire, so real GDP rises. The same chain works for investment (expected profits), government spending (a policy choice) and net exports (competitiveness, foreign incomes).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--06-growth-contributions.webp" width="900" height="826" alt="Waterfall in percentage points for real GDP growth from 800 to 836. Consumption adds 2.25, investment 1.25, government spending 0.50 and net exports 0.50, a total of 4.50 percentage points, which equals 36 divided by 800." loading="lazy">
+  <figcaption>Each AD component contributes its change divided by year 1 GDP, and the contributions sum to the 4.5% growth rate.</figcaption>
+</figure>
+
+
 ## Export-led growth (1c)
 
 Export-led growth means growth driven mainly by rising exports. International trade matters because:
@@ -99,6 +121,12 @@ If imports rise by 4 as incomes grow: (13.5 - 4)/500 = 1.9 percentage points
 ```
 
 **Evaluation:** heavy reliance on exports leaves the country exposed to a fall in foreign demand or a rise in its exchange rate. Growth also depends on what is exported: manufactured goods with scope for rising productivity differ from a single commodity with a volatile price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--01-export-led-contribution.webp" width="900" height="820" alt="Country B has GDP 500 with exports of 150. A 9% rise adds 13.5, which is 2.7 percentage points of growth if imports are unchanged. If imports rise by 4, 0.8 points is lost and the net contribution is 1.9 points." loading="lazy">
+  <figcaption>Exports add to growth but rising imports take part of it away.</figcaption>
+</figure>
+
 
 ## Causes of potential growth (1d)
 
@@ -123,6 +151,22 @@ FDI is investment by a foreign firm in the home economy. A foreign plant that ad
 
 **The degree of competition.** Competition pressures firms to cut waste (reducing X-inefficiency), invest and innovate. If a firm's average cost falls 5% from 12 to 11.40 per unit, it can supply more at each price. Evaluation: very intense competition may leave firms without the profits to fund investment, and some research-heavy industries are dominated by a few large firms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--10-net-investment-depreciation.webp" width="900" height="842" alt="Gross investment is 165 and depreciation is 110 (5% of 2,200), so net investment is 55 and the capital stock grows 2.5%. With a capital-output ratio of 2.5, potential output rises by 22. A foreign plant adding 40 to the capital stock adds 16." loading="lazy">
+  <figcaption>Only net investment (gross investment minus depreciation) adds to capacity and raises potential output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--02-potential-growth-three-routes.webp" width="900" height="770" alt="Three bar pictures: innovation lifts output per hour from 0.20 to 0.25 (+25%); a net inflow of 80,000 adds 0.8% to a labour force of 10 million; competition cuts average cost 5% from 12 to 11.40." loading="lazy">
+  <figcaption>Innovation, net migration and competition each raise supply capacity by a computed amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Productivity (1e)
 
 Productivity is output per unit of input, usually output per worker or per hour. Because real GDP = employment x output per worker, growth is roughly employment growth plus productivity growth.
@@ -137,6 +181,12 @@ Growth = (420.24 - 400)/400 = 5.06%, close to 2% + 3%
 
 Productivity matters most because a country cannot keep adding workers, whereas productivity can keep rising through capital, skills and technology. It is also what lifts GDP per head.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--08-growth-workers-productivity.webp" width="900" height="870" alt="A rectangle with width equal to the labour force and height equal to output per worker; its area is GDP. Workers rise 2.0% and output per worker 3.0%, so GDP rises from 400bn to 420.24bn, 5.06%, close to 2 plus 3. The corner adds only 0.06%." loading="lazy">
+  <figcaption>Growth is roughly employment growth plus productivity growth, and only productivity can keep rising.</figcaption>
+</figure>
+
+
 ## Benefits of growth (2a)
 
 For each benefit, state the link and then a limit.
@@ -148,6 +198,12 @@ For each benefit, state the link and then a limit.
 - **Higher tax revenues.** If tax is 30% of GDP, revenue rises from 240 to 250.8, an extra 10.8 without raising tax rates.
 - **Improved public services.** The extra revenue can fund health, education and infrastructure. Limit: it depends on government choices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--03-growth-benefits-arithmetic.webp" width="900" height="800" alt="Tax revenue at 30% of GDP rises from 240 to 250.8 as GDP rises 800 to 836. GDP per head rises 4.5% with 40m people but 3.47% (to 20.69) with 40.4m. Output growth of 4.5% with productivity up 3% implies employment up about 1.5%." loading="lazy">
+  <figcaption>Growth lifts tax revenue, living standards and jobs, but less if population grows or skills are missing.</figcaption>
+</figure>
+
+
 ## Costs of growth (3a)
 
 - **Opportunity costs.** Resources used for investment or training cannot be used for current consumption. Moving along the PPF towards capital goods means forgone consumer goods today.
@@ -157,6 +213,17 @@ For each benefit, state the link and then a limit.
 - **Inflation.** If AD rises faster than potential output, demand-pull inflation builds as firms bid for scarce labour and materials.
 
 **Evaluate** by asking: how fast, how sustained, what kind of growth, and who gains?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--09-growth-and-inequality.webp" width="900" height="926" alt="Four bars of monthly income. The bottom group rises from 9 to 9.18 (+2%) and the top group from 52 to 57.2 (+10%). The ratio of top to bottom widens from 5.78 to 6.23, so average income rises while the gap widens." loading="lazy">
+  <figcaption>Growth can widen inequality if the top group gains 10% and the bottom only 2%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--04-emissions-area.webp" width="900" height="960" alt="Emissions are shown as the area of a rectangle, output wide and emissions per unit tall. Before is 100 by 100. After is 105 by 98, an area of 102.9, so total emissions rise 2.9% even though emissions per unit fall 2%." loading="lazy">
+  <figcaption>Cleaner technology can fail to offset growth: 0.98 x 1.05 = 1.029.</figcaption>
+</figure>
+
 
 ## Common errors
 

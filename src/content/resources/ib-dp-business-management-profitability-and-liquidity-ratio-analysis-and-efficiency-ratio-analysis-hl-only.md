@@ -78,6 +78,12 @@ ROCE                = 70,200 / 420,000 x 100 = 16.7% (1 d.p.)
 
 Sales revenue grew by 12.5%, yet all three ratios fell. The cost of sales per dollar of revenue rose from 60 cents to 62 cents, and other expenses grew faster than revenue. A good comment says what moved and gives a likely reason from the case. More revenue is not the same as more profit per dollar.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--01-roce-capital-employed.webp" width="900" height="960" alt="Two bar panels for Vorsley Ceramics in $ thousand. Year 1: capital employed 400 (150 non-current liabilities plus 250 equity) and profit before interest and tax 78 give ROCE 19.5%. Year 2: capital employed 420 and profit 70.2 give 16.7%." loading="lazy">
+  <figcaption>ROCE divides profit before interest and tax by capital employed.</figcaption>
+</figure>
+
+
 ### How to read the ratios
 
 - Compare against the business's own past results, rival firms and its stated objectives. A single ratio on its own tells you little.
@@ -94,6 +100,22 @@ Sales revenue grew by 12.5%, yet all three ratios fell. The cost of sales per do
 | Raise ROCE | Raise profit before interest and tax; or reduce capital employed, for example by selling an unused non-current asset and repaying a long-term loan | Selling assets can reduce capacity; repaying debt uses cash that may be needed |
 
 Match the strategy to the ratio. A question about weak gross profit margin is about price and cost of sales. Cutting the office cleaning contract will not change it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--01-vorsley-profitability.webp" width="900" height="930" alt="Two stacked bars of where each dollar of revenue goes. Year 1: cost of sales 60c, other expenses 25c, profit 15c. Year 2: 62c, 26c, 12c although revenue rose 12.5%. Gross profit margin 40.0 to 38.0%, profit margin 15.0 to 12.0%, ROCE 19.5 to 16.7%." loading="lazy">
+  <figcaption>More revenue does not mean more profit per dollar: costs grew faster than revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--02-profit-strategy-levers.webp" width="900" height="780" alt="A tick table. Raising prices and cheaper inputs lift gross profit margin, profit margin and ROCE; cutting overheads lifts profit margin and ROCE only; cutting capital employed lifts ROCE only. Each lever shows its trade-off." loading="lazy">
+  <figcaption>Match the strategy to the ratio it actually moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## 3.5 Liquidity ratios
 
@@ -127,6 +149,22 @@ The current ratio looks acceptable. The acid test shows that, without selling st
 - **Sell a non-current asset** that is no longer needed, or raise equity, to bring in cash.
 
 A higher ratio is not always better: large idle stock or cash may mean money is not working for the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--02-mabwick-liquidity.webp" width="900" height="1030" alt="Two stacked bars in $ thousand. Current assets 132 (cash 12, debtors 36, stock 84) against current liabilities 100 (creditors 70, overdraft 30). Current ratio 1.32; removing stock leaves quick assets 48, so the acid test is 0.48." loading="lazy">
+  <figcaption>The acid test removes stock, the slowest current asset to turn into cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--03-liquidity-strategies.webp" width="900" height="1010" alt="Paired bars for current ratio and acid test. Today 1.32 and 0.48. Clearance sale at cost: 1.32 and 0.78. Overdraft turned into a five-year loan: 1.89 and 0.69." loading="lazy">
+  <figcaption>Selling stock lifts only the acid test; converting the overdraft lifts both ratios but adds non-current debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
 
 ## 3.6 Efficiency ratios (HL only)
 
@@ -169,11 +207,38 @@ Interpretation. Brisling takes about 40 days to collect from customers but about
 
 Be careful with direction. Falling debtor days is usually an improvement, but a longer creditor period helps cash only if suppliers accept it. If the case says the business wants to grow quickly with borrowed money, a rise in gearing may be a deliberate choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--04-brisling-days.webp" width="900" height="1050" alt="Three bars on a day scale: stock held 47.1 days, customers take 40.0 days to pay, Brisling takes 50.0 days to pay suppliers, so supplier credit helps fund customer credit. Stock turnover is 7.75 times." loading="lazy">
+  <figcaption>Stock, debtor and creditor days compared on one scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--05-capital-employed-gearing.webp" width="900" height="870" alt="One bar for capital employed 450 thousand dollars: non-current liabilities 180 and equity 270. Gearing is 180 divided by 450 times 100, 40.0%. Higher gearing means more fixed interest and repayments and more risk when profit is falling." loading="lazy">
+  <figcaption>Gearing is the share of long-term funds that is borrowed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--03-efficiency-direction.webp" width="900" height="860" alt="Four gauges using Brisling values: stock days 47.1, debtor days 40.0, creditor days 50.0, gearing 40.0%. Arrows show the usually better direction; a shaded zone at the far end names the trade-off (stockouts, customers leave, suppliers strained, cash used or control diluted)." loading="lazy">
+  <figcaption>Better usually means fewer stock and debtor days, more creditor days and lower gearing, but not without limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
+
 ## Insolvency versus bankruptcy (HL only)
 
 **Insolvency** is when a business or person cannot pay debts as they fall due. It is a financial position. **Bankruptcy** is a legal status or process that can follow insolvency, in which a court or official procedure deals with the debts. The guide gives this point as a heading only, so these are general definitions, not the guide's wording. Rules differ between countries, so keep to general terms.
 
 A business can make a profit and still become insolvent. Profit is recorded when a sale is made, but cash arrives later. If debtor days are long, stock is high and creditors demand payment sooner, the bank balance can run out even though the statement of profit or loss looks healthy. This links to liquidity ratios and to section 3.7 on cash flow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--04-insolvent-vs-bankrupt.webp" width="900" height="850" alt="Insolvency is a financial position of being unable to pay debts as they fall due; bankruptcy is a legal status or process that may follow. A line graph with illustrative numbers shows cash falling below the bills due line even though profit can still be positive." loading="lazy">
+  <figcaption>Insolvency is a position; bankruptcy is a legal process that may follow.</figcaption>
+</figure>
+
 
 ## Common errors
 

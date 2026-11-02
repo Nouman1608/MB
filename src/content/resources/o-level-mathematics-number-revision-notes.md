@@ -56,6 +56,22 @@ LCM = 2³ × 3 × 5 × 7 = 840
 
 Check: HCF × LCM = 14 × 840 = 11760 = 56 × 210.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--07-num-hcf-lcm-396-540.webp" width="900" height="890" alt="A Venn diagram of the prime factors of 396 and 540. The shared factors 2, 2, 3, 3 give HCF 36; every factor once gives LCM 5940." loading="lazy">
+  <figcaption>Shared prime factors make the HCF; all prime factors, each counted once at its highest power, make the LCM.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--01-types-of-number.webp" width="900" height="930" alt="Nested ovals show natural numbers inside integers inside rational numbers, with irrational numbers (pi, root 2, root 3) outside, a separate group that cannot be written as a fraction." loading="lazy">
+  <figcaption>Every natural number is an integer, and every integer is rational; irrational numbers are a separate group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## 1.2 Sets
 
 - Notation: ∈, ∉, ⊆, ⊈, ∪, ∩, A′, ∅, ξ and n(A).
@@ -65,11 +81,28 @@ Check: HCF × LCM = 14 × 840 = 11760 = 56 × 210.
 
 **Reminder.** n(ξ) = 50, n(A) = 27, n(B) = 19, n(A ∩ B) = 8. Then n(A ∪ B) = 27 + 19 − 8 = 38 and n((A ∪ B)′) = 50 − 38 = 12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+
 ## 1.3 Powers and roots
 
 - Squares to 15², and their roots. Cubes and cube roots of 1, 2, 3, 4, 5 and 10.
 - For other powers and roots, use the calculator keys: 9^(−1.5) is 1/27 and 32^(2/5) is 4.
 - √(ab) = √a × √b but √(a + b) is not √a + √b.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
 
 ## 1.4 to 1.6 Fractions, decimals, percentages, ordering, operations
 
@@ -86,6 +119,17 @@ Check: HCF × LCM = 14 × 840 = 11760 = 56 × 210.
 
 Negative numbers: subtracting a negative adds. −3 − (−8) = 5, and 4 × (−2.5) = −10. A temperature falling from 3 to −5 degrees changes by 8 degrees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--08-num-mixed-fractions-worked.webp" width="900" height="1010" alt="Four steps: change mixed numbers to improper fractions, subtract as tenths (34 - 17 = 17), multiply 17/10 x 8/3 = 136/30 = 68/15, and write the answer as 4 8/15." loading="lazy">
+  <figcaption>Work in improper fractions, then convert the answer back to a mixed number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## 1.7 Indices
 
 | Rule | Example |
@@ -99,6 +143,12 @@ Negative numbers: subtracting a negative adds. −3 − (−8) = 5, and 4 × (�
 **Reminder.** 8^(−2/3) × 2⁵: 8^(−2/3) = 1/(∛8)² = 1/4, so the product is 32/4 = 8.
 
 To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--09-num-fractional-negative-indices.webp" width="900" height="890" alt="Three flows: (3/2)^-3 flips to (2/3)^3 = 8/27; 64^(2/3) takes the cube root first, 4^2 = 16; 125^(-1/3) flips and takes the cube root to give 1/5." loading="lazy">
+  <figcaption>A negative power flips the fraction; a fractional power takes the root first.</figcaption>
+</figure>
+
 
 ## 1.8 Standard form
 
@@ -125,6 +175,12 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 - Largest difference a − b or quotient a ÷ b: upper a with lower b. Smallest: lower a with upper b.
 
 **Reminder.** Sides 9.3 cm and 6.1 cm, each to 1 decimal place. Upper bound of area = 9.35 × 6.15 = 57.5025 cm². Lower bound of 9.3 ÷ 6.1 is 9.25 ÷ 6.15 = 1.50 to 3 significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--10-num-bounds-of-speed-o-level.webp" width="900" height="870" alt="Bounds 115 to 125 km and 1.45 to 1.55 h. The lowest speed is 115 / 1.55, about 74.2 km/h; the highest, by the same rule, is 125 / 1.45, about 86.2 km/h." loading="lazy">
+  <figcaption>For a speed, the lower bound uses the smallest distance and the largest time.</figcaption>
+</figure>
+
 
 ## 1.11 and 1.12 Ratio, proportion and rates
 
@@ -177,6 +233,17 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 - Rationalise a single surd by multiplying top and bottom by it: 10/√5 = 2√5.
 - For a denominator a + √b, multiply top and bottom by a − √b: 9/(4 + √7) = 9(4 − √7)/(16 − 7) = 4 − √7.
 - Brackets: (1 + √3)² = 1 + 2√3 + 3 = 4 + 2√3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--04-simplify-surds.webp" width="900" height="992" alt="A 6 by 6 grid of 36 squares of area 5 has area 180, so root 180 = 6 root 5. Root 98 + root 50 - root 8 is 7 + 5 - 2 = 10 blocks of root 2, so 10 root 2." loading="lazy">
+  <figcaption>Take out the largest square factor, then add like surds as you would like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--11-num-rationalise-denominator.webp" width="900" height="1030" alt="Four steps: find the conjugate 3 + root 5, multiply top and bottom by it, the new denominator is 9 - 5 = 4, and the fraction cancels to 3 + root 5. A second example 1/(root 6 - 2) becomes (root 6 + 2)/2." loading="lazy">
+  <figcaption>Multiply by the conjugate so the denominator becomes a whole number.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

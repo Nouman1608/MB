@@ -45,6 +45,17 @@ Links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checkl
 - Sources: mass (gravitational), static charge (electric), moving charge (magnetic).
 - **Gravity vs electrostatics.** Same: inverse-square laws, field lines, potential, equipotential surfaces. Different: masses always attract; charges can attract or repel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
+  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
+  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
+</figure>
+
+
 ## Formula table
 
 | Quantity | Gravitational (3.7.2) | Electric (3.7.3) |
@@ -69,6 +80,12 @@ Links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checkl
 | — | Nₛ/Nₚ = Vₛ/Vₚ; efficiency = IₛVₛ/IₚVₚ |
 
 Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, total energy = −GMm/2r, escape velocity v = √(2GM/R).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--04-charged-sphere-field.webp" width="900" height="1040" alt="A −45 nC sphere of radius 2.0 cm acts, outside it, like a point charge at its centre, so r is measured from the centre. At r = 6.0 cm E = 1.1×10⁵ N C⁻¹ inwards. OCR only: C = 4πε₀R for an isolated sphere." loading="lazy">
+  <figcaption>Outside a charged sphere, measure distance from its centre and use the point-charge formula.</figcaption>
+</figure>
+
 
 ## 3.7.2 Gravitational fields: key points
 
@@ -102,6 +119,27 @@ Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, tot
 2. Time between plates: t = plate length ÷ horizontal speed.
 3. Sideways displacement y = ½at²; sideways velocity = at.
 4. Check the direction: positive charges move towards the negative plate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--02-coulombs-law.webp" width="900" height="1100" alt="Like charges repel and unlike charges attract, with equal and opposite forces. +4.8 nC and −3.2 nC at 6.0 cm exert 3.8×10⁻⁵ N on each other. Doubling one charge and tripling the separation multiplies the force by 2/9, from 0.80 mN to 0.18 mN." loading="lazy">
+  <figcaption>The force between point charges follows an inverse square law and acts along the line joining them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
+  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
+  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
+  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
+</figure>
+
 
 ## 3.7.4 Capacitance: key points
 

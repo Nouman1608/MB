@@ -61,6 +61,12 @@ Vectors are written in a row, such as (2, −1, 3), to fit a phone screen. Write
 - **Skew lines**: non-parallel lines that do not intersect (three dimensions only).
 - **Normal to a plane**: a vector perpendicular to every direction in the plane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--01-vector-proof-midpoints.webp" width="900" height="940" alt="Triangle OAB with M and N the midpoints of OA and OB. OM = a/2 and ON = b/2, so MN = ON - OM = (b - a)/2 = AB/2: MN is parallel to AB and half as long." loading="lazy">
+  <figcaption>Write every vector in terms of a and b; a scalar multiple proves parallel lines.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula | Section |
@@ -128,6 +134,12 @@ Properties to quote: v · w = w · v and v · v = |v|²; v × w = −w × v and 
 2. Speed is |b|. Position at time t: substitute t.
 3. To test for a collision, use the same t for both objects. To test whether paths cross, use different parameters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--04-how-two-lines-meet.webp" width="900" height="1010" alt="A decision chart for two lines: parallel directions with a common point give coincident lines, without one give parallel lines. Non-parallel directions: solve two components and test the third; if it holds the lines intersect (example at (3, 0, 7)), otherwise they are skew (z = 7 against z = 8)." loading="lazy">
+  <figcaption>Check directions first, then solve two components and test the third.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - (3, −1, 2) × (1, 0, 4) = ((−1)(4) − (2)(0), (2)(1) − (3)(4), (3)(0) − (−1)(1)) = (−4, −10, 1). Check with the scalar product: (−4, −10, 1) · (3, −1, 2) = −12 + 10 + 2 = 0.
@@ -144,6 +156,32 @@ Properties to quote: v · w = w · v and v · v = |v|²; v × w = −w × v and 
 - **Position a vs direction b in r = a + λb.** a is a point; b sets the direction. Any point on the line can replace a, and any non-zero multiple can replace b.
 - **Velocity vs speed.** In r = a + tb, b is the velocity; |b| is the speed.
 - **No solution for three planes.** Either at least two planes are parallel, or they form a triangular prism. Check the normals to tell which.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--02-scalar-product-angle.webp" width="900" height="920" alt="Vectors u (length 3) and v (length 5) meet at 109 degrees. The component of u along v is -1, so u . v = 3 x 5 x (-1/3) = -5. A positive scalar product means an acute angle, zero means perpendicular and negative means obtuse." loading="lazy">
+  <figcaption>The sign of u . v tells you whether the angle is acute, right or obtuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--03-three-forms-of-a-line.webp" width="900" height="787" alt="The line through A(1, -2, 4) and B(3, 1, 2) in 3D with position vector a and direction b = (2, 3, -2). Points for lambda = -1, 0, 1, 2 are marked. The same line is r = (1, -2, 4) + lambda(2, 3, -2), x = 1 + 2 lambda etc., and (x - 1)/2 = (y + 2)/3 = (z - 4)/(-2)." loading="lazy">
+  <figcaption>A line is a point plus any multiple of a direction, written in vector, parametric or Cartesian form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--06-equation-of-a-plane.webp" width="900" height="786" alt="The plane through A(1, 0, 0), B(3, 1, -1) and C(2, 3, 2) with a normal arrow. n = AB x AC = (5, -5, 5), so use (1, -1, 1); a . n = 1 gives x - y + z = 1, which B and C both satisfy." loading="lazy">
+  <figcaption>A normal vector and one point give r . n = a . n, and so ax + by + cz = d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--07-line-meets-plane.webp" width="900" height="906" alt="A side view of the line crossing the plane at t = 3/2, at (5/2, 7/2, 2). The angle phi between line and plane has sin phi = |b . n| / (|b||n|) = root 2 / 3, so phi = 28.1 degrees; the angle with the normal is 61.9 degrees." loading="lazy">
+  <figcaption>Substitute the line into the plane to find the point; use sin for the line-plane angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--08-three-planes.webp" width="900" height="950" alt="Four pictures of three planes: one point (1 solution), a common line like pages of a book (infinitely many), a triangular prism (no solution) and parallel planes (no solution). Example: x + y + z = 6, 2x - y + z = 3, x + 2y - z = 2 meet at (1, 2, 3)." loading="lazy">
+  <figcaption>Counting solutions of three equations tells you how three planes meet.</figcaption>
+</figure>
+
 
 ## Quick self-test
 
@@ -187,6 +225,12 @@ Properties to quote: v · w = w · v and v · v = |v|²; v × w = −w × v and 
 - Forgetting the ½ for a triangle area from a vector product.
 - Describing a "no solution" case for three planes without saying whether any planes are parallel.
 - Decimals on Paper 1 where exact answers such as 5√3/2 or 2/√42 are expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-vectors-lines-planes--05-vector-product-area.webp" width="900" height="852" alt="Two vectors in the x-y plane make a parallelogram of area 5. Their vector product (0, 0, 5) is perpendicular to both, points along the right-hand screw direction, and its length equals the area; half of it is the triangle area. Reversing the order reverses the sign." loading="lazy">
+  <figcaption>The vector product is perpendicular to both vectors and its length is the parallelogram area.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

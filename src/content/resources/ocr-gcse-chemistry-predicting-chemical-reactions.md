@@ -48,6 +48,12 @@ Members of one group share an outer-electron count, so they react alike. Down a 
 
 A single sodium atom is not soft or silvery; those are bulk properties of the metal. Explain with particles, not bulk properties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
+
 ## Group 1: the alkali metals
 
 Rubidium and caesium are too reactive for school use, so you predict their behaviour.
@@ -77,6 +83,22 @@ With water, lithium fizzes steadily, sodium melts into a ball and darts about, a
 
 A prediction longer than 2 s would break the trend.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--05-group1-caesium-prediction.webp" width="900" height="960" alt="Reaction times with water: Li 75 s, Na 21 s, K 6 s, Rb 2 s, each about a third of the one before. Caesium is predicted at under 1 s and explosive, as its outer electron is lost most easily." loading="lazy">
+  <figcaption>Continue the trend down the group to predict caesium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+
 ## Group 7: the halogens
 
 The halogens exist as **diatomic molecules** (F₂, Cl₂, Br₂, I₂).
@@ -97,6 +119,12 @@ Melting and boiling points **increase** down the group, as bigger molecules attr
 
 A halogen higher in the group pushes a lower halogen out of its salt solution, and you watch for a colour change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+
 ### Worked example 2: bromine water and sodium iodide
 
 *Orange bromine water is added to colourless sodium iodide solution. Predict what you would see, and write the equation.*
@@ -108,11 +136,28 @@ A halogen higher in the group pushes a lower halogen out of its salt solution, a
 
 Bromine water added to sodium chloride solution stays orange: bromine is less reactive than chlorine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--07-un112-group-mp-trends.webp" width="900" height="1210" alt="Group 1 melting points fall from lithium 181 to caesium 29 degrees C. Group 7 melting and boiling points rise from chlorine to iodine." loading="lazy">
+  <figcaption>Opposite melting-point trends in Groups 1 and 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+
 ## Group 0: the noble gases
 
 Helium, neon, argon, krypton and xenon are colourless gases at room temperature. They exist as **single atoms** (monatomic). Boiling points and densities **increase** down the group as the atoms get larger.
 
 They are very unreactive because each atom has a stable **full outer shell** (two electrons for helium, eight for the others), so it does not lose, gain or share electrons, even with another atom of its own kind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
 
 ## Transition metals (C4.1c)
 
@@ -144,6 +189,17 @@ The transition metals sit in the central block, between Groups 2 and 3. Iron, co
 
 Iron also forms FeCl₂, so iron has ions with different charges. The product is heavier than the iron because chlorine has combined with it; likewise a metal oxide weighs more than the metal burned to make it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--05-un112-fecl3-empirical.webp" width="900" height="950" alt="1.12 g of iron gives 3.25 g of product so chlorine is 2.13 g. Moles are 0.020 Fe and 0.060 Cl, a ratio of 1 to 3, giving FeCl3 and Fe3+." loading="lazy">
+  <figcaption>Finding FeCl3 from masses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+
 ## Metals with water and dilute acid (C4.1e)
 
 When a metal reacts with water or acid, its atoms **lose electrons** to form positive ions, for example Mg → Mg²⁺ + 2e⁻. The more easily it forms its positive ion, the more vigorous the reaction.
@@ -164,6 +220,12 @@ A reactivity series covering the common laboratory metals, most reactive first: 
 
 For a fair comparison, keep the volume and temperature of the liquid (and the acid's concentration) the same and use similar-sized pieces of metal. Collect gas in a gas syringe or upturned measuring cylinder.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--06-un112-ca-mg-rate.webp" width="900" height="1110" alt="Volume against time lines show calcium giving 72 cm3 in 40 s (1.8 cm3/s) and magnesium 3 cm3 in 600 s (0.005 cm3/s), with a flask and gas syringe for collecting the gas." loading="lazy">
+  <figcaption>Calcium is 360 times faster than magnesium.</figcaption>
+</figure>
+
+
 ## Deducing reactivity from experiments (C4.1f)
 
 A metal higher in the series **displaces** a lower one from its dissolved salt. Zinc in copper(II) sulfate gives zinc sulfate and a brown coating of copper: Zn + CuSO₄ → ZnSO₄ + Cu. The blue colour fades as Cu²⁺ ions are removed.
@@ -183,6 +245,12 @@ Two kinds of result build an order:
 4. Order, most reactive first: **X > Z > copper > Y**.
 
 Repeat each test, and use a lidded polystyrene cup to reduce energy loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--06-displacement-temperature-rise.webp" width="900" height="890" alt="Temperature rises with copper sulfate solution: X +12.5, Z +5.0, Y 0 degrees C. X and Z displace copper, Y does not, so the order is X, Z, copper, Y." loading="lazy">
+  <figcaption>A larger temperature rise means a more reactive metal.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -62,6 +62,17 @@ These notes condense section 3.5, Decision making to improve financial performan
 | Profit | Total contribution − fixed costs |
 | Output for target profit | (Fixed costs + target profit) ÷ contribution per unit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--01-roi-debt-quillborough.webp" width="900" height="960" alt="A bar for the 84,000 pound oven cost has a gold slice of 12 percent of its length, the 10,080 pound yearly profit, giving ROI of 12 percent. Two funding bars show debt share rising from 40 percent (240,000 of 600,000) to 48.6 percent (340,000 of 700,000) after another 100,000 pound loan." loading="lazy">
+  <figcaption>Return on investment is profit gained over the amount invested; debt share is long-term debt over total long-term funding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--06-margins-ludbrook.webp" width="900" height="980" alt="Paired bars compare this year and last year margins: gross 44.0 against 42.0 percent, operations 11.2 against 6.0, and profit for the year 7.5 against 3.0, with this year amounts of 550,000, 140,000 and 93,150 pounds." loading="lazy">
+  <figcaption>The operating margin nearly doubled, so costs grew more slowly than sales.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Variance analysis in steps**
@@ -92,6 +103,12 @@ These notes condense section 3.5, Decision making to improve financial performan
 - Higher variable cost: total cost line steeper; break-even rises.
 - Higher fixed costs: total cost line starts higher, same slope; break-even rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--02-variances-almondsbury.webp" width="900" height="1010" alt="Bars left and right of a zero line show adverse and favourable variances: revenue 4,000 F, materials 3,360 A, labour 1,000 F, overheads 700 A, giving a profit variance of 940 F. A note shows materials were 12 percent over budget but about 29,400 pounds was expected on 5 percent higher sales, so the real overspend is 1,960." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it cuts it; ask why, not just the sign.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Return on investment and debt.** Raithby Print spends £50,000 on a press that adds £6,500 to profit a year. ROI = 6,500 ÷ 50,000 × 100 = **13%**. With £90,000 of loans and £210,000 of equity, debt is 90 ÷ 300 = **30%** of long-term funding.
@@ -101,6 +118,17 @@ These notes condense section 3.5, Decision making to improve financial performan
 **Break-even.** Umberleigh Cards sells at £15 with variable cost £6 and fixed costs £27,000. Contribution = £9; break-even = 27,000 ÷ 9 = **3,000**. At 3,600 planned, margin of safety = **600** and profit = 9 × 3,600 − 27,000 = **£5,400**. At a £17 price, contribution is £11 and break-even is 2,454.5, so **2,455**.
 
 **Margins.** Revenue £200,000, cost of sales £120,000, operating expenses £52,000, finance costs £6,000, tax 20% of profit before tax. Gross profit £80,000 (40.0%). Profit from operations £28,000 (14.0%). Profit before tax £22,000, tax £4,400, profit for the year **£17,600** (8.8%).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--04-break-even-strathwick.webp" width="900" height="1030" alt="Revenue, total cost and fixed cost lines against output in units. Revenue and total cost cross at 3,500 units and 140,000 pounds. The shaded loss area is left of that point and profit area right of it. Planned output of 4,400 is 900 units beyond break-even." loading="lazy">
+  <figcaption>Break-even is where revenue equals total cost; the gap to planned output is the margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--05-break-even-changes.webp" width="900" height="940" alt="Four bars show break-even output: 3,500 now, 2,864 if price rises to 44 pounds, 4,200 if variable cost rises to 25 pounds and 3,900 if fixed costs rise to 70,200 pounds. A dashed line marks the original 3,500." loading="lazy">
+  <figcaption>Each change in price or cost moves break-even; a change in output alone does not.</figcaption>
+</figure>
+
 
 ## Sources of finance at a glance
 
@@ -115,11 +143,33 @@ These notes condense section 3.5, Decision making to improve financial performan
 
 **Debt factoring reminder.** Invoices of £20,000, 90% advanced, 2% fee: advance £18,000, fee £400, total received £19,600. The figures are invented for practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--02-factoring-48k.webp" width="900" height="935" alt="A bar of £48,000 invoices splits into a £40,800 advance now, £6,480 paid later and a £720 fee. Wynnstay receives £47,280, so the cost of speed is £720." loading="lazy">
+  <figcaption>Factoring brings cash now at a cost of £720.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--09-sources-by-time.webp" width="900" height="784" alt="Grid of six sources by internal or external and short, medium to long or long term, matching the lesson table." loading="lazy">
+  <figcaption>Match the source to the time need.</figcaption>
+</figure>
+
+
 ## Improving cash flow and profit
 
 - **Cash flow:** chase receivables, early-payment discount, factoring, longer supplier terms, lower stock, delay capital spending, overdraft, sell spare assets.
 - **Profit and profitability:** raise price, raise volume, cut variable or fixed costs, change supplier, improve productivity, change product mix.
 - **Difficulties:** discounts cut income; tighter credit loses customers; price rises can cut demand; cost cuts can harm quality; suppliers may refuse terms; profit and cash can pull in opposite directions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--03-cash-forecast-rosecombe.webp" width="900" height="960" alt="A line chart of the cash balance from 6,000 pounds opening through 3,500, minus 3,500, minus 1,500 and 5,500. The area below zero is shaded as overdrawn. Net cash flows of minus 2,500, minus 7,000, plus 2,000 and plus 7,000 sit under the months." loading="lazy">
+  <figcaption>The forecast shows a gap of up to 3,500 pounds in February, so short-term finance should be arranged first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--07-methods-and-risks.webp" width="900" height="866" alt="Five methods for improving cash flow or profit, each with an arrow to its difficulty as the lesson states it." loading="lazy">
+  <figcaption>Name the method, show its effect, weigh the risk.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

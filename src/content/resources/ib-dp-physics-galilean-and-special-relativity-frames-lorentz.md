@@ -59,6 +59,12 @@ Time is the same for everyone. Differentiating gives the velocity addition rule 
 
 This works well at everyday speeds. It fails for light, which leads to special relativity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--01-galilean-transformation.webp" width="900" height="960" alt="Two position axes at the same instant, t = t′ = 40 s. Frame S′ moves at 12 m/s, so its origin is 480 m along S. An event at x = 300 m in S is at x′ = -180 m in S′. A car at 30 m/s in S has u′ = 18 m/s in S′." loading="lazy">
+  <figcaption>Galilean transformation: x′ = x - vt, t′ = t and u′ = u - v.</figcaption>
+</figure>
+
+
 ## The two postulates
 
 1. **The laws of physics take the same form in every inertial reference frame.**
@@ -87,6 +93,12 @@ Useful values: γ = 1.25 at 0.60c, 1.667 at 0.80c, 2.29 at 0.90c, 5.03 at 0.98c.
 
 The event has a negative x′ even though x is positive. That is allowed: S′ has moved away from S, so the event lies behind the S′ origin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--03-gamma-factor.webp" width="900" height="900" alt="A graph of gamma against v/c, close to 1 at low speed and rising steeply towards c, with points 1.25 at 0.60c, 1.667 at 0.80c, 2.29 at 0.90c and 5.03 at 0.98c." loading="lazy">
+  <figcaption>Gamma is close to 1 at everyday speeds and grows without limit as v approaches c.</figcaption>
+</figure>
+
+
 ## Relativistic velocity addition
 
 Substituting the Lorentz equations for a moving object gives
@@ -101,6 +113,12 @@ where u is the object's velocity in S and v the velocity of S′ relative to S. 
 u′ = (−0.60c − 0.70c)/(1 − (−0.60)(0.70)) = −1.30c/1.42 = **−0.915c**.
 
 The rocket's speed in S′ is 0.915c, below c. Galilean addition would give 1.30c, which is impossible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--02-velocity-addition.webp" width="900" height="930" alt="A graph of u′ against u for S′ moving at 0.70c. The Galilean line gives -1.30c for u = -0.60c, beyond light speed; the relativistic curve gives -0.915c and keeps light at c." loading="lazy">
+  <figcaption>Relativistic velocity addition never exceeds c and keeps the speed of light the same in every frame.</figcaption>
+</figure>
+
 
 ## The invariant interval
 
@@ -121,6 +139,12 @@ Different observers disagree on Δt and Δx between two events, but they agree o
 
 A frame moving at v = Δx/Δt = 0.80c sees both events at one place. Check: γ = 1.667 and 5.0/1.667 = 3.0 s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--04-invariant-interval.webp" width="900" height="980" alt="The same two events in S (dx = 1.2e9 m, c dt = 1.5e9 m) and in S′ at 0.80c (dx′ = 0, c dt′ = 0.9e9 m). Both give (Delta s)^2 = 0.81e18 m^2, so Delta s = 0.9e9 m and proper time 3.0 s." loading="lazy">
+  <figcaption>The interval Delta s is the same in every inertial frame, and the proper time is Delta s divided by c.</figcaption>
+</figure>
+
+
 ## Time dilation
 
 If a clock is at rest in a frame, the interval it records between two ticks is a proper time Δt₀. An observer who sees the clock moving at speed v measures a longer interval:
@@ -129,6 +153,12 @@ If a clock is at rest in a frame, the interval it records between two ticks is a
 
 
 Moving clocks run slow as judged by the observer. The effect is symmetric between two inertial observers, since each sees the other's clock running slow. The derivation is not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--05-time-dilation.webp" width="900" height="980" alt="Top: one clock at one place records 3.0 s (proper time). Bottom: in the Earth frame the same events are 1.2e9 m apart and need two clocks, giving 5.0 s. The longer bar is gamma times the shorter." loading="lazy">
+  <figcaption>Proper time is the shorter interval, measured on one clock where both events happen.</figcaption>
+</figure>
+
 
 ## Length contraction
 
@@ -141,6 +171,12 @@ Only lengths parallel to the motion contract. The effect is symmetric, and it is
 
 **Worked example 5.** A spacecraft has proper length 84 m and passes you at 0.90c. γ = 2.294, so L = 84/2.294 = **36.6 m**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--06-length-contraction.webp" width="900" height="930" alt="A spacecraft of proper length 84 m is drawn to scale at rest and passing at 0.90c with length 36.6 m, with a dashed outline of its rest length. Its height is unchanged." loading="lazy">
+  <figcaption>Only lengths parallel to the motion contract: L = L₀/γ.</figcaption>
+</figure>
+
+
 ## Relativity of simultaneity
 
 Events that are simultaneous in one frame are generally **not** simultaneous in another when they are at different x. From the Lorentz equation, two events with Δt = 0 and Δx in S have Δt′ = −γvΔx/c² in S′.
@@ -150,6 +186,12 @@ Events that are simultaneous in one frame are generally **not** simultaneous in 
 Δt′ = γ(0 − vΔx/c²), with γ = 1.155 and vΔx/c² = 0.50 × 600/(3.00 × 10⁸) = 1.0 × 10⁻⁶ s. So Δt′ = **−1.15 μs**. The flash at the larger x is seen to happen first in S′.
 
 Events at the same place and time in one frame are the same event in all frames.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--07-simultaneity.webp" width="900" height="910" alt="A space-time diagram with flashes A and B 600 m apart on the same horizontal line, so simultaneous in S. The tilted x′ line through B meets the ct′ axis at -346 m (-1.15 us), so B happens first in S′ moving at 0.50c." loading="lazy">
+  <figcaption>Events simultaneous in S but at different x are not simultaneous in S′.</figcaption>
+</figure>
+
 
 ## Space-time diagrams
 
@@ -165,6 +207,12 @@ Simultaneity, dilation and contraction can all be read from such a diagram. For 
 
 For v = 0.60c, θ = tan⁻¹(0.60) = 31.0°. For v = 0.80c, θ = 38.7°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--08-spacetime-axes.webp" width="900" height="1010" alt="A space-time diagram with light lines at 45 degrees and the S′ axes for 0.60c tilted by 31.0 degrees towards the light line. Event P (x = 1.0, ct = 2.0 light-seconds) is read in S′ along lines parallel to the primed axes: x′ = -0.25, ct′ = 1.75." loading="lazy">
+  <figcaption>Read S′ coordinates along lines parallel to the tilted primed axes, not perpendicular to them.</figcaption>
+</figure>
+
+
 ## Evidence from muon decay
 
 Muons are unstable particles made when cosmic rays strike the upper atmosphere. Their proper mean lifetime is about 2.2 μs, yet many reach ground level. This supports special relativity.
@@ -176,6 +224,12 @@ Muons are unstable particles made when cosmic rays strike the upper atmosphere. 
 3. In the muon frame the layer is contracted to 6000/5.03 = **1.19 km**, crossed in 1.19 km/(0.98c) = **4.1 μs**.
 
 Both explanations agree: time dilation in the Earth frame, length contraction in the muon frame. This is why the experiments support both effects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--09-muon-decay.webp" width="900" height="980" alt="Two views of muons at 0.98c with lifetime 2.2 us. In the Earth frame, dilation lets them travel 3.3 km instead of 650 m. In the muon frame, the 6.0 km layer is contracted to 1.19 km and crossed in 4.1 us." loading="lazy">
+  <figcaption>Time dilation in the Earth frame and length contraction in the muon frame explain the same observation.</figcaption>
+</figure>
+
 
 ## Common errors
 

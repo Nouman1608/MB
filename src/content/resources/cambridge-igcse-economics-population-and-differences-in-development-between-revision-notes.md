@@ -93,11 +93,23 @@ Closing population = 5,050,000
 - Low-income countries tend to have higher birth rates. A rich ageing country can still have a higher death rate than a poorer, younger one.
 - Death rate falls first as healthcare improves. Birth rate falls later. Growth is fastest in between.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--05-dev-rates-sequence.webp" width="900" height="740" alt="Schematic graph: both birth and death rates start high, the death rate falls first, the birth rate falls later, and the gap between them (fast population growth) is widest in between. Both end low and growth slows. Shape only, not data." loading="lazy">
+  <figcaption>Death rate falls first, birth rate later, so growth is fast in between (schematic).</figcaption>
+</figure>
+
+
 ## 5.3.3 Effects of changes in population
 
 ### Optimum population
 
 Optimum = highest output per head. Check by working out output ÷ population in every row.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--04-pop-change-components.webp" width="900" height="1050" alt="Bars either side of zero. Country A: natural change +380, net migration -80, total +300 thousand (1.5 percent). Country B: natural change -30, net migration +50, total +20 thousand (0.2 percent), growing only through immigration." loading="lazy">
+  <figcaption>Total change is natural change plus net migration.</figcaption>
+</figure>
+
 
 ### Small worked reminder (Country G, illustrative)
 
@@ -129,6 +141,17 @@ Read in this order: base (young), middle (workers), top (elderly). Then compare 
 | More women at the top | Women live longer on average | More elderly women needing care |
 | Fewer women than men at working ages | Perhaps inward migration of male workers or higher female death rates | Affects the labour supply and family formation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--06-pop-pyramids.webp" width="900" height="790" alt="Two simplified pyramids. Country C has 36 percent aged 0-14 and 6 percent aged 65+; Country D has 13 percent and 28 percent, with more elderly women (16) than men (12)." loading="lazy">
+  <figcaption>A wide base means a young population; a wide top means an ageing one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--04-dev-dependency-ratio.webp" width="900" height="860" alt="Two pyramids from the lesson table: Country C (36% aged 0-14, 58% aged 15-64, 6% aged 65+) has a dependency ratio of 72.4; Country D (13%, 59%, 28%) has 69.5. The ratios are similar but C faces school and job costs and D faces pension and care costs." loading="lazy">
+  <figcaption>Two pyramids with similar dependency ratios but different burdens.</figcaption>
+</figure>
+
+
 ### Small worked reminder: dependency ratio
 
 Country H (illustrative): 28% aged 0-14, 65% aged 15-64, 7% aged 65+. Ratio = (28 + 7) ÷ 65 × 100 = 53.8. Roughly 54 dependants rely on each 100 people aged 15-64.
@@ -139,6 +162,12 @@ Country H (illustrative): 28% aged 0-14, 65% aged 15-64, 7% aged 65+. Ratio = (2
 - Say whether the effect is short run or long run.
 - Say who gains and who loses: firms, workers, taxpayers, the elderly.
 - Mention government policy: education and training, pensions, retirement age, family support, migration rules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--05-pop-optimum.webp" width="900" height="910" alt="Output per head for Country E is 10, 13, 15, 14 and 12 at populations of 10 to 50 million. It peaks at 30 million, the optimum; below that the country is under-populated and above it over-populated." loading="lazy">
+  <figcaption>The optimum is the population with the highest output per head.</figcaption>
+</figure>
+
 
 ## 5.4.1 Differences in development
 
@@ -159,6 +188,22 @@ GDP growth 4.0%, population growth 3.0%: 1.04 ÷ 1.03 − 1 = 0.97% a year. Savi
 ### Evaluation chain: the income cycle
 
 Low income → low saving → low investment → low productivity → low income. Education, healthcare, investment and lower population growth can each break the cycle. No single measure always works best. Averages hide inequality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--01-dev-cycle-of-low-income.webp" width="900" height="860" alt="A cycle of three boxes for Country X: low income (2,400 GDP per head) leads to low saving and schooling (144 saved per head), then low productivity (6,000 per worker), which keeps income low. Four ways to break the cycle are listed." loading="lazy">
+  <figcaption>The cycle of low income and four ways to break it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--02-dev-country-x-vs-y.webp" width="900" height="900" alt="Bars compare invented Countries X and Y: GDP per head 2,400 against 30,000 (12.5 times), output per worker 6,000 against 60,000 (10 times), saving per head 144 against 6,600 (about 45.8 times)." loading="lazy">
+  <figcaption>Income, productivity and saving per head in Country Y are many times those of Country X.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--03-dev-growth-per-head.webp" width="900" height="930" alt="GDP growth 3.4% less population growth 2.8% leaves only 0.58% a year in Country X (about 14 extra on 2,400). Country Y: 2.1% and 0.3% leave 1.79% (about 538 extra on 30,000)." loading="lazy">
+  <figcaption>Fast population growth eats up most of the GDP growth of Country X.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

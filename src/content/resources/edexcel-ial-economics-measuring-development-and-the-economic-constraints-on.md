@@ -61,6 +61,12 @@ The arithmetic mean would be 0.7335. The geometric mean is lower because it pena
 
 **Worked example 2 (over time).** Ten years later Alder has life expectancy 77.0, expected schooling 14.4, mean schooling 9.6 and income 15,000 cu. Health is 0.8769, education 0.7200 and income 0.7569, so the HDI is 0.7818 (0.782). It rose by 0.052. If only income had risen to 15,000, the HDI would be 0.7409, a rise of just 0.011, so most of the gain came from health and education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--06-hdi-three-indices.webp" width="900" height="920" alt="Alder's health, education and income indices are 0.831, 0.647 and 0.723. Their geometric mean is the HDI of 0.730, slightly below the arithmetic mean of 0.734." loading="lazy">
+  <figcaption>The HDI is the geometric mean of three indices on a 0 to 1 scale.</figcaption>
+</figure>
+
+
 ## 1(b) Advantages and limitations of the HDI
 
 **Advantages**
@@ -77,6 +83,17 @@ The arithmetic mean would be 0.7335. The geometric mean is lower because it pena
 - Data are estimates, and limits can change, so compare like with like.
 
 **Evaluation.** The HDI beats real GDP per head for a broad view of living standards, but it is not a full measure of wellbeing. A strong answer states what the HDI adds, what it omits, and then judges which matters more for the comparison in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--01-hdi-beta-vs-corra.webp" width="900" height="970" alt="Grouped bars for Beta and Corra. Beta: health 0.923, education 0.267, income 0.966, HDI 0.620. Corra: 0.708, 0.811, 0.514, HDI 0.666. Beta's weak schooling drags its HDI below Corra's although it is far richer." loading="lazy">
+  <figcaption>Beta is richer but ranks lower, because one weak component pulls the geometric mean down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--02-hdi-log-income-diminishing.webp" width="900" height="960" alt="The income index curve flattens as income rises. Two marked steps, 2,000 to 3,000 cu and 40,000 to 41,000 cu, are shown as bars: +0.061 against +0.004." loading="lazy">
+  <figcaption>Because income is logged, a rise of about 1,000 cu counts for far less at 40,000 than at 2,000.</figcaption>
+</figure>
+
 
 ## 1(c) Other measures of development
 
@@ -101,6 +118,12 @@ The arithmetic mean would be 0.7335. The geometric mean is lower because it pena
 
 Q has 38 percentage points more clean water access, 8.7 times the energy per head, 10.4 times the internet access and 17 times the doctors per thousand. Share and number differ: if P's adult male labour force grows from 4.0 million to 4.6 million while the agricultural share falls from 58% to 44%, farm workers fall from 2.32 million to 2.02 million, a drop of 12.8%, not 14%. The share fell by 14 percentage points. Say which you mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--03-development-indicators-p-vs-q.webp" width="900" height="990" alt="Paired bars compare P and Q. Q has 49 points less farm labour, 38 points more clean water, 8.7 times the energy, 10.4 times the internet users and 17 times the doctors per thousand." loading="lazy">
+  <figcaption>Q leads P on every indicator, by points for shares and by multiples for amounts.</figcaption>
+</figure>
+
+
 ## 2(a) Economic constraints on growth and development
 
 ### Commodity price volatility
@@ -121,6 +144,12 @@ Reasons given: low income elasticity of demand for primary products (Engel's law
 
 **Evaluation.** Evidence is mixed. Some primary products, such as oil or metals, have seen long booms. Manufactures prices can also fall, and the result depends on the start and end dates chosen. Dependency also exposes countries to volatility and gives little scope for productivity growth, so diversification matters either way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--05-engel-demand-growth.webp" width="900" height="880" alt="Two rising lines from 1: manufactures reach 2.55 times in 20 years at 4.8% a year, primary goods only 1.27 times at 1.2% a year." loading="lazy">
+  <figcaption>With the same income growth, demand for manufactures compounds much faster than for primary goods.</figcaption>
+</figure>
+
+
 ### The savings gap (Harrod-Domar)
 
 The model says growth rate g = s / k, where s is the savings ratio and k the capital-output ratio. Higher saving raises investment and growth, while a lower k means capital is used more efficiently.
@@ -135,11 +164,38 @@ Many capital goods and fuels must be imported, so a country may have enough loca
 
 **Worked example 7.** Selvia's 10.5 bn cu investment needs imported capital goods of 40%, or 4.2 bn cu. Fuel and intermediate imports are 3.0 bn cu and other imports 3.3 bn cu, so imports total 10.5 bn cu. Export earnings are 7.0 bn cu and remittances 1.2 bn cu, total 8.2 bn cu. The foreign currency gap is 10.5 - 8.2 = 2.3 bn cu. A foreign inflow of 6.5 bn cu closes the larger savings gap and more than covers the 2.3 bn cu currency gap, leaving 4.2 bn cu to spare. The larger gap sets the binding constraint.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--04-foreign-currency-gap-build-up.webp" width="900" height="770" alt="Imports of 10.5 split into 4.2, 3.0 and 3.3 sit above earnings of 8.2 (7.0 exports and 1.2 remittances). The 2.3 shortfall is shaded as the gap." loading="lazy">
+  <figcaption>The gap is imports of 10.5 less earnings of 8.2, which is 2.3 bn cu.</figcaption>
+</figure>
+
+
 ### Capital flight
 
 Capital flight is a large, rapid outflow of money by residents, often from fear of instability, inflation, devaluation, weak property rights or high taxes.
 
 **Worked example 8.** Suppose Selvia's residents send 1.8 bn cu abroad, 45% of domestic saving and 3.6% of GDP. Saving left for investment is 2.2 bn cu, so the savings gap widens to 8.3 bn cu. Demand for foreign currency rises, so the foreign currency gap widens to 4.1 bn cu and the currency tends to depreciate. The tax base falls and growth under g = s / k falls to 1.3%. The cause also matters: flight is a symptom of weak confidence, so capital controls treat the outflow but not the reason. Controls can also deter genuine inflows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--07-harrod-domar-savings-gap.webp" width="900" height="980" alt="For 6% growth with k = 3.5 on GDP of 50, investment must be 10.5 against saving of 4.0, a gap of 6.5. With k = 2.8 the investment needed is 8.4 and the gap 4.4." loading="lazy">
+  <figcaption>A lower capital-output ratio narrows the savings gap for a growth target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--08-terms-of-trade-deterioration.webp" width="900" height="1090" alt="Ravia's export price index rises from 100 to 112 while the import price index rises to 160, so the terms of trade fall to 70. A machine costing 10 tonnes of crop now costs 14.3 tonnes." loading="lazy">
+  <figcaption>Falling terms of trade mean more exports are needed to buy the same imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--09-commodity-price-volatility.webp" width="900" height="1140" alt="A crop price index of 100, 128, 91, 74, 112 and 96 with year-on-year changes of +28.0%, −28.9%, −18.7%, +51.4% and −14.3%. A 10% fall in supply raises revenue to 108 and a 10% rise cuts it to 88." loading="lazy">
+  <figcaption>Inelastic demand and supply turn small supply changes into large price and income swings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--10-capital-flight-two-gaps.webp" width="900" height="960" alt="Selvia's savings gap widens from 6.5 to 8.3 and its foreign currency gap from 2.3 to 4.1 when residents send 1.8 abroad. Growth under s/k falls from 2.3% to 1.3%." loading="lazy">
+  <figcaption>Capital flight reduces investment funds and raises demand for foreign currency, widening both gaps.</figcaption>
+</figure>
+
 
 ## Common errors
 

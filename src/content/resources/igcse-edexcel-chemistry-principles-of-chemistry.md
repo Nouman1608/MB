@@ -84,11 +84,48 @@ Solids have particles in a regular arrangement, vibrating about fixed positions.
 
 **Diffusion** is the net movement of particles from high to low concentration. Lighter particles diffuse faster at a given temperature, which is why ammonia and hydrogen chloride meet nearer the hydrochloric acid end of a glass tube.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp" width="900" height="990" alt="Gas or liquid particles that start crowded on one side spread randomly through the whole box, moving net from high to low concentration. In a solid the particles stay in fixed positions, so nothing spreads." loading="lazy">
+  <figcaption>Diffusion is net movement from high to low concentration, caused by random particle motion; it does not happen in solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
+
+
 ## Atomic structure and the Periodic Table
 
 Protons and neutrons sit in the nucleus; electrons occupy shells filling 2, 8, 8. Atomic number gives the number of protons and defines the element; mass number is protons plus neutrons. **Isotopes** differ in neutron number only, so their chemistry is identical.
 
 Group number equals the number of outer-shell electrons; period number equals the number of occupied shells. Elements react to achieve a full outer shell, which is the single idea underlying all the bonding that follows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
 
 ## Bonding
 
@@ -97,6 +134,27 @@ Group number equals the number of outer-shell electrons; period number equals th
 **Covalent bonding** occurs between non-metals: electron pairs are shared. Simple molecular substances have weak intermolecular forces between molecules — not within them — so melting points are low and they do not conduct. Giant covalent structures such as diamond and graphite have very high melting points because covalent bonds must be broken. Graphite conducts because each carbon bonds to only three others, leaving one delocalised electron per atom.
 
 **Metallic bonding** is a lattice of positive ions in a sea of delocalised electrons, giving conduction and malleability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--03-ionic-conduction.webp" width="900" height="1115" alt="Three circuits with battery, bulb and electrodes. In the solid, the ions are fixed in place and the bulb is off. When molten or dissolved in water, positive ions move to the negative electrode and negative ions to the positive electrode, so the bulb lights." loading="lazy">
+  <figcaption>Ions carry current only when free to move: molten or dissolved, not solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
 
 ## Calculations
 
@@ -107,6 +165,12 @@ percentage yield = (actual / theoretical) x 100
 ```
 
 Empirical formula is found by dividing the mass or percentage of each element by its Ar, then dividing all results by the smallest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-principles-of-chemistry--04-burning-magnesium-mass.webp" width="900" height="900" alt="2Mg + O2 gives 2MgO shown with atoms. 24.0 g Mg divided by 24 is 1.0 mol; the 2:2 ratio gives 1.0 mol MgO; multiplied by Mr 40 gives 40.0 g. A bar shows 24 g Mg plus 16 g O making 40 g MgO." loading="lazy">
+  <figcaption>The extra mass in magnesium oxide is the oxygen that combined with the magnesium.</figcaption>
+</figure>
+
 
 ## Worked example
 

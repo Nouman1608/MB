@@ -54,6 +54,22 @@ These notes condense AQA A-level Economics (7136) content sections 4.1.5.10 and 
 
 **Chain for supernormal profit.** Barriers protect profit, so there is cash for R&D, so costs fall or products improve later. Counter-chain: little rivalry means little pressure, so the firm keeps the profit and does not innovate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--15-static-vs-dynamic.webp" width="900" height="940" alt="Total surplus for monopoly (800), competition (900), monopoly after R&amp;D (1,008) and competition with the same improved technology (1,200), split into CS and PS." loading="lazy">
+  <figcaption>A static loss can be outweighed by dynamic gains, but consumers can still end up worse off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--02-dynamic-efficiency-atc-shift.webp" width="900" height="1080" alt="Four drivers (R&amp;D, human capital, non-human capital, technological change) lead to a lower ATC curve. The current curve has minimum 34 at Q = 30; after R&amp;D (MC = 4 + 0.5Q) the minimum is about 25.2." loading="lazy">
+  <figcaption>Investment and innovation shift the ATC curve down over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
+  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
+
 ## Conduct and performance indicators
 
 | Conduct | Performance |
@@ -71,12 +87,29 @@ These notes condense AQA A-level Economics (7136) content sections 4.1.5.10 and 
 3. Give a reason the number could mislead.
 4. Reach a judgement about the case given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--04-conduct-performance-indicators.webp" width="900" height="960" alt="Conduct leads to performance. Perfect competition meets P = MC and minimum ATC but has little profit for R&amp;D; monopoly usually has P above MC, often misses minimum ATC, and may innovate if barriers hold." loading="lazy">
+  <figcaption>Indicators compare static and dynamic performance across structures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
+
 ## Surplus: reading a diagram
 
 - CS: triangle under demand and above the price line.
 - PS: area above the supply (MC) curve and below the price line.
 - Total surplus: CS + PS, greatest where P = MC.
 - Deadweight loss: triangle between demand and MC over the units not produced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--12-monopoly-deadweight-loss.webp" width="900" height="920" alt="Demand P = 64 - Q, MC = 4 + Q, MR = 64 - 2Q. Monopoly output 20 at price 44 gives CS 200, PS 600 and deadweight loss 100, against competitive output 30 at price 34." loading="lazy">
+  <figcaption>The deadweight loss is the triangle between D and MC for the units not produced.</figcaption>
+</figure>
+
 
 ## Structures at a glance (typical tendencies, not rules)
 
@@ -124,6 +157,17 @@ Check: 144 + 360 + 96 = 600
 
 **Evaluation hooks.** Perfect discrimination removes deadweight loss but moves all surplus to the firm. Extra profit could fund investment, or it could just be kept. Some groups may only be served because of discrimination.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--13-surplus-split.webp" width="900" height="900" alt="Total surplus 900 split three ways: competition CS 450 and PS 450; monopoly CS 200, PS 600 and DWL 100; perfect price discrimination CS 0, PS 900 and no DWL." loading="lazy">
+  <figcaption>Perfect discrimination is allocatively efficient but gives all the surplus to the firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--14-third-degree-pd.webp" width="900" height="1224" alt="Two groups with MC 12: group A buys 22 at 34 and group B buys 12 at 24. Compared with one price of 29, profit rises from 578 to 628, consumer surplus falls from 389 to 314 and deadweight loss rises from 289 to 314." loading="lazy">
+  <figcaption>Total output is unchanged at 34, but sales shift between groups, so profit rises 50 and CS falls 75.</figcaption>
+</figure>
+
+
 ## Worked reminder: third-degree price discrimination
 
 Constant MC = 14. Market 1: P = 46 − Q. Market 2: P = 30 − Q (illustrative).
@@ -144,6 +188,22 @@ Single price (P <= 30): Q = 76 - 2P, so P = 38 - 0.5Q, MR = 38 - Q
 ## Productive efficiency: quick test
 
 For TC = F + aQ + bQ², the lowest ATC is at Q = √(F/b). With F = 100 and b = 0.25 that gives Q = 20. Always check by confirming that MC equals ATC at that output. If you are given a table instead, work out ATC for each row and pick the lowest. Remember that a table only shows the outputs listed, so say "lowest of those shown".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--11-productive-efficiency.webp" width="900" height="920" alt="ATC and MC for the lesson illustrative firm. ATC falls to a minimum of 34 at Q 30 where MC crosses it, and is 36.50 at Q 20." loading="lazy">
+  <figcaption>A firm is productively efficient where MC = ATC at minimum ATC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--03-natural-monopoly-costs.webp" width="900" height="1020" alt="One firm making 40 units at ATC 20 costs 800; four firms making 10 units each at ATC 35 cost 1,400." loading="lazy">
+  <figcaption>One large firm can have lower total cost than four small ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 
@@ -186,6 +246,12 @@ For TC = F + aQ + bQ², the lowest ATC is at Q = √(F/b). With F = 100 and b = 
 9. Conduct: any two of pricing, advertising, R&D spending, collusion. Performance: any two of profit margin, unit cost, new products, consumer surplus.
 10. Yes: profit can finance costly R&D. No: a firm with little rivalry may keep the profit and not innovate.
 11. Large economies of scale: one firm may spread fixed costs over more output than several small firms could.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--01-competitive-cs-ps.webp" width="900" height="1010" alt="Price against quantity. Demand P = 64 - Q and supply P = 4 + Q cross at Q = 30, P = 34. Consumer surplus (triangle under demand above price) is 450 and producer surplus (above supply below price) is 450, total 900." loading="lazy">
+  <figcaption>Competitive CS and PS are 450 each, total surplus 900.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

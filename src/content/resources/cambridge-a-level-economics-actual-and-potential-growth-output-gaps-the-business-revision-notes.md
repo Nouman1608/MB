@@ -35,6 +35,12 @@ Track your coverage on the [Cambridge A Level Economics hub](/boards/cambridge/a
 | Positive gap | Actual above potential: overheating | Inflation pressure, low unemployment |
 | Negative gap | Actual below potential: spare capacity | Falling inflation, high unemployment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--06-output-gap-country-k.webp" width="900" height="980" alt="Potential output grows 3% a year from 1,000. Actual output is 960, 1,010, 1,085 and 1,070, so the gap as a percentage of potential is -4.0%, -1.9%, +2.3% and -2.1%. Only year 3 is a positive gap." loading="lazy">
+  <figcaption>Output gap is actual minus potential, divided by potential.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Item | Formula |
@@ -84,6 +90,12 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 
 **Index numbers across the cycle.** Growth of +2%, −1% and −2% from a base of 100 gives 102, 100.98 and 98.96. Output has fallen below the base year, so the economy is in recession. Two further years of +3% give 101.93 and 104.99. Output regains the peak of 102 only in the final year, even though growth was positive in both years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--03-gap-estimate-uncertainty.webp" width="900" height="830" alt="With actual output 1,070, potential of 1,092.7 gives a gap of -2.1%, but an illustrative revised capacity of 1,050 gives +1.9%. The same output can be a negative or a positive gap depending on the estimate of potential." loading="lazy">
+  <figcaption>Potential output is estimated, so the size and even the sign of an output gap is uncertain.</figcaption>
+</figure>
+
+
 ## The business cycle (9.2.3)
 
 | Phase | Growth and output | Unemployment | Inflation | Gap |
@@ -104,6 +116,32 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 
 **Automatic stabilisers.** Progressive income tax and benefits linked to unemployment change automatically with income. In a boom they raise tax revenue and cut benefit spending, withdrawing demand. In a slump they do the opposite. They reduce the size of the cycle, not remove it. They are not discretionary policy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--07-cycle-phases-country-l.webp" width="900" height="950" alt="Real GDP index peaks at 106.18 after year 2, falls to a trough of 103.75 after year 4, and growth turns positive in year 5. At 105.0 output is still below the old peak, so growth can recover before the level of output does." loading="lazy">
+  <figcaption>Positive growth after a recession does not mean output is back to its previous peak.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--08-automatic-stabilisers.webp" width="900" height="900" alt="A fall in investment of 20 cuts income by 40 with income taxes (multiplier 2.0) but by 66.7 without them (multiplier 3.33). In the downturn tax revenue falls by 8 and benefits rise by 4, so the budget worsens by 12 with no new decision." loading="lazy">
+  <figcaption>Income-linked taxes and benefits make the multiplier smaller and the swings milder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--04-cycle-causes-timeline.webp" width="900" height="880" alt="A cycle line swings around a dashed trend. Numbered points show easy credit and optimism, over-ordered stocks at the peak, higher rates tightening credit, an external shock and late policy deepening the swing." loading="lazy">
+  <figcaption>Credit, stocks, external shocks and policy lags all feed the swings of the cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+
 ## Policies to promote growth (9.2.4)
 
 | Policy | Targets | Main strength | Main weakness |
@@ -118,6 +156,22 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 **Evaluation prompts.** Which gap is the economy in? Is the problem demand or supply? How long will the policy take? What does it cost and who pays? Does it worsen inflation, the budget, the current account or the environment? Is the effect temporary or lasting?
 
 **Judging effectiveness:** time lag, size and sign of the gap, cost and crowding out, effect on other objectives, short run against long run, how reliable estimates are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--09-policy-matched-to-gap.webp" width="900" height="940" alt="With potential output 2,000 and multiplier 2.5, extra government spending of 30 raises output by 75. From 1,900 (gap -5%) it narrows the gap to -1.25%; from 2,060 (gap +3%) it pushes the gap to +6.75%, causing inflation instead of growth." loading="lazy">
+  <figcaption>The same stimulus helps with a negative gap but is inflationary with a positive gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--01-potential-growth-compounding.webp" width="900" height="910" alt="Columns show growth of 1.2% from more workers and 2.5% from higher output per worker. Stacked, they make 3.7% with a thin extra 0.03 from growth on growth, so potential output grows 3.73%. Adding the two rates gives 3.7%, close but not exact." loading="lazy">
+  <figcaption>Potential growth is (1.012 x 1.025) - 1 = 3.73%, slightly more than the sum of the two rates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--02-growth-policies-which-curve.webp" width="900" height="1030" alt="Two schematic AD/AS diagrams. Demand-side policies shift AD right along SRAS, raising actual output within months while LRAS stays put. Supply-side policies shift LRAS right, raising potential output, but take years." loading="lazy">
+  <figcaption>Demand-side policies move actual output quickly; supply-side policies raise capacity slowly.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -55,6 +55,12 @@ A local supply chain keeps most of those stages within one region or country. A 
 
 Example. Ketterly Components assembles pumps. It buys castings from a foundry 40 km away (lead time 3 days) and motors from a supplier overseas (lead time 5 weeks). The motors are cheaper per unit, but Ketterly must hold more stock to cover the wait and carries exchange-rate risk. The casting supply is easy to manage but the foundry is its only local choice. A good answer weighs these effects on cost, reliability and stakeholders, then reaches a judgement for the context given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--11-supply-chain-local-global.webp" width="900" height="1000" alt="Castings from a foundry 40 km away arrive in 3 days; motors from overseas take 5 weeks (35 days). The two lead times are drawn to the same scale. The local chain is easy to manage; the global chain is cheaper per unit but needs more stock and carries exchange-rate risk." loading="lazy">
+  <figcaption>Lead time and risk differ sharply between local and global sourcing.</figcaption>
+</figure>
+
+
 ## JIT and just-in-case (JIC)
 
 Just-in-time (JIT) means ordering and producing only what is needed, when it is needed, so stock is kept as low as possible. Just-in-case (JIC) means holding larger stocks of materials and finished goods in case of delays or surges in demand.
@@ -73,6 +79,12 @@ Just-in-time (JIT) means ordering and producing only what is needed, when it is 
 JIT suits a business with reliable local suppliers, predictable demand and low-cost frequent delivery. JIC suits a business with unreliable or distant supply, goods that store safely without going off, or demand that spikes. The comparison is a spectrum: many businesses keep a small buffer even when they aim for JIT.
 
 For the wider lean-production context, 5.3 covers JIT as a lean method. Here the focus is the planning difference and the trade-off between cost saving and risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
 
 ## Stock control charts
 
@@ -113,6 +125,17 @@ Worked example. Hallibrook Bakery uses 40 kg of a special flour each day. Lead t
 
 What if use rises to 55 kg per day? From the reorder level of 320 kg, six days of lead time uses 330 kg, so the delivery arrives 10 kg too late. Stock runs out after 320 ÷ 55 = 5.8 days. The buffer was too small for the higher use, which is why reorder levels and buffers need review when demand changes. A larger buffer lowers stock-out risk but raises holding costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--12-stock-chart-bakery.webp" width="900" height="990" alt="Stock falls from 680 kg at 40 kg a day. At day 9 it reaches the reorder level of 320 kg and 600 kg is ordered. After the 6-day lead time the delivery arrives at day 15 with 80 kg (the buffer) left. If use rises to 55 kg a day the stock runs out at about day 14.8, before the delivery." loading="lazy">
+  <figcaption>Reorder level = buffer + usage x lead time; a bigger buffer is needed if use rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
+
 ## Capacity utilization rate
 
 Capacity utilization rate = (actual output ÷ productive capacity) × 100. This formula is in the guide's formulae section.
@@ -123,6 +146,12 @@ Capacity utilization rate = 9,000 ÷ 12,000 × 100 = 75%.
 
 Interpreting the figure: 25% of capacity is unused. Fixed costs are spread over fewer units, so fixed cost per loaf is higher. With monthly fixed costs of USD 18,000, fixed cost per loaf is 2.00 at 9,000 loaves and about 1.67 at 10,800 loaves (90% utilization). A high rate improves unit cost, but near 100% there is no room for rush orders, maintenance or breakdowns, and overtime and wear rise. A low rate may point to weak demand, over-investment or seasonal swings. Responses include seeking new orders, renting out spare space, or reducing capacity, each with its own cost and risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--13-capacity-utilization.webp" width="900" height="960" alt="Twelve blocks of 1,000 loaves show capacity. Baking 9,000 fills nine blocks (75%) and fixed cost is $2.00 a loaf; baking 10,800 is 90% and fixed cost about $1.67 a loaf. Near 100% there is no room for rush orders or maintenance." loading="lazy">
+  <figcaption>Higher utilization spreads fixed costs over more loaves.</figcaption>
+</figure>
+
+
 ## Defect rate
 
 Defect rate = (number of defective units ÷ total units produced) × 100. This is the standard form; the guide lists defect rate without a formula.
@@ -130,6 +159,12 @@ Defect rate = (number of defective units ÷ total units produced) × 100. This i
 Hallibrook Bakery makes 15,000 pies and 450 fail inspection. Defect rate = 450 ÷ 15,000 × 100 = 3%. After staff training, 225 of 15,000 fail, a rate of 1.5%.
 
 Defects cost the business in scrap, rework, replaced goods, lost time and damage to reputation. A falling rate suggests better quality control, training or equipment. A rising rate suggests worn machines, poor materials or rushed output. Compare the rate with a target, a past period or a competitor, and ask what the defects cost in USD as well as in percent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--02-defect-rate-grid.webp" width="900" height="800" alt="Two grids of 100 squares, each square 150 pies of 15,000. Before training 3 squares are red (450 pies, 3%). After training 1.5 squares are red (225 pies, 1.5%)." loading="lazy">
+  <figcaption>Defect rate halved from 3% to 1.5% after staff training.</figcaption>
+</figure>
+
 
 ## Productivity and operating leverage
 
@@ -154,6 +189,12 @@ Contribution per pump = 20 − 12 = 8. Total contribution = 8 × 24,000 = 192,00
 
 This means a 10% rise in sales volume raises profit by about 40%: volume 26,400, contribution 211,200, profit 67,200, which is 40% above 48,000. A 10% fall cuts profit to 28,800, a 40% drop. High operating leverage (high fixed costs) magnifies gains and losses. Contribution is covered in [costs and revenues](/resources/ib-dp-business-management-costs-and-revenues/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--14-operating-leverage.webp" width="900" height="940" alt="Bars show contribution at $8 a pump against fixed costs of $144,000. At 24,000 pumps profit is $48,000 and leverage 4.0. A 10% rise in volume lifts profit 40% to $67,200; a 10% fall cuts it 40% to $28,800." loading="lazy">
+  <figcaption>High operating leverage magnifies changes in sales into larger changes in profit.</figcaption>
+</figure>
+
+
 ## Cost to buy (CTB) and cost to make (CTM)
 
 A make-or-buy decision compares what it costs to produce a part in-house with what it costs to purchase it. Standard forms:
@@ -170,6 +211,12 @@ Dravenport Joinery needs 5,000 handles a year. A supplier charges USD 3.20 each.
 The quantity at which the two costs are equal is the extra fixed cost ÷ (buy price − variable cost) = 4,400 ÷ 1.30 = 3,385 units (rounded up). Below that, buying is cheaper. At 3,000 handles, CTB is 9,600 and CTM is 10,100.
 
 Cost is not the only factor. Making gives control over quality, protects confidential designs and uses spare capacity, but needs capital, skills and space and removes flexibility. Buying frees resources for core activities and can be scaled up or down, but risks late delivery and a dependent supplier. A strong answer gives the numbers, then weighs these factors and the forecast demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--15-make-or-buy.webp" width="900" height="880" alt="Buying costs $3.20 a handle; making costs a $4,400 lease plus $1.90 a handle. The lines cross at 3,385 handles. Below it buying is cheaper; at 5,000 handles making saves $2,100 a year." loading="lazy">
+  <figcaption>The quantity at which make-or-buy flips matters as much as the cost at one quantity.</figcaption>
+</figure>
+
 
 ## Common errors
 

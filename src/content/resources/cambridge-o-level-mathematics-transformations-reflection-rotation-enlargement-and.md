@@ -81,6 +81,12 @@ Point (1, −3) maps to (1, 5) and point (6, 2) maps to (6, 0). Both x values ar
 
 For a sloping mirror line, join a point to its image, find the midpoint and draw the perpendicular through it. Always write the equation, such as y = x, not "the diagonal".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--01-reflection.webp" width="900" height="1030" alt="Triangle T is reflected in the vertical line x = 1 and triangle D in the sloping line y = -x on a coordinate grid. Dotted lines join every vertex to its image and cross the mirror line at right angles, with equal distances on each side. The images T dash and D dash are gold." loading="lazy">
+  <figcaption>Every point and its image are the same distance from the mirror line, on opposite sides.</figcaption>
+</figure>
+
+
 ## 2. Rotation
 
 A rotation needs a centre, an angle and a direction. The centre is invariant. Every point stays the same distance from the centre. Tracing paper is a reliable way to check a rotation in practice, but the rules below let you do it by calculation.
@@ -115,6 +121,12 @@ The angle is the angle between the line from the centre to a point and the line 
 **Rotation of 90° anticlockwise about (1, −1).**
 
 A turn of 180° has no direction issue, and its centre is the midpoint of any point and its image. Rotating (3, 5) through 180° about (−1, 2) gives (−5, −1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--02-rotation.webp" width="900" height="1060" alt="Triangle A is rotated 90 degrees clockwise about the centre (2, 1) to give A dash at (4,0), (4,-3), (6,-3). Dashed radii from the centre to a vertex and its image are equal in length and meet at a right angle, with a curved arrow showing the clockwise turn." loading="lazy">
+  <figcaption>A rotation needs a centre, an angle and a direction: here 90 degrees clockwise about (2, 1).</figcaption>
+</figure>
+
 
 ## 3. Enlargement
 
@@ -153,6 +165,17 @@ A(1, 2) maps to A′(5, 10) and B(2, 2) maps to B′(8, 10). The length AB is 1 
 
 If lengths are multiplied by k, areas are multiplied by k². A triangle of area 6 cm² enlarged by scale factor 1.5 has area 6 × 2.25 = 13.5 cm². Scale factor −2 multiplies area by 4. The negative sign affects position, not area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--03-enlargement-positive.webp" width="900" height="890" alt="Triangle (1,4), (3,4), (3,5) is enlarged by scale factor 2 from the centre (-1, 2). Lines from the centre through each vertex reach the image vertices (3,6), (7,6), (7,8), twice as far from the centre and on the same side." loading="lazy">
+  <figcaption>Scale factor 2 doubles every distance from the centre, so lengths double and area is multiplied by 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--04-enlargement-negative.webp" width="900" height="890" alt="Triangle (2,1), (4,1), (4,2) is enlarged by scale factor -2 from the centre (1, 0). The image (-1,-2), (-5,-2), (-5,-4) lies on the opposite side of the centre, twice the size and upside down, with lines through the centre joining matching vertices." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the other side of the centre, upside down.</figcaption>
+</figure>
+
+
 ## 4. Translation
 
 A translation moves every point the same distance in the same direction. The column vector (x over y) means x units right (left if negative) and y units up (down if negative). There is no turning and no centre.
@@ -162,6 +185,12 @@ A translation moves every point the same distance in the same direction. The col
 Triangle with vertices (1, 2), (3, 2), (3, 5) is translated by (−4 over 3): subtract 4 from each x and add 3 to each y, giving **(−3, 5), (−1, 5), (−1, 8)**.
 
 To describe a translation, subtract object from image for any one point. A(−3, 4) maps to A′(2, 1): vector = (2 − (−3), 1 − 4) = **(5 over −3)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--05-translation.webp" width="900" height="1050" alt="Triangle B is translated by the column vector (-4, 3) to give B dash at (-3,5), (-1,5), (-1,8). Dotted lines show all vertices moving the same distance in the same direction, and arrows mark 4 units left and 3 units up. The shape is not turned." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector, with no turning and no centre.</figcaption>
+</figure>
+
 
 ## Combinations of transformations
 
@@ -176,6 +205,12 @@ After the first reflection: (2, −1), (5, −1), (5, −3). After the second: (
 Each point went from (x, y) to (−x, −y), so the single transformation is a **rotation of 180° about the origin**.
 
 Two reflections in parallel lines give a translation. Reflecting (0, 0) in x = 1 gives (2, 0). Reflecting that in x = 4 gives (6, 0). The shift is 2 × (4 − 1) = 6, at right angles to the lines, so the translation is (6 over 0).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
+</figure>
+
 
 ## Common errors
 

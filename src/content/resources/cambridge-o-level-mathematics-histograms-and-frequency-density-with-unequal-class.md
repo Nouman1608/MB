@@ -49,6 +49,12 @@ All three say the same thing. If you know any two of frequency, class width and 
 
 Frequency density tells you how many values there are per one unit of the horizontal axis. A density of 3 in a class measured in minutes means 3 values per minute of the class.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--01-why-frequency-density.webp" width="900" height="1040" alt="The 71 phone calls from worked example 1 drawn twice. With frequency as the height, the 5 to 10 class looks tallest and the wide classes look too important. With frequency density (3, 5, 4, 1.8, 0.6) the 2 to 5 class is the tallest bar." loading="lazy">
+  <figcaption>Plotting frequency against unequal class widths misleads; frequency density gives a fair picture.</figcaption>
+</figure>
+
+
 ## Class boundaries and class width
 
 Histograms are used for continuous data such as time, mass or length. The classes are written as inequalities, for example 10 ≤ t < 20. The class width is the upper boundary minus the lower boundary, so this class has width 20 − 10 = 10.
@@ -92,6 +98,12 @@ For worked example 1 the bars are:
 | 20 | 40 | 0.6 |
 
 Each bar's area is its frequency: the last bar is 20 wide and 0.6 tall, and 20 × 0.6 = 12.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--02-draw-bars-area-is-frequency.webp" width="900" height="870" alt="The finished histogram for the phone-call data with boundaries 0, 2, 5, 10, 20, 40, no gaps, and density on the vertical axis. The 2 to 5 bar has area 3 x 5 = 15 and the last bar 20 x 0.6 = 12, matching the frequencies." loading="lazy">
+  <figcaption>Bar area, width times height, equals the frequency.</figcaption>
+</figure>
+
 
 ## Skill 2: from bar heights back to a table
 
@@ -144,6 +156,12 @@ The class 20 ≤ w < 30 holds 15 patients over a width of 10. The part from 20 t
 
 About 7 or 8 patients. This only works if you assume the patients are spread evenly across the class, which the histogram cannot confirm. Say so when you give an estimate. A fraction of a person is fine for an estimate, so leave 7.5 or round sensibly and state the assumption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--03-read-histogram-clinic.webp" width="900" height="935" alt="Clinic waiting-time histogram with frequencies 8, 12, 16, 15 and 7 found as height x width, total 58. At least 15 minutes is 16 + 15 + 7 = 38. The 20 to 25 part of the 20 to 30 bar is 5 x 1.5 = 7.5, an estimate that assumes even spread." loading="lazy">
+  <figcaption>Multiply height by width for each class, add classes as needed, and state the even-spread assumption for part classes.</figcaption>
+</figure>
+
+
 ## Skill 4: histograms with no vertical scale
 
 Sometimes the vertical axis has been removed, or only one frequency is given. Because frequency is proportional to area, you can find a scale from one known bar and use it for the rest. Measure in centimetres on the diagram, or count squares.
@@ -173,6 +191,12 @@ Height = 3.6 ÷ 1 = 3.6 cm
 
 The bar is 3.6 cm tall. This is the same idea as frequency density with a different unit: here the "density" is 5 parcels for every square centimetre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--04-no-vertical-scale-area.webp" width="900" height="820" alt="Parcel-mass histogram on a centimetre grid with no vertical scale. A 2 x 3 cm bar is 30 parcels so 1 cm2 = 5 parcels; the 3 x 2.4 cm bar is 36 parcels; 18 parcels needs 3.6 cm2, so a 1 cm wide bar is 3.6 cm tall." loading="lazy">
+  <figcaption>With no scale, one known bar fixes how many values each square centimetre stands for.</figcaption>
+</figure>
+
+
 ## Skill 5: completing tables and histograms with missing values
 
 Use the information you are given to fill each gap in a sensible order.
@@ -199,6 +223,12 @@ Always finish by checking that the frequencies add to the stated total.
 ### Unknown heights from a ratio
 
 Sometimes the information is a comparison. Suppose the bar for 10 ≤ x < 20 is twice as tall as the bar for 20 ≤ x < 40. Call the lower height k, so the other is 2k. The frequencies are 2k × 10 = 20k and k × 20 = 20k. Because the widths differ, equal-looking heights do not mean equal frequencies, and writing both in terms of k keeps that clear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--05-missing-values-histogram.webp" width="900" height="930" alt="Club-ages histogram. Step 1: y = 0.7 x 20 = 14. Step 2: x = 60 - 9 - 16 - 14 = 21. Step 3: height = 21 / 12 = 1.75. The check is that the frequencies add to 60." loading="lazy">
+  <figcaption>Find the missing frequency from a bar, then from the total, then the missing height.</figcaption>
+</figure>
+
 
 ## Common errors
 

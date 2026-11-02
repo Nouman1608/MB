@@ -55,10 +55,32 @@ reflection (barrier), refraction (shallower water slows the waves) and diffracti
 (Supplement) Diffraction through a gap increases as wavelength increases relative to gap size;
 diffraction also occurs at an edge, more noticeably for longer wavelengths.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## 3.2 Light — reflection
 
 Terms: normal, angle of incidence, angle of reflection. Plane mirror image: same size, same distance
 from mirror, **virtual**. Law of reflection: angle of incidence = angle of reflection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
+</figure>
+
 
 ## 3.2 Light — refraction
 
@@ -81,6 +103,17 @@ lens to the principal focus. A diverging lens spreads a parallel beam as if from
 the incoming side. (Supplement) **Short sight** (distant objects blurred, light focused in front of
 the retina): corrected with a **diverging** lens. **Long sight** (near objects blurred, focus behind
 the retina): corrected with a **converging** lens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
 
 ## 3.2 Light — dispersion
 
@@ -116,6 +149,12 @@ weakened; glass is transparent to visible light and some infrared, which carry h
 can be sent as either. Digital benefits: a higher data rate, and a longer range because the signal can
 be regenerated accurately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## 3.4 Sound
 
 Produced by vibrating sources; longitudinal; audible range approximately **20 Hz to 20 000 Hz**; needs
@@ -126,6 +165,12 @@ depth/distance calculations use **speed = distance/time**, NOT v = fλ — frequ
 no part. Use **depth = (speed × time) / 2**, halving because the pulse travels out and back. Other uses of
 ultrasound (Supplement): non-destructive testing (echoes from cracks in metal) and medical scanning of
 soft tissue (echoes from tissue boundaries).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
 
 ## Why 3.1 underpins everything else in this topic
 

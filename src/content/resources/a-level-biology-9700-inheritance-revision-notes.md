@@ -61,6 +61,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 2. **Random orientation / independent assortment** of homologous pairs (metaphase I) and of sister chromatids (metaphase II) → 2ⁿ chromosome combinations, where n = number of pairs.
 3. **Random fertilisation**: any gamete can fuse with any other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
+
 ## 16.2 Genetics toolkit
 
 ### Must-know distinctions
@@ -73,6 +79,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 | Autosomal linkage vs sex linkage | Two genes on the same autosome vs a gene on the X chromosome |
 | Linkage vs epistasis | Genes on one chromosome inherited together vs one gene affecting expression of another |
 | Test cross vs F2 cross | Unknown × homozygous recessive vs F1 × F1 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
 
 ### Expected ratios to recognise
 
@@ -95,6 +107,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 5. Offspring genotypes, each linked to its phenotype.
 6. Ratio, in the same order as the phenotypes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
+
 ### Method: chi-squared test
 
 1. State the null hypothesis: no significant difference between observed and expected.
@@ -105,6 +123,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 6. χ² < critical value → difference not significant, due to chance. χ² > critical value → significant; something other than chance (for example linkage) is acting.
 
 **Worked reminder.** 480 offspring, expected 9 : 3 : 3 : 1, observed 279, 97, 83, 21. E = 270, 90, 90, 30. χ² = 0.300 + 0.544 + 0.544 + 2.700 = 4.09. 3 df, critical value 7.82, so not significant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ### Gene → protein → phenotype
 
@@ -147,6 +171,12 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
 4. Transcription factors are released, bind to promoters and increase transcription.
 5. Growth proteins are made; stem cells elongate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
+
 ## Quick self-test
 
 1. A cell with 2n = 12 undergoes meiosis. How many chromosomes are in each cell at the end of telophase I?
@@ -177,6 +207,17 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
 11. E = 75 and 25. χ² = 49/75 + 49/25 = **2.61**; below 3.84, so not significant.
 12. The **repressor protein** coded by the regulatory gene lacI.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Stating that meiosis "halves the DNA" instead of the number of chromosomes, or saying the cells produced are "identical".
@@ -188,6 +229,12 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
 - Saying the lac repressor binds to the promoter, or that lactose binds to the operator.
 - Describing DELLA as binding directly to DNA. It inhibits the transcription factors that bind to the promoter.
 - Saying the le allele is absent or "does not code". It codes for a non-functional enzyme.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

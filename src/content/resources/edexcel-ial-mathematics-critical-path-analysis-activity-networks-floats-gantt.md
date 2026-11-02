@@ -84,9 +84,26 @@ A and B start at event 1. C needs only A, but D needs A and B. So A finishes at 
 
 Check: E starts at event 4, reached only through C, so E depends on C alone. F starts at event 5, reached through D and, by the dummy, C. Both are right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--03-network-to-table.webp" width="900" height="830" alt="A network with arcs P to V and a dummy, with S highlighted: looking back from its start event 3 finds Q and, through the dummy, P. A table lists immediate predecessors for every activity." loading="lazy">
+  <figcaption>Read predecessors by looking back from an activity’s start event, following dummies.</figcaption>
+</figure>
+
+
 ### Worked example 2: a uniqueness dummy
 
 H lasts 2 days with no predecessor. J (3 days) and K (5 days) both need only H. L (2 days) needs J and K. If J and K both ran from event 2 to event 3, they would share the same pair of events. Draw H from 1 to 2, J from 2 to 3, K from 2 to 4, a dummy from 3 to 4, and L from 4 to 5. The dummy keeps L dependent on both J and K.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--01-table-to-network.webp" width="900" height="790" alt="A precedence table for activities A to G sits above its activity-on-arc network with seven events. Two dashed zero-duration dummies (2 to 3 and 4 to 5) let A count towards D and C towards F." loading="lazy">
+  <figcaption>A table of immediate predecessors becomes a network; dummies carry extra dependences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--02-dummies.webp" width="900" height="1090" alt="Top: a dashed dummy from event 2 to 3 lets D depend on A and B while C depends only on A. Bottom: J and K drawn between the same two events is wrong; sending K to event 4 and adding a dummy from 3 to 4 is right." loading="lazy">
+  <figcaption>A logic dummy carries a dependence; a uniqueness dummy keeps each activity’s start and end events distinct.</figcaption>
+</figure>
+
 
 ## 4.2 From a network back to a precedence table
 
@@ -161,6 +178,17 @@ For activity (i, j) with duration d:
 | F | 4 | 9 | 13 | 9 | 13 |
 | G | 2 | 13 | 15 | 13 | 15 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--04-forward-pass.webp" width="900" height="820" alt="The example network shows earliest times 0, 3, 4, 5, 9, 13, 15 for events 1 to 7. Events 3, 5 and 6 take the largest of two values; the minimum project time is 15 days." loading="lazy">
+  <figcaption>The forward pass takes the largest value at each event, giving the minimum project time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--05-backward-pass-critical.webp" width="900" height="930" alt="The network shows earliest and latest times in each event. Latest times are 0, 4, 4, 9, 9, 13, 15. The critical path B, D, F, G is drawn thick and sums to 15; A is not critical since event 2 has e = 3 but l = 4." loading="lazy">
+  <figcaption>The backward pass takes the smallest value; critical activities need matching event times and duration.</figcaption>
+</figure>
+
+
 ## 4.4 Total float, Gantt charts and scheduling
 
 The specification defines the total float of activity (i, j) as F(i, j) = lⱼ − eᵢ − duration (i, j). It equals latest finish minus earliest finish, and also latest start minus earliest start. Critical activities have total float 0.
@@ -200,6 +228,22 @@ Put the critical activities on one worker, then fit the rest in around them, usi
 | 2 | A (0–3), C (3–5), E (5–8) |
 
 Every activity starts after its predecessors finish, and the project ends at day 15, so 2 workers are enough. With one worker the project would take 23 days.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--06-cascade-float.webp" width="900" height="786" alt="A cascade chart with rows A to G over 0 to 15 days. Critical activities B, D, F, G are solid with no float; A, C and E are followed by dashed float of 1, 4 and 5 days." loading="lazy">
+  <figcaption>Total float is the slack after an activity’s earliest finish.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--07-float-shared.webp" width="900" height="1100" alt="Two cascade charts: A starting 1 day late keeps the project at 15 days but cuts C’s float from 4 to 3; A starting 3 days late pushes D, F and G back so the project ends on day 17, two days late." loading="lazy">
+  <figcaption>Delaying one activity uses float that later activities in its chain share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--08-scheduling-workers.webp" width="900" height="726" alt="One worker takes 23 days; two workers finish in 15. Worker 1 does B, D, F, G; worker 2 does A, C, E. The lower bound is 23 divided by 15 = 1.53, so at least 2 workers." loading="lazy">
+  <figcaption>Two workers can finish the project in the minimum 15 days.</figcaption>
+</figure>
+
 
 ## Common errors
 

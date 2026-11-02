@@ -58,6 +58,12 @@ The guide's assessment outline says paper 1 excludes HL extension topics, while 
 - New ideas from new customers, rivals and suppliers.
 - Helpful exchange rate moves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--08-going-abroad-pros-cons.webp" width="900" height="882" alt="Opportunities: larger market, spreading risk, economies of scale, longer product life. Threats: culture and language, tariffs, local competition, logistics, instability." loading="lazy">
+  <figcaption>Each opportunity and threat must be weighed for the business in the case.</figcaption>
+</figure>
+
+
 ## Threats at a glance
 
 - Culture and language: names, colors, humour and customs can mislead.
@@ -71,6 +77,12 @@ The guide's assessment outline says paper 1 excludes HL extension topics, while 
 - Ethical and reputation risk, linked to CSR in section 1.3.
 - Loss of control when using partners or distributors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--05-tariff-exchange-price.webp" width="900" height="894" alt="A box priced at 6.00 dollars plus a 15 percent tariff of 0.90 and shipping of 0.70 costs 7.60 dollars landed. At 1 dollar = 0.90 euro that is 6.84 euros; at 1 dollar = 1.00 euro it is 7.60 euros, 11.1 percent more and above a 6.50 euro rival." loading="lazy">
+  <figcaption>A tariff and a stronger home currency both raise the price the foreign buyer pays.</figcaption>
+</figure>
+
+
 ## Same factor, two sides
 
 | Factor | Opportunity | Threat |
@@ -82,9 +94,21 @@ The guide's assessment outline says paper 1 excludes HL extension topics, while 
 | Low-cost production site | Lower unit cost | Possible ethical criticism; longer supply lines |
 | Adapting the mix | Better fit | Higher cost, mixed brand image |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--07-valmorrow-currency-revenue.webp" width="900" height="982" alt="40,000 boxes at 7.20 euros give 288,000 euros. At 1 dollar = 0.90 euros that is 320,000 dollars; at 1 euro it is 288,000 dollars, a fall of 32,000 or 10 percent." loading="lazy">
+  <figcaption>A stronger home currency cuts home-currency revenue with no change in sales.</figcaption>
+</figure>
+
+
 ## Routes abroad (background, not a guide list)
 
 Exporting; online selling; franchising or licensing; joint venture or alliance; own subsidiary or acquisition. More control usually means more commitment and more money at risk. Sections 1.5 and 1.6 of the guide cover joint ventures, strategic alliances, franchising and multinational companies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--09-entry-routes-control.webp" width="900" height="918" alt="Five routes shown as bars that lengthen with control and commitment: exporting, online selling, franchising or licensing, joint venture or alliance, own subsidiary or acquisition, each with its typical exposure." loading="lazy">
+  <figcaption>More control and commitment means more money at risk.</figcaption>
+</figure>
+
 
 ## Standardize or adapt?
 
@@ -96,6 +120,17 @@ Exporting; online selling; franchising or licensing; joint venture or alliance; 
 | Risk of poor local fit | Brand image may become mixed |
 
 Many firms adapt only some of the seven Ps. A typical split: adapt promotion and price, keep the brand name and core design. Say which Ps matter most in the case and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--06-adaptation-payback.webp" width="900" height="874" alt="Cumulative contribution at 2.50 dollars a unit crosses the 45,000 dollar adaptation cost at 18,000 units. Year 1 (12,000 units) gives 30,000 dollars; year 2 (27,000 units) gives 67,500, so the cost is recovered during year 2." loading="lazy">
+  <figcaption>Adapting pays back at 18,000 units, if the forecast holds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--07-standardise-or-adapt.webp" width="900" height="960" alt="Standardisation sends one identical product and approach to every market, giving lower cost but less local fit. Adaptation tailors the product to each market, giving more relevance but higher cost. Markets differ in culture, language, legal requirements and consumer behaviour." loading="lazy">
+  <figcaption>Standardisation lowers cost; adaptation improves local relevance; the best choice depends on the product and markets.</figcaption>
+</figure>
+
 
 ## Calculation reminders
 
@@ -118,6 +153,12 @@ These are standard working forms.
 4. Compare with local rivals' prices.
 5. State what the firm could do: cut margin, absorb the tariff, adapt the product, or choose a different route.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
+
 ### Small worked reminder
 
 Gallowby Bakery sells a hamper at USD 20.00. The target country charges a 10% tariff and shipping is USD 3.00 a hamper.
@@ -130,6 +171,12 @@ If the exchange rate is USD 1 = EUR 0.90, the euro price is 25.00 multiplied by 
 ### Small worked reminder: currency effect
 
 Gallowby earns EUR 36,000 in a year. At USD 1 = EUR 0.90 this is 36,000 / 0.90 = USD 40,000. If the rate becomes USD 1 = EUR 0.80, it is 36,000 / 0.80 = USD 45,000. That is a rise of 12.5%, which helps Gallowby. The direction is reversed if the dollar strengthens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -148,6 +195,12 @@ For "evaluate", "discuss", "justify" or "recommend" on an international move, ch
 - A short-run and long-run comparison.
 - A criterion, such as profit, risk, brand image or cash.
 - A judgment that says what the decision depends on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--10-evaluate-international-steps.webp" width="900" height="996" alt="Four steps: pick factors from the case, weigh each as opportunity or threat, compare short run and long run, then reach a judgment that says what it depends on." loading="lazy">
+  <figcaption>Build an evaluate answer in four moves ending in a conditional judgment.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

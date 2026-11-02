@@ -77,6 +77,17 @@ green [Cr(OH)₆]³⁻ → yellow CrO₄²⁻ → orange Cr₂O₇²⁻
 
 **Equilibrium (17.21):** Cr₂O₇²⁻ + H₂O ⇌ 2CrO₄²⁻ + 2H⁺. Alkali → yellow; acid → orange. Not redox (Cr stays +6).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+
 ## Hydroxide and ammonia tests (17.22)
 
 | Ion | Precipitate | Excess NaOH | Excess NH₃ |
@@ -104,6 +115,17 @@ Memory hook: **excess NaOH dissolves only Cr and Zn hydroxides** (amphoteric). *
 
 Check: atoms, charge, and that the precipitate is neutral.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
+  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
+</figure>
+
+
 ## Ligand exchange and stability (17.24-17.25)
 
 - [Cu(H₂O)₆]²⁺ (pale blue) → [Cu(OH)₂(H₂O)₄] (pale blue ppt) → [Cu(NH₃)₄(H₂O)₂]²⁺ (deep blue). Four NH₃ replace four H₂O; coordination number stays 6.
@@ -117,6 +139,12 @@ Check: atoms, charge, and that the precipitate is neutral.
 2. More particles, so ΔSsystem is positive and large.
 3. Similar bonds broken and made, so ΔH ≈ 0 and ΔSsurroundings = −ΔH/T is small.
 4. ΔStotal = ΔSsystem + ΔSsurroundings is positive; ΔStotal = R ln K, so K is large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
 
 ## Catalysis (17.26-17.32)
 

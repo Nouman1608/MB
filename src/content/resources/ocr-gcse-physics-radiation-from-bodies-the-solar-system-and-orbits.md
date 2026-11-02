@@ -52,6 +52,12 @@ A rough sketch in words: draw wavelength across the bottom and intensity up the 
 1. A emits more energy per second from each square metre, so its intensity is greater.
 2. The strongest emission from A is at a shorter wavelength than for B.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--06-hot-cool-curves.webp" width="900" height="920" alt="Intensity against wavelength for two bodies. The hotter body (5000 K) has a tall hump peaking near 580 nm; the cooler body (3000 K) a low wide hump peaking near 970 nm. The hotter curve is higher at every wavelength." loading="lazy">
+  <figcaption>A hotter body emits more and its peak moves to shorter wavelength.</figcaption>
+</figure>
+
+
 ## P8.3e: the solar system (Higher Tier only)
 
 The solar system is the Sun and everything held in orbit around it by gravity. The Sun is a star, and it contains almost all of the mass.
@@ -94,6 +100,22 @@ A geostationary satellite has orbit radius 4.22 × 10⁷ m and period 24 hours =
 
 The satellite in the lower orbit is moving much faster. This links to P8.3g below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--07-geo-polar-orbits.webp" width="900" height="870" alt="Earth with a small polar orbit through both poles (radius 7.171e6 m, period 6040 s, speed 7460 m/s) and a much larger geostationary ring over the equator (radius 4.22e7 m, period 24 h, speed 3070 m/s). Radii are drawn to the same scale." loading="lazy">
+  <figcaption>Geostationary and polar orbits compared at the same scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--08-moon-and-satellite.webp" width="900" height="915" alt="Earth with a natural Moon on an outer orbit and an artificial satellite on an inner orbit. An arrow on each points to the centre of Earth to show gravity is the inward force. The Moon formed naturally; the satellite is built, launched and controlled from Earth." loading="lazy">
+  <figcaption>Natural and artificial satellites both orbit because of gravity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+
 ## P8.3f: gravity changes velocity, not speed (Higher Tier only)
 
 Velocity is a vector: it has a size (speed) and a direction. A body in a circular orbit at constant speed is still accelerating, because its direction keeps changing. A change in velocity is an acceleration.
@@ -107,6 +129,12 @@ So the explanation has three parts:
 3. The speed stays the same while the velocity changes continuously, so the body follows a circle.
 
 If gravity switched off, the body would travel in a straight line at constant speed along the tangent to the orbit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## P8.3g: speed and radius of a stable orbit (Higher Tier only)
 
@@ -124,6 +152,12 @@ Three consequences, all qualitative:
 - Speed of B = 2π × 1.0 × 10⁷ / 9950 = 6310 m/s
 
 B is further out and slower. If B were given the speed of A, a stable orbit at that radius would no longer be possible, so its radius would have to change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--07-orbit-speed-radius.webp" width="900" height="1040" alt="Earth with an inner orbit (satellite A, 7540 m/s, 5830 s) and an outer orbit (satellite B, 6310 m/s, 9950 s). Arrow lengths show speed: the lower orbit is faster and has the shorter period." loading="lazy">
+  <figcaption>A satellite in a lower orbit moves faster than one in a higher orbit.</figcaption>
+</figure>
+
 
 ## P8.3h: temperature as a balance of radiation (Higher Tier only)
 
@@ -154,6 +188,17 @@ The factors that fix Earth's temperature:
 - **The atmosphere.** It affects the radiation from the Sun passing through it. Ozone absorbs much ultraviolet. Greenhouse gases such as carbon dioxide, methane and water vapour absorb infrared from Earth's surface and re-emit it in all directions, including back down. Less infrared escapes directly to space.
 
 Worked reasoning: suppose that, out of every 100 units of Sun's energy reaching Earth, 30 are reflected. Then 70 are absorbed. For a steady temperature Earth must emit 70 units. If extra greenhouse gas means only 66 escape, there is a net gain of 4 units, and Earth warms. As it warms, it emits more, until 70 units escape again. The new equilibrium is at a higher temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--08-earth-balance.webp" width="900" height="1130" alt="Two diagrams of Earth with arrow widths proportional to amounts. First: 100 in, 30 reflected, 70 absorbed, 70 emitted, so steady. Second: only 66 escape, so net gain 4 and Earth warms until 70 escape again." loading="lazy">
+  <figcaption>Temperature depends on the balance of radiation absorbed and emitted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
 
 ## Common errors
 

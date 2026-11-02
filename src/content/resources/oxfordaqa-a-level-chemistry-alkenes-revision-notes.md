@@ -59,11 +59,23 @@ appears on the [OxfordAQA A-Level Chemistry hub](/boards/oxfordaqa/a-level/chemi
 | Plasticiser | Small molecules between polymer chains that make the polymer flexible |
 | Surfactant (non-ionic) | Molecule with a non-polar tail and an uncharged polar head |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
+
 ## 3.3.4.1 Bonding and reactivity
 
 - Alkene C=C = four shared electrons between two carbons → **centre of high electron density**.
 - Electrophiles are attracted and accept a pair of electrons from it.
 - Alkanes have only single bonds and no such region, so they do not react this way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--01-sigma-pi-bond.webp" width="900" height="1080" alt="Top view of ethene with computed 120 degree angles in one plane; edge-on view with a sigma bond on the axis and pi clouds above and below; bars show C=C 612 = sigma 347 + pi 265 kJ/mol (Edexcel data; OCR 614 and 348)." loading="lazy">
+  <figcaption>The C=C is one σ bond plus a weaker π bond, in a flat trigonal planar arrangement (Edexcel, OCR).</figcaption>
+</figure>
+
 
 ## 3.3.4.2 Addition reactions
 
@@ -99,6 +111,27 @@ still orange. Required practical 5 (listed under 3.3.6.1) includes this test.
 > 4. Alkyl groups release electrons and spread the charge.
 > 5. More stable carbocation → forms more readily → **major** product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--03-addition-reactions.webp" width="900" height="1210" alt="Ethene and its six addition products drawn bond by bond: ethane (H2, Ni), 1,2-dibromoethane (Br2), bromoethane (HBr), ethanol (steam, H3PO4), ethyl hydrogensulfate (cold conc. H2SO4) and ethane-1,2-diol (acidified KMnO4). Each card is tagged with the boards that teach it." loading="lazy">
+  <figcaption>Addition across C=C gives a saturated product; the reagent decides which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--04-bromine-test.webp" width="900" height="975" alt="Two tubes of orange bromine water shaken with an alkene (turns colourless, Br2 used up, dibromoethane shown) and an alkane (stays orange, no reaction)." loading="lazy">
+  <figcaption>An alkene decolourises bromine water; an alkane leaves it orange.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--06-br2-mechanism.webp" width="900" height="1287" alt="The pi electrons repel the Br-Br electrons giving an induced dipole; arrows from C=C to the delta-plus Br and from Br-Br to the other Br make BrCH2CH2+ and Br-; a lone pair on Br- then attacks C+ to give 1,2-dibromoethane. OCR also accepts a bromonium ion." loading="lazy">
+  <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
+</figure>
+
+
 ## 3.3.4.3 Addition polymers
 
 > **Method: monomer → repeating unit**
@@ -133,6 +166,12 @@ intermolecular forces → chains slide → flexible.
 
 **Development over time:** PVC was first made in 1872 (Eugen Baumann) but was hard to use; plasticising it
 (Waldo Semon, B.F. Goodrich, 1926) made it flexible and widely useful.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
 
 ## 3.3.4.4 Epoxyethane
 

@@ -55,9 +55,26 @@ Link to section 3.1: the determinants of growth are investment, technology, work
 3. Limit: time lags, uncertainty, and winners and losers.
 4. Judgement: sensible for long-run goals, too slow alone for a short-run problem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--12-supply-side-evaluation.webp" width="900" height="1070" alt="Timeline from spending to output, 24,000 classrooms opportunity cost, gainers and possible losers. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>Supply side policy has a time lag, an opportunity cost and winners and losers.</figcaption>
+</figure>
+
+
 ### Small worked reminder: output per worker
 
 Country A has 1.5 million workers and output of £30bn. Output per worker = £30bn ÷ 1.5 million = £20,000. Output rises 1.5% to £30.45bn, so output per worker becomes £20,300. If the training costs £2bn a year and adds £2.6bn of output a year, the net gain is £2.6bn − £2bn = £0.6bn, but check the time lag and the opportunity cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--08-training-programme-cost.webp" width="900" height="990" alt="Output 400bn to 408bn; 25% of 8bn is 2bn back as tax; net cost 4bn; 6bn / 250,000 = 24,000 classrooms. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>A 6bn programme costs a net 4bn and could have built 24,000 classrooms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## 3.8 Externalities
 
@@ -74,6 +91,12 @@ Markets overproduce goods with negative externalities and underproduce goods wit
 
 - Negative externality: the social cost curve lies above the private cost (supply) curve. It meets demand at a lower quantity than the market equilibrium.
 - Positive externality: the social benefit curve lies above the demand curve. It meets supply at a higher quantity than the market equilibrium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ### Small numerical reminders
 
@@ -93,6 +116,42 @@ Markets overproduce goods with negative externalities and underproduce goods wit
 **Tax reminder (illustrative market).** Demand is Qd = 1,200 − 30P and supply is Qs = 30P. Without tax: 1,200 = 60P, so P = £20 and Q = 600. With a £6 tax, supply is 30(P − 6), so 1,200 − 30P = 30P − 180 and 60P = 1,380. Then P = £23 and Q = 510. Consumers pay £3 more, producers receive £17 (£3 less). Tax revenue is 510 × £6 = £3,060. If each unit carries £6 of external cost, the cost avoided is (600 − 510) × £6 = £540.
 
 **Subsidy reminder (illustrative market).** Demand is Qd = 800 − 10P and supply is Qs = 15P. Without subsidy: 800 = 25P, so P = £32 and Q = 480. With a £5 subsidy, supply is 15(P + 5), so 800 − 10P = 15P + 75 and 25P = 725. Then P = £29 and Q = 510. Buyers pay £3 less, providers receive £34 (£2 more). The cost to government is 510 × £5 = £2,550. The subsidy is paid on all 510 units, not only the 30 extra ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--03-tax-per-unit-example.webp" width="900" height="1000" alt="Demand Qd = 2,000 - 25P and supply Qs = 25P meet at £40 and 1,000 units. A £10 tax shifts supply so equilibrium moves to £45 and 875 units. Consumers pay £5 more, producers keep £5 less, and tax revenue is £8,750." loading="lazy">
+  <figcaption>With these curves the £10 tax is shared equally between buyers and sellers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--04-subsidy-per-unit-example.webp" width="900" height="1010" alt="Demand Qd = 1,800 - 20P and supply Qs = 10P meet at £60 and 600 courses. A £12 subsidy moves equilibrium to £56 and 680 courses. Buyers pay £4 less, providers receive £68, and the cost is £8,160, of which £7,200 went on 600 courses that would have been bought anyway." loading="lazy">
+  <figcaption>Most of the subsidy goes on courses people would have bought anyway.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--09-positive-externality-curves.webp" width="900" height="1010" alt="D: Qd=1800-20P, S: Qs=10P, 12 pounds external benefit; market 600 at 60 pounds, social optimum 680 at 68 pounds. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>With a positive externality the social benefit curve lies above demand and the best output is higher.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--10-tax-external-cost-avoided.webp" width="900" height="1010" alt="Demand 2000-25P, supply 25P; tax moves equilibrium from 1,000 at 40 to 875 at 45; revenue 8,750; external cost avoided 1,250. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>A 10 pound tax raises 8,750 and avoids 1,250 of external cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets--11-externality-tools-state-law-info.webp" width="900" height="950" alt="Benefit and cost of each of the three tools as stated in the lesson. Illustrative numbers from the lesson." loading="lazy">
+  <figcaption>State provision, regulation and information each have a benefit and a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Command words in this unit
 
@@ -173,3 +232,9 @@ For example, "explain how a tax reduces pollution" needs the chain cost up, supp
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification Version 2.0 (June 2026), first assessment 2019, published by OCR. Sections 3.7 and 3.8.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+

@@ -35,6 +35,12 @@ Use it with the [revision notes](/resources/edexcel-ial-biology-plant-cell-struc
 | 4.6 | Core Practical 7: use a light microscope to draw plan diagrams and cells, and identify tissues |
 | 4.7 | Explain how plant fibres and starch can contribute to sustainability, including replacing oil-based plastics |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
+
 ## 4.1 and 4.2: plant cell ultrastructure
 
 Plant and animal cells are both eukaryotic. Both have a nucleus, rough and smooth endoplasmic reticulum, Golgi apparatus, mitochondria, ribosomes and a plasma membrane. A plant cell also has the structures below.
@@ -80,12 +86,39 @@ magnification = image size ÷ actual size
 Convert to the same unit: 54 mm = 54 000 µm.
 magnification = 54 000 ÷ 4.5 = **×12 000**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
+
+
 ### Worked example 2: using a scale bar
 
 A scale bar on an EM image is 30 mm long and represents 1.5 µm. The cell wall measures 33 mm across the image.
 
 magnification = 30 mm ÷ 1.5 µm = 30 000 µm ÷ 1.5 µm = ×20 000
 actual thickness = 33 000 µm ÷ 20 000 = **1.65 µm**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--04-secretory-pathway.webp" width="900" height="930" alt="Five numbered steps: mRNA leaves the nucleus through a pore; ribosomes on the rough ER make the protein; a vesicle carries it to the Golgi; the Golgi modifies and packages it; a vesicle fuses with the cell surface membrane and releases it by exocytosis. Mitochondria supply ATP. A lysosome also forms at the Golgi, and proteins from free ribosomes stay in the cell." loading="lazy">
+  <figcaption>The route from gene to secreted protein: nucleus, rough ER, vesicle, Golgi, vesicle, exocytosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--05-prokaryote-virus.webp" width="900" height="1060" alt="A rod-shaped bacterium with a capsule, cell wall, cell surface membrane, no nucleus, a circular DNA loop free in the cytoplasm, a plasmid, small 70S ribosomes, a flagellum and pili. Below, a virus: a nucleic acid core inside a protein capsid, with attachment proteins and, in some viruses, an envelope. A virus has no cytoplasm or ribosomes and is not a cell." loading="lazy">
+  <figcaption>A bacterium has no nucleus or membrane-bound organelles; a virus is acellular.</figcaption>
+</figure>
+
 
 ## 4.3: starch and cellulose
 

@@ -47,6 +47,12 @@ Other links: the wider [People in business overview](/resources/o-level-business
 
 Different people rank these differently, so a method that works for one group may fail for another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--01-why-people-work.webp" width="900" height="950" alt="Five reasons to work (pay, security, social contact, status, satisfaction) with two columns showing a school leaver most focused on pay and an experienced manager on status and satisfaction. Illustrative: people order the reasons differently, so one method never works for everyone." loading="lazy">
+  <figcaption>People rank the reasons for working differently.</figcaption>
+</figure>
+
+
 ## Benefits of a well-motivated workforce
 
 | Benefit | Standard formula |
@@ -73,6 +79,17 @@ The syllabus names the three benefits but does not write out the formulas, so th
 - Less absenteeism: fewer production gaps, less cost for cover and overtime.
 - Lower turnover: lower recruitment and training costs, skills stay in the firm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--01-lorrimer-before-after.webp" width="900" height="1020" alt="Paired bars for Lorrimer Print Works before and after changes: productivity 300 to 330 items per employee (+10%), absenteeism 5% to 3% of 1,100 available days, labour turnover 20% to 10%." loading="lazy">
+  <figcaption>The lesson’s Lorrimer numbers drawn as before and after bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--02-three-measures.webp" width="900" height="960" alt="Three fraction formulas: productivity = output / employees; absenteeism = days lost / days available x 100; labour turnover = leavers / average employed x 100, each with the Lorrimer after-figure (330, 3%, 10%)." loading="lazy">
+  <figcaption>The three formulas behind the benefits of motivation.</figcaption>
+</figure>
+
+
 ## Maslow's hierarchy (lowest to highest)
 
 1. Physiological: basic needs, met by a living wage.
@@ -84,6 +101,12 @@ The syllabus names the three benefits but does not write out the formulas, so th
 **Rule:** a met need stops motivating. Find the unmet level and choose a method for it.
 
 **Weaknesses:** people do not always move up in order, and needs differ between individuals and cultures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
 
 ## Taylor and Herzberg side by side
 
@@ -98,6 +121,17 @@ The syllabus names the three benefits but does not write out the formulas, so th
 Both descriptions are the standard accounts of the theories, which the syllabus names but does not set out.
 
 **Link between the models.** Lower Maslow levels resemble hygiene factors. Higher levels resemble motivators.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--03-maslow-herzberg-taylor.webp" width="900" height="810" alt="Maslow levels stacked, with Herzberg motivators beside the top two and hygiene factors beside the lower three (approximate), and Taylor beside the lowest levels only." loading="lazy">
+  <figcaption>Where Taylor, Herzberg and Maslow overlap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
 
 ## Methods of motivation at a glance
 
@@ -114,6 +148,22 @@ Both descriptions are the standard accounts of the theories, which the syllabus 
 | Training | Non-financial | Skills and confidence | Cost, trained staff can leave |
 | Promotion | Non-financial | Status, aim to work towards | Few posts, can disappoint others |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--02-rotation-vs-enrichment.webp" width="900" height="940" alt="In job rotation an employee moves between Task A, B and C on a single level line, so the task changes but responsibility does not. In job enrichment three rising steps (task, plus decisions, plus challenge) show responsibility going up." loading="lazy">
+  <figcaption>Rotation changes the task; enrichment raises the level of responsibility.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--04-sandrick-pay.webp" width="900" height="1050" alt="Wage 11.50 x 40 = 460 a week; salary 1,400 + 3% x 42,000 (1,260) = 2,660; salary 1,400 + bonus 600 = 2,000; profit share 10% of 180,000 = 18,000 shared by 36 = 500 each." loading="lazy">
+  <figcaption>Sandrick Cycles pay calculations drawn as blocks and bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Wage vs salary:** wage is tied to hours worked; salary is a fixed yearly amount paid monthly.
@@ -129,6 +179,12 @@ Both descriptions are the standard accounts of the theories, which the syllabus 
 3. Link to evidence from the question and to Maslow or Herzberg.
 4. Give one cost or risk.
 5. Reach a clear judgement and say why the other option is weaker here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--05-pellingcote-recommend.webp" width="900" height="980" alt="Five steps (diagnose, choose, link, weigh, conclude) filled in for Pellingcote, with a need check showing pay met and belonging, esteem and growth unmet." loading="lazy">
+  <figcaption>The recommend-and-justify steps applied to Pellingcote.</figcaption>
+</figure>
+
 
 ## Matching methods to needs
 

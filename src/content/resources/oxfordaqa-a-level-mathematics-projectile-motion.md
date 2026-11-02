@@ -134,6 +134,17 @@ tan θ = 24.5 / 16, θ = 56.9° below the horizontal
 
 The cliff is **30.6 m** high and the stone lands moving at **56.9° below the horizontal**, at speed √(16² + 24.5²) = 29.3 m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
+
 ## 5. Eliminating time: the equation of the trajectory
 
 The path is a curve in x and y alone. To find it, eliminate t.
@@ -179,6 +190,12 @@ Height at that time: y = 22 sin 30° × 1.6796 − 4.9 × 1.6796² = 18.476 − 
 
 The height is 4.65 m, which is greater than 4 m, so the ball **clears the wall by 0.65 m**. The vertical velocity at that moment is 11 − 9.8 × 1.6796 = −5.46 m/s, so the ball is on its way down. For a "does it clear" question, always compare heights at the horizontal distance of the obstacle, and say whether the ball is above or below it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
+</figure>
+
+
 ## Common errors
 
 * Using V instead of the components V cos α and V sin α in the equations.
@@ -192,6 +209,17 @@ The height is 4.65 m, which is greater than 4 m, so the ball **clears the wall b
 ## Where to go next
 
 Practise with the [projectile practice questions](/resources/oxfordaqa-a-level-mathematics-projectile-motion-practice/), condense with the [revision notes](/resources/oxfordaqa-a-level-mathematics-projectile-motion-revision-notes/) and tick off the topic on the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/). The [hub](/boards/oxfordaqa/a-level/mathematics/) lists the other units, and the [diagnostics](/diagnostics/) show which topics need attention first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--05-calculus-turning-points.webp" width="900" height="1040" alt="Two graphs share a time axis. Displacement x = 2t³ − 15t² + 24t reaches 11 m at t = 1, minus 16 m at t = 4 and minus 5 m at t = 5. Velocity, its derivative, is zero at t = 1 and 4 and negative between. Displacement is minus 5 m but distance is 11 + 27 + 11 = 49 m." loading="lazy">
+  <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

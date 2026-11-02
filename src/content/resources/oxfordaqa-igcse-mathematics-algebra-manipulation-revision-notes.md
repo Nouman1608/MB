@@ -38,6 +38,12 @@ Almost every point has a **Core** version and an **Extension** version — revis
 | A7 | Algebraic fractions, numeric denominators | Linear/quadratic denominators |
 | A8 | Argue mathematically that algebraic expressions are equivalent; use algebra to support and construct arguments | To include proofs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-algebra-manipulation-revision-notes--07-a-difference-squares.webp" width="900" height="690" alt="A square of side x with a 3 by 3 corner removed is cut and rearranged into a rectangle (x-3) by (x+3), showing x2 - 9 = (x-3)(x+3). Drawn with x = 7." loading="lazy">
+  <figcaption>Why x2 - 9 factorises as (x - 3)(x + 3).</figcaption>
+</figure>
+
+
 ## Worked example: expand then factorise
 
 ```
@@ -46,6 +52,12 @@ Factorise:   x^2 + 5x + 6 = (x + 2)(x + 3)
 ```
 
 Working an expression **both directions** checks factorising work — multiply the brackets back out and confirm the original expression returns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-algebra-manipulation-revision-notes--06-a-expand-factorise.webp" width="900" height="680" alt="A rectangle of sides x+2 and x+3 split into x2, 3x, 2x and 6. Expanding gives x2 + 5x + 6; factorising reverses it. Check at x = 4 gives 42." loading="lazy">
+  <figcaption>Expanding and factorising are the same rectangle read in two directions.</figcaption>
+</figure>
+
 
 ## Worked example: algebraic fractions (Extension)
 
@@ -59,9 +71,31 @@ Result: x / (2x - 3)
 
 This tests A5 (factorising) and A7 (algebraic fractions) together — the eight points are rarely examined in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+
 ## Index laws (A6)
 
 Multiplication: **add** the powers. Division: **subtract** the powers. Extension: fractional powers represent roots. A scientific calculator is allowed on every 9260 paper (there is no calculator-free component), but these questions are quicker to answer by applying the rule directly than by reaching for the calculator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-algebra-manipulation-revision-notes--10-a-different-bases.webp" width="900" height="890" alt="x2y3 and x3y2 drawn as tiles: counts of x and y differ so they are not like terms. Multiplying adds powers of each base to give x5y5; check x=2, y=3 gives 7776 = 6^5." loading="lazy">
+  <figcaption>Different powers stop terms being added; multiplication adds the powers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
 
 ## Worked example: transforming a formula (A2)
 
@@ -75,6 +109,17 @@ Step 2: take the square root of both sides
 ```
 
 For the Extension-tier case where the subject appears twice -- for example, rearranging a formula where the required variable appears in two separate terms -- collect both instances of that variable on one side of the equation first, factorise it out as a common factor, and only then divide to isolate it. This factorise-then-divide sequence is the reliable method whenever a variable cannot be isolated in a single step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-algebra-manipulation-revision-notes--09-a-subject-twice.webp" width="900" height="880" alt="Bar model for 5x + 3 = 2x + 12: remove 2x and 3 from both sides, leaving 3x = 9, so x = 3. General: x(a-c) = d-b, x = (d-b)/(a-c)." loading="lazy">
+  <figcaption>Collect the subject terms, factorise, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--05-change-subject-reverse-steps.webp" width="900" height="850" alt="Two rows of boxes. The top row builds A from b with a = 3, h = 4 and b = 5: b is 5, add a gives 8, multiply by h gives 32, multiply by one half gives A = 16. The bottom row starts at A = 16 and undoes each step in reverse order: multiply by 2 gives 32, divide by h gives 8, subtract a gives 5, which is b. The result is b = 2A/h minus a." loading="lazy">
+  <figcaption>Change the subject by undoing the steps in the reverse order.</figcaption>
+</figure>
+
 
 ## Worked example: factorising ax² + bx + c (Extension)
 
@@ -93,9 +138,21 @@ Step 4: take out the common bracket
 
 This "split the middle term" method extends the Core skill (factorising x² + bx + c, where a = 1 and the two numbers only need to multiply to c) by requiring the numbers to multiply to a×c instead -- the same underlying logic, one extra step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-algebra-manipulation-revision-notes--08-a-split-ax2.webp" width="900" height="1100" alt="Core x2+5x+6 uses numbers multiplying to c=6; Extension 2x2+5x+3 uses numbers multiplying to a x c = 6, the same 2 and 3, area model gives (2x+3)(x+1)." loading="lazy">
+  <figcaption>The same pair of numbers works; the Extension target is a x c.</figcaption>
+</figure>
+
+
 ## Key terms
 
 **Expression** — a mathematical phrase with no equals sign (e.g. 3x + 2). **Equation** — a statement of equality true only for specific values. **Identity** — a statement of equality true for all values. **Factor** — a term that divides exactly into another. **Common factor** — a factor shared by every term in an expression, taken out first when factorising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--06-identity-vs-equation.webp" width="900" height="1180" alt="The graphs of (x + 2)(x + 3) and x squared + 5x + 6 coincide everywhere, an identity. The curve x squared + 5x + 6 meets y = 12 only at x = -6 and x = 1, so that equation is true only for those values." loading="lazy">
+  <figcaption>An identity is true for every x; an equation is true only for particular values.</figcaption>
+</figure>
+
 
 ## Pairing Core and Extension
 
@@ -108,6 +165,12 @@ A student secure on the Core version of A5 (factorising x^2 + bx + c) is most of
 - Applying index laws to terms with **different bases** as though they were the same.
 - Cancelling an additive term in a fraction rather than a genuine multiplicative common factor.
 - Treating an identity and an equation as interchangeable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

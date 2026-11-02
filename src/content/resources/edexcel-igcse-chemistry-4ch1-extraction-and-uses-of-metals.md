@@ -50,6 +50,12 @@ A metal low in the reactivity series does not react readily with oxygen, water o
 
 Extracting a metal from its compound means removing the other element. For an oxide, that means removing oxygen, which is **reduction** (statement 2.20). In electron terms the metal ions gain electrons to become atoms, which is also reduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--02-ores-and-gold.webp" width="900" height="920" alt="Haematite is an ore containing iron(III) oxide, bauxite an ore containing aluminium oxide, and gold is found as the uncombined element. Reactive metals are never found uncombined." loading="lazy">
+  <figcaption>Ores contain metal compounds; unreactive gold is found uncombined.</figcaption>
+</figure>
+
+
 ## Choosing an extraction method (2.23C)
 
 Carbon is a non-metal, but you can place it in the reactivity series. It sits between aluminium and zinc.
@@ -82,6 +88,12 @@ Fe₂O₃ + 3CO → 2Fe + 3CO₂
 
 Iron(III) oxide loses oxygen, so it is **reduced**. Carbon monoxide gains oxygen, so it is **oxidised** and is the **reducing agent**. You do not need further detail of the blast furnace.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+
 ### Illustration 2: aluminium, by electrolysis
 
 Aluminium is above carbon, so carbon cannot reduce aluminium oxide. Aluminium oxide is electrolysed instead. It has a melting point above 2000 °C, so it is dissolved in molten **cryolite**. The solution conducts at under 1000 °C, which saves energy. The electrodes are graphite (carbon).
@@ -92,6 +104,12 @@ anode (+):    2O²⁻ → O₂ + 4e⁻        oxidation (loss of electrons)
 ```
 
 At the high temperature, the oxygen reacts with the carbon anodes to form carbon dioxide. The anodes burn away and must be replaced regularly. The large electricity demand is the main cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
 
 ### Worked example 1: choosing a method
 
@@ -119,6 +137,12 @@ mass of Al = 51.0 x 54/102 = 27.0 tonnes
 ```
 
 The same method gives the percentage of iron in Fe₂O₃: 112/160 × 100 = 70.0%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
 
 ## Commenting on an extraction process (2.24C)
 
@@ -156,9 +180,21 @@ moles of Mg = 2 x 100 = 200 mol
 mass of Mg  = 200 x 24 = 4800 g = 4.80 kg
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--04-titanium-extraction.webp" width="900" height="880" alt="Titanium(IV) chloride is heated with molten magnesium at 800 to 850 degrees C under argon, giving titanium and magnesium chloride; the magnesium chloride is electrolysed to recover magnesium. For 4.80 kg Ti: 100 mol Ti, 200 mol Mg, 4.80 kg Mg." loading="lazy">
+  <figcaption>Magnesium displaces titanium, and the magnesium chloride is recycled by electrolysis.</figcaption>
+</figure>
+
+
 ### Recycling
 
 Recycling scrap aluminium needs only about 5% of the energy used to make new aluminium from its ore. It also saves ore and reduces mining waste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--05-recycling-aluminium.webp" width="900" height="700" alt="Two bars compare energy: new aluminium from ore uses 100 percent, aluminium from scrap about 5 percent." loading="lazy">
+  <figcaption>Recycling aluminium needs only about 5% of the energy of making it from ore.</figcaption>
+</figure>
+
 
 ## Uses of aluminium, copper, iron and steel (2.25C)
 
@@ -185,6 +221,17 @@ Pure iron is quite soft, and iron straight from the blast furnace contains about
 
 Mild steel must be protected from rusting (2.19). Stainless steel resists corrosion because chromium forms a protective oxide layer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--04-steels-carbon-content.webp" width="900" height="1000" alt="A scale of carbon content from 0 to 4 percent. Low-carbon steel (up to 0.3%) is strong, malleable and cheap but rusts; high-carbon steel (0.6 to 1.0%) is very hard but brittle; blast-furnace iron (about 4%) is brittle. Stainless steel has at least 10.5% chromium and resists corrosion." loading="lazy">
+  <figcaption>The carbon content of iron and steel decides how hard or brittle it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--03-uses-aluminium-copper.webp" width="900" height="1135" alt="Six rows pair a property with a use: aluminium for aircraft bodies, overhead cables and drinks cans; copper for wiring, water pipes and saucepan bases." loading="lazy">
+  <figcaption>Each use follows from a property of the metal.</figcaption>
+</figure>
+
+
 ## Alloys (2.26C and 2.27C)
 
 An **alloy** is a mixture of a metal and one or more other elements, usually other metals or carbon. It is a mixture, not a compound: the elements are not chemically bonded in fixed proportions. Examples are steel (iron and carbon), stainless steel (iron, chromium and often nickel) and brass (copper and zinc).
@@ -202,6 +249,12 @@ O O O O O O                   O O O O O O    layers distorted,
 ```
 
 In an alloy, atoms of a different size disrupt the regular layers. The layers are distorted, so it is harder for them to slide over each other. The alloy is therefore harder than the pure metal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
 
 ### Worked example 4: brass
 

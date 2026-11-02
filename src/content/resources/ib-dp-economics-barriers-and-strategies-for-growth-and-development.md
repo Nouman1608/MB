@@ -63,6 +63,12 @@ Low income  (back to the start)
 
 Name each link and say why it follows. Low income leaves little to save, so little is lent for investment. A poor government collects little tax, so it cannot fund schools and clinics. Low human capital means low output per worker, which keeps income low. A cycle can start at any box: poor health also lowers productivity and income. One large push at any point, such as a health programme, can break the loop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--09-poverty-cycle.webp" width="900" height="970" alt="Four boxes in a loop: low income, low saving and low tax revenue, low investment in capital, health and education, low productivity, and back to low income. One large push such as a health programme can break the loop." loading="lazy">
+  <figcaption>Low income today causes low income tomorrow, until something breaks the loop.</figcaption>
+</figure>
+
+
 ## Economic barriers
 
 **Rising economic inequality.** If gains go mostly to the richest households, the poor cannot afford education or start businesses, and demand from the many stays weak.
@@ -94,6 +100,27 @@ A single price fall cuts export earnings by 17.5%, which squeezes imports, tax r
 **Geography, including landlocked countries.** A landlocked country must send trade through neighbours' ports and roads, which adds cost and delay and gives neighbours bargaining power.
 
 **Tropical climates and endemic diseases.** Diseases always present in a region reduce health, school attendance and working lives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--10-primary-export-dependence.webp" width="900" height="890" alt="Stacked bars of Halvern exports. Copper is 2.8 of 4.0 billion halvs (70%). A 25% copper price fall cuts copper earnings to 2.1 and total exports to 3.3, a 17.5% fall." loading="lazy">
+  <figcaption>A single price fall on a dominant export cuts total earnings sharply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--04-informal-economy.webp" width="900" height="740" alt="A bar of GDP 50: formal 30 and informal 20 (40%). Taxing informal output at 15% would raise 3.0, shown as the 15% slice of the informal block. Informal workers lack legal protection and credit and firms stay small." loading="lazy">
+  <figcaption>Informal output is 40% of GDP and escapes tax; taxing it at 15% would raise 3.0 billion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--05-capital-flight.webp" width="900" height="780" alt="Twelve blocks of 0.5 make investment of 6.0; three blocks, 1.5, move abroad. 1.5 divided by 6.0 is 25% of investment. Causes named: political risk, fear of inflation, weak currency." loading="lazy">
+  <figcaption>An outflow of 1.5 a year equals a quarter of Brevane's 6.0 of investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--04-lorenz-gini.webp" width="900" height="976" alt="A Lorenz curve bows below the equality line: the poorest half of households get a quarter of income. The Gini coefficient is area A divided by A plus B, here one third." loading="lazy">
+  <figcaption>The bigger the gap between the Lorenz curve and the equality line, the higher the Gini coefficient.</figcaption>
+</figure>
+
 
 ## Political and social barriers
 
@@ -150,6 +177,22 @@ Left after interest and repaying the 300 = 480 - 36 - 300 = 144
 ```
 
 Other changes: *increasing women's empowerment*, *reducing corruption*, and secure *property rights* and *land rights*. These lower risk and let people invest. Limits: change is slow and rules need enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--11-debt-service-ratio.webp" width="900" height="840" alt="Bars for Quillon against exports of 3.0. Debt relief cuts debt service from 0.9 to 0.6, the ratio from 30% to 20%, freeing 0.3 which lifts the education budget from 0.9 to 1.2 (33.3%)." loading="lazy">
+  <figcaption>Debt relief lowers the debt service ratio and frees money for services such as education.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--06-fdi-profit-split.webp" width="900" height="880" alt="Wage bill 10 million and profit 90 million on one scale. Of the profit, 63 million (70%) is sent home and 27 million stays. Benefits are jobs, capital, skills and technology; costs are profit outflows and dependence risk." loading="lazy">
+  <figcaption>Most of the plant's profit leaves as an income debit, though the wage bill stays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-barriers-and-strategies-for-growth-and-development--07-microfinance-waterfall.webp" width="900" height="880" alt="Waterfall: extra income 480 (40 x 12), minus interest 36 (12% of 300), minus repaying the 300 loan, leaves 144 in year 1." loading="lazy">
+  <figcaption>A 300 loan at 12% that adds 40 a month leaves the seamstress 144 better off after year 1.</figcaption>
+</figure>
+
 
 ## Evaluating strategies and the role of government
 

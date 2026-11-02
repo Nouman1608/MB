@@ -63,6 +63,12 @@ Short-term needs are for day-to-day costs and temporary shortages. Long-term nee
 | | Grants, outside investors |
 | | Micro-finance, crowd-funding |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+
 ### Short-term and long-term
 
 | Short-term | Long-term |
@@ -72,6 +78,22 @@ Short-term needs are for day-to-day costs and temporary shortages. Long-term nee
 | Collecting debts sooner | Retained profit |
 
 Overdraft, debt and equity are the examples the syllabus itself uses. The other items are standard examples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--01-loan-total-cost.webp" width="900" height="920" alt="A stacked bar shows the 24,000 dollar loan plus three years of 1,920 dollar interest, 5,760 dollars in all, making 29,760 dollars to repay. Below, 36 coins stand for monthly payments of about 826.67 dollars each. The lesson notes this is simple interest for teaching." loading="lazy">
+  <figcaption>Ravenwood borrows $24,000 at 8% for 3 years and repays $29,760, about $826.67 a month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--03-sources-two-ways.webp" width="900" height="910" alt="A two by two grid sorts the lesson sources by internal or external and short-term or long-term. Debt (bank loan) and equity (share issue) are marked as the two long-term external sources, and sale of assets is marked as a one-off." loading="lazy">
+  <figcaption>Every source can be classified both ways: internal or external, short-term or long-term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--06-match-need-to-term.webp" width="900" height="975" alt="A time scale in years shows a short-term need lasting often under a year and a long-term need lasting several years or more. A 10-year machine funded by a recallable overdraft is marked wrong, while a long-term loan or equity covers it. Short need, short-term source; long need, long-term source." loading="lazy">
+  <figcaption>Match the length of the finance to the length of the need.</figcaption>
+</figure>
+
 
 ### Quick advantages and disadvantages
 
@@ -97,11 +119,23 @@ Overdraft, debt and equity are the examples the syllabus itself uses. The other 
 | Control | Unchanged | May be shared more widely |
 | Effect in a bad year | Interest still due | Dividend can be cut |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
+
 ### Why alternative sources matter
 
 - Banks may refuse small, new or risky businesses.
 - Micro-finance opens small loans to those without security.
 - Crowd-funding raises money from many people and shows whether people want the product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--08-micro-vs-crowd.webp" width="900" height="1020" alt="Micro-finance: a lender makes a small loan to a market stall owner, who repays it; repayments can still be heavy. Crowd-funding: twelve backers each give a small amount to a project on a website and may receive a product, reward or share; the target may be missed and the idea is public." loading="lazy">
+  <figcaption>Micro-finance is small loans; crowd-funding is many small contributions.</figcaption>
+</figure>
+
 
 ## Short-term versus long-term needs: how to tell
 
@@ -123,6 +157,12 @@ Overdraft, debt and equity are the examples the syllabus itself uses. The other 
 3. Length of time: short need, short-term source; long need, long-term source.
 4. Existing loans: heavy borrowing makes more debt harder to get and riskier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--07-four-choosing-factors.webp" width="900" height="1010" alt="Four cards: size and legal form (sole trader cannot issue shares, a company can); amount required (small sum overdraft or retained profit, very large sum share issue or large long-term loan); length of time (match short to short, long to long); existing loans (heavy borrowing may make lenders refuse, so consider equity or internal sources)." loading="lazy">
+  <figcaption>The four factors the syllabus lists, each with its rule of thumb.</figcaption>
+</figure>
+
+
 ## Method in steps: recommend and justify
 
 1. Pull out the amount, purpose, time period and legal form from the case.
@@ -134,6 +174,12 @@ Overdraft, debt and equity are the examples the syllabus itself uses. The other 
 ### Worked reminder
 
 Dalmere Foods, a private company, needs 120 000 dollars to buy ovens that last about ten years. A bank loan over ten years matches the length of the need. An overdraft does not, because it is short-term and can be withdrawn. Selling shares would avoid interest but would share ownership. Judgement: a long-term bank loan, unless existing loans already make repayments hard.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-business-finance-needs-and-sources--02-cargo-bike-funding.webp" width="900" height="920" alt="The 14,500 dollar bike is funded by 6,000 dollars of savings and an 8,500 dollar long-term loan (59%). An overdraft is rejected as short-term and recallable, and a share issue is not open to a sole trader. Because she already has a loan, she should borrow no more than she must." loading="lazy">
+  <figcaption>Larkhollow Bikes: savings plus a smaller long-term loan fits the need, an overdraft or share issue does not.</figcaption>
+</figure>
+
 
 ## Matching sources to situations
 

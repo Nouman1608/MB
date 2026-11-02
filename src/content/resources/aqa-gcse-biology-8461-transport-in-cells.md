@@ -107,6 +107,17 @@ Cube ratio   = 96 ÷ 64  = 1.5 : 1
 
 The flat shape has the larger ratio, which is why thin, flat structures make good exchange surfaces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--01-sa-v-cubes.webp" width="900" height="740" alt="Three cubes drawn to scale with sides 1, 2 and 4 cm. Surface areas are 6, 24 and 96 cm² and volumes 1, 8 and 64 cm³, giving ratios 6:1, 3:1 and 1.5:1. Each time the side doubles, the ratio halves." loading="lazy">
+  <figcaption>Doubling the side of a cube halves its surface area to volume ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--02-sa-v-shape.webp" width="900" height="740" alt="A 4 mm cube and a flat 1 by 8 by 8 mm cuboid both have volume 64 mm³. The cube has surface area 96 mm² (ratio 1.5:1); the flat cuboid has 160 mm² (ratio 2.5:1), so flat structures make better exchange surfaces." loading="lazy">
+  <figcaption>At equal volume the flat shape has the larger ratio.</figcaption>
+</figure>
+
+
 ### Why multicellular organisms need exchange surfaces and transport systems
 
 A large multicellular organism has a small surface area to volume ratio. Its outer surface is too small to supply
@@ -138,6 +149,32 @@ bringing in fresh air or water.
 | Leaves | Flat, thin shape; air spaces inside the leaf | Gases only travel a short distance | Stomata let carbon dioxide in and oxygen and water vapour out |
 
 Link each feature to its effect: "villi give a large surface area, so more glucose is absorbed at once".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--01-gills-stomata.webp" width="900" height="1140" alt="Top: a fish gill filament with seven thin plates, each holding blood, with water flowing over continuously. Bottom: a thin, flat leaf cross-section with air spaces and a stoma in the lower surface; carbon dioxide enters and oxygen and water vapour leave." loading="lazy">
+  <figcaption>Gills and leaves both give a large area, a short diffusion path and a steep gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+
 
 ## Osmosis (4.1.3.2)
 
@@ -176,6 +213,12 @@ Cylinder 2: (2.04 − 2.40) ÷ 2.40 × 100 = −0.36 ÷ 2.40 × 100 = −15.0 %
 If three repeats at one concentration give +11.5 %, +12.5 % and +12.0 %, the mean is
 (11.5 + 12.5 + 12.0) ÷ 3 = **+12.0 %**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--03-percentage-change-mass.webp" width="900" height="800" alt="Bar chart of two potato cylinders. Cylinder 1 goes from 2.50 g to 2.80 g (+12.0 %); cylinder 2 from 2.40 g to 2.04 g (−15.0 %). The formula is (final − initial) ÷ initial × 100." loading="lazy">
+  <figcaption>A gain gives a positive percentage, a loss a negative one.</figcaption>
+</figure>
+
+
 ### Rate of water uptake
 
 A rate is a compound measure: an amount divided by a time.
@@ -188,6 +231,12 @@ in grams per hour: 0.36 g ÷ 0.5 h = 0.72 g/h
 ```
 
 Always give the unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--03-water-uptake-rate.webp" width="900" height="900" alt="A straight-line graph of water gained (g) against time (min) from 0 to 0.36 g at 30 minutes. The gradient is 0.012 g per min, which equals 0.72 g per hour." loading="lazy">
+  <figcaption>Rate = amount divided by time: 0.36 g in 30 min is 0.012 g/min.</figcaption>
+</figure>
+
 
 ## Required practical activity 3
 
@@ -221,6 +270,17 @@ Concentration ≈ 0.2 + 0.08 = 0.28 mol/dm³
 **Improvements.** Surface water left after blotting adds to the final mass, so blot every cylinder the same way.
 Use more concentrations near the crossing point, and repeat to spot anomalies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--04-rp3-zero-crossing.webp" width="900" height="880" alt="Graph of percentage change in mass against concentration. A straight line through (0.2, +4.0) and (0.4, −6.0) crosses zero at 0.28 mol/dm³, where the solution matches the cell contents. Above zero the tissue gains mass; below zero it loses mass." loading="lazy">
+  <figcaption>The zero crossing of the line estimates the concentration of the cell contents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--02-rp3-method.webp" width="900" height="1090" alt="Five numbered steps: cut potato cylinders with a cork borer, blot and weigh, place one in each solution from 0.0 to 0.8 mol per dm cubed, leave for the same time and temperature, then blot, weigh and calculate percentage change. Masses 2.50 g and 2.80 g are the lesson worked example values." loading="lazy">
+  <figcaption>The five steps of required practical 3 in order.</figcaption>
+</figure>
+
+
 ## Active transport (4.1.3.3)
 
 > Active transport moves substances from a more dilute solution to a more concentrated solution (against a
@@ -236,6 +296,12 @@ The specification gives two examples.
 
 Anything that reduces respiration reduces active transport. Roots in waterlogged soil get little oxygen, so
 aerobic respiration slows and mineral ion uptake falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--04-root-hair-waterlogged.webp" width="900" height="985" alt="Two panels of a root hair cell. In well-aerated soil, mineral ions move from few in the soil to many in the cell using energy from respiration. In waterlogged soil there is little oxygen, respiration slows, and fewer ions are taken up." loading="lazy">
+  <figcaption>Active transport in roots needs energy from respiration, so waterlogging reduces ion uptake.</figcaption>
+</figure>
+
 
 ## Comparing the three processes
 

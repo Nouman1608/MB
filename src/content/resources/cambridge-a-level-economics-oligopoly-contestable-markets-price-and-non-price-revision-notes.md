@@ -64,6 +64,17 @@ Demand P = 30 − Q, marginal cost 10, recoverable fixed cost 36.
 Monopoly: MR = 30 − 2Q = 10, so Q = 10, P = 20, profit = 10 × 10 − 36 = 64.
 Limit price: (30 − Q)Q = 10Q + 36, so Q² − 20Q + 36 = 0, giving Q = 18 or Q = 2. Take Q = 18, P = 12. Average cost = 10 + 36/18 = 12. Profit is zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--09-contestable-ferry.webp" width="900" height="850" alt="Demand, MR, MC and AC for the ferry example: monopoly price 14, entry-threat price about 11.55, profit 12 to 0. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>The threat of hit-and-run entry pushes price from 14 to about 11.55 and profit to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--09-sunk-cost-entry-deterrence.webp" width="900" height="800" alt="Entrant earns 3 x 10 = 30 but spent 45 that is sunk, so loses 15 and is deterred; a recoverable fixed cost (60) is not sunk." loading="lazy">
+  <figcaption>A 45 sunk cost against 30 of early profit deters entry.</figcaption>
+</figure>
+
+
 ## Price and non-price competition
 
 Why non-price? Price cuts are copied, so margins fall for all. Non-price competition is slower to copy, builds loyalty and can make demand less elastic.
@@ -75,6 +86,17 @@ Benefits: better quality, choice and innovation.
 ### Worked reminder: price cut with a matched response
 
 If market demand has a price elasticity of −0.5, a matched price cut of 10% raises market sales by 5%. Revenue changes by 0.9 × 1.05 − 1 = −5.5%. Every firm loses revenue, so matched cuts are unattractive when demand is inelastic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--06-price-cut-profit-cases.webp" width="900" height="790" alt="Profit 25,000 before; 26,000 if rivals ignore a 10% cut (PED -3); 21,200 if rivals match (market elasticity -0.6)." loading="lazy">
+  <figcaption>If rivals match, a 10% price cut lowers profit by 3,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--07-advertising-worked-example.webp" width="900" height="860" alt="Advertising 2,000 with 120 extra sales at margin 30 gives +1,600; if a rival advertises too and gains cancel, each firm is 2,000 worse off." loading="lazy">
+  <figcaption>Advertising pays alone (+1,600) but costs each firm 2,000 if gains cancel.</figcaption>
+</figure>
+
 
 ## Collusion and the Prisoner's Dilemma
 
@@ -103,6 +125,17 @@ If B does not advertise, A earns 30 or 34, so advertising is better. If B advert
 
 Ways to escape: repeated play with punishment, agreement not to advertise (which may be illegal), or a price leader that rivals follow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--10-prisoners-dilemma-matrix.webp" width="900" height="740" alt="The lesson’s 2x2 matrix with the outcome and the better joint result highlighted. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Low is each firm’s dominant strategy, so both earn 25 instead of 40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--11-repeated-play-cheating.webp" width="900" height="810" alt="Cumulative profit lines for keeping the deal against cheating in year one. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Cheating wins for two years; from year three keeping the deal pays more.</figcaption>
+</figure>
+
+
 ## Efficiency in oligopoly
 
 | Type | Test | Oligopoly result |
@@ -120,6 +153,17 @@ Joint profit maximum: MR = 40 − 2Q = 10, so Q = 15 and P = 25.
 Deadweight loss = ½ × (25 − 10) × (30 − 15) = 112.5.
 
 Short run: supernormal profit is possible; price wars can cause losses. Long run: high barriers keep supernormal profit, while contestability pushes it to normal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--12-collusion-welfare-cost.webp" width="900" height="915" alt="Demand, MR and MC with deadweight loss triangles at price 36 (288) and price 28 (128). Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>The further price is above marginal cost, the larger the deadweight loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--08-x-inefficiency-oligopoly.webp" width="900" height="810" alt="Price 36, output 24: average cost 20 gives profit 384; at 17 it would be 456; slack is 3 x 24 = 72." loading="lazy">
+  <figcaption>Slack of 3 per unit costs the firm 72 of profit.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to practise
 

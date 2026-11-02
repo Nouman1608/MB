@@ -68,6 +68,12 @@ which use the same "find the missing figure" technique. All clubs and figures be
 | Depreciation | No | Yes | Reduces carrying amount |
 | Accruals and prepayments | No | Adjust the expense | Current liability / current asset |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 ```
@@ -108,6 +114,17 @@ Subscription income (9,890 - 40 written off) =  9,850
 
 Show 9,890 less 40 (net 9,850) in the income and expenditure account, or 9,890 as income with the 40 as an expense: the surplus is the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
+  <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--06-factory-cost-buildup.webp" width="900" height="984" alt="A waterfall builds up direct materials 185,100, direct wages 142,000 and royalties 6,800 to prime cost 333,900, adds overheads 110,800, adjusts work in progress by minus 2,200 to a factory cost of 442,500, then adds 15% profit on manufacture 66,375 for a transfer of 508,875." loading="lazy">
+  <figcaption>Factory cost builds up from prime cost and overheads, adjusted for work in progress, then profit on manufacture is added.</figcaption>
+</figure>
+
+
 ## Bar or café trading account
 
 Find purchases from supplier payments first, then prepare the trading account. Deduct only costs the bar
@@ -127,6 +144,12 @@ Bar profit    = 13,090 - 6,900             =  6,190
 
 The income and expenditure account shows one line: bar profit 6,190.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
+
 ## Life memberships
 
 Credit fees to the life membership fund. Release a share each year as the policy says.
@@ -141,6 +164,17 @@ Release = (4,800 + 1,600) / 8 = 800
 Closing fund = 3,000 + 1,600 - 800 = 3,800
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--01-cash-vs-surplus.webp" width="900" height="826" alt="A waterfall turns the 9,500 rise in cash into the 5,500 surplus: take off the 5,000 capital donation, add back 7,500 floodlights spending, take off 1,160 of life fees not yet income and 5,520 depreciation, add 180 for owing and prepaid timing." loading="lazy">
+  <figcaption>A cash rise differs from the surplus because of capital items, life fees, depreciation and timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--04-gifts-and-fees.webp" width="900" height="970" alt="Life fees of 2,400 go into the life membership fund; one tenth of 12,400, which is 1,240, is released to income, leaving a fund of 7,160. The 5,000 floodlights donation goes to the accumulated fund and the 300 general donation is income." loading="lazy">
+  <figcaption>Life fees, capital donations and general donations each go to a different place.</figcaption>
+</figure>
+
+
 ## Accumulated fund
 
 ### Worked reminder: Harrowdene Photographic Society
@@ -150,6 +184,12 @@ Equipment 6,300; cash 1,140; subscriptions in arrears 90; subscriptions in advan
 ```
 Accumulated fund = 6,300 + 1,140 + 90 - 210 - 150 = 7,170
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--05-accumulated-fund.webp" width="900" height="1010" alt="Bars compare assets with fund plus amounts owed at 1 January (100,080) and 31 December (112,090). The accumulated fund grows from 92,350 to 102,850 through the 5,000 donation and the 5,500 surplus; the life fund of 7,160 is shown separately." loading="lazy">
+  <figcaption>The accumulated fund grows by capital donations and the surplus.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -201,6 +241,12 @@ Quote figures, then finish with a clear verdict.
 9. Any two: it includes capital receipts and spending; it ignores accruals and prepayments; it ignores depreciation; it includes cash relating to other years, such as arrears and advance subscriptions.
 10. A deficit of **850**; the accumulated fund falls by 850.
 11. 1,840 - 160 + 220 = **1,900**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--08-unrealised-profit.webp" width="900" height="1056" alt="Closing finished goods of 29,900 at transfer price contain 26,000 cost and 3,900 unearned profit (29,900 x 15/115). The provision rose from 3,150 to 3,900, so only 750 is deducted from profit on manufacture of 66,375, leaving 65,625. Taking 15% of 29,900 is wrong." loading="lazy">
+  <figcaption>Remove unearned profit from closing finished goods using m/(100+m), and charge only the change in the provision.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

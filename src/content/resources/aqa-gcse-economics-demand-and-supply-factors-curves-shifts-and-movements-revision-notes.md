@@ -56,6 +56,37 @@ These notes condense **sections 3.1.3.1 (demand) and 3.1.3.2 (supply)** of the A
 
 The specification does not list the factors, so these are the standard ones. Always give the chain: factor, then what buyers do, then which way the curve moves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements--04-mira-demand-curve.webp" width="900" height="970" alt="Five points from Mira's data are plotted and joined into a falling demand curve D. A rise from 3 to 4 pounds cuts demand from 8 to 6 cups, 25 percent fewer. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Plotting a demand curve from a schedule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements--05-mira-demand-shift.webp" width="900" height="1020" alt="D1 is the original; D2 is 4 cups more at every price; D3 is 3 cups fewer. At 3 pounds demand is 8, 12 or 5 cups. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Numerical shifts of Mira's demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements--01-market-demand-adding.webp" width="900" height="800" alt="Bars for Mira (10), Joel (6) and Ana (4) cups at 2 pounds are joined into one bar of 20 cups, with the rule to add quantities, never prices." loading="lazy">
+  <figcaption>Market demand is found by adding quantities at each price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements--03-factors-curve-direction.webp" width="900" height="1086" alt="Eight mini graphs show factors and the shift they cause: income, substitute price and tastes shift demand right; complement price shifts demand left; costs and tax shift supply left; technology and subsidy shift supply right." loading="lazy">
+  <figcaption>Each factor moves a whole curve right or left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+
 ## Supply: what shifts the curve
 
 | Factor | Change | Supply |
@@ -67,6 +98,27 @@ The specification does not list the factors, so these are the standard ones. Alw
 | Number of firms | Rises | Rises |
 | Weather (farm goods) | Favourable | Rises |
 | Price of another good the firm could make | Rises | Falls for this good |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements--06-stool-supply-curve.webp" width="900" height="1260" alt="Bars show each stool's cost; at 50 pounds stools 1 to 4 are made. The schedule pairs are plotted as a rising supply curve S. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>A firm supplies a unit only if price covers its cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements--02-subsidy-shifts-supply.webp" width="900" height="900" alt="Supply graph through the stool costs 30, 35, 42, 50, 60, 72 pounds (S1) and the same costs minus 10 (S2). At 50 pounds supply rises from 4 to 5 stools." loading="lazy">
+  <figcaption>A 10 pound subsidy lowers the supply curve by 10 pounds, so more is supplied at each price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
 
 ## Method boxes
 

@@ -36,6 +36,12 @@ Current + capital + financial + net errors and omissions = 0 (capital inflows co
 
 **Reminder.** Goods -30, services +18, primary income -6, secondary +2: current account = -30 + 18 - 6 + 2 = -16. With capital account +1 and no errors, the financial account must be +15.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--09-bop-accounts.webp" width="900" height="854" alt="Waterfall: goods −60, services +40, primary income −25 and secondary income −10 make a current account of −55. Capital +3, financial +50 and errors +2 bring the total to zero." loading="lazy">
+  <figcaption>The current account of −55 is matched by capital, financial and errors entries so the total is zero.</figcaption>
+</figure>
+
+
 ## Causes (1b)
 
 | Deficit | Surplus |
@@ -48,6 +54,17 @@ Current + capital + financial + net errors and omissions = 0 (capital inflows co
 | Low saving | High saving |
 
 Distinguish a cyclical deficit (boom, likely to reverse) from a structural one (weak competitiveness, persists).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--12-income-elasticity-deficit.webp" width="900" height="940" alt="Imports 200 rise to 215 (elasticity 2.5) and exports 190 rise to 198.55 (elasticity 1.5) after 3% income growth. The deficit widens by 6.45." loading="lazy">
+  <figcaption>Imports respond more strongly to income than exports, so the deficit widens from 10 to 16.45.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Measures to reduce an imbalance (1c)
 
@@ -76,6 +93,12 @@ The trade deficit narrows by 240, but consumers pay more, and trading partners m
 - Fix by switching: lower exchange rate → cheaper exports abroad, dearer imports → balance improves if demand is responsive enough.
 - Fix by supply side: training and investment → productivity up → ULC down → competitiveness and balance improve over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--03-import-cut-mpm.webp" width="900" height="910" alt="Bars drawn to scale against GDP of 1,000: imports saved 12, income fall 48 (12 / 0.25), spending cut 19.2 (48 / 2.5). Output falls 4.8% to remove 12 of imports." loading="lazy">
+  <figcaption>Removing a modest import bill by cutting expenditure costs far more output than the imports saved.</figcaption>
+</figure>
+
+
 ## Global imbalances (1d)
 
 - Persistent surpluses abroad are the other side of deficits at home.
@@ -85,6 +108,12 @@ The trade deficit narrows by 240, but consumers pay more, and trading partners m
 - Evaluate: size relative to GDP, what the borrowing finances, how fast liabilities grow compared with national income.
 
 **Reminder.** If the deficit is 5% of GDP and nominal GDP grows 4%, liabilities tend towards 5 ÷ 4 = 125% of GDP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--11-deficit-liabilities.webp" width="900" height="910" alt="Bars show liabilities rising from 300 to 575 over five years. Interest at 4% rises from 12 to 23. Debt tends to 125% of GDP." loading="lazy">
+  <figcaption>Five years of a 55 deficit lift liabilities from 300 to 575 and annual interest from 12 to 23.</figcaption>
+</figure>
+
 
 ## Measuring competitiveness (3a)
 
@@ -101,6 +130,22 @@ The trade deficit narrows by 240, but consumers pay more, and trading partners m
 - Export price indices: Country A 108, Country B 102 (same currency terms). Relative price = 108 ÷ 102 × 100 = 105.9, so A is 5.9% dearer. If A's currency rises 3%, A's index in B's currency becomes 108 × 1.03 = 111.2, and the relative price is 111.2 ÷ 102 × 100 = 109.1.
 
 **Worked reminder: productivity growth.** Output per worker rises from 40 to 42 in Country G: growth = 2 ÷ 40 = 5%. If hourly pay rises 5%, ULC is unchanged: 1.05 ÷ 1.05 = 1. Pay can rise as fast as productivity without harming competitiveness. If rivals' ULC fall, though, relative ULC still rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--10-relative-ulc.webp" width="900" height="920" alt="ULC rises 3.92% in A and 0.49% in B. Relative ULC of 1.0342 is shown on a number line, moving to 0.9928 after a 4% currency fall." loading="lazy">
+  <figcaption>A relative ULC of 1.034 means A is 3.4% worse off, and a 4% currency fall turns it to 0.993.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--13-price-undercut.webp" width="900" height="870" alt="Foreign price is 10,000 fc against a rival at 9,500 fc, then 9,000 fc after depreciation, 500 fc (5.3%) below the rival." loading="lazy">
+  <figcaption>A fall to 1 cu = 1.8 fc cuts the foreign price to 9,000 fc, 5.3% below the rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-balance-of-payments-and-international-competitiveness--04-relative-productivity.webp" width="900" height="910" alt="Two bars of output per worker: A 30 (900 / 30m) and B 26.67 (720 / 27m). A is 112.5% of B, 12.5% higher." loading="lazy">
+  <figcaption>Relative productivity compares output per worker in two countries.</figcaption>
+</figure>
+
 
 ## Factors and measures (3b, 3c)
 

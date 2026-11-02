@@ -57,6 +57,12 @@ The specification names these examples.
 
 A common misconception is that cancer is a genetic disease you inherit. Most cancers start with changes in body cells during a lifetime and are not passed to children. Inherited variants can raise the risk, but they are only one factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--04-un39-ncd-multifactorial.webp" width="900" height="1080" alt="Inherited, lifestyle and environment factors feed a circle marked factors interact, which leads to the named diseases: cardiovascular disease, cancers, bronchitis, cirrhosis and type 2 diabetes. An illustrative risk bar shows a gene variant alone gives a lower risk, but the variant with smoking and a poor diet gives a much higher risk." loading="lazy">
+  <figcaption>Several factors interact to cause a non-communicable disease, and one factor can make another more harmful.</figcaption>
+</figure>
+
+
 ## B6.3s: treating cardiovascular disease
 
 In **coronary heart disease** fatty material builds up inside the coronary arteries and narrows them. The heart muscle gets less oxygenated blood. Narrowing can cause chest pain on exertion. If a coronary artery becomes blocked, part of the heart muscle is starved of oxygen and a heart attack follows. Look back at the coronary arteries in the [circulatory system guide](/resources/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system/) if you need to.
@@ -104,6 +110,22 @@ In a trial, 1000 people took a statin and 1000 took a placebo for five years. Th
 
 Conclusion: the statin lowered cholesterol and was linked to fewer heart attacks. A good answer also notes the limits: five years only, and the figures do not show side effects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--04-chd-surgical-treatments.webp" width="900" height="1210" alt="Three side views of a coronary artery: narrowed by a fatty deposit; a wire mesh stent holding it open (quick recovery); and a bypass graft, often a leg vessel, joined around the blocked section (major surgery, longer recovery)." loading="lazy">
+  <figcaption>A stent props the artery open; a bypass routes blood around the blockage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--05-un39-cvd-treatments-table.webp" width="900" height="1002" alt="Table with icons. Statins lower cholesterol but can cause muscle pain; blood pressure drugs reduce strain but need long-term monitoring; anticoagulants make clots less likely but raise bleeding risk; heart valve replacement uses a mechanical or biological valve (mechanical needs anti-clotting drugs); a heart transplant uses a donor heart but donors are scarce and rejection is a risk." loading="lazy">
+  <figcaption>Each drug or operation has a benefit and a drawback to weigh up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+
 ## B6.3t: lifestyle factors and the incidence of disease
 
 **Incidence** counts the people who newly develop a disease during one stated period. To compare places of different sizes, convert to a rate, for example cases per 100 000 people.
@@ -148,6 +170,17 @@ The total is 12 + 34 + 71 + 58 + 25 = 200. The modal class is 60 to 69, which ho
 
 **Sampling.** A study cannot test everyone. A sample should be large enough and chosen at random so that it represents the population. A small, self-selected sample can give a biased result. Diseases also take years to develop, so a long study is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--06-un39-incidence-per-100000.webp" width="900" height="880" alt="Two bar charts. Town A (48 000 people) has 36 new cases and Town B (91 000 people) has 52, so B has more cases. As rates per 100 000, Town A is 75.0 and Town B is 57.1, so B has the lower rate. Raw numbers would mislead." loading="lazy">
+  <figcaption>Town B has more cases but a lower rate per 100 000 than Town A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--07-un39-alcohol-cirrhosis-scatter.webp" width="900" height="810" alt="Scatter diagram of six regions: alcohol intake 4, 6, 9, 11, 14, 17 units a week against cirrhosis cases per 100 000 of 6, 8, 13, 14, 21, 24. The points rise close to a dashed line of best fit, a positive correlation, which alone does not prove cause." loading="lazy">
+  <figcaption>Cirrhosis incidence rises with alcohol intake, a positive correlation that does not by itself prove cause.</figcaption>
+</figure>
+
+
 ## B6.3u: cancer
 
 Cancer is the result of changes in cells that lead to uncontrolled growth and division. Normally the cell cycle is controlled and cells divide only when the body needs new cells. In a cancer cell a change (a mutation) in the genes that control division makes the cell divide again and again by mitosis. See the [mitosis and stem cells guide](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells/) and the [mutations guide](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations/).
@@ -171,6 +204,17 @@ One cancer cell divides every 24 hours, and each division doubles the number of 
 - After 30 divisions: 2³⁰ = **1 073 741 824** cells, after 30 days.
 
 The cell number grows exponentially. Real tumours grow more slowly because some cells die and some cannot get enough oxygen, but the pattern explains why early growth goes unnoticed and later growth is fast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--05-benign-malignant.webp" width="900" height="1220" alt="A benign tumour is a mass of abnormal cells that grows in one place, does not spread and is not cancer. A malignant tumour invades nearby tissue; cells break off, travel in the blood and form secondary tumours elsewhere." loading="lazy">
+  <figcaption>Malignant tumours spread and form secondary tumours; benign tumours stay in one place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--08-un39-cancer-doubling.webp" width="900" height="720" alt="Graph of 2^n cells for one cancer cell dividing daily: 1024 cells at day 10, 1 048 576 at day 20 and 1 073 741 824 at day 30. The curve looks flat for 20 days then shoots up." loading="lazy">
+  <figcaption>Doubling every day looks flat at first, then shoots up.</figcaption>
+</figure>
+
 
 ## Common errors
 

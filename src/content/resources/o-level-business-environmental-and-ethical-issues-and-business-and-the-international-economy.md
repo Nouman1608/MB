@@ -50,6 +50,12 @@ An environmental concern can be a constraint, because it limits or adds cost to 
 
 Factories burn fuel, farms clear land, transport uses oil and shops create packaging waste. Burning fossil fuels releases gases that add to global warming. Other effects include air and water pollution, noise, loss of wildlife habitat and the use up of non-renewable resources such as coal and minerals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+
 ### Externalities
 
 An externality is a cost or benefit of a business decision that falls on people who are not part of the transaction. Those people are neither the business nor its customer.
@@ -65,9 +71,21 @@ Worked example. Northlake Bottlers fills water bottles in a valley town. Its lor
 - External benefits: jobs and the new road for the community.
 - Costs and benefits to Northlake itself, such as wages or sales, are private, not external.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--04-externalities.webp" width="900" height="990" alt="A factory points to two panels. External costs: noise and congestion for residents, warm water that harms river life. External benefits: 90 jobs and a new road. A box says wages, materials and own sales are private, not external." loading="lazy">
+  <figcaption>External costs and benefits fall on people outside the transaction, unlike the firm's own costs.</figcaption>
+</figure>
+
+
 ### Sustainable development
 
 Sustainable development means meeting the needs of people today without harming the ability of future generations to meet their needs. A business can contribute by using renewable energy, cutting waste, recycling materials, using resources from managed sources, designing products to last and reducing transport distances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--04-sustainable-development.webp" width="900" height="780" alt="A balance of needs today against future needs, with six business actions: renewable energy, cut waste, recycle, managed resources, products that last and shorter transport." loading="lazy">
+  <figcaption>Sustainable development means both present and future needs are met.</figcaption>
+</figure>
+
 
 ### Responding to environmental pressures and opportunities
 
@@ -75,11 +93,28 @@ Pressure groups campaign to change business behaviour. Methods include publicity
 
 Reasons to respond: avoid lost sales, meet customer demand, follow the law, attract staff and investors, and charge higher prices for green products. Costs of responding: new equipment, higher input costs and staff training. A business that acts early may gain an advantage over rivals, but it must weigh that against the extra cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--05-pressure-groups.webp" width="900" height="1144" alt="Flow from pressure group methods to bad publicity, falling sales and a business response, with reasons for and costs of responding." loading="lazy">
+  <figcaption>How pressure groups push firms to respond, and what responding costs.</figcaption>
+</figure>
+
+
 ### Legal controls
 
 Governments set rules, such as pollution controls on what a factory may release. Businesses that break them can face fines, orders to stop and loss of reputation. The law forces all firms in an industry to meet the same minimum standard, which stops a careless firm gaining a cost advantage. Compliance raises costs, though it can also push a business towards cleaner methods. Keep your description general: name the type of control rather than inventing exact laws.
 
 Worked example. Northlake is told to fit a filter to stop warm water entering the river. The filter costs Rs 180,000. If it refuses and is fined Rs 250,000, the fine is Rs 70,000 higher than the filter, before counting damage to its name. A good judgement says the filter is cheaper, avoids reputation damage and could be used in advertising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--06-filter-or-fine.webp" width="900" height="770" alt="Two to-scale bars: filter Rs 180,000 against fine Rs 250,000, Rs 70,000 more, plus unpriced damage to its name." loading="lazy">
+  <figcaption>Fitting the filter is Rs 70,000 cheaper than the fine, before reputation damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
 
 ### Ethical issues
 
@@ -96,6 +131,17 @@ Worked example. Zanthe Foods buys 20,000 kg of cocoa a year at Rs 300 per kg, a 
 - New profit: 12,000,000 minus 6,900,000 minus 4,200,000 = Rs 900,000, so profit falls by 50%.
 
 Zanthe could raise its price by 5%, which adds Rs 600,000 to revenue, leaving profit at Rs 1,500,000, or Rs 300,000 less than before. The fair price costs profit, but it may protect supply, win ethical customers and avoid bad publicity. A reasoned judgement says it depends on whether customers will accept the price rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--05-fair-price.webp" width="900" height="1060" alt="Three bars of profit: 1,800,000 now, 900,000 if growers get a fair price of 345 per kg, and 1,500,000 if the firm also raises its price by 5 percent." loading="lazy">
+  <figcaption>Paying a fair price cuts profit, which is the profit-versus-ethics conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## 6.3.1 Globalisation
 
@@ -116,6 +162,17 @@ Worked example. Tavernor Fabrics, a local mill, sells cloth at Rs 560 per metre.
 
 A quota gives a hard limit on volume, not a price rise. Local firms are protected because fewer imports can enter, but prices may rise as supply is short.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--06-tariff-quota.webp" width="900" height="1050" alt="Bars show local cloth at 560, imports at 500, and imports at 600 after a 20 percent tariff adds 100. A gate picture shows a quota as a hard limit on quantity, with box numbers illustrative." loading="lazy">
+  <figcaption>A tariff raises the price of imports; a quota limits their quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--07-globalisation-map.webp" width="900" height="926" alt="Four causes lead into one world market; below are four opportunities and four threats for a business." loading="lazy">
+  <figcaption>Why globalisation happens and its opportunities and threats.</figcaption>
+</figure>
+
+
 ## 6.3.2 Multinational companies
 
 A multinational company (MNC) operates in more than one country. It has its head office in one and production, sales or both in others.
@@ -132,6 +189,17 @@ Benefits to the business: access to new markets, lower labour and material costs
 Repatriation of profits means sending profits back to the home country, not reinvesting them where they were earned.
 
 Worked example. Halcombe Electronics, from a larger country, opens a plant employing 300 local people and 120 imported managers and technicians. It makes Rs 8,000,000 profit a year and sends 75% to its head office. That is Rs 6,000,000 repatriated, with Rs 2,000,000 kept. The host country gains jobs and exports but loses most profit. Only 300 of the 420 jobs go to locals, or 71%, so the benefit is smaller than it first looks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--07-mnc-profit-jobs.webp" width="900" height="850" alt="A bar splits 8,000,000 profit into 6,000,000 repatriated (75 percent) and 2,000,000 kept. A second bar splits 420 jobs into 300 local (71 percent) and 120 incoming." loading="lazy">
+  <figcaption>A host country gains jobs and exports but loses much of the profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--08-mnc-host-lists.webp" width="900" height="772" alt="Four benefits and four drawbacks of a multinational for the host country, each with an icon." loading="lazy">
+  <figcaption>Host-country benefits and drawbacks of a multinational.</figcaption>
+</figure>
+
 
 ## 6.3.3 Exchange rates
 

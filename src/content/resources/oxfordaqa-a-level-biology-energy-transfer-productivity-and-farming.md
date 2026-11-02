@@ -101,6 +101,12 @@ A pyramid shows the amount at each trophic level, with producers as the lowest b
 
 In a food web some species feed at several levels, so each organism must be assigned to a level before a pyramid can be drawn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
+
 ## Gross and net primary production
 
 Primary production is the energy fixed by producers.
@@ -137,6 +143,12 @@ where I is the chemical energy of the food ingested, F is the energy in faeces, 
 
 Respiration is the largest loss, so the quickest way to increase N is to reduce R.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
+
 ## Farming and efficiency of energy transfer
 
 Farmers aim to maximise the energy that ends up in the crop or animal that people eat. The specification gives two approaches.
@@ -157,6 +169,17 @@ In a food chain involving humans, the animal's respiration is the main loss. Far
 2. Calmer water cuts R by 15%: 15 000 × 0.85 = 12 750 kJ.
 3. New N = 25 000 - (3 250 + 1 500 + 12 750) = 7 500 kJ.
 4. Net production rises from 21.0% to 30.0% of intake, a 42.9% increase in N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
+</figure>
+
 
 ## Arguing and evaluating
 

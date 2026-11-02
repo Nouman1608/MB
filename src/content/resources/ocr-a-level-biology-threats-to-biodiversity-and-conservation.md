@@ -116,6 +116,12 @@ Chick demand moves (56 - 52)/(8.8 - 6.1) = 1.5 days earlier per °C
 
 Caterpillars respond about four times as strongly to warmth as the birds do. By year 3 the peak of food falls well before the chicks need it, so fewer chicks are fed and the bird population may decline. This is a mismatch in timing, and it is a good example of why interdependent species are affected differently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
+
 ## 4.2.1(g) Reasons for maintaining biodiversity
 
 The specification groups the reasons as ecological, economic and aesthetic.
@@ -152,6 +158,12 @@ Seeds needed = 50/0.86 = 58.1, so sow at least 59
 
 Always round up because you cannot sow part of a seed. Seed banks regularly repeat such tests: a fall in germination shows that the stored seeds are ageing and need regrowing to make fresh stock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## 4.2.1(i) International and local agreements
 
 | Agreement | Level | What it does |
@@ -169,6 +181,12 @@ Always round up because you cannot sow part of a seed. Seed banks regularly repe
 - Treating seed banks as a replacement for habitat protection. They store genetic diversity but not ecosystems.
 - Stating that a correlation proves cause.
 - Forgetting to link a reason to a level: local (CSS), national (reserve law), global (CITES, CBD).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

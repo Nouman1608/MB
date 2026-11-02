@@ -50,6 +50,17 @@ Perfect competition is at one end, pure monopoly at the other. Three factors pla
 3. Judge how hard entry is.
 4. Name the structure and quote evidence from all three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--04-market-structure-spectrum.webp" width="900" height="1020" alt="A spectrum from perfect competition to pure monopoly with three double-headed arrows for number of firms, product and entry. Markets W, X, Y and Z from the lesson are placed in perfect competition, monopolistic competition, oligopoly and pure monopoly." loading="lazy">
+  <figcaption>Place a market using number of firms, product differentiation and ease of entry together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## Key definitions
 
 | Term | Meaning |
@@ -91,6 +102,12 @@ The 8th unit has MR 36 above MC 31, the 9th has MR 28 below MC 33. Profit peaks 
 
 **Firm B with a quality upgrade.** Suppose better ingredients lift demand to P = 100 − 4Q and raise costs to TC = 40 + 30Q + Q². Then MR = 100 − 8Q and MC = 30 + 2Q, so Q = 7, P = 72, TR = 504, TC = 299 and profit = 205. Compared with the original, price is £8 thousand higher per hundred units and profit is £75 thousand lower. A quality-minded firm may accept that. A pure profit maximiser would not, unless it expects the reputation to pay back later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--05-firm-a-objectives.webp" width="900" height="990" alt="AR = 80 - 2Q, MR = 80 - 4Q and MC = 8 + 2Q for Firm A. Profit maximisation at output 12 and price 56 (profit 382k), revenue maximisation with a 300k floor at 17 and 46 (307k), unconstrained revenue maximisation at 20 and 40 (190k). Any output 6 to 18 satisfices a 250k target." loading="lazy">
+  <figcaption>The same firm chooses different outputs and prices under different objectives; price is read from AR.</figcaption>
+</figure>
+
+
 ## Divorce of ownership from control
 
 | Reasons | Consequences |
@@ -105,6 +122,12 @@ The 8th unit has MR 36 above MC 31, the 9th has MR 28 below MC 33. Profit peaks 
 
 **How to discuss it (objectives, conduct, performance).** Link each in a chain: objective (sales or growth) leads to conduct (more spending, takeovers, lower prices) and then to performance (lower profit for shareholders, higher output for customers). Then weigh it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--06-ownership-control-divorce.webp" width="900" height="840" alt="Many shareholders appoint managers who run the firm. Owners (principals) want profit and dividends; managers (agents) may want pay, status and growth. Pay tied to profit, share options and takeover threat pull managers back." loading="lazy">
+  <figcaption>Owners and managers are different groups with different aims, held in check by controls.</figcaption>
+</figure>
+
+
 ## Other objectives
 
 | Objective | What the firm does | Likely effect |
@@ -116,6 +139,17 @@ The 8th unit has MR 36 above MC 31, the 9th has MR 28 below MC 33. Profit peaks 
 | Market share | Prices to win customers | Lower margins now; may be a longer-term plan |
 
 **Satisficing.** Why: imperfect information, several stakeholders, no way to know MC and MR exactly. Effect: managers stop at an acceptable profit, so output may differ from the MC = MR output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--09-quality-objective.webp" width="900" height="1010" alt="With demand P = 84 - 2Q and TC = 50 + 18Q + Q^2, MR = MC gives Q = 11 and price 62, profit 313. Before, Q was 12, price 56 and profit 382, so profit falls 69." loading="lazy">
+  <figcaption>A quality objective: profit falls by 69 thousand but price and quality are higher.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--10-market-share-grid.webp" width="900" height="1010" alt="A grid of 240 squares is the market. 12 shaded squares are 5.0% and 17 are 7.1%." loading="lazy">
+  <figcaption>Market share is sales divided by total market sales: 12/240 = 5.0%, 17/240 = 7.1%.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

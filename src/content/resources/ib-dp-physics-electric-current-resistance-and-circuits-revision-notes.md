@@ -53,6 +53,12 @@ Related pages: the [course hub](/boards/ib/ib-dp/physics/), the [printable check
 4. Higher temperature means larger vibrations, more collisions, higher resistance in a metal.
 5. A metal at constant temperature is ohmic. A filament lamp, thermistor and LDR are non-ohmic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--02-origin-of-resistance.webp" width="900" height="1170" alt="An insulator has almost no mobile carriers. In a cooler metal an electron accelerates and collides twice with vibrating ions along the path; in a hotter metal the ions vibrate more and the same path has six collisions, so resistance rises." loading="lazy">
+  <figcaption>More lattice vibration means more collisions, so a metal’s resistance rises with temperature.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Series-parallel network**
@@ -83,6 +89,12 @@ Related pages: the [course hub](/boards/ib/ib-dp/physics/), the [printable check
 - **Power.** 0.48 A through 5.0 Ω: P = I²R = 0.48² × 5.0 = 1.15 W, so 1.2 W to 2 significant figures.
 - **Lost volts.** A 1.5 V cell with r = 0.60 Ω supplying 0.50 A has Ir = 0.30 V lost, so the terminal p.d. is 1.2 V.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--03-resistivity-wire.webp" width="900" height="1030" alt="R = ρL/A for a nichrome wire of length 2.5 m and diameter 0.40 mm gives 22 ohms. Doubling the diameter quadruples the area and cuts R to 5.5 ohms; doubling the length doubles R to 44 ohms. Lengths, diameters and areas are drawn to scale." loading="lazy">
+  <figcaption>How length and diameter change resistance (Worked example 2).</figcaption>
+</figure>
+
+
 ## I–V graphs at a glance
 
 | Component | Graph of I against V | Why |
@@ -94,6 +106,12 @@ Related pages: the [course hub](/boards/ib/ib-dp/physics/), the [printable check
 
 Always say what R does as V rises, and give the reason, not only the shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--04-ohmic-non-ohmic.webp" width="900" height="1160" alt="A metal wire at constant temperature gives a straight I–V line through the origin (12 ohm). A filament lamp gives a curve bending towards the V axis: 0.25 A at 3.0 V (12 ohm) and 0.50 A at 9.0 V (18 ohm). R is V/I at a point, not a gradient." loading="lazy">
+  <figcaption>Straight line for an ohmic wire, curve for a filament lamp, using Worked example 3.</figcaption>
+</figure>
+
+
 ## Variable resistors and meters
 
 - **Potentiometer:** a resistor with a sliding contact across a supply. Moving the slider changes the fraction of the supply p.d. at the output, from zero to the full value.
@@ -101,6 +119,17 @@ Always say what R does as V rises, and give the reason, not only the shape.
 - **Ammeter:** connect in series; ideal resistance is zero.
 - **Voltmeter:** connect in parallel; ideal resistance is infinite.
 - **Non-ideal meter:** the guide says its resistance is constant. Treat it as an extra resistor in the circuit and recalculate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--01-current-and-pd.webp" width="900" height="1040" alt="A cell of e.m.f. 4.5 V drives current through a lamp, with an ammeter in series and a voltmeter in parallel across the lamp. Conventional current leaves the positive terminal while electrons move the opposite way. For 0.42 A for 900 s the charge is 378 C, about 2.4e21 electrons, and the energy is 1.7e3 J." loading="lazy">
+  <figcaption>Meters in a circuit and Worked example 1: charge, number of electrons and energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--08-variable-dividers.webp" width="900" height="1230" alt="A 6.0 V supply across a 3.0 kilohm resistor and an NTC thermistor: at 25 °C the thermistor is 1.5 kilohm and has 2.0 V; when hot it is 0.50 kilohm and has 0.86 V. A potentiometer slider one third up the track gives 2.0 V, and the output can be set from 0 to 6.0 V." loading="lazy">
+  <figcaption>A thermistor divider and a potentiometer both share the supply p.d. in proportion to resistance.</figcaption>
+</figure>
+
 
 ## Chemical and solar cells
 
@@ -154,6 +183,22 @@ Always say what R does as V rises, and give the reason, not only the shape.
 8. Share of LDR = 8.0 × 6.0 ÷ 8.0 = 6.0 V.
 9. Infinite, so it draws no current from the circuit and does not change the p.d. being measured.
 10. Output depends on light intensity, so it is unreliable at night or in cloud (or: low power per unit area).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--05-electrical-power.webp" width="900" height="1210" alt="A heater rated 36 W at 12 V draws 3.0 A and has resistance 4.0 ohm. P against V and P against I are parabolas for the 4.0 ohm resistor; halving V or I gives a quarter of the power. Over 300 s the energy is about 1.1e4 J." loading="lazy">
+  <figcaption>P = IV = I²R = V²/R, with the heater of Worked example 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--06-series-parallel.webp" width="900" height="1200" alt="A 9.0 V cell drives a 4.8 ohm resistor in series with 12 ohm and 18 ohm in parallel. The pair is 7.2 ohm, total 12.0 ohm, current 0.75 A, with 3.6 V and 5.4 V sharing the supply and branch currents 0.45 A and 0.30 A." loading="lazy">
+  <figcaption>Worked example 5 solved on the circuit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--07-internal-resistance.webp" width="900" height="1160" alt="A cell drives 1.0 A through 5.0 ohm and 2.0 A through 2.0 ohm, so r = 1.0 ohm and e.m.f. 6.0 V. The terminal p.d. is 5.0 V in the first case with 1.0 V lost inside. A V–I graph is a straight line with intercept 6.0 V, gradient −1.0 ohm and short-circuit current 6.0 A." loading="lazy">
+  <figcaption>Worked example 6 as a circuit and as a V–I graph.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

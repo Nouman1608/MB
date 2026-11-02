@@ -56,6 +56,12 @@ double entry has been applied *consistently* — but this is **necessary,
 not sufficient** proof of accuracy: several error types leave the
 totals balanced despite being wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--07-trial-balance-columns.webp" width="900" height="850" alt="Two equal stacked columns in dollars. Debit column 108,370: assets 41,020, purchases and expenses 61,750, drawings 5,600. Credit column 108,370: capital 20,000, liabilities 13,210, sales and purchases returns 75,160." loading="lazy">
+  <figcaption>A trial balance agrees when debit and credit columns have equal totals.</figcaption>
+</figure>
+
+
 ## 3.1 The six error types — the one to know cold
 
 | Error | What happened |
@@ -75,6 +81,22 @@ show the effect on the statement of financial position.
 Classify the error type *before* attempting the correcting entry —
 guessing the journal entry first is the most common way to lose marks
 here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--04-does-it-change-profit.webp" width="900" height="975" alt="Crediting income or expense accounts raises profit and debiting them lowers it. Journals between asset, liability or capital accounts do not change profit. A compensating error on electricity and discount received overstates and understates profit by 90 each, so the effects cancel." loading="lazy">
+  <figcaption>Profit changes only when an income or expense account is in the journal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--09-journal-size.webp" width="900" height="950" alt="Top: a sale of 2,730 recorded as 2,370 needs a journal for the 360 shortfall only. Bottom: a 900 payment entered the wrong way round raised the bank by 900 instead of lowering it, so the journal is 1,800 (undo 900, then redo 900)." loading="lazy">
+  <figcaption>Original entry: add the shortfall. Complete reversal: double the amount.</figcaption>
+</figure>
+
 
 ## 3.3 Bank reconciliation
 
@@ -97,6 +119,22 @@ The reconciliation statement **explains** these; they are not entered in the cas
 timing differences, but direct debits, charges and interest still reach the statement first and
 entries can still be duplicated or mis-keyed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--02-bank-update-cashbook.webp" width="900" height="842" alt="A waterfall takes the cash book balance 3,794 through +640, +9, +36, -95, -164 and -32 to an updated 4,188." loading="lazy">
+  <figcaption>Update the cash book before reconciling; the corrected balance is 4,188.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--01-bank-tick-off.webp" width="900" height="850" alt="Larkhaven Garden Supplies lines are sorted by where they appear. Cheque 0422 and the 1,740 deposit are only in the cash book (timing, reconciliation only). The credit transfer, standing order, direct debit, interest and charges are only on the statement (enter in cash book). Cheque 0421 (351 v 315) is a cash book error and cheque 0431 (85) is a bank error." loading="lazy">
+  <figcaption>Tick off first: each unmatched line needs a different action.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--03-bank-reconcile-bridge.webp" width="900" height="860" alt="A waterfall goes from the updated cash book 4,188, adds the unpresented cheque 520, deducts the uncredited deposit 1,740 and the bank error 85, and reaches the statement balance 2,883." loading="lazy">
+  <figcaption>Start from the updated cash book and add or deduct to reach the statement balance.</figcaption>
+</figure>
+
+
 ## 3.4 Control accounts
 
 A sales ledger control account and a purchases ledger control account
@@ -110,6 +148,12 @@ automatically and at any time, which cuts arithmetic errors, but it cannot catch
 the wrong customer keyed in. Reconciling control account balances with ledger balances is **not**
 required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--04-mp16-control-sources.webp" width="900" height="1006" alt="Each control account line is a total from a book of prime entry: sales journal, returns journals, purchases journal, cash book, general journal or bank statement. The account is a memorandum record outside the double entry and excludes cash sales and cash purchases." loading="lazy">
+  <figcaption>Every line is a total taken from a book of prime entry.</figcaption>
+</figure>
+
+
 ## Building revision around "what does each technique catch"
 
 Rather than four separate revision lists, build one table linking
@@ -121,6 +165,17 @@ accounts check personal ledgers against general-ledger totals. This
 framing answers the exam's favourite question format — "explain why
 [technique] would/would not detect [described error]" — far more
 reliably than memorising each technique's mechanics in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-verification-revision-notes--06-what-each-technique-checks.webp" width="900" height="976" alt="Four rows. The trial balance compares debits with credits and catches only an arithmetic imbalance. Error journals fix what the trial balance misses. A bank reconciliation checks the cash book against the bank statement. A control account checks personal ledger balances against totals from the books of prime entry." loading="lazy">
+  <figcaption>Each technique checks a different pair of records.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
 
 ## Worked example: classifying an error
 
@@ -137,6 +192,12 @@ Correction: Debit Vehicle Repairs $450
 Suspense?:  Not needed — the trial balance total is unaffected
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-verification-revision-notes--07-commission-or-principle.webp" width="900" height="900" alt="The same 450 of vehicle repairs can be posted wrongly in two ways. Posted to Vehicle Insurance, another expense account, is an error of commission (same type). Posted to Motor Vehicles, an asset, is an error of principle (wrong type). The correcting journals debit Vehicle Repairs 450 and credit the wrong account 450. Neither disturbs the trial balance totals." loading="lazy">
+  <figcaption>Same type of account is commission; a different type is principle.</figcaption>
+</figure>
+
+
 ## Suspense account: when it's needed, and when it isn't
 
 A suspense account is a temporary holding account opened **only**
@@ -147,6 +208,12 @@ account balance to zero. Because the six named error types (3.2) never
 cause an imbalance in the first place, none of them require a suspense
 account on their own — a frequent exam mistake is opening one anyway
 "to be safe" when the trial balance was never actually out of balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--02-mereside-suspense.webp" width="900" height="777" alt="The suspense account opens with a credit balance of 1,320. Debits of 1,200, 90 and 180 and a credit of 150 correct four errors and both sides total 1,470. Errors 5 and 6 never pass through suspense." loading="lazy">
+  <figcaption>Four errors explain the whole 1,320 difference, so the suspense account closes to nil.</figcaption>
+</figure>
+
 
 ## Exam traps
 

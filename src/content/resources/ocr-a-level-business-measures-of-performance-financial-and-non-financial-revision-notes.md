@@ -41,6 +41,22 @@ Use both. The specification asks you to evaluate performance using financial and
 
 Final accounts are the income statement (trading over a period) and the statement of financial position (assets, liabilities and equity at one date).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--02-penmarsh-profit-cash.webp" width="900" height="1100" alt="Bars show profit and net cash flow for January to March, with closing cash 3,500, 5,400 and minus 2,100 pounds. March profit is 7,300 pounds but cash is overdrawn because the oven is paid at once and half of March sales are still owed." loading="lazy">
+  <figcaption>A business can be profitable and still run out of cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--03-stakeholder-measures.webp" width="900" height="821" alt="Shareholders watch ROCE, the bank watches acid test and interest cover, customers watch quality, employees watch pay and security (no figures in case)." loading="lazy">
+  <figcaption>Each stakeholder looks at different measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ## Ratios at a glance
 
 Standard forms (the specification does not print formulas, so state yours if a question does not).
@@ -78,6 +94,12 @@ Sales revenue £200,000, cost of sales £120,000, operating expenses £50,000, f
 
 An acid test of 0.83 is below 1, so liquid assets do not fully cover current liabilities. That need not be fatal if inventory sells quickly, so say what it depends on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-efficiency.webp" width="900" height="990" alt="Bars for stock turnover (4.58 to 4.16 times) and debtor days (39.1 to 49.4 days) with the formulas and the lesson numbers." loading="lazy">
+  <figcaption>Stock turns slow and customers take longer to pay.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Key difference |
@@ -97,6 +119,17 @@ Causes: slow-paying customers, heavy stock buying, large one-off spending, seaso
 
 Revenue above budget: favourable. Costs above budget: adverse. Costs below budget: favourable. Redwick budgeted a monthly delivery cost of £18,000 and spent £19,500: a variance of £1,500 adverse. Variances show where to investigate, not the reason. Causes may be external (supplier prices) or internal (a poor budget).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--04-kitchen-variance-waterfall.webp" width="900" height="900" alt="Waterfall from budget profit 30,000 to actual 15,000: sales 12,000 adverse, materials 6,000 adverse, labour 3,000 favourable, overheads nil." loading="lazy">
+  <figcaption>Variances explain why profit is half the budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
+
 ## Why published accounts are incomplete
 
 * They report the past, not the future.
@@ -115,6 +148,17 @@ Revenue above budget: favourable. Costs above budget: adverse. Costs below budge
 | Quality | Defect and return rates | Protects reputation |
 | Customer satisfaction | Survey scores, complaints, repeat custom | Predicts future sales |
 | Others (etc.) | Staff turnover, delivery times | Link to people and service objectives |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--02-hallbrook-nonfinancial.webp" width="900" height="930" alt="Paired bars: market share 6.0 to 5.3 percent, capacity used 82 to 91, landfill up 9 percent, rework 2.5 to 4.8, satisfaction 92 to 84. Revenue +14.3 percent against market +28.6 percent." loading="lazy">
+  <figcaption>Five non-financial measures show Hallbrook under strain even in a growth year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
+
 
 ## Why measure, and the trade-offs
 
@@ -139,6 +183,12 @@ In one month Redwick records sales revenue of £25,000 and running costs of £21
 * With £5,000 opening cash, closing cash is **£0**.
 
 A profit and a zero bank balance sit side by side. The gap comes from late-paying customers and spending on a non-current asset.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
 
 ## Evaluating performance: a template
 
@@ -176,6 +226,12 @@ A good conclusion names the single most important measure for the stakeholder in
 8. **Efficiency**.
 9. They are historic, and they omit non-financial matters such as quality or morale.
 10. A lender or bank, because interest cover shows whether profit can meet loan interest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-ratios.webp" width="900" height="1050" alt="Paired bars compare Hallbrook Year 1 with Year 2: gross margin 40.0 to 35.0 percent, net margin 8.6 to 3.1, ROCE 15.0 to 8.3, gearing 26.8 to 34.5, acid test 1.30 to 0.88 and interest cover 7.0 to 2.7 times." loading="lazy">
+  <figcaption>Revenue rose 14.3 percent, but margins, returns, liquidity and cover all weakened.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

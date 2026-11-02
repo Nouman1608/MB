@@ -48,6 +48,12 @@ Order from smallest to largest: organism, population, community, ecosystem.
 - "All the frogs, fish, plants and bacteria in a pond" is a community.
 - "The pond including its water, light and temperature" is an ecosystem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--01-levels-ecosystem.webp" width="900" height="1060" alt="Four stacked panels show a pond snail, five snails of one species, a community of five species, and the community plus light, water and heat. Each level contains the one before." loading="lazy">
+  <figcaption>From organism to ecosystem: a population is one species, an ecosystem adds the non-living parts.</figcaption>
+</figure>
+
+
 ## Abiotic and biotic factors (B4.1f)
 
 | Factor | Type | Effect on a community |
@@ -64,6 +70,12 @@ Method for an explain answer:
 1. Name the factor and say whether it increases or decreases.
 2. Say what this does to individual organisms (growth, survival, reproduction).
 3. Say what happens to the population or the community.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--11-quadrat-light-means.webp" width="900" height="910" alt="Counts per quadrat at light 12, 45 and 90 have means 2.3, 10.0 and 5.0. The species is most abundant at moderate light." loading="lazy">
+  <figcaption>The mean count peaks at moderate light, though other factors may also differ.</figcaption>
+</figure>
+
 
 ## Interdependence and competition (B4.1g)
 
@@ -82,6 +94,27 @@ Competition:
 
 Predator-prey graph: the prey peak comes first and the predator peak follows. Prey numbers fall when predators are plentiful, and predator numbers then fall because food is scarce.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--02-predator-prey-lag.webp" width="900" height="810" alt="Line graph of aphids (left axis) and ladybirds (right axis) per plant over six months, from the lesson table. Aphids peak at 300 in month 3 and ladybirds at 14 in month 4. The ladybird peak lags one month behind." loading="lazy">
+  <figcaption>The predator peak comes after the prey peak, so the ladybirds are the predator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--09-interdependence-types.webp" width="900" height="960" alt="Predation: ladybird gains, aphids harmed. Mutualism: clover and root bacteria both gain, exchanging sugars and nitrogen compounds. Parasitism: tapeworm or flea gains, host harmed." loading="lazy">
+  <figcaption>Predation, mutualism and parasitism differ in who gains and who is harmed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--10-competition-types.webp" width="900" height="960" alt="Five organisms of one species around a limited resource show intraspecific competition; five organisms of two species show interspecific competition." loading="lazy">
+  <figcaption>Competition within a species is often fiercest; between species it happens where needs overlap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--03-web-change.webp" width="900" height="1150" alt="Web: grass eaten by rabbits and voles; rabbits and voles eaten by foxes; voles also eaten by owls. Disease kills most rabbits (1), foxes eat more voles so voles fall (2), owls may fall (3), grass may rise (4)." loading="lazy">
+  <figcaption>Follow every arrow: fewer rabbits means more voles eaten, fewer owls and more grass.</figcaption>
+</figure>
+
+
 ## Trophic levels (B4.1h)
 
 | Position | Name | Feeds on |
@@ -94,6 +127,12 @@ Predator-prey graph: the prey peak comes first and the predator peak follows. Pr
 - Arrows show the direction of biomass transfer: from the food to the feeder.
 - An apex predator has no natural predators.
 - Removing producers affects every level. Removing a top predator can allow its prey to increase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
 
 ## Pyramids of biomass and biomass loss (B4.1i)
 
@@ -108,6 +147,22 @@ Predator-prey graph: the prey peak comes first and the predator peak follows. Pr
 | Respiration | Glucose is broken down to release energy, and carbon leaves as carbon dioxide | Movement, keeping warm |
 
 Egestion is not excretion. Egestion is leaving the gut unabsorbed. Excretion is waste made by cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--03-cow-biomass-loss.webp" width="900" height="730" alt="A bar of 500 kg of grass eaten by a cow is split to scale into egestion 150 kg, respiration 240 kg, excretion 20 kg and new tissue 90 kg. Only 18 percent becomes growth and the largest loss is respiration at 48 percent." loading="lazy">
+  <figcaption>Of 500 kg of grass eaten, only 90 kg (18%) becomes new cow tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--12-seagrass-pyramid.webp" width="900" height="770" alt="A to-scale pyramid: seagrass 640 g, snails 70 g, wrasse 8 g dry mass per square metre." loading="lazy">
+  <figcaption>Each bar is drawn to scale: biomass falls steeply at each trophic level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--04-pyramids.webp" width="900" height="1030" alt="For one oak supporting 2 500 caterpillars eaten by 30 blue tits, the pyramid of numbers has a narrow base, very wide middle and narrow top, so it is not pyramid-shaped. The pyramid of biomass narrows at each level and is pyramid-shaped." loading="lazy">
+  <figcaption>Biomass gives a true pyramid because it allows for the size of organisms.</figcaption>
+</figure>
+
 
 ## Calculating efficiency (B4.1j)
 
@@ -131,6 +186,17 @@ If 8% is transferred, 100 - 8 = 92% is not. It is lost as egested material, excr
 Working through several levels at about 10% each: multiply by 0.1 for each step up, divide by 0.1 for each step down.
 
 Food chains are short, usually four or five levels, because so much is lost at each step that too little biomass remains to support another level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--04-wheat-chain-efficiency.webp" width="900" height="890" alt="Bars drawn to scale show wheat 2500 g, mice 215 g and owls 17.2 g per square metre per year. The steps are 8.6 percent and 8.0 percent and the overall efficiency is 0.69 percent." loading="lazy">
+  <figcaption>Overall efficiency (0.69%) is much lower than either single transfer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors--13-chain-10-percent.webp" width="900" height="990" alt="100 000 kg of producers falls by a factor of ten at each level to 1 kg at the fifth-level consumer. Working backwards, 12 kg of tertiary consumers needs 12 000 kg of producers." loading="lazy">
+  <figcaption>At 10% transfer only 1 kg remains after five steps, and 12 kg at the top needs 12 000 kg at the bottom.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

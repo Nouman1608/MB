@@ -63,6 +63,17 @@ Workings: 60 ÷ 5 = 12 supervisors, 12 ÷ 4 = 3 managers, and 1 + 3 + 12 + 60 = 
 
 A small business such as a 12-person workshop often has a flat chart because there is little to layer. A large business with thousands of employees cannot be completely flat, but it can reduce layers by removing middle management.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--01-quillfen-two-charts.webp" width="900" height="1066" alt="Two charts for the same 60 operatives. Hierarchical: 12 supervisors, 3 managers and 1 director give 4 levels and 76 employees. Flat: 6 team leaders and 1 owner give 3 levels and 67 employees, 9 fewer posts." loading="lazy">
+  <figcaption>The same 60 operatives need 76 employees in the hierarchical option and 67 in the flat option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--11-burdock-chart.webp" width="900" height="990" alt="Burdock Joinery chart: a managing director with four managers (span 4); operations has two supervisors (span 2) each with 6 workers (span 6); marketing 3, finance 2 and HR 1 staff. 4 levels, a chain of 3 links from worker to managing director, 25 employees." loading="lazy">
+  <figcaption>Burdock Joinery: levels, spans, chain of command and total employees read from the chart.</figcaption>
+</figure>
+
+
 ## 2. Centralised and decentralised structures
 
 This is a different question from tall versus flat. It asks **where decisions are made**, not how many levels there are.
@@ -78,6 +89,17 @@ Example: Dalbrook Hardware has five shops (all amounts in this guide are in doll
 | Limitations | Slow responses to local problems; branch managers may feel their ideas are ignored | Shops may behave differently; harder for the top to control; mistakes are possible if local managers lack skill |
 
 Which is better depends on the business. A small business with one site is naturally centralised because the owner decides most things. A multinational selling in different countries often needs more local decisions, because tastes, rules and prices differ. A chart can show either: lines of authority and the posts that hold decision-making power, such as regional managers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--03-dalbrook-spending-limits.webp" width="900" height="960" alt="A scale from $0 to $5,000. Centralised: the shop manager can spend up to $200 and head office approves anything above. Decentralised: the shop manager can spend up to $5,000. An illustrative $1,200 purchase goes to head office when centralised and is decided locally when decentralised." loading="lazy">
+  <figcaption>The same $1,200 purchase is decided by head office in the centralised version and by the shop manager in the decentralised one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
 
 ## 3. Roles and responsibilities: compliance and accountability
 
@@ -110,6 +132,17 @@ Worked example. Ines, an operations manager, delegates the weekly ordering of fl
 
 Benefits of delegation: managers free their time for planning, staff gain skills and motivation, and decisions are made nearer the work. Limitations: the task may be done badly, the manager may lose some control, and staff may feel overloaded if they are not trained or paid for extra duties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--02-chain-and-span.webp" width="900" height="940" alt="Two stacks of posts. Hierarchical chain: operative, supervisor, manager, director, 3 links, spans 5, 4 and 3. Flat chain: operative, team leader, owner, 2 links, spans 10 and 6." loading="lazy">
+  <figcaption>An operative is three links from the director in the hierarchical option and two links from the owner in the flat option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--07-delegation-accountability.webp" width="900" height="960" alt="Boss, manager and subordinate. The manager passes a task and authority down; the subordinate answers to the manager; the manager still answers to the boss. Responsibility is the duty to do the task, authority the power to decide, and accountability cannot be handed over." loading="lazy">
+  <figcaption>Authority can be delegated; accountability stays with the delegator.</figcaption>
+</figure>
+
+
 ## 4. Human resources
 
 The human resources (HR) function looks after the business's people. The specification lists these activities (the short explanations beside them are general descriptions of our own, not specification wording):
@@ -124,6 +157,17 @@ The human resources (HR) function looks after the business's people. The specifi
 - **Disciplinary and grievance procedure:** a disciplinary procedure deals with employees who break rules, usually with warnings first. A grievance procedure lets an employee make a formal complaint, for example about treatment by a manager.
 - **Dismissal, unfair dismissal and redundancy:** **dismissal** is ending a contract because of the employee's conduct or performance. **Unfair dismissal** is a dismissal where the reason or the way it was handled was not fair, which the employee may be able to challenge. **Redundancy** arises when the post itself disappears, for example because a department closes; it is not a judgement of the person.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-organisation-and-management--10-functional-areas.webp" width="900" height="940" alt="Four panels: operations makes the product or service, marketing finds, promotes and sells, finance handles money, budgets and wages, human resources recruits, trains and looks after staff." loading="lazy">
+  <figcaption>The four functional areas named in the syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-dismissal-vs-redundancy.webp" width="900" height="730" alt="Two panels. Dismissal concerns the person: an employee ignores safety rules after warnings and leaves; the post is often refilled. Redundancy concerns the job: a machine does the work of five, the post is crossed out and usually removed, through no fault of the worker." loading="lazy">
+  <figcaption>Dismissal is about the employee; redundancy is about the job.</figcaption>
+</figure>
+
+
 ## 5. Finance
 
 The finance function looks after the business's money. The specification lists:
@@ -134,6 +178,12 @@ The finance function looks after the business's money. The specification lists:
 - **Accounting:** recording transactions and preparing financial documents.
 
 Worked example. Keldwick Joinery has an employee paid 15.00 an hour for a 40-hour week plus 6 hours of overtime at time and a half. Basic pay is 40 × 15.00 = 600.00. Overtime pay is 6 × 15.00 × 1.5 = 135.00. Gross pay is 600.00 + 135.00 = 735.00. Finance must add this to the forecast of cash going out that week.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--04-keldwick-gross-pay.webp" width="900" height="890" alt="40 basic hours at $15.00 give $600.00; 6 overtime hours at $22.50 give $135.00; gross pay is $735.00, which finance adds to the cash-out forecast." loading="lazy">
+  <figcaption>Gross pay is $600.00 basic plus $135.00 overtime, $735.00 in total.</figcaption>
+</figure>
+
 
 ## 6. Marketing
 
@@ -146,6 +196,12 @@ The production function makes the goods or services. The specification lists: ma
 ### How the areas work together
 
 The areas depend on each other. Marketing research shows demand for a new product. Production designs and makes it. Finance sets the budget and pays suppliers. HR recruits and trains the staff who do all of this. Disagreement is common: marketing may want a wide range, while production wants fewer lines and finance wants to cut costs. Good answers show how one area's decision affects another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--05-areas-depend.webp" width="900" height="910" alt="Marketing research shows demand, production designs and makes the product, finance sets the budget and pays suppliers, and HR recruits and trains staff. Marketing, production and finance often disagree: wide range, fewer lines, lower costs." loading="lazy">
+  <figcaption>The four functional areas each contribute to one new product, and often disagree.</figcaption>
+</figure>
+
 
 ## Common errors
 

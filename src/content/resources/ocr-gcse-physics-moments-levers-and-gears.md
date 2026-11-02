@@ -55,6 +55,12 @@ Moving the pivot changes the answer. A downward push to the right of a pivot is 
 
 A force acting through the pivot has no turning effect about it. This idea returns in the next section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--09-mom-rotation.webp" width="900" height="1070" alt="Six small scenes: a door pushed at its handle turns clockwise, a spanner pushed up at its end turns the nut anticlockwise, a push right of a pivot is clockwise, the same push left of the pivot is anticlockwise, a force through the pivot does not turn the object, and equal pushes at equal distances balance." loading="lazy">
+  <figcaption>The sense of turning depends on which side of the pivot the force acts.</figcaption>
+</figure>
+
+
 ## P2.3l: the moment of a force (Higher Tier only)
 
 The **moment** of a force is the size of its turning effect about a pivot. It depends on how big the force is and how far from the pivot it acts:
@@ -116,6 +122,27 @@ Weights: rule 0.120 × 10 = 1.2 N, at the 50 cm mark. Left mass 0.250 × 10 = 2.
 
 Balance: 0.12 + 2.0x = 0.75, so 2.0x = 0.63 and x = 0.315 m. The mass hangs 0.315 m to the right of the pivot, at the **71.5 cm mark**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--07-mom-plank.webp" width="900" height="990" alt="A plank pivoted at its centre with a girl of 380 N at 2.1 m on the left and a man of 840 N at 0.95 m on the right. Both moments equal 798 N m so it balances; the 300 N plank weight at the pivot has no moment and the support force is 1520 N." loading="lazy">
+  <figcaption>Worked example 4: 380 x 2.1 = 840 x 0.95, so the man sits 0.95 m from the pivot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--08-mom-rule.webp" width="900" height="1030" alt="A metre rule pivoted at the 40 cm mark with a 2.5 N weight at 10 cm, the rule weight 1.2 N at 50 cm and a 2.0 N weight at 71.5 cm. The anticlockwise moment 0.75 N m equals 0.12 + 0.63 N m clockwise." loading="lazy">
+  <figcaption>Worked example 5: the 2.0 N weight hangs 0.315 m from the pivot, at the 71.5 cm mark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
+  <figcaption>Use the perpendicular distance from the pivot to the line of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--04-balanced-seesaw.webp" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
+  <figcaption>Balanced moments (360 N m each side) and balanced forces (700 N up) both hold.</figcaption>
+</figure>
+
+
 ## P2.3m: levers and gears (Higher Tier only)
 
 ### Levers
@@ -163,6 +190,17 @@ These calculations assume no energy is lost to friction.
 
 - Output moment = 2.5 × 10 = **25 N m**.
 - Output speed = 240 ÷ 10 = **24 revolutions per minute**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--08-lever.webp" width="900" height="1170" alt="A wheelbarrow as a lever pivoting at the axle: a 480 N load at 0.60 m and a 240 N effort at 1.20 m both give 288 N m. Below, the tilted lever shows the effort end rising twice as far as the load end, so no energy is gained." loading="lazy">
+  <figcaption>A longer effort arm halves the force needed but the effort moves twice as far.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--09-gears.webp" width="900" height="950" alt="A 15-tooth driver at 240 rpm and 2.5 N m turns clockwise and meshes with a 60-tooth driven gear turning anticlockwise. Ratio 4 gives 10 N m and 60 rpm. In a gear train ratios multiply, 4 times 2.5 = 10." loading="lazy">
+  <figcaption>A larger driven gear gives a larger moment but a slower turn, by the gear ratio.</figcaption>
+</figure>
+
 
 ## Common errors
 

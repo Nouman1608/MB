@@ -175,6 +175,27 @@ number of tiles = 12 × 8 = 96
 
 Check by area: 86 400 cm² ÷ 900 cm² = 96.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--04-tiling-floor.webp" width="900" height="772" alt="A 3.6 m by 2.4 m floor, shown as 360 cm by 240 cm, is covered by 12 by 8 square tiles of side 30 cm. That gives 96 tiles, checked by dividing the areas." loading="lazy">
+  <figcaption>Convert to one unit first, then count 12 x 8 = 96 tiles.</figcaption>
+</figure>
+
+
 ## 5.2 Area and perimeter
 
 ### Perimeter
@@ -287,6 +308,17 @@ area = 15 × 6 = 90 cm²
 ```
 
 Check: 2(15 + 6) = 42.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--05-area-formulas.webp" width="900" height="1350" alt="A gold triangle slides from one end of a parallelogram to make a rectangle, so A = bh. Two trapeziums make a parallelogram of base a+b, and two triangles make a parallelogram of base b, giving the half formulas." loading="lazy">
+  <figcaption>Each formula comes from rearranging or doubling the shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--06-perpendicular-height.webp" width="900" height="1130" alt="A parallelogram with base 12 cm, slant 7.5 cm and height 6 cm. Area is 12 x 6 = 72 cm squared using the perpendicular height; perimeter adds all four sides to give 39 cm." loading="lazy">
+  <figcaption>Use the perpendicular height for area and every side for perimeter.</figcaption>
+</figure>
+
 
 ## Putting 5.1 and 5.2 together
 

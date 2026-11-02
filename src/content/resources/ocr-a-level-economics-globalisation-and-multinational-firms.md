@@ -63,6 +63,12 @@ Export share: 34 - 18 = 16 percentage points; 34/18 - 1 = 88.9% relative rise
 
 Trade grew faster than output, communication became far cheaper and the pattern of world trade shifted. Quote percentage points when comparing shares, and say which you mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--01-glob-measures.webp" width="900" height="800" alt="Three pairs of bars compare Year 1 with Year 25: world trade index 100 to 310 against output 100 to 180, call cost 9.00 to 0.60, and emerging-economy export share 18% to 34%. Trade intensity is up 72.2%, the call cost is down 93.3%, and the share is up 16 percentage points." loading="lazy">
+  <figcaption>Trade grew faster than output, communication got far cheaper and emerging economies took a bigger export share.</figcaption>
+</figure>
+
+
 ## 3. Causes
 
 1. **Cheaper, faster transport.** Larger ships and containers cut the cost per unit shipped.
@@ -84,6 +90,12 @@ Saving = 5.75; annual saving = 1.15 million; payback = 6.4 / 1.15 = 5.6 years
 ```
 
 The move pays for itself, but rising wages abroad lengthen the payback. Comparative cost advantages are not permanent, and the firm also weighs risk, skills, infrastructure and market access.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--07-offshoring-payback.webp" width="900" height="890" alt="Unit cost per coat: 46 at home, 38 in Country E, 40.25 if Country E wages rise 25 percent. Savings of 8 and 5.75 on 200,000 coats repay the 6.4 million set-up cost in 4.0 and 5.6 years." loading="lazy">
+  <figcaption>A move abroad pays back, but rising foreign wages lengthen the payback.</figcaption>
+</figure>
+
 
 ## 4. Impact on developed, emerging and developing economies
 
@@ -132,6 +144,22 @@ A single price movement removes 14% of all export earnings. Diversification redu
 
 **Evaluation.** Outcomes depend on the starting point (skills, institutions, infrastructure), the policy response (education, retraining, taxes and transfers), the time period (adjustment costs come first), and the distribution of gains. Globalisation is not the only cause of change: technology also displaces workers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--02-glob-real-wage-split.webp" width="900" height="770" alt="Skilled wages rise 12% and unskilled 3% while prices rise 5%. In real terms skilled workers gain 6.7% and unskilled lose 1.9%, and the wage ratio widens from 2.00 to 2.17." loading="lazy">
+  <figcaption>Prices rising 5% turn a 3% money rise into a real loss for unskilled workers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--03-glob-commodity-shock.webp" width="900" height="700" alt="Export earnings of 400 are 280 from one crop and 120 from other goods. A 20% price fall cuts the crop to 224, a loss of 56, so total exports fall to 344, a 14% fall." loading="lazy">
+  <figcaption>A 20% price fall on a crop worth 70% of exports removes 14% of all export earnings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+
 ## 5. Multinational firms and the world economy
 
 A **multinational firm** runs production or other operations in two or more countries, usually directed from a home base.
@@ -162,6 +190,17 @@ If the initial investment was 150 million, the cumulative outflow overtakes it i
 
 **Evaluation.** The net effect depends on linkages with local suppliers, whether technology really spreads, the tax regime, the host's bargaining power and the alternatives available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--08-host-keeps-value-added.webp" width="900" height="1020" alt="A plant adds 120 million: wages 50, taxes 10, profit 60 of which 45 is sent abroad and 15 retained but foreign-owned. Residents keep 60, half. Cumulative profit sent abroad reaches 180 million in Year 4, passing 150 invested." loading="lazy">
+  <figcaption>Only part of a foreign-owned plant output stays with host residents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+
 ## 6. Emerging economies and other economies
 
 Emerging economies are now large enough for their performance to affect others through:
@@ -179,6 +218,12 @@ Effect on Country A's GDP growth: 0.30 x 0.15 x 5.4 = 0.24 percentage points
 ```
 
 The effect is modest for Country A, but would be much larger for an economy that sends half its exports to Country E. **Evaluation:** consider the size of the trade links, the commodity involved, whether other markets can replace the lost demand, and the exchange rate response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-globalisation-and-multinational-firms--04-glob-emerging-slowdown.webp" width="900" height="810" alt="E import growth falls from 12.6% to 7.2%, a 5.4 point slowdown. Multiplying by 0.15 (share of A exports going to E) and 0.30 (exports as share of A GDP) leaves a 0.24 point fall in A growth, shown as three shrinking bars." loading="lazy">
+  <figcaption>A large fall in an emerging economy import growth shrinks to 0.24 points of growth for a country with modest links.</figcaption>
+</figure>
+
 
 ## Common errors
 

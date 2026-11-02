@@ -76,6 +76,17 @@ The threat of entry cuts price from 14 to about 11.55 and profit from 12 to zero
 - Perfect information is unlikely: entrants may not know the incumbent's real costs.
 - Where a market is nearly contestable, a low concentration of sellers matters less than the credibility of the entry threat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--09-contestable-ferry.webp" width="900" height="850" alt="Demand, MR, MC and AC for the ferry example: monopoly price 14, entry-threat price about 11.55, profit 12 to 0. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>The threat of hit-and-run entry pushes price from 14 to about 11.55 and profit to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--09-sunk-cost-entry-deterrence.webp" width="900" height="800" alt="Entrant earns 3 x 10 = 30 but spent 45 that is sunk, so loses 15 and is deterred; a recoverable fixed cost (60) is not sunk." loading="lazy">
+  <figcaption>A 45 sunk cost against 30 of early profit deters entry.</figcaption>
+</figure>
+
+
 ## 2. Price competition and non-price competition
 
 **Price competition** means rivals use price to win sales: price cuts, discounts, promotions, loyalty pricing, a price war, or predatory pricing (setting price below cost to push out rivals).
@@ -103,6 +114,17 @@ A firm spends 2,000 on advertising and sales rise by 120 units, at a margin of 3
 ### Evaluation
 
 Non-price competition can raise quality and choice, and may support dynamic efficiency (7.3.4). It can also be wasteful, push up costs and prices, and create brand barriers to entry. Price competition benefits consumers but can destroy profit, and may be followed by exits and higher concentration. The firm's mix depends on how easily its product can be differentiated, how elastic demand is and how rivals react.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--06-price-cut-profit-cases.webp" width="900" height="790" alt="Profit 25,000 before; 26,000 if rivals ignore a 10% cut (PED -3); 21,200 if rivals match (market elasticity -0.6)." loading="lazy">
+  <figcaption>If rivals match, a 10% price cut lowers profit by 3,800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--07-advertising-worked-example.webp" width="900" height="860" alt="Advertising 2,000 with 120 extra sales at margin 30 gives +1,600; if a rival advertises too and gains cancel, each firm is 2,000 worse off." loading="lazy">
+  <figcaption>Advertising pays alone (+1,600) but costs each firm 2,000 if gains cancel.</figcaption>
+</figure>
+
 
 ## 3. Collusion and the Prisoner's Dilemma
 
@@ -143,6 +165,17 @@ Over a short horizon cheating pays. From three years, keeping the deal pays bett
 
 Collusion hurts consumers through higher prices and less output, but may fund research. It is hard to sustain with many firms, differentiated products, falling demand, secret discounts, new entry or legal action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--10-prisoners-dilemma-matrix.webp" width="900" height="740" alt="The lesson’s 2x2 matrix with the outcome and the better joint result highlighted. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Low is each firm’s dominant strategy, so both earn 25 instead of 40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--11-repeated-play-cheating.webp" width="900" height="810" alt="Cumulative profit lines for keeping the deal against cheating in year one. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Cheating wins for two years; from year three keeping the deal pays more.</figcaption>
+</figure>
+
+
 ## 4. Efficiency in oligopoly
 
 Allocative efficiency is where P = MC. Productive efficiency is production at the lowest possible average cost. X-inefficiency is when a firm's costs are above the lowest possible because of weak cost control, which is more likely where competition is weak.
@@ -168,6 +201,17 @@ In the short run, an oligopolist may earn supernormal profit, or may be pushed i
 ### Evaluation
 
 Large oligopolists may reach lower costs through economies of scale, so productive efficiency can be better than in a small-firm market. Supernormal profit can fund innovation, giving dynamic efficiency. But without rivals pressing on costs, X-inefficiency may persist. Efficiency depends on competition, not on the number of firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--12-collusion-welfare-cost.webp" width="900" height="915" alt="Demand, MR and MC with deadweight loss triangles at price 36 (288) and price 28 (128). Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>The further price is above marginal cost, the larger the deadweight loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price--08-x-inefficiency-oligopoly.webp" width="900" height="810" alt="Price 36, output 24: average cost 20 gives profit 384; at 17 it would be 456; slack is 3 x 24 = 72." loading="lazy">
+  <figcaption>Slack of 3 per unit costs the firm 72 of profit.</figcaption>
+</figure>
+
 
 ## Common errors
 

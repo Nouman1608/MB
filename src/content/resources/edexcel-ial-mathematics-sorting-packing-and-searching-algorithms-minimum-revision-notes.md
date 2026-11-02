@@ -40,6 +40,12 @@ Then try the [practice questions](/resources/edexcel-ial-mathematics-sorting-pac
 
 Show how each step of an algorithm was applied. Matrix representation is expected for Prim, but matrix manipulation is not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--01-middle-item.webp" width="900" height="830" alt="A row of nine numbered boxes has the 5th highlighted as the middle, from (9 + 1) / 2. A row of six has the 4th highlighted, from (6 + 2) / 2, and the 3rd is marked as not the middle. The same rule is used for every list." loading="lazy">
+  <figcaption>For N items the middle is position (N + 1) / 2 if N is odd and (N + 2) / 2 if N is even.</figcaption>
+</figure>
+
+
 ## 1.1 Implementing an algorithm
 
 1. Write one column per variable.
@@ -60,6 +66,12 @@ Output **8**.
 
 Middle positions: N = 7 gives the 4th; N = 12 gives the 7th; N = 9 gives the 5th; N = 6 gives the 4th.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--02-flow-chart-trace.webp" width="900" height="760" alt="A flow chart tests whether X equals Y, outputting X if so, otherwise subtracting the smaller from the larger and looping back. The trace table for X = 72, Y = 30 runs 72 30, 42 30, 12 30, 12 18, 12 6, 6 6. The output is 6, the highest common factor." loading="lazy">
+  <figcaption>A flow chart and its trace table show the same algorithm finding the highest common factor of 72 and 30.</figcaption>
+</figure>
+
+
 ## 1.2 Bin packing
 
 - **First-fit:** items in the order given; each goes in the first bin with room.
@@ -76,6 +88,12 @@ Bin 4: 6
 ```
 
 Four bins, so it is optimal. First-fit decreasing is not always optimal, so a bound is worth checking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--03-bin-packing.webp" width="900" height="1020" alt="Items totalling 71 need at least 4 bins of capacity 20. First-fit in the order given needs 5 bins. First-fit decreasing, after sorting, packs 13+7, 12+6, 11+5+4 and 10+3 into 4 bins, which equals the lower bound." loading="lazy">
+  <figcaption>Sorting the items first lets first-fit decreasing reach the lower bound of 4 bins where first-fit needed 5.</figcaption>
+</figure>
+
 
 ## 1.2 Bubble sort
 
@@ -95,6 +113,12 @@ Pass 4: 8 12 19 25 31   (0 swaps)
 
 Comparing every pair each pass, that is 4 × 4 = 16 comparisons and 7 swaps. Questions may use a version that skips items already in place, so check the wording.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--04-bubble-sort.webp" width="900" height="846" alt="Each pass compares adjacent pairs and swaps those out of order, so the largest unsorted item reaches its final place. Passes make 5, 3, 2 and 0 swaps, and the sort stops after the pass with no swaps. That is 24 comparisons and 10 swaps in all." loading="lazy">
+  <figcaption>Bubble sort repeats passes until a pass has no swaps: here 4 passes, 24 comparisons and 10 swaps.</figcaption>
+</figure>
+
+
 ## 1.2 Quick sort
 
 - Pivot is the middle item of each sublist.
@@ -111,6 +135,12 @@ Comparing every pair each pass, that is 4 × 4 = 16 comparisons and 7 swaps. Que
 Sorted: 5 8 13 21 26 34
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--05-quick-sort.webp" width="900" height="870" alt="Round 1 uses pivot 55 to split the list into smaller items on the left and larger on the right, keeping original order. Rounds 2 and 3 repeat on each sublist with pivots 29 and 71, then 8 and 36. Every item ends in its final place, giving 8 17 29 36 48 55 63 71." loading="lazy">
+  <figcaption>Quick sort fixes one pivot per sublist in each round, always taking the middle item as the pivot.</figcaption>
+</figure>
+
+
 ## 1.2 Binary search
 
 - The list must be in order.
@@ -118,6 +148,12 @@ Sorted: 5 8 13 21 26 34
 - If the list empties, the target is absent.
 
 **Reminder.** List 3, 8, 14, 20, 27, 31, 36, 42. Search for 31: N = 8, so the 5th item is 27, and 31 is larger. The list is 31, 36, 42, whose 2nd item is 36, and 31 is smaller. The list is 31, which matches. **Found** after three tests. Searching for 29 also reaches the list 31, and 29 is smaller, which leaves nothing, so **29 is not present**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--06-binary-search.webp" width="900" height="950" alt="In an ordered list of ten names, each step picks the middle item and discards the middle and the wrong side. Isle is found in four steps: Hart, Moss, Lark, Isle. Searching for Kern follows the same steps, but after Isle no items remain, so Kern is not in the list." loading="lazy">
+  <figcaption>Binary search halves an ordered list each step until the target is found or no items remain.</figcaption>
+</figure>
+
 
 ## 2.1 Minimum spanning trees
 
@@ -140,6 +176,12 @@ Sorted: 5 8 13 21 26 34
 
 **Reminder.** The rows of a matrix for W, X, Y, Z read: W: –, 5, –, 9; X: 5, –, 3, 6; Y: –, 3, –, 8; Z: 9, 6, 8, –. The edges are WX 5, WZ 9, XY 3, XZ 6 and YZ 8, and there is no edge WY. Kruskal accepts XY 3, WX 5 and XZ 6, then rejects YZ 8 and WZ 9. Prim from W takes WX 5, XY 3, XZ 6. Both give a tree of weight **14** with 3 edges.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--07-minimum-spanning-tree.webp" width="900" height="970" alt="A six-vertex network has a minimum spanning tree shown by thick edges CD 7, EF 8, AC 9, DE 10 and BC 11. Kruskal takes them cheapest first and rejects CE 13 as it closes a cycle. Prim from A adds AC, CD, DE, EF, CB. Both give total weight 45." loading="lazy">
+  <figcaption>Kruskal and Prim give the same minimum spanning tree, of total weight 45.</figcaption>
+</figure>
+
+
 ## 2.2 Dijkstra's algorithm
 
 1. Start vertex: order 1, final label 0.
@@ -149,6 +191,12 @@ Sorted: 5 8 13 21 26 34
 5. Work back from the target: an edge belongs to the route if the end label minus the weight equals the start label.
 
 **Reminder.** P is final with label 12, the edge PQ is 7, and Q has working value 21. Then 12 + 7 = 19 < 21, so Q's working value becomes 19.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum--08-dijkstra.webp" width="900" height="880" alt="In the network each vertex box shows its order of labelling and final label: S 1|0, B 2|4, A 3|6, C 4|9, E 5|13, D 6|14, T 7|21. Working back from T gives D, A, S, so the shortest route S, A, D, T is highlighted, with length 21." loading="lazy">
+  <figcaption>Dijkstra labels vertices in order of distance from S; working back from T gives the route S, A, D, T of length 21.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

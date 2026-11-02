@@ -94,6 +94,12 @@ Imran runs a coffee van. A cup sells for £3.50 and costs £1.10 in variable cos
 
 Check by the long route: revenue = 1,350 × 3.50 = 4,725. Total costs = 2,400 + (1.10 × 1,350) = 3,885. Profit = 4,725 − 3,885 = 840. The two methods agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--01-unit-contribution.webp" width="900" height="985" alt="Sana sells soap at 12 pounds; 5 pounds is variable cost and 7 pounds is contribution. Running profit rises from -4,200 pounds at 0 bars by 7 pounds a bar, reaching break-even at 600 bars and 1,400 pounds profit at 800." loading="lazy">
+  <figcaption>Each bar covers its own 5 pound cost, then adds 7 pounds towards the 4,200 pound fixed costs.</figcaption>
+</figure>
+
+
 ## Part 3: break-even charts and reading them (3.3.2, 3.3.3)
 
 On a break-even chart, output runs along the horizontal axis and pounds up the vertical axis. It shows three lines:
@@ -127,6 +133,17 @@ Plot these and you get revenue starting at the origin and total costs starting a
 
 If a question gives you a blank grid, plot fixed costs, plot total costs at two outputs and join them, then plot revenue at two outputs and join them. Label the axes, each line and the crossing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--02-sana-break-even-chart.webp" width="900" height="870" alt="Break-even chart for Sana: flat fixed cost line at 4,200, total costs rising to 8,200 and revenue rising to 9,600 at 800 bars. Lines cross at 600 bars and 7,200 pounds; loss to the left, profit to the right." loading="lazy">
+  <figcaption>Break-even is where the revenue and total cost lines cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--04-tahir-read-chart.webp" width="900" height="940" alt="Tahir’s chart: total costs start at 3,000 pounds and rise 1,500 per 100 repairs, so variable cost is 15 pounds. Revenue is 4,500 at 100 repairs, so price is 45 pounds. The lines cross at 100 repairs; 3,000 / 30 = 100." loading="lazy">
+  <figcaption>Fixed cost, variable cost, price and break-even can all be read from the chart.</figcaption>
+</figure>
+
+
 ## Part 4: the impact of changes in revenue and costs (3.3.3)
 
 Changes in revenue and costs move the lines on the chart, and so move the break-even point. Take Sana's studio (price £12, variable cost £5, fixed costs £4,200, break-even 600 bars) and change one thing at a time.
@@ -143,6 +160,12 @@ Break-even output is only part of the story. A price rise lowers break-even outp
 
 The same method works for a fall in revenue from a different cause, such as a competitor opening nearby. Work out the new sales level and compare it with break-even output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-costs-and-break-even-analysis--03-break-even-changes.webp" width="900" height="890" alt="Starting from 600 bars, a price of 14 pounds gives 467 bars, a variable cost of 6 pounds gives 700 bars and fixed costs of 4,800 pounds give 686 bars." loading="lazy">
+  <figcaption>Lower break-even output means the business reaches profit sooner.</figcaption>
+</figure>
+
+
 ## Part 5: limitations of break-even charts (3.3.3)
 
 A break-even chart is a model. It is useful for planning, but you must know where it can mislead.
@@ -156,6 +179,12 @@ A break-even chart is a model. It is useful for planning, but you must know wher
 - **One product.** Businesses selling several products need extra assumptions about the mix.
 
 For a high-mark answer, link the limitation to the business: say what is likely to change for that firm, and what effect it would have on the break-even point or on the decision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-costs-scale-of-production-and-break-even-analysis--04-break-even-limits.webp" width="900" height="1010" alt="Rowanbank break-even chart with numbered badges on the revenue, total cost and fixed cost lines showing the assumptions behind them, plus the other limitations." loading="lazy">
+  <figcaption>Straight lines on a break-even chart hide assumptions about price, variable cost and fixed costs.</figcaption>
+</figure>
+
 
 ## Command words in this topic
 

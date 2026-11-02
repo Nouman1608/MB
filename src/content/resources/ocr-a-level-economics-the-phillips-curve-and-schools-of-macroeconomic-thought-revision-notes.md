@@ -44,6 +44,17 @@ Quick recall for the Phillips Curve topic and the school-of-thought bullet in Co
 5. It cuts the vertical LRPC at the point where actual equals expected inflation.
 6. A rise in expected inflation shifts the SRPC up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--01-srpc-worked-line.webp" width="900" height="950" alt="The straight-line short-run curve for Country A: wage growth equals 2.5 plus 0.5 times (6 minus U). Cutting unemployment from 6 to 4 percent raises wage growth by 1.0 percentage point and puts 0.6 million more people in work." loading="lazy">
+  <figcaption>Worked example 1 turned into a graph: U 6% to 4% costs 1.0 pp of extra wage growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--02-ulc-wage-vs-productivity.webp" width="900" height="920" alt="Bars show wage growth 3.5 percent, productivity growth 1.5 percent and the resulting unit labour cost growth of 1.97 percent, about 2.0 percent." loading="lazy">
+  <figcaption>Unit labour cost rises by less than wages because productivity grows too.</figcaption>
+</figure>
+
+
 ## Formulas and method
 
 | Result | Formula |
@@ -80,6 +91,27 @@ Shifts of the natural rate:
 - **Down (LRPC moves left):** better training, mobility, job information, less generous or shorter benefits, more flexible hiring.
 - **Up (LRPC moves right):** hysteresis after long slumps, mismatch of skills and vacancies, rigid pay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--12-cost-of-disinflation.webp" width="900" height="990" alt="Holding unemployment at 8%, 2 points above the natural rate, cuts inflation by 1 point a year from 6% to 2% over four years. The cost is 2 points times 4 years, 8 point-years of excess unemployment, about 0.6 million extra unemployed each year." loading="lazy">
+  <figcaption>Bringing inflation down needs unemployment above the natural rate for several years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--14-nairu-error.webp" width="900" height="980" alt="Three parallel curves for natural rates of 5%, 6% and 7%. Aiming for U = 5% to get 3.0% wage growth assumes U* = 6%; if U* is really 5% or 7% wage growth is 2.5% or 3.5%." loading="lazy">
+  <figcaption>A one-point error in the unobservable natural rate gives a half-point policy miss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--03-natural-rate-contents.webp" width="900" height="940" alt="Frictional 2.0 percent and structural 4.0 percent make a natural rate of 6.0 percent, with zero cyclical unemployment. At U = 5.0 percent the economy is 1 percentage point below the natural rate, with 0.3 million more employed than is sustainable." loading="lazy">
+  <figcaption>The natural rate is frictional plus structural; cyclical is the gap between actual and natural.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
+
 ## Evaluating the Phillips Curve
 
 **Explains well when:** demand shocks dominate; expectations are stable; the period is short.
@@ -96,6 +128,22 @@ Shifts of the natural rate:
 - Against: NAIRU cannot be observed and changes; the SRPC shifts; policy lags; fine-tuning risks error.
 
 Worked reminder: Country B, expected inflation 3%, slope 0.6, U* = 5%. For wage growth of 4.2%: U = 5 − (4.2 − 3) ÷ 0.6 = 3.0%. If U* is really 6%, the same U gives 3 + 0.6 × 3 = 4.8%, an overshoot. A small error in U* gives a large policy error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--11-expectations-spiral.webp" width="900" height="960" alt="Five short-run Phillips curves for expected inflation of 2% to 6% each cross the vertical long-run curve at 6% unemployment. Holding unemployment at 4% for four years makes inflation climb from 3% to 6%, and returning to 6% unemployment leaves inflation at 6%." loading="lazy">
+  <figcaption>As expectations catch up the short-run curve shifts up, so there is no long-run trade-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--13-phillips-eras.webp" width="900" height="990" alt="In era 1 four points lie on one downward-sloping curve with expectations steady at 2.5%. In era 2 unemployment and wage growth rise together because implied expectations rise from 5.5% to 8.5%, so the curve shifts." loading="lazy">
+  <figcaption>One stable curve fits era 1, but in era 2 the curve itself shifts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--04-supply-side-lrpc-left.webp" width="900" height="940" alt="Demand policy only slides the economy along a short-run curve. Supply-side policy that cuts the natural rate from 6 to 5 percent shifts the long-run curve (and the short-run curve) left." loading="lazy">
+  <figcaption>Only supply-side policy moves the long-run Phillips curve.</figcaption>
+</figure>
+
 
 ## Diagram checklist
 
@@ -139,6 +187,22 @@ Label the axes (unemployment % across, inflation % up) and name each curve:
 **Austrian arithmetic reminder.** Credit grows 8% a year for 4 years: 1.08⁴ − 1 = 36.0%. Real income grows 2%: 1.02⁴ − 1 = 8.2%. Credit has grown more than four times as fast as income.
 
 **Evaluating a school.** Check the time period, the cause of the problem (demand, supply or credit) and the costs of acting or waiting. Do not declare one school simply correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--15-austrian-credit-income.webp" width="900" height="960" alt="Credit growing 12% a year rises 76.2% in five years while income growing 3% a year rises only 15.9%, a widening gap that the Austrian school says cannot last." loading="lazy">
+  <figcaption>Credit outgrowing income is the kind of imbalance the Austrian school warns about.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--05-three-schools-compared.webp" width="900" height="1110" alt="Keynesian: flat aggregate supply, so more demand lifts output. Neo-classical: vertical long-run aggregate supply, so demand moves only prices. Austrian: cheap credit leads to malinvestment and then a bust." loading="lazy">
+  <figcaption>The three schools differ on aggregate supply, the cause of slumps and the role of the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

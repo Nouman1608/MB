@@ -69,6 +69,12 @@ Displacement (mm) of five points over half a cycle, taking x from a node:
 
 Read across: every point reaches its maximum at the same time and passes through zero at the same time. Read down: amplitude varies with position, from zero at a node to 4.0 mm at an antinode.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+
 ### Stationary and progressive waves compared
 
 | Feature | Progressive wave | Stationary wave |
@@ -77,6 +83,12 @@ Read across: every point reaches its maximum at the same time and passes through
 | Phase | Changes steadily along the wave | Same within a loop; opposite in neighbouring loops |
 | Energy | Carried along the wave | Not transferred along the wave |
 | Wavelength | Distance between points in phase | Twice the node-to-node distance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
 
 ## Stationary waves on strings and harmonics
 
@@ -116,6 +128,12 @@ A microwave transmitter faces a metal plate. The reflected wave travels back and
 
 The minimum is often not exactly zero because the reflected wave is slightly weaker than the outgoing wave, so cancellation is incomplete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
+  <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
+</figure>
+
+
 ## Stationary waves with sound
 
 A loudspeaker facing a flat reflecting board sets up a stationary sound wave. A microphone connected to an oscilloscope, moved along the line, finds positions of minimum and maximum signal. Sound is longitudinal, so a node is a point where the air does not oscillate. Its displacement is always zero, while the pressure varies most there.
@@ -125,6 +143,12 @@ A loudspeaker facing a flat reflecting board sets up a stationary sound wave. A 
 1. λ = v/f = 340 / 2000 = 0.170 m.
 2. Adjacent minima: λ/2 = **0.085 m**.
 3. Minimum to maximum: λ/4 = **0.043 m** (0.0425 m).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
 
 ## Experiments on a string
 
@@ -157,6 +181,12 @@ You need to know how frequency of the first harmonic depends on length, tension 
 A plot of f against 1/l is a straight line through the origin, which confirms f ∝ 1/l. Using the end points, gradient = (88.6 − 36.5) / (2.86 − 1.18) = 52.1 / 1.68 ≈ 31 m s⁻¹. Since gradient = v/2, v = **62 m s⁻¹**. If 3.00 m of this string has mass 7.8 g, μ = 2.6 × 10⁻³ kg m⁻¹, and T = μv² = 2.6 × 10⁻³ × 62² = **10 N**. That is a hanging mass of about 1.0 kg.
 
 **Sources of uncertainty.** The main one is judging the frequency of maximum amplitude, since resonance is a range. Measure l against a metre rule from the node at the bridge to the node at the pulley, and note that the end at the vibrator is not quite a node. A string that slips or stretches changes T and μ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
+  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
+</figure>
+
 
 ## Common errors
 

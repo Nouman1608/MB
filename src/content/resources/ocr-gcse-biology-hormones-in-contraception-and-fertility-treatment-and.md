@@ -80,6 +80,27 @@ A good evaluation weighs several factors and reaches a judgement. Use these:
 
 **Example judgement.** For someone unlikely to remember a daily tablet, the implant suits better than the pill: fewer than 1 pregnancy per 100 compared with 9, and no daily action. It gives no protection from infection, so condoms may still be needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--05-pill-stops-ovulation.webp" width="900" height="910" alt="Three steps: the daily pill keeps oestrogen and progesterone high; the pituitary gland is inhibited and releases no FSH; no follicle matures and no egg is released. Progesterone also thickens cervical mucus." loading="lazy">
+  <figcaption>High hormone levels switch off FSH, so no egg is released.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--06-contraception-effectiveness.webp" width="900" height="770" alt="Bar chart of approximate pregnancies per 100 women per year (typical use): condom 18, pill 9, injection 6, implant or coil under 1. A dashed outline marks 2 per 100 for perfect condom use." loading="lazy">
+  <figcaption>Methods needing no daily action fail least; human error matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--07-non-hormonal-contraception.webp" width="900" height="935" alt="Barrier methods stop sperm meeting the egg and only condoms also reduce infection risk; the copper coil makes the uterus unwelcoming; natural family planning avoids sex when an egg may be present; sterilisation blocks the ducts and is permanent; abstinence is the only completely effective method." loading="lazy">
+  <figcaption>How each non-hormonal method works and its key point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
+
 ## B3.2f: Hormones to treat infertility (Higher Tier only)
 
 Infertility means a couple cannot conceive naturally. A common cause is that a woman does not ovulate regularly, because her FSH and LH levels are too low.
@@ -101,6 +122,12 @@ Infertility means a couple cannot conceive naturally. A common cause is that a w
 
 **Evaluating IVF.** Advantages: it can help couples who could not otherwise have a child. Disadvantages: it can be expensive, stressful and physically demanding; success is not guaranteed; transferring more than one embryo raises the chance of twins or triplets, which carry higher risks; strong doses of fertility hormones can overstimulate the ovaries; some people have ethical concerns about embryos that are not used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--07-ivf-steps.webp" width="900" height="1160" alt="Five steps: FSH and LH injections; eggs collected; eggs mixed with sperm in a dish; embryos develop for a few days; one or two embryos placed in the uterus. Progesterone is often given afterwards." loading="lazy">
+  <figcaption>IVF fertilises eggs outside the body, then returns embryos to the uterus.</figcaption>
+</figure>
+
+
 ## B3.2g: Plant hormones, auxin and tropisms (both tiers)
 
 Plant hormones are chemicals that regulate growth and development. **Auxins** are made in the tips of shoots and roots. They spread through the plant to the region behind the tip, where they cause cells to elongate (grow longer). Plants respond to a stimulus by growing towards or away from it. These growth responses are **tropisms**.
@@ -114,6 +141,12 @@ Phototropism is growth in response to light. A shoot tip grows towards light, wh
 3. In shoots, more auxin means more cell elongation, so cells on the shaded side lengthen more than those on the lit side.
 4. The shoot bends towards the light.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
+
 ### Gravitropism (geotropism)
 
 Gravitropism is growth in response to gravity.
@@ -126,6 +159,17 @@ Gravitropism is growth in response to gravity.
 
 **Worked example 4 (root).** A root lies horizontally. Over 8 hours the upper side lengthens by 2.0 mm and the lower side by 1.2 mm. The lower side lengthened by (2.0 − 1.2) ÷ 2.0 × 100 = 40% less. The upper side grows faster, so the root bends downwards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--08-gravitropism-shoot-root.webp" width="900" height="990" alt="Shoot and root on their side: auxin collects on the lower side of both. In the shoot the lower cells elongate more so it curves up; in the root high auxin slows the lower cells so the upper cells grow more and it curves down." loading="lazy">
+  <figcaption>Same auxin distribution, opposite response in shoot and root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--08-tip-foil-phototropism.webp" width="900" height="1040" alt="Four seedlings lit from the right: intact tip bends (mean 38 degrees), tip cut off no bending, foil over tip no bending, foil below the tip still bends (mean 36). The tip detects light and a signal passes down." loading="lazy">
+  <figcaption>Cutting or covering the tip stops bending, so the tip detects light.</figcaption>
+</figure>
+
+
 ## B3.2h: Effects of plant hormones
 
 - **Auxins (both tiers): controlling growth.** They promote elongation of cells in the stem, as above.
@@ -133,6 +177,22 @@ Gravitropism is growth in response to gravity.
 - **Ethene (Higher Tier only).** This gas ripens fruit: it triggers the breakdown of starch to sugar, softening and colour change. Ethene also promotes the shedding of leaves, which is why autumn leaf fall involves it. A ripe fruit gives off ethene, which can ripen fruit nearby. This is why one bad banana can spoil the bowl.
 
 **Worked example 5.** Green bananas ripen in 7 days alone. Placed with an over-ripe banana, they ripen in 3 days. Reduction = (7 − 3) ÷ 7 × 100 = 57%. Explanation: the ripe banana releases ethene, a gas, which reaches the others and speeds up ripening.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--04-gibberellin-ethene-effects.webp" width="900" height="957" alt="Gibberellin promotes stem growth, germination by stimulating enzymes that break down stored food, and flower opening. Ethene ripens fruit and promotes leaf shedding." loading="lazy">
+  <figcaption>Gibberellins and ethene each have several effects on plant growth and development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--05-ethene-bananas.webp" width="900" height="990" alt="Green bananas ripen in 7 days alone and in 3 days beside an over-ripe banana, 57 percent quicker. Ethene gas from the ripe banana reaches the green one." loading="lazy">
+  <figcaption>Ethene from a ripe banana shortens ripening from 7 to 3 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and--06-plant-hormone-uses.webp" width="900" height="925" alt="Rooting powder makes cuttings grow roots; selective herbicide kills broad-leaved weeds but spares grass; auxin or gibberellin on unpollinated flowers gives seedless fruit; green fruit is ripened with ethene on arrival; gibberellin ends seed dormancy." loading="lazy">
+  <figcaption>Five ways growers use plant hormones.</figcaption>
+</figure>
+
 
 ## B3.2i: Using plant hormones (Higher Tier only)
 

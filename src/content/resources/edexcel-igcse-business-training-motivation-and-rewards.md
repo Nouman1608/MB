@@ -51,6 +51,12 @@ A new barista might have an induction on day one, learn the coffee machine on th
 
 On-the-job training is usually cheaper in fees but the trainer is also doing their own work, and a poor trainer passes on bad habits. Off-the-job training can bring in expert knowledge but usually costs more in fees and in time away from work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ## 2. Health and safety compliance (2.3.1)
 
 Businesses must comply with the health and safety laws of the country they operate in. The specification does not name particular laws, so you only need the general idea: a business has a legal duty to protect people at work, and training is one of the main ways it shows it has done so.
@@ -82,6 +88,12 @@ Pelham Joinery has 8 employees on a machine-safety and accuracy course. The fee 
 
 A judgement needs more than the sum. The waste saving ignores better safety, fewer injuries and a more flexible team, but it also assumes the 4% is achieved and that nobody leaves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--01-pelham-training-payback.webp" width="900" height="860" alt="Cost 5,136 (fees 3,600 plus wages 1,536) against a waste saving of 1,800 a year; the cost is recovered in about 2.85 years." loading="lazy">
+  <figcaption>Pelham Joinery: 5,136 of cost against 1,800 a year of waste saved.</figcaption>
+</figure>
+
+
 ## 4. Why motivation matters (2.4.1)
 
 Motivation is the desire to work hard and do a good job. The specification lists three reasons it matters.
@@ -97,6 +109,12 @@ Productivity is output divided by the number of workers (the standard form of th
 Calder Plastics has 16 workers who make 4,800 units a month, so output per worker is 4,800 ÷ 16 = 300 units. After a trial of new work arrangements, the same 16 workers make 5,280 units: 5,280 ÷ 16 = 330 units per worker. The change is (330 − 300) ÷ 300 × 100 = **10% higher**.
 
 Calder also has 36 staff, of whom 9 left last year: 9 ÷ 36 × 100 = 25%. After the changes only 5 left: 5 ÷ 36 × 100 = 13.9%. Staff turnover as a percentage of staff is the standard way to express this (the specification does not give a formula). Say what the fall means: fewer vacancies to fill and less lost experience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--02-calder-productivity-turnover.webp" width="900" height="990" alt="Output per worker 300 to 330 (+10%); staff turnover 9 of 36 (25%) to 5 of 36 (13.9%)." loading="lazy">
+  <figcaption>Calder Plastics: output per worker up 10%, turnover down from 25% to 13.9%.</figcaption>
+</figure>
+
 
 ## 5. Motivational theories (2.4.1)
 
@@ -127,6 +145,17 @@ Frederick Herzberg's two-factor theory separates:
 
 Business use: fix the hygiene factors first, then add motivators. Giving a small pay rise does not make dull work interesting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+
 ## 6. Financial methods (2.4.2)
 
 | Method | What it is | Advantage | Disadvantage |
@@ -146,6 +175,27 @@ A salesperson at Wexcombe Kitchens earns 1,450 basic salary each month, with 5% 
 3. Sales exceed 35,000, so add the bonus: **3,625**.
 
 At Quillon Garments, workers could be paid by time (38 hours × 12.50 = 475 a week) or by piece rate at 0.80 per item. A worker who makes 610 items earns 610 × 0.80 = 488, which is 13 or 2.7% more than the time-rate week. Piece rate follows Taylor's logic but can reduce quality and hurt pay in weeks with machine breakdowns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--03-wexcombe-pay-packet.webp" width="900" height="880" alt="Salary 1,450 plus commission 1,925 plus bonus 250 gives 3,625." loading="lazy">
+  <figcaption>Commission follows sales made; the bonus follows a target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--04-quillon-time-v-piece.webp" width="900" height="810" alt="Time rate 475 against piece rate 488, 13 or 2.7% more." loading="lazy">
+  <figcaption>Piece rate paid 13 more than time rate in this week.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--05-rotation-enrichment-autonomy.webp" width="900" height="1080" alt="Rotation moves between same-level tasks; enrichment adds harder tasks; autonomy lets the employee decide how, when and in what order." loading="lazy">
+  <figcaption>Rotation adds variety, enrichment adds depth, autonomy adds freedom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-training-motivation-and-rewards--01-financial-methods-tied-to.webp" width="900" height="900" alt="Five rows pair each financial method with what it is tied to. Remuneration is tied to time worked, a bonus to a target met, commission to sales made, promotion to more pay and duties, and fringe benefits to extras such as a car, health cover or discount. Bonus follows a target while commission follows sales." loading="lazy">
+  <figcaption>Each financial method is tied to something different: time, a target, sales, a bigger role or extras.</figcaption>
+</figure>
+
 
 ## 7. Non-financial methods (2.4.2)
 

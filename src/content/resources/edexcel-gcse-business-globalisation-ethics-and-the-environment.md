@@ -68,6 +68,12 @@ Saving:          76,800 - 69,396             = £7,404
 
 The saving is 9.6% of the home price (7,404 / 76,800 x 100). Without the tariff it would be £12,300. The overseas route is cheaper, but a good answer still weighs delivery times, reliability and quality before recommending it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--01-ferncott-true-cost.webp" width="900" height="920" alt="Two bars: home cloth 76,800 pounds versus overseas cloth 61,200 plus 8% tariff 4,896 plus shipping 3,300 = 69,396. Saving 7,404 (9.6%); 12,300 without the tariff." loading="lazy">
+  <figcaption>Adding the tariff and shipping to the overseas price shrinks the saving from 12,300 to 7,404 pounds.</figcaption>
+</figure>
+
+
 ## 2. Exports (2.1.3)
 
 Exports are goods or services sold to overseas markets. Exporting gives a business more potential customers, a way to grow when the home market is crowded and less dependence on one market. The drawbacks are higher transport and administration costs, the need to understand different tastes and languages, and barriers such as tariffs.
@@ -83,6 +89,12 @@ Export share = 72,000 / 480,000 x 100 = 15%
 Next year exports rise to £99,000. The change is (99,000 - 72,000) / 72,000 x 100 = 37.5%.
 
 A customer country charges a 12% tariff on a mug that Brindle sells for £25. The tariff is 12% of £25 = £3.00, so the mug costs £28.00 if the importer passes the whole tariff on. The mug is now 12% dearer than before, which may cut demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--02-brindle-mug-tariff.webp" width="900" height="900" alt="A 25 pound mug bar and a 28 pound bar with a 3 pound tariff block (12%), plus a bar showing exports as 15% of 480,000 pounds sales." loading="lazy">
+  <figcaption>A 12% tariff adds 3 pounds to a 25 pound mug, and exports are 15% of Brindle sales.</figcaption>
+</figure>
+
 
 ## 3. Changing business locations (2.1.3)
 
@@ -101,6 +113,12 @@ Net saving:                 336,000 - 67,500 = £268,500
 ```
 
 Redundancy costs, set-up costs and quality problems could reduce the saving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--03-kelso-moving-production.webp" width="900" height="900" alt="Waterfall: labour saving 336,000 less extra freight 67,500 leaves net saving 268,500 pounds; per shirt labour 9.20 versus 2.48." loading="lazy">
+  <figcaption>Lower overseas labour saves 336,000 pounds, freight takes 67,500, leaving 268,500 before other costs.</figcaption>
+</figure>
+
 
 ## 4. Multinationals (2.1.3)
 
@@ -148,6 +166,12 @@ Competing abroad often means adjusting each element of the mix:
 - Promotion: use the local language, local media and cultural references that fit.
 - Place: use a local distributor, an overseas warehouse or a local online marketplace.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--04-orla-web-sales.webp" width="900" height="810" alt="Funnel from 48,000 visits to 1,200 orders, then revenue 26,400 split into tea 10,920, delivery 5,040 and 10,440 left." loading="lazy">
+  <figcaption>Only 2.5% of visits order, and after tea and delivery 10,440 pounds is left to cover overheads.</figcaption>
+</figure>
+
+
 ## 7. Ethical considerations (2.1.4)
 
 Ethical considerations are questions of right and wrong in how a business behaves, such as how it treats employees and suppliers, how honest its advertising is and where it buys its goods. Ethical behaviour can cost money in the short run. There is a possible trade-off between ethics and profit.
@@ -167,6 +191,12 @@ If sales rise 6%: 424,000 x 0.73 = £309,520
 
 Profit is still £30,480 below the starting point even after the sales rise. The ethical choice costs profit in the short run. A business might accept that if it expects loyal customers and a stronger reputation to pay back over time, and it should say so in the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--05-hobsford-fair-price.webp" width="900" height="920" alt="Three bars of profit: 340,000; 292,000 after paying 0.12 more a bar; 309,520 after 6% more sales, with a dashed line at 340,000." loading="lazy">
+  <figcaption>A fairer supplier price cuts profit by 48,000 and even 6% more sales leaves it 30,480 lower.</figcaption>
+</figure>
+
+
 ## 8. Environmental considerations and sustainability (2.1.4)
 
 Environmental considerations are the effects of a business on the natural environment: waste, pollution, energy and resource use. Sustainability means operating so that resources are not used up and the environment is not damaged beyond repair, so that future generations can still meet their needs.
@@ -185,6 +215,12 @@ Change:         +£1,800
 
 The profit gain is small. The business also cuts waste, which would support a sustainability claim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--06-solent-refillable-packs.webp" width="900" height="900" alt="Two bars: profit 225,000 now and 226,800 with refillable packaging (270,000 x 0.84), a gain of 1,800 pounds." loading="lazy">
+  <figcaption>Refillable packaging adds 0.06 a bar but extra sales lift profit by 1,800 pounds.</figcaption>
+</figure>
+
+
 ## 9. Pressure groups and the marketing mix (2.1.4)
 
 A pressure group is an organised group that tries to change how businesses or governments behave. It uses campaigns, petitions, social media, protests and media coverage. If the group's message spreads, customers may stop buying, which gives the business a reason to respond.
@@ -197,6 +233,12 @@ A pressure group is an organised group that tries to change how businesses or go
 | Place | Retailers may stop stocking the product, or stock it more widely if it is approved |
 
 Suppose a campaign leads a retailer to stop selling Bramley Foods' range. If this cut 8% of sales revenue of £2.5 million, the business would lose £200,000 a year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-ethical-issues-and-pressure-groups--04-pressure-group-routes.webp" width="900" height="930" alt="Five routes join a pressure group to a business: publicity, boycott, petitions and protests, lobbying for a new law, and meeting managers. They act on sales, reputation and the law. A pressure group can only influence." loading="lazy">
+  <figcaption>Pressure groups act on a business through sales, reputation and the law.</figcaption>
+</figure>
+
 
 ## Common errors
 

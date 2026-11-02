@@ -64,6 +64,17 @@ The chamber depth is 0.1 mm. One large square is 1 mm × 1 mm, so its volume is 
 * Cells per cm³ in the diluted sample = 18 ÷ (1 × 10⁻⁴) = 1.8 × 10⁵.
 * Multiply by the dilution factor: 1.8 × 10⁵ × 10 = **1.8 × 10⁶ cells cm⁻³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ### Dilution plating (viable counts)
 
 A culture of bacteria is far too dense to count on a plate, so it is diluted in a series. In a **serial dilution**, 1 cm³ of culture is added to 9 cm³ of sterile diluent to give a 10⁻¹ dilution, and 1 cm³ of that to a further 9 cm³ to give 10⁻². This is repeated for the number of steps needed. A known volume of the chosen dilutions is spread on agar plates and incubated. Each colony is assumed to have grown from one **viable** cell, which is a cell able to divide. The result is given as **colony-forming units (CFU)** per cm³.

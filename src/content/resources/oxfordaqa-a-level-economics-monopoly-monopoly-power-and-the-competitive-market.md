@@ -56,6 +56,12 @@ Think of a scale rather than two boxes. At one end is a firm with many close riv
 
 Chain of reasoning: stronger barriers, fewer rivals, heavier advertising and greater differentiation make demand less price elastic, so a price rise loses fewer sales, so the firm can price higher and keep more profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--03-monopoly-power-chain.webp" width="900" height="1074" alt="Barriers, fewer rivals, advertising and differentiation make demand less elastic. Two demand curves show the same price rise 50 to 55 losing 10 units on flat demand and 2 on steep demand (illustrative)." loading="lazy">
+  <figcaption>Less elastic demand lets a firm raise price and lose fewer sales.</figcaption>
+</figure>
+
+
 ## Concentration ratios
 
 A **concentration ratio** adds up the market shares of the leading sellers. The n-firm version is written CRn:
@@ -79,6 +85,12 @@ What the ratio tells you and what it does not:
 - A high ratio suggests firms may have market power. The ratio does not show how easily new firms can enter, how closely rivals compete, or whether the biggest firm is a pure monopoly.
 - Two markets can share a CR4 of 73% but differ widely: in one the top firm has 70%, in the other four firms have about 18% each.
 - The market definition matters. A firm with 90% of "bottled juice" may hold only 20% of "all soft drinks".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--01-concentration-ratio-worked.webp" width="900" height="900" alt="A bar shows juice sales of 300 split among firms P to T and the rest. Brackets mark CR1 28%, CR3 63.3% and CR4 73.3%. A second pair of bars shows CR4 rising from 73.3% to 78.1%, a rise of 4.8 percentage points." loading="lazy">
+  <figcaption>A concentration ratio adds the shares of the biggest firms; compare two ratios in percentage points.</figcaption>
+</figure>
+
 
 ## The basic model of monopoly
 
@@ -116,6 +128,12 @@ Reading the table:
 
 Do not assume every monopoly acts this way. Regulation, the threat of new entry or fear of bad publicity can hold prices down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--02-monopoly-vs-competition-surplus.webp" width="900" height="1010" alt="Demand P = 100 - 2Q with every unit costing 40. A competitive market sells 30 at 40; the monopolist sells 15 at 70. Consumer surplus falls from 900 to 225, profit is 450 and 225 is lost to everyone." loading="lazy">
+  <figcaption>Raising price to 70 cuts output to 15 and wastes 225 of surplus.</figcaption>
+</figure>
+
+
 ## Potential benefits of monopoly
 
 **Economies of scale.** Where long-run average cost (LRAC) falls steeply as output rises, one large firm can produce more cheaply than several small ones.
@@ -139,6 +157,17 @@ The saving is real, but it does not automatically reach consumers. If the monopo
 
 **Invention and innovation.** Monopoly profit can pay for research and development, and patents let a firm keep the rewards from a new product, which encourages risk-taking. Set against this, a firm with no rivals may feel little pressure to improve, so more innovation is only a possibility ("possibly more", in the specification's words).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--03-scale-economies-one-vs-four.webp" width="900" height="1020" alt="Rectangles show total cost as output times unit cost: four firms of 20,000 at 9 cost 720,000; one firm of 80,000 at 6 costs 480,000, saving 240,000. At price 8 the firm still earns 160,000." loading="lazy">
+  <figcaption>One large firm can cut total cost by a third, but price decides who gains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## The competitive market process
 
 Competition is more than price cutting. Firms strive to:
@@ -150,6 +179,17 @@ Competition is more than price cutting. Firms strive to:
 **Worked example 4.** A small bakery cuts unit cost from 5.00 to 4.60 using a faster oven. Cost falls by 0.40/5.00 = 8%. It cuts price from 7.50 to 7.20, a 4% fall. Of the 0.40 saving, 0.30 is passed on, or 75%. Margin per loaf rises from 2.50 to 2.60. Both sides gain: the firm earns slightly more per unit, and buyers pay less. A rival that wants to keep customers must match the lower price, improve its product or find its own cost saving.
 
 Link this to monopoly power. Large firms often compete vigorously, and consumers gain through lower prices, better quality and more choice. Where monopoly power exists, that pressure weakens: there is less reason to cut costs or improve service, prices can be higher, and consumers can be exploited. Resources then move away from where they would be most valued.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--04-bakery-pass-through.webp" width="900" height="860" alt="Before: cost 5.00 plus margin 2.50 gives price 7.50. After: cost 4.60 plus margin 2.60 gives 7.20. Of the 0.40 saving, 0.30 (75%) goes to buyers and 0.10 stays with the baker." loading="lazy">
+  <figcaption>Competition passes most of a cost saving on as a lower price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Evaluating monopoly power
 

@@ -44,9 +44,21 @@ A **forecast** is an informed estimate of what will happen to a variable in the 
 
 **Stakeholders.** Owners use forecasts to judge likely returns. Lenders use cash-flow forecasts to judge whether repayments are affordable. Employees read forecast demand as a signal of job security. Suppliers use forecasts to plan deliveries and credit. If forecasts are wrong, each group bears a cost: lenders face default, suppliers hold surplus stock, employees may face redundancy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-forecasting--02-forecast-stakeholders.webp" width="900" height="810" alt="Four cards show how owners, lenders, employees and suppliers use a forecast and the cost to each if it is wrong: lenders face default, employees redundancy, suppliers surplus stock." loading="lazy">
+  <figcaption>Each stakeholder uses the forecast differently and bears a different cost if it is wrong.</figcaption>
+</figure>
+
+
 ## Qualitative and quantitative forecasting
 
 **Qualitative forecasting** relies on judgement, opinion and experience. It suits situations with no reliable history, such as a new product or a new market. **Quantitative forecasting** uses numerical data and calculation, usually past figures. It suits stable markets with plenty of data. Many businesses use both: numbers set the baseline and judgement adjusts it for things the numbers cannot see.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-forecasting--01-qual-or-quant.webp" width="900" height="850" alt="Two columns compare judgement-based qualitative methods (structured: Delphi, expert opinion; unstructured: brainstorming, intuition) with number-based quantitative methods (financial forecasts; moving averages, correlation, extrapolation). A line runs from no past data to plenty of data. Many businesses use both." loading="lazy">
+  <figcaption>Qualitative methods suit no history, quantitative suit plenty of data, and many firms combine them.</figcaption>
+</figure>
+
 
 ## Qualitative methods
 
@@ -59,6 +71,12 @@ A **forecast** is an informed estimate of what will happen to a variable in the 
 - **Intuition.** A manager relies on gut feeling built from experience.
 
 **Evaluation.** Structured methods are more systematic, less affected by individual bias and easier to defend to stakeholders, but they take longer and cost more, and experts can all be wrong together. Unstructured methods are cheap, fast and flexible, and work where there is no data, but they are subjective and hard to check. Intuition is only as good as the manager's experience and can be overconfident. The best choice depends on the cost of an error, the time available and how novel the decision is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
+  <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
+</figure>
+
 
 ## Financial forecasts: sales, costs, profit and cash flow
 
@@ -86,6 +104,17 @@ Month 1 cash in: 0.7 × 36,000 + 0.3 × 30,000 = 25,200 + 9,000 = 34,200. Month 
 
 **Interpretation.** Month 3 is profitable (£5,200) yet closes £920 overdrawn. Profit is not cash: the machine is a cash outflow that does not appear in a month's profit calculation, and 30% of sales arrive a month late. The forecast warns Burnsall in advance. It could negotiate an overdraft, lease the machine, or delay the purchase to month 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-forecasting--04-burnsall-cash.webp" width="900" height="870" alt="Bars show Burnsall cash in against stacked cash out for four months, with profit and closing cash beneath. Month 3 profit is 5,200 pounds but closing cash is minus 920 because of the 20,000 pound machine and 30 per cent of sales arriving a month late." loading="lazy">
+  <figcaption>Profit is not cash: month 3 is profitable yet overdrawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Seasonal and cyclical variations
 
 **Seasonal variation** is a regular, repeating pattern within a year, linked to weather, holidays or the calendar. **Cyclical variation** is a longer pattern, over several years, linked to the economic cycle or an industry cycle of boom, slowdown, recession and recovery. Both sit around an underlying **trend**, the long-run direction of the data.
@@ -95,6 +124,12 @@ Month 1 cash in: 0.7 × 36,000 + 0.3 × 30,000 = 25,200 + 9,000 = 34,200. Month 
 **Calculating cyclical variation.** A moving average smooths out short-term movement to show the trend. The standard form is: cyclical variation = actual value − trend value (the moving average). A positive figure means the year was above trend, a negative figure below.
 
 **Impact on forecasting.** Ignoring seasonality makes quarterly or monthly forecasts wrong even if the annual total is right. Ignoring the cycle makes a boom look like permanent growth, so a business may expand just before a downturn. Cycles vary in length, so the next peak or trough is hard to date.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-forecasting--01-seasonal-shares.webp" width="900" height="990" alt="Bar chart of forecast tubs by quarter: 19.8, 57.2, 77.0 and 22.0 thousand, from quarterly shares of 11.25, 32.5, 43.75 and 12.5 per cent of a 176,000 forecast. A dashed line at 44 shows the equal split. Equal division overstates Q1 and Q4 and understates Q2 and Q3." loading="lazy">
+  <figcaption>Applying last year's seasonal shares to the 176,000 forecast shows why dividing by four misjudges each quarter.</figcaption>
+</figure>
+
 
 ## Time series analysis: moving averages
 
@@ -120,6 +155,17 @@ For 2017: (412 + 436 + 421) ÷ 3 = 423.0. For 2018: (436 + 421 + 468) ÷ 3 = 441
 
 **Evaluating time series analysis.** It is objective, cheap and shows the trend clearly. But the latest years have no moving average, so the method lags exactly where the forecast is needed. It assumes the past pattern will continue, and it cannot predict shocks such as a new competitor, a change in regulation or a recession. It needs enough years of reliable data. A longer average smooths more but reacts more slowly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-forecasting--02-cyclical-variation.webp" width="900" height="1100" alt="Line chart of Loxley Kayaks sales 2016 to 2024 with a three-year moving average from 2017 to 2023. Bars below show actual minus trend: +13.0, -20.7, +6.0, +15.0, -19.7, +3.7, +16.0. Dips in 2018 and 2021 suggest a three-year cycle." loading="lazy">
+  <figcaption>Each three-year average sits at the middle year, and cyclical variation is actual minus trend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--06-moving-average.webp" width="900" height="920" alt="A line chart of Corvasse monthly sales with the three-month averages plotted against the middle month. The averages rise every month. The dashed forecast continues the trend from July: 531 in September and 546 in October." loading="lazy">
+  <figcaption>Moving averages smooth the ups and downs; extend the trend from the month of the last average.</figcaption>
+</figure>
+
+
 ## Correlation and extrapolation
 
 **Correlation** describes the relationship between two variables. On a scatter graph, points rising from left to right show **positive correlation**, points falling show **negative correlation**, and no pattern shows **no correlation**. The closer the points sit to a line, the stronger the correlation. A correlation figure runs from −1 to +1.
@@ -136,11 +182,33 @@ The scatter shows a strong positive correlation. A line of best fit, drawn by ey
 
 **Extrapolating trends.** To extrapolate, extend the existing trend line or the average change forward and read off or calculate the future value, as with Loxley above. Always state the assumption (the trend continues) and treat the result as an estimate: the further ahead, the less reliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-forecasting--03-kilnsey-scatter.webp" width="900" height="880" alt="Scatter of advertising spend against bikes sold for eight months with a rising line of best fit, bikes = 31.8 + 0.055 x spend, r about +0.98. Spend of 800 pounds predicts about 76 bikes; 1,200 pounds gives about 98 but lies beyond the data." loading="lazy">
+  <figcaption>Strong positive correlation, a reading at 800 pounds, and an extrapolation beyond the data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--03-sales-forecasting-regression.webp" width="900" height="880" alt="A scatter diagram of eight illustrative quarters of sales with a computed least-squares line of best fit (r = 0.97). The dashed extension forecasts quarters 9 and 10 at about 62.7 and 65.4 thousand units, with vertical bars showing the doubt around each forecast." loading="lazy">
+  <figcaption>A line of best fit can be extended to forecast, but the forecast is a prediction with uncertainty.</figcaption>
+</figure>
+
+
 ## Responding to forecasts and why accuracy matters
 
 A business can respond to a forecast by changing production, stock levels, staffing or prices, arranging finance, or adjusting its objectives. To **recommend and justify**, link the response to the forecast, the cost of acting and the cost of being wrong. For Burnsall, a forecast overdraft of £920 is small and short-lived, so arranging an overdraft or leasing is proportionate, whereas cancelling the machine would sacrifice future capacity.
 
 **Accurate forecasting** matters to the business and to lenders, suppliers and employees, because decisions are costly to reverse. Overestimating demand leaves unsold stock and idle capacity. Underestimating it loses sales and customers. Inaccurate cash forecasts risk insolvency. Accuracy is limited by data quality, volatility and forecaster bias. Importance depends on the size of the decision and how fast the business can adjust if the forecast is wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">
+  <figcaption>Forecast error compares actual with forecast as a percentage of the forecast.</figcaption>
+</figure>
+
 
 ## Common errors
 

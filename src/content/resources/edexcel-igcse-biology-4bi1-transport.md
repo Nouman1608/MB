@@ -61,23 +61,53 @@ Organism:  SA = 6 × 2000² = 24 000 000 µm²   V = 2000³ = 8 000 000 000 µm�
 
 The cell's ratio is **100 times larger**, and the organism's centre is 1000 µm from its surface instead of 10 µm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--01-surface-area-volume.webp" width="900" height="910" alt="Cubes: a 20 micrometre cell and a 2 millimetre organism. The cell has SA:V 0.3 to 1 and its centre is 10 micrometres from the surface. The organism has SA:V 0.003 to 1 and its centre is 1000 micrometres away. The ratio is 100 times smaller, so diffusion alone is too slow and a transport system is needed." loading="lazy">
+  <figcaption>A larger body has a much smaller surface area to volume ratio, so cells need a transport system.</figcaption>
+</figure>
+
+
 ## Transport in flowering plants
 
 ### Phloem (2.53)
 
 Phloem carries **sucrose and amino acids** made in the leaves to other parts of the plant: growing shoot and root tips, developing fruits and seeds, and storage organs. Movement in phloem can be **up or down** the plant, depending on where the food is needed. This movement of food is called **translocation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
+
 ### Xylem (2.54)
 
 Xylem carries **water and mineral ions** from the roots up the stem to the leaves and other parts. Xylem vessels are dead, hollow tubes with no end walls and lignin-strengthened walls. Flow in xylem is **one way: upwards**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
 
 ### Water uptake by root hair cells (2.55B, Paper 2 only)
 
 Root hair cells have long, thin extensions that give a **large surface area** for absorption. Their cell sap is more concentrated than the soil water, so water moves into the root hair cell **by osmosis**, from the dilute soil solution, across the partially permeable cell membrane, into the more concentrated cell sap. The water then passes from cell to cell across the root cortex to the xylem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+
 ### Transpiration (2.56B, Paper 2 only)
 
 **Transpiration is the evaporation of water from the surface of a plant.** Most of it happens in the leaves: water evaporates from the surfaces of mesophyll cells into the air spaces, then water vapour **diffuses out through the stomata**. Losing water from the leaves pulls more water up the xylem from the roots, forming the transpiration stream that also carries mineral ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
 
 ### Factors affecting the rate of transpiration (2.57B, Paper 2 only)
 
@@ -87,6 +117,12 @@ Root hair cells have long, thin extensions that give a **large surface area** fo
 | Wind speed increases | Increases | Moving air carries water vapour away from the leaf surface, keeping the concentration gradient steep |
 | Temperature increases | Increases | Water molecules have more kinetic energy, so evaporation and diffusion are faster |
 | Light intensity increases | Increases | More stomata open (for photosynthesis), so more water vapour can diffuse out |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
 
 ### Practical: environmental factors and transpiration (2.58B, Paper 2 only)
 
@@ -98,6 +134,12 @@ A **potometer** measures how fast a leafy shoot takes up water, which is close t
 4. Record how far the bubble moves in a set time. Reset it with the reservoir and repeat to get a mean.
 5. Change one factor: a fan at set distances (wind speed), a lamp at set distances (light intensity), a clear plastic bag over the shoot (humidity), or a different room temperature. Keep the other factors and the same shoot constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--02-potometer.webp" width="900" height="1010" alt="A potometer: a cut leafy shoot sealed into a water-filled tube joined to a capillary tube of radius 0.5 mm. An air bubble moves 42 mm in 6 minutes. Volume is pi x 0.5 squared x 42 = 33.0 mm3, so the rate is 5.5 mm3 per minute." loading="lazy">
+  <figcaption>A potometer turns bubble movement into a rate of water uptake.</figcaption>
+</figure>
+
+
 ### Worked example 2: rate of water uptake
 
 The bubble in a potometer moves 42 mm in 6 minutes. The capillary tube has a radius of 0.5 mm. Calculate the volume of water taken up per minute.
@@ -106,6 +148,12 @@ The bubble in a potometer moves 42 mm in 6 minutes. The capillary tube has a rad
 Volume = π r² × distance = π × 0.5² × 42 = 32.99 mm³
 Rate   = 32.99 / 6 = 5.50 mm³ per minute
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
 
 ## Blood (2.59–2.64B)
 
@@ -119,6 +167,12 @@ Blood is made of **red blood cells**, **white blood cells**, **platelets** and *
 - **hormones** from endocrine glands to target organs
 - **heat energy** from active organs such as muscles and the liver to the rest of the body and the skin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+
 ### Red blood cells (2.61)
 
 Red blood cells carry oxygen. Each adaptation has a reason:
@@ -126,6 +180,12 @@ Red blood cells carry oxygen. Each adaptation has a reason:
 - **Biconcave disc shape**: a large surface area to volume ratio for fast diffusion of oxygen in and out.
 - **No nucleus**: more room for haemoglobin, so more oxygen carried per cell.
 - **Haemoglobin**: combines with oxygen in the lungs to form oxyhaemoglobin, and releases it in respiring tissues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--05-haemoglobin-oxygen.webp" width="900" height="960" alt="A side view of a biconcave red blood cell with no nucleus and haemoglobin inside is labelled with the reason for each feature. Below, haemoglobin binds oxygen in the lungs to form oxyhaemoglobin and releases it in respiring tissues." loading="lazy">
+  <figcaption>How the red cell shape and haemoglobin carry oxygen.</figcaption>
+</figure>
+
 
 ### White blood cells and the immune response (2.62)
 
@@ -178,6 +238,12 @@ Fatty deposits build up in the walls of the coronary arteries and narrow them. L
 - **high blood pressure** and stress
 - **genetic** factors (family history), increasing age and being male.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--03-heart-rate-two-triggers.webp" width="900" height="960" alt="Bars show 68 bpm at rest (17 beats in 15 s times 4) and 124 bpm after exercise (31 times 4), a rise of 56 bpm or 82.4 percent. Below, exercise and adrenaline are shown as two triggers that make the heart beat faster and harder." loading="lazy">
+  <figcaption>Heart rate from pulse counts using the lesson numbers, and the two triggers that raise it.</figcaption>
+</figure>
+
+
 ## Blood vessels and circulation (2.68–2.69)
 
 | Vessel | Structure | Link to function |
@@ -192,6 +258,12 @@ Humans have a **double circulation**: blood passes through the heart twice on ea
 - **Lungs**: pulmonary artery (to), pulmonary vein (from).
 - **Liver**: hepatic artery (to), hepatic vein (from); the hepatic portal vein brings blood from the gut to the liver.
 - **Kidneys**: renal artery (to), renal vein (from).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--04-organ-vessel-names.webp" width="900" height="1030" alt="Four rows show the vessels to and from the heart, lungs, liver and kidneys, with arrows for flow direction and colour for oxygen-rich, oxygen-poor and gut blood." loading="lazy">
+  <figcaption>Name the vessel that carries blood to and from each organ.</figcaption>
+</figure>
+
 
 ## Common errors
 

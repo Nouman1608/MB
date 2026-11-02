@@ -43,6 +43,22 @@ These revision notes cover section 8.02 (8.02a to 8.02d) of the OCR GCSE (9-1) M
 | 8.02c | Perpendicular from a point P to a line | Arc from P cuts the line twice; equal arcs from those two points | A line through P at 90° to the line |
 | 8.02c | Perpendicular at a point T on a line | Equal arcs cut the line either side of T; wider equal arcs from those points | A line through T at 90° to the line |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--01-perpendicular-bisector.webp" width="900" height="890" alt="Four equal arcs from A and B cross at X and Y; XY meets AB at 90 degrees at the midpoint M (AM = MB = 3.8 cm for AB = 7.6 cm)." loading="lazy">
+  <figcaption>How the perpendicular bisector of AB is built and why it works.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--02-angle-bisector.webp" width="900" height="720" alt="An arc from V cuts both lines at P and Q; equal arcs from P and Q cross at R; VR splits 84 degrees into 42 and 42." loading="lazy">
+  <figcaption>How to bisect an angle with arcs, on the lesson's 84 degree example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--06-perpendicular-at-point.webp" width="900" height="700" alt="Arcs from T cut the line at A and B, 2 cm each side; arcs of radius 3 cm from A and B cross at Y; the line through T and Y is perpendicular, with X 5 cm from T." loading="lazy">
+  <figcaption>Equal arcs either side of T, then crossing arcs give the perpendicular at T.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Perpendicular bisector (also gives the midpoint)**
@@ -89,6 +105,12 @@ These revision notes cover section 8.02 (8.02a to 8.02d) of the OCR GCSE (9-1) M
 - A point is equidistant from two points if it lies on their perpendicular bisector.
 - Keep your construction arcs on the page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--03-perpendicular-shortest.webp" width="900" height="870" alt="Perpendicular dropped from P to a line using two arcs; PF = 3.6 cm is shorter than the slanted PX = 6 cm (3.6 squared plus 4.8 squared equals 36)." loading="lazy">
+  <figcaption>The perpendicular from a point to a line and why it is the shortest distance.</figcaption>
+</figure>
+
+
 ## Loci summary
 
 | Rule | Locus | How to draw it |
@@ -101,6 +123,22 @@ These revision notes cover section 8.02 (8.02a to 8.02d) of the OCR GCSE (9-1) M
 | Equidistant from two parallel lines | A parallel line half-way between | Measure the gap and halve it |
 
 **Boundaries.** Use a dashed line for "less than" and "more than". Use a solid line for "at most" and "at least". Label what your shading shows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--04-locus-racetrack.webp" width="900" height="830" alt="All points exactly 2 cm from a 4 cm segment CD form a racetrack: two parallel lines joined by a semicircle at each end." loading="lazy">
+  <figcaption>The locus a fixed distance from a line segment has rounded ends.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--05-loci-region-tree.webp" width="900" height="1090" alt="The region for worked example 5 is bounded by the perpendicular bisector at 4.5 m, the 45 degree bisector and the 6 m arc, with corners at 4.24 m and 3.97 m computed in the lesson." loading="lazy">
+  <figcaption>Worked example 5 drawn to scale with the three conditions shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--07-mast-and-road.webp" width="900" height="740" alt="A dashed circle of radius 3 cm round A and a dashed racetrack 2 cm from the road; the region inside the circle and outside the racetrack is shaded, a band round A with two small caps beside the road." loading="lazy">
+  <figcaption>Combine a circle and a racetrack, with dashed boundaries for strict conditions.</figcaption>
+</figure>
+
 
 ## Method for a loci problem
 

@@ -41,6 +41,12 @@ When you are ready, test yourself with the [plant nutrition practice questions](
 
 Atom check: C 6 = 6; H 12 = 12; O 18 = 18.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--06-photosynthesis-atom-count.webp" width="900" height="900" alt="The equation 6CO2 + 6H2O gives C6H12O6 + 6O2 is drawn with small molecules. Three pairs of bars compare atoms: 6 carbon, 12 hydrogen and 18 oxygen on each side." loading="lazy">
+  <figcaption>Each side has 6 carbon, 12 hydrogen and 18 oxygen atoms.</figcaption>
+</figure>
+
+
 ## What the plant does with the carbohydrate (6.1.4)
 
 | Carbohydrate | Use |
@@ -51,6 +57,12 @@ Atom check: C 6 = 6; H 12 = 12; O 18 = 18.
 | Sucrose | Transport through the plant |
 
 Memory hook: **S**tore, **C**ell walls, **R**espiration, **T**ransport.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--02-uses-of-glucose.webp" width="900" height="1010" alt="Glucose has five uses: stored as starch, built into cellulose for cell walls, used in respiration to release energy, changed to sucrose moved in the phloem, and used to make nectar to attract insects." loading="lazy">
+  <figcaption>Glucose is stored, built into walls, respired, transported or used for nectar.</figcaption>
+</figure>
+
 
 ## Showing what photosynthesis needs (6.1.6)
 
@@ -70,6 +82,12 @@ Memory hook: **S**tore, **C**ell walls, **R**espiration, **T**ransport.
 | Carbon dioxide | Soda lime or sodium hydroxide absorbs carbon dioxide around the leaf | Same set-up with water instead | Control leaf only |
 
 Every one starts with a **destarched** plant and ends with the **starch test**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
 
 ## Rate of photosynthesis (6.1.7–6.1.9)
 
@@ -98,6 +116,42 @@ The enzyme model is the same one used in the [Enzymes revision notes](/resources
 | Cold but bright winter day | Temperature |
 | Bright, warm day | Carbon dioxide concentration |
 | Sealed greenhouse in sunshine | Carbon dioxide concentration |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--06-co2-experiment.webp" width="900" height="960" alt="Two sealed flasks each contain a destarched leafy plant in the same light. In one flask a dish of soda lime absorbs the carbon dioxide; in the control flask a dish of water leaves carbon dioxide in the air. After testing with iodine the leaf with no carbon dioxide stays orange-brown, showing no starch, and the control leaf turns blue-black, showing starch. Carbon dioxide is needed for photosynthesis." loading="lazy">
+  <figcaption>Is carbon dioxide needed for photosynthesis?.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--07-pondweed-rate-data.webp" width="900" height="960" alt="Bar chart of mean photosynthesis rate in bubbles per minute for pondweed at lamp distances of 10, 20, 40 and 80 cm: 24.0, 16.5, 8.0 and 4.5. The 20 cm bar is worked: the three counts 33, 30 and 36 have mean 33 bubbles in 2 minutes, so the rate is 16.5 bubbles per minute. The closer the lamp the higher the light intensity and the faster the rate." loading="lazy">
+  <figcaption>Pondweed results: rate against lamp distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--08-temperature-rate.webp" width="900" height="960" alt="A sketch graph of rate of photosynthesis against temperature. The rate rises to an optimum, then falls sharply. Below the optimum molecules have less kinetic energy so there are fewer effective collisions with the enzymes. At the optimum the enzymes work fastest. Above the optimum the enzymes are denatured: their active sites change shape and the substrate no longer fits, so the rate falls sharply. The curve shape is illustrative and has no real values." loading="lazy">
+  <figcaption>Temperature and the rate of photosynthesis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--04-limiting-conditions.webp" width="900" height="1030" alt="Four cards. Dawn, dusk or forest floor: light intensity is limiting. Bright summer midday: carbon dioxide concentration, sometimes temperature. Cold winter day: temperature. Closed greenhouse in bright sun: carbon dioxide concentration." loading="lazy">
+  <figcaption>The limiting factor depends on the conditions the plant is in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--04-starch-test-variegated-leaf.webp" width="900" height="1030" alt="A destarched variegated leaf with a foil strip is kept in light then tested with iodine. Green uncovered area a turns blue-black; white area b and foil-covered green area c stay orange-brown. a vs b tests chlorophyll; a vs c tests light." loading="lazy">
+  <figcaption>Only the green, lit area makes starch and turns blue-black.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
 
 ## Investigating the rate (6.1.8)
 
@@ -136,6 +190,12 @@ Three sealed tubes of hydrogencarbonate indicator each contain pondweed. After t
 
 A full answer names the process **and** the change in carbon dioxide concentration for each tube.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--05-gas-collection-rate.webp" width="900" height="990" alt="A lamp shines through a beaker of water onto pondweed in sodium hydrogencarbonate solution; gas passes into a gas syringe that reads 1.8 cm3 after 6 minutes. The rate is 1.8 divided by 6, which is 0.3 cm3 per minute. Light, carbon dioxide and temperature are changed one at a time." loading="lazy">
+  <figcaption>Gas volume divided by time gives the rate: 0.3 cm3 per minute.</figcaption>
+</figure>
+
+
 ## Leaf structure (6.2.1–6.2.2)
 
 **Large surface area:** absorbs more light; more area for carbon dioxide to enter. **Thin:** short diffusion distance for gases; light reaches all mesophyll cells.
@@ -152,6 +212,12 @@ A full answer names the process **and** the change in carbon dioxide concentrati
 | Stomata and guard cells | Guard cells open and close the pore for gas exchange |
 
 **Distribution of chloroplasts:** most in palisade, fewer in spongy, none in epidermal cells except guard cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--05-starch-test-steps.webp" width="900" height="1140" alt="Step 1: dip the leaf in boiling water for about a minute to kill the cells. Step 2: put it in a tube of ethanol standing in a hot water bath, with any flame turned off, to remove the chlorophyll. Step 3: dip it in warm water to soften it and spread it on a white tile. Step 4: add iodine solution; blue-black shows starch and orange-brown shows no starch." loading="lazy">
+  <figcaption>Testing a leaf for starch.</figcaption>
+</figure>
+
 
 ## Mineral nutrition (6.3.1–6.3.2)
 

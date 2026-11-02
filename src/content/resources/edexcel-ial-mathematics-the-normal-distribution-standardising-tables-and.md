@@ -64,6 +64,17 @@ Three facts follow from the shape and you can use them without proof:
 
 A single exact value has probability zero for a continuous variable, so P(X < a) and P(X ≤ a) are the same number. Strict and non-strict inequalities do not change the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--01-amth-normal-shape.webp" width="900" height="1250" alt="Three graphs: two bell curves with means 40 and 60 show that changing the mean slides the curve; two curves centred on 50 with standard deviations 4 and 8 show that a larger spread gives a lower, wider curve of the same area; a curve with mean 50 and sd 9 has points of inflection at 41 and 59. A note says N(30, 16) and N(30, 4²) are the same curve." loading="lazy">
+  <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--02-amth-normal-spread-rule.webp" width="900" height="850" alt="Plank lengths with mean 2.40 m and sd 0.03 m: nested bands show about 2/3 (0.683) within one sd, about 95% (0.954) within two, and almost all (0.997) within three. About 0.0228 lies above μ + 2σ." loading="lazy">
+  <figcaption>About 2/3, 95% and almost all values lie within 1, 2 and 3 standard deviations of the mean.</figcaption>
+</figure>
+
+
 ## Standardising
 
 Every Normal distribution can be turned into the standard Normal distribution, Z ~ N(0, 1), by
@@ -73,6 +84,12 @@ Z = (X − μ) / σ
 ```
 
 Here σ is the standard deviation, so take the square root of the variance first. The value z tells you how many standard deviations a value sits above (positive) or below (negative) the mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--03-amth-normal-standardising.webp" width="900" height="945" alt="Mango mass M ~ N(310, 20²): 280 g is z = −1.5 and 325 g is z = 0.75. P(280 &lt; M &lt; 325) = Φ(0.75) − (1 − Φ(1.5)) = 0.7734 − 0.0668 = 0.7066, shown as three small standard normal curves." loading="lazy">
+  <figcaption>Standardise with z = (x − μ)/σ, then use Φ and symmetry to find the area between two values.</figcaption>
+</figure>
+
 
 ## Using the cumulative table
 
@@ -108,6 +125,12 @@ The mass M grams of a mango from an orchard is modelled by M ~ N(310, 20²). Dat
     P(M < 295) = 1 − Φ(0.75) = 0.2266
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--08-amth-normal-uniform.webp" width="900" height="1040" alt="For T uniform on 4 to 10 s the density is a rectangle of height 1/6 and the strip 5 to 8 has area 0.5. The cumulative function rises linearly from 0 at 4 to 1 at 10, with F(5) = 1/6 and F(8) = 2/3. Mean 7, variance 3." loading="lazy">
+  <figcaption>The uniform density is a rectangle, its cdf is a straight ramp, and probability is area.</figcaption>
+</figure>
+
+
 ## Inverse use of the table
 
 Sometimes you are given a probability and asked for a value. Work in this order:
@@ -136,6 +159,17 @@ For the mangoes in example 1, find k such that (a) P(M > k) = 0.10, (b) P(M < k)
 
 Check: part (a) is above the mean 310 and part (b) is below it, which matches the probabilities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--04-amth-normal-inverse.webp" width="900" height="1100" alt="Using the mango model, the top 10% start at k with area 0.90 to the left, z = 1.2816, so k = 335.6 g. The lowest 20% use the mirror value 0.8416, so z = −0.8416 and k = 293.2 g." loading="lazy">
+  <figcaption>Work from the area to the left to find z, then use x = μ + zσ; below 0.5 means z is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--06-amth-normal-sums.webp" width="900" height="1120" alt="For X ~ N(30, 4²), X1 + X2 + X3 is N(90, 48) and 3X is N(90, 144). Both have mean 90 but the sum of independent values is narrower: P(&gt; 102) is 0.0418 for the sum and 0.1587 for 3X." loading="lazy">
+  <figcaption>Variances add for independent values, so a sum is less spread out than a multiple of one value.</figcaption>
+</figure>
+
+
 ## Finding one unknown parameter
 
 If only μ or only σ is unknown, one probability statement is enough. Standardise, set the result equal to the z you know, and solve one equation.
@@ -150,6 +184,17 @@ P(T < 52) = 0.0668 is below 0.5, so z is negative.
 (52 − 60)/σ = −1.5
 σ = 8/1.5 = 16/3 = 5.33 (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--05-amth-normal-two-unknowns.webp" width="900" height="870" alt="With P(X &lt; 30) = 0.20 and P(X &gt; 46) = 0.10, 30 lies 0.8416σ below the mean and 46 lies 1.2816σ above it, so 16 = 2.1232σ, giving σ = 7.54 and μ = 36.3." loading="lazy">
+  <figcaption>Two probability statements give two linear equations in μ and σ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--09-amth-normal-model-limits.webp" width="900" height="1070" alt="N(6, 4²) for assembly time gives 0.0668 probability of a negative time, which is impossible. A second graph compares skewed data with a normal curve of the same mean and spread, which fits poorly and puts about 4% below zero." loading="lazy">
+  <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
+</figure>
+
 
 ### Worked example 4: unknown μ
 

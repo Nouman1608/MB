@@ -109,6 +109,12 @@ The same inverse square pattern applies to the force between two masses. For a p
 
 Never let lines cross. Always include arrowheads.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Reminder 1: force.** Two lorries of mass 1500 kg and 2500 kg have centres 3.0 m apart.
@@ -154,6 +160,17 @@ M = gR²/G = 0.30 × (2.0 × 10⁵)² / 6.67 × 10⁻¹¹ = 1.8 × 10²⁰ kg.
 8. The strength of the field: closer lines mean a stronger field.
 9. The lines are almost parallel and equally spaced over that region, because a few metres is tiny compared with the planet's radius, so r barely changes.
 10. No. The two forces are an equal and opposite pair, both of the same magnitude.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
 
 ## Wording that earns credit in explanations
 

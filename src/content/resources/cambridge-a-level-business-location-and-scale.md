@@ -55,6 +55,12 @@ Location is where a business carries out its operations. Most decisions weigh a 
 
 **Relocation** means moving existing operations to a new site. Triggers include a lease ending, rising costs, a new market, running out of space, congestion, or a change in regulation. Weigh the one-off costs (moving, redundancy, retraining, disruption, lost customers) against the expected savings. Staff who will not move may be lost, taking their skills with them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+
 ## 2. Local, national and international decisions
 
 | | Local | National | International |
@@ -67,6 +73,12 @@ Location is where a business carries out its operations. Most decisions weigh a 
 | Main risk | Small market | Cost of network, coordination | Exchange rates, cultural gaps, political risk |
 
 The right level depends on the product, the finance available and the objectives. A bakery serves a local market; a software firm can serve the world from one office.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--01-reach-local-national-international.webp" width="900" height="860" alt="Three panels: local (one town, short supply chain, close contact, small market), national (sites linked across one country, longer chain, wider market, network cost) and international (sites in two countries separated by a border, longest chain, cheaper inputs and new markets, exchange-rate and cultural risk, law and currency differ)." loading="lazy">
+  <figcaption>How far a location decision reaches changes the supply chain, benefits and risks.</figcaption>
+</figure>
+
 
 ## 3. Offshoring and reshoring
 
@@ -110,6 +122,17 @@ Offshoring saves 256,000 a year, 15.5% of the home cost.
 
 **Test the result.** If offshore wages rise 50% (to 3.15) and freight doubles (to 2.70), variable cost becomes 3.15 + 4.20 + 0.60 + 2.70 = 10.65. Total cost = 10.65 × 120,000 + 410,000 = 1,688,000, unit cost **14.07**. The home factory (13.80) is now cheaper. This is the pattern behind many reshoring decisions: the saving was never guaranteed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--01-westmarsh-offshoring.webp" width="900" height="970" alt="Stacked bars of cost per shirt: home 13.80, offshore 11.67, and offshore after wages rise 50 percent and freight doubles 14.07. Freight and duty plus higher fixed costs eat into the labour saving. When offshore cost exceeds home cost, reshoring becomes attractive." loading="lazy">
+  <figcaption>Westmarsh: the offshore saving disappears once wages and freight rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-offshore-reshore-pushes.webp" width="900" height="930" alt="Arrows run both ways between home and overseas. Offshoring reasons: lower labour and land costs, skills, nearer markets, avoiding import taxes, incentives. Reshoring reasons: rising wages abroad, transport costs, quality failures, long lead times, supply disruption. Globalisation eases moves; protectionism and rising wages can push firms back." loading="lazy">
+  <figcaption>Firms move operations in both directions, for different reasons.</figcaption>
+</figure>
+
+
 ## 4. Globalisation and location
 
 Globalisation is the growing links between countries through trade, investment, finance and communication. Its effects on location decisions:
@@ -132,6 +155,12 @@ Scale of operations means the size of the resources and output the business uses
 - **Owner's objectives:** some owners want control and a quiet life rather than growth.
 - **Competition:** strong rivals with lower costs may force a firm to grow or leave.
 - **Risk and regulation:** larger operations attract more rules and more exposure if demand falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--03-scale-factors.webp" width="900" height="1100" alt="Seven factors drawn as bars from small scale to large scale: market size, finance, type of product, technology, owner objectives, competition, risk and regulation, each with the small-scale and large-scale pull." loading="lazy">
+  <figcaption>Each factor pushes a firm towards small or large scale.</figcaption>
+</figure>
+
 
 ## 6. Economies and diseconomies of scale
 
@@ -170,6 +199,17 @@ Unit (average) cost = total cost ÷ output (standard form). Economies of scale l
 From 4,000 to 8,000 loaves, output doubles but total cost rises only 77.8% (28,000 ÷ 36,000), so unit cost falls 11.1%: economies of scale. From 8,000 to 16,000, output doubles but total cost rises 150% (96,000 ÷ 64,000), so unit cost rises 25%: diseconomies. Lowest unit cost is at 8,000 loaves.
 
 In the standard diagram, an internal economy moves the firm along the unit cost curve; an external economy shifts the whole curve down, because every firm benefits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-sundermere-unit-cost.webp" width="900" height="950" alt="Line chart of the lesson data: unit cost falls from 14.00 at 1,000 loaves to 8.00 at 8,000 then rises to 10.00 at 16,000. Doubling from 4,000 to 8,000 cuts unit cost 11.1 percent; doubling from 8,000 to 16,000 raises it 25 percent." loading="lazy">
+  <figcaption>Unit cost is lowest at 8,000 loaves; beyond that diseconomies of scale push it up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--03-internal-external-economies.webp" width="900" height="1120" alt="Two graphs on the Sundermere curve. An internal economy is a movement down along one curve as the firm grows. An external economy shifts the whole curve down because every firm in the industry gains. The size of the shift is illustrative." loading="lazy">
+  <figcaption>Internal economies move you along the curve; external economies shift it.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -57,6 +57,12 @@ The guide lists these factors without definitions, so these are standard forms. 
 
 Tool link: a STEEPLE analysis sorts external factors; a SWOT analysis places workforce strengths and weaknesses in the internal half.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--04-hrm-activities.webp" width="900" height="730" alt="A hub-and-spoke diagram with business strategy in the centre and six HR activities around it: workforce planning, recruitment and selection, training and development, appraisal and reward, retention, welfare and employee relations, and supporting change. Poor HR planning shows up as unfilled posts, high labour costs, low morale and weak service." loading="lazy">
+  <figcaption>HRM covers six activities, all serving the strategy of the whole business.</figcaption>
+</figure>
+
+
 ### Method: strategies for change (AO3)
 
 1. Name the cause of resistance in the case.
@@ -75,6 +81,17 @@ Match reason to remedy:
 | Scale of change | Phased introduction or pilot |
 
 *Force field analysis (HL only)*: list driving and restraining forces for a change, then weigh them. Resistance sits on the restraining side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--06-resistance-to-change.webp" width="900" height="880" alt="Six reasons for resistance paired with a strategy: fear of job loss with job security promises; fear of the unknown with early honest communication; lack of skills with training; doubt it will work with consultation; low trust with visible leadership; loss of status with incentives." loading="lazy">
+  <figcaption>Each source of resistance has a matching HR strategy, but the best choice depends on the situation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-ledburn-hr-factors.webp" width="900" height="890" alt="Internal factors (6 more shop teams, retiring bakers, fixed training budget) and external factors (demographic change, labour mobility, gig economy) feed into the HR plan: an apprenticeship scheme, flexi-time to keep older bakers, gig drivers only for delivery peaks." loading="lazy">
+  <figcaption>Each internal and external factor leads to a consequence for the HR plan.</figcaption>
+</figure>
+
 
 ## 2.2 at a glance
 
@@ -119,6 +136,22 @@ Rule: for a fixed workforce, wider spans mean fewer levels.
 - Advantages: shares skills across projects, better communication across functions, flexible teams.
 - Disadvantages: two bosses can give conflicting orders, confusion over accountability, possible conflict between managers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--04-span-and-levels.webp" width="900" height="840" alt="Stacked level charts for 300 employees. Span 6: layers hold 1, 6, 36 and 216 people (259), so the remaining 41 need a fifth level. Span 20: 1, 20 and 279 people fit in three levels." loading="lazy">
+  <figcaption>A wider span needs fewer levels and gives a shorter chain of command, but each manager supervises more people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-structure-types.webp" width="900" height="920" alt="Four small organisation charts: by function (marketing, finance, HR), by product, by region, and a matrix where each employee reports to a function manager and a project manager." loading="lazy">
+  <figcaption>Staff can be grouped by function, product or region, or in a matrix with two reporting lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--07-delegation-centralisation.webp" width="900" height="935" alt="Delegation: a manager passes authority and the task to a subordinate but stays accountable. Centralised: decisions at the top of the hierarchy. Decentralised: decisions spread to lower levels. Bureaucracy: clear rules and formal roles give consistency but can be slow." loading="lazy">
+  <figcaption>Who makes decisions, and how rules shape them.</figcaption>
+</figure>
+
+
 ### Centralization versus decentralization
 
 | | Centralization | Decentralization |
@@ -145,10 +178,32 @@ Build your answer as: change, demand it creates, structure that meets the demand
 - Recession: delayering to cut costs, with a warning about overload.
 - Remote and flexible work: flatter teams (project-based organization is HL only).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--06-ledburn-delayering.webp" width="900" height="925" alt="Two charts. Before: managing director, 4 area managers, 20 store managers, 160 shop staff, span 4. After removing the area managers: span 20. Savings: 4 x 52,000 = 208,000, redundancy 4 x 14,000 = 56,000, net 152,000 in year one." loading="lazy">
+  <figcaption>Removing four area managers widens the MD span from 4 to 20 and saves 152,000 net in year one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+
 ### HL only: changes in structure
 
 - **Project-based organization**: temporary teams formed around a project, then disbanded.
 - **Handy's "Shamrock Organization"**: three leaves. Core staff (essential, permanent), contractors (non-core tasks) and a flexible workforce (part-time or temporary).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--07-shamrock-organisation.webp" width="900" height="850" alt="A shamrock with three leaves: core of essential permanent staff, contractors doing non-core work, and a flexible part-time or temporary workforce. HL only." loading="lazy">
+  <figcaption>Handy's Shamrock splits an organisation into core staff, contractors and a flexible workforce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--08-project-based-organization.webp" width="900" height="740" alt="Higher level only. A timeline with three overlapping projects, each with its own temporary team that forms at the start and disbands at the end." loading="lazy">
+  <figcaption>In a project-based organization temporary teams form around projects.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -218,3 +273,9 @@ Build your answer as: change, demand it creates, structure that meets the demand
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, sections 2.1 and 2.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+

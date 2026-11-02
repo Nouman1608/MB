@@ -63,6 +63,12 @@ Every control system has three kinds of part.
 
 Notice that the brain and pancreas hold receptors for internal conditions. The skin holds receptors for what is happening at the body surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--08-receptor-locations.webp" width="900" height="680" alt="A body outline labelling receptors: eyes (light), ears (sound and position), skin (touch, pressure, pain, temperature), brain (blood temperature and water), tongue and nose (chemicals) and pancreas (blood glucose)." loading="lazy">
+  <figcaption>Receptors for internal conditions are in the brain and pancreas; the skin senses the surface.</figcaption>
+</figure>
+
+
 ### Conditions that are controlled (3.4.2 e)
 
 Four are listed: temperature, the water content of the body, the ion content of the body and blood glucose levels. This guide covers temperature and blood glucose.
@@ -79,6 +85,12 @@ Name the receptor, coordination centre and effector in each case.
 
 Write the chain in order: stimulus, then receptor, then coordination centre, then effector, then response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--02-control-system-chain.webp" width="900" height="800" alt="Stimulus, receptors, coordination centre (thermoregulatory centre), effectors (sweat glands, skin vessels, muscles), response, with a feedback arrow back to the stimulus." loading="lazy">
+  <figcaption>Every control system has receptors, a coordination centre and effectors.</figcaption>
+</figure>
+
+
 ## 3.4.4 Temperature control
 
 The thermoregulatory centre in the brain monitors and controls body temperature. It contains receptors that are sensitive to the temperature of the blood flowing through the brain, so it measures core body temperature directly. Temperature receptors in the skin send impulses to the same centre. They give information about skin temperature, and so about the outside world.
@@ -91,10 +103,22 @@ Core temperature is normally close to 37 °C. The centre compares what it detect
 * **More sweating.** Sweat glands release more sweat. The sweat cools the body as it evaporates.
 * **Replacing fluid.** More water is lost when it is hot, so more fluid has to be taken in through drink or food to balance the loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--05-hiker-water-loss.webp" width="900" height="690" alt="A stacked column shows 2.45 dm³ of sweat lost over four hours beside a 1.5 dm³ drink. The 0.95 dm³ gap is 39% of the water lost, so more fluid must be taken in to replace it." loading="lazy">
+  <figcaption>In hot weather the water lost as sweat must be replaced by drinking more.</figcaption>
+</figure>
+
+
 ### Core temperature too low (3.4.4 d)
 
 * **Vasoconstriction.** The blood vessels supplying the skin capillaries constrict (narrow). Less blood flows through the skin capillaries, so less energy is transferred to the environment.
 * **Shivering.** Muscles contract and relax rapidly. The contractions need respiration, and respiration transfers some energy that warms the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--06-shivering-oxygen.webp" width="900" height="730" alt="Oxygen use rises from 0.25 to 0.60 dm³ per minute in the cold room, a rise of 0.35 (140%). Over 30 minutes that is 10.5 dm³ extra, because shivering needs respiration and warms the body." loading="lazy">
+  <figcaption>Shivering raises oxygen use by 140% because the muscles need energy from respiration.</figcaption>
+</figure>
+
 
 ### Worked example 2: a hot walk
 
@@ -124,6 +148,12 @@ A volunteer sits still at 25 °C, then in a cold room at 5 °C. Oxygen used by t
 (b) 0.35 × 30 = **10.5 dm³**.
 
 (c) Shivering is rapid muscle contraction. The contractions need energy from respiration, so more oxygen is used. Some of the energy is transferred as heat, which warms the body and helps to keep core temperature near 37 °C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--01-temperature-responses.webp" width="900" height="1050" alt="Two skin cross-sections. Too hot: skin vessels widen, more blood and more energy lost, and sweat evaporates to cool the body. Too cold: skin vessels narrow so less energy is lost, and muscles shiver so respiration warms the body." loading="lazy">
+  <figcaption>Vasodilation and sweating cool you; vasoconstriction and shivering warm you.</figcaption>
+</figure>
+
 
 ## 3.4.5 Control of blood glucose
 
@@ -158,6 +188,12 @@ On two days a person with Type 1 diabetes eats the same meal at hour 0. On day A
 
 (b) After the meal, glucose enters the blood. With no injection, the person's pancreas does not make enough insulin, so little glucose moves into cells and the level stays high. The injected insulin allows glucose to move from the blood into the cells, so the rise is smaller and the level returns towards 8.0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--04-type1-meal-graph.webp" width="900" height="790" alt="Line graph of blood glucose against hours after a meal. No insulin: 8.0 rising to 15.5 (+94%). Insulin: 8.0 rising to 10.5 (+31%) and falling to 7.5." loading="lazy">
+  <figcaption>Insulin keeps the rise after a meal small.</figcaption>
+</figure>
+
+
 ### Worked example 5: how long do the stores last?
 
 Assume a liver holds 90 g of glycogen and the body uses glucose from it at 6.0 g per hour between meals.
@@ -177,6 +213,17 @@ In a real fast, falling glucose stimulates the pancreas to release glucagon. Glu
 
 Insulin is given by injection in Type 1 diabetes because the problem is a shortage of the hormone. Drugs that help cells respond to insulin suit Type 2 diabetes because insulin is present but cells respond poorly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--03-diabetes-types.webp" width="900" height="1190" alt="Three rows of blood above a cell with glucose gates. Healthy: insulin opens gates and glucose enters. Type 1: too little insulin, gates closed. Type 2: insulin present but cells respond poorly, gates closed." loading="lazy">
+  <figcaption>Type 1 is a shortage of insulin; Type 2 is a poor response to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--09-type2-insulin-response.webp" width="900" height="840" alt="Glucose uptake against insulin for healthy cells (A) and Type 2 diabetic cells (B). B takes up less at every insulin level; at 20 units A takes up 2.4 times as much. A rises 900% and B 500% from 0 to 40. Obesity is a significant risk factor." loading="lazy">
+  <figcaption>Type 2 cells respond poorly to insulin, so they take up less glucose at every insulin level.</figcaption>
+</figure>
+
+
 ### Worked example 6: Type 2 diabetes in cells
 
 Muscle cells from a healthy person (A) and a person with Type 2 diabetes (B) are given different insulin concentrations. Glucose uptake is in arbitrary units per hour.
@@ -193,6 +240,17 @@ Muscle cells from a healthy person (A) and a person with Type 2 diabetes (B) are
 (b) A: (20 − 2) ÷ 2 × 100 = **900%**. B: (12 − 2) ÷ 2 × 100 = **500%**.
 
 (c) B's cells take up less glucose at every insulin concentration above zero. This fits Type 2 diabetes, where cells do not respond properly to their own insulin. Insulin is present, but the response is weaker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--07-glucose-stores-glycogen.webp" width="900" height="920" alt="Glucose is stored as glycogen in the liver and muscles, and as lipid only when those stores are full. A liver holding 90 g of glycogen used at 6.0 g per hour lasts 15 hours." loading="lazy">
+  <figcaption>Spare glucose is stored as glycogen first, then lipid; 90 g at 6.0 g per hour lasts 15 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
 
 ## Common errors
 

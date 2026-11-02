@@ -52,6 +52,17 @@ The specification lists four **characteristics of an entrepreneur**.
 
 **Risk and reward.** Nkechi puts in £14 000 of savings. The risk is that visitors are too few and she loses part or all of it, as well as the pay she gave up. The reward is the profit she hopes to make, which she forecasts at £9 000 in the first year, plus being her own boss. The larger the possible reward, the more risk an entrepreneur usually has to accept. A good answer names both sides and links them to the business in the case study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--01-enterprise-chain.webp" width="900" height="1120" alt="A chain shows an opportunity, an idea and a customer need met for the invented Yarrowmoor Kayak Hire. Four tiles name the entrepreneur traits. A strip contrasts the £14,000 savings at risk with the £9,000 forecast profit." loading="lazy">
+  <figcaption>Enterprise turns an opportunity into an idea that meets a customer need, and entrepreneurs need four traits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+
 ## 1.2 Business planning
 
 **Planning** means deciding in advance what the business will do and how. Its purposes are to **reduce risk** and to **help the business to succeed**: problems are found on paper, not after money has been spent.
@@ -65,6 +76,12 @@ A **business plan** is a written document setting out the idea and how it will w
 5. **Reducing risk.** Weak points show up while they are cheap to fix.
 
 **How useful is a plan?** It does not guarantee success. Forecasts can be wrong, a plan takes time to write, and a rigid owner may ignore a changed market. It is most useful when seeking finance or starting up, and less useful if never revisited. When asked about usefulness, give a benefit, a limit and a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
 
 ## 1.3 Business ownership
 
@@ -88,6 +105,22 @@ Sundrell & Rudge is an invented print studio run as a partnership. It owes £60 
 
 **Suitability in context.** Nkechi, starting small with her own money, suits a sole trader. A family business wanting protection for its savings may prefer a Ltd. An established manufacturer that needs millions to build a new site may choose to become a plc. In an evaluation, match the type to the stage, size and finance needs, not to a favourite.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--02-liability-example.webp" width="900" height="1030" alt="A studio owes £60,000 against £45,000 of assets, a £15,000 shortfall. Partners with unlimited liability could pay £7,500 each; in a private limited company each loses at most £10,000 and creditors bear the £15,000." loading="lazy">
+  <figcaption>Limited liability caps the owner loss; unlimited liability does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## 1.4 Business aims and objectives
 
 An **aim** is a long-term goal. An **objective** is a target that helps reach it. The specification lists five.
@@ -103,6 +136,17 @@ Stormgate Sportswear plc (invented) sells £1.4 million in a market of £11.2 mi
 **Why objectives change.** A business changes as it evolves. Yarrowmoor Kayak Hire will first aim to survive the winter. If it does, it can aim for profit, then for a second hut. Competitors, the economy and the owner's own ambitions can also move the target.
 
 **Why businesses differ.** Calder Valley Community Transport (invented) runs minibuses for people without cars. It values providing a service and breaking even, while a plc such as Stormgate answers to shareholders who expect profit and growth. Size, ownership and the owner's motives all change the objective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--01-market-share-stormgate.webp" width="900" height="882" alt="A grid of 112 squares stands for an 11.2 million pound market, one square being 0.1 million pounds. Stormgate sells 1.4 million pounds, shown as one full shaded row of 14 squares. The formula 1.4 divided by 11.2 times 100 gives 12.5 percent." loading="lazy">
+  <figcaption>Stormgate Sportswear holds 12.5% of an 11.2 million pound market: 14 of 112 squares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
 
 ## 1.5 Stakeholders in business
 
@@ -123,6 +167,17 @@ A **stakeholder** is someone, or a group, with a stake in a business, either bec
 
 **Conflict.** Interests often clash. A pay rise helps employees but cuts profit for owners. Expansion pleases owners but may upset the community. For a high-mark answer, say which stakeholder matters more in this case and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--04-night-shift.webp" width="900" height="980" alt="A night shift at Farrowdale Preserves gives owners more output, employees extra hours and suppliers bigger orders, but neighbours get lorry noise. A strip notes stakeholders can push back." loading="lazy">
+  <figcaption>One business decision helps some stakeholders and harms others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## 1.6 Business growth
 
 **Organic growth** comes from inside, using the business's own resources. The specification lists four forms.
@@ -141,6 +196,17 @@ Organic growth is slower but lower risk and easier to control.
 - **Diversification**: moving into a new market or product, for example the furniture maker buying a garden-lighting firm.
 
 External growth is fast and can win market share or a supply, but it costs money, the businesses may not blend, and staff can resist change. When you evaluate, link the type to the objective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--03-growth-directions.webp" width="900" height="1130" alt="Mardelby Furniture has arrows to a rival (horizontal), a supplier (backward vertical), a customer (forward vertical) and a new market (diversification). Two panels contrast a merger with a takeover." loading="lazy">
+  <figcaption>External growth can go sideways, backwards, forwards or into a new market, by merger or takeover.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--02-organic-growth-percentage.webp" width="900" height="720" alt="Two bars compare monthly output. Before is 8,000 jars. After is the same 8,000 plus an extra 2,200, making 10,200. The increase divided by the original times 100 gives 27.5 percent organic growth, from the business own resources." loading="lazy">
+  <figcaption>Farrowdale grows output from 8,000 to 10,200 jars a month, which is 27.5% organic growth.</figcaption>
+</figure>
+
 
 ## How to answer section 1 questions
 

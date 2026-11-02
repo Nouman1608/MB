@@ -72,6 +72,12 @@ Quillbeck Cycles is an invented business with 30 employees. It makes custom bicy
 
 That last step matters. A good answer on 1.5.1 does not list opportunities and threats and stop. It decides which matters more for this business and gives a reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--01-quillbeck-threat-opportunity.webp" width="900" height="960" alt="Quillbeck Cycles, an invented business with 30 employees, faces a threat and an opportunity. Threat: a larger overseas maker selling at lower prices takes local customers, so local sales revenue falls. Opportunity: its website reaches buyers in other countries, far more customers than the home market holds. The judgement is to compare what each costs or earns and whether craftsmanship can hold overseas buyers." loading="lazy">
+  <figcaption>The same website brings a threat and an opportunity; a good answer weighs them.</figcaption>
+</figure>
+
+
 ## 2. Multinationals (1.5.2)
 
 The specification does not define the term. The following is the standard definition, not specification wording: a multinational is a business that has operations, such as factories, offices or shops, in more than one country. The specification also lists multinationals under forms of business organisation in section 1.2, and it focuses Paper 2 on a large business with a multinational or global market.
@@ -89,6 +95,12 @@ Multinationals matter because of their size, their share of world trade and thei
 - **Spreading risk** across several economies.
 - **Using brand strength** in more places, and gaining local knowledge from a local base.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--12-mnc-business-advantages.webp" width="900" height="910" alt="A hub labelled MNC links six advantages: larger markets, lower costs, avoiding trade barriers, economies of scale, spreading risk and a global brand." loading="lazy">
+  <figcaption>Six advantages to a business of becoming a multinational company.</figcaption>
+</figure>
+
+
 ### Benefits to a country and/or economy where a multinational is located
 
 - **Jobs and incomes.** Workers gain wages, which they spend in the local economy.
@@ -98,6 +110,12 @@ Multinationals matter because of their size, their share of world trade and thei
 - **More choice and often lower prices** for consumers.
 - **Local suppliers** may gain a large customer.
 - **Exports**, if the multinational sells its output abroad, which brings money into the economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--13-mnc-host-country.webp" width="900" height="880" alt="A balance: jobs, exports, more choice and investment on the gains side; more competition, environmental damage, resources taken and profits sent home on the losses side." loading="lazy">
+  <figcaption>A host country gains and loses from an MNC.</figcaption>
+</figure>
+
 
 ### Possible drawbacks to a country and/or economy where a multinational is located
 
@@ -121,6 +139,12 @@ Sundar Foods is an invented multinational. It opens a packaging plant that emplo
 *Drawback:* local packaging firms lose customers, because Sundar's plant supplies the same buyers at a lower price. Several close and their workers lose jobs.
 
 *Judgement:* the net effect depends on whether new jobs and tax income exceed the jobs lost, and on how long Sundar stays. The strongest answers weigh the two sides and say which is likely to be larger, with a reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--05-sundar-foods-host-town.webp" width="900" height="930" alt="Sundar Foods, an invented multinational, opens a packaging plant employing 800 people. Benefit: regular wages, so shops and landlords gain extra spending. Drawback: the plant sells to the same buyers as local packaging firms at a lower price; those firms lose customers, several close and their workers lose jobs. The net effect depends on new jobs and tax income against jobs lost, and how long Sundar stays." loading="lazy">
+  <figcaption>A multinational plant brings jobs and spending but can close local firms; the net effect needs judging.</figcaption>
+</figure>
+
 
 ## 3. Exchange rate calculation (1.5.3)
 
@@ -151,6 +175,17 @@ If the rate later moves to £1 = EUR 1.50, the same parts cost 9,000 ÷ 1.50 = *
 
 Show the rate used and the operation (multiply or divide) so that your method is visible. State the currency in the answer, and give money to a sensible number of decimal places, usually two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--02-rate-multiply-divide.webp" width="900" height="980" alt="With the invented rate £1 = USD 1.25, a dollar is worth less than a pound so a pound buys more dollars. Pounds to dollars means multiplying by 1.25: £48 becomes USD 60.00. Dollars to pounds means dividing by 1.25: USD 750 becomes £600. Pounds to dollars should give a bigger number and dollars to pounds a smaller one." loading="lazy">
+  <figcaption>Multiply to go from pounds to dollars, divide to come back, and check the answer is the right size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--03-import-cost-rate-rise.webp" width="900" height="790" alt="An invented firm buys parts costing EUR 9,000. At £1 = EUR 1.20 they cost £7,500; if the pound strengthens to £1 = EUR 1.50 the same parts cost £6,000, which is £1,500 less. Bars show the two costs with the saving marked." loading="lazy">
+  <figcaption>When the pound buys more euros, identical imported parts cost fewer pounds.</figcaption>
+</figure>
+
+
 ## 4. The impact of exchange rate changes (1.5.4)
 
 Exchange rates move over time. When the pound can buy more foreign currency, it has strengthened. When it buys less, it has weakened. The same move looks different from the other side: a stronger pound means a weaker dollar against it.
@@ -159,12 +194,24 @@ Exchange rates move over time. When the pound can buy more foreign currency, it 
 
 Competitiveness here means how attractive a country's products are to buyers abroad compared with rivals. If the home currency strengthens, overseas buyers need more of their own currency to buy the same goods, so exports look more expensive and imports into the home market look cheaper. Competitiveness falls. If the home currency weakens, the reverse happens and competitiveness rises. How far demand changes depends on how sensitive buyers are to price and on how much of the product's appeal comes from something other than price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--14-exchange-rate-effects.webp" width="900" height="830" alt="A grid of exporters and importers against appreciation and depreciation of the home currency. Appreciation: exporters lose competitiveness, importers see lower costs. Depreciation: the reverse." loading="lazy">
+  <figcaption>Appreciation and depreciation affect exporters and importers in opposite ways.</figcaption>
+</figure>
+
+
 ### On exporters and importers
 
 | | Home currency strengthens | Home currency weakens |
 |---|---|---|
 | Exporters | Foreign prices rise, or home-currency earnings per sale fall. Sales or profit may fall. | Foreign prices can fall, or home-currency earnings per sale rise. Sales or profit may grow. |
 | Importers | Imports cost fewer units of home currency. Costs fall and profit margins may rise. | Imports cost more in home currency. Costs rise, so profit falls or prices rise. |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--08-pound-matrix.webp" width="900" height="930" alt="A grid shows a stronger pound hurts exporters and helps importers, while a weaker pound helps exporters and hurts importers. Firms that both import and export are partly protected." loading="lazy">
+  <figcaption>The direction of the pound has opposite effects on exporters and importers.</figcaption>
+</figure>
+
 
 ### Worked example: an exporter and an importer
 
@@ -187,6 +234,12 @@ These two points are standard knowledge added for balance. The specification doe
 
 - A business may have agreed a price in advance, so a rate change may not show up at once.
 - A business may choose to absorb a change in its profit margin instead of changing its price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--04-exporter-importer-stronger-pound.webp" width="900" height="940" alt="When the pound strengthens from £1 = USD 1.25 to USD 1.40, an £80 machine part rises in the US from USD 100 to USD 112, up 12 per cent, so the exporter may lose sales. The same firm importing USD 2,500 of tools pays £1,785.71 instead of £2,000, saving £214.29, so the importer is helped. A firm doing both compares the two effects." loading="lazy">
+  <figcaption>A stronger pound hurts this exporter and helps this importer.</figcaption>
+</figure>
+
 
 ## Common errors
 

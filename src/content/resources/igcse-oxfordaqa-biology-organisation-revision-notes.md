@@ -40,6 +40,37 @@ Condensed for the final weeks. For the full explanation, use the
 
 Cells may be **specialised** for a particular function: be ready to link a named cell's structure to its job in a tissue, organ or organism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## Levels of organisation (3.1.2)
 
 ```
@@ -70,6 +101,17 @@ The **digestive system** is the standard example of an organ system:
 - **Small intestine** — where soluble food is absorbed.
 - **Large intestine** — where water is absorbed from the undigested food, producing faeces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--04-stomach-tissues.webp" width="900" height="730" alt="Schematic section of the stomach wall: epithelial tissue lines the inside, glandular tissue in flask-shaped glands makes digestive juices, muscular tissue churns the contents and epithelial tissue covers the outside." loading="lazy">
+  <figcaption>The stomach contains muscular, glandular and epithelial tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
+
 ## Plant tissues and organs (3.1.4)
 
 | Tissue | What it does |
@@ -80,6 +122,12 @@ The **digestive system** is the standard example of an organ system:
 | **Xylem and phloem** | Transport substances around the plant |
 
 Plant **organs** include stems, roots and leaves. Internal structure is limited to the leaf and the position of the xylem and phloem in a dicotyledonous primary root and primary stem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
 
 ## Transport in cells (3.1.5)
 
@@ -108,6 +156,17 @@ Plant **organs** include stems, roots and leaves. Internal structure is limited 
 | **Leaves** | Flat, thin shape and air spaces inside (large surface area, short diffusion path for gases) |
 
 **Worked example.** Explain why the small intestine is not ventilated but the lungs are. Both are exchange surfaces with a large surface area, a short diffusion path and a rich blood supply. The lungs exchange **gases with the air**, so fresh air must keep arriving or the air in the alveoli would reach the same concentrations as the blood and diffusion would stop; the small intestine exchanges **dissolved substances** with the blood, so blood flow alone keeps its gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--02-sa-v-ratio.webp" width="900" height="980" alt="Cubes of side 1, 2 and 4 cm have surface areas 6, 24 and 96 cm2 and volumes 1, 8 and 64 cm3, giving surface area to volume ratios of 6:1, 3:1 and 1.5:1. The ratio falls as size increases, so large organisms need exchange surfaces." loading="lazy">
+  <figcaption>As size increases, surface area to volume ratio falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--03-animal-cell-osmosis-tonicity.webp" width="900" height="805" alt="An animal cell is drawn in three solutions. Hypotonic: fewer dissolved particles outside, water moves in, cell swells and may burst. Isotonic: equal concentration, no net movement, normal shape. Hypertonic: more particles outside, water moves out, cell shrinks and crinkles." loading="lazy">
+  <figcaption>Hypotonic, isotonic and hypertonic solutions change the shape of an animal cell by osmosis.</figcaption>
+</figure>
+
 
 ## Linked Topic 2 notes: enzymes, digestion, the heart and the lungs
 
@@ -165,6 +224,12 @@ Trachea → bronchi → bronchioles → alveoli.
 - **Exhaling:** intercostal muscles and diaphragm relax; the volume of the thorax decreases, the pressure rises, and air leaves the lungs.
 
 The alveoli provide a very large surface area, richly supplied with blood capillaries, so gases readily diffuse into and out of the blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--03-exchange-surfaces.webp" width="900" height="1110" alt="Table: both the small intestine and the lungs have a large surface area, thin walls and a rich blood supply; only the lungs are ventilated, because they exchange gases with air, while the intestine gradient is kept steep by blood flow." loading="lazy">
+  <figcaption>Both surfaces share three features; only the lungs are ventilated.</figcaption>
+</figure>
+
 
 ## Exam traps
 

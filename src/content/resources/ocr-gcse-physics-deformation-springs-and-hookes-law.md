@@ -53,6 +53,12 @@ The force that stretches the spring is the tension in it, 4.0 N, not 8.0 N. Each
 
 e = F / k = 4.0 / 250 = 0.016 m, which is 1.6 cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--01-one-force-not-enough.webp" width="900" height="1080" alt="Three examples of deformation, each needing forces on different parts of the object. Stretch: a spring hangs from a clamp, the clamp pulls up at the top and the load pulls down at the bottom. Compress: foam is pushed inwards from both sides and ends smaller than its dashed original outline. Bend: a plank on two bricks has a person pushing down in the middle and each brick pushing up near an end." loading="lazy">
+  <figcaption>Deforming an object needs opposite forces on different parts of it.</figcaption>
+</figure>
+
+
 ## P2.3b: elastic and plastic deformation
 
 Stretching forces cause a distortion of the object.
@@ -65,6 +71,12 @@ A spring, a ruler bent slightly and a rubber band stretched gently all behave el
 Most materials behave elastically up to a point and plastically beyond it. The loading and unloading comparison in the specification's practical suggestions (springs and elastic bands loaded with weights, then unloaded) is a direct test. Add weights, then take them off. If the spring or band returns to its natural length, the deformation was elastic. If it stays longer, some of it was plastic.
 
 A spring that has been stretched too far is often permanently longer afterwards. Its force-extension behaviour has also changed, so it is no longer reliable for measuring forces.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--02-elastic-or-plastic.webp" width="900" height="1080" alt="Two force-extension graphs. Elastic: loading goes straight to 2 N at 10 cm and unloading returns along the same line to zero extension. Plastic: loading follows the lesson Table 1 values, straight to 2.5 N at 12.5 cm (limit of proportionality), then bending to 3.5 N at 21.5 cm; unloading falls parallel to the straight section and reaches zero force with the spring still 4.0 cm longer." loading="lazy">
+  <figcaption>Elastic objects return to their natural length when the load is removed; plastic deformation leaves a permanent extension.</figcaption>
+</figure>
+
 
 ## P2.3c: force and extension
 
@@ -80,6 +92,22 @@ For a spring the graph has two parts.
 "Other simple systems" include an elastic band, a rubber cord and a metal wire. A band stretches with a curved graph almost from the start.
 
 Always give the axes with units: force in newtons (N) and extension in metres (m), or centimetres if the question's graph uses them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--02-spring-practical-setup.webp" width="900" height="900" alt="A spring hangs from a clamp beside a vertical ruler. Unloaded it reads 20.0 cm; with known weights it reads 24.0 cm. The extension is 24.0 minus 20.0 = 4.0 cm." loading="lazy">
+  <figcaption>Extension is the stretched length minus the natural length, read from a ruler beside the spring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
+</figure>
+
 
 ## P2.3d: linear and non-linear
 
@@ -104,6 +132,17 @@ Do not confuse the two pairs of words. Linear and non-linear describe the shape 
 | 350 | 3.50 | 36.5 | 21.5 |
 
 For the first five loads, every extra 0.50 N gives 2.5 cm more, so the relationship is linear. At 3.00 N the extension jumps by 3.5 cm and at 3.50 N by 5.5 cm, so the line has bent. The limit of proportionality lies between 2.50 N and 3.00 N, close to 2.50 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--05-band-energy-strips.webp" width="900" height="1000" alt="Force-extension graph for an elastic band with forces 0, 0.8, 1.2, 1.5, 2.1 and 3.4 N at 0 to 10 cm. The area under the curve is split into five strips each 2 cm wide. The strip areas are 0.8, 2.0, 2.7, 3.6 and 5.5 N cm, totalling 14.6 N cm = 0.146 J." loading="lazy">
+  <figcaption>For a curved graph, split the area into trapezium strips and add them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--01-band-loading-unloading.webp" width="900" height="930" alt="A force-extension graph for an elastic band. The loading curve passes through the lesson data points up to 3.4 N at 10 cm. The unloading curve, with illustrative values, lies below it and both end at zero extension, so the band returns to its original length (elastic) but the graph is curved and the two paths differ." loading="lazy">
+  <figcaption>A band returns to its start length yet unloads along a different, lower path.</figcaption>
+</figure>
+
 
 ## P2.3e: the spring constant
 
@@ -133,6 +172,22 @@ Check the answer against the table. 1.75 N lies halfway between 1.50 N and 2.00 
 F = ke = 140 × 0.030 = **4.2 N**.
 
 The same equation works for compression if the spring is compressed within its linear range. Then e is the compression, the decrease in length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--03-cm-to-m-spring-constant.webp" width="900" height="910" alt="A spring of natural length 12.0 cm stretched to 17.0 cm by 3.0 N has extension 5.0 cm. Converting to 0.050 m gives k = 60 N/m; leaving it in cm gives 0.60, 100 times too small." loading="lazy">
+  <figcaption>Convert extension to metres first or the spring constant comes out 100 times too small.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--04-spring-compression-linear.webp" width="900" height="1210" alt="A spring is shown natural, stretched by 3.0 cm with a 4.2 N pull and compressed by 3.0 cm with a 4.2 N push. The graph is one straight line through the origin with points (3.0, 4.2) and (-3.0, -4.2)." loading="lazy">
+  <figcaption>Within the linear range a spring obeys F = ke when compressed as well as stretched.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--05-table1-worked-example-4.webp" width="900" height="930" alt="The first six Table 1 points up to 2.50 N lie on a straight line; the last two bend below it. Reading (10.0 cm, 2.00 N) gives k = 20 N/m, and 1.75 N gives an extension of 8.75 cm." loading="lazy">
+  <figcaption>Take k from the straight part of the graph, then use it to predict an extension.</figcaption>
+</figure>
+
 
 ## P2.3f: work done in stretching
 
@@ -178,6 +233,17 @@ Each strip is 2 cm wide. Area of a strip = average force × width.
 - 8 to 10 cm: (2.1 + 3.4) / 2 × 2 = 5.5
 
 Total = 14.6 N cm = 0.146 J, since 100 N cm = 1 J. The work done stretching the band to 10 cm is about **0.15 J**. It is an estimate, because the strips are straight-line approximations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--03-spring-energy-area.webp" width="900" height="1000" alt="Force-extension graph for a spring of constant 20 N/m. The line rises to 2.00 N at 10.0 cm and the triangle beneath it is shaded. Its area, ½ × 2.00 × 0.100, is 0.10 J. The formula ½ke² also gives 0.10 J when the extension is in metres." loading="lazy">
+  <figcaption>Work done in stretching a spring is the area under the force-extension line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--04-double-extension-energy.webp" width="900" height="970" alt="Force-extension line for k = 300 N/m reaching 12 N at 4.0 cm and 24 N at 8.0 cm. The triangle under the line to 8.0 cm is split into four identical triangles, each the same size as the triangle to 4.0 cm. Each is 0.24 J, so 4.0 cm stores 0.24 J and 8.0 cm stores 0.96 J." loading="lazy">
+  <figcaption>Doubling the extension quadruples the stored energy because the energy triangle is four times bigger.</figcaption>
+</figure>
+
 
 ## Common errors
 

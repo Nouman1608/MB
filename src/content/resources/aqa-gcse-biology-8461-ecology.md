@@ -63,6 +63,17 @@ When asked to explain the effect of a change, give a chain: change → what it d
 
 **Extremophiles** live in extreme environments: high temperature, high pressure or high salt concentration. Bacteria living in deep-sea vents are extremophiles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--07-eco-adaptation-types.webp" width="900" height="1070" alt="Structural, behavioural and functional adaptations with an example of each, plus extremophiles at deep-sea vents." loading="lazy">
+  <figcaption>Adaptations are structural, behavioural or functional.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--03-web-change.webp" width="900" height="1150" alt="Web: grass eaten by rabbits and voles; rabbits and voles eaten by foxes; voles also eaten by owls. Disease kills most rabbits (1), foxes eat more voles so voles fall (2), owls may fall (3), grass may rise (4)." loading="lazy">
+  <figcaption>Follow every arrow: fewer rabbits means more voles eaten, fewer owls and more grass.</figcaption>
+</figure>
+
+
 ## Food chains, sampling and predator–prey cycles (4.7.2.1)
 
 Photosynthetic organisms are the producers of biomass for life on Earth. Every food chain starts with a **producer** that synthesises molecules, usually a green plant or alga making glucose by photosynthesis. Producers are eaten by **primary consumers**, then **secondary** and **tertiary consumers**. Consumers that kill and eat other animals are **predators**; those eaten are **prey**.
@@ -91,6 +102,27 @@ Population estimate = 12 × 1000 = 12 000 daisies
 ```
 
 Note the mean (3.0) is higher than the median (2) because a few quadrats had high counts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--01-quadrat-estimate.webp" width="900" height="990" alt="A 40 m by 25 m lawn with ten randomly placed quadrats, each showing its daisy count: 4, 0, 2, 7, 2, 5, 1, 2, 6 and 1. The total is 30, so the mean is 3.0 per quadrat; dividing by the 0.25 m² quadrat area gives 12 per m²; multiplying by 1000 m² gives 12 000 daisies. Median and mode are both 2." loading="lazy">
+  <figcaption>Scale up from the quadrat mean to the whole lawn: 3.0 ÷ 0.25 × 1000 = 12 000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--02-transect-distribution.webp" width="900" height="1080" alt="Plan view of a tape from a hedge into a field with six quadrats at regular intervals, shaded from dark to bright. Example light readings rise from 10 to 95 percent and daisy counts rise from 0 to 8 with distance from the hedge. The transect shows how a species changes as an abiotic factor changes." loading="lazy">
+  <figcaption>A transect records species and an abiotic factor at regular intervals to show distribution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--03-predator-prey-cycle.webp" width="900" height="1010" alt="Line graph of prey (solid) and predator (dashed) populations over time from a simple predator-prey model. Both rise and fall repeatedly, and each predator peak comes after the matching prey peak. Four numbered steps explain the cycle." loading="lazy">
+  <figcaption>The predator peak comes after the prey peak because predators need prey to breed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
 
 ## Cycles and decomposition (4.7.2.2–4.7.2.3)
 
@@ -126,6 +158,22 @@ The same idea works with mass: compost that falls from 800 g to 560 g in 12 week
 
 Changes in **temperature**, **availability of water** and **composition of atmospheric gases** affect where species are found. Changes may be **seasonal**, **geographic** or caused by **human interaction**. When you evaluate data, say what moved, link it to the named change, and note limits of the evidence (one site, one year, other factors changing).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--04-decay-rate.webp" width="900" height="1030" alt="Milk at 30 °C falls from pH 6.7 to pH 5.5 in 40 minutes, a change of 1.2, so the rate is 0.03 pH units per minute. Compost falls from 800 g to 560 g in 12 weeks, a loss of 240 g, so the rate is 20 g per week." loading="lazy">
+  <figcaption>Rate of decay = change ÷ time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--06-eco-water-cycle.webp" width="900" height="810" alt="Evaporation from the sea and transpiration from plants carry water vapour up; it condenses to cloud, falls as precipitation and drains to the sea." loading="lazy">
+  <figcaption>The water cycle moves water between sea, air and land.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
+
 ## Biodiversity and human impact (4.7.3)
 
 **Biodiversity** is the variety of all the different species of organisms on Earth, or within an ecosystem. High biodiversity makes ecosystems stable by reducing the dependence of one species on another for food, shelter and maintenance of the physical environment.
@@ -147,6 +195,12 @@ A growing human population and higher standard of living use more resources and 
 - recycling resources rather than dumping waste in landfill.
 
 Evaluation questions expect both sides: the benefit to biodiversity and the cost or conflict (money, land for food, jobs).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
+</figure>
+
 
 ## Trophic levels and biomass (4.7.4)
 
@@ -174,6 +228,12 @@ Efficiency (level 2 → 3) = 40 ÷ 450 × 100 = 8.9 % (2 s.f.)
 
 Because so little biomass passes up, less biomass is available at each higher level, so fewer organisms can be supported there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--05-biomass-pyramid-scale.webp" width="900" height="980" alt="Pyramid of biomass with bar widths to scale: producers 5000 g/m², primary consumers 450 and secondary consumers 40. Biomass passed on is 9.0 percent then 8.9 percent. Biomass is lost as faeces, as carbon dioxide and water in respiration, and as water and urea in urine." loading="lazy">
+  <figcaption>Only about 10 % of biomass passes up each level, so the bars shrink quickly.</figcaption>
+</figure>
+
+
 ## Food production (4.7.5)
 
 **Food security** means having enough food to feed a population. Threats: rising birth rate in some countries; changing diets in developed countries moving scarce food around the world; new pests and pathogens; environmental changes such as rains failing; the cost of agricultural inputs; conflicts affecting water or food.
@@ -183,6 +243,12 @@ Because so little biomass passes up, less biomass is available at each higher le
 **Sustainable fisheries.** Fish stocks are declining. **Control of net size** (larger mesh lets young fish escape to breed) and **fishing quotas** help keep stocks at a level where breeding continues.
 
 **Biotechnology.** The fungus *Fusarium* produces **mycoprotein**, a protein-rich food suitable for vegetarians; it is grown on glucose syrup in aerobic conditions and the biomass is harvested and purified. A genetically modified bacterium produces human insulin to treat diabetes. GM crops could give more food or food with better nutritional value, such as **golden rice**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--08-eco-mycoprotein.webp" width="900" height="1040" alt="Fusarium, glucose syrup and air go into a fermenter; the biomass is harvested and purified into mycoprotein." loading="lazy">
+  <figcaption>Mycoprotein is made by growing Fusarium aerobically on glucose syrup.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -76,6 +76,12 @@ Profit = 48,000 - 36,000 = 12,000
 Profit / revenue = 12,000 / 48,000 x 100 = 25%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--10-small-firm-tailor-profit.webp" width="900" height="870" alt="A waterfall chart: revenue of 96,000 less materials and wages of 61,000 and rent and other costs of 14,400 leaves profit of 20,600, which is 21.5% of revenue." loading="lazy">
+  <figcaption>The tailor earns a healthy 21.5% margin, although total profit is small.</figcaption>
+</figure>
+
+
 ## 3.5.3 Growth: internal and external
 
 | | Internal (organic) | External |
@@ -102,6 +108,17 @@ Share index = 1.10 / 1.20 = 0.9167
 A 20% share becomes 20 x 0.9167 = 18.3%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--03-market-share-growth.webp" width="900" height="960" alt="A market bar with the firm's sales shaded: 6.0 of 50 (12%) in year 1 and 8.4 of 56 (15%) in year 2. Sales grew 40% and the market 12%, so share rose 3 percentage points." loading="lazy">
+  <figcaption>Sales can grow faster than the market, raising market share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--12-internal-growth-market-share.webp" width="900" height="730" alt="A food firm sells 6.0 million in a 50 million market (12% share), then 8.4 million in a 56 million market (15% share). Firm sales rose 40% while the market rose 12%, so share rose by 3 percentage points." loading="lazy">
+  <figcaption>Share rises when sales grow faster than the market.</figcaption>
+</figure>
+
+
 ## 3.5.4 Mergers: three types
 
 | Type | What joins | Main gain | Main risk |
@@ -115,6 +132,12 @@ A 20% share becomes 20 x 0.9167 = 18.3%
 - **Illustrative examples:** two bus companies (horizontal); a clothing maker buying a cotton farm (backward vertical); a games developer buying a food firm (conglomerate).
 
 Worked reminder: Firm X holds 11% of a market and Firm Y holds 7%. After a horizontal merger the combined share is 11 + 7 = 18%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--02-merger-types.webp" width="900" height="1130" alt="Three panels. Horizontal: two bakeries join (18% + 14% = 32% share). Vertical: flour mill, bakery and cafe in a chain, with backward and forward integration; owning a mill cuts 50 tonnes of flour from 20,000 to 17,000. Conglomerate: bakery plus hotel in unrelated industries." loading="lazy">
+  <figcaption>The three merger types differ in which firms join.</figcaption>
+</figure>
+
 
 ## 3.5.5 Economies and diseconomies of scale
 
@@ -158,6 +181,27 @@ Average cost falls by (20 / 30 - 1) x 100 = -33.3%, so this firm has economies o
 Average cost falls to 26 (economies), stays at 26 between 300 and 400, then rises to 28 at 500 (diseconomies). The rise from 26 to 28 is (28 / 26 - 1) x 100 = 7.7%. The lowest-cost output is 300 to 400 units.
 
 **Internal or external?** Ask whether the saving comes from this firm getting bigger (internal) or from the industry around it growing (external).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--04-average-cost-table.webp" width="900" height="780" alt="Line graph of average cost from the lesson table: 50, 40, 35, 35, 38, 42 at 1,000 to 6,000 units. It falls to a lowest 35 between 3,000 and 4,000, then rises; 38 to 42 is +10.5%." loading="lazy">
+  <figcaption>Average cost falls, flattens at 35, then rises as output grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--13-average-cost-economies-diseconomies.webp" width="900" height="830" alt="Average cost against output from the lesson table: 50, 40, 35, 35, 38, 42 at 1,000 to 6,000 units. Cost falls to 35 (economies of scale), is lowest between 3,000 and 4,000 units, then rises (diseconomies), by 10.5% between 5,000 and 6,000." loading="lazy">
+  <figcaption>Average cost falls to 35 and then rises, showing economies then diseconomies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--14-merger-average-cost-saving.webp" width="900" height="860" alt="Bar widths are output and heights average cost, so areas are total cost. P makes 40,000 at 5.00 and Q 60,000 at 4.50, together 100,000 at 4.70 (total 470,000). After joint administration cuts costs by 40,000 the total is 430,000 and average cost 4.30, a fall of 0.40." loading="lazy">
+  <figcaption>Cutting 40,000 from combined costs lowers average cost from 4.70 to 4.30.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
 
 ## Evaluation chains
 
@@ -231,3 +275,9 @@ Use a chain of reasoning, then a judgement.
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge Assessment International Education, section 3.5 (Firms).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+

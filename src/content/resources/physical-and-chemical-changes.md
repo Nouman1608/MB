@@ -59,6 +59,12 @@ physical change:   ice → water            (same substance, H2O throughout)
 chemical change:   magnesium + oxygen → magnesium oxide   (new substance, MgO)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--01-same-or-new-particles.webp" width="900" height="1000" alt="Top: six water molecules in a neat grid (ice) become the same six molecules jumbled (liquid water), so only the arrangement changes. Bottom: four magnesium atoms and two O2 molecules become four MgO units, so new particles, a new substance, form." loading="lazy">
+  <figcaption>A physical change keeps the same particles; a chemical change makes new ones.</figcaption>
+</figure>
+
+
 ## Evidence — what actually counts
 
 This is the part examiners test directly: given a description of what
@@ -84,6 +90,17 @@ dispersed in the solvent — this is why it can be recovered by evaporation)
 - Most physical changes are easily reversed by physical means (cooling a
 liquid to re-freeze it, evaporating a solvent to recover a dissolved solid)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--02-chemical-evidence.webp" width="900" height="1070" alt="Four pictures show bubbles of gas, a solid appearing from two clear solutions, a permanent colour change, and a temperature rise with no flame. A fifth panel shows a beaker heated by a Bunsen flame and says this is not evidence because the heat comes from outside." loading="lazy">
+  <figcaption>Gas, a precipitate, a permanent colour change or a self-made temperature change point to a new substance; outside heating does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--03-dissolving-physical.webp" width="900" height="770" alt="Twelve salt pieces sit in water, then spread out when dissolved, then reappear as a solid when the water evaporates from a dish. The same twelve pieces appear each time, so no new substance forms." loading="lazy">
+  <figcaption>Dissolved salt is still salt and can be recovered by evaporation.</figcaption>
+</figure>
+
+
 ## The reversibility trap
 
 Reversibility is useful evidence but **not the definition** — don't rely on
@@ -103,6 +120,12 @@ The safest test is always: **has a new substance been formed?** If yes,
 it's chemical, however easily it reverses. If no — same substance, different
 form — it's physical, however hard it looks to undo.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--04-decide-and-reversibility.webp" width="900" height="1020" alt="A question asks whether a new substance has formed: no means physical (ice to water), yes means chemical (Mg to MgO). A grid shows physical and chemical changes can each be easy or hard to reverse, so the row (new substance or not) decides, not how easily it reverses." loading="lazy">
+  <figcaption>Ask whether a new substance formed; ease of reversing is only a clue.</figcaption>
+</figure>
+
+
 ## Worked examples
 
 | Change | Type | Why |
@@ -113,6 +136,12 @@ form — it's physical, however hard it looks to undo.
 | Rusting iron | Chemical | New substance (hydrated iron(III) oxide) forms slowly; different properties from iron |
 | Boiling water | Physical | Same substance, different state |
 | Adding acid to a carbonate (fizzing) | Chemical | Gas evolved (CO₂), new substances formed (salt + water + carbon dioxide) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--05-sort-six-changes.webp" width="900" height="810" alt="Melting ice, boiling water and dissolving salt are physical: the substance is still H2O or NaCl. Burning magnesium, rusting iron and acid with a carbonate are chemical: new MgO, iron oxide or carbon dioxide gas forms." loading="lazy">
+  <figcaption>Three physical and three chemical changes, each with the reason.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

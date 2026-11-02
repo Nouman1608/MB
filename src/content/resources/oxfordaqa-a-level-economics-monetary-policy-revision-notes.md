@@ -41,6 +41,12 @@ These notes condense specification section 3.2.4.1 (Monetary policy) of OxfordAQ
 - A flexible target tolerates temporary overshoots when the alternative is a large loss of output.
 - You do not need to explain how interest rates or exchange rates are determined. You need to explain what happens when they change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--12-inflation-target-band.webp" width="900" height="880" alt="Inflation is 3.9% in year 2 and 4.1% in year 3 against a target range of 1.5% to 3.5% around 2.5%. Both years are above the upper limit." loading="lazy">
+  <figcaption>Both years overshoot the 3.5% upper limit of the target range.</figcaption>
+</figure>
+
+
 ## Interest rate chain (rise)
 
 1. Policy rate up, so loan rates up and saving rewards up.
@@ -63,6 +69,37 @@ A cut reverses every step. Always finish the chain with the effect on the price 
 | Winners and losers | Savers gain from rises, borrowers gain from cuts |
 | Limit on cuts | Little room when rates are already very low |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--09-rate-rise-size-of-effect.webp" width="900" height="920" alt="Flow for Country A: rate +0.75 points on 20bn variable-rate debt gives 150m extra interest, 375 per household. AD falls 150m (consumption -105m, investment -45m). With multiplier 1.6 real GDP falls 240m, 0.6% of 40bn." loading="lazy">
+  <figcaption>Follows a 0.75 point rate rise from extra interest to a 0.6% fall in real GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--01-real-rate-output-gap.webp" width="900" height="1015" alt="A bar splits a 5.5% nominal rate into 4.1% inflation and about 1.4% real rate (exact 1.34%). A number line shows actual output 320 and potential 328, a gap of -2.4%. A negative gap means spare capacity so a cut is more likely." loading="lazy">
+  <figcaption>Real rate and output gap for Country A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Exchange rate effects
 
 | Change | AD | Inflation | Growth and jobs | Current account |
@@ -78,6 +115,22 @@ The central bank can also deal in the currency market. Selling its own currency 
 
 Rate falls, so export prices fall in foreign currency and import prices rise in home currency. Export volumes rise by the PED of exports times the price fall; import volumes fall by the PED of imports times the price rise. Net exports change, AD shifts, and the multiplier amplifies the final change in real GDP. Judge the result by elasticity, the time taken and the size of spare capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--10-depreciation-net-exports.webp" width="900" height="860" alt="Currency falls 0.90 to 0.72 B-units, minus 20%. Exports rise 25 to 31bn (PED -1.2); imports stay 22bn (PED -0.8); net exports rise 3 to 9bn. AD +6bn, times 1.6 is +9.6bn real GDP, 3.0% of 320bn." loading="lazy">
+  <figcaption>With elastic exports and inelastic imports a depreciation lifts net exports from 3bn to 9bn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--02-depreciation-objectives.webp" width="900" height="1020" alt="Five rows show growth rising, unemployment falling, inflation rising, the current account improving if elasticities are high, and living standards falling in the short run. Net exports rise from +3bn to +9bn." loading="lazy">
+  <figcaption>Likely effects of a depreciation on each objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+
 ## QE in five steps
 
 1. Central bank buys government bonds from banks and other holders.
@@ -87,6 +140,17 @@ Rate falls, so export prices fall in foreign currency and import prices rise in 
 5. AD shifts right.
 
 Evaluation: banks may hold reserves rather than lend; firms may not borrow if confidence is low; asset-price gains help the wealthy most; the bank must later manage its bond holdings; a larger money supply can feed inflation when spare capacity is small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--11-qe-bond-yield-money.webp" width="900" height="914" alt="Central bank buys 36bn of bonds. A bond paying 9 a year yields 4.5% at price 200 and 4.0% at 225. Money supply rises from 480bn to 516bn, +7.5%." loading="lazy">
+  <figcaption>QE raises bond prices, lowers yields and increases the money supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## Model evaluation sentence to adapt
 

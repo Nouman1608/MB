@@ -89,6 +89,12 @@ Related pages: [practice questions](/resources/edexcel-ial-economics-market-orie
 
 **Joint venture.** Pre-tax profit 100, tax 20%, local partner holds 51%. Profit after tax 80; local share 40.8. In the country: 20 + 40.8 = 60.8, or 60.8% of profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Market-orientated vs interventionist:** prices and private owners lead versus the state directs, protects or funds. Many real packages mix both.
@@ -98,6 +104,12 @@ Related pages: [practice questions](/resources/edexcel-ial-economics-market-orie
 - **Floating vs managed:** floating leaves the rate to markets; managed uses the central bank, reserves and interest rates to steer it.
 - **Privatisation vs deregulation:** privatisation changes ownership; deregulation removes rules or barriers to entry.
 - **Tariff vs subsidy as protection:** a tariff taxes imports and raises revenue; a subsidy to domestic producers costs the government money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--11-floating-rate-ml-jcurve.webp" width="900" height="1286" alt="The rate moves from 10 to 12 LCU per dollar: an export of 600 LCU falls from $60 to $50 and fuel of $80 rises from 800 to 960 LCU. Elasticities summing to 0.7 (short run) fail Marshall-Lerner and 1.3 (long run) pass, so the balance dips then improves (J-curve, schematic)." loading="lazy">
+  <figcaption>Depreciation helps the trade balance only when elasticities sum to more than 1.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 
@@ -136,6 +148,17 @@ Use these to turn description into judgement.
 9. 60.8%.
 10. Prices rise sharply for households that spend a large share of income on food; compensation schemes may be poorly targeted or slow; and smaller farms that relied on cheaper inputs may cut output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--15-tariff-cut-revenue.webp" width="900" height="920" alt="Cutting the tariff from 20% to 5% lowers the landed price from 240 to 210 and raises machines bought from 400 to 460. Tariff revenue falls from 16,000 to 4,600." loading="lazy">
+  <figcaption>A bigger quantity does not make up for the lower tariff, so revenue falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--14-microfinance-true-rate.webp" width="900" height="940" alt="A 300 loan repaid at 30 a month has flat interest of 20%, but the balance falls to about 29 by month 12, so the monthly rate is 2.92% and the effective annual rate about 41%." loading="lazy">
+  <figcaption>The effective rate is about double the flat rate because the debt shrinks.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Listing strategies without saying how each affects growth or development.
@@ -147,6 +170,18 @@ Use these to turn description into judgement.
 - Giving one-sided answers with no judgement about the country described.
 - Using a formula without showing the working, so a slip cannot be traced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--11-buffer-stock-band.webp" width="900" height="960" alt="Demand Qd = 1,000 − 5P with floor 72 and ceiling 88. In a bumper harvest the market price would be 62, so the authority buys 100 units for 7,200. In a poor harvest the price would be 98, so it sells 100 units for 8,800, a profit of 1,600 before storage." loading="lazy">
+  <figcaption>A buffer stock buys when price would fall below the floor and sells when it would rise above the ceiling.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics*, Specification, Issue 2, June 2018, published by Pearson Education Limited. Section 4.3.6, Growth and development in developing, emerging and developed economies, item 3, points a and b.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
+  <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+

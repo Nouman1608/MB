@@ -59,6 +59,12 @@ Every transaction has two sides. If a firm sells goods abroad (a current account
 
 This guide counts a net inflow of funds on the financial account as positive. Published tables sometimes use the opposite sign, so check the convention before reading any data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--01-bop-accounts-sum-to-zero.webp" width="900" height="1010" alt="A running-total waterfall: current account -47, capital +4, financial +40 (FDI +22, portfolio +31, other -13) and errors +3 return the total to zero." loading="lazy">
+  <figcaption>The current account deficit is matched by net inflows of funds, so all the accounts together sum to zero.</figcaption>
+</figure>
+
+
 ## 2. The current account and calculating balances
 
 The current account has four components.
@@ -91,6 +97,12 @@ Now complete the picture. The capital account balance is +4 and errors and omiss
 
 The lesson: Country M's current account deficit is matched by net inflows of funds. Foreigners are buying its assets or lending to it. Spending beyond its earnings is being financed from abroad. A country can also draw down its reserves of foreign currency to pay for a deficit, but reserves are limited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--02-bop-current-account-components.webp" width="900" height="880" alt="A waterfall builds the current account from goods -49, services +32, income -17 and transfers -13 to a deficit of 47, which is 3.1% of GDP; goods plus services is -17." loading="lazy">
+  <figcaption>Each component balance is credits minus debits, and all four are needed to reach the current account balance of -47.</figcaption>
+</figure>
+
+
 ## 3. What an imbalance is
 
 An **imbalance** on the balance of payments means a persistent current account deficit or surplus, rather than a position near zero. The two sides are symmetrical in accounting, since one country's surplus is other countries' deficit. In practice economists and policymakers worry more about deficits, because a deficit must be financed.
@@ -114,6 +126,12 @@ Why governments care:
 - **Limits on policy.** The government may feel forced to cut spending or raise interest rates to calm markets, even if the economy needs growth.
 
 A surplus is not free of cost either: it can mean low consumption relative to output and can provoke retaliation from trading partners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--06-bop-deficit-spiral.webp" width="900" height="1040" alt="A four-step loop (deficit, borrowing, liabilities of 400, 20 paid abroad) feeds back into the deficit. Bars show the deficit of 47 growing by 20 of extra income debits to 67." loading="lazy">
+  <figcaption>Borrowing to fund a deficit raises income paid abroad, which makes the deficit larger.</figcaption>
+</figure>
+
 
 ## 5. Causes of imbalances
 
@@ -140,6 +158,17 @@ Other causes:
 
 **Evaluation.** Which cause dominates? Ask how long it lasts, how large it is, and how responsive trade is to price. A fall in competitiveness is a lasting cause. A temporary boom is not. A deficit from a boom may close by itself when growth slows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--03-bop-yed-imports.webp" width="900" height="1160" alt="Paired bars show goods exports and imports before and after growth. Imports rise 4.0% and exports 2.4%, so the goods balance moves from -49 to -53.87." loading="lazy">
+  <figcaption>Imports with a high income elasticity and exports with a low one widen the deficit even when both economies grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## 6. Consequences of imbalances
 
 | | Persistent deficit | Persistent surplus |
@@ -151,6 +180,12 @@ Other causes:
 | Other countries | Partners gain demand | Partners face matching deficits and may use protection |
 
 **Evaluation.** Consequences depend on the size, the financing and the cause. A deficit financed by foreign direct investment that builds productive capacity may raise future exports. A large deficit financed by short-term borrowing is far riskier. Also consider who is affected: importers gain from a strong currency, exporters lose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--07-bop-consequences.webp" width="900" height="970" alt="Two columns compare a persistent deficit and surplus on five rows: debt and assets, currency, growth and jobs, policy pressure, and other countries, with up and down arrow icons." loading="lazy">
+  <figcaption>A deficit and a surplus have mirror-image effects on debt, currency, jobs, policy and partner countries.</figcaption>
+</figure>
+
 
 ## 7. Policies to correct imbalances
 
@@ -173,6 +208,17 @@ A 20 cu bn loss of output improves the current account by only 6 of a 47 deficit
 **Worked example 4.** Country M's hourly wage is 35 cu and output per hour is 25 units, so unit labour cost is 35 ÷ 25 = 1.40. After training, wages rise 4% and productivity 12%: 36.4 ÷ 28 = 1.30, a fall of **7.1%**. Exporters can cut prices or raise profit, and import substitutes become more attractive.
 
 **Evaluation.** Supply-side policies work slowly, so they suit structural deficits, and demand-side policies act sooner but cost growth. Policies also conflict with other objectives: cutting demand to fix the deficit worsens unemployment and growth. Depreciation can raise inflation. The best choice depends on the cause. A deficit from lost competitiveness needs supply-side action. One from a boom may need only patience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--04-bop-expenditure-reducing.webp" width="900" height="980" alt="A chain shows government spending down 14, income down 20 via the multiplier 1.43, and imports down only 6; a bar shows this closes 6 of the 47 deficit." loading="lazy">
+  <figcaption>Cutting demand costs 20 of output to improve the current account by only 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-balance-of-payments--05-bop-unit-labour-cost.webp" width="900" height="1070" alt="Two bars compare unit labour cost before training (35 / 25 = 1.40) and after (36.4 / 28 = 1.30), a fall of 7.1%." loading="lazy">
+  <figcaption>When productivity rises faster than wages, unit labour cost falls and exporters become more competitive.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -70,6 +70,17 @@ The rate falls every year (disinflation), but the index keeps rising, so there i
 
 Hyperinflation compounds. At 50% a month, a loaf costing 10 z becomes 10 × 1.5 = 15 z after one month, and after 12 months costs 10 × 1.5¹² = **1,297 z**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--09-hyperinflation-compounding.webp" width="900" height="920" alt="A loaf costing 10 z rises 50% a month: 15 z after one month, about 114 after six and 1,297 after twelve. The curve steepens because rises compound." loading="lazy">
+  <figcaption>At 50% a month a 10 z loaf costs 1,297 z after a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## 3. How the official UK measure is constructed
 
 The current official measure is the **Consumer Prices Index (CPI)**. It tracks what a typical household's **basket** of goods and services costs. The steps:
@@ -96,6 +107,22 @@ Worked example: building a weighted index (Country Z, base year = 100).
 
 Index = 11,262 ÷ 100 = **112.62**. Average prices are 12.62% above the base year. Transport rose most, but food and drink had almost as large an effect because its weight is larger. Clothing fell and pulled the index down. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--01-weighted-index-country-z.webp" width="900" height="981" alt="Six categories each add weight times index divided by 100 points. Transport adds 4.32 and food and drink 3.96 more than their base share, clothing subtracts 0.32. The total is 112.62, so prices are 12.62 percent above base." loading="lazy">
+  <figcaption>Each category pulls on the index by weight times index; together they give 112.62.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
+
 ## 4. Calculating the rate of inflation
 
 ```
@@ -113,6 +140,17 @@ An index of 133 does not mean 133% inflation. It means prices are 33% above the 
 
 **Rebasing.** An index with 2018 = 100 reads 136.8 in 2022 and 148.5 in 2024. To make 2022 the base, divide each value by 136.8 and multiply by 100: 148.5 ÷ 136.8 × 100 = **108.55**. Prices rose 8.55% from 2022 to 2024.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--02-inflation-rate-from-index.webp" width="900" height="1000" alt="Index 127.5, 133.0 and 139.4 with a base line at 100. 5.5 over 127.5 gives 4.3 percent, 6.4 over 133.0 gives 4.8 percent. Always divide by the old index; 133 means 33 percent above base." loading="lazy">
+  <figcaption>The inflation rate is the change divided by the old index, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--03-rebasing-an-index.webp" width="900" height="1130" alt="The same index drawn with 2018 = 100 (100, 136.8, 148.5) and rebased to 2022 = 100 (73.10, 100, 108.55). Divide by 136.8 and multiply by 100." loading="lazy">
+  <figcaption>Rebasing changes which year equals 100 but not the pattern.</figcaption>
+</figure>
+
+
 ## 5. Calculating real values
 
 A **nominal** (money) value is measured at the prices of the year it occurs. A **real** value is adjusted for price changes so that it can be compared across years.
@@ -128,6 +166,12 @@ Worked example. A worker earns 2,400 z a month in year A, when the index is 100.
 - Real change = (2,273 − 2,400) ÷ 2,400 × 100 = **−5.3%**.
 
 Pay rose 15% but prices rose 21.4%, so she can buy less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--10-real-pay.webp" width="900" height="940" alt="Pay rises from 2,400 z to 2,760 z (+15%) but prices rise 21.4%, so real pay in year A prices is 2,273 z, a fall of 5.3%." loading="lazy">
+  <figcaption>Nominal pay rose 15% but real pay fell 5.3%.</figcaption>
+</figure>
+
 
 ## 6. Evaluating CPI and RPI
 
@@ -152,6 +196,12 @@ A further index, CPIH, adds owner-occupier housing costs to the CPI approach.
 
 **Weaknesses of any index.** The basket is an average. A pensioner, a student and a commuter spend very differently, so personal inflation differs from the headline. Quality changes make comparisons hard. New products take time to enter, and shoppers switch to cheaper goods, which a fixed basket misses. Judgement: CPI suits policy and comparison; RPI or CPIH says more about housing-heavy budgets. State whose cost of living you are measuring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--04-cpi-rpi-comparison.webp" width="900" height="880" alt="Table: CPI uses a geometric mean, excludes almost all owner-occupier housing costs and council tax and covers a very wide set of households; RPI uses an arithmetic mean, includes housing costs and council tax and omits the top 4 percent and some pensioners. CPIH adds owner-occupier housing costs to CPI." loading="lazy">
+  <figcaption>CPI and RPI differ in averaging, housing costs, council tax and coverage.</figcaption>
+</figure>
+
+
 ## 7. Causes of inflation
 
 **Demand-pull inflation.** Aggregate demand (AD) rises faster than productive capacity. In the AD and AS diagram, the AD curve shifts right along short-run aggregate supply (SRAS). The price level rises from P1 to P2 and real output from Y1 to Y2. Nearer full capacity SRAS is steeper, so more of the rise goes to prices.
@@ -167,6 +217,12 @@ Worked example 2 (exchange rate). A firm imports a part priced at 45 foreign uni
 **Monetary and expectations causes.** If the money supply grows much faster than real output, spending outpaces goods and prices rise. If people expect higher inflation, workers demand higher pay and firms raise prices in advance (a wage-price spiral).
 
 **Evaluation.** The causes interact: a demand boom lets firms pass on costs and workers win pay rises. Judge how much spare capacity exists, how elastic SRAS is, whether the shock is one-off (a tax rise) or persistent, and whether expectations adjust.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--05-cost-push-exchange-and-ulc.webp" width="900" height="980" alt="A part priced at 45 foreign units costs 30 z at 1.50 and 37.5 z at 1.20, up 25 percent. Wages up 6 percent against output per worker up 2 percent raise unit labour cost 3.9 percent." loading="lazy">
+  <figcaption>A weaker currency and wages outpacing productivity both push costs up.</figcaption>
+</figure>
+
 
 ## 8. Consequences of inflation
 
@@ -186,6 +242,17 @@ Worked example 3 (fiscal drag). Income tax is 20% above a fixed 12,000 z thresho
 **Hyperinflation** destroys money's usefulness: people barter or use foreign currency, savings are wiped out and output falls.
 
 **Evaluation.** Effects depend on the rate, whether inflation is anticipated, whether wages and interest rates adjust, inflation abroad and the cause. Low, anticipated inflation has small costs; high, volatile, unanticipated inflation has large ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--11-debt-inflation-deflation.webp" width="900" height="1190" alt="A fixed debt of 150,000 z falls to 123,405 z in real terms after four years of 5% inflation, but rises to 164,352 z after three years of 3% deflation." loading="lazy">
+  <figcaption>Inflation erodes the real value of fixed debt; deflation increases it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--12-fiscal-drag.webp" width="900" height="910" alt="Tax of 20% above a fixed 12,000 z threshold. Pay of 20,000 z pays 1,600 z (8.0%); pay of 21,000 z (+5%, matching inflation) pays 1,800 z (8.6%) though real pay is unchanged." loading="lazy">
+  <figcaption>When pay only keeps pace with prices, a larger share goes in tax.</figcaption>
+</figure>
+
 
 ## 9. Causes and consequences of deflation
 

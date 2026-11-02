@@ -44,6 +44,17 @@ The specification does not give wording for these terms; the definitions below a
 - Purpose: gives direction, guides decisions, unites staff, signals values to customers, investors, suppliers and the community.
 - Place in the planning chain: mission, then aims and objectives, then strategy, then tactics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ### Recommend and justify a mission statement: method in steps
 
 1. Identify what the business does, who it serves and what makes it distinctive.
@@ -80,6 +91,22 @@ Judge the size of the change, how well it is communicated, the time period and w
 
 Brightwater Bakehouse has an annual operating profit of £150,000. A change of mission means a one-off cost of £25,000 for packaging, signs and staff briefing. That cost equals 25,000 ÷ 150,000 = 16.7% of one year's operating profit. The decision therefore depends on whether the new focus raises contribution by enough over several years to repay the cost. Say that, and name the stakeholders who will notice the change first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--05-hartwell-mission.webp" width="900" height="974" alt="A weak and a stronger statement with a checklist: names product, customer, values, rules decisions out. Neither is measurable." loading="lazy">
+  <figcaption>Why the stronger Hartwell statement earns marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--06-mission-balance.webp" width="900" height="920" alt="Five advantages and five disadvantages side by side; judge against the case." loading="lazy">
+  <figcaption>Weigh both sides of having a mission statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--07-mission-change-stakeholders.webp" width="900" height="990" alt="A new mission affects employees, customers, shareholders, suppliers and the community; weigh size, communication, time and power." loading="lazy">
+  <figcaption>How a change of mission reaches each stakeholder.</figcaption>
+</figure>
+
+
 ## 1.4 Corporate social responsibility (CSR)
 
 ### Meaning (explain)
@@ -99,6 +126,12 @@ Brightwater Bakehouse has an annual operating profit of £150,000. A change of m
 | Short-term targets | Payback is slow |
 
 Counterpoint: CSR may raise sales, loyalty and recruitment, reduce risk and cut costs. The conflict is usually sharper in the short run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ### Worked reminder: measuring the cost
 
@@ -122,6 +155,12 @@ Evaluation: can the bakery charge a little more, win a supply contract that valu
 
 Importance is greater where the business sells on trust or image, is highly visible, or is under media or regulatory scrutiny.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--08-csr-stakeholder-impact.webp" width="900" height="985" alt="Gains and costs of a CSR policy for employees, customers, shareholders, suppliers and the community." loading="lazy">
+  <figcaption>Who gains and who pays from CSR.</figcaption>
+</figure>
+
+
 ### CSR profile: advantages and disadvantages
 
 | Advantages | Disadvantages |
@@ -139,6 +178,12 @@ Importance is greater where the business sells on trust or image, is highly visi
 3. Consider cost, speed and visibility.
 4. Make claims verifiable (independent reporting).
 5. Justify by linking to the case: finances, customers, competitors, and the time period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--03-dunmore-csr-cost.webp" width="900" height="1010" alt="Profit falls from 140,000 to 80,000 pounds when variable cost rises 1.20 pounds per set. To restore it, sell 57,693 sets (15.4 percent more) or raise the price to 25.20 pounds (5.0 percent more)." loading="lazy">
+  <figcaption>CSR costs can be recovered by volume or price, if customers respond.</figcaption>
+</figure>
+
 
 ## Evaluation checklist for extended answers
 

@@ -79,6 +79,27 @@ Demerit good: consumption brings external cost and/or consumers overestimate ben
 | Private car use | Negative (congestion) | Not normally | Externality only |
 | Well-kept private garden | Positive (neighbours) | Not normally | Externality only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--07-merit-good-worked-example.webp" width="900" height="1030" alt="Perceived MPB 40 - 2Q, true private benefit 44 - 2Q, MSB 52 - 2Q and MC 10 + Q for health screening. Market output is 10, the optimum is 14. At 10 the 12 gap is an information gap of 4 plus external benefit 8. The welfare triangle is 24 thousand cu." loading="lazy">
+  <figcaption>Merit good output is too low by an information gap plus an external benefit; the triangle is 24.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--08-demerit-good-worked-example.webp" width="900" height="1030" alt="Perceived MPB 42 - 2Q, true private benefit 39 - 2Q, MSB 33 - 2Q and MC 6 + Q for a sweetened drink. Market output 12, optimum 9. At 12 the gap of 9 is information gap 3 plus harm to others 6. The deadweight loss triangle is 13.5 thousand cu." loading="lazy">
+  <figcaption>Demerit good output is too high; the triangle between MC and MSB is 13.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--03-externality-test.webp" width="900" height="890" alt="Three-question flow. If there is no external benefit or cost it is not this case; if the consumer would not be better or worse off choosing differently it is an externality case only (garden, car); yes to all three is a merit or demerit good (vaccination)." loading="lazy">
+  <figcaption>The three-question test separates merit and demerit goods from externality-only cases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
+</figure>
+
+
 ## Information failure
 
 Imperfect information causes consumers to misjudge benefits, so MPB differs from true private benefit. Asymmetric information gives the better-informed party an advantage and can cause adverse selection.
@@ -90,6 +111,12 @@ Imperfect information causes consumers to misjudge benefits, so MPB differs from
 
 Other effects: missing markets, agents with more knowledge than clients, and over- or under-provision of products whose quality is hard to judge. Responses to weigh in evaluation: reputation, branding, reviews, warranties, disclosure rules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--09-used-tractors-asymmetric-information.webp" width="900" height="960" alt="A price ladder: good tractor worth 8,000, good sellers need 6,500, buyers offer the 6,000 average, poor tractor worth 4,000, poor sellers need 3,000. 6,000 is below 6,500 so good tractors leave; lost gains are 50 x 1,500 = 75,000 cu." loading="lazy">
+  <figcaption>Buyers who cannot tell quality offer an average price, so good sellers leave.</figcaption>
+</figure>
+
+
 ## Monopoly and monopoly power
 
 Failure: output is restricted and price set above marginal cost, so allocative efficiency (P = MC) is lost. Possible productive inefficiency and X-inefficiency. Possible gains: economies of scale, funds for research (dynamic efficiency), and contestable pressure.
@@ -97,6 +124,17 @@ Failure: output is restricted and price set above marginal cost, so allocative e
 **Reminder (illustrative).** Demand P = 80 − 2Q, MC = 16 constant. Competitive: Q = 32, P = 16. Monopoly: MR = 80 − 4Q = 16, so Q = 16, P = 48. Profit = (48 − 16) × 16 = **512**. Deadweight loss = ½ × (32 − 16) × (48 − 16) = **256**.
 
 Evaluating monopoly: scale of cost savings, whether the market is contestable, whether it is regulated, how fast technology changes, and who benefits from profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--10-monopoly-worked-example.webp" width="900" height="920" alt="Demand P = 120 - 2Q, MR = 120 - 4Q and MC = 20. Competition gives Q 50 at P 20. The monopolist sets MR = MC at Q 25 and price 70, with consumer surplus 625, profit 1,250 and deadweight loss 625, together the 2,500 of competitive consumer surplus." loading="lazy">
+  <figcaption>Monopoly restricts output to 25 and raises price to 70, creating a deadweight loss of 625.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--04-scale-vs-fragmented.webp" width="900" height="980" alt="Demand P = 120 - 2Q. Monopoly with MC 20 sells 25 thousand at 70 (M); a fragmented industry with MC 80 sells 20 thousand at 80 (F). Monopoly is cheaper only if rivals' cost is above 70." loading="lazy">
+  <figcaption>Whether a monopoly beats competition on price depends on the cost saving from scale.</figcaption>
+</figure>
+
 
 ## Immobility of factors of production
 
@@ -106,6 +144,17 @@ Evaluating monopoly: scale of cost savings, whether the market is contestable, w
 - Unemployment rate = unemployed / labour force × 100. Example: labour force 8,000, unemployed 320 gives 4%; if 240 more are laid off, 560 / 8,000 = **7%**.
 
 **Reminder (illustrative).** 200 workers are retrained at 5,000 each, a cost of 1,000,000. Each then produces 25,000 a year, so output regained is 5,000,000 a year. Payback = 1,000,000 / 5,000,000 = 0.2 of a year, or 2.4 months.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--01-immobility-mismatch.webp" width="900" height="780" alt="Region A has 12,000 in its labour force; unemployment rises from 300 (2.5%) to 900 (7.5%) when a mill closes. The 600 ex-mill workers cannot fill the 400 vacancies in Region B because of a skills gap. Idle, they lose 18 million cu of output a year." loading="lazy">
+  <figcaption>Immobility leaves unemployed workers and vacancies side by side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections--02-retraining-payback.webp" width="900" height="810" alt="Of 600 idle workers 150 are retrained (cost 1.35m); 450 stay idle and 250 of 400 vacancies stay unfilled. The 150 regain 4.5m of output a year, so the cost is recovered in 0.3 of a year, about 3.6 months." loading="lazy">
+  <figcaption>Retraining 150 workers pays for itself in 3.6 months but leaves most of the gap open.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 

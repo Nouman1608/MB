@@ -60,6 +60,17 @@ Unit 1 outcome 1.1.7 (ICT in recording transactions, reconciliations and financi
 
 Link the use to **costing** where you can: labour cost from payroll feeds a product's direct labour cost; EPOS gives cost of sales per line; a spreadsheet cost card turns these into a unit cost and a price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--10-epos-stock.webp" width="900" height="910" alt="A chart of inner-tube stock: 64 at the start, then 55, 43, 36, 25 and 11 after each day’s scans. On Thursday stock of 25 falls below the reorder level of 30 so 80 are ordered; Saturday’s delivery gives 11 + 80 = 91." loading="lazy">
+  <figcaption>EPOS lowers stock with each scan and triggers an order at the reorder level.</figcaption>
+</figure>
+
+
 ## Method in steps: a spreadsheet what-if
 
 1. Put every assumption in its own input cell (price, cost per unit, percentage).
@@ -115,6 +126,12 @@ If the shelf count is lower, the difference is unscanned loss (theft, damage or 
 **Human aspects**
 - For: staff freed from routine work for analysis; less tedious work; information shared easily.
 - Against: training time; resistance to change; redundancies and lower morale; over-reliance on output; insiders with access may commit fraud.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--11-ict-payback.webp" width="900" height="976" alt="A cash position chart for a computer system costing 12,300 and saving a net 9,200 a year: minus 12,300, minus 3,100, 6,100 and 15,300 at the ends of years 0 to 3. It crosses zero after 1.34 years, a payback of about 1 year 4 months." loading="lazy">
+  <figcaption>The system pays for itself in about 1 year 4 months, if the savings are real.</figcaption>
+</figure>
+
 
 ## Method in steps: evaluating an ICT proposal
 

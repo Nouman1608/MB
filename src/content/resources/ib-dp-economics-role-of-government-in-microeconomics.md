@@ -52,6 +52,12 @@ The guide lists seven aims. Each one can be matched to a tool.
 
 Most real policies have more than one aim, and aims can conflict. A tax that raises revenue may also hurt low-income households.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+
 ## Price ceilings (maximum prices)
 
 A **price ceiling** is a legal maximum price. It only matters if it sits **under** the equilibrium price that the free market would reach. A ceiling above equilibrium changes nothing, because the market price never reaches it.
@@ -86,6 +92,17 @@ Only 30 thousand flats are offered, because that is all suppliers will offer at 
 
 **HL only: calculation.** Compare rents paid before and after: 120 × 60 = 7,200 cu before and 90 × 30 = 2,700 cu after. Landlord revenue falls by 4,500 cu. The welfare loss is a triangle with a base of the lost quantity (60 − 30 = 30) and a height of the gap between the demand price and the supply price at that quantity (180 − 90 = 90): ½ × 30 × 90 = 1,350 cu. This assumes the flats go to the renters who value them most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--06-gov-price-ceiling-tamora.webp" width="900" height="910" alt="Demand P = 240 - 2Q and supply P = 60 + Q meet at 60 and 120. A ceiling of 90 gives quantity supplied 30 and demanded 75, a shortage of 45. The HL welfare-loss triangle is 1,350 cu." loading="lazy">
+  <figcaption>A ceiling below equilibrium creates a shortage and a welfare-loss triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+
 ## Price floors (minimum prices)
 
 A **price floor** is a legal minimum price. It only matters if it is set **above** equilibrium.
@@ -107,6 +124,12 @@ If the government buys the surplus to keep the price at 75 cu, the cost is 45 ×
 - **Consumers** face a higher price and buy fewer tonnes.
 - **Taxpayers** pay for any purchases, and stored stock may be wasted or sold cheaply elsewhere.
 - **Resources** are drawn into a product that the market does not need at that price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--07-gov-price-floor-veldmark.webp" width="900" height="910" alt="Demand P = 120 - Q and supply P = 30 + 0.5Q meet at 60 and 60. A floor of 75 gives 45 demanded and 90 supplied, a surplus of 45. Buying the surplus costs 45 x 75 = 3,375 cu." loading="lazy">
+  <figcaption>A floor above equilibrium creates a surplus the government may have to buy.</figcaption>
+</figure>
+
 
 ## Indirect taxes
 
@@ -137,6 +160,22 @@ Consumers pay 80 instead of 70, a rise of 10. Producers keep 65 instead of 70, a
 
 **Stakeholders.** Consumers pay more, producers earn less and sell fewer candles, workers in the industry may lose hours, and the government gains revenue. The tax can also shift consumption away from a good the government wants people to buy less of.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--08-gov-tax-orlen-hl.webp" width="900" height="1096" alt="A 15 cu tax shifts supply up. Quantity falls 40 to 35, consumers pay 80 and producers keep 65. Consumers bear 350, producers 175 of the 525 revenue; the welfare loss is 37.5." loading="lazy">
+  <figcaption>The tax burden splits by curve slopes; revenue and welfare loss are areas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+
 ## Subsidies
 
 A **subsidy** is money the state pays to a producer (or consumer) so that a good costs less to supply or buy.
@@ -159,11 +198,28 @@ Price received by producers: 84 + 18 = 102
 
 A subsidy only improves welfare if the market was producing too little in the first place, as with a positive externality. Without that, it pushes output beyond the efficient level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--09-gov-subsidy-pellar-hl.webp" width="900" height="1096" alt="An 18 cu subsidy shifts supply down. Quantity rises 30 to 36, consumers pay 84 and producers receive 102. Consumers gain 216, producers 432, cost 648; the over-provision loss is 54." loading="lazy">
+  <figcaption>A subsidy cost is shared as consumer and producer gains, with a welfare loss if there was no market failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Other forms of intervention
 
 - **Direct provision of services.** The government supplies a service itself, such as a public clinic. This can help households that could not afford the service, but it is paid for by taxpayers.
 - **Command and control regulation and legislation.** The government sets rules, such as a legal limit or a ban, and enforces them with penalties. It gives certainty but needs monitoring.
 - **Consumer nudges (HL only).** A nudge changes how choices are presented without banning anything. A default option, such as automatic enrolment in a saving plan that people may leave, is an example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--02-gov-other-tools.webp" width="900" height="1040" alt="Three panels: command and control uses rules and penalties; direct provision means the government supplies a service like a public clinic paid for by taxpayers; a consumer nudge (HL only) changes the default without banning anything." loading="lazy">
+  <figcaption>Command and control, direct provision and HL nudges compared.</figcaption>
+</figure>
+
 
 ## Judging the consequences
 
@@ -174,6 +230,12 @@ The guide treats consequences for markets and stakeholders as an evaluation skil
 - **Unintended effects.** Black markets, falling quality, stockpiles and lost jobs.
 - **Who benefits.** Check whether the intended group gains or someone else does.
 - **Cost.** Subsidies and purchases need funding, and every cu spent has an opportunity cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--01-gov-ceiling-size.webp" width="900" height="870" alt="Three rent ceilings on the Tamora market (D: P=240-2Q, S: P=60+Q). Ceilings of 110, 90 and 70 give shortages of 15, 45 and 75 thousand flats. The lower the ceiling below equilibrium, the larger the shortage." loading="lazy">
+  <figcaption>A ceiling set further below equilibrium causes a larger shortage.</figcaption>
+</figure>
+
 
 ## Common errors
 

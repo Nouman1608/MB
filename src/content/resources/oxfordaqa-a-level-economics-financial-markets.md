@@ -54,6 +54,27 @@ Money does four jobs:
 
 Inflation weakens the store of value. Worked example (invented): a saver keeps 1,000 units in cash while prices rise 4% a year for 3 years. Real value = 1,000 / 1.04³ = **889.00** (to 2 d.p.), so about 11% of purchasing power has gone. A deposit paying a nominal 2.5% when inflation is 4% has a real return of 1.025 / 1.04 − 1 = **−1.44%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--06-bond-price-and-yield.webp" width="900" height="970" alt="Yield against bond price for face value 100 and coupon 6. Price 120 gives 5.0%, 100 gives 6.0%, 80 gives 7.5%. Prices and yields move in opposite directions." loading="lazy">
+  <figcaption>A bond that costs more yields less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--11-barter-versus-money.webp" width="900" height="870" alt="In barter, a farmer with wheat who wants shoes meets a cobbler who wants cloth, so there is no trade. With money the farmer sells wheat for coin, then buys shoes with it." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--12-inflation-erodes-cash.webp" width="900" height="950" alt="1,000 kept in cash while prices rise 4% a year is worth 961.54, 924.56 and 889.00 after one, two and three years, about 11% less. A 2.5% deposit with 4% inflation has a real return of -1.44%." loading="lazy">
+  <figcaption>Inflation weakens money as a store of value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+
 ## 2. Money, capital and foreign exchange markets
 
 - Money markets trade short-term funds and assets, with a life of up to about a year, such as interbank loans and short-dated government bills. They help banks, firms and governments manage day-to-day cash.
@@ -84,12 +105,24 @@ A spot deal is settled at once (in practice within a couple of days) at the spot
 
 Speculation can be stabilising or destabilising. Speculators who buy when they think a price is too low, and sell when too high, push prices back towards fundamental value. If they follow the trend instead, buying because the price is rising, they push it further from value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--07-forward-contract-hedging.webp" width="900" height="950" alt="The forward contract fixes the cost at 210,526 alphas. If the spot rate falls to 1.80 the unhedged cost is 222,222 and the contract saves 11,696. If it rises to 2.10 the unhedged cost is 190,476 and the contract costs 20,050 extra." loading="lazy">
+  <figcaption>Hedging trades possible gains for certainty.</figcaption>
+</figure>
+
+
 ## 4. What financial markets do
 
 - Saving: savers place funds with banks or buy assets and earn a return, so deferring spending is rewarded.
 - Lending: markets match savers with borrowers who have investment projects. Banks and bond markets do the matching, and spread the cost over many savers.
 - Exchange of goods and services: payment systems and currency markets let buyers and sellers who are far apart settle in money.
 - Insurance: risk is pooled. Worked example: 2,000 households each face a 0.4% yearly chance of a 15,000 loss. Expected loss per household = 0.004 × 15,000 = 60, so expected claims are 120,000. A premium of 75 raises 150,000, leaving 30,000 to cover costs and profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--13-insurance-pooling-moral-hazard.webp" width="900" height="990" alt="2,000 households each face a 0.4% chance of a 15,000 loss: 8 claims cost 120,000 against 150,000 of premiums, leaving 30,000. If the chance rises to 0.6% (moral hazard), 12 claims cost 180,000, 30,000 more than premiums." loading="lazy">
+  <figcaption>Pooling works when claims are predictable; moral hazard raises claims above premiums.</figcaption>
+</figure>
+
 
 ## 5. Debt and equity
 
@@ -101,6 +134,12 @@ Worked example. A firm with 400,000 shares needs 1,200,000. Option 1: an 8% bond
 - Shares: 200,000 / 520,000 = **0.38 per share** (to 2 d.p.).
 
 If profit falls to 80,000, the bond option leaves 80,000 − 96,000 = −16,000, because interest is owed regardless. Under the share option the owners just receive less (0.15 per share). Debt raises returns in good years and raises the risk of failure in bad ones. Equity costs the existing owners control and a share of profit, but it is safer for the firm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--08-debt-or-equity.webp" width="900" height="930" alt="Profit left per share with a bond or new shares. Good year (profit 200,000): 0.26 and 0.38. Bad year (profit 80,000): -0.04 with the bond (a 16,000 loss) and 0.15 with shares." loading="lazy">
+  <figcaption>Debt raises returns in good years and the risk of failure in bad years.</figcaption>
+</figure>
+
 
 ## 6. Commercial and investment banks
 
@@ -121,17 +160,40 @@ Worked example. A bank has assets of 1,000: cash reserves 120 and long-term loan
 
 Fear of failure can itself cause failure: a bank run is self-fulfilling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--09-bank-failure-balance-sheet.webp" width="900" height="1040" alt="Balance sheet: assets 1,000 (cash 120, loans 880), deposits 920, equity 80. If 15% of depositors withdraw the bank needs 138 but has 120 cash (illiquid, short by 18). If 10% of loans default the loss of 88 exceeds equity of 80 (insolvent)." loading="lazy">
+  <figcaption>Illiquid means short of cash now; insolvent means losses exceed equity.</figcaption>
+</figure>
+
+
 ## 8. Central banks
 
 A central bank typically prints the currency, holds accounts for the government and for the commercial banks, sets the policy interest rate, looks after the exchange rate and foreign reserves, and supervises banks. It is also the **lender of last resort**: it lends to a sound but illiquid bank to stop a run spreading.
 
 A required reserve ratio makes banks hold a fraction of deposits as reserves. The maximum credit multiplier = 1 / reserve ratio. With a 10% ratio, a new deposit of 100 can support deposits of 1,000. At 20% it supports only 500. A higher ratio makes banks safer against withdrawals but reduces lending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--14-reserve-ratio-credit-multiplier.webp" width="900" height="810" alt="A deposit of 100 is lent on round after round. At a 10% reserve ratio deposits reach at most 100 / 0.10 = 1,000; at 20% they reach 500. A higher ratio is safer but reduces lending." loading="lazy">
+  <figcaption>The maximum credit multiplier is 1 divided by the reserve ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## 9. Moral hazard, asymmetric information and bubbles
 
 - Asymmetric information: one party knows more. Borrowers know more about their risk than banks, and insurers know less about customers than customers do. This can cause bad lending and mispriced risk.
 - Moral hazard: a party takes more risk because someone else bears the cost. If banks expect rescue, they may lend recklessly. Insured people may take less care: in the insurance example, if the claim chance rises to 0.6%, claims are 180,000 against 150,000 of premiums.
 - Bubbles: asset prices rise far above fundamental value because buyers expect further rises. Herding behaviour (copying others) feeds the rise. Example: an index goes 100 → 160 → 250 (+60%, then +56.25%). A 45% fall brings it to 137.5, and it would then need an **81.82%** rise to get back to 250. Falls are damaging for borrowers who used the asset as security.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--10-asset-price-bubble.webp" width="900" height="940" alt="Index rises 100 to 160 to 250, falls 45% to 137.5, and would then need an 81.82% rise to return to 250." loading="lazy">
+  <figcaption>A fall needs a bigger percentage rise to recover.</figcaption>
+</figure>
+
 
 ## 10. Regulation, shadow banking and the real economy
 
@@ -142,6 +204,12 @@ Shadow banking means lending by non-bank institutions (for example some investme
 Systemic risk is the risk that one failure spreads through the whole system. Banks owe each other money and hold similar assets, so panic spreads. Real economy effects: credit dries up, firms cut investment, households cut spending. If investment falls by 40 and the marginal propensity to withdraw is 0.4, the multiplier is 1 / 0.4 = 2.5 and GDP falls by **100**.
 
 Evaluation: effects depend on how big and how connected the institution is, how quickly the authorities act, and how healthy the rest of the economy is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-financial-markets--15-systemic-risk-to-gdp.webp" width="900" height="940" alt="Banks, a shadow bank and an insurer owe each other money, so when an investment bank fails the trouble spreads. Credit dries up and investment falls by 40; with a multiplier of 1 / 0.4 = 2.5, GDP falls by 100." loading="lazy">
+  <figcaption>Systemic risk turns one failure into a fall in real GDP through the multiplier.</figcaption>
+</figure>
+
 
 ## Common errors
 

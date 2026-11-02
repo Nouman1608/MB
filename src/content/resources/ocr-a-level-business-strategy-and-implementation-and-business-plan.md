@@ -45,6 +45,17 @@ An **objective** is a target the business wants to reach. A **strategy** is the 
 
 Notice the direction. The objective says where, the strategy says which road, and the tactics say what happens this month. Tactics are easier to reverse and are usually decided lower in the business. Strategy is costly to reverse and involves senior managers and owners. If sales stall, the first question is whether the tactics failed or whether the strategy was wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--04-ostlewood-objective-strategy-tactics.webp" width="900" height="930" alt="Revenue bars show 420,000 pounds now and a 525,000 pound target, of which 157,500 pounds (30 percent) is online. Three stacked levels show objective, strategy and tactics with their Ostlewood content." loading="lazy">
+  <figcaption>The objective says where, the strategy says which road, and the tactics say what happens this month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+
 ## Why a business plans its implementation
 
 A good strategy can fail through poor execution. The specification asks you to explain why a business needs to plan its implementation strategy. The reasons are practical:
@@ -57,6 +68,12 @@ A good strategy can fail through poor execution. The specification asks you to e
 - **Risk.** Planning exposes what could go wrong, and a fallback can be prepared.
 
 Planning has a cost. It takes management time, and a rigid plan can delay a quick response to a competitor. In evaluation, say which of these weighs more for the business in the case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--05-implementation-sequence.webp" width="900" height="870" alt="A six-month chart for the Ostlewood online launch shows photography, website, launch stock, email campaign and free postage. The website must finish before the emails start, and a milestone marks the website going live." loading="lazy">
+  <figcaption>Planning sets the order, timing and checkpoints so a good strategy is not lost in poor execution.</figcaption>
+</figure>
+
 
 ## Evaluating a current or proposed strategy
 
@@ -75,6 +92,12 @@ payback = 60,000 / 22,000 = 2.73 years (about 2 years 9 months)
 ```
 
 The objective runs over three years, so the investment would only just be recovered inside the period, with little to spare. A fair judgement: the strategy fits the revenue objective and uses a skill the business already has (making and describing products), but the payback leaves little margin: if extra profit came in 15% below forecast, payback would stretch to about 3.2 years, beyond the three-year objective. A reasoned view might be to proceed in stages, spending the first £25,000 and checking sales before releasing the remainder. That judgement relies on the numbers in the case, which is what makes it evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--09-payback-vs-objective.webp" width="900" height="980" alt="Cumulative extra profit starts at minus 60,000 pounds. At 22,000 a year the line crosses zero at 2.73 years, inside the three-year objective; at 15 percent lower (18,700 a year) it crosses at about 3.2 years, outside it." loading="lazy">
+  <figcaption>A small shortfall in forecast profit pushes payback past the objective.</figcaption>
+</figure>
+
 
 ## Altering a strategy
 
@@ -101,6 +124,12 @@ A strategy shapes the whole business: what it sells, where, how it funds growth 
 | Local community | Jobs, activity | Traffic, noise, closure |
 
 Importance is about scale. A strategy matters more when it commits large sums, is hard to reverse, or affects the survival of the business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--06-stakeholder-gain-concern.webp" width="900" height="820" alt="Five stakeholder rows with a possible gain on the left and a possible concern on the right: owners, employees, customers, lenders and the local community." loading="lazy">
+  <figcaption>A strategy brings possible gains and concerns to each stakeholder group.</figcaption>
+</figure>
+
 
 ## The business plan
 
@@ -140,6 +169,17 @@ The bank will look at these numbers. A margin of safety of 20% is some protectio
 
 For stakeholders, the plan matters differently. Lenders and investors use it to decide whether to lend. Employees see the direction and the likely security of their jobs. Suppliers may judge whether to offer credit. Owners gain a guide and a measure of success.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+
 ## Plan-Do-Review and strategic review
 
 The **Plan-Do-Review cycle** is a repeating process. **Plan:** set objectives, targets and a budget. **Do:** carry out the plan. **Review:** compare actual results with the plan, find out why they differ and use the lessons to make the next plan better. Because it repeats, it builds learning.
@@ -156,6 +196,22 @@ The review asks why. If a competitor opened nearby, the plan's market assumption
 To **analyse** how the cycle improves performance, link each stage to a result: planning gives clear targets, doing is measured, reviewing finds causes, and acting on them closes the gap. It will not help if the review is skipped, if the data is poor, or if blame replaces learning.
 
 A **strategic review** is a wider, less frequent look at whether the strategy itself still suits the business and its environment. It asks whether the objectives, markets and resources still fit. Its importance is that it can prevent a business from continuing with a failing strategy. It also has costs: management time, unsettled staff and possible decisions that hurt some stakeholders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--10-plan-do-review.webp" width="900" height="1070" alt="A loop: Plan sells 55 bikes for profit 1,050; Do sells 41 for a loss of 210; Review finds revenue 3,360 below plan (adverse) and asks why. The result feeds the next plan." loading="lazy">
+  <figcaption>Review finds the cause of the gap and feeds the next plan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-strategy-and-implementation-and-business-plan--07-review-loops-alter-strategy.webp" width="900" height="1058" alt="A small Plan-Do-Review loop sits inside a larger dashed ring for strategic review. If the strategy still fits, carry on; if not, alter it, which costs retraining and spent money, unsettles stakeholders and can look weak if repeated." loading="lazy">
+  <figcaption>The inner loop checks results often; the outer loop asks less often whether the strategy itself is right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
 
 ## Common errors
 

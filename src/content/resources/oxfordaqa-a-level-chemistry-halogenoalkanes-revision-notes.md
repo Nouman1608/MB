@@ -75,6 +75,12 @@ RX + CN⁻   → RCN + X⁻          (nitrile)
 RX + 2NH₃  → RNH₂ + NH₄X       (primary amine)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+</figure>
+
+
 ## Method in steps: substitution mechanism
 
 1. Draw the carbon bonded to X with δ+, and X with δ−.
@@ -87,6 +93,22 @@ RX + 2NH₃  → RNH₂ + NH₄X       (primary amine)
    Products: R–NH₂ and NH₄⁺.
 
 Arrow count: OH⁻ and CN⁻ need **2**; NH₃ needs **4** (2 per stage).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--03-ammonia-mechanism.webp" width="900" height="910" alt="Step 1: the N lone pair attacks C and the C-Br pair moves to Br, giving CH3CH2NH3+ and Br-. Step 2: a second NH3 takes H+, giving ethylamine and NH4+." loading="lazy">
+  <figcaption>Ammonia acts twice, first as a nucleophile and then as a base, giving ethylamine and NH4+ (AQA, Edexcel, OxfordAQA; OCR teaches it later).</figcaption>
+</figure>
+
 
 ## Method in steps: elimination mechanism
 

@@ -60,6 +60,22 @@ Tessaro Tiles makes 15,000 tiles at a total cost of 90,000 and 30,000 tiles at a
 
 The fall of 25.0% shows economies of scale, probably because the kiln and rent are spread over more tiles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--03-loomfield-average-cost.webp" width="900" height="852" alt="Average cost per loaf at 20,000 to 100,000 loaves is 3.60, 2.40, 2.00, 2.175 and 2.35 dollars. It falls to 60,000 loaves (economies of scale) then rises (diseconomies) as fixed costs jump to 78,000 and variable cost rises to 1.35." loading="lazy">
+  <figcaption>Average cost falls then rises, and each change has a cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--03-economies-internal-external.webp" width="900" height="1012" alt="Six tiles show internal economies: purchasing, technical, financial, marketing, managerial and risk-bearing. Five firms in one area share skilled labour, suppliers and a freight terminal, which are external economies. The test is whether the saving would vanish if one firm or the whole area shrank." loading="lazy">
+  <figcaption>Internal economies come from the firm growing; external ones from the whole area growing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
+
 ## 1.5 Internal growth versus external growth
 
 | | Internal (organic) | External (inorganic) |
@@ -70,6 +86,22 @@ The fall of 25.0% shows economies of scale, probably because the kiln and rent a
 | Culture | Preserved | Two cultures to join |
 
 **Ansoff Matrix** (a suggested tool for Unit 1): market penetration, product development, market development, diversification. The further a firm moves from its current products and markets, the higher the risk, and the more likely it is to seek a partner.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
 
 ## 1.5 Reasons to grow, reasons to stay small
 
@@ -87,6 +119,12 @@ The fall of 25.0% shows economies of scale, probably because the kiln and rent a
 ### Short model of an AO3 paragraph
 
 Claim: a niche leather workshop may be wise to stay small. Evidence: its prices are high because each bag is made by hand, and customers pay for that. Analysis: expansion would force machine production, so the selling point would weaken, and a second site could add coordination costs. Counterpoint: a larger output would lower average cost and raise income. Judgement: staying small is the better choice while the brand depends on craft, but this changes if demand outgrows capacity for a sustained period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--05-grow-or-stay-small.webp" width="900" height="940" alt="Owners may grow a business for more profit, a bigger market share and a better chance of surviving competition. Others stay small to keep personal control, because the market is small or niche, or because the extra risk and complexity are not worth it." loading="lazy">
+  <figcaption>Owners choose to grow for profit, share and survival, or stay small for control, a niche market or less risk.</figcaption>
+</figure>
+
 
 ## 1.5 External growth methods at a glance
 
@@ -119,6 +157,27 @@ Dorrowmere Scoops, a franchisor, has four outlets with annual sales of 250,000 e
 
 A joint venture earns 2.5m profit and is owned 60% by one partner and 40% by the other: 2.5 x 0.6 = 1.5m and 2.5 x 0.4 = 1.0m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--04-new-company-or-not.webp" width="900" height="944" alt="Merger: A and B become one new firm. Acquisition: A buys control and B stays. Joint venture: A and B create a new firm C. Strategic alliance: A and B cooperate with no new firm. A strip contrasts friendly takeovers, agreed by the board, with hostile ones that go to shareholders." loading="lazy">
+  <figcaption>Only mergers and joint ventures create a new company; alliances do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--05-oskarra-acquisition-vs-organic.webp" width="900" height="994" alt="Oskarra sales of 8.4 million plus Pelmont 3.6 million make 12.0 million, 42.9 percent more, and share rises to 20 percent. Organic growth at 6 percent takes 6.1 years; cost savings of 0.5 million repay the 5.2 million price in 10.4 years." loading="lazy">
+  <figcaption>Acquiring Pelmont buys about six years of growth but takes 10.4 years to pay back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--06-marnevale-franchise.webp" width="900" height="946" alt="Eight shops each pay 17,500 royalty, so Marnevale earns 140,000 a year. One franchisee makes gross profit 168,000, pays 17,500 royalty and 120,000 other costs, leaving 30,500, a 30.5 percent return on 100,000." loading="lazy">
+  <figcaption>The franchisor earns steady royalty income while the franchisee still earns a decent return.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+
 ## 1.6 Impact of MNCs on host countries
 
 An **MNC** has operations in more than one country; the **host country** is where it sets up. Every answer needs both sides and a verdict.
@@ -143,6 +202,12 @@ A mining MNC in a host country makes 18m profit (in $). Tax at 30% takes 5.4m, l
 3. Quantify when the case allows.
 4. Weigh short term against long term.
 5. Judge using a criterion such as long-term benefit to the host economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--04-mnc-host-country-money.webp" width="900" height="880" alt="Two columns in millions of dollars. Staying in Sandrovia: wages 4.32, tax 3.0, local inputs 5.5, reinvested profit 2.7, total 15.52. Leaving: 6.3, which is 70 percent of the 9.0 after-tax profit." loading="lazy">
+  <figcaption>Wages, tax and local purchases stay in the host country while repatriated profit leaves.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

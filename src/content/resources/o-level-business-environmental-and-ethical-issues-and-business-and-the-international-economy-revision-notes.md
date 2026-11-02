@@ -53,11 +53,23 @@ Other links: [Cambridge O Level Business hub](/boards/cambridge/o-level/business
 - Harm: global warming from burning fossil fuels, air and water pollution, noise, waste, loss of habitats, use of non-renewable resources.
 - Help: renewable energy, recycling, less packaging, longer-lasting products, local sourcing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+
 ### Externalities: spot the difference
 
 - The test: who pays or gains? If it is someone outside the business and its customers, it is external.
 - A factory's higher wage bill is private. A river polluted by the factory is an external cost.
 - Do not credit the business with its own sales or profit as an external benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--04-externalities.webp" width="900" height="990" alt="A factory points to two panels. External costs: noise and congestion for residents, warm water that harms river life. External benefits: 90 jobs and a new road. A box says wages, materials and own sales are private, not external." loading="lazy">
+  <figcaption>External costs and benefits fall on people outside the transaction, unlike the firm's own costs.</figcaption>
+</figure>
+
 
 ### Sustainable development: ways a business can contribute
 
@@ -66,6 +78,12 @@ Other links: [Cambridge O Level Business hub](/boards/cambridge/o-level/business
 3. Use resources from managed sources.
 4. Design products to be repaired, not thrown away.
 5. Reduce transport distances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--04-sustainable-development.webp" width="900" height="780" alt="A balance of needs today against future needs, with six business actions: renewable energy, cut waste, recycle, managed resources, products that last and shorter transport." loading="lazy">
+  <figcaption>Sustainable development means both present and future needs are met.</figcaption>
+</figure>
+
 
 ### Responding to pressure and opportunity
 
@@ -78,11 +96,28 @@ Other links: [Cambridge O Level Business hub](/boards/cambridge/o-level/business
 
 Pressure group methods: publicity, petitions, protests, calls for boycotts, lobbying government.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--05-pressure-groups.webp" width="900" height="1144" alt="Flow from pressure group methods to bad publicity, falling sales and a business response, with reasons for and costs of responding." loading="lazy">
+  <figcaption>How pressure groups push firms to respond, and what responding costs.</figcaption>
+</figure>
+
+
 ### Legal controls
 
 - Purpose: stop harm and set the same minimum standard for all.
 - Business effect: higher costs, but fewer fines and a better reputation.
 - Keep descriptions general. Say "a pollution control" and explain what it does; do not make up the name of a law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--06-filter-or-fine.webp" width="900" height="770" alt="Two to-scale bars: filter Rs 180,000 against fine Rs 250,000, Rs 70,000 more, plus unpriced damage to its name." loading="lazy">
+  <figcaption>Fitting the filter is Rs 70,000 cheaper than the fine, before reputation damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
 
 ### Profit versus ethics
 
@@ -93,6 +128,17 @@ Pressure group methods: publicity, petitions, protests, calls for boycotts, lobb
 | Honest information | Overstate product claims | Tell the truth, accept lower short-term sales |
 
 Judgement tip: an ethical choice often costs money now but can protect the brand, supply and customer trust.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--05-fair-price.webp" width="900" height="1060" alt="Three bars of profit: 1,800,000 now, 900,000 if growers get a fair price of 345 per kg, and 1,500,000 if the firm also raises its price by 5 percent." loading="lazy">
+  <figcaption>Paying a fair price cuts profit, which is the profit-versus-ethics conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## 6.3.1 Globalisation
 
@@ -111,6 +157,17 @@ Judgement tip: an ethical choice often costs money now but can protect the brand
 
 Price with a percentage tariff = import price × (1 + tariff rate). Example: a 25% tariff on a Rs 800 item gives 800 × 1.25 = Rs 1,000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--06-tariff-quota.webp" width="900" height="1050" alt="Bars show local cloth at 560, imports at 500, and imports at 600 after a 20 percent tariff adds 100. A gate picture shows a quota as a hard limit on quantity, with box numbers illustrative." loading="lazy">
+  <figcaption>A tariff raises the price of imports; a quota limits their quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--07-globalisation-map.webp" width="900" height="926" alt="Four causes lead into one world market; below are four opportunities and four threats for a business." loading="lazy">
+  <figcaption>Why globalisation happens and its opportunities and threats.</figcaption>
+</figure>
+
+
 ## 6.3.2 Multinationals
 
 - Why they grow: new markets, lower costs, avoid tariffs by producing locally, spread risk, economies of scale.
@@ -128,6 +185,12 @@ Method in steps for a host-country question:
 2. Link it to the case study.
 3. Say who is affected.
 4. For evaluate, say which effect is larger and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--07-mnc-profit-jobs.webp" width="900" height="850" alt="A bar splits 8,000,000 profit into 6,000,000 repatriated (75 percent) and 2,000,000 kept. A second bar splits 420 jobs into 300 local (71 percent) and 120 incoming." loading="lazy">
+  <figcaption>A host country gains jobs and exports but loses much of the profit.</figcaption>
+</figure>
+
 
 ## 6.3.3 Exchange rates
 

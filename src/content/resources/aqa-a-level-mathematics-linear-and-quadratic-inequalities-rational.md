@@ -90,6 +90,17 @@ Subtract 3 from every part, then divide every part by −2 and reverse both sign
 
 Read it back in order: **−3 ≤ x < 4**. Check x = 0: 3 − 0 = 3, which lies between −5 and 9.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--04-line-meets-curve.webp" width="900" height="940" alt="Parabola y = x^2 with three parallel lines of gradient 2. Substituting gives discriminants 16, 0 and -8: two intersections, a tangent at (1, 1), and no intersection." loading="lazy">
+  <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--06-inequality-region.webp" width="900" height="990" alt="Solid parabola y = x^2 - 4x and dotted line y = x + 6 meet at (-1, 5) and (6, 12). The region R between them is shaded; the test point (1, 0) satisfies both inequalities. Solid means included, dotted means excluded." loading="lazy">
+  <figcaption>Solid boundaries include their values, dotted ones do not; test a point to choose the side to shade. (Edexcel IAL / AQA content.)</figcaption>
+</figure>
+
+
 ## 3. Quadratic inequalities
 
 Solve a quadratic inequality with a sketch, not by guessing from the roots.
@@ -133,6 +144,22 @@ The expression does not factorise. Use the formula: x = (6 ± √(36 − 16))/2 
 | x² − 6x + 9 > 0 | the curve touches the axis at x = 3 and is above it elsewhere | x ≠ 3 |
 | x² + 2x + 5 > 0 | discriminant 4 − 20 = −16 < 0, so the curve never reaches the axis | all real x |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--01-completing-the-square.webp" width="900" height="910" alt="Graph of y = -2x^2 + 8x + 3 rewritten as -2(x - 2)^2 + 11. The vertex (2, 11) is the maximum because a is negative, the line of symmetry is x = 2, the y-intercept is 3 and the roots are about -0.35 and 4.35." loading="lazy">
+  <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
+  <figcaption>Sketch the curve: above the axis gives an &quot;or&quot; answer outside the roots, below gives an &quot;and&quot; answer between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+
+
 ## 4. Brackets, rearranging and reading a graph
 
 When both sides are products or expressions, expand and collect everything on one side before you factorise. Do not set a product equal to a number and then read off factors: (x − 2)(x + 5) < 2x + 2 is not solved by comparing each bracket with 2x + 2.
@@ -160,6 +187,12 @@ x(x − 2) = 0      x = 0 or x = 2
 ```
 
 The curve is a ∪-shape cutting the line at x = 0 and x = 2, so it is below the line between those points: **0 < x < 2**. The same working shows that the curve is above the line when x < 0 or x > 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--05-curve-below-line.webp" width="900" height="880" alt="The curve y = x^2 - 4x + 3 and line y = 3 - 2x meet at x = 0 and x = 2. The curve is below the line between them, so 0 &lt; x &lt; 2." loading="lazy">
+  <figcaption>f(x) &lt; g(x) means the first graph lies below the second; find the intersections first.</figcaption>
+</figure>
+
 
 ## 5. Inequalities with algebraic fractions
 
@@ -195,6 +228,12 @@ Multiply by (x + 1)²(x − 2)², which is positive.
 Sketch the cubic with positive x³ coefficient: it crosses the axis at −1, 2 and 11, starting below on the left. It is above or on the axis between −1 and 2, and to the right of 11.
 
 **Solution: −1 < x < 2 or x ≥ 11.** The value 11 is included because both sides equal 1/3 there; −1 and 2 are excluded because the fractions are undefined.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--07-fraction-inequality.webp" width="900" height="940" alt="Graph of y = 5/(x - 2) with asymptote x = 2 and the line y = 3. The curve is above the line only for 2 &lt; x &lt; 11/3. Multiplying by x - 2 is unsafe because its sign changes at x = 2." loading="lazy">
+  <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
+</figure>
+
 
 ## 6. Regions: one inequality in two variables
 

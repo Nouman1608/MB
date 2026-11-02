@@ -62,6 +62,17 @@ Here is one situation that shows all three. Take iron filings and sulfur powder.
 
 Air is a good test of whether you have understood. It contains nitrogen and oxygen molecules, but they are not bonded to each other, and the proportions can change slightly from place to place. So air is a mixture, even though nitrogen and oxygen are each elements. Carbon dioxide in the same air is a compound, because its carbon and oxygen atoms are bonded in the ratio 1 to 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--04-iron-sulfur-mixture-compound.webp" width="900" height="940" alt="A mixture of iron and sulfur atoms, not bonded and in any ratio, has its iron pulled out by a magnet. After strong heating the atoms form iron(II) sulfide, FeS, each iron bonded to one sulfur in a fixed 1 to 1 ratio, and the magnet lifts nothing." loading="lazy">
+  <figcaption>A magnet separates iron from a mixture with sulfur, but not from the compound iron(II) sulfide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+
+
 ## 2.2 Atomic structure and the Periodic Table
 
 ### The nuclear atom
@@ -75,6 +86,17 @@ At the centre of an atom is a tiny **nucleus** built from **protons** and **neut
 | Electron | -1 | negligible |
 
 The syllabus asks you to state these values, so learn the table exactly. The charges on a proton and an electron are equal in size and opposite in sign. So an atom containing the same number of each carries no net charge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--09-atom-to-ion-charge.webp" width="900" height="880" alt="Rows of positive protons and negative electrons for Be, Na+ and O2-. Be is balanced; Na+ has one unpaired proton (net +1); O2- has two unpaired electrons (net -2)." loading="lazy">
+  <figcaption>Ions form when electrons are lost or gained, not protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
 
 ### Proton number and mass number
 
@@ -94,6 +116,17 @@ When an atom becomes an ion, its nucleus stays the same and only the electron co
 | oxide ion O²⁻, mass number 16, proton number 8 | 8 | 16 - 8 = 8 | 8 + 2 = 10 |
 
 Check the charge each time: the sodium ion has 11 positive charges and 10 negative ones, a net +1. The oxide ion has 8 positive and 10 negative, a net -2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
 
 ### Electronic configuration, proton numbers 1 to 20
 
@@ -123,6 +156,17 @@ The configuration is **2,8,5**.
 
 Two different ions end up with the same arrangement as the noble gas argon (proton number 18, configuration 2,8,8). Their proton numbers differ, so they are still different particles. Always fill in the shells for the actual number of electrons the particle has, not the proton number of the element.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--05-ions-same-as-argon.webp" width="900" height="720" alt="Calcium ion Ca2+ (20 protons), sulfide ion S2- (16 protons) and argon atom (18 protons) are drawn with the same 18 electrons in shells 2,8,8. Different proton numbers make them different particles, and Group VIII rules apply to atoms only." loading="lazy">
+  <figcaption>Ca2+, S2- and Ar all have 2,8,8 but are different particles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--10-phosphorus-2-8-5.webp" width="900" height="760" alt="Phosphorus has 15 electrons filling shells 2, 8, 5. Five outer electrons give Group V and three shells give Period 3." loading="lazy">
+  <figcaption>Filling shells for phosphorus gives 2,8,5.</figcaption>
+</figure>
+
+
 ### Linking configuration to the Periodic Table
 
 Three facts link configuration to position.
@@ -140,6 +184,12 @@ Three facts link configuration to position.
 | Calcium | 2,8,8,2 | II | 4 |
 
 These rules apply to atoms, not ions. The Ca²⁺ ion has configuration 2,8,8 but it is not in Group VIII. A common slip is to read the group of an ion from its charged configuration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
 
 ## 2.3 Isotopes
 
@@ -167,6 +217,12 @@ The syllabus asks you to interpret and use symbols such as the one for carbon-12
 Read a symbol in this order: bottom number gives protons, top minus bottom gives neutrons, then the charge tells you how far the electron count moves from the proton count.
 
 To write a symbol from a description, check you have the numbers the right way round. "An atom with 8 protons and 10 neutrons" has proton number 8 and mass number 8 + 10 = 18, so the symbol is ¹⁸₈O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--08-ion-symbol-reading.webp" width="900" height="830" alt="Fluoride 19/9 F minus: 9 protons, 10 neutrons, 10 electrons. Magnesium 24/12 Mg 2 plus: 12 protons, 12 neutrons, 10 electrons." loading="lazy">
+  <figcaption>Read the bottom number, then top minus bottom, then the charge.</figcaption>
+</figure>
+
 
 ### Calculating relative atomic mass from isotopes
 
@@ -202,6 +258,17 @@ Ar = (28 x 92.0 + 29 x 5.0 + 30 x 3.0) / 100
 Ar = **28.1** (to one decimal place). Always check the abundances add to 100 before you start. If a question gives one abundance missing, subtract from 100 first.
 
 **Quick sense check.** Ar must lie between the lightest and heaviest isotope masses, and it moves towards the more abundant one. If your answer is outside that range, you have divided or weighted incorrectly. A simple average of the masses is only right when the abundances are equal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-chemistry-elements-compounds-and-mixtures-atomic-structure--07-ar-boron-and-z.webp" width="900" height="1005" alt="Bar charts of isotope abundance for boron (10 and 11, 19.9% and 80.1%) and element Z (28, 29, 30 at 92.0, 5.0 and 3.0%). A triangle marks Ar = 10.8 for boron and 28.1 for Z." loading="lazy">
+  <figcaption>Ar is the weighted balance point of isotope masses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
 
 ## Common errors
 

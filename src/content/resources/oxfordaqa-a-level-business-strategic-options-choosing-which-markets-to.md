@@ -59,6 +59,12 @@ The specification lists four features. Learn them as a set, because questions of
 
 A **tactical decision** is the opposite on each count: easy to reverse, lower risk, small resources, often repeated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ## 3. How SWOT analysis influences the choice of strategy
 
 **SWOT** sorts the internal position (strengths and weaknesses) and the external environment (opportunities and threats). For strategic choice, the useful step is to **match** them: a sensible strategy uses strengths to take opportunities, and avoids options that expose weaknesses to threats. Section 3.4.1 expects you to calculate and interpret the SWOT data set out in 3.3.1 (financial ratios, marketing, operations and HR data) as part of this.
@@ -161,6 +167,12 @@ Increase needed       = (2.94 − 2.1) ÷ 2.1 × 100 = 40%
 ```
 
 A 40% revenue rise in one year from a loyalty card in the same city is ambitious. The analysis suggests combining penetration with product development, which uses the existing customer base and adds a new revenue stream. Diversification into cafés uses few of Orrisdale's skills and carries the most risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
 
 ## 6. Implications for the functional areas
 

@@ -29,6 +29,12 @@ These notes condense the topic **Trends in macroeconomic indicators** from Compo
 | Explain the key trends in UK macroeconomic performance in the last 20 years | Describe how growth, unemployment, inflation (and the external position) have moved, and why |
 | Evaluate the current performance of the UK economy compared with other developed, emerging and developing economies | Compare like with like, then judge |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## Key definitions
 
 | Term | Meaning |
@@ -72,6 +78,12 @@ Real GDP in Country Z is 200 in year 1, 214 in year 2 and 207 in year 3.
 - Year 3 growth = (207 - 214) / 214 = **-3.27%**.
 - Over both years real GDP is 3.5% higher than at the start, even though the last year was a contraction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--02-p-lost-output-gap.webp" width="900" height="1050" alt="The pre-recession trend of about 2.6 percent a year would have taken Country P real GDP to about 133 by year 12. Actual output is 113.4, so a shaded gap shows a lasting loss of output." loading="lazy">
+  <figcaption>A recession can leave output permanently below its old growth path.</figcaption>
+</figure>
+
+
 ### Worked reminder: inflation and real wages
 
 The price index rises from 160 to 168, so inflation = 8 / 160 = **5.0%**. Nominal wages rise by 2.0%. Real wages change by 1.02 / 1.05 - 1 = **-2.86%**, a clear fall in real purchasing power.
@@ -83,6 +95,12 @@ Unemployment in Country Z is 1.2 million of a labour force of 24.0 million: **5.
 ### Worked reminder: compound average growth
 
 Real GDP index rises from 100 to 121.6 over 8 years. Average annual growth = (1.216 to the power of 1/8) - 1 = **2.47%** a year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--01-p-peak-trough-recovery.webp" width="900" height="1050" alt="Country P real GDP index rises to a peak of 108.1 in year 4 and falls to a trough of 100.4 in year 6, a fall of 7.1 percent. Growth returns in year 7 but output stays below the old peak, shown by a shaded area, until year 10 when it reaches 108.8." loading="lazy">
+  <figcaption>Growth has returned only when output rises; recovery means regaining the old peak.</figcaption>
+</figure>
+
 
 ### Worked reminder: per head
 
@@ -118,6 +136,12 @@ Questions to ask whenever you compare:
 4. Is the data one year or an average?
 5. What does the indicator leave out, such as distribution, quality of jobs or the environment?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--04-p-q-r-output-vs-per-head.webp" width="900" height="1060" alt="For invented economies P, Q and R, real output rises 13.4, 141.3 and 37.6 percent, but income per head rises 7.3, 125.9 and 6.0 percent. R population growth of 2.4 percent a year absorbs most of its output gain." loading="lazy">
+  <figcaption>Income per head shows living standards better than total output.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Level versus rate.** A falling unemployment rate can still mean unemployment is above its old level.
@@ -152,6 +176,17 @@ Questions to ask whenever you compare:
 8. Any two of: a persistent current account deficit, weaker productivity growth after 2008 to 2009, an inflation surge after 2021, large budget deficits after 2008 to 2009 and 2020.
 9. 36 / 1,200 x 100 = **3.0%** of GDP.
 10. Firms rehire cautiously, some job losses are structural, and workers may need retraining or to move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--03-p-three-indicators.webp" width="900" height="1110" alt="Three stacked graphs for Country P. In years 4 to 6 output falls 7.1 percent, unemployment rises 3.4 percentage points to 8.6 percent and inflation falls to 0.4 percent, consistent with an inward shift of AD. Year 7 inflation of 2.8 percent could be a cost shock; unemployment is back to 5.0 percent by year 12." loading="lazy">
+  <figcaption>Output, unemployment and inflation move together after a fall in aggregate demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation--08-disinflation-vs-deflation.webp" width="900" height="860" alt="A price index starting at 100 rises to 114.6 when inflation falls from 7% to 5% to 2% (disinflation) but falls to 95.57 when prices drop 1.5% a year (deflation)." loading="lazy">
+  <figcaption>Disinflation is a falling inflation rate; deflation is a falling price level.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

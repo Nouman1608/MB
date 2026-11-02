@@ -63,6 +63,12 @@ This is the same maths as a projectile, with the electric force replacing weight
 
 Gravity is ignored here. The weight of an electron is tiny compared with eE, and you should say so if you are asked to justify it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--01-electron-in-electric-field.webp" width="900" height="804" alt="A negative electron enters parallel to two plates with the field pointing up. The force on it is down, so it follows a parabola: constant speed along the plates, uniform acceleration across them. It is deflected 9.9 mm and leaves 18 degrees below its original direction." loading="lazy">
+  <figcaption>An electron crossing a uniform field follows a parabola, like a projectile.</figcaption>
+</figure>
+
+
 ## Charge in a uniform magnetic field
 
 ### Magnitude and direction of the force
@@ -100,6 +106,22 @@ The particle moves on a circle in a plane perpendicular to B. From r = mv/(qB):
 
 If the same proton instead entered at 30° to the field, the force would be 1.44 × 10^-14 × sin 30° = 7.2 × 10^-15 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--02-magnetic-force-direction.webp" width="900" height="970" alt="A proton moving right in a field into the page is pushed up the page; an electron on the same path is pushed down. A proton moving along the field feels no force because sin 0 = 0." loading="lazy">
+  <figcaption>The force is perpendicular to v and B; reverse it for a negative charge; zero when v is parallel to B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--03-circular-path-in-b-field.webp" width="900" height="980" alt="A proton moves anticlockwise in a field into the page. At four points the velocity is tangent to the circle and the force points to the centre, so no work is done and speed is constant. Worked values: F = 1.44e-14 N, r = 10.4 mm, T = 2.19e-7 s." loading="lazy">
+  <figcaption>The magnetic force supplies the centripetal force, giving a circle of radius mv/(qB).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--04-what-sets-the-radius.webp" width="900" height="1060" alt="Three comparisons start at the same point. Doubling speed or mass doubles the radius; doubling the field halves it. The period 2 pi m/(qB) does not depend on speed." loading="lazy">
+  <figcaption>Radius grows with speed and mass and shrinks with field strength; the period does not depend on speed.</figcaption>
+</figure>
+
+
 ## Crossed electric and magnetic fields
 
 Now set the electric and magnetic fields at right angles to each other, with the particle moving at right angles to both. Arrange them so the electric force and the magnetic force on the particle point in opposite directions. The particle passes straight through when the two forces are equal:
@@ -107,6 +129,12 @@ Now set the electric and magnetic fields at right angles to each other, with the
 qE = qvB, so **v = E/B**
 
 The charge and mass cancel. Only particles with speed E/B go straight; this is why the arrangement is used as a velocity selector. A faster particle has the larger magnetic force and bends in the direction of that force. A slower one has the larger electric force and bends the other way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--05-velocity-selector.webp" width="900" height="850" alt="A positive particle moves between plates with E down and B into the page. Electric force is down and magnetic force up. Only v = E/B goes straight through the slit; a faster particle bends up, a slower one bends down." loading="lazy">
+  <figcaption>Only particles with v = E/B pass straight through crossed fields.</figcaption>
+</figure>
+
 
 ## Charge-to-mass ratio from a circular path
 
@@ -123,6 +151,12 @@ You need the speed v, the field B and the measured radius r. The speed may be gi
 
 This is close to the value for a proton, 1.60 × 10^-19 / 1.67 × 10^-27 = 9.58 × 10^7 C kg^-1, so the particles are probably protons. Ratio matching does not prove it, because other particles can share a ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--06-charge-to-mass-ratio.webp" width="900" height="940" alt="A beam is speed-selected (v = E/B = 1.5e5 m/s), then bent into a 6.3 mm radius semicircle by 0.25 T. q/m = v/(Br) = 9.5e7 C/kg, close to the proton value 9.58e7." loading="lazy">
+  <figcaption>Selecting the speed and measuring the radius gives q/m = v/(Br).</figcaption>
+</figure>
+
+
 ## Force on a current-carrying conductor
 
 A current is moving charge, so a wire in a magnetic field feels a force. For a straight conductor of length L in the field, carrying current I, at angle θ to the field:
@@ -136,6 +170,12 @@ The direction uses the same right-hand rule, with the fingers along the **conven
 F = BIL sin θ = 0.12 × 4.5 × 0.35 × sin 30° = 9.5 × 10^-2 N (0.0945 N before rounding).
 
 Only the part of the wire inside the field counts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--07-force-on-a-wire-angle.webp" width="900" height="1010" alt="A 0.35 m wire carrying 4.5 A in 0.12 T feels 0.189 N at 90 degrees, 0.0945 N at 30 degrees and no force when parallel to the field. The force is always into the page, perpendicular to wire and field." loading="lazy">
+  <figcaption>F = BIL sin theta: the force depends on the angle between wire and field.</figcaption>
+</figure>
+
 
 ## Parallel current-carrying wires
 
@@ -151,6 +191,12 @@ where μ0 is the permeability of free space, 4π × 10^-7 T m A^-1. The two forc
 2. F = 4.8 × 10^-4 × 1.5 = 7.2 × 10^-4 N.
 
 Doubling the separation halves the force per unit length. Doubling one current doubles it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--08-parallel-wires.webp" width="900" height="1110" alt="Two wires 4.0 cm apart carry 12 A and 8.0 A. With currents in the same direction the forces point towards each other (attract); with opposite currents they point apart (repel). Each force per unit length is 4.8e-4 N/m, 7.2e-4 N over 1.5 m." loading="lazy">
+  <figcaption>Currents in the same direction attract; opposite currents repel, with equal and opposite forces.</figcaption>
+</figure>
+
 
 ## Common errors
 

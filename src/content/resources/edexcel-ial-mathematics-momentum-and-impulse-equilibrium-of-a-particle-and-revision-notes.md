@@ -53,6 +53,12 @@ Worked reminder: a 0.2 kg ball moving at 6.5 m s⁻¹ is hit back so it moves at
 
 The specification says Newton's law of restitution is not required and problems are one-dimensional. A problem that gives you speeds before and after (or enough to find them) is solvable with conservation alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--03-amth-forces-pulley.webp" width="900" height="1210" alt="(Top) A 3 kg particle on a smooth table joined over a smooth pulley to a 2 kg hanging particle: T = 3a and 2g − T = 2a give a = 3.92 m per second squared, T = 11.8 N. (Bottom) 7 kg and 4 kg hanging masses: a = 3g/11 = 2.67 m per second squared, T = 49.9 N. Tension is the same on both sides." loading="lazy">
+  <figcaption>Write one F = ma equation per particle; tension is the same each side of a smooth pulley.</figcaption>
+</figure>
+
+
 ## 5.1 Resolving forces
 
 | Situation | Horizontal | Vertical |
@@ -64,6 +70,12 @@ The specification says Newton's law of restitution is not required and problems 
 For a resultant (xi + yj), the magnitude is √(x² + y²). For the direction, find tan⁻¹(y/x) with a sketch to fix the quadrant, then state the angle relative to a named direction such as the positive x-axis.
 
 Worked reminder: F₁ = (4i + 7j) N and F₂ = (−10i + 3j) N give a resultant of (−6i + 10j) N. Its magnitude is √(36 + 100) = 11.7 N (3 s.f.). The angle above the negative i direction is tan⁻¹(10/6) = 59.0°. For equilibrium you would add the force (6i − 10j) N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
+</figure>
+
 
 ## 5.2 Equilibrium in steps
 
@@ -81,6 +93,12 @@ Must-know distinctions:
 - Normal reaction is at 90° to the surface. Friction lies along it.
 - Weight is mg in newtons. Mass is in kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+
 ## 5.3 Friction at rest
 
 | Statement in the question | What to write |
@@ -93,6 +111,17 @@ Must-know distinctions:
 Method: resolve at right angles to the surface for R, resolve along the surface for F, then compare F with μR. An upward component of an applied force lowers R. A downward component raises it.
 
 Worked reminder: a block weighs 80 N and is pulled by a horizontal force of 25 N without moving. R = 80 and F = 25, so 25 ≤ 80μ and μ ≥ 0.3125. The friction is 25 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
 
 ## 6.1 Moments in steps
 
@@ -111,6 +140,12 @@ Must-know distinctions:
 Worked reminder (tilting): a uniform rod of weight 60 N and length 4 m rests on supports 1 m from each end. A particle of weight 20 N is placed on the rod beyond the right support, a distance d from it. The rod is about to tilt about that support when the left reaction is zero. The rod's weight is 1 m from the support on the left side, so 60 × 1 = 20 × d and d = 3 m. That is more than the 1 m of rod beyond the support, so the rod cannot tilt for any position on it.
 
 Worked reminder (two supports): a light rod of length 3 m rests on supports at its two ends. A load of 45 N is 1 m from A. Moments about B: R_A × 3 = 45 × 2, so R_A = 30 N. Then R_B = 45 − 30 = 15 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
+  <figcaption>Take moments about a support to remove its reaction; clockwise moments equal anticlockwise moments.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

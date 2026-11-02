@@ -89,6 +89,12 @@ A partnership is a business owned by two or more people, the partners, who usual
 
 Shortfall = 80,000 − 52,000 = **28,000**. Because her liability is unlimited, creditors can look to her personal assets for the 28,000. If she were instead in a partnership with one other partner, the partners would be personally responsible for the shortfall between them. Owners of an unlimited-liability business risk personal property, not only the money they put in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--01-g15-unlimited-liability.webp" width="900" height="900" alt="Debts of 80,000 against assets of 52,000 leave a shortfall of 28,000. Because a sole trader has unlimited liability, creditors can claim the owner's personal assets for that 28,000. Partners are personally responsible between them." loading="lazy">
+  <figcaption>Odalis Vandeleur's 28,000 shortfall falls on her personal assets.</figcaption>
+</figure>
+
+
 ## 1.1 b: Stakeholders and their use of financial statements
 
 A **stakeholder** is a person or group with an interest in a business. The connection runs both ways: the business affects them, and they can affect the business. Each group wants the financial statements for a different reason.
@@ -122,6 +128,17 @@ At the year end it owes a bank loan of 18,000 (repayments of 6,000 a year), has 
 - **The tax authority.** It uses the profit of 24,450 as the starting point for tax due.
 
 The method: name the stakeholder, name the figure in the statements, say what decision it supports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--02-g15-stakeholder-figures.webp" width="900" height="960" alt="Three panels use Brandvold Print Studio. The bank compares profit 24,450 with the 6,000 yearly repayment (4.075 times). A supplier compares receivables plus bank, 15,400, with the 9,600 owed. The tax authority starts from the 24,450 profit." loading="lazy">
+  <figcaption>One set of figures answers a different question for each stakeholder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--01-acc14-stakeholders.webp" width="900" height="1090" alt="Eight stakeholder groups in two lists. Internal (employees, management, owners/shareholders) can ask for any figure; external (customers, suppliers, government, lenders, local community) see published statements. Each row gives one interest." loading="lazy">
+  <figcaption>Three internal and five external stakeholders, each with one distinct interest.</figcaption>
+</figure>
+
 
 ## 1.2 a: Accounting concepts
 
@@ -160,6 +177,12 @@ An item is material if leaving it out or misstating it could change the decision
 
 Materiality is a matter of judgement. The same 18 could be material to a very small business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--01-u2-009-materiality-stapler-press.webp" width="900" height="920" alt="A bar shows revenue of 126,500 dollars. The printing press at 14,500 dollars fills 11.5 percent of it and is material, so it is a non-current asset. The stapler at 18 dollars is 0.014 percent, too thin to draw, so it is immaterial and expensed. There is no fixed cut-off." loading="lazy">
+  <figcaption>The same test gives different treatment: 0.014% of revenue is expensed, 11.5% is capitalised.</figcaption>
+</figure>
+
+
 ### Money measurement
 
 Only items that can be measured in money are recorded. A skilled workforce, a good reputation, or a loyal customer base all have real value, but none has an exact money figure, so none is in the statement of financial position. There is a second limit: the value of money changes over time, so figures from different years are not exactly like for like.
@@ -171,6 +194,27 @@ The business is treated as separate from its owner. Only the business's transact
 **Worked example 7.** During the year Sigrun takes 14,000 in cash from the business bank account. She also takes goods that cost 300 for home use and pays a 410 household bill from the business account.
 
 None of these is a business expense. All three are **drawings**: 14,000 + 300 + 410 = **14,710**. Profit stays at 24,450, because personal spending is not a business cost. Closing capital = opening capital + profit − drawings = 41,000 + 24,450 − 14,710 = **50,740**. Her private home and car are kept out of the business's records for the same reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--03-g15-consistency-vehicle.webp" width="900" height="820" alt="Year 2 depreciation on a 15,000 vehicle at 20% is 3,000 on straight line but 2,400 on reducing balance from a 12,000 book value. Switching raises year 2 profit by 600 only because of the method." loading="lazy">
+  <figcaption>Switching depreciation method moves year 2 profit by 600 with no change in trading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
+  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--05-g15-accruals-insurance.webp" width="900" height="700" alt="Twelve monthly boxes of 200 show insurance of 2,400 paid on 1 October. Only October to December, 600, is this year's expense; the other nine months, 1,800, are a prepayment." loading="lazy">
+  <figcaption>Only 600 of the 2,400 insurance is this year's expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--06-g15-business-entity-drawings.webp" width="900" height="880" alt="Sigrun takes 14,000 cash, 300 of goods and pays a 410 household bill from the business. These are drawings of 14,710, not expenses, so profit stays 24,450 and closing capital is 41,000 + 24,450 - 14,710 = 50,740." loading="lazy">
+  <figcaption>Owner's personal spending is drawings, which reduce capital but not profit.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -50,6 +50,17 @@ AO2 means apply and analyse. AO3 means synthesize and evaluate, so these notes f
 - **One-way**: no reply expected. **Two-way**: feedback is built in.
 - **Barrier**: anything that stops a message being sent, received or understood as intended.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--01-comm-formal-informal.webp" width="900" height="950" alt="An organisation chart with a director, two managers and four staff. Solid arrows run up and down between levels (vertical) and between the two managers (horizontal): formal channels. Dashed arcs link staff in different teams: the informal grapevine, quick but with no record." loading="lazy">
+  <figcaption>Formal channels follow the hierarchy and are recorded; the grapevine is quick but leaves no record.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--02-zellbrook-night-shift.webp" width="900" height="990" alt="A bar splits Zellbrook staff into shifts of 24, 18 and 12 (night shift 22 percent). Managers post on an intranet only reachable at office terminals, so the day shift reads it and the night shift misses it. Fixes: text or app message, handover note, shift-leader relays." loading="lazy">
+  <figcaption>The night shift misses rota changes because the only channel is reachable only in the day.</figcaption>
+</figure>
+
+
 ## Formal versus informal: what to weigh
 
 | | Formal | Informal |
@@ -68,6 +79,12 @@ AO2 means apply and analyse. AO3 means synthesize and evaluate, so these notes f
 5. Pick a main method, and name a supporting one that covers its gap.
 6. Judge: say which is best in this case and why the other is weaker here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--01-kelderhall-method.webp" width="900" height="1040" alt="Kelderhall Print has 140 staff, 90 at the main works and 50 at a satellite. Three needs lead to three methods: a written formal procedure for record, a formal briefing on each site for two-way questions, and informal supervisor chats to fill the gap. Email alone is crossed out as it gives no feedback on a safety matter." loading="lazy">
+  <figcaption>A formal core with an informal supplement fits the situation better than email alone.</figcaption>
+</figure>
+
+
 ## Barriers to communication
 
 - Language and jargon.
@@ -83,6 +100,17 @@ AO2 means apply and analyse. AO3 means synthesize and evaluate, so these notes f
 
 Method for AO2 answers: name the barrier, link it to a fact in the case, explain the effect on the business (errors, delay, low morale, lost sales), then say what could reduce it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--03-ten-barriers.webp" width="900" height="1080" alt="A sender, an envelope, a wall of barriers and a receiver sit above ten numbered tiles, each naming a barrier and how it blocks the message." loading="lazy">
+  <figcaption>Ten barriers, each with its effect on the message.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
+
 ## 2.7 Industrial/employee relations (HL only)
 
 ### Sources of conflict
@@ -93,6 +121,12 @@ Method for AO2 answers: name the barrier, link it to a fact in the case, explain
 - Change in technology or working practices.
 - Management style and poor communication.
 - Differences in aims between owners or managers and employees.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
 
 ### Approaches to conflict
 
@@ -115,6 +149,27 @@ Method for AO2 answers: name the barrier, link it to a fact in the case, explain
 | Employee participation and industrial democracy | Staff take part in decisions through consultation, councils or representation | Staff feel heard, so less conflict | Slower decisions |
 | No-strike agreement | Union agrees not to strike, usually in exchange for an agreed way of settling disputes | Continuity of output | Removes staff's strongest tool |
 | Single-union agreement | Employer bargains with one union for all staff | Simpler, quicker bargaining | One union may not represent every group |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--02-ir-approaches.webp" width="900" height="860" alt="Collective bargaining is shown as the route both sides share. Employees can work to rule (still working, less output) or strike (work stops, pay lost). Employers can change contracts, threaten redundancies, impose a lockout or close the site." loading="lazy">
+  <figcaption>Employees and employers each have actions they can use, from bargaining to drastic steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--03-ir-resolution.webp" width="900" height="920" alt="In conciliation a neutral third party helps the two sides talk and they reach their own agreement. In arbitration the third party hears both sides and gives a ruling. Three other methods are shown: employee participation, a no-strike deal with an agreed procedure, and a single-union agreement." loading="lazy">
+  <figcaption>Conciliation helps the sides agree; arbitration gives a ruling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--04-ir-pay-dispute.webp" width="900" height="810" alt="Bars in dollars. The union claim of 5 percent of a 6,080,000 payroll is 304,000; the company offer of 2 percent is 121,600; the gap is 182,400, about 1,140 per driver. A three-day strike loses 156,000 of sales, close to the gap." loading="lazy">
+  <figcaption>The cost of a strike is close to the gap between claim and offer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only--04-conflict-sources.webp" width="900" height="838" alt="Employer (lower costs, flexibility) and employees (higher pay, stability) face each other across five flashpoints with double arrows: pay and benefits, working conditions, job security, change and management style. Differing aims are the root of all five." loading="lazy">
+  <figcaption>Different aims lie behind pay, conditions, security, change and management-style disputes.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

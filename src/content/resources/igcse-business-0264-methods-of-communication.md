@@ -67,6 +67,17 @@ The same method can be used for either. An email to a colleague is internal. An 
 | A social media post advertising a sale | External |
 | A letter to a customer confirming an order | External |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--05-internal-external-receiver.webp" width="900" height="1130" alt="An email to a colleague inside the business is internal; the same method sent to a supplier outside is external. Five lesson examples are sorted by receiver." loading="lazy">
+  <figcaption>Sort communication by who receives it, not by the method used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
+
 ## Methods of communication
 
 The syllabus names seven groups of method. Learn what each is, then learn one strength and one weakness that depend on the situation.
@@ -120,6 +131,17 @@ Printed information displayed where people will see it, such as a staff room.
 - **Advantages:** reaches everyone who passes; low cost; stays on show; useful for reminders and general rules.
 - **Disadvantages:** the message may not be noticed or read; it cannot be changed quickly for each person; there is no feedback; it is only suitable for non-confidential information; it will not reach staff who are absent or work elsewhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--01-methods-best-weak.webp" width="900" height="890" alt="Seven rows, one per method. Each shows one strength and one weakness taken from the lesson: meetings instant questions but high wage cost, email one message to many people but may not be read, text read within minutes but little detail, social media cheap large audience but public mistakes, phone instant two-way talk but no written record, letter permanent record but slow and costly, poster reaches all who pass but may go unnoticed." loading="lazy">
+  <figcaption>One strength and one weakness for each of the seven methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
+
 ## Choosing a method: recommend and justify
 
 **Recommend** and **justify** ask for a decision and reasons. Look at the features of the situation, then match them to a method. Ask:
@@ -149,6 +171,12 @@ Ordsall Print Works has 24 employees on two sites. The owner, Wanjiru Calder, mu
 **Judgement:** the combined approach is best because the situation needs both speed and confirmation of understanding. If many staff did not use email, a text message alert could be added.
 
 The pattern: choose, give reasons tied to the facts, reject alternatives, and say what could change the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--02-ordsall-recommend.webp" width="900" height="890" alt="An owner emails all 24 staff at once, then holds a short virtual meeting for both sites. Noticeboard, letter and text are crossed out with a reason each. A text message alert is added if many staff do not use email." loading="lazy">
+  <figcaption>Ordsall Print Works: email plus a short virtual meeting, with the rejected options and why.</figcaption>
+</figure>
+
 
 ## Communication barriers
 
@@ -196,6 +224,12 @@ Use the barrier that fits the facts you are given.
 | Time and distance | Agree overlapping hours for virtual meetings | Some staff work awkward hours |
 | Poor listening | Quiet meeting places; training in listening | Training takes time |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--04-fix-costs.webp" width="900" height="880" alt="Nine barrier and fix pairs sorted into three columns by the limit of each fix: costs time, costs money, costs control or effort." loading="lazy">
+  <figcaption>The nine fixes in the lesson, grouped by their limit.</figcaption>
+</figure>
+
+
 ### Worked example: barriers
 
 Stavndale Foods has a head office and a packing plant. Oksana Beck, an office manager, emails the plant each week with orders. The plant supervisor, Ruaridh Vance, sometimes finds the orders full of abbreviations, and last week 150 boxes were packed with the wrong label.
@@ -205,6 +239,17 @@ Stavndale Foods has a head office and a packing plant. Oksana Beck, an office ma
 - **Problem:** wrong labels led to 150 boxes being packed again. That costs materials, wages and delivery time, and a late delivery may upset customers.
 - **Solution:** write orders in plain words, with a standard layout, and ask the supervisor to confirm by reply or phone call before packing starts.
 - **Limit:** a confirmation step takes a few minutes each week, but that is small compared with the cost of repacking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--06-barrier-reason-problem-fix.webp" width="900" height="1150" alt="A four-step chain: jargon in the order email, because the office uses short forms the plant does not know, led to 150 boxes being repacked, fixed by plain words, a standard layout and confirmation before packing." loading="lazy">
+  <figcaption>A barrier has a reason, causes a problem and needs a matching fix.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-methods-of-communication--03-twelve-barriers.webp" width="900" height="1133" alt="The twelve barriers in the lesson are grouped by where they act: the message, on the way, the receiver and the reply. An arrow leads to six problems: mistakes and rework, delays, lost customers, low motivation and conflict, poor decisions, higher labour turnover." loading="lazy">
+  <figcaption>Twelve barriers grouped by where they act, and the six problems they cause.</figcaption>
+</figure>
+
 
 ## Common errors
 

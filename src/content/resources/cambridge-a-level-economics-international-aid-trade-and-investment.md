@@ -59,6 +59,17 @@ Grant element = (100 - 59.74)/100 = 40.3%
 
 The recipient receives a gift worth about 40 units. At an 8% interest rate, a loan at 8% would have a present value of exactly 100 and a grant element of zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--06-aid-grant-element.webp" width="900" height="1040" alt="Bars compare face value 100 with the present value of repayments 59.74 (13.42 interest plus 46.32 principal) at an 8 percent discount rate; the 40.26 gap is the grant element, 40.3 percent." loading="lazy">
+  <figcaption>A concessional loan is partly a gift because repayments are worth less than the amount lent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--01-aid-grant-element.webp" width="900" height="930" alt="Horizontal bars for a loan of 100 at 2 percent with the principal repaid after 10 years and an 8 percent market rate. The repayments are worth 59.74 today (13.42 for interest, 46.32 for the principal), so the remaining 40.26, or 40.3 percent, is a gift. A loan at 8 percent would have a grant element of zero." loading="lazy">
+  <figcaption>A below-market loan contains a gift: here 40.3% of its face value.</figcaption>
+</figure>
+
+
 ## Reasons for giving aid (11.5.1)
 
 - **Humanitarian and moral.** Relieving famine, disease and extreme poverty after disasters. This is the strongest case for emergency aid.
@@ -75,6 +86,12 @@ Country A is an illustrative low-income economy. Its GDP is 8,000 million units.
 - If aid of 480 were all invested, growth = 20/4 = 5%.
 
 This is a simple model, not a syllabus formula. Its weakness is the assumption that every unit of aid is invested. Suppose only 70% is invested and the rest is spent on consumption. Investment = 14 + 0.7 x 6 = 18.2% of GDP, so growth = 18.2/4 = 4.55%, not 5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--07-aid-savings-gap.webp" width="900" height="1080" alt="Needed investment 20 percent of GDP, saving 14, gap 6 percent (480 million). If all aid is invested growth is 5 percent; if 70 percent, investment is 18.2 percent and growth 4.55 percent." loading="lazy">
+  <figcaption>Aid can fill a savings gap but only the invested share raises growth.</figcaption>
+</figure>
+
 
 ## Effects of aid (11.5.1)
 
@@ -104,6 +121,12 @@ Effective value = 100/1.15 = 86.96 million
 
 About 13.04 million of the headline grant is absorbed by higher prices, so the real transfer is 13.0% smaller than advertised. If only 60 of a 200 million grant is tied, the effective value is 60/1.15 + 140 = 192.17 million, a loss of 7.83 million.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--02-aid-tied-premium.webp" width="900" height="820" alt="Two bars. A fully tied grant of 100 with a 15 percent price premium is worth 100/1.15 = 86.96, so 13.04 is lost. A grant of 200 with only 60 tied is worth 60/1.15 + 140 = 192.17, a loss of 7.83." loading="lazy">
+  <figcaption>Tying aid to donor suppliers cuts its real value by the price premium on the tied part.</figcaption>
+</figure>
+
+
 ## Importance of aid (11.5.1)
 
 Judge importance by relative size, not headline amount.
@@ -123,6 +146,12 @@ A 6% share is large for Country A and tiny for the donor. Aid matters most when 
 Real value also matters. If nominal aid is 480 and the price index of aid purchases has risen from 100 to 112, real aid = 480/1.12 = 428.57. Rising prices have reduced it by 10.7%.
 
 **Evaluation points.** Does the recipient have the institutions to use it well? Is it grant or loan? Is it predictable? Is it spent on long-run investment or only consumption? What would be the alternative source of finance? The same aid can raise growth in one country and do little in another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--03-aid-share-of-gni.webp" width="900" height="816" alt="Two 10 by 10 grids, each square being 1 percent of GNI. Country A receives 480 on a GNI of 8,000, which is 6.0 percent (40 per head), so 6 squares fill. Donor D gives 7,200 on a GNI of 2,400,000, which is 0.30 percent, under one square, although its gift is 15 times larger. Real aid of 480 with aid prices up 12 percent is 428.57, down 10.7 percent." loading="lazy">
+  <figcaption>The same aid can be huge for the recipient and tiny for the donor when measured as a share of GNI.</figcaption>
+</figure>
+
 
 ## Trade between countries at different levels of development (11.5.2)
 
@@ -147,9 +176,21 @@ Year 4: ToT = 84/112 x 100 = 75.0, a 25% fall. Income terms of trade = ToT x vol
 
 Country A is exporting 18% more yet can afford 11.5% fewer imports. A long-run decline in the relative price of primary goods against manufactures is the Prebisch-Singer argument. It is a hypothesis, not a certainty: commodity prices have had upswings, and a producer that diversifies avoids the problem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--08-aid-terms-of-trade.webp" width="900" height="1110" alt="Lines for export volume (to 118), terms of trade (to 75.0) and income terms of trade (to 88.5) over Years 1 to 4." loading="lazy">
+  <figcaption>Exports can rise 18 percent while the terms of trade fall 25 percent and affordable imports fall 11.5 percent.</figcaption>
+</figure>
+
+
 ### Price volatility
 
 Primary products often have low price elasticity of demand and unstable supply (weather, pests). Suppose a bumper harvest raises supply and sales by 10% when PED is -0.4. The price falls by 10/0.4 = 25% (a linear approximation). Revenue changes by 1.10 x 0.75 = 0.825, a fall of 17.5%. A bigger harvest cuts export income, and that complicates planning and investment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--09-aid-price-volatility.webp" width="900" height="1030" alt="Demand curve through (100,100) and (110,75) with PED -0.4; income rectangles 10,000 and 8,250 (-17.5 percent)." loading="lazy">
+  <figcaption>With inelastic demand a bigger harvest lowers price proportionally more than quantity rises, so income falls.</figcaption>
+</figure>
+
 
 ### Access to markets
 
@@ -163,6 +204,17 @@ Rich-country barriers hurt developing exporters. **Tariff escalation** means low
 A 10% tariff cuts value added by about 32%, which shows why escalation keeps developing countries as raw-material suppliers. Farm subsidies in rich countries also lower world prices and undercut poorer farmers.
 
 **Evaluate liberalisation.** Trade lets countries use comparative advantage, import capital goods and technology, and sell to larger markets. Against that, a country with weak industries may need temporary protection for infant industries (see [protectionism](/resources/cambridge-a-level-economics-protectionism/)), and opening too fast can expose producers to sudden competition and price swings. Benefits also depend on whether workers can move to growing sectors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--10-aid-tariff-escalation.webp" width="900" height="1010" alt="Buyer pays 140; with a 10 percent tariff the exporter receives 127.27, so value added falls from 40 to 27.27 (-31.8 percent)." loading="lazy">
+  <figcaption>Tariff escalation cuts the value added from processing, discouraging it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--04-terms-of-trade-income.webp" width="900" height="880" alt="Line graph for Country A, years 1 to 4. The terms of trade fall from 100 to 92.3, 83.3 and 75.0. The income terms of trade, which allow for export volume, fall more slowly to 88.5. In year 4 exports are 18 percent larger yet buy 11.5 percent fewer imports." loading="lazy">
+  <figcaption>Export volume can rise while the terms of trade, and the imports it buys, fall.</figcaption>
+</figure>
+
 
 ## Investment between countries (11.5.2)
 
@@ -180,6 +232,12 @@ Country A has a current account deficit of 250 and net private capital inflow of
 - If confidence falls and net inflows turn to -200, the gap is 250 + 200 = 450, so reserves fall or the currency depreciates.
 
 Inflows that pay for productive investment are safer than inflows chasing short-run gains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-international-aid-trade-and-investment--05-capital-flows-deficit.webp" width="900" height="850" alt="Two panels for Country A. A deficit of 250 met by a net private capital inflow of 300 leaves +50 added to reserves. If net flows turn to -200 the gap is 250 + 200 = 450, so reserves fall or the currency depreciates." loading="lazy">
+  <figcaption>Capital inflows can finance a deficit, but a reversal opens a much larger gap.</figcaption>
+</figure>
+
 
 ## Common errors
 

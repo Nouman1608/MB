@@ -81,6 +81,17 @@ Describe it in words. LRAS1 shifts right to LRAS2. The price level falls from P1
 
 Example: tax 30%, benefit loss 45% of net. Net = 70. Benefit lost = 31.5. Kept = 38.5. Effective rate = 61.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--12-ss-benefit-taper.webp" width="900" height="910" alt="Of an extra 100 earned, tax takes 20. With a 50% taper 40 of benefit is lost and 40 is kept (effective marginal rate 60%); with a 35% taper 28 is lost and 52 kept (48%)." loading="lazy">
+  <figcaption>A lower benefit taper reduces the effective marginal rate and makes work pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--13-ss-marginal-vs-average-tax.webp" width="900" height="885" alt="A step chart of tax rates (0%, 20%, 40%) for a worker earning 55,000. Cutting the top rate to 35% lowers tax from 12,000 to 11,250, the marginal rate from 40% to 35% and the average rate from 21.8% to 20.5%." loading="lazy">
+  <figcaption>A cut in the top marginal rate lowers the average rate by less.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - A worker with a 30% marginal rate gets a 4,000 pay rise and keeps 2,800.
@@ -90,6 +101,17 @@ Example: tax 30%, benefit loss 45% of net. Net = 70. Benefit lost = 31.5. Kept =
 - Subsidy 6 per unit and output 50: cost 300.
 - A state firm cuts unit cost from 40 to 36: down 10%.
 - A worker gains 2,000 from moving but pays 2,600 more rent: net −600, so does not move. If the rent gap falls to 1,200, net = +800.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--15-ss-migration-gdp-per-head.webp" width="900" height="820" alt="GDP rises 0.76% to 1,612.16bn and population rises 1.00% to 40.4m, so GDP per head falls 0.24% from 40,000 to 39,905." loading="lazy">
+  <figcaption>Total output rises but income per head can fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--02-ssp-housing-move.webp" width="900" height="1060" alt="Two waterfalls: a pay gap of +3,600 less a rent gap of 5,400 gives a net of -1,800 (the worker stays), while a rent gap of 2,400 gives +1,200 (the worker moves)." loading="lazy">
+  <figcaption>High rents can cancel the pay gain from moving; closing the rent gap makes the move worthwhile.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -106,6 +128,27 @@ A subsidy shifts the supply curve down or right by the amount per unit. Equilibr
 
 R&D incentives work when the private return is below the cost but the social return, including spillovers, is above it. Example: cost 8m, private return 6.5m, tax credit 25% cuts the cost to 6m, so the firm goes ahead. If the social return is 11m the credit costing 2m is worth it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--14-ss-subsidy-incidence.webp" width="900" height="830" alt="A subsidy of 12 moves supply down and raises output from 20 to 24. Consumers pay 66 (down 4) and producers receive 78 (up 8). The government pays 288, which is 96 to consumers and 192 to producers." loading="lazy">
+  <figcaption>A per-unit subsidy cuts the price paid and raises the price received, at a cost of 288.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--03-ssp-road-cba.webp" width="900" height="1080" alt="A formula box gives a benefit of 15m a year, multiplied by 18.392 to a present value of 275.9m. A cost column of 180 is compared with the benefit column, leaving NPV +95.9 and a benefit-cost ratio of 1.53." loading="lazy">
+  <figcaption>Discounted time savings of 275.9m exceed the 180m cost: NPV +95.9m, ratio 1.53.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--04-ssp-rd-credit.webp" width="900" height="1000" alt="Bars show cost 8 against private return 6.5 (firm loses 1.5), then a 25% credit splitting cost into firm 6 and state 2 (firm gains 0.5), then social benefit of 11 (6.5 private plus 4.5 spillover) against a credit cost of 2." loading="lazy">
+  <figcaption>A credit can tip a project the firm would drop into one that goes ahead, justified because spillovers exceed its cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## Effectiveness against each objective
 
 | Objective | How supply-side policy helps | Limit |
@@ -116,6 +159,12 @@ R&D incentives work when the private return is below the cost but the social ret
 | Balance of payments | Better competitiveness, more exports | Depends on rivals and exchange rates |
 | Income distribution | Higher employment and pay at the bottom | Tax cuts and weaker unions may widen gaps |
 | Government finances | Higher output means more tax revenue | Upfront cost of spending and subsidies |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--05-ssp-trend-growth.webp" width="900" height="940" alt="Two lines of a potential output index starting at 100: at 2.0% a year it reaches 121.9 after ten years and at 2.5% it reaches 128.0, about 5% higher." loading="lazy">
+  <figcaption>A half-point rise in trend growth leaves output about 5% higher after ten years.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -128,6 +177,12 @@ R&D incentives work when the private return is below the cost but the social ret
 ## Short-run and long-run view
 
 In the short run, some measures raise costs or cut demand: a sharp rise in the minimum wage may raise prices, and job losses follow privatisation when firms cut staff. In the long run the gains come through higher productivity and capacity. Say which time period your point refers to, and use it to justify a final judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 
@@ -163,6 +218,12 @@ In the short run, some measures raise costs or cut demand: a sharp rise in the m
 8. NMW is a legal floor; a living wage relates to cost of living and is promoted, not compelled.
 9. A private monopoly with no competition may raise prices and has no pressure to cut costs.
 10. High rents and housing shortages stop workers moving to jobs, leaving vacancies and regional unemployment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--11-ss-minimum-wage-elasticity.webp" width="900" height="880" alt="A 5% minimum wage rise changes jobs by -1.5% (inelastic demand, -0.3) or -6.0% (elastic, -1.2), so the wage bill rises 3.4% or falls 1.3%." loading="lazy">
+  <figcaption>Whether low-paid workers gain overall depends on the elasticity of demand for labour.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

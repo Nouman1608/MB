@@ -57,6 +57,12 @@ These notes condense section 2.1.1 b), low and stable inflation, from the Pearso
 
 Worked reminder: weights 40 and 60, indices 105 and 110. (40 × 105 + 60 × 110) ÷ 100 = (4,200 + 6,600) ÷ 100 = **108.0**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--10-cpi-weighted.webp" width="900" height="920" alt="The five-group weighted CPI worked example. Weights 30, 35, 15, 10 and 10 with 2026 indices of 106, 103, 110, 98 and 104 give products totalling 10,455, so the CPI is 104.55." loading="lazy">
+  <figcaption>Weights times indices, divided by the total weight, give a CPI of 104.55.</figcaption>
+</figure>
+
+
 ### Method in steps: inflation or deflation rate
 
 1. Subtract the old CPI from the new one.
@@ -65,6 +71,12 @@ Worked reminder: weights 40 and 60, indices 105 and 110. (40 × 105 + 60 × 110)
 4. A positive answer is inflation. A negative answer is deflation.
 
 Reminders: 125 to 130 gives 5 ÷ 125 × 100 = **4.0%**. 108 to 105.3 gives −2.7 ÷ 108 × 100 = **−2.5%** (deflation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## Causes in a table
 
@@ -85,6 +97,27 @@ Chain for cost-push: higher input costs, so average costs rise, so firms raise p
 - Low inflation or deflation tends to bring lower interest rates, to encourage spending.
 - Inflation above the savings rate means savers lose purchasing power. A negative real rate helps borrowers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--11-cpi-rates.webp" width="900" height="830" alt="CPI path showing inflation, slower inflation and deflation. The CPI is 100 in 2025, 104.55 in 2026, 107.0 in 2027 and 105.5 in 2028. The rates are +4.55%, +2.3% and -1.4%, and the last is deflation." loading="lazy">
+  <figcaption>A positive but smaller rate is slower inflation; a negative rate is deflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--13-real-return-savings.webp" width="900" height="870" alt="Savings at 2% against a basket whose price rises 4.55%. KD 1,000 grows to 1,020 but the basket rises to 1,045.50, so the saver can buy 2.4% less." loading="lazy">
+  <figcaption>A 2% saving return is a real loss when prices rise 4.55%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--07-machine-interest.webp" width="900" height="900" alt="Bars compare a machine return of 10,000 with interest of 8,000 at 4% and 14,000 at 7%. The firm gains 2,000 a year at 4% but loses 4,000 a year at 7%." loading="lazy">
+  <figcaption>At 7% interest the machine loses money, so the firm will probably not buy it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ## Effects of inflation: one-line chains
 
 - **Prices:** purchasing power falls, and fixed-income households lose most.
@@ -96,6 +129,12 @@ Chain for cost-push: higher input costs, so average costs rise, so firms raise p
 - **Uncertainty:** firms cannot plan costs and revenue, and long contracts become risky.
 - **Confidence:** households and firms cut spending and delay decisions.
 - **Investment:** higher interest rates and uncertain returns delay investment and reduce future capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--14-real-pay.webp" width="900" height="870" alt="Pay rise of 3% against a CPI of 104.55. Pay rises from 2,000 to 2,060 but real pay in 2025 prices is 2,060 / 104.55 x 100 = 1,970, a fall of 1.5%." loading="lazy">
+  <figcaption>A 3% pay rise is a fall in real pay when the CPI rises 4.55%.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -115,9 +154,21 @@ Pay rises from KD 2,000 to KD 2,060 (3%) while the CPI moves from 100 to 104.55.
 
 A bakery's weekly costs are KD 1,000: ingredients 400, wages 500, rent and energy 100. Ingredients rise 12% and wages 8%. New costs: 448 + 540 + 100 = KD 1,088, a rise of 8.8%. Average cost per loaf (2,000 loaves) goes from KD 0.50 to KD 0.544.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--12-bakery-cost-push.webp" width="900" height="840" alt="Bakery costs before and after input cost rises. Ingredients +12% and wages +8% lift weekly cost from 1,000 to 1,088, so cost per loaf rises from KD 0.50 to KD 0.544, up 8.8%." loading="lazy">
+  <figcaption>Rising costs of 8.8% must be passed on in prices to keep profit per loaf.</figcaption>
+</figure>
+
+
 ### Menu costs
 
 A café reprints 30 menus at KD 1.50 each (KD 45) and spends 3 staff hours at KD 6 (KD 18). Cost per price change = KD 63. Four changes a year cost KD 252.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--05-menu-costs.webp" width="900" height="730" alt="A same-scale bar shows 45 for menus plus 18 for staff time giving 63, repeated four times to give 252. One price change costs KD 63; four a year cost KD 252." loading="lazy">
+  <figcaption>Each price change costs the cafe KD 63, so four changes cost KD 252.</figcaption>
+</figure>
+
 
 ### Interest and investment
 
@@ -126,6 +177,12 @@ A firm borrows KD 200,000 to buy a machine returning 5% a year (KD 10,000). At 4
 ### Exports
 
 A good costs KD 50. Home prices rise 4.55%, so it costs KD 52.28. A rival's good rises 1%, so it costs KD 50.50. The gap is KD 1.78, so foreign buyers may switch.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--06-exports-dearer.webp" width="900" height="860" alt="A number line shows KD 50 rising to 52.28 with 4.55% inflation and to 50.50 with 1% inflation. The gap is KD 1.78, so foreign buyers switch to the cheaper rival." loading="lazy">
+  <figcaption>Higher inflation makes Country K’s good KD 1.78 dearer than the rival’s.</figcaption>
+</figure>
+
 
 ## Sketch of the AD and AS diagram
 

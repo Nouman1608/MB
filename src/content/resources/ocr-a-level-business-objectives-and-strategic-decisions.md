@@ -120,9 +120,31 @@ Strategic decisions cascade. **Mission** states purpose; **corporate objectives*
 
 Objectives should be SMART, and they shift with circumstance: survival dominates in a downturn, growth in an expanding market, profit maximisation in a mature one. **Corporate social responsibility** objectives may reduce short-run profit while protecting long-run reputation and licence to operate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
+
 ## Stakeholders
 
 Internal stakeholders (owners, managers, employees) and external stakeholders (customers, suppliers, the local community, government, pressure groups) rarely want the same thing at once — shareholders may want higher dividends while employees want higher pay, or a community may want fewer lorry movements while customers want faster delivery. A business needs to manage these conflicting objectives rather than assume they can all be satisfied simultaneously, typically by prioritising the stakeholders with the most power and interest, communicating trade-offs openly, and compromising where a decision affects several groups at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
 
 ## Analysing the position
 
@@ -136,6 +158,17 @@ Internal stakeholders (owners, managers, employees) and external stakeholders (c
 |---|---|---|
 | **Existing market** | Market penetration (lowest risk) | Product development |
 | **New market** | Market development | Diversification (highest risk) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--07-boston-matrix.webp" width="900" height="940" alt="Scatter chart of market growth against relative market share with dividing lines at 5 percent and 1. Salted Twists is a cash cow, Lentil Puffs a star, Seaweed Crisps a question mark and Crunch Rods a dog. An arrow shows cash cow money funding the question mark." loading="lazy">
+  <figcaption>The Boston Matrix classifies each product by market growth and relative share.</figcaption>
+</figure>
+
 
 ## Strategic choice
 
@@ -172,6 +205,12 @@ A strong answer explains what each model involves, applies it to the business in
 
 **Forecasting** can be qualitative or quantitative. Structured qualitative methods include the **Delphi technique** (anonymised rounds of expert opinion converging on a consensus forecast) and simply asking **expert opinion**; unstructured methods include brainstorming and intuition. Quantitative forecasting analyses past data for a trend, adjusts it for **seasonal and cyclical variation**, uses **correlation** to test the relationship between two variables, **extrapolates** the trend forward, and applies **moving averages** (time series analysis) to smooth out fluctuations and predict future values. Whichever method is used, a forecast is only as reliable as the assumptions and data behind it, so evaluation should question how far past patterns can be expected to continue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+
 ## Worked example
 
 A firm considers launching a new product. Success (60%) yields £800,000; failure (40%) yields £200,000. Development costs £300,000.
@@ -185,6 +224,12 @@ Net gain       = 560 000 - 300 000 = £260 000
 ```
 
 The positive net gain supports proceeding — but the evaluation marks come from the caveats: the probabilities are estimates, a £200,000 outcome may still threaten liquidity, and the figures ignore the opportunity cost of the £300,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

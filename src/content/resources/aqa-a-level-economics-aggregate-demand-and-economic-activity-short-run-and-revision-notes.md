@@ -91,6 +91,17 @@ Country K: AD is Y = 1300 - 4P and SRAS is Y = 600 + 3P, with Y in bn cu and P a
 
 Investment rises by 17.5 and the multiplier is 4, so AD shifts right by 70: Y = 1370 - 4P. Then 770 = 7P, P = 110 and Y = 930. Output rises only 30 (3.3%), not 70, because prices rise 10% along the upward-sloping SRAS. The multiplier gives the shift in AD. The slope of AS decides how much of it appears as output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-and-economic-activity-short-run-and-revision-notes--02-ad-shift-output.webp" width="900" height="1070" alt="AD Y=1300-4P and SRAS Y=600+3P meet at P=100, Y=900. AD shifts right by 70 to Y=1370-4P, giving P=110, Y=930. Output rises only 30 (3.3%) while prices rise 10%." loading="lazy">
+  <figcaption>The multiplier gives the AD shift; the slope of SRAS decides how much shows up as output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+
 ## 3.2.2.5 Determinants of short-run aggregate supply
 
 **Main determinants:** the price level and production costs.
@@ -113,6 +124,12 @@ Investment rises by 17.5 and the multiplier is 4, so AD shifts right by 70: Y = 
 **Chain.** Raw material prices rise, unit costs rise, SRAS shifts left, price level rises, output and employment fall.
 
 **Do not confuse:** lower SRAS costs from higher productivity can be temporary or lasting. A lasting rise in productivity is also a long-run effect (below).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## 3.2.2.6 Determinants of long-run aggregate supply
 
@@ -157,6 +174,17 @@ Price level
 From 800 to 900 output rises 12.5% and prices 8%. In the vertical section further AD raises only prices.
 
 **Keynesian curve versus vertical LRAS.** The Keynesian curve says the economy can settle below capacity for a long time, so raising AD is useful. The vertical LRAS view says demand cannot raise capacity output, so only supply-side change can. Say which view you use, and why it fits the evidence in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

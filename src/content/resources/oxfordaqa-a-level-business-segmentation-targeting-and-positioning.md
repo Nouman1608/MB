@@ -54,6 +54,12 @@ Segment: daily commuters (behavioural, by how they use bikes) living in the city
 Target: the 60,000 commuters, which is 15% of the city's cyclists.
 Position: the dependable, weatherproof commuter bike. Zennova prices it above basic bikes, fits a lock-ready frame and sells through its website and two city showrooms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
+
 
 ## 2. Segmentation methods
 
@@ -74,6 +80,17 @@ Points to keep straight:
 - Businesses often combine methods. Zennova used geographic and behavioural together.
 - Choose the method that matters for the product: ice cream and climate (geographic), a pension and age (demographic), a gym and visit frequency (behavioural), a sustainable fashion label and values (psychographic).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--05-segmentation-methods.webp" width="900" height="880" alt="Four tiles: geographic (where they live, ice cream and climate), demographic (age, gender, family; pension and age), behavioural (what they do as buyers; gym and visit frequency), psychographic (how they think and live; sustainable fashion and values). A fifth tile shows income as a separate method in 9625 only." loading="lazy">
+  <figcaption>Match the segmentation method to what matters for the product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
+
 ## 3. The value of market segmentation
 
 Segmentation lets a business stop treating customers as one lump. Its value:
@@ -84,6 +101,12 @@ Segmentation lets a business stop treating customers as one lump. Its value:
 - **Clearer decisions.** Once the groups are known, targeting and positioning have something to work from.
 
 The limits: research costs money, and segments can be too small to be profitable or too costly to serve separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--06-segment-target-value.webp" width="900" height="920" alt="A grid of 400 dots, each 1,000 cyclists. 60 teal dots are the 60,000 daily commuters, 15 per cent of 400,000 cyclists; the rest are grey. Aiming spend at the teal group gives better fit, less waste and gaps spotted." loading="lazy">
+  <figcaption>Segmenting lets spend go to the group most likely to buy.</figcaption>
+</figure>
+
 
 ## 4. Influences on choosing a target market and positioning
 
@@ -118,6 +141,12 @@ Mass: 400,000 x 2% = 8,000 bikes. Revenue 8,000 x 300 = 2,400,000. Contribution 
 
 Mass marketing earns more revenue (2,400,000 against 2,160,000) but the niche leaves far more after promotion (684,000 against 200,000). A 2% share is a forecast, not a fact, and the niche is only one city. A sound answer says the niche looks better on these figures and names what could change that.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--07-niche-or-mass-profit.webp" width="900" height="930" alt="Two stacked columns of contribution: niche 864,000 less promotion 180,000 leaves 684,000; mass 720,000 less 520,000 leaves 200,000. Mass has more revenue but the niche leaves far more." loading="lazy">
+  <figcaption>Mass marketing earns more revenue, but after promotion the niche leaves 684,000 against 200,000.</figcaption>
+</figure>
+
+
 ## 5. The value of targeting (listed separately in 9725)
 
 Targeting is the decision that turns segmentation into action. Its value:
@@ -139,6 +168,12 @@ The cost of targeting is what you give up: customers outside the target may be l
 | Mass | Large sales potential; scope for economies of scale and lower unit costs; wide brand awareness | Heavy competition; expensive promotion; the product may suit nobody perfectly; pressure on margins |
 
 Neither is right in itself. A niche suits a small firm with a clear point of difference; mass marketing suits a firm able to produce at scale and fund wide promotion. Whether a segment is "niche" depends on the whole market: 60,000 is niche against 400,000 but not against 5,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
 
 ## 7. Positioning, premium and budget (9725 wording)
 
@@ -163,6 +198,17 @@ Quality
 **Budget positioning**: a low price and good enough quality. It needs tight cost control and usually high volume. Margins per unit are thin, and rivals can copy a low price easily. Budget does not mean poor quality; it means customers see low-priced value.
 
 Positioning has to be consistent: a premium price in a discount store sends mixed signals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--07-premium-budget-map.webp" width="900" height="790" alt="A positioning map of price (low to high) against perceived quality. Premium is top right: high price signals quality or status, high margin and low volume. Budget is lower left: low price and good-enough quality, thin margin and high volume. The middle is often crowded." loading="lazy">
+  <figcaption>Premium and budget are positions on price and perceived quality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
 
 ## 8. Changing positioning: reasons and challenges (9725 wording)
 
@@ -192,6 +238,17 @@ Increase: 657,876, about 40%.
 
 At that rate the extra revenue would cover the 1,150,000 spend in about 21 months, ignoring the extra running costs of a premium hotel, so true payback is longer. Former budget guests may leave and business travellers may not accept the new image. A judgement should weigh the revenue gain against those risks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--08-reposition-payback.webp" width="900" height="930" alt="Two bars: budget revenue 1,625,856 and premium revenue 2,283,732, a rise of 657,876. The 1,150,000 refurbishment is repaid from extra revenue in about 21 months; true payback is longer." loading="lazy">
+  <figcaption>Extra revenue of 657,876 a year repays the 1,150,000 spend in about 21 months, before extra running costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--08-repositioning-challenges.webp" width="900" height="845" alt="A budget hotel is repositioned as premium for 1,150,000. Four challenges: cost of ads, packaging and training; alienating current customers; credibility of the new image; and a muddled image that may win neither group." loading="lazy">
+  <figcaption>Repositioning costs money and risks customers and credibility.</figcaption>
+</figure>
+
+
 ## 9. International markets (9625 wording)
 
 Targeting can also mean choosing to sell in another country. Treat each country as a possible target market and segment it in the usual ways.
@@ -201,6 +258,17 @@ Targeting can also mean choosing to sell in another country. Treat each country 
 **Potential difficulties:** differences in language, culture and tastes, so the product or message may need changing; unfamiliar customer behaviour and income levels; exchange rate movements that alter prices and profit; transport and distribution costs; unfamiliar rules and competitors; and the cost and risk of market research in an unknown market.
 
 Judgement: the case for going abroad is stronger when the home market is small or crowded and the firm has resources to adapt its product. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--09-international-benefits-difficulties.webp" width="900" height="866" alt="A globe above two columns. Benefits: bigger customer base, growth if home is saturated, risk spread, economies of scale, larger niche abroad. Difficulties: language and culture, tastes and incomes, exchange rates, transport costs, unfamiliar rules and rivals, research cost. The case is stronger when the home market is small or crowded and the firm can adapt." loading="lazy">
+  <figcaption>Weigh the benefits of other countries against the difficulties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
 
 ## Common errors
 

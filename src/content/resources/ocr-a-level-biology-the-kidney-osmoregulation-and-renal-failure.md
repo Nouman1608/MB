@@ -58,6 +58,17 @@ A nephron is the functional unit of the kidney.
 
 The afferent arteriole carries blood into the glomerulus and the efferent arteriole carries it out. The afferent is wider than the efferent. Blood leaving the efferent arteriole enters a second capillary network around the tubules, the peritubular capillaries, which take up reabsorbed substances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--02-nephron.webp" width="900" height="1090" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
+  <figcaption>The nephron runs from the glomerulus in the cortex, through the loop of Henle in the medulla, to the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--05-loop-of-henle.webp" width="900" height="1080" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
+  <figcaption>The ascending limb pumps out ions and the descending limb loses water, building a steep gradient that lets the collecting duct recover water.</figcaption>
+</figure>
+
+
 ## Ultrafiltration
 
 Ultrafiltration happens in the renal corpuscle. The glomerulus has a high hydrostatic pressure: the narrower efferent arteriole slows the exit of blood that the wider afferent arteriole delivers. Fluid and small solutes are forced out through three layers:
@@ -77,6 +88,12 @@ Net outward pressure = 7.4 − 1.9 − 3.3 = **2.2 kPa**. This is positive, so f
 GFR = (urine concentration × urine flow) ÷ plasma concentration = (0.90 × 1.5) ÷ 0.012 = **112.5 cm³ min⁻¹**.
 
 Reabsorbed each minute = 112.5 − 1.5 = 111 cm³, which is 111 ÷ 112.5 × 100 = **98.7%** of the filtrate. Per day the filtrate is 112.5 × 60 × 24 = 162 000 cm³ (162 dm³).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
 
 ## Selective reabsorption and the production of urine
 
@@ -102,6 +119,12 @@ Unabsorbed glucose holds water in the tubule by osmosis, so urine volume rises.
 
 To make urine more concentrated than blood, the kidney builds a very low water potential in the medulla. Ions are actively pumped out of the ascending limb into the medulla, and that limb is not permeable to water. Water leaves the descending limb by osmosis. The collecting duct then passes through the medulla, so if its walls are permeable, water leaves by osmosis down a water potential gradient. Longer loops give more concentrated urine, which suits animals of dry places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
+
 ## Control of blood water potential by ADH
 
 This is a negative feedback loop.
@@ -113,6 +136,27 @@ This is a negative feedback loop.
 5. More water leaves the collecting duct by osmosis and enters the blood, leaving a small volume of concentrated urine.
 
 When blood water potential is high, less ADH is released, the walls stay less permeable and a large volume of dilute urine is produced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
 
 ## Kidney failure and its treatment
 

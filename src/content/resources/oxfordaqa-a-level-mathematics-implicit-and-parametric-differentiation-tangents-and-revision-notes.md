@@ -55,6 +55,12 @@ Tangent: y − 3 = (3/4)(x − 1)   →  3x − 4y + 9 = 0
 Normal:  y − 3 = −(4/3)(x − 1)  →  4x + 3y = 13
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--09-implicit-flat-vertical.webp" width="900" height="1084" alt="The tilted ellipse x squared minus xy plus y squared = 12, drawn from its equation. Implicit differentiation gives dy/dx = (y minus 2x) over (2y minus x). The numerator is zero when y = 2x, giving horizontal tangents (teal) at (2, 4) and (minus 2, minus 4). The denominator is zero when x = 2y, giving vertical tangents (copper) at (4, 2) and (minus 4, minus 2)." loading="lazy">
+  <figcaption>Horizontal tangents occur where the numerator of dy/dx is zero and vertical tangents where the denominator is zero.</figcaption>
+</figure>
+
+
 ## Method: parametric differentiation
 
 1. Differentiate x and y with respect to the parameter. Show both.
@@ -70,6 +76,12 @@ dy/dx = (3t² − 6)/(4t)  →  at t = 2:  6/8 = 3/4
 Point: x = 1 + 8 = 9,  y = 8 − 12 = −4
 Normal gradient −4/3:  y + 4 = −(4/3)(x − 9)  →  4x + 3y = 24
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp" width="900" height="967" alt="The curve x = t squared + 2t, y = t cubed minus 3t, drawn with equal scales. At t = 2 the point is (8, 2). Its horizontal rate dx/dt = 6 and vertical rate dy/dt = 9 form a right triangle whose slope is the gradient dy/dx = 9 over 6 = 3 over 2. The gold tangent has that gradient and the teal normal has gradient minus two thirds. Grey dots mark t = minus 1, 0 and 1." loading="lazy">
+  <figcaption>At t = 2 the gradient is dy/dt ÷ dx/dt = 9/6, with the normal gradient −2/3.</figcaption>
+</figure>
+
 
 ## Method: general point
 
@@ -174,6 +186,12 @@ For a general-point question, keep the letter p or φ throughout and clear fract
 - Taking a point that is not on the curve.
 - In a general-point proof, stopping before the final form shown in the question. Show the identity step that gets you there.
 - Calling a point a horizontal tangent when both numerator and denominator are zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--04-tangent-and-normal.webp" width="900" height="942" alt="Graph of y = square root of (2x + 5) with equal scales on both axes. At P(2, 3) the gradient is one third, so the gold tangent is 3y = x + 7. The teal normal is perpendicular, with gradient minus 3, y = 9 minus 3x, and crosses the x-axis at (3, 0). A right-angle mark at P shows the lines are perpendicular because one third times minus 3 equals minus 1." loading="lazy">
+  <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

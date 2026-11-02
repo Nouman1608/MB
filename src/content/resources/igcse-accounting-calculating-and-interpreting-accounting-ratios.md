@@ -88,6 +88,27 @@ The syllabus says the formulas in its ratio list are the only ones accepted in a
 
 This guide gives every answer to 2 decimal places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+
 ## 2. Worked example: Ferndale Paints Limited
 
 Ferndale Paints Limited is a paint wholesaler with a 30 September year end. From October 2025 it won lower prices from its main supplier, kept selling prices unchanged, opened an online shop and tightened inventory control. It allows trade customers 45 days to pay and receives 60 days' credit from suppliers. Credit sales were 480,000 (2025) and 552,000 (2026); credit purchases were 296,000 and 330,000. In 2026 it borrowed a further 40,000 at 7%, bought vehicles and equipment, and paid dividends of 25,000. Depreciation of 45,000 is included in the 2026 expenses. All figures are in $.
@@ -160,6 +181,12 @@ Put the years side by side with the change in each line.
 
 Profit for the year fell by 1,800 even though gross profit rose by 47,000: 47,000 + 0 - 46,000 - 2,800 = -1,800.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--08-ratios-profit-bridge.webp" width="900" height="785" alt="From profit 72,400 in 2025, gross profit adds 47,000, expenses deduct 46,000 and loan interest deducts 2,800, giving 70,600." loading="lazy">
+  <figcaption>Profit for the year can fall even when gross profit rises.</figcaption>
+</figure>
+
+
 ## 4. Interpreting the ratios
 
 Write each comment in three parts: the ratio with both figures, the reason from the scenario, and what it means for the business.
@@ -172,6 +199,22 @@ Write each comment in three parts: the ratio with both figures, the reason from 
 - **Trade receivables days** rose from 47.15 to 63.48, against 45 allowed. Customers are 18.48 days over the terms.
 - **Trade payables days** rose from 41.93 to 56.41, against 60 allowed. Ferndale is paying later, which helps cash, but it is now close to the limit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--10-ratios-scorecard.webp" width="900" height="1040" alt="Ten Ferndale ratios for 2025 and 2026 with an arrow for rise or fall and a verdict: better, worse or watch (payables days)." loading="lazy">
+  <figcaption>See at a glance which ratios improved and which worsened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--11-ratios-days-vs-terms.webp" width="900" height="915" alt="Receivable days rose from 47.15 to 63.48 against 45 allowed (18.48 over). Payable days rose from 41.93 to 56.41 against 60 allowed (3.59 inside). Inventory days fell from 50.69 to 46.64." loading="lazy">
+  <figcaption>Compare actual days with the credit terms in the scenario.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## 5. Suggestions and recommendations
 
 Match each suggestion to the weak ratio and say what it should change.
@@ -179,6 +222,12 @@ Match each suggestion to the weak ratio and say what it should change.
 - **Profitability.** Expenses grew 27.38% against revenue growth of 15.00%. Review the online shop's advertising and delivery costs, charge for delivery and keep the supplier's lower prices. Raising prices on popular lines lifts the gross profit margin.
 - **Liquidity.** Collect from customers within 45 days: send statements promptly, chase accounts that are overdue and offer a cash discount for early payment. At 45 days, trade receivables would be about 68,055, which is 27,945 less than 96,000.
 - **Working capital.** Keep inventory low by ordering what sells. Pay suppliers within the 60 days, not earlier, but not so late that they withdraw credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--10-ratios-collect-in-45-days.webp" width="900" height="930" alt="Trade receivables of 96,000 (63.48 days) would be about 68,055 at 45 days (552,000 x 45 / 365), releasing 27,945 of cash." loading="lazy">
+  <figcaption>Collecting in 45 days would free about 27,945.</figcaption>
+</figure>
+
 
 ## 6. Profit indicators: what changes gross profit and profit for the year
 
@@ -195,6 +244,12 @@ Starting from Ferndale's 2026 figures, four causes change gross profit as follow
 | 10% more units, same prices and costs | 759,000 | 443,300 | 315,700 | 41.59% |
 
 Closing inventory reduces cost of sales, so an overvalued figure inflates gross profit and profit for the year equally. More units raise gross profit, not the margin. Profit for the year = gross profit + other income - expenses - interest, so it can fall while gross profit rises, as at Ferndale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-gp-causes.webp" width="900" height="1010" alt="Ferndale 2026 gross profit and margin under four causes: reported 287,000 (41.59%); inventory 4,000 too high 291,000 (42.17%); prices 5% higher 321,500 (44.38%); purchases 3% dearer 275,120 (39.87%); 10% more units 315,700 (41.59%)." loading="lazy">
+  <figcaption>Four causes change gross profit differently; more units leave the margin unchanged.</figcaption>
+</figure>
+
 
 ## 7. Why cash and profit differ
 
@@ -215,6 +270,12 @@ Change in bank balance                              -5,000
 ```
 
 Other reasons include capital introduced, drawings, irrecoverable debts and expenses or income paid or received in a different year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-cash-bridge.webp" width="900" height="926" alt="A waterfall runs from profit 70,600 through depreciation, asset purchases, working capital, dividends and the new loan to a change in bank of -5,000." loading="lazy">
+  <figcaption>Profit and cash differ because of non-cash costs, asset purchases, working capital, dividends and loans.</figcaption>
+</figure>
+
 
 ## Common errors
 

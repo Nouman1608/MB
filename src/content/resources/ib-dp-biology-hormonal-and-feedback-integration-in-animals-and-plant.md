@@ -49,6 +49,12 @@ The pineal gland, a small endocrine gland in the brain, secretes the hormone mel
 
 Melatonin is not a switch. Rising levels signal night and promote sleepiness, and falling levels near dawn help waking. The result is a roughly 24-hour **circadian rhythm** of sleeping and waking, reset each day by light. Jet lag occurs because the melatonin cycle takes days to shift to new local daylight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--01-melatonin-sleep-wake.webp" width="900" height="1010" alt="Light detected by the eyes is relayed to the hypothalamus, which controls the pineal gland; bright light suppresses melatonin. The graph shows melatonin low by day, rising in the evening, peaking at about 02:00 and falling towards morning." loading="lazy">
+  <figcaption>Melatonin follows a daily rhythm that light resets.</figcaption>
+</figure>
+
+
 ## C3.1.12 Epinephrine and vigorous activity
 The adrenal glands, one above each kidney, secrete epinephrine (adrenaline) into the blood when the body must act quickly. Because it travels in the blood, it reaches many target cells at once, and every effect supports intense muscle contraction:
 
@@ -60,6 +66,12 @@ The adrenal glands, one above each kidney, secrete epinephrine (adrenaline) into
 
 **Worked example.** Cardiac output = heart rate × stroke volume. At rest a person has a heart rate of 64 beats per minute and a stroke volume of 75 cm³, so cardiac output is 64 × 75 = 4800 cm³ min⁻¹. During a sprint, heart rate is 150 and stroke volume 112 cm³, giving 16 800 cm³ min⁻¹. That is 3.5 times the resting value, a rise of (16 800 − 4800) / 4800 × 100 = 250%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--02-epinephrine-effects.webp" width="900" height="1120" alt="The adrenal glands, above the kidneys, release epinephrine. Labelled effects: pupils dilate, bronchioles widen, liver converts glycogen to glucose, heart rate and stroke volume rise, gut and skin vessels narrow, muscle vessels widen. Cardiac output rises from 4800 to 16 800 cm3 per minute." loading="lazy">
+  <figcaption>Every effect of epinephrine supports muscle contraction.</figcaption>
+</figure>
+
+
 ## C3.1.13 Hypothalamus and pituitary
 The **hypothalamus** links the nervous and endocrine systems. It receives nervous input and monitors blood, then controls the **pituitary gland** hanging below it. You need a general understanding only, not the differences between the anterior and posterior lobes.
 
@@ -67,6 +79,12 @@ The **hypothalamus** links the nervous and endocrine systems. It receives nervou
 - Pituitary hormones may act directly on a target (antidiuretic hormone on the kidney) or control another gland (thyroid-stimulating hormone on the thyroid).
 
 Example: when thyroxine in the blood falls, the hypothalamus releases more thyrotropin-releasing hormone. The pituitary then releases more thyroid-stimulating hormone, and the thyroid secretes more thyroxine. Rising thyroxine inhibits the hypothalamus and pituitary, which is negative feedback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--03-hypothalamus-pituitary-thyroid.webp" width="900" height="1000" alt="The hypothalamus releases TRH, which makes the pituitary release TSH, which makes the thyroid secrete thyroxine. Rising thyroxine inhibits the hypothalamus and pituitary, which is negative feedback." loading="lazy">
+  <figcaption>The thyroxine loop is a worked example of negative feedback.</figcaption>
+</figure>
+
 
 ## C3.1.14 Heart rate: baroreceptors and chemoreceptors
 The heart beats without nervous input, but its rate and force are adjusted by the **medulla oblongata** in the brainstem.
@@ -84,12 +102,24 @@ Sensory neurons carry impulses to the medulla, which sends impulses along nerves
 
 **Worked example.** An ECG shows 0.80 s between successive R waves at rest. Heart rate = 60 / 0.80 = 75 beats per minute. After a sprint the interval is 0.60 s, so heart rate = 60 / 0.60 = 100 beats per minute, a 33% increase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--04-heart-rate-feedback.webp" width="900" height="1110" alt="Baroreceptors and chemoreceptors in or beside arteries send impulses to the medulla. The medulla signals the heart along sympathetic nerves, which raise rate and force, and the vagus nerve, which lowers rate. Three summaries link pressure and CO2 changes to the response." loading="lazy">
+  <figcaption>The medulla balances sympathetic and vagus input to the heart.</figcaption>
+</figure>
+
+
 ## C3.1.15 Ventilation rate and chemoreceptors
 Cells produce carbon dioxide in respiration. It dissolves in blood plasma and forms carbonic acid, which releases hydrogen ions, so more carbon dioxide means lower blood pH. Anaerobic respiration adds lactate, which also lowers pH.
 
 Chemoreceptors in the brainstem detect the fall in pH and send impulses to the ventilation centre in the medulla. The medulla signals the diaphragm and intercostal muscles to contract faster and harder, so ventilation rate and depth rise. More carbon dioxide leaves in exhaled air, blood pH rises and the stimulus is removed: negative feedback. A fall in carbon dioxide gives the opposite response. Chemoreceptors in arteries also contribute.
 
 **Worked example.** Ventilation rate (volume per minute) = tidal volume × breaths per minute. At rest, 0.5 dm³ × 14 = 7.0 dm³ min⁻¹. In hard exercise, 2.1 dm³ × 32 = 67.2 dm³ min⁻¹, which is 9.6 times higher.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--05-ventilation-feedback.webp" width="900" height="1090" alt="A rise in CO2 lowers blood pH, chemoreceptors detect it and the medulla speeds the diaphragm and intercostal muscles, so more CO2 is exhaled and pH rises: negative feedback. Ventilation rate rises from 7.0 to 67.2 dm3 per minute (9.6 times)." loading="lazy">
+  <figcaption>Breathing speeds up to remove CO2 and restore pH.</figcaption>
+</figure>
+
 
 ## C3.1.16 Peristalsis
 Peristalsis is a wave of muscle contraction that pushes food along the gut. Circular muscle contracts behind the food and longitudinal muscle shortens the segment, while the region ahead relaxes.
@@ -98,6 +128,12 @@ Peristalsis is a wave of muscle contraction that pushes food along the gut. Circ
 - **Involuntary (ENS):** between these points the **enteric nervous system**, a network of neurons in the gut wall, detects stretch and coordinates the waves without conscious thought.
 
 The ENS makes sure contractions occur in the right order so food moves one way, not back and forth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--06-peristalsis.webp" width="900" height="810" alt="Circular muscle contracts behind the food and relaxes ahead, with longitudinal muscle in the outer layer, so food moves one way. The CNS controls starting a swallow and egestion; the ENS coordinates the waves between." loading="lazy">
+  <figcaption>Peristalsis is a wave of contraction, mostly under enteric nervous system control.</figcaption>
+</figure>
+
 
 ## C3.1.17 Observing tropic responses (HL only)
 A **tropism** is a directional growth response to a directional stimulus. To observe it, place seedlings in a box with a light slit on one side. Record **qualitative** observations as labelled diagrams: which way each shoot has bent and whether it did so below the tip. Record **quantitative** data too, by taking the **angle of curvature** from a photograph with a protractor.
@@ -108,6 +144,12 @@ Precision falls if the protractor is read coarsely or a curved shoot is hard to 
 
 ## C3.1.18 Positive phototropism (HL only)
 Positive phototropism is growth of a shoot towards light. With lateral light, cells on the shaded side elongate more than those on the lit side, so the shoot bends towards the source. The bend happens in the growing zone just below the tip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--07-phototropism.webp" width="900" height="830" alt="With lateral light, shaded-side cells in the growing zone below the tip hold more auxin and elongate more than lit-side cells, so the shoot bends towards the light." loading="lazy">
+  <figcaption>Unequal elongation bends the shoot towards the light.</figcaption>
+</figure>
+
 
 ## C3.1.19 Phytohormones (HL only)
 **Phytohormones** are signalling chemicals made in small amounts in plant tissues. They control growth, development and responses to stimuli. Several different chemicals do this:
@@ -128,6 +170,12 @@ Auxin stimulates proton pumps in the cell surface membrane. Hydrogen ions are se
 
 **Worked example.** Stem segments of initial length 10.0 mm were placed in solutions for six hours. Final lengths: pH 7 buffer, 10.8 mm; pH 4.5 buffer, 12.6 mm; pH 7 buffer with auxin, 12.4 mm. Percentage increases are 8.0%, 26.0% and 24.0%. Auxin at pH 7 gives almost the same growth as acid alone, which supports the idea that auxin acts by acidifying the wall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--08-auxin-acid-growth.webp" width="900" height="1060" alt="Auxin enters from the acidic wall space and is trapped in the cytoplasm; it leaves through a PIN efflux carrier. Auxin stimulates a proton pump, hydrogen ions acidify the wall, cross-links loosen, water enters by osmosis and turgor stretches the wall so the cell elongates." loading="lazy">
+  <figcaption>Auxin acidifies the wall, loosens it and lets turgor stretch the cell.</figcaption>
+</figure>
+
+
 ## C3.1.22 Auxin and cytokinin (HL only)
 Shoot tips make auxin, which is transported down towards the roots. Root tips make cytokinin, which is transported up to the shoots. Each organ therefore receives a chemical signal about the other. Their interaction coordinates the two systems: for example, auxin from the shoot tip inhibits growth of lateral buds, while cytokinin from the roots opposes this and promotes lateral bud growth. A balance between them helps match shoot growth to root growth.
 
@@ -135,6 +183,12 @@ Shoot tips make auxin, which is transported down towards the roots. Root tips ma
 Ethylene (IUPAC name ethene, C₂H₄) is a gas that stimulates ripening: chlorophyll breaks down, starch becomes sugar, cell walls soften, and colour and aroma develop. Ripening in turn increases ethylene production. This is **positive feedback**.
 
 **Worked example.** Ethylene production (µl kg⁻¹ h⁻¹) in one fruit on days 0 to 8 was 0.1, 0.2, 0.5, 1.8, 6.0, 14.0, 22.0, 24.0, 23.0. Production rose 220-fold from day 0 to day 6, then levelled off. The benefit is that ripening becomes fast and synchronised, because ethylene diffuses to neighbouring fruit, so seeds are available to dispersers at the same time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--09-ethylene-ripening.webp" width="900" height="1150" alt="Ripening raises ethylene production and ethylene speeds ripening: positive feedback. Production rises 220-fold from day 0 to day 6 then levels off, and the gas spreads to neighbouring fruit so they ripen together." loading="lazy">
+  <figcaption>Ethylene and ripening reinforce each other.</figcaption>
+</figure>
+
 
 ## Common errors
 - Saying melatonin "makes you sleep" without linking it to darkness and the circadian rhythm.

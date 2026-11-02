@@ -69,6 +69,22 @@ A firm's **market share** is its sales as a percentage of total sales in the mar
 
 Compare 60 tomato stalls of equal size: 100 ÷ 60 = **1.7%** each. Cement is dominated by a few producers. Tomatoes are not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--01-ms-spectrum.webp" width="900" height="850" alt="Four example markets are placed on a range from competitive to single producer, with the number of producers, differentiation and ease of entry for each." loading="lazy">
+  <figcaption>Use all three factors to place a market on the range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--09-product-differentiation.webp" width="900" height="890" alt="Identical tomatoes are close substitutes, so a dearer stall loses buyers. Differently shaped branded bakery products look distinct and keep some loyal buyers, yet that market is still competitive." loading="lazy">
+  <figcaption>Differentiation makes buyers see a product as distinct from rivals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
+
 ## 3.1.5.2 Competitive markets
 
 ### What a competitive market is
@@ -98,6 +114,12 @@ A firm that charges more than its rivals loses customers. So producers in a comp
 **Producers** face pressure. Margins are thin, costs must be controlled, and weaker firms may leave the market. Efficient firms survive.
 
 **Workers** are affected in two ways. Many employers competing for staff can mean more job openings and better chances of a pay rise. But firms squeezed on price may hold wages down, cut hours or close, so jobs can be less secure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ### Why profits are likely to be lower
 
@@ -133,6 +155,27 @@ Take two markets where every firm has a cost of Z10 per unit and sells 1,000 uni
 
 Evaluation: equal costs are an assumption. A dominant firm may have lower costs because of its size. The gap shows the direction of the effect, not an exact rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--02-ms-entry-erosion.webp" width="900" height="790" alt="Bars show a tomato seller's daily profit shrinking from Z225 to zero as the price falls from Z5.50 to Z4.00 when more stalls open." loading="lazy">
+  <figcaption>Where entry is easy, high profit attracts rivals until little is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--03-ms-same-cost.webp" width="900" height="810" alt="Two stacked bars with equal cost show a profit of Z1,000 in a competitive market (price Z11) and Z5,000 in a market dominated by three firms (price Z15)." loading="lazy">
+  <figcaption>With equal costs, the dominated market earns a much higher margin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--04-ms-price-war.webp" width="900" height="810" alt="Grouped bars show three oligopoly firms' profits: Z3,000 each at the start, Z3,200 for the firm that cuts its price while rivals hold, then Z2,200 each when all cut." loading="lazy">
+  <figcaption>When rivals match a price cut, every firm earns less than before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--05-ms-scale.webp" width="900" height="880" alt="A falling average cost curve against a Z40 price shows a loss at 20,000 tonnes and a Z1,000,000 profit at 80,000 tonnes." loading="lazy">
+  <figcaption>Only the large plant earns a profit at the market price.</figcaption>
+</figure>
+
+
 ## 3.1.5.3 Non-competitive markets
 
 ### What a non-competitive market is
@@ -150,6 +193,12 @@ Prices tend to be higher and choice narrower than in a competitive market, becau
 ### Monopoly
 
 A **monopoly** is a market with a single producer. People also use the word, loosely, for a firm with a very large share of the market. Such a firm is better described as having **monopoly power**. Either way, the firm faces little or no direct rivalry and can influence the price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--08-ferry-monopoly-fare.webp" width="900" height="990" alt="The fare rises 30% from Z40 to Z52 while passengers fall 8% from 10,000 to 9,200, so revenue rises 19.6% from Z400,000 to Z478,400. A rival then cuts the fare to Z42." loading="lazy">
+  <figcaption>With few alternatives a monopoly ferry raises revenue by raising its fare.</figcaption>
+</figure>
+
 
 ### Worked example 4: a monopoly raises its fare
 
@@ -188,6 +237,12 @@ Everyone now earns less than the original Z3,000, a fall of 800 ÷ 3,000 × 100 
 | Mergers and takeovers | The number of producers falls |
 | Successful growth | A firm that keeps winning customers can come to dominate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--10-sources-of-market-power.webp" width="900" height="950" alt="A wall of barriers keeps small firms from a few big firms: start-up costs, economies of scale, patents and licences, brand loyalty and control of supplies. Mergers reduce producers and successful growth builds dominance." loading="lazy">
+  <figcaption>Barriers to entry, mergers and growth give a few firms market power.</figcaption>
+</figure>
+
+
 ### Worked example 6: scale creating dominance
 
 A cement plant has fixed costs of Z600,000 a month and variable costs of Z20 per tonne. The market price is Z40.
@@ -208,6 +263,12 @@ At that price only the large plant survives. Scale lets it dominate, and it coul
 | Smaller rivals | Squeezed out or kept out | Some survive in niches |
 
 Strong answers build a chain and then judge it. Example: high start-up costs → few entrants → little pressure on existing firms → they can raise prices without losing many customers → consumers pay more and choose from less. Then ask how far it holds. It depends on how high the barriers are, whether the firm fears new entrants, whether cost savings are passed on, and whether rules limit its behaviour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--11-market-power-consequences.webp" width="900" height="910" alt="For consumers, the dominant firm and smaller rivals, each has a possible harm and a possible benefit; the balance depends on barrier height, fear of entrants and savings passed on." loading="lazy">
+  <figcaption>Market power can harm or help consumers, the dominant firm and rivals.</figcaption>
+</figure>
+
 
 ## Common errors
 

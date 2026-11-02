@@ -103,6 +103,27 @@ total revenue. Price elasticity of supply follows the same logic applied to prod
 consumers, and is influenced heavily by how quickly a firm can change output — a key factor examined
 alongside the calculation itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--02-tax-incidence.webp" width="900" height="920" alt="A tax of 2 per unit shifts supply up by 2 in both diagrams. With steep (inelastic) demand buyers pay about 71% of the tax; with flat (elastic) demand they pay about 33% and sellers absorb the rest. The price rise is less than the full tax." loading="lazy">
+  <figcaption>The more inelastic demand is, the more of an indirect tax passes to the consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
+
 ## Externalities — costs and benefits beyond the immediate transaction
 
 A negative externality (such as pollution from a factory) means the private cost of production is
@@ -114,6 +135,12 @@ specification requires these definitions, real-world examples, and the two formu
 marginal-cost diagram — the marginal social cost/marginal private cost diagram showing the welfare
 loss triangle is A Level marginal analysis, beyond what this qualification requires, so treat any
 such diagram as an optional extension rather than assessed content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

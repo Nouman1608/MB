@@ -55,6 +55,12 @@ Plants make organic compounds from carbon dioxide. Most of the sugar is used as 
 
 For consumers, the energy in I ends up in one of three places: faeces and urine (F), heat from respiration (R), or new biomass (N). The three must add up to I. Use that as a check on any answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Dry mass to biomass per area**
@@ -74,6 +80,12 @@ For consumers, the energy in I ends up in one of three places: faeces and urine 
 1. Put both energy values in the same unit, area and time.
 2. Divide the amount in the next level by the amount available.
 3. Multiply by 100 and round sensibly, in line with the data given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -113,6 +125,12 @@ For consumers, the energy in I ends up in one of three places: faeces and urine 
 | Warm housing | Less energy spent keeping body temperature constant | Cost of heating |
 
 Both groups serve the same aim: put more energy into human food. The first two simplify food webs to reduce energy losses to non-human food chains. The last two reduce respiratory losses within a human food chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
+</figure>
+
 
 ## Quick self-test
 

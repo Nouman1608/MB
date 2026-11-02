@@ -76,6 +76,27 @@ Mg + 2HCl → MgCl₂ + H₂. Check: Mg 1 = 1, H 2 = 2, Cl 2 = 2.
 Worked reminder: Na → Na⁺ + e⁻ (electron lost, written on the right). Br₂ + 2e⁻ → 2Br⁻ (electrons gained,
 written on the left).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--04-counting-atoms.webp" width="900" height="1160" alt="Na2CO3 has 6 atoms. In Mg(NO3)2 the 2 multiplies the bracket, giving 9 atoms. 4Al + 3O2 -&gt; 2Al2O3 has 4 Al and 6 O each side." loading="lazy">
+  <figcaption>Count atoms inside brackets and balance with big numbers only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--01-naming-compounds.webp" width="900" height="970" alt="Rules for naming: a lone non-metal ends in -ide (chloride, oxide, sulfide); groups keep names (carbonate, sulfate, nitrate, hydroxide). Na2CO3 is sodium carbonate with 6 atoms; Mg(NO3)2 is magnesium nitrate with 9 atoms." loading="lazy">
+  <figcaption>Metal first, then non-metal; -ide endings and group names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+
 ## 4.1.1.2 Mixtures
 
 A **mixture** is two or more elements or compounds **not chemically combined**. Each keeps its own chemical
@@ -108,6 +129,17 @@ properties. Separation is **physical**: no reaction, no new substance.
 | Properties of each part kept | New properties |
 | Separated by physical processes | Separated only by chemical reactions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
+
 ## 4.1.1.3 The model of the atom
 
 ```
@@ -125,6 +157,17 @@ indivisible spheres
   outside it and mostly empty space.
 - Bohr's calculations agreed with experimental observations. You do not need the details of Bohr's or
   Chadwick's experiments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--01-plum-pudding-vs-nuclear.webp" width="900" height="1090" alt="Alpha particles fired at one atom. With plum pudding positive charge spread out, every path bends only a few degrees. With a tiny nucleus most pass straight, some deflect and a few bounce back. Large deflections were seen, so the model was replaced." loading="lazy">
+  <figcaption>Scattering results fit a concentrated nucleus, not a spread-out positive charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
 
 ## 4.1.1.4 and 4.1.1.5 Particles, size and mass
 
@@ -163,6 +206,17 @@ Worked reminder: ²⁴₁₂Mg²⁺ has 12 protons, 24 - 12 = 12 neutrons and 12
 | Isotope vs ion | Different neutrons (still neutral) vs different electrons (charged) |
 | Nucleus vs shells | Protons and neutrons, almost all the mass vs electrons, very little mass |
 | Simple vs fractional distillation | Solvent from a solution vs liquids that mix with different boiling points |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--02-atomic-size-and-scale.webp" width="900" height="1050" alt="A 1 mm line holds 5 x 10^6 atoms of 0.2 nm. The nucleus radius is about 1 x 10^-14 m, under 1/10 000 of the atom radius. A 10 m model atom would have a 1 mm nucleus." loading="lazy">
+  <figcaption>Atoms are tiny and the nucleus is tinier still.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
 
 ## 4.1.1.6 Relative atomic mass
 
@@ -243,6 +297,12 @@ Check the percentages add up to 100 before you start; if one is missing, it is 1
   specific distances.
 - Subtracting the charge the wrong way for negative ions: a 2- ion has two **more** electrons than protons.
 - Giving Ar as a whole number when the data give a decimal, or forgetting to divide by 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--03-ionic-and-half-equations.webp" width="900" height="1100" alt="HCl with NaOH: Na+ and Cl- are spectators, leaving H+ + OH- -&gt; H2O. Potassium loses an electron, K -&gt; K+ + e-; chlorine gains two, Cl2 + 2e- -&gt; 2Cl-. Atoms and charge balance." loading="lazy">
+  <figcaption>Spectator ions are left out and half equations balance atoms and charge.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

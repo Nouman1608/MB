@@ -58,6 +58,17 @@ Phenol reacts the same way to give a phenyl ester (phenyl benzoate is the syllab
 
     C₆H₅COCl + C₆H₅OH → C₆H₅COOC₆H₅ + HCl
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-alcohols-and-phenol-revision-notes--02-alcohol-acyl-chloride-ester.webp" width="900" height="880" alt="Skeletal formulae show ethanoyl chloride and ethanol reacting at room temperature without catalyst to give ethyl ethanoate and HCl (steamy fumes). The new C-O bond is highlighted." loading="lazy">
+  <figcaption>Ethanol and ethanoyl chloride give ethyl ethanoate and HCl at room temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-alcohols-and-phenol-revision-notes--03-ester-two-routes.webp" width="900" height="960" alt="Two lanes compare the routes to the ester. Acyl chloride: room temperature, no catalyst, vigorous, one-way, high yield, HCl by-product. Carboxylic acid: heat with conc. H2SO4, slow, reversible, yield limited, H2O by-product." loading="lazy">
+  <figcaption>Acyl chlorides give a fast one-way reaction; carboxylic acids give a slow equilibrium.</figcaption>
+</figure>
+
+
 ## Producing phenol (32.2.1)
 
 **Step 1, diazotisation:** phenylamine with **HNO₂** (made from **NaNO₂ and dilute HCl**) **below 10 °C**
@@ -72,6 +83,12 @@ gives benzenediazonium chloride.
 
 Below 10 °C keeps the diazonium salt from decomposing while it is made; warming is then used on purpose to
 decompose it into phenol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-alcohols-and-phenol-revision-notes--02-phenol-from-phenylamine.webp" width="900" height="990" alt="Phenylamine is treated with NaNO2 and dilute HCl below 10 C to give benzenediazonium chloride, then warmed with water to give phenol and nitrogen gas." loading="lazy">
+  <figcaption>Keep it below 10 C to make the diazonium salt; warm it on purpose to make phenol.</figcaption>
+</figure>
+
 
 ## Reactions of phenol (32.2.2)
 
@@ -98,6 +115,17 @@ extended delocalised system absorbs visible light, so azo compounds are coloured
 **Phenol gives no CO₂ with carbonates:** it is too weak an acid to release CO₂ from Na₂CO₃ or NaHCO₃, so
 there is no effervescence. This distinguishes phenol from carboxylic acids.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-alcohols-and-phenol-revision-notes--03-azo-coupling.webp" width="900" height="800" alt="Benzenediazonium ion couples at the 4-position of phenoxide in NaOH(aq) below 10 C. The product 4-hydroxyazobenzene has an N=N azo link and is yellow or orange." loading="lazy">
+  <figcaption>The diazonium ion attacks the 4-position of phenoxide to give a coloured azo compound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-alcohols-and-phenol-revision-notes--01-phenol-bromine-water.webp" width="900" height="1100" alt="Phenol reacts with Br2(aq) at room temperature with no catalyst. Bromine replaces H at positions 2, 4 and 6 to give 2,4,6-tribromophenol and 3HBr. The orange bromine water is decolourised and a white precipitate forms. Benzene needs AlBr3 and takes one Br only." loading="lazy">
+  <figcaption>Phenol decolourises bromine water and gives a white precipitate of 2,4,6-tribromophenol.</figcaption>
+</figure>
+
+
 ## Acidity of phenol (32.2.3 and 32.2.4)
 
 Phenol is a **weak acid**; it partly dissociates in water:
@@ -123,6 +151,12 @@ Evidence: all three react with sodium to give hydrogen, but only phenol (not eth
     2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂
     C₂H₅OH + NaOH → no significant reaction
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-alcohols-and-phenol-revision-notes--01-phenol-acidity.webp" width="900" height="1020" alt="Three panels compare the anion left when phenol, water and ethanol lose H+. The charge in phenoxide spreads into the ring (light cloud, strongest acid); in hydroxide it stays on O; in ethoxide the ethyl group intensifies it (dense cloud, weakest acid). Gauge: phenol &gt; water &gt; ethanol." loading="lazy">
+  <figcaption>Phenol &gt; water &gt; ethanol: the more stable the anion, the stronger the acid.</figcaption>
+</figure>
+
+
 ## Ring reactivity and directing effect (32.2.5 and 32.2.6)
 
 **Why phenol reacts under milder conditions than benzene:** a lone pair on the O of –OH overlaps with the
@@ -139,6 +173,12 @@ The electron-rich ring can polarise Br₂ by itself, so no halogen carrier is ne
 source (dilute HNO₃) is enough for nitration.
 
 **Directing effect:** the –OH group directs incoming groups to the **2-, 4- and 6-positions**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
 
 ## Other phenolic compounds (32.2.7)
 

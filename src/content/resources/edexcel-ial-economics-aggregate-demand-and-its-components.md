@@ -63,6 +63,22 @@ C is household consumption, I is investment by firms, G is government spending o
 
 A rise in the price level from 100 to 110 moves you from 1,000 to 960 on the first column. The confidence boost adds 40 at every price level, so the curve shifts right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--01-ad-country-a.webp" width="900" height="796" alt="Waterfall of Country A: C 620, I 150, G 210 and net trade −20 give AD 960. Exports rising by 20 lifts AD to 980, a rise of 2.08%." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M) gives 960, and 980 after exports rise by 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-aggregate-demand-and-aggregate-supply-analysis--13-ad-slope-reasons.webp" width="900" height="890" alt="A lower price level raises the quantity of real output demanded through three effects: the wealth effect (savings worth more), the interest rate effect (lower rates, more borrowing) and the international trade effect (exports up, imports down). It is not substitution between goods." loading="lazy">
+  <figcaption>AD slopes down because of the wealth, interest rate and international trade effects.</figcaption>
+</figure>
+
+
 ## 2 Consumption (C)
 
 **Influences on C (2.3.2 item 2a).** Each needs a chain of reasoning:
@@ -103,6 +119,12 @@ savings ratio = (savings ÷ disposable income) × 100
 - Longer run: more funds for banks to lend, which can lower interest rates and support I.
 - Evaluation: the effect depends on how big the rise is, whether the economy has spare capacity, whether savings are lent on to firms (and firms want to borrow), and how long the change lasts. A rise in saving for a stretch of years during a recession may deepen it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--02-savings-ratio.webp" width="900" height="810" alt="Stacked bars of income split into spent and saved: 7.0% saved in year 1 and 10.0% in year 2. Income rises 5.0% but consumption only 1.61%." loading="lazy">
+  <figcaption>A higher savings ratio means consumption grows more slowly than income.</figcaption>
+</figure>
+
+
 ## 3 Investment (I)
 
 **Gross and net investment (item 3a).** Gross investment is total spending on capital goods. Net investment is gross investment minus depreciation (the wearing out of existing capital).
@@ -140,6 +162,17 @@ Output still grows in year 3 (2.86%, down from 5.0%) but net investment falls by
 **Policy to promote investment (item 3c).** The three listed tools are tax relief (for example allowing part of the cost of equipment to be set against tax), subsidies (direct payments that lower a project's cost) and cuts in the corporation tax rate.
 
 Evaluation points: all cost government revenue; some firms would have invested anyway (deadweight); effects take time; if firms are pessimistic or have spare capacity, lower costs may not persuade them; subsidies need the government to choose well; a lower rate of corporation tax helps only firms making profits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--03-gross-net-investment.webp" width="900" height="810" alt="Gross investment 150 is split into depreciation 90 and net investment 60. The capital stock grows from 1,800 to 1,860, up 3.33%." loading="lazy">
+  <figcaption>Net investment is gross investment minus depreciation, and only net investment raises capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
 
 ## 4 Government expenditure (G)
 
@@ -183,6 +216,17 @@ Here AD rises. With low elasticities the improvement could be small or negative,
 **Protectionism.** Tariffs, quotas and subsidies to domestic firms. If a partner raises tariffs on your exports, X falls. If you raise them, M falls but you may face retaliation and higher prices.
 
 **Non-price factors.** Quality, design, reliability, after-sales service, branding, delivery times and marketing affect demand at any given price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-demand-and-its-components--04-exchange-rate-net-trade.webp" width="900" height="1084" alt="Currency falls 2.00 to 1.60. Export price falls 20%, volume rises 30%, revenue 5.0 to 6.5. Import price rises 25%, volume falls 15%, spending 4.0 to 4.25." loading="lazy">
+  <figcaption>With these elasticities a lower exchange rate lifts the trade balance from +1.00 to +2.25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -66,6 +66,12 @@ Why it works: the product saturates the cold solution and crystallises. Soluble 
 - **Hot solvent vs cold wash.** Use the minimum of hot solvent to dissolve, and only a little ice-cold solvent to rinse.
 - **PAG5 vs PAG6.** PAG5 is the organic liquid (separating funnel, drying, redistillation); PAG6 is the organic solid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
+
 ## 6.2.5(b): Several functional groups in one molecule
 
 First name every group, then go through likely reagents one at a time.
@@ -111,6 +117,12 @@ Compound H is CH₃CH(OH)CH₂COOCH₃, methyl 3-hydroxybutanoate.
 | Primary or secondary amide | Acyl chloride + NH₃, or + primary amine |
 | Alcohol from carbonyl | NaBH₄ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+
 ### Method in steps
 
 1. List the groups in the start and target, and count carbons.
@@ -120,6 +132,22 @@ Compound H is CH₃CH(OH)CH₂COOCH₃, methyl 3-hydroxybutanoate.
 5. Make reactive groups such as NH₂ late in the route.
 6. Give reagents, conditions and every intermediate.
 7. Use any extra reaction the paper supplies exactly as given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
 
 ### More must-know distinctions
 

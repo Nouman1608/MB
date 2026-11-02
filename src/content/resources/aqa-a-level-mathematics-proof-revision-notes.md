@@ -82,6 +82,12 @@ For full explanations and longer worked proofs, use the [Proof study guide](/res
 
 **Inequalities "for all real x":** complete the square, then use (…)² ≥ 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--01-proof-anatomy.webp" width="900" height="680" alt="A 7 by 7 grid with a 5 by 5 square in one corner shows 7² − 5² = 24 left over. Beside it are the three parts of a proof: assume 2n+1 and 2n+3, show (2n+3)² − (2n+1)² = 8(n+1), conclude a multiple of 8 for every n. For n = 2 this is 49 − 25 = 24 = 8 × 3." loading="lazy">
+  <figcaption>A proof starts from stated assumptions, makes valid steps and ends with a conclusion that holds for every n.</figcaption>
+</figure>
+
+
 ### Exhaustion
 
 ```
@@ -104,6 +110,17 @@ The converse is false: 25 = 6 × 4 + 1 is of the form 6k + 1 but is not prime.
 
 **Testing for primes:** to show N is prime, check the primes up to √N. If none divides N, N is prime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--02-two-odd-letters.webp" width="900" height="820" alt="A 4 by 4 table shows p + q for odd p and q from 1, 3, 5, 7: all sixteen sums are even. The diagonal cells, where p = q, hold only 2, 6, 10 and 14, which is all that one letter 2n+1 used twice could cover. Using 2m+1 and 2n+1 gives 2(m+n+1) for every pair." loading="lazy">
+  <figcaption>Two different odd numbers need two different letters; using one letter only covers the diagonal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--03-remainder-lanes.webp" width="900" height="1075" alt="The integers 0 to 39 are arranged in four columns by remainder on division by 4. Squares sit only in the 4k and 4k+1 columns. Cubes (OCR only) sit in 4k, 4k+1 and 4k+3 but never 4k+2." loading="lazy">
+  <figcaption>Every integer lies in one of four remainder lanes, so four cases cover them all.</figcaption>
+</figure>
+
+
 ### Disproof by counter-example
 
 ```
@@ -112,6 +129,17 @@ The converse is false: 25 = 6 × 4 + 1 is of the form 6k + 1 but is not prime.
 3. Show the conclusion fails.
 4. State: "so the statement is false."
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
+  <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
+</figure>
+
 
 ### Contradiction
 
@@ -123,6 +151,22 @@ The converse is false: 25 = 6 × 4 + 1 is of the form 6k + 1 but is not prime.
 ```
 
 **Reminder:** there is no largest even integer. Assume N is the largest even integer. Then N + 2 is even and N + 2 > N. Contradiction, so there is no largest even integer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--08-infinite-primes.webp" width="900" height="880" alt="Six primes 2 to 13 each leave remainder 1 into N = 30031. N = 59 × 509, two primes not on the list. N need not be prime, only have a prime factor missing from the list." loading="lazy">
+  <figcaption>Multiplying the listed primes and adding 1 always yields a prime factor not on the list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--09-multiple-of-three-gap.webp" width="900" height="690" alt="On a number line from 93 to 108 the multiples of 3 are filled. 6m + 9n = 3(2m + 3n) is always one of them, but 100 = 3 × 33 + 1 sits between 99 and 102, so no integers m, n exist." loading="lazy">
+  <figcaption>Every value of 6m + 9n is a multiple of 3, and 100 is not.</figcaption>
+</figure>
+
 
 ## The two named proofs
 

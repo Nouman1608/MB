@@ -26,6 +26,12 @@ and for a paper-by-paper exam-day plan see the
 
 Because the mathematical exploration is worth a full 20% at both levels -- at SL that's half of Paper 1 or Paper 2 (40% each), while at HL it's two-thirds of Paper 1 or Paper 2 (30% each) and exactly the same weighting as Paper 3 (20%) -- and is completed over an extended period rather than under exam-day time pressure, it is one of the most controllable parts of the final grade if started early. A rushed exploration written in the final weeks before the deadline rarely reaches the same standard as one drafted, reviewed against the criteria, and revised at least once, so treating the exploration's first draft deadline as seriously as an exam date is a genuinely effective way to protect this portion of the grade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes--02-ai-assessment-weightings.webp" width="900" height="890" alt="Stacked bars: SL is Paper 1 40% (1.5 h), Paper 2 40% (1.5 h) and exploration 20%. HL is Paper 1 30% (2 h), Paper 2 30% (2 h), Paper 3 20% (1 h 15 min) and exploration 20%." loading="lazy">
+  <figcaption>Bar widths show each component's share of the final grade.</figcaption>
+</figure>
+
+
 ## SL vs HL
 
 | Component | SL | HL |
@@ -42,10 +48,22 @@ The current course's Paper 3 duration is 1 hour 15 minutes, per the live examina
 **Technology is permitted on every paper, including Paper 1** — reflecting the course's focus on
 real-world modelling and data-rich problems, unlike Analysis and Approaches' no-technology Paper 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes--03-ai-technology-rules.webp" width="900" height="880" alt="Applications and Interpretation allows technology on Paper 1, Paper 2 and, at HL, Paper 3. Analysis and Approaches has a no-technology Paper 1. Practise with your GDC or software because the papers assume it." loading="lazy">
+  <figcaption>Paper 1 is where the two mathematics courses differ on technology.</figcaption>
+</figure>
+
+
 ## The mathematical exploration
 
 - Internally assessed, worth **20% at both SL and HL**.
 - An independent investigation into **an area of mathematics** chosen by the student -- the same definition used in Analysis and Approaches. This course's applied character makes a real dataset or real-world context a natural choice, but it is not a stated requirement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes--04-ai-exploration-criteria.webp" width="900" height="920" alt="Five criteria surround the student's own investigation: presentation, mathematical communication, personal engagement, reflection and use of mathematics. A tightly scoped question developed in depth generally scores higher than a broad one." loading="lazy">
+  <figcaption>The exploration is internally assessed, worth 20% at SL and HL.</figcaption>
+</figure>
+
 
 ## Why technology-everywhere matters more than it first appears
 
@@ -62,6 +80,12 @@ Both DP mathematics courses are assessed to the same demanding IB standard and c
 ## Command terms across the papers
 
 As with every DP subject, command terms signal the depth of response expected: **calculate**, **find** and **write down** point to a direct computational answer; **hence** or **hence or otherwise** require building on a previous part of the same question; **interpret** and **comment on** require connecting a mathematical result back to the real-world context the question describes -- a step students sometimes skip, losing marks even when the underlying calculation is correct. Since this course is explicitly framed around applying mathematics to real situations, questions ending in **interpret** or **in context** appear more frequently here than in a purely abstract mathematics course, and should be revised as a distinct skill from the calculation itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes--05-ai-command-terms.webp" width="900" height="920" alt="Three stepped boxes: calculate, find and write down need a direct answer; hence and hence or otherwise build on the previous part; interpret and comment on link the result to the real-world context, a distinct skill." loading="lazy">
+  <figcaption>Interpret and comment on need a link back to the context.</figcaption>
+</figure>
+
 
 ## Exam traps
 

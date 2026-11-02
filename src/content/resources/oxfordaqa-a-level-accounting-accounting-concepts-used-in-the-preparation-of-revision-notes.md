@@ -55,6 +55,17 @@ Memory hook: three concepts deal with **what** is recorded (money measurement, b
 three with **value** (historic cost, going concern, prudence), three with **timing** (accruals, realisation,
 consistency over time), and duality with **how** it is recorded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
+  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
+</figure>
+
+
 ## 3.1.5 Concepts applied to the named situations
 
 | Situation in the specification | Main concepts | Typical exam task |
@@ -66,6 +77,12 @@ consistency over time), and duality with **how** it is recorded.
 | Recording the purchase of non-current assets | Historic cost, accruals, materiality | Split capital and revenue expenditure |
 | Recording transactions in ledger accounts | Duality, business entity, money measurement | Write the double entry and name the concept |
 | Goods sold on a sale or return basis | Realisation, prudence | Remove unaccepted goods from sales; add to inventory at cost |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -83,6 +100,12 @@ $14 but need
 $4 of re-labelling and postage.
 NRV = 14 - 4 = 10, below cost, so value = 36 × 10 = 360 dollars, a write-down of 36.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+
 ### Sale or return at the year end
 
 Identify goods still on approval: not accepted and the return date not passed. Then:
@@ -97,6 +120,12 @@ With a mark-up of m% on cost, cost = selling price / (1 + m/100).
 
 Goods the customer has already accepted stay in revenue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--08-sale-or-return.webp" width="900" height="1010" alt="Goods with selling price 6,000 pounds and cost 4,000 are sent to a customer who has not accepted them by the year end. Revenue and trade receivables each fall by 6,000 and closing inventory rises by 4,000 at cost, so profit falls by 2,000, from 38,500 to 36,500." loading="lazy">
+  <figcaption>Until the customer accepts, goods on sale or return are inventory at cost, not revenue.</figcaption>
+</figure>
+
+
 ### Capital or revenue expenditure
 
 ```
@@ -105,6 +134,12 @@ Capital (asset account): price, carriage in, fitting, alterations made
 Revenue (income statement): anything that keeps the asset running:
   servicing, repairs, power, fuel, insurance, consumable parts
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
 
 ### Ledger entries: which concept decides?
 
@@ -179,6 +214,12 @@ unpaid expenses). Write the concept beside each line.
 9. **Going concern** (assets should be at cost less depreciation).
 10. (18,400 - 1,600) / 7 = **2,400 dollars per year**; accruals (cost matched to the years that benefit).
 11. **Duality**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -53,6 +53,12 @@ In words, with price up the side and output along the bottom, marginal revenue l
 
 Because fixed costs are large, average cost falls up to output 90 (it is 18.9 cu there). One firm serving the market is cheaper than two, which is why the state regulates rather than breaks the firm up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--01-firm-m-monopoly.webp" width="900" height="970" alt="Firm M: MR = MC at 45 units gives price 55 and profit 1,225; efficient output is 90 units; the gold triangle is the 1,012.5 cu welfare loss." loading="lazy">
+  <figcaption>The monopolist restricts output to 45 units, leaving a welfare loss of 1,012.5 cu.</figcaption>
+</figure>
+
+
 ## 1b: Controlling monopolies and mergers
 
 **Price regulation.** The regulator caps price. Setting it at marginal cost (10 cu) is efficient but Firm M would lose its 800 cu fixed costs. A cap equal to average cost works better. Solve 100 - Q = 10 + 800/Q, so Q squared - 90Q + 800 = 0 and Q = 80 (the smaller root, 10, is not used). Then P = 20 cu, average cost = 10 + 800/80 = 20, profit is zero and the deadweight loss falls to 0.5 x (90 - 80) x (20 - 10) = 50 cu.
@@ -77,6 +83,22 @@ A common form is a price cap that rises each year by the inflation rate minus an
 
 Total surplus edges up because of the cost saving, yet consumers lose heavily (price up 62.5%). The verdict depends on whether authorities weigh consumers or total surplus, and on whether the savings are real.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--02-price-cap-at-average-cost.webp" width="900" height="920" alt="A cap where demand meets average cost gives 80 units at price 20 and zero profit; the welfare loss shrinks to 50 cu, whereas a cap at MC would cost Firm M its 800 cu fixed costs." loading="lazy">
+  <figcaption>Capping price at average cost nearly closes the welfare loss while letting the firm break even.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--03-merger-with-cost-savings.webp" width="900" height="1100" alt="Competitive output 60 at price 40 becomes 35 at price 65 after the merger lowers MC to 30. Consumer surplus falls from 1,800 to 612.5, profit is 1,225 and total surplus edges up to 1,837.5." loading="lazy">
+  <figcaption>A merger can raise total surplus slightly while consumers lose heavily.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--10-regulator-profit-performance.webp" width="900" height="760" alt="Profit capped at an 8% return on 5,000 of capital allows 400, so 200 of a 600 profit is excess. A target of under 5% late deliveries on revenue of 10,000 pays +200 at 3% late and costs -300 at 8% late." loading="lazy">
+  <figcaption>Regulators can limit the rate of return and reward or penalise performance against targets.</figcaption>
+</figure>
+
+
 ## 1c: Promoting competition and contestability
 
 A market is **contestable** when entry and exit are cheap, because sunk costs are low. Even a single firm then holds its price down, since a rival could enter and leave ("hit and run").
@@ -87,6 +109,12 @@ A market is **contestable** when entry and exit are cheap, because sunk costs ar
 - **Competitive tendering for public sector contracts.** Firms bid to supply a service. Four bids for a cleaning contract currently costing 125 cu in-house: 120, 112, 105 and 98. The lowest saves 27 cu (21.6%). A weighted score can include quality: 60% on price score (lowest bid divided by bid x 100) and 40% on a quality score. With quality scores of 90, 80, 70 and 50, the scores are 85.0, 84.5, 84.0 and 80.0, so the dearest bid wins. Price-only tendering would pick the weakest quality.
 - **Trade liberalisation.** Removing tariffs and quotas exposes domestic firms to imports. If a 20% tariff on a world price of 50 cu is removed, the domestic price falls from 60 to 50, down 16.7%. With price elasticity of demand of -1.2, quantity rises 20%. Domestic firms that cannot match the price may shut.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--12-tender-scores.webp" width="900" height="880" alt="Four bids of 120, 112, 105 and 98 with quality scores 90, 80, 70 and 50 are scored 60% price and 40% quality. Scores are 85.0, 84.5, 84.0 and 80.0, so the dearest bid wins although the lowest saves 27 (21.6%)." loading="lazy">
+  <figcaption>A weighted score stops price-only tendering from choosing the weakest quality.</figcaption>
+</figure>
+
+
 ## 1d: Protecting suppliers and employees
 
 - **Local sourcing of raw materials and components.** Rules require firms to buy a share locally. If a firm needs 1,000 units, imports cost 8 cu and local items 10 cu, a 40% rule raises cost from 8,000 to 8,800 (up 10%), while local suppliers gain 4,000 cu of sales. It guards jobs but raises costs and may invite retaliation.
@@ -94,6 +122,17 @@ A market is **contestable** when entry and exit are cheap, because sunk costs ar
 - **Barriers to entry of foreign firms.** Quotas, licences or ownership caps protect new domestic firms. Infant industry case: costs of 70 cu against a rival's 50 fall 8% a year, so after 4 years they are 50.1 and after 5 years 46.1. Protection must last about 5 years, and weak firms may never catch up.
 - **Restrictions on the monopsony power of firms.** A monopsony is a single powerful buyer. Farmers' supply is P = 4 + 0.2Q and the processor's marginal revenue product is 40 - 0.2Q. Competition gives Q = 90 and P = 22. The monopsonist's marginal cost of buying is 4 + 0.4Q, so Q = 60 and P = 16, with farmers' price 27% lower and output 33% lower. A minimum buying price of 18 raises the quantity to 70, because supply at that price is 70 and the processor still values the last unit at 26. Price and quantity both rise, so this improves on the monopsony result.
 - **Nationalisation.** The state takes ownership. It can protect jobs and essential services and pursue wider aims than profit. Cost: compensation, say 10 million shares at 12 cu, or 120 million cu. If the business then earns 6 million a year (5%), that beats borrowing at 4% (4.8 million) but not at 6% (7.2 million). Risks: weak cost control and political interference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--04-monopsony-minimum-price.webp" width="900" height="1150" alt="A single buyer sets MC of buying equal to MRP at 60 units and pays 16; competition gives 90 units at 22; a minimum price of 18 raises quantity to 70." loading="lazy">
+  <figcaption>A minimum buying price can lift both price and quantity above the monopsony outcome.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--13-infant-industry-cost.webp" width="900" height="870" alt="A home firm with cost 70 falling 8% a year is plotted against a rival at 50. Cost is 50.1 after 4 years and 46.1 after 5, so about 5 years of protection are needed." loading="lazy">
+  <figcaption>Infant-industry protection must last until costs fall to the rival level.</figcaption>
+</figure>
+
 
 ## 1e: Impact on price, profit, efficiency, quality and choice
 
@@ -118,6 +157,12 @@ Direction depends on how strong the measure is. Give a reason for each arrow.
 - **Lack of regulatory power.** The regulator cannot compel data, enforce fines or act against firms operating abroad.
 
 A strong answer weighs the cost of failing to act against the cost of acting badly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--14-limits-to-intervention.webp" width="900" height="740" alt="If Firm M reports fixed costs of 1,064 not 800, the average-cost cap is 24 against true cost 20.5, an extra profit of 264 equal to the overstated cost. A cartel gaining 350 is not deterred by a 200 fine at 40% detection (expected 80); the fine must exceed 875." loading="lazy">
+  <figcaption>Weak information and weak enforcement let firms keep gains the regulator meant to remove.</figcaption>
+</figure>
+
 
 ## Common errors
 

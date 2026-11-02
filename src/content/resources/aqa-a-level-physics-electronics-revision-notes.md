@@ -59,12 +59,24 @@ For full explanations and worked examples, use the [study guide](/resources/aqa-
 
 Only the inverting amplifier needs a derivation. The specification says the LC, non-inverting, summing and difference results are not to be derived.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--06-two-source-kirchhoff.webp" width="900" height="1100" alt="Two branches (12 V with 3.0 ohm, 8.0 V with 2.0 ohm) share a 2.0 ohm resistor. The junction law and two loop equations give I1 = 2.0 A, I2 = 1.0 A and 3.0 A through the shared resistor, with 6.0 V across it. Power from sources (32 W) equals power in the resistors (12 + 2 + 18 W)." loading="lazy">
+  <figcaption>Solving a two-source circuit with Kirchhoff laws and checking energy.</figcaption>
+</figure>
+
+
 ## 3.13.1 Devices in one line each
 
 - **MOSFET (N-channel, enhancement mode only)**: drain, source, gate. Insulated gate, so **very high input resistance**. Off for V_GS < V_th; on above V_th. V_DS is drain–source pd. I_DSS is the data-sheet drain current with V_GS = 0 (a tiny leakage current for an enhancement device).
 - **Zener diode**: anode and cathode; used reverse biased. Conducts at the **breakdown voltage** V_Z if the current is above the **minimum operating current**. With a series resistor: constant voltage source and reference voltage (use as a stabiliser not required).
 - **Photodiode**: reverse biased (photoconductive mode); reverse current rises with light intensity. **Spectral response curve**: response against wavelength, with a peak and a long-wavelength cut-off. Optical detector; with a **scintillator** it detects particles.
 - **Hall effect sensor**: output depends on magnetic flux density. Attitude monitoring; tachometer (one pulse per turn). Principles not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -193,6 +205,12 @@ Only the inverting amplifier needs a derivation. The specification says the LC, 
 - Confusing duty cycle with mark-to-space ratio.
 - Writing 2Δf + f_M for FM bandwidth.
 - Describing internal gate circuits, which are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

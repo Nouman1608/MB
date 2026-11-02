@@ -42,6 +42,12 @@ This guide is written for section 4.8 (4.8.1 to 4.8.5, inflation and deflation) 
 
 Another way to say the same thing: when prices rise, each unit of money buys less, so the purchasing power of money falls. In deflation it buys more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+
 ## 4.8.2 Measurement using the Consumer Prices Index
 
 The **Consumer Prices Index (CPI)** tracks the cost of a typical household's spending. Statisticians pick a **basket** of the goods and services households commonly buy, record their prices regularly, and combine them into one number.
@@ -76,6 +82,17 @@ Step 3: a single item's index is its price relative. If an item cost 4.00 in the
 Step 4: show a falling index as deflation. If Country B's (illustrative) CPI falls from 100 to 97.6, the rate is (97.6 - 100) / 100 x 100 = **-2.4%**. The minus sign is part of the answer.
 
 **Limits of the CPI.** It is an average, so it may not match your own spending. Weights are fixed from survey evidence and become out of date. Quality improvements and new products are hard to capture. It tells you nothing about which groups are hit hardest unless you compare their spending patterns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--01-cpi-weighted-basket.webp" width="900" height="850" alt="Two stacked bars for illustrative Country A. Each segment is a category weight times its price index divided by 100. Year 1 segments: food 32.4, housing 26.0, transport 22.4, clothing 9.8, other 15.75, total CPI 106.35. Year 2 segments: 34.5, 27.0, 24.0, 10.0, 16.5, total 112.0. The inflation rate is the percentage change in the CPI, (112.0 minus 106.35) divided by 106.35 times 100, which is 5.3 percent." loading="lazy">
+  <figcaption>Weighted segments add up to the CPI in each year and the inflation rate is the percentage change in the CPI: 106.35 to 112.0 is 5.3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
 
 ## 4.8.3 Causes of inflation and deflation
 
@@ -116,6 +133,22 @@ Exchange rate version: imports are 30% of a firm's costs and the currency apprec
 - **Supply-side deflation** comes from rising total supply or lower costs: new technology, higher productivity, cheaper raw materials or cheaper imports. Total supply rises, so output rises and prices fall. This can be healthy because output and employment grow at the same time.
 
 The two types differ in what happens to output. Demand-side deflation usually goes with falling output and rising unemployment. Supply-side deflation goes with rising output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--02-cost-share-pass-through.webp" width="900" height="800" alt="Two pairs of stacked columns, each starting at total cost 100. Left: wages are 40 of 100 and rise 10 percent to 44, so total cost becomes 104, a 4 percent rise (40 percent times 10 percent). If a bakery passes this on, prices rise by about 4 percent, which is cost-push inflation. Right: imports are 30 of 100 and the currency rises 10 percent, so import cost in local currency is 30 divided by 1.10, 27.3, a fall of 9.09 percent. Total cost falls to 97.3, down about 2.7 percent." loading="lazy">
+  <figcaption>A cost rise changes total cost by its share times its change: wages 40% x 10% = 4%; imports 30% x -9.09% = -2.7%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--10-inflation-causes-chains.webp" width="900" height="820" alt="Two chains in words, without aggregate demand and supply curves. Demand-pull: tax cut, consumption rises, total demand rises, price level rises. Cost-push: costs rise, total supply falls, firms pass costs on, price level rises." loading="lazy">
+  <figcaption>Inflation starts either with rising total demand (demand-pull) or with rising costs (cost-push).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--11-deflation-causes-chains.webp" width="900" height="780" alt="Demand-side deflation follows falling demand and usually brings falling output and jobs. Supply-side deflation follows rising supply and lower costs, so output rises and it can be healthy." loading="lazy">
+  <figcaption>The two types of deflation differ in what happens to output.</figcaption>
+</figure>
+
 
 ## 4.8.4 Consequences of inflation and deflation
 
@@ -158,6 +191,22 @@ Reverse the story for a lender who charges a fixed 4% when inflation is 7%: the 
 
 A firm owes 50,000 on a fixed loan. The price level falls by 2.4%. Its debt is still 50,000 in money, but in base-period prices it is 50,000 / 0.976 = about 51,230. The firm repays more real value than it borrowed, a burden of roughly 1,230, while its own selling prices are falling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--03-real-wage-and-real-interest.webp" width="900" height="1020" alt="Two sets of horizontal bars from a zero line. Worker: nominal pay rises 4 percent, prices rise 6 percent, so the real wage falls about 1.9 percent (exact 1.04 divided by 1.06 minus 1). Saver: 8,000 earns 2.5 percent interest while prices rise 4 percent, so real interest is about minus 1.5 percent. The balance becomes 8,200 in money but only about 7,885 in last year’s prices." loading="lazy">
+  <figcaption>When prices rise faster than pay or interest, the real wage and real interest rate are negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--04-deflation-debt-burden.webp" width="900" height="740" alt="A price-level box shows a fall of 2.4 percent, from 100 to 97.6. Two bars compare a fixed loan of 50,000 in money with the same debt in base-period prices, 50,000 divided by 0.976, about 51,230. The hatched extra part is about 1,230, the added real burden. The firm’s own selling prices are also falling." loading="lazy">
+  <figcaption>A fixed 50,000 debt is worth about 51,230 in base-period prices after a 2.4% fall in prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--12-inflation-deflation-effects.webp" width="900" height="860" alt="A grid of consumers, workers, savers, lenders, firms and the economy against inflation and deflation. Each cell is marked gain, lose or mixed with a short reason taken from the lesson tables." loading="lazy">
+  <figcaption>Inflation mostly hurts consumers, savers and lenders; deflation helps savers and lenders but hurts firms and jobs.</figcaption>
+</figure>
+
+
 ## 4.8.5 Policies to control inflation and deflation
 
 Policies work mainly by changing total demand or total supply.
@@ -186,6 +235,12 @@ Policies work mainly by changing total demand or total supply.
 5. **Size and scope.** A small open economy may find its price level driven by world prices and its exchange rate.
 
 A balanced conclusion names the cause, chooses a policy and states one limit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--13-inflation-policies.webp" width="900" height="890" alt="Five policies against inflation with what each acts on and its main limit: fiscal and monetary policy lower demand, supply-side policy lowers costs, a stronger currency lowers import prices, and direct controls hold prices down. A note says to match the policy to the cause and that deflation policies are the reverse." loading="lazy">
+  <figcaption>Each policy acts on a different part of the economy and has its own limit.</figcaption>
+</figure>
+
 
 ## Common errors
 

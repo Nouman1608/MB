@@ -45,6 +45,22 @@ Related pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [printabl
 
 Memory aid for the order: use any sentence of your own whose words start M, V, E, M, J, S, U, N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--06-moon-dwarf-planet-comet.webp" width="900" height="960" alt="Three panels compare a moon, a dwarf planet and a comet. The Moon is about a quarter of its planet’s diameter and orbits the planet. A dwarf planet is smaller than a planet and orbits the Sun. A comet is ice and dust on a long stretched path, close to the Sun only briefly. Schematic, not to scale." loading="lazy">
+  <figcaption>Size and motion of a moon, a dwarf planet and a comet (schematic).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--07-galaxies-milky-way.webp" width="900" height="940" alt="The Universe is shown as many galaxies, with the Milky Way highlighted. A zoom shows the Milky Way as a spiral of stars with our Sun as one star on an arm. Not to scale." loading="lazy">
+  <figcaption>The Universe is made of galaxies of stars; our Sun is one star in the Milky Way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+
 ## Satellites (3.8.2 c)
 
 | | Natural satellite | Artificial satellite |
@@ -57,6 +73,12 @@ Memory aid for the order: use any sentence of your own whose words start M, V, E
 |---|---|---|
 | Geostationary | Above the equator, about 36 000 km up, period 24 hours, same direction as Earth's spin, stays over one point | Communications, television |
 | Low polar | A few hundred kilometres up, over both poles, period about an hour and a half, Earth turns beneath it | Weather, mapping, whole-surface coverage |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--09-satellite-orbits.webp" width="900" height="1310" alt="Top view of a geostationary orbit about 36 000 km up: satellite and Earth both turn 90 degrees in 6 hours so a dish stays pointed. Low polar orbit takes about 1.5 hours; in that time Earth turns about 23 degrees so each orbit covers a new strip." loading="lazy">
+  <figcaption>Geostationary satellites stay over one point; polar satellites scan new ground each orbit.</figcaption>
+</figure>
+
 
 ## Gravity, centripetal force and acceleration (3.8.2 d, e)
 
@@ -73,6 +95,12 @@ Method for an explanation question:
 2. State that it is at right angles to the motion.
 3. Velocity is a vector, so a change of direction is a change of velocity.
 4. A change of velocity is acceleration, with no change of speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## Orbital speed and radius (3.8.2 f, g)
 
@@ -101,6 +129,12 @@ Choosing an orbit for a job:
 
 Always use the radius from the centre of the Earth, not the height above the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--08-orbital-speed-radius.webp" width="900" height="1010" alt="Two circular orbits to the same scale. A at 6.78e6 m moves at 7660 m/s and B at 1.25e7 m at 5650 m/s, with arrow length proportional to speed. Larger radius means lower speed and longer orbit time. The Moon moves at about 1020 m/s." loading="lazy">
+  <figcaption>A larger orbital radius goes with a lower orbital speed.</figcaption>
+</figure>
+
+
 ## Doppler effect (3.8.3 a)
 
 | Source relative to observer | Observed wavelength | Observed frequency |
@@ -111,6 +145,12 @@ Always use the radius from the centre of the Earth, not the height above the sur
 - Applies to sound, light and microwaves.
 - Wave speed = frequency × wavelength still holds for the observed wave.
 - Sound reminder: a siren at 500 Hz in air at 340 m/s has wavelength 340 / 500 = 0.68 m. If the observer hears 540 Hz, the wavelength heard is 340 / 540 = 0.630 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--10-doppler-siren.webp" width="900" height="1170" alt="Three sound waves with the same length scale. At rest 700 Hz gives 0.486 m, approaching 760 Hz gives 0.447 m (shorter), receding 650 Hz gives 0.523 m (longer)." loading="lazy">
+  <figcaption>A source moving towards you shortens the wavelength; moving away lengthens it.</figcaption>
+</figure>
+
 
 ## Red shift and the Big Bang (3.8.3 b)
 
@@ -125,12 +165,34 @@ Worked reminder: a spectral line has a laboratory wavelength of 486.0 nm. It is 
 
 Distinction to keep: red shift is evidence that the universe is expanding. CMBR is evidence of a hot early universe. Use both when asked about evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--11-red-shift-galaxies.webp" width="900" height="1180" alt="The 434.0 nm line in the lab and in galaxies P, Q, R, S at 40, 90, 150 and 260 million light-years appears at 435.3, 436.9, 438.8 and 442.2 nm. Shifts 1.3, 2.9, 4.8 and 8.2 nm grow with distance and speed (900 to 5700 km/s)." loading="lazy">
+  <figcaption>Further galaxies show a bigger red shift and move away faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--12-expanding-space.webp" width="900" height="1150" alt="Five dots on a stretching surface, space doubling. From dot A the other dots end up twice as far, so more distant dots move further. From dot C dots on both sides move away. No dot is the centre." loading="lazy">
+  <figcaption>Space stretching makes every dot move away from every other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+
 ## CMBR and age (3.8.3 c, d)
 
 - CMBR is electromagnetic radiation, in the microwave region, filling the universe.
 - It comes from radiation left over from soon after the universe began.
 - Currently only the Big Bang theory explains CMBR.
 - Age of the universe: about 14 thousand million years (1.4 × 10¹⁰ years).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--09-cmbr-age-universe.webp" width="900" height="960" alt="A timeline runs from the Big Bang to now, about 1.4 × 10^10 years. Circles show the universe growing, the largest filled with microwaves (CMBR). Red shift shows expansion; CMBR is left over from soon after the start. Schematic." loading="lazy">
+  <figcaption>The universe is about 1.4 × 10^10 years old; red shift and CMBR are the two pieces of evidence.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

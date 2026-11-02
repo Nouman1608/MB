@@ -49,6 +49,12 @@ A **movement along** the curve happens when the general price level alters. The 
 
 A **shift** of the curve is caused by anything other than the price level that changes the cost or capacity of producing output. Costs fall: SRAS shifts right (more output at every price level). Costs rise: SRAS shifts left. Never say a change in the price level shifts AS.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
+
 ## Short-run AS (2.3.3 item 2)
 
 The short run is the period in which at least one factor of production, usually capital, is fixed. SRAS responds to unit costs.
@@ -62,6 +68,22 @@ Worked example. Country A's firms buy a fuel priced at 40 units of foreign curre
 **Tax rates.** Taxes that firms pay as a cost of employing people or selling goods raise costs.
 
 Worked example. A small bakery employs 50 people at 400 a week each, so wages are 20,000. Employer tax rises from 10% to 12% of wages: the bill goes from 2,000 to 2,400, up 400 a week, or 8 per worker. Total weekly cost rises from 22,000 to 22,400, a rise of about 1.8%. Spread across many firms, SRAS shifts left. Lower employer taxes would shift it right. Link tax to costs in your answer; do not simply say "tax goes up so supply falls".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--05-fuel-depreciation-sras.webp" width="900" height="900" alt="Fuel costs 80 home units a tonne at 0.50 and 100 at 0.40, up 25%. With fuel 30% of costs, unit costs rise 7.5% and SRAS shifts left." loading="lazy">
+  <figcaption>A 25% rise in fuel cost, with fuel 30% of costs, raises unit costs about 7.5%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--01-employer-tax-bakery.webp" width="900" height="830" alt="Two stacked bars: wages 20,000 plus employer tax 2,000 (10%) is 22,000; after the rise to 12% the tax is 2,400 and the total 22,400. The extra cost is 400 a week, 8 per worker, about 1.8%." loading="lazy">
+  <figcaption>A higher employer tax raises unit costs, which shifts SRAS to the left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## Long-run AS (2.3.3 item 3)
 
@@ -106,6 +128,27 @@ The same AD boost has a different mix of output and price effects depending on w
 
 Worked example. Country C has 40 million workers producing 960 billion (24,000 each). Later, net migration lifts employment to 42 million, and productivity rises to 25,000 each. Output = 42m × 25,000 = 1,050 billion, up 9.375%. The workforce grew 5% and productivity 4.17% (25,000 ÷ 24,000 − 1), and 1.05 × 1.0417 = 1.09375. LRAS shifts right, and with unchanged AD, the equilibrium price level falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--06-keynesian-numbers.webp" width="900" height="1000" alt="Country B curve: flat at price 50 to output 600, rising to 130 at 1,000, then vertical. Three AD boosts show output and price effects in each section." loading="lazy">
+  <figcaption>The same AD boost has different output and price effects depending on the section of the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## The circular flow of income and wealth (2.3.4 item 1)
 
 The circular flow shows money, goods and services moving around the economy. Households supply labour and other factors to firms and receive income (wages, rent, interest, profit). Firms produce goods and services; households spend income on them. The flow is **income = output = expenditure**, which links to the idea of national income and AD.
@@ -115,6 +158,17 @@ The basic model adds **withdrawals** (leakages) that take money out of the flow 
 **Income and wealth.** Income is a **flow**: an amount received per period, such as per year. Wealth is a **stock**: what you own, valued on one date, such as property, shares and savings. Saving takes some income and adds it to wealth.
 
 Worked example. A household has income of 30,000 a year and wealth of 90,000. If it saves 10% of income, it adds 3,000 to wealth, giving 93,000 (assuming asset prices are unchanged). The two measures are not the same: a retired person may have low income and high wealth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--02-income-wealth-stock-flow.webp" width="900" height="880" alt="Income of 30,000 a year flows in; 27,000 is spent and 3,000 (10%) is saved into a tank of wealth, which rises from 90,000 to 93,000." loading="lazy">
+  <figcaption>Income is a flow per period; wealth is a stock on one date, and saving adds to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
 
 ## Injections and withdrawals (2.3.4 item 2)
 
@@ -129,6 +183,12 @@ The distinction is whether money enters the circular flow of spending on domesti
 **Net effect.** When J > W (a net injection), spending on domestic output exceeds the income leaving the flow, so output tends to rise. When W > J (a net withdrawal), output tends to fall. When J = W, the flow is stable.
 
 Worked example. Country D's flows (illustrative, cu billion): S = 120, T = 150, M = 130 so W = 400. I = 110, G = 160, X = 120 so J = 390. Net withdrawal = −10. Check with AD: consumption of all goods = income − S − T = 1,000 − 270 = 730. AD = 730 + 110 + 160 + 120 − 130 = 990, which is less than output of 1,000. Unsold output of 10 pushes firms to cut production. If G rises by 40, J = 430, net injection = +30, and output tends to rise. How much it rises depends on the multiplier, covered in its own unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--07-injections-withdrawals-d.webp" width="900" height="850" alt="Stacked bars: withdrawals 120+150+130=400, injections 110+160+120=390, and 430 after G rises 40. AD is 990 against output 1,000." loading="lazy">
+  <figcaption>A net withdrawal of 10 leaves output unsold, and a 40 rise in G makes a net injection of 30.</figcaption>
+</figure>
+
 
 ## Equilibrium real output (2.3.4 item 3)
 
@@ -154,6 +214,12 @@ Worked example (illustrative). AD: output = 1,400 − 4P. SRAS: output = 800 + 4
 With classical LRAS at output 1,200, AD (1,400 − 4P) gives long-run price level 50. If LRAS shifts to 1,260, price level falls to 35.
 
 **Evaluation chain.** A rise in AD raises output only if there is spare capacity. If the economy is on Keynesian section 1 or 2, output rises; on classical or section 3, prices rise. The time period matters, as does whether the shift is expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--08-equilibrium-shifts.webp" width="900" height="990" alt="AD and SRAS meet at price 75, output 1,100. A cost shock gives price 85, output 1,060. An AD rise of 80 gives price 85, output 1,140." loading="lazy">
+  <figcaption>A cost shock and an AD rise both lift the price level to 85 but move output in opposite directions.</figcaption>
+</figure>
+
 
 ## Common errors
 

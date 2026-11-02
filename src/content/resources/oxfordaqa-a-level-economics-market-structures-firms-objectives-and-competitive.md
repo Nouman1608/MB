@@ -58,6 +58,12 @@ Real markets sit on a spectrum, so use the words "closest to" or "has features o
 
 **Why structure affects behaviour.** A grain farm that charges above the market price loses its customers, so it takes the price. A mobile network with a large share must consider how rivals react to every price change, and it may spend heavily on advertising. A salon competes on style and convenience as well as price. The structure sets the pressures the firm faces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--07-un228-market-spectrum.webp" width="900" height="930" alt="Four markets from grain (400 farms, identical, easy entry) to hair salons (30), mobile networks (4 firms) and the water pipe network (1 firm, entry blocked), with entry barrier meters." loading="lazy">
+  <figcaption>Markets sit on a spectrum from many firms with easy entry to one firm with blocked entry.</figcaption>
+</figure>
+
+
 ## 3.1.4.2 The objectives of firms
 
 **Profit** is total revenue minus total costs: profit = TR − TC, where TR = price × quantity. For most firms, profit is an important objective because it rewards owners and pays for investment. The specification names other objectives: **survival**, **growth** and **increasing market share**. Different objectives lead to different decisions.
@@ -105,6 +111,22 @@ Alder loses £9,000 if it keeps producing. If it stopped producing and still had
 
 **Evaluation.** Objectives are not fixed. A new firm may seek growth, then switch to profit when established. Growth can also serve profit in the long run if it brings lower unit costs. Firms with several owners or managers may disagree on objectives, and that is a reason the specification asks only for an awareness of the variety.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--04-alder-two-plans.webp" width="900" height="940" alt="Bars compare two plans. Revenue is 40,000 for Plan 1 and 54,400 for Plan 2, up 36%. Profit is 3,000 and 2,400, down 20%. Market share is 6.25% and 10%, up 3.75 percentage points." loading="lazy">
+  <figcaption>Plan 2 raises sales and share but lowers profit; which plan is chosen depends on the firm's objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--05-alder-break-even.webp" width="900" height="928" alt="Total revenue and total cost lines against chairs. They cross at 400 chairs and 32,000. Below that is a loss, above it a profit. At 500 chairs profit is 3,000." loading="lazy">
+  <figcaption>Revenue and total cost cross at 400 chairs; at 500 chairs Alder makes the 3,000 profit of Plan 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--06-alder-survival.webp" width="900" height="780" alt="At a price of 56 producing loses 9,000 against 12,000 for stopping, so keep producing. At 48, below variable cost of 50, producing loses 13,000 against 12,000, so stop." loading="lazy">
+  <figcaption>In the short run a firm should keep producing while price covers variable cost, because stopping still costs the fixed 12,000.</figcaption>
+</figure>
+
+
 ## 3.1.4.3 Competitive markets
 
 A **perfectly competitive market** is an extreme case with these main characteristics:
@@ -151,6 +173,22 @@ In a market dominated by a few large firms, barriers to entry stop this adjustme
 | Barriers to entry | Higher barriers: fewer new rivals, less competition. Examples: high start-up costs, legal protection, strong brand loyalty, existing firms' cost advantages from scale |
 | Product differentiation | More differentiation: each firm has some control over its price |
 | Information | Better-informed buyers can switch more easily, so firms face tougher competition |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--07-grain-entry-price.webp" width="900" height="974" alt="Demand rises so price goes from 20 to 22 and quantity from 200 to 240. At average cost 20 supernormal profit is 480 thousand. Entry shifts supply right, price falls to 20 and quantity rises to 320." loading="lazy">
+  <figcaption>A demand rise lifts the price to 22; entry shifts supply right and the price returns to 20 with output 320.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--08-un228-profit-per-sack.webp" width="900" height="870" alt="Stacked bars of price per sack: competitive short run price 22 with cost 20 and profit 2 (240k sold, 480k); long run price 20, profit 0 (320k); few big firms price 21, cost 16, profit 5 (280k, 1,400k)." loading="lazy">
+  <figcaption>Lower costs let a concentrated market earn more profit even at a 5% higher price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--04-perfect-competition.webp" width="900" height="1180" alt="Two illustrative diagrams of a price-taking firm producing where MC = MR. In the short run price 9 exceeds ATC at output 25.4, giving supernormal profit. Entry then pushes price down to 6, the minimum of ATC at output 20, leaving only normal profit." loading="lazy">
+  <figcaption>Free entry competes supernormal profit away, leaving price equal to ATC in the long run.</figcaption>
+</figure>
+
 
 ## Common errors
 
